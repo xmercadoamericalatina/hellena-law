@@ -1,0 +1,11 @@
+{
+  "endpoint": "https://api.github.com/markdown",
+  "metodo": "POST renderiza sempersistirarquivo",
+  "context": "ctresb/leis",
+  "http": 200,
+  "entrada": "<p>Valor <u>240$000</u>.</p>\n\n<table><tr><td><u>18:105$651</u></td></tr></table>",
+  "saida": "github-render-underline.html",
+  "sha256_saida": "4378b2d007eb86d94e899a6975a07b9d6a7f61d12ef941a498a4cd476ed20dd1",
+  "resultado": "GitHub sanitiza u nos dois contextos, removendo a tag; Cmarkunsafe só não comprova superfície publicada.",
+  "limite": "Esta prova verifica resposta de renderizaçãoGFMdaAPIoficial, não inspeçãoCSSdenavegador ouaceitealternativocomins."
+}

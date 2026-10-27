@@ -1,0 +1,144 @@
+{
+  "escopo": "Três tentativas de recuperação por coletâneas oficiais que remetem o suplemento ao DOU, mantendo os estados de pendência anteriores. Não altera MDs ou máscaras.",
+  "registros": [
+    {
+      "numero": "90570",
+      "ano": "1984",
+      "fonte_coletanea": "federal/_fonte/auditorias/clbr_modelos_20261021_001/1984-parte2.pdf",
+      "sha256_coletanea": "91039bdc9f9ef874c2a49353d723b241f8b70a25b9a0cfc89f49e0c9fdb08447",
+      "pagina_pdf": 1886,
+      "pagina_impressa": "363",
+      "limite": "A coletânea consultada remete o suplemento ao DOU e não o reproduz. Não prova ausência em outras publicações.",
+      "fonte_url": "https://bd.camara.leg.br/bd/bitstreams/41bfc585-7db0-4380-86ea-d9271cb0c3b2/download",
+      "captura": {
+        "nome": "1984-parte2",
+        "url": "https://bd.camara.leg.br/bd/bitstreams/41bfc585-7db0-4380-86ea-d9271cb0c3b2/download",
+        "status": 200,
+        "headers": {
+          "server": "envoy",
+          "date": "Wed, 21 Oct 2026 06:46:37 GMT",
+          "content-type": "Adobe/PDF;charset=UTF-8",
+          "content-length": "67444789",
+          "vary": "Origin,Access-Control-Request-Method,Access-Control-Request-Headers",
+          "content-language": "en",
+          "last-modified": "Tue, 18 Nov 2014 19:46:42 GMT",
+          "etag": "\"3ccc88d4c49cb27372aa9d4944248dae\"",
+          "accept-ranges": "bytes",
+          "expires": "Wed, 21 Oct 2026 07:46:37 GMT",
+          "cache-control": "private,no-cache",
+          "access-control-expose-headers": "Accept-Ranges",
+          "content-disposition": "attachment;filename=\"colecao_leis_1984_parte2.pdf\"",
+          "x-content-type-options": "nosniff",
+          "x-xss-protection": "0",
+          "strict-transport-security": "max-age=31536000 ; includeSubDomains",
+          "x-frame-options": "DENY",
+          "x-envoy-upstream-service-time": "175",
+          "connection": "close"
+        },
+        "url_final": "https://bd-rest.camara.leg.br/server/api/core/bitstreams/41bfc585-7db0-4380-86ea-d9271cb0c3b2/content",
+        "path": "federal/_fonte/auditorias/clbr_modelos_20261021_001/1984-parte2.pdf",
+        "sha256": "91039bdc9f9ef874c2a49353d723b241f8b70a25b9a0cfc89f49e0c9fdb08447",
+        "bytes": 67444789
+      },
+      "prova_pagina": {
+        "path": "federal/_provas_remessas_clbr_dou_20261021_001/90570-clbr-p363.pdf",
+        "sha256": "9e53a2fae7611c04a7030f5ad7e06847d22a748ce073659d8fce5680461cfa68"
+      },
+      "nota_literal_conferida_no_facsimile": "O Quadro Demonstrativo está publicado no D.O. de 28-11-84.",
+      "estado": "continua_retido_aguarda_suplemento_em_outra_publicacao",
+      "observacao": "O fac-símile desta página foi inspecionado. A remessa ao DOU foi comprovada; o suplemento ainda não foi recuperado. Esta é evidência de limite da fonte alternativa, sem nova conclusão de inexistência."
+    },
+    {
+      "numero": "96035",
+      "ano": "1988",
+      "fonte_coletanea": "federal/_fonte/auditorias/clbr_modelos_20261021_002/1988.pdf",
+      "sha256_coletanea": "23efe57302dbe76748675a5c76cf50b5a757a92fbfd14eae7ecb28a49df8d9a7",
+      "pagina_pdf": 642,
+      "pagina_impressa": "170",
+      "limite": "A coletânea consultada remete o suplemento ao DOU e não o reproduz. Não prova ausência em outras publicações.",
+      "fonte_url": "https://bd.camara.leg.br/bd/bitstreams/85d49ab4-b10b-4a76-be27-14df8c1d3777/download",
+      "captura": {
+        "url": "https://bd.camara.leg.br/bd/bitstreams/85d49ab4-b10b-4a76-be27-14df8c1d3777/download",
+        "status": 200,
+        "headers": {
+          "server": "envoy",
+          "date": "Wed, 21 Oct 2026 07:04:17 GMT",
+          "content-type": "Adobe/PDF;charset=UTF-8",
+          "content-length": "79137454",
+          "vary": "Origin,Access-Control-Request-Method,Access-Control-Request-Headers",
+          "content-language": "en",
+          "last-modified": "Mon, 17 Nov 2014 18:52:15 GMT",
+          "etag": "\"9671bf3b9984f2854ce6ed753fe8f89a\"",
+          "accept-ranges": "bytes",
+          "expires": "Wed, 21 Oct 2026 08:04:17 GMT",
+          "cache-control": "private,no-cache",
+          "access-control-expose-headers": "Accept-Ranges",
+          "content-disposition": "attachment;filename=\"colleccao_leis_1988_parte2.pdf\"",
+          "x-content-type-options": "nosniff",
+          "x-xss-protection": "0",
+          "strict-transport-security": "max-age=31536000 ; includeSubDomains",
+          "x-frame-options": "DENY",
+          "x-envoy-upstream-service-time": "66",
+          "connection": "close"
+        },
+        "url_final": "https://bd-rest.camara.leg.br/server/api/core/bitstreams/85d49ab4-b10b-4a76-be27-14df8c1d3777/content",
+        "path": "federal/_fonte/auditorias/clbr_modelos_20261021_002/1988.pdf",
+        "sha256": "23efe57302dbe76748675a5c76cf50b5a757a92fbfd14eae7ecb28a49df8d9a7",
+        "bytes": 79137454
+      },
+      "prova_pagina": {
+        "path": "federal/_provas_remessas_clbr_dou_20261021_001/96035-clbr-p170.pdf",
+        "sha256": "33d8f87a1b5d14cdfdac3b5317bb8039d48fa60a9291e48a2d152e85ab217b64"
+      },
+      "nota_literal_conferida_no_facsimile": "O anexo está publicado no DOU de 12-5-88.",
+      "estado": "continua_retido_aguarda_suplemento_em_outra_publicacao",
+      "observacao": "O fac-símile desta página foi inspecionado. A remessa ao DOU foi comprovada; o suplemento ainda não foi recuperado. Esta é evidência de limite da fonte alternativa, sem nova conclusão de inexistência."
+    },
+    {
+      "numero": "77464",
+      "ano": "1976",
+      "fonte_coletanea": "federal/_fonte/auditorias/clbr_modelos_20261021_002/1976.pdf",
+      "sha256_coletanea": "68c12ef98aa2c70a20b8c3b1816b7d9a3a46c7b3dc446e513e7a67309ec42c82",
+      "pagina_pdf": 630,
+      "pagina_impressa": "104",
+      "limite": "A coletânea consultada remete o suplemento ao DOU e não o reproduz. Não prova ausência em outras publicações.",
+      "fonte_url": "https://bd.camara.leg.br/bd/bitstreams/9cae7082-6902-4d0b-ba5c-dd37c9efeb3b/download",
+      "captura": {
+        "url": "https://bd.camara.leg.br/bd/bitstreams/9cae7082-6902-4d0b-ba5c-dd37c9efeb3b/download",
+        "status": 200,
+        "headers": {
+          "server": "envoy",
+          "date": "Wed, 21 Oct 2026 07:04:35 GMT",
+          "content-type": "Adobe/PDF;charset=UTF-8",
+          "content-length": "95961821",
+          "vary": "Origin,Access-Control-Request-Method,Access-Control-Request-Headers",
+          "content-language": "en",
+          "last-modified": "Wed, 19 Nov 2014 12:02:16 GMT",
+          "etag": "\"cd2c2bda13441452e0d2254f12530756\"",
+          "accept-ranges": "bytes",
+          "expires": "Wed, 21 Oct 2026 08:04:35 GMT",
+          "cache-control": "private,no-cache",
+          "access-control-expose-headers": "Accept-Ranges",
+          "content-disposition": "attachment;filename=\"colecao_leis_1976_parte2.pdf\"",
+          "x-content-type-options": "nosniff",
+          "x-xss-protection": "0",
+          "strict-transport-security": "max-age=31536000 ; includeSubDomains",
+          "x-frame-options": "DENY",
+          "x-envoy-upstream-service-time": "36",
+          "connection": "close"
+        },
+        "url_final": "https://bd-rest.camara.leg.br/server/api/core/bitstreams/9cae7082-6902-4d0b-ba5c-dd37c9efeb3b/content",
+        "path": "federal/_fonte/auditorias/clbr_modelos_20261021_002/1976.pdf",
+        "sha256": "68c12ef98aa2c70a20b8c3b1816b7d9a3a46c7b3dc446e513e7a67309ec42c82",
+        "bytes": 95961821
+      },
+      "prova_pagina": {
+        "path": "federal/_provas_remessas_clbr_dou_20261021_001/77464-clbr-p104.pdf",
+        "sha256": "c8e0f733ad081a87606aa93ed607f0617a18834fbd65c54c307ae75bf17d58c4"
+      },
+      "nota_literal_conferida_no_facsimile": "O anexo mencionado no presente decreto foi publicado no Diário Oficial de 22-4-76.",
+      "estado": "continua_retido_aguarda_suplemento_em_outra_publicacao",
+      "observacao": "O fac-símile desta página foi inspecionado. A remessa ao DOU foi comprovada; o suplemento ainda não foi recuperado. Esta é evidência de limite da fonte alternativa, sem nova conclusão de inexistência."
+    }
+  ]
+}

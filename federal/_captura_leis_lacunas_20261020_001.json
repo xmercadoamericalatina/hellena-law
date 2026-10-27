@@ -1,0 +1,910 @@
+{
+  "escopo": "Captura limitada de 99 lacunas reais de leis ordinárias, sem concorrência com outro coletor. Os metadados não contêm encoding; nenhuma ementa foi convertida em corpo normativo.",
+  "resumo": {
+    "candidatos": 99,
+    "respostas_metadados_obtidas": 99,
+    "fontes_texto_integral_obtidas": 0,
+    "publicaveis": 0,
+    "retidos_sem_corpo": 99,
+    "falhas_http": 0,
+    "bloqueio": false
+  },
+  "retidos": [
+    {
+      "path": "federal/leis-ordinarias/1873/lei-2348-1873-08-25.md",
+      "urn": "urn:lex:br:federal:lei:1873-08-25;2348",
+      "id_senado": "544140",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "6cb85d7897f52a0762b13ddbf86da4610d4271559fc46c7c17ff37359c34aceb",
+      "data_indice": "25/08/1873",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1873-08-25;2348"
+    },
+    {
+      "path": "federal/leis-ordinarias/1920/lei-3991-1920-01-05.md",
+      "urn": "urn:lex:br:federal:lei:1920-01-05;3991",
+      "id_senado": "30812833",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "8cd4e651e8f35d73419f39f42063b92d643875ae5a8081d27f55dcca7c53f3e2",
+      "data_indice": "05/01/1920",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1920-01-05;3991"
+    },
+    {
+      "path": "federal/leis-ordinarias/1913/lei-2828-1913-12-11.md",
+      "urn": "urn:lex:br:federal:lei:1913-12-11;2828",
+      "id_senado": "30815527",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "7ca4d83925019fbfffeadc3a869907cccd0489334722f2da04da8edd6cb7db84",
+      "data_indice": "11/12/1913",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1913-12-11;2828"
+    },
+    {
+      "path": "federal/leis-ordinarias/1919/lei-3979-1919-12-31.md",
+      "urn": "urn:lex:br:federal:lei:1919-12-31;3979",
+      "id_senado": "30815409",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "6f415162768da8c6d347a2e22362a87fd214ce59421daafe7efc69ab708e6cb7",
+      "data_indice": "31/12/1919",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1919-12-31;3979"
+    },
+    {
+      "path": "federal/leis-ordinarias/1918/lei-3454-1918-01-06.md",
+      "urn": "urn:lex:br:federal:lei:1918-01-06;3454",
+      "id_senado": "30815468",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "49f3457a1a054f5ff5d3645d28ed4276b132baad7df8e79129bc8baa2826ef9a",
+      "data_indice": "06/01/1918",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1918-01-06;3454"
+    },
+    {
+      "path": "federal/leis-ordinarias/1899/lei-581-1899-07-20.md",
+      "urn": "urn:lex:br:federal:lei:1899-07-20;581",
+      "id_senado": "30815615",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "65b73ebcbaaa27188db2cfdd35ebc2399d98a8155068ed066c6a38822d8c2cfe",
+      "data_indice": "20/07/1899",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1899-07-20;581"
+    },
+    {
+      "path": "federal/leis-ordinarias/1918/lei-3644-1918-12-31.md",
+      "urn": "urn:lex:br:federal:lei:1918-12-31;3644",
+      "id_senado": "30819574",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "f7793efe0405c581a50b17e1f7406b2cb3f351533d571c37b69567557c4bdeba",
+      "data_indice": "31/12/1918",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1918-12-31;3644"
+    },
+    {
+      "path": "federal/leis-ordinarias/1899/lei-579-1899-07-19.md",
+      "urn": "urn:lex:br:federal:lei:1899-07-19;579",
+      "id_senado": "30815579",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "8f586fc671f51aeb720ca55095aa4773612c8f78474f71b61745ead4c78ec9aa",
+      "data_indice": "19/07/1899",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1899-07-19;579"
+    },
+    {
+      "path": "federal/leis-ordinarias/1920/lei-4050-1920-01-13.md",
+      "urn": "urn:lex:br:federal:lei:1920-01-13;4050",
+      "id_senado": "30812726",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "ebcafc649edf71c72b6f4a44f6c3519d7c63e26f0c5a86e696ef97a6a12738be",
+      "data_indice": "13/01/1920",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1920-01-13;4050"
+    },
+    {
+      "path": "federal/leis-ordinarias/1921/lei-4242-1921-01-05.md",
+      "urn": "urn:lex:br:federal:lei:1921-01-05;4242",
+      "id_senado": "546087",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "cab54b1cc307bf26887aa995d290cae35c463caa1616d63b4f2f3dfb9c6c2bb2",
+      "data_indice": "05/01/1921",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1921-01-05;4242"
+    },
+    {
+      "path": "federal/leis-ordinarias/1922/lei-4489-1922-01-18.md",
+      "urn": "urn:lex:br:federal:lei:1922-01-18;4489",
+      "id_senado": "30819515",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "dd86b73e1da7fb1894d5607d9de9311a849332fd1e05fdf73c97e0cbc48e4977",
+      "data_indice": "18/01/1922",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1922-01-18;4489"
+    },
+    {
+      "path": "federal/leis-ordinarias/1922/lei-4625-1922-12-31.md",
+      "urn": "urn:lex:br:federal:lei:1922-12-31;4625",
+      "id_senado": "30812591",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "11200314a133afcb0f9cc1fd056a1f558774113558e3888beb9f16b03d247841",
+      "data_indice": "31/12/1922",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1922-12-31;4625"
+    },
+    {
+      "path": "federal/leis-ordinarias/1923/lei-4632-1923-01-06.md",
+      "urn": "urn:lex:br:federal:lei:1923-01-06;4632",
+      "id_senado": "30819408",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "47e6c8f63f9baac8c1cc682693c644dd019266cb5b363be57b25f49a2f0f11e6",
+      "data_indice": "06/01/1923",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1923-01-06;4632"
+    },
+    {
+      "path": "federal/leis-ordinarias/1923/lei-4771-1923-12-21.md",
+      "urn": "urn:lex:br:federal:lei:1923-12-21;4771",
+      "id_senado": "30812465",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "d87180d59038d90a9b7cbeb6ffa88c9f0cb17cf16ee7aa9f64434ceb221119aa",
+      "data_indice": "21/12/1923",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1923-12-21;4771"
+    },
+    {
+      "path": "federal/leis-ordinarias/1924/lei-4793-1924-01-07.md",
+      "urn": "urn:lex:br:federal:lei:1924-01-07;4793",
+      "id_senado": "30819301",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "44f242de502f1ae069d1134cc75c1ce39e49b1a7f3456d42a95f4bcd353cb19b",
+      "data_indice": "07/01/1924",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1924-01-07;4793"
+    },
+    {
+      "path": "federal/leis-ordinarias/1925/lei-4984-1925-12-31.md",
+      "urn": "urn:lex:br:federal:lei:1925-12-31;4984",
+      "id_senado": "30812319",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "158eb4601864f8d4957d35dedc226e389dcb83681546c0c015d10139bdb79743",
+      "data_indice": "31/12/1925",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1925-12-31;4984"
+    },
+    {
+      "path": "federal/leis-ordinarias/1925/lei-4985-1925-12-31.md",
+      "urn": "urn:lex:br:federal:lei:1925-12-31;4985",
+      "id_senado": "30819191",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "d810c8165d4105d9d501a94ad3c3443b247c376a8e182f7210a62d0c78801777",
+      "data_indice": "31/12/1925",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1925-12-31;4985"
+    },
+    {
+      "path": "federal/leis-ordinarias/1926/lei-5127-1926-12-31.md",
+      "urn": "urn:lex:br:federal:lei:1926-12-31;5127",
+      "id_senado": "30812260",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "f83e87d5c0221de0861b335932422e5069f974191087f7ec7b8e5ed367da2184",
+      "data_indice": "31/12/1926",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1926-12-31;5127"
+    },
+    {
+      "path": "federal/leis-ordinarias/1928/lei-5542-1928-09-27.md",
+      "urn": "urn:lex:br:federal:lei:1928-09-27;5542",
+      "id_senado": "30819088",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "0bc92bf140f6ba9d0848270d61b0602ae435466dfece0755b4eb8f4affce12dc",
+      "data_indice": "27/09/1928",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1928-09-27;5542"
+    },
+    {
+      "path": "federal/leis-ordinarias/1934/lei-5-1934-11-12.md",
+      "urn": "urn:lex:br:federal:lei:1934-11-12;5",
+      "id_senado": "30817790",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "5d1a0a7ff67147846526e30235b65d1b98bfd3585885fae09f49af2d1414a548",
+      "data_indice": "12/11/1934",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1934-11-12;5"
+    },
+    {
+      "path": "federal/leis-ordinarias/1934/lei-11-1934-12-12.md",
+      "urn": "urn:lex:br:federal:lei:1934-12-12;11",
+      "id_senado": "30812142",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "6189caf7e8f4e57d07c99a66e0d49b2f4cb00e87d9f670bd5e8e680567457bc5",
+      "data_indice": "12/12/1934",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1934-12-12;11"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-244-1936-09-11.md",
+      "urn": "urn:lex:br:federal:lei:1936-09-11;244",
+      "id_senado": "30812032",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "96fc65013de1931c90ef00cc470eced834be18ecd903982f81726cb5cfc4504a",
+      "data_indice": "11/09/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-09-11;244"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-245-1936-09-14.md",
+      "urn": "urn:lex:br:federal:lei:1936-09-14;245",
+      "id_senado": "30817705",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "e3028fac2ea617c03afc57f1b1840dcdbc531bb0e3f0ab3c3402088e3f0afef3",
+      "data_indice": "14/09/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-09-14;245"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-248-1936-09-16.md",
+      "urn": "urn:lex:br:federal:lei:1936-09-16;248",
+      "id_senado": "30811914",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "9a8be68037fff5db2cb8aa9ce08b4425a70e0ba652b70c672fb7ab7890c1b7b5",
+      "data_indice": "16/09/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-09-16;248"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-246-1936-09-16.md",
+      "urn": "urn:lex:br:federal:lei:1936-09-16;246",
+      "id_senado": "30811973",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "41a9cda04f68546d50f1d0a84732933dbbc8edeb1f0b087a2a8b154e12eae742",
+      "data_indice": "16/09/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-09-16;246"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-247-1936-09-16.md",
+      "urn": "urn:lex:br:federal:lei:1936-09-16;247",
+      "id_senado": "30817669",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "d790bcc48e26ebc823e2ca7f2e66da0b5c3f6713e476007b07d7629825c4fa71",
+      "data_indice": "16/09/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-09-16;247"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-249-1936-09-19.md",
+      "urn": "urn:lex:br:federal:lei:1936-09-19;249",
+      "id_senado": "30817633",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "694db345888fde495497c42c3839661765ee406925b856a6bf2c31d05eb6914d",
+      "data_indice": "19/09/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-09-19;249"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-251-1936-09-21.md",
+      "urn": "urn:lex:br:federal:lei:1936-09-21;251",
+      "id_senado": "30811855",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "1c4b9aff7373fec61771abd784fec2603bab3dbd4f60a51e1e883f559b6d2ece",
+      "data_indice": "21/09/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-09-21;251"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-250-1936-09-21.md",
+      "urn": "urn:lex:br:federal:lei:1936-09-21;250",
+      "id_senado": "30817597",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "b089860b5c326d75aa9e86a492e461c637f9de73ac01f5d34256abb5b92f4ef0",
+      "data_indice": "21/09/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-09-21;250"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-252-1936-09-22.md",
+      "urn": "urn:lex:br:federal:lei:1936-09-22;252",
+      "id_senado": "30811737",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "a4ba36b731cb819ab4d19e1de49773455654b0b5ed98d43993579e159ae5c842",
+      "data_indice": "22/09/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-09-22;252"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-253-1936-09-25.md",
+      "urn": "urn:lex:br:federal:lei:1936-09-25;253",
+      "id_senado": "30811796",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "fb7ccbaeaddd6d00d6200cce22dd29fdc569f83ebaede09ada83f7910ac6bddc",
+      "data_indice": "25/09/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-09-25;253"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-255-1936-09-25.md",
+      "urn": "urn:lex:br:federal:lei:1936-09-25;255",
+      "id_senado": "30817442",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "a1aba530e7f897a94ee4cafac1ef81a8966e7e467e4d10f0ea4279037ca3484c",
+      "data_indice": "25/09/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-09-25;255"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-256-1936-09-28.md",
+      "urn": "urn:lex:br:federal:lei:1936-09-28;256",
+      "id_senado": "30817322",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "8d88fd9faf8c3cc001199a62db3dada5ab42eaafae01ad0c456d26fb2abcb8e5",
+      "data_indice": "28/09/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-09-28;256"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-254-1936-09-25.md",
+      "urn": "urn:lex:br:federal:lei:1936-09-25;254",
+      "id_senado": "30817493",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "fdefc584210486d86868722d7c4d20894c9fad20dfade290d6acef503c4f31b2",
+      "data_indice": "25/09/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-09-25;254"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-257-1936-09-29.md",
+      "urn": "urn:lex:br:federal:lei:1936-09-29;257",
+      "id_senado": "30811634",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "7937c5a3668e6927aad67f2a6be47469e6b1af93933ade6927cb3d338719fbf5",
+      "data_indice": "29/09/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-09-29;257"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-259-1936-10-01.md",
+      "urn": "urn:lex:br:federal:lei:1936-10-01;259",
+      "id_senado": "30811485",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "f73a32c86922dd814b7a4801382be4a55a29099e924a736458cb69818859064d",
+      "data_indice": "01/10/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-10-01;259"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-289-1936-10-29.md",
+      "urn": "urn:lex:br:federal:lei:1936-10-29;289",
+      "id_senado": "541456",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "0fb3c9478a06fe496bba58b9d6782d010bd67f0e8f3f00d859db3f70796c2753",
+      "data_indice": "29/10/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-10-29;289"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-294-1936-11-05.md",
+      "urn": "urn:lex:br:federal:lei:1936-11-05;294",
+      "id_senado": "30817141",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "67cca32a0fb73a61f7315a38476faee242fad4abb18e5a6eba11023321c1bd87",
+      "data_indice": "05/11/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-11-05;294"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-312-a-1936-11-21.md",
+      "urn": "urn:lex:br:federal:lei:1936-11-21;312-a",
+      "id_senado": "30811433",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "09e5d4db8851751b744fb9fe0825119e8ad666dcede322b4c8f95e2f0b6e9c70",
+      "data_indice": "21/11/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-11-21;312-a"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-354-1936-12-29.md",
+      "urn": "urn:lex:br:federal:lei:1936-12-29;354",
+      "id_senado": "541596",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "58418c7bf2b427e30a9606505c950973edc171880442276ddd9970a9b766bcd9",
+      "data_indice": "29/12/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-12-29;354"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-355-1936-12-29.md",
+      "urn": "urn:lex:br:federal:lei:1936-12-29;355",
+      "id_senado": "541598",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "88183e247bfe2d2215d28f332bba4a45564d063d9a8e6348482ae5d50988e63e",
+      "data_indice": "29/12/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-12-29;355"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-356-1936-12-29.md",
+      "urn": "urn:lex:br:federal:lei:1936-12-29;356",
+      "id_senado": "541600",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "2541bddf8d243b50d7423f0fe74b703048e6c22cf5833163e65de2530c57f3cf",
+      "data_indice": "29/12/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-12-29;356"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-357-1936-12-29.md",
+      "urn": "urn:lex:br:federal:lei:1936-12-29;357",
+      "id_senado": "541602",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "5e7c1ca0755de0a5ff6b88ca391589c18d9049b6e5e741705f6bcf7e0a6c0d99",
+      "data_indice": "29/12/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-12-29;357"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-358-1936-12-29.md",
+      "urn": "urn:lex:br:federal:lei:1936-12-29;358",
+      "id_senado": "541604",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "256616e04c555b64a1ed9f247c39b8c2d4c04f87998e5ede9d09323a735e2b1a",
+      "data_indice": "29/12/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-12-29;358"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-359-1936-12-30.md",
+      "urn": "urn:lex:br:federal:lei:1936-12-30;359",
+      "id_senado": "541607",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "c9113fb4bf52249ac9e655baf45ed77c6ebf0ea72e864140982fd37987d72950",
+      "data_indice": "30/12/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-12-30;359"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-360-1936-12-30.md",
+      "urn": "urn:lex:br:federal:lei:1936-12-30;360",
+      "id_senado": "541610",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "a3049a6903cb848dc7068d565295c4295dfb042558a803acafe4384f462ffbe4",
+      "data_indice": "30/12/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-12-30;360"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-258-1936-09-30.md",
+      "urn": "urn:lex:br:federal:lei:1936-09-30;258",
+      "id_senado": "30817223",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "b46d85ae26714079c86c48a406ffd5fc0a4264bb966f5ebf4f0b1a5d6ccfa8c2",
+      "data_indice": "30/09/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-09-30;258"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-361-1936-12-30.md",
+      "urn": "urn:lex:br:federal:lei:1936-12-30;361",
+      "id_senado": "541612",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "f1b096331ea816404cb42099efec37d0f8ece11bf20b244d7fb15b77f49c3b45",
+      "data_indice": "30/12/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-12-30;361"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-362-1936-12-30.md",
+      "urn": "urn:lex:br:federal:lei:1936-12-30;362",
+      "id_senado": "541614",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "978569dc520a28d4f66716bf31ef58e9346437ab2276c11c6a123ef22881fa7c",
+      "data_indice": "30/12/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-12-30;362"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-363-1936-12-30.md",
+      "urn": "urn:lex:br:federal:lei:1936-12-30;363",
+      "id_senado": "541616",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "eadd6bbcee52616d2cc41483cb41c0769a697cd4951ed89e5eb1c4edea72b3a2",
+      "data_indice": "30/12/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-12-30;363"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-364-1936-12-30.md",
+      "urn": "urn:lex:br:federal:lei:1936-12-30;364",
+      "id_senado": "541618",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "8f871000d19debe22ea1406ac6da9c0328cd7c69afbc244f9918bf698be222ae",
+      "data_indice": "30/12/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-12-30;364"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-365-1936-12-30.md",
+      "urn": "urn:lex:br:federal:lei:1936-12-30;365",
+      "id_senado": "541620",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "383c4310d4a450ba379f1125cdd3d8c26912b32a8bb8edcdfb9741723324cc35",
+      "data_indice": "30/12/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-12-30;365"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-367-1936-12-31.md",
+      "urn": "urn:lex:br:federal:lei:1936-12-31;367",
+      "id_senado": "541624",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "081efcc584e616284757e5b9ad6f6866e6c8fdf19f8e3f41a813e83d57f6d65d",
+      "data_indice": "31/12/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-12-31;367"
+    },
+    {
+      "path": "federal/leis-ordinarias/1936/lei-366-1936-12-30.md",
+      "urn": "urn:lex:br:federal:lei:1936-12-30;366",
+      "id_senado": "541622",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "45fa093904eb6e5f11aff5da76666fcbc988e7eb4d6e5a6670e6cc407563ab10",
+      "data_indice": "30/12/1936",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1936-12-30;366"
+    },
+    {
+      "path": "federal/leis-ordinarias/1947/lei-164-1947-12-05.md",
+      "urn": "urn:lex:br:federal:lei:1947-12-05;164",
+      "id_senado": "541196",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "a842c863b9de3cbecdb5ca3855ff8016e32c09ce45aebea9f045299463980a85",
+      "data_indice": "05/12/1947",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1947-12-05;164"
+    },
+    {
+      "path": "federal/leis-ordinarias/1821/lei-sn-1821-07-11-s17.md",
+      "urn": "urn:lex:br:federal:lei:1821-07-11;seq-sf-17",
+      "id_senado": "540778",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "dbb240b58ae29de0bbbf769b7297b3011d975f1cd5dee3257cedf25368fb48a9",
+      "data_indice": "11/07/1821",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1821-07-11;seq-sf-17"
+    },
+    {
+      "path": "federal/leis-ordinarias/1821/lei-sn-1821-07-16-s20.md",
+      "urn": "urn:lex:br:federal:lei:1821-07-16;seq-sf-20",
+      "id_senado": "540781",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "4e95bea906d05fc015963c82d21483fd68a19e3b8cfb235e124f70aae362a961",
+      "data_indice": "16/07/1821",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1821-07-16;seq-sf-20"
+    },
+    {
+      "path": "federal/leis-ordinarias/1821/lei-sn-1821-07-16-s19.md",
+      "urn": "urn:lex:br:federal:lei:1821-07-16;seq-sf-19",
+      "id_senado": "540779",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "55bfbf5dc8cbfb6af58bcac8daef70a26d2d14bb8bd03bde22675f77298e7f0e",
+      "data_indice": "16/07/1821",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1821-07-16;seq-sf-19"
+    },
+    {
+      "path": "federal/leis-ordinarias/1821/lei-sn-1821-08-23-s21.md",
+      "urn": "urn:lex:br:federal:lei:1821-08-23;seq-sf-21",
+      "id_senado": "540782",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "f3b6bc679b7ee0061a4740342ef7e4cdeb8db212f1eaa7e7517c1a5e6765ca60",
+      "data_indice": "23/08/1821",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1821-08-23;seq-sf-21"
+    },
+    {
+      "path": "federal/leis-ordinarias/1821/lei-sn-1821-10-01-s25.md",
+      "urn": "urn:lex:br:federal:lei:1821-10-01;seq-sf-25",
+      "id_senado": "540785",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "45d7c4bc84adde791ad4b63527d77c6918871a4de6d365b5feba57089331ba34",
+      "data_indice": "01/10/1821",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1821-10-01;seq-sf-25"
+    },
+    {
+      "path": "federal/leis-ordinarias/1821/lei-sn-1821-10-21-s26.md",
+      "urn": "urn:lex:br:federal:lei:1821-10-21;seq-sf-26",
+      "id_senado": "540786",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "9a061405b040ec5cc078c24d675a0a72a48f79268a9fc0f2fee01fd0c01c29c9",
+      "data_indice": "21/10/1821",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1821-10-21;seq-sf-26"
+    },
+    {
+      "path": "federal/leis-ordinarias/1821/lei-sn-1821-11-12-s28.md",
+      "urn": "urn:lex:br:federal:lei:1821-11-12;seq-sf-28",
+      "id_senado": "540789",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "e173586fbb51e1afc9a4f55561ca0e8d1c340924492a72b9e4eb96865a43bcea",
+      "data_indice": "12/11/1821",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1821-11-12;seq-sf-28"
+    },
+    {
+      "path": "federal/leis-ordinarias/1821/lei-sn-1821-11-19-s29.md",
+      "urn": "urn:lex:br:federal:lei:1821-11-19;seq-sf-29",
+      "id_senado": "540791",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "293d15aa0ded448fec090d1041bf686ccc799e90ff5ae602aa990e1d6478529b",
+      "data_indice": "19/11/1821",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1821-11-19;seq-sf-29"
+    },
+    {
+      "path": "federal/leis-ordinarias/1821/lei-sn-1821-12-19-s30.md",
+      "urn": "urn:lex:br:federal:lei:1821-12-19;seq-sf-30",
+      "id_senado": "540793",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "bb5c96ee17b021ff88cd7c536555d701fee079dbaec70ddb62a8477a25cf6493",
+      "data_indice": "19/12/1821",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1821-12-19;seq-sf-30"
+    },
+    {
+      "path": "federal/leis-ordinarias/1821/lei-sn-1821-12-28-s31.md",
+      "urn": "urn:lex:br:federal:lei:1821-12-28;seq-sf-31",
+      "id_senado": "540795",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "8863db9b48cda9d965b4a98780f27ff3164fb47f08e2ff7283af24bda4d3fbc6",
+      "data_indice": "28/12/1821",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1821-12-28;seq-sf-31"
+    },
+    {
+      "path": "federal/leis-ordinarias/1822/lei-sn-1822-01-13-s0.md",
+      "urn": "urn:lex:br:federal:lei:1822-01-13;seq-sf-0",
+      "id_senado": "30883203",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "ca0fb32db17a4e575dbea1e036b38394f2e0b3a39c1bf1386899906c7ed698ee",
+      "data_indice": "13/01/1822",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1822-01-13;seq-sf-0"
+    },
+    {
+      "path": "federal/leis-ordinarias/1826/lei-sn-1826-08-26-s2.md",
+      "urn": "urn:lex:br:federal:lei:1826-08-26;seq-sf-2",
+      "id_senado": "573027",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "15e495de353974dddc023e725801bb56d58ef845a7c5b600b78751198f3f4190",
+      "data_indice": "26/08/1826",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1826-08-26;seq-sf-2"
+    },
+    {
+      "path": "federal/leis-ordinarias/1826/lei-sn-1826-09-09-s4.md",
+      "urn": "urn:lex:br:federal:lei:1826-09-09;seq-sf-4",
+      "id_senado": "573037",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "11ff0ccb7c488e949a294d2e8cc1d3ad476c277efa5331d7c1366d070ab224ba",
+      "data_indice": "09/09/1826",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1826-09-09;seq-sf-4"
+    },
+    {
+      "path": "federal/leis-ordinarias/1826/lei-sn-1826-09-09-s3.md",
+      "urn": "urn:lex:br:federal:lei:1826-09-09;seq-sf-3",
+      "id_senado": "573035",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "d395d12b1bbd1e87091c3f36ed4117422d356f2cb3331c518aac5f62f3ab30c7",
+      "data_indice": "09/09/1826",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1826-09-09;seq-sf-3"
+    },
+    {
+      "path": "federal/leis-ordinarias/1826/lei-sn-1826-09-09-s5.md",
+      "urn": "urn:lex:br:federal:lei:1826-09-09;seq-sf-5",
+      "id_senado": "573040",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "3d4e77a82ce8e67e82c1a1f2557e1ee526c0ccd6a4326c7edf9e00d8fce9eb53",
+      "data_indice": "09/09/1826",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1826-09-09;seq-sf-5"
+    },
+    {
+      "path": "federal/leis-ordinarias/1826/lei-sn-1826-09-11-s7.md",
+      "urn": "urn:lex:br:federal:lei:1826-09-11;seq-sf-7",
+      "id_senado": "573042",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "626ed48509ce50361f9635480293e6b5959cd1eda16b60c1ec4d1db6062caf5f",
+      "data_indice": "11/09/1826",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1826-09-11;seq-sf-7"
+    },
+    {
+      "path": "federal/leis-ordinarias/1826/lei-sn-1826-09-13-s14.md",
+      "urn": "urn:lex:br:federal:lei:1826-09-13;seq-sf-14",
+      "id_senado": "573045",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "0be462723766a808d9b6ff7fcf4dae97bbaba3f22f2773e15368c0c6d45c7c3f",
+      "data_indice": "13/09/1826",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1826-09-13;seq-sf-14"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-08-11-s4.md",
+      "urn": "urn:lex:br:federal:lei:1827-08-11;seq-sf-4",
+      "id_senado": "573038",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "4a706960bc8e900474e04b61865dcd31c36061a73ebaa88e75882943b8f427d7",
+      "data_indice": "11/08/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-08-11;seq-sf-4"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-09-15-s11.md",
+      "urn": "urn:lex:br:federal:lei:1827-09-15;seq-sf-11",
+      "id_senado": "573043",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "ff7a0bd077e62f411ccb446ed6d9dd096b70c6588d2fcc4416381dfa652cf39b",
+      "data_indice": "15/09/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-09-15;seq-sf-11"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-09-15-s12.md",
+      "urn": "urn:lex:br:federal:lei:1827-09-15;seq-sf-12",
+      "id_senado": "573044",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "4685211e69ee7ca37b255158c173ac5468358a46938391f8f5615269ef41a5b0",
+      "data_indice": "15/09/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-09-15;seq-sf-12"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-09-25-s16.md",
+      "urn": "urn:lex:br:federal:lei:1827-09-25;seq-sf-16",
+      "id_senado": "540777",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "51a94b77d94734e565e906a8dd5d892241accba8efd74d2a7fa8bcd65f25083c",
+      "data_indice": "25/09/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-09-25;seq-sf-16"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-10-11-s19.md",
+      "urn": "urn:lex:br:federal:lei:1827-10-11;seq-sf-19",
+      "id_senado": "540780",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "63c13a63cfee68b405821dcaa868c77f16cd26ab320af6d1517a6912f0797e30",
+      "data_indice": "11/10/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-10-11;seq-sf-19"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-10-13-s21.md",
+      "urn": "urn:lex:br:federal:lei:1827-10-13;seq-sf-21",
+      "id_senado": "540783",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "34a9cbeaeeeca836f8e1028efe425872d75d85b15a13d4dabffe1a4520e1175d",
+      "data_indice": "13/10/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-10-13;seq-sf-21"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-10-15-s22.md",
+      "urn": "urn:lex:br:federal:lei:1827-10-15;seq-sf-22",
+      "id_senado": "540784",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "ab7c1e976929be70f5ddd41de2a1a31b1df79b2c3dd86ac9769afc7ebc0a0a2e",
+      "data_indice": "15/10/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-10-15;seq-sf-22"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-10-15-s26.md",
+      "urn": "urn:lex:br:federal:lei:1827-10-15;seq-sf-26",
+      "id_senado": "540787",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "b5db3ec58b5e3e5f16e0fe938b59dda9b1579228a83cb737a667cfca4b16d362",
+      "data_indice": "15/10/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-10-15;seq-sf-26"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-08-11-s5.md",
+      "urn": "urn:lex:br:federal:lei:1827-08-11;seq-sf-5",
+      "id_senado": "573041",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "45cfc7bd1fcdb72471f29cadb5bbd7fe6666b320fc8a28690467a37a5d03b6eb",
+      "data_indice": "11/08/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-08-11;seq-sf-5"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-10-22-s28.md",
+      "urn": "urn:lex:br:federal:lei:1827-10-22;seq-sf-28",
+      "id_senado": "540790",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "2405e085407956b1e3d4e23bc781b2a27c62f5d950882e05c1613608bc97d9ab",
+      "data_indice": "22/10/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-10-22;seq-sf-28"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-10-24-s30.md",
+      "urn": "urn:lex:br:federal:lei:1827-10-24;seq-sf-30",
+      "id_senado": "540794",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "0c9974e4e969c84679ea7c3a8974b77250352c1c06beaa8e200132938abc9ddd",
+      "data_indice": "24/10/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-10-24;seq-sf-30"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-10-25-s31.md",
+      "urn": "urn:lex:br:federal:lei:1827-10-25;seq-sf-31",
+      "id_senado": "540796",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "5141f4f5c50f56282d48b88150e0403b86dc8070bab2a7e0740aba8359796e5d",
+      "data_indice": "25/10/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-10-25;seq-sf-31"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-10-26-s32.md",
+      "urn": "urn:lex:br:federal:lei:1827-10-26;seq-sf-32",
+      "id_senado": "540797",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "a1c482b4ff27c4889106083c6d94d1632e6f29721e420f0bec848bb35ebb82fb",
+      "data_indice": "26/10/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-10-26;seq-sf-32"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-10-23-s29.md",
+      "urn": "urn:lex:br:federal:lei:1827-10-23;seq-sf-29",
+      "id_senado": "540792",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "0985b7035a4b930a3cd25c7bf1da83f7cb4128aa81537719ce091ea19ba4e330",
+      "data_indice": "23/10/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-10-23;seq-sf-29"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-11-03-s33.md",
+      "urn": "urn:lex:br:federal:lei:1827-11-03;seq-sf-33",
+      "id_senado": "540798",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "737d59046c15125dc8a853c54c68642b603e952fe7b2215b0bc661ec89867f12",
+      "data_indice": "03/11/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-11-03;seq-sf-33"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-11-05-s0.md",
+      "urn": "urn:lex:br:federal:lei:1827-11-05;seq-sf-0",
+      "id_senado": "540885",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "9466662aec38231eae97529ead98d2c7674edadfad95ff4a1396bb0955c95997",
+      "data_indice": "05/11/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-11-05;seq-sf-0"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-11-06-s36.md",
+      "urn": "urn:lex:br:federal:lei:1827-11-06;seq-sf-36",
+      "id_senado": "540800",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "311f68582be250c833ae3b52ca4870fbfa4bee0dbe6adadd0e6bb44513d9414f",
+      "data_indice": "06/11/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-11-06;seq-sf-36"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-11-06-s37.md",
+      "urn": "urn:lex:br:federal:lei:1827-11-06;seq-sf-37",
+      "id_senado": "540801",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "e046d76b0d44cb70a285ed3cdd570d182b8db6d7ae370666f68df384d8178251",
+      "data_indice": "06/11/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-11-06;seq-sf-37"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-11-06-s38.md",
+      "urn": "urn:lex:br:federal:lei:1827-11-06;seq-sf-38",
+      "id_senado": "540802",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "894dcebbdfa85231dec3c21f562f93625090a417c5001967a097c9082ea36b74",
+      "data_indice": "06/11/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-11-06;seq-sf-38"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-11-13-s44.md",
+      "urn": "urn:lex:br:federal:lei:1827-11-13;seq-sf-44",
+      "id_senado": "540803",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "917e767682c6a5e3b6f81495a32728d766b91632d6a847b744c55d393da316b2",
+      "data_indice": "13/11/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-11-13;seq-sf-44"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-11-13-s45.md",
+      "urn": "urn:lex:br:federal:lei:1827-11-13;seq-sf-45",
+      "id_senado": "540804",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "fd748af685b1700cd578ee4579488d78d821313ef3a06e7ffa9d64d8df5b5244",
+      "data_indice": "13/11/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-11-13;seq-sf-45"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-11-13-s46.md",
+      "urn": "urn:lex:br:federal:lei:1827-11-13;seq-sf-46",
+      "id_senado": "540805",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "a961c7ceaa10138c32e1620ae1a1f24d03c9fb4f20179d5e0b72c558d9f53519",
+      "data_indice": "13/11/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-11-13;seq-sf-46"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-11-14-s47.md",
+      "urn": "urn:lex:br:federal:lei:1827-11-14;seq-sf-47",
+      "id_senado": "540806",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "0943b7e3b5d8fe4cf32438211ea04186dc7523aa685e74f049a026984fea4f5f",
+      "data_indice": "14/11/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-11-14;seq-sf-47"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-11-15-s48.md",
+      "urn": "urn:lex:br:federal:lei:1827-11-15;seq-sf-48",
+      "id_senado": "540807",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "1ec283fec8668be7061ae577bd35dbce3de696623eca75cc81babef3c45d77fd",
+      "data_indice": "15/11/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-11-15;seq-sf-48"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-11-15-s54.md",
+      "urn": "urn:lex:br:federal:lei:1827-11-15;seq-sf-54",
+      "id_senado": "540808",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "f472a3528673e542c26394060c298dd2a4e150e3467f52d978eb14d9bf9c9f83",
+      "data_indice": "15/11/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-11-15;seq-sf-54"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-11-15-s56.md",
+      "urn": "urn:lex:br:federal:lei:1827-11-15;seq-sf-56",
+      "id_senado": "540810",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "551a370e63956e988a33bdc3ca8e2bf949b6230456976d68aebf2c01fa04ee2d",
+      "data_indice": "15/11/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-11-15;seq-sf-56"
+    },
+    {
+      "path": "federal/leis-ordinarias/1827/lei-sn-1827-11-27-s59.md",
+      "urn": "urn:lex:br:federal:lei:1827-11-27;seq-sf-59",
+      "id_senado": "540811",
+      "status": "Retido: metadados oficiais sem encoding ou corpo integral disponível pela API nesta captura.",
+      "sha256_metadados": "c6511c285956efe4deccc8570b69e93823d2572543dacb0ff9c695f95a6d0821",
+      "data_indice": "27/11/1827",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:lei:1827-11-27;seq-sf-59"
+    }
+  ],
+  "continuidade": "Buscar fontes oficiais alternativas legítimas; a indisponibilidade da API não comprova inexistência dos atos. Metas preservadas.",
+  "receipts": {
+    "path": "federal/_receipts_leis_lacunas_20261020_001.jsonl.gz",
+    "sha256": "f467a7f31494fdf15a73428141d3610aea17eeb1f47114ab0a4013d9334d1fc3"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "head": "b87168ecd03e0812126992e041bf3387d62e6750",
+  "indice_primario": 5831,
+  "consultas_dirigidas_preservadas": 5313,
+  "log_ok_acumulados": 5234,
+  "ultimo_terminal_ok": 4876,
+  "acervo_dpl": 5409,
+  "acervo_head": 2019,
+  "ultimo_terminal_presentes": 4876,
+  "ultimo_terminal_ja_head": 1486,
+  "proposta_verificada": 5,
+  "alertas": {
+    "outra fonte: separar auditoria Planalto/primária": 174,
+    "vigência boolean sem situação explícita": 3696,
+    "estrutura de tabela diverge da fonte": 236,
+    "conversão difere do core congelado atual": 236,
+    "menção de integralidade exige revisão contextual": 86,
+    "data própria do fecho não comprova identidade primária: []": 4,
+    "conteúdo visual exige revisão": 1
+  },
+  "pendencias_classes": {
+    "indice_busca_vazia": 30,
+    "data_fecho_ausente_ou_divergente": 160,
+    "tipo_legislativo_nao_comprovado": 132,
+    "busca_ambigua_ou_identidade_divergente": 24,
+    "texto_ausente_ou_insuficiente": 27,
+    "http_fonte": 94
+  },
+  "perfil": [
+    {
+      "path": "scripts/baixar_camara.py",
+      "sha256_arquivo": "c324bac52b60734f09f54124cd0fda13899e3aa40c4d9e76f390991223394a38",
+      "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/c324bac52b60734f09f54124cd0fda13899e3aa40c4d9e76f390991223394a38-baixar_camara.py"
+    },
+    {
+      "path": "scripts/baixar_federal.py",
+      "sha256_arquivo": "5496f37c130ddfe7798432098df8b859a54dbabd0798d157b7ebe4f6303b07d7",
+      "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/5496f37c130ddfe7798432098df8b859a54dbabd0798d157b7ebe4f6303b07d7-baixar_federal.py"
+    },
+    {
+      "path": "scripts/html2md.py",
+      "sha256_arquivo": "bb85371750359042e0636ae0adc206cb0c353c6b6586c8d46e60a5257633ed3c",
+      "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/bb85371750359042e0636ae0adc206cb0c353c6b6586c8d46e60a5257633ed3c-html2md.py"
+    },
+    {
+      "path": "scripts/comum.py",
+      "sha256_arquivo": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+      "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24-comum.py"
+    },
+    {
+      "path": "scripts/datas.py",
+      "sha256_arquivo": "0d6cdbc1113d5fe15a471aa8cde3eb1653d1e1484b0904a5a13b9ca10e1349fc",
+      "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/0d6cdbc1113d5fe15a471aa8cde3eb1653d1e1484b0904a5a13b9ca10e1349fc-datas.py"
+    },
+    {
+      "path": "_log_dpl_camara_dirigido.txt",
+      "sha256_arquivo": "c643d7086ba68ce5b1a95a199306b8aa3e0dff672e94e85475d6ffb46f403613",
+      "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/c643d7086ba68ce5b1a95a199306b8aa3e0dff672e94e85475d6ffb46f403613-_log_dpl_camara_dirigido.txt"
+    },
+    {
+      "path": "federal/_indice/camara-dpl-pendencias/indice.json",
+      "sha256_arquivo": "2df6a0078647e9f325ee10318090ce7ee012638578b42a8c25b4333b4dcf4ef7",
+      "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/2df6a0078647e9f325ee10318090ce7ee012638578b42a8c25b4333b4dcf4ef7-indice.json"
+    },
+    {
+      "path": "federal/_falhas_camara.jsonl",
+      "sha256_arquivo": "bb020c21f02755dfea313752063ca473bd5395fa4e90e5774a2d4bbee39da1c8",
+      "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/bb020c21f02755dfea313752063ca473bd5395fa4e90e5774a2d4bbee39da1c8-_falhas_camara.jsonl"
+    },
+    {
+      "path": "federal/_identidades_camara.json",
+      "sha256_arquivo": "87abcf2d017a4fa48799823e12a4928aba35c1edf80aaedf24983680fc14f07a",
+      "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/87abcf2d017a4fa48799823e12a4928aba35c1edf80aaedf24983680fc14f07a-_identidades_camara.json"
+    }
+  ],
+  "backup_md": {
+    "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/backup-md.jsonl.gz",
+    "sha256_arquivo": "7ad825bed6a70afb6700ce6566db78e6529e9bde8adc29ce78d9458cd46fae95",
+    "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/7ad825bed6a70afb6700ce6566db78e6529e9bde8adc29ce78d9458cd46fae95-backup-md.jsonl.gz"
+  },
+  "limites": [
+    "Não altera MD,script,Git nem consulta rede.",
+    "Decisão legislativa exige fórmula própria e identidade primária; conflitos retidos.",
+    "Alertas de íntegra são revisão contextual, não descarte automático."
+  ]
+}

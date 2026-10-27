@@ -1,0 +1,23 @@
+{
+  "ultimo_terminal_encontrados": 4876,
+  "ultimo_terminal_ja_head": 1486,
+  "ultimo_terminal_fora_head": 3390,
+  "prontos_sem_alteracao": 5,
+  "prontos_somente_apos_correcao_triestado": 3219,
+  "alertas_ultimo_terminal": {
+    "estrutura de tabela diverge da fonte": 211,
+    "conversão difere do core congelado atual": 211,
+    "menção de integralidade exige revisão contextual": 79,
+    "data própria do fecho não comprova identidade primária: []": 4,
+    "vigência boolean sem situação explícita": 3381,
+    "conteúdo visual exige revisão": 1
+  },
+  "gates_metadados": {
+    "consulta_primaria_preservada": 4876,
+    "link_proprio_texto": 4876,
+    "versao_corresponde_link": 4876,
+    "identidade_metadados": 4876
+  },
+  "aplicados": 0,
+  "HTTP": 0
+}

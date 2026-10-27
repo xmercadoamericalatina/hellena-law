@@ -1,0 +1,36 @@
+{
+  "head_baseline": "b87168ecd03e0812126992e041bf3387d62e6750",
+  "coortes": {
+    "verificada_sem_alteracao": 5,
+    "verificada_corpo_pendente_triestado": 3270,
+    "retido_revisao": 115
+  },
+  "saldo_publico_aprovado": null,
+  "integralidade_contextual": {
+    "falso_positivo_lexico_integral_reintegracao": 84,
+    "fecho_proprio_comprovado_textualmente_HTML_tabela_interrompe_regex_do_MD_atual": 4,
+    "referencia_a_dispositivo_anterior_sem_remissao_externa": 1,
+    "reter_tabelas_explicativas_externas": 1
+  },
+  "pendencia_imagem": {
+    "path": "federal/decretos-legislativos/1920/dpl-4182-1920-11-13.md",
+    "classificacao_visual": "brasao_da_Republica_sem_texto_normativo",
+    "sha256_png": "3b55666043cb13efec43565bf2815ca8e64de431f96564f09ae4d6ec65eb43f2",
+    "decisao": "aguarda_aprovacao_root_especifica_sem_allowlist_generica"
+  },
+  "alertas_coorte_retida": {
+    "estrutura de tabela diverge da fonte": 114,
+    "conversão difere do core congelado atual": 114,
+    "vigência boolean sem situação explícita": 111,
+    "conteúdo visual exige revisão": 1,
+    "menção de integralidade exige revisão contextual": 1,
+    "tabelas explicativas publicadas externamente: DOU12agosto1922/avulso": 1
+  },
+  "limites": [
+    "Só proposição: nenhum MD,flag,conversão,scriptcoletor ou Git alterado.",
+    "Metas preservadas;4876éterminal,3390nãoHEADnobaseline.",
+    "Corpo verificado não implica vigência jurídica ou aprovação de publicação.",
+    "45documentos fora do catálogo primário exato separados; não reinterpretados.",
+    "467pendências primárias mantidas sem relaxar fórmula legislativa."
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "auditados": 48515,
+  "candidatos_html": 0,
+  "visuais": [],
+  "erros": [],
+  "sha256_sequencia_paths_html": "e71aa6829b9b1dc54dbab9e752b4f503c3145404038ec74e55f81f26a36f92a7",
+  "escopo": "48.515 paths aceitos únicos: cache001–025 (v2 de001–005), recuperação001, offline002/003, revisão001, novos001 e232 publicados. Nenhuma norma ou lista alterada.",
+  "checks": {
+    "html_bruto_sem_tags_visuais": true,
+    "inclui_imagens_fora_tabelas": true,
+    "inclui_tags_em_comentarios_condicionais": true,
+    "sha256_fonte_igual_manifesto_por_path": true
+  },
+  "tags_examinadas": [
+    "img",
+    "svg",
+    "canvas",
+    "object",
+    "embed",
+    "iframe",
+    "math",
+    "v:*",
+    "m:*"
+  ],
+  "manifestos": [
+    {
+      "path": "federal/_lote_dec_cache_20261020_001_v2.json",
+      "sha256": "0c6e68eb5821bce129d37f11c20ddfc2ff867d362d93f5b3244d3cd3cc4729e8"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_002_v2.json",
+      "sha256": "edafc403daefaa1c737de29e50276b8369164da35139967e8d1c7c6f1d4c44e0"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_003_v2.json",
+      "sha256": "450ebe8de37038683f7bfd1bc3cc9d0e1f1d2bb2f1ac4efe430771d611819374"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_004_v2.json",
+      "sha256": "9763493d38310024bb1839904bb2d35321bc241f4842fea4fb265c1b8a1e93aa"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_005_v2.json",
+      "sha256": "0031e62ae91e11f6a923238a786897608ea6a09d5c15e589cce73e76781a80eb"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_006.json",
+      "sha256": "f33e2f3aa6499eba0c97740ed55c1f36bb5a7426a548c71b75014f7b9959767b"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_007.json",
+      "sha256": "7e894226ff5e589a5601874f3e42a666db0b5ac9dc456679f0ed77e84b70131d"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_008.json",
+      "sha256": "69e3108009a0793edcc91f81f2c38b17d91cf0d5f5857f03f7061e922bc9b88f"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_009.json",
+      "sha256": "e57f9a605b33479d24c6974f21a1e2d80d2f6ff4ecc885009cc72bd8a4d645cf"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_010.json",
+      "sha256": "bcd971608b50e9f98658dbbce520a4037d92676a1b6acb44fd0ee2d2d92ad183"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_011.json",
+      "sha256": "016ea47b55e80e04b41eee8534cae246bcba0dd3c5dd8dc2cb2bc99a417006aa"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_012.json",
+      "sha256": "cd31ee0657191e99b0c833ddde1a79d5ebf681fc3f627a543d1ac20d811018c9"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_013.json",
+      "sha256": "4ff29a04ac056d0b1dfc3a83c17dbeeacc298786bd9d30a23bf703e1f1f5014c"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_014.json",
+      "sha256": "caa3a6f5f1d65a310968c07bc6c51c67186c8683f3fd59aa20a4328691be7b85"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_015.json",
+      "sha256": "2f317b465b3888acc94fefe01d278cd19b6a3e65c4ff23955310bad4ecbebdf0"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_016.json",
+      "sha256": "970f1a4713bb533bfabf79d3d5e54fbf07da8cac0540f1f15f3ce28fd4276942"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_017.json",
+      "sha256": "d0c3cc8ab4d03b008f7f2d42ed9076f6dda8ebb3e1dfd887390beb74f2b9e2f6"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_018.json",
+      "sha256": "74f73075dffdbd528af12eb4f4f6dc302085ed7daaca26b14b6edcd6ad4ec438"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_019.json",
+      "sha256": "ede6edbc091d038b52cd50d6ce7c77bab2d7e0999d3ea23f34e7ea212ee01a14"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_020.json",
+      "sha256": "f741bd33955a4ea402ace2d2c5641dbf601cbd7894a862165623b5df66dc8ea3"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_021.json",
+      "sha256": "d98dcbcc9878dd1337a1f243a47760a1a54998b197fb2a8e5d8e31e5c2a13e22"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_022.json",
+      "sha256": "f25ae81db62dd5ccaf3d2b38377350b1c34e61f9084611c22b33fd9946471c44"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_023.json",
+      "sha256": "a87f17e25e63afc5142e771cb97f1b11a3acb9049def9c69d9b38b96f038efed"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_024.json",
+      "sha256": "a8f13e8cfe9c779b6c3b08a4e51b5bacb13c5bef359cf2a55cdf5515ddd7c440"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_025.json",
+      "sha256": "6d1ded851477131a52cf8818ff4438f9b2cd2802f21b434760dd810002c90f47"
+    },
+    {
+      "path": "federal/_lote_dec_recuperacao_offline_20261020_002.json",
+      "sha256": "36132643193f9707bd080c96684ec87d0735bab3e412c3afc806b5e034d93b8f"
+    },
+    {
+      "path": "federal/_lote_dec_recuperacao_offline_20261020_003.json",
+      "sha256": "2ab8e5f858c273c1f005d72e408138f8aeb3d8a97cd4d32cbcee2e17016c6e52"
+    },
+    {
+      "path": "federal/_lote_dec_recuperacao_20261020_001.json",
+      "sha256": "5cc11bad013bf18237401616219a896d6c06d2d99dcb6bf0b6d7751b08b77227"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_revisao_001.json",
+      "sha256": "da4336484dc6e6dcb0209e8ce612bc8fa5310e448bfdcd05fcd259ef6bfc525a"
+    },
+    {
+      "path": "federal/_lote_dec_novos_20261020_001.json",
+      "sha256": "b88a0663b47eb45a18e548dde3f3f86539e602c99ba8c0de4b5ec604ce42a222"
+    },
+    {
+      "path": "federal/_auditoria_integridade_232_20261020.json",
+      "sha256": "753e5a53e9318b448b396e7b1f9907f8b478ff10d8b300e36a4652ff16d144a1"
+    }
+  ],
+  "reproduzir": "scripts/auditar_anexos_federais.py --manifestos <paths acima> --saida <nova auditoria imutável>",
+  "limite": "Ausência de elementos visuais no HTML recebido não comprova anexos ausentes da fonte; overlays próprios registram essa pendência."
+}

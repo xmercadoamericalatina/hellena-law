@@ -1,0 +1,3043 @@
+{
+  "data": "2026-10-21",
+  "escopo": "Revisão contextual dos 26 últimos fechos divergentes e 29 fechos de grafia não reconhecida nos 1.783 aceitos preliminares do lote 012. Não altera os MDs nem entregas congeladas.",
+  "resumo": {
+    "candidato_privado_com_nota_literal_sem_emenda": 51,
+    "fecho_de_anexo_ou_citacao_nao_concorre_com_principal": 1,
+    "retido_revisao": 3
+  },
+  "registros": [
+    {
+      "path": "federal/decretos/1952/dec-30927-1952-05-30.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-05-30;30927",
+      "numero": "30927",
+      "data_epigrafe_indice_metadados": "1952-05-30",
+      "epigrafe": {
+        "numero": "30927",
+        "data": "1952-05-30",
+        "epigrafe": "Decreto Nº 30.927, de 30 de Maio de 1952."
+      },
+      "sha256_preimagem": "bfed4ce126b32b49e63da3b4449ba13362a23c3197b6a1c2a875a7f255341f06",
+      "sha256_fonte_html": "f91a6f473576b0a76edd1a1af3d68016a2c95b3331334924cb9555587c60da80",
+      "sha256_metadados": "5ad2c2805f54be8c46a1bd0589210613ca1e5d2f7efbf7726b3b9330722b1839",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-05-30;30927",
+      "url_texto": "https://normas.leg.br/api/binario/1c70ae14-7e2c-4358-8b57-7e4196c6c992/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1952/dec-30927-1952-05-30.md",
+        "urn": "urn:lex:br:federal:decreto:1952-05-30;30927",
+        "sha256_md": "bfed4ce126b32b49e63da3b4449ba13362a23c3197b6a1c2a875a7f255341f06",
+        "sha256_fonte_html": "f91a6f473576b0a76edd1a1af3d68016a2c95b3331334924cb9555587c60da80",
+        "epigrafe": {
+          "numero": "30927",
+          "data": "1952-05-30",
+          "epigrafe": "Decreto Nº 30.927, de 30 de Maio de 1952."
+        },
+        "fechos": [
+          {
+            "data": "1952-05-22",
+            "literal": "Rio de Janeiro, 22 de maio de 1952",
+            "contexto": "Janeiro, a que se refere o processo protocolado no Ministério da Fazenda, sob o nº 95.075, de 1951. Rio de Janeiro, 22 de maio de 1952; 131º da Independência e 64º da República Getúlio Vargas Horácio Lafer"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-05-30;30927",
+          "id": "453537",
+          "data": "1952-05-30",
+          "indice": {
+            "id": "453537",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30927",
+            "norma": "DEC-30927-1952-05-30",
+            "normaNome": "Decreto nº 30.927 de 30/05/1952",
+            "ementa": "AUTORIZA ESTRANGEIRO A ADQUIRIR DOMINIO UTIL DOS TERRENOS DE MARINHA QUE MENCIONA, SITUADO NA CIDADE DE NITEROI, NO ESTADO DO RIO DE JANEIRO.",
+            "dataassinatura": "30/05/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30927-1952-05-30"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30927-1952-05-30.md",
+      "sha256_candidato": "9916854e93b65443bd4c047fdf42270f2084b99cab63b4ffca01168a6bba8929",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30927, de 1952-05-30. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 22 de maio de 1952\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/1c70ae14-7e2c-4358-8b57-7e4196c6c992/texto; SHA-256 do HTML: f91a6f473576b0a76edd1a1af3d68016a2c95b3331334924cb9555587c60da80.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30819-1952-05-06.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-05-06;30819",
+      "numero": "30819",
+      "data_epigrafe_indice_metadados": "1952-05-06",
+      "epigrafe": {
+        "numero": "30819",
+        "data": "1952-05-06",
+        "epigrafe": "DECRETO Nº 30.819, de 6 de maio de 1952."
+      },
+      "sha256_preimagem": "6e4e11027674cbb0d1468465a9b784b34bb38bb4c3b0a8a7a945037687176129",
+      "sha256_fonte_html": "433a46c90ed9b921e7dcd80345d908022656d3410a855d7eee9d318d68ec583c",
+      "sha256_metadados": "2bbae72a74c2ac4f265fe932ed71131aff823a24b616c153520c5bdfab02572d",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-05-06;30819",
+      "url_texto": "https://normas.leg.br/api/binario/22af775b-4ba7-4857-b848-693c8e1ec832/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1952/dec-30819-1952-05-06.md",
+        "urn": "urn:lex:br:federal:decreto:1952-05-06;30819",
+        "sha256_md": "6e4e11027674cbb0d1468465a9b784b34bb38bb4c3b0a8a7a945037687176129",
+        "sha256_fonte_html": "433a46c90ed9b921e7dcd80345d908022656d3410a855d7eee9d318d68ec583c",
+        "epigrafe": {
+          "numero": "30819",
+          "data": "1952-05-06",
+          "epigrafe": "DECRETO Nº 30.819, de 6 de maio de 1952."
+        },
+        "fechos": [
+          {
+            "data": "1952-01-06",
+            "literal": "Rio de Janeiro, 6 de janeiro de 1952",
+            "contexto": "a de Ribeirão Preto, da Universidade de São Paulo, com sede em Ribeirão Preto, Estado de São Paulo. Rio de Janeiro, 6 de janeiro de 1952; 131º da Independência e 64º da República. getulio Vargas E. Simões Filho"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-05-06;30819",
+          "id": "453429",
+          "data": "1952-05-06",
+          "indice": {
+            "id": "453429",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30819",
+            "norma": "DEC-30819-1952-05-06",
+            "normaNome": "Decreto nº 30.819 de 06/05/1952",
+            "ementa": "CONCEDE AUTORIZAÇÃO PARA FUNCIONAMENTO DO CURSO MEDICO DA",
+            "dataassinatura": "06/05/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30819-1952-05-06"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30819-1952-05-06.md",
+      "sha256_candidato": "b4ab66003c318dcc9e169ead2d2af25f12998401f7793db466483061f63074c1",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30819, de 1952-05-06. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 6 de janeiro de 1952\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/22af775b-4ba7-4857-b848-693c8e1ec832/texto; SHA-256 do HTML: 433a46c90ed9b921e7dcd80345d908022656d3410a855d7eee9d318d68ec583c.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30747-1952-04-14.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-04-14;30747",
+      "numero": "30747",
+      "data_epigrafe_indice_metadados": "1952-04-14",
+      "epigrafe": {
+        "numero": "30747",
+        "data": "1952-04-14",
+        "epigrafe": "DECRETO Nº 30.747, de 14 de abril de 1952."
+      },
+      "sha256_preimagem": "f1ee9174bcfdcd17f8b3b6e76108267f8be2e10aea0fcff786299c704993b70d",
+      "sha256_fonte_html": "801a7d500889ef941f4d45799e3bcfb43061a4407f7b8360b8577b132f528296",
+      "sha256_metadados": "273e96e44678081246dff9fc0fbf29b15fd66e89dab739813be5aabd8332b580",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-04-14;30747",
+      "url_texto": "https://normas.leg.br/api/binario/00600e84-817b-4fad-9eb8-d3bacf430751/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1952/dec-30747-1952-04-14.md",
+        "urn": "urn:lex:br:federal:decreto:1952-04-14;30747",
+        "sha256_md": "f1ee9174bcfdcd17f8b3b6e76108267f8be2e10aea0fcff786299c704993b70d",
+        "sha256_fonte_html": "801a7d500889ef941f4d45799e3bcfb43061a4407f7b8360b8577b132f528296",
+        "epigrafe": {
+          "numero": "30747",
+          "data": "1952-04-14",
+          "epigrafe": "DECRETO Nº 30.747, de 14 de abril de 1952."
+        },
+        "fechos": [
+          {
+            "data": "1952-04-04",
+            "literal": "Rio de janeiro, 4 de abril de 1952",
+            "contexto": "nte as leis e regulamentos em vigor ou que venham a vigorar sôbre o objeto da referida autorização. Rio de janeiro, 4 de abril de 1952; 131º da Independência e 64º da República. GetUlio Vargas João Cleofas"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-04-14;30747",
+          "id": "453357",
+          "data": "1952-04-14",
+          "indice": {
+            "id": "453357",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30747",
+            "norma": "DEC-30747-1952-04-14",
+            "normaNome": "Decreto nº 30.747 de 14/04/1952",
+            "ementa": "CONCEDE A SOCIEDADE MINERAÇÃO SUAQUI LIMITADA AUTORIZAÇÃO PARA FUNCIONAR COMO EMPRESA DE MINERAÇÃO.",
+            "dataassinatura": "14/04/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30747-1952-04-14"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30747-1952-04-14.md",
+      "sha256_candidato": "3a30f7b3a01c3fd60fae9aed2f7546e13780ebbd2a6726912fa8b99f8cf4cb70",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30747, de 1952-04-14. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de janeiro, 4 de abril de 1952\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/00600e84-817b-4fad-9eb8-d3bacf430751/texto; SHA-256 do HTML: 801a7d500889ef941f4d45799e3bcfb43061a4407f7b8360b8577b132f528296.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30700-1952-04-02.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-04-02;30700",
+      "numero": "30700",
+      "data_epigrafe_indice_metadados": "1952-04-02",
+      "epigrafe": {
+        "numero": "30700",
+        "data": "1952-04-02",
+        "epigrafe": "decreto nº 30.700, de 2 de abril de 1952."
+      },
+      "sha256_preimagem": "f4a59928686f17c371777868610b1fcfb81e66221df798c4bcfca7cad860b324",
+      "sha256_fonte_html": "e0f1b30a3072e5acf6c0c87466a6dcbf381653845812bd1893ad6f271869b534",
+      "sha256_metadados": "e9b46eb0ca8bda955f5e121a421b0c5711f827a994118ea7d5e6a15e325193cd",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-04-02;30700",
+      "url_texto": "https://normas.leg.br/api/binario/71725406-a973-4715-9c6b-99bd322be5f7/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1952/dec-30700-1952-04-02.md",
+        "urn": "urn:lex:br:federal:decreto:1952-04-02;30700",
+        "sha256_md": "f4a59928686f17c371777868610b1fcfb81e66221df798c4bcfca7cad860b324",
+        "sha256_fonte_html": "e0f1b30a3072e5acf6c0c87466a6dcbf381653845812bd1893ad6f271869b534",
+        "epigrafe": {
+          "numero": "30700",
+          "data": "1952-04-02",
+          "epigrafe": "decreto nº 30.700, de 2 de abril de 1952."
+        },
+        "fechos": [
+          {
+            "data": "1052-04-02",
+            "literal": "Rio de Janeiro, em 2 de abril de 1052",
+            "contexto": "esidente decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário. Rio de Janeiro, em 2 de abril de 1052; 131º da Independência e 64º da República. GETÚLIO VARGAS Francisco Negrão de Lima"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-04-02;30700",
+          "id": "453310",
+          "data": "1952-04-02",
+          "indice": {
+            "id": "453310",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30700",
+            "norma": "DEC-30700-1952-04-02",
+            "normaNome": "Decreto nº 30.700 de 02/04/1952",
+            "ementa": "DA NOVA REDAÇÃO DO ARTIGO 1 DO DECRETO 30179 DE 19.11.51.",
+            "dataassinatura": "02/04/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30700-1952-04-02"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30700-1952-04-02.md",
+      "sha256_candidato": "8f176604549cabf642ba929dd74a43ff4f50d244931849d16f2edac98dd10516",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30700, de 1952-04-02. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, em 2 de abril de 1052\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/71725406-a973-4715-9c6b-99bd322be5f7/texto; SHA-256 do HTML: e0f1b30a3072e5acf6c0c87466a6dcbf381653845812bd1893ad6f271869b534.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30655-1952-03-20.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-03-20;30655",
+      "numero": "30655",
+      "data_epigrafe_indice_metadados": "1952-03-20",
+      "epigrafe": {
+        "numero": "30655",
+        "data": "1952-03-20",
+        "epigrafe": "DECRETO Nº 30.655, DE 20 DE MARÇO DE 1952."
+      },
+      "sha256_preimagem": "3615a3e58a4c74c5497eb6c57b8ec93c8ffac55482f9be095e8dd3625390ff33",
+      "sha256_fonte_html": "c73989e7f055c291696f3d038bc6f96d5cc565e41b42ed7c7a4ef6e6500a9a46",
+      "sha256_metadados": "f411c83e2f5d721783ac2b8a2bf1a1f2f6a2fe4e9f0aed255b795b5592766d4d",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-03-20;30655",
+      "url_texto": "https://normas.leg.br/api/binario/1ad59c98-5251-4477-b26c-17a31978980d/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1952/dec-30655-1952-03-20.md",
+        "urn": "urn:lex:br:federal:decreto:1952-03-20;30655",
+        "sha256_md": "3615a3e58a4c74c5497eb6c57b8ec93c8ffac55482f9be095e8dd3625390ff33",
+        "sha256_fonte_html": "c73989e7f055c291696f3d038bc6f96d5cc565e41b42ed7c7a4ef6e6500a9a46",
+        "epigrafe": {
+          "numero": "30655",
+          "data": "1952-03-20",
+          "epigrafe": "DECRETO Nº 30.655, DE 20 DE MARÇO DE 1952."
+        },
+        "fechos": [
+          {
+            "data": "1951-03-20",
+            "literal": "Rio de Janeiro, 20 de março de 1951",
+            "contexto": "o da Produção Mineral do Ministério da Agricultura. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, 20 de março de 1951; 131º da Independência e 64º da República. getulio vargas João Cleofas"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-03-20;30655",
+          "id": "453265",
+          "data": "1952-03-20",
+          "indice": {
+            "id": "453265",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30655",
+            "norma": "DEC-30655-1952-03-20",
+            "normaNome": "Decreto nº 30.655 de 20/03/1952",
+            "ementa": "AUTORIZA A VIAÇÃO FERREA DO RIO GRANDE DO SUL A PESQUISAR CARVÃO MINERAL NO MUNICIPIO DE CAÇAPAVA DO SUL, ESTADO DO RIO GRANDE DO SUL.",
+            "dataassinatura": "20/03/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30655-1952-03-20"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30655-1952-03-20.md",
+      "sha256_candidato": "a7847a9117e450279b64a42544f3639f0ac1b4a7d3ae59da5612e18b68b97d1b",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30655, de 1952-03-20. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 20 de março de 1951\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/1ad59c98-5251-4477-b26c-17a31978980d/texto; SHA-256 do HTML: c73989e7f055c291696f3d038bc6f96d5cc565e41b42ed7c7a4ef6e6500a9a46.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30656-1952-03-20.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-03-20;30656",
+      "numero": "30656",
+      "data_epigrafe_indice_metadados": "1952-03-20",
+      "epigrafe": {
+        "numero": "30656",
+        "data": "1952-03-20",
+        "epigrafe": "DECRETO Nº 30.656, DE 20 DE MARÇO DE 1952."
+      },
+      "sha256_preimagem": "d63f891b0ab9ca20b3f349fb18c49ebc3683db328a8ace09f28bf57518826525",
+      "sha256_fonte_html": "a3f50cac0bbd6e2366482d40ff9bef40f4773274192a17ea54fd9e818975710d",
+      "sha256_metadados": "0762e5f05bc0e0fbb8446503bb7d3e6246ba4a6566f8710649bdcce8b12a47e8",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-03-20;30656",
+      "url_texto": "https://normas.leg.br/api/binario/beb95f98-23a0-4159-a475-355de0bad388/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1952/dec-30656-1952-03-20.md",
+        "urn": "urn:lex:br:federal:decreto:1952-03-20;30656",
+        "sha256_md": "d63f891b0ab9ca20b3f349fb18c49ebc3683db328a8ace09f28bf57518826525",
+        "sha256_fonte_html": "a3f50cac0bbd6e2366482d40ff9bef40f4773274192a17ea54fd9e818975710d",
+        "epigrafe": {
+          "numero": "30656",
+          "data": "1952-03-20",
+          "epigrafe": "DECRETO Nº 30.656, DE 20 DE MARÇO DE 1952."
+        },
+        "fechos": [
+          {
+            "data": "1951-03-20",
+            "literal": "Rio de Janeiro, 20 de março de 1951",
+            "contexto": "o da Produção Mineral do Ministério da Agricultura. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, 20 de março de 1951; 131º da Independência e 64º da República. Getúlio Vargas João Cleofas"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-03-20;30656",
+          "id": "453266",
+          "data": "1952-03-20",
+          "indice": {
+            "id": "453266",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30656",
+            "norma": "DEC-30656-1952-03-20",
+            "normaNome": "Decreto nº 30.656 de 20/03/1952",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO JOSE CRISTIANO ALVES A PESQUISAR QUARTZITO NO MUNICIPIO DE BAEPENDI, ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "20/03/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30656-1952-03-20"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30656-1952-03-20.md",
+      "sha256_candidato": "4e591489b9d00aea95db00e480dac465d3e99f9626bf58bd2ec3e44132d415d1",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30656, de 1952-03-20. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 20 de março de 1951\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/beb95f98-23a0-4159-a475-355de0bad388/texto; SHA-256 do HTML: a3f50cac0bbd6e2366482d40ff9bef40f4773274192a17ea54fd9e818975710d.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30657-1952-03-20.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-03-20;30657",
+      "numero": "30657",
+      "data_epigrafe_indice_metadados": "1952-03-20",
+      "epigrafe": {
+        "numero": "30657",
+        "data": "1952-03-20",
+        "epigrafe": "DECRETO Nº 30.657, DE 20 DE MARÇO DE 1952."
+      },
+      "sha256_preimagem": "cba7931642b0dd53f13d712b6cdf64f4cc1fc4cf0242da416d4b0dcbcc49c18d",
+      "sha256_fonte_html": "360218d1ba6a6348141fb7cc4fc5ded2e1ddad0efc570debfca4b79fff4559a8",
+      "sha256_metadados": "fca012c080cc5b7f99e0d0533522afe691d396e91fa72b48bb9342429b861764",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-03-20;30657",
+      "url_texto": "https://normas.leg.br/api/binario/7f8d27cb-107f-4a30-a30f-05ecaed1097f/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1952/dec-30657-1952-03-20.md",
+        "urn": "urn:lex:br:federal:decreto:1952-03-20;30657",
+        "sha256_md": "cba7931642b0dd53f13d712b6cdf64f4cc1fc4cf0242da416d4b0dcbcc49c18d",
+        "sha256_fonte_html": "360218d1ba6a6348141fb7cc4fc5ded2e1ddad0efc570debfca4b79fff4559a8",
+        "epigrafe": {
+          "numero": "30657",
+          "data": "1952-03-20",
+          "epigrafe": "DECRETO Nº 30.657, DE 20 DE MARÇO DE 1952."
+        },
+        "fechos": [
+          {
+            "data": "1951-03-20",
+            "literal": "Rio de Janeiro, 20 de março de 1951",
+            "contexto": "o da Produção Mineral do Ministério da Agricultura. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, 20 de março de 1951; 131º da Independência e 64º da República. Getúlio Vargas João Cleofas"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-03-20;30657",
+          "id": "453267",
+          "data": "1952-03-20",
+          "indice": {
+            "id": "453267",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30657",
+            "norma": "DEC-30657-1952-03-20",
+            "normaNome": "Decreto nº 30.657 de 20/03/1952",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO CARLOS FREDERICO ZANDER A PESQUISAR ARENITO NO MUNICIPIO DE PALMEIRA, ESTADO DO PARANA.",
+            "dataassinatura": "20/03/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30657-1952-03-20"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30657-1952-03-20.md",
+      "sha256_candidato": "ee2fe1659d9199625ac74ec2aa681ae5e2fff487bf564e0148b5b4999cfdb32b",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30657, de 1952-03-20. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 20 de março de 1951\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/7f8d27cb-107f-4a30-a30f-05ecaed1097f/texto; SHA-256 do HTML: 360218d1ba6a6348141fb7cc4fc5ded2e1ddad0efc570debfca4b79fff4559a8.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30618-1952-03-10.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-03-10;30618",
+      "numero": "30618",
+      "data_epigrafe_indice_metadados": "1952-03-10",
+      "epigrafe": {
+        "numero": "30618",
+        "data": "1952-03-10",
+        "epigrafe": "DECRETO Nº 30.618 DE 10 DE MARÇO DE 1952."
+      },
+      "sha256_preimagem": "6498bcacb89415cfbfa01798c5e6194ad9a017cb357c80e3ab0ad7e6f89a53f3",
+      "sha256_fonte_html": "8a8a8ae2b1755f334e478d785e7f60dea19c027a233a02fc3096c9425570fc81",
+      "sha256_metadados": "e46bfb653f4a8fb4a640900d24233fe46d5e96c7a51e4cfe34b8d2ae5aa6b885",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-03-10;30618",
+      "url_texto": "https://normas.leg.br/api/binario/29661694-9221-4134-9453-a20f06315091/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1952/dec-30618-1952-03-10.md",
+        "urn": "urn:lex:br:federal:decreto:1952-03-10;30618",
+        "sha256_md": "6498bcacb89415cfbfa01798c5e6194ad9a017cb357c80e3ab0ad7e6f89a53f3",
+        "sha256_fonte_html": "8a8a8ae2b1755f334e478d785e7f60dea19c027a233a02fc3096c9425570fc81",
+        "epigrafe": {
+          "numero": "30618",
+          "data": "1952-03-10",
+          "epigrafe": "DECRETO Nº 30.618 DE 10 DE MARÇO DE 1952."
+        },
+        "fechos": [
+          {
+            "data": "1952-03-10",
+            "literal": "Rio de Janeiro, em 10 de março de 1952",
+            "contexto": "Decreto entrará em vigor na data de sua publicação. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, em 10 de março de 1952; 131º da Independência e 64º da República. Getúlio Vargas João Cleofas Regimento do Departamento de Administração (D.A.) do Ministério da Agricultura. CAPÍTULO I DA FINALIDADE Art. 1º - O Departament"
+          },
+          {
+            "data": "1952-05-10",
+            "literal": "Rio de Janeiro, em 10 de maio de 1952",
+            "contexto": "entos, circulares, portarias, ordens e instruções de serviços que digam respeito a suas atividades. Rio de Janeiro, em 10 de maio de 1952. João Cleofas ###DEC-030618-0-000-10-03-1952@@@ decreto nº 30.618, de 10 de março de 1952. Aprova o Regimento do Departamento de Administração do Ministério da Agricultura que com êste baixa. (Public"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-03-10;30618",
+          "id": "453228",
+          "data": "1952-03-10",
+          "indice": {
+            "id": "453228",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30618",
+            "norma": "DEC-30618-1952-03-10",
+            "normaNome": "Decreto nº 30.618 de 10/03/1952",
+            "ementa": "APROVA O REGIMENTO DO DEPARTAMENTO DE ADMINISTRAÇÃO DO MINISTERIO DA AGRICULTURA QUE COM ESTE BAIXA.",
+            "dataassinatura": "10/03/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30618-1952-03-10"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "fecho_de_anexo_ou_citacao_nao_concorre_com_principal",
+      "conclusao": "O fecho de 10 de maio de 1952 encerra o regimento reproduzido. O decreto principal tem fecho próprio de 10 de março de 1952."
+    },
+    {
+      "path": "federal/decretos/1952/dec-30567-1952-02-20.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-02-20;30567",
+      "numero": "30567",
+      "data_epigrafe_indice_metadados": "1952-02-20",
+      "epigrafe": {
+        "numero": "30567",
+        "data": "1952-02-20",
+        "epigrafe": "DECRETO Nº 30.567, DE 20 DE FEVEREIRO DE 1952."
+      },
+      "sha256_preimagem": "f36335342f08f2219ebeec2fc866a58d2fbadb4a896399b070239f8501634cc6",
+      "sha256_fonte_html": "50dd21ffd11a62f9674f4c24db2ca8f3e85475b5e2c0140fd40d21a86a62c001",
+      "sha256_metadados": "26b0b8128fbe1aae74142e2ee0818684f4c3d42a170dc4e45a740ccb6251d914",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-02-20;30567",
+      "url_texto": "https://normas.leg.br/api/binario/6e8fdc7c-4a9a-4b76-8bac-728b12b603d9/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1952/dec-30567-1952-02-20.md",
+        "urn": "urn:lex:br:federal:decreto:1952-02-20;30567",
+        "sha256_md": "f36335342f08f2219ebeec2fc866a58d2fbadb4a896399b070239f8501634cc6",
+        "sha256_fonte_html": "50dd21ffd11a62f9674f4c24db2ca8f3e85475b5e2c0140fd40d21a86a62c001",
+        "epigrafe": {
+          "numero": "30567",
+          "data": "1952-02-20",
+          "epigrafe": "DECRETO Nº 30.567, DE 20 DE FEVEREIRO DE 1952."
+        },
+        "fechos": [
+          {
+            "data": "1952-01-20",
+            "literal": "Rio de Janeiro, em 20 de janeiro de 1952",
+            "contexto": "ntaria da Escola de que se trata . Art. 3º Êste decreto entrará em vigor na data de sua publicação. Rio de Janeiro, em 20 de janeiro de 1952; 131º da Independência e 64º da República. GETÚLIO VARGAS E. Simões Filho"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-02-20;30567",
+          "id": "453177",
+          "data": "1952-02-20",
+          "indice": {
+            "id": "453177",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30567",
+            "norma": "DEC-30567-1952-02-20",
+            "normaNome": "Decreto nº 30.567 de 20/02/1952",
+            "ementa": "CONCEDE RECONHECIMENTO A ESCOLA INDUSTRIAL SILVA FREIRE.",
+            "dataassinatura": "20/02/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30567-1952-02-20"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30567-1952-02-20.md",
+      "sha256_candidato": "e20b068fd72bb24a693cefd8722678fa6c17780c22063a2c0e80fdeb0ee70fff",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30567, de 1952-02-20. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, em 20 de janeiro de 1952\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/6e8fdc7c-4a9a-4b76-8bac-728b12b603d9/texto; SHA-256 do HTML: 50dd21ffd11a62f9674f4c24db2ca8f3e85475b5e2c0140fd40d21a86a62c001.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30517-1952-02-09.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-02-09;30517",
+      "numero": "30517",
+      "data_epigrafe_indice_metadados": "1952-02-09",
+      "epigrafe": {
+        "numero": "30517",
+        "data": "1952-02-09",
+        "epigrafe": "DECRETO Nº 30.517, de 9 de fevereiro de 1952."
+      },
+      "sha256_preimagem": "f56645aa3c7f1115fdbaa8eb504dd18b35e0e8137a50e7cf15b0aedd5c4e02e8",
+      "sha256_fonte_html": "79a5607e5eb81fb99c3730a7cfde616e3c4d519193ca97aa1ad5bc97ffcdca11",
+      "sha256_metadados": "7b80686e50ae8a112e58bdae1cd4ba25e7f73634482ac42322e87d0502cf5fac",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-02-09;30517",
+      "url_texto": "https://normas.leg.br/api/binario/99a518f6-9a5c-40b8-8193-cba0f51a17d4/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1952/dec-30517-1952-02-09.md",
+        "urn": "urn:lex:br:federal:decreto:1952-02-09;30517",
+        "sha256_md": "f56645aa3c7f1115fdbaa8eb504dd18b35e0e8137a50e7cf15b0aedd5c4e02e8",
+        "sha256_fonte_html": "79a5607e5eb81fb99c3730a7cfde616e3c4d519193ca97aa1ad5bc97ffcdca11",
+        "epigrafe": {
+          "numero": "30517",
+          "data": "1952-02-09",
+          "epigrafe": "DECRETO Nº 30.517, de 9 de fevereiro de 1952."
+        },
+        "fechos": [
+          {
+            "data": "1952-01-09",
+            "literal": "Rio de Janeiro, em 9 de janeiro de 1952",
+            "contexto": "ta-Corrente do mesmo Quadro do referido Ministério. Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, em 9 de janeiro de 1952; 131º da Independência e 64º da República. Getúlio Vargas Horacio Lafer"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-02-09;30517",
+          "id": "453127",
+          "data": "1952-02-09",
+          "indice": {
+            "id": "453127",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30517",
+            "norma": "DEC-30517-1952-02-09",
+            "normaNome": "Decreto nº 30.517 de 09/02/1952",
+            "ementa": "EXTINGUE CARGOS EXCEDENTES.",
+            "dataassinatura": "09/02/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30517-1952-02-09"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30517-1952-02-09.md",
+      "sha256_candidato": "e09ef8061e99733eda615ce6d49698d29c4669063af84f6c1b967250e89f5558",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30517, de 1952-02-09. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, em 9 de janeiro de 1952\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/99a518f6-9a5c-40b8-8193-cba0f51a17d4/texto; SHA-256 do HTML: 79a5607e5eb81fb99c3730a7cfde616e3c4d519193ca97aa1ad5bc97ffcdca11.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30508-1952-02-05.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-02-05;30508",
+      "numero": "30508",
+      "data_epigrafe_indice_metadados": "1952-02-05",
+      "epigrafe": {
+        "numero": "30508",
+        "data": "1952-02-05",
+        "epigrafe": "DECRETO Nº 30.508, DE 5 DE FEVEREIRO DE 1952."
+      },
+      "sha256_preimagem": "468e225c1e30f39d282bf3a4d33fe731d21acd12fe2dde376aa9f9aadaab1754",
+      "sha256_fonte_html": "9db7a193b2e5b9e713746ae4297f5c3c3788f50c3eff327c0b018c8b51b14d83",
+      "sha256_metadados": "1ece7d26a2f0ba5d7f76a67bd9709fac67bf908c9479d6543d6ac7e6a900fd4c",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-02-05;30508",
+      "url_texto": "https://normas.leg.br/api/binario/a2a0560a-0f6d-46c8-b3cd-ef374215eb2e/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1952/dec-30508-1952-02-05.md",
+        "urn": "urn:lex:br:federal:decreto:1952-02-05;30508",
+        "sha256_md": "468e225c1e30f39d282bf3a4d33fe731d21acd12fe2dde376aa9f9aadaab1754",
+        "sha256_fonte_html": "9db7a193b2e5b9e713746ae4297f5c3c3788f50c3eff327c0b018c8b51b14d83",
+        "epigrafe": {
+          "numero": "30508",
+          "data": "1952-02-05",
+          "epigrafe": "DECRETO Nº 30.508, DE 5 DE FEVEREIRO DE 1952."
+        },
+        "fechos": [
+          {
+            "data": "1952-09-05",
+            "literal": "Rio de Janeiro, em 05 de setembro de 1952",
+            "contexto": "s e Estradas e Química Industrial. Art. 3º Êste decreto entrará em vigor na data de sua publicação. Rio de Janeiro, em 05 de setembro de 1952; 131º da Independência e 64º da República Getúlio Vargas E. Simões Filho"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-02-05;30508",
+          "id": "453118",
+          "data": "1952-02-05",
+          "indice": {
+            "id": "453118",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30508",
+            "norma": "DEC-30508-1952-02-05",
+            "normaNome": "Decreto nº 30.508 de 05/02/1952",
+            "ementa": "CONCEDE RECONHECIMENTO A ESCOLA TECNICA DE BAURU.",
+            "dataassinatura": "05/02/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30508-1952-02-05"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30508-1952-02-05.md",
+      "sha256_candidato": "1df183e749d457fcfe81f056c53b1d70653cd95458540a737596c85fb7ff23ae",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30508, de 1952-02-05. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, em 05 de setembro de 1952\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/a2a0560a-0f6d-46c8-b3cd-ef374215eb2e/texto; SHA-256 do HTML: 9db7a193b2e5b9e713746ae4297f5c3c3788f50c3eff327c0b018c8b51b14d83.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-30357-1951-12-31.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-12-31;30357",
+      "numero": "30357",
+      "data_epigrafe_indice_metadados": "1951-12-31",
+      "epigrafe": {
+        "numero": "30357",
+        "data": "1951-12-31",
+        "epigrafe": "decreto nº 30.357, de 31 de dezembro de 1951."
+      },
+      "sha256_preimagem": "b373f8f22e200b66e02a9f1c55e2aca673961c215b5a41c7c077221b4ea12211",
+      "sha256_fonte_html": "02405cfe06101d4d3abf628ff9af3bfaa1d645a75f1511efa585608784de2753",
+      "sha256_metadados": "b0483c473f522406eae44c59d14c24a0d5de98ffc6d19f170a6c5ebc77a4900b",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-12-31;30357",
+      "url_texto": "https://normas.leg.br/api/binario/769454f7-91cf-407e-b59f-73c8f1f994e4/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1951/dec-30357-1951-12-31.md",
+        "urn": "urn:lex:br:federal:decreto:1951-12-31;30357",
+        "sha256_md": "b373f8f22e200b66e02a9f1c55e2aca673961c215b5a41c7c077221b4ea12211",
+        "sha256_fonte_html": "02405cfe06101d4d3abf628ff9af3bfaa1d645a75f1511efa585608784de2753",
+        "epigrafe": {
+          "numero": "30357",
+          "data": "1951-12-31",
+          "epigrafe": "decreto nº 30.357, de 31 de dezembro de 1951."
+        },
+        "fechos": [
+          {
+            "data": "1951-12-31",
+            "literal": "Rio de Janeiro, em 31 de dezembro de 1951",
+            "contexto": "terior vigorarão a partir de 1º de janeiro de 1952. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, em 31 de dezembro de 1951; 130º da Independência e 63º da República. getulio vargas João Neves da Fontoura GRATIFICAÇÃO DE REPRESENTAÇÃO PARA 1952 TABELA I Missões diplomáticas e Delegações junto a Organismos Internacionais F"
+          },
+          {
+            "data": "1952-04-02",
+            "literal": "Rio de Janeiro, em 2 de abril de 1952",
+            "contexto": "Êste Regulamento entrará em vigor na data de sua publicação, revogadas as disposições em contrário. Rio de Janeiro, em 2 de abril de 1952. nero moura"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-12-31;30357",
+          "id": "452969",
+          "data": "1951-12-31",
+          "indice": {
+            "id": "452969",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30357",
+            "norma": "DEC-30357-1951-12-31",
+            "normaNome": "Decreto nº 30.357 de 31/12/1951",
+            "ementa": "APROVA AS TABELAS DE GRATIFICAÇÃO, A TITULO DE REPRESENTAÇÃO, A QUE SE REFERE O DECRETO-LEI 9.202, DE 26 DE ABRIL DE 1946.",
+            "dataassinatura": "31/12/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-30357-1951-12-31"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "retido_revisao",
+      "motivo": "Após as tabelas de gratificação do Ministério das Relações Exteriores, a fonte emenda fragmento a partir de alínea d e art. 254 de regulamento da Escola de Aeronáutica, encerrado em 02/04/1952. Não corresponde a suplemento próprio da gratificação."
+    },
+    {
+      "path": "federal/decretos/1951/dec-30304-1951-12-20.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-12-20;30304",
+      "numero": "30304",
+      "data_epigrafe_indice_metadados": "1951-12-20",
+      "epigrafe": {
+        "numero": "30304",
+        "data": "1951-12-20",
+        "epigrafe": "DECRETO Nº 30.304, DE 20 DE DEZEMBRO DE 1951."
+      },
+      "sha256_preimagem": "78167510e08c8a421a77337a8af30a7be6e1fdff091183189ec437c347ce23b8",
+      "sha256_fonte_html": "23e56664d64bdec6b024b4e2d9fc807b0c5539d90d3d16174c87d1d88d12ef41",
+      "sha256_metadados": "2e1b734b4cb3fb6d22bf0726ec6223b608ecb6a41d33ab950ad4dbf2eca6323f",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-12-20;30304",
+      "url_texto": "https://normas.leg.br/api/binario/e05801a3-8852-446d-a5d8-1af83a510af1/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1951/dec-30304-1951-12-20.md",
+        "urn": "urn:lex:br:federal:decreto:1951-12-20;30304",
+        "sha256_md": "78167510e08c8a421a77337a8af30a7be6e1fdff091183189ec437c347ce23b8",
+        "sha256_fonte_html": "23e56664d64bdec6b024b4e2d9fc807b0c5539d90d3d16174c87d1d88d12ef41",
+        "epigrafe": {
+          "numero": "30304",
+          "data": "1951-12-20",
+          "epigrafe": "DECRETO Nº 30.304, DE 20 DE DEZEMBRO DE 1951."
+        },
+        "fechos": [
+          {
+            "data": "1951-12-22",
+            "literal": "Rio de Janeiro, em 22 de dezembro de 1951",
+            "contexto": "pública, a que se refere o processo protocolado no Ministério da Fazenda, sob o nº 91.428, de 1951. Rio de Janeiro, em 22 de dezembro de 1951; 130º da Independência e 63º da República. GETÚLIO VARGAS Horácio Lafer"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-12-20;30304",
+          "id": "452916",
+          "data": "1951-12-20",
+          "indice": {
+            "id": "452916",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30304",
+            "norma": "DEC-30304-1951-12-20",
+            "normaNome": "Decreto nº 30.304 de 20/12/1951",
+            "ementa": "AUTORIZA ESTRANGEIRO A ADQUIRIR O DOMINIO UTIL DO TERRENO DE MARINHA QUE MENCIONA, SITUADO NA ILHA DO GOVERNADOR, NA CAPITAL DA REPUBLICA.",
+            "dataassinatura": "20/12/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-30304-1951-12-20"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30304-1951-12-20.md",
+      "sha256_candidato": "73a32c0b738e16636101ec2704ced1ee6b40bf4600f1b44a1c2e8e90737b1956",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30304, de 1951-12-20. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, em 22 de dezembro de 1951\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/e05801a3-8852-446d-a5d8-1af83a510af1/texto; SHA-256 do HTML: 23e56664d64bdec6b024b4e2d9fc807b0c5539d90d3d16174c87d1d88d12ef41.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-30245-1951-12-06.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-12-06;30245",
+      "numero": "30245",
+      "data_epigrafe_indice_metadados": "1951-12-06",
+      "epigrafe": {
+        "numero": "30245",
+        "data": "1951-12-06",
+        "epigrafe": "DECRETO N. 30.245 – DE 6 DE DEZEMBRO DE 1951"
+      },
+      "sha256_preimagem": "3b4fe925ca07be39513ef5bbe07a7722b46478ac25cc3d953aa1cee254c30486",
+      "sha256_fonte_html": "107d62644f4edf22d4bd355d62d12494f7eb0c0f7513d9a343912d9a4be37bc9",
+      "sha256_metadados": "2833ea3867770b4514fb68e67134041b36327937b340db351461259999c0a16c",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-12-06;30245",
+      "url_texto": "https://normas.leg.br/api/binario/afbf9c90-90e6-450a-9fa9-91c2db53b4fe/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1951/dec-30245-1951-12-06.md",
+        "urn": "urn:lex:br:federal:decreto:1951-12-06;30245",
+        "sha256_md": "3b4fe925ca07be39513ef5bbe07a7722b46478ac25cc3d953aa1cee254c30486",
+        "sha256_fonte_html": "107d62644f4edf22d4bd355d62d12494f7eb0c0f7513d9a343912d9a4be37bc9",
+        "epigrafe": {
+          "numero": "30245",
+          "data": "1951-12-06",
+          "epigrafe": "DECRETO N. 30.245 – DE 6 DE DEZEMBRO DE 1951"
+        },
+        "fechos": [
+          {
+            "data": "1951-12-08",
+            "literal": "Rio de Janeiro, 8 de dezembro de 1951",
+            "contexto": "B, de 25 de janeiro de 1946. Art. 3º O presente Decreto entrará em vigor na data da sus publicação. Rio de Janeiro, 8 de dezembro de 1951; 130º da Independência e 63º República. Getúlio Vargas Francisco Negrão de Lima"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-12-06;30245",
+          "id": "452857",
+          "data": "1951-12-06",
+          "indice": {
+            "id": "452857",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30245",
+            "norma": "DEC-30245-1951-12-06",
+            "normaNome": "Decreto nº 30.245 de 06/12/1951",
+            "ementa": "REVOGA DISPOSITIVOS DO REGULAMENTO DA DIVISÃO DE POLICIA MARITIMA, AEREA E DE FRONTEIRAS.",
+            "dataassinatura": "06/12/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-30245-1951-12-06"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30245-1951-12-06.md",
+      "sha256_candidato": "8d0fd7a196a8974fc5f3e124a5acd8cfb2d34abaf0187e68f2b1b0f2ce68bc22",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30245, de 1951-12-06. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 8 de dezembro de 1951\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/afbf9c90-90e6-450a-9fa9-91c2db53b4fe/texto; SHA-256 do HTML: 107d62644f4edf22d4bd355d62d12494f7eb0c0f7513d9a343912d9a4be37bc9.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-30171-1951-11-16.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-11-16;30171",
+      "numero": "30171",
+      "data_epigrafe_indice_metadados": "1951-11-16",
+      "epigrafe": {
+        "numero": "30171",
+        "data": "1951-11-16",
+        "epigrafe": "DECRETO Nº 30.171, DE 16 DE NOVEMBRO DE 1951."
+      },
+      "sha256_preimagem": "8c18ed88b1e329be9a37117d4bf384dcba7761f966521bc8c083e0d663271ed1",
+      "sha256_fonte_html": "ac74b32ac7bc71930905209fb96728466eaccb200f02bacd210ab4bf17a6466b",
+      "sha256_metadados": "a00c5b8ba0074ba1180f4ec1517c9597fda43c9ad4337cab704c8f5b4d0f7615",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-11-16;30171",
+      "url_texto": "https://normas.leg.br/api/binario/aa3fd4a2-5f54-4f33-8e76-e929989b2f00/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1951/dec-30171-1951-11-16.md",
+        "urn": "urn:lex:br:federal:decreto:1951-11-16;30171",
+        "sha256_md": "8c18ed88b1e329be9a37117d4bf384dcba7761f966521bc8c083e0d663271ed1",
+        "sha256_fonte_html": "ac74b32ac7bc71930905209fb96728466eaccb200f02bacd210ab4bf17a6466b",
+        "epigrafe": {
+          "numero": "30171",
+          "data": "1951-11-16",
+          "epigrafe": "DECRETO Nº 30.171, DE 16 DE NOVEMBRO DE 1951."
+        },
+        "fechos": [
+          {
+            "data": null,
+            "literal": "Rio de Janeiro, 16 de novembro de 19951",
+            "contexto": "as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da mencionada autorização. Rio de Janeiro, 16 de novembro de 19951; 130º da Independência e 63º da República. GETÚLIO VARGAS Segadas Viana"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-11-16;30171",
+          "id": "452783",
+          "data": "1951-11-16",
+          "indice": {
+            "id": "452783",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30171",
+            "norma": "DEC-30171-1951-11-16",
+            "normaNome": "Decreto nº 30.171 de 16/11/1951",
+            "ementa": "CONCEDE A 'BRAZILIAN WARRANT COMPANY LIMITED' AUTORIZAÇÃO PARA CONTINUAR A FUNCIONAR NA REPUBLICA.",
+            "dataassinatura": "16/11/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-30171-1951-11-16"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30171-1951-11-16.md",
+      "sha256_candidato": "63a0ce3f944df9a437939464f01932434b2c742de288d378727619fe11fa5626",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30171, de 1951-11-16. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 16 de novembro de 19951\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/aa3fd4a2-5f54-4f33-8e76-e929989b2f00/texto; SHA-256 do HTML: ac74b32ac7bc71930905209fb96728466eaccb200f02bacd210ab4bf17a6466b.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-30135-1951-11-05.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-11-05;30135",
+      "numero": "30135",
+      "data_epigrafe_indice_metadados": "1951-11-05",
+      "epigrafe": {
+        "numero": "30135",
+        "data": "1951-11-05",
+        "epigrafe": "decreto nº 30.135, de 05 de novembro de 1951."
+      },
+      "sha256_preimagem": "29f42d1cd87281f6dbc25415ddae404ce3c173bad51a1a387571bc77152a3637",
+      "sha256_fonte_html": "516ed63a7fbc064f1e897578b1420185e6da1154776ed6141e17a2d6d44b2e1e",
+      "sha256_metadados": "f9bd3c90935d8c1b9aa4271e3d83c53062839cd6d41d0587c77377cb71ee2abd",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-11-05;30135",
+      "url_texto": "https://normas.leg.br/api/binario/2061b8b0-03f5-4d7b-8431-170e6d126d7b/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1951/dec-30135-1951-11-05.md",
+        "urn": "urn:lex:br:federal:decreto:1951-11-05;30135",
+        "sha256_md": "29f42d1cd87281f6dbc25415ddae404ce3c173bad51a1a387571bc77152a3637",
+        "sha256_fonte_html": "516ed63a7fbc064f1e897578b1420185e6da1154776ed6141e17a2d6d44b2e1e",
+        "epigrafe": {
+          "numero": "30135",
+          "data": "1951-11-05",
+          "epigrafe": "decreto nº 30.135, de 05 de novembro de 1951."
+        },
+        "fechos": [
+          {
+            "data": "1951-12-05",
+            "literal": "Rio de janeiro, 5 de dezembro de 1951",
+            "contexto": " 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário. Rio de janeiro, 5 de dezembro de 1951; 130º da Independência e 63º da República. getulio vargas Nero Moura"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-11-05;30135",
+          "id": "452747",
+          "data": "1951-11-05",
+          "indice": {
+            "id": "452747",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30135",
+            "norma": "DEC-30135-1951-11-05",
+            "normaNome": "Decreto nº 30.135 de 05/11/1951",
+            "ementa": "DA NOVA REDAÇÃO AO DECRETO 29.122 DE 12-1-1951.",
+            "dataassinatura": "05/11/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-30135-1951-11-05"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30135-1951-11-05.md",
+      "sha256_candidato": "b284fe436d1da7646b01025cdf770de134e2e97b020ede09e2b8762e2563943e",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30135, de 1951-11-05. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de janeiro, 5 de dezembro de 1951\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/2061b8b0-03f5-4d7b-8431-170e6d126d7b/texto; SHA-256 do HTML: 516ed63a7fbc064f1e897578b1420185e6da1154776ed6141e17a2d6d44b2e1e.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29990-1951-09-13.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-09-13;29990",
+      "numero": "29990",
+      "data_epigrafe_indice_metadados": "1951-09-13",
+      "epigrafe": {
+        "numero": "29990",
+        "data": "1951-09-13",
+        "epigrafe": "DECRETO Nº 29.990, DE 13 DE SETEMBRO DE 1951."
+      },
+      "sha256_preimagem": "26d57bb760b3c445debe752fa32c4121d8a95548a0aeef5b84a8942636aa6059",
+      "sha256_fonte_html": "a07e2eb06d5640584542b13b71db509e6e16287ea26054097ea2529ff5b952da",
+      "sha256_metadados": "c2b2a84b4692daac5a39a337ece980d45b9dac8ea401baf50a82fa37ba5f2ba3",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-09-13;29990",
+      "url_texto": "https://normas.leg.br/api/binario/39928009-efd4-4232-a835-6206c75323e1/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1951/dec-29990-1951-09-13.md",
+        "urn": "urn:lex:br:federal:decreto:1951-09-13;29990",
+        "sha256_md": "26d57bb760b3c445debe752fa32c4121d8a95548a0aeef5b84a8942636aa6059",
+        "sha256_fonte_html": "a07e2eb06d5640584542b13b71db509e6e16287ea26054097ea2529ff5b952da",
+        "epigrafe": {
+          "numero": "29990",
+          "data": "1951-09-13",
+          "epigrafe": "DECRETO Nº 29.990, DE 13 DE SETEMBRO DE 1951."
+        },
+        "fechos": [
+          {
+            "data": "1951-10-13",
+            "literal": "Rio de Janeiro, 13 de outubro de 1951",
+            "contexto": "amento da taxa de seiscentos cruzeiros (Cr$600.00). Art. 7º Revogam-se as disposições em contrário. Rio de Janeiro, 13 de outubro de 1951; 130º da Independência e 63º da República. Getúlio Vargas João Cleofas"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-09-13;29990",
+          "id": "452602",
+          "data": "1951-09-13",
+          "indice": {
+            "id": "452602",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29990",
+            "norma": "DEC-29990-1951-09-13",
+            "normaNome": "Decreto nº 29.990 de 13/09/1951",
+            "ementa": "AUTORIZA A S.A. FAZENDA DA FLORESTA, A AUTORIZA A SOCIEDADE ANONIMA FAZENDA DA FLORESTA, A LAVRAR CAULIM NO MUNICIPIO DE JUIZ DE FORA, ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "13/09/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29990-1951-09-13"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29990-1951-09-13.md",
+      "sha256_candidato": "1b6c39f5c5dcb1bda9270a2f293ed6a6847745ec83beb079170f40abb86e9151",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29990, de 1951-09-13. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 13 de outubro de 1951\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/39928009-efd4-4232-a835-6206c75323e1/texto; SHA-256 do HTML: a07e2eb06d5640584542b13b71db509e6e16287ea26054097ea2529ff5b952da.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29838-1951-08-03.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-08-03;29838",
+      "numero": "29838",
+      "data_epigrafe_indice_metadados": "1951-08-03",
+      "epigrafe": {
+        "numero": "29838",
+        "data": "1951-08-03",
+        "epigrafe": "DECRETO N. 29.838 – DE 3 DE AGÔSTO DE 1951"
+      },
+      "sha256_preimagem": "d9cfa90dfa2513663cb57de8a3cc9bc782c1f807ea70e1bc9cb7e4f128697e81",
+      "sha256_fonte_html": "099e8ad2913ac2c2face402215b161eee14be914b930a3cc0ac2979de2225ef9",
+      "sha256_metadados": "1e67235992ca3df2ac04c4d6b4c9dfff0535c532e2e1462abd5a0cddc4d8351e",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-08-03;29838",
+      "url_texto": "https://normas.leg.br/api/binario/6ad530c9-60fd-45b7-8c6a-fc2103768bda/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1951/dec-29838-1951-08-03.md",
+        "urn": "urn:lex:br:federal:decreto:1951-08-03;29838",
+        "sha256_md": "d9cfa90dfa2513663cb57de8a3cc9bc782c1f807ea70e1bc9cb7e4f128697e81",
+        "sha256_fonte_html": "099e8ad2913ac2c2face402215b161eee14be914b930a3cc0ac2979de2225ef9",
+        "epigrafe": {
+          "numero": "29838",
+          "data": "1951-08-03",
+          "epigrafe": "DECRETO N. 29.838 – DE 3 DE AGÔSTO DE 1951"
+        },
+        "fechos": [
+          {
+            "data": "1951-08-02",
+            "literal": "Rio de Janeiro, 2 de agôsto de 1951",
+            "contexto": "nte as leis e regulamentos em vigor ou que venham a vigorar sobre o objeto da referida autorização, Rio de Janeiro, 2 de agôsto de 1951; 130º da Independência e 63º da República. Getulio Vargas. João Cleofas."
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-08-03;29838",
+          "id": "452452",
+          "data": "1951-08-03",
+          "indice": {
+            "id": "452452",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29838",
+            "norma": "DEC-29838-1951-08-03",
+            "normaNome": "Decreto nº 29.838 de 03/08/1951",
+            "ementa": "CONCEDE A MINERAÇÃO WAHCHANG S.A AUTORIZAÇÃO PARA FUNCIONAR COMO EMPRESA DE MINERAÇÃO.",
+            "dataassinatura": "03/08/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29838-1951-08-03"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29838-1951-08-03.md",
+      "sha256_candidato": "528276bb110cee4420588177196ba2fc5f828af91d10d0d9344fb5c08c5ea5a1",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29838, de 1951-08-03. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 2 de agôsto de 1951\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/6ad530c9-60fd-45b7-8c6a-fc2103768bda/texto; SHA-256 do HTML: 099e8ad2913ac2c2face402215b161eee14be914b930a3cc0ac2979de2225ef9.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29814-1951-07-26.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-07-26;29814",
+      "numero": "29814",
+      "data_epigrafe_indice_metadados": "1951-07-26",
+      "epigrafe": {
+        "numero": "29814",
+        "data": "1951-07-26",
+        "epigrafe": "DECRETO Nº 29.814, DE 26 DE JULHO DE 1951."
+      },
+      "sha256_preimagem": "d58210e1f1525745d65c30267ecbe03766862ae1e655cb3f720e6fd5dcf151da",
+      "sha256_fonte_html": "7fb9e63a1a0321338076bdb0a00113b2844cf9ac2597a8d6d5bc26332b2a1b81",
+      "sha256_metadados": "fc31e7a65cc7b3ccc56605aac20a7192aa62cbb614fc1e9f3509ecfba5726c09",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-07-26;29814",
+      "url_texto": "https://normas.leg.br/api/binario/89123b05-39ab-499f-9f85-b28b855050d9/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1951/dec-29814-1951-07-26.md",
+        "urn": "urn:lex:br:federal:decreto:1951-07-26;29814",
+        "sha256_md": "d58210e1f1525745d65c30267ecbe03766862ae1e655cb3f720e6fd5dcf151da",
+        "sha256_fonte_html": "7fb9e63a1a0321338076bdb0a00113b2844cf9ac2597a8d6d5bc26332b2a1b81",
+        "epigrafe": {
+          "numero": "29814",
+          "data": "1951-07-26",
+          "epigrafe": "DECRETO Nº 29.814, DE 26 DE JULHO DE 1951."
+        },
+        "fechos": [
+          {
+            "data": "1951-06-26",
+            "literal": "Rio de Janeiro, 26 de junho de 1951",
+            "contexto": "jeto da autorização a que alude o presente Decreto. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, 26 de junho de 1951; 130º da Independência e 63º da República. GETÚLIO VARGAS Danton Coelho"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-07-26;29814",
+          "id": "452428",
+          "data": "1951-07-26",
+          "indice": {
+            "id": "452428",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29814",
+            "norma": "DEC-29814-1951-07-26",
+            "normaNome": "Decreto nº 29.814 de 26/07/1951",
+            "ementa": "APROVA ALTERAÇÕES INTRODUZIDAS NOS ESTATUTOS, INCLUSIVE AUMENTO DE CAPITAL DA COMPAGNIE D'ASSURANCE GENERALE CONTRE L'INCENDIE ET LES EXPLOSIONS.",
+            "dataassinatura": "26/07/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29814-1951-07-26"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29814-1951-07-26.md",
+      "sha256_candidato": "12d17c5b13230f530a7868aff454be9c19685426b0659ad135b9a27d2e108e2d",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29814, de 1951-07-26. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 26 de junho de 1951\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/89123b05-39ab-499f-9f85-b28b855050d9/texto; SHA-256 do HTML: 7fb9e63a1a0321338076bdb0a00113b2844cf9ac2597a8d6d5bc26332b2a1b81.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29728-1951-06-29.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-06-29;29728",
+      "numero": "29728",
+      "data_epigrafe_indice_metadados": "1951-06-29",
+      "epigrafe": {
+        "numero": "29728",
+        "data": "1951-06-29",
+        "epigrafe": "decreto nº 29.728, de 29 de junho de 1951."
+      },
+      "sha256_preimagem": "7db9e18801181e7ac6bfbdd4f999ae5f763afc336068e4ab7d17a96790111618",
+      "sha256_fonte_html": "2f9f8f5ec9bb01c940c47c2d05cec9c0ce28cfa52d124e7a7f3b4396ec3608e4",
+      "sha256_metadados": "d4e3ecfeec82e51152ff1ce59d7e3a6cf29f54a7051460c9dfbfcbf207860515",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-29;29728",
+      "url_texto": "https://normas.leg.br/api/binario/e98d1440-b0d2-4537-ac53-e1efada86ce2/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1951/dec-29728-1951-06-29.md",
+        "urn": "urn:lex:br:federal:decreto:1951-06-29;29728",
+        "sha256_md": "7db9e18801181e7ac6bfbdd4f999ae5f763afc336068e4ab7d17a96790111618",
+        "sha256_fonte_html": "2f9f8f5ec9bb01c940c47c2d05cec9c0ce28cfa52d124e7a7f3b4396ec3608e4",
+        "epigrafe": {
+          "numero": "29728",
+          "data": "1951-06-29",
+          "epigrafe": "decreto nº 29.728, de 29 de junho de 1951."
+        },
+        "fechos": [
+          {
+            "data": "1951-07-29",
+            "literal": "Rio de Janeiro, 29 de julho de 1951",
+            "contexto": " 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário. Rio de Janeiro, 29 de julho de 1951; 130º da Independência e 63º da República. Getúlio Vargas. Renato de Almeida Guillobel Horário Lafer"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-06-29;29728",
+          "id": "452347",
+          "data": "1951-06-29",
+          "indice": {
+            "id": "452347",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29728",
+            "norma": "DEC-29728-1951-06-29",
+            "normaNome": "Decreto nº 29.728 de 29/06/1951",
+            "ementa": "AUTORIZA O SERVIÇO DO PATRIMONIO DA UNIÃO A ACEITAR A DOAÇÃO DE UM TERRENO SITUADO NO MUNICIPIO DE SÃO LOURENÇO DO SUL, ESTADO DO RIO GRANDE DO SUL.",
+            "dataassinatura": "29/06/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29728-1951-06-29"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29728-1951-06-29.md",
+      "sha256_candidato": "e28687fe99937b98bfad8260a69f055351e226b0f8a4e1dfaa97d4ac2b02f912",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29728, de 1951-06-29. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 29 de julho de 1951\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/e98d1440-b0d2-4537-ac53-e1efada86ce2/texto; SHA-256 do HTML: 2f9f8f5ec9bb01c940c47c2d05cec9c0ce28cfa52d124e7a7f3b4396ec3608e4.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29721-1951-06-28.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-06-28;29721",
+      "numero": "29721",
+      "data_epigrafe_indice_metadados": "1951-06-28",
+      "epigrafe": {
+        "numero": "29721",
+        "data": "1951-06-28",
+        "epigrafe": "DECRETO Nº 29.721, de 28 de junho de 1951."
+      },
+      "sha256_preimagem": "50d8911e3cc377e838b404e75be2608d73228144143e114d4b5e29e15cb7f71a",
+      "sha256_fonte_html": "1e3892c5ff64c9f927aa108ab517a758aca7d20123df2baf94d43eddbb0dea48",
+      "sha256_metadados": "92d45155537cbb52060158d35ae23a9308e2b961b799cad0764ab5b2d24d908b",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-28;29721",
+      "url_texto": "https://normas.leg.br/api/binario/1f9e0538-6573-442b-ab96-60233656f7b1/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1951/dec-29721-1951-06-28.md",
+        "urn": "urn:lex:br:federal:decreto:1951-06-28;29721",
+        "sha256_md": "50d8911e3cc377e838b404e75be2608d73228144143e114d4b5e29e15cb7f71a",
+        "sha256_fonte_html": "1e3892c5ff64c9f927aa108ab517a758aca7d20123df2baf94d43eddbb0dea48",
+        "epigrafe": {
+          "numero": "29721",
+          "data": "1951-06-28",
+          "epigrafe": "DECRETO Nº 29.721, de 28 de junho de 1951."
+        },
+        "fechos": [
+          {
+            "data": "1951-07-28",
+            "literal": "Rio de janeiro, em 28 de julho de 1951",
+            "contexto": "resente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário . Rio de janeiro, em 28 de julho de 1951; 130º da Independência e 63º da República Getúlio Vargas Horácio Lafer"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-06-28;29721",
+          "id": "452340",
+          "data": "1951-06-28",
+          "indice": {
+            "id": "452340",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29721",
+            "norma": "DEC-29721-1951-06-28",
+            "normaNome": "Decreto nº 29.721 de 28/06/1951",
+            "ementa": "ALTERA A REDAÇÃO DE ARTIGOS DO DECRETO 29.526, DE 3 DE MAIO DE 1951.",
+            "dataassinatura": "28/06/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29721-1951-06-28"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29721-1951-06-28.md",
+      "sha256_candidato": "f24fcbb00a478740a62ed330ee20ec4ae725318b07bef8f53f0227cb0a87b001",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29721, de 1951-06-28. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de janeiro, em 28 de julho de 1951\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/1f9e0538-6573-442b-ab96-60233656f7b1/texto; SHA-256 do HTML: 1e3892c5ff64c9f927aa108ab517a758aca7d20123df2baf94d43eddbb0dea48.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29727-1951-06-28.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-06-28;29727",
+      "numero": "29727",
+      "data_epigrafe_indice_metadados": "1951-06-28",
+      "epigrafe": {
+        "numero": "29727",
+        "data": "1951-06-28",
+        "epigrafe": "decreto nº 29.727, de 28 de junho de 1951."
+      },
+      "sha256_preimagem": "625d6df7e4094471bf2ccc193bfc30cce3e3def9be7eeb04274c71e2d8ad9b67",
+      "sha256_fonte_html": "8c3e6b4c405b3e1e8123599e7a970c0e1a5abeab36d556d16da9b295591c55f5",
+      "sha256_metadados": "62c04e7c20242b25401be24b05d06a37ce58c931869ba32e34d4ea6e1d0b3d92",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-28;29727",
+      "url_texto": "https://normas.leg.br/api/binario/7db36ae5-a37d-48c2-b50c-825d3001d2ff/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1951/dec-29727-1951-06-28.md",
+        "urn": "urn:lex:br:federal:decreto:1951-06-28;29727",
+        "sha256_md": "625d6df7e4094471bf2ccc193bfc30cce3e3def9be7eeb04274c71e2d8ad9b67",
+        "sha256_fonte_html": "8c3e6b4c405b3e1e8123599e7a970c0e1a5abeab36d556d16da9b295591c55f5",
+        "epigrafe": {
+          "numero": "29727",
+          "data": "1951-06-28",
+          "epigrafe": "decreto nº 29.727, de 28 de junho de 1951."
+        },
+        "fechos": [
+          {
+            "data": "1950-06-28",
+            "literal": "Rio de Janeiro, em 28 de junho de 1950",
+            "contexto": "te Decreto entra em vigor na data de sua publicação, ficando revogadas as disposições em contrário. Rio de Janeiro, em 28 de junho de 1950; 130º da Independência e 63º da República. Getúlio Vargas João Neves da Fontoura"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-06-28;29727",
+          "id": "452346",
+          "data": "1951-06-28",
+          "indice": {
+            "id": "452346",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29727",
+            "norma": "DEC-29727-1951-06-28",
+            "normaNome": "Decreto nº 29.727 de 28/06/1951",
+            "ementa": "REVOGA O ARTIGO 2 DO DECRETO 27.857, DE 9 DE MARÇO DE 1950 E DA OUTRAS PROVIDENCIAS.",
+            "dataassinatura": "28/06/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29727-1951-06-28"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29727-1951-06-28.md",
+      "sha256_candidato": "f502faaef28545bf17c333334a99fb1f684e09e01ecf676d5ccc17fb35bec8ff",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29727, de 1951-06-28. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, em 28 de junho de 1950\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/7db36ae5-a37d-48c2-b50c-825d3001d2ff/texto; SHA-256 do HTML: 8c3e6b4c405b3e1e8123599e7a970c0e1a5abeab36d556d16da9b295591c55f5.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29614-1951-05-30.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-05-30;29614",
+      "numero": "29614",
+      "data_epigrafe_indice_metadados": "1951-05-30",
+      "epigrafe": {
+        "numero": "29614",
+        "data": "1951-05-30",
+        "epigrafe": "DECRETO N. 29.614 – DE 30 DE MAIO DE 1951"
+      },
+      "sha256_preimagem": "71391c2838ba9443faf04695a2b8f98194537c532aa25077ebde09d51afed284",
+      "sha256_fonte_html": "dbecd1f76d95689491576660cc68f82c50a9787284ac3371557fef2bfc2f05bb",
+      "sha256_metadados": "a73bb132acd19d795c602c07da8bce41cca80386b8fd65e8b15e7dbd836d3443",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-05-30;29614",
+      "url_texto": "https://normas.leg.br/api/binario/249e66db-5338-4cb0-9bb6-98f7c98650ec/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1951/dec-29614-1951-05-30.md",
+        "urn": "urn:lex:br:federal:decreto:1951-05-30;29614",
+        "sha256_md": "71391c2838ba9443faf04695a2b8f98194537c532aa25077ebde09d51afed284",
+        "sha256_fonte_html": "dbecd1f76d95689491576660cc68f82c50a9787284ac3371557fef2bfc2f05bb",
+        "epigrafe": {
+          "numero": "29614",
+          "data": "1951-05-30",
+          "epigrafe": "DECRETO N. 29.614 – DE 30 DE MAIO DE 1951"
+        },
+        "fechos": [
+          {
+            "data": "1952-05-30",
+            "literal": "Rio de Janeiro, 30 de maio de 1952",
+            "contexto": "Decreto entrará em vigor na data de sua publicação. Art. 10 Revogam-se as disposições em contrário. Rio de Janeiro, 30 de maio de 1952; 130º da Independência e 63º da República. Getúlio Vargas. João Cleofas."
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-05-30;29614",
+          "id": "452236",
+          "data": "1951-05-30",
+          "indice": {
+            "id": "452236",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29614",
+            "norma": "DEC-29614-1951-05-30",
+            "normaNome": "Decreto nº 29.614 de 30/05/1951",
+            "ementa": "OUTORGA A USINA HIDROELETRICA DE PUTINGA S.A., CONCESSÃO PARA O APROVEITAMENTO DE ENERGIA HIDRAULICA DE UMA QUEDA D'AGUA EXISTENTE NO RIO PUTINGA, DISTRITO DE IGUAL NOME, MUNICIPIO DE ENCANTADO, ESTADO DO RIO GRANDE DO SUL.",
+            "dataassinatura": "30/05/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29614-1951-05-30"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29614-1951-05-30.md",
+      "sha256_candidato": "9fc6c0d7aa811ea5b75cd7a1cd97042a451edd6557ab88e49d47e1f95b07699e",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29614, de 1951-05-30. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 30 de maio de 1952\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/249e66db-5338-4cb0-9bb6-98f7c98650ec/texto; SHA-256 do HTML: dbecd1f76d95689491576660cc68f82c50a9787284ac3371557fef2bfc2f05bb.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29586-1951-05-28.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-05-28;29586",
+      "numero": "29586",
+      "data_epigrafe_indice_metadados": "1951-05-28",
+      "epigrafe": {
+        "numero": "29586",
+        "data": "1951-05-28",
+        "epigrafe": "DECRETO Nº 29.586, DE 28 DE maio DE 1951."
+      },
+      "sha256_preimagem": "b4371a51cfb0d20191f1d50e8f5096be00d9511592e48e2cd68f0ec2458b87e1",
+      "sha256_fonte_html": "5b8a0dd7d41e30b2ae8efe0833def9650ba7a8c89ed90bf4e06e07d836e46d6b",
+      "sha256_metadados": "fcc9371171f2da07998224098216fc84e9afadffc336471b9e914b77594f54f5",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-05-28;29586",
+      "url_texto": "https://normas.leg.br/api/binario/c07e4f12-64ad-4438-a45e-e27e3a166c28/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1951/dec-29586-1951-05-28.md",
+        "urn": "urn:lex:br:federal:decreto:1951-05-28;29586",
+        "sha256_md": "b4371a51cfb0d20191f1d50e8f5096be00d9511592e48e2cd68f0ec2458b87e1",
+        "sha256_fonte_html": "5b8a0dd7d41e30b2ae8efe0833def9650ba7a8c89ed90bf4e06e07d836e46d6b",
+        "epigrafe": {
+          "numero": "29586",
+          "data": "1951-05-28",
+          "epigrafe": "DECRETO Nº 29.586, DE 28 DE maio DE 1951."
+        },
+        "fechos": [
+          {
+            "data": "1951-03-28",
+            "literal": "Rio de Janeiro, 28 de março de 1951",
+            "contexto": "e Decreto entra em vigor na data de sua publicação. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, 28 de março de 1951; 130º da Independência e 63º da República. getulio vargas João Cleofas"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-05-28;29586",
+          "id": "452208",
+          "data": "1951-05-28",
+          "indice": {
+            "id": "452208",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29586",
+            "norma": "DEC-29586-1951-05-28",
+            "normaNome": "Decreto nº 29.586 de 28/05/1951",
+            "ementa": "DECLARA PUBLICAS DE USO COMUM, DO DOMINIO DO ESTADO DE SÃO PAULO EM TODO A SUA EXTENSÃO AS AGUAS DO PIRACANGAGUA SÃO PAULO, EM TODA A SUA EXTENSÃO, AS AGUAS DO PIRACANGAGUA",
+            "dataassinatura": "28/05/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29586-1951-05-28"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29586-1951-05-28.md",
+      "sha256_candidato": "dae6a6361255594a50c57b1d27fe088859cc94099881e59ddc9616641ffc7dc6",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29586, de 1951-05-28. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 28 de março de 1951\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/c07e4f12-64ad-4438-a45e-e27e3a166c28/texto; SHA-256 do HTML: 5b8a0dd7d41e30b2ae8efe0833def9650ba7a8c89ed90bf4e06e07d836e46d6b.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29145-1951-01-16.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-01-16;29145",
+      "numero": "29145",
+      "data_epigrafe_indice_metadados": "1951-01-16",
+      "epigrafe": {
+        "numero": "29145",
+        "data": "1951-01-16",
+        "epigrafe": "DECRETO Nº 29.145, DE 16 DE JANEIRO DE 1951."
+      },
+      "sha256_preimagem": "21340674d6c0ba764f83e8b35385a7af440375c6d26d34d07083c91cf65f50be",
+      "sha256_fonte_html": "59e306812962314472291ea71cc25b80a0c31f2e06d68634a1f677b3a918e6db",
+      "sha256_metadados": "1b82b6046508d5a8e09ef696ccfc0d1973e22a0fedf0d8cebf0192b3857bbbce",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-01-16;29145",
+      "url_texto": "https://normas.leg.br/api/binario/7a7a08ba-4e7e-4508-91ad-6482c6e8c15c/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1951/dec-29145-1951-01-16.md",
+        "urn": "urn:lex:br:federal:decreto:1951-01-16;29145",
+        "sha256_md": "21340674d6c0ba764f83e8b35385a7af440375c6d26d34d07083c91cf65f50be",
+        "sha256_fonte_html": "59e306812962314472291ea71cc25b80a0c31f2e06d68634a1f677b3a918e6db",
+        "epigrafe": {
+          "numero": "29145",
+          "data": "1951-01-16",
+          "epigrafe": "DECRETO Nº 29.145, DE 16 DE JANEIRO DE 1951."
+        },
+        "fechos": [
+          {
+            "data": "1951-01-12",
+            "literal": "Rio de Janeiro, 12 de janeiro de 1951",
+            "contexto": "decreto entrará em vigor na data de sua publicação. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, 12 de janeiro de 1951; 130º da Independência e 63º da República. EURICO G. DUTRA Marcial Dias Pequeno"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-01-16;29145",
+          "id": "451777",
+          "data": "1951-01-16",
+          "indice": {
+            "id": "451777",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29145",
+            "norma": "DEC-29145-1951-01-16",
+            "normaNome": "Decreto nº 29.145 de 16/01/1951",
+            "ementa": "ALTERA A LOTAÇÃO DE REPARTIÇÕES ATENDIDAS PELOS QUADROS PERMANENTE E SUPLEMENTAR DO MINISTERIO DO TRABALHO, INDUSTRIA E COMERCIO.",
+            "dataassinatura": "16/01/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29145-1951-01-16"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29145-1951-01-16.md",
+      "sha256_candidato": "3607df6cea4be625e5409c2555e9e00711098869ebd65bdb5b6b0e17f3c5bad3",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29145, de 1951-01-16. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 12 de janeiro de 1951\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/7a7a08ba-4e7e-4508-91ad-6482c6e8c15c/texto; SHA-256 do HTML: 59e306812962314472291ea71cc25b80a0c31f2e06d68634a1f677b3a918e6db.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1950/dec-29017-1950-12-22.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1950-12-22;29017",
+      "numero": "29017",
+      "data_epigrafe_indice_metadados": "1950-12-22",
+      "epigrafe": {
+        "numero": "29017",
+        "data": "1950-12-22",
+        "epigrafe": "decreto nº 29.017, de 22 de dezembro de 1950."
+      },
+      "sha256_preimagem": "c88d008b1e86c0c72522a893a8cbb9a9be1f3f793bcb3c7a00a451a48d43daff",
+      "sha256_fonte_html": "e81e800ef522f6a942b4a979f1d57c74f0b23870bbf9ceab71bb0a414875dc82",
+      "sha256_metadados": "27dd88a35307417093c54061b5e37a0fe399d830ea43198e56ea46f69a0d9c45",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1950-12-22;29017",
+      "url_texto": "https://normas.leg.br/api/binario/50f36792-c6d2-415c-8379-f399c5feb316/texto",
+      "triagem": {
+        "lote": 12,
+        "path": "federal/decretos/1950/dec-29017-1950-12-22.md",
+        "urn": "urn:lex:br:federal:decreto:1950-12-22;29017",
+        "sha256_md": "c88d008b1e86c0c72522a893a8cbb9a9be1f3f793bcb3c7a00a451a48d43daff",
+        "sha256_fonte_html": "e81e800ef522f6a942b4a979f1d57c74f0b23870bbf9ceab71bb0a414875dc82",
+        "epigrafe": {
+          "numero": "29017",
+          "data": "1950-12-22",
+          "epigrafe": "decreto nº 29.017, de 22 de dezembro de 1950."
+        },
+        "fechos": [
+          {
+            "data": "1950-11-22",
+            "literal": "Rio de Janeiro, em 22 de novembro de 1950",
+            "contexto": "ital, a que se refere o processo protocolado no Ministério da Fazenda sob o número 38.529, de 1949. Rio de Janeiro, em 22 de novembro de 1950; 129º da Independência e 62º da República. Eurico G. Dutra Guilherme da Silveira"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1950-12-22;29017",
+          "id": "451654",
+          "data": "1950-12-22",
+          "indice": {
+            "id": "451654",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29017",
+            "norma": "DEC-29017-1950-12-22",
+            "normaNome": "Decreto nº 29.017 de 22/12/1950",
+            "ementa": "AUTORIZA ESTRANGEIRO A ADQUIRIR O DOMINIO UTIL DE TERRENO DE ACRESCIDO DE MARINHA (MANGUE EXTINTO) QUE MENCIONA, SITUADO NA CAPITAL DA REPUBLICA",
+            "dataassinatura": "22/12/1950",
+            "anoassinatura": "1950",
+            "apelido": "DEC-29017-1950-12-22"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29017-1950-12-22.md",
+      "sha256_candidato": "8035959ebe0d33e83b4c43a509f6dba7af64d5a19796a93ab0e4aea1023e1301",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29017, de 1950-12-22. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, em 22 de novembro de 1950\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/50f36792-c6d2-415c-8379-f399c5feb316/texto; SHA-256 do HTML: e81e800ef522f6a942b4a979f1d57c74f0b23870bbf9ceab71bb0a414875dc82.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30901-1952-05-26.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-05-26;30901",
+      "numero": "30901",
+      "data_epigrafe_indice_metadados": "1952-05-26",
+      "epigrafe": {
+        "numero": "30901",
+        "data": "1952-05-26",
+        "epigrafe": "DECRETO Nº 30.901, de 26 de maio de 1952."
+      },
+      "sha256_preimagem": "65fb57fbe6d2a80a3fab834be58a1c88fe6f95063ac9509868fba1ccea60adc6",
+      "sha256_fonte_html": "654f3c63d4cfff568eb26e3683373a5743f1bb9b0266faa85a898963d690f44c",
+      "sha256_metadados": "b436c070a1d83d00455391f532033e9620b3d2e3cc388bffbc6b6ac4316da835",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-05-26;30901",
+      "url_texto": "https://normas.leg.br/api/binario/2759cd27-629f-43a7-84fb-940135646db4/texto",
+      "triagem": {
+        "path": "federal/decretos/1952/dec-30901-1952-05-26.md",
+        "data_epigrafe": "1952-05-26",
+        "contexto": "rt. 2º Êste Decreto entrará em vigor na data de sua publicação Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro , 26 de maio de 1952; 131º da Independência e 64º, da República Getúlio Vargas Horário Lafer",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-05-26;30901",
+          "id": "453511",
+          "data": "1952-05-26",
+          "indice": {
+            "id": "453511",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30901",
+            "norma": "DEC-30901-1952-05-26",
+            "normaNome": "Decreto nº 30.901 de 26/05/1952",
+            "ementa": "ALTERA A ALINEA G DO ARTIGO 3 DO DECRETO 29.829, DE 31 DE JULHO DE 1951.",
+            "dataassinatura": "26/05/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30901-1952-05-26"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30901-1952-05-26.md",
+      "sha256_candidato": "8abc0e586741693698e9116752f10460cc3a59586eb39e1698d54a4cec91cd3f",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30901, de 1952-05-26. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"rt. 2º Êste Decreto entrará em vigor na data de sua publicação Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro , 26 de maio de 1952; 131º da Independência e 64º, da República Getúlio Vargas Horário Lafer\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/2759cd27-629f-43a7-84fb-940135646db4/texto; SHA-256 do HTML: 654f3c63d4cfff568eb26e3683373a5743f1bb9b0266faa85a898963d690f44c.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30899-1952-05-23.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-05-23;30899",
+      "numero": "30899",
+      "data_epigrafe_indice_metadados": "1952-05-23",
+      "epigrafe": {
+        "numero": "30899",
+        "data": "1952-05-23",
+        "epigrafe": "DECRETO Nº 30.899, DE 23 DE MAIO DE 1952."
+      },
+      "sha256_preimagem": "4ad500893d25e56149235d7055818c5162c50c39430598acf53b7e08d467972a",
+      "sha256_fonte_html": "679946d2de00a51feda307ba1e6cc235ea78903aa0f4d38cde644ed09e780df9",
+      "sha256_metadados": "dca548389c0dab3c1e0ba21d5264a9305828c1e085070d1387ce15c356ef4aa5",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-05-23;30899",
+      "url_texto": "https://normas.leg.br/api/binario/02627275-34cc-440b-909c-8260f85f715c/texto",
+      "triagem": {
+        "path": "federal/decretos/1952/dec-30899-1952-05-23.md",
+        "data_epigrafe": "1952-05-23",
+        "contexto": "rt. 3º Êste Decreto entrará em vigor na data de sua publicação. Art. 4º Revogam-se as disposições em contrário. Rio de janeiro, em 23 de maio 1952; 131º da Independência e 64º da República. GETULIO VARGAS Horácio Lafer João Cleofas",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-05-23;30899",
+          "id": "453509",
+          "data": "1952-05-23",
+          "indice": {
+            "id": "453509",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30899",
+            "norma": "DEC-30899-1952-05-23",
+            "normaNome": "Decreto nº 30.899 de 23/05/1952",
+            "ementa": "FIXA OS PREÇOS BASICOS MINIMOS PARA O FINANCIAMENTO OU AQUISIÇÃO DA CERA DE CARNAUBA DE PRODUÇÃO NACIONAL PARA A SAFRA DE 1951 A 1952.",
+            "dataassinatura": "23/05/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30899-1952-05-23"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30899-1952-05-23.md",
+      "sha256_candidato": "2a1992f064f20af14db2e31064e3f44b796ea8a0e83b26ed811b71cee50e87a9",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30899, de 1952-05-23. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"rt. 3º Êste Decreto entrará em vigor na data de sua publicação. Art. 4º Revogam-se as disposições em contrário. Rio de janeiro, em 23 de maio 1952; 131º da Independência e 64º da República. GETULIO VARGAS Horácio Lafer João Cleofas\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/02627275-34cc-440b-909c-8260f85f715c/texto; SHA-256 do HTML: 679946d2de00a51feda307ba1e6cc235ea78903aa0f4d38cde644ed09e780df9.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30881-1952-05-21.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-05-21;30881",
+      "numero": "30881",
+      "data_epigrafe_indice_metadados": "1952-05-21",
+      "epigrafe": {
+        "numero": "30881",
+        "data": "1952-05-21",
+        "epigrafe": "DECRETO Nº 30.881, DE 21 DE MAIO DE 1952."
+      },
+      "sha256_preimagem": "4957813df4121b105736cc28e05c9ef3da317e1e2d7f013060ba4c7f169ea367",
+      "sha256_fonte_html": "b646723b0cad245b072502439c50ba49a2e54de7bf1fccb5d55f07bd4066a4ee",
+      "sha256_metadados": "9ef1db78df601ebb74cfda7bae0a507e2c705e9dd9da6b6bcf90a7c39cd7b302",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-05-21;30881",
+      "url_texto": "https://normas.leg.br/api/binario/130e1766-d563-4e18-aeed-cff2f8b3cf82/texto",
+      "triagem": {
+        "path": "federal/decretos/1952/dec-30881-1952-05-21.md",
+        "data_epigrafe": "1952-05-21",
+        "contexto": "ão de Fomento da Produção Mineral do Ministério da Agricultura. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, 21 de mais de 1952; 131º da Independência e 64º da República. GETÚLIO VARGAS João Cleofas",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-05-21;30881",
+          "id": "453491",
+          "data": "1952-05-21",
+          "indice": {
+            "id": "453491",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30881",
+            "norma": "DEC-30881-1952-05-21",
+            "normaNome": "Decreto nº 30.881 de 21/05/1952",
+            "ementa": "RENOVA O DECRETO 27.389, DE 3 DE NOVEMBRO DE 1949. CRISTALINA ESTADO DE GOIAS.",
+            "dataassinatura": "21/05/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30881-1952-05-21"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30881-1952-05-21.md",
+      "sha256_candidato": "d69ceca10dfd5097473b29524b40cfa1d8f505d5c01ffe1897e00da6e8d76a70",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30881, de 1952-05-21. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"ão de Fomento da Produção Mineral do Ministério da Agricultura. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, 21 de mais de 1952; 131º da Independência e 64º da República. GETÚLIO VARGAS João Cleofas\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/130e1766-d563-4e18-aeed-cff2f8b3cf82/texto; SHA-256 do HTML: b646723b0cad245b072502439c50ba49a2e54de7bf1fccb5d55f07bd4066a4ee.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30811-1952-05-02.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-05-02;30811",
+      "numero": "30811",
+      "data_epigrafe_indice_metadados": "1952-05-02",
+      "epigrafe": {
+        "numero": "30811",
+        "data": "1952-05-02",
+        "epigrafe": "DECRETO Nº 30.811, DE 2 DE MAIO DE 1952."
+      },
+      "sha256_preimagem": "6d8a2b001daf359f865be718acce714be63f40b2770710f1098275f703307350",
+      "sha256_fonte_html": "7613b64ef780429e6f95db48f8baa3e634f7f89cbb2590dfdaccce6a6d21831b",
+      "sha256_metadados": "dda7edd4b488ba32d129eb2ea4ed26d3e344fe1eb3e858a3d6668d4c9990a122",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-05-02;30811",
+      "url_texto": "https://normas.leg.br/api/binario/e02f2bb3-863a-4ddc-8af9-0705bd803e70/texto",
+      "triagem": {
+        "path": "federal/decretos/1952/dec-30811-1952-05-02.md",
+        "data_epigrafe": "1952-05-02",
+        "contexto": " 2º Êste Decreto entrará em vigor na data de sua publicação . Art. 4º Revogam-se as disposições em contrario. Rio de Janeiro , 2 de abril de 1952; 131º da Independência e 64º da República . Getúlio Vargas Francisco Negrão de Lima Horacio Lafer",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-05-02;30811",
+          "id": "453421",
+          "data": "1952-05-02",
+          "indice": {
+            "id": "453421",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30811",
+            "norma": "DEC-30811-1952-05-02",
+            "normaNome": "Decreto nº 30.811 de 02/05/1952",
+            "ementa": "ABRE AO PODER JUDICIARIO - JUSTIÇA ELEITORAL - O CREDITO ESPECIAL QUE ESPECIFICA.",
+            "dataassinatura": "02/05/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30811-1952-05-02"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30811-1952-05-02.md",
+      "sha256_candidato": "b08340d57c7bd95451022721c8bbafd21b9eeb9f7ec463ac3d6ada60beaefb0e",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30811, de 1952-05-02. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \" 2º Êste Decreto entrará em vigor na data de sua publicação . Art. 4º Revogam-se as disposições em contrario. Rio de Janeiro , 2 de abril de 1952; 131º da Independência e 64º da República . Getúlio Vargas Francisco Negrão de Lima Horacio Lafer\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/e02f2bb3-863a-4ddc-8af9-0705bd803e70/texto; SHA-256 do HTML: 7613b64ef780429e6f95db48f8baa3e634f7f89cbb2590dfdaccce6a6d21831b.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30788-1952-04-28.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-04-28;30788",
+      "numero": "30788",
+      "data_epigrafe_indice_metadados": "1952-04-28",
+      "epigrafe": {
+        "numero": "30788",
+        "data": "1952-04-28",
+        "epigrafe": "DECRETO Nº 30.788, DE 28 DE ABRIL DE 1952"
+      },
+      "sha256_preimagem": "7d57e2d4a75d616c80aab31b1a5cb6559aea4c84a0514ed83df98cfeb8bc6b8b",
+      "sha256_fonte_html": "f60665ff04dc7aa40f7c0e4fb507344b957d72b1ca24f0e44b1692dc737a90cd",
+      "sha256_metadados": "21e3c81505cbdfb8f31d9c7be6b3ab8271d8b06c70d7fd9d2027bfba8dc9c6f1",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-04-28;30788",
+      "url_texto": "https://normas.leg.br/api/binario/d93cc34e-f4e6-4005-b50a-ddb7fa26eda5/texto",
+      "triagem": {
+        "path": "federal/decretos/1952/dec-30788-1952-04-28.md",
+        "data_epigrafe": "1952-04-28",
+        "contexto": "erviço de loteria, diretamente pelo Govêrno do mesmo Estado. Art. 2º Revogam-se as disposições em contrario. Rio de janeiro ,em 28 de abril de 1952;131º da Independência e 64º da Republica. Getulio Vargas Horácio Lafer",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-04-28;30788",
+          "id": "453398",
+          "data": "1952-04-28",
+          "indice": {
+            "id": "453398",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30788",
+            "norma": "DEC-30788-1952-04-28",
+            "normaNome": "Decreto nº 30.788 de 28/04/1952",
+            "ementa": "RATIFICA DECRETO DO ESTADO DE GOIAS SOBRE EXPLORAÇÃO DO SERVIÇO DE LOTERIA.",
+            "dataassinatura": "28/04/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30788-1952-04-28"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30788-1952-04-28.md",
+      "sha256_candidato": "57490593696cff996e290f3cbc9123ed1f4c023c465cda496d94a291fde9ebc1",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30788, de 1952-04-28. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"erviço de loteria, diretamente pelo Govêrno do mesmo Estado. Art. 2º Revogam-se as disposições em contrario. Rio de janeiro ,em 28 de abril de 1952;131º da Independência e 64º da Republica. Getulio Vargas Horácio Lafer\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/d93cc34e-f4e6-4005-b50a-ddb7fa26eda5/texto; SHA-256 do HTML: f60665ff04dc7aa40f7c0e4fb507344b957d72b1ca24f0e44b1692dc737a90cd.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30745-1952-04-14.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-04-14;30745",
+      "numero": "30745",
+      "data_epigrafe_indice_metadados": "1952-04-14",
+      "epigrafe": {
+        "numero": "30745",
+        "data": "1952-04-14",
+        "epigrafe": "DECRETO Nº 30.745 DE 14 DE ABRIL DE 1952"
+      },
+      "sha256_preimagem": "e05aa0cc9c3163d3d94b49f5bed6c7eca994db9683304140158c8767674de8d7",
+      "sha256_fonte_html": "0f88d08f3a5e93c4b7889496c208c4174cc9d2999f0e83ef103de9df7f91c40e",
+      "sha256_metadados": "e4790cbe00ec425df7576917cbe73ca153f50e231294da770248d6ed12481e17",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-04-14;30745",
+      "url_texto": "https://normas.leg.br/api/binario/52a7c12f-14f4-482e-903c-229ddbff8d9c/texto",
+      "triagem": {
+        "path": "federal/decretos/1952/dec-30745-1952-04-14.md",
+        "data_epigrafe": "1952-04-14",
+        "contexto": "º O presente decreto entra em vigor na data de sua publicação. Art. 3º Revogam-se as disposições em contrario. Rio de janeiro ,14 de abril de 1952; 131º da Independência e 64º da Republica. getulio Vargas João Cleofas",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-04-14;30745",
+          "id": "453355",
+          "data": "1952-04-14",
+          "indice": {
+            "id": "453355",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30745",
+            "norma": "DEC-30745-1952-04-14",
+            "normaNome": "Decreto nº 30.745 de 14/04/1952",
+            "ementa": "DA NOVA REDAÇÃO DO ARTIGO 1 DO DECRETO 28.895, DE 23 DE NOVEMBRO DE 1950.",
+            "dataassinatura": "14/04/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30745-1952-04-14"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30745-1952-04-14.md",
+      "sha256_candidato": "979e990040c729919b7dce9a3e6f55ede98f4c680b5e1cec572bcc8c70cce864",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30745, de 1952-04-14. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"º O presente decreto entra em vigor na data de sua publicação. Art. 3º Revogam-se as disposições em contrario. Rio de janeiro ,14 de abril de 1952; 131º da Independência e 64º da Republica. getulio Vargas João Cleofas\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/52a7c12f-14f4-482e-903c-229ddbff8d9c/texto; SHA-256 do HTML: 0f88d08f3a5e93c4b7889496c208c4174cc9d2999f0e83ef103de9df7f91c40e.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30751-1952-04-14.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-04-14;30751",
+      "numero": "30751",
+      "data_epigrafe_indice_metadados": "1952-04-14",
+      "epigrafe": {
+        "numero": "30751",
+        "data": "1952-04-14",
+        "epigrafe": "DECRETO Nº 30.751, DE 14 DE ABRIL DE 1952."
+      },
+      "sha256_preimagem": "9e53e9f64fd66b431f95e6e6151dda6a87dcf48fd50a06ad81fbcd3613fc5235",
+      "sha256_fonte_html": "b3fb4720c395756b4bf48778be7e3e58f2a7b40d8e56d2bc339e1bc374fdf149",
+      "sha256_metadados": "48740d862c41b33a5f240f6000d820bba915dd6f66e91d5554025c22790a31dc",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-04-14;30751",
+      "url_texto": "https://normas.leg.br/api/binario/4c61bb2d-2ad5-47a2-89e5-2a5ee5496871/texto",
+      "triagem": {
+        "path": "federal/decretos/1952/dec-30751-1952-04-14.md",
+        "data_epigrafe": "1952-04-14",
+        "contexto": "o de Fomento da Produção Mineral do Ministério da Agricultura. Art. 3° Revogam-se as disposições em contrario. Rio de Janeiro. 14 de abril de 1952; 131° da Independência e 64° da República. Getulio Vargas João Cleofas",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-04-14;30751",
+          "id": "453361",
+          "data": "1952-04-14",
+          "indice": {
+            "id": "453361",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30751",
+            "norma": "DEC-30751-1952-04-14",
+            "normaNome": "Decreto nº 30.751 de 14/04/1952",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO BASILIO DOS SANTOS MELO A PESQUISAR MINERIO DE MANGANES NO MUNICIPIO DE PACAJUS, ESTADO DO CEARA.",
+            "dataassinatura": "14/04/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30751-1952-04-14"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30751-1952-04-14.md",
+      "sha256_candidato": "812d56546db9facc1a080f5722484980a213db3c811a584b50ca5caef7f4c08e",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30751, de 1952-04-14. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"o de Fomento da Produção Mineral do Ministério da Agricultura. Art. 3° Revogam-se as disposições em contrario. Rio de Janeiro. 14 de abril de 1952; 131° da Independência e 64° da República. Getulio Vargas João Cleofas\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/4c61bb2d-2ad5-47a2-89e5-2a5ee5496871/texto; SHA-256 do HTML: b3fb4720c395756b4bf48778be7e3e58f2a7b40d8e56d2bc339e1bc374fdf149.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30713-1952-04-03.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-04-03;30713",
+      "numero": "30713",
+      "data_epigrafe_indice_metadados": "1952-04-03",
+      "epigrafe": {
+        "numero": "30713",
+        "data": "1952-04-03",
+        "epigrafe": "DECRETO Nº 30.713, DE 3 DE ABRIL DE 1952."
+      },
+      "sha256_preimagem": "8ee69900ec0e695addc7dd4ecce1732ddfaa22a8cd2641ee5d9c05b18d914c92",
+      "sha256_fonte_html": "498fcc928be003683b13f5ed1aa2c4d5759952a2bdaa1614edb3b2713a27a1bc",
+      "sha256_metadados": "f124271f9c9157544605a80fead96b66e4fe2d2a4b9a1281534b52864d95960a",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-04-03;30713",
+      "url_texto": "https://normas.leg.br/api/binario/83e710e6-66f8-47d5-9dd1-861c68e9fc8f/texto",
+      "triagem": {
+        "path": "federal/decretos/1952/dec-30713-1952-04-03.md",
+        "data_epigrafe": "1952-04-03",
+        "contexto": "á uma via autêntica dêste Decreto , pagará a taxa de trezentos cruzeiros ( Cr$ 300.00), e será transcrito no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro , 3 de abril de 1952; 131 º da Independência e 64 º da República. Getúlio Vagas João Cleofas",
+        "assinatura_presidencial_localizada": false
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-04-03;30713",
+          "id": "453323",
+          "data": "1952-04-03",
+          "indice": {
+            "id": "453323",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30713",
+            "norma": "DEC-30713-1952-04-03",
+            "normaNome": "Decreto nº 30.713 de 03/04/1952",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO ANTONIO ALVES RIBEIRO A PESQUISAR CALCARIO E ASSOCIADOS, NO MUNICIPIO DE PEDRO LEOPOLDO, ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "03/04/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30713-1952-04-03"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30713-1952-04-03.md",
+      "sha256_candidato": "b0af48eecf57fc5e1ed3f709a1827b3edd336a449c77b073efd9c0c489091601",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30713, de 1952-04-03. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"á uma via autêntica dêste Decreto , pagará a taxa de trezentos cruzeiros ( Cr$ 300.00), e será transcrito no livro próprio da Divisão de Fomento da Produção Mineral do Ministério da Agricultura. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro , 3 de abril de 1952; 131 º da Independência e 64 º da República. Getúlio Vagas João Cleofas\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/83e710e6-66f8-47d5-9dd1-861c68e9fc8f/texto; SHA-256 do HTML: 498fcc928be003683b13f5ed1aa2c4d5759952a2bdaa1614edb3b2713a27a1bc.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30538-1952-02-14.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-02-14;30538",
+      "numero": "30538",
+      "data_epigrafe_indice_metadados": "1952-02-14",
+      "epigrafe": {
+        "numero": "30538",
+        "data": "1952-02-14",
+        "epigrafe": "DECRETO Nº 30.538, DE 14 DE FEVEREIRO DE 1952."
+      },
+      "sha256_preimagem": "88355bcb089c155632039aac0152b246d39572abc2ea9beb8bfa9f8bc6efde9a",
+      "sha256_fonte_html": "87cd8bc72dd05906ab3186874072807b1ad91604007b813709714badc69e7f9d",
+      "sha256_metadados": "8aebaff4fcd5f0fcfe2177487e7fbbe7faa922a0cdec2b6cd1f06f90bffa0a3a",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-02-14;30538",
+      "url_texto": "https://normas.leg.br/api/binario/9114ab8e-5337-483f-ab9f-df7ccdfebc98/texto",
+      "triagem": {
+        "path": "federal/decretos/1952/dec-30538-1952-02-14.md",
+        "data_epigrafe": "1952-02-14",
+        "contexto": "o pagamento da taxa de seiscentos cruzeiros (Cr$ 600,00). Art. 7º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de fevereiro de 152; 131.º da Independência e 64.º da República. Getúlio vargas João Cleofas",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-02-14;30538",
+          "id": "453148",
+          "data": "1952-02-14",
+          "indice": {
+            "id": "453148",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30538",
+            "norma": "DEC-30538-1952-02-14",
+            "normaNome": "Decreto nº 30.538 de 14/02/1952",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO JOÃO LAMARCA A LAVRAR AGUA MINERAL NO MUNICIPIO DE LEOPOLDINA, ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "14/02/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30538-1952-02-14"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30538-1952-02-14.md",
+      "sha256_candidato": "d96837fa7fd60503ad383114ab51f36a23d730507cad18ac062d3ffa03d9f62b",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30538, de 1952-02-14. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"o pagamento da taxa de seiscentos cruzeiros (Cr$ 600,00). Art. 7º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de fevereiro de 152; 131.º da Independência e 64.º da República. Getúlio vargas João Cleofas\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/9114ab8e-5337-483f-ab9f-df7ccdfebc98/texto; SHA-256 do HTML: 87cd8bc72dd05906ab3186874072807b1ad91604007b813709714badc69e7f9d.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30479-1952-01-30.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-01-30;30479",
+      "numero": "30479",
+      "data_epigrafe_indice_metadados": "1952-01-30",
+      "epigrafe": {
+        "numero": "30479",
+        "data": "1952-01-30",
+        "epigrafe": "DECRETO Nº 30.479, DE 30 DE JANEIRO DE 1952."
+      },
+      "sha256_preimagem": "a48c90aa91ca173b64f2b0248921ce935335426810d688b53d8c8ce17fec9969",
+      "sha256_fonte_html": "dea8e529f0b75125d3b62303e3928920283fd3c7e916b9c1c0c3f43674bc02bf",
+      "sha256_metadados": "cb151cf7034b96c8963ad16c24ab58c53378686068810b5dda8034a6eb039d8f",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-01-30;30479",
+      "url_texto": "https://normas.leg.br/api/binario/03fbbc4c-5f4a-429f-b535-3ad2c02d14d6/texto",
+      "triagem": {
+        "path": "federal/decretos/1952/dec-30479-1952-01-30.md",
+        "data_epigrafe": "1952-01-30",
+        "contexto": "do cargo de Professor Chefe do Curso de Mercenaria, padrão J, do Quadro Permanente do mencionado Ministério. Rio de Janeiro, em 30 de janeiro 1952; 131º da Independência e 64º da República. Getulio Vargas E. Simões Filho Horacio Lafes",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-01-30;30479",
+          "id": "453089",
+          "data": "1952-01-30",
+          "indice": {
+            "id": "453089",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30479",
+            "norma": "DEC-30479-1952-01-30",
+            "normaNome": "Decreto nº 30.479 de 30/01/1952",
+            "ementa": "ABRE, PELO MINISTERIO DA EDUCAÇÃO E SAUDE, O CREDITO ESPECIAL DE CR 5.780,00, PARA ATENDER AS DESPESAS COM O PAGAMENTO DE GRATIFICAÇÃO DE MAGISTERIO.",
+            "dataassinatura": "30/01/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30479-1952-01-30"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30479-1952-01-30.md",
+      "sha256_candidato": "86c32f8d3521990fbbf15800b8b88a51f8592cbc3d9d4a437adc24fb02720ace",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30479, de 1952-01-30. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"do cargo de Professor Chefe do Curso de Mercenaria, padrão J, do Quadro Permanente do mencionado Ministério. Rio de Janeiro, em 30 de janeiro 1952; 131º da Independência e 64º da República. Getulio Vargas E. Simões Filho Horacio Lafes\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/03fbbc4c-5f4a-429f-b535-3ad2c02d14d6/texto; SHA-256 do HTML: dea8e529f0b75125d3b62303e3928920283fd3c7e916b9c1c0c3f43674bc02bf.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30371-1952-01-09.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-01-09;30371",
+      "numero": "30371",
+      "data_epigrafe_indice_metadados": "1952-01-09",
+      "epigrafe": {
+        "numero": "30371",
+        "data": "1952-01-09",
+        "epigrafe": "DECRETO Nº 30.371, DE 9 DE JANEIRO DE 1952."
+      },
+      "sha256_preimagem": "0833c557a69af1465d60e3ad1573de6bcb8bbe2e5475dee0bcc6bed1d39c6465",
+      "sha256_fonte_html": "8be468eff190ef3ca22b165c7297fd51ce5489fbbe9487c59b5c0686974339a4",
+      "sha256_metadados": "fecaf3ae808e694974972d079827aaf62a04be0f94e95c76989899bb56a790e4",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-01-09;30371",
+      "url_texto": "https://normas.leg.br/api/binario/7846ee4a-1d20-42d1-9697-6c58ab59beab/texto",
+      "triagem": {
+        "path": "federal/decretos/1952/dec-30371-1952-01-09.md",
+        "data_epigrafe": "1952-01-09",
+        "contexto": "e Janeiro, com sede nesta Capital, mantida pela Sociedade Civil Faculdade de Ciências Econômicas do Rio Janeiro. Rio Janeiro, 9 de janeiro de 1952; 131º da Independência e 64º da Republica. Getulio Vargas E. Simões Filho",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-01-09;30371",
+          "id": "452982",
+          "data": "1952-01-09",
+          "indice": {
+            "id": "452982",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30371",
+            "norma": "DEC-30371-1952-01-09",
+            "normaNome": "Decreto nº 30.371 de 09/01/1952",
+            "ementa": "CONCEDE RECONHECIMENTO AO CURSO DE CIENCIAS ECONOMICAS, DA FACULDADE DE CIENCIAS ECONOMICAS DO RIO DE JANEIRO.",
+            "dataassinatura": "09/01/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30371-1952-01-09"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30371-1952-01-09.md",
+      "sha256_candidato": "95df438ba48b6cd71ca05bab62993625066cbc6dc1f993973f7fbe404ec73102",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30371, de 1952-01-09. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"e Janeiro, com sede nesta Capital, mantida pela Sociedade Civil Faculdade de Ciências Econômicas do Rio Janeiro. Rio Janeiro, 9 de janeiro de 1952; 131º da Independência e 64º da Republica. Getulio Vargas E. Simões Filho\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/7846ee4a-1d20-42d1-9697-6c58ab59beab/texto; SHA-256 do HTML: 8be468eff190ef3ca22b165c7297fd51ce5489fbbe9487c59b5c0686974339a4.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1952/dec-30359-1952-01-03.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1952-01-03;30359",
+      "numero": "30359",
+      "data_epigrafe_indice_metadados": "1952-01-03",
+      "epigrafe": {
+        "numero": "30359",
+        "data": "1952-01-03",
+        "epigrafe": "DECRETO Nº 30.359 DE 3 DE JANEIRO DE 1952."
+      },
+      "sha256_preimagem": "357c7803220dd1b053fed54109890881e2d3bbcb8f55f044a85f64b0d075cde8",
+      "sha256_fonte_html": "7543b87e5b0ba9590ba6ac5e97bc0e8df6cf75d28c13adcb0d9cbc0bbed3d58b",
+      "sha256_metadados": "c4f67e23dde7860e55df32f8c27b40dc3c534a08393431df4fe68e6ae1fa56d0",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-01-03;30359",
+      "url_texto": "https://normas.leg.br/api/binario/15d8929f-635e-47f8-ba17-8401f2f4d7ec/texto",
+      "triagem": {
+        "path": "federal/decretos/1952/dec-30359-1952-01-03.md",
+        "data_epigrafe": "1952-01-03",
+        "contexto": " para o preenchimento indicado nos §§ 2º e 3º do art. 71 do Decreto-lei nº 2.627, de 26 de setembro de 1940. Rio de Janeiro , 3 de janeiro de 1952; 131º da Independência e 64º da República. Getulio Vargas Segadas Viana",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1952-01-03;30359",
+          "id": "452971",
+          "data": "1952-01-03",
+          "indice": {
+            "id": "452971",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30359",
+            "norma": "DEC-30359-1952-01-03",
+            "normaNome": "Decreto nº 30.359 de 03/01/1952",
+            "ementa": "CONCEDE NACIONALIZAÇÃO A 'THE MIRANDA ESTANCIA COMPANY, LIMITED'.",
+            "dataassinatura": "03/01/1952",
+            "anoassinatura": "1952",
+            "apelido": "DEC-30359-1952-01-03"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30359-1952-01-03.md",
+      "sha256_candidato": "c229df0f65abcf439acc38b1013ff1524bfa5daf6d853586bcdc6f2b18b71906",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30359, de 1952-01-03. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \" para o preenchimento indicado nos §§ 2º e 3º do art. 71 do Decreto-lei nº 2.627, de 26 de setembro de 1940. Rio de Janeiro , 3 de janeiro de 1952; 131º da Independência e 64º da República. Getulio Vargas Segadas Viana\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/15d8929f-635e-47f8-ba17-8401f2f4d7ec/texto; SHA-256 do HTML: 7543b87e5b0ba9590ba6ac5e97bc0e8df6cf75d28c13adcb0d9cbc0bbed3d58b.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-30321-1951-12-21.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-12-21;30321",
+      "numero": "30321",
+      "data_epigrafe_indice_metadados": "1951-12-21",
+      "epigrafe": {
+        "numero": "30321",
+        "data": "1951-12-21",
+        "epigrafe": "DECRETO Nº 30.321, DE 21 de dezembro DE 1951."
+      },
+      "sha256_preimagem": "9aeb74a8c00b65388fda2a63bfd6f12c6bfdf65050c5ea3c8b68dcd1dc37db54",
+      "sha256_fonte_html": "aff3c7981de11f51124b4393893f82b5f7e3359fc50d19150b23d4c08dd2772d",
+      "sha256_metadados": "fc46cc377d23556ff8f0e0b830c81cd486f20af0c8aa87c0fe9c4d24aa65959f",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-12-21;30321",
+      "url_texto": "https://normas.leg.br/api/binario/319d8c10-87e7-4c0c-aba1-5bc6b593cad4/texto",
+      "triagem": {
+        "path": "federal/decretos/1951/dec-30321-1951-12-21.md",
+        "data_epigrafe": "1951-12-21",
+        "contexto": " o objeto da autorização a que alude o presente Decreto. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, de 21 de dezembro de 1951; 130º da Independência e 63º da República. Getulio vargas Segadas Viana",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-12-21;30321",
+          "id": "452933",
+          "data": "1951-12-21",
+          "indice": {
+            "id": "452933",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30321",
+            "norma": "DEC-30321-1951-12-21",
+            "normaNome": "Decreto nº 30.321 de 21/12/1951",
+            "ementa": "APROVA ALTERAÇÕES INTRODUZIDAS NOS ESTATUTOS, INCLUSIVE AUMENTO DE CAPITAL, DE L'UNION, COMPAGNIE D'ASSURANCES CONTRE L'INCENDIE, LES ACCIDENTS ET RISQUES DIVERS.",
+            "dataassinatura": "21/12/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-30321-1951-12-21"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30321-1951-12-21.md",
+      "sha256_candidato": "78000d5ca583d60f943735bdf70ed619cae49745c2b86472426ccc8301bd2fe1",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30321, de 1951-12-21. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \" o objeto da autorização a que alude o presente Decreto. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, de 21 de dezembro de 1951; 130º da Independência e 63º da República. Getulio vargas Segadas Viana\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/319d8c10-87e7-4c0c-aba1-5bc6b593cad4/texto; SHA-256 do HTML: aff3c7981de11f51124b4393893f82b5f7e3359fc50d19150b23d4c08dd2772d.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-30267-1951-12-11.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-12-11;30267",
+      "numero": "30267",
+      "data_epigrafe_indice_metadados": "1951-12-11",
+      "epigrafe": {
+        "numero": "30267",
+        "data": "1951-12-11",
+        "epigrafe": "DECRETO Nº 30.267, DE 11 DE DEZEMBRO DE 1951."
+      },
+      "sha256_preimagem": "c3e24c8ec11027c025a25ac44ee098b60e5de67c2b7e0ddd99d6b6cec4611bdf",
+      "sha256_fonte_html": "9718f42a8e987051fc0c3245dd8fd964c81a031eccc5fdf24274b1abf9ec2ae1",
+      "sha256_metadados": "b880e7cf5345f111f58825b5337459695c265873b125c5778fa796a179fa115e",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-12-11;30267",
+      "url_texto": "https://normas.leg.br/api/binario/0ebe2662-20fe-4da1-b694-93ed8a506d8d/texto",
+      "triagem": {
+        "path": "federal/decretos/1951/dec-30267-1951-12-11.md",
+        "data_epigrafe": "1951-12-11",
+        "contexto": ". Luís, mantida pela Sociedade Brasileira de Educação e com sede em São Paulo, capital de Estado de São Paulo. Rio de Janeiro, 11 dezembro de 1951; 130º da Independência e 63º da República. GETÚLIO VARGAS E. Simões Filho",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-12-11;30267",
+          "id": "452879",
+          "data": "1951-12-11",
+          "indice": {
+            "id": "452879",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30267",
+            "norma": "DEC-30267-1951-12-11",
+            "normaNome": "Decreto nº 30.267 de 11/12/1951",
+            "ementa": "CONCEDE RECONHECIMENTO AO CURSO DE CIENCIAS ECONOMICAS DA FACULDADE DE CIENCIAS ECONOMICAS DE SÃO LUIS.",
+            "dataassinatura": "11/12/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-30267-1951-12-11"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30267-1951-12-11.md",
+      "sha256_candidato": "f17688f051ead3ab647ad0df7dd46473297cefdf1b7b1cb8f6271b17a94d21e1",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30267, de 1951-12-11. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \". Luís, mantida pela Sociedade Brasileira de Educação e com sede em São Paulo, capital de Estado de São Paulo. Rio de Janeiro, 11 dezembro de 1951; 130º da Independência e 63º da República. GETÚLIO VARGAS E. Simões Filho\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/0ebe2662-20fe-4da1-b694-93ed8a506d8d/texto; SHA-256 do HTML: 9718f42a8e987051fc0c3245dd8fd964c81a031eccc5fdf24274b1abf9ec2ae1.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-30079-1951-10-19.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-10-19;30079",
+      "numero": "30079",
+      "data_epigrafe_indice_metadados": "1951-10-19",
+      "epigrafe": {
+        "numero": "30079",
+        "data": "1951-10-19",
+        "epigrafe": "DECRETO Nº 30.079, de 19 de Outubro de 1951."
+      },
+      "sha256_preimagem": "e6e75d32b823174d7b30c16044245b4c4f660de4c3a27bcadc008538368fc62d",
+      "sha256_fonte_html": "c278132a5f444b3b5d973146711a3c8710ab986d4775747364b12f50e2295b70",
+      "sha256_metadados": "2de1f5e2d53236baa7b673cc7dcfc6c1463f129e22ca18bb63680477dca172cd",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-10-19;30079",
+      "url_texto": "https://normas.leg.br/api/binario/00eaa56e-664f-4acf-81c8-b91e4a7bea4e/texto",
+      "triagem": {
+        "path": "federal/decretos/1951/dec-30079-1951-10-19.md",
+        "data_epigrafe": "1951-10-19",
+        "contexto": " integralmente as leis e regulamentos em vigor, ou que venha a vigorar, sôbre o objeto da referida autorização. Rio de Janeiro, 19 de outubro 1951; 130º da Independência e 63º da Republica. Getulio Vargas Segadas Viana",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-10-19;30079",
+          "id": "452691",
+          "data": "1951-10-19",
+          "indice": {
+            "id": "452691",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "30079",
+            "norma": "DEC-30079-1951-10-19",
+            "normaNome": "Decreto nº 30.079 de 19/10/1951",
+            "ementa": "CONCEDE A 'EMPRESA INTERNACIONAL DE TRANSPORTES LIMITADA' AUTORIZAÇÃO PARA CONTINUAR A FUNCIONAR COMO EMPRESA DE NAVEGAÇÃO DE CABOTAGEM.",
+            "dataassinatura": "19/10/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-30079-1951-10-19"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-30079-1951-10-19.md",
+      "sha256_candidato": "a9b88f4c2648402b0c0cbf4673dae7e0b79e0bc6889e48762d26c4740fe05a5f",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 30079, de 1951-10-19. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \" integralmente as leis e regulamentos em vigor, ou que venha a vigorar, sôbre o objeto da referida autorização. Rio de Janeiro, 19 de outubro 1951; 130º da Independência e 63º da Republica. Getulio Vargas Segadas Viana\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/00eaa56e-664f-4acf-81c8-b91e4a7bea4e/texto; SHA-256 do HTML: c278132a5f444b3b5d973146711a3c8710ab986d4775747364b12f50e2295b70.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29952-1951-09-04.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-09-04;29952",
+      "numero": "29952",
+      "data_epigrafe_indice_metadados": "1951-09-04",
+      "epigrafe": {
+        "numero": "29952",
+        "data": "1951-09-04",
+        "epigrafe": "decreto nº 29.952, de 4 de setembro de 1951."
+      },
+      "sha256_preimagem": "aab8a2faa69c99f8a6441af5a2fe982406ae697da8da710b6198641830405bfd",
+      "sha256_fonte_html": "9e8b5f0a7ff3ed3fb85048cf1cbc0b6f0641d79b97d135ab9c1c7757dc08a1b3",
+      "sha256_metadados": "7c52d21947ff7e5a17b7c8695bce2c6dc4d6b512362804cbe6daf48395acd63b",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-09-04;29952",
+      "url_texto": "https://normas.leg.br/api/binario/c3579a4b-4fd4-4d13-a92f-f1ec0ff82a62/texto",
+      "triagem": {
+        "path": "federal/decretos/1951/dec-29952-1951-09-04.md",
+        "data_epigrafe": "1951-09-04",
+        "contexto": "ito da conta-corrente do mesmo Quadro do referido Ministério. Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, 4 de setembro de 151; 130º da Independência e 63º da República. Getulio Vargas Nero Moura",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-09-04;29952",
+          "id": "452564",
+          "data": "1951-09-04",
+          "indice": {
+            "id": "452564",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29952",
+            "norma": "DEC-29952-1951-09-04",
+            "normaNome": "Decreto nº 29.952 de 04/09/1951",
+            "ementa": "SUPRIME CARGOS PROVISORIOS.",
+            "dataassinatura": "04/09/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29952-1951-09-04"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29952-1951-09-04.md",
+      "sha256_candidato": "e4b6fac56d6ccf0dcdc1b097ae6ee600cba58d2671ab905d024127e241983b17",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29952, de 1951-09-04. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"ito da conta-corrente do mesmo Quadro do referido Ministério. Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, 4 de setembro de 151; 130º da Independência e 63º da República. Getulio Vargas Nero Moura\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/c3579a4b-4fd4-4d13-a92f-f1ec0ff82a62/texto; SHA-256 do HTML: 9e8b5f0a7ff3ed3fb85048cf1cbc0b6f0641d79b97d135ab9c1c7757dc08a1b3.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29905-1951-08-17.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-08-17;29905",
+      "numero": "29905",
+      "data_epigrafe_indice_metadados": "1951-08-17",
+      "epigrafe": {
+        "numero": "29905",
+        "data": "1951-08-17",
+        "epigrafe": "DECRETO Nº 29.905, 17 de agôsto de 1951."
+      },
+      "sha256_preimagem": "f2774e9e111f9eb8ac4b06576bf7f72967c2311797c7111bf40135b9869513d4",
+      "sha256_fonte_html": "f1486974131b510efb05ffd981afd8f2ed5c6fb3fd2bd1753e778e4c2b63871a",
+      "sha256_metadados": "89c296d1a8cd60eb04126097c2da071a36409d7c94e3744d88a98fa88fd6d014",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-08-17;29905",
+      "url_texto": "https://normas.leg.br/api/binario/2ff86959-1d17-41a9-b1cc-5a69f22f839f/texto",
+      "triagem": {
+        "path": "federal/decretos/1951/dec-29905-1951-08-17.md",
+        "data_epigrafe": "1951-08-17",
+        "contexto": "blicação, revogadas as disposições em contrário constante do Decreto nº 29.122, de 12 de janeiro de 1951. Rio de Janeiro , em 17 de agôsto de 1951: 130º da Independência e 63º da República. Getúlio Vargas Nero Moura",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-08-17;29905",
+          "id": "452519",
+          "data": "1951-08-17",
+          "indice": {
+            "id": "452519",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29905",
+            "norma": "DEC-29905-1951-08-17",
+            "normaNome": "Decreto nº 29.905 de 17/08/1951",
+            "ementa": "DISPÕE SOBRE A FUNÇÃO DE DIRETOR DE NUCLEO DE PARQUE DE AERONAUTICA.",
+            "dataassinatura": "17/08/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29905-1951-08-17"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29905-1951-08-17.md",
+      "sha256_candidato": "05c9ed1f028b2aea132c6613861e74a477604aacddfab3ab78b12fe1fb3546a3",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29905, de 1951-08-17. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"blicação, revogadas as disposições em contrário constante do Decreto nº 29.122, de 12 de janeiro de 1951. Rio de Janeiro , em 17 de agôsto de 1951: 130º da Independência e 63º da República. Getúlio Vargas Nero Moura\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/2ff86959-1d17-41a9-b1cc-5a69f22f839f/texto; SHA-256 do HTML: f1486974131b510efb05ffd981afd8f2ed5c6fb3fd2bd1753e778e4c2b63871a.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29879-1951-08-13.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-08-13;29879",
+      "numero": "29879",
+      "data_epigrafe_indice_metadados": "1951-08-13",
+      "epigrafe": {
+        "numero": "29879",
+        "data": "1951-08-13",
+        "epigrafe": "DECRETO N. 29.879 – DE 13 dE AGÔSTO DE 1951"
+      },
+      "sha256_preimagem": "959b61e5d036452aaae813282c183de7556690506365439dab98ef7ca83d4725",
+      "sha256_fonte_html": "2dbdd3753918c764628ca7430de740250bd2f3375b08b4919010fdf633ffa220",
+      "sha256_metadados": "3c1aec2da5ea2fda05de13d14befb6cb2fa043f4fc146783650711d1b5cd3450",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-08-13;29879",
+      "url_texto": "https://normas.leg.br/api/binario/943ed285-ece3-461d-85d8-fa63556f0ee5/texto",
+      "triagem": {
+        "path": "federal/decretos/1951/dec-29879-1951-08-13.md",
+        "data_epigrafe": "1951-08-13",
+        "contexto": "rt. 3º Êste Decreto entra em vigor na data de sua publicação. Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, l3 de agôsto de 1951; 130º da Independência e 63º da República. Getulio Vargas João Cleofas.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-08-13;29879",
+          "id": "452493",
+          "data": "1951-08-13",
+          "indice": {
+            "id": "452493",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29879",
+            "norma": "DEC-29879-1951-08-13",
+            "normaNome": "Decreto nº 29.879 de 13/08/1951",
+            "ementa": "AUTORIZA A COMPANHIA PRADA DE ELETRICIDADE A AMPLIAR A SUA INSTALAÇÃO GERADORA DIESEL - ELETRICA EM PORTO FERREIRA, NO ESTADO DE SÃO PAULO.",
+            "dataassinatura": "13/08/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29879-1951-08-13"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29879-1951-08-13.md",
+      "sha256_candidato": "c2e84ce742e275c4266a93799ddd4b298967a88707592fc95a71af3439b4ceb4",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29879, de 1951-08-13. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"rt. 3º Êste Decreto entra em vigor na data de sua publicação. Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, l3 de agôsto de 1951; 130º da Independência e 63º da República. Getulio Vargas João Cleofas.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/943ed285-ece3-461d-85d8-fa63556f0ee5/texto; SHA-256 do HTML: 2dbdd3753918c764628ca7430de740250bd2f3375b08b4919010fdf633ffa220.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29837-1951-08-03.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-08-03;29837",
+      "numero": "29837",
+      "data_epigrafe_indice_metadados": "1951-08-03",
+      "epigrafe": {
+        "numero": "29837",
+        "data": "1951-08-03",
+        "epigrafe": "DECRETO nº 29.837, DE 3 DE AGôSTO DE 1951."
+      },
+      "sha256_preimagem": "106dddbb983c9775483671eed06cd8f841e5de9a0c873c68d1c94ab3f602eea1",
+      "sha256_fonte_html": "fa77a0216d9e79f324b97c5f6779a937a49482c3e773cdcfa5b2b8776e4bad18",
+      "sha256_metadados": "36112e3bb14756abc4597b59aa2dccf7731eb6383f74e9e2c5fde474021315d4",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-08-03;29837",
+      "url_texto": "https://normas.leg.br/api/binario/18703cb8-39b3-42da-91d2-b243cc67076b/texto",
+      "triagem": {
+        "path": "federal/decretos/1951/dec-29837-1951-08-03.md",
+        "data_epigrafe": "1951-08-03",
+        "contexto": "º O presente Decreto entra em vigor na data de sua publicação. Art. 7º Revogam-se as disposições em contrário. Rio de Janeiro. 3 de agôsto de 1951; 130º da Independência e 63º da República. Getulio vargas João Cleofas",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-08-03;29837",
+          "id": "452451",
+          "data": "1951-08-03",
+          "indice": {
+            "id": "452451",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29837",
+            "norma": "DEC-29837-1951-08-03",
+            "normaNome": "Decreto nº 29.837 de 03/08/1951",
+            "ementa": "OUTORGA A COMPANHIA BRASILEIRA DE ALUMINIO CONCESSÃO PARA O APROVEITAMENTO DE ENERGIA HIDRAULICA DA CACHOEIRA GRANDE EXISTENTE NO RIO JUQUIA - GUAÇU, MUNICIPIO DE JUQUIA, ESTADO DE SÃO PAULO.",
+            "dataassinatura": "03/08/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29837-1951-08-03"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29837-1951-08-03.md",
+      "sha256_candidato": "82f5abb26be72cbeed09dabe7948c43711dded1abd55453a8c5147554e454ee6",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29837, de 1951-08-03. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"º O presente Decreto entra em vigor na data de sua publicação. Art. 7º Revogam-se as disposições em contrário. Rio de Janeiro. 3 de agôsto de 1951; 130º da Independência e 63º da República. Getulio vargas João Cleofas\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/18703cb8-39b3-42da-91d2-b243cc67076b/texto; SHA-256 do HTML: fa77a0216d9e79f324b97c5f6779a937a49482c3e773cdcfa5b2b8776e4bad18.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29704-1951-06-22.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-06-22;29704",
+      "numero": "29704",
+      "data_epigrafe_indice_metadados": "1951-06-22",
+      "epigrafe": {
+        "numero": "29704",
+        "data": "1951-06-22",
+        "epigrafe": "DECRETO Nº 29.704, DE 22 DE JUNHO DE 1951."
+      },
+      "sha256_preimagem": "c74efb38cc88659f0c6adfbb9e6ba815956128f63e53c3fd8a135c31df514893",
+      "sha256_fonte_html": "7465e116ac0c01d6bc18b112e8ab72139d9edece1a67b22c4d8a0baa5577d0b9",
+      "sha256_metadados": "76fef9edcd0800ed6c49b0aee805afe27f0968493669188db024a4d349e6a7e0",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-22;29704",
+      "url_texto": "https://normas.leg.br/api/binario/d39dc115-ff4d-472b-8388-a00fc9b3d6c2/texto",
+      "triagem": {
+        "path": "federal/decretos/1951/dec-29704-1951-06-22.md",
+        "data_epigrafe": "1951-06-22",
+        "contexto": "e Fomento da Produção Mineral do Ministério da Agricultura. Art. 3º Revogam-se as disposições em, contrario. Rio de Janeiro, em 22 de junho de 195; 130º da Independência e 63º da Republica. Getulio Vargas João Cleofas",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-06-22;29704",
+          "id": "452323",
+          "data": "1951-06-22",
+          "indice": {
+            "id": "452323",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29704",
+            "norma": "DEC-29704-1951-06-22",
+            "normaNome": "Decreto nº 29.704 de 22/06/1951",
+            "ementa": "RENOVA O DECRETO 26.203, DE 15 DE JANEIRO DE 1949.",
+            "dataassinatura": "22/06/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29704-1951-06-22"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29704-1951-06-22.md",
+      "sha256_candidato": "12a47654162b1f6c47f49f5dc292f33c2ba5cb95058bc1f4635ae64e37a81b25",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29704, de 1951-06-22. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"e Fomento da Produção Mineral do Ministério da Agricultura. Art. 3º Revogam-se as disposições em, contrario. Rio de Janeiro, em 22 de junho de 195; 130º da Independência e 63º da Republica. Getulio Vargas João Cleofas\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/d39dc115-ff4d-472b-8388-a00fc9b3d6c2/texto; SHA-256 do HTML: 7465e116ac0c01d6bc18b112e8ab72139d9edece1a67b22c4d8a0baa5577d0b9.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29695-1951-06-21.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-06-21;29695",
+      "numero": "29695",
+      "data_epigrafe_indice_metadados": "1951-06-21",
+      "epigrafe": {
+        "numero": "29695",
+        "data": "1951-06-21",
+        "epigrafe": "DECRETO nº 29.695, DE 21 DE JUNHO DE 1951."
+      },
+      "sha256_preimagem": "92744cb91d4d1a26b6431f8340a8e6aa30d1b82b42c5a6a05f62bfaa660ab93d",
+      "sha256_fonte_html": "0ef1115d9591dedb3e169968e69bc0a852a32fb2416cd15ddc4cc84085d07781",
+      "sha256_metadados": "885bba25554d73939392a5bc64bc8104c0b50c555033d887e0b302f081977ea8",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-21;29695",
+      "url_texto": "https://normas.leg.br/api/binario/c8fa3be1-3265-413d-bb35-a4350e1ef0d1/texto",
+      "triagem": {
+        "path": "federal/decretos/1951/dec-29695-1951-06-21.md",
+        "data_epigrafe": "1951-06-21",
+        "contexto": "bre o objeto da autorização a que alude o presente Decreto. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, de 21 de junho de 1951, 130º da Independência e 63º da República. Getulio vargas Danton Coelho",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-06-21;29695",
+          "id": "452314",
+          "data": "1951-06-21",
+          "indice": {
+            "id": "452314",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29695",
+            "norma": "DEC-29695-1951-06-21",
+            "normaNome": "Decreto nº 29.695 de 21/06/1951",
+            "ementa": "APROVA COM MODIFICAÇÕES OS ESTATUTOS DA \"SÃO PAULO\" COMPANHIA NACIONAL DE SEGUROS DE VIDA.",
+            "dataassinatura": "21/06/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29695-1951-06-21"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29695-1951-06-21.md",
+      "sha256_candidato": "601bf649d7eabbee81e6a141fc88fe54dade1107afdabb3c7ee222d5da92b239",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29695, de 1951-06-21. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"bre o objeto da autorização a que alude o presente Decreto. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, de 21 de junho de 1951, 130º da Independência e 63º da República. Getulio vargas Danton Coelho\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/c8fa3be1-3265-413d-bb35-a4350e1ef0d1/texto; SHA-256 do HTML: 0ef1115d9591dedb3e169968e69bc0a852a32fb2416cd15ddc4cc84085d07781.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29621-1951-05-31.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-05-31;29621",
+      "numero": "29621",
+      "data_epigrafe_indice_metadados": "1951-05-31",
+      "epigrafe": {
+        "numero": "29621",
+        "data": "1951-05-31",
+        "epigrafe": "decreto nº 29.621, de 31 de maio de 1951."
+      },
+      "sha256_preimagem": "07277014b0251b8fe33d34b2f7322cc2f805c96bb15862e34202dd38daead868",
+      "sha256_fonte_html": "7de64bc9dc8d945015cb4d990d4184d1502a8fbd156a0039bb3c06ea16058f2e",
+      "sha256_metadados": "f06c5f90195e3fd6f54a56d5c11d43a76820522a201e16226b6010395db3dd21",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-05-31;29621",
+      "url_texto": "https://normas.leg.br/api/binario/14c39e19-9a61-4637-bb5e-2307d70c3fc4/texto",
+      "triagem": {
+        "path": "federal/decretos/1951/dec-29621-1951-05-31.md",
+        "data_epigrafe": "1951-05-31",
+        "contexto": "ão de Fomento da Produção Mineral do Ministério da Agricultura. Art.3º - Revogam-se as disposições em contrário. Rio de Janeiro, 31 se maio de 1951; 130ºda Independência e 63º da República. Getulio vargas João Cleofas",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-05-31;29621",
+          "id": "452243",
+          "data": "1951-05-31",
+          "indice": {
+            "id": "452243",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29621",
+            "norma": "DEC-29621-1951-05-31",
+            "normaNome": "Decreto nº 29.621 de 31/05/1951",
+            "ementa": "AUTORIZA A SOCIEDADE BRASILEIRA DE IMOVEIS LTDA., A PESQUISAR MINERIOS DE FERRO E MANGANES, NO MUNICIPIO DE CORUMBA, ESTADO DE MATO GROSSO.",
+            "dataassinatura": "31/05/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29621-1951-05-31"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29621-1951-05-31.md",
+      "sha256_candidato": "7780b8eaa330f3d4a8206e6019e740a09fd4dd3a1b544abf9c9b184568e83cc6",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29621, de 1951-05-31. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"ão de Fomento da Produção Mineral do Ministério da Agricultura. Art.3º - Revogam-se as disposições em contrário. Rio de Janeiro, 31 se maio de 1951; 130ºda Independência e 63º da República. Getulio vargas João Cleofas\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/14c39e19-9a61-4637-bb5e-2307d70c3fc4/texto; SHA-256 do HTML: 7de64bc9dc8d945015cb4d990d4184d1502a8fbd156a0039bb3c06ea16058f2e.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29486-1951-04-23.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-04-23;29486",
+      "numero": "29486",
+      "data_epigrafe_indice_metadados": "1951-04-23",
+      "epigrafe": {
+        "numero": "29486",
+        "data": "1951-04-23",
+        "epigrafe": "DECRETO Nº 29.486, DE 23 DE ABRIL DE 1951."
+      },
+      "sha256_preimagem": "ec75b7bb6bb25a67caa2f66d502a22cf39c50ef2736a4a6ec3a4dd6dccf8589b",
+      "sha256_fonte_html": "62a440404765108d76886fc576b572b8d603cc726e731d749acc3f9f3321de09",
+      "sha256_metadados": "117653c9061227565b3c4d13e6562db1edb50ae0383d66bd71cc2b5bed6248a1",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-04-23;29486",
+      "url_texto": "https://normas.leg.br/api/binario/f62393b1-e9ac-46bf-92b2-4b61d9927e9f/texto",
+      "triagem": {
+        "path": "federal/decretos/1951/dec-29486-1951-04-23.md",
+        "data_epigrafe": "1951-04-23",
+        "contexto": "as. Art. 2º O presente Decreto entrará em vigor na data de sue publicação, revogadas as disposições em contrário. Rio Janeiro, 23 de abril de 1951; 130º da Independência e 63º da República. GETULIO VARGAS Renato de Almeida Guillobel",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-04-23;29486",
+          "id": "452113",
+          "data": "1951-04-23",
+          "indice": {
+            "id": "452113",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29486",
+            "norma": "DEC-29486-1951-04-23",
+            "normaNome": "Decreto nº 29.486 de 23/04/1951",
+            "ementa": "DA NOVA DENOMINAÇÃO AO HOSPITAL NAVAL DE DOENÇAS INFECTO-CONTAGIOSAS (HOSPITAL NAVAL MARCILIO DIAS).",
+            "dataassinatura": "23/04/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29486-1951-04-23"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29486-1951-04-23.md",
+      "sha256_candidato": "fedf34a3f96e5abd5c89845592440086bb89d946936331a1e30d9c3dacd87f39",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29486, de 1951-04-23. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"as. Art. 2º O presente Decreto entrará em vigor na data de sue publicação, revogadas as disposições em contrário. Rio Janeiro, 23 de abril de 1951; 130º da Independência e 63º da República. GETULIO VARGAS Renato de Almeida Guillobel\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/f62393b1-e9ac-46bf-92b2-4b61d9927e9f/texto; SHA-256 do HTML: 62a440404765108d76886fc576b572b8d603cc726e731d749acc3f9f3321de09.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29444-1951-04-05.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-04-05;29444",
+      "numero": "29444",
+      "data_epigrafe_indice_metadados": "1951-04-05",
+      "epigrafe": {
+        "numero": "29444",
+        "data": "1951-04-05",
+        "epigrafe": "DECRETO N. 29.444 – DE 5 DE ABRIL DE 1951"
+      },
+      "sha256_preimagem": "c20e1f2f3d0d76f7d197dd6470f826ab7301cce3b38d089b45ab59abe26a0339",
+      "sha256_fonte_html": "88ed2fa1958e9fe4c2fdf5af52d3e1d63c10c1b9584ff3aa62923900e203238e",
+      "sha256_metadados": "f5685e7f9e30fb53d2fd56f512b5b8bbec06c6e9af63b8ab1f5147aad49b600f",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-04-05;29444",
+      "url_texto": "https://normas.leg.br/api/binario/6b947ef9-46f3-45d6-a6e3-0c422433fdea/texto",
+      "triagem": {
+        "path": "federal/decretos/1951/dec-29444-1951-04-05.md",
+        "data_epigrafe": "1951-04-05",
+        "contexto": "o de Fomento da Produção Mineral do Ministério da Agricultura. Art. 3º Revogam-se as disposições em contrário. Rio, de Janeiro, 5 de abril de 1951; 130º da Independência e 63º da República. Getulio Vargas. João Cleofas.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-04-05;29444",
+          "id": "452070",
+          "data": "1951-04-05",
+          "indice": {
+            "id": "452070",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29444",
+            "norma": "DEC-29444-1951-04-05",
+            "normaNome": "Decreto nº 29.444 de 05/04/1951",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO JOSE DE ARAUJO CONCEIÇÃO A PESQUISAR MICA E ASSOCIADOS NO MUNICIPIO DE PEÇANHA, ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "05/04/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29444-1951-04-05"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29444-1951-04-05.md",
+      "sha256_candidato": "ec2e97dc9e0c7002802584a79c23586b16c8f7c3176dda97969896a24b2e82d1",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29444, de 1951-04-05. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"o de Fomento da Produção Mineral do Ministério da Agricultura. Art. 3º Revogam-se as disposições em contrário. Rio, de Janeiro, 5 de abril de 1951; 130º da Independência e 63º da República. Getulio Vargas. João Cleofas.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/6b947ef9-46f3-45d6-a6e3-0c422433fdea/texto; SHA-256 do HTML: 88ed2fa1958e9fe4c2fdf5af52d3e1d63c10c1b9584ff3aa62923900e203238e.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29395-1951-03-27.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-03-27;29395",
+      "numero": "29395",
+      "data_epigrafe_indice_metadados": "1951-03-27",
+      "epigrafe": {
+        "numero": "29395",
+        "data": "1951-03-27",
+        "epigrafe": "DECRETO Nº 29.395, DE 27 DE MARÇO DE 1951."
+      },
+      "sha256_preimagem": "68c248bbe8923f5f448b9ba58a811487f4910e8d579ba8b1f83e2885c52411f6",
+      "sha256_fonte_html": "b9b849bb273557c4c5b87cbb446ac61fa687efbef798e9eaa13f1c1ad53bcf78",
+      "sha256_metadados": "002b2018252d547718bd014d8eedbb25d8cf7467974983928c720a52c65ddd2f",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-03-27;29395",
+      "url_texto": "https://normas.leg.br/api/binario/e74b0356-2037-45b1-aa42-0c7f212a0f06/texto",
+      "triagem": {
+        "path": "federal/decretos/1951/dec-29395-1951-03-27.md",
+        "data_epigrafe": "1951-03-27",
+        "contexto": "ito no livro da Produção Mineral do Ministério da Agricultura. Art.3º Revogam-se as disposições em contrário. Rio de Janeiro , 27 de março de 1951; 130º da Independência e 63º da República. Getúlio Vargas João Cleofas",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-03-27;29395",
+          "id": "452021",
+          "data": "1951-03-27",
+          "indice": {
+            "id": "452021",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29395",
+            "norma": "DEC-29395-1951-03-27",
+            "normaNome": "Decreto nº 29.395 de 27/03/1951",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO JOSE NARCIZO DA SILVA A PESQUISAR AREIA QUARTZOSA E ASSOCIADOS NO MUNICIPIO DE TIRADENTES, ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "27/03/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29395-1951-03-27"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29395-1951-03-27.md",
+      "sha256_candidato": "57e0802f923c13c990fe13a1cf2566d99a5b988d37279d7432d1f987f2d9b8f7",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29395, de 1951-03-27. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"ito no livro da Produção Mineral do Ministério da Agricultura. Art.3º Revogam-se as disposições em contrário. Rio de Janeiro , 27 de março de 1951; 130º da Independência e 63º da República. Getúlio Vargas João Cleofas\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/e74b0356-2037-45b1-aa42-0c7f212a0f06/texto; SHA-256 do HTML: b9b849bb273557c4c5b87cbb446ac61fa687efbef798e9eaa13f1c1ad53bcf78.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29304-1951-02-23.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-02-23;29304",
+      "numero": "29304",
+      "data_epigrafe_indice_metadados": "1951-02-23",
+      "epigrafe": {
+        "numero": "29304",
+        "data": "1951-02-23",
+        "epigrafe": "DECRETO Nº 29.304, DE 23 DE FEVEREIRO DE 1951."
+      },
+      "sha256_preimagem": "a938e4e95c5a7b70278bffc899dd7700e4925cd992984bf942cdf261c54a09d2",
+      "sha256_fonte_html": "333c1ffe432b489bf82a01b8cd3315ec9a3f65b1eb6ec6275ea5d34daa63e0ba",
+      "sha256_metadados": "b9d94973e5cabe5b86e233220912876d8642db2b1ec00ebde241bd2b21d9160b",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-02-23;29304",
+      "url_texto": "https://normas.leg.br/api/binario/efd9155d-7db7-40ea-9205-8d20a81619ca/texto",
+      "triagem": {
+        "path": "federal/decretos/1951/dec-29304-1951-02-23.md",
+        "data_epigrafe": "1951-02-23",
+        "contexto": "tegralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização. Rio de Janeiro, 23 fevereiro de 1951; 130º da Independência e 63º da República. GETÚLIO VARGAS Danton Coelho",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-02-23;29304",
+          "id": "451930",
+          "data": "1951-02-23",
+          "indice": {
+            "id": "451930",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29304",
+            "norma": "DEC-29304-1951-02-23",
+            "normaNome": "Decreto nº 29.304 de 23/02/1951",
+            "ementa": "CONCEDE A \"SOCIEDADE COMERCIO E NAVEGAÇÃO BORBA LTDA.\" AUTORIZAÇÃO PARA FUNCIONAR COMO EMPRESA DE NAVEGAÇÃO DE CABOTAGEM, DE ACORDO COM O QUE PRESCREVE O DECRETO-LEI 2.784, DE 20 DE NOVEMBRO DE 1940.",
+            "dataassinatura": "23/02/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29304-1951-02-23"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-29304-1951-02-23.md",
+      "sha256_candidato": "c174659156a25365b6a2da76e308e81c38c5cf0b281f41b1d3427ff631a2cebb",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 29304, de 1951-02-23. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"tegralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização. Rio de Janeiro, 23 fevereiro de 1951; 130º da Independência e 63º da República. GETÚLIO VARGAS Danton Coelho\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/efd9155d-7db7-40ea-9205-8d20a81619ca/texto; SHA-256 do HTML: 333c1ffe432b489bf82a01b8cd3315ec9a3f65b1eb6ec6275ea5d34daa63e0ba.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1951/dec-29081-1951-01-04.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1951-01-04;29081",
+      "numero": "29081",
+      "data_epigrafe_indice_metadados": "1951-01-04",
+      "epigrafe": {
+        "numero": "29081",
+        "data": "1951-01-04",
+        "epigrafe": "DECRETO N. 29.081 – DE 4 DE JANEIRO DE 1951"
+      },
+      "sha256_preimagem": "3f45940cad875aa3c5656d9a610531af6d0a0a019db24cc9f91d27320264cfa7",
+      "sha256_fonte_html": "c863ebb9ae2b96f5e0e1b7f4eefb2c3586ceecf73277ac14eec556957d293cd4",
+      "sha256_metadados": "b93e69bbabdaa2eb3ddc6e5ae127e930f6a414a2587adc154f42d4e865b638bf",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-01-04;29081",
+      "url_texto": "https://normas.leg.br/api/binario/d12b1a49-634d-4ad4-bcc7-d3c5b8d4c17f/texto",
+      "triagem": {
+        "path": "federal/decretos/1951/dec-29081-1951-01-04.md",
+        "data_epigrafe": "1951-01-04",
+        "contexto": "elo presente Decreto são os constantes da relação nominal anexa. Art. 2º Êste Decreto entrará em vigor na data de sua publicação. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, de 4 de janeiro de 1951; 130º da Independência e 63º da República. Eurico G. Dutra. Armando Trompowsky. <<ANEXO>>CLBR Vol. 02 Ano 1951 Págs. 4 a 16 Tabelas.",
+        "assinatura_presidencial_localizada": false
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1951-01-04;29081",
+          "id": "451716",
+          "data": "1951-01-04",
+          "indice": {
+            "id": "451716",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29081",
+            "norma": "DEC-29081-1951-01-04",
+            "normaNome": "Decreto nº 29.081 de 04/01/1951",
+            "ementa": "ALTERA, SEM AUMENTO DE DESPESA, TABELA UNICA DE EXTRANUMERARIOS-MENSALISTAS DO MINISTERIO DA AERONAUTICA.",
+            "dataassinatura": "04/01/1951",
+            "anoassinatura": "1951",
+            "apelido": "DEC-29081-1951-01-04"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "retido_revisao",
+      "motivo": "Relação nominal que determina a alteração da tabela de mensalistas ausente; apenas ponteiro CLBR pp. 4–16."
+    },
+    {
+      "path": "federal/decretos/1950/dec-29004-1950-12-19.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1950-12-19;29004",
+      "numero": "29004",
+      "data_epigrafe_indice_metadados": "1950-12-19",
+      "epigrafe": {
+        "numero": "29004",
+        "data": "1950-12-19",
+        "epigrafe": "DECRETO N. 29.004 – DE 19 DE DEZEMBRO DE 1950"
+      },
+      "sha256_preimagem": "b4b797d4ba2d6b407c454e61f64389b111d0d522d1b9dad642f4ba1ce9c64443",
+      "sha256_fonte_html": "4e7185c5d710aa45fddbe248d2f766f7ff36f56c06571c81a94ef580e0b8d853",
+      "sha256_metadados": "24dd0dd87d77035b9894df8b7f5ffe46f6a1b57a768d4a00d7fb9f0a00d97944",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1950-12-19;29004",
+      "url_texto": "https://normas.leg.br/api/binario/27dd710a-3764-4608-a348-d5e4aaa86165/texto",
+      "triagem": {
+        "path": "federal/decretos/1950/dec-29004-1950-12-19.md",
+        "data_epigrafe": "1950-12-19",
+        "contexto": "pelo presente decreto são os constantes da relação nominal anexa. Art. 2º Êste Decreto entrará em vigor na data de sua publicação. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro. em 19 de dezembro de 1950; 129º da Independência e 62º da República. Eurico G. Dutra. Pedro Calmon. <<ANEXO>>CLBR Vol. 08 Ano 1950 Págs. 389 a 392 Tabelas.",
+        "assinatura_presidencial_localizada": false
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1950-12-19;29004",
+          "id": "451642",
+          "data": "1950-12-19",
+          "indice": {
+            "id": "451642",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "29004",
+            "norma": "DEC-29004-1950-12-19",
+            "normaNome": "Decreto nº 29.004 de 19/12/1950",
+            "ementa": "ALTERA O DECRETO 28.734, DE 9 DE OUTUBRO DE 1950, QUE DISPÕE SOBRE A TABELA UNICA DE EXTRANUMERARIO MENSALISTA DA UNIVERSIDADE DE RECIFE.",
+            "dataassinatura": "19/12/1950",
+            "anoassinatura": "1950",
+            "apelido": "DEC-29004-1950-12-19"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "retido_revisao",
+      "motivo": "Relação nominal que determina a alteração da tabela de mensalistas ausente; apenas ponteiro CLBR pp. 389–392."
+    },
+    {
+      "path": "federal/decretos/1950/dec-28936-1950-12-06.md",
+      "lote": 12,
+      "urn": "urn:lex:br:federal:decreto:1950-12-06;28936",
+      "numero": "28936",
+      "data_epigrafe_indice_metadados": "1950-12-06",
+      "epigrafe": {
+        "numero": "28936",
+        "data": "1950-12-06",
+        "epigrafe": "DECRETO Nº 28.936, DE 6 DE DEZEMBRO DE 1950."
+      },
+      "sha256_preimagem": "8440734db4f21915714e6ba78691401d5d35defb16c1a55e42ee1023a58dc46c",
+      "sha256_fonte_html": "e5c02e2c2eff92ec886ed561535ba7b1634c94fab657afb8c7892948d3a2fc3a",
+      "sha256_metadados": "8c7450d4f88fec657a3b3055150d22b0addcc792ba1fc8c11bfe35680c28edd2",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1950-12-06;28936",
+      "url_texto": "https://normas.leg.br/api/binario/939341f7-c981-4a0e-ae9a-c79decb89c19/texto",
+      "triagem": {
+        "path": "federal/decretos/1950/dec-28936-1950-12-06.md",
+        "data_epigrafe": "1950-12-06",
+        "contexto": "entende-se como “Santa Casa” Todo estabelecimento de natureza hospitalar destinado à prestar assistência gratuita à pobreza”. Art. 2º Êste decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário. Rio de Janeiro, de 6 de dezembro de 1950; 129º da Independência e 62º da República. Eurico G. Dutra Pedro Calmon",
+        "assinatura_presidencial_localizada": false
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1950-12-06;28936",
+          "id": "451575",
+          "data": "1950-12-06",
+          "indice": {
+            "id": "451575",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "28936",
+            "norma": "DEC-28936-1950-12-06",
+            "normaNome": "Decreto nº 28.936 de 06/12/1950",
+            "ementa": "ACRESCENTA DISPOSITIVO AO REGULAMENTO DO FUNDO DE",
+            "dataassinatura": "06/12/1950",
+            "anoassinatura": "1950",
+            "apelido": "DEC-28936-1950-12-06"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261021_006/dec-28936-1950-12-06.md",
+      "sha256_candidato": "b7568dcf844390d24bc2304619c08f8ca5e14196d0df36a8039b8b6efbe5ffe1",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 28936, de 1950-12-06. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"entende-se como “Santa Casa” Todo estabelecimento de natureza hospitalar destinado à prestar assistência gratuita à pobreza”. Art. 2º Êste decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário. Rio de Janeiro, de 6 de dezembro de 1950; 129º da Independência e 62º da República. Eurico G. Dutra Pedro Calmon\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/939341f7-c981-4a0e-ae9a-c79decb89c19/texto; SHA-256 do HTML: e5c02e2c2eff92ec886ed561535ba7b1634c94fab657afb8c7892948d3a2fc3a.",
+      "corpo_oficial_inalterado": true
+    }
+  ],
+  "limites": "As notas preservam a divergência literal. Não constituem emenda ao texto oficial, correção definitiva da data ou prova de integralidade de suplemento. Demais gates dos lotes permanecem cumulativos."
+}
