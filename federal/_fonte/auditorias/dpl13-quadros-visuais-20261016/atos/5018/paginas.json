@@ -1,0 +1,36 @@
+{
+  "numero": "5018",
+  "ano": 1926,
+  "fonte_pdf": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/colecao1926-parte1.pdf",
+  "fonte_pdf_sha256": "3672606f9fee7f583efd4ea5cfcdc13798b11ad424c81c6c070bbe89ff023317",
+  "paginas": [
+    {
+      "pagina_PDF": 45,
+      "pagina_impressa": 22,
+      "PDF_path": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/5018/pagina-45.pdf",
+      "PDF_sha256": "c5e968b57695f476f544e6d64b129dd7fe0e655a37c7ce161cf98b3532f3d897",
+      "PNG_path": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/5018/pagina-45.png",
+      "PNG_sha256": "821b114c8c88addfb1674c5183e55030979314598081c2e712045de9056ca78f"
+    },
+    {
+      "pagina_PDF": 46,
+      "pagina_impressa": 23,
+      "PDF_path": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/5018/pagina-46.pdf",
+      "PDF_sha256": "33abe3669bbe40df8388527f49c9f52cd416501d2708ea242ec4be058489c996",
+      "PNG_path": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/5018/pagina-46.png",
+      "PNG_sha256": "23641ee5c9b33bab3a993920974e6209f198974e71ebab62be8d52e79f341419"
+    },
+    {
+      "pagina_PDF": 47,
+      "pagina_impressa": 24,
+      "PDF_path": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/5018/pagina-47.pdf",
+      "PDF_sha256": "28a40bcf4f69c0074048553bb0ad5bf18bf32a2386bce875aca610a5bc38f150",
+      "PNG_path": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/5018/pagina-47.png",
+      "PNG_sha256": "693b36389ecf965ead911817660398e01befefb5180e1e724f23d5202b47f8ca"
+    }
+  ],
+  "PDF_derivado": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/5018/paginas-integra.pdf",
+  "PDF_derivado_sha256": "1080159679f45a5165df3403473be29104ac5991331d6534dcb916085fe42260",
+  "estado": "fontevisual_integra_localizada_aguarda_cotejo",
+  "nota": "Páginaslimitecontêmoutrosatos; limites textuais individuais ficam explícitos no inventário."
+}

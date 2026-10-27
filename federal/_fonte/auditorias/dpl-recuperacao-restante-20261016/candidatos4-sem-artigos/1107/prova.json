@@ -1,0 +1,52 @@
+{
+  "norma": "DPL-1107-1903-11-24",
+  "urn": "urn:lex:br:federal:decreto.legislativo:1903-11-24;1107",
+  "candidato": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/1107/dpl-1107-1903-11-24.md",
+  "sha256_MD": "a1c65a847b6e63e139d2e2ba4990f91e7e2713344e072d3537e734f45233eb42",
+  "sha256_corpo": "1f2492394fd4adbc2f56271c0a352a0828d34e5072a02394677d884dce78c451",
+  "fonte": {
+    "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/39d458eaa5aad8d684ea51f82248348969db81cbd1b3b25a11fec229bbdcbc56-bf111c0c8c5fed6818e55b1a6ce4571441feea1af75aab6bacac228795a654a7.html.gz",
+    "sha256": "39d458eaa5aad8d684ea51f82248348969db81cbd1b3b25a11fec229bbdcbc56",
+    "URL": "https://www2.camara.leg.br/legin/fed/decret/1900-1909/decreto-1107-24-novembro-1903-584920-publicacaooriginal-107782-pl.html",
+    "sha256_HTML": "c37daec190264825feb25096922b56b094bc1c9be662efd9d58edc600771d86c",
+    "sha256_fragmento": "8f769fa96b942a41a03d74e4d5e979d4904726d5ca147f82f24214da6fc4907e"
+  },
+  "sha256_metadados": "fc264d39c8f7cc79749b279af64d78aae925c3e2839de86e66e11237c19f0524",
+  "link_proprio_literal": "https://www2.camara.leg.br/legin/fed/decret/1900-1909/decreto-1107-24-novembro-1903-584920-publicacaooriginal-107782-pl.html",
+  "ementa_literal": "Autoriza o Poder Executivo a prorogar por um anno, com ordenado, a licença em cujo gozo se acha o conductor de 3ª classe da Estrada de Ferro Central do Brazil Antonio Toscano de Brito.",
+  "preambulo_literal": "O Presidente da Republica dos Estados Unidos do Brazil:  \nFaço saber que o Congresso Nacional decretou e eu sancciono a resolução seguinte:\n\nE' o Presidente da Republica autorizado a prorogar, por um anno, com o respectivo ordenado, a licença em cujo gozo se acha o conductor de 3ª classe da Estrada de Ferro Central do Brazil Antonio Toscano de Brito, afim de tratar de sua saude onde lhe convier; r",
+  "fecho_literal": "Autoriza o Poder Executivo a prorogar por um anno, com ordenado, a licença em cujo gozo se acha o conductor de 3ª classe da Estrada de Ferro Central do Brazil Antonio Toscano de Brito.\n\nO Presidente da Republica dos Estados Unidos do Brazil:  \nFaço saber que o Congresso Nacional decretou e eu sancciono a resolução seguinte:\n\nE' o Presidente da Republica autorizado a prorogar, por um anno, com o respectivo ordenado, a licença em cujo gozo se acha o conductor de 3ª classe da Estrada de Ferro Central do Brazil Antonio Toscano de Brito, afim de tratar de sua saude onde lhe convier; revogadas as disposições em contrario.\n\nRio de Janeiro, 24 de novembro de 1903, 15º da Republica.\n\nFRANCISCO DE PAULA RODRIGUES ALVES.  \nLauro Severiano Müller.\n",
+  "gate_formula_documento_inteiro": true,
+  "gate_mesma_funcao_preambulo_proprio": true,
+  "causa": "Ato autônomo sem rótulos de artigos na fonte: disposição legislativa completa, preâmbulo, fecho e identidade próprios comprovados. Nenhum Artigo único fabricado; gate genérico não alterado.",
+  "wholetext_DOM_GFM_identico": true,
+  "formatos_criticos": {
+    "u": {
+      "fonte": [],
+      "GFM": []
+    },
+    "del/s/strike": {
+      "fonte": [],
+      "GFM": []
+    },
+    "sup": {
+      "fonte": [],
+      "GFM": []
+    },
+    "sub": {
+      "fonte": [],
+      "GFM": []
+    },
+    "i/em": {
+      "fonte": [],
+      "GFM": []
+    }
+  },
+  "formato": {
+    "erros": [],
+    "avisos": []
+  },
+  "vigencia": "Literal próprio Não consta revogação expressa → null; sem inferir vigente.",
+  "publicado": false,
+  "aprovacao_independente": false
+}

@@ -1,0 +1,20 @@
+{
+  "numero": "2168",
+  "ano": 1909,
+  "fonte_pdf": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/colecao1909-parte1.pdf",
+  "fonte_pdf_sha256": "c021b198156c543b587ff409fbde8cdbb5a26b187048c4d7ac5a5e6d188df093",
+  "paginas": [
+    {
+      "pagina_PDF": 110,
+      "pagina_impressa": 84,
+      "PDF_path": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/2168/pagina-110.pdf",
+      "PDF_sha256": "286397b93963436ae96f8d5c9a7a91450b42e26721d962c169e3cdf119a4f5d7",
+      "PNG_path": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/2168/pagina-110.png",
+      "PNG_sha256": "156216a5e1dfd8a18547989e8fb125b55693c024cfa805a443101f2f2da3d0b1"
+    }
+  ],
+  "PDF_derivado": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/2168/paginas-integra.pdf",
+  "PDF_derivado_sha256": "96ca2609515a3e5c40fcf279da0d669474b2a57239e18e095b425c7a3203462d",
+  "estado": "fontevisual_integra_localizada_aguarda_cotejo",
+  "nota": "Páginaslimitecontêmoutrosatos; limites textuais individuais ficam explícitos no inventário."
+}

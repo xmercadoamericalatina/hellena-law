@@ -1,0 +1,21 @@
+{
+  "estado": "candidatos_isolados_sem_aplicar",
+  "manifesto_auditoria_sha256": "d8c469c92a6a7b2a9ebad67fc6bcca22428767b14b76cdd508bd05912dc8aec2",
+  "candidatos_metadata_only": 315,
+  "documentos_sem_alteracao": [],
+  "coorte": "315 já presentes em HEAD no inventário ancorado",
+  "ledger": "federal/_fonte/auditorias/dpl-triestado315-head-20261016/ledger315.jsonl",
+  "sha256_ledger": "38b2b1d5b2c8be42627f1b20d2ac7bfb2b2dced781ab87cfd473f36569f93b5f",
+  "backup_integral": "federal/_fonte/auditorias/dpl-auditoria-20261016/backup-md.jsonl.gz",
+  "retidos_preservados": 115,
+  "pendencias_primarias_preservadas": 467,
+  "fora_primario_preservados": 45,
+  "canônicos_alterados": 0,
+  "HTTP": 0,
+  "Git_mutacoes": 0,
+  "limites": [
+    "Somente revogada:false para null; nenhuma inferência de vigência.",
+    "Corpos e demais headers idênticos por byte; situação literal permanece.",
+    "Aplicação/publicação dependem de revisão raiz; não há comando de aplicar."
+  ]
+}

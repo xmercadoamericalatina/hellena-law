@@ -1,0 +1,945 @@
+<!DOCTYPE html><html lang="pt-br">
+  <head>
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-MNJ88RD');</script>
+	<!-- End Google Tag Manager -->
+
+        <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="Generator" content="VuFind 3.0">    <title></title>        <!-- RTL styling -->
+        <link href="/vufind/themes/cbdjur-bs3/css/bootstrap-custom.css?_=1493934164" media="all" rel="stylesheet" type="text/css">
+<link href="/vufind/themes/cbdjur-bs3/css/compiled.css?_=1487105058" media="all" rel="stylesheet" type="text/css">
+<link href="/vufind/themes/cbdjur-bs3/css/vendor/font-awesome.min.css?_=1466014224" media="all" rel="stylesheet" type="text/css">
+<link href="/vufind/themes/cbdjur-bs3/css/vendor/bootstrap-slider.min.css?_=1466014224" media="all" rel="stylesheet" type="text/css">
+<link href="/vufind/themes/cbdjur-bs3/css/custom.css?_=1497023483" media="all" rel="stylesheet" type="text/css">
+<link href="/vufind/themes/cbdjur-bs3/css/print.css?_=1466014224" media="print" rel="stylesheet" type="text/css">
+<link href="/vufind/themes/cbdjur-bs3/images/consorcio-favicon.png" rel="shortcut icon" type="image/x-icon">
+<link href="/vufind/Search/OpenSearch?method=describe" rel="search" type="application/opensearchdescription+xml" title="Busca no Catálogo da Biblioteca">                <!--[if lt IE 10]><script type="text/javascript" src="/vufind/themes/cbdjur-bs3/js/vendor/base64.js?_=1466014224"></script><![endif]-->
+<script type="text/javascript" src="/vufind/themes/cbdjur-bs3/js/vendor/jquery.min.js?_=1466014224"></script>
+<script type="text/javascript" src="/vufind/themes/cbdjur-bs3/js/vendor/bootstrap.min.js?_=1466014224"></script>
+<script type="text/javascript" src="/vufind/themes/cbdjur-bs3/js/vendor/bootstrap-accessibility.min.js?_=1466014224"></script>
+<script type="text/javascript" src="/vufind/themes/cbdjur-bs3/js/autocomplete.js?_=1466014224"></script>
+<script type="text/javascript" src="/vufind/themes/cbdjur-bs3/js/vendor/validator.min.js?_=1466014224"></script>
+<script type="text/javascript" src="/vufind/themes/cbdjur-bs3/js/vendor/rc4.js?_=1466014224"></script>
+<script type="text/javascript" src="/vufind/themes/cbdjur-bs3/js/common.js?_=1466014224"></script>
+<script type="text/javascript" src="/vufind/themes/cbdjur-bs3/js/lightbox.js?_=1466014224"></script>
+<script type="text/javascript" src="/vufind/themes/cbdjur-bs3/js/record.js?_=1466014224"></script>
+<script type="text/javascript" src="/vufind/themes/cbdjur-bs3/js/check_save_statuses.js?_=1466014224"></script>
+<script type="text/javascript">
+    //<!--
+    var userIsLoggedIn = false;
+    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+    VuFind.path = '/vufind';
+VuFind.defaultSearchBackend = 'Solr';
+VuFind.addTranslations({"add_tag_success": "Tags guardadas","bulk_email_success": "O(s) item(ns) foram enviados por email","bulk_noitems_advice": "Nenhum item foi selecionado. Por favor, clique na caixa de seleção ao lado de um item e tente novamente.","bulk_save_success": "O(s) registro(s) foram salvos com sucesso","close": "fechar","error_occurred": "Erro na aplicação","go_to_list": "Ir para a lista","libphonenumber_invalid": "Número de telefone inválido","libphonenumber_invalidcountry": "Código telefônico de país inválido","libphonenumber_invalidregion": "Código de região inválido (DDD):","libphonenumber_notanumber": "A informação fornecida não se assemelha a um número telefônico","libphonenumber_toolong": "A informação fornecida é muito longa para ser um número telefônico","libphonenumber_tooshort": "A informação fornecida é muito curta para ser um número telefônico","libphonenumber_tooshortidd": "O número telefônico é muito curto depois do DDI","loading": "Carregando","sms_success": "Mensagem enviada.","number_thousands_separator": ",","Phone number invalid": "Número de telefone inválido","Invalid country calling code": "Código telefônico de país inválido","Invalid region code": "Código de região inválido (DDD):","The string supplied did not seem to be a phone number": "A informação fornecida não se assemelha a um número telefônico","The string supplied is too long to be a phone number": "A informação fornecida é muito longa para ser um número telefônico","The string supplied is too short to be a phone number": "A informação fornecida é muito curta para ser um número telefônico","Phone number too short after IDD": "O número telefônico é muito curto depois do DDI"});
+    //-->
+</script>
+  </head>
+  <body class="">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src=https://www.googletagmanager.com/ns.html?id=GTM-MNJ88RD height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+        <header class="hidden-print">
+      <div class="container navbar">
+        <a class="sr-only" href="#content">Pular para o conteúdo</a>
+        ﻿<div class="navbar-header">
+  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#header-collapse">
+    <span class="sr-only">Toggle navigation</span>
+    <i class="fa fa-bars fa-2x"></i>
+  </button>
+  <a class="navbar-brand lang-pt-br" href="/vufind/">Consórcio BDJur - Rede de Bibliotecas Digitais Jurídicas</a>
+  <div class="brand-text hidden-xs hidden-sm">Rede de <span>Bibliotecas Digitais</span> Jurídicas</div>
+</div>
+
+  <div class="collapse navbar-collapse" id="header-collapse">
+    <nav>
+      <ul role="navigation" class="nav navbar-nav navbar-right flip">
+        
+       <!-- <li class="hidden-sm"><a href="#">Bibliotecas Participantes</a></li> -->
+
+        
+        
+                  <li class="logoutOptions hidden">
+            <a href="/vufind/MyResearch/Home?redirect=0"><i class="fa fa-home"></i> Minha conta</a>
+          </li>
+          <li class="logoutOptions hidden">
+            <a href="/vufind/MyResearch/Logout" class="logout"><i class="fa fa-sign-out"></i> Sair</a>
+          </li>
+          <li id="loginOptions">
+                          <a href="/vufind/MyResearch/UserLogin" data-lightbox><i class="fa fa-sign-in"></i> Login</a>
+                      </li>
+        
+        
+                  <li class="language dropdown">
+            <form method="post" name="langForm" id="langForm">
+              <input type="hidden" name="mylang"/>
+            </form>
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+            <i class="fa fa-globe"></i> Idioma <b class="caret"></b></a>
+            <ul class="dropdown-menu">
+                              <li><a href="#" onClick="document.langForm.mylang.value='en';document.langForm.submit()">English</a></li>
+                              <li><a href="#" onClick="document.langForm.mylang.value='es';document.langForm.submit()">Español</a></li>
+                              <li class="active"><a href="#" onClick="document.langForm.mylang.value='pt-br';document.langForm.submit()">Português (Brasil)</a></li>
+                          </ul>
+          </li>
+        
+      </ul>
+    </nav>
+  </div>
+
+  <section class="visible-lg">
+    <form class="searchForm navbar-form well well-lg flip" method="get" action="/vufind/Search/Results" name="searchForm" autocomplete="off">
+        <input class="searchForm_lookfor form-control search-query autocomplete searcher:Solr" type="text" name="lookfor" value=""/>
+          <select class="searchForm_type form-control" name="type" data-native-menu="false">
+                  <option value="AllFields">Todos os campos</option>
+                  <option value="Title">Título</option>
+                  <option value="Author">Autor</option>
+                  <option value="Subject">Assunto</option>
+              </select>
+        <button type="submit" class="btn btn-primary"><i class="fa fa-search"></i> Buscar</button>
+    <ul class="navline">
+            <li><a href="/vufind/Search/Advanced" rel="nofollow">Busca avançada</a></li>
+          <li class="hidden-xs"><a href="/vufind/Search/History" rel="nofollow">Histórico de buscas</a></li>
+      <li class="hidden-xs"><a href="/vufind/Help/Home?topic=search" class="help-link" title="Dicas de busca">Dicas de busca</a></li>
+    </ul>
+
+                      </form>
+<script type="text/javascript">$(".searchForm_lookfor:visible").focus()</script>
+  </section>
+      </div>
+      <div class="container">
+        <nav class="nav searchbox hidden-lg hidden-print">
+          <form class="searchForm navbar-form well well-lg flip" method="get" action="/vufind/Search/Results" name="searchForm" autocomplete="off">
+        <input class="searchForm_lookfor form-control search-query autocomplete searcher:Solr" type="text" name="lookfor" value=""/>
+          <select class="searchForm_type form-control" name="type" data-native-menu="false">
+                  <option value="AllFields">Todos os campos</option>
+                  <option value="Title">Título</option>
+                  <option value="Author">Autor</option>
+                  <option value="Subject">Assunto</option>
+              </select>
+        <button type="submit" class="btn btn-primary"><i class="fa fa-search"></i> Buscar</button>
+    <ul class="navline">
+            <li><a href="/vufind/Search/Advanced" rel="nofollow">Busca avançada</a></li>
+          <li class="hidden-xs"><a href="/vufind/Search/History" rel="nofollow">Histórico de buscas</a></li>
+      <li class="hidden-xs"><a href="/vufind/Help/Home?topic=search" class="help-link" title="Dicas de busca">Dicas de busca</a></li>
+    </ul>
+
+                      </form>
+<script type="text/javascript">$(".searchForm_lookfor:visible").focus()</script>
+        </nav>
+                  <ul class="breadcrumb hidden-print">
+                          <li><li class="active"><a href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18783">Collecção das Leis da Republic...</a></li> <li class="active">Documentos relacionados</li>                      </ul>
+              </div>
+    </header>
+    <div role="main" class="main template-dir-record template-name-view">
+      <div class="container">
+        
+
+<!--<ul class="nav nav-pills hidden-print">
+      <li><a class="cite-record controller:Record" data-lightbox href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18783/Cite" rel="nofollow"><i class="fa fa-asterisk"></i> Citar</a></li>
+    <li><a class="sms-record controller:Record" data-lightbox href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18783/SMS" rel="nofollow"><i class="fa fa-mobile"></i> Enviar por SMS</a></li>
+  <li><a class="mail-record controller:Record" data-lightbox href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18783/Email" rel="nofollow"><i class="fa fa-envelope"></i> Enviar por email</a></li>
+
+        <li class="dropdown">
+      <a class="export-toggle dropdown-toggle" data-toggle="dropdown" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18783/Export" rel="nofollow"><i class="fa fa-list-alt"></i> Exportar registro</a>
+      <ul class="dropdown-menu" role="menu">
+                  <li><a target="RefWorksMain" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18783/Export?style=RefWorks" rel="nofollow">Exportar para RefWorks</a></li>
+                  <li><a target="EndNoteWebMain" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18783/Export?style=EndNoteWeb" rel="nofollow">Exportar para EndNoteWeb</a></li>
+                  <li><a href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18783/Export?style=EndNote" rel="nofollow">Exportar para EndNote</a></li>
+              </ul>
+    </li>
+  
+      <li><a class="save-record controller:Record" data-lightbox href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18783/Save" rel="nofollow"><i class="fa fa-star"></i> Salvar na lista</a></li>
+      </ul>-->
+
+<div class="row">
+  <div class="col-sm-9">
+    <div class="record sourceSolr">
+      <input type="hidden" value="oai&#x3A;bd.camara.leg.br&#x3A;bdcamara-18783" class="hiddenId" />
+      <input type="hidden" value="Solr" class="hiddenSource" />
+            <div class="row" vocab="http://schema.org/" resource="#record" typeof="CreativeWork Product">
+      <div class="col-sm-12">
+  
+    <h3 property="name">Collecção das Leis da Republica dos Estados Unidos do Brazil de 1918  </h3>
+
+              <p>Parte 1 - Atos do Poder Legislativo.</p>
+
+          
+                <div class="savedLists hidden alert alert-info">
+        <strong>Na minha lista:</strong>
+      </div>
+    
+        <table class="table table-striped" summary="Detalhes bibliográficos">
+      
+            
+      
+                    <tr>
+          <th>Autor principal: </th>
+          <td>
+            <span property="author"><a href="/vufind/Author/Home?author=Brasil.+%5BLeis+etc.%5D">Brasil. [Leis etc.]</a></span>          </td>
+        </tr>
+      
+      
+      
+              <tr>
+          <th>Tipo de documento: </th>
+          <td>  <span class="iconlabel atonormativo">Ato normativo</span>
+</td>
+        </tr>
+      
+              <tr>
+          <th>Idioma: </th>
+          <td>Português<br/></td>
+        </tr>
+      
+            <tr>
+        <th>Publicado em: </th>
+        <td>
+                      <span property="publisher" typeof="Organization">
+                                      <span property="name">Rio de Janeiro : Imprensa Nacional</span>
+                        </span>
+                          <span property="publicationDate">2014</span>
+                        <br/>
+                  </td>
+      </tr>
+      
+      
+            
+            <tr>
+        <th>Assuntos: </th>
+        <td>
+                    <div class="subject-line" property="keywords">
+                                                                              <a title="Rep&#xFA;blica&#x20;&#x28;1889-&#x29;,&#x20;Legisla&#xE7;&#xE3;o,&#x20;Brasil" href="/vufind/Search/Results?lookfor=%22Rep%C3%BAblica+%281889-%29%2C+Legisla%C3%A7%C3%A3o%2C+Brasil%22&amp;type=Subject" rel="nofollow">República (1889-), Legislação, Brasil</a>
+                      </div>
+                    <div class="subject-line" property="keywords">
+                                                                              <a title="Legisla&#xE7;&#xE3;o,&#x20;colet&#xE2;nea,&#x20;Brasil,&#x20;1918" href="/vufind/Search/Results?lookfor=%22Legisla%C3%A7%C3%A3o%2C+colet%C3%A2nea%2C+Brasil%2C+1918%22&amp;type=Subject" rel="nofollow">Legislação, coletânea, Brasil, 1918</a>
+                      </div>
+                    <div class="subject-line" property="keywords">
+                                                                              <a title="Poder&#x20;Legislativo,&#x20;Brasil,&#x20;1918" href="/vufind/Search/Results?lookfor=%22Poder+Legislativo%2C+Brasil%2C+1918%22&amp;type=Subject" rel="nofollow">Poder Legislativo, Brasil, 1918</a>
+                      </div>
+                    <div class="subject-line" property="keywords">
+                                                                              <a title="Poder&#x20;Executivo,&#x20;Brasil,&#x20;1918" href="/vufind/Search/Results?lookfor=%22Poder+Executivo%2C+Brasil%2C+1918%22&amp;type=Subject" rel="nofollow">Poder Executivo, Brasil, 1918</a>
+                      </div>
+                  </td>
+      </tr>
+      
+      
+                  <tr>
+        <th>Obter o texto integral: </th>
+        <td>
+                      <a class="texto_integral" href="http&#x3A;&#x2F;&#x2F;bd.camara.leg.br&#x2F;bd&#x2F;handle&#x2F;bdcamara&#x2F;18783"></a><br/>
+                            </td>
+      </tr>
+      
+            
+          </table>
+      </div>
+</div>
+    </div>
+
+       <a name="tabnav"></a>
+      <div class="record-tabs">
+        <ul class="nav nav-tabs">
+                                  <li>
+              <a class="holdings" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18783/Holdings#tabnav">Itens</a>
+            </li>
+                                  <li>
+              <a class="description" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18783/Description#tabnav">Descrição</a>
+            </li>
+                                  <li>
+              <a class="usercomments" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18783/UserComments#tabnav">Comentários</a>
+            </li>
+                                  <li class="active initiallyActive">
+              <a class="similar" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18783/Similar#tabnav">Documentos relacionados</a>
+            </li>
+                                  <li>
+              <a class="details" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18783/Details#tabnav">Registro fonte</a>
+            </li>
+                  </ul>
+
+        <div class="tab-content">
+                      <div class="tab-pane active similar-tab">
+              <h4>Documentos relacionados</h4>
+    <div id="similar-items-carousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#similar-items-carousel" data-slide-to="0" class="active"></li>
+              <li data-target="#similar-items-carousel" data-slide-to="1"></li>
+              <li data-target="#similar-items-carousel" data-slide-to="2"></li>
+              <li data-target="#similar-items-carousel" data-slide-to="3"></li>
+              <li data-target="#similar-items-carousel" data-slide-to="4"></li>
+              <li data-target="#similar-items-carousel" data-slide-to="5"></li>
+              <li data-target="#similar-items-carousel" data-slide-to="6"></li>
+              <li data-target="#similar-items-carousel" data-slide-to="7"></li>
+              <li data-target="#similar-items-carousel" data-slide-to="8"></li>
+              <li data-target="#similar-items-carousel" data-slide-to="9"></li>
+          </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+        <div class="row">
+                      <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-19081">
+                                <img src="/vufind/Cover/Show?author=Brasil%2C+%5Bleis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1898" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1898"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1898</b>
+                                      <br/>por: Brasil, [leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-19119">
+                                <img src="/vufind/Cover/Show?author=Brasil%2C+%5Bleis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1891" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1891"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1891</b>
+                                      <br/>por: Brasil, [leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-19120">
+                                <img src="/vufind/Cover/Show?author=Brasil%2C+%5Bleis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1899" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1899"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1899</b>
+                                      <br/>por: Brasil, [leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-19121">
+                                <img src="/vufind/Cover/Show?author=Brasil%2C+%5Bleis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1905" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1905"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1905</b>
+                                      <br/>por: Brasil, [leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                      </div>
+        </div>
+        <div class="item">
+          <div class="row">
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18719">
+                                <img src="/vufind/Cover/Show?author=Brasil%2C+%5Bleis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Rep%C3%BAblica+dos+Estados+Unidos+do+Brazil+de+1892" title="Collecção das Leis da República dos Estados Unidos do Brazil de 1892"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da República dos Estados Unidos do Brazil de 1892</b>
+                                      <br/>por: Brasil, [leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18720">
+                                <img src="/vufind/Cover/Show?author=Brasil%2C+%5Bleis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1893" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1893"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1893</b>
+                                      <br/>por: Brasil, [leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18721">
+                                <img src="/vufind/Cover/Show?author=Brasil%2C+%5Bleis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1896" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1896"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1896</b>
+                                      <br/>por: Brasil, [leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18722">
+                                <img src="/vufind/Cover/Show?author=Brasil%2C+%5Bleis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1897" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1897"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1897</b>
+                                      <br/>por: Brasil, [leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                      </div>
+        </div>
+        <div class="item">
+          <div class="row">
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18725">
+                                <img src="/vufind/Cover/Show?author=Brasil%2C+%5Bleis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1901" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1901"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1901</b>
+                                      <br/>por: Brasil, [leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18726">
+                                <img src="/vufind/Cover/Show?author=Brasil%2C+%5Bleis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1902" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1902"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1902</b>
+                                      <br/>por: Brasil, [leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18727">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1906" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1906"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1906</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18728">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1907" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1907"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1907</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                      </div>
+        </div>
+        <div class="item">
+          <div class="row">
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18729">
+                                <img src="/vufind/Cover/Show?author=Brasil%2C+%5Bleis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1895" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1895"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1895</b>
+                                      <br/>por: Brasil, [leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18732">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1911" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1911"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1911</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18739">
+                                <img src="/vufind/Cover/Show?author=Brasil%2C+%5Bleis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1894" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1894"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1894</b>
+                                      <br/>por: Brasil, [leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18740">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1912" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1912"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1912</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                      </div>
+        </div>
+        <div class="item">
+          <div class="row">
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18741">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1913" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1913"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1913</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18742">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D.&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1914" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1914"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1914</b>
+                                      <br/>por: Brasil. [Leis etc.].                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18743">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1910" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1910"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1910</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18744">
+                                <img src="/vufind/Cover/Show?author=Brasil%2C+%5Bleis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1903" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1903"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1903</b>
+                                      <br/>por: Brasil, [leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                      </div>
+        </div>
+        <div class="item">
+          <div class="row">
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18745">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Rep%C3%BAblica+dos+Estados+Unidos+do+Brazil+de+1904" title="Collecção das Leis da República dos Estados Unidos do Brazil de 1904"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da República dos Estados Unidos do Brazil de 1904</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18779">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Rep%C3%BAblica+dos+Estados+Unidos+do+Brazil+de+1920" title="Collecção das Leis da República dos Estados Unidos do Brazil de 1920"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da República dos Estados Unidos do Brazil de 1920</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18780">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Rep%C3%BAblica+dos+Estados+Unidos+do+Brazil+de+1916" title="Collecção das Leis da República dos Estados Unidos do Brazil de 1916"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da República dos Estados Unidos do Brazil de 1916</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18781">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Rep%C3%BAblica+dos+Estados+Unidos+do+Brazil+de+1917" title="Collecção das Leis da República dos Estados Unidos do Brazil de 1917"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da República dos Estados Unidos do Brazil de 1917</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                      </div>
+        </div>
+        <div class="item">
+          <div class="row">
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18782">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D.&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1915" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1915"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1915</b>
+                                      <br/>por: Brasil. [Leis etc.].                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18784">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D.&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1919" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1919"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1919</b>
+                                      <br/>por: Brasil. [Leis etc.].                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-19080">
+                                <img src="/vufind/Cover/Show?author=Brasil%2C+%5Bleis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1890" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1890"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1890</b>
+                                      <br/>por: Brasil, [leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18731">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1909" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1909"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1909</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                      </div>
+        </div>
+        <div class="item">
+          <div class="row">
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-19122">
+                                <img src="/vufind/Cover/Show?author=Brasil%2C+%5Bleis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brasil+de+1924" title="Collecção das Leis da Republica dos Estados Unidos do Brasil de 1924"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brasil de 1924</b>
+                                      <br/>por: Brasil, [leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-19139">
+                                <img src="/vufind/Cover/Show?author=Brasil%2C+%5Bleis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Rep%C3%BAblica+dos+Estados+Unidos+do+Brasil+de+1929" title="Collecção das Leis da República dos Estados Unidos do Brasil de 1929"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da República dos Estados Unidos do Brasil de 1929</b>
+                                      <br/>por: Brasil, [leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-19140">
+                                <img src="/vufind/Cover/Show?author=Brasil%2C+%5Bleis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Rep%C3%BAblica+dos+Estados+Unidos+do+Brasil+de+1926" title="Collecção das Leis da República dos Estados Unidos do Brasil de 1926"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da República dos Estados Unidos do Brasil de 1926</b>
+                                      <br/>por: Brasil, [leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-19240">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brasil+de+1922" title="Collecção das Leis da Republica dos Estados Unidos do Brasil de 1922"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brasil de 1922</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                      </div>
+        </div>
+        <div class="item">
+          <div class="row">
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-19259">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brasil+de+1921" title="Collecção das Leis da Republica dos Estados Unidos do Brasil de 1921"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brasil de 1921</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18819">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brasil+de+1925" title="Collecção das Leis da Republica dos Estados Unidos do Brasil de 1925"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brasil de 1925</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18820">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brasil+de+1927" title="Collecção das Leis da Republica dos Estados Unidos do Brasil de 1927"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brasil de 1927</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18821">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brasil+de+1928" title="Collecção das Leis da Republica dos Estados Unidos do Brasil de 1928"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brasil de 1928</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                      </div>
+        </div>
+        <div class="item">
+          <div class="row">
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18822">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brasil+de+1930" title="Collecção das Leis da Republica dos Estados Unidos do Brasil de 1930"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brasil de 1930</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-19020">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brasil+de+1923" title="Collecção das Leis da Republica dos Estados Unidos do Brasil de 1923"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brasil de 1923</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18723">
+                                <img src="/vufind/Cover/Show?author=Brasil%2C+%5Bleis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1900" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1900"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1900</b>
+                                      <br/>por: Brasil, [leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                                  <div class="col-sm-3">
+              <a class="hover-overlay" href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18730">
+                                <img src="/vufind/Cover/Show?author=Brasil.+%5BLeis+etc.%5D&callnumber=&size=large&title=Collec%C3%A7%C3%A3o+das+Leis+da+Republica+dos+Estados+Unidos+do+Brazil+de+1908" title="Collecção das Leis da Republica dos Estados Unidos do Brazil de 1908"/>
+                <div class="content">
+                                    <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+                  <b>Collecção das Leis da Republica dos Estados Unidos do Brazil de 1908</b>
+                                      <br/>por: Brasil. [Leis etc.]                                                        <br/>Publicado em: (2014)
+                                  </div>
+              </a>
+            </div>
+                              </div>
+      </div>
+    </div>
+
+    <!-- Controls -->
+    <a class="left carousel-control" href="#similar-items-carousel" role="button" data-slide="prev">
+      <span class="fa fa-chevron-left glyphicon-chevron-left"></span>
+    </a>
+    <a class="right carousel-control" href="#similar-items-carousel" role="button" data-slide="next">
+      <span class="fa fa-chevron-right glyphicon-chevron-right"></span>
+    </a>
+  </div>
+<script type="text/javascript">
+    //<!--
+    var normalizeHeightCount = $('#similar-items-carousel img').length;
+function normalizeHeights() {
+  if(--normalizeHeightCount > 0) return;
+  var tallest = 0;
+  var items = $('#similar-items-carousel .hover-overlay');
+  items.each(function() { //add heights to array
+    if(tallest < $(this).height()) {
+      tallest = $(this).height();
+    }
+  });
+  items.css('min-height', (tallest+25) + 'px');
+}
+$('#similar-items-carousel img').load(normalizeHeights);
+    //-->
+</script>            </div>
+                  </div>
+      </div>
+    
+    <span class="Z3988" title="url_ver&#x3D;Z39.88-2004&amp;ctx_ver&#x3D;Z39.88-2004&amp;ctx_enc&#x3D;info&#x25;3Aofi&#x25;2Fenc&#x25;3AUTF-8&amp;rfr_id&#x3D;info&#x25;3Asid&#x25;2Fvufind.svn.sourceforge.net&#x25;3Agenerator&amp;rft.title&#x3D;Collec&#x25;C3&#x25;A7&#x25;C3&#x25;A3o&#x2B;das&#x2B;Leis&#x2B;da&#x2B;Republica&#x2B;dos&#x2B;Estados&#x2B;Unidos&#x2B;do&#x2B;Brazil&#x2B;de&#x2B;1918&amp;rft.date&#x3D;2014&amp;rft_val_fmt&#x3D;info&#x25;3Aofi&#x25;2Ffmt&#x25;3Akev&#x25;3Amtx&#x25;3Adc&amp;rft.creator&#x3D;Brasil.&#x2B;&#x25;5BLeis&#x2B;etc.&#x25;5D&amp;rft.pub&#x3D;Rio&#x2B;de&#x2B;Janeiro&#x2B;&#x25;3A&#x2B;Imprensa&#x2B;Nacional&amp;rft.format&#x3D;Ato&#x2B;normativo&amp;rft.language&#x3D;Portugu&#x25;C3&#x25;AAs"></span>  </div>
+
+  <div class="sidebar col-sm-3 hidden-print">
+          <h4>Documentos relacionados</h4>
+  <ul class="list-group">
+          <li class="list-group-item">
+                <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+        <a href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-19081">
+          Collecção das Leis da Republica dos Estados Unidos do Brazil de 1898        </a>
+                  <br/>por: Brasil, [leis etc.]                          <br/>Publicado em: (2014)
+              </li>
+          <li class="list-group-item">
+                <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+        <a href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-19119">
+          Collecção das Leis da Republica dos Estados Unidos do Brazil de 1891        </a>
+                  <br/>por: Brasil, [leis etc.]                          <br/>Publicado em: (2014)
+              </li>
+          <li class="list-group-item">
+                <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+        <a href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-19120">
+          Collecção das Leis da Republica dos Estados Unidos do Brazil de 1899        </a>
+                  <br/>por: Brasil, [leis etc.]                          <br/>Publicado em: (2014)
+              </li>
+          <li class="list-group-item">
+                <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+        <a href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-19121">
+          Collecção das Leis da Republica dos Estados Unidos do Brazil de 1905        </a>
+                  <br/>por: Brasil, [leis etc.]                          <br/>Publicado em: (2014)
+              </li>
+          <li class="list-group-item">
+                <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+        <a href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18719">
+          Collecção das Leis da República dos Estados Unidos do Brazil de 1892        </a>
+                  <br/>por: Brasil, [leis etc.]                          <br/>Publicado em: (2014)
+              </li>
+          <li class="list-group-item">
+                <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+        <a href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18720">
+          Collecção das Leis da Republica dos Estados Unidos do Brazil de 1893        </a>
+                  <br/>por: Brasil, [leis etc.]                          <br/>Publicado em: (2014)
+              </li>
+          <li class="list-group-item">
+                <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+        <a href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18721">
+          Collecção das Leis da Republica dos Estados Unidos do Brazil de 1896        </a>
+                  <br/>por: Brasil, [leis etc.]                          <br/>Publicado em: (2014)
+              </li>
+          <li class="list-group-item">
+                <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+        <a href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18722">
+          Collecção das Leis da Republica dos Estados Unidos do Brazil de 1897        </a>
+                  <br/>por: Brasil, [leis etc.]                          <br/>Publicado em: (2014)
+              </li>
+          <li class="list-group-item">
+                <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+        <a href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18725">
+          Collecção das Leis da Republica dos Estados Unidos do Brazil de 1901        </a>
+                  <br/>por: Brasil, [leis etc.]                          <br/>Publicado em: (2014)
+              </li>
+          <li class="list-group-item">
+                <i class="fa fa-x fa-atonormativo" title="Ato normativo"></i>
+        <a href="/vufind/Record/oai:bd.camara.leg.br:bdcamara-18726">
+          Collecção das Leis da Republica dos Estados Unidos do Brazil de 1902        </a>
+                  <br/>por: Brasil, [leis etc.]                          <br/>Publicado em: (2014)
+              </li>
+      </ul>
+      </div>
+</div>
+<script type="text/javascript">
+    //<!--
+    $(document).ready(recordDocReady);
+    //-->
+</script>      </div>  
+    </div>
+
+    ﻿
+<div id="search-options" class="container">
+  <div class="row filters">
+    <div id="opcoesbusca" class="col-sm-4">
+      <h3>Sobre o Consórcio BDJur</h3>
+      <p>O Consórcio BDJur<b> é uma rede de bibliotecas digitais jurídicas</b> formada por órgãos do Poder Judiciário, englobando as esferas federal e estadual, e por outras instituições públicas provedoras de informação jurídica. O consórcio integra, em único portal, os repositórios digitais das instituições participantes, possibilitando a realização de uma busca unificada em seus acervos.</strong></p>
+    </div> 
+      <div class="col-sm-4" style="width: 260px">
+      <h3>Acervo</h3>
+      <ul>
+        <li><a href="https://bdjur-dev.stj.jus.br/bitstreams/2743dc44-d6b1-4af7-b566-3ddb84962557/download">Coleções</a></li>
+        <li><a href="https://bdjur-dev.stj.jus.br/bitstreams/49f071bc-459a-47b2-bef3-d4a5a78540b3/download">Bibliotecas participantes</a></li>
+      </ul>
+    </div>
+    <div class="col-sm-4" style="width: 260px">
+      <h3>Navegar por</h3>
+      <ul>
+        <li><a href="http://www.consorciobdjur.stj.jus.br/vufind/Search/Results?type=AllFields&filter%5B%5D=format%3A%22Livro%22">Livros</a></li>
+        <li><a href="http://www.consorciobdjur.stj.jus.br/vufind/Search/Results?type=AllFields&filter%5B%5D=format%3A%22Artigo%22">Artigos</a></li>
+        <li><a href="http://www.consorciobdjur.stj.jus.br/vufind/Search/Results?type=AllFields&filter%5B%5D=format%3A%22Ato+normativo%22">Atos normativos </a></li>
+      </ul>
+    </div>
+    <div id="ajuda" class="col-sm-4" style="width: 260px">
+      <h3>Conheça mais</h3>
+      <ul>
+  <li><a href="https://www.youtube.com/watch?v=lW68i660cdQ">Tutorial do Consórcio BDJur</a></li>
+        <li><a href="http://bdjur.stj.jus.br/jspui/bitstream/2011/105255/Perguntas_frequentes.pdf">Perguntas frequentes</a></li>
+        <li><a href="https://bdjur.stj.jus.br/jspui/handle/2011/129077">Regulamento</a></li>
+      </ul>
+    </div>
+  </div>
+</div>  
+
+  <footer class="hidden-print">
+      <div class="container-fluid line"></div>  
+      <div class="container sponsors">
+        <div class="row">
+          <div class="col-lg-12">
+            <h4>Instituições Participantes</h4>
+          </div>  
+        </div>
+        <div class="row">
+		<div class="col-sm-4">
+			<a href="http://bdjur.stj.jus.br/jspui/" target="_blank">Superior Tribunal de Justiça</a></br>
+			<a href="http://bd.camara.gov.br/bd/" target="_blank">Câmara dos Deputados</a><br>
+			<a href="https://pergamum.cjf.jus.br/atos_normativos" target="_blank">Conselho da Justiça Federal</a></br>
+			<a href="https://bibliotecadigital.cnj.jus.br/jspui/handle/123456789/33" target="_blank">Conselho Nacional de Justiça</a></br>
+			 <a href="https://alexandria.dpu.def.br" target="_blank">Defensoria Pública da União</a></br>
+			 <a href="http://www2.senado.leg.br/bdsf/" target="_blank">Senado Federal</a></br>
+
+		</div>
+		<div class="col-sm-4">
+			<a href="https://bibliotecadigital.stf.jus.br/xmlui/" target="_blank">Supremo Tribunal Federal</a></br>
+			<a href="http://bdjur.tjce.jus.br/jspui/" target="_blank">Tribunal de Justiça do Ceará</a></br>
+			<a href="https://bd.tjdft.jus.br" target="_blank">Tribunal de Justiça do Distrito Federal e Territórios</a></br>
+			<a href="https://bibliotecadigital.tjpa.jus.br/home/" target="_blank">Tribunal de Justiça do Estado do Pará</a></br>
+			 <a href="https://biblioteca.tjsc.jus.br" target="_blank">Tribunal de Santa Catarina</a></br>
+			 <a href="http://bd1.trt1.jus.br/xmlui/" target="_blank">Tribunal Regional do Trabalho 1ª Região</a></br>
+		</div>
+		<div class="col-sm-4">
+			<a href="http://as1.trt3.jus.br/bd-trt3/" target="_blank">Tribunal Regional do Trabalho 3ª Região</a></br>
+			<a href="http://www7.trf2.jus.br/sophia_web/" target="_blank">Tribunal Regional Federal 2ª Região</a></br>
+			<a href="https://biblioteca.sophia.com.br/terminal/9549" target="_blank">Tribunal Regional Federal 3ª Região / Seção Judiciária de São Paulo</a></br>
+			<a href="https://pergamum.cjf.jus.br/atos_normativos" target="_blank">Tribunal Regional Federal 5ª Região</a></br>
+			<a href="https://www.tse.jus.br/institucional/biblioteca/repositorio-institucional-da-justica-eleitoral" target="_blank">Tribunal Superior Eleitoral</a>
+		</div>
+        </div>
+      </div>
+
+    <div class="container rodape">
+      <div class="row vcenter">
+        <div class="col-lg-3">
+          <h4>Gestor</h4>
+          <a href="http://www.stj.jus.br" target="_blank" class="logo_stj">
+            <img src="/vufind/themes/cbdjur-bs3/images/logo_stj.jpg">
+          </a>
+        </div>
+        <div class="col-lg-3">
+          <h4>Apoio</h4>
+          <a href="http://www.ibict.br" target="_blank" class="logo_ibict">
+            <img src="/vufind/themes/cbdjur-bs3/images/logo_ibict.jpg">
+          </a>
+        </div>
+        <div class="col-lg-6">
+          <p class="endereco">
+            <strong>Biblioteca Ministro Oscar Saraiva</strong><br/>
+            SAFS - Quadra 06 - Lote 01 - Trecho III - CEP: 70095-900 - Brasília - DF<br/>        
+            <i class="fa fa-phone" aria-hidden="true"></i> +55 61 3319.9880 &nbsp;&nbsp;
+            <i class="fa fa-envelope-o" aria-hidden="true"></i><a href="/cdn-cgi/l/email-protection#d2b1bdbca1bda0b1bbbdb0b6b8a7a092a1a6b8fcb8a7a1fcb0a0">&nbsp;<span class="__cf_email__" data-cfemail="d5b6babba6baa7b6bcbab7b1bfa0a795a6a1bffbbfa0a6fbb7a7">[email&#160;protected]</span></a><br>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!--      -->
+
+    <!-- MODAL IN CASE WE NEED ONE -->
+    <div id="modal" class="modal fade hidden-print" tabindex="-1" role="dialog" aria-labelledby="modalTitle" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          <div class="modal-body">Carregando...</div>
+        </div>
+      </div>
+    </div>
+    <div class="offcanvas-toggle" data-toggle="offcanvas"><i class="fa"></i></div>
+    <div class="offcanvas-overlay" data-toggle="offcanvas"></div>
+          <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>(function(){function c(){var b=a.contentDocument||(a.contentWindow&&a.contentWindow.document);if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'a4b54e929eabf2e2',t:'MTc5MjEzNTI4OA=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script><script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4bc70e2c01a94c73b74392e4234840661791215815920" integrity="sha512-L0ha0OXavK/8okipN9F8BtP84dg9DUhPERbBXzwI6dgTA55d2+yweo3pn5CSFYs45/r8md2+xvUPtTdvTNRfjA==" data-cf-beacon='{"version":"2024.11.0","token":"481f5adcaaf04a6e85e52de3e73abaa7","spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>

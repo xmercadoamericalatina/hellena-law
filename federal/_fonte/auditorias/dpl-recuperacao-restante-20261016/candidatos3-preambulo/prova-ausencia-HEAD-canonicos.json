@@ -1,0 +1,14 @@
+{
+  "HEAD": "c6dd4f2372ac23f00db298159b3759c68f333824",
+  "paths": [
+    "federal/decretos-legislativos/1894/dpl-263-1894-12-20.md",
+    "federal/decretos-legislativos/1915/dpl-3029-1915-11-22.md",
+    "federal/decretos-legislativos/1925/dpl-4970-1925-10-28.md"
+  ],
+  "cat_file_batch_check": "HEAD:federal/decretos-legislativos/1894/dpl-263-1894-12-20.md missing\nHEAD:federal/decretos-legislativos/1915/dpl-3029-1915-11-22.md missing\nHEAD:federal/decretos-legislativos/1925/dpl-4970-1925-10-28.md missing\n",
+  "canonicos_existem": [
+    false,
+    false,
+    false
+  ]
+}

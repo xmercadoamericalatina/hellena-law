@@ -1,0 +1,28 @@
+{
+  "numero": "3681",
+  "ano": 1919,
+  "fonte_pdf": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/colecao1919-parte1.pdf",
+  "fonte_pdf_sha256": "664d9092544b1c7bb3bdd16a745e0f37619d0950fb892b9d9868b73dd8e8cf0e",
+  "paginas": [
+    {
+      "pagina_PDF": 192,
+      "pagina_impressa": 141,
+      "PDF_path": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/3681/pagina-192.pdf",
+      "PDF_sha256": "1e9a488e271d2f2f2966d3d0a4623de0e0f3228352fafc1e6c7f08c133931f7a",
+      "PNG_path": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/3681/pagina-192.png",
+      "PNG_sha256": "994b9da5e798ab4ac3566ed5440808e3bef37d20197a7fb5a9a699eb74a34409"
+    },
+    {
+      "pagina_PDF": 193,
+      "pagina_impressa": 142,
+      "PDF_path": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/3681/pagina-193.pdf",
+      "PDF_sha256": "e9df63bf1cbd09a3348c9d9909263a09c8972b5bdc66ecde60490c21c1bdce83",
+      "PNG_path": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/3681/pagina-193.png",
+      "PNG_sha256": "11e36a63620e46517c60810d71162e0dd7cd813e6eeaf02d5dc3a0c7d13ca57d"
+    }
+  ],
+  "PDF_derivado": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/3681/paginas-integra.pdf",
+  "PDF_derivado_sha256": "4297a66ad8d338a97ad79896021748805e127f4bb1cd53cd91d78947a7188df3",
+  "estado": "fontevisual_integra_localizada_aguarda_cotejo",
+  "nota": "Páginaslimitecontêmoutrosatos; limites textuais individuais ficam explícitos no inventário."
+}

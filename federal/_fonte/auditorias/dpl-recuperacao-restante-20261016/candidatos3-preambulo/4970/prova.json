@@ -1,0 +1,52 @@
+{
+  "norma": "DPL-4970-1925-10-28",
+  "urn": "urn:lex:br:federal:decreto.legislativo:1925-10-28;4970",
+  "candidato": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/4970/dpl-4970-1925-10-28.md",
+  "sha256_MD": "0822527d8811d6e3049aa909131cfd34c0feaaeb78d2e48ecb0fdd244d65dc18",
+  "sha256_corpo": "6866cd56f4d4896006b59d583a5374f71621cd6ce5cfd8b89318d4ad0d0d8320",
+  "fonte": {
+    "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/e83a4d14e21e06f2722c23838ab0ca00b1448f89c17bc506e4b1f365ec92e665-eb6b08cbf4bc7e55f3bfbb8206f143d53ec242c24476f03d3b096db8e2db53a9.html.gz",
+    "sha256": "e83a4d14e21e06f2722c23838ab0ca00b1448f89c17bc506e4b1f365ec92e665",
+    "URL": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4970-28-outubro-1925-565523-publicacaooriginal-89284-pl.html",
+    "sha256_HTML": "af75c7de6a0895d1498b4939187cbb8d34f516b5058d1814af52770220ded43b",
+    "sha256_fragmento": "bfe0d89c150acc4e4d904aef9f4ca0f03d147142366f8762a05f90a663fce2f5"
+  },
+  "sha256_metadados": "1f3621e0c619a886e5ccd1f5f42ca72768dea8b4e9186e2fd3fd2dbeccc09136",
+  "link_proprio_literal": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4970-28-outubro-1925-565523-publicacaooriginal-89284-pl.html",
+  "ementa_literal": "Revigora as autorizações constantes do decreto n. 4.788, de 16 de dezembro de 1923, e art. 1 do de n. 4.663, de 24 de janeiro do mesmo anno, afim que possa o Governo abrir, pelo Ministerio da Justiça e Negocios Interiores, os creditos especiaes de 5:255$956, 1:250$ e 1:426$209, e dá outras providencias",
+  "preambulo_literal": "O Presidente da Republica dos Estados Unidos do Brasil:  \nFaço saber que o Congresso Nacional decretou e eu sancciono a resolução seguinte:\n\n**Art. 1º** Ficam revigoradas as autorizações constantes do decreto n. 4.788, de 16 de dezembro de 1923, afim de que possa o Governo abrir, pelo Ministerio da Justiça e Negocios Interiores, um credito especial de 5:255$956, para occorrer ao pagamento da diffe",
+  "fecho_literal": "gor.\n\n**Art. 3º** Fica aberta á verba 8ª ultima parte, do art. 2º da lei do orçamento n. 4.911, de 12 de janeiro de 1925, o credito supplementar de 2.000:000$, pelo qual deverão correr tambem as despezas com a commemoração do Centenario do Poder Legislativo, determinadas pela Mesa da Camara dos Deputados.\n\n**Art. 4º** Fica o Poder Executivo autorizado a abrir um credito especial de 12:000$, afim de occorrer ao pagamento da differença de vencimentos que deixou de perceber de 1916 a 1920 o supplente de tachygrapho da Camara dos Deputados João Ribeiro Mendes.\n\n**Art. 5º** Revogam-se as disposições em contrario.\n\nRio de Janeiro, 28 de outubro de 1925, 104º da Independencia e 37º da Republica.\n\nARTHUR DA SILVA BERNARDES.  \nAffonso Penna Junior.\n",
+  "gate_formula_documento_inteiro": false,
+  "gate_mesma_funcao_preambulo_proprio": true,
+  "causa": "Referência a artigo na ementa antecede preâmbulo e aciona divisão prematura do gate; texto e função não alterados. Exceção contextual individual aguarda raiz.",
+  "wholetext_DOM_GFM_identico": true,
+  "formatos_criticos": {
+    "u": {
+      "fonte": [],
+      "GFM": []
+    },
+    "del/s/strike": {
+      "fonte": [],
+      "GFM": []
+    },
+    "sup": {
+      "fonte": [],
+      "GFM": []
+    },
+    "sub": {
+      "fonte": [],
+      "GFM": []
+    },
+    "i/em": {
+      "fonte": [],
+      "GFM": []
+    }
+  },
+  "formato": {
+    "erros": [],
+    "avisos": []
+  },
+  "vigencia": "Literal próprio Não consta revogação expressa → null; sem inferir vigente.",
+  "publicado": false,
+  "aprovacao_independente": false
+}

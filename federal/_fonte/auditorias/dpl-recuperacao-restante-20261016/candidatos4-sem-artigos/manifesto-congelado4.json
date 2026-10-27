@@ -1,0 +1,334 @@
+{
+  "estado": "4isolados_sem_artigos_aguarda_revisao_independente",
+  "helper": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/preparar4-6d899de72dadab3e8427a1a20af2eb18b7d9124f6cb72734018234bc87351ba1.py",
+  "sha256_helper": "6d899de72dadab3e8427a1a20af2eb18b7d9124f6cb72734018234bc87351ba1",
+  "replay_real_auditar": 0,
+  "candidatos": [
+    {
+      "norma": "DPL-1107-1903-11-24",
+      "urn": "urn:lex:br:federal:decreto.legislativo:1903-11-24;1107",
+      "candidato": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/1107/dpl-1107-1903-11-24.md",
+      "sha256_MD": "a1c65a847b6e63e139d2e2ba4990f91e7e2713344e072d3537e734f45233eb42",
+      "sha256_corpo": "1f2492394fd4adbc2f56271c0a352a0828d34e5072a02394677d884dce78c451",
+      "fonte": {
+        "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/39d458eaa5aad8d684ea51f82248348969db81cbd1b3b25a11fec229bbdcbc56-bf111c0c8c5fed6818e55b1a6ce4571441feea1af75aab6bacac228795a654a7.html.gz",
+        "sha256": "39d458eaa5aad8d684ea51f82248348969db81cbd1b3b25a11fec229bbdcbc56",
+        "URL": "https://www2.camara.leg.br/legin/fed/decret/1900-1909/decreto-1107-24-novembro-1903-584920-publicacaooriginal-107782-pl.html",
+        "sha256_HTML": "c37daec190264825feb25096922b56b094bc1c9be662efd9d58edc600771d86c",
+        "sha256_fragmento": "8f769fa96b942a41a03d74e4d5e979d4904726d5ca147f82f24214da6fc4907e"
+      },
+      "sha256_metadados": "fc264d39c8f7cc79749b279af64d78aae925c3e2839de86e66e11237c19f0524",
+      "link_proprio_literal": "https://www2.camara.leg.br/legin/fed/decret/1900-1909/decreto-1107-24-novembro-1903-584920-publicacaooriginal-107782-pl.html",
+      "ementa_literal": "Autoriza o Poder Executivo a prorogar por um anno, com ordenado, a licença em cujo gozo se acha o conductor de 3ª classe da Estrada de Ferro Central do Brazil Antonio Toscano de Brito.",
+      "preambulo_literal": "O Presidente da Republica dos Estados Unidos do Brazil:  \nFaço saber que o Congresso Nacional decretou e eu sancciono a resolução seguinte:\n\nE' o Presidente da Republica autorizado a prorogar, por um anno, com o respectivo ordenado, a licença em cujo gozo se acha o conductor de 3ª classe da Estrada de Ferro Central do Brazil Antonio Toscano de Brito, afim de tratar de sua saude onde lhe convier; r",
+      "fecho_literal": "Autoriza o Poder Executivo a prorogar por um anno, com ordenado, a licença em cujo gozo se acha o conductor de 3ª classe da Estrada de Ferro Central do Brazil Antonio Toscano de Brito.\n\nO Presidente da Republica dos Estados Unidos do Brazil:  \nFaço saber que o Congresso Nacional decretou e eu sancciono a resolução seguinte:\n\nE' o Presidente da Republica autorizado a prorogar, por um anno, com o respectivo ordenado, a licença em cujo gozo se acha o conductor de 3ª classe da Estrada de Ferro Central do Brazil Antonio Toscano de Brito, afim de tratar de sua saude onde lhe convier; revogadas as disposições em contrario.\n\nRio de Janeiro, 24 de novembro de 1903, 15º da Republica.\n\nFRANCISCO DE PAULA RODRIGUES ALVES.  \nLauro Severiano Müller.\n",
+      "gate_formula_documento_inteiro": true,
+      "gate_mesma_funcao_preambulo_proprio": true,
+      "causa": "Ato autônomo sem rótulos de artigos na fonte: disposição legislativa completa, preâmbulo, fecho e identidade próprios comprovados. Nenhum Artigo único fabricado; gate genérico não alterado.",
+      "wholetext_DOM_GFM_identico": true,
+      "formatos_criticos": {
+        "u": {
+          "fonte": [],
+          "GFM": []
+        },
+        "del/s/strike": {
+          "fonte": [],
+          "GFM": []
+        },
+        "sup": {
+          "fonte": [],
+          "GFM": []
+        },
+        "sub": {
+          "fonte": [],
+          "GFM": []
+        },
+        "i/em": {
+          "fonte": [],
+          "GFM": []
+        }
+      },
+      "formato": {
+        "erros": [],
+        "avisos": []
+      },
+      "vigencia": "Literal próprio Não consta revogação expressa → null; sem inferir vigente.",
+      "publicado": false,
+      "aprovacao_independente": false
+    },
+    {
+      "norma": "DPL-2967-1915-02-08",
+      "urn": "urn:lex:br:federal:decreto.legislativo:1915-02-08;2967",
+      "candidato": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/2967/dpl-2967-1915-02-08.md",
+      "sha256_MD": "e4fafae827dbf892029c785e434d5ed77d7712d5ba8cf8d0e67b8578ce9623e6",
+      "sha256_corpo": "d897695ddb50f62cfb155963d5bdd04d449b218bd41c40446562540aec0621c2",
+      "fonte": {
+        "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/7f9a08ced528b4791aab0f232d01f970f6ebe5220490d91b0b63a616034843c4-05ee860ee9317b86797ef2b67abef593895b1dce690b6ec91ef0e688b298a74a.html.gz",
+        "sha256": "7f9a08ced528b4791aab0f232d01f970f6ebe5220490d91b0b63a616034843c4",
+        "URL": "https://www2.camara.leg.br/legin/fed/decret/1910-1919/decreto-2967-8-fevereiro-1915-574352-publicacaooriginal-97519-pl.html",
+        "sha256_HTML": "b0ce300836101162cd8145d8136f04be484e85d3647b403f8d53c349adedfa36",
+        "sha256_fragmento": "8e8caec202dfd4bd5ab9c2e9097ed7395d163a6bf74fb4a1f73fbede9b0ad35c"
+      },
+      "sha256_metadados": "7a2d738a34231985cc9ddbeee13fdd83408ffa7a775c8aac8e2c7c20f6179177",
+      "link_proprio_literal": "https://www2.camara.leg.br/legin/fed/decret/1910-1919/decreto-2967-8-fevereiro-1915-574352-publicacaooriginal-97519-pl.html",
+      "ementa_literal": "Publica a resolução do Congresso Nacional que adia para 3 de maio proximo vindouro as sessões do mesmo Congresso, convocado extraordinariamente pelo decreto n. 11.408, de I de janeiro de 1915",
+      "preambulo_literal": "O Presidente da Republica dos Estados Unidos do Brazil:  \nFaço saber que o Congresso Nacional, resolve adiar para 3 de maio proximo vindouro as sessões do mesmo Congresso, extraordinariamente convocado pelo decreto n. 11.408, de 1 de janeiro de 1915.\n\nRio de Janeiro, 8 de fevereiro de 1915, 94º da Independencia e 27º da Republica.\n\nWENCESLAU BRAZ P. GOMES.  \nCarlos Maximiliano Pereira dos Santos.\n",
+      "fecho_literal": "Publica a resolução do Congresso Nacional que adia para 3 de maio proximo vindouro as sessões do mesmo Congresso, convocado extraordinariamente pelo decreto n. 11.408, de I de janeiro de 1915\n\nO Presidente da Republica dos Estados Unidos do Brazil:  \nFaço saber que o Congresso Nacional, resolve adiar para 3 de maio proximo vindouro as sessões do mesmo Congresso, extraordinariamente convocado pelo decreto n. 11.408, de 1 de janeiro de 1915.\n\nRio de Janeiro, 8 de fevereiro de 1915, 94º da Independencia e 27º da Republica.\n\nWENCESLAU BRAZ P. GOMES.  \nCarlos Maximiliano Pereira dos Santos.\n",
+      "gate_formula_documento_inteiro": true,
+      "gate_mesma_funcao_preambulo_proprio": true,
+      "causa": "Ato autônomo sem rótulos de artigos na fonte: disposição legislativa completa, preâmbulo, fecho e identidade próprios comprovados. Nenhum Artigo único fabricado; gate genérico não alterado.",
+      "wholetext_DOM_GFM_identico": true,
+      "formatos_criticos": {
+        "u": {
+          "fonte": [],
+          "GFM": []
+        },
+        "del/s/strike": {
+          "fonte": [],
+          "GFM": []
+        },
+        "sup": {
+          "fonte": [],
+          "GFM": []
+        },
+        "sub": {
+          "fonte": [],
+          "GFM": []
+        },
+        "i/em": {
+          "fonte": [],
+          "GFM": []
+        }
+      },
+      "formato": {
+        "erros": [],
+        "avisos": []
+      },
+      "vigencia": "Literal próprio Não consta revogação expressa → null; sem inferir vigente.",
+      "publicado": false,
+      "aprovacao_independente": false
+    },
+    {
+      "norma": "DPL-395-1896-10-13",
+      "urn": "urn:lex:br:federal:decreto.legislativo:1896-10-13;395",
+      "candidato": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/395/dpl-395-1896-10-13.md",
+      "sha256_MD": "032d288d61c0af1aa783eb5151a6ac32fdb4a9050e364e4c5417e06d9a793342",
+      "sha256_corpo": "a12e6895f0c3eb2e68b0905805f63afb48c69918db2a6d7d7fca2902d80d6c72",
+      "fonte": {
+        "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/a3fb723f85c345018dd6ec8a3ed1640cd25390a1f4c3b21956361bcf45541ef9-f666b12c0944dc85508a94fd337493c6e9bce6a254e1a2dbf0572587eb38ebf7.html.gz",
+        "sha256": "a3fb723f85c345018dd6ec8a3ed1640cd25390a1f4c3b21956361bcf45541ef9",
+        "URL": "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-395-13-outubro-1896-540208-publicacaooriginal-40168-pl.html",
+        "sha256_HTML": "b73f1e120198c17fcb0b5d7cabdedcf6371c2084a084edc138de555bcd812926",
+        "sha256_fragmento": "5df39ce747cef2e9f6793fa29c45529d0658ce6d49d4ee01c210d4e2f57d2cc7"
+      },
+      "sha256_metadados": "da196005737e33766ac02317f67078659f13661baec1c73fbd0f2c86e3361b0d",
+      "link_proprio_literal": "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-395-13-outubro-1896-540208-publicacaooriginal-40168-pl.html",
+      "ementa_literal": "Publica a resolução do Congresso Nacional que proroga a actual sessão legislativa até 14 do novembro do corrente anno.",
+      "preambulo_literal": "O Presidente da Republica dos Estados Unidos do Brazil:\n\nFaço saber que o Congresso Nacional resolveu prorogar a actual sessão legislativa até o dia 14 de novembro do corrente anno.\n\nCapital Federal, 13 de outubro de 1896, 8º da Republica.\n\nPrudente J. De Moraes Barros.  \nAlberto de Seixas Martins Torres.\n",
+      "fecho_literal": "Publica a resolução do Congresso Nacional que proroga a actual sessão legislativa até 14 do novembro do corrente anno.\n\nO Presidente da Republica dos Estados Unidos do Brazil:\n\nFaço saber que o Congresso Nacional resolveu prorogar a actual sessão legislativa até o dia 14 de novembro do corrente anno.\n\nCapital Federal, 13 de outubro de 1896, 8º da Republica.\n\nPrudente J. De Moraes Barros.  \nAlberto de Seixas Martins Torres.\n",
+      "gate_formula_documento_inteiro": true,
+      "gate_mesma_funcao_preambulo_proprio": true,
+      "causa": "Ato autônomo sem rótulos de artigos na fonte: disposição legislativa completa, preâmbulo, fecho e identidade próprios comprovados. Nenhum Artigo único fabricado; gate genérico não alterado.",
+      "wholetext_DOM_GFM_identico": true,
+      "formatos_criticos": {
+        "u": {
+          "fonte": [],
+          "GFM": []
+        },
+        "del/s/strike": {
+          "fonte": [],
+          "GFM": []
+        },
+        "sup": {
+          "fonte": [],
+          "GFM": []
+        },
+        "sub": {
+          "fonte": [],
+          "GFM": []
+        },
+        "i/em": {
+          "fonte": [],
+          "GFM": []
+        }
+      },
+      "formato": {
+        "erros": [],
+        "avisos": []
+      },
+      "vigencia": "Literal próprio Não consta revogação expressa → null; sem inferir vigente.",
+      "publicado": false,
+      "aprovacao_independente": false
+    },
+    {
+      "norma": "DPL-4115-1920-08-27",
+      "urn": "urn:lex:br:federal:decreto.legislativo:1920-08-27;4115",
+      "candidato": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/4115/dpl-4115-1920-08-27.md",
+      "sha256_MD": "f9fb147e667976d59ec25270c21e632043f6ef575e39fdb1b51900b5cd4d17d0",
+      "sha256_corpo": "91ccdf57600fdbed0e091f9c5a435031aea77bb04135b6fad19330ea26fb8491",
+      "fonte": {
+        "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/3f5854833767f45a32cd630c57945e7d48626fcb63e474f89756b2ff6b2f9dfe-8afdea728b0e01dc23d1d4291b32d3d7bbcc0901cfba03e5aaa8c25e5bedf29f.html.gz",
+        "sha256": "3f5854833767f45a32cd630c57945e7d48626fcb63e474f89756b2ff6b2f9dfe",
+        "URL": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4115-27-agosto-1920-570370-publicacaooriginal-93503-pl.html",
+        "sha256_HTML": "a659af80c9077e55190b1967af470e47333eb96a48027afeba7109c77c7796a0",
+        "sha256_fragmento": "776c1089716e2d12931668abec67500644723545fa3f6da69dad3c0d0e64bb04"
+      },
+      "sha256_metadados": "85d521f5c577bc691b4192e02a1fcbf7c6d39015c3cb324db8bf61034f437c98",
+      "link_proprio_literal": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4115-27-agosto-1920-570370-publicacaooriginal-93503-pl.html",
+      "ementa_literal": "Publica a resolução do Congresso Nacional que proroga a actual sessão legislativa até ao dia 2 de outubro do corrente anno",
+      "preambulo_literal": "O Presidente da Republica dos Estados Unidos do Brasil:  \nFaço saber que o Congresso Nacional, em conformidade do disposto no § 1º da Constituição Federal, resolve prorogar a actual sessão legislativa até ao dia 3 de outubro do corrente anno.\n\nRio de Janeiro, 27 de agosto de 1920, 99º da Independencia e 32º da Republica.\n\nEPITACIO PESSÔA.  \nAlfredo Pinto Vieira de Mello.\n",
+      "fecho_literal": "Publica a resolução do Congresso Nacional que proroga a actual sessão legislativa até ao dia 2 de outubro do corrente anno\n\nO Presidente da Republica dos Estados Unidos do Brasil:  \nFaço saber que o Congresso Nacional, em conformidade do disposto no § 1º da Constituição Federal, resolve prorogar a actual sessão legislativa até ao dia 3 de outubro do corrente anno.\n\nRio de Janeiro, 27 de agosto de 1920, 99º da Independencia e 32º da Republica.\n\nEPITACIO PESSÔA.  \nAlfredo Pinto Vieira de Mello.\n",
+      "gate_formula_documento_inteiro": true,
+      "gate_mesma_funcao_preambulo_proprio": true,
+      "causa": "Ato autônomo sem rótulos de artigos na fonte: disposição legislativa completa, preâmbulo, fecho e identidade próprios comprovados. Nenhum Artigo único fabricado; gate genérico não alterado.",
+      "wholetext_DOM_GFM_identico": true,
+      "formatos_criticos": {
+        "u": {
+          "fonte": [],
+          "GFM": []
+        },
+        "del/s/strike": {
+          "fonte": [],
+          "GFM": []
+        },
+        "sup": {
+          "fonte": [],
+          "GFM": []
+        },
+        "sub": {
+          "fonte": [],
+          "GFM": []
+        },
+        "i/em": {
+          "fonte": [],
+          "GFM": []
+        }
+      },
+      "formato": {
+        "erros": [],
+        "avisos": []
+      },
+      "vigencia": "Literal próprio Não consta revogação expressa → null; sem inferir vigente.",
+      "publicado": false,
+      "aprovacao_independente": false
+    }
+  ],
+  "arquivos": [
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/1107/dpl-1107-1903-11-24.md",
+      "sha256": "a1c65a847b6e63e139d2e2ba4990f91e7e2713344e072d3537e734f45233eb42"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/1107/fonte.html",
+      "sha256": "c37daec190264825feb25096922b56b094bc1c9be662efd9d58edc600771d86c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/1107/fragmento-proprio.html",
+      "sha256": "8f769fa96b942a41a03d74e4d5e979d4904726d5ca147f82f24214da6fc4907e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/1107/metadados.html",
+      "sha256": "fc264d39c8f7cc79749b279af64d78aae925c3e2839de86e66e11237c19f0524"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/1107/prova.json",
+      "sha256": "219b22f9e3c1e522dca7b4758a65c133adf9823802b8eceba4202714b99734b1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/1107/render-corpo-GFM.html",
+      "sha256": "15632f9377c6a62612b9ad4177c11ab2e9f89822b5e4392f370c1819d339e173"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/2967/dpl-2967-1915-02-08.md",
+      "sha256": "e4fafae827dbf892029c785e434d5ed77d7712d5ba8cf8d0e67b8578ce9623e6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/2967/fonte.html",
+      "sha256": "b0ce300836101162cd8145d8136f04be484e85d3647b403f8d53c349adedfa36"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/2967/fragmento-proprio.html",
+      "sha256": "8e8caec202dfd4bd5ab9c2e9097ed7395d163a6bf74fb4a1f73fbede9b0ad35c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/2967/metadados.html",
+      "sha256": "7a2d738a34231985cc9ddbeee13fdd83408ffa7a775c8aac8e2c7c20f6179177"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/2967/prova.json",
+      "sha256": "e4ca5b05cdc1ed477d9fa331be5582b32414ab3c17a848f5640a451ac50509d3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/2967/render-corpo-GFM.html",
+      "sha256": "ac52650b3f42a21246b5ea41d1c75472e4aa060d19f878bc6e58d0809bb512c7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/395/dpl-395-1896-10-13.md",
+      "sha256": "032d288d61c0af1aa783eb5151a6ac32fdb4a9050e364e4c5417e06d9a793342"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/395/fonte.html",
+      "sha256": "b73f1e120198c17fcb0b5d7cabdedcf6371c2084a084edc138de555bcd812926"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/395/fragmento-proprio.html",
+      "sha256": "5df39ce747cef2e9f6793fa29c45529d0658ce6d49d4ee01c210d4e2f57d2cc7"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/395/metadados.html",
+      "sha256": "da196005737e33766ac02317f67078659f13661baec1c73fbd0f2c86e3361b0d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/395/prova.json",
+      "sha256": "17885d42dada55a5a81b2386e1534c08f9ee136abb5f6122cb8bb35841b9f401"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/395/render-corpo-GFM.html",
+      "sha256": "5a769e19bda48790b537a4137e628d104537695126d3398f2bd08b29c04ab853"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/4115/dossie-identidade-divergencia.json",
+      "sha256": "c88fc218ff8962d90cd142581694bbb1748318668a6e3e703991a99bc6997096"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/4115/dpl-4115-1920-08-27.md",
+      "sha256": "f9fb147e667976d59ec25270c21e632043f6ef575e39fdb1b51900b5cd4d17d0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/4115/fonte.html",
+      "sha256": "a659af80c9077e55190b1967af470e47333eb96a48027afeba7109c77c7796a0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/4115/fragmento-proprio.html",
+      "sha256": "776c1089716e2d12931668abec67500644723545fa3f6da69dad3c0d0e64bb04"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/4115/metadados.html",
+      "sha256": "85d521f5c577bc691b4192e02a1fcbf7c6d39015c3cb324db8bf61034f437c98"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/4115/prova.json",
+      "sha256": "978af1307b30ff6ff26e92a1c9f75827fb416bbf7baa74368aabde711e56777b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/4115/render-corpo-GFM.html",
+      "sha256": "ef3a4db42750a6e165ebff51b1ddaab246b1c864236a9ffc5677e4e7191c26d3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/manifesto-candidatos4.json",
+      "sha256": "ee1b4cb5ed0cc9d2e838e2bb3415394cebf2a7607396b952eee078f786d35a09"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/preparar4-6d899de72dadab3e8427a1a20af2eb18b7d9124f6cb72734018234bc87351ba1.py",
+      "sha256": "6d899de72dadab3e8427a1a20af2eb18b7d9124f6cb72734018234bc87351ba1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/primarios4.json",
+      "sha256": "eb8044e471f68f1a3bab50994e2ed6a717b44c2f0e655c6862344ea769686b83"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/prova-ausencia-HEAD.json",
+      "sha256": "2f6f979a8a39ec3b85eb0be2fbadea1c388316567bfba1846f1f6dcae1183e3a"
+    }
+  ]
+}

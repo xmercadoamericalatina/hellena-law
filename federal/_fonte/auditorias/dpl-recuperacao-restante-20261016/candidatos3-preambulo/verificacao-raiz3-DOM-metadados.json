@@ -1,0 +1,43 @@
+{
+  "atos": [
+    {
+      "norma": "DPL-263-1894-12-20",
+      "epigrafe_primaria": "DECRETO Nº 263, DE 20 DE DEZEMBRO DE 1894",
+      "tipo_primario": "Poder Legislativo",
+      "revogada": null,
+      "texto_integral_DOM_GFM": true,
+      "formatos_criticos_ausentes": true,
+      "sem_tabela_imagem_anexo_no_corpo": true,
+      "candidato_sha256": "72b91b8159f088e2161aecbd12edea7e8d98e23cb83260e03fe81346d9eafe23",
+      "status": "gates_locais_raiz_conferidos_sem_publicacao"
+    },
+    {
+      "norma": "DPL-3029-1915-11-22",
+      "epigrafe_primaria": "DECRETO Nº 3.029, DE 22 DE NOVEMBRO DE 1915",
+      "tipo_primario": "Poder Legislativo",
+      "revogada": null,
+      "texto_integral_DOM_GFM": true,
+      "formatos_criticos_ausentes": true,
+      "sem_tabela_imagem_anexo_no_corpo": true,
+      "candidato_sha256": "353c45081c3cc13c4702b43c8ecdc953a900af152419cd0321b9185f5f1937c0",
+      "status": "gates_locais_raiz_conferidos_sem_publicacao"
+    },
+    {
+      "norma": "DPL-4970-1925-10-28",
+      "epigrafe_primaria": "DECRETO Nº 4.970, DE 28 DE OUTUBRO DE 1925",
+      "tipo_primario": "Poder Legislativo",
+      "revogada": null,
+      "texto_integral_DOM_GFM": true,
+      "formatos_criticos_ausentes": true,
+      "sem_tabela_imagem_anexo_no_corpo": true,
+      "candidato_sha256": "0822527d8811d6e3049aa909131cfd34c0feaaeb78d2e48ecb0fdd244d65dc18",
+      "status": "gates_locais_raiz_conferidos_sem_publicacao"
+    }
+  ],
+  "nao_aplicado": true,
+  "pendencias": [
+    "GitHub_render",
+    "conferencia_data_epigrafe_vs_header_estruturada",
+    "aprovacao_final_publicacao"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "checagem": "git diff --cached --check somente48novasprovas após rodada3588",
+  "exit_code": 2,
+  "ocorrencias": 658,
+  "todas_em_fragmentos_fontes_HTML_originais": true,
+  "fundamento": "CRLF/espaços originais preservados; fragmentos byte-exatos eSHAconferidos pelo manifesto9655daf5. Nenhumcanônico novo ououtroarquivo nesta rodada temavisos.",
+  "evidencia_completa": "federal/_fonte/auditorias/dpl-auditoria-20261016/diff-check-fontes-html-adicionais.txt.gz",
+  "sha256_evidencia": "7a7391f2cd3dce8bae86b1f0693aac281a8e83e19d614d7841450f57ae2a95cf",
+  "fontes": [
+    {
+      "path": "federal/_fonte/auditorias/dpl15-quadros-contexto-20261016/fragmentos/040f7b97c53487c30f02178218646f1648daf8584d89248f7d5dce4245944ff0.html",
+      "sha256": "040f7b97c53487c30f02178218646f1648daf8584d89248f7d5dce4245944ff0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl15-quadros-contexto-20261016/fragmentos/04af44e6d384c854247aa0d2b9680cdb3de28bb09a495183f5566afd71c3212c.html",
+      "sha256": "04af44e6d384c854247aa0d2b9680cdb3de28bb09a495183f5566afd71c3212c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl15-quadros-contexto-20261016/fragmentos/1832c85c6c15c7e9ccd1e8a7651081b3227f1725e19d219f03ed3b66cbf06e5c.html",
+      "sha256": "1832c85c6c15c7e9ccd1e8a7651081b3227f1725e19d219f03ed3b66cbf06e5c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl15-quadros-contexto-20261016/fragmentos/1f0b98930b486a5cfef9946bca2a7d47da34ec102fea0a950e14a6795b2fd987.html",
+      "sha256": "1f0b98930b486a5cfef9946bca2a7d47da34ec102fea0a950e14a6795b2fd987"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl15-quadros-contexto-20261016/fragmentos/2f1333809a5188ff6a1e182baefe7282fa0873192ae499f0e1bcc9c833f7bef3.html",
+      "sha256": "2f1333809a5188ff6a1e182baefe7282fa0873192ae499f0e1bcc9c833f7bef3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl15-quadros-contexto-20261016/fragmentos/37c434207f690be94b0d64c4c11917f6efde0867bfcb4221e91d679672a44313.html",
+      "sha256": "37c434207f690be94b0d64c4c11917f6efde0867bfcb4221e91d679672a44313"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl15-quadros-contexto-20261016/fragmentos/4f8105eff669cf8f1a23568767797a51046d3f6cf42abacf3a0bee1aac5b0d45.html",
+      "sha256": "4f8105eff669cf8f1a23568767797a51046d3f6cf42abacf3a0bee1aac5b0d45"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl15-quadros-contexto-20261016/fragmentos/6c93c5013bb6853d165c8c39122a1cee18a8c97661ab3e084c5927709353efaa.html",
+      "sha256": "6c93c5013bb6853d165c8c39122a1cee18a8c97661ab3e084c5927709353efaa"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl15-quadros-contexto-20261016/fragmentos/76e8abcac5f6824d00f03570466bfe1d9ac5d795aac0bd13a65890c84bd284e6.html",
+      "sha256": "76e8abcac5f6824d00f03570466bfe1d9ac5d795aac0bd13a65890c84bd284e6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl15-quadros-contexto-20261016/fragmentos/93365156491a610a66a1e608e0b905e1083ff5d21e31a142adf1645c7fbf5bbf.html",
+      "sha256": "93365156491a610a66a1e608e0b905e1083ff5d21e31a142adf1645c7fbf5bbf"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl15-quadros-contexto-20261016/fragmentos/962c82e7770b3cc4d7335afbfd1d98be3d058f599ee58ce652fa140064409737.html",
+      "sha256": "962c82e7770b3cc4d7335afbfd1d98be3d058f599ee58ce652fa140064409737"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl15-quadros-contexto-20261016/fragmentos/b24e6b080968bb29f8cdff8fc2d43ab62b17e011351249c12f6e56881b4c5e9c.html",
+      "sha256": "b24e6b080968bb29f8cdff8fc2d43ab62b17e011351249c12f6e56881b4c5e9c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl15-quadros-contexto-20261016/fragmentos/c9701f584d8161781f7d3c2df92c5f6b2618fbd2f52e4fab67a82b90d180936b.html",
+      "sha256": "c9701f584d8161781f7d3c2df92c5f6b2618fbd2f52e4fab67a82b90d180936b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl15-quadros-contexto-20261016/fragmentos/cb0c982863b00ba8323a7d8da317d5460292395921847b98c229312c9a2f6011.html",
+      "sha256": "cb0c982863b00ba8323a7d8da317d5460292395921847b98c229312c9a2f6011"
+    },
+    {
+      "path": "federal/_fonte/auditorias/dpl15-quadros-contexto-20261016/fragmentos/e17bf710e6c4e44c98ba73a28cc6a9298228778960d40353c0151904ef0abf43.html",
+      "sha256": "e17bf710e6c4e44c98ba73a28cc6a9298228778960d40353c0151904ef0abf43"
+    }
+  ]
+}

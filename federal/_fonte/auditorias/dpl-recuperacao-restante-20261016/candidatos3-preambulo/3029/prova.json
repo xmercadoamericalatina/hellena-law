@@ -1,0 +1,52 @@
+{
+  "norma": "DPL-3029-1915-11-22",
+  "urn": "urn:lex:br:federal:decreto.legislativo:1915-11-22;3029",
+  "candidato": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/3029/dpl-3029-1915-11-22.md",
+  "sha256_MD": "353c45081c3cc13c4702b43c8ecdc953a900af152419cd0321b9185f5f1937c0",
+  "sha256_corpo": "26407874f3f7dcb320f2aa29ef929c8b323b7d217a6362f3a3401cc10501607e",
+  "fonte": {
+    "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/ae2054d7f1f0485300381e40a4cfadaba5ebceeee42532a7d977bdd987ee30c7-a602231462b5a20ac086c053ebe68b31d2ba21eb98f0eb46df00576fd5241169.html.gz",
+    "sha256": "ae2054d7f1f0485300381e40a4cfadaba5ebceeee42532a7d977bdd987ee30c7",
+    "URL": "https://www2.camara.leg.br/legin/fed/decret/1910-1919/decreto-3029-22-novembro-1915-575041-publicacaooriginal-98123-pl.html",
+    "sha256_HTML": "b78c486ae41eae4daca620d52a105f136d4992535d2a8814e1b67d74117cf957",
+    "sha256_fragmento": "060ec8071182ba67b00c09593b6b8efa27552cf5ba1c3b759ae6d2052aa47137"
+  },
+  "sha256_metadados": "5c7e7dd9289100212b3dc86567c3074b37bc322f91dfb0c27407204835594978",
+  "link_proprio_literal": "https://www2.camara.leg.br/legin/fed/decret/1910-1919/decreto-3029-22-novembro-1915-575041-publicacaooriginal-98123-pl.html",
+  "ementa_literal": "Dispõe que, na publicação official do Codigo Civil, a que se refere o art. 1.735, do projecto respectivo, o texto do art. 1.730 seja redigido da maneira que estabelece",
+  "preambulo_literal": "O Presidente da Republica dos Estados Unidos do Brazil:  \nFaço saber que o Congresso Nacional decretou e eu sancciono a resolução seguinte:\n\n**Art. 1º** Na publicação official do Codigo Civil o texto do artigo que prohibe a oneração ou substituição da legitima, e tinha no projecto recebido o n. 1.730, será redigido assim: «A legitima dos herdeiros, fixada pelo art. 1.728, não impede que o testador",
+  "fecho_literal": "itima, e tinha no projecto recebido o n. 1.730, será redigido assim: «A legitima dos herdeiros, fixada pelo art. 1.728, não impede que o testador determine que sejam convertidos em outras especies os bens que constituem a legitima, lhes prescreva a incommunicabilidade, attribúa á mulher herdeira a livre administração, estabeleça as condições de inalienabilidade temporaria ou vitalicia, a qual não prejudicará a livre disposição testamentaria e, na falta desta, a transferencia dos bens aos herdeiros legitimos, desembaraçados de qualquer onus.»\n\n**Art. 2º** Revogam-se as disposições em contrario.\n\nRio de Janeiro, 22 de novembro de 1915, 94º da Independencia e 27º da Republica.\n\nWENCESLAU BRAZ P. GOMES.  \nCarlos Maximiliano Pereira dos Santos.\n",
+  "gate_formula_documento_inteiro": false,
+  "gate_mesma_funcao_preambulo_proprio": true,
+  "causa": "Referência a artigo na ementa antecede preâmbulo e aciona divisão prematura do gate; texto e função não alterados. Exceção contextual individual aguarda raiz.",
+  "wholetext_DOM_GFM_identico": true,
+  "formatos_criticos": {
+    "u": {
+      "fonte": [],
+      "GFM": []
+    },
+    "del/s/strike": {
+      "fonte": [],
+      "GFM": []
+    },
+    "sup": {
+      "fonte": [],
+      "GFM": []
+    },
+    "sub": {
+      "fonte": [],
+      "GFM": []
+    },
+    "i/em": {
+      "fonte": [],
+      "GFM": []
+    }
+  },
+  "formato": {
+    "erros": [],
+    "avisos": []
+  },
+  "vigencia": "Literal próprio Não consta revogação expressa → null; sem inferir vigente.",
+  "publicado": false,
+  "aprovacao_independente": false
+}

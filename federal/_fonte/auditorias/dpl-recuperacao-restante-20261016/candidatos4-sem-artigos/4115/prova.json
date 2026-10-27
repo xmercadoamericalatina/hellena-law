@@ -1,0 +1,52 @@
+{
+  "norma": "DPL-4115-1920-08-27",
+  "urn": "urn:lex:br:federal:decreto.legislativo:1920-08-27;4115",
+  "candidato": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/4115/dpl-4115-1920-08-27.md",
+  "sha256_MD": "f9fb147e667976d59ec25270c21e632043f6ef575e39fdb1b51900b5cd4d17d0",
+  "sha256_corpo": "91ccdf57600fdbed0e091f9c5a435031aea77bb04135b6fad19330ea26fb8491",
+  "fonte": {
+    "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/3f5854833767f45a32cd630c57945e7d48626fcb63e474f89756b2ff6b2f9dfe-8afdea728b0e01dc23d1d4291b32d3d7bbcc0901cfba03e5aaa8c25e5bedf29f.html.gz",
+    "sha256": "3f5854833767f45a32cd630c57945e7d48626fcb63e474f89756b2ff6b2f9dfe",
+    "URL": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4115-27-agosto-1920-570370-publicacaooriginal-93503-pl.html",
+    "sha256_HTML": "a659af80c9077e55190b1967af470e47333eb96a48027afeba7109c77c7796a0",
+    "sha256_fragmento": "776c1089716e2d12931668abec67500644723545fa3f6da69dad3c0d0e64bb04"
+  },
+  "sha256_metadados": "85d521f5c577bc691b4192e02a1fcbf7c6d39015c3cb324db8bf61034f437c98",
+  "link_proprio_literal": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4115-27-agosto-1920-570370-publicacaooriginal-93503-pl.html",
+  "ementa_literal": "Publica a resolução do Congresso Nacional que proroga a actual sessão legislativa até ao dia 2 de outubro do corrente anno",
+  "preambulo_literal": "O Presidente da Republica dos Estados Unidos do Brasil:  \nFaço saber que o Congresso Nacional, em conformidade do disposto no § 1º da Constituição Federal, resolve prorogar a actual sessão legislativa até ao dia 3 de outubro do corrente anno.\n\nRio de Janeiro, 27 de agosto de 1920, 99º da Independencia e 32º da Republica.\n\nEPITACIO PESSÔA.  \nAlfredo Pinto Vieira de Mello.\n",
+  "fecho_literal": "Publica a resolução do Congresso Nacional que proroga a actual sessão legislativa até ao dia 2 de outubro do corrente anno\n\nO Presidente da Republica dos Estados Unidos do Brasil:  \nFaço saber que o Congresso Nacional, em conformidade do disposto no § 1º da Constituição Federal, resolve prorogar a actual sessão legislativa até ao dia 3 de outubro do corrente anno.\n\nRio de Janeiro, 27 de agosto de 1920, 99º da Independencia e 32º da Republica.\n\nEPITACIO PESSÔA.  \nAlfredo Pinto Vieira de Mello.\n",
+  "gate_formula_documento_inteiro": true,
+  "gate_mesma_funcao_preambulo_proprio": true,
+  "causa": "Ato autônomo sem rótulos de artigos na fonte: disposição legislativa completa, preâmbulo, fecho e identidade próprios comprovados. Nenhum Artigo único fabricado; gate genérico não alterado.",
+  "wholetext_DOM_GFM_identico": true,
+  "formatos_criticos": {
+    "u": {
+      "fonte": [],
+      "GFM": []
+    },
+    "del/s/strike": {
+      "fonte": [],
+      "GFM": []
+    },
+    "sup": {
+      "fonte": [],
+      "GFM": []
+    },
+    "sub": {
+      "fonte": [],
+      "GFM": []
+    },
+    "i/em": {
+      "fonte": [],
+      "GFM": []
+    }
+  },
+  "formato": {
+    "erros": [],
+    "avisos": []
+  },
+  "vigencia": "Literal próprio Não consta revogação expressa → null; sem inferir vigente.",
+  "publicado": false,
+  "aprovacao_independente": false
+}

@@ -1,0 +1,52 @@
+{
+  "norma": "DPL-2967-1915-02-08",
+  "urn": "urn:lex:br:federal:decreto.legislativo:1915-02-08;2967",
+  "candidato": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/2967/dpl-2967-1915-02-08.md",
+  "sha256_MD": "e4fafae827dbf892029c785e434d5ed77d7712d5ba8cf8d0e67b8578ce9623e6",
+  "sha256_corpo": "d897695ddb50f62cfb155963d5bdd04d449b218bd41c40446562540aec0621c2",
+  "fonte": {
+    "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/7f9a08ced528b4791aab0f232d01f970f6ebe5220490d91b0b63a616034843c4-05ee860ee9317b86797ef2b67abef593895b1dce690b6ec91ef0e688b298a74a.html.gz",
+    "sha256": "7f9a08ced528b4791aab0f232d01f970f6ebe5220490d91b0b63a616034843c4",
+    "URL": "https://www2.camara.leg.br/legin/fed/decret/1910-1919/decreto-2967-8-fevereiro-1915-574352-publicacaooriginal-97519-pl.html",
+    "sha256_HTML": "b0ce300836101162cd8145d8136f04be484e85d3647b403f8d53c349adedfa36",
+    "sha256_fragmento": "8e8caec202dfd4bd5ab9c2e9097ed7395d163a6bf74fb4a1f73fbede9b0ad35c"
+  },
+  "sha256_metadados": "7a2d738a34231985cc9ddbeee13fdd83408ffa7a775c8aac8e2c7c20f6179177",
+  "link_proprio_literal": "https://www2.camara.leg.br/legin/fed/decret/1910-1919/decreto-2967-8-fevereiro-1915-574352-publicacaooriginal-97519-pl.html",
+  "ementa_literal": "Publica a resolução do Congresso Nacional que adia para 3 de maio proximo vindouro as sessões do mesmo Congresso, convocado extraordinariamente pelo decreto n. 11.408, de I de janeiro de 1915",
+  "preambulo_literal": "O Presidente da Republica dos Estados Unidos do Brazil:  \nFaço saber que o Congresso Nacional, resolve adiar para 3 de maio proximo vindouro as sessões do mesmo Congresso, extraordinariamente convocado pelo decreto n. 11.408, de 1 de janeiro de 1915.\n\nRio de Janeiro, 8 de fevereiro de 1915, 94º da Independencia e 27º da Republica.\n\nWENCESLAU BRAZ P. GOMES.  \nCarlos Maximiliano Pereira dos Santos.\n",
+  "fecho_literal": "Publica a resolução do Congresso Nacional que adia para 3 de maio proximo vindouro as sessões do mesmo Congresso, convocado extraordinariamente pelo decreto n. 11.408, de I de janeiro de 1915\n\nO Presidente da Republica dos Estados Unidos do Brazil:  \nFaço saber que o Congresso Nacional, resolve adiar para 3 de maio proximo vindouro as sessões do mesmo Congresso, extraordinariamente convocado pelo decreto n. 11.408, de 1 de janeiro de 1915.\n\nRio de Janeiro, 8 de fevereiro de 1915, 94º da Independencia e 27º da Republica.\n\nWENCESLAU BRAZ P. GOMES.  \nCarlos Maximiliano Pereira dos Santos.\n",
+  "gate_formula_documento_inteiro": true,
+  "gate_mesma_funcao_preambulo_proprio": true,
+  "causa": "Ato autônomo sem rótulos de artigos na fonte: disposição legislativa completa, preâmbulo, fecho e identidade próprios comprovados. Nenhum Artigo único fabricado; gate genérico não alterado.",
+  "wholetext_DOM_GFM_identico": true,
+  "formatos_criticos": {
+    "u": {
+      "fonte": [],
+      "GFM": []
+    },
+    "del/s/strike": {
+      "fonte": [],
+      "GFM": []
+    },
+    "sup": {
+      "fonte": [],
+      "GFM": []
+    },
+    "sub": {
+      "fonte": [],
+      "GFM": []
+    },
+    "i/em": {
+      "fonte": [],
+      "GFM": []
+    }
+  },
+  "formato": {
+    "erros": [],
+    "avisos": []
+  },
+  "vigencia": "Literal próprio Não consta revogação expressa → null; sem inferir vigente.",
+  "publicado": false,
+  "aprovacao_independente": false
+}

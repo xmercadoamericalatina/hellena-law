@@ -1,0 +1,52 @@
+{
+  "norma": "DPL-263-1894-12-20",
+  "urn": "urn:lex:br:federal:decreto.legislativo:1894-12-20;263",
+  "candidato": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos3-preambulo/263/dpl-263-1894-12-20.md",
+  "sha256_MD": "72b91b8159f088e2161aecbd12edea7e8d98e23cb83260e03fe81346d9eafe23",
+  "sha256_corpo": "b0ae9bc67175af2dc6d835bef47db8efaed637b4f7e1969f47280ae713cd4df0",
+  "fonte": {
+    "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/78aa7e1de3f95eda45c73ffb9ead9f752befe97d8797883c42025529190276fe-9e822ffc3252d7d1d35e72f7847bc08b086f9da52ea90300f0f605d277966e8f.html.gz",
+    "sha256": "78aa7e1de3f95eda45c73ffb9ead9f752befe97d8797883c42025529190276fe",
+    "URL": "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-263-20-dezembro-1894-540501-publicacaooriginal-40817-pl.html",
+    "sha256_HTML": "a8867de748e2c61a6132185482f515922eee5d79a5ff1f4e7b6c337026c62e19",
+    "sha256_fragmento": "b10cd2fea6407feb5042fc086b549d4bf2e0bfdb87f9176398d227344ec35a94"
+  },
+  "sha256_metadados": "8482450e4ea78dac4232b7599daec13aae105047d327f86fe7bfd5eb92dc861f",
+  "link_proprio_literal": "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-263-20-dezembro-1894-540501-publicacaooriginal-40817-pl.html",
+  "ementa_literal": "Interpreta a expressão - com aproveitamento, do artigo unico § 1º do decreto legislativo n. 206 de 26 de setembro de 1894.",
+  "preambulo_literal": "O Presidente da Republica dos Estados Unidos do Brazil:\n\nFaço saber que o Congresso Nacional decreta e eu sancciono a seguinte resolução:",
+  "fecho_literal": "ca dos Estados Unidos do Brazil:\n\nFaço saber que o Congresso Nacional decreta e eu sancciono a seguinte resolução:\n\nArtigo unico. As palavras - com aproveitamento, do decreto legislativo n. 206 de 26 de setembro de 1894 (artigo único § 1º) não privam os alumnos dos cursos superiores das Escolas Militares da vantagem consignada no mesmo decreto, a qual deve ser entendida como approvação em todas as materias do anno e não simplesmente como approvação nas cadeiras onde tiveram sido obtidas contas de anno pelos respectivos alumnos.\n\nO General de Divisão Bernardo Vasques, Ministro de Estado dos Negocios da Guerra, assim o faça executar.\n\nCapital Federal, 20 de dezembro de 1894, 6º da República.\n\nPrudente J. de Moraes Barros.  \nBernardo Vasques.\n",
+  "gate_formula_documento_inteiro": false,
+  "gate_mesma_funcao_preambulo_proprio": true,
+  "causa": "Referência a artigo na ementa antecede preâmbulo e aciona divisão prematura do gate; texto e função não alterados. Exceção contextual individual aguarda raiz.",
+  "wholetext_DOM_GFM_identico": true,
+  "formatos_criticos": {
+    "u": {
+      "fonte": [],
+      "GFM": []
+    },
+    "del/s/strike": {
+      "fonte": [],
+      "GFM": []
+    },
+    "sup": {
+      "fonte": [],
+      "GFM": []
+    },
+    "sub": {
+      "fonte": [],
+      "GFM": []
+    },
+    "i/em": {
+      "fonte": [],
+      "GFM": []
+    }
+  },
+  "formato": {
+    "erros": [],
+    "avisos": []
+  },
+  "vigencia": "Literal próprio Não consta revogação expressa → null; sem inferir vigente.",
+  "publicado": false,
+  "aprovacao_independente": false
+}

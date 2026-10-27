@@ -1,0 +1,215 @@
+[
+  {
+    "path": "federal/decretos-legislativos/1918/dpl-3497-1918-01-24.md",
+    "source": {
+      "path": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/camara/0a579c12b5cacf36ce8d4c141d790785f3b44dd2837a1bbd9656e7ab7c59f727.html.gz",
+      "sha256_arquivo": "65a6803c98255dc85d113986288cd4c3b488f143804a76fc41a5d336c608e321",
+      "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/65a6803c98255dc85d113986288cd4c3b488f143804a76fc41a5d336c608e321-0a579c12b5cacf36ce8d4c141d790785f3b44dd2837a1bbd9656e7ab7c59f727.html.gz",
+      "sha256_fonte": "902f215d26962404726548c3534c60172cb25615d0dddb97f0277d16929fd419",
+      "url": "https://www2.camara.leg.br/legin/fed/decret/1910-1919/decreto-3497-24-janeiro-1918-572375-publicacaooriginal-95508-pl.html"
+    },
+    "HTML5_DOM_celulas_spans_texto_identicos": true,
+    "sha256_DOM_fonte": "0fba64435895a24c07e3bc137bb99a1019d790107b991062d37913a67e602c6e",
+    "sha256_DOM_candidato": "0fba64435895a24c07e3bc137bb99a1019d790107b991062d37913a67e602c6e",
+    "diferencas_assinatura_text_nodes": [
+      {
+        "operacao": "replace",
+        "fonte": [
+          [
+            "text",
+            "10"
+          ],
+          [
+            "text",
+            "mestres de 2ª classe......................................................"
+          ]
+        ],
+        "candidato": [
+          [
+            "text",
+            "10 mestres de 2ª classe......................................................"
+          ]
+        ]
+      },
+      {
+        "operacao": "replace",
+        "fonte": [
+          [
+            "text",
+            "23"
+          ],
+          [
+            "text",
+            "serventes de 2ª classe.................................................."
+          ]
+        ],
+        "candidato": [
+          [
+            "text",
+            "23 serventes de 2ª classe.................................................."
+          ]
+        ]
+      }
+    ],
+    "DOM_GFM_texto_pontuacao_identicos": true,
+    "diagnostico": "segmentação de nós de texto/inline eliminada; células e spans preservados",
+    "proposta_minima": "nenhuma alteração adicional de tabela; revisar equivalência DOM agregada antes de eventual promoção",
+    "anexo_externo_ausente": false,
+    "retido": true
+  },
+  {
+    "path": "federal/decretos-legislativos/1922/dpl-4555-1922-08-10.md",
+    "source": {
+      "path": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/camara/47e0616ce0b17f992b044956089c43c8772e5376a25d611af88d6ea3a2b0d43d.html.gz",
+      "sha256_arquivo": "d774194c18e04b2bcd9df16e4176243f2cfeb396e978ee78cd19b1cfc1845f47",
+      "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/d774194c18e04b2bcd9df16e4176243f2cfeb396e978ee78cd19b1cfc1845f47-47e0616ce0b17f992b044956089c43c8772e5376a25d611af88d6ea3a2b0d43d.html.gz",
+      "sha256_fonte": "8a909ad86eea0b577b05bcc2983e79c8ffc64b1eb7cc564729c24d5af540ca1f",
+      "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4555-10-agosto-1922-568201-publicacaooriginal-91594-pl.html"
+    },
+    "HTML5_DOM_celulas_spans_texto_identicos": false,
+    "sha256_DOM_fonte": "d9ee20f79ce850efac4ab713c829135b88fe4bbce75df339fe9395a9dd34e84e",
+    "sha256_DOM_candidato": "6e69360f90115c9c72a1a0b389b79a7c7eee2e69dacfe782a90a8fc916d628a2",
+    "diferencas_assinatura_text_nodes": [
+      {
+        "operacao": "replace",
+        "fonte": [
+          [
+            "text",
+            "."
+          ],
+          [
+            "text",
+            "....................................."
+          ]
+        ],
+        "candidato": [
+          [
+            "text",
+            "......................................"
+          ]
+        ]
+      },
+      {
+        "operacao": "replace",
+        "fonte": [
+          [
+            "text",
+            "."
+          ],
+          [
+            "text",
+            "....................................."
+          ]
+        ],
+        "candidato": [
+          [
+            "text",
+            "......................................"
+          ]
+        ]
+      }
+    ],
+    "DOM_GFM_texto_pontuacao_identicos": false,
+    "diagnostico": "diferença de células/spans requer confronto",
+    "proposta_minima": "reconstruir apenas células divergentes após revisão",
+    "anexo_externo_ausente": true,
+    "retido": true
+  },
+  {
+    "path": "federal/decretos-legislativos/1926/dpl-5018-1926-08-25.md",
+    "source": {
+      "path": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/camara/dd5bbc6e37e8b616517cfb90286af2db9e0999aaaf980a3ce7216d87530e606b.html.gz",
+      "sha256_arquivo": "435e8e11f8927f407227184b466027880676dc79977289447de48d7f62b01a4a",
+      "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/435e8e11f8927f407227184b466027880676dc79977289447de48d7f62b01a4a-dd5bbc6e37e8b616517cfb90286af2db9e0999aaaf980a3ce7216d87530e606b.html.gz",
+      "sha256_fonte": "3fa16e358b2c7aa2a86790c59d12ff959df11f128890623e770816a4eb02ef8e",
+      "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-5018-25-agosto-1926-564113-publicacaooriginal-88133-pl.html"
+    },
+    "HTML5_DOM_celulas_spans_texto_identicos": false,
+    "sha256_DOM_fonte": "1259d0c1c6380a33defee9ddd0c09ef39f383153c32cfba35cab5b9d06daf623",
+    "sha256_DOM_candidato": "6e12bc794afd108aa77d531e2f3250f4dbe49f92eec61e0c6dd1bbf78d4bb908",
+    "diferencas_assinatura_text_nodes": [
+      {
+        "operacao": "replace",
+        "fonte": [
+          [
+            "text",
+            "24. Servente Antonio Pereira Dutra, quatro mezes a 15$000........................................"
+          ],
+          [
+            "text",
+            ".............. 60$000"
+          ]
+        ],
+        "candidato": [
+          [
+            "text",
+            "24. Servente Antonio Pereira Dutra, quatro mezes a 15$000...................................................... 60$000"
+          ]
+        ]
+      },
+      {
+        "operacao": "replace",
+        "fonte": [
+          [
+            "text",
+            "3. Servente Manoel de Souza Gomes, 12 mezes, a 15$000..................... ......................."
+          ],
+          [
+            "text",
+            "........180$000"
+          ]
+        ],
+        "candidato": [
+          [
+            "text",
+            "3. Servente Manoel de Souza Gomes, 12 mezes, a 15$000..................... ...............................180$000"
+          ]
+        ]
+      }
+    ],
+    "DOM_GFM_texto_pontuacao_identicos": true,
+    "diagnostico": "diferença de células/spans requer confronto",
+    "proposta_minima": "reconstruir apenas células divergentes após revisão",
+    "anexo_externo_ausente": false,
+    "retido": true
+  },
+  {
+    "path": "federal/decretos-legislativos/1928/dpl-5597-1928-12-11.md",
+    "source": {
+      "path": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/camara/31d775b08b61444ac51fa2f01cd4e92954caaaa1a44f030596f9c5cab6752349.html.gz",
+      "sha256_arquivo": "739378f16e6c1766898c35675d61fd05ce31877797f51b6d76808319cbd2802d",
+      "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/739378f16e6c1766898c35675d61fd05ce31877797f51b6d76808319cbd2802d-31d775b08b61444ac51fa2f01cd4e92954caaaa1a44f030596f9c5cab6752349.html.gz",
+      "sha256_fonte": "96435a244f9debffb4b47ee4e471ec62ca1fb80b51b47ae74eb4368ed9b72658",
+      "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-5597-11-dezembro-1928-776640-publicacaooriginal-140621-pl.html"
+    },
+    "HTML5_DOM_celulas_spans_texto_identicos": true,
+    "sha256_DOM_fonte": "d4f73e316a2ce4e0142e34abd2a95f45b43ddfc7594e7a3802b07d877e2e0d66",
+    "sha256_DOM_candidato": "d4f73e316a2ce4e0142e34abd2a95f45b43ddfc7594e7a3802b07d877e2e0d66",
+    "diferencas_assinatura_text_nodes": [
+      {
+        "operacao": "replace",
+        "fonte": [
+          [
+            "text",
+            "1"
+          ],
+          [
+            "text",
+            "secretario......................................................."
+          ]
+        ],
+        "candidato": [
+          [
+            "text",
+            "1 secretario......................................................."
+          ]
+        ]
+      }
+    ],
+    "DOM_GFM_texto_pontuacao_identicos": true,
+    "diagnostico": "segmentação de nós de texto/inline eliminada; células e spans preservados",
+    "proposta_minima": "nenhuma alteração adicional de tabela; revisar equivalência DOM agregada antes de eventual promoção",
+    "anexo_externo_ausente": false,
+    "retido": true
+  }
+]

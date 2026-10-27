@@ -1,0 +1,20 @@
+{
+  "numero": "5368",
+  "ano": 1927,
+  "fonte_pdf": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/colecao1927-parte1.pdf",
+  "fonte_pdf_sha256": "367fb8d5ea6f971ce4986dd4c1e27141a2521a335d042dd11a420505ee179d7f",
+  "paginas": [
+    {
+      "pagina_PDF": 249,
+      "pagina_impressa": 205,
+      "PDF_path": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/5368/pagina-249.pdf",
+      "PDF_sha256": "e0bba60fdd497ba21a392ebdf032949e762dec4f1bca4d3912edc209f425efc2",
+      "PNG_path": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/5368/pagina-249.png",
+      "PNG_sha256": "454554aa005196b0d9887072f40b165a6273210bdbc877b6d8fc8165dbb78789"
+    }
+  ],
+  "PDF_derivado": "federal/_fonte/auditorias/dpl13-quadros-visuais-20261016/atos/5368/paginas-integra.pdf",
+  "PDF_derivado_sha256": "eabed216989a8e71be6f3f6720645b44b87e3903bd88e8089ae21b120550eb5e",
+  "estado": "fontevisual_integra_localizada_aguarda_cotejo",
+  "nota": "Páginaslimitecontêmoutrosatos; limites textuais individuais ficam explícitos no inventário."
+}

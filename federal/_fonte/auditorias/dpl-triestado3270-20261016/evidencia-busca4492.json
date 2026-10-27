@@ -1,0 +1,25 @@
+{
+  "path": "federal/decretos-legislativos/1922/dpl-4492-1922-01-18.md",
+  "url_busca": "https://www.camara.leg.br/legislacao/busca?tipo=Decreto&ordenacao=data%3ADESC&pagina=1&numero=4492&ano=1922",
+  "cache": "federal/_fonte/camara/f528bbd2dbb05496651f1e539c40f7db157904a7990b4ebc0a4cf9b4a272a023.html.gz",
+  "sha256_gzip": "2ec6f6de2a7ce1deeba69606bfddeede289f85e7513fcf8c48c802a2d5470144",
+  "sha256_fonte": "d45471bfb69f1750941572f33ab58c0f646f8369df3ea69816e75fb7e042644d",
+  "metadados_sem_campo_situacao": {
+    "path": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/camara/1d2b897e901050ca93134b4872b9f4695c2c86cdcadb7052dc8992a5c1870cf5.html.gz",
+    "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/77c1694b84076ca4152c4ef5cc927b04b8378bdfd8349ecb21b97c66e6723b42-1d2b897e901050ca93134b4872b9f4695c2c86cdcadb7052dc8992a5c1870cf5.html.gz",
+    "sha256_arquivo": "77c1694b84076ca4152c4ef5cc927b04b8378bdfd8349ecb21b97c66e6723b42",
+    "sha256_fonte_html": "e47afdaf2f4de6d04318c5146eda2ed75b20b7d6d1309d6c575dee07f894c091",
+    "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4492-18-janeiro-1922-568034-norma-pl.html"
+  },
+  "situacao_literal": "Não consta revogação expressa",
+  "contexto": "              \n                                                                 Não consta revogação expressa \n                                                                 1  filtros enc",
+  "total_fonte": 1,
+  "documento_proprio_parser_real": {
+    "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4492-18-janeiro-1922-568034-norma-pl.html",
+    "titulo": "Decreto nº 4.492, de 18 de Janeiro de 1922",
+    "ementa": "Autoriza o Poder Executivo á assegurar, de modo permanente, ao Instituto Historico e Geographico Brasileiro, uma subvenção annual de 40:000$, entregue em duas prestações de 20:000$ cada uma, em janeiro e julho, a conceder-lhe outros fatores e a organização um museu historico em edificio apropriado",
+    "situacao": "Não consta revogação expressa"
+  },
+  "HTTP": 0,
+  "observacao": "Página de metadados não exibe situação; situação foi comprovada no resultado próprio da busca oficial em cache, pela mesma função pagina do coletor."
+}

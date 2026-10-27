@@ -1,0 +1,51 @@
+{
+  "estado": "revisao_raiz_3275_concluida_duas_lacunas_reais_retidas",
+  "total": 3275,
+  "texto_pontuacao_formatos_GFM_sincronizados": 3275,
+  "backup_delta_byte_unico_e_body_core_iguais": 3275,
+  "retidos": [
+    {
+      "path": "federal/decretos-legislativos/1928/dpl-5488-1928-07-09.md",
+      "sha256_antes": "486123139cf0d6755620fd84d218b1f0b590673fbd9ff89a236222cbdfff247e",
+      "sha256_depois": "516d050fc67f44d04782d4df33acd5add986bb43b7a729ce5d48af1af0399089",
+      "source_sha256": "af753362545418d5327415e613c5136388aeb5e4b12401a919383553db5d75c5",
+      "caracteres": 1106,
+      "retencoes": [
+        {
+          "gate": "lacuna_contextual",
+          "marcadores": [
+            "ilegível"
+          ]
+        }
+      ],
+      "corpo_exato_core": true,
+      "backup_e_delta_integral_conferidos": true
+    },
+    {
+      "path": "federal/decretos-legislativos/1928/dpl-5515-1928-08-13.md",
+      "sha256_antes": "c024a7c1517c152f42592cc7f20dd4be5d433e23114d57e1250635258211046a",
+      "sha256_depois": "365ef51fbf06141b60e7891eeac214371b2403d82c3cbd137c9c28b80a614dd1",
+      "source_sha256": "9c5588f5e4b3c8a26d1da46ff52c66de68958b093de8582a906ee29712d5df79",
+      "caracteres": 12414,
+      "retencoes": [
+        {
+          "gate": "lacuna_contextual",
+          "marcadores": [
+            "Ilegível"
+          ]
+        }
+      ],
+      "corpo_exato_core": true,
+      "backup_e_delta_integral_conferidos": true
+    }
+  ],
+  "coorte_restante_condicional": 3273,
+  "script_sha256": "b13e6f7e96707a423f3b45dfa1d20e34b1d8f12ed2ac026cd21ed49e22263f44",
+  "resultado_sha256": "daba238ebad95636e8817e363d03f0f11c852fb8a06e425bf849de976e413925",
+  "limites": [
+    "Sem aplicação/Git/HTTP pelo verificador;3270candidatosisolados aindaaguardam decisão/aplicação.",
+    "Identidade/tipo/data/versão/metadata oficial confrontados no dossiê do agente, a revisar antes de aplicar3273.",
+    "DPL5488art1 e5515art26 contêm (ilegível) nas fontes textuais; não preencher porinferência.",
+    "Primeiroensaio abortouCmarkconcurrentflag; renderagorasequencialcomLock, igualdadecompleta preservada."
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "estado": "candidatos_isolados_sem_aplicar",
+  "manifesto_auditoria_sha256": "d8c469c92a6a7b2a9ebad67fc6bcca22428767b14b76cdd508bd05912dc8aec2",
+  "candidatos_metadata_only": 3270,
+  "documentos_sem_alteracao": [
+    {
+      "path": "federal/decretos-legislativos/1911/dpl-2419-1911-07-11.md",
+      "urn": "urn:lex:br:federal:decreto.legislativo:1911-07-11;2419",
+      "sha256_md": "5fc08d0fb3ea933db9de205bac5733201eaae70348b49709ff706f5bd9fe328c",
+      "sha256_corpo": "03585e73e1d75afc7ab9df45422d7e74ff6c3d0a5c1347794781de08c2e05c1f",
+      "metadados": {
+        "path": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/camara/526a48b2025ac42bccf46a87e8adad36a12beeb6c01ef0869e722eda2944f61e.html.gz",
+        "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/5d117063c3e8968cd8e38357679084dadd452e1695f8ae6a82556f7d9b310f90-526a48b2025ac42bccf46a87e8adad36a12beeb6c01ef0869e722eda2944f61e.html.gz",
+        "sha256_arquivo": "5d117063c3e8968cd8e38357679084dadd452e1695f8ae6a82556f7d9b310f90",
+        "sha256_fonte_html": "2562a72b42c782613ec895ec396432a4765fa0bfa456ce8a8ca4c3d78fd02a53",
+        "url": "https://www2.camara.leg.br/legin/fed/decret/1910-1919/decreto-2419-11-julho-1911-579265-norma-pl.html"
+      },
+      "fonte": {
+        "path": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/camara/b937e567dbc8d778efe672859346dc93d46a741ddb7cb01bea263712700fb55a.html.gz",
+        "sha256_arquivo": "7557895aed13fbc7021136769471cf175d3f6e2a52e50bd12e1e79fad6d677fa",
+        "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/7557895aed13fbc7021136769471cf175d3f6e2a52e50bd12e1e79fad6d677fa-b937e567dbc8d778efe672859346dc93d46a741ddb7cb01bea263712700fb55a.html.gz",
+        "sha256_fonte": "cb775f1123ab468f170b75efcbddcf8333e7bd8a4863380657803cb8b8b2b66e",
+        "url": "https://www2.camara.leg.br/legin/fed/decret/1910-1919/decreto-2419-11-julho-1911-579265-publicacaooriginal-102176-pl.html"
+      },
+      "alertas": [],
+      "acao_proposta": "nenhuma_alteracao"
+    },
+    {
+      "path": "federal/decretos-legislativos/1921/dpl-4279-1921-06-02.md",
+      "urn": "urn:lex:br:federal:decreto.legislativo:1921-06-02;4279",
+      "sha256_md": "c920a483985dc22053b448b119c184efaf5162f4f80b9668b2aab50fbb7323b1",
+      "sha256_corpo": "c5be25eed5df1630f33f24f0f509ec7962999b7d6c37e334efe9e2c13f62c97a",
+      "metadados": {
+        "path": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/camara/7d9eefc30906b07153fbc602cc6a118be946cce82740eec30bcdbc601323f78e.html.gz",
+        "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/db5350119538286dbe530f03ad8fb91df54d8e2582067c031eeef4e6e7960d64-7d9eefc30906b07153fbc602cc6a118be946cce82740eec30bcdbc601323f78e.html.gz",
+        "sha256_arquivo": "db5350119538286dbe530f03ad8fb91df54d8e2582067c031eeef4e6e7960d64",
+        "sha256_fonte_html": "490cc80167b70b8e6029879c67d7f2f2add3404a27d5be59f591879e8e075e62",
+        "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4279-2-junho-1921-569161-norma-pl.html"
+      },
+      "fonte": {
+        "path": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/camara/37e998f87822ee1042f847cd92f1112567df7ea647dd96f2e2d73f5cb3add982.html.gz",
+        "sha256_arquivo": "d3df8a04b634c850c30f7ae2367dc0380f17d796d3129322697e7bc36d22f6ac",
+        "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/d3df8a04b634c850c30f7ae2367dc0380f17d796d3129322697e7bc36d22f6ac-37e998f87822ee1042f847cd92f1112567df7ea647dd96f2e2d73f5cb3add982.html.gz",
+        "sha256_fonte": "8f6c53493d9f2cbcec7b234841c84854b21088d1f158acdb257a4a20bdb7dbcb",
+        "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4279-2-junho-1921-569161-publicacaooriginal-92416-pl.html"
+      },
+      "alertas": [],
+      "acao_proposta": "nenhuma_alteracao"
+    },
+    {
+      "path": "federal/decretos-legislativos/1921/dpl-4370-1921-11-19.md",
+      "urn": "urn:lex:br:federal:decreto.legislativo:1921-11-19;4370",
+      "sha256_md": "6ba924e5df5c06b1e6e220ceddbe7bb575f20e498c266f0fc72fd161fda51aac",
+      "sha256_corpo": "a104d82910c87db9f69e8bc7e499dc57892842a7d3f0503c6eb427a3d74a50b6",
+      "metadados": {
+        "path": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/camara/391d65afe19f0e752369dfbc4ac8b326320b1fb43efcc3b0c0ec3552c8bceafc.html.gz",
+        "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/fb335fb74e576440122a324c5bf500994972782761f218e1d674f1d7af0e461e-391d65afe19f0e752369dfbc4ac8b326320b1fb43efcc3b0c0ec3552c8bceafc.html.gz",
+        "sha256_arquivo": "fb335fb74e576440122a324c5bf500994972782761f218e1d674f1d7af0e461e",
+        "sha256_fonte_html": "2a07c4ad686ceaf325c407b7b09c8144bdcacb67700d25ee2eb7438c06c066b2",
+        "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4370-19-novembro-1921-569637-norma-pl.html"
+      },
+      "fonte": {
+        "path": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/camara/433dde930566827c7727e80de404910bf318b7d02fea6f1cc895ee4d2b911a66.html.gz",
+        "sha256_arquivo": "20f050d0ae3cd6d7a5a7c0cd9d7cc8c6ed1802cdb5179647b64d342fc53b98e5",
+        "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/20f050d0ae3cd6d7a5a7c0cd9d7cc8c6ed1802cdb5179647b64d342fc53b98e5-433dde930566827c7727e80de404910bf318b7d02fea6f1cc895ee4d2b911a66.html.gz",
+        "sha256_fonte": "d241b61efc4fdb889f657c3d57a5f92e6121f6d84450f6b6f9e94525311bc57f",
+        "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4370-19-novembro-1921-569637-publicacaooriginal-92877-pl.html"
+      },
+      "alertas": [],
+      "acao_proposta": "nenhuma_alteracao"
+    },
+    {
+      "path": "federal/decretos-legislativos/1928/dpl-5422-1928-01-05.md",
+      "urn": "urn:lex:br:federal:decreto.legislativo:1928-01-05;5422",
+      "sha256_md": "da37424217f128fc73aa84993037a142bd1351054a4e6656d635429597ae249c",
+      "sha256_corpo": "55a444b26e79c14ed5064c9f0f6c78c13b8ca64c768e3e4ec7b2d8bbf9becb04",
+      "metadados": {
+        "path": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/camara/9622a66c56c72c2a97283490e7cfee54341ff7535031f341821a0ac43b0b470c.html.gz",
+        "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/f3eaa9d1361369e00351dbaa210ced45fa95bdba2461e4104b77508b245f292a-9622a66c56c72c2a97283490e7cfee54341ff7535031f341821a0ac43b0b470c.html.gz",
+        "sha256_arquivo": "f3eaa9d1361369e00351dbaa210ced45fa95bdba2461e4104b77508b245f292a",
+        "sha256_fonte_html": "febbe997359913cc3d4a5f2d9ccbff40d6d1843d9a909838f2b285bfde8c9ab0",
+        "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-5422-5-janeiro-1928-562098-norma-pl.html"
+      },
+      "fonte": {
+        "path": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/camara/bbf819badffd03ff120c05667e78c26637f23e8e3e994135713c44250e65231f.html.gz",
+        "sha256_arquivo": "83c2bf7ab581c614b93618a1750ef048cadc2008caa51fb87a3c0d19d79068d2",
+        "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/83c2bf7ab581c614b93618a1750ef048cadc2008caa51fb87a3c0d19d79068d2-bbf819badffd03ff120c05667e78c26637f23e8e3e994135713c44250e65231f.html.gz",
+        "sha256_fonte": "33a8527916205d61a916ae5645312f0184216453b69ecb8fde1c3c27f626cca7",
+        "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-5422-5-janeiro-1928-562098-publicacaooriginal-85915-pl.html"
+      },
+      "alertas": [],
+      "acao_proposta": "nenhuma_alteracao"
+    },
+    {
+      "path": "federal/decretos-legislativos/1928/dpl-5528-1928-09-13.md",
+      "urn": "urn:lex:br:federal:decreto.legislativo:1928-09-13;5528",
+      "sha256_md": "9a5bf45e5278cc5d6651021cf8df5d6c2fbf43c7161a6f00de6d6499f1934701",
+      "sha256_corpo": "564bb5951f99d899cc7f7f8c108a07cdd352cfa10023c7d87bdc5e726120fb61",
+      "metadados": {
+        "path": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/camara/b6fa16a83c018694dd7ab5ae5fd64e9c2006f46f9cfaf1c446c2e1a95e17e859.html.gz",
+        "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/3ad877e1bce89a792801d27258a53d78037cd57b225b62ed24a6e340793ecfec-b6fa16a83c018694dd7ab5ae5fd64e9c2006f46f9cfaf1c446c2e1a95e17e859.html.gz",
+        "sha256_arquivo": "3ad877e1bce89a792801d27258a53d78037cd57b225b62ed24a6e340793ecfec",
+        "sha256_fonte_html": "62cc6c7af09d399d4b84d4e6fb64921b3514e2bcaacb138174cc3f69a023cfdf",
+        "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-5528-13-setembro-1928-514502-norma-pl.html"
+      },
+      "fonte": {
+        "path": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/camara/fdd8b3b629912a5d7489781479df61a8a48dbde95fe93a4fdff574b7225d96e4.html.gz",
+        "sha256_arquivo": "26dcc2c82a555c47badf7b51fb0b7d25edce7d8ed5477021f229d5bc339aa91f",
+        "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/26dcc2c82a555c47badf7b51fb0b7d25edce7d8ed5477021f229d5bc339aa91f-fdd8b3b629912a5d7489781479df61a8a48dbde95fe93a4fdff574b7225d96e4.html.gz",
+        "sha256_fonte": "c350f1a488327a9c653fb9c331297a27c3177b4a9ada990f8a0737391933db51",
+        "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-5528-13-setembro-1928-514502-publicacaooriginal-1-pl.html"
+      },
+      "alertas": [],
+      "acao_proposta": "nenhuma_alteracao"
+    }
+  ],
+  "ledger": "federal/_fonte/auditorias/dpl-triestado3270-20261016/ledger3270.jsonl",
+  "sha256_ledger": "b0f86edc5ed560e18e8113f3a8dba73c232699ad538416c2904db3ea502258b8",
+  "backup_integral": "federal/_fonte/auditorias/dpl-auditoria-20261016/backup-md.jsonl.gz",
+  "retidos_preservados": 115,
+  "pendencias_primarias_preservadas": 467,
+  "fora_primario_preservados": 45,
+  "canônicos_alterados": 0,
+  "HTTP": 0,
+  "Git_mutacoes": 0,
+  "limites": [
+    "Somente revogada:false para null; nenhuma inferência de vigência.",
+    "Corpos e demais headers idênticos por byte; situação literal permanece.",
+    "Aplicação/publicação dependem de revisão raiz; não há comando de aplicar."
+  ]
+}

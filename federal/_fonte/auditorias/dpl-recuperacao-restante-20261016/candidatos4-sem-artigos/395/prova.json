@@ -1,0 +1,52 @@
+{
+  "norma": "DPL-395-1896-10-13",
+  "urn": "urn:lex:br:federal:decreto.legislativo:1896-10-13;395",
+  "candidato": "federal/_fonte/auditorias/dpl-recuperacao-restante-20261016/candidatos4-sem-artigos/395/dpl-395-1896-10-13.md",
+  "sha256_MD": "032d288d61c0af1aa783eb5151a6ac32fdb4a9050e364e4c5417e06d9a793342",
+  "sha256_corpo": "a12e6895f0c3eb2e68b0905805f63afb48c69918db2a6d7d7fca2902d80d6c72",
+  "fonte": {
+    "path": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/a3fb723f85c345018dd6ec8a3ed1640cd25390a1f4c3b21956361bcf45541ef9-f666b12c0944dc85508a94fd337493c6e9bce6a254e1a2dbf0572587eb38ebf7.html.gz",
+    "sha256": "a3fb723f85c345018dd6ec8a3ed1640cd25390a1f4c3b21956361bcf45541ef9",
+    "URL": "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-395-13-outubro-1896-540208-publicacaooriginal-40168-pl.html",
+    "sha256_HTML": "b73f1e120198c17fcb0b5d7cabdedcf6371c2084a084edc138de555bcd812926",
+    "sha256_fragmento": "5df39ce747cef2e9f6793fa29c45529d0658ce6d49d4ee01c210d4e2f57d2cc7"
+  },
+  "sha256_metadados": "da196005737e33766ac02317f67078659f13661baec1c73fbd0f2c86e3361b0d",
+  "link_proprio_literal": "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-395-13-outubro-1896-540208-publicacaooriginal-40168-pl.html",
+  "ementa_literal": "Publica a resolução do Congresso Nacional que proroga a actual sessão legislativa até 14 do novembro do corrente anno.",
+  "preambulo_literal": "O Presidente da Republica dos Estados Unidos do Brazil:\n\nFaço saber que o Congresso Nacional resolveu prorogar a actual sessão legislativa até o dia 14 de novembro do corrente anno.\n\nCapital Federal, 13 de outubro de 1896, 8º da Republica.\n\nPrudente J. De Moraes Barros.  \nAlberto de Seixas Martins Torres.\n",
+  "fecho_literal": "Publica a resolução do Congresso Nacional que proroga a actual sessão legislativa até 14 do novembro do corrente anno.\n\nO Presidente da Republica dos Estados Unidos do Brazil:\n\nFaço saber que o Congresso Nacional resolveu prorogar a actual sessão legislativa até o dia 14 de novembro do corrente anno.\n\nCapital Federal, 13 de outubro de 1896, 8º da Republica.\n\nPrudente J. De Moraes Barros.  \nAlberto de Seixas Martins Torres.\n",
+  "gate_formula_documento_inteiro": true,
+  "gate_mesma_funcao_preambulo_proprio": true,
+  "causa": "Ato autônomo sem rótulos de artigos na fonte: disposição legislativa completa, preâmbulo, fecho e identidade próprios comprovados. Nenhum Artigo único fabricado; gate genérico não alterado.",
+  "wholetext_DOM_GFM_identico": true,
+  "formatos_criticos": {
+    "u": {
+      "fonte": [],
+      "GFM": []
+    },
+    "del/s/strike": {
+      "fonte": [],
+      "GFM": []
+    },
+    "sup": {
+      "fonte": [],
+      "GFM": []
+    },
+    "sub": {
+      "fonte": [],
+      "GFM": []
+    },
+    "i/em": {
+      "fonte": [],
+      "GFM": []
+    }
+  },
+  "formato": {
+    "erros": [],
+    "avisos": []
+  },
+  "vigencia": "Literal próprio Não consta revogação expressa → null; sem inferir vigente.",
+  "publicado": false,
+  "aprovacao_independente": false
+}
