@@ -1,0 +1,90 @@
+---
+titulo: "Solução de Consulta Cosit nº 98133, de 23 de maio de 2024"
+orgao: "Coordenação-Geral de Tributação"
+tipo: "Solução de Consulta"
+numero: "98133"
+data: "2024-05-23"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 12/06/2024, seção 1, página 27"
+data_publicacao: "2024-06-12"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/138608/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/138608/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "138608"
+sha256_texto: "b1bf2e58ea5ae033b96618116f4d6b6b7edcff1fd61a46b6075f3c323d210235"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Cosit nº 98133, de 23 de maio de 2024
+
+Assunto: Classificação de Mercadorias  
+Código NCM: 1905.90.90  
+Ex Tipi: sem enquadramento  
+Mercadoria: Pão de alho, preparado com pão (64% em peso) e recheio de creme de alho (35% em peso), constituído de alho, água, margarina, requeijão, com indicação de consumo em churrasco, apresentado em saco plástico, contendo quatro unidades e peso líquido de 300 g.  
+Dispositivos Legais: RGI 1, RGI 6 e RGC 1 da NCM/SH, constante da TEC, aprovada pela Resolução Gecex nº 272, de 2021 e da Tipi, aprovada pelo Decreto nº 11.158, de 2022, RGC/Tipi, subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 2.169, de 2023, e as suas alterações posteriores.
+
+
+
+Coordenação-Geral de Tributação PROCESSO 00000.000000/0000-00
+
+SOLUÇÃO DE 98.133 – COSIT CONSULTA DATA 23 de maio de 2024.
+
+INTERESSADO CLICAR PARA INSERIR O NOME
+
+CNPJ/CPF 00.000-00000/0000-00
+
+Assunto: Classificação de Mercadorias Código NCM: 1905.90.90 Ex Tipi: sem enquadramento Mercadoria: Pão de alho, preparado com pão (64% em peso) e recheio de creme de alho (35% em peso), constituído de alho, água, margarina, requeijão, com indicação de consumo em churrasco, apresentado em saco plástico, contendo quatro unidades e peso líquido de 300 g. Dispositivos Legais: RGI 1, RGI 6 e RGC 1 da NCM/SH, constante da TEC, aprovada pela Resolução Gecex nº 272, de 2021 e da Tipi, aprovada pelo
+
+Decreto nº 11.158, de 2022, RGC/Tipi, subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 2.169, de 2023, e as suas alterações posteriores.
+
+RELATÓRIO
+
+O interessado apresentou consulta, com base na Instrução Normativa RFB nº 2.057/2021, quanto à classificação fiscal de mercadoria na Nomenclatura Comum do Mercosul (NCM), constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Gecex nº 272, de 19 de novembro de 2021, e da Tabela de Incidência do Imposto sobre Produtos Industrializados (Tipi), aprovada pelo Decreto nº 11.158, de 29 de julho de 2022, para a mercadoria abaixo especificada: [Informações protegidas pelos sigilos fiscal e comercial]
+
+FUNDAMENTOS
+
+Identificação da mercadoria: 2. Trata-se da classificação fiscal de pão de alho, preparado com pão (64% em peso) e recheio de creme de alho (35% em peso), constituído de alho, água, margarina, requeijão, com indicação de
+
+consumo em churrasco, apresentado em saco plástico, contendo quatro unidades e peso líquido de 300 g
+
+Classificação da Mercadoria: 3. A classificação fiscal de mercadorias fundamenta-se nas Regras Gerais para a Interpretação do Sistema Harmonizado (RGI/SH) da Convenção Internacional sobre o Sistema Harmonizado de Designação e de Codificação de Mercadorias, nas Regras Gerais Complementares do Mercosul (RGC/NCM), na Regra Geral Complementar da Tipi (RGC/TIPI-1), nos pareceres de classificação do Comitê do Sistema Harmonizado da Organização Mundial das Aduanas (OMA) e nos ditames do Mercosul, e, subsidiariamente, nas Notas Explicativas do Sistema Harmonizado (Nesh), conforme estabelece o artigo 2º da Instrução Normativa RFB nº 2.057, de 9 de dezembro de 2021. 4. A RGI/SH 1 dispõe que os títulos das Seções, Capítulos e Subcapítulos têm apenas valor indicativo e, para os efeitos legais, a classificação é determinada pelos textos das posições e das notas de Seção e de Capítulo e, desde que não sejam contrárias aos textos das referidas posições e notas, pelas Regras seguintes (RGI/SH 2 a 5). A RGI/SH 6, por sua vez, dispõe que a classificação de mercadorias nas subposições de uma mesma posição é determinada, para efeitos legais, pelos textos dessas subposições e das Notas de subposição respectivas, bem como, mutatis mutandis, pelas Regras precedentes, entendendo-se que apenas são comparáveis subposições do mesmo nível. 5. De acordo com a Regra Geral Complementar (RGC-NCM 1), as Regras Gerais para Interpretação do Sistema Harmonizado aplicam-se, “mutatis mutandis”, para determinar, dentro de cada posição ou subposição, o item aplicável e, dentro deste último, o subitem correspondente, entendendo-se que apenas são comparáveis desdobramentos regionais (itens e subitens) do mesmo nível. Do mesmo modo, a Regra Geral Complementar da Tipi (RGC/Tipi-1) determina que “As Regras Gerais para Interpretação do Sistema Harmonizado se aplicarão, "mutatis mutandis", para determinar, no âmbito de cada código, quando for o caso, o "Ex" aplicável, entendendo-se que apenas são comparáveis "Ex" de um mesmo código”. 6. As Notas Explicativas do Sistema Harmonizado (Nesh), expedidas pela Organização Mundial das Alfândegas, foram internadas no Brasil por meio do Decreto nº 435, de 27 de janeiro de 1992 e constituem orientações e esclarecimentos de caráter subsidiário que devem ser utilizados para orientar a classificação fiscal de mercadorias. Sua versão atual foi aprovada pela IN RFB nº 2.169, de 29 de dezembro de 2023, por força da delegação de competência outorgada pelo artigo 1º da Portaria MF nº 91, de 24 de fevereiro de 1994, e há de se observar as suas alterações posteriores. 7. Destarte, em face do caráter subsidiário das Nesh, o que efetivamente se impõe como norma legal aplicável na classificação fiscal de mercadorias para atribuição do código correto de uma mercadoria ou de um produto específicos são as RGI/SH e as RGC/NCM. 8. Citada a legislação pertinente, passa-se a analisar o correto enquadramento na NCM/TEC/Tipi do produto submetido à consulta.
+
+9. O produto sob consulta é conhecido como pão de alho, que consiste em pão (64%) recheado com uma “pasta” (36%), contendo alho, margarina, requeijão e sorbato, próprio para ser utilizado em churrasco. 10. O Dicionário Wikipédia tem o seguinte significado para pão de alho: O pão-com-alho é uma iguaria originária da culinária da Itália e consiste tipicamente de algum tipo de pão guarnecido com uma mistura de alho e azeite ou manteiga, grelhado, tostado ou assado no forno. Pode ser servido como um antepasto, ou como acompanhamento de qualquer refeição, como por exemplo, um churrasco.1
+
+11. No caso em exame, está-se diante de um produto da indústria alimentícia, portanto, há que se investigar a Seção IV - Produtos das indústrias alimentares; bebidas, líquidos alcoólicos e vinagres; tabaco e seus sucedâneos manufaturados; produtos, mesmo com nicotina, destinados à inalação sem combustão; outros produtos que contenham nicotina destinados à absorção da nicotina pelo corpo humano, que compreende os Capítulos 16 a 24. 12. O título do Capítulo 19 - Preparações à base de cereais, farinhas, amidos, féculas ou leite; produtos de pastelaria, conquanto tenha apenas valor indicativo, é possível de se classificar o produto sob consulta. Ademais, a Nota 1 do Capítulo 19 não exclui do seu escopo o pão de alho e por esse motivo iniciaremos ali a nossa investigação classificatória. 13. O pão de alho sob análise é um produto de padaria e, portanto, examinaremos a posição NCM 19.05, que compreende os “produtos de padaria, pastelaria ou da indústria de bolachas e biscoitos, mesmo adicionados de cacau; hóstias, cápsulas vazias para medicamentos, obreias, pastas secas de farinha, amido ou fécula, em folhas, e produtos semelhantes”. 14. As Nesh da posição NCM 19.05, parte A (Produtos de padaria, pastelaria ou da indústria de bolachas e biscoitos, mesmo adicionados de cacau), esclarecem o seu alcance: “A) Produtos de padaria, pastelaria ou da indústria de bolachas e biscoitos, mesmo adicionados de cacau. Nesta posição estão compreendidos todos os produtos de padaria, pastelaria ou da indústria de bolachas e biscoitos; os ingredientes mais vulgarmente utilizados são as farinhas de cereais, a levedura e o sal, embora possam conter igualmente outros ingredientes, tais como: glúten, fécula, farinhas de leguminosas, extrato de malte, leite, determinadas sementes como a da dormideira (papoula), cominho, anis (erva-doce), açúcar, mel, ovos, matérias gordas, queijos, fruta, cacau em qualquer proporção, carne, peixe, etc., e ainda os produtos designados por "melhoradores de panificação". Estes últimos destinam-se, principalmente, a facilitar a manipulação da massa, a acelerar a sua fermentação, a melhorar as características ou a apresentação dos produtos e a prolongar a duração da sua conservação. Os produtos da presente posição podem também ser obtidos a partir de uma massa à base de farinha, sêmola ou pó de batata. Encontram-se compreendidos na presente posição: 1) O pão comum que, frequentemente, contém apenas farinhas de cereais, fermento e sal.
+
+1https://pt.wikipedia.org/wiki/P%C3%A3o\_de\_alho#:~:text=O%20p%C3%A3o-com-alho%20%C3%A9,como%20por%20exemplo%2C%20um%20churrasco
+
+2) O pão de glúten para diabéticos. 3) O pão ázimo ou matzo, fabricado sem fermento. 4) O pão crocante denominado Knäckebrot, que é um pão crocante, seco, apresentando-se, em geral, em placas delgadas de forma quadrada, retangular ou redonda, cuja superfície se apresenta com vários e pequenos orifícios. O knäckebrot é feito com uma massa à base de farinha (mesmo inteira), de sêmola ou de grãos de centeio, cevada, aveia ou de trigo, fermentada com leveduras, massa azeda ou outro tipo de fermento, ou ainda por aeração (insuflação\*). O teor de água do produto não excede 10 %, em peso. 5) As torradas (tostas), o pão torrado e produtos semelhantes, torrados, mesmo em fatias ou ralados, que contenham ou não manteiga ou outras matérias gordas, açúcar, ovos ou outras substâncias nutritivas. 6) O pão de especiarias, que é um produto poroso, geralmente de consistência elástica, feito de farinha de centeio ou de trigo, edulcorante (por exemplo, mel, glicose, açúcar invertido ou melaço purificado), especiarias ou aromatizantes, que contenha, por vezes, também, gema de ovos ou fruta. Determinado tipo de pão de especiarias apresenta-se recoberto de chocolate ou de uma cobertura cristalizada, obtida a partir de preparações de matérias gordas e cacau. Outro tipo de pão de especiarias pode conter açúcar ou ainda apresentar-se recoberto de açúcar. 7) Os bretzels, que são produtos secos e quebradiços, de superfície brilhante e polvilhados com sal, confeccionados a partir de uma massa de forma cilíndrica, geralmente apresentada em forma de laço, que lembra a letra "B". 8) As bolachas e biscoitos, que são geralmente obtidos a partir de farinhas e substâncias gordas, às quais se podem adicionar açúcar e alguns dos produtos adiante mencionados no número 10. Estes produtos são, essencialmente, produtos de longa conservação, não só em virtude do prolongado cozimento das matérias que entram na sua composição, mas também pela sua apresentação ao abrigo do ar. Existem diversas variedades de bolachas e biscoitos, entre as quais:
+
+a) As bolachas secas, que contenham pouco ou nenhum edulcorante, mas sempre uma proporção relativamente elevada de matérias gordas; este grupo compreende os cream crackers e as bolachas de água e sal.
+
+b) As bolachas e biscoitos adicionados de edulcorantes que são produtos de padaria fina, de longa conservação, à base de farinha, açúcar ou outros edulcorantes e matérias gordas (estes ingredientes constituem, pelo menos, 50 %, em peso, do produto), mesmo adicionados de sal, amêndoas, avelãs, aromatizantes, chocolate, café, etc. O produto acabado não deve apresentar, em peso, um teor de água superior a 12 %, enquanto que o teor de matérias gordas é, no máximo, de 35 %, em peso (as matérias utilizadas para rechear ou cobrir os biscoitos não são levadas em consideração para efeito destes teores). Os biscoitos comercializados não são, regra geral, recheados; podem, por vezes, conter um recheio sólido ou não (açúcar, gordura vegetal, chocolate, etc.). São, quase sempre, de produtos fabricados industrialmente.
+
+c) As bolachas e biscoitos salgados ou aromatizados e que, usualmente, apresentam um baixo teor de sacarose. 9) Os waffles e wafers são produtos de padaria fina, leves, cozidos entre duas chapas de ferro, cuja superfície apresenta desenhos. Esta categoria também inclui os waffles delgados, próprios para serem enrolados, os waffles que consistam num recheio ensanduichado entre duas ou mais camadas dos waffles e ainda os produtos formados por extrusão de massa de waffle por máquina especial (cones para sorvetes (gelados\*), por exemplo). Os waffles podem ainda apresentar-se cobertos de chocolate. Os wafers são produtos semelhantes aos waffles.
+
+10) Os produtos de pastelaria, em cuja composição entram substâncias muito variadas: farinha, fécula, manteiga ou outras matérias gordas, açúcar, leite, creme de leite (nata), ovos, cacau, chocolate, café, mel, fruta, licores, aguardente, albumina, queijo, carne, peixe, aromatizantes, leveduras ou outros fermentos, etc. 11) Os merengues (suspiros), feitos com clara de ovos e açúcar e que, geralmente, não contêm farinha. 12) As panquecas e crepes. 13) A quiche, feita de uma massa com ingredientes, tais como queijo, ovos, creme de leite (nata), manteiga, sal, pimenta, noz-moscada e, no caso da quiche lorraine, bacon ou presunto. 14) As pizzas (pré-cozidas ou cozidas), constituídas por uma massa de pizza recoberta de diversos outros ingredientes, tais como queijo, tomate, azeite, carne, anchovas. As pizzas não cozidas classificam-se, todavia, na posição 19.01. 15) Os produtos alimentícios crocantes sem açúcar, como, por exemplo, os produtos obtidos a partir de uma massa à base de pó de batata, ou de uma massa à base de farinha de milho adicionada de um condimento constituído por uma mistura de queijo, glutamato de sódio e sal, fritos em óleo vegetal e prontos para serem consumidos.” (Os negritos são do original) 15. O produto pão de alho, segundo informações extraídas na petição do processo, é recheado de uma pasta, denominada pelo consulente “creme”, que consiste na mistura de alho, água, sorbato, margarina e requeijão. A presença do recheio não tem o condão de excluí-lo da posição NCM 19.05, ou seja, ainda assim é considerado um produto de padaria. 16. De acordo com a RGI 1 e, subsidiariamente com os esclarecimentos das Nesh, o produto em exame é classificado na posição NCM 19.05. 17. Dentro da posição NCM 19.05 temos as seguintes subposições: 1905.10 – Pão crocante denominado knäckebrot 1905.20 – Pão de especiarias 1905.3 – Bolachas e biscoitos, adicionados de edulcorantes; wafles e wafers 1905.40 – Torradas (tostas), pão torrado e produtos semelhantes torrados 1905.90 – Outros 18. O pão de alho em apreço é classificado, em concordância com a RGI 6, na subposição NCM residual 1905.90, pois não se trata de pão knäckebrot, nem de pão de especiarias, sequer de bolachas, biscoitos ou wafles, tampouco de torradas. 19. A subposição NCM 1905.90 se desdobra nos seguintes itens: 1905.90.10 – Pão de forma 1905.90.20 – Bolachas e biscoitos 1905.90.90 – Outros 20. Em consonância com a RGC 1, o item NCM correto para se classificar o pão de alho é o residual 1905.90.90, pois os anteriores não são adequados.
+
+21. Assim, o código NCM/SH do pão de alho, objeto dessa consulta, é o 1905.90.90. 22. Cabe esclarecer, por fim, que o pão de alho não está abrangido pelo destaque Ex-01 da Tipi (“Pão do tipo comum”), conforme a RGC/Tipi -12, já que é um pão recheado e não é considerado pão do tipo comum, de acordo com a legislação que ensejou a criação dessa exceção tarifária3, a qual, como todo benefício fiscal, deve ser interpretada literalmente.
+
+CONCLUSÃO
+
+23. Com base nas Regras Gerais para Interpretação do Sistema Harmonizado RGI 1 (texto da posição 19.05), RGI 6 (texto da subposição 1905.90) e RGC 1 (texto do item 1905.90.90) da Nomenclatura Comum do Mercosul (NCM/SH), constante da Tarifa Externa Comum (TEC), aprovada pela Resolução Gecex nº 272, de 2021, e da Tabela de Incidência do Imposto sobre Impostos Industrializados (Tipi), aprovada pelo Decreto nº 11.158, de 2022, e com subsídios extraídos das Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 2.169, 2023, e com as suas alterações posteriores, o produto objeto da consulta formulada neste processo classifica-se no código NCM/SH 1905.90.90.
+
+ORDEM DE INTIMAÇÃO
+
+Aprovada a Solução de Consulta, nos termos do art. 48 da Lei nº 9.430, de 27 de dezembro de 1996, pela 3ª Turma constituída pela Portaria RFB nº 1.921, de 13 de abril de 2017, à sessão de 23 de maio de 2024. Divulgue-se e publique-se nos termos do art. 44 da Instrução Normativa RFB nº 2.057, de 9 de dezembro de 2021. Encaminhe-se para ciência do consulente e demais providências cabíveis.
+
+(Assinado Digitalmente) (Assinado Digitalmente) Gilberto de Guedes Vaz Sura Helen Cot Marcos Auditor-Fiscal da Receita Federal do Brasil Auditora-Fiscal da Receita Federal do Brasil Membro da 3ª Turma Membro da 3ª Turma
+
+(Assinado Digitalmente) (Assinado Digitalmente) Ivana Santos Mayer Danielle Carvalho de Lacerda Auditora-Fiscal da Receita Federal do Brasil Auditora-Fiscal da Receita Federal do Brasil Relatora Presidente da 3ª Turma
+
+Vide parágrafo 5.
+
+Ex 01 da TIPI do Código NCM 1905.90.90 (Lei nº 11.787, de 25/09/2008): “Entende-se por “pão comum” o produto alimentício, obtido pela cocção de preparo contendo apenas farinha de trigo, fermento biológico, água, sal e/ou açúcar”.
+
+
+DANIELLE CARVALHO DE LACERDA  
+Presidente da 3ª Turma

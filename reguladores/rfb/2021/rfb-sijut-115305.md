@@ -1,0 +1,32 @@
+---
+titulo: "Ato Declaratório Executivo SRRF09 nº 26, de 11 de fevereiro de 2021"
+orgao: "Superintendência Regional da Receita Federal do Brasil 9ª Região Fiscal"
+tipo: "Ato Declaratório Executivo"
+numero: "26"
+data: "2021-02-11"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 12/02/2021, seção 1, página 21"
+data_publicacao: "2021-02-12"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/115305/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/115305/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "115305"
+sha256_texto: "8642bb794f7eb18f01853f35c60ca65e2036ea48d9a2ab6544c217bcc45b69a2"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo SRRF09 nº 26, de 11 de fevereiro de 2021
+
+Concede coabilitação ao Regime Especial de Incentivos para o Desenvolvimento da Infra-Estrutura (Reidi) à empresa que menciona.
+
+A AUDITORA-FISCAL DA RECEITA FEDERAL DO BRASIL, em exercício na Equipe de Gestão do Crédito Tributário e do Direito Creditório 4 da Delegacia da Receita Federal do Brasil em Curitiba, no uso das atribuições que lhe conferem a alínea "b" do inciso I do art. 6º da Lei nº 10.593, de 6 de dezembro de 2002 (Redação dada pela Lei nº 11.457, de 2007), o inciso IV do art. 303 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, os arts. 1º e 7º da Portaria SRRF09 nº 482, de 30 de julho de 2020, e o art. 5º da Portaria RFB nº 1098, de 08 de agosto de 2013, tendo em vista o disposto no art. 587 da IN RFB nº 1.911, de 11 de outubro de 2019, e o que consta do processo nº 10166.764384/2020-13, declara:
+
+**Art. 1º** Concedida a coabilitação ao Regime Especial de Incentivos para o Desenvolvimento da Infra-Estrutura (Reidi), instituído pela Lei nº 11.488, de 15 de junho de 2007, para a empresa SETA ENGENHARIA S/A, CNPJ nº 76.359.785/0001-55, relativa ao projeto de geração de energia elétrica UFV São Gonçalo 21, matriculado no CNO sob nº 51.243.78323/79, aprovado para enquadramento no regime pela Portaria nº 166, de 14 de maio de 2018, do Ministério de Minas e Energia, publicada no DOU de 17/05/2018, Seção 1, Págs. 55/56, para a execução de obras de infraestrutura, nos termos e condições do Contrato de Empreitada, firmado entre beneficiada, como empreiteiro, e a pessoa jurídica ENEL GREEN POWER SÃO GONÇALO 21 S.A., CNPJ 29.325.940/0001-32, como contratante.
+
+**Art. 2º** A contratante é titular do projeto e foi habilitada ao REIDI através do ADE nº 39, de 17 de dezembro de 2018, expedido pela Delegacia da Receita Federal do Brasil em Teresina/PI, publicado no DOU de 19/12/2018, Seção 1, Págs. 93/94.
+
+**Art. 3º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União - DOU.
+
+TAÍS BRITO SANTANA

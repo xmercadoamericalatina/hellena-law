@@ -1,0 +1,38 @@
+---
+titulo: "Portaria DRF/ATA nº 31, de 29 de julho de 2020"
+orgao: "Delegacia da Receita Federal do Brasil em Araçatuba"
+tipo: "Portaria"
+numero: "31"
+data: "2020-07-29"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 03/08/2020, seção 1, página 51"
+data_publicacao: "2020-08-03"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/111476/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/111476/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "111476"
+sha256_texto: "65f65628a0a0bffa42e6983b7a92dbc979a3f5d085c5685e88883e00c4716a1b"
+baixado_em: "2026-10-16"
+---
+# Portaria DRF/ATA nº 31, de 29 de julho de 2020
+
+"Delega competências."
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM ARAÇATUBA-SP, no uso das atribuições conferidas pelos artigos 360, 364 e 365 do Anexo I do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, publicada no Diário Oficial da União nº 142-B, Seção 1, Edição Extra, de 27 de julho de 2020, e tendo em vista o disposto nos artigos 11 e 12 do Decreto-Lei nº 200, de 25 de fevereiro de 1967, regulamentado pelo Decreto nº 83.937, de 06 de setembro de 1979, e artigos 11 a 15 da Lei nº 9.784, de 29 de janeiro de 1999, e suas alterações, resolve:
+
+**Art. 1º** Delegar, ao Delegado Adjunto, em caráter concorrente, todas as competências do Delegado Titular, passíveis de delegação previstas no Regimento Interno da Secretaria da Receita Federal do Brasil e legislação vigente.
+
+**Art. 2º** O Delegado poderá avocar, a qualquer momento, a decisão de assunto objeto desta delegação sem que tal ato implique revogação parcial ou total desta Portaria.
+
+**Art. 3º** Em todos os atos praticados em função das competências delegadas deverão ser mencionados o número e a data desta Portaria.
+
+**Art. 4º** As delegações de competências de que trata esta Portaria são por prazo indeterminado e ficarão mantidas, automaticamente, em caso de alteração da legislação que rege cada matéria específica.
+
+**Art. 5º** Ficam convalidados os atos praticados até a publicação da presente portaria no Diário Oficial da União.
+
+THARSIS ARAÚJO BUENO
+
+Nota Normas: Este ato foi originalmente publicado sem a ementa.

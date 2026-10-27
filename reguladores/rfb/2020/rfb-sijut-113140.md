@@ -1,0 +1,43 @@
+---
+titulo: "Solução de Consulta Disit/SRRF04 nº 4023, de 6 de outubro de 2020"
+orgao: "Divisão de Tributação da 4ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "4023"
+data: "2020-10-06"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 19/10/2020, seção 1, página 17"
+data_publicacao: "2020-10-19"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/113140/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/113140/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "113140"
+sha256_texto: "1f7fff5e3aa25f453f119eb9ddf0bdd409f32198be384b802c69ea4aa35692f3"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF04 nº 4023, de 6 de outubro de 2020
+
+Assunto: Contribuição para o PIS/Pasep  
+Ementa: DETERMINAÇÃO DA BASE DE CÁLCULO DA CONTRIBUIÇÃO INCIDENTE SOBRE RECEITAS E TRANSFERÊNCIAS GOVERNAMENTAIS. transferência ou repasse de recursos no âmbito do mesmo ente federativo entre pessoas jurídicas de direito público. operações intraorçamentárias.  
+Para efeito de determinação da base de cálculo da Contribuição para o PIS/Pasep, as operações intraorçamentárias entre entidades dotadas de personalidade jurídica de direito público não estão abrangidas pelo conceito de transferência corrente e de capital da Lei nº 4.320, de 1964, visto que - ao contrário destas - aquelas se realizam através de contraprestação em bens e serviços, ou simplesmente decorrem do pagamento de alguma obrigação da entidade.  
+De modo que, nas operações intraorçamentárias - ainda que os valores já tenham sido taxados em momento anterior - o ente que efetua a despesa não pode excluí-la da base de cálculo da contribuição devida, por não se sujeitar à parte final do art. 7º da Lei nº 9.715, de 1998, ao passo que, a seu turno, o ente que aufere a receita não pode deduzi-la do montante a ser tributado.  
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 278, DE 1º DE JUNHO DE 2017, COM EMENTA PUBLICADA NO DIÁRIO OFICIAL DA UNIÃO DE 6 DE JUNHO DE 2017, SEÇÃO 1, PÁGINA 39.  
+Dispositivos Legais: Lei nº 4.320, de 1964, arts. 11 e 12; Lei nº 9.715, de 1998, arts. 2º e 7º; Lei nº 10.406, de 2002, art. 41; Decreto nº 4.524, de 2002, arts. 67 e 68.
+
+Assunto: Contribuição para o PIS/Pasep
+
+Ementa: DETERMINAÇÃO DA BASE DE CÁLCULO DA CONTRIBUIÇÃO INCIDENTE SOBRE RECEITAS E TRANSFERÊNCIAS GOVERNAMENTAIS. transferência ou repasse de recursos no âmbito do mesmo ente federativo entre pessoas jurídicas de direito público. operações intraorçamentárias.
+
+Para efeito de determinação da base de cálculo da Contribuição para o PIS/Pasep, as operações intraorçamentárias entre entidades dotadas de personalidade jurídica de direito público não estão abrangidas pelo conceito de transferência corrente e de capital da Lei nº 4.320, de 1964, visto que - ao contrário destas - aquelas se realizam através de contraprestação em bens e serviços, ou simplesmente decorrem do pagamento de alguma obrigação da entidade.
+
+De modo que, nas operações intraorçamentárias - ainda que os valores já tenham sido taxados em momento anterior - o ente que efetua a despesa não pode excluí-la da base de cálculo da contribuição devida, por não se sujeitar à parte final do art. 7º da Lei nº 9.715, de 1998, ao passo que, a seu turno, o ente que aufere a receita não pode deduzi-la do montante a ser tributado.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 278, DE 1º DE JUNHO DE 2017, COM EMENTA PUBLICADA NO DIÁRIO OFICIAL DA UNIÃO DE 6 DE JUNHO DE 2017, SEÇÃO 1, PÁGINA 39.
+
+Dispositivos Legais: Lei nº 4.320, de 1964, arts. 11 e 12; Lei nº 9.715, de 1998, arts. 2º e 7º; Lei nº 10.406, de 2002, art. 41; Decreto nº 4.524, de 2002, arts. 67 e 68.
+
+FLÁVIO OSÓRIO DE BARROS
+
+Chefe

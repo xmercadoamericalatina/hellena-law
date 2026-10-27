@@ -1,0 +1,32 @@
+---
+titulo: "Ato Declaratório Executivo DRF/FOR nº 70, de 20 de maio de 2022"
+orgao: "Delegacia da Receita Federal do Brasil em Fortaleza"
+tipo: "Ato Declaratório Executivo"
+numero: "70"
+data: "2022-05-20"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 27/05/2022, seção 1, página 18"
+data_publicacao: "2022-05-27"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/124227/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/124227/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "124227"
+sha256_texto: "d938f078ca2accc125c398c043f375e9cd9097662ee378a76bf7c7a10f255dfe"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo DRF/FOR nº 70, de 20 de maio de 2022
+
+20052022Concede coabilitação ao Regime Especial de Incentivos para o Desenvolvimento da Infra-Estrutura (REIDI). Suspensão do PIS/PASEP e da COFINS, nos casos autorizados pelos diplomas legais e normativos a seguir citados.
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM FORTALEZA-CE, no uso da atribuição que lhe confere os artigos 336 e 360, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, publicada no DOU de 27 de julho de 2020, tendo em vista o disposto no art. 587 da IN RFB nº 1.911, de 11 de outubro de 2019, e o que consta no processo administrativo nº 13075.025377/2022-63, declara:
+
+**Art. 1°** COABILITADA a pessoa jurídica AMP SERVIÇOS E SOLUÇÕES ELÉTRICAS LTDA, CNPJ n° 08.768.815/0001-27 (Pessoa Jurídica integrante do consórcio SP 300, CNPJ nº 43.360.426/0001-69), estabelecida na Rua Central do Loteamento Cajazeiras I, 625, Cajazeiras, CEP 60.864-205- Fortaleza - CE, ao Regime Especial de Incentivos para o Desenvolvimento de Infraestrutura - REIDI, para execução de obras de Infraestrutura, nos termos e condições do com o objetivo de executar o conjunto de todas as atividades necessárias à completa implantação da Usina Fotovoltaica Castilho 3, firmado entre o Consórcio SP 300, como contratado e a pessoas jurídicas Castilho Solar Participações S.A., CNPJ nº 31.738.278/0001-94; Geradora Solar Castilho I S.A., CNPJ 40.221.051/001-68; e Geradora Solar Castilho II S.A., CNPJ 40.072.143/0001-23, denominadas conjuntamente como contratante.
+
+**Art. 2º** A contratante Castilho Solar Participações S.A é titular do projeto de geração de energia elétrica da Central Geradora Fotovoltaica denominada Castilho 3, Matrícula CEI da Obra, 90.008.62516/78, cadastrada com o Código Único do Empreendimento de Geração - CEG:UFV.RS,SP.034110-0.01, aprovado pela Portaria 223, de 28 de maio de 2020, da Secretaria de Fomento e Desenvolvimento Energético, objeto da Resolução Autorizativa ANEEL nº 8.433, de 10 de dezembro de 2019 e habilitada ao REIDI por meio do ADE nº 086, de 24 de julho de 2020, expedido pela Delegacia da Receita Federal do Brasil em Sorocaba (DOU 28/07/2020), com período de execução de 01/07/2021 a 01/06/2022.
+
+**Art. 3°** Este Ato entra em vigor na data de sua publicação.
+
+DARIO DA SILVA BRAYNER FILHO

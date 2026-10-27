@@ -1,0 +1,34 @@
+---
+titulo: "Solução de Consulta Disit/SRRF07 nº 7001, de 31 de janeiro de 2024"
+orgao: "Divisão de Tributação da 7ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "7001"
+data: "2024-01-31"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 21/02/2024, seção 1, página 23"
+data_publicacao: "2024-02-21"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/136149/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/136149/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "136149"
+sha256_texto: "d747a0da4c17919df708778c77cac6966ff28dceb0670b1171d29eb576862f6e"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF07 nº 7001, de 31 de janeiro de 2024
+
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ  
+LUCRO PRESUMIDO. SERVIÇOS DE SAÚDE. PERCENTUAL DE PRESUNÇÃO REDUZIDO. REQUISITOS.  
+Para efeito de determinação da base de cálculo do IRPJ devido pela pessoa jurídica tributada com base no lucro presumido, aplica-se o percentual de 8% (oito por cento) sobre a receita bruta decorrente da prestação de serviços hospitalares e da prestação dos serviços de auxílio diagnóstico e terapia listados na "Atribuição 4: Prestação de Atendimento ao Apoio ao Diagnóstico e Terapia" da Resolução RDC Anvisa nº 50, de 21 de fevereiro de 2002, desde que a prestadora dos serviços seja organizada sob a forma de sociedade empresária (de direito e de fato) e atenda às normas da Agência Nacional de Vigilância Sanitária (Anvisa). O não atendimento desses requisitos importa a aplicação do percentual de 32% (trinta e dois por cento) sobre a receita bruta da prestação dos serviços.  
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 147, DE 31 DE JULHO DE 2023.  
+Dispositivos Legais: Lei nº 9.249, de 1995, art. 15, caput, §§ 1º, inciso III, alínea "a" , e 2º; Lei nº 9.430, de 1996, art. 25, inciso I; Lei nº 10.406, de 2002 (Código Civil), art. 966 e 982; Lei nº 11.727, de 2008, arts. 29 e 41, inciso VI; Instrução Normativa RFB nº 1.234, de 2012, arts. 30, 31 e 38, inciso II; Instrução Normativa RFB nº 1.700, de 2017, arts. 33, §§ 1º, inciso II, alínea "a" , e 3º, e 215, caput; Resolução RDC Anvisa nº 50, de 2002.  
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL  
+RESULTADO PRESUMIDO. SERVIÇOS DE SAÚDE. PERCENTUAL DE PRESUNÇÃO REDUZIDO. REQUISITOS.  
+Para efeito de determinação da base de cálculo da CSLL devida pela pessoa jurídica tributada com base no resultado presumido, aplica-se o percentual de 12% (doze por cento) sobre a receita bruta decorrente da prestação de serviços hospitalares e da prestação dos serviços de auxílio diagnóstico e terapia listados na "Atribuição 4: Prestação de Atendimento ao Apoio ao Diagnóstico e Terapia" da Resolução RDC Anvisa nº 50, de 21 de fevereiro de 2002, desde que a prestadora dos serviços seja organizada sob a forma de sociedade empresária (de direito e de fato) e atenda às normas da Agência Nacional de Vigilância Sanitária (Anvisa). O não atendimento desses requisitos importa a aplicação do percentual de 32% (trinta e dois por cento) sobre a receita bruta da prestação dos serviços.  
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 147, DE 31 DE JULHO DE 2023.  
+Dispositivos Legais: Lei nº 9.249, de 1995, art. 15, §§ 1º, inciso III, alínea "a" , 2º, e art. 20, incisos I e III; Lei nº 9.430, de 1996, art. 29, inciso I; Lei nº 10.406, de 2002 (Código Civil), art. 966 e 982; Lei nº 11.727, de 2008, arts. 29 e 41, inciso VI; Instrução Normativa RFB nº 1.234, de 2012, arts. 30, 31 e 38, inciso II; Instrução Normativa RFB nº 1.700, de 2017, art. 33, §§ 1º, inciso II, alínea "a" , e 3º, art. 34, § 2º, e art. 215, § 1º.
+
+JOSÉ CARLOS SABINO ALVES  
+Chefe da Divisão

@@ -1,0 +1,30 @@
+---
+titulo: "Ato Declaratório Executivo IRF/TAB nº 1, de 28 de janeiro de 2020"
+orgao: "Inspetoria da Receita Federal do Brasil em Tabatinga"
+tipo: "Ato Declaratório Executivo"
+numero: "1"
+data: "2020-01-28"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 30/01/2020, seção 1, página 83"
+data_publicacao: "2020-01-30"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/106376/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/106376/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "106376"
+sha256_texto: "2602e27130e01b7bd14f2d7945feb92500fb89e2f401f66e3cd848d718900b22"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo IRF/TAB nº 1, de 28 de janeiro de 2020
+
+Habilita pessoa jurídica para utilização do Regime Especial Fronteiriço de Tabatinga (Refront).
+
+O INSPETOR-CHEFE DA INSPETORIA DA RECEITA FEDERAL DO BRASIL EM TABATINGA, no uso da atribuição que lhe confere o parágrafo único do artigo 5º da Instrução Normativa RFB nº 1798, de 15 de março de 2018 e tendo em vista o que consta do processo nº 10265.025808/2020-02, declara:
+
+**Art. 1º** Habilitada, por prazo indeterminado, para utilização do Regime Especial Fronteiriço de Tabatinga (Refront), a pessoa jurídica J. E. V. PALOMINO, CNPJ: 07.077.443/0001-20.
+
+**Art. 2º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+SÉRGIO CARNEIRO GUIMARÃES

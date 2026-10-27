@@ -1,0 +1,34 @@
+---
+titulo: "Ato Declaratório Executivo Derat/SPO nº 109, de 5 de julho de 2019"
+orgao: "Delegacia Especial da Receita Federal do Brasil de Administração Tributária em São Paulo"
+tipo: "Ato Declaratório Executivo"
+numero: "109"
+data: "2019-07-05"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 09/08/2019, seção 1, página 70"
+data_publicacao: "2019-08-09"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/102812/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/102812/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "102812"
+sha256_texto: "ec1aa1a1b72ead6d3c1c00424314864b0eb88a70db326a4f22b44d5fa3df6346"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo Derat/SPO nº 109, de 5 de julho de 2019
+
+Reconhecer à pessoa jurídica a opção por regime especial de tributação.
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL DE ADMINISTRAÇÃO TRIBUTÁRIA EM SÃO PAULO, no uso da atribuição que lhe conferem os artigos 271 e 288 , do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430/2017, tendo em vista o disposto no art. 47 da Lei nº 10.637, de 30/12/2002, e no artigo 99, § 2º, da Instrução Normativa SRF nº 247, de 21/11/2002, bem como no processo nº 18186.725610/2018-91, resolve:
+
+**Art. 1º** Reconhecer à pessoa jurídica a seguir identificada a opção pelo Regime Especial de Tributação Aplicável às Empresas Integrantes da Câmara de Comercialização de Energia Elétrica (CCEE), criado pelo artigo 47 da Lei nº 10.637/2002.
+
+Nome empresarial: Prime Energy Comercializadora de Energia Ltda
+
+Nº Inscrição no CNPJ: 12.809.025/0001-10
+
+**Art. 2º** Este Ato declaratório Executivo entra em vigor na data de publicação.
+
+MURILO AMARAL DE OLIVEIRA E SILVA

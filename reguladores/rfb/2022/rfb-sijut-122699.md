@@ -1,0 +1,30 @@
+---
+titulo: "Ato Declaratório Executivo DRF/GOI nº 1, de 27 de janeiro de 2022"
+orgao: "Delegacia da Receita Federal do Brasil em Goiânia"
+tipo: "Ato Declaratório Executivo"
+numero: "1"
+data: "2022-01-27"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 28/01/2022, seção 1, página 75"
+data_publicacao: "2022-01-28"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/122699/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/122699/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "122699"
+sha256_texto: "d19a7343b3650d9bc99f46269270f1b4a055a9916389f3c989e946dfdd6d85f7"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo DRF/GOI nº 1, de 27 de janeiro de 2022
+
+Inscrição no Registro de Ajudantes de Despachantes Aduaneiros.
+
+O DELEGADO ADJUNTO DA RECEITA FEDERAL DO BRASIL EM GOIÂNIA-GO, tendo em vista o disposto no inciso III do art. 360 do Regimento Interno da Secretaria Especial da Receita Federal Brasil do Ministério da Economia, aprovado pela Portaria ME nº 284, de 27/07/2020e tendo em vista o disposto na IN/RFB nº 1.209, de 07/11/2011 e no art. 810 do Decreto nº 6.759 de 05/02/2009, com nova redação dada pelo Decreto nº 7.213 de 15/06/2010, e o constante do processo nº 10265.846840/2021-05, resolve:
+
+**Art. 1º** Incluir no Registro de Ajudantes de Despachantes Aduaneiros a Srª. CAMILLA SILVA DE GUSMÃO, CPF nº 000.508.781-31.
+
+**Art. 2º** Este ato entra em vigor na data de sua publicação no Diário Oficial da União.
+
+DJALMA ALENCAR LUSTOSA SOBRINHO

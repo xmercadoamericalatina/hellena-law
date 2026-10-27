@@ -1,0 +1,46 @@
+---
+titulo: "Portaria DRF/ITA nº 9, de 25 de março de 2020"
+orgao: "Delegacia da Receita Federal do Brasil em Itabuna"
+tipo: "Portaria"
+numero: "9"
+data: "2020-03-25"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 26/03/2020, seção 1, página 77"
+data_publicacao: "2020-03-26"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/108124/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/108124/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "108124"
+sha256_texto: "874fe16984778b7ed86e7ef1a701274388d90c4df682fb1e170f5e9102a14e2c"
+baixado_em: "2026-10-16"
+---
+# Portaria DRF/ITA nº 9, de 25 de março de 2020
+
+Dispõe sobre a suspensão temporária das atividades do atendimento presencial na Agência da Receita Federal do Brasil em Eunápolis (BA), em função da insuficiência de servidores e com vistas a reforçar os cuidados preventivos e diminuir o risco de contágio pelo novo coronavírus (SARS-CoV-2).
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM ITABUNA/BA, no uso das atribuições que lhe são conferidas pelos artigos 336 e 340 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil (RFB), aprovado pela Portaria MF nº 430, de 09 de outubro de 2017, e tendo em vista as disposições da Portaria SRRF05 nº 71, de 23 de março de 2020, resolve:
+
+**Art. 1º** Suspender, temporariamente, nos termos do art. 2º da Portaria SRRF05 nº 71, de 23 de março de 2020, as atividades de atendimento presencial na Agência da Receita Federal do Brasil em Eunápolis (BA), em virtude da insuficiência de servidores para realização das referidas atividades, decorrente dos afastamentos previstos nos artigos 4º, 4º-B, e 6º-B da Instrução Normativa nº 19, de 12 de março de 2020, modificada pela Instrução Normativa nº 21, de 16 de março de 2020, da Secretaria de Gestão e Desempenho de Pessoal do Ministério da Economia.
+
+**Art. 2º** Enquanto perdurar a suspensão do atendimento presencial, os serviços e orientações serão prestados aos contribuintes por via dos seguintes canais de atendimento:
+
+I. Centro Virtual de Atendimento - e-CAC, disponível em (http://receita.economia.gov.br/interface/atendimento-virtual);
+
+II. Fale Conosco RFB (http://receita.economia.gov.br/contato/fale-conosco);
+
+III. Chat RFB (http://receita.economia.gov.br/contato/chat); e
+
+IV. Caixa Corporativa Regional de Atendimento (endereço: atendimentorfb.05@rfb.gov.br).
+
+**Art. 3º** Os servidores afastados para realização de atividade remota serão redirecionados para os canais de atendimento previstos no art. 2º e para atividades de retaguarda do atendimento, com o intuito da manutenção dos serviços prestados ao contribuinte.
+
+**Art. 4º** O disposto nesta Portaria aplica-se até 29 de maio de 2020.
+
+**Parágrafo único.** O prazo previsto no caput poderá ser modificado enquanto perdurar o estado de emergência de saúde pública decorrente do coronavírus (SARS-CoV-2).
+
+**Art. 5º** Esta Portaria entra em vigor na data de sua publicação no Diário Oficial da União.
+
+GUSTAVO BREITENBACH

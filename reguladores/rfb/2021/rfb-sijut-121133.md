@@ -1,0 +1,34 @@
+---
+titulo: "Portaria DRF/FSA nº 138, de 19 de outubro de 2021"
+orgao: "Delegacia da Receita Federal do Brasil em Feira de Santana"
+tipo: "Portaria"
+numero: "138"
+data: "2021-10-19"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 21/10/2021, seção 1, página 41"
+data_publicacao: "2021-10-21"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/121133/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/121133/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "121133"
+sha256_texto: "add13f49b4daf8a19afb0a10597efe73db2cbe36e6ef145ccb8256c6f227624f"
+baixado_em: "2026-10-16"
+---
+# Portaria DRF/FSA nº 138, de 19 de outubro de 2021
+
+Suspende as atividades de atendimento presencial no Centro de Atendimento ao Contribuinte (CAC) da Sede da Delegacia da Receita Federal do Brasil em Feira de Santana - BA (DRF/FSA).
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM FEIRA DE SANTANA (BA), no uso das competências que lhe são conferidas pelos arts. 290, 299, 360 e 364 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, publicada no Diário Oficial da União de 27 de julho de 2020, e considerando a execução de manutenção evolutiva no sistema de gerenciamento do atendimento utilizado no Centro de Atendimento ao Contribuinte da Sede da Delegacia da Receita Federal do Brasil em Feira de Santana, que ocasionará a parada programada do atual sistema para a migração dos dados, instalação, configuração e suporte nas máquinas que o utilizam, resolve:
+
+**Art. 1º** Suspender as atividades de atendimento presencial aos contribuintes no Centro de Atendimento ao Contribuinte da Sede da Delegacia da Receita Federal do Brasil em Feira de Santana (CAC/FSA), no dia 22/10/2021.
+
+**Art. 2º** O atendimento às pessoas físicas e jurídicas poderá ser realizado por meio dos serviços disponibilizados no site da Receita Federal do Brasil (RFB) na Internet (www.gov.br/receitafederal), assim como através da caixa de email corporativa regional de atendimento denominada atendimentorfb.05@rfb.gov.br, ou por outro meio facultado pela RFB. No atendimento virtual disponibilizado pela RFB, destacam-se o Centro Virtual de Atendimento - e-CAC (https://www.gov.br/receitafederal/pt-br/canais\_atendimento/atendimento-virtual), o Fale Conosco RFB (https://www.gov.br/receitafederal/pt-br/canais\_atendimento/fale-conosco) e o Chat RFB (https://www.gov.br/receitafederal/pt-br/canais\_atendimento/chat).
+
+**Art. 3º** Prorrogar automaticamente os prazos das intimações a vencer na data referida no art. 1º para o primeiro dia útil subsequente.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação no Diário Oficial da União, produzindo efeitos em 22/10/2021.
+
+SAMUEL PEREIRA DE ALMEIDA JÚNIOR

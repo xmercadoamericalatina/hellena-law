@@ -1,0 +1,36 @@
+---
+titulo: "Solução de Consulta Disit/SRRF06 nº 6017, de 13 de setembro de 2022"
+orgao: "Divisão de Tributação da 6ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "6017"
+data: "2022-09-13"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 04/10/2022, seção 1, página 16"
+data_publicacao: "2022-10-04"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/126427/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/126427/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "126427"
+sha256_texto: "362742a41b5a0e99405f3119b6ffe93548006fa67288d9e719a8da58973885ae"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF06 nº 6017, de 13 de setembro de 2022
+
+Assunto: Contribuição para o PIS/Pasep  
+PESSOA JURÍDICA COMERCIANTE DE PNEUS NOVOS DE BORRACHA E PRESTADORA DE SERVIÇOS PARA TERCEIROS. TOTALIDADE DAS RECEITAS SUJEITA À APURAÇÃO NÃO CUMULATIVA. DISPÊNDIOS VINCULADOS CONCOMITANTEMENTE A RECEITAS SUJEITAS À TRIBUTAÇÃO CONCENTRADA E À TRIBUTAÇÃO NÃO CONCENTRADA. CRÉDITOS DA NÃO CUMULATIVIDADE.  
+O método de rateio proporcional previsto no inciso II do § 8º do art. 3º da Lei nº 10.637, de 2002, não se aplica à pessoa jurídica que se sujeita à incidência não cumulativa concentrada da Contribuição para o PIS/Pasep em relação à totalidade de suas receitas, ainda que parte dessas receitas esteja sujeita à sistemática de apuração concentrada da referida contribuição, e parte não.  
+Desde que sejam atendidos os requisitos da legislação de regência, a pessoa jurídica comerciante de pneus novos de borracha (classificados na posição 40.11 da Tipi) cujas receitas estejam integralmente sujeitas à apuração não cumulativa da Contribuição para o PIS/Pasep, embora esteja impedida de apurar os créditos vinculados à aquisição desses bens para revenda, porquanto expressamente proibida no art. 3º, I, 'b' , c/c art. 2º, § 1º, V, da Lei nº 10.637, de 2002, está autorizada a apropriar os créditos da não cumulatividade da referida contribuição previstos nos demais incisos do mesmo art. 3º, sem necessidade de rateio dos respectivos dispêndios entre suas receitas sujeitas à tributação concentrada e suas receitas não sujeitas a essa sistemática de tributação.  
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 218, DE 6 DE AGOSTO DE 2014, E À SOLUÇÃO DE CONSULTA COSIT Nº 326, DE 20 DE JUNHO DE 2017.  
+Dispositivos Legais: Lei nº 10.637, de 2002, arts. 2º, § 1º, V, e 3º; Lei nº 10.485, de 2002, arts. 5º e 6º.  
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins  
+PESSOA JURÍDICA COMERCIANTE DE PNEUS NOVOS DE BORRACHA E PRESTADORA DE SERVIÇOS PARA TERCEIROS. TOTALIDADE DAS RECEITAS SUJEITA À APURAÇÃO NÃO CUMULATIVA. DISPÊNDIOS VINCULADOS CONCOMITANTEMENTE A RECEITAS SUJEITAS À TRIBUTAÇÃO CONCENTRADA E À TRIBUTAÇÃO NÃO CONCENTRADA. CRÉDITOS DA NÃO CUMULATIVIDADE.  
+O método de rateio proporcional previsto no inciso II do § 8º do art. 3º da Lei nº 10.637, de 2002, não se aplica à pessoa jurídica que se sujeita à incidência não cumulativa concentrada da Contribuição para o PIS/Pasep em relação à totalidade de suas receitas, ainda que parte dessas receitas esteja sujeita à sistemática de apuração concentrada da referida contribuição, e parte não.  
+Desde que sejam atendidos os requisitos da legislação de regência, a pessoa jurídica comerciante de pneus novos de borracha (classificados na posição 40.11 da Tipi) cujas receitas estejam integralmente sujeitas à apuração não cumulativa da Contribuição para o PIS/Pasep, embora esteja impedida de apurar os créditos vinculados à aquisição desses bens para revenda, porquanto expressamente proibida no art. 3º, I, 'b' , c/c art. 2º, § 1º, V, da Lei nº 10.637, de 2002, está autorizada a apropriar os créditos da não cumulatividade da referida contribuição previstos nos demais incisos do mesmo art. 3º, sem necessidade de rateio dos respectivos dispêndios entre suas receitas sujeitas à tributação concentrada e suas receitas não sujeitas a essa sistemática de tributação.  
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 218, DE 6 DE AGOSTO DE 2014, E À SOLUÇÃO DE CONSULTA COSIT Nº 326, DE 20 DE JUNHO DE 2017.  
+Dispositivos Legais: Lei nº 10.637, de 2002, arts. 2º, § 1º, V, e 3º; Lei nº 10.485, de 2002, arts. 5º e 6º.
+
+HELDER GERALDO MIRANDA DE OLIVEIRA  
+Chefe

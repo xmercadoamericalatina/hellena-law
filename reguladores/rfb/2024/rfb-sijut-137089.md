@@ -1,0 +1,30 @@
+---
+titulo: "Ato Declaratório Executivo DRF/SOR nº 448, de 3 de abril de 2024"
+orgao: "Delegacia da Receita Federal do Brasil em Sorocaba"
+tipo: "Ato Declaratório Executivo"
+numero: "448"
+data: "2024-04-03"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 04/04/2024, seção 1, página 35"
+data_publicacao: "2024-04-04"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/137089/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/137089/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "137089"
+sha256_texto: "09ae8245611ad8852788b85bae01171c10331af88d089f345838016f108653b8"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo DRF/SOR nº 448, de 3 de abril de 2024
+
+Cancela, a pedido, o Registro Especial de Controle de Papel Imune - Regpi
+
+O AUDITOR-FISCAL DA RECEITA FEDERAL DO BRASIL, no exercício das atribuições que lhe são conferidas pela Portaria SRRF08 nº 229, de 30 de junho de 2022, tendo em vista o disposto na Lei nº 11.945, de 4 de junho de 2009, e na Instrução Normativa RFB nº 1.817, de 20 de julho de 2018, e considerando o que consta no processo nº 13032.200302/2024-36, declara:
+
+**Art. 1º** Cancelados, a pedido da pessoa jurídica PIXEL GRÁFICA, EDITORA E PRODUTOS DIGITAIS LTDA, inscrita no CNPJ sob nº 10.709.188/0001-03, com estabelecimento localizado à Rua do Tecelão, 419 - Jardim Werner Plaas, Americana, SP, os Registros Especiais de Controle de Papel Imune (Regpi) então concedidos pelo Ato Declaratório Executivo nº 5/2019, de 22/01/2019, publicado no Diário Oficial da União em 23/01/2019.
+
+**Art. 2º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+REINALDO DE PAIVA LOPES

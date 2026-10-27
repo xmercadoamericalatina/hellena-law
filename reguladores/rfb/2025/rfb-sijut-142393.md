@@ -1,0 +1,138 @@
+---
+titulo: "Ato Declaratório Executivo Coana nº 6, de 10 de janeiro de 2025"
+orgao: "Coordenação-Geral de Administração Aduaneira"
+tipo: "Ato Declaratório Executivo"
+numero: "6"
+data: "2025-01-10"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 13/01/2025, seção 1, página 16"
+data_publicacao: "2025-01-13"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142393/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/142393/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "142393"
+sha256_texto: "3e1f04a48232cb51afcc10c7a62a7cd85cc576f812d37ef17d6d23b00f95532a"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo Coana nº 6, de 10 de janeiro de 2025
+
+Altera o Ato Declaratório Executivo Coana nº 40, de 23 de outubro de 2024, que certifica empresa BOT PAG MEIOS DE PAGAMENTOS E SERVICOS LTDA. como participante do Programa Remessa Conforme.
+
+O COORDENADOR-GERAL DE ADMINISTRAÇÃO ADUANEIRA SUBSTITUTO, no uso da atribuição que lhe confere o inciso II do art. 358 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no inciso I do art. 20-D da Instrução Normativa RFB nº 1.737, de 15 de setembro de 2017, no art. 11 da Portaria Coana nº 130, de 25 de julho de 2023, e do que consta do processo nº 13031.488664/2024-59, DECLARA:
+
+**Art. 1º** O Anexo Único do Ato Declaratório Executivo Coana nº 40, de 23 de outubro de 2024, fica substituído pelo Anexo Único deste Ato Declaratório Executivo.
+
+**Art. 2º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+SERGIO GARCIA DA SILVA ALENCAR
+
+ANEXO ÚNICO
+
+(Anexo Único do Ato Declaratório Executivo Coana nº 40, de 23 de outubro de 2024)
+
+| CONTRATOS |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| EMPRESA DE COMÉRCIO ELETRÔNICO | BOT PAG MEIOS DE PAGAMENTOS E SERVICOS LTDA. |  |  |  |  |
+| CNPJ/TIN | 21.090.534/0001-26 |  |  |  |  |
+| INTERMEDIÁRIO(S) | EMPRESA | HERCO FREIGHT FORWARDERS, INC. |  |  |  |
+| CNPJ/TIN | US650199556 |  |  |  |  |
+| TRANSPORTADOR(ES) | EMPRESA | EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS (ECT) | PHOENEX CARGO AGENCIAMENTO DE CARGA AÉREA LTDA. | FOX CARGO DO BRASIL CARGO LTDA | MILE EXPRESS AGENCIAMENTO DE CARGA AEREA LTDA |
+| CNPJ/TIN | 34.028.316/0001-03 | 10.257.602/0001-82 | 05.317.708/0001-94 | 39.844.391/0001-66 |  |
+
+| CONTRATOS |  |  |
+| --- | --- | --- |
+| EMPRESA DE COMÉRCIO ELETRÔNICO | BOT PAG MEIOS DE PAGAMENTOS E SERVICOS LTDA. |  |
+| CNPJ/TIN | 21.090.534/0001-26 |  |
+| INTERMEDIÁRIO(S) | EMPRESA | HERCO FREIGHT FORWARDERS, INC. |
+| CNPJ/TIN | US650199556 |  |
+| INTERMEDIÁRIO(S) | EMPRESA | SHENZHEN ANJUN LOGISTICS CO. |
+| CNPJ/TIN | CN9144030059073074XQ |  |
+| TRANSPORTADOR(ES) | EMPRESA | EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS (ECT) |
+| CNPJ/TIN | 34.028.316/0001-03 |  |
+
+| CONTRATOS |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| EMPRESA DE COMÉRCIO ELETRÔNICO | BOT PAG MEIOS DE PAGAMENTOS E SERVICOS LTDA. |  |  |  |
+| CNPJ/TIN | 21.090.534/0001-26 |  |  |  |
+| INTERMEDIÁRIO(S) | EMPRESA | n/a |  |  |
+| CNPJ/TIN | n/a |  |  |  |
+| TRANSPORTADOR(ES) | EMPRESA | DHL EXPRESS (BRAZIL) LTDA. | EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS (ECT) | MILE EXPRESS AGENCIAMENTO DE CARGA AEREA LTDA. |
+| CNPJ/TIN | 58.890.252/0001-13 | 34.028.316/0001-03 | 39.844.391/0001-66 |  |
+
+| CONTRATOS |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| EMPRESA DE COMÉRCIO ELETRÔNICO | BOT PAG MEIOS DE PAGAMENTOS E SERVICOS LTDA. |  |  |  |  |
+| CNPJ/TIN | 21.090.534/0001-26 |  |  |  |  |
+| INTERMEDIÁRIO(S) | EMPRESA | SKYPOSTAL INC. |  |  |  |
+| CNPJ/TIN | US651134175 |  |  |  |  |
+| TRANSPORTADOR(ES) | EMPRESA | EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS (ECT) | MILE EXPRESS AGENCIAMENTO DE CARGA AÉREA LTDA. | TRI STAR - SERVICOS LOGISTICOS LTDA. | SKY POSTAL COURIER LTDA. |
+| CNPJ/TIN | 34.028.316/0001-03 | 39.844.391/0001-66 | 35.087.513/0001-66 | 53.869.061/0001-56 |  |
+
+| CONTRATOS |  |  |
+| --- | --- | --- |
+| EMPRESA DE COMÉRCIO ELETRÔNICO | BOT PAG MEIOS DE PAGAMENTOS E SERVICOS LTDA. |  |
+| CNPJ/TIN | 21.090.534/0001-26 |  |
+| INTERMEDIÁRIO(S) | EMPRESA | SKYPOSTAL INC. |
+| CNPJ/TIN | US651134175 |  |
+| INTERMEDIÁRIO(S) | EMPRESA | SKYSHOP LOGISTICS INC. |
+| CNPJ/TIN | US270005846 |  |
+| TRANSPORTADOR(ES) | EMPRESA | EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS (ECT) |
+| CNPJ/TIN | 34.028.316/0001-03 |  |
+
+| CONTRATOS |  |  |  |
+| --- | --- | --- | --- |
+| EMPRESA DE COMÉRCIO ELETRÔNICO | BOT PAG MEIOS DE PAGAMENTOS E SERVICOS LTDA. |  |  |
+| CNPJ/TIN | 21.090.534/0001-26 |  |  |
+| INTERMEDIÁRIO(S) | EMPRESA | HUB AMERICA LOGISTICA LTDA. | SHENZHEN CITY YIDE SUPPLY CHAIN CO. LTD. GUANGZHOU BRANCH |
+| CNPJ/TIN | 37.148.594/0001-92 | CN9144010MA5AKPFX8K |  |
+| TRANSPORTADOR(ES) | EMPRESA | EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS (ECT) | EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS (ECT) |
+| CNPJ/TIN | 34.028.316/0001-03 | 34.028.316/0001-03 |  |
+
+| CONTRATOS |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| EMPRESA DE COMÉRCIO ELETRÔNICO | BOT PAG MEIOS DE PAGAMENTOS E SERVICOS LTDA. |  |  |  |  |
+| CNPJ/TIN | 21.090.534/0001-26 |  |  |  |  |
+| INTERMEDIÁRIO(S) | EMPRESA | SHIPSMART TRANSPORTE E TECNOLOGIA LTDA. |  |  |  |
+| CNPJ/TIN | 28.575.809/0001-60 |  |  |  |  |
+| INTERMEDIÁRIO(S) | EMPRESA | SKYPOSTAL INC. |  |  |  |
+| CNPJ/TIN | US651134175 |  |  |  |  |
+| TRANSPORTADOR(ES) | EMPRESA | EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS (ECT) | MILE EXPRESS AGENCIAMENTO DE CARGA AÉREA LTDA. | TRI STAR - SERVICOS LOGISTICOS LTDA. | SKY POSTAL COURIER LTDA. |
+| CNPJ/TIN | 34.028.316/0001-03 | 39.844.391/0001-66 | 35.087.513/0001-66 | 53.869.061/0001-56 |  |
+
+| CONTRATOS |  |  |
+| --- | --- | --- |
+| EMPRESA DE COMÉRCIO ELETRÔNICO | BOT PAG MEIOS DE PAGAMENTOS E SERVICOS LTDA. |  |
+| CNPJ/TIN | 21.090.534/0001-26 |  |
+| INTERMEDIÁRIO(S) | EMPRESA | SHIPSMART TRANSPORTE E TECNOLOGIA LTDA. |
+| CNPJ/TIN | 28.575.809/0001-60 |  |
+| INTERMEDIÁRIO(S) | EMPRESA | SKYPOSTAL INC. |
+| CNPJ/TIN | US651134175 |  |
+| INTERMEDIÁRIO(S) | EMPRESA | SKYSHOP LOGISTICS INC. |
+| CNPJ/TIN | US270005846 |  |
+| TRANSPORTADOR(ES) | EMPRESA | EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS (ECT) |
+| CNPJ/TIN | 34.028.316/0001-03 |  |
+
+| CONTRATOS |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| EMPRESA DE COMÉRCIO ELETRÔNICO | BOT PAG MEIOS DE PAGAMENTOS E SERVICOS LTDA. |  |  |  |  |
+| CNPJ/TIN | 21.090.534/0001-26 |  |  |  |  |
+| INTERMEDIÁRIO(S) | EMPRESA | SHIPSMART TRANSPORTE E TECNOLOGIA LTDA. |  |  |  |
+| CNPJ/TIN | 28.575.809/0001-60 |  |  |  |  |
+| INTERMEDIÁRIO(S) | EMPRESA | CROSS BORDER HUB LLC. |  |  |  |
+| CNPJ/TIN | US880712888 |  |  |  |  |
+| INTERMEDIÁRIO(S) | EMPRESA | N/A | DAOLU CROSSBORDER SOLUTIONS LTDA. | BIT HOME INTERMEDIACAO DE NEGOCIOS LTD. |  |
+| CNPJ/TIN | N/A | 41.600.287/0001-78 | 07.307.931/0001-86 |  |  |
+| TRANSPORTADOR(ES) | EMPRESA | EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS (ECT) | PHOENEX CARGO AGENCIAMENTO DE CARGA AÉREA LTDA. | EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS (ECT) | EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS (ECT) |
+| CNPJ/TIN | 34.028.316/0001-03 | 10.257.602/0001-82 | 34.028.316/0001-03 | 34.028.316/0001-03 |  |
+
+| CONTRATOS |  |  |
+| --- | --- | --- |
+| EMPRESA DE COMÉRCIO ELETRÔNICO | BOT PAG MEIOS DE PAGAMENTOS E SERVICOS LTDA. |  |
+| CNPJ/TIN | 21.090.534/0001-26 |  |
+| INTERMEDIÁRIO(S) | EMPRESA | SHIPSMART TRANSPORTE E TECNOLOGIA LTDA. |
+| CNPJ/TIN | 28.575.809/0001-60 |  |
+| TRANSPORTADOR(ES) | EMPRESA | DHL EXPRESS (BRAZIL) LTDA. |
+| CNPJ/TIN | 58.890.252/0001-13 |  |

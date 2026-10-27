@@ -1,0 +1,40 @@
+---
+titulo: "Solução de Consulta Disit/SRRF02 nº 2015, de 26 de dezembro de 2024"
+orgao: "Divisão de Tributação da 2ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "2015"
+data: "2024-12-26"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 17/01/2025, seção 1, página 202"
+data_publicacao: "2025-01-17"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/142442/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/142442/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "142442"
+sha256_texto: "0897d0268d3d3b63e8880e18b5bddbb52f9e66b7b3c7753f6cbba77e9a9093f2"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF02 nº 2015, de 26 de dezembro de 2024
+
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ  
+LUCRO REAL. CRÉDITOS DECORRENTES DE DECISÃO JUDICIAL. INDÉBITO TRIBUTÁRIO. COMPENSAÇÃO DE DÉBITOS. RECONHECIMENTO DA RECEITA.  
+Os valores relativos ao principal do indébito tributário de créditos relativos à exclusão do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre prestações de Serviços de transporte interestadual e intermunicipal e de comunicação (ICMS) da base de cálculo da Contribuição para o PIS/Pasep e da Cofins, decorrentes de decisões judiciais transitadas em julgado, devem ser tributados pelo IRPJ.  
+Na hipótese de compensação de indébito decorrente de decisões judiciais transitadas em julgado nas quais, em nenhuma fase do processo, foram definidos os valores a serem restituídos, é na entrega da primeira Declaração de Compensação, na qual se declara sob condição resolutória o valor integral a ser compensado, o último momento em que os valores do principal do indébito devem ser oferecidos à tributação.  
+Caso haja a escrituração contábil de tais valores em momento anterior à entrega da primeira Declaração de Compensação, é no momento dessa escrituração que tais valores devem ser oferecidos à tributação.  
+Tendo em vista o julgado do STF, por ocasião do julgamento do Recurso Extraordinário (RE) 1.063.187, em sede de repercussão geral, no qual foi fixada a tese do Tema nº 962, não incide IRPJ sobre os juros de mora equivalentes à taxa Selic recebidos nas ações de repetição de indébito tributário, desde que observados os marcos temporais previstos na modulação dos efeitos do acórdão.  
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 308, DE 15 DE DEZEMBRO DE 2023.  
+Dispositivos Legais: Lei nº 5.172, de 1966 (Código Tributário Nacional - CTN), arts. 43 e 170; Lei nº 4.506, de 1964, art. 44, inciso III; Lei nº 6.404, de 1976, arts. 177, caput, e 187, § 1º; Decreto Lei nº 1.598, de 1977, arts. 6º, § 1º, 7º, caput, e 67, inciso XI; Lei nº 9.430, de 1996, art. 74; Lei nº 13.105, de 16 de março de 2015, arts. 502 e 506; Regulamento do Imposto sobre a Renda (RIR/2018), aprovado pelo Decreto nº 9.580, de 2018, art. 441, inciso II; Instrução Normativa RFB nº 1.700, de 2017, arts. 33, 34, 39, 40, inciso II, e 47, incisos I a IV; Instrução Normativa RFB nº 2.058, de 2021, arts. 33 e 34..  
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL  
+RESULTADO AJUSTADO. CRÉDITOS DECORRENTES DE DECISÃO JUDICIAL. INDÉBITO TRIBUTÁRIO. COMPENSAÇÃO DE DÉBITOS. RECONHECIMENTO DA RECEITA.  
+Os valores relativos ao principal do indébito tributário de créditos relativos à exclusão do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre prestações de Serviços de transporte interestadual e intermunicipal e de comunicação (ICMS) da base de cálculo da Contribuição para o PIS/Pasep e da Cofins, decorrentes de decisões judiciais transitadas em julgado, devem ser tributados pelo pela CSLL.  
+Na hipótese de compensação de indébito decorrente de decisões judiciais transitadas em julgado nas quais, em nenhuma fase do processo, foram definidos os valores a serem restituídos, é na entrega da primeira Declaração de Compensação, na qual se declara sob condição resolutória o valor integral a ser compensado, o último momento em que os valores do principal do indébito devem ser oferecidos à tributação.  
+Caso haja a escrituração contábil de tais valores em momento anterior à entrega da primeira Declaração de Compensação, é no momento dessa escrituração que tais valores devem ser oferecidos à tributação.  
+Tendo em vista o julgado do STF, por ocasião do julgamento do Recurso Extraordinário (RE) 1.063.187, em sede de repercussão geral, no qual foi fixada a tese do Tema nº 962, não incide CSLL sobre os juros de mora equivalentes à taxa Selic recebidos nas ações de repetição de indébito tributário, desde que observados os marcos temporais previstos na modulação dos efeitos do acórdão.  
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 308, DE 15 DE DEZEMBRO DE 2023.  
+Dispositivos Legais: Constituição Federal, de 1988, art. 195, inciso I, alínea "c" ; Lei nº 5.172, de 1966 (Código Tributário Nacional - CTN), arts. 43 e 170; Lei nº 4.506, de 1964, art. 44, inciso III; Lei nº 6.404, de 1976, arts. 177, caput, e 187, § 1º; Decreto Lei nº 1.598, de 1977, arts. 6º, § 1º, 7º, caput, e 67, inciso XI; Lei nº 7.689, de 1988, arts. 1º, 2º, caput e § 1º, alínea "c" ; Lei nº 9.430, de 1996, art. 74; Lei nº 13.105, de 16 de março de 2015, arts. 502 e 506; Instrução Normativa RFB nº 1.700, de 2017, arts. 33, 34, 39, 40, inciso II, e 47, incisos I a IV; Instrução Normativa RFB nº 2.058, de 2021, arts. 33 e 34.
+
+ALDENIR BRAGA CHRISTO  
+Chefe da Divisão

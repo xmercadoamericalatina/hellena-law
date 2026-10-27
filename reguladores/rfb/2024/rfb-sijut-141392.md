@@ -1,0 +1,36 @@
+---
+titulo: "Ato Declaratório Executivo IRF/SLS nº 3, de 31 de outubro de 2024"
+orgao: "Inspetoria da Receita Federal do Brasil no Porto de São Luís"
+tipo: "Ato Declaratório Executivo"
+numero: "3"
+data: "2024-10-31"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 04/11/2024, seção 1, página 55"
+data_publicacao: "2024-11-04"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/141392/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/141392/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "141392"
+sha256_texto: "1c115728813852ed8736f3e484fdc2baf3e4414be450edcaf4c544a67c1c21ef"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo IRF/SLS nº 3, de 31 de outubro de 2024
+
+Inclui pessoa física no Registro de Ajudantes de Despachante aduaneiro.
+
+O INSPETOR DA INSPETORIA DA RECEITA FEDERAL DO BRASIL DO PORTO DE SÃO LUÍS - MA, no uso das atribuições que lhes conferem o art. 327, combinado com o art. 361 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no § 3º do art. 810 do Decreto 6.759, de 5 de fevereiro de 2009, alterado pelo Decreto nº 7.213, de 15 de junho de 2010, e no parágrafo único do art. 1º da Instrução Normativa RFB nº 1.209, de 07 de novembro de 2011, declara:
+
+**Art. 1º** Incluído no Registro de Ajudantes de Despachante Aduaneiro:
+
+| NOME | CPF/Nº REGISTRO | PROCESSO |
+| --- | --- | --- |
+| SIDNEY CARLOS DOS REIS FRAZÃO | \*\*\*.116.353-\*\* | 13075.194312/2024-29 |
+
+**Art. 2º** O Ajudante de Despachante Aduaneiro deverá incluir seus dados cadastrais, mediante utilização de certificado digital, no Cadastro Aduaneiro informatizado de Intervenientes no Comércio Exterior (Sistema CAD-ADUANA), para fins de sua efetivação no Registro Informatizado de Ajudantes de Despachante Aduaneiro, de acordo com a IN RFB nº 1.273, de 06 de junho de 2012 e ADE COANA nº 16, de 08 de junho de 2012.
+
+**Art. 3º** Este Ato Declaratório Executivo entrará em vigor na data de sua publicação no Diário Oficial da União.
+
+ROOSEVELT ARANHA SABÓIA

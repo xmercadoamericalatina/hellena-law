@@ -1,0 +1,45 @@
+---
+titulo: "Ato Declaratório Executivo Decex/RJO nº 176, de 4 de setembro de 2025"
+orgao: "Delegacia de Fiscalização de Comércio Exterior da Receita Federal do Brasil no Rio de Janeiro"
+tipo: "Ato Declaratório Executivo"
+numero: "176"
+data: "2025-09-04"
+revogada: true
+evidencia_revogacao: "[Revogado(a) pelo(a) Ato Declaratório Executivo Decex/RJO nº 228, de 18 de novembro de 2025]"
+vigente_fonte: false
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 09/09/2025, seção 1, página 37"
+data_publicacao: "2025-09-09"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/146175/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/146175/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "146175"
+sha256_texto: "52328a290c3f9992299eccc285377c457ee276ff0c9ec468ea81d019ff1b693d"
+baixado_em: "2026-10-15"
+---
+# Ato Declaratório Executivo Decex/RJO nº 176, de 4 de setembro de 2025
+
+Declara habilitada ao regime aduaneiro especial de utilização econômica destinado a bens a serem utilizados nas atividades de exploração, desenvolvimento e produção de petróleo e de gás natural (Repetro), na modalidade Repetro-Sped, a pessoa jurídica que menciona.
+
+O DELEGADO-ADJUNTO DE FISCALIZAÇÃO DE COMÉRCIO EXTERIOR DA RECEITA FEDERAL DO BRASIL NO RIO DE JANEIRO - DECEX/RJO, no uso da competência prevista no art. 6º, caput, da Instrução Normativa RFB nº 1.781, de 29 de dezembro de 2017, declara:
+
+**Art. 1º** Com base no dossiê de atendimento (DDA) nº 13113.194850/2025-09 e em conformidade com o item B.1.4 da Seção de Perguntas e Respostas do Manual de Habilitação ao Repetro-Sped c/c o §6º do art. 6º da IN RFB nº 1.781/2017, fica habilitada, a título precário, ao regime aduaneiro especial de utilização econômica destinado a bens a serem utilizados nas atividades de exploração, desenvolvimento e produção de petróleo e de gás natural, Repetro - instituído pelo Decreto nº 3.161/99, com base no § único do artigo 79 da Lei nº 9.430/96 e regulamentado pelos artigos 458 a 462 do Decreto nº 6.759/09 - na modalidade Repetro-Sped a pessoa jurídica BRAVA ENERGIA S.A., CNPJ nº 12.091.809/0001-55, para atuar como operadora, pelo prazo de 90 dias contados a partir da publicação do presente ADE, na seguinte forma: a matriz, CNPJ nº 12.091.809/0001-55, somente no tratamento aduaneiro/tributário de admissão temporária para utilização econômica com dispensa do pagamento dos tributos federais, com base no artigo 2º, IV, da IN RFB nº 1781/17, e os estabelecimentos de CNPJ nº 12.091.809/0002-36, 12.091.809/0003-17, 12.091.809/0004-06, 12.091.809/0005-89, 12.091.809/0006-60 e 12.091.809/0007-40, em ambos os tratamentos aduaneiros/tributários, admissão temporária para utilização econômica, com dispensa do pagamento dos tributos federais e importação de bens para permanência definitiva no país, com suspensão do pagamento dos tributos federais incidentes na importação, com fulcro no artigo 2º, III, IV e VI, da IN RFB nº 1781/17.
+
+**Art.2º** No caso de descumprimento do regime aplica-se o disposto no art. 311 do Decreto nº 6.759/09 e a multa prevista no art. 72, inciso I, da Lei nº 10.833/03, sem prejuízo de outras penalidades cabíveis.
+
+**Art.3º** Fica revogado o Ato Declaratório Executivo DECEX nº 114 de 01/07/2025 publicado no Diário Oficial da União de 02/07/2025.
+
+**Art. 4º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+MARCUS ANTONIO BRUNO DE ALBUQUERQUE
+
+## ANEXO
+
+Processo nº 13113.194850/2025-09
+
+| ANE | Nº DO CONTRATO (ANP) |
+| --- | --- |
+| Campos de Atlanta e Oliva no Bloco BS-4 (Bacia de Santos) | 48000.003573/97-91 |
+| Bloco FZA-M-90\_R11 (Bacia da Foz Amazonas) | 48610.005428/2013-10 |
+| Blocos PAMA-M-265\_R11 | 48610.005473/2013-74 |
+| PAMA-M-337\_R11 | 48610.005469/2013-14 |

@@ -1,0 +1,30 @@
+---
+titulo: "Ato Declaratório Executivo SRRF07 nº 17, de 21 de maio de 2024"
+orgao: "Superintendência Regional da Receita Federal do Brasil 7ª Região Fiscal"
+tipo: "Ato Declaratório Executivo"
+numero: "17"
+data: "2024-05-21"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 22/05/2024, seção 1, página 144"
+data_publicacao: "2024-05-22"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/138199/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/138199/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "138199"
+sha256_texto: "00eefcb158ce8c11d74b1612e33187b013fb3278d59f164be2d13932e22d61e0"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo SRRF07 nº 17, de 21 de maio de 2024
+
+Declara inapta a inscrição da entidade que menciona perante o Cadastro Nacional de Pessoa Jurídica (CNPJ) e a inidoneidade dos documentos fiscais por ela emitidos.
+
+O AUDITOR FISCAL DA RECEITA FEDERAL DO BRASIL, Julio Cesar do Couto Candido, Matrícula 76.327, no uso das atribuições que lhe confere a Lei n° 10.593, de 06 de dezembro de 2002, em seu artigo 6°, inciso I, alínea "b", com fundamento no parágrafo 3° do art. 43 da Instrução Normativa RFB n° 2.119, de 06 de dezembro de 2022 e considerando o que consta no processo administrativo n° 17227.726670/2024-83, declara:
+
+Art. 1°- INAPTA por INEXISTÊNCIA DE FATO a inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ) de n° 28.694.392/0001-55 do contribuinte CARGA CERTA TRANSPORTES E COMERCIO DE SUCATAS, desde a sua constituição em 21/09/2017, em virtude da não comprovação da integralização do capital social nos termos do art. 38, inciso III, alínea "a" da IN RFB 2.119/2022.
+
+**Art. 2°** - Inidôneos, nos termos do art. 51 da Instrução Normativa RFB n° 2.119/2022, não produzindo efeitos tributários em favor de terceiros interessados, os documentos emitidos pelo contribuinte acima referido a partir de 21/09/2017 por inexistência de fato, com fulcro no art. 38, inciso III, alínea "a", por falta de comprovação da integralização do capital social.
+
+JULIO CESAR DO COUTO CANDIDO

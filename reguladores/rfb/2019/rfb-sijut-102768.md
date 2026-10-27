@@ -1,0 +1,38 @@
+---
+titulo: "Ato Declaratório Executivo DRF/BHE nº 67, de 7 de agosto de 2019"
+orgao: "Delegacia da Receita Federal do Brasil em Belo Horizonte"
+tipo: "Ato Declaratório Executivo"
+numero: "67"
+data: "2019-08-07"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 08/08/2019, seção 1, página 307"
+data_publicacao: "2019-08-08"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/102768/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/102768/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "102768"
+sha256_texto: "d9fb65aa09663f5771385316bb6c80d53dcdec50eb921143c3b44c1b83370063"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo DRF/BHE nº 67, de 7 de agosto de 2019
+
+Declara, a pessoa jurídica que menciona, coabilitada para operar no Regime Especial de Incentivos para o Desenvolvimento da Infra-Estrutura - REIDI, de que trata a Instrução Normativa RFB nº 758, de 25 de julho de 2007.
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM BELO HORIZONTE (MG), no uso das atribuições que lhe confere o artigo 340, do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 9 de outubro de 2017, e tendo em vista o disposto no art. 11, caput, da Instrução Normativa RFB nº 758, de 2007, publicada no D.O.U. de 27 de julho de 2007, com suas alterações posteriores e, considerando o que consta do processo nº 15504.727102/2018-18, declara:
+
+**Art. 1º** Coabilitada a pessoa jurídica CONSTRUTORA QUEBEC S/A, inscrita no CNPJ nº 38.696.365/0001-75, para operar no Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura (REIDI), instituído pela Lei nº 11.488, de 2007 e regulamentado pelo Decreto nº 6.144, de 2007, consoante o disposto no artigo 11, da Instrução Normativa RFB nº 758, de 2007, publicada no D.O.U. de 27 de julho de 2007, com suas alterações posteriores.
+
+**Art. 2º** Fica vinculado o presente ADE ao contrato para prestação de serviços e fornecimentos necessários à completa e integral execução do Projeto denominado PCH Foz do Estrela, cuja duração é 24 (vinte e quatro) meses, com início em 12/11/2018, celebrado diretamente com a pessoa jurídica SÃO LUIZ ENERGÉTICA SA, inscrita no CNPJ nº 10.334.842/0001-33, titular do projeto aprovado pela Portaria nº 100, de 18 de abril de 2017, do Ministério de Minas e Energia, publicada no Diário Oficial da União, e devidamente habilitada ao REIDI por meio do Ato Declaratório Executivo nº 16, de 22 de dezembro de 2017, emitido pela Delegacia da Receita Federal do Brasil em Rio de Janeiro II/RJ.
+
+**Art. 3º** O cancelamento da habilitação da pessoa jurídica titular do projeto implica no cancelamento automático da presente coabilitação.
+
+**Art. 4º** Concluída sua participação no projeto, deverá ser pedido o cancelamento desta coabilitação no prazo de 30 (trinta) dias, contado da data em que adimplido o objeto do contrato, nos termos do artigo 9o c/c o artigo 12, inciso I, da Instrução Normativa RFB n° 758, de 2007.
+
+**Art. 5º** A presente coabilitação poderá ser cancelada de ofício em caso de inobservância, por parte da beneficiária, de quaisquer dos requisitos que condicionaram a concessão do regime.
+
+**Art. 6º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+MAURO LUIZ DE OLIVEIRA

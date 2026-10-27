@@ -1,0 +1,38 @@
+---
+titulo: "Solução de Consulta Disit/SRRF01 nº 1013, de 3 de dezembro de 2021"
+orgao: "Divisão de Tributação da 1ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "1013"
+data: "2021-12-03"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 03/01/2022, seção 1, página 13"
+data_publicacao: "2022-01-03"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/122472/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/122472/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "122472"
+sha256_texto: "53206bf3a49c556d4ec76b20b5aed17898065a2246676a9e5f58697f7ecab19b"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF01 nº 1013, de 3 de dezembro de 2021
+
+Assunto: Contribuição Para o Financiamento da Seguridade Social - COFINS  
+NÃO CUMULATIVIDADE. CRÉDITOS. APROPRIAÇÃO EXTEMPORÂNEA. COMPENSAÇÃO. DEDUÇÃO.  
+Os saldos a maior de créditos da não cumulatividade, apurados após os ajustes decorrentes da exclusão do 'ICMS destacado nas notas fiscais' da base de cálculo da Cofins, e que estejam em conformidade com o disposto no artigo 3º da Lei nº 10.833. de 2003, só são passíveis de compensação com débitos próprios relativos a quaisquer tributos e contribuições administrados pela RFB, relativamente aos valores em que haja previsão na legislação, como no caso de se relacionarem a vendas com suspensão, isenção, alíquota zero ou não incidência das contribuições, ou estiverem vinculados a operações de exportação dos serviços, por força do art. 5º e do art. 6º, respectivamente, da citada lei, e do art. 16 da Lei nº 11.116, de 2005.  
+Os saldos a maior de créditos da não cumulatividade, apurados após os ajustes decorrentes da exclusão do 'ICMS destacado nas notas fiscais' da base de cálculo da Cofins, e que estejam em conformidade com o disposto no artigo 3º da Lei nº 10.833. de 2003, podem ser aproveitados nos meses subsequentes na dedução dos saldos a recolher da referida Contribuição, conforme previsão contida no § 4º do referido artigo.  
+Os ajustes da base de cálculo da Cofins decorrentes da exclusão do 'ICMS destacado nas notas fiscais' devem observar a modulação temporal constante da decisão do Supremo Tribunal Federal por ocasião do julgamento do Tema 69 da Repercussão Geral (Recurso Extraordinário nº 574.706/PR), onde se estabelece que os efeitos desta exclusão devem se dar apenas a partir de 16.03.2017, ressalvadas as ações judiciais protocoladas até (inclusive) 15.03.2017. A Secretaria Especial da Receita Federal do Brasil está vinculada ao referido entendimento em razão do disposto nos arts. 19, VI, "a", e 19-A, III, § 1º, da Lei nº 10.522, de 2002, na Portaria Conjunta PGFN/RFB nº 1, de 2014 e no Parecer SEI Nº 7698/2021/ME.  
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 355, DE 13 DE JULHO DE 2017  
+Dispositivos Legais: Lei nº 10.833, de 2003, arts. 3º e 6º; Lei nº 11.033, de 2004, art. 17; Lei nº 11.116, de 2005, art. 16, I; Lei nº 10.522, de 2002, arts. 19, VI, "a", e 19-A, III, § 1º; Portaria Conjunta PGFN/RFB nº 1, de 2014; Parecer SEI Nº 7698/2021/ME, Instrução Normativa RFB nº 1.717, de 2017, artigo 2º, I, e artigo 65.  
+Assunto: Contribuição Para o PIS/Pasep  
+NÃO CUMULATIVIDADE. CRÉDITOS. APROPRIAÇÃO EXTEMPORÂNEA. COMPENSAÇÃO. DEDUÇÃO.  
+Os saldos a maior de créditos da não cumulatividade, apurados após os ajustes decorrentes da exclusão do 'ICMS destacado nas notas fiscais' da base de cálculo da Contribuição para o PIS/Pasep, e que estejam em conformidade com o disposto no artigo 3º da Lei nº 10.637. de 2002, só são passíveis de compensação com débitos próprios relativos a quaisquer tributos e contribuições administrados pela RFB, relativamente aos valores em que haja previsão na legislação, como no caso de se relacionarem a vendas com suspensão, isenção, alíquota zero ou não incidência das contribuições, ou estiverem vinculados a operações de exportação dos serviços, por força do art. 5º e do art. 6º, respectivamente, da citada lei, e do art. 16 da Lei nº 11.116, de 2005.  
+Os saldos a maior de créditos da não cumulatividade, apurados após os ajustes decorrentes da exclusão do 'ICMS destacado nas notas fiscais' da base de cálculo da Contribuição para o PIS/Pasep, e que estejam em conformidade com o disposto no artigo 3º da Lei nº 10.637. de 2002, podem ser aproveitados nos meses subsequentes na dedução dos saldos a recolher da referida Contribuição, conforme previsão contida no § 4º do referido artigo.  
+Os ajustes da base de cálculo da Contribuição para o PIS/Pasep, decorrentes da exclusão do 'ICMS destacado nas notas fiscais' devem observar a modulação temporal constante da decisão do Supremo Tribunal Federal por ocasião do julgamento do Tema 69 da Repercussão Geral (Recurso Extraordinário nº 574.706/PR), onde se estabelece que os efeitos desta exclusão devem se dar apenas a partir de 16.03.2017, ressalvadas as ações judiciais protocoladas até (inclusive) 15.03.2017. A Secretaria Especial da Receita Federal do Brasil está vinculada ao referido entendimento em razão do disposto nos arts. 19, VI, "a", e 19-A, III, § 1º, da Lei nº 10.522, de 2002, na Portaria Conjunta PGFN/RFB nº 1, de 2014 e no Parecer SEI Nº 7698/2021/ME.  
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 355, DE 13 DE JULHO DE 2017  
+Dispositivos Legais: Lei nº 10.637, de 2002, arts. 3º e 5º; Lei nº 11.033, de 2004, art. 17; Lei nº 11.116, de 2005, art. 16, I; Lei nº 10.522, de 2002, arts. 19, VI, "a", e 19-A, III, § 1º; Portaria Conjunta PGFN/RFB nº 1, de 2014; Parecer SEI Nº 7698/2021/ME, Instrução Normativa RFB nº 1.717, de 2017, artigo 2º, I, e artigo 65.
+
+HENRIQUE PINHEIRO TORRES  
+Chefe

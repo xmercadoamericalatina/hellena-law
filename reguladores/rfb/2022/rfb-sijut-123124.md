@@ -1,0 +1,34 @@
+---
+titulo: "Ato Declaratório Executivo DRF/SOR nº 11, de 2 de março de 2022"
+orgao: "Delegacia da Receita Federal do Brasil em Sorocaba"
+tipo: "Ato Declaratório Executivo"
+numero: "11"
+data: "2022-03-02"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 03/03/2022, seção 1, página 16"
+data_publicacao: "2022-03-03"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/123124/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/123124/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "123124"
+sha256_texto: "58317fde684e3e65d955d2c79150e9040db7398024aa60d1441f0764c5b876fa"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo DRF/SOR nº 11, de 2 de março de 2022
+
+Habilita ao Regime Especial de Industrialização de bens destinados às atividades de exploração, de desenvolvimento e de produção de petróleo, de gás natural e de outros hidrocarbonetos fluidos (Repetro-Industrialização)
+
+O AUDITOR-FISCAL DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhes são conferidas pela Portaria SRRF08 nº 1.214, de 11/09/2020, publicada no DOU de 15/09/2020, e pela Portaria DRF/SOR nº 38, de 07/10/2020, publicada no DOU de 13/10/2020 e tendo em vista o disposto na Lei nº 13.586, de 28 de dezembro de 2017, no Decreto nº 9.537, de 24 de outubro de 2018, na Instrução Normativa RFB nº 1.901, de 17 de julho de 2019, e no processo administrativo nº 13075.142850/2021-95, declara:
+
+**Art. 1º** Habilitada ao Regime Especial de Industrialização de bens destinados às atividades de exploração, de desenvolvimento e de produção de petróleo, de gás natural e de outros hidrocarbonetos fluidos (Repetro-Industrialização) a pessoa jurídica: VEOLIA WATER TECHNOLOGIES BRASIL LTDA, inscrita no CNPJ sob o nº 96.591.128/0001-46.
+
+**Art. 2º** O prazo de vigência do regime será de 1 (um) ano, prorrogável automaticamente pelo mesmo período, contado da data do respectivo desembaraço aduaneiro ou da emissão da NF-e, na hipótese de aquisição no mercado interno.
+
+**Art. 3º** Os termos e condições estabelecidos para a concessão da habilitação devem ser mantidos durante todo o período em que a pessoa jurídica fizer uso do regime.
+
+**Art. 4º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+EDMAR BATISTA DA COSTA

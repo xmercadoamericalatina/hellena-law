@@ -1,0 +1,60 @@
+---
+titulo: "Ato Declaratório Executivo DRF/RBO nº 4, de 2 de março de 2020"
+orgao: "Delegacia da Receita Federal do Brasil em Rio Branco"
+tipo: "Ato Declaratório Executivo"
+numero: "4"
+data: "2020-03-02"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 03/03/2020, seção 1, página 25"
+data_publicacao: "2020-03-03"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/107246/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/107246/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "107246"
+sha256_texto: "a794250c9cfbdcc0b6d7a2b81dda6e32efcbdfbcbae0c4f90325b249a1d423b1"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo DRF/RBO nº 4, de 2 de março de 2020
+
+Autoriza a entrada e saída de aeronave no país, conforme o art. 26 do Dec. Nº 6.759, de 05 de fevereiro de 2009.
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM RIO BRANCO/AC, no uso da competência estabelecida pelo §3 do artigo 28 da Portaria RFB nº 3.518, de 30 de setembro de 2011, conforme o disposto no art. 26 do decreto nº 6.759, de 05 de fevereiro de 2009, tendo em vista a solicitação constante do processo administrativo nº 11522.720065/2020-54 autoriza:
+
+**Art. 1º** Operação de decolagem no Aeroporto Internacional de Rio Branco-AC (SBRB), alfandegado em caráter eventual e temporário, por meio deste ato, exclusivamente para que possam ocorrer as atividades e os controles aduaneiros necessários dos seguintes voos:
+
+Pouso
+
+Evento: Operação de Pouso da Aeronave FA50, Operador: Nobre Empreend. Particip. Eireli;
+
+Prefixo: PPNOB;
+
+Procedência: Aeroporto Internacional Del Bajío/México (MMLO);
+
+Destino: SBRB;
+
+Data e horário previstos para pouso: 16/03/2020 às 22:45 (local);
+
+Pessoas a Bordo: 02 (dois) tripulantes e 03 (três) passageiros.
+
+Decolagem
+
+Evento: Operação de Decolagem da Aeronave FA50, Operador: Nobre Empreend. Particip. Eireli;
+
+Prefixo: PPNOB;
+
+Procedência: SBRB;
+
+Destino: Aeroporto Estadual de Sorocaba/SP (SDCO);
+
+Data e horário previstos para decolagem: 16/03/2020 às 23:45 (local);
+
+Pessoas a Bordo: 02 (dois) tripulantes e 03 (três) passageiros.
+
+**Art. 2º** O Aeroporto ora alfandegado fica sob a jurisdição da Delegacia da Receita Federal de Rio Branco/AC, que exercerá o controle aduaneiro no local.
+
+**Art. 3º** Este ADE entra em vigor em 16 de março de 2020.
+
+JERRY GEORGE N. SILVA

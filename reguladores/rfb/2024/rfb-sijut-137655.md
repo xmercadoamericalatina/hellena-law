@@ -1,0 +1,31 @@
+---
+titulo: "Solução de Consulta Disit/SRRF06 nº 6049, de 22 de abril de 2024"
+orgao: "Divisão de Tributação da 6ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "6049"
+data: "2024-04-22"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 29/04/2024, seção 1, página 193"
+data_publicacao: "2024-04-29"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/137655/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/137655/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "137655"
+sha256_texto: "694daabd998d001e604955751088666b446b8e9e1864f5d9ff67e0c4e88da40c"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF06 nº 6049, de 22 de abril de 2024
+
+Assunto: Normas Gerais de Direito Tributário  
+PERSE. REDUÇÃO DE ALÍQUOTAS A ZERO. ESTABELECIMENTOS. MATRIZ E FILIAIS. TRANSFERÊNCIA DE ESTABELECIMENTO DE UMA PESSOA JURÍDICA PARA OUTRA.  
+Desde que atendidos os requisitos da legislação de regência, a redução de alíquotas a zero prevista no art. 4º da Lei nº 14.148, de 2021, pode ser aplicada às receitas e aos resultados auferidos pela pessoa jurídica, independentemente do estabelecimento em que ela exerça as respectivas atividades econômicas. Caso isso ocorra, tanto a pessoa jurídica, quanto cada um desses estabelecimentos devem atender aos referidos requisitos, e as receitas e resultados sujeitos ao benefício devem ser segregados das demais receitas e resultados.  
+Desde que atendidos os requisitos da legislação de regência, a existência de estabelecimento que desatende aos requisitos do Perse não impede a aplicação do benefício fiscal previsto no art. 4º da Lei nº 14.148, de 2021, às receitas e os resultados decorrentes do exercício de atividades econômicas em estabelecimento que atende aos referidos requisitos.  
+Na hipótese de transferência da titularidade de um estabelecimento de uma pessoa jurídica para outra, observar-se-á a condição da pessoa jurídica que absorveu o empreendimento, sendo que, caso se trate de atividades listadas nos Anexos II da Portarias ME nº 7.163, de 2021, e nº 11.266, de 2022, e no § 5º do art. 4º da Lei nº 14.148, de 2021, para fins do incentivo de que trata o mencionado art. 4º, esses estabelecimentos já deveriam possuir, em 18 de março de 2022, cadastro regular no Cadastur.  
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 89, DE 17 DE ABRIL DE 2024.  
+Dispositivos Legais: Lei nº 10.406, 10 de janeiro de 2002, arts. 991 e 993 (Código Civil); Lei nº 14.148, de 3 de maio de 2021, arts. 2º e 4º; Medida Provisória nº 1.147, de 20 de dezembro de 2022; Lei nº 14.592, de 30 de maio de 2023; Portaria ME nº 7.163, de 21 de junho de 2021, art. 1º e Anexos I e II; Portaria ME nº 11.266, de 29 de dezembro de 2022, art. 2º e Anexos I e II; Instrução Normativa RFB nº 2.114, de 31 de outubro de 2022.
+
+HELDER GERALDO MIRANDA DE OLIVEIRA  
+Chefe
