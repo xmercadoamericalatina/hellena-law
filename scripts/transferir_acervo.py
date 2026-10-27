@@ -36,6 +36,9 @@ def transfer(src, dest, push=True):
     src, dest = src.resolve(), dest.resolve()
     if src == dest:
         raise ValueError('Origem e destino devem ser distintos')
+    # O runner é temporário e não possui identidade Git pré-configurada.
+    git(dest, 'config', 'user.name', 'XMERCADO HELLENAI')
+    git(dest, 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com')
     if push:
         git(dest, 'pull', '--rebase', 'origin', 'main')
     source_sha = git(src, 'rev-parse', 'HEAD').decode().strip()
