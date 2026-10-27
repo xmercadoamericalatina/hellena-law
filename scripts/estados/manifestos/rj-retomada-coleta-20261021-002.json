@@ -1,0 +1,523 @@
+{
+  "iniciado_em": "2026-10-21T03:27:43.015273-03:00",
+  "finalizado_em": "2026-10-21T04:32:20.342704-03:00",
+  "selecionados": 80,
+  "contagens": {
+    "preexistente_id": 1384,
+    "chave_existente_id_diferente_retido": 2,
+    "ok": 77,
+    "erro": 3
+  },
+  "total_requisicoes": 85,
+  "bloqueio_ou_falha_repetida": true,
+  "indice_paginas_visitadas": 105,
+  "resultado_integral": "estaduais/RJ/_fonte/auditorias/retomada-20261021/lote-002.jsonl",
+  "sha256_resultado_jsonl": "c60a13cb53523766e0c7153f8714bfc4def558a3c1413ec1d43e32fc40666924",
+  "requisicoes": [
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2VjM2U0YTkyZjIxYjMyZTgwMzI1ODkzOTAwNTgzZWY4P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 119403,
+      "sha256": "0e0823d9fedb1e02f2de6b4d4f7154704ef4fd09c06de1f179c6f93e2d0901fd"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzlhOGEyNDNjZjI1ZDZmMDYwMzI1ODkzOTAwNTY1NzAxP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 117818,
+      "sha256": "9dc444796a19fe8be3c4fed2fdfd01c2a0fa1fb4f58a500ab36bd5fc899d740b"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzRjMDBkZDgyOGJmMDdhNWEwMzI1ODkzNTAwNzJjNzgwP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 119882,
+      "sha256": "c28198f5ffbc95c47eb0eff07f88fbe9b361a57a80034fe5565e1cd18cfc1e2b"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzg3YmRlNDM2ZWJiMTViMmQwMzI1ODkzNTAwNzI3ZjQ2P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 119779,
+      "sha256": "fdf6f51fae6342b626298aa164c55d839d9739005344b4ff2dc8a7c30f2744af"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzllNDE0NWU4YmYwZDA4Y2EwMzI1ODkzNTAwNzI0OTViP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 120255,
+      "sha256": "d96d7f748ffaf99b2890c691de1992d0ab0a5b2340a324bc5fa1e652e14d109f"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2VkNmQxMjRkZTQyMmY2NDQwMzI1ODkzNTAwNzIxMjQ3P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118463,
+      "sha256": "d6150654b5ea24988f4a17d7a871845046c1322b1755138846fcb21b5a7b2618"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2M1Njc2NDQzZDg0Y2Q1MjMwMzI1ODkzNTAwNzFjYzAxP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 119055,
+      "sha256": "75d362e9367ff0bcf8ebdb7118dd401b9a957a6ebefd5ecfbf0535ef88de2e68"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzg4YTljZTkyMWY2MDFjYWMwMzI1ODkzNTAwNmVkMGU5P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 120543,
+      "sha256": "41e21b6569d12a8a21583cc625e26131de2b253b06d0ff368f081821a6e976ae"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzRhZDc2NDQwOWViNTc5Y2QwMzI1ODkzNTAwNmU3OTJjP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118114,
+      "sha256": "d4ad5a9004d96852d8c9b7656e700c2b787c3b36359b5d3e875eb4512afb33d0"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2I1ZGQ2N2NmMjZjOWI5OTcwMzI1ODkzNTAwNmNkN2M3P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118435,
+      "sha256": "2f5fde4b8d9a44948858a0c85cb9d8dc4802f4fff07031f14fa0bed83f27f2ac"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzk0MWY5NWYyMmZkNzdmYzMwMzI1ODkzNTAwNmM5NDA0P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 119355,
+      "sha256": "73aa187815e379b3bc2583c76d4083fc8bdadcd56bc27501837de602feb91351"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2ExNWUzN2VlYjVlMGRjZTgwMzI1ODkzNTAwNjk2OTlhP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118147,
+      "sha256": "bf4be9539c6c4d67c702be50dc58642ecd31a890622c85de6585de9abbf6ac0d"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2MyYWM1ZTdlZTU2MDk5YzkwMzI1ODkzNTAwNjhmNDVjP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 120140,
+      "sha256": "959e9d4a7e082e654d6b03cabe0e689e39afd1d978f685888b4ac17620f85acd"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzZjMWY2YmU4YWUyZjY0Y2QwMzI1ODkzNTAwNjhhMWQyP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 148417,
+      "sha256": "d11882da87050f0dafc4d15b93ad4f6ce9bd1170107cf233a9608bd4287cf612"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzBhZWUyOWIxM2Q1NzI5MTMwMzI1ODkzNTAwNjdmNzJmP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 117850,
+      "sha256": "9cf1ad8efd3f6382bfa9172957ebd4ad13f9928267b2232c1b0465fab52b42b5"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL0xlaU9yZEludD9PcGVuRm9ybSZTdGFydD0xNDAx",
+      "http": 200,
+      "bytes": 119410,
+      "sha256": "f0d0a2df4c5bbf2c06e635b60977effb733007e0a550b4fb443c38315987fff6"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzU2YTlhMGI4YTJhZmIwMTkwMzI1ODkyZTAwNjU5MmQ5P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 117219,
+      "sha256": "8f5225e1211f273ef2017b1a85e89372169cd34cf7e011c3c7e18720d2503a54"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzA0MTUwNWI2OTUwNjdkOTYwMzI1ODkyZTAwNjNlYjQ2P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118045,
+      "sha256": "a18897c5ea89e3362313b5219d510f23abed31bfd9b1b38edd7ec6d897b0f6d2"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzdhMTNmNWRkN2RhNGQ4ZjQwMzI1ODkyZTAwNjM5NTA1P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 124161,
+      "sha256": "b1feea2e0e378674be3e0ffe28a310f9bffdfac16991fcd6b3f9701a62161795"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzA5MWJkYTA4MmEzNWFmNjEwMzI1ODkyZTAwNjMzZjk3P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118234,
+      "sha256": "5081b119d31d6a27e5598cd079713741324c697f2a8a61755b715bd961ef72e6"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzJhZGRlZTgwYTE0ZTdmMmQwMzI1ODkyZTAwNjJlZTkxP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 117242,
+      "sha256": "0f1fe060e86d1b41e12592ae7131914a0ef6e3f01891505df8be117839d0cfb1"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzkxZjhiOGYxMzRhYTNkMzkwMzI1ODkyZTAwNjI4ODBhP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 119567,
+      "sha256": "353c8d86007df25c8bfe4ab169185a97bf87fae127e4ca7ebdb4189a0547c245"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2Q1MDVjN2I0ZjYwNWFjOTQwMzI1ODkyZTAwNjIzODlhP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 136326,
+      "sha256": "3fda74821e3c8971ad0d3fc50997ae79bef39fb3fea5c5d22ebe71227e839dc1"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzcyNWVkYmI3ZjA3MGM1ODAwMzI1ODkyZTAwNjE5ZDMwP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 126172,
+      "sha256": "edbcb95fdb3107a7b47a53bd48ef7e7868f0614f3e7683988642b8b2f9405f16"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2JiNDY0MTk1ODYwNzAwNDQwMzI1ODkyODAwNTM1Y2JhP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 127370,
+      "sha256": "82be86b00069cee5d09e376465d296b1780a12355c48a735365e77ab6bf74930"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzMwODdiMWEyYmU2Y2MzMWYwMzI1ODkyODAwNTMxOGJjP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 121715,
+      "sha256": "de4eb5e7295fdd679b238321b56448b9e860a9a95a0ac6dd0d8e533cd3f6427b"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzM1MzMwODBkNTk0ZmQ2NjUwMzI1ODkyODAwNTJkODJkP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118887,
+      "sha256": "a590b9b8e6544ad55ed480793498aea97a2e252b048bffc54f44cfaab0b60318"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2QyMWY3YWNhM2RkYTYyYWIwMzI1ODkyODAwNTI5NTBkP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118261,
+      "sha256": "c8be52c7a3335b88e63728d64205167caf3d93afe59e2ceacf16e749a16e9913"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzdhNmM0OWI0YTM2ODdmZjUwMzI1ODhjYTAwNWFjNjA5P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 120391,
+      "sha256": "9fa21442ca1fa4b6673276cd47b31a0d2f9b29bd225db2bf871febbc4473b09f"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2RhMDhhMzQzZDJmMDE1MDAwMzI1ODkyNDAwNzQyYjY3P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 117958,
+      "sha256": "666715f3a61509c7ca59d0ec238a667e49bfc7af7437f9d271a066b13203d01c"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL0xlaU9yZEludD9PcGVuRm9ybSZTdGFydD0xNDE1",
+      "http": 200,
+      "bytes": 119686,
+      "sha256": "c8236e8795041601f6320693e31c16d15046026d5510ae13b9e92b1b8a7ee832"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2RjYzY3NjBiMDViYTlmNDkwMzI1ODkyNDAwNzM5ODMxP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118580,
+      "sha256": "ef9ea6137502d76fc906181c1adfb28104f01918fcea3154a99f75f9b758625d"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzI1NzMwNzViZjNkMTE5ZjIwMzI1ODkyNDAwNzM1NDA3P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 124666,
+      "sha256": "724ded20122eb2e857be8b11cb2bf820fcead4b19f1c984ec06e332d9a16a055"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzA1ODkwMmE1MGRjMTRmNzgwMzI1ODkyNDAwNzJmNzYwP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 121706,
+      "sha256": "683cbb8f1f9f170f9f3e96947cff8aece112e697ce86102cd39b9d6cb20791a3"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzk5ODBmNTcxYzUxYjU1ZGEwMzI1ODkyNDAwNzJhN2I4P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 128822,
+      "sha256": "21ffdb0bbe38665f3c93d32e5218292506c22933fa6df29e4114983e472f5746"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzY3NmFlMmEyZjkwY2U0Y2YwMzI1ODkxZjAwNWZiMDNkP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118007,
+      "sha256": "f22b86b8f51bd3d06eb777d21104e9a3dd45850c02cfb13c42154ef391882d62"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2U3Yzc5NjBkZjFiNjg4OTEwMzI1ODkxYTAwN2ZkZTJhP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118490,
+      "sha256": "7f1596b847e3588da4b7ab51915b9ecb8825dc679fe0fecf037d410b755fc47e"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzNiY2I3NTgzMDc5ZmQ5YTkwMzI1ODkxYTAwN2Y5ZjIyP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118923,
+      "sha256": "d3f6bf81b9372a26f0e32cb99bdab84d812a924aa9973f7082432c6311f24160"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzNmYTRlYjU4OTVhMzVmNWIwMzI1ODkxYTAwN2Y0N2Q5P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 119569,
+      "sha256": "fb5a55ce912bd67a5abdfab28c0ceaec5d41f44a4ce20322e1f61afcf57d773e"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzU3NzQ2MWY4ZTViNDY4NzUwMzI1ODkxYTAwN2VjZjg5P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118474,
+      "sha256": "e80fd97166136c7e54a7f1c27286d815fdfed7fa29090f18169346e7e86834ee"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2JiYTExYjdiMTRhMTk3YzgwMzI1ODkxYTAwN2U2YjcwP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118589,
+      "sha256": "cd4cfa35bc1be3eb5224bd1672f5d75d2a94589a77474d5bf6dea7ed8276fa82"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2U2NDI1Njk4ZWEwN2ViY2UwMzI1ODkxYTAwN2RkYjVjP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118158,
+      "sha256": "9da4fdd0e3dc38d5b66d823718bd1604277e81f771a110eeb4540100ad608843"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzZlMWQ2YzMzNThiZTg5YTIwMzI1ODkxYTAwN2Q2NDc2P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 119168,
+      "sha256": "49ace6d9e94f5b883aeeeb142cded88f22a85c5f1c92c3354f29d7c925a3dce6"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzM4ZjY0MmJlNTkyZGZjN2QwMzI1ODkxYTAwN2NmM2Y2P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 120104,
+      "sha256": "5eaf6f95fe8ce89a6cdced74e0e774789b2875edbc1d9a12d5ad98d04078595a"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzFiOTE2MWE2YTZhMDhkNGIwMzI1ODkxYTAwN2NiMzdmP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 119320,
+      "sha256": "10ff93b53b0653bf7fb7a5a44e427415fa816c7a4c3e910be13a980e94e5fd7d"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL0xlaU9yZEludD9PcGVuRm9ybSZTdGFydD0xNDI5",
+      "http": 200,
+      "bytes": 119620,
+      "sha256": "43c1309281087432b779bbd80c2c67bf81de3368a6bfb9c728198cdcb12f0111"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzc1ZGVjN2UwNzQwMmQyYjIwMzI1ODkxYTAwN2MzM2MyP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118094,
+      "sha256": "4fd4289ab8369f10ba2cf3ed0872a1e9e3849582c54f8231d5ce311dcf834f74"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzQ2YmUxZDczODg0YjE2YTAwMzI1ODkxYTAwN2JkM2E2P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 119506,
+      "sha256": "901662ba1a74b130feb9b7b53e069dfc354702b02c2a52ebc40ba8b109835348"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzMzYmY1MGMyYTNhMWZlZjQwMzI1ODkxYTAwN2I3ZmViP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118511,
+      "sha256": "32ec6102e60ce33454e2386c7bc435c1f0ec21ad057ec89e5315ed8a648853d6"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzE0MGRkMTdmNzgxNWY5MTcwMzI1ODkxYTAwNzhjZWMwP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 117881,
+      "sha256": "667f35efa1c79946f931fc0ddd9ebcc1615d8ae7dc684747d84a9bc5156c3eca"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzAyM2I5Y2Q3ZjQzMjVjNjcwMzI1ODkxOTAwNmI2MjkyP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 119732,
+      "sha256": "47486b32019b258cb5e45f02bb0ebab80e8c955f7bfb7c9f2158a73084cac7bc"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzYwNDQ2M2M5N2VmZDRmYmYwMzI1ODkxOTAwNmIwNzQ2P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 117440,
+      "sha256": "dc62c64db1d5d5f7b8d2ea2e2516852d35ba7933018464ac6170605f85f538cc"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzk1YTQyYjNhOGVmNGE4YjcwMzI1ODkxOTAwNmFjNDk2P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 117330,
+      "sha256": "e5fb12eaddd7457818c6a2906d7abcb37f1f32556532ea9a813e80e6428e2a48"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzkzODEyNmQ3YmU1MmRiOTEwMzI1ODkxOTAwNmE4ODI3P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 117480,
+      "sha256": "6bcf52235991b6abe6689541319537d793b3c8e19888ed6ae9196bfa73d46da2"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzU4ODliMDRjZGNkMjkwNTUwMzI1ODkxOTAwNmE0MmMzP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 117526,
+      "sha256": "f3fb57ec884c67bc3b8fc41b7b119bc1eee81e971092a0ec28593ff220b66484"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzhlOWFhMmVmNzlmZTBhMzkwMzI1ODkxOTAwNjlmZjY3P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118498,
+      "sha256": "59f97d576c008e3f3b31debc1558431dc827e10958df922c29b65ed58e0309ae"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzMyMzhlM2RkYTk4MzM1MjkwMzI1ODkxOTAwNjhlMDIwP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 120217,
+      "sha256": "4b2a1fe42d0cd6ee6e4173d6c2dcedf3e6cf0366b7a60002869a7848ff99bda1"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2Y0MDQ0NjlmNDM1ZWZlZjkwMzI1ODkxNzAwMDUyYjViP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118587,
+      "sha256": "ff085eedd981c7f60ba5caf9ff127ac6fe74c4b946e08ea38a68d57e156a8ed1"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzRiODVjYzNkY2Y2YzRhZjYwMzI1ODkxNzAwMDRkZGUyP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 127133,
+      "sha256": "7da3a178812ffb2173dcbf2d5fd07cacd4136b2f0c676fa82b79d7bd55db6419"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2FjZTQxYzQ1NjliMWRjMzcwMzI1ODkxNzAwMDU5OTgzP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 120355,
+      "sha256": "bd01198e2d9eefc095b5367c62cae9b96e37cd3cb2cc08566fbd682603de6f62"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL0xlaU9yZEludD9PcGVuRm9ybSZTdGFydD0xNDQz",
+      "http": 200,
+      "bytes": 119998,
+      "sha256": "721e3550d97bd14863e467e06db12112bd199c645f5cc014cf0bf9a165901f47"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzY2MjgzNzczODgxMWM4NDIwMzI1ODkxMDAwNmYwZDc2P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118385,
+      "sha256": "6da94d40b3834c8590ee7554f5647b8ace68cc8dd1aa86d8ee23124f088b045d"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2MxOGFiMDhkNmZiNDFiZTUwMzI1ODkxMDAwNmVkMWYzP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118090,
+      "sha256": "bd5b0bcbbcf0777f854dda579479c68defcbf9b639bf653c79a5bc5ff8d18cb1"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2MzZTUwY2VhNjE0NThiMDkwMzI1ODkxMDAwNmU5MmI5P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 120607,
+      "sha256": "a3e74262d5aa27ec13222debfe534de45b6ba3df0d7a9fe9e10b2fd1d2a247e7"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzgwM2RjZDYxYzlmNTljYzEwMzI1ODkxMDAwNmU0NTFiP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 132637,
+      "sha256": "48dd2c7c5d8866357d2204720dd1f3daa63ddec01c5695b3c0c01b8c1144a680"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzJlOWJkNzZhMGUwMDFlNTMwMzI1ODkwYjAwNmI1NzAxP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 120221,
+      "sha256": "396a3e79f694395cb0183fb8f6062bc4b7183ddbdf8ab5e7fbd0f1e2db5a43ff"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzIwNjA0ZDhkYzNjNDA5ZTkwMzI1ODkwYjAwNmIxNzkyP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 121681,
+      "sha256": "804dbb969bd762afadfd43e4be7a358014f7703f34b6e0b83bddc97ad3c2e910"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzkxN2U3NzhhNzBlYThmMzMwMzI1ODkwYjAwNmFhZjUzP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118267,
+      "sha256": "8841a29b98be9bd63211ee221498dc448b95798b3aa822807d70e77a136aa0e7"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2IwZGE1N2NjYWQ0MTJiNjQwMzI1ODkwYjAwNjkxYTMzP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118920,
+      "sha256": "8cc9356008df9ac724155ec473e8a04653fb1086ff188cd1c891abaa6736dced"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2FjMzliNzdjNDA0ZGRkYmIwMzI1ODkwYjAwNjJlYTc0P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 120602,
+      "sha256": "3f7a13042345cddc583ee591a5baaade8dffd03d34ddee9542200a8fe2cb3ae5"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzQ4MGQ5NGI1ZDI2ZmYwODQwMzI1ODkwYjAwNjIwYmM1P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 119148,
+      "sha256": "fedee3b320b0b938dafbe70306b723f55b666887d575ffd77a9cfd9413147dbe"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzNkMjBiOWViNzFiNDZjNTAwMzI1ODkwYjAwNjE5NjFhP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118313,
+      "sha256": "e826d5c3ba4d0a67638938004b63e6bb0c2a39436f257f29213f6b377f9330f3"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzMwNjJmM2NiZDYxMmJlMmYwMzI1ODkwYjAwNjE0YjYwP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118428,
+      "sha256": "276624addc34e6a318b767420a8d786a6db97f5ccb1427ddf01587d98929aaca"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzcwYTExNmU4YmMxYmQ5MGMwMzI1ODhmNzAwNWIwMWFiP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 119473,
+      "sha256": "f380207118ac4e8cb771998a99fa2c194b3fed2bdcb0d586cf73e100378f6d3d"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzlkYmE1ZjRmMjJiYWE4ZDMwMzI1ODhmNzAwNWFjODQ2P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 119323,
+      "sha256": "9743cc8018c2196abfa8052e65c23570b5a520f28a484eddff4f01c687fa891c"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL0xlaU9yZEludD9PcGVuRm9ybSZTdGFydD0xNDU3",
+      "http": 200,
+      "bytes": 119461,
+      "sha256": "49e14756c3294cb3cbe75c97bd46589511b8e17e4008c434853655d532eecb86"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2FkOWI3YWJhNzI4NjViNjIwMzI1ODhmNzAwNWE3NGY3P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 130399,
+      "sha256": "c2db4be16377b14cb7ca22135b55eb1f980118a995355873f11b72c7baabd020"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2I2ODM1NDY2YmNiM2UyMzgwMzI1ODhmNDAwNjU2ZDVmP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 124684,
+      "sha256": "796272d163ee9d1a6a09b4220dbf5933df5dea22d707149c55400bf99919bd6e"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2RiMmYwY2NhYmUwNDY4ZWIwMzI1ODhmNDAwNjM5NWU2P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 117426,
+      "sha256": "d531ce990d39c97361350869d693b03105e9d63e1462cbf9f0f49c4b43dade16"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2QyNmU2NmQ1ZDgzZDc3NjIwMzI1ODhlYzAwNjJiZmRjP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 118426,
+      "sha256": "4f59a2ff274b8616105a30a531e826fa21bb327365e7e726ce1c29f150dbf93e"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2VlNTI1NGYxZDBkM2FmZGMwMzI1ODhlYzAwNjI4YjM2P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 119016,
+      "sha256": "d61bac6b30bde7a7a23aa871d0d6951262906ba8e2046a3ae43d832917648d99"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzljOWMwOWZmMjNmYmNjNWIwMzI1ODhlYzAwNjI0ZTUyP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 200,
+      "bytes": 119364,
+      "sha256": "b55042e1e4e426fec33d3517e0c03c3eeba064fb0fbf718186603c27f77451bc"
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzM2MzZhYmMxZGE5NTE0NDQwMzI1ODhlYzAwNjIwOGYwP09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 500
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzkwMjk2OTY5NzNjMWZmZGYwMzI1ODhlYzAwNjFjNTY3P09wZW5Eb2N1bWVudA%3D%3D",
+      "http": 500
+    },
+    {
+      "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2NiZDJlMGQ3N2MxMzViOTYwMzI1ODhlNzAwNzJjYzhkP09wZW5Eb2N1bWVudA%3D%3D",
+      "erro": "The read operation timed out"
+    }
+  ],
+  "criterio": "Uma requisição por vez, mínimo 1,05s entre inícios; sem repetir IDs/chaves preexistentes; parada em 401/403/429 ou três falhas de rede seguidas. Coleta não equivale à publicação: todos os novos textos passam por auditoria posterior."
+}

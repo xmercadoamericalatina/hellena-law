@@ -1,0 +1,13 @@
+{
+  "iniciado_em": "2026-10-21T04:38:08.248818-03:00",
+  "url": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzM2MzZhYmMxZGE5NTE0NDQwMzI1ODhlYzAwNjIwOGYwP09wZW5Eb2N1bWVudA%3D%3D",
+  "criterio": "Uma checagem serial na mesma URL oficial que devolveu500, mais de5min após parada. Não usar host/rota alternativa, proxy ou repetir recusas401/403/429. HTTP200 pode autorizar retomada serial; demais status retêm rede.",
+  "http": 500,
+  "erro": "HTTP Error 500: Internal Server Error",
+  "cache": "estaduais/RJ/_fonte/auditorias/disponibilidade-20261021-002/dc211338f91b451865bf088b201b1928386afa4a388d940a26fe310ad238390d.html.gz",
+  "sha256_resposta": "dc211338f91b451865bf088b201b1928386afa4a388d940a26fe310ad238390d",
+  "sha256_cache": "34c3a65d1d9a10e4e1f5deda1ddf23ba26faecebe55b813a559d5b05f54d198a",
+  "bytes": 103044,
+  "finalizado_em": "2026-10-21T04:38:39.583451-03:00",
+  "retomada_permitida": false
+}

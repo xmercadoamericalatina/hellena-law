@@ -1,0 +1,109 @@
+{
+  "auditado_em": "2026-10-21T04:03:36.370552-03:00",
+  "total": 2010,
+  "total_RJ": 1100,
+  "total_PE": 910,
+  "total_falhas": 0,
+  "comando": "PYTHONPATH=/tmp/constituicao-markdown-qa-20261020:scripts:scripts/estados /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -u scripts/estados/reexecutar_commonmark_estadual.py --manifesto scripts/estados/manifestos/rj-cache-publicacao-20261020-002.json --manifesto scripts/estados/manifestos/pe-lacunas-publicacao-20261021-001.json --saida /tmp/rj-pe-commonmark-replay-20261021-ROOT.jsonl",
+  "dependencia_runtime": "markdown-it-py==4.0.0; mdurl==0.1.2; instalação isolada /tmp/constituicao-markdown-qa-20261020",
+  "criterio": "Replay somente leitura de 2.010 MD e fontes completas, SHA MD/cache/fonte/campo antes da comparação CommonMark com HTML. PE usa contadores efetivos ol/start/li sem inferir números da fonte, RJ usa snapshot literal do auditor original. Normalização só whitespace e headings editoriais com adjacência literal comprovada. Sinais, números e pontuação preservados. Recibos suplementares de tabelas/imagens/CSS/íntegra estão nos manifestos de origem e não são substituídos pelo replay. Nenhum pacote ou normativo modificado.",
+  "manifestos": {
+    "scripts/estados/manifestos/rj-cache-publicacao-20261020-002.json": "428f969fb60169e98b46110ef9e3e214a39850dcfc884e757d1717ebd5d1e010",
+    "scripts/estados/manifestos/pe-lacunas-publicacao-20261021-001.json": "cbcfd584c92cdde565e1462c23fdc71b88fcaf53c759d52706be2084b694d7f6"
+  },
+  "codigo": [
+    {
+      "path": "scripts/estados/reexecutar_commonmark_estadual.py",
+      "sha256": "2d639ff4a689edd51236daf66da5b913fcd5c21b2ea3574797916371f8f9ac04",
+      "snapshot": "estaduais/PE/_fonte/auditorias/replay-rj-pe-20261021-001/codigo/scripts/estados/reexecutar_commonmark_estadual.py.gz",
+      "sha256_snapshot": "0270ec8d5652788eac78f5ac45f89612386aaee3f5a66eee94912f91100bc03d"
+    },
+    {
+      "path": "scripts/estados/snapshots/auditar_rj_cache_20261021_001.py",
+      "sha256": "0052ed5fdac884d7729c251082c4eba5301078546dc9c40ed73241fdb8fd2ce5",
+      "snapshot": "estaduais/PE/_fonte/auditorias/replay-rj-pe-20261021-001/codigo/scripts/estados/snapshots/auditar_rj_cache_20261021_001.py.gz",
+      "sha256_snapshot": "cfdd3fcf9cf16d5d0d826a98c57d1d326f92e3aa96e683ce5785f3794091521d"
+    },
+    {
+      "path": "scripts/estados/auditar_pe_commonmark_contexto.py",
+      "sha256": "0e364081ac0098d6495097d409137a441328b38b745829fb4c2c6677044172eb",
+      "snapshot": "estaduais/PE/_fonte/auditorias/replay-rj-pe-20261021-001/codigo/scripts/estados/auditar_pe_commonmark_contexto.py.gz",
+      "sha256_snapshot": "e102bc812641ed8498b6eaa3df8e9f1033e5fa057afbf6382818b92ab13f2c3b"
+    },
+    {
+      "path": "scripts/estados/pe_fidelidade_visivel.py",
+      "sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+      "snapshot": "estaduais/PE/_fonte/auditorias/replay-rj-pe-20261021-001/codigo/scripts/estados/pe_fidelidade_visivel.py.gz",
+      "sha256_snapshot": "56505f3d8bd14f3ce58e49bef35d557ab0c5c8363d58499fecc46387133fc7f4"
+    },
+    {
+      "path": "scripts/estados/auditar_pe_cache.py",
+      "sha256": "6b01a14236cddf0fd7d2a744a4bafc97e251a25282c7be5ba49e075d4b6486bc",
+      "snapshot": "estaduais/PE/_fonte/auditorias/replay-rj-pe-20261021-001/codigo/scripts/estados/auditar_pe_cache.py.gz",
+      "sha256_snapshot": "7ccbba72fe95c6ad5783e5a4187ba3699ea0d2403a85db2cc7cbc5012838503e"
+    },
+    {
+      "path": "scripts/estados/pe.py",
+      "sha256": "db315fa2e5dd55066d2398777aaa80bf1325e658d05eefc483a17a3670d52204",
+      "snapshot": "estaduais/PE/_fonte/auditorias/replay-rj-pe-20261021-001/codigo/scripts/estados/pe.py.gz",
+      "sha256_snapshot": "98c9f2246bf7c0be3baa250db32335513731ff0255b6c9777b0cddfc398b0033"
+    },
+    {
+      "path": "scripts/estados/rj.py",
+      "sha256": "5fb3c7696d56bd198ce0557652a127cc51fbf581d324f7f1020bab98fa3de2bc",
+      "snapshot": "estaduais/PE/_fonte/auditorias/replay-rj-pe-20261021-001/codigo/scripts/estados/rj.py.gz",
+      "sha256_snapshot": "abc86bc4f6154e14725ce81995662e117be5ef3e5ae4bfe29d12bea5a9b43341"
+    },
+    {
+      "path": "scripts/comum.py",
+      "sha256": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+      "snapshot": "estaduais/PE/_fonte/auditorias/replay-rj-pe-20261021-001/codigo/scripts/comum.py.gz",
+      "sha256_snapshot": "5c81bd81fb87063f232d8dca64e270157d3bfbcb914286b03da6859c592a0135"
+    },
+    {
+      "path": "scripts/html2md.py",
+      "sha256": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6",
+      "snapshot": "estaduais/PE/_fonte/auditorias/replay-rj-pe-20261021-001/codigo/scripts/html2md.py.gz",
+      "sha256_snapshot": "3c4b8da2edd2a74dea27d9cd789e38d992fc173736976eea7bf7e3cb42ef3a29"
+    },
+    {
+      "path": "scripts/datas.py",
+      "sha256": "0d6cdbc1113d5fe15a471aa8cde3eb1653d1e1484b0904a5a13b9ca10e1349fc",
+      "snapshot": "estaduais/PE/_fonte/auditorias/replay-rj-pe-20261021-001/codigo/scripts/datas.py.gz",
+      "sha256_snapshot": "bcd7b158795a74a65ae85f5f84757b178c7ad8b8820e0fc08910c7661b4efb1c"
+    },
+    {
+      "path": "scripts/estados/integridade_texto.py",
+      "sha256": "d882d0ca69b76c61b594561598634994ca25b350f67054eb08e8eecf97170a82",
+      "snapshot": "estaduais/PE/_fonte/auditorias/replay-rj-pe-20261021-001/codigo/scripts/estados/integridade_texto.py.gz",
+      "sha256_snapshot": "f9c7a701362e5384e9f378040aa0a581835baee2a2b25373f70acd1a7a6ed38c"
+    },
+    {
+      "path": "scripts/estados/avisos_fonte.py",
+      "sha256": "913429d61b37e338f9b292b54e0f9d81e9f9adae0e8d386f5b22ea8f128479cd",
+      "snapshot": "estaduais/PE/_fonte/auditorias/replay-rj-pe-20261021-001/codigo/scripts/estados/avisos_fonte.py.gz",
+      "sha256_snapshot": "f34eae2454c33b4ed3dc70502b86c958da506fdd2d6bb7b7479b13c4459768a9"
+    },
+    {
+      "path": "scripts/estados/anexos_fonte.py",
+      "sha256": "211524a336cfa09226baf8f810562aa394f3cd0d6715b909a53fce65042d6661",
+      "snapshot": "estaduais/PE/_fonte/auditorias/replay-rj-pe-20261021-001/codigo/scripts/estados/anexos_fonte.py.gz",
+      "sha256_snapshot": "101eab40de76397a5bb2365d0f52c7b37ebbe1fb8854dde0c7d06768d1d73fae"
+    },
+    {
+      "path": "scripts/estados/visuais_fonte.py",
+      "sha256": "7af530e7269f5258aed286228c95997e0a9a87f81f0bc75ec52f4442ba3d9f6c",
+      "snapshot": "estaduais/PE/_fonte/auditorias/replay-rj-pe-20261021-001/codigo/scripts/estados/visuais_fonte.py.gz",
+      "sha256_snapshot": "4c28b802f25b1ebff8a75947851c632ffadedceb9f0c44e6fe84530da51e82ed"
+    },
+    {
+      "path": "scripts/estados/tabelas_estrutura.py",
+      "sha256": "d0dde502c2794626bb9848673f23b2992d1722653c15bbf3768737408f9b6df7",
+      "snapshot": "estaduais/PE/_fonte/auditorias/replay-rj-pe-20261021-001/codigo/scripts/estados/tabelas_estrutura.py.gz",
+      "sha256_snapshot": "47d3b7b88fdd22ee6f5b90c572ba7cca988dc18d9efc3482266750f2d930f671"
+    }
+  ],
+  "sha256_replay": "0f77d224c08e521caa16b743cc11f52db7679c1501812c8f93e67e25ee988173",
+  "replay_snapshot": "estaduais/PE/_fonte/auditorias/replay-rj-pe-20261021-001/replay.jsonl.gz",
+  "sha256_replay_snapshot": "dce477053c65fd1c1bb46c32a7b208f107aa1f7946ade4a91d946ee61a0284b1"
+}

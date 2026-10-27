@@ -1,0 +1,78 @@
+{
+  "auditado_em": "2026-10-21T04:18:40.436386-03:00",
+  "manifesto_original": "scripts/estados/manifestos/rj-cache-publicacao-20261020-002.json",
+  "sha256_manifesto_original": "428f969fb60169e98b46110ef9e3e214a39850dcfc884e757d1717ebd5d1e010",
+  "pacotes_congelados_modificados": 0,
+  "total_reavaliado": 2010,
+  "total_RJ": 1100,
+  "total_PE": 910,
+  "total_retidos": 2,
+  "total_falso_positivo": 1,
+  "criterio": "Suplemento conservador de remissão própria a anexo mesmo quando existe tabela genérica; distingue citação de anexo em outra norma. Não muda MD/fonte/manifests anteriores.",
+  "documentos": [
+    {
+      "path": "estaduais/RJ/leis-ordinarias/2026/lei-11243-2026-1a62959a64.md",
+      "sha256_md": "90736c1390cde04f91dd9e075c45443ff69709db71881f0d689e78b843eb5ee4",
+      "HEAD_commit": "bde0c6a6bb351783f68db165729899e9def54883",
+      "presente_HEAD": false,
+      "sha256_HEAD": null,
+      "id_oficial": "1a62959a64886d0703258e270069401c",
+      "fonte": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzFhNjI5NTlhNjQ4ODZkMDcwMzI1OGUyNzAwNjk0MDFjP09wZW5Eb2N1bWVudA%3D%3D",
+      "fonte_original": "http://alerjln1.alerj.rj.gov.br/contlei.nsf/c8aa0900025feef6032564ec0060dfff/1a62959a64886d0703258e270069401c?OpenDocument",
+      "cache": "estaduais/RJ/_fonte/leis-ordinarias/2026/lei-11243-2026-1a62959a64.html.gz",
+      "sha256_cache": "1c628f71de31694fe64109b9899323e889d37749e48632a9a45be56f12856b67",
+      "sha256_fonte": "6819bed6069f7fa212ea6045d40eca33e7a2f74061305a1497e2cb928acd5216",
+      "sha256_campo": "314ad2e873381d3c290d07d9b838bbd5bac6ffc188cae4af0b3098d2ab07b9c1",
+      "trechos": [
+        "MS n.º 21, de 27 de janeiro de 2026, prorroga as disposições contidas nos convênios relacionados no Anexo Único desta Lei, inclusive aqueles referentes aos benefícios fiscais aplicáveis aos profissionais taxistas e autorizatários, observadas as condições e limites previstos na legislação pertinente."
+      ],
+      "retido": true,
+      "classificacao": "Ausência confirmada de representação do anexo no corpo/campo e captura preservados; pendência de recuperação em fonte suplementar. Não afirmar inexistência do anexo na legislação oficial.",
+      "motivacao": "Referência literal a Anexo Único desta Lei, sem título/conteúdo anexo após dispositivos e assinatura, nem link de arquivo na captura."
+    },
+    {
+      "path": "estaduais/RJ/leis-ordinarias/2023/lei-10237-2023-ac233aed36.md",
+      "sha256_md": "93c19ca1ba916a61c59e10910c3e3a322dc04553658c296d261ca2b90d39c06f",
+      "HEAD_commit": "bde0c6a6bb351783f68db165729899e9def54883",
+      "presente_HEAD": false,
+      "sha256_HEAD": null,
+      "id_oficial": "ac233aed36f57e6e03258a92005a86ae",
+      "fonte": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmL2FjMjMzYWVkMzZmNTdlNmUwMzI1OGE5MjAwNWE4NmFlP09wZW5Eb2N1bWVudA%3D%3D",
+      "fonte_original": "http://alerjln1.alerj.rj.gov.br/contlei.nsf/c8aa0900025feef6032564ec0060dfff/ac233aed36f57e6e03258a92005a86ae?OpenDocument",
+      "cache": "estaduais/RJ/_fonte/leis-ordinarias/2023/lei-10237-2023-ac233aed36.html.gz",
+      "sha256_cache": "338d246a9e89cc88fbb658702d6bafa7f888c1e52503720f2026fc557e27ef0a",
+      "sha256_fonte": "ddbd5aca95daa013fd43f620d797e45153ea9cfd945b2cfca30274182adcced7",
+      "sha256_campo": "219301ea468d03f76b6b2fe837ef1fe79fa377a58ef57b32791accb6b2d2d457",
+      "trechos": [
+        " Minas Gerais, Rio de Janeiro, Paraná, Rio Grande do Sul, Santa Catarina e Espírito Santo, conforme Anexo único desta Lei, para criação de consórcio público, sob a forma de associação pública, de natureza autárquica e interfederativa, com personalidade jurídica de direito público, denominado Consórcio de Integração dos Estados do Sul e Sudeste do Brasil",
+        "**Art. 2º** Ficam criados os empregos públicos constantes no Anexo do Protocolo de Intenções, para exercício exclusivo no COSUD, a serem preenchidos conforme disposto no referido documento."
+      ],
+      "retido": true,
+      "classificacao": "Ausência confirmada de representação do anexo no corpo/campo e captura preservados; pendência de recuperação em fonte suplementar. Não afirmar inexistência do anexo na legislação oficial.",
+      "motivacao": "Referência literal a Anexo Único desta Lei, sem título/conteúdo anexo após dispositivos e assinatura, nem link de arquivo na captura."
+    },
+    {
+      "path": "estaduais/RJ/leis-ordinarias/2025/lei-10688-2025-762e2beaf8.md",
+      "sha256_md": "0b2dadcc3c910d2c6b6092608a766760f2b587faff3e4440670d056243db3d00",
+      "HEAD_commit": "bde0c6a6bb351783f68db165729899e9def54883",
+      "presente_HEAD": false,
+      "sha256_HEAD": null,
+      "id_oficial": "762e2beaf8af172903258c54006f573a",
+      "fonte": "https://www3.alerj.rj.gov.br/lotus_notes/default.asp?id=53&url=L2NvbnRsZWkubnNmL2M4YWEwOTAwMDI1ZmVlZjYwMzI1NjRlYzAwNjBkZmZmLzc2MmUyYmVhZjhhZjE3MjkwMzI1OGM1NDAwNmY1NzNhP09wZW5Eb2N1bWVudA%3D%3D",
+      "fonte_original": "http://alerjln1.alerj.rj.gov.br/contlei.nsf/c8aa0900025feef6032564ec0060dfff/762e2beaf8af172903258c54006f573a?OpenDocument",
+      "cache": "estaduais/RJ/_fonte/leis-ordinarias/2025/lei-10688-2025-762e2beaf8.html.gz",
+      "sha256_cache": "fbfc11a151d75a2cb8ae90c05dc5136c7beb767e9401599e8a47fb02f8cbc49e",
+      "sha256_fonte": "2022a59dd96a3755b652c6f876e9cc02b37c3cb8022297bb319df3e8152f516d",
+      "sha256_campo": "34c88aba146f6e930b3bc919f8c31ac448881a69e22d8fab4f271d4cd2602908",
+      "trechos": [
+        "22. Ficam sujeitas ao regime de substituição tributária as operações com as mercadorias listadas no Anexo Único.* *Parágrafo único. No que se refere às mercadorias listadas nos números 03, 39, 40 e 72 do Anexo Único desta Lei:* *I – fica suspensa a aplicação do regime de substituição tributária nas operações de saída interna de água mineral ou potável e",
+        "ebidas destiladas ou fermentadas; e* *II – no que se refere às mercadorias listadas no número 65 do Anexo Único desta Lei fica suspensa a aplicação do regime de substituição tributária nas operações de saída interna de sorvete de qualquer espécie, inclusive sanduíche de sorvete e acessórios. (NR)”* Art. 2º** O artigo 2º da Lei n.º 9.428, de 30 de setemb",
+        "***“Art. 2º No regulamento do ICMS – RICMS –, Decreto n.º 27.427, de 17 de novembro de 2000, Anexo I, que lista as mercadorias sujeitas ao regime de substituição tributária nas operações internas e interestaduais, constará a informação de que para água mineral ou potável envasada, leite, laticínios e correlatos, vinhos, vinhos espumosos nacionais",
+        " *Parágrafo único. No regulamento do ICMS – RICMS –, Decreto n.º 27.427, de 17 de novembro de 2000, Anexo I, que lista as mercadorias sujeitas ao regime de substituição tributária nas operações internas e interestaduais, constará a informação de que para sorvetes de qualquer espécie, inclusive sanduíches de sorvetes fica suspensa a aplicação do regime d"
+      ],
+      "retido": false,
+      "classificacao": "Falso positivo contextual: anexo pertence à Lei 2.657/1996 e aos dispositivos de outras normas que estão sendo alterados; não é próprio da Lei 10.688/2025.",
+      "motivacao": "Anexo Único desta Lei está dentro da redação citada atribuída ao art.22 da Lei2.657/1996; fonte também identifica RICMS Decreto27.427/2000 AnexoI."
+    }
+  ]
+}
