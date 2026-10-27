@@ -1,0 +1,17 @@
+{
+  "snapshot_origem": "30ca553382452a83c7d4643248ed9fecc90c0844",
+  "arquivos_origem": 1213029,
+  "arquivos_transferiveis": 1213027,
+  "objetos_git_conferidos": 1213027,
+  "copiados_nesta_execucao": 39163,
+  "identicos_ja_presentes": 1173864,
+  "divergencias": 0,
+  "excecoes_intencionais": [
+    ".github/workflows/lei-seca.yml",
+    "README.md"
+  ],
+  "licenca_original": "LICENSE-TERCEIROS",
+  "workflow": "instalado separadamente; não copiado pelo token da transferência",
+  "validacao": "modo e SHA de todos os arquivos transferíveis conferidos no índice Git",
+  "observacao": "Não certifica qualidade jurídica, vigência ou integralidade das normas; preserva o snapshot recebido."
+}
