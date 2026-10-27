@@ -1,0 +1,45 @@
+---
+titulo: "PORTARIA MME Nº 895, DE 11 DE FEVEREIRO DE 2026"
+orgao: "Ministério de Minas e Energia/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "895"
+data: 2026-02-11
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 12/02/2026, seção 1, p. 82"
+data_publicacao: 2026-02-12
+edicao: "30"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-mme-n-895-de-11-de-fevereiro-de-2026-686820691"
+baixado_em: 2026-10-15
+---
+# PORTARIA MME Nº 895, DE 11 DE FEVEREIRO DE 2026
+
+PORTARIA MME Nº 895, DE 11 DE FEVEREIRO DE 2026
+
+O MINISTRO DE ESTADO DE MINAS E ENERGIA, no uso das atribuições que lhe confere o art. 87, parágrafo único, incisos II e IV, da Constituição, tendo em vista o disposto nos arts. 29, 35 e 38, da Lei nº 8.987, de 13 de fevereiro de 1995, no art. 3º-A da Lei nº 9.427, de 26 de dezembro de 1996, e o que consta no Processo nº 48500.015726/2025-07, resolve:
+
+**Art. 1º** Declarar a Caducidade das Concessões de Serviço Público de Transmissão de Energia Elétrica outorgadas às Transmissoras relacionadas no Anexo à presente Portaria, tendo por consequência a extinção das respectivas Concessões.
+
+**§ 1º** A aplicação da penalidade de que trata o caput não exime as concessionárias de outras penalidades previstas na legislação e no Contrato de Concessão.
+
+**§ 2º** Caberá à Agência Nacional de Energia Elétrica - Aneel adotar as providências decorrentes da Declaração de Caducidade das Concessões, inclusive quanto à aplicação de outras penalidades previstas na legislação e no respectivo Contrato de Concessão.
+
+**Art. 2º** Reconhecer não haver bens reversíveis vinculados às Concessões relacionadas no Anexo.
+
+**Art. 3º** Ficam revogadas:
+
+I - a Portaria SPE/MME nº 1.755, de 1º de novembro de 2022; e
+
+II - a Portaria SPE/MME nº 1.777, de 16 de novembro de 2022.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+ALEXANDRE SILVEIRA
+
+## ANEXO
+
+| Processo | Contrato de Concessão ANEEL Objeto de Caducidade | Objeto Contratual | Transmissora |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | Razão Social | CNPJ |
+| 48500.015726/2025-07 | 010/2022, de 30 de setembro de 2022 | Lote 5 do Edital do Leilão de Transmissão nº 001/2022-ANEEL | Serra Negra Transmissão de Energia S.A. | 45.912.973/0001-35 |
+| 48500.016777/2025-48 | 014/2022, de 30 de setembro de 2022 | Lote 9 do Edital do Leilão de Transmissão nº 001/2022-ANEEL | Tangará Transmissão de Energia S.A. | 45.892.975/0001-00 |

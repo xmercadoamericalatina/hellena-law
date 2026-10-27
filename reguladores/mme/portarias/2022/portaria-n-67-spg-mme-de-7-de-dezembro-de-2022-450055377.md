@@ -1,0 +1,56 @@
+---
+titulo: "PORTARIA Nº 67/SPG/MME, DE 7 DE DEZEMBRO DE 2022"
+orgao: "Ministério de Minas e Energia/Secretaria de Petróleo, Gás Natural e Biocombustíveis"
+tipo: "Portaria"
+numero: "67"
+data: 2022-12-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 13/12/2022, seção 1, p. 91"
+data_publicacao: 2022-12-13
+edicao: "233"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-67/spg/mme-de-7-de-dezembro-de-2022-450055377"
+sha256_html_fonte: 1d2539d2f4096dae5fc5271ab759a713b4868f32af3409d018eaa7c082c775ea
+baixado_em: 2026-10-20
+---
+# PORTARIA Nº 67/SPG/MME, DE 7 DE DEZEMBRO DE 2022
+
+PORTARIA Nº 67/SPG/MME, DE 7 DE DEZEMBRO DE 2022
+
+O SECRETÁRIO DE PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS DO MINISTÉRIO DE MINAS E ENERGIA, no uso da competência outorgada pelo art. 1º, inciso I, da Portaria nº 681/GM/MME, de 22 de agosto de 2022, tendo em vista o disposto no art. 6º do Decreto nº 6.144, de 3 de julho de 2007, no art. 4º da Portaria Normativa nº 19/GM/MME, de 16 de agosto de 2021, e o que consta no Processo nº 48340.004483/2022-19, resolve:
+
+**Art. 1º** Aprovar como prioritário, na forma do art. 2º, § 1, inciso III, do Decreto nº 8.874, de 11 de outubro de 2016, o projeto de investimento na atividade plantio de cana-de-açúcar para a produção de etanol denominado "Investimentos em plantio, manutenção, e melhoria do canavial, destinada à produção de etanol - relativa às safras 2023, 2024, 2025, 2026, 2027, 2028, 2029 e 2030", de titularidade da empresa ALCOESTE BIOENERGIA FERNANDÓPOLIS S.A., inscrita no CNPJ sob o nº 43.545.284/0001-04, doravante denominada Sociedade Titular do Projeto, para os fins do art. 2º da Lei nº 12.431, de 24 de junho de 2011, conforme descrito no Anexo a esta Portaria.
+
+**Art. 2º** A Sociedade Titular do Projeto deverá:
+
+I - manter atualizada junto à Secretaria de Petróleo, Gás Natural e Biocombustíveis:
+
+a) a relação das pessoas jurídicas que a integram; e
+
+b) a identificação da sociedade controladora, no caso de sociedade titular do projeto constituída sob a forma de companhia aberta.
+
+II - destacar, quando da emissão pública das debêntures, na primeira página do Prospecto e do Anúncio de Início de Distribuição ou, no caso de distribuição com esforços restritos, do Aviso de Encerramento e do material de divulgação, o número e a data de publicação da Portaria de aprovação e o compromisso de alocar os recursos obtidos no Projeto Prioritário aprovado; e
+
+III - manter a documentação relativa à utilização dos recursos captados até cinco anos após o vencimento das debêntures ou dos certificados de recebíveis imobiliários ou após o encerramento do fundo de investimento em direitos creditórios, para consulta e fiscalização pelos órgãos de controle.
+
+**Art. 3º** O projeto prioritário não será considerado implantado, na forma aprovada pela Secretaria de Petróleo, Gás Natural e Biocombustíveis do Ministério de Minas e Energia, na hipótese de se verificar a ocorrência das seguintes condições:
+
+I - extinção ou revogação da autorização prevista no Anexo a esta Portaria; ou
+
+II - atraso na implementação do projeto superior a cinquenta por cento em relação ao prazo entre a data de aprovação e a data de conclusão do empreendimento prevista no Anexo a esta Portaria.
+
+**Art. 4º** A Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP deverá informar ao Ministério de Minas e Energia, por meio da sua Secretaria de Petróleo, Gás Natural e Biocombustíveis, e à Unidade da Receita Federal do Brasil com jurisdição sobre o estabelecimento matriz da Sociedade Titular do Projeto a ocorrência de situações que evidenciem a não implementação do projeto aprovado nesta Portaria.
+
+**Art. 5º** A Sociedade Titular do Projeto deverá encaminhar ao Ministério de Minas e Energia, por meio da sua Secretaria de Petróleo, Gás Natural e Biocombustíveis, no prazo de trinta dias a contar da sua emissão, cópia do ato de comprovação ou de autorização da operação comercial do projeto aprovado nesta Portaria, emitido pelo órgão ou entidade competente.
+
+**Art. 6º** A Sociedade Titular do Projeto deverá observar, ainda, as demais disposições constantes na Lei nº 12.431, de 2011, no Decreto nº 8.874, de 2016, e na Portaria MME nº 252, de 2019.
+
+**Art. 7º** Esta Portaria entra em vigor na data de sua publicação.
+
+RAFAEL BASTOS DA SILVA
+
+## ANEXO
+
+FORMULÁRIO PARA SOLICITAÇÃO DE APROVAÇÃO DE PROJETO COMO PRIORITÁRIO ENCAMINHADO PELA SOCIEDADE TITULAR DO PROJETO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>1. Razão Social, Endereço, Telefone e CNPJ da Sociedade Titular do Projeto:</strong></p></td>      <td rowspan="1" colspan="1"><p>Razão Social: Alcoeste Bioenergia Fernandópolis S.A.</p><p>Endereço: Rodovia Euclides da Cunha, KM 652 - Zona Rural, Fernandópolis, SP</p><p>Telefone: (17) 3465-9100</p><p>CNPJ: 43.545.284/0001-04</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>2. Relação de Pessoas Jurídicas que Integram a Sociedade Titular do Projeto, com os respectivos CNPJ e percentuais de participação:</strong></p></td>      <td rowspan="1" colspan="1"><p>Okinawa Administraçao e Participacoes S/A</p><p>CNPJ: 14.125.319/0001-58 - 99,9%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>3. Identificação da Sociedade Controladora, no caso de a Sociedade Titular do Projeto ser constituída na forma de companhia aberta:</strong></p></td>      <td rowspan="1" colspan="1"><p>Não se aplica.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>4. Representante(s) Legal(is) da Sociedade Titular do Projeto, com respectivos nome, CPF, correio eletrônico e telefone:</strong></p><p></p></td>      <td rowspan="1" colspan="1"><p>Paulo Jefferson Demonico - Diretor Financeiro</p><p>Luis Antonio Arakaki - Diretor Presidente</p><p>José Luis Arakaki - Diretor Vice-Presidente</p><p>Claudemir Antônio Izaias - Diretor Superintendente</p><p>Mauro de Sá - Diretor Administrativo</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>5. Denominação do Projeto:</strong></p></td>      <td rowspan="1" colspan="1"><p>Investimentos em plantio, manutenção, e melhoria do canavial, destinada à produção de etanol - relativa às safras 2023, 2024, 2025, 2026, 2027, 2028, 2029 e 2030</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>6. Número e Data do Ato de Outorga de Autorização, Concessão ou Ato Administrativo equivalente emitido pela ANP; ou Número e Data do Ato Administrativo equivalente, emitido por Órgão Estadual competente, em caso de Dutovias para a Prestação dos Serviços Locais de Gás Canalizado:</strong></p></td>      <td rowspan="1" colspan="1"><p>Alcoeste Bioenergia Fernandópolis S.A.</p><p>CNPJ: 43.545.284/0001-04</p><p>Autorização ANP, Ato N° 769, de 23 de agosto de 2018</p><p>DOU: 24 de agosto de 2018</p><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>7. Localização do Projeto (Município(s) e Unidade(s) da Federação):</strong></p></td>      <td rowspan="1" colspan="1"><p>Fernandópolis - SP</p><p>Rodovia Euclides da Cunha, km 562, Fazenda Santa Alice.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>8. Descrição do Projeto e Indicação dos Principais Elementos Constitutivos e Características:</strong></p></td>      <td rowspan="1" colspan="1"><p>O projeto prevê investimentos na melhoria, manutenção e renovação do canavial - mais especificamente no plantio e tratos culturais. Todos os investimentos destinam-se ao cultivo de cana-de-açúcar da companhia, destinada à produção de etanol, açúcar e energia ao longo das safras 2023, 2024, 2025, 2026, 2027, 2028, 2029 e 2030 na sede da companhia. O objetivo é aumentar a disponibilidade de cana própria nas próximas safras. Os investimentos do projeto referem-se a:</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>(i) Parcela de plantio de cana-de-açúcar destinada a produção de etanol. São considerados "investimentos em plantio" os gastos realizados em preparo de solo, plantio e tratos culturais de cana planta e;</p><p>(ii) Parcela de investimento em tratos culturais da cana já plantada e destinada a corte para a produção de etanol.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>9. Prazo Previsto para a Conclusão do Projeto:</strong></p></td>      <td rowspan="1" colspan="1"><p>Dezembro/2030</p></td>     </tr>    </tbody>   </table>

@@ -1,0 +1,48 @@
+---
+titulo: "Portaria nº 887, de 14 de março de 2022"
+orgao: "Ministério Público da União/Ministério Público do Distrito Federal e Territórios/Procuradoria-Geral de Justiça/Coordenadorias das Promotorias de Justiça"
+tipo: "Portaria"
+numero: "887"
+data: 2022-03-14
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/03/2022, seção 1, p. 99"
+data_publicacao: 2022-03-17
+edicao: "52"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-887-de-14-de-marco-de-2022-386475690"
+sha256_html_fonte: 0c349f891fd4a0c7e0c657b58bfc61e96fd0c541101d260efde62c018ff1e13c
+baixado_em: 2026-10-20
+---
+# Portaria nº 887, de 14 de março de 2022
+
+2ª PROMOTORIA DE JUSTIÇA DE DEFESA DOS DIREITOS DO CONSUMIDOR
+
+Portaria nº 887, de 14 de março de 2022
+
+ICP n.º 08190.003233/22-10
+
+O MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS E TERRITÓRIOS, por sua Segunda Promotoria de Justiça de Defesa dos Direitos do Consumidor, no uso de suas atribuições legais e
+
+CONSIDERANDO que compete ao Ministério Público a defesa dos interesses difusos, coletivos e individuais homogêneos dos consumidores (art. 129, inciso III, da Constituição Federal e arts. 81 e 82 da Lei Federal n.º 8.078/90);
+
+CONSIDERANDO que a informação adequada e clara e a proteção contra a publicidade enganosa são direitos básicos do consumidor (art. 6º, inciso III e IV, do CDC);
+
+CONSIDERANDO que os elementos colhidos no Procedimento Preparatório nº. 08190.016790/21-38 fornecem elementos indiciários de possível propaganda enganosa na divulgação do preço dos combustíveis para pagamento por meio do aplicativo Abastece Aí, o que, em tese, pode configurar lesão a interesse de consumidor, em perspectiva coletiva (lato sensu); resolve:
+
+Com suporte nas Leis Federai nº 7.347/85 e 8.078/90 e na Lei Complementar nº 75/93, converter o presente procedimento preparatório em
+
+INQUÉRITO CIVIL
+
+a ser conduzido pela 2ª Promotoria de Justiça de Defesa do Consumidor, objetivando melhor apuração dos fatos, indicação de responsabilidades e adoção das medidas judiciais e extrajudiciais em defesa dos consumidores, e, para tanto, determina-se:
+
+1\. autue-se e registre-se esta Portaria;
+
+2\. encaminhe-se esta Portaria para publicação na imprensa oficial;
+
+3\. comunique-se à Câmara de Coordenação e Revisão da Ordem Jurídica Cível deste MPDFT a instauração deste Inquérito Civil Público;
+
+4\. Cumpram-se as determinações precedentes.
+
+FERNANDA DA CUNHA MORAES
+
+Promotora de Justiça

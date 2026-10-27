@@ -1,0 +1,39 @@
+---
+titulo: "PORTARIA Nº 1.045, DE 27 DE Agosto DE 2026"
+orgao: "Ministério Público da União/Ministério Público do Distrito Federal e Territórios"
+tipo: "Portaria"
+numero: "1045"
+data: 2026-08-27
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 25/09/2026, seção 1, p. 86"
+data_publicacao: 2026-09-25
+edicao: "182"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1.045-de-27-de-agosto-de-2026-734424210"
+baixado_em: 2026-10-15
+---
+# PORTARIA Nº 1.045, DE 27 DE Agosto DE 2026
+
+PORTARIA Nº 1.045, DE 27 DE Agosto DE 2026
+
+Inquérito civil - 1.ª Promotoria de Justiça de Defesa dos Direitos do Consumidor - Leis Federais n.º 7.347/1985 e n.º 8.078/1990 - Lei Complementar n.º 75/1993 - Objeto: Apuração de prática comercial sistêmica de captação, classificação e fidelização de apostadores em situação de vulnerabilidade psíquica decorrente de transtorno do jogo patológico (ludopatia - CID-10 F63.0), praticada pela empresa BETBOOM LTDA., com potencial repercussão sobre número indeterminado de consumidores.
+
+O MINISTÉRIO PÚBLICO DO DISTRITO FEDERAL E TERRITÓRIOS, por sua Primeira Promotoria de Justiça de Defesa dos Direitos do Consumidor, no uso de suas atribuições legais (art. 129, II e III, da CF; art. 1.º, II e V, da Lei n.º 7.347/1985; art. 81, parágrafo único, I e V, da Lei n.º 8.078/1990), CONSIDERANDO que compete ao Ministério Público a defesa da ordem jurídica e dos interesses sociais e individuais indisponíveis, com atenção qualificada aos direitos difusos e coletivos dos consumidores (art. 127, CF); CONSIDERANDO que a exploração de apostas de quota fixa submete-se à autorização federal e à certificação técnica dos sistemas de jogo, nos termos da Lei nº 14.790/2023 e das Portarias SPA/MF nº 300/2024, nº 722/2024 e nº 1.207/2024, e que a Portaria SPA/MF nº 1.231/2024 veda expressamente a concessão de vantagens financeiras condicionadas a metas de apostas (rollover), impondo deveres de transparência e integridade na relação com o apostador; CONSIDERANDO que a Lei nº 14.790/2023 proíbe a participação de pessoas diagnosticadas com transtorno do jogo patológico, cominando a nulidade das apostas e a restituição dos valores, consagrando o dever reforçado de proteção a consumidores em situação de vulnerabilidade psíquica extrema; CONSIDERANDO que este órgão ministerial tomou conhecimento, por meio de demanda judicial individual ajuizada por consumidora diagnosticada com ludopatia (CID-10 F63.0) em face da BETBOOM LTDA., de elementos que indicam padrão de conduta comercial consistente na utilização de dados transacionais para classificação de potencial econômico e fidelização de apostadores - mediante atribuição de gerente pessoal de conta, bônus e vouchers -, sem a adoção de mecanismos efetivos de identificação, alerta e interrupção de comportamento compulsivo; CONSIDERANDO que entre as vantagens ofertadas consta o oferecimento de bebida alcoólica como prêmio a consumidora portadora de transtorno do controle dos impulsos associado a sintomas ansiosos e depressivos, circunstância agravante à luz da literatura psiquiátrica, que reconhece o efeito desinibitório do etanol sobre o controle inibitório e a tomada de decisão - funções executivas já comprometidas pelo quadro clínico -, revelando falha estrutural de desenho que pode atingir indistintamente toda a base de apostadores de alto volume; CONSIDERANDO que os documentos analisados apontam a existência de cláusula contratual (Seção 16 dos termos de uso) que condiciona a concessão de bônus ao cumprimento de metas de apostas (rollover), em aparente violação direta à vedação expressa da Portaria SPA/MF nº 1.231/2024, circunstância que, por decorrer de cláusula padronizada, tende a atingir a integralidade da base de usuários da plataforma, conferindo à conduta natureza difusa; CONSIDERANDO que a conversão de volume de perda em posição, bônus e prêmios opera diretamente sobre o circuito neurobiológico de recompensa comprometido pela doença, configurando, se confirmada a aplicação indiferenciada, defeito na prestação do serviço (art. 14, CDC) e prática comercial abusiva (arts. 37, § 2º, e 39, IV, CDC) de alcance potencialmente coletivo; CONSIDERANDO a pertinência da matéria com outras reclamações de consumidores apresentadas perante este órgão ministerial em face de operadoras do mesmo segmento, reforçando a hipótese de prática de mercado e não de ocorrência isolada, aproveita-se o ensejo para determinar a juntada de novas reclamações de consumidores perante o MPDFT relacionadas ao setor de apostas de quota fixa, para análise conjunta e verificação da abrangência subjetiva da lesão; CONSIDERANDO a necessidade de resguardo da privacidade e dos dados pessoais sensíveis da consumidora cujo caso serviu de fato deflagrador, nos termos da Lei nº 13.709/2018 (LGPD); CONSIDERANDO a continuidade da conduta investigada - renovada a cada novo ciclo de captação e aposta - e o risco iminente, diário e cumulativo de dano difuso a consumidores em situação de vulnerabilidade psíquica, com potencial irreversibilidade quanto à perda patrimonial e ao agravamento de quadros clínicos; resolve:
+
+I - Instaurar INQUÉRITO CIVIL, de natureza coletiva e difusa, para apurar, em face da BETBOOM LTDA., a existência de padrão sistêmico de conduta comercial consistente em: (a) utilização de dados transacionais para classificação e fidelização de apostadores, independentemente de sinais objetivos de comportamento compulsivo; (b) concessão de vantagens comerciais - incluindo prêmios em bebida alcoólica - a consumidores com indicativos de transtorno do jogo patológico, sem filtro de compatibilidade com o perfil de risco; (c) imposição de metas de apostas (rollover) como condição para fruição de bônus, em possível violação à Portaria SPA/MF nº 1.231/2024; e (d) inefetividade de pedidos de autoexclusão e bloqueio;
+
+II - Determinar a autuação em apartado, com acesso restrito nos termos do art. 189 do CPC e da Lei nº 13.709/2018 (LGPD), de todo documento que contenha dados pessoais sensíveis ou elementos aptos a identificar a consumidora cujo caso originou a presente apuração;
+
+III - Determinar a juntada, ao presente feito, de todas as reclamações de consumidores já apresentadas ou que sejam apresentadas perante o MPDFT em face de operadoras do segmento de apostas de quota fixa, para análise conjunta e verificação da extensão da lesão coletiva;
+
+IV - Expedir ofício requisitório à BETBOOM LTDA. para que, no prazo de 10 (dez) dias úteis, contados da ciência, apresente: (a) política interna de jogo responsável e critérios técnicos de classificação de risco de apostadores, incluindo protocolos de identificação de comportamento compulsivo; (b) integralidade dos termos de uso vigentes, com destaque para a Seção 16 e demais cláusulas relativas a bônus, rollover e programas de fidelização; (c) critérios de elegibilidade a prêmios, incluindo os que envolvam bebida alcoólica, e mecanismos de exclusão de consumidores classificados como de risco; (d) registros de pedidos de autoexclusão e bloqueio, com indicação do prazo médio de efetivação e do índice de reativação de contas; (e) quantitativo de consumidores contemplados com prêmios e bônus da mesma natureza no período de janeiro de 2024 a junho de 2026;
+
+V - Determinar a expedição de ofícios à Secretaria de Prêmios e Apostas do Ministério da Fazenda (SPA/MF) e aos órgãos de defesa do consumidor com atribuição correlata - incluindo SENACON - para prestação de informações acerca da regularidade da operação da BETBOOM LTDA., do cumprimento das normas de proteção ao apostador e, em especial, da observância da vedação de rollover;
+
+VI - Determinar a publicação desta Portaria e a autuação do presente Inquérito Civil, com registro no sistema de acompanhamento processual do MPDFT.
+
+ICP nº 08192.191138/2026-58
+
+PAULO ROBERTO BINICHESKI
+
+Promotor de Justiça

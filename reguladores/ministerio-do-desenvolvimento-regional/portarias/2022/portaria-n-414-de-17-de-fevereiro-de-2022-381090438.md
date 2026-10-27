@@ -1,0 +1,30 @@
+---
+titulo: "PORTARIA Nº 414, DE 17 DE FEVEREIRO DE 2022"
+orgao: "Ministério do Desenvolvimento Regional/Secretaria Nacional de Proteção e Defesa Civil"
+tipo: "Portaria"
+numero: "414"
+data: 2022-02-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/02/2022, seção 1, p. 18"
+data_publicacao: 2022-02-18
+edicao: "35"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-414-de-17-de-fevereiro-de-2022-381090438"
+sha256_html_fonte: 6ade9a3323f2da1990b34c06708c78f386a2455642492ee3f0ef1501dafa434a
+baixado_em: 2026-10-20
+---
+# PORTARIA Nº 414, DE 17 DE FEVEREIRO DE 2022
+
+PORTARIA Nº 414, DE 17 DE FEVEREIRO DE 2022
+
+Reconhece situação de emergência em municípios do Estado de Alagoas/AL.
+
+O SECRETÁRIO NACIONAL DE PROTEÇÃO E DEFESA CIVIL, no uso da competência que lhe foi delegada pela Portaria Ministerial nº 1.048, de 28 de maio de 2021, publicada no Diário Oficial da União, Seção 1, de 01 de junho de 2021, considerando o Decreto nº 77.114, de 20 de janeiro de 2022, do Governo do Estado de Alagoas/AL, e as demais informações constantes no processo nº 59051.014897/2022-10, resolve:
+
+**Art. 1º** Reconhecer, em decorrência de ESTIAGEM, COBRADE: 1.4.1.1.0, a situação de emergência nos municípios relacionados abaixo.
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Nº</p></td>      <td rowspan="1" colspan="1"><p>MUNICÍPIOS</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Água Branca</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>Arapiraca</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>Batalha</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>Belo Monte</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>Cacimbinhas</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>6</p></td>      <td rowspan="1" colspan="1"><p>Canapi</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>7</p></td>      <td rowspan="1" colspan="1"><p>Carneiros</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>8</p></td>      <td rowspan="1" colspan="1"><p>Craíbas</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>9</p></td>      <td rowspan="1" colspan="1"><p>Delmiro Gouveia</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>10</p></td>      <td rowspan="1" colspan="1"><p>Dois Riachos</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>11</p></td>      <td rowspan="1" colspan="1"><p>Estrela de Alagoas</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>12</p></td>      <td rowspan="1" colspan="1"><p>Girau do Ponciano</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>13</p></td>      <td rowspan="1" colspan="1"><p>Igaci</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>14</p></td>      <td rowspan="1" colspan="1"><p>Inhapi</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>15</p></td>      <td rowspan="1" colspan="1"><p>Jacaré dos Homens</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>16</p></td>      <td rowspan="1" colspan="1"><p>Jaramataia</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>17</p></td>      <td rowspan="1" colspan="1"><p>Major Izidoro</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>18</p></td>      <td rowspan="1" colspan="1"><p>Maravilha</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>19</p></td>      <td rowspan="1" colspan="1"><p>Mata Grande</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>20</p></td>      <td rowspan="1" colspan="1"><p>Minador do Negrão</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>21</p></td>      <td rowspan="1" colspan="1"><p>Monteirópolis</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>22</p></td>      <td rowspan="1" colspan="1"><p>Olho D'Água das Flores</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>23</p></td>      <td rowspan="1" colspan="1"><p>Olho D'Água do Casado</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>24</p></td>      <td rowspan="1" colspan="1"><p>Olivença</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>25</p></td>      <td rowspan="1" colspan="1"><p>Ouro Branco</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>26</p></td>      <td rowspan="1" colspan="1"><p>Palestina</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>27</p></td>      <td rowspan="1" colspan="1"><p>Palmeira dos Índios</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>28</p></td>      <td rowspan="1" colspan="1"><p>Pão de Açúcar</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>29</p></td>      <td rowspan="1" colspan="1"><p>Pariconha</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>30</p></td>      <td rowspan="1" colspan="1"><p>Piranhas</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>31</p></td>      <td rowspan="1" colspan="1"><p>Poço das Trincheiras</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>32</p></td>      <td rowspan="1" colspan="1"><p>Quebrangulo</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>33</p></td>      <td rowspan="1" colspan="1"><p>Santana do Ipanema</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>34</p></td>      <td rowspan="1" colspan="1"><p>São José da Tapera</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>35</p></td>      <td rowspan="1" colspan="1"><p>Senador Rui Palmeira</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>36</p></td>      <td rowspan="1" colspan="1"><p>Traipu</p></td>     </tr>    </tbody>   </table>
+
+**Art. 2º** Esta portaria entra em vigor na data de sua publicação.
+
+ALEXANDRE LUCAS ALVES

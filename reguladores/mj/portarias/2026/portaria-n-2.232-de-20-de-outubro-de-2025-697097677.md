@@ -1,0 +1,31 @@
+---
+titulo: "PORTARIA Nº 2.232, DE 20 DE OUTUBRO DE 2025"
+orgao: "Ministério da Justiça e Segurança Pública/Polícia Federal/Diretoria de Polícia Administrativa/Coordenação-Geral de Controle de Serviços e Produtos/Divisão de Controle e Fiscalização"
+tipo: "Portaria"
+numero: "2232"
+data: 2025-10-20
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 02/04/2026, seção 1, p. 76"
+data_publicacao: 2026-04-02
+edicao: "63"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-2.232-de-20-de-outubro-de-2025-697097677"
+baixado_em: 2026-10-15
+---
+# PORTARIA Nº 2.232, DE 20 DE OUTUBRO DE 2025
+
+PORTARIA Nº 2.232, DE 20 DE OUTUBRO DE 2025
+
+O(A) COORDENADOR(A)-GERAL DE CONTROLE DE SERVIÇOS E PRODUTOS, por delegação do DIREX/PF, no uso das atribuições, acolhendo os fundamentos do Parecer nº 28160/2025, decide:
+
+Aplicar a pena de MULTA equivalente a 2.500 (dois mil e quinhentos) UFIR a BAZISUL SEGURANÇA PRIVADA LTDA - ME, CNPJ nº 10.478.512/0002-00, sediada no Paraná, por praticar a conduta tipificada no artigo 164, inciso II PORTARIA 18.045/23-DG/PF DE 17 DE ABRIL DE 2023 e artigo 177, inciso CAPUT PORTARIA 18.045/23-DG/PF DE 17 DE ABRIL DE 2023, conforme consta no Processo nº 2025/62693.
+
+Fica a empresa/instituição financeira cientificada a efetuar o pagamento da multa, sendo que, após o prazo de 30 (dias), incidirão multa e juros, calculados automaticamente pelo sistema GESP.
+
+O pagamento deverá ser efetuado através de Guia de Recolhimento da União - GRU, emitida via sistema GESP, com código de receita nº 140570.
+
+O não pagamento, no prazo de 90 (noventa) dias da data do trânsito em julgado da decisão que aplicou a penalidade, implicará em encaminhamento automático à Procuradoria-Geral da Fazenda Nacional para inscrição na Dívida Ativa da União.
+
+O prazo para apresentação de recurso é de 10 (dez) dias a contar da ciência no processo.
+
+CAIRO COSTA DUARTE

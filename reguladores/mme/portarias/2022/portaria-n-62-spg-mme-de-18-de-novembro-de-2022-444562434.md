@@ -1,0 +1,54 @@
+---
+titulo: "PORTARIA Nº 62/SPG/MME, DE 18 DE NOVEMBRO DE 2022"
+orgao: "Ministério de Minas e Energia/Secretaria de Petróleo, Gás Natural e Biocombustíveis"
+tipo: "Portaria"
+numero: "62"
+data: 2022-11-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 21/11/2022, seção 1, p. 41"
+data_publicacao: 2022-11-21
+edicao: "218"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-62/spg/mme-de-18-de-novembro-de-2022-444562434"
+sha256_html_fonte: 690c86838d45c65925fd59687dcc531e1edd95e43cd34ab688f6a5fb23a53b34
+baixado_em: 2026-10-20
+---
+# PORTARIA Nº 62/SPG/MME, DE 18 DE NOVEMBRO DE 2022
+
+PORTARIA Nº 62/SPG/MME, DE 18 DE NOVEMBRO DE 2022
+
+O SECRETÁRIO DE PETRÓLEO, GÁS NATURAL E BIOCOMBUSTÍVEIS DO MINISTÉRIO DE MINAS E ENERGIA, no uso da competência outorgada pela art. 1º, parágrafo único, da Portaria nº 681/GM/MME, de 22 de agosto de 2022, tendo em vista o disposto no art. 3º do Decreto nº 8.874, de 11 de outubro de 2016, no art. 3º da Portaria nº 252/GM/MME, de 17 de junho de 2019, e o que consta no Processo nº 48340.003855/2022-81, resolve:
+
+**Art. 1º** Aprovar, na forma do art. 2º, inciso III, do Decreto nº 8.874, de 11 de outubro de 2016, como prioritário o projeto de investimento na área de infraestrutura de petróleo e gás natural denominado Projeto de Desenvolvimento do Sistema Definitivo do Campo de Atlanta, de titularidade da empresa ENAUTA ENERGIA S.A., inscrita no CNPJ/MF sob o nº 11.253.257/0001-71, para os fins do art. 2º da Lei no 12.431, de 24 de junho de 2011, conforme descrito no Anexo à presente Portaria.
+
+**Art. 2º** A ENAUTA ENERGIA S.A. deverá:
+
+I - manter atualizada junto ao Ministério de Minas e Energia - MME a relação das pessoas jurídicas que a integram;
+
+II - destacar, quando da emissão pública das debêntures, na primeira página do Prospecto e do Anúncio de Início de Distribuição ou, no caso de distribuição com esforços restritos, do Aviso de Encerramento e do material de divulgação, o número e a data de publicação desta Portaria e o compromisso de alocar os recursos obtidos no projeto prioritário aprovado; e
+
+III - manter a documentação relativa à utilização dos recursos captados, até cinco anos após o vencimento das debêntures emitidas, para consulta e fiscalização pelos Órgãos de Controle.
+
+**Art. 3º** O projeto prioritário não será considerado implantado, na forma aprovada pelo MME, na hipótese de se verificar a ocorrência de atraso na implementação do projeto superior a cinquenta por cento em relação ao prazo entre a data de aprovação e a data de conclusão do Empreendimento, prevista nos termos do disposto no Anexo à presente Portaria.
+
+**§ 1º** Para efeito do cálculo do tempo de atraso previsto no caput, devem ser considerados os efeitos dos ajustes solicitados pela empresa à Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP relativamente às previsões de investimentos e aos cronogramas de execução, se forem devidamente e tempestivamente analisados e aprovados pela Agência, devendo o atraso ser calculado com base nos novos prazos de execução das etapas do projeto.
+
+**§ 2º** Os ajustes realizados nas previsões de execução do projeto devem ser informados pela ANP à Secretaria de Petróleo, Gás Natural e Biocombustíveis do Ministério de Minas e Energia, após sua análise e aprovação pela Agência.
+
+**Art. 4º** A ANP deverá informar, ao MME e à Unidade da Receita Federal do Brasil com jurisdição sobre o estabelecimento matriz da ENAUTA ENERGIA S.A., a ocorrência de situações que evidenciem a não implementação do projeto aprovado nesta Portaria.
+
+**Art. 5º** A ENAUTA ENERGIA S.A. deverá encaminhar ao MME, no prazo de trinta dias a contar da sua emissão, cópia do Ato de Comprovação ou de Autorização da Operação Comercial do projeto aprovado nesta Portaria, emitido pelo Órgão ou Entidade competente.
+
+**Art. 6º** A ENAUTA ENERGIA S.A. deverá observar, ainda, as demais disposições constantes na Lei nº 12.431, de 2011, no Decreto nº 8.874, de 2016, e na Portaria MME nº 252, de 2019.
+
+**Art. 7º** Esta Portaria entra em vigor na data de sua publicação.
+
+RAFAEL BASTOS DA SILVA
+
+## ANEXO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>1. Razão Social, Endereço, Telefone e CNPJ da Sociedade Titular do Projeto:</strong></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Razão Social: ENAUTA ENERGIA S.A.</p><p>Endereço da sede: Avenida Almirante Barroso, número 52, salas 1101, 1102 e 1301 - Centro - Rio de Janeiro, RJ - CEP: 20.031-918.</p><p>CNPJ/MF: 11.253.257/0001-71</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>2. Relação de Pessoas Jurídicas que Integram a Sociedade Titular do Projeto, com Respectivos CNPJ e Percentuais de Participação:</strong></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Enauta Participações S.A. (CNPJ: 11.669.021/0001-10): Participação: 100,00%</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>3. Representante (s) Legal (is) da Sociedade Titular do Projeto:</strong></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>Décio Fabricio Oddone da Costa</strong></p><p>Cargo: Diretor Presidente</p><p><strong>Paula Vasconcelos da Costa Côrte-Real</strong></p><p>Cargo: Diretora-Financeira</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>4. Denominação do Projeto:</strong></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Projeto de Desenvolvimento do Sistema Definitivo do Campo de Atlanta</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>5. Número e Data do Ato de Outorga de Autorização, Concessão ou Ato Administrativo equivalente emitido pela ANP:</strong></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Campo de Atlanta: Contrato de Concessão n° 48000.003573/97- 91, cuja totalidade da participação indivisa de direitos e obrigações passou a ser integralmente detida pela Enauta Energia S.A. nos termos da Resolução de Diretoria da ANP n° 197/2021 e formalizada por meio do Termo Aditivo n° 09 ao Contrato de Concessão.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>O Termo Aditivo n° 09 foi assinado conforme Extrato de Termo Aditivo disponibilizado no Diário Oficial da União em 30/06/2021| Edição: 121| Seção: 3 e por meio do Despacho ANP n° 83/2021 (que também aprovou o Termo de Cessão).</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Para referência, o processo de cessão da ANP é o de n° 48610.201260/2021-81. O referido Contrato de Concessão teve sua prorrogação contratual aprovada nos termos da Resolução de Diretoria da ANP RD n° 241/2022.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>6. Localização do Projeto (Município(s) e Unidade(s) da Federação):</strong></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Bacia de Santos, 185 km a sudeste do munícipio do Rio de Janeiro, confrontante com o município de Arraial do Cabo.</p><p>Estado: Rio de Janeiro (RJ).</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>7. Descrição do Projeto e Indicação dos Principais Elementos Constitutivos e Características:</strong></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>O Campo de Atlanta está situado na Bacia de Santos, 185 km a sudeste do município do Rio de Janeiro em lâmina de água média de 1.550 m. O Campo de Atlanta possui óleo pesado, com 14º API e baixo teor de enxofre.</p><p>O projeto de desenvolvimento de Atlanta prevê a perfuração de dez poços produtores distribuídos em diferentes etapas.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Em linha com o previsto no Plano de Desenvolvimento n° 06, aprovado pela Resolução de Diretoria da ANP RD n° 241/2022, apresenta-se o cronograma para implementação do sistema definitivo, bem como os poços e prospectos que serão perfurados e completados no âmbito deste Projeto:</p></td>     </tr>    </tbody>   </table>
+
+Cronograma de Atividades
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>ATIVO</strong></p></td>      <td rowspan="1" colspan="1"><p><strong>ATIVIDADE</strong></p></td>      <td rowspan="1" colspan="2"><p><strong>DATA LIMITE</strong></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FPSO</p></td>      <td rowspan="1" colspan="1"><p>Entrada em operação do sistema definitivo</p></td>      <td rowspan="1" colspan="2"><p>30/06/2024</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Poço 4</p></td>      <td rowspan="1" colspan="1"><p>Perfuração e completação</p></td>      <td rowspan="1" colspan="2"><p>31/12/2023</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Poço 5</p></td>      <td rowspan="1" colspan="1"><p>Perfuração e completação</p></td>      <td rowspan="1" colspan="2"><p>31/12/2023</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Poço 6</p></td>      <td rowspan="1" colspan="1"><p>Perfuração e completação</p></td>      <td rowspan="1" colspan="2"><p>31/12/2023</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Poço 7</p></td>      <td rowspan="1" colspan="1"><p>Perfuração e completação</p></td>      <td rowspan="1" colspan="2"><p>31/12/2027</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Poço 8</p></td>      <td rowspan="1" colspan="1"><p>Perfuração e completação</p></td>      <td rowspan="1" colspan="2"><p>31/12/2027</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Poço Prospecto de Piapara</p></td>      <td rowspan="1" colspan="1"><p>Perfuração</p></td>      <td rowspan="1" colspan="2"><p>31/12/2028</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Poço 9</p></td>      <td rowspan="1" colspan="1"><p>Perfuração e completação</p></td>      <td rowspan="1" colspan="2"><p>31/12/2029</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Poço 10</p></td>      <td rowspan="1" colspan="1"><p>Perfuração e completação</p></td>      <td rowspan="1" colspan="2"><p>31/12/2029</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Poços<em>upsides</em>oeste e sul</p></td>      <td rowspan="1" colspan="1"><p>Perfuração</p></td>      <td rowspan="1" colspan="2"><p>31/12/2024*</p></td>     </tr>     <tr>      <td rowspan="1" colspan="4"><p>*Caso não seja apresentada proposta de devolução.</p><p>Os prazos destacados acima poderão ser revistos, pela Superintendência de Desenvolvimento e Produção da ANP, no âmbito do Programa Anual de Trabalho e Orçamento (PAT), nos termos da Resolução de Diretoria da ANP RD n° 241/2022.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="4"><p><strong>8. Prazo Previsto para Entrada em Operação Comercial:</strong>30/06/2024 (data prevista para entrada em produção do Sistema Definitivo de Produção).</p></td>     </tr>    </tbody>   </table>

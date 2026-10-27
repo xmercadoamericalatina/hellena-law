@@ -1,0 +1,36 @@
+---
+titulo: "RESOLUÇÃO GECEX Nº 381, DE 3 DE AGOSTO DE 2022"
+orgao: "Ministério da Economia/Câmara de Comércio Exterior/Comitê-Executivo de Gestão"
+tipo: "Resolução"
+numero: "381"
+data: 2022-08-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/08/2022, seção 1, p. 15"
+data_publicacao: 2022-08-04
+edicao: "147"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-gecex-n-381-de-3-de-agosto-de-2022-419974383"
+sha256_html_fonte: aefa212ee9ecdb18b51adac4349e0778ed09900bd83569e891d585b5c70652ee
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO GECEX Nº 381, DE 3 DE AGOSTO DE 2022
+
+RESOLUÇÃO GECEX Nº 381, DE 3 DE AGOSTO DE 2022
+
+Altera o Anexo V da Resolução Gecex nº 272, de 19 de novembro de 2021, que alterou a Nomenclatura Comum do Mercosul - NCM e a Tarifa Externa Comum - TEC para adaptação às modificações do Sistema Harmonizado (SH-2022), e dá outras providências.
+
+O COMITÊ-EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR, no uso da atribuição que lhe confere o 7º, inciso IV, do Decreto nº 10.044, de 4 de outubro de 2019, e considerando o disposto nas Decisões nºs 58/10 e 11/21 do Conselho do Mercado Comum do Mercosul, na Resolução Gecex nº 272, de 19 de novembro de 2021, e tendo em vista a deliberação de sua 2ª Reunião Extraordinária de 2022, ocorrida em 3 de agosto de 2022, resolve:
+
+**Art. 1º** Ficam excluídos no Anexo V da Resolução Gecex nº 272, de 19 de novembro de 2021, os códigos da Nomenclatura Comum do Mercosul (NCM) e respectivos destaques tarifários (Nº Ex) discriminados no quadro a seguir:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>NCM</p></td>      <td rowspan="1" colspan="1"><p>Nº Ex</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3002.12.35</p></td>      <td rowspan="1" colspan="1"><p>001</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3004.90.79</p></td>      <td rowspan="1" colspan="1"><p>001</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3004.90.79</p></td>      <td rowspan="1" colspan="1"><p>021</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3004.90.79</p></td>      <td rowspan="1" colspan="1"><p>022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3004.90.79</p></td>      <td rowspan="1" colspan="1"><p>023</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3004.90.79</p></td>      <td rowspan="1" colspan="1"><p>024</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3004.90.79</p></td>      <td rowspan="1" colspan="1"><p>025</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3004.90.79</p></td>      <td rowspan="1" colspan="1"><p>026</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3004.90.79</p></td>      <td rowspan="1" colspan="1"><p>042</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3004.90.79</p></td>      <td rowspan="1" colspan="1"><p>044</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3004.90.79</p></td>      <td rowspan="1" colspan="1"><p>045</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3004.90.79</p></td>      <td rowspan="1" colspan="1"><p>046</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3004.90.79</p></td>      <td rowspan="1" colspan="1"><p>047</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3004.90.79</p></td>      <td rowspan="1" colspan="1"><p>050</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3824.99.86</p></td>      <td rowspan="1" colspan="1"><p>001</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>4002.20.90</p></td>      <td rowspan="1" colspan="1"><p>001</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>9018.39.29</p></td>      <td rowspan="1" colspan="1"><p>001</p></td>     </tr>    </tbody>   </table>
+
+**Art. 2º** Ficam incluídos no Anexo V da Resolução Gecex nº 272, de 2021, os produtos conforme informações listadas no quadro a seguir:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>NCM</p></td>      <td rowspan="1" colspan="1"><p>Nº Ex</p></td>      <td rowspan="1" colspan="1"><p>Alíquota (%)</p></td>      <td rowspan="1" colspan="1"><p>Descrição</p></td>      <td rowspan="1" colspan="1"><p>Quota</p></td>      <td rowspan="1" colspan="1"><p>Unidade Quota</p></td>      <td rowspan="1" colspan="1"><p>Início da Vigência</p></td>      <td rowspan="1" colspan="1"><p>Término da Vigência</p></td>      <td rowspan="1" colspan="1"><p>Observação</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2931.49.14</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>3,8</p></td>      <td rowspan="1" colspan="1"><p>Glifosato e seu sal de monoisopropilamina</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>5/8/2022</p></td>      <td rowspan="1" colspan="1"><p>4/8/2023</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3901.40.00</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>3,3</p></td>      <td rowspan="1" colspan="1"><p>-Copolímeros de etileno e alfa-olefina, de densidade inferior a 0,94</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>5/8/2022</p></td>      <td rowspan="1" colspan="1"><p>4/8/2023</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3902.30.00</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>4,4</p></td>      <td rowspan="1" colspan="1"><p>-Copolímeros de propileno</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>5/8/2022</p></td>      <td rowspan="1" colspan="1"><p>4/8/2023</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3904.10.10</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>4,4</p></td>      <td rowspan="1" colspan="1"><p>Obtido por processo de suspensão</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>5/8/2022</p></td>      <td rowspan="1" colspan="1"><p>4/8/2023</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3907.61.00</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>4,2</p></td>      <td rowspan="1" colspan="1"><p>--De um índice de viscosidade de 78 ml/g ou mais</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>5/8/2022</p></td>      <td rowspan="1" colspan="1"><p>4/8/2023</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>     </tr>    </tbody>   </table>
+
+**Art. 3º.** Esta Resolução entra em vigor em 5 de agosto de 2022.
+
+MARCELO PACHECO DOS GUARANYS
+
+Presidente do Comitê Substituto

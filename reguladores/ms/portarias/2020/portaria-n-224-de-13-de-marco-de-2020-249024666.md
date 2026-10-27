@@ -1,0 +1,40 @@
+---
+titulo: "PORTARIA Nº 224, DE 13 DE MARÇO DE 2020"
+orgao: "Ministério da Saúde/Secretaria de Atenção Especializada à Saúde"
+tipo: "Portaria"
+numero: "224"
+data: 2020-03-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/03/2020, seção 1, p. 202"
+data_publicacao: 2020-03-20
+edicao: "55"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-224-de-13-de-marco-de-2020-249024666"
+sha256_html_fonte: 34193adb4c7bec7139fd15c82ebaa3f723e764e9eed3cacc5b6def8f9e853228
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 224, DE 13 DE MARÇO DE 2020
+
+PORTARIA Nº 224, DE 13 DE MARÇO DE 2020
+
+Define distribuição de recursos financeiros para a realização da estratégia de acesso aos Procedimentos Cirúrgicos Eletivos no âmbito do Sistema Único de Saúde (SUS), no Estado da Bahia.
+
+O Secretário de Atenção Especializada à Saúde, no uso de suas atribuições,
+
+Considerando a Portaria nº 3.932/GM/MS, de 30 de dezembro de 2019, que define, para o exercício de 2020, a estratégia de acesso aos Procedimentos Cirúrgicos Eletivos no âmbito do Sistema Único de Saúde (SUS); e
+
+Considerando a Resolução CIB nº 02/2020, de 23 de janeiro de 2020, da Comissão Intergestores Bipartite do Estado da Bahia, que que define as responsabilidades das cirurgias eletivas a serem realizadas no Estado da Bahia, resolve:
+
+**Art. 1º** Fica definida a distribuição de recursos financeiros para a realização da estratégia de acesso aos Procedimentos Cirúrgicos Eletivos no âmbito do Sistema Único de Saúde (SUS), no Estado da Bahia, conforme anexo a esta Portaria.
+
+**Art. 2º** O Fundo Nacional de Saúde adotará as medidas necessárias para a transferência dos recursos financeiros aos Fundos Estadual e Municipais de Saúde, após a apuração da produção na Base de Dados dos Sistemas de Informações do SUS.
+
+**Art. 3º** A definição não acarretará ônus para o Ministério da Saúde.
+
+**Art. 4º** Esta Portaria entra em vigor na data da sua publicação, com efeitos financeiros a partir da competência Janeiro de 2020.
+
+FRANCISCO DE ASSIS FIGUEIREDO
+
+## ANEXO
+
+<table><tr></tr><tr><td><p>UF</p></td><td><p>CO_IBGE</p></td><td><p>MUNICÍPIOS</p></td><td><p>GESTÃO</p></td><td><p>LIMITE R$</p></td></tr><tr><td><p>BA</p></td><td><p>290000</p></td><td><p>BAHIA</p></td><td><p>ESTADUAL</p></td><td><p>7.671.575,90</p></td></tr><tr><td><p>BA</p></td><td><p>290070</p></td><td><p>ALAGOINHAS</p></td><td><p>MUNICIPAL</p></td><td><p>207.246,77</p></td></tr><tr><td><p>BA</p></td><td><p>290320</p></td><td><p>BARREIRAS</p></td><td><p>MUNICIPAL</p></td><td><p>372.994,38</p></td></tr><tr><td><p>BA</p></td><td><p>290500</p></td><td><p>CACULE</p></td><td><p>MUNICIPAL</p></td><td><p>27.573,94</p></td></tr><tr><td><p>BA</p></td><td><p>290520</p></td><td><p>CAETITE</p></td><td><p>MUNICIPAL</p></td><td><p>152.876,52</p></td></tr><tr><td><p>BA</p></td><td><p>290570</p></td><td><p>CAMACARI</p></td><td><p>MUNICIPAL</p></td><td><p>355.988,28</p></td></tr><tr><td><p>BA</p></td><td><p>290710</p></td><td><p>CARINHANHA</p></td><td><p>MUNICIPAL</p></td><td><p>61.321,97</p></td></tr><tr><td><p>BA</p></td><td><p>290780</p></td><td><p>CICERO DANTAS</p></td><td><p>MUNICIPAL</p></td><td><p>156.505,64</p></td></tr><tr><td><p>BA</p></td><td><p>290910</p></td><td><p>CORIBE</p></td><td><p>MUNICIPAL</p></td><td><p>17.649,60</p></td></tr><tr><td><p>BA</p></td><td><p>290930</p></td><td><p>CORRENTINA</p></td><td><p>MUNICIPAL</p></td><td><p>22.374,37</p></td></tr><tr><td><p>BA</p></td><td><p>291005</p></td><td><p>DIAS D'AVILA</p></td><td><p>MUNICIPAL</p></td><td><p>110.746,34</p></td></tr><tr><td><p>BA</p></td><td><p>291072</p></td><td><p>EUNAPOLIS</p></td><td><p>MUNICIPAL</p></td><td><p>216.515,55</p></td></tr><tr><td><p>BA</p></td><td><p>291080</p></td><td><p>FEIRA DE SANTANA</p></td><td><p>MUNICIPAL</p></td><td><p>771.195,67</p></td></tr><tr><td><p>BA</p></td><td><p>291085</p></td><td><p>FILADELFIA</p></td><td><p>MUNICIPAL</p></td><td><p>19.489,79</p></td></tr><tr><td><p>BA</p></td><td><p>291170</p></td><td><p>GUANAMBI</p></td><td><p>MUNICIPAL</p></td><td><p>100.538,38</p></td></tr><tr><td><p>BA</p></td><td><p>291200</p></td><td><p>IBIASSUCE</p></td><td><p>MUNICIPAL</p></td><td><p>29.269,79</p></td></tr><tr><td><p>BA</p></td><td><p>291460</p></td><td><p>IRECE</p></td><td><p>MUNICIPAL</p></td><td><p>86.835,90</p></td></tr><tr><td><p>BA</p></td><td><p>291560</p></td><td><p>ITAMARAJU</p></td><td><p>MUNICIPAL</p></td><td><p>76.742,91</p></td></tr><tr><td><p>BA</p></td><td><p>291640</p></td><td><p>ITAPETINGA</p></td><td><p>MUNICIPAL</p></td><td><p>212.602,60</p></td></tr><tr><td><p>BA</p></td><td><p>291700</p></td><td><p>ITIUBA</p></td><td><p>MUNICIPAL</p></td><td><p>42.948,47</p></td></tr><tr><td><p>BA</p></td><td><p>291750</p></td><td><p>JACOBINA</p></td><td><p>MUNICIPAL</p></td><td><p>201.969,56</p></td></tr><tr><td><p>BA</p></td><td><p>291800</p></td><td><p>JEQUIE</p></td><td><p>MUNICIPAL</p></td><td><p>367.057,11</p></td></tr><tr><td><p>BA</p></td><td><p>291810</p></td><td><p>JEREMOABO</p></td><td><p>MUNICIPAL</p></td><td><p>18.916,18</p></td></tr><tr><td><p>BA</p></td><td><p>291840</p></td><td><p>JUAZEIRO</p></td><td><p>MUNICIPAL</p></td><td><p>257.896,68</p></td></tr><tr><td><p>BA</p></td><td><p>291920</p></td><td><p>LAURO DE FREITAS</p></td><td><p>MUNICIPAL</p></td><td><p>236.157,66</p></td></tr><tr><td><p>BA</p></td><td><p>291955</p></td><td><p>LUIS EDUARDO MAGALHAES</p></td><td><p>MUNICIPAL</p></td><td><p>104.153,81</p></td></tr><tr><td><p>BA</p></td><td><p>292100</p></td><td><p>MATA DE SAO JOAO</p></td><td><p>MUNICIPAL</p></td><td><p>88.222,80</p></td></tr><tr><td><p>BA</p></td><td><p>292110</p></td><td><p>MEDEIROS NETO</p></td><td><p>MUNICIPAL</p></td><td><p>27.000,33</p></td></tr><tr><td><p>BA</p></td><td><p>292200</p></td><td><p>MUCURI</p></td><td><p>MUNICIPAL</p></td><td><p>101.303,59</p></td></tr><tr><td><p>BA</p></td><td><p>292230</p></td><td><p>MURITIBA</p></td><td><p>MUNICIPAL</p></td><td><p>10.496,06</p></td></tr><tr><td><p>BA</p></td><td><p>292360</p></td><td><p>PARAMIRIM</p></td><td><p>MUNICIPAL</p></td><td><p>20.666,77</p></td></tr><tr><td><p>BA</p></td><td><p>292460</p></td><td><p>PINDOBACU</p></td><td><p>MUNICIPAL</p></td><td><p>23.979,93</p></td></tr><tr><td><p>BA</p></td><td><p>292530</p></td><td><p>PORTO SEGURO</p></td><td><p>MUNICIPAL</p></td><td><p>237.766,64</p></td></tr><tr><td><p>BA</p></td><td><p>292740</p></td><td><p>SALVADOR</p></td><td><p>MUNICIPAL</p></td><td><p>3.448.719,75</p></td></tr><tr><td><p>BA</p></td><td><p>292810</p></td><td><p>SANTA MARIA DA VITORIA</p></td><td><p>MUNICIPAL</p></td><td><p>109.535,40</p></td></tr><tr><td><p>BA</p></td><td><p>292890</p></td><td><p>SAO DESIDERIO</p></td><td><p>MUNICIPAL</p></td><td><p>40.155,37</p></td></tr><tr><td><p>BA</p></td><td><p>292900</p></td><td><p>SAO FELIX</p></td><td><p>MUNICIPAL</p></td><td><p>282.876,71</p></td></tr><tr><td><p>BA</p></td><td><p>292905</p></td><td><p>SAO FELIX DO CORIBE</p></td><td><p>MUNICIPAL</p></td><td><p>18.316,38</p></td></tr><tr><td><p>BA</p></td><td><p>292950</p></td><td><p>SAO SEBASTIAO DO PASSE</p></td><td><p>MUNICIPAL</p></td><td><p>8.062,04</p></td></tr><tr><td><p>BA</p></td><td><p>292960</p></td><td><p>SAPEACU</p></td><td><p>MUNICIPAL</p></td><td><p>20.704,85</p></td></tr><tr><td><p>BA</p></td><td><p>293020</p></td><td><p>SENTO SE</p></td><td><p>MUNICIPAL</p></td><td><p>48.416,84</p></td></tr><tr><td><p>BA</p></td><td><p>293070</p></td><td><p>SIMOES FILHO</p></td><td><p>MUNICIPAL</p></td><td><p>159.918,15</p></td></tr><tr><td><p>BA</p></td><td><p>293135</p></td><td><p>TEIXEIRA DE FREITAS</p></td><td><p>MUNICIPAL</p></td><td><p>201.851,49</p></td></tr><tr><td><p>BA</p></td><td><p>293260</p></td><td><p>URANDI</p></td><td><p>MUNICIPAL</p></td><td><p>83.528,69</p></td></tr><tr><td><p>BA</p></td><td><p>293330</p></td><td><p>VITORIA DA CONQUISTA</p></td><td><p>MUNICIPAL</p></td><td><p>790.166,55</p></td></tr><tr><td><p>BA</p></td><td><p>293360</p></td><td><p>XIQUE-XIQUE</p></td><td><p>MUNICIPAL</p></td><td><p>79.167,89</p></td></tr><tr><td><p>TOTAL R$</p></td><td><p>17.700.000,00</p></td></tr></table>

@@ -1,0 +1,40 @@
+---
+titulo: "RESOLUÇÃO CGPAL Nº 41, DE 12 DE JUNHO DE 2026"
+orgao: "Ministério de Minas e Energia/Comitê Gestor do Pró-Amazônia Legal"
+tipo: "Resolução"
+numero: "41"
+data: 2026-06-12
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 15/06/2026, seção 1, p. 79"
+data_publicacao: 2026-06-15
+edicao: "109"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-cgpal-n-41-de-12-de-junho-de-2026-712051805"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO CGPAL Nº 41, DE 12 DE JUNHO DE 2026
+
+RESOLUÇÃO CGPAL Nº 41, DE 12 DE JUNHO DE 2026
+
+Autoriza a destinação de recursos para reembolso de valores, a título de compensação por impactos socioambientais irreversíveis em terra indígena, à Transnorte Energia S.A., concessionária de transmissão de energia elétrica responsável pela construção, operação e manutenção do Linhão de Tucuruí, objeto do Contrato de Concessão nº 003/2012-Aneel.
+
+O COMITÊ GESTOR DO PROGRAMA DE REDUÇÃO ESTRUTURAL DE CUSTOS DE GERAÇÃO DE ENERGIA NA AMAZÔNIA LEGAL E DE NAVEGABILIDADE DO RIO MADEIRA E DO RIO TOCANTINS - PRÓ-AMAZÔNIA LEGAL - CGPAL, no uso da competência que lhe foi conferida pelo art. 2º, inciso III, do Decreto nº 11.059, de 3 de maio de 2022, tendo em vista o disposto na deliberação na 2ª Reunião Ordinária 2026, realizada em 12 de junho de 2026, e o que consta dos Processos nº 48360.000174/2026-57 e 48340.002250/2023-54, resolve:
+
+**Art. 1º** Fica aprovada a destinação, nos termos do Anexo I desta Resolução, de recursos para reembolso de valores, a título de compensação por impactos socioambientais irreversíveis em terra indígena, à Transnorte Energia S.A., concessionária de transmissão de energia elétrica responsável pela construção, operação e manutenção do Linhão de Tucuruí, objeto do Contrato de Concessão nº 003/2012-Aneel.
+
+**§ 1º** A autorização de que trata o caput está amparada no atendimento dos requisitos dos art. 6º, inciso IV e §3º, 4º e 5º do art. 7º do Decreto nº 11.059, de 3 de maio de 2022 e nas diretrizes previstas no Regimento Interno do Comitê.
+
+**§ 2º** Os recursos de que trata o caput terão origem na Conta de Desenvolvimento da Amazônia Legal - CDAL.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+LORENA MELO SILVA PERIM
+
+Presidente do Comitê
+
+## ANEXO I
+
+| Compensação - Acordo Judicial SEÇÃO V - DAS OBRIGAÇÕES DA UNIÃO | Pagamento | Valor original (Agosto/2021) (R$) | Valor atualizado e Auditado (R$) |
+| --- | --- | --- | --- |
+| PARCELAS - COMPENSAÇÃO POR IMPACTOS SOCIOAMBIENTAIS IRREVERSÍVEIS E FORTALECIMENTO DO PWA NA TERRA INDÍGENA | 14ª Parcela | 1.849.729,28 | 2.368.403,25 |
+| Total | - | 1.849.729,28 | 2.368.403,25 |

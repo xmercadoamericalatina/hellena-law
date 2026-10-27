@@ -1,0 +1,42 @@
+---
+titulo: "PORTARIA Nº 2.138, DE 4 DE JULHO DE 2022"
+orgao: "Ministério do Desenvolvimento Regional/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "2138"
+data: 2022-07-04
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 05/07/2022, seção 1, p. 183"
+data_publicacao: 2022-07-05
+edicao: "125"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-2.138-de-4-de-julho-de-2022-412877931"
+sha256_html_fonte: 2faa17a27f27a2c8a2ed47f5e705a5985b190af4d7f8ad125a2eaf4a89fdaf4c
+baixado_em: 2026-10-20
+---
+# PORTARIA Nº 2.138, DE 4 DE JULHO DE 2022
+
+PORTARIA Nº 2.138, DE 4 DE JULHO DE 2022
+
+Permuta entre Cargo Comissionado Executivo e Função Comissionada Executiva da estrutura organizacional do Ministério do Desenvolvimento Regional.
+
+O MINISTRO DE ESTADO DO DESENVOLVIMENTO REGIONAL, no uso das atribuições que lhe confere o art. 87, parágrafo único, incisos I e II, da Constituição, e tendo em vista o disposto no Decreto n. 11.065, de 6 de maio de 2022, e no Decreto n. 10.829, de 5 de outubro de 2021, resolve:
+
+**Art. 1º** Permutar, na forma do Anexo a esta Portaria, o Cargo Comissionado Executivo - CCE 1.15 do Diretor da Diretoria de Administração da Secretaria de Coordenação e Gestão da Secretaria-Executiva com a Função Comissionada Executiva - FCE 1.15 do Diretor da Diretoria de Orçamento e Finanças da Secretaria de Coordenação e Gestão da Secretaria-Executiva.
+
+**Art. 2º** O Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério do Desenvolvimento Regional, constante no Anexo II, alínea "a" do Decreto n. 11.065, de 6 de maio de 2022, passa a vigorar conforme o Anexo a esta Portaria.
+
+**Art. 3º** Esta Portaria entra em vigor um dia após a data da sua publicação.
+
+DANIEL DE OLIVEIRA DUARTE FERREIRA
+
+## ANEXO
+
+".........................................................................................................................................................................
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>UNIDADE</p></td>      <td rowspan="1" colspan="1"><p>CARGO/FUNÇÃO Nº</p></td>      <td rowspan="1" colspan="1"><p>DENOMINAÇÃO CARGO/FUNÇÃO</p></td>      <td rowspan="1" colspan="1"><p>CCE/FCE</p></td>     </tr>    </tbody>   </table>
+
+..........................................................................................................................................................................
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>DIRETORIA DE ADMINISTRAÇÃO</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Diretor</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.15</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Coordenação-Geral</p></td>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>Coordenador-Geral</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.13</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Coordenação</p></td>      <td rowspan="1" colspan="1"><p>9</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.10</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Coordenação</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>CCE 1.10</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>Assessor Técnico</p></td>      <td rowspan="1" colspan="1"><p>FCE 2.10</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Divisão</p></td>      <td rowspan="1" colspan="1"><p>16</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.07</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Divisão</p></td>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>CCE 1.07</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>8</p></td>      <td rowspan="1" colspan="1"><p>Assessor Técnico Especializado</p></td>      <td rowspan="1" colspan="1"><p>FCE 4.06</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>Assessor Técnico Especializado</p></td>      <td rowspan="1" colspan="1"><p>FCE 4.05</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Serviço</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>CCE 1.05</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Serviço</p></td>      <td rowspan="1" colspan="1"><p>14</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.05</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>DIRETORIA DE ORÇAMENTO E FINANÇAS</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Diretor</p></td>      <td rowspan="1" colspan="1"><p>CCE 1.15</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Assessor</p></td>      <td rowspan="1" colspan="1"><p>CCE 2.13</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Assessor</p></td>      <td rowspan="1" colspan="1"><p>FCE 2.13</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Coordenação-Geral</p></td>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>Coordenador-Geral</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.13</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Coordenação</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>CCE 1.10</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Coordenação</p></td>      <td rowspan="1" colspan="1"><p>8</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.10</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>Assistente</p></td>      <td rowspan="1" colspan="1"><p>CCE 2.07</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Divisão</p></td>      <td rowspan="1" colspan="1"><p>7</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.07</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Divisão</p></td>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>CCE 1.07</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>Assessor Técnico Especializado</p></td>      <td rowspan="1" colspan="1"><p>FCE 4.06</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>Assessor Técnico Especializado</p></td>      <td rowspan="1" colspan="1"><p>FCE 4.05</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>Assistente Técnico</p></td>      <td rowspan="1" colspan="1"><p>CCE 2.05</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Serviço</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Chefe</p></td>      <td rowspan="1" colspan="1"><p>FCE 1.05</p></td>     </tr>    </tbody>   </table>
+
+................................................................................................................................................................" (NR).

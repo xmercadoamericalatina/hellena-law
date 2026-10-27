@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIA Nº 3.530, DE 19 DE DEZEMBRO DE 2019"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "3530"
+data: 2019-12-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/02/2020, seção 1, p. 96"
+data_publicacao: 2020-02-19
+edicao: "35"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-3.530-de-19-de-dezembro-de-2019-244120526"
+sha256_html_fonte: 786691ff3e292ddcdd3e6505e2171df0bfb5755ebabca753968f79801d70478f
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 3.530, DE 19 DE DEZEMBRO DE 2019
+
+PORTARIA Nº 3.530, DE 19 DE DEZEMBRO DE 2019
+
+(Publicada no DOU de 20-12-2019)
+
+ANEXO (\*)
+
+<table><tr></tr><tr><td><p>IBGE</p></td><td><p>UF</p></td><td><p>MUNICÍPIO</p></td><td><p>CNES</p></td><td><p>DESCRIÇÃO</p></td><td><p>GESTÃO</p></td><td><p>Nº PROPOSTA SAIPS</p></td><td><p>CÓDIGO DE INCENTIVO HABILITAÇÃO</p></td><td><p>CÓDIGO DE INCENTIVO QUALIFICAÇÃO</p></td><td><p>INCENTIVO FINANCEIRO DE HABILITAÇÃO ANUAL R$</p></td><td><p>INCENTIVO FINANCEIRO DE QUALIFICAÇÃO ANUAL R$</p></td><td><p>TOTAL ANUAL R$</p></td></tr><tr><td><p>520140</p></td><td><p>GO</p></td><td><p>APARECIDA DE GOIÂNIA</p></td><td><p>6653596</p></td><td><p>CRU</p></td><td><p>MUNICIPAL</p></td><td><p>102597</p></td><td><p>82.45 - CENTRAL DE REGULAÇÃO DAS URGENCIAS SAMU 192</p></td><td><p>82.51 - CENTRAL DE REGULAÇÃO DAS URGÊNCIAS SAMU 192 E UNIDADES MÓVEIS QUALIFICADAS</p></td><td><p>1.075.200,00</p></td><td><p>207.858,00</p></td><td><p>1.283.058,00</p></td></tr><tr><td></td><td></td><td></td><td><p>6972977</p></td><td><p>USA</p></td><td></td><td></td><td><p>82.49 - UNIDADE MÓVEL DE ATENDIMENTO PRÉ-HOSPITALAR USA SAMU 192</p></td><td></td><td><p>462.000,00</p></td><td><p>116.652,00</p></td><td><p>578.652,00</p></td></tr><tr><td></td><td></td><td></td><td><p>6972969</p></td><td><p>USA</p></td><td></td><td></td><td></td><td></td><td><p>462.000,00</p></td><td><p>116.652,00</p></td><td><p>578.652,00</p></td></tr><tr><td></td><td></td><td></td><td><p>6973000</p></td><td><p>USA</p></td><td></td><td></td><td></td><td></td><td><p>462.000,00</p></td><td><p>116.652,00</p></td><td><p>578.652,00</p></td></tr><tr><td></td><td></td><td></td><td><p>6972993</p></td><td><p>USB</p></td><td></td><td></td><td><p>82.50 - UNIDADE MÓVEL DE ATENDIMENTO PRÉ-HOSPITALAR USB 192</p></td><td></td><td><p>157.500,00</p></td><td><p>105.528,00</p></td><td><p>263.028,00</p></td></tr><tr><td></td><td></td><td></td><td><p>6973019</p></td><td><p>USB</p></td><td></td><td></td><td></td><td></td><td><p>157.500,00</p></td><td><p>105.528,00</p></td><td><p>263.028,00</p></td></tr><tr><td></td><td></td><td></td><td><p>7092202</p></td><td><p>USB</p></td><td></td><td></td><td></td><td></td><td><p>157.500,00</p></td><td><p>105.528,00</p></td><td><p>263.028,00</p></td></tr><tr><td></td><td></td><td></td><td><p>7092210</p></td><td><p>USB</p></td><td></td><td></td><td></td><td></td><td><p>157.500,00</p></td><td><p>105.528,00</p></td><td><p>263.028,00</p></td></tr><tr><td></td><td></td><td></td><td><p>6973027</p></td><td><p>USB</p></td><td></td><td></td><td></td><td></td><td><p>157.500,00</p></td><td><p>105.528,00</p></td><td><p>263.028,00</p></td></tr><tr><td></td><td></td><td></td><td><p>6973035</p></td><td><p>USB</p></td><td></td><td></td><td></td><td></td><td><p>157.500,00</p></td><td><p>105.528,00</p></td><td><p>263.028,00</p></td></tr><tr><td></td><td></td><td></td><td><p>7283105</p></td><td><p>USB</p></td><td></td><td></td><td></td><td></td><td><p>157.500,00</p></td><td><p>105.528,00</p></td><td><p>263.028,00</p></td></tr><tr><td></td><td></td><td></td><td><p>6973051</p></td><td><p>MOTO</p></td><td></td><td><p>-</p></td><td><p>82.48 - UNIDADE MÓVEL DE ATENDIMENTO PRÉ-HOSPITALAR MOTOLANCIA 192</p></td><td><p>-</p></td><td><p>84.000,00</p></td><td><p>0,00</p></td><td><p>84.000,00</p></td></tr><tr><td></td><td></td><td></td><td><p>6973086</p></td><td><p>MOTO</p></td><td></td><td></td><td></td><td></td><td><p>84.000,00</p></td><td><p>0,00</p></td><td><p>84.000,00</p></td></tr><tr><td></td><td></td><td></td><td><p>6973094</p></td><td><p>MOTO</p></td><td></td><td></td><td></td><td></td><td><p>84.000,00</p></td><td><p>0,00</p></td><td><p>84.000,00</p></td></tr><tr><td><p>520330</p></td><td><p>GO</p></td><td><p>BELA VISTA DE GOIÁS</p></td><td><p>6583741</p></td><td><p>USB</p></td><td><p>MUNICIPAL</p></td><td><p>101978</p></td><td><p>82.50 - UNIDADE MÓVEL DE ATENDIMENTO PRÉ-HOSPITALAR USB 192</p></td><td><p>82.51 - CENTRAL DE REGULAÇÃO DAS URGÊNCIAS SAMU 192 E UNIDADES MÓVEIS QUALIFICADAS</p></td><td><p>157.500,00</p></td><td><p>105.528,00</p></td><td><p>263.028,00</p></td></tr><tr><td><p>521710</p></td><td><p>GO</p></td><td><p>PIRACANJUBA</p></td><td><p>6566014</p></td><td><p>USB</p></td><td><p>MUNICIPAL</p></td><td><p>102528</p></td><td><p>82.50 - UNIDADE MÓVEL DE ATENDIMENTO PRÉ-HOSPITALAR USB 192</p></td><td><p>82.51 - CENTRAL DE REGULAÇÃO DAS URGÊNCIAS SAMU 192 E UNIDADES MÓVEIS QUALIFICADAS</p></td><td><p>157.500,00</p></td><td><p>105.528,00</p></td><td><p>263.028,00</p></td></tr><tr><td><p>TOTAL</p></td><td><p>4.130.700,00</p></td><td><p>1.507.566,00</p></td><td><p>5.638.26</p></td></tr></table>
+
+Republicada por ter saído no Diário Oficial da União nº 246, de 20 de dezembro de 2019, Seção 1, páginas 188 e 189, com incorreções no original.

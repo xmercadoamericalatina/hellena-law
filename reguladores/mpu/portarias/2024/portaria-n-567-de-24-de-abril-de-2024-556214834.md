@@ -1,0 +1,24 @@
+---
+titulo: "Portaria nº 567, de 24 de abril de 2024"
+orgao: "Ministério Público da União/Ministério Público do Trabalho/Procuradoria-Geral"
+tipo: "Portaria"
+numero: "567"
+data: 2024-04-24
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 25/04/2024, seção 1, p. 99"
+data_publicacao: 2024-04-25
+edicao: "80"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-567-de-24-de-abril-de-2024-556214834"
+sha256_html_fonte: 78128d2effb84d5f321c0c5b4155df505942880e37220b8ac6f8e36848188cc1
+baixado_em: 2026-10-16
+---
+# Portaria nº 567, de 24 de abril de 2024
+
+Portaria nº 567, de 24 de abril de 2024
+
+O PROCURADOR-GERAL DO TRABALHO, no uso da atribuição prevista no inciso XXI do art. 91 da Lei Complementar nº 75, de 20 de maio de 1993, considerando o disposto no inciso V do art. 26 da Resolução CSMPT nº 132/2016 e no inciso VIII do art. 2º do Ato Conjunto PGR/CASMPU nº 01/2014, bem como os dados e informações constantes do PGEA 20.02.0300.0000614/2024-80, resolve:
+
+**Art. 1º** Determinar, a partir de 15 de maio de 2024, a alteração do status do 20° Ofício Geral da Procuradoria Regional do Trabalho da 3ª Região para "ofício provido com designação suspensa", bem como a redistribuição do respectivo acervo aos demais Ofícios Gerais providos na mesma Unidade e no mesmo Grau.
+
+JOSÉ DE LIMA RAMOS PEREIRA

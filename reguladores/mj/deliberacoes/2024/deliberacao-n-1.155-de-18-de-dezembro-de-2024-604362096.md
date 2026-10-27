@@ -1,0 +1,48 @@
+---
+titulo: "DELIBERAÇÃO Nº 1.155, DE 18 DE dezembro de 2024"
+orgao: "Ministério da Justiça e Segurança Pública/Comissão Nacional de Segurança Pública nos Portos, Terminais e Vias Navegáveis"
+tipo: "Deliberação"
+numero: "1155"
+data: 2024-12-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/12/2024, seção 1, p. 143"
+data_publicacao: 2024-12-27
+edicao: "249"
+fonte: "https://www.in.gov.br/web/dou/-/deliberacao-n-1.155-de-18-de-dezembro-de-2024-604362096"
+sha256_html_fonte: d3cf172507715f22183138bf2eaec64e6550c398ef5c64c8b3d983e92c14a23c
+baixado_em: 2026-10-16
+---
+# DELIBERAÇÃO Nº 1.155, DE 18 DE dezembro de 2024
+
+DELIBERAÇÃO Nº 1.155, DE 18 DE dezembro de 2024
+
+Os Membros da Comissão Nacional de Segurança Pública nos Portos, Terminais e Vias Navegáveis - Conportos, presentes na 190ª Reunião Ordinária, realizada em 18 de dezembro de 2024, no uso de suas atribuições, após a análise dos registros e mecanismos de controle interno, bem como das disposições estabelecidas na Resolução nº 53, de 04 de setembro de 2020, publicada no Diário Oficial da União nº 172, Seção 1, página 49, em 08 de setembro de 2020, deliberaram pela aprovação do calendário de auditorias para o exercício de 2025, nos Portos Organizados e nas instalações portuárias assinaladas no Anexo que integra esta deliberação.
+
+MARCELO JOÃO DA SILVA
+
+Presidente da Comissãop/Ministério da Justiça e da Segurança Pública
+
+LUIZ FERNANDO DE OLIVEIRA DIAS
+
+p/Ministério da Defesa
+
+CLEITON ALVES DOS SANTOS JOÃO SIMÕES
+
+p/Ministério da Fazenda
+
+GUSTAVO MEIRA CARNEIRO
+
+p/Ministério das Relações Exteriores
+
+EDIGAR JUNIO DA SILVA MARTINS
+
+p/Ministério dos Portos e Aeroportos
+
+DANIEL ALVES DOS SANTOS
+
+p/Agência Nacional de Transportes Aquaviários
+
+## ANEXO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>PERÍODO</p></td>      <td rowspan="1" colspan="1"><p>UF</p></td>      <td rowspan="1" colspan="1"><p>PORTO ORGANIZADO</p><p>INSTALAÇÃO PORTUÁRIA</p></td>      <td rowspan="1" colspan="1"><p>CNPJ</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>10 a 14</p><p>Março</p></td>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>BRASIL TERMINAL PORTUÁRIO S/A - BTP</p></td>      <td rowspan="1" colspan="1"><p>04.887.625/0001-78</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>EMBRAPORT EMPRESA BRASILEIRA DE TERMINAIS PORTUARIOS S/A</p><p>(DP WORLD)</p></td>      <td rowspan="1" colspan="1"><p>02.805.610/0001-98</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>ULTRAFÉRTIL S/A - VLI/TIPLAM</p></td>      <td rowspan="1" colspan="1"><p>02.476.026/0008-02</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>24 a 28</p><p>Março</p></td>      <td rowspan="1" colspan="1"><p>RJ</p></td>      <td rowspan="1" colspan="1"><p>MULTI-CAR RIO TERMINAL DE VEÍCULOS S/A</p></td>      <td rowspan="1" colspan="1"><p>02.369.513/0001-08</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>MULTI-RIO OPERAÇÕES PORTUÁRIAS S/A</p></td>      <td rowspan="1" colspan="1"><p>02.877.283/0002-60</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>UTE GNA I GERAÇÃO DE ENERGIA S/A</p></td>      <td rowspan="1" colspan="1"><p>23.449.511/0001-90</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>14 a 17</p><p>Abril</p></td>      <td rowspan="1" colspan="1"><p>PR</p></td>      <td rowspan="1" colspan="1"><p>CARGILL AGRICOLA S/A</p></td>      <td rowspan="1" colspan="1"><p>60.498.706/0003-19</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>CBL - COMPANHIA BRASILEIRA DE LOGISTICA S/A</p></td>      <td rowspan="1" colspan="1"><p>03.649.445/0004-38</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>05a 09</p><p>Maio</p></td>      <td rowspan="1" colspan="1"><p>PA</p></td>      <td rowspan="1" colspan="1"><p>COMPANHIA DOCAS DO PARÁ - CDP - PORTO ORGANIZADO DE BELÉM</p></td>      <td rowspan="1" colspan="1"><p>04.933.552/0001-03</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>COMPANHIA DOCAS DO PARÁ - CDP - PORTO ORGANIZADO DO MIRAMAR</p></td>      <td rowspan="1" colspan="1"><p>04.933.552/0001-03</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>OCRIM S/A - PRODUTOS ALIMENTÍCIOS</p></td>      <td rowspan="1" colspan="1"><p>61.065.199/0004-73</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>09 a 13 de Junho</p></td>      <td rowspan="1" colspan="1"><p>RS</p></td>      <td rowspan="1" colspan="1"><p>GRANEL QUÍMICA LTDA.</p></td>      <td rowspan="1" colspan="1"><p>44.983.435/0005-00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>TERMINAL MARÍTIMO LUIZ FOGLIATTO S/A (TERMASA/TERGASA)</p></td>      <td rowspan="1" colspan="1"><p>74.109.828/0001-19</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>21 a 30</p><p>Julho</p></td>      <td rowspan="1" colspan="1"><p>PA</p></td>      <td rowspan="1" colspan="1"><p>CADAM S/A - CAULIM DA AMAZÔNIA</p></td>      <td rowspan="1" colspan="1"><p>04.788.980/0010-80</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>JARI CELULOSE PAPEL E EMABLAGENS S/A</p></td>      <td rowspan="1" colspan="1"><p>04.815.734/0018-28</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>NAVEGAÇÕES UNIDAS TAPAJÓS S/A (Antiga TERFRON / BUNGE)</p></td>      <td rowspan="1" colspan="1"><p>11.338.257/0001-74</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>11 a 15 Agosto</p></td>      <td rowspan="1" colspan="1"><p>BA</p></td>      <td rowspan="1" colspan="1"><p>TECON SALVADOR S/A - TERMINAL DE CONTÊINERES</p></td>      <td rowspan="1" colspan="1"><p>03.642.342/0001-01</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>DOW BRASIL INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA.</p></td>      <td rowspan="1" colspan="1"><p>60.435.351/0017-14</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>01 a 05</p><p>Setembro</p></td>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>DOW BRASIL SUDESTE INDUSTRIAL LTDA.</p></td>      <td rowspan="1" colspan="1"><p>53.877.627/0009-49</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>FIBRIA TERMINAL DE CELULOSE DE SANTOS SPE S/A</p></td>      <td rowspan="1" colspan="1"><p>24.004.805/0001-71</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>PETROBRÁS TRANSPORTE S/A - TRANSPETRO - TA SÃO SEBASTIÃO</p></td>      <td rowspan="1" colspan="1"><p>02.709.449/0040-65</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>15 a 19</p><p>Setembro</p></td>      <td rowspan="1" colspan="1"><p>AM</p></td>      <td rowspan="1" colspan="1"><p>PETROBRÁS TRANSPORTE S/A - TRANSPETRO - TA DE MANAUS</p></td>      <td rowspan="1" colspan="1"><p>02.709.449/0062-70</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>1º a 10 Outubro</p></td>      <td rowspan="1" colspan="1"><p>SC</p></td>      <td rowspan="1" colspan="1"><p>SEARA ALIMENTOS LTDA. (BRASKARNE)</p></td>      <td rowspan="1" colspan="1"><p>02.914.460/0107-09</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>SUPERINTENDÊNCIA DO PORTO DE ITAJAÍ - PORTO ORGANIZADO DE ITAJAÍ</p></td>      <td rowspan="1" colspan="1"><p>00.662.091/0001-20</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>TEPORTI - TERMINAL PORTUÁRIO DE ITAJAÍ LTDA.</p></td>      <td rowspan="1" colspan="1"><p>03.788.529/0001-00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>TESC - TERMINAL SANTA CATARINA S/A</p></td>      <td rowspan="1" colspan="1"><p>01.115.535/0001-70</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>10a 20</p><p>Novembro</p></td>      <td rowspan="1" colspan="1"><p>PE</p></td>      <td rowspan="1" colspan="1"><p>PANDENOR IMPORTAÇÃO E EXPORTAÇÃO LTDA.</p></td>      <td rowspan="1" colspan="1"><p>00.499.730/0001-89</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>SUAPE - COMPLEXO INDUSTRIAL PORTUÁRIO GOVERNADOR ERALDO GUEIRO - PORTO ORGANIZADO DE GOVERNADOR ERALDO GUEIRO</p></td>      <td rowspan="1" colspan="1"><p>11.448.933/0001-62</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>TECON SUAPE S/A - ICTSI</p></td>      <td rowspan="1" colspan="1"><p>04.471.564/0001-63</p></td>     </tr>    </tbody>   </table>

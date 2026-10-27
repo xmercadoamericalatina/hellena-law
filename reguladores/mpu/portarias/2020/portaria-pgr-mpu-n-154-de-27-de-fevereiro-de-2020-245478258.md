@@ -1,0 +1,42 @@
+---
+titulo: "PORTARIA PGR/MPU Nº 154, DE 27 DE FEVEREIRO DE 2020"
+orgao: "Ministério Público da União/Atos do Procurador-Geral da República"
+tipo: "Portaria"
+numero: "154"
+data: 2020-02-27
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/03/2020, seção 1, p. 114"
+data_publicacao: 2020-03-02
+edicao: "41"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-pgr/mpu-n-154-de-27-de-fevereiro-de-2020-245478258"
+sha256_html_fonte: c53d0667bff5839c94fbf47487be335f68f5f6f50a98623ec362ae4bd73914f3
+baixado_em: 2026-10-21
+---
+# PORTARIA PGR/MPU Nº 154, DE 27 DE FEVEREIRO DE 2020
+
+PORTARIA PGR/MPU Nº 154, DE 27 DE FEVEREIRO DE 2020
+
+Fixa o prazo de 30 (trinta) dias, a contar da data de publicação desta Portaria, para que os atuais ocupantes do cargo de Analista do MPU/Educação possam optar pelo enquadramento no cargo de Analista do MPU/Gestão Pública.
+
+O PROCURADOR-GERAL DA REPÚBLICA, no uso das atribuições que lhe conferem o art. 127 da Constituição Federal e o art. 26, incisos VIII e XIII, da Lei Complementar nº 75, de 20/5/1993, e o que consta do Procedimento de Gestão Administrativa PGR nº 1.00.000.024918/2019-15, resolve:
+
+**Art. 1º** Fixar o prazo de 30 (trinta) dias, a contar da data de publicação desta Portaria, para que os atuais ocupantes do cargo de Analista do MPU/Educação possam optar pelo enquadramento no cargo de Analista do MPU/Gestão Pública.
+
+**§ 1º** A opção pelo enquadramento a que se refere o caput deste artigo é de caráter facultativo do servidor e deverá ser feita por meio do formulário disponível no Anexo I desta Portaria.
+
+**§ 2º** O servidor que não manifestar a opção no prazo fixado permanecerá no cargo em que ocupa.
+
+**§ 3º** O enquadramento previsto no § 1º será efetuado sem aumento de despesas.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+ANTONIO AUGUSTO BRANDÃO DE ARAS
+
+Anexo I da Portaria PGR/MPU Nº 154/2020
+
+<table><tr></tr><tr><td><p>MINISTÉRIO PÚBLICO DA UNIÃO</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>TERMO DE OPÇÃO</p><p>(Analista do MPU/Educação)</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>IDENTIFICAÇÃO</p></td><td></td></tr><tr><td><p>Nome:</p></td><td><p>Matrícula:</p></td><td></td></tr><tr><td><p>Cargo efetivo:</p><p>ANALISTA DO MPU/EDUCAÇÃO</p></td><td><p>Ramo:</p></td><td></td></tr><tr><td><p>Unidade de Lotação:</p></td><td><p>Unidade de Exercício:</p></td><td></td></tr><tr><td></td><td></td></tr><tr><td><p>Nos termos do art. 1º, § 1º, da Portaria PGR/MPU nº 154/2020, opto definitivamente pelo enquadramento no cargo de:</p><p>( )Analista do MPU/Gestão Pública</p><p>Atribuições básicas:</p></td><td></td></tr><tr><td><p>Formular, implantar e avaliar sistemas, processos e métodos de gestão, especialmente nas áreas de administração de materiais e compras, informação, tecnologia da informação e comunicação, gestão de pessoas, desenvolvimento organizacional, patrimônio, orçamento, fiscalização, controle interno e afins; formular e promover a articulação de programas, projetos e parcerias estratégicas; executar atividades especializadas de planejamento, gestão, coordenação e assistência técnica, bem como administrativas e de logísticas; pesquisar, desenvolver, monitorar e sistematizar as atividades decorrentes do planejamento estratégico e tático; acompanhar e avaliar projetos e ações implementados nas diferentes áreas de gestão;</p></td><td></td></tr><tr><td><p>elaborar, analisar e interpretar pesquisas, quadros, tabelas e planilhas; redigir relatórios, contratos, normas, editais, manuais, e outros documentos; efetuar estimativa de despesas da unidade; elaborar e aplicar instrumentos de acompanhamento, avaliação, pesquisa, controle e divulgação referentes aos planos, programas e projetos desenvolvidos pela área; aperfeiçoar procedimentos e métodos de trabalho; atuar em processos licitatórios; executar atividades inerentes aos subsistemas de gestão de pessoas; planejar, organizar, avaliar e executar atividades técnico-pedagógicas e administrativas na área de educação, inclusive corporativa; atuar em sistemas de avaliação de ações de TD&amp;E; elaborar diagnósticos das necessidades de TD&amp;E;</p></td><td></td></tr><tr><td><p>planejar e executar programas e projetos de educação presencial e a distância alinhados ao projeto de pesquisa conforme parâmetros do CNPq; exercer atividades relativas ao desenvolvimento do desenho instrucional de cursos na modalidade à distância e presencial; orientar atividades voltadas à transformação do desenho instrucional de cursos em linguagem multimídia e em material didático para cursos presenciais, entre outros; selecionar estratégias instrucionais e mídias adequadas aos diferentes tipos de conteúdos, objetivos, públicos-alvo e modalidades de ensino; zelar pelo cumprimento da legislação que envolve o projeto pedagógico;</p></td><td></td></tr><tr><td><p>desenvolver atividades de direção da administração orçamentária, de assessoramento especializado, inclusive para área afim, e de orientação e supervisão de auxiliares, abrangendo estudo, pesquisa, análise e interpretação da legislação econômica-fiscal, orçamentária, de pessoal e de encargos sociais; executar, coordenar e supervisionar trabalhos especializados de planejamento de gestão orçamentária e financeira; elaborar e acompanhar as propostas das leis orçamentárias observadas as diretrizes orçamentárias; supervisionar a execução orçamentária e financeira das despesas do órgão; supervisionar a programação financeira e sua conciliação com a programação e execução orçamentária; elaborar, implantar e avaliar sistemas, processos e métodos nas áreas de planejamento, orçamento e finanças públicas;</p></td><td></td></tr><tr><td><p>planejar, organizar, avaliar e executar atividades referentes à fiscalização e ao controle interno da aplicação dos recursos e bens públicos, examinando a legalidade, legitimidade, economicidade, eficiência, eficácia e efetividade em seus aspectos financeiro, orçamentário, contábil, patrimonial e operacional; analisar os balanços, balancetes, contas e demonstrativos contábeis e propor medidas de saneamento de situações anormais ou passíveis de aperfeiçoamento; apurar os atos ou fatos ilegais ou irregulares praticados na utilização de recursos públicos federais disponibilizados ao MPU; emitir parecer técnico sobre a interpretação de normas e instruções relativas à sua área de competência; propor a formulação e implementação de políticas na área econômico- financeira e patrimonial e de análise e avaliação de resultados;</p></td><td></td></tr><tr><td><p>fiscalizar os atos relativos à gestão fiscal, licitação e contratos, gestão de pessoas, apoio administrativo, orçamento e finanças; orientar e acompanhar o cumprimento das normas de encerramento do exercício financeiro determinadas pelo órgão central de contabilidade da União; orientar dirigentes e gestores de recursos públicos quanto à gestão contábil, orçamentária, financeira, patrimonial e de pessoal, efetuando o respectivo acompanhamento, controle, fiscalização e avaliação; propor medidas que viabilizem o atendimento das diligências oriundas do Tribunal de Contas da União; e realizar visitas técnicas nas unidades gestoras.</p></td><td></td></tr><tr><td></td></tr><tr><td><p>Portaria PGR/MPU Nº 154/2020</p></td></tr><tr><td><p>Art. 1º Fixar o prazo de 30 (trinta) dias, a contar da data de publicação desta Portaria, para que os atuais ocupantes do cargo de Analista do MPU/Educação possam optar pelo enquadramento no cargo de Analista do MPU/Gestão Pública.</p><p>§ 1º A opção pelo enquadramento a que se refere o caput deste artigo é de caráter facultativo do servidor e deverá ser feita por meio do formulário disponível no Anexo I desta Portaria.</p><p>§ 2º O servidor que não manifestar a opção no prazo fixado permanecerá no cargo em que ocupa.</p><p>§ 3º O enquadramento previsto no § 1º será efetuado sem aumento de despesas.</p></td></tr><tr><td></td><td></td></tr><tr><td><p>______________________, _____/_____/_______ _____________________________________________________________</p><p>Local Data Carimbo e Assinatura do Servidor</p></td></tr><tr><td></td></tr><tr><td><p>Declaro estar ciente da opção acima. Encaminhe-se à área de gestão de pessoas.</p><p>______________________, _____/_____/_______ _____________________________________________________________</p><p>Local Data Carimbo e Assinatura da Chefia Imediata</p></td></tr></table>

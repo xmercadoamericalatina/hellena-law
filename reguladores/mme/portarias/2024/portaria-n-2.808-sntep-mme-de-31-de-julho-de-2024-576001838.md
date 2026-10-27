@@ -1,0 +1,48 @@
+---
+titulo: "Portaria Nº 2.808/SNTEP/MME, DE 31 DE julho DE 2024"
+orgao: "Ministério de Minas e Energia/Secretaria Nacional de Transição Energética e Planejamento"
+tipo: "Portaria"
+numero: "2808"
+data: 2024-07-31
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/08/2024, seção 1, p. 159"
+data_publicacao: 2024-08-02
+edicao: "148"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-2.808/sntep/mme-de-31-de-julho-de-2024-576001838"
+sha256_html_fonte: a3465598674b01361655afe00f53cf11b27db779fe76b8815a2a0c2c81bfdbf0
+baixado_em: 2026-10-16
+---
+# Portaria Nº 2.808/SNTEP/MME, DE 31 DE julho DE 2024
+
+Portaria Nº 2.808/SNTEP/MME, DE 31 DE julho DE 2024
+
+O SECRETÁRIO NACIONAL DE TRANSIÇÃO ENERGÉTICA E PLANEJAMENTO DO MINISTÉRIO DE MINAS E ENERGIA, no uso da competência que lhe foi delegada pelo art. 1º, inciso VII, da Portaria nº 692/GM/MME, de 5 de outubro de 2022, considerando o disposto nos arts. 2º, inciso I, e 3º, inciso I, do Decreto nº 5.597, de 28 de novembro de 2005, e o que consta no Processo nº 48340.003298/2023-80, resolve:
+
+**Art. 1º.** Reconhecer que a alternativa de acesso à Rede Básica do Sistema Interligado Nacional, definida pelos estudos para a conexão do Projeto Iracema Amônia Verde, localizado no município de Caucaia, estado do Ceará, de propriedade da empresa Casa dos Ventos S.A., inscrita no CNPJ/MF sob o nº 43.162.519/0001-89, atende aos critérios de mínimo custo global de interligação e reforço nas redes e está compatível com o planejamento da expansão do setor elétrico para um horizonte mínimo de cinco anos.
+
+**Art. 2º.** Nos termos do art. 4º do Decreto nº 5.597, de 28 de novembro de 2005, o referido acesso compreende as seguintes instalações:
+
+I. seccionamento da Linha de Transmissão Pecém II - Pacatuba C2, em 500 kV, sob concessão da STN (Sistema de Transmissão Nordeste S.A.), e construção de extensões de Linha de Transmissão em 500 kV, circuito duplo, de aproximadamente 3,5 km de extensão cada e quatro cabos condutores 954 kcmil por fase, conectando ao barramento de 500 kV da Subestação Pecém III, formando as Linhas de Transmissão Pecém II - Pecém III e Pacatuba - Pecém III, em 500 kV;
+
+II. construção de novo pátio em 500kV na Subestação Pecém III e respectivas conexões, em arranjo disjuntor e meio, com três disjuntores para conexão de Entrada de Linha e dois disjuntores para interligação de barra;
+
+III. construção de linha de transmissão, radial, aérea, em 500 kV, circuito simples, com capacidade equivalente ao cabo 4x636 MCM por fase, com aproximadamente 2,5 km de extensão, ligando a Subestação PECÉM III à nova Subestação CDVH em 500 kV; e
+
+IV. construção de novo pátio de transformação na Subestação CDVH, em 500/34,5 kV e respectivas conexões, em arranjo disjuntor e meio, com um disjuntor para conexão de Entrada de Linha, dois disjuntores para conexão dos transformadores e dois disjuntores para interligação de barra.
+
+**§1º.** As instalações relacionadas neste artigo deverão observar os Procedimentos de Rede, na sua última revisão, aprovados pela Agência Nacional de Energia Elétrica - ANEEL, e os padrões técnicos da concessionária de transmissão acessada.
+
+**§2º.** As instalações relacionadas neste artigo poderão ser compartilhadas ou executadas por outros consumidores livres detentores de portaria do Ministério de Minas e Energia reconhecendo o acesso à Rede Básica por meio de instalações coincidentes.
+
+**Art. 3º.** O acesso pretendido pelo consumidor livre deverá ser precedido de Parecer de Acesso emitido pelo Operador Nacional do Sistema Elétrico - ONS e de Autorização expedida pela ANEEL, conforme estabelece o Decreto nº 5.597, de 2005.
+
+**Parágrafo único.** Nos termos da regulamentação da ANEEL, o Parecer de Acesso considerará a configuração do sistema de transmissão disponível e o montante de carga de outros consumidores que tenham Parecer de Acesso emitido ou que estejam com solicitação de acesso em andamento na data de formalização da solicitação de acesso ao ONS para o Projeto Iracema Amônia Verde.
+
+**Art. 4º.** As instalações descritas no art. 2º, até a data de 31 de dezembro de 2033, deverão compor CUST vigente.
+
+**Parágrafo único.** Fica revogada esta Portaria caso não ocorra a condição e o prazo estabelecidos neste artigo.
+
+**Art. 5º** Esta Portaria entra em vigor na data de sua publicação.
+
+THIAGO VASCONCELLOS BARRAL FERREIRA
