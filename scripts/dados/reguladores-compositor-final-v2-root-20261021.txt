@@ -1,0 +1,32 @@
+from pathlib import Path
+import sys,json,hashlib,collections
+sys.path.insert(0,'scripts')
+from metadados_lotes import carregar
+from gates_reguladores_cache import chave
+from auditar_cache_dou import meta_corpo
+sha=lambda b:hashlib.sha256(b).hexdigest();slug,baseline,expected=sys.argv[1:4];expected=int(expected);headers=carregar(Path.cwd(),Path(baseline).read_bytes());keys={};urls={};tracked={r['path'] for r in headers}
+for r in headers:
+ k=chave(r['meta'],r['path'])
+ if all(k):keys.setdefault(k,[]).append(r['path'])
+ if r['meta'].get('fonte'):urls[r['meta']['fonte']]=r['path']
+reservas=[]
+if sys.argv[4]!='-':
+ for f in sys.argv[4].split(','):
+  mp=Path(f);rawmap=mp.read_bytes();links=hashlib.sha256();n=0
+  for p,digest in json.loads(rawmap).items():
+   if not(p.startswith('reguladores/') and '/_' not in p and p.endswith('.md')):continue
+   raw=Path(p).read_bytes();assert sha(raw)==digest,p;m,_=meta_corpo(raw.decode());k=chave(m,p);u=m['fonte'];assert all(k);keys.setdefault(k,[]).append(p);urls[u]=p;tracked.add(p);links.update((p+'\0'+digest+'\n').encode());n+=1
+  reservas.append({'mapa':f,'sha256_mapa':sha(rawmap),'normas':n,'sha256_vinculos_path_md':links.hexdigest()})
+h={};selected=[];held=[];seen=set()
+for mp in sys.argv[5:]:
+ for p,s in json.loads(Path(mp).read_text()).items():
+  raw=Path(p).read_bytes();assert sha(raw)==s,p
+  if p in h:assert h[p]==s;continue
+  if p.startswith('reguladores/') and '/_' not in p and p.endswith('.md'):
+   assert p not in seen;seen.add(p);m,_=meta_corpo(raw.decode());k=chave(m,p);u=m['fonte'];assert all(k)
+   if p in tracked or k in keys or u in urls:
+    held.append({'path':p,'sha256_md':s,'coincidencias':keys.get(k) or urls.get(u) or p,'motivo':'Identidade/URL coincide com baseline real de HEAD ou selecao anterior; retido para contexto, sem dedup automatico de edicoes.'});continue
+   keys[k]=[p];urls[u]=p;selected.append(p)
+  h[p]=s
+assert len(selected)+len(held)==expected,(len(selected),len(held),expected)
+pp=Path(f'scripts/dados/{slug}-selecao-final-root-20261021.json');assert not pp.exists();pp.write_text(json.dumps({'novas':len(selected),'qualificados_preliminares':expected,'retidos_identidade_final':held,'baseline_sha256':sha(Path(baseline).read_bytes()),'baseline_cabecalhos':len(headers),'reservas_qualificadas':reservas,'criterio':'Confronto final adicional por URL e identidade pasta/tipo/numero/data contra baseline de blobs reais de HEAD e entre todos componentes. Fonte e preimagem de cada artefato conferidas por SHA. Retidos de identidade permanecem preservados e fora da contagem; mapas finais prevalecem sobre seletores preliminares. Metas inalteradas.','sha256':h},ensure_ascii=False,indent=2)+'\n');h[str(pp)]=sha(pp.read_bytes());Path(f'/tmp/{slug}-hashes-20261021.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');Path(f'/tmp/{slug}-paths-20261021.txt').write_text('\n'.join(h)+'\n');print('FINAL',len(selected),'retidos',len(held),'paths',len(h),flush=True)

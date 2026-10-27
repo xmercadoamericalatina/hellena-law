@@ -1,0 +1,428 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "22c9478bddaccafdb352d55b6c15bb5b0ae9b4a65d9a1b5ee790ffd1224508c8",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "iguais": 4,
+    "revisar": 7
+  },
+  "documentos": [
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2022/portaria-n-79-de-15-de-julho-de-2022-415864521.md",
+      "sha256_md": "7a85754ac2b42b8c3ddadd07750374f27c21d82a0caa39ad15a1aa7efe7ec36d",
+      "sha256_fonte": "a16f27489b94e40cde61f5802990544db19437871d484a02e0675501444b2cb0",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              6,
+              8
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "86737f4cb7e92bb56d625f7cf40d33263d68f042acf6fb94f888969c74b21846",
+      "sha256_visivel_md": "86737f4cb7e92bb56d625f7cf40d33263d68f042acf6fb94f888969c74b21846"
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2022/portaria-n-90-de-15-de-agosto-de-2022-422757331.md",
+      "sha256_md": "1ba40715a81ae80fbf4afc7a4ca08d05581a62752f04b124d4962b311a6f598c",
+      "sha256_fonte": "17c15ad11d701670d8ed27cae95f99ef69f63c0995ea85e64a325ed03aadca84",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              6,
+              8
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "c436cd7d1d7180a6d2cb84ce2585c98ecd93276134e91de1adf080226c79a0cf",
+      "sha256_visivel_md": "c436cd7d1d7180a6d2cb84ce2585c98ecd93276134e91de1adf080226c79a0cf"
+    },
+    {
+      "path": "reguladores/tcu/portarias/2023/portaria-segedam-n-17-de-30-de-marco-de-2023-474545404.md",
+      "sha256_md": "abb8e0e1af143150d3d21061d7953be6e10e205f90dc818f5ab28cde3bd51727",
+      "sha256_fonte": "d689411adeedd603dad7f34e348aaeb9db2cef0aae87ca9442e4d46b4a3f66bc",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b1e02f3da165a9b40a52cd4ebb72b53329b482fd00e034f01f5dd02dfdca4e73",
+      "sha256_visivel_md": "beb6d419ece588892e509f464c90424eb2417ab633cd4ef364cfbb370ec33d14",
+      "primeira_diferenca": {
+        "posicao": 357,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 6, de 2 de janeiro de 2023, resolve: Art. 1º Fica autorizada, na forma do Anexo único desta portaria, a descentralização externa de créd",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 6, de 2 de janeiro de 2023, resolve: Art. 1º Fica autorizada, na forma do Anexo único desta portaria, a descentralização externa de cr"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2023/portaria-segedam-n-16-de-1-de-marco-de-2023-467803327.md",
+      "sha256_md": "02abfeb4afd568d6594a5e5f2f1645903d04b41a26b09d09e527242536b51c50",
+      "sha256_fonte": "c27df69f331710b9105d416599f6bae76f1f2d1214fbf597fd5e641e9277a8e8",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f2437fa066aa207be51fd4b257a101be5f8e4023683d7b940e7f01522103dcdb",
+      "sha256_visivel_md": "76e02af08fbb92857721535149e4e6cb430df9087e85f6c1f7a7a7dc342a3da3",
+      "primeira_diferenca": {
+        "posicao": 376,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 6, de 2 de janeiro de 2023, resolve: Art. 1º Fica autorizada, na forma do Anexo Único desta portaria, a descentralização externa de créd",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 6, de 2 de janeiro de 2023, resolve: Art. 1º Fica autorizada, na forma do Anexo Único desta portaria, a descentralização externa de cr"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2023/portaria-segedam-n-15-de-14-de-fevereiro-de-2023-464743000.md",
+      "sha256_md": "32238285b4da6eaaf1d351753c019d0fa0a3dc91ee71488554ccdd4a73288f7e",
+      "sha256_fonte": "2cbafb60d1f1cd588d4bf4f1c14c46abe1242030e79ebe67abe6dae5d842734e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "a3750b10ee41e3ab46adec96e684a50ff2e418ab7cdcd9aedd656abb2a063daf",
+      "sha256_visivel_md": "ba7e899e1bb5a5161a01f0343d9c4fce7bc6a68bfd9f0bf3e2122298e1d9f47a",
+      "primeira_diferenca": {
+        "posicao": 424,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 6, de 2 de janeiro de 2023, resolve: Art. 1º Fica autorizada, na forma do Anexo Único desta portaria, a descentralização externa de créd",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 6, de 2 de janeiro de 2023, resolve: Art. 1º Fica autorizada, na forma do Anexo Único desta portaria, a descentralização externa de cr"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2024/portaria-segedam-n-4-de-31-de-janeiro-de-2024-540651417.md",
+      "sha256_md": "67b523edca9bc45b5b75eec805eedd545145163ff1c79aca9f68181a39a2b723",
+      "sha256_fonte": "19fad49ee6a9778c85af0e5aeb17e3f22a4ae9a487eecce4ef26f757ae20929e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "87a61c20a158c341a21ae2b521e2bc12820e2f45fce1a63352e4b5a7ecfde67d",
+      "sha256_visivel_md": "ba63518fce8904e978363eab640bee599c25b3797fe2608f7ed836c9b0f27f91",
+      "primeira_diferenca": {
+        "posicao": 425,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 6, de 2 de janeiro de 2023, resolve: Art. 1º Fica autorizada, na forma do Anexo Único desta portaria, a descentralização externa de créd",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 6, de 2 de janeiro de 2023, resolve: Art. 1º Fica autorizada, na forma do Anexo Único desta portaria, a descentralização externa de cr"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2022/portaria-segedam-n-10-de-9-de-maio-de-2022-399683873.md",
+      "sha256_md": "d8c2c704b0166c1e778c40a654bcb538cc63bc7bdd61de7bf034faa97eb43c10",
+      "sha256_fonte": "f9fa2a7859a8053f137249796636fa63667b8c00b4afbde644ef81b5166b6a66",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "7dfb3cb85255c1d4ec70ab0ccd89d8ed5736860dbe2fdfd7d044352fac5a3ba3",
+      "sha256_visivel_md": "c31932c3ea65e46a136d44c4dcce3935ba26976fabac605fa98658c1ba7b15a1",
+      "primeira_diferenca": {
+        "posicao": 390,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 6, de 5 de janeiro de 2021, resolve: Art. 1º Fica autorizada, na forma do Anexo único desta portaria, a descentralização externa de créd",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 6, de 5 de janeiro de 2021, resolve: Art. 1º Fica autorizada, na forma do Anexo único desta portaria, a descentralização externa de cr"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2022/portaria-segedam-n-11-de-20-de-junho-de-2022-408918904.md",
+      "sha256_md": "43dc1ad1675568992154e317ccfae5d76dfc9fab47d5463751304d05119f5552",
+      "sha256_fonte": "a833373b0611595b18edc10903b1c9893520923d8c4e4f7ba5e8b099aad41387",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2254c49c0b2e1413e3461220e9709e9ba57032343cbb7875ff451b052248504d",
+      "sha256_visivel_md": "95439104705b118d52b5cbabb73ad2b6608191881eb9630a6ac1df96ff051268",
+      "primeira_diferenca": {
+        "posicao": 376,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 6, de 5 de janeiro de 2021, resolve: Art. 1º Fica autorizada, na forma do Anexo único desta portaria, a descentralização externa de créd",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 6, de 5 de janeiro de 2021, resolve: Art. 1º Fica autorizada, na forma do Anexo único desta portaria, a descentralização externa de cr"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2022/portaria-segedam-n-4-de-2-de-fevereiro-de-2022-378386188.md",
+      "sha256_md": "3a0c8a3b1ab5474133f87b07ffb587a2c6a919d459e3a9c09825bc708ba62ff8",
+      "sha256_fonte": "de96a5364f9aaf900c6c2669bffffb76771941729e31581b1d2fa730604a48cd",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d6b8e9fc3e23d8d730f49df03909ff92dae3d046181affa7225c256a9d248dfa",
+      "sha256_visivel_md": "beb29e4e8fdec19240ae3bb76470454d5f7798ac95c952cee2b9f56a922c6d06",
+      "primeira_diferenca": {
+        "posicao": 389,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 6, de 5 de janeiro de 2021, resolve: Art. 1º Fica autorizada, na forma do Anexo único desta portaria, a descentralização externa de créd",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 6, de 5 de janeiro de 2021, resolve: Art. 1º Fica autorizada, na forma do Anexo único desta portaria, a descentralização externa de cr"
+      }
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2022/resolucao-normativa-rn-n-494-de-29-de-marco-de-2022-390293952.md",
+      "sha256_md": "5dfa9b5e172d10a626d1623f35dded991575eed0472b5ba9e45955ca9e29f366",
+      "sha256_fonte": "577ff4d87eba1bbfd05b54d88517aee4af881434400570ce0098b0effd405c7a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DO LANÇAMENTO",
+          "fonte": "CAPÍTULO II DO LANÇAMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DA ATIVIDADE DE FISCALIZAÇÃO",
+          "fonte": "CAPÍTULO III DA ATIVIDADE DE FISCALIZAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DA COMUNICAÇÃO DOS ATOS",
+          "fonte": "CAPÍTULO IV DA COMUNICAÇÃO DOS ATOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DA FASE LITIGIOSA DO PROCESSO ADMINISTRATIVO FISCAL",
+          "fonte": "CAPÍTULO V DA FASE LITIGIOSA DO PROCESSO ADMINISTRATIVO FISCAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO VI DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              232,
+              234
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              236,
+              238
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              242,
+              244
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ")",
+            "linhas": [
+              246,
+              248
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ")",
+            "linhas": [
+              250,
+              252
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ")",
+            "linhas": [
+              254,
+              256
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 7,
+            "markup": ")",
+            "linhas": [
+              258,
+              260
+            ]
+          },
+          "html_start": "7",
+          "inicio_efetivo": 7,
+          "contadores": [
+            7
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "9aa22908ccc884250ffd589e09e48ebaa5fb5bef31ef9e468ff3e53e2747d6ee",
+      "sha256_visivel_md": "30f77849cb7094fc5508f3f6d7a8df4312a49de5f42b52e3cce23ecb318d8a4c"
+    },
+    {
+      "path": "reguladores/ans/resolucoes/2022/resolucao-normativa-rn-n-495-de-29-de-marco-de-2022-390294131.md",
+      "sha256_md": "6a2ee9492e211a7509ff83914bc72bc450da4e4a6d7ef59d4cd727ae7db5f6cf",
+      "sha256_fonte": "13ea3f1f18e9c06b6eb79aa32c053d6803aa09a15e3e66398bffc9ac74ea6bde",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              116,
+              118
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              120,
+              122
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              150,
+              152
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              154,
+              156
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              160,
+              162
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ")",
+            "linhas": [
+              168,
+              170
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "da988ac5bae5746098ee57ef4bbf5d536a2e15e3e85ca1137e4fdb81813e1771",
+      "sha256_visivel_md": "da988ac5bae5746098ee57ef4bbf5d536a2e15e3e85ca1137e4fdb81813e1771"
+    }
+  ]
+}

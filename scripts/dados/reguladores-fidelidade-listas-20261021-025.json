@@ -1,0 +1,3322 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "22c9478bddaccafdb352d55b6c15bb5b0ae9b4a65d9a1b5ee790ffd1224508c8",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "revisar": 1,
+    "iguais": 9
+  },
+  "documentos": [
+    {
+      "path": "reguladores/mme/portarias/2021/portaria-n-31-spg-mme-de-18-de-agosto-de-2021-341352490.md",
+      "sha256_md": "d7fb5e88bb96b751634aa41d335de8c667e530fcfbae6c9fb4d09a839190e1be",
+      "sha256_fonte": "914062a24782d3fc79088f2adf7e7d6920fb60664ba1260f01b813fb4275bbbd",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO II — Adição de contratos ao escopo do projeto Parque dos Gaviões - Bacia do Parnaíba",
+          "fonte": "ANEXO II Adição de contratos ao escopo do projeto Parque dos Gaviões - Bacia do Parnaíba",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "4fac5352088040294aa2a99fa8a342570a0f47e9e14bb3858a87fc379b286589",
+      "sha256_visivel_md": "0c34b514ba373477bdea53aa617d62152fd0084fc8a782e14f78caded5dd0247",
+      "primeira_diferenca": {
+        "posicao": 1548,
+        "fonte": "rioritário do momento de publicação da portaria até o momento de sua devolução. ---------------------------------------------- Art. 3º ------------------------------------- ---------------------------------------------- §1º - Para efeito do",
+        "md": "rioritário do momento de publicação da portaria até o momento de sua devolução. Art. 3º ------------------------------------- §1º - Para efeito do cálculo do tempo de atraso previsto no caput, devem ser considerados os efeitos dos ajustes s"
+      }
+    },
+    {
+      "path": "reguladores/mpu/portarias/2020/portaria-n-11-de-31-de-janeiro-de-2020-242338875.md",
+      "sha256_md": "cadbe58cb931c89d357dcb254127788d6c874faa3d229b26b8c81df14269d341",
+      "sha256_fonte": "2576c9e6b881ea423dba45770fbdd0d6c962514e51dd4fa4d493a2172776a88a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              58
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "9cea556bbe148140f303f7672c5765877e6dcd5344cc0b07bf7c858b6ff3dd83",
+      "sha256_visivel_md": "9cea556bbe148140f303f7672c5765877e6dcd5344cc0b07bf7c858b6ff3dd83"
+    },
+    {
+      "path": "reguladores/mpu/portarias/2020/portaria-n-12-de-31-de-janeiro-de-2020-242339123.md",
+      "sha256_md": "112593ea0deaa592333310a823fed8fe46a73c86ce99fdfe5e40459eb1c42bef",
+      "sha256_fonte": "abb8536af5b9c601da6b32ed0176a84047d5ce9fda8dad221c13fce3642ef937",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              32,
+              50
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "bcf70ca3e8b91e23116b6bc5f89e26651fc14a221ade5c13870063ee401f1941",
+      "sha256_visivel_md": "bcf70ca3e8b91e23116b6bc5f89e26651fc14a221ade5c13870063ee401f1941"
+    },
+    {
+      "path": "reguladores/mpu/portarias/2020/portaria-n-2-de-22-de-maio-de-2020-263402168.md",
+      "sha256_md": "e5751835015a06ee5954e6fe7213e7a719d56a52f615077fa1e716996b66a592",
+      "sha256_fonte": "7a5174c6eab615850b7c2f3ca1f0cd422b365c3ef47288510ea878c069c387ad",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              32,
+              34
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "3fa50cce280aa62338ad6271e0622d141616adc9ce1f7479e1a1351208bc6429",
+      "sha256_visivel_md": "3fa50cce280aa62338ad6271e0622d141616adc9ce1f7479e1a1351208bc6429"
+    },
+    {
+      "path": "reguladores/mpu/portarias/2020/portaria-n-26-de-23-de-abril-de-2020-260785658.md",
+      "sha256_md": "528432cb5975a78e04f03847c7b4a92af52afd03ca9acf60729ff3f2281bf812",
+      "sha256_fonte": "7aab0498b7bb8ae7201a2fbec86e6be2299959570cec6e106c93a6e03ccda04e",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              64
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "233720d86468468156927e4d80beb158d7a110ffbd00f0651369e89fc530a864",
+      "sha256_visivel_md": "233720d86468468156927e4d80beb158d7a110ffbd00f0651369e89fc530a864"
+    },
+    {
+      "path": "reguladores/mpu/portarias/2020/portaria-n-7-de-17-de-janeiro-de-2020-239631045.md",
+      "sha256_md": "c2d5c251774bef12adca3856c64495ce425d6be9ae92496609488e452ba0b2d3",
+      "sha256_fonte": "a5682d270a44e63c2a8b55306224ff891676337715221ac5cdc0795638ce6301",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              32,
+              40
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "338658d8188f3fa3ce148ab249bddd181d69aea31ab77ad67a202ed2ff66f6e6",
+      "sha256_visivel_md": "338658d8188f3fa3ce148ab249bddd181d69aea31ab77ad67a202ed2ff66f6e6"
+    },
+    {
+      "path": "reguladores/mpu/portarias/2021/portaria-n-2-de-7-de-junho-de-2021-324149410.md",
+      "sha256_md": "f80c24e0a5a2747d900076a5cffad6eba05fd9438b671d8588ea684649e20d6e",
+      "sha256_fonte": "f5691ae32e7e5734fbc348e37eada5fc665710b3b75ea17bd53a3b054280cdb2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              52,
+              58
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3,
+            4,
+            5
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "b16ba710ddaa54ef22a722907348444097fcb7664d439816cb8374ebb41b1668",
+      "sha256_visivel_md": "b16ba710ddaa54ef22a722907348444097fcb7664d439816cb8374ebb41b1668"
+    },
+    {
+      "path": "reguladores/mpu/portarias/2021/portaria-n-3-de-8-de-julho-de-2021-332450106.md",
+      "sha256_md": "ce43cbc16b565ea1118c58a3f1aa3e324187374a3067421b457b8411a03b5f99",
+      "sha256_fonte": "9cccd5f9f5f119a60383ec86058e9893211985d26ece8eaaef8aa7c50f1e72f8",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              46,
+              48
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "221ca55a48d8648558204174a43568ec62eadf9e4de048514c0fc6774e801f8c",
+      "sha256_visivel_md": "221ca55a48d8648558204174a43568ec62eadf9e4de048514c0fc6774e801f8c"
+    },
+    {
+      "path": "reguladores/mpu/portarias/2021/portaria-n-4-1-ncap-de-27-de-agosto-de-2021-342663054.md",
+      "sha256_md": "59f803024c06ad2163c87554972016f84bf1b734eca7bafb4f83089f3173a3ef",
+      "sha256_fonte": "e04c92908a07f2ac6cc9ea38a004d50bc37d139bc369c7b8391e8e1e45f46395",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              60,
+              62
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "175d1f6567ea8c664d8111de9f0cfc34679294c2d0e60d1875560bcf36241dea",
+      "sha256_visivel_md": "175d1f6567ea8c664d8111de9f0cfc34679294c2d0e60d1875560bcf36241dea"
+    },
+    {
+      "path": "reguladores/mpu/resolucoes/2022/resolucao-csmpf-n-219-de-26-de-agosto-de-2022-428658950.md",
+      "sha256_md": "7057c06fb977672d260973d2de0f7b650d31131e8260097fe59e01c4dde07c9b",
+      "sha256_fonte": "5f64c24166987e1933ff84221d45168cb8319b6fad93834ec45c45526797e3ce",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "SEÇÃO I — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "SEÇÃO I DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — DAS VAGAS RESERVADAS A CANDIDATO(A)S COM DEFICIÊNCIA",
+          "fonte": "SEÇÃO II DAS VAGAS RESERVADAS A CANDIDATO(A)S COM DEFICIÊNCIA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO III — DAS VAGAS RESERVADAS A CANDIDATO(A)S INDÍGENAS",
+          "fonte": "SEÇÃO III DAS VAGAS RESERVADAS A CANDIDATO(A)S INDÍGENAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO IV — DAS VAGAS RESERVADAS A CANDIDATO(A)S AUTODECLARADO(A)S NEGRO(A)S",
+          "fonte": "SEÇÃO IV DAS VAGAS RESERVADAS A CANDIDATO(A)S AUTODECLARADO(A)S NEGRO(A)S",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO V — DAS CANDIDATAS LACTANTES",
+          "fonte": "SEÇÃO V DAS CANDIDATAS LACTANTES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO VI — DA INSCRIÇÃO PRELIMINAR",
+          "fonte": "SEÇÃO VI DA INSCRIÇÃO PRELIMINAR",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO VII — DAS FUNÇÕES E COMPETÊNCIAS DE MEMBROS E SERVIDORES",
+          "fonte": "SEÇÃO VII DAS FUNÇÕES E COMPETÊNCIAS DE MEMBROS E SERVIDORES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO VIII — DAS PROVAS ESCRITAS",
+          "fonte": "SEÇÃO VIII DAS PROVAS ESCRITAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO IX — DA INSCRIÇÃO DEFINITIVA",
+          "fonte": "SEÇÃO IX DA INSCRIÇÃO DEFINITIVA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO X — DAS PROVAS ORAIS E TÍTULOS",
+          "fonte": "SEÇÃO X DAS PROVAS ORAIS E TÍTULOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO XI — DA CLASSIFICAÇÃO E NOMEAÇÃO",
+          "fonte": "SEÇÃO XI DA CLASSIFICAÇÃO E NOMEAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO XII — DAS DISPOSIÇÕES FINAIS",
+          "fonte": "SEÇÃO XII DAS DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO I — PROGRAMA DO CONCURSO PARA PROVIMENTO DE CARGOS DE PROCURADOR DA REPÚBLICA",
+          "fonte": "ANEXO I PROGRAMA DO CONCURSO PARA PROVIMENTO DE CARGOS DE PROCURADOR DA REPÚBLICA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ".",
+            "linhas": [
+              892,
+              894
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ".",
+            "linhas": [
+              900,
+              902
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ".",
+            "linhas": [
+              908,
+              910
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ".",
+            "linhas": [
+              916,
+              918
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ".",
+            "linhas": [
+              924,
+              926
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ".",
+            "linhas": [
+              932,
+              934
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 7,
+            "markup": ".",
+            "linhas": [
+              940,
+              942
+            ]
+          },
+          "html_start": "7",
+          "inicio_efetivo": 7,
+          "contadores": [
+            7
+          ]
+        },
+        {
+          "ast": {
+            "start": 8,
+            "markup": ".",
+            "linhas": [
+              948,
+              950
+            ]
+          },
+          "html_start": "8",
+          "inicio_efetivo": 8,
+          "contadores": [
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 9,
+            "markup": ".",
+            "linhas": [
+              956,
+              958
+            ]
+          },
+          "html_start": "9",
+          "inicio_efetivo": 9,
+          "contadores": [
+            9
+          ]
+        },
+        {
+          "ast": {
+            "start": 10,
+            "markup": ".",
+            "linhas": [
+              964,
+              966
+            ]
+          },
+          "html_start": "10",
+          "inicio_efetivo": 10,
+          "contadores": [
+            10
+          ]
+        },
+        {
+          "ast": {
+            "start": 11,
+            "markup": ".",
+            "linhas": [
+              972,
+              974
+            ]
+          },
+          "html_start": "11",
+          "inicio_efetivo": 11,
+          "contadores": [
+            11
+          ]
+        },
+        {
+          "ast": {
+            "start": 12,
+            "markup": ".",
+            "linhas": [
+              980,
+              982
+            ]
+          },
+          "html_start": "12",
+          "inicio_efetivo": 12,
+          "contadores": [
+            12
+          ]
+        },
+        {
+          "ast": {
+            "start": 13,
+            "markup": ".",
+            "linhas": [
+              986,
+              988
+            ]
+          },
+          "html_start": "13",
+          "inicio_efetivo": 13,
+          "contadores": [
+            13
+          ]
+        },
+        {
+          "ast": {
+            "start": 14,
+            "markup": ".",
+            "linhas": [
+              994,
+              996
+            ]
+          },
+          "html_start": "14",
+          "inicio_efetivo": 14,
+          "contadores": [
+            14
+          ]
+        },
+        {
+          "ast": {
+            "start": 15,
+            "markup": ".",
+            "linhas": [
+              1002,
+              1004
+            ]
+          },
+          "html_start": "15",
+          "inicio_efetivo": 15,
+          "contadores": [
+            15
+          ]
+        },
+        {
+          "ast": {
+            "start": 16,
+            "markup": ".",
+            "linhas": [
+              1010,
+              1012
+            ]
+          },
+          "html_start": "16",
+          "inicio_efetivo": 16,
+          "contadores": [
+            16
+          ]
+        },
+        {
+          "ast": {
+            "start": 17,
+            "markup": ".",
+            "linhas": [
+              1018,
+              1020
+            ]
+          },
+          "html_start": "17",
+          "inicio_efetivo": 17,
+          "contadores": [
+            17
+          ]
+        },
+        {
+          "ast": {
+            "start": 18,
+            "markup": ".",
+            "linhas": [
+              1026,
+              1028
+            ]
+          },
+          "html_start": "18",
+          "inicio_efetivo": 18,
+          "contadores": [
+            18
+          ]
+        },
+        {
+          "ast": {
+            "start": 19,
+            "markup": ".",
+            "linhas": [
+              1034,
+              1036
+            ]
+          },
+          "html_start": "19",
+          "inicio_efetivo": 19,
+          "contadores": [
+            19
+          ]
+        },
+        {
+          "ast": {
+            "start": 20,
+            "markup": ".",
+            "linhas": [
+              1042,
+              1044
+            ]
+          },
+          "html_start": "20",
+          "inicio_efetivo": 20,
+          "contadores": [
+            20
+          ]
+        },
+        {
+          "ast": {
+            "start": 21,
+            "markup": ".",
+            "linhas": [
+              1050,
+              1052
+            ]
+          },
+          "html_start": "21",
+          "inicio_efetivo": 21,
+          "contadores": [
+            21
+          ]
+        },
+        {
+          "ast": {
+            "start": 22,
+            "markup": ".",
+            "linhas": [
+              1058,
+              1060
+            ]
+          },
+          "html_start": "22",
+          "inicio_efetivo": 22,
+          "contadores": [
+            22
+          ]
+        },
+        {
+          "ast": {
+            "start": 23,
+            "markup": ".",
+            "linhas": [
+              1066,
+              1068
+            ]
+          },
+          "html_start": "23",
+          "inicio_efetivo": 23,
+          "contadores": [
+            23
+          ]
+        },
+        {
+          "ast": {
+            "start": 24,
+            "markup": ".",
+            "linhas": [
+              1074,
+              1076
+            ]
+          },
+          "html_start": "24",
+          "inicio_efetivo": 24,
+          "contadores": [
+            24
+          ]
+        },
+        {
+          "ast": {
+            "start": 25,
+            "markup": ".",
+            "linhas": [
+              1082,
+              1084
+            ]
+          },
+          "html_start": "25",
+          "inicio_efetivo": 25,
+          "contadores": [
+            25
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ".",
+            "linhas": [
+              1092,
+              1094
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ".",
+            "linhas": [
+              1098,
+              1100
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ".",
+            "linhas": [
+              1106,
+              1108
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ".",
+            "linhas": [
+              1114,
+              1116
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ".",
+            "linhas": [
+              1122,
+              1124
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ".",
+            "linhas": [
+              1130,
+              1132
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 7,
+            "markup": ".",
+            "linhas": [
+              1138,
+              1140
+            ]
+          },
+          "html_start": "7",
+          "inicio_efetivo": 7,
+          "contadores": [
+            7
+          ]
+        },
+        {
+          "ast": {
+            "start": 8,
+            "markup": ".",
+            "linhas": [
+              1146,
+              1148
+            ]
+          },
+          "html_start": "8",
+          "inicio_efetivo": 8,
+          "contadores": [
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 9,
+            "markup": ".",
+            "linhas": [
+              1154,
+              1156
+            ]
+          },
+          "html_start": "9",
+          "inicio_efetivo": 9,
+          "contadores": [
+            9
+          ]
+        },
+        {
+          "ast": {
+            "start": 10,
+            "markup": ".",
+            "linhas": [
+              1162,
+              1164
+            ]
+          },
+          "html_start": "10",
+          "inicio_efetivo": 10,
+          "contadores": [
+            10
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ".",
+            "linhas": [
+              1172,
+              1174
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ".",
+            "linhas": [
+              1180,
+              1182
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ".",
+            "linhas": [
+              1188,
+              1190
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ".",
+            "linhas": [
+              1196,
+              1198
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ".",
+            "linhas": [
+              1204,
+              1206
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ".",
+            "linhas": [
+              1212,
+              1214
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 7,
+            "markup": ".",
+            "linhas": [
+              1220,
+              1222
+            ]
+          },
+          "html_start": "7",
+          "inicio_efetivo": 7,
+          "contadores": [
+            7
+          ]
+        },
+        {
+          "ast": {
+            "start": 8,
+            "markup": ".",
+            "linhas": [
+              1228,
+              1230
+            ]
+          },
+          "html_start": "8",
+          "inicio_efetivo": 8,
+          "contadores": [
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 9,
+            "markup": ".",
+            "linhas": [
+              1236,
+              1238
+            ]
+          },
+          "html_start": "9",
+          "inicio_efetivo": 9,
+          "contadores": [
+            9
+          ]
+        },
+        {
+          "ast": {
+            "start": 10,
+            "markup": ".",
+            "linhas": [
+              1244,
+              1246
+            ]
+          },
+          "html_start": "10",
+          "inicio_efetivo": 10,
+          "contadores": [
+            10
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ".",
+            "linhas": [
+              1256,
+              1258
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ".",
+            "linhas": [
+              1264,
+              1266
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ".",
+            "linhas": [
+              1272,
+              1274
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ".",
+            "linhas": [
+              1280,
+              1282
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ".",
+            "linhas": [
+              1288,
+              1290
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ".",
+            "linhas": [
+              1296,
+              1298
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 7,
+            "markup": ".",
+            "linhas": [
+              1304,
+              1306
+            ]
+          },
+          "html_start": "7",
+          "inicio_efetivo": 7,
+          "contadores": [
+            7
+          ]
+        },
+        {
+          "ast": {
+            "start": 8,
+            "markup": ".",
+            "linhas": [
+              1312,
+              1314
+            ]
+          },
+          "html_start": "8",
+          "inicio_efetivo": 8,
+          "contadores": [
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 9,
+            "markup": ".",
+            "linhas": [
+              1320,
+              1322
+            ]
+          },
+          "html_start": "9",
+          "inicio_efetivo": 9,
+          "contadores": [
+            9
+          ]
+        },
+        {
+          "ast": {
+            "start": 10,
+            "markup": ".",
+            "linhas": [
+              1328,
+              1330
+            ]
+          },
+          "html_start": "10",
+          "inicio_efetivo": 10,
+          "contadores": [
+            10
+          ]
+        },
+        {
+          "ast": {
+            "start": 11,
+            "markup": ".",
+            "linhas": [
+              1336,
+              1338
+            ]
+          },
+          "html_start": "11",
+          "inicio_efetivo": 11,
+          "contadores": [
+            11
+          ]
+        },
+        {
+          "ast": {
+            "start": 12,
+            "markup": ".",
+            "linhas": [
+              1344,
+              1346
+            ]
+          },
+          "html_start": "12",
+          "inicio_efetivo": 12,
+          "contadores": [
+            12
+          ]
+        },
+        {
+          "ast": {
+            "start": 13,
+            "markup": ".",
+            "linhas": [
+              1352,
+              1354
+            ]
+          },
+          "html_start": "13",
+          "inicio_efetivo": 13,
+          "contadores": [
+            13
+          ]
+        },
+        {
+          "ast": {
+            "start": 14,
+            "markup": ".",
+            "linhas": [
+              1360,
+              1362
+            ]
+          },
+          "html_start": "14",
+          "inicio_efetivo": 14,
+          "contadores": [
+            14
+          ]
+        },
+        {
+          "ast": {
+            "start": 15,
+            "markup": ".",
+            "linhas": [
+              1368,
+              1370
+            ]
+          },
+          "html_start": "15",
+          "inicio_efetivo": 15,
+          "contadores": [
+            15
+          ]
+        },
+        {
+          "ast": {
+            "start": 16,
+            "markup": ".",
+            "linhas": [
+              1376,
+              1378
+            ]
+          },
+          "html_start": "16",
+          "inicio_efetivo": 16,
+          "contadores": [
+            16
+          ]
+        },
+        {
+          "ast": {
+            "start": 17,
+            "markup": ".",
+            "linhas": [
+              1384,
+              1386
+            ]
+          },
+          "html_start": "17",
+          "inicio_efetivo": 17,
+          "contadores": [
+            17
+          ]
+        },
+        {
+          "ast": {
+            "start": 18,
+            "markup": ".",
+            "linhas": [
+              1392,
+              1394
+            ]
+          },
+          "html_start": "18",
+          "inicio_efetivo": 18,
+          "contadores": [
+            18
+          ]
+        },
+        {
+          "ast": {
+            "start": 19,
+            "markup": ".",
+            "linhas": [
+              1400,
+              1402
+            ]
+          },
+          "html_start": "19",
+          "inicio_efetivo": 19,
+          "contadores": [
+            19
+          ]
+        },
+        {
+          "ast": {
+            "start": 20,
+            "markup": ".",
+            "linhas": [
+              1408,
+              1410
+            ]
+          },
+          "html_start": "20",
+          "inicio_efetivo": 20,
+          "contadores": [
+            20
+          ]
+        },
+        {
+          "ast": {
+            "start": 21,
+            "markup": ".",
+            "linhas": [
+              1416,
+              1418
+            ]
+          },
+          "html_start": "21",
+          "inicio_efetivo": 21,
+          "contadores": [
+            21
+          ]
+        },
+        {
+          "ast": {
+            "start": 22,
+            "markup": ".",
+            "linhas": [
+              1424,
+              1426
+            ]
+          },
+          "html_start": "22",
+          "inicio_efetivo": 22,
+          "contadores": [
+            22
+          ]
+        },
+        {
+          "ast": {
+            "start": 23,
+            "markup": ".",
+            "linhas": [
+              1432,
+              1434
+            ]
+          },
+          "html_start": "23",
+          "inicio_efetivo": 23,
+          "contadores": [
+            23
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ".",
+            "linhas": [
+              1442,
+              1444
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ".",
+            "linhas": [
+              1450,
+              1452
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ".",
+            "linhas": [
+              1458,
+              1460
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ".",
+            "linhas": [
+              1466,
+              1468
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ".",
+            "linhas": [
+              1474,
+              1476
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ".",
+            "linhas": [
+              1482,
+              1484
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 7,
+            "markup": ".",
+            "linhas": [
+              1490,
+              1492
+            ]
+          },
+          "html_start": "7",
+          "inicio_efetivo": 7,
+          "contadores": [
+            7
+          ]
+        },
+        {
+          "ast": {
+            "start": 8,
+            "markup": ".",
+            "linhas": [
+              1498,
+              1500
+            ]
+          },
+          "html_start": "8",
+          "inicio_efetivo": 8,
+          "contadores": [
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 9,
+            "markup": ".",
+            "linhas": [
+              1506,
+              1508
+            ]
+          },
+          "html_start": "9",
+          "inicio_efetivo": 9,
+          "contadores": [
+            9
+          ]
+        },
+        {
+          "ast": {
+            "start": 10,
+            "markup": ".",
+            "linhas": [
+              1514,
+              1516
+            ]
+          },
+          "html_start": "10",
+          "inicio_efetivo": 10,
+          "contadores": [
+            10
+          ]
+        },
+        {
+          "ast": {
+            "start": 11,
+            "markup": ".",
+            "linhas": [
+              1522,
+              1524
+            ]
+          },
+          "html_start": "11",
+          "inicio_efetivo": 11,
+          "contadores": [
+            11
+          ]
+        },
+        {
+          "ast": {
+            "start": 12,
+            "markup": ".",
+            "linhas": [
+              1530,
+              1532
+            ]
+          },
+          "html_start": "12",
+          "inicio_efetivo": 12,
+          "contadores": [
+            12
+          ]
+        },
+        {
+          "ast": {
+            "start": 13,
+            "markup": ".",
+            "linhas": [
+              1538,
+              1540
+            ]
+          },
+          "html_start": "13",
+          "inicio_efetivo": 13,
+          "contadores": [
+            13
+          ]
+        },
+        {
+          "ast": {
+            "start": 14,
+            "markup": ".",
+            "linhas": [
+              1546,
+              1548
+            ]
+          },
+          "html_start": "14",
+          "inicio_efetivo": 14,
+          "contadores": [
+            14
+          ]
+        },
+        {
+          "ast": {
+            "start": 15,
+            "markup": ".",
+            "linhas": [
+              1554,
+              1556
+            ]
+          },
+          "html_start": "15",
+          "inicio_efetivo": 15,
+          "contadores": [
+            15
+          ]
+        },
+        {
+          "ast": {
+            "start": 16,
+            "markup": ".",
+            "linhas": [
+              1562,
+              1564
+            ]
+          },
+          "html_start": "16",
+          "inicio_efetivo": 16,
+          "contadores": [
+            16
+          ]
+        },
+        {
+          "ast": {
+            "start": 17,
+            "markup": ".",
+            "linhas": [
+              1570,
+              1572
+            ]
+          },
+          "html_start": "17",
+          "inicio_efetivo": 17,
+          "contadores": [
+            17
+          ]
+        },
+        {
+          "ast": {
+            "start": 18,
+            "markup": ".",
+            "linhas": [
+              1578,
+              1580
+            ]
+          },
+          "html_start": "18",
+          "inicio_efetivo": 18,
+          "contadores": [
+            18
+          ]
+        },
+        {
+          "ast": {
+            "start": 19,
+            "markup": ".",
+            "linhas": [
+              1586,
+              1588
+            ]
+          },
+          "html_start": "19",
+          "inicio_efetivo": 19,
+          "contadores": [
+            19
+          ]
+        },
+        {
+          "ast": {
+            "start": 20,
+            "markup": ".",
+            "linhas": [
+              1594,
+              1596
+            ]
+          },
+          "html_start": "20",
+          "inicio_efetivo": 20,
+          "contadores": [
+            20
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ".",
+            "linhas": [
+              1604,
+              1606
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ".",
+            "linhas": [
+              1612,
+              1614
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ".",
+            "linhas": [
+              1620,
+              1622
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ".",
+            "linhas": [
+              1628,
+              1630
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ".",
+            "linhas": [
+              1636,
+              1638
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ".",
+            "linhas": [
+              1644,
+              1646
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 7,
+            "markup": ".",
+            "linhas": [
+              1652,
+              1654
+            ]
+          },
+          "html_start": "7",
+          "inicio_efetivo": 7,
+          "contadores": [
+            7
+          ]
+        },
+        {
+          "ast": {
+            "start": 8,
+            "markup": ".",
+            "linhas": [
+              1658,
+              1660
+            ]
+          },
+          "html_start": "8",
+          "inicio_efetivo": 8,
+          "contadores": [
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 9,
+            "markup": ".",
+            "linhas": [
+              1666,
+              1668
+            ]
+          },
+          "html_start": "9",
+          "inicio_efetivo": 9,
+          "contadores": [
+            9
+          ]
+        },
+        {
+          "ast": {
+            "start": 10,
+            "markup": ".",
+            "linhas": [
+              1674,
+              1676
+            ]
+          },
+          "html_start": "10",
+          "inicio_efetivo": 10,
+          "contadores": [
+            10
+          ]
+        },
+        {
+          "ast": {
+            "start": 11,
+            "markup": ".",
+            "linhas": [
+              1680,
+              1682
+            ]
+          },
+          "html_start": "11",
+          "inicio_efetivo": 11,
+          "contadores": [
+            11
+          ]
+        },
+        {
+          "ast": {
+            "start": 12,
+            "markup": ".",
+            "linhas": [
+              1688,
+              1690
+            ]
+          },
+          "html_start": "12",
+          "inicio_efetivo": 12,
+          "contadores": [
+            12
+          ]
+        },
+        {
+          "ast": {
+            "start": 13,
+            "markup": ".",
+            "linhas": [
+              1696,
+              1698
+            ]
+          },
+          "html_start": "13",
+          "inicio_efetivo": 13,
+          "contadores": [
+            13
+          ]
+        },
+        {
+          "ast": {
+            "start": 14,
+            "markup": ".",
+            "linhas": [
+              1700,
+              1702
+            ]
+          },
+          "html_start": "14",
+          "inicio_efetivo": 14,
+          "contadores": [
+            14
+          ]
+        },
+        {
+          "ast": {
+            "start": 15,
+            "markup": ".",
+            "linhas": [
+              1708,
+              1710
+            ]
+          },
+          "html_start": "15",
+          "inicio_efetivo": 15,
+          "contadores": [
+            15
+          ]
+        },
+        {
+          "ast": {
+            "start": 16,
+            "markup": ".",
+            "linhas": [
+              1716,
+              1718
+            ]
+          },
+          "html_start": "16",
+          "inicio_efetivo": 16,
+          "contadores": [
+            16
+          ]
+        },
+        {
+          "ast": {
+            "start": 17,
+            "markup": ".",
+            "linhas": [
+              1724,
+              1726
+            ]
+          },
+          "html_start": "17",
+          "inicio_efetivo": 17,
+          "contadores": [
+            17
+          ]
+        },
+        {
+          "ast": {
+            "start": 18,
+            "markup": ".",
+            "linhas": [
+              1732,
+              1734
+            ]
+          },
+          "html_start": "18",
+          "inicio_efetivo": 18,
+          "contadores": [
+            18
+          ]
+        },
+        {
+          "ast": {
+            "start": 19,
+            "markup": ".",
+            "linhas": [
+              1740,
+              1742
+            ]
+          },
+          "html_start": "19",
+          "inicio_efetivo": 19,
+          "contadores": [
+            19
+          ]
+        },
+        {
+          "ast": {
+            "start": 20,
+            "markup": ".",
+            "linhas": [
+              1748,
+              1750
+            ]
+          },
+          "html_start": "20",
+          "inicio_efetivo": 20,
+          "contadores": [
+            20
+          ]
+        },
+        {
+          "ast": {
+            "start": 21,
+            "markup": ".",
+            "linhas": [
+              1756,
+              1758
+            ]
+          },
+          "html_start": "21",
+          "inicio_efetivo": 21,
+          "contadores": [
+            21
+          ]
+        },
+        {
+          "ast": {
+            "start": 22,
+            "markup": ".",
+            "linhas": [
+              1764,
+              1766
+            ]
+          },
+          "html_start": "22",
+          "inicio_efetivo": 22,
+          "contadores": [
+            22
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ".",
+            "linhas": [
+              1776,
+              1778
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ".",
+            "linhas": [
+              1784,
+              1786
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ".",
+            "linhas": [
+              1792,
+              1794
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ".",
+            "linhas": [
+              1800,
+              1802
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ".",
+            "linhas": [
+              1808,
+              1810
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ".",
+            "linhas": [
+              1816,
+              1818
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 7,
+            "markup": ".",
+            "linhas": [
+              1824,
+              1826
+            ]
+          },
+          "html_start": "7",
+          "inicio_efetivo": 7,
+          "contadores": [
+            7
+          ]
+        },
+        {
+          "ast": {
+            "start": 8,
+            "markup": ".",
+            "linhas": [
+              1832,
+              1834
+            ]
+          },
+          "html_start": "8",
+          "inicio_efetivo": 8,
+          "contadores": [
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 9,
+            "markup": ".",
+            "linhas": [
+              1840,
+              1842
+            ]
+          },
+          "html_start": "9",
+          "inicio_efetivo": 9,
+          "contadores": [
+            9
+          ]
+        },
+        {
+          "ast": {
+            "start": 10,
+            "markup": ".",
+            "linhas": [
+              1848,
+              1850
+            ]
+          },
+          "html_start": "10",
+          "inicio_efetivo": 10,
+          "contadores": [
+            10
+          ]
+        },
+        {
+          "ast": {
+            "start": 11,
+            "markup": ".",
+            "linhas": [
+              1856,
+              1858
+            ]
+          },
+          "html_start": "11",
+          "inicio_efetivo": 11,
+          "contadores": [
+            11
+          ]
+        },
+        {
+          "ast": {
+            "start": 12,
+            "markup": ".",
+            "linhas": [
+              1864,
+              1866
+            ]
+          },
+          "html_start": "12",
+          "inicio_efetivo": 12,
+          "contadores": [
+            12
+          ]
+        },
+        {
+          "ast": {
+            "start": 13,
+            "markup": ".",
+            "linhas": [
+              1872,
+              1874
+            ]
+          },
+          "html_start": "13",
+          "inicio_efetivo": 13,
+          "contadores": [
+            13
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ".",
+            "linhas": [
+              1882,
+              1884
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ".",
+            "linhas": [
+              1890,
+              1892
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ".",
+            "linhas": [
+              1898,
+              1900
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ".",
+            "linhas": [
+              1906,
+              1908
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ".",
+            "linhas": [
+              1914,
+              1916
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ".",
+            "linhas": [
+              1922,
+              1924
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 7,
+            "markup": ".",
+            "linhas": [
+              1930,
+              1932
+            ]
+          },
+          "html_start": "7",
+          "inicio_efetivo": 7,
+          "contadores": [
+            7
+          ]
+        },
+        {
+          "ast": {
+            "start": 8,
+            "markup": ".",
+            "linhas": [
+              1938,
+              1940
+            ]
+          },
+          "html_start": "8",
+          "inicio_efetivo": 8,
+          "contadores": [
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 9,
+            "markup": ".",
+            "linhas": [
+              1946,
+              1948
+            ]
+          },
+          "html_start": "9",
+          "inicio_efetivo": 9,
+          "contadores": [
+            9
+          ]
+        },
+        {
+          "ast": {
+            "start": 10,
+            "markup": ".",
+            "linhas": [
+              1954,
+              1956
+            ]
+          },
+          "html_start": "10",
+          "inicio_efetivo": 10,
+          "contadores": [
+            10
+          ]
+        },
+        {
+          "ast": {
+            "start": 11,
+            "markup": ".",
+            "linhas": [
+              1962,
+              1964
+            ]
+          },
+          "html_start": "11",
+          "inicio_efetivo": 11,
+          "contadores": [
+            11
+          ]
+        },
+        {
+          "ast": {
+            "start": 12,
+            "markup": ".",
+            "linhas": [
+              1968,
+              1970
+            ]
+          },
+          "html_start": "12",
+          "inicio_efetivo": 12,
+          "contadores": [
+            12
+          ]
+        },
+        {
+          "ast": {
+            "start": 13,
+            "markup": ".",
+            "linhas": [
+              1976,
+              1978
+            ]
+          },
+          "html_start": "13",
+          "inicio_efetivo": 13,
+          "contadores": [
+            13
+          ]
+        },
+        {
+          "ast": {
+            "start": 14,
+            "markup": ".",
+            "linhas": [
+              1984,
+              1986
+            ]
+          },
+          "html_start": "14",
+          "inicio_efetivo": 14,
+          "contadores": [
+            14
+          ]
+        },
+        {
+          "ast": {
+            "start": 15,
+            "markup": ".",
+            "linhas": [
+              1992,
+              1994
+            ]
+          },
+          "html_start": "15",
+          "inicio_efetivo": 15,
+          "contadores": [
+            15
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ".",
+            "linhas": [
+              2002,
+              2004
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ".",
+            "linhas": [
+              2010,
+              2012
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ".",
+            "linhas": [
+              2018,
+              2020
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ".",
+            "linhas": [
+              2026,
+              2028
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ".",
+            "linhas": [
+              2034,
+              2036
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ".",
+            "linhas": [
+              2042,
+              2044
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 7,
+            "markup": ".",
+            "linhas": [
+              2050,
+              2052
+            ]
+          },
+          "html_start": "7",
+          "inicio_efetivo": 7,
+          "contadores": [
+            7
+          ]
+        },
+        {
+          "ast": {
+            "start": 8,
+            "markup": ".",
+            "linhas": [
+              2058,
+              2060
+            ]
+          },
+          "html_start": "8",
+          "inicio_efetivo": 8,
+          "contadores": [
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 9,
+            "markup": ".",
+            "linhas": [
+              2066,
+              2068
+            ]
+          },
+          "html_start": "9",
+          "inicio_efetivo": 9,
+          "contadores": [
+            9
+          ]
+        },
+        {
+          "ast": {
+            "start": 10,
+            "markup": ".",
+            "linhas": [
+              2074,
+              2076
+            ]
+          },
+          "html_start": "10",
+          "inicio_efetivo": 10,
+          "contadores": [
+            10
+          ]
+        },
+        {
+          "ast": {
+            "start": 11,
+            "markup": ".",
+            "linhas": [
+              2082,
+              2084
+            ]
+          },
+          "html_start": "11",
+          "inicio_efetivo": 11,
+          "contadores": [
+            11
+          ]
+        },
+        {
+          "ast": {
+            "start": 12,
+            "markup": ".",
+            "linhas": [
+              2090,
+              2092
+            ]
+          },
+          "html_start": "12",
+          "inicio_efetivo": 12,
+          "contadores": [
+            12
+          ]
+        },
+        {
+          "ast": {
+            "start": 13,
+            "markup": ".",
+            "linhas": [
+              2098,
+              2100
+            ]
+          },
+          "html_start": "13",
+          "inicio_efetivo": 13,
+          "contadores": [
+            13
+          ]
+        },
+        {
+          "ast": {
+            "start": 14,
+            "markup": ".",
+            "linhas": [
+              2106,
+              2108
+            ]
+          },
+          "html_start": "14",
+          "inicio_efetivo": 14,
+          "contadores": [
+            14
+          ]
+        },
+        {
+          "ast": {
+            "start": 15,
+            "markup": ".",
+            "linhas": [
+              2114,
+              2116
+            ]
+          },
+          "html_start": "15",
+          "inicio_efetivo": 15,
+          "contadores": [
+            15
+          ]
+        },
+        {
+          "ast": {
+            "start": 16,
+            "markup": ".",
+            "linhas": [
+              2122,
+              2124
+            ]
+          },
+          "html_start": "16",
+          "inicio_efetivo": 16,
+          "contadores": [
+            16
+          ]
+        },
+        {
+          "ast": {
+            "start": 17,
+            "markup": ".",
+            "linhas": [
+              2130,
+              2132
+            ]
+          },
+          "html_start": "17",
+          "inicio_efetivo": 17,
+          "contadores": [
+            17
+          ]
+        },
+        {
+          "ast": {
+            "start": 18,
+            "markup": ".",
+            "linhas": [
+              2138,
+              2140
+            ]
+          },
+          "html_start": "18",
+          "inicio_efetivo": 18,
+          "contadores": [
+            18
+          ]
+        },
+        {
+          "ast": {
+            "start": 19,
+            "markup": ".",
+            "linhas": [
+              2146,
+              2148
+            ]
+          },
+          "html_start": "19",
+          "inicio_efetivo": 19,
+          "contadores": [
+            19
+          ]
+        },
+        {
+          "ast": {
+            "start": 20,
+            "markup": ".",
+            "linhas": [
+              2154,
+              2156
+            ]
+          },
+          "html_start": "20",
+          "inicio_efetivo": 20,
+          "contadores": [
+            20
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ".",
+            "linhas": [
+              2166,
+              2168
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ".",
+            "linhas": [
+              2174,
+              2176
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ".",
+            "linhas": [
+              2182,
+              2184
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ".",
+            "linhas": [
+              2190,
+              2192
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ".",
+            "linhas": [
+              2198,
+              2200
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ".",
+            "linhas": [
+              2206,
+              2208
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 7,
+            "markup": ".",
+            "linhas": [
+              2214,
+              2216
+            ]
+          },
+          "html_start": "7",
+          "inicio_efetivo": 7,
+          "contadores": [
+            7
+          ]
+        },
+        {
+          "ast": {
+            "start": 8,
+            "markup": ".",
+            "linhas": [
+              2222,
+              2224
+            ]
+          },
+          "html_start": "8",
+          "inicio_efetivo": 8,
+          "contadores": [
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 9,
+            "markup": ".",
+            "linhas": [
+              2230,
+              2232
+            ]
+          },
+          "html_start": "9",
+          "inicio_efetivo": 9,
+          "contadores": [
+            9
+          ]
+        },
+        {
+          "ast": {
+            "start": 10,
+            "markup": ".",
+            "linhas": [
+              2238,
+              2240
+            ]
+          },
+          "html_start": "10",
+          "inicio_efetivo": 10,
+          "contadores": [
+            10
+          ]
+        },
+        {
+          "ast": {
+            "start": 11,
+            "markup": ".",
+            "linhas": [
+              2246,
+              2248
+            ]
+          },
+          "html_start": "11",
+          "inicio_efetivo": 11,
+          "contadores": [
+            11
+          ]
+        },
+        {
+          "ast": {
+            "start": 12,
+            "markup": ".",
+            "linhas": [
+              2254,
+              2256
+            ]
+          },
+          "html_start": "12",
+          "inicio_efetivo": 12,
+          "contadores": [
+            12
+          ]
+        },
+        {
+          "ast": {
+            "start": 13,
+            "markup": ".",
+            "linhas": [
+              2262,
+              2264
+            ]
+          },
+          "html_start": "13",
+          "inicio_efetivo": 13,
+          "contadores": [
+            13
+          ]
+        },
+        {
+          "ast": {
+            "start": 14,
+            "markup": ".",
+            "linhas": [
+              2270,
+              2272
+            ]
+          },
+          "html_start": "14",
+          "inicio_efetivo": 14,
+          "contadores": [
+            14
+          ]
+        },
+        {
+          "ast": {
+            "start": 15,
+            "markup": ".",
+            "linhas": [
+              2278,
+              2280
+            ]
+          },
+          "html_start": "15",
+          "inicio_efetivo": 15,
+          "contadores": [
+            15
+          ]
+        },
+        {
+          "ast": {
+            "start": 16,
+            "markup": ".",
+            "linhas": [
+              2286,
+              2288
+            ]
+          },
+          "html_start": "16",
+          "inicio_efetivo": 16,
+          "contadores": [
+            16
+          ]
+        },
+        {
+          "ast": {
+            "start": 17,
+            "markup": ".",
+            "linhas": [
+              2294,
+              2296
+            ]
+          },
+          "html_start": "17",
+          "inicio_efetivo": 17,
+          "contadores": [
+            17
+          ]
+        },
+        {
+          "ast": {
+            "start": 18,
+            "markup": ".",
+            "linhas": [
+              2302,
+              2304
+            ]
+          },
+          "html_start": "18",
+          "inicio_efetivo": 18,
+          "contadores": [
+            18
+          ]
+        },
+        {
+          "ast": {
+            "start": 19,
+            "markup": ".",
+            "linhas": [
+              2310,
+              2312
+            ]
+          },
+          "html_start": "19",
+          "inicio_efetivo": 19,
+          "contadores": [
+            19
+          ]
+        },
+        {
+          "ast": {
+            "start": 20,
+            "markup": ".",
+            "linhas": [
+              2318,
+              2320
+            ]
+          },
+          "html_start": "20",
+          "inicio_efetivo": 20,
+          "contadores": [
+            20
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ".",
+            "linhas": [
+              2328,
+              2330
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ".",
+            "linhas": [
+              2336,
+              2338
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ".",
+            "linhas": [
+              2344,
+              2346
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ".",
+            "linhas": [
+              2352,
+              2354
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ".",
+            "linhas": [
+              2360,
+              2362
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ".",
+            "linhas": [
+              2368,
+              2370
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 7,
+            "markup": ".",
+            "linhas": [
+              2376,
+              2378
+            ]
+          },
+          "html_start": "7",
+          "inicio_efetivo": 7,
+          "contadores": [
+            7
+          ]
+        },
+        {
+          "ast": {
+            "start": 8,
+            "markup": ".",
+            "linhas": [
+              2384,
+              2386
+            ]
+          },
+          "html_start": "8",
+          "inicio_efetivo": 8,
+          "contadores": [
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 9,
+            "markup": ".",
+            "linhas": [
+              2392,
+              2394
+            ]
+          },
+          "html_start": "9",
+          "inicio_efetivo": 9,
+          "contadores": [
+            9
+          ]
+        },
+        {
+          "ast": {
+            "start": 10,
+            "markup": ".",
+            "linhas": [
+              2400,
+              2402
+            ]
+          },
+          "html_start": "10",
+          "inicio_efetivo": 10,
+          "contadores": [
+            10
+          ]
+        },
+        {
+          "ast": {
+            "start": 11,
+            "markup": ".",
+            "linhas": [
+              2408,
+              2410
+            ]
+          },
+          "html_start": "11",
+          "inicio_efetivo": 11,
+          "contadores": [
+            11
+          ]
+        },
+        {
+          "ast": {
+            "start": 12,
+            "markup": ".",
+            "linhas": [
+              2416,
+              2418
+            ]
+          },
+          "html_start": "12",
+          "inicio_efetivo": 12,
+          "contadores": [
+            12
+          ]
+        },
+        {
+          "ast": {
+            "start": 13,
+            "markup": ".",
+            "linhas": [
+              2424,
+              2426
+            ]
+          },
+          "html_start": "13",
+          "inicio_efetivo": 13,
+          "contadores": [
+            13
+          ]
+        },
+        {
+          "ast": {
+            "start": 14,
+            "markup": ".",
+            "linhas": [
+              2432,
+              2434
+            ]
+          },
+          "html_start": "14",
+          "inicio_efetivo": 14,
+          "contadores": [
+            14
+          ]
+        },
+        {
+          "ast": {
+            "start": 15,
+            "markup": ".",
+            "linhas": [
+              2440,
+              2442
+            ]
+          },
+          "html_start": "15",
+          "inicio_efetivo": 15,
+          "contadores": [
+            15
+          ]
+        },
+        {
+          "ast": {
+            "start": 16,
+            "markup": ".",
+            "linhas": [
+              2448,
+              2450
+            ]
+          },
+          "html_start": "16",
+          "inicio_efetivo": 16,
+          "contadores": [
+            16
+          ]
+        },
+        {
+          "ast": {
+            "start": 17,
+            "markup": ".",
+            "linhas": [
+              2456,
+              2458
+            ]
+          },
+          "html_start": "17",
+          "inicio_efetivo": 17,
+          "contadores": [
+            17
+          ]
+        },
+        {
+          "ast": {
+            "start": 18,
+            "markup": ".",
+            "linhas": [
+              2464,
+              2466
+            ]
+          },
+          "html_start": "18",
+          "inicio_efetivo": 18,
+          "contadores": [
+            18
+          ]
+        },
+        {
+          "ast": {
+            "start": 19,
+            "markup": ".",
+            "linhas": [
+              2472,
+              2474
+            ]
+          },
+          "html_start": "19",
+          "inicio_efetivo": 19,
+          "contadores": [
+            19
+          ]
+        },
+        {
+          "ast": {
+            "start": 20,
+            "markup": ".",
+            "linhas": [
+              2480,
+              2482
+            ]
+          },
+          "html_start": "20",
+          "inicio_efetivo": 20,
+          "contadores": [
+            20
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "1e231b27b60f5f5c0a29bdd45428aa54a0b9fd9ae8897fd30e5b4d44c19e9a4f",
+      "sha256_visivel_md": "ac51e847bcc9e424c1eba3bdcc489ff693fb9bb0ddd6473431117d5ea4f1d2a4"
+    }
+  ]
+}

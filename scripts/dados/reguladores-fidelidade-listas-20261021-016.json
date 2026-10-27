@@ -1,0 +1,209 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "22c9478bddaccafdb352d55b6c15bb5b0ae9b4a65d9a1b5ee790ffd1224508c8",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "revisar": 12
+  },
+  "documentos": [
+    {
+      "path": "reguladores/ms/resolucoes/2024/resolucao-re-n-3.199-de-2-de-setembro-de-2024-582078469.md",
+      "sha256_md": "8bf09dd6e45ad46f64cfec3fc9a808aefea50da406b279cf3fc85644f1efb426",
+      "sha256_fonte": "2d91884b43844ba23ad48fa666fe3479b29a9baa626fb5a338d3e51a5000c544",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e03a1b115a6d1a28b8c92d7bb5af4f6d6fe032ea7eae0fa3dd74b9f312ea18a8",
+      "sha256_visivel_md": "042194df4d8078813840487e29794f6dd8a993d0807b6cf25ff5f48b970ef700",
+      "primeira_diferenca": {
+        "posicao": 921,
+        "fonte": "ESPECIAL 7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 1043637249 -------------------------------------- PROMED DISTRIBUIDORA DE PRODUTOS HOSPITALARES LTDA / 36.608.030/0001-22 25351.808420/2021-11 / 1248631 ARMAZENAR: MEDICAM",
+        "md": "ESPECIAL 7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 1043637249 PROMED DISTRIBUIDORA DE PRODUTOS HOSPITALARES LTDA / 36.608.030/0001-22 25351.808420/2021-11 / 1248631 ARMAZENAR: MEDICAMENTO DISTRIBUIR: MEDICAMENTO EXPEDIR: M"
+      }
+    },
+    {
+      "path": "reguladores/ms/resolucoes/2024/resolucao-re-n-2.142-de-5-de-junho-de-2024-563758661.md",
+      "sha256_md": "69e8187f94d17945fbda4ca5ef0672b5a6237d1497f5c2bae141b652eb9c7500",
+      "sha256_fonte": "fe84c54fe2488b9f148373730ed29b61f3bd3c4ddbacdd5bfa64b505eaa2d56e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "914ee59d06b0c4a83c6f9ab73ce7049635b4838182890980a3916bba36f294d5",
+      "sha256_visivel_md": "ac3113560915a76b2b82e493f740ba43ce272dc2789170341bf16cd377ed5ec4",
+      "primeira_diferenca": {
+        "posicao": 1656,
+        "fonte": ". 10 DA RDC Nº 470/2021 E ITEM 08 DO ANEXO III, DO ANEXO I, DA RDC Nº 345/2002. -------------------------------------- CAC AIRPORT LTDA / 52.945.682/0001-09 25351.312123/2024-17 / 90436 - PAF - AFE DE PRESTADORA DE SERVIÇO DE ATENDIMENTO MÉ",
+        "md": ". 10 DA RDC Nº 470/2021 E ITEM 08 DO ANEXO III, DO ANEXO I, DA RDC Nº 345/2002. CAC AIRPORT LTDA / 52.945.682/0001-09 25351.312123/2024-17 / 90436 - PAF - AFE DE PRESTADORA DE SERVIÇO DE ATENDIMENTO MÉDICO NAS ÁREAS PORTUÁRIAS, AEROPORTUÁRI"
+      }
+    },
+    {
+      "path": "reguladores/ms/resolucoes/2024/resolucao-re-n-3.198-de-2-de-setembro-de-2024-582062010.md",
+      "sha256_md": "0fa54c221b18258eaf2f71e602cce0b944382358959fcea43a69103f8235e8c4",
+      "sha256_fonte": "78a2c835526f77c26bc9d37e5d0d181dab41534e5d9aa261e315b0634cd573e3",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "38c89053798c0c8ec80ef4ef2a703691286a100c38f5129761f3df68b8b5a49d",
+      "sha256_visivel_md": "8cf125d02c89ad51f8f278f6bab99da2459cbeba7751ff3eb7b07160561e6739",
+      "primeira_diferenca": {
+        "posicao": 773,
+        "fonte": "S. 740 - AFE - CONCESSÃO - SANEANTES - DISTRIBUIR (SOMENTE MATRIZ) / 1050976240 -------------------------------------- drogaria renovar limitada / 36.700.641/0002-87 25351.384649/2024-07 / 5119862 COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS",
+        "md": "S. 740 - AFE - CONCESSÃO - SANEANTES - DISTRIBUIR (SOMENTE MATRIZ) / 1050976240 drogaria renovar limitada / 36.700.641/0002-87 25351.384649/2024-07 / 5119862 COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRO"
+      }
+    },
+    {
+      "path": "reguladores/ms/resolucoes/2024/resolucao-re-n-3.196-de-2-de-setembro-de-2024-582077591.md",
+      "sha256_md": "c667dea4175d1c631fe61d935b451e5f4150f2d0927e33bd79201875358f6682",
+      "sha256_fonte": "2006142e3023a0165bf97200a333dca097b8e34f15f9599481b6f4c8e56f594e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "223354133608cd3b8e3a1038453d5ef7ddf450eed80001a0d0c67f932796a5bb",
+      "sha256_visivel_md": "50c0d99829ca4f426922597efca4be691076d98517627f5c55aef8c28312967b",
+      "primeira_diferenca": {
+        "posicao": 929,
+        "fonte": "MEDICAMENTO EXPEDIR: MEDICAMENTO 70804 - AE - ALTERAÇÃO - ENDEREÇO / 1023063247 -------------------------------------- BIOEXATA FARMÁCIA DE MANIPULAÇÃO LTDA EPP / 07.642.778/0003-05 25351.530866/2008-57 / 1385805 MANIPULAR: INSUMOS FARMACÊU",
+        "md": "MEDICAMENTO EXPEDIR: MEDICAMENTO 70804 - AE - ALTERAÇÃO - ENDEREÇO / 1023063247 BIOEXATA FARMÁCIA DE MANIPULAÇÃO LTDA EPP / 07.642.778/0003-05 25351.530866/2008-57 / 1385805 MANIPULAR: INSUMOS FARMACÊUTICOS 7027 - AE - ALTERAÇÃO - FARMÁCIA "
+      }
+    },
+    {
+      "path": "reguladores/ms/resolucoes/2024/resolucao-re-n-3.202-de-2-de-setembro-de-2024-582046393.md",
+      "sha256_md": "7a0c0c047c39803c6ff17e8eb1c1fdfadc5343a1fea443ca0fa6d65198fa60be",
+      "sha256_fonte": "e29f150941b1e72aaa2ddbeddeca5d65deaa3b6eba9683d4082f7d07cabb0c42",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "81342dee7a28c1d7df8bb04dd927d3cfd4aa6d6722f3bd105cb623c662d090d1",
+      "sha256_visivel_md": "c0eb866472c8dfabdbd887d7d294181f987304063253232aa6ccbb6a776ec012",
+      "primeira_diferenca": {
+        "posicao": 907,
+        "fonte": "SUMOS FARMACÊUTICOS 705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1062673247 -------------------------------------- vetex farmacia manipulação ltda / 08.783.869/0005-95 25351.389814/2024-17 / 1317067 MANIPULAR: INSUMOS FARMACÊUTICOS (VET",
+        "md": "SUMOS FARMACÊUTICOS 705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1062673247 vetex farmacia manipulação ltda / 08.783.869/0005-95 25351.389814/2024-17 / 1317067 MANIPULAR: INSUMOS FARMACÊUTICOS (VETERINÁRIOS) 70899 - AE - CONCESSÃO - MAN"
+      }
+    },
+    {
+      "path": "reguladores/ms/resolucoes/2024/resolucao-re-n-715-de-22-de-fevereiro-de-2024-544774971.md",
+      "sha256_md": "8542e6ffaef1b980b21c6e460450c4e342a8a22453be092ce8a6049c582224a5",
+      "sha256_fonte": "3ad99f554743a32374a016dfd53b8801b7acab0b61b723dc7486d70c263033c2",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f26ffab3fbace0b8c19f4a96c738bd55a953111aad84ea78bd596f3a3546c62f",
+      "sha256_visivel_md": "fe1d2db80652942aa40137518d58660a90c6639a811f19efad449b5e415b282e",
+      "primeira_diferenca": {
+        "posicao": 752,
+        "fonte": "CA COMERCIAL PROCESSO CÓDIGO DE ASSUNTO, EXPEDIENTE NOVA CATEGORIA TOXICOLÓGICA ----------------------------- ADAMA BRASIL S/A - 02.290.510/0001-76 GALES 25351.790137/2011-12 5001 - AVALIAÇÃO TOXICOLÓGICA PARA RECLASSIFICAÇÃO TOXICOLÓGICA, ",
+        "md": "CA COMERCIAL PROCESSO CÓDIGO DE ASSUNTO, EXPEDIENTE NOVA CATEGORIA TOXICOLÓGICA ADAMA BRASIL S/A - 02.290.510/0001-76 GALES 25351.790137/2011-12 5001 - AVALIAÇÃO TOXICOLÓGICA PARA RECLASSIFICAÇÃO TOXICOLÓGICA, 1479979/23-6 CATEGORIA 4 - PRO"
+      }
+    },
+    {
+      "path": "reguladores/ms/resolucoes/2024/resolucao-re-n-2.139-de-5-de-junho-de-2024-563743196.md",
+      "sha256_md": "762bf99d2cecca25f09c52002ab975647aa1c366e74eac2233e5d82cbf184953",
+      "sha256_fonte": "8309b8f3e7ba707a7fc259227d6f8272903785c11c5d67038da95929373d39bf",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d291b6c8cde83ca74dc72f6fd009489645fc52016a832e3e4a2aefeff90ce93a",
+      "sha256_visivel_md": "7e81497ee1773c5dc11b750214939915316869c0643a16485ccae0c98d2872c0",
+      "primeira_diferenca": {
+        "posicao": 689,
+        "fonte": "PJ MEDICAMENTO EXPERIMENTAL CE NÚMERO DE PROCESSO EXPEDIENTE ASSUNTO DE PETIÇÃO ------------------------------------------------------------------------------------------------------------------- BEIGENE BRASIL LTDA. - 30.763.301/0001-38 BG",
+        "md": "PJ MEDICAMENTO EXPERIMENTAL CE NÚMERO DE PROCESSO EXPEDIENTE ASSUNTO DE PETIÇÃO BEIGENE BRASIL LTDA. - 30.763.301/0001-38 BGB-43395 48/2024 25351.223774/2024-33 0551271/24-9 10750 - ENSAIOS CLÍNICOS - Anuência em processo do Dossiê de Desen"
+      }
+    },
+    {
+      "path": "reguladores/ms/resolucoes/2024/resolucao-re-n-3.200-de-2-de-setembro-de-2024-582075028.md",
+      "sha256_md": "0453f7df73fe801308b8353119651001332924cda5b11d1f99ed95a2018fafb9",
+      "sha256_fonte": "45e1dfb68a28e6265c6c2c9af93ce63f97eb944eb4fc3cf4074519925826742a",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "cb5ce78feaf919fa24d2c04e437b2a9bdbabb6634bd8afa5ab7c998143ff78e4",
+      "sha256_visivel_md": "6331f5b301b4bcf81c5d8c99bafb2f4ae37cf2854f68e8446f4e3a5651b8e8a1",
+      "primeira_diferenca": {
+        "posicao": 962,
+        "fonte": " assinatura foi digitado, porém, sem certificação digital para validar o mesmo. -------------------------------------- JOSE APARECIDO RIBEIRO ROCHA CAPAO BONITO ME / 04.506.688/0001-37 25351.389922/2024-81 / 733 - AFE - CONCESSÃO - FARMÁCIA",
+        "md": " assinatura foi digitado, porém, sem certificação digital para validar o mesmo. JOSE APARECIDO RIBEIRO ROCHA CAPAO BONITO ME / 04.506.688/0001-37 25351.389922/2024-81 / 733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 1105066240 MOTIVO DO IN"
+      }
+    },
+    {
+      "path": "reguladores/ms/resolucoes/2024/resolucao-re-n-2.140-de-5-de-junho-de-2024-563746576.md",
+      "sha256_md": "5dad7e63e759b281431d3cd988cc30a2cadea0b3d22ab4a69116e8aea193b0fa",
+      "sha256_fonte": "5a409b65518ccf637154ef95b4c84d1d07e5dc0c68f60dbf15371538dbc26a1f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "990718ee8556e60df4ea0a5c175b1c099aef6e6ccab16b52ab19c252c313f515",
+      "sha256_visivel_md": "ee305e974a8935eabe3146e04196bb9a936b768825dc49fb78a48a025c476799",
+      "primeira_diferenca": {
+        "posicao": 858,
+        "fonte": "PJ MEDICAMENTO EXPERIMENTAL DI NÚMERO DE PROCESSO EXPEDIENTE ASSUNTO DE PETIÇÃO ------------------------------------------------------------------------------------------------------------------- ASTRAZENECA DO BRASIL LTDA - 60.318.797/0001",
+        "md": "PJ MEDICAMENTO EXPERIMENTAL DI NÚMERO DE PROCESSO EXPEDIENTE ASSUNTO DE PETIÇÃO ASTRAZENECA DO BRASIL LTDA - 60.318.797/0001-00 balcinrenona com dapagliflozina 49/2024 25351.022746/2024-09 0169591/24-6 10750 - ENSAIOS CLÍNICOS - Anuência em"
+      }
+    },
+    {
+      "path": "reguladores/ms/resolucoes/2024/resolucao-re-n-2.143-de-5-de-junho-de-2024-563768563.md",
+      "sha256_md": "1a4fe6a3d5b3c10ca600d21e305894820597b082bcd1acbfec48bb612f8f2a58",
+      "sha256_fonte": "1b3bce4e69723c9ef9b7c8077f30d59eee3ba86ec5699317ebdfc4fc3a38d14e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8ec618a2b1824da93cf17425f6d9f27390b7d21709c30490f28150fff5d0dd86",
+      "sha256_visivel_md": "53064a1ca1f48cac1bffd34c565e14ead5a5ddd278f26b73865a6297f88ceb14",
+      "primeira_diferenca": {
+        "posicao": 1222,
+        "fonte": "ANIZADOS E TERMINAIS AQUAVIÁRIOS INSTALADOS NO TERRITÓRIO NACIONAL / 0444936246 -------------------------------------- LIBRAPORT CAMPINAS S/A / 03.795.647/0001-45 25351.294333/2024-16 / 9104415 PRESTAR SERVIÇO EM PORTOS, AEROPORTOS, FRONTEI",
+        "md": "ANIZADOS E TERMINAIS AQUAVIÁRIOS INSTALADOS NO TERRITÓRIO NACIONAL / 0444936246 LIBRAPORT CAMPINAS S/A / 03.795.647/0001-45 25351.294333/2024-16 / 9104415 PRESTAR SERVIÇO EM PORTOS, AEROPORTOS, FRONTEIRAS E RECINTOS ALFANDEGADOS DE: ARMAZEN"
+      }
+    },
+    {
+      "path": "reguladores/ms/resolucoes/2024/resolucao-re-n-848-de-1-de-marco-de-2024-546267946.md",
+      "sha256_md": "50eb0bf50fb32c7f85380c08c30026e9d2e11e20aa36e7f529d49b54a7cee6c6",
+      "sha256_fonte": "4f8feba54e222272bf543026e6ba1063bf00b78a97f2ae43395b27ed79b6231b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "5884d4eb5349e5ca926c79afdcb60e746b552f06f42fd5e901aeb616a1f770fc",
+      "sha256_visivel_md": "e9361d067c0af1d9f98d808fc42e91ea136a58abac76e3a91a32165cc1e04320",
+      "primeira_diferenca": {
+        "posicao": 1489,
+        "fonte": "VIDADES PLEITEADAS, DEIXANDO DE ATENDER O ITEM 08, DO ANEXO III, DA RDC 345/02. -------------------------------------- TRANSCONTINENTAL LOGÍSTICA S/A / 87.951.448/0006-83 25751.593276/2020-19 / 9369 - PAF - AFE DE PRESTADORA DE SERVIÇO DE A",
+        "md": "VIDADES PLEITEADAS, DEIXANDO DE ATENDER O ITEM 08, DO ANEXO III, DA RDC 345/02. TRANSCONTINENTAL LOGÍSTICA S/A / 87.951.448/0006-83 25751.593276/2020-19 / 9369 - PAF - AFE DE PRESTADORA DE SERVIÇO DE ARMAZENAGEM DE ALIMENTOS EM RECINTOS ALF"
+      }
+    },
+    {
+      "path": "reguladores/gestao/portarias/2024/portaria-sgd-mgi-n-3.385-de-16-de-outubro-de-2024-590822925.md",
+      "sha256_md": "b3b0dfea667bb73d479989b4cfaa795ea0256f12bddfc962ab2dd9c63903d07b",
+      "sha256_fonte": "a6ac3b62793d74b72b3a29489ce117ef240a83595c5e06ed8291c281e3001bbb",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO II — PORTARIA SGD/MGI N.º 3385, DE 16 DE OUTUBRO DE 2024",
+          "fonte": "ANEXO II PORTARIA SGD/MGI N.º 3385, DE 16 DE OUTUBRO DE 2024",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "848f7b02a49f44bee1294bf4358ceb6bd7d5425f553e437cac57fd5829003c19",
+      "sha256_visivel_md": "9d0abd3aa49b7b682aadef1ee384c21656967068a06df34350dfc52e6781dbe1",
+      "primeira_diferenca": {
+        "posicao": 17575,
+        "fonte": "me do Responsável pela Portaria] [Cargo do Responsável pela Portaria] ANEXO III Gratificações para atendimento as instituições de ensino do SISP (*) Área Temática Nível Superior Nível Intermediário Área Responsável Gestão e Planejamento de ",
+        "md": "me do Responsável pela Portaria] [Cargo do Responsável pela Portaria] ANEXO III — Gratificações para atendimento as instituições de ensino do SISP () Área Temática Nível Superior Nível Intermediário Área Responsável Gestão e Planejamento de"
+      }
+    }
+  ]
+}

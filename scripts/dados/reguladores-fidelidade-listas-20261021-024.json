@@ -1,0 +1,3115 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "22c9478bddaccafdb352d55b6c15bb5b0ae9b4a65d9a1b5ee790ffd1224508c8",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "revisar": 9,
+    "iguais": 92
+  },
+  "documentos": [
+    {
+      "path": "reguladores/mapa/instrucoes-normativas/2020/instrucao-normativa-n-19-de-29-de-abril-de-2020-254676996.md",
+      "sha256_md": "d28e9a9a0766b197d6d91248257bf1624ce4a60be2a888cc8cfd4d43fc08741d",
+      "sha256_fonte": "14ed08232fd02fccc850615f9eff8f1433d9bb4cd1408578e77ec05bbc2c590e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "09342600b94aaee3073402b0c62ac86b59577f31005c4d038dd76f0f65ed90b8",
+      "sha256_visivel_md": "fa93d559281b45ad9351df021aead61c4631180033ecf1777d21f944da76e88c",
+      "primeira_diferenca": {
+        "posicao": 2446,
+        "fonte": "base de inseticidas com comprovada eficiência, e as especificações do tratamento(ingrediente ativo, dose ou concentração, temperatura e duração do tratamento) deverão constar no Certificado Fitossanitário. Art. 4º As partidas estarão sujeit",
+        "md": "base de inseticidas com comprovada eficiência, e as especificações do tratamento*(ingrediente ativo, dose ou concentração, temperatura e duração do tratamento*) deverão constar no Certificado Fitossanitário. Art. 4º As partidas estarão suje"
+      }
+    },
+    {
+      "path": "reguladores/mapa/instrucoes-normativas/2020/instrucao-normativa-n-21-de-24-de-abril-de-2020-254000817.md",
+      "sha256_md": "3c11520f1624b3147f3110008c91f610e0fa15ed3bbccda717237a2778f6c57f",
+      "sha256_fonte": "865070cc953d9fa4a3d31addb5b39237c73c0ad153097bd84280bfef2524aec8",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "a9c8c90c49585c8fa3b0d53d5e318fa47ff5ca7bb7600ccc259054c492056fc2",
+      "sha256_visivel_md": "7c87bcad1bcd82457c01f45668398fdd5b629701394dd6d0a08a1d062f29fdd4",
+      "primeira_diferenca": {
+        "posicao": 751,
+        "fonte": " de sementes (Categoria 4, Classe 3) e de grãos (Categoria 3, Classe 9) de milho(Zea mays), produzidas na Índia, na forma desta Instrução Normativa. Art. 2º As sementes e os grãos devem estar acondicionados estar livres de solo e resíduos v",
+        "md": " de sementes (Categoria 4, Classe 3) e de grãos (Categoria 3, Classe 9) de milho*(Zea mays)*, produzidas na Índia, na forma desta Instrução Normativa. Art. 2º As sementes e os grãos devem estar acondicionados estar livres de solo e resíduos"
+      }
+    },
+    {
+      "path": "reguladores/mapa/instrucoes-normativas/2020/instrucao-normativa-n-39-de-30-de-junho-de-2020-264913600.md",
+      "sha256_md": "394f9f6761ef33b31aa1ecf83fe63673d4522211f3cc2553cb3c42b09135a9fd",
+      "sha256_fonte": "92f0c099bf5cee86bf30366ffbf83bf4e5f1a0ea4129f17d97ede23b6b822fce",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "6d08e51be2eb0795a6806b83b320d1f2f1c7f6a9ef242bf7104e59cf2180209e",
+      "sha256_visivel_md": "861b29095bda44748a8f0a7fee76a0e424fa346f3a5dfe1925a43f97dc1848d9",
+      "primeira_diferenca": {
+        "posicao": 3036,
+        "fonte": "llens, Medonia deromecoides, Otiorhynchus rugosostriatus, Otiorhynchus sulcatusePseudococcus calceolariae,de acordo com o resultado da análise oficial do laboratório Nº .\" III - \"O lugar de produção de mudas de mirtilo foi submetido a inspe",
+        "md": "llens, Medonia deromecoides, Otiorhynchus rugosostriatus, Otiorhynchus sulcatuse*Pseudococcus calceolariae,*de acordo com o resultado da análise oficial do laboratório Nº .\" III - \"O lugar de produção de mudas de mirtilo foi submetido a ins"
+      }
+    },
+    {
+      "path": "reguladores/mapa/instrucoes-normativas/2020/instrucao-normativa-n-4-de-23-de-janeiro-de-2020-239865656.md",
+      "sha256_md": "4199c5bf51626b42cb950c3ee5c047d308122e968f077ca568097116feed6d91",
+      "sha256_fonte": "c06a0d18e2b1b81a01399cb5016b5b1354b0adb9057fc9b013991c6f60f8dac5",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — LISTA DE PRAGAS DE PREOCUPAÇÃO DO BRASIL ASSOCIADAS A PERAS FRESCAS DA CHINA E DE MEDIDAS FITOSSANITÁRIAS CORRESPONDENTES",
+          "fonte": "ANEXO I LISTA DE PRAGAS DE PREOCUPAÇÃO DO BRASIL ASSOCIADAS A PERAS FRESCAS DA CHINA E DE MEDIDAS FITOSSANITÁRIAS CORRESPONDENTES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "a9053c2d95a0db271a6cfd4a4006297b32eac9909b8bd5b7b713f8923ece49f5",
+      "sha256_visivel_md": "2a691c5e674bf82debb4a13ac45fbf4e08788bf4f9348b00c6b2e3e7fdaebf34",
+      "primeira_diferenca": {
+        "posicao": 14636,
+        "fonte": "d. Se um lote for rejeitado em razão da detecção deB. dorsalis,Cydia pomonellaouCydia inopinata,mesmo que o pomar exportador de origem do referido lote tenha sido previamente aprovado pela inspeção, as exportações das peras remanescentes lo",
+        "md": "d. Se um lote for rejeitado em razão da detecção deB. dorsalis,Cydia pomonellaou*Cydia inopinata,*mesmo que o pomar exportador de origem do referido lote tenha sido previamente aprovado pela inspeção, as exportações das peras remanescentes "
+      }
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-125-de-21-de-maio-de-2020-258042533.md",
+      "sha256_md": "7a740cbddc96f4f459afa9ae2d6417485cbe603b25e033bfa7a5edb2a901c6d9",
+      "sha256_fonte": "d65fb1d1fae5e905ce3e653f09e3504f9b430e3f584032633be42e69c2abc6c0",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              100,
+              104
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "0f4cc310f436a0777ced668fd1c8ab33013f09ff032e0edd0c2c39f502f0d718",
+      "sha256_visivel_md": "0f4cc310f436a0777ced668fd1c8ab33013f09ff032e0edd0c2c39f502f0d718"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-126-de-21-de-maio-de-2020-258110547.md",
+      "sha256_md": "18d1cd385463a11fbf6c055e3fbb22e5009080fd9542c3925bc098345d36b4de",
+      "sha256_fonte": "ca6e5a68c46a58af435b3f64bbdcd89b27a68aa0ecdbaaece89c8c97498bc4d0",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              90,
+              94
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "eb48a5d406f47b7613329af3bd4d754176fdc348d0ba01375fb1abdc571a088c",
+      "sha256_visivel_md": "eb48a5d406f47b7613329af3bd4d754176fdc348d0ba01375fb1abdc571a088c"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-127-de-21-de-maio-de-2020-258110557.md",
+      "sha256_md": "5cd6faf38968242f30718d68b1116c741a4e19e9edbec3e9f38966e9e869c236",
+      "sha256_fonte": "af0f0c612a80ec74df07c752609582d6ebc3ae85aa6e0ab8c003ff1245123952",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              90,
+              94
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "7d5d6c99ea84a19aa22f3428b6761e9b32085eb1b95c77c777855c2e7b39b9cf",
+      "sha256_visivel_md": "7d5d6c99ea84a19aa22f3428b6761e9b32085eb1b95c77c777855c2e7b39b9cf"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-128-de-21-de-maio-de-2020-258110418.md",
+      "sha256_md": "b04cc5f51f9a8165e6d144247936bdedbcc286ae0abd987bbc7b4a50a71c2f6f",
+      "sha256_fonte": "d87004ac5169bcb81818f92d3fcd05abf33199be5ac1c965ecdd5825cb7304a2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              90,
+              94
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "84610ec9a1c2a87aeb097bea7d72ce62b877f802903e18f600b9e661ee3a26c2",
+      "sha256_visivel_md": "84610ec9a1c2a87aeb097bea7d72ce62b877f802903e18f600b9e661ee3a26c2"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-129-de-21-de-maio-de-2020-258110385.md",
+      "sha256_md": "893ddec2913f27e6b977481bcfc42a8e5411bda046fa0f497862e7cbe8fe80c7",
+      "sha256_fonte": "3956872ba7139e5b5aeb697e2f05a90e86103e7b4297dea4bc440bdb0f33e3bd",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              88,
+              92
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "286a476b5dc8c54409f64ef6dec0c4cd15a6af6fdad1bb251d33ea591154e38e",
+      "sha256_visivel_md": "286a476b5dc8c54409f64ef6dec0c4cd15a6af6fdad1bb251d33ea591154e38e"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-130-de-21-de-maio-de-2020-258110408.md",
+      "sha256_md": "602d4f4b45151b3b7a2f528f725442e760fe8c616311097c7bf8326ae4f2a158",
+      "sha256_fonte": "6f1cc3b2feea48508cba21b34315199b73f03e19ed14b36ec1f7a94be3b56b52",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              96,
+              100
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "b2bcceb0a7530247584b700365781ab82f80ac516a604caa4959d9648374109e",
+      "sha256_visivel_md": "b2bcceb0a7530247584b700365781ab82f80ac516a604caa4959d9648374109e"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-131-de-21-de-maio-de-2020-258110240.md",
+      "sha256_md": "1a460e95baac3ceec9ea75d124ea7b9eb026dfd3ae0b024029a0d6ef826251a1",
+      "sha256_fonte": "461fe0622e908fee70684c0270bf9bc0f90a8864bdfa201a83fc9028019d3284",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              88,
+              92
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "b961881001a71685e0a362857aea335f873ef9bc1ed3d6561e2725eca5a47448",
+      "sha256_visivel_md": "b961881001a71685e0a362857aea335f873ef9bc1ed3d6561e2725eca5a47448"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-132-de-21-de-maio-de-2020-258110392.md",
+      "sha256_md": "1f94ca3268724338c119bc905986c7c901b898ea8e2b14e527e8c7e6bd5df79f",
+      "sha256_fonte": "2df67c8f40962382d9b6de18b7a39eedd6af8c55863dab91347b4f584aaf7dab",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              82,
+              86
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "283c8bc1f4c857fb43d7f71d93c513cbe5f132d98fa3b9ec0a71b28ef2a03cbf",
+      "sha256_visivel_md": "283c8bc1f4c857fb43d7f71d93c513cbe5f132d98fa3b9ec0a71b28ef2a03cbf"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-133-de-21-de-maio-de-2020-258042545.md",
+      "sha256_md": "90a367b80b58f1fe895e2d8a5e49505d798c00d0704e6cef847046637971353f",
+      "sha256_fonte": "f67a7c48c2c99b61ec7bfa6131767bd32c7b38f406aacaa1760997019e3fea0f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              88,
+              92
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "ddab6e35128316128c0b0205d4ee9d673b88c712a7e9230eb0a998eeddf25446",
+      "sha256_visivel_md": "ddab6e35128316128c0b0205d4ee9d673b88c712a7e9230eb0a998eeddf25446"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-134-de-21-de-maio-de-2020-258110390.md",
+      "sha256_md": "3ba2ecae17e5ccf54c0898c72a801adbdc1b905c41ba71358ef5d23c0c735b60",
+      "sha256_fonte": "a20af6d24bca0383c5552955d18e909e3f2a5ef34cfcb9ac817d2e287dba2266",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              78,
+              82
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "a5b238f1fa1f1fd8371a137a98d0dbdb98c97754729a26050591ccb531a38c41",
+      "sha256_visivel_md": "a5b238f1fa1f1fd8371a137a98d0dbdb98c97754729a26050591ccb531a38c41"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-135-de-21-de-maio-de-2020-258110570.md",
+      "sha256_md": "9420504c79374215783958a0f59009b319d4fbaa6c95c0374256b9463be552b4",
+      "sha256_fonte": "5485d52e2735a5824fcdc0b0664e3c526f6034772a6451354cbc8f937ebc7fdf",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              82,
+              86
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "ce8e144df97818e042dfbd46e6cc9b25b46bf179b7dbf0d6b5d08a986fbc45ab",
+      "sha256_visivel_md": "ce8e144df97818e042dfbd46e6cc9b25b46bf179b7dbf0d6b5d08a986fbc45ab"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-136-de-21-de-maio-de-2020-258110265.md",
+      "sha256_md": "ede7d0d7f4b9c35db5ec9fdf265ccdcc05ec0037b924942efb554ba1454c4133",
+      "sha256_fonte": "180c0e3ee182110f512f4e53d54aef2cd1b52a8cbf2e2c2c6acfb021be35fe83",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              76,
+              80
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "c067fb937c2480181e15e0943921318916362c8403423c5c8b3c1db8ff71f2a0",
+      "sha256_visivel_md": "c067fb937c2480181e15e0943921318916362c8403423c5c8b3c1db8ff71f2a0"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-137-de-21-de-maio-de-2020-258110348.md",
+      "sha256_md": "111bc68e52c5bc9fb7ba56467394201807dabf9d9e92c2fc2ad491469284355b",
+      "sha256_fonte": "3e114f9dd0afafd0350a31dc32fdd0e3dab863e6e5f60c95998d1f5539e09780",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              78,
+              82
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "f2633bb40cc4ed830a2ab4ae8a809c0569c359740ff7d4bea3715e36810637ae",
+      "sha256_visivel_md": "f2633bb40cc4ed830a2ab4ae8a809c0569c359740ff7d4bea3715e36810637ae"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-138-de-21-de-maio-de-2020-258110280.md",
+      "sha256_md": "722879713c857ff8774cb79823245e7f33fed13d2e004e70179a9a3d2d11f7d7",
+      "sha256_fonte": "01ccdaaf59ee5b38200da803e6cd9af4f3f9b25ca7459b9415f3ae07863ecec9",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              84,
+              88
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "fb22ffdf4c4e73241a9af44295e56cc71830850a3946e94d7520a9468446c500",
+      "sha256_visivel_md": "fb22ffdf4c4e73241a9af44295e56cc71830850a3946e94d7520a9468446c500"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-139-de-21-de-maio-de-2020-258110558.md",
+      "sha256_md": "3909a6bed955c1d1b14552b5d9174267299061a9e2fe07ec9049e8c76eb29918",
+      "sha256_fonte": "5ddb6f0aefad14f105c33d4a65f5d89d8eb1ec4a64c8a4be701aab5b18572e7f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              88,
+              92
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "34919420bd843e93e861546f62b31ddd7c90d7190d47c318dacb95b5ce4060a8",
+      "sha256_visivel_md": "34919420bd843e93e861546f62b31ddd7c90d7190d47c318dacb95b5ce4060a8"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-140-de-21-de-maio-de-2020-258110371.md",
+      "sha256_md": "32663ebd5088dfeff284d1e14202357a61138f1dcd18d335dd357b24a687fbcd",
+      "sha256_fonte": "e6656f087c733f265af2760459bbaffca05c1d6c3839f20febc1f24ec548fb73",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              92,
+              96
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "540e6aa03fc097e27ddf03e98f00826f12c762d296d1546e4baa7bedcd78c76f",
+      "sha256_visivel_md": "540e6aa03fc097e27ddf03e98f00826f12c762d296d1546e4baa7bedcd78c76f"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-141-de-21-de-maio-de-2020-258110413.md",
+      "sha256_md": "2dacfb98383aa4f6bc0249c4eab5cba51e43ab4a1b9f71e122d55bb2c3f57921",
+      "sha256_fonte": "269490ceef12a4dc036063ce541244d0880757082809d533977959464b87a86f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              94,
+              98
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "91e8bb5c1e4888acab3c7c5d501fa2bc75518449988933535a0cf2899ee09354",
+      "sha256_visivel_md": "91e8bb5c1e4888acab3c7c5d501fa2bc75518449988933535a0cf2899ee09354"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-142-de-21-de-maio-de-2020-258110619.md",
+      "sha256_md": "80480d66888cbec8377b44d42f86ea1b5b3c7fd23789e35edf016f3c87d30c2a",
+      "sha256_fonte": "d119c5bf927f6ea06b0653f2251dc4e40faddfeee67bb017a3e8e53fa1db3db7",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              92,
+              96
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "e8f34a588edd9c3fc40001bb55d0a2b1556f33c1be50b3ed6479b949116021cb",
+      "sha256_visivel_md": "e8f34a588edd9c3fc40001bb55d0a2b1556f33c1be50b3ed6479b949116021cb"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-143-de-21-de-maio-de-2020-258110411.md",
+      "sha256_md": "841703dae75bf9afe869dc2feef34ffae41c4eafdad56303121334f71ce9bb54",
+      "sha256_fonte": "7a5fc71ddc0a718a96d8ab2c2bb53e0a8dcaf174c57bbd584ff1c66df14cba58",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              94,
+              98
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "d5b54aa7e484f574bbe34f27d0f186280df1d73c1c0fcdb4cad5bcd1a853aceb",
+      "sha256_visivel_md": "d5b54aa7e484f574bbe34f27d0f186280df1d73c1c0fcdb4cad5bcd1a853aceb"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-144-de-21-de-maio-de-2020-258110581.md",
+      "sha256_md": "149a4340e0ed2f9fddb9259639de6006992e1762ba1cbc24e6f717cf8948c012",
+      "sha256_fonte": "d295a29194ad987cf3e3b3759837bc076965875b6b24d49fb26663c6f605a0cb",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              94,
+              98
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "2b1d2e1e513d67b8050b56d0fbebacde75a92f76e9a3c4221017fbc6d3552f09",
+      "sha256_visivel_md": "2b1d2e1e513d67b8050b56d0fbebacde75a92f76e9a3c4221017fbc6d3552f09"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-176-de-23-de-julho-de-2020-268438814.md",
+      "sha256_md": "d9ce638c5d58ff18bf7ab0d4113204edf54c75ca432f420be99da5ae410b8b1f",
+      "sha256_fonte": "a09e8ceb1c048cfbc6d5b56bb314b0e4efb9bcdaaa7eb6fc43f04aae6f8c0e53",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f56793e3b5efbef87925e9ed12fd524dfccf14d056be6b699502ef41132b78dc",
+      "sha256_visivel_md": "4c81bfa532bd5ac46c970bd62539ecc09c8464daae3b1a738f3fb06e8e1f0dc6",
+      "primeira_diferenca": {
+        "posicao": 4266,
+        "fonte": "al do referido rio desde a cachoeira do salto no município de São Fidélis (21º37`37,04\" S e 41º45`41,16\" O) até a desembocadura no Oceano Atlântico no município de São João da Barra (21º37`07\" S e 41º00`53,12\" O) no estado do Rio de Janeiro",
+        "md": "al do referido rio desde a cachoeira do salto no município de São Fidélis (21º3737,04\" S e 41º4541,16\" O) até a desembocadura no Oceano Atlântico no município de São João da Barra (21º3707\" S e 41º0053,12\" O) no estado do Rio de Janeiro. Ar"
+      }
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-199-de-23-de-junho-de-2020-263186522.md",
+      "sha256_md": "2ea30dc90957552fd08e8ba2088a8a793698fc6a9593b81573ddee4e50481f27",
+      "sha256_fonte": "e456a4c225d2af7263a9305e4e87fe41b9f5ffb43bb0c8c110c3bdacb375ab03",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              116,
+              118
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "a419504601d54620cbaac65db6c8007a75b98e426d72fc4ef336d0b5340722f8",
+      "sha256_visivel_md": "a419504601d54620cbaac65db6c8007a75b98e426d72fc4ef336d0b5340722f8"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-46-de-5-de-maio-de-2020-255680951.md",
+      "sha256_md": "73a6f0ccdf17e4245dda326300955b6439bea3740410b39f76fb1a71a657307b",
+      "sha256_fonte": "2346d7d2dfa1042f544e0b97579d20913851282ad43666aa4ed857e2c52bd9e0",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              74,
+              78
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "0e2a7979a44dd44dee422c9d9074bb60bf29c2cc2b1f64c8e5be92c947504871",
+      "sha256_visivel_md": "0e2a7979a44dd44dee422c9d9074bb60bf29c2cc2b1f64c8e5be92c947504871"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-47-de-5-de-maio-de-2020-255681195.md",
+      "sha256_md": "fb6b19ef42a33f9cff0497cb7137547eda0e32d528196cd4df239d3c817c5bb1",
+      "sha256_fonte": "9bf66bf13732238f1e1062bf61e141d5dfe9956a29076bcf35156ff9a4577ed2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              76,
+              80
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "56897d4b4a924d4e066a1daf57029445a1872d884af97718ca554e90bd95ca97",
+      "sha256_visivel_md": "56897d4b4a924d4e066a1daf57029445a1872d884af97718ca554e90bd95ca97"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-48-de-5-de-maio-de-2020-255681197.md",
+      "sha256_md": "9cb1ae19ac93aed43198f5d25e72c90199235779997e7a9486aaa732a6781643",
+      "sha256_fonte": "8fb8ad1e343ea6dfd718239b30c6392206e8782a379e5afcaee3d9681c39c5b6",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              76,
+              80
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "d17566f603be01132c24ddf75fa82d9744a46ed6818ec7c883e56530795f2f55",
+      "sha256_visivel_md": "d17566f603be01132c24ddf75fa82d9744a46ed6818ec7c883e56530795f2f55"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-49-de-5-de-maio-de-2020-255681331.md",
+      "sha256_md": "80d24cd08cfbc465c346af403d1ed4b9891e184c2ac87553f5f0319be0856e15",
+      "sha256_fonte": "38c2aff1ff0a2d91650ccdd8c46dc5c42e00d88814841f58778d925289ed113d",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              76,
+              80
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "7daa263cdd4c84835ff5c51db24e6b7cae2c812132b064d9928273f410dda004",
+      "sha256_visivel_md": "7daa263cdd4c84835ff5c51db24e6b7cae2c812132b064d9928273f410dda004"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-50-de-5-de-maio-de-2020-255681262.md",
+      "sha256_md": "cefeb276a98e58fbed8226a57213287789ab1be557f78d7b5a9c57a224a28072",
+      "sha256_fonte": "e8a0d6a1e94652328250e0c2ef6a7c0f76cc8361a6519e7247597f8e53a86617",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              70,
+              74
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "05b568cbe516911817f94c4de527aa51ebbcf84b14d601e53e5f75e2df384bfd",
+      "sha256_visivel_md": "05b568cbe516911817f94c4de527aa51ebbcf84b14d601e53e5f75e2df384bfd"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-51-de-5-de-maio-de-2020-255608840.md",
+      "sha256_md": "bce127f988324d3b5397b1da10c5531e8f735468f48523429f462febd4aececc",
+      "sha256_fonte": "8a80dadcd808d1bcb9dbc6de6123a03744c0ed18ff21e32ff8ca9dd24fe1956f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              76,
+              80
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "4325ea1d9effe2dda8d7e0c447ebe7b312d3e5ef060125ddb14311010b5f2207",
+      "sha256_visivel_md": "4325ea1d9effe2dda8d7e0c447ebe7b312d3e5ef060125ddb14311010b5f2207"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-52-de-5-de-maio-de-2020-255608843.md",
+      "sha256_md": "5da0ff03ccc30f0b7cf59339ab40e8802652803e4840265c58713272c0d9ffcc",
+      "sha256_fonte": "92be89f57868fd793608636f9532abfba5dd472ca9962741ba1693a47586083b",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              76,
+              80
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "748ca23a2171a81f24a6c860c911b7df2631959e925567bea661c5435c805d28",
+      "sha256_visivel_md": "748ca23a2171a81f24a6c860c911b7df2631959e925567bea661c5435c805d28"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-53-de-5-de-maio-de-2020-255608844.md",
+      "sha256_md": "337e1e3e1f5f605c7e989f8cfd25b55b48bc8ca4a545126d44fff565b82efae7",
+      "sha256_fonte": "399a510400b2d91b86af01764494a7add77a66013ae900888564240874277dfc",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              72,
+              76
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "7c7ca6aea7e1a0546bb4e7bfbf3f05bc80e3998afb9b7816cce032582a68835d",
+      "sha256_visivel_md": "7c7ca6aea7e1a0546bb4e7bfbf3f05bc80e3998afb9b7816cce032582a68835d"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-54-de-5-de-maio-de-2020-255608860.md",
+      "sha256_md": "3edcd07a193edb5ef37d32be0c3c50d81e1bbf563d11b37dca8fb58a7dda3e1c",
+      "sha256_fonte": "91d1281c5a1230a0f12233c5d721fdcea7a72fcfe8683605e65a5e479400f4ad",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              76,
+              80
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "f6141075ceff22fbe8c4bd0b7c57db395a71d2936ec7c739bd98a68696ab3785",
+      "sha256_visivel_md": "f6141075ceff22fbe8c4bd0b7c57db395a71d2936ec7c739bd98a68696ab3785"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-55-de-5-de-maio-de-2020-255680949.md",
+      "sha256_md": "ea3666ea4ca7c2e48ae7086455d74addb144db81e82d38e2351364137ac31483",
+      "sha256_fonte": "8a1545f6fa9d554e6281e0ef64abe9cebe5b991c4f1c3d1a4ea522585bb42949",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              76,
+              80
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "817ca2e7874817d8984573116da9c5e83075930b3e8f57592e180aa6b6f56b82",
+      "sha256_visivel_md": "817ca2e7874817d8984573116da9c5e83075930b3e8f57592e180aa6b6f56b82"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-56-de-5-de-maio-de-2020-255681201.md",
+      "sha256_md": "6a414a9aad53735f0bd1e76c0f1887874b8a3391b2cae05af92eb90ed98187ad",
+      "sha256_fonte": "a396f71eb6bdb9540b07da246b06be1412f2d98a5fa1487367cf0024930d8f9f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              74,
+              78
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "b38753b62093472af3c27057a1e2ddfdf91c893071953dc7a83d3fc1817b91ca",
+      "sha256_visivel_md": "b38753b62093472af3c27057a1e2ddfdf91c893071953dc7a83d3fc1817b91ca"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-57-de-5-de-maio-de-2020-255681073.md",
+      "sha256_md": "0040bbd60557c64774e50ee2a83d867abdeac1ef19127dbf779eb9dc7f499f17",
+      "sha256_fonte": "940e5f428e5399a584ec3042ecd1100a226b4fa8eb347f495094e10499f0e9fa",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              78,
+              82
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "27afcae7355388373b34a5a3ce004177e6f7ed6a31b9df841fdef18d9267f933",
+      "sha256_visivel_md": "27afcae7355388373b34a5a3ce004177e6f7ed6a31b9df841fdef18d9267f933"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-58-de-5-de-maio-de-2020-255681228.md",
+      "sha256_md": "7973b97f6e2b514e6683c2b96b98a463fd331f869f60bd51d71a0c89aa24fd2a",
+      "sha256_fonte": "5e520db2af5863bf7465d047f065857e86cb7910befdae39f6f43a878ad5c595",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              64,
+              68
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "a9cd1804cc91f8fcdab2ec9ec752fa792ee81c5c0d544c47c1d19f4e54072a5d",
+      "sha256_visivel_md": "a9cd1804cc91f8fcdab2ec9ec752fa792ee81c5c0d544c47c1d19f4e54072a5d"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-59-de-5-de-maio-de-2020-255608854.md",
+      "sha256_md": "7a5204b2e7b233007a338774b13b7fc15e7d5fd62d05c3e38cf178af1f0b2fa4",
+      "sha256_fonte": "5dfc0de17cb249dda458c9bbb5bac54b6928ff8794a7bcf0fd697c857876b57f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              78,
+              82
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "91ed2341a9cd49dc832c5c3642a869f05e439151e76fd2cb2e99ebccc214af98",
+      "sha256_visivel_md": "91ed2341a9cd49dc832c5c3642a869f05e439151e76fd2cb2e99ebccc214af98"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-60-de-5-de-maio-de-2020-255681375.md",
+      "sha256_md": "9e92e0077ec78fe4a6af1abd940b83103f11e869888ccf8e17f29edb909c6646",
+      "sha256_fonte": "584349bb0049ee75f1007f213b65fef5a514c25387950dcb1daeb0259b81ad1e",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              74,
+              78
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "99de097feac83e1bd979d520a20e087fb520cbccfa9a159839c2f8a0b3e60f34",
+      "sha256_visivel_md": "99de097feac83e1bd979d520a20e087fb520cbccfa9a159839c2f8a0b3e60f34"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-61-de-5-de-maio-de-2020-255681196.md",
+      "sha256_md": "741c033852c1f4adb146b47b02f00427e761f7d40125d2af3bf50e919f70c1e1",
+      "sha256_fonte": "03e14604a3d3e545af6ade96982f271b8b872fe46f17e2f28dd0335b1cb41873",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              70,
+              74
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "74fe96759e05ca4a614fd3d1b7fa80a986b2d29c9b292d141b4be55cce389dd8",
+      "sha256_visivel_md": "74fe96759e05ca4a614fd3d1b7fa80a986b2d29c9b292d141b4be55cce389dd8"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-62-de-5-de-maio-de-2020-255608851.md",
+      "sha256_md": "5c28cb1d4cee0aaaebe6a592967a275fafbd69a0262c32ab1f3f5fc0e466a2e9",
+      "sha256_fonte": "f4d649dda98f75f5dbdb83dbda9c24c642d81e494fc3a57105ea28d1b0ccc993",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              82,
+              86
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "aa80e5997aaa73765ac0a9f79c96d8e0a1419aa0e0e952a1bd54fb7aa3b776aa",
+      "sha256_visivel_md": "aa80e5997aaa73765ac0a9f79c96d8e0a1419aa0e0e952a1bd54fb7aa3b776aa"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-63-de-5-de-maio-de-2020-255608871.md",
+      "sha256_md": "e3de9f6d7c56c6c4d9436482beadc43582aa3729009fd4593cab69e5a6ac155c",
+      "sha256_fonte": "ce019b69a125649f8b629644c47157b2e9b1208400ffd9814adab586866d5530",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              120,
+              124
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "112503fdd880486027f5b7eafd2a62c8741f3de353c2caea184dd8e6ae609b2e",
+      "sha256_visivel_md": "112503fdd880486027f5b7eafd2a62c8741f3de353c2caea184dd8e6ae609b2e"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-64-de-5-de-maio-de-2020-255608846.md",
+      "sha256_md": "77e2c386e3656f3285cc94a0c7839f06bc4d984b4452e84482c1c30efd55d3d0",
+      "sha256_fonte": "8abe1f2d3bdd5d1854499a07d62c27093ee1719f1699bf2935d99984215cd0e9",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              86,
+              90
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "fab1aca5c816288f61d6dcfe414e46132bba4659437beee9dafd78c68999c681",
+      "sha256_visivel_md": "fab1aca5c816288f61d6dcfe414e46132bba4659437beee9dafd78c68999c681"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-65-de-5-de-maio-de-2020-255940307.md",
+      "sha256_md": "b3f8ba83f49044023f6771b3af23ee635070c8a5e1b0f1e9a8dc853b603d14a3",
+      "sha256_fonte": "9820daa51508a9387a333e9e2e29c25b2d3ad3aa1393240b2c1b6282a6dd499a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              52
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              94,
+              98
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "48b2a6e150737d13153b9d4908a72b5056d3c19900ccb8fd0bfafe2e9fa284ac",
+      "sha256_visivel_md": "48b2a6e150737d13153b9d4908a72b5056d3c19900ccb8fd0bfafe2e9fa284ac"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-66-de-5-de-maio-de-2020-255940379.md",
+      "sha256_md": "9a2848ccdb46e6792f1b25e79aba69d860ed4e445c657fdc82f5b8d63ddfc011",
+      "sha256_fonte": "d70854c09148f3ed0844d07c6a5bf14dc57ee9ef15d520a300e9bc93181045ab",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              54
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              100,
+              104
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "01f67a4d305721bd6c67938d8dfbb5ca89e6bf0fbae3bd7312de1c9c8b18176a",
+      "sha256_visivel_md": "01f67a4d305721bd6c67938d8dfbb5ca89e6bf0fbae3bd7312de1c9c8b18176a"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-67-de-5-de-maio-de-2020-255940406.md",
+      "sha256_md": "8b73235ff4fdaf7ca2b6dc401b6b13ee9877ca303a0a700b8989377a44fd9549",
+      "sha256_fonte": "af34cbff519c4413bf3bbaa4a711aa9627b3cab7d9007a50b9981ed35dbdf87f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              54
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "b75c6e91b93143c68309fbbe37aaf06b4bceb7bd5d0e1c5502b16a09f8e03d0d",
+      "sha256_visivel_md": "b75c6e91b93143c68309fbbe37aaf06b4bceb7bd5d0e1c5502b16a09f8e03d0d"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-68-de-5-de-maio-de-2020-255940574.md",
+      "sha256_md": "8ac5d4b91aabf56aba153b1a139f37cc80eff57c35d5c3fff3d346058b916ce7",
+      "sha256_fonte": "1011e6f8963e5e9dbd447b650ef791006156b8eea07367e0b22a8a0b7eeadf3f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              54
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              96,
+              100
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "6579e6521b9e018df8e305b2ddddf19a0037055f096f2d3a9029528a2cb5329c",
+      "sha256_visivel_md": "6579e6521b9e018df8e305b2ddddf19a0037055f096f2d3a9029528a2cb5329c"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-69-de-5-de-maio-de-2020-255940691.md",
+      "sha256_md": "89f2321b10fe1ee6e7bd33fbb693eaa70f56224b11d0133b204c652d62f2173c",
+      "sha256_fonte": "5d61c22f640b312a58bf525da935bd67f6d8efbc5500b2596e5b8611febf14b4",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              54
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "ca4e7e61366ad6f3b98f83609d13d00932cb778b098c59714e3618f40a7a2760",
+      "sha256_visivel_md": "ca4e7e61366ad6f3b98f83609d13d00932cb778b098c59714e3618f40a7a2760"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-70-de-5-de-maio-de-2020-255940560.md",
+      "sha256_md": "f11c32ea14443e7a96c4734534b08d6a20a755d2e5c9e88aef8b2c46c8ecf17a",
+      "sha256_fonte": "0756e7298c3d8d447024accec4d7ff368f7e1f260fa766a2212578002bc5404c",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              54
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              88,
+              92
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "5428085ec26d0ce88096ace4d875372466cd072c219ceeed44fbf32d781ff10a",
+      "sha256_visivel_md": "5428085ec26d0ce88096ace4d875372466cd072c219ceeed44fbf32d781ff10a"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-71-de-5-de-maio-de-2020-255940399.md",
+      "sha256_md": "d53827d30ab9d60352e75c698baa531ebd5db2dd2e910bcf72ffa670e054f833",
+      "sha256_fonte": "7859488182f3868962aeb190b70f2922b4702b1efe5b241bea7eef54093b1ba4",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              52
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "c32acedff47087942befa49e452770f0b8d698562e169456d7a4964ebc386b93",
+      "sha256_visivel_md": "c32acedff47087942befa49e452770f0b8d698562e169456d7a4964ebc386b93"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-72-de-5-de-maio-de-2020-255940696.md",
+      "sha256_md": "50a1cca8464d106abcfcd4fe3f46fda742bd47d333e208be9104ca16e8f32ecb",
+      "sha256_fonte": "80c6446046b891771360b2c6be18d5b54cbcf6a3629347901c66d694bb036686",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              52
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              76,
+              80
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "9511740e3b7e4f41cbcc518a296241b93fa486897845bee34683dbbd129de9da",
+      "sha256_visivel_md": "9511740e3b7e4f41cbcc518a296241b93fa486897845bee34683dbbd129de9da"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-73-de-5-de-maio-de-2020-255940473.md",
+      "sha256_md": "2a0e93977cd454faad3081c61bed3911f2b288d6950623327e0cb7db51464ef5",
+      "sha256_fonte": "66a48b1b9b18030c5a8ae352ef12c5d9025e5481edbedfdbc52632d11371ba8e",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              52
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              90,
+              94
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "dcf32538372d62328ab9aa4fc6ebeadac9f366cb45d37c3e7f85f5ec894dde0a",
+      "sha256_visivel_md": "dcf32538372d62328ab9aa4fc6ebeadac9f366cb45d37c3e7f85f5ec894dde0a"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-74-de-5-de-maio-de-2020-255940256.md",
+      "sha256_md": "379dcd993c07395c3b631fe491e010ede07670f11d7fbf62925dbc8de3d7df4d",
+      "sha256_fonte": "b7172094915240546898542a8773b8444e2346281a675efbd669c69b7fa328a2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              54
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              96,
+              100
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "46edf9b5f196a0f90a3e31bd70a56594f4caad448c8f70c14342583330ec8af1",
+      "sha256_visivel_md": "46edf9b5f196a0f90a3e31bd70a56594f4caad448c8f70c14342583330ec8af1"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-75-de-5-de-maio-de-2020-255940520.md",
+      "sha256_md": "b43476d7de5f6bb853bf574090e0ae0207a3b62d34748166660e263d844ea6b1",
+      "sha256_fonte": "db507d4a1894f07036ff700955df1fb91b9c7088f45c8e9dd8c6dbaf4aebc74f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              52
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              76,
+              80
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "abf6837710155a32a0237bd4b30218c2601a072819e9331f380ec84ed191e9af",
+      "sha256_visivel_md": "abf6837710155a32a0237bd4b30218c2601a072819e9331f380ec84ed191e9af"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-126-de-18-de-maio-de-2021-320640694.md",
+      "sha256_md": "d720d2c23cd206bb5c9486f46a867d04bcdc6131fcef8c39cf7026f70ed1f595",
+      "sha256_fonte": "4bd89e6635ab0293c9ebf1d15c702c6ba77439a0a672753edd586e48ec6d5a23",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              52
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "53e41cae94daef4c88b316e1aaa5943f95d50ecd81131b06aaaf328afa508d31",
+      "sha256_visivel_md": "53e41cae94daef4c88b316e1aaa5943f95d50ecd81131b06aaaf328afa508d31"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-127-de-18-de-maio-de-2021-320674024.md",
+      "sha256_md": "82410dc9995fea7224bc858a21a6bc876821271c40f1fb032ff676f595d01af0",
+      "sha256_fonte": "c976c771707300d510ef9164728b541646f5f94003e40fb388bc8af65905f79b",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              54
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "b1b7deb850ca0fa506e116812555804eec7e422ba9f721d4d496477b95b5b786",
+      "sha256_visivel_md": "b1b7deb850ca0fa506e116812555804eec7e422ba9f721d4d496477b95b5b786"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-128-de-18-de-maio-de-2021-320711430.md",
+      "sha256_md": "7fcc3b3ee5a8bc9423ac11ac498e41b5ea86072dcf2da3e582b0045a45770234",
+      "sha256_fonte": "f84d451f066d7d169816099ed93f41c167c0111022b81006eb19e471aafc92c7",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              54
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "0b2c1bbc753483648b0c93a345f08349cc66b6af492700180f509aaae2070aaa",
+      "sha256_visivel_md": "0b2c1bbc753483648b0c93a345f08349cc66b6af492700180f509aaae2070aaa"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-129-de-18-de-maio-de-2021-320686360.md",
+      "sha256_md": "b8d166509c65f50cd9fdc253639e544f80c788ebfceb55d0f3e2ae035bb0ebc9",
+      "sha256_fonte": "8ec3aa4afe29abb156621239881ba383404d38ac1e33f39f8969a1f4c915ef2e",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              54
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "64f83938af16ae3d63aada9786a0045a28d0ac2c237ae16d1a16c5618da97dad",
+      "sha256_visivel_md": "64f83938af16ae3d63aada9786a0045a28d0ac2c237ae16d1a16c5618da97dad"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-130-de-18-de-maio-de-2021-320711350.md",
+      "sha256_md": "ea558565513df3104fa48a3d1a531e1dc4b75c919650fa8a93d10203173961c0",
+      "sha256_fonte": "8302b00cfe673fa935d8639ba8b4d700dc356f7196699772fe1bf0e3ee2b5a7e",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              54
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "49ac330e5fedca7681e6ac8c36bac5ac43325f7bd729929b77551538448f0691",
+      "sha256_visivel_md": "49ac330e5fedca7681e6ac8c36bac5ac43325f7bd729929b77551538448f0691"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-131-de-18-de-maio-de-2021-320716700.md",
+      "sha256_md": "cd7395c22a1bf8a7f246c83a1a77cabb5a69fcfa3a1448d78755c77f6a62db4f",
+      "sha256_fonte": "31d42f02686fa2dd2152e86258cccf8054a6eb2dd26b5e92cae1b68231c8eac2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              54
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "8fcc54f8b0edbf47642220e6f0fc40fbd832caf77ca354e03ce8024ebf493737",
+      "sha256_visivel_md": "8fcc54f8b0edbf47642220e6f0fc40fbd832caf77ca354e03ce8024ebf493737"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-132-de-18-de-maio-de-2021-320711510.md",
+      "sha256_md": "5dc34d0ae626deea881b5a14b7e32cfd53919f550f55184820256b6f7aeeb318",
+      "sha256_fonte": "576f4b266e17f8f334b60afe067a7dfcf6673beb6da7eea2a782eb2fe801c7bc",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              52
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "b5432cf20565d3e44dbc1d0876272c5c99782d851408f49714574ff649d7429d",
+      "sha256_visivel_md": "b5432cf20565d3e44dbc1d0876272c5c99782d851408f49714574ff649d7429d"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-133-de-18-de-maio-de-2021-320601494.md",
+      "sha256_md": "91b0684e6bbfbd82ec46c7126af05a82b74d284f71f5e7c11de7bafa95d71425",
+      "sha256_fonte": "d9b63a431c6dad1eba9c1f5d56267b644550e936ec40575020ab2c7cea095288",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              52
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "1a44a15b3c1fbbe3f1cd9d82ddffdc5d7618adb97837378617e06f949a77db53",
+      "sha256_visivel_md": "1a44a15b3c1fbbe3f1cd9d82ddffdc5d7618adb97837378617e06f949a77db53"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-134-de-18-de-maio-de-2021-320649794.md",
+      "sha256_md": "3780f31ed3b6645b255f71d070b66ace337c6ae24f64bd77bc85c1224c02d1f7",
+      "sha256_fonte": "486a75d4d2d544e80861188d91023aef66f48ed50d71bda97205e581542f114c",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              52
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "fb7f05a113df4079b7fb7cc6da9f00ff8ccf25d4326fd5b3e76416f287b15fa4",
+      "sha256_visivel_md": "fb7f05a113df4079b7fb7cc6da9f00ff8ccf25d4326fd5b3e76416f287b15fa4"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-135-de-18-de-maio-de-2021-320601978.md",
+      "sha256_md": "2d5690232de1ced45e9429a1985d6e678925a776c4d6f69e0f1b5d6d09605783",
+      "sha256_fonte": "f004466640e951386897560265d9d4af45a1f11feca30b19101974d1291a38e8",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              54
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "341423cabd7f49324c0ec624697ab3bb9eb7ce672436913b4d0ad92c2056f180",
+      "sha256_visivel_md": "341423cabd7f49324c0ec624697ab3bb9eb7ce672436913b4d0ad92c2056f180"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-136-de-18-de-maio-de-2021-320649874.md",
+      "sha256_md": "baba8ffde89f6a52ce70fb37c8c387f70fa9a9f69a5956e26addae16936dc613",
+      "sha256_fonte": "248f450bb06e83e180390f5307c1688c0d80e459baf2b908e250099f232a08e4",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              52
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "f02b9dc538bcf8b18920b1163304ba41453f67f35cbe6999866b93233be00735",
+      "sha256_visivel_md": "f02b9dc538bcf8b18920b1163304ba41453f67f35cbe6999866b93233be00735"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-137-de-18-de-maio-de-2021-320659781.md",
+      "sha256_md": "d36fcb5a0c339294f9800de51042d30dc3b114ea2dd2ab6c450ade6809791aa2",
+      "sha256_fonte": "ec8003fbf0dfd6feced1c2fb81e2c0402ba67255813fa02f3eb712cac3d71256",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              54
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "c4cdf5a28e8438c38ddc5544421a64cde7400a68fd171ae9d068b6d9d681a14b",
+      "sha256_visivel_md": "c4cdf5a28e8438c38ddc5544421a64cde7400a68fd171ae9d068b6d9d681a14b"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-138-de-18-de-maio-de-2021-320641018.md",
+      "sha256_md": "77294e7255c821c92dd9d31feb29983a8109df33357b990d2ee16fd67075bc5b",
+      "sha256_fonte": "60d0fdf2a9281806abe043d09206b92e71cbf37f0eed56f51976d111441b1764",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              52
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "6cb9a8fe0d86a392cdba659c89e22291fcb60c6b888a93e217ca68518a122e8c",
+      "sha256_visivel_md": "6cb9a8fe0d86a392cdba659c89e22291fcb60c6b888a93e217ca68518a122e8c"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-139-de-18-de-maio-de-2021-320659541.md",
+      "sha256_md": "1a5a5f00c45c5010941a1d0836882d9184d1a3449fc0a71900a1e94b56b2bfa0",
+      "sha256_fonte": "0cc7d3b643cbeadbdb29e7b1c4c932de9e2fe19c55c08f728b1d89341fcbb156",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              54
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "ca725c01d7a099525087e4fb696c35ebc63742ee707f9c99dc229f3339ecb83c",
+      "sha256_visivel_md": "ca725c01d7a099525087e4fb696c35ebc63742ee707f9c99dc229f3339ecb83c"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-140-de-18-de-maio-de-2021-320659621.md",
+      "sha256_md": "9563bac09645da13692ec56515321b1d55cdef047a909135de0e5cfbbf6cb0aa",
+      "sha256_fonte": "e2dfbbf713988ad129b1c833985fd6d186d7fb68aea15029ed2357ca4dc977f6",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              54
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "3cefacb3524cc1e49251bed20f8fbf570592bbbe8f33032d9b99bc29be12ae60",
+      "sha256_visivel_md": "3cefacb3524cc1e49251bed20f8fbf570592bbbe8f33032d9b99bc29be12ae60"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-141-de-18-de-maio-de-2021-320687162.md",
+      "sha256_md": "477c901ffb4ad8552cf7df7dc9e1fe9d71673d5dc6556e1f2226fa8830cc4dc5",
+      "sha256_fonte": "e22d9ea49111b0c7f1672b1c7d2ec84bcd475f136e0fc0245b176e73bd94a9af",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              52
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "9e48811640d16a34dd376b0bda50529a5e6a79dd69d3f25355ddb50bed19ffc8",
+      "sha256_visivel_md": "9e48811640d16a34dd376b0bda50529a5e6a79dd69d3f25355ddb50bed19ffc8"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-142-de-18-de-maio-de-2021-320659861.md",
+      "sha256_md": "247e57d4bd07124723a1c4b8c6a96b48b5c068e8f7e93ab279b3abeaa101c987",
+      "sha256_fonte": "9682e499cf3cb3b0de588f0b31e784febd5fc238262e981fc306bc61fb2ea136",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              52
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "68f920afcebcda1ad7a254033a420a37e88e2b19eccf4ab24255c026b7d481dc",
+      "sha256_visivel_md": "68f920afcebcda1ad7a254033a420a37e88e2b19eccf4ab24255c026b7d481dc"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-231-de-18-de-agosto-de-2021-339230913.md",
+      "sha256_md": "e0cdbb478a6158d7f421c513674b470133b87c81e6c89ec5183d4e6ee80526fd",
+      "sha256_fonte": "dc996a7a30b14585193d2aeb3f6b55e8333355a8bab79c690b364715491da61a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              8,
+              10
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              14,
+              16
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              20,
+              22
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ")",
+            "linhas": [
+              34,
+              36
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ")",
+            "linhas": [
+              40,
+              42
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ")",
+            "linhas": [
+              46,
+              48
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 7,
+            "markup": ")",
+            "linhas": [
+              52,
+              54
+            ]
+          },
+          "html_start": "7",
+          "inicio_efetivo": 7,
+          "contadores": [
+            7
+          ]
+        },
+        {
+          "ast": {
+            "start": 8,
+            "markup": ")",
+            "linhas": [
+              58,
+              60
+            ]
+          },
+          "html_start": "8",
+          "inicio_efetivo": 8,
+          "contadores": [
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 9,
+            "markup": ")",
+            "linhas": [
+              62,
+              64
+            ]
+          },
+          "html_start": "9",
+          "inicio_efetivo": 9,
+          "contadores": [
+            9
+          ]
+        },
+        {
+          "ast": {
+            "start": 10,
+            "markup": ")",
+            "linhas": [
+              66,
+              68
+            ]
+          },
+          "html_start": "10",
+          "inicio_efetivo": 10,
+          "contadores": [
+            10
+          ]
+        },
+        {
+          "ast": {
+            "start": 11,
+            "markup": ")",
+            "linhas": [
+              72,
+              74
+            ]
+          },
+          "html_start": "11",
+          "inicio_efetivo": 11,
+          "contadores": [
+            11
+          ]
+        },
+        {
+          "ast": {
+            "start": 12,
+            "markup": ")",
+            "linhas": [
+              80,
+              82
+            ]
+          },
+          "html_start": "12",
+          "inicio_efetivo": 12,
+          "contadores": [
+            12
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "c61a5d9c98c7a9efb8d7be83d748626a3bb80c751bf2640649642a14a36ddd2e",
+      "sha256_visivel_md": "c61a5d9c98c7a9efb8d7be83d748626a3bb80c751bf2640649642a14a36ddd2e"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-279-de-29-de-abril-de-2021-317029546.md",
+      "sha256_md": "0fb6556e95d2b3747528785c9aba17218d669bf9becce6a2425f5524f8b1988f",
+      "sha256_fonte": "9ba87217c6aa6fb5cd409b92b09fc806b2f16c0dc9b4a1ed8cbb7cdee0d7d211",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "92d0b99df0b9748903f7baccf6bdfa168568a01aebf17e21e2b3b1a1836b196f",
+      "sha256_visivel_md": "6a2d7a937713f054db2412a85bc989b2634b0d9a271b105419e3f79cfd913cea",
+      "primeira_diferenca": {
+        "posicao": 245,
+        "fonte": "uária e Programa de incentivo à conformidade em Defesa Agropecuária dispostos noProjeto de Lei nº 1293/2021,que tramita no Congresso Nacional. O SECRETÁRIO DE DEFESA AGROPECUÁRIA, DO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO, no u",
+        "md": "uária e Programa de incentivo à conformidade em Defesa Agropecuária dispostos no**Projeto de Lei nº 1293/2021,**que tramita no Congresso Nacional. O SECRETÁRIO DE DEFESA AGROPECUÁRIA, DO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO, "
+      }
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-370-de-17-de-agosto-de-2021-338984522.md",
+      "sha256_md": "8804c1f24089d865c54393cdbb6cda493e3fd5bf702bbd8fa714de62df36fe51",
+      "sha256_fonte": "038f3da28e8423592ffa0e132ac518fe4ebc371df2930ac24dfa294ad1ca7cb3",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "3c1f9fea3387a1c7a9c817067185a24b885de69ee38d6ab1e354b4af4b2ffe00",
+      "sha256_visivel_md": "3c1f9fea3387a1c7a9c817067185a24b885de69ee38d6ab1e354b4af4b2ffe00"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-371-de-17-de-agosto-de-2021-339003210.md",
+      "sha256_md": "106346ff9810b168ed873bbc4422e63386bf8bd8f2d774045c4496efad3f0ba7",
+      "sha256_fonte": "9a372d1e8676d46786e9079e76aaa08c36faa551fb6bfd7953ce63c9d942c44e",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "5d49a74e9524093652cebfdc33d1102aec1cfcc12ebfd7b2b6e8fe769a852544",
+      "sha256_visivel_md": "5d49a74e9524093652cebfdc33d1102aec1cfcc12ebfd7b2b6e8fe769a852544"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-372-de-17-de-agosto-de-2021-338982042.md",
+      "sha256_md": "b75d8cf72c729f9e93635b1ffce5d9c4e32c4d51bc2368543f1e75a7f76a0ba4",
+      "sha256_fonte": "ccb1e796558df212c2ec35ca81284e2abf68a789112179440e8a0ada74156eb8",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "f62b45bf5de05bdfa50e7491658b3a3271e3e65e92509cc011a672e1787471ff",
+      "sha256_visivel_md": "f62b45bf5de05bdfa50e7491658b3a3271e3e65e92509cc011a672e1787471ff"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-373-de-17-de-agosto-de-2021-339003290.md",
+      "sha256_md": "879f6f816a31ee88f65393a726a83933e7c2820108dca58c2b83733efc167037",
+      "sha256_fonte": "e3926cf6a2028fd0fc001057d496752558414d1610d7e4329274691c3c2032e0",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "d1ee144f64efdf6b1bb5466289128d4d16b4d9e9a53816bdcf180ab42dfc63f6",
+      "sha256_visivel_md": "d1ee144f64efdf6b1bb5466289128d4d16b4d9e9a53816bdcf180ab42dfc63f6"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-374-de-17-de-agosto-de-2021-339097408.md",
+      "sha256_md": "6d7250db5f5120f508fefa7f76505328a7bd4d6443a39671c4458c91f2278c45",
+      "sha256_fonte": "a5a4fece4ec7a240fc332e2e2e5ebdf7266a3cf8734f9b7288bb9c388a308b9e",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "4a6ad5bd6c26f63cc0fbe2e9f4315620a8332e4022ffd169d6cc8032aea8ff38",
+      "sha256_visivel_md": "4a6ad5bd6c26f63cc0fbe2e9f4315620a8332e4022ffd169d6cc8032aea8ff38"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-375-de-17-de-agosto-de-2021-339006736.md",
+      "sha256_md": "6224f0bb88804e1b7be78210d66053169f415900b3df0cff3795a16f6b4cdf6b",
+      "sha256_fonte": "8eeaa4c35f5a3c1670f5bbcad82bf94e84a4a98dda3eca52ca4f1f0211a8d199",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "6e1f99650ae8017edf6e7449b7f3c95f6d4f220b66a3f3b9ba3666488a500cd4",
+      "sha256_visivel_md": "6e1f99650ae8017edf6e7449b7f3c95f6d4f220b66a3f3b9ba3666488a500cd4"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-376-de-17-de-agosto-de-2021-338985246.md",
+      "sha256_md": "95dee9ce483d046fa35959b9414a028ed3e4a9f02b71ac530fb563467accf7cb",
+      "sha256_fonte": "8b4fdfeda3121e254b0ef3112a057a1168184ea3418545ee5e0817b5f3bd0911",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "74e00f6d69a75cb13d0b315c3658290928b7374dc46c507a39fb5a7498f98340",
+      "sha256_visivel_md": "74e00f6d69a75cb13d0b315c3658290928b7374dc46c507a39fb5a7498f98340"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-377-de-17-de-agosto-de-2021-338984602.md",
+      "sha256_md": "6d450f263275b01e529a4c4f92f17afb123504470fdce98e1b530064f3cfc860",
+      "sha256_fonte": "58b7f7e00f0b0776c069b044234cf7b3709c74190976f5623e49ce08388ce7c1",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "fbd4dbc854eb81da118297e0e1e1aba146b87997079bcf556d7d60bd0e1e22c7",
+      "sha256_visivel_md": "fbd4dbc854eb81da118297e0e1e1aba146b87997079bcf556d7d60bd0e1e22c7"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-378-de-17-de-agosto-de-2021-338954195.md",
+      "sha256_md": "daa321f0319a42f6038be2388b6c32deed9a872c2e98b975e8a2096c916fe8f9",
+      "sha256_fonte": "20754793a9fabf9848e37b178f4e369dcaf9b9880acfda434a73c4d0c44479b6",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "56208a951c66e1df8f7f009d55ae5ddcb9db06ef9f322d1f21a6b34240e6890c",
+      "sha256_visivel_md": "56208a951c66e1df8f7f009d55ae5ddcb9db06ef9f322d1f21a6b34240e6890c"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-379-de-17-de-agosto-de-2021-338984680.md",
+      "sha256_md": "c062eed6519ff5edd1661e29d5cd4ba0984cf0ea64931e3756d983bc4691bf61",
+      "sha256_fonte": "850e96692321b798d2314876b5ec502826f5525abcb112e139de90ae00db5fca",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "eca1da75137a5a970949cc5cbff034fc48a491f291c5544baa2fad85d6fe7953",
+      "sha256_visivel_md": "eca1da75137a5a970949cc5cbff034fc48a491f291c5544baa2fad85d6fe7953"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-380-de-17-de-agosto-de-2021-339006816.md",
+      "sha256_md": "f07442105cfcce73e8bc9e36d107b5283e633a443366663e1c9312987a15263f",
+      "sha256_fonte": "60b0d19bba9580b4f99338aaf22441dd00c2752ed5d847e09f6115f066224cb4",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "a231f56540def7beb8cf43eb7389f7c1124f662e442bfda4449eb385cb9621ff",
+      "sha256_visivel_md": "a231f56540def7beb8cf43eb7389f7c1124f662e442bfda4449eb385cb9621ff"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-381-de-17-de-agosto-de-2021-338984762.md",
+      "sha256_md": "3e072074050f8064b880ca9197350e3370ece86e3de0e96179f2e18377235cd2",
+      "sha256_fonte": "1ea55280a4520332b17b7203a71667e254abf6c323130d58b84ef57238b3c0b8",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "4623b21c95cf864a2095daf1fd36492c574fa204edf192be8c59af9b4d303662",
+      "sha256_visivel_md": "4623b21c95cf864a2095daf1fd36492c574fa204edf192be8c59af9b4d303662"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-382-de-17-de-agosto-de-2021-339004010.md",
+      "sha256_md": "a447d28dd416ffdc5bfb5a0d1d5c60a009dca07af05d310ca0e32d1253d62c98",
+      "sha256_fonte": "b127c4c377c37e0595b7b50fdf4db40ccbbcb308801d3dc8e5f9cddbb5ec5f49",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "e67358caa0b6e862008fe8ebd1c1981a62bd4dc6625c5fa444b13eaabc2cc17d",
+      "sha256_visivel_md": "e67358caa0b6e862008fe8ebd1c1981a62bd4dc6625c5fa444b13eaabc2cc17d"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-383-de-17-de-agosto-de-2021-339007456.md",
+      "sha256_md": "28e3ca925e67015f0883ebe5fc289bd4f1e388b228a3f3551009dcc3169b30f8",
+      "sha256_fonte": "362a037e197031633d74ed5175af480eee8dd367bb0297b2cf3440d24f00e386",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "41e049e91fa616c8a6066b5e9fb356c450523ab2ff448efee9810387bce7c53f",
+      "sha256_visivel_md": "41e049e91fa616c8a6066b5e9fb356c450523ab2ff448efee9810387bce7c53f"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-384-de-17-de-agosto-de-2021-339004090.md",
+      "sha256_md": "b5cc9bc028495c45ce1a7452ab316d3162a20975b516bdc8ba5f204661c7672b",
+      "sha256_fonte": "da35b769a0b17136672fcb975d6c6e65bb4b176e17de65089a89a5272deb69be",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "38fcfb7b9a806f70a428fd4046c83a437b7706899b06522323b802438225dceb",
+      "sha256_visivel_md": "38fcfb7b9a806f70a428fd4046c83a437b7706899b06522323b802438225dceb"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-385-de-17-de-agosto-de-2021-339134052.md",
+      "sha256_md": "d54e83d266511d8330cc2fb0338b3fbf9d1c6324413e7e1b65d6fb7a1848e83a",
+      "sha256_fonte": "126b246f35ad860ebf454a40c02e5b23f0e09e199f5a96e4f4a2835cae03ff6a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "b5e89197b78fc004d977d37e47066007d8399ea54036feff03cede3998dcf3b5",
+      "sha256_visivel_md": "b5e89197b78fc004d977d37e47066007d8399ea54036feff03cede3998dcf3b5"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-386-de-17-de-agosto-de-2021-338985082.md",
+      "sha256_md": "19270cc9ac3229fb28afff2b75148647cde283375a458fff5ccfd3a302adb563",
+      "sha256_fonte": "e15ca93e5de8625d2e906518e9dd0242dd8c20e0dbb87179a2c6696839055569",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "856d07fd6a733879326ebd08c6e7ce0396f497bec45abc04a409a6b1fa1b2e41",
+      "sha256_visivel_md": "856d07fd6a733879326ebd08c6e7ce0396f497bec45abc04a409a6b1fa1b2e41"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-387-de-17-de-agosto-de-2021-338985324.md",
+      "sha256_md": "d0af66bbcadea4fabe74e0b3204e5ee84b432aee1fb648cd2e0eeb213df8564d",
+      "sha256_fonte": "7162d9a879a26a6c0addbe62478d5aee4b78cfb616f37056111e17d21bebe5f4",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "acd5f631a8d0521e550c2f9f16201d0ada18ca3f0dba721f865dc4ebf1245a42",
+      "sha256_visivel_md": "acd5f631a8d0521e550c2f9f16201d0ada18ca3f0dba721f865dc4ebf1245a42"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-388-de-17-de-agosto-de-2021-339007296.md",
+      "sha256_md": "f10487c12134ff86857471d5ae4e21d6f955dbf394e196f4de2c8d3e2d01ee19",
+      "sha256_fonte": "0672f10915ca0dbd9fdf08fbb82ac465f9b736dd5afcdfc93576933782e89806",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "becf1d003c3b9862f39e3f81e20367d17fa78ebd5faa1a356e9b56c4f3b6862f",
+      "sha256_visivel_md": "becf1d003c3b9862f39e3f81e20367d17fa78ebd5faa1a356e9b56c4f3b6862f"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-416-de-5-de-outubro-de-2021-351607467.md",
+      "sha256_md": "34132f0450733dfa91435d8e1cb49e42cc1e9a514fdcbad8de294f816dce2e03",
+      "sha256_fonte": "2858f84f8a15c03d30d607f32d7ab6adb6ab00e85e1266e372f045a769594585",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "361b8c71109813e05b53d423a7700c5ea2dd165d2f0c0ed3f098a8e4261c3529",
+      "sha256_visivel_md": "438eefc9dadff46320983c600edb3f3bf63154a38d79eb7410976c8e08a2dd3c",
+      "primeira_diferenca": {
+        "posicao": 1505,
+        "fonte": "do e se encontra livre deBassia scoparia, Phalaris paradoxa, Rhaponticum repenseSalsola kali.\";e II - \"As sementes encontram-se livres deFusarium oxysporumf. sp.carthamiePuccinia carthami, de acordo com o resultado da análise oficial do lab",
+        "md": "do e se encontra livre deBassia scoparia, Phalaris paradoxa, Rhaponticum repense*Salsola kali.\";*e II - \"As sementes encontram-se livres deFusarium oxysporumf. sp.carthamiePuccinia carthami, de acordo com o resultado da análise oficial do l"
+      }
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-64-de-23-de-abril-de-2021-315740212.md",
+      "sha256_md": "74fdf60c407f9fa063b4a2b973d4a974cb85d4321c5cf2c213a86cbee295181a",
+      "sha256_fonte": "435ef9e0fbf37597f534cf7f6fb208e79694c2204515ab3134c2413dcc9aa56d",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              74,
+              76
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "22909b1c211be223c43cc45c8d8e9b8c5fe862cc77290c03964ff81e0e9ec19f",
+      "sha256_visivel_md": "22909b1c211be223c43cc45c8d8e9b8c5fe862cc77290c03964ff81e0e9ec19f"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-65-de-23-de-abril-de-2021-315753669.md",
+      "sha256_md": "29ddc4d4ac590c38901e80f89a05464d127bfcc4b9c09612776cd63898f99c1b",
+      "sha256_fonte": "90c0715cb60e926ba2066e291c815acb82cb7767568d8a54d8cd28ea442ac50d",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              78,
+              80
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "1aa11270cdeb3ef4c3ec7a448f0db598a0c94a0bd56fa7952374bb844c6d17cd",
+      "sha256_visivel_md": "1aa11270cdeb3ef4c3ec7a448f0db598a0c94a0bd56fa7952374bb844c6d17cd"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-79-de-23-de-abril-de-2021-315815112.md",
+      "sha256_md": "436bcc6addd2621fd4f3c64c226f904876463c72f4584781748a4a4c0eb76099",
+      "sha256_fonte": "f9e5dd0b1c50b48e4e6a1c6c341ed19db98f9f64bfacb8ca2199e93591feb3de",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              70,
+              72
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "5614877449a1a09c018e440ea4d3b420f57c25f194a8dfe17446aa8a83d13a9f",
+      "sha256_visivel_md": "5614877449a1a09c018e440ea4d3b420f57c25f194a8dfe17446aa8a83d13a9f"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-sda-n-448-de-17-de-novembro-de-2021-360543494.md",
+      "sha256_md": "1ef68afd202a3f7ad612ffa4c22467f85a7aa85f7d980ffb6f2d4994d4d1403a",
+      "sha256_fonte": "e32c51d0c218cadd00db4c742dd5716425bf89858df8b87f7c5485a0b2ddb344",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c4df2db65d85b23c8d2d9fcc141ee8008ee69502600bbcc51bdef46dd44d36b6",
+      "sha256_visivel_md": "c89fd281c209bdbf714688996dd97425587bdd2cec9662096dbb1bf7fbaf87ea",
+      "primeira_diferenca": {
+        "posicao": 1473,
+        "fonte": "íduos e Contaminantes nas culturas agrícolas de abacaxi, alface, alho, amêndoa (Prunus dulcis),amêndoa de cacau, amendoim, arroz, avelã (Corylus avellana),banana, batata-inglesa, beterraba, café, castanha de caju, castanha do Brasil, cebola",
+        "md": "íduos e Contaminantes nas culturas agrícolas de abacaxi, alface, alho, amêndoa (*Prunus dulcis),*amêndoa de cacau, amendoim, arroz, avelã (*Corylus avellana),*banana, batata-inglesa, beterraba, café, castanha de caju, castanha do Brasil, ce"
+      }
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-n-2.485-de-21-de-dezembro-de-2022-452768813.md",
+      "sha256_md": "487e842bda9c5e49c8fa563cc379b883752bb8bedc1a265112e57db1a2bc001b",
+      "sha256_fonte": "ee0dd81eb7bde3803d8cd8f5120c6008225a4271d97e8f2d7ae9c37827dde99b",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — Quadro 1 - Metas Globais para o 12° Ciclo de Avaliação de Desempenho Institucional",
+          "fonte": "ANEXO I Quadro 1 - Metas Globais para o 12° Ciclo de Avaliação de Desempenho Institucional",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              24,
+              32
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "8a7c4c9b4ccec1d902c91679d7824a283a851ccee73e91a5946af4120f990d1a",
+      "sha256_visivel_md": "1dc5513e37534f4f79e89634f73e4ef6da027a3f86b2066a60e92a23da5261e9"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-sda-n-641-de-25-de-agosto-de-2022-425171426.md",
+      "sha256_md": "9e5853e67e29c07527eb2e60a2c008310bcb91143bda2508a2c299c7fa7700e8",
+      "sha256_fonte": "d38ae7f92cf9a639309819a954adb40a46ab7de81dfbae7f65ea374399fd9e68",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2c5391074a43e08c9ea065aa6b894e855f509217b5656e1f65e4bf9bbd6b3ecf",
+      "sha256_visivel_md": "1ad63b9a5412dd03a0dacc2eac872db218e6f97ca00b347c8f44fb0e864ce276",
+      "primeira_diferenca": {
+        "posicao": 157,
+        "fonte": "SDA nº 492, de 23 de dezembro de 2021, que cria o Banco de Auditores do SUASA. OSECRETÁRIO DE DEFESA AGROPECUÁRIA,DO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO, no uso das atribuições que lhe conferem os arts. 24 e 68, do Anexo I, ",
+        "md": "SDA nº 492, de 23 de dezembro de 2021, que cria o Banco de Auditores do SUASA. O**SECRETÁRIO DE DEFESA AGROPECUÁRIA,**DO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO, no uso das atribuições que lhe conferem os arts. 24 e 68, do Anexo"
+      }
+    }
+  ]
+}

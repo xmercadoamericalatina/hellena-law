@@ -1,0 +1,649 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "22c9478bddaccafdb352d55b6c15bb5b0ae9b4a65d9a1b5ee790ffd1224508c8",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "iguais": 20
+  },
+  "documentos": [
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-56346.md",
+      "sha256_md": "c257980c216e95286a99b8c4333d61c978c207031d77476119fe76a538c79f43",
+      "sha256_fonte": "daa7501bc2ebc9b0a3c718361525aa2bb822ec0831290d2731028a2622933f8b",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "bbb93d24457df493126987030de3100c59ca2d7bec38bd84106c09e8816bada8",
+      "sha256_visivel_md": "bbb93d24457df493126987030de3100c59ca2d7bec38bd84106c09e8816bada8"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-44689.md",
+      "sha256_md": "008b3fe908c30d6f5d7bbaa7d4a66ebeb3a49783992bfc38a70a18ac01200fb7",
+      "sha256_fonte": "3ae4fd53555b99f9bd701631d797ae8c29c1788bd800b5243c96415e24470004",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1970,
+            "markup": ".",
+            "linhas": [
+              40,
+              42
+            ]
+          },
+          "html_start": "1970",
+          "inicio_efetivo": 1970,
+          "contadores": [
+            1970
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "68a5cf809edaf95960f3c4a2030219dd711c9ee4bac76f3d2b6089f7c8d50c66",
+      "sha256_visivel_md": "68a5cf809edaf95960f3c4a2030219dd711c9ee4bac76f3d2b6089f7c8d50c66"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-40087.md",
+      "sha256_md": "7d971211deab5cec94d9a3b2880ce2270dd3f010082ab4dfba83fd49f4be1e9f",
+      "sha256_fonte": "0d229ae67e468ee8f1bd8fcc54ebee7d2b0d71f8a495ddbfdba23d3a9003f675",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "4552cbd323a01c24620a0557456a4dedc84aa6e8896c963941f5ecae27b8df2f",
+      "sha256_visivel_md": "4552cbd323a01c24620a0557456a4dedc84aa6e8896c963941f5ecae27b8df2f"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-40918.md",
+      "sha256_md": "ec3b8d1ed10f69a35eb2472a2cd7b44db374f1968b327c1ba2159e2fa030c7f8",
+      "sha256_fonte": "67c6a720c3049ae35b84c3f8480537ef636b7b1f715dcededb4eefbd5943e51f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              22,
+              28
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "c50824b43e0e6238e7dd4735a9f8ebcf23e63f2416a5690d6cdc317b49adee9a",
+      "sha256_visivel_md": "c50824b43e0e6238e7dd4735a9f8ebcf23e63f2416a5690d6cdc317b49adee9a"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-47750.md",
+      "sha256_md": "b27ebdee57786f8b85699d73013e3c554baea8636ce98945368747b5e3aecf14",
+      "sha256_fonte": "5418d018c880c71a0456433942aa677beac3c999f1d17ab34c39e62365eb3c35",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              20,
+              26
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "5137c0f9b0dea42767f744a224da3e00a4f6be5783ff7385f360865688ce86ec",
+      "sha256_visivel_md": "5137c0f9b0dea42767f744a224da3e00a4f6be5783ff7385f360865688ce86ec"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-42175.md",
+      "sha256_md": "351c1650cde58d4a0f2d1ac308d6fea3cf3d08974a1552c950c21d6c3a13baa2",
+      "sha256_fonte": "b228604e861cd74097544f7e6238a81aa75226b6b1913e50a7ad2020712293ee",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              8,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "5e54fa7c53b2a12429bb9a54e101d293ad1970bca0a23f03c040a709973313ff",
+      "sha256_visivel_md": "5e54fa7c53b2a12429bb9a54e101d293ad1970bca0a23f03c040a709973313ff"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-48639.md",
+      "sha256_md": "1e31436aec0b0e8e2a4e1bb16ce62810bf63c09639933a7eea47cf4293c63372",
+      "sha256_fonte": "57f41213b2af9d6da958a474aae49b80c61f640145498ba1bcd1280b755e0f58",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              22,
+              28
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "5fcea6ba7fb0838d5f6ec12c7a637f8cf1e271b1e2c7367cb0e38b2de3d0c498",
+      "sha256_visivel_md": "5fcea6ba7fb0838d5f6ec12c7a637f8cf1e271b1e2c7367cb0e38b2de3d0c498"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-51741.md",
+      "sha256_md": "f6b8e116b132fd4129f38502caffb8d47673d95718cf4f5527c33a5f76443712",
+      "sha256_fonte": "60e3e1c5f404b5ebdcf3cd3b6db33ce62cc7438ee59ceebd24613b7319ec377b",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              14,
+              16
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "f69ab74bab79cf2bfd76869fc2616ab8f589a229e29bf10e16524fc686879c83",
+      "sha256_visivel_md": "f69ab74bab79cf2bfd76869fc2616ab8f589a229e29bf10e16524fc686879c83"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-47858.md",
+      "sha256_md": "6a019bd0df90733f62f4fa56baef7e2b1a222d5e94705a438fde27f37abedced",
+      "sha256_fonte": "32d63bae4df66803261cbeeb62945a036ec50e190c013ec01c9ba58669b4c370",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              4,
+              10
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "6740bdadecee97609e5be0363c76586a71604674cd7dcf675e05930abf20b4a0",
+      "sha256_visivel_md": "6740bdadecee97609e5be0363c76586a71604674cd7dcf675e05930abf20b4a0"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-42760.md",
+      "sha256_md": "072403653b65caa3f20338631e7d3599464080299e07592b3cadd29a5522444f",
+      "sha256_fonte": "9d1c6cba299ab822cb98414dfab600491d2278e0a1d35fb6624ef1a2835972a2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              8,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "f7a2c38c8079c7052ec63322273778f38dbbc11fbd89fd590c056a777a3ed8e7",
+      "sha256_visivel_md": "f7a2c38c8079c7052ec63322273778f38dbbc11fbd89fd590c056a777a3ed8e7"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-41307.md",
+      "sha256_md": "da29c3f5a369a83b8e137bb16145b9bc93f1408b345f252934bbd736efaec923",
+      "sha256_fonte": "1de5f34ade6175509466b89a4fcb745653d02b45abef7ae7eb3a4b3f24cc7bd0",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              6,
+              10
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              16,
+              18
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ")",
+            "linhas": [
+              40,
+              44
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4,
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ")",
+            "linhas": [
+              50,
+              56
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 9,
+            "markup": ")",
+            "linhas": [
+              58,
+              68
+            ]
+          },
+          "html_start": "9",
+          "inicio_efetivo": 9,
+          "contadores": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "6d4a01566f847174b6046413d720ca54382d02a0e443d9b261275e14b5f8f926",
+      "sha256_visivel_md": "6d4a01566f847174b6046413d720ca54382d02a0e443d9b261275e14b5f8f926"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-41045.md",
+      "sha256_md": "597fc3a2735047b535a812d47b84331b32b00f00dde594a34d635b4f084ea07e",
+      "sha256_fonte": "4b067e5b503aa82638183795fbf7d4bd9f5c0e59aef025d79ec948859407282c",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              4,
+              8
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "afd336c31a31d657273f7d071220b041a6bea4345a50b4914a503d2c4ac3f23e",
+      "sha256_visivel_md": "afd336c31a31d657273f7d071220b041a6bea4345a50b4914a503d2c4ac3f23e"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-42624.md",
+      "sha256_md": "5cdb7574e27b64a67ea98cf9819363ba864e8d9cbe177f56a8976cd0aaa92a87",
+      "sha256_fonte": "e50e6193ea781432916f23d2fe3e654a1c79eb916d182092b3c6a08cb68062ad",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              22,
+              28
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "19c1d03f561e08419a2e80312ede61e3f0f58c8ef49e45f47937c74cfddcb35b",
+      "sha256_visivel_md": "19c1d03f561e08419a2e80312ede61e3f0f58c8ef49e45f47937c74cfddcb35b"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-43381.md",
+      "sha256_md": "b49963f6834abec54440d1fc95a7c9ee3246feeeb857807c924f3da3c526bb2a",
+      "sha256_fonte": "74c89f76555cf6bcccc2d3b35be0bcf9ca1bf0b95f6e6ed0877ccdad53ca5164",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              4,
+              18
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "b545d481b634a808cfa13dc99ea4cd7e5a177e08846c152014b121bcf0d71008",
+      "sha256_visivel_md": "b545d481b634a808cfa13dc99ea4cd7e5a177e08846c152014b121bcf0d71008"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-56255.md",
+      "sha256_md": "5d231720c236828d8b56430c26e17273783efc1788deb8424b6810e250f9203e",
+      "sha256_fonte": "505f6a136379e624c862229c9c12fd677bb135b1fa63913d25c1ff73b9238c96",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "970100b813c939f4a2844ef88da38c06e574ba254e742be1e5f333e7149bb11b",
+      "sha256_visivel_md": "970100b813c939f4a2844ef88da38c06e574ba254e742be1e5f333e7149bb11b"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-41130.md",
+      "sha256_md": "48b395f53d7a3aeb7aa6fa567834aa1090e856f12cbdf0061b17b1dba22391b7",
+      "sha256_fonte": "921cf263da9e157dfadb97646401caaf63853ff760c5225777713cd2f9efd1ba",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "5b198d6063acb0b7a8f6cb3a7866b5debaf69be065d0a0ae1054a16ce4944e58",
+      "sha256_visivel_md": "5b198d6063acb0b7a8f6cb3a7866b5debaf69be065d0a0ae1054a16ce4944e58"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-60836.md",
+      "sha256_md": "8d941e23a2a023d0b374e5e1eceba5ee2255568eeeaa92a4b333ad0e299d7f0b",
+      "sha256_fonte": "2e0e2a905df8dea2aed0ebdd83337d4314eeaf4e24c86fea93a5ac0d5d855b96",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 4,
+            "markup": ")",
+            "linhas": [
+              14,
+              16
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "e8a33e291759883bf8d43bc062c2519afe99a6c859f21740dc6fa8a73dde3b33",
+      "sha256_visivel_md": "e8a33e291759883bf8d43bc062c2519afe99a6c859f21740dc6fa8a73dde3b33"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-40916.md",
+      "sha256_md": "0b4a7ba7a7435279fa09ecd0b103690677cc8a2e03e22b7a68e94af24c814e9b",
+      "sha256_fonte": "4e925de5552710005f1c1352ca0d175ce7ff3daf47c92357900a7e76c4c30847",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              8,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "32deb723f1bfebc69f2277a4bcb8265ce09c0999c9adf72d4385a4a490259eaf",
+      "sha256_visivel_md": "32deb723f1bfebc69f2277a4bcb8265ce09c0999c9adf72d4385a4a490259eaf"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-44890.md",
+      "sha256_md": "ea731d05e37f6134f76e52187faf12abbc05e535d798b931c190b88ebbcae297",
+      "sha256_fonte": "0e0b5ba77d40f8fbb366a5b0dedc572614c3be8d3e725b966775b893e67c6bad",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              8,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "628c246b09a69bc47f0505ad2bf79cbaf8e947485aeff6e241cf27e51134d3e0",
+      "sha256_visivel_md": "628c246b09a69bc47f0505ad2bf79cbaf8e947485aeff6e241cf27e51134d3e0"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-47418.md",
+      "sha256_md": "cd67d20eda289d854b8c0872d3354c47edcbb4f9a7f8e876d8f31d54a8ee4657",
+      "sha256_fonte": "bcf472da4a0edf84961d6daad40d7c9e9af4ab7c6ceb5d688ce4f79b3612ce56",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              28,
+              32
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "4f10f319def4e6c43c13380ee8b27f588e3038f17df3373e47bd8fef42503aa3",
+      "sha256_visivel_md": "4f10f319def4e6c43c13380ee8b27f588e3038f17df3373e47bd8fef42503aa3"
+    }
+  ]
+}

@@ -1,0 +1,525 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "22c9478bddaccafdb352d55b6c15bb5b0ae9b4a65d9a1b5ee790ffd1224508c8",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "iguais": 14,
+    "revisar": 2
+  },
+  "documentos": [
+    {
+      "path": "reguladores/rfb/2010/rfb-sijut-25326.md",
+      "sha256_md": "d7510916e7bb1c35cbfaf43ced003e06696281407d1fb95226db7b83480500f3",
+      "sha256_fonte": "65eedd5ad4ef5bdacd39888263fef42570285f58b12861bcb56f058a1e299e10",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              18
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              20,
+              28
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              32,
+              36
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              38,
+              42
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "e3a32c8be294d38aab499b144951184b8d93c5a35df9218771192b6c4fe7e023",
+      "sha256_visivel_md": "e3a32c8be294d38aab499b144951184b8d93c5a35df9218771192b6c4fe7e023"
+    },
+    {
+      "path": "reguladores/rfb/2010/rfb-sijut-16046.md",
+      "sha256_md": "3eda97581e127bba0ad76f1dfd986fc2a1513e004be199c5a873a7c83eaea51b",
+      "sha256_fonte": "342e0af3cac8f135f8a1760f9bfe7521f0280895664fea5fb19a939033e87b5e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DO REGIME DE CAIXA",
+          "fonte": "CAPÍTULO I DO REGIME DE CAIXA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DO REGIME DE COMPETÊNCIA",
+          "fonte": "CAPÍTULO II DO REGIME DE COMPETÊNCIA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DOS EFEITOS DA ALTERAÇÃO DO CRITÉRIO DE RECONHECIMENTO DAS VARIAÇÕES MONETÁRIAS DE UM ANO-CALENDÁRIO PARA OUTRO",
+          "fonte": "CAPÍTULO III DOS EFEITOS DA ALTERAÇÃO DO CRITÉRIO DE RECONHECIMENTO DAS VARIAÇÕES MONETÁRIAS DE UM ANO-CALENDÁRIO PARA OUTRO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "aafc71d9e6114986161a0f838e4895fdf8a85111524d469ac89063fbafdf704a",
+      "sha256_visivel_md": "0cfe05b8bb03531916cd93a020a6f46d3e7f56c8ce02a408d84f4d0cc7833370",
+      "primeira_diferenca": {
+        "posicao": 3881,
+        "fonte": " 1º de janeiro do ano-calendário da opção até a data da liquidação. CAPÍTULO IV DOS EFEITOS DA ALTERAÇÃO DO CRITÉRIO DE RECONHECIMENTO DAS VARIAÇÕES MONETÁRIAS NO CURSO DO ANO-CALENDÁRIO Art. 8º Na hipótese de alteração do critério de recon",
+        "md": " 1º de janeiro do ano-calendário da opção até a data da liquidação. CAPÍTULO IV — DOS EFEITOS DA ALTERAÇÃO DO CRITÉRIO DE RECONHECIMENTO DAS — VARIAÇÕES MONETÁRIAS NO CURSO DO ANO-CALENDÁRIO Art. 8º Na hipótese de alteração do critério de r"
+      }
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-56908.md",
+      "sha256_md": "0fe1350db61d5e509511f5a90dd7bb88484a36eb37eeda68748b58d5f7650649",
+      "sha256_fonte": "affb85b2c1e573a87633eb697b7bf7ebef46ab6da42cd8f909325f91a54cbc38",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "96c82b9a47deb028b5c4af173e53484008f7e32e7520e8a4f7a68c78a78a3947",
+      "sha256_visivel_md": "d13ea27da583f28ec1dfd5fc064deb94f047f190c18fed3ccf31342cb0c800dc",
+      "primeira_diferenca": {
+        "posicao": 3179,
+        "fonte": "as disposições dos §§ 1º e 2º, deste Tratado, promulgado pela Lei nº 313/1948). --------------------------------------------------------------------------- CRÉDITO. ANULAÇÃO. PRODUTO NACIONALIZADO. REMESSA. ZONA FRANCA DE MANAUS. Os crédito",
+        "md": "as disposições dos §§ 1º e 2º, deste Tratado, promulgado pela Lei nº 313/1948). CRÉDITO. ANULAÇÃO. PRODUTO NACIONALIZADO. REMESSA. ZONA FRANCA DE MANAUS. Os créditos relativos ao IPI pago no desembaraço aduaneiro dos produtos originários e "
+      }
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-56182.md",
+      "sha256_md": "055ba9db67070ab3534582465b9a8c9d0051738489d6917d102f7951efe158ae",
+      "sha256_fonte": "a106615c698b2e1075283c1df45c3c8c385048cd4e5bb2a71042a778f7809c0b",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "9eacab612fe914cf01f3536ce4af2b9d9d18f35c024d2332956577357e7d1f46",
+      "sha256_visivel_md": "9eacab612fe914cf01f3536ce4af2b9d9d18f35c024d2332956577357e7d1f46"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-42762.md",
+      "sha256_md": "0b6acd9e8d04a0c8cdb3d465557e0733f31f736a48e7afcd3dc633b2756d1137",
+      "sha256_fonte": "9fcdb8ad0d2bb42ba3ac49e4352790e5b74e8e0f581db0910b2941ce2d261b39",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              8,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "e77555ed2b687d5a4795bbdf1c8fa10138aa4e5b582a136d0796fa7f1aa6e739",
+      "sha256_visivel_md": "e77555ed2b687d5a4795bbdf1c8fa10138aa4e5b582a136d0796fa7f1aa6e739"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-47749.md",
+      "sha256_md": "19e96a3a6008e1a5ff26bbe5b312f676d8c639da33f2da4f0cc0a4f8dd4fa47e",
+      "sha256_fonte": "deba16a3c0e41a7fd902e374b12fc4cc2638260e33b64b8619665706bc14b345",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              20,
+              26
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "8467542d94fde24b73813e08c5e8ca904e8b62f713949999d3efde5e375c4ea3",
+      "sha256_visivel_md": "8467542d94fde24b73813e08c5e8ca904e8b62f713949999d3efde5e375c4ea3"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-46961.md",
+      "sha256_md": "7a465e15d307197f0682d6143c546c15987bafdac7aaba82e928df1cd028aa75",
+      "sha256_fonte": "849b73a5725fa2c075d8940fb557ff2efca146313eae5b83a7099c03f268a689",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "f5d2c533b7ac2c26d6cad90fc59802b7c6e7fe03392286244a173d6ece8a39f7",
+      "sha256_visivel_md": "f5d2c533b7ac2c26d6cad90fc59802b7c6e7fe03392286244a173d6ece8a39f7"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-42763.md",
+      "sha256_md": "c1bb69171636d85496a4acfd71988e96b765ff989ece6d41e21507532340af0f",
+      "sha256_fonte": "aefa0755483055321b568f84ef464ac2fd61e8fefd53da44ded745fab269976b",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              8,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "1ac6fc0b3f3ce096bf3a80fd623b1864a44b326e6da067977362b4e5e2a26ce8",
+      "sha256_visivel_md": "1ac6fc0b3f3ce096bf3a80fd623b1864a44b326e6da067977362b4e5e2a26ce8"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-47748.md",
+      "sha256_md": "24daea25c342d466794d034f82fde12635a71facf6f615cf9f15a1f441720434",
+      "sha256_fonte": "272202834f3f22b4af60d94ec44a92535761828071a215a169c66047f2293593",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              20,
+              26
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "01b76ac354ceb87139d50bb74116ce9a57891dc2675d0baf40e231addfffcdbe",
+      "sha256_visivel_md": "01b76ac354ceb87139d50bb74116ce9a57891dc2675d0baf40e231addfffcdbe"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-39648.md",
+      "sha256_md": "3af066b9e7d482225f851955dabedb29a32ab0b78febc792eafb0ae58f198cbd",
+      "sha256_fonte": "495da22898f371323f8e7c45c400f4ad7378b3e76a192543c517de9ff6165baa",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              8,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "b7cdafa28f82f1ea77c1578ded78c17632c3bda9f405e3c6e328f516330d2d13",
+      "sha256_visivel_md": "b7cdafa28f82f1ea77c1578ded78c17632c3bda9f405e3c6e328f516330d2d13"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-44889.md",
+      "sha256_md": "f597e167185aa84496297def536fda01a3ac9327fb8b1eb56bee4148b57fcc33",
+      "sha256_fonte": "dcb45de401a00e5704b92119c6788a11b1729a3c8a266d89af346e502fb49b04",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              8,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "92353768d1b56c86b20f6c6540bc35192d4950c49c526d13ed3d2dfe31725e3a",
+      "sha256_visivel_md": "92353768d1b56c86b20f6c6540bc35192d4950c49c526d13ed3d2dfe31725e3a"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-40310.md",
+      "sha256_md": "c68ae3fcbdc2df3b555c3eb51f5ccdb792db0ef395c2cff604aa37232cf8c6c4",
+      "sha256_fonte": "a9be05f173e17ce0c196c313a4988ad7812f02a400cac21cfbeea82d8f8626c4",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "a7b6ae681553030eebb7ceb7b590c5beb63f54f22a6b5309bde0023bdf389761",
+      "sha256_visivel_md": "a7b6ae681553030eebb7ceb7b590c5beb63f54f22a6b5309bde0023bdf389761"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-56256.md",
+      "sha256_md": "b0fa01664b21ba6ea2a9f4a5ed78b635d9cd180fde15e32f830560996a9e5ee9",
+      "sha256_fonte": "fe85142d9ef55f99edce7ff2b3325d6e3b6d6d826b7ddfa14799d3558c5f2f7c",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "5b58ecac9cb44acdde59f89b055b8810f1411f6769f6d34b8b9162af7b899ad9",
+      "sha256_visivel_md": "5b58ecac9cb44acdde59f89b055b8810f1411f6769f6d34b8b9162af7b899ad9"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-42173.md",
+      "sha256_md": "25e9c63e712c24255e7ea07019dbd4e20508c83c10cdb090a4ff6551e9c3d2d9",
+      "sha256_fonte": "9d70f4ddfb155953f61cc3f313108f09b6758af5303737befd6ef0e502764971",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              8,
+              10
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              12,
+              14
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "572e9a8a5d280e5402bd8e85f2fa4c1b8919d222b9d9763436abee9a33250c2e",
+      "sha256_visivel_md": "572e9a8a5d280e5402bd8e85f2fa4c1b8919d222b9d9763436abee9a33250c2e"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-41857.md",
+      "sha256_md": "16cbc2fb832e527ba8af2046904838a8cf4a6cc30bf4eb4a8e5a336213df481f",
+      "sha256_fonte": "7f7573b78c3f816466829fb8410a42d64991d11f1a2caf11c2d057768eaa910e",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "0186053c2ace9f34a164cb7c1baf26a32710970c431604c653e3eb1237cd6d3a",
+      "sha256_visivel_md": "0186053c2ace9f34a164cb7c1baf26a32710970c431604c653e3eb1237cd6d3a"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-42174.md",
+      "sha256_md": "6b13ff3434c738ec90f6393780d2c9b8b28f2ca18274dc6fe01bbcf3900360c8",
+      "sha256_fonte": "79e263ae45fe459732527224ae261191d23e3e1391fbd9f0c7c4fabdff17d647",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              8,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "8baa5637c27bb471800f30fe6d12bb20fed3a2aeb7fcd81d8ca04f5d106cfca8",
+      "sha256_visivel_md": "8baa5637c27bb471800f30fe6d12bb20fed3a2aeb7fcd81d8ca04f5d106cfca8"
+    }
+  ]
+}

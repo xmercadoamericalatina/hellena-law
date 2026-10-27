@@ -1,0 +1,571 @@
+{
+  "criterio": "Comparação suplementar de CommonMark com HTML, tabelas e strike contra texto literal da fonte, preservando pontuação e sinais. Alertas de listas/estrutura exigem revisão contextual, não provam ausência normativa.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "c1da51935d0e04e90283ca1ddf48c0ebab0f8334793dcabd5b4d23374dfb30fc",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "iguais": 56
+  },
+  "documentos": [
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154188.md",
+      "sha256_md": "67710ebe3871f5deb8a2abcd76e5da9540bf8469ba2d22fcb04e510e9538b4c3",
+      "sha256_fonte": "cfd39fdfd47f6f8633ccdc882791749dc23bb481ec8d6b065ca7ac0e48d6c9ee",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "2ce8b67e57ce5f8bfe931e234f7d35b145385a4aca08149b7fa3de3213c7414e",
+      "sha256_visivel_md": "2ce8b67e57ce5f8bfe931e234f7d35b145385a4aca08149b7fa3de3213c7414e"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154187.md",
+      "sha256_md": "01f611c08e0829ad07be1d76ddc9e39d106af6931e54e43a38600397259ec3ba",
+      "sha256_fonte": "30b6b0f72117a7e4f026ad78065d1bafe6e9142d972470dad0ebe96a2b9af654",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "10a1de50da767e92442004be49c5bfaa0926cbadfc5bd67034797a3f8674c7fe",
+      "sha256_visivel_md": "10a1de50da767e92442004be49c5bfaa0926cbadfc5bd67034797a3f8674c7fe"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154186.md",
+      "sha256_md": "3379ce1e8f88db14d805bc4795c6734d79664db7b507a34538a15e319ffb1a19",
+      "sha256_fonte": "9bca0813bf4e0180343a79b8597003dee39fb8b0784e4151dcb6161936bde9a7",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "1859b1a9e4c415ea4b5f1de890465f4d2be7c7990a946c93073a134162b7529f",
+      "sha256_visivel_md": "1859b1a9e4c415ea4b5f1de890465f4d2be7c7990a946c93073a134162b7529f"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154182.md",
+      "sha256_md": "321c53344941d4cf92d5822afdc6e269d69b740f101f97c6a1e00c05e27de08a",
+      "sha256_fonte": "99127215aa8cc6d6027823cf713e995fd2f76fe767b4aa1def91b7546c948c8c",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "471a27bc4c5f6065519f80169418b356aa94d497fbe3f82335405c5a69e9bd36",
+      "sha256_visivel_md": "471a27bc4c5f6065519f80169418b356aa94d497fbe3f82335405c5a69e9bd36"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154181.md",
+      "sha256_md": "71e292f09fac44c9f6e0dfa248b9793f6573608391695269ffd8bafcc66c4fab",
+      "sha256_fonte": "ea7ac443fb49775509657982c20f5a599155244a6b380fd122ca8ca05f2aaa79",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "87dfe172c4f09fa4e3e45ab13ea89d01e3b9b09c62d28324f63772a2d6ac3dac",
+      "sha256_visivel_md": "87dfe172c4f09fa4e3e45ab13ea89d01e3b9b09c62d28324f63772a2d6ac3dac"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154180.md",
+      "sha256_md": "db863ae240bf5cca2656c2f370e2204932a079f0d102e540d83603ec4b3bdba6",
+      "sha256_fonte": "ac955c75e00b67572764b83dec50fe86505fe35fedc9c6a21504d0a758338db4",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "80af05cb6c6d6484b8d8dd1c306dc80f94b65e69c260371da39167cc755453ea",
+      "sha256_visivel_md": "80af05cb6c6d6484b8d8dd1c306dc80f94b65e69c260371da39167cc755453ea"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154179.md",
+      "sha256_md": "6e38363f756e2032b3e46625bb7b47d0a7d23d31312fa3b7cef2a83d551657b5",
+      "sha256_fonte": "9b8182b3ee36aafc2b2a1b8ece40e47bf68dd4a47f59c438da21ace349debb0d",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "a209a1693ee6c677899855a06f91e71c947db36ef07ee2cbfee28d7b12d3a0af",
+      "sha256_visivel_md": "a209a1693ee6c677899855a06f91e71c947db36ef07ee2cbfee28d7b12d3a0af"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154177.md",
+      "sha256_md": "075c03528df76596d36cdc5c419387b70b1b9420779c2b054bf011b8e04ae7bf",
+      "sha256_fonte": "150b4d513dfc77f64558cabecd3fbe7b1d40e4c66a0be3ef27e3440b3f0bdfb5",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "70b0faffad4c7e3e2f7156924f4d5b383c1ffac3b74c64030d7305728f961396",
+      "sha256_visivel_md": "70b0faffad4c7e3e2f7156924f4d5b383c1ffac3b74c64030d7305728f961396"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154176.md",
+      "sha256_md": "10bd4f7afb6cee0585e5cbb2e2b98133c52b12685a255c3ca2683a366f888e8f",
+      "sha256_fonte": "7a745c3dd0676984ade9a3cfc790b2b58622957fc47785b808a5acaddf4557e3",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "6ff24bdf59f462d1c7a8f9f47f5956213530a81dd751b56f1f1ebd1192642e09",
+      "sha256_visivel_md": "6ff24bdf59f462d1c7a8f9f47f5956213530a81dd751b56f1f1ebd1192642e09"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154174.md",
+      "sha256_md": "31ce49d53887903181493db762e5e7f32f4378a2f819b04a93ad0ace5a625391",
+      "sha256_fonte": "f49f1f2b6c25df4c269064b488dd258f416c8ac68c1040ccdde8bf7fe8f2d238",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "314372d78516cf7891bbcc01f6325e47bf2ca8b7b473f82d67d898e4fe387f9d",
+      "sha256_visivel_md": "314372d78516cf7891bbcc01f6325e47bf2ca8b7b473f82d67d898e4fe387f9d"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154173.md",
+      "sha256_md": "1facfc5b04a010f4496948c973c0292678ec772d2f03112642ae446d43026e59",
+      "sha256_fonte": "7ea8eab9203e8efea49b49e1f402185a9645e9f704bf8334091626d0cdc676ae",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "b0bb92c5794ebc9b01a137cce19daf7fa81488027a9376e5500347de678aa947",
+      "sha256_visivel_md": "b0bb92c5794ebc9b01a137cce19daf7fa81488027a9376e5500347de678aa947"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154169.md",
+      "sha256_md": "7ba0491b9356b53c3ed287e01bb956669f865690ea20f634229a0a87ec59333b",
+      "sha256_fonte": "43daf59d266835c08f39ffbfe7e8707e18399d9f33d6c388e1b9e5588135ea73",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "b22800a971e23099294803a2efd267f8ea4a1c49753b7213ca0056217eb0e2d6",
+      "sha256_visivel_md": "b22800a971e23099294803a2efd267f8ea4a1c49753b7213ca0056217eb0e2d6"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154168.md",
+      "sha256_md": "874b4f5e69fac3b0a9d225a901557c7d30a9d963096e8aa4b2a6365d7c4dfb84",
+      "sha256_fonte": "6720f9d9e005bd764f5567f2bc0dfca726da0eb4dcd1eb3deb02dceda418e1d2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "8c496bf66ada832866e44a1cbfda3397f46040896aec524593885766d01a3af9",
+      "sha256_visivel_md": "8c496bf66ada832866e44a1cbfda3397f46040896aec524593885766d01a3af9"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154167.md",
+      "sha256_md": "121228ae5af0e43932d45719ddb389fd907fecf42183c22fbf0eaaa22790262f",
+      "sha256_fonte": "02207421326f0d8a30cf3e0d762fe7983647a0d286bbd9856e644c62962bf72d",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "ae2e014713896f3d593952d55d16386449925715959edf0132c90bf84a8a70b2",
+      "sha256_visivel_md": "ae2e014713896f3d593952d55d16386449925715959edf0132c90bf84a8a70b2"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154166.md",
+      "sha256_md": "93048cc237a7ce921cac4ed43cf6f4131f8afa1bceebf1bbce1337868807c400",
+      "sha256_fonte": "bfda097de76383c4bd1d54ad0e3df4d557e8033c5a2637d0e3b8bc47702c9c41",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "f73544e01b5f9d64a477d585c45e2d289b5e1880dab9155097baefc03dfc91e4",
+      "sha256_visivel_md": "f73544e01b5f9d64a477d585c45e2d289b5e1880dab9155097baefc03dfc91e4"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154165.md",
+      "sha256_md": "a4f656a9fcf38edb4dbd7bc35fcee3f4a54d1de86d6dc65a69c29a2175136438",
+      "sha256_fonte": "9b2f901cd6bc9c4807cf12e5cde59375efcf05b560a72ec8f1712d984c31089a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "1ed4dbdaf5aa575e176a261991302bce2d4106a36a89f8eb7c3e5fff58af3840",
+      "sha256_visivel_md": "1ed4dbdaf5aa575e176a261991302bce2d4106a36a89f8eb7c3e5fff58af3840"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154164.md",
+      "sha256_md": "8f0effce90b6ab1593e623fca184ba198218197e2c9b69096d29eea52046bb96",
+      "sha256_fonte": "80d0496025c1158404d5c72248888e6546907f2624b2cd247cef57ec722c9231",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "bfd8f26fa9427cadfa20a3d85b9d6b711d068fddd028ea0b18540683089cd145",
+      "sha256_visivel_md": "bfd8f26fa9427cadfa20a3d85b9d6b711d068fddd028ea0b18540683089cd145"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154163.md",
+      "sha256_md": "6628cdb3d3e545af8c26e7dc784713bf9c58f4c561d938e8376703204d3ae8fa",
+      "sha256_fonte": "ca8f81628b1572717fa56718e4318892b2a94ed9243fd1b4108cb6dbaf647746",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "1fe002c1c3e53cf7963a189708e3331f8850ac0e79a3a33a2b5ac15373ef1de9",
+      "sha256_visivel_md": "1fe002c1c3e53cf7963a189708e3331f8850ac0e79a3a33a2b5ac15373ef1de9"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154161.md",
+      "sha256_md": "d23611615bcad6910c24eb3cb975d9be7a9a35fbff6965d50b61574a95267d55",
+      "sha256_fonte": "5b1d786a3655a4f9d79fcce32df6ddc7b41fc9a65617c61c0fba7ad297a396ef",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "f3908eea3f034c525ea235c90c492e6571663984266e9875eb742249f7de3915",
+      "sha256_visivel_md": "f3908eea3f034c525ea235c90c492e6571663984266e9875eb742249f7de3915"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154160.md",
+      "sha256_md": "7e9b764694b029dd9880c56a1a8539909848ee490354d7516ca4eed4e909d6f3",
+      "sha256_fonte": "0e1c7e1dd5c219139395639f97e3e207fa98d4a0bbf7009cf68e1ee151ab68db",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "2b22e052675fdce7f788dd964b4a02a9ef3aac699e2ca916cdb486e138d19500",
+      "sha256_visivel_md": "2b22e052675fdce7f788dd964b4a02a9ef3aac699e2ca916cdb486e138d19500"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154159.md",
+      "sha256_md": "770341f76e614c761499b3f5069a84ae7f5cf3c4cd60ba2cf54f84370f2f6cc7",
+      "sha256_fonte": "cbcd87f951f7129e8bb86f0b794a647085f38ff8f0ab060e4bbf1fe0d1dcede4",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "dc6faf085fb069b4a2b803e66aeb2d0a1c27eacbf1ef416f40e0cc788183d490",
+      "sha256_visivel_md": "dc6faf085fb069b4a2b803e66aeb2d0a1c27eacbf1ef416f40e0cc788183d490"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154158.md",
+      "sha256_md": "603961c39f84f336dcdcfbc52f34860d654ffc77b3409553c304d309561055be",
+      "sha256_fonte": "c4ab005956e3dbd1ca2ecede44744ac6a34214abf8796df517e093bb49847555",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "a9ed4a77b07abf0b646fc8e4e6c8c6771be2ccd76f66056a572285179914f578",
+      "sha256_visivel_md": "a9ed4a77b07abf0b646fc8e4e6c8c6771be2ccd76f66056a572285179914f578"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154157.md",
+      "sha256_md": "26db43cec52252148f8bb49e368fb76291ae9947a5822f5f6534e20b10a113c9",
+      "sha256_fonte": "5b6e181c7254e8e5988928568e6c3dfd21097747477dbfd5dc2fac00d70b8376",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "512f851ef10c29706f65812bb117429785bf9ff7373b3c1570136f787c7fa101",
+      "sha256_visivel_md": "512f851ef10c29706f65812bb117429785bf9ff7373b3c1570136f787c7fa101"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154156.md",
+      "sha256_md": "f8f3c207118bd6293e0759a8d63e600563fae13ef58247b3862eed316adfe4f9",
+      "sha256_fonte": "83f3c9f70ca6adf8cd370d031c115339d4bf39e427a5247620795ec53b3491d1",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "2278f3e5f38bc7ec4365652b093322397ffb5fbc80c18113a5f2bcb85b618d32",
+      "sha256_visivel_md": "2278f3e5f38bc7ec4365652b093322397ffb5fbc80c18113a5f2bcb85b618d32"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154155.md",
+      "sha256_md": "095440c47856770088bd803dae411f479f970597cf40f4a1b07d6778d45f68ff",
+      "sha256_fonte": "d9aff0f9e6c7c2f213872f42f9dc42e29f7277c191c29722ab1b17cec3b526f1",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "de67ed304ebd7ddd532c672a90723976cbb621a3f8e710c6af70b85cde4058ca",
+      "sha256_visivel_md": "de67ed304ebd7ddd532c672a90723976cbb621a3f8e710c6af70b85cde4058ca"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154154.md",
+      "sha256_md": "514a5e87869899fd5a2abf23c56d3af3135a1f27ad00de1c65f5cdcf00e4d491",
+      "sha256_fonte": "44c15954fae76d9dcfa69815eff8f09e560d855c0fa4f8736f91e6e811b13f51",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "e835a6b71413def67cfbe8d0abf77ce208a0207482a867b7e2998ca46bcef5fb",
+      "sha256_visivel_md": "e835a6b71413def67cfbe8d0abf77ce208a0207482a867b7e2998ca46bcef5fb"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154153.md",
+      "sha256_md": "08e1ece3f199ae1e88607fe8ef14175431d2d4fde2de81942b89e4c5f112faf7",
+      "sha256_fonte": "c9b0221ac8f5b2869dac04ddecb987961e1eaa04fdba6ddaf53b5fd40fb20cbd",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "0d82d99e3c9d35f0971c7b18f3df9ecaa2bba5677095f60268e2c1507f08801e",
+      "sha256_visivel_md": "0d82d99e3c9d35f0971c7b18f3df9ecaa2bba5677095f60268e2c1507f08801e"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154152.md",
+      "sha256_md": "60858407ca80bb1aee82aee3c6f37a47e81107abe4d6315cc83bc7c32d951099",
+      "sha256_fonte": "aa77b323658fbb4c107b8528ff1d42f18544074e87e73ea6153eac959deba663",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "4d2a3f85314390d5b0f8ac95646c74901e1efa0e9a3daa02d99fe6421470276d",
+      "sha256_visivel_md": "4d2a3f85314390d5b0f8ac95646c74901e1efa0e9a3daa02d99fe6421470276d"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154151.md",
+      "sha256_md": "33b0022fb0b9d5ec7f41c00514b90fe20cf9d19749ea05b27a050b91b04a8855",
+      "sha256_fonte": "6b83e2566c2080ff3612b773f05e7e4e901c8ddcde18637eb784d3a9ba2a866c",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "fde473417e6b0433ecd3a32659513e979c8e45cc82f074424a212189524bb16b",
+      "sha256_visivel_md": "fde473417e6b0433ecd3a32659513e979c8e45cc82f074424a212189524bb16b"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154149.md",
+      "sha256_md": "4c22f75dea8181ea065268cd0c609503d9225394b7db5d7fd48e437f400c4e78",
+      "sha256_fonte": "5476e76b83b7adf592fb7993a79ec4a2a55ef6fc864ca078772d918be919a1b4",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "53f024430fe7f4bc5a787fecb968d73a47fb6f7d6da094265fc15b4294d9e1ff",
+      "sha256_visivel_md": "53f024430fe7f4bc5a787fecb968d73a47fb6f7d6da094265fc15b4294d9e1ff"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154148.md",
+      "sha256_md": "071bd3b4f11a19f306d13850a9b88285f6e8cdb8c99064c9f0ebb58228c609d4",
+      "sha256_fonte": "dcdf848a9ff720224b02111826eac5ab6e1a495c4335ae428040e4ad1da68eec",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "3c45e30c85074fb28db637439b8c1108f1e0ce51e6e4bd9d61bf0c507642fe47",
+      "sha256_visivel_md": "3c45e30c85074fb28db637439b8c1108f1e0ce51e6e4bd9d61bf0c507642fe47"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154147.md",
+      "sha256_md": "a26a9e50deaffbb27e8e501cd93c0b6bcd6b911956245484356ef0977f0aee84",
+      "sha256_fonte": "60758c68a7239602f84407aab503aca918d72ca518806b3733a12e61350d24e7",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "4688709f73cb6db54c960884d8100a4ef7ff04602e0aa313f575aa840422abf6",
+      "sha256_visivel_md": "4688709f73cb6db54c960884d8100a4ef7ff04602e0aa313f575aa840422abf6"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154146.md",
+      "sha256_md": "3a180c62eb0152adbd6a6aafb689ed7de622514e9927a051ba56b84ffbac1f13",
+      "sha256_fonte": "d926756deca7819946710205f983a1fc2f2fa112c4c49cb1a8d6829fbc64c5ec",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "ba7288d5e27879c07e0d40a1d324f4fe0f1fcae5e885ebc984450e937ff1bd9d",
+      "sha256_visivel_md": "ba7288d5e27879c07e0d40a1d324f4fe0f1fcae5e885ebc984450e937ff1bd9d"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154144.md",
+      "sha256_md": "36d028dcc1d241183e4005b87a4089da55642b1ebfe377ceeede7b2e4c988224",
+      "sha256_fonte": "c4d8486eea31e54b5332cf23286f5ea6f9483047233ef96aa4b1749ab7562e49",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "a83186b778a9a83ef8a03fdfb8bd2c11ebb79d895813411269250a8d3e1aa1d8",
+      "sha256_visivel_md": "a83186b778a9a83ef8a03fdfb8bd2c11ebb79d895813411269250a8d3e1aa1d8"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154143.md",
+      "sha256_md": "be249231e1796d369bcd34eb2b9cf52512591ee9945645c3ef452a5ecdaf3ac4",
+      "sha256_fonte": "6f155615893e7d79d2d2b9dc3d1020d0893c867c1e6c7e28a9e5c74f8e4bb5a4",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "1060bd3b9e2529da90bd100252757d89c36b81167df7ab9b832b73931180b257",
+      "sha256_visivel_md": "1060bd3b9e2529da90bd100252757d89c36b81167df7ab9b832b73931180b257"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154141.md",
+      "sha256_md": "fe95f71a3a5e3d6fb14fcc45ca0b1f6ae8d5644921c687c812d49a03ba88b23d",
+      "sha256_fonte": "a42105461e7fb80f930d92513915c3acb10d13984af06078005d07af59df5065",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "44b7abe0c957dd5b395504aea1c13d5074c5133c57c7a8070897e9651b273a2e",
+      "sha256_visivel_md": "44b7abe0c957dd5b395504aea1c13d5074c5133c57c7a8070897e9651b273a2e"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154139.md",
+      "sha256_md": "e85ef112442978f33a27be270401c1a998bcd7dc0823a58b4008140270d03fe7",
+      "sha256_fonte": "eb63d62599fe78a362f3ed4dff7bcab3c6dc4508db4ba005505521836c7ce1df",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "f539957e5ed6e9df58be6b53e97821af4c4d1063b2ad93c5bfedfe4c12ddc82e",
+      "sha256_visivel_md": "f539957e5ed6e9df58be6b53e97821af4c4d1063b2ad93c5bfedfe4c12ddc82e"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154138.md",
+      "sha256_md": "80e1f624182bb82e3cccb2486276c2a7492d48fcfe1a71e954bd2f8086168d83",
+      "sha256_fonte": "a8bba61a80b4e32b807c50512a0028795816eda7e09bf752d67e4273b893fbd3",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "be029705cae16153db9eb180f1c25eafa0207bf266f54f374c046dc7d35c0b42",
+      "sha256_visivel_md": "be029705cae16153db9eb180f1c25eafa0207bf266f54f374c046dc7d35c0b42"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154137.md",
+      "sha256_md": "332a5b7f662c602bbd8c60f35734b377a8c0a1384259287c2a69cad8519747a0",
+      "sha256_fonte": "befc290d3067b9b96d077549e6e6fcca8278aac13a1d85bfcc4bf288f77889b8",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "c685ab2c0c0ff15af0c91dc55df8d5c8c9a6489d5e019e93a7b02b1fe8fc17f4",
+      "sha256_visivel_md": "c685ab2c0c0ff15af0c91dc55df8d5c8c9a6489d5e019e93a7b02b1fe8fc17f4"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154136.md",
+      "sha256_md": "390384abfb54f73e5c8d28958887d58a6fb367f6a88d3322bd577704b00723e3",
+      "sha256_fonte": "bfb073c5b26818cf2644a82c2a74e874990d2fd6e29f46a8cfabe11746c346bb",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "d348c5ab6e36e95d3c6fd88e27343758b1cf9591e6e348db587688f4cd5ec443",
+      "sha256_visivel_md": "d348c5ab6e36e95d3c6fd88e27343758b1cf9591e6e348db587688f4cd5ec443"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154135.md",
+      "sha256_md": "188f7c8cd2774ce7b7f0ebd69e4b88c4d9cee8903089541c398626c3251b4302",
+      "sha256_fonte": "9945bd1072eb63216810d06ba3334c071bc05c713036c0ae9fa3d9e0f8bb8097",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "b5354d4bef5b8f3c545dd3cb608a35f9858164f128f497059fa6399f5d766cfc",
+      "sha256_visivel_md": "b5354d4bef5b8f3c545dd3cb608a35f9858164f128f497059fa6399f5d766cfc"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154132.md",
+      "sha256_md": "5447032e75d42f4cca3a81b3fe55816ae04dedf1e659776106fc2557e0c45428",
+      "sha256_fonte": "863424486b47d078277d4f0aad81221b0a1a36654c0f9276c043e4e40bb7da9f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "4ecc1c6c9179576cb87f23a644fee23b4a9b4d1aa46a271d8c0a1a247211683c",
+      "sha256_visivel_md": "4ecc1c6c9179576cb87f23a644fee23b4a9b4d1aa46a271d8c0a1a247211683c"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154131.md",
+      "sha256_md": "5315d8e8b0171b12d3844ca8fe9dcd1d0aa4add348f134d5c2a0091331723a56",
+      "sha256_fonte": "0ed453aa8b188a0b3690795692481cf3d2aa8b7a8cc99bb8074a67a37b9e6722",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "02ddafc919f4bd8372a0b766b2b62760c48850c28312a31101434b7cc0d85e0b",
+      "sha256_visivel_md": "02ddafc919f4bd8372a0b766b2b62760c48850c28312a31101434b7cc0d85e0b"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154130.md",
+      "sha256_md": "8dc817062db42036e87d5bb6aa67a1d4e98326e8190673f88b0443722d3d0965",
+      "sha256_fonte": "236602cc85059fe3a763add66584af4703569f01e23f92bd83606587ebe59891",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "9fa8edab8ff766fdb9876dc43c22f875169a3cdc7d0165360137c4eeb30e8144",
+      "sha256_visivel_md": "9fa8edab8ff766fdb9876dc43c22f875169a3cdc7d0165360137c4eeb30e8144"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154129.md",
+      "sha256_md": "a5ce0c9904b051ab0fe3c9ba02996cc483920f2b5f3ea84974df649edaf531d1",
+      "sha256_fonte": "aa83db397994575f02a34e65d9aadca76211702505f661c5f0e5b4d5cb11953f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "3d7e72d8684a9ce400eb85b14b86349a48e64e09f9065ca187a3f46293958358",
+      "sha256_visivel_md": "3d7e72d8684a9ce400eb85b14b86349a48e64e09f9065ca187a3f46293958358"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154128.md",
+      "sha256_md": "49e8c65834d1cf0261f353fc7c54eecc96a0854c968453d824c26352a59cce9b",
+      "sha256_fonte": "2b737d913434303caaec78dfd6e2a7bee5b9b27bf28898b182bc24c1e3efa299",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "b32a082d2286f7641c4df7ee4b3843ab2267e2bfc154c92716ffd55c7cc944d9",
+      "sha256_visivel_md": "b32a082d2286f7641c4df7ee4b3843ab2267e2bfc154c92716ffd55c7cc944d9"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154126.md",
+      "sha256_md": "b85f796bea9638a4bfaf07b7281b916164181d29702c71cb4bc921b0b4b0c741",
+      "sha256_fonte": "dd82f94d6cee3d1ac01c83f39e6b149ec41b450b9e411f91357e15d7c3072fc5",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "bbd472dbc6ab78312342015935d682be860c0321608415714e9944707fe43a78",
+      "sha256_visivel_md": "bbd472dbc6ab78312342015935d682be860c0321608415714e9944707fe43a78"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154123.md",
+      "sha256_md": "8ef74949eb1d41afeab744e75c794cd6fd5c5f624b146de855f7c2826ff0fe88",
+      "sha256_fonte": "3149e34c307fe125207683d19ffceda7e4cc0d0bc5478ce8dcd6eb586f628199",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "76c3b4bbc34332d7ed4a83d24a83315feee2bb00091ecd217946184c76c0f50b",
+      "sha256_visivel_md": "76c3b4bbc34332d7ed4a83d24a83315feee2bb00091ecd217946184c76c0f50b"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154121.md",
+      "sha256_md": "2bdc2c98a084633314fbf9afa18f2c98b87a77fa9b1cc9f6a3e37309fb7a7171",
+      "sha256_fonte": "9229ced99fad000d7b8ae9b761209881cee64a438885566a9b2f06fd8efa4110",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "6e2fb488b23fc69a55a63f5abf45bb14fd0e09b1c737b14aa8227a1f669f94c6",
+      "sha256_visivel_md": "6e2fb488b23fc69a55a63f5abf45bb14fd0e09b1c737b14aa8227a1f669f94c6"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154120.md",
+      "sha256_md": "83f2f5d16112d7326e7761851a36671d7c846f6a246f8282a68eaf9e0314b685",
+      "sha256_fonte": "53a03017dd4f4b44b28953d7ef900dd19e721245e4fac9946b7e7f877030e6a3",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "b4d5891dca78844cdcaa4f88808a9ccc61722976c3ee804f5311211c734bf727",
+      "sha256_visivel_md": "b4d5891dca78844cdcaa4f88808a9ccc61722976c3ee804f5311211c734bf727"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154119.md",
+      "sha256_md": "1298e4d286115786cc902003028d94b915480182cf5a0170cfccc3be482cb383",
+      "sha256_fonte": "2343ca24e864506b263b4a703139212f71c444f8f0e3dea8226de8b2f07b3741",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "024b36c03f21282866baa4c7b828118cba3d5ca5ddb07bc5ff7de127894439af",
+      "sha256_visivel_md": "024b36c03f21282866baa4c7b828118cba3d5ca5ddb07bc5ff7de127894439af"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154118.md",
+      "sha256_md": "0bc8e76e5c77d47540451b933f873600839595dc5093c7e4ed282589226e9528",
+      "sha256_fonte": "840713f97db217d5876eb343ba90ca8a684c319b36b38ff09240b20518ce4766",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "2fe4c8642060d03e7c15f5c3bb9f4209d9b708bc27c3205673ebe650b56b541d",
+      "sha256_visivel_md": "2fe4c8642060d03e7c15f5c3bb9f4209d9b708bc27c3205673ebe650b56b541d"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154117.md",
+      "sha256_md": "0a621c1302f3ccb130fad7448aaa980f67cd7328785a6c8e46835d92f6e9515e",
+      "sha256_fonte": "c9350bca4d3fceb6e62e32dbf84c2c697f382e9f01edba09141c9ee6d094e289",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "de35e0fc68dd95389de5ded801563bad44e561791cd5bedcfed838ac197df511",
+      "sha256_visivel_md": "de35e0fc68dd95389de5ded801563bad44e561791cd5bedcfed838ac197df511"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154116.md",
+      "sha256_md": "4a5519f9899f7e3a3e5c0bbd57561792d602ddeff4f7bcd2cf8ecd96ac0d352d",
+      "sha256_fonte": "c65eec9fa35391a424adeac15beebb294c9033f69df0202f0e7b6a825b6cfc83",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "aa6455e02523e760e2eb352f885d26a28cbbacb246fd8f8ab344263c61fef358",
+      "sha256_visivel_md": "aa6455e02523e760e2eb352f885d26a28cbbacb246fd8f8ab344263c61fef358"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154115.md",
+      "sha256_md": "d8f8d932f79c0fefbf4f39b9270355f10c0bf3165785a3800b881d94b42b8fee",
+      "sha256_fonte": "a8cb421143b60f960a74ae76e5c0682f4716170acfbd72356cffee45ccd37a0f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "f2ae2417de3ab13b68189e0d434c0fe50c86a2749893fcff570ae07d66c3a5c1",
+      "sha256_visivel_md": "f2ae2417de3ab13b68189e0d434c0fe50c86a2749893fcff570ae07d66c3a5c1"
+    },
+    {
+      "path": "reguladores/rfb/2026/rfb-sijut-154114.md",
+      "sha256_md": "92f6239d181773a5a85f2679fe5ad8586f4568d2d66166a98e149a2fa6873e5b",
+      "sha256_fonte": "a049a33123e34cb111b673d29b07ffe3865527e827524c771288ca46beb0d487",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "deca51070ea4062b86492a650eb57dec46822a5b8bbf9546f80ce6bf292e71f7",
+      "sha256_visivel_md": "deca51070ea4062b86492a650eb57dec46822a5b8bbf9546f80ce6bf292e71f7"
+    }
+  ]
+}

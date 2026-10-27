@@ -1,0 +1,57 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "74c9586f924c7da5758fdc60e4cbec65dd89dd61eb9c7e78564c5904d47d33a9",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "iguais": 1,
+    "revisar": 1
+  },
+  "documentos": [
+    {
+      "path": "reguladores/bcb/resolucoes/2025/resolucao-cmn-n-5.247-de-19-de-setembro-de-2025-657189655.md",
+      "sha256_md": "e0e3af4b5c9adffd75d4da4b2dd1ca5c0c425684836f56176500b439956555a7",
+      "sha256_fonte": "506af7c88ceae02ee72ae4b99c5c1cc072599c4849b539112370d3693ca6d713",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              26,
+              32
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "4435c98148005dc12aa83e89c59a64d5fabd04ff5dd3d1e067c69731dad68aca",
+      "sha256_visivel_md": "4435c98148005dc12aa83e89c59a64d5fabd04ff5dd3d1e067c69731dad68aca"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/2025/resolucao-cmn-n-5.267-de-28-de-novembro-de-2025-672002610.md",
+      "sha256_md": "60e92ae008d39bdfac8e96903105fad60950c4868d23f886cabe1c53d56b74fa",
+      "sha256_fonte": "b5383bfa36f82f9a7cd051b1c5c83e08f54d614e0a51005b27cbe9d8fb382b93",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3bf32e0950f73db57a571d88180ccdd500471db24757fdf0f40d44e863471209",
+      "sha256_visivel_md": "8c7e6806ee743e4f2f7c002566c5c17ad16a7f85ab2994acb8d5fcd4496dbc7a",
+      "primeira_diferenca": {
+        "posicao": 1044,
+        "fonte": "RAL CAPÍTULO: Condições Básicas - 2 SEÇÃO: Monitoramento e Fiscalização - 7 (*) ----------------------------------------------------------------------- 1 - A instituição financeira é responsável pelo monitoramento e pela fiscalização das op",
+        "md": "RAL CAPÍTULO: Condições Básicas - 2 SEÇÃO: Monitoramento e Fiscalização - 7 (*) 1 - A instituição financeira é responsável pelo monitoramento e pela fiscalização das operações de crédito rural, cabendo-lhe definir os procedimentos aplicados"
+      }
+    }
+  ]
+}

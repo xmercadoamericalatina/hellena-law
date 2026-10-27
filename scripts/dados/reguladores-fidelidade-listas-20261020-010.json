@@ -1,0 +1,1127 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "74c9586f924c7da5758fdc60e4cbec65dd89dd61eb9c7e78564c5904d47d33a9",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "iguais": 24,
+    "revisar": 6
+  },
+  "documentos": [
+    {
+      "path": "reguladores/mec/instrucoes-normativas/2022/instrucao-normativa-n-6-rei-ifto-de-17-de-maio-de-2022-409389102.md",
+      "sha256_md": "bf53fe2054e9cbfe1ba7c4cbf71c1a535111dd73879815f489c974518eb6d187",
+      "sha256_fonte": "3e01f5eb0459c4d125dd276bbd34cc13ab5de9c7c67c900ee5dc9ac9633f436d",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DO OBJETIVO",
+          "fonte": "CAPÍTULO I DO OBJETIVO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO II DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DOS PRINCÍPIOS",
+          "fonte": "CAPÍTULO III DOS PRINCÍPIOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DO ENCARREGADO DE DADOS DO IFTO",
+          "fonte": "CAPÍTULO IV DO ENCARREGADO DE DADOS DO IFTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DO TRATAMENTO DE DADOS PESSOAIS PARA OBRIGAÇÕES LEGAIS, POLÍTICAS PÚBLICAS OU PROCESSOS DE CONTRATAÇÃO",
+          "fonte": "CAPÍTULO V DO TRATAMENTO DE DADOS PESSOAIS PARA OBRIGAÇÕES LEGAIS, POLÍTICAS PÚBLICAS OU PROCESSOS DE CONTRATAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DO TRATAMENTO DE DADOS PESSOAIS PARA OS PROCESSOS SELETIVOS, CONCURSOS PÚBLICOS E VESTIBULARES DO IFTO",
+          "fonte": "CAPÍTULO VI DO TRATAMENTO DE DADOS PESSOAIS PARA OS PROCESSOS SELETIVOS, CONCURSOS PÚBLICOS E VESTIBULARES DO IFTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — DO TRATAMENTO DE DADOS PESSOAIS PELOS SETORES DE CONTROLE: OUVIDORIA, CORREGEDORIA, AUDITORIA INTERNA E PROCURADORIA FEDERAL JUNTO AO IFTO",
+          "fonte": "CAPÍTULO VII DO TRATAMENTO DE DADOS PESSOAIS PELOS SETORES DE CONTROLE: OUVIDORIA, CORREGEDORIA, AUDITORIA INTERNA E PROCURADORIA FEDERAL JUNTO AO IFTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VIII — DO TRATAMENTO DE DADOS PESSOAIS PARA OS PROJETOS DE ENSINO, PESQUISA E EXTENSÃO DO IFTO",
+          "fonte": "CAPÍTULO VIII DO TRATAMENTO DE DADOS PESSOAIS PARA OS PROJETOS DE ENSINO, PESQUISA E EXTENSÃO DO IFTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IX — DO TRATAMENTO DE DADOS PESSOAIS NO INGRESSO DE ESTUDANTES ATRAVÉS DE MATRÍCULAS E BOLSAS E DO TRATAMENTO DE DADOS DE MENORES",
+          "fonte": "CAPÍTULO IX DO TRATAMENTO DE DADOS PESSOAIS NO INGRESSO DE ESTUDANTES ATRAVÉS DE MATRÍCULAS E BOLSAS E DO TRATAMENTO DE DADOS DE MENORES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO X — DA COMISSÃO PERMANENTE DE GERENCIAMENTO DE DADOS INSTITUCIONAIS DO IFTO",
+          "fonte": "CAPÍTULO X DA COMISSÃO PERMANENTE DE GERENCIAMENTO DE DADOS INSTITUCIONAIS DO IFTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO XI — DO PERCURSO PARA O TRATAMENTO DE DADOS PESSOAIS NO ÂMBITO DO IFTO",
+          "fonte": "CAPÍTULO XI DO PERCURSO PARA O TRATAMENTO DE DADOS PESSOAIS NO ÂMBITO DO IFTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO XII — DA RESPONSABILIZAÇÃO E DO FLUXO QUANDO DO DESCUMPRIMENTO",
+          "fonte": "CAPÍTULO XII DA RESPONSABILIZAÇÃO E DO FLUXO QUANDO DO DESCUMPRIMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO XIII — DA SEGURANÇA DOS DADOS DURANTE O TRATAMENTO",
+          "fonte": "CAPÍTULO XIII DA SEGURANÇA DOS DADOS DURANTE O TRATAMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO XIV — DAS DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO XIV DAS DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO I — MODELO GERAL DE TERMO DE CONSENTIMENTO PARA TRATAMENTO DE DADOS PESSOAIS",
+          "fonte": "ANEXO I MODELO GERAL DE TERMO DE CONSENTIMENTO PARA TRATAMENTO DE DADOS PESSOAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — MODELO GERAL DE TERMO DE CONSENTIMENTO PARA TRATAMENTO DE DADOS PESSOAIS",
+          "fonte": "ANEXO II MODELO GERAL DE TERMO DE CONSENTIMENTO PARA TRATAMENTO DE DADOS PESSOAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO III — MODELO GERAL DE TERMO DE CONSENTIMENTO PARA TRATAMENTO DE DADOS PESSOAIS DE MENORES",
+          "fonte": "ANEXO III MODELO GERAL DE TERMO DE CONSENTIMENTO PARA TRATAMENTO DE DADOS PESSOAIS DE MENORES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              380,
+              382
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "21b83d9dd38582656f62f30529137d9f0d49a577f8bbd2dc602ff1f6e73c967c",
+      "sha256_visivel_md": "646f7d8ddf46632843739c88dee0395c93696a6b546fc0d03761b63df88c59f3"
+    },
+    {
+      "path": "reguladores/ministerio-da-economia/circulares/2022/circular-n-37-de-19-de-agosto-de-2022-423558904.md",
+      "sha256_md": "6d49401c900b6e9de3ac7363782edac755b1dc0074127e54f1b4d15c472e47c8",
+      "sha256_fonte": "d2301bba04add44357370d3587ed66d6e386f4c7056ee9efad54be1f865d6747",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — DA MOTIVAÇÃO",
+          "fonte": "ANEXO I DA MOTIVAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — 1. RELATÓRIO",
+          "fonte": "ANEXO II 1. RELATÓRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              386,
+              390
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              392,
+              398
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "59a460e2d0c6ffcb6556cb63ef0b682238ff93b241e2e32a49641d6c4345ac16",
+      "sha256_visivel_md": "a7e39d9533c547f50990782cb9bebb7c6e570684c7921d4b44722df0ca6f467e"
+    },
+    {
+      "path": "reguladores/ministerio-da-economia/portarias/2022/portaria-secex-n-175-de-24-de-marco-de-2022-388661053.md",
+      "sha256_md": "532d133922f5775dad06ae0b3d553bcdc7901ca1c5e4d343983b36b65828bc29",
+      "sha256_fonte": "6b94a4cac9244a125753ce3166ba5a4971c7a9d3303d64b18e2fc1bd016ec315",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              12,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              24,
+              26
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "6f3a4e1aa714c3e9b8e37c76e5462ad6bcd1d0f5d7d552c3c2269bd222af957c",
+      "sha256_visivel_md": "6f3a4e1aa714c3e9b8e37c76e5462ad6bcd1d0f5d7d552c3c2269bd222af957c"
+    },
+    {
+      "path": "reguladores/ministerio-da-economia/resolucoes/2022/resolucao-gecex-n-348-de-19-de-maio-de-2022-401478479.md",
+      "sha256_md": "a7e21833503e87797676590287a4cd43cd50d1af5b006385473f21fa74810d7e",
+      "sha256_fonte": "9ee080616be31d8f7033a5c2b3351c78ad4071ac9fedad7b23138ed10a2a10b2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              18,
+              22
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              24,
+              27
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "f508f973484dacc222ea20f1323e8a2b603f7bfe227952074a3cf7792ce64d23",
+      "sha256_visivel_md": "f508f973484dacc222ea20f1323e8a2b603f7bfe227952074a3cf7792ce64d23"
+    },
+    {
+      "path": "reguladores/ministerio-da-economia/resolucoes/2022/resolucao-gecex-n-332-de-4-de-maio-de-2022-397587255.md",
+      "sha256_md": "b404dafc37cdfe000c20af098f560240c6380ee4476fdb1a6528d93e07d0f1f0",
+      "sha256_fonte": "0a52bac8a16b812354a4d200cddb1c72b5a61c13d65564ad79c27c07b87ecf09",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              26,
+              29
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "517f88cb8b60da6f6cbdba8d5c6e146edb8b38e062c12938e4ee69d619a70698",
+      "sha256_visivel_md": "517f88cb8b60da6f6cbdba8d5c6e146edb8b38e062c12938e4ee69d619a70698"
+    },
+    {
+      "path": "reguladores/anvisa/portarias/2024/resolucao-re-n-2.785-de-31-de-julho-de-2024-576300488.md",
+      "sha256_md": "0eb809e41f42d081ef73a6eb1ebe89de73fc45e6f6e4b80a87de4f3c6fedbfe0",
+      "sha256_fonte": "5608fe78723f34163671ddf7ab13800c26128472bcac1c3a5162646aedb736a2",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "a671f4e5745a9b46ed88dc129f10b8962b8a7f1a8d5b57df5a7b8703add46cb6",
+      "sha256_visivel_md": "faaa3a671197506082d526dd917379143a02a4826d38725184f1a3c079801e92",
+      "primeira_diferenca": {
+        "posicao": 1073,
+        "fonte": "onamento RDC 345/02 e RDC 61/04 / 0963673246 CNPJ DA FILIAL: 02.648.096/0003-96 -------------------------------------- ZPORT AGENCIA MARITIMA LTDA / 50.414.298/0001-54 25351.410371/2023-41 / 9102522 PRESTAR SERVIÇO EM PORTOS, AEROPORTOS, FR",
+        "md": "onamento RDC 345/02 e RDC 61/04 / 0963673246 CNPJ DA FILIAL: 02.648.096/0003-96 ZPORT AGENCIA MARITIMA LTDA / 50.414.298/0001-54 25351.410371/2023-41 / 9102522 PRESTAR SERVIÇO EM PORTOS, AEROPORTOS, FRONTEIRAS E RECINTOS ALFANDEGADOS DE: AD"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/portarias/2024/resolucao-re-n-2.783-de-31-de-julho-de-2024-576280102.md",
+      "sha256_md": "09d9fc6ff289c7aedbfdf71fe374d92dfc3d967882371e575636cc3ab3ffd783",
+      "sha256_fonte": "598e7c940323390ca07e612781bd403d071aad2fbec0e9b615fcc9744532fa82",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "59bd559a54c9022326a8f2a7c725ebdc02f88260066f40a55421cdc9405269ed",
+      "sha256_visivel_md": "2c731b568890ba1b7345f194913297f420672efdf657959fc274781ccbd9c167",
+      "primeira_diferenca": {
+        "posicao": 985,
+        "fonte": "reas portuárias, aeroportuárias e pontos de passagem de fronteiras / 0916551245 -------------------------------------- IMUNIZADORA POTYGUAR E SERVIÇOS LTDA / 32.873.455/0001-08 25351.104456/2024-74 / 9104736 PRESTAR SERVIÇO EM PORTOS, AEROP",
+        "md": "reas portuárias, aeroportuárias e pontos de passagem de fronteiras / 0916551245 IMUNIZADORA POTYGUAR E SERVIÇOS LTDA / 32.873.455/0001-08 25351.104456/2024-74 / 9104736 PRESTAR SERVIÇO EM PORTOS, AEROPORTOS, FRONTEIRAS E RECINTOS ALFANDEGAD"
+      }
+    },
+    {
+      "path": "reguladores/mapa/portarias/2023/portaria-spa-mapa-n-35-de-5-de-abril-de-2023-475817134.md",
+      "sha256_md": "c9ba209d4b5d68bd2170d07ed607f9247b0616e9acc360bf339bf029e940cde1",
+      "sha256_fonte": "1aa7bc49f5839ac2147bccf343a5de836e6be47db5b0168a27d9985c5046652f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              84,
+              86
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "f9950593e1831e7e1b4d54ab3ae69d27583235ca087a8d5bf754579d47d4a231",
+      "sha256_visivel_md": "f9950593e1831e7e1b4d54ab3ae69d27583235ca087a8d5bf754579d47d4a231"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2023/portaria-n-531-de-20-de-abril-de-2023-478890279.md",
+      "sha256_md": "27276cf35e9a822566972ed11e7602a8aaa8ab7254b8cb129c93e7c83a9e4c22",
+      "sha256_fonte": "afa067a77148472313e94f91244462139e2a781fe44a767aa6f2057565b0bcdf",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              18,
+              22
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              64
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "6dd58d5186d01e7b4b013ddfaae9e17d3c71913c086fc4fc30e6e8650b9bc2d2",
+      "sha256_visivel_md": "6dd58d5186d01e7b4b013ddfaae9e17d3c71913c086fc4fc30e6e8650b9bc2d2"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2023/portaria-spa-mapa-n-34-de-5-de-abril-de-2023-475790306.md",
+      "sha256_md": "513dded21cbe19e13f4b0771077c04e0b892e86d6ea8588048124645b0472cdd",
+      "sha256_fonte": "0c86001e0701b475444e1a70247191bd91045f4464174607317f705ed3e28232",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              82,
+              84
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "9462b10ad29dab60c9ab7529cf71c62eca62dd9b286b4855c19eac9cef91474c",
+      "sha256_visivel_md": "9462b10ad29dab60c9ab7529cf71c62eca62dd9b286b4855c19eac9cef91474c"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2023/portaria-n-532-de-24-de-abril-de-2023-479368605.md",
+      "sha256_md": "03cb7d6e481536a2bd8e930e617408ee8c0b0962a8e5b05174393c3fa8bb2d4d",
+      "sha256_fonte": "70761a58b6f7f9fbb27ffb289424e89ac612c8e7bcde6d29242058bd405cf48d",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              18,
+              22
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              64
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "9eb8a5f74e503f6e8d66cecc8778de3b9a75e91bf20ffc8c573ce2ad0e2bfd8e",
+      "sha256_visivel_md": "9eb8a5f74e503f6e8d66cecc8778de3b9a75e91bf20ffc8c573ce2ad0e2bfd8e"
+    },
+    {
+      "path": "reguladores/poder-legislativo/portarias/2024/portaria-gsi-pr-n-133-de-12-de-julho-de-2024-572091034.md",
+      "sha256_md": "94420c668c9eda6e5009c503a2e3ee535bb319937f1b1827d14c04cc40ff40e2",
+      "sha256_fonte": "10ad61e4a6126e67fb742e3fd5f2fc1785b030bd81fa8d7bb2cd333e77c54800",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              58,
+              60
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              100,
+              102
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              140,
+              142
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              146,
+              148
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "7fe6355df35643cb2746541a087f06d3890b1ba648b1975ae0c9af25ea3aa02e",
+      "sha256_visivel_md": "7fe6355df35643cb2746541a087f06d3890b1ba648b1975ae0c9af25ea3aa02e"
+    },
+    {
+      "path": "reguladores/poder-legislativo/resolucoes/2024/resolucao-gecex-n-616-de-12-de-julho-de-2024-572082154.md",
+      "sha256_md": "0a0351f94b35eb73e088899752dd17dffd05763ce01df0a84c466616b4c30573",
+      "sha256_fonte": "4c7cc9960fa352f7be2c8516bb011d317bcc96167c1e4d01c0a64004d0452454",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "225792d2109da051c4721188919b834fb3cc4fe12e66987a6d4addcb6d521900",
+      "sha256_visivel_md": "40d6cea89d7121ee7acbb1fad0b273c21a1605d0843908458da1ea2d0a13cdbd",
+      "primeira_diferenca": {
+        "posicao": 279,
+        "fonte": "bitem 2917.35.00 da Nomenclatura Comum do Mercosul - NCM, originárias da China. O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,tendo em vista as disposições do art. 66. do Decreto nº 8.058, de 26 de julho de 2013, e no uso das ",
+        "md": "bitem 2917.35.00 da Nomenclatura Comum do Mercosul - NCM, originárias da China. **O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,**tendo em vista as disposições do art. 66. do Decreto nº 8.058, de 26 de julho de 2013, e no uso "
+      }
+    },
+    {
+      "path": "reguladores/turismo/portarias/2023/portaria-n-1-de-17-de-janeiro-de-2023-458703010.md",
+      "sha256_md": "851dbfd3e3e203f8012e62474073a2a22a90d875400a5f7bc5e544099a1e102e",
+      "sha256_fonte": "e2e0363d214fac31be837572244661726801efaf31929b25a5716a5096e601db",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "03657ed3b3081058e513edfd272155cde9294aa197205bd6deb8c859d6d8553e",
+      "sha256_visivel_md": "7e41136e2ff471057717dde88c6a705445a4ebed5530c82fff16c196bbb3958a",
+      "primeira_diferenca": {
+        "posicao": 188431,
+        "fonte": "023 201027 - MÃE FORA DA CAIXA - CIRCULAÇÃO BEM LEGAL PRODUCOES ARTISTICAS LTDA &#x2013; ME CNPJ/CPF: 10.455.663/0001-54 Cidade: Rio de Janeiro - RJ; Prazo de Captação: 01/01/2023 à 31/12/2023 220264 - Mãe Preta, fonte pra nossa arte Timbre",
+        "md": "023 201027 - MÃE FORA DA CAIXA - CIRCULAÇÃO BEM LEGAL PRODUCOES ARTISTICAS LTDA – ME CNPJ/CPF: 10.455.663/0001-54 Cidade: Rio de Janeiro - RJ; Prazo de Captação: 01/01/2023 à 31/12/2023 220264 - Mãe Preta, fonte pra nossa arte Timbre de Gal"
+      }
+    },
+    {
+      "path": "reguladores/turismo/portarias/2023/portaria-fbn-n-87-de-29-de-dezembro-de-2022-455456605.md",
+      "sha256_md": "b342576647486dfe0e8a08693dde3dc84fa00dc76b93827105adf97f977a9193",
+      "sha256_fonte": "2a9c2cfb1430e07753cdadc602068565af08fa7c1b4b8960b85cf3f4f0026f20",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              46,
+              48
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              52
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "db4cfe0b7da871b654cd7d0ae76540d5bdba6c4bd63057781a7aafab26eb8fa5",
+      "sha256_visivel_md": "db4cfe0b7da871b654cd7d0ae76540d5bdba6c4bd63057781a7aafab26eb8fa5"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2024/portaria-spa-mapa-n-212-de-07-de-junho-de-2024-564854993.md",
+      "sha256_md": "224cce4a31d323335f9ab4601492187e1db2de6d918b72c94c2558c01ab4f7ae",
+      "sha256_fonte": "d85c880a72c5a06ec5e3aa405873a27b5a2e0d5dd8bb811ec4330a5cacd567e2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              58
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "b463874f84dfa8c98c2e73faadec10c2d29f3e750f20f23dc8e35ffcc31c59d7",
+      "sha256_visivel_md": "b463874f84dfa8c98c2e73faadec10c2d29f3e750f20f23dc8e35ffcc31c59d7"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2024/portaria-spa-mapa-n-231-de-07-de-junho-de-2024-564851141.md",
+      "sha256_md": "650b9e45c5499b1a6d18183e566342f4054b8ce196fbfd59aa188ecf0567e76d",
+      "sha256_fonte": "06ded08b03b1c9e8ec8171237797d8e72f1b78d671b22b6f451767a18f3ca56b",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              58
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "8cdb2e1af57562f2ca52324cc0c6431cdbe95d995b56d685c307822ac0464d37",
+      "sha256_visivel_md": "8cdb2e1af57562f2ca52324cc0c6431cdbe95d995b56d685c307822ac0464d37"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2024/portaria-sda-mapa-n-1.063-de-20-de-marco-de-2024-549597766.md",
+      "sha256_md": "0ae2e5509059ea8c7a029076fae7e5f2d2aa034bd60cb0b75efae707f9ca524a",
+      "sha256_fonte": "6d1ed04491ce4f897f5b4393320e4b90a97c97e0be94100990be56132c1f960d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "82ab13872269e5c4ee77fbac436ec3a4df8bad27f5b0b9c8d34a451caa29263d",
+      "sha256_visivel_md": "fd9f804e4e964b9c7944c332ca18b1707ccf0a1dd7832f9297d526b7e16874ed",
+      "primeira_diferenca": {
+        "posicao": 1662,
+        "fonte": "olvimento da cultura e encontrado livre de Orobanche spp. e Rhodococcus fascians.\" ou \"O envio se encontra livre de Orobanche spp. e Rhodococcus fascians, de acordo com o resultado da análise oficial de laboratório Nº.\" Art. 4º Os envios es",
+        "md": "olvimento da cultura e encontrado livre de Orobanche spp. e Rhodococcus fascians*.\" ou \"O envio se encontra livre de Orobanche spp. e Rhodococcus fascians, de acordo com o resultado da análise oficial de laboratório Nº.\"* Art. 4º Os envios "
+      }
+    },
+    {
+      "path": "reguladores/mapa/portarias/2024/portaria-spa-mapa-n-25-de-08-de-maio-de-2024-558791365.md",
+      "sha256_md": "4b4f494b913d6a13b3cc13196de71edcd99250feabd0405ebe792e614bff46f4",
+      "sha256_fonte": "d4075dea9f20011a0a15cbb1616e08aff355740b2fa901b042a23f6273794f9d",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              78,
+              80
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "2511dd52176b6cb8b133dd228b5258c71f9821e0c9a3518533a942a8998f48f7",
+      "sha256_visivel_md": "2511dd52176b6cb8b133dd228b5258c71f9821e0c9a3518533a942a8998f48f7"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2024/portaria-spa-mapa-n-236-de-07-de-junho-de-2024-564843735.md",
+      "sha256_md": "b10cc622b118d9115f1ba71bcadf3c57f786deb8952a7c0772e72f67ea08447d",
+      "sha256_fonte": "bd7bade988c74cc388ba812917a6c06a0c9f22184c504eb138e8e67da581074b",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              56
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "e26c5d9d436f2b9354cac9bba762ce6cdce8d3d51f65a834f510223a378b0ce0",
+      "sha256_visivel_md": "e26c5d9d436f2b9354cac9bba762ce6cdce8d3d51f65a834f510223a378b0ce0"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2024/portaria-spa-mapa-n-221-de-07-de-junho-de-2024-564850307.md",
+      "sha256_md": "9676f5a09dbfdd271aa4b41c0f5ab876261f0b1bee34dbe0e86c4654e2e0b6bb",
+      "sha256_fonte": "970be0b82f3b079424df385ed3011a2247babc183859ea379196bb41285c860a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              56
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "c95d0fa44eea01fe6f449eb973564b362bbff8c7e600ec4d7fe7d986c3a7b3ca",
+      "sha256_visivel_md": "c95d0fa44eea01fe6f449eb973564b362bbff8c7e600ec4d7fe7d986c3a7b3ca"
+    },
+    {
+      "path": "reguladores/rfb/2023/rfb-sijut-131731.md",
+      "sha256_md": "578b3b8d052e8a7e3b8e7f2b6166a53f2fc2fee958d0a1d71a789f0b2e934e1b",
+      "sha256_fonte": "a937613f2d8f180ad5766b054042848cb7e15398b42f1112fdd3aa71b162189c",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ".",
+            "linhas": [
+              2,
+              5
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "c2ddee8e870d4e95d8b7a38d89e8e4d76965166d2fc4ec3477a4098243206622",
+      "sha256_visivel_md": "c2ddee8e870d4e95d8b7a38d89e8e4d76965166d2fc4ec3477a4098243206622"
+    },
+    {
+      "path": "reguladores/rfb/2023/rfb-sijut-129394.md",
+      "sha256_md": "1ad300c4beefa9710245ce08a5d6bf8d1dc08f2b3307a59d1a357f30756f1e32",
+      "sha256_fonte": "200c45d13d50b84cc5d2602e5ec8a51d47b169aba190643ca5e61628138e2086",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "9fb62b10187ded69adfbaabaa83b01845912b39a33bccfb895949fa7b21a7042",
+      "sha256_visivel_md": "57a6b7ec84d82fe3d93925963b8ed35ae5693d3773297b045bdc71104301360b",
+      "primeira_diferenca": {
+        "posicao": 6725,
+        "fonte": "rágrafo com redação dada pela Emenda Constitucional nº 42, de 2003) (...) III - será fiscalizado e cobrado pelos Municípios que assim optarem, na forma da lei, desde que não implique redução do imposto ou qualquer outra forma de renúncia fi",
+        "md": "rágrafo com redação dada pela Emenda Constitucional nº 42, de 2003) (...) III - **será fiscalizado e cobrado pelos Municípios que assim optarem, na forma da lei, desde que não implique redução do imposto ou qualquer outra forma de renúncia "
+      }
+    },
+    {
+      "path": "reguladores/rfb/2020/rfb-sijut-107014.md",
+      "sha256_md": "cf0af948453cc45cc0a4b46a768876d2d06a6e6c77df37c5f7d2a9726ae748ca",
+      "sha256_fonte": "6dec6ba69991c00b17220f1f0fc45bdef466d8438fc299228606d34588c5c030",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              18
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              20,
+              28
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              32,
+              36
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              38,
+              42
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "2ae7f56916eaf3d4790365d989adb7a08590fb3ec0ba74bedac30b280031a882",
+      "sha256_visivel_md": "2ae7f56916eaf3d4790365d989adb7a08590fb3ec0ba74bedac30b280031a882"
+    },
+    {
+      "path": "reguladores/rfb/2020/rfb-sijut-111715.md",
+      "sha256_md": "4ea1d4500eabade03ff68fce945605597ca506419ffc8172475490b7cbe4f16e",
+      "sha256_fonte": "cc95696eb50193944e625dc8e9cbe22389deee7a0d339c7a83baa3695c87ef32",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              8,
+              12
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "3db0938d6d2390c087f6817f59a2b49e7b7dcec91cf6883c271531ed65c14c17",
+      "sha256_visivel_md": "3db0938d6d2390c087f6817f59a2b49e7b7dcec91cf6883c271531ed65c14c17"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-58839.md",
+      "sha256_md": "91e557894643fd02bf4bf9ed0562fe6c2279e9f58b45b7213b11bbf679e6701d",
+      "sha256_fonte": "9b6f2fba36219fa752b80cf4319b286af1d080d686bdb00dd6cdc7cd8b45bffe",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              4,
+              8
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              14,
+              22
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "1e7e77cbd050f8c8a8d85b1ca50c7f0750930fca6580787872f87833d9937ba1",
+      "sha256_visivel_md": "1e7e77cbd050f8c8a8d85b1ca50c7f0750930fca6580787872f87833d9937ba1"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-59427.md",
+      "sha256_md": "92f2dc3cab05a0ef917341c1b230f82d68db5b2cd6977d9b8d54b5791a3e7946",
+      "sha256_fonte": "b05963d15e9dbb076bf4e79c7dfa710710b95e079a4a51071736f0b5f33b848b",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              18,
+              26
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "f710671990a6ce4603d4753dbcbe6030e141b10721d28837e2dcf880c65c6462",
+      "sha256_visivel_md": "f710671990a6ce4603d4753dbcbe6030e141b10721d28837e2dcf880c65c6462"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-59806.md",
+      "sha256_md": "c45654f86b4fcc8f3f32a05735b493cbea601f620c194c6acb28a19860bf2ea1",
+      "sha256_fonte": "b9d768e37e3928f31fee306425342f5590cd258820a70602ffdb1d84e04dfd24",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              4,
+              8
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              14,
+              22
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "2c082df233b5d2b27e189e8701e4e99a3771008daf082d4f4b143884799b4a6a",
+      "sha256_visivel_md": "2c082df233b5d2b27e189e8701e4e99a3771008daf082d4f4b143884799b4a6a"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-59581.md",
+      "sha256_md": "c51e8139ca8acecfdda4aa0ea4aa75c6b3f1042c60b1b2ed989fdac1ce6daf42",
+      "sha256_fonte": "df8cffd82225931deba76545d548bece465e7ee621bce195095f99c891f32159",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "4a8f190d9ec857e00f90213b019944a9e1b28977fa0595cd255512a8290a6a01",
+      "sha256_visivel_md": "4a8f190d9ec857e00f90213b019944a9e1b28977fa0595cd255512a8290a6a01"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-57652.md",
+      "sha256_md": "c01f4b80ea5d14256b08f942e6c0b8dede9b6975759a0517e67a2dbab34209de",
+      "sha256_fonte": "1d22285f6b049629f051c5eea096563ade7fccc8659ebaef77da062a5d11a1dc",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "63d63dc053a6a4d47950b91fdcb8d4f4f30bfb2ed10da5bd525f3364e55fa664",
+      "sha256_visivel_md": "63d63dc053a6a4d47950b91fdcb8d4f4f30bfb2ed10da5bd525f3364e55fa664"
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "22c9478bddaccafdb352d55b6c15bb5b0ae9b4a65d9a1b5ee790ffd1224508c8",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "iguais": 14,
+    "revisar": 3
+  },
+  "documentos": [
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-51742.md",
+      "sha256_md": "365d599c21c0160f982a368cbc21b8bdbd4d43455528d3023f8bb0ba8af653bd",
+      "sha256_fonte": "309b94952d782872b335c16cff0cf79209f6f09e3976476b918f3ae34c9fbdd9",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              14,
+              30
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "56c42b9e8611ae1f5eaba9b57589c7324d3dfaae4ef0058c1369b12ae133093a",
+      "sha256_visivel_md": "56c42b9e8611ae1f5eaba9b57589c7324d3dfaae4ef0058c1369b12ae133093a"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-56345.md",
+      "sha256_md": "8a41877cb0afd5d65d8ba020f96985b0696e20bcf5ec28868578e87e874fff00",
+      "sha256_fonte": "e3d51f8057b4cbde038c8f3d3f15f90889b5cafafbb389dde2e375bb61808aab",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "fed1ae5df6d73398329d9366afdba01e987e4723f7b9a39f079b072aac205cc6",
+      "sha256_visivel_md": "fed1ae5df6d73398329d9366afdba01e987e4723f7b9a39f079b072aac205cc6"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-44218.md",
+      "sha256_md": "f3d75dbac1e30791ad58704234557da3e786d66807f55bc5d5ab2c3fd4f6e455",
+      "sha256_fonte": "3b033e7156c5a4db6daece2fe3493e0bbf7d96aa4ae4844099d514485f153f29",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              8,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "86e9195ea31ea01ddfb58c5e313476db283b768c2921049df67d7d4120dd7b02",
+      "sha256_visivel_md": "86e9195ea31ea01ddfb58c5e313476db283b768c2921049df67d7d4120dd7b02"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-60837.md",
+      "sha256_md": "68fcda53dcfb330c7984648db97ac95a5f47e059f75ce0084e3d4768581fc532",
+      "sha256_fonte": "b8f70bed679451b0aedecafb41bd38f60d2d83110b0d5c2fb0ce25487fd6e8c0",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              18,
+              20
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "939092e725d6dc466c5970b5cce2eea07360ff53de54c8221408cea48d0afa1d",
+      "sha256_visivel_md": "939092e725d6dc466c5970b5cce2eea07360ff53de54c8221408cea48d0afa1d"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-50460.md",
+      "sha256_md": "1ad4359eb5b2c1ac668abffd637a66b3ec3bd58a971147aec0eddb623b688cba",
+      "sha256_fonte": "a379efc22a4c381c1432a8258f27c21814d5bf541db6d2aff76e074fe59cce3f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "4e474662d5d3d81e63df437ad59a3d7e8f01254d94714a870a6dd18d81ba8135",
+      "sha256_visivel_md": "4e474662d5d3d81e63df437ad59a3d7e8f01254d94714a870a6dd18d81ba8135"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-42761.md",
+      "sha256_md": "8ae36f0eccdd70abfcd6c9beba31e446858b10990fd1a8820eeac60c7ec2c5e4",
+      "sha256_fonte": "3ec16922eb36bf208934c79d19b9eb0ff02db8b4e53adc5845931e31b4af5014",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              8,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "60fd03f62ff9fa9a3872b328dea28e9e9694f93f9ea042a2f6e94cf2eb265130",
+      "sha256_visivel_md": "60fd03f62ff9fa9a3872b328dea28e9e9694f93f9ea042a2f6e94cf2eb265130"
+    },
+    {
+      "path": "reguladores/rfb/2013/rfb-sijut-46962.md",
+      "sha256_md": "943ab3f8f21da02a17652627084f7a9a194c9b1f09bca85df270038d6f9b98c7",
+      "sha256_fonte": "60bdd3b6b4b114af359c90d23c6247d74b9ee04453bc6bf3517eeca2fd81187c",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "ce71b7c771ce35fd67e11ec274c26e6ddf75e16e278d34ad9ab478548b0feaec",
+      "sha256_visivel_md": "ce71b7c771ce35fd67e11ec274c26e6ddf75e16e278d34ad9ab478548b0feaec"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-56906.md",
+      "sha256_md": "d61049786bd36c1b4c904cd402f87d2693b1f5f01e274dfab653eeceff190420",
+      "sha256_fonte": "89e8bc329710c02d82850e75d597c4c0da6fee990f913fd1ca77b88010131398",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "96c82b9a47deb028b5c4af173e53484008f7e32e7520e8a4f7a68c78a78a3947",
+      "sha256_visivel_md": "d13ea27da583f28ec1dfd5fc064deb94f047f190c18fed3ccf31342cb0c800dc",
+      "primeira_diferenca": {
+        "posicao": 3179,
+        "fonte": "as disposições dos §§ 1º e 2º, deste Tratado, promulgado pela Lei nº 313/1948). --------------------------------------------------------------------------- CRÉDITO. ANULAÇÃO. PRODUTO NACIONALIZADO. REMESSA. ZONA FRANCA DE MANAUS. Os crédito",
+        "md": "as disposições dos §§ 1º e 2º, deste Tratado, promulgado pela Lei nº 313/1948). CRÉDITO. ANULAÇÃO. PRODUTO NACIONALIZADO. REMESSA. ZONA FRANCA DE MANAUS. Os créditos relativos ao IPI pago no desembaraço aduaneiro dos produtos originários e "
+      }
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-53004.md",
+      "sha256_md": "8f58e19b2e674e4eeeefbfebbdd5a632adb0b8667e1886bb45b13d9c3b3bfaa5",
+      "sha256_fonte": "852f4021ea0ef6b69ea608fe87e5dbc0a9edd4820554ba41b0b4229f1fb65406",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              16,
+              22
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "530c8a63e674ec02553b1e96edcddd8096f858f97841ab485a6ea3c5f03f11e2",
+      "sha256_visivel_md": "530c8a63e674ec02553b1e96edcddd8096f858f97841ab485a6ea3c5f03f11e2"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-52595.md",
+      "sha256_md": "b50fde8e6b4822632db21f9b24362319cc7ca2c1ae9121e102cdf93e49403842",
+      "sha256_fonte": "01233c7f5033491fcb61da71b1166b873a56bda7b509602f1d0cb4fa6e03a3be",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "c210bfdebd4f67f31942b345831aa1134524ea83008ec8109e027cbbdfdbfc59",
+      "sha256_visivel_md": "c210bfdebd4f67f31942b345831aa1134524ea83008ec8109e027cbbdfdbfc59"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-55261.md",
+      "sha256_md": "1bbe3832bb800621fdf8639362798a2188fbf197e77ce37ca0440db8343355ec",
+      "sha256_fonte": "70aaae09896b80f2d1437e419209d26fa97fdbe189e9f54508c4999a1db89416",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              4,
+              6
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "1f3cce40401e6601216528c76c78b401ba9769a1ab79e992d21195484753db0a",
+      "sha256_visivel_md": "1f3cce40401e6601216528c76c78b401ba9769a1ab79e992d21195484753db0a"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-52471.md",
+      "sha256_md": "929c8a6e494024d2fd974664483ec4c31b5154d55025f776f406a71eef251b12",
+      "sha256_fonte": "424666ebf397a2e4dcf90a1b6e17fee1b7693b20773bf60d81e1ed537cdf6f25",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "86e329e374fb96ef2d15b1c3f56dc559060fb4cfeceab3f01b05d2d2e2b41ba8",
+      "sha256_visivel_md": "86e329e374fb96ef2d15b1c3f56dc559060fb4cfeceab3f01b05d2d2e2b41ba8"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-52413.md",
+      "sha256_md": "2534f9f09274535629884299705285590b8b54d8cf0fcb92515c2e6e466c684b",
+      "sha256_fonte": "89a51437d137a0b1e187d7b1517b2cbbaf348a2cffa4d2d6b68d1b7887ed40bd",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              72,
+              76
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "23b71e0ed6568e9b3557b48c89abe19386f0d2a12708a32a1629ae174b2a77ea",
+      "sha256_visivel_md": "23b71e0ed6568e9b3557b48c89abe19386f0d2a12708a32a1629ae174b2a77ea"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-53262.md",
+      "sha256_md": "1b7b524b9c905527d734ef6ab20de82dc6de80c787700dad1032cde6a228e48c",
+      "sha256_fonte": "2b83cd8095954aeef3ad1dea1fdc68f3650f472036e2f1d329096be9f90de1cd",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              18,
+              64
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "e452b6ef9cd7a841f6e5d1cabc781becb6828dec0e5db270ebba2282a5923cc3",
+      "sha256_visivel_md": "e452b6ef9cd7a841f6e5d1cabc781becb6828dec0e5db270ebba2282a5923cc3"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-51739.md",
+      "sha256_md": "d530ade66753ffceaf7e26a2c803f08d5f747e07991b389bc7988cff6f02b252",
+      "sha256_fonte": "08a496d8c067e423130760fe80ba3c96e32ce606a0230195a6a48de4c44ff480",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              14,
+              18
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "4e967e671fbc974b645ef02205d21a99c62fb70acc1682d0e32d44be7e1e9b80",
+      "sha256_visivel_md": "4e967e671fbc974b645ef02205d21a99c62fb70acc1682d0e32d44be7e1e9b80"
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-56904.md",
+      "sha256_md": "0d3b47c0b205b637da683049d3682042c69e004510c8dccf8175c1e54abf02aa",
+      "sha256_fonte": "2c6c39029057dda523429c764bc6e8ad6238942bf1423a71cbb0162c3dac227b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e4efc9e6f986c45369d7d4d7d626e1be57f38b0a27a25a388f4865e970e6554c",
+      "sha256_visivel_md": "05a8a636ba68757a290cad441d0dabeeef29995e5b9cdc610032188f8540fd49",
+      "primeira_diferenca": {
+        "posicao": 3103,
+        "fonte": "as disposições dos §§ 1º e 2º, deste Tratado, promulgado pela Lei nº 313/1948). --------------------------------------------------------------------------- CRÉDITO. ANULAÇÃO. PRODUTO NACIONALIZADO. REMESSA. ZONA FRANCA DE MANAUS. Os crédito",
+        "md": "as disposições dos §§ 1º e 2º, deste Tratado, promulgado pela Lei nº 313/1948). CRÉDITO. ANULAÇÃO. PRODUTO NACIONALIZADO. REMESSA. ZONA FRANCA DE MANAUS. Os créditos relativos ao IPI pago no desembaraço aduaneiro dos produtos originários e "
+      }
+    },
+    {
+      "path": "reguladores/rfb/2023/rfb-sijut-129394.md",
+      "sha256_md": "1ad300c4beefa9710245ce08a5d6bf8d1dc08f2b3307a59d1a357f30756f1e32",
+      "sha256_fonte": "200c45d13d50b84cc5d2602e5ec8a51d47b169aba190643ca5e61628138e2086",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "9fb62b10187ded69adfbaabaa83b01845912b39a33bccfb895949fa7b21a7042",
+      "sha256_visivel_md": "57a6b7ec84d82fe3d93925963b8ed35ae5693d3773297b045bdc71104301360b",
+      "primeira_diferenca": {
+        "posicao": 6725,
+        "fonte": "rágrafo com redação dada pela Emenda Constitucional nº 42, de 2003) (...) III - será fiscalizado e cobrado pelos Municípios que assim optarem, na forma da lei, desde que não implique redução do imposto ou qualquer outra forma de renúncia fi",
+        "md": "rágrafo com redação dada pela Emenda Constitucional nº 42, de 2003) (...) III - **será fiscalizado e cobrado pelos Municípios que assim optarem, na forma da lei, desde que não implique redução do imposto ou qualquer outra forma de renúncia "
+      }
+    }
+  ]
+}

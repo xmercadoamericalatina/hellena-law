@@ -1,0 +1,861 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "74c9586f924c7da5758fdc60e4cbec65dd89dd61eb9c7e78564c5904d47d33a9",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "iguais": 17,
+    "revisar": 3
+  },
+  "documentos": [
+    {
+      "path": "reguladores/defesa/portarias/2022/portaria-gabaer-n-237-gc3-de-8-de-fevereiro-de-2022-378995347.md",
+      "sha256_md": "2dcd73d30b05f682f5127199844255694b489b25a0e077e4cbd6df231b76192e",
+      "sha256_fonte": "9fee5648e31bc32928d96f507151a5bd78f87a2e0858da56446a80a9be3a7893",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              42,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              54,
+              59
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "93d4ae6867b5b6f2549b16bb6a29a0ed3381e6b608311ae9176194c6abecd7dc",
+      "sha256_visivel_md": "93d4ae6867b5b6f2549b16bb6a29a0ed3381e6b608311ae9176194c6abecd7dc"
+    },
+    {
+      "path": "reguladores/defesa/portarias/2022/portaria-n-118-dpc-de-5-de-maio-de-2022-400396380.md",
+      "sha256_md": "fa620a4a1dd8bcb8a432e1b48aa1a7e3e383ffc8c240f34ae68d09984429da12",
+      "sha256_fonte": "757f7414bddecacb86aab566ad36b470b0266c043c534997b9cbcfeda95163d9",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              34,
+              40
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ")",
+            "linhas": [
+              42,
+              48
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              52,
+              65
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "75cd3f1776027257e2ff33f1c04d81756628db255c0d2bf6e05661aab6c59548",
+      "sha256_visivel_md": "75cd3f1776027257e2ff33f1c04d81756628db255c0d2bf6e05661aab6c59548"
+    },
+    {
+      "path": "reguladores/defesa/portarias/2022/portaria-n-214-dpc-de-13-de-julho-de-2022-421582633.md",
+      "sha256_md": "dadb2effd2b5ad6822392123d9fcb06d40637fbb4727c0b320743500e92c3a2c",
+      "sha256_fonte": "98e7e9bddf901248d9b51da74b2c7e7543bfa9aa2ecd824fa38f070f901d0e96",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              34,
+              38
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ")",
+            "linhas": [
+              42,
+              44
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              54,
+              60
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              70,
+              78
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ")",
+            "linhas": [
+              82,
+              84
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              94,
+              97
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "4e76ef04e8d2efc1b2278ac6ec782d9b9ed35d3ac300ee042bb92505ae4e5e7c",
+      "sha256_visivel_md": "4e76ef04e8d2efc1b2278ac6ec782d9b9ed35d3ac300ee042bb92505ae4e5e7c"
+    },
+    {
+      "path": "reguladores/mds/portarias/2024/portaria-n-62-de-8-de-fevereiro-de-2024-542778649.md",
+      "sha256_md": "5a1258abe97eedf61a33ce81d8901c4c4760e85d240ccc5c7dfb42f613a51507",
+      "sha256_fonte": "3eeed84e46330e3358fab0d8c585b7118147f0dd18f23554c29927d82185edd5",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              6,
+              8
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "a78274a83be828421136bbde94df336ebc10ad62872ba9040e9b7c9089859b42",
+      "sha256_visivel_md": "a78274a83be828421136bbde94df336ebc10ad62872ba9040e9b7c9089859b42"
+    },
+    {
+      "path": "reguladores/mds/portarias/2024/portaria-n-76-de-20-de-marco-de-2024-551529930.md",
+      "sha256_md": "94e6ba0899b056efda583ce93a4267918d0e4e79971d7a4a7a0c9158ba083f71",
+      "sha256_fonte": "a560ca83ead40beb2a5569754c02b486eebf3784d084ab1a31a3afd333468419",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              22,
+              24
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "daced4c48b4a5b22d1cd25877cdb3e2cae1bbabdbc9eb7e521843fd850574bf5",
+      "sha256_visivel_md": "daced4c48b4a5b22d1cd25877cdb3e2cae1bbabdbc9eb7e521843fd850574bf5"
+    },
+    {
+      "path": "reguladores/mds/portarias/2024/portaria-n-58-de-30-de-janeiro-de-2024-540654027.md",
+      "sha256_md": "39480cc7f3fbceb26605694be8073952ab0899dcdac81927d7e07d1cb92110e0",
+      "sha256_fonte": "03e8988960cf2c6e115ba43bce14f2a8d2a076ea345b3d825882167bd7bb6044",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              6,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "c42a94efc8bf95513a9642f0abf9764f1097aed5326a9a2b123b79afd225956f",
+      "sha256_visivel_md": "c42a94efc8bf95513a9642f0abf9764f1097aed5326a9a2b123b79afd225956f"
+    },
+    {
+      "path": "reguladores/mec/portarias/2022/portaria-n-21-prad-de-25-de-janeiro-de-2022-376296387.md",
+      "sha256_md": "b004cdbc57e8e5b4eadc1d917a6a745d0933ccb268d1faa895c4dd8b76c44863",
+      "sha256_fonte": "688cf4d5caa4c56694ca1270b4381a77e1a0cdca389f909f11a346dbd718a250",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS COMPETÊNCIAS",
+          "fonte": "CAPÍTULO I DAS COMPETÊNCIAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Das Competências do Gestor de Contrato de Concessão de Uso Oneroso",
+          "fonte": "Seção II Das Competências do Gestor de Contrato de Concessão de Uso Oneroso",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — Das Competências do Fiscal do Contrato de Concessão de Uso Oneroso",
+          "fonte": "Seção IV Das Competências do Fiscal do Contrato de Concessão de Uso Oneroso",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção V — Das Competências da Gerência de Contratos",
+          "fonte": "Seção V Das Competências da Gerência de Contratos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Da indicação e Designação do Gestor e Fiscais do Contrato",
+          "fonte": "Seção I Da indicação e Designação do Gestor e Fiscais do Contrato",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DO INÍCIO DA EXECUÇÃO CONTRATUAL",
+          "fonte": "CAPÍTULO III DO INÍCIO DA EXECUÇÃO CONTRATUAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DO PROCEDIMENTO PARA PAGAMENTO",
+          "fonte": "CAPÍTULO IV DO PROCEDIMENTO PARA PAGAMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Do Procedimento para pagamento",
+          "fonte": "Seção I Do Procedimento para pagamento",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DOS PROCEDIMENTOS PARA APURAR IRREGULARIDADES E/OU DESCUMPRIMENTOS CONTRATUAIS",
+          "fonte": "CAPÍTULO V DOS PROCEDIMENTOS PARA APURAR IRREGULARIDADES E/OU DESCUMPRIMENTOS CONTRATUAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DAS PRORROGAÇÕES, ALTERAÇÕES E RECOMPOSIÇÃO DE PREÇOS CONTRATUAIS",
+          "fonte": "CAPÍTULO VI DAS PRORROGAÇÕES, ALTERAÇÕES E RECOMPOSIÇÃO DE PREÇOS CONTRATUAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Das Prorrogações de Vigência",
+          "fonte": "Seção I Das Prorrogações de Vigência",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Das Alterações Contratuais: Acréscimo e supressão",
+          "fonte": "Seção II Das Alterações Contratuais: Acréscimo e supressão",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Da Recomposição de preços: Repactuação, Reajuste e Revisão (Reequilíbrio Econômico)",
+          "fonte": "Seção III Da Recomposição de preços: Repactuação, Reajuste e Revisão (Reequilíbrio Econômico)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — DAS DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO VII DAS DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              424,
+              432
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              434,
+              438
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "6e8655b60602d706e7a58668598430da8f86e8bb337b9fdcf2b641eac9896641",
+      "sha256_visivel_md": "e28021ac9966c1c02b93d35a9936e17f242f9fa157fb720e522ac0af0c8bf0e4"
+    },
+    {
+      "path": "reguladores/mec/portarias/2022/portaria-n-20-cce-ufpi-de-30-de-maio-de-2022-404257053.md",
+      "sha256_md": "f31e4e758c05f82f652a479e9058136178eaa99eb1ae6439ba9319b0d642e789",
+      "sha256_fonte": "8af33f6914747c55bba5dc7260d686de7db17b32f733e059d458d3e85b11ded3",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              6,
+              8
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "044843d22290e8747cbca5311c0b648782e59ac0d1ee4b9ac68206ffd9977028",
+      "sha256_visivel_md": "044843d22290e8747cbca5311c0b648782e59ac0d1ee4b9ac68206ffd9977028"
+    },
+    {
+      "path": "reguladores/mec/portarias/2022/portaria-n-446-de-11-de-marco-de-2022-385463735.md",
+      "sha256_md": "649ce4bae4b6c9c93388f87e5d045891cce284f41c5b2ca84ef6ec2ddde3e29d",
+      "sha256_fonte": "e31e5d2e659521b5aed562103c4dd0468e695c7fb6599db34994da725c8dabcf",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "be6811dad43a021c8924f37deed3e2c29b0abc6d8d28594260640e0d9ef865fa",
+      "sha256_visivel_md": "879d2cd88e45da38cd42fff14509f7ced03f6f530b4047661d70a5e05ed386f4",
+      "primeira_diferenca": {
+        "posicao": 2040,
+        "fonte": "LI GOMES BELEM 5º MARCOS CARNEIRO DOS SANTOS LISTA - NEGROS - ORDEM DE NOMEAÇÃO - NÃO HOUVE APROVADOS LISTA - PCD- ORDEM DE NOMEAÇÃO - NÃO HOUVE APROVADOS NM51 - TÉCNICO DE LABORATÓRIO/ ÁREA: INFORMÁTICA (BENJAMIN CONSTANT) LISTA - GERAL - ",
+        "md": "LI GOMES BELEM 5º MARCOS CARNEIRO DOS SANTOS LISTA - NEGROS - ORDEM DE NOMEAÇÃO NÃO HOUVE APROVADOS LISTA - PCD- ORDEM DE NOMEAÇÃO NÃO HOUVE APROVADOS NM51 - TÉCNICO DE LABORATÓRIO/ ÁREA: INFORMÁTICA (BENJAMIN CONSTANT) LISTA - GERAL - ORDE"
+      }
+    },
+    {
+      "path": "reguladores/mec/portarias/2022/portaria-n-5-cce-ufpi-de-3-de-marco-de-2022-383563781.md",
+      "sha256_md": "490d40a17f9582b58c6c6490b2c88a82cf6c83d948d2e43144ed4560382085dd",
+      "sha256_fonte": "5d81be141c9b9fe9cab0b20077322975de633f751f8a9a92f8c3402e53e764b6",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              6,
+              8
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "2386f66653bc7fc29699b555acbe81df79d52ba3cee337c53c88d8a3c954a0f7",
+      "sha256_visivel_md": "2386f66653bc7fc29699b555acbe81df79d52ba3cee337c53c88d8a3c954a0f7"
+    },
+    {
+      "path": "reguladores/mec/portarias/2022/portaria-n-23-cce-ufpi-de-23-de-junho-de-2022-410032092.md",
+      "sha256_md": "b081b8b6f568d435f48e79ea2db998d654a4ad86709d00a91084e19e9fdf3b40",
+      "sha256_fonte": "25f897d0bb6173919132bfc6af5f89d0bea7b521f8ca35fde47d29c065fc64ad",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              6,
+              8
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "8e2c4bb954a9b92a5a684c3570ade4c5e49a26fd14220d79baed3c364ca3c52d",
+      "sha256_visivel_md": "8e2c4bb954a9b92a5a684c3570ade4c5e49a26fd14220d79baed3c364ca3c52d"
+    },
+    {
+      "path": "reguladores/mds/resolucoes/2024/resolucao-ggpaa-n-11-de-5-de-setembro-de-2024-582904842.md",
+      "sha256_md": "8ba7c17dc1dfbfcd398392313baa85f39a53e682423f85b60bdf25d4124dcb07",
+      "sha256_fonte": "cbf7289ad449a807ac0797249be08cc2eca92d3eb5fdd4462bf06456f57cff33",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "793fb162cff0e98f61fd999e6ee554548d9790ed32605724c7b46b9e1cf09916",
+      "sha256_visivel_md": "f097a82ff9801527813ccf3076ebeba0980cc9c4391da6b1d3ebedafeb4a1ba3",
+      "primeira_diferenca": {
+        "posicao": 2617,
+        "fonte": "----------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------\" (NR) Art. 2º Esta Resolução entra em vigor na dat",
+        "md": "--------------------------------------------------------------------------------\" (NR) Art. 2º Esta Resolução entra em vigor na data de sua publicação. GILSON ALCEU BITTENCOURT p/Presidência da República KELMA CHRISTINA MELO DOS SANTOS CRUZ"
+      }
+    },
+    {
+      "path": "reguladores/anac/resolucoes/2024/resolucao-n-745-de-20-de-maio-de-2024-560752481.md",
+      "sha256_md": "15cb00469a7e89f085dcd7da667543e06a22f757e31fa8f49d6204a393e88b91",
+      "sha256_fonte": "62549df3cff7abc97104e0f70522f4210c7755283951347cdd001f2e693337eb",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              40,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "21f6d20df39abd447b29197801c676074dc930d11a84ce60dff53417c119e8d8",
+      "sha256_visivel_md": "21f6d20df39abd447b29197801c676074dc930d11a84ce60dff53417c119e8d8"
+    },
+    {
+      "path": "reguladores/anac/resolucoes/2022/resolucao-n-658-de-2-de-fevereiro-de-2022-377805396.md",
+      "sha256_md": "ea82f3cefa5a6d29c109471eeb2f04820db9530ce0a235c33dff7eef2821a1e7",
+      "sha256_fonte": "8af2c13908752eaf7116d71c5491a084177f9a241d1fdc223031ed7ee40cc26d",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              40,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "72747d07175197acddf062c2388c74ea819d6aae4243fa331ea6259ea109b46c",
+      "sha256_visivel_md": "72747d07175197acddf062c2388c74ea819d6aae4243fa331ea6259ea109b46c"
+    },
+    {
+      "path": "reguladores/mec/resolucoes/2022/resolucao-normativa-n-109-consup-osupcol-rei-ifpi-de-9-de-marco-de-2022-385792396.md",
+      "sha256_md": "deb835d2399e0394f0bdba062c85f474932f26bcbe0ba51d3ae55d4208d52363",
+      "sha256_fonte": "8d1cd4f9f18ac5f37e2d88ff0ba56ffbd9eb75628be094942123ee4af6b8fa01",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DA NATUREZA E FINALIDADE",
+          "fonte": "CAPÍTULO I DA NATUREZA E FINALIDADE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DO REGIME DE PROGRESSÃO PARCIAL",
+          "fonte": "CAPÍTULO II DO REGIME DE PROGRESSÃO PARCIAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DO REGIME DE PROGRESSÃO PARCIAL PARA O ESTUDANTE DOS CURSOS TÉCNICOS INTEGRADOS AO ENSINO MÉDIO E CONCOMITANTES /SUBSEQUENTES",
+          "fonte": "CAPÍTULO III DO REGIME DE PROGRESSÃO PARCIAL PARA O ESTUDANTE DOS CURSOS TÉCNICOS INTEGRADOS AO ENSINO MÉDIO E CONCOMITANTES /SUBSEQUENTES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Regime de Progressão Parcial para o Estudante dos Cursos Técnicos Integrados ao Ensino Médio",
+          "fonte": "Seção I Regime de Progressão Parcial para o Estudante dos Cursos Técnicos Integrados ao Ensino Médio",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Regime de Progressão Parcial para o Estudante dos Cursos Técnicos Concomitantes/Subsequentes",
+          "fonte": "Seção II Regime de Progressão Parcial para o Estudante dos Cursos Técnicos Concomitantes/Subsequentes",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DOS PROCEDIMENTOS DO REGIME DE PROGRESSÃO PARCIAL",
+          "fonte": "CAPÍTULO IV DOS PROCEDIMENTOS DO REGIME DE PROGRESSÃO PARCIAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DO PROCESSO DE AVALIAÇÃO",
+          "fonte": "CAPÍTULO V DO PROCESSO DE AVALIAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DA REPROVAÇÃO NA PROGRESSÃO PARCIAL",
+          "fonte": "CAPÍTULO VI DA REPROVAÇÃO NA PROGRESSÃO PARCIAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — DO PROGRAMA DE ESTUDOS DE RECUPERAÇÃO PROLONGADOS",
+          "fonte": "CAPÍTULO VII DO PROGRAMA DE ESTUDOS DE RECUPERAÇÃO PROLONGADOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VIII — DAS DISPOSIÇÕES TRANSITÓRIAS",
+          "fonte": "CAPÍTULO VIII DAS DISPOSIÇÕES TRANSITÓRIAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IX — DAS DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO IX DAS DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO I — Modelo de Roteiro de Programa de Estudos da Progressão Parcial",
+          "fonte": "ANEXO I Modelo de Roteiro de Programa de Estudos da Progressão Parcial",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — Termo de Compromisso do Programa de Estudos da Progressão Parcial",
+          "fonte": "ANEXO II Termo de Compromisso do Programa de Estudos da Progressão Parcial",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              242,
+              244
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "005fc98bb11d5421ebbbc77b705d189f6a66ec3328ee4902544c3daa7c9e8878",
+      "sha256_visivel_md": "a984a0afb5a067b6ed6ac9463197a10c29eda698992a4b4ca2e4417e0e943473"
+    },
+    {
+      "path": "reguladores/rfb/2019/rfb-sijut-105089.md",
+      "sha256_md": "6ab4fe78ee396f93e9b0a2300230a8b24227d5fb0b8850141e056f6ef33ac044",
+      "sha256_fonte": "ad62a3bc50a45b019d9234c853cf40daac2590c17b9d67fa77fc10876f338ef9",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              12,
+              20
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              22,
+              30
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "78a17a7e0c1014ebafea4dea801f55ce5afbad037f6e50c4406213d43712ab8e",
+      "sha256_visivel_md": "78a17a7e0c1014ebafea4dea801f55ce5afbad037f6e50c4406213d43712ab8e"
+    },
+    {
+      "path": "reguladores/rfb/2019/rfb-sijut-102140.md",
+      "sha256_md": "45d0361ee1547ebca7a682ffe82f04119eb08962cbfd8925f2792a6c7043b392",
+      "sha256_fonte": "4b98e1e6b77df24a6c30912e779c826d3ebeb025c3125441e59c0cf67bffbdb5",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c145af57d7495237a4c144a69f8cf916b9b1335f0c1da6273215133826f77b27",
+      "sha256_visivel_md": "d5576b9321b62a838fa284e8a66513e6742bed4b8bfed0c007f6fcc34c795872",
+      "primeira_diferenca": {
+        "posicao": 1396,
+        "fonte": " dar-se-á por consulta via Web Service/API por redes permissionadas blockchain. ------------------------------------------------------------------------------------------------------------------- § 2º A disponibilização de acesso aos dados ",
+        "md": " dar-se-á por consulta via Web Service/API por redes permissionadas blockchain. § 2º A disponibilização de acesso aos dados por meio de fornecimento de réplicas, parciais ou totais, das bases de dados do CPF e do CNPJ poderá ser realizada a"
+      }
+    },
+    {
+      "path": "reguladores/rfb/2019/rfb-sijut-105841.md",
+      "sha256_md": "1e658df666c8d18b01377745d8ebbe83cc57039af29d6c5031eb8d5249f1ba8c",
+      "sha256_fonte": "b0e734e51adbc614d6905b39c586fe9268f6a2209fc5995152e60dc6d6a2c918",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              4,
+              6
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              8,
+              12
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "ceed20fa56c6b1c0445c78cfad6b8440e3e3e91bccf094c21a88d9068fc81fc7",
+      "sha256_visivel_md": "ceed20fa56c6b1c0445c78cfad6b8440e3e3e91bccf094c21a88d9068fc81fc7"
+    },
+    {
+      "path": "reguladores/rfb/2019/rfb-sijut-100870.md",
+      "sha256_md": "28efe20ecbc3d26b8e6a03e5e45b904b8a5e08b793340ee60535354e1d991ce5",
+      "sha256_fonte": "736c338cd2ec045202989eb334bbf99b3aa9e1b1cd98bbefa250c86dc8d58433",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              8,
+              12
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "1ea9352595f4ee2980b882a0353706f5a4c37ff7e38390e6eb0ee32072b3373b",
+      "sha256_visivel_md": "1ea9352595f4ee2980b882a0353706f5a4c37ff7e38390e6eb0ee32072b3373b"
+    },
+    {
+      "path": "reguladores/rfb/2023/rfb-sijut-128743.md",
+      "sha256_md": "de163f0e65f5626045eeed51d7a1e6428b3e663f14a0c9283cf5cc76aa6cd6a9",
+      "sha256_fonte": "49db1f7bb942ba5a24307feea52c32bc3963838b0ee445ca405ba18ef8a75783",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              28,
+              38
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "5a43bd75257eb2377b361feae731c470429adb6ac9ad814f87897f63718861bf",
+      "sha256_visivel_md": "5a43bd75257eb2377b361feae731c470429adb6ac9ad814f87897f63718861bf"
+    }
+  ]
+}

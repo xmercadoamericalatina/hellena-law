@@ -1,0 +1,502 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "22c9478bddaccafdb352d55b6c15bb5b0ae9b4a65d9a1b5ee790ffd1224508c8",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "revisar": 17,
+    "iguais": 3
+  },
+  "documentos": [
+    {
+      "path": "reguladores/agu/portarias/2020/portaria-n-238-de-29-de-junho-de-2020-264166729.md",
+      "sha256_md": "13bb27ef5d053ad621904f68e525eac90d8c485ab54a78a228c33bb96f22a8db",
+      "sha256_fonte": "9692aa9cfa61444847c82f49cd3411e2fa0c77cbd4226174ff4934ef4e1fdfec",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "92fd416e29535f6a4fe13aab3cbfc9869b06aa10e95d0cf43b70c0031a9cc184",
+      "sha256_visivel_md": "68a17667b21c664ef4918e4100c6dfe61e0c15f04c455f0a374a39e5d06957d1",
+      "primeira_diferenca": {
+        "posicao": 244,
+        "fonte": " Federal, no período de avaliação de 1º de julho de 2020 a 30 de junho de 2021. O ADVOGADO-GERAL DA UNIÃO,no uso das atribuições que lhe confere o art. 4º, incisos I e XVIII, da Lei Complementar nº 73, de 10 de fevereiro de 1993, consideran",
+        "md": " Federal, no período de avaliação de 1º de julho de 2020 a 30 de junho de 2021. **O ADVOGADO-GERAL DA UNIÃO,**no uso das atribuições que lhe confere o art. 4º, incisos I e XVIII, da Lei Complementar nº 73, de 10 de fevereiro de 1993, consid"
+      }
+    },
+    {
+      "path": "reguladores/agu/portarias/2021/portaria-n-452-de-27-de-abril-de-2021-316958748.md",
+      "sha256_md": "dedddb2fdcd1febf0a6a351081760b8824592273930b617db2c168ca1d94991b",
+      "sha256_fonte": "4039199d22417f94bc7f4370816475f7f33118f9ae3f0a0f88ea6cacdc20a55c",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "87ea2ee3bd5c9b5aaa4fb4c1a6843cce1b2d031395eb9420c428d9ea7c7c1560",
+      "sha256_visivel_md": "de8b681c195f5f6ef8401c685dfea1c22eb3771935f9b6468c1360fd2b7d993f",
+      "primeira_diferenca": {
+        "posicao": 40,
+        "fonte": "PORTARIA Nº 452, DE 27 DE ABRIL DE 2021 A SECRETÁRIA-GERAL DE ADMINISTRAÇÃO DA ADVOCACIA-GERAL DA UNIÃO,no uso da competência que lhe foi delegada pela Portaria AGU nº 210, de 28 de março 2019, nos te",
+        "md": "PORTARIA Nº 452, DE 27 DE ABRIL DE 2021 **A SECRETÁRIA-GERAL DE ADMINISTRAÇÃO DA ADVOCACIA-GERAL DA UNIÃO,**no uso da competência que lhe foi delegada pela Portaria AGU nº 210, de 28 de março 2019, no"
+      }
+    },
+    {
+      "path": "reguladores/agu/portarias/2022/portaria-normativa-agu-n-73-de-12-de-dezembro-de-2022-450775530.md",
+      "sha256_md": "019949ce2e4fd8ff4755e2e65e80f2194f0198201763eb8738244b2f627f3430",
+      "sha256_fonte": "82ee70a499ec470612bf9182e16505e131cdf0535554448efbc023e6b103b159",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DISPOSIÇÕES PRELIMINARES",
+          "fonte": "CAPÍTULO I DISPOSIÇÕES PRELIMINARES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DO REQUERIMENTO DO CREDOR",
+          "fonte": "CAPÍTULO II DO REQUERIMENTO DO CREDOR",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DO PROCEDIMENTO",
+          "fonte": "CAPÍTULO III DO PROCEDIMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DAS GARANTIAS",
+          "fonte": "CAPÍTULO IV DAS GARANTIAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+          "fonte": "CAPÍTULO V DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "831ffa1fdedc37ab9b753db8212e8bb509c72673131a5ef25dc99063e0d2a28f",
+      "sha256_visivel_md": "a99cb74720ced8671ae39417cfe6f306a2e17f12ce32a42cfc326750726ad339",
+      "primeira_diferenca": {
+        "posicao": 9707,
+        "fonte": " acerca dos precatórios. § 1º A manifestação acerca dos precatórios, referida nocaput,a ser elaborada pelo órgão de representação judicial respectivo, deverá indicar a existência dos seguintes elementos: I - trânsito em julgado ou ausência ",
+        "md": " acerca dos precatórios. § 1º A manifestação acerca dos precatórios, referida no**caput,**a ser elaborada pelo órgão de representação judicial respectivo, deverá indicar a existência dos seguintes elementos: I - trânsito em julgado ou ausên"
+      }
+    },
+    {
+      "path": "reguladores/agu/portarias/2022/portaria-normativa-n-34-pgf-agu-de-7-de-novembro-de-2022-442905062.md",
+      "sha256_md": "2d91e044f6b1619158bf01cfea87503aa7ab2375a0662d9637256ef8e1bb322c",
+      "sha256_fonte": "1d0ec1efd2e21abb0c3368c1c4e4ee3a0292c3b5b25b68543548489897e311fc",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "304607ff1a3e2d4d033dc3584f571652cfb46fab92defb2294aaa7a888fc69e3",
+      "sha256_visivel_md": "705cf0705ce98ae9bd9fefc03b2a4e5d38f51a409a7839a3d84779e9290d1e1e",
+      "primeira_diferenca": {
+        "posicao": 117,
+        "fonte": "7 DE NOVEMBRO DE 2022 Altera a Portaria nº 530/PGF/AGU, de 16 de julho de 2007. O PROCURADOR-GERAL FEDERAL,no uso da competência de que tratam os incisos I e VIII, §2º, do art. 11 da Lei nº 10.480, de 2 de julho de 2002, e considerado o que",
+        "md": "7 DE NOVEMBRO DE 2022 Altera a Portaria nº 530/PGF/AGU, de 16 de julho de 2007. **O PROCURADOR-GERAL FEDERAL,**no uso da competência de que tratam os incisos I e VIII, §2º, do art. 11 da Lei nº 10.480, de 2 de julho de 2002, e considerado o"
+      }
+    },
+    {
+      "path": "reguladores/ana/portarias/2021/portaria-n-363-ana-de-2-de-fevereiro-de-2021-302549945.md",
+      "sha256_md": "7a7c65c74a27f0d15ba65959dac7b22d9815524c640aa6470acc08a6aa3b7f39",
+      "sha256_fonte": "5a84e6f86e45e51284fc394cb172ee4bbd8b3f62cee29ae3d1011ac7eae6b715",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — Valores de referência de custo unitário",
+          "fonte": "ANEXO I Valores de referência de custo unitário",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              52
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "7113a1f9f8c002700767da66bf95b1e204702c5385e1a7521977f737546053db",
+      "sha256_visivel_md": "56578108d97bd9bb634cd33ea7d097dbff27ed1c3536f80923b8a26e4b2b3483"
+    },
+    {
+      "path": "reguladores/anac/portarias/2021/portaria-n-6.662-de-10-de-dezembro-de-2021-367742803.md",
+      "sha256_md": "e89f3a83dd235f9457ff3942b3e3a07229ae8b02b3d5019107ad1a26bcd26f55",
+      "sha256_fonte": "98f9ba6ed7f782b4e477925bb8e617c3ec39710db3ca8b2292552fec763838d0",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "eb3a8c355decfbc166d7a4a4479ac55f87304909665d853ce8aec92ec89c286a",
+      "sha256_visivel_md": "59d72b08567cbd71471a09db18ccf559dad014515cd6aea459c91bc01dde85c6",
+      "primeira_diferenca": {
+        "posicao": 2621,
+        "fonte": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: *Subseção I - Teto Tarifário* 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, co",
+        "md": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: Subseção I - Teto Tarifário 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, conf"
+      }
+    },
+    {
+      "path": "reguladores/anac/portarias/2021/portaria-n-6.664-de-10-de-dezembro-de-2021-367741319.md",
+      "sha256_md": "dae56026942c721ac610f6aa725b9e64239fbe8192cf4450a18304cf1fadc5db",
+      "sha256_fonte": "402c5fa437b91886dc1af88269ac951547d5216aef928cc0be292453c560e241",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "bd6d1f8d9314169ab440b2bd6011e3707f24a8ebc7e89bb11ab7590b6658c4e1",
+      "sha256_visivel_md": "5da6083bae16fcdde9151cf45a025cdaa534aab6021afd41d69303c4cb6ac678",
+      "primeira_diferenca": {
+        "posicao": 2620,
+        "fonte": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: *Subseção I - Teto Tarifário* 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, co",
+        "md": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: Subseção I - Teto Tarifário 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, conf"
+      }
+    },
+    {
+      "path": "reguladores/anac/portarias/2021/portaria-n-6.665-de-10-de-dezembro-de-2021-367956698.md",
+      "sha256_md": "6e296afed95fdb5d44b1c9a98d57e68f187f4425461c48942bd2e6bf153ad209",
+      "sha256_fonte": "e36cc1b0df0292664be91b96a73227b9ad84ad5045036007150e0a955b5cc358",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "972046b93cfd1a6a8d05506e3e1142080c4e53b1baf8ac1f2128d5a776b3d29c",
+      "sha256_visivel_md": "e5a2f1fffbfae3f080973e156b948a6137706eebb9fcf27af2a838c68e718c4f",
+      "primeira_diferenca": {
+        "posicao": 2550,
+        "fonte": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: *Subseção I - Teto Tarifário* 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, co",
+        "md": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: Subseção I - Teto Tarifário 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, conf"
+      }
+    },
+    {
+      "path": "reguladores/anac/portarias/2021/portaria-n-6.666-de-10-de-dezembro-de-2021-367964539.md",
+      "sha256_md": "be8525ef40fc86f3062c4d6530d2d8076a233d92c019b5847232734efaba2873",
+      "sha256_fonte": "563cb37fc60376b2a67d910875d5996054f29a695fc748b1504794ebba83e739",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "203a455df57d22b18cdeb8feb96702e17ef67613cd3a48311f5030b862b10216",
+      "sha256_visivel_md": "b8efd4f71abbb1fcf7d284ef800cb1e0063dfedba4380d987097ac12437ec05f",
+      "primeira_diferenca": {
+        "posicao": 2652,
+        "fonte": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: *Subseção I - Teto Tarifário* 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, co",
+        "md": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: Subseção I - Teto Tarifário 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, conf"
+      }
+    },
+    {
+      "path": "reguladores/anac/portarias/2021/portaria-n-6.667-de-10-de-dezembro-de-2021-367967366.md",
+      "sha256_md": "c5257506c2ee65b24f777e3808678a484312382d0dbc3052eea18ad074ddc48f",
+      "sha256_fonte": "312647555503c9b5494bf48066977347ba1f30d4f5ab1314c92834e396d6fda0",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "effddc6213e08a802d583d853caee2874fc0c6a54351a4b4ee1cd00df3097c6f",
+      "sha256_visivel_md": "740684c272d19eebd12113e8a83fa9d3eae0093f5b2e3df6ab50c042581723e9",
+      "primeira_diferenca": {
+        "posicao": 2680,
+        "fonte": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: *Subseção I - Teto Tarifário* 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, co",
+        "md": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: Subseção I - Teto Tarifário 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, conf"
+      }
+    },
+    {
+      "path": "reguladores/anac/portarias/2021/portaria-n-6.701-de-13-de-dezembro-de-2021-370062849.md",
+      "sha256_md": "efcd3b926adb9bd928f348ed8c47ce003b0cd79496147be64f3d10bcece14f79",
+      "sha256_fonte": "b0e5dc2839a38d21fc59831f15553cf0d3e9ae939af09159f4ffca71ceb423c5",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "0291d748b018cb4719441af71b50801ed42152d682fc323b6a6483354975ac8b",
+      "sha256_visivel_md": "13c9ea9cbc2bfb23a63d0aa616ba09d99ae2d15c006aa227894f09cf6a4a5c6e",
+      "primeira_diferenca": {
+        "posicao": 2444,
+        "fonte": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: *Subseção I - Teto Tarifário* 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, co",
+        "md": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: Subseção I - Teto Tarifário 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, conf"
+      }
+    },
+    {
+      "path": "reguladores/anac/portarias/2022/portaria-n-10.001-de-9-de-dezembro-de-2022-452398720.md",
+      "sha256_md": "bfa512a4accc10ba7bb20144f19c08826c29f6f1a5457ba9da7d7efa559542b2",
+      "sha256_fonte": "02cefb485a0a17eb1cb70cc57a07a4ccd3cf8198d53cfcc7eac635cd23ae0898",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "047a2204bb453534c03f16fbd092f12df4fed72ba578331e3554c127ef4ff026",
+      "sha256_visivel_md": "4d66755891903eea185a67e8194e2b60240475ba91993f08b7c5ce7a510b0cf5",
+      "primeira_diferenca": {
+        "posicao": 2835,
+        "fonte": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: *Subseção I - Teto Tarifário* 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, co",
+        "md": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: Subseção I - Teto Tarifário 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, conf"
+      }
+    },
+    {
+      "path": "reguladores/anac/portarias/2022/portaria-n-10.002-de-9-de-dezembro-de-2022-452398798.md",
+      "sha256_md": "3939f939f77dd2c7b5c859940cf5b21cd0c684b40b33548a604863afbed7675f",
+      "sha256_fonte": "bbb8be778ffd1b6b24abdce57b0f94496993830813748ab2c619a9b8fe0faab6",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "eaf108558ab666b1060cc0bf48da7d8293020fdf6006df00d1eec6b92e25e3b4",
+      "sha256_visivel_md": "ed11a7026c2397e0b2c9722fe63c2e28faf5120629c59af81e8cbe7e1ac8a75f",
+      "primeira_diferenca": {
+        "posicao": 3860,
+        "fonte": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: *Subseção I - Teto Tarifário* 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, co",
+        "md": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: Subseção I - Teto Tarifário 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, conf"
+      }
+    },
+    {
+      "path": "reguladores/anac/portarias/2022/portaria-n-10.003-de-9-de-dezembro-de-2022-452394992.md",
+      "sha256_md": "d869cdcd596ba8db722edd54841bb35fd02d8028afdee0d9cc243751e77aef69",
+      "sha256_fonte": "1e714144caa009f5ce207d235c29d3ce0da5ae8e2ef625f655e818675beb7d7c",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3e2a8ce41b4c737c00deec00c73eddbe42ab74c7150d21851921f4df321eb7d3",
+      "sha256_visivel_md": "2a414d893fb3e25ceaaee9700cdfa5c574a41cd7a3333a57cfa8e2c32c0db2d7",
+      "primeira_diferenca": {
+        "posicao": 2899,
+        "fonte": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: *Subseção I - Teto Tarifário* 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, co",
+        "md": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: Subseção I - Teto Tarifário 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, conf"
+      }
+    },
+    {
+      "path": "reguladores/anac/portarias/2022/portaria-n-10.004-de-9-de-dezembro-de-2022-452395114.md",
+      "sha256_md": "7bf2b285b2957af1253475fe22f85ca6219bd7c5f13810c8c5b51657960c0bc7",
+      "sha256_fonte": "af8a69c11f0ff6f18c951a8461f027b6acc8b7e355e0f73a673dcd8608d8a64b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "9dbeee56cc58d443bcc35f138794450e07d27cd2f8c648d0a2b80640e2a7bfc4",
+      "sha256_visivel_md": "28f118f8ec83e24caa0193fa459d9e3815cb2da5ced0c9d35320503e9592bd46",
+      "primeira_diferenca": {
+        "posicao": 2876,
+        "fonte": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: *Subseção I - Teto Tarifário* 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, co",
+        "md": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: Subseção I - Teto Tarifário 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, conf"
+      }
+    },
+    {
+      "path": "reguladores/anac/portarias/2022/portaria-n-10.005-de-9-de-dezembro-de-2022-452395196.md",
+      "sha256_md": "ffc2a009464c667f099020b25258eb1569274f9bc5f7a092f1b3eae50bc28c3c",
+      "sha256_fonte": "dfffbd8651e5a375c30cc29b9af81fd19f75e925f4dc2c17a0e975c9c9118bf7",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "69c985a76515a53a171eeb87535fb803fa267794326f8813c214cdddbe171919",
+      "sha256_visivel_md": "175d7377f0d23c907453f7025669ad6203de8f7568c35d2bd28fb39b62b46b9e",
+      "primeira_diferenca": {
+        "posicao": 2771,
+        "fonte": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: *Subseção I - Teto Tarifário* 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, co",
+        "md": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: Subseção I - Teto Tarifário 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, conf"
+      }
+    },
+    {
+      "path": "reguladores/anac/portarias/2022/portaria-n-10.134-de-26-de-dezembro-de-2022-454501995.md",
+      "sha256_md": "dfd476021609a58a2618896b5183a78e3d7e4b249c932b66081c22083b916b7d",
+      "sha256_fonte": "03ba577d867d86ffdd4c7f132b01db2bc0c9e439621beb26c0562a764ebcd3e3",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c6236df6059dcddbd2f14c5f802505d6d93408af98dd2d37b80569ab651bb701",
+      "sha256_visivel_md": "ff62b0d9b4b498ad63ab1a4ab8808ad7500387469cefc9e03c4ab2cae8b12cfd",
+      "primeira_diferenca": {
+        "posicao": 3467,
+        "fonte": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: *Subseção I - Teto Tarifário* 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, co",
+        "md": "evistas nas cláusulas 6.4 e 6.5 do Contrato de Concessão, a seguir transcritas: Subseção I - Teto Tarifário 6.4. O Teto Tarifário será reajustado a cada 12 (doze) meses, sempre em dezembro, com vigência para o ano-calendário posterior, conf"
+      }
+    },
+    {
+      "path": "reguladores/aneel/resolucoes/2021/resolucao-normativa-aneel-n-962-de-14-de-dezembro-de-2021-368343375.md",
+      "sha256_md": "c71c6377852b86af66891bb5626c5ee2509338a1f24fc51a3fb38ee0a27fbc31",
+      "sha256_fonte": "18e09212bca626ee0ec0a139209086ee4a824540b4b36da0dfc6485c7f2c894d",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              140,
+              142
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              146,
+              148
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              152,
+              154
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ")",
+            "linhas": [
+              158,
+              160
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ")",
+            "linhas": [
+              168,
+              170
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ")",
+            "linhas": [
+              176,
+              178
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 7,
+            "markup": ")",
+            "linhas": [
+              180,
+              182
+            ]
+          },
+          "html_start": "7",
+          "inicio_efetivo": 7,
+          "contadores": [
+            7
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "dfdba2df79913727d2c13bc347f46f63a0be56bd13e4ec874c9fcf1d9d8f576d",
+      "sha256_visivel_md": "dfdba2df79913727d2c13bc347f46f63a0be56bd13e4ec874c9fcf1d9d8f576d"
+    },
+    {
+      "path": "reguladores/anm/portarias/2020/portaria-n-364-de-18-de-junho-de-2020-262407158.md",
+      "sha256_md": "e4f901c8fa0fffc82ec25e4ab51b7936b8559dd1fcd260b68c4ab9b739843fe6",
+      "sha256_fonte": "126c115bfebdaf681246de0a38fd34721cd059fa3d432b0e245fa3ad63ee57b1",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              18,
+              20
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              32,
+              34
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "12bf5ebf461947e83f4f9ed3c0ec42694dbc9b687e4b7f9928411ef27f2816b4",
+      "sha256_visivel_md": "12bf5ebf461947e83f4f9ed3c0ec42694dbc9b687e4b7f9928411ef27f2816b4"
+    },
+    {
+      "path": "reguladores/anp/resolucoes/2022/resolucao-anp-n-887-de-28-de-setembro-de-2022-432611542.md",
+      "sha256_md": "b304406bb7c31e10af622c8b39b1b6dae63054dfc85bf00c9387e87bdc55aa5f",
+      "sha256_fonte": "a07e95a563e8bc56add9b712b36293b18bcba1a74f2b6f94300c892c4f826384",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "88dbf890ed11d48e1687c57a95d833388bae7ce2be368ea7f2052a5d95758974",
+      "sha256_visivel_md": "ef734282e8ad2100f03b0d0f4148d3ca0891be8f9aa6c3e977d6330eb18d4bf0",
+      "primeira_diferenca": {
+        "posicao": 24520,
+        "fonte": "231° 44' 38,33'' e distância de 511,21 m, atravessando estrada vicinal e curso d`água até o vértice V99 de coordenadas N=7.570.172,084 m e E=274.672,266 m; deste ponto, segue com azimute 240° 03' 26,86'' e distância de 107,67 m (metros) até",
+        "md": "231° 44' 38,33'' e distância de 511,21 m, atravessando estrada vicinal e curso dágua até o vértice V99 de coordenadas N=7.570.172,084 m e E=274.672,266 m; deste ponto, segue com azimute 240° 03' 26,86'' e distância de 107,67 m (metros) até "
+      }
+    }
+  ]
+}

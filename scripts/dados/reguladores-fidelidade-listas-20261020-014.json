@@ -1,0 +1,2621 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "74c9586f924c7da5758fdc60e4cbec65dd89dd61eb9c7e78564c5904d47d33a9",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "revisar": 92,
+    "iguais": 30
+  },
+  "documentos": [
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-943-de-22-de-marco-de-2023-472728200.md",
+      "sha256_md": "d360144ce9c01290f74a5749695c383987ed597deac3cc5d5b5fa53afd8a4668",
+      "sha256_fonte": "5593328d6f95306072834ee4a11067d5c8d08830f1ff098c374207b7772cc0ed",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3721ff4832625cff636a3d4514546a24fc3dcf3da6626f48132bc4dc5beac1ad",
+      "sha256_visivel_md": "8d91fe15eccd34726d0adbf5aefbea1262e7e3eb440418f32f0bfe704c48d687",
+      "primeira_diferenca": {
+        "posicao": 614,
+        "fonte": "CNPJ NOME DO PRODUTO NÚMERO DO PROCESSO / REGISTRO PETIÇÃO(ÕES) / EXPEDIENTE(S) -------------------------------------- BEBE BISTRO PAPINHAS E COMIDINHAS LTDA / 34.786.755/0001-85 SOPINHA DE ARROZ INTEGRAL,FEIJÃO PRETO, COUVE E CARNE 25351.1",
+        "md": "CNPJ NOME DO PRODUTO NÚMERO DO PROCESSO / REGISTRO PETIÇÃO(ÕES) / EXPEDIENTE(S) BEBE BISTRO PAPINHAS E COMIDINHAS LTDA / 34.786.755/0001-85 SOPINHA DE ARROZ INTEGRAL,FEIJÃO PRETO, COUVE E CARNE 25351.115286/2022-91 / 675730059 4065 - Regist"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-698-de-2-de-marco-de-2023-467799021.md",
+      "sha256_md": "863daff6d04ec64d95785806df6541980c8786208f6303673d22e5c6d4caf5fc",
+      "sha256_fonte": "a2861bfb8bb9ee44af0997c512c2b26598a972e205061b24256562f63de4fb6c",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "358f57c5c1864bf2685502247884e1b7db542ef55fafda9bf458e3c19caa1534",
+      "sha256_visivel_md": "cd48870c99279441685f27389a7c740223bf2d5fba6f74325e6eb4417667bf07",
+      "primeira_diferenca": {
+        "posicao": 978,
+        "fonte": "SSUNTO PETIÇÃO MATRIZ - EXPEDIENTE MATRIZ - PROCESSO MATRIZ) APRESENTAÇÕES M.S. -------------------------------------------------- HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA METRONIDAZOL 25351.004792/2003-93 0100051/23-9 GENÉRICO - Mudança relac",
+        "md": "SSUNTO PETIÇÃO MATRIZ - EXPEDIENTE MATRIZ - PROCESSO MATRIZ) APRESENTAÇÕES M.S. HALEX ISTAR INDÚSTRIA FARMACÊUTICA SA METRONIDAZOL 25351.004792/2003-93 0100051/23-9 GENÉRICO - Mudança relacionada a embalagem, acessório ou diluente decorrent"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.567-de-4-de-maio-de-2023-481523022.md",
+      "sha256_md": "ae98f659ef0afa5f3ef78cbcc032091eecfeec5a9958dbaa06a7b7c74946299f",
+      "sha256_fonte": "a63b4aa8c567d96f88c32b5dc5034bcbf253b25ca2b44828c1eaa39c162719f2",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d167db104f8fd5d927d0891688b7632ad75c1a60ad0be2d42b812f1fcd454a2b",
+      "sha256_visivel_md": "05d0cc8481db0d706ce705c8611ac3c4b8516e1c5119354193f72d7e915b09bc",
+      "primeira_diferenca": {
+        "posicao": 883,
+        "fonte": "409680003 287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 4519199/22-1 -------------------------------------- BEIERSDORF INDÚSTRIA E COMÉRCIO LTDA / 01.786.983/0001-04 NIVEA SUN PROTETOR SOLAR FACIAL FPS 60 25351.292081/2022-29 / 2",
+        "md": "409680003 287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 4519199/22-1 BEIERSDORF INDÚSTRIA E COMÉRCIO LTDA / 01.786.983/0001-04 NIVEA SUN PROTETOR SOLAR FACIAL FPS 60 25351.292081/2022-29 / 227210776 2871 - REG. COSMÉTICOS - Regis"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-119-de-12-de-janeiro-de-2023-457964616.md",
+      "sha256_md": "1f89cca193ec2e873651016433b92f23eb7e8aaa782c15dad3ea6f3794e42377",
+      "sha256_fonte": "9688b41df99712d103304de16fb1d4757bcf68191153b3cfeabd9125cf7916ef",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "a015f69aeb4f3d5a3be7bec667d15f3542b663d00342860291e066fa4ba25789",
+      "sha256_visivel_md": "8bd12ef3923db1105c0e026bba39d504c994b3677071fdaef875e8767cfd883b",
+      "primeira_diferenca": {
+        "posicao": 680,
+        "fonte": "IENTE NUMERO DE REGISTRO VALIDADE APRESENTAÇÃO DO PRODUTO PRINCIPIO(S) ATIVO(S) ---------------------------- AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA 04301884000175 hemitartarato de zolpidem 25351.667318/2011-75 12/2031 11106 RDC 73",
+        "md": "IENTE NUMERO DE REGISTRO VALIDADE APRESENTAÇÃO DO PRODUTO PRINCIPIO(S) ATIVO(S) AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA 04301884000175 hemitartarato de zolpidem 25351.667318/2011-75 12/2031 11106 RDC 73/2016 - GENÉRICO - AMPLIAÇÃO "
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1020-de-24-de-marco-de-2023-472730096.md",
+      "sha256_md": "c67ed4ab28bd61bef03da342386f5725aab49934a8bc21ec2469cf64f2c0ab4f",
+      "sha256_fonte": "47c0c898a7c8315e876e8bf313e5430b537988e8165666dd4a976ceb47327db9",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "843bcef401a86f44bdd915dec5848e2cd640aa6cb3b852ce2ebaf81fc511c061",
+      "sha256_visivel_md": "3dc4e58f7a06d22ac5d8bdd0352400f042d0f76b2856ebb89b96c2508e30a7a6",
+      "primeira_diferenca": {
+        "posicao": 1136,
+        "fonte": " 8.077/13, a Autorização emitida pela Anvisa precede o licenciamento sanitário. -------------------------------------- EMANOEL SOARES DE CARVALHO LTDA / 28.519.252/0001-40 25351.109591/2023-25 / 702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMO",
+        "md": " 8.077/13, a Autorização emitida pela Anvisa precede o licenciamento sanitário. EMANOEL SOARES DE CARVALHO LTDA / 28.519.252/0001-40 25351.109591/2023-25 / 702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA (SOMENT"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.380-de-20-de-abril-de-2023-478613801.md",
+      "sha256_md": "91f67ac01b2742bd0c94a8cd8d2c083c457aa60794e831e8fc00bd4eecf05634",
+      "sha256_fonte": "613ef6df14f16b2de48bdf236209ec4fc76496904298bbe9fa81a82c60fe2f5f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "fb9d1edc24227e7d4886a978ef2c004237017a16ebc1bb305c9fda8873d7d834",
+      "sha256_visivel_md": "5620c3ea4c26f9b9ae619f0479052659422ce02d3bc4073a7a24c5c06c61effa",
+      "primeira_diferenca": {
+        "posicao": 781,
+        "fonte": "7 25351.490954/2017-08 / 1169355 70804 - AE - ALTERAÇÃO - ENDEREÇO / 0184375231 -------------------------------------- PARAMED DISTRIBUIDORA DE MEDICAMENTOS LTDA / 16.647.278/0001-95 25351.919440/2016-26 / 1152577 70803 - AE - ALTERAÇÃO - R",
+        "md": "7 25351.490954/2017-08 / 1169355 70804 - AE - ALTERAÇÃO - ENDEREÇO / 0184375231 PARAMED DISTRIBUIDORA DE MEDICAMENTOS LTDA / 16.647.278/0001-95 25351.919440/2016-26 / 1152577 70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0225435233 Boehringer Ing"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-920-de-20-de-marco-de-2023-471614510.md",
+      "sha256_md": "9072430e739e9d3181670316946e9f6609daddf65114c1d8f5380512dc00b38e",
+      "sha256_fonte": "347359082719a4b8856729240fad0c5bd4d3a2f0badb60ea08a42fe7528ed3c8",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8f3705cda693d62ac84a7c2b505d08ebf08184438bc27ba43b0850a45360de35",
+      "sha256_visivel_md": "03cee467d28115e6b01c8a024f82cd233a4b86f7dd0e24d6f20de31220a8b182",
+      "primeira_diferenca": {
+        "posicao": 645,
+        "fonte": "5/2010-46 / 8075008 877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0217337236 -------------------------------------- J.M.R. COSMETICOS LTDA - ME / 22.408.212/0001-45 25351.438468/2015-93 / 2082594 729 - AFE - CANCELAMENTO - COSMÉTICOS, PE",
+        "md": "5/2010-46 / 8075008 877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0217337236 J.M.R. COSMETICOS LTDA - ME / 22.408.212/0001-45 25351.438468/2015-93 / 2082594 729 - AFE - CANCELAMENTO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE / 44674092"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-438-de-8-de-fevereiro-de-2023-463874671.md",
+      "sha256_md": "798e0ad4c55c4893d339c2c2ef6bacdcca3df53a394ee2944d35f3ae9e1e4f65",
+      "sha256_fonte": "851e91ab0577efdcaef37fbfa33560942b012fc3c981ba1e334eff140ecc0c92",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "df398ab4dcfe661bf2902fbcff2a3e7e804908322ff599bed8869f05059bd4f7",
+      "sha256_visivel_md": "ef8f44abf4c1641ee26d8cec58b33c2ac4608ccb09144321886f6c2bb6d26e34",
+      "primeira_diferenca": {
+        "posicao": 1134,
+        "fonte": "Subsidiado por relatório de inspeção, requisito necessário para decisão do ato. ------------------------------------------------------------------------------------ Empresa: Intus Produtos Médicos Ltda. CNPJ: 20.986.153/0001-67 Endereço: Ru",
+        "md": "Subsidiado por relatório de inspeção, requisito necessário para decisão do ato. Empresa: Intus Produtos Médicos Ltda. CNPJ: 20.986.153/0001-67 Endereço: Rua do Albatroz, nº 392, Cidade Universitária-Pedra Branca, Palhoça - SC CEP: 88137-290"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.646-de-11-de-maio-de-2023-483075652.md",
+      "sha256_md": "50236a0cbd6bacb795cd49efb876369f482c45a5630b23fe7b8720e72b072789",
+      "sha256_fonte": "9a838585171b642132e53192991a40381934ccbe0f027a417ba883a8c365d890",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "25562f325195364e51b326a29dce7db34e3bea2ad93461d03337623ea9ad2bbc",
+      "sha256_visivel_md": "4307fc410b01d6503b400255a8a74a3cbf311b221183cdd5bf786d501fbb4c9b",
+      "primeira_diferenca": {
+        "posicao": 606,
+        "fonte": " EMPRESA / CNPJ NOME DO PRODUTO NÚMERO DO PROCESSO PETIÇÃO(ÕES) / EXPEDIENTE(S) -------------------------------------- JGS INDUSTRIA E COMERCIO DE ALIMENTOS LTDA / 26.691.705/0001-96 Suplemento alimentar de Lactobacillus Rhamnosus HN001 em ",
+        "md": " EMPRESA / CNPJ NOME DO PRODUTO NÚMERO DO PROCESSO PETIÇÃO(ÕES) / EXPEDIENTE(S) JGS INDUSTRIA E COMERCIO DE ALIMENTOS LTDA / 26.691.705/0001-96 Suplemento alimentar de Lactobacillus Rhamnosus HN001 em pó 25351.068430/2023-74 4077 - Registro"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-906-de-17-de-marco-de-2023-471304399.md",
+      "sha256_md": "8a4eac34314ff6664efceb638f309c076d8f7f6e11d5c65e8e370bca6e93e3de",
+      "sha256_fonte": "978471f3d2f8b3a0ee9ea3bb117d4cc67b57a14977816563051af60d9de12d31",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "179648c9548ed8973ce233045abcc9e92a2882ae6b994dd59864694f10bd0ed1",
+      "sha256_visivel_md": "6cc0a379db962956a64978ca1bbe64f948f9840b98e7d1bb3d622d67b2feb500",
+      "primeira_diferenca": {
+        "posicao": 778,
+        "fonte": "-11 / 3105303 719 - AFE - CANCELAMENTO - SANEANTES DOMISSANITÁRIOS / 0074211234 -------------------------------------- INOVAFARMA COMERCIO DE MEDICAMENTOS LTDA / 40.057.037/0001-70 25351.192081/2022-20 / 7889907 7044 - AFE - CANCELAMENTO - ",
+        "md": "-11 / 3105303 719 - AFE - CANCELAMENTO - SANEANTES DOMISSANITÁRIOS / 0074211234 INOVAFARMA COMERCIO DE MEDICAMENTOS LTDA / 40.057.037/0001-70 25351.192081/2022-20 / 7889907 7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0083195238 BMC "
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-525-de-16-de-fevereiro-de-2023-465430879.md",
+      "sha256_md": "6d7a6272bf28ba1ae848781587d65c9798581e701f5885829511536f353334b4",
+      "sha256_fonte": "25c3ae96632c2a6bee478d55ba721d1a4c204e057d900afa424950760f2cd45a",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "da64cac3498f47dd80f2010df6d8165005c2234bc0e4f9eafdcb259faecc24b2",
+      "sha256_visivel_md": "e28b65da091e3412a8e4240b25a583c65c9dc046a76a9b8d56c81b13f7982754",
+      "primeira_diferenca": {
+        "posicao": 1555,
+        "fonte": "NOME DO MEDICAMENTO NÚMERO DO PROCESSO EXPEDIENTE DA PETIÇÃO ASSUNTO DA PETIÇÃO -------------------------------------------------------------------------------- ACCORD FARMACÊUTICA LTDA PELGRAZ 25351287427201971 4290110223 PRODUTOS BIOLÓGIC",
+        "md": "NOME DO MEDICAMENTO NÚMERO DO PROCESSO EXPEDIENTE DA PETIÇÃO ASSUNTO DA PETIÇÃO ACCORD FARMACÊUTICA LTDA PELGRAZ 25351287427201971 4290110223 PRODUTOS BIOLÓGICOS - 30. Alterações do recipiente primário para armazenamento e transporte da sub"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.813-de-22-de-maio-de-2023-484895001.md",
+      "sha256_md": "57c0fe2241b309053a5a8028bd2f9db2a334dc70624d2dafa43bd587266dedd4",
+      "sha256_fonte": "391f3adf49a185711b53529e07370b4a95297a4d68ed06edd7c5e96f807b60cc",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c477c01d550f9a829b6defc46924b65539d8aa0a6e06f14504a68a97366cc26e",
+      "sha256_visivel_md": "b4a5c65905deaf8a76f9d438b82f27924f16a56c166a6ff7f964d8b5e22cfab3",
+      "primeira_diferenca": {
+        "posicao": 670,
+        "fonte": "0/2022-07 / 8253805 877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0483937231 -------------------------------------- ORTOS COMÉRCIO DE PRODUTOS MÉDICOS HOSPITALARES LTDA / 67.509.075/0001-73 25351.340933/2005-09 / 8027041 877 - AFE - CANC",
+        "md": "0/2022-07 / 8253805 877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0483937231 ORTOS COMÉRCIO DE PRODUTOS MÉDICOS HOSPITALARES LTDA / 67.509.075/0001-73 25351.340933/2005-09 / 8027041 877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 047325"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-31-de-5-de-janeiro-de-2023-456637020.md",
+      "sha256_md": "1f13779c05765e4f7218f3e43189803ca81311b05ebe9241cba83923b2e09d98",
+      "sha256_fonte": "89ac8bb957ff805106f36d213adcfd807654f39663776d628fe9f0cfb9a12f60",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d48b0e9d76463580239ad3aa257c2c35f66efff07755f7a5bcce840e4543a742",
+      "sha256_visivel_md": "445b86168b2a340e9a54f33bb96771f013628801eb39be80cf1fbaee4b5e47a5",
+      "primeira_diferenca": {
+        "posicao": 648,
+        "fonte": "4785 7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0006862233 -------------------------------------- ALESANDRA REGINA DA SILVA LTDA / 33.085.593/0001-95 25351.223397/2019-75 / 7648184 7110 - AFE - ALTERAÇÃO - FARMÁCIAS E D",
+        "md": "4785 7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0006862233 ALESANDRA REGINA DA SILVA LTDA / 33.085.593/0001-95 25351.223397/2019-75 / 7648184 7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0006991238 B."
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.187-de-6-de-abril-de-2023-475816393.md",
+      "sha256_md": "c83cef2d69ababc1d6f9e2a941f231d96019a9a44865334ee816bfff300398c3",
+      "sha256_fonte": "9a496f68cb7c788956b95534068aa0dbffd56825f3098755564f845e0177e9c7",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "6334970141b76afda7c5b593401738e21f2ec24a77de20e81bc9e45d4c3daa2f",
+      "sha256_visivel_md": "0163acc39d157fa4615ea21b1f26bc14ff3af2f6a8c2db424a4b96e45790a0be",
+      "primeira_diferenca": {
+        "posicao": 672,
+        "fonte": "0 732 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - RAZÃO SOCIAL / 5034611228 -------------------------------------- LIBBS FARMACÊUTICA LTDA / 61.230.314/0001-75 25351.162045/2005-31 / 2040337 751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES ",
+        "md": "0 732 - AFE - ALTERAÇÃO - SANEANTES DOMISSANITÁRIOS - RAZÃO SOCIAL / 5034611228 LIBBS FARMACÊUTICA LTDA / 61.230.314/0001-75 25351.162045/2005-31 / 2040337 751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - ENDEREÇO MATRIZ"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-237-de-24-de-janeiro-de-2023-459830132.md",
+      "sha256_md": "751f9d11b50c76faf15f086a675af1bce413c66ff8bbdfb3a49947308939b049",
+      "sha256_fonte": "9ab515ae0b33f177e136872e7464203a696f84d009765b083d6c4dd71c272d6a",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "90f387b8e5a282442a05a14aa55214a51d6e8294f300267e65ae4759a8668338",
+      "sha256_visivel_md": "b32d4c756794fa172b1e2b48d4450ad79f344223ef9adcd4b9123e31722a0d2a",
+      "primeira_diferenca": {
+        "posicao": 903,
+        "fonte": "PJ MEDICAMENTO EXPERIMENTAL DI NÚMERO DE PROCESSO EXPEDIENTE ASSUNTO DE PETIÇÃO ------------------------------------------------------------------------------------------------------------------- PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A.",
+        "md": "PJ MEDICAMENTO EXPERIMENTAL DI NÚMERO DE PROCESSO EXPEDIENTE ASSUNTO DE PETIÇÃO PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. - 33.009.945/0001-23 Inavolisibe 57/2020 25351.465136/2022-26 4852283/22-0 10818 - ENSAIOS CLÍNICOS - Modificação d"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-394-de-2-de-fevereiro-de-2023-462325624.md",
+      "sha256_md": "cbd0be8a12c96d7a3a091aa202854c1db9a3897ad16f85dc00ce26f64275f0fa",
+      "sha256_fonte": "ac889518df58005ef3f541f9f4861c5f824251caae6427da5667273f85332fce",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "0b833d705c6f18026cc5c12aeb8e78ab46d8a38acba70250266ef4cd965626f9",
+      "sha256_visivel_md": "a0fe537eb012a70831bc43d1da49456b1713b4b0e26214c5a0b303ef0af795ab",
+      "primeira_diferenca": {
+        "posicao": 1156,
+        "fonte": "s: Insumos farmacêuticos ativos biológicos: intermediário enfortumabe vedotina. --------------------------------------------------------------------------------------------------- Fabricante: Biotest AG Endereço: Landsteinerstrasse 5, 63303",
+        "md": "s: Insumos farmacêuticos ativos biológicos: intermediário enfortumabe vedotina. Fabricante: Biotest AG Endereço: Landsteinerstrasse 5, 63303 Dreieich País: Alemanha Código único: A.000111 Solicitante: Biotest Farmacêutica Ltda. CNPJ: 33.348"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-959-de-23-de-marco-de-2023-472376376.md",
+      "sha256_md": "6584d679f2d1823d607f6438eba99d416d1a1e2f6b15b754ec4a980afd6e5f2a",
+      "sha256_fonte": "65ae9fc66985f6097d0567e11467e39cc1fd04f2e2b379a2e351d785529bf08b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "778f382303e2fc7fc5bd0d04f2a51e5c21f7097fc0530d3dd6b370ec4a9d48f8",
+      "sha256_visivel_md": "ccaef47e91c60131db7242e3d86890fdc120768b5fe6e4d9a14f6c9d46389f4f",
+      "primeira_diferenca": {
+        "posicao": 800,
+        "fonte": "0/2023-60 / 1288528 705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0184271231 -------------------------------------- ALFA7 DISTRIBUIDORA DE PRODUTOS HOSPITALARES E MEDICAMENTOS LTDA / 48.584.513/0001-13 25351.114164/2023-69 / 1288514 704 ",
+        "md": "0/2023-60 / 1288528 705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0184271231 ALFA7 DISTRIBUIDORA DE PRODUTOS HOSPITALARES E MEDICAMENTOS LTDA / 48.584.513/0001-13 25351.114164/2023-69 / 1288514 704 - AE - CONCESSÃO - MEDICAMENTOS E INSUM"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.711-de-12-de-maio-de-2023-483655083.md",
+      "sha256_md": "1832d32b394ad3241dffe14782faf80f6bc9884d94af40993d58d207a2113369",
+      "sha256_fonte": "e1482142392ffa90c45be7cea8487b07c018990c495f09af45e74ed886ac4dc8",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "a964c8753de71ed3db732ee6dafa54fa690c2c0ae44c345161a3a34f2123b051",
+      "sha256_visivel_md": "a05b72cd6b0a1132cb76cd484f4106e1a7fe1ffa35b512a80e55b5b88d3f5578",
+      "primeira_diferenca": {
+        "posicao": 755,
+        "fonte": "ncelamento de Notificação de Produto de Risco 1 por ato de ofício. / 0456852234 -------------------------------------- BRASCOM DO NORDESTE INDÚSTRIA E COMÉRCIO LTDA. / 34.347.112/0001-35 ALVECOM PE 25351.616332/2009-06 / 3199 - Cancelamento",
+        "md": "ncelamento de Notificação de Produto de Risco 1 por ato de ofício. / 0456852234 BRASCOM DO NORDESTE INDÚSTRIA E COMÉRCIO LTDA. / 34.347.112/0001-35 ALVECOM PE 25351.616332/2009-06 / 3199 - Cancelamento de Notificação de Produto de Risco 1 p"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-588-de-22-de-fevereiro-de-2023-466159368.md",
+      "sha256_md": "eb5559a63ec6e5d046eee5f8adfcce9612836c69cf28516bf942cf436945663f",
+      "sha256_fonte": "05fe6021d3989c0609d419490a4c102b2bd277cc659c9d49b3052f785ad7edce",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "a2adf080c047a5c6ecb9957dbb0930e2438732d91269f69ce4eb315683598cb1",
+      "sha256_visivel_md": "f37a3eedf7894248533d4971e2534af464dcc8722b72bd48a4b229a567f33284",
+      "primeira_diferenca": {
+        "posicao": 1148,
+        "fonte": "ades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa. ---------------------------------------------------------------------------------- Fabricante: Allergan Industrie S.A.S. Endereço: Route de Promery, Zone Artisa",
+        "md": "ades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa. Fabricante: Allergan Industrie S.A.S. Endereço: Route de Promery, Zone Artisanale de Pré-Mairy, Pringy, Annecy, 74370, França Solicitante: Allergan Produtos Far"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-772-de-9-de-marco-de-2023-469401565.md",
+      "sha256_md": "c19bb26b417dd3354ee790a667f7dae9d2a1979e4602173ce7a4a48238f9390f",
+      "sha256_fonte": "c2502c8e684eff8e77f0aa6f76855c61d8aad31ff2e076cd63ccad4a2a6a3882",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e3c8a69c486dbaf6259a74877038a30a6a457a72f8695402893b9d5bccbdaca6",
+      "sha256_visivel_md": "d07c16c56f9817daea14e827e343cf8f563ad1d16d88818d81d5dcb8f08dd64b",
+      "primeira_diferenca": {
+        "posicao": 1217,
+        "fonte": "RCIAL NÚMERO DO PROCESSO PETIÇÃO(ÕES), EXPEDIENTE(S) CLASSIFICAÇÃO TOXICOLÓGICA ----------------------------- FUHUA BRASIL COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - 25.127.323/0001-71 GLIFUMAX 25351.073175/2020-39 5065 - PRODUTO FORMULADO COM BA",
+        "md": "RCIAL NÚMERO DO PROCESSO PETIÇÃO(ÕES), EXPEDIENTE(S) CLASSIFICAÇÃO TOXICOLÓGICA FUHUA BRASIL COMÉRCIO DE PRODUTOS QUÍMICOS LTDA - 25.127.323/0001-71 GLIFUMAX 25351.073175/2020-39 5065 - PRODUTO FORMULADO COM BASE EM PRODUTO TÉCNICO EQUIVALE"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-642-de-27-de-fevereiro-de-2023-466490710.md",
+      "sha256_md": "d3cf513cca8dfe94f03a80d3d970ec9fa09a6c443b23bf69ac726fc3a217d5db",
+      "sha256_fonte": "a0b136d44eee8b5ff3346f9e9855f008e8253e173e814d363caf2fc51199ebb9",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "99632f66ac72bcf131781fd56db13ac94e1c47b7de6c5e768b94d0613a178cc2",
+      "sha256_visivel_md": "742153326f8a29f1a0af8eeaffc30f0e11086db1d2608920accd156476647667",
+      "primeira_diferenca": {
+        "posicao": 649,
+        "fonte": "PJ MEDICAMENTO EXPERIMENTAL CE NÚMERO DE PROCESSO EXPEDIENTE ASSUNTO DE PETIÇÃO ------------------------------------------------------------------------------------------------------------------- JANSSEN-CILAG FARMACÊUTICA LTDA - 51.780.468",
+        "md": "PJ MEDICAMENTO EXPERIMENTAL CE NÚMERO DE PROCESSO EXPEDIENTE ASSUNTO DE PETIÇÃO JANSSEN-CILAG FARMACÊUTICA LTDA - 51.780.468/0001-87 Cetrelimabe 14/2021 25351.415554/2020-19 4916564/22-0 10820 - ENSAIOS CLÍNICOS - Modificação de DDCM - Alte"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-80-de-12-de-janeiro-de-2023-457962788.md",
+      "sha256_md": "1be522c4598104f4422197cf50eafcf3b8881bba894a62ba795ebe04e923eb9d",
+      "sha256_fonte": "237dee5254ac9a51cbb58c487b921268c03ecfa2f43431f4860d6e5a878b23ff",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3344c88078a1c28d181a55c082535c066b0530b9e96f24b3885fe832362a435d",
+      "sha256_visivel_md": "eae8a63e48f241034a2ec8af3f5316b8868ce7aeb3e744ebd8395e2a69daf753",
+      "primeira_diferenca": {
+        "posicao": 955,
+        "fonte": " SILVA JÚNIOR ANEXO NOME DA EMPRESA CNPJ NUMERO DE EXPEDIENTE DATA DO PROTOCOLO -------------------------------------------------------------------------------- AMGEN BIOTECNOLOGIA DO BRASIL LTDA. 18774815000193 4493530227 02/08/2022 456637",
+        "md": " SILVA JÚNIOR ANEXO NOME DA EMPRESA CNPJ NUMERO DE EXPEDIENTE DATA DO PROTOCOLO AMGEN BIOTECNOLOGIA DO BRASIL LTDA. 18774815000193 4493530227 02/08/2022 4566373224 17/08/2022 BLAU FARMACÊUTICA S.A. 58430828000160 4558970224 16/08/2022 BRIST"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-621-de-23-de-fevereiro-de-2023-466165704.md",
+      "sha256_md": "628819710f7cb07d70629448284f6acab36e981fab1a11a0fa9c0f5e018c2c1f",
+      "sha256_fonte": "0d82ceef6fbc89207f93b44325c49ff3e646e174f801423420ecdb4883b0d180",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "70f21f6706ef50b8a6dccf0168596132e623b19b5464479ad6ebc1c8192d841d",
+      "sha256_visivel_md": "741f3a3ad99f8534d94baea2d9acff24e0ca75814dcb756d33a1f782ddc0d1df",
+      "primeira_diferenca": {
+        "posicao": 1135,
+        "fonte": " 8.077/13, a Autorização emitida pela Anvisa precede o licenciamento sanitário. -------------------------------------- L & S RODRIGUES DA SILVA LTDA / 49.121.179/0001-24 25351.043017/2023-05 / 733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS /",
+        "md": " 8.077/13, a Autorização emitida pela Anvisa precede o licenciamento sanitário. L & S RODRIGUES DA SILVA LTDA / 49.121.179/0001-24 25351.043017/2023-05 / 733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0067571239 MOTIVO DO INDEFERIMENTO: Nã"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.405-de-20-de-abril-de-2023-478602038.md",
+      "sha256_md": "624739fa6b4fa508c12d83d44047fc0346b8bed3ecebf365c945eb4797bdc000",
+      "sha256_fonte": "7eb0545a310433ce7596aacbcccc49967927b05c456d03c62b02e457650f2fc5",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "094ff71c884b50bfc864eda52821606146de711c980e1a41ea51a16b5487f79a",
+      "sha256_visivel_md": "4f611ed8a5a4662b3deba9f133b3c43657f501c93980194da4d819c9fde67441",
+      "primeira_diferenca": {
+        "posicao": 1202,
+        "fonte": "acêuticos Ativos: Insumos farmacêuticos ativos biológicos: toxina botulínica A. --------------------------------------------------------------------------------------------------- Fabricante: Novartis Pharma S.A.S. Endereço: 8 Rue de L´Indu",
+        "md": "acêuticos Ativos: Insumos farmacêuticos ativos biológicos: toxina botulínica A. Fabricante: Novartis Pharma S.A.S. Endereço: 8 Rue de L´Industrie, 68330, Huningue País: França Código Único: A.000432 Solicitante: Novartis Biociências S.A. CN"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-905-de-17-de-marco-de-2023-471297005.md",
+      "sha256_md": "8507ab0e58c751b618d05940bf365bf64228e39527dd7d3ec9d8554ec837b7e1",
+      "sha256_fonte": "9a3acea8eea2ec44c5b3867cb60f831ad5af9bcaa3f98942cfa9f299a1756f21",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "bf0f816205c68ffe6a93d2b4ee21a3953c45ea6fa7bf411f16fdfeae7d1feafc",
+      "sha256_visivel_md": "eb69c8512e962b252494efafa2445205e85e1fcbf4295ae72fcc49cef790b9fa",
+      "primeira_diferenca": {
+        "posicao": 710,
+        "fonte": "S, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIDORA (SOMENTE MATRIZ) / 0139414231 -------------------------------------- SOFT MEDICAL DISTRIBUIDORA E IMPORTADORA DE PRODUTOS MÉDICOS LTDA / 49.327.938/0001-00 25351.091433/2023-10 / 3120189 740",
+        "md": "S, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIDORA (SOMENTE MATRIZ) / 0139414231 SOFT MEDICAL DISTRIBUIDORA E IMPORTADORA DE PRODUTOS MÉDICOS LTDA / 49.327.938/0001-00 25351.091433/2023-10 / 3120189 740 - AFE - CONCESSÃO - SANEANTES DOMISSAN"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-730-de-7-de-marco-de-2023-468464893.md",
+      "sha256_md": "c77c76200440b1fc11c1a0d5829777c1c5863296fc4cb63e38c245a5f108f062",
+      "sha256_fonte": "8ecaa28165d7e3d6ede03e1bc4b684a60386add857ad5ef1ffd059ae0f3ade41",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f4ec86559a2093fde9ac77b7aa82255324bdef6a40ad5521df5a332c703441e3",
+      "sha256_visivel_md": "2970628da9c40e37d9bfc6e1ddb4f83ef88134922d0d7ae758c2e137311082dd",
+      "primeira_diferenca": {
+        "posicao": 687,
+        "fonte": "264231 856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 0080621236 -------------------------------------- AMEV MEDICAL EQUIPAMENTOS LTDA / 42.880.329/0001-34 25351.063525/2023-00 / 8264370 856 - AFE - CONCESSÃO - PRODUTOS PARA ",
+        "md": "264231 856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 0080621236 AMEV MEDICAL EQUIPAMENTOS LTDA / 42.880.329/0001-34 25351.063525/2023-00 / 8264370 856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA / 0103581235 DROG"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1024-de-24-de-marco-de-2023-472717900.md",
+      "sha256_md": "f92a64602d91f333991e69938f4d45af862a22d51ff54bfce823fe19f87d1f47",
+      "sha256_fonte": "bbc8422b12628a2bf853a2d071f86cf4d825fdef337bb311ae79d26421ee2ad1",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "681dc4442b557455ed7f6750554774531f75e8e39ca59707fc5068b85fabad55",
+      "sha256_visivel_md": "f6206b68f468141a51ab2f2e964b8ba3d80f305716dba30945c07f47978dba4c",
+      "primeira_diferenca": {
+        "posicao": 694,
+        "fonte": "CAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA (SOMENTE MATRIZ) / 0172247233 -------------------------------------- SPINALE COMERCIO DE MATERIAIS HOSPITALARES LTDA / 45.595.462/0001-37 25351.110564/2023-03 / 8265895 856 - AFE - CONCESSÃO",
+        "md": "CAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA (SOMENTE MATRIZ) / 0172247233 SPINALE COMERCIO DE MATERIAIS HOSPITALARES LTDA / 45.595.462/0001-37 25351.110564/2023-03 / 8265895 856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIDORA "
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-709-de-2-de-marco-de-2023-467805068.md",
+      "sha256_md": "3bc151c2a844721a3f9494c2f54d117a859747b7989d195f8f741fcb2d78f761",
+      "sha256_fonte": "e40b4a2fe262b6904d588eb0611674d0d894bf65bb79f12661831193b68d4deb",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c34baf5083c3fdb4cf1f96f9d4357c599cbe3b6d2b0b26677ba308b4450a4e3d",
+      "sha256_visivel_md": "5d4304d76eb76fe51a1c716c433ab07f733d92edd9bfe3206ea9f56c881e3620",
+      "primeira_diferenca": {
+        "posicao": 613,
+        "fonte": "CNPJ NOME DO PRODUTO NÚMERO DO PROCESSO / REGISTRO PETIÇÃO(ÕES) / EXPEDIENTE(S) -------------------------------------- ABBOTT LABORATÓRIOS DO BRASIL LTDA / 56.998.701/0001-16 FÓRMULA PEDIÁTRICA PARA NUTRIÇÃO ENTERAL E ORAL 25351.483928/2022",
+        "md": "CNPJ NOME DO PRODUTO NÚMERO DO PROCESSO / REGISTRO PETIÇÃO(ÕES) / EXPEDIENTE(S) ABBOTT LABORATÓRIOS DO BRASIL LTDA / 56.998.701/0001-16 FÓRMULA PEDIÁTRICA PARA NUTRIÇÃO ENTERAL E ORAL 25351.483928/2022-82 / 474320385 4063 - Registro de fórm"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-205-de-19-de-janeiro-de-2023-459245269.md",
+      "sha256_md": "8049b7ceec6c140d956891b10781fc0e8768d9d65251057c6c2b65e5d01e072f",
+      "sha256_fonte": "473e88842c6dc84c1ccdaee97718b4dafcd915c386dfe461bad4fa9d5b59238e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d538d62936b9cdc8b3ee023f6f6b117eda567c76d2b98dcc36ba2eca5717855f",
+      "sha256_visivel_md": "e34d45d0bc1d73897a9d23562fe36f46673da13849e85af24e4173e73d41d6c4",
+      "primeira_diferenca": {
+        "posicao": 680,
+        "fonte": "IENTE NUMERO DE REGISTRO VALIDADE APRESENTAÇÃO DO PRODUTO PRINCIPIO(S) ATIVO(S) --------------------------- BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A 05161069000110 prednisolona 25351.544442/2022-28 06/2032 10506 GENÉRICO - MODIFICAÇÃ",
+        "md": "IENTE NUMERO DE REGISTRO VALIDADE APRESENTAÇÃO DO PRODUTO PRINCIPIO(S) ATIVO(S) BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A 05161069000110 prednisolona 25351.544442/2022-28 06/2032 10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 43635"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.727-de-17-de-maio-de-2023-483959035.md",
+      "sha256_md": "09c9c72e707086e8a7ebf52c9d15827ce4a0fd65c50450613271292fcaf802c7",
+      "sha256_fonte": "e4d8ce7dcde2b7ee8311b1bb0e4d102040b4722417bf87fbf3cee2668b51732d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "9ccda95a9860ca58f9fa972a9576e7d055583af7f858a76137055be0b53cd93e",
+      "sha256_visivel_md": "0b3e406e2172039c8faf5097d3fcaa8cb9947f886b8a1497abba3711b756a63a",
+      "primeira_diferenca": {
+        "posicao": 970,
+        "fonte": "local competente, conforme disposto no artigo 15 e artigo 18 da RDC nº 16/2014. -------------------------------------- Clínica Médica LN Ltda. / 45.438.091/0001-80 25351.212573/2023-20 / 859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTA",
+        "md": "local competente, conforme disposto no artigo 15 e artigo 18 da RDC nº 16/2014. Clínica Médica LN Ltda. / 45.438.091/0001-80 25351.212573/2023-20 / 859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTADORA / 0347036236 MOTIVO DO INDEFERIMEN"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-56-de-6-de-janeiro-de-2023-457972123.md",
+      "sha256_md": "3d382154a16309f38a253f671681728263aeefb7e7ae5b51a3b8c3a48f3a5e49",
+      "sha256_fonte": "d8198fec98d19c902ad3da2a9999582d2ccd8297a47ca579d9bebb91dde87f90",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "5ad7b63eb648744a55989389e75b3a8860b08addd4fb0f50118783f1e35fae21",
+      "sha256_visivel_md": "116e4dbb517f061226c8b795b4ae65bcfc53c24a3914aa9d3926107e42574b42",
+      "primeira_diferenca": {
+        "posicao": 782,
+        "fonte": "18-03 / 307410080 332 - REG. SANEANTES - Nova Embalagem de Produto / 4662913225 -------------------------------------- MERCOQUÍMICA INDÚSTRIA E COMÉRCIO LTDA / 03.321.760/0001-99 ADTECH AGRO AJUSTE DE PH - ÁCIDO 25351.147110/2022-07 / 30020",
+        "md": "18-03 / 307410080 332 - REG. SANEANTES - Nova Embalagem de Produto / 4662913225 MERCOQUÍMICA INDÚSTRIA E COMÉRCIO LTDA / 03.321.760/0001-99 ADTECH AGRO AJUSTE DE PH - ÁCIDO 25351.147110/2022-07 / 30020 - REG. SANEANTES - Registro de produto"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.060-de-29-de-marco-de-2023-474538793.md",
+      "sha256_md": "4d651100e93eb64979ad99d18e21372861e36d42b46fbd934b5ad4213bdf2fa7",
+      "sha256_fonte": "85cede2984605ae71431383a9c0ded9f061d9961789bce1edb7beee88038b3cb",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "93953e258b5ee24aa4396fd64f3f65027ea580000bea2f32c17150f9b3c1050d",
+      "sha256_visivel_md": "7af8e0d8129781dbe57e35b40f9fae5bf8884da326d8bcc7130527bab409600b",
+      "primeira_diferenca": {
+        "posicao": 1161,
+        "fonte": "Subsidiado por relatório de inspeção, requisito necessário para decisão do ato. ---------------------------------------------------------------------------------------------------------------- Empresa: Biosystems Ne Comércio de Produtos Lab",
+        "md": "Subsidiado por relatório de inspeção, requisito necessário para decisão do ato. Empresa: Biosystems Ne Comércio de Produtos Laboratoriais e Hospitalares Ltda. CNPJ: 08.282.077/0001-03 Endereço: Rua Maria Rufino dos Santos Medeiros, 330, zon"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-596-de-23-de-fevereiro-de-2023-466158499.md",
+      "sha256_md": "e5dd036eeec61884855743edafd44729608ab20962652ba6d375511d96f3e609",
+      "sha256_fonte": "88b31ae4c9f59e312b569a052f98f383313ed3dba7309f66976756402e76c315",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d677f8cb62d70fe4cede5886eea7e8e0868a3e845473940d175838ce7c60bcb4",
+      "sha256_visivel_md": "05e64c4ce830fd0209a7a82ca06e1661df726a52aaa8d64ecc4f82146e2adf0b",
+      "primeira_diferenca": {
+        "posicao": 554,
+        "fonte": "em vigor na data de sua publicação. PATRÍCIA FERNANDES NANTES DE CASTILHO ANEXO --------------------------------------- LALLEMAND BRASIL LTDA - 49.979.842/0001-26 PROCESSO: 25351.051467/2021-00 EXPEDIENTE DO PEDIDO DE DESISTÊNCIA: 4947817/2",
+        "md": "em vigor na data de sua publicação. PATRÍCIA FERNANDES NANTES DE CASTILHO ANEXO LALLEMAND BRASIL LTDA - 49.979.842/0001-26 PROCESSO: 25351.051467/2021-00 EXPEDIENTE DO PEDIDO DE DESISTÊNCIA: 4947817/22-4 EXPEDIENTE DA PETIÇÃO / ASSUNTO: 851"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.772-de-18-de-maio-de-2023-484596683.md",
+      "sha256_md": "0e06c37951448027ad9f5265e633a2e349e2d191d989535695736df0f7fb4629",
+      "sha256_fonte": "2cea1c809863e14a34e0cafd6db3bbbec5fb6d55ca23a2de91c14094467e31db",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e438ba0b1a7ac1bd2ae2422a399d19d8b9ef64d8992998066b7f3fd3edf71185",
+      "sha256_visivel_md": "6115202c4aa09f5342e61066f009e48f55918546606e2f077d6d9b2cee74dbf7",
+      "primeira_diferenca": {
+        "posicao": 1035,
+        "fonte": "257170093 287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 4844959/22-1 -------------------------------------- BEIERSDORF INDÚSTRIA E COMÉRCIO LTDA / 01.786.983/0001-04 NIVEA SUN TRIPLA PROTEÇÃO PELE RADIANTE FPS 50 25351.560417/202",
+        "md": "257170093 287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 4844959/22-1 BEIERSDORF INDÚSTRIA E COMÉRCIO LTDA / 01.786.983/0001-04 NIVEA SUN TRIPLA PROTEÇÃO PELE RADIANTE FPS 50 25351.560417/2021-19 / 227210763 230 - REG. COSMÉTICOS "
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.081-de-30-de-marco-de-2023-474151546.md",
+      "sha256_md": "b4322443660f421ff19e2b19dbf75ff5d3a0dfee961ac761315cf856ee014ee4",
+      "sha256_fonte": "ac544686046582bc8363caa3bc01554d64cd15ff546ed0c9ad1c09e96cf2fe24",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3811009585e5130f2a1bfc5792a9461868e21f04ed8102b88798aa2f06427807",
+      "sha256_visivel_md": "0714bb95f69544d671d08966a704d5d8c9fa5379ca6379c9dcc80de5796ddf56",
+      "primeira_diferenca": {
+        "posicao": 858,
+        "fonte": "75/2019, contrariando o art. 11 da RDC nº 275/2019 e art. 3° da RDC n° 25/2011. -------------------------------------- MED PHARMA FARMÁCIA DE MANIPULAÇÃO LTDA / 07.359.632/0001-95 25351.304569/2006-96 / 1377481 7027 - AE - ALTERAÇÃO - FARMÁ",
+        "md": "75/2019, contrariando o art. 11 da RDC nº 275/2019 e art. 3° da RDC n° 25/2011. MED PHARMA FARMÁCIA DE MANIPULAÇÃO LTDA / 07.359.632/0001-95 25351.304569/2006-96 / 1377481 7027 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - ENDEREÇO / 4873839"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-185-de-19-de-janeiro-de-2023-459244684.md",
+      "sha256_md": "d7c25b7f313fdbeeae8d5b7c0e43c13aa823c4750581e0ba8c34891fc3bf258a",
+      "sha256_fonte": "f03238ea866dd5a543b88d699d7cc0da849317bc56d484c015006bd7ba19a6a2",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "325bb9a6ea8dce681bef7a41b2f0aa5a9044c64d2e335a9bf4d984bd95570697",
+      "sha256_visivel_md": "9c6077e46ffc24d8c3c6739e61d252fea6763f3bb198da771ddee8247f9a11dc",
+      "primeira_diferenca": {
+        "posicao": 617,
+        "fonte": "CNPJ NOME DO PRODUTO NÚMERO DO PROCESSO / REGISTRO PETIÇÃO(ÕES) / EXPEDIENTE(S) -------------------------------------- NESTLE BRASIL LTDA / 60.409.075/0001-52 FORMULA INFANTIL PARA LACTENTES E DE SEGMENTO PARA LACTENTES 25351.725563/2019-73",
+        "md": "CNPJ NOME DO PRODUTO NÚMERO DO PROCESSO / REGISTRO PETIÇÃO(ÕES) / EXPEDIENTE(S) NESTLE BRASIL LTDA / 60.409.075/0001-52 FORMULA INFANTIL PARA LACTENTES E DE SEGMENTO PARA LACTENTES 25351.725563/2019-73 / 659650118 457 - Inclusão de Marca / "
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.696-de-12-de-maio-de-2023-483071909.md",
+      "sha256_md": "44350d728703c214e5e5ac59c20df2d339ae2a5a52ae135593a4622664aef98b",
+      "sha256_fonte": "c7d46701251594db4e7ee69a66e8d34a9dc4176ba8bbadd60b06083ac4a7a613",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "aabff6cc3fa4d0ba84da9dea4cb8aef5d8ff146e61a5415f59e0f68720824ae0",
+      "sha256_visivel_md": "e30429b72637ac03bc43a5d93e8e324dd5c44e1c408673ee94b0c430fe84d6de",
+      "primeira_diferenca": {
+        "posicao": 839,
+        "fonte": "351.311237/2021-05 / 1262965 70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0477278230 -------------------------------------- DISMEDH DISTRIBUIDORA MEDICO HOSPITALAR LTDA ME / 24.226.472/0001-25 25351.090333/2017-06 / 1163080 70804 - AE - ALTERAÇÃ",
+        "md": "351.311237/2021-05 / 1262965 70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0477278230 DISMEDH DISTRIBUIDORA MEDICO HOSPITALAR LTDA ME / 24.226.472/0001-25 25351.090333/2017-06 / 1163080 70804 - AE - ALTERAÇÃO - ENDEREÇO / 5098283221 DINAMICA DIST"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-692-de-2-de-marco-de-2023-467806865.md",
+      "sha256_md": "096a09ecfb78df13724d5ad4f7a26079856bfca2b3caa3f635e4259c60ab01eb",
+      "sha256_fonte": "d96b7975a7a6a7537c17f3671e0626d10338d7977fc35a79add4fd62bf46094e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "91c8f6418f5975233c962a50cfe4ef228c37e989d2b892a154411cff73b5b16d",
+      "sha256_visivel_md": "1d74b87e88ea83392c682da4e6c6f4582b8dcfdd1f35c31e2911caaa4fd3f691",
+      "primeira_diferenca": {
+        "posicao": 776,
+        "fonte": "IS LTDA/2.06564-4 POMADA MODELADORA EXTRA FORTE BARBER MAN 25351.159466/2022-85 -------------------------------------- A&A GOLD PHARMA INDUSTRIA LTDA ME/4.03717-1 POMADA CAPILAR MODELADORA BLACK BIOMAN 25351.229211/2022-97 POMADA CAPILAR MO",
+        "md": "IS LTDA/2.06564-4 POMADA MODELADORA EXTRA FORTE BARBER MAN 25351.159466/2022-85 A&A GOLD PHARMA INDUSTRIA LTDA ME/4.03717-1 POMADA CAPILAR MODELADORA BLACK BIOMAN 25351.229211/2022-97 POMADA CAPILAR MODELADORA INCOLOR BIOMAN 25351.266813/20"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-450-de-9-de-fevereiro-de-2023-463873960.md",
+      "sha256_md": "e5f457398e340d497aa35c4e07e78647e8aaf023e631effc8cc7589c862ae481",
+      "sha256_fonte": "9323270112c3aaedf0eca5a712325b57c6c6a52f282eeff74bb4253ea633ea04",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "7a4458c4a3c4e1ece85a397f6b3c1b3ccee2f20054f90711af6d4ce5bb80be85",
+      "sha256_visivel_md": "b1b7245468494b5d8e1db3f718f398caff8795f8b1f60c0d8447591429c4649a",
+      "primeira_diferenca": {
+        "posicao": 812,
+        "fonte": "1/0001-20 25351.345147/2017-39 4880393/22-6 GIAMEBIL Mentha crispa L. 137640174 ------------------------------------------------------------------------------------- LIBBS FARMACÊUTICA LTDA - 61.230.314/0001-75 25351.008066/2003-40 4816398/",
+        "md": "1/0001-20 25351.345147/2017-39 4880393/22-6 GIAMEBIL Mentha crispa L. 137640174 LIBBS FARMACÊUTICA LTDA - 61.230.314/0001-75 25351.008066/2003-40 4816398/22-8 METRI ácido nicotínico 100330119 MARJAN INDÚSTRIA E COMÉRCIO LTDA - 60.726.692/00"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-298-de-26-de-janeiro-de-2023-460760691.md",
+      "sha256_md": "295c92c367dbeb9af454657c90c6edf16b04b1dafca0a904237980e2b233c07f",
+      "sha256_fonte": "f2fa29cfc2636a97f441fa8d3047834ce68398c125613fa7aecb0d45c30532d3",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ac9935893b564e542988731f0bf67397707d99bb145ac68918bf28eba3b1460f",
+      "sha256_visivel_md": "d0d3b46232372c61965077f5e6e98dfb9230c5884a01daba599a79586854906b",
+      "primeira_diferenca": {
+        "posicao": 2115,
+        "fonte": "ML 1.9811.0004.003-8 18 Meses 100 MG/ML SOL DIL INFUS IV CT FA VD TRANS X 11 ML -------------------------------------------------------------------------------- FUNDAÇÃO OSWALDO CRUZ 33781055000135 ADALIMUMABE BIO-MANGUINHOS ADALIMUMABE 253",
+        "md": "ML 1.9811.0004.003-8 18 Meses 100 MG/ML SOL DIL INFUS IV CT FA VD TRANS X 11 ML FUNDAÇÃO OSWALDO CRUZ 33781055000135 ADALIMUMABE BIO-MANGUINHOS ADALIMUMABE 25351.362783/2022-87 01/2033 10569 PRODUTO BIOLÓGICO - REGISTRO DE PRODUTO PELA VIA "
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.044-de-28-de-marco-de-2023-473401906.md",
+      "sha256_md": "e132b767bfb6e515a5ed9b344708818ed14d2f14502aee40b2246d2288ac0378",
+      "sha256_fonte": "6e0015f3608aae0b9603d8d2852d7714458d52ca7286866a0eb40c2b62bae204",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f8966ba7391c0737632721e931d45b667b3ada79a297f1a577b94a2a8861eef0",
+      "sha256_visivel_md": "88a261583e1a3c3899c41cf9850ec01db617c3d645dbf044662ca399739b3354",
+      "primeira_diferenca": {
+        "posicao": 671,
+        "fonte": " 7242927 7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 4789715225 -------------------------------------- FOXPHARMA COMERCIO HOSPITALAR LTDA ME / 27.487.906/0001-39 25351.160440/2018-01 / 1175636 70798 - AFE - ALTERAÇÃO - MEDIC",
+        "md": " 7242927 7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 4789715225 FOXPHARMA COMERCIO HOSPITALAR LTDA ME / 27.487.906/0001-39 25351.160440/2018-01 / 1175636 70798 - AFE - ALTERAÇÃO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS - EN"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-354-de-2-de-fevereiro-de-2023-462325466.md",
+      "sha256_md": "6942c8e8b2d5927f6c8533a062e4725966f7461894fc4928d176c8543a3c612a",
+      "sha256_fonte": "e06ddfc7156d0074ded3be9200ec7c72bf66823f22edd0ea378c42b1b6e6a45b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "5de9fb2cfc40751e5750bd8ca9709a765477798a374272d81a0055f9b338e751",
+      "sha256_visivel_md": "9d415424eae2a3bd37165c609404c48901ab145737e141c7bdbb7a7076aab309",
+      "primeira_diferenca": {
+        "posicao": 1168,
+        "fonte": "ades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa. ---------------------------------------------------------------------------------- Fabricante: ABIOMED, INC. Endereço: 22 Cherry Hill Drive, Danvers, MA, 01923 ",
+        "md": "ades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa. Fabricante: ABIOMED, INC. Endereço: 22 Cherry Hill Drive, Danvers, MA, 01923 - Estados Unidos da América Solicitante: CMS PRODUTOS HOSPITALARES LTDA CNPJ: 03.30"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-448-de-9-de-fevereiro-de-2023-463878415.md",
+      "sha256_md": "463cf10c2556b75004ec5131f93e23539422723b5de36b0f45b08937d376b29d",
+      "sha256_fonte": "d45e5b62e62b351253a0c77599b0c5d046660e1ac47bdf4fc7468ca0d9fe22d3",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "785bf364e721eba3ae5fe4c32aa3786f4f3d19cbe555ec9ec3f1f373c439d38e",
+      "sha256_visivel_md": "5986ec2199de73bf0b9312a1e4269e73e3162050940dc9f722f6e1c661c5ddca",
+      "primeira_diferenca": {
+        "posicao": 683,
+        "fonte": "IENTE NUMERO DE REGISTRO VALIDADE APRESENTAÇÃO DO PRODUTO PRINCIPIO(S) ATIVO(S) ---------------------------- BRASTERAPICA INDUSTRIA FARMACEUTICA LTDA 46179008000168 ácido acetilsalicílico 25351.864935/2021-09 02/2033 155 GENERICO - REGISTRO",
+        "md": "IENTE NUMERO DE REGISTRO VALIDADE APRESENTAÇÃO DO PRODUTO PRINCIPIO(S) ATIVO(S) BRASTERAPICA INDUSTRIA FARMACEUTICA LTDA 46179008000168 ácido acetilsalicílico 25351.864935/2021-09 02/2033 155 GENERICO - REGISTRO DE MEDICAMENTO 3007057/21-1 "
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1013-de-24-de-marco-de-2023-472729046.md",
+      "sha256_md": "a5c34241e9e0ed861ea5f96410ffc61206561cf8eb0269a6ecbe8ec1e75356de",
+      "sha256_fonte": "9cabf153e0395dc20ac8a39cb7fc3ed0509ea5657cdd63bdc15019a5be2c889b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ae1dde6fcff4d09e888393e65461cf7bd9287cc8bcc60f2d63cb58ca61e0fb6a",
+      "sha256_visivel_md": "a0a1b45ca045c9ed55ffa15547472054f109ea526120e14dd6be165ebbbb1cf1",
+      "primeira_diferenca": {
+        "posicao": 666,
+        "fonte": " 376160022 30020 - REG. SANEANTES - Registro de produtos saneantes / 5028665222 -------------------------------------- Oleak Indústria e Comércio Ltda / 61.153.250/0001-56 GARRA PERAX 25351.044645/2022-19 / 310030139 30020 - REG. SANEANTES ",
+        "md": " 376160022 30020 - REG. SANEANTES - Registro de produtos saneantes / 5028665222 Oleak Indústria e Comércio Ltda / 61.153.250/0001-56 GARRA PERAX 25351.044645/2022-19 / 310030139 30020 - REG. SANEANTES - Registro de produtos saneantes / 0346"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.074-de-30-de-marco-de-2023-474541157.md",
+      "sha256_md": "c36462aa168ff799fe9239494ce4ae1e6bd4e7f340b45c017a0eca7272391039",
+      "sha256_fonte": "b646c32c658b6d4bd500b6fa8cceefc07fadd63267a1823ea04d406bc1e82710",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f6e25bf0589abff933349d6e01f84a8d283ec701df56077fcb65625aa649189c",
+      "sha256_visivel_md": "543d09ecacd959e96a7a53e0c09095c9b573fa466561f955dfd36f20ae38f484",
+      "primeira_diferenca": {
+        "posicao": 680,
+        "fonte": "IENTE NUMERO DE REGISTRO VALIDADE APRESENTAÇÃO DO PRODUTO PRINCIPIO(S) ATIVO(S) --------------------------- BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A 05161069000110 hemifumarato de quetiapina 25351.688307/2020-21 03/2031 10506 GENÉRIC",
+        "md": "IENTE NUMERO DE REGISTRO VALIDADE APRESENTAÇÃO DO PRODUTO PRINCIPIO(S) ATIVO(S) BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A 05161069000110 hemifumarato de quetiapina 25351.688307/2020-21 03/2031 10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.700-de-12-de-maio-de-2023-483076918.md",
+      "sha256_md": "3e3e7edc4f98ac3aa325168db8dd3d7e6f3292951a78b1c9c75174805b5f1932",
+      "sha256_fonte": "57e5dc72d38b7278c6301d9994f53ceacd75206b825b9692344c0219c4924fe7",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b38c291f1849f802464d5418b4241bf4e9ac1349486a2dacf4fa33f857d53973",
+      "sha256_visivel_md": "12f2db4d2fa76ffdb23d5d2fa4e022024809432b260348046f8fd8c2f1cca2fb",
+      "primeira_diferenca": {
+        "posicao": 1572,
+        "fonte": "DC Nº 662, DE 9 DE MARÇO DE 2022; NORMAS SANITÁRIAS QUE REGULAMENTAM A MATÉRIA. ----------------------------------------------------------------------------------------------------------------------------------------- LIMPSERV CONSERVAÇÃO E",
+        "md": "DC Nº 662, DE 9 DE MARÇO DE 2022; NORMAS SANITÁRIAS QUE REGULAMENTAM A MATÉRIA. LIMPSERV CONSERVAÇÃO E LIMPEZA DE IMÓVEIS LTDA / 11.372.408/0001-00 25351.652806/2022-42 9041 - PAF - AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESA AFE QUE PRESTA SER"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-695-de-2-de-marco-de-2023-467798942.md",
+      "sha256_md": "5e6116fe199364b76d3a821b2d8c98b075ffebd91e2745acab55a83a408de8cd",
+      "sha256_fonte": "fa3641ec3e635f8b20d1699b71e01813cc5366639b352cd062d37f2342e7f54e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "faa06c010b8c00bef0580ff65ee31e451f611344ac75bbb376a31e93c052f0cc",
+      "sha256_visivel_md": "16c9cef6db63b480003bedc402d8adb58bf17a3d393b54d0ebd3f228cdc22854",
+      "primeira_diferenca": {
+        "posicao": 704,
+        "fonte": "IENTE NUMERO DE REGISTRO VALIDADE APRESENTAÇÃO DO PRODUTO PRINCIPIO(S) ATIVO(S) ---------------------------- PF Consumer Healthcare Brazil Importadora e Distribuidora de Medicamentos Ltda 30872270000153 CLORIDRATO DE XILOMETAZOLINA OTRIVINA",
+        "md": "IENTE NUMERO DE REGISTRO VALIDADE APRESENTAÇÃO DO PRODUTO PRINCIPIO(S) ATIVO(S) PF Consumer Healthcare Brazil Importadora e Distribuidora de Medicamentos Ltda 30872270000153 CLORIDRATO DE XILOMETAZOLINA OTRIVINA 25351.071746/2023-43 10/2029"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-584-de-22-de-fevereiro-de-2023-465638744.md",
+      "sha256_md": "367dd5b6650aba0ba785047f4883f0f035e52bf27daa20de27c79d66207273cb",
+      "sha256_fonte": "57509f56681f4482fd7173444fc1ddaf38bcaf3bdaa076a4b09563f626424e62",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f16c58db1cb00879b8a9a6226d9078d45df81d9d58815d8606db1e66246fb242",
+      "sha256_visivel_md": "fc5c32d199f6191e5a771ed9be462e75b8fe1a07ef95e58fa380d168c3a97556",
+      "primeira_diferenca": {
+        "posicao": 862,
+        "fonte": "75/2019, contrariando o art. 11 da RDC nº 275/2019 e art. 3° da RDC n° 25/2011. -------------------------------------- FLORA DISTRIBUIDORA DE PRODUTOS DE HIGIENE E LIMPEZA LTDA / 11.852.585/0001-94 25351.023035/2012-17 / 2064670 751 - AFE -",
+        "md": "75/2019, contrariando o art. 11 da RDC nº 275/2019 e art. 3° da RDC n° 25/2011. FLORA DISTRIBUIDORA DE PRODUTOS DE HIGIENE E LIMPEZA LTDA / 11.852.585/0001-94 25351.023035/2012-17 / 2064670 751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PRO"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.102-de-30-de-marco-de-2023-474535847.md",
+      "sha256_md": "d784fae1b79da2a22b2a95605f5cbb38e82f793e640d089d948976e8ac54d765",
+      "sha256_fonte": "df254281def251a918905bca86b88227af1966ea3edaa10cec7942e249324225",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3cef4634d7fca67ee339909dd715b807f93d8804c3a482b591d01958544e4f51",
+      "sha256_visivel_md": "2b47dc719959d7f7413a703395822dc3c1730273e38b5862ad1f82acfa310c8a",
+      "primeira_diferenca": {
+        "posicao": 607,
+        "fonte": " EMPRESA / CNPJ NOME DO PRODUTO NÚMERO DO PROCESSO PETIÇÃO(ÕES) / EXPEDIENTE(S) -------------------------------------- MINIMENU PRODUTOS ALIMENTICIOS LTDA - ME / 26.882.255/0001-19 SOPINHA BLW CROQUETE DE LINGUADO, HAMBURGUER DE GRÃO DE BIC",
+        "md": " EMPRESA / CNPJ NOME DO PRODUTO NÚMERO DO PROCESSO PETIÇÃO(ÕES) / EXPEDIENTE(S) MINIMENU PRODUTOS ALIMENTICIOS LTDA - ME / 26.882.255/0001-19 SOPINHA BLW CROQUETE DE LINGUADO, HAMBURGUER DE GRÃO DE BICO, BATATA INGLESA COM ERVAS, COUVE FLOR"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-989-de-23-de-marco-de-2023-472724447.md",
+      "sha256_md": "fbc759cd0c542134c79d9f58f7435b3e2f2780237cf7eec822d1378f7b147b5f",
+      "sha256_fonte": "34410e1d760fea82694b942751076afb399a4d04aad19242209edc043558fe26",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "53bc25e87dc4dced2b99fe65917d36d4c00bcc2cd1e7ee59236c9e6cd3744e7f",
+      "sha256_visivel_md": "9e41b73f8a1e271306376c9fef6548cc01216ed02f816327c5a3e29b42689cd7",
+      "primeira_diferenca": {
+        "posicao": 1186,
+        "fonte": "TICOS - Solicitação de Transferência de Titularidade de Registro / 4844708/22-8 -------------------------------------- L`AROMATIC INDUSTRIA E COMERCIO LTDA / 17.470.182/0001-67 REP INSETOS KIDS COM ICARIDINA - AVVIO PHARMA 25351.205082/2021",
+        "md": "TICOS - Solicitação de Transferência de Titularidade de Registro / 4844708/22-8 L`AROMATIC INDUSTRIA E COMERCIO LTDA / 17.470.182/0001-67 REP INSETOS KIDS COM ICARIDINA - AVVIO PHARMA 25351.205082/2021-61 / 270090037 2331 - REG. COSMÉTICOS "
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-329-de-27-de-janeiro-de-2023-460775322.md",
+      "sha256_md": "84e1c4edac55905a1feb423e0cb15d735bba1f8ab236bc1dba08dbbcdf1a037b",
+      "sha256_fonte": "9139a8ebb10042c29773fd35cada996c16eab014b9ad8c345b06a72d03e1169d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "cdc99e1b93603397a1cfd7eb801c8c7d4e2f9d1319da06094348529ec0450b4e",
+      "sha256_visivel_md": "68ce85305882e9b3692b78aa80e8006d5bef954e74391db391f5de0c9bc1aa13",
+      "primeira_diferenca": {
+        "posicao": 2173,
+        "fonte": "351.579628/2022-06 POMADA MODELADORA CARAMELO OFICINA HAIR 25351.579765/2022-32 -------------------------------------- G.A.M. COSMETICOS LTDA - ME/2.06192-9 Mr CC HAIR POMADA MODELADORA PARA TRAÇAS ACABAMENTOS E PENTEADOS 25351.012077/2023-",
+        "md": "351.579628/2022-06 POMADA MODELADORA CARAMELO OFICINA HAIR 25351.579765/2022-32 G.A.M. COSMETICOS LTDA - ME/2.06192-9 Mr CC HAIR POMADA MODELADORA PARA TRAÇAS ACABAMENTOS E PENTEADOS 25351.012077/2023-78 NATUMIX POMADA MODELADORA 25351.0275"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.404-de-20-de-abril-de-2023-478602010.md",
+      "sha256_md": "f65106ec3f7cd8e8f1aa5be0937b27ceee8a7b6054621d1f02116da920fa85e5",
+      "sha256_fonte": "3b798d244b6afc10faf7f42b1a655a33c8668af30a043d139a2e228bf68e2c3c",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ee4fb332187c043110945440d46a5e1ab8a585452d5502d3056593f8f59a7448",
+      "sha256_visivel_md": "112654d070bfe5c1faaa5a3f307f1488ff3e36432aad49c7bf2945983aa3a087",
+      "primeira_diferenca": {
+        "posicao": 1292,
+        "fonte": "triaxona dissódica hemieptaidratada (etapa de síntese química e esterilização). --------------------------------------------------------------------------------------------------- Fabricante: Olon Active Pharmaceutical Ingredients India Pri",
+        "md": "triaxona dissódica hemieptaidratada (etapa de síntese química e esterilização). Fabricante: Olon Active Pharmaceutical Ingredients India Private Limited Endereço: Plot No.: L-1, Additional Phase MIDC, Mahad, Raigad District, Maharashtra Sta"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-917-de-20-de-marco-de-2023-471695684.md",
+      "sha256_md": "094311be834db78b431d5d34e731ef4127de0d204b39a147bf3d6d0805e0fd94",
+      "sha256_fonte": "59dd65332970016efe8d0e92e156f2c782775748f43bc461e66fe5e5a96b8e4a",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d1739927d9651f6c5a3188dc992adcdb0e015a373643947337f2875bf6107fed",
+      "sha256_visivel_md": "a4b7a245e367a9931a7df59a436d25bfdba5ea711aac1c4e3433a728dc7e40e5",
+      "primeira_diferenca": {
+        "posicao": 912,
+        "fonte": "etente há mais de 12 (doze) meses, contrariando o artigo 17, da RDC n° 16/2014. -------------------------------------- Anil Indústria Farmacêutica e Cosmética da Amazônia Ltda / 12.497.992/0001-93 25351.300886/2011-00 / 2059559 751 - AFE - ",
+        "md": "etente há mais de 12 (doze) meses, contrariando o artigo 17, da RDC n° 16/2014. Anil Indústria Farmacêutica e Cosmética da Amazônia Ltda / 12.497.992/0001-93 25351.300886/2011-00 / 2059559 751 - AFE - ALTERAÇÃO - COSMÉTICOS, PERFUMES E PROD"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.574-de-4-de-maio-de-2023-481522864.md",
+      "sha256_md": "adbccad75052084d3ee1545f9aaa3fde6ed2e19587114ed6feb6a7a5df8aaf9f",
+      "sha256_fonte": "68e46c5bbd0dee0b614ff207399be3ec3558463c500afeb92438eff1ec812b8f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8d70b962899f0d1115e50dbd427091ab5234f26af1c9b6d13e1b4243a7d83056",
+      "sha256_visivel_md": "97dac73323b4cd9624c2200c287efb467537699fee7afba666049466fc7967cf",
+      "primeira_diferenca": {
+        "posicao": 917,
+        "fonte": "RAZÃO SOCIAL/CNPJ MARCA COMERCIAL NÚMERO DO PROCESSO PETIÇÃO(ÕES)/EXPEDIENTE(S) ----------------------------- ADAMA BRASIL S/A - 02.290.510/0001-76 TRIVOR 25351.299560/2016-25 5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 0318937",
+        "md": "RAZÃO SOCIAL/CNPJ MARCA COMERCIAL NÚMERO DO PROCESSO PETIÇÃO(ÕES)/EXPEDIENTE(S) ADAMA BRASIL S/A - 02.290.510/0001-76 TRIVOR 25351.299560/2016-25 5000 - AVALIAÇÃO TOXICOLÓGICA PARA INCLUSÃO DE CULTURAS, 0318937/23-9 BASF S/A - 48.539.407/00"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.595-de-5-de-maio-de-2023-481526176.md",
+      "sha256_md": "86c38e0bf9e4453d4f9523a79c236465b83f48a96b9aba9dcb1ee5c2e3090666",
+      "sha256_fonte": "dc95b3792ca52f415006ff492063dfb7b5acf9b996592aa8adbd5468db9fe220",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2e5ba14249ffbd1c0412dca5239bbd52f0c99efa7e2ede4104548def0c9cce24",
+      "sha256_visivel_md": "6152715e305717fb6ac5b535b7b50fef23b6642a54849cc300e2906f07e996ff",
+      "primeira_diferenca": {
+        "posicao": 905,
+        "fonte": "solicitada, contrariando o disposto no artigo 15 e artigo 18 da RDC nº 16/2014. -------------------------------------- DROGARIA VITORETTI E GONÇALVES LTDA / 48.567.588/0001-96 25351.033229/2023-76 / 7959555 70808 - AE - ALTERAÇÃO - AMPLIAÇÃ",
+        "md": "solicitada, contrariando o disposto no artigo 15 e artigo 18 da RDC nº 16/2014. DROGARIA VITORETTI E GONÇALVES LTDA / 48.567.588/0001-96 25351.033229/2023-76 / 7959555 70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0253291232 MOTIVO DO I"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.244-de-11-de-abril-de-2023-476393063.md",
+      "sha256_md": "845846facace318e99db34f092ac4fe9ab7f34872045c150adb65a894129db5e",
+      "sha256_fonte": "1286745dc2649d9b27728af2bd988a74beb34bdf5ed3e8810739366b4046bef0",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3e5ac0b7978bf3891ec79750669c688acfa2dbe7d8bff5aa1e6abc4e89ef63bd",
+      "sha256_visivel_md": "c35ffdd5c43b955f5b2f70783afb932beabca4cb49482aecd95ea8fe036cefb8",
+      "primeira_diferenca": {
+        "posicao": 801,
+        "fonte": "2 25351.273171/2022-11 / 1278609 70804 - AE - ALTERAÇÃO - ENDEREÇO / 0135373239 -------------------------------------- C N DE ALMEIDA JUNIOR DISTRIBUIDORA DE MEDICAMENTOS / 21.812.728/0001-98 25351.082414/2019-16 / 1185936 70804 - AE - ALTE",
+        "md": "2 25351.273171/2022-11 / 1278609 70804 - AE - ALTERAÇÃO - ENDEREÇO / 0135373239 C N DE ALMEIDA JUNIOR DISTRIBUIDORA DE MEDICAMENTOS / 21.812.728/0001-98 25351.082414/2019-16 / 1185936 70804 - AE - ALTERAÇÃO - ENDEREÇO / 0135631238 MEDSUL DI"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-516-de-15-de-fevereiro-de-2023-465428922.md",
+      "sha256_md": "74433224eb28e37dc3d5f85fbb43647f4405f43caf31864ff2e9f609d9bd0731",
+      "sha256_fonte": "ee8dbde0589072205c35ae1e35749a753b9501588d19a7197a48c2a434ddf772",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "6b4b29f84b5f58a00c9309253bfde4e0dc90108e277d6feeaf160767a978b910",
+      "sha256_visivel_md": "c844a9015e2af1b5902f98ca978bc15efbcf144654793c7d48f390241965d64d",
+      "primeira_diferenca": {
+        "posicao": 1170,
+        "fonte": "Subsidiado por relatório de inspeção, requisito necessário para decisão do ato. ------------------------------------------------------------------------------------ Empresa: Master Medikal Indústria e Comércio de Equipamentos Médicos Eireli",
+        "md": "Subsidiado por relatório de inspeção, requisito necessário para decisão do ato. Empresa: Master Medikal Indústria e Comércio de Equipamentos Médicos Eireli - Epp CNPJ: 10.686.941/0001-84 Endereço: Rua Amazonas, 141, Boa Vista II, Santa Rita"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-726-de-6-de-marco-de-2023-469412722.md",
+      "sha256_md": "297ba399d7197bfdad8139e149fdac72f587f0e7d192aaceb995cc3f3545e8bd",
+      "sha256_fonte": "0af2ad1532586a39f615b731d5cbe2e4f18f981f54cd2784abebbb6ddc17c3eb",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "45460d5ee552fee7d9f7af0dadcf924f15e61ca4c8f5d52772fedba5643208d4",
+      "sha256_visivel_md": "35e90a741a5387698bb8c6e642731279ab3c805aa20020a83285b0333b78935c",
+      "primeira_diferenca": {
+        "posicao": 743,
+        "fonte": "PJ MEDICAMENTO EXPERIMENTAL DI NÚMERO DE PROCESSO EXPEDIENTE ASSUNTO DE PETIÇÃO ------------------------------------------------------------------------------------------------------------------- ELI LILLY DO BRASIL LTDA - 43.940.618/0001-4",
+        "md": "PJ MEDICAMENTO EXPERIMENTAL DI NÚMERO DE PROCESSO EXPEDIENTE ASSUNTO DE PETIÇÃO ELI LILLY DO BRASIL LTDA - 43.940.618/0001-44 LY3473329 27/2023 25351.438570/2022-33 4806106/22-9 10750 - ENSAIOS CLÍNICOS - Anuência em processo do Dossiê de D"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-49-de-6-de-janeiro-de-2023-456629475.md",
+      "sha256_md": "4ad7b501caf58a8ce07ebea791039d790f1a3370c6a8e73f629dc9e715cec848",
+      "sha256_fonte": "8871139fcc7bb0125a38f8cb76ab82c4a0833d65422cdd76774139427abde99b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e7ad1e1a387f779d11ef278957871b3de1f711e71e63a0a3ec2105b8310cae83",
+      "sha256_visivel_md": "af6ce41f1bf5ae8f26258cc657eb88c8ba8c6f1b33564aba0b688f7311138ca1",
+      "primeira_diferenca": {
+        "posicao": 1226,
+        "fonte": "ivo obtido por síntese química: aciclovir (todas as etapas de síntese química). ---------------------------------------------------------------------------------------------------- Fabricante: Mylan Laboratories Limited - Unit II Endereço: ",
+        "md": "ivo obtido por síntese química: aciclovir (todas as etapas de síntese química). Fabricante: Mylan Laboratories Limited - Unit II Endereço: Survey Nº.10&42, Gaddapotharam Village, Kazipally Industrial Area, Jinnaram Mandal, Sanga Reddy Distr"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-430-de-8-de-fevereiro-de-2023-463381966.md",
+      "sha256_md": "539789ec8f2fd5300f4959b5caa7bbb760d5a2827c8f0974e53dfac43d301df6",
+      "sha256_fonte": "669c96d17f373d9ecc146f6abbf070247114121ed7de41fd6be8532f0c91736a",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "57dc1f9640a13da16fd36675c553e7a2a23a01fc50bbdda51fd717995415e0a6",
+      "sha256_visivel_md": "e424dab16e1aa8c7bd6a53b7d4914f7b93c0a9a39fb5c596fd5c9e72398c9885",
+      "primeira_diferenca": {
+        "posicao": 648,
+        "fonte": "PJ MEDICAMENTO EXPERIMENTAL CE NÚMERO DE PROCESSO EXPEDIENTE ASSUNTO DE PETIÇÃO ------------------------------------------------------------------------------------------------------------------- WCT Serviços de Pesquisa Clínica LTDA. - 11.",
+        "md": "PJ MEDICAMENTO EXPERIMENTAL CE NÚMERO DE PROCESSO EXPEDIENTE ASSUNTO DE PETIÇÃO WCT Serviços de Pesquisa Clínica LTDA. - 11.334.242/0001-38 Pamrevlumabe 62/2021 25351.757985/2020-41 4400934/22-8 10824 - ENSAIOS CLÍNICOS - Emenda Substancial"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.632-de-10-de-maio-de-2023-483076442.md",
+      "sha256_md": "7b76183193a2006b4619c3ec8a87322a248540d5c6e2418b2a3280c57872d328",
+      "sha256_fonte": "76736c911275707ba96e93ccc4e88d7d7ad01c397ed32f71988eb395d7eb69f2",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "fb17f4379a00ab22a352f65fb2539862855b5955cab11def880e513cf258bc6d",
+      "sha256_visivel_md": "7078f28d26bc7df12a719e58148e91ebee3193882a0238e7e76ee60d642d5c97",
+      "primeira_diferenca": {
+        "posicao": 1183,
+        "fonte": "ades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa. ---------------------------------------------------------------------------------- Fabricante: Chemence Medical, Inc. Endereço: 200 Technology Drive, Alpharetta",
+        "md": "ades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa. Fabricante: Chemence Medical, Inc. Endereço: 200 Technology Drive, Alpharetta, Georgia, 30005, Estados Unidos da América. Solicitante: Emergo Brazil Import Impo"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-325-de-26-de-janeiro-de-2023-460760931.md",
+      "sha256_md": "f35b11361df1074290278d72684efdcfef24ed79550bfd0933c6a3c9f7c71619",
+      "sha256_fonte": "88e7a9a26eb4b4b9002e006995c6cf84cbd14fe5520cf48ffbc7ec6186d0f2a3",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "5244cd1ff86dc98ad9a95a78b01bbaf45c98e47d3ca5df97694d73c00d1df6cd",
+      "sha256_visivel_md": "9ef3a68a82a3820695eb836295462482affde2a14a656fc6b84208ff68da46da",
+      "primeira_diferenca": {
+        "posicao": 1561,
+        "fonte": "TO PETIÇÃO CLONE (ASSUNTO PETIÇÃO MATRIZ - EXPEDIENTE MATRIZ - PROCESSO MATRIZ) ------------------------------------------------- NATULAB LABORATÓRIO S.A MAXALGINA 253510273600108 0514168221 RDC 73/2016 - SIMILAR - Inclusão de novo fabrican",
+        "md": "TO PETIÇÃO CLONE (ASSUNTO PETIÇÃO MATRIZ - EXPEDIENTE MATRIZ - PROCESSO MATRIZ) NATULAB LABORATÓRIO S.A MAXALGINA 253510273600108 0514168221 RDC 73/2016 - SIMILAR - Inclusão de novo fabricante do IFA MYLAN LABORATORIOS LTDA CELEBRA 25351574"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-371-de-2-de-fevereiro-de-2023-462325308.md",
+      "sha256_md": "d0ac7ffaed46011d53d09693798f59f8575169060da55b7e49c87bb45ed7026d",
+      "sha256_fonte": "5ca9487a24733931a6c4c8dd0f94dfff62196a7f82aac6502d4a2fda429aeec3",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8fac19cba3a548199899ba7a7e08ecfb25fe310edb6f8ea0b9f074d4a5ebf1d6",
+      "sha256_visivel_md": "ba89a81545747c1b2d9f9af2409950f2311ba2476194cfb92d306d89839d9d31",
+      "primeira_diferenca": {
+        "posicao": 789,
+        "fonte": "S LTDA/2.06564-4 POMADA MODELADORA MATTE ACETINADO FOR MEN 25351.153620/2022-13 -------------------------------- ARTEFASA COSMÉTICOS LTDA/2.01562-5 GANZA CO. POMADA MODELADORA EFEITO MOLHADO 25351.469361/2022-31 GANZA CO. POMADA MODELADORA ",
+        "md": "S LTDA/2.06564-4 POMADA MODELADORA MATTE ACETINADO FOR MEN 25351.153620/2022-13 ARTEFASA COSMÉTICOS LTDA/2.01562-5 GANZA CO. POMADA MODELADORA EFEITO MOLHADO 25351.469361/2022-31 GANZA CO. POMADA MODELADORA EFEITO SECO 25351.469457/2022-08 "
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-506-de-15-de-fevereiro-de-2023-464793103.md",
+      "sha256_md": "6b2cec3c3f2e292e6515f46656f05c4636d2b36a79d081e767dd16341bb261cb",
+      "sha256_fonte": "f19ac460434b409c83e5c99c9ded8672c67a229176b333480584be2ab696e730",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d77bb2da15b02dae0db0bc45c7904a63aa7a316e77b81dcd098c95112d46430b",
+      "sha256_visivel_md": "a57a5f6bfb0d980eeca7c18d467837e40da52c6c585dcc7ef8ce16ff015d7e0e",
+      "primeira_diferenca": {
+        "posicao": 831,
+        "fonte": "inada do Anexo I da RDC nº 275/2019, contrariando o art. 11 da RDC nº 275/2019. -------------------------------------- DROGARIA FARMA VISTA LTDA / 14.142.246/0001-02 25351.012486/2020-21 / 7701217 7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGAR",
+        "md": "inada do Anexo I da RDC nº 275/2019, contrariando o art. 11 da RDC nº 275/2019. DROGARIA FARMA VISTA LTDA / 14.142.246/0001-02 25351.012486/2020-21 / 7701217 7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO / 5080217228 MOTIVO DO I"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-74-de-11-de-janeiro-de-2023-457961700.md",
+      "sha256_md": "00e88b1d9aa5b55ca6f3a641179e24bfbae0e4d5f03d97e943cd230d73492cfa",
+      "sha256_fonte": "ce1565cfaa9d97fdd288da39ce3e42b422b9253e888499da9e82b8f67209f5da",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f91c084b91da72fbedb133659fcf60d28bd89fdc1c06ef0647e8cb9ce430f182",
+      "sha256_visivel_md": "5816947cc3d1b3f4627ec010b4dc3cee8dc516cf818b0c28c356d2dc0999b632",
+      "primeira_diferenca": {
+        "posicao": 621,
+        "fonte": "CNPJ NOME DO PRODUTO NÚMERO DO PROCESSO / REGISTRO PETIÇÃO(ÕES) / EXPEDIENTE(S) -------------------------------------- BEBE BISTRO PAPINHAS E COMIDINHAS LTDA / 34.786.755/0001-85 SOPINHA DE FEIJOADA DE CARNE COM CENOURA, BETERRABA, ARROZ E ",
+        "md": "CNPJ NOME DO PRODUTO NÚMERO DO PROCESSO / REGISTRO PETIÇÃO(ÕES) / EXPEDIENTE(S) BEBE BISTRO PAPINHAS E COMIDINHAS LTDA / 34.786.755/0001-85 SOPINHA DE FEIJOADA DE CARNE COM CENOURA, BETERRABA, ARROZ E COUVE 25351.096004/2022-40 / 675730053 "
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.177-de-5-de-abril-de-2023-475815605.md",
+      "sha256_md": "d5bc475697525514420e38eff325ed613fedcbf2d71a375de14da552473c8f0a",
+      "sha256_fonte": "55548b936c643efdb24190dfa041b122418b20ab7550c5873a4bae341579a939",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "9b5b31d7ad4fca4cffdfad1e1356d21a272a0115ee8add90f704f188b1c27280",
+      "sha256_visivel_md": "8f8926e85bdea6550dc17f18a601325963c4896f81072ef0e3635ffd68abe116",
+      "primeira_diferenca": {
+        "posicao": 606,
+        "fonte": " EMPRESA / CNPJ NOME DO PRODUTO NÚMERO DO PROCESSO PETIÇÃO(ÕES) / EXPEDIENTE(S) -------------------------------------- BABY ROO COMERCIO DE ALIMENTOS LTDA / 34.282.307/0001-44 SOPINHA DE ARROZ, QUINOA, FRANGO E LEGUMES 25351.231813/2022-12 ",
+        "md": " EMPRESA / CNPJ NOME DO PRODUTO NÚMERO DO PROCESSO PETIÇÃO(ÕES) / EXPEDIENTE(S) BABY ROO COMERCIO DE ALIMENTOS LTDA / 34.282.307/0001-44 SOPINHA DE ARROZ, QUINOA, FRANGO E LEGUMES 25351.231813/2022-12 4065 - Registro de alimentos de transiç"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-815-de-13-de-marco-de-2023-469730274.md",
+      "sha256_md": "2c3a7467cb473f3700b7c8f4a14707f1e74b78f204f34c0ab09299338d820eaa",
+      "sha256_fonte": "27e613f6bf578b57228bb1c7f637e195c5cd71148e056ee5386dd00f1879e22d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "4b84513b67d1310e4178252b2356b5b29e488cacb73f3c657f3687dd92eb2341",
+      "sha256_visivel_md": "358cc7bc58e90fe24b7d52ac60215a6826db2cd61dbdc547f9ef8be83d86d1c1",
+      "primeira_diferenca": {
+        "posicao": 636,
+        "fonte": "3/2022-56 / 8260291 877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0073930237 -------------------------------------- MEDIVAX INDÚSTRIA E COMÉRCIO LTDA / 68.814.961/0001-73 25000.018676/94-06 / 3015930 719 - AFE - CANCELAMENTO - SANEANTES ",
+        "md": "3/2022-56 / 8260291 877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0073930237 MEDIVAX INDÚSTRIA E COMÉRCIO LTDA / 68.814.961/0001-73 25000.018676/94-06 / 3015930 719 - AFE - CANCELAMENTO - SANEANTES DOMISSANITÁRIOS / 024519423"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-743-de-8-de-marco-de-2023-468769537.md",
+      "sha256_md": "dc590b47c6037b416ec6963966f7bbaca38c155257ece8700060c0250d57c93b",
+      "sha256_fonte": "809cf93e980ac3ec11d6c4d08c2b2e2ec872fcbd7e5b8dc2126d8f0d4fffaed3",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ab5347b6367b2f47afe9c8bf36faf585bd25765f8e78ead1b1179bc57acaa98e",
+      "sha256_visivel_md": "a89ac2d7df238e6db41ee694b12c6d93f172b8ea3f7df479daa1c822699152f7",
+      "primeira_diferenca": {
+        "posicao": 1330,
+        "fonte": " 8.077/13, a Autorização emitida pela Anvisa precede o licenciamento sanitário. -------------------------------------- FARMACIA DANTAS LTDA / 07.791.116/0001-35 25351.588290/2022-75 / 70753 - AE - CONCESSÃO - OUTROS PRODUTOS OU SUBSTÂNCIAS ",
+        "md": " 8.077/13, a Autorização emitida pela Anvisa precede o licenciamento sanitário. FARMACIA DANTAS LTDA / 07.791.116/0001-35 25351.588290/2022-75 / 70753 - AE - CONCESSÃO - OUTROS PRODUTOS OU SUBSTÂNCIAS SUJEITOS AO CONTROLE ESPECIAL (Portaria"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.547-de-4-de-maio-de-2023-481522232.md",
+      "sha256_md": "15d8a36dfa5b1ed1a7f186d062e0692962ba2655a6e6973f0350ca9098ec5faa",
+      "sha256_fonte": "a0c7484fc8c6682e60b5f15e5b02913a721c101289a73f817d8623271e761edb",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "4aa819d60421e27411779be7732cf54513ba88a85bb997ef8942934a962fe9f3",
+      "sha256_visivel_md": "ca3af779fc88cb0456d3fbd5254f99f5173f985f70055ae796b97d2d63cb84f9",
+      "primeira_diferenca": {
+        "posicao": 1558,
+        "fonte": "TO PETIÇÃO CLONE (ASSUNTO PETIÇÃO MATRIZ - EXPEDIENTE MATRIZ - PROCESSO MATRIZ) -------------------------------------------------- ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A ESALERG 25351.265966/2011-38 4361147/22-8 RDC 73/2016 - SIMILAR - Alteraç",
+        "md": "TO PETIÇÃO CLONE (ASSUNTO PETIÇÃO MATRIZ - EXPEDIENTE MATRIZ - PROCESSO MATRIZ) ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A ESALERG 25351.265966/2011-38 4361147/22-8 RDC 73/2016 - SIMILAR - Alteração maior de produção do IFA 4361167/22-2 RDC 73/201"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.089-de-30-de-marco-de-2023-474539002.md",
+      "sha256_md": "ba7a1a292c7fcb4c6a972b28d296d5dcbe01cdd4defed62f70face4fffd71fc6",
+      "sha256_fonte": "faba3d72ead71d418b957544c99f871fd6f70132ebc63b0ff09b918ac7080359",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d8f8220b45c950ca03ae47be3ef0f1f799332c8a054ccde635f6e02ae3bc6f43",
+      "sha256_visivel_md": "9ee2bddc16de8ad55edeb804a8bbfb48c25d186dbef17f5f520642e4e58201c1",
+      "primeira_diferenca": {
+        "posicao": 990,
+        "fonte": "TICOS - Solicitação de Transferência de Titularidade de Registro / 4845077/22-1 -------------------------------------- L`AROMATIC INDUSTRIA E COMERCIO LTDA / 17.470.182/0001-67 ÁLCOOL EM GEL-PROTECT GEL 25351.672398/2020-83 / 270090034 2331",
+        "md": "TICOS - Solicitação de Transferência de Titularidade de Registro / 4845077/22-1 L`AROMATIC INDUSTRIA E COMERCIO LTDA / 17.470.182/0001-67 ÁLCOOL EM GEL-PROTECT GEL 25351.672398/2020-83 / 270090034 2331 - REG. COSMÉTICOS - Cancelamento do Re"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-44-de-5-de-janeiro-de-2023-456628321.md",
+      "sha256_md": "f0cbfc1f4cbf434b01a9de52c3bd5cc9dbff03484307b521f75b97af7c5132df",
+      "sha256_fonte": "350cc5bb8f5eff21e182b968e67e1429699141059cdaac733424a32cb3e1489e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "76649d90cd9d5e7c7d80f9ebec7f8cfab8d281d54b92be072e09bfd75b63ebde",
+      "sha256_visivel_md": "b4495153ac6ceafab81f90e0cfca3f17a7acb5146e733d6394982c7963896429",
+      "primeira_diferenca": {
+        "posicao": 708,
+        "fonte": "IENTE NUMERO DE REGISTRO VALIDADE APRESENTAÇÃO DO PRODUTO PRINCIPIO(S) ATIVO(S) ---------------------------- BAYER S.A. 18459628000115 UNDECILATO DE TESTOSTERONA NEBIDO 25351.091778/2008-26 10/2025 1446 MEDICAMENTO NOVO - CANCELAMENTO DE RE",
+        "md": "IENTE NUMERO DE REGISTRO VALIDADE APRESENTAÇÃO DO PRODUTO PRINCIPIO(S) ATIVO(S) BAYER S.A. 18459628000115 UNDECILATO DE TESTOSTERONA NEBIDO 25351.091778/2008-26 10/2025 1446 MEDICAMENTO NOVO - CANCELAMENTO DE REGISTRO DO MEDICAMENTO POR TRA"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-376-de-2-de-fevereiro-de-2023-462332972.md",
+      "sha256_md": "9c58f636ac77a181ce0b00c6cf0e570c6fc10d2d1a91650be8ab22c450762076",
+      "sha256_fonte": "ddfa676a040e1795e9463e5b206fa3ffef793fb83592ed6a8048d09ac4a19156",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "aaab84644c628a01480c4d84c0bfb9476e921eb17af78db5f58f1bae95ab02be",
+      "sha256_visivel_md": "1085c0d7df4ea81a846d0833d6cdc4a3820347319ca3c9889ff829be95937732",
+      "primeira_diferenca": {
+        "posicao": 672,
+        "fonte": " 307700003 30020 - REG. SANEANTES - Registro de produtos saneantes / 4688665229 -------------------------------------- LUIS PAULO DA SILVA EIRELI / 40.777.980/0001-58 PAXLIMP ÁGUA SANITÁRIA 25351.587253/2022-40 / 312550001 30020 - REG. SANE",
+        "md": " 307700003 30020 - REG. SANEANTES - Registro de produtos saneantes / 4688665229 LUIS PAULO DA SILVA EIRELI / 40.777.980/0001-58 PAXLIMP ÁGUA SANITÁRIA 25351.587253/2022-40 / 312550001 30020 - REG. SANEANTES - Registro de produtos saneantes "
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-522-de-15-de-fevereiro-de-2023-465490977.md",
+      "sha256_md": "b8d27f447f3ffbe2cb304aafabda8455226825e1866f323cdbb5d4310eee1134",
+      "sha256_fonte": "0c745b380378a13d6934651affeded70b74d19c09ec58847e778b9702e4ed156",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2e1b57796e7ae017dbb2e80e90708810cda531bbd0fcac9654a88d4ed3d15c81",
+      "sha256_visivel_md": "3481e112452e21567f5937e05b4295d5281a740adb36fe17d1e9a1b4b7f1d398",
+      "primeira_diferenca": {
+        "posicao": 1135,
+        "fonte": "ades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa. ---------------------------------------------------------------------------------- Fabricante: Biokit S.A. Endereço: Can Montcau 7, Lliçà d´Amunt, Barcelona, 08",
+        "md": "ades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa. Fabricante: Biokit S.A. Endereço: Can Montcau 7, Lliçà d´Amunt, Barcelona, 08186, Espanha Solicitante: Werfen Medical Ltda CNPJ: 02.004.662/0001-65 Autorização "
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-211-de-19-de-janeiro-de-2023-459254456.md",
+      "sha256_md": "36e01ad66225895ccf775f6aea8f48643f07c00f401b3e22248a0e6b62d97793",
+      "sha256_fonte": "8b9cd01c581710aec00328987baf8e8fed7b54e6132a34deaaee923b9498455d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3f81750ca3eb11aa151b46d588ab0a4099ef8ca2bd6c46730713dfbdb41f248a",
+      "sha256_visivel_md": "cc5977714112a5b752c564dcd7c6fd225fdebc2ed35f3b5a288baf2bf9e40488",
+      "primeira_diferenca": {
+        "posicao": 901,
+        "fonte": "2022-45 / 287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 4188161/22-1 -------------------------------------- Proline Indústria e Comércio Ltda / 02.946.060/0001-27 Gel Antisséptico Premisse Lichia Suave 25351.724889/2020-17 / 2309",
+        "md": "2022-45 / 287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 4188161/22-1 Proline Indústria e Comércio Ltda / 02.946.060/0001-27 Gel Antisséptico Premisse Lichia Suave 25351.724889/2020-17 / 230930034 289 - REG. COSMÉTICOS - Alteração"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-386-de-2-de-fevereiro-de-2023-462319678.md",
+      "sha256_md": "7251932209a1621659029101fba3787914a3e9dbe03caec876946ef8aa2309a4",
+      "sha256_fonte": "964716ebcf8f6367098eb594af377e1f332a22959f43b6e58af17953b3e27eaf",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "35fefbbba144a885f8e9449f10c3c88dd6e3411993456afed730e1e2b635cd29",
+      "sha256_visivel_md": "388f39440ca45a52598be45a6b211bdf918ef628af753d35fae80184145e9f17",
+      "primeira_diferenca": {
+        "posicao": 711,
+        "fonte": "IENTE NUMERO DE REGISTRO VALIDADE APRESENTAÇÃO DO PRODUTO PRINCIPIO(S) ATIVO(S) --------------------------- BL INDÚSTRIA OTICA LTDA 27011022000103 CLORIDRATO DE TIORIDAZINA MELLERIL 25351.508461/2020-29 05/2026 1446 MEDICAMENTO NOVO - CANCE",
+        "md": "IENTE NUMERO DE REGISTRO VALIDADE APRESENTAÇÃO DO PRODUTO PRINCIPIO(S) ATIVO(S) BL INDÚSTRIA OTICA LTDA 27011022000103 CLORIDRATO DE TIORIDAZINA MELLERIL 25351.508461/2020-29 05/2026 1446 MEDICAMENTO NOVO - CANCELAMENTO DE REGISTRO DO MEDIC"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-552-de-16-de-fevereiro-de-2023-465487875.md",
+      "sha256_md": "39fda630807130e56a1863d277f9f62f8d4a1d5cff0e21e377b610f4db22c19c",
+      "sha256_fonte": "1555b63040cedbbad7747f2e6d02766ca69b9d55f9534e170bf60d448e7d5c9c",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "009109c29af1b90b6851ed82d27c8052404c38bf17483e33c1b378f228dcf255",
+      "sha256_visivel_md": "aa8d59c35df6f35faeffc33dc0abcf4149d44445ea42d434cd5c4a4e943af32d",
+      "primeira_diferenca": {
+        "posicao": 667,
+        "fonte": "ANEXO RAZÃO SOCIAL CNPJ N° PROCESSO EXPEDIENTE CANCELAMENTO MARCA COMERCIAL M.S --------------------------------------------------- ABBOTT LABORATÓRIOS DO BRASIL LTDA - 56.998.701/0001-16 25351.387592/2016-80 0086262/23-8 LOBEAT 105530378 -",
+        "md": "ANEXO RAZÃO SOCIAL CNPJ N° PROCESSO EXPEDIENTE CANCELAMENTO MARCA COMERCIAL M.S ABBOTT LABORATÓRIOS DO BRASIL LTDA - 56.998.701/0001-16 25351.387592/2016-80 0086262/23-8 LOBEAT 105530378 APSEN FARMACEUTICA S/A - 62.462.015/0001-29 25351.492"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.253-de-12-de-abril-de-2023-476705245.md",
+      "sha256_md": "00ebe4842e0467dcb26d896b1b80f0e4fb2f785ec3ebac2c5484d15090839da9",
+      "sha256_fonte": "528139125a001cd080fbd04dff174c2635b1dd70ea244f3f67155f859d1e0888",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "198360d9fe5b55c096db4cb3899883397f13d0ad317b18912c6081032589ac13",
+      "sha256_visivel_md": "c194df6d7cbfa87491a6e52848435b5015f3b8e1cf5b82710d544947eedb58a0",
+      "primeira_diferenca": {
+        "posicao": 827,
+        "fonte": "2013-20 / 1403251 70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 0244611238 -------------------------------------- NOVA QUIMICA FARMACÊUTICA S/A / 72.593.791/0001-11 25000.029145/99-18 / 1206986 70809 - AE - CANCELAMENTO - AUTORIZAÇÃO E",
+        "md": "2013-20 / 1403251 70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 0244611238 NOVA QUIMICA FARMACÊUTICA S/A / 72.593.791/0001-11 25000.029145/99-18 / 1206986 70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 0260999237"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.759-de-18-de-maio-de-2023-484585869.md",
+      "sha256_md": "e9f4138ca67bedb40c1f4e36a22a018befcf7bf4b99a0eaa97874ee95fdab69b",
+      "sha256_fonte": "7e4458ef8349c9bc3d6aabd5f5ce61bc0f21b87369b53c32f491f110fcb399b5",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "4eba6548140a74d40d15cacf4f18b526a8439c5663c92b78c7ef3c087aea8574",
+      "sha256_visivel_md": "fd1fc9edd471071b7112fce5838951dcff38d596b5f1167912f68de9382712ff",
+      "primeira_diferenca": {
+        "posicao": 692,
+        "fonte": "IENTE NUMERO DE REGISTRO VALIDADE APRESENTAÇÃO DO PRODUTO PRINCIPIO(S) ATIVO(S) ---------------------------- TORRENT DO BRASIL LTDA 33078528000132 EZETIMIBA + rosuvastatina cálcica ZIMIEX DUO 25351.194566/2023-39 05/2023 11200 MEDICAMENTO N",
+        "md": "IENTE NUMERO DE REGISTRO VALIDADE APRESENTAÇÃO DO PRODUTO PRINCIPIO(S) ATIVO(S) TORRENT DO BRASIL LTDA 33078528000132 EZETIMIBA + rosuvastatina cálcica ZIMIEX DUO 25351.194566/2023-39 05/2023 11200 MEDICAMENTO NOVO - SOLICITAÇÃO DE TRANSFER"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.199-de-6-de-abril-de-2023-477403859.md",
+      "sha256_md": "b17c981cea356123a7be5eedb93b8ab6746f2b6859d413ab2fe3a4603c25eb9a",
+      "sha256_fonte": "2cf2085f5cdb7edd4e5752337ef1c14fe04c7f7865a4473b3fc6276779e557f3",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "7dcc35b3fbcfccdb1545ecb6669c71ece595b0b6f16fa20932be2534c80467d1",
+      "sha256_visivel_md": "2733bf3700149085719787ab56b460ac1c3cb8ea7c069b1221ea0b52e6e08dcf",
+      "primeira_diferenca": {
+        "posicao": 836,
+        "fonte": " ANEXO ASSUNTO PETIÇÃO EXPEDIENTE LABORATÓRIO CNPJ ENDEREÇO CIDADE UF ALTERAÇÃO ------------------------------------------------------------------------------------------------------- 70682 - REBLAS - Alteração de Escopo da Habilitação. 027",
+        "md": " ANEXO ASSUNTO PETIÇÃO EXPEDIENTE LABORATÓRIO CNPJ ENDEREÇO CIDADE UF ALTERAÇÃO 70682 - REBLAS - Alteração de Escopo da Habilitação. 0271246/23-5 Kosmoscience Ciência e Tecnologia Cosmética, Importação e Exportação Ltda. 05.944.444/0002-80 "
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-439-de-8-de-fevereiro-de-2023-463879333.md",
+      "sha256_md": "0dfd7cf1916384cbb81d458defbc4a8eacae8ac58559c433f18b5354ec95689b",
+      "sha256_fonte": "3c176a039c8b369b5f8e95954ffe6a4f842dbcf5244b9b77a3b7e64b2237ce35",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "93bbf1e907d132e6e843a0a5b50b414175d96f76b910a3ca6a6264c2b01308ee",
+      "sha256_visivel_md": "8549945e5897fdfbc5b1a2d9dc5d7779e16636c84fd5d5b939f883c21e0bb616",
+      "primeira_diferenca": {
+        "posicao": 1295,
+        "fonte": "o conformidades encontradas, conforme notificação de exigência nº 4692456/22-6. ---------------------------------------------------------------------------------------- Fabricante: Wuhan Youkey Bio-Medical Electronics Co., Ltd. Endereço: 2n",
+        "md": "o conformidades encontradas, conforme notificação de exigência nº 4692456/22-6. Fabricante: Wuhan Youkey Bio-Medical Electronics Co., Ltd. Endereço: 2nd Floor, Dingxin Industry Park, Jiayuan Road, East Lake Development District, Wuhan, Hube"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.072-de-30-de-marco-de-2023-474541887.md",
+      "sha256_md": "ce44dd7e7a44f42e22eca29602cdb8c8fd7ea5e9f4eb038126e5a746f552ef84",
+      "sha256_fonte": "0317dbf11fa4a8bc478db320fbf74df2723b5c493f635b8cee12b9d40d44273c",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "85096b73ce7c51bf7f13c85da7d14d2d048af12aa1f844f28ec32fb55125f7b6",
+      "sha256_visivel_md": "76bc6007e786a810dc93606adaca7935e051019bb97df89f2ba3431a28f405b1",
+      "primeira_diferenca": {
+        "posicao": 887,
+        "fonte": "DO PROCESSO EXPEDIENTE DO PEDIDO DE DESISTÊNCIA EXPEDIENTE DA PETIÇÃO DESISTIDA ---------------------------------------------------------------------------------- CELLTRION HEALTHCARE DISTRIBUICAO DE PRODUTOS FARMACEUTICOS DO BRASIL LTDA 12",
+        "md": "DO PROCESSO EXPEDIENTE DO PEDIDO DE DESISTÊNCIA EXPEDIENTE DA PETIÇÃO DESISTIDA CELLTRION HEALTHCARE DISTRIBUICAO DE PRODUTOS FARMACEUTICOS DO BRASIL LTDA 12206 - GGBIO - Procedimento otimizado temporário de análise (RDC nº 750/2022) 25351."
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-1.248-de-11-de-abril-de-2023-476425834.md",
+      "sha256_md": "fe860fcef6ef508088cff14a3e8a2824c3690a1ef570b4017ad792dfd3917070",
+      "sha256_fonte": "0600f8d586382cb06afbaa4409fafabe16bf768a69169d67bc866ef16f12e485",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "cc4d66784a2317c748d26af134b88c0e3da95bb520e68950f25f198569379f27",
+      "sha256_visivel_md": "6e3d04702cfd147558d6e868b0f69d6ae548e8a1693dddb7747e516f0666d829",
+      "primeira_diferenca": {
+        "posicao": 808,
+        "fonte": "m as assinaturas dos representantes, contrariando o art. 11 da RDC nº 275/2019. -------------------------------------- DOMUS - DISTRIBUIDORA DE PRODUTOS FARMACÊUTICOS LTDA / 04.170.764/0001-86 25351.124334/2023-13 / 702 - AFE - CONCESSÃO - ",
+        "md": "m as assinaturas dos representantes, contrariando o art. 11 da RDC nº 275/2019. DOMUS - DISTRIBUIDORA DE PRODUTOS FARMACÊUTICOS LTDA / 04.170.764/0001-86 25351.124334/2023-13 / 702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - "
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-245-de-25-de-janeiro-de-2023-460136722.md",
+      "sha256_md": "ece804707007c10b6f1b8a8227e381805842f99e2107fdb7322efc3a5bea542b",
+      "sha256_fonte": "e905d3e3323621bf54551b82aa6e86e5496d6c0361797e1d6e2e4356d94a82c5",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "89fa2085384405a74911e8e569a60a82c98b1ff85307346f0a68746285bba273",
+      "sha256_visivel_md": "0a1c1264e6d3042bd48cdaaf02db3392ff1747c37dbcd9a4adf2de673834eb27",
+      "primeira_diferenca": {
+        "posicao": 1171,
+        "fonte": " (processo nº 25351.901867/2022-49), contrariando o art. 2º da RDC nº 204/2005. -------------------------------------- DROGARIA E DRUGSTORE DA COSTA PEREIRA &LEAL LTDA / 34.630.521/0001-44 25351.000289/2020-60 / 7702183 7113 - AFE - ALTERAÇ",
+        "md": " (processo nº 25351.901867/2022-49), contrariando o art. 2º da RDC nº 204/2005. DROGARIA E DRUGSTORE DA COSTA PEREIRA &LEAL LTDA / 34.630.521/0001-44 25351.000289/2020-60 / 7702183 7113 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - ENDEREÇO /"
+      }
+    },
+    {
+      "path": "reguladores/anvisa/resolucoes/2023/resolucao-re-n-706-de-2-de-marco-de-2023-467799811.md",
+      "sha256_md": "1767256b2db5d783704cef08648923a753e23f917367df90c9cecf76bed14559",
+      "sha256_fonte": "e8cfea23f188f83bb86cdcb8c5b1b2ea607e6a3d04eb76418ccbcac97742bbb1",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "1bbc961e73cf70315d0fb04070ac57c2adbb0060e5993e9b4a59cb09a3f3840f",
+      "sha256_visivel_md": "9fce129781d484fb7fc99be16d5e2972bcebc5d85edd6504c388aabfef35805e",
+      "primeira_diferenca": {
+        "posicao": 917,
+        "fonte": "RAZÃO SOCIAL/CNPJ MARCA COMERCIAL NÚMERO DO PROCESSO PETIÇÃO(ÕES)/EXPEDIENTE(S) ----------------------------- ALTA - AMERICA LATINA TECNOLOGIA AGRICOLA LTDA - 10.409.614/0001-85 GLUFOSINATO TÉCNICO ALTA II 25351.573721/2017-02 5049 - AVALIA",
+        "md": "RAZÃO SOCIAL/CNPJ MARCA COMERCIAL NÚMERO DO PROCESSO PETIÇÃO(ÕES)/EXPEDIENTE(S) ALTA - AMERICA LATINA TECNOLOGIA AGRICOLA LTDA - 10.409.614/0001-85 GLUFOSINATO TÉCNICO ALTA II 25351.573721/2017-02 5049 - AVALIAÇÃO TOXICOLÓGICA PARA ALTERAÇÃ"
+      }
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-156-de-16-de-maio-de-2022-400974300.md",
+      "sha256_md": "248a3f36618e478d5490ce1d6b16e6d01bd3b9df408f2dc427a1d832a3b9530a",
+      "sha256_fonte": "07e787f205ec1e3e5cfdf7aef5ad8949371b3ab0baa2e413118b45208be2dd02",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              58
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "d6ca737a7ea11cecb30b6706875148ef11c58a810b4c7679011bcef23031dfd0",
+      "sha256_visivel_md": "d6ca737a7ea11cecb30b6706875148ef11c58a810b4c7679011bcef23031dfd0"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-155-de-16-de-maio-de-2022-400974380.md",
+      "sha256_md": "976056fe34c342499ed83a024043082c6dfd60b7daa57f45708565f027792d50",
+      "sha256_fonte": "e4ffa207ed28b68cf65afaf9dbeb4336dcd0c20a00733b853318a6ea467c68f2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              58
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "727843b8b2da00cecceff9d567baa7091a7dedf53b6cfabcf6fc913fba95e9e6",
+      "sha256_visivel_md": "727843b8b2da00cecceff9d567baa7091a7dedf53b6cfabcf6fc913fba95e9e6"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-168-de-16-de-maio-de-2022-401071547.md",
+      "sha256_md": "b1ecaa939fa12c6d5cd57394a83581f57b282df9c8ea6d7c9b82c0c41272b5a3",
+      "sha256_fonte": "155086b84600efde9845f2400413afecd5b70492c7fc58a7e471a3ca5f6392ae",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              58
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "21f07e280d66bd3665c8fac15bd9b74d6778de10c318e66773a24c0715ba512e",
+      "sha256_visivel_md": "21f07e280d66bd3665c8fac15bd9b74d6778de10c318e66773a24c0715ba512e"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-15-de-12-de-abril-de-2022-393234716.md",
+      "sha256_md": "6b03dd1fe4e0f45d15d8059130be7a4ae129156656b4ce5769de55ef713a0a43",
+      "sha256_fonte": "8ee9b74e8acec3565b22683fa879b703b00884a8776160f8fefe23d32bd954e5",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              76,
+              78
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "14993ee14d97fea6894863029552d8272ccf10d660594d9c46cb0b9240dfec88",
+      "sha256_visivel_md": "14993ee14d97fea6894863029552d8272ccf10d660594d9c46cb0b9240dfec88"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-16-de-12-de-abril-de-2022-393262507.md",
+      "sha256_md": "84e6cb9a3a12047f1f68d6d0f85b9db21924eeb8c138234fe5ab6724c8839bd6",
+      "sha256_fonte": "80507d03b83a8309589538d1e1ed561868ffecef3968de7e88a4a5eafc7f610c",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              82,
+              84
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "9677985e70e525bc06b9664ea69f9f405c052732b101d9e66c4b9d8d15152ccf",
+      "sha256_visivel_md": "9677985e70e525bc06b9664ea69f9f405c052732b101d9e66c4b9d8d15152ccf"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-160-de-16-de-maio-de-2022-401071305.md",
+      "sha256_md": "ad3ce945f9282ab060978adf9cc34bd33c31e2641aed2e22474082b408e5abd4",
+      "sha256_fonte": "93a286b9ff82af98772a7bcf6cfe4b985f2426a0793a0afa4edbaa4623a3627e",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              56
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "1fea7c3f50d2321dd3a37816a7c5b005f22f21b671088862b4e4430492849dba",
+      "sha256_visivel_md": "1fea7c3f50d2321dd3a37816a7c5b005f22f21b671088862b4e4430492849dba"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-158-de-16-de-maio-de-2022-401071065.md",
+      "sha256_md": "49b341fc6181dc6001fc4d4ba8413b62e3b317f4704d1700d61a7dacf62a3a5e",
+      "sha256_fonte": "2995dc29a509bcf33d078ad6c07e211e83eff87cf1c7f3509539b40bc41c3604",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              58
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "6f4fb652a266d42ee634c89cad240ff7a9aa11c74d5450935ea5c4461762edd7",
+      "sha256_visivel_md": "6f4fb652a266d42ee634c89cad240ff7a9aa11c74d5450935ea5c4461762edd7"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-sda-n-562-de-12-de-abril-de-2022-393574292.md",
+      "sha256_md": "b945bb763ac693c1e8e473d82c396abbd56f0d59662e81267c15f2ad36fe2d42",
+      "sha256_fonte": "b52068e2286180040c1afafffca62864893817d1926245285bff45d639301fbd",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "a3c75cd9b4dd3b543fe3c6b1e3029fa0e75a0a1815d8e05a217d663496690291",
+      "sha256_visivel_md": "15ae2950a73458d7bad4c982c18f2833b92d77cf5065fe8f8173661586f194fb",
+      "primeira_diferenca": {
+        "posicao": 300,
+        "fonte": " classificação, o registro, a inspeção, a produção e a fiscalização de bebidas. O SECRETÁRIO DE DEFESA AGROPECUÁRIA, DO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO,no uso das atribuições que lhe foram conferidas pelos arts. 24 e 63 ",
+        "md": " classificação, o registro, a inspeção, a produção e a fiscalização de bebidas. **O SECRETÁRIO DE DEFESA AGROPECUÁRIA, DO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO,**no uso das atribuições que lhe foram conferidas pelos arts. 24 e"
+      }
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-163-de-16-de-maio-de-2022-400974620.md",
+      "sha256_md": "f44b46118b62fac89d0019fdbc76c0eb95ece3f0d0c21ae91820b5337818187f",
+      "sha256_fonte": "0c09cb17c90f59d9119d9b01d8fcd1c19a4e62febf5411b1f812d00023c354ac",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              58
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "591c009f8a110c7aa33a305918c5b0d4c79bd200a6ab01fd5c5e66562fdfe910",
+      "sha256_visivel_md": "591c009f8a110c7aa33a305918c5b0d4c79bd200a6ab01fd5c5e66562fdfe910"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-sda-n-527-de-7-de-fevereiro-de-2022-379519080.md",
+      "sha256_md": "66c3f1c6bc33d768a2daee80d632b4db3ef10b4965165d68c415f3bb649233ff",
+      "sha256_fonte": "474d5088f9146d697f1455f08ffcf087da20f251cbb28749b96caa3b77af7162",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "257df3ee0e6712b5565ca98a4c1fad58e831244e14d38a495a2ab72f8e40016c",
+      "sha256_visivel_md": "6c784cc3c0a686a58a3d0f6547aad06c16a98d2b7bfbb110019e3b85b79758be",
+      "primeira_diferenca": {
+        "posicao": 24190,
+        "fonte": ", na descrição do processo produtivo, a espécie de presa utilizada na criação deChrysoperla externa.Caso a presa seja liberada junto com aC. externa,deve-se identificar a espécie e a forma de inviabilização da presa utilizada no produto for",
+        "md": ", na descrição do processo produtivo, a espécie de presa utilizada na criação de*Chrysoperla externa.Caso a presa seja liberada junto com aC. externa,*deve-se identificar a espécie e a forma de inviabilização da presa utilizada no produto f"
+      }
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-170-de-16-de-maio-de-2022-401071707.md",
+      "sha256_md": "6e90fe51f5516fe45cc1c41a7972d68ab9b98b8b5d52b7fc99243d1fa137db67",
+      "sha256_fonte": "daa97c0df421c3f08b06b5b3326fa9d7e0ae19edd3bb69f09a7a9b19ee3f4d8c",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              56
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "12d9fb23e25f94f454027f5c9dedcfe0dd2d2f552cb106874aa5621b81e519d3",
+      "sha256_visivel_md": "12d9fb23e25f94f454027f5c9dedcfe0dd2d2f552cb106874aa5621b81e519d3"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-165-de-16-de-maio-de-2022-400974540.md",
+      "sha256_md": "129d537dc479dac6c9a41b661b5afd242569fea5785853de8fdb6fe657b77569",
+      "sha256_fonte": "ae6cf566a037fe83f5f3b214538fc3b554dd70c98fd64d6a0772b22667037a8c",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              58
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "4b3fdead69c3e0784ba24bb5df576433e451b65abd4f6aba95bb2a955427186f",
+      "sha256_visivel_md": "4b3fdead69c3e0784ba24bb5df576433e451b65abd4f6aba95bb2a955427186f"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-sda-n-617-de-11-de-julho-de-2022-414419145.md",
+      "sha256_md": "9933a0e0feaed18e40459532998c6688fe8d8713ca84f696a0d73048ed5702e4",
+      "sha256_fonte": "c8e4b4579fc20627a5d1065a62ce83ab904e6878a7a210e34b5d927ebe05612e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "16680e7ef47b99fcdbae195e3db2bfe86b4a066427e17d57e538a315d6e305a5",
+      "sha256_visivel_md": "228ed18803c08867dff3410911f62fef58d5fd3c9cfafd47d14772793fdb1b41",
+      "primeira_diferenca": {
+        "posicao": 15788,
+        "fonte": "earum CandidatusPhytoplasma asteris[16SrI-C] CandidatusPhytoplasma cocostanzania(Palm lethal yellowing phytoplasma) CandidatusPhytoplasma mali(Apple proliferation phytoplasma) CandidatusPhytoplasma palmae(Palm lethal yellowing phytoplasma) ",
+        "md": "earum CandidatusPhytoplasma asteris[16SrI-C] CandidatusPhytoplasma cocostanzania*(Palm lethal yellowing phytoplasma)* CandidatusPhytoplasma mali*(Apple proliferation phytoplasma)* CandidatusPhytoplasma palmae*(Palm lethal yellowing phytopla"
+      }
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-166-de-16-de-maio-de-2022-400974700.md",
+      "sha256_md": "a94e0ff53402757aa62f2e046690a31406def7351d183fb49c6d777606192a21",
+      "sha256_fonte": "2997a0bf879bc978cb78459c42931e3a8780a4c10420229045dde366da2745e2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              56
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "698cc152effc2f6c1405eb967a59b8cf15cf12aa3f1975c4a8c8bc0f31ac7423",
+      "sha256_visivel_md": "698cc152effc2f6c1405eb967a59b8cf15cf12aa3f1975c4a8c8bc0f31ac7423"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-167-de-16-de-maio-de-2022-401071467.md",
+      "sha256_md": "f558dd27f25011bad87a8da2a06a00008d29a5802c26c05c51e0df82516f925f",
+      "sha256_fonte": "6aa3c96657743276ba0197a0fdbd9b830c0d72543618c4c7531980dc1a44808f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              58
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "ddbe9c862a651d80a9816ce86c3ed74ee7050782dacce8b21ef4ee7435c0109a",
+      "sha256_visivel_md": "ddbe9c862a651d80a9816ce86c3ed74ee7050782dacce8b21ef4ee7435c0109a"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-169-de-16-de-maio-de-2022-401071627.md",
+      "sha256_md": "d55b0a557eb9de08a798115c758ff9168ad9ed4eb3a6460554be8fd5aeb3e9e3",
+      "sha256_fonte": "833163c9d82972db0a8940167af6ae60e03f70efc493cf311147530d7e6b5000",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              56
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "28b77e0b81c55b293ca79c6a27fbb23a8b360b00c5cdb9d4dd0ae2fae72133f2",
+      "sha256_visivel_md": "28b77e0b81c55b293ca79c6a27fbb23a8b360b00c5cdb9d4dd0ae2fae72133f2"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-30-de-12-de-abril-de-2022-393251013.md",
+      "sha256_md": "118c37f8f1e7035c4454362dc8669c4f7532da70a4ddbdc7f979f1fa842a1384",
+      "sha256_fonte": "a386e6de54d92d9ac2d62619aa9eb6e3f452899b4dde88a9a058e589d5c5eacf",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              76,
+              78
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "092d75620621fe5cfd19a457efea47e744657302eb284b9924c6133e289d26f8",
+      "sha256_visivel_md": "092d75620621fe5cfd19a457efea47e744657302eb284b9924c6133e289d26f8"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-159-de-16-de-maio-de-2022-401071225.md",
+      "sha256_md": "726c8ccd3c13d2a1014ed2454a38112530e771eb7c81bcc693885497ae600105",
+      "sha256_fonte": "15e2cc2942ae0264b323f64a2f5a36455bcecdab490773759d9dfd5b52aaa38f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              54,
+              62
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "ba1134e2cd14cff7f8bbcd5c35c32ac3f0725a352cc049115b39ba4230dfee39",
+      "sha256_visivel_md": "ba1134e2cd14cff7f8bbcd5c35c32ac3f0725a352cc049115b39ba4230dfee39"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-sda-n-607-de-21-de-junho-de-2022-410711780.md",
+      "sha256_md": "d383bf312ab1d567f65880e6b8f25912fc986ada38b78008480b3f1044105cdf",
+      "sha256_fonte": "0ac0713c4ea33fb605e5bee0c3c021021957c8b525c596cbc2fa2ab4e7935b24",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "168001f51773fc0440b81e28e843e689e6c658784a99605b3e627093710c3078",
+      "sha256_visivel_md": "4177bae37c351acc7d1e530f58d54b5cec03fee35fa122cacec91c8921c29c17",
+      "primeira_diferenca": {
+        "posicao": 120,
+        "fonte": "022 Estabelece os calendários de semeadura de soja referente à safra 2022/2023. O SECRETÁRIO DE DEFESA AGROPECUÁRIA,do Ministério da Agricultura, Pecuária e Abastecimento, no uso das atribuições que lhe conferem os art. 24 e 68 do Anexo I, ",
+        "md": "022 Estabelece os calendários de semeadura de soja referente à safra 2022/2023. **O SECRETÁRIO DE DEFESA AGROPECUÁRIA,**do Ministério da Agricultura, Pecuária e Abastecimento, no uso das atribuições que lhe conferem os art. 24 e 68 do Anexo"
+      }
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-154-de-16-de-maio-de-2022-400963665.md",
+      "sha256_md": "a3269c0cde4cbaa40b8794f6ac1844d79e025d198191cce30694c3df724cd4a4",
+      "sha256_fonte": "d6e80a1af2b9210f3f0ae152477527fe6802ced643433b6c51923cfa60f495c6",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              56
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "c2ee37f7902b27235ac0999f1e4de8e0a8ded9a883d1e85ef262b60a29627f51",
+      "sha256_visivel_md": "c2ee37f7902b27235ac0999f1e4de8e0a8ded9a883d1e85ef262b60a29627f51"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-162-de-16-de-maio-de-2022-400963745.md",
+      "sha256_md": "8b18fc46abfd6f7121b53b45428b8d4ed6f8344bfee9fd3ae5efce4de20d306d",
+      "sha256_fonte": "1c3c639c4d23de87b47b651f1f9aa3d86daf1d85637eab2c1f486ff145d082e2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              56
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "1a5a9a59c98e56ba9c7e69d6590516073f3380567141d8a300039c5255fba176",
+      "sha256_visivel_md": "1a5a9a59c98e56ba9c7e69d6590516073f3380567141d8a300039c5255fba176"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-157-de-16-de-maio-de-2022-401069902.md",
+      "sha256_md": "9964d95e962023db93ed8d0c1e0703f9268cc0f98e7d599dcf300aa53c3717f4",
+      "sha256_fonte": "c80bdec698b6d731a3888d7376bb420d427d56750af46d416c7bf2532e10c2d4",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              58
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "6137d5ea4c836e0b94b7eb9db842a0f632189da269987d4bcbe68a373793018b",
+      "sha256_visivel_md": "6137d5ea4c836e0b94b7eb9db842a0f632189da269987d4bcbe68a373793018b"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-n-633-de-3-de-agosto-de-2022-420536934.md",
+      "sha256_md": "3247c234fcad43d606bbb5542d385679d97a90a97608dedd901ca248ef81ad81",
+      "sha256_fonte": "87c6b56ac4586b239955f708ce0b3a6e4813628b72e786487849a2d2e18baa0b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "dcffafe0d96ddee6a385fb4c2deb0858aae8f69b3fa8758143aa2126312a54c8",
+      "sha256_visivel_md": "80a24728ccd9328eff81d96a5e1bd3f8ecb1ef63173b71c4546b8ba24fe717d8",
+      "primeira_diferenca": {
+        "posicao": 15247,
+        "fonte": ", na descrição do processo produtivo, a espécie de presa utilizada na criação dePhytoseiulus longipes.Caso a presa seja liberada junto com aP. longipes,deve-se identificar a espécie e a forma de inviabilização da presa utilizada no produto ",
+        "md": ", na descrição do processo produtivo, a espécie de presa utilizada na criação de*Phytoseiulus longipes.Caso a presa seja liberada junto com aP. longipes,*deve-se identificar a espécie e a forma de inviabilização da presa utilizada no produt"
+      }
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-161-de-16-de-maio-de-2022-401064719.md",
+      "sha256_md": "21674b50a0e24957cf475c0b8cfe24031f3018a6947d7f70145cf33f8a0b8c38",
+      "sha256_fonte": "27bc34c0a46531f153e38666a0090498d720af4d4198f58152abec7bc509b523",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              56
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "92452f0f88f562d8217f1e248b42d88674e6936286e0bc2a297208bd478a1061",
+      "sha256_visivel_md": "92452f0f88f562d8217f1e248b42d88674e6936286e0bc2a297208bd478a1061"
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-spa-mapa-n-164-de-16-de-maio-de-2022-400974460.md",
+      "sha256_md": "a634cfdfa5346055306ae0ecf2244ff739ca5bc1ab7c04b6c6323e3f6d5db96d",
+      "sha256_fonte": "7d57f01eccf0b20b7961395e9f8187cdddce4187dfd3356894b14478c847766b",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              56
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "3e683b5bef72b16c00e65c565bfcaf6da868f07e568be9f3c2fd518854c5a625",
+      "sha256_visivel_md": "3e683b5bef72b16c00e65c565bfcaf6da868f07e568be9f3c2fd518854c5a625"
+    },
+    {
+      "path": "reguladores/mdic/resolucoes/2024/resolucao-capda-n-58-de-25-de-julho-de-2024-579833561.md",
+      "sha256_md": "af83a3587a271e1f0fde48325e437c9b659a0d64e469f9bca9d835b55656e53c",
+      "sha256_fonte": "c1e7e4060392eeabb0a3f75f3e0c842ebfd671a77810145488804cb1012013c5",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              16
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "80d85df0b650e61c0768122f3d07546eae6b907a88cc41878d43b11b59a9b980",
+      "sha256_visivel_md": "80d85df0b650e61c0768122f3d07546eae6b907a88cc41878d43b11b59a9b980"
+    },
+    {
+      "path": "reguladores/mdic/resolucoes/2024/resolucao-capda-n-61-de-25-de-julho-de-2024-579829036.md",
+      "sha256_md": "2f6daea7c2148ed32bf33329a7329fc39830e79c21a81b36387494aa5ac18354",
+      "sha256_fonte": "b8be449a6769e478b2fc4ba99fdf442e06c4a50fb0fd0aea7d8ced7cb1d90186",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              12
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "8d9a07abcc66ca8b026d17acb0f4036d30cc74f6c264ce4064810dcdfbbe9a0a",
+      "sha256_visivel_md": "8d9a07abcc66ca8b026d17acb0f4036d30cc74f6c264ce4064810dcdfbbe9a0a"
+    },
+    {
+      "path": "reguladores/mapa/instrucoes-normativas/2022/instrucao-normativa-n-116-de-19-de-abril-de-2022-394073605.md",
+      "sha256_md": "617c82bd1955b4af06c4c61976f2b260f47d2f30d5b82562e610660986784122",
+      "sha256_fonte": "1bbac66450169c62d6259c411b390dae95ab1a19c39bfc55a811c8e9cf806ed7",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS DEFINIÇÕES",
+          "fonte": "CAPÍTULO I DAS DEFINIÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DO MONITORAMENTO E DA ANÁLISE DOS MERCADOS REGIONAIS DE TERRAS",
+          "fonte": "CAPÍTULO II DO MONITORAMENTO E DA ANÁLISE DOS MERCADOS REGIONAIS DE TERRAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Do Grupo de Mercado de Terras",
+          "fonte": "Seção I Do Grupo de Mercado de Terras",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Das fases do monitoramento e da análise dos mercados de terras",
+          "fonte": "Seção II Das fases do monitoramento e da análise dos mercados de terras",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção I — Da delimitação dos Mercados Regionais de Terras",
+          "fonte": "Subseção I Da delimitação dos Mercados Regionais de Terras",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção II — Da coleta de dados nos Mercados Regionais de Terras",
+          "fonte": "Subseção II Da coleta de dados nos Mercados Regionais de Terras",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção III — Do tratamento dos dados e da estimativa das variáveis analíticas",
+          "fonte": "Subseção III Do tratamento dos dados e da estimativa das variáveis analíticas",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção IV — Da elaboração do Relatório de Análise de Mercado de Terras e da Planilha de Preços Referenciais",
+          "fonte": "Subseção IV Da elaboração do Relatório de Análise de Mercado de Terras e da Planilha de Preços Referenciais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO III DAS DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              26,
+              32
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "1e324b08866be7e25ff3df4c145242643256e9b8a3c14eb688454b91dfb06b80",
+      "sha256_visivel_md": "2edf69a5e2a731f3d73fced20f6935c29cc0a70b8377053857f6a4893b462d20"
+    },
+    {
+      "path": "reguladores/mma/instrucoes-normativas/2024/instrucao-normativa-n-4-de-15-de-maio-de-2024-561832114.md",
+      "sha256_md": "25b05d461d3b41aa435a0fbb286b487e524f721f71e10bf5c1552dec17e4f1b9",
+      "sha256_fonte": "33f88a858e5208c000b8dbccb4e13ec51e1d7a008413f2bbb4f269a99d01a783",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              258,
+              260
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              262,
+              264
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              266,
+              268
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "d48de53522c3f4bc76dee05f2cae0e1b76dac928a2e6fb1f9dd431f602f1abd4",
+      "sha256_visivel_md": "d48de53522c3f4bc76dee05f2cae0e1b76dac928a2e6fb1f9dd431f602f1abd4"
+    },
+    {
+      "path": "reguladores/ana/portarias/2023/portaria-ana-n-430-de-10-de-marco-de-2023-469402495.md",
+      "sha256_md": "9df099711a8ee06d2163d7d952d3f601b2bcc9bcaceb619fe054506be7d36268",
+      "sha256_fonte": "e8454be232dab91bf5e9aab10e24eb57d14b83946e1f2fd1f610d7d076468ffd",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — Valores de referência de custo unitário",
+          "fonte": "ANEXO I Valores de referência de custo unitário",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              34,
+              36
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "297a85d83d761fb9b6e13c6dcc0b6afbf4dbfd9da93176f52bf94e9f82653a78",
+      "sha256_visivel_md": "3386eb08532e7bf36bbab77cae5968d0e60eb99be639ad9d52bb1f3e512173c5"
+    },
+    {
+      "path": "reguladores/ana/portarias/2022/portaria-ana-n-391-de-4-de-marco-de-2022-384508560.md",
+      "sha256_md": "77182214cfd19078ce7ec4dec794b7c851def9d0d39253c33aaf9dda3c0111df",
+      "sha256_fonte": "51c8529f4c1d593413e36b84617b09ebfc68aea927989a4418193f836a3a192f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — Valores de referência de custo unitário",
+          "fonte": "ANEXO I Valores de referência de custo unitário",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              52,
+              54
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "6ff4cc78df92a5691a3a4bac3a73b2a9dcefdb33392b71349ed445d3e972bd42",
+      "sha256_visivel_md": "25fab532154a90def67b5a049f566a2ef5c6f2b74089a3d39081099f88a98023"
+    },
+    {
+      "path": "reguladores/integracao/resolucoes/2024/resolucao-condel-sudeco-n-155-de-12-de-junho-de-2024-571456579.md",
+      "sha256_md": "7336ac58eec20ec2fd9512187df1ca6ddd983881d453e5ec0bdf90bf26432643",
+      "sha256_fonte": "3e98d7d6001e9d80896702a6502347ca20c4e36721de70496d815719b1fdc557",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              28,
+              32
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "b5bd0a8757bf7600457c280a01f739c10f21ee70c3c740958d2ffca1dd18585a",
+      "sha256_visivel_md": "e563d5b510bf95827397791859a38437f31c9faccb6d10f452514076690625e9",
+      "primeira_diferenca": {
+        "posicao": 1550,
+        "fonte": "rar com as seguintes alterações: Título III - Condições Gerais de Financiamento ---------------------------------------------------------------------------------------------------------- 2. RESTRIÇÕES 2.1. ITENS NÃO FINANCIÁVEIS: não consti",
+        "md": "rar com as seguintes alterações: Título III - Condições Gerais de Financiamento 2. RESTRIÇÕES 2.1. ITENS NÃO FINANCIÁVEIS: não constitui objetivo do FCO financiar: ............................................................................"
+      }
+    },
+    {
+      "path": "reguladores/comunicacoes/resolucoes/2024/resolucao-n-30-mcom-de-2-de-agosto-de-2024-576285664.md",
+      "sha256_md": "9571f533294ef2dd69ccd21d2ea1f16214534374ae8d7764ec278bb2dfe515ab",
+      "sha256_fonte": "81b4a1e4be5e4e9fb13d4c8e8673152b47e486b3629ceabcad5fa2d0fdf87eb8",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              216,
+              220
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "245bf02bf4af60ab7f7271d5a50d4b7befb7cefb7897b5d695cc07d884933dde",
+      "sha256_visivel_md": "245bf02bf4af60ab7f7271d5a50d4b7befb7cefb7897b5d695cc07d884933dde"
+    },
+    {
+      "path": "reguladores/conselhos-profissionais/resolucoes/2022/resolucao-crmma-n-3-de-30-de-junho-de-2022-419680573.md",
+      "sha256_md": "2460aad2a73a09f19bb74fadc468ebbaacb74655525218b4e624ebfbeab74e12",
+      "sha256_fonte": "dcc661c76d81851befeb3c1de825ed2fd2a30ff004fd539e0d310ae3f55cb940",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              268,
+              274
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              278,
+              284
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "56daa6bff6e2931a2f8c43f042545de41539d656128e517c630b874d99017398",
+      "sha256_visivel_md": "56daa6bff6e2931a2f8c43f042545de41539d656128e517c630b874d99017398"
+    },
+    {
+      "path": "reguladores/conselhos-profissionais/resolucoes/2022/resolucao-n-187-de-21-de-junho-de-2022-410046645.md",
+      "sha256_md": "9b76665302b5b94a9f5fb0e09690372a5303128ebb5c6ed93e8dd2f14015ab40",
+      "sha256_fonte": "230749b1052e0c5f348deed73b30a7ada8e9f05d4be2b1a886951abee1655176",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              34,
+              44
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              86,
+              96
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              138,
+              148
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "8f261fb92d715b9427faa7ef34773ac60a430f7703e51469cfaa08d1a57b2ce2",
+      "sha256_visivel_md": "ce0b441c24c7fda4b67e78813236f6d2a4623898662041a4ca5a9538b15b417e",
+      "primeira_diferenca": {
+        "posicao": 2905,
+        "fonte": " direção das Sessões Plenárias. Art 3º. Os membros da Junta Governativa são: 1) - Maria Amélia Calheiros Santos 2) -William Ferreira da Silva 3) - Wilson Wanderlei Vieira 4) - Luzimar Pereira da Silva 5) - José Carlos Dizidel Machado Parágr",
+        "md": " direção das Sessões Plenárias. Art 3º. Os membros da Junta Governativa são: 1) Maria Amélia Calheiros Santos 2) -William Ferreira da Silva 3) Wilson Wanderlei Vieira 4) Luzimar Pereira da Silva 5) José Carlos Dizidel Machado Parágrafo Únic"
+      }
+    },
+    {
+      "path": "reguladores/conselhos-profissionais/resolucoes/2022/resolucao-cremal-n-455-de-27-de-janeiro-de-2022-381109172.md",
+      "sha256_md": "b127454343248d6170f47e320c064bb6655b23dcf4171e7ef093a5ee33a5cf89",
+      "sha256_fonte": "73846e6f68b25b06c559fc950521443e8b63d945ed4693b114321128d145796c",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO II — CONSELHO REGIONAL DE MEDICINA DE ALAGOAS - CREMAL - CNPJ nº 10.884.377/0001-04",
+          "fonte": "ANEXO II CONSELHO REGIONAL DE MEDICINA DE ALAGOAS - CREMAL - CNPJ nº 10.884.377/0001-04",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO III — RELATÓRIO DE PARTICIPAÇÃO",
+          "fonte": "ANEXO III RELATÓRIO DE PARTICIPAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c6bcef06ee26727f38ac888ce189f2b20d57c2eb1152bd7d401ceff5cae7fc8e",
+      "sha256_visivel_md": "23f46b42b1ed38a440bc714ca9b7c3ca42b34605c33111c0a11242a01311534a",
+      "primeira_diferenca": {
+        "posicao": 14325,
+        "fonte": "SÍNTESE DAS ATIVIDADES DESENVOLVIDAS OBSERVAÇÕES LOCAL DATA ASSINATURA ANEXO IV SOLICITAÇÃO DE PAGAMENTO CREMAL Nº ____/_____ CONSELHO REGIONAL DE MEDICINA DE ALAGOAS - CREMAL CNPJ nº 10.884.377/0001-04 PROCESSO Nº: / SETOR SOLICITANTE: GER",
+        "md": "SÍNTESE DAS ATIVIDADES DESENVOLVIDAS OBSERVAÇÕES LOCAL DATA ASSINATURA ANEXO IV — SOLICITAÇÃO DE PAGAMENTO CREMAL Nº /_ CONSELHO REGIONAL DE MEDICINA DE ALAGOAS - CREMAL CNPJ nº 10.884.377/0001-04 PROCESSO Nº: / SETOR SOLICITANTE: GERENTE A"
+      }
+    },
+    {
+      "path": "reguladores/conselhos-profissionais/resolucoes/2022/resolucao-cremerj-n-302-de-14-de-janeiro-de-2020-375793332.md",
+      "sha256_md": "bcd684a19b6a5327cc050cec3b357d40a05322eb36a02378f73444221909b713",
+      "sha256_fonte": "969babf18a0a7f26097f22f6b7bcffd10b50c036992c3375ebd5d5e0d29d9478",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ".",
+            "linhas": [
+              224,
+              226
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ".",
+            "linhas": [
+              232,
+              234
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "dff198ba0412d7dec96c1839dc80c37296fb6b769ab710eed3cf5a7a7b3502ae",
+      "sha256_visivel_md": "dff198ba0412d7dec96c1839dc80c37296fb6b769ab710eed3cf5a7a7b3502ae"
+    },
+    {
+      "path": "reguladores/conselhos-profissionais/resolucoes/2022/resolucao-cress-n-1-de-31-de-marco-de-2022-390396216.md",
+      "sha256_md": "505093730e85f9e678076f4af2f7aad1b5f65ae6ed06caeffcf3223f3dfdcd8d",
+      "sha256_fonte": "7e8889c0bb061a30d040ef0723cb99e9dfb50eaef44abda3b003e18f541a6a53",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              22,
+              26
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              28,
+              140
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "1cdb3c83bbae58e211e00a7ef3d29fc33849147b5f2220b90a3e428579265dad",
+      "sha256_visivel_md": "1cdb3c83bbae58e211e00a7ef3d29fc33849147b5f2220b90a3e428579265dad"
+    }
+  ]
+}

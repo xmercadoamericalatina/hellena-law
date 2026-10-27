@@ -1,0 +1,29 @@
+from pathlib import Path
+import sys,json,gzip,re,hashlib,base64,collections
+sys.path.insert(0,'/tmp/constituicao-markdown-qa-20261020');sys.path.insert(0,'scripts/estados')
+from markdown_it import MarkdownIt
+from pe_fidelidade_visivel import texto_visivel_html,_heading_comprovado,assinatura_numerica
+md=MarkdownIt('commonmark',{'html':True}).enable('table').enable('strikethrough');sha=lambda b:hashlib.sha256(b).hexdigest()
+num=sys.argv[1];gate=Path(f'scripts/dados/reguladores-gates-20261021-{num}.json');d=json.loads(gate.read_text());out=[];counts=collections.Counter()
+for i,r in enumerate(d['documentos'],1):
+ raw=Path(r['path']).read_bytes();assert sha(raw)==r['sha256_md'];src=gzip.decompress(Path(r['cache']).read_bytes());assert sha(src)==r['sha256_fonte'];origin=r['manifesto_origem'];body=raw.decode().split('\n---\n',1)[1].lstrip('\n');body=body.split('\n',1)[1].lstrip('\n')
+ if '/dou-cache-' in origin:
+  fragment=re.search(r'<div[^>]+class="[^\"]*texto-dou[^\"]*".*?</div>\s*(?=<div|</section|</main)',src.decode(),re.S)[0]
+ else:
+  doc=json.loads(src);parts=[]
+  for s in sorted(doc.get('ementas',[])+doc.get('outrosSegmentos',[]),key=lambda x:x.get('ordemSegmentoAto',0)):
+   if s.get('omitir') or not s.get('original'):continue
+   text=s.get('textoIntegra','');a=s.get('arquivoBinario')
+   if a:
+    assert a.get('idTipoArquivo') in (4,5) and a.get('arquivoBinario');text+='\n'+base64.b64decode(a['arquivoBinario'],validate=True).decode('utf8')
+   if text:parts.append(text)
+  fragment='\n\n'.join(parts)
+ source=texto_visivel_html(fragment);actual=texto_visivel_html(md.render(body));normalized,changes=_heading_comprovado(actual,body,source)
+ # Apenas whitespace/BOM e separador editorial de heading comprovado.
+ equal=normalized==source;numeric=assinatura_numerica(normalized)==assinatura_numerica(source)
+ row={'path':r['path'],'sha256_md':r['sha256_md'],'sha256_fonte':r['sha256_fonte'],'igual_fonte':equal,'assinatura_numerica_igual':numeric,'headings_comprovados':changes,'sha256_visivel_fonte':sha(source.encode()),'sha256_visivel_md':sha(actual.encode())}
+ if not equal:
+  pos=next((j for j,(a,b) in enumerate(zip(source,normalized)) if a!=b),min(len(source),len(normalized)));row['primeira_diferenca']={'posicao':pos,'fonte':source[max(0,pos-80):pos+160],'md':normalized[max(0,pos-80):pos+160]}
+ out.append(row);counts['iguais' if equal and numeric else 'revisar']+=1
+ if i%500==0:print(i,dict(counts),flush=True)
+p=Path(f'scripts/dados/reguladores-fidelidade-renderizada-20261021-{num}.json');assert not p.exists();p.write_text(json.dumps({'criterio':'Comparação suplementar de CommonMark com HTML, tabelas e strike contra texto literal da fonte, preservando pontuação e sinais. Alertas de listas/estrutura exigem revisão contextual, não provam ausência normativa.','engine':'markdown-it-py 4.0.0','script_sha256':sha(Path(__file__).read_bytes()),'helper_sha256':sha(Path('scripts/estados/pe_fidelidade_visivel.py').read_bytes()),'contagens':counts,'documentos':out},ensure_ascii=False,indent=2)+'\n');print('FINAL',dict(counts),flush=True)

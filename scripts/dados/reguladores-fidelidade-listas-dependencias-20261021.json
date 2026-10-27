@@ -1,0 +1,8 @@
+{
+  "engine": "markdown-it-py==4.0.0; CommonMark com HTML, tabelas e strike",
+  "dependencias": {
+    "scripts/estados/pe_fidelidade_visivel.py": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+    "scripts/estados/auditar_pe_commonmark_contexto.py": "0e364081ac0098d6495097d409137a441328b38b745829fb4c2c6677044172eb"
+  },
+  "testes": "Cinco testes de contadores passaram no coordenador: início, salto manual divergente, lista aninhada, decimal/sinal/percentual. Nenhum contador foi copiado da fonte."
+}

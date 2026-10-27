@@ -1,0 +1,349 @@
+{
+  "criterio": "Comparação suplementar de CommonMark com HTML, tabelas e strike contra texto literal da fonte, preservando pontuação e sinais. Alertas de listas/estrutura exigem revisão contextual, não provam ausência normativa.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "c1da51935d0e04e90283ca1ddf48c0ebab0f8334793dcabd5b4d23374dfb30fc",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "iguais": 18
+  },
+  "documentos": [
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-3.014-de-5-de-dezembro-de-2025-674178200.md",
+      "sha256_md": "dd83208251b1f43d93823132e91a4fa1d54ca62173acc0e07babfc08b80f60db",
+      "sha256_fonte": "231b42ad5f441edbd823e8e502607e3075bfba1dc4af648b3ebb24f9b5770216",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "29d32a6895a4e25d88109054ef032dd2e9b401df70288ead5af7a1842864e7c9",
+      "sha256_visivel_md": "29d32a6895a4e25d88109054ef032dd2e9b401df70288ead5af7a1842864e7c9"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-1.541-de-15-de-julho-de-2025-642506252.md",
+      "sha256_md": "224814f1fe202bbb731a84855a707a621783c056a986aa8cec30bfa53aa1cdf9",
+      "sha256_fonte": "511af94e450dabbad179615c2617d845b5f9f11b10435ba4e620c0115a20be80",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "eb9fe470f21d10f68183e3565a74146767baf45e73db5ae6190b23154bfed7b3",
+      "sha256_visivel_md": "eb9fe470f21d10f68183e3565a74146767baf45e73db5ae6190b23154bfed7b3"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-2.156-de-24-de-setembro-de-2025-658375848.md",
+      "sha256_md": "b274a3fc0cdd7995192a364942dd384c5648829d47b6e1e3bcafd334b433c3a7",
+      "sha256_fonte": "5638bb4797f76914e2977fed9d490a2afd0b5cdb02884b70086df92d668f3a60",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "Seção I — Das Ações",
+          "fonte": "Seção I Das Ações",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Das Ações de Apoio a Soluções Inovadoras",
+          "fonte": "Seção II Das Ações de Apoio a Soluções Inovadoras",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Das Ações de Apoio à Formação de Consórcios Públicos",
+          "fonte": "Seção III Das Ações de Apoio à Formação de Consórcios Públicos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — Das Ações de Apoio à Capacitação",
+          "fonte": "Seção IV Das Ações de Apoio à Capacitação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção V — Das Ações de Apoio à Estruturação de Parcerias Público-Privadas e Concessões",
+          "fonte": "Seção V Das Ações de Apoio à Estruturação de Parcerias Público-Privadas e Concessões",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção VI — Da Diversificação Regional",
+          "fonte": "Seção VI Da Diversificação Regional",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DOS PROCEDIMENTOS DE EXECUÇÃO",
+          "fonte": "CAPÍTULO II DOS PROCEDIMENTOS DE EXECUÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Dos Instrumentos de Aplicação dos Recursos",
+          "fonte": "Seção I Dos Instrumentos de Aplicação dos Recursos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Do Plano de Execução da Contrapartida",
+          "fonte": "Seção II Do Plano de Execução da Contrapartida",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DA PRESTAÇÃO DE CONTAS",
+          "fonte": "CAPÍTULO III DA PRESTAÇÃO DE CONTAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Da Prestação de Contas",
+          "fonte": "Seção I Da Prestação de Contas",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Do Reembolso de Recursos por Parte do Ente ou de Terceiros",
+          "fonte": "Seção II Do Reembolso de Recursos por Parte do Ente ou de Terceiros",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DO APOIO E SUPORTE PRESTADO PELA SECRETARIA DO TESOURO NACIONAL",
+          "fonte": "CAPÍTULO IV DO APOIO E SUPORTE PRESTADO PELA SECRETARIA DO TESOURO NACIONAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DAS DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO V DAS DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO I — MINUTA DE ACORDO DE ADESÃO",
+          "fonte": "ANEXO I MINUTA DE ACORDO DE ADESÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "sha256_visivel_fonte": "43503813a534f7bf1e7732c1291780778876dc673472f249b22ec2965442e469",
+      "sha256_visivel_md": "8b8c191224ee7dd8e8de8cd10a04971765411fb1f7a078cc95778b8db371e116"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-2.760-de-13-de-novembro-de-2025-669278950.md",
+      "sha256_md": "ee49dd62fd80b3afcee23faa5a78d2dd9cd9047783065e59271c1667ff9e5e87",
+      "sha256_fonte": "f12f77ec73be0b3d5ce470d8837737871d18ef3f167801c54ac358d8f6552285",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "c7d39cf72843bd75eff4c2656abf401c974fc1275f66ec9ae3c94f76655a4ca0",
+      "sha256_visivel_md": "c7d39cf72843bd75eff4c2656abf401c974fc1275f66ec9ae3c94f76655a4ca0"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-1.416-de-27-de-junho-de-2025-638694145.md",
+      "sha256_md": "8db5d011e410d2fa4d0e8d797312624d0c6b850405963277c0b7255cde91689a",
+      "sha256_fonte": "0ab3b137880b1ac0cd66c98d32aea704be1d9860c3ac0de41459deaefedf3411",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "a37c964bd00a7f16208d06b2afd5ad779100a6600510baeb93fbe68329d27630",
+      "sha256_visivel_md": "a37c964bd00a7f16208d06b2afd5ad779100a6600510baeb93fbe68329d27630"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-3.192-de-22-de-dezembro-de-2025-678097481.md",
+      "sha256_md": "37217f72a39b5ec5760b8323ab43640810837e6acfdb2f8df740f8062415f717",
+      "sha256_fonte": "2ac21bec31d5749c79893f3ea6adfb3f2ed75c249408400f9bbd7d6fb5086b74",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "299dabaf92b3e9796796781c0f9bac26477ae386e7339b6469a53e41120ce12f",
+      "sha256_visivel_md": "299dabaf92b3e9796796781c0f9bac26477ae386e7339b6469a53e41120ce12f"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-2.815-de-18-de-novembro-de-2025-670188102.md",
+      "sha256_md": "84cf5cf799cd95a0e1407217ddce49508d9673e01244f5a5a8004d01575553d7",
+      "sha256_fonte": "841b113aacb0905f103389615809acaf1c95e746d396ad2dda31cbc76932e6f5",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "ca0632245f7c42381bd2ccae84b3ce824afb7ed0d7f3b609e96c9292efbf2eff",
+      "sha256_visivel_md": "ca0632245f7c42381bd2ccae84b3ce824afb7ed0d7f3b609e96c9292efbf2eff"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-2.278-de-8-de-outubro-de-2025-661305296.md",
+      "sha256_md": "5b2a2c552635099ce13531861383a2c3bd41eb6912ccf52d603d29720d65e581",
+      "sha256_fonte": "9b5babc1ddc204b07c5b86002be8fed45dddf62a4cc119bba2230c5f8b429c93",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "25848334d5f3892f2d10d03a58578bbe241564373b40d637ee5340d886f608c5",
+      "sha256_visivel_md": "25848334d5f3892f2d10d03a58578bbe241564373b40d637ee5340d886f608c5"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-1.823-de-18-de-julho-de-2025-650481534.md",
+      "sha256_md": "01795df7397e8ee91dcfd4b8caa0e48aa80f0c95ff7dd139cd87cfc06a59c4c3",
+      "sha256_fonte": "d17f7a3af6a35033d63ce2ff2a1e46ab72e27d03c124db15d333243ebe8db127",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "c04f5eff63967d8912280494dea8523c37ad1bf68c39660c40fbb462c3647322",
+      "sha256_visivel_md": "c04f5eff63967d8912280494dea8523c37ad1bf68c39660c40fbb462c3647322"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-2.909-de-27-de-novembro-de-2025-672629267.md",
+      "sha256_md": "7a5ea6fc1fdc9c237097c7cca40cc24288248e29a223bdf03b12341c0391ce6c",
+      "sha256_fonte": "ac295de54e70b44fe6aa981b3856f2463d3a8abd1c563aefb80895f059a62af6",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DISPOSIÇÕES PRELIMINARES",
+          "fonte": "CAPÍTULO I DISPOSIÇÕES PRELIMINARES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — autorização de contratos administrativos",
+          "fonte": "CAPÍTULO II autorização de contratos administrativos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — celebração de contratos E INSTRUMENTOS CONGÊNERES",
+          "fonte": "CAPÍTULO III celebração de contratos E INSTRUMENTOS CONGÊNERES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DEMAIS ATOS RELACIONADOS AO PROCESSO DE CONTRATAÇÃO",
+          "fonte": "CAPÍTULO IV DEMAIS ATOS RELACIONADOS AO PROCESSO DE CONTRATAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO IV DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "sha256_visivel_fonte": "9205fa01e4fef8947dab056734e8b2f322c18982f2cf5621cf93592f3e230acf",
+      "sha256_visivel_md": "67b2b1b3fd6a92de3a2ff0e9e4669febb3a9ada8978ccc4cbdc8130a60b35879"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-2.973-de-4-de-dezembro-de-2025-673691931.md",
+      "sha256_md": "55a5c16de4cb6f127df35cf9f945ad1aeb7ab4b90d9f0f53bb03b594cfaa9459",
+      "sha256_fonte": "2acdbbe6c0b2c7f410979d12ef5aeec3837002a7fd58e37f4486316461c60ed2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "b1320656077a841c3f715cffe68c11c34b550ed06f297cdebafb3680e755e71f",
+      "sha256_visivel_md": "b1320656077a841c3f715cffe68c11c34b550ed06f297cdebafb3680e755e71f"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-2.056-de-15-de-setembro-de-2025-656044248.md",
+      "sha256_md": "4bda85adb0e4c6ae9725c8267819e229cced6a35ca20a8a318f1048e437456a5",
+      "sha256_fonte": "d6e7f3081ccdae89559d55a0855b0199d07f7654bf049e96321b5252d2e57aab",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "56fa5323b615c4e91dd9508b30ffd4afa40eb6afe39e05372f4995ad41885fbe",
+      "sha256_visivel_md": "56fa5323b615c4e91dd9508b30ffd4afa40eb6afe39e05372f4995ad41885fbe"
+    },
+    {
+      "path": "reguladores/stn/portarias/2025/portaria-stn-mf-n-3.133-de-18-de-dezembro-de-2025-676847792.md",
+      "sha256_md": "2cf290861bb471aeb465cbe9eaba4c3e886b568bafaa2d1a8073e3c08baba19c",
+      "sha256_fonte": "8cfa8065bddf0bc0e04960fc09705329222d96d059e92ec7f202a446eaa50b27",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "b26b74507277ff419ddc8b6af47fd594cff1da85004bf424c99b8129967aa42f",
+      "sha256_visivel_md": "b26b74507277ff419ddc8b6af47fd594cff1da85004bf424c99b8129967aa42f"
+    },
+    {
+      "path": "reguladores/stn/resolucoes/2025/resolucao-gecgr-mf-n-20-de-6-de-outubro-de-2025-660718805.md",
+      "sha256_md": "842580c4dfe187df26f01567aba9e70dc5e9adc98572cbf67dff33bae51c1fb9",
+      "sha256_fonte": "cfc54b5e3c7ebc0b3b02fe3e432dca85cd902724575403fda7a183cc41daaa3a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "7ee8f9cb42f6f27a449376f77c7bf6da847f32388d8db70053add879b1cd6b3d",
+      "sha256_visivel_md": "7ee8f9cb42f6f27a449376f77c7bf6da847f32388d8db70053add879b1cd6b3d"
+    },
+    {
+      "path": "reguladores/stn/instrucoes-normativas/2025/instrucao-normativa-stn-mf-n-17-de-4-de-julho-de-2025-640258546.md",
+      "sha256_md": "b943d4404cafa99ca5842c4e9078d13122cb4770ac1bf8b9f04ab5eaad734126",
+      "sha256_fonte": "741a52b156552bef58cc26607aa55d8aa2a704431f70665f058e47409866e881",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DISPOSIÇÕES PRELIMINARES",
+          "fonte": "CAPÍTULO I DISPOSIÇÕES PRELIMINARES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DO PROCESSO DE CADASTRAMENTO E HABILITAÇÃO DOS USUÁRIOS",
+          "fonte": "CAPÍTULO II DO PROCESSO DE CADASTRAMENTO E HABILITAÇÃO DOS USUÁRIOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS ATRIBUIÇÕES",
+          "fonte": "CAPÍTULO III DAS ATRIBUIÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DOS PERFIS E NÍVEIS DE ACESSO",
+          "fonte": "CAPÍTULO IV DOS PERFIS E NÍVEIS DE ACESSO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DOS INSTRUMENTOS DE SEGURANÇA DO SIAFI",
+          "fonte": "CAPÍTULO V DOS INSTRUMENTOS DE SEGURANÇA DO SIAFI",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DOS DEVERES DOS USUÁRIOS",
+          "fonte": "CAPÍTULO VI DOS DEVERES DOS USUÁRIOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — DA CERTIFICAÇÃO DE ACESSO",
+          "fonte": "CAPÍTULO VII DA CERTIFICAÇÃO DE ACESSO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VIII — DO ACESSO AO SIAFI",
+          "fonte": "CAPÍTULO VIII DO ACESSO AO SIAFI",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IX — DO ACESSO AO SIAFI POR ENTIDADES EXTERNAS",
+          "fonte": "CAPÍTULO IX DO ACESSO AO SIAFI POR ENTIDADES EXTERNAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO X — DOS SISTEMAS DO COMPLEXO SIAFI",
+          "fonte": "CAPÍTULO X DOS SISTEMAS DO COMPLEXO SIAFI",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO XI — DAS DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO XI DAS DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "sha256_visivel_fonte": "9fd2e8c664c3f014887d7f15e67e91e0e54b00bbbfe445616d48a477bb324b82",
+      "sha256_visivel_md": "0b00c6183c706d70545504999073fee05f9d0701a734a1853bbda99d924264f9"
+    },
+    {
+      "path": "reguladores/conama/resolucoes/2025/resolucao-conama-n-509-de-29-de-julho-de-2025-645225886.md",
+      "sha256_md": "51c662a2fc9413af55a1366e0a408c97eeb69769f5a1b3f6201f9cdae86e63ac",
+      "sha256_fonte": "dae2fd4c10b542b518fbf217b0e1f69b1f99ebd74f66176d1112570640a631dc",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "ede90e3f268f7ac7fbcfde96c0951e6778d3ec48e4427e58fa7f65f672bca21e",
+      "sha256_visivel_md": "ede90e3f268f7ac7fbcfde96c0951e6778d3ec48e4427e58fa7f65f672bca21e"
+    },
+    {
+      "path": "reguladores/conama/resolucoes/2025/resolucao-conama-n-511-de-19-de-dezembro-de-2025-677603098.md",
+      "sha256_md": "cf30917a6a5730f9b93416aeac2c799460a348e6aff169ef22407a70beadc491",
+      "sha256_fonte": "2512a99f3056b14e6a37b27d1c2b2d228305e02d191b56b4fc2516163fc72e5f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "98ba085ca9aebcd22032366b5c4c360559a098b3827a4fbefa36b8fd1aade0ed",
+      "sha256_visivel_md": "98ba085ca9aebcd22032366b5c4c360559a098b3827a4fbefa36b8fd1aade0ed"
+    },
+    {
+      "path": "reguladores/conama/resolucoes/2025/resolucao-conama-n-510-de-15-de-setembro-de-2025-656033813.md",
+      "sha256_md": "7851ab1535dff5f351948e316b9e8b5df35c1947477341a7ec15ebb8d812e237",
+      "sha256_fonte": "697bf81cbaa9457b56ef77ca87095112410df5b028d40d70215757ebdb1d5d6f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "d01d8ac867c48833fe0cd05d4f181021722a1c7f25c6a48dba2da094c85fce2e",
+      "sha256_visivel_md": "d01d8ac867c48833fe0cd05d4f181021722a1c7f25c6a48dba2da094c85fce2e"
+    }
+  ]
+}

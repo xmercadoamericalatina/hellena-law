@@ -1,0 +1,782 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "22c9478bddaccafdb352d55b6c15bb5b0ae9b4a65d9a1b5ee790ffd1224508c8",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "iguais": 12,
+    "revisar": 20
+  },
+  "documentos": [
+    {
+      "path": "reguladores/rfb/2007/rfb-sijut-25485.md",
+      "sha256_md": "a2237bad2222bbd31db51372d8b00e817fa4a6354f3635ad6a0468eacdbaff7e",
+      "sha256_fonte": "2e6951673681e88d1d557d20ea47a01e50ddf04cd0b97a7c2ff6d2a742464ee1",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              16,
+              18
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "385cfed6a907f0bfb20873ebe435dee14f6f778c939290e2b4163513aa7b1b58",
+      "sha256_visivel_md": "385cfed6a907f0bfb20873ebe435dee14f6f778c939290e2b4163513aa7b1b58"
+    },
+    {
+      "path": "reguladores/rfb/2007/rfb-sijut-22539.md",
+      "sha256_md": "093c3b0158fb990c171acb134ff816a27bee6369584dad22a33095707a14d828",
+      "sha256_fonte": "0c29214c42013247c4321689c65402224ac70bbaadbfc9718cba769d52a469f7",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              16,
+              18
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              22,
+              24
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "e81bc338a50458176667aed76d6ecced84dc577509b52707dfa4f5e35f265a38",
+      "sha256_visivel_md": "e81bc338a50458176667aed76d6ecced84dc577509b52707dfa4f5e35f265a38"
+    },
+    {
+      "path": "reguladores/rfb/1973/rfb-sijut-129424.md",
+      "sha256_md": "d2a7946c694a051543cc061c85109f1cf9086a0f32a16c5cc8a4ef75e44ac59e",
+      "sha256_fonte": "2103e04a007b000dbc329a7937d4b9538e4b641435fa892884a7ce6afa730412",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              16,
+              24
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "5979a3f0540d7199f21062512f55fa9b526409bb7abdf9798fb1abe7e52cf597",
+      "sha256_visivel_md": "7e85997ef6fd934ec024d2999f3f38bd3e3b5fad4ff81cdb233a7034e400993a",
+      "primeira_diferenca": {
+        "posicao": 61,
+        "fonte": "Produto: Glicerina, inclusive águas e lixívias glicerinosas: - Glicerina, em bruto - Glicerina, purificada - Águas e lixívias glicerinosas. Posição TIPI - 15.11.01.00 - 15.11.02.00 - 15.11.03.00. Os produtos epigrafados c",
+        "md": "Produto: Glicerina, inclusive águas e lixívias glicerinosas: Glicerina, em bruto Glicerina, purificada Águas e lixívias glicerinosas. Posição TIPI - 15.11.01.00 - 15.11.02.00 - 15.11.03.00. Os produtos epigrafados classif"
+      }
+    },
+    {
+      "path": "reguladores/rfb/1973/rfb-sijut-111436.md",
+      "sha256_md": "7e63556f20763a06f9b4661699295872ef07b44f5f6ecddfa94c0f1e73067249",
+      "sha256_fonte": "675f106b2177d9c65a42a846891cc4c80277a0d1b635e7c9ffc94dd30c61dab6",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              34,
+              46
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "499a49ce16c9f0ebf16f5a32e294ac2e0714e63d33e2f62335ef6c756997939e",
+      "sha256_visivel_md": "499a49ce16c9f0ebf16f5a32e294ac2e0714e63d33e2f62335ef6c756997939e"
+    },
+    {
+      "path": "reguladores/rfb/2006/rfb-sijut-3142.md",
+      "sha256_md": "e2d012a3aba92f3d8d5119fa6dd9d142fceeb8b98c650eaa8be7b7f6c4ae6aa3",
+      "sha256_fonte": "4a72e663d1b413c75d31750d8991ccacddec057ca091362545b0b4bfbe3c6680",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              4,
+              6
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              14,
+              16
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "cf9f019e0ca94166ff05c6104958636ef3dcae11deea3f905df79bd0f2f76614",
+      "sha256_visivel_md": "cf9f019e0ca94166ff05c6104958636ef3dcae11deea3f905df79bd0f2f76614"
+    },
+    {
+      "path": "reguladores/rfb/2006/rfb-sijut-28692.md",
+      "sha256_md": "2a0d9cb9b413bb6073bf8d2f05ff9fbb622f16cde37c0d00e7f1429e7d436cfd",
+      "sha256_fonte": "3e2ed6ac3d88d8872320ebd85528a5e58ced3ce5ee9f48c3e464df9e5af4b483",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "bcf31d988c09678b45fc7805e31c4d9571cf1b84110d2e94bd787c6d5beb3a05",
+      "sha256_visivel_md": "90fbca3e77694890dcf9fcb4c0fb60f67e66ccb14877d61117926465b9f94d68",
+      "primeira_diferenca": {
+        "posicao": 13373,
+        "fonte": "092001-74 11 8 3 1 0 0 4 5 2 3 2 0 0 2 - 3 9 1383900065800-93 138840015062003-31 >",
+        "md": "092001-74 11 8 3 1 0 0 4 5 2 3 2 0 0 2 - 3 9 1383900065800-93 138840015062003-31"
+      }
+    },
+    {
+      "path": "reguladores/rfb/1992/rfb-sijut-385.md",
+      "sha256_md": "2f9eb948962a1b74154b7ed6ee9d535d439ceb6f4376c301ff730045bd93d6be",
+      "sha256_fonte": "e02e060199120885c6bc698997a4ee27207c7b58499e1e88013a397947bb6502",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "dae95348de8fcafb65eea47590a1ffb2d9f1fd8efeac1d95dfdf6f6618d6db01",
+      "sha256_visivel_md": "f1fa3e5d2ec2787e3087e835a46fd61d5297dc87ca5543e602065359ad5c51cb",
+      "primeira_diferenca": {
+        "posicao": 4735,
+        "fonte": "......... Cr$ 205.000,00 2. TABELA DE REMUNERAÇÃO DE CERTIFICADOS DE ARQUEAÇÃO E MEDIÇÃO PARA A QUANTIFICAÇÃO DE MERCADORIAS A GRANEL Item Medição Preço/Cr$ 2.1 Navio 307.500,00 2.2 Chatas, outras embarcações 102.500,00 2.3 Caminhões (cada)",
+        "md": "......... Cr$ 205.000,00 2. TABELA DE REMUNERAÇÃO DE CERTIFICADOS DE ARQUEAÇÃO EMEDIÇÃO PARA A QUANTIFICAÇÃO DE MERCADORIAS A GRANEL Item Medição Preço/Cr$ 2.1 Navio 307.500,00 2.2 Chatas, outras embarcações 102.500,00 2.3 Caminhões (cada) "
+      }
+    },
+    {
+      "path": "reguladores/rfb/1992/rfb-sijut-30917.md",
+      "sha256_md": "bd3810be6e1aedd7d10586d247e01891ff071c85a1742f489fc0035371c112a4",
+      "sha256_fonte": "00876ae05373ad9d532b951c0a228be8aa5d904c75e15f647ce548587dabb31e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "1d96ac4cd7abbeb3a226d6fa0be6cc660526e92b8056bb68c1fd46f41cc4a6d8",
+      "sha256_visivel_md": "9c37defd6f89463dc7e4831691f5ae4c73f92f2d6434f0a6a47f8f375645ae74",
+      "primeira_diferenca": {
+        "posicao": 17628,
+        "fonte": "4 (Art. 191 - RIR/80) SIM NÃO NÃO § 1o art. 74 SIM _ SIM SIM BENEFICIÁRIOS FORMA DE TRIBUTAÇÃO PESSOA JURÍDICA PESSOA FÍSICA DEDUTIBILIDADE DOS RENDIMENTOS DEDUTIBILIDADE DO IR/FONTE DECLARAÇÃO AJUSTE ANUAL COMPENSA-ÇÃO DO IR/FONTE ADMINIST",
+        "md": "4 (Art. 191 - RIR/80) SIM NÃO NÃO § 1o art. 74 SIM _ SIM SIM BENEFICIÁRIOS FORMADE TRIBUTAÇÃO PESSOA JURÍDICA PESSOA FÍSICA DEDUTIBILIDADE DOS RENDIMENTOS DEDUTIBILIDADE DO IR/FONTE DECLARAÇÃO AJUSTE ANUAL COMPENSA-ÇÃO DO IR/FONTE ADMINISTR"
+      }
+    },
+    {
+      "path": "reguladores/rfb/1995/rfb-sijut-24034.md",
+      "sha256_md": "3d27c662f111c627444c9b170cbcda87cfcd6e160201e3dd5de0451047288b81",
+      "sha256_fonte": "70677769e84e50ba4806d2c53a4492a3cf56d4db7b805d6bdf36a8d79b3f506f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ced79a6be93e3b46c12d8d04f189f3656a2e23c6e1a4f213197aeb69e389e853",
+      "sha256_visivel_md": "8f25191dce17696a1bf5562ba1e925f982ae402d120760b069f9ae60e4b10642",
+      "primeira_diferenca": {
+        "posicao": 2162,
+        "fonte": " de radiação infravermelho por transformada de Fourier. CÓDIGO DA TEC MERCADORIA 8447.90.90 \"Ex\" 001 - Máquina para inserir tufos de fios em forma de anêis ou tecidos para produção de colchas, cobertores ou tapetes com largura útil de traba",
+        "md": " de radiação infravermelho por transformada de Fourier. CÓDIGO DA TEC MERCADORIA8447.90.90 \"Ex\" 001 - Máquina para inserir tufos de fios emforma de anêis ou tecidos para produção de colchas, cobertores outapetes com largura útil de trabalho"
+      }
+    },
+    {
+      "path": "reguladores/rfb/1995/rfb-sijut-23902.md",
+      "sha256_md": "28cf00a666442e34d9908d902f10a7d73be279c4587910f09d40e4ee782aa3b4",
+      "sha256_fonte": "a3096dd1e72946dc11a37314b0924705e853c1f7ef7fe34c3ef5f76861e0d581",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e1cb497dc3d7faa521b76f2dec2fdfbeaebf84d2295c8c298f7f958c006a275c",
+      "sha256_visivel_md": "5a58faa685e64e3276a1e64691bd15420577b96c8f51b9a09f043e9d783a92b8",
+      "primeira_diferenca": {
+        "posicao": 1429,
+        "fonte": "e protetor, auto-adesivo e painel de controle elétrico. CÓDIGO DA TEC MERCADORIA 8460.90.90 \"Ex\" 001 - Máquina para lixar e dar acabamento em chapas de aço inoxidável, laminadas a quente com espessura de 3 a 10 mm, largura de 600 a 1.600 mm",
+        "md": "e protetor, auto-adesivo e painel de controle elétrico. CÓDIGO DA TEC MERCADORIA8460.90.90 \"Ex\" 001 - Máquina para lixar e dar acabamento emchapas de aço inoxidável, laminadas a quente com espessura de 3 a10 mm, largura de 600 a 1.600 mm e "
+      }
+    },
+    {
+      "path": "reguladores/rfb/1995/rfb-sijut-1559.md",
+      "sha256_md": "7abdfcd98fac6cf1f7fbd63bd1e28161a344446c889cd9451e476f001086dcf4",
+      "sha256_fonte": "642bc95eaeb7ba6872d4e08ced3aa7982d2c9af43b6db876b5f19ce110bab365",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "60ddc0e1bade7e523dda24de93d768a0acea0a87c48ba969cbbed8e50737d71e",
+      "sha256_visivel_md": "0131c884386ee782423d0fd5a5bfc93d7a155fd81575460e6b1f761c214bafbe",
+      "primeira_diferenca": {
+        "posicao": 2219,
+        "fonte": "930 0,0011922 Xelim Austríaco 940 0,0941220 Zloty 975 0,3782960 MOEDAS CÓDIGO R$ Bath Tailandês 015 0,0369220 Bolívar Venezuelano 025 0,0053477 Coroa Dinamarquesa 055 0,1678480 Coroa Norueguesa 065 0,1463240 Coroa Sueca 070 0,1248140 Coroa ",
+        "md": "930 0,0011922 Xelim Austríaco 940 0,0941220 Zloty 975 0,3782960 MOEDAS CÓDIGO R$Bath Tailandês 015 0,0369220Bolívar Venezuelano 025 0,0053477Coroa Dinamarquesa 055 0,1678480Coroa Norueguesa 065 0,1463240Coroa Sueca 070 0,1248140Coroa Tcheca"
+      }
+    },
+    {
+      "path": "reguladores/rfb/1995/rfb-sijut-923.md",
+      "sha256_md": "9a0af9128d34222ca398eca43e652a3cf0b22d158bd3406e8a9558a814cedbc8",
+      "sha256_fonte": "c54f0387361843cd1cb44871b3c23b93483c83775bd2f29d1cc9a3879095a455",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              174,
+              178
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "79e5c3e3ef57b5fb7a3ad1c25996893f0104dc2482f3b794c8d8e7c4cfd1c027",
+      "sha256_visivel_md": "79e5c3e3ef57b5fb7a3ad1c25996893f0104dc2482f3b794c8d8e7c4cfd1c027"
+    },
+    {
+      "path": "reguladores/rfb/1995/rfb-sijut-23212.md",
+      "sha256_md": "aba56c677b29af5f016faa3f533cfc77a0256bdaeb4aa7a509e9d67c598ea058",
+      "sha256_fonte": "e8161750f58b4f0ea4657a9945af0077d71894b23f0a5cdb44a43d6620d8a6bf",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "fcb9efcb9289f840dcc9900a9dbfead7cbd770b0d6554e09d0f055139c663050",
+      "sha256_visivel_md": "d3818bb47bf8790986260663fb9fc553f2c11b35320dc948dc8a2395cee37992",
+      "primeira_diferenca": {
+        "posicao": 7327,
+        "fonte": " regulagem da tensão e da distância entre as percintas. CÓDIGO DA TEC MERCADORIA 8419.32.00 \"Ex\" 001 - Secador à vácuo para tábuas de madeira, câmara cilíndrica com circulação de ar dirigida, central elétrica para controle de secagem, com f",
+        "md": " regulagem da tensão e da distância entre as percintas. CÓDIGO DA TEC MERCADORIA8419.32.00 \"Ex\" 001 - Secador à vácuo para tábuas de madeira,câmara cilíndrica com circulação de ar dirigida, central elétricapara controle de secagem, com fase"
+      }
+    },
+    {
+      "path": "reguladores/rfb/1995/rfb-sijut-22857.md",
+      "sha256_md": "a97e0a683433c468613cfe21c1912dfc476efeda808622b7cf231d88546fa215",
+      "sha256_fonte": "8757891e97a6c559c551e045c0a2c9d951829d85e7be3ee7a2a8fc26400097b5",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3192dd0452b2b4675f5c9eb1d780a68d30cb66099cfebcd9721fd7815c6fe2a5",
+      "sha256_visivel_md": "a2e36ded210e77367b158cfef7541cd73f59be99f7297a87e9e0770b9369f861",
+      "primeira_diferenca": {
+        "posicao": 9204,
+        "fonte": "ssura no sentido longitudinal e transversal da máquina. CÓDIGO DA NCM MERCADORIA 8405.10.00 \"Ex\" 001 - Gerador de ozônio através de oxigênio gasoso e excitação elêtrica. 8413.70.90 \"Ex\" 001 - Bomba rotativa com admissão na extremidade do ro",
+        "md": "ssura no sentido longitudinal e transversal da máquina. CÓDIGO DA NCM MERCADORIA8405.10.00 \"Ex\" 001 - Gerador de ozônio através de oxigêniogasoso e excitação elêtrica.8413.70.90 \"Ex\" 001 - Bomba rotativa com admissão naextremidade do rotor "
+      }
+    },
+    {
+      "path": "reguladores/rfb/1995/rfb-sijut-23307.md",
+      "sha256_md": "1455fbec93ab0f2bdac790201469be1c4a1a5b95b8aac15cecf6b9f616740726",
+      "sha256_fonte": "1b688a848730c0abb4e954a6cee99d236a5fcb5a32ba19dd544205a53dcefc44",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "461d0b9b5142b93b53e9a5a887ad91bbd79f3b027efb42ec645d7eb87737c6fe",
+      "sha256_visivel_md": "23778efc588366a66a29f2beeb07d2e4d345c646ab452dacc9d0af5e8a8c84e6",
+      "primeira_diferenca": {
+        "posicao": 22907,
+        "fonte": "cas com tolerância máxima de 0,001 mm para pontas de eixo. CÓDIGO TEC MERCADORIA 8416.90.00 \"Ex\" 001 - Dispositivo de queima de gases em material refratário, com ventura aerodinâmica, perfil interno arredondado e ranhuras. 8419.89.90 \"Ex\" 0",
+        "md": "cas com tolerância máxima de 0,001 mm para pontas de eixo. CÓDIGO TEC MERCADORIA8416.90.00 \"Ex\" 001 - Dispositivo de queima de gases emmaterial refratário, com ventura aerodinâmica, perfil internoarredondado e ranhuras.8419.89.90 \"Ex\" 001 -"
+      }
+    },
+    {
+      "path": "reguladores/rfb/1995/rfb-sijut-23362.md",
+      "sha256_md": "b051c9b7e18cc5287de514c8df110e80a639b94aeda69973756c4a5554fd74b4",
+      "sha256_fonte": "d9c98c11dfee018c1d0b8268cb1ca82adaf0a143b1478fc33ae99e6eac49c748",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ba6b077f79cbd250a6cf5d18ea6579dee260f9db9b228446163c04ac901abca5",
+      "sha256_visivel_md": "4b46cbd59308f3f98677931c4b986311c138a9dfcfa393c66541ea5940ac8258",
+      "primeira_diferenca": {
+        "posicao": 1104,
+        "fonte": " carga líquida igual ou superior a 100 (cem) toneladas. CÓDIGO DA TEC MERCADORIA 8704.10.00 \"Ex\" 001 - \"Dumpers\" concebidos para serem utilizados fora de rodovias, com chassi rígido e capacidade de carga líquida igual ou superior a 100 (cem",
+        "md": " carga líquida igual ou superior a 100 (cem) toneladas. CÓDIGO DA TEC MERCADORIA8704.10.00 \"Ex\" 001 - \"Dumpers\" concebidos para seremutilizados fora de rodovias, com chassi rígido e capacidade decarga líquida igual ou superior a 100 (cem) t"
+      }
+    },
+    {
+      "path": "reguladores/rfb/1995/rfb-sijut-526.md",
+      "sha256_md": "bd733c62ba35325f4158b6bb04d96e6eb31a6da0f7fc25874ad2a92c5d0aeda4",
+      "sha256_fonte": "3b780575fe5798b201b31e6988c16abf0ae7dfdd177ff41ba63f9f98670c0d9a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              187,
+              191
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "7fc261acd5cda8a9f11d3b0803e3d8fbefba21b75a2cb18c47d5cf12b19ecd2f",
+      "sha256_visivel_md": "7fc261acd5cda8a9f11d3b0803e3d8fbefba21b75a2cb18c47d5cf12b19ecd2f"
+    },
+    {
+      "path": "reguladores/rfb/1995/rfb-sijut-400.md",
+      "sha256_md": "21b0f422380a7d81488ddc5e811d211ad76ad0e38a906f5caf035b9b0f130bfc",
+      "sha256_fonte": "5d34fccfe02557317cecb36b6cb001fdef1c94baf44184b4f59fcd166164c653",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "921266d71b976b890b19c75c981def09c2c20509f0c5dce4dcf0133a1cb729b6",
+      "sha256_visivel_md": "ab1de235bd526055612d2ebc38c0b777788eb18ac7a9d9f5c39d43c271c6adc7",
+      "primeira_diferenca": {
+        "posicao": 488,
+        "fonte": "924 IRRF - Lei 8.021/90 1283 0924 RECEITA CÓDIGO CÓDIGO A DESATIVADO SER UTIZADO IRRF - Operações de curto prazo 0730 0924 IRRF - Lei 8.021/90 1283 0924 ALDANIR SILVA",
+        "md": "924 IRRF - Lei 8.021/90 1283 0924 RECEITA CÓDIGO CÓDIGO A DESATIVADO SER UTIZADOIRRF - Operações de curto prazo 0730 0924IRRF - Lei 8.021/90 1283 0924 ALDANIR SILVA"
+      }
+    },
+    {
+      "path": "reguladores/rfb/1995/rfb-sijut-22017.md",
+      "sha256_md": "88f4b91dc1c821258c0dfcc9b35d823ef71a0dfe1735465568f5b4fa2f8b31b8",
+      "sha256_fonte": "6ee8aea91c3efd562f78a0263925e9deb01b2029710ecec60cc6acd20d3fb882",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "0cec3daee96c29e821b6e1ae958a06a2921e723d232b70dc4b92ff60cce2570e",
+      "sha256_visivel_md": "d8f47b65105f62daf700ed809e32ef5186686eac4b1519d227a796da90b234a2",
+      "primeira_diferenca": {
+        "posicao": 15613,
+        "fonte": "ens de vidro, exceto as de tração, compressão e flexão. CÓDIGO DA NCM MERCADORIA 8408.90.00 \"Ex\" 001 - Motor diesel por turbo alimentador, potência igual ou superior a 750 HP, com rotação nominal superior a 1.000 rpm, para operar igual ou s",
+        "md": "ens de vidro, exceto as de tração, compressão e flexão. CÓDIGO DA NCM MERCADORIA8408.90.00 \"Ex\" 001 - Motor diesel por turbo alimentador,potência igual ou superior a 750 HP, com rotação nominal superiora 1.000 rpm, para operar igual ou supe"
+      }
+    },
+    {
+      "path": "reguladores/rfb/1995/rfb-sijut-22081.md",
+      "sha256_md": "c401f30d70e0af5552dac69a34f50ed7dc9ca3d4609ee2ddb459efacd15fb93f",
+      "sha256_fonte": "b65498654fc1f08444a8e8c51a63c601e1c5db807017b33f2710d17571814af6",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "a0db45753c1ef8b9fae34834f6293c77a275c8bc1db9a69c6e757af8056bc32e",
+      "sha256_visivel_md": "088a0c6591bcd92f892681a7b12b4372705af5eac682226c85e31c09fc40424c",
+      "primeira_diferenca": {
+        "posicao": 19814,
+        "fonte": "dição de regularidade de fios, mechas e fibras têxteis. CÓDIGO DA NCM MERCADORIA 8419.39.00 \"Ex\" 001 - Secador cônico a vácuo para fabricação de \"chips\" de poliêster com sistema de transferência de calor. 8443.50.90 \"Ex\" 001 - Máquina rotat",
+        "md": "dição de regularidade de fios, mechas e fibras têxteis. CÓDIGO DA NCM MERCADORIA8419.39.00 \"Ex\" 001 - Secador cônico a vácuo para fabricação de\"chips\" de poliêster com sistema de transferência de calor.8443.50.90 \"Ex\" 001 - Máquina rotativa"
+      }
+    },
+    {
+      "path": "reguladores/rfb/2001/rfb-sijut-4868.md",
+      "sha256_md": "a4ac2a78c7a33efbe016a6ca2d712f849d2d1dbe70fbc42c0cc1d92c13fbb6f0",
+      "sha256_fonte": "68145a72e6528730b7d4a7cc4af7be552e4020bb64f21cbcb8f68d8568cb39b3",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "4699870aa96a03be5f17efeb0773938ab2f4a45805a821d6f6795f6ed16a10ad",
+      "sha256_visivel_md": "b2c02890c612df0c793be458227c2f85c8bbc792cb01989e1b512026a442ffff",
+      "primeira_diferenca": {
+        "posicao": 742,
+        "fonte": "-rígido Especial (Produto Estrangeiro Especial (Produto Exportação) Classe Valor I R$ 33,44 II III-maço III-rígido IV-maço IV-rígido Especial (Produto Estrangeiro Especial (Produto Exportação) Art. 2º O disposto neste Ato Declaratório Execu",
+        "md": "-rígido Especial (Produto Estrangeiro Especial (Produto Exportação) Classe ValorI R$ 33,44IIIII-maçoIII-rígidoIV-maçoIV-rígidoEspecial (Produto EstrangeiroEspecial (Produto Exportação) Art. 2º O disposto neste Ato Declaratório Executivo ent"
+      }
+    },
+    {
+      "path": "reguladores/rfb/2001/rfb-sijut-4952.md",
+      "sha256_md": "3b609f0bb487624e3b78d89763d9c352701b4532dcdc0440c9b099f288397f5d",
+      "sha256_fonte": "6ec5f2de15873402ce9764656cbe9a7f8e82ebec0f814427036f0effe1dcbd6b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "a62e494e17cd4385866c2ec338ab95b702c5a6d391a4542b6d965c8b8bb80e9d",
+      "sha256_visivel_md": "1462051ab0701c81b86c177a32cd069e0359f3ebb6f978ec9d87de3b7ed1d59f",
+      "primeira_diferenca": {
+        "posicao": 3400,
+        "fonte": "iz Municipal de Chopinzinho/PR Chopinzinho CNPJ/ 76.995.414/ 0001-60 ANEXO ÚNICO No DOCUMENTO DE NOME DA USINA PROPRIETÁRIO OUTORGA 001 Resol. No 395, de 2001 PCH - Canoa Quebrada Amper Energia Lucas do Rio Ltda. Verde/MT, Sorriso/MT CNPJ/ ",
+        "md": "iz Municipal de Chopinzinho/PR Chopinzinho CNPJ/ 76.995.414/ 0001-60 ANEXO ÚNICONo DOCUMENTO DE NOME DA USINA PROPRIETÁRIO OUTORGA001 Resol. No 395, de 2001 PCH - Canoa Quebrada Amper Energia Lucas do Rio Ltda. Verde/MT, Sorriso/MT CNPJ/ 04"
+      }
+    },
+    {
+      "path": "reguladores/rfb/2001/rfb-sijut-3244.md",
+      "sha256_md": "bd0c6c6860753f6095d1c68b7f9ca3ae718c25a77a8a5702457ccc1d2f6c8c48",
+      "sha256_fonte": "4d86cb7056775b34054c5005797cfcfb525d522945c4ed2709ae6432ad0389ef",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "03fdb904bb52063fbd3573b90b5dd033be09301aaa434354966c60a451f85037",
+      "sha256_visivel_md": "2e1ac3b373ac9ff179be58af5de3a7d6bb93290dcf87bf708bf1ee63cf3c4bb3",
+      "primeira_diferenca": {
+        "posicao": 2257,
+        "fonte": "-------------------------------------------- MÊS COTAÇÃO MÊS COTAÇÃO MÊS COTAÇÃO ------------------------------------------------------- Janeiro 1,8037 Maio 1,8279 Setembro 1,8392 Fevereiro 1,7753 Junho 1,8083 Outubro 1,8796 Março 1,7420 Ju",
+        "md": "-------------------------------------------- MÊS COTAÇÃO MÊS COTAÇÃO MÊS COTAÇÃO-------------------------------------------------------Janeiro 1,8037 Maio 1,8279 Setembro 1,8392Fevereiro 1,7753 Junho 1,8083 Outubro 1,8796Março 1,7420 Julho "
+      }
+    },
+    {
+      "path": "reguladores/rfb/2001/rfb-sijut-4009.md",
+      "sha256_md": "d4f17988aeedd7bb946288b2f054d507a1d6431f38545a0f588b1da52dd2e83b",
+      "sha256_fonte": "25153730383b7522a70ece9f7ffff0b1595d4263192e20ae2d57279da0c53776",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "947464477ddaf842de9c764bd80eebefcf3b548799640c95fbe2ddd6f3f5084b",
+      "sha256_visivel_md": "2c89318448bf5be31743b5d38c8a917b47ede2ada9aab0e564be7fb7c85706f5",
+      "primeira_diferenca": {
+        "posicao": 887,
+        "fonte": " Total: 83 mm Circunferência: 24,40 mm Filtro: 20mm Ponteira: 30 mm Embalagem 20`s: HL 200`s: cx. 200 c) Classe de Enquadramento III-R d) Preço de Venda a Varejo R$ 3,00 e) Quantidades Autorizadas de Vintenas 216.000 vintenas a) Marca Comer",
+        "md": " Total: 83 mm Circunferência: 24,40 mm Filtro: 20mm Ponteira: 30 mm Embalagem 20s: HL 200s: cx. 200 c) Classe de Enquadramento III-R d) Preço de Venda a Varejo R$ 3,00 e) Quantidades Autorizadas de Vintenas 216.000 vintenas a) Marca Comerci"
+      }
+    },
+    {
+      "path": "reguladores/rfb/2001/rfb-sijut-4628.md",
+      "sha256_md": "8850710630bbe79efa814cb9953ced2581f40c15ced45867955676bbd005a9ee",
+      "sha256_fonte": "82676b1009a943506f9566a48c61699b405f073c6a3ae68eda227ad4a731c6a8",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "78747de2254a7c05aa9a80dd944ad4fdc3b26884743a5370b21f217e3db5cba6",
+      "sha256_visivel_md": "ff41ae196ed38d322b94a45dc3924d0d436c93a30301a567c59d4cb69b3bc727",
+      "primeira_diferenca": {
+        "posicao": 871,
+        "fonte": "de até 180 ml 00.493.776/0001-90 Brazilian Cream 2208.70.00 03.306.224/0001-14 D`Ouro 2205.10.00 03.306.224/0001-14 D`Ouro 2208.60.00 03.306.224/0001-14 D`Ouro 2208.90.00 Ex 03 03.306.224/0001-14 D`Ouro 2208.90.00 Ex 04 Produtos Classificad",
+        "md": "de até 180 ml 00.493.776/0001-90 Brazilian Cream 2208.70.00 03.306.224/0001-14 DOuro 2205.10.00 03.306.224/0001-14 DOuro 2208.60.00 03.306.224/0001-14 DOuro 2208.90.00 Ex 03 03.306.224/0001-14 DOuro 2208.90.00 Ex 04 Produtos Classificados n"
+      }
+    },
+    {
+      "path": "reguladores/rfb/2008/rfb-sijut-22271.md",
+      "sha256_md": "e34fce6a1cb91dce113d93335f0a5dbd14f94277b1697becafe69d27d64f06a1",
+      "sha256_fonte": "c325cfbf4f22fe8de7639536e98fbd6f9b524a376fb59d4ab1fbe7dccdd40feb",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              16,
+              18
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "8a6aae325e1ebf98897d63bdd431007aaac8ab660f93b057cc07145dbf725d55",
+      "sha256_visivel_md": "8a6aae325e1ebf98897d63bdd431007aaac8ab660f93b057cc07145dbf725d55"
+    },
+    {
+      "path": "reguladores/rfb/1984/rfb-sijut-109410.md",
+      "sha256_md": "634382c5bb7414c35e307a89813d26b882a368e60cbbe795c5fc318182d3535e",
+      "sha256_fonte": "150c0fe891acfa81a3fe4fc436280dd7c1f528adfd13406b6dfecdd20a4906cb",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "7b2417f5c85b55ce5c0f169a113d2254fa9a373bcee6b283c6718320e27254ce",
+      "sha256_visivel_md": "a4a1a6b237ae31c29e133ef29df3d1a806381a5779bfb5ab3dc33959fc61afd6",
+      "primeira_diferenca": {
+        "posicao": 2157,
+        "fonte": " LUIZ ROMERO PATURY ACCIOLY Secretário da Receita Federal em Exercício ANEXO II - ORIENTAÇÃO PARA A ESCRITURAÇÃO DO LIVRO A QUE SE REFERE A INSTRUÇÃO NORMATIVA SRF Nº 094. DE 25 de setembro de 1984 COLUNA ELEMENTOS A LANÇAR 1 Dia, mês e ano",
+        "md": " LUIZ ROMERO PATURY ACCIOLY Secretário da Receita Federal em Exercício ANEXO II ORIENTAÇÃO PARA A ESCRITURAÇÃO DO LIVRO A QUE SE REFERE A INSTRUÇÃO NORMATIVA SRF Nº 094. DE 25 de setembro de 1984 COLUNA ELEMENTOS A LANÇAR 1 Dia, mês e ano d"
+      }
+    },
+    {
+      "path": "reguladores/rfb/2011/rfb-sijut-25580.md",
+      "sha256_md": "bd7ae7929465fa328829f336584eee4bbc75f6173b01fac6b44d1091c97918ff",
+      "sha256_fonte": "b40e92b0547b550afade332ccaa240096840ab2f7d1a2169a8e93866f55d854d",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              14,
+              18
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              20,
+              24
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "7b17bd7d3f321e1c354680d3140cd1670b31b0ce06919dbcc99d257c53605b12",
+      "sha256_visivel_md": "7b17bd7d3f321e1c354680d3140cd1670b31b0ce06919dbcc99d257c53605b12"
+    },
+    {
+      "path": "reguladores/rfb/2009/rfb-sijut-4948.md",
+      "sha256_md": "13f5d6b8ff0c4510e0540bde26935bd3d9779f7515cddf53da20dbc82539b9c3",
+      "sha256_fonte": "edccea48f25c556b1055ad98fd9678d5ba9e6d02850e43957c604f6c419ea00a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              6,
+              8
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "56d3e61d1ef5c2c7b13a48ef574e3830794ba0dbe9f2a88a66c3af664949c53d",
+      "sha256_visivel_md": "56d3e61d1ef5c2c7b13a48ef574e3830794ba0dbe9f2a88a66c3af664949c53d"
+    },
+    {
+      "path": "reguladores/rfb/2009/rfb-sijut-4928.md",
+      "sha256_md": "dc9c6b8a4099f1a496ac7198f4f5fcf848799c0affa0778aeefc0766b43ada1c",
+      "sha256_fonte": "8c9f70cafabf792873e37ab8fb6abfd1d410b855a2264a2dadebf9acab830569",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              6,
+              8
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "de17c9879c7eb0a16b26dd008054c88663fcbc3142a4082ae9941294bef51519",
+      "sha256_visivel_md": "de17c9879c7eb0a16b26dd008054c88663fcbc3142a4082ae9941294bef51519"
+    },
+    {
+      "path": "reguladores/rfb/2009/rfb-sijut-4908.md",
+      "sha256_md": "8395daf79282567749d5b3460442885cf027128c0ba54d15ba09639c661ec484",
+      "sha256_fonte": "901d5dc41fbd68e6401d16bf22c5649a5692f5279b5e330029c5ccd94d25d2d6",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              6,
+              8
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "a451d20c1311bca4ec3fbb19adb066e265921c6838cbfbbda65662be29e16546",
+      "sha256_visivel_md": "a451d20c1311bca4ec3fbb19adb066e265921c6838cbfbbda65662be29e16546"
+    },
+    {
+      "path": "reguladores/rfb/2009/rfb-sijut-23555.md",
+      "sha256_md": "6f283f7d5146e7c961f286072cf78dd96a9dfc99ff4e15342756aba74b342068",
+      "sha256_fonte": "080b6375080ac98fbd6ca6e094f46698f1262daf52a05c8a102c7f23fe077864",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              10,
+              18
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              20,
+              28
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              32,
+              36
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              38,
+              42
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "bc39c04b46c8d38cf975172eb65b04a1376dfa5ffb8b260935c6b8e5a3440292",
+      "sha256_visivel_md": "bc39c04b46c8d38cf975172eb65b04a1376dfa5ffb8b260935c6b8e5a3440292"
+    }
+  ]
+}
