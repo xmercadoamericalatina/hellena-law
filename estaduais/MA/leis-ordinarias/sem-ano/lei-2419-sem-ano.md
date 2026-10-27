@@ -1,0 +1,34 @@
+---
+titulo: "Lei nº 2419"
+uf: "MA"
+tipo: "Lei Ordinária"
+numero: "2419"
+data: ""
+ementa: ""
+versao_texto: "PDF do GED da Assembleia Legislativa"
+fonte: "https://arquivos.al.ma.leg.br:8443/ged/legislacao/LEI_2419"
+baixado_em: 2026-10-13
+---
+# Lei nº 2419
+
+ESTADO DO MARANHÃO ASSEMBLEIA LEGISLATIVA INSTALADA EM 16 DE FEVEREIRO DE 1835 DIRETORIA LEGISLATIVA
+
+LEI N. 2.419 DE 18 DE AGÔSTO DE 1964
+
+AUTORIZA a abertura de crédito especial e dá outras providências
+
+O GOVERNADOR DO ESTADO DO MARANHÃO,
+
+Faço saber a todos os seus habitantes que a Assembléia Legislativa decretou e eu sanciono a seguinte Lei:
+
+**Art. 1º** - Fica o Poder Executivo autorizado a abrir no presente exercício, o crédito especial de Cr$ 1.000.000,00 (hum milhão de cruzeiros), para ocorrer às despesas com os festejos comemorativos do centenário da cidade de Penalva.
+
+**Art. 2º** - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Mando, portanto, a tôdas as autoridades a quem o conhecimento e execução da presente Lei pertencer, que a cumpram e façam cumprir, tão inteiramente como nela se contém. O Exmo. Sr. Secretário das Finanças a faça publicar, imprimir e correr.
+
+PALÁCIO DO GOVÊRNO DO ESTADO DO MARANHÃO, EM SÃO LUÍS, 18 DE AGÔSTO DE 1964, 142º DA INDEPENDÊNCIA E 75º DA REPÚBLICA.
+
+NEWTON DE BARROS BELLO
+
+Jesus Neves Ribeiro

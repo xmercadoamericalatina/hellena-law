@@ -1,0 +1,20 @@
+{
+  "estado": "aprovado_raiz14691_sem_stage_commit",
+  "manifesto": "estaduais/MG/_indice/_auditoria-mg16811-20261016/manifesto-fechamento-publicacao-14691.json",
+  "sha256_manifesto": "a9e3d13febc429cadecf6bf849a765256363637b6ef7c3f74603001de0aa2137",
+  "coorte": 14691,
+  "retidos_contextuais": 32,
+  "retidos_anteriores": 2088,
+  "payload": 58924,
+  "bytes": 560478395,
+  "HEAD_ausencia": "c6dd4f2372ac23f00db298159b3759c68f333824",
+  "prova_raiz14723": "estaduais/MG/_indice/_auditoria-mg16811-20261016/verificacao-raiz-14723.jsonl",
+  "sha256_prova_raiz14723": "a09fe6ad54b73550886a7470a34b6f4972547ef662ea3b40515b3645509631d8",
+  "literais_preservados": true,
+  "limites": [
+    "Contagem de documentos coletados; nao certificacao juridica/editorial.",
+    "Confronto completo fonte/MD/metadados anterior encadeado por SHA; revisao contextual com cobertura e limites por caso.",
+    "API fornece quadros lineares; geometria editorial original nao certificada.",
+    "2120pendencias mantidas fora;nenhuma reducao de meta."
+  ]
+}
