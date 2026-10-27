@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ordinária nº 6.738, de 21 de maio de 1999"
+uf: "PB"
+tipo: "Lei Ordinária"
+numero: "6738"
+data: 1999-05-21
+ementa: "DENOMINA DE SEVERINO RAMOS LOPES O AÇUDE DA COMUNIDADE CACHOEIRA DO CEGO, NO MUNICÍPIO DE CATINGUEIRA, NESTE ESTADO E DÁ OUTRAS PROVIDÊNCIAS."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DIARIO OFICIAL"
+fonte: "https://sapl.al.pb.leg.br/norma/6495"
+arquivo: "https://sapl.al.pb.leg.br/media/sapl/public/normajuridica/1999/6495/6495_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 6.738, de 21 de maio de 1999
+
+•- ESTADO DA PARAÍBA
+
+LEI N. 0 6. 738 , DE 21 DE MAIO DE 1999
+
+Denomina de SEVERINO RAMOS LOPES, o açude da Comunidade Cachoeira do Cego, no Municipio de Catingueira, neste Estado e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA PARAÍBA:
+
+Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte Lei;
+
+**Art. 1°** - Fica denominado de SEVERINO RAMOS LOPES, o Açude da Comunidade Cachoeira do Cego, obra já concluída, e em regular funcionamento localizado no Município de Catingueira, neste Estado.
+
+**Art. 2°** - Esta Lei entrará em vigor na data de sua publicação.
+
+**Art. 3°** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA, em João Pessoa, 21 de maio de 1999; 109° da Proclamação da República.

@@ -1,0 +1,36 @@
+---
+titulo: "Lei Ordinária nº 8.198, de 28 de março de 2007"
+uf: "PB"
+tipo: "Lei Ordinária"
+numero: "8198"
+data: 2007-03-28
+ementa: "DENOMINA DE EVALDO AGRA DE FARIAS O POSTO FISCAL DA CIDADE DE PICUÍ E DÁ OUTRAS PROVIDÊNCIAS."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DOE"
+fonte: "https://sapl.al.pb.leg.br/norma/8566"
+arquivo: "https://sapl.al.pb.leg.br/media/sapl/public/normajuridica/2007/8566/8566_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 8.198, de 28 de março de 2007
+
+-PUBLICADO NO OIÃqiO OFICIAL NESTA DATA
+
+•- ESTADO DA PARAÍBA Ec~~-~~-j d?~;~'§dõl cl(
+
+LEI No 8.198 ,DE 28 DE MARÇO DE 2007
+
+Denomina de Evaldo Agra qe Farias o Posto Fiscal da cidade de Picuí e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA PARAÍBA:
+
+Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte Lei:
+
+**Art. 1o** Fica denominado de Evaldo Agra de Farias o Posto Fiscal da cidade de Picuí, neste Estado.
+
+2° Esta Lei entra em vtgor na data de sua publicação.
+
+3° Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA, em João Pessoa, 28 de março de 2007; 119° da Proclamação da República.
+
+Governador

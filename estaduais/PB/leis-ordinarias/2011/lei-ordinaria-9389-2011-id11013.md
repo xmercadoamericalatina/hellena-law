@@ -1,0 +1,100 @@
+---
+titulo: "Lei Ordinária nº 9.389, de 21 de junho de 2011"
+uf: "PB"
+tipo: "Lei Ordinária"
+numero: "9389"
+data: 2011-06-21
+ementa: "AUTORIZA O PODER EXECUTIVO A EFETIVAR REMANEJAMENTO DE DOTAÇÕES ORÇAMENTÁRIAS NO VALOR QUE ESPECIFICA E DÁ OUTRAS PROVIDÊNCIAS."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DOE"
+fonte: "https://sapl.al.pb.leg.br/norma/11013"
+arquivo: "https://sapl.al.pb.leg.br/media/sapl/public/normajuridica/2011/11013/11013_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 9.389, de 21 de junho de 2011
+
+Certifico, para os devidos fiha, que éS!'"
+
+LEI foi pUblicada no DOE,
+
+tr;;?t; .OÁ~/}!?-'I N •• -O- vO\y G....ncla Executiva de Reglatro de Atos Q LegIsfaOlO da Casa eMI do Governador
+
+LEI N° 9.389 ,DE 21 DE JUNHO DE 2011 AUTORIA: PODER EXECUTIVO
+
+Autoriza o Poder Executivo a efetivar Remanejamento de Dotações Orçamentárias no valor que especifica e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA PARAÍBA:
+
+Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte Lei:
+
+**Art. 1°** Fica o Poder Executivo autorizado a efetuar remanejamento de dotações orçamentárias até o valor de R$ 6.124.000.00 (seis milhões cento e vinte e quatro mil reais), para atender às programações constantes do Anexo I desta Lei.
+
+**Art. 2°** Os recursos necessários à execução do disposto no artigo anterior decorrerão da anulação parcial de dotações constantes dos orçamentos dos Órgãos, no valor e rubricas indicados no
+
+Anexo II desta Lei.
+
+**Art. 3°** Esta Lei entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA, em João Pessoa, 21 de junho de 2011; 123 0 da
+
+Pro,\_,"\[~~ C1 I RlCARDO VIEIRA COUTINHO Governador
+
+'\*
+
+ANEXO-I SUPLEMENTAÇÃO
+
+09.000- SECRETARIA DE ESTADO DO GOVERNO 09.201- PARAÍBA PREVIDÊNCIA
+
+09.272.0000- ENCARGOS COM 7031- INATIVOS E 3190.01 00 1.434.000,00 PENSIONISTAS DA SAÚDE 3190.03 00 118.000,00
+
+TOTAL DO ÓRGÃO 1.552.000 00
+
+26.000- SECRETARIA DE ESTADO DA SEGURANÇA E DA DEFESA SOCIAL 26.201- DEPARTAMENTO ESTADUAL DE TRÃNSITO DO ESTADO DA PARAÍBA
+
+28.846.0000- DESPESAS DE 7003- EXERCÍCIOS ANTERIORES 3390.92 70 1.50Q.000,00
+
+TOTAL DO ÓRGÃO 1.500.000,00
+
+30.000- ENCARGOS GERAIS DO ESTADO 30.101- RECURSOS SOB A SUPERVISÃO DA SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
+
+- 04.122.5046- LOCAÇÃO DE VEICULOS 3390.39 00 1.1 00.000,00 4210-
+
+06.122.5046- LOCAÇÃO DE VEÍCULOS 4246- PARA SECRETARIA DE ESTADO DA SEGURANÇA 3390.39 00 l.800 .000 ,00 PÚBLICA
+
+TOTAL DO ÓRGÃO 2.900.000,00 ." {J
+
+35.000- SECRETARIA DE ESTADO DO DESENVOLVIMENTO DA AGROPECUÁRIA E DA PEse A 35.204- EMPRESA PARAIBANA DE ABASTECIMENTO E SERVIÇOS AGRÍCOLAS DA PARAÍBA
+
+20.122.5046- VALE TRANSPORTE 1390.39 00 172.000,00 4220-
+
+TOTAL DO ÓRGÃO 172.00000
+
+TOTAL GERAL 6.124.000,00
+
+ANEXO-lI ANULAÇÃO
+
+09.000- SECRETARIA DE ESTADO DO GOVERNO 09.201- PARAíBA PREVIDÊNCIA
+
+09.122.5046- ENCARGOS COM PESSOAL 3190.11 00 1.552.000,00 4217- ATIVO
+
+TOTAL DO ÓRGÃO 1.552.000 00
+
+26.000- SECRETARIA DE ESTADO DA SEGURANÇA E DA DEFESA SOCIAL 26.201- DEPARTAMENTO ESTADUAL DE TRÃNSITO DO ESTADO DA PARAÍBA
+
+06.122.5046- MANUTENÇÃO DE 4216- SERVIÇOS ADMI- 3390.39 70 1.500.000,00 NlSTRATIVOS
+
+TOTAL DO ÓRGÃO 1.500.000,00
+
+30.000- ENCARGOS GERAIS DO ESTADO 30.101- RECURSOS SOB A SUPERVISÃO DA SECRETARIA DE ESTADO DA ADMINISTRAÇÃO
+
+28.846.0000- ENCARGOS COM SEGURO 7053- DE VIDA E EM GRUPO PARA O SERVIDOR 3390.39 00 2.900.000,00 PÚBLICO ESTADUAL
+
+TOTAL DO ÓRGÃO 2.900.000 00
+
+35.000- SECRETARIA DE ESTADO DO DESENVOLVIMENTO DA AGROPECUÁRIA E DA PESCA 35.204- EMPRESA PARAIBANA DE ABASTECIMENTO E SERVIÇOS AGRÍCOLAS DA PARAÍBA
+
+28.846.0000- DESPESAS DE 7003- EXERCÍCIOS ANTE- 3390.92 00 172.000,00 RIORES
+
+TOTAL DO ÓRGÃO 172.000,00
+
+TOTAL GERAL 6.124.000 00

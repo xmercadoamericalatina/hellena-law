@@ -1,0 +1,358 @@
+---
+titulo: "Lei Ordinária nº 4.588, de 19 de junho de 1984"
+uf: "PB"
+tipo: "Lei Ordinária"
+numero: "4588"
+data: 1984-06-19
+ementa: "INSTITUI A SEMESTRALIDADE PARA A CONCESSÃO DE REAJUSTAMENTO GERAL DO FUNCIONALISMO ESTADUAL, REAJUSTA VENCIMENTOS, SALÁRIOS, GRATIFICAÇÕES, SOLDOS E PROVENTOS DOS SERVIDORES CIVIS E MILITARES DO ESTADO, E DÁ OUTRAS PROVIDÊNCIAS."
+publicacao: "DIARIO OFICIAL"
+versao_texto: "original (arquivo anexado ao SAPL)"
+fonte: "https://sapl.al.pb.leg.br/norma/4108"
+arquivo: "https://sapl.al.pb.leg.br/media/sapl/public/normajuridica/1984/4108/4108_texto_integral.pdf"
+baixado_em: 2026-10-15
+---
+# Lei Ordinária nº 4.588, de 19 de junho de 1984
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+GOVÉRNO DA PARAIBA , de 19 de
+
+LEI N.° 4.588 de 19 84 junho Institui a semestralidade pa ra a concessão de reajustamento geral do funcionalismo estadual, reajusta venci - mentos, salários, gratificações, soldos e proventos dos servidores civis e milita- res do Estado, e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA PARAIBA: Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte Lei:
+
+**Art. 19** - Os valores dos padrões, referências, símbolos de vencimento, gratificações, soldos, salários, proventos, pensões espe- ciais, salário-família, bem como os encargos de gabinete e de assessoria especial, dos servidores civis e militares do Estado, serão reajustados semestralmente, nos meses de janeiro e julho, de cada ano.
+
+**Art. 29** - São reajustados os níveis de reatribuição dos servidores civis do Estado - ativos e inativos - de conformidade com os critérios desta lei e valores mensais fixados em seus Anexos, de acordo com o seguinte detalhamento:
+
+I - o vencimento dos cargos de provimento efetivo inte grantes dos Quadros Permanentes do Serviço Civil da Administração Dire- ta do Poder Executivo, da Secretaria do Tribunal de Justiça e da Secreta ria do Tribunal de Contas (Anexo I - Tabelas 1, 2, 3, 4 e 5);
+
+II - o vencimento dos membros da Magistratura, do Minis tério Público, dos Conselheiros, Auditores, Procuradores e Procurador- -Geral do Tribunal de Contas, e integrantes do Grupo Ocupacional Servi- cos Jurídicos - SJ-300 (Anexos, II, III, IV, V, VI, VII e VIII - Tabelas Únicas);
+
+junho г, 84 lerde
+
+E.P. GABINETE DO GOVERNADOR 2.
+
+LEI 4.588 1984 JUNHO
+
+DE DE DE
+
+III - a retribuição dos cargos de provimento em comissão dos Quadros Permanentes do Serviço Civil da Adminis- tração Direta do Poder Executivo, das Secretarias do Tribunal de Justiça e de Contas (Anexo IX - Tabelas 1, 2, 3, 4, 5, 6, 7 e 8) ;
+
+IV - o vencimento dos cargos que compõem as ca tegorias funcionais (Professor e Especialistas em Educação) do Grupo Magistério - MAG-400, assim como a retribuição dos car- gos de provimento em comissão que lhe são pertinentes (Anexo
+
+X - Tabelas 1, 2 e 3);
+
+V - o vencimento dos cargos que compõem as ca tegorias funcionais do Grupo Tributação, Arrecadação e Fiscali zação - TAF-500; dos cargos de provimento efetivo de Técnico de Controle Externo e Auxiliar de Controle Externo do Tribunal de Contas e de Técnico de Controle Interno e Auxiliar de Con- trole Interno da Auditoria Geral do Estado (Anexo XI- Tabelas 1, 2 e 3);
+
+VI - o vencimento dos cargos que compõem as ca tegorias funcionais do Grupo Policia Civil e Justiça - PCJ - 600 (Anexo XII - Tabelas 1, 2 e 3);
+
+VII - o vencimento dos cargos que compõem as ca tegorias funcionais do Grupo Outras Atividades de Nível Supe- rior da Administração Direta do Poder Executivo - PE-ANS-900, da Secretaria do Tribunal de Justiça - TJANS-400 e da Secretaria do Tribunal de Contas - TC-ANS-400 (Anexo XIII - Tabelas 1, 2 e 3);
+
+VIII - o vencimento dos cargos que compõem as ca tegorias funcionais do Grupo Ciência, Pesquisa e Tecnologia - - CIPES - 1100 (Anexo XIV - Tabela Unica);
+
+IX - o vencimento dos cargos que compõem as ca tegorias funcionais do Grupo Outras Atividades Técnico-Cientí- ficas - ATC-1200 (Anexo XV - Tabela Única);
+
+X - o vencimento dos cargos que compõem as ca tegorias funcionais do Grupo Outras Atividades Auxiliares - - ATI-1300 (Anexo XVI - Tabela Única);
+
+E.P. GABINETE DO GOVERNADOR DE 19 DE JUNHO DE 1984
+
+LEI N° 4.588
+
+XI - o vencimento dos cargos que integram o Qua dro Suplementar do Poder Executivo, e bem assim, o Quadro Suple mentar do Magistério (Anexo XVII - Tabelas 1, 2 e 3);
+
+XII - o valor das funções gratificadas da Secre- taria do Tribunal de Justiça (Anexo XVIII - Tabela Única); e
+
+XIII - os salários dos servidores da Administra- ção Direta do Poder Executivo, da Secretaria do Tribunal de Con tas, e do Quadro de Pessoal Civil da Polícia Militar, regidos pelo Direito do Trabalho (Anexo XIX - Tabela 1 e 2).
+
+**§ 18** - No vencimento fixado no Anexo II, Tabe- la Unica, está incorporada, integralmente, a Representação men- sal pelo Exercício de Função Judicante de que trata o Decreto n° 10.180, de 27 de fevereiro de 1984; a representação indicada em forma de percentual altera e substitui os percentuais estabe lecidos no Decreto n° 9.390, de 05 de março de 1982.
+
+**§ 29** - O vencimento estabelecido no Anexo X, Tabela 1 e 2, respectivamente, para as Categorias Funcionais MAG-401.5 a MAG-401.7 (PROFESSOR), e MAG-402.2 a MAG-402.4; MAG 403.2 a MAG-403.4; MAG-404.1 a MAG-404.3; MAG-405.1 a MAG-405.3; MAG-406.1 a MAG-406.3; MAG-407.1 a MAG-407.3 e MAG-408.2 a MAG- 408.4, incorpora, integralmente, a Gratificação de Nível Superi or (GNS), instituidapela lei n° 4.433, de 05 de novembro de 1982, e alterada pela lei n° 4.549, de 05 de dezembro de 1983, a qual fica extinta a partir da vigência desta lei.
+
+**§ 39** - Os funcionários dos Grupos Ocupacionais CIPES-1100; ATC-1200 e ATI- 1300 que foram aproveitados em car- gos de nível de vencimento inferior ao salário-padrão percebido nos órgãos de origem, e beneficiados pelas disposições do § 28, do Decreto n° 10.190, de 28 de março de 1984, terão reajustamen- to no mesmo índice deferido aos Grupos Ocupacionais a que perten çam, incidente sobre o valor do vencimento da Cláusula 4ª do Ter mo de Opção a que se refere o artigo 48 da Lei n° 4.585/84.
+
+**Art. 39** - O soldo dos Policiais-Militares - ati vos e inativos - fica reajustado na forma do Anexo XX - Tabela Ú nica, de acordo com os indices de Escalonamento Vertical fixado no artigo 112, da lei n° 4.410, de 12 de agosto de 1982.
+
+E.P. GABINETE DO GOVERNADOR 4 .
+
+LEI N° 4.588 DE 19 DE JUNHO DE 1984
+
+Parágrafo Único - Fica concedida aos inativos da Polícia Militar - a título especial, e sujeito a incorporação futura, o valor de uma Etapa de Alimentação, correspondente ao soldo do PM-1.
+
+**Art. 48** - Os proventos dos funcionários civis i nativos são reajustados em obediência aos critérios estabeleci - dos no Anexo XXI - Tabela Única.
+
+**Art. 59** - As pensões pagas à conta do Estado são reajustadas para os valores constantes do Anexo XXII, Tabela Uni ca.
+
+**Art. 69** - As gratificações de funções de asses- soria especial e de gabinete são reajustadas em 50% (cinquenta por cento).
+
+**Art. 78** - É fixada em Cr$ 2.000,00 ( dois mil cruzeiros) por dependente, o valor do Salário-Família.
+
+**Art. 89** - Fica majorado em 50% ( cinquenta por cento ) o valor de cada uma das quotas percebidas pelos funcioná rios ativos da Secretaria das Finanças, de que tratam os artigos 18, 20 e 30 da lei n° 3.364, de 29 de novembro de 1965.
+
+**Art. 99** - Fica acrescentado ao artigo 88, da lei número 4.273, de 21 de agosto de 1981, um parágrafo único, com a seguinte redação: "São incorporáveis aos proventos de aposentado- ria as gratificações de que trata este artigo".
+
+**Art. 10** - A parcela paga aos servidores que op- tarem pelo regime estatutário a que se refere a lei n° 4.585, de 14 de março de 1984, caracterizada como "Vantagem Irreajustável e Pessoal" no artigo 58, parágrafo único dessa lei, será incorpo rada ao vencimento de cada funcionário em duas parcelas iguais, uma em janeiro de 1985 e a outra, em janeiro de 1986. Art. ll - Os servidores das entidades referidas no artigo 18, da lei n° 4.585/84, que não tiverem seus salários reajustados a partir de janeiro de 1984, terão um reajuste nas mesmas bases do concedido nesta lei aos servidores do Estado, e farão jus, futuramente, e em obediência ao ciclo semestral, a re ajustamentos em indices idênticos aos deferidos aos servidores da Administração Direta do Poder Executivo.
+
+E.P. GABINETE DO GOVERNADOR 5.
+
+LEI N° 4.588 DE 19 DE JUNHO DE 1984
+
+**Art. 12** - Procedida a atualização ordenada pelo artigo 29 desta lei (Anexo XI, Tabela 1), fica incorporada a ca- da nível de vencimento do Grupo Ocupacional Tributação, Arrecada- ção e Fiscalização - TAF-500, uma parcela correspondente a 50 (cinquenta) pontos de produtividade, sacados do teto máximo da gratificação estabelecida no artigo 19 da lei n° 4.566, de 06 de dezembro de 1983.
+
+**§ 19** - O valor remanescente da Gratificação de Produtividade - correspondente a 150 (cento e cinquenta) pontos, será atribuída aos Agentes Fiscais da Fazenda Estadual distribuí dos pelas atividades de Tributação, Arrecadação e Fiscalização, de conformidade com os critérios a serem estabelecidos em Decre- to do Chefe do Poder Executivo.
+
+**§ 29** - Após o reajustamento a que alude o arti- go 49, desta lei, fica incorporada aos proventos dos Agentes Fis cais inativos uma parcela correspondente a 50 (cinquenta) pontos da Gratificação de Produtividade fixada para os Agentes Fiscais em atividade no artigo 19 da lei n° 4.566/83.
+
+**Art. 13** - A Gratificação de Produtividade, ins- tituida pelo artigo 49, da lei n° 3.600, de 14 de novembro de 1969, devida aos Agentes Fiscais em atividade, será atribuída me diante o sistema de pontos, correspondendo, cada um, a 0,01 (um centésimo) do vencimento do cargo de Agente Fiscal da Fazenda Es tadual, código TAF-501.1, nível I.
+
+**Art. 14** - Os valores e níveis mensais de retri- buição dos servidores civis e militares - ativos e inativos - re sultantes da aplicação dos critérios estabelecidos nesta lei, são reajustados, a partir de 19 de janeiro de 1985, em 60% (sessenta
+
+art. 15 - fica o poder executivo autorizado jor por cento). brir, no corrente exercício financeiro, crédito suplementar de, até, Cr$ 50.000.000.000,00 (cinquenta bilhões de cruzeiros), des tinados a suportar os encargos decorrentes da execução desta lei.
+
+**Art. 16** - Esta lei entra em vigor no dia 19 (pri- meiro) de julho de 1984, e revoga as disposições em contrário.
+
+E.P. GABINETE DO GOVERNADOR PALÁCIO DO GOVERNO DO ESTADO DA PARAIBA, em João possoa, 19 de Junho de 1984; 960 da Progar cão da (República. CARLOS JOSE DA SILVA JUNIOR GOVERNADOR EM EXERCICIO Luiz Silvio Ramalho Secretário do Interior e Justiça Pelo reten buedes pra de den dos Santos Secretário das Finanças Elzir Nogueira Matos Secretário da Agricultura e abastecimento Secretario da Segurança Pública José Jackson Carneiro de Carvalho Secretário da Educação e Cultura Hermano Augusto de Almeida Secretário dos Transportes e Obras José Tota Soares de Figueiredo Secretário da Saúde Adailton Coelho Costa Secretário da Administração Mardelo de Figueiredo Iopes Secretario do Planejamento e Coordenaçao Geral secretario de Servicos Sociais ..... Secretário da Indústria e do Comércio Patrício Leal de Melo Filho Secretário de Minas, Energia e Meio Ambiente Enivaldo Ribeiro Secretário de Saneamento e Habitação
+
+E.P. GABINETE DO GOVERNADOR José Silvino Sobrinho Secretário de Recursos Hídricos Francisco de Assis Camelo Secretario Chefe da Casa C1vi. co1. PM tosé Geraldo sopres desten Secretário Chefe da Casa inTitar Carlos Alberto Pinto Mangueira Secretário do Governo
+
+Continua ....... 323.700,00 235.106,00 REGIME: I - 40 315.900,00 232.344,00 IV EN IVE IS 231.888,00 308.100,00 VENCIM III 230.736,00 300.300,00 CATEGORIA FUNCIONAL: ESPECIALISTAS EM EDUCAÇÃO - MAG - 402 II 230.048,00 292.500,00 MAG-408.1 MAG-405.ł MAG-402:1 MAG-407.1 MAG-404.1 MAG-403.1 MAG-402.îźł MAG-406.1 MAG-408.îźś MAG-403.îś GRUPO OCUPACIONAL: MAGISTÉRIO CÓDIGO CÓDIGO: MAG - 400 INSPETOR TÉCNICO DE ENSINO ASSISTENTE SOCIAL ESCOLAR PLANEJADOR EDUCACIONAL ORIENTADOR EDUCACIONAL ORIENTADOR EDUCACIONAL PSICÓLOGO EDUCACIONAL CLASSES SUPERVISOR DE ENSINO SUPERVISOR DE ENSINO TÉCNICO EM EDUCAÇÃO TABELA: 02 TÉCNICO EM EDUCAÇÃO
+
+ANEXO: X
+
+362.700,00 409.500,00 REGIME: T - 40 354.900,00 393.900,00 IV VENCIMENTO 347.100,00 386.100,00 NIVEIS III 339.300,00 378.300,00 II 331.500,00 370.500,00 MAG-404.2 MAG-407.îźś MAG-406.2\_ MAG-402.3 MAG-405.îŚ MAG-403.3 MAG-407.îŚ MAG-408.Ồ MAG-406.3 MAG-402. A MAG-404.ęś MAG-403.ĄŚł MAG-405.3 MAG-408.¾Śś CÓDIGO INSPETOR TÉCNICO DE ENSINO INSPETOR TÉCNICO DE ENSINO ASSISTENTE SOCIAL ESCOLAR ASSISTENTE SOCIAL ESCOLAR ORIENTADOR EDUCACIONAL ORIENTADOR EDUCACIONAL PLANEJADOR EDUCACIONAL PLANEJADOR EDUCACIONAL PSICÓLOGO EDUCACIONAL CLASSES PSICÓLOGO EDUCACIONAL SUPERVISOR DE ENSINO SUPERVISOR DE ENSINO TECNICO EM EDUCAÇÃO TÊCNICO EM EDUCAÇÃO Tabela 2 Conclusão
+
+REPRESENTAÇÃO 106.000,00 76.000,00 88.000,00 64.000,00 116.000,00 VENCIMENTO 88.000,00 64.000,00 76.000,00 116.000,00 106.000,00 CARGOS DE PROVIMENTO EM COMISSÃO QUADRO PERMANENTE DO MAGISTÉRIO NIVEIŞ TABELA: 3
+
+ANEXO: X MC-6 MC-7 MC-3 MC-5 MC~4
+
+648.487,00 561.792,00 346.951,00 411.732,00 483.121,00 464.224,00 331.390,00 540.967,00 625.538,00 394.584,00 IV NIVEIS 316.982,00 378.706,00 521.685,00 446.726,00 604.289,00 III GRUPO OCUPACIONAL: TRIBUTAÇÃO, ARRECADAÇÃO E FISCALIZAÇÃO 302.574,00 362.828,00 429.229,00 502.403,00 583.040,00 II 288.166,00Ś 346.951,00 411.732,00 483.121,00 561.792,00 CÓDIGO: TAF - 500 CLA S SE S TAF - 501.2 TAF - 501.1 TAF - 501.3 TAF - 501.4 TAF - 501.5 TABELA: 1
+
+ANEXO: XI
+
+CLASSES VENCIMENTO 487.000,00 697.000,00 731.000,00 769.000,00 472.000,00 675.000,00 ÓRGÃO: TRIBUNAL DE CONTAS DO ESTADO AUXILIAR DE CONTROLE EXTERNO AUXILIAR DE CONTROLE EXTERNO CARGOS DE PROVIMENTO EFETIVO TÉCNICO DE CONTROLE EXTERNO TÉCNICO DE CONTROLE EXTERNO TÉCNICO DE CONTROLE EXTERNO TÉCNICO DE CONTROLE EXTERNO
+
+ANEXO: XI TABELA: 2 CARGO
+
+CLASSES VENCIMENTO 487.000,00 472.000,00 697.000,00 675.000,00 SERVIÇO CIVIL DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO ÓRGÃO: AUDITORIA GERAL DO ESTADO AUXILIAR DE CONTROLE INTERNO AUXILIAR DE CONTROLE INTERNO CARGOS DE PROVIMENTO EFETIVO TÉCNICO DE CONTROLE INTERNO TÉCNICO DE CONTROLE INTERNO TABELA: 3
+
+ANEXO: XI CARGO
+
+288.288,00 279.552,00 297.024,00 244.608,00 253.344,00 262.080,00 270.816,00 200.928,00 206.664,00 218.400,00 227.136,00 235.872,00 VENCIMENTO \* (Especial) NIVEL \* E-25 \* E-24
+
+C-22 \* E-23 A-16 A-15 A-14 B-17 B-18 B-19
+
+C-20
+
+c-21 PERITO QUÍMICO-LEGAL PERITO MÉDICO LEGAL PERITO ODONTO-LEGAL CATEGORIA FUNCIONAL: NÍVEL SUPERIOR PERITO DE TRANSITO PERITO CRIMINAL GRUPO: POLÍCIA CIVIL E JUSTIÇA CLASSE DELEGADO CÓDIGO: PCJ-600
+
+ANEXO: XII TABELA: 1 PCJ-604 PCJ-606 PCJ-601 PCJ-602 PCJ - 603 PCJ-605 CÓDIGO
+
+199.584,00 201.000,00 181.440,00 190.512,00ś 163.296,00 172.368,00 155.000,00 150.000,00 140.000,00 130.000,00 110.000,00 115.000,00 120.000,00 VENCIMENTO 105.000,00 \* (Especial) \* 5-14 NIVEL \* E-13 \* 5-12
+
+c-10 \*E-11
+
+C-08
+
+C-09 B-05 B-06
+
+C-07 B-03 A-02 B-04 A~01 PAPILOSCOPISTA POLICIAL AGENTE DE INVESTIGAÇÃO ESCRIVÃO DE POLICIA AUXILIAR DE PERITO CATEGORIA FUNCIONAL: NIVEL MEDIO CLASSE CÓDIGO: PCJ-600
+
+ANEXO: XII TABELA: 2 PCJ-610 PCJ-608 PCJ-609 PCJ-607 CÓDIGO
+
+216.000,00 280.800,00 144.000,00 168.000,00 192.000,00 216.000,00 132,000,00 158.400,00 184.800,00 211.200,00 237.600,00 CONTINUA 249.600,00 192.000,00 IV 218.400,00 168.000,00 III NIVEIS 187.200,00 144.000,00 II 130.000,00 130.000,00 156.000,00 PCJ-611 PCJ-612 PCJ-614 PCJ-613 CÓDIGO AGENTE DE SEGURANÇA PENITENCIÁRIA AGENTE DE SEGURANÇA PENITENCIÁRIA AGENTE DE SEGURANÇA PENITENCIÁRIA DE GRUPO: POLÍCIA CIVIL E JUSTIÇA OFICIAL DE JUSTIÇA DE COMARCA CÓDIGO: PCJ-600 la. ENTRANCIA 3a. ENTRANCIA la. ENTRÂNCIA CLASSES 2a. ENTRÂNCIA
+
+ANEXO: XII TABELA: 3
+
+280.056,0 285.000,0 CONCLUSÃO 240.048,0 252.000,00 216.000,00łą 270.000,00 IV 223.944,00 269.100,00₴ 191.952,00 NÍVEIS III 251.100,00 168.048,00 196.056,00 TI 149.000,00 168.000,00Ś 239.232,00ź PCJ-617 PCJ-616 PCJ-615 CÓDIGO DE DE GRUPO: POLÍCIA CIVIL E JUSTIÇA OFICIAL DE JUSTIÇA DE COMARCA OFICIAL DE JUSTIÇA DE COMARCA TÉCNICO PENITENCIÁRIO CÓDIGO: PCJ-600 2a. ENTRÂNCIA CLASSES 3a. ENTRÂNCIA
+
+ANEXO: XII TABELA: 3
+
+409.500,00 380.250,00 IV 351.000,00Śš III NIVEIS 321.750,00 II GRUPO OCUPACIONAL: OUTRAS ATIVIDADES DE NÍVEL SUPERIOR 292.500,00 ANS-913 ANS-912 ANS-916 ANS-915 ANS-902 ANS-905 ANS-907 ANS-908 ANS-909 ANS-906 ANS-910 ANS-911 ANS-914 ANS-904 ANS-903 ANS-901 CÓDIGO TÉCNICO DE ADMINISTRAÇÃO TÉCNICO DE COMUNICAÇÃO CATEGORIAS FUNCIONAIS CÓDIGO: PE-ANS-90C ASSISTENTE SOCIAL PODER EXECUTIVO NUTRICIONISTA BIBLIOTECÁRIO FARMACÊUTICO SANITARISTA
+
+ANEXO: XIII ESTATISTICO BIOQUÍMICO ECONOMISTA ENFERMEIRO ENGENHEIRO PSICÓLOGO TABELA: 1 CONTADOR DENTISTA MÉDICO SOCIAL
+
+409.500,00 380.250,00 IV 351,000,00 NİVEIS III 321.750,00 IT GRUPO OCUPACIONAL: OUTRAS ATIVIDADES DE NÍVEL SUPERIOR 292.500,00 ÓRGÃO: SECRETARIA DO TRIBUNAL DE JUSTIÇA ANS-406 ANS-405 ANS-404 ANS-403 ANS-401 ANS-402 CÓDIGO CATEGORIAS FUNCIONAIS CÓDIGO: TJ-ANS-400 TÉC. ADMINISTRAÇÃO ASSISTENTE SOCIAL BIBLIOTECÁRIO
+
+ANEXO: XIII ECONOMISTA TABELA: 2 CONTADOR MÉDICO
+
+351.000,00 380.650,00 409.500,00 IV NIVEIS III 321.750,00 II GRUPO OCUPACIONAL: OUTRAS ATIVIDADES DE NÍVEL SUPERIOR ORGÃO: SECRETARIA DO TRIBUNAL DE CONTAS DO ESTADO 292,500,00 ANS-405 ANS-403 ANS-401 ANS-402 ANS-404 CÓDIGO CATEGORIAS FUNCIONAIS TEC. ADMINISTRAÇÃO CÓDIGO: TC-ANS-400 BIBLIOTECÁRIO ESTATISTICO
+
+ANEXO: XIII ECONOMISTA TABELA: 3 MÉDICO
+
+945.000 855.000 994.500 Em Cx$ 1,00 825.000 915.000 982.500 IV I S 750.000 885.000 975.000 III N I V 705.000 855.000 II 675,00îš 825.000 960.000 CLASSE GRUPO OCUPACIONAL: CIENCIA, PESQUISA E TECNOLOGIA TÉCNICO DE PESQUISA CIENTI- CATEGORIA FUNCIONAL FICA E TECNOLÓGICA CÓDIGO: CIPES-1100 TABELA: ONICA
+
+ANEXO: XVX CIPES-1101 CIPES-1102 CIPES-1103 CIPES-1104 CÓDIGO
+
+756.000 655.200ł 502.500 Em Cr$ 1,00 702.000 608.400ł 468.000 IV 648.00îîŚ 561.600 432.000 I S III 594.000Śš 514.800Śš 396.000 II 540.000 468,000 360.000 GRUPO OCUPACIONAL: OUTRAS ATIVIDADES TÉCNICO-CIENTIFICAS CLASSE Técnico em Assuntos de Agri- Técnico em Assuntos de Infor- Técnico em Assuntos Culturais Técnico de Nível Superior FUNCIONAL Técnico em Planejamento Engenheiro Mecânico Engenheiro Agrônomo Médico Veterinário Engenheiro Civil CATEGORIA Zootecnista Odontólogo Arquiteto Geógrafo cultura Químico Geólogo mática CÓDIGO: ATC-1200 TABELA: ONICA
+
+ANEXO: XV ATC-1212 ATC-121îęŚ ATC-1214 ATC-1206 ATC-1208 ATC-1209 ATC-1210 ATC-121îł ATC-1202 ATC-120ąą ATC-1204 ATC-1205 ATC-1201 ATC- 1215ł ATC-1207 CÓDIGO
+
+294.000 235.200 304.500 630.000 546.000 382.200 441.000 420.000 352.800 336.000 504.000 436.80îŘ Em Cr$ 1,00 Continua 218.400 282.750 409.500 273.000 354.900 405.600 312.000 390.000 507.000 585.000 327.60îš 468.000 IV 327.600 201.600 252.000 261.000 378.000 468.000 302.400 360.000 288.000 374.400 540.000 432.000 IVE IS IIT 231.000 346.500 184.800 300.300 277.200 264.000ł 495.000 239.250 330.000 429.000 343.200 396.000 II 210.000 315.000 273.000 217.500 252.000 300.000 168.000 390.000 312.000 360.000 450.000 240.000 CLASSE GRUPO OCUPACIONAL: OUTRAS ATIVIDADES AUXILIARES Agente Auxiliar de Atividades Auxiliar de Artifice Administrativas nistrativas Artifice CÓDIGO: ATI-1300 TABELA: ONICA
+
+ANEXO: XVIÙ ATI-1301 ATI-1303 ATI-1302 ATI-1304 CÓDIGO
+
+Em Cr$ 1,00 504.000 436.800 420.00îŘ 546.000 630.00îęŘł 336.000 585.000 312.000 390.000 507.000 405.60îšŚ 468.00ęŚ IV NIVEIS 288.000 360.000 468.000 374.400 432.000 540.000 III 330.000 396.000 495.000 429.000 264.000 343.200 II 300.000 360.000 312.000 240.000 390.000 450.000 CLASSE Agente Auxiliar de Atividades Agente de Atividades Opera- CATEGORIA FUNCIONAL Operacionais cionais Tabela: Oniça ATI-1306 conclusão ATI-130šîŚ CÓDIGO
+
+VENCIMENTO 125.250,00 120.240,00 102.705,00 131.930,00 105.210,00 100.617,00 100.000,00 101.870,00 111.890,00 101.035,00 101.452,00 PODER EXECUTIVO (QSE) NIVEIS
+
+ANEXO: XVII
+
+TABELA: 1
+
+REGIME: T - 20 VENCIMENTO 100.200,00 103.000,00 102.000,00 107.250,00 101.000,00 104.000,00 112.000,00 109.210,00 108.240,00 110.160,00 QUADRO SUPLEMENTAR DO MAGISTÉRIO (REGENTES DE ENSINO) GRUPO OCUPACIONAL: MAGISTERIO NIVEIS - 4 RE - 3 RE - 1 RE - 2 ....
+
+ANEXO: XVII TABELA: 2
+
+REGIME: T - 32 VENCIMENTO 154.035,00 153.450,00 156.480,00 151.890,00 150.300,00 (REGENTES DE ENSINO) QUADRO SUPLEMENTAR DO MAGISTÉRIO GRUPO OCUPACIONAL: MAGISTERIO CLASSES RE - 1 RE - 2 RE - 3
+
+ANEXO: XVII TABELA: 2
+
+REGIME: T - 40 VENCIMENTO 218.420,00 224.000,00 220.320,00 214.500,00 216.480,00 QUADRO SUPLEMENTAR DO MAGISTÉRIO (REGENTES DE ENSINO) GRUPO OCUPACIONAL: MAGISTÉRIO RE - 10 RE - 7 RE - 6
+
+ANEXO: XVII RE TABELA: 2
+
+VENCIMENTO 214.500,00 107.250,00 (ASSISTENTE EM EDUCAÇÃO) REGIME DE TRABALHO T - 2îłŚł T - 40 QUADRO SUPLEMENTAR DO MAGISTÉRIO GRUPO OCUPACIONAL: MAGISTÉRIO SUPERVISOR DE ENSINO SUPERVISOR DE ENSINO CARGO
+
+ANEXO: XVII TABELA: 3
+
+GRATIFICAÇÃO 76.500,00 135.000,00 90.000,00 111.000,00 SECRETARIA DO TRIBUNAL DE JUSTIÇA FUNÇÕES GRATIFICADAS SIMBOLO TJ - FG - 4 TJ - FG - 2 TJ - FG - 3 TJ - FG - 1 TABELA: ONICA
+
+ANEXO: XVIII
+
+PERCENTUAL
+
+SALÁRIOS 120.000,00 160.000,00ł 154.000,00 SALÁRIO ATUAL 121.000,00 90.000,00 86.000,00 PESSOAL CIT
+
+ANEXO: XIX TABELA: 1 ACIMA DE PE - TC ATE DE DE
+
+328.950,00 230.445,00 328.950,00 328.950,00 370.500,00 328.950,00 456.300,00 Continua 299.250,00 336.960,00 299.250,00 299.250,00 299.250,00 414.960,00 209.610,00 IV ENTO NIVEIS 377.520,00š 190.575,00 272.250,00 306.540,00ą 272.250,00 272.250,00 272.250,00 VENCIM III 247.500,00 247.500,00 343.200,00 173.250,00 278.850,00 247.500,00 247.500,00 II GRUPO OCUPACIONAL: DIVUIGAÇÃO E PROMOÇÃO (CLT) ÓRGÃO: SUPERINTENDENCIA DE COMUNICAÇÃO SOCIAL 225.000,00 312.000,00 157.500,00 225.000,0ą 225.000,00 225.000,00Ś 253.500,00 VII III II VI CONTROLADOR DE PROGRAMAÇÃO ARQUIVISTA-PESQUISADOR
+
+ANEXO: XIX TABELA: 2 OPERADOR DE AUDIO LABORATORISTA PUBLICITÁRIO ILUSTRADOR LOCUTOR
+
+370.500,00 456.300,00 456.300,00 336.960,00 414.960,00 414.960,00 IV CIMENT 377.520,00 306.540,00 377.520,00 III 343.200,00 VEN 278.850,00 343.200,00 II 312.000,00 312.000,00 253.500,00 VIII CÓDIGO IX CATEGORIAS FUNCIONAIS TABELA: 2 REDATOR PUBLICITÁRIO RÁDIO-REPÓRTER Conclusão REDATOR
+
+Em Cr$ 1,00 41.82îŘ 35.850 49.80îŚ 89.700ł 76.890 69.360 15,300 99.840 25.50îŚ 99.84îš 143.490 103.830 181.950 114.780 199.350 166.590 SOLDO ESCALONAMENTO VERTICAL
+
+1.000 CÓDIGO PM-09 PM-13 PM-11 PM-12 PM-10 PM-14 • ALUNO OFICIAL 19 e 29 ANO POLICIA MILITAR DO ESTADO POSTO OU GRADUAÇÃO ALUNO OFICIAL 39 ANO ASPIRANTE OFICIAL SOLDADO RECRUTA TENENTE-CORONEL TABELA: ONICA 39 SARGENTO 10 SARGENTO 20 SARGENTO SUB-TENENTE 29 TENENTE 10 TENENTE
+
+ANEXO: XX SOLDADO CAPITÃO CORONEL MAJOR CABO
+
+PROPOSTO
+
+PODER EXECUTIVO, JUDICIÁRIO E TRIBUNAL DE CONTAS 97.501,00 102.000,00łąę 82.666,00 100.518,00Ś 87.571,00 92.753,00 80.291,00 73.471,00 77.343,00 68.422,00 90.723,00 98.229,00 66.000,00 66.430,00 69.017,00 77.951,00 81.000,00 74.000,00 84.950,00 94.664,00 CLASSES TABELA: ONICA PARTIR DE
+
+ANEXO: XXI INATIVOS ATE DE DE DE DE DE DE DE DE DE
+
+PERCENTUAL
+
+PENSÕES PAGAS A CONTA DO ESTADO 100.000,00 100.000,00 VALOR ATUAL TABELA: ONICA
+
+ANEXO: XXII ACIMA DE ATÉ
+
+VENCIMENTO 101.285,00 101.202,00 101.118,00ś 101.369,00 101.870,00 101.035,00 100.868,00 100.951,00 100.000,00ł 100.283,00 100.534,00 100.367,00 100.617,00 100.450,00 100.701,00 100.784,00 SERVIÇO CIVIL DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO NIVEIS
+
+TABELA: 1
+
+ANEXO: I
+
+VENCIMENTO 128.590,00 121.910,00 116.900,00 GRUPO: OUTRAS ATIVIDADES DE NÍVEL MÉDIO SECRETARIA DO TRIBUNAL DE JUSTIÇA CÓDIGO: TJ - ANM - 500 NIVEIS
+
+TABELA: 2
+
+ANEXO: I
+
+VENCIMENTO 135.270,00 121.910,00 128.500,00 113.560,00 116.900,00 103.540,00 110.220,00 106.880,00 100.000,00 SECRETARIA DO TRIBUNAL DE JUSTIÇA GRUPO: SERVIÇOS AUXILIARES CÓDIGO: TJ - GSA - 300 NIVEIS
+
+TABELA: 3
+
+ANEXO: I
+
+VENCIMENTO 135.270,00 128,590,00 116.900,00ł 121.910,00 ÓRGÃO: SECRETARIA DA CORREGEDORIA GERAL DA JUSTIÇA GRUPO OCUPACIONAL: SERVIÇOS AUXILIARES CÓDIGO: CJ - GSA - 300 NIVEIS
+
+TABELA: 4
+
+ANEXO: I
+
+VENCIMENTO 103.540,00 110.220,00 100.000,00 106.880,00 113.560,00 135.270,00 121.910,00 128.590,00 116.900,00ą SECRETARIA DO TRIBUNAL DE CONTAS GRUPO: SERVIÇOS AUXILIARES CÓDIGO: TC - SEA - 300 NIVEIS
+
+TABELA: 5
+
+ANEXO: I
+
+REPRESENTAÇÃO 50% 40% 40₴ 600.000,00 700.000,00 800.000,00 900.000,00 VENCIMENTO SÍMBOLO PODER JUDICIÁRIO PJ - 1 PJ - 4 TABELA: ONICA MAGISTRATURA
+
+ANEXO: II
+
+REPRESENTAÇÃO 40% 800.000,00 VENCIMENTO JUSTIÇA MILITAR TABELA: ONICA SIMBOLO JM - 3
+
+ANEXO: III
+
+REPRESENTAÇÃO 40% 40% 40% 40% 50% 480.000,00 600.000,00 700.000,00 800.000,00 900.000,00 VENCIMENTO CARGOS DE PROVIMENTO EFETIVO SIMBOLO MINISTERIO POBLICO ~ MP - 4 TABELA: ONICA
+
+ANEXO: IV
+
+REPRESENTAÇÃO 50₴ 900.000,00 VENCIMENTO TRIBUNAL DE CONTAS DO ESTADO SIMBOLO TC - 16 CARGOS VITALÍCIOS TABELA: ONICA
+
+ANEXO: V
+
+900.000,00 40% 875.000,00 40% IV VEI S 850.000,00 40% III 825.000,00 40% II 800.000,00 40% ORGÃO: TRIBUNAL DE CONTAS DO ESTADO CARGOS DE PROVIMENTO EFETIVO REPRESENTAÇÃO RETRIBUIÇÃO VENCIMENTO TABELA: ONICA SİMBOLO
+
+ANEXO: VI TC - 15
+
+607.000,00 REPRESENTAÇÃO 607.000,00 VENCIMENTO ÓRGÃO: TRIBUNAL DE CONTAS DO ESTADO CARGOS DE PROVIMENTO EM COMISSÃO NIVEIS TCC - 1 TABELA: ONICA
+
+ANEXO: VII
+
+516.000,00 732.000,00 900.000,00 40% 40% 40% 457.000,00 724.000,00 875.000,00 40% 40₴
+
+IV 402.000,00 716.000,00 850.000,00 NIVEIS 40% 40₴ III 40% 345.000,00 708.000,00 825.000,00 40% 40% 40% II 288.000,00 700.000,00 800.000,00 40₴ 40% 40% ÓRGÃO: PROCURADORIA GERAL DO ESTADO REPRESENTAÇÃO REPRESENTAÇÃO REPRESENTAÇÃO VENCIMENTO VENCIMENTO RETRIBUIÇÃO VENCIMENTO GRUPO: SERVIÇOS JURÍDICOS CÓDIGO: SJ - 300 TABELA: ONICA
+
+ANEXO: VIII FUNCIONAIS CATEGORIAS SJ-304 SJ-303 SJ-302 SJ-301
+
+REPRESENTAÇÃO 1,000.000,00 455.000,00 SERVIÇO CIVIL DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO VENCIMENTO 455.000,00 350.000,00 NIVEIS
+
+C - 1 SE - 1
+
+ANEXO: IX TABELA: 1
+
+REPRESENTAÇÃO 607.000,00 455.000,00 303.000,00 364.000,00 182.000,00Ś 242.000,00 SERVIÇO CIVIL DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO 607.000,00 364.000,00 242.000,00 VENCIMENTO 455.000,00 303.000,00 182.000,00 GRUPO: DIREÇÃO E ASSESSORAMENTO SUPERIORES CÓDIGO: DAS - 100 NIVEIS DAS - 1 DAS - 3 DAS - 2 DAS - 4 DAS - 6 TABELA: 2
+
+ANEXO: IX
+
+128.000,00 64.000,00 112.000,00ł REPRESENTAÇÃO 48.000,00 96.000,00 80.000,00 SERVIÇO CIVIL DA ADMINISTRAÇÃO DIRETA DO PODER EXECUTIVO VENCIMENTO 96.000,00 64.000,00 112.000,00ł 80.000,00 128.000,00 48.000,00 GRUPO: DIREÇÃO E ASSISTÊNCIA INTERMEDIÁRIA CÓDIGO: DAI - 200 NIVEIS DAI - 3 DAI - 2 DAI - 4 DAI - 6 DAI - 1 DAI -
+
+ANEXO: IX TABELA: 3
+
+607.000,00 364.000,00 REPRESENTAÇÃO 455.000,00 182.000,0îš 242.000,00 303.000,00 182.000,00źś 242.000,00 VENCIMENTO 303.000,00ą 607.000,00 455.000,00 364.000,00 GRUPO: DIREÇÃO E ASSESSORAMENTO SUPERIORES ÓRGÃO: SECRETARIA DO TRIBUNAL DE JUSTIÇA CÓDIGO: TJ - DAS - 100 NIVEIS DAS - 3 DAS - 2 DAS - 1 DAS - 4 DAS
+
+ANEXO: IX TABELA: 4
+
+REPRESENTAÇÃO 303.000,00ą 182.000,00 112.000,00 112.000,00 182.000,00 VENCIMENTO 303.000,00 GRUPO: ATIVIDADES DE APOIO ADMINISTRATIVO ÓRGÃO: SECRETARIA DO TRIBUNAL DE JUSTIÇA CÓDIGO: TJ - GAA - 200 NIVEIS GAA - 3 GAA - 2 GAA - 1 TABELA: 05
+
+ANEXO: IX
+
+303.000,00 182.000,00 242.000,00 REPRESENTAÇÃO 607.000,00 455.000,00 364.000,00 ÓRGÃO: SECRETARIA DO TRIBUNAL DE CONTAS DO ESTADO 182.000,00 242.000,00 364.000,00 455.000,00 303.000,00 VENCIMENTO 607.000,00 GRUPO: DIREÇÃO E ASSESSORAMENTO SUPERIORES CÓDIGO: TC - DAS - 100 NIVEIS DAS - 2 DAS - 5 DAS - 4 DAS - 6 DAS - 3 DAS - 1 TABELA: 06
+
+ANEXO: IX
+
+182.000,00 112.000,00 303.000,00 REPRESENTAÇÃO ÓRGÃO: SECRETARIA DO TRIBUNAL DE CONTAS DO ESTADO 112.000,00 182.000,00 303.000,00 VENCIMENTO GRUPO: DIREÇÃO E ASSISTENCIA INTERMEDIÁRIA CÓDIGO: TC - DAI - 200 NIVEIS DAI - 3 DAI - 2 DAI - 1 TABELA: 07
+
+ANEXO: IX
+
+168.000,0îî REPRESENTAÇÃO ORGÃO: SECRETARIA DA CORREGEDORIA GERAL DA JUSTIÇA 168.000,00 VENCIMENTO GRUPO: ATIVIDADES DE APOIO ADMINISTRATIVO CÓDIGO: CJ - GAA - 200 NIVEIS GAA - 2
+
+ANEXO: IX TABELA: 8
+
+130.335,00 109.609,00 204.750,00 112.221,00 161.850,00 117.553,00 181.350,0ą REGIME: T - 20 177.450,00 108.322,00 157.950,00 110.895,00 128.805,00 116.172,00 196.950,00 CIMENT 108.108,00 154.050,00 173.550,00 128.550,00 193.050,00 110.675,00 115.944,00 107.571,00š 110.126,00 115.368,00 169.650,00 127.906,00 189.150,00 150.150,00 V E CATEGORIA FUNCIONAL: PROFESSOR - MAG - 401 109.798,00 115.024,00 146.250,00 165.750,00 127.530,00š 185.250,00 107.250,00 GRUPO OCUPACIONAL: MAGISTÉRIO PROFESSOR MAG-401.3 PROFESSOR MAG-401.1 PROFESSOR MAG-401.6 PROFESSOR MAG-401.5 PROFESSOR MAG-401.2 PROFESSOR MAG-401.4 PROFESSOR MAG-401.7 CLASSES CÓDIGO: MAG - 400 TABELA: I
+
+ANEXO: X
+
+409.500,00 362.700,00 235.106,00 260.670,00 323.700,00 219.218,00 224.442,00 REGIME: T - 40 393.900,00 315.900,00 354.900,00 257.610,00 232.344,00 216.644,00 221.790,00 IV IVE IS 386.100,00 347.100,00ź 308.100,00 231.888,00 216.216,00 221.350,00 III 339.300,00 378.300,00 300.300,00 255.812,00 220.252,00 230.736,00 215.142,00 II CATEGORIA FUNCIONAL: PROFESSOR - MAG - 401 370.500,00 331.500,00 292.500;00 219.596,00 230.048,00 255.060,00 214.500,00 GRUPO OCUPACIONAL: MAGISTÉRIO PROFESSOR MAG-401.7 PROFESSOR MAG-401.3 PROFESSOR MAG-401.6 PROFESSOR MAG-401.4 PROFESSOR MAG-401.2 PROFESSOR MAG-401.5 PROFESSOR MAG-401.1 CLASSES CÓDIGO: MAG - 400 TABELA: 1
+
+ANEXO: X
+
+181.350,00 REGIME: T - 20 161.850,00 117.553,00 Continua 177.450,00 157.950,00 116.172,00 IV T O EN 173.550,00 I S 154.050,00 115.944,00 VENCIM III V E CATEGORIA FUNCIONAL: ESPECIALISTAS EM EDUCAÇÃO - MAG - 402 169.650,00 150.150,00 115.368,00 II 165.750,00 115.024,00 146.250,00 GRUPO OCUPACIONAL: MAGISTÉRIO MAG-403.3 MAG-404.2 MAG-405.2 MAG-405.1źŚ MAG-402.3 MAG-408.2 MAG-407.1 MAG-403.2ł MAG-404.1 MAG-406.łźŚ MAG-403.1 MAG-402.2 MAG-408.1 MAG-402.1 CÓDIGO CÓDIGO: MAG - 400 ASSISTENTE SOCIAL ESCOLAR,) ASSISTENTE SOCIAL ESCOLAR INSPETOR TÉCNICODE ENSINO ORIENTADOR EDUCACIONAL PSICÓLOGO EDUCACIONAL/ ORIENTADOR EDUCACIONAL PLANEJADOR EDUCACIONAL ORIENTADOR EDUCACIONAL PSICÓLOGO EDUCACIONAL SUPERVISOR DE ENSINO SUPERVISOR DE ENSINO SUPERVISOR DE ENSINO TÉCNICO EM EDUCAÇÃO TABELA: 2 TÉCNICO EM EDUCAÇÃO
+
+ANEXO: X CLASSES
+
+REGIME: T - 20 204.750,00 181.350,00₴ 196.950,00 177.450,00 IV CIMENTO IVE IS 193.050,00 173.550,00 III VEN 169.650,00 189.150,00 II 185.250,00 165.750,00 MAG-402.4 MAG-408.4 MAG-407.8ł MAG-406.3 MAG-406.2 MAG-407.2źł MAG-408.3 MAG-405.3ł MAG-403.4 MAG-404.3 CÓDIGO INSPETOR TÉCNICO DE ENSINO ASSISTENTE SOCIAL ESCOLAR INSPETOR TÉCNICO DE ENSINO PLANEJADOR EDUCACIONAL PLAJEJADOR EDUCACIONAL ORIENTADOR EDUCACIONAL PSICÓLOGO EDUCACIONAL SUPERVISOR DE ENSINO TÉCNICO EM EDUCAÇÃO TECNICO EM EDUCAÇÃO CLASSES TABELA 2 Conclusão

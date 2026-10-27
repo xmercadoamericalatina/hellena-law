@@ -1,0 +1,78 @@
+---
+titulo: "Lei Ordinária nº 3.095, de 05 de novembro de 1963"
+uf: "PB"
+tipo: "Lei Ordinária"
+numero: "3095"
+data: 1963-11-05
+ementa: "CRIA O MUNICÍPIO DE SANTANA DE MANGUEIRA E DÁ OUTRAS PROVIDÊNCIAS."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DIARIO OFICIAL"
+fonte: "https://sapl.al.pb.leg.br/norma/2536"
+arquivo: "https://sapl.al.pb.leg.br/media/sapl/public/normajuridica/1963/2536/2536_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 3.095, de 05 de novembro de 1963
+
+GOV~RNO DA PARAIBA
+
+LEI N: 3.095 ,de 5 de novembro de 19 63
+
+Cria o muni- c{pio de Santana de Manguei ra e dá outras providênciaã.
+
+o GOVERNADOR 00 ESTADO DA PARAIBA, Faço saber que o Poder Legislativo dscreta e eu promulgo \_. , a seguinte Lei ;
+
+Art . 19 - Fica criado o município de Santana de Mangueira,
+
+tendo por sede a atual vila do mesmo nome, que fica elevada à categoria de ci -
+
+dade.
+
+**Parágrafo único** - O munic{pio de Santana de Mangueira, ~
+
+membrado do munic{pio de Ibiara, terá seus limites adotados pela Lei que ot~
+
+formou em distrito .
+
+**Art. 29** - Fica extinto o Sub-Comissariado de Pollcia do an
+
+tigo distrito de Santana de Mangueira e criado no seu lugar o Comissariado de
+
+pol{cia do munic{pio de igual denominação, com os respectivos suplentes, na
+
+forma estabelecida pela Lei Estadual em vigor.
+
+**Art. 39** - Para fazer face às despesas decorrentes da exe -
+
+cução da presente Lei, fica, desde logo, o Poder Executivo autorizado a abrir
+
+um crédito especial da imporiância de Cr$ 100.000,00 (cem mil cruzeiros).
+
+**Art. 49** - Fica criado no munic{pio de Santana de Manguei -
+
+ra uma Coletoria Estadual, com os cargos em comissão de Coletor e Tesourei-
+
+ro.
+
+**Art. 59** - As eleições para Prefeito, Vice-Prefeito e Ver'!..
+
+adores realizar-se-ão em data designada pelo Tribunal Regional Eleitoral.
+
+**Art. 69** - A instalação do munic{pio dar-se-á com a posse
+
+dos Prefeito, Vice-Prefeito e Vereadores eleitos, em data designada pela Tri -
+
+bunal Regional Eleitoral.
+
+**Art. 79** - EBta Lei entrará em vigor na data de sua public~
+
+çao, revogadas as disposições em contrário.
+
+Palácio do Govêrno do Estado da Paraíba, em João Pessoa,
+
+5 de novembro de 1963; 759 da Proclamação da República.
+
+ES T AD O D A P A RA IBA
+
+DI AR i O OFiCIA L
+
+, i:"~ !:LTI1 i..~ ::; ; .';: .\ T l' () .. . ... C...... iH: 1."; D E O EZ I':.\ II ! I: O n :~ i 10(1 1 . " i:(!,rct., L':.g io: lp. I: \·": n ;- 07, (-" 1- ·l>~: it: eb Pr I ?C, 12~ ! : 11. I :; C: ' Cr;a ú m unicip 'u d<.' S.l:'.: O:1:l d~ \ {an~u dl'a e Ó....l ~~~.! :-OIU c.J:: :.1 l: r~ l\_! n utl r~;;: rrl'Y;(ler:c i ... ~. . . ""' .. ~:a :.~ r iL u'''l'' (:1 L:.: - , 11 .,;;.) F. t,;.71 !.'~; i.:::;;J':' r:'Y ~i:t:l '!" I"'l; .. I. ·.:i ":1;' ;'''~J ri-; p!'\_(i i 'P~ · ;;'·-::-:;3 (", :1 . \_,,':\.i'~ ;;,) 1' ~['.t,,:::; Ct~Il(' : '-'\_t''i. no 10- .\rri;':J l 'J . -. FL u c r ';l.jA o lTI t :rúLÍ ;.) jo ti.! Sa!llr,,~a J ... L' ... · :11:.,:'::' 1,' r;\_ r:'· ,. :'1,'; Co)l',111;~:' ..: !l:J U~'T; .·r:o p '~ - l\ ~·' li l .i.i l : . •l. ;, nd o 1-'0 1' l:i .', c\ t: 1\ i1 ll: :!! VIl:1. do :ncs nHJ nu:n e, ,;; .... d" i t ~'\_ ult(m l't'niq h(n~fi,·h':'> p:ii:a a qu .; :1\_ \ tl: v!:'c1:t ;'1 catcgo, i:J t. ·.,: d(!a d <. ' . lo. ~'L ·,';(,;d:- . T (.~' ria, c~:'~:;)!':> ag :l' (O!~ :1 1113X:l!i:l t:!. u ~c l · !.'<':3 ·!:t::e. t. ~ .'~ (~ q .l l·, pe r Unl (' Sl f ..l l.h,) c ti s:):- c~ ~!1n{l r ral :!:.;: ' ·:~fu IIl . ieo -. O Ilunicir-:;; ~;.! ,s:-.;!:\_:1:.l Co.: \_,~ ::Il­ .~t :" de.::- L ~ ,:~:".I~;1r0. f\_r n ~c ,·hé':.:ue ~ t:'IHl '. vln,· gl~~'hl. lk~:m::.n'O ladl) do mt:!lit:i~io d t! Ipi?rn, ~ell~ li' .era (.1 ' :;> ::- i :t'r~' -;-' :.",.; ,,:."~ !1Il~ ~l 'ciDais Q:a (;.;~st.:'l es, !"!!P n::IÕ"S :V!,'I:1:{O,. p::; !a !.('Ii que n t l':lns.t;.rnoo u e m diS i !'h Q :r t::~::.:' :·':1, r r· t~' i ' ) la a~ a::;h-m:l' <l,l~ hU: l:J. !1~S f!': L ,t~lt;Cú 20 - . •: j ca ('x~int:.> o Sub- C o;n:S::i:lriado rl r· 1'0 1 .;>!: . "',:,,, .~ ,. '1 '>:',.: ,ir t · Iic i a ~~ IIn:!!:~o c.i ::itril o de sant a na d e Ma.n 'H!c il'a (' ni~.:i.. ! 1!~ :i::-:',ci'" :'1 ": 'l"'~ ios c::: :clt,?,": ·"[".: T' "'), 1 1('''>. d 11 0 :SCi.•. III ~,:r G Com isS!ll' iuc.1) de p úliCi n cio lln'ni ..: íp1o d e i~j~!RJ l'Ü'''~: oS',.:' :,,;., .!~, s ,-""1· :::t"'~,"'nO ;2 (lo ESHldo. -: ,'nh·) cIé':1U0 d e n OI1l 11l'l €:,a o , ... I~m ús I' ..'!;p~r ivos snpjcnlcs, no. fo rm a I:!s:a- ; :J. r, ',; !'f) '1'1 '.,r·\. ~l. \';',d o~ n ~ cn: ' n~' L~:::S'l t!;·. ,~ b('It::: id ~'l. p ... ::1 !.r i ZS iad u f.l l em viç; c r , r(.;,,:: V' s::rl n ;n,s m unicjpios. ~('m prc que , n '; Al't: ~n 30, - - par~ faz,' r face à,; d ,.;5pe.:iUS d 0C(/lTent ::s j· .. c: 'd '1',.·, c c.ndi.'5f:3 g:'r::\\· q \l~ n'- !J 55 l, :U',l U~\ (!' ".:' d l ~'ão da p re,:;en te L d, j' i C,l d es c.'e logo , o P /Jdcl' E:.;l' d' ponto ek ..,.i'::ta d .:n:q:::· :·t fi{,n c~\_lI i\~ (l alltO;' izudQ a flbl'i:' um crêdit n esp e.:.ia l da il; lpur- l \_: l-. ~. ·\'r{'l . '3. n ~,:t li " Cr5 108.000,00 q:~'m mil crut::ejl'usJ , :::1'1 é '{". r .., r "",; t0 ('nl e n :·:P"''', \"'7 eiH" ~l I O~·1i· - Ar li gv '; 0. -- F i" él cri:ld o nO mu n icip io d .. Sa nto!,,:'! d! (,âti . . :·~l~ ::c P!·(':: f' {~C e'<>Yf-r ;, categor ia de I1ltl!ticivio n jQ M aI~;.:l! e i r n U:l lf\. Co]e:oda ES 1tHiual, c om cs ,. a r gos em -:: 0· r: ,,' ~...:.: ti; !a t ~. ,··,',b a q llLh,s as~e c tog. os l·e q l1i~itos e:\j~: i do~ m iss;tO d ~ Col eto" e T eso u r e;l'I.> . ":"!'~ ;', ', ."~\ç9.r I '.~ <'. ('":r~ lI' 'il S e. a inda, PO ' que lh e fa lt a !'l A l' n~o ~O. - As e le ições para Prefeilo, Vi:,e-Pn 'fei t1, , \:!: :s ~:-.:<1~ t:~ i 1;~BS tÚ .. iO,5. (! VC" ·cf' dol'('s I'ca lizn. r -scúo em ~a(a d ~s j ).:.o:nad ~l pelo Tri bu n:1,j ('\~. '!Te. a'!'I:::J . ,5:C:':l'nts r <lue n nO\'ej (\i 5"· i;0. cd ud o n · Region a l E! e it OJ';l l. ll: n ·t. L,i 'l'~';:'" : li r:. •• . qu<!. g:> e m con co mi tâ n c ia com a t ra - Al' t iRO 00 . -- A in Sla !Hçno do mun icíp io da r -se ,â C :'!I~ :1: ! :~,-,) rlL D!,<1j ' t (l qu~ vi so u s u a cle\' acüo a (·a t ce or ia de o pOS!:IC d o Pre fe il o, Vi cc -P l'~ i ..:: it o e Ver eadÚl'cs e l c jl o~ , em. ·'''·-~:il)·'''. :1:'1"> P ri~"·:· ,, '· ' n ' i:'50 mesm o. a l:.ança r a conqu is la u :lLa d es ig n a ria p el O 'f l'jbu n al Re gional E teltol'al . '1'11: '\.. O! S ' i'rcl!:~d" ri''1':i''ir . :\ r l igo 70 . -- Es ta Le i en trara em vigor na d a t a (.',: !'1í::! . S:',) ('~I:l: <.! " r a7u"'s q u e s~ r \'e m de Su po r t e ao p r ese n te p llblic a~· ;l o . r evogadas as d is p osiç,ões em cOn tr:l,·jo ·.. :ET . Paço d a Assembl é ia I..f:zis latl v3 d o EStud o da Pi'tl aiJ ,:L D·-\· ...J!y:\ - Sf' a / ' '''<E'll' b! cia !.eg is I2.l iva, pu r a o,. efei tos Em 15 d ·.~ Dezem hro d e I !J 61 , ::1''','''(.::; n': (: :· o; l:t'!; d ,o Estadua l . I n:l ~! o Jose F~ i I QS :l - - Prcsidenl !' . F'l.:" ,'r · l. ' ( ! (',., "i'l ' 1.1') Es a ã o lI"- P ara;.:;:!. em J ofi ~ .!Io "jnn io ).!Jnn t enc':!'!·o l o. S ~ . · rel :·t ri " ?,:,,,. ",f>. 1 ~ d:: d z n,l~r() d e 196 1; í 20. d a proc lam ução da O " l ~' ndo Ca vn lcan.i - - 20 . S ec re :;Í!·jco i: pio : ... .., if E j ): (O : ")RE!'H) (;O.'\D DJ ) -- GOY E HNA DO H.

@@ -1,0 +1,130 @@
+---
+titulo: "Lei Ordinária nº 7.787, de 06 de setembro de 2005"
+uf: "PB"
+tipo: "Lei Ordinária"
+numero: "7787"
+data: 2005-09-06
+ementa: "AUTORIZA O GOVERNADOR DO ESTADO A REALIZAR REMANEJAMENTO DE DOTAÇÕES ORÇAMENTÁRIAS ATÉ O VALOR DE R$ 15.360.000,00."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "Diario Oficial"
+fonte: "https://sapl.al.pb.leg.br/norma/7936"
+arquivo: "https://sapl.al.pb.leg.br/media/sapl/public/normajuridica/2005/7936/7936_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 7.787, de 06 de setembro de 2005
+
+,DE 06 DE SETEMBRO DE2005
+
+Autoriza o Governador do Estado a realizar remanejamento de dotações orçament.árias até o valor de RS 15.360.000,00.
+
+O GOVERNADOR DO ESTADO DA PARAÍBA:
+
+Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte Lei:
+
+**Art. 1o** Fica o Governador do Estado autorizado a efetivar remanejamento de dotações orçamentárias até o valor de R$ 15.360.000,00 (Quinze milhões e trezentos e sessenta mil reais).
+
+**Art. 2°** O remanejamento far-se-á para suplementar as dotações consignadas no Anexo I desta Lei.
+
+**Art. 3°** O remanejamento, por anulação, ocorrerá nas dotações constantes do Anexo ll desta Lei.
+
+**Art. 4°** O remanejamento descrito nos artigos anteriores ocorrerá dentro do mesmo Poder ou órgão, nos valores e rubricas indicados nos Anexos I e ll.
+
+Art. so Esta Lei entra em vigor na data de sua publicação (},
+
+PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA, em João Pessoa, 06 de Proclamação da República.
+
+Governador
+
+ANEXO I SUPLEMENTAÇÃO
+
+LEI NQ 7.787 de 06 . 09.2005 01.000- ASSEMBLÉIA LEGISLATIVA 01.101- ASSEMBLÉIA LEGISLATIVA
+
+Espuificação Natureza Fonte Valor
+
+Ol.244.5007-22I 0- ASSISTENCIA SOCIAL GERAL 3390.48 00 3.000.000,00
+
+01.122.5046-4213- AQUlSIÇÃO DE VEÍCULOS 4490.52 00 130.000,00
+
+01.122.5046-4216- MANUTENÇÃO DE SERVIÇOS 3390.33 00 2.580.000,00 ADMINISTRATIVOS
+
+TOTAL 5.710.000,00
+
+02.000- TRIBUNAL DE CONTAS 02.101- TRIBUNAL DE CONTAS
+
+Especificação Natureza Fonte Valor
+
+01.032.5072-2097- FISCALIZAÇÃO, ACOMPANHAMENTO E 3390.37 OI 40.000,00 CONTROLE EXTERNO 3390.93 OI 550.000,00 4490.51 01 1.000.000,00
+
+TOTAL /1\ 1.590.000,00 ~
+
+05.000- JUSTIÇA COMUM 05.901- FUNDO ESPECIAL DO PODER JUDICIÁRIO
+
+Especificação Natureza Fonte Valor
+
+02.122.5046-4194- CONSERVAÇÃO, REFORMA E ADAPTAÇÃO DE IMÓVEIS 3390.39 70 600.000,00
+
+02.122.5046-4213- AQUISIÇÃO DE VEÍCULOS 4490.52 70 1.000.000,00
+
+02.122.5046-4216- MANUTENÇÃO DE SERVIÇOS ADMlNISTRATIVOS 4490.52 70 1.250.000,00
+
+02.126.5046-4219- SERVIÇOS DE 4490.52 70 1.500.000,00 INFORMATIZAÇÃO
+
+TOTAL 4.350.000,00
+
+21.000- SECRETARIA DE ESTADO DO TURISMO E DO DESENVOLVIMENTO ECONÔMICO 21.902- FUNDO DE APOIO AO DESENVOLVIMENTO INDUSTRIAL DA PARAÍBA
+
+Especificação Natureza Fonte Valor
+
+22.122.5046-4216- MANUTENÇÃO DE SERVIÇOS ADMINISTRATIVOS 3390.39 70 1.600.000,00
+
+22.661.5009-2955- INSTALAÇÕES PARA o DESENVOLVIMENTO 4490.51 70 1.055.000,00
+
+22.661.5009-295 8- INFRA-ESTRUTURA PARA o DESENVOLVIMENTO 4490.51 70 1.055.000,00
+
+TOTAL 3.710.000,00
+
+f TOTAL GERAL f7'\ 15.360.000,00 ~
+
+LEI NQ 7.787 de 0 6. 09 . 20 05
+
+ANEXO li ANULAÇÃO
+
+O1. 000- ASSEMBLÉIA LEGlSLATIVA 01.101- ASSEMBLÉIA LEGISLATIVA Especificação Natureza Fonte Valor
+
+01.122.5046-4217- ENCARGOS COM PESSOAL 3190.11 00 5.710.000,00 ATIVO
+
+TOTAL 5.710.000,00
+
+02.000- TRIBUNAL DE CONTAS 02.101- TRIBUNAL DE CONTAS
+
+Especificação Natureza Fonte Valor
+
+01.122.5046-4217- ENCARGOS COM PESSOAL 3190.11 01 1.590.000,00 ATlVO
+
+TOTAL 1.590.000,00
+
+05.000- JUSTIÇA COMUM 05.901- FUNDO ESPECIAL DO PODER JUDICIÁRIO
+
+Especificação Natureza Fonte Valor
+
+02.061.5244-1480- CONSTRUÇÃO DE UNIDADES JUDICIÁRIAS 4490.51 70 910.000,00
+
+02.061.5244-1489- CONSTRUÇÃO DE CASAS PARA MAGISTRADOS 4490.51 70 450.000,00
+
+02.061.5244-1491- CONSTRUÇÃO DO COMPLEXO JUDICIÁRIO DOS JUIZADOS ESPECIAIS CÍVEIS E CRIMINAIS 4490.51 70 2.990.000,00 FEPJ
+
+TOTAL ......-:--.. 4.350.000,00 ~
+
+21.000- SECRETARIA DE ESTADO DO TURISMO E DO DESENVOLVIMENTO ECONÔMICO 21.902- FUNDO DE APOIO AO DESENVOLVIMENTO INDUSTRIAL DA PARAÍBA
+
+Especificação N•raa F'Hte Valor
+
+22.661.5084-2947- IMPLANTAÇAO E MANUTENÇÃO DA CASA DO 3390.14 70 90.000,00 EMPREENDEDOR 3390.30 70 100.000,00 3390.35 70 220.000,00 3390.36 70 100.000,00 3390.37 70 100.000,00 3390.39 70 100.000,00 4490.52 70 1.000.000,00
+
+28.846 0000-7015- DESAPROPRIAÇÃO E INDENIZAÇÕES DE IMÓVEIS 4490.61 70 400.000,00 4590.61 70 100.000,00
+
+28.846.0000-7028- CONCJSSSÃO DE EMPRÉSTIMO 4590.66 70 1.500.000,00
+
+TOTAL 3.710.000,00
+
+TOTAL GERAL /(\ 15.360.000,00 w

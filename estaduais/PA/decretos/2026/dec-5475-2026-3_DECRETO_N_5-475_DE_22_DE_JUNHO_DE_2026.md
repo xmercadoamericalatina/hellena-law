@@ -1,0 +1,49 @@
+---
+titulo: "Decreto nº 5475, de 2026"
+uf: "PA"
+tipo: "Decreto"
+numero: "5475"
+data: 2026-06-22
+ano: "2026"
+ementa: "Abre no Orçamento Fiscal e da Seguridade Social, em favor do(s) órgão(s) da Administração Pública Estadual, crédito suplementar por ANULAÇÃO, no valor de R$ 210.552.012,89 para reforço de dotação(ões) consignada(s) no Orçamento vigente."
+versao_texto: "PDF do Banco de Leis da ALEPA"
+fonte: "https://bancodeleis.alepa.pa.gov.br/arquivos/lei_20260908112715_4ef4fb63_DECRETO_N_5.475_DE_22_DE_JUNHO_DE_2026.pdf"
+baixado_em: 2026-10-15
+---
+# Decreto nº 5475, de 2026
+
+ASSEMBLEIA LEGISLATIVA – ASSESSORIA TÉCNICA
+
+DECRETO Nº 5.475, DE 22 DE JUNHO DE 2026.
+
+Abre no Orçamento Fiscal e da Seguridade Social, em favor do(s) órgão(s) da Administração Pública Estadual, crédito suplementar por ANULAÇÃO, no valor de R$ 210.552.012,89 para reforço de dotação(ões) consignada(s) no Orçamento vigente.
+
+A GOVERNADORA DO ESTADO DO PARÁ, usando das atribuições que lhe confere o art. 135, inciso V, e com fundamento no art. 204, § 13, ambos da Constituição Estadual, combinando com o art. 6º, inciso V da Lei Orçamentária Lei n° 11.288, de 26 de dezembro de 2025.
+
+DECRETA:
+
+**Art. 1º** Fica aberto ao Orçamento Fiscal e da Seguridade Social, em favor do(s) órgão(s) da Administração Pública Estadual a seguir especificado(s), o crédito suplementar no valor de R$ 210.552.012,89 (Duzentos e dez milhões quinhentos e cinquenta e dois mil e doze reais e oitenta e nove centavos), para atender à programação abaixo:
+
+161011236115118904 - SEDUC 01540107043 319004 14.463.474,87 161011236115118904 - SEDUC 01540107043 319011 43.192,80 161011236215118906 - SEDUC 01540107043 319004 7.826.719,54 161011236215118906 - SEDUC 01541107073 319004 28.874.209,99 161011236215118906 - SEDUC 01541107073 319011 126.024.774,42 161011236215118906 - SEDUC 01541107073 319016 11.886.917,25 181011442215002265 - SEJU 01500000001 339014 20.000,00 181011442215002271 - SEJU 01500000001 339014 20.000,00 241012369115288518 - SEDEME 02500000001 335041 150.000,00 251022884600009010 - Enc. PGE 01500000001 339091 10.000.000,00 462021339215128841 - FCP 02500000001 334041 400.000,00 462021339215128841 - FCP 02500000001 339039 1.160.000,00 552012312615082251 - PRODEPA 01501000061 449092 299.098,00 652012439215128423 - FUNTELPA 02500000001 335041 342.500,00 652012439215128423 - FUNTELPA 02500000001 339039 400.000,00 742011212212978338 - UEPA 01500100102 339140 586.655,00 742011236415062204 - UEPA 61500100102 449052 5.459,13 792011854115278365 - IDEFLOR- 02500000001 339039 1.282.503,43
+
+871010824515058859 - FEAS 01500000001 334181 200.000,00 871010824515058859 - FEAS 02500000001 334181 1.000.000,00 901011030115078874 - FES 02500100203 334141 100.000,00 901011030215078288 - FES 01600000049 339030 884.460,00 901011030215078288 - FES 01600000049 339037 622.960,54 901011030215078288 - FES 01600000049 339039 3.959.087,92
+
+**Art. 2º** Os recursos necessários à execução do presente Decreto correrão por conta da anulação parcial de dotação(ões) consignada(s) no Orçamento vigente, conforme estabelecido no artigo 43, § 1°, inciso
+
+III, da Lei Federal n° 4.320, de 17 de março de 1964, através da(s) unidade(s) orçamentária(s) abaixo discriminada(s):
+
+161011236815112369 - SEDUC 01541107073 319004 88.759.146,43 161011236815112369 - SEDUC 01541107073 319011 48.738.860,50 161011236815112369 - SEDUC 01541107073 319016 29.287.894,73 161011242315118998 - SEDUC 01540107043 319004 22.333.387,21 181011442215008801 - SEJU 01500000001 339014 20.000,00 181011442215008803 - SEJU 01500000001 339014 20.000,00 251022884600009010 - Enc. PGE 01500000001 319091 10.000.000,00 341010445115087679 - FDE 02500000001 444042 3.552.500,00 552012357214902226 - PRODEPA 01501000061 449040 299.098,00 742011236415062203 - UEPA 01500100102 339039 592.114,13 792011854115278365 - IDEFLOR- 02500000001 335041 1.282.503,43
+
+901011012212978339 - FES 01600000049 339008 5.466.508,46 911031212212978316 - Enc. 01500000001 319113 200.000,00 SEPLAD-AD
+
+**Art. 3º** Este Decreto entrará em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO, 22 DE JUNHO DE 2026.
+
+HANA GHASSAN TUMA Governadora do Estado IVALDO RENALDO DE PAULA LEDO Secretário de Estado de Planejamento e Administração
+
+\*Republicado por ter saído com incorreção no Doe n° 36.668, de 22 de junho de 2026.
+
+DOE Nº 36.754, DE 03/09/2026.
+
+\*Este texto não substitui o texto publicado no Diário Oficial do Estado do Pará.

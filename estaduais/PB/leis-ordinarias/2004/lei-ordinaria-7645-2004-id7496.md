@@ -1,0 +1,36 @@
+---
+titulo: "Lei Ordinária nº 7.645, de 18 de agosto de 2004"
+uf: "PB"
+tipo: "Lei Ordinária"
+numero: "7645"
+data: 2004-08-18
+ementa: "DENOMINA UNIDADE EDUCACIONAL E DETERMINA OUTRAS PROVIDÊNCIAS."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DIARIO OFICIAL"
+fonte: "https://sapl.al.pb.leg.br/norma/7496"
+arquivo: "https://sapl.al.pb.leg.br/media/sapl/public/normajuridica/2004/7496/7496_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 7.645, de 18 de agosto de 2004
+
+lltilltJCi\00 00 DIÀRIO OF!CJAl NESTA DATA Em,..;13\_1 OS' I o~ . '<ilAl!IMtrE CIVU. !1iJO 00\IERHAooR
+
+LEIN" 7.645 \* ESTADO DA PARA.ÍBA
+
+, DE 18 DE AGOSTO DE2004
+
+Denomina Unidade Educacional e determina outras providências.
+
+O GOVERNADOR DO ESTADO DA P.ARAÍBA:
+
+Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** - A Unidade Escolar, atualmente denominada de "BRASIL OITICICA", localizada na z.ona urbana do município de Piaocó, integrante da sétima região de ensino, passa a denominar-se de Escola Estadual do Ensino Fundamental Maria Nazaré Remígio.
+
+**Art. 2º** - Esta Lei entra em vigor na data de sua publicação.
+
+**Art. 3º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA, em João Pessoa, 18 de agosto de 2004; 116° da Proclamação da República
+
+) Governador

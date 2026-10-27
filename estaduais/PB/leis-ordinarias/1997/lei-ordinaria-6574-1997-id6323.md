@@ -1,0 +1,598 @@
+---
+titulo: "Lei Ordinária nº 6.574, de 18 de dezembro de 1997"
+uf: "PB"
+tipo: "Lei Ordinária"
+numero: "6574"
+data: 1997-12-18
+ementa: "ALTERA AS LEIS NºS 5.127, DE 27 DE JANEIRO DE 1989, E 6.393, DE 02 DE DEZEMBRO DE 1996, E DÁ OUTRAS PROVIDÊNCIAS."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DIARIO OFICIAL"
+fonte: "https://sapl.al.pb.leg.br/norma/6323"
+arquivo: "https://sapl.al.pb.leg.br/media/sapl/public/normajuridica/1997/6323/6323_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 6.574, de 18 de dezembro de 1997
+
+\* ESTADO DA PAlliÚBA
+
+LEI N. 0 6. 574 , DE 18 DE DEZEMBRO DE 1997
+
+Altera as Leis nºs 5.127, de 27 de janeiro de 1989, e 6.393, de 02 de dezembro de 1996, e dã outras providências.
+
+O GOVERNADOR DO ESTADO DA PARAÍBA:
+
+Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte Lei;
+
+**Art. 1°** - O "caput" do art. 2°, da Lei n.º 5.127, de 27 de janeiro de 1989, passa a viger com a seguinte redação:
+
+"Art. 2° - As taxas de Fiscalização e de Utilização de Serviços Públicos, cobradas pelo Estado, no âmbito de suas atribuições, têm como fato gerador o exercício regular do poder de polícia ou a utilização, efetiva ou potencial, de serviço público específico e divisível, prestado ao contribuinte ou posto à sua disposição, na forma das Tabelas "A", "B", "C", ·o· e "E", anexas a esta Lei".
+
+**Art. 2°** - As tabelas "A", "B", ·e· e ·o·, a que se refere o art. 2º, da Lei n. º 5.127, de 27 de janeiro de 1989, pertinentes às taxas de Fiscalização e de Utilização de Serviços Públicos, passam a vigorar em conformidade com as Tabelas anexas à presente Lei.
+
+**Art. 3º** - O art. 1º, da Lei n.º 6.393, de 02.12.96, passa a vigorar com a seguinte redação:
+
+"Art. 1° - A Taxa de Fiscalização e Utilização de Serviços Públicos, de que trata a Tabela "E", da Lei n.º 5.127, de 27 de janeiro de 1989, de competência da Polícia Militar, devida em razão do exercício do poder de polícia ou pela utilização, efetiva ou potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos à sua disposição, será cobrada tendo por fatos geradores, valores e periodicidade, aqueles discriminados na referida Tabela". ~
+
+Publicado [;;(:r;-, Oficial p.{ST \ l• ' ; .\ Fm. J.~- .J~\_ ... Q'1. ,,n A~lf'1~\_ I ~: 1 ,\_ l'/1:\_ l l 1 ,C1 / · r!I ~,, .\_.,. '. ~
+
+Re p ~J b !:e 1·, \_·.'O [~, :: ri O Of i ( i d 1 L1:,.:.:·; :~ l ).\"J'A 1 "' .. :zo lR.. q "l
+
+~·
+
+• ESTADO DA PARAÚIA
+
+**Art. 4°** - Esta Lei entra em vigor na data de sua publicação,
+
+**Art. 5°** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA PARAÍBA, em João Pessoa, 18 de dezembro de 1997; 109" da Proclamação da República.
+
+TABELA A
+
+PODER DE POLICIA- TAXA DE FISCALIZAÇÃO E DE UTILIZAÇÃO DE SERVIÇOS PÚBLICOS
+
+BASE DE CÁLCULO • UFR/PB
+
+COMPETÊNCIA DA SECRETARIA DE SEGURANÇA PÚBLICA
+
+CÓDIGO DISCRIMINAÇÃO DO FATO GERADOR LICENCAS REG DIA MES ANO 1.00.00 REGISTRO INICIAL • PERMANENTE • LICENÇAS
+
+1.01.00 AGÊNCIAS E ESTABELECIMENTOS
+
+1.01.01 AGÊNCIA DE INFORMAÇÃO OU INVESTIGAÇÃO 2,00 0,20
+
+1.01.02 AGÊNCIA OU EMPRESA ESPECIALIZADA EM SE- 0,50 0,10 GURANÇA E/OU VIGILÃNCIA(POR VIGILANTE)
+
+1.01.03 ESTABELECIMENTO QUE POSSUA OU UTILIZE 1,00 0,50 GUARDA DE SEGURANÇA PRÓPRIA (PNIGILANTE)
+
+1.01.04 AGÊNCIA EMPLACADORA DE VEICULOS 2,00 0,20
+
+1.02.00 VIGILÃNCIA E SEGURANÇA PÚBLICA
+
+1.02.01 BANCO E SOCIEDADE DE INVESTIMENTO ou 20,00 2,00 CRÉDITO (POR ESTABELECIMENTO)
+
+1.02.02 AGÊNCIA CÂMBIO OU CORRETAGEM TiTULOS, VA 10,00 1,00 LORES, CONSTRUÇÃO CIVIL, AGÊNCIA PUBLICI- DADE, SEGUROS CAPITALIZAÇÃO (P/ESTAB.)
+
+1.03.00 REGISTRO E PORTE DE ARMAS DE FOGO
+
+1.03.01 REGISTRO DE ARMA DE FOGO PARA DEFESA 2,00 PESSOAL
+
+1.03.02 REGISTRO DE ARMA DE FOGO PARA DEFESA DE 2,00 ENTIDADES DE SEGURANÇA BANCÁRIA (POR UNIDADE)
+
+1.03.03 REGISTRO DE ARMAS DE FOGO PARA DEFESA DE 3,00 OUTRAS ENTIDADES DE SEGURANÇA (POR UNI- DADE)
+
+1.03.04 REGISTRO DE ARMAS DE FOGO PARA CAÇA - 1,50 TIPO COMUM (POR UNIDADE)
+
+CÓDIGO DISCRIMINAÇÃO DO FATO GERADOR LICENCAS REG DIA MES ANO 1.03.05 REGISTRO DE ARMA DE FOGO PARA CAÇA - TIPO 3,00 CARTUCHO (POR UNIDADE)
+
+1.03.06 REGISTRO DE ARMA DE FOGO PARA COLEÇÃO 2,00 (POR UNIDADE)
+
+1.03.07 PORTE DE ARMA DE FOGO P/ DEFESA PESSOAL 20,00
+
+1.03.08 PORTE DE ARMA DE FOGO PARA DEFESA DE EN- 10,00 TIDADES DE SEGURANÇA (POR UNIDADE)
+
+1.03.09 PORTE DE ARMA DE FOGO PARA DEFESA DE EN- 20,00 TIDADES DE SEGURANÇA PRIVADA (UNIDADE)
+
+1.03.10 PORTE DE ARMA DE FOGO PARA CAÇA 10,00
+
+1.04.00 HOTÉIS
+
+1.04.01 HOTÉIS COM MAIS DE 50 APARTAMENTOS 10,00 3,50
+
+1.04.02 HOTÉIS COM 41 A 50 APARTAMENTOS 9,00 3,00
+
+1.04.03 HOTÉIS COM 31 A 40 APARTAMENTOS 7,00 2,50
+
+1.04.04 HOTÉIS COM 21 A 30 APARTAMENTOS 6,00 2,00
+
+1.04.05, HOTÉIS COM 11 A 20 APARTAMENTOS 4,00 1,50
+
+1.04.06 HOTÉIS ATÉ 10 APARTAMENTOS 3,00 1,00
+
+1.05.00 MOTÉIS
+
+1.05.01 MOTÉIS DE MAIS DE 25 QUARTOS 15,00 4,00
+
+1.05.02 MOTÉIS DE 11 A 25 QUARTOS 12,00 3,00
+
+1.05.03 MOTÉIS DE 6 A 1O QUARTOS 10,00 2,00
+
+1.05.04 MOTÉIS COM ATÉ 5 QUARTOS 5,00 1,00
+
+1.06.00 CASAS DE HOSPEDAGEM, CASAS DE CÔMODOS, PENSÕES, HOSPEDARIAS E SIMILARES
+
+1.06.01 MAIS DE 20 LEITOS 4,00 2,00
+
+1.06.02 11 A 20 LEITOS 3,00 1,50
+
+1.06.03 ATÉ 10 LEITOS, 2,00 1,00
+
+1.07.00 BOLICHES
+
+!ffe/ 2
+
+CÔDIGO DISCRIMINAÇÃO DO FATO GERADOR LICENÇAS REG DIA M~S ANO
+
+1.07.01 BOLICHES (POR PISTA) 1,00 0,50
+
+1.08.00 BOATES, DANCETERIAS E SIMILARES
+
+1.08.01 BOATES TIPO A 10,00 3,00
+
+1.08.02 BOATES TIPO B 8,00 2,00
+
+1.08.03 BOATES TIPO C 6,00 1,00
+
+1.09.00 BARES
+
+1.09.01 BAR TIPO A 3,00 1,50
+
+1.09.02 BAR TIPO B 2,00 1,00
+
+1.09.03 BARTIPOC 1,00 0,50
+
+1.09.04 FITEIROS - BARRACA 0,50 0,30
+
+1.10.00 BARES MUSICAIS
+
+1.10.01 BAR MUSICAL TIPO A 6,00 2,00
+
+1.10.02 BAR MUSICAL TIPO B 4,00 1,50
+
+1.10.03 BAR MUSICAL TIPO C 2,00 1,00
+
+1.11.00 RESTAURANTES
+
+1.11.01 RESTAURANTE TIPO A 6,00 2,50
+
+1.11.02 RESTAURANTE TIPO B 4,00 2,00
+
+1.11.03 RESTAURANTE TIPO C 2,00 1,50
+
+1.12.00 RESTAURANTES DANÇANTES OU MUSICAL
+
+1.12.01 RESTAURANTE DANÇANTE TIPO A 10,00 3,00
+
+1.12.02 RESTAURANTE DANÇANTE TIPO B 8,00 2,50
+
+1.12.03 RESTAURANTE DANÇANTE TIPO C 6,00 2,00
+
+1.13.00 CAMPING
+
+1.13.01 CAMPING (POR 10 M2 DE ÁREA ÚTIL) 0,50 0,10
+
+1.14.00 CINEMAS E VIDEO LOCADORAS
+
+1.14.01 CINEMA DE PRIMEIRA CLASSE 6,00 2,00
+
+~3
+
+CÓDIGO DISCRIMINAÇÃO DO FATO GERADOR LICENÇAS REGI DIA M~S ANO 1.14.02 CINEMA DE SEGUNDA CLASSE 4,00 1,50
+
+1.14.03 CINEMA DE TERCEIRA CLASSE 2,50 1,00
+
+1.14.04 VIDEO LOCADORAS 2,00 0,50
+
+1.15.00 DRIVE-IN
+
+1.15.01 DRIVE-IN DE PRIMEIRA CLASSE 6,00 1,00
+
+1.15.02 DRIVE-IN DE SEGUNDA CLASSE 4,00 0,50
+
+1.16.00 CLUBES RECREATIVOS
+
+1.16.01 CLUBES, ASSOCIAÇÕES OU SOCIEDADES RE- 10,00 3,00 CREATIVAS, DE CLASSE ESPECIAL, COM JOGOS CARTEADOS PERMITIDOS
+
+1.16.02 CLUBES, ASSOCIAÇÕES OU SOCIEDADES RE- 6,00 1,50 CREATIVAS, DE CLASSE COMUM, COM JOGOS CARTEADOS PERMITIDOS
+
+1.16.03 CLUBES, ASSOCIAÇÕES OU SOCIEDADES RE- 6,00 1,50 CREATIVAS, DE CLASSE ESPECIAL, SEM JOGOS CARTEADOS PERMITIDOS
+
+1.16.04 CLUBES, ASSOCIAÇÕES OU SOCIEDADES RE- 4,00 1,00 CREATIVAS, DE CLASSE COMUM, SEM JOGOS CARTEADOS PERMITIDOS
+
+1.17.00 CASAS OU CLUBES BALNEÁRIOS
+
+1.17.01 CASA OU CLUBE BALNEÁRIO 4,00 1,00
+
+1.18.00 TERMAS, SAUNAS E SIMILARES
+
+1.18.01 TERMAS, SAUNAS E SIMILARES 4,00 1,00
+
+1.19.00 ESTÁDIOS E GINÁSIOS DE ESPORTES
+
+1.19.01 ESTÁDIOS 8,00 1,00
+
+1.19.02 GINÁSIOS DE ESPORTES 8,00 1,00
+
+1.20.00 SALAS OU AUDITÓRIOS
+
+1.20.01 SALA OU AUDITÓRIO DE EMISSORA DE RÁDIO 5,00 1,00
+
+1.20.02 SALA OU AUDITÓRIO DE EMISSORA DE TELEVISÃO 1,00 15,00
+
+CÓDIGO DISCRIMINAÇÃO DO FATO GERADOR LICENCAS REG DIA Mf:S ANO 1.21.00 CASAS DE JOGOS
+
+1.21.01 CASAS DE JOGOS PERMITIDOS (POR MESA OU 1,50 0,50 UNIDADE)
+
+1.21.02 CASAS DE JOGOS ELETRÔNICOS (POR UNIDADE) 0,50 0,30
+
+1.21.03 BILHAR OU SNOOKER (POR MESA) 0,50 0,30
+
+1.21.04 AG~NCIAS DE LOTERIAS OU SIMILARES 5,00 2,00
+
+1.21.05 BINGOS PERMANENTES (POR MESA) 1,50 0,50
+
+1.22.00 TEATROS
+
+1.22.01 TEATRO (CLASSE ESPECIAL) 2,00 0,50
+
+1.22.02 TEATRO (CLASSE COMUM) 1,00 0,50
+
+1.23.00 SERVIÇOS DE AUTO FALANTES
+
+1.23.01 SERVIÇO DE AUTO FALANTE (FIXO) 4,00 1,00
+
+1.23.02 SERVIÇO DE AUTO FALANTE (VOLANTE) 6,00 1,00
+
+1.24.00 ESTABELECIMENTOS QUE FABRIQUEM OU IM- PORTEM PRODUTOS CONTROLADOS
+
+1.24.01 ARMAS E MUNIÇÕES 8,00 1,00
+
+1.24.02 ARTIGOS PIROTÉCNICOS(FOGOS DE ARTIFÍCIO) 4,00 1,00
+
+1.24.03 BEBIDAS ALCOÓLICAS 4,00 1,00
+
+1.24.04 BEBIDAS ALCOÓLICAS (ALAMBIQUES) 6,00 1,00
+
+1.24.05 CARVÃO VEGETAL 6,00 1,00
+
+1.24.06 CARVÃO VEGETAL (CARVOARIA) (POR FORNO OU 1,00 1,00 UNIDADE DE PRODUÇÃO)
+
+1.24.07 CHUMBO PARA CAÇA 6,00 2,00
+
+1.24.08 COMBUSTÍVEIS (LfQUIDOS OU GASOSOS) 6,00 2,00
+
+1.24.09 EXPLOSIVOS, CÁUSTICOS, CORROSIVOS, 8,00 2,00 AGRESSIVOS, ABRASIVOS E INFLAMÁVEIS
+
+1.24.10 GASES INDUSTRIAIS 8,00 2,00
+
+1.24.11 OUTROS PRODUTOS SUJEITOS À FISCALIZAÇÃO 6,00 1,00 E CONTROLE POLICIAL
+
+CÓDIGO DISCRIMINAÇÃO DO FATO GERADOR LICENCAS REG DIA M~S ANO 1.25.00 ESTABELECIMENTO QUE VENDAM PRODUTOS CONTROLADOS
+
+1.25.01 ARMAS E MUNIÇÕES 10,00 2,00
+
+1.25.02 ARTIGOS PIROTÉCNICOS(FOGOS DE ARTIFÍCIO) 3,00 1,00
+
+1.25.03 BEBIDAS ALCOÓLICAS(NÃO CLASSIFICADOS NOS 2,00 1,00 ITENS 1.09.01A1.12.03)
+
+1.25.04 CARVÃO VEGETAL 1,00 0,50
+
+1.25.05 CHUMBO PARA CAÇA 1,00 0,50
+
+1.25.06 COMBUSTÍVEIS LiQUIDOS OU GASOSOS 1,00 0,50 (GASOLINA, ÁLCOOL, GLP, ETC)
+
+1.25.07 COMBUSTÍVEIS EM POSTOS DE GASOLINA (POR 1,00 0,50 BOMBA OU BICO DE MANGUEIRA)
+
+1.25.10 EXPLOSIVOS, CÁUSTICOS, CORROSIVOS, AGRES- 3,00 1,00 SIVOS, ABRASIVOS E INFLAMÁVEIS (EM FARMA- CIAS, SUPERMERCADOS, ETC)
+
+1.25.11 GASES INDUSTRIAIS 1,00 0,50
+
+1.25.12 OUTROS PRODUTOS SUJEITOS À FISCALIZAÇÃO 1,00 0,50 E CONTROLE POLICIAL
+
+1.26.00 DEPÓSITOS
+
+1.26.01 ARMAS E MUNIÇÕES 12,00 3,00
+
+1.26.02 ARTIGOS PIROTÉCNICOS(FOGOS DE ARTIFÍCIO) 4,00 1,00
+
+1.26.03 BEBIDAS ALCOÓLICAS 2,00 0,50
+
+1.26.04 CARVÃO VEGETAL 2,00 0,50
+
+1.26.05 COMBUSTÍVEIS LiQUIDOS OU GASOSOS 8,00 2,00 (GASOLINA, ÁLCOOL, GLP, ETC)
+
+1.26.06 CHUMBO PARA CAÇA 2,00 0,50
+
+1.26.07 EXPLOSIVOS, CÁUSTICOS, CORROSIVOS, 4,00 0,50 AGRESSIVOS, ABRASIVOS E INFLAMÁVEIS
+
+1.26.08 GASES INDUSTRIAIS 4,00 0,50
+
+1.26.09 OUTROS PRODUTOS SUJEITOS À FISCALIZAÇÃO 2,00 0,50 E CONTROLE POLICIAL
+
+dfY/ 6
+
+CÓDIGO DISCRIMINAÇÃO DO FATO GERADOR LICENCAS REG DIA M~S ANO 1.27.00 PEDREIRAS
+
+1.27.01 PEDREIRAS COM EQUIPAMENTO MECÂNICO 3,00 1,00
+
+1.27.02 PEDREIRAS SEM EQUIPAMENTO MECÂNICO 2,00 0,50
+
+1.28.00 OFICINAS PARA RECUPERAÇÃO DE VEICULOS
+
+1.28.01 OFICINAS PARA REPARO OU RECUPERAÇÃO DE 5,00 1,50 VEICULOS AUTO-MOTORES(1a. CLASSE)
+
+1.28.02 OFICINAS PARA REPARO OU RECUPERAÇÃO DE 4,00 1,00 VEÍCULOS AUTO-MOTORES(2ª. CLASSE)
+
+1.28.03 OFICINAS PARA REPARO OU RECUPERAÇÃO DE 2,00 0,50 VEÍCULOS AUTO-MOTORES(3ª. CLASSE)
+
+1.28.04 SUCATAS, DESMANCHES E SIMILARES 4,00 1,00
+
+1.29.00 OFICINAS PARA RECUPERAÇÃO DE ARMAS E DI- VERSOS
+
+1.29.01 OFICINAS PARA REPARO OU RECUPERAÇÃO DE 5,00 1,50 ARMAS DE FOGO
+
+1.29.02 OFICINAS PARA REPARO OU RECUPERAÇÃO EM 1,50 0,50 DIVERSOS
+
+1.30.00 ESTACIONAMENTOS PÚBLICOS
+
+1.30.01 GARAGEM OU PÁTIO DE ESTACIONAMENTO PU- 1,00 0,20 BLICO (POR CADA 20 M2 DE ÁREA ÚTIL)
+
+1.31.00 ESCOLA PARA MOTORISTAS
+
+1.31.01 ESCOLA PARA MOTORISTA 10,00 1,00
+
+1.32.00 LOCADORAS DE VEICULOS AUTO-MOTORES
+
+1.32.01 LOCADORAS DE VEICULOS AUTO-MOTORES 10,00 1,00
+
+1.33.00 OUTROS ESTABELECIMENTOS COMERCIAIS
+
+1.33.01 LOJAS DE DEPARTAMENTOS 8,00 2,00
+
+1.33.02 LOJAS DE ELETRO-ELETRÔNICOS 5,00 1,50
+
+1.33.03 LOJAS DE PEÇAS, EQUIPAMENTOS E ACESSÓRI- 3,00 1,00 OS PARA VEICULOS
+
+1.33.04 CONCESSIONÁRIAS DE VEICULO$ AUTO- 2,00 1,00 MOTORES
+
+CÓDIGO DISCRIMINAÇÃO DO FATO GERADOR LICENCAS REG DIA M~S ANO 1.33.05 OUTROS ESTABELECIMENTOS COMERCIAIS NAO 2,00 0,50 CLASSIFICADOS NESTA TABELA
+
+2.00.00 LICENÇAS POR TEMPO DETERMINADO
+
+2.01.01 BARRACAS PARA JOGOS DIVERSOS 0,50
+
+2.01.02 BARRACAS PARA VENDA DE BEBIDAS ALCOÓLI- 0,20 CASEM FEIRAS, PRAIAS, FESTAS POPULARES
+
+2.01.03 BARRACAS PARA VENDA DE ARTIGOS PIROTÉC- 0,20 NICOS (FOGOS DE ARTIFICIO)
+
+2.01.04 BARRACAS PARA USO DE EXPLOSIVOS POR 2,00 FIRMAS DE CONSTRUÇÃO RODOFERROVIÁRIA DE MINERAÇÃO E DE PEDREIRAS
+
+2.01.05 CIRCOS DE 2a. CLASSE 0,50
+
+2.01.06 CIRCOS DE 1ª. CLASSE 1,00
+
+2.01.07 EXPOSIÇÃO OU EXIBIÇÃO DE ESPÉCIMES TERA- 0,20 LOLÓGICOS, FAQUIRISMO, ILUSIONISMO, MUSEU DE CERA, ETC.
+
+2.01.08 PARQUE DE DIVERSÕES COM ATE 1O APARELHOS 0,30
+
+2.01.09 PARQUE DE DIVERSÕES COM MAIS DE 10 0,80 APARELHOS BINGOS EVENTUAIS TELEVISADOS 2.01.10 25,00 BINGOS EVENTUAIS EM ESTÁDIOS E SIMILARES 2.01.11 15,00 ESPETÁCULOS TEATRAIS OU SIMILARES 2.02.00 EM ESTABELECIMENTOS ESPECIALIZADOS OU 2.02.01 CONGi;:NERES DE 1a. CLASSE 5,00
+
+EM ESTABELECIMENTOS ESPECIALIZADOS OU 2.02.02 CONGi;:NERES DE 2ª. CLASSE 3,00
+
+EM ESTABELECIMENTOS ESPECIALIZADOS OU 2.02.03 CONGi;:NERES DE 3ª. CLASSE 2,00
+
+PRESTAÇÃO DE SERVIÇOS 3.00.00 EXPEDIÇÃO DE DOCUMENTOS POLICIAIS 3.01.00 CÉDULA DE IDENTIDADE 3.01.01 0,30 CÉDULA DE IDENTIDADE PROFISSIONAL (DETETIVE) 3.01.02 1,00
+
+CÓDIGO DISCRIMINAÇÃO DO FATO GERADOR LICENCAS REGI DIA MES ANO 3.01.03 CERTIDAO DE REGISTRO DE ACIDENTE DE VEI- 0,50 CULOS
+
+3.01.04 CERTIDÃO DE ANTECEDENTES CRIMINAIS 0,30
+
+3.01.05 CERTIDÃO DE LAUDOS POLICIAIS, COM FOTOS 5,00 OU DESENHOS
+
+3.01.06 CERTIDÃO DE LAUDOS "MÉDICO-LEGAL" COM 5,00 FOTOS OU DESENHOS
+
+3.01.07 CERTIDÃO DE REGISTRO OU TERMO EM LIVRO, 0,50 ATOS ADMINISTRATIVOS, INQUÉRITOS OU PRO- CESSOS POLICIAIS (POR FOLHA)
+
+3.01.08 CERTIDÃO NEGATIVA DE REGISTRO DE FURTO 1,00 OU ROUBO DE VEICULO$
+
+3.01.09 ATESTADO DE QUALQUER NATUREZA 1,00
+
+3.01.10 EXAME QUÍMICO PARA IDENTIFICAÇÃO DE VEÍCU- 3,00 LOS SIMPLES
+
+3.01.11 EXAME QUÍMICO PARA IDENTIFICAÇÃO DE VEÍCU- 5,00 LOS COMPLEXOS
+
+3.01.12 CURSO DE FORMAÇÃO DE VIGILANTES (POR VI- 20,00 GILANTE)
+
+3.01.13 CURSO DE FORMAÇÃO DE VIGILANTES EM 15,00 TRANSP. DE VALORES (EXTENSÃO) (POR VIGI- LANTE)
+
+3.01.14 CURSO DE FORMAÇÃO DE VIGILANTES EM SE- 17,00 GURANÇA PRIVADA (POR VIGILANTE)
+
+3.01.15 CURSO DE RECICLAGEM DE VIGILANTES (POR 10,00 VIGILANTE)
+
+3.01.16 CURSO DE ARMAMENTO E TIRO PARA DEFESA 10,00 PESSOAL
+
+3.02.00 FORNECIMENTO DE 2ª. VIA DE DOCUMENTOS
+
+3.02.01 CÉDULA DE IDENTIDADE 0,40
+
+3.02.02 CÉDULA DE IDENTIDADE PROFISSIONAL 1,50 (DETETIVE)
+
+3.02.03 CERTIFICADO DE REGISTRO POLICIAL OU LICEN- 1,00 ÇA DE FUNCIONAMENTO
+
+CÓDIGO DISCRIMINAÇÃO DO FATO GERADOR LICENCAS REGI DIA ME:S ANO 3.02.04 REGISTRO DE ARMA DE FOGO 2,50
+
+3.02.05 PORTE DE ARMA DE FOGO 22,00
+
+3.03.00 PERICIA PARA CONSTATAÇÃO DE DANOS A PE- DIDO DO INTERESSADO (COM EXPEDIÇÃO DE LAUDO)
+
+3.03.01 NOS MUNICÍPIOS SEDES DE SERVIÇOS OU POS- 6,00 TOS
+
+3.03.02 NOS DEMAIS MUNICÍPIOS 10,00
+
+3.04.00 CANCELAMENTO DE REGISTRO CRIMINAL
+
+3.04.01 CANCELAMENTO DE REGISTRO CRIMINAL 0,50
+
+3.04.02 RETIFICAÇÃO DE ASSENTAMENTO EM FACE DE 0,50 MUDANÇA DE ESTADO CIVIL
+
+3.04.03 RETIFICAÇÃO DE ASSENTAMENTO EM FACE DE 0,50 JUSTIFICAÇÃO JUDICIAL
+
+3.05.00 IDENTIFICAÇÃO DE PESSOA EM RESIDE:NCIA
+
+3.05.01 IDENTIFICAÇÃO DE PESSOA EM RESIDi;:NCIA COM 0,50 EXPEDIÇÃO DE CÉDULA DE IDENTIDADE
+
+3.05.02 IDENTIFICAÇÃO DE IMPRESSÃO DIGITAL 0,50
+
+3.06.00 VISTORIA TÉCNICA POLICIAL PARA RENOVAÇÃO DE LICENÇA DE FUNCIONAMENTO OU QUANDO SE FIZER NECESSÁRIO
+
+3.06.01 EM CINEMAS, TEATROS E VÍDEO LOCADORAS 1,00
+
+3.06.02 EM CLUBES RECREATIVOS OU SIMILARES 1,00
+
+3.06.03 EM CAMPING 1,00
+
+3.06.04 EM CASAS OU CLUBES BALNEÁRIOS, TERMAS, 1,00 SAUNAS E SIMILARES
+
+3.06.05 EM CASAS DE JOGOS (ELETRÔNICOS, SNOOKER, 1,00 BILHAR, BOLICHE, ETC)
+
+3.06.06 EM BARES, BOATES, RESTAURANTES, DANCETE- 1,00 RIAS E SIMILARES
+
+3.06.07 EM ESTÁDIOS, GINÁSIOS DE ESPORTE, EMISSO- 1,00 RAS DE RÁDIO E TELEVISÃO
+
+CÓDIGO DISCRIMINAÇÃO DO FATO GERADOR LICENCAS REG DIA M~S ANO 3.06.08 EM PEDREIRAS, FABRICAS E DEPOSITO$ DE 1,00 PRODUTOS SUJEITOS À FISCALIZAÇÃO E CON- TROLE POLICIAL
+
+3.06.09 EM SISTEMA DE ALARME BANCÁRIO E SIMILARES 5,00
+
+3.06.10 EM CIRCOS, PARQUE DE DIVERSÕES E SIMILA- 1,00 RES
+
+3.06.11 EM OFICINAS DE CONSERTO DE VEÍCULOS AUTO 1,00 MOTORES
+
+3.06.12 EM OFICINAS DE CONSERTOS DE ARMAS DE 1,00 FOGO E OFICINAS DE CONSERTOS EM DIVERSOS
+
+3.06.13 EM HOTÉIS, MOTÉIS, CASAS DE CÔMODO, PEN- 1,00 SÕES, HOSPEDARIAS E SIMILARES
+
+3.06.14 EM AG~NCIAS DE LOTERIAS E SIMILARES 1,00
+
+3.07.00 LICENÇAS PARA COMPETIÇÕES
+
+3.07.01 CORRIDA DE AUTOMÓVEL (POR PROVA) 2,00
+
+3.07.03 CORRIDA DE KART OU DE MOTOCICLETA (POR 0,50 COMPETIÇÃO)
+
+3.07.04 GINCANAS (POR COMPETIÇÃO) 1,00
+
+3.07.05 LUTAS DE BOX, LIVRE OU DE OUTRO TIPO 1,00 (POR COMPETIÇÃO)
+
+3.07.06 VAQUEJADA (POR EVENTO) 15,00
+
+3.08.00 LICENÇAS PERIÓDICAS
+
+3.08.01 DESFILE DE BLOCOS, CORDÕES, ETC. POR 20 0,20 COMPONENTES ATÉ O LIMITE LEGAL (POR DIA)
+
+3.08.02 ENSAIOS DE BLOCOS, CORDÕES, ETC. (POR DIA) 0,50
+
+3.08.03 BAILES PÚBLICOS (POR DIA) 2,00
+
+3.08.04 TRIO ELÉTRICO (POR DIA) 2,00
+
+, li
+
+TABELAB
+
+TAXA DE UTILIZAÇÃO DE SERVIÇOS PÚBLICOS BASE DE CÁLCULO UFR/PB
+
+COMPETÊNCIA DA SECRETARIA DA SAÚDE
+
+CÓDIGO DISCRIMINAÇÃO DO FATO LICENÇAS GERADOR POR POR POR POR REG DIA MÊS ANO 4.00.00 INDUSTRIAS FARMACÊUTICAS 4.01.01 Produção e acondicionamento de drogas ou produtos destinados ao tratamento ou prevenção de enfermidades, por estabelecimento 2,50 3,50 4.02.00 FARMÁCIAS E DROGARIAS 4.02.01 Comercialização de drogas ou outros produtos destinados ao tratamento ou prevenção de enfermidades, por estabelecimento 2,00 2,50 4.03.00 INDÚSTRIAS ALIMENTÍCIAS 4.03.01 Produção, beneficiamento ou acondicionamento de alimentos, artigos dietéticos, bebidas excluídas as alcoólicas , por 2,00 2,50 estabelecimento 4.04.00 COMERCIALIZAÇÃO DE ALIMENTOS 4.04.01 Comercialização de alimentos, artigos dietéticos, bebidas excluídas as alcoólicas, por estabelecimento 2,00 2,50 4.05.00 INDÚSTRIAS DE BEBIDAS 4.05.01 Produção ou acondicionamento de bebidas alcoólicas, por estabelecimento 3,00 4,00 4.06.00 PRODUTOS DE HIGIENE 4.06.01 Produção de artigos de higiene e de toucador, por estabelecimento 2,50 3,00 4.07.00 COMERCIALIZAÇÃO DE PRODUTOS DE HIGIENE
+
+CODIGO DISCRIMINAÇÃO DO FATO FATOR X UFR/PB LICENCAS GERADOR POR POR POR POR REG DIA MÊS ANO 4.07.01 Comercialização de produtos de higiene e de toucador, por estabelecimento NOTA: entendem-se, também como comercialização ou acondicionamento, a distribuição ou a simples representação 2,00 2,50 4.08.00 SALÕES DE BELEZA 4.08.01 Funcionamento de institutos de beleza, barbearias e similares por estabelecimento, segundo classificação abaixo: 4.08.02 1• classe 2,00 2,50 4.08.03 2ª classe 1,50 2,00 4.08.03 3ª classe 1,00 1,00 4.09.00 CASAS OU CLUBES BALNEÁRIOS E SIMILARES 4.09.01 Funcionamento de casas balneárias, saunas e similares, por estabelecimento 3,00 4,00 4.10.00 CASAS DE ASÚDE 4.10.01 Funcionamento de hospitais, clínicas, ambulatórios, laboratórios de análises, oficina de prótese ou de equipamentos e materiais de uso médico ou odontológicos, clínicas de recuperação ou de repouso e similares, inclusive veterinários, por 3,00 4,00 estabelecimento 5.00.00 EXPEDIÇÃO DE EXAMES QUÍMICOS 5.01.01 Aguardente e bebidas destiladas 1,50 5.01.02 Agua (Investigação da potabilidade) 1,50 5.01.03 Banha, manteiga e compostos gordurosos 2,00 5.01.04 Chá e café 1,50 5.01.05 Doces, balas e melados 1,50 5.01.06 Cerveja 2,50
+
+CODIGO DISCRIMINAÇÃO DO FATO FATOR X UFR/PB GERADOR LICENCAS POR POR POR POR REG DIA MÊS ANO 5.01.07 Chocolate e mel 1,50 5.01.08 Colorau, açafrão e tempero 1,50 5.01.09 Farinha e Fubá 1,50 5.01.10 Óleo Comestível 2,00 5.01.11 Massas alimentícias 1,50 5.01.12 Peixe, carne e conservas (verificação do estado de conservação para amostra) 1,00 5.01.13 Refrigerantes, sucos de frutas, e sorvetes 1,50 5.01.14 Leite em pó ou industrializado 1,50 5.01.15 Vinagre e molho preparado 1,50 5.01.16 Vinho, bebidas fermentadas 1,50 5.01.17 Queijos, carnes preparadas 1,50 5.01.18 Outro produtos não especificados 1,50 5.02.00 EXPEDIÇÃO DE EXAMES MICROBIOLÓGICOS 5.02.01 Colimetria de água 1,00 5.02.02 Análise bacteriológica de alimentos 1,00 5.03.00 EXAME MÉDICO PARA INSCRIÇÃO EM CONCURSO PÚBLICO 5.03.01 Atestado de asúde 1,00
+
+TABELA "C"
+
+TAXA DE UTILIZAÇÃO DE SERVIÇOS PÚBLICOS BASE DE CÁLCULO UFR/PB
+
+COMPETÊNCIA DO ÓRGÃO EXPEDIDOR
+
+FATOR X UFRIPB CÓDIGO DESCRIÇÃO DO FATO LICENCAS GERADOR POR POR POR REGISTRO DIA MÊS UNID 6.00.00 UTILIZAÇÃO DE SERVIÇOS DIVERSOS
+
+6.01.01 Assistência a Micro Empresa so- bre 80% (oitenta por cento ) do valor do equipamento efetuado pelo Estado decorrente de con- trato de obras públicas de servi- ços, de trabalhos artísticos e de fornecimentos. 1,00 6.01.02 Expedição de Edital de Licitação 4,00 6.01.03 Certidões 0,50
+
+6.01.04 Termo lavrado de interesse de terceiro 0,50
+
+6.01.05 Inscrição em concurso público para os cargos dos níveis 01 a 18 do quadro permanente do ser- viço civil da administração direta do poder executivo 0,50
+
+6.01.06 Inscrição em concurso público para o grupo magistério 0,50
+
+6.01.07 Inscrição em concurso público para os demais cargos 0,50
+
+TABELAD
+
+TAXA DE UTILIZAÇÃO DE SERVIÇOS PÚBLICOS BASE DE CÁLCULO - UFR/PB
+
+COMPET~NCIA DA SECRETARIA DAS FINANÇAS
+
+CÔDIGO DISCRIMINAÇÃO DO FATO GERADOR LICENCAS POR REG. POR DIA UNID. 7.00.00 EXPEDIÇÃO DE DOCUMENTOS FISCAIS 7.01.01 Autorização para impressão de documentos fiscais, por 0,30 pedido
+
+7.01.02 Avaliação de imóveis para efeitos fiscais por pedido 0,30
+
+7.01.03 Certidão negativa de débitos (por pessoa ou estabeleci- 0,30 mento), por certidão
+
+7.01.04 Documento de Arrecadação Estadual - DAR modelo 2, 0,30 por conjunto de 12 DARs - carnet
+
+7.01.05 Inscrição cadastral de contribuinte do ICMS (1ª via ou 0,60 renovação da Ficha de Inscrição
+
+7.01.06 Suspensão temporária de atividade 0,50
+
+7.01.07 Reativação da inscrição em função da suspensão de ati- 0,60 vidade
+
+7.02.00 FORNECIMENTO DE 2ª VIA DE DOCUMENTOS 7.02.01 Ficha de Inscrição Cadastral (FIC) 0,50
+
+7.02.02 Expedição de atestado 0,30
+
+7.02.03 Anotação pela transferência de firma ou alteração na ra- 0,30 zão social
+
+7.02.04 Busca nos arquivos até 5 (cinco) anos e por ano que ex- ceder 0,50
+
+7.02.05 Emissão de Nota Fiscal Avulsa 0,30
+
+7.02.06 Autorização para livre trãnslto 0,30
+
+7.02.07 Autenticação de livros fiscais p/livro 0,30.
+
+7.02.08 Autenticação de notas fiscais 0,30
+
+7.02.09 Expedição de documentos para fins fiscais, em casos 0,30 não especificados
+
+7.02.10 Termo de responsabilidade para garantia de recolhimen- 0,30 to de tributos
+
+TABELA E
+
+TAXA DE FISCALIZAÇÃO E DE UTILIZAÇÃO DE SERVIÇOS PÚBLICOS
+
+BASE DE CÁLCULO • UFR/PB
+
+COMPETÊNCIA DA POLÍCIA MILITAR
+
+CODIGO DISCRIMINAÇÃO DO FATO GERADOR FATOR X UFR/PB LICENCAS ANUAL MENSAL POR VEZ 8 RELATIVO AO SERVIÇO OPERACIONAL EMGERAL 8.1 Serviços relativos à segurança preventiva por homem/hora 0,40 8.2 Segurança física de Estabelecimentos ban- cários da administração direta e indireta do Estado, fundações/autarquias, prestadores de serviços, indústria e comércio: 8.2.1 Um (01) Policial Militar: 8.2.2 Por seis (06) horas 734,00 62,00 2,00 8.2.3 Por oito (8) horas 978,00 82,00 3,00 8.2.4 Por doze (doze) horas 1.467,00 122,00 4,00 8.2.5 Por dezesseis (16) horas 1.956,00 163,00 6,00 8.2.6 Por vinte e quatro(24) horas 2.934,00 245,00 8,00 8.3 Segurança preventiva a eventos esportivos e de laser com fins lucrativos: Futebol, Show, Feira, Exposição, Festa,. Baile, Ro- deio, Vaquejada, Circo, Parque de Diver- sões, Teatro e Similares, por dia: 8.3.1 a) até 1.000 pessoas 43,00 8.3.2 b) de 1.001 até 3.000 pessoas 64,00 8.3.3 c) de 3.001 até 5.000 pessoas 102,00 8.3.4 d) de 5.001 até 8.000 pessoas 162,00 8.3.5 e) de 8.001 até 12.000 pessoas 204,00 8.3.6 f) de 12.001 até 20.000 pessoas 298,00 8.3.7 g) de 20.001 até 30.000 pessoas 382,00 8.3.8 h) de 30.001 até 40.000 pessoas 425,00 8.3.9 i) de 40.001 até 50.000 pessoas 467,00 8.3.10 j) a partir de 50.001 pessoas, para cada grupo de 1.000 pessoas 13,00 8.4 Preservação com equipamentos de alarmes, rastreamento ou similares: 8.4.1 Por empresa de comércio de jóias, pedras e metais preciosos 13,00 8.4.2 Por empresa fornecedora ou instaladora de alarmes de seguranca patrimonial 3,00
+
+CODIGO DISCRIMINAÇÃO DO FATO GERADOR FATOR X UFR/PB LICENCAS ANUAL MENSAL POR VEZ 8.4.3 Por empresa fornecedora ou instaladora de alarmes para veículos 2,00 8.4.4 Por alarme instalado em organização policial militar 7,00 8.4.5 Acionamento acidental de alarme bancário 10,00 9 Relativo ao serviço administrativo em ge- ral: 9.1 Certidões diversas, por folha (exceto certi- dões para defesa de direitos e esclareci- mentes de situações de interesse público 0,10 9.2 Cópia xerox autenticada, por folha 0,10 9.3 Atestados diversos, por folha 0,10 9.4 Diária de permanência de veículos apreen- didos, nas unidades policiais militares, após notificado o proprietário 0,40 9.5 Reboque de veículo, por quilômetro percor- rido 0,40 9.6 Expedição de certificados, certidões, bole- tins de acidentes de trânsito e documentos diversos ao público externo por folha 2,00 9.7 Retenção de veículo 1,00 9.8 Inscrição em curso de formação, por aluno 4,00 9.9 Inscrição em curso de atualização, treina- mento e preparo do público externo, por aluno 5,00 9.10 Fotografias por unidades: 9.10.1 Legendadas e autenticadas (10 x 15) 1ª via 0,23 9.10.2 Demais cópias 0,15 9.10.3 Ampliações fotográficas 0,55 9.11 Banda de música da Polícia Militar, por hora de apresentação: 9.11.1 Banda de música, completa 47,00 9.11.2 Fração da Banda de música 30,00 9.11.3 Orquestra 17,00 9.11.4 Conjunto musical 9,00 9.12 Praça de esportes da Polícia Militar: 9.12.1 Eventos por campo de futebol:
+
+a) diurno, por hora 3,00
+
+b) noturno, por hora 9,00 9.12.2 Eventos nas quadras de futebol de salão, vôlei, basquete e pistas de atletismo:
+
+a) diurno, por hora 1,00
+
+b) noturno, por hora 2,00

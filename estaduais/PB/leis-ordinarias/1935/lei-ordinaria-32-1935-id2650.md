@@ -1,0 +1,30 @@
+---
+titulo: "Lei Ordinária nº 32, de 21 de dezembro de 1935"
+uf: "PB"
+tipo: "Lei Ordinária"
+numero: "32"
+data: 1935-12-21
+ementa: "REGULA O DIREITO DE FÉRIAS REMUNERADAS AOS FUNCCIONÁRIOS PÚBLICOS DO ESTADO."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "DIARIO OFICIAL"
+fonte: "https://sapl.al.pb.leg.br/norma/2650"
+arquivo: "https://sapl.al.pb.leg.br/media/sapl/public/normajuridica/1935/2650/2650_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 32, de 21 de dezembro de 1935
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEI N. 32 Regula o direito de férlas remuneradas 16s funecienarios publicos do Estado. A Asscmbiéa LegIslativa do Estado decreta e eu sancciono a Jei seguinte: CAPITULO I Dos funcionarios Peito. Amamento de solo de i5 das nos de todas, sem por juizo dra respecaros ordenados. vencamentos. gens ou gratificações, nos termos do art. 114 da Constltuição do Palat. 20 - São considerados funecionarios pretepção de os, fins desde deereto, todos classe, trabelhem em qualquer servico ou repartição do Esta- quinzena, semana, dia do, percebendo remuneração por mes, ou hora, uma vez que empregue sua actividade durante o pra- zo de 12 mêses, exclusivamente a esse serviço ou repartição. •- As disposições desto decreto não se applicam cos magistrados, juizes municipaes e membros do Magisterio se acha regulado em ou e Minisario Publico, cujo direito ja Da duração, época e registro das férlas
+
+**Art. 4°** .- O direito de férias é adquirido depois de 12 méses, sem Interrupção de trabalho em serviço ou repartição - Verifica-se a interrupção, para os effeites do artigo antecedento quando o funcionario: retira-se do serviço e não fôr reaamittido dentro dos sessenta dias subsequentes á sahida; - permanecer no gozo de licença sem perda de re. maneração. por mais de 30 dias; eixar de trabalhar, sem perda de remuneração por epito de parala ão do serviço por mais de d0 dias. prova da não interrupção, quando ser attestada sultar da maureza co atencia do funecionario, por motivo de ac. pereIvo, não se considera interrupção, para os effeitos desta didante ou molestia provadamente contrabida ne serviço tes . No caso de sorteio militar, será computado, para os effeitos deste decreto, o tempo de trabalho anterior as sorteio, desde que o funcelonarlo se apresente na repartição ou serviça, dentro de noventa dias, contado este prazo da dala As férias serão semnre gozadas no decurso mulação de pericdo de férias. Art. so -- As faltas verificadas dentro do periodo de 12 micses, não cancadas por metivo de molestia e força major, po derão ser deacontadas das férias. Arl. 9.° -- Não serão descontadra das ferias os dias em liver havido trabalho por conveniencia do letra e do artigo 5.. erviço, respeitado o dispesto na As férias serão concedidas de salvo em caso excepcionaes, consignado o motivo no requeri mento e reconhecimento no acto da concessão. -- A época das férias selá a que melhor nar monize os interesses do funccionario com os do serviço, obser vado sempre o disposto no artigo 7°. Não será permitido do funcionario traba- lhar durante o periodo das férias. A..infrarção do disposto neste artigo importa a perda do direito ás férias, no pertodo immediato. A conceasão e o gomo das forfas serão regis- repartição onde servir o funcionario; variavel o seu local, na transitorio a natureza do serviço on repartição, por ordem da qual se vrificar o pagamento. CAPTTULO III De romuneração darante as ferias
+
+**Art. 14** -- A fimportancia a ser paga. relativa ao perlods das férias, corresponderá a 15 dias de trabalho, para para os mensalistas. ristas, e a meio mês, - No calculo da importancia a que se refere est artigo, será computado o crdenado, vencimento, diaria. percen sou gratificação de peregatagon, será tomada por basa aos demais funcionarios, coano se viço o funcionario feriado estivesse. - Das autoridades compe- Vas Indenizações e reclamações tentes para concessão de férias e conhecimento reclamuções Si o Estado deixar de ao funcionario que as requerer. ficará termos deste decreto, ebrigado a pagar-lhe uma impotancia correspondente ao do bro das férias não concedidas. Ao funcionario que deixar o serviço, volun tariamente ou não, será paga a indemnização a 15 dias de férias, desde que haja tra- reito. correspondente do decimo segundo
+
+**Art. 17** - Toda reclamação relativa á não concessão de
+
+férias, qualquer transgressao ou inobservancia tigo 7°, ou da data da transgressão ou observancia, sob pena de prescrição.
+
+**Art. 18** - E' licito aos inferessados, menores de 21. an- nos, Independentemente de assistencia dos paes ou apresentar es suas reclamações déste decreto ou recorrer, para esse fian, ao patrocinio da au- 1° - O director de estabelecimento, chefe de reparti- ção ou serviço, a que esteja subordinado o requerente; 2° - Qualquer des Sccretarics de Estado. ou Chefe de conforme a natureza do serviço; 30 .. O Jula de Direito ou Municipal, aos serventuar os CAPITULO V Das penalidades - Dos recursos mettida, com a muita de 50$000 a 500$000, elevada ao dobro em caso de reincidencia. — Serão competentes para conhecer dos recur- sos dos interessados, os secretarios de Estado, ordenas Só altendidos, os Interessados recorter no Poder Judiciario. 5 l.° - picam sentes de iposto de senos quaesquer re- unsos, petiçoss e docinentos relativos a execução deste de crelo, salvo o requerimento inictal do gôzo de férias. CAPITULO VI Disposições geraes e transitorias Arl. 23 - O preserle deereto entrará em vigar na data de sua publienção a parter da qual terá inteio a concessão de férias aos funcionarios que já contarem doze mêses de ser Ari. 23 - O presente decreto será Incorporado ao esta- tuto dos funcionarios publicos, quando fôr este votado.
+
+**Art. 24** - Revogam-se as disposições em contrario. Palacio da Redempção, em João Pessôa, 21 de dezembro de 1025. 47° da Proclamação da Republica, ARGEMIRO DE FIGUETREDO José Marques da Silva Mariz Dr. Walfredo Guedes Pereira
