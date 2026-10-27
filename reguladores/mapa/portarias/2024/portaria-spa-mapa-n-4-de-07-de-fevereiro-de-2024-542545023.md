@@ -1,0 +1,190 @@
+---
+titulo: "PORTARIA SPA/MAPA Nº 4, DE 07 DE FEVEREIRO DE 2024"
+orgao: "Ministério da Agricultura e Pecuária/Secretaria de Política Agrícola"
+tipo: "Portaria"
+numero: "4"
+data: 2024-02-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/02/2024, seção 1, p. 13"
+data_publicacao: 2024-02-09
+edicao: "29"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-spa/mapa-n-4-de-07-de-fevereiro-de-2024-542545023"
+sha256_html_fonte: 88ed38db6e0290247d980be3ace2361989cf9c8fa2f99141454c9d1109023af2
+baixado_em: 2026-10-16
+---
+# PORTARIA SPA/MAPA Nº 4, DE 07 DE FEVEREIRO DE 2024
+
+PORTARIA SPA/MAPA Nº 4, DE 07 DE FEVEREIRO DE 2024
+
+Aprova o Zoneamento Agrícola de Risco Climático - ZARC para a cultura da cebola, em sistema de cultivo de sequeiro, nos estados do Paraná, Rio Grande do Sul e Santa Catarina.
+
+O SECRETÁRIO DE POLÍTICA AGRÍCOLA, no uso de suas atribuições e competências estabelecidas pelo Decreto nº 11.332, de 1º de janeiro de 2023, e observado, no que couber, o contido no Decreto nº 9.841 de 18 de junho de 2019, na Portaria MAPA nº 412 de 30 de dezembro de 2020, na Instrução Normativa SPA/MAPA nº 1, de 21 de junho de 2022, publicada no Diário Oficial da União de 22 de junho de 2022, do Ministério da Agricultura, Pecuária e Abastecimento, resolve:
+
+**Art. 1º** Aprovar o Zoneamento Agrícola de Risco Climático para a cultura da cebola, em sistema de cultivo de sequeiro, nos estados do Paraná, Rio Grande do Sul e Santa Catarina conforme anexo.
+
+**Art. 2º** Esta Portaria entra em vigor em 1º de março de 2024.
+
+NERI GELLER
+
+## ANEXO
+
+1\. NOTA TÉCNICA
+
+A cebola (Allium cepa L.) é uma das hortaliças cultivadas mais importantes e de mais ampla difusão no mundo. É extremamente versátil em termos alimentares e culinários. Além da cebola de bulbos graúdos, que se constitui no tipo comercial predominante, a espécie inclui o "shallot" e a cebola multiplicadora, que produzem bulbos pequenos e agregados.
+
+O cultivo de cebola no Brasil é conhecido desde o século XVI e se expandiu após a chegada de imigrantes açorianos que colonizaram a região de Rio Grande e Pelotas, no Rio Grande do Sul, e de Itajaí, em Santa Catarina, durante o século XVIII e início do século XIX. Contudo, a exploração comercial no país se iniciou provavelmente na década de 1930 no Rio Grande do Sul e hoje a cebola é produzida em todas as regiões brasileiras.
+
+Desde o início da exploração comercial da cebola no Brasil, a Região Sul tem-se mantido como a Unidade da Federação líder na produção nacional. Esta posição de destaque se consolidou nas últimas quatro décadas. A Região Sul concentra cerca de 50% da produção brasileira e oito estados, os três da Região Sul (Rio Grande do Sul, Santa Catarina e Paraná), dois do Sudeste (São Paulo e Minas Gerais), um do Centro-Oeste (Goiás) e dois do Nordeste (Bahia e Pernambuco) concentram em torno de 95% da produção do país.
+
+Devido sua grande extensão territorial e diversidade de clima, o Brasil é capaz de proporcionar diversas safras de cebola ao longo do ano, que atendem grande parte do consumo interno. O período de março a novembro concentra a maior parte da produção nas principais regiões produtoras. Neste período, as temperaturas são mais amenas, principalmente as noturnas, e a ausência de períodos longos de chuva facilitam o manejo da cultura, principalmente o controle de doenças, e propiciam a produção de bulbos de melhor qualidade. A região Nordeste (na Bahia e Pernambuco, principalmente) é exceção, pois planta-se cebola o ano todo. Entretanto, como nas demais regiões, considera-se o período de setembro a março como mais adverso ao cultivo da cebola. A produção é destinada quase que exclusivamente ao mercado interno, basicamente para consumo in natura.
+
+Como a maior parte das espécies cultivadas, a cultura da cebola é bastante influenciada por condições meteorológicas, sendo o fotoperíodo, a temperatura (alta e/ou baixa), e chuvas (no plantio e/ou na colheita), os principais fatores de riscos para o insucesso do seu cultivo. Apesar da relativa rusticidade da cultura, a combinação de alta umidade e alta temperatura dificulta a produção da cebola no período de primavera-verão nas principais regiões produtoras. O cultivo irrigado, seja com irrigação total ou suplementar, responde por cerca de 90% de toda a produção comercial de cebola no país. Porém, ainda há agricultores, em sua maioria familiares, que cultivam a cebola em sequeiro, principalmente na Região Sul do Brasil.
+
+A cebola é fisiologicamente uma planta de dias longos para bulbificação. Em fotoperíodos muito curtos as plantas produzem folhas continuamente e não bulbificam, mesmo após períodos longos de crescimento. Entretanto, o efeito do fotoperíodo na cebola não é do mesmo tipo que ocorre na floração da maioria das espécies fotossensíveis, as quais apresentam uma fase juvenil, em que não há resposta à indução do fotoperíodo. No caso da cebola, mesmo plântulas podem ser induzidas a bulbificar com o estímulo de dias longos.
+
+Em função do número de horas de luz diário exigido para que as plantas formem bulbos comercializáveis, as cultivares de cebola disponíveis para o plantio no Brasil são classificadas em dois grupos: de dias curtos, que bulbificam em dias com pelo menos 12 horas de luz e de dias intermediários, que exigem 13 ou mais horas de luz diária.
+
+Em fotoperíodos indutivos, temperaturas acima de 35°C durante a fase inicial de crescimento das plantas podem provocar a bulbificação precoce, sendo um dos inconvenientes do plantio no verão no Brasil. Por outro lado, temperaturas baixas podem alongar o fotoperíodo crítico e prejudicar a formação de bulbos. A bulbificação cessa quando a temperatura cai abaixo de 10°C e o engrossamento do pseudocaule é favorecido quando as plantas são expostas a breves períodos de frio extremo (abaixo de 6°C) (Randon e Lancaster, 2002).
+
+De modo geral, a ocorrência de temperaturas menores do que 13°C por pelo menos 30 dias provocam o florescimento prematuro ("bolting"). As cultivares tropicais são, normalmente, mais sensíveis ao frio que as de clima temperado e as plantas de maior porte requerem menor tempo de exposição a baixas temperaturas para a iniciação floral. Logo, práticas culturais que favoreçam maior crescimento de plantas devem ser evitadas quando há possibilidade de ocorrência de temperaturas frias na fase de bulbificação.
+
+Chuvas de média a alta intensidade levam à formação de crosta na superfície do solo, reduzindo drasticamente a emergência de plântulas e, consequentemente, o estande. Chuvas intensas e prolongadas em qualquer fase do ciclo da cebola prejudicam o crescimento das plantas e a produção de bulbos. Chuvas em excesso antes do início da bulbificação aumentam o diâmetro do pseudocaule, favorecendo a entrada de água e dificultando o tombamento das folhas (comumente chamado de "estalo"), sinal fisiológico que define a maturação dos bulbos. Já o excesso de água no solo durante a fase final de crescimento de bulbos retarda a maturação e causa a ruptura das películas externas de proteção dos bulbos. Ainda, períodos prolongados de chuva durante as últimas etapas da maturação, quando o pseudocaule se torna flácido e as folhas estão começando a murchar, favorecem o apodrecimento de bulbos no campo.
+
+Ferimentos nas folhas causados pela ocorrência de chuvas de granizo, além de reduzirem a área foliar, são porta de entrada para microrganismos fitopatogênicos. Em relação a geada a cebola apresenta tolerância moderada, mas não tolera frio intenso ou muito prolongado. Em casos extremos ocorre queima de folhas, iniciando das pontas para a base. As plantas mantêm o crescimento normal quando uma geada moderada é seguida de elevação da temperatura do ar.
+
+Objetivou-se, com o Zoneamento Agrícola de Risco Climático, identificar os municípios aptos e período de semeadura, para o cultivo da cebola, em sistema de cultivo de sequeiro, com probabilidades de perdas de rendimento inferiores a 20%, 30% e 40% devido à ocorrência de eventos meteorológicos adversos. Visando reduzir perdas de produção e obter rendimentos mais elevados.
+
+O modelo para cálculo do balanço hídrico utilizado no ZARC foi o SARRA (Systeme d'Analyse Regionale des Risques Agroclimatiques). Este modelo foi usado para se obter as necessidades hídricas e o Índice de Satisfação da Necessidade de Água para a cultura (ISNA), que foi definido como a razão entre a evapotranspiração real da cultura (ETr) e evapotranspiração máxima ou potencial da cultura (Etc).
+
+Ressalta-se que se trata de um modelo agroclimático, cujo pressuposto é de não ocorrência de limitações por fertilidade de solo ou danos às plantas por ocorrência de plantas daninhas, insetos-pragas e doenças.
+
+Para delimitação das áreas aptas ao cultivo da cebola, em condições de baixo risco, foram adotados os seguintes parâmetros e variáveis:
+
+I. Precipitação Pluvial:
+
+Foram utilizadas séries de dados de chuva preferencialmente com 30 anos de dados. Somente em regiões com escassez de séries de dados de longa duração foram consideradas séries com um mínimo de 15 anos de dados diários, contabilizando um total de 3.500 séries pluviométricas;
+
+II. Evapotranspiração de referência (ETo):
+
+A ETo foi utilizada através de médias decendiais calculadas pelo método de Hargreaves e Samani, previamente adaptado e recalibrado para as condições brasileiras.
+
+III. Coeficiente de cultura (Kc):
+
+As curvas de Kc, conforme modelo conceitual FAO - 56, foram geradas para valores decendiais, por meio de um modelo bilogístico ajustado a partir de valores de Kc iniciais, máximo e final. Os valores decendiais de Kc foram gerados para cada agrupamento de cultivares. O Kc, utilizado para a determinação da Evapotranspiração Máxima da Cultura (Etc.) decendial para cada unidade da federação, são apresentados na tabela abaixo:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Decêndio</p></td>      <td rowspan="1" colspan="7"><p>Ciclo (dias)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>*80</p></td>      <td rowspan="1" colspan="1"><p>100</p></td>      <td rowspan="1" colspan="1"><p>120</p></td>      <td rowspan="1" colspan="1"><p>140</p></td>      <td rowspan="1" colspan="1"><p>160</p></td>      <td rowspan="1" colspan="1"><p>180</p></td>      <td rowspan="1" colspan="1"><p>200</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>0,55</p></td>      <td rowspan="1" colspan="1"><p>0,51</p></td>      <td rowspan="1" colspan="1"><p>0,51</p></td>      <td rowspan="1" colspan="1"><p>0,51</p></td>      <td rowspan="1" colspan="1"><p>0,51</p></td>      <td rowspan="1" colspan="1"><p>0,51</p></td>      <td rowspan="1" colspan="1"><p>0,51</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>0,62</p></td>      <td rowspan="1" colspan="1"><p>0,52</p></td>      <td rowspan="1" colspan="1"><p>0,52</p></td>      <td rowspan="1" colspan="1"><p>0,52</p></td>      <td rowspan="1" colspan="1"><p>0,51</p></td>      <td rowspan="1" colspan="1"><p>0,51</p></td>      <td rowspan="1" colspan="1"><p>0,51</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>0,75</p></td>      <td rowspan="1" colspan="1"><p>0,55</p></td>      <td rowspan="1" colspan="1"><p>0,55</p></td>      <td rowspan="1" colspan="1"><p>0,55</p></td>      <td rowspan="1" colspan="1"><p>0,54</p></td>      <td rowspan="1" colspan="1"><p>0,54</p></td>      <td rowspan="1" colspan="1"><p>0,54</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>0,88</p></td>      <td rowspan="1" colspan="1"><p>0,62</p></td>      <td rowspan="1" colspan="1"><p>0,62</p></td>      <td rowspan="1" colspan="1"><p>0,62</p></td>      <td rowspan="1" colspan="1"><p>0,59</p></td>      <td rowspan="1" colspan="1"><p>0,59</p></td>      <td rowspan="1" colspan="1"><p>0,59</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>0,95</p></td>      <td rowspan="1" colspan="1"><p>0,75</p></td>      <td rowspan="1" colspan="1"><p>0,75</p></td>      <td rowspan="1" colspan="1"><p>0,75</p></td>      <td rowspan="1" colspan="1"><p>0,69</p></td>      <td rowspan="1" colspan="1"><p>0,69</p></td>      <td rowspan="1" colspan="1"><p>0,69</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>6</p></td>      <td rowspan="1" colspan="1"><p>0,98</p></td>      <td rowspan="1" colspan="1"><p>0,88</p></td>      <td rowspan="1" colspan="1"><p>0,88</p></td>      <td rowspan="1" colspan="1"><p>0,88</p></td>      <td rowspan="1" colspan="1"><p>0,81</p></td>      <td rowspan="1" colspan="1"><p>0,81</p></td>      <td rowspan="1" colspan="1"><p>0,81</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>7</p></td>      <td rowspan="1" colspan="1"><p>0,92</p></td>      <td rowspan="1" colspan="1"><p>0,95</p></td>      <td rowspan="1" colspan="1"><p>0,95</p></td>      <td rowspan="1" colspan="1"><p>0,95</p></td>      <td rowspan="1" colspan="1"><p>0,91</p></td>      <td rowspan="1" colspan="1"><p>0,91</p></td>      <td rowspan="1" colspan="1"><p>0,91</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>8</p></td>      <td rowspan="1" colspan="1"><p>0,67</p></td>      <td rowspan="1" colspan="1"><p>0,98</p></td>      <td rowspan="1" colspan="1"><p>0,98</p></td>      <td rowspan="1" colspan="1"><p>0,98</p></td>      <td rowspan="1" colspan="1"><p>0,96</p></td>      <td rowspan="1" colspan="1"><p>0,96</p></td>      <td rowspan="1" colspan="1"><p>0,96</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>9</p></td>      <td rowspan="1" colspan="1"><p>0,45</p></td>      <td rowspan="1" colspan="1"><p>0,92</p></td>      <td rowspan="1" colspan="1"><p>1,00</p></td>      <td rowspan="1" colspan="1"><p>0,99</p></td>      <td rowspan="1" colspan="1"><p>0,99</p></td>      <td rowspan="1" colspan="1"><p>0,99</p></td>      <td rowspan="1" colspan="1"><p>0,99</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>10</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>0,67</p></td>      <td rowspan="1" colspan="1"><p>0,98</p></td>      <td rowspan="1" colspan="1"><p>1,00</p></td>      <td rowspan="1" colspan="1"><p>0,99</p></td>      <td rowspan="1" colspan="1"><p>0,99</p></td>      <td rowspan="1" colspan="1"><p>0,99</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>11</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>0,45</p></td>      <td rowspan="1" colspan="1"><p>0,88</p></td>      <td rowspan="1" colspan="1"><p>0,99</p></td>      <td rowspan="1" colspan="1"><p>1,00</p></td>      <td rowspan="1" colspan="1"><p>1,00</p></td>      <td rowspan="1" colspan="1"><p>1,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>12</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>0,65</p></td>      <td rowspan="1" colspan="1"><p>0,95</p></td>      <td rowspan="1" colspan="1"><p>0,99</p></td>      <td rowspan="1" colspan="1"><p>1,00</p></td>      <td rowspan="1" colspan="1"><p>1,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>13</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>0,83</p></td>      <td rowspan="1" colspan="1"><p>0,98</p></td>      <td rowspan="1" colspan="1"><p>1,00</p></td>      <td rowspan="1" colspan="1"><p>1,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>14</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>0,61</p></td>      <td rowspan="1" colspan="1"><p>0,92</p></td>      <td rowspan="1" colspan="1"><p>0,99</p></td>      <td rowspan="1" colspan="1"><p>1,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>15</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>0,78</p></td>      <td rowspan="1" colspan="1"><p>0,96</p></td>      <td rowspan="1" colspan="1"><p>0,99</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>16</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>0,59</p></td>      <td rowspan="1" colspan="1"><p>0,88</p></td>      <td rowspan="1" colspan="1"><p>0,98</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>17</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>0,73</p></td>      <td rowspan="1" colspan="1"><p>0,95</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>18</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>0,57</p></td>      <td rowspan="1" colspan="1"><p>0,87</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>19</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>0,73</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>20</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>0,58</p></td>     </tr>    </tbody>   </table>
+
+IV. Temperatura:
+
+Em condições frias, o risco é estimado pela análise da frequência de ocorrência de temperaturas menores que o limiar de dano com base na temperatura em abrigo meteorológico. O limiar de dano definido para cada cultura está diretamente relacionado a ocorrência de danos diretos com morte de tecidos vegetais, e indiretos, devido a ocorrência de desordens fisiológicas ou indutoras de resposta fenológica indesejada.
+
+É considerado como período sensível todas as fases em que a ocorrência deste evento adverso pode impactar negativamente a produtividade esperada. Normalmente, a cebola tem riscos térmicos para frequência de temperaturas mínimas (Tmin) menores que 11°C, em certo período crítico e por um período do ciclo da cultura, podendo induzir o florescimento precoce/prematuro. Em condições quentes, o risco é estimado pela análise da frequência de ocorrência de temperaturas maiores que o limiar de dano no abrigo meteorológico. Na cebola, a ocorrência desta temperatura pode induzir respostas fenológicas prejudiciais à produtividade quando ocorre em momentos específicos do ciclo.
+
+Foi considerado o risco de ocorrência de temperaturas muito baixas e deletérias à cultura, por meio da probabilidade de ocorrência de valores de temperaturas mínimas menores ou igual a 11°C, observadas no abrigo meteorológico, que podem levar a indução de florescimento não desejável em momentos específicos do ciclo e o risco de ocorrência de temperaturas muito altas e deletérias à cultura, por meio da probabilidade de ocorrência de valores de temperaturas máximas superiores a 34°C, observadas no abrigo meteorológico, que podem levar à bulbificação precoce em momentos específicos do ciclo;
+
+V. Ciclo:
+
+As cultivares de cebola para semeadura direta ou transplantio de mudas foram classificadas em seis grupos de cultivares conforme tabela abaixo.
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Grupo</p></td>      <td rowspan="1" colspan="1"><p>Ciclo (dias)</p></td>      <td rowspan="1" colspan="1"><p>Nº médio de dias da emergência à maturação ponto de colheita</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Grupo I</p></td>      <td rowspan="1" colspan="1"><p>100</p></td>      <td rowspan="1" colspan="1"><p>80 - 100</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Grupo II</p></td>      <td rowspan="1" colspan="1"><p>120</p></td>      <td rowspan="1" colspan="1"><p>101 - 120</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Grupo III</p></td>      <td rowspan="1" colspan="1"><p>130</p></td>      <td rowspan="1" colspan="1"><p>121 - 130</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Grupo IV</p></td>      <td rowspan="1" colspan="1"><p>140</p></td>      <td rowspan="1" colspan="1"><p>131 - 140</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Grupo V</p></td>      <td rowspan="1" colspan="1"><p>160</p></td>      <td rowspan="1" colspan="1"><p>141 - 160</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Grupo VI</p></td>      <td rowspan="1" colspan="1"><p>180</p></td>      <td rowspan="1" colspan="1"><p>&gt; 160</p></td>     </tr>    </tbody>   </table>
+
+As cultivares de cebola para plantio de bulbinho foram classificadas em um grupo de cultivar, com ciclo médio de 80 dias e número médio de dias da emergência à maturação ponto de colheita ≤ 80;
+
+VI. Capacidade de Água Disponível (CAD):
+
+A Capacidade de Armazenamento de Água Disponível (CAD) para a cultura da cebola foi estimada com base na profundidade efetiva do sistema radicular (Ze), e a Água Disponível (AD) nas diferentes classes. Foram considerados 6 classes de solos, AD1, AD2, AD3, AD4, AD5 e AD6; com capacidade de armazenamento de 12 mm, 15,9 mm, 20,7 mm, 27,3 mm, 36,3 mm e 47,7 mm, respectivamente; e uma profundidade efetiva média do sistema radicular (Ze) de 30 cm.
+
+Estas informações foram incorporadas ao modelo de balanço hídrico para a realização das simulações necessárias para identificação dos períodos favoráveis para a semeadura. Foram realizadas simulações para 36 períodos de semeadura, espaçados de 10 dias, entre os meses de janeiro a dezembro.
+
+VII. Índice de Satisfação das Necessidades de Água (ISNA):
+
+A partir das simulações foram obtidos os valores médios do ISNA para cada data de simulação de semeadura. O modelo estimou os índices de satisfação da necessidade de água (ISNA), definidos como sendo a razão existente entre evapotranspiração real (ETr) e a evapotranspiração máxima da cultura (Etc.) para cada fase de interesse da cultura e para cada estação pluviométrica.
+
+Procedeu-se a análise frequencial das séries de resultados anuais para a verificação da frequência de ocorrência de anos-safra com valores de ISNA abaixo do limite crítico para a cultura em cada fase de interesse.
+
+O evento adverso fica caracterizado quando o ISNA de uma determinada safra ficou abaixo do limite crítico. Posteriormente, os valores de ISNA correspondentes aos percentis de 20%, 30% e 40% de risco foram georreferenciados por meio da latitude e longitude e, com a utilização de um sistema de informações geográficas (SIG), foram espacializados por meio de um estimador espacial geoestatístico (krigagem ordinária) para a determinação dos mapas temáticos de risco.
+
+Foi considerado o risco de deficiência hídrica severa ao não atingir o limite mínimo do Índice de satisfação das necessidades de água (ISNA) que deve ser igual ou superior a 0,70 na fase I e na fase III.
+
+VIII. Risco de Excesso Hídrico: Foi considerado o risco de ocorrência de excesso de chuva ou excesso hídrico deletério à cultura, por meio da probabilidade de ocorrência de precipitação acumulada maiores que 130mm na fase final de maturação e na colheita;
+
+Na fase de implantação da cultura quando feita por meio de semeadura direta ou plantio de mudas foi considerado o risco de ocorrência de excesso de chuva ou excesso hídrico deletério à cultura, por meio da probabilidade de ocorrência de precipitação acumulada maiores que 150 mm na fase final de maturação e na colheita e na fase de implantação da cultura por meio de bulbinhos 210 mm.
+
+IX: Critérios Auxiliares:
+
+O cultivo da cebola em áreas onde já tenha sido identificada a ocorrência de podridão branca (Stromatinia cepivora Berk. sin. Sclerotium cepivorum) é considerado de ALTO RISCO, independente do decêndio de plantio considerado. O patógeno pode causar danos em todas as fases de crescimento da planta. A germinação dos microescleródios é favorecida por temperaturas de 10 a 20°C; fora desse intervalo fica mais lenta e é inviabilizada acima de 35°C. É uma das principais doenças em cebola e pode causar perdas totais de produção. O patógeno pode sobreviver por longos períodos de tempo no solo e não há medidas efetivas de controle da doença. Dessa forma, a ocorrência da doença em locais de cultivo pode inviabilizar a produção de cebola.
+
+Considerou-se apto para o cultivo da cebola, em sistema de cultivo de sequeiro, os municípios que apresentaram, em no mínimo 20% de sua área, com condições climáticas dentro dos critérios considerados.
+
+Notas:
+
+Os resultados do Zarc são gerados considerando um manejo agronômico adequado para o bom desenvolvimento, crescimento e produtividade da cultura, compatível com as condições de cada localidade. Falhas ou deficiências de manejo de diversos tipos, desde a fertilidade do solo até o manejo de pragas e doenças ou escolha de cultivares inadequados para o ambiente edafoclimático, podem resultar em perdas graves de produtividade ou agravar perdas geradas por eventos meteorológicos adversos. Portanto, é indispensável: utilizar tecnologia de produção adequada para a condição edafoclimática; controlar efetivamente as plantas daninhas, pragas e doenças durante o cultivo; adotar práticas de manejo e conservação de solos.
+
+As lavouras irrigadas não estão restritas aos períodos de plantio indicados nas Portarias para sequeiro, cabendo ao interessado observar as indicações: do ZARC específico para a cultura irrigada (quando houver); ou da Assistência Técnica e Extensão Rural (ATER) oficial para as condições locais de cada agroecossistema.
+
+2\. TIPOS DE SOLOS APTOS AO CULTIVO
+
+São aptos ao cultivo da cultura no estado as seis classes de água disponível AD1, AD2, AD3, AD4, AD5 e AD6, que podem ser estimadas por função de pedotransferência em função dos percentuais granulométricos de areia total, silte e argila, conforme especificado na Instrução Normativa SPA/MAPA nº 1, de 21 de junho de 2022.
+
+Limite inferior e superior para seis classes de AD a serem utilizadas nas avaliações de risco de déficit hídrico do Zoneamento Agrícola de Risco Climático.
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>Limite inferior (mm cm</strong> <sup>-1</sup> <strong>)</strong></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p><strong>Classes de AD</strong></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p><strong>Limite superior (mm cm</strong> <sup>-1</sup> <strong>)</strong></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>0,34</p></td>      <td rowspan="1" colspan="1"><p>≤ </p></td>      <td rowspan="1" colspan="1"><p>AD1</p></td>      <td rowspan="1" colspan="1"><p>&lt;</p></td>      <td rowspan="1" colspan="1"><p>0,46</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>0,46</p></td>      <td rowspan="1" colspan="1"><p>≤ </p></td>      <td rowspan="1" colspan="1"><p>AD2</p></td>      <td rowspan="1" colspan="1"><p>&lt;</p></td>      <td rowspan="1" colspan="1"><p>0,61</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>0,61</p></td>      <td rowspan="1" colspan="1"><p>≤ </p></td>      <td rowspan="1" colspan="1"><p>AD3</p></td>      <td rowspan="1" colspan="1"><p>&lt;</p></td>      <td rowspan="1" colspan="1"><p>0,80</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>0,80</p></td>      <td rowspan="1" colspan="1"><p>≤ </p></td>      <td rowspan="1" colspan="1"><p>AD4</p></td>      <td rowspan="1" colspan="1"><p>&lt;</p></td>      <td rowspan="1" colspan="1"><p>1,06</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>1,06</p></td>      <td rowspan="1" colspan="1"><p>≤ </p></td>      <td rowspan="1" colspan="1"><p>AD5</p></td>      <td rowspan="1" colspan="1"><p>&lt;</p></td>      <td rowspan="1" colspan="1"><p>1,40</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>1,40</p></td>      <td rowspan="1" colspan="1"><p>≤ </p></td>      <td rowspan="1" colspan="1"><p>AD6</p></td>      <td rowspan="1" colspan="1"><p>≤ </p></td>      <td rowspan="1" colspan="1"><p>1,84*</p></td>     </tr>    </tbody>   </table>
+
+\* amostras de solo com composição granulométrica que eventualmente resulte em estimativa de AD acima de 1,84 mm cm -1 serão representadas pela classe AD6.
+
+Não são indicadas para o cultivo:
+
+\- áreas onde já tenha sido identificada a ocorrência de podridão branca (Stromatinia cepivora Berk. sin. Sclerotium cepivorum), independente do decêndio de plantio considerado.
+
+\- áreas de preservação permanente, de acordo com a Lei 12.651, de 25 de maio de 2012;
+
+\- áreas com solos que apresentam profundidade inferior a 50 cm ou com solos muito pedregosos, isto é, solos nos quais calhaus e matacões ocupem mais de 15% da massa e/ou da superfície do terreno.
+
+\- áreas que não atendam às determinações da Legislação Ambiental vigente, do Zoneamento Ecológico Econômico (ZEE) dos estados.
+
+3\. TABELA DE PERÍODOS DE SEMEADURA
+
+O Zarc indica os períodos de plantio em períodos decendiais (dez dias). As tabelas abaixo indicam a data e o mês que corresponde cada período de plantio/semeadura decendial.
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Períodos</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>6</p></td>      <td rowspan="1" colspan="1"><p>7</p></td>      <td rowspan="1" colspan="1"><p>8</p></td>      <td rowspan="1" colspan="1"><p>9</p></td>      <td rowspan="1" colspan="1"><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p></td>      <td rowspan="1" colspan="1"><p>12</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Datas</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>31</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a 28</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>31</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>30</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Meses</p></td>      <td rowspan="1" colspan="3"><p>Janeiro</p></td>      <td rowspan="1" colspan="3"><p>Fevereiro</p></td>      <td rowspan="1" colspan="3"><p>Março</p></td>      <td rowspan="1" colspan="3"><p>Abril</p></td>     </tr>    </tbody>   </table>
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Períodos</p></td>      <td rowspan="1" colspan="1"><p>13</p></td>      <td rowspan="1" colspan="1"><p>14</p></td>      <td rowspan="1" colspan="1"><p>15</p></td>      <td rowspan="1" colspan="1"><p>16</p></td>      <td rowspan="1" colspan="1"><p>17</p></td>      <td rowspan="1" colspan="1"><p>18</p></td>      <td rowspan="1" colspan="1"><p>19</p></td>      <td rowspan="1" colspan="1"><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p></td>      <td rowspan="1" colspan="1"><p>22</p></td>      <td rowspan="1" colspan="1"><p>23</p></td>      <td rowspan="1" colspan="1"><p>24</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Datas</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>31</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>30</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>31</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>31</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Meses</p></td>      <td rowspan="1" colspan="3"><p>Maio</p></td>      <td rowspan="1" colspan="3"><p>Junho</p></td>      <td rowspan="1" colspan="3"><p>Julho</p></td>      <td rowspan="1" colspan="3"><p>Agosto</p></td>     </tr>    </tbody>   </table>
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Períodos</p></td>      <td rowspan="1" colspan="1"><p>25</p></td>      <td rowspan="1" colspan="1"><p>26</p></td>      <td rowspan="1" colspan="1"><p>27</p></td>      <td rowspan="1" colspan="1"><p>28</p></td>      <td rowspan="1" colspan="1"><p>29</p></td>      <td rowspan="1" colspan="1"><p>30</p></td>      <td rowspan="1" colspan="1"><p>31</p></td>      <td rowspan="1" colspan="1"><p>32</p></td>      <td rowspan="1" colspan="1"><p>33</p></td>      <td rowspan="1" colspan="1"><p>34</p></td>      <td rowspan="1" colspan="1"><p>35</p></td>      <td rowspan="1" colspan="1"><p>36</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Datas</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>30</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>31</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>30</p></td>      <td rowspan="1" colspan="1"><p>1º</p><p>a</p><p>10</p></td>      <td rowspan="1" colspan="1"><p>11</p><p>a</p><p>20</p></td>      <td rowspan="1" colspan="1"><p>21</p><p>a</p><p>31</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Meses</p></td>      <td rowspan="1" colspan="3"><p>Setembro</p></td>      <td rowspan="1" colspan="3"><p>Outubro</p></td>      <td rowspan="1" colspan="3"><p>Novembro</p></td>      <td rowspan="1" colspan="3"><p>Dezembro</p></td>     </tr>    </tbody>   </table>
+
+4\. CULTIVARES INDICADAS
+
+Ficam indicadas no Zoneamento Agrícola de Risco Climático, as cultivares de cebola registradas no Registro Nacional de Cultivares (RNC) do Ministério da Agricultura, Pecuária e Abastecimento, atendidas as indicações das regiões de adaptação, em conformidade com as recomendações dos respectivos obtentores/mantenedores.
+
+NOTAS:
+
+1\. Informações específicas sobre as cultivares indicadas devem ser obtidas junto aos respectivos obtentores/mantenedores.
+
+2\. Devem ser utilizadas no plantio sementes e mudas produzidas em conformidade com a legislação brasileira sobre sementes e mudas (Lei nº 10.711, de 5 de agosto de 2003, e Decreto nº 10.586, de 18 de dezembro de 2020).
+
+5\. RELAÇÃO DOS MUNICÍPIOS APTOS AO CULTIVO E PERÍODOS INDICADOS PARA SEMEADURA
+
+NOTA: Para culturas anuais, o ZARC faz avaliações de risco para períodos decendiais (10 dias) de semeadura e assume que a emergência ocorra, majoritariamente, em até 10 dias após a semeadura. Para os casos excepcionais em que a emergência ocorrer com 11 ou mais dias de atraso em relação a semeadura, deve-se considerar como referência o risco do decêndio em que ocorreu a emergência.
+
+A relação dos municípios aptos ao cultivo e os períodos indicados para implantação da cultura está disponível no Painel de Indicação de Riscos do Ministério da Agricultura e Pecuária, no sítio: https://mapa-indicadores.agricultura.gov.br/publico/extensions/Zarc/Zarc.html
+
+Para consultar o Zarc Cebola, deve-se acessar o "Zarc Oficial" e selecionar os campos obrigatórios para obter o resultado da pesquisa, conforme indicado abaixo:
+
+1\. Safra: "OLERÍCOLA";
+
+2: Cultura: Selecionar as opções:
+
+a) "Cebola" para implantação da cultura com semeadura direta ou transplantio de mudas;
+
+b) "Cebola Plantio com Bulbinho" implantação da cultura com plantio de bulbinhos;
+
+3\. Cultivo: "Sequeiro":
+
+4: Clima: "Não se aplica";
+
+5\. Grupo: Selecione o grupo em que a cultivar esteja agrupada;
+
+6\. Solo: Selecione a classe de AD desejada;
+
+7\. UF: Selecione uma das Unidades da Federação: "PR", "RS" e "SC";

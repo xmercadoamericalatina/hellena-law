@@ -1,0 +1,25 @@
+---
+titulo: "PORTARIA SFA-SE/MAPA Nº 77, DE 21 DE SETEMBRO DE 2026"
+orgao: "Ministério da Agricultura e Pecuária/Secretaria Executiva/Subsecretaria de Governança das Superintendências/Superintendência de Agricultura e Pecuária do Estado de Sergipe"
+tipo: "Portaria"
+numero: "77"
+data: 2026-09-21
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 22/09/2026, seção 1, p. 14"
+data_publicacao: 2026-09-22
+edicao: "179"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-sfa-se/mapa-n-77-de-21-de-setembro-de-2026-733212776"
+baixado_em: 2026-10-15
+---
+# PORTARIA SFA-SE/MAPA Nº 77, DE 21 DE SETEMBRO DE 2026
+
+PORTARIA SFA-SE/MAPA Nº 77, DE 21 DE SETEMBRO DE 2026
+
+O SUPERINTENDENTE DE AGRICULTURA E PECUÁRIA DO ESTADO DE SERGIPE, no uso das atribuições que lhe confere o art. 262 do Regimento Interno da Secretaria Executiva do Ministério da Agricultura e Pecuária, aprovado da Portaria nº 561, de 11 de abril de 2018, os arts. 41 e 50 do Anexo I ao Decreto nº 11.332, de 1º de janeiro de 2023, e com base na Instrução Normativa nº 22, de 20 de junho de 2013, e o que consta do Processo nº 21054.003369/2021-51, resolve:
+
+**Art. 1º** Habilitar o médico veterinário, ÉDER WESLEY DIAS SANTOS inscrito no CRMV-SE sob o nº 00531-VP para emitir Guia de Trânsito Animal - GTA para trânsito intraestadual e interestadual de ruminantes em eventos com aglomerações animais nos municípios autorizados pelo Serviço de Fiscalização de Insumos Pecuários e Saúde Animal da Divisão de Defesa Agropecuária da Superintendência Federal de Agricultura do Estado de Sergipe, observando as normas e dispositivos legais em vigor.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+ANTÔNIO DE OLIVEIRA REIS

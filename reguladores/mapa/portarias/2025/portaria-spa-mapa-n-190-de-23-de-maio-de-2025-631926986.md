@@ -1,0 +1,257 @@
+---
+titulo: "PORTARIA SPA/MAPA Nº 190, DE 23 DE MAIO DE 2025"
+orgao: "Ministério da Agricultura e Pecuária/Secretaria de Política Agrícola"
+tipo: "Portaria"
+numero: "190"
+data: 2025-05-23
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 27/05/2025, seção 1, p. 44"
+data_publicacao: 2025-05-27
+edicao: "98"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-spa/mapa-n-190-de-23-de-maio-de-2025-631926986"
+baixado_em: 2026-10-16
+---
+# PORTARIA SPA/MAPA Nº 190, DE 23 DE MAIO DE 2025
+
+PORTARIA SPA/MAPA Nº 190, DE 23 DE MAIO DE 2025
+
+Aprova o Zoneamento Agrícola de Risco Climático - ZARC para a cultura do milho 1ª safra no estado de Rondônia, ano-safra 2025/2026.
+
+O SECRETÁRIO DE POLÍTICA AGRÍCOLA, no uso de suas atribuições e competências estabelecidas pelo Decreto nº 11.332, de 1º de janeiro de 2023, e observado, no que couber, o contido no Decreto nº 9.841 de 18 de junho de 2019, na Portaria MAPA nº 412 de 30 de dezembro de 2020, na Instrução Normativa nº 16, de 9 de abril de 2018, e na Instrução Normativa SPA/MAPA nº 2, de 9 de novembro de 2021, do Ministério da Agricultura e Pecuária, resolve:
+
+**Art. 1º** Fica aprovado o Zoneamento Agrícola de Risco Climático para a cultura do milho 1ª safra no estado de Rondônia, ano-safra 2025/2026, conforme anexo.
+
+**Art. 2º** Esta Portaria tem vigência específica para o ano-safra definido no art. 1º e entra em vigor na data da sua publicação no DOU.
+
+GUILHERME CAMPOS JÚNIOR
+
+## ANEXO
+
+1\. NOTA TÉCNICA
+
+Vários fatores contribuem para a produtividade do milho (Zea mays L.), sendo os mais importantes a disponibilidade de água, a interceptação de radiação solar pelo dossel, a eficiência metabólica e de translocação de fotossintatos para os grãos.
+
+Em cultivos não irrigados, a disponibilidade de água para a lavoura varia segundo a distribuição da precipitação na região, a época de plantio e a quantidade de água disponível no solo.
+
+A quantidade de água disponível também varia para cada tipo de solo. Os solos mais arenosos, poucos profundos ou com baixo teor de matéria orgânica, geralmente apresentam menor capacidade de fornecimento de água para as plantas.
+
+A fase mais crítica para a cultura, em relação ao déficit hídrico, é a de enchimento de grãos.
+
+Para a obtenção de boas produtividades a cultura do milho necessita de precipitação entre 500 a 800 mm de água, bem distribuídos durante o ciclo fenológico; temperatura média diária superior a 15ºC, livres de geadas, temperatura média noturna acima de 12,8ºC e abaixo de 25ºC; temperatura no período próximo e durante o florescimento, entre 15ºC a 30ºC e ausência de déficit hídrico.
+
+Objetivou-se, com o Zoneamento Agrícola de Risco Climático, identificar os municípios aptos e os períodos de plantio com menor risco climático para o cultivo do milho no estado.
+
+As melhores datas para o plantio do milho foram determinadas utilizando-se um modelo de balanço hídrico das culturas, para períodos de dez dias. Ressalta-se que por se tratar de um modelo agroclimático, parte-se do pressuposto de que não ocorrerão limitações quanto à fertilidade dos solos e danos às plantas devido à ocorrência de pragas e doenças. O balanço hídrico foi estimado com o uso das seguintes variáveis climáticas e agronômicas:
+
+a) precipitação pluvial e temperatura - utilizaram-se séries preferencialmente com 30 anos de dados. Somente em regiões com escassez de séries de dados de longa duração foram consideradas séries com um mínimo de 15 anos de dados diários, chegando a um total de 3.500 séries pluviométricas aproveitáveis.
+
+b) evapotranspiração potencial - estimadas médias decendiais pelo método de Hargreaves e Samani adaptado e recalibrado para a estimativa da evapotranspiração de referência diária com uma calibração geral para todo o Brasil;
+
+c) ciclo e fase fenológica da cultura - para a cultura do milho foram analisados os comportamentos das cultivares dos Grupos I, II e III. Para efeito de simulação do balanço hídrico da cultura, o ciclo da cultivar foi dividido em 4 fases, quais sejam: Fase I - Germinação/Emergência; Fase II - Crescimento/Desenvolvimento; Fase III - Florescimento/Enchimento de Grãos e Fase IV - Maturação. A duração média dos ciclos e de suas respectivas fases fenológicas está apresentada em tabela abaixo:
+
+| Grupos | Ciclo médio (dias) | Variação de ciclo considerada (dias) | Fase I | Fase II | Fase III | Fase IV |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Grupo I** | 100 | &lt; 110 | 15 | 35 | 30 | 20 |
+| **Grupo II** | 120 | 110 a 130 | 15 | 45 | 40 | 20 |
+| **Grupo III** | 140 | > 130 | 15 | 55 | 50 | 20 |
+
+Obs: A colheita de grãos deve ser realizada tão logo o grão atinja o ponto de colheita com umidade adequada para essa operação.
+
+d) coeficiente de cultura - foram utilizados valores médios para períodos decendiais determinados em experimentação no campo para cada região de adaptação; e
+
+e) reserva útil de água no solo - foi estimada em função da profundidade efetiva das raízes do milho, sendo considerado um valor médio representativo em torno de 0,45m, e da de Água Disponível (AD) dos solos em três categorias. Foram considerados os solos Tipo 1 (textura arenosa), Tipo 2 (textura média) e Tipo 3 (textura argilosa), resultando em capacidade de armazenamento de água total de até 30 mm, 47 mm e 72 mm, respectivamente.
+
+As simulações do balanço hídrico foram realizadas para períodos decendiais. O modelo estimou os índices de satisfação da necessidade de água (ISNA), definido como sendo a relação existente entre evapotranspiração real (ETr) e a evapotranspiração máxima (ETm) para cada fase fenológica da cultura e para cada estação pluviométrica. A estes foram aplicadas funções frequências para obtenção das frequências de 80%, 70% e 60% de ocorrência dos índices.
+
+Assim, no estudo foi analisado o atendimento à demanda e oferta hídrica por meio do ISNA observado nas fases de germinação de estabelecimento do sistema (Fase I) e de florescimento e enchimento de grão da cultura do milho (Fase III), obedecendo aos critérios apresentados na tabela abaixo:
+
+| **Sistema** | **Safra** | **Fases Críticas - ISNA** |  |
+| --- | --- | --- | --- |
+|  |  | **Fase 1** | **Fase 3** |
+| Milho solteiro | 1ª safra (Principal) | 0,6 | 0,55 |
+
+Adicionalmente foram avaliados riscos associados às condições térmicas e excesso hídrico, quais sejam:
+
+a) temperatura mínima média decendial acima de 10ºC durante as fases de emergência e estabelecimento, crescimento vegetativo, florescimento e desenvolvimento de grãos;
+
+b) risco de ocorrência de geadas por meio da probabilidade de ocorrência de valores de temperaturas mínimas menores ou iguais a 2°C observadas no abrigo meteorológico e
+
+c) risco de excesso de chuva na colheita, baseado na frequência de ocorrência de 6 ou mais dias de chuva
+
+no decêndio final do ciclo.
+
+Considerou-se apto para o cultivo do milho - 1ª safra, o município que apresentou, no mínimo, 20% de sua área com condições climáticas dentro dos critérios considerados.
+
+Notas:
+
+1\. Os resultados do ZARC do milho foram gerados considerando-se um manejo agronômico adequado para o bom desenvolvimento, crescimento e produtividade das culturas, compatível com as condições de cada localidade. Falhas ou deficiências de manejo de diversos tipos, desde a fertilidade do solo até o manejo de pragas e doenças ou escolha inadequada de cultivares para o ambiente edafoclimático, podem resultar em perdas substanciais de produtividade ou agravar perdas geradas por eventos meteorológicos adversos. Portanto, é indispensável: utilizar tecnologia de produção adequada para a condição edafoclimática; controlar efetivamente as plantas daninhas, pragas e doenças durante o cultivo; e adotar práticas de manejo e conservação de solos;
+
+2\. A gestão de riscos de natureza climática no cultivo milho pode ser melhorada pela assistência técnica local, via a diluição de riscos, quando são associadas, ao calendário de semeadura preconizado nas Portarias de ZARC, práticas de manejo de cultivos que contemplem a rotação de culturas, o escalonamento de épocas de semeadura e a diversificação de cultivares (com ciclos diferentes) em uma mesma propriedade rural.
+
+3\. Como o ZARC do milho está direcionado ao cultivo de sequeiro, as lavouras irrigadas não estão restritas aos períodos de semeadura indicados nas Portarias de ZARC, cabendo ao interessado observar as indicações: da Assistência Técnica e Extensão Rural (ATER) oficial sobre práticas de manejo da cultura para as condições locais de cada agroecossistema.
+
+2\. TIPOS DE SOLOS APTOS AO CULTIVO
+
+São aptos ao cultivo no estado os solos dos tipos 1, 2 e 3, observadas as especificações e recomendações contidas na Instrução Normativa nº 2, de 9 de novembro de 2021.
+
+Não são indicadas para o cultivo:
+
+\- áreas de preservação permanente, de acordo com a Lei 12.651, de 25 de maio de 2012;
+
+\- áreas com solos que apresentam profundidade inferior a 50 cm ou com solos muito pedregosos, isto é, solos nos quais calhaus e matacões ocupem mais de 15% da massa e/ou da superfície do terreno.
+
+\- áreas que não atendam às determinações da Legislação Ambiental vigente, do Zoneamento Ecológico Econômico (ZEE) dos estados.
+
+3\. TABELA DE PERÍODOS DE SEMEADURA E EMERGÊNCIA ESPERADA
+
+O Zarc indica os períodos de plantio em períodos decendiais (dez dias). Nas culturas anuais, o intervalo entre a semeadura e a emergência das plântulas têm relevância para o estabelecimento da cultura no campo e, portanto, para a correta estimativa da duração do ciclo assim como para o cálculo do risco climático para o ciclo de cultivo como um todo. O risco do ciclo de cultivo estimado para cada decêndio de semeadura considera um intervalo médio entre 5 e 10 dias para ocorrência da emergência. A tabela abaixo indica a data e o mês que corresponde cada período de plantio/semeadura decendial.
+
+| Períodos | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Datas | 1º a 10 | 11 a 20 | 21 a 31 | 1º a 10 | 11 a 20 | 21 a 28 | 1º a 10 | 11 a 20 | 21 a 31 | 1º a 10 | 11 a 20 | 21 a 30 |
+| Meses | Janeiro | Fevereiro | Março | Abril |  |  |  |  |  |  |  |  |
+
+| Períodos | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Datas | 1º a 10 | 11 a 20 | 21 a 31 | 1º a 10 | 11 a 20 | 21 a 30 | 1º a 10 | 11 a 20 | 21 a 31 | 1º a 10 | 11 a 20 | 21 a 31 |
+| Meses | Maio | Junho | Julho | Agosto |  |  |  |  |  |  |  |  |
+
+| Períodos | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Datas | 1º a 10 | 11 a 20 | 21 a 30 | 1º a 10 | 11 a 20 | 21 a 31 | 1º a 10 | 11 a 20 | 21 a 30 | 1º a 10 | 11 a 20 | 21 a 31 |
+| Meses | Setembro | Outubro | Novembro | Dezembro |  |  |  |  |  |  |  |  |
+
+4\. CULTIVARES INDICADAS
+
+Quando as temperaturas médias diárias durante o período de crescimento são superiores a 20ºC, as variedades precoces levam de 95 a 110 dias para completarem o seu ciclo fenológico, enquanto as variedades intermediárias e tardias precisam de cerca de 110 a 160 dias para atingirem a maturação completa.
+
+Para efeito de indicação dos períodos de plantio, as cultivares indicadas pelos obtentores/mantenedores para o estado, foram agrupadas conforme a seguir especificado.
+
+GRUPO I
+
+AGROMEN SEMENTES AGRICOLAS LTDA: 2M88PRO3, 2M77PRO3, 2M66PRO3, 2M60PRO3, 2M03PRO3, 2M01PRO3, AGN 2M11PRO3, AGN 2M33PRO3, AGN 2M11RR2, AGN 2M33RR2;
+
+CARAIBA GENETICA: CG 1001, CG 1016, CG 1024;
+
+CORTEVA AGRISCIENCE DO BRASIL LTDA - BARUERI (ALPHAVILLE): BG7037YHR, BG7046, BG7046H, BG7049YH, BG7061YHR, BG7542H, BG7720VYHR, P1680YH, P2830VYH, P2866H, P3340VYH, P3431, P3431VYH, P3456H, P3456VYH, P3630H, P3844H, P4285YH, BG7061H, BG7432H, BG7037H, BG7439, BG7439H, P2830, P2830H, 30F53YH, 30S31YH, P3779H, 30F53, 30F53VYH, 30F53VYHR, B2702VYHR, B2730VYH, B2828, B2856VYHR, 30F35R, 30F35VYHR, P2970VYHR, P3282VYH, P3310VYHR, P3707VYH, P3898, P4285R, P4285VYHR, 32R22YHR, B2800VYHR, B2829R, B2864PWU, BG7318YH, P3808VYHR, P3845VYHR, P3889R, B2801VYHR, P3380R, P3551PWU, 2B433PW, 2B810PW, 2B346PW, CD3410PW, CD384RR, CD3880PW, CD3312PW, CD3612RR, 2A510PW, 2A401RR, B2401PWU, B2433PWU, B2612PWU, B2688PWU, B2810PWU, P3565PWU, P3397PWU, P3858PWU, B2620PWU, B2782PWU, B2360PWU, P3223VYH, P3440PWU, P3557R, P3601PWU, B2701PWU, B2741PWU, P3322PWU, P3394PWU, B2801PWU, P3707PWU, DP138200362, LA147627669, P3898WX, 30F53E;
+
+CRIAGENE SK PESQUISA E DESENVOLVIMENTO: CR101, CR106, CR120, CR804, CR102, CR107, CR109, CR113, CR130, CRWX01, CRWX02, CRWX03, CRWX04, CRWX05, CRWX06;
+
+DI SOLO SEMENTES MELHORADAS LTDA: IPANEMA;
+
+EMBRAPA MILHO E SORGO: BRS Gorutuba;
+
+GENEZE SEMENTES S/A: GNZ7280, GNZ 2005;
+
+HELIX SEMENTES E MUDAS LTDA : BM3066PRO2, BM 3063PRO2, BM904, BM812, BM812PRO2, BM815, BM815PRO2, BM855PRO2, SHS7990, SHS7990PRO2, SHS7930PRO2, SHS7939, BM270, ExtendaxRR2, BM3051, BM 207, BM 820, SHS 4080, SHS 5050, Rumimax200PRO2, BM3069, BM3069PRO2, SHS5560PRO2, SHS7939PRO2, SHS7939PRO3, SHS7990PRO3, SHS7930PRO3, SHS7970PRO2, BM270PRO2, BM815PRO3, BM930PRO2, HL1504, HL412PRO3, BM270PRO3, BM3069PRO3, BM930PRO3, BM270RR, BM850PRO3, SHS7940PRO3, SHS7970PRO3, HL1508RR, SHS5570, HL1701PRO3, BM3069BTMAX, SHS7930BTMAX, SHS7940BTMAX, SHS7990BTMAX, SHS7970BTMAX, SHS8525PRO3, HL1831BTMAX, HL1804BTMAX, BM812BTMAX, BM3063BTMAX, BM930BTMAX, HL1801BTMAX, HL1700RR, SHS7939BTMAX, BM815BTMAX, HL1911BTMAX, BM270BTMAX, SHS5570BTMAX;
+
+INOVA GENÉTICA LTDA: VA 25RY PRO2, VA26APRO2, VA27BPRO2, VA01C, VA02C, VA03C, VA04C, VA103PRO2, VA204PRO3, VA201PRO3, VA205PRO3, VA101PRO2;
+
+KWS SEMENTES LTDA: CRV2654PRO2, K7500VIP3, K7510VIP3, K7770VIP3, K9105 VIP3, K9510, K9555 VIP3, K9606 VIP3, K9660PRO2, K9668VIP3, K9960 VIP3, ONÇA, K7600TG, K7600, K7575VIP3, SHU2262PRO2, SHULL2202PRO2;
+
+LAND GENÉTICA E SEMENTES LTDA: L229, L229 PLUS2, L356, L444 PRO2, L5014 PRO2, LAND 468, L5030 VIP3;
+
+LEONARDO MENDONCA TAVARES: 2M88, 4M50, 2M60, 2M77;
+
+LIMAGRAIN BRASIL S.A: LG36300PRO2, LG36701PRO2, LG6310, LG36300VIP3, LG36700, LG36700VIP3, LG36500VIP3, GNZ7788VIP3, LG36780VIP3, GNZ7750VIP3, GNZ7720VIP3, GNZ7720, GNZ7710VIP2, LG36720VIP3, LG36665VIP3, GNZ7763VIP3, GNZ7757VIP3, LG36795VIP3;
+
+LONGPING HIGH-TECH BIOTECNOLOGIA LTDA: 30A37PW, MG699RR, FS450PW, FS500PW, FS620PWU, 30A37PWU, FS505PWU, FS715PWU, FS587PWU, FS610PWU, MG580PWU, FS500PWU, FS512PWU, FS533PWU, FS533RR, FS633PWU, 20A55PWU, 30A91PWU, MG300PWU, MG545PWU, MG652PWU, MG515PWU, MG744PWU, FS055C, MG053C, MG063C, 30A95PWU, FS403PW, FS403PWU, FS564PW, FS564PWU, FS575PW, FS575PWU, FS700PWU, MG408PWU, MG447PWU, MG593PWU, MG607PWU, MG618PWU, FS400PW, FS450PWU, FS670PWU, 20A78PWU, FS500VIP3, FS512VIP3, FS533VIP3, FS633VIP3, 30A37VIP3, MG408VIP3, MG447VIP3, MG580VIP3, MG593VIP3, MG652VIP3, MG744VIP3, FS560PWU, FS615PWU, MG635PWU, MG556PWU, MG540PWU, MG556VIP3, MG540VIP3, MG377PWU, FS552PWU, FS395PWU, T1508PWU, MG616PWU, FS470PWU, T1503PWU, T1680PWU, FS588PWU, CB21W409PWU, T1625PWU, FS521PWU, FS587VIP3, MG597PWU, MG300VIP3, FS566PWU, FS650PWU, CB21SA732VIP3, FS695PWU, CB23WJ1923VIP3, 2B533PW, 2B587RR, 2B610PW, 2B633PW, FS481PW, FS530PW, FS530PWU, 20A78PW, CB22WJ1143VIP3, 30A37RR, MG600PW, MG600VIP3;
+
+MHATRIZ PESQUISA AGRÍCOLA: PR 1150, PR 27D28, M 274;
+
+MONSANTO DO BRASIL LTDA: NS 90PRO2, AS1551PRO2, AG 9040YG, RB 9108PRO, RB 9308PRO, BM 840PRO, GNZ 9626PRO, LG 6036PRO, AS1555PRO2, SHS 7920PRO, NS 50PRO, NS 90PRO, RB 9005PRO, RB 9006PRO, LG 6030PRO, ADV 9434PRO, ADV 9275PRO, GNZ 9688PRO, RB 9004PRO, RB9110PRO, GNZ9501PRO, RB 9004RR2, BM 840PROX, RB 9005PROX, BM 840RR2, RB 9005PRO2, GNZ 9626PRO3, AS1666PRO3, 2300RR2, LG 6036RR2, NS 50PRO3, DKB230PRO3, AG8061PRO3, 3400RR2, AG8690PRO3, AS 1581PRO, DKB 390PRO2, AG8780PRO3, AG 8061PRO2, 2200RR2, 3020RR2, AG 8088PRO2, DKB290PRO3, AS1633PRO3, DKB 310PRO2, DKB310PRO3, DKB315PRO, DKB330PRO3, DKB285PRO2, AG 5055PRO, 4600RR2, AG8070PRO3, RB 9006, AG7088PRO3, AG9025PRO3, AS1555PRO3, AG 7088, DKB390PRO3, LG 6030PRO2, DKB177PRO3, AG9030PRO3, LG 6030RR2, AG7098PRO2, AG9000PRO3, AS1677PRO3, DKB290PRO, BM 780PRO3, SHS7915PRO3, BM950PRO3, LG 6304PRO, RB 9005PRO3, AS1596PRO3, RB 9005RR2, RB 9108PRO2, RB 9108PRO3, RB 9108PROX, RB 9108RR2, RB 9110RR2, ADV9345PRO3, ADV 9275PRO3, SHS 7920RR2, BM 840PRO2, LG 6030PRO3, NS 90PRO3, RB 9004PRO2, RB 9006PRO2, RB 9006RR2, RB 9006PRO3, RB 9110PRO2, SHS 7915PRO, SHS 7920PRO2, DKB363PRO3, AG8700PRO3, GNZ 9707PRO3, AG8740PRO3, AS1730PRO3, LG 3055PRO, NS93PRO3, DKB290, DKB345PRO3, RGT 8008PRO3, AS1844PRO3 , AS1850PRO3, AS1820PRO3, LG 3055PRO3, DKB360PRO3, LG 3055, LG36610PRO3, AS1780PRO3 , LG3055RR2, AS1868PRO3, GNZ 9505PRO, GNZ 9505PRO2, GNZ 9626PRO2, LG 6036PRO2, LG6036PRO3, AG8700PRO4, BM880PRO3, DKB390PRO4, JMEN 2M91PRO3, AG7088PRO4, AG8070PRO4, DKB230PRO4, ADV9275PRO4, AG8480PRO4, AG8690TRE, AG8780PRO4, AG8780TRE, AG9000PRO4, AS1633TRE, AS1666PRO4, AS1730PRO4, AS1757PRO4, BM 780PRO4, DKB255PRO4, LG 36625PRO3, LG 6036TRE, RB 9006TRE, DKB177TRE, DKB290TRE, AG8480PRO3 , AS1822PRO3, DKB255PRO3 , DKB335PRO3 , GNZ 9505PRO3, K 8774PRO3, LG36770PRO3, LG36790PRO3, 3500RR2, ADV9345RR2, AGN 2M40PRO4, DKB310PRO4, JMEN2M91RR2, LG36790RR2, BM 650 PRO2, BM 650 RR2, BM780PRO, SHS 7910RR2, SHS 7910PRO2, RB 9210PRO3, RB 9210PRO2, BM 780PRO2, BM780RR2, BM 915PRO, RB 9210PRO, GNZ 9505RR2, GNZ 9626RR2, GNZ 9690PRO, GNZ 9690PRO2, GNZ 9690RR2, LG 6033PRO, LG 6033PRO2, LG 6033RR2, LG 6038PRO, LG 6038PRO2, LG 6038PRO3, LG 6038RR2, LG6050PRO2, LG 6050PRO3, LG 6050RR2, NS 50PRO2, NS 50RR2, NS 56PRO, NS 56PRO3, NS 56RR2, NS92PRO, NS 92PRO2, NS 92RR2, RB 9110PRO3, SHS7910PRO3, 3800RR2, AG7098TRE, AG8065PRO3, AS1850PRO4, DKB380PRO3, AG8701PRO3, DKB335PRO4, AG8701PRO4, AS1820PRO4, AS1868PRO4, 3640RR2, BM880PRO4, 3510RR2, 3710RR2, AG8065PRO4, AG9021PRO3, AG9035PRO4, AGN2M76PRO3, AGN2M91PRO4, AS1596TRE, AS1822PRO4, CG4000PRO4, CRV2874PRO4, DKB356PRO4, DKB380PRO4, DM2860PRO4, HL8810PRO4, XB6444PRO4, VA22DMPRO4, K8575PRO4, SHU6211TRE, LG36750PRO4, LG36755PRO4, AS1900PRO4, AS1844PRO4, AG9070PRO4, AS1955PRO4, LG36770PRO4, AG8606PRO4, AS1988PRO4, DKB358PRO4, SHU6525PRO4;
+
+NM SEMENTES: NTX3365T128, NTX3268T128;
+
+NOVACERES SEMENTES: CERES 412TG;
+
+PRIMAIZ SEMENTES LTDA: PZ2270 VTPRO3, PZ2260 VTPRO3;
+
+PRODUTORA E COMERCIAL AGRICOLA ARAPONGAS LTDA: BALU 163, Balu787;
+
+RONALDO TORRES VIANNA: RVM 21, RVM 21 G, RVM 21 PRO3, ZSB 2322 G, ZSB 2312 PRO3, ZSB 3322 VIP3;
+
+SEMENTES SELEGRÃOS: CS 2270, CS 2270 Max2, CS 3663, CS 3663 Max2;
+
+SEMILHA AGRONEGOCIOS: S8042;
+
+SEMPRE AGTECH LTDA: SX3197TP2, SX3345 TP1, SX3197TR, SX1086TR, SX3193TPV, SX3112TPV, SX3104TPV, SX3186TPV, SX3042TPV, SX1076 TP2, SX3161TPV, SX3116TPV, PRE 22S18 TP2, SX6503TP2, SX3039TPV, SX3569VGU, SX3558VGU, SX3774VGU, SX3646VGU, SX3676VGU, SX3770VGU, SX3606VGU;
+
+SHULL SEEDS: GSH 4120, SHU1119, SHU1202, SHU2380 PRO2, SHU2590 PRO2, SHU3303 PRO3, SHU3319 PRO3, SHU4480 PRO3, SHU5411 PRO3;
+
+SYNGENTA SEEDS LTDA: NS77PRO2, BALU 761, Balu 184, Garra Viptera, Somma Viptera, SYN7205 TLTG Viptera, SYN8A98 TLTG Viptera, SYN7G17 TLTG Viptera, 3040VIP3, Syn522 VIP3, SX6663 VIP3, Formula VIP2, SS191S TG, SW8044 VIP3, SG 6418, Syn488 VIP3, Syn455 VIP3, SX7341 VIP3, NS73 VIP3, Syn555 VIP3, SX7331 TG, SS181E VIP3, SW8054 VIP3, SS182E VIP3, SW8074 VIP3, SX7991 TLTG Viptera, SX8332 TLTG Viptera, SX8555 VIP3, SS184E VIP3, SS194E VIP3, SS192E VIP3, SS204E VIP3, SS203E VIP2, SS201E VIP3, SS207E VIP3, SS202S VIP2, SS214E VIP3, Syn422 VIP3, SS221E TG, SS225S VIP3, SS211S VIP3, SS226E VIP3, SS227E VIP3, SS229E VIP3, SW8004 VIP3, SX7331 VIP2, NS45 VIP3, SS193E VIP3, SYN505 VIP3, SS2110E VIP2, SS2112E VIP3, SS2113E VIP3, SS2120E VIP3, SS212E VIP2, SS215S VIP3, SS219E VIP3, SS222E, GNZ7740 VIP3, LG36799 VIP3, SS171E VIP3, SS213E VIP3, SS2122E, SS183E VIP3, SS224E VIP3, SS2226E VIP3, SS223E VIP3, SS228E VIP3, SS2211S VIP3, SS2210E VIP3, SZ7634 VIP3, SS2223S VIP3, SS236E VIP3, SS237E VIP3, SS238S TG, SS2219E VIP3, SS2331S VIP3, SS235E VIP3, SS2121E VIP3, SS2118E VIP3, SS2222E VIP3, SS2218E VIP3, SS2217E VIP3, SS2215E VIP3, SS2315E VIP3, SS2322E VIP3, SS2318E VIP3, SS2317E VIP3, SS2320E VIP3, SS2336E VIP3, HL22091VIP3, HL22066VIP3, SS2312E VIP3, SS2324E VIP3, SS252E VIP3, SS253E VIP3, SS254E VIP3.
+
+GRUPO II
+
+ADISA GENÉTICA E MELHORAMENTO: AD Pérola, AD103bg, AD105bg, AD182bg, AD189bg, AD305bg, AD341bg, DC103g, DC510g, AD Cristal, 10W30, AD109bg;
+
+AVANTI SEEDS: AV 3132;
+
+CORTEVA AGRISCIENCE DO BRASIL LTDA - BARUERI (ALPHAVILLE): DP138200398;
+
+DI SOLO SEMENTES MELHORADAS LTDA: AL Bandeirante, DSS 1001;
+
+EMBRAPA MILHO E SORGO: BR 106, BR 451, BR 473, BRS 4103, BRS 4154, BRS Sol da Manhã, BRS Caimbé, BRS 4104, BRS 1060, BRS 3040, BRS 3042, BRS 4105, BRS 4107, BRS 2107, BRS 3042 VTPRO2;
+
+FRANCISLEI VITTI RAPOSO: DG 20F301 I;
+
+HELIX SEMENTES E MUDAS LTDA: BM 709PRO2, BM 709, BM709PRO3, BM709BTMAX;
+
+HYBRI SEEDS: HBR599 Up;
+
+IDR - PARANÁ: IPR 164, IPR 114;
+
+LONGPING HIGH-TECH BIOTECNOLOGIA LTDA: FS710PWU, MG711PWU;
+
+MONSANTO DO BRASIL LTDA: ADV 9275RR2, ADV 9434RR2, ADV 9434PRO2, AG8600PRO4;
+
+NOVACERES SEMENTES: CERES 412, CERES 405;
+
+PRIMAIZ SEMENTES LTDA: PZ2041 VTPRO3;
+
+RONALDO TORRES VIANNA: RVM 20, RVM 30, RVM 40, RVM 20 G, RVM 30 G, RVM 40 G, RVM 20 PRO3, RVM 30 PRO3, RVM 20 VIP3, ZSB 2222, ZSB 2232 VIP3, ZSB 2242 VIP3, ZSB 3222, ZSB 3232 G, ZSB 3212 PRO3, ZSB 3242 VIP3, ZSB 1212;
+
+SECRETARIA DE AGRICULTURA E ABASTECIMENTO - CATI/DSMM: AL Bandeirante, Al Bianco, AL Paraguaçu, AL Piratininga, CATIVERDE 02;
+
+SEMENTES SELEGRÃOS: ROBUSTO;
+
+TROPIGENE COMECIAL AGRICOLA LTDA ME: AGRI340, AGRI330, AGRI320.
+
+GRUPO III
+
+JOSE FERNANDO MARTINS BORGES: RG 01, RG 03;
+
+PRIMAIZ SEMENTES LTDA: PZ2041 VTPRO2, PZ2260 VTPRO2, PZ3161 VTPRO2, PZ2400 VTPRO2;
+
+SEMENTES BONAMIGO LTDA: BNSBANDEIRANTES.
+
+Notas:
+
+1\. Informações específicas sobre as cultivares indicadas devem ser obtidas junto aos respectivos obtentores/mantenedores.
+
+2\. Devem ser utilizadas no plantio sementes produzidas em conformidade com a legislação brasileira sobre sementes e mudas (Lei nº 10.711, de 5 de agosto de 2003, e Decreto nº 10.586, de 18 de dezembro de 2020).
+
+5\. RELAÇÃO DOS MUNICÍPIOS APTOS AO CULTIVO, PERÍODOS INDICADOS PARA SEMEADURA E PERÍODOS ACEITOS DE EMERGÊNCIA
+
+NOTA: Para culturas anuais, o ZARC faz avaliações de risco para períodos decendiais (10 dias) de semeadura e assume que a emergência ocorra, majoritariamente, em até 10 dias após a semeadura. Para os casos excepcionais em que a emergência ocorrer com 11 ou mais dias de atraso em relação a semeadura, deve-se considerar como referência o risco do decêndio imediatamente anterior ao da emergência identificada.
+
+As áreas de cultivo de cada município deverão obedecer ao ZONEAMENTO SÓCIO - ECONÔMICO - ECOLÓGICO DO ESTADO DE RONDÔNIA - ZSEE, aprovado pela Comissão do Zoneamento Ecológico-Econômico do Território Nacional e pelo Conselho Nacional do Meio Ambiente, que definiu a zona 1, Áreas de Usos Consolidados como prioritárias para a agropecuária, Lei Complementar Estadual nº 312/2005 e Decreto nº 5875 de 15 de agosto de 2006.
+
+A relação dos municípios aptos ao cultivo e os períodos indicados para implantação da cultura estão disponibilizados no Painel de Indicação de Riscos no site do Ministério da Agricultura e Pecuária, conforme o Art. 6º da Portaria MAPA nº 412, de 30 de dezembro de 2020.
+
+Para consultar o Zarc Milho, deve-se acessar o "Zarc Oficial" e selecionar os campos obrigatórios para obter o resultado da pesquisa, conforme indicado abaixo:
+
+1\. Safra: "2025/2026";
+
+2\. Cultura: "Milho 1ª Safra";
+
+3\. Outros Manejos: "Sequeiro";
+
+4\. Clima: "Não se aplica";
+
+5\. Grupo: Selecionar o grupo desejado;
+
+6\. Solo: Selecionar o tipo de solo desejado;
+
+7\. UF: "RO".

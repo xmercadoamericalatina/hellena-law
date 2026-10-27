@@ -1,0 +1,25 @@
+---
+titulo: "PORTARIA SFA-PR/MAPA Nº 1.245, DE 3 DE SETEMBRO DE 2026"
+orgao: "Ministério da Agricultura e Pecuária/Secretaria Executiva/Subsecretaria de Governança das Superintendências/Superintendência de Agricultura e Pecuária do Estado do Paraná"
+tipo: "Portaria"
+numero: "1245"
+data: 2026-09-03
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 10/09/2026, seção 1, p. 5"
+data_publicacao: 2026-09-10
+edicao: "171"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-sfa-pr/mapa-n-1.245-de-3-de-setembro-de-2026-731060629"
+baixado_em: 2026-10-15
+---
+# PORTARIA SFA-PR/MAPA Nº 1.245, DE 3 DE SETEMBRO DE 2026
+
+PORTARIA SFA-PR/MAPA Nº 1.245, DE 3 DE SETEMBRO DE 2026
+
+O SUPERINTENDENTE DE AGRICULTURA E PECUÁRIA NO PARANÁ, no uso das atribuições que lhe confere o art. 262 do Regimento Interno da Secretaria Executiva do Ministério da Agricultura e Pecuária, aprovado pela Portaria nº 561, de 11 de abril de 2018, nos arts. 40 e 49 do Anexo I ao Decreto nº 12.642, de 1º de outubro de 2025, tendo em disposto no artigo 6° da Instrução Normativa nº 10, de 3 de março de 2017, e no art. 1º e art. 2º da Instrução Normativa SDA nº 30, de 7 de junho de 2006, e o que consta do processo nº 21034.034175/2026-41, resolve:
+
+**Art. 1º** Habilitar o médico veterinário JULIANO DA RODA, inscrito no CRMV-PR sob o número 22833, para fins de execução de atividades previstas no Regulamento Técnico do Programa Nacional de Controle e Erradicação de Brucelose e Tuberculose Animal, referentes à realização de testes de diagnóstico de brucelose e tuberculose e participação no processo de certificação de estabelecimentos de criação livres para brucelose e tuberculose bovina e bubalina, no estado do Paraná.
+
+**Art. 2º** Esta Portaria entra em vigor na data da sua publicação.
+
+ALMIR ANTONIO GNOATTO

@@ -1,0 +1,29 @@
+---
+titulo: "Portaria SISA-AL/MAPA nº 26, de 14 de março de 2025"
+orgao: "Ministério da Agricultura e Pecuária/Secretaria Executiva/Superintendência de Agricultura e Pecuária do Estado de Alagoas"
+tipo: "Portaria"
+numero: "26"
+data: 2025-03-14
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 18/03/2025, seção 1, p. 4"
+data_publicacao: 2025-03-18
+edicao: "52"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-sisa-al/mapa-n-26-de-14-de-marco-de-2025-618250464"
+baixado_em: 2026-10-15
+---
+# Portaria SISA-AL/MAPA nº 26, de 14 de março de 2025
+
+Portaria SISA-AL/MAPA nº 26, de 14 de março de 2025
+
+O Superintendente de Agricultura e Pecuária no Estado de Alagoas nomeado pela Portaria SE nº 1.415, publicada no Diário Oficial da União, de 13 de junho de 2016, no uso de suas atribuições que lhe confere o inciso VII, artigo 292, do Regimento Interno da Secretaria Executiva, aprovado pela Portaria Ministerial nº 561, de 11 de abril de 2018, publicado na seção 1 do Diário Oficial da União, de 13 de abril de 2018,
+
+CONSIDERANDO os Artigos 4º e 5º da Instrução Normativa nº 6, de 16 de janeiro de 2018;
+
+CONSIDERANDO o constante dos autos do processo nº 21006.000234/2025-33; resolve:
+
+**Art. 1º** Habilitar o médico veterinário JOÃO VICTOR SOUZA GOMES LOPES CRMV-AL nº 01877 VP, para colher material para exame de MORMO.
+
+**Art. 2º.** Esta Portaria entra em vigor na data de sua publicação.
+
+JORGE MARQUES DA SILVA
