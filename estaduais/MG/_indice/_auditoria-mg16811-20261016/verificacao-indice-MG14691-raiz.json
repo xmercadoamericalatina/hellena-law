@@ -1,0 +1,15 @@
+{
+  "estado": "todos_blobs_indice_conferidos_antes_provas_de_whitespace_WORKLOG_final",
+  "arquivos": 58932,
+  "canonicos": 14691,
+  "SHA256_indice_iguais_a_payload_fisico": true,
+  "payload_congelado": "estaduais/MG/_indice/_auditoria-mg16811-20261016/lista-publicacao-14691.jsonl",
+  "payload_sha256": "1006e96d6149c92a106f21402149dbb1cc05967e12dfa742d4cf062e7ce8b834",
+  "formato": {
+    "arquivos": 14691,
+    "erros": 0,
+    "avisos": 0
+  },
+  "reprodutor": "estaduais/MG/_indice/_auditoria-mg16811-20261016/stage-publicacao-raiz.py",
+  "observacao": "Somente provas novas de verificacao e WORKLOG final serao somados apos esta verificacao. Canonicos e fontes nao mudam."
+}

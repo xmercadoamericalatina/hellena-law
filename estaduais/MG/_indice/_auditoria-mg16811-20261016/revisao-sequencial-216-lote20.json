@@ -1,0 +1,862 @@
+[
+  {
+    "path": "estaduais/MG/decretos/2006/dec-44386-2006.md",
+    "md_sha256": "3614a26a7bfe67ebecb0d4fdf8e0a2ce0cc32b33af2dbc9686e3efa6f3bbefff",
+    "fonte_sha256": "7598d0354a748a34af53c4e87d8bfce9d4b17da3eb4ef4de4246bb48cdaa8830",
+    "cache": "estaduais/MG/_fonte/decretos/2006/dec-44386-2006.html.gz",
+    "decisao": "marcadores_resolvidos_sem_lacuna_nova",
+    "fundamento": "Art. 1º altera linhas específicas da Parte 2 do Anexo XV: 27 marcadores correspondem às demais linhas/células anteriores. Novas linhas 15.7,18.54,19.37,22.36,23.13,24.26 e grupo 28 trazem NBM, descrição e MVA; grupo 28 contém três subitens completos. Art. 2º, fecho e assinaturas presentes.",
+    "cobertura_leitura": "corpo integral",
+    "eventos_resolvidos": [
+      {
+        "evento_indice": 1,
+        "inicio": 1103,
+        "fim": 1106,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "he confere o inciso VII do art. 90 da Constituição do Estado, e tendo em vista o disposto no art. 22, § 8º, 1, da Lei nº 6.763, de 26 de dezembro de 1975,\n\nDECRETA:\n\n**Art. 1º** - A Parte 2 do Anexo XV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n\"\n\n(...) (...) (...) (...) 15.7 9018.90.99 3926.90.90 Contraceptivos (dispositivos intra-uterinos - DIU) 35,00 (...) (...) (...) (...) 18.54 7324 7310.21.90 Pias, banheiras, lavatórios, cubas, mictórios, tanques, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...)",
+        "contexto_sha256": "c45e8f35313c674530addee94a3bc0efddd800573122a5d7edb1c28227cdd2c9"
+      },
+      {
+        "evento_indice": 2,
+        "inicio": 1109,
+        "fim": 1112,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "fere o inciso VII do art. 90 da Constituição do Estado, e tendo em vista o disposto no art. 22, § 8º, 1, da Lei nº 6.763, de 26 de dezembro de 1975,\n\nDECRETA:\n\n**Art. 1º** - A Parte 2 do Anexo XV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n\"\n\n(...) (...) (...) (...) 15.7 9018.90.99 3926.90.90 Contraceptivos (dispositivos intra-uterinos - DIU) 35,00 (...) (...) (...) (...) 18.54 7324 7310.21.90 Pias, banheiras, lavatórios, cubas, mictórios, tanques, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...)",
+        "contexto_sha256": "205f3840690c9952f2bbafe7737c8a414736b7e57eecc32207117a9c479414c2"
+      },
+      {
+        "evento_indice": 3,
+        "inicio": 1115,
+        "fim": 1118,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " inciso VII do art. 90 da Constituição do Estado, e tendo em vista o disposto no art. 22, § 8º, 1, da Lei nº 6.763, de 26 de dezembro de 1975,\n\nDECRETA:\n\n**Art. 1º** - A Parte 2 do Anexo XV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n\"\n\n(...) (...) (...) (...) 15.7 9018.90.99 3926.90.90 Contraceptivos (dispositivos intra-uterinos - DIU) 35,00 (...) (...) (...) (...) 18.54 7324 7310.21.90 Pias, banheiras, lavatórios, cubas, mictórios, tanques, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37",
+        "contexto_sha256": "33cf3a459140381c7fcc4f9e01c516ca82ecea5f63c71917d6700ed2fbc34bee"
+      },
+      {
+        "evento_indice": 4,
+        "inicio": 1205,
+        "fim": 1208,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "§ 8º, 1, da Lei nº 6.763, de 26 de dezembro de 1975,\n\nDECRETA:\n\n**Art. 1º** - A Parte 2 do Anexo XV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n\"\n\n(...) (...) (...) (...) 15.7 9018.90.99 3926.90.90 Contraceptivos (dispositivos intra-uterinos - DIU) 35,00 (...) (...) (...) (...) 18.54 7324 7310.21.90 Pias, banheiras, lavatórios, cubas, mictórios, tanques, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 ",
+        "contexto_sha256": "a6e16240c279ebbdfde9cdecb34a4e32d3ce28bf8817dc04192dfcb1db5cfc79"
+      },
+      {
+        "evento_indice": 5,
+        "inicio": 1211,
+        "fim": 1214,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "1, da Lei nº 6.763, de 26 de dezembro de 1975,\n\nDECRETA:\n\n**Art. 1º** - A Parte 2 do Anexo XV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n\"\n\n(...) (...) (...) (...) 15.7 9018.90.99 3926.90.90 Contraceptivos (dispositivos intra-uterinos - DIU) 35,00 (...) (...) (...) (...) 18.54 7324 7310.21.90 Pias, banheiras, lavatórios, cubas, mictórios, tanques, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.1",
+        "contexto_sha256": "7fb672b04852a86615592db356a3ce0e34df499e0f6e99c8c8d13df4628af0c8"
+      },
+      {
+        "evento_indice": 6,
+        "inicio": 1217,
+        "fim": 1220,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "Lei nº 6.763, de 26 de dezembro de 1975,\n\nDECRETA:\n\n**Art. 1º** - A Parte 2 do Anexo XV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n\"\n\n(...) (...) (...) (...) 15.7 9018.90.99 3926.90.90 Contraceptivos (dispositivos intra-uterinos - DIU) 35,00 (...) (...) (...) (...) 18.54 7324 7310.21.90 Pias, banheiras, lavatórios, cubas, mictórios, tanques, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9",
+        "contexto_sha256": "05b018a2acb22fe6681ac1814221231190401275da8bbd1afb45cc514e5d6a6d"
+      },
+      {
+        "evento_indice": 7,
+        "inicio": 1223,
+        "fim": 1226,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " 6.763, de 26 de dezembro de 1975,\n\nDECRETA:\n\n**Art. 1º** - A Parte 2 do Anexo XV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n\"\n\n(...) (...) (...) (...) 15.7 9018.90.99 3926.90.90 Contraceptivos (dispositivos intra-uterinos - DIU) 35,00 (...) (...) (...) (...) 18.54 7324 7310.21.90 Pias, banheiras, lavatórios, cubas, mictórios, tanques, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90",
+        "contexto_sha256": "2e23aecaaf7070a0151e2a1555e40b7775a8c4a332f7cd7022242c1bd2cdf6a5"
+      },
+      {
+        "evento_indice": 8,
+        "inicio": 1440,
+        "fim": 1443,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": ":\n\n\"\n\n(...) (...) (...) (...) 15.7 9018.90.99 3926.90.90 Contraceptivos (dispositivos intra-uterinos - DIU) 35,00 (...) (...) (...) (...) 18.54 7324 7310.21.90 Pias, banheiras, lavatórios, cubas, mictórios, tanques, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros,",
+        "contexto_sha256": "57a47fa1c53340752bf77904f47adb1eec2cdab8b8c88dac31e7561e197969fc"
+      },
+      {
+        "evento_indice": 9,
+        "inicio": 1446,
+        "fim": 1449,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "(...) (...) (...) (...) 15.7 9018.90.99 3926.90.90 Contraceptivos (dispositivos intra-uterinos - DIU) 35,00 (...) (...) (...) (...) 18.54 7324 7310.21.90 Pias, banheiras, lavatórios, cubas, mictórios, tanques, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclu",
+        "contexto_sha256": "ab78889c95c227d0fb9a9bb2b6c8f8cc131c113d4cc0e0b068e1e0916f4a6cd7"
+      },
+      {
+        "evento_indice": 10,
+        "inicio": 1452,
+        "fim": 1455,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "(...) (...) (...) 15.7 9018.90.99 3926.90.90 Contraceptivos (dispositivos intra-uterinos - DIU) 35,00 (...) (...) (...) (...) 18.54 7324 7310.21.90 Pias, banheiras, lavatórios, cubas, mictórios, tanques, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o",
+        "contexto_sha256": "100e1d71e29992259a55822cef505e0c77f7b4850ee252f9fa7f7479a6469f7a"
+      },
+      {
+        "evento_indice": 11,
+        "inicio": 1458,
+        "fim": 1461,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "(...) (...) 15.7 9018.90.99 3926.90.90 Contraceptivos (dispositivos intra-uterinos - DIU) 35,00 (...) (...) (...) (...) 18.54 7324 7310.21.90 Pias, banheiras, lavatórios, cubas, mictórios, tanques, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digit",
+        "contexto_sha256": "635e7b0402e46b0a2d25c4a438c9bf3638ce7390033b9ce134553b5354d3f76e"
+      },
+      {
+        "evento_indice": 12,
+        "inicio": 1529,
+        "fim": 1532,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ra-uterinos - DIU) 35,00 (...) (...) (...) (...) 18.54 7324 7310.21.90 Pias, banheiras, lavatórios, cubas, mictórios, tanques, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digital 34,87 (...) (...) (...) (...) 28. ÓLEOS E AZEITES Âmbito de Aplicaçã",
+        "contexto_sha256": "d58f15fb8bb00c232954a0642a7ff5cac7e6d47528210248c98ab560fcef8bbd"
+      },
+      {
+        "evento_indice": 13,
+        "inicio": 1535,
+        "fim": 1538,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "rinos - DIU) 35,00 (...) (...) (...) (...) 18.54 7324 7310.21.90 Pias, banheiras, lavatórios, cubas, mictórios, tanques, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digital 34,87 (...) (...) (...) (...) 28. ÓLEOS E AZEITES Âmbito de Aplicação da S",
+        "contexto_sha256": "e5812755360e1f9369ba1ea00ec4dafc71a65c80d7dc16708f8b4fa0c7ab59d3"
+      },
+      {
+        "evento_indice": 14,
+        "inicio": 1541,
+        "fim": 1544,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "- DIU) 35,00 (...) (...) (...) (...) 18.54 7324 7310.21.90 Pias, banheiras, lavatórios, cubas, mictórios, tanques, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digital 34,87 (...) (...) (...) (...) 28. ÓLEOS E AZEITES Âmbito de Aplicação da Substit",
+        "contexto_sha256": "bebc3c7e9e2c407319a5d8d4e93e37abd8b15cd040d6c0409d9278ee72c43223"
+      },
+      {
+        "evento_indice": 15,
+        "inicio": 1547,
+        "fim": 1550,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " 35,00 (...) (...) (...) (...) 18.54 7324 7310.21.90 Pias, banheiras, lavatórios, cubas, mictórios, tanques, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digital 34,87 (...) (...) (...) (...) 28. ÓLEOS E AZEITES Âmbito de Aplicação da Substituição ",
+        "contexto_sha256": "fa07d82f8f0b03bca3442d8a705e1568059f1a526dd619d694d62af68919a1e1"
+      },
+      {
+        "evento_indice": 16,
+        "inicio": 1645,
+        "fim": 1648,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": ", tanques, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digital 34,87 (...) (...) (...) (...) 28. ÓLEOS E AZEITES Âmbito de Aplicação da Substituição Tributária Interno Subitem Código NBM/SH Descrição MVA(%) 28.1 1507.90.11 Óleo de soja refinado, e",
+        "contexto_sha256": "8bc337beccd0c28c84867a1b3d6915d48070ef2fbf028ead6a4b197f73bb4c1f"
+      },
+      {
+        "evento_indice": 17,
+        "inicio": 1651,
+        "fim": 1654,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ues, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digital 34,87 (...) (...) (...) (...) 28. ÓLEOS E AZEITES Âmbito de Aplicação da Substituição Tributária Interno Subitem Código NBM/SH Descrição MVA(%) 28.1 1507.90.11 Óleo de soja refinado, em reci",
+        "contexto_sha256": "19fce0bfe27940c4817c2f14ba4a599f7024ea7f40d54355faab7babe3b8e5cc"
+      },
+      {
+        "evento_indice": 18,
+        "inicio": 1657,
+        "fim": 1660,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "abide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digital 34,87 (...) (...) (...) (...) 28. ÓLEOS E AZEITES Âmbito de Aplicação da Substituição Tributária Interno Subitem Código NBM/SH Descrição MVA(%) 28.1 1507.90.11 Óleo de soja refinado, em recipiente",
+        "contexto_sha256": "0c80bebb4658d427ba283d90bdb9f0cf244c09eab5c369be36cda0ed8c7a36e5"
+      },
+      {
+        "evento_indice": 19,
+        "inicio": 1663,
+        "fim": 1666,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digital 34,87 (...) (...) (...) (...) 28. ÓLEOS E AZEITES Âmbito de Aplicação da Substituição Tributária Interno Subitem Código NBM/SH Descrição MVA(%) 28.1 1507.90.11 Óleo de soja refinado, em recipientes com ",
+        "contexto_sha256": "6a4b81fc9035e57bc56c81df362223faf43bbc193a587e565259eb1acb6e53f2"
+      },
+      {
+        "evento_indice": 20,
+        "inicio": 1730,
+        "fim": 1733,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digital 34,87 (...) (...) (...) (...) 28. ÓLEOS E AZEITES Âmbito de Aplicação da Substituição Tributária Interno Subitem Código NBM/SH Descrição MVA(%) 28.1 1507.90.11 Óleo de soja refinado, em recipientes com capacidade inferior ou igual a 5 litros 12,21 28.2 1509 1510.00.00 ",
+        "contexto_sha256": "d15ee1104300caf3bcb688b2bf673abf2460664ac54aaa6c8bb3459b7027e699"
+      },
+      {
+        "evento_indice": 21,
+        "inicio": 1736,
+        "fim": 1739,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digital 34,87 (...) (...) (...) (...) 28. ÓLEOS E AZEITES Âmbito de Aplicação da Substituição Tributária Interno Subitem Código NBM/SH Descrição MVA(%) 28.1 1507.90.11 Óleo de soja refinado, em recipientes com capacidade inferior ou igual a 5 litros 12,21 28.2 1509 1510.00.00 Azeite",
+        "contexto_sha256": "31cc80f5c49f159378261f409a8a21e36199b91f10e8a73a9e7a7c9df82f09c9"
+      },
+      {
+        "evento_indice": 22,
+        "inicio": 1742,
+        "fim": 1745,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "essórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digital 34,87 (...) (...) (...) (...) 28. ÓLEOS E AZEITES Âmbito de Aplicação da Substituição Tributária Interno Subitem Código NBM/SH Descrição MVA(%) 28.1 1507.90.11 Óleo de soja refinado, em recipientes com capacidade inferior ou igual a 5 litros 12,21 28.2 1509 1510.00.00 Azeite de ol",
+        "contexto_sha256": "6ba00d4190a6f9d8ad2879e26dca8d4fb15f7083eb1e8716dc45cf1c18587a9e"
+      },
+      {
+        "evento_indice": 23,
+        "inicio": 1748,
+        "fim": 1751,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "os, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digital 34,87 (...) (...) (...) (...) 28. ÓLEOS E AZEITES Âmbito de Aplicação da Substituição Tributária Interno Subitem Código NBM/SH Descrição MVA(%) 28.1 1507.90.11 Óleo de soja refinado, em recipientes com capacidade inferior ou igual a 5 litros 12,21 28.2 1509 1510.00.00 Azeite de oliva; o",
+        "contexto_sha256": "28dc9c0f0c362641a97b8bb6b5e86420f48bcd21e4c3a2eaf7cb76c70c316058"
+      },
+      {
+        "evento_indice": 24,
+        "inicio": 1821,
+        "fim": 1824,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digital 34,87 (...) (...) (...) (...) 28. ÓLEOS E AZEITES Âmbito de Aplicação da Substituição Tributária Interno Subitem Código NBM/SH Descrição MVA(%) 28.1 1507.90.11 Óleo de soja refinado, em recipientes com capacidade inferior ou igual a 5 litros 12,21 28.2 1509 1510.00.00 Azeite de oliva; outros óleos obtidos exclusivamente a partir de azeitonas 39,94 28.3 1508.",
+        "contexto_sha256": "55b6ed53ec5206b23358c997b5323960852402f372a8d295084170446a135731"
+      },
+      {
+        "evento_indice": 25,
+        "inicio": 1827,
+        "fim": 1830,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "pel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digital 34,87 (...) (...) (...) (...) 28. ÓLEOS E AZEITES Âmbito de Aplicação da Substituição Tributária Interno Subitem Código NBM/SH Descrição MVA(%) 28.1 1507.90.11 Óleo de soja refinado, em recipientes com capacidade inferior ou igual a 5 litros 12,21 28.2 1509 1510.00.00 Azeite de oliva; outros óleos obtidos exclusivamente a partir de azeitonas 39,94 28.3 1508.90.00 ",
+        "contexto_sha256": "a60d18799406c986ba6f2a99b3c621e1dd250565315169edca881e0ca7787a8b"
+      },
+      {
+        "evento_indice": 26,
+        "inicio": 1833,
+        "fim": 1836,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "rtado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digital 34,87 (...) (...) (...) (...) 28. ÓLEOS E AZEITES Âmbito de Aplicação da Substituição Tributária Interno Subitem Código NBM/SH Descrição MVA(%) 28.1 1507.90.11 Óleo de soja refinado, em recipientes com capacidade inferior ou igual a 5 litros 12,21 28.2 1509 1510.00.00 Azeite de oliva; outros óleos obtidos exclusivamente a partir de azeitonas 39,94 28.3 1508.90.00 1512.1",
+        "contexto_sha256": "5f77afc4ff2f1729cc8c5ed1072171236d2d08f910d66362041c5aa5693bb9a1"
+      },
+      {
+        "evento_indice": 27,
+        "inicio": 1839,
+        "fim": 1842,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digital 34,87 (...) (...) (...) (...) 28. ÓLEOS E AZEITES Âmbito de Aplicação da Substituição Tributária Interno Subitem Código NBM/SH Descrição MVA(%) 28.1 1507.90.11 Óleo de soja refinado, em recipientes com capacidade inferior ou igual a 5 litros 12,21 28.2 1509 1510.00.00 Azeite de oliva; outros óleos obtidos exclusivamente a partir de azeitonas 39,94 28.3 1508.90.00 1512.19.11 1",
+        "contexto_sha256": "9389a3a7612e3e4c44f3bc3eea560e22619b7ab689ee25574f517d5476a3ed4e"
+      }
+    ],
+    "body_sha256": "a551cd02eec0d9c2ac05cf82001563d088fc821cdc18849a3470064b1c15c65c",
+    "trecho_inicial": "---\ntitulo: \"Decreto nº 44386, de 14/09/2006\"\nuf: \"MG\"\ntipo: \"Decreto\"\nnumero: \"44386\"\ndata: 2006-09-14\nementa: \"ALTERA O REGULAMENTO DO ICMS, APROVADO PELO DECRETO Nº 43.080, DE 13 DE DEZEMBRO DE 2002.\"\nsituacao: \"Revogada\"\nrevogada: true\nversao_texto: \"atualizada\"\nfonte: \"https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/44386/2006/documento?tipoDoc=572\"\nbaixado_em: 2026-10-16\n---\n# Decreto nº 44386, de 14/09/2006\n\nAltera o Regulamento do ICMS, aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002.\n\n(O Decreto nº 44.386, de 14/9/2006, foi revogado pelo item 129 do Anexo do Decreto nº 48.590, de 22/3/2023.)\n\n(Vide art. 1º do Decreto nº 48.590, de 22/3/2023.)\n\nO GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso de atribuição que lhe confere o inciso VII do art. 90 da Constituição do Estado, e tendo em vista o disposto no art. 22, § 8º, 1, da Lei nº 6.763, de 26 de dezembro de 1975,\n\nDECRETA:\n\n**Art. 1º** - A Parte 2 do Anexo XV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n\"\n\n(...) (...) (...) (...) 15.7 9018.90.99 3926.90.90 Contraceptivos (dispositivos intra-uterinos - DIU) 35,00 (...) (...) (...) (...) 18.54 7324 7310.21.90 Pias, banheiras, lavatórios, cubas, mictórios, tanques, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digital 34,87 (...) (...) (...) (...) 28. ÓLEOS E AZEITES Âmbito de Aplicação da Substituição Tributária Interno Subitem Código NBM/SH Descrição MVA(%) 28.1 1507.90.11 Óleo de soja refinado, em recipientes com capacidade inferior ou igual a 5 litros 12,21 28.2 1509 1510.00.00 Azeite de oliva; outros óleos obtidos exclusivamente a partir de azeitonas 39,94 28.3 1508.90.00 1512.19.11 1512.29.10 1512.29.90 1515.29.10 1515.90.90 1517.90.10 Óleos comestíveis, em recipientes com capacidade inferior ou igual a 5 litros 26,6\n\n(nr)\".\n\n**Art. 2º** - Este Decreto entra em vigor no 1º dia do segundo mês subseqüente ao de sua publicação.\n\nPalácio da Liberdade, em Belo Horizonte, 14 de setembro de 2",
+    "trecho_final": "xto: \"atualizada\"\nfonte: \"https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/44386/2006/documento?tipoDoc=572\"\nbaixado_em: 2026-10-16\n---\n# Decreto nº 44386, de 14/09/2006\n\nAltera o Regulamento do ICMS, aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002.\n\n(O Decreto nº 44.386, de 14/9/2006, foi revogado pelo item 129 do Anexo do Decreto nº 48.590, de 22/3/2023.)\n\n(Vide art. 1º do Decreto nº 48.590, de 22/3/2023.)\n\nO GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso de atribuição que lhe confere o inciso VII do art. 90 da Constituição do Estado, e tendo em vista o disposto no art. 22, § 8º, 1, da Lei nº 6.763, de 26 de dezembro de 1975,\n\nDECRETA:\n\n**Art. 1º** - A Parte 2 do Anexo XV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n\"\n\n(...) (...) (...) (...) 15.7 9018.90.99 3926.90.90 Contraceptivos (dispositivos intra-uterinos - DIU) 35,00 (...) (...) (...) (...) 18.54 7324 7310.21.90 Pias, banheiras, lavatórios, cubas, mictórios, tanques, cabide para banheiro, porta-papel, porta-toalha, prateleiras, saboneteiras e outros acessórios, de ferro fundido, ferro ou aço 35,00 (...) (...) (...) (...) 19.37 4.802 Papel cortado tipos A4, ofício I e II, e carta 23,08 (...) (...) (...) (...) 22.36 9025.11.90 9025.90.10 Termômetros, exceto os clínicos, suas partes e acessórios 44,98 (...) (...) (...) (...) 23.13 2828.90.11 Água sanitária, alvejante, acidulante 40,88 (...) (...) (...) (...) 24.26 9025.11.10 9025.19.90 Termômetros, inclusive o digital 34,87 (...) (...) (...) (...) 28. ÓLEOS E AZEITES Âmbito de Aplicação da Substituição Tributária Interno Subitem Código NBM/SH Descrição MVA(%) 28.1 1507.90.11 Óleo de soja refinado, em recipientes com capacidade inferior ou igual a 5 litros 12,21 28.2 1509 1510.00.00 Azeite de oliva; outros óleos obtidos exclusivamente a partir de azeitonas 39,94 28.3 1508.90.00 1512.19.11 1512.29.10 1512.29.90 1515.29.10 1515.90.90 1517.90.10 Óleos comestíveis, em recipientes com capacidade inferior ou igual a 5 litros 26,6\n\n(nr)\".\n\n**Art. 2º** - Este Decreto entra em vigor no 1º dia do segundo mês subseqüente ao de sua publicação.\n\nPalácio da Liberdade, em Belo Horizonte, 14 de setembro de 2006; 218º da Inconfidência Mineira e 185º da Independência do Brasil.\n\nAÉCIO NEVES\n\nFernando Antonio Fagundes Reis\n\nRenata Maria Paes de Vilhena\n\nFuad Noman\n\n==================================================\n\nData da última atualização: 24/3/2023.\n",
+    "aplicado": false
+  },
+  {
+    "path": "estaduais/MG/decretos/2006/dec-44389-2006.md",
+    "md_sha256": "f8a4d34a31adec413b42b8f58c6349eee9a769d4b8088f895a7fe83c36d9d183",
+    "fonte_sha256": "10e6c07a973a24636ae0d1d0c413c9eda677b85897f8c45e897bc505c8678a88",
+    "cache": "estaduais/MG/_fonte/decretos/2006/dec-44389-2006.html.gz",
+    "decisao": "marcadores_resolvidos_sem_lacuna_nova",
+    "fundamento": "Dois marcadores no art. 85 preservam texto não modificado; nova alínea i completa. Art. 2º traz capítulo LVI, arts. 430–435, condições, apuração e deveres. Espaços de data na indicação a imprimir em nota/CRLV são explicitamente preenchíveis segundo a data da aquisição, não data própria ausente. Art. 3º e fecho presentes.",
+    "cobertura_leitura": "corpo integral",
+    "eventos_resolvidos": [
+      {
+        "evento_indice": 1,
+        "inicio": 1134,
+        "fim": 1189,
+        "literal_sha256": "1c5abadef0e2ea467f081bf269ec2f0c2116c7dd47bffa07613e53a5e2e30035",
+        "contexto": "onstituição do Estado, e tendo em vista o disposto na Lei nº 6.763, de 26 de dezembro de 1975, e no Convênio ICMS nº 64/06,\n\nDECRETA:\n\n**Art. 1º** - O Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com a seguinte alteração:\n\n\"Art. 85 - .................................................\n\nIV - .......................................................\n\ni) saída de veículo autopropulsado antes de 12 (doze) meses da data da aquisição junto à montadora, realizada por pessoa jurídica que explore a atividade de locação de veículos, observado o disposto no Capítulo LVI da Parte 1 do Anexo IX deste Regulamento;\n\n......................................................\" (nr)\n\n**Art. 2º** - A Parte 1 do A",
+        "contexto_sha256": "87d0132841dcbb5c1d5fd47281355fa717dc96f9121f448294625674b3fa8131"
+      },
+      {
+        "evento_indice": 2,
+        "inicio": 1449,
+        "fim": 1503,
+        "literal_sha256": "6eeb7d3eec55e471cdd55ace12dd4240767a01bfd6128ba04c7624e78b0c4bf5",
+        "contexto": "............................\n\nIV - .......................................................\n\ni) saída de veículo autopropulsado antes de 12 (doze) meses da data da aquisição junto à montadora, realizada por pessoa jurídica que explore a atividade de locação de veículos, observado o disposto no Capítulo LVI da Parte 1 do Anexo IX deste Regulamento;\n\n......................................................\" (nr)\n\n**Art. 2º** - A Parte 1 do Anexo IX do RICMS passa a vigorar com as seguintes alterações:\n\n\"CAPÍTULO LVI\n\nDAS OPERAÇÕES DE VENDA DE VEÍCULO AUTOPROPULSADO REALIZADAS POR PESSOA JURÍDICA QUE EXERÇA A ATIVIDADE DE LOCAÇÃO DE VEÍCULOS\n\n**Art. 430** - Na operação de venda de veículo autopropulsado antes de 12 (doze) meses da data da aquisição j",
+        "contexto_sha256": "36120320563a4b0da8360e456956bad8a41d5b2d5da04f4f74c1dd0d6ae27bf6"
+      }
+    ],
+    "body_sha256": "257641a51e3fbd9ac2bfb459bb7929d71429fbfcfee6a12efaf4d257cacd272f",
+    "trecho_inicial": "---\ntitulo: \"Decreto nº 44389, de 25/09/2006\"\nuf: \"MG\"\ntipo: \"Decreto\"\nnumero: \"44389\"\ndata: 2006-09-25\nementa: \"ALTERA O REGULAMENTO DO ICMS, APROVADO PELO DECRETO Nº 43.080, DE 13 DE DEZEMBRO DE 2002.\"\nsituacao: \"Revogada\"\nrevogada: true\nversao_texto: \"atualizada\"\nfonte: \"https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/44389/2006/documento?tipoDoc=572\"\nbaixado_em: 2026-10-16\n---\n# Decreto nº 44389, de 25/09/2006\n\nAltera o Regulamento do ICMS, aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002.\n\n(O Decreto nº 44.389, de 25/9/2006, foi revogado pelo item 130 do Anexo do Decreto nº 48.590, de 22/3/2023.)\n\n(Vide art. 1º do Decreto nº 48.590, de 22/3/2023.)\n\nO GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso de atribuição que lhe confere o art. 90, VII, da Constituição do Estado, e tendo em vista o disposto na Lei nº 6.763, de 26 de dezembro de 1975, e no Convênio ICMS nº 64/06,\n\nDECRETA:\n\n**Art. 1º** - O Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com a seguinte alteração:\n\n\"Art. 85 - .................................................\n\nIV - .......................................................\n\ni) saída de veículo autopropulsado antes de 12 (doze) meses da data da aquisição junto à montadora, realizada por pessoa jurídica que explore a atividade de locação de veículos, observado o disposto no Capítulo LVI da Parte 1 do Anexo IX deste Regulamento;\n\n......................................................\" (nr)\n\n**Art. 2º** - A Parte 1 do Anexo IX do RICMS passa a vigorar com as seguintes alterações:\n\n\"CAPÍTULO LVI\n\nDAS OPERAÇÕES DE VENDA DE VEÍCULO AUTOPROPULSADO REALIZADAS POR PESSOA JURÍDICA QUE EXERÇA A ATIVIDADE DE LOCAÇÃO DE VEÍCULOS\n\n**Art. 430** - Na operação de venda de veículo autopropulsado antes de 12 (doze) meses da data da aquisição junto à montadora, realizada por pessoa jurídica que explore a atividade de locação de veículos, deverá ser efetuado o recolhimento do ICMS em favor da unidade da Federação de domicílio do adquirente, nas condições estabelecidas neste Capítulo.\n\n**Art. 431** - A base de cálculo do imposto será o preço de venda ao público sugerido pela montadora para o veículo novo.\n\n**Art. 432** - Sobre a base de cálculo será aplicada a alíquota interna estabelecida pela legislação da unidade da Federação de domicílio do adquirente.\n\n**Parágrafo único** - Do valor do imposto obtido na forma do caput deste artigo será deduzido, a título de crédito, o valor d",
+    "trecho_final": " pela montadora para o veículo novo.\n\n**Art. 432** - Sobre a base de cálculo será aplicada a alíquota interna estabelecida pela legislação da unidade da Federação de domicílio do adquirente.\n\n**Parágrafo único** - Do valor do imposto obtido na forma do caput deste artigo será deduzido, a título de crédito, o valor do ICMS constante da nota fiscal de aquisição, emitida pela montadora.\n\n**Art. 433** - A apuração do imposto nos termos deste artigo deverá ser demonstrada no campo \"Informações Complementares\" do documento fiscal acobertador da operação.\n\n**Art. 434** - A montadora, inclusive a localizada em outra unidade da Federação, quando da venda de veículo a pessoa jurídica indicada no art. 430, além do cumprimento das demais obrigações previstas na legislação, deverá:\n\nI - mencionar, na nota fiscal da respectiva operação, no campo \"Informações Complementares\", a seguinte indicação: \"Ocorrendo alienação do veículo antes de \\_\\_\\_/\\_\\_\\_/\\_\\_\\_ (indicar o dia e mês da aquisição e no que se refere ao ano o subseqüente à aquisição) deverá ser recolhido o ICMS com base no Capítulo LVI da Parte 1 do Anexo IX do RICMS\";\n\nII - encaminhar, mensalmente, à Diretoria de Gestão de Projetos da Superintendência de Fiscalização (DGP/SUFIS) da Secretaria de Estado de Fazenda deste Estado as informações relativas ao:\n\na) endereço do adquirente e seu número de inscrição no CNPJ;\n\nb) número, série e data da nota fiscal emitida e dos dados identificadores do veículo vendido.\n\n**Art. 435** - O Departamento Estadual de Trânsito de Minas Gerais (DETRAN/MG), quando do primeiro licenciamento do veículo, fará constar no Certificado de Registro e Licenciamento de Veículo (CRLV), no campo \"Observações\" a indicação: \"Proibida a alienação deste veículo antes de \\_\\_\\_/\\_\\_\\_/\\_\\_\\_ (data a que se refere o inciso I do art. 434) sem a comprovação do pagamento do ICMS\";\n\n**§ 1º** - O DETRAN/MG não poderá efetuar a transferência de veículo antes do prazo previsto no art. 430 sem autorização da Secretaria de Estado de Fazenda.\n\n**§ 2º** - A autorização de que trata o § 1º poderá ser efetuada por meio eletrônico.\"\n\n**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.\n\nPalácio da Liberdade, em Belo Horizonte, aos 25 de setembro de 2006; 218º da Inconfidência Mineira e 185º da Independência do Brasil.\n\nAÉCIO NEVES\n\nFernando Antonio Fagundes Reis\n\nRenata Maria Paes de Vilhena\n\nFuad Noman\n\n==================================================\n\nData da última atualização: 24/3/2023.\n",
+    "aplicado": false
+  },
+  {
+    "path": "estaduais/MG/decretos/2006/dec-44406-2006.md",
+    "md_sha256": "27eab46f3484ecb9b01147b23239c5ef6de3b178df93ea51fc20ec91175e5b85",
+    "fonte_sha256": "2d4a1f6fc5eb91fd4b800182355c16802789fefaba194ac8c3ee481bf4debcf0",
+    "cache": "estaduais/MG/_fonte/decretos/2006/dec-44406-2006.html.gz",
+    "decisao": "marcadores_resolvidos_sem_lacuna_nova",
+    "fundamento": "Arts. 1º/2º expressamente substituem partes determinadas do RICMS. Os 41 marcadores mantêm células/incisos antigos; itens novos 153 e seguintes, campo 15, registros e mercadorias têm conteúdo próprio entre delimitadores. Art. 335§5 remete a modelo e instruções disponibilizados no sítio da Fazenda: regra de apresentação de documento externo, sem afirmar que anexo gráfico próprio acompanha o decreto. Arts. 5º/6º e fecho presentes; nenhum marcador lido substitui articulado novo anunciado.",
+    "cobertura_leitura": "identidade, comando proprio, todos os eventos pendentes e seus contextos, remissoes/anexos visiveis, fecho; sem certificacao visual",
+    "eventos_resolvidos": [
+      {
+        "evento_indice": 1,
+        "inicio": 1255,
+        "fim": 1313,
+        "literal_sha256": "5a7668a9235f6693a798c1819a736f81815a0b5646c302a6ab65c691f40a5166",
+        "contexto": "isposto nos Convênios ICMS 30/06, 32/06, 33/06, 36/06, 41/06, 48/06 e 54/06 a 56/06, e nos Protocolos ICMS 11/06 a 14/06 e 18/06,\n\nDECRETA:\n\n**Art. 1º** O Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com a seguinte alteração:\n\n\"Art. 130.................................................\n\n§2º..........................................................\n\nIII - à inclusão, na parte inferior da nota fiscal, de indicações expressas em código de barras, desde que determinadas ou autorizadas pela autoridade concedente do documento fiscal;\n\n.............................................................\" (nr)\n\n**Art. 2º** Os Anexos abaixo relacionados do RICMS passam a vigorar com as seguintes alterações",
+        "contexto_sha256": "ba58a7fe71134a5e224f9f0238d2c62b63498f22f41fe84aedd18e8782fb501c"
+      },
+      {
+        "evento_indice": 2,
+        "inicio": 1499,
+        "fim": 1560,
+        "literal_sha256": "57c455140fc15a9fa75a1f9245ad17f1275b56b95c7bb236525dc1eaf5b94889",
+        "contexto": "passa a vigorar com a seguinte alteração:\n\n\"Art. 130.................................................\n\n§2º..........................................................\n\nIII - à inclusão, na parte inferior da nota fiscal, de indicações expressas em código de barras, desde que determinadas ou autorizadas pela autoridade concedente do documento fiscal;\n\n.............................................................\" (nr)\n\n**Art. 2º** Os Anexos abaixo relacionados do RICMS passam a vigorar com as seguintes alterações:\n\nI - Parte 1 do Anexo I:\"\n\n5 (...) a.4 - aditivo, assim consideradas as substâncias e misturas de substâncias ou microorganismos adicionados intencionalmente aos alimentos para os animais, que tenham ou não valor nutritivo, e que afetem ou melho",
+        "contexto_sha256": "5e632be05f92ddab202926ab0ddd1a1e48859f6d065ebec914346563423fa727"
+      },
+      {
+        "evento_indice": 3,
+        "inicio": 1695,
+        "fim": 1698,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "erior da nota fiscal, de indicações expressas em código de barras, desde que determinadas ou autorizadas pela autoridade concedente do documento fiscal;\n\n.............................................................\" (nr)\n\n**Art. 2º** Os Anexos abaixo relacionados do RICMS passam a vigorar com as seguintes alterações:\n\nI - Parte 1 do Anexo I:\"\n\n5 (...) a.4 - aditivo, assim consideradas as substâncias e misturas de substâncias ou microorganismos adicionados intencionalmente aos alimentos para os animais, que tenham ou não valor nutritivo, e que afetem ou melhorem as características dos alimentos ou dos produtos destinados à alimentação dos animais; a.5 - premix ou núcleo, assim considerada a mis",
+        "contexto_sha256": "02da7c636d651cd0332f20ec58640d1b4310d86d21644f1f3970266141d19bf0"
+      },
+      {
+        "evento_indice": 4,
+        "inicio": 2251,
+        "fim": 2254,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " ou melhorem as características dos alimentos ou dos produtos destinados à alimentação dos animais; a.5 - premix ou núcleo, assim considerada a mistura de aditivos para produtos destinados à alimentação animal ou mistura de um ou mais destes aditivos com matérias-primas usadas como excipientes que não se destinam à alimentação direta dos animais; (...) (nr) (...) 92 92.1 92.2 (...) (...) b - poderá ser utilizada uma só vez, a cada período de 2 (dois) anos, ressalvados os casos excepcionais em que ocorra a destruição completa ou o desaparecimento do veículo; (...) (...) a.3 - não tenha adquirido, nos últimos dois anos, veículo com isenção ou redução da base de cálculo do ICMS outorgada à categor",
+        "contexto_sha256": "69509776a45b6b0032668f894f34acc358109a862a38f9db75bf8bf01bfeef27"
+      },
+      {
+        "evento_indice": 5,
+        "inicio": 2262,
+        "fim": 2265,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "m as características dos alimentos ou dos produtos destinados à alimentação dos animais; a.5 - premix ou núcleo, assim considerada a mistura de aditivos para produtos destinados à alimentação animal ou mistura de um ou mais destes aditivos com matérias-primas usadas como excipientes que não se destinam à alimentação direta dos animais; (...) (nr) (...) 92 92.1 92.2 (...) (...) b - poderá ser utilizada uma só vez, a cada período de 2 (dois) anos, ressalvados os casos excepcionais em que ocorra a destruição completa ou o desaparecimento do veículo; (...) (...) a.3 - não tenha adquirido, nos últimos dois anos, veículo com isenção ou redução da base de cálculo do ICMS outorgada à categoria, salvo s",
+        "contexto_sha256": "2cc9208fec0deceba31e6502153e46c09ee2db5063911192039a335f726236f8"
+      },
+      {
+        "evento_indice": 6,
+        "inicio": 2281,
+        "fim": 2284,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "s dos alimentos ou dos produtos destinados à alimentação dos animais; a.5 - premix ou núcleo, assim considerada a mistura de aditivos para produtos destinados à alimentação animal ou mistura de um ou mais destes aditivos com matérias-primas usadas como excipientes que não se destinam à alimentação direta dos animais; (...) (nr) (...) 92 92.1 92.2 (...) (...) b - poderá ser utilizada uma só vez, a cada período de 2 (dois) anos, ressalvados os casos excepcionais em que ocorra a destruição completa ou o desaparecimento do veículo; (...) (...) a.3 - não tenha adquirido, nos últimos dois anos, veículo com isenção ou redução da base de cálculo do ICMS outorgada à categoria, salvo se tiver ocorrido a ",
+        "contexto_sha256": "d8dd419ec039e9904f50379ae6134cf7634706ba0c4830e5f943cabe082e90fa"
+      },
+      {
+        "evento_indice": 7,
+        "inicio": 2287,
+        "fim": 2290,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "alimentos ou dos produtos destinados à alimentação dos animais; a.5 - premix ou núcleo, assim considerada a mistura de aditivos para produtos destinados à alimentação animal ou mistura de um ou mais destes aditivos com matérias-primas usadas como excipientes que não se destinam à alimentação direta dos animais; (...) (nr) (...) 92 92.1 92.2 (...) (...) b - poderá ser utilizada uma só vez, a cada período de 2 (dois) anos, ressalvados os casos excepcionais em que ocorra a destruição completa ou o desaparecimento do veículo; (...) (...) a.3 - não tenha adquirido, nos últimos dois anos, veículo com isenção ou redução da base de cálculo do ICMS outorgada à categoria, salvo se tiver ocorrido a destru",
+        "contexto_sha256": "476d8cea73a16a86c2c8846f9764a21e1683eca8f9502ca50b2f1059d9e4c079"
+      },
+      {
+        "evento_indice": 8,
+        "inicio": 2466,
+        "fim": 2469,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "stura de um ou mais destes aditivos com matérias-primas usadas como excipientes que não se destinam à alimentação direta dos animais; (...) (nr) (...) 92 92.1 92.2 (...) (...) b - poderá ser utilizada uma só vez, a cada período de 2 (dois) anos, ressalvados os casos excepcionais em que ocorra a destruição completa ou o desaparecimento do veículo; (...) (...) a.3 - não tenha adquirido, nos últimos dois anos, veículo com isenção ou redução da base de cálculo do ICMS outorgada à categoria, salvo se tiver ocorrido a destruição completa do veículo adquirido ou seu desaparecimento; (...) (nr) (...) 153 153.1 153.2 153.3 153.4 153.5 153.6 Operação de circulação de produtos agropecuários, seus derivado",
+        "contexto_sha256": "619fb28a2daa8995b6bc9a71177780833c6def574d0e437a78b60d23195b49e4"
+      },
+      {
+        "evento_indice": 9,
+        "inicio": 2472,
+        "fim": 2475,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "de um ou mais destes aditivos com matérias-primas usadas como excipientes que não se destinam à alimentação direta dos animais; (...) (nr) (...) 92 92.1 92.2 (...) (...) b - poderá ser utilizada uma só vez, a cada período de 2 (dois) anos, ressalvados os casos excepcionais em que ocorra a destruição completa ou o desaparecimento do veículo; (...) (...) a.3 - não tenha adquirido, nos últimos dois anos, veículo com isenção ou redução da base de cálculo do ICMS outorgada à categoria, salvo se tiver ocorrido a destruição completa do veículo adquirido ou seu desaparecimento; (...) (nr) (...) 153 153.1 153.2 153.3 153.4 153.5 153.6 Operação de circulação de produtos agropecuários, seus derivados, sub",
+        "contexto_sha256": "4099dc8942c9bd52880d0a5253123d5d7f79b317283a6e81111431b8e2fbf417"
+      },
+      {
+        "evento_indice": 10,
+        "inicio": 2700,
+        "fim": 2703,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "dois) anos, ressalvados os casos excepcionais em que ocorra a destruição completa ou o desaparecimento do veículo; (...) (...) a.3 - não tenha adquirido, nos últimos dois anos, veículo com isenção ou redução da base de cálculo do ICMS outorgada à categoria, salvo se tiver ocorrido a destruição completa do veículo adquirido ou seu desaparecimento; (...) (nr) (...) 153 153.1 153.2 153.3 153.4 153.5 153.6 Operação de circulação de produtos agropecuários, seus derivados, subprodutos e resíduos de valor econômico, caracterizada pela emissão e negociação do Certificado de Depósito Agropecuário - CDA e do Warrant Agropecuário - WA, nos mercados de bolsa e de balcão como ativos financeiros, instituídos",
+        "contexto_sha256": "5a26ad3abc58bae440314bf6acf16a7894382ff039ea38e68f75b76465a5168e"
+      },
+      {
+        "evento_indice": 11,
+        "inicio": 2711,
+        "fim": 2714,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " ressalvados os casos excepcionais em que ocorra a destruição completa ou o desaparecimento do veículo; (...) (...) a.3 - não tenha adquirido, nos últimos dois anos, veículo com isenção ou redução da base de cálculo do ICMS outorgada à categoria, salvo se tiver ocorrido a destruição completa do veículo adquirido ou seu desaparecimento; (...) (nr) (...) 153 153.1 153.2 153.3 153.4 153.5 153.6 Operação de circulação de produtos agropecuários, seus derivados, subprodutos e resíduos de valor econômico, caracterizada pela emissão e negociação do Certificado de Depósito Agropecuário - CDA e do Warrant Agropecuário - WA, nos mercados de bolsa e de balcão como ativos financeiros, instituídos pela Lei n",
+        "contexto_sha256": "778cd72d298c4a273db619ba24f11756063bc2b3775e414b8f6aacf15525be5b"
+      },
+      {
+        "evento_indice": 12,
+        "inicio": 6520,
+        "fim": 6523,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "s utilizados em hemodiálise 8479.89.99\n\n\";\n\nIII - Parte 1 do Anexo II:\"\n\n26 Saída de ração balanceada, concentrado ou suplemento, aditivos e premix ou núcleo, produzidos no Estado, observado o disposto nas subalíneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que específicos para uso na pecuária, aqüicultura, cunicultura ou ranicultura. (...) (nr)\n\n\";\n\nIV - Parte 1 do Anexo IV:\"\n\n3 3.2 (...) Fica dispensado o estorno do crédito na saída de mercadoria beneficiada com a redução da base de cálculo prevista neste item. (nr) (...) (...) (...) (...) (...) 8 (...) b - ração animal, concentrados suplementos, aditivos e premix ou núcleo, fabricados por indústria de ração animal devidamente reg",
+        "contexto_sha256": "7eedb01ebbb17a695752f3026a3336c0ffe2b5ff2cee30cf390ffe441fe4d0b6"
+      },
+      {
+        "evento_indice": 13,
+        "inicio": 6570,
+        "fim": 6573,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "Parte 1 do Anexo II:\"\n\n26 Saída de ração balanceada, concentrado ou suplemento, aditivos e premix ou núcleo, produzidos no Estado, observado o disposto nas subalíneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que específicos para uso na pecuária, aqüicultura, cunicultura ou ranicultura. (...) (nr)\n\n\";\n\nIV - Parte 1 do Anexo IV:\"\n\n3 3.2 (...) Fica dispensado o estorno do crédito na saída de mercadoria beneficiada com a redução da base de cálculo prevista neste item. (nr) (...) (...) (...) (...) (...) 8 (...) b - ração animal, concentrados suplementos, aditivos e premix ou núcleo, fabricados por indústria de ração animal devidamente registrada no Ministério da Agricultura, Pecuária e A",
+        "contexto_sha256": "954c90e11a71dd989a1bbb171de1c22d2441e06305c89d5270e5ef7f7dc5a0a6"
+      },
+      {
+        "evento_indice": 14,
+        "inicio": 6707,
+        "fim": 6710,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ado o disposto nas subalíneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que específicos para uso na pecuária, aqüicultura, cunicultura ou ranicultura. (...) (nr)\n\n\";\n\nIV - Parte 1 do Anexo IV:\"\n\n3 3.2 (...) Fica dispensado o estorno do crédito na saída de mercadoria beneficiada com a redução da base de cálculo prevista neste item. (nr) (...) (...) (...) (...) (...) 8 (...) b - ração animal, concentrados suplementos, aditivos e premix ou núcleo, fabricados por indústria de ração animal devidamente registrada no Ministério da Agricultura, Pecuária e Abastecimento, observado o disposto nas subalíneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que os produtos: (...) (nr) (...) ",
+        "contexto_sha256": "b1a84a2324493f53163776622e4fa02ff63989267723d42300e93916df567ae4"
+      },
+      {
+        "evento_indice": 15,
+        "inicio": 6713,
+        "fim": 6716,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "disposto nas subalíneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que específicos para uso na pecuária, aqüicultura, cunicultura ou ranicultura. (...) (nr)\n\n\";\n\nIV - Parte 1 do Anexo IV:\"\n\n3 3.2 (...) Fica dispensado o estorno do crédito na saída de mercadoria beneficiada com a redução da base de cálculo prevista neste item. (nr) (...) (...) (...) (...) (...) 8 (...) b - ração animal, concentrados suplementos, aditivos e premix ou núcleo, fabricados por indústria de ração animal devidamente registrada no Ministério da Agricultura, Pecuária e Abastecimento, observado o disposto nas subalíneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que os produtos: (...) (nr) (...) (...) ",
+        "contexto_sha256": "df0ad8d21713098ff7761a1cb352805d31e6b4c9ed70bf36bfdb752dab108715"
+      },
+      {
+        "evento_indice": 16,
+        "inicio": 6719,
+        "fim": 6722,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "to nas subalíneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que específicos para uso na pecuária, aqüicultura, cunicultura ou ranicultura. (...) (nr)\n\n\";\n\nIV - Parte 1 do Anexo IV:\"\n\n3 3.2 (...) Fica dispensado o estorno do crédito na saída de mercadoria beneficiada com a redução da base de cálculo prevista neste item. (nr) (...) (...) (...) (...) (...) 8 (...) b - ração animal, concentrados suplementos, aditivos e premix ou núcleo, fabricados por indústria de ração animal devidamente registrada no Ministério da Agricultura, Pecuária e Abastecimento, observado o disposto nas subalíneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que os produtos: (...) (nr) (...) (...) (...) ",
+        "contexto_sha256": "3018474160494e161d46f19dacec521610fa9178c80679dc4b9473a032e5374e"
+      },
+      {
+        "evento_indice": 17,
+        "inicio": 6725,
+        "fim": 6728,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " subalíneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que específicos para uso na pecuária, aqüicultura, cunicultura ou ranicultura. (...) (nr)\n\n\";\n\nIV - Parte 1 do Anexo IV:\"\n\n3 3.2 (...) Fica dispensado o estorno do crédito na saída de mercadoria beneficiada com a redução da base de cálculo prevista neste item. (nr) (...) (...) (...) (...) (...) 8 (...) b - ração animal, concentrados suplementos, aditivos e premix ou núcleo, fabricados por indústria de ração animal devidamente registrada no Ministério da Agricultura, Pecuária e Abastecimento, observado o disposto nas subalíneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que os produtos: (...) (nr) (...) (...) (...) (...) ",
+        "contexto_sha256": "e7d7cd3489da186d07c3a6aa691f3ec7e4cd9a70a2d7d2568ca181d910b211ef"
+      },
+      {
+        "evento_indice": 18,
+        "inicio": 6731,
+        "fim": 6734,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "íneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que específicos para uso na pecuária, aqüicultura, cunicultura ou ranicultura. (...) (nr)\n\n\";\n\nIV - Parte 1 do Anexo IV:\"\n\n3 3.2 (...) Fica dispensado o estorno do crédito na saída de mercadoria beneficiada com a redução da base de cálculo prevista neste item. (nr) (...) (...) (...) (...) (...) 8 (...) b - ração animal, concentrados suplementos, aditivos e premix ou núcleo, fabricados por indústria de ração animal devidamente registrada no Ministério da Agricultura, Pecuária e Abastecimento, observado o disposto nas subalíneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que os produtos: (...) (nr) (...) (...) (...) (...) (...)\n",
+        "contexto_sha256": "bfd21fd4af37cdfee729a10365ef65c0001c1579a6623dfdb5752682f7f112f9"
+      },
+      {
+        "evento_indice": 19,
+        "inicio": 6739,
+        "fim": 6742,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": ".1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que específicos para uso na pecuária, aqüicultura, cunicultura ou ranicultura. (...) (nr)\n\n\";\n\nIV - Parte 1 do Anexo IV:\"\n\n3 3.2 (...) Fica dispensado o estorno do crédito na saída de mercadoria beneficiada com a redução da base de cálculo prevista neste item. (nr) (...) (...) (...) (...) (...) 8 (...) b - ração animal, concentrados suplementos, aditivos e premix ou núcleo, fabricados por indústria de ração animal devidamente registrada no Ministério da Agricultura, Pecuária e Abastecimento, observado o disposto nas subalíneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que os produtos: (...) (nr) (...) (...) (...) (...) (...)\n\n\";\n\nV -",
+        "contexto_sha256": "7dc525b050266680a1a5e5c74772d545f60bf71c82e0c407af36678cff35bc66"
+      },
+      {
+        "evento_indice": 20,
+        "inicio": 7044,
+        "fim": 7047,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " item. (nr) (...) (...) (...) (...) (...) 8 (...) b - ração animal, concentrados suplementos, aditivos e premix ou núcleo, fabricados por indústria de ração animal devidamente registrada no Ministério da Agricultura, Pecuária e Abastecimento, observado o disposto nas subalíneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que os produtos: (...) (nr) (...) (...) (...) (...) (...)\n\n\";\n\nV - Parte 2 do Anexo VII:\n\n\"12.1.11 - Campo 15 - Preencher o campo de acordo com a tabela abaixo:\n\nSITUAÇÃO CONTEÚDO DO CAMPO OBSERVAÇÕES Pagamento de substituição tributária efetuada pelo destinatário, quando não efetuada ou efetuada a menor pelo substituto. 1 1 - Neste código consideram-se os produtos con",
+        "contexto_sha256": "86d7980a3b9162755ecafa323986f511b4f7615b34a314be01988467892e2a2e"
+      },
+      {
+        "evento_indice": 21,
+        "inicio": 7055,
+        "fim": 7058,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " (...) (...) (...) (...) (...) 8 (...) b - ração animal, concentrados suplementos, aditivos e premix ou núcleo, fabricados por indústria de ração animal devidamente registrada no Ministério da Agricultura, Pecuária e Abastecimento, observado o disposto nas subalíneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que os produtos: (...) (nr) (...) (...) (...) (...) (...)\n\n\";\n\nV - Parte 2 do Anexo VII:\n\n\"12.1.11 - Campo 15 - Preencher o campo de acordo com a tabela abaixo:\n\nSITUAÇÃO CONTEÚDO DO CAMPO OBSERVAÇÕES Pagamento de substituição tributária efetuada pelo destinatário, quando não efetuada ou efetuada a menor pelo substituto. 1 1 - Neste código consideram-se os produtos constantes da ",
+        "contexto_sha256": "b761d27c7c2833d06680e77bc3c0b13bc2cd0b17db7f0b11110fa7cfcd9810a8"
+      },
+      {
+        "evento_indice": 22,
+        "inicio": 7061,
+        "fim": 7064,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " (...) (...) (...) (...) 8 (...) b - ração animal, concentrados suplementos, aditivos e premix ou núcleo, fabricados por indústria de ração animal devidamente registrada no Ministério da Agricultura, Pecuária e Abastecimento, observado o disposto nas subalíneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que os produtos: (...) (nr) (...) (...) (...) (...) (...)\n\n\";\n\nV - Parte 2 do Anexo VII:\n\n\"12.1.11 - Campo 15 - Preencher o campo de acordo com a tabela abaixo:\n\nSITUAÇÃO CONTEÚDO DO CAMPO OBSERVAÇÕES Pagamento de substituição tributária efetuada pelo destinatário, quando não efetuada ou efetuada a menor pelo substituto. 1 1 - Neste código consideram-se os produtos constantes da Parte ",
+        "contexto_sha256": "6fa5cec9715f211ac82a4f6d1792e2f2f4075ba183b0c09dcfe1b292d55248b8"
+      },
+      {
+        "evento_indice": 23,
+        "inicio": 7067,
+        "fim": 7070,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " (...) (...) (...) 8 (...) b - ração animal, concentrados suplementos, aditivos e premix ou núcleo, fabricados por indústria de ração animal devidamente registrada no Ministério da Agricultura, Pecuária e Abastecimento, observado o disposto nas subalíneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que os produtos: (...) (nr) (...) (...) (...) (...) (...)\n\n\";\n\nV - Parte 2 do Anexo VII:\n\n\"12.1.11 - Campo 15 - Preencher o campo de acordo com a tabela abaixo:\n\nSITUAÇÃO CONTEÚDO DO CAMPO OBSERVAÇÕES Pagamento de substituição tributária efetuada pelo destinatário, quando não efetuada ou efetuada a menor pelo substituto. 1 1 - Neste código consideram-se os produtos constantes da Parte 2 do A",
+        "contexto_sha256": "94faa8074f16ea2a2122fc7a2aae68e548ac836c7f40bd1e0c64bd50eccf57b3"
+      },
+      {
+        "evento_indice": 24,
+        "inicio": 7073,
+        "fim": 7076,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " (...) (...) 8 (...) b - ração animal, concentrados suplementos, aditivos e premix ou núcleo, fabricados por indústria de ração animal devidamente registrada no Ministério da Agricultura, Pecuária e Abastecimento, observado o disposto nas subalíneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que os produtos: (...) (nr) (...) (...) (...) (...) (...)\n\n\";\n\nV - Parte 2 do Anexo VII:\n\n\"12.1.11 - Campo 15 - Preencher o campo de acordo com a tabela abaixo:\n\nSITUAÇÃO CONTEÚDO DO CAMPO OBSERVAÇÕES Pagamento de substituição tributária efetuada pelo destinatário, quando não efetuada ou efetuada a menor pelo substituto. 1 1 - Neste código consideram-se os produtos constantes da Parte 2 do Anexo X",
+        "contexto_sha256": "da54e789e0de97a40c7b675512b7d08d66dc88331aa02d1c216848dea9325ebe"
+      },
+      {
+        "evento_indice": 25,
+        "inicio": 7079,
+        "fim": 7082,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " (...) 8 (...) b - ração animal, concentrados suplementos, aditivos e premix ou núcleo, fabricados por indústria de ração animal devidamente registrada no Ministério da Agricultura, Pecuária e Abastecimento, observado o disposto nas subalíneas \"a.1\" a \"a.5\" do item 5 da Parte 1 do Anexo I, desde que os produtos: (...) (nr) (...) (...) (...) (...) (...)\n\n\";\n\nV - Parte 2 do Anexo VII:\n\n\"12.1.11 - Campo 15 - Preencher o campo de acordo com a tabela abaixo:\n\nSITUAÇÃO CONTEÚDO DO CAMPO OBSERVAÇÕES Pagamento de substituição tributária efetuada pelo destinatário, quando não efetuada ou efetuada a menor pelo substituto. 1 1 - Neste código consideram-se os produtos constantes da Parte 2 do Anexo XV. 2 -",
+        "contexto_sha256": "14c04864eb871922fd94868466d26d3e0e642d4a50419858e907ccafcc655f17"
+      },
+      {
+        "evento_indice": 26,
+        "inicio": 12321,
+        "fim": 12369,
+        "literal_sha256": "37bfa58b586f840be397ef9afc0f9530393591bb74bd3a02a8f1c884fe932787",
+        "contexto": "cedores com o destaque do imposto. 2 - Nos casos de registro das notas fiscais de saída, os dados dos campos 2, 3 e 5 do registro 53 serão referentes ao destinatário. 3 - Nos casos de registro das notas fiscais emitidas pelos fornecedores, os dados dos campos 2, 3 e 5 do registro 53 serão referentes ao remetente.\n\n(nr)\";\n\nVI - Anexo VIII:\n\n\"Art. 17................................................\n\n**§5º** O disposto neste artigo não se aplica às operações com carvão vegetal.\" (nr)\n\nVII - Parte 1 do Anexo IX:\n\n\"Art. 36..............................................\n\nXLI - Vonar Telecomunicações Ltda;\n\nXLII - Falkland Tecnologia em Telecomunicações Ltda.;\n\nXLIII - Viper Serviços de Telecomunicações S/A;\n\nXLIV - Telebit Telecomunicações e Part",
+        "contexto_sha256": "02c3db6ebf901c33897278b2b49dbf948c85f8e65890f562c5a3bb5b37b338e3"
+      },
+      {
+        "evento_indice": 27,
+        "inicio": 12493,
+        "fim": 12539,
+        "literal_sha256": "2a27e1c8b492b82726c726b9b06df1fa6d37326321569e3ff681615017a25169",
+        "contexto": "os casos de registro das notas fiscais emitidas pelos fornecedores, os dados dos campos 2, 3 e 5 do registro 53 serão referentes ao remetente.\n\n(nr)\";\n\nVI - Anexo VIII:\n\n\"Art. 17................................................\n\n**§5º** O disposto neste artigo não se aplica às operações com carvão vegetal.\" (nr)\n\nVII - Parte 1 do Anexo IX:\n\n\"Art. 36..............................................\n\nXLI - Vonar Telecomunicações Ltda;\n\nXLII - Falkland Tecnologia em Telecomunicações Ltda.;\n\nXLIII - Viper Serviços de Telecomunicações S/A;\n\nXLIV - Telebit Telecomunicações e Participações S/A;\n\nXLV - Redevox Telecomunicações S/A.\n\n...............................................................\n\n**§7º** A fruição do regime especial previsto nesta ",
+        "contexto_sha256": "b470cf24bd35dc1143bd7ded2636c99efb16923648c00b8da9314a4007a46ec7"
+      },
+      {
+        "evento_indice": 28,
+        "inicio": 12769,
+        "fim": 12835,
+        "literal_sha256": "3afa19ee5d6f015b2e6f8cf5f8f1bd5cea87d2f3639dc4a0d949c13b86b2dc7b",
+        "contexto": " operações com carvão vegetal.\" (nr)\n\nVII - Parte 1 do Anexo IX:\n\n\"Art. 36..............................................\n\nXLI - Vonar Telecomunicações Ltda;\n\nXLII - Falkland Tecnologia em Telecomunicações Ltda.;\n\nXLIII - Viper Serviços de Telecomunicações S/A;\n\nXLIV - Telebit Telecomunicações e Participações S/A;\n\nXLV - Redevox Telecomunicações S/A.\n\n...............................................................\n\n**§7º** A fruição do regime especial previsto nesta Seção fica condicionada à elaboração e apresentação, por parte da empresa prestadora de serviços de telecomunicação que atue em mais de uma unidade da Federação, de livro razão auxiliar contendo os registros das contas de ativo permanente, custos e receitas auferidas, tributadas, isentas e não-t",
+        "contexto_sha256": "951e58591ddab6adbff2b82048da5357fe928049c33fecfa512f5cff0d0b7bb3"
+      },
+      {
+        "evento_indice": 29,
+        "inicio": 13450,
+        "fim": 13513,
+        "literal_sha256": "9d98a93f6ea43744ecdf14503ecbb6fa1fb586569d2ad03d9f79930728a213a6",
+        "contexto": " contas de ativo permanente, custos e receitas auferidas, tributadas, isentas e não-tributadas relativos a este Estado.\n\n**§8º** As informações contidas no livro razão auxiliar a que se refere o parágrafo anterior deverão ser disponibilizadas, inclusive em meio eletrônico, quando solicitadas pelo Fisco, no prazo e forma definidos na solicitação.\"\n\n...............................................................\n\nArt. 40.....................................................\n\n§4º.........................................................\n\nII - os dados relativos ao faturamento em todas as unidades federadas de atuação da empresa prestadora de serviço de telecomunicação deverão ser disponibilizados, de forma discriminada e segregada por unidade da Federação, i",
+        "contexto_sha256": "bcf104a692f0236f197fc4a74225cfa5c7229ed4391e53f96175b4eabd892943"
+      },
+      {
+        "evento_indice": 30,
+        "inicio": 13522,
+        "fim": 13575,
+        "literal_sha256": "24a2715f404d82792c9c128b274741e44a630bf82d50d40437eaca42325f8a0a",
+        "contexto": "entas e não-tributadas relativos a este Estado.\n\n**§8º** As informações contidas no livro razão auxiliar a que se refere o parágrafo anterior deverão ser disponibilizadas, inclusive em meio eletrônico, quando solicitadas pelo Fisco, no prazo e forma definidos na solicitação.\"\n\n...............................................................\n\nArt. 40.....................................................\n\n§4º.........................................................\n\nII - os dados relativos ao faturamento em todas as unidades federadas de atuação da empresa prestadora de serviço de telecomunicação deverão ser disponibilizados, de forma discriminada e segregada por unidade da Federação, inclusive em meio eletrônico, conforme solicitar o Fisco.\n\n....",
+        "contexto_sha256": "169263578340eefed8a51d2224627235ccf8fdf0ad370d2c6f522ddfd6de1b67"
+      },
+      {
+        "evento_indice": 31,
+        "inicio": 13580,
+        "fim": 13637,
+        "literal_sha256": "faf28d7888d621ba21cc8205f733797d8918bb108a8e2feac46d86057452c83f",
+        "contexto": "s informações contidas no livro razão auxiliar a que se refere o parágrafo anterior deverão ser disponibilizadas, inclusive em meio eletrônico, quando solicitadas pelo Fisco, no prazo e forma definidos na solicitação.\"\n\n...............................................................\n\nArt. 40.....................................................\n\n§4º.........................................................\n\nII - os dados relativos ao faturamento em todas as unidades federadas de atuação da empresa prestadora de serviço de telecomunicação deverão ser disponibilizados, de forma discriminada e segregada por unidade da Federação, inclusive em meio eletrônico, conforme solicitar o Fisco.\n\n..............................................................\n\nAr",
+        "contexto_sha256": "36a9e51d1c6121c26c208c1915fb1f54e4f792d262ed17b5e0ef81747d613231"
+      },
+      {
+        "evento_indice": 32,
+        "inicio": 13918,
+        "fim": 13983,
+        "literal_sha256": "8862e374a24039dc78f493d51d56d86afd0426fa029377e1fd7dd8a4ca5f2d34",
+        "contexto": ".......\n\n§4º.........................................................\n\nII - os dados relativos ao faturamento em todas as unidades federadas de atuação da empresa prestadora de serviço de telecomunicação deverão ser disponibilizados, de forma discriminada e segregada por unidade da Federação, inclusive em meio eletrônico, conforme solicitar o Fisco.\n\n..............................................................\n\nArt. 83.....................................................\n\nI - os estabelecimentos da CONAB/PGPM preencherão, mensalmente, o Demonstrativo de Estoques (DES), por estabelecimento, registrando em seu verso, ou em separado, segundo a natureza da operação, o somatório das entradas e das saídas a título de valores contábeis, os códigos fiscais de o",
+        "contexto_sha256": "999490c6994cb030d57e878c583d5034cd2e3bd9c061240284609cf70c969e36"
+      },
+      {
+        "evento_indice": 33,
+        "inicio": 13992,
+        "fim": 14045,
+        "literal_sha256": "24a2715f404d82792c9c128b274741e44a630bf82d50d40437eaca42325f8a0a",
+        "contexto": "- os dados relativos ao faturamento em todas as unidades federadas de atuação da empresa prestadora de serviço de telecomunicação deverão ser disponibilizados, de forma discriminada e segregada por unidade da Federação, inclusive em meio eletrônico, conforme solicitar o Fisco.\n\n..............................................................\n\nArt. 83.....................................................\n\nI - os estabelecimentos da CONAB/PGPM preencherão, mensalmente, o Demonstrativo de Estoques (DES), por estabelecimento, registrando em seu verso, ou em separado, segundo a natureza da operação, o somatório das entradas e das saídas a título de valores contábeis, os códigos fiscais de operação ou prestação, a base de cálculo do imposto, seu valor,",
+        "contexto_sha256": "14f9b30271eb1f9ead65d08f4b029357b7edfaaa1fb5b000390900e3e0be77c6"
+      },
+      {
+        "evento_indice": 34,
+        "inicio": 14444,
+        "fim": 14507,
+        "literal_sha256": "9d98a93f6ea43744ecdf14503ecbb6fa1fb586569d2ad03d9f79930728a213a6",
+        "contexto": "ão, mensalmente, o Demonstrativo de Estoques (DES), por estabelecimento, registrando em seu verso, ou em separado, segundo a natureza da operação, o somatório das entradas e das saídas a título de valores contábeis, os códigos fiscais de operação ou prestação, a base de cálculo do imposto, seu valor, as operações e as prestações isentas e outras;\n\n...............................................................\n\nIV - os livros Registro de Controle da Produção e do Estoque e Registro de Inventário serão substituídos pelo DES, emitido, mensalmente, por estabelecimento e, no final do mês, para todos os produtos movimentados no período, devendo sua emissão ocorrer ainda que não tenha havido movimentos de entradas e saídas, caso em que será aposta a expressão",
+        "contexto_sha256": "0ef8a1ffa262bab21a3f38505b2b5b98ffa95c0acd110e7dcd8a4cdc5485cfe6"
+      },
+      {
+        "evento_indice": 35,
+        "inicio": 15348,
+        "fim": 15411,
+        "literal_sha256": "9d98a93f6ea43744ecdf14503ecbb6fa1fb586569d2ad03d9f79930728a213a6",
+        "contexto": "dos do DES com a posição do último dia de cada mês;\n\nb - remeterá à Diretoria de Gestão de Projetos da Superintendência de Fiscalização (DGP/SUFIS) até o dia 31 (trinta e um) de janeiro de cada ano, um resumo consolidado dos DES de todos os estabelecimentos da CONAB/PGPM do País emitidos no exercício anterior, totalizado por unidade da Federação;\n\n...............................................................\n\n**Art. 149.** As operações com carvão vegetal serão acobertadas por meio da Nota Fiscal Avulsa de Produtor, emitida na repartição fazendária a que estiver circunscrito o estabelecimento.\n\n**Parágrafo único.** O titular da Delegacia Fiscal a que o produtor estiver circunscrito poderá autorizar a emissão da Nota Fiscal de Produtor, ou da Nota Fisca",
+        "contexto_sha256": "d224303d647f44cc95bf9bfcec709ced904081ea4dfd67217b20a53f43fdfbe9"
+      },
+      {
+        "evento_indice": 36,
+        "inicio": 15899,
+        "fim": 15951,
+        "literal_sha256": "5f30c626fc079063dc4be506b588029134515c2182885c2037e1ac84d91f9fc2",
+        "contexto": "ária a que estiver circunscrito o estabelecimento.\n\n**Parágrafo único.** O titular da Delegacia Fiscal a que o produtor estiver circunscrito poderá autorizar a emissão da Nota Fiscal de Produtor, ou da Nota Fiscal, modelos 1 ou 1-A, conforme o caso, para as operações de que trata o caput deste artigo, mediante requerimento do interessado.\n\nArt. 335....................................................\n\n**§3º** Os vistos de que trata este artigo não têm efeito homologatório, podendo o Fisco, comprovada qualquer irregularidade, exigir o imposto devido com os acréscimos legais.\n\n...............................................................\n\n**§5º** O documento de que trata o §1º deste artigo será preenchido conforme modelo e instruções de preenc",
+        "contexto_sha256": "ae5a00b37b8a831a3d96b134c7cb9a6a094d4f1e25ae854389eaf972441fee89"
+      },
+      {
+        "evento_indice": 37,
+        "inicio": 16127,
+        "fim": 16193,
+        "literal_sha256": "3afa19ee5d6f015b2e6f8cf5f8f1bd5cea87d2f3639dc4a0d949c13b86b2dc7b",
+        "contexto": "1-A, conforme o caso, para as operações de que trata o caput deste artigo, mediante requerimento do interessado.\n\nArt. 335....................................................\n\n**§3º** Os vistos de que trata este artigo não têm efeito homologatório, podendo o Fisco, comprovada qualquer irregularidade, exigir o imposto devido com os acréscimos legais.\n\n...............................................................\n\n**§5º** O documento de que trata o §1º deste artigo será preenchido conforme modelo e instruções de preenchimento disponibilizados no endereço eletrônico da Secretaria de Estado da Fazenda na internet (www.fazenda.mg.gov.br).\n\n**§6º** Na hipótese do despacho aduaneiro ocorrer em ponto de fronteira alfandegado localizado nos Estados do Paraná, Rio",
+        "contexto_sha256": "6b60b47a15fc9f08c25012079b4b04b0f3b620b904e87b599d8a341833a91e53"
+      },
+      {
+        "evento_indice": 38,
+        "inicio": 18894,
+        "fim": 18946,
+        "literal_sha256": "5f30c626fc079063dc4be506b588029134515c2182885c2037e1ac84d91f9fc2",
+        "contexto": "oscopia) 9022.90.80 74 Outras mesas incorporadas para Raios X 9022.90.80 75 Outras poltronas e suportes semelhantes para exame ou tratamento por Raios X 9022.90.80 76 Partes e acessórios de aparelhos de Raios X 9022.90.90 77 Mesas de operação 9402.90.10 78 Aparelhos de iluminação para cirurgias 9405.10.93\n\n(nr)\";\n\nX - Parte 1 do Anexo XV:\n\n\"Art. 57....................................................\n\n§1º..........................................................\n\nI - ao estabelecimento fabricante de máquinas e implementos agrícolas, cuja distribuição seja efetuada de forma exclusiva, mediante contrato de fidelidade;\n\n...............................................................\n\n#### CAPÍTULO XV\n\nDAS OPERAÇÕES COM MATERIAIS DE CONSTRUÇÃO,\n\nA",
+        "contexto_sha256": "48a0fd291fa2c47506ac130f6264609601c2dae6816491a924380dd8c0387a0b"
+      },
+      {
+        "evento_indice": 39,
+        "inicio": 18951,
+        "fim": 19009,
+        "literal_sha256": "5a7668a9235f6693a798c1819a736f81815a0b5646c302a6ab65c691f40a5166",
+        "contexto": "os X 9022.90.80 75 Outras poltronas e suportes semelhantes para exame ou tratamento por Raios X 9022.90.80 76 Partes e acessórios de aparelhos de Raios X 9022.90.90 77 Mesas de operação 9402.90.10 78 Aparelhos de iluminação para cirurgias 9405.10.93\n\n(nr)\";\n\nX - Parte 1 do Anexo XV:\n\n\"Art. 57....................................................\n\n§1º..........................................................\n\nI - ao estabelecimento fabricante de máquinas e implementos agrícolas, cuja distribuição seja efetuada de forma exclusiva, mediante contrato de fidelidade;\n\n...............................................................\n\n#### CAPÍTULO XV\n\nDAS OPERAÇÕES COM MATERIAIS DE CONSTRUÇÃO,\n\nACABAMENTO, BRICOLAGEM OU ADORNO\n\n**Art. 110.** A substituição t",
+        "contexto_sha256": "c5543188114e41d7c7411ad006f03c2be8eb13ea83cb694d7b93e4aec2f4f6d3"
+      },
+      {
+        "evento_indice": 40,
+        "inicio": 19168,
+        "fim": 19231,
+        "literal_sha256": "9d98a93f6ea43744ecdf14503ecbb6fa1fb586569d2ad03d9f79930728a213a6",
+        "contexto": "inação para cirurgias 9405.10.93\n\n(nr)\";\n\nX - Parte 1 do Anexo XV:\n\n\"Art. 57....................................................\n\n§1º..........................................................\n\nI - ao estabelecimento fabricante de máquinas e implementos agrícolas, cuja distribuição seja efetuada de forma exclusiva, mediante contrato de fidelidade;\n\n...............................................................\n\n#### CAPÍTULO XV\n\nDAS OPERAÇÕES COM MATERIAIS DE CONSTRUÇÃO,\n\nACABAMENTO, BRICOLAGEM OU ADORNO\n\n**Art. 110.** A substituição tributária nas operações subseqüentes com as mercadorias de que tratam os subitens 18.36 a 18.43 da Parte 2 deste Anexo, aplica-se também nas saídas destinadas a estabelecimento industrial fabricante de artefatos de que tai",
+        "contexto_sha256": "5b47530dc8a882f43605363281d28dd86ef18309f0049b61655977173e70dc5d"
+      },
+      {
+        "evento_indice": 41,
+        "inicio": 20196,
+        "fim": 20199,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "o laser. 25 6.16 8524.31.00 Discos para sistema de leitura por raio laser para reprodução de fenômenos diferentes do som ou da imagem. 25 6.17 8524.40.00 Fitas magnéticas para reprodução de fenômenos diferentes do som ou da imagem. 25 Exceção: Discos gravados com programas de computador e fitas próprias para máquinas de processamento de dados. 17 (...) Âmbito de Aplicação da Substituição Tributária Interno e nas seguintes unidades da Federação: Alagoas, Ceará, Maranhão, Mato Grosso, Mato Grosso do Sul, Paraíba, Rio Grande do Norte, Sergipe, Tocantins e Distrito Federal. Subitem Código NBM/SH Descrição MVA(%) 17.1 2.204 Vinhos Na operação interna: 29,04 Na operação interestadual: 51,40 17.2 2.20",
+        "contexto_sha256": "b5f8319f0ad534a34ab95a67efdad754a2523e0bfe18a4aacb40991e7a4fe14f"
+      }
+    ],
+    "body_sha256": "7b0c19bbbdd48c9668a9098bd9af68af3aae56f452dfefc433c899f681ea1d87",
+    "trecho_inicial": "---\ntitulo: \"Decreto nº 44406, de 16/11/2006\"\nuf: \"MG\"\ntipo: \"Decreto\"\nnumero: \"44406\"\ndata: 2006-11-16\nementa: \"ALTERA O REGULAMENTO DO ICMS (RICMS), APROVADO PELO DECRETO Nº 43.080, DE 13 DE DEZEMBRO DE 2002, E DÁ OUTRAS PROVIDÊNCIAS.\"\nsituacao: \"Revogada\"\nrevogada: true\nversao_texto: \"atualizada\"\nfonte: \"https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/44406/2006/documento?tipoDoc=572\"\nbaixado_em: 2026-10-16\n---\n# Decreto nº 44406, de 16/11/2006\n\nAltera o Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, e dá outras providências.\n\n(O Decreto nº 44.406, de 16/11/2006, foi revogado pelo item 131 do Anexo do Decreto nº 48.590, de 22/3/2023.)\n\n(Vide art. 1º do Decreto nº 48.590, de 22/3/2023.)\n\nO GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso de atribuição que lhe confere o inciso VII do art. 90, da Constituição do Estado, e tendo em vista o disposto nos Convênios ICMS 30/06, 32/06, 33/06, 36/06, 41/06, 48/06 e 54/06 a 56/06, e nos Protocolos ICMS 11/06 a 14/06 e 18/06,\n\nDECRETA:\n\n**Art. 1º** O Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com a seguinte alteração:\n\n\"Art. 130.................................................\n\n§2º..........................................................\n\nIII - à inclusão, na parte inferior da nota fiscal, de indicações expressas em código de barras, desde que determinadas ou autorizadas pela autoridade concedente do documento fiscal;\n\n.............................................................\" (nr)\n\n**Art. 2º** Os Anexos abaixo relacionados do RICMS passam a vigorar com as seguintes alterações:\n\nI - Parte 1 do Anexo I:\"\n\n5 (...) a.4 - aditivo, assim consideradas as substâncias e misturas de substâncias ou microorganismos adicionados intencionalmente aos alimentos para os animais, que tenham ou não valor nutritivo, e que afetem ou melhorem as características dos alimentos ou dos produtos destinados à alimentação dos animais; a.5 - premix ou núcleo, assim considerada a mistura de aditivos para produtos destinados à alimentação animal ou mistura de um ou mais destes aditivos com matérias-primas usadas como excipientes que não se destinam à alimentação direta dos animais; (...) (nr) (...) 92 92.1 92.2 (...) (...) b - poderá ser utilizada uma só vez, a cada período de 2 (dois) anos, ressalvados os casos excepcionais em que ocorra a destruição completa ou o desaparecimento do veículo; (...) (...) a.3 - não tenha adquiri",
+    "trecho_final": " transporte envolvendo os Estados signatários do Protocolo ICMS 42/05.\n\n(Parágrafo com redação dada pelo art. 3º do Decreto nº 44.625, de 26/9/2007.)\n\n**Art. 4º** Ficam convalidados os procedimentos adotados pelas empresas referidas nos incisos XLI a XLV do art. 36 da Parte 1 do Anexo IX do RICMS, desde que realizados em conformidade com o disposto no Capítulo II da Parte 1 do citado Anexo, no período de 12 de julho de 2006 até a data de publicação deste Decreto.\n\n**Art. 5º** Este Decreto entra em vigor:\n\nI - em 1º de janeiro de 2006, relativamente ao subitem 3.2 da Parte 1 do Anexo IV do RICMS;\n\nII - em 12 de julho de 2006, relativamente ao art. 335, §§3º e 5º a 7º, da Parte 1 do Anexo IX do RICMS;\n\nIII - em 31 de julho de 2006, relativamente:\n\na) aos itens 92 e 153 da Parte 1 do Anexo I do RICMS;\n\nb) ao item 192 da Parte 13 do Anexo I do RICMS;\n\nIV - em 1º de agosto de 2006, relativamente:\n\na) ao item 8 da Parte 1 do Anexo IV do RICMS;\n\nb) ao art. 83 da Parte 1 do Anexo IX do RICMS;\n\nV - em 1º de setembro de 2006, relativamente ao art. 149 da Parte 1 do Anexo IX do RICMS;\n\nVI - em 1º de janeiro de 2007, relativamente:\n\na) ao art. 36, §§7º e 8º, da Parte 1 do Anexo IX do RICMS;\n\nb) aos art. 57, §1º, I, e art. 110 da Parte 1 e aos subitens 6.14 a 6.17 e ao item 17 da Parte 2, do Anexo XV do RICMS;\n\nVII - na data de sua publicação, relativamente:\n\na) ao art. 130, §2º, III, do RICMS;\n\nb) aos itens 5 e 154 da Parte 1 do Anexo I do RICMS;\n\nc) ao item 26 da Parte 1 do Anexo II do RICMS;\n\nd) ao subitem 12.1.11 da Parte 2 do Anexo VII do RICMS;\n\ne) ao art. 17 do Anexo VIII do RICMS;\n\nf) aos art. 36, XLI a XLV, e art. 40, §4º, II, da Parte 1 do Anexo IX do RICMS;\n\ng) aos itens 168 a 171 da Parte 5 do Anexo XII do RICMS;\n\nh) aos itens 51 a 78 da Parte 7 do Anexo XII do RICMS;\n\ni) aos seus arts. 3º e 4º.\n\n**Art. 6º** Ficam revogados os seguintes dispositivos do RICMS:\n\nI - a partir do primeiro dia do mês subseqüente ao de publicação deste Decreto:\n\na) o subitem 20.1.2 da Parte 2 do Anexo VII;\n\nb) os itens 165 a 167 da Parte 5 do Anexo XII;\n\nc) os itens 45 a 47 da Parte 7 do Anexo XII;\n\nII - a partir de 1º de janeiro de 2007, os subitens 17.5 e 17.6 da Parte 2 do Anexo XV.\n\nPalácio da Liberdade, em Belo Horizonte, 16 de novembro de 2006; 218º da Inconfidência Mineira e 185º da Independência do Brasil.\n\nAÉCIO NEVES\n\nDanilo de Castro\n\nAntonio Augusto Junho Anastasia\n\nFuad Noman\n\n==================================================\n\nData da última atualização: 24/3/2023.\n",
+    "aplicado": false
+  },
+  {
+    "path": "estaduais/MG/decretos/2006/dec-44420-2006.md",
+    "md_sha256": "5b5cc98128e231973e833fca294dd4f504a21a6299d54e6c3122ff8bcb1b6fad",
+    "fonte_sha256": "76ac996fa2b6077e2315147331dcad86857e83a036a64d55bbeb567795071f86",
+    "cache": "estaduais/MG/_fonte/decretos/2006/dec-44420-2006.html.gz",
+    "decisao": "marcadores_resolvidos_com_observacoes_literais",
+    "fundamento": "Art. 1º e art. 2º alteram dispositivos e linhas determinadas dos Anexos II/VIII/IX/XV; 30 marcadores mantêm trechos anteriores. Novas mercadorias mostram descrição/NBM/MVA; art. 46§2 altera somente caput, deixando os incisos existentes sob marcador. Repetição de IV nas subdivisões é literal da fonte, não inferida como perda. Arts. 3º–5º, efeitos e fecho presentes.",
+    "cobertura_leitura": "identidade, comando proprio, todos os eventos pendentes e seus contextos, remissoes/anexos visiveis, fecho; sem certificacao visual",
+    "eventos_resolvidos": [
+      {
+        "evento_indice": 12,
+        "inicio": 10839,
+        "fim": 10900,
+        "literal_sha256": "9dfcbe5646bde33ba89fa8035da7b61266183e5268952e261ba9ff3e66e45f27",
+        "contexto": "hipótese de desembaraço aduaneiro em recinto alfandegado localizado no Estado do Rio de Janeiro, a Guia de Liberação de Mercadoria Estrangeira sem o Recolhimento do ICMS será visada somente pelo Fisco deste Estado, devendo constar do documento a expressão: \"Desembaraço nos termos do Protocolo ICMS 39/06\". (nr)\";\n\nIV - Parte 1 do Anexo XV:\n\n\"Art. 46. ...........................................................\n\n**§ 2º** O recolhimento do imposto poderá ser efetuado em prazo distinto do previsto neste artigo, desde que autorizado em regime especial concedido:\n\n.......................................................... (nr)\";\n\nIV - Parte 2 do Anexo XV:\n\n\"\n\n18.21 4.408 Folhas para folheados (incluídas as obtidas por corte de madeira estratificada), folhas ",
+        "contexto_sha256": "901e81e8f2b3d52a60090ae67a8b341b6b2598ab52a2e3e6d2f800708e6db803"
+      },
+      {
+        "evento_indice": 13,
+        "inicio": 11053,
+        "fim": 11111,
+        "literal_sha256": "5a7668a9235f6693a798c1819a736f81815a0b5646c302a6ab65c691f40a5166",
+        "contexto": " devendo constar do documento a expressão: \"Desembaraço nos termos do Protocolo ICMS 39/06\". (nr)\";\n\nIV - Parte 1 do Anexo XV:\n\n\"Art. 46. ...........................................................\n\n**§ 2º** O recolhimento do imposto poderá ser efetuado em prazo distinto do previsto neste artigo, desde que autorizado em regime especial concedido:\n\n.......................................................... (nr)\";\n\nIV - Parte 2 do Anexo XV:\n\n\"\n\n18.21 4.408 Folhas para folheados (incluídas as obtidas por corte de madeira estratificada), folhas para compensados (contraplacados) ou para outras madeiras estratificadas semelhantes e outras madeiras, serradas longitudinalmente, cortadas em folhas ou desenroladas, mesmo aplainadas, polidas, unidas pelas bor",
+        "contexto_sha256": "7c714c1a289d875aef5c5f105c932fcb63b025e36efb8a4e89198862c6189ede"
+      },
+      {
+        "evento_indice": 14,
+        "inicio": 11524,
+        "fim": 11527,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "folheados (incluídas as obtidas por corte de madeira estratificada), folhas para compensados (contraplacados) ou para outras madeiras estratificadas semelhantes e outras madeiras, serradas longitudinalmente, cortadas em folhas ou desenroladas, mesmo aplainadas, polidas, unidas pelas bordas ou pelas extremidades, de espessura não superior a 6mm 35 (...) (...) (...) (...) 18.23 4.411 Pisos laminados com base de MDF (Médium Density Fiberboard) e/ou madeira 35 (...) (...) (...) (...) 18.25 5.704 Tapetes e outros revestimentos para pavimentos, de feltro, exceto os tufados e os flocados, mesmo confeccionados 35 (...) (...) (...) (...) 18.43 7.016 Blocos, placas, tijolos, ladrilhos, telhas, e outros a",
+        "contexto_sha256": "535af434e4e2b7c11e2600b7a158ed32eb1432750771aba7afdad2e3463403b8"
+      },
+      {
+        "evento_indice": 15,
+        "inicio": 11530,
+        "fim": 11533,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "dos (incluídas as obtidas por corte de madeira estratificada), folhas para compensados (contraplacados) ou para outras madeiras estratificadas semelhantes e outras madeiras, serradas longitudinalmente, cortadas em folhas ou desenroladas, mesmo aplainadas, polidas, unidas pelas bordas ou pelas extremidades, de espessura não superior a 6mm 35 (...) (...) (...) (...) 18.23 4.411 Pisos laminados com base de MDF (Médium Density Fiberboard) e/ou madeira 35 (...) (...) (...) (...) 18.25 5.704 Tapetes e outros revestimentos para pavimentos, de feltro, exceto os tufados e os flocados, mesmo confeccionados 35 (...) (...) (...) (...) 18.43 7.016 Blocos, placas, tijolos, ladrilhos, telhas, e outros artefat",
+        "contexto_sha256": "cbce08ac2203244696e791ce911c251b5813ee2064083b2f131ebefca864cc03"
+      },
+      {
+        "evento_indice": 16,
+        "inicio": 11536,
+        "fim": 11539,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ncluídas as obtidas por corte de madeira estratificada), folhas para compensados (contraplacados) ou para outras madeiras estratificadas semelhantes e outras madeiras, serradas longitudinalmente, cortadas em folhas ou desenroladas, mesmo aplainadas, polidas, unidas pelas bordas ou pelas extremidades, de espessura não superior a 6mm 35 (...) (...) (...) (...) 18.23 4.411 Pisos laminados com base de MDF (Médium Density Fiberboard) e/ou madeira 35 (...) (...) (...) (...) 18.25 5.704 Tapetes e outros revestimentos para pavimentos, de feltro, exceto os tufados e os flocados, mesmo confeccionados 35 (...) (...) (...) (...) 18.43 7.016 Blocos, placas, tijolos, ladrilhos, telhas, e outros artefatos, de",
+        "contexto_sha256": "01b41dec5bbe0828c14d4be65b9e480dcd0c30f4a49964b6b388396115f2436c"
+      },
+      {
+        "evento_indice": 17,
+        "inicio": 11542,
+        "fim": 11545,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "as as obtidas por corte de madeira estratificada), folhas para compensados (contraplacados) ou para outras madeiras estratificadas semelhantes e outras madeiras, serradas longitudinalmente, cortadas em folhas ou desenroladas, mesmo aplainadas, polidas, unidas pelas bordas ou pelas extremidades, de espessura não superior a 6mm 35 (...) (...) (...) (...) 18.23 4.411 Pisos laminados com base de MDF (Médium Density Fiberboard) e/ou madeira 35 (...) (...) (...) (...) 18.25 5.704 Tapetes e outros revestimentos para pavimentos, de feltro, exceto os tufados e os flocados, mesmo confeccionados 35 (...) (...) (...) (...) 18.43 7.016 Blocos, placas, tijolos, ladrilhos, telhas, e outros artefatos, de vidro",
+        "contexto_sha256": "ca91083c0a8c5d6c847f7717a1d0e7345431c2003725ddff2ea3cf5c92dbcda1"
+      },
+      {
+        "evento_indice": 18,
+        "inicio": 11636,
+        "fim": 11639,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " para outras madeiras estratificadas semelhantes e outras madeiras, serradas longitudinalmente, cortadas em folhas ou desenroladas, mesmo aplainadas, polidas, unidas pelas bordas ou pelas extremidades, de espessura não superior a 6mm 35 (...) (...) (...) (...) 18.23 4.411 Pisos laminados com base de MDF (Médium Density Fiberboard) e/ou madeira 35 (...) (...) (...) (...) 18.25 5.704 Tapetes e outros revestimentos para pavimentos, de feltro, exceto os tufados e os flocados, mesmo confeccionados 35 (...) (...) (...) (...) 18.43 7.016 Blocos, placas, tijolos, ladrilhos, telhas, e outros artefatos, de vidro prensado ou moldado, mesmo armado, para a construção, inclusive tijolos de vidro; cubos, past",
+        "contexto_sha256": "ea7d291f0a80fdd34ab6231e4282c4303de8835177db0fc3b87c9f8da685292a"
+      },
+      {
+        "evento_indice": 19,
+        "inicio": 11642,
+        "fim": 11645,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "outras madeiras estratificadas semelhantes e outras madeiras, serradas longitudinalmente, cortadas em folhas ou desenroladas, mesmo aplainadas, polidas, unidas pelas bordas ou pelas extremidades, de espessura não superior a 6mm 35 (...) (...) (...) (...) 18.23 4.411 Pisos laminados com base de MDF (Médium Density Fiberboard) e/ou madeira 35 (...) (...) (...) (...) 18.25 5.704 Tapetes e outros revestimentos para pavimentos, de feltro, exceto os tufados e os flocados, mesmo confeccionados 35 (...) (...) (...) (...) 18.43 7.016 Blocos, placas, tijolos, ladrilhos, telhas, e outros artefatos, de vidro prensado ou moldado, mesmo armado, para a construção, inclusive tijolos de vidro; cubos, pastilhas ",
+        "contexto_sha256": "1d266a0c77455396f510c47f2a4e9a0c45aefef3b8c20011684bbc61e5ea439a"
+      },
+      {
+        "evento_indice": 20,
+        "inicio": 11648,
+        "fim": 11651,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " madeiras estratificadas semelhantes e outras madeiras, serradas longitudinalmente, cortadas em folhas ou desenroladas, mesmo aplainadas, polidas, unidas pelas bordas ou pelas extremidades, de espessura não superior a 6mm 35 (...) (...) (...) (...) 18.23 4.411 Pisos laminados com base de MDF (Médium Density Fiberboard) e/ou madeira 35 (...) (...) (...) (...) 18.25 5.704 Tapetes e outros revestimentos para pavimentos, de feltro, exceto os tufados e os flocados, mesmo confeccionados 35 (...) (...) (...) (...) 18.43 7.016 Blocos, placas, tijolos, ladrilhos, telhas, e outros artefatos, de vidro prensado ou moldado, mesmo armado, para a construção, inclusive tijolos de vidro; cubos, pastilhas e outr",
+        "contexto_sha256": "ff2bbc9bb6d128eda5d2760f3b2e7130c9f3f86c54d2f0409d08cd1e3350a42b"
+      },
+      {
+        "evento_indice": 21,
+        "inicio": 11654,
+        "fim": 11657,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ras estratificadas semelhantes e outras madeiras, serradas longitudinalmente, cortadas em folhas ou desenroladas, mesmo aplainadas, polidas, unidas pelas bordas ou pelas extremidades, de espessura não superior a 6mm 35 (...) (...) (...) (...) 18.23 4.411 Pisos laminados com base de MDF (Médium Density Fiberboard) e/ou madeira 35 (...) (...) (...) (...) 18.25 5.704 Tapetes e outros revestimentos para pavimentos, de feltro, exceto os tufados e os flocados, mesmo confeccionados 35 (...) (...) (...) (...) 18.43 7.016 Blocos, placas, tijolos, ladrilhos, telhas, e outros artefatos, de vidro prensado ou moldado, mesmo armado, para a construção, inclusive tijolos de vidro; cubos, pastilhas e outros art",
+        "contexto_sha256": "e5b607333d2ba040a5ff421724a84c7d28d8708b1ecc1357b7734fadc25ef448"
+      },
+      {
+        "evento_indice": 22,
+        "inicio": 11788,
+        "fim": 11791,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "lidas, unidas pelas bordas ou pelas extremidades, de espessura não superior a 6mm 35 (...) (...) (...) (...) 18.23 4.411 Pisos laminados com base de MDF (Médium Density Fiberboard) e/ou madeira 35 (...) (...) (...) (...) 18.25 5.704 Tapetes e outros revestimentos para pavimentos, de feltro, exceto os tufados e os flocados, mesmo confeccionados 35 (...) (...) (...) (...) 18.43 7.016 Blocos, placas, tijolos, ladrilhos, telhas, e outros artefatos, de vidro prensado ou moldado, mesmo armado, para a construção, inclusive tijolos de vidro; cubos, pastilhas e outros artigos semelhantes 35 (...) (...) (...) (...) 18.60 7.418 Artefatos de higiene/toucador, e suas partes, de cobre; esponjas, esfregões, l",
+        "contexto_sha256": "d0b68771709b362c871fa10640b4f09a8b15b50ef5899e5d5fbf5bfa68a12026"
+      },
+      {
+        "evento_indice": 23,
+        "inicio": 11794,
+        "fim": 11797,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " unidas pelas bordas ou pelas extremidades, de espessura não superior a 6mm 35 (...) (...) (...) (...) 18.23 4.411 Pisos laminados com base de MDF (Médium Density Fiberboard) e/ou madeira 35 (...) (...) (...) (...) 18.25 5.704 Tapetes e outros revestimentos para pavimentos, de feltro, exceto os tufados e os flocados, mesmo confeccionados 35 (...) (...) (...) (...) 18.43 7.016 Blocos, placas, tijolos, ladrilhos, telhas, e outros artefatos, de vidro prensado ou moldado, mesmo armado, para a construção, inclusive tijolos de vidro; cubos, pastilhas e outros artigos semelhantes 35 (...) (...) (...) (...) 18.60 7.418 Artefatos de higiene/toucador, e suas partes, de cobre; esponjas, esfregões, luvas e",
+        "contexto_sha256": "46b52e17bf34a81d7e08bebbc63d8aa1d2bb69f7554b350b4c7572cbf00ddeab"
+      },
+      {
+        "evento_indice": 24,
+        "inicio": 11800,
+        "fim": 11803,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "s pelas bordas ou pelas extremidades, de espessura não superior a 6mm 35 (...) (...) (...) (...) 18.23 4.411 Pisos laminados com base de MDF (Médium Density Fiberboard) e/ou madeira 35 (...) (...) (...) (...) 18.25 5.704 Tapetes e outros revestimentos para pavimentos, de feltro, exceto os tufados e os flocados, mesmo confeccionados 35 (...) (...) (...) (...) 18.43 7.016 Blocos, placas, tijolos, ladrilhos, telhas, e outros artefatos, de vidro prensado ou moldado, mesmo armado, para a construção, inclusive tijolos de vidro; cubos, pastilhas e outros artigos semelhantes 35 (...) (...) (...) (...) 18.60 7.418 Artefatos de higiene/toucador, e suas partes, de cobre; esponjas, esfregões, luvas e artef",
+        "contexto_sha256": "e4bf704370fbddcfaf6edb6dea06cf04d0f46ee6ed573f3f76b04cd01ad0ffbb"
+      },
+      {
+        "evento_indice": 25,
+        "inicio": 11806,
+        "fim": 11809,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "s bordas ou pelas extremidades, de espessura não superior a 6mm 35 (...) (...) (...) (...) 18.23 4.411 Pisos laminados com base de MDF (Médium Density Fiberboard) e/ou madeira 35 (...) (...) (...) (...) 18.25 5.704 Tapetes e outros revestimentos para pavimentos, de feltro, exceto os tufados e os flocados, mesmo confeccionados 35 (...) (...) (...) (...) 18.43 7.016 Blocos, placas, tijolos, ladrilhos, telhas, e outros artefatos, de vidro prensado ou moldado, mesmo armado, para a construção, inclusive tijolos de vidro; cubos, pastilhas e outros artigos semelhantes 35 (...) (...) (...) (...) 18.60 7.418 Artefatos de higiene/toucador, e suas partes, de cobre; esponjas, esfregões, luvas e artefatos s",
+        "contexto_sha256": "fb3d440203406057e77506ac98a5adac9b4701fdd0389f99e8271c1387557f3c"
+      },
+      {
+        "evento_indice": 26,
+        "inicio": 12028,
+        "fim": 12031,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " e outros revestimentos para pavimentos, de feltro, exceto os tufados e os flocados, mesmo confeccionados 35 (...) (...) (...) (...) 18.43 7.016 Blocos, placas, tijolos, ladrilhos, telhas, e outros artefatos, de vidro prensado ou moldado, mesmo armado, para a construção, inclusive tijolos de vidro; cubos, pastilhas e outros artigos semelhantes 35 (...) (...) (...) (...) 18.60 7.418 Artefatos de higiene/toucador, e suas partes, de cobre; esponjas, esfregões, luvas e artefatos semelhantes, para banheiro, de cobre 35 (...) (...) (...) (...) 18.81 8516.10.00 8516.80 8516.90.00 Aquecedores elétricos de água e suas partes, incluídos os de imersão, exceto chuveiro elétrico; resistências de aquecimento",
+        "contexto_sha256": "612e4f12f768b0c209da14b27538cb4778b0cee42dee6f519dedad673990c50b"
+      },
+      {
+        "evento_indice": 27,
+        "inicio": 12034,
+        "fim": 12037,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ros revestimentos para pavimentos, de feltro, exceto os tufados e os flocados, mesmo confeccionados 35 (...) (...) (...) (...) 18.43 7.016 Blocos, placas, tijolos, ladrilhos, telhas, e outros artefatos, de vidro prensado ou moldado, mesmo armado, para a construção, inclusive tijolos de vidro; cubos, pastilhas e outros artigos semelhantes 35 (...) (...) (...) (...) 18.60 7.418 Artefatos de higiene/toucador, e suas partes, de cobre; esponjas, esfregões, luvas e artefatos semelhantes, para banheiro, de cobre 35 (...) (...) (...) (...) 18.81 8516.10.00 8516.80 8516.90.00 Aquecedores elétricos de água e suas partes, incluídos os de imersão, exceto chuveiro elétrico; resistências de aquecimento, incl",
+        "contexto_sha256": "ed97a3b1b82dd42c74af2871adc0e56b1bc548622d360700c97d5f9e1aff60f8"
+      },
+      {
+        "evento_indice": 28,
+        "inicio": 12040,
+        "fim": 12043,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "vestimentos para pavimentos, de feltro, exceto os tufados e os flocados, mesmo confeccionados 35 (...) (...) (...) (...) 18.43 7.016 Blocos, placas, tijolos, ladrilhos, telhas, e outros artefatos, de vidro prensado ou moldado, mesmo armado, para a construção, inclusive tijolos de vidro; cubos, pastilhas e outros artigos semelhantes 35 (...) (...) (...) (...) 18.60 7.418 Artefatos de higiene/toucador, e suas partes, de cobre; esponjas, esfregões, luvas e artefatos semelhantes, para banheiro, de cobre 35 (...) (...) (...) (...) 18.81 8516.10.00 8516.80 8516.90.00 Aquecedores elétricos de água e suas partes, incluídos os de imersão, exceto chuveiro elétrico; resistências de aquecimento, inclusive ",
+        "contexto_sha256": "4a1be4d0c0f44a8d30fe1bc4c5e5af60223d946e9fcee32dd4c281abb7c0a216"
+      },
+      {
+        "evento_indice": 29,
+        "inicio": 12046,
+        "fim": 12049,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "entos para pavimentos, de feltro, exceto os tufados e os flocados, mesmo confeccionados 35 (...) (...) (...) (...) 18.43 7.016 Blocos, placas, tijolos, ladrilhos, telhas, e outros artefatos, de vidro prensado ou moldado, mesmo armado, para a construção, inclusive tijolos de vidro; cubos, pastilhas e outros artigos semelhantes 35 (...) (...) (...) (...) 18.60 7.418 Artefatos de higiene/toucador, e suas partes, de cobre; esponjas, esfregões, luvas e artefatos semelhantes, para banheiro, de cobre 35 (...) (...) (...) (...) 18.81 8516.10.00 8516.80 8516.90.00 Aquecedores elétricos de água e suas partes, incluídos os de imersão, exceto chuveiro elétrico; resistências de aquecimento, inclusive as de ",
+        "contexto_sha256": "6c7682a0928456d2b90ece8ab9a9f51aacbd53ce855836cc293ebc836b28c83e"
+      },
+      {
+        "evento_indice": 30,
+        "inicio": 12199,
+        "fim": 12202,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "adrilhos, telhas, e outros artefatos, de vidro prensado ou moldado, mesmo armado, para a construção, inclusive tijolos de vidro; cubos, pastilhas e outros artigos semelhantes 35 (...) (...) (...) (...) 18.60 7.418 Artefatos de higiene/toucador, e suas partes, de cobre; esponjas, esfregões, luvas e artefatos semelhantes, para banheiro, de cobre 35 (...) (...) (...) (...) 18.81 8516.10.00 8516.80 8516.90.00 Aquecedores elétricos de água e suas partes, incluídos os de imersão, exceto chuveiro elétrico; resistências de aquecimento, inclusive as de duchas e chuveiros elétricos e suas partes 35 18.82 8.516 Chuveiros ou duchas elétricos e seus acessórios, exceto resistências de aquecimento; torneiras ",
+        "contexto_sha256": "29653c545e57ea0fc9330af8048441c8f40c901ee752f1c0de322b2cef5af9b5"
+      },
+      {
+        "evento_indice": 31,
+        "inicio": 12205,
+        "fim": 12208,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "os, telhas, e outros artefatos, de vidro prensado ou moldado, mesmo armado, para a construção, inclusive tijolos de vidro; cubos, pastilhas e outros artigos semelhantes 35 (...) (...) (...) (...) 18.60 7.418 Artefatos de higiene/toucador, e suas partes, de cobre; esponjas, esfregões, luvas e artefatos semelhantes, para banheiro, de cobre 35 (...) (...) (...) (...) 18.81 8516.10.00 8516.80 8516.90.00 Aquecedores elétricos de água e suas partes, incluídos os de imersão, exceto chuveiro elétrico; resistências de aquecimento, inclusive as de duchas e chuveiros elétricos e suas partes 35 18.82 8.516 Chuveiros ou duchas elétricos e seus acessórios, exceto resistências de aquecimento; torneiras elétri",
+        "contexto_sha256": "bfe99fdbd017e1261e65264f253311bd5dfcf423f86dbcba7f9ad7abcef4c064"
+      },
+      {
+        "evento_indice": 32,
+        "inicio": 12211,
+        "fim": 12214,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "lhas, e outros artefatos, de vidro prensado ou moldado, mesmo armado, para a construção, inclusive tijolos de vidro; cubos, pastilhas e outros artigos semelhantes 35 (...) (...) (...) (...) 18.60 7.418 Artefatos de higiene/toucador, e suas partes, de cobre; esponjas, esfregões, luvas e artefatos semelhantes, para banheiro, de cobre 35 (...) (...) (...) (...) 18.81 8516.10.00 8516.80 8516.90.00 Aquecedores elétricos de água e suas partes, incluídos os de imersão, exceto chuveiro elétrico; resistências de aquecimento, inclusive as de duchas e chuveiros elétricos e suas partes 35 18.82 8.516 Chuveiros ou duchas elétricos e seus acessórios, exceto resistências de aquecimento; torneiras elétricas 35",
+        "contexto_sha256": "f5da6aa08c8088ad19d96cefcf591634c4179bdc86018e9cefb732e130aa1903"
+      },
+      {
+        "evento_indice": 33,
+        "inicio": 12217,
+        "fim": 12220,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "e outros artefatos, de vidro prensado ou moldado, mesmo armado, para a construção, inclusive tijolos de vidro; cubos, pastilhas e outros artigos semelhantes 35 (...) (...) (...) (...) 18.60 7.418 Artefatos de higiene/toucador, e suas partes, de cobre; esponjas, esfregões, luvas e artefatos semelhantes, para banheiro, de cobre 35 (...) (...) (...) (...) 18.81 8516.10.00 8516.80 8516.90.00 Aquecedores elétricos de água e suas partes, incluídos os de imersão, exceto chuveiro elétrico; resistências de aquecimento, inclusive as de duchas e chuveiros elétricos e suas partes 35 18.82 8.516 Chuveiros ou duchas elétricos e seus acessórios, exceto resistências de aquecimento; torneiras elétricas 35 (...)",
+        "contexto_sha256": "29048d1d97673ec7a2e80ca36aef46536b83e1f1641a6751c54a2cf47980de2a"
+      },
+      {
+        "evento_indice": 34,
+        "inicio": 12566,
+        "fim": 12569,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "(...) 18.81 8516.10.00 8516.80 8516.90.00 Aquecedores elétricos de água e suas partes, incluídos os de imersão, exceto chuveiro elétrico; resistências de aquecimento, inclusive as de duchas e chuveiros elétricos e suas partes 35 18.82 8.516 Chuveiros ou duchas elétricos e seus acessórios, exceto resistências de aquecimento; torneiras elétricas 35 (...) (...) (...) (...) 19.7 4.820 Caderno, caderneta e bloco escolares; refil e bloco para fichário; agenda 29,89 (...) (...) (...) (...) 19.38 3926.10.00 4420.90.00 4202.31.00 4202.32.00 Estojo escolar; estojo para objetos de escrita 29.89 19.39 8304.00.00 Porta-canetas 29,89 22.1 4016.99.90 Ferramentas de borracha vulcanizada não endurecida 37 22.2 ",
+        "contexto_sha256": "43442ed37ef873c363afdda55e4252032e71856c24eb35fd9219c7d9a4d8db27"
+      },
+      {
+        "evento_indice": 35,
+        "inicio": 12572,
+        "fim": 12575,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "18.81 8516.10.00 8516.80 8516.90.00 Aquecedores elétricos de água e suas partes, incluídos os de imersão, exceto chuveiro elétrico; resistências de aquecimento, inclusive as de duchas e chuveiros elétricos e suas partes 35 18.82 8.516 Chuveiros ou duchas elétricos e seus acessórios, exceto resistências de aquecimento; torneiras elétricas 35 (...) (...) (...) (...) 19.7 4.820 Caderno, caderneta e bloco escolares; refil e bloco para fichário; agenda 29,89 (...) (...) (...) (...) 19.38 3926.10.00 4420.90.00 4202.31.00 4202.32.00 Estojo escolar; estojo para objetos de escrita 29.89 19.39 8304.00.00 Porta-canetas 29,89 22.1 4016.99.90 Ferramentas de borracha vulcanizada não endurecida 37 22.2 4417.0",
+        "contexto_sha256": "608df9e0dfaa2bb0ee13316dcb022b63931ced598ea6967f8a2028e02373442a"
+      },
+      {
+        "evento_indice": 36,
+        "inicio": 12578,
+        "fim": 12581,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "8516.10.00 8516.80 8516.90.00 Aquecedores elétricos de água e suas partes, incluídos os de imersão, exceto chuveiro elétrico; resistências de aquecimento, inclusive as de duchas e chuveiros elétricos e suas partes 35 18.82 8.516 Chuveiros ou duchas elétricos e seus acessórios, exceto resistências de aquecimento; torneiras elétricas 35 (...) (...) (...) (...) 19.7 4.820 Caderno, caderneta e bloco escolares; refil e bloco para fichário; agenda 29,89 (...) (...) (...) (...) 19.38 3926.10.00 4420.90.00 4202.31.00 4202.32.00 Estojo escolar; estojo para objetos de escrita 29.89 19.39 8304.00.00 Porta-canetas 29,89 22.1 4016.99.90 Ferramentas de borracha vulcanizada não endurecida 37 22.2 4417.00.10 F",
+        "contexto_sha256": "999bce97fde81a50e5917ca3a491f8d247bb9dd41830aa020e2812e9a023bfbe"
+      },
+      {
+        "evento_indice": 37,
+        "inicio": 12584,
+        "fim": 12587,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "0.00 8516.80 8516.90.00 Aquecedores elétricos de água e suas partes, incluídos os de imersão, exceto chuveiro elétrico; resistências de aquecimento, inclusive as de duchas e chuveiros elétricos e suas partes 35 18.82 8.516 Chuveiros ou duchas elétricos e seus acessórios, exceto resistências de aquecimento; torneiras elétricas 35 (...) (...) (...) (...) 19.7 4.820 Caderno, caderneta e bloco escolares; refil e bloco para fichário; agenda 29,89 (...) (...) (...) (...) 19.38 3926.10.00 4420.90.00 4202.31.00 4202.32.00 Estojo escolar; estojo para objetos de escrita 29.89 19.39 8304.00.00 Porta-canetas 29,89 22.1 4016.99.90 Ferramentas de borracha vulcanizada não endurecida 37 22.2 4417.00.10 Ferrame",
+        "contexto_sha256": "a544bec8d74bcb0a39e99a9fd11c34e62206882493247176287971313c63391d"
+      },
+      {
+        "evento_indice": 38,
+        "inicio": 12681,
+        "fim": 12684,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "eto chuveiro elétrico; resistências de aquecimento, inclusive as de duchas e chuveiros elétricos e suas partes 35 18.82 8.516 Chuveiros ou duchas elétricos e seus acessórios, exceto resistências de aquecimento; torneiras elétricas 35 (...) (...) (...) (...) 19.7 4.820 Caderno, caderneta e bloco escolares; refil e bloco para fichário; agenda 29,89 (...) (...) (...) (...) 19.38 3926.10.00 4420.90.00 4202.31.00 4202.32.00 Estojo escolar; estojo para objetos de escrita 29.89 19.39 8304.00.00 Porta-canetas 29,89 22.1 4016.99.90 Ferramentas de borracha vulcanizada não endurecida 37 22.2 4417.00.10 Ferramentas de madeira 37 22.3 6.804 Mós e artefatos semelhantes, sem armação, para moer, desfibrar, tri",
+        "contexto_sha256": "6378ca25a85e204d8af4721ff8395bbd3962b3092c066d24a74808c5df8c98f7"
+      },
+      {
+        "evento_indice": 39,
+        "inicio": 12687,
+        "fim": 12690,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "uveiro elétrico; resistências de aquecimento, inclusive as de duchas e chuveiros elétricos e suas partes 35 18.82 8.516 Chuveiros ou duchas elétricos e seus acessórios, exceto resistências de aquecimento; torneiras elétricas 35 (...) (...) (...) (...) 19.7 4.820 Caderno, caderneta e bloco escolares; refil e bloco para fichário; agenda 29,89 (...) (...) (...) (...) 19.38 3926.10.00 4420.90.00 4202.31.00 4202.32.00 Estojo escolar; estojo para objetos de escrita 29.89 19.39 8304.00.00 Porta-canetas 29,89 22.1 4016.99.90 Ferramentas de borracha vulcanizada não endurecida 37 22.2 4417.00.10 Ferramentas de madeira 37 22.3 6.804 Mós e artefatos semelhantes, sem armação, para moer, desfibrar, triturar,",
+        "contexto_sha256": "27316b65286165b8bf63b6e9cd877160374fe9b1d2d2dd935e53f8d310cd2c88"
+      },
+      {
+        "evento_indice": 40,
+        "inicio": 12693,
+        "fim": 12696,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " elétrico; resistências de aquecimento, inclusive as de duchas e chuveiros elétricos e suas partes 35 18.82 8.516 Chuveiros ou duchas elétricos e seus acessórios, exceto resistências de aquecimento; torneiras elétricas 35 (...) (...) (...) (...) 19.7 4.820 Caderno, caderneta e bloco escolares; refil e bloco para fichário; agenda 29,89 (...) (...) (...) (...) 19.38 3926.10.00 4420.90.00 4202.31.00 4202.32.00 Estojo escolar; estojo para objetos de escrita 29.89 19.39 8304.00.00 Porta-canetas 29,89 22.1 4016.99.90 Ferramentas de borracha vulcanizada não endurecida 37 22.2 4417.00.10 Ferramentas de madeira 37 22.3 6.804 Mós e artefatos semelhantes, sem armação, para moer, desfibrar, triturar, amola",
+        "contexto_sha256": "4c08f69adac7b45d18740c8d2d1b460fc9c39e4b749106cd511de339f2d99f6b"
+      },
+      {
+        "evento_indice": 41,
+        "inicio": 12699,
+        "fim": 12702,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ico; resistências de aquecimento, inclusive as de duchas e chuveiros elétricos e suas partes 35 18.82 8.516 Chuveiros ou duchas elétricos e seus acessórios, exceto resistências de aquecimento; torneiras elétricas 35 (...) (...) (...) (...) 19.7 4.820 Caderno, caderneta e bloco escolares; refil e bloco para fichário; agenda 29,89 (...) (...) (...) (...) 19.38 3926.10.00 4420.90.00 4202.31.00 4202.32.00 Estojo escolar; estojo para objetos de escrita 29.89 19.39 8304.00.00 Porta-canetas 29,89 22.1 4016.99.90 Ferramentas de borracha vulcanizada não endurecida 37 22.2 4417.00.10 Ferramentas de madeira 37 22.3 6.804 Mós e artefatos semelhantes, sem armação, para moer, desfibrar, triturar, amolar, pol",
+        "contexto_sha256": "3512b1e10eb9d464e63fc498bf2ae366fb7b89489425a7ed459349efd9e7e223"
+      }
+    ],
+    "body_sha256": "dd1d82fe912f25e3f56733d43c70530cf0d458de975e9128e9c94f709038431e",
+    "trecho_inicial": "---\ntitulo: \"Decreto nº 44420, de 20/12/2006\"\nuf: \"MG\"\ntipo: \"Decreto\"\nnumero: \"44420\"\ndata: 2006-12-20\nementa: \"ALTERA O REGULAMENTO DO ICMS, APROVADO PELO DECRETO Nº 43.080, DE 13 DE DEZEMBRO DE 2002.\"\nsituacao: \"Revogada\"\nrevogada: true\nversao_texto: \"atualizada\"\nfonte: \"https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/44420/2006/documento?tipoDoc=572\"\nbaixado_em: 2026-10-16\n---\n# Decreto nº 44420, de 20/12/2006\n\nAltera o Regulamento do ICMS, aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002.\n\n(O Decreto nº 44.420, de 20/12/2006, foi revogado pelo item 132 do Anexo do Decreto nº 48.590, de 22/3/2023.)\n\n(Vide art. 1º do Decreto nº 48.590, de 22/3/2023.)\n\nO GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso de atribuição que lhe confere o inciso VII do art. 90, da Constituição do Estado, e tendo em vista o disposto no Convênio ICMS 112/06, no Protocolo ICMS 39/06 e no art. 9º, art. 12, §§ 30 e 31, art. 13, § 19, 2, art. 22, § 8º, 1, art. 29, § 8º, art. 32-A e art. 32-B da Lei nº 6.763, de 26 de dezembro de 1975,\n\nDECRETA:\n\n**Art. 1º** O Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n\"Art. 42. .......................................................\n\nI - .............................................................\n\nb.16 - absorvente higiênico feminino, papel higiênico folha simples, creme dental e escova dental, exceto elétrica, a bateria, a pilha ou similar, até 31 de dezembro de 2007;\n\nb.17 - água sanitária, sabão em barra de até 500g (quinhentos gramas), desinfetante e álcool gel, até 31 de dezembro de 2007;\n\nb.18 - caderno escolar tipo brochura, lápis escolar, borracha escolar, régua escolar, lápis de cor, giz e apontador para lápis escolar, exceto elétrico, a bateria, a pilha ou similar, até 31 de dezembro de 2007;\n\nb.19 - uniforme escolar, assim entendido a peça de vestuário que contenha externamente a identificação da respectiva instituição de ensino, até 31 de dezembro de 2007;\n\nb.20 - papel cortado tipos A4, ofício I e II e carta, até 31 de dezembro de 2007;\n\nb.21 - porta de aglomerado ou medium density fiberboard - MDF - com até 70 cm (setenta centímetros) de largura, ripas e caibros, até 31 de dezembro de 2007;\n\nb.22 - laje pré-fabricada, telhas metálicas, forma-lajes metálicas, pontes metálicas, elementos de pontes metálicas, pórticos metálicos e torres de transmissão metálicas, até 31 de dezembro de 2007;\n\nb.23 - elevadores, até 31 de dezem",
+    "trecho_final": "a, meteorologia ou de geofísica, exceto bússulas; telêmetros 37 22.34 9017.20.00 9017.30 9017.80 9017.90.90 Instrumentos de desenho, de traçado ou de cálculo; metros, micrômetros, paquímetros, calibres e semelhantes; partes e acessórios 37 22.35 9024.10.20 Máquinas e aparelhos para ensaios de dureza 37 22.36 9025.11.90 9025.90.90 Termômetros, exceto os clínicos, suas partes e acessórios 37 22.37 9025.19 9025.90.90 Pirômetros, suas partes e acessórios 37 22.38 9028.10 9028.90.90 Contadores de gases, suas partes e acessórios 37 22.39 9028.20 9028.90.90 Contadores de líquidos, suas partes e acessórios 37 22.40 9.029 Outros contadores (por exemplo: contadores de voltas, contadores de produção, totalizadores de caminho percorrido, podômetros, excluídos os taxímetros); indicadores de velocidade e tacômetros, exceto os das posições 90.14 ou 90.15; estroboscópios; inclusive suas partes e acessórios 37 22.41 9.031 Instrumentos, aparelhos e máquinas de medida ou controle, não especificados nem compreendidos em outras posições do presente capítulo; projetores de perfis; suas partes e acessórios; exceto aparelhos digitais de uso em veículos automóveis-NBM 9031.80.40, aparelhos para análise de têxteis, computadorizados-NBM 9031.80.50 e células de carga-NBM 9031.80.60 37\n\n(nr)\".\n\n**Art. 3º** O parágrafo único do art. 115 da Parte 1 do Anexo IX do RICMS passa a constituir o § 1º do referido artigo.\n\n**Art. 4º** Este Decreto entra em vigor:\n\nI - no décimo dia após a sua publicação, relativamente ao art. 115 da Parte 1 do Anexo IX do RICMS;\n\nII - na data de sua publicação, relativamente:\n\na) ao art. 222, XIII, do RICMS;\n\nb) aos itens 62 e 63 da Parte 1 do Anexo II do RICMS;\n\nc) ao art. 335 da Parte 1 do Anexo IX do RICMS;\n\nd) ao art. 46, § 2º, da Parte 1 do Anexo XV do RICMS;\n\nIII - em 1º de dezembro de 2006, relativamente aos arts. 27 e 37 do Anexo VIII do RICMS;\n\nIV - em 1º de janeiro de 2007, relativamente:\n\na) aos arts. 42 e 75 do RICMS;\n\nb) à Parte 2 do Anexo XV do RICMS.\n\n**Art. 5º** Ficam revogados:\n\nI - a partir de 1º de dezembro de 2006, o § 13 do art. 27 do Anexo VIII do RICMS;\n\nII - a partir da publicação deste Decreto, o subitem 19.31 da Parte 2 do Anexo XV do RICMS.\n\nPalácio da Liberdade, em Belo Horizonte, 20 de dezembro de 2006; 218º da Inconfidência Mineira e 185º da Independência do Brasil.\n\nAÉCIO NEVES\n\nDanilo de Castro\n\nAntônio Augusto Junho Anastasia\n\nFuad Noman\n\n==================================================\n\nData da última atualização: 24/3/2023.\n",
+    "aplicado": false
+  }
+]

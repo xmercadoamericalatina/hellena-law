@@ -1,0 +1,24 @@
+{
+  "estado": "aprovado_raiz_aguarda_stage_formato_commit_push",
+  "novos_documentos": 14691,
+  "HEAD_base": "c6dd4f2372ac23f00db298159b3759c68f333824",
+  "aprovacao": "estaduais/MG/_indice/_auditoria-mg16811-20261016/aprovacao-publicacao14691-raiz.json",
+  "sha256_aprovacao": "571489cb793f046856ecbfa73257f7408a7c8792cf23c23909c743f8db3f060b",
+  "manifesto": "estaduais/MG/_indice/_auditoria-mg16811-20261016/manifesto-fechamento-publicacao-14691.json",
+  "sha256_manifesto": "a9e3d13febc429cadecf6bf849a765256363637b6ef7c3f74603001de0aa2137",
+  "coorte": {
+    "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/manifesto-coorte-contextual-final-20261016.json",
+    "sha256": "c57efc897516663c5454dc9b0deda3967acbd92bf08ee5b85a26da0f40e2ed20",
+    "bytes": 12954
+  },
+  "retidos_anteriores": 2088,
+  "retidos_contextuais": 32,
+  "retidos_total": 2120,
+  "progresso": "Recalculado no indice pelo hook em cada commit; meta original preservada.",
+  "limites": [
+    "Contagem de documentos coletados; nao certificacao juridica/editorial.",
+    "Confronto completo fonte/MD/metadados anterior encadeado por SHA; revisao contextual com cobertura e limites por caso.",
+    "API fornece quadros lineares; geometria editorial original nao certificada.",
+    "2120pendencias mantidas fora;nenhuma reducao de meta."
+  ]
+}

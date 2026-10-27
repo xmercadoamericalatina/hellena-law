@@ -1,0 +1,14 @@
+{
+  "path": "estaduais/MG/decretos/2003/dec-43161-2003.md",
+  "md_sha256": "8a6503552543f0833f2365fe96a8ef7855e73f9f4e14c5544b35b6030caa87b5",
+  "observacao": "Zero adicional literal no quadroTOTALlinha1941; nao removido doMD. Isolamento abaixo e somente comparacao diagnostica.",
+  "meses_identicos": true,
+  "texto_nao_numerico_igual": true,
+  "numerais_mes": 101,
+  "numerais_total": 102,
+  "posicao_token_extra": 48,
+  "token_extra": "0",
+  "apos_isolar_extra_sem_alterar_fonte_numeros_iguais_ou_triplos": true,
+  "divergencias": [],
+  "conclusao": "Preservar zero como inconsistencia literal; todos os identificadores e demais valores/rotulos do quadro permanecem presentes. Reticencias entrequadros sao separadores, nao evidencia positiva de omissao. Nenhuma mudanca deMD."
+}

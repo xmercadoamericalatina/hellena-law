@@ -1,0 +1,337 @@
+{
+  "total": 15,
+  "com_dispositivo": 13,
+  "retidos": 2,
+  "documentos": [
+    {
+      "path": "estaduais/MG/decretos-nao-numerados/2006/dsn-2850-2006.md",
+      "md_sha256": "9a21f98a0c8a24d2342aaf1aa2d06db256924c508ba202a79d931a6bce6bb6b6",
+      "fonte_sha256": "dda9ad86472f7aad7c3a280ec4eb05e68fa230ff0eada3cccff55ee9a129b164",
+      "XML": {
+        "path": "estaduais/MG/_indice/documentos/dsn-2850-2006.xml.gz",
+        "sha256": "56a9237da4f2c2231be184ae204783361f8e6dcf07de1b11ad72803faabb22a2",
+        "matching_conteudo": [
+          {
+            "siglaTipoNorma": "DSN",
+            "numero": "2850",
+            "ano": "2006",
+            "codTipoDocumento": "142",
+            "dataAtualizacao": "2013-01-10"
+          }
+        ]
+      },
+      "decisao": "reter_template_sem_texto_proprio",
+      "fundamento": "Fonte possui apenas cabeçalho, data embranco aos . eassinaturas-placeholder; corpo normativo inexistente.",
+      "fonte_texto_integral": "Decreto sem Número Nº 2.850\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPalácio da Inconfidência, em Belo Horizonte, aos .\n\n\n\n\n\n_________________________________\n\n- Presidente\n\n_________________________________\n\n- 1º-Vice-Presidente\n\n_________________________________\n\n- 2º-Vice-Presidente\n\n_________________________________\n\n- 1º-Secretário\n\n_________________________________\n\n- 2ª-Secretária\n\n\n\n",
+      "limite": "Decisão destealerta; demaisgates não dispensados."
+    },
+    {
+      "path": "estaduais/MG/decretos-nao-numerados/2007/dsn-2924-2007.md",
+      "md_sha256": "8b41fa867242f510d9ebc409077f7f510b1c731a3bba1abaaafdd02a32d396e2",
+      "fonte_sha256": "112b5d1b364193b663f71ffa6018a4d9ed2853ea796982338daf49a2304e5378",
+      "XML": {
+        "path": "estaduais/MG/_indice/documentos/dsn-2924-2007.xml.gz",
+        "sha256": "2037aac841de6def17982181978cdfc642e946b0c42f18ca4315a78736b0301a",
+        "matching_conteudo": [
+          {
+            "siglaTipoNorma": "DSN",
+            "numero": "2924",
+            "ano": "2007",
+            "codTipoDocumento": "142",
+            "dataAtualizacao": "2007-03-28"
+          }
+        ]
+      },
+      "decisao": "dispositivo_proprio_confirmado_contextualmente",
+      "fundamento": "Arts1–4 próprios sobre desapropriação, preâmbulo/fecho eassinaturaAécio; ausência da palavraDECRETA não omite dispositivo.",
+      "fonte_texto_integral": "Declara de utilidade pública, para desapropriação de pleno domínio, terrenos e benfeitorias necessárias à melhoramento e pavimentação da Rodovia MG/307 Cristália - Grão Mogol - Entrº Br/251 - Trecho: Entrº Grão Mogol - Cristália, pelo Departamento de Estradas de Rodagem do Estado de Minas Gerais - DER/MG. O Governador do Estado de Minas Gerais, no uso de atribuição que lhe confere o inciso VII do art. 90, da Constituição do Estado, e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de l941, DECETA: Art. 1º - Para desapropriação de pleno domínio, mediante acordo ou judicialmente, pelo Departamento de Estradas de Rodagem do Estado de Minas Gerais - DER/MG, são declarados de utilidade pública, uma área de 280,00m de extensão e 160,00m de largura, localizada adjacente a faixa de domínio entre as estacas 196 a 210 LE da MG-307 - Trecho: Cristália - Entrº Grão Mogol, destinada a extração de material necessários à melhoramentos e pavimentação da rodovia MG-307 - Trecho: Cristália - Grão Mogol, perfazendo uma área total de 44.800,00 m²(quarenta e quatro mil e oitocentos metros quadrados). Art. 2º - Os elementos topográficos referentes à delimitação da área de empréstimo, assim como os demais dados técnicos contidos no Projeto de Engenharia do Trecho em questão, encontram- se arquivados no Departamento de Estradas de Rodagem do Estado de Minas Gerais - DER/MG. Art. 3º - O Departamento de Estradas de Rodagem do Estado de Minas Gerais - DER/MG, por intermédio da Advocacia-Geral do Estado - AGE, fica autorizado a promover a desapropriação dos terrenos referidos no art. 1º do Decreto-Lei nº 3.365, de 21 de junho de l941. Art. 4º - Este Decreto entra em vigor na data de sua publicação. Palácio da Liberdade, em Belo Horizonte, aos 26 de janeiro de 2007; 219º da Inconfidência Mineira e 186 da Independência do Brasil. Aécio Neves - Governador do Estado.",
+      "limite": "Decisão destealerta; demaisgates não dispensados."
+    },
+    {
+      "path": "estaduais/MG/decretos-nao-numerados/2009/dsn-5226-2009.md",
+      "md_sha256": "86ae850b99ffc16ece0bab6ebf342d0017a5a0c7886a95afa71389ab11a7b2db",
+      "fonte_sha256": "6cbf3f2768873371ad4278b0ad0b2d48f5f1238552624478001956b49b014bd9",
+      "XML": {
+        "path": "estaduais/MG/_indice/documentos/dsn-5226-2009.xml.gz",
+        "sha256": "743bb0dfabd47414269d6085ff1a23a9a5d20fb535a3472ed2aa20babfe04732",
+        "matching_conteudo": [
+          {
+            "siglaTipoNorma": "DSN",
+            "numero": "5226",
+            "ano": "2009",
+            "codTipoDocumento": "142",
+            "dataAtualizacao": "2009-08-18"
+          }
+        ]
+      },
+      "decisao": "dispositivo_proprio_confirmado_contextualmente",
+      "fundamento": "Arts1–2 próprios alteram terreno doTerminalBetim; preâmbulo/fecho17agosto2009 eassinaturas presentes.",
+      "fonte_texto_integral": "Altera Decreto de 17 de julho de 2009, que declara de utilidade pública, para desapropriação de pleno domínio, terreno e benfeitorias necessários à construção do Terminal Rodoviário Metropolitano de Transporte Betim - Bairro Jardim Teresópolis, no Município de Betim. O GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso de atribuição que lhe confere o inciso VII do art. 90, da Constituição do Estado, e tendo em vista o disposto no Decreto-Lei Federal nº 3.365, de 21 de junho de 1941, Art. 1º Fica acrescentado ao Decreto de 17 de julho de 2009, que declara de utilidade pública, para desapropriação de pleno domínio, terreno e benfeitorias necessários à construção do Terminal Rodoviário Metropolitano de Transporte Betim - Bairro Jardim Teresópolis, no Município de Betim, o seguinte art. 6º: \"Art. 6º Fica revogado o Decreto de 24 de setembro de 2008, que declara de utilidade pública, para desapropriação de pleno domínio, terrenos e benfeitorias necessários à construção do Terminal Rodoviário Cidade Verde, localizado no Bairro Cidade Verde, no Município de Betim.\" Art. 2º Este Decreto entra em vigor na data de sua publicação. Palácio da Liberdade, em Belo Horizonte, aos 17 de agosto de 2009; 221º da Inconfidência Mineira e 188º da Independência do Brasil. AÉCIO NEVES Danilo de Castro Renata Maria Paes de Vilhena Fuad Jorge Noman Filho José Bonifácio Borges de Andrada",
+      "limite": "Decisão destealerta; demaisgates não dispensados."
+    },
+    {
+      "path": "estaduais/MG/decretos/2000/dec-40876-2000.md",
+      "md_sha256": "704be16ae2357f297412c46e4f55ffc87a35e5e0f39d4515d6186cfdc8edb7d6",
+      "fonte_sha256": "f3f895a93989a09018a4d3d8509b29ca7de80db1cda6668e06e2a9307781f285",
+      "XML": {
+        "path": "estaduais/MG/_indice/documentos/dec-40876-2000.xml.gz",
+        "sha256": "8ebf72b59930c77098b17ca9dd01d157fd0ad24ab204745e4b926b1ca9f50ae1",
+        "matching_conteudo": [
+          {
+            "siglaTipoNorma": "DEC",
+            "numero": "40876",
+            "ano": "2000",
+            "codTipoDocumento": "572",
+            "dataAtualizacao": "2015-07-22"
+          }
+        ]
+      },
+      "decisao": "reter_fonte_textual_corrompida",
+      "fundamento": "Perda sistemática daletra t no próprio cache: Decrea/Siuação/Esado/Consiuição/Ar.2/Iamar; baselineigual não é recuperação.",
+      "fonte_texto_integral": "\nDecrea Siuação de Emergência nos municípios que menciona.\n\n\n\n\n\n(Vide ar. 1º do Decreo nº 40.923, de 15/2/2000.)\n\n\n\nO Governador do Esado de Minas Gerais, no uso de aribuição que lhe confere o arigo 90, inciso VII da Consiuição do Esado, e endo em visa o disposo no arigo 1º, § 2º do Decreo nº 19.077, de 17 de fevereiro de 1978, e;\n\n\n\nCONSIDERANDO QUE:\n\n\n\n- as rombas-d’água que caíram no Sul de Minas ocasionaram enchenes e inundações e fores chuvas concenradas, no período de 31Dez99 a 17Jan2000, aingindo diversos municípios, desabrigando/desalojando aproximadamene 80.000 (oiena mil) pessoas, causando ainda 12 (doze) víimas faais;\n\n- como conseqüência dese desasre, resularam os danos e prejuízos documenados nos Formulários de Avaliação de Danos que foram revios pelo Órgão de Coordenação da Defesa Civil Esadual;\n\n- de acordo com a Resolução nº 3 do Conselho Nacional de Defesa Civil, o nível de inesidade do desasre foi de nível IV em odos os municípios;\n\n- concorrem como faores agravanes da siuação de anormalidade: o crescimeno desordenado de grande pare dos municípios, com várias consruções em área de risco de desabameno; os riscos além de concreos e efeivamene prováveis, se mosram iminenes e especialmene com endência para agravameno;\n\n- o índice pluviomérico das chuvas em muio ulrapassou a capacidade normal de conenção das margens dos rios que correm na região Sul do Esado, inundando cidades e campo, com graves danos maeriais aos bens públicos e privados, danificando em especial pones e esradas de oda ordem, vicinais e municipais;\n\n\n\nD E C R E A :\n\n\n\nAr. 1º - Fica decreado Siuação de Emergência, por um período de 30 (rina) dias, nos municípios de Alberina, Alpinópolis, Baependi, Bandeira do Sul, Brasópolis, Cachoeira de Minas, Caldas, Cambuí, Campesre, Carmo de Minas, Caxambu, Conceição dos Ouros, Consolação, Delfim Moreira, Guaranésia, Ibiiura de Minas, Ilicínea, Jesuânia, Lambari, Marmelópolis, Minduri, Ouro Fino, Piranguçu, Poços de Caldas, Pouso Alo, Sana Ria de Caldas, Sanana da Vargem, São José do Alegre, São Sebasião da Bela Visa, Senador José Beno, Seriinga, Serranos, ocos do Moji e Wenceslau Braz.\n\n\n\nAr. 2º - Ese Decreo enra em vigor na daa de sua publicação.\n\n\n\nPalácio da Liberdade, em Belo Horizone, aos 18 de janeiro de 2000.\n\n\n\nIamar Franco - Governador do Esado\n\n\n\n======================================\n\nDaa da úlima aualização: 21/7/2014.",
+      "limite": "Decisão destealerta; demaisgates não dispensados."
+    },
+    {
+      "path": "estaduais/MG/deliberacoes/1995/dlb-1103-1995.md",
+      "md_sha256": "2398fa5af7d31bdf54fbd76404ecd00ea6db05885e27aa01671e1a7ae520e4c6",
+      "fonte_sha256": "3e9eb1578b3a187ed3165c1fca50543f9d039588f976461c81350ccb7e498a38",
+      "XML": {
+        "path": "estaduais/MG/_indice/documentos/dlb-1103-1995.xml.gz",
+        "sha256": "f82dedbf72320d91fcf0fddee56d82a151db81feae78f0d06172efe4366eb3d6",
+        "matching_conteudo": [
+          {
+            "siglaTipoNorma": "DLB",
+            "numero": "1103",
+            "ano": "1995",
+            "codTipoDocumento": "142",
+            "dataAtualizacao": "2016-12-28"
+          }
+        ]
+      },
+      "decisao": "dispositivo_proprio_confirmado_contextualmente",
+      "fundamento": "ComandoDECIDE, itens1/2próprios efecho3janeiro1995; não exige artigos numerados.",
+      "fonte_texto_integral": "\n\n\nA Mesa da Assembléia, no uso de suas atribuições, em especial do que dispõe o art. 80, item V, da Resolução 5.065, de 31 de maio de 1990 e, considerando a necessidade de regulamentar os serviços referentes ao controle das áreas de estacionamento de veículos de Deputados e servidores, no recinto interno da Assembléia Legislativa,\n\n\n\nDECIDE:\n\n\n\n1 – Determinar à administração, através da Diretoria-Geral, a elaboração de regulamento próprio, para acesso e utilização das áreas internas de estacionamento, observadas as seguintes diretrizes:\n\n1.1 – o gerenciamento das áreas será de competência da Secretaria Administrativo Operacional, através de sua Gerência de Orientação e Segurança;\n\n1.2 – o horário de funcionamento será de 07 às 20 hs, de segunda a sexta-feira, salvo quando houver reuniões extraordinárias de Plenário ou eventos promovidos pela Casa;\n\n1.3 – a área de estacionamento do Palácio da Inconfidência, denominada GARAGEM “A”, é restrita a Deputados, Diretoria-Geral, Secretaria-Geral da Mesa e jornalistas credenciados através do CEPO e a via de acesso à imprensa, autoridades e deficientes físicos;\n\n1.4 – os estacionamentos denominados “C” e “D” e as áreas do Ed. Tiradentes e Forluz, serão destinados na forma de regulamento próprio, reservada uma vaga para cada parlamentar e, as demais preferencialmente, atendida a necessidade de serviço ao servidor ocupante de cargo ou função da estrutura administrativa;\n\n1.5 – o acesso às dependências somente será permitido aos proprietários de veículos credenciados junto à Gerência de Orientação e Segurança, nos termos do regulamento.\n\n1.6 – a responsabilidade sobre veículos, bens deixados em seu interior e/ou danos causados a terceiros, será única e exclusivamente do usuário, que assinará termo próprio, por ocasião do credenciamento.\n\n\n\n2. Esta Deliberação entra em vigor na data de sua publicação, revogadas as disposições em contrário, em especial as Deliberações nºs 47 e 48, de 10 de maio de 1967.\n\n\n\nSala de Reuniões da Mesa aos 3 de janeiro de 1995.\n\n\n\nJosé Ferraz, Presidente\n\nRêmolo Aloise\n\nElmo Braz\n\nElmiro Nascimento\n\n",
+      "limite": "Decisão destealerta; demaisgates não dispensados."
+    },
+    {
+      "path": "estaduais/MG/portarias/1998/prt-34-1998.md",
+      "md_sha256": "8ebac604fe61b3f4b1eea50d82a3aa9d06acf79326392963ff6df54b3c8553f0",
+      "fonte_sha256": "67944a56c487fbbbe4a3b4cd99e96b450fa97daf41dddf9670e79f564c9b830e",
+      "XML": {
+        "path": "estaduais/MG/_indice/documentos/prt-34-1998.xml.gz",
+        "sha256": "89d949fc2f8064d1c2ec923a3348f647c43e8b4e01598e05afa0f17245eddccf",
+        "matching_conteudo": [
+          {
+            "siglaTipoNorma": "PRT",
+            "numero": "34",
+            "ano": "1998",
+            "codTipoDocumento": "572",
+            "dataAtualizacao": "2026-08-11"
+          }
+        ]
+      },
+      "decisao": "dispositivo_proprio_confirmado_contextualmente",
+      "fundamento": "Autoridades próprias regulamentam(o texto concatena regulamentamo) funcionamento dosConselhos; itens efecho28maio1998 presentes.",
+      "fonte_texto_integral": "\n.\n\n\n\n(A Portaria da ALMG nº 34, de 28 de maio de 1998, foi revogada pelo art. 9º da Deliberação da Mesa da ALMG n º 2.594, de 25/8/2014.)\n\n\n\nO Presidente e o 1º-Secretário da Assembléia Legislativa e Diretor-Geral da Escola do Legislativo, no uso de suas atribuições, regulamentamo funcionamento dos Conselhos Consultivo Escolar e de Administração de Pessoal, de que tratam os artigos 8º e 9º, da Deliberação da Mesa nº 1.542, de 11 de maio de 1998:\n\n\n\n1- O Conselho Consultivo Escolar reunir-se-á, ordinariamente, quatro vezes por mês e, extraordinariamente, sempre que convocado por seu Presidente.\n\n1.1 - As reuniões serão presididas pelo Diretor-Geral da Escola e secretariadas pelo titular da Assessoria de Planejamento Estratégico.\n\n1.2 - Duas reuniões ordinárias do mês serão realizadas no âmbito de cada uma das unidades constantes nos itens 3 a 5 do Anexo II da Deliberação da Mesa nº 1.542, de 11 de maio de 1998, com as respectivas Assessorias Especiais, devendo ser secretariadas por servidor indicado pelo titular da unidade, para tratar da implementação das decisões do Conselho e subsidiar o Diretor em assuntos estratégicos de sua unidade.\n\n2 - O Conselho de Administração de Pessoal reunir-se-á, ordinariamente, duas vezes por mês e, extraordinariamente, sempre que convocado por seu Presidente ou por seu Coordenador.\n\n2.1 - As reuniões serão coordenadas pelo Diretor Administrativo e Financeiro e secretariadas por servidor por ele indicado.\n\n3 - De cada reunião será lavrada ata, que será encaminhada à Assessoria de Planejamento Estratégico para acompanhamento da execução do planejamento institucional.\n\n4 - Aplica-se aos Conselhos de que trata esta Portaria, no que couber, o disposto no art. 5º da Deliberação da Mesa nº 1.542, de 11 de maio de 1998.\n\n\n\nPalácio da Inconfidência, em Belo Horizonte, aos 28 de maio de 1998.\n\n\n\nDeputado Romeu Queiroz - Presidente da ALMG\n\nDeputado Elmo Braz - 1º-Secretário\n\nDalmir de Jesus - Diretor-Geral da Escola do Legislativo\n\n\n\n\n\n=============\n\nData da última atualização: 1/9/2014.",
+      "limite": "Decisão destealerta; demaisgates não dispensados."
+    },
+    {
+      "path": "estaduais/MG/portarias/1999/prt-1427-1999.md",
+      "md_sha256": "47c3a1a2bf3dd91dba7d49023920cff3305e72b0ef576265786461ae55f7730a",
+      "fonte_sha256": "cbaa05909d9f81178890874031af74c102e249c9bdd11bce45b559e0ec5cfd7b",
+      "XML": {
+        "path": "estaduais/MG/_indice/documentos/prt-1427-1999.xml.gz",
+        "sha256": "b7abd19f80b401f48f13d7f4152014e1b0edf37e3fb8068ff426d52719cbe466",
+        "matching_conteudo": [
+          {
+            "siglaTipoNorma": "PRT",
+            "numero": "1427",
+            "ano": "1999",
+            "codTipoDocumento": "572",
+            "dataAtualizacao": "2025-03-12"
+          }
+        ]
+      },
+      "decisao": "dispositivo_proprio_confirmado_contextualmente",
+      "fundamento": "Ementa define procedimento de matrícula; itens1–5 próprios efecho24novembro1999, comassinaturas próprias.",
+      "fonte_texto_integral": "\nEstabelece procedimento para a matrícula nos cursos dos Programas de Formação Permanente, de Aperfeiçoamento Funcional e de Capacitação de Servidores de Gabinetes parlamentares e da Área Administrativa a serem oferecidos pela Área de Ensino e Extensão.\n\n\n\n(A Portaria da Assembléia Legislativa nº 1427, de 24/11/1999 foi revogada pelo art. 7º da Portaria nº 14, de 27/5/2003.)\n\n\n\n1 - No ato de matrícula, o servidor assinará autorização para desconto, em sua folha de pagamento, do valor correspondente ao custo do material didático que lhe será distribuído.\n\n2 - Em caso de desistência ou cancelamento de matrícula, adicionar-se-á ao valor previsto no item 1 o valor do custo do curso por aluno, que lhe será previamente informado, o qual corresponderá ao resultado da divisão do montante gasto pela Assembléia com o pagamento das horas-aula do curso pelo número de alunos matriculados na turma.\n\n3 - considera-se também desistência, para os efeitos do item anterior, a reprovação do aluno por não ter este freqüentado o número mínimo de aulas exigido pelo curso ou por não ter se submetido à avaliação final.\n\n(Item acrescentado pela Portaria da Assembléia Legislativa nº 28, de 15/9/2000.)\n\n4 - Os valores a que se referem os itens anteriores incidirão sobre a folha de pagamento do mês subseqüente ao do término do curso.\n\n(Item renumerado pela Portaria da Assembléia Legislativa nº 28, de 15/9/2000.)\n\n5 - Os valores descontados do servidor em conformidade com os termos desta Portaria não lhe serão restituídos em nenhuma hipótese.\n\n(Item renumerado pela Portaria da Assembléia Legislativa nº 28, de 15/9/2000.)\n\n\n\nSecretaria da Assembléia Legislativa do Estado de Minas Gerais, aos 24 de novembro de 1999.\n\n\n\nDeputado Dilzon Melo - 1º Secretário\n\nPedro Paulo Dias Ladeira - Diretor-Geral\n\n",
+      "limite": "Decisão destealerta; demaisgates não dispensados."
+    },
+    {
+      "path": "estaduais/MG/portarias/1999/prt-3-1999.md",
+      "md_sha256": "f98ed80f75c29d170196b6f314eb3f405319fd88fc020a7a78cac3974a5d84eb",
+      "fonte_sha256": "6b46f21bdcb7fb3fcb5785a77c0ab86ef8699c8223290e6daae5eb89a29def0f",
+      "XML": {
+        "path": "estaduais/MG/_indice/documentos/prt-3-1999.xml.gz",
+        "sha256": "0ddab79d8b21ad28d797c4116e11eca7d2e7b6be5116ef45fec41182da2982d9",
+        "matching_conteudo": [
+          {
+            "siglaTipoNorma": "PRT",
+            "numero": "3",
+            "ano": "1999",
+            "codTipoDocumento": "572",
+            "dataAtualizacao": "2025-02-26"
+          }
+        ]
+      },
+      "decisao": "dispositivo_proprio_confirmado_contextualmente",
+      "fundamento": "Diretor-Geral nomeia comissão eleitoral comservidoresnominais; fecho12fevereiro1999 eassinaturaDalmir.",
+      "fonte_texto_integral": "\n.\n\n\n\n(A Portaria da ALMG nº 3, de 12/2/1999, foi revogada pelo inciso XXII do art. 3º da Portaria da Diretoria-Geral nº 14, de 18/3/2013.)\n\n\n\nO Diretor-Geral da Secretaria da Assembléia Legislativa do Estado de Minas Gerais, no uso das atribuições que lhe confere o § 1º do art. 23 da Deliberação da Mesa nº 993, de 20/10/93, nomeia a seguinte comissão para desincumbir-se do processo eleitoral dos representantes dos servidores que integrarão o Conselho de Administração de Pessoal, cujo pleito se realizará no dia 15/03/99; Eliana de Barros Ribeiro de Oliveira, Presidente; Fernando Moretzohn N. Coelho e Antônio Augusto Salles e Salles, este último para secretariar os trabalhos da Comissão.\n\n\n\nDiretoria-Geral, 12 de fevereiro de 1999.\n\n\n\nDalmir de Jesus – Diretor-Geral\n\n\n\n---------------------------------------------\n\nData da ultima atualização : 08/4/2013.",
+      "limite": "Decisão destealerta; demaisgates não dispensados."
+    },
+    {
+      "path": "estaduais/MG/portarias/2000/prt-30-2000.md",
+      "md_sha256": "0a57c355846e1229797b2d43b95b157d68f0bc31421f8827454d945129a210ae",
+      "fonte_sha256": "c34d7dda5561bf0123858126668e0713c8bbd9dbb5e55fb2413eb6f8d4758746",
+      "XML": {
+        "path": "estaduais/MG/_indice/documentos/prt-30-2000.xml.gz",
+        "sha256": "5366fffa630f11aa8ff3b1cbef62383defd007889e7ad6e1c796d49825479ff6",
+        "matching_conteudo": [
+          {
+            "siglaTipoNorma": "PRT",
+            "numero": "30",
+            "ano": "2000",
+            "codTipoDocumento": "572",
+            "dataAtualizacao": "2025-02-21"
+          }
+        ]
+      },
+      "decisao": "dispositivo_proprio_confirmado_contextualmente",
+      "fundamento": "Comandoespaçado R E S O L V E M e itens próprios disciplinam espaços deeventos; fecho4outubro2000.",
+      "fonte_texto_integral": "\n.\n\n(A Portaria nº30 2002, de 4/10/2000, foi revogada pelo art. 2º\n\nda Ordem de Serviço nº 2, de 10/3/2011.)\n\n\n\n\n\nO Assessor Executivo de Planejamento e Controle e o Diretor-\n\nGeral da Secretaria da Assembléia Legislativa do Estado de Minas\n\nGerais, no uso de suas atribuições, considerando a necessidade de\n\nfixação de critérios e regras para a utilização dos espaços da\n\nAssembléia destinados à realização de eventos,\n\n\n\n\n\nR E S O L V E M :\n\n\n\n\n\n1 - Os espaços destinados à realização de eventos na\n\nAssembléia Legislativa do Estado de Minas Gerais são:\n\na - Plenário;\n\nb - Plenarinhos I, II, III e IV;\n\nc - Auditório;\n\nd - Espaço Político-Cultural;\n\ne - Auditório da Área de Ensino e Extensão.\n\n1.1 - A utilização do Plenário obedecerá ao disposto no art.\n\n314 da Resolução nº 5.176, de 6 de novembro de 1997, alterada pela\n\nResolução nº 5.183, de 14 de julho de 1998, que contém o Regimento\n\nInterno da Assembléia Legislativa do Estado de Minas Gerais.\n\n1.2 - Os espaços relacionados nas alíneas “b” e “c” são\n\ndestinados prioritariamente à realização de reuniões das comissões\n\npermanentes e temporárias.\n\n1.3 - As reuniões de gabinetes parlamentares e de áreas ou\n\nsetores da Assembléia Legislativa, bem como as preparatórias e de\n\neventos institucionais, podem ser realizadas nos espaços da\n\nAssembléia, observado o disposto nos subitens 1.1 e 1.2.\n\n2 - As reuniões constantes no subitem 1.3 serão agendadas com\n\nos responsáveis pelos espaços indicados no item 1, com, no mínimo,\n\numa semana de antecedência, incumbindo a área responsável pelo\n\nevento de informar à:\n\na - Área de Comunicação Social, para que conste na Agenda\n\nInstitucional;\n\nb - Área de Serviços Gerais, para a preparação adequada do\n\nlocal;\n\nc - Coordenação de Orientação e Segurança, para a liberação\n\ndo local.\n\n2.1 - A área responsável pelo evento indicará um funcionário\n\npara, no dia marcado, comparecer ao local com, no mínimo, 30\n\nminutos de antecedência, a fim de conferir os preparativos e\n\nreceber os participantes.\n\n\n\n\n\nDiretoria-Geral, em 4 de outubro de 2000.\n\n\n\n\n\nJoão Franco Filho - Assessor Executivo de Planejamento e\n\nControle\n\nSérgio José Barcelos - Diretor-Geral em exercício\n\n_______________________________________________________________\n\n\n\nData da última atualização: 14/3/2011.",
+      "limite": "Decisão destealerta; demaisgates não dispensados."
+    },
+    {
+      "path": "estaduais/MG/portarias/2001/prt-11-2001.md",
+      "md_sha256": "9bed59373625b5936cd4de08a99bf14c85b9606bc67a62160fe8c3f32c28216b",
+      "fonte_sha256": "897fed2bf24990936f8506ad743e296894480400d6dc9006683a5ff97ddcbd2e",
+      "XML": {
+        "path": "estaduais/MG/_indice/documentos/prt-11-2001.xml.gz",
+        "sha256": "3eb25e93a11f2ac145363c75bd3e0c049a3c7350f27da45330d583fb2c816a31",
+        "matching_conteudo": [
+          {
+            "siglaTipoNorma": "PRT",
+            "numero": "11",
+            "ano": "2001",
+            "codTipoDocumento": "572",
+            "dataAtualizacao": "2025-04-04"
+          }
+        ]
+      },
+      "decisao": "dispositivo_proprio_confirmado_contextualmente",
+      "fundamento": "Autoridades incluem Bancoop nasinstituições daPortaria004; dispositivo próprio efecho5abril2001.",
+      "fonte_texto_integral": "\n.\n\n\n\n(A Portaria da ALMG nº 11, DE 5/4/2001, foi revogada pelo inciso VII do art. 3º da Portaria da 1ª Secretaria e da Diretoria-Geral nº 27, de 10/6/2014.)\n\n\n\nO 1º-Secretário, o Assessor Executivo de Planejamento e Controle e o Diretor-Geral da Assembléia Legislativa do Estado de Minas Gerais, no uso de suas atribuições, incluem entre as instituições bancárias arroladas na Portaria nº 004/2001, o Banco Cooperativo do Brasil S.A. - Bancoop, que atuará por intermédio da Cooperativa de Economia e Crédito Mútuo dos Funcionários da Assembléia Legislativa do Estado de Minas Gerais - Cofal, ficando mantidos os demais prazos e procedimentos especificados na mencionada portaria.\n\n\n\n(Vide Portaria da Assembléia Legislativa nº 19, de 8/5/2001.)\n\n\n\nPalácio da Inconfidência, em Belo Horizonte, aos 5 de abril de 2001.\n\n\n\nJoão Franco Filho - Assessor Executivo de Planejamento e Controle\n\nSérgio José Barcelos - Diretor-Geral\n\nDeputado Mauri Torres - 1º-Secretário\n\n\n\n\n\n------------------------------------------------------\n\n\n\nData da última atualização: 17/3/2004.",
+      "limite": "Decisão destealerta; demaisgates não dispensados."
+    },
+    {
+      "path": "estaduais/MG/portarias/2001/prt-7-2001.md",
+      "md_sha256": "4615042db51b6cfdbf441813675fb06a549dbcc8a3b83ef74f9220cdc6da1ec4",
+      "fonte_sha256": "b1fb80effc170ec004a6df1cf1182e0aed1b922166153f0440e5006ec1ba3196",
+      "XML": {
+        "path": "estaduais/MG/_indice/documentos/prt-7-2001.xml.gz",
+        "sha256": "aa2239773351fca8c132552b1e725406258862904bdda3601e3febb20c37238f",
+        "matching_conteudo": [
+          {
+            "siglaTipoNorma": "PRT",
+            "numero": "7",
+            "ano": "2001",
+            "codTipoDocumento": "572",
+            "dataAtualizacao": "2025-02-19"
+          }
+        ]
+      },
+      "decisao": "dispositivo_proprio_confirmado_contextualmente",
+      "fundamento": "Autoridades nomeiam comissão eleitoral comnomes/matrículas; fecho9março2001.",
+      "fonte_texto_integral": "\n.\n\n(A Portaria da ALMG nº 7, de 09/3/2001, foi revogada pelo inciso XXXI do art. 3º da Portaria da Diretoria-Geral nº 14, de 18/3/2013.)\n\n\n\nO Diretor-Geral e o Assessor Executivo de Planejamento e Controle da Secretaria da Assembléia Legislativa do Estado de Minas Gerais, observado o disposto no § 1º do art. 23 da Deliberação da Mesa nº 993, de 20/10/93, nomeiam a seguinte comissão para desincumbir-se do processo eleitoral dos representantes dos servidores que integrarão o Conselho de Administração de Pessoal, cujo pleito se realizará no dia 29/03/2001: Antônio Augusto Salles e Salles, matrícula 2727/8, Presidente; Assunta Maria Magalhães Silveira Faria, matrícula 6418/1; Eduardo de Mattos Fiúza, matrícula 5823/8; e João Carlos Ribeiro Navarro Filho, matrícula 5335/0, este último para secretariar os trabalhos da Comissão.\n\n\n\nDiretoria-Geral, 9 de março de 2001.\n\n\n\nSérgio José Barcelos - Diretor-Geral - João Franco Filho - Assessor Executivo de Planejamento e Controle\n\n---------------------------------------------\n\nData da ultima atualização : 08/4/2013.",
+      "limite": "Decisão destealerta; demaisgates não dispensados."
+    },
+    {
+      "path": "estaduais/MG/portarias/2002/prt-4-2002.md",
+      "md_sha256": "d9ca15cc7c8d2165a233fb8e308e9cc7c7a4eb14158983090e7b80dd6ea13346",
+      "fonte_sha256": "50ab43642305a6a31c0cd41752a928baf1d4bd5a8a2c169262571cc9f5dc3619",
+      "XML": {
+        "path": "estaduais/MG/_indice/documentos/prt-4-2002.xml.gz",
+        "sha256": "05ab29bc1dbda573401e4f5aac2f9a32008d91b2e9dd731f8928602545b29238",
+        "matching_conteudo": [
+          {
+            "siglaTipoNorma": "PRT",
+            "numero": "4",
+            "ano": "2002",
+            "codTipoDocumento": "572",
+            "dataAtualizacao": "2025-03-06"
+          }
+        ]
+      },
+      "decisao": "dispositivo_proprio_confirmado_contextualmente",
+      "fundamento": "Diretor-Geral nomeia comissão eleitoral; pleito/data, nomes efecho12março2002 presentes.",
+      "fonte_texto_integral": "\n.\n\n\n\n(A Portaria nº 4, de 12/3/2002, foi revogada pelo inciso XXXVIII do art. 3º da Portaria da Diretoria-Geral nº 14, de 18/3/2013.)\n\n\n\nO Diretor-Geral da Secretaria da Assembléia Legislativa do Estado de Minas Gerais, nos termos do art. 23 da Deliberação da Mesa nº 993, de 20 de outubro de 1993, com a redação dada pelo art. 2º da Deliberação nº 2.257, de 12 de março de 2002, nomeia a seguinte comissão para encarregar-se do processo eleitoral dos representantes dos servidores que integrarão o Conselho de Administração de Pessoal, cujo pleito se realizará no dia 1º de abril de 2002: Antônio Augusto Salles e Salles, matrícula 2.727-8, Presidente; Assunta Maria Magalhães Silveira Faria, matrícula 6.418-1; e João Carlos Ribeiro Navarro Filho, matrícula 5.335-0.\n\n\n\nDiretoria-Geral, 12 de março de 2002.\n\n\n\nJoão Franco Filho – Diretor-Geral\n\n\n\nData da última atualização: 10/4/2013",
+      "limite": "Decisão destealerta; demaisgates não dispensados."
+    },
+    {
+      "path": "estaduais/MG/portarias/2004/prt-2-2004.md",
+      "md_sha256": "b5ad6e83add31df93f1d1556ad07ded455eec9deaafcb4866f9a8fac9ec24d0c",
+      "fonte_sha256": "c2492121f0bb284ca3081babe54f1c4c3f7a807011140e68aaeb476c9f87d9a8",
+      "XML": {
+        "path": "estaduais/MG/_indice/documentos/prt-2-2004.xml.gz",
+        "sha256": "49c8589b06e6e690191d2750ea549f639faaae67f1ee4f26945888ed86cf28d8",
+        "matching_conteudo": [
+          {
+            "siglaTipoNorma": "PRT",
+            "numero": "2",
+            "ano": "2004",
+            "codTipoDocumento": "572",
+            "dataAtualizacao": "2025-02-25"
+          }
+        ]
+      },
+      "decisao": "dispositivo_proprio_confirmado_contextualmente",
+      "fundamento": "Diretor-Geral nomeia comissão eleitoral; nomes efecho3março2004 presentes.",
+      "fonte_texto_integral": "\n.\n\n\n\n(A Portaria nº 2, de 3/3/2004, foi revogada pelo inciso LX do art. 3º da Portaria da Diretoria-Geral nº 14, de 18/3/2013.)\n\n\n\nO Diretor-geral da Secretaria da Assembléia Legislativa do Estado de Minas Gerais, nos termos do art. 23 da Deliberação da Mesa nº 993, de 20 de outubro de l993, com a redação dada pelo art. 2º da Deliberação nº 2.257, de 12 de março de 2002, nomeia a seguinte comissão para encarregar-se do processo eleitoral dos representantes dos servidores que integrarão o Conselho de Administração de Pessoal, cujo pleito se realizará no dia 31 de março de 2004: Antônio Augusto Salles e Salles, matrícula 2727-8, Presidente; João Carlos Ribeiro Navarro Filho, matrícula 5335 e Adair Ribeiro Vidal, matrícula 4269-2.\n\n\n\nDiretoria-Geral, 3 de março de 2004\n\n\n\nJoão Franco – Diretor-Geral da ALEMG\n\n\n\n-----------------------------------------\n\n\n\nData da última atualização: 10/4/2013.",
+      "limite": "Decisão destealerta; demaisgates não dispensados."
+    },
+    {
+      "path": "estaduais/MG/portarias/2005/prt-3-2005.md",
+      "md_sha256": "55586e4f1afd65dc66e53184bb1d20a2fedd79a9aa3ac7abad269a17d90ae501",
+      "fonte_sha256": "d77c12156e7a0631b479333187bfca43aa5fd297a62218e78ad447140ee5669b",
+      "XML": {
+        "path": "estaduais/MG/_indice/documentos/prt-3-2005.xml.gz",
+        "sha256": "faf98c1cc269fde2d8c2d9b327c4b938ce3179f58e313470690a8c5ba3fd151b",
+        "matching_conteudo": [
+          {
+            "siglaTipoNorma": "PRT",
+            "numero": "3",
+            "ano": "2005",
+            "codTipoDocumento": "572",
+            "dataAtualizacao": "2025-02-26"
+          }
+        ]
+      },
+      "decisao": "dispositivo_proprio_confirmado_contextualmente",
+      "fundamento": "Diretor-Geral nomeia comissão eleitoral; nomes efecho1março2005 presentes.",
+      "fonte_texto_integral": "\n.\n\n\n\n(A Portaria nº 3, de 1º/3/2005, foi revogada pelo inciso LXIX do art. 3º da Portaria da Diretoria-Geral nº 14, de 18/3/2013.)\n\n\n\nO Diretor-Geral da Secretaria da Assembléia Legislativa do Estado de Minas Gerais, nos termos do art. 23 da Deliberação da Mesa nº 993, de 20 de outubro de 1993, com a redação dada pelo art. 2º da Deliberação nº 2.257, de 12 de março de 2002, nomeia a seguinte comissão para encarregar-se do processo eleitoral dos representantes dos servidores que integrarão o Conselho de Administração de Pessoal, cujo pleito se realizará no dia 30 de março de 2005: João Carlos Ribeiro de Navarro Filho, matrícula 5.335, Presidente; Cássio Marques Viana, matrícula 3.555; e José Neves de Siqueira Júnior, matrícula 2.311.\n\n\n\nDiretoria-Geral, 1º de março de 2005.\n\nJOÃO FRANCO – Diretor-Geral.\n\n\n\n-----------------------------------------\n\nData da última atualização: 10/4/2013.",
+      "limite": "Decisão destealerta; demaisgates não dispensados."
+    },
+    {
+      "path": "estaduais/MG/portarias/2007/prt-6-2007.md",
+      "md_sha256": "18f8b97c2cdc6afb49c0541c888798bc0be3ac6287776cb570a70eb9f61c45d3",
+      "fonte_sha256": "104965a7cb4532fcb1e20bebe30bfac357e894d30859625686c0f7d2543c68b9",
+      "XML": {
+        "path": "estaduais/MG/_indice/documentos/prt-6-2007.xml.gz",
+        "sha256": "03141b26e86243b95aae8681960c74d1dcf245d23ac8861be02c9e2127d704b9",
+        "matching_conteudo": [
+          {
+            "siglaTipoNorma": "PRT",
+            "numero": "6",
+            "ano": "2007",
+            "codTipoDocumento": "142",
+            "dataAtualizacao": "2023-01-16"
+          }
+        ]
+      },
+      "decisao": "dispositivo_proprio_confirmado_contextualmente",
+      "fundamento": "Autoridades decidem bloquear vagas deestagiário; comando efecho9julho2007 presentes.",
+      "fonte_texto_integral": "\nDispõe sobre o bloqueio das vagas de estagiário não utilizadas pelos Gabinetes Parlamentares para aproveitamento no Gabinete da 1ª Secretaria.\n\n\n\nO 1º-Secretário e o Diretor-Geral da Assembléia Legislativa do Estado de Minas Gerais, à vista dos dispositivos contidos na Decisão da Mesa de 28 de maio de 2007, decidem bloquear as vagas de estagiário não utilizadas pelos gabinetes parlamentares para aproveitamento no Gabinete da 1ª-Secretaria, permanecendo bloqueadas até a indicação de ocupação pelos respectivos gabinetes.\n\n\n\nPalácio da Inconfidência, 09 de julho de 2007.\n\n\n\nDeputado Dinis Pinheiro\n\n1º-Secretário\n\n\n\nEduardo Vieira Moreira\n\nDiretor-Geral",
+      "limite": "Decisão destealerta; demaisgates não dispensados."
+    }
+  ]
+}

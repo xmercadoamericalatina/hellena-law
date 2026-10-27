@@ -1,0 +1,758 @@
+[
+  {
+    "path": "estaduais/MG/decretos/2007/dec-44541-2007.md",
+    "md_sha256": "55da1ab3f84418595eb19e0190c5cb59004ae30a22a806dea191921901170cd4",
+    "fonte_sha256": "545ec94133d31627fa5b54e93ca34294d2d537648a0b07f4efcc06f57a79f791",
+    "cache": "estaduais/MG/_fonte/decretos/2007/dec-44541-2007.html.gz",
+    "decisao": "marcadores_resolvidos_com_observacoes_literais",
+    "fundamento": "Arts. 1º/2º alteram regras de crédito e acrescentam registros 88STES/88STITNF: quadros têm nove/dezenove campos com tamanhos/posições e observações correspondentes. Dez marcadores residuais preservam demais parágrafos dos arts. 14/18/19/23/46 anteriores, sem substituir campo novo. Art. 3ºII remete literalmente ao próprio inciso II; inconsistência de referência preservada, sem retenção só por isso. Fecho próprio presente.",
+    "cobertura_leitura": "identidade, comando proprio, todos os eventos pendentes e seus contextos, remissoes/anexos visiveis, fecho; sem certificacao visual",
+    "eventos_resolvidos": [
+      {
+        "evento_indice": 3,
+        "inicio": 9908,
+        "fim": 9963,
+        "literal_sha256": "b2afe063ad784fbd6a84a97b3b26534706c83c541e8c3e0a7472b1c9dbc5c1df",
+        "contexto": "antidade), se houver, destacado no documento fiscal (valor total por produto). (nr)\";\n\nII - Parte 1 do Anexo XV:\n\n\"Art. 14..........................................\n\n**Parágrafo único.** A responsabilidade prevista no caput deste artigo aplica-se também ao estabelecimento depositário, na operação de remessa de mercadorias para depósito neste Estado.\n\n....................................................\n\nArt. 18............................................\n\n**§ 1º** Para os efeitos do disposto no inciso III do caput deste artigo, em se tratando de transferência para estabelecimento distribuidor, atacadista ou depósito, estes deverão operar exclusivamente com produtos recebidos em transferência do estabelecimento industrial.\n\n......................",
+        "contexto_sha256": "6ac7b537eb4b6478afa05239fe364ef49c6add9b0820f486014a9eb41108f51c"
+      },
+      {
+        "evento_indice": 4,
+        "inicio": 9972,
+        "fim": 10016,
+        "literal_sha256": "8238ec8f2b16a7b51b1cf9b18a709dae60249101c12e711a8c78978171a09063",
+        "contexto": " por produto). (nr)\";\n\nII - Parte 1 do Anexo XV:\n\n\"Art. 14..........................................\n\n**Parágrafo único.** A responsabilidade prevista no caput deste artigo aplica-se também ao estabelecimento depositário, na operação de remessa de mercadorias para depósito neste Estado.\n\n....................................................\n\nArt. 18............................................\n\n**§ 1º** Para os efeitos do disposto no inciso III do caput deste artigo, em se tratando de transferência para estabelecimento distribuidor, atacadista ou depósito, estes deverão operar exclusivamente com produtos recebidos em transferência do estabelecimento industrial.\n\n..............................................................\n\nArt. 19....",
+        "contexto_sha256": "b41f49ffac6d3b59dc4bb6e338734aa8f3acab4b4b399089fd00d53a56482118"
+      },
+      {
+        "evento_indice": 5,
+        "inicio": 10288,
+        "fim": 10353,
+        "literal_sha256": "8862e374a24039dc78f493d51d56d86afd0426fa029377e1fd7dd8a4ca5f2d34",
+        "contexto": ".........................\n\nArt. 18............................................\n\n**§ 1º** Para os efeitos do disposto no inciso III do caput deste artigo, em se tratando de transferência para estabelecimento distribuidor, atacadista ou depósito, estes deverão operar exclusivamente com produtos recebidos em transferência do estabelecimento industrial.\n\n..............................................................\n\nArt. 19.......................................\n\n§ 2º................................................\n\nI - em se tratando de operação interestadual entre estabelecimentos do mesmo titular, em substituição ao preço praticado pelo remetente na operação, será adotado o preço médio praticado pelo remente nas operações com terceiros nos 3 (três) meses ",
+        "contexto_sha256": "e3c32154151f072d487e31b6ed26318ffc40ced166ae5ca1a8212efcf5733a33"
+      },
+      {
+        "evento_indice": 6,
+        "inicio": 10362,
+        "fim": 10401,
+        "literal_sha256": "89530866e687a72950f2a3e40452ae5227bcd2dc536070562861b70db2b8be42",
+        "contexto": "....\n\n**§ 1º** Para os efeitos do disposto no inciso III do caput deste artigo, em se tratando de transferência para estabelecimento distribuidor, atacadista ou depósito, estes deverão operar exclusivamente com produtos recebidos em transferência do estabelecimento industrial.\n\n..............................................................\n\nArt. 19.......................................\n\n§ 2º................................................\n\nI - em se tratando de operação interestadual entre estabelecimentos do mesmo titular, em substituição ao preço praticado pelo remetente na operação, será adotado o preço médio praticado pelo remente nas operações com terceiros nos 3 (três) meses anteriores àquele em que ocorrer a transferência",
+        "contexto_sha256": "d15cf74eba75be9b433185711ebdeb0d90a34de7393485c2b12e8e3d4dfbe477"
+      },
+      {
+        "evento_indice": 7,
+        "inicio": 10407,
+        "fim": 10455,
+        "literal_sha256": "37bfa58b586f840be397ef9afc0f9530393591bb74bd3a02a8f1c884fe932787",
+        "contexto": " inciso III do caput deste artigo, em se tratando de transferência para estabelecimento distribuidor, atacadista ou depósito, estes deverão operar exclusivamente com produtos recebidos em transferência do estabelecimento industrial.\n\n..............................................................\n\nArt. 19.......................................\n\n§ 2º................................................\n\nI - em se tratando de operação interestadual entre estabelecimentos do mesmo titular, em substituição ao preço praticado pelo remetente na operação, será adotado o preço médio praticado pelo remente nas operações com terceiros nos 3 (três) meses anteriores àquele em que ocorrer a transferência e, na falta deste preço, o preço corrente da mercador",
+        "contexto_sha256": "2337c6eeff6278a63170430867c33e398a9c2c278dd5ad8376b787843b2ea10a"
+      },
+      {
+        "evento_indice": 8,
+        "inicio": 10834,
+        "fim": 10896,
+        "literal_sha256": "4f51aa88a338ce8b5e2b5f579a6ec35c68528a3bb6f52cf8c4ceef8aca844fd2",
+        "contexto": "ção interestadual entre estabelecimentos do mesmo titular, em substituição ao preço praticado pelo remetente na operação, será adotado o preço médio praticado pelo remente nas operações com terceiros nos 3 (três) meses anteriores àquele em que ocorrer a transferência e, na falta deste preço, o preço corrente da mercadoria na praça do responsável;\n\n..............................................................\n\nArt. 23............................................\n\n**§ 4º** Nas hipóteses de redução de base de cálculo ou de redução de alíquota, após a retenção ou pagamento do imposto devido a título de substituição tributária, o valor do imposto recolhido a maior será restituído ao contribuinte, relativamente às mercadorias em estoque no dia anterior à vig",
+        "contexto_sha256": "2afadacafe5bbc4e61f72a279721dadd215d21e75d61f956400ee7a608213fd2"
+      },
+      {
+        "evento_indice": 9,
+        "inicio": 10905,
+        "fim": 10949,
+        "literal_sha256": "8238ec8f2b16a7b51b1cf9b18a709dae60249101c12e711a8c78978171a09063",
+        "contexto": "ção ao preço praticado pelo remetente na operação, será adotado o preço médio praticado pelo remente nas operações com terceiros nos 3 (três) meses anteriores àquele em que ocorrer a transferência e, na falta deste preço, o preço corrente da mercadoria na praça do responsável;\n\n..............................................................\n\nArt. 23............................................\n\n**§ 4º** Nas hipóteses de redução de base de cálculo ou de redução de alíquota, após a retenção ou pagamento do imposto devido a título de substituição tributária, o valor do imposto recolhido a maior será restituído ao contribuinte, relativamente às mercadorias em estoque no dia anterior à vigência da redução da base de cálculo ou da nova alíquo",
+        "contexto_sha256": "62142968d8297bf8c1a6e68ad1c3d326ae63de94a856250089094dffb75f6bf1"
+      },
+      {
+        "evento_indice": 10,
+        "inicio": 12937,
+        "fim": 12977,
+        "literal_sha256": "eec2e7703b7ff3ca60b810115a76a777a4e532d537fc0f6aa3aa29c7be9a06d8",
+        "contexto": " de inscrição estadual e no CNPJ do destinatário, se for o caso;\n\nc) unidade da Federação destinatária;\n\nd) quantidade;\n\ne) valor do ICMS retido para a unidade da Federação de destino, se for o caso;\n\nVII - motivo do pedido de restituição.\n\n**Parágrafo único.** As informações de que trata o caput poderão ser exigidas em arquivo eletrônico.\n\nArt. 46........................................\n\n§ 4º.............................................\n\nI - será emitida uma Guia Nacional de Recolhimento de Tributos Estaduais (GNRE) distinta para cada nota fiscal, informando o número da nota no campo Nº do Documento de Origem;\n\n..............................................................\n\n**§ 6º** Na hipótese do inciso II do caput deste artigo,",
+        "contexto_sha256": "1bc745d608a60d2e6fa81771860e662a0faed32dd08461092e90e75b191276cd"
+      },
+      {
+        "evento_indice": 11,
+        "inicio": 12983,
+        "fim": 13028,
+        "literal_sha256": "90d1dd74cc6998e93ce835696cb76694431c92b521d78ddc66ea39954d735642",
+        "contexto": "io, se for o caso;\n\nc) unidade da Federação destinatária;\n\nd) quantidade;\n\ne) valor do ICMS retido para a unidade da Federação de destino, se for o caso;\n\nVII - motivo do pedido de restituição.\n\n**Parágrafo único.** As informações de que trata o caput poderão ser exigidas em arquivo eletrônico.\n\nArt. 46........................................\n\n§ 4º.............................................\n\nI - será emitida uma Guia Nacional de Recolhimento de Tributos Estaduais (GNRE) distinta para cada nota fiscal, informando o número da nota no campo Nº do Documento de Origem;\n\n..............................................................\n\n**§ 6º** Na hipótese do inciso II do caput deste artigo, o pagamento será efetuado utilizando-se de Documen",
+        "contexto_sha256": "35addc01033d52898f1a43e2ace334ce3bac246929a03f2afc305209f1bafbc1"
+      },
+      {
+        "evento_indice": 12,
+        "inicio": 13207,
+        "fim": 13269,
+        "literal_sha256": "4f51aa88a338ce8b5e2b5f579a6ec35c68528a3bb6f52cf8c4ceef8aca844fd2",
+        "contexto": "mações de que trata o caput poderão ser exigidas em arquivo eletrônico.\n\nArt. 46........................................\n\n§ 4º.............................................\n\nI - será emitida uma Guia Nacional de Recolhimento de Tributos Estaduais (GNRE) distinta para cada nota fiscal, informando o número da nota no campo Nº do Documento de Origem;\n\n..............................................................\n\n**§ 6º** Na hipótese do inciso II do caput deste artigo, o pagamento será efetuado utilizando-se de Documento de Arrecadação Estadual emitido via internet ou de GNRE, distintos por nota fiscal e constando o número desta.\n\n**§ 7º** Resolução do Secretário de Estado de Fazenda disciplinará a forma e as condições para o pagamento do imposto relativo",
+        "contexto_sha256": "d092f64d8e340e241a697b5fd4109cea5c51baf73a4e8741adcde4be988f81b3"
+      }
+    ],
+    "body_sha256": "08d9f1ccc66def7835e6f95b1865de6a6f1109c3cae4cbd563f8cfccccc7e65f",
+    "trecho_inicial": "---\ntitulo: \"Decreto nº 44541, de 13/06/2007\"\nuf: \"MG\"\ntipo: \"Decreto\"\nnumero: \"44541\"\ndata: 2007-06-13\nementa: \"ALTERA O REGULAMENTO DO ICMS, APROVADO PELO DECRETO Nº 43.080, DE 13 DE DEZEMBRO DE 2002.\"\nsituacao: \"Revogada\"\nrevogada: true\nversao_texto: \"atualizada\"\nfonte: \"https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/44541/2007/documento?tipoDoc=572\"\nbaixado_em: 2026-10-16\n---\n# Decreto nº 44541, de 13/06/2007\n\nAltera o Regulamento do ICMS, aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002.\n\n(O Decreto nº 44.541, de 13/6/2007, foi revogado pelo item 143 do Anexo do Decreto nº 48.590, de 22/3/2023.)\n\n(Vide art. 1º do Decreto nº 48.590, de 22/3/2023.)\n\nO GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso de atribuição que lhe confere o inciso VII do art. 90, da Constituição do Estado, e tendo em vista o disposto nos arts. 22 e 39 da Lei nº 6.763, de 26 de dezembro de 1975,\n\nDECRETA:\n\n**Art. 1º** O Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n\"Art. 66...........................................\n\n**§ 8º** O contribuinte que receber mercadoria com o imposto retido por substituição tributária ou que tenha recolhido o imposto sob o referido título em virtude da entrada da mercadoria em território mineiro e não destiná-la à comercialização, poderá apropriar-se, sob a forma de crédito, do valor do imposto que incidiu nas operações com a mercadoria.\n\n.........................................................\n\n**§ 10.** Na hipótese de restituição do valor do imposto pago a título de substituição tributária correspondente a fato gerador presumido que não se realizou, o creditamento de imposto relativo à operação própria do remetente será autorizado pelo Fisco, por meio de visto aposto em nota fiscal emitida pelo contribuinte, após análise das informações por este apresentadas.\"\n\n**Art. 2º** Os Anexos abaixo relacionados do RICMS passam a vigorar com as seguintes alterações:\n\nI - Parte 2 do Anexo VII:\n\n\"25D - REGISTRO \"88STES\" - Informações Referentes a Estoque de Produtos Sujeitos ao Regime de Subsituição Tributrária\n\nNº DENOMINAÇÃO DO CAMPO CONTEÚDO TAMANHO POSIÇÃO FORMATO 1 Tipo \"88\" 2 1 2 N 2 Subtipo \"STES\" 4 3 6 X 3 CNPJ CNPJ do informante 14 7 20 N 4 Data do Inventário Data do inventário (formato AAAAMMDD) 8 21 28 N 5 Código do Produto Código do produto utilizado pelo informante 14 29 42 X 6 Quantidade Quantidade do produto (com 3 casas decimais) 13 43 55",
+    "trecho_final": " ICMS relativo à operação própria do remetente;\n\nVI - valor unitário e valor total do ICMS retido ou apurado a título de subsituição tributária e valor unitário informado a título de reembolso;\n\nVII - nas hipóteses dos incisos I e II do caput do art. 23 desta Parte:\n\na) número e data da nota fiscal que acobertou a operação de saída;\n\nb) razão social e números de inscrição estadual e no CNPJ do destinatário, se for o caso;\n\nc) unidade da Federação destinatária;\n\nd) quantidade;\n\ne) valor do ICMS retido para a unidade da Federação de destino, se for o caso;\n\nVII - motivo do pedido de restituição.\n\n**Parágrafo único.** As informações de que trata o caput poderão ser exigidas em arquivo eletrônico.\n\nArt. 46........................................\n\n§ 4º.............................................\n\nI - será emitida uma Guia Nacional de Recolhimento de Tributos Estaduais (GNRE) distinta para cada nota fiscal, informando o número da nota no campo Nº do Documento de Origem;\n\n..............................................................\n\n**§ 6º** Na hipótese do inciso II do caput deste artigo, o pagamento será efetuado utilizando-se de Documento de Arrecadação Estadual emitido via internet ou de GNRE, distintos por nota fiscal e constando o número desta.\n\n**§ 7º** Resolução do Secretário de Estado de Fazenda disciplinará a forma e as condições para o pagamento do imposto relativo ao estoque de mercadorias existente no estabelecimento por ocasião:\n\nI - de inclusão de mercadoria no regime de subsituição tributária;\n\nII - de aumento de carga tributária decorrente de majoração de alíquota ou de diminuição da redução de base de cálculo estabelecida para a operação com a mercadoria, ocorridos após a retenção ou apuração do imposto devido a título de substituição tributária. (nr)\".\n\n(Vide art. 1º do Decreto nº 45.469, de 15/9/2010.)\n\n**Art. 3º** Este Decreto entra em vigor:\n\nI - no 1º dia do segundo mês subseqüente ao de sua publicação, relativamente aos seguintes dispositivos:\n\na) art. 66, § 10, do RICMS;\n\nb) itens 25D e 25E da Parte 2 do Anexo VII do RICMS;\n\nc) art. 14, parágrafo único, e arts. 25 e 26, da Parte 1 do Anexo XV do RICMS;\n\nII - na data de sua publicação, relativamente aos dispositivos não indicados no inciso II.\n\nPalácio da Liberdade, em Belo Horizonte, aos 13 de junho de 2007; 219º da Inconfidência Mineira e 186º da Independência do Brasil.\n\nAÉCIO NEVES - Governador do Estado\n\n======================================\n\nData da última atualização: 24/3/2023.\n",
+    "aplicado": false
+  },
+  {
+    "path": "estaduais/MG/decretos/2007/dec-44553-2007.md",
+    "md_sha256": "241fadbf7484efcd78af686ea0aa84cccde0d79d7d22126cf77e87b9b9c95f94",
+    "fonte_sha256": "cbb4c9af00a5cbfbc363990bc9871b9da912820c8d3b89d255afbef8374eb45a",
+    "cache": "estaduais/MG/_fonte/decretos/2007/dec-44553-2007.html.gz",
+    "decisao": "marcadores_resolvidos_sem_lacuna_nova",
+    "fundamento": "Arts. 1º/2º alteram pontos específicos dos arts. 42/75/108/124/139/155/222 e anexos do RICMS. Trinta e dois eventos residuais mantêm redações/células antigas; novas definições de centro de distribuição, procedimentos e NBM/MVA das linhas 15.8/26.9/26.10 presentes. Modelos SIRG e controle de impressão são expressamente de resolução/sítio externo, não anexos próprios anunciados ausentes. Art. 3º e fecho presentes.",
+    "cobertura_leitura": "identidade, comando proprio, todos os eventos pendentes e seus contextos, remissoes/anexos visiveis, fecho; sem certificacao visual",
+    "eventos_resolvidos": [
+      {
+        "evento_indice": 16,
+        "inicio": 5884,
+        "fim": 5887,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " para armazenamento de leite (tanque de expansão) classificado no código 8418.69.20 da NBM/SH, promovida por estabelecimento industrial com destino a estabelecimento de produtor rural. (nr) 31/12/2006\n\n\";\n\nII - Parte 1 do Anexo II:\n\n\"\n\n31 31.1 31.2 31.3 (...) a.1 - centro de distribuição, desde que compreenda a totalidade das saídas do remetente; (...) a - na hipótese da subalínea \"a.1\", o centro de distribuição deverá ser exclusivo, conforme disposto no inciso XIV do art. 222 deste Regulamento; (...) O diferimento será autorizado por meio de regime especial concedido pelo diretor da Superintendência de Tributação ou de protocolo firmado entre o Estado de Minas Gerais e o contribuinte, da segui",
+        "contexto_sha256": "7f2735fd894e1040de70f422fd6c5f885641179a8a0fec182b410128c22f9adb"
+      },
+      {
+        "evento_indice": 17,
+        "inicio": 6036,
+        "fim": 6039,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "tabelecimento de produtor rural. (nr) 31/12/2006\n\n\";\n\nII - Parte 1 do Anexo II:\n\n\"\n\n31 31.1 31.2 31.3 (...) a.1 - centro de distribuição, desde que compreenda a totalidade das saídas do remetente; (...) a - na hipótese da subalínea \"a.1\", o centro de distribuição deverá ser exclusivo, conforme disposto no inciso XIV do art. 222 deste Regulamento; (...) O diferimento será autorizado por meio de regime especial concedido pelo diretor da Superintendência de Tributação ou de protocolo firmado entre o Estado de Minas Gerais e o contribuinte, da seguinte forma: (...) Na hipótese do diferimento ter sido autorizado por meio de protocolo, a Superintendência de Tributação concederá ao contribuinte regime",
+        "contexto_sha256": "e8b6071fa95d8c505c3f5cbd3acf938416c1e2b7bc4d5e946a2cda367f85a9f9"
+      },
+      {
+        "evento_indice": 18,
+        "inicio": 6249,
+        "fim": 6252,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ótese da subalínea \"a.1\", o centro de distribuição deverá ser exclusivo, conforme disposto no inciso XIV do art. 222 deste Regulamento; (...) O diferimento será autorizado por meio de regime especial concedido pelo diretor da Superintendência de Tributação ou de protocolo firmado entre o Estado de Minas Gerais e o contribuinte, da seguinte forma: (...) Na hipótese do diferimento ter sido autorizado por meio de protocolo, a Superintendência de Tributação concederá ao contribuinte regime especial que determinará as obrigações acessórias necessárias à fruição do benefício. (nr) 41 41.12 (...) (...) b.2 - considerará o disposto no art. 28 da CLTA/MG. (...) (nr) 56 56.1 Entrada de mercadoria importa",
+        "contexto_sha256": "a16a3a600fb8388c1b4787a2fa1dda5aa2e18cd0d70c44c87d2df5e6954dec07"
+      },
+      {
+        "evento_indice": 19,
+        "inicio": 6491,
+        "fim": 6494,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " de Tributação ou de protocolo firmado entre o Estado de Minas Gerais e o contribuinte, da seguinte forma: (...) Na hipótese do diferimento ter sido autorizado por meio de protocolo, a Superintendência de Tributação concederá ao contribuinte regime especial que determinará as obrigações acessórias necessárias à fruição do benefício. (nr) 41 41.12 (...) (...) b.2 - considerará o disposto no art. 28 da CLTA/MG. (...) (nr) 56 56.1 Entrada de mercadoria importada do exterior em aeroporto industrial ou em porto seco localizados neste Estado, sob o regime especial de Entreposto Aduaneiro na Importação e na Exportação. (...) a - a saída, em operação interna, com destino a estabelecimento de mesma titu",
+        "contexto_sha256": "e02a8cd34a520d4639be9a377f57316c317ffdf2f101259f96ab6c018c5b1f99"
+      },
+      {
+        "evento_indice": 20,
+        "inicio": 6497,
+        "fim": 6500,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ibutação ou de protocolo firmado entre o Estado de Minas Gerais e o contribuinte, da seguinte forma: (...) Na hipótese do diferimento ter sido autorizado por meio de protocolo, a Superintendência de Tributação concederá ao contribuinte regime especial que determinará as obrigações acessórias necessárias à fruição do benefício. (nr) 41 41.12 (...) (...) b.2 - considerará o disposto no art. 28 da CLTA/MG. (...) (nr) 56 56.1 Entrada de mercadoria importada do exterior em aeroporto industrial ou em porto seco localizados neste Estado, sob o regime especial de Entreposto Aduaneiro na Importação e na Exportação. (...) a - a saída, em operação interna, com destino a estabelecimento de mesma titularida",
+        "contexto_sha256": "cd84001bcbb69e8b80d0e70d2d440dadc0d64db65d9e95bdbbfd366e11055a90"
+      },
+      {
+        "evento_indice": 21,
+        "inicio": 6555,
+        "fim": 6558,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "erais e o contribuinte, da seguinte forma: (...) Na hipótese do diferimento ter sido autorizado por meio de protocolo, a Superintendência de Tributação concederá ao contribuinte regime especial que determinará as obrigações acessórias necessárias à fruição do benefício. (nr) 41 41.12 (...) (...) b.2 - considerará o disposto no art. 28 da CLTA/MG. (...) (nr) 56 56.1 Entrada de mercadoria importada do exterior em aeroporto industrial ou em porto seco localizados neste Estado, sob o regime especial de Entreposto Aduaneiro na Importação e na Exportação. (...) a - a saída, em operação interna, com destino a estabelecimento de mesma titularidade localizado em aeroporto industrial ou em porto seco, de",
+        "contexto_sha256": "1e61087a9afa5a98c55404d2d45e9caa02d71430485865cb19cb262d5961375a"
+      },
+      {
+        "evento_indice": 22,
+        "inicio": 6762,
+        "fim": 6765,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "rá as obrigações acessórias necessárias à fruição do benefício. (nr) 41 41.12 (...) (...) b.2 - considerará o disposto no art. 28 da CLTA/MG. (...) (nr) 56 56.1 Entrada de mercadoria importada do exterior em aeroporto industrial ou em porto seco localizados neste Estado, sob o regime especial de Entreposto Aduaneiro na Importação e na Exportação. (...) a - a saída, em operação interna, com destino a estabelecimento de mesma titularidade localizado em aeroporto industrial ou em porto seco, de: (...) (nr)\n\n\";\n\nIII - Parte 1 do Anexo IV:\n\n\"\n\n8 8.6 (...) Fica dispensado o estorno do crédito na saída de mercadoria beneficiada com a redução da base de cálculo previta nas alíneas \"a\" e \"c\" deste item.",
+        "contexto_sha256": "7acbb516b8d16f2a4e64f07fb5d2ae346a6f569ae0fcd945331c78f1a8d7cf96"
+      },
+      {
+        "evento_indice": 23,
+        "inicio": 6911,
+        "fim": 6914,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "nr) 56 56.1 Entrada de mercadoria importada do exterior em aeroporto industrial ou em porto seco localizados neste Estado, sob o regime especial de Entreposto Aduaneiro na Importação e na Exportação. (...) a - a saída, em operação interna, com destino a estabelecimento de mesma titularidade localizado em aeroporto industrial ou em porto seco, de: (...) (nr)\n\n\";\n\nIII - Parte 1 do Anexo IV:\n\n\"\n\n8 8.6 (...) Fica dispensado o estorno do crédito na saída de mercadoria beneficiada com a redução da base de cálculo previta nas alíneas \"a\" e \"c\" deste item. (...) (...) (...) (...) (...)\n\n;\"\n\nIV - Parte 6 do Anexo IV:\n\n\"\n\n15 Mistura pré-preparada de farinha de trigo classificada no código 1901.20.00 da N",
+        "contexto_sha256": "2756d1ef86a784ee276f62f565e3851fac899a1df9cc27ea366fdcbef9015c06"
+      },
+      {
+        "evento_indice": 24,
+        "inicio": 6964,
+        "fim": 6967,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "or em aeroporto industrial ou em porto seco localizados neste Estado, sob o regime especial de Entreposto Aduaneiro na Importação e na Exportação. (...) a - a saída, em operação interna, com destino a estabelecimento de mesma titularidade localizado em aeroporto industrial ou em porto seco, de: (...) (nr)\n\n\";\n\nIII - Parte 1 do Anexo IV:\n\n\"\n\n8 8.6 (...) Fica dispensado o estorno do crédito na saída de mercadoria beneficiada com a redução da base de cálculo previta nas alíneas \"a\" e \"c\" deste item. (...) (...) (...) (...) (...)\n\n;\"\n\nIV - Parte 6 do Anexo IV:\n\n\"\n\n15 Mistura pré-preparada de farinha de trigo classificada no código 1901.20.00 da NBM/SH (com o sistema de classificação adotado a parti",
+        "contexto_sha256": "8049df83882e9a84c98ff947108a7a060bc673ab08d118a30650c90b527700bc"
+      },
+      {
+        "evento_indice": 25,
+        "inicio": 7117,
+        "fim": 7120,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "a - a saída, em operação interna, com destino a estabelecimento de mesma titularidade localizado em aeroporto industrial ou em porto seco, de: (...) (nr)\n\n\";\n\nIII - Parte 1 do Anexo IV:\n\n\"\n\n8 8.6 (...) Fica dispensado o estorno do crédito na saída de mercadoria beneficiada com a redução da base de cálculo previta nas alíneas \"a\" e \"c\" deste item. (...) (...) (...) (...) (...)\n\n;\"\n\nIV - Parte 6 do Anexo IV:\n\n\"\n\n15 Mistura pré-preparada de farinha de trigo classificada no código 1901.20.00 da NBM/SH (com o sistema de classificação adotado a partir de 1º de janeiro de 1997) (nr)\n\n\";\n\nV - Parte 1 do Anexo IX:\n\n\"Art. 199........................................\n\n§ 1º..................................",
+        "contexto_sha256": "bac3ad9054cfbc60d838fd6f04d3e5e9ac5b2b02571b74f85d978904d3c34246"
+      },
+      {
+        "evento_indice": 26,
+        "inicio": 7123,
+        "fim": 7126,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "saída, em operação interna, com destino a estabelecimento de mesma titularidade localizado em aeroporto industrial ou em porto seco, de: (...) (nr)\n\n\";\n\nIII - Parte 1 do Anexo IV:\n\n\"\n\n8 8.6 (...) Fica dispensado o estorno do crédito na saída de mercadoria beneficiada com a redução da base de cálculo previta nas alíneas \"a\" e \"c\" deste item. (...) (...) (...) (...) (...)\n\n;\"\n\nIV - Parte 6 do Anexo IV:\n\n\"\n\n15 Mistura pré-preparada de farinha de trigo classificada no código 1901.20.00 da NBM/SH (com o sistema de classificação adotado a partir de 1º de janeiro de 1997) (nr)\n\n\";\n\nV - Parte 1 do Anexo IX:\n\n\"Art. 199........................................\n\n§ 1º.......................................\n",
+        "contexto_sha256": "0051a79b81d43c7daad28c7c69b1aa1aa8925170de0cfdbf7ed18846491307f2"
+      },
+      {
+        "evento_indice": 27,
+        "inicio": 7129,
+        "fim": 7132,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " em operação interna, com destino a estabelecimento de mesma titularidade localizado em aeroporto industrial ou em porto seco, de: (...) (nr)\n\n\";\n\nIII - Parte 1 do Anexo IV:\n\n\"\n\n8 8.6 (...) Fica dispensado o estorno do crédito na saída de mercadoria beneficiada com a redução da base de cálculo previta nas alíneas \"a\" e \"c\" deste item. (...) (...) (...) (...) (...)\n\n;\"\n\nIV - Parte 6 do Anexo IV:\n\n\"\n\n15 Mistura pré-preparada de farinha de trigo classificada no código 1901.20.00 da NBM/SH (com o sistema de classificação adotado a partir de 1º de janeiro de 1997) (nr)\n\n\";\n\nV - Parte 1 do Anexo IX:\n\n\"Art. 199........................................\n\n§ 1º.......................................\n\nII - ",
+        "contexto_sha256": "a499ed856bf6313e719a7b7a68bd072cd0082ae8b9d8a0db105d4867ed6f7b8a"
+      },
+      {
+        "evento_indice": 28,
+        "inicio": 7135,
+        "fim": 7138,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "eração interna, com destino a estabelecimento de mesma titularidade localizado em aeroporto industrial ou em porto seco, de: (...) (nr)\n\n\";\n\nIII - Parte 1 do Anexo IV:\n\n\"\n\n8 8.6 (...) Fica dispensado o estorno do crédito na saída de mercadoria beneficiada com a redução da base de cálculo previta nas alíneas \"a\" e \"c\" deste item. (...) (...) (...) (...) (...)\n\n;\"\n\nIV - Parte 6 do Anexo IV:\n\n\"\n\n15 Mistura pré-preparada de farinha de trigo classificada no código 1901.20.00 da NBM/SH (com o sistema de classificação adotado a partir de 1º de janeiro de 1997) (nr)\n\n\";\n\nV - Parte 1 do Anexo IX:\n\n\"Art. 199........................................\n\n§ 1º.......................................\n\nII - a saíd",
+        "contexto_sha256": "c106fd9ab7a7dd3ffbc8f665f37701cf5b26b0e0606b5817994d197368288183"
+      },
+      {
+        "evento_indice": 29,
+        "inicio": 7141,
+        "fim": 7144,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " interna, com destino a estabelecimento de mesma titularidade localizado em aeroporto industrial ou em porto seco, de: (...) (nr)\n\n\";\n\nIII - Parte 1 do Anexo IV:\n\n\"\n\n8 8.6 (...) Fica dispensado o estorno do crédito na saída de mercadoria beneficiada com a redução da base de cálculo previta nas alíneas \"a\" e \"c\" deste item. (...) (...) (...) (...) (...)\n\n;\"\n\nIV - Parte 6 do Anexo IV:\n\n\"\n\n15 Mistura pré-preparada de farinha de trigo classificada no código 1901.20.00 da NBM/SH (com o sistema de classificação adotado a partir de 1º de janeiro de 1997) (nr)\n\n\";\n\nV - Parte 1 do Anexo IX:\n\n\"Art. 199........................................\n\n§ 1º.......................................\n\nII - a saída de g",
+        "contexto_sha256": "74ca60ef0895275eddf1f79caf4fea7608ffa86c4c32f0029b96c729fd9fbd2b"
+      },
+      {
+        "evento_indice": 30,
+        "inicio": 7390,
+        "fim": 7430,
+        "literal_sha256": "eec2e7703b7ff3ca60b810115a76a777a4e532d537fc0f6aa3aa29c7be9a06d8",
+        "contexto": " com a redução da base de cálculo previta nas alíneas \"a\" e \"c\" deste item. (...) (...) (...) (...) (...)\n\n;\"\n\nIV - Parte 6 do Anexo IV:\n\n\"\n\n15 Mistura pré-preparada de farinha de trigo classificada no código 1901.20.00 da NBM/SH (com o sistema de classificação adotado a partir de 1º de janeiro de 1997) (nr)\n\n\";\n\nV - Parte 1 do Anexo IX:\n\n\"Art. 199........................................\n\n§ 1º.......................................\n\nII - a saída de gado bovino ou bufalino para estabelecimento explorado por produtor rural não-proprietário cuja posse resulte de vínculo de natureza obrigacional, tal como o decorrente de contrato de comodato, locação, arrendamento ou parceria, observado o disposto no parágrafo seguinte;\n\n.............",
+        "contexto_sha256": "853d149ae892c38b092e678bb80cbf43b998b046ce0293dbea31ad16eef4e724"
+      },
+      {
+        "evento_indice": 31,
+        "inicio": 7436,
+        "fim": 7475,
+        "literal_sha256": "89530866e687a72950f2a3e40452ae5227bcd2dc536070562861b70db2b8be42",
+        "contexto": "alíneas \"a\" e \"c\" deste item. (...) (...) (...) (...) (...)\n\n;\"\n\nIV - Parte 6 do Anexo IV:\n\n\"\n\n15 Mistura pré-preparada de farinha de trigo classificada no código 1901.20.00 da NBM/SH (com o sistema de classificação adotado a partir de 1º de janeiro de 1997) (nr)\n\n\";\n\nV - Parte 1 do Anexo IX:\n\n\"Art. 199........................................\n\n§ 1º.......................................\n\nII - a saída de gado bovino ou bufalino para estabelecimento explorado por produtor rural não-proprietário cuja posse resulte de vínculo de natureza obrigacional, tal como o decorrente de contrato de comodato, locação, arrendamento ou parceria, observado o disposto no parágrafo seguinte;\n\n.............................................\n\nVI - Parte ",
+        "contexto_sha256": "0574315af30afcf8f9e4d9fb70b4f47c893e7471704d2e71681ff68f9656054c"
+      },
+      {
+        "evento_indice": 32,
+        "inicio": 7767,
+        "fim": 7812,
+        "literal_sha256": "90d1dd74cc6998e93ce835696cb76694431c92b521d78ddc66ea39954d735642",
+        "contexto": ".............\n\n§ 1º.......................................\n\nII - a saída de gado bovino ou bufalino para estabelecimento explorado por produtor rural não-proprietário cuja posse resulte de vínculo de natureza obrigacional, tal como o decorrente de contrato de comodato, locação, arrendamento ou parceria, observado o disposto no parágrafo seguinte;\n\n.............................................\n\nVI - Parte 1 do Anexo X:\n\n\"Art. 27. Para acobertar a operação de saída que realizar, o empreendedor autônomo emitirá Nota Fiscal Avulsa a Consumidor Final ou Nota Fiscal de Empreendedor Autônomo, conforme modelos definidos na Parte 4 deste Anexo.\n\n**§ 1º** A Nota Fiscal Avulsa a Consumidor Final será fornecida pela Secretaria de Estado de Fazenda",
+        "contexto_sha256": "6588dc60293832d82fd46a4173b66c8daa79c58c8f5603d4807c1b7dbb26b527"
+      },
+      {
+        "evento_indice": 33,
+        "inicio": 8309,
+        "fim": 8348,
+        "literal_sha256": "89530866e687a72950f2a3e40452ae5227bcd2dc536070562861b70db2b8be42",
+        "contexto": "dor Final ou Nota Fiscal de Empreendedor Autônomo, conforme modelos definidos na Parte 4 deste Anexo.\n\n**§ 1º** A Nota Fiscal Avulsa a Consumidor Final será fornecida pela Secretaria de Estado de Fazenda ao empreendedor autônomo de que tratam as alíneas \"a\" e \"b\" do inciso I do caput do art. 4º desta Parte, em até 5 (cinco) blocos por pedido.\n\n§ 2º.......................................\n\nIII - anualmente, até o dia 15 (quinze) do mês de janeiro do exercício subsequente, o estabelecimento gráfico entregará na Administração Fazendária (AF) a que estiver circunscrito o Controle de Impressão de Notas Fiscais Avulsas a Consumidor Final, relativo ao exercício anterior, conforme modelo disponibilizado no endereço eletrônico da Secretari",
+        "contexto_sha256": "9e88f9d0bc750c32d28f5fcc4cf199ffdfd059e185a1d4c0b86fd5085c16baf5"
+      },
+      {
+        "evento_indice": 34,
+        "inicio": 8744,
+        "fim": 8792,
+        "literal_sha256": "b2ca20fa87bee8a62b5a5e6329dd41c46d3966a1c22b0ded8fec53c12feb3180",
+        "contexto": "ês de janeiro do exercício subsequente, o estabelecimento gráfico entregará na Administração Fazendária (AF) a que estiver circunscrito o Controle de Impressão de Notas Fiscais Avulsas a Consumidor Final, relativo ao exercício anterior, conforme modelo disponibilizado no endereço eletrônico da Secretaria de Estado de Fazenda (www.fazenda.mg.gov.br).\n\n.............................................\" (nr)\n\nVII - Parte 1 do Anexo XV:\n\n\"Art. 46........................................\n\n**§ 6º** Na hipótese do inciso II do caput deste artigo, o pagamento será efetuado utilizando-se Documento de Arrecadação Estadual (DAE) emitido via internet ou GNRE, devendo, conforme o caso, uma cópia do DAE ou a 3ª via da GNRE acompanhar a mercadoria em seu tra",
+        "contexto_sha256": "4fa9225def083b7c9b6223d7c7694225014ff7e0e48e914ecfcbc2492e2787bc"
+      },
+      {
+        "evento_indice": 35,
+        "inicio": 8836,
+        "fim": 8876,
+        "literal_sha256": "eec2e7703b7ff3ca60b810115a76a777a4e532d537fc0f6aa3aa29c7be9a06d8",
+        "contexto": " Fazendária (AF) a que estiver circunscrito o Controle de Impressão de Notas Fiscais Avulsas a Consumidor Final, relativo ao exercício anterior, conforme modelo disponibilizado no endereço eletrônico da Secretaria de Estado de Fazenda (www.fazenda.mg.gov.br).\n\n.............................................\" (nr)\n\nVII - Parte 1 do Anexo XV:\n\n\"Art. 46........................................\n\n**§ 6º** Na hipótese do inciso II do caput deste artigo, o pagamento será efetuado utilizando-se Documento de Arrecadação Estadual (DAE) emitido via internet ou GNRE, devendo, conforme o caso, uma cópia do DAE ou a 3ª via da GNRE acompanhar a mercadoria em seu transporte.\n\n.............................................\n\n**§ 8º** Na hipótese do inc",
+        "contexto_sha256": "421006514231809ce2beb0f351f0f9417be80f92008b10644d42c7abee7597da"
+      },
+      {
+        "evento_indice": 36,
+        "inicio": 9149,
+        "fim": 9197,
+        "literal_sha256": "b2ca20fa87bee8a62b5a5e6329dd41c46d3966a1c22b0ded8fec53c12feb3180",
+        "contexto": "\nVII - Parte 1 do Anexo XV:\n\n\"Art. 46........................................\n\n**§ 6º** Na hipótese do inciso II do caput deste artigo, o pagamento será efetuado utilizando-se Documento de Arrecadação Estadual (DAE) emitido via internet ou GNRE, devendo, conforme o caso, uma cópia do DAE ou a 3ª via da GNRE acompanhar a mercadoria em seu transporte.\n\n.............................................\n\n**§ 8º** Na hipótese do inciso IX do caput deste artigo, em se tratando de sujeito passivo por substituição produtor rural, o ICMS relativo à prestação de serviço de transporte poderá ser recolhido até a data estabelecida para o recolhimento do ICMS relativo à respectiva operação com a mercadoria, desde que autorizado em regime especial concedido",
+        "contexto_sha256": "8eda58e7151b3b5b371d4042a25cdb706407bc1b7931ede065aab55b64ed9513"
+      },
+      {
+        "evento_indice": 37,
+        "inicio": 9644,
+        "fim": 9684,
+        "literal_sha256": "eec2e7703b7ff3ca60b810115a76a777a4e532d537fc0f6aa3aa29c7be9a06d8",
+        "contexto": "substituição produtor rural, o ICMS relativo à prestação de serviço de transporte poderá ser recolhido até a data estabelecida para o recolhimento do ICMS relativo à respectiva operação com a mercadoria, desde que autorizado em regime especial concedido pelo titular da Delegacia Fiscal a que estiver circunscrito o estabelecimento produtor.\n\nArt. 64........................................\n\nI - contribuinte inscrito e situado neste Estado que distribua a mercadoria a revendedores não-inscritos neste Estado, para venda porta-a-porta a consumidor final;\n\n.............................................\n\nVIII - Parte 2 do Anexo XV:\n\n\"\n\n5\\. (…) Âmbito de Aplicação da Substituição Tributária Interno e nas seguintes unidades da Federação: Ac",
+        "contexto_sha256": "23b335e059c4080d116a55212101fdd5c1d0b8f03915f59a4fa05db7f56c0bd5"
+      },
+      {
+        "evento_indice": 38,
+        "inicio": 9851,
+        "fim": 9896,
+        "literal_sha256": "90d1dd74cc6998e93ce835696cb76694431c92b521d78ddc66ea39954d735642",
+        "contexto": "de que autorizado em regime especial concedido pelo titular da Delegacia Fiscal a que estiver circunscrito o estabelecimento produtor.\n\nArt. 64........................................\n\nI - contribuinte inscrito e situado neste Estado que distribua a mercadoria a revendedores não-inscritos neste Estado, para venda porta-a-porta a consumidor final;\n\n.............................................\n\nVIII - Parte 2 do Anexo XV:\n\n\"\n\n5\\. (…) Âmbito de Aplicação da Substituição Tributária Interno e nas seguintes unidades da Federação: Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Distrito Federal, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraíba, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do",
+        "contexto_sha256": "6cedac8d34f2e9e3b1baa97dda19ad345b47a5f909b8b9761b691abef491a163"
+      },
+      {
+        "evento_indice": 39,
+        "inicio": 9935,
+        "fim": 9936,
+        "literal_sha256": "b4935894c8ce16bde67bbffc672428b1533c4f1e1e8b1ce21a2933183db6bfa5",
+        "contexto": "e estiver circunscrito o estabelecimento produtor.\n\nArt. 64........................................\n\nI - contribuinte inscrito e situado neste Estado que distribua a mercadoria a revendedores não-inscritos neste Estado, para venda porta-a-porta a consumidor final;\n\n.............................................\n\nVIII - Parte 2 do Anexo XV:\n\n\"\n\n5\\. (…) Âmbito de Aplicação da Substituição Tributária Interno e nas seguintes unidades da Federação: Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Distrito Federal, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraíba, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul\\*, Rondônia, Roraima, São Paulo, Se",
+        "contexto_sha256": "99f2482f2a9f453bb6e0f3472fde71f0e88dd1f78eaad883e6287bd9dbdf5edd"
+      },
+      {
+        "evento_indice": 40,
+        "inicio": 10363,
+        "fim": 10366,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ades da Federação: Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Distrito Federal, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraíba, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul\\*, Rondônia, Roraima, São Paulo, Sergipe e Tocantins (Protocolo ICM 17/85) \\*exceto nas operações com reatores (...) (...) (...) (...) 15.8 4015.11.00 4015.19.00 Luvas cirúrgicas e luvas de procedimento 29 (...) (...) (...) (...) 26.9 Óleos lubrificantes 30 26.10 Mercadorias relacionadas nos itens 26.1 a 26.9 derivados de petróleo Na operação interna: 30 Na operação interestadual: 58,54\n\n(nr)\".\n\n**Art. 3º** Este Decreto entra em vigor na data de sua publicação,",
+        "contexto_sha256": "4ad676bd1563babb22a4c5a03664ca2ba46f8f045fe134c85ebc36f29338bb69"
+      },
+      {
+        "evento_indice": 41,
+        "inicio": 10369,
+        "fim": 10372,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "a Federação: Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Distrito Federal, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraíba, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul\\*, Rondônia, Roraima, São Paulo, Sergipe e Tocantins (Protocolo ICM 17/85) \\*exceto nas operações com reatores (...) (...) (...) (...) 15.8 4015.11.00 4015.19.00 Luvas cirúrgicas e luvas de procedimento 29 (...) (...) (...) (...) 26.9 Óleos lubrificantes 30 26.10 Mercadorias relacionadas nos itens 26.1 a 26.9 derivados de petróleo Na operação interna: 30 Na operação interestadual: 58,54\n\n(nr)\".\n\n**Art. 3º** Este Decreto entra em vigor na data de sua publicação, produ",
+        "contexto_sha256": "ef697b5a47160a76137b7eff86a009f145e8e65f7a0f9a228bae92f9855795af"
+      },
+      {
+        "evento_indice": 42,
+        "inicio": 10375,
+        "fim": 10378,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ração: Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Distrito Federal, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraíba, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul\\*, Rondônia, Roraima, São Paulo, Sergipe e Tocantins (Protocolo ICM 17/85) \\*exceto nas operações com reatores (...) (...) (...) (...) 15.8 4015.11.00 4015.19.00 Luvas cirúrgicas e luvas de procedimento 29 (...) (...) (...) (...) 26.9 Óleos lubrificantes 30 26.10 Mercadorias relacionadas nos itens 26.1 a 26.9 derivados de petróleo Na operação interna: 30 Na operação interestadual: 58,54\n\n(nr)\".\n\n**Art. 3º** Este Decreto entra em vigor na data de sua publicação, produzindo ",
+        "contexto_sha256": "9564201121d514dc0d8925b47480ca4a9e261b514e9cd42c00fca7c01310fb0f"
+      },
+      {
+        "evento_indice": 43,
+        "inicio": 10381,
+        "fim": 10384,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Distrito Federal, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraíba, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul\\*, Rondônia, Roraima, São Paulo, Sergipe e Tocantins (Protocolo ICM 17/85) \\*exceto nas operações com reatores (...) (...) (...) (...) 15.8 4015.11.00 4015.19.00 Luvas cirúrgicas e luvas de procedimento 29 (...) (...) (...) (...) 26.9 Óleos lubrificantes 30 26.10 Mercadorias relacionadas nos itens 26.1 a 26.9 derivados de petróleo Na operação interna: 30 Na operação interestadual: 58,54\n\n(nr)\".\n\n**Art. 3º** Este Decreto entra em vigor na data de sua publicação, produzindo efeito",
+        "contexto_sha256": "be97960daaa9a4f51d42cf85ba4ed7cd84fc6e795418177836ec18fa7dfc0611"
+      },
+      {
+        "evento_indice": 44,
+        "inicio": 10458,
+        "fim": 10461,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "to, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraíba, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul\\*, Rondônia, Roraima, São Paulo, Sergipe e Tocantins (Protocolo ICM 17/85) \\*exceto nas operações com reatores (...) (...) (...) (...) 15.8 4015.11.00 4015.19.00 Luvas cirúrgicas e luvas de procedimento 29 (...) (...) (...) (...) 26.9 Óleos lubrificantes 30 26.10 Mercadorias relacionadas nos itens 26.1 a 26.9 derivados de petróleo Na operação interna: 30 Na operação interestadual: 58,54\n\n(nr)\".\n\n**Art. 3º** Este Decreto entra em vigor na data de sua publicação, produzindo efeitos, relativamente aos dispositivos abaixo relacionados, a partir:\n\nI - de 1º d",
+        "contexto_sha256": "b241fcd2c00413cb3fd0355c4a5c8cbfa925cd8fe45d94137b27e86d1493c50e"
+      },
+      {
+        "evento_indice": 45,
+        "inicio": 10464,
+        "fim": 10467,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "iás, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraíba, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul\\*, Rondônia, Roraima, São Paulo, Sergipe e Tocantins (Protocolo ICM 17/85) \\*exceto nas operações com reatores (...) (...) (...) (...) 15.8 4015.11.00 4015.19.00 Luvas cirúrgicas e luvas de procedimento 29 (...) (...) (...) (...) 26.9 Óleos lubrificantes 30 26.10 Mercadorias relacionadas nos itens 26.1 a 26.9 derivados de petróleo Na operação interna: 30 Na operação interestadual: 58,54\n\n(nr)\".\n\n**Art. 3º** Este Decreto entra em vigor na data de sua publicação, produzindo efeitos, relativamente aos dispositivos abaixo relacionados, a partir:\n\nI - de 1º de deze",
+        "contexto_sha256": "2c6df4eda518f1b2a58132d4b3c715b0cbe07a211fc4de52276805e7838f6dd6"
+      },
+      {
+        "evento_indice": 46,
+        "inicio": 10470,
+        "fim": 10473,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "aranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraíba, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul\\*, Rondônia, Roraima, São Paulo, Sergipe e Tocantins (Protocolo ICM 17/85) \\*exceto nas operações com reatores (...) (...) (...) (...) 15.8 4015.11.00 4015.19.00 Luvas cirúrgicas e luvas de procedimento 29 (...) (...) (...) (...) 26.9 Óleos lubrificantes 30 26.10 Mercadorias relacionadas nos itens 26.1 a 26.9 derivados de petróleo Na operação interna: 30 Na operação interestadual: 58,54\n\n(nr)\".\n\n**Art. 3º** Este Decreto entra em vigor na data de sua publicação, produzindo efeitos, relativamente aos dispositivos abaixo relacionados, a partir:\n\nI - de 1º de dezembro d",
+        "contexto_sha256": "f33df7f85807dbfee5b340ca860fa1c46cbf32d4e442bc38c14b95c5fd151ca4"
+      },
+      {
+        "evento_indice": 47,
+        "inicio": 10476,
+        "fim": 10479,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "o, Mato Grosso, Mato Grosso do Sul, Pará, Paraíba, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul\\*, Rondônia, Roraima, São Paulo, Sergipe e Tocantins (Protocolo ICM 17/85) \\*exceto nas operações com reatores (...) (...) (...) (...) 15.8 4015.11.00 4015.19.00 Luvas cirúrgicas e luvas de procedimento 29 (...) (...) (...) (...) 26.9 Óleos lubrificantes 30 26.10 Mercadorias relacionadas nos itens 26.1 a 26.9 derivados de petróleo Na operação interna: 30 Na operação interestadual: 58,54\n\n(nr)\".\n\n**Art. 3º** Este Decreto entra em vigor na data de sua publicação, produzindo efeitos, relativamente aos dispositivos abaixo relacionados, a partir:\n\nI - de 1º de dezembro de 2005",
+        "contexto_sha256": "47c58e6582f98bf56c0ee9f126357785e0f780832a18f3ac9826d528f73049ac"
+      }
+    ],
+    "body_sha256": "ff3c16f1aaa4d5f87a32ae50c3ffecd5224990a926e8a85a4e2f73949100f812",
+    "trecho_inicial": "---\ntitulo: \"Decreto nº 44553, de 27/06/2007\"\nuf: \"MG\"\ntipo: \"Decreto\"\nnumero: \"44553\"\ndata: 2007-06-27\nementa: \"ALTERA O REGULAMENTO DO ICMS, APROVADO PELO DECRETO Nº 43.080, DE 13 DE DEZEMBRO DE 2002.\"\nsituacao: \"Revogada\"\nrevogada: true\nversao_texto: \"atualizada\"\nfonte: \"https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/44553/2007/documento?tipoDoc=572\"\nbaixado_em: 2026-10-16\n---\n# Decreto nº 44553, de 27/06/2007\n\nAltera o Regulamento do ICMS, aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002.\n\n(O Decreto nº 44.553, de 27/6/2007, foi revogado pelo item 144 do Anexo do Decreto nº 48.590, de 22/3/2023.)\n\n(Vide art. 1º do Decreto nº 48.590, de 22/3/2023.)\n\nO GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso de atribuição que lhe confere o inciso VII do art. 90, da Constituição do Estado, e tendo em vista o disposto nos Convênios ICMS 100/97 e 06/06 e nos arts. 9º, 22, § 8º e 39 da Lei nº 6.763, de 26 de dezembro de 1975,\n\nDECRETA:\n\n**Art. 1º** O Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n\"Art. 42........................................\n\n**§ 9º** Para os efeitos do disposto na subalínea \"d.1\" do inciso I do caput deste artigo:\n\n.............................................\n\nArt. 75........................................\n\n§ 6º.......................................\n\nIII - o benefício somente se aplica ao contribuinte que se enquadre como centro de distribuição exclusivo, conforme disposto no art. 222, XIV, deste Regulamento.\n\n§ 7º.......................................\n\nII - o benefício somente se aplica ao contribuinte que se enquadre como centro de distribuição, exclusivo ou não, conforme disposto no art. 222, XIV, deste Regulamento;\n\nIII - o contribuinte adotará opcionalmente a utilização do crédito presumido, devendo, em tal hipótese, registrar a opção no livro Registro de Utilização de Documentos Fiscais e Termos de Ocorrências (RUDFTO) e comunicá-la à Administração Fazendária a que estiver circunscrito, sendo-lhe vedado o aproveitamento de quaisquer outros créditos, inclusive aqueles já escriturados em seus livros fiscais, vinculados às operações beneficiadas com o crédito presumido;\n\nIV - exercida a opção, o contribuinte será mantido no sistema adotado pelo prazo mínimo de 12 (doze) meses, vedada a alteração antes do término do exercício financeiro.\n\n.............................................\n\nArt. 108.......................................",
+    "trecho_final": "iso IX do caput deste artigo, em se tratando de sujeito passivo por substituição produtor rural, o ICMS relativo à prestação de serviço de transporte poderá ser recolhido até a data estabelecida para o recolhimento do ICMS relativo à respectiva operação com a mercadoria, desde que autorizado em regime especial concedido pelo titular da Delegacia Fiscal a que estiver circunscrito o estabelecimento produtor.\n\nArt. 64........................................\n\nI - contribuinte inscrito e situado neste Estado que distribua a mercadoria a revendedores não-inscritos neste Estado, para venda porta-a-porta a consumidor final;\n\n.............................................\n\nVIII - Parte 2 do Anexo XV:\n\n\"\n\n5\\. (…) Âmbito de Aplicação da Substituição Tributária Interno e nas seguintes unidades da Federação: Acre, Alagoas, Amapá, Amazonas, Bahia, Ceará, Distrito Federal, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Pará, Paraíba, Pernambuco, Piauí, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul\\*, Rondônia, Roraima, São Paulo, Sergipe e Tocantins (Protocolo ICM 17/85) \\*exceto nas operações com reatores (...) (...) (...) (...) 15.8 4015.11.00 4015.19.00 Luvas cirúrgicas e luvas de procedimento 29 (...) (...) (...) (...) 26.9 Óleos lubrificantes 30 26.10 Mercadorias relacionadas nos itens 26.1 a 26.9 derivados de petróleo Na operação interna: 30 Na operação interestadual: 58,54\n\n(nr)\".\n\n**Art. 3º** Este Decreto entra em vigor na data de sua publicação, produzindo efeitos, relativamente aos dispositivos abaixo relacionados, a partir:\n\nI - de 1º de dezembro de 2005, os subitens 26.9 e 26.10 da Parte 2 do Anexo XV do RICMS;\n\nII - de 1º de janeiro de 2006, o subitem 8.1 da Parte 1 do Anexo IV do RICMS;\n\nIII - de 14 de janeiro de 2006:\n\na) o art. 42, § 9º, do RICMS;\n\nb) o item 150 da Parte 1 do Anexo I do RICMS;\n\nIV - de 16 de março de 2006, o art. 70, V, do RICMS;\n\nV - de 1º de julho de 2006, o art. 27 da Parte 1 do Anexo X do RICMS;\n\nVI - do primeiro dia do mês subseqüente à publicação, o art. 46, § 6º, da Parte 1 do Anexo XV do RICMS;\n\nVII - do primeiro dia do segundo mês subseqüente à publicação, o subitem 15.8 da Parte 2 do Anexo XV do RICMS.\n\nPalácio da Liberdade, em Belo Horizonte, aos 27 de junho de 2007; 219º da Inconfidência Mineira e 186º da Independência do Brasil.\n\nAÉCIO NEVES\n\nDanilo de Castro\n\nRenata Maria Paes de Vilhena\n\nSimão Cirineu Dias\n\n==================================================\n\nData da última atualização: 24/3/2023.\n",
+    "aplicado": false
+  },
+  {
+    "path": "estaduais/MG/decretos/2007/dec-44573-2007.md",
+    "md_sha256": "628020658de1915ac5125c3641cf8cf4b12bff2ddac111b8da5cb3ff32db39a2",
+    "fonte_sha256": "cb0eab0afa2ea9bc255c73103841b5f2303717a9060473cfda4ef3c253db405b",
+    "cache": "estaduais/MG/_fonte/decretos/2007/dec-44573-2007.html.gz",
+    "decisao": "reter_descricao_normativa_interrompida",
+    "fundamento": "Quarenta e quatro marcadores residuais são compatíveis com alterações parciais expressas, mas Parte 24 nova, item31, exige equipamento com 'Deve possuir capacidade de inserção de U' e passa imediatamente ao NBM8543.89.99/item32. A característica técnica fica interrompida após preposição e letra isolada; contexto não permite saber objeto da inserção. Reter por incerteza de descrição normativa própria incompleta, sem inventar complemento. Outras grafias literais e duplicações de equipamentos não são motivo autônomo de retenção. Partes23/24 e fecho presentes em texto linear.",
+    "cobertura_leitura": "identidade, comando proprio, todos os eventos pendentes e seus contextos, remissoes/anexos visiveis, fecho; sem certificacao visual",
+    "eventos_resolvidos": [
+      {
+        "evento_indice": 1,
+        "inicio": 1371,
+        "fim": 1397,
+        "literal_sha256": "27c055695d9cea2f87a57147a29039c1dda077aeb17a32589e29fdaa7e5bb335",
+        "contexto": "reto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com a seguinte alteração:\n\n\"Art. 19. A incidência do imposto fica suspensa nas hipóteses previstas no Anexo III ou e nas operações internas autorizadas mediante regime especial concedido pelo Diretor da Superintendência de Tributação (SUTRI).\n\n.................................\n\n**Art.42.** ..........................\n\nI.................................\n\nb.22 - laje pré-fabricada, telhas metálicas, forma-lajes metálicas, pontes metálicas, elementos de pontes metálicas, pórticos metálicos e torres de transmissão metálicas, até 31 de dezembro de 2008;\n\n...................................\n\nArt.97.............................\n\n**§ 3º** O Chefe da Administração Faze",
+        "contexto_sha256": "0b117b73791a7a9292c213acee47d6749c37b5b71315e0727b8461723300f221"
+      },
+      {
+        "evento_indice": 2,
+        "inicio": 1400,
+        "fim": 1433,
+        "literal_sha256": "4f653a0e984483819dba67aef5fb2c0453694565f100d3fb21d55c7f5e856718",
+        "contexto": "mbro de 2002, passa a vigorar com a seguinte alteração:\n\n\"Art. 19. A incidência do imposto fica suspensa nas hipóteses previstas no Anexo III ou e nas operações internas autorizadas mediante regime especial concedido pelo Diretor da Superintendência de Tributação (SUTRI).\n\n.................................\n\n**Art.42.** ..........................\n\nI.................................\n\nb.22 - laje pré-fabricada, telhas metálicas, forma-lajes metálicas, pontes metálicas, elementos de pontes metálicas, pórticos metálicos e torres de transmissão metálicas, até 31 de dezembro de 2008;\n\n...................................\n\nArt.97.............................\n\n**§ 3º** O Chefe da Administração Fazendária poderá autorizar a concessão ",
+        "contexto_sha256": "7d3cfc39b062d01afb4007d202e9942c4b7a2fa3f0ebf080cbeeacf31796588b"
+      },
+      {
+        "evento_indice": 3,
+        "inicio": 1635,
+        "fim": 1670,
+        "literal_sha256": "c5a75fa1a4bb27a365319555e92dbae4683403443b01452195b8bbe007b6b5ad",
+        "contexto": "perintendência de Tributação (SUTRI).\n\n.................................\n\n**Art.42.** ..........................\n\nI.................................\n\nb.22 - laje pré-fabricada, telhas metálicas, forma-lajes metálicas, pontes metálicas, elementos de pontes metálicas, pórticos metálicos e torres de transmissão metálicas, até 31 de dezembro de 2008;\n\n...................................\n\nArt.97.............................\n\n**§ 3º** O Chefe da Administração Fazendária poderá autorizar a concessão de inscrição única, com centralização da escrituração dos livros fiscais e do pagamento do imposto, quando o estabelecimento mantiver, em área próxima ou contígua, dentro do mesmo Município, atividades complementares, desde que a medida ",
+        "contexto_sha256": "5900496d522f0713e28e476f25089f1ae2ef3e5e16523821e6b419a02af3c157"
+      },
+      {
+        "evento_indice": 4,
+        "inicio": 1678,
+        "fim": 1707,
+        "literal_sha256": "706175462dc34c062f0faa2324c72ed263a44fdec7857dec319d4525ec53cd88",
+        "contexto": ".............................\n\n**Art.42.** ..........................\n\nI.................................\n\nb.22 - laje pré-fabricada, telhas metálicas, forma-lajes metálicas, pontes metálicas, elementos de pontes metálicas, pórticos metálicos e torres de transmissão metálicas, até 31 de dezembro de 2008;\n\n...................................\n\nArt.97.............................\n\n**§ 3º** O Chefe da Administração Fazendária poderá autorizar a concessão de inscrição única, com centralização da escrituração dos livros fiscais e do pagamento do imposto, quando o estabelecimento mantiver, em área próxima ou contígua, dentro do mesmo Município, atividades complementares, desde que a medida não dificulte a fiscalização do impos",
+        "contexto_sha256": "9f0e4aafe375ce7f4dfa4c8686c18a31467f7209072c844eef7ce8ef27f02833"
+      },
+      {
+        "evento_indice": 5,
+        "inicio": 2144,
+        "fim": 2182,
+        "literal_sha256": "b0102c787789d1b302c7cd490f2dec4e4176031a328c872163e544ce60e9b343",
+        "contexto": "o única, com centralização da escrituração dos livros fiscais e do pagamento do imposto, quando o estabelecimento mantiver, em área próxima ou contígua, dentro do mesmo Município, atividades complementares, desde que a medida não dificulte a fiscalização do imposto, a critério do titular da Delegacia Fiscal a que o contribuinte estiver circunscrito.\n\n...................................\n\n**§ 5º** O titular da Delegacia Fiscal poderá determinar a recusa ou o cancelamento de inscrição de mais de 1 (um) estabelecimento no mesmo local ou endereço, quando a existência simultânea dos estabelecimentos dificultar a fiscalização do imposto.\n\n............................\n\n**Art. 138-A.** Será obrigatória a utilização de série ou subsérie d",
+        "contexto_sha256": "fcaeb81ec8bad7dc3cd4f89081c7bd1db5d08b35caf3c8db6bcda4f6e6a10ef0"
+      },
+      {
+        "evento_indice": 6,
+        "inicio": 2431,
+        "fim": 2462,
+        "literal_sha256": "a0528849cfd7a1ab78cdfc18e4a8ecdd315406615e43ada31da6f889e48edcdd",
+        "contexto": "r da Delegacia Fiscal a que o contribuinte estiver circunscrito.\n\n...................................\n\n**§ 5º** O titular da Delegacia Fiscal poderá determinar a recusa ou o cancelamento de inscrição de mais de 1 (um) estabelecimento no mesmo local ou endereço, quando a existência simultânea dos estabelecimentos dificultar a fiscalização do imposto.\n\n............................\n\n**Art. 138-A.** Será obrigatória a utilização de série ou subsérie distinta na utilização de documento não relacionado no art. 136 deste Regulamento e que tenha previsão de emissão por processamento eletrônico de dados, observada a seriação prevista nos incisos I e II do mesmo dispositivo, independentemente da forma de impressão.\"(nr)\n\n**Art. 2º*",
+        "contexto_sha256": "0a888875822f9baa55641da5f9c4afb36c4b4820af7355965e44755dfad30434"
+      },
+      {
+        "evento_indice": 7,
+        "inicio": 2931,
+        "fim": 2934,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "o no art. 136 deste Regulamento e que tenha previsão de emissão por processamento eletrônico de dados, observada a seriação prevista nos incisos I e II do mesmo dispositivo, independentemente da forma de impressão.\"(nr)\n\n**Art. 2º** Os Anexos abaixo relacionados do RICMS, passam a vigorar com as seguintes alterações:\n\nI - Parte 1 do Anexo I:\"\n\n32 (...) 31/10/2007 (nr) 45 (...) 31/07/2007 (nr) 74 (...) 31/07/2007 (nr) 81 81.1 81.4 (...) b - pela Secretaria de Estado de Transportes e Obras Públicas (SETOP), ou por terceiro delegado mediante concessão daquele, quando na Região Metropolitana de Belo Horizonte ou em linha semi-urbana. (...) a - da condição de delegatário de serviço de transporte em ",
+        "contexto_sha256": "8c5a6d8883cc26ab5d8b9e64f56fe2921da1eae378345ac1c02482cf9283656d"
+      },
+      {
+        "evento_indice": 8,
+        "inicio": 2956,
+        "fim": 2959,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "amento e que tenha previsão de emissão por processamento eletrônico de dados, observada a seriação prevista nos incisos I e II do mesmo dispositivo, independentemente da forma de impressão.\"(nr)\n\n**Art. 2º** Os Anexos abaixo relacionados do RICMS, passam a vigorar com as seguintes alterações:\n\nI - Parte 1 do Anexo I:\"\n\n32 (...) 31/10/2007 (nr) 45 (...) 31/07/2007 (nr) 74 (...) 31/07/2007 (nr) 81 81.1 81.4 (...) b - pela Secretaria de Estado de Transportes e Obras Públicas (SETOP), ou por terceiro delegado mediante concessão daquele, quando na Região Metropolitana de Belo Horizonte ou em linha semi-urbana. (...) a - da condição de delegatário de serviço de transporte em linha semi-urbana far-se-",
+        "contexto_sha256": "51f7fcf772c48eb8ddfd79662c309a2826f8bfd68e3166c5b9c3b2e3b2ea1740"
+      },
+      {
+        "evento_indice": 9,
+        "inicio": 2981,
+        "fim": 2984,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ão de emissão por processamento eletrônico de dados, observada a seriação prevista nos incisos I e II do mesmo dispositivo, independentemente da forma de impressão.\"(nr)\n\n**Art. 2º** Os Anexos abaixo relacionados do RICMS, passam a vigorar com as seguintes alterações:\n\nI - Parte 1 do Anexo I:\"\n\n32 (...) 31/10/2007 (nr) 45 (...) 31/07/2007 (nr) 74 (...) 31/07/2007 (nr) 81 81.1 81.4 (...) b - pela Secretaria de Estado de Transportes e Obras Públicas (SETOP), ou por terceiro delegado mediante concessão daquele, quando na Região Metropolitana de Belo Horizonte ou em linha semi-urbana. (...) a - da condição de delegatário de serviço de transporte em linha semi-urbana far-se-á por certidão expedida p",
+        "contexto_sha256": "13442dc4191d93ae79b1d3cd2bcb6a9a5f011b7a1d5ef9b6202c7381c6b3a1b7"
+      },
+      {
+        "evento_indice": 10,
+        "inicio": 3016,
+        "fim": 3019,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "trônico de dados, observada a seriação prevista nos incisos I e II do mesmo dispositivo, independentemente da forma de impressão.\"(nr)\n\n**Art. 2º** Os Anexos abaixo relacionados do RICMS, passam a vigorar com as seguintes alterações:\n\nI - Parte 1 do Anexo I:\"\n\n32 (...) 31/10/2007 (nr) 45 (...) 31/07/2007 (nr) 74 (...) 31/07/2007 (nr) 81 81.1 81.4 (...) b - pela Secretaria de Estado de Transportes e Obras Públicas (SETOP), ou por terceiro delegado mediante concessão daquele, quando na Região Metropolitana de Belo Horizonte ou em linha semi-urbana. (...) a - da condição de delegatário de serviço de transporte em linha semi-urbana far-se-á por certidão expedida pelo DER/MG; (nr) (...) 85 (...) 31/",
+        "contexto_sha256": "009b3643448ed6f451d18c8818afc7a6edec026b6917c8a12139d53b89ceb9a6"
+      },
+      {
+        "evento_indice": 11,
+        "inicio": 3220,
+        "fim": 3223,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " com as seguintes alterações:\n\nI - Parte 1 do Anexo I:\"\n\n32 (...) 31/10/2007 (nr) 45 (...) 31/07/2007 (nr) 74 (...) 31/07/2007 (nr) 81 81.1 81.4 (...) b - pela Secretaria de Estado de Transportes e Obras Públicas (SETOP), ou por terceiro delegado mediante concessão daquele, quando na Região Metropolitana de Belo Horizonte ou em linha semi-urbana. (...) a - da condição de delegatário de serviço de transporte em linha semi-urbana far-se-á por certidão expedida pelo DER/MG; (nr) (...) 85 (...) 31/07/2007 (nr) 96 (...) 31/12/2011 (nr) 98 (...) 31/07/2007 (nr) 106 (...) 31/07/2007 (nr) 107 (...) 31/12/2011 (nr) 129 (...) 31/07/2007 (nr) 133 (...) b - (...) (...) 31/07/2007 (nr) 134 (...) 31/07/2007 ",
+        "contexto_sha256": "03f333265fa18eb9f9dfef3ea92ae8737bd34e98bb6783318b34ebb398726613"
+      },
+      {
+        "evento_indice": 12,
+        "inicio": 3352,
+        "fim": 3355,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "81 81.1 81.4 (...) b - pela Secretaria de Estado de Transportes e Obras Públicas (SETOP), ou por terceiro delegado mediante concessão daquele, quando na Região Metropolitana de Belo Horizonte ou em linha semi-urbana. (...) a - da condição de delegatário de serviço de transporte em linha semi-urbana far-se-á por certidão expedida pelo DER/MG; (nr) (...) 85 (...) 31/07/2007 (nr) 96 (...) 31/12/2011 (nr) 98 (...) 31/07/2007 (nr) 106 (...) 31/07/2007 (nr) 107 (...) 31/12/2011 (nr) 129 (...) 31/07/2007 (nr) 133 (...) b - (...) (...) 31/07/2007 (nr) 134 (...) 31/07/2007 (nr) 135 (...) 31/07/2007 (nr) 137 (...) 31/07/2007 (nr) 144 (...) 31/07/2007 (nr) 154 154.2 Entrada decorrente de importação do ext",
+        "contexto_sha256": "f2f214478ceaa5adfac60e84739d7451074d023d1c67b89949f280fcbfa71d45"
+      },
+      {
+        "evento_indice": 13,
+        "inicio": 3361,
+        "fim": 3364,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "1.4 (...) b - pela Secretaria de Estado de Transportes e Obras Públicas (SETOP), ou por terceiro delegado mediante concessão daquele, quando na Região Metropolitana de Belo Horizonte ou em linha semi-urbana. (...) a - da condição de delegatário de serviço de transporte em linha semi-urbana far-se-á por certidão expedida pelo DER/MG; (nr) (...) 85 (...) 31/07/2007 (nr) 96 (...) 31/12/2011 (nr) 98 (...) 31/07/2007 (nr) 106 (...) 31/07/2007 (nr) 107 (...) 31/12/2011 (nr) 129 (...) 31/07/2007 (nr) 133 (...) b - (...) (...) 31/07/2007 (nr) 134 (...) 31/07/2007 (nr) 135 (...) 31/07/2007 (nr) 137 (...) 31/07/2007 (nr) 144 (...) 31/07/2007 (nr) 154 154.2 Entrada decorrente de importação do exterior, e ",
+        "contexto_sha256": "420fb4ec21a7f9bd5deb2b6dc1a5cd9967c2242fcc3a8da5293051c5d958b3df"
+      },
+      {
+        "evento_indice": 14,
+        "inicio": 3386,
+        "fim": 3389,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "aria de Estado de Transportes e Obras Públicas (SETOP), ou por terceiro delegado mediante concessão daquele, quando na Região Metropolitana de Belo Horizonte ou em linha semi-urbana. (...) a - da condição de delegatário de serviço de transporte em linha semi-urbana far-se-á por certidão expedida pelo DER/MG; (nr) (...) 85 (...) 31/07/2007 (nr) 96 (...) 31/12/2011 (nr) 98 (...) 31/07/2007 (nr) 106 (...) 31/07/2007 (nr) 107 (...) 31/12/2011 (nr) 129 (...) 31/07/2007 (nr) 133 (...) b - (...) (...) 31/07/2007 (nr) 134 (...) 31/07/2007 (nr) 135 (...) 31/07/2007 (nr) 137 (...) 31/07/2007 (nr) 144 (...) 31/07/2007 (nr) 154 154.2 Entrada decorrente de importação do exterior, e saída, em operação intere",
+        "contexto_sha256": "ebe74d2efa41b16d3c1c6b523fc7527cb7495b6faf399a99a8f101ac1180553e"
+      },
+      {
+        "evento_indice": 15,
+        "inicio": 3411,
+        "fim": 3414,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "rtes e Obras Públicas (SETOP), ou por terceiro delegado mediante concessão daquele, quando na Região Metropolitana de Belo Horizonte ou em linha semi-urbana. (...) a - da condição de delegatário de serviço de transporte em linha semi-urbana far-se-á por certidão expedida pelo DER/MG; (nr) (...) 85 (...) 31/07/2007 (nr) 96 (...) 31/12/2011 (nr) 98 (...) 31/07/2007 (nr) 106 (...) 31/07/2007 (nr) 107 (...) 31/12/2011 (nr) 129 (...) 31/07/2007 (nr) 133 (...) b - (...) (...) 31/07/2007 (nr) 134 (...) 31/07/2007 (nr) 135 (...) 31/07/2007 (nr) 137 (...) 31/07/2007 (nr) 144 (...) 31/07/2007 (nr) 154 154.2 Entrada decorrente de importação do exterior, e saída, em operação interestadual, promovida por co",
+        "contexto_sha256": "029ad205bf3fe037408c2401f09f6bd68cf6ffd6b2fb487f229cd3a643bbc815"
+      },
+      {
+        "evento_indice": 16,
+        "inicio": 3437,
+        "fim": 3440,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "OP), ou por terceiro delegado mediante concessão daquele, quando na Região Metropolitana de Belo Horizonte ou em linha semi-urbana. (...) a - da condição de delegatário de serviço de transporte em linha semi-urbana far-se-á por certidão expedida pelo DER/MG; (nr) (...) 85 (...) 31/07/2007 (nr) 96 (...) 31/12/2011 (nr) 98 (...) 31/07/2007 (nr) 106 (...) 31/07/2007 (nr) 107 (...) 31/12/2011 (nr) 129 (...) 31/07/2007 (nr) 133 (...) b - (...) (...) 31/07/2007 (nr) 134 (...) 31/07/2007 (nr) 135 (...) 31/07/2007 (nr) 137 (...) 31/07/2007 (nr) 144 (...) 31/07/2007 (nr) 154 154.2 Entrada decorrente de importação do exterior, e saída, em operação interestadual, promovida por concessionária de serviço de",
+        "contexto_sha256": "c03dd8d65a4b8189cceb237ccb9fc5c825013c5df949f4759c6353383861116f"
+      },
+      {
+        "evento_indice": 17,
+        "inicio": 3463,
+        "fim": 3466,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ado mediante concessão daquele, quando na Região Metropolitana de Belo Horizonte ou em linha semi-urbana. (...) a - da condição de delegatário de serviço de transporte em linha semi-urbana far-se-á por certidão expedida pelo DER/MG; (nr) (...) 85 (...) 31/07/2007 (nr) 96 (...) 31/12/2011 (nr) 98 (...) 31/07/2007 (nr) 106 (...) 31/07/2007 (nr) 107 (...) 31/12/2011 (nr) 129 (...) 31/07/2007 (nr) 133 (...) b - (...) (...) 31/07/2007 (nr) 134 (...) 31/07/2007 (nr) 135 (...) 31/07/2007 (nr) 137 (...) 31/07/2007 (nr) 144 (...) 31/07/2007 (nr) 154 154.2 Entrada decorrente de importação do exterior, e saída, em operação interestadual, promovida por concessionária de serviço de transporte ferroviário de",
+        "contexto_sha256": "84fe95bdd15aa26209d5d89351a1a5c41a1e408800ff80e899bf359bf4d54c59"
+      },
+      {
+        "evento_indice": 18,
+        "inicio": 3489,
+        "fim": 3492,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "uele, quando na Região Metropolitana de Belo Horizonte ou em linha semi-urbana. (...) a - da condição de delegatário de serviço de transporte em linha semi-urbana far-se-á por certidão expedida pelo DER/MG; (nr) (...) 85 (...) 31/07/2007 (nr) 96 (...) 31/12/2011 (nr) 98 (...) 31/07/2007 (nr) 106 (...) 31/07/2007 (nr) 107 (...) 31/12/2011 (nr) 129 (...) 31/07/2007 (nr) 133 (...) b - (...) (...) 31/07/2007 (nr) 134 (...) 31/07/2007 (nr) 135 (...) 31/07/2007 (nr) 137 (...) 31/07/2007 (nr) 144 (...) 31/07/2007 (nr) 154 154.2 Entrada decorrente de importação do exterior, e saída, em operação interestadual, promovida por concessionária de serviço de transporte ferroviário de cargas, de locomotiva do ",
+        "contexto_sha256": "296aa7e065f5c1c455f44ade44cdf0df522612157e7a9d751c93fa895f30cb6e"
+      },
+      {
+        "evento_indice": 19,
+        "inicio": 3515,
+        "fim": 3518,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ropolitana de Belo Horizonte ou em linha semi-urbana. (...) a - da condição de delegatário de serviço de transporte em linha semi-urbana far-se-á por certidão expedida pelo DER/MG; (nr) (...) 85 (...) 31/07/2007 (nr) 96 (...) 31/12/2011 (nr) 98 (...) 31/07/2007 (nr) 106 (...) 31/07/2007 (nr) 107 (...) 31/12/2011 (nr) 129 (...) 31/07/2007 (nr) 133 (...) b - (...) (...) 31/07/2007 (nr) 134 (...) 31/07/2007 (nr) 135 (...) 31/07/2007 (nr) 137 (...) 31/07/2007 (nr) 144 (...) 31/07/2007 (nr) 154 154.2 Entrada decorrente de importação do exterior, e saída, em operação interestadual, promovida por concessionária de serviço de transporte ferroviário de cargas, de locomotiva do tipo diesel-elétrico, com ",
+        "contexto_sha256": "4ff524cbf84df2546156069092b945bec8da7966961bd9c19f42e7888c7171f3"
+      },
+      {
+        "evento_indice": 20,
+        "inicio": 3525,
+        "fim": 3528,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " de Belo Horizonte ou em linha semi-urbana. (...) a - da condição de delegatário de serviço de transporte em linha semi-urbana far-se-á por certidão expedida pelo DER/MG; (nr) (...) 85 (...) 31/07/2007 (nr) 96 (...) 31/12/2011 (nr) 98 (...) 31/07/2007 (nr) 106 (...) 31/07/2007 (nr) 107 (...) 31/12/2011 (nr) 129 (...) 31/07/2007 (nr) 133 (...) b - (...) (...) 31/07/2007 (nr) 134 (...) 31/07/2007 (nr) 135 (...) 31/07/2007 (nr) 137 (...) 31/07/2007 (nr) 144 (...) 31/07/2007 (nr) 154 154.2 Entrada decorrente de importação do exterior, e saída, em operação interestadual, promovida por concessionária de serviço de transporte ferroviário de cargas, de locomotiva do tipo diesel-elétrico, com potência m",
+        "contexto_sha256": "27e5ac32c85ef28556954bdef60e6f800c90767d9b73679c6b9bb54291fbabde"
+      },
+      {
+        "evento_indice": 21,
+        "inicio": 3531,
+        "fim": 3534,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "lo Horizonte ou em linha semi-urbana. (...) a - da condição de delegatário de serviço de transporte em linha semi-urbana far-se-á por certidão expedida pelo DER/MG; (nr) (...) 85 (...) 31/07/2007 (nr) 96 (...) 31/12/2011 (nr) 98 (...) 31/07/2007 (nr) 106 (...) 31/07/2007 (nr) 107 (...) 31/12/2011 (nr) 129 (...) 31/07/2007 (nr) 133 (...) b - (...) (...) 31/07/2007 (nr) 134 (...) 31/07/2007 (nr) 135 (...) 31/07/2007 (nr) 137 (...) 31/07/2007 (nr) 144 (...) 31/07/2007 (nr) 154 154.2 Entrada decorrente de importação do exterior, e saída, em operação interestadual, promovida por concessionária de serviço de transporte ferroviário de cargas, de locomotiva do tipo diesel-elétrico, com potência máxima ",
+        "contexto_sha256": "86732ec25c9ad50e80292a0d5785fdb90a1688e5cf735cff09dd182772879ee1"
+      },
+      {
+        "evento_indice": 22,
+        "inicio": 3557,
+        "fim": 3560,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "emi-urbana. (...) a - da condição de delegatário de serviço de transporte em linha semi-urbana far-se-á por certidão expedida pelo DER/MG; (nr) (...) 85 (...) 31/07/2007 (nr) 96 (...) 31/12/2011 (nr) 98 (...) 31/07/2007 (nr) 106 (...) 31/07/2007 (nr) 107 (...) 31/12/2011 (nr) 129 (...) 31/07/2007 (nr) 133 (...) b - (...) (...) 31/07/2007 (nr) 134 (...) 31/07/2007 (nr) 135 (...) 31/07/2007 (nr) 137 (...) 31/07/2007 (nr) 144 (...) 31/07/2007 (nr) 154 154.2 Entrada decorrente de importação do exterior, e saída, em operação interestadual, promovida por concessionária de serviço de transporte ferroviário de cargas, de locomotiva do tipo diesel-elétrico, com potência máxima superior a 3.000 (três mil",
+        "contexto_sha256": "8d987913b0c42ae49143655715afa66005fcd43af4052661ee366edc2b1721c0"
+      },
+      {
+        "evento_indice": 23,
+        "inicio": 3583,
+        "fim": 3586,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ondição de delegatário de serviço de transporte em linha semi-urbana far-se-á por certidão expedida pelo DER/MG; (nr) (...) 85 (...) 31/07/2007 (nr) 96 (...) 31/12/2011 (nr) 98 (...) 31/07/2007 (nr) 106 (...) 31/07/2007 (nr) 107 (...) 31/12/2011 (nr) 129 (...) 31/07/2007 (nr) 133 (...) b - (...) (...) 31/07/2007 (nr) 134 (...) 31/07/2007 (nr) 135 (...) 31/07/2007 (nr) 137 (...) 31/07/2007 (nr) 144 (...) 31/07/2007 (nr) 154 154.2 Entrada decorrente de importação do exterior, e saída, em operação interestadual, promovida por concessionária de serviço de transporte ferroviário de cargas, de locomotiva do tipo diesel-elétrico, com potência máxima superior a 3.000 (três mil) HP e de trilho para estr",
+        "contexto_sha256": "fe847ab48ab78b2150a6a1de9f55f1b8ea2342f91d358b9a3f3f54aa38a5f81d"
+      },
+      {
+        "evento_indice": 24,
+        "inicio": 3609,
+        "fim": 3612,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "serviço de transporte em linha semi-urbana far-se-á por certidão expedida pelo DER/MG; (nr) (...) 85 (...) 31/07/2007 (nr) 96 (...) 31/12/2011 (nr) 98 (...) 31/07/2007 (nr) 106 (...) 31/07/2007 (nr) 107 (...) 31/12/2011 (nr) 129 (...) 31/07/2007 (nr) 133 (...) b - (...) (...) 31/07/2007 (nr) 134 (...) 31/07/2007 (nr) 135 (...) 31/07/2007 (nr) 137 (...) 31/07/2007 (nr) 144 (...) 31/07/2007 (nr) 154 154.2 Entrada decorrente de importação do exterior, e saída, em operação interestadual, promovida por concessionária de serviço de transporte ferroviário de cargas, de locomotiva do tipo diesel-elétrico, com potência máxima superior a 3.000 (três mil) HP e de trilho para estrada de ferro, sem similar ",
+        "contexto_sha256": "c4aa972adbeac81b16556c3567255e51974072cae4c25c1de58f5f3654c8cf8a"
+      },
+      {
+        "evento_indice": 25,
+        "inicio": 3635,
+        "fim": 3638,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "inha semi-urbana far-se-á por certidão expedida pelo DER/MG; (nr) (...) 85 (...) 31/07/2007 (nr) 96 (...) 31/12/2011 (nr) 98 (...) 31/07/2007 (nr) 106 (...) 31/07/2007 (nr) 107 (...) 31/12/2011 (nr) 129 (...) 31/07/2007 (nr) 133 (...) b - (...) (...) 31/07/2007 (nr) 134 (...) 31/07/2007 (nr) 135 (...) 31/07/2007 (nr) 137 (...) 31/07/2007 (nr) 144 (...) 31/07/2007 (nr) 154 154.2 Entrada decorrente de importação do exterior, e saída, em operação interestadual, promovida por concessionária de serviço de transporte ferroviário de cargas, de locomotiva do tipo diesel-elétrico, com potência máxima superior a 3.000 (três mil) HP e de trilho para estrada de ferro, sem similar produzido no país, classif",
+        "contexto_sha256": "153f910b8bb5effd31f367e6d35446348f6ec1dfb3fd9a7c0520de452b103a08"
+      },
+      {
+        "evento_indice": 26,
+        "inicio": 4425,
+        "fim": 4428,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "e classificação adotado a partir de 1º de janeiro de 1997), para serem utilizados na prestação de serviço de transporte ferroviário de cargas, desde que sejam desonerados do Imposto de Importação (II). A isenção prevista neste item aplica-se também ao diferencial de alíquotas, decorrente de aquisição de mercadorias em operação interestadual. (nr) (...) 156 Saída, em operação interna ou interestadual, em virtude de garantia, de parte ou peça defeituosa destinada ao estabelecimento fabricante, desde que a remessa ocorra até trinta dias após o prazo de vencimento da garantia. (nr) (...) 157 157.1 157.2 157.3 157.4 Saída, em operação interna ou interestadual, ou entrada decorrente de importação do ",
+        "contexto_sha256": "c51cdca47da6384cfddc6fe98f87f87107eb2a6dd0b67f8e1db4a5e1e24dbf14"
+      },
+      {
+        "evento_indice": 27,
+        "inicio": 4661,
+        "fim": 4664,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ca-se também ao diferencial de alíquotas, decorrente de aquisição de mercadorias em operação interestadual. (nr) (...) 156 Saída, em operação interna ou interestadual, em virtude de garantia, de parte ou peça defeituosa destinada ao estabelecimento fabricante, desde que a remessa ocorra até trinta dias após o prazo de vencimento da garantia. (nr) (...) 157 157.1 157.2 157.3 157.4 Saída, em operação interna ou interestadual, ou entrada decorrente de importação do exterior, de medicamentos e reagentes químicos, constantes da Parte 23 deste Anexo, kits laboratoriais e equipamentos, bem como suas partes e peças, utilizados em pesquisas com seres humanos, destinadas ao desenvolvimento de novos medic",
+        "contexto_sha256": "ecdb2078d1113a0149e83d27bb91fb50d3f6acb6349065224d4844e59790b018"
+      },
+      {
+        "evento_indice": 28,
+        "inicio": 8329,
+        "fim": 8332,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ao imposto dispensado; e b - seja indicado, no respectivo documento fiscal, o valor do desconto. Fica dispensado o estorno do crédito na saída da mercadoria beneficiada com a isenção prevista neste item. 31/12/2008\n\n“;\n\nII - Parte 11 do Anexo I:\n\n\"\n\n11 Torre para suporte de gerador de energia eólica 7308.20.00\n\n“\n\nIII - Parte 15 do Anexo I:\n\n\"\n\n1 (...) 1.94 Verteporfina 2933.99.99 2 (...) 2.159 Everolimo 1 mg - por comprimido Everolimo 0,5 mg - por comprimido Everolimo 0,75 mg - por comprimido Everolimo 0,1 mg - por comprimido dispersível Everolimo 0,25 mg - por comprimido dispersível 3003.90.89 3004.90.79 (nr) (...) (...) (...) 2.161 Verteporfina 15 mg pó liofilizado 3003.90.79/ 3004.90.69\n\n“;",
+        "contexto_sha256": "7745759401190c9fd097bf2f98a628e09274baf8d4001010b907f7559ed82ef5"
+      },
+      {
+        "evento_indice": 29,
+        "inicio": 8366,
+        "fim": 8369,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "icado, no respectivo documento fiscal, o valor do desconto. Fica dispensado o estorno do crédito na saída da mercadoria beneficiada com a isenção prevista neste item. 31/12/2008\n\n“;\n\nII - Parte 11 do Anexo I:\n\n\"\n\n11 Torre para suporte de gerador de energia eólica 7308.20.00\n\n“\n\nIII - Parte 15 do Anexo I:\n\n\"\n\n1 (...) 1.94 Verteporfina 2933.99.99 2 (...) 2.159 Everolimo 1 mg - por comprimido Everolimo 0,5 mg - por comprimido Everolimo 0,75 mg - por comprimido Everolimo 0,1 mg - por comprimido dispersível Everolimo 0,25 mg - por comprimido dispersível 3003.90.89 3004.90.79 (nr) (...) (...) (...) 2.161 Verteporfina 15 mg pó liofilizado 3003.90.79/ 3004.90.69\n\n“;\n\nIV - Parte 23 do Anexo I:\n\n“\n\nPARTE",
+        "contexto_sha256": "8f06e26c2aafb33376ebb2faf7a770eedb5fcff77187d3c30061b58398ab1b57"
+      },
+      {
+        "evento_indice": 30,
+        "inicio": 8599,
+        "fim": 8602,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "e de gerador de energia eólica 7308.20.00\n\n“\n\nIII - Parte 15 do Anexo I:\n\n\"\n\n1 (...) 1.94 Verteporfina 2933.99.99 2 (...) 2.159 Everolimo 1 mg - por comprimido Everolimo 0,5 mg - por comprimido Everolimo 0,75 mg - por comprimido Everolimo 0,1 mg - por comprimido dispersível Everolimo 0,25 mg - por comprimido dispersível 3003.90.89 3004.90.79 (nr) (...) (...) (...) 2.161 Verteporfina 15 mg pó liofilizado 3003.90.79/ 3004.90.69\n\n“;\n\nIV - Parte 23 do Anexo I:\n\n“\n\nPARTE 23\n\nMEDICAMENTOS E REAGENTES QUÍMICOS DESTINADOS À PESQUISA E DESENVOLVIMENTO DE NOVOS MEDICAMENTOS DE USO HUMANO\n\n(a que se refere o item 157 da Parte 1 deste Anexo)\n\nITEM SUBSTÂNCIA ATIVA CÓDIGO NBM/SH 1 CERA 1000 mcg/1ml 3002.10.",
+        "contexto_sha256": "63fb46d7d23fb163c1c7874e5c57ea365e78979ea8f2d99f9a4725cc5b483b6d"
+      },
+      {
+        "evento_indice": 31,
+        "inicio": 8605,
+        "fim": 8608,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "erador de energia eólica 7308.20.00\n\n“\n\nIII - Parte 15 do Anexo I:\n\n\"\n\n1 (...) 1.94 Verteporfina 2933.99.99 2 (...) 2.159 Everolimo 1 mg - por comprimido Everolimo 0,5 mg - por comprimido Everolimo 0,75 mg - por comprimido Everolimo 0,1 mg - por comprimido dispersível Everolimo 0,25 mg - por comprimido dispersível 3003.90.89 3004.90.79 (nr) (...) (...) (...) 2.161 Verteporfina 15 mg pó liofilizado 3003.90.79/ 3004.90.69\n\n“;\n\nIV - Parte 23 do Anexo I:\n\n“\n\nPARTE 23\n\nMEDICAMENTOS E REAGENTES QUÍMICOS DESTINADOS À PESQUISA E DESENVOLVIMENTO DE NOVOS MEDICAMENTOS DE USO HUMANO\n\n(a que se refere o item 157 da Parte 1 deste Anexo)\n\nITEM SUBSTÂNCIA ATIVA CÓDIGO NBM/SH 1 CERA 1000 mcg/1ml 3002.10.39 2 C",
+        "contexto_sha256": "5005f5ad56cc185cfc86163be3424202e916dfbc32aab88913bdd60f904ff295"
+      },
+      {
+        "evento_indice": 32,
+        "inicio": 8611,
+        "fim": 8614,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " de energia eólica 7308.20.00\n\n“\n\nIII - Parte 15 do Anexo I:\n\n\"\n\n1 (...) 1.94 Verteporfina 2933.99.99 2 (...) 2.159 Everolimo 1 mg - por comprimido Everolimo 0,5 mg - por comprimido Everolimo 0,75 mg - por comprimido Everolimo 0,1 mg - por comprimido dispersível Everolimo 0,25 mg - por comprimido dispersível 3003.90.89 3004.90.79 (nr) (...) (...) (...) 2.161 Verteporfina 15 mg pó liofilizado 3003.90.79/ 3004.90.69\n\n“;\n\nIV - Parte 23 do Anexo I:\n\n“\n\nPARTE 23\n\nMEDICAMENTOS E REAGENTES QUÍMICOS DESTINADOS À PESQUISA E DESENVOLVIMENTO DE NOVOS MEDICAMENTOS DE USO HUMANO\n\n(a que se refere o item 157 da Parte 1 deste Anexo)\n\nITEM SUBSTÂNCIA ATIVA CÓDIGO NBM/SH 1 CERA 1000 mcg/1ml 3002.10.39 2 CERA 40",
+        "contexto_sha256": "86aae23a1d850a8d5846f9acbb5dd1a1fb74665ea83c150b904b066c5f5116d6"
+      },
+      {
+        "evento_indice": 33,
+        "inicio": 22772,
+        "fim": 22775,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "edido pelo Diretor da Superintendência de Tributação (SUTRI), no qual serão especificadas as mercadorias e suas respectivas classificações na NBM/SH, desde que não exista mercadoria similar produzida neste Estado, conforme laudo expedido pelo Instituto de Desenvolvimento Integrado de Minas Gerais (INDI);\n\n(nr)\";\n\nVII - Parte 1 do Anexo IV:\n\n\"\n\n13 (...) 31/07/2007 (nr) 32 (...) 31/07/2007 (nr) 36 (...) 31/07/2007 (nr) 37 (...) 31/07/2007 (nr) 40 (...) b - (...) (...) 31/07/2007 (nr) 44 (...) 31/07/2007 45 (...) 31/07/2007\n\n(nr)\";\n\nVIII - Parte 1 do Anexo IX:\n\n\"CAPÍTULO XXII\n\nDas Operações Relativas a Minério de Ferro e a Pellets e outras substâncias minerais\n\n....................................",
+        "contexto_sha256": "631fc21ceb14a27c8d2eacb07d1aac3b8e1bc0bc3f9e6c05785ae3ba0f3ca2c1"
+      },
+      {
+        "evento_indice": 34,
+        "inicio": 22797,
+        "fim": 22800,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "erintendência de Tributação (SUTRI), no qual serão especificadas as mercadorias e suas respectivas classificações na NBM/SH, desde que não exista mercadoria similar produzida neste Estado, conforme laudo expedido pelo Instituto de Desenvolvimento Integrado de Minas Gerais (INDI);\n\n(nr)\";\n\nVII - Parte 1 do Anexo IV:\n\n\"\n\n13 (...) 31/07/2007 (nr) 32 (...) 31/07/2007 (nr) 36 (...) 31/07/2007 (nr) 37 (...) 31/07/2007 (nr) 40 (...) b - (...) (...) 31/07/2007 (nr) 44 (...) 31/07/2007 45 (...) 31/07/2007\n\n(nr)\";\n\nVIII - Parte 1 do Anexo IX:\n\n\"CAPÍTULO XXII\n\nDas Operações Relativas a Minério de Ferro e a Pellets e outras substâncias minerais\n\n.......................................\n\n**Art.231.** .......",
+        "contexto_sha256": "739da51bce492fe7d4ba2e8aee61ab0fbb168e09c7b7fb761339da469e909aef"
+      },
+      {
+        "evento_indice": 35,
+        "inicio": 22822,
+        "fim": 22825,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ão (SUTRI), no qual serão especificadas as mercadorias e suas respectivas classificações na NBM/SH, desde que não exista mercadoria similar produzida neste Estado, conforme laudo expedido pelo Instituto de Desenvolvimento Integrado de Minas Gerais (INDI);\n\n(nr)\";\n\nVII - Parte 1 do Anexo IV:\n\n\"\n\n13 (...) 31/07/2007 (nr) 32 (...) 31/07/2007 (nr) 36 (...) 31/07/2007 (nr) 37 (...) 31/07/2007 (nr) 40 (...) b - (...) (...) 31/07/2007 (nr) 44 (...) 31/07/2007 45 (...) 31/07/2007\n\n(nr)\";\n\nVIII - Parte 1 do Anexo IX:\n\n\"CAPÍTULO XXII\n\nDas Operações Relativas a Minério de Ferro e a Pellets e outras substâncias minerais\n\n.......................................\n\n**Art.231.** ..............................\n\n",
+        "contexto_sha256": "1a7eeae8539ee22175ef99be3578af6268533c967c89ee1bf91e63396b20cfa5"
+      },
+      {
+        "evento_indice": 36,
+        "inicio": 22847,
+        "fim": 22850,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " especificadas as mercadorias e suas respectivas classificações na NBM/SH, desde que não exista mercadoria similar produzida neste Estado, conforme laudo expedido pelo Instituto de Desenvolvimento Integrado de Minas Gerais (INDI);\n\n(nr)\";\n\nVII - Parte 1 do Anexo IV:\n\n\"\n\n13 (...) 31/07/2007 (nr) 32 (...) 31/07/2007 (nr) 36 (...) 31/07/2007 (nr) 37 (...) 31/07/2007 (nr) 40 (...) b - (...) (...) 31/07/2007 (nr) 44 (...) 31/07/2007 45 (...) 31/07/2007\n\n(nr)\";\n\nVIII - Parte 1 do Anexo IX:\n\n\"CAPÍTULO XXII\n\nDas Operações Relativas a Minério de Ferro e a Pellets e outras substâncias minerais\n\n.......................................\n\n**Art.231.** ..............................\n\n**Parágrafo único.** O di",
+        "contexto_sha256": "87c25f63c6b0e5cdf09bd920b2581ff751118b95bea47efaa51de5b5c8d38a70"
+      },
+      {
+        "evento_indice": 37,
+        "inicio": 22872,
+        "fim": 22875,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "rias e suas respectivas classificações na NBM/SH, desde que não exista mercadoria similar produzida neste Estado, conforme laudo expedido pelo Instituto de Desenvolvimento Integrado de Minas Gerais (INDI);\n\n(nr)\";\n\nVII - Parte 1 do Anexo IV:\n\n\"\n\n13 (...) 31/07/2007 (nr) 32 (...) 31/07/2007 (nr) 36 (...) 31/07/2007 (nr) 37 (...) 31/07/2007 (nr) 40 (...) b - (...) (...) 31/07/2007 (nr) 44 (...) 31/07/2007 45 (...) 31/07/2007\n\n(nr)\";\n\nVIII - Parte 1 do Anexo IX:\n\n\"CAPÍTULO XXII\n\nDas Operações Relativas a Minério de Ferro e a Pellets e outras substâncias minerais\n\n.......................................\n\n**Art.231.** ..............................\n\n**Parágrafo único.** O disposto no caput aplica-se",
+        "contexto_sha256": "622525dca7065e8d610cac360ae9222aaa21e8f8f64424a06669a6d0c2b7f990"
+      },
+      {
+        "evento_indice": 38,
+        "inicio": 22882,
+        "fim": 22885,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "s respectivas classificações na NBM/SH, desde que não exista mercadoria similar produzida neste Estado, conforme laudo expedido pelo Instituto de Desenvolvimento Integrado de Minas Gerais (INDI);\n\n(nr)\";\n\nVII - Parte 1 do Anexo IV:\n\n\"\n\n13 (...) 31/07/2007 (nr) 32 (...) 31/07/2007 (nr) 36 (...) 31/07/2007 (nr) 37 (...) 31/07/2007 (nr) 40 (...) b - (...) (...) 31/07/2007 (nr) 44 (...) 31/07/2007 45 (...) 31/07/2007\n\n(nr)\";\n\nVIII - Parte 1 do Anexo IX:\n\n\"CAPÍTULO XXII\n\nDas Operações Relativas a Minério de Ferro e a Pellets e outras substâncias minerais\n\n.......................................\n\n**Art.231.** ..............................\n\n**Parágrafo único.** O disposto no caput aplica-se também à ",
+        "contexto_sha256": "d00dbea6a09a9574d1def8f12b24e0701e661a3f6ab265cfed1f3227bade941a"
+      },
+      {
+        "evento_indice": 39,
+        "inicio": 22888,
+        "fim": 22891,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ectivas classificações na NBM/SH, desde que não exista mercadoria similar produzida neste Estado, conforme laudo expedido pelo Instituto de Desenvolvimento Integrado de Minas Gerais (INDI);\n\n(nr)\";\n\nVII - Parte 1 do Anexo IV:\n\n\"\n\n13 (...) 31/07/2007 (nr) 32 (...) 31/07/2007 (nr) 36 (...) 31/07/2007 (nr) 37 (...) 31/07/2007 (nr) 40 (...) b - (...) (...) 31/07/2007 (nr) 44 (...) 31/07/2007 45 (...) 31/07/2007\n\n(nr)\";\n\nVIII - Parte 1 do Anexo IX:\n\n\"CAPÍTULO XXII\n\nDas Operações Relativas a Minério de Ferro e a Pellets e outras substâncias minerais\n\n.......................................\n\n**Art.231.** ..............................\n\n**Parágrafo único.** O disposto no caput aplica-se também à empres",
+        "contexto_sha256": "ff337378f5e11baae0e1fd44ce20f1f00a32600f090ab47ae772ddafe3c0a1bf"
+      },
+      {
+        "evento_indice": 40,
+        "inicio": 22913,
+        "fim": 22916,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " NBM/SH, desde que não exista mercadoria similar produzida neste Estado, conforme laudo expedido pelo Instituto de Desenvolvimento Integrado de Minas Gerais (INDI);\n\n(nr)\";\n\nVII - Parte 1 do Anexo IV:\n\n\"\n\n13 (...) 31/07/2007 (nr) 32 (...) 31/07/2007 (nr) 36 (...) 31/07/2007 (nr) 37 (...) 31/07/2007 (nr) 40 (...) b - (...) (...) 31/07/2007 (nr) 44 (...) 31/07/2007 45 (...) 31/07/2007\n\n(nr)\";\n\nVIII - Parte 1 do Anexo IX:\n\n\"CAPÍTULO XXII\n\nDas Operações Relativas a Minério de Ferro e a Pellets e outras substâncias minerais\n\n.......................................\n\n**Art.231.** ..............................\n\n**Parágrafo único.** O disposto no caput aplica-se também à empresa mineradora ou indústria",
+        "contexto_sha256": "a3e37ecbd35391da8eef3ecd0e9beaff408b9a210e4a7929564ee3aa0516bec9"
+      },
+      {
+        "evento_indice": 41,
+        "inicio": 22933,
+        "fim": 22936,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ão exista mercadoria similar produzida neste Estado, conforme laudo expedido pelo Instituto de Desenvolvimento Integrado de Minas Gerais (INDI);\n\n(nr)\";\n\nVII - Parte 1 do Anexo IV:\n\n\"\n\n13 (...) 31/07/2007 (nr) 32 (...) 31/07/2007 (nr) 36 (...) 31/07/2007 (nr) 37 (...) 31/07/2007 (nr) 40 (...) b - (...) (...) 31/07/2007 (nr) 44 (...) 31/07/2007 45 (...) 31/07/2007\n\n(nr)\";\n\nVIII - Parte 1 do Anexo IX:\n\n\"CAPÍTULO XXII\n\nDas Operações Relativas a Minério de Ferro e a Pellets e outras substâncias minerais\n\n.......................................\n\n**Art.231.** ..............................\n\n**Parágrafo único.** O disposto no caput aplica-se também à empresa mineradora ou indústria de extração minério",
+        "contexto_sha256": "b46a17ea347bda81fdcb2e10d0087a99ddfb0217054ef83e7c598cec57970d44"
+      },
+      {
+        "evento_indice": 42,
+        "inicio": 23089,
+        "fim": 23128,
+        "literal_sha256": "89530866e687a72950f2a3e40452ae5227bcd2dc536070562861b70db2b8be42",
+        "contexto": "I - Parte 1 do Anexo IV:\n\n\"\n\n13 (...) 31/07/2007 (nr) 32 (...) 31/07/2007 (nr) 36 (...) 31/07/2007 (nr) 37 (...) 31/07/2007 (nr) 40 (...) b - (...) (...) 31/07/2007 (nr) 44 (...) 31/07/2007 45 (...) 31/07/2007\n\n(nr)\";\n\nVIII - Parte 1 do Anexo IX:\n\n\"CAPÍTULO XXII\n\nDas Operações Relativas a Minério de Ferro e a Pellets e outras substâncias minerais\n\n.......................................\n\n**Art.231.** ..............................\n\n**Parágrafo único.** O disposto no caput aplica-se também à empresa mineradora ou indústria de extração minério de metais preciosos que possuir mais de um estabelecimento no Estado, mediante regime especial concedido pelo Diretor da Superintendência de Tributação. (nr)\"\n\nIX - Parte 5 do Anexo XII:\n\n\"\n\n",
+        "contexto_sha256": "828fab857580c2cfc2cd47829df7b9f5b67c93776dd66ded475a50b9e66d4d61"
+      },
+      {
+        "evento_indice": 43,
+        "inicio": 23143,
+        "fim": 23173,
+        "literal_sha256": "5c817da1476384508afff7f702ec511d3cc8d9166d33ee7ab5cc23a7438be175",
+        "contexto": "32 (...) 31/07/2007 (nr) 36 (...) 31/07/2007 (nr) 37 (...) 31/07/2007 (nr) 40 (...) b - (...) (...) 31/07/2007 (nr) 44 (...) 31/07/2007 45 (...) 31/07/2007\n\n(nr)\";\n\nVIII - Parte 1 do Anexo IX:\n\n\"CAPÍTULO XXII\n\nDas Operações Relativas a Minério de Ferro e a Pellets e outras substâncias minerais\n\n.......................................\n\n**Art.231.** ..............................\n\n**Parágrafo único.** O disposto no caput aplica-se também à empresa mineradora ou indústria de extração minério de metais preciosos que possuir mais de um estabelecimento no Estado, mediante regime especial concedido pelo Diretor da Superintendência de Tributação. (nr)\"\n\nIX - Parte 5 do Anexo XII:\n\n\"\n\n172 Cabo coaxial 8544.20.00 173 Relógio de pa",
+        "contexto_sha256": "961f10716ea844919f8d15f399b477c53dda7119952327a266e9c009ef54e910"
+      },
+      {
+        "evento_indice": 44,
+        "inicio": 24481,
+        "fim": 24520,
+        "literal_sha256": "89530866e687a72950f2a3e40452ae5227bcd2dc536070562861b70db2b8be42",
+        "contexto": " ICMS as operações abaixo indicadas, realizadas até 31 de julho de 2007, com máquinas, aparelhos, equipamentos, suas partes e peças e outros materiais, relacionados nos Anexos I e II, adquiridos pela Companhia Energética do Estado de Minas Gerais - CEMIG e destinados ao Programa Luz no Campo ou ao Programa de Energia Elétrica ao Noroeste Mineiro:\n\n.......................................\" (nr)\n\n**Art.4º** Este Decreto entra em vigor na data de sua publicação, produzindo efeitos, relativamente aos dispositivos abaixo relacionados, a partir de:\n\nI - 23 de abril de 2007, quanto aos itens 32, 96, 107 e 159 da Parte 1, aos subitens 1.94, 2.159 e 2.161 da Parte 15, todos do Anexo I do RICMS;\n\nII - 1º de maio de 2007, quanto:\n\na) aos ite",
+        "contexto_sha256": "95244c6336c4a4cdd282cc4bffb11f2e8bc244ff9f277f99473435c74ec738b6"
+      }
+    ],
+    "body_sha256": "34ce3304f07c19573473ee752dac919859cb5d5404501751738e7183d0af7036",
+    "trecho_inicial": "---\ntitulo: \"Decreto nº 44573, de 23/07/2007\"\nuf: \"MG\"\ntipo: \"Decreto\"\nnumero: \"44573\"\ndata: 2007-07-23\nementa: \"ALTERA O REGULAMENTO DO ICMS (RICMS), APROVADO PELO DECRETO Nº 43.080, DE 13 DE DEZEMBRO DE 2002.\"\nsituacao: \"Revogada\"\nrevogada: true\nversao_texto: \"atualizada\"\nfonte: \"https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/44573/2007/documento?tipoDoc=572\"\nbaixado_em: 2026-10-16\n---\n# Decreto nº 44573, de 23/07/2007\n\nAltera o Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002.\n\n(O Decreto nº 44.573, de 23/7/2007, foi revogado pelo item 147 do Anexo do Decreto nº 48.590, de 22/3/2023.)\n\n(Vide art. 1º do Decreto nº 48.590, de 22/3/2023.)\n\nO GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso de atribuição que lhe confere o inciso VII do art. 90, da Constituição do Estado, e tendo em vista o disposto nos Convênios ICMS 09/07, 10/07, 23/07, 24/07, 26/07, 27/07, 40/07, 45/07, 46/07 e 48/07,\n\nDECRETA:\n\n**Art. 1º** O Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com a seguinte alteração:\n\n\"Art. 19. A incidência do imposto fica suspensa nas hipóteses previstas no Anexo III ou e nas operações internas autorizadas mediante regime especial concedido pelo Diretor da Superintendência de Tributação (SUTRI).\n\n.................................\n\n**Art.42.** ..........................\n\nI.................................\n\nb.22 - laje pré-fabricada, telhas metálicas, forma-lajes metálicas, pontes metálicas, elementos de pontes metálicas, pórticos metálicos e torres de transmissão metálicas, até 31 de dezembro de 2008;\n\n...................................\n\nArt.97.............................\n\n**§ 3º** O Chefe da Administração Fazendária poderá autorizar a concessão de inscrição única, com centralização da escrituração dos livros fiscais e do pagamento do imposto, quando o estabelecimento mantiver, em área próxima ou contígua, dentro do mesmo Município, atividades complementares, desde que a medida não dificulte a fiscalização do imposto, a critério do titular da Delegacia Fiscal a que o contribuinte estiver circunscrito.\n\n...................................\n\n**§ 5º** O titular da Delegacia Fiscal poderá determinar a recusa ou o cancelamento de inscrição de mais de 1 (um) estabelecimento no mesmo local ou endereço, quando a existência simultânea dos estabelecimentos dificultar a fiscalização do imposto.\n\n............................\n\n**Art. 138-A.** Será obrigatória a u",
+    "trecho_final": "Operações Relativas a Minério de Ferro e a Pellets e outras substâncias minerais\n\n.......................................\n\n**Art.231.** ..............................\n\n**Parágrafo único.** O disposto no caput aplica-se também à empresa mineradora ou indústria de extração minério de metais preciosos que possuir mais de um estabelecimento no Estado, mediante regime especial concedido pelo Diretor da Superintendência de Tributação. (nr)\"\n\nIX - Parte 5 do Anexo XII:\n\n\"\n\n172 Cabo coaxial 8544.20.00 173 Relógio de parede, a quartz 9105.21.00 174 Mecanismo a quartz de relógio de parede 9109.19.00 175 Timer digital 9106.10.00 176 Reatores eletrônicos 8504.41.00 177 Fontes para impressoras 8504.21.00 178 Variador de tensão (dimmer) 8535.30.19 179 Balanças eletrônicas sensíveis a peso igual ou inferior a 5 cg 9016.00 180 Instrumentos e aparelhos para navegação aérea ou espacial (exceto bússolas) 9014.20 181 Painéis de instrumentos, exceto para veículos das posições 8701 a 8705 8708.29.94\n\n(nr)\";\n\n**Art. 3º** O Decreto nº 43.827, de 2 de julho de 2004, passa vigorar com a seguinte alteração:\n\n\"Art. 1º Ficam isentas do ICMS as operações abaixo indicadas, realizadas até 31 de julho de 2007, com máquinas, aparelhos, equipamentos, suas partes e peças e outros materiais, relacionados nos Anexos I e II, adquiridos pela Companhia Energética do Estado de Minas Gerais - CEMIG e destinados ao Programa Luz no Campo ou ao Programa de Energia Elétrica ao Noroeste Mineiro:\n\n.......................................\" (nr)\n\n**Art.4º** Este Decreto entra em vigor na data de sua publicação, produzindo efeitos, relativamente aos dispositivos abaixo relacionados, a partir de:\n\nI - 23 de abril de 2007, quanto aos itens 32, 96, 107 e 159 da Parte 1, aos subitens 1.94, 2.159 e 2.161 da Parte 15, todos do Anexo I do RICMS;\n\nII - 1º de maio de 2007, quanto:\n\na) aos itens 45, 74, 85, 98, 106, 129, 133, 134, 135, 137, 144 e 156 da Parte 1 e ao item 11 da Parte 11, todos do Anexo I do RICMS;\n\nb) aos itens 13, 32, 36, 37, 40, 44 e 45 da Parte 1 do Anexo IV do RICMS; e\n\nc) ao art. 3º deste Decreto;\n\nIII - 9 de maio de 2007, relativamente ao item 154 da Parte 1 do Anexo I do RICMS;\n\nIV - 1º de junho de 2007, relativamente ao art. 19 do RICMS.\n\nPalácio da Liberdade, em Belo Horizonte, aos 23 de julho de 2007; 219º da Inconfidência Mineira e 186º da Independência do Brasil.\n\nAÉCIO NEVES - Governador do Estado.\n\n==================================================\n\nData da última atualização: 24/3/2023.\n",
+    "aplicado": false
+  },
+  {
+    "path": "estaduais/MG/decretos/2007/dec-44580-2007.md",
+    "md_sha256": "e522842449c8d23baf34da9a34230fa6cdf6e1bd9995f20550bcc2dcf493e12d",
+    "fonte_sha256": "8a62590d696d8f4569b9c20ed2abf202ad5a28f18376d083dd1fbab04e577f0f",
+    "cache": "estaduais/MG/_fonte/decretos/2007/dec-44580-2007.html.gz",
+    "decisao": "marcadores_resolvidos_sem_lacuna_nova",
+    "fundamento": "Art. 1º substitui somente inciso I do art. 2º do Decreto43442 e reproduz definição com remissão à LC123; marcador final conserva dispositivos anteriores. Art. 2º e fecho próprio completos.",
+    "cobertura_leitura": "corpo integral",
+    "eventos_resolvidos": [
+      {
+        "evento_indice": 1,
+        "inicio": 1466,
+        "fim": 1501,
+        "literal_sha256": "c5a75fa1a4bb27a365319555e92dbae4683403443b01452195b8bbe007b6b5ad",
+        "contexto": " vigorar com a seguinte redação:\n\n“Art. 2º ............................\n\nI - microempresas e empresas de pequeno porte: aquelas que, em seu último exercício fiscal, tenham apresentado receita bruta anual igual ou inferior aos valores fixados, para as respectivas categorias, nos termos da Lei Complementar Federal nº 123, de 14 de dezembro de 2006;\n\n................................... “(nr)\n\n**Art. 2º** - Este Decreto entra em vigor na data de sua publicação.\n\nPalácio da Liberdade, em Belo Horizonte, aos 26 de julho de 2007; 219º da Inconfidência Mineira e 186º da Independência do Brasil.\n\nAécio Neves - Governador do Estado.\n",
+        "contexto_sha256": "127f3417b4a4ba78a9eb1ca0e94ce6a81df441d011d760b98cb924904b565610"
+      }
+    ],
+    "body_sha256": "b1435393ed9e8992259785829a9bceb50af6814848694ba07f2e68a036dbecba",
+    "trecho_inicial": "---\ntitulo: \"Decreto nº 44580, de 26/07/2007\"\nuf: \"MG\"\ntipo: \"Decreto\"\nnumero: \"44580\"\ndata: 2007-07-26\nementa: \"ALTERA O DECRETO Nº 43.442, DE 17 DE JULHO DE 2003, QUE DISPÕE SOBRE O PROGRAMA DE APOIO FINANCEIRO AO DESENVOLVIMENTO DE MÉDIAS, PEQUENAS E MICROEMPRESAS DE BASE TECNOLÓGICA - FUNDESE - BASE TECNOLÓGICA.\"\nsituacao: \"Vigente\"\nrevogada: false\nversao_texto: \"original\"\nfonte: \"https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/44580/2007/documento?tipoDoc=142\"\nbaixado_em: 2026-10-16\n---\n# Decreto nº 44580, de 26/07/2007\n\nAltera o Decreto nº 43.442, de 17 de julho de 2003, que dispõe sobre o Programa de Apoio Financeiro ao Desenvolvimento de Médias, Pequenas e Microempresas de Base Tecnológica - FUNDESE - BASE TECNOLÓGICA.\n\nO GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso da atribuição que lhe confere inciso VII do art. 90, da Constituição do Estado, e tendo em vista o disposto na Lei nº 11.396, de 6 de janeiro de 1994, e na Lei Complementar Federal nº 123, de 14 de dezembro de 2006,\n\nDECRETA:\n\n**Art. 1º** - O inciso I do art. 2º do Decreto nº 43.442, de 17 de julho de 2003, passa a vigorar com a seguinte redação:\n\n“Art. 2º ............................\n\nI - microempresas e empresas de pequeno porte: aquelas que, em seu último exercício fiscal, tenham apresentado receita bruta anual igual ou inferior aos valores fixados, para as respectivas categorias, nos termos da Lei Complementar Federal nº 123, de 14 de dezembro de 2006;\n\n................................... “(nr)\n\n**Art. 2º** - Este Decreto entra em vigor na data de sua publicação.\n\nPalácio da Liberdade, em Belo Horizonte, aos 26 de julho de 2007; 219º da Inconfidência Mineira e 186º da Independência do Brasil.\n\nAécio Neves - Governador do Estado.\n",
+    "trecho_final": "---\ntitulo: \"Decreto nº 44580, de 26/07/2007\"\nuf: \"MG\"\ntipo: \"Decreto\"\nnumero: \"44580\"\ndata: 2007-07-26\nementa: \"ALTERA O DECRETO Nº 43.442, DE 17 DE JULHO DE 2003, QUE DISPÕE SOBRE O PROGRAMA DE APOIO FINANCEIRO AO DESENVOLVIMENTO DE MÉDIAS, PEQUENAS E MICROEMPRESAS DE BASE TECNOLÓGICA - FUNDESE - BASE TECNOLÓGICA.\"\nsituacao: \"Vigente\"\nrevogada: false\nversao_texto: \"original\"\nfonte: \"https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/44580/2007/documento?tipoDoc=142\"\nbaixado_em: 2026-10-16\n---\n# Decreto nº 44580, de 26/07/2007\n\nAltera o Decreto nº 43.442, de 17 de julho de 2003, que dispõe sobre o Programa de Apoio Financeiro ao Desenvolvimento de Médias, Pequenas e Microempresas de Base Tecnológica - FUNDESE - BASE TECNOLÓGICA.\n\nO GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso da atribuição que lhe confere inciso VII do art. 90, da Constituição do Estado, e tendo em vista o disposto na Lei nº 11.396, de 6 de janeiro de 1994, e na Lei Complementar Federal nº 123, de 14 de dezembro de 2006,\n\nDECRETA:\n\n**Art. 1º** - O inciso I do art. 2º do Decreto nº 43.442, de 17 de julho de 2003, passa a vigorar com a seguinte redação:\n\n“Art. 2º ............................\n\nI - microempresas e empresas de pequeno porte: aquelas que, em seu último exercício fiscal, tenham apresentado receita bruta anual igual ou inferior aos valores fixados, para as respectivas categorias, nos termos da Lei Complementar Federal nº 123, de 14 de dezembro de 2006;\n\n................................... “(nr)\n\n**Art. 2º** - Este Decreto entra em vigor na data de sua publicação.\n\nPalácio da Liberdade, em Belo Horizonte, aos 26 de julho de 2007; 219º da Inconfidência Mineira e 186º da Independência do Brasil.\n\nAécio Neves - Governador do Estado.\n",
+    "aplicado": false
+  }
+]

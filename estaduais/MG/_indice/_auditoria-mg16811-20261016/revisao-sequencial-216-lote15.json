@@ -1,0 +1,356 @@
+[
+  {
+    "path": "estaduais/MG/decretos/2005/dec-44085-2005.md",
+    "md_sha256": "f6897fec1cc59cbb8555744e4a629f12e4ba9beb9ee17ad0233c40a2d70c967b",
+    "fonte_sha256": "08ee1f5e775262b1d86eb829e49e34201d4bb5d475424e09951d41df2d919e82",
+    "cache": "estaduais/MG/_fonte/decretos/2005/dec-44085-2005.html.gz",
+    "decisao": "marcadores_resolvidos_sem_lacuna_nova",
+    "fundamento": "Art2I alteraitem5.1AnexoIRICMS:condicoes de registroMinisterioAgricultura,rotulo/etiqueta eexpressaofiscalMercadoriaProducaoMineira transcritas. Evento restante depoisalineaC representa outraspartes inalteradas. Art3novo§12creditoacumulado eArt4/fecho presentes.",
+    "cobertura_leitura": "identidade, comando proprio, todos os eventos pendentes e seus contextos, remissoes/anexos visiveis, fecho; sem certificacao visual",
+    "eventos_resolvidos": [
+      {
+        "evento_indice": 5,
+        "inicio": 2768,
+        "fim": 2771,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "órgãos competentes do Ministério da Agricultura, Pecuária e Abastecimento, e o número do registro seja indicado no documento fiscal; b – tenham rótulo ou etiqueta de identificação; c – tenham sido acobertados com documento fiscal no qual conste a expressão: \"Mercadoria de Produção Mineira – Isenta do ICMS – Item 5 da Parte 1 do Anexo I do RICMS\". (...)\n\nII – Anexo VIII:\n\n“Art. 14 – (...)\n\n**§ 2º** Efetuadas as aquisições previstas no regime especial sem que o crédito recebido em transferência tenha sido integralmente utilizado pelo contribuinte, o saldo remanescente poderá ser devolvido ao estabelecimento que originalmente detinha o crédito.\"\n\n(...)\n\n**Art. 14-A** – O estabelecimento industrial",
+        "contexto_sha256": "ebef927e3e0f92f70f7950619fcb98be67f3cbd1ae9e6768408aa6a942c9e44e"
+      }
+    ],
+    "body_sha256": "83cb9329334f71782429f353b8c10a412955997f923e30088f05c5ca02ecc49d",
+    "trecho_inicial": "---\ntitulo: \"Decreto nº 44085, de 17/08/2005\"\nuf: \"MG\"\ntipo: \"Decreto\"\nnumero: \"44085\"\ndata: 2005-08-17\nementa: \"ALTERA O REGULAMENTO DO ICMS, APROVADO PELO DECRETO Nº 43.080, DE 13 DE DEZEMBRO DE 2002.\"\nsituacao: \"Revogada\"\nrevogada: true\nversao_texto: \"atualizada\"\nfonte: \"https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/44085/2005/documento?tipoDoc=572\"\nbaixado_em: 2026-10-16\n---\n# Decreto nº 44085, de 17/08/2005\n\nAltera o Regulamento do ICMS, aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002.\n\n(O Decreto nº 44.085, de 17/8/2005, foi revogado pelo item 88 do Anexo do Decreto nº 48.590, de 22/3/2023.)\n\n(Vide art. 1º do Decreto nº 48.590, de 22/3/2023.)\n\nO GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso de atribuição que lhe confere o inciso VII do art. 90 da Constituição do Estado, e tendo em vista o disposto na Lei nº 6.763, de 26 de dezembro de 1975,\n\nDECRETA:\n\n**Art. 1º** – O Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n“Art. 85 – (...)\n\nII – (...)\n\nf) até o dia 9 (nove) do segundo mês subseqüente ao da entrada da mercadoria no estabelecimento destinatário, nas hipóteses previstas nos incisos II e V do art. 403, no inciso II art. 404, na alínea \"a\" do inciso I do art. 406, no parágrafo único do art. 407, no inciso II do § 2º do art. 413, no inciso II do art. 419, na alínea \"a\" do inciso I do art. 421 e no inciso II do art. 427, todos da Parte 1 do Anexo IX;\n\ng) até o dia 9 (nove) do terceiro mês subseqüente ao da entrada da mercadoria no estabelecimento destinatário, nas hipóteses previstas no inciso II do § 2º do art. 408 e na alínea \"a\" do inciso II do art. 409 da Parte 1 do Anexo IX;\n\n(...)\n\n**Art. 112** – (...)\n\n**§ 1º** – O deferimento do pedido de inscrição ou de alteração cadastral que envolva inclusão de sócio fica condicionado a estar o interessado em situação que permitiria a emissão de certidão de débitos tributários negativa para com a Fazenda Pública estadual.\n\n**§ 2º** – A inscrição do produtor rural será renovada anualmente, nos prazos estabelecidos no caput do art. 122 deste Regulamento.\"(nr)\n\n**Art. 2º** – Os Anexos do RICMS a seguir relacionados passam a vigorar com as seguintes alterações:\n\nI – Parte 1 do Anexo I:\n\n“\n\n5 5.1 (...) Para fruição da isenção, é condição que os produtos constantes da alínea \"a\" deste item: a – estejam registrados nos órgãos competentes do Ministério da Agricultura, Pecuária e Abastecimento, e o núm",
+    "trecho_final": "sferi-lo para novo estabelecimento industrial de mesma titularidade ou para estabelecimento industrial de mesma titularidade em fase de expansão, para posterior transferência ou utilização nos termos dos incisos I a IV do § 1º do art. 14 deste Anexo.\n\n**§ 1º** – A transferência ou a utilização do crédito acumulado de que trata o caput deste artigo depende de regime especial concedido pelo Subsecretário da Receita Estadual:\n\nI – ao estabelecimento detentor do crédito, na hipótese do inciso I do caput deste artigo;\n\nII – ao estabelecimento destinatário do crédito, na hipótese do inciso II do caput deste artigo.\n\n**§ 2º** – Para os fins deste artigo, aplica-se o disposto nos §§ 2º a 11 do art. 14 deste Anexo.\"\n\n(...)\n\nIII – Parte 1 do Anexo IX:\n\n“Art. 189-A – (...)\n\n**§ 1º** Na hipótese em que tenha sido utilizada a alíquota interestadual, a empresa de construção civil deverá, no primeiro posto de fiscalização ou, na falta deste no percurso, no primeiro município mineiro por onde transitar a mercadoria:\n\n(...)\n\n**Art. 408** – (...)\n\n**§ 3º** Na hipótese prevista no inciso II do § 2º, a retenção será efetivada no momento da entrada da mercadoria no estabelecimento, observado o disposto na alínea “g” do inciso II do art. 85 deste Regulamento.\n\n**Art. 409** – (...)\n\nII – (...)\n\na) observará o disposto na alínea “g” do inciso II do caput art. 85 deste Regulamento, quando se tratar de estabelecimento atacadista;\n\n(...)\n\n**Art. 410** – (...)\n\n**§ 7º** Em substituição à base de cálculo prevista no inciso II do § 1º, o estabelecimento fabricante mineiro poderá adotar a base de cálculo prevista no caput ou no § 3º deste artigo, conforme o caso, com as reduções previstas no § 2º também deste artigo.”\n\n**Art. 3º** – O art. 27 do Anexo VIII fica acrescido do seguinte § 12.:\n\n\"Art. 27 – (...)\n\n**§ 12.** O produtor rural que possuir crédito acumulado em mais de um estabelecimento poderá transferir o referido crédito para outro estabelecimento de mesma titularidade, com a finalidade de aquisição de bem do ativo permanente na forma prevista no caput, observado, no que couber, o disposto nos parágrafos anteriores.\"\n\n**Art. 4º** – Este Decreto entra em vigor na data de sua publicação.\n\nPalácio da Liberdade, em Belo Horizonte, 17 de agosto de 2005; 217º da Inconfidência Mineira e 184º da Independência do Brasil.\n\nAÉCIO NEVES\n\nDanilo de Castro\n\nAntonio Augusto Junho Anastasia\n\nFuad Noman\n\n==================================================\n\nData da última atualização: 24/3/2023.\n",
+    "aplicado": false
+  },
+  {
+    "path": "estaduais/MG/decretos/2005/dec-44087-2005.md",
+    "md_sha256": "b392efc5f20c513abdd89c44e61635bca7608c6ebfb55b6fdefc39e8d345c5b8",
+    "fonte_sha256": "8049456c39a80f368e72ef8c0501ef507f8c136a689effbd02f3f83d8b192e8d",
+    "cache": "estaduais/MG/_fonte/decretos/2005/dec-44087-2005.html.gz",
+    "decisao": "marcadores_resolvidos_sem_lacuna_nova",
+    "fundamento": "Art1 alteraitem81AnexoIRICMS:novoambito transporteurbano/metropolitano e subitens81.4/81.5certidaoDER/diligencia transcritos; evento residual composto(...) (...) entrecaput/81.4 representa81.1a81.3 nao alterados. Arts2a4/fecho e textos historicos revogados preservados.",
+    "cobertura_leitura": "corpo integral",
+    "eventos_resolvidos": [
+      {
+        "evento_indice": 1,
+        "inicio": 1523,
+        "fim": 1526,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " intermunicipal de passageiros, desde que com características de transporte coletivo urbano: a – na Região Metropolitana de Belo Horizonte; ou b – entre os demais municípios que comportem prestação de igual serviço, hipótese em que a isenção será previamente reconhecida pelo Subsecretário da Receita Estadual, mediante pedido do interessado. (...) (...) 81.4 Para o fim de subsidiar a decisão do pedido de reconhecimento da isenção, o interessado apresentará Certidão expedida pelo DER/MG atestando sua condição de delegatário de serviço de transporte em linha semi-urbana. 81.5 Para efeito de fruição do benefício relativamente à linha semi-urbana, o atendimento das condições estabelecidas será verif",
+        "contexto_sha256": "dce4354b8a82701af9c6a698d41cd4c49fe67439e09713589ef668ea93ec6197"
+      }
+    ],
+    "body_sha256": "444c8ddbe7fc5a3b39ab28c75a2c6339ae2e68235f4d1eb476763e9d27616a08",
+    "trecho_inicial": "---\ntitulo: \"Decreto nº 44087, de 18/08/2005\"\nuf: \"MG\"\ntipo: \"Decreto\"\nnumero: \"44087\"\ndata: 2005-08-18\nementa: \"ALTERA O REGULAMENTO DO ICMS, APROVADO PELO DECRETO Nº 43.080, DE 13 DE DEZEMBRO DE 2002.\"\nsituacao: \"Revogada\"\nrevogada: true\nversao_texto: \"atualizada\"\nfonte: \"https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/44087/2005/documento?tipoDoc=572\"\nbaixado_em: 2026-10-16\n---\n# Decreto nº 44087, de 18/08/2005\n\nAltera o Regulamento do ICMS, aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002.\n\n(O Decreto nº 44.087, de 18/8/2005, foi revogado pelo item 89 do Anexo do Decreto nº 48.590, de 22/3/2023.)\n\n(Vide art. 1º do Decreto nº 48.590, de 22/3/2023.)\n\nO GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso de atribuição que lhe confere o inciso VII do art. 90 da Constituição do Estado, e tendo em vista o disposto na Lei nº 6.763, de 26 de dezembro de 1975 e no Convênio ICMS nº 37/89, de 24 de abril de 1989,\n\nDECRETA:\n\n**Art. 1º** – O item 81 da Parte 1 do Anexo I do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n“\n\n81 Prestação de serviço de transporte intermunicipal de passageiros, desde que com características de transporte coletivo urbano: a – na Região Metropolitana de Belo Horizonte; ou b – entre os demais municípios que comportem prestação de igual serviço, hipótese em que a isenção será previamente reconhecida pelo Subsecretário da Receita Estadual, mediante pedido do interessado. (...) (...) 81.4 Para o fim de subsidiar a decisão do pedido de reconhecimento da isenção, o interessado apresentará Certidão expedida pelo DER/MG atestando sua condição de delegatário de serviço de transporte em linha semi-urbana. 81.5 Para efeito de fruição do benefício relativamente à linha semi-urbana, o atendimento das condições estabelecidas será verificado mediante diligência fiscal.\n\n”.(nr)\n\n**Art. 2º** – Em se tratando de linha semi-urbana, o contribuinte que possuir reconhecimento da isenção de que trata a alínea b do item 81 da Parte 1 do Anexo I do RICMS anterior à data de publicação deste Decreto poderá realizar novo pedido de reconhecimento de isenção até o dia 30 de novembro de 2005.\n\n(Caput com redação dada pelo art. 2º do Decreto nº 44.158, de 29/11/2005.)\n\n**§ 1º** – Exercida a faculdade de que trata o caput deste artigo no prazo nele estabelecido, o atual reconhecimento de isenção perderá a eficácia, na hipótese de indeferimento do novo pedido, a part",
+    "trecho_final": "do benefício relativamente à linha semi-urbana, o atendimento das condições estabelecidas será verificado mediante diligência fiscal.\n\n”.(nr)\n\n**Art. 2º** – Em se tratando de linha semi-urbana, o contribuinte que possuir reconhecimento da isenção de que trata a alínea b do item 81 da Parte 1 do Anexo I do RICMS anterior à data de publicação deste Decreto poderá realizar novo pedido de reconhecimento de isenção até o dia 30 de novembro de 2005.\n\n(Caput com redação dada pelo art. 2º do Decreto nº 44.158, de 29/11/2005.)\n\n**§ 1º** – Exercida a faculdade de que trata o caput deste artigo no prazo nele estabelecido, o atual reconhecimento de isenção perderá a eficácia, na hipótese de indeferimento do novo pedido, a partir de 1º de junho de 2007.\n\n(Parágrafo com redação dada pelo art. 1º do Decreto nº 44.421, de 20/12/2006.)\n\nI – (Revogado pelo art. 2º do Decreto nº 44.239, de 12/2/2006.)\n\nDispositivo revogado:\n\n“I – no prazo de 10 (dez) dias, contados da data da ciência do indeferimento do novo pedido, ou”\n\nII – (Revogado pelo art. 2º do Decreto nº 44.239, de 12/2/2006.)\n\nDispositivo revogado:\n\n“II – a partir de 1º de fevereiro de 2006, se o termo final do prazo previsto no inciso anterior ocorrer em data anterior.”\n\n(Inciso com redação dada pelo art. 1º do Decreto nº 44.186, de 28/12/2005.)\n\n**§ 2º** – Na hipótese de não-apresentação de novo pedido nos termos do caput deste artigo, a isenção cujo reconhecimento tenha sido efetuado em data anterior à de publicação deste Decreto perderá a eficácia a partir de 1º de fevereiro de 2006.\n\n(Parágrafo com redação dada pelo art. 1º do Decreto nº 44.186, de 28/12/2005.)\n\n(Vide art. 3º do Decreto nº 44.158, de 29/11/2005.)\n\n(Vide art. 2º do Decreto nº 44.286, de 28/4/2006.)\n\n(Vide arts. 2º e 3º do Decreto nº 44.509, de 3/5/2007.)\n\n**Art. 3º** – Os pedidos de reconhecimento de isenção relativos ao benefício de que trata o item 81 da Parte 1 do Anexo I do RICMS pendentes de decisão na data de publicação deste Decreto serão encaminhados para a repartição fazendária de origem, para adequação aos requisitos estabelecidos nos subitens 81.4 e 81.5 do referido dispositivo, com redação dada pelo art. 1º.\n\n**Art. 4º** – Este Decreto entra em vigor na data de sua publicação.\n\nPalácio da Liberdade, em Belo Horizonte, aos 18 de agosto de 2005; 217º da Inconfidência Mineira e 184º da Independência do Brasil.\n\nAÉCIO NEVES – GOVERNADOR DO ESTADO\n\n==================================================\n\nData da última atualização: 24/3/2023.\n",
+    "aplicado": false
+  },
+  {
+    "path": "estaduais/MG/decretos/2005/dec-44092-2005.md",
+    "md_sha256": "235f7d61a1b05929627f5ba29c185a67000fc5fd4a2b6bd4eabbf83fade415ed",
+    "fonte_sha256": "26a9b921444f43a66f3078c4edc995622c9dd97e470261075a5e6eee1c46610e",
+    "cache": "estaduais/MG/_fonte/decretos/2005/dec-44092-2005.html.gz",
+    "decisao": "marcadores_resolvidos_sem_lacuna_nova",
+    "fundamento": "Art2 alteraAnexosI/II/V:11eventosrestantes delimitam outraspartes inalteradas dositens32/41 earts66/67. Novascondicoes de isencao,laudoINDI/concorrencia evalidadenotafiscal transcritas. Art1par3credito eArt3/fecho presentes.",
+    "cobertura_leitura": "corpo integral",
+    "eventos_resolvidos": [
+      {
+        "evento_indice": 3,
+        "inicio": 1590,
+        "fim": 1593,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "que contenham identificação do adquirente impressa por Equipamento Emissor de Cupom Fiscal (ECF);\n\nII – no recebimento, em virtude de garantia, de parte ou peça de mercadoria remetida ao adquirente.\n\n(…) (nr)”.\n\n**Art. 2º** – Os Anexos do RICMS abaixo relacionados passam a vigorar com as seguintes alterações:\n\nI – Parte I do Anexo I:\n\n“\n\n32 (...) (...) 32.3 A isenção será reconhecida pelo Fisco antes do desembaraço aduaneiro, mediante requerimento do adquirente, protocolizado na Administração Fazendária (AF) a que estiver circunscrito. (...)\n\n”.\n\nII – Parte 1 do Anexo II:\n\n“\n\n41 41.1 41.12 (...) (...) c.1 – a impossibilidade de aquisição da mercadoria, em quantidade, qualidade ou condições conc",
+        "contexto_sha256": "eafd963721698c22787487577c2a7c5bce381fd2132ed89552acdc21620a7ee9"
+      },
+      {
+        "evento_indice": 4,
+        "inicio": 1783,
+        "fim": 1786,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ente.\n\n(…) (nr)”.\n\n**Art. 2º** – Os Anexos do RICMS abaixo relacionados passam a vigorar com as seguintes alterações:\n\nI – Parte I do Anexo I:\n\n“\n\n32 (...) (...) 32.3 A isenção será reconhecida pelo Fisco antes do desembaraço aduaneiro, mediante requerimento do adquirente, protocolizado na Administração Fazendária (AF) a que estiver circunscrito. (...)\n\n”.\n\nII – Parte 1 do Anexo II:\n\n“\n\n41 41.1 41.12 (...) (...) c.1 – a impossibilidade de aquisição da mercadoria, em quantidade, qualidade ou condições concorrenciais semelhantes, de contribuinte situado no Estado; (...) (...) a.2 – apresentará laudo expedido pelo Instituto de Desenvolvimento Industrial de Minas Gerais (INDI), atestando a inexistê",
+        "contexto_sha256": "e6b25144864450f82a334010a92f27d2390dea698a05bf528ebb75c76c4f8251"
+      },
+      {
+        "evento_indice": 5,
+        "inicio": 1838,
+        "fim": 1841,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ixo relacionados passam a vigorar com as seguintes alterações:\n\nI – Parte I do Anexo I:\n\n“\n\n32 (...) (...) 32.3 A isenção será reconhecida pelo Fisco antes do desembaraço aduaneiro, mediante requerimento do adquirente, protocolizado na Administração Fazendária (AF) a que estiver circunscrito. (...)\n\n”.\n\nII – Parte 1 do Anexo II:\n\n“\n\n41 41.1 41.12 (...) (...) c.1 – a impossibilidade de aquisição da mercadoria, em quantidade, qualidade ou condições concorrenciais semelhantes, de contribuinte situado no Estado; (...) (...) a.2 – apresentará laudo expedido pelo Instituto de Desenvolvimento Industrial de Minas Gerais (INDI), atestando a inexistência de mercadoria similar, inclusive no que se refere ",
+        "contexto_sha256": "398ce3b1fe87bbac1d9fbf75c63a729fa0b1da3702bddea0a71cb5df62086908"
+      },
+      {
+        "evento_indice": 6,
+        "inicio": 1844,
+        "fim": 1847,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "lacionados passam a vigorar com as seguintes alterações:\n\nI – Parte I do Anexo I:\n\n“\n\n32 (...) (...) 32.3 A isenção será reconhecida pelo Fisco antes do desembaraço aduaneiro, mediante requerimento do adquirente, protocolizado na Administração Fazendária (AF) a que estiver circunscrito. (...)\n\n”.\n\nII – Parte 1 do Anexo II:\n\n“\n\n41 41.1 41.12 (...) (...) c.1 – a impossibilidade de aquisição da mercadoria, em quantidade, qualidade ou condições concorrenciais semelhantes, de contribuinte situado no Estado; (...) (...) a.2 – apresentará laudo expedido pelo Instituto de Desenvolvimento Industrial de Minas Gerais (INDI), atestando a inexistência de mercadoria similar, inclusive no que se refere às con",
+        "contexto_sha256": "85f4753ca6c10c5ef452408f8a74c8dfd6663a45cece424186bd3a675922ce01"
+      },
+      {
+        "evento_indice": 7,
+        "inicio": 2003,
+        "fim": 2006,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "araço aduaneiro, mediante requerimento do adquirente, protocolizado na Administração Fazendária (AF) a que estiver circunscrito. (...)\n\n”.\n\nII – Parte 1 do Anexo II:\n\n“\n\n41 41.1 41.12 (...) (...) c.1 – a impossibilidade de aquisição da mercadoria, em quantidade, qualidade ou condições concorrenciais semelhantes, de contribuinte situado no Estado; (...) (...) a.2 – apresentará laudo expedido pelo Instituto de Desenvolvimento Industrial de Minas Gerais (INDI), atestando a inexistência de mercadoria similar, inclusive no que se refere às condições concorrenciais, produzida no Estado; (...)\n\n”.\n\nIII – Parte 1 do Anexo V:\n\n“Art. 66 – (...)\n\nI – a mercadoria for entregue em depósito de empresa de tra",
+        "contexto_sha256": "80251e7cd0c46f9fee5309c24e0d41d95e0e40dfc4179f90a77cdecb8a24129e"
+      },
+      {
+        "evento_indice": 8,
+        "inicio": 2009,
+        "fim": 2012,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "aduaneiro, mediante requerimento do adquirente, protocolizado na Administração Fazendária (AF) a que estiver circunscrito. (...)\n\n”.\n\nII – Parte 1 do Anexo II:\n\n“\n\n41 41.1 41.12 (...) (...) c.1 – a impossibilidade de aquisição da mercadoria, em quantidade, qualidade ou condições concorrenciais semelhantes, de contribuinte situado no Estado; (...) (...) a.2 – apresentará laudo expedido pelo Instituto de Desenvolvimento Industrial de Minas Gerais (INDI), atestando a inexistência de mercadoria similar, inclusive no que se refere às condições concorrenciais, produzida no Estado; (...)\n\n”.\n\nIII – Parte 1 do Anexo V:\n\n“Art. 66 – (...)\n\nI – a mercadoria for entregue em depósito de empresa de transport",
+        "contexto_sha256": "c568223c348f0a40199cc440d4bc023bf0ac66c92bfa761c42ea8625f6eb7013"
+      },
+      {
+        "evento_indice": 9,
+        "inicio": 2242,
+        "fim": 2245,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "cadoria, em quantidade, qualidade ou condições concorrenciais semelhantes, de contribuinte situado no Estado; (...) (...) a.2 – apresentará laudo expedido pelo Instituto de Desenvolvimento Industrial de Minas Gerais (INDI), atestando a inexistência de mercadoria similar, inclusive no que se refere às condições concorrenciais, produzida no Estado; (...)\n\n”.\n\nIII – Parte 1 do Anexo V:\n\n“Art. 66 – (...)\n\nI – a mercadoria for entregue em depósito de empresa de transporte organizada e sindicalizada ou for por esta coletada, dentro do seu prazo de validade, ressalvadas as hipóteses previstas nas letras \"c\" e \"d\" do campo I do quadro de prazo de validade constante do art. 58 desta Parte, se comprovado",
+        "contexto_sha256": "26944f1f7c232af6eebc9a260a52a93be899e45d4a426983ca08f6d311401570"
+      },
+      {
+        "evento_indice": 10,
+        "inicio": 2291,
+        "fim": 2294,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ncorrenciais semelhantes, de contribuinte situado no Estado; (...) (...) a.2 – apresentará laudo expedido pelo Instituto de Desenvolvimento Industrial de Minas Gerais (INDI), atestando a inexistência de mercadoria similar, inclusive no que se refere às condições concorrenciais, produzida no Estado; (...)\n\n”.\n\nIII – Parte 1 do Anexo V:\n\n“Art. 66 – (...)\n\nI – a mercadoria for entregue em depósito de empresa de transporte organizada e sindicalizada ou for por esta coletada, dentro do seu prazo de validade, ressalvadas as hipóteses previstas nas letras \"c\" e \"d\" do campo I do quadro de prazo de validade constante do art. 58 desta Parte, se comprovado por emissão do respectivo conhecimento de transp",
+        "contexto_sha256": "d71bc3059f2e5250e1b339cecb2b3c34b18f29b8ac2f5beab289685b4c0b9ead"
+      },
+      {
+        "evento_indice": 11,
+        "inicio": 2694,
+        "fim": 2697,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "presa de transporte organizada e sindicalizada ou for por esta coletada, dentro do seu prazo de validade, ressalvadas as hipóteses previstas nas letras \"c\" e \"d\" do campo I do quadro de prazo de validade constante do art. 58 desta Parte, se comprovado por emissão do respectivo conhecimento de transporte de cargas ou da Ordem de Coleta de Cargas;\n\n(...)\n\n**Art. 67** – (...)\n\n**Parágrafo único** – Não perderá a validade a nota fiscal que estiver acompanhada de conhecimento de transporte de cargas emitido por empresa de transporte organizada e sindicalizada, ressalvadas as hipóteses previstas neste Regulamento.\n\n(...)(nr)\"\n\n**Art. 3º** – Este Decreto entra em vigor na data de sua publicação.\n\nPalá",
+        "contexto_sha256": "99bdc57b857dbe8c3793c0d323002592282ac4f83e83b8728a6db835a0cbf4f9"
+      },
+      {
+        "evento_indice": 12,
+        "inicio": 2715,
+        "fim": 2718,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "rganizada e sindicalizada ou for por esta coletada, dentro do seu prazo de validade, ressalvadas as hipóteses previstas nas letras \"c\" e \"d\" do campo I do quadro de prazo de validade constante do art. 58 desta Parte, se comprovado por emissão do respectivo conhecimento de transporte de cargas ou da Ordem de Coleta de Cargas;\n\n(...)\n\n**Art. 67** – (...)\n\n**Parágrafo único** – Não perderá a validade a nota fiscal que estiver acompanhada de conhecimento de transporte de cargas emitido por empresa de transporte organizada e sindicalizada, ressalvadas as hipóteses previstas neste Regulamento.\n\n(...)(nr)\"\n\n**Art. 3º** – Este Decreto entra em vigor na data de sua publicação.\n\nPalácio da Liberdade, em ",
+        "contexto_sha256": "9e763a72aaaabc4ee9f209e1025d9b647bcb0dd1581718c226275aaa89241cc4"
+      },
+      {
+        "evento_indice": 13,
+        "inicio": 2962,
+        "fim": 2965,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "espectivo conhecimento de transporte de cargas ou da Ordem de Coleta de Cargas;\n\n(...)\n\n**Art. 67** – (...)\n\n**Parágrafo único** – Não perderá a validade a nota fiscal que estiver acompanhada de conhecimento de transporte de cargas emitido por empresa de transporte organizada e sindicalizada, ressalvadas as hipóteses previstas neste Regulamento.\n\n(...)(nr)\"\n\n**Art. 3º** – Este Decreto entra em vigor na data de sua publicação.\n\nPalácio da Liberdade, em Belo Horizonte, aos 29 de agosto de 2005; 217º da Inconfidência Mineira e 184º da Independência do Brasil.\n\nAÉCIO NEVES\n\nDanilo de Castro\n\nAntonio Augusto Junho Anastasia\n\nFuad Noman\n\n==================================================\n\nData da últ",
+        "contexto_sha256": "46a0ff1c746c0e04c12205fda6056ca6d1970e18d7a18b4c263b231d64d7e7c2"
+      }
+    ],
+    "body_sha256": "320cb5e23cf0731c2f517742195fb79497db9966aad8a11c72853cf4e3e35361",
+    "trecho_inicial": "---\ntitulo: \"Decreto nº 44092, de 29/08/2005\"\nuf: \"MG\"\ntipo: \"Decreto\"\nnumero: \"44092\"\ndata: 2005-08-29\nementa: \"ALTERA O REGULAMENTO DO ICMS, APROVADO PELO DECRETO Nº 43.080, DE 13 DE DEZEMBRO DE 2002.\"\nsituacao: \"Revogada\"\nrevogada: true\nversao_texto: \"atualizada\"\nfonte: \"https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/44092/2005/documento?tipoDoc=572\"\nbaixado_em: 2026-10-16\n---\n# Decreto nº 44092, de 29/08/2005\n\nAltera o Regulamento do ICMS, aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002.\n\n(O Decreto nº 44.092, de 29/8/2005, foi revogado pelo item 90 do Anexo do Decreto nº 48.590, de 22/3/2023.)\n\n(Vide art. 1º do Decreto nº 48.590, de 22/3/2023.)\n\nO GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso de atribuição que lhe confere o inciso VII do art. 90, da Constituição do Estado, e tendo em vista o disposto na Lei nº 6.763, de 26 de dezembro de 1975,\n\nDECRETA:\n\n**Art. 1º** – O Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n“Art. 76 – (...)\n\n**§ 3º** – Não será permitida a apropriação de crédito:\n\nI – em devolução ou troca de mercadoria adquirida com emissão de Cupom Fiscal, exceto em relação àqueles documentos que contenham identificação do adquirente impressa por Equipamento Emissor de Cupom Fiscal (ECF);\n\nII – no recebimento, em virtude de garantia, de parte ou peça de mercadoria remetida ao adquirente.\n\n(…) (nr)”.\n\n**Art. 2º** – Os Anexos do RICMS abaixo relacionados passam a vigorar com as seguintes alterações:\n\nI – Parte I do Anexo I:\n\n“\n\n32 (...) (...) 32.3 A isenção será reconhecida pelo Fisco antes do desembaraço aduaneiro, mediante requerimento do adquirente, protocolizado na Administração Fazendária (AF) a que estiver circunscrito. (...)\n\n”.\n\nII – Parte 1 do Anexo II:\n\n“\n\n41 41.1 41.12 (...) (...) c.1 – a impossibilidade de aquisição da mercadoria, em quantidade, qualidade ou condições concorrenciais semelhantes, de contribuinte situado no Estado; (...) (...) a.2 – apresentará laudo expedido pelo Instituto de Desenvolvimento Industrial de Minas Gerais (INDI), atestando a inexistência de mercadoria similar, inclusive no que se refere às condições concorrenciais, produzida no Estado; (...)\n\n”.\n\nIII – Parte 1 do Anexo V:\n\n“Art. 66 – (...)\n\nI – a mercadoria for entregue em depósito de empresa de transporte organizada e sindicalizada ou for por esta coletada, dentro do seu prazo de validade, ressalvadas as hipóteses previstas nas letras \"c\" ",
+    "trecho_final": "na Lei nº 6.763, de 26 de dezembro de 1975,\n\nDECRETA:\n\n**Art. 1º** – O Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n“Art. 76 – (...)\n\n**§ 3º** – Não será permitida a apropriação de crédito:\n\nI – em devolução ou troca de mercadoria adquirida com emissão de Cupom Fiscal, exceto em relação àqueles documentos que contenham identificação do adquirente impressa por Equipamento Emissor de Cupom Fiscal (ECF);\n\nII – no recebimento, em virtude de garantia, de parte ou peça de mercadoria remetida ao adquirente.\n\n(…) (nr)”.\n\n**Art. 2º** – Os Anexos do RICMS abaixo relacionados passam a vigorar com as seguintes alterações:\n\nI – Parte I do Anexo I:\n\n“\n\n32 (...) (...) 32.3 A isenção será reconhecida pelo Fisco antes do desembaraço aduaneiro, mediante requerimento do adquirente, protocolizado na Administração Fazendária (AF) a que estiver circunscrito. (...)\n\n”.\n\nII – Parte 1 do Anexo II:\n\n“\n\n41 41.1 41.12 (...) (...) c.1 – a impossibilidade de aquisição da mercadoria, em quantidade, qualidade ou condições concorrenciais semelhantes, de contribuinte situado no Estado; (...) (...) a.2 – apresentará laudo expedido pelo Instituto de Desenvolvimento Industrial de Minas Gerais (INDI), atestando a inexistência de mercadoria similar, inclusive no que se refere às condições concorrenciais, produzida no Estado; (...)\n\n”.\n\nIII – Parte 1 do Anexo V:\n\n“Art. 66 – (...)\n\nI – a mercadoria for entregue em depósito de empresa de transporte organizada e sindicalizada ou for por esta coletada, dentro do seu prazo de validade, ressalvadas as hipóteses previstas nas letras \"c\" e \"d\" do campo I do quadro de prazo de validade constante do art. 58 desta Parte, se comprovado por emissão do respectivo conhecimento de transporte de cargas ou da Ordem de Coleta de Cargas;\n\n(...)\n\n**Art. 67** – (...)\n\n**Parágrafo único** – Não perderá a validade a nota fiscal que estiver acompanhada de conhecimento de transporte de cargas emitido por empresa de transporte organizada e sindicalizada, ressalvadas as hipóteses previstas neste Regulamento.\n\n(...)(nr)\"\n\n**Art. 3º** – Este Decreto entra em vigor na data de sua publicação.\n\nPalácio da Liberdade, em Belo Horizonte, aos 29 de agosto de 2005; 217º da Inconfidência Mineira e 184º da Independência do Brasil.\n\nAÉCIO NEVES\n\nDanilo de Castro\n\nAntonio Augusto Junho Anastasia\n\nFuad Noman\n\n==================================================\n\nData da última atualização: 24/3/2023.\n",
+    "aplicado": false
+  },
+  {
+    "path": "estaduais/MG/decretos/2005/dec-44093-2005.md",
+    "md_sha256": "1eefbbb3ec70fbbd0ca39868060fe3b8802d9271526c9fed166be2471e9b9091",
+    "fonte_sha256": "82790b7ed1d0e6da5530107f719cdc74e13afb85a06e75b381b5857f2688e74a",
+    "cache": "estaduais/MG/_fonte/decretos/2005/dec-44093-2005.html.gz",
+    "decisao": "marcadores_resolvidos_sem_lacuna_nova",
+    "fundamento": "Art1 modifica exclusivamente vigencias dositens44/45Parte1AnexoIVpara31out2005. Noveeventosrestantes sao celulasdescricao/BC/condicoes naoalteradas; nova data expressa emambaslinhas. Art3revoga45.1/45.2 eArt2/fecho presentes.",
+    "cobertura_leitura": "corpo integral",
+    "eventos_resolvidos": [
+      {
+        "evento_indice": 1,
+        "inicio": 1267,
+        "fim": 1270,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "05, celebrados na 118ª reunião ordinária, realizada em São Paulo, SP, no dia 1º de julho de 2005, do Conselho Nacional de Política Fazendária (CONFAZ),\n\nDECRETA:\n\n**Art. 1º** – A Parte 1 do Anexo IV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n“\n\n44 (...) (...) (...) (...) (...) 31/10/2005 45 (...) (...) (...) (...) (...) 31/10/2005\n\n”.\n\n**Art. 2º** – Este Decreto entra em vigor em 1º de agosto de 2005.\n\n**Art. 3º** – Ficam revogados os subitens 45.1 e 45.2 da Parte 1 do Anexo IV do RICMS.\n\nPalácio da Liberdade, em Belo Horizonte, aos 29 de agosto de 2005; 217º da Inconfidência Mineira e 184º da Indepen",
+        "contexto_sha256": "b7b5e7bdb3eac2228ad5a93bb6717d63632d48546313439397409a1d02cd5739"
+      },
+      {
+        "evento_indice": 2,
+        "inicio": 1273,
+        "fim": 1276,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "lebrados na 118ª reunião ordinária, realizada em São Paulo, SP, no dia 1º de julho de 2005, do Conselho Nacional de Política Fazendária (CONFAZ),\n\nDECRETA:\n\n**Art. 1º** – A Parte 1 do Anexo IV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n“\n\n44 (...) (...) (...) (...) (...) 31/10/2005 45 (...) (...) (...) (...) (...) 31/10/2005\n\n”.\n\n**Art. 2º** – Este Decreto entra em vigor em 1º de agosto de 2005.\n\n**Art. 3º** – Ficam revogados os subitens 45.1 e 45.2 da Parte 1 do Anexo IV do RICMS.\n\nPalácio da Liberdade, em Belo Horizonte, aos 29 de agosto de 2005; 217º da Inconfidência Mineira e 184º da Independência",
+        "contexto_sha256": "6deb9f284c82d8511d72f2ddf82add3ff2698dc6366612abf476f82c7bd8c920"
+      },
+      {
+        "evento_indice": 3,
+        "inicio": 1279,
+        "fim": 1282,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "os na 118ª reunião ordinária, realizada em São Paulo, SP, no dia 1º de julho de 2005, do Conselho Nacional de Política Fazendária (CONFAZ),\n\nDECRETA:\n\n**Art. 1º** – A Parte 1 do Anexo IV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n“\n\n44 (...) (...) (...) (...) (...) 31/10/2005 45 (...) (...) (...) (...) (...) 31/10/2005\n\n”.\n\n**Art. 2º** – Este Decreto entra em vigor em 1º de agosto de 2005.\n\n**Art. 3º** – Ficam revogados os subitens 45.1 e 45.2 da Parte 1 do Anexo IV do RICMS.\n\nPalácio da Liberdade, em Belo Horizonte, aos 29 de agosto de 2005; 217º da Inconfidência Mineira e 184º da Independência do Br",
+        "contexto_sha256": "4ed96259bc04a4061a57a19accbcc5467843df9df601d1af23b304fb9e8aa4c3"
+      },
+      {
+        "evento_indice": 4,
+        "inicio": 1285,
+        "fim": 1288,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "118ª reunião ordinária, realizada em São Paulo, SP, no dia 1º de julho de 2005, do Conselho Nacional de Política Fazendária (CONFAZ),\n\nDECRETA:\n\n**Art. 1º** – A Parte 1 do Anexo IV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n“\n\n44 (...) (...) (...) (...) (...) 31/10/2005 45 (...) (...) (...) (...) (...) 31/10/2005\n\n”.\n\n**Art. 2º** – Este Decreto entra em vigor em 1º de agosto de 2005.\n\n**Art. 3º** – Ficam revogados os subitens 45.1 e 45.2 da Parte 1 do Anexo IV do RICMS.\n\nPalácio da Liberdade, em Belo Horizonte, aos 29 de agosto de 2005; 217º da Inconfidência Mineira e 184º da Independência do Brasil.\n",
+        "contexto_sha256": "2f882d34ae49ed9d2bb29b1237cec935a1faeb0e119556746d820385d58c775a"
+      },
+      {
+        "evento_indice": 5,
+        "inicio": 1305,
+        "fim": 1308,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ia, realizada em São Paulo, SP, no dia 1º de julho de 2005, do Conselho Nacional de Política Fazendária (CONFAZ),\n\nDECRETA:\n\n**Art. 1º** – A Parte 1 do Anexo IV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n“\n\n44 (...) (...) (...) (...) (...) 31/10/2005 45 (...) (...) (...) (...) (...) 31/10/2005\n\n”.\n\n**Art. 2º** – Este Decreto entra em vigor em 1º de agosto de 2005.\n\n**Art. 3º** – Ficam revogados os subitens 45.1 e 45.2 da Parte 1 do Anexo IV do RICMS.\n\nPalácio da Liberdade, em Belo Horizonte, aos 29 de agosto de 2005; 217º da Inconfidência Mineira e 184º da Independência do Brasil.\n\nAÉCIO NEVES\n\nDanilo",
+        "contexto_sha256": "d7ff04596fc48c3818bdb7ba4663ebb5acc63e835f712f269c92db205698858a"
+      },
+      {
+        "evento_indice": 6,
+        "inicio": 1311,
+        "fim": 1314,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "alizada em São Paulo, SP, no dia 1º de julho de 2005, do Conselho Nacional de Política Fazendária (CONFAZ),\n\nDECRETA:\n\n**Art. 1º** – A Parte 1 do Anexo IV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n“\n\n44 (...) (...) (...) (...) (...) 31/10/2005 45 (...) (...) (...) (...) (...) 31/10/2005\n\n”.\n\n**Art. 2º** – Este Decreto entra em vigor em 1º de agosto de 2005.\n\n**Art. 3º** – Ficam revogados os subitens 45.1 e 45.2 da Parte 1 do Anexo IV do RICMS.\n\nPalácio da Liberdade, em Belo Horizonte, aos 29 de agosto de 2005; 217º da Inconfidência Mineira e 184º da Independência do Brasil.\n\nAÉCIO NEVES\n\nDanilo de Ca",
+        "contexto_sha256": "dbb8d8c6aef4b1255d421ad8c22018c15b218b482159e4750da7b04957017549"
+      },
+      {
+        "evento_indice": 7,
+        "inicio": 1317,
+        "fim": 1320,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "a em São Paulo, SP, no dia 1º de julho de 2005, do Conselho Nacional de Política Fazendária (CONFAZ),\n\nDECRETA:\n\n**Art. 1º** – A Parte 1 do Anexo IV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n“\n\n44 (...) (...) (...) (...) (...) 31/10/2005 45 (...) (...) (...) (...) (...) 31/10/2005\n\n”.\n\n**Art. 2º** – Este Decreto entra em vigor em 1º de agosto de 2005.\n\n**Art. 3º** – Ficam revogados os subitens 45.1 e 45.2 da Parte 1 do Anexo IV do RICMS.\n\nPalácio da Liberdade, em Belo Horizonte, aos 29 de agosto de 2005; 217º da Inconfidência Mineira e 184º da Independência do Brasil.\n\nAÉCIO NEVES\n\nDanilo de Castro\n\n",
+        "contexto_sha256": "79d8d0531fffea66d198ba2de87677783ef54bf833beaab9c738ad5dde04dd98"
+      },
+      {
+        "evento_indice": 8,
+        "inicio": 1323,
+        "fim": 1326,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ão Paulo, SP, no dia 1º de julho de 2005, do Conselho Nacional de Política Fazendária (CONFAZ),\n\nDECRETA:\n\n**Art. 1º** – A Parte 1 do Anexo IV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n“\n\n44 (...) (...) (...) (...) (...) 31/10/2005 45 (...) (...) (...) (...) (...) 31/10/2005\n\n”.\n\n**Art. 2º** – Este Decreto entra em vigor em 1º de agosto de 2005.\n\n**Art. 3º** – Ficam revogados os subitens 45.1 e 45.2 da Parte 1 do Anexo IV do RICMS.\n\nPalácio da Liberdade, em Belo Horizonte, aos 29 de agosto de 2005; 217º da Inconfidência Mineira e 184º da Independência do Brasil.\n\nAÉCIO NEVES\n\nDanilo de Castro\n\nAntoni",
+        "contexto_sha256": "2b4a1732575c0859b06f2822b5e142b4c75ca8428ad1e36cc047b71746a0f582"
+      },
+      {
+        "evento_indice": 9,
+        "inicio": 1329,
+        "fim": 1332,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "lo, SP, no dia 1º de julho de 2005, do Conselho Nacional de Política Fazendária (CONFAZ),\n\nDECRETA:\n\n**Art. 1º** – A Parte 1 do Anexo IV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n“\n\n44 (...) (...) (...) (...) (...) 31/10/2005 45 (...) (...) (...) (...) (...) 31/10/2005\n\n”.\n\n**Art. 2º** – Este Decreto entra em vigor em 1º de agosto de 2005.\n\n**Art. 3º** – Ficam revogados os subitens 45.1 e 45.2 da Parte 1 do Anexo IV do RICMS.\n\nPalácio da Liberdade, em Belo Horizonte, aos 29 de agosto de 2005; 217º da Inconfidência Mineira e 184º da Independência do Brasil.\n\nAÉCIO NEVES\n\nDanilo de Castro\n\nAntonio Augu",
+        "contexto_sha256": "394679c485c999994b44068ed441c39f98e9878112f40cbe185f525dac52c2d2"
+      }
+    ],
+    "body_sha256": "a467b46e83b85af4e4be5ebcc29651d3a35ce102e9592f8a4c511535d5eb9150",
+    "trecho_inicial": "---\ntitulo: \"Decreto nº 44093, de 29/08/2005\"\nuf: \"MG\"\ntipo: \"Decreto\"\nnumero: \"44093\"\ndata: 2005-08-29\nementa: \"ALTERA O REGULAMENTO DO ICMS, APROVADO PELO DECRETO Nº 43.080, DE 13 DE DEZEMBRO DE 2002.\"\nsituacao: \"Revogada\"\nrevogada: true\nversao_texto: \"atualizada\"\nfonte: \"https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/44093/2005/documento?tipoDoc=572\"\nbaixado_em: 2026-10-16\n---\n# Decreto nº 44093, de 29/08/2005\n\nAltera o Regulamento do ICMS, aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002.\n\n(O Decreto nº 44.093, de 29/8/2005, foi revogado pelo item 91 do Anexo do Decreto nº 48.590, de 22/3/2023.)\n\n(Vide art. 1º do Decreto nº 48.590, de 22/3/2023.)\n\nO GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso de atribuição que lhe confere o inciso VII do art. 90 da Constituição do Estado, e tendo em vista o disposto na Lei nº 6.763, de 26 de dezembro de 1975 e nos Convênios ICMS 67/05 e 69/05, celebrados na 118ª reunião ordinária, realizada em São Paulo, SP, no dia 1º de julho de 2005, do Conselho Nacional de Política Fazendária (CONFAZ),\n\nDECRETA:\n\n**Art. 1º** – A Parte 1 do Anexo IV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n“\n\n44 (...) (...) (...) (...) (...) 31/10/2005 45 (...) (...) (...) (...) (...) 31/10/2005\n\n”.\n\n**Art. 2º** – Este Decreto entra em vigor em 1º de agosto de 2005.\n\n**Art. 3º** – Ficam revogados os subitens 45.1 e 45.2 da Parte 1 do Anexo IV do RICMS.\n\nPalácio da Liberdade, em Belo Horizonte, aos 29 de agosto de 2005; 217º da Inconfidência Mineira e 184º da Independência do Brasil.\n\nAÉCIO NEVES\n\nDanilo de Castro\n\nAntonio Augusto Junho Anastasia\n\nFuad Noman\n\n==================================================\n\nData da última atualização: 24/3/2023.\n",
+    "trecho_final": "---\ntitulo: \"Decreto nº 44093, de 29/08/2005\"\nuf: \"MG\"\ntipo: \"Decreto\"\nnumero: \"44093\"\ndata: 2005-08-29\nementa: \"ALTERA O REGULAMENTO DO ICMS, APROVADO PELO DECRETO Nº 43.080, DE 13 DE DEZEMBRO DE 2002.\"\nsituacao: \"Revogada\"\nrevogada: true\nversao_texto: \"atualizada\"\nfonte: \"https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/44093/2005/documento?tipoDoc=572\"\nbaixado_em: 2026-10-16\n---\n# Decreto nº 44093, de 29/08/2005\n\nAltera o Regulamento do ICMS, aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002.\n\n(O Decreto nº 44.093, de 29/8/2005, foi revogado pelo item 91 do Anexo do Decreto nº 48.590, de 22/3/2023.)\n\n(Vide art. 1º do Decreto nº 48.590, de 22/3/2023.)\n\nO GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso de atribuição que lhe confere o inciso VII do art. 90 da Constituição do Estado, e tendo em vista o disposto na Lei nº 6.763, de 26 de dezembro de 1975 e nos Convênios ICMS 67/05 e 69/05, celebrados na 118ª reunião ordinária, realizada em São Paulo, SP, no dia 1º de julho de 2005, do Conselho Nacional de Política Fazendária (CONFAZ),\n\nDECRETA:\n\n**Art. 1º** – A Parte 1 do Anexo IV do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com as seguintes alterações:\n\n“\n\n44 (...) (...) (...) (...) (...) 31/10/2005 45 (...) (...) (...) (...) (...) 31/10/2005\n\n”.\n\n**Art. 2º** – Este Decreto entra em vigor em 1º de agosto de 2005.\n\n**Art. 3º** – Ficam revogados os subitens 45.1 e 45.2 da Parte 1 do Anexo IV do RICMS.\n\nPalácio da Liberdade, em Belo Horizonte, aos 29 de agosto de 2005; 217º da Inconfidência Mineira e 184º da Independência do Brasil.\n\nAÉCIO NEVES\n\nDanilo de Castro\n\nAntonio Augusto Junho Anastasia\n\nFuad Noman\n\n==================================================\n\nData da última atualização: 24/3/2023.\n",
+    "aplicado": false
+  },
+  {
+    "path": "estaduais/MG/decretos/2005/dec-44105-2005.md",
+    "md_sha256": "447bafd56484270c68e7ebc4d64f18ac8bca8c1a7097ce10706f6ac4bd8a5638",
+    "fonte_sha256": "be56722bc252d613575d863241965fef17ca407b775b70a780f129835e75cd0a",
+    "cache": "estaduais/MG/_fonte/decretos/2005/dec-44105-2005.html.gz",
+    "decisao": "marcadores_resolvidos_sem_lacuna_nova",
+    "fundamento": "Art2 alteraPartesAnexosI/IV e acrescenta produtosnosAnexosII/IV:10eventosrestantes representam outrascelulas noitem12/12.1 e19/19.1. Novasalineasexcecoes amendoas/frutas/industrializacao e referenciasitens1a54 transcritas; novaslistas deprodutos completeinclusiveitens45a54. Arts3/4/fecho presentes.",
+    "cobertura_leitura": "corpo integral",
+    "eventos_resolvidos": [
+      {
+        "evento_indice": 1,
+        "inicio": 1349,
+        "fim": 1407,
+        "literal_sha256": "5a7668a9235f6693a798c1819a736f81815a0b5646c302a6ab65c691f40a5166",
+        "contexto": "o nº 43.080, de 13 de dezembro de 2002, passa a vigorar com a seguinte alteração:\n\n\"Art. 12.............................................\n\nIV - a mercadoria destinar-se ao ativo permanente, ao uso ou ao consumo do adquirente ou do destinatário, ressalvado o disposto nos itens 41, 46 e 55 da Parte 1 do Anexo II quando se tratar de ativo permanente;\n\n.......................................................... (nr)\".\n\n**Art. 2º** Os Anexos abaixo relacionados do RICMS, passam a vigorar com as seguintes alterações:\n\nI - na Parte 1 do Anexo I:\n\n\"\n\n12 12.1 (...) (...) a- às operações com amêndoa, avelã, castanha ou noz; b - à saída de mercadoria destinada à industrialização. (...) (nr) (...)\n\n\";\n\nII - na Parte 1 do Anexo II:\n\n\"\n\n6 Saída dos produtos relaci",
+        "contexto_sha256": "b84d324a209b4dc0dff111016f80d32b4f8ed1c6c2dbfe439107bc58c25ccced"
+      },
+      {
+        "evento_indice": 2,
+        "inicio": 1555,
+        "fim": 1558,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "umo do adquirente ou do destinatário, ressalvado o disposto nos itens 41, 46 e 55 da Parte 1 do Anexo II quando se tratar de ativo permanente;\n\n.......................................................... (nr)\".\n\n**Art. 2º** Os Anexos abaixo relacionados do RICMS, passam a vigorar com as seguintes alterações:\n\nI - na Parte 1 do Anexo I:\n\n\"\n\n12 12.1 (...) (...) a- às operações com amêndoa, avelã, castanha ou noz; b - à saída de mercadoria destinada à industrialização. (...) (nr) (...)\n\n\";\n\nII - na Parte 1 do Anexo II:\n\n\"\n\n6 Saída dos produtos relacionados na Parte 2 deste Anexo, em estado natural, para estabelecimento industrial, com o fim específico de industrialização. (nr) 47 Saída de soja, mil",
+        "contexto_sha256": "845ce03d18f53f1fdc7afd3874f7c2c31f2ac9dec97b2d5186a830683251858c"
+      },
+      {
+        "evento_indice": 3,
+        "inicio": 1561,
+        "fim": 1564,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " adquirente ou do destinatário, ressalvado o disposto nos itens 41, 46 e 55 da Parte 1 do Anexo II quando se tratar de ativo permanente;\n\n.......................................................... (nr)\".\n\n**Art. 2º** Os Anexos abaixo relacionados do RICMS, passam a vigorar com as seguintes alterações:\n\nI - na Parte 1 do Anexo I:\n\n\"\n\n12 12.1 (...) (...) a- às operações com amêndoa, avelã, castanha ou noz; b - à saída de mercadoria destinada à industrialização. (...) (nr) (...)\n\n\";\n\nII - na Parte 1 do Anexo II:\n\n\"\n\n6 Saída dos produtos relacionados na Parte 2 deste Anexo, em estado natural, para estabelecimento industrial, com o fim específico de industrialização. (nr) 47 Saída de soja, milho ou ",
+        "contexto_sha256": "818d5136af18391f7629e14aef1a26671213037f0b573053b2d1b7654afb7520"
+      },
+      {
+        "evento_indice": 4,
+        "inicio": 1676,
+        "fim": 1679,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": " de ativo permanente;\n\n.......................................................... (nr)\".\n\n**Art. 2º** Os Anexos abaixo relacionados do RICMS, passam a vigorar com as seguintes alterações:\n\nI - na Parte 1 do Anexo I:\n\n\"\n\n12 12.1 (...) (...) a- às operações com amêndoa, avelã, castanha ou noz; b - à saída de mercadoria destinada à industrialização. (...) (nr) (...)\n\n\";\n\nII - na Parte 1 do Anexo II:\n\n\"\n\n6 Saída dos produtos relacionados na Parte 2 deste Anexo, em estado natural, para estabelecimento industrial, com o fim específico de industrialização. (nr) 47 Saída de soja, milho ou sorgo com destino a estabelecimento de contribuinte do imposto, para industrialização ou comercialização. (nr) 54 S",
+        "contexto_sha256": "43317319f08ea3e09b69b957bbe2e9d04f28edd0fb358d2e7a1940fa4581f808"
+      },
+      {
+        "evento_indice": 5,
+        "inicio": 1687,
+        "fim": 1690,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "ermanente;\n\n.......................................................... (nr)\".\n\n**Art. 2º** Os Anexos abaixo relacionados do RICMS, passam a vigorar com as seguintes alterações:\n\nI - na Parte 1 do Anexo I:\n\n\"\n\n12 12.1 (...) (...) a- às operações com amêndoa, avelã, castanha ou noz; b - à saída de mercadoria destinada à industrialização. (...) (nr) (...)\n\n\";\n\nII - na Parte 1 do Anexo II:\n\n\"\n\n6 Saída dos produtos relacionados na Parte 2 deste Anexo, em estado natural, para estabelecimento industrial, com o fim específico de industrialização. (nr) 47 Saída de soja, milho ou sorgo com destino a estabelecimento de contribuinte do imposto, para industrialização ou comercialização. (nr) 54 Saída de arr",
+        "contexto_sha256": "78231eb070312cf6e2b0d9fda0b7a31144410ef720cab47fc3999c2ff2fd9366"
+      },
+      {
+        "evento_indice": 6,
+        "inicio": 3797,
+        "fim": 3800,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "mpala, tomate, tomilho e vagem (nr) 7 Demais folhas usadas na alimentação humana (nr) 8 Ovo, exceto o fértil (nr) 9 Flores (nr) 10 Fruta fresca (nr) 11 Algarobo, coco de babaçu, coco-indaiá, coco-macaúba, colza, fruta-de-pinhão-manso, fruta de rasteiro, jojoba, mamona, semente de girassol e pequi (nr)\n\n\";\n\nIV - na Parte 1 do Anexo IV:\n\n\"\n\n19 19.1 (...) a - relacionados nos itens 1 a 37 e 44 a 48 da Parte 6 deste Anexo: (...) b - relacionados nos itens 38 a 43 e 49 a 54 da Parte 6 deste Anexo: (...) (...) g - produtos relacionados nos itens 37 e 39 a 47 da Parte 6 deste Anexo. (nr) (...)\n\n\";\n\nV - na Parte 6 do Anexo IV:\n\n\"\n\n45 Mel 46 Própolis 47 Geléia real 48 Chá mate 49 Leite de soja 50 Sardin",
+        "contexto_sha256": "f95ef85e357878d15bc03a676048c2afb9f71fa86e42d13057f61df83314899f"
+      },
+      {
+        "evento_indice": 7,
+        "inicio": 3871,
+        "fim": 3874,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "humana (nr) 8 Ovo, exceto o fértil (nr) 9 Flores (nr) 10 Fruta fresca (nr) 11 Algarobo, coco de babaçu, coco-indaiá, coco-macaúba, colza, fruta-de-pinhão-manso, fruta de rasteiro, jojoba, mamona, semente de girassol e pequi (nr)\n\n\";\n\nIV - na Parte 1 do Anexo IV:\n\n\"\n\n19 19.1 (...) a - relacionados nos itens 1 a 37 e 44 a 48 da Parte 6 deste Anexo: (...) b - relacionados nos itens 38 a 43 e 49 a 54 da Parte 6 deste Anexo: (...) (...) g - produtos relacionados nos itens 37 e 39 a 47 da Parte 6 deste Anexo. (nr) (...)\n\n\";\n\nV - na Parte 6 do Anexo IV:\n\n\"\n\n45 Mel 46 Própolis 47 Geléia real 48 Chá mate 49 Leite de soja 50 Sardinha em lata 51 Biscoito de maisena 52 Biscoito de polvilho 53 Biscoito tipo",
+        "contexto_sha256": "033dd555217bac5efbc12392fe07dba759b80cf03171f21c6f6ff51b21992908"
+      },
+      {
+        "evento_indice": 8,
+        "inicio": 3946,
+        "fim": 3949,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "11 Algarobo, coco de babaçu, coco-indaiá, coco-macaúba, colza, fruta-de-pinhão-manso, fruta de rasteiro, jojoba, mamona, semente de girassol e pequi (nr)\n\n\";\n\nIV - na Parte 1 do Anexo IV:\n\n\"\n\n19 19.1 (...) a - relacionados nos itens 1 a 37 e 44 a 48 da Parte 6 deste Anexo: (...) b - relacionados nos itens 38 a 43 e 49 a 54 da Parte 6 deste Anexo: (...) (...) g - produtos relacionados nos itens 37 e 39 a 47 da Parte 6 deste Anexo. (nr) (...)\n\n\";\n\nV - na Parte 6 do Anexo IV:\n\n\"\n\n45 Mel 46 Própolis 47 Geléia real 48 Chá mate 49 Leite de soja 50 Sardinha em lata 51 Biscoito de maisena 52 Biscoito de polvilho 53 Biscoito tipo água e sal 54 Outros biscoitos não recheados\n\n\".\n\n**Art. 3º** Este Decreto",
+        "contexto_sha256": "dc1d72c04d2e280b5ce457b7c7be17b0f773bd4c92e0696507f640f9746399d9"
+      },
+      {
+        "evento_indice": 9,
+        "inicio": 3952,
+        "fim": 3955,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "arobo, coco de babaçu, coco-indaiá, coco-macaúba, colza, fruta-de-pinhão-manso, fruta de rasteiro, jojoba, mamona, semente de girassol e pequi (nr)\n\n\";\n\nIV - na Parte 1 do Anexo IV:\n\n\"\n\n19 19.1 (...) a - relacionados nos itens 1 a 37 e 44 a 48 da Parte 6 deste Anexo: (...) b - relacionados nos itens 38 a 43 e 49 a 54 da Parte 6 deste Anexo: (...) (...) g - produtos relacionados nos itens 37 e 39 a 47 da Parte 6 deste Anexo. (nr) (...)\n\n\";\n\nV - na Parte 6 do Anexo IV:\n\n\"\n\n45 Mel 46 Própolis 47 Geléia real 48 Chá mate 49 Leite de soja 50 Sardinha em lata 51 Biscoito de maisena 52 Biscoito de polvilho 53 Biscoito tipo água e sal 54 Outros biscoitos não recheados\n\n\".\n\n**Art. 3º** Este Decreto entra",
+        "contexto_sha256": "0bcca6e5cbd28963272dadce39c9245db1f0859646c28a1b55975f4f85c98b27"
+      },
+      {
+        "evento_indice": 10,
+        "inicio": 4036,
+        "fim": 4039,
+        "literal_sha256": "ab5df625bc76dbd4e163bed2dd888df828f90159bb93556525c31821b6541d46",
+        "contexto": "a de rasteiro, jojoba, mamona, semente de girassol e pequi (nr)\n\n\";\n\nIV - na Parte 1 do Anexo IV:\n\n\"\n\n19 19.1 (...) a - relacionados nos itens 1 a 37 e 44 a 48 da Parte 6 deste Anexo: (...) b - relacionados nos itens 38 a 43 e 49 a 54 da Parte 6 deste Anexo: (...) (...) g - produtos relacionados nos itens 37 e 39 a 47 da Parte 6 deste Anexo. (nr) (...)\n\n\";\n\nV - na Parte 6 do Anexo IV:\n\n\"\n\n45 Mel 46 Própolis 47 Geléia real 48 Chá mate 49 Leite de soja 50 Sardinha em lata 51 Biscoito de maisena 52 Biscoito de polvilho 53 Biscoito tipo água e sal 54 Outros biscoitos não recheados\n\n\".\n\n**Art. 3º** Este Decreto entra em vigor na data de sua publicação.\n\n**Art. 4º** Ficam revogados:\n\nI - o art. 38 do",
+        "contexto_sha256": "459c863ed0b5daf4d5c12afb2852d6e3eb4b87692bb767e8310f75146f94419d"
+      }
+    ],
+    "body_sha256": "fd39f2fd8fc9986c20d0eb659cd066c6862ac9693c5cebd2016f59644a3e9d6d",
+    "trecho_inicial": "---\ntitulo: \"Decreto nº 44105, de 14/09/2005\"\nuf: \"MG\"\ntipo: \"Decreto\"\nnumero: \"44105\"\ndata: 2005-09-14\nementa: \"ALTERA O REGULAMENTO DO ICMS, APROVADO PELO DECRETO Nº 43.080, DE 13 DE DEZEMBRO DE 2002.\"\nsituacao: \"Revogada\"\nrevogada: true\nversao_texto: \"atualizada\"\nfonte: \"https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/44105/2005/documento?tipoDoc=572\"\nbaixado_em: 2026-10-16\n---\n# Decreto nº 44105, de 14/09/2005\n\nAltera o Regulamento do ICMS, aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002.\n\n(O Decreto nº 44.105, de 14/9/2005, foi revogado pelo item 92 do Anexo do Decreto nº 48.590, de 22/3/2023.)\n\n(Vide art. 1º do Decreto nº 48.590, de 22/3/2023.)\n\nO GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso de atribuição que lhe confere o inciso VII do art. 90, da Constituição do Estado, e tendo em vista o disposto no art. 9º da Lei nº 6.763, de 26 de dezembro de 1975, e no Convênio ICMS 128/94,\n\nDECRETA:\n\n**Art. 1º** O Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com a seguinte alteração:\n\n\"Art. 12.............................................\n\nIV - a mercadoria destinar-se ao ativo permanente, ao uso ou ao consumo do adquirente ou do destinatário, ressalvado o disposto nos itens 41, 46 e 55 da Parte 1 do Anexo II quando se tratar de ativo permanente;\n\n.......................................................... (nr)\".\n\n**Art. 2º** Os Anexos abaixo relacionados do RICMS, passam a vigorar com as seguintes alterações:\n\nI - na Parte 1 do Anexo I:\n\n\"\n\n12 12.1 (...) (...) a- às operações com amêndoa, avelã, castanha ou noz; b - à saída de mercadoria destinada à industrialização. (...) (nr) (...)\n\n\";\n\nII - na Parte 1 do Anexo II:\n\n\"\n\n6 Saída dos produtos relacionados na Parte 2 deste Anexo, em estado natural, para estabelecimento industrial, com o fim específico de industrialização. (nr) 47 Saída de soja, milho ou sorgo com destino a estabelecimento de contribuinte do imposto, para industrialização ou comercialização. (nr) 54 Saída de arroz ou feijão de estabelecimento de produtor rural com destino a estabelecimento industrial. 55 55.1 Saída de mercadoria destinada à construção ou ampliação de pequenas centrais hidrelétricas (PCH). O diferimento de que trata este item será autorizado mediante regime especial, no qual serão relacionadas as mercadorias e os fornecedores, concedido pelo Diretor da Superintendência de Tributação (SUTRI) ao contribuinte gerador de energia elétrica.\n\n\";\n\nIII - n",
+    "trecho_final": "á autorizado mediante regime especial, no qual serão relacionadas as mercadorias e os fornecedores, concedido pelo Diretor da Superintendência de Tributação (SUTRI) ao contribuinte gerador de energia elétrica.\n\n\";\n\nIII - na Parte 2 do Anexo II:\n\n\"\n\n1 Abóbora, abobrinha, acelga, agrião, aipim, aipo, alcachofra, alecrim, alface, alfavaca, alfazema, almeirão, aneto, anis, araruta, arruda, aspargo e azedim (nr) 2 Batata, batata-doce, berinjela, bertalha, beterraba, brócolis, broto de bambu, broto de feijão, broto de samambaia e demais brotos de vegetais usados na alimentação humana (nr) 3 Cacateira, cambuquira, camomila, cará, cardo, catalonha, cebola, cebolinha, cenoura, chicória, chuchu, coentro, cogumelo, inclusive desidratado, cominho, couve e couve-flor (nr) 4 Endívia, erva-cidreira, erva-doce, erva-de-santa-maria, ervilha, escarola, espinafre, funcho, gengibre, gobo, hortelã, inhame, jiló e losna (nr) 5 Macaxeira, mandioca, manjericão, manjerona, maxixe, milho-verde, moranga, mostarda, nabiça, nabo, palmito, pepino, pimenta e pimentão (nr) 6 Quiabo, rabanete, raiz-forte, repolho, repolho-chinês, rúcula, ruibarbo, salsa, salsão, segurelha, taioba, tampala, tomate, tomilho e vagem (nr) 7 Demais folhas usadas na alimentação humana (nr) 8 Ovo, exceto o fértil (nr) 9 Flores (nr) 10 Fruta fresca (nr) 11 Algarobo, coco de babaçu, coco-indaiá, coco-macaúba, colza, fruta-de-pinhão-manso, fruta de rasteiro, jojoba, mamona, semente de girassol e pequi (nr)\n\n\";\n\nIV - na Parte 1 do Anexo IV:\n\n\"\n\n19 19.1 (...) a - relacionados nos itens 1 a 37 e 44 a 48 da Parte 6 deste Anexo: (...) b - relacionados nos itens 38 a 43 e 49 a 54 da Parte 6 deste Anexo: (...) (...) g - produtos relacionados nos itens 37 e 39 a 47 da Parte 6 deste Anexo. (nr) (...)\n\n\";\n\nV - na Parte 6 do Anexo IV:\n\n\"\n\n45 Mel 46 Própolis 47 Geléia real 48 Chá mate 49 Leite de soja 50 Sardinha em lata 51 Biscoito de maisena 52 Biscoito de polvilho 53 Biscoito tipo água e sal 54 Outros biscoitos não recheados\n\n\".\n\n**Art. 3º** Este Decreto entra em vigor na data de sua publicação.\n\n**Art. 4º** Ficam revogados:\n\nI - o art. 38 do RICMS; e\n\nII - o item 12 da Parte 1 e os itens 12 a 15 da Parte 2, do Anexo II do RICMS.\n\nPalácio da Liberdade, em Belo Horizonte, 14 de setembro de 2005; 217º da Inconfidência Mineira e 184º da Independência do Brasil.\n\nAÉCIO NEVES\n\nDanilo de Castro\n\nAntonio Augusto Junho Anastasia\n\nFuad Noman\n\n==================================================\n\nData da última atualização: 24/3/2023.\n",
+    "aplicado": false
+  },
+  {
+    "path": "estaduais/MG/decretos/2005/dec-44119-2005.md",
+    "md_sha256": "be08b84c880a89e972305a6da70f57fd3697a4a644683884b243b8526820932f",
+    "fonte_sha256": "e62814a4a48d7a2d020b7695a35f18fe44aaa380827eb00720ce051d05006863",
+    "cache": "estaduais/MG/_fonte/decretos/2005/dec-44119-2005.html.gz",
+    "decisao": "marcadores_resolvidos_sem_lacuna_nova",
+    "fundamento": "Art1 modifica exclusivamenteart115VParte1AnexoIXRICMS, remetente/alienante e prazo normal ICMS transcritos. Reticencia final representa outrosdispositivos inalterados. Art2par1a3procedimentosDECONCAFE eArts3/4/fecho presentes.",
+    "cobertura_leitura": "corpo integral",
+    "eventos_resolvidos": [
+      {
+        "evento_indice": 1,
+        "inicio": 1237,
+        "fim": 1238,
+        "literal_sha256": "b4935894c8ce16bde67bbffc672428b1533c4f1e1e8b1ce21a2933183db6bfa5",
+        "contexto": "\nDECRETA:\n\n**Art. 1º** – A Parte 1 do Anexo IX do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com a seguinte alteração:\n\n“Art. 115 – (...)\n\nV – pelo remetente ou alienante da mercadoria, nas demais operações, no prazo normal previsto para o pagamento do ICMS relativo às suas operações.\n\n(…) (nr)”\n\n**Art. 2º** – Para efeito de transferência do saldo credor existente no Demonstrativo e Controle de Aquisição de Café – DECONCAFÉ, em 31 de julho de 2005, o contribuinte emitirá nota fiscal, em seu próprio nome, que conterá a indicação do valor total do respectivo crédito.\n\n**§ 1º** – A nota fiscal emitida na forma do caput deverá ser escr",
+        "contexto_sha256": "32f408b79fe1920cdccbc5f9f88235add334a17714bbc65e568d8f9c54b1e543"
+      }
+    ],
+    "body_sha256": "a5253e5649d6243959f5b1023cd9e3ddfe81db04eb5ba2e2027d88d437664dfd",
+    "trecho_inicial": "---\ntitulo: \"Decreto nº 44119, de 29/09/2005\"\nuf: \"MG\"\ntipo: \"Decreto\"\nnumero: \"44119\"\ndata: 2005-09-29\nementa: \"ALTERA O REGULAMENTO DO ICMS, APROVADO PELO DECRETO Nº 43.080, DE 13 DE DEZEMBRO DE 2002.\"\nsituacao: \"Revogada\"\nrevogada: true\nversao_texto: \"atualizada\"\nfonte: \"https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/44119/2005/documento?tipoDoc=572\"\nbaixado_em: 2026-10-16\n---\n# Decreto nº 44119, de 29/09/2005\n\nAltera o Regulamento do ICMS, aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002.\n\n(O Decreto nº 44.119, de 29/9/2005, foi revogado pelo item 93 do Anexo do Decreto nº 48.590, de 22/3/2023.)\n\n(Vide art. 1º do Decreto nº 48.590, de 22/3/2023.)\n\nO GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso de atribuição que lhe confere o inciso VII do art. 90, da Constituição do Estado, e tendo em vista o disposto na Lei nº 6.763, de 26 de dezembro de 1975,\n\nDECRETA:\n\n**Art. 1º** – A Parte 1 do Anexo IX do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com a seguinte alteração:\n\n“Art. 115 – (...)\n\nV – pelo remetente ou alienante da mercadoria, nas demais operações, no prazo normal previsto para o pagamento do ICMS relativo às suas operações.\n\n(…) (nr)”\n\n**Art. 2º** – Para efeito de transferência do saldo credor existente no Demonstrativo e Controle de Aquisição de Café – DECONCAFÉ, em 31 de julho de 2005, o contribuinte emitirá nota fiscal, em seu próprio nome, que conterá a indicação do valor total do respectivo crédito.\n\n**§ 1º** – A nota fiscal emitida na forma do caput deverá ser escriturada pelo contribuinte no livro Registro de Entrada, mediante lançamento do respectivo valor na coluna “Operações com Crédito do Imposto”, informando na coluna \"Observações\" o seguinte: “Transferência de saldo credor do DECONCAFÉ existente em 31 de julho de 2005”.\n\n**§ 2º** – O contribuinte emitente da nota fiscal de que trata o § 1º deverá comunicar o fato à Administração Fazendária – AF a que o mesmo estiver circunscrito, no prazo de 5 (cinco) dias contado do término do período de apuração do imposto em que o crédito foi apropriado.\n\n**§ 3º** – Na hipótese de DECONCAFÉ preenchido pelo produtor inscrito no Cadastro de Produtor Rural, a transferência do saldo credor a que se refere o caput será efetuada pela AF de circunscrição do produtor, mediante lançamento de seu valor no certificado de crédito, ficando as vias do DECONCAFÉ em poder da AF arquivadas juntamente com o respectivo certificado de ",
+    "trecho_final": " 93 do Anexo do Decreto nº 48.590, de 22/3/2023.)\n\n(Vide art. 1º do Decreto nº 48.590, de 22/3/2023.)\n\nO GOVERNADOR DO ESTADO DE MINAS GERAIS, no uso de atribuição que lhe confere o inciso VII do art. 90, da Constituição do Estado, e tendo em vista o disposto na Lei nº 6.763, de 26 de dezembro de 1975,\n\nDECRETA:\n\n**Art. 1º** – A Parte 1 do Anexo IX do Regulamento do ICMS (RICMS), aprovado pelo Decreto nº 43.080, de 13 de dezembro de 2002, passa a vigorar com a seguinte alteração:\n\n“Art. 115 – (...)\n\nV – pelo remetente ou alienante da mercadoria, nas demais operações, no prazo normal previsto para o pagamento do ICMS relativo às suas operações.\n\n(…) (nr)”\n\n**Art. 2º** – Para efeito de transferência do saldo credor existente no Demonstrativo e Controle de Aquisição de Café – DECONCAFÉ, em 31 de julho de 2005, o contribuinte emitirá nota fiscal, em seu próprio nome, que conterá a indicação do valor total do respectivo crédito.\n\n**§ 1º** – A nota fiscal emitida na forma do caput deverá ser escriturada pelo contribuinte no livro Registro de Entrada, mediante lançamento do respectivo valor na coluna “Operações com Crédito do Imposto”, informando na coluna \"Observações\" o seguinte: “Transferência de saldo credor do DECONCAFÉ existente em 31 de julho de 2005”.\n\n**§ 2º** – O contribuinte emitente da nota fiscal de que trata o § 1º deverá comunicar o fato à Administração Fazendária – AF a que o mesmo estiver circunscrito, no prazo de 5 (cinco) dias contado do término do período de apuração do imposto em que o crédito foi apropriado.\n\n**§ 3º** – Na hipótese de DECONCAFÉ preenchido pelo produtor inscrito no Cadastro de Produtor Rural, a transferência do saldo credor a que se refere o caput será efetuada pela AF de circunscrição do produtor, mediante lançamento de seu valor no certificado de crédito, ficando as vias do DECONCAFÉ em poder da AF arquivadas juntamente com o respectivo certificado de crédito.\n\n**Art. 3º** – Este Decreto entra em vigor na data de sua publicação.\n\n**Art. 4º** – Ficam revogados:\n\nI – o inciso III do § 3º do art. 63 do RICMS;\n\nII – as subalíneas “e.1” e “e.2”, do inciso IV do art. 85 do RICMS; e\n\nIII – o art. 117 da Parte 1 do Anexo IX do RICMS.\n\nPalácio da Liberdade, em Belo Horizonte, aos 29 de setembro de 2005; 217º da Inconfidência Mineira e 184º da Independência do Brasil.\n\nAÉCIO NEVES\n\nDanilo de Castro\n\nAntonio Augusto Junho Anastasia\n\nFuad Noman\n\n==================================================\n\nData da última atualização: 24/3/2023.\n",
+    "aplicado": false
+  }
+]
