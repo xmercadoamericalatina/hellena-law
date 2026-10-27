@@ -60,7 +60,7 @@ def transfer(src, dest, push=True):
         if not batch:
             return
         for offset in range(0, len(batch), 150):
-            git(dest, 'add', '-f', '--', *batch[offset:offset + 150])
+            git(dest, 'add', '-f', '--sparse', '--', *batch[offset:offset + 150])
         rc = subprocess.run(['git', 'diff', '--cached', '--quiet'], cwd=dest).returncode
         if rc not in (0, 1):
             raise RuntimeError('Falha ao conferir índice')
