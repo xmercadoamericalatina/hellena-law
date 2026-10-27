@@ -1,0 +1,60 @@
+---
+titulo: "LEI Nº 16.826, 16 DE DEZEMBRO DE 2015"
+uf: "SC"
+tipo: "Lei Ordinária"
+numero: "16.826"
+data: 2015-12-16
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/19376"
+baixado_em: 2026-10-13
+---
+# LEI Nº 16.826, 16 DE DEZEMBRO DE 2015
+
+LEI Nº 16.826, 16 DE DEZEMBRO DE 2015
+
+Procedência: Governamental
+
+Natureza: PL./0443.2/2015
+
+DOE: 20.207 de 17/12/2015
+
+Fonte: ALESC/Coord. Documentação.
+
+Autoriza a doação de imóvel no Município de Cunha Porã.
+
+**O GOVERNADOR DO ESTADO DE SANTA CATARINA**
+
+Faço saber a todos os habitantes deste Estado que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** Fica o Poder Executivo autorizado a desafetar e doar ao Município de Cunha Porã o imóvel com área de 656,00 m² (seiscentos e cinquenta e seis metros quadrados), com benfeitorias não averbadas, matriculado sob o nº 2.217 no Registro de Imóveis da Comarca de Cunha Porã e cadastrado sob o nº 3887 no Sistema de Gestão Patrimonial da Secretaria de Estado da Administração (SEA).
+
+**Parágrafo único.** Caberá ao Município promover e executar as ações necessárias à titularização da propriedade, bem como à averbação das benfeitorias existentes no imóvel.
+
+**Art. 2º** A doação de que trata esta Lei tem por finalidade o funcionamento de uma unidade básica de saúde por parte do Município.
+
+**Art. 3º** O donatário não poderá, sob pena de reversão:
+
+I – desviar a finalidade da doação ou deixar de utilizar o imóvel;
+
+II – deixar de cumprir os encargos da doação no prazo de 2 (dois) anos, contados a partir da data de publicação desta Lei; ou
+
+III – hipotecar, alienar, alugar, ceder de forma gratuita ou onerosa, total ou parcialmente, o imóvel.
+
+**Parágrafo único.** As disposições previstas neste artigo deverão constar da escritura pública de doação do imóvel, sob pena de nulidade do ato.
+
+**Art. 4º** A reversão de que trata o art. 3º desta Lei será realizada independentemente de notificação judicial ou extrajudicial, sem indenização por benfeitorias construídas.
+
+**Art. 5º** A edificação de benfeitorias não outorgará ao donatário o direito de retenção no caso de reversão do imóvel.
+
+**Art. 6º** As despesas com a execução desta Lei correrão por conta do Município, vedado ao Estado arcar com quaisquer ônus a elas relacionados.
+
+**Art. 7º** O Estado será representado no ato de doação pelo titular da SEA ou pelo titular da Secretaria de Estado de Desenvolvimento Regional de Palmitos.
+
+**Art. 8º** Esta Lei entra em vigor na data de sua publicação.
+
+Florianópolis, 16 de dezembro de 2015.
+
+**JOÃO RAIMUNDO COLOMBO**
+
+Governador do Estado

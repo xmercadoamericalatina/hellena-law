@@ -1,0 +1,38 @@
+---
+titulo: "LEI N° 17.185, DE 27 DE JUNHO 2017"
+uf: "SC"
+tipo: "Lei Ordinária"
+numero: "17185"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/19789"
+baixado_em: 2026-10-15
+---
+# LEI N° 17.185, DE 27 DE JUNHO 2017
+
+LEI N° 17.185, DE 27 DE JUNHO 2017
+
+Procedência: Comissão de Finanças e Tributação
+
+Natureza: PCL/00211/2017
+
+DA: 7.141, de 28/06/2017
+
+Fonte: ALESC/Coord. Documentação.
+
+Revoga a alínea “d” do inciso X do art. 28 da Lei nº 16.940, de 2016, que “Altera a legislação que trata dos fundos especiais que menciona e estabelece outras providências”, para autorizar o limite de até 20% (vinte por cento) sobre o montante do imposto recolhido pelo sujeito passivo do ICMS em favor do SEITEC.
+
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SANTA CATARINA
+
+Faço saber que o Governador do Estado de Santa Catarina, de acordo com o art. 51 da Constituição do Estado, adotou a Medida Provisória nº 211, de 6 de abril de 2017, e, nos termos do disposto no § 8º do art. 315 do Regimento Interno, eu promulgo a seguinte Lei:
+
+**Art. 1º** Fica revogada a alínea “d” do inciso X do art. 28 da Lei nº 16.940, de 24 de maio de 2016, restaurando-se os §§ 3º, 4º e 7º do art. 8º da Lei nº 13.336, de 8 de março de 2005.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação, produzindo efeitos a contar de 25 de novembro de 2015.
+
+PALÁCIO BARRIGA-VERDE, em Florianópolis, 27 de junho de 2017.
+
+Deputado SILVIO DREVECK
+
+Presidente

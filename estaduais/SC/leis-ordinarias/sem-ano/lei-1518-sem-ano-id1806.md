@@ -1,0 +1,58 @@
+---
+titulo: "LEI Nº 1.518, de 12 de setembro de 1956"
+uf: "SC"
+tipo: "Lei Ordinária"
+numero: "1.518"
+data: ""
+revogada: true
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/1806"
+baixado_em: 2026-10-13
+---
+# LEI Nº 1.518, de 12 de setembro de 1956
+
+LEI Nº 1.518 de 1956
+
+REVOGADA pela Lei Nº 657/2015
+
+Esta Lei não foi sancionada
+
+Ver Lei Promulgada 254/56
+
+Procedência: Câmara Municipal de Mondaí
+
+Natureza: PL 70 A/56
+
+DA. 166 de 22/10/56
+
+Fonte: ALESC/Div. Documentação
+
+Cria o Município de Descanso e dá outras providências.
+
+O DEPUTADO PAULO KONDER BORNHAUSEN PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SANTA CATARINA, faz saber que aprovou e decretou a seguinte lei:
+
+**Art. 1º** Fica criado o município de Descanso , com sede na vila do mesmo nome, que passará à categoria de cidade, desmembrado do município de Mondaí.
+
+**Art. 2º** O novo município terá as seguintes confrontações:
+
+a) com o município de São Miguel do Oeste: começa no ponto de encontro entre o Rio das Antas e o travessão denominado Cruzinha, segue por este até atingir o divisor de águas dos Rios das Antas e Peperi-Guaçu; segue por este até encontrar uma linha seca, prolongamento do travessão da Colonizadora Bandeirante, por esta linha e pelo travessão até o Rio Peperi-Guaçu;
+
+b) com a Republica Argentina;
+
+c) com o município de Itapiranga: começa na foz do Lageado Barra Branca com o Rio Peperi-Guaçu; sobe pelo primeiro até sua nascente; daí por linha seca até encontrar a Barra do Lageado Pirapó, no Arroio Macaco Branco;
+
+d) com o município de Mondaí: começa na Barra do Lageado Pirapó e por este acima até sua cabeceira na estrada geral de Mondaí – Dionísio Cerqueira, seguindo esta abaixo até encontrar a nascente do Lageado Vorá, no lote colonial nº 83 ( oitenta e três ); daí por este abaixo até na foz com o Rio das Antas, subindo por este até encontrar a Barra do Lageado Biguá;
+
+e) com o município de Palmitos: da Barra do Lageado Biguá, pelo Rio das Antas acima, até encontrar o Travessão da Cruzinha, no ponto de partida.
+
+**Art. 3º** O município de Descanso ficará integrado à Comarca de Mondaí.
+
+**Art. 4º** A instalação do novo município será processada na conformidade da legislação em vigor.
+
+**Art. 5º** Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+PALÁCIO DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SANTA CATARINA em Florianópolis, 12 de setembro de 1956
+
+PAULO KONDER BORNHAUSEN
+
+Presidente

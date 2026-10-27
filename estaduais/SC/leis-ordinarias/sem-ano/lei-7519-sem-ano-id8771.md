@@ -1,0 +1,44 @@
+---
+titulo: "LEI Nº 7.519, de 21 de novembro de 1988"
+uf: "SC"
+tipo: "Lei Ordinária"
+numero: "7.519"
+data: ""
+revogada: true
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/8771"
+baixado_em: 2026-10-13
+---
+# LEI Nº 7.519, de 21 de novembro de 1988
+
+LEI N° 7.519, de 21de novembro de 1988
+
+REVOGADA pela Lei nº 16.733/2015
+
+Procedência: Dep. Lírio Rosso
+
+Natureza: PL 331/88
+
+DO: 13.582 de 22/11/88
+
+Fonte: ALESC/Div. Documentação
+
+Declara de utilidade pública.
+
+O GOVERNADOR DO ESTADO DE SANTA CATARINA,
+
+Faço saber a todos os habitantes deste Estado que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1°** Fica declarada de utilidade pública a Associação de Amigos do Autista - AMA, com sede e foro na cidade e Comarca de Joinville.
+
+**Art. 2°** À entidade de que trata o artigo anterior ficam assegurados todos os direitos e vantagens da legislação vigente.
+
+**Art. 3°** Esta Lei entra em vigor na data de sua publicação.
+
+**Art. 4°** Revogam-se as disposições em contrário.
+
+Florianópolis, 21 de novembro de 1988
+
+PEDRO IVO FIGUEIREDO DE CAMPOS
+
+Governador do Estado

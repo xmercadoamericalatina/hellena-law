@@ -1,0 +1,28 @@
+---
+titulo: "LEI Nº 2.486, de 27 de outubro de 1960"
+uf: "SC"
+tipo: "Lei Ordinária"
+numero: "2.486"
+data: 1960-10-27
+revogada: true
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/3122"
+baixado_em: 2026-10-13
+---
+# LEI Nº 2.486, de 27 de outubro de 1960
+
+LEI Nº 2.486, de27 de outubro de 1960
+
+REVOGADA pela **Lei nº 16.733/2015**
+
+Procedência: Governamental
+
+Natureza: PL 226/60
+
+DO. 6.685 de 21/11/60
+
+Fonte: ALESC/Div. Documentação
+
+HERIBERTO HÜLSE
+
+Governador do Estado

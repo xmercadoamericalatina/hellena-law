@@ -1,0 +1,28 @@
+---
+titulo: "LEI Nº 3.590, de 30 de dezembro de 1964"
+uf: "SC"
+tipo: "Lei Ordinária"
+numero: "3.590"
+data: ""
+revogada: true
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/4663"
+baixado_em: 2026-10-13
+---
+# LEI Nº 3.590, de 30 de dezembro de 1964
+
+LEI Nº 3.590, de 30 dezembro de 1964
+
+REVOGADA pela Lei nº 16.733/2015
+
+Procedência: Dep. Pedro Hermes
+
+Natureza: PL 182/64
+
+DO. 7723 de 30/12/64
+
+Fonte: ALESC/Div. Documentação
+
+CELSO RAMOS
+
+Governador do Estado

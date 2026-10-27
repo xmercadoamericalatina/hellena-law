@@ -1,0 +1,38 @@
+---
+titulo: "LEI Nº 201, de 30 de novembro de 1948"
+uf: "SC"
+tipo: "Lei Ordinária"
+numero: "201"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/216"
+baixado_em: 2026-10-13
+---
+# LEI Nº 201, de 30 de novembro de 1948
+
+LEI Nº 201, de 30 de n0vembro de 1948
+
+Procedência: Governamental
+
+Natureza: PL 144/48
+
+DO. 3837 de 06/12/48
+
+Fonte: ALESC/Div. Documentação
+
+Autoriza abertura de crédito suplementar.
+
+O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA, no exercício do cargo de Governador do Estado de Santa Catarina. Faço saber a todos os habitantes deste Estado que a Assembléia Legislativa decreta e eu sanciono a seguinte lei:
+
+**Art.1°** Fica o Poder Executivo autorizado a abrir, por conta da arrecadação, o crédito de quatrocentos e oitenta mil cruzeiros (480.000,00), suplementar à verba 1—030 do orçamento vigente.
+
+**Art. 2°** Esta lei entra em vigor na data da sua publicação, revogadas as disposições em contrário.
+
+A Secretaria da Fazenda assim a faça executar.
+
+PALÁCIO DO GOVERNO, em Florianópolis, 30 de novembro de 1948.
+
+JOSÉ BOABAID
+
+Governador do Estado

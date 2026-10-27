@@ -1,0 +1,52 @@
+---
+titulo: "LEI Nº 15.852, de 17 de julho de 2012"
+uf: "SC"
+tipo: "Lei Ordinária"
+numero: "15.852"
+data: 2012-07-07
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/17990"
+baixado_em: 2026-10-13
+---
+# LEI Nº 15.852, de 17 de julho de 2012
+
+LEI Nº 15.852, de l7 de julho de 2012
+
+Procedência: Dep. Gelson Merisio
+
+Natureza: PL./0109.2/2011
+
+DO: 19.376 de 18/07/2012
+
+Fonte: ALESC/Coord. Documentação
+
+Dispõe sobre a obrigatoriedade da disponibilização de dependência exclusiva para amamentação e fraldário em terminais rodoviários intermunicipais no Estado de Santa Catarina.
+
+**O GOVERNADOR DO ESTADO DE SANTA CATARINA,**
+
+Faço saber a todos os habitantes deste Estado que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** Nos terminais rodoviários intermunicipais no Estado de Santa Catarina é obrigatória a existência e a disponibilização de dependência exclusiva para amamentação e fraldário, em condições adequadas de higiene e funcionamento, para uso de passageiros, independentemente do pagamento de qualquer taxa, conforme o disposto nesta Lei.
+
+**Parágrafo único.** Aos passageiros e seus acompanhantes o acesso às instalações de amamentação e fraldário se fará mediante a apresentação do bilhete de viagem.
+
+**Art. 2º** A dependência para amamentação e fraldário deverá possuir as seguintes características:
+
+I - ser isolada e construída de forma a resguardar a privacidade de mães e filhos;
+
+II - ser provida de lavatório;
+
+III - possuir trocador de fralda e cadeiras para amamentação; e
+
+IV - recipientes exclusivos para o acondicionamento dos dejetos orgânicos e fraldas usadas.
+
+**Art. 3º** Os terminais rodoviários intermunicipais terão o prazo de 1 (um) ano para se adequarem às disposições contidas nesta Lei, a contar da data de sua publicação.
+
+**Art. 4º** Esta Lei entra em vigor na data de sua publicação.
+
+Florianópolis, 17 de julho de 2012
+
+**JOÃO RAIMUNDO COLOMBO**
+
+Governador do Estado

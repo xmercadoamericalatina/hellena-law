@@ -1,0 +1,50 @@
+---
+titulo: "LEI Nº 16.227, de 19 de dezembro de 2013"
+uf: "SC"
+tipo: "Lei Ordinária"
+numero: "16227"
+data: ""
+revogada: false
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/18668"
+baixado_em: 2026-10-15
+---
+# LEI Nº 16.227, de 19 de dezembro de 2013
+
+LEI Nº 16.227, DE 19 DEZEMBRO DE 2013
+
+Procedência: Governamental
+
+Natureza: PL./0500.5/2013
+
+DO: 19.728 de 20/12/2013
+
+Fonte: ALESC/Coord. Documentação
+
+Autoriza a permuta de imóvel no Município de Chapecó.
+
+**O GOVERNADOR DO ESTADO DE SANTA CATARINA**
+
+Faço saber a todos os habitantes deste Estado que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** Fica o Poder Executivo, por intermédio da Companhia Integrada de Desenvolvimento Agrícola de Santa Catarina (Cidasc), autorizado a desafetar e permutar o imóvel com área de 2.500,00 m² (dois mil e quinhentos metros quadrados), com benfeitorias não averbadas, matriculado sob o nº 58.753 no Registro de Imóveis da Comarca de Chapecó e avaliado em R$ 650.000,00 (seiscentos e cinquenta mil reais).
+
+**§ 1º** O imóvel de que trata o *caput* deste artigo será permutado pelo imóvel com área de 4.277,00 m² (quatro mil, duzentos e setenta e sete metros quadrados), sem benfeitorias, matriculado sob o nº 96.083 no Registro de Imóveis da Comarca de Chapecó, avaliado em R$ 650.104,00 (seiscentos e cinquenta mil, cento e quatro reais) e de propriedade da Cooperativa Agroindustrial Alfa (Cooperalfa).
+
+**§ 2º** Fica dispensada a licitação para realização da permuta descrita neste artigo, nos termos da alínea “c” do inciso II do art. 17 da Lei federal nº 8.666, de 21 de junho de 1993.
+
+**§ 3º** A dispensa prevista no § 2º deste artigo não desobriga a autoridade competente de justificar o interesse público da permuta.
+
+**Art. 2º** A permuta de que trata esta Lei tem por finalidade proporcionar à Cidasc e à Cooperalfa melhor aproveitamento dos imóveis, segundo os interesses e os planos de negócios dessas entidades.
+
+**Art. 3º** As despesas com a execução da finalidade descrita no art. 2º desta Lei, bem como com a averbação de benfeitorias existentes no imóvel descrito no *caput* do art. 1º desta Lei, correrão por conta da Cooperalfa.
+
+**Art. 4º** O Estado será representado no ato de permuta pelos representantes legais da Cidasc, na forma de seu estatuto social, ou por quem for legalmente constituído.
+
+**Art. 5º** Esta Lei entra em vigor na data de sua publicação.
+
+Florianópolis, 19 de dezembro de 2013.
+
+**JOÃO RAIMUNDO COLOMBO**
+
+Governador do Estado

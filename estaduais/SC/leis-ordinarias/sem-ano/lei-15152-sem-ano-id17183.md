@@ -1,0 +1,34 @@
+---
+titulo: "LEI Nº 15.152, de 03 de maio de 2010"
+uf: "SC"
+tipo: "Lei Ordinária"
+numero: "15.152"
+data: 2010-05-03
+revogada: true
+versao_texto: "texto anotado da ALESC"
+fonte: "https://leis.alesc.sc.gov.br/ato-normativo/17183"
+baixado_em: 2026-10-13
+---
+# LEI Nº 15.152, de 03 de maio de 2010
+
+LEI Nº 15.152, 03 de maio de 2010
+
+Consolidada e Revogada pela Lei 16.722/2015
+
+Procedência: Dep. Kennedy Nunes
+
+Natureza: PL./0129.6/2009
+
+DO: 18.839 de 04/05/2010
+
+Fonte: ALESC/Coord. Documentação
+
+Reconhece o Município de Camboriú como Capital Catarinense de Missões.
+
+**O GOVERNADOR DO ESTADO DE SANTA CATARINA,**
+
+Faço saber a todos os habitantes deste Estado que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**LEONEL ARCÂNGELO PAVAN**
+
+Governador do Estado
