@@ -1,0 +1,46 @@
+{
+  "conversor_sha256": "bb85371750359042e0636ae0adc206cb0c353c6b6586c8d46e60a5257633ed3c",
+  "oracle": "html5lib1.1",
+  "fixtures": [
+    {
+      "fonte": "<table><thead><tr><th>Nome<tbody><tr><td>Valor</table>",
+      "resultado": "<table><thead><tr><th>Nome</th></tr></thead><tbody><tr><td>Valor</td></tr></tbody></table>\n",
+      "arvore_html5_igual": true
+    },
+    {
+      "fonte": "<table><colgroup><col span=\"2\"><tbody><tr><td>A<td>B</table>",
+      "resultado": "<table><colgroup><col span=\"2\"></colgroup><tbody><tr><td>A</td><td>B</td></tr></tbody></table>\n",
+      "arvore_html5_igual": true
+    },
+    {
+      "fonte": "<table><tbody><tr><td>A<tbody><tr><td>B</table>",
+      "resultado": "<table><tbody><tr><td>A</td></tr></tbody><tbody><tr><td>B</td></tr></tbody></table>\n",
+      "arvore_html5_igual": true
+    },
+    {
+      "fonte": "<table><colgroup><col><tr><td>A</table>",
+      "resultado": "<table><colgroup><col></colgroup><tr><td>A</td></tr></table>\n",
+      "arvore_html5_igual": true
+    },
+    {
+      "fonte": "<table><caption>Título<tbody><tr><td>A</table>",
+      "resultado": "<table><caption>Título</caption><tbody><tr><td>A</td></tr></tbody></table>\n",
+      "arvore_html5_igual": true
+    },
+    {
+      "fonte": "<table><thead><tr><th>N<tfoot><tr><td>F<tbody><tr><td>B</table>",
+      "resultado": "<table><thead><tr><th>N</th></tr></thead><tfoot><tr><td>F</td></tr></tfoot><tbody><tr><td>B</td></tr></tbody></table>\n",
+      "arvore_html5_igual": true
+    },
+    {
+      "fonte": "<table><colgroup><col><colgroup span=\"2\"><tbody><tr><td>A</table>",
+      "resultado": "<table><colgroup><col></colgroup><colgroup span=\"2\"></colgroup><tbody><tr><td>A</td></tr></tbody></table>\n",
+      "arvore_html5_igual": true
+    },
+    {
+      "fonte": "<table><tbody><tr><td>Outer<table><thead><tr><th>N<tbody><tr><td>Inner</table><tbody><tr><td>Fim</table>",
+      "resultado": "<table><tbody><tr><td>Outer<table><thead><tr><th>N</th></tr></thead><tbody><tr><td>Inner</td></tr></tbody></table></td></tr></tbody><tbody><tr><td>Fim</td></tr></tbody></table>\n",
+      "arvore_html5_igual": true
+    }
+  ]
+}

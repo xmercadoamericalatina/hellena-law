@@ -1,0 +1,90 @@
+{
+  "script_sha256": "91f5eb8e6d86d4ffaea2de085f4ab236eb34a0c2922161f8f28d90909c42faea",
+  "casos": [
+    {
+      "id": 135725,
+      "modo": "GFM_antigo",
+      "resultado": "pendente_estrutura",
+      "canonico_preservado": true,
+      "fonte_sha256": "b1bfa3361d705dd3733b7583f69c0f010ed662bec0779f6d7bb14b665cad27e8"
+    },
+    {
+      "id": 135725,
+      "modo": "HTML_igual",
+      "resultado": "equivalente",
+      "canonico_preservado": true,
+      "fonte_sha256": "b1bfa3361d705dd3733b7583f69c0f010ed662bec0779f6d7bb14b665cad27e8"
+    },
+    {
+      "id": 135725,
+      "modo": "HTML_celula_alterada",
+      "resultado": "pendente_estrutura",
+      "canonico_preservado": true,
+      "fonte_sha256": "b1bfa3361d705dd3733b7583f69c0f010ed662bec0779f6d7bb14b665cad27e8"
+    },
+    {
+      "id": 126132,
+      "modo": "GFM_antigo",
+      "resultado": "pendente_estrutura",
+      "canonico_preservado": true,
+      "fonte_sha256": "47f05a9d0e6d0ec545cf472acb43f561283f2eb52c5cc6f62fd450a753999c93"
+    },
+    {
+      "id": 126132,
+      "modo": "HTML_igual",
+      "resultado": "equivalente",
+      "canonico_preservado": true,
+      "fonte_sha256": "47f05a9d0e6d0ec545cf472acb43f561283f2eb52c5cc6f62fd450a753999c93"
+    },
+    {
+      "id": 126132,
+      "modo": "HTML_celula_alterada",
+      "resultado": "pendente_estrutura",
+      "canonico_preservado": true,
+      "fonte_sha256": "47f05a9d0e6d0ec545cf472acb43f561283f2eb52c5cc6f62fd450a753999c93"
+    },
+    {
+      "id": 135147,
+      "modo": "GFM_antigo",
+      "resultado": "pendente_estrutura",
+      "canonico_preservado": true,
+      "fonte_sha256": "d7423ee315ffcf37ca1303d73e1ffab5ddeb5ede805a34dfccdcfceeaeab6618"
+    },
+    {
+      "id": 135147,
+      "modo": "HTML_igual",
+      "resultado": "equivalente",
+      "canonico_preservado": true,
+      "fonte_sha256": "d7423ee315ffcf37ca1303d73e1ffab5ddeb5ede805a34dfccdcfceeaeab6618"
+    },
+    {
+      "id": 135147,
+      "modo": "HTML_celula_alterada",
+      "resultado": "pendente_estrutura",
+      "canonico_preservado": true,
+      "fonte_sha256": "d7423ee315ffcf37ca1303d73e1ffab5ddeb5ede805a34dfccdcfceeaeab6618"
+    },
+    {
+      "id": 130267,
+      "modo": "GFM_antigo",
+      "resultado": "pendente_estrutura",
+      "canonico_preservado": true,
+      "fonte_sha256": "16d632667d646ac2085012aaa84d4dca7550a419ccc24e6596ccfdd6e44db66b"
+    },
+    {
+      "id": 130267,
+      "modo": "HTML_igual",
+      "resultado": "equivalente",
+      "canonico_preservado": true,
+      "fonte_sha256": "16d632667d646ac2085012aaa84d4dca7550a419ccc24e6596ccfdd6e44db66b"
+    },
+    {
+      "id": 130267,
+      "modo": "HTML_celula_alterada",
+      "resultado": "pendente_estrutura",
+      "canonico_preservado": true,
+      "fonte_sha256": "16d632667d646ac2085012aaa84d4dca7550a419ccc24e6596ccfdd6e44db66b"
+    }
+  ],
+  "limite": "GFM retido conservadoramente; mapeamento estrutural GFM não certificado."
+}

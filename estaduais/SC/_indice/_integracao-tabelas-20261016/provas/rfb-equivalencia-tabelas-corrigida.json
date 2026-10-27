@@ -1,0 +1,40 @@
+{
+  "script_sha256": "979190e725bd54232f1de40c200e4ede9c2a601abd4da48f61f34af17969a11e",
+  "backup_sha256": "d631140de09713025df696ae31187103354fabc132f0635c3c03de0246abd6e9",
+  "core_sha256": "dfde44b35646da15d9fb2369e2a8cca07c1d30281f95c1eeafc8789f9822dc2b",
+  "reais": [
+    {
+      "id": 135725,
+      "fonte_sha256": "b1bfa3361d705dd3733b7583f69c0f010ed662bec0779f6d7bb14b665cad27e8",
+      "assinatura_anterior": "c25862f25285f88cdabce6f08d09faed6fb8919772b0c6440b597e535829b3be",
+      "assinatura_nova": "c25862f25285f88cdabce6f08d09faed6fb8919772b0c6440b597e535829b3be",
+      "equivalente": "/tmp/equivalente-135725.md",
+      "fundamento": "mesma identidade oficial e corpo integral normalizado idêntico"
+    },
+    {
+      "id": 126132,
+      "fonte_sha256": "47f05a9d0e6d0ec545cf472acb43f561283f2eb52c5cc6f62fd450a753999c93",
+      "assinatura_anterior": "90b4cddeedd9b7dc118aa25d17c1cbf8c0d9a28c450fc0689ec84dc05a08e074",
+      "assinatura_nova": "90b4cddeedd9b7dc118aa25d17c1cbf8c0d9a28c450fc0689ec84dc05a08e074",
+      "equivalente": "/tmp/equivalente-126132.md",
+      "fundamento": "mesma identidade oficial e corpo integral normalizado idêntico"
+    },
+    {
+      "id": 135147,
+      "fonte_sha256": "d7423ee315ffcf37ca1303d73e1ffab5ddeb5ede805a34dfccdcfceeaeab6618",
+      "assinatura_anterior": "6b44968993841a603730e3da93869602d416f9ee2990e2c4b1d718153f5c07b7",
+      "assinatura_nova": "6b44968993841a603730e3da93869602d416f9ee2990e2c4b1d718153f5c07b7",
+      "equivalente": "/tmp/equivalente-135147.md",
+      "fundamento": "mesma identidade oficial e corpo integral normalizado idêntico"
+    },
+    {
+      "id": 130267,
+      "fonte_sha256": "16d632667d646ac2085012aaa84d4dca7550a419ccc24e6596ccfdd6e44db66b",
+      "assinatura_anterior": "f8202bfae33259e45085f5c0709c4a2ff6f093197be8fd2a2bf26c2b80d37e82",
+      "assinatura_nova": "f8202bfae33259e45085f5c0709c4a2ff6f093197be8fd2a2bf26c2b80d37e82",
+      "equivalente": "/tmp/equivalente-130267.md",
+      "fundamento": "mesma identidade oficial e corpo integral normalizado idêntico"
+    }
+  ],
+  "fixtures": 7
+}

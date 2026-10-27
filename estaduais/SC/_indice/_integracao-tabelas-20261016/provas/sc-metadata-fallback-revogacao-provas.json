@@ -1,0 +1,56 @@
+{
+  "script_sha256": "ee7a1bb25163ead332921d6b2c266bef1d58f4e91c987158f309a75c920ccd23",
+  "reais": [
+    {
+      "id": 11179,
+      "fonte_sha256": "e16dbd4a4a5d309e152b681d8f2d76f5ff8ce98a68ff5bfa81d963ace5a1bc25",
+      "status": [
+        "ok",
+        null
+      ],
+      "metadata": {
+        "titulo": "LEI COMPLEMENTAR Nº 128, de 09 de outubro de 1994",
+        "uf": "SC",
+        "tipo": "Lei Complementar",
+        "numero": "128",
+        "data": "1994-10-09",
+        "revogada": null,
+        "versao_texto": "texto anotado da ALESC",
+        "fonte": "https://leis.alesc.sc.gov.br/ato-normativo/11179"
+      },
+      "rota": [
+        "SC",
+        "leis-complementares",
+        "1994",
+        "lc-128-1994-id11179"
+      ]
+    },
+    {
+      "id": 12738,
+      "fonte_sha256": "d73d0e802fb31fcf179733830cd83294089d1d62c1272aac9ab884d85fa5576e",
+      "status": [
+        "ok",
+        null
+      ],
+      "metadata": {
+        "titulo": "LEI PROMULGADA Nº 11.178, de 16 de setembro de 1999",
+        "uf": "SC",
+        "tipo": "Lei Promulgada",
+        "numero": "11178",
+        "data": "1999-09-16",
+        "revogada": true,
+        "versao_texto": "texto anotado da ALESC",
+        "fonte": "https://leis.alesc.sc.gov.br/ato-normativo/12738"
+      },
+      "rota": [
+        "SC",
+        "leis-promulgadas",
+        "1999",
+        "leip-11178-1999-id12738"
+      ]
+    }
+  ],
+  "fixtures_status": 5,
+  "fixtures_data": 2,
+  "limite": "Nenhum MD alterado; LC128 migração1994 e lei11178revogada ficam pendentes de revisão do lote."
+}

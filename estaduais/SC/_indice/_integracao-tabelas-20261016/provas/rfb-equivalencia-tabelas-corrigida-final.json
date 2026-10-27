@@ -1,0 +1,49 @@
+{
+  "script_sha256": "45be58a2ded8f1de4062a1369f5b9c07839b36ccb546ed3597e2618ebc031124",
+  "reais": [
+    {
+      "id": 135725,
+      "fonte_sha256": "b1bfa3361d705dd3733b7583f69c0f010ed662bec0779f6d7bb14b665cad27e8",
+      "assinatura": "c25862f25285f88cdabce6f08d09faed6fb8919772b0c6440b597e535829b3be",
+      "assinatura_corrigida": "c25862f25285f88cdabce6f08d09faed6fb8919772b0c6440b597e535829b3be",
+      "vinculo_textual": true,
+      "integralidade_estrutural": "pendente; vínculo textual não prova preservação das células/spans do canônico"
+    },
+    {
+      "id": 126132,
+      "fonte_sha256": "47f05a9d0e6d0ec545cf472acb43f561283f2eb52c5cc6f62fd450a753999c93",
+      "assinatura": "90b4cddeedd9b7dc118aa25d17c1cbf8c0d9a28c450fc0689ec84dc05a08e074",
+      "assinatura_corrigida": "90b4cddeedd9b7dc118aa25d17c1cbf8c0d9a28c450fc0689ec84dc05a08e074",
+      "vinculo_textual": true,
+      "integralidade_estrutural": "pendente; vínculo textual não prova preservação das células/spans do canônico"
+    },
+    {
+      "id": 135147,
+      "fonte_sha256": "d7423ee315ffcf37ca1303d73e1ffab5ddeb5ede805a34dfccdcfceeaeab6618",
+      "assinatura": "6b44968993841a603730e3da93869602d416f9ee2990e2c4b1d718153f5c07b7",
+      "assinatura_corrigida": "6b44968993841a603730e3da93869602d416f9ee2990e2c4b1d718153f5c07b7",
+      "vinculo_textual": true,
+      "integralidade_estrutural": "pendente; vínculo textual não prova preservação das células/spans do canônico"
+    },
+    {
+      "id": 130267,
+      "fonte_sha256": "16d632667d646ac2085012aaa84d4dca7550a419ccc24e6596ccfdd6e44db66b",
+      "assinatura": "f8202bfae33259e45085f5c0709c4a2ff6f093197be8fd2a2bf26c2b80d37e82",
+      "assinatura_corrigida": "f8202bfae33259e45085f5c0709c4a2ff6f093197be8fd2a2bf26c2b80d37e82",
+      "vinculo_textual": true,
+      "integralidade_estrutural": "pendente; vínculo textual não prova preservação das células/spans do canônico"
+    }
+  ],
+  "fixtures_quebras": [
+    "CR-antes",
+    "CR-dentro",
+    "CR-ambos",
+    "CRLF-antes",
+    "CRLF-dentro",
+    "CRLF-ambos",
+    "LF-antes",
+    "LF-dentro",
+    "LF-ambos"
+  ],
+  "limite": "Igualdade textual não certifica estrutura; guarda estrutural ainda proposta, não implementada."
+}

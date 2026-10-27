@@ -1,0 +1,187 @@
+{
+  "conversor_sha256": "dfde44b35646da15d9fb2369e2a8cca07c1d30281f95c1eeafc8789f9822dc2b",
+  "baseline_sha256": "5f175721c3555ac4dbba3f7e7e193a6b3b17a8da8af7ece0deb3932e4fa34e80",
+  "fixtures": [
+    {
+      "id": 0,
+      "saida": "<table><caption>Título</caption><thead><tr><th scope=\"col\">A</th><th>B</th></tr></thead><tbody><tr><td rowspan=\"2\">X</td><td>1</td></tr><tr><td>2</td></tr></tbody></table>\n"
+    },
+    {
+      "id": 1,
+      "saida": "<table><tr><td colspan=\"2\">A</td><td rowspan=\"2\">B</td></tr><tr><td>C</td><td>D</td></tr></table>\n"
+    },
+    {
+      "id": 2,
+      "saida": "<table><tr><td><p>A</p><p>B</p><p>C</p><p>D</p></td><td>E</td></tr></table>\n"
+    },
+    {
+      "id": 3,
+      "saida": "<table><tr><td>A<table><tr><td>B</td></tr></table>C</td><td>D</td></tr></table>\n"
+    },
+    {
+      "id": 4,
+      "saida": "<table><tr><td><del>−</del></td><td><del><strong>B</strong></del></td></tr></table>\n"
+    },
+    {
+      "id": 5,
+      "saida": "<table><tr><td><del>A</del></td><td><del>B</del></td></tr></table>\n"
+    },
+    {
+      "id": 6,
+      "saida": "<table><tr><td><del>A</del></td></tr><tr><td><del>B</del></td></tr></table>\n"
+    },
+    {
+      "id": 7,
+      "saida": "<table><tr><td><em>i </em><strong><em>b</em></strong><del>−</del>5<br>x<sup>2</sup></td></tr></table>\n"
+    },
+    {
+      "id": 8,
+      "saida": "Antes\n\n<table><tr><td>A</td></tr></table>\n\nDepois\n"
+    },
+    {
+      "id": 9,
+      "saida": "<table><tr><td id=\"a\">A</td></tr></table>\n"
+    }
+  ],
+  "negativos_recusados": 3,
+  "reais": [
+    {
+      "path": "estaduais/SC/leis-complementares/2006/lc-356-2006-id15532.md",
+      "fonte_sha256": "d55160de1ffb066fd25bdd753b4ef199bb52e438bf44bdac1d33bac4efe5ee27",
+      "tabelas_fonte": 7,
+      "tabelas_saida": 7,
+      "celulas": 304,
+      "arvore_celulas_igual": true,
+      "grade_igual": true,
+      "candidato": "estaduais/SC/_indice/_reparos-tachado-tabelas-20261016/candidatos/estaduais/SC/leis-complementares/2006/lc-356-2006-id15532.md",
+      "sha256_candidato": "d38b0b51679dda36094405bcacdb34d2f0377d08cad4447b008a87eed96aedf8",
+      "sha256_antes": "d38b0b51679dda36094405bcacdb34d2f0377d08cad4447b008a87eed96aedf8"
+    },
+    {
+      "path": "estaduais/SC/leis-complementares/sem-ano/lc-128-sem-ano-id11179.md",
+      "fonte_sha256": "e16dbd4a4a5d309e152b681d8f2d76f5ff8ce98a68ff5bfa81d963ace5a1bc25",
+      "tabelas_fonte": 3,
+      "tabelas_saida": 3,
+      "celulas": 32,
+      "arvore_celulas_igual": true,
+      "grade_igual": true,
+      "candidato": "estaduais/SC/_indice/_reparos-tachado-tabelas-20261016/candidatos/estaduais/SC/leis-complementares/sem-ano/lc-128-sem-ano-id11179.md",
+      "sha256_candidato": "d0bf77f54a2217f37302d06c090aaa5e85e6e8a2332f3642e70aee537d705645",
+      "sha256_antes": "d0bf77f54a2217f37302d06c090aaa5e85e6e8a2332f3642e70aee537d705645"
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1971/leip-1086-1971-id5713.md",
+      "fonte_sha256": "dd7d9bc06021479182d8db549063da35b2054954b4d4cdacd2ec9a25e12515e9",
+      "tabelas_fonte": 13,
+      "tabelas_saida": 13,
+      "celulas": 235,
+      "arvore_celulas_igual": true,
+      "grade_igual": true,
+      "candidato": "estaduais/SC/_indice/_reparos-tachado-tabelas-20261016/candidatos/estaduais/SC/leis-promulgadas/1971/leip-1086-1971-id5713.md",
+      "sha256_candidato": "e338f1b4d2baa69fe862945ac029d6189b36b35389acfd2dffc9faa8b3d50865",
+      "sha256_antes": "e338f1b4d2baa69fe862945ac029d6189b36b35389acfd2dffc9faa8b3d50865"
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1988/leip-1114-1988-id8703.md",
+      "fonte_sha256": "381aef59fe2752a773cdbd3de7c3b8c0c3edd91a7cf3ae098d3569f00f65dcf9",
+      "tabelas_fonte": 13,
+      "tabelas_saida": 13,
+      "celulas": 138,
+      "arvore_celulas_igual": true,
+      "grade_igual": true,
+      "candidato": "estaduais/SC/_indice/_reparos-tachado-tabelas-20261016/candidatos/estaduais/SC/leis-promulgadas/1988/leip-1114-1988-id8703.md",
+      "sha256_candidato": "328e1922c3a937494c1614fe29e2398f0e6c347c1981674ecbe6a6a0749ba0d5",
+      "sha256_antes": "328e1922c3a937494c1614fe29e2398f0e6c347c1981674ecbe6a6a0749ba0d5"
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1988/leip-1116-1988-id8780.md",
+      "fonte_sha256": "8f06c368961f1830d7b2af054e1d8064b3c31e361be48a06df9c922aa802a8e3",
+      "tabelas_fonte": 11,
+      "tabelas_saida": 11,
+      "celulas": 43,
+      "arvore_celulas_igual": true,
+      "grade_igual": true,
+      "candidato": "estaduais/SC/_indice/_reparos-tachado-tabelas-20261016/candidatos/estaduais/SC/leis-promulgadas/1988/leip-1116-1988-id8780.md",
+      "sha256_candidato": "6c42a936df09bbb6852254b644feeda77420202ac6740366c63522462a1416a0",
+      "sha256_antes": "6c42a936df09bbb6852254b644feeda77420202ac6740366c63522462a1416a0"
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1991/leip-1120-1991-id9520.md",
+      "fonte_sha256": "9ba4e75dbf209dc5fc689637e02d6d5a5615b22ac1051f7939bfd3950c7367dd",
+      "tabelas_fonte": 1,
+      "tabelas_saida": 1,
+      "celulas": 93,
+      "arvore_celulas_igual": true,
+      "grade_igual": true,
+      "candidato": "estaduais/SC/_indice/_reparos-tachado-tabelas-20261016/candidatos/estaduais/SC/leis-promulgadas/1991/leip-1120-1991-id9520.md",
+      "sha256_candidato": "b0d0bd41f042d2a5277a87d4f5415dde539051022cd3e21140c7e8b59df30955",
+      "sha256_antes": "b0d0bd41f042d2a5277a87d4f5415dde539051022cd3e21140c7e8b59df30955"
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1992/leip-1130-1992-id9882.md",
+      "fonte_sha256": "fb9d682a34ddbfca05a581fd2fc71fd4f56178668298f448e7d176e5432fd87e",
+      "tabelas_fonte": 25,
+      "tabelas_saida": 25,
+      "celulas": 976,
+      "arvore_celulas_igual": true,
+      "grade_igual": true,
+      "candidato": "estaduais/SC/_indice/_reparos-tachado-tabelas-20261016/candidatos/estaduais/SC/leis-promulgadas/1992/leip-1130-1992-id9882.md",
+      "sha256_candidato": "e01f3c06bf976adc6b3677eb21030dbba265ca2d8b45f3899c06ccc30463c538",
+      "sha256_antes": "e01f3c06bf976adc6b3677eb21030dbba265ca2d8b45f3899c06ccc30463c538"
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1993/leip-1148-1993-id10549.md",
+      "fonte_sha256": "191b1bcf428303661cd6064f9ff3bb7d34756ea9ee315044fab6d14893fdb8a1",
+      "tabelas_fonte": 5,
+      "tabelas_saida": 5,
+      "celulas": 455,
+      "arvore_celulas_igual": true,
+      "grade_igual": true,
+      "candidato": "estaduais/SC/_indice/_reparos-tachado-tabelas-20261016/candidatos/estaduais/SC/leis-promulgadas/1993/leip-1148-1993-id10549.md",
+      "sha256_candidato": "0d72f2c264b9c9f194c7351e62619c05b4fbb01998e14ce7da7e3f4fcb0bfdc1",
+      "sha256_antes": "0d72f2c264b9c9f194c7351e62619c05b4fbb01998e14ce7da7e3f4fcb0bfdc1"
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1998/leip-10933-1998-id12479.md",
+      "fonte_sha256": "8a2a07adbdadf9f88798996f0fc3636b241542939f6a79b85364ae79381544b5",
+      "tabelas_fonte": 4,
+      "tabelas_saida": 4,
+      "celulas": 26,
+      "arvore_celulas_igual": true,
+      "grade_igual": true,
+      "candidato": "estaduais/SC/_indice/_reparos-tachado-tabelas-20261016/candidatos/estaduais/SC/leis-promulgadas/1998/leip-10933-1998-id12479.md",
+      "sha256_candidato": "f5cf66b1537aeb162a761b3f58b2397a344d24baf666b991be67be407590a90b",
+      "sha256_antes": "f5cf66b1537aeb162a761b3f58b2397a344d24baf666b991be67be407590a90b"
+    },
+    {
+      "path": "estaduais/SC/leis-promulgadas/1999/leip-11178-1999-id12738.md",
+      "fonte_sha256": "d73d0e802fb31fcf179733830cd83294089d1d62c1272aac9ab884d85fa5576e",
+      "tabelas_fonte": 2,
+      "tabelas_saida": 2,
+      "celulas": 86,
+      "arvore_celulas_igual": true,
+      "grade_igual": true,
+      "candidato": "estaduais/SC/_indice/_reparos-tachado-tabelas-20261016/candidatos/estaduais/SC/leis-promulgadas/1999/leip-11178-1999-id12738.md",
+      "sha256_candidato": "edfb19eb3f942a35ca5cfcb6d74e57a5cff3c53124a7cdb308348945dc818b33",
+      "sha256_antes": "edfb19eb3f942a35ca5cfcb6d74e57a5cff3c53124a7cdb308348945dc818b33"
+    }
+  ],
+  "total_tabelas": 84,
+  "sem_tabelas_byteidenticos": [
+    "estaduais/BA/decretos/1975/decreto-no-24578-de-02-de-janeiro-de-1975.md",
+    "estaduais/BA/decretos/2021/decreto-no-20303-de-12-de-marco-de-2021.md",
+    "estaduais/BA/decretos/2021/decreto-no-20304-de-12-de-marco-de-2021.md",
+    "estaduais/ES/decretos-legislativos/2016/del-1-2016-id33951.md",
+    "estaduais/ES/decretos-legislativos/2016/del-2-2016-id33952.md",
+    "estaduais/ES/decretos-legislativos/2016/del-3-2016-id33953.md",
+    "estaduais/MG/decretos-nao-numerados/2003/dsn-1-2003.md",
+    "estaduais/MG/decretos-nao-numerados/2003/dsn-101-2003.md",
+    "estaduais/MG/decretos-nao-numerados/2003/dsn-103-2003.md",
+    "estaduais/PI/constituicao/1989/constituicao-pi-sapl-compilada.md",
+    "estaduais/SC/leis-ordinarias/1960/lei-2555-1960-id3209.md",
+    "estaduais/SP/decretos-legislativos/2000/dlg-705-2000-12-21-id5227.md",
+    "estaduais/SP/decretos-legislativos/2001/dlg-706-2001-12-14-id3937.md",
+    "estaduais/SP/decretos-legislativos/2001/dlg-707-2001-12-14-id3936.md"
+  ],
+  "erros": []
+}
