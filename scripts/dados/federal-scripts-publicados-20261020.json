@@ -1,0 +1,18 @@
+{
+  "criterio": "13 scripts v3 do agente, com somente linha vazia excedente no EOF de integridade_html_federal.py normalizada pelo coordenador; 28 testes passaram",
+  "arquivos": {
+    "scripts/baixar_federal.py": "4889285109716ea3f7e753e8af2991b874d1f3b7265488756a98e0610c703495",
+    "scripts/preparar_lote_decretos_cache.py": "b962db077e49db9ba3a7eccf25942c2516f6b939982089ccb2ad6f845ba5a7e8",
+    "scripts/preparar_lote_decretos_rede.py": "3153ee5d46c222a5a3fb2d09f85716c8573ea265429e0118a00ebf6e3c34fd51",
+    "scripts/identidade_decreto.py": "c7fd847bad0ae3a3432f43f0f4a5568f8236f61833aff514945d5eeafa6e9f94",
+    "scripts/identidade_decreto_revisao.py": "c1808f41532d41f6ea668177408743e7297f571b55f1709ec984977661771283",
+    "scripts/integridade_anexos_decreto.py": "4fe38a951ba0c44dc3c046fdc1a5c48887895314c495d81146ef8af1313141e2",
+    "scripts/integridade_html_federal.py": "70945b86695a163f233875e23e01bf5f9c02a01dae6c4949dbda37b3b496214d",
+    "scripts/auditar_anexos_federais.py": "2f256104a6f6711834035cdd7522d878dd679c0be9a4f38a92cc3b6da3992829",
+    "scripts/test_texto_integral_federal.py": "7e94fbc8501509b25bea1f0077911e9ff56bae054f00377e9fabf19042fcde1b",
+    "scripts/test_identidade_decreto.py": "a68180d09b8c6cac1dc17cfc2849af485845e3a34b5807d93ceb7ede59ab62f7",
+    "scripts/test_identidade_decreto_revisao.py": "fb886e0bb8dd3ee2c86a41621e37b2d32831abd39d68d9861c612a2b9db87aeb",
+    "scripts/test_integridade_anexos_decreto.py": "e41cc724a3d4b047b7301cbf227981bd02bec6010c25cfca58ae603e4db8e814",
+    "scripts/test_lote_decretos_rede.py": "d2123a0fc4ebfc04c7a8db41b54a4f3d06ad1ebc9617fd15a47c2c3703e6211c"
+  }
+}

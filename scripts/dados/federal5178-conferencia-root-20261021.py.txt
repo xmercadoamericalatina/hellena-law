@@ -1,0 +1,44 @@
+from pathlib import Path
+import json,gzip,hashlib,subprocess,re,sys
+sys.path.insert(0,'scripts')
+from preparar_lote_decretos_cache import fields
+from integridade_anexos_decreto import _limpar
+sha=lambda b:hashlib.sha256(b).hexdigest()
+head=subprocess.check_output(['git','rev-parse','HEAD']).decode().strip();tree=subprocess.check_output(['git','ls-tree','-rz','HEAD','--','federal/decretos']);oids={}
+for b in tree.split(b'\0'):
+ if b:
+  a,p=b.decode().split('\t',1);oids[p]=a.split()[-1]
+proposal=Path('federal/_proposta_fortes_HEAD_guard35_20261021_008.jsonl.gz');backup=Path('federal/_receipts_fortes_HEAD_guard35_20261021_008.jsonl.gz');rs=[json.loads(l) for l in gzip.open(proposal,'rt')];bs={r['path']:r for r in map(json.loads,gzip.open(backup,'rt'))};assert len(rs)==len(bs)==5178
+registry=Path('scripts/dados/pendencias-integralidade-publicadas.json');oldraw=registry.read_bytes();old=json.loads(oldraw);existing={r['path'] for r in old['pendentes']};assert len(existing)==len(old['pendentes'])==2369
+h={}
+for m in ['/tmp/federal20261021-fortes-HEAD-guard35-008-hashes.json','/tmp/federal20261021-guard35-codigo-001-hashes.json','/tmp/federal20261021-replay-fortes-009-hashes.json']:
+ for r in json.loads(Path(m).read_text()):
+  p=r['path'];assert sha(Path(p).read_bytes())==r['sha256'],p
+  if p in h:assert h[p]==r['sha256']
+  h[p]=r['sha256']
+checked=[]
+for r in rs:
+ p=r['path'];b=bs[p];md=b['md_original'].encode();html=b['fonte_html_original'].encode();api=b['metadados_json_original'].encode()
+ assert p not in existing and p in oids,p
+ assert sha(md)==r['sha256_md']==b['sha256_md'] and sha(html)==r['sha256_fonte_html']==b['sha256_fonte_html'],p
+ oid=hashlib.sha1(b'blob '+str(len(md)).encode()+b'\0'+md).hexdigest();assert oid==oids[p]==r['oid_blob_HEAD']==b['oid_blob_HEAD'],p
+ assert Path(p).read_bytes()==md,p
+ meta,_,body=fields(md.decode());a=json.loads(api);ident=r['identidade'];assert sha(api)==meta['sha256_metadados_fonte']==ident['sha256_metadados_fonte'],p
+ assert a['legislationIdentifier']==meta['urn']==r['urn'] and a['legislationDate']==meta['data']==ident['data'],p
+ assert meta['numero']==meta['urn'].split(';')[-1]==ident['numero'],p
+ s=html.decode();start=r['posicao_remissao']['inicio'];end=r['posicao_remissao']['fim'];assert s[start:end]==r['remissao_html_exato'] and r['fecho_html_exato'] in s[end:],p
+ c=r['contagens_area_normativa'];assert all(c[k]==0 for k in ['table','tr','td','th','total_visuais_objetos']),p
+ v=r['verificacoes_predicado'];assert all(v[k] for k in ['remissao_em_bloco_artigo_proprio_localizado','comando_direto_no_bloco','fecho_localizado']);assert not any(v[k] for k in ['risco_citacao_ou_alteracao','titulo_anexo_antes_do_fecho','lista_numerada_antes_do_fecho','tabela_html_presente'])
+ ref=re.sub(r'\s+',' ',_limpar(r['remissao_literal_html']));assert re.match(r'^art(?:igo)?\.?\s*(?:\d|unico)',ref),p
+ assert re.search(r'anex[oa]s?(?:\s+[ivxlcdm\d]+(?:\s+e\s+[ivxlcdm\d]+)?)?\s+deste decreto|anex[oa]s? a este decreto|anex[oa]s? ao presente decreto|que com este baixa',ref),p
+ assert r['sufixo_vazio_normalizado'] and r['prefixo_assinaturas_normalizado'],p
+ checked.append({'path':p,'oid_HEAD':oid,'sha256_md':sha(md),'sha256_html':sha(html),'sha256_metadados':sha(api),'urn':meta['urn']})
+assert len(checked)==5178
+out=Path('federal/_auditoria_ROOT_fortes5178_20261021.jsonl.gz');assert not out.exists();out.write_bytes(gzip.compress(('\n'.join(json.dumps(r,ensure_ascii=False) for r in checked)+'\n').encode(),mtime=0));h[str(out)]=sha(out.read_bytes())
+oldpath=Path('federal/_historico_pendencias_2369_ROOT_20261021.json.gz');assert not oldpath.exists();oldpath.write_bytes(gzip.compress(oldraw,mtime=0));h[str(oldpath)]=sha(oldpath.read_bytes())
+for r in rs:
+ old['pendentes'].append({'path':r['path'],'sha256_md':r['sha256_md'],'estado':'integra_suplemento_proprio_nao_validada','motivo':'Comando proprio remete a anexo deste decreto; a transcricao termina em assinaturas e rotulos vazios, sem tabela/objeto representado. Indicador forte reproduzido individualmente; nao afirma inexistencia em outra publicacao nem revisao humana universal.','evidencia':{'manifesto':str(proposal),'sha256_manifesto':sha(proposal.read_bytes()),'oid_HEAD':r['oid_blob_HEAD'],'urn':r['urn'],'fonte':r['fonte'],'sha256_fonte_html':r['sha256_fonte_html'],'remissao_literal_html':r['remissao_literal_html'],'terminal_literal':r['conteudo_terminal_literal'],'conferencia_contextual_amostra_51':r['conferencia_contextual_na_amostra_51']}})
+assert len(old['pendentes'])==7547
+candidate=Path('/tmp/pendencias-federal5178-candidato-root-20261021.json');assert not candidate.exists();candidate.write_text(json.dumps(old,ensure_ascii=False,indent=2)+'\n')
+proof=Path('scripts/dados/federal5178-integracao-root-20261021.json');assert not proof.exists();proof.write_text(json.dumps({'head_conferido':head,'blobs_conferidos':5178,'novas_pendencias':5178,'pendencias_anteriores':2369,'pendencias_propostas':7547,'sha256_registro_anterior':sha(oldraw),'sha256_registro_candidato':sha(candidate.read_bytes()),'testes_guard_ROOT':35,'replay_ROOT':'6700 deltas recalculados;5262 fortes;5178 propostas reproduzidas integralmente;zero mutacoes','criterio':'ROOT reviu o predicado, leu amostras literais estratificadas e confrontou todos os5178 caminhos com OID real do HEAD atual, preimagem MD, HTML e API por SHA e identidade. Remissao propria, fecho, terminal e ausencia de representacao confrontados por linha. Trata-se de pendencia conservadora da integra consultada, nao de norma inexistente ou revogada. 18 desses caminhos integram amostra contextual de51; nao se extrapola revisao humana aos demais. Fontes/MDs mantidos; metas inalteradas.','sha256':h},ensure_ascii=False,indent=2)+'\n');h[str(proof)]=sha(proof.read_bytes())
+script=Path('scripts/dados/federal5178-conferencia-root-20261021.py.txt');assert not script.exists();script.write_bytes(Path(__file__).read_bytes());h[str(script)]=sha(script.read_bytes());Path('/tmp/federal5178-hashes-20261021.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');print('FINAL5178 conferidos; registro candidato7547;paths',len(h),flush=True)

@@ -1,0 +1,29 @@
+{
+  "novas": 9,
+  "candidatos_fieis": 9,
+  "retidos_identidade_final": [],
+  "head_conferido": "a48926cd1f65e614a55d9b3f6a65b83cc394d13b",
+  "arquivos_primarios": [
+    {
+      "path": "reguladores/_fonte/auditorias/dou024-nativo-integracao-root-20261021-parte001.jsonl.gz",
+      "sha256": "8977cc95e9fa46415bb783fd0f8e78c7ce65631427825cdafbb3a80933f64b4c",
+      "bytes": 286361
+    }
+  ],
+  "modo": "html-nativo-texto-dou-v1",
+  "criterio": "Candidatos passam nos gates do helper e auditor integrado publicados, fonte nativa integral e igualdade GFM de todos sinais e numeros. Metadados, H1 e datas preservados, exceto modo explicito. URL e identidade confrontadas contra baseline HEAD, selecoes qualificadas e lote anterior. Todas as fontes e preimagens arquivadas antes de promover; candidatos privados congelados por SHA. Interrupcao de I/O anterior nao promoveu estes arquivos. Metas inalteradas.",
+  "sha256": {
+    "reguladores/_fonte/auditorias/dou024-nativo-integracao-root-20261021-parte001.jsonl.gz": "8977cc95e9fa46415bb783fd0f8e78c7ce65631427825cdafbb3a80933f64b4c",
+    "reguladores/mapa/instrucoes-normativas/2020/instrucao-normativa-n-19-de-29-de-abril-de-2020-254676996.md": "0482feacefee32f864bb87a553dba9ca42735efb63c16ddabab84a5cb09689de",
+    "reguladores/mapa/instrucoes-normativas/2020/instrucao-normativa-n-21-de-24-de-abril-de-2020-254000817.md": "50d2c74dfea534b371a1224437e8fed56b4ef25a0751f8ab5f8a1e722a8c68ed",
+    "reguladores/mapa/instrucoes-normativas/2020/instrucao-normativa-n-39-de-30-de-junho-de-2020-264913600.md": "e4d9531a27b7be78ecfdbc255efeca9c8510a7b94e09fe9bbf4bcb2a697c99d8",
+    "reguladores/mapa/instrucoes-normativas/2020/instrucao-normativa-n-4-de-23-de-janeiro-de-2020-239865656.md": "59ca7ec349d36ad2b2c05ec1faca547f4a5502b4778fbe8ef7beac1fd47d21e1",
+    "reguladores/mapa/portarias/2020/portaria-n-176-de-23-de-julho-de-2020-268438814.md": "ad932fd4381488a28f3ef230caaba1bc6e4703523e02371d5395dbeef6ed2de9",
+    "reguladores/mapa/portarias/2021/portaria-n-279-de-29-de-abril-de-2021-317029546.md": "38050c12d5b591083f3ee7de2f46e9917266be52e790543d8a7863af52edddc7",
+    "reguladores/mapa/portarias/2021/portaria-n-416-de-5-de-outubro-de-2021-351607467.md": "bdd20bd2ac44fa1c9d609da24fc31743d14dd1a09e135eba89ba94542d5081f5",
+    "reguladores/mapa/portarias/2021/portaria-sda-n-448-de-17-de-novembro-de-2021-360543494.md": "d0b566be1db6b7f3d4146d07953b7f8715df464fd8e65106fe371b3e9ba3d777",
+    "reguladores/mapa/portarias/2022/portaria-sda-n-641-de-25-de-agosto-de-2022-425171426.md": "7bd369fd1a7a1f23238c39f6a50132bbb831fba25f6d42c35d89c0de372d539b",
+    "scripts/dados/dou024-nativo-candidatos-v7-20261021.json": "fec42d76c5b5d60cdc004a8a4156973de0751ff09d0f8a0efbb5e8c390ac4d6d",
+    "scripts/dados/dou024-nativo-candidatos-v7-auditor-20261021.txt": "1cfe62d44f6699997348aa8391033bc237b7e365605ebbd86c8f8a30dbc69544"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "head_conferido": "a75bd368a931cf9f959af7319d16a03f2979ad47",
+  "blobs_conferidos": 5178,
+  "novas_pendencias": 5178,
+  "pendencias_anteriores": 2369,
+  "pendencias_propostas": 7547,
+  "sha256_registro_anterior": "eb85430e18a0a616c7381e07ab231e82da7779f0a3b0da0303f86c6ea136cb91",
+  "sha256_registro_candidato": "3a0f1f1c45ab37b5e8eb606c1bb1f3f66c35d0fb9c10e4c9d175142e88f8fbd6",
+  "testes_guard_ROOT": 35,
+  "replay_ROOT": "6700 deltas recalculados;5262 fortes;5178 propostas reproduzidas integralmente;zero mutacoes",
+  "criterio": "ROOT reviu o predicado, leu amostras literais estratificadas e confrontou todos os5178 caminhos com OID real do HEAD atual, preimagem MD, HTML e API por SHA e identidade. Remissao propria, fecho, terminal e ausencia de representacao confrontados por linha. Trata-se de pendencia conservadora da integra consultada, nao de norma inexistente ou revogada. 18 desses caminhos integram amostra contextual de51; nao se extrapola revisao humana aos demais. Fontes/MDs mantidos; metas inalteradas.",
+  "sha256": {
+    "federal/_proposta_fortes_HEAD_guard35_20261021_008.jsonl.gz": "9571df0d2db604c0b3fc49437f43fc231d1ebbe32393f8703414b835ca7e83fc",
+    "federal/_receipts_fortes_HEAD_guard35_20261021_008.jsonl.gz": "d61c8332f64120c97a027376904733e9ee187634347b7bd64cc9e42f4b9f9e87",
+    "federal/_proposta_fortes_HEAD_guard35_20261021_008.json": "97837fbdba94d56f0ba9028543ad347c58c6ddc0b71ac0acb9ca1f70eab448a8",
+    "federal/_prova_predicado_guard35_head_20261021_008/01-estratificar.py.txt": "a305bd590f8f75d042c6a1b6582ab0672bbe8c68cd6f8c2c9fe2fa261436c401",
+    "federal/_prova_predicado_guard35_head_20261021_008/02-predicado-forte.py.txt": "a47706d2429cf1927305679c72373d4da9bb506478ccf4435ed9323d434e103d",
+    "federal/_prova_predicado_guard35_head_20261021_008/03-guard35.py.txt": "ea697557b8f04a2ae8e89bffce962fe1ab2ea38c775d2fbaa1143dc1bb512e5e",
+    "federal/_prova_predicado_guard35_head_20261021_008/04-fields.py.txt": "b962db077e49db9ba3a7eccf25942c2516f6b939982089ccb2ad6f845ba5a7e8",
+    "federal/_prova_predicado_guard35_head_20261021_008/05-contagens.py.txt": "70945b86695a163f233875e23e01bf5f9c02a01dae6c4949dbda37b3b496214d",
+    "federal/_prova_predicado_guard35_head_20261021_008/06-selecao-HEAD.py.txt": "6daa91872602dc0014b9b039ffd25fcff6a6ec50038f8c03ccea88cf7843f03f",
+    "scripts/integridade_anexos_decreto.py": "ea697557b8f04a2ae8e89bffce962fe1ab2ea38c775d2fbaa1143dc1bb512e5e",
+    "scripts/test_integridade_anexos_decreto.py": "2be3c37fc90b90f116702fd5cbb957fa9531f271febb98fe93d650c8d64f7726",
+    "federal/_recibo_guard_relacao_nominal_20261021_003.json": "9a1ddd6208574663e1cb290bed364d53e84f7feaf7d8e7dd6343286723f78aec",
+    "federal/_replay_fortes_HEAD_guard35_20261021_009.py": "d9831d4bd9eb85bb639344e7a412b4f70ad8f09baa30a802223c250e47c69825",
+    "federal/_recibo_replay_fortes_HEAD_guard35_20261021_009.json": "664bea62ffee87e6ae27390ec7e655579c9535d0282166432c69350111604412",
+    "federal/_auditoria_ROOT_fortes5178_20261021.jsonl.gz": "95dc012cbea8b194d1b69e78ff99f2d5baa62fc32f16564712f74c64c4dad6f6",
+    "federal/_historico_pendencias_2369_ROOT_20261021.json.gz": "a67b79183164be0d56551b535613a0306f993db2ea99ece567c461461c8d955b"
+  }
+}

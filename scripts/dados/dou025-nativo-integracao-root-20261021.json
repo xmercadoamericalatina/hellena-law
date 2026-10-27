@@ -1,0 +1,21 @@
+{
+  "novas": 1,
+  "candidatos_fieis": 1,
+  "retidos_identidade_final": [],
+  "head_conferido": "ecde289548e8b4f4736633f5f0f4650bd7b6cf75",
+  "arquivos_primarios": [
+    {
+      "path": "reguladores/_fonte/auditorias/dou025-nativo-integracao-root-20261021-parte001.jsonl.gz",
+      "sha256": "086cc72d80448b5c529cb3c2439da63ae7e22aa258b257ad69ecb9514cee1bbb",
+      "bytes": 36820
+    }
+  ],
+  "modo": "html-nativo-texto-dou-v1",
+  "criterio": "Candidatos passam nos gates do helper e auditor integrado publicados, fonte nativa integral e igualdade GFM de todos sinais e numeros. Metadados, H1 e datas preservados, exceto modo explicito. URL e identidade confrontadas contra baseline HEAD, selecoes qualificadas e lote anterior. Todas as fontes e preimagens arquivadas antes de promover; candidatos privados congelados por SHA. Interrupcao de I/O anterior nao promoveu estes arquivos. Metas inalteradas.",
+  "sha256": {
+    "reguladores/_fonte/auditorias/dou025-nativo-integracao-root-20261021-parte001.jsonl.gz": "086cc72d80448b5c529cb3c2439da63ae7e22aa258b257ad69ecb9514cee1bbb",
+    "reguladores/mme/portarias/2021/portaria-n-31-spg-mme-de-18-de-agosto-de-2021-341352490.md": "efdad398b322fe1907b437ee791cfa142351f46a5075255233054c1ac25dca01",
+    "scripts/dados/dou025-nativo-candidatos-v8-20261021.json": "60820f4c44657947165d0606a8d55267e474ec4e00fdb41c3ec83751eea23fea",
+    "scripts/dados/dou025-nativo-candidatos-v8-auditor-20261021.txt": "b3af25906893d5cb9217c875889854d46b17f80f013b50c8e2e7b9675a710ab6"
+  }
+}

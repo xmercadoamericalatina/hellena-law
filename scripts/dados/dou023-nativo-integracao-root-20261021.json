@@ -1,0 +1,22 @@
+{
+  "novas": 2,
+  "candidatos_fieis": 2,
+  "retidos_identidade_final": [],
+  "head_conferido": "207390262912b4e7e8c1cbbf6c700ce9a2f13ca3",
+  "arquivos_primarios": [
+    {
+      "path": "reguladores/_fonte/auditorias/dou023-nativo-integracao-root-20261021-parte001.jsonl.gz",
+      "sha256": "755e344e3768af75080ba17f81f97a9e9ba47121a64416ddec0adf0eda06b03a",
+      "bytes": 70013
+    }
+  ],
+  "modo": "html-nativo-texto-dou-v1",
+  "criterio": "Candidatos passam nos gates do helper e auditor integrado publicados, fonte nativa integral e igualdade GFM de todos sinais e numeros. Metadados, H1 e datas preservados, exceto modo explicito. URL e identidade confrontadas contra baseline HEAD, selecoes qualificadas e lote anterior. Todas as fontes e preimagens arquivadas antes de promover; candidatos privados congelados por SHA. Interrupcao de I/O anterior nao promoveu estes arquivos. Metas inalteradas.",
+  "sha256": {
+    "reguladores/_fonte/auditorias/dou023-nativo-integracao-root-20261021-parte001.jsonl.gz": "755e344e3768af75080ba17f81f97a9e9ba47121a64416ddec0adf0eda06b03a",
+    "reguladores/conselhos-profissionais/resolucoes/2021/resolucao-cfess-n-979-de-26-de-agosto-de-2021-341039369.md": "0ed53a5b67b8d6152a696aa0e183fa2a77e3cfc82b2b800d94dca3bfcd764594",
+    "reguladores/defesa/pareceres-normativos/2021/portaria-dhn-dgn-mb-n-12-de-22-de-setembro-de-2021-366041460.md": "c1d757e74a4656e41d55e1460eea6971e4732a3b7151a0332b4b3692f26e653b",
+    "scripts/dados/dou023-nativo-candidatos-v6-20261021.json": "b4f4888eed525e29e2cb1a64c643977648d547e4145587a07c7e9fc91fdb5201",
+    "scripts/dados/dou023-nativo-candidatos-v6-auditor-20261021.txt": "8d5181fad903c18e5b0a89653dba21f4fce8e6e8351bbf7f600bb1599d7dc562"
+  }
+}

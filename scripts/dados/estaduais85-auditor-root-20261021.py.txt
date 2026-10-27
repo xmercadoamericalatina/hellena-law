@@ -1,0 +1,49 @@
+from pathlib import Path
+import json,hashlib,gzip,subprocess,re
+sha=lambda b:hashlib.sha256(b).hexdigest();h={};prefix='/tmp/estaduais-agregado-final-20261021-002'
+for group in ['dados','codigo','fontes','visuais']:
+ for p,s in json.loads(Path(prefix+'-'+group+'-hashes.json').read_text()).items():
+  raw=Path(p).read_bytes();assert sha(raw)==s,p
+  if p in h:assert h[p]==s
+  h[p]=s
+control=Path('scripts/estados/manifestos/agregado-publico-rn-am-go-20261021-002/estaduais-agregado-rn-am-go-20261021-002.json');m=json.loads(control.read_text());head=subprocess.check_output(['git','rev-parse','HEAD']).decode().strip();seen=[]
+def session_headers(x):
+ if isinstance(x,dict):
+  for k,v in x.items():
+   assert k.lower() not in ('set-cookie','cookie','authorization'),k
+   session_headers(v)
+ elif isinstance(x,list):
+  for y in x:session_headers(y)
+for p in h:
+ if p.endswith('.json'):session_headers(json.loads(Path(p).read_text()))
+replay=[json.loads(l) for l in Path('/tmp/estaduais85-publico-replay-root-20261021.jsonl').read_text().splitlines()];assert len(replay)==85 and all(r['aceito_conteudo'] and r['HEAD_conferido'] for r in replay)
+observed=json.loads(Path('/tmp/estaduais85-head-root-20261021.json').read_text());assert len(observed)==85
+prior=json.loads(Path('/tmp/rn-am-head-identidades-root-20261021.json').read_text());keys={};urls={}
+def key(path,meta):return (path.split('/')[1],path.split('/')[2],str(meta.get('numero','')).replace('.','').strip().casefold(),str(meta.get('data','')))
+for r in prior['documentos']:
+ k=key(r['path'],r['meta']);keys[k]=r['path']
+ if r['meta'].get('fonte'):urls[r['meta']['fonte']]=r['path']
+def metadata(raw):
+ d={}
+ for line in raw.decode().split('\n---\n',1)[0].splitlines()[1:]:
+  k,sep,v=line.partition(':');assert sep
+  try:d[k]=json.loads(v.strip())
+  except ValueError:d[k]=v.strip()
+ return d
+writes=[]
+for r in m['documentos']:
+ p=r['path'];live=Path(p).read_bytes();old=subprocess.run(['git','show',head+':'+p],capture_output=True)
+ if r['acao']=='novo_pdf':
+  assert old.returncode==128 and observed[p] is None and sha(live)==r['sha256_MD_esperado'];meta=metadata(live);k=key(p,meta);u=meta['fonte'];assert all(k) and k not in keys and u not in urls,(p,k,keys.get(k),urls.get(u));keys[k]=p;urls[u]=p;h[p]=sha(live)
+ else:
+  assert old.returncode==0 and old.stdout==live and sha(live)==r['sha256_preimagem_HEAD_esperada']==observed[p];z=Path(r['candidato']['congelado']).read_bytes();assert sha(z)==r['candidato']['sha256_arquivo'];candidate=gzip.decompress(z);assert sha(candidate)==r['sha256_MD_futuro'];newhead,n=re.subn(rb'(?m)^revogada: false$',b'revogada: null',live.split(b'\n---\n',1)[0]);assert n==1 and candidate==newhead+b'\n---\n'+live.split(b'\n---\n',1)[1];writes.append((p,live,candidate))
+assert len(writes)==64
+# Freeze collector preimage; the reviewed change affects only explicit status mapping.
+gop=Path('scripts/estados/go.py');goold=subprocess.check_output(['git','show',head+':'+str(gop)]);gonew=gop.read_bytes();expected=goold.decode().replace('def processar(it):','def revogada_da_situacao(situacao):\n    """Só situação literal inequívoca suporta booleano de revogação integral."""\n    return {"Em Vigor": False, "Revogada": True}.get(situacao)\n\n\ndef processar(it):',1).replace('("revogada", situacao == "Revogada"),','("revogada", revogada_da_situacao(situacao)),');assert expected.encode()==gonew
+backup=Path('estaduais/_fonte/auditorias/go-status-code-root-20261021.py.gz');assert not backup.exists();backup.write_bytes(gzip.compress(goold,mtime=0));h[str(backup)]=sha(backup.read_bytes())
+for p in ['scripts/estados/go.py','scripts/estados/auditar_go_cache_edicao.py','scripts/estados/test_go_cache_edicao.py']:h[p]=sha(Path(p).read_bytes())
+for p,old,new in writes:
+ assert Path(p).read_bytes()==old;t=Path(p).with_suffix('.root-status85.tmp');assert not t.exists();t.write_bytes(new);t.replace(p);h[p]=sha(new)
+for src,dst in [('/tmp/estaduais85-publico-replay-root-20261021.jsonl','scripts/dados/estaduais85-replay-root-20261021.jsonl'),('/tmp/estaduais85-testes-root-20261021.log','scripts/dados/estaduais85-testes-root-20261021.txt'),('/tmp/go-status-testes-v2-root-20261021.log','scripts/dados/go-status-testes-root-20261021.txt'),('/tmp/rn-am-head-identidades-root-20261021.json','scripts/dados/rn-am-head-identidades-root-20261021.json')]:
+ q=Path(dst);assert not q.exists();q.write_bytes(Path(src).read_bytes());h[dst]=sha(q.read_bytes())
+proof=Path('scripts/dados/estaduais85-integracao-root-20261021.json');assert not proof.exists();proof.write_text(json.dumps({'novas':21,'reparos_metadata':64,'head_preimagens':head,'replay_ROOT':85,'paginas_PDF':33,'testes_ROOT':19,'criterio':'Todos arquivos/fontes/candidatos conferidos por SHA. Replay congelado independente85/85,12 testes e7 de status GO.21 novos PDF completos em33paginas, sem truncar linhas/paginacao/numeros; imagens documentadas nos recibos, sem certificacao juridica alem da fonte.64 mudancas exclusivamente revogada false para null; corpo byte a byte preservado, preimagem atual confirmada por blob HEAD e candidato congelado. Coletor GO passa a usar booleano somente com status literal Em Vigor ou Revogada; demais desconhecidos. Dedup21 por UF/pasta/numero/data e URL contra todos cabecalhos reais RN/AM HEAD, alem do mapa85. Cabecalhos de sessao omitidos dos controles publicos, primarias normativas completas preservadas. Snapshots privados anteriores inalterados. Metas inalteradas.','sha256':h},ensure_ascii=False,indent=2)+'\n');h[str(proof)]=sha(proof.read_bytes());Path('/tmp/estaduais85-hashes-20261021.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');Path('/tmp/estaduais85-paths-20261021.txt').write_text('\n'.join(h)+'\n');print('FINAL21novas64reparos',len(h),flush=True)

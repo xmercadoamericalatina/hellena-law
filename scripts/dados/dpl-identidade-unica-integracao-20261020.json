@@ -1,0 +1,19 @@
+{
+  "alias_remover": "federal/decretos-legislativos/1919/dpl-4182-1919-11-13.md",
+  "sha256_alias": "c866b497c742f7cfa4f0193c4027159e02b605b70c595fb744389bcdcbfcd96e",
+  "historico_alias": "federal/_historico_dpl_identidade_unica_20261020_002-alias1919.md.gz",
+  "legitimas": 2,
+  "variacao_liquida_documentos": 1,
+  "criterio": "DPL4182 transferido ao ano correto, sem dupla contagem; arquivo1919 confirmado contra HEAD e arquivado integralmente. Duas preimagens canônicas locais previamente não publicadas preservadas em gzip; fontes/candidatos e CommonMark/pontuação conferidos. Remoção do alias e promoção dos dois destinos obrigatoriamente no mesmo commit.",
+  "sha256": {
+    "federal/_candidatos_dpl_identidade_unica_20261020_002/dpl-4182-1920-11-13.md": "c931d733cb86b71db7735a2a0d0806979ac978fe2c9e56e6437448e5c26d52b5",
+    "federal/_candidatos_dpl_identidade_unica_20261020_002/dpl-4555-1922-08-10.md": "4e1988fd3b4e4e4085bed80048b6a03650534baabd3a4883ab426f20bf2a6ff0",
+    "federal/_integracao_dpl_identidade_unica_20261020_002.json": "983c8b4c56d3ca77a0ad23ba1910121c911a13d62bcf15affa8c0e8f9ef8d5fb",
+    "federal/_receipts_dpl_identidade_unica_20261020_002.jsonl.gz": "19931e51f3125de18340e6a6b0d98e9e800988d440e083a640a254c235b5c9e7",
+    "federal/_historico_dpl_identidade_unica_20261020_002-alias1919.md.gz": "2d6eaaa5f5dfc3410b7e03e1005748c3eb1efa0948de0bd6e85fa28846a8380d",
+    "federal/_historico_integracao_dpl_root_20261020_001/dpl-4182-1920-11-13.md.preimagem.md.gz": "8f86af77ffa4b1a996794f19bc0dceb4023e7c3632f83b1d1cbb43288b38378f",
+    "federal/_historico_integracao_dpl_root_20261020_001/dpl-4555-1922-08-10.md.preimagem.md.gz": "c4ca0bb83697fab7a72896f3953a02e87041f2b10f65fdd7e7a14df5ba8d5f1e",
+    "federal/decretos-legislativos/1920/dpl-4182-1920-11-13.md": "c931d733cb86b71db7735a2a0d0806979ac978fe2c9e56e6437448e5c26d52b5",
+    "federal/decretos-legislativos/1922/dpl-4555-1922-08-10.md": "4e1988fd3b4e4e4085bed80048b6a03650534baabd3a4883ab426f20bf2a6ff0"
+  }
+}

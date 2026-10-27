@@ -1,0 +1,44 @@
+{
+  "total": 1,
+  "contagens": {
+    "aceitos": 1
+  },
+  "criterio": "Candidatos privados dos alertas de renderizacao. Fonte texto-dou preservada em modo HTML explicito ja suportado. Metadados/H1 e datas originais preservados, exceto campo de modo. GFM integral/sinais e auditor integrado de fonte/identidade/publicacao/integra suplementar repetidos, sem rede nem alteracao canonica. Exige promocao porpreimagem e cruzamento final antes de publicar.",
+  "helper_sha256": "1ae5cecda55ddd32ab00fdb2598d50b7cd5aeadaad0e0e73d720e4727bf1732d",
+  "auditor_sha256": "2fd53a02e1485e6c53fe4041d34c24629dba892a0374b7bd2fcbc25f66e3bf7e",
+  "script_sha256": "b3af25906893d5cb9217c875889854d46b17f80f013b50c8e2e7b9675a710ab6",
+  "documentos": [
+    {
+      "path": "reguladores/mme/portarias/2021/portaria-n-31-spg-mme-de-18-de-agosto-de-2021-341352490.md",
+      "sha256_md_preimagem": "d7fb5e88bb96b751634aa41d335de8c667e530fcfbae6c9fb4d09a839190e1be",
+      "cache": "reguladores/_fonte/mme/2021/portaria-n-31-spg-mme-de-18-de-agosto-de-2021-341352490-914062a24782d3fc79088f2adf7e7d6920fb60664ba1260f01b813fb4275bbbd.html.gz",
+      "sha256_fonte": "914062a24782d3fc79088f2adf7e7d6920fb60664ba1260f01b813fb4275bbbd",
+      "aceito": true,
+      "candidato": "reguladores/_fonte/auditorias/dou025-nativo-candidatos-v8-20261021/529406b50812a364b7f9db0a9fbd88440f94d4b0f8f49385158a5c82b7bedf50.candidato.md.gz",
+      "sha256_candidato_gzip": "6814a6f9c45665618c08af2f192d815f861765430ca65e6e52da047fdeb4d151",
+      "sha256_md_candidato": "efdad398b322fe1907b437ee791cfa142351f46a5075255233054c1ac25dca01",
+      "backup": "reguladores/_fonte/auditorias/dou025-nativo-candidatos-v8-20261021/529406b50812a364b7f9db0a9fbd88440f94d4b0f8f49385158a5c82b7bedf50.preimagem.md.gz",
+      "sha256_backup_gzip": "a49630ae4ba6985567466960f4e305736267d1527db61654b8b574dd9f8aab2a",
+      "sha256_fragmento": "04a0e5d310095616d61baa81922037b5a3474f1f77ac4e9179dbdf48a9470760",
+      "registro_auditor_integrado": {
+        "path": "reguladores/mme/portarias/2021/portaria-n-31-spg-mme-de-18-de-agosto-de-2021-341352490.md",
+        "sha256_md": "efdad398b322fe1907b437ee791cfa142351f46a5075255233054c1ac25dca01",
+        "fonte": "https://www.in.gov.br/web/dou/-/portaria-n-31/spg/mme-de-18-de-agosto-de-2021-341352490",
+        "cache": "reguladores/_fonte/mme/2021/portaria-n-31-spg-mme-de-18-de-agosto-de-2021-341352490-914062a24782d3fc79088f2adf7e7d6920fb60664ba1260f01b813fb4275bbbd.html.gz",
+        "sha256_html": "914062a24782d3fc79088f2adf7e7d6920fb60664ba1260f01b813fb4275bbbd",
+        "data": "2021-08-18",
+        "publicacao": "2021-08-30",
+        "identidade": [
+          "ministerio de minas e energia secretaria de petroleo gas natural e biocombustiveis",
+          "portaria",
+          "31",
+          "2021 08 18"
+        ],
+        "tabelas": 1,
+        "avisos_formato": []
+      },
+      "igualdade_GFM": true,
+      "metadados_preservados_exceto_modo": true
+    }
+  ]
+}

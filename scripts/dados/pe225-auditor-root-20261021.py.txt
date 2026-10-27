@@ -1,0 +1,34 @@
+from pathlib import Path
+import json,gzip,hashlib,subprocess,re,urllib.parse
+sha=lambda b:hashlib.sha256(b).hexdigest();h={}
+for g in ['dados','codigo','fontes']:
+ for p,s in json.loads(Path('/tmp/pe-CT-agregado-20261021-002-'+g+'-hashes.json').read_text()).items():
+  raw=Path(p).read_bytes();assert sha(raw)==s,p
+  if p in h:assert h[p]==s
+  h[p]=s
+m=json.loads(Path('scripts/estados/manifestos/pe-CT-agregado-privado-20261021-002.json').read_text());replay=[json.loads(x) for x in Path('/tmp/pe225-root-replay-20261021.jsonl').read_text().splitlines()];assert len(replay)==225 and all(r['aceito'] for r in replay)
+inv=json.loads(Path('/tmp/pe225-head-identidades-root-20261021.json').read_text());head=subprocess.check_output(['git','rev-parse','HEAD']).decode().strip();subprocess.run(['git','diff','--exit-code',inv['HEAD'],head,'--','estaduais/PE'],check=True,stdout=subprocess.PIPE)
+ids={};keys={};destinos=set();writes=[]
+def meta(raw):
+ d={}
+ for line in raw.decode().split('\n---\n',1)[0].splitlines()[1:]:
+  k,sep,v=line.partition(':');assert sep
+  try:d[k]=json.loads(v.strip())
+  except ValueError:d[k]=v.strip()
+ return d
+def ident(p,mt):return (p.split('/')[2],str(mt.get('numero','')).replace('.','').strip().casefold(),str(mt.get('data',''))[:4])
+def source_id(mt):
+ u=urllib.parse.urlparse(mt.get('fonte',''));values=urllib.parse.parse_qs(u.query).get('id',[]);return values[0] if 'legis.alepe.pe.gov.br'==u.hostname and len(values)==1 else None
+for r in inv['documentos']:
+ mt=r['meta'];sid=source_id(mt)
+ if sid:ids[sid]=r['path']
+ keys[ident(r['path'],mt)]=r['path']
+for r in m['documentos']:
+ p=r['destino'];assert p not in destinos;destinos.add(p);assert not Path(p).exists(),p
+ cp=Path(r['candidato']).read_bytes();raw=gzip.decompress(cp);assert sha(cp)==r['sha256_candidato_gzip'] and sha(raw)==r['sha256_candidato'];mt=meta(raw);sid=source_id(mt);k=ident(p,mt);assert sid==r['captura']['id_oficial'] and sid not in ids and k not in keys,(p,ids.get(sid),keys.get(k));assert str(mt['numero'])==r['prova_identidade']['numero'] and str(mt['data'])==r['prova_identidade']['data'];assert str(mt['numero']).endswith('-CT');ids[sid]=p;keys[k]=p;writes.append((p,raw))
+assert len(writes)==225
+for p,raw in writes:
+ q=Path(p);q.parent.mkdir(parents=True,exist_ok=True);assert not q.exists();q.write_bytes(raw);h[p]=sha(raw)
+for src,dst in [('/tmp/pe225-root-replay-20261021.jsonl','scripts/dados/pe225-replay-root-20261021.jsonl'),('/tmp/pe225-root-testes-v2-20261021.log','scripts/dados/pe225-testes-root-20261021.txt'),('/tmp/pe225-head-prova-root-20261021.json','scripts/dados/pe225-head-prova-root-20261021.json')]:
+ p=Path(dst);assert not p.exists();p.write_bytes(Path(src).read_bytes());h[dst]=sha(p.read_bytes())
+p=Path('scripts/dados/pe225-integracao-root-20261021.json');assert not p.exists();p.write_text(json.dumps({'novas':225,'HEAD':head,'HEAD_inventario':inv['HEAD'],'cabecalhos_HEAD':len(inv['documentos']),'replays_ROOT':225,'testes_ROOT':3,'criterio':'Portarias cuja propria epigrafe impressa usa -CT e indice do mesmo ID usa -C. Numero-base e data comprovados, sem generalizar equivalencia de sufixos. Numero/titulo originais do indice preservados, epigrafe/corpo literal intactos. ROOT leu adaptador serial isolado: altera somente resolvedor de identidade com prova especifica; todos gates PE de fonte/integra/visuais/tabelas/sinais permanecem.225 replays completos e3 testes aprovados. Todas fontes completas e candidatos congelados por SHA antes de materializar.225 destinos inexistentes; zero aliases por ID e tipo/pasta/numero/ano contra50162 cabecalhos reais de blobs HEAD. Diff da arvore PE desde inventario HEAD ate HEAD atual e vazio. Nenhuma alteracao de coletor generico ou de snapshots anteriores. Metas inalteradas.','sha256':h},ensure_ascii=False,indent=2)+'\n');h[str(p)]=sha(p.read_bytes());Path('/tmp/pe225-hashes-20261021.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');Path('/tmp/pe225-paths-20261021.txt').write_text('\n'.join(h)+'\n');print('FINAL225',len(h),flush=True)

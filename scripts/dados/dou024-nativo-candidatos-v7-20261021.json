@@ -1,0 +1,300 @@
+{
+  "total": 9,
+  "contagens": {
+    "aceitos": 9
+  },
+  "criterio": "Candidatos privados dos alertas de renderizacao. Fonte texto-dou preservada em modo HTML explicito ja suportado. Metadados/H1 e datas originais preservados, exceto campo de modo. GFM integral/sinais e auditor integrado de fonte/identidade/publicacao/integra suplementar repetidos, sem rede nem alteracao canonica. Exige promocao porpreimagem e cruzamento final antes de publicar.",
+  "helper_sha256": "1ae5cecda55ddd32ab00fdb2598d50b7cd5aeadaad0e0e73d720e4727bf1732d",
+  "auditor_sha256": "2fd53a02e1485e6c53fe4041d34c24629dba892a0374b7bd2fcbc25f66e3bf7e",
+  "script_sha256": "1cfe62d44f6699997348aa8391033bc237b7e365605ebbd86c8f8a30dbc69544",
+  "documentos": [
+    {
+      "path": "reguladores/mapa/instrucoes-normativas/2020/instrucao-normativa-n-19-de-29-de-abril-de-2020-254676996.md",
+      "sha256_md_preimagem": "d28e9a9a0766b197d6d91248257bf1624ce4a60be2a888cc8cfd4d43fc08741d",
+      "cache": "reguladores/_fonte/mapa/2020/instrucao-normativa-n-19-de-29-de-abril-de-2020-254676996-14ed08232fd02fccc850615f9eff8f1433d9bb4cd1408578e77ec05bbc2c590e.html.gz",
+      "sha256_fonte": "14ed08232fd02fccc850615f9eff8f1433d9bb4cd1408578e77ec05bbc2c590e",
+      "aceito": true,
+      "candidato": "reguladores/_fonte/auditorias/dou024-nativo-candidatos-v7-20261021/05b146eb291c2dc3b4b5279e6bc63f8a3cad05daddc81e25ed3f5b41889ce8fd.candidato.md.gz",
+      "sha256_candidato_gzip": "5e389e1fe087883f2f5462388bf0853755ccaf271c2e4f07d1fbd79e81e44f1d",
+      "sha256_md_candidato": "0482feacefee32f864bb87a553dba9ca42735efb63c16ddabab84a5cb09689de",
+      "backup": "reguladores/_fonte/auditorias/dou024-nativo-candidatos-v7-20261021/05b146eb291c2dc3b4b5279e6bc63f8a3cad05daddc81e25ed3f5b41889ce8fd.preimagem.md.gz",
+      "sha256_backup_gzip": "b3d06e59cdf44b639ec6bcef916050f97cb49939346b6b5f70b4b26db1dc23ee",
+      "sha256_fragmento": "8456b154110a917b8d8d70e9d033cdd7c363bd403be361120c448f5550d65a3f",
+      "registro_auditor_integrado": {
+        "path": "reguladores/mapa/instrucoes-normativas/2020/instrucao-normativa-n-19-de-29-de-abril-de-2020-254676996.md",
+        "sha256_md": "0482feacefee32f864bb87a553dba9ca42735efb63c16ddabab84a5cb09689de",
+        "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-n-19-de-29-de-abril-de-2020-254676996",
+        "cache": "reguladores/_fonte/mapa/2020/instrucao-normativa-n-19-de-29-de-abril-de-2020-254676996-14ed08232fd02fccc850615f9eff8f1433d9bb4cd1408578e77ec05bbc2c590e.html.gz",
+        "sha256_html": "14ed08232fd02fccc850615f9eff8f1433d9bb4cd1408578e77ec05bbc2c590e",
+        "data": "2020-04-29",
+        "publicacao": "2020-04-30",
+        "identidade": [
+          "ministerio da agricultura pecuaria e abastecimento secretaria de defesa agropecuaria",
+          "instrucao normativa",
+          "19",
+          "2020 04 29"
+        ],
+        "tabelas": 0,
+        "avisos_formato": []
+      },
+      "igualdade_GFM": true,
+      "metadados_preservados_exceto_modo": true
+    },
+    {
+      "path": "reguladores/mapa/instrucoes-normativas/2020/instrucao-normativa-n-21-de-24-de-abril-de-2020-254000817.md",
+      "sha256_md_preimagem": "3c11520f1624b3147f3110008c91f610e0fa15ed3bbccda717237a2778f6c57f",
+      "cache": "reguladores/_fonte/mapa/2020/instrucao-normativa-n-21-de-24-de-abril-de-2020-254000817-865070cc953d9fa4a3d31addb5b39237c73c0ad153097bd84280bfef2524aec8.html.gz",
+      "sha256_fonte": "865070cc953d9fa4a3d31addb5b39237c73c0ad153097bd84280bfef2524aec8",
+      "aceito": true,
+      "candidato": "reguladores/_fonte/auditorias/dou024-nativo-candidatos-v7-20261021/798f62fa34ccebc5d3c7a72d67dfb6a1855f350ffb3b3730763b0ecfcf9cdf6b.candidato.md.gz",
+      "sha256_candidato_gzip": "b6c53920bcb8b78c53eacad0db85121f198e3d8efb735319cfaa51e1fc06eb60",
+      "sha256_md_candidato": "50d2c74dfea534b371a1224437e8fed56b4ef25a0751f8ab5f8a1e722a8c68ed",
+      "backup": "reguladores/_fonte/auditorias/dou024-nativo-candidatos-v7-20261021/798f62fa34ccebc5d3c7a72d67dfb6a1855f350ffb3b3730763b0ecfcf9cdf6b.preimagem.md.gz",
+      "sha256_backup_gzip": "87b98dd8281060742a58f6621751f9027c0fe76eb445ef80fa77f0a9d461b96a",
+      "sha256_fragmento": "c417150ab7822cffb07bdbfb4f3aa8a03f56234432395aeb12b19f93b4f74e82",
+      "registro_auditor_integrado": {
+        "path": "reguladores/mapa/instrucoes-normativas/2020/instrucao-normativa-n-21-de-24-de-abril-de-2020-254000817.md",
+        "sha256_md": "50d2c74dfea534b371a1224437e8fed56b4ef25a0751f8ab5f8a1e722a8c68ed",
+        "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-n-21-de-24-de-abril-de-2020-254000817",
+        "cache": "reguladores/_fonte/mapa/2020/instrucao-normativa-n-21-de-24-de-abril-de-2020-254000817-865070cc953d9fa4a3d31addb5b39237c73c0ad153097bd84280bfef2524aec8.html.gz",
+        "sha256_html": "865070cc953d9fa4a3d31addb5b39237c73c0ad153097bd84280bfef2524aec8",
+        "data": "2020-04-24",
+        "publicacao": "2020-04-27",
+        "identidade": [
+          "ministerio da agricultura pecuaria e abastecimento secretaria de defesa agropecuaria",
+          "instrucao normativa",
+          "21",
+          "2020 04 24"
+        ],
+        "tabelas": 0,
+        "avisos_formato": []
+      },
+      "igualdade_GFM": true,
+      "metadados_preservados_exceto_modo": true
+    },
+    {
+      "path": "reguladores/mapa/instrucoes-normativas/2020/instrucao-normativa-n-39-de-30-de-junho-de-2020-264913600.md",
+      "sha256_md_preimagem": "394f9f6761ef33b31aa1ecf83fe63673d4522211f3cc2553cb3c42b09135a9fd",
+      "cache": "reguladores/_fonte/mapa/2020/instrucao-normativa-n-39-de-30-de-junho-de-2020-264913600-92f0c099bf5cee86bf30366ffbf83bf4e5f1a0ea4129f17d97ede23b6b822fce.html.gz",
+      "sha256_fonte": "92f0c099bf5cee86bf30366ffbf83bf4e5f1a0ea4129f17d97ede23b6b822fce",
+      "aceito": true,
+      "candidato": "reguladores/_fonte/auditorias/dou024-nativo-candidatos-v7-20261021/73aff28e76c19f1550a8100f3b8abb3dac98cd551ffab117dda7f57a1dc77ada.candidato.md.gz",
+      "sha256_candidato_gzip": "0d4c7aa05fa85a280ca9f3a69a61be6fa3820466dec1559922b8c0d87ff2ddf7",
+      "sha256_md_candidato": "e4d9531a27b7be78ecfdbc255efeca9c8510a7b94e09fe9bbf4bcb2a697c99d8",
+      "backup": "reguladores/_fonte/auditorias/dou024-nativo-candidatos-v7-20261021/73aff28e76c19f1550a8100f3b8abb3dac98cd551ffab117dda7f57a1dc77ada.preimagem.md.gz",
+      "sha256_backup_gzip": "fae70b2244f12d2d21093f597140a8e7e024ef82738967156f510768f80c90b6",
+      "sha256_fragmento": "121bab6ad5468e1461b174f2e17db37d46eb9d0fe178bc4bb42210a0d4eb222e",
+      "registro_auditor_integrado": {
+        "path": "reguladores/mapa/instrucoes-normativas/2020/instrucao-normativa-n-39-de-30-de-junho-de-2020-264913600.md",
+        "sha256_md": "e4d9531a27b7be78ecfdbc255efeca9c8510a7b94e09fe9bbf4bcb2a697c99d8",
+        "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-n-39-de-30-de-junho-de-2020-264913600",
+        "cache": "reguladores/_fonte/mapa/2020/instrucao-normativa-n-39-de-30-de-junho-de-2020-264913600-92f0c099bf5cee86bf30366ffbf83bf4e5f1a0ea4129f17d97ede23b6b822fce.html.gz",
+        "sha256_html": "92f0c099bf5cee86bf30366ffbf83bf4e5f1a0ea4129f17d97ede23b6b822fce",
+        "data": "2020-06-30",
+        "publicacao": "2020-07-03",
+        "identidade": [
+          "ministerio da agricultura pecuaria e abastecimento secretaria de defesa agropecuaria",
+          "instrucao normativa",
+          "39",
+          "2020 06 30"
+        ],
+        "tabelas": 1,
+        "avisos_formato": []
+      },
+      "igualdade_GFM": true,
+      "metadados_preservados_exceto_modo": true
+    },
+    {
+      "path": "reguladores/mapa/instrucoes-normativas/2020/instrucao-normativa-n-4-de-23-de-janeiro-de-2020-239865656.md",
+      "sha256_md_preimagem": "4199c5bf51626b42cb950c3ee5c047d308122e968f077ca568097116feed6d91",
+      "cache": "reguladores/_fonte/mapa/2020/instrucao-normativa-n-4-de-23-de-janeiro-de-2020-239865656-c06a0d18e2b1b81a01399cb5016b5b1354b0adb9057fc9b013991c6f60f8dac5.html.gz",
+      "sha256_fonte": "c06a0d18e2b1b81a01399cb5016b5b1354b0adb9057fc9b013991c6f60f8dac5",
+      "aceito": true,
+      "candidato": "reguladores/_fonte/auditorias/dou024-nativo-candidatos-v7-20261021/4b084ae166ccad1d9dc6f20c7c5a7e51f44f2c67288525fb7e81a78797da784f.candidato.md.gz",
+      "sha256_candidato_gzip": "789ad61ee08d131733d605303f0f0f394badd59fa2bf2d21c4e7defe20ca2771",
+      "sha256_md_candidato": "59ca7ec349d36ad2b2c05ec1faca547f4a5502b4778fbe8ef7beac1fd47d21e1",
+      "backup": "reguladores/_fonte/auditorias/dou024-nativo-candidatos-v7-20261021/4b084ae166ccad1d9dc6f20c7c5a7e51f44f2c67288525fb7e81a78797da784f.preimagem.md.gz",
+      "sha256_backup_gzip": "c1d8b23fe3f693165cc32d4597299c553d02fc7be5b402559f52aca2bf1cdddf",
+      "sha256_fragmento": "d832c76a75427e857175cfe3c71bd30764e686fff2c2410d33c48a25fbedbf2d",
+      "registro_auditor_integrado": {
+        "path": "reguladores/mapa/instrucoes-normativas/2020/instrucao-normativa-n-4-de-23-de-janeiro-de-2020-239865656.md",
+        "sha256_md": "59ca7ec349d36ad2b2c05ec1faca547f4a5502b4778fbe8ef7beac1fd47d21e1",
+        "fonte": "https://www.in.gov.br/web/dou/-/instrucao-normativa-n-4-de-23-de-janeiro-de-2020-239865656",
+        "cache": "reguladores/_fonte/mapa/2020/instrucao-normativa-n-4-de-23-de-janeiro-de-2020-239865656-c06a0d18e2b1b81a01399cb5016b5b1354b0adb9057fc9b013991c6f60f8dac5.html.gz",
+        "sha256_html": "c06a0d18e2b1b81a01399cb5016b5b1354b0adb9057fc9b013991c6f60f8dac5",
+        "data": "2020-01-23",
+        "publicacao": "2020-01-27",
+        "identidade": [
+          "ministerio da agricultura pecuaria e abastecimento secretaria de defesa agropecuaria",
+          "instrucao normativa",
+          "4",
+          "2020 01 23"
+        ],
+        "tabelas": 2,
+        "avisos_formato": []
+      },
+      "igualdade_GFM": true,
+      "metadados_preservados_exceto_modo": true
+    },
+    {
+      "path": "reguladores/mapa/portarias/2020/portaria-n-176-de-23-de-julho-de-2020-268438814.md",
+      "sha256_md_preimagem": "d9ce638c5d58ff18bf7ab0d4113204edf54c75ca432f420be99da5ae410b8b1f",
+      "cache": "reguladores/_fonte/mapa/2020/portaria-n-176-de-23-de-julho-de-2020-268438814-a09e8ceb1c048cfbc6d5b56bb314b0e4efb9bcdaaa7eb6fc43f04aae6f8c0e53.html.gz",
+      "sha256_fonte": "a09e8ceb1c048cfbc6d5b56bb314b0e4efb9bcdaaa7eb6fc43f04aae6f8c0e53",
+      "aceito": true,
+      "candidato": "reguladores/_fonte/auditorias/dou024-nativo-candidatos-v7-20261021/065bd818f44c0c432c2e0e379f0433cc709baf187415f036b9637b35b6461373.candidato.md.gz",
+      "sha256_candidato_gzip": "2fa52fc3a5948f435a9d42d3f39d2643f41d314273cfca1c750df7bb7af941f3",
+      "sha256_md_candidato": "ad932fd4381488a28f3ef230caaba1bc6e4703523e02371d5395dbeef6ed2de9",
+      "backup": "reguladores/_fonte/auditorias/dou024-nativo-candidatos-v7-20261021/065bd818f44c0c432c2e0e379f0433cc709baf187415f036b9637b35b6461373.preimagem.md.gz",
+      "sha256_backup_gzip": "d72b8b1d2d4f8040173b64137f8a7613f88e21648d0cf245224f1da700a8ad73",
+      "sha256_fragmento": "e2312baa2ca5ffb6a0c2ebd035d740d8a4fb216eae3915c807d3470c5346db7b",
+      "registro_auditor_integrado": {
+        "path": "reguladores/mapa/portarias/2020/portaria-n-176-de-23-de-julho-de-2020-268438814.md",
+        "sha256_md": "ad932fd4381488a28f3ef230caaba1bc6e4703523e02371d5395dbeef6ed2de9",
+        "fonte": "https://www.in.gov.br/web/dou/-/portaria-n-176-de-23-de-julho-de-2020-268438814",
+        "cache": "reguladores/_fonte/mapa/2020/portaria-n-176-de-23-de-julho-de-2020-268438814-a09e8ceb1c048cfbc6d5b56bb314b0e4efb9bcdaaa7eb6fc43f04aae6f8c0e53.html.gz",
+        "sha256_html": "a09e8ceb1c048cfbc6d5b56bb314b0e4efb9bcdaaa7eb6fc43f04aae6f8c0e53",
+        "data": "2020-07-23",
+        "publicacao": "2020-07-24",
+        "identidade": [
+          "ministerio da agricultura pecuaria e abastecimento secretaria de aquicultura e pesca",
+          "portaria",
+          "176",
+          "2020 07 23"
+        ],
+        "tabelas": 1,
+        "avisos_formato": []
+      },
+      "igualdade_GFM": true,
+      "metadados_preservados_exceto_modo": true
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-279-de-29-de-abril-de-2021-317029546.md",
+      "sha256_md_preimagem": "0fb6556e95d2b3747528785c9aba17218d669bf9becce6a2425f5524f8b1988f",
+      "cache": "reguladores/_fonte/mapa/2021/portaria-n-279-de-29-de-abril-de-2021-317029546-9ba87217c6aa6fb5cd409b92b09fc806b2f16c0dc9b4a1ed8cbb7cdee0d7d211.html.gz",
+      "sha256_fonte": "9ba87217c6aa6fb5cd409b92b09fc806b2f16c0dc9b4a1ed8cbb7cdee0d7d211",
+      "aceito": true,
+      "candidato": "reguladores/_fonte/auditorias/dou024-nativo-candidatos-v7-20261021/7425f1a84aa1ba3644a45e540c053d7fa7ff79859b76c5e7ce2666cb061260e8.candidato.md.gz",
+      "sha256_candidato_gzip": "aa0a1e132cdf185c4be8d11b267203a9555cc1c1f31a14f8c3dc2f8a5dc098c7",
+      "sha256_md_candidato": "38050c12d5b591083f3ee7de2f46e9917266be52e790543d8a7863af52edddc7",
+      "backup": "reguladores/_fonte/auditorias/dou024-nativo-candidatos-v7-20261021/7425f1a84aa1ba3644a45e540c053d7fa7ff79859b76c5e7ce2666cb061260e8.preimagem.md.gz",
+      "sha256_backup_gzip": "26499e82df5ab7c4aae3850a61e1d38555b7d63680efe82a1dcfdf9679fef388",
+      "sha256_fragmento": "cefb49129c8977f1409897874e524fae2c08621142c2f34ee727e7aad2bc70d4",
+      "registro_auditor_integrado": {
+        "path": "reguladores/mapa/portarias/2021/portaria-n-279-de-29-de-abril-de-2021-317029546.md",
+        "sha256_md": "38050c12d5b591083f3ee7de2f46e9917266be52e790543d8a7863af52edddc7",
+        "fonte": "https://www.in.gov.br/web/dou/-/portaria-n-279-de-29-de-abril-de-2021-317029546",
+        "cache": "reguladores/_fonte/mapa/2021/portaria-n-279-de-29-de-abril-de-2021-317029546-9ba87217c6aa6fb5cd409b92b09fc806b2f16c0dc9b4a1ed8cbb7cdee0d7d211.html.gz",
+        "sha256_html": "9ba87217c6aa6fb5cd409b92b09fc806b2f16c0dc9b4a1ed8cbb7cdee0d7d211",
+        "data": "2021-04-29",
+        "publicacao": "2021-04-30",
+        "identidade": [
+          "ministerio da agricultura pecuaria e abastecimento secretaria de defesa agropecuaria",
+          "portaria",
+          "279",
+          "2021 04 29"
+        ],
+        "tabelas": 0,
+        "avisos_formato": []
+      },
+      "igualdade_GFM": true,
+      "metadados_preservados_exceto_modo": true
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-n-416-de-5-de-outubro-de-2021-351607467.md",
+      "sha256_md_preimagem": "34132f0450733dfa91435d8e1cb49e42cc1e9a514fdcbad8de294f816dce2e03",
+      "cache": "reguladores/_fonte/mapa/2021/portaria-n-416-de-5-de-outubro-de-2021-351607467-2858f84f8a15c03d30d607f32d7ab6adb6ab00e85e1266e372f045a769594585.html.gz",
+      "sha256_fonte": "2858f84f8a15c03d30d607f32d7ab6adb6ab00e85e1266e372f045a769594585",
+      "aceito": true,
+      "candidato": "reguladores/_fonte/auditorias/dou024-nativo-candidatos-v7-20261021/fbc2cf26cd69370faad158b45f607fb9788743fb68d9c22c8034ec9b28962771.candidato.md.gz",
+      "sha256_candidato_gzip": "93d96e9d02c9a20aabfb896c1d25401525a59137de72803c60d3bb89ec373d18",
+      "sha256_md_candidato": "bdd20bd2ac44fa1c9d609da24fc31743d14dd1a09e135eba89ba94542d5081f5",
+      "backup": "reguladores/_fonte/auditorias/dou024-nativo-candidatos-v7-20261021/fbc2cf26cd69370faad158b45f607fb9788743fb68d9c22c8034ec9b28962771.preimagem.md.gz",
+      "sha256_backup_gzip": "86276ff5502b5df8e67588a7cccb5a2bb807e383fd357b47cf590d0b5b59625a",
+      "sha256_fragmento": "e6c575b278e8d759243d67bdace88d70c801584bf67c75b43a0d8e006fd08305",
+      "registro_auditor_integrado": {
+        "path": "reguladores/mapa/portarias/2021/portaria-n-416-de-5-de-outubro-de-2021-351607467.md",
+        "sha256_md": "bdd20bd2ac44fa1c9d609da24fc31743d14dd1a09e135eba89ba94542d5081f5",
+        "fonte": "https://www.in.gov.br/web/dou/-/portaria-n-416-de-5-de-outubro-de-2021-351607467",
+        "cache": "reguladores/_fonte/mapa/2021/portaria-n-416-de-5-de-outubro-de-2021-351607467-2858f84f8a15c03d30d607f32d7ab6adb6ab00e85e1266e372f045a769594585.html.gz",
+        "sha256_html": "2858f84f8a15c03d30d607f32d7ab6adb6ab00e85e1266e372f045a769594585",
+        "data": "2021-10-05",
+        "publicacao": "2021-10-08",
+        "identidade": [
+          "ministerio da agricultura pecuaria e abastecimento secretaria de defesa agropecuaria",
+          "portaria",
+          "416",
+          "2021 10 05"
+        ],
+        "tabelas": 0,
+        "avisos_formato": []
+      },
+      "igualdade_GFM": true,
+      "metadados_preservados_exceto_modo": true
+    },
+    {
+      "path": "reguladores/mapa/portarias/2021/portaria-sda-n-448-de-17-de-novembro-de-2021-360543494.md",
+      "sha256_md_preimagem": "1ef68afd202a3f7ad612ffa4c22467f85a7aa85f7d980ffb6f2d4994d4d1403a",
+      "cache": "reguladores/_fonte/mapa/2021/portaria-sda-n-448-de-17-de-novembro-de-2021-360543494-e32c51d0c218cadd00db4c742dd5716425bf89858df8b87f7c5485a0b2ddb344.html.gz",
+      "sha256_fonte": "e32c51d0c218cadd00db4c742dd5716425bf89858df8b87f7c5485a0b2ddb344",
+      "aceito": true,
+      "candidato": "reguladores/_fonte/auditorias/dou024-nativo-candidatos-v7-20261021/af079fcbba0897210db66e8dd65c4aaad283fc5482273d7b31f1b6006b0f7433.candidato.md.gz",
+      "sha256_candidato_gzip": "133b4e0cc8c1de9f75afb4446862ad5788a8e80a1b450bef142dfe9fee2cfa26",
+      "sha256_md_candidato": "d0b566be1db6b7f3d4146d07953b7f8715df464fd8e65106fe371b3e9ba3d777",
+      "backup": "reguladores/_fonte/auditorias/dou024-nativo-candidatos-v7-20261021/af079fcbba0897210db66e8dd65c4aaad283fc5482273d7b31f1b6006b0f7433.preimagem.md.gz",
+      "sha256_backup_gzip": "a9d2911d93fbec309b11d5ff7d1561bfca675dfb9e1005f56cf00b11861b5c42",
+      "sha256_fragmento": "6a917bd781e074dc32c5f9e14f6c6aa1cd9c1414e8cc611afeb1485d11cd5a72",
+      "registro_auditor_integrado": {
+        "path": "reguladores/mapa/portarias/2021/portaria-sda-n-448-de-17-de-novembro-de-2021-360543494.md",
+        "sha256_md": "d0b566be1db6b7f3d4146d07953b7f8715df464fd8e65106fe371b3e9ba3d777",
+        "fonte": "https://www.in.gov.br/web/dou/-/portaria-sda-n-448-de-17-de-novembro-de-2021-360543494",
+        "cache": "reguladores/_fonte/mapa/2021/portaria-sda-n-448-de-17-de-novembro-de-2021-360543494-e32c51d0c218cadd00db4c742dd5716425bf89858df8b87f7c5485a0b2ddb344.html.gz",
+        "sha256_html": "e32c51d0c218cadd00db4c742dd5716425bf89858df8b87f7c5485a0b2ddb344",
+        "data": "2021-11-17",
+        "publicacao": "2021-11-19",
+        "identidade": [
+          "ministerio da agricultura pecuaria e abastecimento secretaria de defesa agropecuaria",
+          "portaria",
+          "448",
+          "2021 11 17"
+        ],
+        "tabelas": 10,
+        "avisos_formato": []
+      },
+      "igualdade_GFM": true,
+      "metadados_preservados_exceto_modo": true
+    },
+    {
+      "path": "reguladores/mapa/portarias/2022/portaria-sda-n-641-de-25-de-agosto-de-2022-425171426.md",
+      "sha256_md_preimagem": "9e5853e67e29c07527eb2e60a2c008310bcb91143bda2508a2c299c7fa7700e8",
+      "cache": "reguladores/_fonte/mapa/2022/portaria-sda-n-641-de-25-de-agosto-de-2022-425171426-d38ae7f92cf9a639309819a954adb40a46ab7de81dfbae7f65ea374399fd9e68.html.gz",
+      "sha256_fonte": "d38ae7f92cf9a639309819a954adb40a46ab7de81dfbae7f65ea374399fd9e68",
+      "aceito": true,
+      "candidato": "reguladores/_fonte/auditorias/dou024-nativo-candidatos-v7-20261021/ad8c1edb458940b7375df8ca8ef59d55001c391bf46f15b6554a8b35d3867bb5.candidato.md.gz",
+      "sha256_candidato_gzip": "ed7d8a57bb8c86da4c5b5d680cafcf3db28cd30f4b5ed9f555523f8107765f8b",
+      "sha256_md_candidato": "7bd369fd1a7a1f23238c39f6a50132bbb831fba25f6d42c35d89c0de372d539b",
+      "backup": "reguladores/_fonte/auditorias/dou024-nativo-candidatos-v7-20261021/ad8c1edb458940b7375df8ca8ef59d55001c391bf46f15b6554a8b35d3867bb5.preimagem.md.gz",
+      "sha256_backup_gzip": "9e5167d2be5747de94825ab49039fa36f608842c1fa6b92c4997e74129142c94",
+      "sha256_fragmento": "42b9e67b5af73cb98eb9814675043d4191b31481c9375fc2fd574d10e0cdc5b2",
+      "registro_auditor_integrado": {
+        "path": "reguladores/mapa/portarias/2022/portaria-sda-n-641-de-25-de-agosto-de-2022-425171426.md",
+        "sha256_md": "7bd369fd1a7a1f23238c39f6a50132bbb831fba25f6d42c35d89c0de372d539b",
+        "fonte": "https://www.in.gov.br/web/dou/-/portaria-sda-n-641-de-25-de-agosto-de-2022-425171426",
+        "cache": "reguladores/_fonte/mapa/2022/portaria-sda-n-641-de-25-de-agosto-de-2022-425171426-d38ae7f92cf9a639309819a954adb40a46ab7de81dfbae7f65ea374399fd9e68.html.gz",
+        "sha256_html": "d38ae7f92cf9a639309819a954adb40a46ab7de81dfbae7f65ea374399fd9e68",
+        "data": "2022-08-25",
+        "publicacao": "2022-08-30",
+        "identidade": [
+          "ministerio da agricultura pecuaria e abastecimento secretaria de defesa agropecuaria",
+          "portaria",
+          "641",
+          "2022 08 25"
+        ],
+        "tabelas": 0,
+        "avisos_formato": []
+      },
+      "igualdade_GFM": true,
+      "metadados_preservados_exceto_modo": true
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "total": 2,
+  "contagens": {
+    "aceitos": 2
+  },
+  "criterio": "Candidatos privados dos alertas de renderizacao. Fonte texto-dou preservada em modo HTML explicito ja suportado. Metadados/H1 e datas originais preservados, exceto campo de modo. GFM integral/sinais e auditor integrado de fonte/identidade/publicacao/integra suplementar repetidos, sem rede nem alteracao canonica. Exige promocao porpreimagem e cruzamento final antes de publicar.",
+  "helper_sha256": "1ae5cecda55ddd32ab00fdb2598d50b7cd5aeadaad0e0e73d720e4727bf1732d",
+  "auditor_sha256": "2fd53a02e1485e6c53fe4041d34c24629dba892a0374b7bd2fcbc25f66e3bf7e",
+  "script_sha256": "8d5181fad903c18e5b0a89653dba21f4fce8e6e8351bbf7f600bb1599d7dc562",
+  "documentos": [
+    {
+      "path": "reguladores/conselhos-profissionais/resolucoes/2021/resolucao-cfess-n-979-de-26-de-agosto-de-2021-341039369.md",
+      "sha256_md_preimagem": "9157f03d90ea2c6969c1f86fbe6feb8e86c9f690ce9a2b278adfb1acdf42abcd",
+      "cache": "reguladores/_fonte/conselhos-profissionais/2021/resolucao-cfess-n-979-de-26-de-agosto-de-2021-341039369-4c6655d4f2ebf40d506ff8b3d05b382dc0daeecf12d28ee2dd0a0b004769a042.html.gz",
+      "sha256_fonte": "4c6655d4f2ebf40d506ff8b3d05b382dc0daeecf12d28ee2dd0a0b004769a042",
+      "aceito": true,
+      "candidato": "reguladores/_fonte/auditorias/dou023-nativo-candidatos-v6-20261021/978bf97a508aaef7f5fdf0e59cfe177e964a2997c00daf10be393c0229a5e799.candidato.md.gz",
+      "sha256_candidato_gzip": "49ecbc3d3a2b526334c6a7c4fb69f1652864c45125bdb90194f40274ade916b4",
+      "sha256_md_candidato": "0ed53a5b67b8d6152a696aa0e183fa2a77e3cfc82b2b800d94dca3bfcd764594",
+      "backup": "reguladores/_fonte/auditorias/dou023-nativo-candidatos-v6-20261021/978bf97a508aaef7f5fdf0e59cfe177e964a2997c00daf10be393c0229a5e799.preimagem.md.gz",
+      "sha256_backup_gzip": "e7ffdce4bcd3be1868c83dfbd2e3cac87a3de26fcc51a1380e73d824d3464246",
+      "sha256_fragmento": "322f150e081623066a5ba8f8e9e4e7e479ab1730b0156a1a15af8014a0646b90",
+      "registro_auditor_integrado": {
+        "path": "reguladores/conselhos-profissionais/resolucoes/2021/resolucao-cfess-n-979-de-26-de-agosto-de-2021-341039369.md",
+        "sha256_md": "0ed53a5b67b8d6152a696aa0e183fa2a77e3cfc82b2b800d94dca3bfcd764594",
+        "fonte": "https://www.in.gov.br/web/dou/-/resolucao-cfess-n-979-de-26-de-agosto-de-2021-341039369",
+        "cache": "reguladores/_fonte/conselhos-profissionais/2021/resolucao-cfess-n-979-de-26-de-agosto-de-2021-341039369-4c6655d4f2ebf40d506ff8b3d05b382dc0daeecf12d28ee2dd0a0b004769a042.html.gz",
+        "sha256_html": "4c6655d4f2ebf40d506ff8b3d05b382dc0daeecf12d28ee2dd0a0b004769a042",
+        "data": "2021-08-26",
+        "publicacao": "2021-08-27",
+        "identidade": [
+          "entidades de fiscalizacao do exercicio das profissoes liberais conselho federal de servico social",
+          "resolucao",
+          "979",
+          "2021 08 26"
+        ],
+        "tabelas": 0,
+        "avisos_formato": []
+      },
+      "igualdade_GFM": true,
+      "metadados_preservados_exceto_modo": true
+    },
+    {
+      "path": "reguladores/defesa/pareceres-normativos/2021/portaria-dhn-dgn-mb-n-12-de-22-de-setembro-de-2021-366041460.md",
+      "sha256_md_preimagem": "d8e82da20c5434c74f0c3df750e72620acf018fddba6e11678e8e653b73b0574",
+      "cache": "reguladores/_fonte/defesa/2021/portaria-dhn-dgn-mb-n-12-de-22-de-setembro-de-2021-366041460-8a6fd2b5862a8a0e3beaa8c161ea31a04fe692ea267a393a6b9c3f55b3ee8665.html.gz",
+      "sha256_fonte": "8a6fd2b5862a8a0e3beaa8c161ea31a04fe692ea267a393a6b9c3f55b3ee8665",
+      "aceito": true,
+      "candidato": "reguladores/_fonte/auditorias/dou023-nativo-candidatos-v6-20261021/3116318e8a4c33d227c9b8987c99ec36e9f66ac8dcc8d82c43e5d15e4fbae8b8.candidato.md.gz",
+      "sha256_candidato_gzip": "bba01de7ecfd0f019080524a33bd6f1dba9b103c7287d20d00549cf6b3c5fc8e",
+      "sha256_md_candidato": "c1d757e74a4656e41d55e1460eea6971e4732a3b7151a0332b4b3692f26e653b",
+      "backup": "reguladores/_fonte/auditorias/dou023-nativo-candidatos-v6-20261021/3116318e8a4c33d227c9b8987c99ec36e9f66ac8dcc8d82c43e5d15e4fbae8b8.preimagem.md.gz",
+      "sha256_backup_gzip": "7f890d64e2be1b4a4220e45d0e7008623f3dfa0f07527a11c40220200e43c3d9",
+      "sha256_fragmento": "f1ffdf00749e47d755065204f525ff96dadf383b33747c9d6f314b2ec52c16ad",
+      "registro_auditor_integrado": {
+        "path": "reguladores/defesa/pareceres-normativos/2021/portaria-dhn-dgn-mb-n-12-de-22-de-setembro-de-2021-366041460.md",
+        "sha256_md": "c1d757e74a4656e41d55e1460eea6971e4732a3b7151a0332b4b3692f26e653b",
+        "fonte": "https://www.in.gov.br/web/dou/-/portaria-dhn/dgn/mb-n-12-de-22-de-setembro-de-2021-366041460",
+        "cache": "reguladores/_fonte/defesa/2021/portaria-dhn-dgn-mb-n-12-de-22-de-setembro-de-2021-366041460-8a6fd2b5862a8a0e3beaa8c161ea31a04fe692ea267a393a6b9c3f55b3ee8665.html.gz",
+        "sha256_html": "8a6fd2b5862a8a0e3beaa8c161ea31a04fe692ea267a393a6b9c3f55b3ee8665",
+        "data": "2021-09-22",
+        "publicacao": "2021-12-10",
+        "identidade": [
+          "ministerio da defesa comando da marinha diretoria geral de navegacao diretoria de hidrografia e navegacao",
+          "parecer normativo",
+          "12",
+          "2021 09 22"
+        ],
+        "tabelas": 0,
+        "avisos_formato": []
+      },
+      "igualdade_GFM": true,
+      "metadados_preservados_exceto_modo": true
+    }
+  ]
+}

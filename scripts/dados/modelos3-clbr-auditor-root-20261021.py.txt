@@ -1,0 +1,58 @@
+from pathlib import Path
+import json,gzip,hashlib,subprocess,re,sys
+from pypdf import PdfReader
+sys.path.insert(0,'scripts')
+from preparar_lote_decretos_cache import fields
+sha=lambda b:hashlib.sha256(b).hexdigest();h={};sources=[];writes=[];reviewed=[];manifestos={}
+def addmap(f):
+ o=json.loads(Path(f).read_text());m={r['path']:r['sha256'] for r in o} if isinstance(o,list) else o
+ for p,s in m.items():
+  assert sha(Path(p).read_bytes())==s,p
+  if p in h:assert h[p]==s
+  h[p]=s
+specs=[('45568','005',[(626,578),(627,579)]),('59595','006',[(2512,196),(2513,197)]),('55551','007',[(i,i-64) for i in range(140,147)])]
+head=subprocess.check_output(['git','rev-parse','HEAD']).decode().strip();rp=Path('scripts/dados/pendencias-integralidade-publicadas.json');regraw=rp.read_bytes();assert subprocess.check_output(['git','show',head+':'+str(rp)])==regraw;reg=json.loads(regraw);assert len(reg['pendentes'])==7547
+for n,v,pages in specs:
+ addmap(f'/tmp/federal20261021-modelo{n}-clbr-{v}-hashes.json');mp=Path(f'federal/_recuperacao_modelo{n}_clbr_20261021_{v}.json');m=json.loads(mp.read_text());manifestos[n]=m;p=m['path'];old=Path(p).read_bytes();assert sha(old)==m['sha256_preimagem'];assert subprocess.check_output(['git','show',head+':'+p])==old
+ hist=[json.loads(l) for l in gzip.open(m['historico']['path'],'rt')];assert len(hist)==1;r=hist[0];assert r['md_original'].encode()==old and sha(old)==r['sha256_md'];assert sha(r['fonte_html_original'].encode())==r['sha256_fonte_html'];assert sha(r['metadados_json_original'].encode())==r['sha256_metadados'];api=json.loads(r['metadados_json_original']);assert api['legislationIdentifier']==m['urn']
+ captures=json.loads(Path(f'federal/_provas_modelo{n}_clbr_20261021_{v}/capturas.json').read_text());bookrow=next(r for r in captures if str(r.get('path','')).endswith('.pdf'));book=Path(bookrow['path']);digest=hashlib.sha256()
+ with book.open('rb') as f:
+  while True:
+   b=f.read(8*1024*1024)
+   if not b:break
+   digest.update(b)
+ assert digest.hexdigest()==bookrow['sha256']==m['sha256_pdf_integral'];assert book.stat().st_size==bookrow['bytes'];sourcepages=[]
+ with book.open('rb') as f:
+  reader=PdfReader(f)
+  for i,printed in pages:
+   proof=Path(f'federal/_provas_modelo{n}_clbr_20261021_{v}/clbr-{book.stem}-pdf-{i}.pdf');copy=PdfReader(str(proof));assert len(copy.pages)==1;a=reader.pages[i-1];b=copy.pages[0];assert list(a.mediabox)==list(b.mediabox);assert a.get_contents().get_data()==b.get_contents().get_data()
+   def images(page):
+    d=page['/Resources'].get('/XObject',{});d=d.get_object() if hasattr(d,'get_object') else d;out={}
+    for key,value in d.items():
+     obj=value.get_object();out[str(key)]={'subtype':str(obj.get('/Subtype')),'sha256_stream':sha(obj._data),'width':obj.get('/Width'),'height':obj.get('/Height')}
+    return out
+   assert images(a)==images(b),(n,i);sourcepages.append({'pdf':i,'impressa':printed,'sha256_conteudo':sha(a.get_contents().get_data()),'xobjects':images(a)})
+ if n=='55551':
+  addmap('/tmp/federal20261021-modelo55551-correcao008-hashes.json');corr=json.loads(Path('federal/_correcao_pontual_modelo55551_clbr_20261021_008/recibo.json').read_text());candidate=Path(corr['candidato']['path']).read_bytes();orig=Path(m['candidato']).read_bytes();assert sha(orig)==m['sha256_candidato']==corr['preimagem']['sha256'];text=orig.decode()
+  for swap in corr['substituicoes']:assert text.count(swap['antes'])==1;text=text.replace(swap['antes'],swap['depois'])
+  assert text.encode()==candidate and sha(candidate)==corr['candidato']['sha256']
+ else:candidate=Path(m['candidato']).read_bytes();assert sha(candidate)==m['sha256_candidato']
+ om,_,_=fields(old.decode());nm,_,body=fields(candidate.decode());assert nm['urn']==om['urn']==m['urn'];assert nm['data']==om['data']==api['legislationDate'];assert nm['fonte']==m['fonte_edicao_recuperada'];assert nm['sha256_fonte_clbr']==m['sha256_pdf_integral'];assert nm['revogada']=='null'
+ text=candidate.decode();text,count=re.subn(r'(?m)^baixado_em: \d{4}-\d{2}-\d{2}$','baixado_em: 2026-10-21',text);assert count==1
+ extra='baixado_em_variante_normas: '+om['baixado_em']+'\n'
+ if 'recuperacao_clbr_em:' not in text:extra+='recuperacao_clbr_em: 2026-10-21\n'
+ text=text.replace('\n---\n', '\n'+extra+'---\n',1);new=text.encode();assert fields(text)[2]==body
+ assets=re.findall(r'!\[[^\]]*\]\(([^)]+)\)',body);assert len(assets)==(3 if n=='55551' else 1)
+ for a in assets:assert (Path(p).parent/a).resolve().is_file(),a
+ found=[r for r in reg['pendentes'] if r['path']==p];assert len(found)==1 and found[0]['sha256_md']==sha(old),p
+ writes.append((p,old,new));reviewed.append({'path':p,'sha256_preimagem':sha(old),'sha256_candidato_revisado':sha(candidate),'sha256_final':sha(new),'paginas_clbr':sourcepages,'assets':assets,'artigos':len(re.findall(r'(?m)^\*\*Art(?:\. [0-9º]+)?\*\*|^\*\*Art\*\*\.',body)),'edicao':'CLBR integral coerente, variantes Normas preservadas separadamente','nota_captura':'baixado_em e recuperacao_clbr_em referem-se a21/10; data da variante Normas anterior mantida em campo proprio e historico'})
+# Todas as fontes/edições/preimagens comprovadas antes de qualquer promoção.
+oldattrs=Path('.gitattributes').read_bytes();assert subprocess.check_output(['git','show',head+':.gitattributes'])==oldattrs
+attrs=oldattrs.decode()
+for n,v,_ in specs:
+ rule=f'/federal/_provas_modelo{n}_clbr_20261021_{v}/*.pdf binary';assert rule not in attrs;attrs+='\n'+rule+'\n'
+backup=Path('federal/_historico_pendencias_modelos3_root_20261021.json.gz');assert not backup.exists();backup.write_bytes(gzip.compress(regraw,mtime=0));h[str(backup)]=sha(backup.read_bytes())
+for p,old,new in writes:
+ assert Path(p).read_bytes()==old;tmp=Path(p).with_suffix('.root-clbr-modelos3.tmp');assert not tmp.exists();tmp.write_bytes(new);tmp.replace(p);h[p]=sha(new)
+paths={p for p,_,_ in writes};reg['pendentes']=[r for r in reg['pendentes'] if r['path'] not in paths];assert len(reg['pendentes'])==7544;rp.write_text(json.dumps(reg,ensure_ascii=False,indent=2)+'\n');h[str(rp)]=sha(rp.read_bytes());Path('.gitattributes').write_text(attrs);h['.gitattributes']=sha(Path('.gitattributes').read_bytes())
+proof=Path('scripts/dados/modelos3-clbr-integracao-root-20261021.json');assert not proof.exists();proof.write_text(json.dumps({'reparos':3,'novas_normas':0,'HEAD_preimagens':head,'pendencias_antes':7547,'pendencias_depois':7544,'conferencia_ROOT':'ROOT leu visualmente fontes integrais de38artigos e5modelos;55.551com28artigos e3modelos completo. Corrigidos somente2acentos confirmados em600dpi no candidato55.551; variantes anteriores preservadas. Duas datas herdadas da capturaNormas substituidas por data realCLBR21/10, data anterior preservada emcampo explicito. Originais CLBR/Normas diferentes nao sao misturados silenciosamente. Causa das variantes nao determinada, sem certificacao de vigencia alem da fonte.','fontes_verificadas':reviewed,'prova_PDF':'SHA dos3volumes originais completos e streams/mediabox/XObjects das11paginas relevantes conferidos contra PDFs de prova. Todos os modelos conferidos contra paginas integrais e recortes documentais.','sha256':h},ensure_ascii=False,indent=2)+'\n');h[str(proof)]=sha(proof.read_bytes());script=Path('scripts/dados/modelos3-clbr-auditor-root-20261021.py.txt');assert not script.exists();script.write_bytes(Path(__file__).read_bytes());h[str(script)]=sha(script.read_bytes());Path('/tmp/modelos3-clbr-hashes-20261021.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');Path('/tmp/modelos3-clbr-paths-20261021.txt').write_text('\n'.join(h)+'\n');print('FINAL3reparos;7544pendencias;paths',len(h),flush=True)

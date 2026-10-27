@@ -1,0 +1,65 @@
+{
+  "criterio": "Todos os únicos avisos de whitespace do diff são hardbreaks Markdown válidos de exatamente dois espaços; conteúdo e hashes preservados. As demais verificações de whitespace/conflitos continuam ativas.",
+  "casos": [
+    {
+      "path": "federal/decretos/1990/dec-99711-1990-11-21.md",
+      "linha": 91,
+      "conteudo": "Artigo VI  ",
+      "decisao": "quebra explícita Markdown de dois espaços, preservada do conversor"
+    },
+    {
+      "path": "federal/decretos/1991/dec-354-1991-12-02.md",
+      "linha": 241,
+      "conteudo": "6 – Quando uma sociedade residente de um Estado Contratante receber lucros ou rendimentos provenientes do outro Estado Contratante, esse outro  ",
+      "decisao": "quebra explícita Markdown de dois espaços, preservada do conversor"
+    },
+    {
+      "path": "federal/decretos/1993/dec-849-1993-06-25.md",
+      "linha": 1785,
+      "conteudo": "1\\. Para identificar e seguir o curso das aeronaves sanitárias poderá ser utilizado o sistema de radar secundário de vigilância (SSR), tal como especificado no  ",
+      "decisao": "quebra explícita Markdown de dois espaços, preservada do conversor"
+    },
+    {
+      "path": "federal/decretos/1993/dec-922-1993-09-10.md",
+      "linha": 227,
+      "conteudo": "3 – Dentro desse prazo, o grupo de peritos dará oportunidade para que sejam ouvidos e para que apresentem seus argumentos ao particular reclamante e ao  ",
+      "decisao": "quebra explícita Markdown de dois espaços, preservada do conversor"
+    },
+    {
+      "path": "federal/decretos/1995/dec-1690-1995-11-07.md",
+      "linha": 181,
+      "conteudo": "b) mantidos a bordo das aeronaves da(s) empresa(s) aérea(s) designada(s) de uma Parte Contratante, desde a chegada até a saída dôo território da outra Parte  ",
+      "decisao": "quebra explícita Markdown de dois espaços, preservada do conversor"
+    },
+    {
+      "path": "federal/decretos/1995/dec-1699-1995-11-14.md",
+      "linha": 117,
+      "conteudo": "As operações realizadas com mercadorias importadas e exportada, objeto de comércio na navegação de longo curso, estão sujeitas ao pagamento do  ",
+      "decisao": "quebra explícita Markdown de dois espaços, preservada do conversor"
+    },
+    {
+      "path": "federal/decretos/1995/dec-1710-1995-11-22.md",
+      "linha": 71,
+      "conteudo": "(i)”membro de Missão diplomática ou de Repartição consular” é qualquer funcionário do  ",
+      "decisao": "quebra explícita Markdown de dois espaços, preservada do conversor"
+    },
+    {
+      "path": "federal/decretos/1998/dec-2519-1998-03-16.md",
+      "linha": 649,
+      "conteudo": "Anexo II  ",
+      "decisao": "quebra explícita Markdown de dois espaços, preservada do conversor"
+    },
+    {
+      "path": "federal/decretos/2000/dec-3405-2000-04-06.md",
+      "linha": 16,
+      "conteudo": "**Senado Federal**  ",
+      "decisao": "quebra explícita Markdown de dois espaços, preservada do conversor"
+    },
+    {
+      "path": "federal/decretos/2000/dec-3406-2000-04-06.md",
+      "linha": 16,
+      "conteudo": "**Senado Federal**  ",
+      "decisao": "quebra explícita Markdown de dois espaços, preservada do conversor"
+    }
+  ]
+}

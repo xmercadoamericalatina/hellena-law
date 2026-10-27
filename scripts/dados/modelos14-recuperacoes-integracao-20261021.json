@@ -1,0 +1,49 @@
+{
+  "casos_publicados_revistos": 14,
+  "reparados": [
+    {
+      "path": "federal/decretos/2010/dec-7420-2010-12-31.md",
+      "candidate": "federal/_candidatos_modelo7420_20261021_001/dec-7420-2010-12-31.md",
+      "sha256_preimagem": "3025e519aefb9242abb120d405d82cb85cced58f489a027f25c9d0524d9a513f",
+      "sha256_candidato": "58e1a5ec25d7fdb98a898673a8d0159cf161f670075953b002a775082f95ef17",
+      "sha256_fonte_pdf": "8c868284a94880bcfbd31facf63cd66eaee1a467a53bc8f4009c82877108ece2",
+      "fonte_suplemento": "https://www2.camara.leg.br/legin/fed/decret/2010/decreto-7420-31-dezembro-2010-609917-anexo-pe.pdf"
+    },
+    {
+      "path": "federal/decretos/2011/dec-7648-2011-12-21.md",
+      "candidate": "federal/_candidatos_modelo7648_20261021_002/dec-7648-2011-12-21.md",
+      "sha256_preimagem": "8926e07707ac938fc5d4e583526f55cdcdc3eb010d42b14c90301451c429db6b",
+      "sha256_candidato": "5410c3ab1bb564b5e56fabf1d5e239db5b8c5c388ec9af3e758314119ed5e14a",
+      "sha256_fonte_pdf": "4360bba01bd99e7ce9d1b87e28c4338a9a1d2134eeea984ae125614b10cedce3",
+      "fonte_suplemento": "https://www2.camara.leg.br/legin/fed/decret/2011/decreto-7648-21-dezembro-2011-612057-anexo-pe.pdf"
+    }
+  ],
+  "novas_pendencias": 12,
+  "total_pendencias": 2150,
+  "inspecao_root": "Fac-símiles dos modelos 2010 e 2011 inspecionados; diferenças estruturais e campos vazios mantidos; corpo principal conferido byte a byte. Ausência refere-se à transcrição, não à publicação original.",
+  "hashes": {
+    "federal/_overlay_modelo_proprio_20261020_001.json": "b84a916205ccb8bfa3691d2978a608ca46ddbe0a16191be443a59ce9cab878c4",
+    "federal/_overlay_modelo_proprio_20261020_001_receipts.jsonl.gz": "08840202f9ab2ac21551eb473c5cd3a802035bac6445f89ad105a95da0dc6a76",
+    "scripts/integridade_anexos_decreto.py": "c862389d3ad6544c06ccabed4cda8b13f7ff9fa010692e88d789e86e5207edc7",
+    "scripts/test_integridade_anexos_decreto.py": "44aaa028414fe54d89009cbf8322f36da9b152f7d1c320c65754edf332e25c99",
+    "federal/_recibo_guard_modelo_proprio_20261020_001.json": "c5e72e860d6d70238aff451c73259fa9bddcb6c4eddf74fa4180c7bb7637cb31",
+    "federal/_overlay_modelos_proprios_anteriores_20261020_002.json": "317ab68dcaf4934f2c1e2e07db1a19ca998eaa4f0235a5f0d588b7138743197a",
+    "federal/_receipts_modelos_proprios_anteriores_20261020_002.jsonl.gz": "f2cac2e25dada009d2fedf8f4ae1f34ed9f933b592aa64b4edb32e030329e2a5",
+    "federal/_provas_modelo7420_20261021_001/anexo-camara-dou20101231-p7.pdf": "8c868284a94880bcfbd31facf63cd66eaee1a467a53bc8f4009c82877108ece2",
+    "federal/_provas_modelo7420_20261021_001/anexo-cropbox-conferido.png": "f7ba7caec8877dd4786690023d859b8a9b78c5afa019541ac870b0a152d40575",
+    "federal/_provas_modelo7420_20261021_001/anexo-transcrito.html": "24e626d3219adee4df475800a60f291fb0713cfebc4c56a7c75849c6a9572ba2",
+    "federal/_candidatos_modelo7420_20261021_001/dec-7420-2010-12-31.md": "58e1a5ec25d7fdb98a898673a8d0159cf161f670075953b002a775082f95ef17",
+    "federal/_recuperacao_modelo7420_20261021_001.json": "3e503a7ee71f8a61c1470f3ddde0b59aa035ff2d01ccdea7f76885a6b0b94441",
+    "federal/_historico_modelo7420_20261021_001.jsonl.gz": "9660f07c540c081d19b85e01554e6804912020fed25fbe11e660181ee0f81354",
+    "federal/_provas_modelo7648_20261021_002/anexo-camara-dou20111222-p6-p7.pdf": "4360bba01bd99e7ce9d1b87e28c4338a9a1d2134eeea984ae125614b10cedce3",
+    "federal/_provas_modelo7648_20261021_002/anexo-cropbox-p1.png": "766fffdcd5b9bc5fe700153d0b5912e531d44ba64cf410ad61e5a9d666f41c5a",
+    "federal/_provas_modelo7648_20261021_002/anexo-cropbox-p2.png": "693c1cd42d6f92afff52b4d309471c92d7ed8c2cdf547c3dfc169206f5211ae8",
+    "federal/_provas_modelo7648_20261021_002/anexo-transcrito.html": "7dc59df0bd36b90aceeec8e7ce1f4fe2075a704442ac9626a34533be78a7a1bb",
+    "federal/_candidatos_modelo7648_20261021_002/dec-7648-2011-12-21.md": "5410c3ab1bb564b5e56fabf1d5e239db5b8c5c388ec9af3e758314119ed5e14a",
+    "federal/_recuperacao_modelo7648_20261021_002.json": "485c749165d518038ab1705ffdd21318cc36d812d0f0b691e998cafd73113131",
+    "federal/_historico_modelo7648_20261021_002.jsonl.gz": "db788318dfb04cfbf97fb9c2174920bf25cba34a1c962674d56dc85410ec49cd",
+    "federal/decretos/2010/dec-7420-2010-12-31.md": "58e1a5ec25d7fdb98a898673a8d0159cf161f670075953b002a775082f95ef17",
+    "federal/decretos/2011/dec-7648-2011-12-21.md": "5410c3ab1bb564b5e56fabf1d5e239db5b8c5c388ec9af3e758314119ed5e14a",
+    "scripts/dados/pendencias-integralidade-publicadas.json": "a1bd8a48a10ea29386da504886ac19158856e375319cd83a45cf488de0e8c0db"
+  }
+}

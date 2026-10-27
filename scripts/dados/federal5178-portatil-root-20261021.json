@@ -1,0 +1,15 @@
+{
+  "head": "dfd2cd20d8bf89ed6a4ea45a817232bc6f23f806",
+  "delta_recalculado": 6700,
+  "estrato_forte_recalculado": 5262,
+  "propostas_HEAD_reproduzidas_integralmente": 5178,
+  "metadados_API_arquivados": 5179,
+  "exclusoes": {
+    "literal_nao_localizado_ou_citacao_visual_requer_revisao": 16,
+    "fora_do_HEAD_inedito": 58,
+    "divergencia_identidade_ou_hash_metadados": 1,
+    "metadados_identidade_ausentes_no_MD": 9
+  },
+  "sha256_propostas": "9571df0d2db604c0b3fc49437f43fc231d1ebbe32393f8703414b835ca7e83fc",
+  "mutacoes": 0
+}

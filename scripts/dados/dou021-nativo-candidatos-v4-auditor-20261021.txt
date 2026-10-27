@@ -1,0 +1,28 @@
+from pathlib import Path
+import sys,json,gzip,re,hashlib,datetime as dt,collections,signal
+from zoneinfo import ZoneInfo
+sys.path[:0]=['/tmp/constituicao-markdown-qa-20261020','scripts','scripts/estados']
+from markdown_it import MarkdownIt
+from pe_fidelidade_visivel import texto_visivel_html,assinatura_numerica
+from representacao_html_dou import representar_fragmento,MODO_HTML_NATIVO
+from metadados_lotes import carregar
+import auditar_cache_dou as a
+sha=lambda b:hashlib.sha256(b).hexdigest();md=MarkdownIt('commonmark',{'html':True}).enable('table').enable('strikethrough');base=Path('reguladores/_fonte/auditorias/dou021-nativo-candidatos-v4-20261021');assert not base.exists();base.mkdir();checks=json.loads(Path('scripts/dados/reguladores-fidelidade-listas-20261021-021.json').read_text());held={r['path'] for r in checks['documentos'] if not(r['igual_fonte'] and r['assinatura_numerica_igual'])};assert len(held)==2394;gate=json.loads(Path('scripts/dados/reguladores-gates-20261021-021.json').read_text());rows=[r for r in gate['documentos'] if r['path'] in held];assert len(rows)==2394
+headers=carregar(Path.cwd(),Path('/tmp/constituicao-index-reguladores-head-v2-20261021.z').read_bytes());tracked={r['path'] for r in headers}
+for p in sum([Path(f).read_text().splitlines() for f in ['/tmp/reguladores6930-paths-20261021.txt','/tmp/reguladores9994-paths-20261021.txt','/tmp/reguladores-dou020-paths-20261021.txt','/tmp/reguladores-dou021-paths-20261021.txt']],[]):
+ if p.startswith('reguladores/') and p.endswith('.md'):
+  meta,_=a.meta_corpo(Path(p).read_text());headers.append({'path':p,'meta':meta});tracked.add(p)
+ids={a.identidade(r['meta']) for r in headers if all(a.identidade(r['meta']))};urls={r['meta'].get('fonte') for r in headers};out=[];counts=collections.Counter()
+def alarm(*args):raise TimeoutError('limite20s no candidato')
+signal.signal(signal.SIGALRM,alarm)
+for i,r in enumerate(rows,1):
+ p=r['path'];q={'path':p,'sha256_md_preimagem':r['sha256_md'],'cache':r['cache'],'sha256_fonte':r['sha256_fonte'],'aceito':False};signal.alarm(20)
+ try:
+  old=Path(p).read_bytes();assert sha(old)==r['sha256_md'] and p not in tracked;src=gzip.decompress(Path(r['cache']).read_bytes());assert sha(src)==r['sha256_fonte'];match=re.search(r'<div[^>]+class="[^\"]*texto-dou[^\"]*".*?</div>\s*(?=<div|</section|</main)',src.decode(),re.S);assert match;fragment=match[0];native=representar_fragmento(fragment,modo=MODO_HTML_NATIVO);visible=texto_visivel_html(fragment);actual=texto_visivel_html(md.render(native));assert visible==actual and assinatura_numerica(visible)==assinatura_numerica(actual),'GFM integral nao confere'
+  prefix,rest=old.decode().split('\n---\n',1);rest=rest.lstrip('\n');h1=rest.split('\n',1)[0];assert h1.startswith('# ') and 'representacao_corpo:' not in prefix;candidate=(prefix+'\nrepresentacao_corpo: "'+MODO_HTML_NATIVO+'"\n---\n'+h1+'\n\n'+native).encode();om,_=a.meta_corpo(old.decode());nm,_=a.meta_corpo(candidate.decode());assert nm.pop('representacao_corpo')==MODO_HTML_NATIVO and om==nm
+  record,meta=a.conferir(Path(p).resolve(),ids,urls,dt.datetime.now(ZoneInfo('America/Recife')).date(),bruto_md=candidate);ids.add(a.identidade(meta));urls.add(meta['fonte']);token=sha(p.encode());backup=base/(token+'.preimagem.md.gz');cp=base/(token+'.candidato.md.gz');backup.write_bytes(gzip.compress(old,mtime=0));cp.write_bytes(gzip.compress(candidate,mtime=0));q.update(aceito=True,candidato=str(cp),sha256_candidato_gzip=sha(cp.read_bytes()),sha256_md_candidato=sha(candidate),backup=str(backup),sha256_backup_gzip=sha(backup.read_bytes()),sha256_fragmento=sha(fragment.encode()),registro_auditor_integrado=record,igualdade_GFM=True,metadados_preservados_exceto_modo=True)
+ except Exception as e:q['motivo']=type(e).__name__+': '+str(e)
+ finally:signal.alarm(0)
+ out.append(q);counts['aceitos' if q['aceito'] else 'retidos']+=1
+ if i%100==0:print(i,dict(counts),flush=True)
+report=Path('scripts/dados/dou021-nativo-candidatos-v4-20261021.json');assert not report.exists();report.write_text(json.dumps({'total':len(out),'contagens':counts,'criterio':'Candidatos privados dos alertas de renderizacao. Fonte texto-dou preservada em modo HTML explicito ja suportado. Metadados/H1 e datas originais preservados, exceto campo de modo. GFM integral/sinais e auditor integrado de fonte/identidade/publicacao/integra suplementar repetidos, sem rede nem alteracao canonica. Exige promocao porpreimagem e cruzamento final antes de publicar.','helper_sha256':sha(Path('scripts/representacao_html_dou.py').read_bytes()),'auditor_sha256':sha(Path('scripts/auditar_cache_dou.py').read_bytes()),'script_sha256':sha(Path(__file__).read_bytes()),'documentos':out},ensure_ascii=False,indent=2)+'\n');print('FINAL',dict(counts),flush=True)

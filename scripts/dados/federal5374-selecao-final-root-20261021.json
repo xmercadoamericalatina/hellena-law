@@ -1,0 +1,36 @@
+{
+  "novas_finais": 5374,
+  "candidatos_preliminares": 5379,
+  "retencoes_adicionais": [
+    {
+      "path": "federal/decretos/1951/dec-29934-1951-08-28.md",
+      "sha256_md": "063760376ff5664a040695a279de28a6500abea6a0b0b16be3f827e5ff63f874",
+      "motivo": "trecho normativo explicitamente ilegivel"
+    },
+    {
+      "path": "federal/decretos/1951/dec-29140-1951-01-16.md",
+      "sha256_md": "cf44631a85b6a672c90f098ebfe7e3eb9bf1b4104482a25650df1cf61295d946",
+      "motivo": "trecho normativo explicitamente ilegivel"
+    },
+    {
+      "path": "federal/decretos/1950/dec-28624-1950-09-11.md",
+      "sha256_md": "b458d367f2d06377d9bf6fdf7a1089c84647855f0fc931c9a0539bd7dd2f14dd",
+      "motivo": "trecho normativo explicitamente ilegivel"
+    },
+    {
+      "path": "federal/decretos/1948/dec-25648-1948-10-11.md",
+      "sha256_md": "0230fc244b00cc3a1e33c697a3162227f36862700eeeeb6be7459292691d8a50",
+      "motivo": "trecho normativo explicitamente ilegivel"
+    },
+    {
+      "path": "federal/decretos/1949/dec-27362-1949-10-26.md",
+      "sha256_md": "18afb51b6025a091c49403d0bdf5fbaa1828f2801dbfb9b59e41bf836f14e93c",
+      "motivo": "desenhos/dimensoes proprios do Art3 nao identificados na fonte sem imagens/tabelas; formulario do Art29 e objeto diferente"
+    }
+  ],
+  "novas_pendencias_publicadas": 5178,
+  "pendencias_total": 7547,
+  "criterio": "Qualificacao final ROOT prevalece sobre selecoes preliminares congeladas5379. Cinco MDs conservados privadamente, com HTML/API primarios ja arquivados. Quatro lacunas literais nao se confundem com palavra ilegivel usada em comando legitimo; quinto formulario nao substitui desenhos proprios de outra remissao. Nenhum dos cinco foi publicado, nem entra no registro de pendencias de documentos publicados. Metas inalteradas.",
+  "arquivo_md_retidos": "federal/_retencoes5_fechamento_ROOT_20261021.jsonl.gz",
+  "sha256_arquivo_md_retidos": "beda11b0dc425f63d74529e6e2dc1df645f12f054669ef8c0ff8283d7b9462d9"
+}

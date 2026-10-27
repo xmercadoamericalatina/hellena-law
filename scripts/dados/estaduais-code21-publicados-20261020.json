@@ -1,0 +1,32 @@
+{
+  "criterio": "diff completo dos três coletores revisto; alterações preexistentes compatíveis de metadados preservadas, junto aos novos controles de fonte/PDF/tabelas; 48 testes passaram",
+  "arquivos": {
+    "scripts/estados/rs.py": "8433103848d47eb82a5545912e03cc52938a030f5f16ff3b2204dbc176eca690",
+    "scripts/estados/sapl.py": "82ef626536b694f6416b460f06697996f7b87afbeb64088e6261e7eee388f8b4",
+    "scripts/estados/mg.py": "5c04741340bfcd71bc4c322dfe29c7129c9e7ee540a3a99d292a1b124f7e24b9",
+    "scripts/estados/integridade_texto.py": "d882d0ca69b76c61b594561598634994ca25b350f67054eb08e8eecf97170a82",
+    "scripts/estados/test_integridade_texto.py": "98131cd4eb3f1b0b7755300cc73d0c48df1ea3bd937e0d18424a01517bf5cdd5",
+    "scripts/estados/integridade_por_tipo.py": "bf51b61192a8f2b45075e60d5e55e11093faf8a58a3a1fa59fc865f452e829bb",
+    "scripts/estados/test_integridade_por_tipo.py": "4e92704ec678e497b70f021c2fffcb216ad4f229038684bce3d59f10f7b48cea",
+    "scripts/estados/visuais_fonte.py": "7af530e7269f5258aed286228c95997e0a9a87f81f0bc75ec52f4442ba3d9f6c",
+    "scripts/estados/test_visuais_fonte.py": "a984a7b5b8614ca20a70814afd53456bd4eeca6e61b60160fcbf636b11807400",
+    "scripts/estados/anexos_fonte.py": "211524a336cfa09226baf8f810562aa394f3cd0d6715b909a53fce65042d6661",
+    "scripts/estados/test_anexos_fonte.py": "a42aabe21d30893ea0b190394dbd800f25efd870f165cb22ea1d1d924ab0aadb",
+    "scripts/estados/avisos_fonte.py": "913429d61b37e338f9b292b54e0f9d81e9f9adae0e8d386f5b22ea8f128479cd",
+    "scripts/estados/test_avisos_fonte.py": "f97176e901c467a034c844376ca4b5ae736752848f3c9fb93b9dce51b5ed0a7e",
+    "scripts/estados/pdf_texto_fiel.py": "8a7488a99a1b8b3661093f67263df586f9502ccf9758ca7c4c0a1184a602ed7a",
+    "scripts/estados/test_pdf_texto_fiel.py": "13dea516a9965177c8d0cca6503e6ae556493c219d79a48764e15704c7c93458",
+    "scripts/estados/tabelas_estrutura.py": "d0dde502c2794626bb9848673f23b2992d1722653c15bbf3768737408f9b6df7",
+    "scripts/estados/test_tabelas_estrutura.py": "49f70779aec8a4fedcce9b3511e5224d8873e615f27bb7322356d94632d17ee4",
+    "scripts/estados/test_rs_html.py": "94b22d49cb3d522adb3cb530cfb994f2aa0559c4d54db3ad83ec1b2721c776f0",
+    "scripts/estados/test_mg_fallback.py": "b7a212410ba2cb1ba627f62c16aaeb4ff8ee1f2481bb816f464a093617793198",
+    "scripts/estados/test_sapl_conversao.py": "f2a06cf3d069f53eecae6edff2f04cc2b1de6f617a3730ab69cc8a280265514f",
+    "scripts/estados/test_vigencia_coletores.py": "3c223deb45f7dd3afa318a71592c734415e65864743a4ee91c70598b491580ba",
+    "scripts/estados/manifestos/evidencias-rs-pdf/3623056bc283f74acf9baff539fd64a3ea4525d0c4698b601099984ff0da5c1c.png": "3623056bc283f74acf9baff539fd64a3ea4525d0c4698b601099984ff0da5c1c",
+    "scripts/estados/manifestos/evidencias-rs-pdf/3f43a31003be03369ace78d9d98c08cfc1ef716928681365559f39dfac24fc85.png": "3f43a31003be03369ace78d9d98c08cfc1ef716928681365559f39dfac24fc85",
+    "scripts/estados/manifestos/evidencias-rs-pdf/8b4827fcf5ec584241668661f5e3b5e326659243f93dc2a41d4fb99a47e512dd.png": "8b4827fcf5ec584241668661f5e3b5e326659243f93dc2a41d4fb99a47e512dd",
+    "scripts/estados/manifestos/evidencias-rs-pdf/a0f97b976f0ff8a59e8bb2983a1ae64a95a263d0d516f339c9e6b786ff2061f5.png": "a0f97b976f0ff8a59e8bb2983a1ae64a95a263d0d516f339c9e6b786ff2061f5",
+    "scripts/estados/manifestos/evidencias-rs-pdf/d02ad5068bea8d90d536a4acb877100d4251286c0a1ba2cf48e6a0304ac84cac.png": "d02ad5068bea8d90d536a4acb877100d4251286c0a1ba2cf48e6a0304ac84cac",
+    "scripts/estados/manifestos/rs-pdf-visuais-hashes-20261020-002.json": "b04de8c1dcec8816277cc8477a4ebedd3d56125e95d4d3d887529146af50a9fc"
+  }
+}
