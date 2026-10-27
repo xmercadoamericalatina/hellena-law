@@ -1,0 +1,456 @@
+{
+  "total_examinado": 3873,
+  "total_retido_conservador": 26,
+  "criterio": "Busca de outras epígrafes completas com data/ano em linha própria e em células de tabela; fechamento de células/p/blocos vira separador antes da busca, contemplando colunas. Referências corridas e legislação correlata editorial não são novas epígrafes. Retenção conservadora não é contaminação confirmada.",
+  "retidos": [
+    {
+      "path": "estaduais/BA/decretos/2026/decreto-no-24555-de-29-de-maio-de-2026.md",
+      "sha256_md": "ad8fcfd40b6eecfc2bfae92ba1970c15b117c9f716416f7031c854ed10c038bf",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-24555-de-29-de-maio-de-2026",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 03 DE 25 DE SETEMBRO DE 2023",
+          "antes": " DO ESTADO DA BAHIA, em 29 de maio de 2026.\n\nJERÔNIMO RODRIGUES\n\nGovernador\n\nCarlos Mello\n\nSecretário da Casa Civil em exercício\n\nJoaquim Belarmino Cardoso Neto\n\nSecretário de Desenvolvimento Urbano\n\n",
+          "depois": "\n\nDispõe sobre as diretrizes estabelecidas para os critérios de enquadramento e seleção de demandas por Habitação de Interesse Social do Programa Minha Casa, Minha Vida - PMCMV, no âmbito do Estado da"
+        },
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 03 DE 28 DE MARÇO DE 2025",
+          "antes": "neiro de 2018.\n\n**Art. 11** - Esta Resolução entra em vigor na data de sua publicação.\n\nSala das sessões, em 22 de setembro de 2023.\n\nJusmari Terezinha de Souza Oliveira\n\nPresidente do ConCidades/BA\n\n",
+          "depois": "\n\nAltera o § 1º do art. 1º da Resolução nº 03, de 25 de setembro de 2023 nos termos da Portaria MCID Nº 786, de 1º de agosto de 2024, na forma que indica.\n\n**O CONSELHO ESTADUAL DAS CIDADES DA BAHIA -"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/2024/decreto-no-22624-de-07-de-fevereiro-de-2024.md",
+      "sha256_md": "d6ea401f8245c9788624433c131e4dc928acc2bfe7fcd419985af6d1882cf194",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-22624-de-07-de-fevereiro-de-2024",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 01/2024",
+          "antes": "AHIA, em 07 de fevereiro de 2024.\n\n**republicação NO DOE EM 09.02.2024**\n\nJERÔNIMO RODRIGUES\n\nGovernador\n\nAfonso Bandeira Florence\n\nSecretário da Casa Civil\n\nCONSELHO DE POLÍTICAS DE INCLUSÃO SOCIAL\n\n",
+          "depois": "\n\nO **PRESIDENTE DO CONSELHO DE POLÍTICAS DE INCLUSÃO SOCIAL**, no uso das atribuições que lhe confere o art. 8º, inciso VI, do Regimento do referido Conselho, aprovado pelo Decreto nº 11.401, de 12 d"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/2023/decreto-no-21889-de-02-de-fevereiro-de-2023.md",
+      "sha256_md": "b253f47d20bff1d8d388d07755c155d68818e21c5030dec601ca68c743f837dd",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-21889-de-02-de-fevereiro-de-2023",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 01/2023",
+          "antes": "ão.\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 02 de fevereiro de 2023.\n\nJERÔNIMO RODRIGUES\n\nGovernador\n\nCarlos Mello\n\nSecretário da Casa Civil em exercício\n\nCONSELHO DE POLÍTICAS DE INCLUSÃO SOCIAL\n\n",
+          "depois": "\n\n**O PRESIDENTE DO CONSELHO DE POLÍTICAS DE INCLUSÃO SOCIAL**, no uso das atribuições que lhe confere o art. 8º, inciso VI, do Regimento do referido Conselho, aprovado pelo Decreto nº 11.401 de 12 de"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/2022/decreto-no-21487-de-30-de-junho-de-2022.md",
+      "sha256_md": "28ace579f8a79db0b7c0e110059d9907fb6832d2856c5bfb71b170a6ffe20db1",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-21487-de-30-de-junho-de-2022",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 002/2021",
+          "antes": "HIA, em 30 de junho de 2022.\n\nRUI COSTA\n\nGovernador\n\nCarlos Mello\n\nSecretário da Casa Civil em exercício\n\nEdelvino da Silva Góes Filho\n\nSecretário da Administração\n\nCONSELHO DE ADMINISTRAÇÃO DA EGBA\n\n",
+          "depois": "\n\n**O CONSELHO DE ADMINISTRAÇÃO DA EMPRESA GRÁFICA DA BAHIA - EGBA**, no uso de suas atribuições, em reunião realizada em 29 de dezembro de 2021,\n\nR E S O L V E\n\n**Art. 1º** - O art. 4º do Estatuto da"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/2022/decreto-no-21113-de-03-de-fevereiro-de-2022.md",
+      "sha256_md": "83ce8e7f7c973103198bb20c898df5bcb6dc39cb28908437f8f87ee927e8bfd6",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-21113-de-03-de-fevereiro-de-2022",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 01/2022",
+          "antes": " publicação.\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 03 de fevereiro de 2022.\n\nRUI COSTA\n\nGovernador\n\nCarlos Mello\n\nSecretário da Casa Civil em exercício\n\nCONSELHO DE POLÍTICAS DE INCLUSÃO SOCIAL\n\n",
+          "depois": "\n\n**O PRESIDENTE DO CONSELHO DE POLÍTICAS DE INCLUSÃO SOCIAL**, no uso das atribuições que lhe confere o art. 8º, inciso VI, do Regimento do referido Conselho, aprovado pelo Decreto nº 11.401, de 12 d"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20200-de-03-de-fevereiro-de-2021.md",
+      "sha256_md": "91236aab2312f059dc76eaf187e649927b18e1d8fa75ca7822fc3b70249a8642",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-20200-de-03-de-fevereiro-de-2021",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 01/2021",
+          "antes": " publicação.\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 03 de fevereiro de 2021.\n\nRUI COSTA\n\nGovernador\n\nCarlos Mello\n\nSecretário da Casa Civil em exercício\n\nCONSELHO DE POLÍTICAS DE INCLUSÃO SOCIAL\n\n",
+          "depois": "\n\nO **PRESIDENTE DO CONSELHO DE POLÍTICAS DE INCLUSÃO SOCIAL**, no uso das atribuições que lhe confere o art. 8º, inciso VI, do Regimento do referido Conselho, aprovado pelo Decreto nº 11.401 de 12 de"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/2020/decreto-no-20069-de-23-de-outubro-de-2020.md",
+      "sha256_md": "a4a30773c8abc84694be2da7cbef011b47140246489ead39d173d8c1206b595c",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-20069-de-23-de-outubro-de-2020",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 025 DE 16 DE JULHO DE 2019",
+          "antes": "20.\n\nRUI COSTA\n\nGovernador\n\nCarlos Mello\n\nSecretário da Casa Civil em exercício\n\nEdelvino da Silva Góes Filho\n\nSecretário da Administração\n\nJosias Gomes da Silva\n\nSecretário de Desenvolvimento Rural\n\n",
+          "depois": "\n\nAprova o Estatuto da Companhia de Desenvolvimento e Ação Regional - CAR.\n\n**O CONSELHO DE ADMINISTRAÇÃO DA COMPANHIA DE DESENVOLVIMENTO E AÇÃO REGIONAL - CAR**, no uso de suas competências estabelec"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/2020/decreto-no-19853-de-22-de-julho-de-2020.md",
+      "sha256_md": "896d5d20780739b8e1d1dbfd14ce6c5101ae504cf100ed4c71f82745c3ac8b56",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-19853-de-22-de-julho-de-2020",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 002/2020",
+          "antes": "HIA, em 22 de julho de 2020.\n\nRUI COSTA\n\nGovernador\n\nCarlos Mello\n\nSecretário da Casa Civil em exercício\n\nEdelvino da Silva Góes Filho\n\nSecretário da Administração\n\nCONSELHO DE ADMINISTRAÇÃO DA EGBA\n\n",
+          "depois": "\n\n**O CONSELHO DE ADMINISTRAÇÃO DA EMPRESA GRÁFICA DA BAHIA - EGBA**, no uso de suas atribuições, em reunião realizada em 18 de junho de 2020,\n\nR E S O L V E\n\n**Art. 1º** - O art. 4º do Estatuto Socia"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/2020/decreto-no-19441-de-30-de-janeiro-de-2020.md",
+      "sha256_md": "543e5e09f1b0d5c619b1760388630e07bff93d6d04270092363f482d23f6ec35",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-19441-de-30-de-janeiro-de-2020",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 01/2020",
+          "antes": "na data de sua publicação.\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 30 de janeiro de 2020.\n\nRUI COSTA\n\nGovernador\n\nBruno Dauster\n\nSecretário da Casa Civil\n\nCONSELHO DE POLÍTICAS DE INCLUSÃO SOCIAL\n\n",
+          "depois": "\n\n**O PRESIDENTE DO CONSELHO DE POLÍTICAS DE INCLUSÃO SOCIAL**, no uso das atribuições que lhe confere o art. 8º, inciso VI, do Regimento do referido Conselho, aprovado pelo Decreto nº 11.401 de 12 de"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/2000/decreto-no-7854-de-11-de-outubro-de-2000.md",
+      "sha256_md": "192ac00ad3670219f5d9a05776907601aebb76c50f66492ad550657c8b8fd78c",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-7854-de-11-de-outubro-de-2000",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "**LEI Nº 7.597, DE 07 DE FEVEREIRO DE 2000**",
+          "antes": "\n\nSérgio Ferreira\n\nSecretário de Governo\n\nPedro Barbosa de Deus\n\nSecretário da Agricultura, Irrigação e Reforma Agrária\n\n**REGULAMENTO DE DEFESA SANITÁRIA ANIMAL DO ESTADO DA BAHIA, DE QUE TRATA A**\n\n",
+          "depois": "\n\n#### CAPÍTULO I - — DA DEFESA SANITÁRIA ANIMAL\n\n##### SEÇÃO I - — Das Disposições Preliminares\n\n**Art. 1º** - A defesa sanitária animal no Estado da Bahia compreende a elaboração e execução de progr"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/2000/decreto-no-7798-de-05-de-maio-de-2000.md",
+      "sha256_md": "68dfaf9100855ee1db08ddf01cab0a10d053c48f88586e0d5128fe30c282c80d",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-7798-de-05-de-maio-de-2000",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "Decreto nº 8.826, de 18 de dezembro de 2003.",
+          "antes": "sociedades de crédito e cooperativas de crédito, obedecerão às seguintes condições:\n\nRedação do \"caput\" do art. 40 de acordo com o Decreto nº 9.220 de 10 de novembro de 2004.  \nRedações anteriores:  \n",
+          "depois": "\nDecreto nº 8.241, de 30 de abril de 2002.  \nDecreto nº 8.011, de 02 de agosto de 2001.  \nRedação original: \"Art. 40. Os financiamentos do Programa de Apoio a Projetos de Interesse Social- PAPIS, que "
+        },
+        {
+          "epigrafe_literal": "Decreto nº 8.241, de 30 de abril de 2002.",
+          "antes": ", obedecerão às seguintes condições:\n\nRedação do \"caput\" do art. 40 de acordo com o Decreto nº 9.220 de 10 de novembro de 2004.  \nRedações anteriores:  \nDecreto nº 8.826, de 18 de dezembro de 2003.  \n",
+          "depois": "\nDecreto nº 8.011, de 02 de agosto de 2001.  \nRedação original: \"Art. 40. Os financiamentos do Programa de Apoio a Projetos de Interesse Social- PAPIS, que visa estimular as empresas, obras e serviços"
+        },
+        {
+          "epigrafe_literal": "Decreto nº 8.011, de 02 de agosto de 2001.",
+          "antes": "o do \"caput\" do art. 40 de acordo com o Decreto nº 9.220 de 10 de novembro de 2004.  \nRedações anteriores:  \nDecreto nº 8.826, de 18 de dezembro de 2003.  \nDecreto nº 8.241, de 30 de abril de 2002.  \n",
+          "depois": "\nRedação original: \"Art. 40. Os financiamentos do Programa de Apoio a Projetos de Interesse Social- PAPIS, que visa estimular as empresas, obras e serviços de apoio a projetos de interesse social, obe"
+        },
+        {
+          "epigrafe_literal": "Decreto nº 11.029, de 29 de abril de 2008.",
+          "antes": "008.)\n\n2 - para investimentos fixos ou mistos, até R$ 5.000.000,00 (cinco milhões de reais)”;\n\nRedação de acordo com o art. 1º do Decreto nº 11.232, de 08 de outubro de 2008.  \nRedações anteriores:  \n",
+          "depois": "\nDecreto nº 10.413, de 03 de agosto de 2007  \nDecreto nº 9.427, de 18 de maio de 2005.  \nDecreto nº 9.131, de 05 de julho de 2004.  \nDecreto nº 8.571, de 25 de junho de 2003.  \nDecreto nº 8.426, de 27"
+        },
+        {
+          "epigrafe_literal": "Decreto nº 10.413, de 03 de agosto de 2007",
+          "antes": ", até R$ 5.000.000,00 (cinco milhões de reais)”;\n\nRedação de acordo com o art. 1º do Decreto nº 11.232, de 08 de outubro de 2008.  \nRedações anteriores:  \nDecreto nº 11.029, de 29 de abril de 2008.  \n",
+          "depois": "\nDecreto nº 9.427, de 18 de maio de 2005.  \nDecreto nº 9.131, de 05 de julho de 2004.  \nDecreto nº 8.571, de 25 de junho de 2003.  \nDecreto nº 8.426, de 27 de janeiro de 2003.  \nDecreto nº 8.416, de 0"
+        },
+        {
+          "epigrafe_literal": "Decreto nº 9.427, de 18 de maio de 2005.",
+          "antes": ")”;\n\nRedação de acordo com o art. 1º do Decreto nº 11.232, de 08 de outubro de 2008.  \nRedações anteriores:  \nDecreto nº 11.029, de 29 de abril de 2008.  \nDecreto nº 10.413, de 03 de agosto de 2007  \n",
+          "depois": "\nDecreto nº 9.131, de 05 de julho de 2004.  \nDecreto nº 8.571, de 25 de junho de 2003.  \nDecreto nº 8.426, de 27 de janeiro de 2003.  \nDecreto nº 8.416, de 09 de janeiro de 2003.  \nDecreto nº 8.571, d"
+        },
+        {
+          "epigrafe_literal": "Decreto nº 9.131, de 05 de julho de 2004.",
+          "antes": "reto nº 11.232, de 08 de outubro de 2008.  \nRedações anteriores:  \nDecreto nº 11.029, de 29 de abril de 2008.  \nDecreto nº 10.413, de 03 de agosto de 2007  \nDecreto nº 9.427, de 18 de maio de 2005.  \n",
+          "depois": "\nDecreto nº 8.571, de 25 de junho de 2003.  \nDecreto nº 8.426, de 27 de janeiro de 2003.  \nDecreto nº 8.416, de 09 de janeiro de 2003.  \nDecreto nº 8.571, de 25 de junho de 2003.\n\n**IV-A** - em se tra"
+        },
+        {
+          "epigrafe_literal": "Decreto nº 8.571, de 25 de junho de 2003.",
+          "antes": "Redações anteriores:  \nDecreto nº 11.029, de 29 de abril de 2008.  \nDecreto nº 10.413, de 03 de agosto de 2007  \nDecreto nº 9.427, de 18 de maio de 2005.  \nDecreto nº 9.131, de 05 de julho de 2004.  \n",
+          "depois": "\nDecreto nº 8.426, de 27 de janeiro de 2003.  \nDecreto nº 8.416, de 09 de janeiro de 2003.  \nDecreto nº 8.571, de 25 de junho de 2003.\n\n**IV-A** - em se tratando de financiamentos para capital de giro"
+        },
+        {
+          "epigrafe_literal": "Decreto nº 8.426, de 27 de janeiro de 2003.",
+          "antes": " 29 de abril de 2008.  \nDecreto nº 10.413, de 03 de agosto de 2007  \nDecreto nº 9.427, de 18 de maio de 2005.  \nDecreto nº 9.131, de 05 de julho de 2004.  \nDecreto nº 8.571, de 25 de junho de 2003.  \n",
+          "depois": "\nDecreto nº 8.416, de 09 de janeiro de 2003.  \nDecreto nº 8.571, de 25 de junho de 2003.\n\n**IV-A** - em se tratando de financiamentos para capital de giro, concedidos por meio de processo simplificado"
+        },
+        {
+          "epigrafe_literal": "Decreto nº 8.416, de 09 de janeiro de 2003.",
+          "antes": "03 de agosto de 2007  \nDecreto nº 9.427, de 18 de maio de 2005.  \nDecreto nº 9.131, de 05 de julho de 2004.  \nDecreto nº 8.571, de 25 de junho de 2003.  \nDecreto nº 8.426, de 27 de janeiro de 2003.  \n",
+          "depois": "\nDecreto nº 8.571, de 25 de junho de 2003.\n\n**IV-A** - em se tratando de financiamentos para capital de giro, concedidos por meio de processo simplificado de análise de crédito a empresas, microempree"
+        },
+        {
+          "epigrafe_literal": "Decreto nº 8.571, de 25 de junho de 2003.",
+          "antes": " de maio de 2005.  \nDecreto nº 9.131, de 05 de julho de 2004.  \nDecreto nº 8.571, de 25 de junho de 2003.  \nDecreto nº 8.426, de 27 de janeiro de 2003.  \nDecreto nº 8.416, de 09 de janeiro de 2003.  \n",
+          "depois": "\n\n**IV-A** - em se tratando de financiamentos para capital de giro, concedidos por meio de processo simplificado de análise de crédito a empresas, microempreendedores, empresários individuais ou coope"
+        },
+        {
+          "epigrafe_literal": "Decreto nº 11.232, de 08 de outubro de 2008.",
+          "antes": "partir de 1º de janeiro de 2009. ( Art. 3º do Decreto nº 11.232, de 08 de outubro de 2008.)  \nRedação de acordo com o art. 1º do Decreto nº 14.124, de 06 de setembro de 2012.  \nRedações anteriores:  \n",
+          "depois": "\nDecreto nº 10.413, de 03 de agosto de 2007.  \nDecreto nº 9.427, de 18 de maio de 2005.  \nDecreto nº 9.131, de 05 de julho de 2004.  \nDecreto nº 8.416, de 09/01/03, que acresceu este parágrafo ao art."
+        },
+        {
+          "epigrafe_literal": "Decreto nº 10.413, de 03 de agosto de 2007.",
+          "antes": "ecreto nº 11.232, de 08 de outubro de 2008.)  \nRedação de acordo com o art. 1º do Decreto nº 14.124, de 06 de setembro de 2012.  \nRedações anteriores:  \nDecreto nº 11.232, de 08 de outubro de 2008.  \n",
+          "depois": "\nDecreto nº 9.427, de 18 de maio de 2005.  \nDecreto nº 9.131, de 05 de julho de 2004.  \nDecreto nº 8.416, de 09/01/03, que acresceu este parágrafo ao art. 40.\n\n** § 2º-A -** Sobre os encargos estabele"
+        },
+        {
+          "epigrafe_literal": "Decreto nº 9.427, de 18 de maio de 2005.",
+          "antes": "\nRedação de acordo com o art. 1º do Decreto nº 14.124, de 06 de setembro de 2012.  \nRedações anteriores:  \nDecreto nº 11.232, de 08 de outubro de 2008.  \nDecreto nº 10.413, de 03 de agosto de 2007.  \n",
+          "depois": "\nDecreto nº 9.131, de 05 de julho de 2004.  \nDecreto nº 8.416, de 09/01/03, que acresceu este parágrafo ao art. 40.\n\n** § 2º-A -** Sobre os encargos estabelecidos no item 1, da alínea “c“ do inciso IV"
+        },
+        {
+          "epigrafe_literal": "Decreto nº 9.131, de 05 de julho de 2004.",
+          "antes": " nº 14.124, de 06 de setembro de 2012.  \nRedações anteriores:  \nDecreto nº 11.232, de 08 de outubro de 2008.  \nDecreto nº 10.413, de 03 de agosto de 2007.  \nDecreto nº 9.427, de 18 de maio de 2005.  \n",
+          "depois": "\nDecreto nº 8.416, de 09/01/03, que acresceu este parágrafo ao art. 40.\n\n** § 2º-A -** Sobre os encargos estabelecidos no item 1, da alínea “c“ do inciso IV deste artigo serão concedidos bônus de adim"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27606-de-10-de-outubro-de-1980.md",
+      "sha256_md": "3ffb2a3bf6dcf1c9ae1cf18cd1f1748d2b7efdc7440712300c8add70c8aff33b",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-27606-de-10-de-outubro-de-1980",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 01 DE 06 DE OUTUBRO DE 1980",
+          "antes": "a em vigor na data de sua publicação, ficando revogadas as disposições em contrario.\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 10 de outubro de 1980.\n\nCONSELHO ESTADUAL DE DESENVOLVIMENTO ECON0MICO\n\n",
+          "depois": "\n\nInstitui o PROGRAMA DE FOMENTO A INDÚSTRIA QUÍMICA DA BAHIA e dá outras providências\n\n**O CONSELHO ESTADUAL DE DESENVOLVIMENTO ECONÔMICO**, no uso de suas atribuições, e\n\nCONSIDERANDO o atual estagi"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27605-de-09-de-outubro-de-1980.md",
+      "sha256_md": "ce475ac1993b446c101b2106eb2429bd534c2ac48c1072605c63616b70ee0ea0",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-27605-de-09-de-outubro-de-1980",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 54 DE 08 DE OUTUBRO DE 1980",
+          "antes": " Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 09 de outubro de 1980.\n\nANTONIO CARLOS MAGALHÃES\n\nGovernador\n\n",
+          "depois": "\n\nAdota medidas para redução das atividades poluidoras da Cia. Brasileira de Chumbo - COBRAC e da outras providencias.\n\n**O CONSELHO ESTADUAL DE PROTEÇÃO AMBIENTAL - CEPRAM**, em sua reunião realizada"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27483-de-21-de-agosto-de-1980.md",
+      "sha256_md": "9d01f3122860e335b863294db777a81fa5d3b812995f1dd3395c5cc028fd8490",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-27483-de-21-de-agosto-de-1980",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 03/80",
+          "antes": " Decreto entra em vigor na data de sua publicação, ficando revogadas as disposições em contrário.\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 21 de agosto de 1980.\n\nJUNTA COMERCIAL DO ESTADO DA BAHIA\n\n",
+          "depois": "\n\nAltera o Regimento da junta Comercial do Estado da Bahia\n\nO PLENÁRIO DA JUNTA COMERCIAL DO ESTADO DA BAHIA, no uso de suas atribuições previstas no art. 11, inc. I, da Lei Federal nº 4.726/65 e art."
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27402-de-09-de-julho-de-1980.md",
+      "sha256_md": "f4416a16419a5d347f42f2c3fe2e1370e796c465b7b22abdc45562c0088946d3",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-27402-de-09-de-julho-de-1980",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 01/80",
+          "antes": " primitiva, até 11.08.85.\n\n**Art. 3º** - Este Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrario.\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 09 de julho de 1980.\n\n",
+          "depois": "\n\nSugere seja prorrogado o prazo da Isenção do Imposto sobre Circulação de Mercadorias concedido a LUXOR MOTÉIS TURISMO S/A - Hotel Luxor Pousada da Feira.\n\nO CONSELHO DE ADMINISTRAÇÃO DA EMPRESA DE T"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27401-de-09-de-julho-de-1980.md",
+      "sha256_md": "1492f51e3e4aafe0b8475bac25eed9d2d41eafd273b3036b1e412256f35d3dae",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-27401-de-09-de-julho-de-1980",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 02/80",
+          "antes": " primitiva, até 11.08.85.\n\n**Art. 3º** - Este Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário.\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 09 de julho de 1980.\n\n",
+          "depois": "\n\nSugere seja prorrogado o prazo da Isenção do Imposto sobre Circulação de Mercadorias concedido à LUXOR MOTÉIS TURISMO S/A - Luxor Pousada da Conquista.\n\nO CONSELHO DE ADMINISTRAÇÃO DA EMPRESA BB TUR"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27400-de-09-de-julho-de-1980.md",
+      "sha256_md": "919ddd56e87d22ee6b74ed83663b5a9f193b2141734e6bc7d0cfe392ff3776cb",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-27400-de-09-de-julho-de-1980",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO nº 03/80",
+          "antes": " primitiva, até 29.06.85.\n\n**Art. 3º** - Este Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário.\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 09 de julho de 1980.\n\n",
+          "depois": "\n\nSugere seja prorrogado o prazo da Isenção do Imposto sobre Circulação de Mercadorias concedido à LAZAR EMPREENDIMENTOS TURÍSTICOS S/A - LAZEMTUR - Grande Hotel de Juazeiro.\n\nO CONSELHO DE ADMINISTRA"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27399-de-09-de-julho-de-1980.md",
+      "sha256_md": "56ca628d8d0b80d6d97739a7365977f46ef213e03eb10ec2086a3ee7d87d16dc",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-27399-de-09-de-julho-de-1980",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 04/80",
+          "antes": " primitiva, até 29.06.85.\n\n**Art. 3º** - Este Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário.\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 09 de julho de 1980.\n\n",
+          "depois": "\n\nSugere seja prorrogado o prazo de Isenção do Imposto sobre Circulação de Mercadorias concedido à LAZAR EMPREENDIMENTOS TURÍSTICOS S/A – LAZEMTUR – Grande Hotel de Itaparica\n\nO CONSELHO DE ADMINISTRA"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27336-de-23-de-maio-de-1980.md",
+      "sha256_md": "a0205d4c57eed46bd2c83897151b1ab0691107bb5f7a6f83c999089e016dc7cc",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-27336-de-23-de-maio-de-1980",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 02/80",
+          "antes": "\n\n**Art. 2º** - Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrario.\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 23 de maio de 1980.\n\nANTONIO CARLOS MAGALHÃES\n\n",
+          "depois": "\n\nAltera os artigos 5º e 12 dos Estatutos da Fundação Centro de Desenvolvimento Industrial – CEDIN e dá outras providencias.\n\nO CONSELHO DIRETOR DA FUNDAÇÃO CENTRO DE DESENVOLVIMENTO INDUSTRIAL - CEDI"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-27153-de-26-de-dezembro-de-1979.md",
+      "sha256_md": "bbcd7e32eea6204fd66ce830c7e9feedb7432051e5e6bd47d10bce088aae59b7",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-27153-de-26-de-dezembro-de-1979",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 06/79",
+          "antes": "to entra em vigor na data de sua publicação, revogadas as disposições em contrário.\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 26 de dezembro de 1979.\n\nANTONIO CARLOS MAGALHÃES\n\nGovernador do Estado\n\n",
+          "depois": "\n\nO CONSELHO DELIBERATIVO DA FUNDAÇRO PARA O DESENVOLVIMENTO DE COMUNIDADES DO ESTADO DA BAHIA, no uso de suas competências, em reunião ordinária realizada em 29 de outubro de 1979.\n\nR E S O L V E\n\nal"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-27133-de-17-de-dezembro-de-1979.md",
+      "sha256_md": "a75ae9aca0c0defc3ebdd310a111c555e2cfd3752b2f136cd88882cbdeffbfee",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-27133-de-17-de-dezembro-de-1979",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 15/79",
+          "antes": "ue com este se publica.\n\n**Art. 2º** - Este decreto entra em vigor na data de sua publicação revogadas as disposições em contrário.\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 17 de dezembro de 1979.\n\n",
+          "depois": "\n\nAprova a alienação de uma área no Distrito Industrial de Jequié, no município de mesmo nome.\n\nO CONSELHO DIRETOR DA FUNDAÇÃO CENTRO DE DESENVOLVIMENTO INDUSTRIAL - CEDIN, no uso de suas atribuições,"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-27086-de-06-de-dezembro-de-1979.md",
+      "sha256_md": "9c0f29788bc89bb8fd2fa2d130238346117fb040b00edf71e094cfebc2c1665f",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-27086-de-06-de-dezembro-de-1979",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 09/79",
+          "antes": " que com este se publica.\n\n**Art. 2º** - Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 06 de dezembro 1979.\n\n",
+          "depois": "\n\nRevoga o contido nos §§ 1º e 2º, do art.1º, da Resolução nº 07/79, de 25 de setembro de 1979 e dá outras providências.\n\n**O CONSELHO DIRETOR DA FUNDAÇÃO CENTRO DE DESEVOLVIMENTO INDUSTRIAL - CEDIN**"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-26760-de-13-de-junho-de-1979.md",
+      "sha256_md": "455a811faddec18e513625068d05ea0af4c0fb43437fd632d4efe419deef1b75",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-26760-de-13-de-junho-de-1979",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 14/79",
+          "antes": " que com este se publica.\n\n**Art. 2º** - Este decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário,\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 13 de junho de 1979.\n\n",
+          "depois": "\n\nO Conselho Deliberativo do Centro Industriei de Aratu, no uso das atribuições que lhe confere o artigo 5º, inciso IX do Decreto nº 20.126 de 12.01.1967, combinado com o artigo 4º do Decreto nº 20.56"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-26643-de-09-de-fevereiro-de-1979.md",
+      "sha256_md": "f321f129e8f627d18a861230562a665def2a8dbee8df9798942c98a87a6579b2",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-26643-de-09-de-fevereiro-de-1979",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 40/78",
+          "antes": "sistência e Previdência do Servidor do Estado da Bahia, que com este se publica.\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 09 de fevereiro de 1979.\n\nROBERTO FIGUEIRA SANTOS\n\nJORGE FRANCISCO MEDAUAR\n\n",
+          "depois": "\n\nAcrescenta Parágrafos ao Art. 36 do Regulamento Geral do Instituto de Assistência e Previdência do Servidor do Estado da Bahia.\n\n**O CONSELHO ASSISTENCIAL E PREVIDENCIÁRIO**, no uso da atribuição co"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-26635-de-02-de-fevereiro-de-1979.md",
+      "sha256_md": "dedc489bc536c473ed27639e003fa073f4aed63912e6342f487da9992bc89d63",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-26635-de-02-de-fevereiro-de-1979",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "DECRETO Nº 26.640, DE 07 DE FEVEREIRO DE 1979",
+          "antes": "......................\n\nAs presentes alterações do Regimento do Instituto Industrial Visconde de Mauá foram aprovadas em sessão ordinária do Conselho Consultivo, realizada em 21 de dezembro de 1978.\n\n",
+          "depois": "\n\nHomologa a Resolução nº 1, de 18 de janeiro de 1979, do Conselho de Procuradores do Estado.\n\n**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,\n\nD E C R E T A\n\n**Artigo** único - Fica "
+        },
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 01/79.",
+          "antes": "janeiro de 1979, do Conselho de Procuradores do Estado, que com este se publica.\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 07 de fevereiro de 1979.\n\nROBERTO FIGUEIRA SANTOS\n\nJORGE FRANCISCO MEDAUAR\n\n",
+          "depois": "\n\nO CONSELHO DE PROCURAPORES DO ESTADO, reunido nesta data, em Sessão Extraordinária,\n\nR E S O L V E, à unanimidade, propor ao Exmo. Sr. Governador alteração do art. 1º do Decreto nº 24.885/75, que \"I"
+        },
+        {
+          "epigrafe_literal": "DECRETO Nº 26.641, DE 07 DE FEVEREIRO DE 1979",
+          "antes": "vinte mil cruzeiros) o valor de cada prêmio a ser pago aos vencedores a partir do corrente ano.\n\nSALA VAS SESSÕES, em 18 de janeiro de 1979.\n\nPRESIDENTE\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n",
+          "depois": "\n\nRegulamenta a Lei nº 3.650, de 19 maio de 1978, e dá outras providências.\n\n**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições,\n\nD E C R E T A\n\nCAPITULO I  \nNatureza, Sede e Foro\n\n**Art."
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/BA/decretos/1977/decreto-no-25979-de-07-de-dezembro-de-1977.md",
+      "sha256_md": "7720636826c467fa65f3d8b8b7a84d20e4d0cf0737e95a90a496cea67a7c95c9",
+      "fonte": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-25979-de-07-de-dezembro-de-1977",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "RESOLUÇÃO Nº 04/77",
+          "antes": " com este se publicam.\n\n**Art. 2º** - Este decreto entra em vigor na data de sua publicação, revogadas as disposições em contrario.\n\nPALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 07 de dezembro de 1977.\n\n",
+          "depois": "\n\nO CONSELHO ADMINISTRATIVO no uso de suas atribuições com fundamento no Artigo 5, item IX do Decreto 28.420 de 04 de maio de 1973.\n\nR E S O L V E;\n\nAlterar o Estatuto da Fundação do Patrimônio na for"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    }
+  ]
+}

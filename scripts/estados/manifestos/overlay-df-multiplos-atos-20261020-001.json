@@ -1,0 +1,246 @@
+{
+  "total_examinado": 18676,
+  "total_retido_conservador": 16,
+  "criterio": "Busca de outras epígrafes completas com data/ano em linha própria e em células de tabela; fechamento de células/p/blocos vira separador antes da busca, contemplando colunas. Referências corridas e legislação correlata editorial não são novas epígrafes. Retenção conservadora não é contaminação confirmada.",
+  "retidos": [
+    {
+      "path": "estaduais/DF/portarias/1998/port-1a-1998-01-07.md",
+      "sha256_md": "fe27da5c0281ce8da5939a473e7ee07fc0e5a6db9730329b827856cc0d7ab789",
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/32a858858b7649e397c9deb5c6f8840f/sefp_prt_1_1998.html",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "**PORTARIA Nº 1 , DE 7 DE JANEIRO DE 1998**",
+          "antes": "\n",
+          "depois": "\n\nDispõe sobre a prorrogação de prazo de emissão dos documentos fiscais que menciona.\n\nO SECRETÁRIO-ADJUNTO DE FAZENDA E PLANEJAMENTO, no uso de suas atribuições regimentais e tendo em vista o dispost"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/DF/decretos/1999/dec-20766-1999-10-29.md",
+      "sha256_md": "e1ba21cce682ba360c6704f139336ed5f73bc7bd5cc75e5c4fe8912dd698f667",
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/37477/exec_dec_20766_1999.html",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "**DECRETO N.° 20.706, DE 29 DE OUTUBRO DE 1999**",
+          "antes": "\n",
+          "depois": "\n\nReverte ao patrimônio da Companhia Imobiliária de Brasília - TERRACAP, o imóvel que especifica.\n\nO GOVERNADOR DO DISTRITO FEDERAL, no uso das atribuições que lhe confere o artigo 100, inciso VII, da"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/DF/decretos/1999/dec-20690-1999-10-11.md",
+      "sha256_md": "db391fd5b0e5f354c97c21b499683b754123cd16805253d87e2260f436557de3",
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/37353/exec_dec_20690_1999.html",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "**DECRETO N° 20.190, DE 11 DE OUTUBRO DE 1999**",
+          "antes": "\n",
+          "depois": "\n\nCriar Grupo Executivo de Trabalho para coordenar açôes relacionadas à melhoria da qualidade dos serviços de transporte público, incluindo a operação e a gestão de todos os modos, das condições de ci"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/DF/decretos/1999/dec-20087-1999-03-09.md",
+      "sha256_md": "4c04932177aba900ac34435043cdeafb47ab8dba43eac9550b815b5e1895f1f7",
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/36116/exec_dec_20083_1999.html",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "**DECRETO Nº 20.083, DE 9 DE MARÇO DE 1999**",
+          "antes": "\n",
+          "depois": "\n\nConstitui Comissão Especial incumbida de realizar e executar a programação comemorativa do V Centenário do Descobrimento do Brasil.\n\nO GOVERNADOR DO DISTRITO FEDERAL, no uso das atribuições que lhe "
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/DF/decretos/1997/dec-18742-1997-10-23.md",
+      "sha256_md": "ed45f907c14660400d7cf6cba5d9fd2500790de8649f9f9d16635f2583895560",
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/32697/exec_dec_18742_1997.html",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "**DECRETO N° 18472, DE 23 DE OUTUBRO DE 1997**",
+          "antes": "\n",
+          "depois": "\n\nAbre crédito suplementar, no valor de R$ 4.085.000,00 (quatro milhões e oitenta e cinco mil reais), para reforço de dotações orçamentarias consignadas no vigente orçamento.\n\nO GOVERNADOR DO DISTRITO"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/DF/decretos/1997/dec-18732-1997-10-17.md",
+      "sha256_md": "1b6eb74d70945a63498662ea91843c4ebe0417fdb7fdc9e743b82faaae8206db",
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/32673/exec_dec_18732_1997.html",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "**DECRETO N° 18372, DE 17 DE OUTUBRO DE 1997.**",
+          "antes": "\n",
+          "depois": "\n\nAprova a inclusão do subitem 18.e nas Normas de Edificação, Uso e Gabarito - NGB 104/93 e NGB 105/93, Região Administrativa do Lago Norte - RA XVIII.\n\nO GOVERNADOR DO DISTRITO FEDERAL, no uso das at"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/DF/decretos/1996/dec-17274-1996-04-09.md",
+      "sha256_md": "55751bc7048dcaad666e9055bff93f2bfd578a4f7ebb657532554681a79e7954",
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/f8a724249a614fd8aa62a999ee290a71/exec_dec_17724_1996.html",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "**DECRETO Nº 17.724, DE 19 DE OUTUBRO DE 1996**",
+          "antes": "\n",
+          "depois": "\n\n(Revogado(a) pelo(a) Decreto 18791 de 04/11/1997)\n\nAltera o parágrafo único do art. 7º do Decreto nº 11.456, de 20 de fevereiro de 1989, que dispõe sobre o procedimento e a declaração e anistia, cri"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/DF/decretos/1994/dec-16108-1994-11-30.md",
+      "sha256_md": "a8c60a3fc15ae481a7873c897e441899b49bd30e7a985427170d3c480272da42",
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/27077/exec_dec_16108_1994.html",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "**DECRETO Nº 16.128, DE 30 DE NOVEMBRO DE 1994.**",
+          "antes": "\n",
+          "depois": "\n\nAutoriza em caráter excepcional e facultativo a utilização da Bandeira II, no Serviço de Táxis do Distrito Federal.\n\nO GOVERNADOR DO DISTRITO FEDERAL, no uso das atribuições que lhe confere o artigo"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/DF/decretos/1989/dec-11646-1989-06-21.md",
+      "sha256_md": "70a2e23e776c4b743046e5a2fa4808d9d7a120774757b2e575d4c3f0d83a6fd9",
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/17553/exec_dec_11642_1989.html",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "**DECRETO Nº 11.642 DE 19 DE JUNHO DE 1989**",
+          "antes": "\n",
+          "depois": "\n\nAbre crédito suplementar no valor de NCz$ 8.800,00 (oito mil, oitocentos cruzados novos), à dotação do orçamento vigente que especifica.\n\nO GOVERNADOR DO DISTRITO FEDERAL, no uso das atribuições que"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/DF/decretos/1989/dec-11511-1989-04-10.md",
+      "sha256_md": "7309dbd1d466ec37e404ba4aef21a123cbb7d7c8dbb9ba94a799070dc84b2d68",
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/17311/exec_dec_11512_1989.html",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "**DECRETO N° 11.512 DE 10 DE ABRIL DE 1989**",
+          "antes": "\n",
+          "depois": "\n\nAbre crédito suplementar no valor de NCz$ 84.941,62 (oitenta e quatro mil, novecentos e quarenta e um cruzados novos e sessenta e dois centavos), às dotações do orçamento vigente que especifica.\n\nO "
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/DF/decretos/1985/dec-8783-1985-07-26.md",
+      "sha256_md": "3776de300a607c5f68a0b05c54006c3b5c4f13da16c0270afc93b4eda7446b08",
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/12168/exec_dec_8782_1985.html",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "**DECRETO N.º 8.782 DE 26 DE JULHO DE 1985**",
+          "antes": "\n",
+          "depois": "\n\nAbre crédito suplementar no valor de Cr$ 2.835.090.000 (dois bilhões, oitocentos e trinta e cinco milhões e noventa mil cruzeiros), às dotações do orçamento vigente que especifica.\n\nO GOVERNADOR DO "
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/DF/decretos/1983/dec-7516-1983-05-17.md",
+      "sha256_md": "2e3f8c72d235f268cfe8a766b2e6b458e124b098a91eb00e5d3e7ea6e70a6489",
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/9999/exec_dec_7516_1983.html",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "**RESOLUÇÃO Nº 01, DE 22 DE DEZEMBRO DE 1982.**",
+          "antes": "disposições em contrário.\n\n**Brasília, 17 de maio de 1983.**\n\n**95º da República e 24º de Brasília.**\n\n**JOSÉ ORNELLAS DE SOUZA FILHO.**\n\n**CESAR ROMULO SILVEIRA NETO.**\n\n**EURIDES BRITO DA SILVA.**\n\n",
+          "depois": "\n\n**Aprova o Regimento da Comissão de Moral e Civismo do Distrito Federal-COMOCI-DF e dá outras providências.**\n\n**Os membros da Comissão de Moral e Civismo do Distrito Federal, no uso das atribuições"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/DF/decretos/1979/dec-4898-1979-11-08.md",
+      "sha256_md": "19a17d834d7a992712a6335ee1c584baedab50c94c0123620ca449a13e59c0c8",
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/6726/exec_dec_4849_1979.html",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "**DECRETO Nº 4.849 DE 09 DE outubro DE 1979**",
+          "antes": "\n",
+          "depois": "\n\nAprova as plafitas dos setores que mencionara.\n\nO Governador do Distrito Federal, no uso das atribuições que lhe são conferidas pelo Item II, do artigo 20, da Lei nº 3751, de 13 de abril de 1.960, e"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/DF/decretos/1961/dec-55-1961-05-30.md",
+      "sha256_md": "f99e106dfc9ec6fb9e8687f391d76a828a97a6520fae54b196abd3f9ae9af3fa",
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/74/exec_dec_55_1961.html",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "Lei nº 4.545, de 10 de Dezembro de 1964",
+          "antes": "\n",
+          "depois": "\n\n**DECRETO Nº 55, DE 30 DE MAIO DE 1961**\n\nO Prefeito do Distrito Federal, usando da autoridade contida no art. 47, parágrafo único da Lei nº 3.751, de 13 de abril de 1960,\n\nDECRETA:\n\nArt. 1º- Fica i"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/DF/sumulas/1999/sum-76-1999-04-13.md",
+      "sha256_md": "f75888d11ae62022004ed5a82a78edc1b65f1996404d7b3f7aaca530c5f165ce",
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/68157/tcdf_sml_76_1999.html",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "Lei n.º 3.765/60.",
+          "antes": " não integralizada pelo militar ainda em vida, poderá ser cobrada, parceladamente, de seus beneficiários, desde que atualizada e observada a legislação referente às averbações em folha de pagamento.\n\n",
+          "depois": "\n\nLei n.º 5.774/71.\n\nLei n.º 6.022/74.\n\nLei n.º 6.023/74.\n\nDecisão TCDF de 05.03.92 - Processo n.º 5.790/91.\n\nOF. GP. 1.689/90 - Processo n.º 3.870/89.\n\nTranscrição da ata da Sessão Ordinária nº 3.407"
+        },
+        {
+          "epigrafe_literal": "Lei n.º 5.774/71.",
+          "antes": "pelo militar ainda em vida, poderá ser cobrada, parceladamente, de seus beneficiários, desde que atualizada e observada a legislação referente às averbações em folha de pagamento.\n\nLei n.º 3.765/60.\n\n",
+          "depois": "\n\nLei n.º 6.022/74.\n\nLei n.º 6.023/74.\n\nDecisão TCDF de 05.03.92 - Processo n.º 5.790/91.\n\nOF. GP. 1.689/90 - Processo n.º 3.870/89.\n\nTranscrição da ata da Sessão Ordinária nº 3.407, de 13 de abril de"
+        },
+        {
+          "epigrafe_literal": "Lei n.º 6.022/74.",
+          "antes": "em vida, poderá ser cobrada, parceladamente, de seus beneficiários, desde que atualizada e observada a legislação referente às averbações em folha de pagamento.\n\nLei n.º 3.765/60.\n\nLei n.º 5.774/71.\n\n",
+          "depois": "\n\nLei n.º 6.023/74.\n\nDecisão TCDF de 05.03.92 - Processo n.º 5.790/91.\n\nOF. GP. 1.689/90 - Processo n.º 3.870/89.\n\nTranscrição da ata da Sessão Ordinária nº 3.407, de 13 de abril de 1999.\n\nSecretaria "
+        },
+        {
+          "epigrafe_literal": "Lei n.º 6.023/74.",
+          "antes": " cobrada, parceladamente, de seus beneficiários, desde que atualizada e observada a legislação referente às averbações em folha de pagamento.\n\nLei n.º 3.765/60.\n\nLei n.º 5.774/71.\n\nLei n.º 6.022/74.\n\n",
+          "depois": "\n\nDecisão TCDF de 05.03.92 - Processo n.º 5.790/91.\n\nOF. GP. 1.689/90 - Processo n.º 3.870/89.\n\nTranscrição da ata da Sessão Ordinária nº 3.407, de 13 de abril de 1999.\n\nSecretaria das Sessões, 30 de "
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/DF/sumulas/1999/sum-66-1999-04-13.md",
+      "sha256_md": "e029e8ea1a3b9a23a222e85cc8a9f22938a69fc65e48b9dbf3dbf27b193cfa5a",
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/68167/tcdf_sml_66_1999.html",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "Lei n.º 8.212/91.",
+          "antes": " detentores de cargo efetivo, incluídas as parcelas decorrentes do exercício de cargo em comissão, desde julho de 1994, a favor do Plano de Seguridade Social.\n\nLODF/ADT, art. 17.\n\nLei DF n.º 260/92.\n\n",
+          "depois": "\n\nLei n.º 8.852/94, art. 1º, inciso III.\n\nLei DF n.º 1.004/96, art. 8º.\n\nDecisão TCDF n.º 1.025/96 - Processo n.º 1.409/93.\n\nTranscrição da ata da Sessão Ordinária nº 3.407, de 13 de abril de 1999.\n\nS"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    }
+  ]
+}

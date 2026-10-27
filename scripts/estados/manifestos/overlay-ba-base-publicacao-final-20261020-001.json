@@ -1,0 +1,843 @@
+{
+  "total_base": 3876,
+  "retidos_deduplicacao": [
+    {
+      "path": "estaduais/BA/decretos/2025/decreto-no-23554-de-25-de-marco-de-2025-0.md",
+      "mesma_fonte": [],
+      "mesma_identidade_descritiva": [
+        "estaduais/BA/decretos/2025/decreto-no-23554-de-25-de-marco-de-2025.md"
+      ],
+      "motivo": "retenção conservadora por possível alias; não redownload ou fusão automática"
+    },
+    {
+      "path": "estaduais/BA/decretos/2024/decreto-no-23193-de-04-de-setembro-de-2024-0.md",
+      "mesma_fonte": [],
+      "mesma_identidade_descritiva": [
+        "estaduais/BA/decretos/2024/decreto-no-23193-de-04-de-setembro-de-2024.md"
+      ],
+      "motivo": "retenção conservadora por possível alias; não redownload ou fusão automática"
+    },
+    {
+      "path": "estaduais/BA/decretos/2024/decreto-no-23095-de-20-de-setembro-de-2024-0.md",
+      "mesma_fonte": [],
+      "mesma_identidade_descritiva": [
+        "estaduais/BA/decretos/2024/decreto-no-23095-de-20-de-setembro-de-2024.md"
+      ],
+      "motivo": "retenção conservadora por possível alias; não redownload ou fusão automática"
+    }
+  ],
+  "total_retido_gates": 133,
+  "total_sem_alerta": 3740,
+  "gates": [
+    "overlay-ba-base-identidade-campo-20261020-004.json",
+    "overlay-ba-base-objetos-aprovados-20261020-002.json",
+    "overlay-ba-base-multiplos-atos-20261020-001.json"
+  ],
+  "retidos": [
+    {
+      "path": "estaduais/BA/decretos/1966/decreto-ndeg-19883-de-28-de-julho-de-1966.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1966/decreto-no-19825-de-4-de-abril-de-1966.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1972/decreto-no-23120-de-12-de-outubro-de-1972.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1973/decreto-no-23361-de-09-de-fevereiro-de-1973.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1973/decreto-no-23366-de-20-de-fevereiro-de-1973.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1973/decreto-no-23401-de-13-de-abril-de-1973.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1973/decreto-no-23420-de-04-de-maio-de-1973.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1973/decreto-no-23865-de-13-de-dezembro-de-1973.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1974/decreto-no-23944-de-23-de-janeiro-de-1974.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1974/decreto-no-24039-de-10-de-abril-de-1974.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1974/decreto-no-24122-de-20-de-junho-de-1974.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1974/decreto-no-24125-de-28-de-junho-de-1974.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1974/decreto-no-24149-de-16-de-julho-de-1974.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1974/decreto-no-24190-de-08-de-agosto-de-1974.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1974/decreto-no-24195-de-12-de-agosto-de-1974.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1974/decreto-no-24196-de-12-de-agosto-de-1974.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1974/decreto-no-24197-de-12-de-agosto-de-1974.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1974/decreto-no-24350-de-04-de-outubro-de-1974.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1975/decreto-no-24764-de-15-de-julho-de-1975.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1976/decreto-no-25073-de-06-de-janeiro-de-1976.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1976/decreto-no-25074-de-08-de-janeiro-de-1976.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1976/decreto-no-25093-de-12-de-janeiro-de-1976.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1976/decreto-no-25109-de-24-de-janeiro-de-1976.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1976/decreto-no-25135-de-20-de-fevereiro-de-1976.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1976/decreto-no-25147-de-17-de-marco-de-1976.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1976/decreto-no-25153-de-18-de-marco-de-1976.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1976/decreto-no-25154-de-22-de-marco-de-1976.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1976/decreto-no-25200-de-30-de-abril-de-1976.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1976/decreto-no-25250-de-22-de-junho-de-1976.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1976/decreto-no-25264-de-08-de-julho-de-1976.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1976/decreto-no-25315-de-27-de-julho-de-1976.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1976/decreto-no-25547-de-29-de-dezembro-de-1976.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1976/decreto-no-25562-de-30-de-dezembro-de-1976.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1977/decreto-no-25630-de-21-de-marco-de-1977.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1977/decreto-no-25637-de-31-de-marco-de-1977.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1977/decreto-no-25705-de-16-de-junho-de-1977.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1977/decreto-no-25750-de-29-de-julho-de-1977.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1977/decreto-no-25827-de-05-de-setembro-de-1977.md",
+      "motivos": [
+        "overlay-ba-base-identidade-campo-20261020-004.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1977/decreto-no-25960-de-22-de-novembro-de-1977.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1977/decreto-no-25979-de-07-de-dezembro-de-1977.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json",
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1978/decreto-no-26052-de-25-de-janeiro-de-1978.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-26635-de-02-de-fevereiro-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json",
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-26643-de-09-de-fevereiro-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-26646-de-13-de-fevereiro-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-26654-de-15-de-fevereiro-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-26664-de-02-de-marco-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-26729-de-04-de-maio-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-26760-de-13-de-junho-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-26765-de-15-de-junho-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-26766-de-15-de-junho-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-26817-de-02-de-agosto-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-26855-de-20-de-agosto-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-26893-de-14-de-setembro-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-27028-de-14-de-novembro-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-27029-de-14-de-novembro-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-27083-de-05-de-dezembro-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-27086-de-06-de-dezembro-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-27132-de-17-de-dezembro-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-27133-de-17-de-dezembro-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1979/decreto-no-27153-de-26-de-dezembro-de-1979.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json",
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27336-de-23-de-maio-de-1980.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27337-de-26-de-maio-de-1980.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27347-de-29-de-maio-de-1980.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27399-de-09-de-julho-de-1980.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27400-de-09-de-julho-de-1980.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27401-de-09-de-julho-de-1980.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27402-de-09-de-julho-de-1980.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27483-de-21-de-agosto-de-1980.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27492-de-25-de-agosto-de-1980.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27592-de-06-de-outubro-de-1980.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27598-de-07-de-outubro-de-1980.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27605-de-09-de-outubro-de-1980.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27606-de-10-de-outubro-de-1980.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27706-de-24-de-novembro-de-1980.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1980/decreto-no-27725-de-03-de-dezembro-de-1980.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1981/decreto-no-27884-de-31-de-marco-de-1981.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1981/decreto-no-27885-de-06-de-abril-de-1981.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1981/decreto-no-27886-de-06-de-abril-de-1981.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1981/decreto-no-27891-de-09-de-abril-de-1981.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1981/decreto-no-27906-de-15-de-abril-de-1981.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1981/decreto-no-27907-de-15-de-abril-de-1981.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1981/decreto-no-27987-de-01-de-junho-de-1981.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1981/decreto-no-27988-de-01-de-junho-de-1981.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1981/decreto-no-28006-de-09-de-junho-de-1981.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1981/decreto-no-28192-de-03-de-setembro-de-1981.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1981/decreto-no-28260-de-23-de-setembro-de-1981.md",
+      "motivos": [
+        "overlay-ba-base-identidade-campo-20261020-004.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1981/decreto-no-28310-de-15-de-outubro-de-1981.md",
+      "motivos": [
+        "overlay-ba-base-identidade-campo-20261020-004.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1981/decreto-no-28594-de-30-de-dezembro-de-1981.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1981/decreto-no-28596-de-30-de-dezembro-de-1981.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1996/decreto-no-6033-de-06-de-dezembro-de-1996.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/1999/decreto-ndeg-7520-de-08-de-fevereiro-de-1999.md",
+      "motivos": [
+        "overlay-ba-base-identidade-campo-20261020-004.json",
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2000/decreto-no-7798-de-05-de-maio-de-2000.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json",
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2000/decreto-no-7854-de-11-de-outubro-de-2000.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json",
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2005/decreto-no-9609-de-24-de-outubro-de-2005.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2009/decreto-no-11414-de-27-de-janeiro-de-2009.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2010/decreto-no-12116-de-07-de-maio-de-2010.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2013/decreto-no-14481-de-16-de-maio-de-2013.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2018/decreto-no-18470-de-29-de-junho-de-2018.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2018/decreto-no-18716-de-21-de-novembro-de-2018.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2020/decreto-no-19441-de-30-de-janeiro-de-2020.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2020/decreto-no-19477-de-17-de-fevereiro-de-2020.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2020/decreto-no-19734-de-01-de-junho-de-2020.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2020/decreto-no-19756-de-16-de-junho-de-2020.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2020/decreto-no-19853-de-22-de-julho-de-2020.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2020/decreto-no-20069-de-23-de-outubro-de-2020.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json",
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20194-de-27-de-janeiro-de-2021.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20200-de-03-de-fevereiro-de-2021.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20255-de-25-de-fevereiro-de-2021.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20328-de-23-de-marco-de-2021.md",
+      "motivos": [
+        "overlay-ba-base-identidade-campo-20261020-004.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20369-de-04-de-abril-de-2021.md",
+      "motivos": [
+        "overlay-ba-base-identidade-campo-20261020-004.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20386-de-11-de-abril-de-2021-0.md",
+      "motivos": [
+        "overlay-ba-base-identidade-campo-20261020-004.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20387-de-11-de-abril-de-2021.md",
+      "motivos": [
+        "overlay-ba-base-identidade-campo-20261020-004.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20394-de-13-de-abril-de-2021.md",
+      "motivos": [
+        "overlay-ba-base-identidade-campo-20261020-004.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20401-de-18-de-abril-de-2021.md",
+      "motivos": [
+        "overlay-ba-base-identidade-campo-20261020-004.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20480-de-20-de-maio-de-2021.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20641-de-12-de-agosto-de-2021.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2021/decreto-no-20704-de-11-de-setembro-de-2021.md",
+      "motivos": [
+        "overlay-ba-base-identidade-campo-20261020-004.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2022/decreto-no-21113-de-03-de-fevereiro-de-2022.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2022/decreto-no-21169-de-18-de-fevereiro-de-2022.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2022/decreto-no-21487-de-30-de-junho-de-2022.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2023/decreto-no-21889-de-02-de-fevereiro-de-2023.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2023/decreto-no-21909-de-16-de-fevereiro-de-2023.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2023/decreto-no-21924-de-24-de-fevereiro-de-2023.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2023/decreto-no-21966-de-21-de-marco-de-2023.md",
+      "motivos": [
+        "overlay-ba-base-identidade-campo-20261020-004.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2024/decreto-no-22624-de-07-de-fevereiro-de-2024.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2024/decreto-no-22637-de-23-de-fevereiro-de-2024.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2024/decreto-no-23191-de-31-de-outubro-de-2024.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2025/decreto-no-23461-de-20-de-fevereiro-de-2025.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2025/decreto-no-23757-de-31-de-maio-de-2025.md",
+      "motivos": [
+        "overlay-ba-base-identidade-campo-20261020-004.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2025/decreto-no-24237-de-23-de-dezembro-de-2025.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2026/decreto-no-24374-de-02-de-marco-de-2026.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2026/decreto-no-24481-de-08-de-abril-de-2026.md",
+      "motivos": [
+        "overlay-ba-base-objetos-aprovados-20261020-002.json"
+      ]
+    },
+    {
+      "path": "estaduais/BA/decretos/2026/decreto-no-24555-de-29-de-maio-de-2026.md",
+      "motivos": [
+        "overlay-ba-base-multiplos-atos-20261020-001.json"
+      ]
+    }
+  ]
+}

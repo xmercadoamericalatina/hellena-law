@@ -1,0 +1,109 @@
+{
+  "criterio": "revogada false não pode ser inferida para situação distinta de Vigente/Em vigor; reter ou corrigir explicitamente para null; lotes originais intactos.",
+  "reter": [
+    {
+      "path": "estaduais/MG/decretos/1949/dec-3092-1949.md",
+      "lote": "scripts/estados/manifestos/mg-20261020-014.json",
+      "revogada": "false",
+      "situacao_oficial": "TORNADA SEM EFEITO",
+      "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/3092/1949/documento?tipoDoc=572",
+      "cache_integral": "estaduais/MG/_fonte/decretos/1949/dec-3092-1949.html.gz"
+    },
+    {
+      "path": "estaduais/MG/decretos/1949/dec-3207-1949.md",
+      "lote": "scripts/estados/manifestos/mg-20261020-014.json",
+      "revogada": "false",
+      "situacao_oficial": "TORNADA SEM EFEITO",
+      "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/3207/1949/documento?tipoDoc=572",
+      "cache_integral": "estaduais/MG/_fonte/decretos/1949/dec-3207-1949.html.gz"
+    },
+    {
+      "path": "estaduais/MG/decretos/1950/dec-3269-1950.md",
+      "lote": "scripts/estados/manifestos/mg-20261020-014.json",
+      "revogada": "false",
+      "situacao_oficial": "TORNADA SEM EFEITO",
+      "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/3269/1950/documento?tipoDoc=572",
+      "cache_integral": "estaduais/MG/_fonte/decretos/1950/dec-3269-1950.html.gz"
+    },
+    {
+      "path": "estaduais/MG/decretos/1959/dec-5589-1959.md",
+      "lote": "scripts/estados/manifestos/mg-20261020-013.json",
+      "revogada": "false",
+      "situacao_oficial": "TORNADA SEM EFEITO",
+      "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/5589/1959/documento?tipoDoc=572",
+      "cache_integral": "estaduais/MG/_fonte/decretos/1959/dec-5589-1959.html.gz"
+    },
+    {
+      "path": "estaduais/MG/decretos/1959/dec-5665-1959.md",
+      "lote": "scripts/estados/manifestos/mg-20261020-013.json",
+      "revogada": "false",
+      "situacao_oficial": "TORNADA SEM EFEITO",
+      "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/5665/1959/documento?tipoDoc=572",
+      "cache_integral": "estaduais/MG/_fonte/decretos/1959/dec-5665-1959.html.gz"
+    },
+    {
+      "path": "estaduais/MG/decretos/1970/dec-12651-1970.md",
+      "lote": "scripts/estados/manifestos/mg-20261020-010.json",
+      "revogada": "false",
+      "situacao_oficial": "TORNADA SEM EFEITO",
+      "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/12651/1970/documento?tipoDoc=572",
+      "cache_integral": "estaduais/MG/_fonte/decretos/1970/dec-12651-1970.html.gz"
+    },
+    {
+      "path": "estaduais/MG/decretos/1971/dec-13330-1971.md",
+      "lote": "scripts/estados/manifestos/mg-20261020-010.json",
+      "revogada": "false",
+      "situacao_oficial": "DECLARADA INCONSTITUCIONAL",
+      "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/13330/1971/documento?tipoDoc=572",
+      "cache_integral": "estaduais/MG/_fonte/decretos/1971/dec-13330-1971.html.gz"
+    },
+    {
+      "path": "estaduais/MG/decretos/1971/dec-13514-1971.md",
+      "lote": "scripts/estados/manifestos/mg-20261020-010.json",
+      "revogada": "false",
+      "situacao_oficial": "TORNADA SEM EFEITO",
+      "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/13514/1971/documento?tipoDoc=572",
+      "cache_integral": "estaduais/MG/_fonte/decretos/1971/dec-13514-1971.html.gz"
+    },
+    {
+      "path": "estaduais/MG/decretos/1972/dec-14656-1972.md",
+      "lote": "scripts/estados/manifestos/mg-20261020-009.json",
+      "revogada": "false",
+      "situacao_oficial": "TORNADA SEM EFEITO",
+      "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/14656/1972/documento?tipoDoc=572",
+      "cache_integral": "estaduais/MG/_fonte/decretos/1972/dec-14656-1972.html.gz"
+    },
+    {
+      "path": "estaduais/MG/decretos/1973/dec-15879-1973.md",
+      "lote": "scripts/estados/manifestos/mg-20261020-009.json",
+      "revogada": "false",
+      "situacao_oficial": "TORNADA SEM EFEITO",
+      "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/15879/1973/documento?tipoDoc=572",
+      "cache_integral": "estaduais/MG/_fonte/decretos/1973/dec-15879-1973.html.gz"
+    },
+    {
+      "path": "estaduais/MG/decretos/1988/dec-28095-1988.md",
+      "lote": "scripts/estados/manifestos/mg-20261020-005.json",
+      "revogada": "false",
+      "situacao_oficial": "TORNADA SEM EFEITO",
+      "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/28095/1988/documento?tipoDoc=572",
+      "cache_integral": "estaduais/MG/_fonte/decretos/1988/dec-28095-1988.html.gz"
+    },
+    {
+      "path": "estaduais/MG/decretos/1988/dec-28094-1988.md",
+      "lote": "scripts/estados/manifestos/mg-20261020-005.json",
+      "revogada": "false",
+      "situacao_oficial": "TORNADA SEM EFEITO",
+      "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/28094/1988/documento?tipoDoc=572",
+      "cache_integral": "estaduais/MG/_fonte/decretos/1988/dec-28094-1988.html.gz"
+    },
+    {
+      "path": "estaduais/MG/decretos/1991/dec-32855-1991.md",
+      "lote": "scripts/estados/manifestos/mg-20261020-005.json",
+      "revogada": "false",
+      "situacao_oficial": "DECLARADA INCONSTITUCIONAL",
+      "fonte": "https://dadosabertos.almg.gov.br/api/v2/legislacao/mineira/DEC/32855/1991/documento?tipoDoc=572",
+      "cache_integral": "estaduais/MG/_fonte/decretos/1991/dec-32855-1991.html.gz"
+    }
+  ]
+}

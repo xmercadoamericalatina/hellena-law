@@ -1,0 +1,59 @@
+{
+  "total_examinado": 11287,
+  "total_retido_conservador": 3,
+  "criterio": "Busca de outras epígrafes completas com data/ano em linha própria e em células de tabela; fechamento de células/p/blocos vira separador antes da busca, contemplando colunas. Referências corridas e legislação correlata editorial não são novas epígrafes. Retenção conservadora não é contaminação confirmada.",
+  "retidos": [
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42462-2003-id46706.md",
+      "sha256_md": "8ac689d061bd6a9ab4e22bf70d8fb27fae856da5d81736441fec676af86c5330",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=46706&Texto=&Origem=1",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "Resolução nº 033/2003",
+          "antes": "rágrafos, da LEI Nº 11.916, de 02 de junho de 2003, e nos artigos 14 e/ou 35-A, do  , de 24 de julho de 2003 e alterações:\n\n              EMPRESA REQUERENTE \n\n       RESOLUÇÃO \n\n\n         GERDAU S/A\n\n",
+          "depois": "\n\n\n         POLO IND. E COM. LTDA\n\n      Resolução nº 034/2003\n\n\n         SOUZA CRUZ S/A\n\n      Resolução nº 035/2003\n\n\n  \n\n**Parágrafo único** - As Resoluções referidas no \"caput\" constam da Ata da R"
+        },
+        {
+          "epigrafe_literal": "Resolução nº 034/2003",
+          "antes": "gos 14 e/ou 35-A, do  , de 24 de julho de 2003 e alterações:\n\n              EMPRESA REQUERENTE \n\n       RESOLUÇÃO \n\n\n         GERDAU S/A\n\n      Resolução nº 033/2003\n\n\n         POLO IND. E COM. LTDA\n\n",
+          "depois": "\n\n\n         SOUZA CRUZ S/A\n\n      Resolução nº 035/2003\n\n\n  \n\n**Parágrafo único** - As Resoluções referidas no \"caput\" constam da Ata da Reunião do Conselho Diretor do FUNDOPEM/RS, realizada em 19/09/"
+        },
+        {
+          "epigrafe_literal": "Resolução nº 035/2003",
+          "antes": "ções:\n\n              EMPRESA REQUERENTE \n\n       RESOLUÇÃO \n\n\n         GERDAU S/A\n\n      Resolução nº 033/2003\n\n\n         POLO IND. E COM. LTDA\n\n      Resolução nº 034/2003\n\n\n         SOUZA CRUZ S/A\n\n",
+          "depois": "\n\n\n  \n\n**Parágrafo único** - As Resoluções referidas no \"caput\" constam da Ata da Reunião do Conselho Diretor do FUNDOPEM/RS, realizada em 19/09/2003, e publicadas no DOE de 22.09.203.\n\n**Art. 2º** - "
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/RS/decretos/1993/dec-34987-1993-id14045.md",
+      "sha256_md": "84f5bff73340a0df43768c667ef5cdcf9ca2fe0d43f2c85b43b4d4c58ed71efd",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=14045&Texto=&Origem=1",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "LEI Nº 10.000, DE 26 DE NOVEMBRO DE 1993.",
+          "antes": "\n**Art. 3º** - Este decreto entra em vigor na data de sua publicação.\n\n**Art. 4º** - Revogam-se as disposições em contrário.  \n  \nPALÁCIO PIRATINI, em Porto Alegre, 25 de novembro de 1993.  \n  \n  \n  \n",
+          "depois": "\n  \nAutoriza o Poder Executivo a promover a extinção da CORLAC e dá outras providências.  \nO GOVERNADOR DO ESTADO DO RIO GRANDE DO SUL.  \n  \nFaço saber, em cumprimento ao disposto no artigo 82, inciso"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    },
+    {
+      "path": "estaduais/RS/decretos/1992/dec-34245-1992-id16087.md",
+      "sha256_md": "23cc06333788791adac1af1f8b09923ec72386fd2754ab8ad16892c3056505f9",
+      "fonte": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=16087&Texto=&Origem=1",
+      "outras_epigrafes_completas": [
+        {
+          "epigrafe_literal": "INSTRUÇÃO NORMATIVA Nº 03/92",
+          "antes": " disposições em contrário.\n\nPALÁCIO PIRATINI, em Porto Alegre, 20 de março de 1992.\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\nSECRETARIA DO PLANEJAMENTO E DA ADMINISTRAÇÃO\n\n",
+          "depois": "\n\nO SECRETÁRIO DE ESTADO DO PLANEJAMENTO E DA ADMINISTRAÇÃO, no uso de suas atribuições, atendendo ao que consta no artigo 14 do DECRETO Nº 34.245, de 20 de março de 1992, e\n\nconsiderando as disposiçõ"
+        }
+      ],
+      "decisao": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+      "contaminacao_confirmada": false
+    }
+  ]
+}

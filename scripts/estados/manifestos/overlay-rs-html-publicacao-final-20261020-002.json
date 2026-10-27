@@ -1,0 +1,2197 @@
+{
+  "total_candidatos": 11287,
+  "total_retido_conservador": 171,
+  "total_sem_alerta_pendente": 11116,
+  "criterio": "União dos gates finais de epígrafe/identidade, granularidade e objetos aprovados próprios. Retenção conservadora é pendência de prova, não declaração de contaminação/ausência. Pacotes, manifests, corpo e metadados anteriores permanecem intactos.",
+  "overlays": [
+    {
+      "path": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+      "sha256": "1cdbe2f5585821985a9810ef0cfc620113a69b0cb1add296fa091df409feac12"
+    },
+    {
+      "path": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+      "sha256": "325e6c97226a498d81dc927661751db5ce1c27650677a6bd0be3117c514768f3"
+    },
+    {
+      "path": "scripts/estados/manifestos/overlay-rs-html-multiplos-atos-20261020-001.json",
+      "sha256": "9700459e5ffe7e2db6b834d209a15ead2a58f274891d50356778a37120d53dac"
+    }
+  ],
+  "retidos": [
+    {
+      "path": "estaduais/RS/decretos-legislativos/1997/dlg-8355-1997-id9080.md",
+      "sha256_md": "6b3b844336cf6d77a75f7ecabc151c8716b8623c0c98fe6acba0450c0dbc1900",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=9080&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos-legislativos/1998/dlg-10159-1998-id4990.md",
+      "sha256_md": "067fb45f1279a46ca02f910e7704c07ebc3084d06b74c86eb4fa97e29ce7dfb0",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=4990&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "tipo da primeira epígrafe divergente",
+            "data literal da epígrafe divergente: 1994-05-05"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1991/dec-33838-1991-id17065.md",
+      "sha256_md": "d0d7a6db6aafe7812b6d5ff2817d046bb0b7fac546583c03e77d9c277598c040",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=17065&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1991-02-19"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1991/dec-33896-1991-id17136.md",
+      "sha256_md": "7f129cbefd94a58b72fd70c3b4c648bb914097e64df5a7a350dd0f4d2ac10706",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=17136&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1991/dec-34088-1991-id16647.md",
+      "sha256_md": "fe0c5802822f6f3f6a51ff9bfdcf852b9202cd6244e4770f77f4d88a434c8cc2",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=16647&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1991-11-15"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1992/dec-34186-1992-id16003.md",
+      "sha256_md": "73a3617df69d33d57028e9c7e9ceef5ac1c2899062977815a0174ac04c74debd",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=16003&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1992/dec-34245-1992-id16087.md",
+      "sha256_md": "23cc06333788791adac1af1f8b09923ec72386fd2754ab8ad16892c3056505f9",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=16087&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1992/dec-34415-1992-id15245.md",
+      "sha256_md": "bdd7bdcad641fc51e5ffc6c0db5afcfc612029fba4671d187019b68c31ef30cf",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=15245&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1993-07-24"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1992/dec-34476-1992-id15349.md",
+      "sha256_md": "3b455e931ae6eba3175ed7fc0cb308edaa8f6da4f010267ef7e3020eb9f17b82",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=15349&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1992/dec-34573-1992-id15066.md",
+      "sha256_md": "b40172f7c368da6e3f41683d7835ccda823eeeb8e1cf2cbf3ab9b41ffc91f46a",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=15066&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1992/dec-34574-1992-id15072.md",
+      "sha256_md": "270f6062f6eefb911018befc0b958682add82215229d6b23b96fea109811e9b0",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=15072&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1992/dec-34587-1992-id15147.md",
+      "sha256_md": "4ad69498133f19de18c0facb142b4114393165981c5dab928398fc75ff70eed8",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=15147&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1993/dec-34632-1993-id14842.md",
+      "sha256_md": "0af33906ce431bc9cf42fae99317f17ef6c06d01ffc3faf8bbdb12e255c90ddd",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=14842&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1993-01-19"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1993/dec-34762-1993-id14658.md",
+      "sha256_md": "4f6ff18949063d98fa3fed5c42820545c9f54fbe4dbbb896c9260574dd12b149",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=14658&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1993/dec-34811-1993-id14228.md",
+      "sha256_md": "b6e1091b128a28f33c7609b3ab8a3b24c05ed74643fd4f1f5bb02d7cc639a171",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=14228&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1993/dec-34889-1993-id14348.md",
+      "sha256_md": "1fe091cfe354f16b10a9474f007fe12efe172ff1fd1b9de3ea028c0ec03cd3fb",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=14348&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1993/dec-34924-1993-id14407.md",
+      "sha256_md": "5e667fdacfd621432e9712b83bcfb6f3a1f15d07334b147b4ba1fdd6d35a4dba",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=14407&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1993/dec-34987-1993-id14045.md",
+      "sha256_md": "84f5bff73340a0df43768c667ef5cdcf9ca2fe0d43f2c85b43b4d4c58ed71efd",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=14045&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1993/dec-35009-1993-id14084.md",
+      "sha256_md": "5172ad47d2aa56f67f485717ccd2ced1cdd4f6b7eb16fa3d26fd66669431941a",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=14084&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1993-10-10"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1993/dec-35039-1993-id13783.md",
+      "sha256_md": "c0c7419cd5c3bfeaeeb719bacf02faf3ed777dd33f65979a55f732deb48131b1",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=13783&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1994/dec-35059-1994-id13808.md",
+      "sha256_md": "05d2632b3f1f9d9e3f429da59f65414391151e2b7633221ef22361b7861ed77a",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=13808&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1994/dec-35451-1994-id12987.md",
+      "sha256_md": "e877a195684b6b4f657c28869c1e3f3bfa8c3e05593b0feab39c0fee6898460d",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=12987&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1994/dec-35534-1994-id13084.md",
+      "sha256_md": "b6d884dcfe02c73a33625c4cf2319ed48f05f3b72854978a7161336e05ae3a1c",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=13084&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1994/dec-35758-1994-id12412.md",
+      "sha256_md": "fc517256e5b9dd39d8a73107cc53473101c0186cbe844abbce676ad4b817d83c",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=12412&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1995/dec-36166-1995-id11600.md",
+      "sha256_md": "db6e4bf720291f163f6b45e7dd50475509f94533a040f489ae72a7e4bdda6ccd",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=11600&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1996-09-05"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1995/dec-36175-1995-id11611.md",
+      "sha256_md": "b4488d6c1db44931250a9081f42a9924d0f9bfb1409b68d8fdc33e7da97950a7",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=11611&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1995/dec-36176-1995-id11612.md",
+      "sha256_md": "f6a3ebd5f9c1cb277007277a5a0fc2d3950c3e80dc0308f25978b83b231678f1",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=11612&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1995/dec-36234-1995-id11706.md",
+      "sha256_md": "03ad84a3ce89b2a552de6c0d10d957f1b1a7ac5e477962ec54bf2d8ae177eec8",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=11706&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1995/dec-36257-1995-id11741.md",
+      "sha256_md": "19cbdd7b3a60f8d39568c86ea08dba51127fc3d9cadf90cd051e7bdca5314881",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=11741&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1995/dec-36264-1995-id11750.md",
+      "sha256_md": "e858b2a98686a0ec41dfb6653035ff2f2d05c4ce61cbee6925f9ad71e7e47b3c",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=11750&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1995/dec-36340-1995-id11852.md",
+      "sha256_md": "a9cfbf4835f8ff540848101c7149f540991b79ba505d82b167b836f2fa1fc9d9",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=11852&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1996/dec-36603-1996-id10888.md",
+      "sha256_md": "a9f3d7b3ae606213ee5027c44b55e6f29ebe00d626827f80c612b040701981ea",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=10888&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1996/dec-36897-1996-id10072.md",
+      "sha256_md": "418dcbf205e20c2d3ce226a687478adca31333d260a6177981e3443c0fb2f282",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=10072&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1996/dec-36933-1996-id9791.md",
+      "sha256_md": "53fb69d4ca39a2b5d82391487b930ba0f16f9f660acfd73cc72f6cde392ea18d",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=9791&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1997/dec-37525-1997-id8763.md",
+      "sha256_md": "e665446514713c3dd79cabe13b0ba8f424c17764f6f1b47f6793e55a1d3d36d0",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=8763&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1997-06-02"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1997/dec-37526-1997-id8764.md",
+      "sha256_md": "5dda104c690f500097309a9d62d6e986181b5338318dfadd267bfa6f27070867",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=8764&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1997-06-02"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1997/dec-37537-1997-id8775.md",
+      "sha256_md": "9781d53d6dd44414210adc3ee1b5f72395b10028065ef9ea75296f69da8ea08f",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=8775&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1997-07-05"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1997/dec-37666-1997-id8424.md",
+      "sha256_md": "50effe2e2fc58e5942f6d1be5406de7ec7fb9c91fa80eca2ba1f3674e6699553",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=8424&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1997-08-12"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1997/dec-37699Anex2-1997-id8070.md",
+      "sha256_md": "781453f1f37dd50b425d54ff05ff8ba7a0fdee0242d12d48398f58eb9e558b13",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=8070&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1997/dec-37699Anex3-1997-id8071.md",
+      "sha256_md": "48364beb88f00b078d0a4221dbb6cc0382f2fb5a76dddc3794616ea1196c1f32",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=8071&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1997/dec-37741-1997-id8123.md",
+      "sha256_md": "02b0e3be38f70dc5d8b3dd0f76776c9a559fbe6455b8ce00357d3a08a2ed2be2",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=8123&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1997/dec-37910-1997-id7546.md",
+      "sha256_md": "ce5a750257cdb262bb431afafd134f30789e129386baaf9ffb2c947ad65b4a21",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=7546&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1997-03-07"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1998/dec-38106-1998-id7475.md",
+      "sha256_md": "c2339d6b9a73ce77d5ec83c27d33235c0bb7357366a77a140c2ba6e422b03a79",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=7475&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1998/dec-38172-1998-id7078.md",
+      "sha256_md": "337a126d649bfd7403ed5e27b45a9dc95957356a058a32ba7145d8e26ddebebe",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=7078&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1998/dec-38324-1998-id6746.md",
+      "sha256_md": "9fa52f82a5d3b02faf5ec976879f0ebea4a59297965b0f946e9085c28d3112a3",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=6746&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1998/dec-38356-1998-id6792.md",
+      "sha256_md": "d3f77f15665d5b93a93c6a2c8ad7475143321ea03fc3140d2b7a29c478074781",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=6792&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1998/dec-38543-1998-id6305.md",
+      "sha256_md": "680b2dadc4f68de58c0febd823f1a4eb63567f3df049d85fc49174b53174031e",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=6305&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1998/dec-38809-1998-id6119.md",
+      "sha256_md": "081d637030d05c59ad6e55566f4da60ceb9acdbe16e385c35cfacfa554b28b9c",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=6119&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1998/dec-38819-1998-id6130.md",
+      "sha256_md": "9076583358414ee14d49584f0dc7e44008294af31b96cd24da2e724b1663dc34",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=6130&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1998/dec-38988-1998-id5801.md",
+      "sha256_md": "a6f14fcfe21499422222e9c4dd608de8e08c09dcc40ae06e6b5d94a62a71bdd9",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=5801&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1999/dec-39271-1999-id4680.md",
+      "sha256_md": "94926c4655ec0813ee19b5835e29816866df34c1b683c45ef8d90559d779aaea",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=4680&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1999/dec-39437-1999-id4856.md",
+      "sha256_md": "898ac4160f2c75a619b11cecee602cd6ea8e4c52e21404560e65ac5ab75d3d51",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=4856&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1999/dec-39581-1999-id4530.md",
+      "sha256_md": "7dd94c05e67f2de5b22ef06b7d1d7394d5ef1fb12a7f0c5f7d309352d7f2d038",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=4530&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1999-06-07"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1999/dec-39629-1999-id4606.md",
+      "sha256_md": "0b0f2b22f54103d67dbc13329a0809b54b597946ab706ee4ac1595be6b2426c4",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=4606&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 1995-07-15"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1999/dec-39630-1999-id4607.md",
+      "sha256_md": "20c498c92a21025bee40e9f06d28de8206e4f5d44a6fffb085424896a60a1a5d",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=4607&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1999/dec-39653-1999-id4645.md",
+      "sha256_md": "84b13d93d0813b6dfbe46223431484727900b8d1b1daa49dad5ab1154335d7a3",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=4645&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1999/dec-39813-1999-id4417.md",
+      "sha256_md": "bafb129e7e3b9f8950485ea7271f8d4326b864bec04ddcae39fb1d1c3a1841bc",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=4417&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/1999/dec-39876-1999-id4126.md",
+      "sha256_md": "16dcbf6589daf9ba571672cd1b75ec65a4f049813f3d36daed0ae235cb52c1f7",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=4126&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2000/dec-39940-2000-id3700.md",
+      "sha256_md": "23e6c225665f40f891dc94065bae72158424c86b0a0943f0f738dd976ad81856",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=3700&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2000/dec-40002-2000-id3782.md",
+      "sha256_md": "eefbe9ed5a42e82caf37dda4cdec1cca8f6c2f8b53d9a0b50840534af11db511",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=3782&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2000/dec-40161-2000-id3326.md",
+      "sha256_md": "4dad89e5e3e9d49e8952e9b936b1bf19c779ad8ae86bb177627ba06743373f9d",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=3326&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2000/dec-40265-2000-id2991.md",
+      "sha256_md": "d75d2fae8c0d93a6e41dceb3b1ec7e48e79862601dd538eea8f97c54699563e1",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=2991&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2000/dec-40323-2000-id3065.md",
+      "sha256_md": "4daa48ca7ca602d54f711555f673bcffb6724789dc9a90d2f9c1047f62fbcdf5",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=3065&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2000/dec-40372-2000-id47830.md",
+      "sha256_md": "672fa5743093ca9af5d16a86cb87c0a0ff9090f0399f06824101af86b61fcff5",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47830&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2000/dec-40394-2000-id2604.md",
+      "sha256_md": "fb91db5ba67ffcf94bfb123771bae7a51ffa28c2f09953d24c29ac12519ae7c9",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=2604&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2000-10-26"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2000/dec-40503-2000-id2473.md",
+      "sha256_md": "6a51a9697dc2d1a2d3389665951f2a58d4392806f94c89c2716d180e4c5fa3ee",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=2473&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2001/dec-40616-2001-id2101.md",
+      "sha256_md": "1823fdd24f8b681b88a6fe488ddec8388c5bbf138acc6bef3e4ef0912307f75f",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=2101&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2001-02-01"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2001/dec-40656-2001-id2141.md",
+      "sha256_md": "6a99e86bf8dfa80174003e74071e63de5c5336aef6e82308983bb1474dcacfd4",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=2141&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2001-03-01"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2001/dec-40662-2001-id2146.md",
+      "sha256_md": "a103623be8978250b2f67e9314a6c35afac441b366a1556342075028fd83723d",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=2146&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2001-03-05"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2001/dec-40698-2001-id2177.md",
+      "sha256_md": "83905556e8e99b5b8f64807c58b3c38cd57e4452586302bb6900699b5638dc49",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=2177&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2001-03-26"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2001/dec-40712-2001-id2216.md",
+      "sha256_md": "fda759f0e4f8477fd862e08068c3784c55ecc751ed47f3eb6a28ec1d4637753f",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=2216&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2001/dec-40788-2001-id2328.md",
+      "sha256_md": "4461c14d7bec81e11548aa03a26606c833b8126e6c8ec94c268ec427e8fa0c9c",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=2328&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2001/dec-40817-2001-id1838.md",
+      "sha256_md": "18bc20309c7a1311521e65a7190f08305537bfdd7a59906b493e329f4ab2601d",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=1838&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2001/dec-40856-2001-id1882.md",
+      "sha256_md": "e6dffa267e67aba489e7da12bcd3958b3ddfa64e62fa9a14d795b21ef8a3f3d7",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=1882&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2001-07-28"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2001/dec-40995-2001-id2025.md",
+      "sha256_md": "3d8b51df4539118bcc316e3df097ef04d63cc87a070745827d48f167f82436f5",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=2025&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2001/dec-41161-2001-id49386.md",
+      "sha256_md": "b9ccec48a1ea334328a0e5c12d4395d5d3aae72229de262f495799abdf1fc129",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49386&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2001-10-30"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2001/dec-41170-2001-id1750.md",
+      "sha256_md": "9b2c0ee1613f5be41a4ffd3210767b86f0a67b781f57b04c2d668c3e968aa2ad",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=1750&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2002/dec-41324-2002-id1444.md",
+      "sha256_md": "a40e62b2cae26a7f1a9282c260998f8e0feb1f7aaf21c8a4354a551debb1c68d",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=1444&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2002-01-13"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2002/dec-41485-2002-id1105.md",
+      "sha256_md": "2cfeb094dc85cee783710c43759f6bbe5824eb0614e2191310cc774245f8392f",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=1105&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2002/dec-41559-2002-id1235.md",
+      "sha256_md": "2984591f0f543ddc347558afbcbf11019b9ff7e4b97ee0fecaf3e5be9b2d5225",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=1235&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2002-04-24"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2002/dec-41830-2002-id498.md",
+      "sha256_md": "abe9f18e750fefe570bc8fe7328852060d5baa5b66d3973e28153d6fa678aece",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=498&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2002-09-16"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2002/dec-41897-2002-id572.md",
+      "sha256_md": "65f28bba1d3c82e05912869b67674de828f4c57348f788399c99fb68083b4128",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=572&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2002/dec-41959-2002-id651.md",
+      "sha256_md": "f2397ec8cebb856d9b7408f0970c19cf903bedc31f9e614eeded3b43649fb837",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=651&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2002/dec-42000-2002-id712.md",
+      "sha256_md": "f53a14ee5722be2c805c447646804a18b424d79b86b97ff3628a55cfbb6ea636",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=712&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2002-12-09"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2002/dec-42010-2002-id725.md",
+      "sha256_md": "d8b9cda96d68f7488012cfb3679f4ec4e0a59e76cc9bc7dc87524c1217b1b197",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=725&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42211-2003-id481.md",
+      "sha256_md": "f432a4e07edb8cb8570773dc22b858ea622eb8d3d2a02b2d52a39843041aed3b",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=481&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2003-04-10"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42249-2003-id46357.md",
+      "sha256_md": "e5d2723fd050daa79e7f21391d924547820541e5e4f298d2a258843e30bcefeb",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=46357&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2003-05-15"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42262-2003-id46398.md",
+      "sha256_md": "bea9a277c86b844e8e95c2648a51757241cfaa5591f98ebdd487982fe20b6361",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=46398&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42276-2003-id46414.md",
+      "sha256_md": "3908dc8cda43e578b98c1bae5e4e85c7faf6c03bcc02abfee99082467110a524",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=46414&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42282-2003-id46411.md",
+      "sha256_md": "0f29e260e16eabf35435cbc37eb2b3a281da8421323172c4b25f00e0a162873e",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=46411&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42309-2003-id46469.md",
+      "sha256_md": "dfc586bac0f1d3dd5319df71d208db41957379258a19572434f12266af2f3adb",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=46469&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2003-06-26"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42339-2003-id46511.md",
+      "sha256_md": "7d6f7bb1264400e92b35bbc1aa89187b6b7a3f716974da1a7bab698408f37212",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=46511&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42389-2003-id46583.md",
+      "sha256_md": "71e23ecf631a030ac055a74f6b8af86e6234cd18927054a748dc66c9c9ad59ab",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=46583&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42462-2003-id46706.md",
+      "sha256_md": "8ac689d061bd6a9ab4e22bf70d8fb27fae856da5d81736441fec676af86c5330",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=46706&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-multiplos-atos-20261020-001.json",
+          "problemas": "reter para distinguir ato alheio de norma/anexo expressamente incorporado; campo isolado e hash iguais não bastam para granularidade",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42739-2003-id47058.md",
+      "sha256_md": "7291761e0722b244a573228251eb7eee524b16ca88c0b56a0a8bc05067819136",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47058&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2003-12-08"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42754-2003-id47106.md",
+      "sha256_md": "356d00f31708462fb3fbc8dd28cb92622ffee6a60124cbb471011873abfaf5ad",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47106&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42785-2003-id47191.md",
+      "sha256_md": "b7168213ee9eb667c20777a65e12082d580d127914262ca62dcd516da7761a9e",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47191&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42788-2003-id47196.md",
+      "sha256_md": "3186bb6adb0f9e7572b9d3ead336e01cfe794e66cc6643aebeefd3cc3f1c653e",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47196&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2003-12-26"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-42795-2003-id47178.md",
+      "sha256_md": "8f0ec7bde28748139dd9fce98c40f69840a06bfa746416d65cad137d8e746c81",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47178&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2003-12-30"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2003/dec-43318-2003-id47915.md",
+      "sha256_md": "1fa519cb32b068f114e341fddd6acd9cdea46778337d31b08d637dcf57cffa85",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47915&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2004-08-26"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-42817-2004-id47204.md",
+      "sha256_md": "cd3aa071677ceeb88fa34f9db9c652244397e70c4fe4b176063764dd4a215eb2",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47204&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-42875-2004-id47283.md",
+      "sha256_md": "6e56671108a976e8943b75e2ee5937c9128c5a661db7c8edf15a8279c67be2bf",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47283&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-42877-2004-id47285.md",
+      "sha256_md": "069d292ff8d02e49ea712744aa448ae5da56c9d4dd84dd42c2cc49131c091c78",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47285&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-42902-2004-id47300.md",
+      "sha256_md": "55b3c88b2bf174dd9630541b467e46ba7d788164a4551f025c296ab2a18da5d1",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47300&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-42909-2004-id47307.md",
+      "sha256_md": "d82e4fea70ed84ff26ab064ec28f2230c3a0a968ac7c1e79e2fb7da219722cc4",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47307&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43050-2004-id47507.md",
+      "sha256_md": "eda1097fbcaaa33dbde3f990246309af3aab55143a94a3921341bced3e9d05b9",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47507&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43053-2004-id47510.md",
+      "sha256_md": "e8abe9a8cef9aab2e3bb4c1761ab62900835728d50893920d7978caed7a97d3b",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47510&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43075-2004-id47540.md",
+      "sha256_md": "b427e505647b818895c8a75deab7f1b2807a98cdbc3aff3d4577b8956b574904",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47540&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43097-2004-id47586.md",
+      "sha256_md": "f6783246f844533ab6b181f192ac19a8e0ed1371f4e59de6744065fb49f2000d",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47586&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2004-05-13"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43223-2004-id47786.md",
+      "sha256_md": "5a59af85691ddf5c6ebfdb4c877720cd2d1118367346e945ee726f76d33699f8",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47786&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43245-2004-id47817.md",
+      "sha256_md": "b01701599ed14321e3a0a91c99540e1a67f660456b2bc55aff632e96ca0196f9",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47817&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43290-2004-id47880.md",
+      "sha256_md": "facfdff3c3a72c750d75b1b07928f5be01828bd634efbe920fc247e060de1004",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47880&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43351-2004-id47967.md",
+      "sha256_md": "14bca3bc51570b39bc7c7f911511eb3207822371d1a5ae6936abde6414d99a99",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47967&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2004-09-17"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43365-2004-id47989.md",
+      "sha256_md": "38527694a3cc42c89afb8c55643abf795bfc771532765a864a7a9901bc450e2d",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=47989&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43372-2004-id48005.md",
+      "sha256_md": "40c35da331ef8b8bd5c937aa60ac0c4965a861e318e8cd8039b6335d34539572",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48005&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43494-2004-id48183.md",
+      "sha256_md": "5c053559353981e4593f04b3acf7cf54b7c37851b8bbd76b3db9d8441c2169f4",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48183&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43496-2004-id48185.md",
+      "sha256_md": "b8e40e5316dfef430d15ca24053d13b69b4927a70fcfa20650ff0ba972ea6010",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48185&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2004/dec-43544-2004-id48325.md",
+      "sha256_md": "9134d8dbe1582a2d1b7f002d55cdc0abef488aad25c1d2067909352819fa31a1",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48325&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43703-2005-id48481.md",
+      "sha256_md": "84603b4eb8c0e5904639ee1be4a07bfcabbb7c3410c49814fa0be79c2a0efc9c",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48481&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43704-2005-id48482.md",
+      "sha256_md": "a77bd0b6ad712eea717058130a328cdd5e408565bcb21c4aadfb3a1cd5f3106c",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48482&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43723-2005-id48507.md",
+      "sha256_md": "12f9d51b7a09fa0dd0dd80b1bde84436d9a76c0584e396a3e67047a939958893",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48507&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2005-04-01"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43780-2005-id48609.md",
+      "sha256_md": "20c91452d338e1c12bf49917692ff37567f06e2e269946700ea67f1c27362214",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48609&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2005-05-11"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43816-2005-id48665.md",
+      "sha256_md": "82be0a6bc14a2e387452487130875908bbac9b41953f17ebd948e2f0b0f57d3b",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48665&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43872-2005-id48732.md",
+      "sha256_md": "69b642541d74dea9f79233e07127170465e0db4a256f0b2989f48721de7d3d9c",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48732&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43911-2005-id48810.md",
+      "sha256_md": "5a807511800e797b42311b8a8ecadc1e41fb1432a2914862684373bb13f47b75",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48810&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43948-2005-id48859.md",
+      "sha256_md": "1eb819d325618ffb8138df311639ec090f63dd7c33477fce433b2f7b25cf6ac2",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48859&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2005-07-26"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43970-2005-id48889.md",
+      "sha256_md": "b7c463e35538cca32d74873371e9c628d0668a92feb0fa2b2468b81acc65bfea",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48889&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43976-2005-id48895.md",
+      "sha256_md": "b95b49762d53167b60558d86bb3ceff05cb0b517bd6b0db8f37bcad066ab0e97",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48895&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2005-08-11"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43989-2005-id48918.md",
+      "sha256_md": "f437be4f0d3adadcc55f3c63725f6f545b66f5ead4eb3f086a8cc568935c1184",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48918&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-43990-2005-id48919.md",
+      "sha256_md": "e55cb09f4beb014b130df2fb0bc7af974e43d0650c4b24146310bf155532be17",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48919&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2005-08-30"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-44003-2005-id48934.md",
+      "sha256_md": "f586e3e38a8fa169e4aa3da112f0060296dec23460e7b6ca494b21aa57b72574",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48934&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-44019-2005-id48956.md",
+      "sha256_md": "cf63481952c8881eba26efec682ceb0215154bbc07f95ac4f8933c57545ecff8",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48956&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-44036-2005-id48984.md",
+      "sha256_md": "62ea74a98a0d414f3168a83ea32f5358d724422407e1eacf82ff8ab45fb74948",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=48984&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-44201-2005-id49283.md",
+      "sha256_md": "125074c25fca6260e03872c8a8401c7927d5f42dbddc33239ec66a5b2b54b272",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49283&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2005-12-23"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-44209-2005-id49336.md",
+      "sha256_md": "e486e8c11d8b27a99d5b4eacb79547e5a5fabc931035e84c74544fe624cc21aa",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49336&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2005-12-28"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-44210-2005-id49337.md",
+      "sha256_md": "95bf266930b4cfef58655007a6255d4263cda92f751dec3ce3fea240a2452f43",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49337&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2005-12-28"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2005/dec-44214-2005-id49300.md",
+      "sha256_md": "b069438630b709fa03c0b26ef2a3847d98d098b90ce785199132b57745473ddd",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49300&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44239-2006-id49304.md",
+      "sha256_md": "7e9b4d86cc960447dea02964f507f193978013ecbfdc89bc5dbd72fa176a016a",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49304&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44264-2006-id49370.md",
+      "sha256_md": "847469fa2abad4863909aef11b8436fd7b4406c865dafa6f2c11e0042e0c0c1a",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49370&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44277-2006-id49383.md",
+      "sha256_md": "50cce665490e62309e223d0fbdfa8191298f6d83d3174a8fd1d91434b20751c2",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49383&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44298-2006-id49413.md",
+      "sha256_md": "f515fb731ace8d4d41ea673c482922a43252c05a2b285f7cf4df1dd64eb908cd",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49413&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44299-2006-id49414.md",
+      "sha256_md": "4ca34135ea3d6750d4ed900ed6f1cdadb68f87c1ef65e00c6f870a797ad43453",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49414&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44301-2006-id49416.md",
+      "sha256_md": "5e8575c0fe946e5bdf76f2b7bd7f5572da9ac8f61051c342d617fe873a940d57",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49416&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44305-2006-id49423.md",
+      "sha256_md": "4590198b92832f60adbd35669ae7b46de5315c77d2457935481e4ad397c74b5b",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49423&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44313-2006-id49434.md",
+      "sha256_md": "feaa17045e7f7b6874fc0d87b2e93fabb02c3b10af500803cab1d1b0c2eaf72c",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49434&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44332-2006-id49458.md",
+      "sha256_md": "2ffa2e9c4738ad5d6376a55df75a6109ed74c2e00170ec2743eed713791d65f9",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49458&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2006-03-08"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44363-2006-id49495.md",
+      "sha256_md": "5028c5edfe7ac0dce96a11b21878d01310fbd042bf7d8e77b577cf876b325706",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49495&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44408-2006-id49568.md",
+      "sha256_md": "92a9f2af1f64038366f97e7af74eb0e24eaa36e10ea6446e20472d6e41c31055",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49568&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44426-2006-id49640.md",
+      "sha256_md": "915ec9a4072cc595606105a152256f53dd23ee1ee23ab7d65f785faa82b64a90",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49640&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2006-05-11"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44553-2006-id49905.md",
+      "sha256_md": "5fa7885c1c0bfa7293337d886c566eef167496bab8c4a2e25da20775fcb6e8cf",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49905&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 0006-07-26"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44601-2006-id49967.md",
+      "sha256_md": "5a45955af8c4551aa2fa076e4836d50c93960be879efda7b7b76f089ef0d350c",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=49967&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2006-08-22"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44630-2006-id50016.md",
+      "sha256_md": "f8a1283495410a80691cad7ebd4ba20315045e7e684ac995541a9debc8c7a7bb",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50016&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44631-2006-id50017.md",
+      "sha256_md": "74324af903f266dc58d0097ec1880688ead7771f9130d6d75b699ae0afd94285",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50017&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44656-2006-id50059.md",
+      "sha256_md": "17dd3990a0b659628e8255b50c5398d67431493f20625fef5c3bca2afc73e7da",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50059&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44736-2006-id50215.md",
+      "sha256_md": "43c9c473f70d2e49ef564eb834f11afccf91679d972cd1714ef38a6cdc979314",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50215&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44738-2006-id50217.md",
+      "sha256_md": "ea113c9a86b5715600a8878b732bd117ca0a92244092858024bee15efe027522",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50217&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44740-2006-id50219.md",
+      "sha256_md": "4693fab1e8f292315516dd8af27a4ff5e5085fce89b7b25bffc759f98b172ee5",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50219&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44841-2006-id50377.md",
+      "sha256_md": "caa25237b36d94d8d72623ca0f8a57fb49e4ab486ac9d625f0a0cbb157b0c346",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50377&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44846-2006-id50382.md",
+      "sha256_md": "152aa2a8b470b8776b3b6845c29d23285788082f7a0d55871481adb899389477",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50382&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44847-2006-id50383.md",
+      "sha256_md": "08b6ef84f8246ba3bd4f983ca04aa8f8452c1183f024eabfb4764cba793ea6b3",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50383&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44851-2006-id50387.md",
+      "sha256_md": "758181ac2d4f865e3421bc2c228d10c5eea03ae562137d78a0c6e83c18c879f1",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50387&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2006/dec-44852-2006-id50388.md",
+      "sha256_md": "641162908f49b29186b1a4a89e4e90ff5e84f3553a5eab2a022c76e4901dc9b2",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50388&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2007/dec-44882-2007-id50429.md",
+      "sha256_md": "e8d45b2c32e2c598391c7bd70230afc5328a0d8e5545ecea6d62b597f7b6e5e1",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50429&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2007-02-19"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2007/dec-44883-2007-id50431.md",
+      "sha256_md": "7a8c0f6a7bdef76f983d2951c78deb2135fca75c572f3978e3bf188d8ecda452",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50431&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "data literal da epígrafe divergente: 2007-02-19"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2007/dec-44925-2007-id50480.md",
+      "sha256_md": "d2b8e7e53577543392666d7683540ea37035203f95247c27df5e241b4f02b150",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50480&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/decretos/2007/dec-45042-2007-id50639.md",
+      "sha256_md": "2f54089ab69d47645906458b3123e27b6deeb8745762c73c19ba25d6bc0356b0",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=50639&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/resolucoes/1994/res-mesa-342-1994-id13650.md",
+      "sha256_md": "b9d97db804d9a18bf3d70817aa3e54cc6c1acb975bbbf63dc0fc6ad7620c861f",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=13650&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/resolucoes/1995/res-mesa-380-1995-id13237.md",
+      "sha256_md": "c20bed7a6b5138ad64d38af812b2667e509b5eb51b0769d80e8c7648c7161b53",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=13237&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/resolucoes/2002/res-mesa-482-2002-id819.md",
+      "sha256_md": "b307ec96a4ac8fc2701e648dbf8a64cc1ee52304ad89565f39df4de0fbcc83bc",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=819&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-identidade-campo-20261020-004.json",
+          "problemas": [
+            "epígrafe própria não reconhecida"
+          ],
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/resolucoes/2003/res-mesa-542-2003-id46641.md",
+      "sha256_md": "13356254772bd610a584cf8a62067bfbb3f0f5005ddfa176f816926b222d53f5",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=46641&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    },
+    {
+      "path": "estaduais/RS/resolucoes/2003/res-mesa-543-2003-id46642.md",
+      "sha256_md": "fd3ca2a5cabb4e2dcf8405e91263a59c6b8c3f9ccd05e79acceb36ac67d9b306",
+      "fontes": "https://www.al.rs.gov.br/legis/M010/M0100018.asp?Hid_IdNorma=46642&Texto=&Origem=1",
+      "motivos": [
+        {
+          "overlay": "scripts/estados/manifestos/overlay-rs-html-objetos-aprovados-20261020-002.json",
+          "problemas": "aprovacao_objeto_normativo_requer_conferencia_da_representacao",
+          "evidencia_literal_no_overlay": true
+        }
+      ]
+    }
+  ]
+}

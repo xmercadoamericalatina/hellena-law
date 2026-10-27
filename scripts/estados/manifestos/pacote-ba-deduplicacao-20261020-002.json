@@ -1,0 +1,252 @@
+{
+  "supersede_decisao_colisoes_de": "scripts/estados/manifestos/pacote-ba-deduplicacao-20261020-001.json",
+  "criterio": "URLs/IDs diferentes não autorizam duplicação da mesma norma. Colisões de tipo/número/data revisadas no conteúdo literal. Sufixos alfabéticos são parte da identidade; seu desaparecimento em metadata exige retenção. Nenhum corpo/metadata alterado neste fechamento.",
+  "retidos": [
+    {
+      "path_retido": "estaduais/BA/decretos/2025/decreto-no-23600-de-16-de-abril-de-2025-0.md",
+      "path_distinto_ou_canonico": "estaduais/BA/decretos/2025/decreto-no-23600-de-16-de-abril-de-2025.md",
+      "sha256_retido": "bc55693ccaeedbb1e31d835c60132ca1ec51c078037e6b83389341669267eb38",
+      "sha256_canonico": "3ee18e2257d803b2816265f5a1a1f265ee621dc7b417b1364d7a8cc84b9fe13f",
+      "classificacao": "alias_comprovado",
+      "motivo": "alias da mesma norma: epígrafe, tipo, número, data e corpo conferidos; diferenças apenas de apresentação",
+      "epigrafe_retida": "DECRETO Nº 23.600 DE 16 DE ABRIL DE 2025",
+      "epigrafe_comparada": "DECRETO Nº 23.600 DE 16 DE ABRIL DE 2025",
+      "corpo_apos_titulo_igual": false,
+      "texto_sem_tags_whitespace_igual": true,
+      "diferencas_texto_sem_tags": [],
+      "fontes_preservadas": true,
+      "nenhum_md_alterado_ou_apagado": true
+    },
+    {
+      "path_retido": "estaduais/BA/decretos/2021/decreto-no-20359-de-01-de-abril-de-2021-0.md",
+      "path_distinto_ou_canonico": "estaduais/BA/decretos/2021/decreto-no-20359-de-01-de-abril-de-2021.md",
+      "sha256_retido": "420e81ab41b1042f9bef13df74950d7946807b94c88607d85854c9f99d42f335",
+      "sha256_canonico": "cda9e13a1714e9b1dc40017e393cca12926ffd0a0d774b36dfe8fb3998fc2b1a",
+      "classificacao": "alias_comprovado",
+      "motivo": "alias da mesma norma: epígrafe, tipo, número, data e corpo conferidos; diferenças apenas de apresentação",
+      "epigrafe_retida": "DECRETO Nº 20.359 DE 01 DE ABRIL DE 2021",
+      "epigrafe_comparada": "DECRETO Nº 20.359 DE 01 DE ABRIL DE 2021",
+      "corpo_apos_titulo_igual": true,
+      "texto_sem_tags_whitespace_igual": true,
+      "diferencas_texto_sem_tags": [],
+      "fontes_preservadas": true,
+      "nenhum_md_alterado_ou_apagado": true
+    },
+    {
+      "path_retido": "estaduais/BA/decretos/2013/decreto-no-14341-de-01-de-marco-de-2013-0.md",
+      "path_distinto_ou_canonico": "estaduais/BA/decretos/2013/decreto-no-14341-de-01-de-marco-de-2013.md",
+      "sha256_retido": "ccdc9533c2df999ad2ff91900b10dc1bee616ef9776224c8bb321cdf451ec4ab",
+      "sha256_canonico": "08e655560b948979752e562f528ab1fbff1447640f7f28759f81f022576159ae",
+      "classificacao": "alias_comprovado",
+      "motivo": "alias da mesma norma: epígrafe, tipo, número, data e corpo conferidos; diferenças apenas de apresentação",
+      "epigrafe_retida": "DECRETO Nº 14.341 DE 01 DE MARÇO DE 2013",
+      "epigrafe_comparada": "DECRETO Nº 14.341 DE 01 DE MARÇO DE 2013",
+      "corpo_apos_titulo_igual": false,
+      "texto_sem_tags_whitespace_igual": true,
+      "diferencas_texto_sem_tags": [],
+      "fontes_preservadas": true,
+      "nenhum_md_alterado_ou_apagado": true
+    },
+    {
+      "path_retido": "estaduais/BA/decretos/2010/decreto-no-11996-de-05-de-marco-de-2010-0.md",
+      "path_distinto_ou_canonico": "estaduais/BA/decretos/2010/decreto-no-11996-de-05-de-marco-de-2010.md",
+      "sha256_retido": "a6bf657e4d3a4502b51f2e48b63153bd660b3c05e87e8c9a0f554e64cc5ff90d",
+      "sha256_canonico": "a48b45e7dfc11780ddfe45ca93117c24449ab91a07bed40ff1a33a6ea7dba4c0",
+      "classificacao": "alias_comprovado",
+      "motivo": "alias da mesma norma: epígrafe, tipo, número, data e corpo conferidos; diferenças apenas de apresentação",
+      "epigrafe_retida": "DECRETO Nº 11.996 DE 05 DE MARÇO DE 2010",
+      "epigrafe_comparada": "DECRETO Nº 11.996 DE 05 DE MARÇO DE 2010",
+      "corpo_apos_titulo_igual": false,
+      "texto_sem_tags_whitespace_igual": false,
+      "diferencas_texto_sem_tags": [
+        {
+          "operacao": "replace",
+          "primeiro": "// ",
+          "segundo": "**"
+        },
+        {
+          "operacao": "insert",
+          "primeiro": "",
+          "segundo": "**"
+        }
+      ],
+      "fontes_preservadas": true,
+      "nenhum_md_alterado_ou_apagado": true
+    },
+    {
+      "path_retido": "estaduais/BA/decretos/1991/decreto-no-253-de-01-de-agosto-de-1991.md",
+      "path_distinto_ou_canonico": "estaduais/BA/decretos/1991/decreto-no-253-de-1o-de-agosto-de-1991.md",
+      "sha256_retido": "05ff8b6fb6f23ca9e1656faf451a64c1caf42a79ba136515d029b5ee85b11eac",
+      "sha256_canonico": "704782032356c286fa5c33c947cc0bc03e2fc1f8f86c34cb34c37bc8a3db0816",
+      "classificacao": "alias_comprovado",
+      "motivo": "alias da mesma norma: epígrafe, tipo, número, data e corpo conferidos; diferenças apenas de apresentação",
+      "epigrafe_retida": "DECRETO Nº 253 DE 01 DE AGOSTO DE 1991",
+      "epigrafe_comparada": "DECRETO Nº 253 DE 1º DE AGOSTO DE 1991",
+      "corpo_apos_titulo_igual": false,
+      "texto_sem_tags_whitespace_igual": false,
+      "diferencas_texto_sem_tags": [
+        {
+          "operacao": "insert",
+          "primeiro": "",
+          "segundo": "0"
+        },
+        {
+          "operacao": "delete",
+          "primeiro": "º",
+          "segundo": ""
+        }
+      ],
+      "fontes_preservadas": true,
+      "nenhum_md_alterado_ou_apagado": true
+    },
+    {
+      "path_retido": "estaduais/BA/decretos/1991/decreto-no-252-de-01-de-agosto-de-1991.md",
+      "path_distinto_ou_canonico": "estaduais/BA/decretos/1991/decreto-no-252-de-1o-de-agosto-de-1991.md",
+      "sha256_retido": "e6dbab736c4eb3cc813dcc6364a79a91aec76b1f4695798078be93767753bb1a",
+      "sha256_canonico": "b163ac8a8b57b9cb75755f27cf27419b214a53b2c5fff1034f98fd1f662a8948",
+      "classificacao": "alias_comprovado",
+      "motivo": "alias da mesma norma: epígrafe, tipo, número, data e corpo conferidos; diferenças apenas de apresentação",
+      "epigrafe_retida": "DECRETO Nº 252 DE 01 DE AGOSTO DE 1991",
+      "epigrafe_comparada": "DECRETO Nº 252 DE 1º DE AGOSTO DE 1991",
+      "corpo_apos_titulo_igual": false,
+      "texto_sem_tags_whitespace_igual": false,
+      "diferencas_texto_sem_tags": [
+        {
+          "operacao": "insert",
+          "primeiro": "",
+          "segundo": "0"
+        },
+        {
+          "operacao": "delete",
+          "primeiro": "º",
+          "segundo": ""
+        }
+      ],
+      "fontes_preservadas": true,
+      "nenhum_md_alterado_ou_apagado": true
+    },
+    {
+      "path_retido": "estaduais/BA/decretos/1991/decreto-no-251-de-01-de-agosto-de-1991.md",
+      "path_distinto_ou_canonico": "estaduais/BA/decretos/1991/decreto-no-251-de-1o-de-agosto-de-1991.md",
+      "sha256_retido": "db22398df2d03d3463d51d992058cbf04140c5ecc7087008033ac4cc6403b0f5",
+      "sha256_canonico": "f8f907387263fb68bca891e6f2b020277d945169b6c85133165611458ceb1146",
+      "classificacao": "alias_comprovado",
+      "motivo": "alias da mesma norma: epígrafe, tipo, número, data e corpo conferidos; diferenças apenas de apresentação",
+      "epigrafe_retida": "DECRETO Nº 251 DE 01 DE AGOSTO DE 1991",
+      "epigrafe_comparada": "DECRETO Nº 251 DE 1º DE AGOSTO DE 1991",
+      "corpo_apos_titulo_igual": false,
+      "texto_sem_tags_whitespace_igual": false,
+      "diferencas_texto_sem_tags": [
+        {
+          "operacao": "insert",
+          "primeiro": "",
+          "segundo": "0"
+        },
+        {
+          "operacao": "delete",
+          "primeiro": "º",
+          "segundo": ""
+        }
+      ],
+      "fontes_preservadas": true,
+      "nenhum_md_alterado_ou_apagado": true
+    },
+    {
+      "path_retido": "estaduais/BA/decretos/1991/decreto-no-250-de-01-de-agosto-de-1991.md",
+      "path_distinto_ou_canonico": "estaduais/BA/decretos/1991/decreto-no-250-de-1o-de-agosto-de-1991.md",
+      "sha256_retido": "8593a190364bcbf6385c020f73c38f0eedae09824738e9a7e1b85a93b0bd2d68",
+      "sha256_canonico": "8742e43e97f3f88e931052d12afa97bb56afb6b37cd35811b4bfd10161b9a836",
+      "classificacao": "alias_comprovado",
+      "motivo": "alias da mesma norma: epígrafe, tipo, número, data e corpo conferidos; diferenças apenas de apresentação",
+      "epigrafe_retida": "DECRETO Nº 250 DE 01 DE AGOSTO DE 1991",
+      "epigrafe_comparada": "DECRETO Nº 250 DE 1º DE AGOSTO DE 1991",
+      "corpo_apos_titulo_igual": false,
+      "texto_sem_tags_whitespace_igual": false,
+      "diferencas_texto_sem_tags": [
+        {
+          "operacao": "insert",
+          "primeiro": "",
+          "segundo": "0"
+        },
+        {
+          "operacao": "delete",
+          "primeiro": "º",
+          "segundo": ""
+        }
+      ],
+      "fontes_preservadas": true,
+      "nenhum_md_alterado_ou_apagado": true
+    },
+    {
+      "path_retido": "estaduais/BA/decretos/1991/decreto-no-249-de-01-de-agosto-de-1991.md",
+      "path_distinto_ou_canonico": "estaduais/BA/decretos/1991/decreto-no-249-de-1o-de-agosto-de-1991.md",
+      "sha256_retido": "3f3906f7860fe7ac0d5c27cc26eb48368ed44f869bf443ee7b674db60ffb8995",
+      "sha256_canonico": "743d0fb021f1595f1b577de1b2b4df9f48c379be97ff95c94dcf34ab5d90265b",
+      "classificacao": "alias_comprovado",
+      "motivo": "alias da mesma norma: epígrafe, tipo, número, data e corpo conferidos; diferenças apenas de apresentação",
+      "epigrafe_retida": "DECRETO Nº 249 DE 01 DE AGOSTO DE 1991",
+      "epigrafe_comparada": "DECRETO Nº 249 DE 1º DE AGOSTO DE 1991",
+      "corpo_apos_titulo_igual": false,
+      "texto_sem_tags_whitespace_igual": false,
+      "diferencas_texto_sem_tags": [
+        {
+          "operacao": "insert",
+          "primeiro": "",
+          "segundo": "0"
+        },
+        {
+          "operacao": "delete",
+          "primeiro": "º",
+          "segundo": ""
+        }
+      ],
+      "fontes_preservadas": true,
+      "nenhum_md_alterado_ou_apagado": true
+    },
+    {
+      "path_retido": "estaduais/BA/decretos/1991/decreto-no-181-a-de-09-de-julho-de-1991.md",
+      "path_distinto_ou_canonico": "estaduais/BA/decretos/1991/decreto-no-181-de-09-de-julho-de-1991.md",
+      "sha256_retido": "5d38a254651b2263cc81ab188ae385e71033e0cbdf602e89362efe4e11011793",
+      "sha256_canonico": "efdf8930e919f32b7fb740afebc45a0c4a8971cb26854749f9a9c3c3f26fb19d",
+      "classificacao": "metadata_numero_incompleto",
+      "motivo": "número oficial com sufixo A omitido nos metadados; corrigir antes de publicar",
+      "epigrafe_retida": "DECRETO Nº 181 - A DE 09 DE JULHO DE 1991",
+      "epigrafe_comparada": "DECRETO Nº 181 DE 09 DE JULHO DE 1991",
+      "corpo_apos_titulo_igual": false,
+      "texto_sem_tags_whitespace_igual": false,
+      "diferencas_texto_sem_tags": [],
+      "fontes_preservadas": true,
+      "nenhum_md_alterado_ou_apagado": true
+    },
+    {
+      "path_retido": "estaduais/BA/decretos/1987/decreto-no-34321-a-de-15-de-janeiro-de-1987.md",
+      "path_distinto_ou_canonico": "estaduais/BA/decretos/1987/decreto-no-34321-de-15-de-janeiro-de-1987.md",
+      "sha256_retido": "5e5f12e1b839e8a41dbfb020981cb78b0084ebd6a7774fe820b3e30b7566d3ad",
+      "sha256_canonico": "8306d8e6b096a13347194ed0c2636c0eddd9af176dd9ea9507649f231f145a45",
+      "classificacao": "metadata_numero_incompleto",
+      "motivo": "número oficial com sufixo A omitido nos metadados; corrigir antes de publicar",
+      "epigrafe_retida": "DECRETO Nº 34.321-A DE 15 DE JANEIRO DE 1987",
+      "epigrafe_comparada": "DECRETO Nº 34.321 DE 15 DE JANEIRO DE 1987",
+      "corpo_apos_titulo_igual": false,
+      "texto_sem_tags_whitespace_igual": false,
+      "diferencas_texto_sem_tags": [],
+      "fontes_preservadas": true,
+      "nenhum_md_alterado_ou_apagado": true
+    },
+    {
+      "path_retido": "estaduais/BA/decretos/1986/decreto-no-34114-de-28-de-novembro-de-1986-0.md",
+      "path_distinto_ou_canonico": "estaduais/BA/decretos/1986/decreto-no-34114-de-28-de-novembro-de-1986.md",
+      "sha256_retido": "1474df9d01faa7a304dbf8e6c7de5ad945e9dc36b0960dc8727e1959ebe04232",
+      "sha256_canonico": "9ab7375001256181c0e162e411514a86c171e159c7c285b08599410b4f6ab079",
+      "classificacao": "alias_comprovado",
+      "motivo": "alias da mesma norma: epígrafe, tipo, número, data e corpo conferidos; diferenças apenas de apresentação",
+      "epigrafe_retida": "DECRETO Nº 34.114 DE 28 DE NOVEMBRO DE 1986",
+      "epigrafe_comparada": "DECRETO Nº 34.114 DE 28 DE NOVEMBRO DE 1986",
+      "corpo_apos_titulo_igual": true,
+      "texto_sem_tags_whitespace_igual": true,
+      "diferencas_texto_sem_tags": [],
+      "fontes_preservadas": true,
+      "nenhum_md_alterado_ou_apagado": true
+    }
+  ]
+}
