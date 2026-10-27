@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA GM/MS Nº 3.243, DE 4 DE MARÇO DE 2024"
+orgao: "Ministério da Saúde/Gabinete da Ministra"
+tipo: "Portaria"
+numero: "3243"
+data: 2024-03-04
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/03/2024, seção 1, p. 141"
+data_publicacao: 2024-03-06
+edicao: "45"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-3.243-de-4-de-marco-de-2024-546752612"
+sha256_html_fonte: 2db5e62156ee76e89bba711a9a28b7fc0c4f3f2ed772dac27d0fb5c32c3e8e45
+baixado_em: 2026-10-16
+---
+# PORTARIA GM/MS Nº 3.243, DE 4 DE MARÇO DE 2024
+
+PORTARIA GM/MS Nº 3.243, DE 4 DE MARÇO DE 2024
+
+Exclui propostas do Anexo da Portaria nº 1.754, de 8 de novembro de 2023, que autoriza municípios a receberem recursos referentes ao incremento temporário ao custeio dos serviços de Atenção Primária à Saúde.
+
+A MINISTRA DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, em observância a Lei nº 14.535, de 17 de janeiro de 2023, Lei Complementar nº 141, de 13 de janeiro de 2012, Lei nº 8.080, de 19 de setembro de 1990, e Portaria GM/MS nº 449, de 5 de abril de 2023, resolve:
+
+**Art. 1º** Ficam excluídas do Anexo da Portaria GM/MS nº 1.754, de 8 de novembro de 2023, publicada no Diário Oficial da União de 13 de novembro de 2023, Edição 215, Seção 1, página 54, que autoriza os municípios descritos em seu anexo a receberem recursos referentes ao incremento temporário ao custeio dos serviços de Atenção Primária à Saúde, as propostas dos municípios descritos no anexo a esta Portaria.
+
+**Art. 2º** Esta portaria entra em vigor na data de sua publicação.
+
+NÍSIA TRINDADE LIMA
+
+## ANEXO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>UF</p></td>      <td rowspan="1" colspan="1"><p>MUNICÍPIO</p></td>      <td rowspan="1" colspan="1"><p>ENTIDADE</p></td>      <td rowspan="1" colspan="1"><p>Nº DA PROPOSTA</p></td>      <td rowspan="1" colspan="1"><p>CÓD. EMENDA</p></td>      <td rowspan="1" colspan="1"><p>VALOR POR EMENDA (R$)</p></td>      <td rowspan="1" colspan="1"><p>VALOR TOTAL DA PROPOSTA (R$)</p></td>      <td rowspan="1" colspan="1"><p>FUNCIONAL PROGRAMÁTICA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>GO</p></td>      <td rowspan="1" colspan="1"><p>NOVO GAMA</p></td>      <td rowspan="1" colspan="1"><p>FUNDO MUNICIPAL DE SAÚDE</p></td>      <td rowspan="1" colspan="1"><p>36000574076202300</p></td>      <td rowspan="1" colspan="1"><p>41100017</p></td>      <td rowspan="1" colspan="1"><p>500.000,00</p></td>      <td rowspan="1" colspan="1"><p>500.000,00</p></td>      <td rowspan="1" colspan="1"><p>1030150192E890001</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>MS</p></td>      <td rowspan="1" colspan="1"><p>SIDROLANDIA</p></td>      <td rowspan="1" colspan="1"><p>FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE SIDROLANDIA-MS</p></td>      <td rowspan="1" colspan="1"><p>36000574005202300</p></td>      <td rowspan="1" colspan="1"><p>39640010 39640010</p></td>      <td rowspan="1" colspan="1"><p>300.000,00</p><p>400.000,00</p></td>      <td rowspan="1" colspan="1"><p>700.000,00</p></td>      <td rowspan="1" colspan="1"><p>1030150192E890054</p><p>1030150192E890054</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>IPAUSSU</p></td>      <td rowspan="1" colspan="1"><p>FUNDO MUNICIPAL DE SAUDE - FMS</p></td>      <td rowspan="1" colspan="1"><p>36000573828202300</p></td>      <td rowspan="1" colspan="1"><p>23660019</p><p>25170011</p></td>      <td rowspan="1" colspan="1"><p>200.000,00</p><p>515.000,00</p></td>      <td rowspan="1" colspan="1"><p>715.000,00</p></td>      <td rowspan="1" colspan="1"><p>1030150192E890035</p><p>1030150192E890035</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>TO</p></td>      <td rowspan="1" colspan="1"><p>GUARAI</p></td>      <td rowspan="1" colspan="1"><p>FUNDO MUNICIPAL DE SAÚDE</p></td>      <td rowspan="1" colspan="1"><p>36000573516202300</p></td>      <td rowspan="1" colspan="1"><p>41220001</p></td>      <td rowspan="1" colspan="1"><p>217.323,00</p></td>      <td rowspan="1" colspan="1"><p>217.323,00</p></td>      <td rowspan="1" colspan="1"><p>1030150192E890017</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>TO</p></td>      <td rowspan="1" colspan="1"><p>BURITI DO TOCANTINS</p></td>      <td rowspan="1" colspan="1"><p>FUNDO MUNICIPAL DE SAÚDE</p></td>      <td rowspan="1" colspan="1"><p>36000573619202300</p></td>      <td rowspan="1" colspan="1"><p>30860002</p></td>      <td rowspan="1" colspan="1"><p>300.000,00</p></td>      <td rowspan="1" colspan="1"><p>300.000,00</p></td>      <td rowspan="1" colspan="1"><p>1030150192E890017</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>TO</p></td>      <td rowspan="1" colspan="1"><p>BURITI DO TOCANTINS</p></td>      <td rowspan="1" colspan="1"><p>FUNDO MUNICIPAL DE SAÚDE</p></td>      <td rowspan="1" colspan="1"><p>36000573621202300</p></td>      <td rowspan="1" colspan="1"><p>30860016</p></td>      <td rowspan="1" colspan="1"><p>234.402,00</p></td>      <td rowspan="1" colspan="1"><p>234.402,00</p></td>      <td rowspan="1" colspan="1"><p>1030150192E890017</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>TO</p></td>      <td rowspan="1" colspan="1"><p>BURITI DO TOCANTINS</p></td>      <td rowspan="1" colspan="1"><p>FUNDO MUNICIPAL DE SAÚDE</p></td>      <td rowspan="1" colspan="1"><p>36000573620202300</p></td>      <td rowspan="1" colspan="1"><p>30860002</p></td>      <td rowspan="1" colspan="1"><p>188.762,00</p></td>      <td rowspan="1" colspan="1"><p>188.762,00</p></td>      <td rowspan="1" colspan="1"><p>1030150192E890017</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>TO</p></td>      <td rowspan="1" colspan="1"><p>ALMAS</p></td>      <td rowspan="1" colspan="1"><p>FUNDO MUNICIPAL DE SAÚDE DE ALMAS</p></td>      <td rowspan="1" colspan="1"><p>36000574302202300</p></td>      <td rowspan="1" colspan="1"><p>30860012</p><p>30860017</p><p>30860016</p><p>30860016</p><p>30860021</p><p>30860021</p></td>      <td rowspan="1" colspan="1"><p>2.266,00</p><p>31.440,00</p><p>65.598,00</p><p>188.762,00</p><p>188.762,00</p><p>300.000,00</p></td>      <td rowspan="1" colspan="1"><p>776.828,00</p></td>      <td rowspan="1" colspan="1"><p>1030150192E890017</p></td>     </tr>    </tbody>   </table>

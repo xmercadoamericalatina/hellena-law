@@ -1,0 +1,204 @@
+---
+titulo: "PORTARIA SGTES/MS Nº 180, DE 9 DE JANEIRO DE 2026"
+orgao: "Ministério da Saúde/Secretaria de Gestão do Trabalho e da Educação na Saúde"
+tipo: "Portaria"
+numero: "180"
+data: 2026-01-09
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 12/01/2026, seção 1, p. 76"
+data_publicacao: 2026-01-12
+edicao: "7"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-sgtes/ms-n-180-de-9-de-janeiro-de-2026-680386003"
+baixado_em: 2026-10-15
+---
+# PORTARIA SGTES/MS Nº 180, DE 9 DE JANEIRO DE 2026
+
+PORTARIA SGTES/MS Nº 180, DE 9 DE JANEIRO DE 2026
+
+Divulga o resultado final dos Programas de Residência em Área Profissional da Saúde que concorreram às bolsas do Programa Nacional de Bolsas para Residências Multiprofissionais e em Área Profissional da Saúde (Pró-Residência), nos termos do Edital SGTES/MS nº 7, de 16 de setembro de 2025.
+
+o Secretário de Gestão do Trabalho e da Educação na Saúde Substituto, no uso das atribuições que lhe confere a Portaria GM/MS nº 276, de 03 de abril de 2025, publicado no Diário Oficial da União nº 66, de 07 de abril de 2025, Seção 2, e nos termos do Edital SGTES/MS nº 7, de 16 de setembro de 2025, resolve:
+
+**Art. 1º** Divulgar, no Anexo I desta Portaria, o resultado final dos Programas de Residência em Área Profissional da Saúde - PRAPS com adesões homologadas e respectivo número de bolsas concedidas pelo Ministério da Saúde, no âmbito do Programa Nacional de Bolsas para Residências Multiprofissionais e em Área Profissional da Saúde (Pró-Residência).
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+JÉRZEY TIMÓTEO RIBEIRO SANTOS
+
+## ANEXO I
+
+| PROGRAMAS DE RESIDÊNCIA EM ÁREA PROFISSIONAL DA SAÚDE EM ESTADOS DA AMAZÔNIA LEGAL |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| NATUREZA JURÍDICA | UF | CNPJ | RAZÃO SOCIAL | CÓDIGO MS | ÁREA DE ESPECIALIZAÇÃO | Nº DE BOLSAS CONCEDIDAS |
+| Instituição Federal MEC | AC | 04071106000137 | FUNDAÇÃO UNIVERSIDADE FEDERAL DO ACRE | 18.453 | ENFERMAGEM OBSTÉTRICA | 6 |
+| Instituição Federal MEC | AC | 04071106000137 | FUNDAÇÃO UNIVERSIDADE FEDERAL DO ACRE | 17.710 | ATENÇÃO À SAÚDE MENTAL | 10 |
+| Instituição Federal MEC | AC | 04071106000137 | FUNDAÇÃO UNIVERSIDADE FEDERAL DO ACRE | 17.653 | ATENÇÃO EM URGÊNCIA E EMERGÊNCIA | 6 |
+| Órgão/instituição pública municipal | AM | 04461836000144 | SECRETARIA MUNICIPAL DE SAÚDE DE MANAUS | 16.146 | ATENÇÃO PRIMÁRIA À SAÚDE | 6 |
+| Órgão/instituição pública estadual | AM | 00697295000105 | SECRETARIA DE ESTADO DA SAÚDE - SUSAM | 16.480 | ATENÇÃO À SAÚDE NEONATAL | 2 |
+| Órgão/instituição pública estadual | AM | 00697295000105 | SECRETARIA DE ESTADO DA SAÚDE - SUSAM | 16.481 | ATENÇÃO À SAÚDE DA MULHER | 9 |
+| Órgão/instituição pública estadual | AM | 04280196000176 | UNIVERSIDADE DO ESTADO DO AMAZONAS | 16.512 | ATENÇÃO À SAÚDE MENTAL | 10 |
+| Órgão/instituição pública estadual | AM | 04280196000176 | UNIVERSIDADE DO ESTADO DO AMAZONAS | 16.513 | TRANSPLANTE | 10 |
+| Órgão/instituição pública estadual | AM | 04280196000176 | UNIVERSIDADE DO ESTADO DO AMAZONAS | 16.514 | ESTOMATOLOGIA | 6 |
+| Órgão/instituição pública estadual | AM | 04280196000176 | UNIVERSIDADE DO ESTADO DO AMAZONAS | 16.516 | ATENÇÃO À SAÚDE INDÍGENA | 2 |
+| Órgão/instituição pública estadual | AM | 04280196000176 | UNIVERSIDADE DO ESTADO DO AMAZONAS | 16.518 | ATENÇÃO PRIMÁRIA À SAÚDE | 2 |
+| Órgão/instituição pública estadual | AM | 63678320000115 | FUNDAÇÃO HOSPITALAR DE HEMATOLOGIA E HEMOTERAPIA DO AMAZONAS | 16.777 | ATENÇÃO EM ONCOLOGIA | 10 |
+| Órgão/instituição pública estadual | AP | 50956623000100 | FUNDAÇÃO DE SAÚDE AMAPAENSE | 17.189 | ENFERMAGEM OBSTÉTRICA | 4 |
+| Órgão/instituição pública estadual | AP | 50956623000100 | FUNDAÇÃO DE SAÚDE AMAPAENSE | 17.190 | ATENÇÃO EM ONCOLOGIA | 6 |
+| Órgão/instituição pública estadual | AP | 50956623000100 | FUNDAÇÃO DE SAÚDE AMAPAENSE | 17.191 | ATENÇÃO À SAÚDE NEONATAL | 6 |
+| Instituição Federal MEC | AP | 15126437000143 | EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES | 19.476 | ATENÇÃO EM NEUROLOGIA | 4 |
+| Instituição Federal MEC | AP | 15126437000143 | EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES | 19.475 | ATENÇÃO EM TERAPIA INTENSIVA | 6 |
+| Instituição Federal MEC | AP | 15126437000143 | EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES | 19.473 | ENFERMAGEM OBSTÉTRICA | 4 |
+| Instituição Federal MEC | AP | 15126437000143 | EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES | 19.469 | FARMÁCIA CLÍNICA | 4 |
+| Instituição Federal MEC | AP | 15126437000143 | EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES | 19.477 | ATENÇÃO CLÍNICA ESPECIALIZADA | 6 |
+| Instituição Federal MEC | AP | 34868257000181 | FUNDAÇÃO UNIVERSIDADE FEDERAL DO AMAPÁ | 19.671 | ATENÇÃO PRIMÁRIA À SAÚDE | 4 |
+| Órgão/instituição pública estadual | MA | 02973240000106 | SECRETARIA DE ESTADO DA SAÚDE DO MARANHÃO | 17.348 | ATENÇÃO À SAÚDE INDÍGENA | 10 |
+| Órgão/instituição pública estadual | MA | 06352421000168 | UNIVERSIDADE ESTADUAL DO MARANHÃO | 17.561 | CUIDADOS PALIATIVOS | 10 |
+| Instituição Federal MEC | MA | 06279103000119 | FUNDAÇÃO UNIVERSIDADE FEDERAL DO MARANHÃO | 17.421 | GESTÃO HOSPITALAR | 7 |
+| Órgão/instituição pública estadual | MT | 57252971000146 | SECRETARIA DE ESTADO DE SAÚDE DE MATO GROSSO | 16.499 | ATENÇÃO EM ONCOLOGIA | 3 |
+| Órgão/instituição pública estadual | MT | 57252971000146 | SECRETARIA DE ESTADO DE SAÚDE DE MATO GROSSO | 16.506 | ENFERMAGEM OBSTÉTRICA | 3 |
+| Órgão/instituição pública estadual | MT | 57252971000146 | SECRETARIA DE ESTADO DE SAÚDE DE MATO GROSSO | 16.510 | ATENÇÃO PRIMÁRIA À SAÚDE | 10 |
+| Órgão/instituição pública estadual | MT | 57252971000146 | SECRETARIA DE ESTADO DE SAÚDE DE MATO GROSSO | 16.522 | ATENÇÃO À SAÚDE DA MULHER | 6 |
+| Órgão/instituição pública estadual | MT | 57252971000146 | SECRETARIA DE ESTADO DE SAÚDE DE MATO GROSSO | 16.523 | ATENÇÃO À SAÚDE MENTAL | 6 |
+| Órgão/instituição pública estadual | MT | 01367770000130 | FUNDAÇÃO UNIVERSIDADE DO ESTADO DE MATO GROSSO | 17.183 | ATENÇÃO À SAÚDE DA MULHER | 8 |
+| Órgão/instituição pública estadual | MT | 01367770000130 | FUNDAÇÃO UNIVERSIDADE DO ESTADO DE MATO GROSSO | 17.557 | ATENÇÃO À SAÚDE DA MULHER | 6 |
+| Instituição Federal MEC | PA | 34621748000123 | UNIVERSIDADE FEDERAL DO PARÁ | 19.871 | ATENÇÃO À SAÚDE DA PESSOA COM DEFICIÊNCIA | 2 |
+| Instituição Federal MEC | PA | 34621748000123 | UNIVERSIDADE FEDERAL DO PARÁ | 19.872 | ATENÇÃO PRIMÁRIA À SAÚDE | 8 |
+| Instituição Federal MEC | PA | 34621748000123 | UNIVERSIDADE FEDERAL DO PARÁ | 19.869 | VIGILÂNCIA EM SAÚDE | 10 |
+| Instituição Federal MEC | PA | 05200001000101 | UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA | 16.153 | ATENÇÃO À SAÚDE DA MULHER | 4 |
+| Instituição Federal MEC | PA | 05200001000101 | UNIVERSIDADE FEDERAL RURAL DA AMAZÔNIA | 16.152 | ENFERMAGEM OBSTÉTRICA | 2 |
+| Instituição Federal MS | RO | 00394544003010 | MINISTÉRIO DA SAÚDE | 17.198 | ATENÇÃO À SAÚDE INDÍGENA | 10 |
+| Órgão/instituição pública municipal | RO | 07851282000180 | FUNDO MUNICIPAL DE SAÚDE | 16.659 | ENFERMAGEM OBSTÉTRICA | 8 |
+| Órgão/instituição pública municipal | RO | 11465675000122 | FUNDO MUNICIPAL DE SAÚDE DE SERINGUEIRAS | 16.996 | ATENÇÃO PRIMÁRIA À SAÚDE | 10 |
+| Órgão/instituição pública municipal | RO | 11402806000122 | FUNDO MUNICIPAL DE SAÚDE | 16.998 | ATENÇÃO PRIMÁRIA À SAÚDE | 10 |
+| Órgão/instituição pública municipal | RO | 08968508000190 | FUNDO MUNICIPAL DE SAÚDE DE PIMENTA BUENO | 17.188 | ENFERMAGEM OBSTÉTRICA | 3 |
+| Órgão/instituição pública municipal | RO | 04092714000128 | MUNICÍPIO DE CACOAL | 17.208 | ENFERMAGEM OBSTÉTRICA | 3 |
+| Órgão/instituição pública municipal | RO | 04092714000128 | MUNICÍPIO DE CACOAL | 17.209 | ATENÇÃO À SAÚDE NEONATAL | 2 |
+| Órgão/instituição pública municipal | RO | 11079071000148 | FUNDO MUNICIPAL DE SAÚDE DE BURITIS | 17.246 | ENFERMAGEM OBSTÉTRICA | 10 |
+| Órgão/instituição pública municipal | RO | 23085655000105 | FUNDO MUNICIPAL DE SAÚDE DE NOVA BRASILANDIA D'OESTE | 17.264 | ATENÇÃO PRIMÁRIA À SAÚDE | 10 |
+| Órgão/instituição pública estadual | RO | 04287520000188 | SECRETARIA DE ESTADO DA SAÚDE DE RONDÔNIA | 17.139 | ATENÇÃO CLÍNICA ESPECIALIZADA | 3 |
+| Órgão/instituição pública estadual | RO | 04287520000188 | SECRETARIA DE ESTADO DA SAÚDE DE RONDÔNIA | 17.148 | ATENÇÃO À SAÚDE DA CRIANÇA | 5 |
+| Instituição privada sem fins lucrativos | RO | 04107119000119 | INSTITUTO DE ENSINO SUPERIOR DE RONDÔNIA | 16.118 | ENFERMAGEM OBSTÉTRICA | 4 |
+| Órgão/instituição pública estadual | RR | 08240695000190 | UNIVERSIDADE ESTADUAL DE RORAIMA | 17.158 | SAÚDE COLETIVA | 10 |
+| Órgão/instituição pública estadual | RR | 08240695000190 | UNIVERSIDADE ESTADUAL DE RORAIMA | 17.160 | ATENÇÃO À SAÚDE NEONATAL | 5 |
+| Órgão/instituição pública estadual | RR | 08240695000190 | UNIVERSIDADE ESTADUAL DE RORAIMA | 17.161 | ENFERMAGEM OBSTÉTRICA | 5 |
+| Órgão/instituição pública municipal | TO | 20184893000180 | FUNDAÇÃO ESCOLA DE SAÚDE PÚBLICA DE PALMAS | 16.848 | ATENÇÃO À SAÚDE MENTAL | 10 |
+| Órgão/instituição pública municipal | TO | 20184893000180 | FUNDAÇÃO ESCOLA DE SAÚDE PÚBLICA DE PALMAS | 17.405 | ATENÇÃO À SAÚDE DA MULHER | 10 |
+| Instituição Federal MEC | TO | 05149726000104 | FUNDAÇÃO UNIVERSIDADE FEDERAL DO TOCANTINS | 16.187 | ATENÇÃO HOSPITALAR | 10 |
+| Órgão/instituição pública estadual | TO | 25053117000164 | SECRETARIA DA SAÚDE | 16.532 | ATENÇÃO EM URGÊNCIA E EMERGÊNCIA | 10 |
+| Órgão/instituição pública estadual | TO | 25053117000164 | SECRETARIA DA SAÚDE | 16.534 | ENFERMAGEM OBSTÉTRICA | 4 |
+| Órgão/instituição pública estadual | TO | 25053117000164 | SECRETARIA DA SAÚDE | 16.943 | REABILITAÇÃO FÍSICA | 10 |
+| Órgão/instituição pública estadual | TO | 25053117000164 | SECRETARIA DA SAÚDE | 16.944 | ENFERMAGEM OBSTÉTRICA | 6 |
+| Órgão/instituição pública estadual | TO | 01637536000185 | UNIVERSIDADE ESTADUAL DO TOCANTINS | 17.266 | ENFERMAGEM OBSTÉTRICA | 5 |
+| Órgão/instituição pública estadual | TO | 01637536000185 | UNIVERSIDADE ESTADUAL DO TOCANTINS | 17.267 | ATENÇÃO PRIMÁRIA À SAÚDE | 8 |
+| PROGRAMAS DE RESIDÊNCIA EM ÁREA PROFISSIONAL DA SAÚDE NAS ÁREAS DE CONCENTRAÇÃO ESTRATÉGICAS PARA O SUS DE PRIORIDADE NACIONAL |  |  |  |  |  |  |
+| NATUREZA JURÍDICA | UF | CNPJ | RAZÃO SOCIAL | CÓDIGO MS | ÁREA DE ESPECIALIZAÇÃO | Nº DE BOLSAS CONCEDIDAS |
+| Órgão/instituição pública municipal | BA | 13927801000572 | MUNICÍPIO DE SALVADOR | 16.396 | ATENÇÃO PRIMÁRIA À SAÚDE | 10 |
+| Órgão/instituição pública municipal | BA | 13927801000572 | MUNICÍPIO DE SALVADOR | 16.397 | ATENÇÃO À SAÚDE MENTAL | 2 |
+| Órgão/instituição pública estadual | BA | 13937131000141 | SECRETARIA DE SAÚDE DO ESTADO DA BAHIA | 16.112 | ENFERMAGEM OBSTÉTRICA | 3 |
+| Órgão/instituição pública estadual | BA | 13937131000141 | SECRETARIA DE SAÚDE DO ESTADO DA BAHIA | 16.113 | ATENÇÃO À SAÚDE NEONATAL | 7 |
+| Órgão/instituição pública estadual | BA | 13069489000108 | AUTARQUIA UNIVERSIDADE DO SUDOESTE | 16.326 | ATENÇÃO PRIMÁRIA À SAÚDE | 10 |
+| Órgão/instituição pública estadual | BA | 02917234000123 | CENTRO ESTADUAL DE PREVENÇÃO E REABILITAÇÃO DO DEFICIENTE | 16.366 | REABILITAÇÃO FÍSICA | 10 |
+| Órgão/instituição pública estadual | BA | 13937131005372 | SECRETARIA DE SAÚDE DO ESTADO DA BAHIA | 16.482 | CUIDADOS PALIATIVOS | 5 |
+| Órgão/instituição pública estadual | BA | 13937131005372 | SECRETARIA DE SAÚDE DO ESTADO DA BAHIA | 16.483 | ATENÇÃO EM ONCOLOGIA | 6 |
+| Órgão/instituição pública estadual | BA | 13937131005372 | SECRETARIA DE SAÚDE DO ESTADO DA BAHIA | 16.485 | ATENÇÃO À SAÚDE DA CRIANÇA | 4 |
+| Instituição Federal MEC | BA | 15180714000104 | UNIVERSIDADE FEDERAL DA BAHIA | 19.145 | ATENÇÃO À SAÚDE NEONATAL | 10 |
+| Instituição Federal MEC | BA | 07777800000162 | UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA | 17.345 | ATENÇÃO EM OBSTETRÍCIA | 8 |
+| Instituição Federal MEC | BA | 07777800000162 | UNIVERSIDADE FEDERAL DO RECÔNCAVO DA BAHIA | 17.344 | ATENÇÃO EM ONCOLOGIA | 6 |
+| Órgão/instituição pública municipal | BA | 13822397000149 | FUNDO MUNICIPAL DE SAÚDE | 16.882 | ATENÇÃO PRIMÁRIA À SAÚDE | 10 |
+| Órgão/instituição pública estadual | BA | 13937131005887 | SECRETARIA DE SAÚDE DO ESTADO DA BAHIA | 16.807 | ATENÇÃO À SAÚDE DA MULHER | 10 |
+| Instituição privada sem fins lucrativos | BA | 13227038000143 | SANTA CASA DE MISERICÓRDIA | 16.349 | ATENÇÃO EM ONCOLOGIA | 10 |
+| Instituição privada sem fins lucrativos | BA | 15153745000249 | SANTA CASA DE MISERICÓRDIA DA BAHIA | 16.775 | ATENÇÃO EM ONCOLOGIA | 10 |
+| Instituição privada sem fins lucrativos | BA | 15194004001369 | FUNDAÇÃO JOSÉ SILVEIRA | 17.157 | ENFERMAGEM OBSTÉTRICA | 6 |
+| Instituição privada sem fins lucrativos | BA | 15153745000249 | SANTA CASA DE MISERICÓRDIA DA BAHIA | 17.278 | ATENÇÃO EM ONCOLOGIA | 1 |
+| Órgão/instituição pública estadual | CE | 07954571000104 | SECRETARIA DA SAÚDE DO ESTADO DO CEARÁ | 16.150 | CUIDADOS PALIATIVOS | 4 |
+| Órgão/instituição pública estadual | CE | 73695868000127 | ESCOLA DE SAÚDE PÚBLICA DO CEARÁ | 17.217 | ATENÇÃO EM ONCOLOGIA | 7 |
+| Órgão/instituição pública estadual | CE | 73695868000127 | ESCOLA DE SAÚDE PÚBLICA DO CEARÁ | 17.220 | ATENÇÃO À SAÚDE NEONATAL | 2 |
+| Órgão/instituição pública estadual | CE | 73695868000127 | ESCOLA DE SAÚDE PÚBLICA DO CEARÁ | 17.224 | ATENÇÃO À SAÚDE DA CRIANÇA | 2 |
+| Órgão/instituição pública estadual | CE | 73695868000127 | ESCOLA DE SAÚDE PÚBLICA DO CEARÁ | 17.225 | ENFERMAGEM OBSTÉTRICA | 2 |
+| Órgão/instituição pública estadual | CE | 73695868000127 | ESCOLA DE SAÚDE PÚBLICA DO CEARÁ | 17.239 | CUIDADOS PALIATIVOS | 4 |
+| Órgão/instituição pública estadual | CE | 73695868000127 | ESCOLA DE SAÚDE PÚBLICA DO CEARÁ | 17.255 | ATENÇÃO À SAÚDE DA CRIANÇA | 10 |
+| Órgão/instituição pública estadual | CE | 73695868000127 | ESCOLA DE SAÚDE PÚBLICA DO CEARÁ | 17.259 | ATENÇÃO À SAÚDE MENTAL | 6 |
+| Órgão/instituição pública estadual | CE | 73695868000127 | ESCOLA DE SAÚDE PÚBLICA DO CEARÁ | 17.263 | FÍSICA MÉDICA | 2 |
+| Órgão/instituição pública estadual | CE | 73695868000127 | ESCOLA DE SAÚDE PÚBLICA DO CEARÁ | 17.256 | ATENÇÃO EM ONCOLOGIA | 8 |
+| Instituição Federal MEC | DF | 00038174000658 | FUNDAÇÃO UNIVERSIDADE DE BRASÍLIA | 16.992 | ATENÇÃO PRIMÁRIA À SAÚDE | 10 |
+| Órgão/instituição pública estadual | DF | 00394700000108 | SECRETARIA DE SAÚDE DO DISTRITO FEDERAL | 17.238 | ATENÇÃO EM ONCOLOGIA | 1 |
+| Órgão/instituição pública estadual | DF | 00394700000108 | SECRETARIA DE SAÚDE DO DISTRITO FEDERAL | 17.242 | ATENÇÃO PRIMÁRIA À SAÚDE | 10 |
+| Órgão/instituição pública estadual | GO | 02529964000157 | SECRETARIA DE ESTADO DA SAÚDE | 16.962 | ONCOLOGIA PEDIÁTRICA | 9 |
+| Órgão/instituição pública estadual | GO | 02529964000157 | SECRETARIA DE ESTADO DA SAÚDE | 16.966 | ATENÇÃO EM ONCOLOGIA | 10 |
+| Instituição privada sem fins lucrativos | GO | 01585595000157 | ASSOCIAÇÃO DE COMBATE AO CÂNCER EM GOIÁS | 16.417 | ATENÇÃO EM ONCOLOGIA | 2 |
+| Instituição privada sem fins lucrativos | GO | 01585595000157 | ASSOCIAÇÃO DE COMBATE AO CÂNCER EM GOIÁS | 16.419 | ATENÇÃO EM ONCOLOGIA | 3 |
+| Órgão/instituição pública estadual | MG | 22675359000100 | UNIVERSIDADE ESTADUAL DE MONTES CLAROS | 17.171 | ATENÇÃO PRIMÁRIA À SAÚDE | 10 |
+| Órgão/instituição pública estadual | MG | 22675359000100 | UNIVERSIDADE ESTADUAL DE MONTES CLAROS | 17.581 | ATENÇÃO PRIMÁRIA À SAÚDE | 10 |
+| Instituição Federal MEC | MG | 17217985000104 | UNIVERSIDADE FEDERAL DE MINAS GERAIS | 17.299 | ATENÇÃO À SAÚDE NEONATAL | 6 |
+| Órgão/instituição pública municipal | MG | 13064113000100 | FUNDO MUNICIPAL DE SAÚDE DE BETIM | 16.327 | ATENÇÃO EM ONCOLOGIA | 10 |
+| Órgão/instituição pública municipal | MG | 13064113000100 | FUNDO MUNICIPAL DE SAÚDE DE BETIM | 16.328 | ATENÇÃO À SAÚDE DA MULHER | 5 |
+| Órgão/instituição pública municipal | MG | 13064113000100 | FUNDO MUNICIPAL DE SAÚDE DE BETIM | 16.365 | ATENÇÃO À SAÚDE MENTAL | 6 |
+| Instituição Federal MEC | MS | 07775847000278 | FUNDAÇÃOO UNIVERSIDADE FEDERAL DA GRANDE DOURADOS | 19.464 | ATENÇÃO À SAÚDE INDÍGENA | 6 |
+| Instituição Federal MEC | MS | 07775847000278 | FUNDAÇÃOO UNIVERSIDADE FEDERAL DA GRANDE DOURADOS | 19.467 | ATENÇÃO À SAÚDE NEONATAL | 4 |
+| Instituição Federal MEC | MS | 15461510000133 | FUNDAÇÃO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL | 17.132 | ATENÇÃO À SAÚDE DA CRIANÇA | 5 |
+| Instituição Federal MEC | MS | 15461510000133 | FUNDAÇÃO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL | 19.874 | ENFERMAGEM OBSTÉTRICA | 5 |
+| Órgão/instituição pública municipal | MS | 11084263000142 | FUNDO MUNICIPAL DE SAÚDE | 16.074 | ATENÇÃO PRIMÁRIA À SAÚDE | 10 |
+| Órgão/instituição pública municipal | MS | 14004655000142 | FUNDO MUNICIPAL DE SAÚDE DE CHAPADÃO DO SUL | 16.174 | ATENÇÃO PRIMÁRIA À SAÚDE | 10 |
+| Instituição privada sem fins lucrativos | MS | 04311093000126 | CAIXA DE ASSISTÊNCIA DOS SERVIDORES DO ESTADO DE MATO GROSSO DO SUL | 16.759 | ATENÇÃO EM ONCOLOGIA | 10 |
+| Instituição Federal MEC | PB | 24098477000110 | UNIVERSIDADE FEDERAL DA PARAÍBA | 17.378 | ATENÇÃO EM OBSTETRÍCIA | 2 |
+| Instituição Federal MEC | PB | 05055128000176 | UNIVERSIDADE FEDERAL DE CAMPINA GRANDE | 16.707 | PATOLOGIA BUCAL | 2 |
+| Instituição Federal MEC | PB | 05055128000176 | UNIVERSIDADE FEDERAL DE CAMPINA GRANDE | 19.908 | ATENÇÃO À SAÚDE DA CRIANÇA | 8 |
+| Órgão/instituição pública municipal | PB | 08674396000164 | FUNDO MUNICIPAL DE SAÚDE DE MAMANGUAPE | 16.865 | ATENÇÃO PRIMÁRIA À SAÚDE | 10 |
+| Órgão/instituição pública estadual | PB | 08778268000160 | SECRETARIA DE ESTADO DA SAÚDE | 16.264 | ATENÇÃO PRIMÁRIA À SAÚDE | 10 |
+| Órgão/instituição pública estadual | PB | 08778268000160 | SECRETARIA DE ESTADO DA SAÚDE | 16.268 | ATENÇÃO EM ONCOLOGIA | 4 |
+| Órgão/instituição pública estadual | PB | 12671814000137 | UNIVERSIDADE ESTADUAL DA PARAÍBA | 17.313 | ATENÇÃO À SAÚDE DA MULHER | 10 |
+| Instituição Federal MEC | PE | 24134488000108 | UNIVERSIDADE FEDERAL DE PERNAMBUCO | 19.886 | ATENÇÃO À SAÚDE DA CRIANÇA | 2 |
+| Instituição Federal MEC | PE | 24134488000108 | UNIVERSIDADE FEDERAL DE PERNAMBUCO | 19.887 | ATENÇÃO À SAÚDE DA CRIANÇA | 4 |
+| Instituição Federal MEC | PE | 24134488000108 | UNIVERSIDADE FEDERAL DE PERNAMBUCO | 19.888 | FÍSICA MÉDICA | 1 |
+| Órgão/instituição pública municipal | PE | 41090291000133 | FUNDO MUNICIPAL DE SAÚDE | 17.227 | ATENÇÃO PRIMÁRIA À SAÚDE | 6 |
+| Órgão/instituição pública municipal | PE | 41090291000133 | FUNDO MUNICIPAL DE SAÚDE | 17.233 | ATENÇÃO À SAÚDE MENTAL | 2 |
+| Órgão/instituição pública municipal | PE | 41090291000133 | FUNDO MUNICIPAL DE SAÚDE | 17.237 | ATENÇÃO À SAÚDE NEONATAL | 2 |
+| Órgão/instituição pública estadual | PE | 11022597000191 | FUNDAÇÃO UNIVERSIDADE DE PERNAMBUCO | 17.205 | PATOLOGIA BUCAL | 2 |
+| Órgão/instituição pública estadual | PE | 10572048000128 | SECRETARIA DE SAÚDE | 16.714 | ENFERMAGEM OBSTÉTRICA | 2 |
+| Órgão/instituição pública estadual | PE | 10572048000128 | SECRETARIA DE SAÚDE | 16.853 | ATENÇÃO PRIMÁRIA À SAÚDE | 10 |
+| Instituição privada sem fins lucrativos | PE | 10894988000133 | SOCIEDADE PERNAMBUCANA DE COMBATE AO CÂNCER | 16.040 | ATENÇÃO EM ONCOLOGIA | 2 |
+| Instituição privada sem fins lucrativos | PE | 10988301000129 | INSTITUTO DE MEDICINA INTEGRAL PROFESSOR FERNANDO FIGUEIRA | 16.668 | ATENÇÃO À SAÚDE DA CRIANÇA | 2 |
+| Instituição privada sem fins lucrativos | PE | 10988301000129 | INSTITUTO DE MEDICINA INTEGRAL PROFESSOR FERNANDO FIGUEIRA | 16.682 | ATENÇÃO EM ONCOLOGIA | 6 |
+| Instituição privada sem fins lucrativos | PE | 10988301000129 | INSTITUTO DE MEDICINA INTEGRAL PROFESSOR FERNANDO FIGUEIRA | 16.684 | FÍSICA MÉDICA | 1 |
+| Instituição privada sem fins lucrativos | PE | 10988301000129 | INSTITUTO DE MEDICINA INTEGRAL PROFESSOR FERNANDO FIGUEIRA | 16.852 | ATENÇÃO À SAÚDE MENTAL | 4 |
+| Instituição privada sem fins lucrativos | PE | 09993940000101 | ASSOCIAÇÃO CARUARUENSE DE ENSINO SUPERIOR E TÉCNICO | 16.936 | PATOLOGIA BUCAL | 2 |
+| Instituição privada sem fins lucrativos | PE | 09993940000101 | ASSOCIAÇÃO CARUARUENSE DE ENSINO SUPERIOR E TÉCNICO | 17.219 | ENFERMAGEM OBSTÉTRICA | 3 |
+| Instituição privada sem fins lucrativos | PE | 10988301000129 | INSTITUTO DE MEDICINA INTEGRAL PROFESSOR FERNANDO FIGUEIRA | 17.310 | ATENÇÃO EM OBSTETRÍCIA | 2 |
+| Instituição privada sem fins lucrativos | PE | 03391726000190 | ASSOCIAÇÃO VITORIENSE DE EDUCAÇÃO, CIÊNCIAS E CULTURA | 17.339 | PATOLOGIA BUCAL | 2 |
+| Instituição Federal MEC | PI | 06517387000134 | FUNDAÇÃO UNIVERSIDADE FEDERAL DO PIAUÍ | 16.229 | ATENÇÃO À SAÚDE DA MULHER | 10 |
+| Instituição Federal MEC | PI | 06517387000135 | FUNDAÇÃO UNIVERSIDADE FEDERAL DO PIAUÍ | 16.230 | ENFERMAGEM OBSTÉTRICA | 5 |
+| Instituição Federal MEC | PI | 06517387000134 | FUNDAÇÃO UNIVERSIDADE FEDERAL DO PIAUÍ | 16.825 | ATENÇÃO À SAÚDE DA MULHER | 5 |
+| Instituição Federal MEC | PI | 06517387000134 | FUNDAÇÃO UNIVERSIDADE FEDERAL DO PIAUÍ | 17.486 | ENFERMAGEM OBSTÉTRICA | 5 |
+| Instituição Federal MEC | PI | 06517387000134 | FUNDAÇÃO UNIVERSIDADE FEDERAL DO PIAUÍ | 17.453 | ENFERMAGEM OBSTÉTRICA | 5 |
+| Instituição Federal MEC | PI | 06517387000134 | FUNDAÇÃO UNIVERSIDADE FEDERAL DO PIAUÍ | 17.409 | ENFERMAGEM OBSTÉTRICA | 5 |
+| Instituição Federal MEC | PI | 33519114000100 | UNIVERSIDADE FEDERAL DO DELTA DO PARNAIBA | 17.600 | ATENÇÃO À SAÚDE DA MULHER | 6 |
+| Órgão/instituição pública estadual | PI | 07471758000157 | FUNDAÇÃO UNIVERSIDADE ESTADUAL DO PIAUÍ | 16.248 | ATENÇÃO À SAÚDE NEONATAL | 9 |
+| Instituição Federal MEC | PR | 75095679000149 | UNIVERSIDADE FEDERAL DO PARANÁ | 16.824 | PATOLOGIA BUCAL | 2 |
+| Instituição Federal MS | RJ | 33781055000216 | FUNDAÇÃO OSWALDO CRUZ | 17.688 | ATENÇÃO À SAÚDE DA MULHER | 3 |
+| Instituição Federal MS | RJ | 33781055000216 | FUNDAÇÃO OSWALDO CRUZ | 17.692 | ATENÇÃO À SAÚDE DA CRIANÇA | 3 |
+| Instituição Federal MS | RJ | 33781055000216 | FUNDAÇÃO OSWALDO CRUZ | 19.086 | ATENÇÃO À SAÚDE NEONATAL | 3 |
+| Instituição Federal MS | RJ | 33781055000216 | FUNDAÇÃO OSWALDO CRUZ | 19.087 | ATENÇÃO À SAÚDE DA CRIANÇA | 3 |
+| Instituição Federal MEC | RJ | 33663683006742 | UNIVERSIDADE FEDERAL DO RIO DE JANEIRO | 16.671 | PATOLOGIA BUCAL | 2 |
+| Instituição Federal MEC | RJ | 33663683006742 | UNIVERSIDADE FEDERAL DO RIO DE JANEIRO | 17.744 | ATENÇÃO À SAÚDE NEONATAL | 2 |
+| Órgão/instituição pública municipal | RJ | 28521748000159 | MUNICÍPIO DE NITERÓI | 17.847 | ATENÇÃO À SAÚDE MENTAL | 8 |
+| Órgão/instituição pública municipal | RJ | 42498733000148 | MUNICÍPIO DE RIO DE JANEIRO | 16.567 | ATENÇÃO PRIMÁRIA À SAÚDE | 10 |
+| Instituição privada sem fins lucrativos | RN | 08428765000139 | LIGA NORTE RIOGRANDENSE CONTRA O CÂNCER | 17.472 | ATENÇÃO EM ONCOLOGIA | 5 |
+| Instituição Federal MEC | RN | 24365710000183 | UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE | 16.840 | ENFERMAGEM OBSTÉTRICA | 2 |
+| Órgão/instituição pública estadual | RN | 08241754011775 | SECRETARIA DA SAÚDE PÚBLICA DO RIO GRANDE DO NORTE | 17.134 | ATENÇÃO À SAÚDE DA CRIANÇA | 6 |
+| Órgão/instituição pública estadual | RN | 08241754011775 | SECRETARIA DA SAÚDE PÚBLICA DO RIO GRANDE DO NORTE | 17.516 | ENFERMAGEM OBSTÉTRICA | 4 |
+| Órgão/instituição pública estadual | RN | 08241754011775 | SECRETARIA DA SAÚDE PÚBLICA DO RIO GRANDE DO NORTE | 17.514 | ATENÇÃO À SAÚDE DA MULHER | 7 |
+| Instituição privada sem fins lucrativos | RN | 08337586000196 | INSTITUTO DE PROTEÇÃO E ASSISTÊNCIA A INFÂNCIA DO RN | 17.499 | ATENÇÃO À SAÚDE DA CRIANÇA | 9 |
+| Instituição privada sem fins lucrativos | RN | 19176461000300 | INSTITUTO DE ENSINO E PESQUISA ALBERTO SANTOS DUMONT | 17.376 | ATENÇÃO À SAÚDE MENTAL | 4 |
+| Instituição privada sem fins lucrativos | RS | 95815668000101 | ASSOCIAÇÃO HOSPITALAR CARIDADE SANTA ROSA | 16.164 | ATENÇÃO EM ONCOLOGIA | 10 |
+| Instituição privada sem fins lucrativos | RS | 95815668000101 | ASSOCIAÇÃO HOSPITALAR CARIDADE SANTA ROSA | 16.165 | REABILITAÇÃO FÍSICA | 5 |
+| Instituição privada sem fins lucrativos | RS | 95815668000101 | ASSOCIAÇÃO HOSPITALAR CARIDADE SANTA ROSA | 16.172 | ATENÇÃO À SAÚDE MENTAL | 7 |
+| Instituição privada sem fins lucrativos | RS | 95815668000101 | ASSOCIAÇÃO HOSPITALAR CARIDADE SANTA ROSA | 16.175 | ATENÇÃO EM OBSTETRÍCIA | 7 |
+| Instituição Federal MEC | RS | 94877586000110 | UNIVERSIDADE FEDERAL DO RIO GRANDE | 18.056 | FÍSICA MÉDICA | 1 |
+| Instituição Federal MEC | SC | 11234780000746 | UNIVERSIDADE FEDERAL DA FRONTEIRA SUL | 19.907 | ATENÇÃO PRIMÁRIA À SAÚDE | 10 |
+| Instituição Federal MEC | SE | 13031547000104 | FUNDAÇÃO UNIVERSIDADE FEDERAL DE SERGIPE | 17.181 | ATENÇÃO À SAÚDE NEONATAL | 6 |
+| Instituição Federal MEC | SE | 13031547000104 | FUNDAÇÃO UNIVERSIDADE FEDERAL DE SERGIPE | 17.593 | REABILITAÇÃO FÍSICA | 2 |
+| Órgão/instituição pública municipal | SP | 46634044000174 | MUNICÍPIO DE SOROCABA | 16.206 | ATENÇÃO À SAÚDE DA MULHER | 10 |
+| Órgão/instituição pública municipal | SP | 58200015000183 | MUNICÍPIO DE SANTOS | 16.872 | ATENÇÃO PRIMÁRIA À SAÚDE | 2 |
+| Órgão/instituição pública municipal | SP | 51885242000140 | MUNICÍPIO DE CAMPINAS | 16.037 | ATENÇÃO À SAÚDE DA MULHER | 6 |
+| Instituição Federal MEC | SP | 60453032000174 | UNIVERSIDADE FEDERAL DE SÃO PAULO | 19.743 | ATENÇÃO À SAÚDE INDÍGENA | 4 |

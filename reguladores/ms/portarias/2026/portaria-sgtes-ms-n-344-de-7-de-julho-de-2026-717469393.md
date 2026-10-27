@@ -1,0 +1,71 @@
+---
+titulo: "PORTARIA SGTES/MS Nº 344, DE 7 DE JULHO DE 2026"
+orgao: "Ministério da Saúde/Secretaria de Gestão do Trabalho e da Educação na Saúde"
+tipo: "Portaria"
+numero: "344"
+data: 2026-07-07
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 08/07/2026, seção 1, p. 165"
+data_publicacao: 2026-07-08
+edicao: "126"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-sgtes/ms-n-344-de-7-de-julho-de-2026-717469393"
+baixado_em: 2026-10-15
+---
+# PORTARIA SGTES/MS Nº 344, DE 7 DE JULHO DE 2026
+
+PORTARIA SGTES/MS Nº 344, DE 7 DE JULHO DE 2026
+
+Divulga a Homologação do Resultado da Chamada dos Programas de Residência em Área Profissional da Saúde - PRAPS, com os incentivos financeiros, na forma de bolsas, destinados a preceptores, tutores e coordenadores de PRAPS, no âmbito do Incentivo às Residências em Saúde - MAIS RESIDÊNCIAS e nos termos do Edital SGTES/MS n° 7, de 3 de fevereiro de 2026.
+
+O Secretário de Gestão do Trabalho e da Educação na Saúde, no uso das atribuições que lhe confere o Ato de Nomeação nº 318 da Portaria de 17 de março de 2025, da Casa Civil da Presidência da República, publicado no Diário Oficial da União nº 52, de 18 de março de 2025, Seção 2, e nos termos do Edital SGTES/MS n° 7, de 3 de fevereiro de 2026, resolve:
+
+**Art. 1º** Divulgar, no Anexo I desta Portaria, a Homologação do Resultado da Chamada dos Programas de Residência em Área Profissional da Saúde - PRAPS e respectivas instituições com adesões homologadas para concessão de incentivos financeiros, com o respectivo número de incentivos concedidos, na forma de bolsas, pelo Ministério da Saúde, destinados a preceptores, tutores e coordenadores de Programas de Residência em Área Profissional da Saúde - PRAPS, no âmbito do Incentivo às Residências em Saúde - MAIS RESIDÊNCIAS e nos termos do Edital SGTES/MS n° 7, de 3 de fevereiro de 2026.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+FELIPE PROENÇO DE OLIVEIRA
+
+## ANEXO I
+
+| UF | CNPJ | RAZÃO SOCIAL INSTITUIÇÃO | PROTOCOLO DE ADESÃO | ÁREA DE ESPECIALIZAÇÃO | INCENTIVO PRECEPTOR | INCENTIVO TUTOR | INCENTIVO COORDENADOR DE PRAPS |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| AL | 12.517.793/0001-08 | UNIVERSIDADE ESTADUAL DE CIÊNCIAS DA SAÚDE DE ALAGOAS | 4657 | ENFERMAGEM OBSTÉTRICA | 3 | 1 | 1 |
+| AM | 04.378.626/0001-97 | FUNDAÇÃO UNIVERSIDADE DO AMAZONAS | 5619 | ENFERMAGEM OBSTÉTRICA | 4 | 1 | 1 |
+| AM | 63.678.320/0001-15 | FUNDAÇÃO DE HEMATOLOGIA E HEMOTERAPIA DO AMAZONAS | 6580 | ATENÇÃO EM ONCOLOGIA | 7 | 1 | 1 |
+| AM | 04.280.196/0001-76 | UNIVERSIDADE DO ESTADO DO AMAZONAS | 3821 | ATENÇÃO EM ONCOLOGIA | 2 | 1 | 1 |
+| BA | 13.937.131/0058-87 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 5331 | ATENÇÃO EM ONCOLOGIA | 8 | 1 | 1 |
+| BA | 13.937.131/0053-72 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 5332 | ATENÇÃO EM ONCOLOGIA | 4 | 1 | 1 |
+| BA | 13.227.038/0001-43 | SANTA CASA DE MISERICORDIA DE FEIRA DE SANTANA | 5931 | ATENÇÃO EM ONCOLOGIA | 8 | 1 | 1 |
+| BA | 15.194.004/0013-69 | FUNDACAO JOSE SILVEIRA | 6458 | ENFERMAGEM OBSTÉTRICA | 4 | 1 | 1 |
+| BA | 15.153.745/0002-49 | HOSPITAL SANTA ISABEL | 4946 | ATENÇÃO EM ONCOLOGIA | 9 | 1 | 1 |
+| CE | 07.954.571/0001-04 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 4161 | ATENÇÃO EM ONCOLOGIA | 3 | 1 | 1 |
+| ES | 32.479.123/0001-43 | UNIVERSIDADE FEDERAL DO ESPIRITO SANTO | 6007 | ATENÇÃO À SAÚDE NEONATAL | 12 | 1 | 1 |
+| MA | 06.352.421/0001-68 | UNIVERSIDADE ESTADUAL DO MARANHAO | 3474 | ENFERMAGEM OBSTÉTRICA | 4 | 1 | 1 |
+| MG | 00.961.315/0001-03 | FUNDACAO CRISTIANO VARELLA | 6098 | ATENÇÃO EM ONCOLOGIA | 4 | 1 | 1 |
+| MS | 15.461.510/0001-33 | FUNDAÇÃO UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL | 3434 | ENFERMAGEM OBSTÉTRICA | 4 | 1 | 1 |
+| MT | 57.252.971/0001-46 | SECRETARIA DE ESTADO DE SAUDE DE MATO GROSSO - SES | 6761 | ATENÇÃO EM ONCOLOGIA | 2 | 1 | 1 |
+| MT | 57.252.971/0001-46 | SECRETARIA DE ESTADO DE SAUDE DE MATO GROSSO - SES | 6762 | ENFERMAGEM OBSTÉTRICA | 2 | 1 | 1 |
+| PB | 05.055.128/0001-76 | UNIVERSIDADE FEDERAL DE CAMPINA GRANDE | 6589 | ATENÇÃO EM ONCOLOGIA | 2 | 1 | 1 |
+| PB | 08.778.268/0001-60 | SECRETARIA DE ESTADO DA SAUDE - SES | 5847 | ATENÇÃO EM ONCOLOGIA | 3 | 1 | 1 |
+| PE | 24.134.488/0001-08 | UNIVERSIDADE FEDERAL DE PERNAMBUCO | 3677 | ATENÇÃO À SAÚDE NEONATAL | 2 | 1 | 1 |
+| PE | 10.894.988/0001-33 | SOCIEDADE PERNAMBUCANA DE COMBATE AO CÂNCER | 3453 | ATENÇÃO EM ONCOLOGIA | 2 | 1 | 1 |
+| PE | 03.391.726/0001-90 | ASSOCIAÇÃO VITORIENSE DE EDUCAÇÃO, CIÊNCIA E CULTURA | 6714 | ATENÇÃO EM ONCOLOGIA | 2 | 1 | 1 |
+| PI | 06.517.387/0001-34 | FUNDAÇÃO UNIVERSIDADE FEDERAL DO PIAUÍ | 3775 | ENFERMAGEM OBSTÉTRICA | 8 | 1 | 1 |
+| PR | 15.126.437/0024-30 | EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH | 6541 | ATENÇÃO EM ONCOLOGIA | 2 | 1 | 1 |
+| RJ | 33.663.683/0052-66 | MATERNIDADE ESCOLA DA UFRJ | 3723 | ATENÇÃO À SAÚDE NEONATAL | 4 | 1 | 1 |
+| RJ | 33.663.683/0052-66 | MATERNIDADE ESCOLA DA UFRJ | 4929 | ATENÇÃO À SAÚDE NEONATAL | 8 | 1 | 1 |
+| RJ | 34.034.959/0001-60 | FUNDACAO OCTACILIO GUALBERTO | 6563 | ATENÇÃO EM ONCOLOGIA | 2 | 1 | 1 |
+| RN | 08.428.765/0001-39 | LIGA NORTE-RIOGRANDENSE CONTRA O CÂNCER | 6099 | FÍSICA MÉDICA | 2 | 1 | 1 |
+| RO | 08.968.508/0001-90 | FUNDO MUNICIPAL DE SAUDE DE PIMENTA BUENO | 3813 | ENFERMAGEM OBSTÉTRICA | 2 | 1 | 1 |
+| RO | 04.092.714/0001-28 | MUNICÍPIO DE CACOAL | 6575 | ENFERMAGEM OBSTÉTRICA | 2 | 1 | 1 |
+| RO | 04.107.119/0001-19 | INSTITUTO DE ENSINO SUPERIOR DE RONDÔNIA - IESUR | 3663 | ENFERMAGEM OBSTÉTRICA | 2 | 1 | 1 |
+| RS | 94.877.586/0001-10 | UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG | 6006 | FÍSICA MÉDICA | 1 | 1 | 1 |
+| RS | 92.242.080/0001-00 | UNIVERSIDADE FEDERAL DE PELOTAS | 5705 | ATENÇÃO EM ONCOLOGIA | 4 | 1 | 1 |
+| RS | 90.730.508/0001-38 | ASSOCIAÇÃO HOSPITAL DE CARIDADE IJUI | 6750 | ATENÇÃO EM ONCOLOGIA | 8 | 1 | 1 |
+| RS | 92.967.595/0001-77 | FUNDACAO UNIVERSIDADE FEDERAL DE CIENCIAS DA SAUDE DE PORTO ALEGRE | 6502 | ATENÇÃO EM ONCOLOGIA | 8 | 1 | 1 |
+| SC | 73.433.427/0001-57 | FUNDACAO DE SAUDE DO ALTO VALE DO ITAJAI | 6549 | ATENÇÃO EM ONCOLOGIA | 4 | 1 | 1 |
+| SP | 61.590.410/0001-24 | SOCIEDADE BENEFICENTE DE SENHORAS - HOSPITAL SIRIO LIBANES | 6123 | FÍSICA MÉDICA | 2 | 1 | 1 |
+| SP | 56.023.443/0001-52 | HOSPITAL DAS CLÍNICAS DA FACULDADE DE MEDICINA DE RIBEIRÃO PRETO USP | 6597 | FÍSICA MÉDICA | 3 | 1 | 1 |
+| SP | 50.753.755/0001-35 | FUNDAÇÃO DOUTOR AMARAL CARVALHO | 5980 | ATENÇÃO EM ONCOLOGIA | 10 | 1 | 1 |
+| SP | 61.590.410/0001-24 | SANTA CASA DE MISERICÓRDIA DE SOBRAL | 6148 | ATENÇÃO EM ONCOLOGIA | 8 | 1 | 1 |

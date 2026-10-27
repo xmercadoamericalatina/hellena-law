@@ -1,0 +1,499 @@
+---
+titulo: "PORTARIA GM/MS Nº 10.481, DE 26 DE MARÇO DE 2026"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "10481"
+data: 2026-03-26
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 27/03/2026, seção 1, p. 593"
+data_publicacao: 2026-03-27
+edicao: "59"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-10.481-de-26-de-marco-de-2026-696037034"
+baixado_em: 2026-10-15
+---
+# PORTARIA GM/MS Nº 10.481, DE 26 DE MARÇO DE 2026
+
+PORTARIA GM/MS Nº 10.481, DE 26 DE MARÇO DE 2026
+
+Autoriza o repasse referente às ações e serviços públicos de saúde por meio de transferências fundo a fundo, em parcelas suplementares para o custeio da Atenção Primária à Saúde.
+
+O MINISTRO DE ESTADO DA SA?DE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, em observância a Lei nº 15.346, de 14 de janeiro de 2026, Lei Complementar nº 141, de 13 de janeiro de 2012, Lei nº 8.080, de 19 de setembro de 1990, e Portaria GM/MS, nº 10.169, de 19 de janeiro de 2026, resolve:
+
+**Art. 1º** Ficam autorizados os Estados, o Distrito Federal e os Municípios descritos no Anexo desta Portaria a receberem recursos financeiros referentes às parcelas suplementares para o custeio dos serviços da Atenção Primária à Saúde.
+
+**Art. 2º** O Fundo Nacional de Saúde adotará as medidas necessárias para a transferências dos recursos estabelecidos nesta Portaria aos respectivos Fundos de Saúde, em conformidade com o processo de pagamento devidamente instruído pela Secretaria Finalística.
+
+**Art. 3º** O ente beneficiário deverá comprovar a aplicação dos recursos financeiros recebidos por meio do Relatório Anual de Gestão - RAG, nos termos da Portaria de Consolidação GM/MS nº 6, de 28 de setembro de 2017.
+
+**Art. 4º** Os recursos financeiros destinados à execução das ações previstas nesta Portaria são oriundos do orçamento do Ministério da Saúde, devendo onerar a seguinte funcional programática: 10.301.5119.219A.0001 - Piso de Atenção Primária à Saúde - Plano Orçamentário 0000 - Piso de Atenção Primária à Saúde - Despesas Diversas.
+
+**Art. 5º** Os recursos autorizados nesta Portaria são destinados ao custeio de serviços da Atenção Primária à Saúde:
+
+I - fortalecimento ou credenciamento de serviços e equipes da atenção primária, garantida a incorporação posterior ao cofinanciamento federal do Bloco de Manutenção das Ações e Serviços Públicos de Saúde, no Grupo de Atenção Primária;
+
+II - estratégias de busca ativa para vacinação e controle de doenças transmissíveis;
+
+III - estratégias de rastreamento e controle de condições crônicas, incluindo o deslocamento de usuários;
+
+IV - implantação de instrumentos e dispositivos de navegação do cuidado;
+
+V - estratégias para atenção integral à saúde da mulher;
+
+VI - apoio às políticas de atenção ao envelhecimento e à saúde da pessoa idosa;
+
+VII - estratégias de promoção das ações das equipes de saúde em acesso fluvial, costeiras, marítimas e comunidades quilombolas; e
+
+VIII - custeio de serviços da atenção primária à saúde - outras ações.
+
+**Art. 6º** Esta Portaria entra em vigor na data de sua publicação.
+
+ALEXANDRE ROCHA SANTOS PADILHA
+
+## ANEXO
+
+Entes federados autorizados a receberem recursos financeiros federais destinados ao custeio dos serviços da Atenção Primária à Saúde.
+
+| UF | MUNICÍPIO | IBGE | GESTÃO | Programa de Trabalho | TOTAL |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | I | II | III | IV | V | VI |  |
+| AC | CRUZEIRO DO SUL | 120020 | MUNICIPAL |  |  | 2.121.628,00 |  |  |  | 2.121.628,00 |
+| AC | FEIJO | 120030 | MUNICIPAL |  | 1.878.371,00 | 1.500.000,00 | 1.500.000,00 |  |  | 6.378.371,00 |
+| AC | SANTA ROSA DO PURUS | 120043 | MUNICIPAL |  |  | 250.000,00 |  |  |  | 500.000,00 |
+| AL | BRANQUINHA | 270110 | MUNICIPAL |  | 150.000,00 | 150.000,00 |  | 200.000,00 |  | 1.000.000,00 |
+| AL | CARNEIROS | 270180 | MUNICIPAL |  |  | 395.000,00 |  |  |  | 790.000,00 |
+| AL | CORURIPE | 270230 | MUNICIPAL |  | 500.000,00 | 500.000,00 |  | 500.000,00 | 500.000,00 | 2.000.000,00 |
+| AL | MARECHAL DEODORO | 270470 | MUNICIPAL |  |  |  | 180.000,00 |  |  | 180.000,00 |
+| AL | MATRIZ DE CAMARAGIBE | 270510 | MUNICIPAL |  |  | 1.875.000,00 |  |  |  | 2.250.000,00 |
+| AL | MESSIAS | 270520 | MUNICIPAL |  | 240.000,00 |  |  |  |  | 480.000,00 |
+| AL | SANTANA DO MUNDAU | 270810 | MUNICIPAL |  |  | 400.000,00 |  |  |  | 800.000,00 |
+| AL | SAO LUIS DO QUITUNDE | 270850 | MUNICIPAL |  |  | 200.000,00 |  |  |  | 200.000,00 |
+| AL | SENADOR RUI PALMEIRA | 270895 | MUNICIPAL |  |  | 305.000,00 |  |  |  | 610.000,00 |
+| AM | APUI | 130014 | MUNICIPAL |  | 400.000,00 |  |  |  |  | 1.250.000,00 |
+| AM | AUTAZES | 130030 | MUNICIPAL |  |  |  | 500.000,00 |  |  | 2.000.000,00 |
+| AM | BENJAMIN CONSTANT | 130060 | MUNICIPAL |  | 180.000,00 |  |  |  |  | 180.000,00 |
+| AM | BERURI | 130063 | MUNICIPAL |  |  | 2.980.000,00 |  | 800.000,00 |  | 5.780.000,00 |
+| AM | BORBA | 130080 | MUNICIPAL |  | 300.000,00 |  |  | 500.000,00 | 300.000,00 | 2.000.000,00 |
+| AM | CARAUARI | 130100 | MUNICIPAL |  | 500.000,00 | 300.000,00 |  | 500.000,00 | 200.000,00 | 3.000.000,00 |
+| AM | COARI | 130120 | MUNICIPAL |  | 2.159.931,00 | 8.829.909,00 | 4.409.931,00 | 4.625.000,00 | 3.700.000,00 | 26.499.771,00 |
+| AM | CODAJAS | 130130 | MUNICIPAL |  |  | 375.000,00 |  |  |  | 750.000,00 |
+| AM | GUAJARA | 130165 | MUNICIPAL |  |  |  |  |  |  | 300.000,00 |
+| AM | HUMAITA | 130170 | MUNICIPAL |  | 800.000,00 |  | 300.000,00 |  |  | 1.600.000,00 |
+| AM | IRANDUBA | 130185 | MUNICIPAL |  |  | 1.000.000,00 |  | 1.000.000,00 |  | 4.000.000,00 |
+| AM | JUTAI | 130230 | MUNICIPAL |  |  | 700.000,00 |  |  |  | 700.000,00 |
+| AM | MANACAPURU | 130250 | MUNICIPAL |  |  | 800.000,00 |  |  |  | 1.600.000,00 |
+| AM | MAUES | 130290 | MUNICIPAL |  | 400.000,00 | 700.000,00 | 900.000,00 |  |  | 4.000.000,00 |
+| AM | TAPAUA | 130410 | MUNICIPAL |  |  |  | 1.000.000,00 |  |  | 2.000.000,00 |
+| AM | TEFE | 130420 | MUNICIPAL |  | 200.000,00 | 2.500.000,00 | 1.000.000,00 | 1.000.000,00 |  | 5.500.000,00 |
+| AM | UARINI | 130426 | MUNICIPAL |  | 1.250.000,00 | 1.250.000,00 |  |  |  | 2.500.000,00 |
+| AP | CUTIAS | 160021 | MUNICIPAL |  |  |  | 108.000,00 |  |  | 213.000,00 |
+| AP | FERREIRA GOMES | 160023 | MUNICIPAL |  |  |  |  |  | 241.462,00 | 482.921,00 |
+| AP | LARANJAL DO JARI | 160027 | MUNICIPAL |  | 500.000,00 | 2.500.000,00 |  | 2.000.000,00 | 500.000,00 | 14.000.000,00 |
+| AP | MAZAGAO | 160040 | MUNICIPAL |  | 300.000,00 |  |  |  |  | 1.324.896,00 |
+| AP | PORTO GRANDE | 160053 | MUNICIPAL |  | 250.000,00 | 250.000,00 |  | 250.000,00 | 250.000,00 | 2.500.000,00 |
+| AP | SANTANA | 160060 | MUNICIPAL |  | 1.000.000,00 | 1.000.000,00 | 1.000.000,00 | 1.000.000,00 | 1.000.000,00 | 9.000.000,00 |
+| AP | SERRA DO NAVIO | 160005 | MUNICIPAL |  | 200.000,00 | 265.118,00 |  |  |  | 930.235,00 |
+| AP | TARTARUGALZINHO | 160070 | MUNICIPAL |  | 1.000.000,00 | 500.000,00 |  | 500.000,00 | 699.500,00 | 7.399.000,00 |
+| BA | AGUA FRIA | 290040 | MUNICIPAL |  | 250.000,00 | 150.000,00 |  | 149.999,00 |  | 999.999,00 |
+| BA | ANGUERA | 290150 | MUNICIPAL |  |  | 500.000,00 |  |  |  | 500.000,00 |
+| BA | APORA | 290190 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 400.000,00 |
+| BA | ARACI | 290210 | MUNICIPAL |  | 1.000.000,00 | 1.000.000,00 | 1.000.000,00 |  |  | 6.000.000,00 |
+| BA | BARRA | 290270 | MUNICIPAL |  | 300.000,00 | 450.000,00 |  | 250.000,00 |  | 2.000.000,00 |
+| BA | BARRA DO MENDES | 290300 | MUNICIPAL |  |  | 150.000,00 |  |  |  | 300.000,00 |
+| BA | BARREIRAS | 290320 | MUNICIPAL |  | 300.000,00 | 2.950.000,00 | 1.000.000,00 | 1.250.000,00 |  | 11.000.000,00 |
+| BA | BELMONTE | 290340 | MUNICIPAL |  |  | 150.000,00 |  |  |  | 300.000,00 |
+| BA | BELO CAMPO | 290350 | MUNICIPAL |  |  | 500.020,00 |  |  |  | 1.000.020,00 |
+| BA | BOA VISTA DO TUPIM | 290380 | MUNICIPAL |  |  | 250.000,00 |  |  |  | 250.000,00 |
+| BA | BROTAS DE MACAUBAS | 290450 | MUNICIPAL |  | 250.000,00 |  |  |  |  | 500.000,00 |
+| BA | CACHOEIRA | 290490 | MUNICIPAL |  | 200.000,00 | 200.000,00 |  |  |  | 799.050,00 |
+| BA | CANDEAL | 290640 | MUNICIPAL |  |  | 300.000,00 |  |  |  | 300.000,00 |
+| BA | CHORROCHO | 290770 | MUNICIPAL |  |  | 500.025,00 |  |  |  | 1.000.050,00 |
+| BA | CONCEICAO DO ALMEIDA | 290830 | MUNICIPAL |  |  | 800.000,00 |  | 800.000,00 |  | 2.000.000,00 |
+| BA | CONCEICAO DO JACUIPE | 290850 | MUNICIPAL |  | 175.000,00 | 675.000,00 |  |  |  | 1.350.000,00 |
+| BA | CONDE | 290860 | MUNICIPAL |  | 250.000,00 | 200.000,00 |  |  |  | 900.000,00 |
+| BA | CONDEUBA | 290870 | MUNICIPAL |  |  |  | 450.000,00 |  |  | 900.000,00 |
+| BA | CORONEL JOAO SA | 290920 | MUNICIPAL |  |  | 500.010,00 |  |  |  | 1.000.020,00 |
+| BA | CORRENTINA | 290930 | MUNICIPAL |  |  |  |  | 1.000.000,00 |  | 1.000.000,00 |
+| BA | CRISTOPOLIS | 290970 | MUNICIPAL |  |  | 150.000,00 | 450.000,00 | 150.000,00 |  | 1.000.000,00 |
+| BA | CRUZ DAS ALMAS | 290980 | MUNICIPAL |  | 300.020,00 | 1.000.000,00 |  | 700.000,00 |  | 2.000.020,00 |
+| BA | ELISIO MEDRADO | 291030 | MUNICIPAL |  | 50.000,00 | 150.000,00 |  |  |  | 200.000,00 |
+| BA | FATIMA | 291075 | MUNICIPAL |  |  | 180.000,00 |  |  |  | 180.000,00 |
+| BA | GUANAMBI | 291170 | MUNICIPAL |  |  |  |  | 500.000,00 |  | 1.000.000,00 |
+| BA | IBITITA | 291310 | MUNICIPAL |  |  | 125.000,00 |  |  |  | 250.000,00 |
+| BA | IGAPORA | 291340 | MUNICIPAL |  | 100.000,00 | 150.000,00 |  | 150.000,00 | 100.000,00 | 1.000.000,00 |
+| BA | ILHEUS | 291360 | MUNICIPAL |  | 800.000,00 | 800.000,00 | 800.000,00 | 800.000,00 | 800.000,00 | 8.000.000,00 |
+| BA | IPECAETA | 291380 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 200.000,00 |
+| BA | IRAJUBA | 291420 | MUNICIPAL |  |  | 100.000,00 | 100.000,00 |  |  | 300.000,00 |
+| BA | IRAMAIA | 291430 | MUNICIPAL |  |  | 50.000,00 | 100.000,00 |  |  | 300.000,00 |
+| BA | IRECE | 291460 | MUNICIPAL |  |  | 250.000,00 |  |  |  | 250.000,00 |
+| BA | ITAMARAJU | 291560 | MUNICIPAL |  | 100.000,00 | 400.000,00 |  |  |  | 1.000.000,00 |
+| BA | ITAMBE | 291580 | MUNICIPAL |  |  | 125.000,00 |  |  |  | 250.000,00 |
+| BA | ITANAGRA | 291590 | MUNICIPAL |  |  |  | 1.500.000,00 |  |  | 1.500.000,00 |
+| BA | ITATIM | 291685 | MUNICIPAL |  |  | 75.000,00 |  |  | 75.000,00 | 300.000,00 |
+| BA | IUIU | 291733 | MUNICIPAL |  |  | 100.000,00 |  | 100.000,00 |  | 400.000,00 |
+| BA | JACARACI | 291740 | MUNICIPAL |  | 250.000,00 | 250.000,00 |  | 250.000,00 | 250.000,00 | 2.000.000,00 |
+| BA | JUSSARI | 291855 | MUNICIPAL |  |  |  | 750.000,00 |  |  | 750.000,00 |
+| BA | MACURURE | 291990 | MUNICIPAL |  |  |  |  | 200.000,00 |  | 200.000,00 |
+| BA | MIGUEL CALMON | 292120 | MUNICIPAL |  |  | 250.000,00 |  |  |  | 500.000,00 |
+| BA | MIRANGABA | 292140 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 300.000,00 |
+| BA | MULUNGU DO MORRO | 292205 | MUNICIPAL |  |  | 500.000,00 |  |  |  | 1.000.000,00 |
+| BA | NILO PECANHA | 292260 | MUNICIPAL |  |  | 150.000,00 | 100.000,00 |  |  | 500.000,00 |
+| BA | NOVA IBIA | 292275 | MUNICIPAL |  | 125.000,00 | 125.000,00 |  | 125.000,00 |  | 500.000,00 |
+| BA | PARIPIRANGA | 292380 | MUNICIPAL |  |  | 250.000,00 |  |  |  | 500.000,00 |
+| BA | PAULO AFONSO | 292400 | MUNICIPAL |  |  |  |  | 1.000.000,00 |  | 2.000.000,00 |
+| BA | PE DE SERRA | 292405 | MUNICIPAL |  |  | 400.000,00 | 200.000,00 |  | 400.000,00 | 2.000.000,00 |
+| BA | PIATA | 292430 | MUNICIPAL |  |  |  |  |  |  | 1.000.000,00 |
+| BA | PIRITIBA | 292480 | MUNICIPAL |  |  | 250.000,00 |  |  |  | 500.000,00 |
+| BA | PRADO | 292550 | MUNICIPAL |  |  | 50.000,00 |  |  |  | 100.000,00 |
+| BA | PRESIDENTE DUTRA | 292560 | MUNICIPAL |  | 250.000,00 |  |  | 200.000,00 |  | 900.000,00 |
+| BA | PRESIDENTE JANIO QUADROS | 292570 | MUNICIPAL |  |  | 175.000,00 |  | 120.000,00 |  | 590.000,00 |
+| BA | QUIJINGUE | 292590 | MUNICIPAL |  |  |  |  | 1.500.000,00 |  | 3.000.000,00 |
+| BA | RAFAEL JAMBEIRO | 292595 | MUNICIPAL |  |  | 200.000,00 | 300.010,00 |  |  | 1.000.020,00 |
+| BA | RETIROLANDIA | 292610 | MUNICIPAL |  |  |  | 300.000,00 |  |  | 300.000,00 |
+| BA | RIBEIRA DO AMPARO | 292650 | MUNICIPAL |  | 50.000,00 | 920.000,00 |  |  | 30.000,00 | 2.000.000,00 |
+| BA | RIBEIRA DO POMBAL | 292660 | MUNICIPAL |  | 250.000,00 | 250.000,00 |  | 450.000,00 | 300.000,00 | 2.500.000,00 |
+| BA | SANTO ANTONIO DE JESUS | 292870 | MUNICIPAL |  | 50.000,00 | 225.000,00 |  | 225.000,00 |  | 500.000,00 |
+| BA | SAO DOMINGOS | 292895 | MUNICIPAL |  |  | 150.000,00 |  |  |  | 300.000,00 |
+| BA | SAPEACU | 292960 | MUNICIPAL |  |  | 200.000,00 |  | 600.000,00 | 600.000,00 | 1.900.000,00 |
+| BA | SENHOR DO BONFIM | 293010 | MUNICIPAL |  | 200.000,00 | 1.000.000,00 |  | 200.000,00 |  | 5.000.000,00 |
+| BA | SERRA PRETA | 293040 | MUNICIPAL |  | 250.000,00 | 250.000,00 |  |  |  | 500.000,00 |
+| BA | SIMOES FILHO | 293070 | MUNICIPAL |  | 150.000,00 | 1.999.666,00 |  | 999.834,00 |  | 6.299.000,00 |
+| BA | SITIO DO QUINTO | 293076 | MUNICIPAL |  |  | 500.000,00 |  |  |  | 500.000,00 |
+| BA | TANQUE NOVO | 293105 | MUNICIPAL |  | 350.000,00 |  | 350.000,00 |  |  | 700.000,00 |
+| BA | TEOLANDIA | 293160 | MUNICIPAL |  |  | 400.000,00 |  |  |  | 400.000,00 |
+| BA | TUCANO | 293190 | MUNICIPAL |  | 300.000,00 | 500.000,00 |  | 200.000,00 |  | 2.000.000,00 |
+| BA | UTINGA | 293280 | MUNICIPAL |  | 50.000,00 |  |  |  | 75.000,00 | 250.000,00 |
+| BA | VARZEA DO POCO | 293310 | MUNICIPAL |  |  |  |  | 500.000,00 |  | 1.000.000,00 |
+| BA | VEREDA | 293325 | MUNICIPAL |  |  | 250.000,00 |  |  |  | 400.000,00 |
+| BA | VITORIA DA CONQUISTA | 293330 | MUNICIPAL |  |  | 1.500.000,00 |  |  | 1.000.000,00 | 3.999.860,00 |
+| BA | WANDERLEY | 293345 | MUNICIPAL |  | 300.000,00 | 400.000,00 |  | 200.000,00 |  | 1.800.000,00 |
+| CE | ABAIARA | 230010 | MUNICIPAL |  |  | 100.000,00 | 150.000,00 |  |  | 500.000,00 |
+| CE | ACARAPE | 230015 | MUNICIPAL |  | 100.000,00 | 100.000,00 |  | 100.000,00 |  | 600.000,00 |
+| CE | ANTONINA DO NORTE | 230080 | MUNICIPAL |  |  | 300.004,00 |  |  |  | 600.004,00 |
+| CE | APUIARES | 230090 | MUNICIPAL |  | 50.000,00 | 100.000,00 | 30.000,00 | 70.000,00 |  | 500.000,00 |
+| CE | ARACATI | 230110 | MUNICIPAL |  |  |  |  | 100.000,00 | 100.000,00 | 400.000,00 |
+| CE | ARARIPE | 230130 | MUNICIPAL |  |  | 400.014,00 |  |  |  | 800.027,00 |
+| CE | ASSARE | 230160 | MUNICIPAL |  |  | 500.027,00 |  |  |  | 1.000.027,00 |
+| CE | BEBERIBE | 230220 | MUNICIPAL |  | 300.000,00 | 300.000,00 | 150.000,00 | 400.000,00 | 50.000,00 | 2.000.000,00 |
+| CE | BOA VIAGEM | 230240 | MUNICIPAL |  |  | 500.000,00 |  |  |  | 500.000,00 |
+| CE | CAPISTRANO | 230290 | MUNICIPAL |  |  | 300.000,00 |  |  |  | 600.000,00 |
+| CE | CARIDADE | 230300 | MUNICIPAL |  |  |  | 2.000.000,00 |  |  | 2.000.000,00 |
+| CE | CASCAVEL | 230350 | MUNICIPAL |  |  |  |  | 3.000.000,00 |  | 3.000.000,00 |
+| CE | CAUCAIA | 230370 | MUNICIPAL |  | 100.000,00 | 100.000,00 |  | 100.000,00 | 100.000,00 | 800.000,00 |
+| CE | CROATA | 230423 | MUNICIPAL |  |  | 250.014,00 |  | 150.000,00 |  | 800.027,00 |
+| CE | FORTALEZA | 230440 | MUNICIPAL |  | 2.500.000,00 |  |  | 500.000,00 |  | 6.000.000,00 |
+| CE | FRECHEIRINHA | 230450 | MUNICIPAL |  |  |  | 100.027,00 | 300.000,00 |  | 800.027,00 |
+| CE | GENERAL SAMPAIO | 230460 | MUNICIPAL |  | 50.000,00 | 50.000,00 | 100.000,00 | 50.000,00 |  | 500.000,00 |
+| CE | GRANJEIRO | 230480 | MUNICIPAL |  | 105.000,00 | 140.000,00 |  | 105.027,00 |  | 700.027,00 |
+| CE | GUAIUBA | 230495 | MUNICIPAL |  |  | 100.000,00 | 100.000,00 | 50.000,00 |  | 500.000,00 |
+| CE | HIDROLANDIA | 230520 | MUNICIPAL |  | 500.000,00 |  |  | 800.027,00 |  | 1.300.027,00 |
+| CE | IBARETAMA | 230526 | MUNICIPAL |  | 800.027,00 |  |  |  |  | 800.027,00 |
+| CE | IPUEIRAS | 230590 | MUNICIPAL |  | 100.000,00 | 250.000,00 | 125.007,00 |  | 125.008,00 | 1.200.027,00 |
+| CE | ITAPAJE | 230630 | MUNICIPAL |  |  |  | 1.100.000,00 |  |  | 1.100.000,00 |
+| CE | ITAPIPOCA | 230640 | MUNICIPAL |  |  | 3.000.000,00 |  |  |  | 3.000.000,00 |
+| CE | JAGUARIBARA | 230680 | MUNICIPAL |  |  | 500.000,00 |  | 500.014,00 |  | 2.000.027,00 |
+| CE | JAGUARIBE | 230690 | MUNICIPAL |  |  | 250.000,00 |  | 250.000,00 |  | 1.000.000,00 |
+| CE | JARDIM | 230710 | MUNICIPAL |  |  | 300.000,00 |  | 200.027,00 |  | 1.000.027,00 |
+| CE | JATI | 230720 | MUNICIPAL |  |  | 50.027,00 |  | 200.000,00 |  | 500.027,00 |
+| CE | MARTINOPOLE | 230790 | MUNICIPAL |  | 100.000,00 | 200.000,00 | 200.000,00 | 400.000,00 | 100.000,00 | 1.000.000,00 |
+| CE | MERUOCA | 230820 | MUNICIPAL |  | 50.000,00 | 150.000,00 | 100.000,00 | 100.000,00 |  | 500.027,00 |
+| CE | MILHA | 230835 | MUNICIPAL |  |  |  | 500.027,00 |  |  | 1.000.027,00 |
+| CE | MIRAIMA | 230837 | MUNICIPAL |  |  | 500.000,00 |  |  |  | 1.000.000,00 |
+| CE | MOMBACA | 230850 | MUNICIPAL |  |  |  |  | 75.000,00 | 75.000,00 | 300.000,00 |
+| CE | NOVA OLINDA | 230920 | MUNICIPAL |  |  |  |  | 200.000,00 | 200.027,00 | 800.027,00 |
+| CE | PACAJUS | 230960 | MUNICIPAL |  |  |  |  | 480.000,00 |  | 480.000,00 |
+| CE | PACUJA | 230990 | MUNICIPAL |  |  |  | 750.027,00 |  |  | 750.027,00 |
+| CE | PARACURU | 231020 | MUNICIPAL |  |  | 120.000,00 |  |  | 120.000,00 | 480.000,00 |
+| CE | PENTECOSTE | 231070 | MUNICIPAL |  |  | 400.027,00 |  |  |  | 400.027,00 |
+| CE | PIQUET CARNEIRO | 231090 | MUNICIPAL |  |  | 400.000,00 |  |  |  | 400.000,00 |
+| CE | PORANGA | 231100 | MUNICIPAL |  |  | 500.000,00 |  |  |  | 500.000,00 |
+| CE | POTENGI | 231120 | MUNICIPAL |  |  | 350.000,00 | 350.000,00 |  |  | 700.000,00 |
+| CE | QUIXELO | 231135 | MUNICIPAL |  | 425.000,00 | 250.027,00 | 425.000,00 | 750.000,00 |  | 2.700.027,00 |
+| CE | QUIXERE | 231150 | MUNICIPAL |  |  | 100.000,00 |  | 150.000,00 |  | 500.000,00 |
+| CE | SALITRE | 231195 | MUNICIPAL |  |  | 150.004,00 |  |  |  | 300.004,00 |
+| CE | SANTANA DO CARIRI | 231210 | MUNICIPAL |  |  | 375.000,00 |  | 200.027,00 |  | 1.150.027,00 |
+| CE | SENADOR SA | 231280 | MUNICIPAL |  |  | 750.000,00 |  | 750.000,00 |  | 3.000.000,00 |
+| CE | TARRAFAS | 231325 | MUNICIPAL |  |  | 25.000,00 |  | 225.000,00 |  | 500.000,00 |
+| CE | TAUA | 231330 | MUNICIPAL |  |  |  |  | 240.000,00 | 400.000,00 | 1.280.000,00 |
+| CE | TEJUCUOCA | 231335 | MUNICIPAL |  | 76.000,00 | 76.000,00 | 76.000,00 | 76.000,00 | 76.000,00 | 380.000,00 |
+| CE | TURURU | 231355 | MUNICIPAL |  |  |  | 250.000,00 |  |  | 500.000,00 |
+| CE | UBAJARA | 231360 | MUNICIPAL |  |  |  |  | 250.027,00 |  | 500.027,00 |
+| CE | UMIRIM | 231375 | MUNICIPAL |  | 2.000.000,00 | 1.000.000,00 |  |  |  | 3.000.000,00 |
+| CE | VICOSA DO CEARA | 231410 | MUNICIPAL |  |  | 120.000,00 |  | 120.000,00 |  | 480.000,00 |
+| ES | AFONSO CLAUDIO | 320010 | MUNICIPAL |  |  |  |  | 150.000,00 |  | 300.000,00 |
+| ES | BOM JESUS DO NORTE | 320110 | MUNICIPAL |  |  |  | 150.000,00 |  |  | 300.000,00 |
+| ES | GUACUI | 320230 | MUNICIPAL |  |  |  | 300.000,00 |  |  | 300.000,00 |
+| ES | ICONHA | 320260 | MUNICIPAL |  |  |  | 150.000,00 |  |  | 300.000,00 |
+| ES | ITARANA | 320290 | MUNICIPAL |  |  | 300.000,00 |  |  |  | 500.000,00 |
+| ES | LARANJA DA TERRA | 320316 | MUNICIPAL |  |  | 225.000,00 |  |  |  | 450.000,00 |
+| ES | MANTENOPOLIS | 320330 | MUNICIPAL |  |  |  | 400.000,00 |  |  | 400.000,00 |
+| ES | MARATAIZES | 320332 | MUNICIPAL |  |  |  | 100.000,00 |  |  | 200.000,00 |
+| ES | MUQUI | 320380 | MUNICIPAL |  |  | 200.000,00 |  |  |  | 200.000,00 |
+| ES | PONTO BELO | 320425 | MUNICIPAL |  |  | 200.000,00 |  |  |  | 400.000,00 |
+| ES | RIO NOVO DO SUL | 320440 | MUNICIPAL |  |  | 150.000,00 |  |  |  | 300.000,00 |
+| ES | SAO JOSE DO CALCADO | 320480 | MUNICIPAL |  |  |  |  | 400.000,00 |  | 400.000,00 |
+| ES | VILA PAVAO | 320515 | MUNICIPAL |  |  | 320.000,00 |  |  | 80.000,00 | 400.000,00 |
+| ES | VILA VALERIO | 320517 | MUNICIPAL |  |  | 400.000,00 |  |  |  | 400.000,00 |
+
+| ES | VILA VELHA | 320520 | MUNICIPAL |  |  | 1.000.000,00 |  |  |  | 2.000.000,00 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| GO | AGUA LIMPA | 520020 | MUNICIPAL |  |  |  | 200.000,00 |  |  | 200.000,00 |
+| GO | ANAPOLIS | 520110 | MUNICIPAL |  |  |  |  | 240.000,00 |  | 480.000,00 |
+| GO | ARAGUAPAZ | 520215 | MUNICIPAL |  | 40.000,00 | 140.000,00 |  | 20.000,00 |  | 300.000,00 |
+| GO | BONOPOLIS | 520357 | MUNICIPAL |  |  |  | 50.000,00 | 50.000,00 |  | 200.000,00 |
+| GO | CABECEIRAS | 520400 | MUNICIPAL |  |  | 300.000,00 |  |  |  | 300.000,00 |
+| GO | CATALAO | 520510 | MUNICIPAL |  | 200.000,00 | 400.000,00 | 100.000,00 | 100.000,00 | 100.000,00 | 1.600.000,00 |
+| GO | CIDADE OCIDENTAL | 520549 | MUNICIPAL |  |  |  | 450.000,00 |  |  | 900.000,00 |
+| GO | CUMARI | 520660 | MUNICIPAL |  |  |  | 125.000,00 |  |  | 250.000,00 |
+| GO | FAINA | 520753 | MUNICIPAL |  |  |  | 150.000,00 |  |  | 300.000,00 |
+| GO | GOIANIA | 520870 | MUNICIPAL |  |  | 3.400.000,00 |  | 3.400.000,00 |  | 6.800.000,00 |
+| GO | HIDROLANDIA | 520970 | MUNICIPAL |  |  | 400.000,00 |  |  |  | 400.000,00 |
+| GO | IACIARA | 520990 | MUNICIPAL |  |  |  |  | 150.000,00 |  | 300.000,00 |
+| GO | ITAPIRAPUA | 521100 | MUNICIPAL |  | 25.000,00 | 50.000,00 | 100.000,00 |  | 25.000,00 | 255.000,00 |
+| GO | JANDAIA | 521170 | MUNICIPAL |  |  |  | 150.000,00 |  |  | 300.000,00 |
+| GO | JARAGUA | 521180 | MUNICIPAL |  |  | 100.000,00 |  | 100.000,00 |  | 200.000,00 |
+| GO | LUZIANIA | 521250 | MUNICIPAL |  |  |  | 400.000,00 |  |  | 400.000,00 |
+| GO | MINEIROS | 521310 | MUNICIPAL |  |  | 100.000,00 |  | 140.000,00 |  | 480.000,00 |
+| GO | MONTE ALEGRE DE GOIAS | 521350 | MUNICIPAL |  |  |  | 300.000,00 |  |  | 300.000,00 |
+| GO | MONTES CLAROS DE GOIAS | 521370 | MUNICIPAL |  |  |  | 300.000,00 |  |  | 300.000,00 |
+| GO | NAZARIO | 521440 | MUNICIPAL |  |  |  | 480.000,00 |  |  | 480.000,00 |
+| GO | PARAUNA | 521640 | MUNICIPAL |  |  |  | 200.000,00 |  |  | 400.000,00 |
+| GO | PLANALTINA | 521760 | MUNICIPAL |  |  |  | 4.000.000,00 |  |  | 4.000.000,00 |
+| GO | POSSE | 521830 | MUNICIPAL |  |  |  | 800.000,00 |  |  | 1.600.000,00 |
+| GO | QUIRINOPOLIS | 521850 | MUNICIPAL |  |  |  | 650.000,00 |  |  | 1.300.000,00 |
+| GO | SILVANIA | 522060 | MUNICIPAL |  | 40.000,00 | 140.000,00 |  | 20.000,00 |  | 400.000,00 |
+| GO | TURVELANDIA | 522155 | MUNICIPAL |  |  | 160.000,00 |  | 270.000,00 | 70.000,00 | 500.000,00 |
+| GO | VICENTINOPOLIS | 522205 | MUNICIPAL |  |  |  | 400.000,00 |  |  | 400.000,00 |
+| MA | AGUA DOCE DO MARANHAO | 210015 | MUNICIPAL |  |  | 78.000,00 |  |  |  | 156.000,00 |
+| MA | ANAJATUBA | 210070 | MUNICIPAL |  | 50.000,00 | 100.000,00 | 50.000,00 | 100.000,00 | 100.000,00 | 1.000.000,00 |
+| MA | ARAIOSES | 210090 | MUNICIPAL |  | 100.000,00 | 6.800.000,00 |  | 2.000.000,00 |  | 12.100.000,00 |
+| MA | ARAME | 210095 | MUNICIPAL |  | 200.000,00 | 200.000,00 |  | 200.000,00 | 150.000,00 | 1.000.000,00 |
+| MA | BACABEIRA | 210125 | MUNICIPAL |  | 200.000,00 | 200.000,00 | 200.000,00 | 200.000,00 |  | 1.200.000,00 |
+| MA | BARREIRINHAS | 210170 | MUNICIPAL |  | 100.000,00 | 200.000,00 |  | 200.000,00 |  | 1.000.000,00 |
+| MA | BENEDITO LEITE | 210180 | MUNICIPAL |  | 50.000,00 | 150.000,00 |  | 100.000,00 |  | 600.000,00 |
+| MA | BOM JESUS DAS SELVAS | 210203 | MUNICIPAL |  |  |  |  | 265.000,00 | 250.000,00 | 865.000,00 |
+| MA | BOM LUGAR | 210207 | MUNICIPAL |  |  | 520.000,00 |  |  |  | 1.040.000,00 |
+| MA | BREJO | 210210 | MUNICIPAL |  |  | 500.000,00 |  | 250.000,00 |  | 1.000.000,00 |
+| MA | BREJO DE AREIA | 210215 | MUNICIPAL |  | 370.138,00 | 385.000,00 | 385.000,00 | 395.016,00 | 375.000,00 | 3.820.307,00 |
+| MA | CHAPADINHA | 210320 | MUNICIPAL |  | 2.500.000,00 |  | 2.500.000,00 | 1.500.000,00 |  | 6.500.000,00 |
+| MA | COELHO NETO | 210340 | MUNICIPAL |  |  | 3.000.000,00 |  |  |  | 3.000.000,00 |
+| MA | COROATA | 210360 | MUNICIPAL |  | 100.000,00 | 100.000,00 |  | 112.845,00 | 134.000,00 | 893.689,00 |
+| MA | FERNANDO FALCAO | 210408 | MUNICIPAL |  |  | 805.000,00 |  |  | 500.000,00 | 2.610.000,00 |
+| MA | FORMOSA DA SERRA NEGRA | 210409 | MUNICIPAL |  |  |  |  | 250.000,00 |  | 500.000,00 |
+| MA | ICATU | 210510 | MUNICIPAL |  |  | 200.000,00 |  |  |  | 500.000,00 |
+| MA | JOAO LISBOA | 210550 | MUNICIPAL |  | 300.000,00 | 300.000,00 |  |  |  | 1.200.000,00 |
+| MA | LAGOA DO MATO | 210592 | MUNICIPAL |  |  | 850.000,00 | 1.200.000,00 |  |  | 2.050.000,00 |
+| MA | LAJEADO NOVO | 210598 | MUNICIPAL |  |  |  | 250.000,00 |  |  | 500.000,00 |
+| MA | MATOES DO NORTE | 210663 | MUNICIPAL |  | 15.000,00 | 15.000,00 | 25.000,00 | 13.000,00 | 10.000,00 | 156.000,00 |
+| MA | MILAGRES DO MARANHAO | 210667 | MUNICIPAL |  | 15.000,00 | 40.000,00 |  | 40.000,00 | 12.000,00 | 157.000,00 |
+| MA | NOVA OLINDA DO MARANHAO | 210735 | MUNICIPAL |  | 450.000,00 | 900.000,00 | 800.000,00 | 550.000,00 | 300.000,00 | 6.000.000,00 |
+| MA | PALMEIRANDIA | 210760 | MUNICIPAL |  |  | 400.000,00 |  |  |  | 400.000,00 |
+| MA | PARNARAMA | 210780 | MUNICIPAL |  |  |  |  | 1.490.000,00 |  | 1.490.000,00 |
+| MA | PEDREIRAS | 210820 | MUNICIPAL |  | 100.000,00 | 120.000,00 | 130.000,00 | 120.000,00 | 30.000,00 | 1.000.000,00 |
+| MA | RAPOSA | 210945 | MUNICIPAL |  |  |  |  |  |  | 1.000.000,00 |
+| MA | SANTA HELENA | 210980 | MUNICIPAL |  |  |  |  | 1.600.000,00 |  | 1.600.000,00 |
+| MA | SANTA INES | 210990 | MUNICIPAL |  |  | 500.000,00 |  |  |  | 1.000.000,00 |
+| MA | SANTA QUITERIA DO MARANHAO | 211010 | MUNICIPAL |  | 100.000,00 | 4.000.000,00 | 82.500,00 | 3.000.000,00 | 50.000,00 | 10.065.000,00 |
+| MA | SAO BERNARDO | 211060 | MUNICIPAL |  | 50.000,00 | 4.400.000,00 | 50.000,00 | 1.000.000,00 |  | 9.500.000,00 |
+| MA | SAO DOMINGOS DO MARANHAO | 211070 | MUNICIPAL |  |  | 750.000,00 |  | 750.000,00 |  | 3.000.000,00 |
+| MA | SAO JOAO DO PARAISO | 211105 | MUNICIPAL |  | 20.000,00 | 50.000,00 | 150.000,00 | 50.000,00 | 30.000,00 | 600.000,00 |
+| MA | SAO JOAO DO SOTER | 211107 | MUNICIPAL |  |  | 700.000,00 |  |  |  | 1.134.969,00 |
+| MA | SAO JOSE DE RIBAMAR | 211120 | MUNICIPAL |  | 250.000,00 | 500.000,00 | 500.000,00 | 250.000,00 |  | 3.000.000,00 |
+| MA | SAO MATEUS DO MARANHAO | 211150 | MUNICIPAL |  | 200.000,00 | 500.000,00 |  | 500.000,00 |  | 2.000.000,00 |
+| MA | SAO PEDRO DOS CRENTES | 211157 | MUNICIPAL |  | 50.000,00 |  | 100.000,00 | 50.000,00 | 50.000,00 | 500.000,00 |
+| MA | SENADOR ALEXANDRE COSTA | 211174 | MUNICIPAL |  |  |  | 500.000,00 |  |  | 1.000.000,00 |
+| MA | SERRANO DO MARANHAO | 211178 | MUNICIPAL |  |  | 500.000,00 |  |  |  | 1.000.000,00 |
+| MA | TIMON | 211220 | MUNICIPAL |  |  | 3.586.400,00 | 800.026,00 |  |  | 7.773.851,00 |
+| MA | TUNTUM | 211230 | MUNICIPAL |  |  |  | 740.000,00 |  |  | 740.000,00 |
+| MA | TUTOIA | 211250 | MUNICIPAL |  | 200.000,00 | 200.000,00 | 200.000,00 | 200.000,00 | 200.000,00 | 2.000.000,00 |
+| MA | VARGEM GRANDE | 211270 | MUNICIPAL |  | 500.000,00 | 1.000.000,00 |  | 500.000,00 | 500.000,00 | 4.306.204,00 |
+| MA | ZE DOCA | 211400 | MUNICIPAL |  | 1.000.000,00 | 1.500.000,00 | 1.000.000,00 | 1.500.000,00 | 1.500.000,00 | 7.000.000,00 |
+| MG | ALBERTINA | 310140 | MUNICIPAL |  |  | 200.000,00 |  |  |  | 400.000,00 |
+| MG | ALFENAS | 310160 | MUNICIPAL |  |  |  |  | 2.876.557,00 |  | 5.098.114,00 |
+| MG | ALMENARA | 310170 | MUNICIPAL |  | 50.000,00 |  |  | 50.000,00 |  | 200.000,00 |
+| MG | ANGELANDIA | 310285 | MUNICIPAL |  |  |  | 200.000,00 |  |  | 200.000,00 |
+| MG | ANTONIO DIAS | 310300 | MUNICIPAL |  | 180.000,00 |  |  | 200.000,00 | 200.000,00 | 1.160.000,00 |
+| MG | ARACAI | 310320 | MUNICIPAL |  | 50.000,00 |  | 50.000,00 |  |  | 100.000,00 |
+| MG | ARAGUARI | 310350 | MUNICIPAL |  | 1.475.000,00 | 2.350.000,00 |  | 2.650.000,00 |  | 7.950.000,00 |
+| MG | ARAUJOS | 310390 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 200.000,00 |
+| MG | ARCEBURGO | 310410 | MUNICIPAL |  |  | 50.000,00 |  |  |  | 50.000,00 |
+| MG | ARICANDUVA | 310445 | MUNICIPAL |  |  |  |  |  | 50.000,00 | 50.000,00 |
+| MG | ASTOLFO DUTRA | 310460 | MUNICIPAL |  |  | 150.000,00 |  |  |  | 150.000,00 |
+| MG | ATALEIA | 310470 | MUNICIPAL |  |  |  | 200.000,00 |  |  | 200.000,00 |
+| MG | BANDEIRA | 310520 | MUNICIPAL |  | 10.000,00 | 10.000,00 | 10.000,00 | 30.000,00 | 20.000,00 | 100.000,00 |
+| MG | BARAO DE COCAIS | 310540 | MUNICIPAL |  | 200.000,00 |  |  |  |  | 200.000,00 |
+| MG | BOCAIUVA | 310730 | MUNICIPAL |  |  |  |  | 150.000,00 |  | 150.000,00 |
+| MG | BONFIM | 310810 | MUNICIPAL |  |  | 500.000,00 |  |  |  | 500.000,00 |
+| MG | BOTUMIRIM | 310850 | MUNICIPAL |  |  | 153.000,00 |  |  |  | 153.000,00 |
+| MG | BUENOPOLIS | 310920 | MUNICIPAL |  |  | 200.000,00 | 100.000,00 |  |  | 300.000,00 |
+| MG | BURITIZEIRO | 310940 | MUNICIPAL |  |  | 300.000,00 |  |  | 100.000,00 | 650.000,00 |
+| MG | CABECEIRA GRANDE | 310945 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 200.000,00 |
+| MG | CACHOEIRA DE PAJEU | 310270 | MUNICIPAL |  |  | 200.000,00 |  |  |  | 200.000,00 |
+| MG | CAJURI | 311020 | MUNICIPAL |  |  | 83.000,00 |  |  |  | 166.000,00 |
+| MG | CAMPESTRE | 311100 | MUNICIPAL |  |  |  | 350.000,00 |  |  | 700.000,00 |
+| MG | CAMPINA VERDE | 311110 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 200.000,00 |
+| MG | CAMPO AZUL | 311115 | MUNICIPAL |  |  | 300.000,00 |  |  |  | 300.000,00 |
+| MG | CARAI | 311300 | MUNICIPAL |  | 100.000,00 |  |  |  |  | 200.000,00 |
+| MG | CARATINGA | 311340 | MUNICIPAL |  |  | 440.000,00 |  |  |  | 440.000,00 |
+| MG | CARBONITA | 311350 | MUNICIPAL |  |  | 75.000,00 |  |  |  | 150.000,00 |
+| MG | CARMESIA | 311380 | MUNICIPAL |  | 50.000,00 |  |  | 50.000,00 | 50.000,00 | 200.000,00 |
+| MG | CARMO DA MATA | 311400 | MUNICIPAL |  |  | 200.000,00 |  |  |  | 400.000,00 |
+| MG | CARMO DO CAJURU | 311420 | MUNICIPAL |  |  | 85.000,00 |  |  | 50.000,00 | 270.000,00 |
+| MG | CARMO DO RIO CLARO | 311440 | MUNICIPAL |  |  |  |  | 251.000,00 |  | 502.000,00 |
+| MG | CARRANCAS | 311460 | MUNICIPAL |  | 50.000,00 |  |  |  |  | 100.000,00 |
+| MG | CATUTI | 311547 | MUNICIPAL |  | 20.000,00 | 22.500,00 | 20.000,00 |  |  | 125.000,00 |
+| MG | CHALE | 311600 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 200.000,00 |
+| MG | CONCEICAO DA APARECIDA | 311710 | MUNICIPAL |  |  |  | 249.000,00 |  |  | 498.000,00 |
+| MG | CONCEICAO DE IPANEMA | 311740 | MUNICIPAL |  |  | 150.000,00 |  |  |  | 300.000,00 |
+| MG | CONEGO MARINHO | 311783 | MUNICIPAL |  |  | 200.000,00 |  |  |  | 200.000,00 |
+| MG | CONFINS | 311787 | MUNICIPAL |  |  | 150.000,00 |  |  |  | 300.000,00 |
+| MG | CORINTO | 311910 | MUNICIPAL |  |  |  |  | 750.000,00 |  | 1.500.000,00 |
+| MG | CORONEL MURTA | 311950 | MUNICIPAL |  | 100.000,00 |  |  |  |  | 200.000,00 |
+| MG | CORREGO NOVO | 312000 | MUNICIPAL |  |  | 150.000,00 | 150.000,00 |  |  | 300.000,00 |
+| MG | CRISTAIS | 312020 | MUNICIPAL |  | 100.000,00 |  |  |  |  | 200.000,00 |
+| MG | CRISTIANO OTONI | 312040 | MUNICIPAL |  |  | 500.000,00 |  |  |  | 500.000,00 |
+| MG | CRUZEIRO DA FORTALEZA | 312070 | MUNICIPAL |  |  | 500.000,00 |  |  |  | 500.000,00 |
+| MG | CURRAL DE DENTRO | 312087 | MUNICIPAL |  |  | 200.000,00 |  |  |  | 200.000,00 |
+| MG | CURVELO | 312090 | MUNICIPAL |  |  |  | 300.000,00 |  |  | 300.000,00 |
+| MG | DATAS | 312100 | MUNICIPAL |  | 50.000,00 | 50.000,00 |  | 50.000,00 |  | 150.000,00 |
+| MG | DESTERRO DE ENTRE RIOS | 312140 | MUNICIPAL |  |  | 110.000,00 |  |  |  | 110.000,00 |
+| MG | DIVINESIA | 312190 | MUNICIPAL |  |  |  | 100.000,00 | 100.000,00 |  | 200.000,00 |
+| MG | DOM BOSCO | 312247 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 100.000,00 |
+| MG | DORES DO TURVO | 312330 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 200.000,00 |
+| MG | FELICIO DOS SANTOS | 312540 | MUNICIPAL |  |  | 50.000,00 |  |  |  | 100.000,00 |
+| MG | FELIXLANDIA | 312570 | MUNICIPAL |  | 100.000,00 |  |  |  |  | 200.000,00 |
+| MG | FERROS | 312590 | MUNICIPAL |  |  | 425.000,00 | 365.000,00 |  | 130.000,00 | 1.590.000,00 |
+| MG | FORMIGA | 312610 | MUNICIPAL |  |  |  | 50.000,00 |  |  | 100.000,00 |
+| MG | FORMOSO | 312620 | MUNICIPAL |  |  | 125.000,00 |  |  |  | 250.000,00 |
+| MG | FREI GASPAR | 312680 | MUNICIPAL |  |  |  | 200.000,00 | 200.000,00 |  | 400.000,00 |
+| MG | FREI INOCENCIO | 312690 | MUNICIPAL |  |  |  |  | 50.000,00 | 50.000,00 | 200.000,00 |
+| MG | FRUTA DE LEITE | 312707 | MUNICIPAL |  |  |  | 200.000,00 |  |  | 200.000,00 |
+| MG | FUNILANDIA | 312720 | MUNICIPAL |  |  | 300.000,00 |  |  |  | 300.000,00 |
+| MG | GUIMARANIA | 312890 | MUNICIPAL |  |  | 175.000,00 |  |  |  | 350.000,00 |
+| MG | GURINHATA | 312910 | MUNICIPAL |  |  |  | 120.000,00 |  |  | 240.000,00 |
+| MG | IBIRITE | 312980 | MUNICIPAL |  | 400.000,00 | 1.400.000,00 | 400.000,00 | 400.000,00 |  | 3.600.000,00 |
+| MG | IGARATINGA | 313020 | MUNICIPAL |  |  | 150.000,00 |  |  |  | 300.000,00 |
+| MG | IMBE DE MINAS | 313055 | MUNICIPAL |  |  | 200.000,00 |  |  |  | 200.000,00 |
+| MG | INHAUMA | 313100 | MUNICIPAL |  | 300.000,00 | 800.000,00 |  | 300.000,00 |  | 1.400.000,00 |
+| MG | IPANEMA | 313120 | MUNICIPAL |  |  | 330.000,00 |  |  |  | 660.000,00 |
+| MG | ITACAMBIRA | 313200 | MUNICIPAL |  |  | 50.000,00 | 20.000,00 | 40.000,00 |  | 150.000,00 |
+| MG | ITAMBE DO MATO DENTRO | 313280 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 200.000,00 |
+| MG | ITAPECERICA | 313350 | MUNICIPAL |  |  | 550.000,00 |  |  |  | 1.100.000,00 |
+| MG | JAMPRUCA | 313507 | MUNICIPAL |  |  |  | 250.000,00 |  |  | 250.000,00 |
+| MG | JAPONVAR | 313535 | MUNICIPAL |  |  | 300.000,00 |  |  |  | 300.000,00 |
+| MG | JOAQUIM FELICIO | 313640 | MUNICIPAL |  |  |  | 102.000,00 |  |  | 102.000,00 |
+| MG | JURUAIA | 313690 | MUNICIPAL |  |  |  | 249.000,00 |  |  | 498.000,00 |
+| MG | LAGOA FORMOSA | 313750 | MUNICIPAL |  |  |  |  | 75.000,00 |  | 150.000,00 |
+| MG | LAGOA GRANDE | 313753 | MUNICIPAL |  |  |  |  | 100.000,00 |  | 200.000,00 |
+| MG | LARANJAL | 313800 | MUNICIPAL |  |  | 300.000,00 |  |  |  | 600.000,00 |
+| MG | MADRE DE DEUS DE MINAS | 313910 | MUNICIPAL |  |  |  | 200.000,00 |  |  | 200.000,00 |
+| MG | MAMONAS | 313925 | MUNICIPAL |  |  | 50.000,00 | 70.000,00 | 80.000,00 | 50.000,00 | 500.000,00 |
+| MG | MANHUACU | 313940 | MUNICIPAL |  |  |  | 1.001.234,00 |  |  | 2.001.234,00 |
+| MG | MANHUMIRIM | 313950 | MUNICIPAL |  |  | 75.000,00 |  |  |  | 150.000,00 |
+| MG | MARIANA | 314000 | MUNICIPAL |  |  |  |  | 300.000,00 |  | 300.000,00 |
+| MG | MARIO CAMPOS | 314015 | MUNICIPAL |  |  | 300.000,00 |  |  |  | 300.000,00 |
+| MG | MARTINS SOARES | 314053 | MUNICIPAL |  | 20.000,00 |  |  | 30.000,00 | 50.000,00 | 200.000,00 |
+| MG | MEDEIROS | 314130 | MUNICIPAL |  |  | 75.000,00 |  |  |  | 150.000,00 |
+| MG | MEDINA | 314140 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 200.000,00 |
+| MG | MESQUITA | 314170 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 200.000,00 |
+| MG | MURIAE | 314390 | MUNICIPAL |  |  | 480.000,00 |  |  |  | 480.000,00 |
+| MG | NINHEIRA | 314465 | MUNICIPAL |  | 100.000,00 |  |  |  | 25.000,00 | 250.000,00 |
+| MG | NOVA RESENDE | 314510 | MUNICIPAL |  |  | 502.000,00 |  |  |  | 502.000,00 |
+| MG | NOVO CRUZEIRO | 314530 | MUNICIPAL |  |  | 150.000,00 |  |  |  | 300.000,00 |
+| MG | OLIVEIRA FORTES | 314570 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 200.000,00 |
+| MG | ORIZANIA | 314587 | MUNICIPAL |  |  | 50.000,00 | 200.000,00 | 81.234,00 | 120.000,00 | 901.234,00 |
+| MG | OURO VERDE DE MINAS | 314620 | MUNICIPAL |  |  | 100.000,00 | 100.000,00 | 100.000,00 |  | 600.000,00 |
+| MG | PADRE CARVALHO | 314625 | MUNICIPAL |  |  | 480.000,00 |  |  |  | 480.000,00 |
+| MG | PAI PEDRO | 314655 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 200.000,00 |
+| MG | PAINEIRAS | 314640 | MUNICIPAL |  | 50.000,00 | 50.000,00 |  | 50.000,00 | 50.000,00 | 200.000,00 |
+| MG | PAINS | 314650 | MUNICIPAL |  |  | 220.000,00 |  |  |  | 440.000,00 |
+| MG | PAPAGAIOS | 314690 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 200.000,00 |
+| MG | PASSA QUATRO | 314760 | MUNICIPAL |  |  |  |  | 150.000,00 |  | 300.000,00 |
+| MG | PATIS | 314795 | MUNICIPAL |  |  |  | 130.000,00 | 100.000,00 |  | 330.000,00 |
+| MG | PAULISTAS | 314840 | MUNICIPAL |  |  | 125.000,00 |  |  |  | 250.000,00 |
+| MG | PEDRA DO INDAIA | 314890 | MUNICIPAL |  |  |  | 150.000,00 |  |  | 300.000,00 |
+| MG | PEDRAS DE MARIA DA CRUZ | 314915 | MUNICIPAL |  |  | 300.000,00 |  |  |  | 300.000,00 |
+| MG | PERDIGAO | 314970 | MUNICIPAL |  |  | 250.000,00 |  |  |  | 500.000,00 |
+| MG | PIEDADE DE CARATINGA | 315015 | MUNICIPAL |  |  | 200.000,00 |  |  |  | 200.000,00 |
+| MG | PIMENTA | 315050 | MUNICIPAL |  |  |  | 550.000,00 |  |  | 1.100.000,00 |
+| MG | PIRACEMA | 315060 | MUNICIPAL |  |  | 150.000,00 |  | 150.000,00 |  | 450.000,00 |
+| MG | PITANGUI | 315140 | MUNICIPAL |  |  |  | 500.000,00 |  |  | 1.000.000,00 |
+| MG | POTE | 315240 | MUNICIPAL |  |  |  | 1.000.000,00 |  |  | 1.000.000,00 |
+| MG | RIO MANSO | 315530 | MUNICIPAL |  |  |  | 150.000,00 |  |  | 300.000,00 |
+| MG | SABARA | 315670 | MUNICIPAL |  |  | 1.000.000,00 |  |  |  | 1.999.900,00 |
+| MG | SALTO DA DIVISA | 315710 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 200.000,00 |
+| MG | SANTA EFIGENIA DE MINAS | 315750 | MUNICIPAL |  |  |  | 25.000,00 | 50.000,00 | 50.000,00 | 200.000,00 |
+| MG | SANTA HELENA DE MINAS | 315765 | MUNICIPAL |  |  |  |  |  |  | 400.000,00 |
+| MG | SANTA LUZIA | 315780 | MUNICIPAL |  | 1.000.000,00 | 1.000.000,00 | 500.000,00 | 500.000,00 | 500.000,00 | 4.000.000,00 |
+| MG | SANTANA DE CATAGUASES | 315840 | MUNICIPAL |  |  | 50.000,00 |  |  |  | 100.000,00 |
+| MG | SANTANA DOS MONTES | 315910 | MUNICIPAL |  |  |  | 125.000,00 |  |  | 250.000,00 |
+| MG | SANTO ANTONIO DO ITAMBE | 316020 | MUNICIPAL |  |  | 167.000,00 |  |  |  | 167.000,00 |
+| MG | SAO FELIX DE MINAS | 316105 | MUNICIPAL |  |  | 125.000,00 |  | 25.000,00 | 25.000,00 | 250.000,00 |
+| MG | SAO FRANCISCO DE PAULA | 316120 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 200.000,00 |
+| MG | SAO FRANCISCO DO GLORIA | 316140 | MUNICIPAL |  |  |  | 100.000,00 |  |  | 200.000,00 |
+| MG | SAO GONCALO DO PARA | 316180 | MUNICIPAL |  |  |  | 600.000,00 |  |  | 600.000,00 |
+| MG | SAO JOAO DA PONTE | 316240 | MUNICIPAL |  |  |  | 400.000,00 |  |  | 400.000,00 |
+| MG | SAO JOAO DO ORIENTE | 316260 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 200.000,00 |
+| MG | SAO JOAO DO PACUI | 316265 | MUNICIPAL |  |  | 200.000,00 |  |  |  | 200.000,00 |
+| MG | SAO JOSE DA SAFIRA | 316300 | MUNICIPAL |  | 200.000,00 |  |  |  |  | 200.000,00 |
+| MG | SAO PEDRO DA UNIAO | 316390 | MUNICIPAL |  |  | 350.000,00 |  |  |  | 350.000,00 |
+| MG | SARDOA | 316550 | MUNICIPAL |  |  | 300.000,00 |  |  |  | 300.000,00 |
+| MG | SARZEDO | 316553 | MUNICIPAL |  |  | 250.000,00 |  |  |  | 500.000,00 |
+
+| MG | SENADOR MODESTINO GONCALVES | 316590 | MUNICIPAL |  |  | 50.000,00 |  |  |  | 100.000,00 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| MG | SERICITA | 316630 | MUNICIPAL |  |  | 167.000,00 |  |  |  | 167.000,00 |
+| MG | SERRANOPOLIS DE MINAS | 316695 | MUNICIPAL |  |  | 100.000,00 | 100.000,00 |  |  | 400.000,00 |
+| MG | SETUBINHA | 316555 | MUNICIPAL |  |  |  | 200.000,00 |  |  | 200.000,00 |
+| MG | TABULEIRO | 316790 | MUNICIPAL |  |  | 125.000,00 |  |  |  | 250.000,00 |
+| MG | TAQUARACU DE MINAS | 316830 | MUNICIPAL |  |  |  |  | 200.000,00 |  | 200.000,00 |
+| MG | TEIXEIRAS | 316850 | MUNICIPAL |  |  | 200.000,00 |  |  |  | 400.000,00 |
+| MG | TEOFILO OTONI | 316860 | MUNICIPAL |  | 105.000,00 | 300.000,00 |  |  |  | 810.000,00 |
+| MG | TOCANTINS | 316900 | MUNICIPAL |  |  |  | 600.000,00 |  |  | 600.000,00 |
+| MG | TRES CORACOES | 316930 | MUNICIPAL |  |  |  | 200.000,00 | 100.000,00 |  | 500.000,00 |
+| MG | UBA | 316990 | MUNICIPAL |  |  | 250.000,00 |  |  |  | 500.000,00 |
+| MG | VOLTA GRANDE | 317210 | MUNICIPAL |  |  | 100.000,00 |  |  |  | 200.000,00 |
+| MS | AGUA CLARA | 500020 | MUNICIPAL |  |  | 100.000,00 |  | 200.000,00 | 100.000,00 | 800.000,00 |
+| MS | AMAMBAI | 500060 | MUNICIPAL |  | 100.000,00 | 200.000,00 |  | 100.000,00 | 100.000,00 | 1.000.000,00 |
+| MS | ANGELICA | 500085 | MUNICIPAL |  |  |  | 250.000,00 |  |  | 500.000,00 |
+| MS | APARECIDA DO TABOADO | 500100 | MUNICIPAL |  |  |  |  | 800.000,00 |  | 1.600.000,00 |
+| MS | AQUIDAUANA | 500110 | MUNICIPAL |  |  | 150.000,00 | 125.000,00 |  |  | 550.000,00 |
+| MS | ARAL MOREIRA | 500124 | MUNICIPAL |  |  | 337.500,00 |  |  |  | 675.000,00 |
+| MS | BATAYPORA | 500200 | MUNICIPAL |  | 400.000,00 |  |  |  |  | 800.000,00 |
+| MS | CAARAPO | 500240 | MUNICIPAL |  | 200.000,00 |  |  | 200.000,00 |  | 800.000,00 |
+| MS | CORGUINHO | 500310 | MUNICIPAL |  | 50.000,00 | 100.000,00 |  | 75.000,00 |  | 450.000,00 |
+| MS | DOURADINA | 500350 | MUNICIPAL |  |  |  | 150.000,00 |  |  | 300.000,00 |
+| MS | ELDORADO | 500375 | MUNICIPAL |  |  |  |  | 150.000,00 |  | 300.000,00 |
+| MS | FATIMA DO SUL | 500380 | MUNICIPAL |  |  | 200.000,00 |  |  |  | 400.000,00 |
+| MS | GLORIA DE DOURADOS | 500400 | MUNICIPAL |  | 75.000,00 | 150.000,00 |  | 300.000,00 |  | 1.050.000,00 |
+| MS | INOCENCIA | 500440 | MUNICIPAL |  | 70.000,00 | 650.000,00 |  | 150.000,00 |  | 1.540.000,00 |
+| MS | ITAPORA | 500450 | MUNICIPAL |  |  | 400.000,00 |  |  |  | 800.000,00 |
+| MS | JAPORA | 500480 | MUNICIPAL |  |  |  |  | 75.000,00 | 75.000,00 | 300.000,00 |
+| MS | LADARIO | 500520 | MUNICIPAL |  |  |  |  |  | 187.500,00 | 375.000,00 |
+| MS | LAGUNA CARAPA | 500525 | MUNICIPAL |  | 100.000,00 | 100.000,00 |  | 100.000,00 |  | 600.000,00 |
+| MS | MARACAJU | 500540 | MUNICIPAL |  |  |  |  | 670.000,00 |  | 670.000,00 |
+| MS | MIRANDA | 500560 | MUNICIPAL |  |  | 800.000,00 |  |  |  | 800.000,00 |
+| MS | MUNDO NOVO | 500568 | MUNICIPAL |  |  |  | 250.000,00 |  |  | 500.000,00 |
+| MS | PONTA PORA | 500660 | MUNICIPAL |  |  | 2.000.000,00 |  | 750.000,00 |  | 3.500.000,00 |
+| MS | RIO NEGRO | 500730 | MUNICIPAL |  |  | 100.000,00 |  | 150.000,00 |  | 300.000,00 |
+| MS | RIO VERDE DE MATO GROSSO | 500740 | MUNICIPAL |  |  | 1.000.000,00 |  |  |  | 1.000.000,00 |
+| MS | SONORA | 500793 | MUNICIPAL |  |  |  | 490.000,00 | 300.000,00 |  | 790.000,00 |
+| MT | ALTA FLORESTA | 510025 | MUNICIPAL |  |  |  |  | 1.000.000,00 |  | 1.500.000,00 |
+| MT | CACERES | 510250 | MUNICIPAL |  | 908.164,00 | 942.858,00 |  |  |  | 3.702.044,00 |
+| MT | COLNIZA | 510325 | MUNICIPAL |  |  | 500.000,00 |  |  |  | 500.000,00 |
+| MT | COTRIGUACU | 510337 | MUNICIPAL |  |  | 200.000,00 |  | 260.000,00 | 240.000,00 | 1.400.000,00 |
+| MT | FELIZ NATAL | 510370 | MUNICIPAL |  | 50.000,00 | 50.000,00 |  | 50.000,00 | 100.000,00 | 500.000,00 |
+| MT | FIGUEIROPOLIS D'OESTE | 510380 | MUNICIPAL |  |  |  |  | 103.272,00 |  | 206.543,00 |
+| MT | ITIQUIRA | 510460 | MUNICIPAL |  |  | 600.000,00 |  |  |  | 600.000,00 |
+| MT | NOSSA SENHORA DO LIVRAMENTO | 510610 | MUNICIPAL |  |  |  |  | 300.000,00 |  | 600.000,00 |
+| MT | NOVA OLIMPIA | 510623 | MUNICIPAL |  | 100.000,00 |  | 180.000,00 | 100.000,00 | 100.000,00 | 480.000,00 |
+| MT | NOVO SANTO ANTONIO | 510631 | MUNICIPAL |  |  | 80.000,00 |  | 50.000,00 | 125.000,00 | 450.000,00 |
+| MT | PARANATINGA | 510630 | MUNICIPAL |  | 200.000,00 | 200.000,00 | 267.910,00 |  |  | 667.910,00 |
+| MT | PORTO DOS GAUCHOS | 510680 | MUNICIPAL |  | 50.000,00 | 200.000,00 | 700.000,00 |  | 138.462,00 | 2.176.922,00 |
+| MT | SANTA RITA DO TRIVELATO | 510776 | MUNICIPAL |  | 100.000,00 |  |  | 100.000,00 | 100.000,00 | 600.000,00 |
+| MT | SERRA NOVA DOURADA | 510788 | MUNICIPAL |  |  |  |  | 50.000,00 | 50.000,00 | 200.000,00 |
+| MT | SORRISO | 510792 | MUNICIPAL |  |  | 480.000,00 |  |  |  | 480.000,00 |
+| MT | TERRA NOVA DO NORTE | 510805 | MUNICIPAL |  | 250.000,00 |  | 150.000,00 | 314.000,00 |  | 814.000,00 |
+| MT | TESOURO | 510810 | MUNICIPAL |  |  | 486.000,00 |  |  |  | 486.000,00 |
+| MT | UNIAO DO SUL | 510830 | MUNICIPAL |  |  |  |  | 250.000,00 |  | 500.000,00 |
+| Total Geral |  | 40.702.651,00 | 143.412.778,00 | 57.570.699,00 | 75.447.906,00 | 19.668.959,00 | 518.245.303,00 |  |  |  |

@@ -1,0 +1,59 @@
+---
+titulo: "PORTARIA SAPS/MS Nº 287, DE 16 DE ABRIL DE 2025"
+orgao: "Ministério da Saúde/Secretaria de Atenção Primária à Saúde"
+tipo: "Portaria"
+numero: "287"
+data: 2025-04-16
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 17/04/2025, seção 1, p. 104"
+data_publicacao: 2025-04-17
+edicao: "74"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-saps/ms-n-287-de-16-de-abril-de-2025-624606873"
+baixado_em: 2026-10-15
+---
+# PORTARIA SAPS/MS Nº 287, DE 16 DE ABRIL DE 2025
+
+PORTARIA SAPS/MS Nº 287, DE 16 DE ABRIL DE 2025
+
+Altera o Anexo da Portaria Saps/MS nº 10, de 8 de fevereiro de 2024, que divulga a lista dos nomes e respectivos Registros Únicos de médicos intercambistas participantes do Projeto Mais Médicos para o Brasil - PMMB.
+
+A SECRETÁRIA DE ATENÇÃO PRIMÁRIA À SAÚDE, no uso da atribuição que lhe confere o art. 21, do Anexo I, Seção II do Decreto nº 11.798, de 28 de novembro de 2023, e das atribuições pertinentes ao Projeto Mais Médicos para o Brasil - PMMB, nos termos do art. 16, § 3º, da Lei nº 12.871, de 22 de outubro de 2013, do art. 1º, § 1º, do Decreto nº 8.126, de 22 de outubro de 2013, e dos arts. 6º e 7º da Portaria GM/MS nº 2.477, de 22 de outubro de 2013, resolve:
+
+**Art. 1º** O Anexo da Portaria Saps/MS nº 10, de 8 de fevereiro de 2024, que divulga a lista dos nomes e respectivos Registros Únicos de médicos intercambistas participantes do Projeto Mais Médicos para o Brasil - PMMB, passa a vigorar com a seguinte alteração:
+
+Excluir:
+
+| PROCESSO | CPF | NOME | RMS | UF | MUNICÍPIO | INÍCIO DAS ATIVIDADES |
+| --- | --- | --- | --- | --- | --- | --- |
+| 25000.138181/2023-71 | XXX.033.328-XX | ADRIANA CORREIA DE GODOI CARVALHO | 3506382 | SP | TABOÃO DA SERRA | 04/12/2023 |
+| 25000.136992/2023-38 | XXX.413.028-XX | ADAIR JOSE SANTOS FERREIRA | 3506376 | SP | TABOÃO DA SERRA | 04/12/2023 |
+| 25000.125895/2019-33 | XXX.334.641-XX | GISELLE PEREIRA BORGES MACEDO | 3505850 | SP | TABOÃO DA SERRA | 19/09/2023 |
+| 25000.038506/2014-26 | XXX.125.051-XX | WALFRIDO LAZARO RUIZ HERNANDEZ | 3506011 | SP | TABOÃO DA SERRA | 07/11/2023 |
+| 25000.219675/2013-84 | XXX.992.721-XX | MAYRA MAXIMILIANA COLLINS SUAREZ LACERDA | 3505817 | SP | TABOÃO DA SERRA | 19/09/2023 |
+| 25000.068026/2014-90 | XXX.708.231-XX | MERCEDES GARCIA CAPOTE | 3505920 | SP | TABOÃO DA SERRA | 06/11/2023 |
+| 25000.144281/2023-37 | XXX.040.321-XX | ROGERIO BOTELHO DA SILVA | 3506638 | SP | TABOÃO DA SERRA | 04/12/2023 |
+| 25000.140518/2023-19 | XXX.948.562-XX | DIEGO CARVALHO GOMES | 3506449 | SP | TABOÃO DA SERRA | 04/12/2023 |
+| 25000.144175/2023-53 | XXX.113.662-XX | RODRIGO MOREIRA GATI | 3506636 | SP | TABOÃO DA SERRA | 04/12/2023 |
+| 25000.145275/2023-05 | XXX.294.549-XX | SEBASTIAO PIRES DE LACERDA JUNIOR | 3506655 | SP | TABOÃO DA SERRA | 04/12/2023 |
+| 25000.139858/2023-99 | XXX.390.272-XX | JUSCELINO PEREIRA DIAS | 3506538 | SP | TABOÃO DA SERRA | 04/12/2023 |
+
+Incluir:
+
+| PROCESSO | CPF | NOME | RMS | UF | MUNICÍPIO | INÍCIO DAS ATIVIDADES |
+| --- | --- | --- | --- | --- | --- | --- |
+| 25000.138181/2023-71 | XXX.033.328-XX | ADRIANA CORREIA DE GODOI CARVALHO | 3506382 | SP | SANTO ANDRÉ | 31/03/2025 |
+| 25000.136992/2023-38 | XXX.413.028-XX | ADAIR JOSE SANTOS FERREIRA | 2705622 | AL | GIRAU DO PONCIANO | 25/03/2025 |
+| 25000.125895/2019-33 | XXX.334.641-XX | GISELLE PEREIRA BORGES MACEDO | 3505850 | SP | OSASCO | 31/03/2025 |
+| 25000.038506/2014-26 | XXX.125.051-XX | WALFRIDO LAZARO RUIZ HERNANDEZ | 3506011 | SP | OSASCO | 01/04/2025 |
+| 25000.219675/2013-84 | XXX.992.721-XX | MAYRA MAXIMILIANA COLLINS SUAREZ LACERDA | 3505817 | SP | OSASCO | 31/03/2025 |
+| 25000.068026/2014-90 | XXX.708.231-XX | MERCEDES GARCIA CAPOTE | 3505920 | SP | OSASCO | 31/03/2025 |
+| 25000.144281/2023-37 | XXX.040.321-XX | ROGERIO BOTELHO DA SILVA | 3506638 | SP | ITAPECERICA DA SERRA | 03/04/2025 |
+| 25000.140518/2023-19 | XXX.948.562-XX | DIEGO CARVALHO GOMES | 3506449 | SP | JANDIRA | 03/04/2025 |
+| 25000.144175/2023-53 | XXX.113.662-XX | RODRIGO MOREIRA GATI | 1506296 | PA | SÃO FRANCISCO DO PARÁ | 04/04/2025 |
+| 25000.145275/2023-05 | XXX.294.549-XX | SEBASTIAO PIRES DE LACERDA JUNIOR | 3506655 | SP | ITAPECERICA DA SERRA | 01/04/2025 |
+| 25000.139858/2023-99 | XXX.390.272-XX | JUSCELINO PEREIRA DIAS | 1105695 | RO | NOVA BRASILANDIA D'OESTE | 07/04/2025 |
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+ANA LUIZA F. R. CALDAS

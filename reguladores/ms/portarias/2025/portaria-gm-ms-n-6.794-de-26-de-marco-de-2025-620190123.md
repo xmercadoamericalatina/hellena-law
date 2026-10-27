@@ -1,0 +1,1302 @@
+---
+titulo: "Portaria GM/MS Nº 6.794, DE 26 DE MARÇO DE 2025"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "6794"
+data: 2025-03-26
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 27/03/2025, seção 1, p. 67"
+data_publicacao: 2025-03-27
+edicao: "59"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-6.794-de-26-de-marco-de-2025-620190123"
+baixado_em: 2026-10-15
+---
+# Portaria GM/MS Nº 6.794, DE 26 DE MARÇO DE 2025
+
+Portaria GM/MS Nº 6.794, DE 26 DE MARÇO DE 2025
+
+Divulga a previsão dos montantes anuais de referência destinados ao cofinanciamento federal de recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde, no Grupo Atenção Primária e na Ação Apoio à manutenção dos polos do Programa Academia da Saúde - PAS, por município e Distrito Federal, no ano de 2025.
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II, do parágrafo único do art. 87, da Constituição Federal, resolve:
+
+**Art. 1º** Divulgar a previsão dos montantes anuais de referência destinados ao cofinanciamento federal de recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde, no Grupo Atenção Primária e na Ação Apoio à manutenção dos polos do Programa Academia da Saúde - PAS, por unidade federativa e Instituto Brasileiro de Geografia e Estatística - IBGE, no ano de 2025.
+
+**Art. 2º** O cálculo dos montantes de referência para o ano de 2025, descritos no Anexo desta Portaria, considerou os valores referentes aos polos do Programa Academia da Saúde - PAS custeados na parcela janeiro de 2025, por unidade federativa e IBGE, e o resultado do valor obtido multiplicado por 12 (doze).
+
+**§ 1º** Para fins da transferência financeira mensal aos entes, a Secretaria de Atenção Primária à Saúde do Ministério da Saúde - SAPS/MS irá monitorar, mensalmente, o cumprimento das regras previstas nas normas vigentes que regulamentam a organização, o funcionamento e o financiamento dos polos do PAS, observando o disposto nas Portarias de Consolidação MS/GM nº 2 e nº 6, de 28 de setembro de 2017, e na Portaria de Consolidação SAPS/MS nº 1, de 2 de junho de 2021.
+
+**§ 2º** Os montantes descritos no Anexo a esta Portaria:
+
+I - representam os valores executados na parcela 01 (janeiro) de 2025, somados à previsão de valores para as parcelas 02 a 12 (fevereiro a dezembro) de 2025, sobre os quais podem incidir variações conforme monitoramento mensal das informações registradas pela gestão municipal e distrital no Sistema do Cadastro Nacional de Estabelecimentos de Saúde - SCNES, no Sistema de Informação em Saúde para a Atenção Básica - SISAB ou nos demais sistemas de monitoramento da APS; e
+
+II - não correspondem obrigatoriamente aos valores das transferências a serem informados, mensalmente, no sítio do Fundo Nacional de Saúde - FNS e do e-Gestor Atenção Básica.
+
+**§ 3º** No cálculo dos montantes descritos no Anexo a esta Portaria não foram incluídos os valores referentes aos novos credenciamentos e homologações de polos do PAS que venham a ocorrer no ano de 2025.
+
+**Art. 3º** Os montantes destinados ao Apoio à manutenção dos polos do PAS no ano de 2025, descritos no Anexo a esta Portaria:
+
+I - serão transferidos do FNS aos respectivos Fundos de Saúde dos municípios e do Distrito Federal em 12 (doze) parcelas mensais, correspondentes aos meses de janeiro a dezembro de 2025, nos termos do art. 2º desta Portaria, de forma regular e automática; e
+
+II - serão atualizados mensalmente no e-Gestor Atenção Básica e disponibilizados para consulta no endereço: www.egestorab.saude.gov.br.
+
+**Art. 4º** O Fundo Nacional de Saúde - FNS adotará as medidas necessárias para as transferências de recursos estabelecidos nesta Portaria aos respectivos Fundos Municipais e Distrital de Saúde, em conformidade com os processos de pagamentos a serem instruídos.
+
+**Art. 5º** Os créditos orçamentários objeto desta Portaria estão vinculados ao orçamento do Ministério da Saúde, devendo onerar o Programa de Trabalho "20.36901.10.301.5119.217U - Apoio à Manutenção dos polos do Programa Academia da Saúde", no Plano orçamentário "0000", e totalizam o valor de R$ 54.612.000,00 (cinquenta e quatro milhões seiscentos e doze mil reais).
+
+**Art. 6º** Esta Portaria entra em vigor na data de sua publicação.
+
+ALEXANDRE ROCHA SANTOS PADILHA
+
+## ANEXO
+
+PREVISÃO DOS MONTANTES ANUAIS DE REFERÊNCIA DESTINADOS AO COFINANCIAMENTO FEDERAL DOS POLOS DO PROGRAMA ACADEMIA DA SAÚDE, POR UNIDADE FEDERATIVA E IBGE, EM 2025
+
+| UF | MUNICÍPIO | IBGE | QUANT. DE POLOS CREDENCIADOS | MONTANTE ANUAL |
+| --- | --- | --- | --- | --- |
+| AC | ASSIS BRASIL | 120005 | 1 | R$ 36.000,00 |
+| AC | BRASILÉIA | 120010 | 3 | R$ 108.000,00 |
+| AC | BUJARI | 120013 | 1 | R$ 36.000,00 |
+| AC | CRUZEIRO DO SUL | 120020 | 1 | R$ 36.000,00 |
+| AC | MÂNCIO LIMA | 120033 | 1 | R$ 36.000,00 |
+| AC | PORTO WALTER | 120039 | 1 | R$ 36.000,00 |
+| AC | RODRIGUES ALVES | 120042 | 2 | R$ 72.000,00 |
+| AC | SANTA ROSA DO PURUS | 120043 | 1 | R$ 36.000,00 |
+| AL | ARAPIRACA | 270030 | 2 | R$ 72.000,00 |
+| AL | BATALHA | 270070 | 1 | R$ 36.000,00 |
+| AL | BELO MONTE | 270090 | 1 | R$ 36.000,00 |
+| AL | BRANQUINHA | 270110 | 1 | R$ 36.000,00 |
+| AL | CAMPO ALEGRE | 270140 | 2 | R$ 72.000,00 |
+| AL | CANAPI | 270160 | 1 | R$ 36.000,00 |
+| AL | CAPELA | 270170 | 1 | R$ 36.000,00 |
+| AL | COLÔNIA LEOPOLDINA | 270210 | 1 | R$ 36.000,00 |
+| AL | CORURIPE | 270230 | 2 | R$ 72.000,00 |
+| AL | CRAÍBAS | 270235 | 1 | R$ 36.000,00 |
+| AL | DELMIRO GOUVEIA | 270240 | 1 | R$ 36.000,00 |
+| AL | DOIS RIACHOS | 270250 | 1 | R$ 36.000,00 |
+| AL | FEIRA GRANDE | 270260 | 1 | R$ 36.000,00 |
+| AL | GIRAU DO PONCIANO | 270290 | 1 | R$ 36.000,00 |
+| AL | IGACI | 270310 | 2 | R$ 72.000,00 |
+| AL | IGREJA NOVA | 270320 | 1 | R$ 36.000,00 |
+| AL | INHAPI | 270330 | 1 | R$ 36.000,00 |
+| AL | JEQUIÁ DA PRAIA | 270375 | 1 | R$ 36.000,00 |
+| AL | JUNQUEIRO | 270400 | 1 | R$ 36.000,00 |
+| AL | MINADOR DO NEGRÃO | 270530 | 1 | R$ 36.000,00 |
+| AL | OLHO D'ÁGUA DAS FLORES | 270570 | 1 | R$ 36.000,00 |
+| AL | OLIVENÇA | 270600 | 1 | R$ 36.000,00 |
+| AL | PALMEIRA DOS ÍNDIOS | 270630 | 1 | R$ 36.000,00 |
+| AL | PÃO DE AÇÚCAR | 270640 | 1 | R$ 36.000,00 |
+| AL | PARICONHA | 270642 | 1 | R$ 36.000,00 |
+| AL | PASSO DE CAMARAGIBE | 270650 | 1 | R$ 36.000,00 |
+| AL | PILAR | 270690 | 1 | R$ 36.000,00 |
+| AL | POÇO DAS TRINCHEIRAS | 270720 | 1 | R$ 36.000,00 |
+| AL | PORTO REAL DO COLÉGIO | 270750 | 1 | R$ 36.000,00 |
+| AL | QUEBRANGULO | 270760 | 1 | R$ 36.000,00 |
+| AL | RIO LARGO | 270770 | 1 | R$ 36.000,00 |
+| AL | SÃO MIGUEL DOS CAMPOS | 270860 | 1 | R$ 36.000,00 |
+| AL | SÃO SEBASTIÃO | 270880 | 3 | R$ 108.000,00 |
+| AL | SENADOR RUI PALMEIRA | 270895 | 1 | R$ 36.000,00 |
+| AL | TAQUARANA | 270910 | 1 | R$ 36.000,00 |
+| AL | TEOTÔNIO VILELA | 270915 | 2 | R$ 72.000,00 |
+| AL | TRAIPU | 270920 | 1 | R$ 36.000,00 |
+| AL | VIÇOSA | 270940 | 1 | R$ 36.000,00 |
+| AM | BORBA | 130080 | 1 | R$ 36.000,00 |
+| AM | NOVA OLINDA DO NORTE | 130310 | 1 | R$ 36.000,00 |
+| AP | FERREIRA GOMES | 160023 | 1 | R$ 36.000,00 |
+| AP | TARTARUGALZINHO | 160070 | 1 | R$ 36.000,00 |
+| BA | AMARGOSA | 290100 | 1 | R$ 36.000,00 |
+| BA | AMÉLIA RODRIGUES | 290110 | 1 | R$ 36.000,00 |
+| BA | ANDARAÍ | 290130 | 2 | R$ 72.000,00 |
+| BA | ARACI | 290210 | 1 | R$ 36.000,00 |
+| BA | BANZAÊ | 290265 | 1 | R$ 36.000,00 |
+| BA | BOM JESUS DA LAPA | 290390 | 1 | R$ 36.000,00 |
+| BA | BREJÕES | 290430 | 1 | R$ 36.000,00 |
+| BA | BURITIRAMA | 290475 | 2 | R$ 72.000,00 |
+| BA | CACHOEIRA | 290490 | 1 | R$ 36.000,00 |
+| BA | CAÉM | 290510 | 1 | R$ 36.000,00 |
+| BA | CALDEIRÃO GRANDE | 290550 | 2 | R$ 72.000,00 |
+| BA | CAMAÇARI | 290570 | 1 | R$ 36.000,00 |
+| BA | CAMPO ALEGRE DE LOURDES | 290590 | 1 | R$ 36.000,00 |
+| BA | CAMPO FORMOSO | 290600 | 1 | R$ 36.000,00 |
+| BA | CANSANÇÃO | 290680 | 1 | R$ 36.000,00 |
+| BA | CANUDOS | 290682 | 1 | R$ 36.000,00 |
+| BA | CAPIM GROSSO | 290687 | 2 | R$ 72.000,00 |
+| BA | CARDEAL DA SILVA | 290700 | 1 | R$ 36.000,00 |
+| BA | CATU | 290750 | 1 | R$ 36.000,00 |
+| BA | CIPÓ | 290790 | 1 | R$ 36.000,00 |
+| BA | CONCEIÇÃO DO COITÉ | 290840 | 3 | R$ 108.000,00 |
+| BA | CORIBE | 290910 | 1 | R$ 36.000,00 |
+| BA | CRUZ DAS ALMAS | 290980 | 1 | R$ 36.000,00 |
+| BA | DOM BASÍLIO | 291010 | 1 | R$ 36.000,00 |
+| BA | DOM MACEDO COSTA | 291020 | 1 | R$ 36.000,00 |
+| BA | EUNÁPOLIS | 291072 | 2 | R$ 72.000,00 |
+| BA | FEIRA DA MATA | 291077 | 1 | R$ 36.000,00 |
+| BA | GUANAMBI | 291170 | 1 | R$ 36.000,00 |
+| BA | GUARATINGA | 291180 | 1 | R$ 36.000,00 |
+| BA | IBIASSUCÊ | 291200 | 1 | R$ 36.000,00 |
+| BA | IBICARAÍ | 291210 | 1 | R$ 36.000,00 |
+| BA | IBICOARA | 291220 | 1 | R$ 36.000,00 |
+| BA | IGRAPIÚNA | 291345 | 1 | R$ 36.000,00 |
+| BA | IGUAÍ | 291350 | 1 | R$ 36.000,00 |
+| BA | IPIAÚ | 291390 | 1 | R$ 36.000,00 |
+| BA | IRAQUARA | 291440 | 1 | R$ 36.000,00 |
+| BA | ITAMBÉ | 291580 | 1 | R$ 36.000,00 |
+| BA | ITANHÉM | 291600 | 1 | R$ 36.000,00 |
+| BA | ITARANTIM | 291680 | 1 | R$ 36.000,00 |
+| BA | ITATIM | 291685 | 1 | R$ 36.000,00 |
+| BA | JAGUAQUARA | 291760 | 1 | R$ 36.000,00 |
+| BA | JAGUARARI | 291770 | 1 | R$ 36.000,00 |
+| BA | JAGUARIPE | 291780 | 2 | R$ 72.000,00 |
+| BA | JEREMOABO | 291810 | 1 | R$ 36.000,00 |
+| BA | JUAZEIRO | 291840 | 1 | R$ 36.000,00 |
+| BA | JUSSARA | 291850 | 1 | R$ 36.000,00 |
+| BA | JUSSARI | 291855 | 1 | R$ 36.000,00 |
+| BA | LAJE | 291880 | 1 | R$ 36.000,00 |
+| BA | LAJEDO DO TABOCAL | 291905 | 1 | R$ 36.000,00 |
+| BA | LENÇÓIS | 291930 | 1 | R$ 36.000,00 |
+| BA | MACAJUBA | 291960 | 1 | R$ 36.000,00 |
+| BA | MAIRI | 292010 | 2 | R$ 72.000,00 |
+| BA | MANOEL VITORINO | 292040 | 1 | R$ 36.000,00 |
+| BA | MARAGOGIPE | 292060 | 1 | R$ 36.000,00 |
+| BA | MORRO DO CHAPÉU | 292170 | 1 | R$ 36.000,00 |
+| BA | NOVA FÁTIMA | 292273 | 1 | R$ 36.000,00 |
+| BA | NOVA ITARANA | 292280 | 1 | R$ 36.000,00 |
+| BA | NOVA REDENÇÃO | 292285 | 1 | R$ 36.000,00 |
+| BA | NOVA SOURE | 292290 | 1 | R$ 36.000,00 |
+| BA | NOVO HORIZONTE | 292303 | 1 | R$ 36.000,00 |
+| BA | OURIÇANGAS | 292330 | 1 | R$ 36.000,00 |
+| BA | PAU BRASIL | 292390 | 1 | R$ 36.000,00 |
+| BA | PÉ DE SERRA | 292405 | 1 | R$ 36.000,00 |
+| BA | PINTADAS | 292465 | 1 | R$ 36.000,00 |
+| BA | PLANALTINO | 292490 | 1 | R$ 36.000,00 |
+| BA | PORTO SEGURO | 292530 | 2 | R$ 72.000,00 |
+| BA | QUIXABEIRA | 292593 | 1 | R$ 36.000,00 |
+
+| BA | REMANSO | 292600 | 1 | R$ 36.000,00 |
+| --- | --- | --- | --- | --- |
+| BA | RIBEIRA DO POMBAL | 292660 | 1 | R$ 36.000,00 |
+| BA | RIO DE CONTAS | 292670 | 1 | R$ 36.000,00 |
+| BA | SANTA BRÍGIDA | 292760 | 1 | R$ 36.000,00 |
+| BA | SANTA CRUZ CABRÁLIA | 292770 | 1 | R$ 36.000,00 |
+| BA | SANTA TERESINHA | 292850 | 1 | R$ 36.000,00 |
+| BA | SÃO DOMINGOS | 292895 | 1 | R$ 36.000,00 |
+| BA | SÃO SEBASTIÃO DO PASSÉ | 292950 | 1 | R$ 36.000,00 |
+| BA | SERRA PRETA | 293040 | 1 | R$ 36.000,00 |
+| BA | SERRINHA | 293050 | 1 | R$ 36.000,00 |
+| BA | SERROLÂNDIA | 293060 | 1 | R$ 36.000,00 |
+| BA | SOBRADINHO | 293077 | 1 | R$ 36.000,00 |
+| BA | SOUTO SOARES | 293080 | 1 | R$ 36.000,00 |
+| BA | TABOCAS DO BREJO VELHO | 293090 | 1 | R$ 36.000,00 |
+| BA | UIBAÍ | 293240 | 1 | R$ 36.000,00 |
+| BA | VALENÇA | 293290 | 1 | R$ 36.000,00 |
+| BA | VARZEDO | 293317 | 1 | R$ 36.000,00 |
+| BA | VITÓRIA DA CONQUISTA | 293330 | 2 | R$ 72.000,00 |
+| CE | AIUABA | 230040 | 1 | R$ 36.000,00 |
+| CE | ARARENDÁ | 230125 | 1 | R$ 36.000,00 |
+| CE | ASSARÉ | 230160 | 3 | R$ 108.000,00 |
+| CE | BANABUIÚ | 230185 | 1 | R$ 36.000,00 |
+| CE | CAPISTRANO | 230290 | 1 | R$ 36.000,00 |
+| CE | CASCAVEL | 230350 | 1 | R$ 36.000,00 |
+| CE | CEDRO | 230380 | 1 | R$ 36.000,00 |
+| CE | CHOROZINHO | 230395 | 1 | R$ 36.000,00 |
+| CE | CRATEÚS | 230410 | 1 | R$ 36.000,00 |
+| CE | CRUZ | 230425 | 2 | R$ 72.000,00 |
+| CE | FARIAS BRITO | 230430 | 1 | R$ 36.000,00 |
+| CE | GENERAL SAMPAIO | 230460 | 1 | R$ 36.000,00 |
+| CE | HIDROLÂNDIA | 230520 | 1 | R$ 36.000,00 |
+| CE | HORIZONTE | 230523 | 1 | R$ 36.000,00 |
+| CE | IPUEIRAS | 230590 | 1 | R$ 36.000,00 |
+| CE | IRACEMA | 230600 | 1 | R$ 36.000,00 |
+| CE | IRAUÇUBA | 230610 | 1 | R$ 36.000,00 |
+| CE | ITAPIPOCA | 230640 | 3 | R$ 108.000,00 |
+| CE | ITATIRA | 230660 | 1 | R$ 36.000,00 |
+| CE | JAGUARETAMA | 230670 | 1 | R$ 36.000,00 |
+| CE | JAGUARIBE | 230690 | 2 | R$ 72.000,00 |
+| CE | MONSENHOR TABOSA | 230860 | 1 | R$ 36.000,00 |
+| CE | MORRINHOS | 230890 | 1 | R$ 36.000,00 |
+| CE | MUCAMBO | 230900 | 1 | R$ 36.000,00 |
+| CE | NOVO ORIENTE | 230940 | 1 | R$ 36.000,00 |
+| CE | OCARA | 230945 | 3 | R$ 108.000,00 |
+| CE | PACAJUS | 230960 | 1 | R$ 36.000,00 |
+| CE | PEREIRO | 231080 | 1 | R$ 36.000,00 |
+| CE | PIRES FERREIRA | 231095 | 1 | R$ 36.000,00 |
+| CE | QUIXERAMOBIM | 231140 | 1 | R$ 36.000,00 |
+| CE | REDENÇÃO | 231160 | 1 | R$ 36.000,00 |
+| CE | RUSSAS | 231180 | 1 | R$ 36.000,00 |
+| CE | SABOEIRO | 231190 | 1 | R$ 36.000,00 |
+| CE | SOBRAL | 231290 | 2 | R$ 72.000,00 |
+| CE | TAMBORIL | 231320 | 2 | R$ 72.000,00 |
+| CE | UMARI | 231370 | 1 | R$ 36.000,00 |
+| CE | VIÇOSA DO CEARÁ | 231410 | 1 | R$ 36.000,00 |
+| DF | BRASÍLIA | 530010 | 1 | R$ 36.000,00 |
+| ES | DIVINO DE SÃO LOURENÇO | 320180 | 1 | R$ 36.000,00 |
+| ES | VITÓRIA | 320530 | 6 | R$ 216.000,00 |
+| GO | ABADIA DE GOIÁS | 520005 | 1 | R$ 36.000,00 |
+| GO | ADELÂNDIA | 520015 | 1 | R$ 36.000,00 |
+| GO | ÁGUA FRIA DE GOIÁS | 520017 | 1 | R$ 36.000,00 |
+| GO | ALEXÂNIA | 520030 | 1 | R$ 36.000,00 |
+| GO | ALVORADA DO NORTE | 520080 | 1 | R$ 36.000,00 |
+| GO | AMERICANO DO BRASIL | 520085 | 1 | R$ 36.000,00 |
+| GO | APARECIDA DE GOIÂNIA | 520140 | 1 | R$ 36.000,00 |
+| GO | BALIZA | 520310 | 1 | R$ 36.000,00 |
+| GO | BOM JARDIM DE GOIÁS | 520340 | 3 | R$ 108.000,00 |
+| GO | BOM JESUS DE GOIÁS | 520350 | 1 | R$ 36.000,00 |
+| GO | BONFINÓPOLIS | 520355 | 1 | R$ 36.000,00 |
+| GO | BRITÂNIA | 520380 | 1 | R$ 36.000,00 |
+| GO | BURITI ALEGRE | 520390 | 1 | R$ 36.000,00 |
+| GO | BURITINÓPOLIS | 520396 | 1 | R$ 36.000,00 |
+| GO | CABECEIRAS | 520400 | 1 | R$ 36.000,00 |
+| GO | CACHOEIRA ALTA | 520410 | 1 | R$ 36.000,00 |
+| GO | CALDAZINHA | 520455 | 1 | R$ 36.000,00 |
+| GO | CAMPINORTE | 520470 | 1 | R$ 36.000,00 |
+| GO | CAMPOS BELOS | 520490 | 1 | R$ 36.000,00 |
+| GO | CAVALCANTE | 520530 | 1 | R$ 36.000,00 |
+| GO | CERES | 520540 | 1 | R$ 36.000,00 |
+| GO | CEZARINA | 520545 | 1 | R$ 36.000,00 |
+| GO | CIDADE OCIDENTAL | 520549 | 2 | R$ 72.000,00 |
+| GO | COCALZINHO DE GOIÁS | 520551 | 1 | R$ 36.000,00 |
+| GO | CORUMBÁ DE GOIÁS | 520580 | 1 | R$ 36.000,00 |
+| GO | CRISTIANÓPOLIS | 520630 | 1 | R$ 36.000,00 |
+| GO | CRIXÁS | 520640 | 1 | R$ 36.000,00 |
+| GO | DAMOLÂNDIA | 520680 | 1 | R$ 36.000,00 |
+| GO | EDEALINA | 520735 | 1 | R$ 36.000,00 |
+| GO | GAMELEIRA DE GOIÁS | 520815 | 1 | R$ 36.000,00 |
+| GO | GOIANÉSIA | 520860 | 1 | R$ 36.000,00 |
+| GO | GOIANIRA | 520880 | 1 | R$ 36.000,00 |
+| GO | GUARANI DE GOIÁS | 520940 | 1 | R$ 36.000,00 |
+| GO | GUARINOS | 520945 | 1 | R$ 36.000,00 |
+| GO | HEITORAÍ | 520960 | 1 | R$ 36.000,00 |
+| GO | INDIARA | 520995 | 1 | R$ 36.000,00 |
+| GO | INHUMAS | 521000 | 1 | R$ 36.000,00 |
+| GO | IPAMERI | 521010 | 1 | R$ 36.000,00 |
+| GO | ISRAELÂNDIA | 521030 | 1 | R$ 36.000,00 |
+| GO | ITABERAÍ | 521040 | 1 | R$ 36.000,00 |
+| GO | ITAGUARI | 521056 | 1 | R$ 36.000,00 |
+| GO | ITARUMÃ | 521130 | 1 | R$ 36.000,00 |
+| GO | JANDAIA | 521170 | 1 | R$ 36.000,00 |
+| GO | JATAÍ | 521190 | 1 | R$ 36.000,00 |
+| GO | LEOPOLDO DE BULHÕES | 521230 | 1 | R$ 36.000,00 |
+| GO | MAURILÂNDIA | 521300 | 1 | R$ 36.000,00 |
+| GO | MINEIROS | 521310 | 2 | R$ 72.000,00 |
+| GO | MONTE ALEGRE DE GOIÁS | 521350 | 1 | R$ 36.000,00 |
+| GO | MONTIVIDIU DO NORTE | 521377 | 1 | R$ 36.000,00 |
+| GO | MOZARLÂNDIA | 521400 | 1 | R$ 36.000,00 |
+| GO | NIQUELÂNDIA | 521460 | 1 | R$ 36.000,00 |
+| GO | NOVA AURORA | 521480 | 1 | R$ 36.000,00 |
+| GO | NOVA ROMA | 521490 | 1 | R$ 36.000,00 |
+| GO | OURO VERDE DE GOIÁS | 521540 | 1 | R$ 36.000,00 |
+| GO | PIRENÓPOLIS | 521730 | 1 | R$ 36.000,00 |
+| GO | PONTALINA | 521770 | 1 | R$ 36.000,00 |
+| GO | POSSE | 521830 | 1 | R$ 36.000,00 |
+| GO | PROFESSOR JAMIL | 521839 | 1 | R$ 36.000,00 |
+| GO | RIO VERDE | 521880 | 2 | R$ 72.000,00 |
+| GO | SANTA RITA DO NOVO DESTINO | 521945 | 1 | R$ 36.000,00 |
+| GO | SANTO ANTÔNIO DA BARRA | 521971 | 1 | R$ 36.000,00 |
+| GO | SÃO DOMINGOS | 521980 | 1 | R$ 36.000,00 |
+| GO | SÃO JOÃO D'ALIANÇA | 522000 | 1 | R$ 36.000,00 |
+| GO | SÃO LUÍS DE MONTES BELOS | 522010 | 1 | R$ 36.000,00 |
+| GO | SÃO LUÍZ DO NORTE | 522015 | 1 | R$ 36.000,00 |
+| GO | SÃO MIGUEL DO ARAGUAIA | 522020 | 1 | R$ 36.000,00 |
+| GO | SÃO MIGUEL DO PASSA QUATRO | 522026 | 1 | R$ 36.000,00 |
+| GO | SENADOR CANEDO | 522045 | 1 | R$ 36.000,00 |
+| GO | SILVÂNIA | 522060 | 1 | R$ 36.000,00 |
+| GO | SÍTIO D'ABADIA | 522070 | 1 | R$ 36.000,00 |
+| GO | TERESINA DE GOIÁS | 522108 | 1 | R$ 36.000,00 |
+| GO | TRINDADE | 522140 | 1 | R$ 36.000,00 |
+| GO | TROMBAS | 522145 | 1 | R$ 36.000,00 |
+| GO | VILA PROPÍCIO | 522230 | 1 | R$ 36.000,00 |
+| MA | AFONSO CUNHA | 210010 | 1 | R$ 36.000,00 |
+| MA | ANAJATUBA | 210070 | 2 | R$ 72.000,00 |
+| MA | AXIXÁ | 210110 | 1 | R$ 36.000,00 |
+| MA | BACURITUBA | 210135 | 1 | R$ 36.000,00 |
+| MA | BARRA DO CORDA | 210160 | 1 | R$ 36.000,00 |
+| MA | BARREIRINHAS | 210170 | 1 | R$ 36.000,00 |
+| MA | CHAPADINHA | 210320 | 1 | R$ 36.000,00 |
+| MA | COLINAS | 210350 | 1 | R$ 36.000,00 |
+| MA | DUQUE BACELAR | 210390 | 1 | R$ 36.000,00 |
+| MA | GOVERNADOR EDISON LOBÃO | 210455 | 2 | R$ 72.000,00 |
+| MA | IMPERATRIZ | 210530 | 2 | R$ 72.000,00 |
+| MA | LAGO DA PEDRA | 210570 | 2 | R$ 72.000,00 |
+| MA | LAGOA DO MATO | 210592 | 1 | R$ 36.000,00 |
+| MA | LAGOA GRANDE DO MARANHÃO | 210596 | 2 | R$ 72.000,00 |
+| MA | MATA ROMA | 210640 | 2 | R$ 72.000,00 |
+| MA | NINA RODRIGUES | 210720 | 1 | R$ 36.000,00 |
+| MA | NOVA IORQUE | 210730 | 1 | R$ 36.000,00 |
+| MA | OLINDA NOVA DO MARANHÃO | 210745 | 1 | R$ 36.000,00 |
+| MA | PASSAGEM FRANCA | 210790 | 1 | R$ 36.000,00 |
+| MA | PASTOS BONS | 210800 | 1 | R$ 36.000,00 |
+| MA | PENALVA | 210830 | 1 | R$ 36.000,00 |
+| MA | PRESIDENTE JUSCELINO | 210920 | 1 | R$ 36.000,00 |
+| MA | RAPOSA | 210945 | 1 | R$ 36.000,00 |
+
+| MA | SÃO JOÃO DO SOTER | 211107 | 1 | R$ 36.000,00 |
+| --- | --- | --- | --- | --- |
+| MA | TUTÓIA | 211250 | 1 | R$ 36.000,00 |
+| MA | VARGEM GRANDE | 211270 | 1 | R$ 36.000,00 |
+| MA | VITORINO FREIRE | 211300 | 1 | R$ 36.000,00 |
+| MG | ABAETÉ | 310020 | 2 | R$ 72.000,00 |
+| MG | ÁGUAS FORMOSAS | 310090 | 1 | R$ 36.000,00 |
+| MG | ALTEROSA | 310200 | 1 | R$ 36.000,00 |
+| MG | ALVARENGA | 310220 | 1 | R$ 36.000,00 |
+| MG | ALVINÓPOLIS | 310230 | 2 | R$ 72.000,00 |
+| MG | ANTÔNIO PRADO DE MINAS | 310310 | 1 | R$ 36.000,00 |
+| MG | ARAÇAÍ | 310320 | 1 | R$ 36.000,00 |
+| MG | ARAPONGA | 310370 | 1 | R$ 36.000,00 |
+| MG | ARAPORÃ | 310375 | 1 | R$ 36.000,00 |
+| MG | ARICANDUVA | 310445 | 1 | R$ 36.000,00 |
+| MG | ARINOS | 310450 | 1 | R$ 36.000,00 |
+| MG | BALDIM | 310500 | 1 | R$ 36.000,00 |
+| MG | BELO HORIZONTE | 310620 | 54 | R$ 1.944.000,00 |
+| MG | BERIZAL | 310665 | 1 | R$ 36.000,00 |
+| MG | BETIM | 310670 | 2 | R$ 72.000,00 |
+| MG | BORDA DA MATA | 310830 | 1 | R$ 36.000,00 |
+| MG | BRASILÂNDIA DE MINAS | 310855 | 1 | R$ 36.000,00 |
+| MG | BUGRE | 310925 | 1 | R$ 36.000,00 |
+| MG | BURITIS | 310930 | 1 | R$ 36.000,00 |
+| MG | CAMBUQUIRA | 311070 | 1 | R$ 36.000,00 |
+| MG | CAMPO BELO | 311120 | 2 | R$ 72.000,00 |
+| MG | CAMPOS ALTOS | 311150 | 1 | R$ 36.000,00 |
+| MG | CAMPOS GERAIS | 311160 | 3 | R$ 108.000,00 |
+| MG | CAPELINHA | 311230 | 1 | R$ 36.000,00 |
+| MG | CAPINÓPOLIS | 311260 | 1 | R$ 36.000,00 |
+| MG | CAPITÃO ANDRADE | 311265 | 1 | R$ 36.000,00 |
+| MG | CAPITÃO ENÉAS | 311270 | 1 | R$ 36.000,00 |
+| MG | CAPUTIRA | 311290 | 1 | R$ 36.000,00 |
+| MG | CARAÍ | 311300 | 1 | R$ 36.000,00 |
+| MG | CARMO DO PARANAÍBA | 311430 | 1 | R$ 36.000,00 |
+| MG | CARVALHÓPOLIS | 311470 | 1 | R$ 36.000,00 |
+| MG | CÁSSIA | 311510 | 1 | R$ 36.000,00 |
+| MG | CATUTI | 311547 | 1 | R$ 36.000,00 |
+| MG | CEDRO DO ABAETÉ | 311560 | 1 | R$ 36.000,00 |
+| MG | CENTRAL DE MINAS | 311570 | 1 | R$ 36.000,00 |
+| MG | CHAPADA DO NORTE | 311610 | 1 | R$ 36.000,00 |
+| MG | CHAPADA GAÚCHA | 311615 | 1 | R$ 36.000,00 |
+| MG | CLARO DOS POÇÕES | 311650 | 1 | R$ 36.000,00 |
+| MG | CLÁUDIO | 311660 | 1 | R$ 36.000,00 |
+| MG | CONCEIÇÃO DAS ALAGOAS | 311730 | 1 | R$ 36.000,00 |
+| MG | CONGONHAS DO NORTE | 311810 | 1 | R$ 36.000,00 |
+| MG | COQUEIRAL | 311870 | 1 | R$ 36.000,00 |
+| MG | CRISÓLITA | 312015 | 1 | R$ 36.000,00 |
+| MG | CUPARAQUE | 312083 | 1 | R$ 36.000,00 |
+| MG | CURRAL DE DENTRO | 312087 | 1 | R$ 36.000,00 |
+| MG | DIVINO | 312200 | 1 | R$ 36.000,00 |
+| MG | DIVINO DAS LARANJEIRAS | 312210 | 1 | R$ 36.000,00 |
+| MG | DIVINOLÂNDIA DE MINAS | 312220 | 1 | R$ 36.000,00 |
+| MG | DIVISÓPOLIS | 312245 | 1 | R$ 36.000,00 |
+| MG | DORESÓPOLIS | 312340 | 1 | R$ 36.000,00 |
+| MG | ENGENHEIRO CALDAS | 312370 | 1 | R$ 36.000,00 |
+| MG | ENGENHEIRO NAVARRO | 312380 | 1 | R$ 36.000,00 |
+| MG | ESPERA FELIZ | 312420 | 1 | R$ 36.000,00 |
+| MG | ESPINOSA | 312430 | 1 | R$ 36.000,00 |
+| MG | ESTRELA DO SUL | 312480 | 1 | R$ 36.000,00 |
+| MG | FELÍCIO DOS SANTOS | 312540 | 1 | R$ 36.000,00 |
+| MG | FELISBURGO | 312560 | 1 | R$ 36.000,00 |
+| MG | FERVEDOURO | 312595 | 1 | R$ 36.000,00 |
+| MG | FLORESTAL | 312600 | 1 | R$ 36.000,00 |
+| MG | FORTUNA DE MINAS | 312640 | 1 | R$ 36.000,00 |
+| MG | FRANCISCO DUMONT | 312660 | 1 | R$ 36.000,00 |
+| MG | FRONTEIRA | 312700 | 1 | R$ 36.000,00 |
+| MG | FRUTA DE LEITE | 312707 | 1 | R$ 36.000,00 |
+| MG | GAMELEIRAS | 312733 | 1 | R$ 36.000,00 |
+| MG | GLAUCILÂNDIA | 312735 | 1 | R$ 36.000,00 |
+| MG | GOIABEIRA | 312737 | 1 | R$ 36.000,00 |
+| MG | GRÃO MOGOL | 312780 | 1 | R$ 36.000,00 |
+| MG | GRUPIARA | 312790 | 1 | R$ 36.000,00 |
+| MG | GUANHÃES | 312800 | 1 | R$ 36.000,00 |
+| MG | GUARACIABA | 312820 | 1 | R$ 36.000,00 |
+| MG | GUARACIAMA | 312825 | 1 | R$ 36.000,00 |
+| MG | GUIMARÂNIA | 312890 | 1 | R$ 36.000,00 |
+| MG | GUIRICEMA | 312900 | 1 | R$ 36.000,00 |
+| MG | GURINHATÃ | 312910 | 1 | R$ 36.000,00 |
+| MG | IBIAÍ | 312960 | 2 | R$ 72.000,00 |
+| MG | ILICÍNEA | 313050 | 1 | R$ 36.000,00 |
+| MG | INDAIABIRA | 313065 | 1 | R$ 36.000,00 |
+| MG | IPANEMA | 313120 | 1 | R$ 36.000,00 |
+| MG | IPATINGA | 313130 | 1 | R$ 36.000,00 |
+| MG | ITAMARATI DE MINAS | 313260 | 1 | R$ 36.000,00 |
+| MG | ITANHOMI | 313320 | 1 | R$ 36.000,00 |
+| MG | ITAPAGIPE | 313340 | 1 | R$ 36.000,00 |
+| MG | ITAVERAVA | 313390 | 1 | R$ 36.000,00 |
+| MG | JABOTICATUBAS | 313460 | 1 | R$ 36.000,00 |
+| MG | JACINTO | 313470 | 1 | R$ 36.000,00 |
+| MG | JANAÚBA | 313510 | 1 | R$ 36.000,00 |
+| MG | JAPONVAR | 313535 | 1 | R$ 36.000,00 |
+| MG | JENIPAPO DE MINAS | 313545 | 1 | R$ 36.000,00 |
+| MG | JEQUERI | 313550 | 1 | R$ 36.000,00 |
+| MG | JEQUITAÍ | 313560 | 1 | R$ 36.000,00 |
+| MG | JEQUITIBÁ | 313570 | 1 | R$ 36.000,00 |
+| MG | JEQUITINHONHA | 313580 | 1 | R$ 36.000,00 |
+| MG | JOAÍMA | 313600 | 1 | R$ 36.000,00 |
+| MG | JOÃO PINHEIRO | 313630 | 1 | R$ 36.000,00 |
+| MG | JOSÉ GONÇALVES DE MINAS | 313652 | 1 | R$ 36.000,00 |
+| MG | JURUAIA | 313690 | 2 | R$ 72.000,00 |
+| MG | LADAINHA | 313700 | 1 | R$ 36.000,00 |
+| MG | LAGOA DOS PATOS | 313730 | 1 | R$ 36.000,00 |
+| MG | LAGOA FORMOSA | 313750 | 1 | R$ 36.000,00 |
+| MG | LAGOA GRANDE | 313753 | 1 | R$ 36.000,00 |
+| MG | LEANDRO FERREIRA | 313830 | 1 | R$ 36.000,00 |
+| MG | LIMEIRA DO OESTE | 313862 | 1 | R$ 36.000,00 |
+| MG | LONTRA | 313865 | 1 | R$ 36.000,00 |
+| MG | LUZ | 313880 | 1 | R$ 36.000,00 |
+| MG | MAMONAS | 313925 | 1 | R$ 36.000,00 |
+| MG | MANHUMIRIM | 313950 | 1 | R$ 36.000,00 |
+| MG | MARAVILHAS | 313970 | 1 | R$ 36.000,00 |
+| MG | MATHIAS LOBATO | 317150 | 1 | R$ 36.000,00 |
+| MG | MATIAS CARDOSO | 314085 | 1 | R$ 36.000,00 |
+| MG | MATO VERDE | 314100 | 2 | R$ 72.000,00 |
+| MG | MENDES PIMENTEL | 314150 | 1 | R$ 36.000,00 |
+| MG | MIRAVÂNIA | 314225 | 2 | R$ 72.000,00 |
+| MG | MONSENHOR PAULO | 314260 | 1 | R$ 36.000,00 |
+| MG | MONTE ALEGRE DE MINAS | 314280 | 1 | R$ 36.000,00 |
+| MG | MONTE AZUL | 314290 | 1 | R$ 36.000,00 |
+| MG | MONTE BELO | 314300 | 1 | R$ 36.000,00 |
+| MG | MONTE SANTO DE MINAS | 314320 | 1 | R$ 36.000,00 |
+| MG | MONTES CLAROS | 314330 | 2 | R$ 72.000,00 |
+| MG | MONTEZUMA | 314345 | 2 | R$ 72.000,00 |
+| MG | NACIP RAYDAN | 314420 | 1 | R$ 36.000,00 |
+| MG | NINHEIRA | 314465 | 1 | R$ 36.000,00 |
+| MG | NOVA BELÉM | 314467 | 1 | R$ 36.000,00 |
+| MG | NOVO ORIENTE DE MINAS | 314535 | 1 | R$ 36.000,00 |
+| MG | NOVORIZONTE | 314537 | 1 | R$ 36.000,00 |
+| MG | OLHOS-D'ÁGUA | 314545 | 1 | R$ 36.000,00 |
+| MG | OLIVEIRA | 314560 | 1 | R$ 36.000,00 |
+| MG | ONÇA DE PITANGUI | 314580 | 1 | R$ 36.000,00 |
+| MG | PADRE CARVALHO | 314625 | 2 | R$ 72.000,00 |
+| MG | PADRE PARAÍSO | 314630 | 1 | R$ 36.000,00 |
+| MG | PAINS | 314650 | 1 | R$ 36.000,00 |
+| MG | PALMÓPOLIS | 314675 | 1 | R$ 36.000,00 |
+| MG | PARÁ DE MINAS | 314710 | 2 | R$ 72.000,00 |
+| MG | PATOS DE MINAS | 314800 | 2 | R$ 72.000,00 |
+| MG | PATROCÍNIO | 314810 | 1 | R$ 36.000,00 |
+| MG | PAULISTAS | 314840 | 1 | R$ 36.000,00 |
+| MG | PAVÃO | 314850 | 1 | R$ 36.000,00 |
+| MG | PEDRA AZUL | 314870 | 1 | R$ 36.000,00 |
+| MG | PEDRA BONITA | 314875 | 1 | R$ 36.000,00 |
+| MG | PIMENTA | 315050 | 1 | R$ 36.000,00 |
+| MG | PINTÓPOLIS | 315057 | 1 | R$ 36.000,00 |
+| MG | PIRANGUINHO | 315100 | 1 | R$ 36.000,00 |
+| MG | PIUMHI | 315150 | 1 | R$ 36.000,00 |
+| MG | PONTO CHIQUE | 315213 | 1 | R$ 36.000,00 |
+| MG | PONTO DOS VOLANTES | 315217 | 1 | R$ 36.000,00 |
+| MG | PORTEIRINHA | 315220 | 1 | R$ 36.000,00 |
+| MG | POTÉ | 315240 | 1 | R$ 36.000,00 |
+| MG | PRATA | 315280 | 2 | R$ 72.000,00 |
+| MG | PRESIDENTE KUBITSCHEK | 315330 | 1 | R$ 36.000,00 |
+| MG | QUARTEL GERAL | 315370 | 1 | R$ 36.000,00 |
+| MG | RIO PARANAÍBA | 315550 | 1 | R$ 36.000,00 |
+| MG | RIO VERMELHO | 315600 | 1 | R$ 36.000,00 |
+
+| MG | RUBELITA | 315650 | 1 | R$ 36.000,00 |
+| --- | --- | --- | --- | --- |
+| MG | RUBIM | 315660 | 1 | R$ 36.000,00 |
+| MG | SABINÓPOLIS | 315680 | 1 | R$ 36.000,00 |
+| MG | SACRAMENTO | 315690 | 1 | R$ 36.000,00 |
+| MG | SALINAS | 315700 | 1 | R$ 36.000,00 |
+| MG | SALTO DA DIVISA | 315710 | 1 | R$ 36.000,00 |
+| MG | SANTA MARIA DO SUAÇUÍ | 315820 | 1 | R$ 36.000,00 |
+| MG | SANTA RITA DO ITUETO | 315950 | 1 | R$ 36.000,00 |
+| MG | SANTA VITÓRIA | 315980 | 1 | R$ 36.000,00 |
+| MG | SANTANA DO MANHUAÇU | 315890 | 1 | R$ 36.000,00 |
+| MG | SANTO ANTÔNIO DO RETIRO | 316045 | 1 | R$ 36.000,00 |
+| MG | SÃO FÉLIX DE MINAS | 316105 | 1 | R$ 36.000,00 |
+| MG | SÃO FRANCISCO | 316110 | 1 | R$ 36.000,00 |
+| MG | SÃO FRANCISCO DO GLÓRIA | 316140 | 1 | R$ 36.000,00 |
+| MG | SÃO GOTARDO | 316210 | 1 | R$ 36.000,00 |
+| MG | SÃO JOÃO DA LAGOA | 316225 | 1 | R$ 36.000,00 |
+| MG | SÃO JOÃO DA PONTE | 316240 | 1 | R$ 36.000,00 |
+| MG | SÃO JOÃO DO MANHUAÇU | 316255 | 1 | R$ 36.000,00 |
+| MG | SÃO JOÃO DO PACUÍ | 316265 | 1 | R$ 36.000,00 |
+| MG | SÃO JOÃO DO PARAÍSO | 316270 | 1 | R$ 36.000,00 |
+| MG | SÃO JOÃO EVANGELISTA | 316280 | 1 | R$ 36.000,00 |
+| MG | SÃO JOSÉ DA SAFIRA | 316300 | 1 | R$ 36.000,00 |
+| MG | SÃO JOSÉ DO DIVINO | 316330 | 1 | R$ 36.000,00 |
+| MG | SÃO PEDRO DO SUAÇUÍ | 316410 | 1 | R$ 36.000,00 |
+| MG | SÃO ROMÃO | 316420 | 1 | R$ 36.000,00 |
+| MG | SÃO SEBASTIÃO DA BELA VISTA | 316440 | 1 | R$ 36.000,00 |
+| MG | SÃO SEBASTIÃO DO ANTA | 316447 | 1 | R$ 36.000,00 |
+| MG | SÃO SEBASTIÃO DO MARANHÃO | 316450 | 1 | R$ 36.000,00 |
+| MG | SARZEDO | 316553 | 1 | R$ 36.000,00 |
+| MG | SENADOR MODESTINO GONÇALVES | 316590 | 1 | R$ 36.000,00 |
+| MG | SENHORA DE OLIVEIRA | 316600 | 1 | R$ 36.000,00 |
+| MG | SERICITA | 316630 | 1 | R$ 36.000,00 |
+| MG | SERRA DA SAUDADE | 316660 | 1 | R$ 36.000,00 |
+| MG | SERRANÓPOLIS DE MINAS | 316695 | 1 | R$ 36.000,00 |
+| MG | SERRO | 316710 | 1 | R$ 36.000,00 |
+| MG | SETE LAGOAS | 316720 | 1 | R$ 36.000,00 |
+| MG | SETUBINHA | 316555 | 1 | R$ 36.000,00 |
+| MG | SIMONÉSIA | 316760 | 1 | R$ 36.000,00 |
+| MG | SOBRÁLIA | 316770 | 1 | R$ 36.000,00 |
+| MG | TAIOBEIRAS | 316800 | 1 | R$ 36.000,00 |
+| MG | TAPARUBA | 316805 | 1 | R$ 36.000,00 |
+| MG | TIMÓTEO | 316870 | 2 | R$ 72.000,00 |
+| MG | UBÁ | 316990 | 2 | R$ 72.000,00 |
+| MG | UBAPORANGA | 317005 | 1 | R$ 36.000,00 |
+| MG | URUCUIA | 317052 | 1 | R$ 36.000,00 |
+| MG | VARGEM BONITA | 317060 | 1 | R$ 36.000,00 |
+| MG | VARGEM GRANDE DO RIO PARDO | 317065 | 1 | R$ 36.000,00 |
+| MG | VARZELÂNDIA | 317090 | 1 | R$ 36.000,00 |
+| MG | VIRGEM DA LAPA | 317160 | 1 | R$ 36.000,00 |
+| MG | VIRGOLÂNDIA | 317190 | 1 | R$ 36.000,00 |
+| MS | AMAMBAI | 500060 | 1 | R$ 36.000,00 |
+| MS | AQUIDAUANA | 500110 | 1 | R$ 36.000,00 |
+| MS | ARAL MOREIRA | 500124 | 1 | R$ 36.000,00 |
+| MS | CARACOL | 500280 | 1 | R$ 36.000,00 |
+| MS | CASSILÂNDIA | 500290 | 1 | R$ 36.000,00 |
+| MS | CORONEL SAPUCAIA | 500315 | 1 | R$ 36.000,00 |
+| MS | CORUMBÁ | 500320 | 2 | R$ 72.000,00 |
+| MS | COSTA RICA | 500325 | 1 | R$ 36.000,00 |
+| MS | COXIM | 500330 | 1 | R$ 36.000,00 |
+| MS | DEODÁPOLIS | 500345 | 2 | R$ 72.000,00 |
+| MS | DOURADOS | 500370 | 1 | R$ 36.000,00 |
+| MS | ITAPORÃ | 500450 | 1 | R$ 36.000,00 |
+| MS | JAPORÃ | 500480 | 1 | R$ 36.000,00 |
+| MS | JARDIM | 500500 | 1 | R$ 36.000,00 |
+| MS | NAVIRAÍ | 500570 | 1 | R$ 36.000,00 |
+| MS | NOVA ANDRADINA | 500620 | 1 | R$ 36.000,00 |
+| MS | NOVO HORIZONTE DO SUL | 500625 | 1 | R$ 36.000,00 |
+| MS | RIBAS DO RIO PARDO | 500710 | 1 | R$ 36.000,00 |
+| MS | RIO NEGRO | 500730 | 1 | R$ 36.000,00 |
+| MS | SANTA RITA DO PARDO | 500755 | 1 | R$ 36.000,00 |
+| MS | SETE QUEDAS | 500770 | 1 | R$ 36.000,00 |
+| MS | TRÊS LAGOAS | 500830 | 1 | R$ 36.000,00 |
+| MT | ALTO ARAGUAIA | 510030 | 1 | R$ 36.000,00 |
+| MT | CAMPO VERDE | 510267 | 1 | R$ 36.000,00 |
+| MT | CAMPOS DE JÚLIO | 510268 | 1 | R$ 36.000,00 |
+| MT | CASTANHEIRA | 510285 | 1 | R$ 36.000,00 |
+| MT | CONFRESA | 510335 | 2 | R$ 72.000,00 |
+| MT | GUARANTÃ DO NORTE | 510410 | 1 | R$ 36.000,00 |
+| MT | ITIQUIRA | 510460 | 1 | R$ 36.000,00 |
+| MT | JACIARA | 510480 | 1 | R$ 36.000,00 |
+| MT | JANGADA | 510490 | 1 | R$ 36.000,00 |
+| MT | JUÍNA | 510515 | 1 | R$ 36.000,00 |
+| MT | MATUPÁ | 510560 | 2 | R$ 72.000,00 |
+| MT | NOVA BANDEIRANTES | 510615 | 1 | R$ 36.000,00 |
+| MT | NOVA SANTA HELENA | 510619 | 1 | R$ 36.000,00 |
+| MT | PARANATINGA | 510630 | 1 | R$ 36.000,00 |
+| MT | PEIXOTO DE AZEVEDO | 510642 | 1 | R$ 36.000,00 |
+| MT | PORTO DOS GAÚCHOS | 510680 | 1 | R$ 36.000,00 |
+| MT | PRIMAVERA DO LESTE | 510704 | 1 | R$ 36.000,00 |
+| MT | QUERÊNCIA | 510706 | 1 | R$ 36.000,00 |
+| MT | RIBEIRÃO CASCALHEIRA | 510718 | 1 | R$ 36.000,00 |
+| MT | ROSÁRIO OESTE | 510770 | 1 | R$ 36.000,00 |
+| MT | SANTA RITA DO TRIVELATO | 510776 | 1 | R$ 36.000,00 |
+| MT | SORRISO | 510792 | 1 | R$ 36.000,00 |
+| MT | TAPURAH | 510800 | 2 | R$ 72.000,00 |
+| MT | TESOURO | 510810 | 1 | R$ 36.000,00 |
+| PA | ALTAMIRA | 150060 | 1 | R$ 36.000,00 |
+| PA | ANANINDEUA | 150080 | 1 | R$ 36.000,00 |
+| PA | ANAPU | 150085 | 1 | R$ 36.000,00 |
+| PA | AUGUSTO CORRÊA | 150090 | 1 | R$ 36.000,00 |
+| PA | BAIÃO | 150120 | 1 | R$ 36.000,00 |
+| PA | BARCARENA | 150130 | 1 | R$ 36.000,00 |
+| PA | BELTERRA | 150145 | 1 | R$ 36.000,00 |
+| PA | BENEVIDES | 150150 | 2 | R$ 72.000,00 |
+| PA | BRAGANÇA | 150170 | 1 | R$ 36.000,00 |
+| PA | BUJARU | 150190 | 1 | R$ 36.000,00 |
+| PA | CANAÃ DOS CARAJÁS | 150215 | 3 | R$ 108.000,00 |
+| PA | CAPANEMA | 150220 | 1 | R$ 36.000,00 |
+| PA | CASTANHAL | 150240 | 3 | R$ 108.000,00 |
+| PA | CUMARU DO NORTE | 150276 | 1 | R$ 36.000,00 |
+| PA | CURUÇÁ | 150290 | 1 | R$ 36.000,00 |
+| PA | DOM ELISEU | 150293 | 1 | R$ 36.000,00 |
+| PA | GURUPÁ | 150310 | 1 | R$ 36.000,00 |
+| PA | IGARAPÉ-AÇU | 150320 | 1 | R$ 36.000,00 |
+| PA | IGARAPÉ-MIRI | 150330 | 1 | R$ 36.000,00 |
+| PA | IPIXUNA DO PARÁ | 150345 | 1 | R$ 36.000,00 |
+| PA | IRITUIA | 150350 | 1 | R$ 36.000,00 |
+| PA | ITAITUBA | 150360 | 2 | R$ 72.000,00 |
+| PA | LIMOEIRO DO AJURU | 150400 | 1 | R$ 36.000,00 |
+| PA | MAGALHÃES BARATA | 150410 | 1 | R$ 36.000,00 |
+| PA | MOCAJUBA | 150460 | 1 | R$ 36.000,00 |
+| PA | MOJU | 150470 | 1 | R$ 36.000,00 |
+| PA | NOVO PROGRESSO | 150503 | 3 | R$ 108.000,00 |
+| PA | ÓBIDOS | 150510 | 1 | R$ 36.000,00 |
+| PA | PACAJÁ | 150548 | 1 | R$ 36.000,00 |
+| PA | PAU D'ARCO | 150555 | 1 | R$ 36.000,00 |
+| PA | PIÇARRA | 150563 | 1 | R$ 36.000,00 |
+| PA | PONTA DE PEDRAS | 150570 | 1 | R$ 36.000,00 |
+| PA | PORTEL | 150580 | 1 | R$ 36.000,00 |
+| PA | PRIMAVERA | 150610 | 2 | R$ 72.000,00 |
+| PA | REDENÇÃO | 150613 | 1 | R$ 36.000,00 |
+| PA | SANTA BÁRBARA DO PARÁ | 150635 | 1 | R$ 36.000,00 |
+| PA | SANTA IZABEL DO PARÁ | 150650 | 2 | R$ 72.000,00 |
+| PA | SANTA LUZIA DO PARÁ | 150655 | 1 | R$ 36.000,00 |
+| PA | SANTA MARIA DAS BARREIRAS | 150658 | 2 | R$ 72.000,00 |
+| PA | SANTANA DO ARAGUAIA | 150670 | 1 | R$ 36.000,00 |
+| PA | SANTARÉM | 150680 | 1 | R$ 36.000,00 |
+| PA | SANTARÉM NOVO | 150690 | 1 | R$ 36.000,00 |
+| PA | SÃO CAETANO DE ODIVELAS | 150710 | 1 | R$ 36.000,00 |
+| PA | SÃO DOMINGOS DO ARAGUAIA | 150715 | 1 | R$ 36.000,00 |
+| PA | SÃO FÉLIX DO XINGU | 150730 | 1 | R$ 36.000,00 |
+| PA | SÃO JOÃO DA PONTA | 150746 | 1 | R$ 36.000,00 |
+| PA | SÃO JOÃO DE PIRABAS | 150747 | 1 | R$ 36.000,00 |
+| PA | SÃO SEBASTIÃO DA BOA VISTA | 150770 | 1 | R$ 36.000,00 |
+| PA | TAILÂNDIA | 150795 | 1 | R$ 36.000,00 |
+| PA | TRACUATEUA | 150803 | 1 | R$ 36.000,00 |
+| PA | TUCUMÃ | 150808 | 2 | R$ 72.000,00 |
+| PA | ULIANÓPOLIS | 150812 | 1 | R$ 36.000,00 |
+| PA | XINGUARA | 150840 | 2 | R$ 72.000,00 |
+
+| PB | ÁGUA BRANCA | 250010 | 1 | R$ 36.000,00 |
+| --- | --- | --- | --- | --- |
+| PB | AGUIAR | 250020 | 1 | R$ 36.000,00 |
+| PB | ALAGOINHA | 250050 | 2 | R$ 72.000,00 |
+| PB | ARAÇAGI | 250080 | 2 | R$ 72.000,00 |
+| PB | AROEIRAS | 250130 | 1 | R$ 36.000,00 |
+| PB | ASSUNÇÃO | 250135 | 1 | R$ 36.000,00 |
+| PB | BELÉM | 250190 | 1 | R$ 36.000,00 |
+| PB | BERNARDINO BATISTA | 250205 | 1 | R$ 36.000,00 |
+| PB | BOM JESUS | 250220 | 1 | R$ 36.000,00 |
+| PB | BORBOREMA | 250270 | 1 | R$ 36.000,00 |
+| PB | CAAPORÃ | 250300 | 1 | R$ 36.000,00 |
+| PB | CABACEIRAS | 250310 | 1 | R$ 36.000,00 |
+| PB | CACIMBA DE AREIA | 250340 | 1 | R$ 36.000,00 |
+| PB | CAJAZEIRINHAS | 250375 | 1 | R$ 36.000,00 |
+| PB | CASSERENGUE | 250415 | 1 | R$ 36.000,00 |
+| PB | CATINGUEIRA | 250420 | 1 | R$ 36.000,00 |
+| PB | CATOLÉ DO ROCHA | 250430 | 1 | R$ 36.000,00 |
+| PB | CONGO | 250470 | 1 | R$ 36.000,00 |
+| PB | COREMAS | 250480 | 1 | R$ 36.000,00 |
+| PB | CUITÉ | 250510 | 1 | R$ 36.000,00 |
+| PB | DAMIÃO | 250535 | 1 | R$ 36.000,00 |
+| PB | DIAMANTE | 250560 | 1 | R$ 36.000,00 |
+| PB | EMAS | 250590 | 1 | R$ 36.000,00 |
+| PB | ESPERANÇA | 250600 | 1 | R$ 36.000,00 |
+| PB | GURJÃO | 250650 | 1 | R$ 36.000,00 |
+| PB | IBIARA | 250660 | 1 | R$ 36.000,00 |
+| PB | IMACULADA | 250670 | 1 | R$ 36.000,00 |
+| PB | INGÁ | 250680 | 1 | R$ 36.000,00 |
+| PB | ITAPORANGA | 250700 | 3 | R$ 108.000,00 |
+| PB | JERICÓ | 250740 | 1 | R$ 36.000,00 |
+| PB | JOCA CLAUDINO | 251365 | 1 | R$ 36.000,00 |
+| PB | JUNCO DO SERIDÓ | 250780 | 1 | R$ 36.000,00 |
+| PB | JURU | 250800 | 1 | R$ 36.000,00 |
+| PB | LAGOA | 250810 | 1 | R$ 36.000,00 |
+| PB | LOGRADOURO | 250855 | 1 | R$ 36.000,00 |
+| PB | LUCENA | 250860 | 1 | R$ 36.000,00 |
+| PB | MÃE D'ÁGUA | 250870 | 1 | R$ 36.000,00 |
+| PB | MALTA | 250880 | 1 | R$ 36.000,00 |
+| PB | MANAÍRA | 250900 | 1 | R$ 36.000,00 |
+| PB | MARCAÇÃO | 250905 | 1 | R$ 36.000,00 |
+| PB | MARI | 250910 | 1 | R$ 36.000,00 |
+| PB | MATARACA | 250930 | 1 | R$ 36.000,00 |
+| PB | OLHO D'ÁGUA | 251040 | 1 | R$ 36.000,00 |
+| PB | OURO VELHO | 251060 | 1 | R$ 36.000,00 |
+| PB | PATOS | 251080 | 3 | R$ 108.000,00 |
+| PB | PAULISTA | 251090 | 1 | R$ 36.000,00 |
+| PB | PEDRA BRANCA | 251100 | 1 | R$ 36.000,00 |
+| PB | PEDRO RÉGIS | 251272 | 1 | R$ 36.000,00 |
+| PB | PIANCÓ | 251130 | 1 | R$ 36.000,00 |
+| PB | PITIMBU | 251190 | 1 | R$ 36.000,00 |
+| PB | POÇO DANTAS | 251203 | 1 | R$ 36.000,00 |
+| PB | POÇO DE JOSÉ DE MOURA | 251207 | 1 | R$ 36.000,00 |
+| PB | POMBAL | 251210 | 1 | R$ 36.000,00 |
+| PB | PRATA | 251220 | 1 | R$ 36.000,00 |
+| PB | PRINCESA ISABEL | 251230 | 2 | R$ 72.000,00 |
+| PB | REMÍGIO | 251270 | 2 | R$ 72.000,00 |
+| PB | SALGADO DE SÃO FÉLIX | 251310 | 2 | R$ 72.000,00 |
+| PB | SANTA CRUZ | 251320 | 1 | R$ 36.000,00 |
+| PB | SANTA LUZIA | 251340 | 1 | R$ 36.000,00 |
+| PB | SANTA TERESINHA | 251380 | 1 | R$ 36.000,00 |
+| PB | SANTANA DOS GARROTES | 251360 | 1 | R$ 36.000,00 |
+| PB | SÃO JOÃO DO TIGRE | 251410 | 1 | R$ 36.000,00 |
+| PB | SÃO JOSÉ DE CAIANA | 251430 | 1 | R$ 36.000,00 |
+| PB | SÃO JOSÉ DO SABUGI | 251470 | 1 | R$ 36.000,00 |
+| PB | SÃO JOSÉ DOS RAMOS | 251445 | 1 | R$ 36.000,00 |
+| PB | SAPÉ | 251530 | 2 | R$ 72.000,00 |
+| PB | SERRA DA RAIZ | 251560 | 1 | R$ 36.000,00 |
+| PB | SERRARIA | 251590 | 1 | R$ 36.000,00 |
+| PB | SOSSÊGO | 251615 | 1 | R$ 36.000,00 |
+| PB | SOUSA | 251620 | 1 | R$ 36.000,00 |
+| PB | SUMÉ | 251630 | 1 | R$ 36.000,00 |
+| PB | TACIMA | 251640 | 1 | R$ 36.000,00 |
+| PB | TAVARES | 251660 | 1 | R$ 36.000,00 |
+| PB | TENÓRIO | 251675 | 1 | R$ 36.000,00 |
+| PB | UIRAÚNA | 251690 | 1 | R$ 36.000,00 |
+| PB | UMBUZEIRO | 251700 | 1 | R$ 36.000,00 |
+| PB | VIEIRÓPOLIS | 251720 | 1 | R$ 36.000,00 |
+| PB | VISTA SERRANA | 250550 | 1 | R$ 36.000,00 |
+| PE | ABREU E LIMA | 260005 | 1 | R$ 36.000,00 |
+| PE | AFRÂNIO | 260020 | 3 | R$ 108.000,00 |
+| PE | AGRESTINA | 260030 | 1 | R$ 36.000,00 |
+| PE | ÁGUAS BELAS | 260050 | 1 | R$ 36.000,00 |
+| PE | ARARIPINA | 260110 | 1 | R$ 36.000,00 |
+| PE | BARRA DE GUABIRABA | 260130 | 1 | R$ 36.000,00 |
+| PE | BELÉM DO SÃO FRANCISCO | 260160 | 1 | R$ 36.000,00 |
+| PE | BOM CONSELHO | 260210 | 1 | R$ 36.000,00 |
+| PE | BOM JARDIM | 260220 | 1 | R$ 36.000,00 |
+| PE | BONITO | 260230 | 1 | R$ 36.000,00 |
+| PE | BREJINHO | 260250 | 2 | R$ 72.000,00 |
+| PE | BREJO DA MADRE DE DEUS | 260260 | 1 | R$ 36.000,00 |
+| PE | CABO DE SANTO AGOSTINHO | 260290 | 2 | R$ 72.000,00 |
+| PE | CABROBÓ | 260300 | 2 | R$ 72.000,00 |
+| PE | CACHOEIRINHA | 260310 | 1 | R$ 36.000,00 |
+| PE | CAETÉS | 260320 | 1 | R$ 36.000,00 |
+| PE | CALÇADO | 260330 | 1 | R$ 36.000,00 |
+| PE | CALUMBI | 260340 | 1 | R$ 36.000,00 |
+| PE | CAMARAGIBE | 260345 | 1 | R$ 36.000,00 |
+| PE | CAMOCIM DE SÃO FÉLIX | 260350 | 2 | R$ 72.000,00 |
+| PE | CAMUTANGA | 260360 | 1 | R$ 36.000,00 |
+| PE | CANHOTINHO | 260370 | 1 | R$ 36.000,00 |
+| PE | CARNAÍBA | 260390 | 1 | R$ 36.000,00 |
+| PE | CARPINA | 260400 | 1 | R$ 36.000,00 |
+| PE | CARUARU | 260410 | 2 | R$ 72.000,00 |
+| PE | CEDRO | 260430 | 1 | R$ 36.000,00 |
+| PE | CHÃ GRANDE | 260450 | 1 | R$ 36.000,00 |
+| PE | CORTÊS | 260480 | 1 | R$ 36.000,00 |
+| PE | CUMARU | 260490 | 1 | R$ 36.000,00 |
+| PE | CUPIRA | 260500 | 1 | R$ 36.000,00 |
+| PE | CUSTÓDIA | 260510 | 1 | R$ 36.000,00 |
+| PE | DORMENTES | 260515 | 2 | R$ 72.000,00 |
+| PE | EXU | 260530 | 2 | R$ 72.000,00 |
+| PE | FLORESTA | 260570 | 1 | R$ 36.000,00 |
+| PE | GARANHUNS | 260600 | 2 | R$ 72.000,00 |
+| PE | GLÓRIA DO GOITÁ | 260610 | 1 | R$ 36.000,00 |
+| PE | GRANITO | 260630 | 2 | R$ 72.000,00 |
+| PE | IBIMIRIM | 260660 | 1 | R$ 36.000,00 |
+| PE | IBIRAJUBA | 260670 | 1 | R$ 36.000,00 |
+| PE | INAJÁ | 260700 | 1 | R$ 36.000,00 |
+| PE | INGAZEIRA | 260710 | 1 | R$ 36.000,00 |
+| PE | IPOJUCA | 260720 | 1 | R$ 36.000,00 |
+| PE | ITACURUBA | 260740 | 1 | R$ 36.000,00 |
+| PE | ITAÍBA | 260750 | 1 | R$ 36.000,00 |
+| PE | ITAPETIM | 260770 | 3 | R$ 108.000,00 |
+| PE | ITAPISSUMA | 260775 | 1 | R$ 36.000,00 |
+| PE | ITAQUITINGA | 260780 | 1 | R$ 36.000,00 |
+| PE | JABOATÃO DOS GUARARAPES | 260790 | 2 | R$ 72.000,00 |
+| PE | JATOBÁ | 260805 | 1 | R$ 36.000,00 |
+| PE | JOÃO ALFREDO | 260810 | 1 | R$ 36.000,00 |
+| PE | JUCATI | 260825 | 1 | R$ 36.000,00 |
+| PE | LAGOA DO CARRO | 260845 | 1 | R$ 36.000,00 |
+| PE | LAGOA DO OURO | 260860 | 1 | R$ 36.000,00 |
+| PE | LIMOEIRO | 260890 | 3 | R$ 108.000,00 |
+| PE | MANARI | 260915 | 1 | R$ 36.000,00 |
+| PE | NAZARÉ DA MATA | 260950 | 1 | R$ 36.000,00 |
+| PE | OROBÓ | 260970 | 3 | R$ 108.000,00 |
+| PE | OROCÓ | 260980 | 1 | R$ 36.000,00 |
+| PE | OURICURI | 260990 | 1 | R$ 36.000,00 |
+| PE | PALMARES | 261000 | 1 | R$ 36.000,00 |
+| PE | PARNAMIRIM | 261040 | 1 | R$ 36.000,00 |
+| PE | PASSIRA | 261050 | 1 | R$ 36.000,00 |
+| PE | PAUDALHO | 261060 | 2 | R$ 72.000,00 |
+| PE | PAULISTA | 261070 | 4 | R$ 144.000,00 |
+| PE | PESQUEIRA | 261090 | 6 | R$ 216.000,00 |
+| PE | PETROLINA | 261110 | 4 | R$ 144.000,00 |
+| PE | QUIXABA | 261153 | 1 | R$ 36.000,00 |
+| PE | RECIFE | 261160 | 37 | R$ 1.332.000,00 |
+| PE | RIACHO DAS ALMAS | 261170 | 1 | R$ 36.000,00 |
+| PE | SALGADINHO | 261210 | 1 | R$ 36.000,00 |
+| PE | SALOÁ | 261230 | 1 | R$ 36.000,00 |
+| PE | SANHARÓ | 261240 | 1 | R$ 36.000,00 |
+| PE | SANTA CRUZ | 261245 | 1 | R$ 36.000,00 |
+| PE | SANTA FILOMENA | 261255 | 1 | R$ 36.000,00 |
+| PE | SANTA MARIA DA BOA VISTA | 261260 | 1 | R$ 36.000,00 |
+| PE | SANTA MARIA DO CAMBUCÁ | 261270 | 1 | R$ 36.000,00 |
+| PE | SANTA TEREZINHA | 261280 | 1 | R$ 36.000,00 |
+
+| PE | SÃO CAITANO | 261310 | 1 | R$ 36.000,00 |
+| --- | --- | --- | --- | --- |
+| PE | SÃO JOAQUIM DO MONTE | 261330 | 1 | R$ 36.000,00 |
+| PE | SÃO JOSÉ DO BELMONTE | 261350 | 1 | R$ 36.000,00 |
+| PE | SÃO JOSÉ DO EGITO | 261360 | 3 | R$ 108.000,00 |
+| PE | SERRA TALHADA | 261390 | 1 | R$ 36.000,00 |
+| PE | SERRITA | 261400 | 1 | R$ 36.000,00 |
+| PE | SOLIDÃO | 261440 | 1 | R$ 36.000,00 |
+| PE | SURUBIM | 261450 | 2 | R$ 72.000,00 |
+| PE | TACAIMBÓ | 261470 | 1 | R$ 36.000,00 |
+| PE | TACARATU | 261480 | 1 | R$ 36.000,00 |
+| PE | TAQUARITINGA DO NORTE | 261500 | 2 | R$ 72.000,00 |
+| PE | TEREZINHA | 261510 | 1 | R$ 36.000,00 |
+| PE | TIMBAÚBA | 261530 | 1 | R$ 36.000,00 |
+| PE | TRIUNFO | 261570 | 1 | R$ 36.000,00 |
+| PE | TUPANATINGA | 261580 | 1 | R$ 36.000,00 |
+| PE | TUPARETAMA | 261590 | 1 | R$ 36.000,00 |
+| PE | VERDEJANTE | 261610 | 1 | R$ 36.000,00 |
+| PE | VERTENTE DO LÉRIO | 261618 | 1 | R$ 36.000,00 |
+| PE | VICÊNCIA | 261630 | 1 | R$ 36.000,00 |
+| PE | VITÓRIA DE SANTO ANTÃO | 261640 | 1 | R$ 36.000,00 |
+| PI | ACAUÃ | 220005 | 1 | R$ 36.000,00 |
+| PI | ÁGUA BRANCA | 220020 | 1 | R$ 36.000,00 |
+| PI | ALEGRETE DO PIAUÍ | 220027 | 1 | R$ 36.000,00 |
+| PI | ANGICAL DO PIAUÍ | 220060 | 1 | R$ 36.000,00 |
+| PI | AROAZES | 220090 | 1 | R$ 36.000,00 |
+| PI | ARRAIAL | 220100 | 1 | R$ 36.000,00 |
+| PI | ASSUNÇÃO DO PIAUÍ | 220105 | 1 | R$ 36.000,00 |
+| PI | BARRAS | 220120 | 1 | R$ 36.000,00 |
+| PI | BARRO DURO | 220140 | 1 | R$ 36.000,00 |
+| PI | BERTOLÍNIA | 220170 | 1 | R$ 36.000,00 |
+| PI | BETÂNIA DO PIAUÍ | 220173 | 1 | R$ 36.000,00 |
+| PI | BOCAINA | 220180 | 1 | R$ 36.000,00 |
+| PI | BURITI DOS MONTES | 220202 | 1 | R$ 36.000,00 |
+| PI | CAMPINAS DO PIAUÍ | 220210 | 1 | R$ 36.000,00 |
+| PI | CAMPO MAIOR | 220220 | 3 | R$ 108.000,00 |
+| PI | CASTELO DO PIAUÍ | 220260 | 1 | R$ 36.000,00 |
+| PI | FRANCISCO SANTOS | 220420 | 1 | R$ 36.000,00 |
+| PI | GILBUÉS | 220440 | 1 | R$ 36.000,00 |
+| PI | INHUMA | 220470 | 1 | R$ 36.000,00 |
+| PI | IPIRANGA DO PIAUÍ | 220480 | 1 | R$ 36.000,00 |
+| PI | ISAÍAS COELHO | 220490 | 2 | R$ 72.000,00 |
+| PI | JATOBÁ DO PIAUÍ | 220527 | 1 | R$ 36.000,00 |
+| PI | JOÃO COSTA | 220535 | 1 | R$ 36.000,00 |
+| PI | JOCA MARQUES | 220545 | 1 | R$ 36.000,00 |
+| PI | LAGOA DO BARRO DO PIAUÍ | 220556 | 1 | R$ 36.000,00 |
+| PI | MORRO DO CHAPÉU DO PIAUÍ | 220667 | 1 | R$ 36.000,00 |
+| PI | NAZARÉ DO PIAUÍ | 220670 | 1 | R$ 36.000,00 |
+| PI | NAZÁRIA | 220672 | 1 | R$ 36.000,00 |
+| PI | NOSSA SENHORA DOS REMÉDIOS | 220680 | 1 | R$ 36.000,00 |
+| PI | PARNAGUÁ | 220760 | 1 | R$ 36.000,00 |
+| PI | PARNAÍBA | 220770 | 1 | R$ 36.000,00 |
+| PI | PAU D'ARCO DO PIAUÍ | 220779 | 1 | R$ 36.000,00 |
+| PI | PEDRO II | 220790 | 3 | R$ 108.000,00 |
+| PI | PEDRO LAURENTINO | 220793 | 1 | R$ 36.000,00 |
+| PI | PICOS | 220800 | 1 | R$ 36.000,00 |
+| PI | PIMENTEIRAS | 220810 | 1 | R$ 36.000,00 |
+| PI | PIO IX | 220820 | 1 | R$ 36.000,00 |
+| PI | PIRACURUCA | 220830 | 2 | R$ 72.000,00 |
+| PI | PIRIPIRI | 220840 | 5 | R$ 180.000,00 |
+| PI | QUEIMADA NOVA | 220865 | 1 | R$ 36.000,00 |
+| PI | RIO GRANDE DO PIAUÍ | 220900 | 1 | R$ 36.000,00 |
+| PI | SÃO FRANCISCO DO PIAUÍ | 220970 | 1 | R$ 36.000,00 |
+| PI | SÃO MIGUEL DO TAPUIO | 221040 | 1 | R$ 36.000,00 |
+| PI | SÃO PEDRO DO PIAUÍ | 221050 | 1 | R$ 36.000,00 |
+| PI | SÃO RAIMUNDO NONATO | 221060 | 1 | R$ 36.000,00 |
+| PI | SEBASTIÃO LEAL | 221063 | 1 | R$ 36.000,00 |
+| PI | UNIÃO | 221110 | 5 | R$ 180.000,00 |
+| PI | VALENÇA DO PIAUÍ | 221130 | 3 | R$ 108.000,00 |
+| PI | VERA MENDES | 221150 | 1 | R$ 36.000,00 |
+| PR | ASSIS CHATEAUBRIAND | 410200 | 1 | R$ 36.000,00 |
+| PR | ASTORGA | 410210 | 3 | R$ 108.000,00 |
+| PR | ATALAIA | 410220 | 1 | R$ 36.000,00 |
+| PR | BARRACÃO | 410260 | 1 | R$ 36.000,00 |
+| PR | BOA VISTA DA APARECIDA | 410305 | 2 | R$ 72.000,00 |
+| PR | BOM JESUS DO SUL | 410315 | 1 | R$ 36.000,00 |
+| PR | BRAGANEY | 410335 | 1 | R$ 36.000,00 |
+| PR | CALIFÓRNIA | 410350 | 1 | R$ 36.000,00 |
+| PR | CAMPO MAGRO | 410425 | 1 | R$ 36.000,00 |
+| PR | CAPITÃO LEÔNIDAS MARQUES | 410460 | 1 | R$ 36.000,00 |
+| PR | CHOPINZINHO | 410540 | 1 | R$ 36.000,00 |
+| PR | CLEVELÂNDIA | 410570 | 1 | R$ 36.000,00 |
+| PR | CORONEL VIVIDA | 410650 | 1 | R$ 36.000,00 |
+| PR | CRUZEIRO DO OESTE | 410660 | 1 | R$ 36.000,00 |
+| PR | ESPIGÃO ALTO DO IGUAÇU | 410754 | 1 | R$ 36.000,00 |
+| PR | FERNANDES PINHEIRO | 410773 | 1 | R$ 36.000,00 |
+| PR | FIGUEIRA | 410775 | 1 | R$ 36.000,00 |
+| PR | FLOR DA SERRA DO SUL | 410785 | 1 | R$ 36.000,00 |
+| PR | FOZ DO JORDÃO | 410845 | 1 | R$ 36.000,00 |
+| PR | FRANCISCO BELTRÃO | 410840 | 1 | R$ 36.000,00 |
+| PR | GUAMIRANGA | 410895 | 1 | R$ 36.000,00 |
+| PR | HONÓRIO SERPA | 410965 | 1 | R$ 36.000,00 |
+| PR | IBAITI | 410970 | 1 | R$ 36.000,00 |
+| PR | IGUARAÇU | 411000 | 1 | R$ 36.000,00 |
+| PR | IGUATU | 411005 | 1 | R$ 36.000,00 |
+| PR | IMBITUVA | 411010 | 2 | R$ 72.000,00 |
+| PR | ITAMBÉ | 411110 | 1 | R$ 36.000,00 |
+| PR | ITAPERUÇU | 411125 | 1 | R$ 36.000,00 |
+| PR | JABOTI | 411170 | 1 | R$ 36.000,00 |
+| PR | JURANDA | 411295 | 1 | R$ 36.000,00 |
+| PR | LARANJEIRAS DO SUL | 411330 | 1 | R$ 36.000,00 |
+| PR | LOBATO | 411360 | 1 | R$ 36.000,00 |
+| PR | MARMELEIRO | 411540 | 1 | R$ 36.000,00 |
+| PR | MATELÂNDIA | 411560 | 1 | R$ 36.000,00 |
+| PR | MERCEDES | 411585 | 1 | R$ 36.000,00 |
+| PR | MISSAL | 411605 | 1 | R$ 36.000,00 |
+| PR | MUNHOZ DE MELO | 411630 | 1 | R$ 36.000,00 |
+| PR | NOVA TEBAS | 411727 | 3 | R$ 108.000,00 |
+| PR | NOVO ITACOLOMI | 411729 | 1 | R$ 36.000,00 |
+| PR | PALOTINA | 411790 | 2 | R$ 72.000,00 |
+| PR | PARAÍSO DO NORTE | 411800 | 1 | R$ 36.000,00 |
+| PR | PARANAVAÍ | 411840 | 1 | R$ 36.000,00 |
+| PR | PATO BRANCO | 411850 | 2 | R$ 72.000,00 |
+| PR | PAULA FREITAS | 411860 | 1 | R$ 36.000,00 |
+| PR | PEROBAL | 411885 | 1 | R$ 36.000,00 |
+| PR | PIÊN | 411910 | 1 | R$ 36.000,00 |
+| PR | PORTO VITÓRIA | 412030 | 1 | R$ 36.000,00 |
+| PR | QUATRO BARRAS | 412080 | 1 | R$ 36.000,00 |
+| PR | QUERÊNCIA DO NORTE | 412100 | 1 | R$ 36.000,00 |
+| PR | REBOUÇAS | 412150 | 1 | R$ 36.000,00 |
+| PR | RENASCENÇA | 412160 | 1 | R$ 36.000,00 |
+| PR | RIO AZUL | 412200 | 1 | R$ 36.000,00 |
+| PR | RIO BOM | 412210 | 1 | R$ 36.000,00 |
+| PR | RONCADOR | 412250 | 1 | R$ 36.000,00 |
+| PR | ROSÁRIO DO IVAÍ | 412265 | 1 | R$ 36.000,00 |
+| PR | SALGADO FILHO | 412280 | 1 | R$ 36.000,00 |
+| PR | SALTO DO ITARARÉ | 412290 | 1 | R$ 36.000,00 |
+| PR | SANTANA DO ITARARÉ | 412400 | 1 | R$ 36.000,00 |
+| PR | SÃO JORGE DO PATROCÍNIO | 412535 | 1 | R$ 36.000,00 |
+| PR | SÃO JOSÉ DA BOA VISTA | 412540 | 1 | R$ 36.000,00 |
+| PR | SÃO MIGUEL DO IGUAÇU | 412570 | 1 | R$ 36.000,00 |
+| PR | SÃO TOMÉ | 412610 | 1 | R$ 36.000,00 |
+| PR | SAPOPEMA | 412620 | 1 | R$ 36.000,00 |
+| PR | SAUDADE DO IGUAÇU | 412627 | 1 | R$ 36.000,00 |
+| PR | TELÊMACO BORBA | 412710 | 1 | R$ 36.000,00 |
+| PR | TERRA RICA | 412730 | 1 | R$ 36.000,00 |
+| PR | TIJUCAS DO SUL | 412760 | 1 | R$ 36.000,00 |
+| PR | TOLEDO | 412770 | 1 | R$ 36.000,00 |
+| PR | TOMAZINA | 412780 | 1 | R$ 36.000,00 |
+| PR | TRÊS BARRAS DO PARANÁ | 412785 | 1 | R$ 36.000,00 |
+| PR | UMUARAMA | 412810 | 1 | R$ 36.000,00 |
+| PR | UNIÃO DA VITÓRIA | 412820 | 1 | R$ 36.000,00 |
+| PR | VERA CRUZ DO OESTE | 412855 | 1 | R$ 36.000,00 |
+| PR | WENCESLAU BRAZ | 412850 | 1 | R$ 36.000,00 |
+| RJ | MESQUITA | 330285 | 4 | R$ 144.000,00 |
+| RJ | PINHEIRAL | 330395 | 2 | R$ 72.000,00 |
+| RJ | RESENDE | 330420 | 1 | R$ 36.000,00 |
+| RJ | RIO CLARO | 330440 | 1 | R$ 36.000,00 |
+| RJ | VALENÇA | 330610 | 1 | R$ 36.000,00 |
+| RN | CORONEL JOÃO PESSOA | 240290 | 1 | R$ 36.000,00 |
+| RN | DOUTOR SEVERIANO | 240320 | 1 | R$ 36.000,00 |
+| RN | EQUADOR | 240340 | 1 | R$ 36.000,00 |
+| RN | EXTREMOZ | 240360 | 2 | R$ 72.000,00 |
+| RN | FRUTUOSO GOMES | 240400 | 1 | R$ 36.000,00 |
+| RN | JANDUÍS | 240520 | 1 | R$ 36.000,00 |
+| RN | JOÃO DIAS | 240590 | 1 | R$ 36.000,00 |
+
+| RN | LUCRÉCIA | 240690 | 1 | R$ 36.000,00 |
+| --- | --- | --- | --- | --- |
+| RN | MAJOR SALES | 240725 | 1 | R$ 36.000,00 |
+| RN | MARTINS | 240740 | 1 | R$ 36.000,00 |
+| RN | MONTE ALEGRE | 240780 | 3 | R$ 108.000,00 |
+| RN | PEDRA GRANDE | 240950 | 1 | R$ 36.000,00 |
+| RN | PEDRA PRETA | 240960 | 1 | R$ 36.000,00 |
+| RN | RAFAEL FERNANDES | 241050 | 1 | R$ 36.000,00 |
+| RN | RAFAEL GODEIRO | 241060 | 1 | R$ 36.000,00 |
+| RN | RIACHO DA CRUZ | 241070 | 1 | R$ 36.000,00 |
+| RN | RODOLFO FERNANDES | 241100 | 1 | R$ 36.000,00 |
+| RN | SÃO FRANCISCO DO OESTE | 241190 | 1 | R$ 36.000,00 |
+| RN | SÃO JOÃO DO SABUGI | 241210 | 1 | R$ 36.000,00 |
+| RN | SÃO JOSÉ DE MIPIBU | 241220 | 2 | R$ 72.000,00 |
+| RN | SÃO PAULO DO POTENGI | 241260 | 1 | R$ 36.000,00 |
+| RN | SENADOR ELÓI DE SOUZA | 241310 | 1 | R$ 36.000,00 |
+| RN | SENADOR GEORGINO AVELINO | 241320 | 1 | R$ 36.000,00 |
+| RN | SERRA CAIADA | 241030 | 1 | R$ 36.000,00 |
+| RN | SERRA NEGRA DO NORTE | 241340 | 1 | R$ 36.000,00 |
+| RN | SEVERIANO MELO | 241360 | 1 | R$ 36.000,00 |
+| RN | TABOLEIRO GRANDE | 241380 | 1 | R$ 36.000,00 |
+| RN | TENENTE ANANIAS | 241410 | 1 | R$ 36.000,00 |
+| RN | TOUROS | 241440 | 1 | R$ 36.000,00 |
+| RN | UPANEMA | 241460 | 1 | R$ 36.000,00 |
+| RN | VENHA-VER | 241475 | 1 | R$ 36.000,00 |
+| RN | VERA CRUZ | 241480 | 2 | R$ 72.000,00 |
+| RO | ALTO ALEGRE DOS PARECIS | 110037 | 1 | R$ 36.000,00 |
+| RO | JI-PARANÁ | 110012 | 2 | R$ 72.000,00 |
+| RO | NOVA UNIÃO | 110143 | 1 | R$ 36.000,00 |
+| RO | SÃO FRANCISCO DO GUAPORÉ | 110149 | 1 | R$ 36.000,00 |
+| RR | AMAJARI | 140002 | 1 | R$ 36.000,00 |
+| RR | BONFIM | 140015 | 1 | R$ 36.000,00 |
+| RR | RORAINÓPOLIS | 140047 | 1 | R$ 36.000,00 |
+| RS | AJURICABA | 430020 | 1 | R$ 36.000,00 |
+| RS | ALEGRETE | 430040 | 2 | R$ 72.000,00 |
+| RS | AMETISTA DO SUL | 430064 | 1 | R$ 36.000,00 |
+| RS | ANDRÉ DA ROCHA | 430066 | 1 | R$ 36.000,00 |
+| RS | ARROIO DO TIGRE | 430120 | 1 | R$ 36.000,00 |
+| RS | BENJAMIN CONSTANT DO SUL | 430205 | 1 | R$ 36.000,00 |
+| RS | BOM RETIRO DO SUL | 430240 | 1 | R$ 36.000,00 |
+| RS | BOSSOROCA | 430250 | 1 | R$ 36.000,00 |
+| RS | CACEQUI | 430290 | 2 | R$ 72.000,00 |
+| RS | CACHOEIRINHA | 430310 | 1 | R$ 36.000,00 |
+| RS | CAIÇARA | 430340 | 1 | R$ 36.000,00 |
+| RS | CAMARGO | 430355 | 1 | R$ 36.000,00 |
+| RS | CAMPO BOM | 430390 | 1 | R$ 36.000,00 |
+| RS | CAPÃO BONITO DO SUL | 430462 | 1 | R$ 36.000,00 |
+| RS | CAPÃO DA CANOA | 430463 | 1 | R$ 36.000,00 |
+| RS | CAPITÃO | 430469 | 1 | R$ 36.000,00 |
+| RS | CATUÍPE | 430500 | 1 | R$ 36.000,00 |
+| RS | CERRITO | 430512 | 1 | R$ 36.000,00 |
+| RS | CHARQUEADAS | 430535 | 1 | R$ 36.000,00 |
+| RS | COQUEIRO BAIXO | 430583 | 1 | R$ 36.000,00 |
+| RS | CORONEL BARROS | 430587 | 1 | R$ 36.000,00 |
+| RS | COTIPORÃ | 430595 | 1 | R$ 36.000,00 |
+| RS | CRISTAL | 430605 | 1 | R$ 36.000,00 |
+| RS | CRISTAL DO SUL | 430607 | 1 | R$ 36.000,00 |
+| RS | DERRUBADAS | 430632 | 1 | R$ 36.000,00 |
+| RS | DEZESSEIS DE NOVEMBRO | 430635 | 1 | R$ 36.000,00 |
+| RS | DOIS IRMÃOS DAS MISSÕES | 430642 | 1 | R$ 36.000,00 |
+| RS | ENCANTADO | 430680 | 1 | R$ 36.000,00 |
+| RS | ENTRE RIOS DO SUL | 430695 | 1 | R$ 36.000,00 |
+| RS | ERECHIM | 430700 | 1 | R$ 36.000,00 |
+| RS | ESPERANÇA DO SUL | 430745 | 1 | R$ 36.000,00 |
+| RS | ESPUMOSO | 430750 | 1 | R$ 36.000,00 |
+| RS | ESTEIO | 430770 | 3 | R$ 108.000,00 |
+| RS | FAXINALZINHO | 430805 | 1 | R$ 36.000,00 |
+| RS | FAZENDA VILANOVA | 430807 | 1 | R$ 36.000,00 |
+| RS | FONTOURA XAVIER | 430830 | 1 | R$ 36.000,00 |
+| RS | GUARANI DAS MISSÕES | 430950 | 2 | R$ 72.000,00 |
+| RS | HARMONIA | 430955 | 1 | R$ 36.000,00 |
+| RS | ILÓPOLIS | 431030 | 1 | R$ 36.000,00 |
+| RS | IMBÉ | 431033 | 1 | R$ 36.000,00 |
+| RS | ITATI | 431065 | 1 | R$ 36.000,00 |
+| RS | ITATIBA DO SUL | 431070 | 1 | R$ 36.000,00 |
+| RS | IVORÁ | 431075 | 1 | R$ 36.000,00 |
+| RS | IVOTI | 431080 | 1 | R$ 36.000,00 |
+| RS | JAQUIRANA | 431112 | 1 | R$ 36.000,00 |
+| RS | LAGOA DOS TRÊS CANTOS | 431127 | 1 | R$ 36.000,00 |
+| RS | LAJEADO | 431140 | 1 | R$ 36.000,00 |
+| RS | MAMPITUBA | 431173 | 2 | R$ 72.000,00 |
+| RS | MATA | 431210 | 1 | R$ 36.000,00 |
+| RS | MONTE ALEGRE DOS CAMPOS | 431237 | 1 | R$ 36.000,00 |
+| RS | MORRO REUTER | 431247 | 1 | R$ 36.000,00 |
+| RS | NÃO-ME-TOQUE | 431265 | 1 | R$ 36.000,00 |
+| RS | NOVA PALMA | 431310 | 1 | R$ 36.000,00 |
+| RS | NOVA PETRÓPOLIS | 431320 | 2 | R$ 72.000,00 |
+| RS | NOVA RAMADA | 431333 | 1 | R$ 36.000,00 |
+| RS | NOVO CABRAIS | 431339 | 2 | R$ 72.000,00 |
+| RS | NOVO MACHADO | 431342 | 1 | R$ 36.000,00 |
+| RS | NOVO TIRADENTES | 431344 | 1 | R$ 36.000,00 |
+| RS | NOVO XINGU | 431346 | 1 | R$ 36.000,00 |
+| RS | PAIM FILHO | 431360 | 1 | R$ 36.000,00 |
+| RS | PALMEIRA DAS MISSÕES | 431370 | 1 | R$ 36.000,00 |
+| RS | PALMITINHO | 431380 | 1 | R$ 36.000,00 |
+| RS | PANAMBI | 431390 | 1 | R$ 36.000,00 |
+| RS | PARECI NOVO | 431403 | 1 | R$ 36.000,00 |
+| RS | PAULO BENTO | 431413 | 1 | R$ 36.000,00 |
+| RS | PICADA CAFÉ | 431442 | 1 | R$ 36.000,00 |
+| RS | PINHAL DA SERRA | 431446 | 1 | R$ 36.000,00 |
+| RS | PINHEIRINHO DO VALE | 431449 | 1 | R$ 36.000,00 |
+| RS | PIRAPÓ | 431455 | 1 | R$ 36.000,00 |
+| RS | POUSO NOVO | 431513 | 1 | R$ 36.000,00 |
+| RS | PROGRESSO | 431515 | 1 | R$ 36.000,00 |
+| RS | REDENTORA | 431540 | 1 | R$ 36.000,00 |
+| RS | RIO PARDO | 431570 | 1 | R$ 36.000,00 |
+| RS | RODEIO BONITO | 431590 | 1 | R$ 36.000,00 |
+| RS | RONDINHA | 431620 | 1 | R$ 36.000,00 |
+| RS | SAGRADA FAMÍLIA | 431642 | 1 | R$ 36.000,00 |
+| RS | SANANDUVA | 431660 | 1 | R$ 36.000,00 |
+| RS | SANTO AUGUSTO | 431780 | 1 | R$ 36.000,00 |
+| RS | SANTO CRISTO | 431790 | 1 | R$ 36.000,00 |
+| RS | SÃO GABRIEL | 431830 | 1 | R$ 36.000,00 |
+| RS | SÃO JOSÉ DAS MISSÕES | 431845 | 1 | R$ 36.000,00 |
+| RS | SÃO JOSÉ DO HERVAL | 431846 | 1 | R$ 36.000,00 |
+| RS | SÃO JOSÉ DO SUL | 431861 | 1 | R$ 36.000,00 |
+| RS | SÃO MIGUEL DAS MISSÕES | 431915 | 1 | R$ 36.000,00 |
+| RS | SÃO NICOLAU | 431920 | 1 | R$ 36.000,00 |
+| RS | SÃO PEDRO DAS MISSÕES | 431936 | 1 | R$ 36.000,00 |
+| RS | SÃO PEDRO DO SUL | 431940 | 1 | R$ 36.000,00 |
+| RS | SÃO VALENTIM | 431970 | 1 | R$ 36.000,00 |
+| RS | SÃO VALENTIM DO SUL | 431971 | 1 | R$ 36.000,00 |
+| RS | SÃO VALÉRIO DO SUL | 431973 | 1 | R$ 36.000,00 |
+| RS | SEBERI | 432020 | 1 | R$ 36.000,00 |
+| RS | SEGREDO | 432026 | 1 | R$ 36.000,00 |
+| RS | SELBACH | 432030 | 1 | R$ 36.000,00 |
+| RS | SENADOR SALGADO FILHO | 432032 | 1 | R$ 36.000,00 |
+| RS | SERAFINA CORRÊA | 432040 | 1 | R$ 36.000,00 |
+| RS | SERTÃO SANTANA | 432055 | 1 | R$ 36.000,00 |
+| RS | SEVERIANO DE ALMEIDA | 432060 | 1 | R$ 36.000,00 |
+| RS | TABAÍ | 432085 | 1 | R$ 36.000,00 |
+| RS | TAPERA | 432100 | 2 | R$ 72.000,00 |
+| RS | TAQUARUÇU DO SUL | 432132 | 1 | R$ 36.000,00 |
+| RS | TRÊS PASSOS | 432190 | 1 | R$ 36.000,00 |
+| RS | TRINDADE DO SUL | 432195 | 1 | R$ 36.000,00 |
+| RS | VALE REAL | 432254 | 1 | R$ 36.000,00 |
+| RS | VENÂNCIO AIRES | 432260 | 1 | R$ 36.000,00 |
+| RS | VERANÓPOLIS | 432280 | 1 | R$ 36.000,00 |
+| RS | VICENTE DUTRA | 432310 | 1 | R$ 36.000,00 |
+| RS | VISTA ALEGRE | 432350 | 1 | R$ 36.000,00 |
+| SC | ARARANGUÁ | 420140 | 2 | R$ 72.000,00 |
+| SC | BALNEÁRIO PIÇARRAS | 421280 | 2 | R$ 72.000,00 |
+| SC | BALNEÁRIO RINCÃO | 422000 | 1 | R$ 36.000,00 |
+| SC | BARRA VELHA | 420210 | 3 | R$ 108.000,00 |
+| SC | BRUNÓPOLIS | 420287 | 1 | R$ 36.000,00 |
+| SC | BRUSQUE | 420290 | 2 | R$ 72.000,00 |
+| SC | CAMBORIÚ | 420320 | 1 | R$ 36.000,00 |
+| SC | CAMPO ERÊ | 420350 | 1 | R$ 36.000,00 |
+| SC | CAXAMBU DO SUL | 420410 | 1 | R$ 36.000,00 |
+| SC | ENTRE RIOS | 420517 | 1 | R$ 36.000,00 |
+| SC | FAXINAL DOS GUEDES | 420530 | 1 | R$ 36.000,00 |
+| SC | FLOR DO SERTÃO | 420535 | 1 | R$ 36.000,00 |
+| SC | FORMOSA DO SUL | 420543 | 1 | R$ 36.000,00 |
+| SC | FORQUILHINHA | 420545 | 1 | R$ 36.000,00 |
+| SC | GAROPABA | 420570 | 1 | R$ 36.000,00 |
+| SC | IÇARA | 420700 | 1 | R$ 36.000,00 |
+
+| SC | IPIRA | 420760 | 1 | R$ 36.000,00 |
+| --- | --- | --- | --- | --- |
+| SC | IPORÃ DO OESTE | 420765 | 1 | R$ 36.000,00 |
+| SC | JARAGUÁ DO SUL | 420890 | 2 | R$ 72.000,00 |
+| SC | JARDINÓPOLIS | 420895 | 1 | R$ 36.000,00 |
+| SC | JUPIÁ | 420917 | 1 | R$ 36.000,00 |
+| SC | LAJEADO GRANDE | 420945 | 1 | R$ 36.000,00 |
+| SC | LUIZ ALVES | 421000 | 1 | R$ 36.000,00 |
+| SC | MACIEIRA | 421005 | 1 | R$ 36.000,00 |
+| SC | MATOS COSTA | 421070 | 1 | R$ 36.000,00 |
+| SC | MONDAÍ | 421100 | 1 | R$ 36.000,00 |
+| SC | MONTE CARLO | 421105 | 1 | R$ 36.000,00 |
+| SC | NOVA ERECHIM | 421140 | 1 | R$ 36.000,00 |
+| SC | PALMA SOLA | 421200 | 1 | R$ 36.000,00 |
+| SC | PAULO LOPES | 421230 | 1 | R$ 36.000,00 |
+| SC | PEDRAS GRANDES | 421240 | 1 | R$ 36.000,00 |
+| SC | PETROLÂNDIA | 421270 | 1 | R$ 36.000,00 |
+| SC | PONTE ALTA DO NORTE | 421335 | 1 | R$ 36.000,00 |
+| SC | RIO DO SUL | 421480 | 1 | R$ 36.000,00 |
+| SC | SANTIAGO DO SUL | 421569 | 1 | R$ 36.000,00 |
+| SC | SÃO JOÃO DO SUL | 421640 | 1 | R$ 36.000,00 |
+| SC | SÃO MIGUEL DO OESTE | 421720 | 1 | R$ 36.000,00 |
+| SC | SUL BRASIL | 421775 | 1 | R$ 36.000,00 |
+| SC | TIGRINHOS | 421795 | 1 | R$ 36.000,00 |
+| SC | TRÊS BARRAS | 421830 | 1 | R$ 36.000,00 |
+| SC | TREVISO | 421835 | 1 | R$ 36.000,00 |
+| SC | TURVO | 421880 | 1 | R$ 36.000,00 |
+| SC | VARGEÃO | 421910 | 1 | R$ 36.000,00 |
+| SC | VITOR MEIRELES | 421935 | 1 | R$ 36.000,00 |
+| SE | ARACAJU | 280030 | 3 | R$ 108.000,00 |
+| SE | CAMPO DO BRITO | 280100 | 1 | R$ 36.000,00 |
+| SE | CARMÓPOLIS | 280150 | 1 | R$ 36.000,00 |
+| SE | CEDRO DE SÃO JOÃO | 280160 | 1 | R$ 36.000,00 |
+| SE | CRISTINÁPOLIS | 280170 | 1 | R$ 36.000,00 |
+| SE | CUMBE | 280190 | 1 | R$ 36.000,00 |
+| SE | DIVINA PASTORA | 280200 | 1 | R$ 36.000,00 |
+| SE | GENERAL MAYNARD | 280250 | 1 | R$ 36.000,00 |
+| SE | GRACHO CARDOSO | 280260 | 1 | R$ 36.000,00 |
+| SE | ITABAIANINHA | 280300 | 1 | R$ 36.000,00 |
+| SE | ITAPORANGA D'AJUDA | 280320 | 1 | R$ 36.000,00 |
+| SE | JAPOATÃ | 280340 | 1 | R$ 36.000,00 |
+| SE | LAGARTO | 280350 | 1 | R$ 36.000,00 |
+| SE | MACAMBIRA | 280370 | 1 | R$ 36.000,00 |
+| SE | MALHADOR | 280390 | 1 | R$ 36.000,00 |
+| SE | MOITA BONITA | 280410 | 1 | R$ 36.000,00 |
+| SE | NOSSA SENHORA DO SOCORRO | 280480 | 1 | R$ 36.000,00 |
+| SE | PROPRIÁ | 280570 | 1 | R$ 36.000,00 |
+| SE | RIBEIRÓPOLIS | 280600 | 1 | R$ 36.000,00 |
+| SE | SÃO FRANCISCO | 280690 | 1 | R$ 36.000,00 |
+| SE | SIRIRI | 280720 | 1 | R$ 36.000,00 |
+| SE | UMBAÚBA | 280760 | 1 | R$ 36.000,00 |
+| SP | ALTAIR | 350090 | 1 | R$ 36.000,00 |
+| SP | ALVINLÂNDIA | 350150 | 1 | R$ 36.000,00 |
+| SP | AMÉRICO BRASILIENSE | 350170 | 1 | R$ 36.000,00 |
+| SP | ANDRADINA | 350210 | 2 | R$ 72.000,00 |
+| SP | ANHUMAS | 350240 | 1 | R$ 36.000,00 |
+| SP | ARARAQUARA | 350320 | 2 | R$ 72.000,00 |
+| SP | ASSIS | 350400 | 1 | R$ 36.000,00 |
+| SP | ATIBAIA | 350410 | 1 | R$ 36.000,00 |
+| SP | BARBOSA | 350510 | 1 | R$ 36.000,00 |
+| SP | BARRETOS | 350550 | 2 | R$ 72.000,00 |
+| SP | BEBEDOURO | 350610 | 1 | R$ 36.000,00 |
+| SP | BREJO ALEGRE | 350775 | 1 | R$ 36.000,00 |
+| SP | BURITAMA | 350810 | 1 | R$ 36.000,00 |
+| SP | CACHOEIRA PAULISTA | 350860 | 1 | R$ 36.000,00 |
+| SP | CACONDE | 350870 | 1 | R$ 36.000,00 |
+| SP | CAIABU | 350890 | 1 | R$ 36.000,00 |
+| SP | CAJAMAR | 350920 | 1 | R$ 36.000,00 |
+| SP | CAJOBI | 350930 | 1 | R$ 36.000,00 |
+| SP | CAMPINAS | 350950 | 1 | R$ 36.000,00 |
+| SP | CÂNDIDO MOTA | 351000 | 1 | R$ 36.000,00 |
+| SP | CARDOSO | 351070 | 1 | R$ 36.000,00 |
+| SP | CÁSSIA DOS COQUEIROS | 351090 | 1 | R$ 36.000,00 |
+| SP | CATANDUVA | 351110 | 2 | R$ 72.000,00 |
+| SP | CLEMENTINA | 351190 | 1 | R$ 36.000,00 |
+| SP | CONCHAL | 351220 | 1 | R$ 36.000,00 |
+| SP | CORONEL MACEDO | 351260 | 1 | R$ 36.000,00 |
+| SP | CUBATÃO | 351350 | 1 | R$ 36.000,00 |
+| SP | DIRCE REIS | 351385 | 1 | R$ 36.000,00 |
+| SP | DOIS CÓRREGOS | 351410 | 1 | R$ 36.000,00 |
+| SP | ESTRELA D'OESTE | 351520 | 1 | R$ 36.000,00 |
+| SP | FERNANDÓPOLIS | 351550 | 1 | R$ 36.000,00 |
+| SP | FRANCO DA ROCHA | 351640 | 1 | R$ 36.000,00 |
+| SP | GARÇA | 351670 | 1 | R$ 36.000,00 |
+| SP | GUAIMBÊ | 351730 | 1 | R$ 36.000,00 |
+| SP | GUAÍRA | 351740 | 1 | R$ 36.000,00 |
+| SP | GUARÁ | 351770 | 2 | R$ 72.000,00 |
+| SP | GUARAÇAÍ | 351780 | 1 | R$ 36.000,00 |
+| SP | GUARULHOS | 351880 | 1 | R$ 36.000,00 |
+| SP | GUATAPARÁ | 351885 | 1 | R$ 36.000,00 |
+| SP | IACANGA | 351910 | 1 | R$ 36.000,00 |
+| SP | IBIRAREMA | 351950 | 1 | R$ 36.000,00 |
+| SP | ICÉM | 351980 | 1 | R$ 36.000,00 |
+| SP | IEPÊ | 351990 | 1 | R$ 36.000,00 |
+| SP | IGARATÁ | 352020 | 1 | R$ 36.000,00 |
+| SP | ILHABELA | 352040 | 1 | R$ 36.000,00 |
+| SP | IPERÓ | 352100 | 1 | R$ 36.000,00 |
+| SP | ITANHAÉM | 352210 | 1 | R$ 36.000,00 |
+| SP | ITAPIRA | 352260 | 1 | R$ 36.000,00 |
+| SP | ITARIRI | 352330 | 1 | R$ 36.000,00 |
+| SP | JUNDIAÍ | 352590 | 1 | R$ 36.000,00 |
+| SP | JUQUIÁ | 352610 | 1 | R$ 36.000,00 |
+| SP | LINS | 352710 | 1 | R$ 36.000,00 |
+| SP | LORENA | 352720 | 1 | R$ 36.000,00 |
+| SP | LOURDES | 352725 | 1 | R$ 36.000,00 |
+| SP | LUCIANÓPOLIS | 352750 | 1 | R$ 36.000,00 |
+| SP | MARTINÓPOLIS | 352920 | 1 | R$ 36.000,00 |
+| SP | MATÃO | 352930 | 1 | R$ 36.000,00 |
+| SP | MIRA ESTRELA | 353000 | 1 | R$ 36.000,00 |
+| SP | MIRANTE DO PARANAPANEMA | 353020 | 1 | R$ 36.000,00 |
+| SP | MOCOCA | 353050 | 1 | R$ 36.000,00 |
+| SP | MOGI GUAÇU | 353070 | 1 | R$ 36.000,00 |
+| SP | MOMBUCA | 353090 | 1 | R$ 36.000,00 |
+| SP | NARANDIBA | 353220 | 1 | R$ 36.000,00 |
+| SP | NOVA GUATAPORANGA | 353310 | 1 | R$ 36.000,00 |
+| SP | NOVA INDEPENDÊNCIA | 353320 | 1 | R$ 36.000,00 |
+| SP | OLÍMPIA | 353390 | 1 | R$ 36.000,00 |
+| SP | OSCAR BRESSANE | 353450 | 1 | R$ 36.000,00 |
+| SP | PEDRINHAS PAULISTA | 353715 | 1 | R$ 36.000,00 |
+| SP | PEREIRA BARRETO | 353740 | 1 | R$ 36.000,00 |
+| SP | PIACATU | 353770 | 1 | R$ 36.000,00 |
+| SP | PIRAPOZINHO | 353920 | 1 | R$ 36.000,00 |
+| SP | PORANGABA | 354050 | 1 | R$ 36.000,00 |
+| SP | PRAIA GRANDE | 354100 | 4 | R$ 144.000,00 |
+| SP | QUATÁ | 354170 | 1 | R$ 36.000,00 |
+| SP | RANCHARIA | 354220 | 1 | R$ 36.000,00 |
+| SP | REGISTRO | 354260 | 1 | R$ 36.000,00 |
+| SP | SANTA ADÉLIA | 354560 | 1 | R$ 36.000,00 |
+| SP | SANTA FÉ DO SUL | 354660 | 1 | R$ 36.000,00 |
+| SP | SANTO ANTÔNIO DO PINHAL | 354820 | 1 | R$ 36.000,00 |
+| SP | SÃO JOÃO DA BOA VISTA | 354910 | 1 | R$ 36.000,00 |
+| SP | SÃO JOSÉ DO RIO PRETO | 354980 | 1 | R$ 36.000,00 |
+| SP | SÃO PAULO | 355030 | 9 | R$ 324.000,00 |
+| SP | SÃO PEDRO DO TURVO | 355050 | 1 | R$ 36.000,00 |
+| SP | TORRE DE PEDRA | 355465 | 1 | R$ 36.000,00 |
+| SP | TUIUTI | 355495 | 1 | R$ 36.000,00 |
+| SP | TUPÃ | 355500 | 1 | R$ 36.000,00 |
+| SP | TUPI PAULISTA | 355510 | 1 | R$ 36.000,00 |
+| SP | UCHOA | 355560 | 1 | R$ 36.000,00 |
+| SP | UNIÃO PAULISTA | 355570 | 1 | R$ 36.000,00 |
+| SP | URU | 355590 | 1 | R$ 36.000,00 |
+| SP | VIRADOURO | 355680 | 1 | R$ 36.000,00 |
+| SP | VOTUPORANGA | 355710 | 1 | R$ 36.000,00 |
+| SP | ZACARIAS | 355715 | 1 | R$ 36.000,00 |
+| TO | ALIANÇA DO TOCANTINS | 170035 | 1 | R$ 36.000,00 |
+| TO | ANGICO | 170105 | 1 | R$ 36.000,00 |
+| TO | ARAGUAÇU | 170200 | 1 | R$ 36.000,00 |
+| TO | ARAGUANÃ | 170215 | 1 | R$ 36.000,00 |
+| TO | AURORA DO TOCANTINS | 170270 | 1 | R$ 36.000,00 |
+| TO | BABAÇULÂNDIA | 170300 | 1 | R$ 36.000,00 |
+| TO | BARROLÂNDIA | 170310 | 1 | R$ 36.000,00 |
+| TO | BRASILÂNDIA DO TOCANTINS | 170360 | 1 | R$ 36.000,00 |
+| TO | CAMPOS LINDOS | 170384 | 1 | R$ 36.000,00 |
+| TO | CARRASCO BONITO | 170389 | 2 | R$ 72.000,00 |
+| TO | CONCEIÇÃO DO TOCANTINS | 170560 | 1 | R$ 36.000,00 |
+| TO | COUTO MAGALHÃES | 170600 | 1 | R$ 36.000,00 |
+| TO | DIVINÓPOLIS DO TOCANTINS | 170710 | 1 | R$ 36.000,00 |
+| TO | DUERÉ | 170730 | 1 | R$ 36.000,00 |
+| TO | GOIANORTE | 170830 | 1 | R$ 36.000,00 |
+| TO | ITACAJÁ | 171050 | 1 | R$ 36.000,00 |
+| TO | ITAPIRATINS | 171090 | 1 | R$ 36.000,00 |
+| TO | ITAPORÃ DO TOCANTINS | 171110 | 1 | R$ 36.000,00 |
+| TO | JAÚ DO TOCANTINS | 171150 | 2 | R$ 72.000,00 |
+| TO | JUARINA | 171180 | 1 | R$ 36.000,00 |
+| TO | MAURILÂNDIA DO TOCANTINS | 171280 | 1 | R$ 36.000,00 |
+| TO | MIRACEMA DO TOCANTINS | 171320 | 2 | R$ 72.000,00 |
+| TO | MONTE DO CARMO | 171360 | 1 | R$ 36.000,00 |
+| TO | NAZARÉ | 171430 | 1 | R$ 36.000,00 |
+| TO | NOVO ALEGRE | 171515 | 1 | R$ 36.000,00 |
+| TO | PALMEIRÓPOLIS | 171575 | 1 | R$ 36.000,00 |
+| TO | PARAÍSO DO TOCANTINS | 171610 | 1 | R$ 36.000,00 |
+| TO | PEIXE | 171660 | 1 | R$ 36.000,00 |
+| TO | PEQUIZEIRO | 171665 | 1 | R$ 36.000,00 |
+| TO | PIRAQUÊ | 171720 | 1 | R$ 36.000,00 |
+| TO | PIUM | 171750 | 1 | R$ 36.000,00 |
+| TO | PONTE ALTA DO BOM JESUS | 171780 | 1 | R$ 36.000,00 |
+| TO | PORTO ALEGRE DO TOCANTINS | 171800 | 1 | R$ 36.000,00 |
+| TO | PORTO NACIONAL | 171820 | 1 | R$ 36.000,00 |
+| TO | RECURSOLÂNDIA | 171850 | 1 | R$ 36.000,00 |
+| TO | RIO DA CONCEIÇÃO | 171865 | 1 | R$ 36.000,00 |
+| TO | RIO SONO | 171875 | 1 | R$ 36.000,00 |
+| TO | SAMPAIO | 171880 | 1 | R$ 36.000,00 |
+| TO | SANDOLÂNDIA | 171884 | 1 | R$ 36.000,00 |
+| TO | SANTA RITA DO TOCANTINS | 171889 | 1 | R$ 36.000,00 |
+| TO | SANTA ROSA DO TOCANTINS | 171890 | 1 | R$ 36.000,00 |
+| TO | SÃO SALVADOR DO TOCANTINS | 172025 | 1 | R$ 36.000,00 |
+| TO | SUCUPIRA | 172085 | 1 | R$ 36.000,00 |
+| TO | TALISMÃ | 172097 | 1 | R$ 36.000,00 |
+| TO | TOCANTÍNIA | 172110 | 1 | R$ 36.000,00 |
+| TO | TUPIRATINS | 172130 | 1 | R$ 36.000,00 |
+| TO | WANDERLÂNDIA | 172208 | 1 | R$ 36.000,00 |
+|  |  | TOTAL | 1517 | R$ 54.612.000,00 |

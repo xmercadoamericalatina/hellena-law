@@ -1,0 +1,32 @@
+---
+titulo: "Portaria SAES/MS Nº 3.295, DE 24 DE setembro DE 2025"
+orgao: "Ministério da Saúde/Secretaria de Atenção Especializada à Saúde"
+tipo: "Portaria"
+numero: "3295"
+data: 2025-09-24
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 26/09/2025, seção 1, p. 188"
+data_publicacao: 2025-09-26
+edicao: "184"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-saes/ms-n-3.295-de-24-de-setembro-de-2025-658603223"
+baixado_em: 2026-10-16
+sha256_html_fonte: 546ede0ce7a218ba51f9e754b9888c90f8b653ba8bafcdc7c1ff3f96e9d1e926
+---
+# Portaria SAES/MS Nº 3.295, DE 24 DE setembro DE 2025
+
+Portaria SAES/MS Nº 3.295, DE 24 DE setembro DE 2025
+
+Defere, em grau de Reconsideração, a Renovação do CEBAS do Hospital Ana Nery Santa Cruz do Sul, com sede em Santa Cruz do Sul (RS).
+
+O SECRETÁRIO DE ATENÇÃO ESPECIALIZADA À SAÚDE, no uso das atribuições que lhe confere o Decreto nº 11.798, de 28 de novembro de 2023, alterado pelo Decreto nº 12.489, de 04 de junho de 2025, resolve:
+
+**Art. 1º** Fica deferida, em grau de Reconsideração, a Renovação do Certificado de Entidade Beneficente de Assistência Social (CEBAS), do Hospital Ana Nery Santa Cruz do Sul, CNPJ nº 95.422.358/0001-19, com sede em Santa Cruz do Sul (RS), em razão da comprovação da prestação anual de serviços ao SUS no percentual mínimo de 60% (sessenta por cento), em conformidade com o art. 9º da Lei Complementar nº 187, de 16 de dezembro de 2021 e seus regulamentos, nos termos da Nota Técnica nº 275/2025-CGCER/DCEBAS/SAES/MS, constante do Processo nº 25000.159853/2023-82.
+
+**Parágrafo único.** A Renovação tem validade pelo período de 1º de janeiro de 2024 a 31 de dezembro de 2026.
+
+**Art. 2º** Fica sem efeito a Portaria SAES/MS nº 2.451, de 17 de janeiro de 2025, publicada no Diário Oficial da União (DOU) nº 16, de 23 de janeiro de 2025, seção 1, página 89.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+MOZART JULIO TABOSA SALES

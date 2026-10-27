@@ -1,0 +1,42 @@
+---
+titulo: "PORTARIA GM/MS Nº 4.381, DE 14 DE JUNHO DE 2024"
+orgao: "Ministério da Saúde/Gabinete da Ministra"
+tipo: "Portaria"
+numero: "4381"
+data: 2024-06-14
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/06/2024, seção 1, p. 126"
+data_publicacao: 2024-06-27
+edicao: "122"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-4.381-de-14-de-junho-de-2024-568301063"
+sha256_html_fonte: 948c13af02f307fd8247337a395f17340cbe0e3d2ff1c283cde3eae6a950b2c9
+baixado_em: 2026-10-16
+---
+# PORTARIA GM/MS Nº 4.381, DE 14 DE JUNHO DE 2024
+
+PORTARIA GM/MS Nº 4.381, DE 14 DE JUNHO DE 2024
+
+Habilita os Municípios do Rio Grande do Sul a receberem, em parcela única, o incentivo de implantação de Serviço Residencial Terapêutico (SRT).
+
+A MINISTRA DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, e
+
+Considerando a Portaria de Consolidação GM/MS nº 6, de 28 de setembro de 2017, que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde (SUS); e
+
+Considerando a necessidade de aperfeiçoamento e adequação do modelo de atenção oferecida pelo SUS aos usuários de álcool e outras drogas e de estruturação e fortalecimento de uma rede de assistência centrada na atenção comunitária, associada à rede de serviços de saúde e sociais, com ênfase na reabilitação e reinserção social, o Departamento de Saúde Mental, Álcool e Outras Drogas (DESMAD/SAES/MS), resolve:
+
+**Art. 1º** Ficam habilitados os Municípios descritos no Anexo a receberem, em parcela única, o incentivo financeiro de implantação de Serviço Residencial Terapêutico (SRT).
+
+**Parágrafo único.** Consideram-se aptos os Estados e Municípios que tiveram as propostas analisadas e aprovadas no Sistema de Apoio à Implementação de Políticas em Saúde (SAIPS).
+
+**Art. 2º** O Fundo Nacional de Saúde adotará as medidas necessárias para transferência do incentivo financeiro de implantação, diretamente para os Fundos Estaduais e Municipais de Saúde correspondentes.
+
+**Art. 3º** O recurso orçamentário, objeto desta Portaria, correrá por conta do orçamento do Ministério da Saúde, devendo onerar o Programa de Trabalho 10.302.5118.21CD - Implementação de Políticas de Atenção Especializada à Saúde (Plano Orçamentário: 0003 - Implementação de Políticas para a Rede de Atenção Psicossocial (RAPS), no Bloco de Manutenção das Ações e Serviços Públicos de Saúde.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+NÍSIA TRINDADE LIMA
+
+## ANEXO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>UF</p></td>      <td rowspan="1" colspan="1"><p>Código do IBGE</p></td>      <td rowspan="1" colspan="1"><p>Município</p></td>      <td rowspan="1" colspan="1"><p>Gestão</p></td>      <td rowspan="1" colspan="1"><p>Nº Propostas SAIPS</p></td>      <td rowspan="1" colspan="1"><p>CNES</p></td>      <td rowspan="1" colspan="1"><p>Tipo SRT</p></td>      <td rowspan="1" colspan="1"><p>Parcela única</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>RS</p></td>      <td rowspan="1" colspan="1"><p>430790</p></td>      <td rowspan="1" colspan="1"><p>Farroupilha</p></td>      <td rowspan="1" colspan="1"><p>Municipal</p></td>      <td rowspan="1" colspan="1"><p>198702</p></td>      <td rowspan="1" colspan="1"><p>2240882</p></td>      <td rowspan="1" colspan="1"><p>SRT II</p></td>      <td rowspan="1" colspan="1"><p>R$ 20.000,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>RS</p></td>      <td rowspan="1" colspan="1"><p>430420</p></td>      <td rowspan="1" colspan="1"><p>Candelária</p></td>      <td rowspan="1" colspan="1"><p>Municipal</p></td>      <td rowspan="1" colspan="1"><p>170764</p></td>      <td rowspan="1" colspan="1"><p>3142426</p></td>      <td rowspan="1" colspan="1"><p>SRT I</p></td>      <td rowspan="1" colspan="1"><p>R$ 20.000,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>RS Total</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>R$ 40.000,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Total Geral</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>R$ 40.000,00</p></td>     </tr>    </tbody>   </table>

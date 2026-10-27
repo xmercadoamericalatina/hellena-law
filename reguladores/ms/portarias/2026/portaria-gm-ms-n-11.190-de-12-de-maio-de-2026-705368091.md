@@ -1,0 +1,70 @@
+---
+titulo: "PORTARIA GM/MS Nº 11.190, DE 12 DE MAIO DE 2026"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "11190"
+data: 2026-05-12
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 14/05/2026, seção 1, p. 1111"
+data_publicacao: 2026-05-14
+edicao: "89"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-11.190-de-12-de-maio-de-2026-705368091"
+baixado_em: 2026-10-15
+---
+# PORTARIA GM/MS Nº 11.190, DE 12 DE MAIO DE 2026
+
+PORTARIA GM/MS Nº 11.190, DE 12 DE MAIO DE 2026
+
+Autoriza o Estado, Município ou Distrito Federal a receber recursos referentes ao incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, em observância a Lei nº 15.346, de 14 de janeiro de 2026, Lei Complementar nº 141, de 13 de janeiro de 2012, Lei nº 8.080, de 19 de setembro de 1990, Portaria de Consolidação nº 6, de 28 de setembro de 2017, resolve:
+
+**Art. 1º** Ficam autorizados os Estados, o Distrito Federal e os Municípios descritos no anexo desta Portaria a receberem recursos financeiros referentes ao incremento temporário para o custeio dos serviços de Atenção Especializada à Saúde.
+
+**Art. 2º** Os recursos financeiros tratados nesta Portaria referem-se à aplicação das emendas parlamentares para incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+**Art. 3º** As propostas de que tratam esta portaria serão processadas no InvestSUS, disponível no portalfns.saude.gov.br.
+
+**Art. 4º** O Fundo Nacional de Saúde adotará as medidas necessárias para as transferências de recursos financeiros estabelecidas nesta Portaria aos respectivos Fundos de Saúde, em parcela única, em conformidade com os processos de pagamento instruídos pela Secretaria Finalística, após atendidas as condições previstas para essa modalidade de transferência.
+
+**Art. 5º** A prestação de contas sobre a aplicação dos recursos financeiros será realizada por meio do Relatório Anual de Gestão - RAG, aprovado pelo respectivo Conselho local de saúde, nos termos dos artigos 34 a 36 da Lei Complementar nº 141, de 14 de janeiro de 2012.
+
+**Art. 6º** Esta Portaria entra em vigor na data de sua publicação.
+
+ALEXANDRE ROCHA SANTOS PADILHA
+
+## ANEXO
+
+Entes federados autorizados a receberem recursos financeiros federais de emendas destinados ao incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+| UF | MUNICÍPIO | ENTIDADE | Nº DA PROPOSTA | VALOR TOTAL DA PROPOSTA (R$) | CÓD. EMENDA | VALOR POR EMENDA (R$) | FUNCIONAL PROGRAMÁTICA | CNES | VALOR (R$) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BA | SALVADOR | FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA | 36000800087202600 | 3.000.000,00 | 41660002 | 3.000.000,00 | 1030251182E900029 | 7106521 | 3.000.000,00 |
+| GO | PADRE BERNARDO | FUNDO MUNICIPAL DE SAUDE | 36000752825202600 | 500.000,00 | 41100014 | 500.000,00 | 1030251182E900001 | 6439896 | 500.000,00 |
+| MG | ALEM PARAIBA | FUNDO MUNICIPAL DE SAUDE - MUNICIPIO DE ALEM PARAIBA | 36000759237202600 | 200.000,00 | 13490005 | 200.000,00 | 1030251182E900031 | 2122677 | 200.000,00 |
+| MG | ESPINOSA | FUNDO MUNICIPAL DE SAUDE DE ESPINOSA | 36000775320202600 | 50.000,00 | 39910002 | 50.000,00 | 1030251182E900031 | 6540821 | 50.000,00 |
+| MG | MUZAMBINHO | FUNDO MUNICIPAL DE SAUDE | 36000789639202600 | 100.000,00 | 27590011 | 100.000,00 | 1030251182E900031 | 2099233 | 100.000,00 |
+| MG | PRATINHA | FUNDO MUNICIPAL DE SAUDE DE PRATINHA | 36000776534202600 | 41.523,00 | 27540004 | 41.523,00 | 1030251182E900031 | 6421601 | 41.523,00 |
+| MG | RIO PRETO | FUNDO MUNICIPAL DE SAUDE | 36000790246202600 | 209.024,00 | 24820001 | 209.024,00 | 1030251182E900031 | 2796791 | 209.024,00 |
+| PA | BELEM | FUNDO ESTADUAL DE SAUDE | 36000794996202600 | 2.000.000,00 | 43560003 | 2.000.000,00 | 1030251182E900015 | 6628206 | 2.000.000,00 |
+| PA | MARABA | FUNDO MUNICIPAL DE SAUDE DE MARABA | 36000776656202600 | 1.900.000,00 | 43450003 | 1.900.000,00 | 1030251182E900015 | 6425119 | 1.900.000,00 |
+| PE | IBIMIRIM | FUNDO MUNICIPAL DE SAUDE DE IBIMIRIM | 36000772733202600 | 500.000,00 | 42520002 | 500.000,00 | 1030251182E900026 | 6563872 | 500.000,00 |
+| RJ | NILOPOLIS | FUNDO MUNICIPAL DE SAUDE DE NILOPOLIS | 36000778439202600 | 1.000.000,00 | 15040001 | 1.000.000,00 | 1030251182E900033 | 2293900 | 1.000.000,00 |
+| RJ | NOVA FRIBURGO | FUNDO MUNICIPAL DE SAUDE DE NOVA FRIBURGO | 36000776024202600 | 200.000,00 | 43350002 | 200.000,00 | 1030251182E900033 | 7962797 | 200.000,00 |
+| RJ | SUMIDOURO | FUNDO MUNICIPAL DE SAUDE SUMIDOURO | 36000790876202600 | 537.133,00 | 32680015 | 537.133,00 | 1030251182E900033 | 7790740 | 537.133,00 |
+| RS | HERVAL | FUNDO MUNICIPAL DE SAUDE DE HERVAL | 36000770789202600 | 69.340,00 | 20980010 | 69.340,00 | 1030251182E900043 | 7039735 | 69.340,00 |
+| RS | PANAMBI | FUNDO MUNICIPAL DE SAUDE DE PANAMBI-RS | 36000791831202600 | 500.000,00 | 90480002 | 500.000,00 | 1030251182E900043 | 2254921 | 500.000,00 |
+| RS | PORTO ALEGRE | FUNDO MUNICIPAL DE SAUDE | 36000804157202600 | 250.000,00 | 39840001 | 250.000,00 | 1030251182E900043 | 3729559 | 250.000,00 |
+| SC | CONCORDIA | FUNDO MUNICIPAL DE SAUDE DE CONCORDIA | 36000800196202600 | 300.000,00 | 22100022 | 300.000,00 | 1030251182E900042 | 2303663 | 300.000,00 |
+| SC | ITAJAI | FUNDO MUNICIPAL DE SAUDE DE ITAJAI | 36000790133202600 | 300.000,00 | 42730002 | 300.000,00 | 1030251182E900042 | 2522691 | 300.000,00 |
+| SC | LAGUNA | FUNDO MUNICIPAL DE SAUDE | 36000753677202600 | 500.000,00 | 42090001 | 500.000,00 | 1030251182E900042 | 6362303 | 500.000,00 |
+| SE | MONTE ALEGRE DE SERGIPE | FUNDO MUNICIPAL DE SAUDE | 36000757154202600 | 300.000,00 | 44900001 | 300.000,00 | 1030251182E900028 | 6297188 | 300.000,00 |
+| SP | GUARUJA | FUNDO MUNICIPAL DE SAUDE DE GUARUJA | 36000799022202600 | 400.000,00 | 44440001 | 400.000,00 | 1030251182E900035 | 2047683 | 400.000,00 |
+| SP | GUARUJA | FUNDO MUNICIPAL DE SAUDE DE GUARUJA | 36000804045202600 | 600.000,00 | 25200004 | 600.000,00 | 1030251182E900035 | 2047683 | 600.000,00 |
+| SP | INDAIATUBA | FUNDO MUNICIPAL DE SAUDE - FUNSAU | 36000794926202600 | 2.300.000,00 | 42890001 | 2.300.000,00 | 1030251182E900035 | 3344967 | 2.300.000,00 |
+| SP | ITAQUAQUECETUBA | FUNDO MUNICIPAL DE SAUDE DE ITAQUAQUECETUBA | 36000780563202600 | 3.000.000,00 | 44230001 | 3.000.000,00 | 1030251182E900035 | 6390951 | 3.000.000,00 |
+| SP | SAO PAULO | FUNDO ESTADUAL DE SAUDE - FUNDES | 36000792069202600 | 150.000,00 | 31340008 | 150.000,00 | 1030251182E900035 | 2078813 | 150.000,00 |
+| TO | PONTE ALTA DO TOCANTINS | FUNDO MUNICIPAL DE SAUDE DE PONTE ALTA DO TOCANTINS | 36000770056202600 | 200.000,00 | 37750001 | 200.000,00 | 1030251182E900017 | 7010559 | 200.000,00 |
+| TO | SAO MIGUEL DO TOCANTINS | FUNDO MUNICIPAL DE SAUDE DE SAO MIGUEL DO TOCANTINS | 36000763243202600 | 100.000,00 | 37750001 | 100.000,00 | 1030251182E900017 | 2370786 | 100.000,00 |
+| TOTAL | 27 PROPOSTAS | 19.207.020,00 |  |  |  |  |  |  |  |

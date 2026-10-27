@@ -1,0 +1,52 @@
+---
+titulo: "Portaria GM/ms Nº 5.497, DE 10 DE outubro DE 2024"
+orgao: "Ministério da Saúde/Gabinete da Ministra"
+tipo: "Portaria"
+numero: "5497"
+data: 2024-10-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 11/10/2024, seção 1, p. 145"
+data_publicacao: 2024-10-11
+edicao: "198"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-5.497-de-10-de-outubro-de-2024-589500794"
+sha256_html_fonte: 351d428f32b980d38c4c5571b9f33788dad06da977f13296a47d58b4e4b24da9
+baixado_em: 2026-10-16
+---
+# Portaria GM/ms Nº 5.497, DE 10 DE outubro DE 2024
+
+Portaria GM/ms Nº 5.497, DE 10 DE outubro DE 2024
+
+Habilita Serviços Residenciais Terapêuticos e estabelece recurso do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Grupo de Atenção Especializada, a ser incorporado ao limite financeiro de Média e Alta Complexidade (MAC) de Municípios do Espírito Santo, Rio de Janeiro e São Paulo.
+
+O MINISTRO DE ESTADO DA SAÚDE SUBSTITUTO, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, e
+
+Considerando o Anexo V - Rede de Atenção Psicossocial (RAPS), da Portaria de Consolidação GM/MS nº 3, de 28 de setembro de 2017, que consolida as normas sobre as redes do Sistema Único de Saúde;
+
+Considerando a Portaria de Consolidação GM/MS nº 6, de 28 de setembro de 2017, que consolida as normas sobre o financiamento e a transferência dos recursos federais para ações e os serviços de saúde do Sistema Único de Saúde;
+
+Considerando a Portaria GM/MS nº 3.992, de 28 de dezembro de 2017, que altera a Portaria de Consolidação GM/MS nº 6, de 28 de setembro de 2017, para dispor sobre o financiamento e a transferência dos recursos federais para as ações e os serviços públicos de saúde do Sistema Único de Saúde;
+
+Considerando a Portaria GM/MS nº 681, de 3 de julho de 2023, que altera as Portarias de Consolidação GM/MS nºs 3 e 6, de 28 de setembro de 2017, para instituir recomposição financeira para os Serviços Residenciais Terapêuticos - SRT habilitados pelo Ministério da Saúde, previstos na Portaria GM/MS nº 3.088, de23 de dezembro de 2011;
+
+Considerando a necessidade de aperfeiçoamento e adequação do modelo de atenção oferecida pelo SUS aos usuários de álcool e outras drogas e de estruturação e fortalecimento de uma rede de assistência centrada na atenção comunitária, associada à rede de serviços de saúde e sociais, com ênfase na reabilitação e reinserção social; e
+
+Considerando as documentações apresentadas pelos Municípios e a correspondente avaliação pelo Departamento de Saúde Mental, Álcool e Outras Drogas - DESMAD/SAES/MS, constante no NUP-SEI nº 25000.069681/2024-37, resolve:
+
+**Art. 1º** Ficam habilitados os Serviços Residenciais Terapêuticos (SRT), localizados nos Municípios descritos no Anexo a esta Portaria.
+
+**Art. 2º** Fica estabelecido recurso do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Grupo de Atenção Especializada, no montante anual de R$ 1.799.877,60 (um milhão, setecentos e noventa e nove mil oitocentos e setenta e sete reais e sessenta centavos), a ser incorporado ao limite financeiro de Média e Alta Complexidade (MAC) dos Municípios do Espírito Santo, Rio de Janeiro e São Paulo, conforme Anexo a esta Portaria.
+
+Paragrafo Único. O impacto financeiro no presente exercício será de R$ 299.979,60 (duzentos e noventa e nove mil novecentos e setenta e nove reais e sessenta centavos), com parcelas mensais de R$ 149.989,80 (cento e quarenta e nove mil novecentos e oitenta e nove reais e oitenta centavos).
+
+**Art. 3º** O Fundo Nacional de Saúde adotará as medidas necessárias para a transferência, regular e automática, do montante estabelecido no art. 2º, em parcelas mensais, para os Fundos Municipais de Saúde, mediante processo autorizativo encaminhado pela Secretaria responsável pelo programa de trabalho.
+
+**Art. 4º** Os recursos orçamentários, objeto desta Portaria, correrão por conta do orçamento do Ministério da Saúde, devendo onerar o o Programa de Trabalho 10.302.5118.8585 - Atenção à Saúde da População para Procedimentos de Média e Alta Complexidade - Plano Orçamentário 0000, no Bloco de Manutenção das Ações e Serviços Públicos de Saúde.
+
+**Art. 5º** Esta Portaria entra em vigor na data da sua publicação, com efeitos financeiros a partir da 11ª (décima primeira) parcela de 2024.
+
+SWEDENBERGER DO NASCIMENTO BARBOSA
+
+## ANEXO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>UF</p></td>      <td rowspan="1" colspan="1"><p>CÓDIGO DO IBGE</p></td>      <td rowspan="1" colspan="1"><p>MUNICÍPIO</p></td>      <td rowspan="1" colspan="1"><p>GESTÃO</p></td>      <td rowspan="1" colspan="1"><p>CNES</p></td>      <td rowspan="1" colspan="1"><p>TIPO DE SRT (I/II)</p></td>      <td rowspan="1" colspan="1"><p>CÓD. HABILITAÇÃO</p></td>      <td rowspan="1" colspan="1"><p>Nº PROPOSTA SAIPS</p></td>      <td rowspan="1" colspan="1"><p>NÚMERO DE MORADORES</p></td>      <td rowspan="1" colspan="1"><p>VALOR MENSAL</p></td>      <td rowspan="1" colspan="1"><p>VALOR ANUAL</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>ES</p></td>      <td rowspan="1" colspan="1"><p>320530</p></td>      <td rowspan="1" colspan="1"><p>VITÓRIA</p></td>      <td rowspan="1" colspan="1"><p>MUNICIPAL</p></td>      <td rowspan="1" colspan="1"><p>0012351</p></td>      <td rowspan="1" colspan="1"><p>SRT TIPO II</p></td>      <td rowspan="1" colspan="1"><p>82.27 - RESIDÊNCIA TERAPÊUTICA TIPO II</p></td>      <td rowspan="1" colspan="1"><p>180563</p></td>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>12.711,00</p></td>      <td rowspan="1" colspan="1"><p>152.532,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="8"><p>ES Total</p></td>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>12.711,00</p></td>      <td rowspan="1" colspan="1"><p>152.532,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>RJ</p></td>      <td rowspan="1" colspan="1"><p>330455</p></td>      <td rowspan="1" colspan="1"><p>RIO DE JANEIRO</p></td>      <td rowspan="1" colspan="1"><p>MUNICIPAL</p></td>      <td rowspan="1" colspan="1"><p>6551556</p></td>      <td rowspan="1" colspan="1"><p>SRT TIPO II</p></td>      <td rowspan="1" colspan="1"><p>82.27 - RESIDÊNCIA TERAPÊUTICA TIPO II</p></td>      <td rowspan="1" colspan="1"><p>177703</p></td>      <td rowspan="1" colspan="1"><p>6</p></td>      <td rowspan="1" colspan="1"><p>15.253,20</p></td>      <td rowspan="1" colspan="1"><p>183.038,40</p></td>     </tr>     <tr>      <td rowspan="1" colspan="8"><p>RJ Total</p></td>      <td rowspan="1" colspan="1"><p>6</p></td>      <td rowspan="1" colspan="1"><p>15.253,20</p></td>      <td rowspan="1" colspan="1"><p>183.038,40</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>351970</p></td>      <td rowspan="1" colspan="1"><p>IBIÚNA</p></td>      <td rowspan="1" colspan="1"><p>MUNICIPAL</p></td>      <td rowspan="1" colspan="1"><p>7294352</p></td>      <td rowspan="1" colspan="1"><p>SRT TIPO II</p></td>      <td rowspan="1" colspan="1"><p>82.27 - RESIDÊNCIA TERAPÊUTICA TIPO II</p></td>      <td rowspan="1" colspan="1"><p>153053</p></td>      <td rowspan="1" colspan="1"><p>10</p></td>      <td rowspan="1" colspan="1"><p>25.422,00</p></td>      <td rowspan="1" colspan="1"><p>305.064,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>355030</p></td>      <td rowspan="1" colspan="1"><p>SÃO PAULO</p></td>      <td rowspan="1" colspan="1"><p>MUNICIPAL</p></td>      <td rowspan="1" colspan="1"><p>5725437</p></td>      <td rowspan="1" colspan="1"><p>SRT TIPO II</p></td>      <td rowspan="1" colspan="1"><p>82.27 - RESIDÊNCIA TERAPÊUTICA TIPO II</p></td>      <td rowspan="1" colspan="1"><p>186200</p></td>      <td rowspan="1" colspan="1"><p>10</p></td>      <td rowspan="1" colspan="1"><p>25.422,00</p></td>      <td rowspan="1" colspan="1"><p>305.064,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>355030</p></td>      <td rowspan="1" colspan="1"><p>SÃO PAULO</p></td>      <td rowspan="1" colspan="1"><p>MUNICIPAL</p></td>      <td rowspan="1" colspan="1"><p>7165072</p></td>      <td rowspan="1" colspan="1"><p>SRT TIPO II</p></td>      <td rowspan="1" colspan="1"><p>82.27 - RESIDÊNCIA TERAPÊUTICA TIPO II</p></td>      <td rowspan="1" colspan="1"><p>188508</p></td>      <td rowspan="1" colspan="1"><p>10</p></td>      <td rowspan="1" colspan="1"><p>25.422,00</p></td>      <td rowspan="1" colspan="1"><p>305.064,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>355030</p></td>      <td rowspan="1" colspan="1"><p>SÃO PAULO</p></td>      <td rowspan="1" colspan="1"><p>MUNICIPAL</p></td>      <td rowspan="1" colspan="1"><p>2070804</p></td>      <td rowspan="1" colspan="1"><p>SRT TIPO II</p></td>      <td rowspan="1" colspan="1"><p>82.27 - RESIDÊNCIA TERAPÊUTICA TIPO II</p></td>      <td rowspan="1" colspan="1"><p>152927</p></td>      <td rowspan="1" colspan="1"><p>8</p></td>      <td rowspan="1" colspan="1"><p>20.337,60</p></td>      <td rowspan="1" colspan="1"><p>244.051,20</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>355030</p></td>      <td rowspan="1" colspan="1"><p>SÃO PAULO</p></td>      <td rowspan="1" colspan="1"><p>MUNICIPAL</p></td>      <td rowspan="1" colspan="1"><p>6879802</p></td>      <td rowspan="1" colspan="1"><p>SRT TIPO II</p></td>      <td rowspan="1" colspan="1"><p>82.27 - RESIDÊNCIA TERAPÊUTICA TIPO II</p></td>      <td rowspan="1" colspan="1"><p>152271</p></td>      <td rowspan="1" colspan="1"><p>10</p></td>      <td rowspan="1" colspan="1"><p>25.422,00</p></td>      <td rowspan="1" colspan="1"><p>305.064,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="8"><p>SP Total</p></td>      <td rowspan="1" colspan="1"><p>48</p></td>      <td rowspan="1" colspan="1"><p>122.025,60</p></td>      <td rowspan="1" colspan="1"><p>1.464.307,20</p></td>     </tr>     <tr>      <td rowspan="1" colspan="8"><p>TOTAL GERAL</p></td>      <td rowspan="1" colspan="1"><p>59</p></td>      <td rowspan="1" colspan="1"><p>149.989,80</p></td>      <td rowspan="1" colspan="1"><p>1.799.877,60</p></td>     </tr>    </tbody>   </table>

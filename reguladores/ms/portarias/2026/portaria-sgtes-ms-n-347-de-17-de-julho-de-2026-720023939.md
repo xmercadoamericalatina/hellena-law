@@ -1,0 +1,211 @@
+---
+titulo: "PORTARIA SGTES/MS Nº 347, DE 17 DE JULHO DE 2026"
+orgao: "Ministério da Saúde/Secretaria de Gestão do Trabalho e da Educação na Saúde"
+tipo: "Portaria"
+numero: "347"
+data: 2026-07-17
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 20/07/2026, seção 1, p. 72"
+data_publicacao: 2026-07-20
+edicao: "134"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-sgtes/ms-n-347-de-17-de-julho-de-2026-720023939"
+baixado_em: 2026-10-15
+---
+# PORTARIA SGTES/MS Nº 347, DE 17 DE JULHO DE 2026
+
+PORTARIA SGTES/MS Nº 347, DE 17 DE JULHO DE 2026
+
+Divulga a HOMOLOGAÇÃO DO RESULTADO DA 1ª CHAMADA dos Programas de Residência Médica que concorreram às bolsas do Programa Nacional de Apoio à Formação de Médicos Especialistas em Áreas Estratégicas, nos termos do Edital SGTES/MS nº 4, de 3 de fevereiro de 2026.
+
+O Secretário de Gestão do Trabalho e da Educação na Saúde, no uso das atribuições que lhe confere o Ato de Nomeação nº 318 da Portaria de 17 de março de 2025, da Casa Civil da Presidência da República, publicado no Diário Oficial da União nº 52, de 18 de março de 2025, Seção 2, e nos termos do Edital SGTES/MS nº 4, de 03 de fevereiro de 2026, resolve:
+
+**Art. 1º** Divulgar, no Anexo I desta Portaria, a HOMOLOGAÇÃO DO RESULTADO DA 1 ª CHAMADA referente aos Programas de Residência Médica - PRM com adesões homologadas e respectivo número de bolsas financiadas pelo Ministério da Saúde, no âmbito do Programa Nacional de Apoio à Formação de Médicos Especialistas em Áreas Estratégicas - Pró-Residência.
+
+**Art. 2º** Aos Programas de Residência Médicas homologados para concessão de bolsas financiadas pelo Ministério da Saúde será disponibilizado o Termo de Compromisso no portal do SIG-RESIDÊNCIAS - https://sigresidencias.saude.gov.br, que deverá ser preenchido e assinado pelo(a) Coordenador(a) da Comissão de Residência Médica - COREME e pelo(a) Coordenador(a) do Programa de Residência Médica.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+FELIPE PROENÇO DE OLIVEIRA
+
+## ANEXO I
+
+| PROGRAMAS DE RESIDÊNCIA MÉDICA LOCALIZADOS EM ESTADOS DA AMAZÔNIA LEGAL |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| UF | CNPJ | RAZÃO SOCIAL | CÓDIGO MS | NOME DO PROGRAMA | ESPECIALIDADE/ ÁREA DE ATUAÇÃO/ ANO ADICIONAL | BOLSAS R1 CONCEDIDAS |
+| AM | 00697295000105 | SECRETARIA DE ESTADO DA SAUDE - SUSAM | 20077 | Psiquiatria Forense | Área de atuação | 1 |
+| AM | 08697873000107 | VISOCLIN INSTITUTO | 20271 | Oftalmologia | Especialidade | 2 |
+| MA | 04801613000189 | MUNICIPIO DE IMPERATRIZ - HOSPITAL MUNICIPAL DE IMPERATRIZ | 20131 | Clínica Médica | Especialidade | 4 |
+| MA | 02973240000793 | ESTADO DO MARANHAO - SECRETARIA DE ESTADO DA SAUDE | 20682 | Psicogeriatria | Área de atuação | 1 |
+| MT | 24672792000109 | ASSOCIACAO MATOGROSSENSE DE COMBATE AO CANCER | 20108 | Medicina Intensiva | Especialidade | 1 |
+| PA | 00394544005900 | MINISTERIO DA SAUDE - HOSPITAL BARROS BARRETO | 20316 | Oncologia Clínica | Especialidade | 1 |
+| TO | 38178825000173 | UNIVERSIDADE FEDERAL DO NORTE DO TOCANTINS - UFNT | 20579 | Clínica Médica | Especialidade | 3 |
+| TO | 38178825000173 | UNIVERSIDADE FEDERAL DO NORTE DO TOCANTINS - UFNT | 20580 | Medicina de Família e Comunidade | Especialidade | 2 |
+| TO | 38178825000173 | UNIVERSIDADE FEDERAL DO NORTE DO TOCANTINS - UFNT | 20581 | Infectologia | Especialidade | 2 |
+| PROGRAMAS DE RESIDÊNCIA MÉDICA DE ESPECIALIDADES E ÁREAS DE ATUAÇÃO ESTRATÉGICAS PARA O SUS DE PRIORIDADE NACIONAL |  |  |  |  |  |  |
+| UF | CNPJ | RAZÃO SOCIAL | CÓDIGO MS | NOME DO PROGRAMA | ESPECIALIDADE/ÁREA DE ATUAÇÃO/ANO ADICIONAL | BOLSAS R1 CONCEDIDAS |
+| CE | 05268526002467 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 20544 | Anestesiologia | Especialidade | 5 |
+| CE | 18621825000199 | UNIVERSIDADE FEDERAL DO CARIRI-UFCA | 20668 | Patologia | Especialidade | 2 |
+| CE | 07265515000162 | INSTITUTO DO CANCER DO CEARA | 20689 | Anestesiologia | Especialidade | 4 |
+| CE | 07954571003804 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 20670 | Medicina Intensiva Pediátrica | Área de atuação | 1 |
+| ES | 27080605002059 | SECRETARIA DE ESTADO DA SAUDE - HOSPITAL INFANTIL NOSSA SENHORA DA GLORIA | 20140 | Medicina Intensiva Pediátrica | Área de atuação | 1 |
+| ES | 27080605002563 | SECRETARIA DE ESTADO DA SAUDE - INST. CAPIXABA DE ENSINO, PESQUISA E INOVACAO EM SAUDE | 20628 | Psiquiatria da Infância e Adolescência | Área de atuação | 2 |
+| ES | 28141190000267 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE VITORIA | 20686 | Anestesiologia | Especialidade | 2 |
+| MG | 11728239000107 | FUNDO MUNICIPAL DE SAUDE - SECRETARIA MUNICIPAL DE SAÚDE DE BELO HORIZONTE | 20054 | Medicina de Família e Comunidade | Especialidade | 5 |
+| MG | 17178203000175 | FUNDACAO EDUCACIONAL LUCAS MACHADO FELUMA | 20170 | Anestesiologia | Especialidade | 2 |
+| MG | 22675359000100 | UNIVERSIDADE ESTADUAL DE MONTES CLAROS | 20631 | Medicina de Família e Comunidade | Especialidade | 1 |
+| MS | 11084263000142 | FUNDO MUNICIPAL DE SAÚDE DE PONTA PORÃ | 20086 | Medicina de Família e Comunidade | Especialidade | 6 |
+| MS | 11228564000100 | PREFEITURA MUNICIPAL DE CAMPO GRANDE/MS - SESAU | 20138 | Psiquiatria | Especialidade | 2 |
+| PB | 04849697000120 | FUNDO MUNICIPAL DE SAUDE DE CABEDELO | 20084 | Medicina de Família e Comunidade | Especialidade | 4 |
+| PR | 80612294000141 | HOSPITAL SANTA CASA DE MISERICORDIA DE CAMPO MOURAO | 20160 | Oncologia Clínica | Especialidade | 1 |
+| PR | 05961193000160 | INSTITUTO NOSSA SENHORA APARECIDA | 20552 | Anestesiologia | Especialidade | 3 |
+| PR | 05961193000160 | INSTITUTO NOSSA SENHORA APARECIDA | 20556 | Medicina de Família e Comunidade | Especialidade | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 20377 | Neurocirurgia | Especialidade | 1 |
+| PR | 80612294000141 | HOSPITAL SANTA CASA DE MISERICORDIA DE CAMPO MOURAO | 20065 | Anestesiologia | Especialidade | 1 |
+| PR | 05866492000116 | ASSOCIACAO BENEFICENTE DE SAUDE DO NOROESTE DO PARANA | 20606 | Neonatologia | Área de atuação | 2 |
+| RJ | 04311955000110 | FUNDO MUNICIPAL DE SAUDE - MARICA | 20226 | Medicina de Família e Comunidade | Especialidade | 10 |
+| RJ | 29063294000182 | SERVICO AUTONOMO HOSPITALAR | 20477 | Anestesiologia | Especialidade | 1 |
+| RN | 08428765000139 | LIGA NORTE RIOGRANDENSE CONTRA O CANCER | 20387 | Patologia | Especialidade | 1 |
+| RS | 91162511000165 | SOCIEDADE BENEFICENCIA E CARIDADE DE LAJEADO | 20409 | Oncologia Clínica | Especialidade | 1 |
+| SC | 28700530000242 | INSTITUTO MARIA SCHMITT DE DESENVOLVIMENTO DE ENSINO, ASSISTENCIA SOCIAL E SAUDE DO CIDADAO | 20294 | Anestesiologia | Especialidade | 3 |
+| SC | 82951245001050 | SECRETARIA DE ESTADO DA SAUDE - HOSPITAL REGIONAL HOMERO DE MIRANDA GOMES \*HRHMG\* | 20199 | Medicina de Emergência | Especialidade | 3 |
+| SC | 84703248000109 | HOSPITAL MUNICIPAL SÃO JOSÉ DE JOINVILLE | 20486 | Anestesiologia | Especialidade | 3 |
+| SC | 28700530000242 | INSTITUTO MARIA SCHMITT DE DESENVOLVIMENTO DE ENSINO, ASSISTENCIA SOCIAL E SAUDE DO CIDADAO | 20575 | Anestesiologia | Especialidade | 3 |
+| SP | 12123668000105 | INSTITUTO POLICLIN DE ENSINO E PESQUISA | 20243 | Anestesiologia | Especialidade | 1 |
+| SP | 46522942000130 | MUNICIPIO DE SANTO ANDRE | 20484 | Medicina de Família e Comunidade | Especialidade | 6 |
+| SP | 46522942000130 | MUNICIPIO DE SANTO ANDRE | 20483 | Psiquiatria | Especialidade | 3 |
+| SP | 55989784000114 | SOCIEDADE B H SANTA CASA DE MISERICORDIA DE R PRETO | 20411 | Medicina de Emergência | Especialidade | 4 |
+| SP | 72957814000120 | SANTA CASA DE MISERICORDIA DE VOTUPORANGA | 20247 | Neonatologia | Área de atuação | 1 |
+| SP | 47018676000176 | REDE MUNICIPAL DR. MARIO GATTI DE URGENCIA, EMERGENCIA E HOSPITALAR | 20090 | Anestesiologia | Especialidade | 2 |
+| SP | 47018676000176 | REDE MUNICIPAL DR. MARIO GATTI DE URGENCIA, EMERGENCIA E HOSPITALAR | 20092 | Medicina de Emergência | Especialidade | 4 |
+| SP | 45751435000106 | MUNICIPIO DE PAULINIA | 20729 | Anestesiologia | Especialidade | 1 |
+| SP | 46374500008845 | SECRETARIA DE ESTADO DA SAUDE | 20647 | Neurocirurgia | Especialidade | 1 |
+| PROGRAMAS DE RESIDÊNCIA MÉDICA DE ESPECIALIDADES, ÁREAS DE ATUAÇÃO E ANOS ADICIONAIS ESTRATÉGICOS PARA O SUS DE PRIORIDADE REGIONAL |  |  |  |  |  |  |
+| UF | CNPJ | RAZÃO SOCIAL | CÓDIGO MS | NOME DO PROGRAMA | ESPECIALIDADE/ÁREA DE ATUAÇÃO/ANO ADICIONAL | BOLSAS R1 CONCEDIDAS |
+| BA | 15153745000249 | SANTA CASA DE MISERICORDIA DA BAHIA | 20330 | Cirurgia Plástica | Especialidade | 1 |
+| BA | 15170723000106 | LIGA ALVARO BAHIA CONTRA A MORTALIDADE INFANTIL | 20105 | Cirurgia Pediátrica | Especialidade | 1 |
+| CE | 07265515000162 | INSTITUTO DO CANCER DO CEARA | 20250 | Mastologia | Especialidade | 1 |
+| CE | 18621825000199 | UNIVERSIDADE FEDERAL DO CARIRI-UFCA | 20146 | Cirurgia Bariátrica | Área de atuação | 1 |
+| CE | 05268526002467 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 20545 | Clínica Médica | Ano adicional | 2 |
+| CE | 05268526002467 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 20546 | Ginecologia e Obstetrícia | Especialidade | 10 |
+| CE | 73695868000127 | ESCOLA DE SAUDE PUBLICA DO CEARA | 20543 | Pediatria | Especialidade | 1 |
+| CE | 05268526000847 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 20220 | Pediatria | Especialidade | 3 |
+| CE | 05268526000847 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 20222 | Cirurgia Geral | Especialidade | 2 |
+| CE | 05268526000847 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 20223 | Clínica Médica | Especialidade | 9 |
+| CE | 07954571003804 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 20669 | Gastroenterologia Pediátrica | Área de atuação | 1 |
+| CE | 07954571003804 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 20671 | Cirurgia Pediátrica | Especialidade | 1 |
+| CE | 07954571003804 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 20672 | Hematologia e Hemoterapia Pediátrica | Área de atuação | 1 |
+| CE | 07954571003804 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 20673 | Nefrologia Pediátrica | Área de atuação | 1 |
+| CE | 07954571003804 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 20674 | Pneumologia Pediátrica | Área de atuação | 1 |
+| CE | 07954571003804 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 20675 | Oncologia Pediátrica | Área de atuação | 1 |
+| ES | 27080605002059 | SECRETARIA DE ESTADO DA SAUDE - HOSPITAL INFANTIL NOSSA SENHORA DA GLORIA | 20141 | Pneumologia Pediátrica | Área de atuação | 1 |
+| ES | 27080605002059 | SECRETARIA DE ESTADO DA SAUDE - HOSPITAL INFANTIL NOSSA SENHORA DA GLORIA | 20139 | Pediatria | Especialidade | 8 |
+| ES | 27502715000107 | FUND SOCIAL RURAL DE COLATINA | 20055 | Cirurgia Geral | Especialidade | 4 |
+
+| ES | 28137925000106 | ASSOCIACAO FEMININA DE EDUCACAO E COMBATE AO CANCER | 20590 | Clínica Médica | Ano adicional | 1 |
+| --- | --- | --- | --- | --- | --- | --- |
+| GO | 01815216000178 | FESURV - UNIVERSIDADE DE RIO VERDE | 20151 | Cirurgia Geral | Especialidade | 2 |
+| GO | 05029600000953 | ASSOCIACAO DE GESTAO, INOVACAO E RESULTADOS EM SAUDE | 20302 | Cardiologia Pediátrica | Área de atuação | 3 |
+| GO | 05029600000953 | ASSOCIACAO DE GESTAO, INOVACAO E RESULTADOS EM SAUDE | 20303 | Endocrinologia Pediátrica | Área de atuação | 2 |
+| MG | 10550765000159 | SOCIEDADE BENEFICENTE SAGRADA FAMILIA | 20206 | Cirurgia Geral | Especialidade | 3 |
+| MG | 16826067000110 | SANTA CASA DE MISERICORDIA DE ARAGUARI | 20161 | Cirurgia Geral | Especialidade | 2 |
+| MG | 17178203000175 | FUNDACAO EDUCACIONAL LUCAS MACHADO FELUMA | 20171 | Cirurgia Geral | Especialidade | 4 |
+| MG | 17178203000175 | FUNDACAO EDUCACIONAL LUCAS MACHADO FELUMA | 20176 | Clínica Médica | Especialidade | 6 |
+| MG | 17178203000175 | FUNDACAO EDUCACIONAL LUCAS MACHADO FELUMA | 20178 | Nefrologia | Especialidade | 3 |
+| MG | 17178203000175 | FUNDACAO EDUCACIONAL LUCAS MACHADO FELUMA | 20179 | Ortopedia e Traumatologia | Especialidade | 4 |
+| MG | 17178203000175 | FUNDACAO EDUCACIONAL LUCAS MACHADO FELUMA | 20180 | Pediatria | Especialidade | 4 |
+| MG | 17178203000175 | FUNDACAO EDUCACIONAL LUCAS MACHADO FELUMA | 20182 | Urologia | Especialidade | 2 |
+| MG | 17217985003472 | UNIVERSIDADE FEDERAL DE MINAS GERAIS | 20462 | Oftalmologia | Ano adicional | 2 |
+| MG | 17217985003472 | UNIVERSIDADE FEDERAL DE MINAS GERAIS | 20463 | Transplante De Córnea / Oftalmologia | Ano adicional | 2 |
+| MG | 17217985003472 | UNIVERSIDADE FEDERAL DE MINAS GERAIS | 20460 | Ecocardiografia | Área de atuação | 1 |
+| MG | 17217985003472 | UNIVERSIDADE FEDERAL DE MINAS GERAIS | 20457 | Endocrinologia e Metabologia | Especialidade | 2 |
+| MG | 17217985003472 | UNIVERSIDADE FEDERAL DE MINAS GERAIS | 20459 | Pneumologia | Especialidade | 1 |
+| MG | 22012907000103 | SERVICO SOCIAL AUTONOMO HOSPITAL METROPOLITANO DOUTOR CELIO DE CASTRO | 20331 | Ortopedia e Traumatologia | Especialidade | 1 |
+| MG | 22012907000103 | SERVICO SOCIAL AUTONOMO HOSPITAL METROPOLITANO DOUTOR CELIO DE CASTRO | 20332 | Radiologia e Diagnóstico por Imagem | Especialidade | 2 |
+| MG | 24899395000174 | SANTA CASA DE MISERICORDIA DE SAO SEBASTIAO DO PARAISO | 20282 | Clínica Médica | Especialidade | 1 |
+| MG | 19557487000136 | CENTRO BARBACENENSE DE ASSISTENCIA MEDICA E SOCIAL | 20318 | Cirurgia Geral | Especialidade | 2 |
+| MS | 03273885000190 | ASSOC DE AUX E RECUP DOS HANSENIANOS | 20417 | Hansenologia | Área de atuação | 2 |
+| PR | 04169712000190 | ASSOCIACAO NORTE PARANAENSE DE COMBATE AO CANCER | 20259 | Hemodinâmica e Cardiologia Intervencionista | Área de atuação | 2 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 20372 | Cirurgia Geral | Especialidade | 3 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 20375 | Ginecologia e Obstetrícia | Especialidade | 4 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 20378 | Oftalmologia | Especialidade | 2 |
+| PR | 79870671000163 | INSTITUTO OFTA CARD | 20173 | Oftalmologia | Especialidade | 4 |
+| PR | 80612294000141 | HOSPITAL SANTA CASA DE MISERICORDIA DE CAMPO MOURAO | 20064 | Cirurgia Geral | Especialidade | 1 |
+| PR | 81270548000234 | UNIAO OESTE PARANAENSE DE ESTUDOS E COMBATE AO CANCER | 20152 | Clínica Médica | Especialidade | 2 |
+| PR | 05961193000160 | INSTITUTO NOSSA SENHORA APARECIDA | 20554 | Cirurgia Cardiovascular | Especialidade | 3 |
+| PR | 05961193000160 | INSTITUTO NOSSA SENHORA APARECIDA | 20555 | Clínica Médica | Especialidade | 1 |
+| PR | 05961193000160 | INSTITUTO NOSSA SENHORA APARECIDA | 20553 | Cardiologia | Especialidade | 3 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 20370 | Cardiologia | Especialidade | 2 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 20373 | Clínica Médica | Especialidade | 4 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 20374 | Cirurgia do Aparelho Digestivo | Especialidade | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 20376 | Nefrologia | Especialidade | 2 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 20379 | Ortopedia e Traumatologia | Especialidade | 2 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 20380 | Pediatria | Especialidade | 4 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 20381 | Radiologia e Diagnóstico por Imagem | Especialidade | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 20382 | Urologia | Especialidade | 1 |
+| PR | 76416866004137 | SECRETARIA DE ESTADO DA SAUDE - HOSPITAL DE DERMATOLOGIA SANITARIA DO PARANA | 20614 | Dermatologia | Especialidade | 2 |
+| RJ | 03272699000137 | SECRETARIA MUNICIPAL DE SAUDE - HOSPITAL MUNICIPAL DR. MUNIR RAFFUL | 20430 | Clínica Médica | Especialidade | 2 |
+| RJ | 03272699000137 | SECRETARIA MUNICIPAL DE SAUDE - HOSPITAL MUNICIPAL DR. MUNIR RAFFUL | 20429 | Pediatria | Especialidade | 2 |
+| RJ | 11217659000110 | INSTITUTO DE POS GRADUACAO EM CIENCIAS DA SAUDE IZAMAR MILIDIU DA SILVA | 20512 | Dermatologia | Especialidade | 3 |
+| RJ | 28523215000106 | UNIVERSIDADE FEDERAL FLUMINENSE | 20394 | Medicina Nuclear | Ano adicional | 1 |
+| RJ | 28523215000106 | UNIVERSIDADE FEDERAL FLUMINENSE | 20392 | Citopatologia | Área de atuação | 1 |
+| RJ | 29468055000102 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE - CLINICA DA FAMÍLIA FELIPPE CARDOSO | 20532 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| RJ | 31506306000148 | FUNDACAO MUNICIPAL DE SAUDE - FUNDACAO DR JOAO BARCELLOS MARTINS | 20228 | Ortopedia e Traumatologia | Especialidade | 3 |
+| RJ | 29063294000182 | SERVICO AUTONOMO HOSPITALAR | 20479 | Clínica Médica | Especialidade | 2 |
+| RJ | 29640612000120 | HOSPITAL SAO JOSE DO AVAI | 20559 | Ortopedia e Traumatologia | Especialidade | 1 |
+| RJ | 29063294000182 | SERVICO AUTONOMO HOSPITALAR | 20480 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| RJ | 29063294000182 | SERVICO AUTONOMO HOSPITALAR | 20481 | Cirurgia Vascular | Especialidade | 1 |
+| RJ | 29063294000182 | SERVICO AUTONOMO HOSPITALAR | 20482 | Angiorradiologia e Cirurgia Endovascular | Área de atuação | 1 |
+| RS | 87768735000148 | HOSPITAL DE CARIDADE E BENEFICENCIA | 20321 | Clínica Médica | Especialidade | 1 |
+| SC | 28700530000242 | INSTITUTO MARIA SCHMITT DE DESENVOLVIMENTO DE ENSINO, ASSISTENCIA SOCIAL E SAUDE DO CIDADAO | 20296 | Medicina Intensiva | Especialidade | 2 |
+| SC | 28700530000242 | INSTITUTO MARIA SCHMITT DE DESENVOLVIMENTO DE ENSINO, ASSISTENCIA SOCIAL E SAUDE DO CIDADAO | 20295 | Ortopedia e Traumatologia | Especialidade | 2 |
+| SC | 28700530000242 | INSTITUTO MARIA SCHMITT DE DESENVOLVIMENTO DE ENSINO, ASSISTENCIA SOCIAL E SAUDE DO CIDADAO | 20297 | Urologia | Especialidade | 1 |
+| SC | 76562198000320 | HOSPITAL NOSSA SENHORA DAS GRACAS | 20081 | Emergência Pediátrica | Área de atuação | 1 |
+
+| SC | 82951245000835 | SECRETARIA DE ESTADO DA SAUDE - HOSPITAL GOVERNADOR CELSO RAMOS SES FLORLANOPOLIS SC | 20100 | Cirurgia Geral | Especialidade | 3 |
+| --- | --- | --- | --- | --- | --- | --- |
+| SC | 82951245000835 | SECRETARIA DE ESTADO DA SAUDE - HOSPITAL GOVERNADOR CELSO RAMOS SES FLORLANOPOLIS SC | 20102 | Ortopedia e Traumatologia | Especialidade | 1 |
+| SC | 82951245000835 | SECRETARIA DE ESTADO DA SAUDE - HOSPITAL GOVERNADOR CELSO RAMOS SES FLORLANOPOLIS SC | 20101 | Urologia | Especialidade | 1 |
+| SC | 82951245001130 | SECRETARIA DE ESTADO DA SAUDE - INSTITUTO DE CARDIOLOGIA DE SANTA CATARINA SES | 20305 | Angiorradiologia e Cirurgia Endovascular | Área de atuação | 1 |
+| SC | 82951245001130 | SECRETARIA DE ESTADO DA SAUDE - INSTITUTO DE CARDIOLOGIA DE SANTA CATARINA SES | 20308 | Ecocardiografia | Área de atuação | 1 |
+| SC | 82951245001130 | SECRETARIA DE ESTADO DA SAUDE - INSTITUTO DE CARDIOLOGIA DE SANTA CATARINA SES | 20306 | Cardiologia | Especialidade | 4 |
+| SC | 82951245001130 | SECRETARIA DE ESTADO DA SAUDE - INSTITUTO DE CARDIOLOGIA DE SANTA CATARINA SES | 20307 | Cirurgia Cardiovascular | Especialidade | 1 |
+| SC | 82951245001300 | SECRETARIA DE ESTADO DA SAUDE - MATERNIDADE CARMELA DUTRA SES FLORIANÓPOLIS SC | 20169 | Ginecologia e Obstetrícia | Especialidade | 4 |
+| SC | 82951245002455 | SECRETARIA DE ESTADO DA SAUDE - HOSPITAL REGIONAL HANS DIETER SCHMIDT | 20494 | Cardiologia | Especialidade | 1 |
+| SC | 82951245002455 | SECRETARIA DE ESTADO DA SAUDE - HOSPITAL REGIONAL HANS DIETER SCHMIDT | 20496 | Cirurgia Geral | Especialidade | 3 |
+| SC | 82951245002455 | SECRETARIA DE ESTADO DA SAUDE - HOSPITAL REGIONAL HANS DIETER SCHMIDT | 20497 | Clínica Médica | Especialidade | 3 |
+| SC | 82951245002455 | SECRETARIA DE ESTADO DA SAUDE - HOSPITAL REGIONAL HANS DIETER SCHMIDT | 20495 | Gastroenterologia | Especialidade | 1 |
+| SC | 82951245002617 | SECRETARIA DE ESTADO DA SAUDE - HOSPITAL GERAL E MATERNIDADE TEREZA RAMOS | 20096 | Cirurgia Geral | Especialidade | 2 |
+| SC | 82951245002617 | SECRETARIA DE ESTADO DA SAUDE - HOSPITAL GERAL E MATERNIDADE TEREZA RAMOS | 20095 | Clínica Médica | Especialidade | 2 |
+| SC | 84703248000109 | HOSPITAL MUNICIPAL SÃO JOSÉ DE JOINVILLE | 20343 | Cirurgia Geral | Especialidade | 4 |
+| SC | 84703248000109 | HOSPITAL MUNICIPAL SÃO JOSÉ DE JOINVILLE | 20236 | Clínica Médica | Especialidade | 4 |
+| SC | 84703248000109 | HOSPITAL MUNICIPAL SÃO JOSÉ DE JOINVILLE | 20276 | Medicina Intensiva | Especialidade | 1 |
+| SC | 84703248000109 | HOSPITAL MUNICIPAL SÃO JOSÉ DE JOINVILLE | 20218 | Neurologia | Especialidade | 1 |
+| SC | 83506030000282 | BENEFICENCIA CAMILIANA DO SUL | 20290 | Clínica Médica | Especialidade | 2 |
+| SC | 83883306001566 | SOCIEDADE DIVINA PROVIDENCIA - HOSPITAL E MATERNIDADE SAO JOSE | 20327 | Cirurgia Geral | Especialidade | 2 |
+| SC | 84307974000102 | FUNDACAO UNIVERSIDADE DO VALE DO ITAJAI | 20568 | Dermatologia | Especialidade | 3 |
+| SC | 28700530000242 | INSTITUTO MARIA SCHMITT DE DESENVOLVIMENTO DE ENSINO, ASSISTENCIA SOCIAL E SAUDE DO CIDADAO | 20576 | Ortopedia e Traumatologia | Especialidade | 2 |
+| SC | 28700530000242 | INSTITUTO MARIA SCHMITT DE DESENVOLVIMENTO DE ENSINO, ASSISTENCIA SOCIAL E SAUDE DO CIDADAO | 20577 | Medicina Intensiva | Especialidade | 2 |
+| SC | 28700530000242 | INSTITUTO MARIA SCHMITT DE DESENVOLVIMENTO DE ENSINO, ASSISTENCIA SOCIAL E SAUDE DO CIDADAO | 20578 | Urologia | Especialidade | 1 |
+| SC | 95991113000102 | FUNDACAO HOSPITALAR DE CURITIBANOS | 20241 | Pediatria | Especialidade | 1 |
+| SC | 82654088000120 | FUNDACAO HOSPITALAR DE BLUMENAU | 20680 | Cirurgia Geral | Especialidade | 1 |
+| SP | 12123668000105 | INSTITUTO POLICLIN DE ENSINO E PESQUISA | 20244 | Neurologia | Especialidade | 2 |
+| SP | 43969732000105 | ASSOCIACAO SAO BENTO DE ENSINO | 20203 | Medicina Intensiva | Especialidade | 2 |
+| SP | 43969732000105 | ASSOCIACAO SAO BENTO DE ENSINO | 20264 | Oftalmologia | Especialidade | 3 |
+| SP | 47018676000176 | REDE MUNICIPAL DR. MARIO GATTI DE URGENCIA, EMERGENCIA E HOSPITALAR | 20091 | Ortopedia e Traumatologia | Especialidade | 6 |
+| SP | 55989784000114 | SOCIEDADE B H SANTA CASA DE MISERICORDIA DE R PRETO | 20413 | Clínica Médica | Especialidade | 4 |
+| SP | 55989784000114 | SOCIEDADE B H SANTA CASA DE MISERICORDIA DE R PRETO | 20415 | Medicina Intensiva | Especialidade | 1 |
+| SP | 55989784000114 | SOCIEDADE B H SANTA CASA DE MISERICORDIA DE R PRETO | 20410 | Neurologia | Especialidade | 3 |
+| SP | 55989784000114 | SOCIEDADE B H SANTA CASA DE MISERICORDIA DE R PRETO | 20412 | Oftalmologia | Especialidade | 2 |
+| SP | 60961422000155 | SERV SOCIAL DA IND DO PAPEL PAPELAO E CORT DO EST DE SP | 20404 | Clínica Médica | Especialidade | 1 |
+| SP | 63025530001852 | UNIVERSIDADE DE SAO PAULO | 20408 | Cirurgia do Aparelho Digestivo | Ano adicional | 2 |
+| SP | 72957814000120 | SANTA CASA DE MISERICORDIA DE VOTUPORANGA | 20136 | Medicina Intensiva | Especialidade | 2 |
+| SP | 72957814000120 | SANTA CASA DE MISERICORDIA DE VOTUPORANGA | 20246 | Ortopedia e Traumatologia | Especialidade | 3 |
+| SP | 47018676000176 | REDE MUNICIPAL DR. MARIO GATTI DE URGENCIA, EMERGENCIA E HOSPITALAR | 20094 | Cirurgia da Cabeça e Pescoço | Especialidade | 2 |
+| SP | 63025530001852 | UNIVERSIDADE DE SAO PAULO | 20612 | Cirurgia do Aparelho Digestivo | Especialidade | 1 |
+| SP | 66495110000180 | FACULDADE DE MEDICINA DE MARILIA | 20087 | Cardiologia | Especialidade | 4 |
+| SP | 63025530001852 | UNIVERSIDADE DE SAO PAULO | 20541 | Cirurgia do Aparelho Digestivo | Especialidade | 5 |
+| SP | 45751435000106 | MUNICIPIO DE PAULINIA | 20727 | Urologia | Especialidade | 1 |
+| SP | 45751435000106 | MUNICIPIO DE PAULINIA | 20728 | Ortopedia e Traumatologia | Especialidade | 1 |
+| SP | 45751435000106 | MUNICIPIO DE PAULINIA | 20730 | Ginecologia e Obstetrícia | Especialidade | 1 |
+| SP | 47018700000000 | REDE MUNICIPAL DR. MARIO GATTI DE URGENCIA, EMERGENCIA E HOSPITALAR | 20093 | Neurologia | Especialidade | 2 |

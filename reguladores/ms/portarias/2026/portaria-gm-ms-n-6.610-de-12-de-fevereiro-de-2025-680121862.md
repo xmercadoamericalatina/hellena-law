@@ -1,0 +1,35 @@
+---
+titulo: "PORTARIA GM/MS Nº 6.610, DE 12 DE FEVEREIRO DE 2025"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "6610"
+data: 2025-02-12
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 09/01/2026, seção 1, p. 63"
+data_publicacao: 2026-01-09
+edicao: "6"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-6.610-de-12-de-fevereiro-de-2025-680121862"
+baixado_em: 2026-10-15
+---
+# PORTARIA GM/MS Nº 6.610, DE 12 DE FEVEREIRO DE 2025
+
+PORTARIA GM/MS Nº 6.610, DE 12 DE FEVEREIRO DE 2025
+
+(Publicada no DOU de 19-2-2025, Seção 1)
+
+ANEXO II (\*)
+
+| UF | IBGE | MUNICIPIO | CNES | ESTABELECIMENTO | GESTÃO | VALOR A SER DEDUZIDO DO TETO FINANCEIRO R$ |
+| --- | --- | --- | --- | --- | --- | --- |
+| GO | 520430 | CAÇU | 2441489 | BIOMEDICO-LABORATÓRIO DE PATOLOGIA CLÍNICA E CITOLOGIA | MUNICIPAL | 9.210,00 |
+| GO | 521150 | ITUMBIARA | 6985769 | IMAP - INSTITUTO MÉDICO DE ANATOMIA PATOLOGICA | MUNICIPAL | 1.354,06 |
+| MG | 315180 | POÇOS DE CALDAS | 3287718 | BIOSALLI LABORATÓRIO CLÍNICO | MUNICIPAL | 536,36 |
+| PA | 150680 | SANTAREM | 3860388 | LABORATÓRIO AMAZÔNIA | MUNICIPAL | 11.119,00 |
+| PA | 150680 | SANTAREM | 6495737 | BRITO S CITOLOGIA | MUNICIPAL | 13.470,00 |
+| PA | 150795 | TAILÂNDIA | 6318207 | BIOTESTE LABORATÓRIO DE ANÁLISES CLÍNICAS | MUNICIPAL | 404,11 |
+| PI | 221100 | TERESINA | 2406926 | ICIPI | MUNICIPAL | 4.218,44 |
+| PI | 221100 | TERESINA | 2551888 | LABORATÓRIO CENTRAL DE SAÚDE PÚBLICA DR. COSTA ALVARENGA | ESTADUAL | 9.210,00 |
+|  | TOTAL | 49.521,97 |  |  |  |  |
+
+Republicado por ter saído, no DOU nº 35, de 19-2-2025, Seção 1, págs. 148 a 150, com incorreção no original.

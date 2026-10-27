@@ -1,0 +1,69 @@
+---
+titulo: "PORTARIA GM/MS Nº 10.364, DE 20 DE MARÇO DE 2026"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "10364"
+data: 2026-03-20
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 23/03/2026, seção 1, p. 83"
+data_publicacao: 2026-03-23
+edicao: "55"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-10.364-de-20-de-marco-de-2026-694460346"
+baixado_em: 2026-10-15
+---
+# PORTARIA GM/MS Nº 10.364, DE 20 DE MARÇO DE 2026
+
+PORTARIA GM/MS Nº 10.364, DE 20 DE MARÇO DE 2026
+
+Autoriza o Estado, Município ou Distrito Federal a receber recursos financeiros destinados à aquisição de equipamentos e materiais permanentes para estabelecimentos de saúde.
+
+O MINISTRO DE ESTADO DA SAÚDE SUBSTITUTO, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, em observância a Lei nº 15.346, de 14 de janeiro de 2026, Lei Complementar nº 141, de 13 de janeiro de 2012, Lei nº 8.080, de 19 de setembro de 1990, Portaria de Consolidação nº 6, de 28 de setembro de 2017, resolve:
+
+**Art. 1º** Ficam autorizados os Estados, os Municípios ou Distrito Federal no anexo desta Portaria a receberem recursos financeiros destinados à aquisição de equipamentos e materiais permanentes para estabelecimentos de saúde.
+
+**Art. 2º** As propostas de que tratam esta portaria serão processadas no InvestSUS, disponível no portalfns.saude.gov.br.
+
+**Art. 3º** O Fundo Nacional de Saúde adotará as medidas necessárias para as transferências de recursos financeiros estabelecidos nesta Portaria aos respectivos Fundos de Saúde, em parcela única, em conformidade com os processos de pagamento instruídos pelas Secretarias Finalísticas, após atendidas as condições previstas para essa modalidade de transferência.
+
+**Art. 4º** A prestação de contas sobre a aplicação dos recursos financeiros será realizada por meio do Relatório Anual de Gestão - RAG, aprovado pelo respectivo Conselho local de saúde, nos termos dos artigos 34 a 36 da Lei Complementar nº 141, de 14 de janeiro de 2012.
+
+**Art. 5º** Esta Portaria entra em vigor na data de sua publicação.
+
+ADRIANO MASSUDA
+
+## ANEXO
+
+Entes federados autorizados a receberem recursos financeiros federais destinados à aquisição de equipamentos e materiais permanentes.
+
+| UF | MUNICÍPIO | ENTIDADE | Nº DA PROPOSTA | VALOR TOTAL DA PROPOSTA (R$) | PROGRAMA ORÇAMENTÁRIO | FUNCIONAL PROGRAMÁTICA |
+| --- | --- | --- | --- | --- | --- | --- |
+| MT | ARIPUANA | FUNDO MUNICIPAL DE SAUDE DE ARIPUANA | 13868636000125006 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | BRASNORTE | FUNDO MUNICIPAL DE SAUDE | 14018343000125007 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | CAMPO NOVO DO PARECIS | FUNDO MUNICIPAL DE SAUDE DE CAMPO NOVO DO PARECIS/MT | 14476859000125006 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | CANARANA | FUNDO MUNICIPAL DE SAUDE DE CANARANA | 13978186000125020 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | CARLINDA | FUNDO MUNICIPAL DE SAUDE DE CARLINDA - MT | 12095491000125013 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | CASTANHEIRA | FUNDO MUNICIPAL DE SAUDE | 13995526000125004 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | CLAUDIA | FUNDO MUNICIPAL DE SAUDE DE CLAUDIA-MT | 13665242000125004 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | COCALINHO | FUNDO MUNICIPAL DE SAUDE | 13915490000125006 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | COLNIZA | FUNDO MUNICIPAL DE SAUDE DE COLNIZA - MT | 14089404000125012 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | DIAMANTINO | FUNDO MUNICIPAL DE SAUDE | 11939906000125012 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | DOM AQUINO | FUNDO MUNICIPAL DE SAUDE | 11676981000125006 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | GENERAL CARNEIRO | FUNDO MUNICIPAL DE SAUDE | 13968133000125009 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | GUARANTA DO NORTE | FUNDO MUNICIPAL DE SAUDE - GUARANTA DO NORTE | 13817611000125010 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | GUIRATINGA | FUNDO MUNICIPAL DE SAUDE | 11402238000125006 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | IPIRANGA DO NORTE | FUNDO MUNICIPAL DE SAUDE DE IPIRANGA DO NORTE | 11412642000125006 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | NOVA BRASILANDIA | FUNDO MUNICIPAL DE SAUDE DE NOVA BRASILANDIA | 11940918000125003 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | NOVA NAZARE | FUNDO MUNICIPAL DE SAUDE DE NOVA NAZARE | 11394499000125005 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | NOVA XAVANTINA | FUNDO MUNICIPAL DE SAUDE DE NOVA XAVANTINA | 10523136000125003 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | NOVO MUNDO | FUNDO MUNICIPAL DE SAUDE | 15042624000125004 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | NOVO SANTO ANTONIO | FUNDO MUNICIPAL DE SAUDE DE NOVO SANTO ANTONIO | 13847151000125005 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | NOVO SAO JOAQUIM | FUNDO MUNICIPAL DE SAUDE DE NOVO SAO JOAQUIM | 11106800000125003 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | PRIMAVERA DO LESTE | FUNDO MUNICIPAL DE SAUDE DE PRIMAVERA DO LESTE | 14140751000125005 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | SANTA CARMEM | FUNDO MUNICIPAL DE SAUDE DE SANTA CARMEM | 13022743000125001 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | SAO JOSE DO POVO | FUNDO MUNICIPAL DE SAUDE | 11345366000125003 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | SINOP | FUNDO MUNICIPAL DE SAUDE DE SINOP | 13539745000125004 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | SORRISO | FUNDO MUNICIPAL DE SAUDE DO MUNICIPIO DE SORRISO | 10601346000125005 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | VARZEA GRANDE | FUNDO MUNICIPAL DE SAUDE DE VARZEA GRANDE | 11364895000125006 | 399.381,00 | 0001 | 10301511985810001 |
+| MT | VILA RICA | FUNDO MUNICIPAL DE SAUDE DE VILA RICA - MT | 11310662000125004 | 399.381,00 | 0001 | 10301511985810001 |
+|  |  | TOTAL | 28 PROPOSTA(S) | 11.182.668,00 |  |  |

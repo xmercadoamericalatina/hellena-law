@@ -1,0 +1,1064 @@
+---
+titulo: "PORTARIA SGTES/MS Nº 174, DE 7 DE JANEIRO DE 2026"
+orgao: "Ministério da Saúde/Secretaria de Gestão do Trabalho e da Educação na Saúde"
+tipo: "Portaria"
+numero: "174"
+data: 2026-01-07
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 08/01/2026, seção 1, p. 190"
+data_publicacao: 2026-01-08
+edicao: "5"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-sgtes/ms-n-174-de-7-de-janeiro-de-2026-679867104"
+baixado_em: 2026-10-15
+---
+# PORTARIA SGTES/MS Nº 174, DE 7 DE JANEIRO DE 2026
+
+PORTARIA SGTES/MS Nº 174, DE 7 DE JANEIRO DE 2026
+
+Divulga o resultado final dos Programas de Residência Médica que concorreram às bolsas do Programa Nacional de Apoio à Formação de Médicos Especialistas em Áreas Estratégicas, nos termos do Edital SGTES/MS nº 6, de 16 de setembro de 2025.
+
+O Secretário de Gestão do Trabalho e da Educação na Saúde Substituto, no uso das atribuições que lhe confere a Portaria GM/MS nº 276, de 03 de abril de 2025, publicado no Diário Oficial da União nº 66, de 07 de abril de 2025, Seção 2, e nos termos do Edital SGTES/MS nº 6, de 16 de setembro de 2025, resolve:
+
+**Art. 1º** Divulgar, no Anexo I desta Portaria, o resultado final dos Programas de Residência Médica - PRM com adesões homologadas e respectivo número de bolsas concedidas pelo Ministério da Saúde, no âmbito do Programa Nacional de Apoio à Formação de Médicos Especialistas em Áreas Estratégicas (Pró-Residência).
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+JÉRZEY TIMÓTEO RIBEIRO SANTOS
+
+## ANEXO I
+
+| PROGRAMAS DE RESIDÊNCIA MÉDICA LOCALIZADOS EM ESTADOS DA AMAZÔNIA LEGAL |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| UF | CNPJ | RAZÃO SOCIAL | CÓDIGO MS | NOME DO PROGRAMA | ESPECIALIDADE ÁREA DE ATUAÇÃO - ANO ADICIONAL | BOLSAS CONCEDIDAS |
+| AM | 04803904000106 | CENTRO DE ENSINO SUPERIOR NILTON LINS | 17636 | Psiquiatria | Especialidade | 2 |
+| AM | 63678320000115 | FUNDACAO HOSPITALAR DE HEMATOLOGIA E HEMOTERAPIA DO AMAZONAS | 17825 | Hematologia e Hemoterapia Pediátrica | Área de atuação | 2 |
+| AM | 04378626000197 | FUNDACAO UNIVERSIDADE DO AMAZONAS | 16757 | Oftalmologia | Especialidade | 1 |
+| AM | 04378626000197 | FUNDACAO UNIVERSIDADE DO AMAZONAS | 16280 | Otorrinolaringologia | Especialidade | 1 |
+| AM | 04378626000197 | FUNDACAO UNIVERSIDADE DO AMAZONAS | 16281 | Urologia | Especialidade | 1 |
+| AM | 00697295000105 | SECRETARIA DE ESTADO DA SAUDE - SUSAM | 16934 | Psiquiatria | Especialidade | 3 |
+| AM | 00697295000105 | SECRETARIA DE ESTADO DA SAUDE - SUSAM | 16935 | Psiquiatria Forense | Área de atuação | 1 |
+| AP | 50956623000100 | FUNDACAO DE SAUDE AMAPAENSE - FUNDESA | 17193 | Anestesiologia | Especialidade | 2 |
+| AP | 50956623000100 | FUNDACAO DE SAUDE AMAPAENSE - FUNDESA | 17192 | Cardiologia | Especialidade | 2 |
+| AP | 50956623000100 | FUNDACAO DE SAUDE AMAPAENSE - FUNDESA | 17194 | Medicina Intensiva Pediátrica | Área de atuação | 2 |
+| AP | 50956623000100 | FUNDACAO DE SAUDE AMAPAENSE - FUNDESA | 17197 | Neonatologia | Área de atuação | 3 |
+| AP | 50956623000100 | FUNDACAO DE SAUDE AMAPAENSE - FUNDESA | 16927 | Pediatria | Especialidade | 2 |
+| AP | 50956623000100 | FUNDACAO DE SAUDE AMAPAENSE - FUNDESA | 16831 | Psiquiatria | Especialidade | 2 |
+| AP | 60975737000909 | SOCIEDADE BENEFICENTE SAO CAMILO | 17822 | Cirurgia do Aparelho Digestivo | Especialidade | 2 |
+| MA | 02973240000106 | ESTADO DO MARANHAO - SECRETARIA DE ESTADO DA SAUDE | 17304 | Medicina Intensiva Pediátrica | Área de atuação | 2 |
+| MA | 02973240000106 | ESTADO DO MARANHAO - SECRETARIA DE ESTADO DA SAUDE | 17301 | Pediatria | Especialidade | 2 |
+| MA | 05292982000237 | FUNDACAO ANTONIO JORGE DINO | 17849 | Mastologia | Especialidade | 1 |
+| MA | 06279103000208 | FUNDACAO UNIVERSIDADE FEDERAL DO MARANHAO | 16733 | Cirurgia Cardiovascular | Especialidade | 1 |
+| MA | 06279103000208 | FUNDACAO UNIVERSIDADE FEDERAL DO MARANHAO | 16356 | Ecocardiografia | Área de atuação | 1 |
+| MT | 03468485000130 | ASSOCIACAO DE PROTECAO A MATERNIDADE E A INFANCIA DE CUIABA | 17291 | Cirurgia Cardiovascular | Especialidade | 1 |
+| MT | 03468485000130 | ASSOCIACAO DE PROTECAO A MATERNIDADE E A INFANCIA DE CUIABA | 17293 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| MT | 03468485000130 | ASSOCIACAO DE PROTECAO A MATERNIDADE E A INFANCIA DE CUIABA | 17294 | Ortopedia e Traumatologia | Especialidade | 2 |
+| MT | 03468485000130 | ASSOCIACAO DE PROTECAO A MATERNIDADE E A INFANCIA DE CUIABA | 17075 | Otorrinolaringologia | Especialidade | 2 |
+| MT | 24672792000109 | ASSOCIACAO MATOGROSSENSE DE COMBATE AO CANCER | 16090 | Endoscopia | Especialidade | 2 |
+| MT | 03507415000225 | ESTADO DE MATO GROSSO | 17563 | Psiquiatria | Especialidade | 2 |
+| MT | 32944118000164 | FUNDACAO DE SAUDE COMUNITARIA DE SINOP | 16596 | Clínica Médica | Especialidade | 2 |
+| MT | 32944118000164 | FUNDACAO DE SAUDE COMUNITARIA DE SINOP | 16597 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| MT | 32944118000164 | FUNDACAO DE SAUDE COMUNITARIA DE SINOP | 16598 | Pediatria | Especialidade | 4 |
+| MT | 03178170000159 | FUNDACAO LUVERDENSE DE SAUDE | 16209 | Anestesiologia | Especialidade | 2 |
+| MT | 03178170000159 | FUNDACAO LUVERDENSE DE SAUDE | 16210 | Clínica Médica | Especialidade | 4 |
+| MT | 03178170000159 | FUNDACAO LUVERDENSE DE SAUDE | 16211 | Ortopedia e Traumatologia | Especialidade | 2 |
+| MT | 01367770000130 | FUNDACAO UNIVERSIDADE DO ESTADO DE MATO GROSSO | 17585 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| MT | 04441389000242 | FUNDO ESTADUAL DE SAUDE | 17571 | Cirurgia Geral | Especialidade | 1 |
+| MT | 04441389000242 | FUNDO ESTADUAL DE SAUDE | 17567 | Pediatria | Especialidade | 1 |
+| MT | 40182607000154 | INSTITUTO SAO LUCAS | 17637 | Cirurgia Cardiovascular | Especialidade | 1 |
+| MT | 57252971000227 | SECRETARIA DE ESTADO DE SAUDE DE MATO GROSSO - SES | 17287 | Ortopedia e Traumatologia | Especialidade | 3 |
+| PA | 22980973000177 | FUNDACAO PUBLICA ESTADUAL HOSPITAL DE CLNICAS GASPAR VIANNA - FHCGV | 17419 | Cardiologia | Especialidade | 2 |
+| PA | 04929345000185 | FUNDACAO SANTA CASA DE MISERICORDIA DO PARA | 16059 | Reumatologia | Especialidade | 2 |
+| PA | 10467921000112 | FUNDO MUNICIPAL DE SAUDE | 16612 | Clínica Médica | Especialidade | 1 |
+| PA | 10467921000112 | FUNDO MUNICIPAL DE SAUDE | 16611 | Medicina de Família e Comunidade | Especialidade | 1 |
+| PA | 10467921000112 | FUNDO MUNICIPAL DE SAUDE | 16613 | Pediatria | Especialidade | 1 |
+| PA | 83367326010575 | INSTITUICAO ADVENTISTA DE EDUCACAO E ASSISTENCIA SOCIAL NORTE BRASILEIRA | 17852 | Anestesiologia | Especialidade | 1 |
+| PA | 83367326010575 | INSTITUICAO ADVENTISTA DE EDUCACAO E ASSISTENCIA SOCIAL NORTE BRASILEIRA | 17853 | Cirurgia Geral | Especialidade | 1 |
+| PA | 83367326010575 | INSTITUICAO ADVENTISTA DE EDUCACAO E ASSISTENCIA SOCIAL NORTE BRASILEIRA | 17855 | Clínica Médica | Especialidade | 1 |
+| PA | 83367326010575 | INSTITUICAO ADVENTISTA DE EDUCACAO E ASSISTENCIA SOCIAL NORTE BRASILEIRA | 17857 | Medicina Intensiva | Especialidade | 1 |
+| PA | 83367326010575 | INSTITUICAO ADVENTISTA DE EDUCACAO E ASSISTENCIA SOCIAL NORTE BRASILEIRA | 17856 | Ortopedia e Traumatologia | Especialidade | 1 |
+| PA | 83367326010575 | INSTITUICAO ADVENTISTA DE EDUCACAO E ASSISTENCIA SOCIAL NORTE BRASILEIRA | 17854 | Radiologia e Diagnóstico por Imagem | Especialidade | 1 |
+| PA | 40307987000106 | INSTITUTO DE ENSINO E PESQUISA DO PARA - IEPPA | 16250 | Anestesiologia | Especialidade | 2 |
+| PA | 40307987000106 | INSTITUTO DE ENSINO E PESQUISA DO PARA - IEPPA | 16251 | Oftalmologia | Especialidade | 2 |
+| PA | 04955142000163 | INSTITUTO OFIR LOIOLA | 17791 | Cirurgia Geral | Especialidade | 2 |
+| PA | 04955142000163 | INSTITUTO OFIR LOIOLA | 17790 | Neurologia | Especialidade | 1 |
+| PA | 11941767000131 | SECRETARIA MUNICIPAL DE SAUDE DE ANANINDEUA | 17629 | Oftalmologia | Especialidade | 2 |
+| PA | 34860833000144 | UNIVERSIDADE DO ESTADO DO PARA UEP | 17272 | Cirurgia Oncológica | Especialidade | 2 |
+| PA | 34860833000144 | UNIVERSIDADE DO ESTADO DO PARA UEP | 17766 | Dermatologia | Especialidade | 2 |
+| PA | 34860833000144 | UNIVERSIDADE DO ESTADO DO PARA UEP | 17742 | Neurologia Pediátrica | Área de atuação | 2 |
+| PA | 34860833000144 | UNIVERSIDADE DO ESTADO DO PARA UEP | 17720 | Oftalmologia | Especialidade | 1 |
+| RO | 49150352001607 | FUNDACAO PIO XII | 17589 | Cirurgia Oncológica | Especialidade | 1 |
+| RO | 49150352001607 | FUNDACAO PIO XII | 17595 | Medicina Intensiva | Especialidade | 1 |
+| RO | 49150352001607 | FUNDACAO PIO XII | 17596 | Oncologia Clínica | Especialidade | 1 |
+| RO | 49150352001607 | FUNDACAO PIO XII | 17598 | Patologia | Especialidade | 1 |
+| RO | 11130180000142 | SOCIEDADE BENEFICENTE LATINO AMERICANO DA AMAZONIA - SBLAA | 17187 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| RR | 08240695000190 | UNIVERSIDADE ESTADUAL DE RORAIMA | 17590 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| TO | 25053117005395 | SECRETARIA DA SAUDE | 16416 | Cirurgia Cardiovascular | Especialidade | 2 |
+| TO | 25053117005395 | SECRETARIA DA SAUDE | 16414 | Cirurgia Geral | Especialidade | 2 |
+| TO | 25053117005395 | SECRETARIA DA SAUDE | 17725 | Ginecologia e Obstetrícia | Especialidade | 1 |
+| TO | 25053117005395 | SECRETARIA DA SAUDE | 17095 | Medicina de Família e Comunidade | Especialidade | 2 |
+| TO | 01637536000185 | UNIVERSIDADE ESTADUAL DO TOCANTINS - UNITINS | 17677 | Cirurgia Geral | Especialidade | 2 |
+| TO | 01637536000185 | UNIVERSIDADE ESTADUAL DO TOCANTINS - UNITINS | 17679 | Clínica Médica | Especialidade | 2 |
+| TO | 01637536000185 | UNIVERSIDADE ESTADUAL DO TOCANTINS - UNITINS | 17678 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| TO | 01637536000185 | UNIVERSIDADE ESTADUAL DO TOCANTINS - UNITINS | 17676 | Pediatria | Especialidade | 2 |
+| PROGRAMAS DE RESIDÊNCIA MÉDICA DE ESPECIALIDADES E ÁREAS DE ATUAÇÃO ESTRATÉGICAS PARA O SUS DE PRIORIDADE NACIONAL |  |  |  |  |  |  |
+| UF | CNPJ | RAZÃO SOCIAL | CÓDIGO MS | NOME DO PROGRAMA | ESPECIALIDADE ÁREA DE ATUAÇÃO - ANO ADICIONAL | BOLSAS TOTAIS CONCEDIDAS |
+| AL | 35642172000143 | CARVALHO BELTRAO SERVICOS DE SAUDE LTDA | 17599 | Anestesiologia | Especialidade | 2 |
+| AL | 35642172000143 | CARVALHO BELTRAO SERVICOS DE SAUDE LTDA | 17628 | Medicina Intensiva Pediátrica | Área de atuação | 1 |
+| AL | 35642172000143 | CARVALHO BELTRAO SERVICOS DE SAUDE LTDA | 17606 | Neurocirurgia | Especialidade | 1 |
+| AL | 48976924000154 | INSTITUTO BRASILEIRO DE SAUDE E PESQUISA CIENTIFICA | 17687 | Anestesiologia | Especialidade | 1 |
+| AL | 12200259000246 | SECRETARIA DE ESTADO DA SAUDE | 17582 | Anestesiologia | Especialidade | 3 |
+| AL | 12200259000408 | SECRETARIA DE ESTADO DA SAUDE | 17583 | Anestesiologia | Especialidade | 1 |
+| AL | 12200259000246 | SECRETARIA DE ESTADO DA SAUDE | 16034 | Medicina Intensiva Pediátrica | Área de atuação | 2 |
+| BA | 13937131002608 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 16320 | Medicina de Emergência | Especialidade | 3 |
+| BA | 13937131001890 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17352 | Neonatologia | Área de atuação | 3 |
+| BA | 13937131006263 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17456 | Neonatologia | Área de atuação | 2 |
+| BA | 13937131006263 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17470 | Neurocirurgia | Especialidade | 1 |
+| BA | 13937131005372 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 16314 | Neurologia Pediátrica | Área de atuação | 2 |
+| BA | 13937131006263 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17375 | Psiquiatria | Especialidade | 1 |
+| BA | 40637159000136 | FUNDACAO HOSPITALAR DE FEIRA DE SANTANA | 16182 | Neonatologia | Área de atuação | 3 |
+| BA | 05816630000152 | FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA | 17321 | Neonatologia | Área de atuação | 2 |
+| BA | 08576590000107 | FUNDO MUNICIPAL DE SAUDE DE FEIRA DE SANTANA | 16369 | Medicina de Emergência | Especialidade | 4 |
+| BA | 15153745000249 | SANTA CASA DE MISERICORDIA DA BAHIA | 16678 | Anestesiologia | Especialidade | 1 |
+| BA | 14349740000142 | SANTA CASA DE MISERICORDIA DE ITABUNA | 16263 | Anestesiologia | Especialidade | 3 |
+| CE | 03365403000122 | ASSOCIACAO IGREJA ADVENTISTA MISSIONARIA - AIAMIS | 17554 | Medicina de Emergência | Especialidade | 2 |
+| CE | 73695868000127 | ESCOLA DE SAUDE PUBLICA DO CEARA | 17003 | Patologia | Especialidade | 2 |
+| CE | 73695868000127 | ESCOLA DE SAUDE PUBLICA DO CEARA | 17005 | Psiquiatria | Especialidade | 4 |
+| CE | 73695868000127 | ESCOLA DE SAUDE PUBLICA DO CEARA | 17004 | Psiquiatria da Infância e Adolescência | Área de atuação | 2 |
+| CE | 05268526000251 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17059 | Anestesiologia | Especialidade | 3 |
+| CE | 05268526002467 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17069 | Cirurgia Oncológica | Especialidade | 2 |
+| CE | 05268526002467 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17104 | Oncologia Clínica | Especialidade | 2 |
+| CE | 07265515000162 | INSTITUTO DO CANCER DO CEARA | 17819 | Anestesiologia | Especialidade | 4 |
+| CE | 07265515000162 | INSTITUTO DO CANCER DO CEARA | 17804 | Cirurgia Oncológica | Especialidade | 1 |
+| CE | 07265515000162 | INSTITUTO DO CANCER DO CEARA | 17753 | Oncologia Clínica | Especialidade | 1 |
+| CE | 07954571001429 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 17823 | Anestesiologia | Especialidade | 3 |
+| CE | 04885197000144 | SECRETARIA MUNICIPAL DA SAUDE | 16862 | Psiquiatria | Especialidade | 4 |
+| CE | 60975737003509 | SOCIEDADE BENEFICENTE SAO CAMILO | 17795 | Neonatologia | Área de atuação | 1 |
+| DF | 00394700000108 | DISTRITO FEDERAL SECRETARIA DE SAUDE | 17843 | Medicina de Emergência | Especialidade | 10 |
+| ES | 28127926000242 | ASSOCIACAO EVANGELICA BENEFICENTE ESPIRITO-SANTENSE - AEBES | 16955 | Anestesiologia | Especialidade | 4 |
+| ES | 28127926000323 | ASSOCIACAO EVANGELICA BENEFICENTE ESPIRITO-SANTENSE - AEBES | 17089 | Anestesiologia | Especialidade | 4 |
+| ES | 27502715000107 | FUND SOCIAL RURAL DE COLATINA | 17016 | Anestesiologia | Especialidade | 4 |
+| ES | 27502715000107 | FUND SOCIAL RURAL DE COLATINA | 17022 | Cirurgia Oncológica | Especialidade | 1 |
+| ES | 27193705000129 | HOSPITAL EVANGELICO DE CACHOEIRO DE ITAPEMIRIM | 16357 | Cirurgia Oncológica | Especialidade | 1 |
+| ES | 27193705000129 | HOSPITAL EVANGELICO DE CACHOEIRO DE ITAPEMIRIM | 16358 | Oncologia Clínica | Especialidade | 1 |
+| ES | 27193705000129 | HOSPITAL EVANGELICO DE CACHOEIRO DE ITAPEMIRIM | 16359 | Radioterapia | Especialidade | 1 |
+| GO | 01585595000157 | ASSOCIACAO DE COMBATE AO CANCER EM GOIAS | 16410 | Patologia | Especialidade | 2 |
+| GO | 01619790000150 | SANTA CASA DE MISERICORDIA DE GOIANIA | 16495 | Oncologia Clínica | Especialidade | 2 |
+| MG | 21599824000108 | ASCOMCER - INSTITUTO DE SAUDE | 16543 | Anestesiologia | Especialidade | 2 |
+| MG | 25112574000182 | ASSOCIACAO BENEFICENTE BOM SAMARITANO | 17519 | Anestesiologia | Especialidade | 2 |
+| MG | 25112574000182 | ASSOCIACAO BENEFICENTE BOM SAMARITANO | 17525 | Cirurgia Oncológica | Especialidade | 2 |
+| MG | 17513235000180 | ASSOCIACAO MARIO PENNA | 17428 | Anestesiologia | Especialidade | 2 |
+| MG | 17513235000180 | ASSOCIACAO MARIO PENNA | 17432 | Cirurgia Oncológica | Especialidade | 1 |
+| MG | 17513235000180 | ASSOCIACAO MARIO PENNA | 17436 | Oncologia Clínica | Especialidade | 1 |
+| MG | 22709109000216 | BENEFICENCIA SOCIAL BOM SAMARITANO | 17542 | Anestesiologia | Especialidade | 2 |
+| MG | 19557487000136 | CENTRO BARBACENENSE DE ASSISTENCIA MEDICA E SOCIAL | 16042 | Anestesiologia | Especialidade | 1 |
+| MG | 08715327000151 | ESCOLA DE SAUDE PUBLICA DO ESTADO DE MINAS GERAIS | 17280 | Psiquiatria | Especialidade | 6 |
+| MG | 17200429000125 | FUNDACAO BENJAMIN GUIMARAES | 16604 | Oncologia Clínica | Especialidade | 1 |
+| MG | 17178203000175 | FUNDACAO EDUCACIONAL LUCAS MACHADO FELUMA | 16456 | Oncologia Clínica | Especialidade | 2 |
+| MG | 20146064000102 | FUNDACAO GERALDO CORREA | 16938 | Neurocirurgia | Especialidade | 1 |
+| MG | 13025354000132 | FUNDACAO HOSPITALAR SAO FRANCISCO DE ASSIS - FHSFA | 16316 | Neurocirurgia | Especialidade | 1 |
+| MG | 20611810000191 | FUNDACAO PERCIVAL FARQUHAR | 17524 | Anestesiologia | Especialidade | 2 |
+| MG | 20347027000162 | HOSPITAL NOSSA SENHORA DA PIEDADE | 16274 | Anestesiologia | Especialidade | 2 |
+| MG | 07749605000471 | INSTITUTO ANIMA SOCIESC DE INOVACAO, PESQUISA E CULTURA | 16580 | Medicina de Emergência | Especialidade | 2 |
+| MG | 26000523000121 | INSTITUTO BRASILEIRO DE GESTAO DA SAUDE | 16050 | Anestesiologia | Especialidade | 1 |
+| MG | 26000523000121 | INSTITUTO BRASILEIRO DE GESTAO DA SAUDE | 17646 | Anestesiologia | Especialidade | 1 |
+| MG | 26000523000121 | INSTITUTO BRASILEIRO DE GESTAO DA SAUDE | 16121 | Cirurgia Oncológica | Especialidade | 2 |
+| MG | 26000523000121 | INSTITUTO BRASILEIRO DE GESTAO DA SAUDE | 17649 | Cirurgia Oncológica | Especialidade | 2 |
+| MG | 26000523000121 | INSTITUTO BRASILEIRO DE GESTAO DA SAUDE | 16051 | Oncologia Clínica | Especialidade | 2 |
+| MG | 26000523000121 | INSTITUTO BRASILEIRO DE GESTAO DA SAUDE | 17650 | Oncologia Clínica | Especialidade | 2 |
+| MG | 22488241000245 | INSTITUTO DE SAUDE HSVP | 16557 | Medicina de Emergência | Especialidade | 2 |
+| MG | 23647209000147 | IRMANDADE DO HOSPITAL DA SANTA CASA DE POCOS DE CALDAS | 16429 | Medicina de Emergência | Especialidade | 2 |
+| MG | 18715508000131 | MUNICIPIO DE CONTAGEM | 16846 | Medicina Intensiva Pediátrica | Área de atuação | 2 |
+| MG | 17209891000193 | SANTA CASA DE MISERICORDIA DE BELO HORIZONTE | 17462 | Anestesiologia | Especialidade | 3 |
+| MG | 61699567002640 | SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA | 17798 | Anestesiologia | Especialidade | 2 |
+| MG | 61699567002640 | SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA | 17810 | Neonatologia | Área de atuação | 1 |
+| MG | 22675359000100 | UNIVERSIDADE ESTADUAL DE MONTES CLAROS | 17296 | Psiquiatria da Infância e Adolescência | Área de atuação | 2 |
+| MS | 03276524000106 | ASSOCIACAO BENEFICENTE SANTA CASA DE CAMPO GRANDE | 16434 | Neonatologia | Área de atuação | 2 |
+| MS | 03276524000106 | ASSOCIACAO BENEFICENTE SANTA CASA DE CAMPO GRANDE | 16435 | Neurocirurgia | Especialidade | 1 |
+| MS | 04311093001440 | CAIXA DE ASSISTENCIA DOS SERVIDORES DO ESTADO DE MATO GROSSO DO SUL | 16641 | Cirurgia Oncológica | Especialidade | 1 |
+| MS | 04311093001440 | CAIXA DE ASSISTENCIA DOS SERVIDORES DO ESTADO DE MATO GROSSO DO SUL | 16674 | Oncologia Clínica | Especialidade | 1 |
+| PB | 40980914000180 | FUNDACAO JOSE LEITE DE SOUZA | 17359 | Psiquiatria | Especialidade | 1 |
+| PB | 06101061000121 | FUNDACAO PEDRO AMERICO | 17340 | Oncologia Clínica | Especialidade | 2 |
+| PB | 06101061000121 | FUNDACAO PEDRO AMERICO | 17343 | Psiquiatria | Especialidade | 2 |
+| PB | 04827493000199 | FUNDO MUNICIPAL DE SAUDE | 16222 | Psiquiatria | Especialidade | 5 |
+| PB | 09084815000170 | MUNICIPIO DE PATOS | 16538 | Medicina de Emergência | Especialidade | 8 |
+| PB | 09084815000170 | MUNICIPIO DE PATOS | 16055 | Psiquiatria | Especialidade | 3 |
+| PB | 08778268000160 | SECRETARIA DE ESTADO DA SAUDE - SES | 16291 | Cirurgia Oncológica | Especialidade | 2 |
+| PB | 08778268000160 | SECRETARIA DE ESTADO DA SAUDE - SES | 16290 | Oncologia Clínica | Especialidade | 2 |
+| PB | 08778268000160 | SECRETARIA DE ESTADO DA SAUDE - SES | 16294 | Patologia | Especialidade | 2 |
+| PB | 08778268000160 | SECRETARIA DE ESTADO DA SAUDE - SES | 16293 | Radioterapia | Especialidade | 2 |
+| PE | 09767633000102 | FUNDACAO MANOEL DA SILVA ALMEIDA | 16739 | Medicina Intensiva Pediátrica | Área de atuação | 1 |
+| PE | 10583920000800 | HOSPITAL DO TRICENTENARIO | 17387 | Anestesiologia | Especialidade | 1 |
+| PE | 10583920000800 | HOSPITAL DO TRICENTENARIO | 17389 | Medicina Intensiva Pediátrica | Área de atuação | 2 |
+| PE | 10988301000129 | INSTITUTO DE MEDICINA INTEGRAL PROFESSOR FERNANDO FIGUEIRA - IMIP | 17316 | Oncologia Clínica | Especialidade | 1 |
+| PE | 10988301000129 | INSTITUTO DE MEDICINA INTEGRAL PROFESSOR FERNANDO FIGUEIRA - IMIP | 17318 | Patologia | Especialidade | 1 |
+| PE | 10988301000129 | INSTITUTO DE MEDICINA INTEGRAL PROFESSOR FERNANDO FIGUEIRA - IMIP | 17320 | Radioterapia | Especialidade | 1 |
+| PE | 10739225002323 | INSTITUTO SOCIAL DAS MEDIANEIRAS DA PAZ | 17410 | Medicina Intensiva Pediátrica | Área de atuação | 2 |
+| PE | 10739225002323 | INSTITUTO SOCIAL DAS MEDIANEIRAS DA PAZ | 17094 | Neurologia Pediátrica | Área de atuação | 2 |
+| PE | 10892164000124 | REAL HOSPITAL PORTUGUES DE BENEFICENCIA EM PERNAMBUCO | 16977 | Radioterapia | Especialidade | 2 |
+| PI | 15126437000224 | EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH | 16393 | Cirurgia Oncológica | Especialidade | 3 |
+| PI | 15126437000224 | EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH | 16386 | Radioterapia | Especialidade | 1 |
+| PI | 05522917002970 | FUNDACAO MUNICIPAL DE SAUDE | 17147 | Medicina de Emergência | Especialidade | 3 |
+| PR | 78613841000161 | ASSOCIACAO EVANGELICA BENEFICENTE DE LONDRINA | 17490 | Anestesiologia | Especialidade | 2 |
+| PR | 76591569000130 | ASSOCIACAO HOSPITALAR DE PROT INFANCIA DR RAUL CARNEIRO | 17020 | Neurologia Pediátrica | Área de atuação | 2 |
+| PR | 76659820000232 | ASSOCIACAO PARANAENSE DE CULTURA - APC | 17473 | Medicina de Emergência | Especialidade | 2 |
+| PR | 78350188000195 | FUNDACAO DA UNIVERSIDADE FEDERAL DO PARANA PARA O DESENVOLVIMENTO DA CIENCIA,TECNOLOGIA E DA CULTURA | 16945 | Anestesiologia | Especialidade | 2 |
+| PR | 78350188000195 | FUNDACAO DA UNIVERSIDADE FEDERAL DO PARANA PARA O DESENVOLVIMENTO DA CIENCIA,TECNOLOGIA E DA CULTURA | 16947 | Neonatologia | Área de atuação | 1 |
+| PR | 81190449000242 | FUNDACAO DE ESTUDOS DAS DOENCAS DO FIGADO - KOUTOULAS -RIBEIRO | 16071 | Cirurgia Oncológica | Especialidade | 1 |
+| PR | 09051532000122 | FUNDO MUNICIPAL DE SAUDE DE CASCAVEL | 16348 | Psiquiatria | Especialidade | 4 |
+| PR | 77893469000121 | HOSPITAL DE CARIDADE SAO VICENTE DE PAULO | 17407 | Cirurgia Oncológica | Especialidade | 2 |
+| PR | 77893469000121 | HOSPITAL DE CARIDADE SAO VICENTE DE PAULO | 17408 | Oncologia Clínica | Especialidade | 2 |
+| PR | 76562198000592 | HOSPITAL NOSSA SENHORA DAS GRACAS | 17326 | Cirurgia Oncológica | Especialidade | 2 |
+| PR | 76562198000240 | HOSPITAL NOSSA SENHORA DAS GRACAS | 17733 | Neonatologia | Área de atuação | 2 |
+| PR | 78633088000176 | INSTITUTO DE CANCER DE LONDRINA | 17129 | Cirurgia Oncológica | Especialidade | 3 |
+| PR | 78633088000176 | INSTITUTO DE CANCER DE LONDRINA | 17135 | Oncologia Clínica | Especialidade | 2 |
+| PR | 12651010000176 | INSTITUTO POLICLINICA PB | 16486 | Anestesiologia | Especialidade | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16200 | Anestesiologia | Especialidade | 9 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16205 | Medicina de Emergência | Especialidade | 2 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16631 | Medicina Intensiva Pediátrica | Área de atuação | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16197 | Neonatologia | Área de atuação | 4 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16194 | Neurocirurgia | Especialidade | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16634 | Patologia | Especialidade | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16204 | Psiquiatria da Infância e Adolescência | Área de atuação | 1 |
+| PR | 79115762000193 | IRMANDADE SANTA CASA DE MISERICORDIA DE MARINGA | 17382 | Neurocirurgia | Especialidade | 1 |
+| PR | 76416866003670 | SECRETARIA DE ESTADO DA SAUDE | 16988 | Anestesiologia | Especialidade | 2 |
+| PR | 76416866003750 | SECRETARIA DE ESTADO DA SAUDE | 17285 | Anestesiologia | Especialidade | 2 |
+| RJ | 28947885000150 | ASSOCIACAO FLUMINENSE DE ASSISTENCIA A MULHER A CRIANCA E AO IDOSO | 16024 | Anestesiologia | Especialidade | 2 |
+| RJ | 29640612000120 | CONFERENCIA SAO JOSE DO AVAI | 17705 | Anestesiologia | Especialidade | 1 |
+| RJ | 32190092000378 | FESO FUNDACAO EDUCACIONAL SERRA DOS ORGAOS | 16589 | Anestesiologia | Especialidade | 2 |
+| RJ | 32410037000184 | FUNDACAO EDUCACIONAL SEVERINO SOMBRA | 16335 | Anestesiologia | Especialidade | 2 |
+| RJ | 32410037000184 | FUNDACAO EDUCACIONAL SEVERINO SOMBRA | 16336 | Cirurgia Oncológica | Especialidade | 2 |
+| RJ | 32504995000700 | FUNDACAO OSWALDO ARANHA | 17437 | Anestesiologia | Especialidade | 2 |
+| RJ | 32504995000700 | FUNDACAO OSWALDO ARANHA | 17510 | Medicina Intensiva Pediátrica | Área de atuação | 2 |
+| RJ | 32504995000700 | FUNDACAO OSWALDO ARANHA | 17518 | Oncologia Clínica | Especialidade | 2 |
+| RJ | 07265515000758 | INSTITUTO DO CANCER DO CEARA | 16085 | Anestesiologia | Especialidade | 2 |
+| RJ | 29138328000150 | MUNICIPIO DE DUQUE DE CAXIAS | 17124 | Anestesiologia | Especialidade | 2 |
+| RJ | 29468055001346 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE | 16323 | Anestesiologia | Especialidade | 2 |
+| RJ | 29468055000102 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE | 17163 | Anestesiologia | Especialidade | 7 |
+| RJ | 29468055000102 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE | 16564 | Medicina de Emergência | Especialidade | 5 |
+| RJ | 29468055000293 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE | 16559 | Medicina Intensiva Pediátrica | Área de atuação | 3 |
+| RJ | 29468055000102 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE | 16279 | Neonatologia | Área de atuação | 2 |
+| RJ | 29468055000374 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE | 16322 | Neurocirurgia | Especialidade | 1 |
+| RJ | 29468055000293 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE | 17170 | Neurocirurgia | Especialidade | 1 |
+| RJ | 28683712000171 | SANTA CASA DE MISERICORDIA DE BARRA MANSA | 16089 | Anestesiologia | Especialidade | 1 |
+| RJ | 33540014000157 | UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO | 16382 | Anestesiologia | Especialidade | 2 |
+| RJ | 33540014000157 | UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO | 16729 | Neonatologia | Área de atuação | 3 |
+| RJ | 33540014000157 | UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO | 16730 | Oncologia Clínica | Especialidade | 2 |
+| RN | 04026039000139 | LIGA MOSSOROENSE DE ESTUDOS E COMBATE AO CANCER | 16933 | Oncologia Clínica | Especialidade | 2 |
+| RS | 88665914000112 | ASSOCIACAO CULTURAL E CIENTIFICA VIRVI RAMOS | 17346 | Anestesiologia | Especialidade | 1 |
+| RS | 89124630000181 | ASSOCIACAO DAS DAMAS DE CARIDADE | 17114 | Anestesiologia | Especialidade | 2 |
+| RS | 87547444000120 | ASSOCIACAO DR BARTHOLOMEU TACCHINI | 16157 | Neonatologia | Área de atuação | 1 |
+| RS | 90730508000138 | ASSOCIACAO HOSPITAL DE CARIDADE IJUI | 17429 | Oncologia Clínica | Especialidade | 1 |
+| RS | 90730508000138 | ASSOCIACAO HOSPITAL DE CARIDADE IJUI | 17777 | Oncologia Clínica | Especialidade | 3 |
+| RS | 90730508000138 | ASSOCIACAO HOSPITAL DE CARIDADE IJUI | 17422 | Radioterapia | Especialidade | 1 |
+| RS | 90730508000138 | ASSOCIACAO HOSPITAL DE CARIDADE IJUI | 17778 | Radioterapia | Especialidade | 1 |
+| RS | 92238914000103 | ASSOCIACAO PELOTENSE DE ASSISTENCIA E CULTURA | 16233 | Anestesiologia | Especialidade | 3 |
+| RS | 89421259000110 | FUNDACAO HOSPITALAR SANTA TEREZINHA DE ERECHIM | 16342 | Anestesiologia | Especialidade | 1 |
+| RS | 04008342000109 | FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES | 17011 | Medicina de Emergência | Especialidade | 3 |
+| RS | 87455531000157 | MUNICIPIO DE PELOTAS | 17087 | Medicina de Emergência | Especialidade | 5 |
+| RS | 91162511000165 | SOCIEDADE BENEFICENCIA E CARIDADE DE LAJEADO | 16185 | Anestesiologia | Especialidade | 3 |
+| SC | 60922168005226 | ASSOCIACAO CONGREGACAO DE SANTA CATARINA | 16533 | Neurocirurgia | Especialidade | 1 |
+| SC | 73433427000157 | FUNDACAO DE SAUDE DO ALTO VALE DO ITAJAI | 16576 | Anestesiologia | Especialidade | 2 |
+| SC | 82654088000120 | FUNDACAO HOSPITALAR DE BLUMENAU | 16212 | Cirurgia Oncológica | Especialidade | 2 |
+| SC | 84592369000988 | FUNDACAO UNIVERSIDADE DO OESTE DE SANTA CATARINA | 16307 | Neurocirurgia | Especialidade | 1 |
+| SC | 82951245001050 | SECRETARIA DE ESTADO DA SAUDE | 16398 | Medicina de Emergência | Especialidade | 2 |
+| SC | 82951245002536 | SECRETARIA DE ESTADO DA SAUDE | 16105 | Neonatologia | Área de atuação | 2 |
+| SC | 82951245000835 | SECRETARIA DE ESTADO DA SAUDE | 16111 | Neurocirurgia | Especialidade | 1 |
+| SC | 82951245002455 | SECRETARIA DE ESTADO DA SAUDE | 16761 | Psiquiatria | Especialidade | 2 |
+| SC | 84942887000127 | SOCIEDADE MAE DA DIVINA PROVIDENCIA | 16929 | Anestesiologia | Especialidade | 1 |
+| SC | 83899526000182 | UNIVERSIDADE FEDERAL DE SANTA CATARINA | 16915 | Psiquiatria | Especialidade | 2 |
+| SE | 13025507000141 | ASSOCIACAO ARACAJUANA DE BENEFICENCIA | 17724 | Medicina Intensiva Pediátrica | Área de atuação | 2 |
+| SE | 13016332000106 | FUNDACAO DE BENEFICENCIA HOSPITAL DE CIRURGIA | 16304 | Psiquiatria | Especialidade | 2 |
+| SE | 49150352004703 | FUNDACAO PIO XII | 16044 | Cirurgia Oncológica | Especialidade | 3 |
+| SE | 49150352004703 | FUNDACAO PIO XII | 16045 | Oncologia Clínica | Especialidade | 2 |
+| SE | 49150352004703 | FUNDACAO PIO XII | 16046 | Patologia | Especialidade | 2 |
+| SE | 49150352004703 | FUNDACAO PIO XII | 16054 | Radioterapia | Especialidade | 1 |
+| SP | 50460351000153 | ASSOCIACAO CASA FONTE DA VIDA | 17505 | Anestesiologia | Especialidade | 1 |
+| SP | 50460351000153 | ASSOCIACAO CASA FONTE DA VIDA | 17787 | Anestesiologia | Especialidade | 1 |
+| SP | 50460351000153 | ASSOCIACAO CASA FONTE DA VIDA | 17507 | Neonatologia | Área de atuação | 2 |
+| SP | 50460351000153 | ASSOCIACAO CASA FONTE DA VIDA | 17788 | Neonatologia | Área de atuação | 2 |
+| SP | 43374768000138 | ASSOCIACAO EDUCACIONAL NOVE DE JULHO | 16079 | Psiquiatria | Especialidade | 2 |
+| SP | 53221255005100 | ASSOCIACAO LAR SAO FRANCISCO DE ASSIS NA PROVIDENCIA DE DEUS | 17746 | Psiquiatria | Especialidade | 1 |
+| SP | 07855811000113 | ASSOCIACAO SAUDE, DIREITOS E DEVERES A TODOS | 17199 | Anestesiologia | Especialidade | 3 |
+| SP | 07855811000113 | ASSOCIACAO SAUDE, DIREITOS E DEVERES A TODOS | 17202 | Medicina de Emergência | Especialidade | 3 |
+| SP | 50985266000109 | FACULDADE DE MEDICINA DE JUNDIAI | 16031 | Medicina Intensiva Pediátrica | Área de atuação | 1 |
+| SP | 50985266000109 | FACULDADE DE MEDICINA DE JUNDIAI | 16030 | Neonatologia | Área de atuação | 1 |
+| SP | 00326036000160 | FACULDADE DE MEDICINA DE SAO JOSE DO RIO PRETO | 16705 | Medicina Intensiva Pediátrica | Área de atuação | 2 |
+| SP | 50753755000135 | FUNDACAO DOUTOR AMARAL CARVALHO | 16191 | Radioterapia | Especialidade | 1 |
+| SP | 60499365000215 | FUNDACAO LEONOR DE BARROS CAMARGO | 17709 | Anestesiologia | Especialidade | 1 |
+| SP | 50119585000131 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE ITATIBA | 16093 | Anestesiologia | Especialidade | 2 |
+| SP | 50119585000131 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE ITATIBA | 16095 | Medicina de Emergência | Especialidade | 2 |
+| SP | 51473692000126 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE LIMEIRA | 17446 | Neurocirurgia | Especialidade | 1 |
+| SP | 52049244000162 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE MARILIA | 17707 | Oncologia Clínica | Especialidade | 1 |
+| SP | 59981712000181 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE S J R PRETO | 17332 | Anestesiologia | Especialidade | 2 |
+| SP | 59981712000181 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE S J R PRETO | 16823 | Neurocirurgia | Especialidade | 1 |
+| SP | 59610394000142 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE SAO CARLOS | 16308 | Anestesiologia | Especialidade | 4 |
+| SP | 45186053000187 | IRMANDADE DA STA CASA DE MISERICORDIA DE S J DOS CAMPOS | 16866 | Anestesiologia | Especialidade | 4 |
+| SP | 45186053000187 | IRMANDADE DA STA CASA DE MISERICORDIA DE S J DOS CAMPOS | 16864 | Oncologia Clínica | Especialidade | 2 |
+| SP | 48547806000120 | IRMANDADE SENHOR DOS PASSOS E SANTA CASA DE MISERICORDIA DE GUARATINGUETA | 17270 | Neonatologia | Área de atuação | 2 |
+| SP | 45751435000106 | MUNICIPIO DE PAULINIA | 16546 | Anestesiologia | Especialidade | 1 |
+| SP | 45751435000106 | MUNICIPIO DE PAULINIA | 17762 | Anestesiologia | Especialidade | 1 |
+| SP | 46341038000129 | MUNICIPIO DE PIRACICABA | 16971 | Psiquiatria | Especialidade | 2 |
+| SP | 58200015000183 | MUNICIPIO DE SANTOS | 17729 | Psiquiatria | Especialidade | 4 |
+| SP | 43751502000167 | SANTA CASA DE MISERICORDIA DE ARACATUBA | 16265 | Anestesiologia | Especialidade | 3 |
+| SP | 44364826000105 | SANTA CASA DE MISERICORDIA DE ASSIS | 16461 | Anestesiologia | Especialidade | 1 |
+| SP | 72189582000107 | SANTA CASA DE MISERICORDIA DE TATUI | 17153 | Psiquiatria | Especialidade | 1 |
+| SP | 72957814000120 | SANTA CASA DE MISERICORDIA DE VOTUPORANGA | 16655 | Medicina de Emergência | Especialidade | 3 |
+| SP | 46374500013849 | SECRETARIA DE ESTADO DA SAUDE | 16255 | Anestesiologia | Especialidade | 2 |
+| SP | 46374500014730 | SECRETARIA DE ESTADO DA SAUDE | 16171 | Medicina Intensiva Pediátrica | Área de atuação | 1 |
+| SP | 46392148003216 | SECRETARIA MUNICIPAL DA SAUDE | 17079 | Anestesiologia | Especialidade | 4 |
+| SP | 46182648000127 | SECRETARIA MUNICIPAL DE SAUDE | 16728 | Psiquiatria | Especialidade | 3 |
+| SP | 61590410000124 | SOCIEDADE BENEFICENTE DE SENHORAS - HOSPITAL SIRIO LIBANES | 16926 | Oncologia Clínica | Especialidade | 2 |
+| SP | 55990451000105 | SOCIEDADE PORTUGUESA DE BENEFICENCIA | 17120 | Cirurgia Oncológica | Especialidade | 1 |
+| SP | 55990451000105 | SOCIEDADE PORTUGUESA DE BENEFICENCIA | 17102 | Oncologia Clínica | Especialidade | 2 |
+| SP | 61699567007448 | SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA | 16644 | Oncologia Clínica | Especialidade | 2 |
+| SP | 58250689001245 | UNIAO SOCIAL CAMILIANA | 17327 | Anestesiologia | Especialidade | 3 |
+| SP | 63025530013605 | UNIVERSIDADE DE SAO PAULO | 17248 | Medicina de Emergência | Especialidade | 4 |
+| SP | 63025530013605 | UNIVERSIDADE DE SAO PAULO | 17251 | Medicina Intensiva Pediátrica | Área de atuação | 3 |
+| SP | 45176153000122 | UNIVERSIDADE DE TAUBATE | 16237 | Anestesiologia | Especialidade | 2 |
+| PROGRAMAS DE RESIDÊNCIA MÉDICA DE ESPECIALIDADES, ÁREAS DE ATUAÇÃO E ANOS ADICIONAIS ESTRATÉGICOS PARA O SUS DE PRIORIDADE REGIONAL |  |  |  |  |  |  |
+| UF | CNPJ | RAZÃO SOCIAL | CÓDIGO MS | NOME DO PROGRAMA | ESPECIALIDADE ÁREA DE ATUAÇÃO - ANO ADICIONAL | BOLSAS TOTAIS CONCEDIDAS |
+| AL | 35642172000143 | CARVALHO BELTRAO SERVICOS DE SAUDE LTDA | 17616 | Cardiologia | Especialidade | 2 |
+| AL | 35642172000143 | CARVALHO BELTRAO SERVICOS DE SAUDE LTDA | 17604 | Cirurgia Geral | Especialidade | 1 |
+| AL | 35642172000143 | CARVALHO BELTRAO SERVICOS DE SAUDE LTDA | 17611 | Cirurgia Vascular | Especialidade | 1 |
+| AL | 35642172000143 | CARVALHO BELTRAO SERVICOS DE SAUDE LTDA | 17609 | Ginecologia e Obstetrícia | Especialidade | 1 |
+| AL | 35642172000143 | CARVALHO BELTRAO SERVICOS DE SAUDE LTDA | 17614 | Medicina Intensiva | Especialidade | 1 |
+| AL | 35642172000143 | CARVALHO BELTRAO SERVICOS DE SAUDE LTDA | 17610 | Ortopedia e Traumatologia | Especialidade | 1 |
+| AL | 35642172000143 | CARVALHO BELTRAO SERVICOS DE SAUDE LTDA | 17615 | Urologia | Especialidade | 1 |
+| AL | 48976924000154 | INSTITUTO BRASILEIRO DE SAUDE E PESQUISA CIENTIFICA | 17752 | Cirurgia Geral | Especialidade | 1 |
+| AL | 48976924000154 | INSTITUTO BRASILEIRO DE SAUDE E PESQUISA CIENTIFICA | 17689 | Clínica Médica | Especialidade | 1 |
+| AL | 48976924000154 | INSTITUTO BRASILEIRO DE SAUDE E PESQUISA CIENTIFICA | 17690 | Ortopedia e Traumatologia | Especialidade | 1 |
+| AL | 44563716000687 | INSTITUTO NACIONAL DE PESQUISA E GESTAO EM SAUDE - INSAUDE | 17053 | Pediatria | Especialidade | 3 |
+| AL | 12737680000100 | SANTA CASA DE MISERICORDIA DE SAO MIGUEL DOS CAMPOS | 16332 | Clínica Médica | Especialidade | 2 |
+| AL | 12200259000327 | SECRETARIA DE ESTADO DA SAUDE | 16156 | Cardiologia | Especialidade | 2 |
+| AL | 12200259000327 | SECRETARIA DE ESTADO DA SAUDE | 16158 | Cirurgia Cardiovascular | Especialidade | 1 |
+| AL | 12200259000246 | SECRETARIA DE ESTADO DA SAUDE | 16065 | Cirurgia Geral | Especialidade | 1 |
+| AL | 12200259000408 | SECRETARIA DE ESTADO DA SAUDE | 17367 | Cirurgia Geral | Especialidade | 1 |
+| AL | 12200259000327 | SECRETARIA DE ESTADO DA SAUDE | 16160 | Hematologia e Hemoterapia | Especialidade | 2 |
+| AL | 12200259000246 | SECRETARIA DE ESTADO DA SAUDE | 16063 | Neurologia | Especialidade | 1 |
+| AL | 12200259000246 | SECRETARIA DE ESTADO DA SAUDE | 16064 | Ortopedia e Traumatologia | Especialidade | 1 |
+| AL | 12200259000408 | SECRETARIA DE ESTADO DA SAUDE | 17365 | Ortopedia e Traumatologia | Especialidade | 1 |
+| AL | 00204125000133 | SECRETARIA MUNICIPAL DE SAUDE | 17150 | Cardiologia | Especialidade | 4 |
+| AL | 00204125000133 | SECRETARIA MUNICIPAL DE SAUDE | 17149 | Cirurgia Cardiovascular | Especialidade | 1 |
+| AL | 00204125000133 | SECRETARIA MUNICIPAL DE SAUDE | 17127 | Clínica Médica | Especialidade | 2 |
+| AL | 24177305000131 | SOCIEDADE BENEFICENTE NOSSA SENHORA DO BOM CONSELHO | 17697 | Cirurgia Geral | Especialidade | 1 |
+| AL | 24177305000131 | SOCIEDADE BENEFICENTE NOSSA SENHORA DO BOM CONSELHO | 17704 | Clínica Médica | Especialidade | 1 |
+| AL | 24177305000131 | SOCIEDADE BENEFICENTE NOSSA SENHORA DO BOM CONSELHO | 17698 | Ginecologia e Obstetrícia | Especialidade | 1 |
+| AL | 24177305000131 | SOCIEDADE BENEFICENTE NOSSA SENHORA DO BOM CONSELHO | 17695 | Pediatria | Especialidade | 1 |
+| BA | 15178551000389 | ASSOCIACAO OBRAS SOCIAIS IRMA DULCE | 16737 | Clínica Médica | Especialidade | 2 |
+| BA | 15178551000117 | ASSOCIACAO OBRAS SOCIAIS IRMA DULCE | 16889 | Geriatria | Especialidade | 1 |
+| BA | 15178551000389 | ASSOCIACAO OBRAS SOCIAIS IRMA DULCE | 16738 | Pediatria | Especialidade | 2 |
+| BA | 13937131007901 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 16863 | Cardiologia | Especialidade | 2 |
+| BA | 13937131007901 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 16789 | Cirurgia Geral | Especialidade | 3 |
+| BA | 13937131006263 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17360 | Cirurgia Geral | Especialidade | 1 |
+| BA | 13937131002438 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17624 | Cirurgia Geral | Especialidade | 2 |
+| BA | 13937131007901 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 16790 | Clínica Médica | Especialidade | 4 |
+| BA | 13937131004058 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17040 | Clínica Médica | Especialidade | 2 |
+| BA | 13937131006778 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17324 | Clínica Médica | Especialidade | 2 |
+| BA | 13937131006263 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17369 | Clínica Médica | Especialidade | 2 |
+| BA | 13937131000303 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17010 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| BA | 13937131007669 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17000 | Medicina Física e Reabilitação | Especialidade | 2 |
+| BA | 13937131002608 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 16226 | Medicina Intensiva | Especialidade | 1 |
+| BA | 13937131005372 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 16289 | Medicina Intensiva | Especialidade | 2 |
+| BA | 13937131007901 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 16791 | Medicina Intensiva | Especialidade | 2 |
+| BA | 13937131004058 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17051 | Medicina Intensiva | Especialidade | 2 |
+| BA | 13937131002608 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 16677 | Neurologia | Especialidade | 1 |
+| BA | 13937131007669 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17056 | Ortopedia e Traumatologia | Especialidade | 3 |
+| BA | 13937131006263 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17374 | Ortopedia e Traumatologia | Especialidade | 1 |
+| BA | 13937131004058 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17049 | Pediatria | Especialidade | 2 |
+| BA | 13937131006778 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17323 | Pediatria | Especialidade | 2 |
+| BA | 13937131005372 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 16745 | Urologia | Especialidade | 2 |
+| BA | 02762633000162 | FASI FUNDACAO DE ATENCAO A SAUDE DE ITABUNA | 16898 | Cirurgia Geral | Especialidade | 1 |
+| BA | 05413531000120 | FUNDACAO ABM DE PESQUISA E EXTENSAO NA AREA DA SAUDE - FABAMED | 16941 | Clínica Médica | Especialidade | 2 |
+| BA | 15175839000138 | FUNDACAO COLOMBO SPINOLA | 17207 | Oftalmologia | Especialidade | 1 |
+| BA | 05816630000152 | FUNDO ESTADUAL DE SAUDE DO ESTADO DA BAHIA | 17319 | Pediatria | Especialidade | 4 |
+| BA | 07133125000139 | INSTITUTO FERNANDO FILGUEIRAS - IFF | 16956 | Neurologia | Especialidade | 3 |
+| BA | 15153745000249 | SANTA CASA DE MISERICORDIA DA BAHIA | 16954 | Hematologia e Hemoterapia | Especialidade | 1 |
+| BA | 15153745000249 | SANTA CASA DE MISERICORDIA DA BAHIA | 16138 | Neurologia | Especialidade | 1 |
+| BA | 15093966000350 | SANTA CASA DE MISERICORDIA DE RUY BARBOSA | 16593 | Cirurgia Geral | Especialidade | 2 |
+| BA | 15093966000350 | SANTA CASA DE MISERICORDIA DE RUY BARBOSA | 16595 | Medicina Intensiva | Especialidade | 4 |
+| BA | 15093966000350 | SANTA CASA DE MISERICORDIA DE RUY BARBOSA | 16813 | Ortopedia e Traumatologia | Especialidade | 2 |
+| CE | 03365403000122 | ASSOCIACAO IGREJA ADVENTISTA MISSIONARIA - AIAMIS | 17552 | Cirurgia Geral | Especialidade | 1 |
+| CE | 03365403001285 | ASSOCIACAO IGREJA ADVENTISTA MISSIONARIA - AIAMIS | 17130 | Clínica Médica | Especialidade | 2 |
+| CE | 03365403000122 | ASSOCIACAO IGREJA ADVENTISTA MISSIONARIA - AIAMIS | 17553 | Clínica Médica | Especialidade | 1 |
+| CE | 03365403000122 | ASSOCIACAO IGREJA ADVENTISTA MISSIONARIA - AIAMIS | 17551 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| CE | 03365403001285 | ASSOCIACAO IGREJA ADVENTISTA MISSIONARIA - AIAMIS | 17121 | Medicina de Família e Comunidade | Especialidade | 6 |
+| CE | 03365403000122 | ASSOCIACAO IGREJA ADVENTISTA MISSIONARIA - AIAMIS | 17556 | Medicina de Família e Comunidade | Especialidade | 5 |
+| CE | 73695868000127 | ESCOLA DE SAUDE PUBLICA DO CEARA | 17006 | Cirurgia Geral | Especialidade | 1 |
+| CE | 05268526001908 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17009 | Cirurgia Geral | Especialidade | 2 |
+| CE | 05268526000170 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17018 | Cirurgia Geral | Especialidade | 2 |
+| CE | 05268526001657 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17045 | Cirurgia Geral | Especialidade | 4 |
+| CE | 05268526002467 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17068 | Cirurgia Geral | Especialidade | 6 |
+| CE | 05268526002467 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17071 | Cirurgia Vascular | Especialidade | 3 |
+| CE | 05268526000251 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17061 | Clínica Médica | Especialidade | 4 |
+| CE | 05268526000847 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17062 | Clínica Médica | Especialidade | 2 |
+| CE | 05268526002467 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17072 | Clínica Médica | Especialidade | 6 |
+| CE | 05268526002467 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17078 | Geriatria | Especialidade | 2 |
+| CE | 05268526002467 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17080 | Hematologia e Hemoterapia | Especialidade | 2 |
+| CE | 05268526002467 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17090 | Medicina Intensiva | Especialidade | 3 |
+| CE | 05268526000170 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17820 | Medicina Intensiva | Especialidade | 1 |
+| CE | 05268526002467 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17103 | Medicina Paliativa | Área de atuação | 2 |
+| CE | 05268526002467 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17107 | Ortopedia e Traumatologia | Especialidade | 4 |
+| CE | 05268526001908 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17012 | Otorrinolaringologia | Especialidade | 2 |
+| CE | 05268526000170 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17817 | Pediatria | Especialidade | 3 |
+| CE | 05268526002467 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17111 | Urologia | Especialidade | 2 |
+| CE | 07265515000162 | INSTITUTO DO CANCER DO CEARA | 17814 | Mastologia | Especialidade | 1 |
+| CE | 06272659000183 | INSTITUTO MADRE TERESA DE APOIO A VIDA | 16423 | Cirurgia Geral | Especialidade | 2 |
+| CE | 07954571001429 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 17112 | Clínica Médica | Especialidade | 4 |
+| CE | 07954571003987 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 17801 | Clínica Médica | Especialidade | 4 |
+| CE | 07954571001429 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 17827 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| CE | 07954571001429 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 17826 | Neurologia | Especialidade | 3 |
+| CE | 07954571001429 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 17828 | Oftalmologia | Especialidade | 2 |
+| CE | 07954571001429 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 17118 | Ortopedia e Traumatologia | Especialidade | 1 |
+| CE | 07954571001429 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 17829 | Otorrinolaringologia | Especialidade | 3 |
+| CE | 04885197000144 | SECRETARIA MUNICIPAL DA SAUDE | 16776 | Clínica Médica | Especialidade | 4 |
+| CE | 60975737003509 | SOCIEDADE BENEFICENTE SAO CAMILO | 17816 | Cirurgia Geral | Especialidade | 2 |
+| CE | 60975737005463 | SOCIEDADE BENEFICENTE SAO CAMILO | 17818 | Clínica Médica | Especialidade | 2 |
+| CE | 60975737005463 | SOCIEDADE BENEFICENTE SAO CAMILO | 17815 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| CE | 60975737005463 | SOCIEDADE BENEFICENTE SAO CAMILO | 17812 | Pediatria | Especialidade | 2 |
+| DF | 00394700000108 | DISTRITO FEDERAL SECRETARIA DE SAUDE | 17844 | Cardiologia | Especialidade | 4 |
+| ES | 28127926000161 | ASSOCIACAO EVANGELICA BENEFICENTE ESPIRITO-SANTENSE - AEBES | 16819 | Oftalmologia | Especialidade | 2 |
+| ES | 28137925000106 | ASSOCIACAO FEMININA DE EDUCACAO E COMBATE AO CANCER | 17498 | Clínica Médica | Especialidade | 3 |
+| ES | 28137925000106 | ASSOCIACAO FEMININA DE EDUCACAO E COMBATE AO CANCER | 17491 | Medicina Paliativa | Área de atuação | 2 |
+| ES | 27502715000107 | FUND SOCIAL RURAL DE COLATINA | 17019 | Cardiologia | Especialidade | 2 |
+| ES | 27502715000107 | FUND SOCIAL RURAL DE COLATINA | 17024 | Cirurgia Vascular | Especialidade | 2 |
+| ES | 27502715000107 | FUND SOCIAL RURAL DE COLATINA | 17027 | Clínica Médica | Especialidade | 4 |
+| ES | 27502715000107 | FUND SOCIAL RURAL DE COLATINA | 17028 | Ginecologia e Obstetrícia | Especialidade | 6 |
+| ES | 27502715000107 | FUND SOCIAL RURAL DE COLATINA | 17031 | Medicina de Família e Comunidade | Especialidade | 10 |
+| ES | 27502715000107 | FUND SOCIAL RURAL DE COLATINA | 17030 | Medicina Intensiva | Especialidade | 2 |
+| ES | 27502715000107 | FUND SOCIAL RURAL DE COLATINA | 17032 | Pediatria | Especialidade | 10 |
+| ES | 27193705000129 | HOSPITAL EVANGELICO DE CACHOEIRO DE ITAPEMIRIM | 16360 | Oftalmologia | Especialidade | 1 |
+| ES | 27192590000158 | HOSPITAL INFANTIL FRANCISCO DE ASSIS | 16257 | Clínica Médica | Especialidade | 6 |
+| ES | 27192590000158 | HOSPITAL INFANTIL FRANCISCO DE ASSIS | 16406 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| ES | 27192590000158 | HOSPITAL INFANTIL FRANCISCO DE ASSIS | 16405 | Pediatria | Especialidade | 2 |
+| ES | 24551859000157 | INSTITUTO DE DESENVOLVIMENTO SUSTENTAVEL, EDUCACAO, GESTAO E SAUDE IDEGES | 16215 | Medicina de Família e Comunidade | Especialidade | 8 |
+| ES | 28141190000267 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE VITORIA | 17277 | Cardiologia | Especialidade | 1 |
+| ES | 28141190000267 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE VITORIA | 17274 | Urologia | Especialidade | 2 |
+| ES | 27187087000104 | SANTA CASA DE MISERICORDIA DE CACHOEIRO DE ITAPEMIRIM | 16574 | Cirurgia Geral | Especialidade | 2 |
+| GO | 01585595000157 | ASSOCIACAO DE COMBATE AO CANCER EM GOIAS | 16409 | Hematologia e Hemoterapia | Especialidade | 1 |
+| GO | 05029600000368 | ASSOCIACAO DE GESTAO, INOVACAO E RESULTADOS EM SAUDE | 16443 | Cardiologia | Especialidade | 1 |
+| GO | 01060102000165 | ASSOCIACAO EDUCATIVA EVANGELICA | 16491 | Oftalmologia | Especialidade | 2 |
+| GO | 01381151000108 | ASSOCIACAO HOSPITAL SAO PIO X | 17289 | Clínica Médica | Especialidade | 2 |
+| GO | 36321788000185 | ASSOCIACAO PAI ETERNO CONTRA O CANCER - APECC | 17273 | Medicina de Família e Comunidade | Especialidade | 1 |
+| GO | 02600740000194 | FUNDACAO BANCO DE OLHOS DE GOIAS | 16239 | Oftalmologia | Especialidade | 2 |
+| GO | 01619790000150 | SANTA CASA DE MISERICORDIA DE GOIANIA | 16496 | Clínica Médica | Especialidade | 4 |
+| GO | 02529964000742 | SECRETARIA DE ESTADO DA SAUDE | 16588 | Cardiologia | Especialidade | 1 |
+| GO | 02529964000742 | SECRETARIA DE ESTADO DA SAUDE | 16666 | Geriatria | Especialidade | 4 |
+| MG | 21599824000108 | ASCOMCER - INSTITUTO DE SAUDE | 16545 | Cirurgia Geral | Especialidade | 2 |
+| MG | 21599824000108 | ASCOMCER - INSTITUTO DE SAUDE | 16544 | Clínica Médica | Especialidade | 2 |
+| MG | 25112574000182 | ASSOCIACAO BENEFICENTE BOM SAMARITANO | 17523 | Cirurgia Geral | Especialidade | 2 |
+| MG | 25112574000182 | ASSOCIACAO BENEFICENTE BOM SAMARITANO | 17521 | Medicina Intensiva | Especialidade | 2 |
+| MG | 25335803000128 | ASSOCIACAO BENEFICENTE CATOLICA | 16028 | Pediatria | Especialidade | 1 |
+| MG | 25335803000128 | ASSOCIACAO BENEFICENTE CATOLICA | 17657 | Pediatria | Especialidade | 1 |
+| MG | 20724357000120 | ASSOCIACAO DE CARIDADE NOSSA SENHORA DO CARMO | 17452 | Cirurgia Geral | Especialidade | 2 |
+| MG | 20724357000120 | ASSOCIACAO DE CARIDADE NOSSA SENHORA DO CARMO | 17460 | Pediatria | Especialidade | 2 |
+| MG | 19704857000110 | ASSOCIACAO DE ESTUDOS E PESQUISAS DO CENTRO OFTALMOLOGICO DE MINAS GERAIS | 16225 | Oftalmologia | Especialidade | 8 |
+| MG | 19704857000110 | ASSOCIACAO DE ESTUDOS E PESQUISAS DO CENTRO OFTALMOLOGICO DE MINAS GERAIS | 17741 | Oftalmologia | Especialidade | 8 |
+| MG | 21040696000230 | ASSOCIACAO DE INTEGRACAO SOCIAL DE ITAJUBA | 16716 | Pediatria | Especialidade | 2 |
+| MG | 25104902000107 | ASSOCIACAO HOSPITALAR SANTA ROSALIA | 16078 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| MG | 25104902000107 | ASSOCIACAO HOSPITALAR SANTA ROSALIA | 16075 | Medicina Intensiva | Especialidade | 2 |
+| MG | 25104902000107 | ASSOCIACAO HOSPITALAR SANTA ROSALIA | 16076 | Pediatria | Especialidade | 2 |
+| MG | 17513235000180 | ASSOCIACAO MARIO PENNA | 17433 | Clínica Médica | Especialidade | 3 |
+| MG | 17513235000180 | ASSOCIACAO MARIO PENNA | 17434 | Hematologia e Hemoterapia | Especialidade | 3 |
+| MG | 17513235000180 | ASSOCIACAO MARIO PENNA | 17435 | Mastologia | Especialidade | 1 |
+| MG | 17513235000180 | ASSOCIACAO MARIO PENNA | 17439 | Urologia | Especialidade | 1 |
+| MG | 22709109000216 | BENEFICENCIA SOCIAL BOM SAMARITANO | 17540 | Clínica Médica | Especialidade | 2 |
+| MG | 22709109000216 | BENEFICENCIA SOCIAL BOM SAMARITANO | 17547 | Otorrinolaringologia | Especialidade | 2 |
+| MG | 16650756000116 | CASA DE CARIDADE DE ALFENAS N S P SOCORRO | 17418 | Medicina Paliativa | Área de atuação | 2 |
+| MG | 22780498000195 | CASA DE CARIDADE DE MURIAE - HOSPITAL SAO PAULO | 16134 | Cirurgia Geral | Especialidade | 1 |
+| MG | 22780498000195 | CASA DE CARIDADE DE MURIAE - HOSPITAL SAO PAULO | 16137 | Clínica Médica | Especialidade | 1 |
+| MG | 19557487000136 | CENTRO BARBACENENSE DE ASSISTENCIA MEDICA E SOCIAL | 17696 | Clínica Médica | Especialidade | 2 |
+| MG | 17200429000125 | FUNDACAO BENJAMIN GUIMARAES | 16585 | Cirurgia Geral | Especialidade | 3 |
+| MG | 17200429000125 | FUNDACAO BENJAMIN GUIMARAES | 16601 | Clínica Médica | Especialidade | 1 |
+| MG | 17200429000125 | FUNDACAO BENJAMIN GUIMARAES | 16602 | Mastologia | Especialidade | 1 |
+| MG | 17200429000125 | FUNDACAO BENJAMIN GUIMARAES | 16605 | Oncologia Pediátrica | Área de atuação | 2 |
+| MG | 17200429000125 | FUNDACAO BENJAMIN GUIMARAES | 16606 | Ortopedia e Traumatologia | Especialidade | 3 |
+| MG | 23951916000475 | FUNDACAO DE ENSINO SUPERIOR DO VALE DO SAPUCAI | 16698 | Cirurgia Geral | Especialidade | 2 |
+| MG | 23951916000475 | FUNDACAO DE ENSINO SUPERIOR DO VALE DO SAPUCAI | 16696 | Clínica Médica | Especialidade | 3 |
+| MG | 23951916000475 | FUNDACAO DE ENSINO SUPERIOR DO VALE DO SAPUCAI | 16699 | Medicina Intensiva | Especialidade | 1 |
+| MG | 23951916000475 | FUNDACAO DE ENSINO SUPERIOR DO VALE DO SAPUCAI | 16701 | Otorrinolaringologia | Especialidade | 2 |
+| MG | 23951916000475 | FUNDACAO DE ENSINO SUPERIOR DO VALE DO SAPUCAI | 16680 | Pediatria | Especialidade | 3 |
+| MG | 23951916000475 | FUNDACAO DE ENSINO SUPERIOR DO VALE DO SAPUCAI | 16703 | Urologia | Especialidade | 1 |
+| MG | 20533295000179 | FUNDACAO EDUCACIONAL ALTO MEDIO SAO FRANCISCO | 16637 | Ortopedia e Traumatologia | Especialidade | 1 |
+| MG | 17178203000175 | FUNDACAO EDUCACIONAL LUCAS MACHADO FELUMA | 16446 | Cirurgia Geral | Especialidade | 1 |
+| MG | 17178203000175 | FUNDACAO EDUCACIONAL LUCAS MACHADO FELUMA | 16458 | Medicina Paliativa | Área de atuação | 2 |
+| MG | 17178203000175 | FUNDACAO EDUCACIONAL LUCAS MACHADO FELUMA | 16450 | Oftalmologia | Especialidade | 7 |
+| MG | 17178203000175 | FUNDACAO EDUCACIONAL LUCAS MACHADO FELUMA | 16451 | Ortopedia e Traumatologia | Especialidade | 1 |
+| MG | 17178203000175 | FUNDACAO EDUCACIONAL LUCAS MACHADO FELUMA | 16453 | Urologia | Especialidade | 1 |
+| MG | 26150979000178 | FUNDACAO FILANT E BENEF DE SAUDE ARNALDO GAVAZZA FILHO | 16231 | Cardiologia | Especialidade | 1 |
+| MG | 20146064000102 | FUNDACAO GERALDO CORREA | 16939 | Cirurgia Vascular | Especialidade | 2 |
+| MG | 19843929001263 | FUNDACAO HOSPITALAR DO ESTADO DE MINAS GERAIS | 16787 | Cirurgia Geral | Especialidade | 1 |
+| MG | 19843929001344 | FUNDACAO HOSPITALAR DO ESTADO DE MINAS GERAIS | 17131 | Cirurgia Vascular | Especialidade | 1 |
+| MG | 19843929001344 | FUNDACAO HOSPITALAR DO ESTADO DE MINAS GERAIS | 17128 | Medicina Intensiva | Especialidade | 2 |
+| MG | 19843929001344 | FUNDACAO HOSPITALAR DO ESTADO DE MINAS GERAIS | 17123 | Ortopedia e Traumatologia | Especialidade | 4 |
+| MG | 19843929001000 | FUNDACAO HOSPITALAR DO ESTADO DE MINAS GERAIS | 16740 | Pediatria | Especialidade | 2 |
+| MG | 13025354000132 | FUNDACAO HOSPITALAR SAO FRANCISCO DE ASSIS - FHSFA | 16318 | Cardiologia | Especialidade | 2 |
+| MG | 20611810000191 | FUNDACAO PERCIVAL FARQUHAR | 17530 | Cirurgia Geral | Especialidade | 2 |
+| MG | 20611810000191 | FUNDACAO PERCIVAL FARQUHAR | 17532 | Clínica Médica | Especialidade | 2 |
+| MG | 20611810000191 | FUNDACAO PERCIVAL FARQUHAR | 17538 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| MG | 20611810000191 | FUNDACAO PERCIVAL FARQUHAR | 17536 | Medicina de Família e Comunidade | Especialidade | 2 |
+| MG | 20611810000191 | FUNDACAO PERCIVAL FARQUHAR | 17535 | Medicina Intensiva | Especialidade | 2 |
+| MG | 20611810000191 | FUNDACAO PERCIVAL FARQUHAR | 17541 | Oftalmologia | Especialidade | 2 |
+| MG | 20611810000191 | FUNDACAO PERCIVAL FARQUHAR | 17539 | Pediatria | Especialidade | 2 |
+| MG | 19878404000100 | FUNDACAO SAO FRANCISCO XAVIER | 16375 | Cirurgia Vascular | Especialidade | 1 |
+| MG | 19878404000100 | FUNDACAO SAO FRANCISCO XAVIER | 16377 | Ortopedia e Traumatologia | Especialidade | 1 |
+| MG | 19878404000100 | FUNDACAO SAO FRANCISCO XAVIER | 16378 | Pediatria | Especialidade | 1 |
+| MG | 11728239000107 | FUNDO MUNICIPAL DE SAUDE | 16098 | Medicina de Família e Comunidade | Especialidade | 10 |
+| MG | 13064113000100 | FUNDO MUNICIPAL DE SAUDE DE BETIM | 17377 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| MG | 24824195000152 | HOSPITAL DA FUNDACAO CASA DE CARIDADE DE SAO LOURENCO | 16269 | Pediatria | Especialidade | 1 |
+| MG | 19715663000110 | HOSPITAL E MATERNIDADE SAO JOSE | 17792 | Medicina Intensiva | Especialidade | 2 |
+| MG | 21583042000172 | HOSPITAL E MATERNIDADE THEREZINHA DE JESUS | 17661 | Neurologia | Especialidade | 1 |
+| MG | 16692121000181 | HOSPITAL METROPOLITANO ODILON BEHRENS - HOB | 16341 | Cirurgia Geral | Especialidade | 1 |
+| MG | 20347027000162 | HOSPITAL NOSSA SENHORA DA PIEDADE | 16391 | Oftalmologia | Especialidade | 1 |
+| MG | 07749605000471 | INSTITUTO ANIMA SOCIESC DE INOVACAO, PESQUISA E CULTURA | 16581 | Cirurgia Geral | Especialidade | 2 |
+| MG | 26000523000121 | INSTITUTO BRASILEIRO DE GESTAO DA SAUDE | 17647 | Cardiologia | Especialidade | 2 |
+| MG | 26000523000121 | INSTITUTO BRASILEIRO DE GESTAO DA SAUDE | 16052 | Cirurgia Cardiovascular | Especialidade | 2 |
+| MG | 26000523000121 | INSTITUTO BRASILEIRO DE GESTAO DA SAUDE | 16120 | Cirurgia Geral | Especialidade | 1 |
+| MG | 26000523000121 | INSTITUTO BRASILEIRO DE GESTAO DA SAUDE | 17648 | Cirurgia Geral | Especialidade | 1 |
+| MG | 26000523000121 | INSTITUTO BRASILEIRO DE GESTAO DA SAUDE | 16053 | Oncologia Pediátrica | Área de atuação | 1 |
+| MG | 26000523000121 | INSTITUTO BRASILEIRO DE GESTAO DA SAUDE | 17651 | Pediatria | Especialidade | 1 |
+| MG | 22488241000245 | INSTITUTO DE SAUDE HSVP | 16561 | Medicina de Família e Comunidade | Especialidade | 2 |
+| MG | 22488241000245 | INSTITUTO DE SAUDE HSVP | 16554 | Medicina Intensiva | Especialidade | 2 |
+| MG | 22488241000245 | INSTITUTO DE SAUDE HSVP | 16555 | Medicina Paliativa | Área de atuação | 2 |
+| MG | 22488241000245 | INSTITUTO DE SAUDE HSVP | 16551 | Ortopedia e Traumatologia | Especialidade | 2 |
+| MG | 23647209000147 | IRMANDADE DO HOSPITAL DA SANTA CASA DE POCOS DE CALDAS | 16431 | Medicina Paliativa | Área de atuação | 2 |
+| MG | 23647209000147 | IRMANDADE DO HOSPITAL DA SANTA CASA DE POCOS DE CALDAS | 16430 | Ortopedia e Traumatologia | Especialidade | 2 |
+| MG | 23798846000114 | IRMANDADE DO HOSPITAL DE NOSSA SENHORA DAS DORES | 17037 | Clínica Médica | Especialidade | 3 |
+| MG | 23798846000114 | IRMANDADE DO HOSPITAL DE NOSSA SENHORA DAS DORES | 17043 | Ginecologia e Obstetrícia | Especialidade | 3 |
+| MG | 23406564000124 | IRMANDADE NOSSA SENHORA DO PATROCINIO | 16906 | Ginecologia e Obstetrícia | Especialidade | 1 |
+| MG | 23406564000124 | IRMANDADE NOSSA SENHORA DO PATROCINIO | 16907 | Pediatria | Especialidade | 1 |
+| MG | 18715508000131 | MUNICIPIO DE CONTAGEM | 16855 | Cirurgia Geral | Especialidade | 4 |
+| MG | 18715508000131 | MUNICIPIO DE CONTAGEM | 16854 | Clínica Médica | Especialidade | 8 |
+| MG | 18715508000131 | MUNICIPIO DE CONTAGEM | 16851 | Ginecologia e Obstetrícia | Especialidade | 8 |
+| MG | 24996969000122 | MUNICIPIO DE SETE LAGOAS | 16990 | Ortopedia e Traumatologia | Especialidade | 3 |
+| MG | 24996969000122 | MUNICIPIO DE SETE LAGOAS | 16991 | Otorrinolaringologia | Especialidade | 1 |
+| MG | 20499893000179 | SANTA CASA DE CARIDADE DE FORMIGA | 16244 | Cirurgia Geral | Especialidade | 1 |
+| MG | 16826067000110 | SANTA CASA DE MISERICORDIA DE ARAGUARI | 17417 | Clínica Médica | Especialidade | 1 |
+| MG | 17209891000193 | SANTA CASA DE MISERICORDIA DE BELO HORIZONTE | 16270 | Clínica Médica | Especialidade | 3 |
+| MG | 17209891000193 | SANTA CASA DE MISERICORDIA DE BELO HORIZONTE | 17528 | MEDICINA INTENSIVA PEDIÁTRICA | Área de atuação | 2 |
+| MG | 21035852000194 | SANTA CASA DE MISERICORDIA DE ITAJUBA | 16875 | Medicina Intensiva | Especialidade | 1 |
+| MG | 24899395000174 | SANTA CASA DE MISERICORDIA DE SAO SEBASTIAO DO PARAISO | 16254 | Cardiologia | Especialidade | 1 |
+| MG | 24899395000174 | SANTA CASA DE MISERICORDIA DE SAO SEBASTIAO DO PARAISO | 16253 | Cirurgia Cardiovascular | Especialidade | 1 |
+| MG | 24899395000174 | SANTA CASA DE MISERICORDIA DE SAO SEBASTIAO DO PARAISO | 16240 | Clínica Médica | Especialidade | 2 |
+| MG | 24899395000174 | SANTA CASA DE MISERICORDIA DE SAO SEBASTIAO DO PARAISO | 16252 | Urologia | Especialidade | 1 |
+| MG | 22012907000103 | SERVICO SOCIAL AUTONOMO HOSPITAL METROPOLITANO DOUTOR CELIO DE CASTRO | 16948 | Cirurgia Geral | Especialidade | 2 |
+| MG | 22012907000103 | SERVICO SOCIAL AUTONOMO HOSPITAL METROPOLITANO DOUTOR CELIO DE CASTRO | 16964 | Clínica Médica | Especialidade | 2 |
+| MG | 22012907000103 | SERVICO SOCIAL AUTONOMO HOSPITAL METROPOLITANO DOUTOR CELIO DE CASTRO | 16979 | Geriatria | Especialidade | 4 |
+| MG | 22012907000103 | SERVICO SOCIAL AUTONOMO HOSPITAL METROPOLITANO DOUTOR CELIO DE CASTRO | 16967 | Medicina Intensiva | Especialidade | 2 |
+| MG | 22012907000103 | SERVICO SOCIAL AUTONOMO HOSPITAL METROPOLITANO DOUTOR CELIO DE CASTRO | 16771 | Neurologia | Especialidade | 3 |
+| MG | 22012907000103 | SERVICO SOCIAL AUTONOMO HOSPITAL METROPOLITANO DOUTOR CELIO DE CASTRO | 16970 | Ortopedia e Traumatologia | Especialidade | 2 |
+| MG | 10550765000159 | SOCIEDADE BENEFICENTE SAGRADA FAMILIA | 16413 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| MG | 10550765000159 | SOCIEDADE BENEFICENTE SAGRADA FAMILIA | 16388 | Oftalmologia | Especialidade | 2 |
+| MG | 10550765000159 | SOCIEDADE BENEFICENTE SAGRADA FAMILIA | 16389 | Ortopedia e Traumatologia | Especialidade | 2 |
+| MG | 61699567002640 | SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA | 17800 | Cirurgia Geral | Especialidade | 4 |
+| MG | 61699567002640 | SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA | 17799 | Ginecologia e Obstetrícia | Especialidade | 3 |
+| MS | 03276524000106 | ASSOCIACAO BENEFICENTE SANTA CASA DE CAMPO GRANDE | 16433 | Cardiologia | Especialidade | 2 |
+| MS | 03276524000106 | ASSOCIACAO BENEFICENTE SANTA CASA DE CAMPO GRANDE | 16436 | Clínica Médica | Especialidade | 1 |
+| MS | 03276524000106 | ASSOCIACAO BENEFICENTE SANTA CASA DE CAMPO GRANDE | 16437 | Oftalmologia | Especialidade | 2 |
+| MS | 14004655000142 | FUNDO MUNICIPAL DE SAUDE DE CHAPADAO DO SUL-MS | 16315 | Medicina de Família e Comunidade | Especialidade | 6 |
+| MS | 13896863000130 | FUNDO MUNICIPAL DE SAUDE DE DOURADOS | 16228 | Medicina de Família e Comunidade | Especialidade | 1 |
+| PB | 40980914000180 | FUNDACAO JOSE LEITE DE SOUZA | 17355 | Cardiologia | Especialidade | 1 |
+| PB | 40980914000180 | FUNDACAO JOSE LEITE DE SOUZA | 17300 | Clínica Médica | Especialidade | 4 |
+| PB | 40980914000180 | FUNDACAO JOSE LEITE DE SOUZA | 17357 | Ginecologia e Obstetrícia | Especialidade | 1 |
+| PB | 40980914000180 | FUNDACAO JOSE LEITE DE SOUZA | 17353 | Medicina de Família e Comunidade | Especialidade | 2 |
+| PB | 06101061000121 | FUNDACAO PEDRO AMERICO | 17331 | Cirurgia Geral | Especialidade | 2 |
+| PB | 06101061000121 | FUNDACAO PEDRO AMERICO | 17333 | Cirurgia Vascular | Especialidade | 1 |
+| PB | 06101061000121 | FUNDACAO PEDRO AMERICO | 17334 | Clínica Médica | Especialidade | 4 |
+| PB | 06101061000121 | FUNDACAO PEDRO AMERICO | 17337 | Medicina de Família e Comunidade | Especialidade | 2 |
+| PB | 06101061000121 | FUNDACAO PEDRO AMERICO | 17338 | Oftalmologia | Especialidade | 2 |
+| PB | 06101061000121 | FUNDACAO PEDRO AMERICO | 17341 | Ortopedia e Traumatologia | Especialidade | 2 |
+| PB | 06101061000121 | FUNDACAO PEDRO AMERICO | 17342 | Pediatria | Especialidade | 2 |
+| PB | 04827493000199 | FUNDO MUNICIPAL DE SAUDE | 16246 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| PB | 04849697000120 | FUNDO MUNICIPAL DE SAUDE DE CABEDELO | 16286 | Medicina de Família e Comunidade | Especialidade | 2 |
+| PB | 08674396000164 | FUNDO MUNICIPAL DE SAUDE DE MAMANGUAPE | 17162 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| PB | 09084815000170 | MUNICIPIO DE PATOS | 16536 | Cardiologia | Especialidade | 2 |
+| PB | 09084815000170 | MUNICIPIO DE PATOS | 16540 | Ginecologia e Obstetrícia | Especialidade | 5 |
+| PB | 09084815000170 | MUNICIPIO DE PATOS | 16108 | Pediatria | Especialidade | 3 |
+| PB | 08778268003771 | SECRETARIA DE ESTADO DA SAUDE - SES | 16287 | Cirurgia Geral | Especialidade | 1 |
+| PB | 08778268003771 | SECRETARIA DE ESTADO DA SAUDE - SES | 16288 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| PB | 08778268000160 | SECRETARIA DE ESTADO DA SAUDE - SES | 16299 | Oftalmologia | Especialidade | 3 |
+| PB | 08778268000160 | SECRETARIA DE ESTADO DA SAUDE - SES | 16298 | Ortopedia e Traumatologia | Especialidade | 2 |
+
+| PB | 08778268000160 | SECRETARIA DE ESTADO DA SAUDE - SES | 16300 | Otorrinolaringologia | Especialidade | 3 |
+| --- | --- | --- | --- | --- | --- | --- |
+| PB | 08806754000145 | SECRETARIA DE SAUDE | 16963 | Urologia | Especialidade | 2 |
+| PE | 10667814001100 | FUNDACAO ALTINO VENTURA | 16399 | Oftalmologia | Especialidade | 2 |
+| PE | 05314563000178 | FUNDACAO BANCO DE OLHOS VALE DO SAO FRANCISCO | 16302 | Oftalmologia | Especialidade | 2 |
+| PE | 09794975026927 | FUNDACAO DE SAUDE AMAURY DE MEDEIROS | 17579 | Ortopedia e Traumatologia | Especialidade | 1 |
+| PE | 11022597000272 | FUNDACAO UNIVERSIDADE DE PERNAMBUCO | 17601 | Clínica Médica | Especialidade | 2 |
+| PE | 10583920000990 | HOSPITAL DO TRICENTENARIO | 17174 | Medicina Intensiva | Especialidade | 2 |
+| PE | 10583920000800 | HOSPITAL DO TRICENTENARIO | 17386 | Neurologia | Especialidade | 2 |
+| PE | 10583920001024 | HOSPITAL DO TRICENTENARIO | 16861 | Pediatria | Especialidade | 2 |
+| PE | 10072296000371 | INSTITUTO ALCIDES D' ANDRADE LIMA | 16415 | Ortopedia e Traumatologia | Especialidade | 1 |
+| PE | 10739225002323 | INSTITUTO SOCIAL DAS MEDIANEIRAS DA PAZ | 17406 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| PE | 10869782000404 | IRMANDADE DA SANTA CASA DE MISERICORDIA DO RECIFE | 16753 | Clínica Médica | Especialidade | 2 |
+| PE | 10869782000404 | IRMANDADE DA SANTA CASA DE MISERICORDIA DO RECIFE | 16748 | Geriatria | Especialidade | 2 |
+| PE | 10869782000404 | IRMANDADE DA SANTA CASA DE MISERICORDIA DO RECIFE | 16751 | Ortopedia e Traumatologia | Especialidade | 2 |
+| PE | 10892164000124 | REAL HOSPITAL PORTUGUES DE BENEFICENCIA EM PERNAMBUCO | 16965 | Cardiologia | Especialidade | 1 |
+| PE | 10892164000124 | REAL HOSPITAL PORTUGUES DE BENEFICENCIA EM PERNAMBUCO | 16968 | Cirurgia Geral | Especialidade | 2 |
+| PE | 10892164000124 | REAL HOSPITAL PORTUGUES DE BENEFICENCIA EM PERNAMBUCO | 16969 | Clínica Médica | Especialidade | 2 |
+| PI | 15126437000224 | EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH | 16183 | Cirurgia Cardiovascular | Especialidade | 2 |
+| PI | 15126437000224 | EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH | 16395 | Cirurgia Vascular | Especialidade | 2 |
+| PI | 15126437000224 | EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH | 16394 | Otorrinolaringologia | Especialidade | 3 |
+| PI | 06553564010443 | PIAUI SECRETARIA DE SAUDE | 16284 | Clínica Médica | Especialidade | 4 |
+| PI | 06705990000140 | SOCIEDADE DE PROTECAO A MATERNIDADE E A INFANCIA DE PARNAIBA | 17717 | Cardiologia | Especialidade | 2 |
+| PI | 06705990000140 | SOCIEDADE DE PROTECAO A MATERNIDADE E A INFANCIA DE PARNAIBA | 17718 | Cirurgia Geral | Especialidade | 2 |
+| PI | 06705990000140 | SOCIEDADE DE PROTECAO A MATERNIDADE E A INFANCIA DE PARNAIBA | 17716 | Clínica Médica | Especialidade | 1 |
+| PI | 06705990000140 | SOCIEDADE DE PROTECAO A MATERNIDADE E A INFANCIA DE PARNAIBA | 17719 | Medicina Intensiva | Especialidade | 2 |
+| PR | 78613841000161 | ASSOCIACAO EVANGELICA BENEFICENTE DE LONDRINA | 17492 | Cardiologia | Especialidade | 1 |
+| PR | 78613841000161 | ASSOCIACAO EVANGELICA BENEFICENTE DE LONDRINA | 17504 | Cirurgia Cardiovascular | Especialidade | 1 |
+| PR | 78613841000161 | ASSOCIACAO EVANGELICA BENEFICENTE DE LONDRINA | 17495 | Clínica Médica | Especialidade | 3 |
+| PR | 78613841000161 | ASSOCIACAO EVANGELICA BENEFICENTE DE LONDRINA | 17497 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| PR | 04169712000190 | ASSOCIACAO NORTE PARANAENSE DE COMBATE AO CANCER | 16880 | Cardiologia | Especialidade | 4 |
+| PR | 04169712000190 | ASSOCIACAO NORTE PARANAENSE DE COMBATE AO CANCER | 16883 | Cirurgia Cardiovascular | Especialidade | 2 |
+| PR | 04169712000190 | ASSOCIACAO NORTE PARANAENSE DE COMBATE AO CANCER | 16886 | Cirurgia Geral | Especialidade | 4 |
+| PR | 04169712000190 | ASSOCIACAO NORTE PARANAENSE DE COMBATE AO CANCER | 16888 | Clínica Médica | Especialidade | 4 |
+| PR | 04169712000190 | ASSOCIACAO NORTE PARANAENSE DE COMBATE AO CANCER | 16895 | Medicina de Família e Comunidade | Especialidade | 2 |
+| PR | 04169712000190 | ASSOCIACAO NORTE PARANAENSE DE COMBATE AO CANCER | 16897 | Medicina Intensiva | Especialidade | 4 |
+| PR | 04169712000190 | ASSOCIACAO NORTE PARANAENSE DE COMBATE AO CANCER | 16901 | Urologia | Especialidade | 2 |
+| PR | 76659820000232 | ASSOCIACAO PARANAENSE DE CULTURA - APC | 17478 | Cardiologia | Especialidade | 2 |
+| PR | 76659820000232 | ASSOCIACAO PARANAENSE DE CULTURA - APC | 17467 | Cirurgia Geral | Especialidade | 2 |
+| PR | 76659820000232 | ASSOCIACAO PARANAENSE DE CULTURA - APC | 17475 | Clínica Médica | Especialidade | 2 |
+| PR | 76659820000232 | ASSOCIACAO PARANAENSE DE CULTURA - APC | 17482 | Urologia | Especialidade | 1 |
+| PR | 81190449000242 | FUNDACAO DE ESTUDOS DAS DOENCAS DO FIGADO - KOUTOULAS -RIBEIRO | 16070 | Cirurgia Geral | Especialidade | 1 |
+| PR | 00304148000110 | FUNDACAO DE SAUDE ITAIGUAPY | 17794 | Ginecologia e Obstetrícia | Especialidade | 1 |
+| PR | 21998635000108 | FUNDACAO HOSPITALAR SAO LUCAS | 16953 | Cardiologia | Especialidade | 2 |
+| PR | 21998635000108 | FUNDACAO HOSPITALAR SAO LUCAS | 16960 | Cirurgia Geral | Especialidade | 1 |
+| PR | 21998635000108 | FUNDACAO HOSPITALAR SAO LUCAS | 16973 | Clínica Médica | Especialidade | 1 |
+| PR | 21998635000108 | FUNDACAO HOSPITALAR SAO LUCAS | 17015 | Medicina Intensiva | Especialidade | 1 |
+| PR | 21998635000108 | FUNDACAO HOSPITALAR SAO LUCAS | 17088 | Oftalmologia | Especialidade | 1 |
+| PR | 21998635000108 | FUNDACAO HOSPITALAR SAO LUCAS | 17091 | Pediatria | Especialidade | 1 |
+| PR | 80905706000131 | FUNDO MUNICIPAL DE SAUDE | 16531 | Medicina de Família e Comunidade | Especialidade | 10 |
+| PR | 77893469000121 | HOSPITAL DE CARIDADE SAO VICENTE DE PAULO | 17363 | Cirurgia Geral | Especialidade | 2 |
+| PR | 76562198000592 | HOSPITAL NOSSA SENHORA DAS GRACAS | 16407 | Cirurgia Geral | Especialidade | 1 |
+| PR | 12651010000176 | INSTITUTO POLICLINICA PB | 16484 | Cirurgia Geral | Especialidade | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16560 | Cardiologia | Especialidade | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16203 | Cirurgia Cardiovascular | Especialidade | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16625 | Cirurgia Geral | Especialidade | 2 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16193 | Cirurgia Vascular | Especialidade | 4 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16627 | Clínica Médica | Especialidade | 3 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16196 | Ginecologia e Obstetrícia | Especialidade | 8 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16201 | Hematologia e Hemoterapia | Especialidade | 3 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16192 | Mastologia | Especialidade | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16630 | Medicina Intensiva | Especialidade | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16198 | Neurologia | Especialidade | 4 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16633 | Ortopedia e Traumatologia | Especialidade | 2 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16199 | Otorrinolaringologia | Especialidade | 4 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16635 | Pediatria | Especialidade | 3 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16639 | Urologia | Especialidade | 1 |
+| PR | 25402273000193 | INSTITUTO PROFESSOR MOREIRA | 17621 | Oftalmologia | Especialidade | 3 |
+| PR | 78614971000119 | IRMANDADE DA SANTA CASA DE LONDRINA | 16124 | Clínica Médica | Especialidade | 4 |
+| PR | 78614971000119 | IRMANDADE DA SANTA CASA DE LONDRINA | 16033 | Ortopedia e Traumatologia | Especialidade | 2 |
+| PR | 78614971000119 | IRMANDADE DA SANTA CASA DE LONDRINA | 16123 | Pediatria | Especialidade | 3 |
+| PR | 76416866003750 | SECRETARIA DE ESTADO DA SAUDE | 17288 | Cirurgia Geral | Especialidade | 2 |
+| PR | 78640489000153 | UNIVERSIDADE ESTADUAL DE LONDRINA | 16343 | Cirurgia Geral | Especialidade | 5 |
+| RJ | 32190092000378 | FESO FUNDACAO EDUCACIONAL SERRA DOS ORGAOS | 16591 | Cardiologia | Especialidade | 1 |
+| RJ | 32190092000378 | FESO FUNDACAO EDUCACIONAL SERRA DOS ORGAOS | 16592 | Medicina Intensiva | Especialidade | 2 |
+| RJ | 32190092000378 | FESO FUNDACAO EDUCACIONAL SERRA DOS ORGAOS | 16590 | Pediatria | Especialidade | 2 |
+| RJ | 28964252000150 | FUNDACAO BENEDITO PEREIRA NUNES | 16128 | Cardiologia | Especialidade | 2 |
+| RJ | 32410037000184 | FUNDACAO EDUCACIONAL SEVERINO SOMBRA | 16338 | Cirurgia Geral | Especialidade | 1 |
+| RJ | 32410037000184 | FUNDACAO EDUCACIONAL SEVERINO SOMBRA | 16339 | Medicina de Família e Comunidade | Especialidade | 2 |
+| RJ | 32410037000184 | FUNDACAO EDUCACIONAL SEVERINO SOMBRA | 16685 | Ortopedia e Traumatologia | Especialidade | 2 |
+| RJ | 32504995000700 | FUNDACAO OSWALDO ARANHA | 17489 | Cirurgia Geral | Especialidade | 2 |
+| RJ | 32504995000700 | FUNDACAO OSWALDO ARANHA | 17494 | Clínica Médica | Especialidade | 2 |
+| RJ | 32504995000700 | FUNDACAO OSWALDO ARANHA | 17503 | Medicina Intensiva | Especialidade | 2 |
+| RJ | 04311955000110 | FUNDO MUNICIPAL DE SAUDE - MARICA | 16162 | Medicina de Família e Comunidade | Especialidade | 10 |
+| RJ | 00394544020372 | MINISTERIO DA SAUDE | 16756 | Clínica Médica | Especialidade | 6 |
+| RJ | 29138344001549 | MUNICIPIO DE PETROPOLIS | 17371 | Medicina de Família e Comunidade | Especialidade | 3 |
+| RJ | 29468055000293 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE | 16556 | Cirurgia Vascular | Especialidade | 4 |
+| RJ | 29468055000102 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE | 16562 | Clínica Médica | Especialidade | 7 |
+| RJ | 29468055000102 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE | 16278 | Ginecologia e Obstetrícia | Especialidade | 10 |
+| RJ | 29468055000374 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE | 16321 | Medicina Intensiva | Especialidade | 1 |
+| RJ | 29468055000102 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE | 16563 | Medicina Intensiva | Especialidade | 5 |
+| RJ | 29468055000455 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE | 16542 | Ortopedia e Traumatologia | Especialidade | 3 |
+| RJ | 29468055001265 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE | 16654 | Ortopedia e Traumatologia | Especialidade | 4 |
+| RJ | 29468055001346 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE | 16324 | Pediatria | Especialidade | 1 |
+| RJ | 29468055000102 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE | 16565 | Pediatria | Especialidade | 3 |
+| RJ | 28683712000171 | SANTA CASA DE MISERICORDIA DE BARRA MANSA | 16086 | Cirurgia Geral | Especialidade | 1 |
+| RJ | 28683712000171 | SANTA CASA DE MISERICORDIA DE BARRA MANSA | 16088 | Clínica Médica | Especialidade | 2 |
+| RJ | 03452469000150 | SECRETARIA DE ESTADO DE SAUDE - SES | 16647 | Cirurgia Vascular | Especialidade | 1 |
+| RJ | 03272699000137 | SECRETARIA MUNICIPAL DE SAUDE - PMVR | 17085 | Clínica Médica | Especialidade | 2 |
+| RJ | 03272699000137 | SECRETARIA MUNICIPAL DE SAUDE - PMVR | 17086 | Medicina de Família e Comunidade | Especialidade | 2 |
+| RJ | 03272699000137 | SECRETARIA MUNICIPAL DE SAUDE - PMVR | 17084 | Pediatria | Especialidade | 2 |
+| RJ | 61699567007014 | SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA | 17164 | Clínica Médica | Especialidade | 2 |
+| RJ | 61699567007014 | SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA | 17166 | Medicina Intensiva | Especialidade | 4 |
+| RJ | 61699567007014 | SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA | 17165 | Pediatria | Especialidade | 2 |
+| RJ | 33540014000157 | UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO | 16726 | Clínica Médica | Especialidade | 8 |
+| RN | 08258295000102 | FUNDACAO UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE - FUERN | 16507 | Clínica Médica | Especialidade | 6 |
+| RN | 04026039000139 | LIGA MOSSOROENSE DE ESTUDOS E COMBATE AO CANCER | 16931 | Cirurgia Geral | Especialidade | 2 |
+| RS | 88665914000112 | ASSOCIACAO CULTURAL E CIENTIFICA VIRVI RAMOS | 17385 | Ginecologia e Obstetrícia | Especialidade | 1 |
+| RS | 89124630000181 | ASSOCIACAO DAS DAMAS DE CARIDADE | 16902 | Cirurgia Geral | Especialidade | 2 |
+| RS | 94862265000142 | ASSOCIACAO DE CARIDADE SANTA CASA DE RIO GRANDE | 17400 | Clínica Médica | Especialidade | 1 |
+| RS | 92962869002006 | ASSOCIACAO DE LITERATURA E BENEFICENCIA | 16689 | Oftalmologia | Especialidade | 3 |
+| RS | 92741016000254 | ASSOCIACAO DOS FUNCIONARIOS PUBLICOS DO ESTADO DO RIO GRANDE DO SUL | 16266 | Ortopedia e Traumatologia | Especialidade | 3 |
+| RS | 87547444000120 | ASSOCIACAO DR BARTHOLOMEU TACCHINI | 16383 | Pediatria | Especialidade | 2 |
+| RS | 03066309000920 | ASSOCIACAO FRANCISCANA DE ASSISTENCIA A SAUDE | 16213 | Medicina de família e comunidade - Gestão e Preceptoria | Ano adicional | 1 |
+| RS | 90730508000138 | ASSOCIACAO HOSPITAL DE CARIDADE IJUI | 17427 | Cardiologia | Especialidade | 2 |
+| RS | 90730508000138 | ASSOCIACAO HOSPITAL DE CARIDADE IJUI | 17776 | Cardiologia | Especialidade | 2 |
+| RS | 90730508000138 | ASSOCIACAO HOSPITAL DE CARIDADE IJUI | 17425 | Clínica Médica | Especialidade | 3 |
+| RS | 90730508000138 | ASSOCIACAO HOSPITAL DE CARIDADE IJUI | 17774 | Clínica Médica | Especialidade | 3 |
+| RS | 90730508000138 | ASSOCIACAO HOSPITAL DE CARIDADE IJUI | 17426 | Ginecologia e Obstetrícia | Especialidade | 1 |
+| RS | 90730508000138 | ASSOCIACAO HOSPITAL DE CARIDADE IJUI | 17775 | Ginecologia e Obstetrícia | Especialidade | 1 |
+| RS | 08579164000127 | ASSOCIACAO HOSPITALAR BENEFICENTE SANTO ANTONIO | 16981 | Cirurgia Geral | Especialidade | 2 |
+| RS | 08579164000127 | ASSOCIACAO HOSPITALAR BENEFICENTE SANTO ANTONIO | 16984 | Clínica Médica | Especialidade | 2 |
+| RS | 08579164000127 | ASSOCIACAO HOSPITALAR BENEFICENTE SANTO ANTONIO | 16982 | Ortopedia e Traumatologia | Especialidade | 2 |
+| RS | 95815668000101 | ASSOCIACAO HOSPITALAR CARIDADE SANTA ROSA | 16177 | Cirurgia Geral | Especialidade | 2 |
+| RS | 95815668000101 | ASSOCIACAO HOSPITALAR CARIDADE SANTA ROSA | 16178 | Clínica Médica | Especialidade | 2 |
+| RS | 95815668000101 | ASSOCIACAO HOSPITALAR CARIDADE SANTA ROSA | 16179 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| RS | 95815668000101 | ASSOCIACAO HOSPITALAR CARIDADE SANTA ROSA | 16180 | Pediatria | Especialidade | 2 |
+| RS | 92685833000151 | ASSOCIACAO HOSPITALAR MOINHOS DE VENTO | 16303 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| RS | 04994418000112 | ASSOCIACAO HOSPITALAR VILA NOVA | 16476 | Cirurgia Geral | Especialidade | 4 |
+| RS | 04994418000112 | ASSOCIACAO HOSPITALAR VILA NOVA | 16478 | Clínica Médica | Especialidade | 2 |
+| RS | 04994418000112 | ASSOCIACAO HOSPITALAR VILA NOVA | 16477 | Medicina Intensiva | Especialidade | 1 |
+| RS | 04994418000112 | ASSOCIACAO HOSPITALAR VILA NOVA | 16479 | Pediatria | Especialidade | 2 |
+| RS | 91693531000162 | ASSOCIACAO PRO ENSINO SUPERIOR EM NOVO HAMBURGO | 17591 | Clínica Médica | Especialidade | 2 |
+| RS | 11055682000156 | FUNDACAO DE SAUDE PUBLICA DE NOVO HAMBURGO - FSNH | 17302 | Clínica Médica | Especialidade | 2 |
+| RS | 11055682000156 | FUNDACAO DE SAUDE PUBLICA DE NOVO HAMBURGO - FSNH | 17674 | Clínica Médica | Especialidade | 1 |
+| RS | 89421259000110 | FUNDACAO HOSPITALAR SANTA TEREZINHA DE ERECHIM | 16344 | Clínica Médica | Especialidade | 2 |
+| RS | 04008342000109 | FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES | 17014 | Clínica Médica | Especialidade | 2 |
+| RS | 04008342000109 | FUNDACAO VALE DO TAQUARI DE EDUCACAO E DESENVOLVIMENTO SOCIAL - FUVATES | 17013 | Ginecologia e Obstetrícia | Especialidade | 1 |
+| RS | 87768735000148 | HOSPITAL DE CARIDADE E BENEFICENCIA | 17026 | Clínica Médica | Especialidade | 2 |
+| RS | 95281929000142 | HOSPITAL DE CARIDADE NOSSA SENHORA AUXILIADORA | 17297 | Oftalmologia | Especialidade | 2 |
+| RS | 97279350000170 | HOSPITAL SAPIRANGA - SOCIEDADE BENEFICENTE | 16329 | Cirurgia Geral | Especialidade | 3 |
+| RS | 97279350000170 | HOSPITAL SAPIRANGA - SOCIEDADE BENEFICENTE | 16331 | Medicina Intensiva | Especialidade | 2 |
+| RS | 87455531000157 | MUNICIPIO DE PELOTAS | 17047 | Neurologia | Especialidade | 2 |
+| RS | 87408845000107 | SANTA CASA DE CARIDADE DE BAGE | 16959 | Clínica Médica | Especialidade | 4 |
+| RS | 87317764000193 | SOCIEDADE SULINA DIVINA PROVIDENCIA | 16282 | Ortopedia e Traumatologia | Especialidade | 1 |
+| SC | 85131993000193 | ASS DE CARIDADE S VICENTE DE PAULO | 17175 | Cardiologia | Especialidade | 1 |
+| SC | 85131993000193 | ASS DE CARIDADE S VICENTE DE PAULO | 17173 | Clínica Médica | Especialidade | 2 |
+| SC | 60922168005226 | ASSOCIACAO CONGREGACAO DE SANTA CATARINA | 16073 | Cirurgia Geral | Especialidade | 1 |
+| SC | 73433427000157 | FUNDACAO DE SAUDE DO ALTO VALE DO ITAJAI | 16577 | Cirurgia Geral | Especialidade | 2 |
+| SC | 73433427000157 | FUNDACAO DE SAUDE DO ALTO VALE DO ITAJAI | 16578 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| SC | 73433427000157 | FUNDACAO DE SAUDE DO ALTO VALE DO ITAJAI | 16473 | Pediatria | Especialidade | 3 |
+| SC | 82654088000120 | FUNDACAO HOSPITALAR DE BLUMENAU | 16214 | Cirurgia Geral | Especialidade | 1 |
+| SC | 84592369000988 | FUNDACAO UNIVERSIDADE DO OESTE DE SANTA CATARINA | 16306 | Ginecologia e Obstetrícia | Especialidade | 4 |
+| SC | 84592369000988 | FUNDACAO UNIVERSIDADE DO OESTE DE SANTA CATARINA | 16305 | Ortopedia e Traumatologia | Especialidade | 1 |
+| SC | 82804642000108 | FUNDACAO UNIVERSITARIA DO DESENVOLVIMENTO DO OESTE | 16640 | Medicina de Família e Comunidade | Especialidade | 1 |
+| SC | 76562198000320 | HOSPITAL NOSSA SENHORA DAS GRACAS | 16487 | Pediatria | Especialidade | 1 |
+| SC | 08325231000349 | INSTITUTO DE SAUDE SANTA CLARA | 16117 | Pediatria | Especialidade | 4 |
+| SC | 82951245001130 | SECRETARIA DE ESTADO DA SAUDE | 16401 | Cardiologia | Especialidade | 3 |
+| SC | 82951245002455 | SECRETARIA DE ESTADO DA SAUDE | 16769 | Cardiologia | Especialidade | 2 |
+| SC | 82951245001130 | SECRETARIA DE ESTADO DA SAUDE | 16919 | Cirurgia Cardiovascular | Especialidade | 1 |
+| SC | 82951245000835 | SECRETARIA DE ESTADO DA SAUDE | 16142 | Cirurgia Geral | Especialidade | 2 |
+| SC | 82951245002617 | SECRETARIA DE ESTADO DA SAUDE | 16752 | Cirurgia Geral | Especialidade | 2 |
+| SC | 82951245002455 | SECRETARIA DE ESTADO DA SAUDE | 16765 | Cirurgia Geral | Especialidade | 2 |
+| SC | 82951245001050 | SECRETARIA DE ESTADO DA SAUDE | 16353 | Clínica Médica | Especialidade | 6 |
+| SC | 82951245002617 | SECRETARIA DE ESTADO DA SAUDE | 16760 | Clínica Médica | Especialidade | 2 |
+| SC | 82951245002455 | SECRETARIA DE ESTADO DA SAUDE | 16762 | Clínica Médica | Especialidade | 6 |
+| SC | 82951245002536 | SECRETARIA DE ESTADO DA SAUDE | 16104 | Ginecologia e Obstetrícia | Especialidade | 3 |
+| SC | 82951245001300 | SECRETARIA DE ESTADO DA SAUDE | 17655 | Ginecologia e Obstetrícia | Especialidade | 3 |
+| SC | 82951245002374 | SECRETARIA DE ESTADO DA SAUDE | 16036 | Medicina Intensiva | Especialidade | 2 |
+| SC | 82951245000835 | SECRETARIA DE ESTADO DA SAUDE | 16109 | Medicina Intensiva | Especialidade | 2 |
+| SC | 82951245002455 | SECRETARIA DE ESTADO DA SAUDE | 16764 | Medicina Intensiva | Especialidade | 2 |
+| SC | 82951245000835 | SECRETARIA DE ESTADO DA SAUDE | 16170 | Neurologia | Especialidade | 3 |
+| SC | 82951245000835 | SECRETARIA DE ESTADO DA SAUDE | 16110 | Oftalmologia | Especialidade | 2 |
+| SC | 82951245000835 | SECRETARIA DE ESTADO DA SAUDE | 16144 | Ortopedia e Traumatologia | Especialidade | 1 |
+| SC | 82951245000916 | SECRETARIA DE ESTADO DA SAUDE | 16060 | Pediatria | Especialidade | 2 |
+| SC | 82951245000835 | SECRETARIA DE ESTADO DA SAUDE | 16141 | Urologia | Especialidade | 1 |
+| SC | 83883306001566 | SOCIEDADE DIVINA PROVIDENCIA | 17098 | Cardiologia | Especialidade | 2 |
+| SC | 92736040000890 | SOCIEDADE LITERARIA E CARITATIVA SANTO AGOSTINHO | 16208 | Cirurgia Geral | Especialidade | 1 |
+| SC | 84942887000127 | SOCIEDADE MAE DA DIVINA PROVIDENCIA | 16722 | Medicina Intensiva | Especialidade | 1 |
+| SC | 84942887000127 | SOCIEDADE MAE DA DIVINA PROVIDENCIA | 16928 | Ortopedia e Traumatologia | Especialidade | 1 |
+| SE | 13258637000124 | ASSOCIACAO BENEFICENCIA AMPARO DE MARIA | 17769 | Cirurgia Geral | Especialidade | 1 |
+| SE | 13258637000124 | ASSOCIACAO BENEFICENCIA AMPARO DE MARIA | 17770 | Clínica Médica | Especialidade | 1 |
+| SE | 13258637000124 | ASSOCIACAO BENEFICENCIA AMPARO DE MARIA | 17772 | Medicina de Família e Comunidade | Especialidade | 2 |
+| SE | 13258637000124 | ASSOCIACAO BENEFICENCIA AMPARO DE MARIA | 17771 | Pediatria | Especialidade | 1 |
+| SE | 15126437003169 | EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH | 16361 | Clínica Médica | Especialidade | 5 |
+| SE | 13016332000106 | FUNDACAO DE BENEFICENCIA HOSPITAL DE CIRURGIA | 16130 | Cardiologia | Especialidade | 2 |
+| SE | 13016332000106 | FUNDACAO DE BENEFICENCIA HOSPITAL DE CIRURGIA | 16132 | Cirurgia Vascular | Especialidade | 1 |
+| SE | 13016332000106 | FUNDACAO DE BENEFICENCIA HOSPITAL DE CIRURGIA | 16133 | Medicina Intensiva | Especialidade | 2 |
+| SE | 13016332000106 | FUNDACAO DE BENEFICENCIA HOSPITAL DE CIRURGIA | 16131 | Ortopedia e Traumatologia | Especialidade | 1 |
+| SP | 44943835000231 | ACAO EDUCACIONAL CLARETIANA | 17512 | Cirurgia Geral | Especialidade | 1 |
+| SP | 44943835000231 | ACAO EDUCACIONAL CLARETIANA | 17307 | Medicina de Família e Comunidade | Especialidade | 2 |
+| SP | 44943835000231 | ACAO EDUCACIONAL CLARETIANA | 17493 | Pediatria | Especialidade | 1 |
+| SP | 09528436000122 | ASSOCIACAO BENEFICENTE HOSPITAL UNIVERSITARIO | 17459 | Cirurgia Geral | Especialidade | 2 |
+| SP | 09528436000122 | ASSOCIACAO BENEFICENTE HOSPITAL UNIVERSITARIO | 17474 | Clínica Médica | Especialidade | 2 |
+| SP | 09528436000122 | ASSOCIACAO BENEFICENTE HOSPITAL UNIVERSITARIO | 17464 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| SP | 09528436000122 | ASSOCIACAO BENEFICENTE HOSPITAL UNIVERSITARIO | 17479 | Ortopedia e Traumatologia | Especialidade | 1 |
+| SP | 50460351000153 | ASSOCIACAO CASA FONTE DA VIDA | 17502 | Clínica Médica | Especialidade | 2 |
+| SP | 50460351000153 | ASSOCIACAO CASA FONTE DA VIDA | 17789 | Clínica Médica | Especialidade | 2 |
+| SP | 53412144000111 | ASSOCIACAO DA SANTA CASA DE MISERICORDIA DE OURINHOS | 16039 | Cirurgia Geral | Especialidade | 2 |
+| SP | 55983670000167 | ASSOCIACAO DE ENSINO DE RIBEIRAO PRETO | 17415 | Medicina de Família e Comunidade | Especialidade | 1 |
+| SP | 43374768000138 | ASSOCIACAO EDUCACIONAL NOVE DE JULHO | 16114 | Cirurgia Geral | Especialidade | 3 |
+| SP | 43374768000138 | ASSOCIACAO EDUCACIONAL NOVE DE JULHO | 16115 | Ginecologia e Obstetrícia | Especialidade | 4 |
+| SP | 43374768001886 | ASSOCIACAO EDUCACIONAL NOVE DE JULHO | 16116 | Pediatria | Especialidade | 5 |
+| SP | 53221255006777 | ASSOCIACAO LAR SAO FRANCISCO DE ASSIS NA PROVIDENCIA DE DEUS | 17126 | Clínica Médica | Especialidade | 4 |
+| SP | 53221255005100 | ASSOCIACAO LAR SAO FRANCISCO DE ASSIS NA PROVIDENCIA DE DEUS | 17745 | Clínica Médica | Especialidade | 1 |
+| SP | 53221255005100 | ASSOCIACAO LAR SAO FRANCISCO DE ASSIS NA PROVIDENCIA DE DEUS | 16026 | Pediatria | Especialidade | 1 |
+| SP | 43969732000105 | ASSOCIACAO SAO BENTO DE ENSINO | 16057 | Ortopedia e Traumatologia | Especialidade | 2 |
+| SP | 07855811000113 | ASSOCIACAO SAUDE, DIREITOS E DEVERES A TODOS | 17200 | Cirurgia Geral | Especialidade | 3 |
+| SP | 07855811000113 | ASSOCIACAO SAUDE, DIREITOS E DEVERES A TODOS | 17201 | Ginecologia e Obstetrícia | Especialidade | 3 |
+| SP | 07855811000113 | ASSOCIACAO SAUDE, DIREITOS E DEVERES A TODOS | 17204 | Medicina Intensiva | Especialidade | 3 |
+| SP | 07855811000113 | ASSOCIACAO SAUDE, DIREITOS E DEVERES A TODOS | 17203 | Pediatria | Especialidade | 3 |
+| SP | 07855811000113 | ASSOCIACAO SAUDE, DIREITOS E DEVERES A TODOS | 16472 | Urologia | Especialidade | 3 |
+| SP | 59766774000170 | CENTRO UNIVERSITARIO DAS FACULDADES ASSOCIADAS DE ENSINO-FAE | 16083 | Clínica Médica | Especialidade | 2 |
+| SP | 59766774000170 | CENTRO UNIVERSITARIO DAS FACULDADES ASSOCIADAS DE ENSINO-FAE | 16080 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| SP | 59766774000170 | CENTRO UNIVERSITARIO DAS FACULDADES ASSOCIADAS DE ENSINO-FAE | 16081 | Medicina de Família e Comunidade | Especialidade | 2 |
+| SP | 59766774000170 | CENTRO UNIVERSITARIO DAS FACULDADES ASSOCIADAS DE ENSINO-FAE | 16082 | Pediatria | Especialidade | 2 |
+| SP | 03061303000102 | CENTRO UNIVERSITARIO DE ADAMANTINA - UNIFAI | 16330 | Medicina de Família e Comunidade | Especialidade | 4 |
+| SP | 50985266000109 | FACULDADE DE MEDICINA DE JUNDIAI | 16029 | Cardiologia | Especialidade | 2 |
+| SP | 00326036000160 | FACULDADE DE MEDICINA DE SAO JOSE DO RIO PRETO | 16704 | Medicina de Família e Comunidade | Especialidade | 2 |
+| SP | 00326036000160 | FACULDADE DE MEDICINA DE SAO JOSE DO RIO PRETO | 16708 | Medicina Paliativa | Área de atuação | 4 |
+| SP | 46004883000109 | FUNDACAO DE AMPARO AO ENSINO E PESQUISA | 17546 | Medicina de Família e Comunidade | Especialidade | 2 |
+| SP | 57571275000100 | FUNDACAO DO ABC | 17393 | Hematologia e Hemoterapia | Especialidade | 2 |
+| SP | 57571275000798 | FUNDACAO DO ABC | 17488 | Hematologia e Hemoterapia | Especialidade | 2 |
+| SP | 57571275000798 | FUNDACAO DO ABC | 17444 | Medicina Intensiva | Especialidade | 2 |
+| SP | 50753755000135 | FUNDACAO DOUTOR AMARAL CARVALHO | 16189 | Cirurgia Geral | Especialidade | 3 |
+| SP | 50753755000135 | FUNDACAO DOUTOR AMARAL CARVALHO | 16190 | Medicina Paliativa | Área de atuação | 2 |
+| SP | 60499365000215 | FUNDACAO LEONOR DE BARROS CAMARGO | 17441 | Medicina de Família e Comunidade | Especialidade | 2 |
+| SP | 47074851001467 | FUNDACAO PADRE ALBINO | 16223 | Cirurgia Geral | Especialidade | 2 |
+| SP | 47969134000189 | FUNDACAO SANTA CASA DE MISERICORDIA DE FRANCA | 17063 | Cardiologia | Especialidade | 2 |
+| SP | 47969134000189 | FUNDACAO SANTA CASA DE MISERICORDIA DE FRANCA | 17065 | Cirurgia Geral | Especialidade | 5 |
+| SP | 11899413000176 | FUNDO MUNICIPAL DE SAUDE DE SAO VICENTE | 17292 | Medicina de Família e Comunidade | Especialidade | 10 |
+| SP | 60747318000162 | INSTITUTO DE ASSISTENCIA MEDICA AO SERVIDOR PUBLICO ESTADUAL | 16797 | Hematologia e Hemoterapia | Especialidade | 3 |
+| SP | 09538688000566 | INSTITUTO DE RESPONSABILIDADE SOCIAL SIRIO LIBANES | 16216 | Cirurgia Geral | Especialidade | 2 |
+| SP | 12123668000105 | INSTITUTO POLICLIN DE ENSINO E PESQUISA | 16569 | Cardiologia | Especialidade | 2 |
+| SP | 05095474000188 | INSTITUTO SUEL ABUJAMRA | 17840 | Oftalmologia | Especialidade | 6 |
+| SP | 47844287000108 | IRMANDADE DA SANTA CASA DE MIS. DE FERNANDOPOLIS | 17803 | Medicina Intensiva | Especialidade | 1 |
+| SP | 50119585000131 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE ITATIBA | 16094 | Cirurgia Geral | Especialidade | 2 |
+| SP | 50119585000131 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE ITATIBA | 17099 | Clínica Médica | Especialidade | 2 |
+| SP | 50119585000131 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE ITATIBA | 16107 | Ginecologia e Obstetrícia | Especialidade | 1 |
+| SP | 50119585000131 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE ITATIBA | 17096 | Medicina de Família e Comunidade | Especialidade | 2 |
+| SP | 50119585000131 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE ITATIBA | 16096 | Ortopedia e Traumatologia | Especialidade | 2 |
+| SP | 51473692000126 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE LIMEIRA | 17442 | Cirurgia Cardiovascular | Especialidade | 1 |
+| SP | 51473692000126 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE LIMEIRA | 17451 | Oftalmologia | Especialidade | 1 |
+| SP | 51473692000126 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE LIMEIRA | 17457 | Ortopedia e Traumatologia | Especialidade | 1 |
+| SP | 51473692000126 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE LIMEIRA | 17461 | Urologia | Especialidade | 1 |
+| SP | 52049244000162 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE MARILIA | 17708 | Ortopedia e Traumatologia | Especialidade | 1 |
+| SP | 59981712000181 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE S J R PRETO | 16904 | Oftalmologia | Especialidade | 2 |
+| SP | 59610394000142 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE SAO CARLOS | 16309 | Cardiologia | Especialidade | 2 |
+| SP | 59610394000142 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE SAO CARLOS | 16311 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| SP | 59610394000142 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE SAO CARLOS | 16312 | Ortopedia e Traumatologia | Especialidade | 1 |
+| SP | 45186053000187 | IRMANDADE DA STA CASA DE MISERICORDIA DE S J DOS CAMPOS | 16867 | Cirurgia Geral | Especialidade | 2 |
+| SP | 45186053000187 | IRMANDADE DA STA CASA DE MISERICORDIA DE S J DOS CAMPOS | 16868 | Clínica Médica | Especialidade | 2 |
+| SP | 48547806000120 | IRMANDADE SENHOR DOS PASSOS E SANTA CASA DE MISERICORDIA DE GUARATINGUETA | 17269 | Pediatria | Especialidade | 2 |
+| SP | 45279635000108 | MUNICIPIO DE ATIBAIA | 16715 | Medicina de Família e Comunidade | Especialidade | 4 |
+| SP | 46523171000287 | MUNICIPIO DE OSASCO | 16122 | Ginecologia e Obstetrícia | Especialidade | 3 |
+| SP | 45751435000106 | MUNICIPIO DE PAULINIA | 16547 | Ginecologia e Obstetrícia | Especialidade | 1 |
+| SP | 45751435000106 | MUNICIPIO DE PAULINIA | 17764 | Ginecologia e Obstetrícia | Especialidade | 1 |
+| SP | 45751435000106 | MUNICIPIO DE PAULINIA | 16549 | Ortopedia e Traumatologia | Especialidade | 1 |
+| SP | 45751435000106 | MUNICIPIO DE PAULINIA | 17763 | Ortopedia e Traumatologia | Especialidade | 1 |
+| SP | 45751435000106 | MUNICIPIO DE PAULINIA | 16548 | Urologia | Especialidade | 1 |
+| SP | 45751435000106 | MUNICIPIO DE PAULINIA | 17765 | Urologia | Especialidade | 1 |
+| SP | 46341038000129 | MUNICIPIO DE PIRACICABA | 17423 | Cardiologia | Especialidade | 2 |
+| SP | 47018676000176 | REDE MUNICIPAL DR. MARIO GATTI DE URGENCIA, EMERGENCIA E HOSPITALAR | 16509 | Cirurgia Geral | Especialidade | 6 |
+| SP | 47018676000176 | REDE MUNICIPAL DR. MARIO GATTI DE URGENCIA, EMERGENCIA E HOSPITALAR | 16511 | Clínica Médica | Especialidade | 10 |
+| SP | 47018676000176 | REDE MUNICIPAL DR. MARIO GATTI DE URGENCIA, EMERGENCIA E HOSPITALAR | 16524 | Oftalmologia | Especialidade | 3 |
+| SP | 47018676000176 | REDE MUNICIPAL DR. MARIO GATTI DE URGENCIA, EMERGENCIA E HOSPITALAR | 16525 | Ortopedia e Traumatologia | Especialidade | 4 |
+| SP | 47018676000176 | REDE MUNICIPAL DR. MARIO GATTI DE URGENCIA, EMERGENCIA E HOSPITALAR | 16526 | Otorrinolaringologia | Especialidade | 2 |
+| SP | 47018676000176 | REDE MUNICIPAL DR. MARIO GATTI DE URGENCIA, EMERGENCIA E HOSPITALAR | 16527 | Pediatria | Especialidade | 5 |
+| SP | 47018676000176 | REDE MUNICIPAL DR. MARIO GATTI DE URGENCIA, EMERGENCIA E HOSPITALAR | 16528 | Urologia | Especialidade | 2 |
+| SP | 43751502000167 | SANTA CASA DE MISERICORDIA DE ARACATUBA | 16271 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| SP | 44364826000105 | SANTA CASA DE MISERICORDIA DE ASSIS | 16452 | Cirurgia Geral | Especialidade | 2 |
+| SP | 44364826000105 | SANTA CASA DE MISERICORDIA DE ASSIS | 16457 | Clínica Médica | Especialidade | 2 |
+| SP | 44364826000105 | SANTA CASA DE MISERICORDIA DE ASSIS | 16455 | Oftalmologia | Especialidade | 2 |
+| SP | 44782779000110 | SANTA CASA DE MISERICORDIA DE BARRETOS | 17671 | Cirurgia Cardiovascular | Especialidade | 1 |
+| SP | 44782779000110 | SANTA CASA DE MISERICORDIA DE BARRETOS | 17672 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| SP | 44782779000110 | SANTA CASA DE MISERICORDIA DE BARRETOS | 17673 | Ortopedia e Traumatologia | Especialidade | 1 |
+| SP | 50304377000102 | SANTA CASA DE MISERICORDIA DE ITUVERAVA | 16799 | Ginecologia e Obstetrícia | Especialidade | 2 |
+| SP | 46374500014730 | SECRETARIA DE ESTADO DA SAUDE | 16168 | Cirurgia Vascular | Especialidade | 1 |
+| SP | 46374500014730 | SECRETARIA DE ESTADO DA SAUDE | 16169 | Oftalmologia | Especialidade | 2 |
+| SP | 46374500014730 | SECRETARIA DE ESTADO DA SAUDE | 16167 | Ortopedia e Traumatologia | Especialidade | 1 |
+| SP | 61590410000124 | SOCIEDADE BENEFICENTE DE SENHORAS - HOSPITAL SIRIO LIBANES | 16923 | Cirurgia Geral | Especialidade | 2 |
+| SP | 61590410000124 | SOCIEDADE BENEFICENTE DE SENHORAS - HOSPITAL SIRIO LIBANES | 16925 | Clínica Médica | Especialidade | 3 |
+| SP | 61590410000124 | SOCIEDADE BENEFICENTE DE SENHORAS - HOSPITAL SIRIO LIBANES | 16924 | Ginecologia e Obstetrícia | Especialidade | 4 |
+| SP | 55990451000105 | SOCIEDADE PORTUGUESA DE BENEFICENCIA | 17097 | Cardiologia | Especialidade | 2 |
+| SP | 55990451000105 | SOCIEDADE PORTUGUESA DE BENEFICENCIA | 17116 | Cirurgia Geral | Especialidade | 2 |
+| SP | 55990451000105 | SOCIEDADE PORTUGUESA DE BENEFICENCIA | 17106 | Medicina Intensiva | Especialidade | 1 |
+| SP | 55990451000105 | SOCIEDADE PORTUGUESA DE BENEFICENCIA | 17119 | Ortopedia e Traumatologia | Especialidade | 4 |
+| SP | 58250689001245 | UNIAO SOCIAL CAMILIANA | 17322 | Medicina Paliativa | Área de atuação | 2 |
+| SP | 58250689001245 | UNIAO SOCIAL CAMILIANA | 17330 | Urologia | Especialidade | 1 |
+| SP | 63025530013605 | UNIVERSIDADE DE SAO PAULO | 17244 | Cirurgia Geral | Especialidade | 6 |
+| SP | 63025530013605 | UNIVERSIDADE DE SAO PAULO | 17247 | Clínica Médica | Especialidade | 4 |
+| SP | 63025530013605 | UNIVERSIDADE DE SAO PAULO | 17249 | Medicina de Família e Comunidade | Especialidade | 6 |
+| SP | 63025530013605 | UNIVERSIDADE DE SAO PAULO | 17250 | Medicina Intensiva | Especialidade | 4 |
+| SP | 63025530013605 | UNIVERSIDADE DE SAO PAULO | 17253 | Neurologia | Especialidade | 2 |
+| SP | 63025530013605 | UNIVERSIDADE DE SAO PAULO | 17254 | Oftalmologia | Especialidade | 3 |
+| SP | 63025530001852 | UNIVERSIDADE DE SAO PAULO | 16337 | Otorrinolaringologia | Especialidade | 1 |
+| SP | 48031918001953 | UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO | 16371 | Medicina Nuclear | Especialidade | 1 |
+| **DEMAIS ESPECIALIDADES** |  |  |  |  |  |  |
+| **UF** | **CNPJ** | **RAZÃO SOCIAL** | **CÓDIGO MS** | **NOME DO PROGRAMA** | **ESPECIALIDADE ÁREA DE ATUAÇÃO - ANO ADICIONAL** | **BOLSAS TOTAIS CONCEDIDAS** |
+| AL | 35642172000143 | CARVALHO BELTRAO SERVICOS DE SAUDE LTDA | 17626 | Cirurgia Bariátrica | Área de atuação | 1 |
+| AL | 12200259000327 | SECRETARIA DE ESTADO DA SAUDE | 16159 | Ecocardiografia | Área de atuação | 1 |
+| AL | 12200259000246 | SECRETARIA DE ESTADO DA SAUDE | 16066 | Gastroenterologia Pediátrica | Área de atuação | 1 |
+| AL | 12200259000246 | SECRETARIA DE ESTADO DA SAUDE | 16067 | Infectologia Pediátrica | Área de atuação | 1 |
+| AL | 12200259000246 | SECRETARIA DE ESTADO DA SAUDE | 16069 | Pneumologia Pediátrica | Área de atuação | 1 |
+| AL | 12200259000246 | SECRETARIA DE ESTADO DA SAUDE | 17586 | Ultrassonografia Geral | Área de atuação | 3 |
+| BA | 15178551000117 | ASSOCIACAO OBRAS SOCIAIS IRMA DULCE | 16887 | Cirurgia da Mão | Especialidade | 1 |
+| BA | 15178551000117 | ASSOCIACAO OBRAS SOCIAIS IRMA DULCE | 16890 | Radiologia e Diagnóstico por Imagem | Especialidade | 1 |
+| BA | 13937131007669 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17002 | Cirurgia da Mão | Especialidade | 2 |
+| BA | 13937131004210 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17211 | Emergência Pediátrica | Área de atuação | 2 |
+| BA | 13937131007669 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17007 | Ortopedia e Traumatologia | Ano adicional | 6 |
+| BA | 13937131006263 | BAHIA SECRETARIA DE SAUDE DO ESTADO | 17447 | Radiologia e Diagnóstico por Imagem | Especialidade | 2 |
+| BA | 15166416000151 | REAL SOCIEDADE PORTUGUESA DE BENEF 16 DE SETEMBRO | 16899 | Ecocardiografia | Área de atuação | 2 |
+| BA | 15153745000249 | SANTA CASA DE MISERICORDIA DA BAHIA | 16221 | Coloproctologia | Especialidade | 1 |
+| BA | 15153745000249 | SANTA CASA DE MISERICORDIA DA BAHIA | 16676 | Dermatologia | Especialidade | 1 |
+| BA | 15153745000249 | SANTA CASA DE MISERICORDIA DA BAHIA | 16135 | Radiologia e Diagnóstico por Imagem | Especialidade | 4 |
+| BA | 14349740000142 | SANTA CASA DE MISERICORDIA DE ITABUNA | 16262 | Nefrologia | Especialidade | 2 |
+| CE | 73695868000127 | ESCOLA DE SAUDE PUBLICA DO CEARA | 17001 | Cardiologia Pediátrica | Área de atuação | 6 |
+| CE | 05268526002467 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17067 | Cirurgia da Cabeça e Pescoço | Especialidade | 1 |
+| CE | 05268526000847 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17064 | Clínica médica | Ano adicional | 2 |
+| CE | 05268526002467 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17073 | Endoscopia | Especialidade | 3 |
+| CE | 05268526002467 | INSTITUTO DE SAUDE E GESTAO HOSPITALAR | 17109 | Radiologia e Diagnóstico por Imagem | Especialidade | 4 |
+| CE | 07265515000162 | INSTITUTO DO CANCER DO CEARA | 17811 | Cirurgia da Cabeça e Pescoço | Especialidade | 1 |
+| CE | 07265515000162 | INSTITUTO DO CANCER DO CEARA | 17723 | Radiologia e Diagnóstico por Imagem | Especialidade | 1 |
+| CE | 07835044000180 | INSTITUTO DR JOSE FROTA | 16241 | Cirurgia da Mão | Especialidade | 1 |
+| CE | 07954571001429 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 17824 | Endocrinologia e Metabologia | Especialidade | 1 |
+| CE | 07954571001429 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 17117 | Endoscopia digestiva | Ano adicional | 1 |
+| CE | 07954571002239 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 17808 | Endoscopia Respiratória | Área de atuação | 1 |
+| CE | 07954571002239 | SECRETARIA DA SAUDE DO ESTADO DO CEARA | 17813 | Pneumologia | Especialidade | 2 |
+| DF | 00394700000108 | DISTRITO FEDERAL SECRETARIA DE SAUDE | 17845 | Ecocardiografia | Área de atuação | 2 |
+| DF | 00394700000108 | DISTRITO FEDERAL SECRETARIA DE SAUDE | 17848 | Infectologia Hospitalar | Área de atuação | 1 |
+| ES | 28137925000106 | ASSOCIACAO FEMININA DE EDUCACAO E COMBATE AO CANCER | 17513 | Clínica médica | Ano adicional | 1 |
+| ES | 28137925000106 | ASSOCIACAO FEMININA DE EDUCACAO E COMBATE AO CANCER | 17508 | Radiologia e Diagnóstico por Imagem | Especialidade | 2 |
+| ES | 27502715000107 | FUND SOCIAL RURAL DE COLATINA | 17017 | Angiorradiologia e Cirurgia Endovascular | Área de atuação | 1 |
+| ES | 28141190000267 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE VITORIA | 17276 | Radiologia e Diagnóstico por Imagem | Especialidade | 2 |
+| GO | 01060102000165 | ASSOCIACAO EDUCATIVA EVANGELICA | 16489 | Nefrologia | Especialidade | 2 |
+| GO | 01060102000165 | ASSOCIACAO EDUCATIVA EVANGELICA | 16493 | Radiologia e Diagnóstico por Imagem | Especialidade | 2 |
+| GO | 01619790000150 | SANTA CASA DE MISERICORDIA DE GOIANIA | 16497 | Cirurgia do Aparelho Digestivo | Especialidade | 2 |
+| GO | 01619790000150 | SANTA CASA DE MISERICORDIA DE GOIANIA | 16099 | Hemodinâmica e Cardiologia Intervencionista | Área de atuação | 1 |
+| GO | 02529964000742 | SECRETARIA DE ESTADO DA SAUDE | 16587 | Endoscopia Ginecológica | Área de atuação | 1 |
+| MG | 21040696000230 | ASSOCIACAO DE INTEGRACAO SOCIAL DE ITAJUBA | 16694 | Hemodinâmica e Cardiologia Intervencionista | Área de atuação | 1 |
+| MG | 25104902000107 | ASSOCIACAO HOSPITALAR SANTA ROSALIA | 16077 | Nefrologia | Especialidade | 2 |
+| MG | 17513235000180 | ASSOCIACAO MARIO PENNA | 17430 | Cirurgia da Cabeça e Pescoço | Especialidade | 1 |
+| MG | 17513235000180 | ASSOCIACAO MARIO PENNA | 17520 | Radiologia e Diagnóstico por Imagem | Especialidade | 2 |
+| MG | 16650756000116 | CASA DE CARIDADE DE ALFENAS N S P SOCORRO | 17420 | Radiologia e Diagnóstico por Imagem | Especialidade | 1 |
+| MG | 17200429000125 | FUNDACAO BENJAMIN GUIMARAES | 16586 | Cirurgia Plástica | Especialidade | 2 |
+| MG | 17200429000125 | FUNDACAO BENJAMIN GUIMARAES | 16603 | Nefrologia | Especialidade | 3 |
+| MG | 00961315000103 | FUNDACAO CRISTIANO VARELLA | 16101 | Cirurgia Torácica | Especialidade | 2 |
+| MG | 23951916000475 | FUNDACAO DE ENSINO SUPERIOR DO VALE DO SAPUCAI | 16695 | Nefrologia | Especialidade | 1 |
+| MG | 17178203000175 | FUNDACAO EDUCACIONAL LUCAS MACHADO FELUMA | 16447 | Cirurgia Plástica | Especialidade | 2 |
+| MG | 17178203000175 | FUNDACAO EDUCACIONAL LUCAS MACHADO FELUMA | 16448 | Endoscopia | Especialidade | 2 |
+| MG | 17178203000175 | FUNDACAO EDUCACIONAL LUCAS MACHADO FELUMA | 16454 | Gastroenterologia | Especialidade | 2 |
+| MG | 17178203000175 | FUNDACAO EDUCACIONAL LUCAS MACHADO FELUMA | 16449 | Nefrologia | Especialidade | 3 |
+| MG | 19843929001344 | FUNDACAO HOSPITALAR DO ESTADO DE MINAS GERAIS | 17125 | Cirurgia da Mão | Especialidade | 2 |
+| MG | 13025354000132 | FUNDACAO HOSPITALAR SAO FRANCISCO DE ASSIS - FHSFA | 16317 | Cirurgia da Mão | Especialidade | 2 |
+| MG | 19878404000100 | FUNDACAO SAO FRANCISCO XAVIER | 16376 | Gastroenterologia | Especialidade | 1 |
+| MG | 19878404000100 | FUNDACAO SAO FRANCISCO XAVIER | 17424 | Medicina do Trabalho | Especialidade | 1 |
+| MG | 21583042000172 | HOSPITAL E MATERNIDADE THEREZINHA DE JESUS | 17659 | Cirurgia Plástica | Especialidade | 1 |
+| MG | 21583042000172 | HOSPITAL E MATERNIDADE THEREZINHA DE JESUS | 17660 | Endocrinologia e Metabologia | Especialidade | 1 |
+| MG | 21583042000172 | HOSPITAL E MATERNIDADE THEREZINHA DE JESUS | 17545 | Infectologia | Especialidade | 1 |
+| MG | 22488241000245 | INSTITUTO DE SAUDE HSVP | 16550 | Dermatologia | Especialidade | 1 |
+| MG | 22488241000245 | INSTITUTO DE SAUDE HSVP | 16553 | Endoscopia | Especialidade | 2 |
+| MG | 22488241000245 | INSTITUTO DE SAUDE HSVP | 16552 | Radiologia e Diagnóstico por Imagem | Especialidade | 2 |
+| MG | 23647209000147 | IRMANDADE DO HOSPITAL DA SANTA CASA DE POCOS DE CALDAS | 16432 | Nutrologia | Especialidade | 2 |
+| MG | 17209891000193 | SANTA CASA DE MISERICORDIA DE BELO HORIZONTE | 16273 | Pneumologia | Especialidade | 1 |
+| MG | 22012907000103 | SERVICO SOCIAL AUTONOMO HOSPITAL METROPOLITANO DOUTOR CELIO DE CASTRO | 16978 | Infectologia Hospitalar | Área de atuação | 2 |
+| MG | 22012907000103 | SERVICO SOCIAL AUTONOMO HOSPITAL METROPOLITANO DOUTOR CELIO DE CASTRO | 16976 | Radiologia e Diagnóstico por Imagem | Especialidade | 1 |
+| MG | 10550765000159 | SOCIEDADE BENEFICENTE SAGRADA FAMILIA | 16390 | Radiologia e Diagnóstico por Imagem | Especialidade | 2 |
+| PB | 06101061000121 | FUNDACAO PEDRO AMERICO | 17335 | Dermatologia | Especialidade | 2 |
+| PB | 04827493000199 | FUNDO MUNICIPAL DE SAUDE | 16247 | Radiologia e Diagnóstico por Imagem | Especialidade | 3 |
+| PB | 08674396000164 | FUNDO MUNICIPAL DE SAUDE DE MAMANGUAPE | 17180 | Medicina de família e comunidade - Saúde Indígena | Ano adicional | 3 |
+| PB | 09084815000170 | MUNICIPIO DE PATOS | 16940 | Medicina de família e comunidade - Atenção Domiciliar | Ano adicional | 8 |
+| PB | 08778268000160 | SECRETARIA DE ESTADO DA SAUDE - SES | 16295 | Infectologia | Especialidade | 2 |
+| PB | 08778268000160 | SECRETARIA DE ESTADO DA SAUDE - SES | 16296 | Pneumologia | Especialidade | 2 |
+| PE | 07730620000206 | FUNDACAO AMERICO MOTA | 17379 | Radiologia e Diagnóstico por Imagem | Especialidade | 3 |
+| PE | 09794975021020 | FUNDACAO DE SAUDE AMAURY DE MEDEIROS | 16893 | Neurocirugia - Cirurgia cerobrovascular | Ano adicional | 1 |
+| PE | 09794975021020 | FUNDACAO DE SAUDE AMAURY DE MEDEIROS | 16894 | Neurocirugia - Cirurgia da coluna vertebral | Ano adicional | 1 |
+| PE | 09794975021020 | FUNDACAO DE SAUDE AMAURY DE MEDEIROS | 16896 | Neurocirugia - Neurocirurgia Oncológica | Ano adicional | 1 |
+| PE | 09767633000102 | FUNDACAO MANOEL DA SILVA ALMEIDA | 16736 | Cirurgia Pediátrica | Especialidade | 1 |
+| PE | 11022597000272 | FUNDACAO UNIVERSIDADE DE PERNAMBUCO | 17605 | Cirurgia cardiovascular | Ano adicional | 1 |
+| PE | 11022597000272 | FUNDACAO UNIVERSIDADE DE PERNAMBUCO | 17603 | Cirurgia Plástica | Especialidade | 1 |
+| PE | 10583920000800 | HOSPITAL DO TRICENTENARIO | 17392 | Ecocardiografia | Área de atuação | 2 |
+| PE | 10583920000800 | HOSPITAL DO TRICENTENARIO | 17397 | Hemodinâmica e Cardiologia Intervencionista | Área de atuação | 1 |
+| PE | 10988301000129 | INSTITUTO DE MEDICINA INTEGRAL PROFESSOR FERNANDO FIGUEIRA - IMIP | 17669 | Cardiologia-cardiointensivismo | Ano adicional | 1 |
+| PE | 10988301000129 | INSTITUTO DE MEDICINA INTEGRAL PROFESSOR FERNANDO FIGUEIRA - IMIP | 17668 | Cirurgia pediatrica | Ano adicional | 1 |
+| PE | 10869782000404 | IRMANDADE DA SANTA CASA DE MISERICORDIA DO RECIFE | 17093 | Ortopedia e traumatologia | Ano adicional | 2 |
+| PE | 10892164000124 | REAL HOSPITAL PORTUGUES DE BENEFICENCIA EM PERNAMBUCO | 16974 | Pneumologia | Especialidade | 2 |
+| PE | 10892164000124 | REAL HOSPITAL PORTUGUES DE BENEFICENCIA EM PERNAMBUCO | 16975 | Radiologia e Diagnóstico por Imagem | Especialidade | 5 |
+| PI | 15126437000224 | EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH | 16392 | Coloproctologia | Especialidade | 2 |
+| PR | 78613841000161 | ASSOCIACAO EVANGELICA BENEFICENTE DE LONDRINA | 17500 | Nefrologia | Especialidade | 1 |
+| PR | 04169712000190 | ASSOCIACAO NORTE PARANAENSE DE COMBATE AO CANCER | 16884 | Angiorradiologia e Cirurgia Endovascular | Área de atuação | 1 |
+| PR | 04169712000190 | ASSOCIACAO NORTE PARANAENSE DE COMBATE AO CANCER | 16892 | Ecocardiografia | Área de atuação | 2 |
+| PR | 04169712000190 | ASSOCIACAO NORTE PARANAENSE DE COMBATE AO CANCER | 16900 | Eletrofisiologia Clínica Invasiva | Área de atuação | 2 |
+| PR | 76659820000232 | ASSOCIACAO PARANAENSE DE CULTURA - APC | 17477 | Angiorradiologia e Cirurgia Endovascular | Área de atuação | 1 |
+| PR | 78350188000195 | FUNDACAO DA UNIVERSIDADE FEDERAL DO PARANA PARA O DESENVOLVIMENTO DA CIENCIA,TECNOLOGIA E DA CULTURA | 16946 | Radiologia e Diagnóstico por Imagem | Especialidade | 2 |
+| PR | 76562198000592 | HOSPITAL NOSSA SENHORA DAS GRACAS | 16908 | Nefrologia | Especialidade | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16623 | Cirurgia do Aparelho Digestivo | Especialidade | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16624 | Cirurgia do Trauma | Área de atuação | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16202 | Cirurgia Plástica | Especialidade | 3 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16628 | Coloproctologia | Especialidade | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16195 | Dermatologia | Especialidade | 5 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16629 | Endocrinologia e Metabologia | Especialidade | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16632 | Nefrologia | Especialidade | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16636 | Radiologia e Diagnóstico por Imagem | Especialidade | 1 |
+| PR | 60967551002102 | INSTITUTO PRESBITERIANO MACKENZIE | 16638 | Reumatologia | Especialidade | 1 |
+| PR | 78614971000119 | IRMANDADE DA SANTA CASA DE LONDRINA | 16126 | Endoscopia | Especialidade | 1 |
+| PR | 78614971000119 | IRMANDADE DA SANTA CASA DE LONDRINA | 16125 | Gastroenterologia | Especialidade | 1 |
+| PR | 78640489000153 | UNIVERSIDADE ESTADUAL DE LONDRINA | 16346 | Transplante De Córnea / Oftalmologia | Ano adicional | 1 |
+| RJ | 28964252000150 | FUNDACAO BENEDITO PEREIRA NUNES | 16129 | Medicina Preventiva e Social | Especialidade | 2 |
+| RJ | 11217659000110 | INSTITUTO DE POS GRADUACAO EM CIENCIAS DA SAUDE IZAMAR MILIDIU DA SILVA | 17349 | Dermatologia | Especialidade | 2 |
+| RJ | 29138344001549 | MUNICIPIO DE PETROPOLIS | 17361 | Infectologia | Especialidade | 1 |
+| RJ | 29468055000293 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE | 16558 | Angiorradiologia e Cirurgia Endovascular | Área de atuação | 2 |
+| RJ | 29468055001265 | RIO DE JANEIRO SEC MUNICIPAL DE SAUDE | 16774 | Ortopedia e Traumatologia | Ano adicional | 4 |
+| RJ | 28683712000171 | SANTA CASA DE MISERICORDIA DE BARRA MANSA | 16087 | Cirurgia da Cabeça e Pescoço | Especialidade | 1 |
+| RJ | 03452469000150 | SECRETARIA DE ESTADO DE SAUDE - SES | 17767 | Cirurgia do Trauma | Área de atuação | 1 |
+| RJ | 33540014000157 | UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO | 16723 | Alergia e Imunologia Pediátrica | Área de atuação | 2 |
+| RJ | 33540014000157 | UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO | 16727 | Medicina do Sono | Área de atuação | 2 |
+| RJ | 33540014000157 | UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO | 16732 | Pneumologia | Especialidade | 1 |
+| RN | 08258295000102 | FUNDACAO UNIVERSIDADE DO ESTADO DO RIO GRANDE DO NORTE - FUERN | 16508 | Medicina de família e comunidade- Saúde Mental | Ano adicional | 3 |
+| RS | 92741016000254 | ASSOCIACAO DOS FUNCIONARIOS PUBLICOS DO ESTADO DO RIO GRANDE DO SUL | 16267 | Endoscopia Digestiva | Área de atuação | 1 |
+| RS | 03066309000920 | ASSOCIACAO FRANCISCANA DE ASSISTENCIA A SAUDE | 16127 | Medicina do Trabalho | Especialidade | 2 |
+| RS | 08579164000127 | ASSOCIACAO HOSPITALAR BENEFICENTE SANTO ANTONIO | 16985 | Cirurgia Bariátrica | Área de atuação | 2 |
+| RS | 04994418000112 | ASSOCIACAO HOSPITALAR VILA NOVA | 16474 | Psiquiatria Forense | Área de atuação | 2 |
+| SC | 76562198000320 | HOSPITAL NOSSA SENHORA DAS GRACAS | 16494 | Cardiologia Pediátrica | Área de atuação | 1 |
+| SC | 82951245001130 | SECRETARIA DE ESTADO DA SAUDE | 16918 | Angiorradiologia e Cirurgia Endovascular | Área de atuação | 1 |
+| SC | 82951245002455 | SECRETARIA DE ESTADO DA SAUDE | 16767 | Cardiologia | Ano adicional | 1 |
+| SC | 82951245000835 | SECRETARIA DE ESTADO DA SAUDE | 16184 | Cirurgia / Cirurgia Do Trauma | Ano adicional | 1 |
+| SC | 82951245002455 | SECRETARIA DE ESTADO DA SAUDE | 16768 | Ecocardiografia | Área de atuação | 1 |
+| SC | 82951245001130 | SECRETARIA DE ESTADO DA SAUDE | 16921 | Ecocardiografia | Área de atuação | 1 |
+| SC | 82951245002455 | SECRETARIA DE ESTADO DA SAUDE | 16770 | Gastroenterologia | Especialidade | 1 |
+| SC | 82951245001130 | SECRETARIA DE ESTADO DA SAUDE | 16922 | Hemodinâmica e Cardiologia Intervencionista | Área de atuação | 1 |
+| SC | 82951245001211 | SECRETARIA DE ESTADO DA SAUDE | 17755 | Infectologia | Especialidade | 1 |
+| SC | 82951245000916 | SECRETARIA DE ESTADO DA SAUDE | 16235 | Infectologia Pediátrica | Área de atuação | 1 |
+| SC | 82951245002536 | SECRETARIA DE ESTADO DA SAUDE | 16584 | Medicina Fetal | Área de atuação | 1 |
+| SC | 82951245001050 | SECRETARIA DE ESTADO DA SAUDE | 16403 | Oftalmologia | Ano adicional | 1 |
+| SC | 82951245000835 | SECRETARIA DE ESTADO DA SAUDE | 16232 | Oftalmologia | Ano adicional | 1 |
+| SC | 82951245001050 | SECRETARIA DE ESTADO DA SAUDE | 16400 | Oftalmologia | Ano adicional | 1 |
+| SC | 82951245001050 | SECRETARIA DE ESTADO DA SAUDE | 16404 | Oftalmologia - Transplante de córnea | Ano adicional | 1 |
+| SC | 82951245001050 | SECRETARIA DE ESTADO DA SAUDE | 16402 | Oftalmologia- oculoplástiva, órbita , vias lacrimais | Ano adicional | 1 |
+| SE | 49150352004703 | FUNDACAO PIO XII | 16047 | Radiologia e Diagnóstico por Imagem | Especialidade | 1 |
+| SP | 43969732000105 | ASSOCIACAO SAO BENTO DE ENSINO | 16058 | Radiologia e Diagnóstico por Imagem | Especialidade | 2 |
+| SP | 00326036000160 | FACULDADE DE MEDICINA DE SAO JOSE DO RIO PRETO | 16679 | Alergia e Imunologia Pediátrica | Área de atuação | 2 |
+| SP | 00326036000160 | FACULDADE DE MEDICINA DE SAO JOSE DO RIO PRETO | 16681 | Cardiologia Pediátrica | Área de atuação | 2 |
+| SP | 00326036000160 | FACULDADE DE MEDICINA DE SAO JOSE DO RIO PRETO | 16692 | Coloproctologia | Especialidade | 1 |
+| SP | 00326036000160 | FACULDADE DE MEDICINA DE SAO JOSE DO RIO PRETO | 16663 | Emergência Pediátrica | Área de atuação | 2 |
+| SP | 00326036000160 | FACULDADE DE MEDICINA DE SAO JOSE DO RIO PRETO | 16950 | Medicina de família e comunidade - Gestão e Preceptoria | Ano adicional | 3 |
+| SP | 00326036000160 | FACULDADE DE MEDICINA DE SAO JOSE DO RIO PRETO | 16709 | Pneumologia | Especialidade | 2 |
+| SP | 57571275000100 | FUNDACAO DO ABC | 17383 | Alergia e Imunologia | Especialidade | 2 |
+| SP | 57571275000798 | FUNDACAO DO ABC | 17485 | Alergia e Imunologia | Especialidade | 2 |
+| SP | 57571275000798 | FUNDACAO DO ABC | 17463 | Coloproctologia | Especialidade | 1 |
+| SP | 57571275000798 | FUNDACAO DO ABC | 17471 | Infectologia | Especialidade | 1 |
+| SP | 57571275000798 | FUNDACAO DO ABC | 17480 | Pneumologia | Especialidade | 1 |
+| SP | 47074851001467 | FUNDACAO PADRE ALBINO | 16224 | Radiologia e Diagnóstico por Imagem | Especialidade | 2 |
+| SP | 13961905000170 | FUNDO MUNICIPAL DE SAUDE | 17481 | Medicina de família e comunidade | Ano adicional | 6 |
+| SP | 56023443000152 | HOSPITAL DAS CLINICAS DA FACULDADE DE MEDICINA DE RPUSP | 16711 | Clínica Médica | Ano adicional | 4 |
+| SP | 56023443000152 | HOSPITAL DAS CLINICAS DA FACULDADE DE MEDICINA DE RPUSP | 16690 | Ecografia Vascular com Doppler | Área de atuação | 1 |
+| SP | 56023443000152 | HOSPITAL DAS CLINICAS DA FACULDADE DE MEDICINA DE RPUSP | 16713 | Ginecologia e Obstetrícia | Ano adicional | 3 |
+| SP | 56023443000152 | HOSPITAL DAS CLINICAS DA FACULDADE DE MEDICINA DE RPUSP | 16712 | Infectologia | Especialidade | 1 |
+| SP | 56023443000152 | HOSPITAL DAS CLINICAS DA FACULDADE DE MEDICINA DE RPUSP | 16693 | Medicina de família e comunidade - Gestão e Preceptoria | Ano adicional | 6 |
+| SP | 56023443000152 | HOSPITAL DAS CLINICAS DA FACULDADE DE MEDICINA DE RPUSP | 16710 | Nefrologia | Especialidade | 2 |
+| SP | 56023443000152 | HOSPITAL DAS CLINICAS DA FACULDADE DE MEDICINA DE RPUSP | 16717 | Nutrologia | Especialidade | 1 |
+| SP | 56023443000152 | HOSPITAL DAS CLINICAS DA FACULDADE DE MEDICINA DE RPUSP | 16720 | Sexologia | Área de atuação | 1 |
+| SP | 60747318000162 | INSTITUTO DE ASSISTENCIA MEDICA AO SERVIDOR PUBLICO ESTADUAL | 16792 | Alergia e Imunologia | Especialidade | 2 |
+| SP | 50119585000131 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE ITATIBA | 16097 | Radiologia e Diagnóstico por Imagem | Especialidade | 2 |
+| SP | 52049244000162 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE MARILIA | 17706 | Nefrologia | Especialidade | 2 |
+| SP | 59610394000142 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE SAO CARLOS | 16310 | Infectologia | Especialidade | 2 |
+| SP | 62779145000190 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE SAO PAULO | 17401 | Angiorradiologia e Cirurgia Endovascular | Área de atuação | 4 |
+| SP | 62779145000190 | IRMANDADE DA SANTA CASA DE MISERICORDIA DE SAO PAULO | 17403 | Nefrologia Pediátrica | Área de atuação | 2 |
+| SP | 43751502000167 | SANTA CASA DE MISERICORDIA DE ARACATUBA | 16275 | Radiologia e Diagnóstico por Imagem | Especialidade | 2 |
+| SP | 46374500014730 | SECRETARIA DE ESTADO DA SAUDE | 16181 | Cirurgia Torácica | Especialidade | 1 |
+| SP | 46392148003216 | SECRETARIA MUNICIPAL DA SAUDE | 17136 | Cirurgia do Joelho | Ano adicional | 2 |
+| SP | 46392148003216 | SECRETARIA MUNICIPAL DA SAUDE | 17137 | Ortopedia e Traumatologia - Cirurgia do Trauma Ortopédico | Ano adicional | 2 |
+| SP | 55990451000105 | SOCIEDADE PORTUGUESA DE BENEFICENCIA | 17101 | Angiorradiologia e Cirurgia Endovascular | Área de atuação | 1 |
+| SP | 63025530001852 | UNIVERSIDADE DE SAO PAULO | 16614 | Cardiologia | Ano adicional | 3 |
+| SP | 63025530001852 | UNIVERSIDADE DE SAO PAULO | 16421 | Cardiologia- cardiointensivismo | Ano adicional | 6 |
+| SP | 63025530013605 | UNIVERSIDADE DE SAO PAULO | 17245 | Cirurgia Plástica | Especialidade | 2 |
+| SP | 63025530001852 | UNIVERSIDADE DE SAO PAULO | 16334 | Ergometria | Área de atuação | 4 |
+| SP | 63025530001852 | UNIVERSIDADE DE SAO PAULO | 16333 | Neurologia | Ano adicional | 8 |
+| SP | 63025530008270 | UNIVERSIDADE DE SAO PAULO | 17243 | Radiologia e Diagnóstico por Imagem | Especialidade | 4 |
+| SP | 48031918001953 | UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO | 16374 | Angiorradiologia e Cirurgia Endovascular | Área de atuação | 1 |
+| SP | 48031918001953 | UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO | 16373 | Endocrinologia e Metabologia | Especialidade | 1 |
+| SP | 48031918001953 | UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO | 16370 | Neurorradiologia | Área de atuação | 1 |
+| SP | 48031918001953 | UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO | 16814 | Pneumologia | Especialidade | 2 |
+| SP | 48031918001953 | UNIVERSIDADE ESTADUAL PAULISTA JULIO DE MESQUITA FILHO | 16372 | Reumatologia | Especialidade | 1 |

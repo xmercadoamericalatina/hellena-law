@@ -1,0 +1,37 @@
+---
+titulo: "PORTARIA SAPS/MS Nº 263, DE 20 DE MARÇO DE 2025"
+orgao: "Ministério da Saúde/Secretaria de Atenção Primária à Saúde"
+tipo: "Portaria"
+numero: "263"
+data: 2025-03-20
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 25/03/2025, seção 1, p. 84"
+data_publicacao: 2025-03-25
+edicao: "57"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-saps/ms-n-263-de-20-de-marco-de-2025-619626330"
+baixado_em: 2026-10-15
+---
+# PORTARIA SAPS/MS Nº 263, DE 20 DE MARÇO DE 2025
+
+PORTARIA SAPS/MS Nº 263, DE 20 DE MARÇO DE 2025
+
+Altera o Anexo da Portaria Saps/MS nº 92, de 17 de setembro de 2024, que divulga a lista dos nomes e respectivos Registros Únicos de médicos intercambistas participantes do Projeto Mais Médicos para o Brasil - PMMB.
+
+A SECRETÁRIA DE ATENÇÃO PRIMÁRIA À SAÚDE, no uso da atribuição que lhe confere o art. 21, do Anexo I, Seção II do Decreto nº 11.798, de 28 de novembro de 2023, e das atribuições pertinentes ao Projeto Mais Médicos para o Brasil - PMMB, nos termos do art. 16, § 3º, da Lei nº 12.871, de 22 de outubro de 2013, do art. 1º, § 1º, do Decreto nº 8.126, de 22 de outubro de 2013, e dos arts. 6º e 7º da Portaria GM/MS nº 2.477, de 22 de outubro de 2013, resolve:
+
+**Art. 1º** O Anexo da Portaria Saps/MS nº 92, de 17 de setembro de 2024, que divulga a lista dos nomes e respectivos Registros Únicos de médicos intercambistas participantes do Projeto Mais Médicos para o Brasil - PMMB, passa a vigorar com a seguinte alteração, excluir:
+
+| PROCESSO | CPF | NOME | RMS | UF | MUNICÍPIO | INÍCIO DAS ATIVIDADES |
+| --- | --- | --- | --- | --- | --- | --- |
+| 25000.055313/2020- 88 | XXX.032.036- XX | LUCAS VALVASSORI PANTALEAO | 3101868 | MG | MANHUAÇU | 12/06/2023 |
+
+Incluir:
+
+| PROCESSO | CPF | NOME | RMS | UF | MUNICÍPIO | INÍCIO DAS ATIVIDADES |
+| --- | --- | --- | --- | --- | --- | --- |
+| 25000.055313/2020- 88 | XXX.032.036- XX | LUCAS VALVASSORI PANTALEAO | 3507361 | SP | SANTO ANDRÉ | 17/02/2025 |
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+ANA LUIZA F. R. CALDAS

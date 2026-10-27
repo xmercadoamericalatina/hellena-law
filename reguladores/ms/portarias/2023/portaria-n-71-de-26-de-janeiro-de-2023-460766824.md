@@ -1,0 +1,58 @@
+---
+titulo: "PORTARIA Nº 71, DE 26 DE JANEIRO DE 2023"
+orgao: "Ministério da Saúde/Secretaria de Atenção Especializada à Saúde"
+tipo: "Portaria"
+numero: "71"
+data: 2023-01-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/01/2023, seção 1, p. 95"
+data_publicacao: 2023-01-30
+edicao: "21"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-71-de-26-de-janeiro-de-2023-460766824"
+sha256_html_fonte: 896d1ec95a432898e3e4b6422c80dff919a7480b41e7e351c5c1ebb9b040fe39
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 71, DE 26 DE JANEIRO DE 2023
+
+PORTARIA Nº 71, DE 26 DE JANEIRO DE 2023
+
+Concede autorização a estabelecimento e equipe de saúde para retirada e transplante de medula óssea autólogo.
+
+O Secretário de Atenção Especializada à Saúde, no uso de suas atribuições,
+
+Considerando a Lei nº 9.434, de 4 de fevereiro de 1997, que dispõe sobre a remoção de órgãos, tecidos e partes do corpo humano para fins de transplante e tratamento;
+
+Considerando o Decreto nº 9.175, de 18 de outubro de 2017, que regulamenta a Lei nº 9.434, de 4 de fevereiro de 1997, para tratar da disposição de órgãos, tecidos, células e partes do corpo humano para fins de transplante e tratamento;
+
+Considerando a Portaria GM/MS nº 2.500, de 28 de setembro de 2017, que dispõe sobre a elaboração, a proposição, a tramitação e a consolidação de atos normativos no âmbito do Ministério da Saúde;
+
+Considerando a Portaria de Consolidação GM/MS nº 4, de 28 de setembro de 2017, que consolida as normas sobre os sistemas e os subsistemas do Sistema Único de Saúde;
+
+Considerando a Nota Técnica nº 16/2023-CGSNT/DAET/SAES/MS, constante do NUP/SEI 25000.140860/2022-20; e
+
+Considerando a manifestação favorável da respectiva Secretaria Estadual de Saúde/Central Estadual de Transplantes (CET), resolve:
+
+**Art. 1º** Fica concedida autorização para realizar retirada e transplante de medula óssea autólogo ao estabelecimento de saúde a seguir identificado:
+
+RETIRADA DE ÓRGÃOS E TECIDOS: 24.20
+
+MEDULA ÓSSEA AUTÓLOGO: 24.01
+
+RIO DE JANEIRO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Nº do SNT: 2 21 23 RJ 07</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>I - denominação: Clínica São Carlos S A - São Carlos Saúde Oncológica</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>II - CNPJ: 33.804.212/0001-80</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>III - CNES: 3009947</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>IV - endereço: Rua Humaita, nº 296, Bairro: Botafogo, Rio de Janeiro/RJ, CEP: 22.261-001.</p></td>     </tr>    </tbody>   </table>
+
+**Art. 2º** Fica concedida autorização para realizar retirada e transplante de medula óssea autólogo à equipe de saúde a seguir identificada:
+
+MEDULA ÓSSEA AUTÓLOGO: 24.01
+
+RIO DE JANEIRO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Nº do SNT: 1 21 23 RJ 16</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>I - responsável técnico: Rony Schaffel, hematologista e hemoterapeuta, CRM 52583141 - RJ;</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>II - membro: Anna Karolina Cândido Dias Batalha, hematologista e hemoterapeuta, CRM 52988871 - RJ;</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>III - membro: Francylia Cellis Matias da Paz Santana, hematologista e hemoterapeuta, CRM 521084020 - RJ.</p></td>     </tr>    </tbody>   </table>
+
+**Art. 3º** As autorizações concedidas por meio desta Portaria - ao estabelecimento de saúde e equipe especializada - terão validade de dois anos, em conformidade com o estabelecido nos §§ 4º, 5º, 6º e 7° do art. 11 do Decreto nº 9.175, de 18 de outubro de 2017.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+HELVÉCIO MIRANDA MAGALHÃES JÚNIOR

@@ -1,0 +1,48 @@
+---
+titulo: "PORTARIA GM/MS Nº 3.065, DE 17 DE JANEIRO DE 2024"
+orgao: "Ministério da Saúde/Gabinete da Ministra"
+tipo: "Portaria"
+numero: "3065"
+data: 2024-01-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/01/2024, seção 1, p. 94"
+data_publicacao: 2024-01-18
+edicao: "13"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-3.065-de-17-de-janeiro-de-2024-538093547"
+sha256_html_fonte: 77f5ee98dc205a78cfdbb1c5192611091db20de9dca8ec0f1c3dce4dc698004b
+baixado_em: 2026-10-16
+---
+# PORTARIA GM/MS Nº 3.065, DE 17 DE JANEIRO DE 2024
+
+PORTARIA GM/MS Nº 3.065, DE 17 DE JANEIRO DE 2024
+
+Renova a qualificação das Unidades Móveis, destinadas ao Serviço de Atendimento Móvel de Urgência (SAMU 192), pertencentes à Central de Regulação das Urgências (CRU) de Monteiro e mantém os recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Grupo de Atenção Especializada, incorporados ao limite financeiro de Média e Alta Complexidade (MAC), do Estado da Paraíba e Municípios.
+
+O MINISTRO DE ESTADO DA SAÚDE SUBSTITUTO, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, e
+
+Considerando o Título II - Do Componente do Serviço de Atendimento Móvel de Urgência (SAMU 192), da Portaria de Consolidação GM/MS nº 3, de 28 de setembro de 2017, que consolida as normas sobre as redes do Sistema Único de Saúde;
+
+Considerando a Portaria de Consolidação GM/MS nº 6, de 28 de setembro de 2017, que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde;
+
+Considerando a Portaria SAS/MS nº 288, de 12 de março de 2018, que redefine a operacionalização do cadastramento de serviços de atendimento pré-hospitalar móvel de urgência e o elenco de profissionais que compõem as equipes do Serviço de Atendimento Móvel de Urgência (SAMU 192) no Cadastro Nacional de Estabelecimentos de Saúde (CNES);
+
+Considerando a Portaria GM/MS nº 3.053, de 8 de janeiro de 2024, que divulga os montantes anuais alocados aos estados, Distrito Federal e municípios, destinados ao cofinanciamento das ações e serviços públicos de saúde no grupo de atenção de média e alta complexidade ambulatorial e hospitalar (Teto MAC);
+
+Considerando a Portaria GM/MS nº 1.631, de 23 de outubro de 2023, que estabelece recurso financeiro do Bloco de Manutenção das Ações e Serviços Públicos de Saúde -Grupo de Atenção Especializada referente ao reajuste dos valores de habilitação e qualificação do Serviço de Atendimento Móvel de Urgência (SAMU 192), a ser incorporado ao limite financeiro de Média e Alta Complexidade (MAC) dos estados, municípios e Distrito Federal; e
+
+Considerando as Propostas SAIPS e a correspondente avaliação e aprovação por meio do Parecer Técnico nº 6/2024-CGURG/DAHU/SAES/MS, constante do NUP-SEI 25000.220359/2012-74, resolve:
+
+**Art. 1º** Fica renovada a qualificação das Unidades Móveis, destinadas ao Serviço de Atendimento Móvel de Urgência (SAMU 192), do Estado da Paraíba e Municípios, pertencentes à Central de Regulação das Urgências (CRU) de Monteiro, conforme Anexo a esta Portaria.
+
+**Parágrafo único.** A qualificação será válida por dois anos, podendo ser renovada mediante novo processo de avaliação, em conformidade com a Portaria de Consolidação GM/MS nº 6, de 28 de setembro de 2017.
+
+**Art. 2º** Ficam mantidos os recursos do Bloco de Manutenção das Ações e Serviços Públicos de Saúde - Grupo de Atenção Especializada, incorporados ao limite financeiro de Média e Alta Complexidade (MAC), do Estado da Paraíba e Municípios, no montante anual de R$ 411.559,20 (quatrocentos e onze mil, quinhentos e cinquenta e nove reais e vinte centavos) conforme Anexo a esta Portaria.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+SWEDENBERGER DO NASCIMENTO BARBOSA
+
+## ANEXO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>UF</p></td>      <td rowspan="1" colspan="1"><p>MUNICÍPIO</p></td>      <td rowspan="1" colspan="1"><p>IBGE</p></td>      <td rowspan="1" colspan="1"><p>DESCRIÇÃO</p></td>      <td rowspan="1" colspan="1"><p>Nº PROPOSTA SAIPS</p></td>      <td rowspan="1" colspan="1"><p>CNES</p></td>      <td rowspan="1" colspan="1"><p>GESTÃO</p></td>      <td rowspan="1" colspan="1"><p>AMAZÔNIA LEGAL</p></td>      <td rowspan="1" colspan="1"><p>CÓDIGO E DESCRIÇÃO DO INCENTIVO</p></td>      <td rowspan="1" colspan="1"><p>VALOR DO CUSTEIO (ANUAL R$)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PB</p></td>      <td rowspan="1" colspan="1"><p>LIVRAMENTO</p></td>      <td rowspan="1" colspan="1"><p>250850</p></td>      <td rowspan="1" colspan="1"><p>USB</p></td>      <td rowspan="1" colspan="1"><p>172469</p></td>      <td rowspan="1" colspan="1"><p>6900291</p></td>      <td rowspan="1" colspan="1"><p>MUNICIPAL</p></td>      <td rowspan="1" colspan="1"><p>NÃO</p></td>      <td rowspan="1" colspan="1"><p>82.51 - CENTRAL DE REGULAÇÃO DAS URGÊNCIAS E EMERGÊNCIAS SAMU 192 E UNIDADES MÓVEIS QUALIFICADAS</p></td>      <td rowspan="1" colspan="1"><p>137.186,40</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>SERRA BRANCA</p></td>      <td rowspan="1" colspan="1"><p>251550</p></td>      <td rowspan="1" colspan="1"><p>USB</p></td>      <td rowspan="1" colspan="1"><p>172728</p></td>      <td rowspan="1" colspan="1"><p>6949924</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>137.186,40</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>TAPEROÁ</p></td>      <td rowspan="1" colspan="1"><p>251650</p></td>      <td rowspan="1" colspan="1"><p>USB</p></td>      <td rowspan="1" colspan="1"><p>157803</p></td>      <td rowspan="1" colspan="1"><p>6951201</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>137.186,40</p></td>     </tr>     <tr>      <td rowspan="1" colspan="9"><p>TOTAL</p></td>      <td rowspan="1" colspan="1"><p>411.559,20</p></td>     </tr>    </tbody>   </table>

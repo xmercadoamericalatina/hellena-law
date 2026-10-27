@@ -1,0 +1,67 @@
+---
+titulo: "PORTARIA GM/MS Nº 11.551, DE 11 DE JUNHO DE 2026"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "11551"
+data: 2026-06-11
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 12/06/2026, seção 1, p. 98"
+data_publicacao: 2026-06-12
+edicao: "108"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-11.551-de-11-de-junho-de-2026-711722704"
+baixado_em: 2026-10-15
+---
+# PORTARIA GM/MS Nº 11.551, DE 11 DE JUNHO DE 2026
+
+PORTARIA GM/MS Nº 11.551, DE 11 DE JUNHO DE 2026
+
+Autoriza o Estado, Município ou Distrito Federal a receber recursos referentes ao incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, em observância a Lei nº 15.346, de 14 de janeiro de 2026, Lei Complementar nº 141, de 13 de janeiro de 2012, Lei nº 8.080, de 19 de setembro de 1990, Portaria de Consolidação nº 6, de 28 de setembro de 2017, resolve:
+
+**Art. 1º** Ficam autorizados os Estados, o Distrito Federal e os Municípios descritos no anexo desta Portaria a receberem recursos financeiros referentes ao incremento temporário para o custeio dos serviços de Atenção Especializada à Saúde.
+
+**Art. 2º** Os recursos financeiros tratados nesta Portaria referem-se à aplicação das emendas parlamentares para incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+**Art. 3º** As propostas de que tratam esta portaria serão processadas no InvestSUS, disponível no portalfns.saude.gov.br.
+
+**Art. 4º** O Fundo Nacional de Saúde adotará as medidas necessárias para as transferências de recursos financeiros estabelecidas nesta Portaria aos respectivos Fundos de Saúde, em parcela única, em conformidade com os processos de pagamento instruídos pela Secretaria Finalística, após atendidas as condições previstas para essa modalidade de transferência.
+
+**Art. 5º** A prestação de contas sobre a aplicação dos recursos financeiros será realizada por meio do Relatório Anual de Gestão - RAG, aprovado pelo respectivo Conselho local de saúde, nos termos dos artigos 34 a 36 da Lei Complementar nº 141, de 14 de janeiro de 2012.
+
+**Art. 6º** Esta Portaria entra em vigor na data de sua publicação.
+
+ALEXANDRE ROCHA SANTOS PADILHA
+
+## ANEXO
+
+Entes federados autorizados a receberem recursos financeiros federais de emendas destinados ao incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+| UF | MUNICÍPIO | ENTIDADE | Nº DA PROPOSTA | VALOR TOTAL DA PROPOSTA (R$) | CÓD. EMENDA | VALOR POR EMENDA (R$) | FUNCIONAL PROGRAMÁTICA | CNES | VALOR (R$) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BA | IPIRA | FUNDO MUNICIPAL DE SAUDE - FUNSAUDE | 36000813201202600 | 300.000,00 | 50410001 | 300.000,00 | 1030251182E900001 | 6312772 | 300.000,00 |
+| BA | MONTE SANTO | FUNDO MUNICIPAL DE SAUDE | 36000813238202600 | 400.000,00 | 50410001 50410001 | 140.000,00 260.000,00 | 1030251182E900001 1030251182E900001 | 6787266 6787266 | 140.000,00 260.000,00 |
+| BA | SIMOES FILHO | FUNDO MUNICIPAL DE SAUDE | 36000811306202600 | 700.000,00 | 50410001 | 700.000,00 | 1030251182E900001 | 6495583 | 700.000,00 |
+| ES | VITORIA | FUNDO ESTADUAL DE SAUDE - FES | 36000813240202600 | 3.150.000,00 | 50410001 | 3.150.000,00 | 1030251182E900001 | 6565301 | 3.150.000,00 |
+| GO | ANAPOLIS | FUNDO MUNICIPAL DE SAUDE | 36000810673202600 | 200.000,00 | 50410001 | 200.000,00 | 1030251182E900001 | 3794407 | 200.000,00 |
+| MG | ARACUAI | FUNDO MUNICIPAL DE SAUDE DE ARACUAI | 36000806220202600 | 100.000,00 | 50410001 | 100.000,00 | 1030251182E900001 | 6518540 | 100.000,00 |
+| MG | JOAO MONLEVADE | FUNDO MUNICIPAL DE SAUDE | 36000808144202600 | 200.000,00 | 50410001 | 200.000,00 | 1030251182E900001 | 6294545 | 200.000,00 |
+| MG | NOVO CRUZEIRO | FUNDO MUNICIPAL DE SAUDE | 36000808511202600 | 250.000,00 | 50410001 | 250.000,00 | 1030251182E900001 | 2183811 | 250.000,00 |
+| MG | VARZELANDIA | FUNDO MUNICIPAL DE SAUDE | 36000811907202600 | 200.070,00 | 50410001 | 200.070,00 | 1030251182E900001 | 6536115 | 200.070,00 |
+| PA | CAMETA | FUNDO MUNICIPAL DE SAUDE | 36000813206202600 | 2.499.900,00 | 50410001 | 2.499.900,00 | 1030251182E900001 | 2313448 | 2.499.900,00 |
+| PA | MARAPANIM | FUNDO MUNICIPAL DE SAUDE DE MARAPANIM | 36000812816202600 | 2.000.000,00 | 50410001 | 2.000.000,00 | 1030251182E900001 | 7186894 | 2.000.000,00 |
+| PB | CAMPINA GRANDE | FUNDO MUNICIPAL DE SAUDE DE CAMPINA GRANDE | 36000803296202600 | 2.000.000,00 | 50410001 | 2.000.000,00 | 1030251182E900001 | 3886689 | 2.000.000,00 |
+| PE | CABO DE SANTO AGOSTINHO | FUNDO MUNICIPAL DE SAUDE DO CABO DE SANTO AGOSTINHO | 36000812134202600 | 2.500.000,00 | 50410001 | 2.500.000,00 | 1030251182E900001 | 6374980 | 2.500.000,00 |
+| PR | CURITIBA | FUNDO MUNICIPAL DA SAUDE | 36000812599202600 | 400.000,00 | 50410001 | 400.000,00 | 1030251182E900001 | 6190693 | 400.000,00 |
+| RJ | ITAOCARA | FUNDO MUNICIPAL DE SAUDE | 36000812723202600 | 1.270.000,00 | 50410001 50410001 | 381.000,00 889.000,00 | 1030251182E900001 1030251182E900001 | 6400175 6400175 | 381.000,00 889.000,00 |
+| RS | CAXIAS DO SUL | FUNDO MUNICIPAL DE SAUDE DE CAXIAS DO SUL | 36000813002202600 | 200.000,00 | 60060002 60060002 | 60.000,00 140.000,00 | 1030251182E900001 1030251182E900001 | 2223546 2223546 | 60.000,00 140.000,00 |
+| RS | PORTO ALEGRE | FUNDO ESTADUAL DE SAUDE | 36000804681202600 | 200.000,00 | 50410001 50410001 | 60.000,00 140.000,00 | 1030251182E900001 1030251182E900001 | 2250713 2250713 | 60.000,00 140.000,00 |
+| RS | PORTO ALEGRE | FUNDO MUNICIPAL DE SAUDE | 36000812364202600 | 6.000.000,00 | 50410001 50410001 | 1.800.000,00 4.200.000,00 | 1030251182E900001 1030251182E900001 | 2693801 2693801 | 1.800.000,00 4.200.000,00 |
+| RS | VENANCIO AIRES | FUNDO MUNICIPAL DE SAUDE | 36000813375202600 | 500.000,00 | 50410001 | 500.000,00 | 1030251182E900001 | 6571360 | 500.000,00 |
+| SC | LAGUNA | FUNDO MUNICIPAL DE SAUDE | 36000780670202600 | 500.000,00 | 60060002 | 500.000,00 | 1030251182E900001 | 6362303 | 500.000,00 |
+| SP | ARARAQUARA | FUNDO MUNICIPAL DE SAUDE | 36000808955202600 | 500.000,00 | 50410001 | 500.000,00 | 1030251182E900001 | 5747171 | 500.000,00 |
+| SP | BRAGANCA PAULISTA | FUNDO MUNICIPAL DE SAUDE DE BRAGANCA PAULISTA | 36000812782202600 | 500.000,00 | 50410001 | 500.000,00 | 1030251182E900001 | 2688433 | 500.000,00 |
+| SP | SANTA FE DO SUL | FUNDO MUNICIPAL DE SAUDE | 36000805838202600 | 200.000,00 | 50410001 50410001 | 60.000,00 140.000,00 | 1030251182E900001 1030251182E900001 | 2093332 2093332 | 60.000,00 140.000,00 |
+| SP | VALINHOS | FUNDO MUNICIPAL DE SAUDE | 36000812785202600 | 300.000,00 | 60060002 | 300.000,00 | 1030251182E900001 | 2097877 | 300.000,00 |
+| TOTAL | 24 PROPOSTAS | 25.069.970,00 |  |  |  |  |  |  |  |

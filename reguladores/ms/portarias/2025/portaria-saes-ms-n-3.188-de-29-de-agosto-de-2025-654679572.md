@@ -1,0 +1,36 @@
+---
+titulo: "Portaria SAES/MS Nº 3.188, DE 29 DE agosto DE 2025"
+orgao: "Ministério da Saúde/Secretaria de Atenção Especializada à Saúde"
+tipo: "Portaria"
+numero: "3188"
+data: 2025-08-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 11/09/2025, seção 1, p. 98"
+data_publicacao: 2025-09-11
+edicao: "173"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-saes/ms-n-3.188-de-29-de-agosto-de-2025-654679572"
+baixado_em: 2026-10-16
+sha256_html_fonte: 4c676d6b1a1bcdc644f6cb1318a227cc1b15c760ef6dce164dcf8ee3167ebead
+---
+# Portaria SAES/MS Nº 3.188, DE 29 DE agosto DE 2025
+
+Portaria SAES/MS Nº 3.188, DE 29 DE agosto DE 2025
+
+Homologa o Plano Estadual de Doação e Transplantes (PEDT) do Estado de Sergipe.
+
+O SECRETÁRIO DE ATENÇÃO ESPECIALIZADA À SAÚDE, no uso das atribuições que lhe confere o Decreto nº 11.798, de 28 de novembro de 2023, alterado pelo Decreto nº 12.489, de 04 de junho de 2025,
+
+Considerando a Portaria GM/MS nº 5.685, de 7 de novembro de 2024, que define os critérios para elaboração e apresentação do Plano Estadual de Doação e Transplantes - PEDT;
+
+Considerando a Nota Técnica nº 86/2025-CGSNT/DAET/SAES/MS, constante no NUP/SEI 25000.148581/2025-57; e
+
+Considerando a manifestação favorável do Colegiado Interfederativo Estadual (CIE) do estado de Sergipe - Deliberação CIE Nº 287/25, resolve:
+
+**Art. 1º** Fica homologado o Plano Estadual de Doação e Transplante - PEDT do Estado de Sergipe.
+
+**Art. 2º** A homologação concedida por meio desta Portaria terá validade de 4 (quatro) anos, em conformidade com o estabelecido nos § 3° do art. 4º da Portaria GM/MS nº 5.685, de 7 de novembro de 2024.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+MOZART JULIO TABOSA SALES

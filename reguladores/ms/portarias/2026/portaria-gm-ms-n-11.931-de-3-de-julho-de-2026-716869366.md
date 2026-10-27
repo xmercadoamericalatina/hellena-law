@@ -1,0 +1,47 @@
+---
+titulo: "PORTARIA GM/MS Nº 11.931, DE 3 DE JULHO DE 2026"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "11931"
+data: 2026-07-03
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 06/07/2026, seção 1, p. 133"
+data_publicacao: 2026-07-06
+edicao: "124"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-11.931-de-3-de-julho-de-2026-716869366"
+baixado_em: 2026-10-15
+---
+# PORTARIA GM/MS Nº 11.931, DE 3 DE JULHO DE 2026
+
+PORTARIA GM/MS Nº 11.931, DE 3 DE JULHO DE 2026
+
+Autoriza o Estado, Município ou Distrito Federal a receber recursos financeiros destinados à aquisição de equipamentos e materiais permanentes para estabelecimentos de saúde.
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, em observância a Lei nº 15.346, de 14 de janeiro de 2026, Lei Complementar nº 141, de 13 de janeiro de 2012, Lei nº 8.080, de 19 de setembro de 1990, Portaria de Consolidação nº 6, de 28 de setembro de 2017, resolve:
+
+**Art. 1º** Ficam autorizados os Estados, os Municípios ou Distrito Federal no anexo desta Portaria a receberem recursos financeiros destinados à aquisição de equipamentos e materiais permanentes para estabelecimentos de saúde.
+
+**Art. 2º** As propostas de que tratam esta portaria serão processadas no InvestSUS, disponível no portalfns.saude.gov.br.
+
+**Art. 3º** O Fundo Nacional de Saúde adotará as medidas necessárias para as transferências de recursos financeiros estabelecidos nesta Portaria aos respectivos Fundos de Saúde, em parcela única, em conformidade com os processos de pagamento instruídos pelas Secretarias Finalísticas, após atendidas as condições previstas para essa modalidade de transferência.
+
+**Art. 4º** A prestação de contas sobre a aplicação dos recursos financeiros será realizada por meio do Relatório Anual de Gestão - RAG, aprovado pelo respectivo Conselho local de saúde, nos termos dos artigos 34 a 36 da Lei Complementar nº 141, de 14 de janeiro de 2012.
+
+**Art. 5º** Esta Portaria entra em vigor na data de sua publicação.
+
+ALEXANDRE ROCHA SANTOS PADILHA
+
+## ANEXO
+
+Entes federados autorizados a receberem recursos financeiros federais destinados à aquisição de equipamentos e materiais permanentes.
+
+| UF | MUNICÍPIO | ENTIDADE | Nº DA PROPOSTA | CÓD. EMENDA | VALOR POR PARLAMENTAR (R$) | VALOR TOTAL DA PROPOSTA (R$) | FUNCIONAL PROGRAMÁTICA |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| CE | CAUCAIA | FUNDO MUNICIPAL DE SAUDE DE CAUCAIA - CEARA - FMSC | 11777761000126003 | 50410003 | 368.508,00 | 368.508,00 | 10302511885350001 |
+| CE | INDEPENDENCIA | FUNDO MUNICIPAL DE SAUDE DE INDEPENDENCIA | 11430883000126006 | 50410003 | 499.862,00 | 499.862,00 | 10302511885350001 |
+| GO | BRITANIA | BRITANIA - FUNDO MUNICIPAL DE SAUDE | 09332615000126002 | 50410003 | 38.039,00 | 38.039,00 | 10302511885350001 |
+| GO | MOZARLANDIA | FUNDO MUNICIPAL DE SAUDE | 11271688000126005 | 50410003 | 199.662,00 | 199.662,00 | 10302511885350001 |
+| PA | NOVA IPIXUNA | FUNDO MUNICIPAL DE SAUDE | 12280005000126009 | 50410003 | 333.112,00 | 333.112,00 | 10302511885350001 |
+| RJ | APERIBE | FUNDO MUNICIPAL DE SAUDE DE APERIBE | 02934539000126009 | 50410003 | 350.446,00 | 350.446,00 | 10302511885350001 |
+| TOTAL | 6 PROPOSTAS |  | 1.789.629,00 |  |  |  |  |

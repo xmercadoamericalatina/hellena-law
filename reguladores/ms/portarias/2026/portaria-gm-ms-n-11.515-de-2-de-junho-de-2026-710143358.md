@@ -1,0 +1,68 @@
+---
+titulo: "PORTARIA GM/MS Nº 11.515, DE 2 DE JUNHO DE 2026"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "11515"
+data: 2026-06-02
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 03/06/2026, seção 1, p. 169"
+data_publicacao: 2026-06-03
+edicao: "103"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-11.515-de-2-de-junho-de-2026-710143358"
+baixado_em: 2026-10-15
+---
+# PORTARIA GM/MS Nº 11.515, DE 2 DE JUNHO DE 2026
+
+PORTARIA GM/MS Nº 11.515, DE 2 DE JUNHO DE 2026
+
+Autoriza o Estado, Município ou Distrito Federal a receber recursos referentes ao incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, em observância a Lei nº 15.346, de 14 de janeiro de 2026, Lei Complementar nº 141, de 13 de janeiro de 2012, Lei nº 8.080, de 19 de setembro de 1990, Portaria de Consolidação nº 6, de 28 de setembro de 2017, resolve:
+
+**Art. 1º** Ficam autorizados os Estados, o Distrito Federal e os Municípios descritos no anexo desta Portaria a receberem recursos financeiros referentes ao incremento temporário para o custeio dos serviços de Atenção Especializada à Saúde.
+
+**Art. 2º** Os recursos financeiros tratados nesta Portaria referem-se à aplicação das emendas parlamentares para incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+**Art. 3º** As propostas de que tratam esta portaria serão processadas no InvestSUS, disponível no portalfns.saude.gov.br.
+
+**Art. 4º** O Fundo Nacional de Saúde adotará as medidas necessárias para as transferências de recursos financeiros estabelecidas nesta Portaria aos respectivos Fundos de Saúde, em parcela única, em conformidade com os processos de pagamento instruídos pela Secretaria Finalística, após atendidas as condições previstas para essa modalidade de transferência.
+
+**Art. 5º** A prestação de contas sobre a aplicação dos recursos financeiros será realizada por meio do Relatório Anual de Gestão - RAG, aprovado pelo respectivo Conselho local de saúde, nos termos dos artigos 34 a 36 da Lei Complementar nº 141, de 14 de janeiro de 2012.
+
+**Art. 6º** Esta Portaria entra em vigor na data de sua publicação.
+
+ALEXANDRE ROCHA SANTOS PADILHA
+
+## ANEXO
+
+Entes federados autorizados a receberem recursos financeiros federais de emendas destinados ao incremento temporário ao custeio dos serviços de Atenção Especializada à Saúde.
+
+| UF | MUNICÍPIO | ENTIDADE | Nº DA PROPOSTA | VALOR TOTAL DA PROPOSTA (R$) | CÓD. EMENDA | VALOR POR EMENDA (R$) | FUNCIONAL PROGRAMÁTICA | CNES | VALOR (R$) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BA | EUCLIDES DA CUNHA | FUNDO MUNICIPAL DE SAUDE DE EUCLIDES DA CUNHA | 36000811833202600 | 500.010,00 | 50410001 | 500.010,00 | 1030251182E900001 | 6560512 | 500.010,00 |
+| BA | ITABUNA | FUNDO MUNICIPAL DE SAUDE DE ITABUNA - SMS | 36000811771202600 | 500.000,00 | 50410001 | 500.000,00 | 1030251182E900001 | 2523590 | 500.000,00 |
+| BA | ITABUNA | FUNDO MUNICIPAL DE SAUDE DE ITABUNA - SMS | 36000811772202600 | 100.706,00 | 50410001 | 100.706,00 | 1030251182E900001 | 2523590 | 100.706,00 |
+| CE | IRACEMA | FUNDO MUNICIPAL DE SAUDE DE IRACEMA | 36000811827202600 | 882.415,00 | 50410001 | 882.415,00 | 1030251182E900001 | 6350747 | 882.415,00 |
+| GO | PALMELO | FUNDO MUNICIPAL DE SAUDE DE PALMELO | 36000809425202600 | 100.000,00 | 50410001 | 100.000,00 | 1030251182E900001 | 6628788 | 100.000,00 |
+| MA | FORMOSA DA SERRA NEGRA | MUNICIPIO DE FORMOSA DA SERRA NEGRA - FUNDO MUNICIPAL DE SAUDE | 36000810116202600 | 500.000,00 | 50410001 | 500.000,00 | 1030251182E900001 | 7786166 | 500.000,00 |
+| MG | BELO HORIZONTE | FUNDO MUNICIPAL DE SAUDE | 36000811918202600 | 200.000,00 | 50410001 50410001 | 60.000,00 140.000,00 | 1030251182E900001 1030251182E900001 | 0026840 0026840 | 60.000,00 140.000,00 |
+| MG | NEPOMUCENO | FUNDO MUNICIPAL DE SAUDE | 36000811511202600 | 200.000,00 | 50410001 | 200.000,00 | 1030251182E900001 | 2764695 | 200.000,00 |
+| MS | BATAGUASSU | FUNDO MUNICIPAL DE SAUDE | 36000809728202600 | 600.000,00 | 50410001 | 600.000,00 | 1030251182E900001 | 6849822 | 600.000,00 |
+| MS | SELVIRIA | FUNDO MUNICIPAL DE SAUDE | 36000806899202600 | 80.482,00 | 50410001 | 80.482,00 | 1030251182E900001 | 7166257 | 80.482,00 |
+| PE | TIMBAUBA | FUNDO MUNICIPAL DE SAUDE DE TIMBAUBA | 36000805877202600 | 3.350.000,00 | 50410001 | 3.350.000,00 | 1030251182E900001 | 2428024 | 3.350.000,00 |
+| PI | CAMPO MAIOR | FUNDO MUNICIPAL DE SAUDE DE CAMPO MAIOR | 36000803440202600 | 6.000.000,00 | 50410001 50410001 | 1.800.000,00 4.200.000,00 | 1030251182E900001 1030251182E900001 | 7902034 7902034 | 1.800.000,00 4.200.000,00 |
+| PI | CORRENTE | FUNDO MUNICIPAL DE SAUDE DE CORRENTE-PI | 36000805579202600 | 848.834,00 | 50410001 | 848.834,00 | 1030251182E900001 | 4008472 | 848.834,00 |
+| PI | PAULISTANA | FUNDO MUNICIPAL DE SAUDE | 36000811341202600 | 611.000,00 | 50410001 | 611.000,00 | 1030251182E900001 | 9015892 | 611.000,00 |
+| PR | CURITIBA | FUNDO MUNICIPAL DA SAUDE | 36000808033202600 | 350.000,00 | 60060002 | 350.000,00 | 1030251182E900001 | 3295621 | 350.000,00 |
+| PR | LONDRINA | FUNDO MUNICIPAL DE SAUDE | 36000811620202600 | 2.000.000,00 | 50410001 | 2.000.000,00 | 1030251182E900001 | 2579324 | 2.000.000,00 |
+| RJ | RIO DAS OSTRAS | FUNDO MUNICIPAL DE SAUDE DE RIO DAS OSTRAS | 36000808401202600 | 2.636.825,00 | 50410001 | 2.636.825,00 | 1030251182E900001 | 6422608 | 2.636.825,00 |
+| RN | GOIANINHA | FUNDO MUNICIPAL DE SAUDE DE GOIANINHA | 36000811546202600 | 1.000.000,00 | 50410001 50410001 | 300.000,00 700.000,00 | 1030251182E900001 1030251182E900001 | 6471412 6471412 | 300.000,00 700.000,00 |
+| RN | MACAIBA | FUNDO MUNICIPAL DE SAUDE | 36000808859202600 | 1.500.000,00 | 50410001 | 1.500.000,00 | 1030251182E900001 | 6559689 | 1.500.000,00 |
+| SP | CERQUILHO | FUNDO MUNICIPAL DE SAUDE - FMS | 36000809931202600 | 300.000,00 | 50410001 | 300.000,00 | 1030251182E900001 | 6446108 | 300.000,00 |
+| SP | IRAPUA | FUNDO MUNICIPAL DE SAUDE DE IRAPUA - SP | 36000806881202600 | 150.000,00 | 50410001 | 150.000,00 | 1030251182E900001 | 6502474 | 150.000,00 |
+| SP | JUQUITIBA | FUNDO MUNICIPAL DE SAUDE | 36000800686202600 | 300.000,00 | 50410001 | 300.000,00 | 1030251182E900001 | 6537758 | 300.000,00 |
+| SP | LOUVEIRA | FUNDO MUNICIPAL DE SAUDE DE LOUVEIRA | 36000808972202600 | 397.900,00 | 50410001 | 397.900,00 | 1030251182E900001 | 6510140 | 397.900,00 |
+| SP | PITANGUEIRAS | FUNDO MUNICIPAL DE SAUDE DE PITANGUEIRAS | 36000804013202600 | 100.000,00 | 50410001 50410001 | 30.000,00 70.000,00 | 1030251182E900001 1030251182E900001 | 2089548 2089548 | 30.000,00 70.000,00 |
+| TO | DIANOPOLIS | FUNDO MUNICIPAL DE SAUDE | 36000806639202600 | 823.826,00 | 60060002 | 823.826,00 | 1030251182E900001 | 9513035 | 823.826,00 |
+| TOTAL | 25 PROPOSTAS | 24.031.998,00 |  |  |  |  |  |  |  |

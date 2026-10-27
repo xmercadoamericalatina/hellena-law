@@ -1,0 +1,29 @@
+---
+titulo: "PORTARIA SERMOP/MPA Nº 510, DE 19 DE MAIO DE 2026"
+orgao: "Ministério da Pesca e Aquicultura/Secretaria Nacional de Registro, Monitoramento e Pesquisa da Pesca e Aquicultura"
+tipo: "Portaria"
+numero: "510"
+data: 2026-05-19
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 20/05/2026, seção 1, p. 76"
+data_publicacao: 2026-05-20
+edicao: "93"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-sermop/mpa-n-510-de-19-de-maio-de-2026-706580830"
+baixado_em: 2026-10-15
+---
+# PORTARIA SERMOP/MPA Nº 510, DE 19 DE MAIO DE 2026
+
+PORTARIA SERMOP/MPA Nº 510, DE 19 DE MAIO DE 2026
+
+Suspende, por prazo indeterminado, a Autorização de Pesca da embarcação de pesca FURACÃO DO MAR I, inscrita no Registro Geral da Atividade Pesqueira nº SC-0005315-5, na data de sua publicação.
+
+A SECRETÁRIA NACIONAL DE REGISTRO, MONITORAMENTO E PESQUISA DA PESCA E AQUICULTURA DO MINISTÉRIO DA PESCA E AQUICULTURA, no uso das atribuições que lhe confere o Decreto nº 11.624, de 1º de agosto de 2023, a Portaria nº 43, de 27 de abril de 2023 do Ministério da Pesca e Aquicultura, considerando o que consta no Processo nº 00350.007879/2025-15, resolve:
+
+**Art. 1º** Suspender a Autorização de Pesca da embarcação FURACÃO DO MAR I, inscrita no Registro Geral da Atividade Pesqueira SC-0005315-5 e na Autoridade Marítima sob o nº 441-016755- 3, na frota 2.02.001, modalidade 2.2 no Sistema Informatizado do Registro Geral da Atividade Pesqueira - SisRGP, na modalidade de permissionamento Emalhe costeiro (superfície), Espécies-alvo: Tainha (Mugil platanus ou Mugil liza), Anchova (Pomatomus saltatrix), Sororoca, serra (Scomberomorus brasiliensis), na área de operação no Mar territorial Sul e Sudeste, tendo em vista o disposto no Art. 44, inciso I e $2º, da Portaria MPA nº 606, de 23 de dezembro de 2025.
+
+**Art. 2º** No período de suspensão a embarcação de pesca FURACÃO DO MAR I fica proibida de realizar cruzeiro de pesca e o descumprimento da sanção imposta poderá gerar o cancelamento da Autorização de Pesca.
+
+**Art. 3º** Esta Portaria entra em vigor na data da sua publicação.
+
+CAROLINA RODRIGUES DA COSTA DORIA

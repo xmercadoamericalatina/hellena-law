@@ -1,0 +1,54 @@
+---
+titulo: "Portaria GM/MS Nº 5.829, DE 4 DE dezembro DE 2024"
+orgao: "Ministério da Saúde/Gabinete da Ministra"
+tipo: "Portaria"
+numero: "5829"
+data: 2024-12-04
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 05/12/2024, seção 1, p. 111"
+data_publicacao: 2024-12-05
+edicao: "234"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm/ms-n-5.829-de-4-de-dezembro-de-2024-599880303"
+sha256_html_fonte: fc382d441ead2dd2772fe998310fe2b119173e26ad83b59e2f8d5b1db1c85be3
+baixado_em: 2026-10-16
+---
+# Portaria GM/MS Nº 5.829, DE 4 DE dezembro DE 2024
+
+Portaria GM/MS Nº 5.829, DE 4 DE dezembro DE 2024
+
+Habilita o estado do Amapá e seus municípios selecionados ao recebimento de recursos do Incentivo Financeiro às Ações de Vigilância, Prevenção e Controle do Vírus da Imunodeficiência Humana e Síndrome da Imunodeficiência Adquirida (HIV/Aids), da Tuberculose, das Hepatites Virais e das Infecções Sexualmente Transmissíveis (IST), do Bloco de Manutenção das Ações e Serviços Públicos de Saúde, do Grupo de Vigilância em Saúde
+
+A MINISTRA DE ESTADO DA SAÚDE, no uso das atribuições que lhe confere o inciso II do parágrafo único do art. 87 da Constituição, e
+
+Considerando a Portaria GM/MS Nº 4.868, de 17 de julho de 2024, que altera a Portaria de Consolidação GM/MS nº 6, de 28 de setembro de 2017, para dispor sobre o Incentivo Financeiro às Ações de Vigilância, Prevenção e Controle do Vírus da Imunodeficiência Humana e Síndrome da Imunodeficiência Adquirida (HIV/Aids), da Tuberculose, das Hepatites Virais e das Infecções Sexualmente Transmissíveis (IST), do Bloco de Manutenção das Ações e Serviços Públicos de Saúde, do Grupo de Vigilância em Saúde;
+
+Considerando a Portaria GM/MS nº 4.869, de 17 de julho de 2024, que define o valor atualizado por estado para recebimento do Incentivo Financeiro às Ações de Vigilância, Prevenção e Controle do Vírus da Imunodeficiência Humana e Síndrome da Imunodeficiência Adquirida (HIV/Aids), da Tuberculose, das Hepatites Virais e das Infecções Sexualmente Transmissíveis (IST), do Bloco de Manutenção das Ações e Serviços Públicos de Saúde, do Grupo de Vigilância em Saúde; e
+
+Considerando a pactuação realizada na respectiva Comissão Intergestores Bipartite - CIB do Estado do Amapá, resolve:
+
+**Art. 1º** Ficam habilitados o Estado e seus Municípios selecionados ao recebimento do Incentivo Financeiro às Ações de Vigilância, Prevenção e Controle do Vírus da Imunodeficiência Humana e Síndrome da Imunodeficiência Adquirida (HIV/Aids), da Tuberculose, das Hepatites Virais e das Infecções Sexualmente Transmissíveis (IST), do Bloco de Manutenção das Ações e Serviços Públicos de Saúde, do Grupo de Vigilância em Saúde.
+
+**Art. 2º** As Secretarias Estadual e Municipais de Saúde relacionadas nesta Portaria farão jus ao valor anual publicado, em 12 (doze) parcelas mensais, conforme o anexo II a esta Portaria.
+
+**§ 1º** Quando a divisão por 1/12 (um doze avos) dos valores anuais do Incentivo Financeiro às Ações de Vigilância, Prevenção e Controle do Vírus da Imunodeficiência Humana e Síndrome da Imunodeficiência Adquirida (HIV/Aids), da Tuberculose, das Hepatites Virais e das Infecções Sexualmente Transmissíveis (IST), do Bloco de Manutenção das Ações e Serviços Públicos de Saúde, do Grupo de Vigilância em Saúde, de cada ente federativo, implicar em dízima, os valores serão truncados em duas casas decimais.
+
+**§ 2º** Os recursos foram distribuídos conforme destinação homologada pela respectiva Comissão Intergestores Bipartite, dispostas no anexo I a esta Portaria.
+
+**Art. 3º** Os entes federativos beneficiados, constantes nesta Portaria, que estejam com repasse do Piso Fixo de Vigilância em Saúde (PFVS) e do Piso Variável de Vigilância em Saúde (PVVS) do Bloco de Manutenção das Ações e Serviços Públicos de Saúde, do Grupo de Vigilância em Saúde bloqueado, por não alimentação do Sistema de Informação de Agravos de Notificação (SINAN), do Sistema de Informações de Nascidos Vivos (SINASC) e do Sistema de Informações sobre Mortalidade (SIM), não farão jus aos recursos previstos nesta Portaria, caso a regularização da alimentação dos sistemas ocorra após 90 (noventa) dias da data de publicação do bloqueio, conforme disposto no art. 453 da Portaria de Consolidação nº 6/GM/MS, de 28 de setembro de 2017.
+
+**Art. 4º** O Fundo Nacional de Saúde adotará as medidas necessárias para as transferências de recursos estabelecidas nessa Portaria aos respectivos Fundos de Saúde, em conformidade com os processos de pagamentos instruídos.
+
+**Art. 5º** Os recursos financeiros para a execução das atividades de que trata esta Portaria são oriundos do orçamento do Ministério da Saúde, devendo onerar a Funcional Programática 10.305.5123.20AL - Incentivo Financeiro às Ações de Vigilância, Prevenção e Controle do Vírus da Imunodeficiência Humana e Síndrome da Imunodeficiência Adquirida (HIV/Aids) e outras Infecções Sexualmente Transmissíveis (IST) e Hepatites Virais, Plano Orçamentário 0002.
+
+**Art. 6º** Esta portaria entra em vigor na data de sua publicação com efeitos financeiros vigentes a partir de janeiro de 2024.
+
+NÍSIA TRINDADE LIMA
+
+## ANEXO I
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>UF</p></td>      <td rowspan="1" colspan="1"><p>Resolução / Deliberação CIB</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AP</p></td>      <td rowspan="1" colspan="1"><p>Resolução nº 063/24 - CIB/AP, de 08 de novembro de 2024</p></td>     </tr>    </tbody>   </table>
+
+## ANEXO II
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>UF</p></td>      <td rowspan="1" colspan="1"><p>Código IBGE</p></td>      <td rowspan="1" colspan="1"><p>Estado / Municípios</p></td>      <td rowspan="1" colspan="1"><p>Valor Anual</p></td>      <td rowspan="1" colspan="1"><p>Valor Mensal</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AP</p></td>      <td rowspan="1" colspan="1"><p>160010</p></td>      <td rowspan="1" colspan="1"><p>Amapá</p></td>      <td rowspan="1" colspan="1"><p>4.800,00</p></td>      <td rowspan="1" colspan="1"><p>400,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AP</p></td>      <td rowspan="1" colspan="1"><p>160020</p></td>      <td rowspan="1" colspan="1"><p>Calçoene</p></td>      <td rowspan="1" colspan="1"><p>6.600,00</p></td>      <td rowspan="1" colspan="1"><p>550,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AP</p></td>      <td rowspan="1" colspan="1"><p>160021</p></td>      <td rowspan="1" colspan="1"><p>Cutias</p></td>      <td rowspan="1" colspan="1"><p>4.800,00</p></td>      <td rowspan="1" colspan="1"><p>400,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AP</p></td>      <td rowspan="1" colspan="1"><p>160023</p></td>      <td rowspan="1" colspan="1"><p>Ferreira Gomes</p></td>      <td rowspan="1" colspan="1"><p>4.800,00</p></td>      <td rowspan="1" colspan="1"><p>400,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AP</p></td>      <td rowspan="1" colspan="1"><p>160025</p></td>      <td rowspan="1" colspan="1"><p>Itaubal</p></td>      <td rowspan="1" colspan="1"><p>4.800,00</p></td>      <td rowspan="1" colspan="1"><p>400,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AP</p></td>      <td rowspan="1" colspan="1"><p>160027</p></td>      <td rowspan="1" colspan="1"><p>Laranjal do Jari</p></td>      <td rowspan="1" colspan="1"><p>17.500,00</p></td>      <td rowspan="1" colspan="1"><p>1.458,33</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AP</p></td>      <td rowspan="1" colspan="1"><p>160030</p></td>      <td rowspan="1" colspan="1"><p>Macapá</p></td>      <td rowspan="1" colspan="1"><p>183.790,00</p></td>      <td rowspan="1" colspan="1"><p>15.315,83</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AP</p></td>      <td rowspan="1" colspan="1"><p>160040</p></td>      <td rowspan="1" colspan="1"><p>Mazagão</p></td>      <td rowspan="1" colspan="1"><p>12.100,00</p></td>      <td rowspan="1" colspan="1"><p>1.008,33</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AP</p></td>      <td rowspan="1" colspan="1"><p>160050</p></td>      <td rowspan="1" colspan="1"><p>Oiapoque</p></td>      <td rowspan="1" colspan="1"><p>13.900,00</p></td>      <td rowspan="1" colspan="1"><p>1.158,33</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AP</p></td>      <td rowspan="1" colspan="1"><p>160015</p></td>      <td rowspan="1" colspan="1"><p>Pedra Branca do Amapari</p></td>      <td rowspan="1" colspan="1"><p>6.600,00</p></td>      <td rowspan="1" colspan="1"><p>550,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AP</p></td>      <td rowspan="1" colspan="1"><p>160053</p></td>      <td rowspan="1" colspan="1"><p>Porto Grande</p></td>      <td rowspan="1" colspan="1"><p>8.400,00</p></td>      <td rowspan="1" colspan="1"><p>700,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AP</p></td>      <td rowspan="1" colspan="1"><p>160055</p></td>      <td rowspan="1" colspan="1"><p>Pracuuba</p></td>      <td rowspan="1" colspan="1"><p>4.800,00</p></td>      <td rowspan="1" colspan="1"><p>400,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AP</p></td>      <td rowspan="1" colspan="1"><p>160060</p></td>      <td rowspan="1" colspan="1"><p>Santana</p></td>      <td rowspan="1" colspan="1"><p>54.000,00</p></td>      <td rowspan="1" colspan="1"><p>4.500,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AP</p></td>      <td rowspan="1" colspan="1"><p>160005</p></td>      <td rowspan="1" colspan="1"><p>Serra do Navio</p></td>      <td rowspan="1" colspan="1"><p>4.800,00</p></td>      <td rowspan="1" colspan="1"><p>400,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AP</p></td>      <td rowspan="1" colspan="1"><p>160070</p></td>      <td rowspan="1" colspan="1"><p>Tatarugalzinho</p></td>      <td rowspan="1" colspan="1"><p>6.600,00</p></td>      <td rowspan="1" colspan="1"><p>550,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AP</p></td>      <td rowspan="1" colspan="1"><p>160080</p></td>      <td rowspan="1" colspan="1"><p>Vitoria do Jari</p></td>      <td rowspan="1" colspan="1"><p>6.600,00</p></td>      <td rowspan="1" colspan="1"><p>550,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AP</p></td>      <td rowspan="1" colspan="1"><p>160000</p></td>      <td rowspan="1" colspan="1"><p>SES - Amapá</p></td>      <td rowspan="1" colspan="1"><p>147.810,00</p></td>      <td rowspan="1" colspan="1"><p>12.317,50</p></td>     </tr>     <tr>      <td rowspan="1" colspan="3"><p>Total</p></td>      <td rowspan="1" colspan="1"><p>492.700,00</p></td>      <td rowspan="1" colspan="1"><p>41.058,32</p></td>     </tr>    </tbody>   </table>
