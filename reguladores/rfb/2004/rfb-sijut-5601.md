@@ -1,0 +1,32 @@
+---
+titulo: "Ato Declaratório Interpretativo SRF nº 6, de 25 de março de 2004"
+orgao: "Secretaria da Receita Federal"
+tipo: "Ato Declaratório Interpretativo"
+numero: "6"
+data: "2004-03-25"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 29/03/2004, página 7"
+data_publicacao: "2004-03-29"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/5601/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/5601/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "5601"
+sha256_texto: "78330e73d9bc9a368f377f78e82e16da057ecb72f9c7ed17c3289863deac2e02"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Interpretativo SRF nº 6, de 25 de março de 2004
+
+Dispõe sobre a retenção de impostos e de contribuições nos pagamentos referentes a Refeições-Convênio (tíquete-alimentação e tíquete-refeição), Vale-Transporte e Vale- Combustível, pelos órgãos, entidades e demais pessoas jurídicas referidos no art. 64 da Lei nº 9.430, de 1996 e no art. 34 da Lei nº 10.833, de 2003.
+
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 64 da Lei nº 9.430, de 27 de dezembro de 1996, no art. 34 da Lei nº 10.833, de 29 de dezembro de 2003, e na Instrução Normativa SRF nº 306, de 12 de março de 2003, declara:
+
+**Art. 1º** O disposto no art. 14 da Instrução Normativa SRF nº 306, de 2003 aplica-se somente em relação às vendas de Refeição-Convênio (tíquete-alimentação e tíquete-refeição), Vale-Transporte e Vale-Combustível efetuadas por intermediária, seja ou não vinculada à prestadora de serviço ou à fornecedora de combustível.
+
+**Parágrafo único.** Caso os tíquetes ou os vales sejam de uso específico, tornando possível, no momento do pagamento, a identificação da prestadora responsável pela execução do serviço, ou da fornecedora do combustível, será feita ainda a retenção em nome da prestadora, pelo órgão ou entidade que efetuar o pagamento, do valor correspondente ao serviço ou ao fornecimento do combustível, conforme o caso, sem prejuízo da retenção sobre o valor da corretagem ou comissão, se devida.
+
+**Art. 2º** Caso as vendas de Refeição-Convênio (tíquete-alimentação e tíquete-refeição), Vale-Transporte e Vale-Combustível sejam efetuadas diretamente pela prestadora do serviço ou pela fornecedora do combustível, o órgão ou entidade que efetuar o pagamento fará a retenção, pelo valor total da compra de tíquetes ou de vales, no momento do pagamento.
+
+JORGE ANTONIO DEHER RACHID

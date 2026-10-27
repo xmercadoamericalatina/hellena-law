@@ -1,0 +1,42 @@
+---
+titulo: "RESOLUÇÃO Nº 27, DE 13 DE JUNHO DE 2024"
+orgao: "Ministério do Planejamento e Orçamento/Comissão de Financiamentos Externos"
+tipo: "Resolução"
+numero: "27"
+data: 2024-06-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/07/2024, seção 1, p. 191"
+data_publicacao: 2024-07-02
+edicao: "125"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-27-de-13-de-junho-de-2024-569299722"
+sha256_html_fonte: a118a747d150d8c2f02a7c341c7720c487e310589296334f28694c0853292be6
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO Nº 27, DE 13 DE JUNHO DE 2024
+
+RESOLUÇÃO Nº 27, DE 13 DE JUNHO DE 2024
+
+O Presidente da Cofiex, no uso de suas atribuições conferidas pelo Parágrafo Único do art.7º do Decreto nº 9.075, de 6 de junho de 2017, e tendo em vista o deliberado na 174ª Reunião da Cofiex, ocorrida em 13 de junho de 2024, resolve:
+
+Autorizar a preparação do Programa/Projeto, nos seguintes termos:
+
+1\. Nome: Reformas para a implementação do Programa de Mobilização de Capital Privado Externo e Proteção Cambial e apoio a melhorias estruturais no ambiente institucional e de negócios do Brasil
+
+2\. Mutuário: República Federativa do Brasil
+
+3\. Executor: Ministério da Fazenda - MF
+
+4\. Entidade Financiadora: Banco Interamericano de Desenvolvimento - BID
+
+5\. Valor do Empréstimo: até US$ 1.000.000.000,00
+
+GUSTAVO JOSÉ DE GUIMARÃES E SOUZA
+
+Presidente da Comissão de Financiamentos Externos
+
+VANESSA CARVALHO DOS SANTOS
+
+Secretária-Executiva da Comissão de Financiamentos Externos
+
+Substituta

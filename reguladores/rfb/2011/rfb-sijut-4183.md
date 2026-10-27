@@ -1,0 +1,36 @@
+---
+titulo: "Ato Declaratório Executivo Codac nº 25, de 30 de março de 2011"
+orgao: "Coordenação-Geral de Arrecadação e Cobrança"
+tipo: "Ato Declaratório Executivo"
+numero: "25"
+data: "2011-03-30"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 29/04/2011, página 64"
+data_publicacao: "2011-04-29"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/4183/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/4183/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "4183"
+sha256_texto: "775f3265f3bd240d36ea1b0a3f43124b51c1c42bdebeb323670bf98d7e56bf8f"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Executivo Codac nº 25, de 30 de março de 2011
+
+Retificado
+
+No Anexo Único ao Ato Declaratório Executivo Codac nº 25, de 30 de março de 2011, publicado no DOU nº 62, de 30 de março de 2011, página 38:
+
+Onde se lê:
+
+Data de Vencimento Tributos Código Darf Código GPS Período de Apuração do Fato Gerador (FG) 7 Comprev -recolhimento efetuado por RPPS -poder público - CNPJ órgão do 7307 21 a 31/março/2011 Comprev -recolhimento efetuado por RPPS -órgão do poder público - CNPJ - estoque 7315 - 29 Imposto de Renda Retido na Fonte (IRRF) Rendimentos de Capital Fundos de Investimento Imobiliário - Rendimentos e Ganhos de Capital Distribuídos 5232 Março/2011 PJ obrigadas à apuração com base no lucro real Entidades Financeiras Balanço Trimestral (1ª quota) 1599 Janeiro a Março/2011 Estimativa Mensal 2319 Março/2011
+
+<table>   <tbody><tr>    <td>    <p>Data de<br>     Vencimento</p>    </td>    <td>    <p>Tributos</p>    </td>    <td>    <p>Código<br>     Darf</p>    </td>    <td>    <p>Código<br>    GPS</p>    </td>    <td>     <p>Período de<br>    Apuração do<br>    Fato Gerador (FG)</p>    </td>    </tr>   <tr>    <td>     <p>7</p>    </td>    <td>    <p>Comprev -recolhimento    efetuado por RPPS -poder público - CNPJ     órgão do </p>    </td>    <td>     <p> </p>    </td>    <td>    <p>7307</p>    </td>    <td>    <p>21 a    31/março/2011</p>    </td>     </tr>   <tr>    <td>    <p> </p>    </td>    <td>    <p>Comprev -recolhimento efetuado    por RPPS -órgão do poder público - CNPJ - estoque</p>    </td>     <td>    <p> </p>    </td>    <td>    <p>7315</p>    </td>    <td>    <p>-</p>     </td>    </tr>   <tr>    <td>    <p>29</p>    </td>    <td>    <p>Imposto de Renda Retido na    Fonte (IRRF) </p>     </td>    <td>    <p> </p>    </td>    <td>    <p> </p>    </td>    <td>    <p> </p>     </td>    </tr>   <tr>    <td>    <p> </p>    </td>    <td>    <p>    Rendimentos de Capital </p>     </td>    <td>    <p> </p>    </td>    <td>    <p> </p>    </td>    <td>    <p> </p>     </td>    </tr>   <tr>    <td>    <p> </p>    </td>    <td>    <p>         Fundos de Investimento Imobiliário - Rendimentos e    Ganhos de Capital Distribuídos</p>     </td>    <td>    <p>5232</p>    </td>    <td>    <p> </p>    </td>    <td>     <p>Março/2011</p>    </td>    </tr>   <tr>    <td>    <p> </p>    </td>    <td>     <p>    PJ obrigadas à apuração com base no lucro real </p>    </td>    <td>    <p> </p>    </td>    <td>    <p> </p>    </td>     <td>    <p> </p>    </td>    </tr>   <tr>    <td>    <p> </p>    </td>    <td>     <p>         Entidades Financeiras </p>    </td>    <td>    <p> </p>    </td>    <td>    <p> </p>    </td>     <td>    <p> </p>    </td>    </tr>   <tr>    <td>    <p> </p>    </td>    <td>     <p>              Balanço Trimestral (1ª quota) </p>    </td>    <td>    <p>1599</p>    </td>    <td>    <p> </p>     </td>    <td>    <p>Janeiro a    Março/2011</p>    </td>    </tr>   <tr>    <td>    <p> </p>     </td>    <td>    <p>               Estimativa    Mensal </p>    </td>    <td>    <p>2319</p>    </td>     <td>    <p> </p>    </td>    <td>    <p>Março/2011</p>    </td>    </tr>  </tbody></table>
+
+Leia-se:
+
+Data de Vencimento Tributos Código Darf Código GPS Período de Apuração do Fato Gerador (FG) 7 Comprev - recolhimento efetuado por RPPS - órgão do poder público - CNPJ 7307 1º a 31/março/2011 Comprev - recolhimento efetuado por RPPS - órgão do poder público - CNPJ - estoque 7315 - 29 Imposto de Renda Retido na Fonte (IRRF) Rendimentos de Capital Fundos de Investimento Imobiliário - Rendimentos e Ganhos de Capital Distribuídos 5232 Março/2011 29 Imposto de Renda das Pessoas Jurídicas (IRPJ) PJ obrigadas à apuração com base no lucro real Entidades Financeiras Balanço Trimestral (1ª quota) 1599 Janeiro a Março/2011 Estimativa Mensal 2319 Março/2011
+
+<table>   <tbody><tr>    <td>    <p>Data de<br>     Vencimento</p>    </td>    <td>    <p>Tributos</p>    </td>    <td>    <p>Código<br>     Darf</p>    </td>    <td>    <p>Código<br>    GPS</p>    </td>    <td>     <p>Período de<br>    Apuração do<br>    Fato Gerador (FG)</p>    </td>    </tr>   <tr>    <td>     <p>7</p>    </td>    <td>    <p>Comprev - recolhimento    efetuado por RPPS - órgão do poder público - CNPJ </p>    </td>    <td>    <p> </p>    </td>     <td>    <p>7307</p>    </td>    <td>    <p>1<del>º</del>    a 31/março/2011</p>    </td>     </tr>   <tr>    <td>    <p> </p>    </td>    <td>    <p>Comprev - recolhimento efetuado    por RPPS - órgão do poder público - CNPJ - estoque </p>    </td>     <td>    <p> </p>    </td>    <td>    <p>7315</p>    </td>    <td>    <p>-</p>     </td>    </tr>   <tr>    <td>    <p>29</p>    </td>    <td>    <p>Imposto de Renda Retido na    Fonte (IRRF)</p>     </td>    <td>    <p> </p>    </td>    <td>    <p> </p>    </td>    <td>    <p> </p>     </td>    </tr>   <tr>    <td>    <p> </p>    </td>    <td>    <p>    Rendimentos de Capital</p>     </td>    <td>    <p> </p>    </td>    <td>    <p> </p>    </td>    <td>    <p> </p>     </td>    </tr>   <tr>    <td>    <p> </p>    </td>    <td>    <p>         Fundos de Investimento Imobiliário - Rendimentos e    Ganhos de Capital Distribuídos </p>     </td>    <td>    <p>5232</p>    </td>    <td>    <p> </p>    </td>    <td>     <p>Março/2011</p>    </td>    </tr>   <tr>    <td>    <p>29</p>    </td>    <td>     <p>Imposto de Renda das    Pessoas Jurídicas (IRPJ) </p>    </td>    <td>    <p> </p>    </td>    <td>    <p> </p>    </td>     <td>    <p> </p>    </td>    </tr>   <tr>    <td>    <p> </p>    </td>    <td>     <p>    PJ obrigadas à apuração com base no lucro real </p>    </td>    <td>    <p> </p>    </td>    <td>    <p> </p>    </td>     <td>    <p> </p>    </td>    </tr>   <tr>    <td>    <p> </p>    </td>    <td>     <p>         Entidades Financeiras</p>    </td>    <td>    <p> </p>    </td>    <td>    <p> </p>    </td>     <td>    <p> </p>    </td>    </tr>   <tr>    <td>    <p> </p>    </td>    <td>     <p>               Balanço    Trimestral (1ª quota) </p>    </td>    <td>    <p>1599</p>    </td>    <td>    <p> </p>     </td>    <td>    <p>Janeiro a    Março/2011</p>    </td>    </tr>   <tr>    <td>    <p> </p>     </td>    <td>    <p>               Estimativa    Mensal </p>    </td>    <td>    <p>2319</p>    </td>     <td>    <p> </p>    </td>    <td>    <p>Março/2011</p>    </td>    </tr>  </tbody></table>

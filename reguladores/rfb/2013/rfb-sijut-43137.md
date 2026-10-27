@@ -1,0 +1,44 @@
+---
+titulo: "Ato Declaratório Executivo Derat/SPO nº 112, de 14 de junho de 2013"
+orgao: "Delegacia Especial da Receita Federal do Brasil de Administração Tributária em São Paulo"
+tipo: "Ato Declaratório Executivo"
+numero: "112"
+data: "2013-06-14"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 20/06/2013, página 30"
+data_publicacao: "2013-06-20"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/43137/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/43137/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "43137"
+sha256_texto: "f5a798bf74e494c7d320c720ad0c2a6b612e102b67478b54976182716b56fc45"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Executivo Derat/SPO nº 112, de 14 de junho de 2013
+
+Declara a inaptidão dos contribuintes perante o Cadastro Nacional de Pessoa Jurídica.
+
+O CHEFE DA DIVISÃO DE CONTROLE E ACOMPANHAMENTO TRIBUTÁRIO DA DELEGACIA DA RECEITA FEDERAL DO BRASIL DE ADMINISTRAÇÃO TRIBUTÁRIA EM SÃO PAULO no uso das atribuições que lhe foram conferidas pelo artigo 1° da Portaria DERAT/SPO de Delegação de Competência n° 279, publicada no DOU em 03 de agosto de 2012, resolve:
+
+Declarar INAPTA a inscrição abaixo, no Cadastro Nacional de Pessoa Jurídica (CNPJ), por localização desconhecida, nos termos do inciso II do artigo 37 e do artigo 39 da Instrução Normativa RFB nº 1.183 de 19/08/2011.
+
+A declaração de inaptidão baseia-se na ausência de regularização cadastral e não localização da empresa no endereço informado à RFB, nos termos do artigo 39 da supracitada IN.
+
+PROCESSO N.º:10314.724136/2013-51
+
+CONTRIBUINTE:STILBER COMERCIO DE PRESENTES LTDA
+
+CPF/CNPJ: 07.700.854/0001-20
+
+PROCESSO N.º:10314.728039/2012-57
+
+CONTRIBUINTE: MURALHA IMPORTAÇÃO E EXPORTAÇÃO LTDA - ME
+
+CPF/CNPJ: 07.153.822/0001-51
+
+Data de efeito a partir da publicação deste.
+
+PAULO DE OLIVEIRA ABRAHÃO

@@ -1,0 +1,36 @@
+---
+titulo: "Portaria DRJ/CGE nº 13, de 14 de maio de 2013"
+orgao: "Delegacia da Receita Federal do Brasil de Julgamento em Campo Grande"
+tipo: "Portaria"
+numero: "13"
+data: "2013-05-14"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 16/05/2013, página 41"
+data_publicacao: "2013-05-16"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/41988/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/41988/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "41988"
+sha256_texto: "c8cfe42ebcfe6cdb5a73d0285615830414f562585040379cb4c2ef63a7a514df"
+baixado_em: "2026-10-21"
+---
+# Portaria DRJ/CGE nº 13, de 14 de maio de 2013
+
+“Distribui os processos fiscais que menciona para julgamento pela Quarta Turma da Delegacia da Receita Federal do Brasil de Julgamento em Campo Grande.”
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL DE JULGAMENTO EM CAMPO GRANDE/MS, no uso das atribuições que lhe confere o artigo o artigo 308, inciso IV, do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, publicado no D. O. U. de 17/05/2012, resolve:
+
+**Art. 1º** Distribuir os processos fiscais relacionados no Anexo único abaixo, relativos a Multas pelo Atraso ou Falta de Entrega de Declarações de Pessoas Jurídicas, para julgamento pela Quarta Turma desta Delegacia.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+ROMILDO IDALGO
+
+NOTA SIJUT: Este ato foi originalmente publicado sem a ementa.
+
+ANEXO ÚNICO
+
+<table>   <tr>    <td>    <p>11060.000645/2010-34</p>    </td>    <td>    <p>10820.000338/2010-41</p>    </td>   </tr>   <tr>    <td>    <p>11060.001144/2009-31</p>    </td>    <td>    <p>10835.000301/2010-54</p>    </td>   </tr>   <tr>    <td>    <p>11060.001538/2009-90</p>    </td>    <td>    <p>10835.000595/2010-14</p>    </td>   </tr>   <tr>    <td>    <p>11060.721063/2011-76</p>    </td>    <td>    <p>10835.720258/2012-17</p>    </td>   </tr>   <tr>    <td>    <p>11060.721408/2012-72</p>    </td>    <td>    <p>10835.720434/2012-11</p>    </td>   </tr>   <tr>    <td>    <p>11065.000674/2010-56</p>    </td>    <td>    <p>10840.000497/2010-16</p>    </td>   </tr>   <tr>    <td>    <p>11065.100161/2009-19</p>    </td>    <td>    <p>10840.000728/2010-83</p>    </td>   </tr>   <tr>    <td>    <p>11065.721654/2012-84</p>    </td>    <td>    <p>10840.720376/2011-67</p>    </td>   </tr>   <tr>    <td>    <p>11065.721665/2011-83</p>    </td>    <td>    <p>10840.720521/2011-18</p>    </td>   </tr>   <tr>    <td>    <p>11070.000213/2011-95</p>    </td>    <td>    <p>10840.720818/2012-56</p>    </td>   </tr>   <tr>    <td>    <p>11070.000563/2009-37</p>    </td>    <td>    <p>10845.000898/2011-07</p>    </td>   </tr>   <tr>    <td>    <p>11072.720005/2011-96</p>    </td>    <td>    <p>10845.721290/2012-92</p>    </td>   </tr>   <tr>    <td>    <p>11074.720021/2011-69</p>    </td>    <td>    <p>10850.000954/2010-45</p>    </td>   </tr>   <tr>    <td>    <p>11080.000969/2010-34</p>    </td>    <td>    <p>10850.001147/2010-40</p>    </td>   </tr>   <tr>    <td>    <p>11080.001198/2009-69</p>    </td>    <td>    <p>10850.001758/2009-54</p>    </td>   </tr>   <tr>    <td>    <p>11080.001698/2009-09</p>    </td>    <td>    <p>10850.720588/2012-14</p>    </td>   </tr>   <tr>    <td>    <p>11080.721081/2010-39</p>    </td>    <td>    <p>10850.720735/2012-48</p>    </td>   </tr>   <tr>    <td>    <p>11080.721188/2012-49</p>    </td>    <td>    <p>10850.720916/2011-93</p>    </td>   </tr>   <tr>    <td>    <p>11080.721197/2011-59</p>    </td>    <td>    <p>10850.720974/2012-06</p>    </td>   </tr>   <tr>    <td>    <p>11080.721248/2010-61</p>    </td>    <td>    <p>10850.720992/2012-80</p>    </td>   </tr>   <tr>    <td>    <p>11080.721310/2011-04</p>    </td>    <td>    <p>10850.721002/2011-40</p>    </td>   </tr>   <tr>    <td>    <p>11080.721334/2011-55</p>    </td>    <td>    <p>10855.000462/2010-18</p>    </td>   </tr>   <tr>    <td>    <p>11080.721537/2011-41</p>    </td>    <td>    <p>10855.000741/2010-73</p>    </td>   </tr>   <tr>    <td>    <p>11080.721696/2011-46</p>    </td>    <td>    <p>10855.720800/2011-12</p>    </td>   </tr>   <tr>    <td>    <p>11080.721878/2011-17</p>    </td>    <td>    <p>10855.721737/2012-12</p>    </td>   </tr>   <tr>    <td>    <p>11080.722156/2011-80</p>    </td>    <td>    <p>10875.720671/2011-16</p>    </td>   </tr>   <tr>    <td>    <p>11080.722246/2011-71</p>    </td>    <td>    <p>10882.720496/2011-78</p>    </td>   </tr>   <tr>    <td>    <p>11080.723144/2011-72</p>    </td>    <td>    <p>10925.000071/2011-03</p>    </td>   </tr>   <tr>    <td>    <p>11080.723217/2011-26</p>    </td>    <td>    <p>10925.721632/2012-84</p>    </td>   </tr>   <tr>    <td>    <p>11080.723302/2012-75</p>    </td>    <td>    <p>10930.001005/2010-92</p>    </td>   </tr>   <tr>    <td>    <p>11080.723522/2012-07</p>    </td>    <td>    <p>10983.720119/2010-10</p>    </td>   </tr>   <tr>    <td>    <p>11080.724326/2011-61</p>    </td>    <td>    <p>10983.720768/2011-00</p>    </td>   </tr>   <tr>    <td>    <p>11080.726430/2011-90</p>    </td>    <td>    <p>11516.001296/2010-72</p>    </td>   </tr>   <tr>    <td>    <p>11080.728840/2011-75</p>    </td>    <td>    <p>13820.720338/2012-11</p>    </td>   </tr>   <tr>    <td>    <p>13002.000186/2011-90</p>    </td>    <td>    <p>13884.000182/2011-23</p>    </td>   </tr>   <tr>    <td>    <p>13003.000202/2009-10</p>    </td>    <td>    <p>13962.720006/2011-31</p>    </td>   </tr>   <tr>    <td>    <p>13004.000073/2010-93</p>    </td>    <td>    <p>13963.000227/2010-07</p>    </td>   </tr>   <tr>    <td>    <p>13004.000074/2010-38</p>    </td>    <td>    <p>13971.001044/2010-00</p>    </td>   </tr>   <tr>    <td>    <p>13005.000625/2010-53</p>    </td>    <td>    <p>13973.720056/2011-90</p>    </td>   </tr>   <tr>    <td>    <p>13005.720752/2011-53</p>    </td>    <td>    <p>13973.720057/2011-34</p>    </td>   </tr>   <tr>    <td>    <p>13005.722354/2011-71</p>    </td>    <td>    <p>13973.720069/2011-69</p>    </td>   </tr>   <tr>    <td>    <p>13020.720047/2012-49</p>    </td>    <td>    <p>13982.720023/2012-11</p>    </td>   </tr>   <tr>    <td>    <p>13027.000054/2010-07</p>    </td>    <td>    <p>13984.720369/2012-08</p>    </td>   </tr>   <tr>    <td>    <p>13027.720009/2012-26</p>    </td>    <td>    <p>13985.720050/2012-64</p>    </td>   </tr>   <tr>    <td>    <p>13076.720005/2011-81</p>    </td>    <td>    <p>13986.720153/2012-14</p>    </td>   </tr>   <tr>    <td>    <p>13076.720029/2012-11</p>    </td>    <td>    <p>16511.000282/2011-86</p>    </td>   </tr>   <tr>    <td>    <p>13963.720023/2011-69</p>    </td>    <td>    <p>16542.720017/2011-51</p>    </td>   </tr>   <tr>    <td>    <p>15249.000190/2009-76</p>    </td>    <td>    <p>16542.720090/2011-22</p>    </td>   </tr>   <tr>    <td>    <p>15249.000191/2009-11</p>    </td>    <td>    <p>16542.720463/2011-65</p>    </td>   </tr>   <tr>    <td>    <p>17698.720021/2011-16</p>    </td>    <td>    <p>16624.000227/2011-19</p>    </td>   </tr>  </table>

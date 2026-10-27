@@ -1,0 +1,61 @@
+---
+titulo: "Parecer Normativo CST nº 102, de 14 de dezembro de 1978"
+orgao: "Coordenação do Sistema de Tributação"
+tipo: "Parecer Normativo"
+numero: "102"
+data: "1978-12-14"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 26/12/1978, seção 1, página 20800"
+data_publicacao: "1978-12-26"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/121608/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/121608/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "121608"
+sha256_texto: "65f2d3bea6b68a8382b32d8515d6df0aa119d8ae32cb87ef36814ef51eee6a38"
+baixado_em: "2026-10-21"
+---
+# Parecer Normativo CST nº 102, de 14 de dezembro de 1978
+
+IMPOSTO SOBRE A RENDA E PROVENTOS  
+MNTPJ - 2.20.01.00 - Conceituação do Lucro líquido e Ajustes Permitidos  
+2.20.04.00 - Lucro da Exploração  
+2.48.50.05 - Incentivos Fiscais à Exportação de Produtos Manufaturados cuja Penetração no Mercado Internacional Convenha Promover  
+O lucro líquido do exercício, como tal definido no art. 6º, § 1º, do Decreto-lei nº 1.598/77, é apurado antes de calculada a provisão para o imposto de renda.  
+A formação da provisão para o imposto de renda não afeta o montante do lucro da exploração.
+
+Trata-se de esclarecer se do lucro líquido do exercício, definido no § 1º do artigo 6º do Decreto-lei nº 1.598, de 26 de dezembro de 1977, já está excluída a provisão para o imposto de renda, e os reflexos da constituição dessa provisão no cálculo do lucro da exploração.
+
+2\. O lucro líquido do exercício foi definido pelo § 1º do artigo 6º do Decreto-lei nº 1.598/77 como a soma algébrica do lucro operacional, dos resultados não operacionais, do saldo da conta de correção monetária e das participações, devendo ser determinado com observância dos preceitos da lei comercial. Os elementos que entram na composição do lucro líquido, tal como conceituado no referido dispositivo legal, são aqueles definidos na Lei nº 6.404/76, exceto com relação à provisão para o imposto de renda, não considerada entre os elementos a serem computados na apuração do lucro líquido para efeitos tributários; as participações compreendem as atribuídas a debêntures, empregados, administradores e partes beneficiárias, e as contribuições para instituições ou fundos de assistência ou previdência de empregados.
+
+3\. A provisão para o imposto de renda não está incluída entre os elementos que integram a apuração do lucro líquido do exercício. Embora sua constituição seja obrigatória para as companhias e para as demais pessoas jurídicas, o lucro líquido do exercício, como tal definido no § 1º do art. 6º do Decreto-lei nº 1.598/77, não estará influenciado pela formação da provisão para o imposto de renda.
+
+4\. Igualmente é objeto de dúvida se o saldo da conta de correção monetária a ser computado na determinação do lucro líquido é apenas o saldo credor ou se, credor ou devedor o saldo, deverá ele fazer parte da apuração do resultado do exercício. A indagação tem origem no fato de o § 1º do artigo 6º do Decreto-lei nº 1.598/77, ao referir-se ao saldo da conta de correção monetária, ter feito remissão ao art. 51 do mesmo diploma legal. E o art. 51 trata somente do saldo credor da conta de correção monetária.
+
+4.1. Todavia, não resta a menor dúvida, que, dentro da sistemática da Lei das Sociedades por Ações e do Decreto-lei nº 1.598/77, o saldo da conta de correção monetária, seja ele devedor ou credor, deverá ser computado na determinação do lucro líquido do exercício; o saldo devedor, para eliminar dos resultados a parcela de lucros fictícios, e o saldo credor, por traduzir ganhos inflacionários auferidos em razão da estrutura de capitalização da empresa. É esta, precisamente, a determinação do § 3º do artigo 185 da Lei nº 6.404/76, que dispõe:
+
+"§ 3º - As contrapartidas dos ajustes de correção monetária serão registradas em conta cujo saldo será computado no resultado do exercício."
+
+5\. Para cálculo de isenções e reduções do imposto de renda o Decreto-lei nº 1.598/77 introduziu (art. 19) o conceito de "lucro da exploração", definido como o lucro líquido do exercício diminuído dos resultados não operacionais, do excesso de receitas financeiras sobre despesas financeiras, e aumentado dos prejuízos ou diminuídos dos rendimentos das participações societárias.
+
+5.1. O mesmo conceito é utilizado para base de cálculo na determinação da exclusão do lucro correspondente a exportações incentivadas (§ 2º do art. 19). Como o lucro líquido do exercício discriminado no art. 187, item VII, da Lei nº 6.404/76 é líquido da provisão para o imposto de renda, e como a exclusão por exportações incentivadas tem o efeito de reduzir o imposto devido, alguns contribuintes têm visto no mecanismo de exclusão complexidade de cálculo, por raciocínio circular. Isto é, para cálculo da exclusão seria necessário conhecer o montante da provisão, mas para determinar a provisão haveria que ser conhecido o valor da exclusão.
+
+5.2. Porém, conforme foi esclarecido nos itens 2 e 3, o lucro líquido do exercício, definido no § 1º do art. 6º do Decreto-lei nº 1.598/77, é aquele apurado antes da formação da provisão para o imposto de renda, motivo pelo qual a proposta dificuldade de cálculo da exclusão do lucro por exportações incentivadas é apenas aparente.
+
+6\. A demonstração do lucro real (cf. Instrução Normativa da SRF nº 28/78) será aberta com o lucro líquido do exercício, antes de formada a provisão para o imposto de renda, não constituindo essa provisão, portanto, item de adição. Somente haverá adição ao lucro líquido quando imposto indedutível tenha sido imputado diretamente à conta de resultados.
+
+À consideração superior.
+
+CST, em 14 de dezembro de 1978,
+
+Agenor Manzano
+
+Fiscal de Tributos Federais
+
+De acordo. Publique-se e, a seguir, encaminhem-se cópias às SS.RR.R.F para conhecimento e ciência aos demais órgãos subordinados.
+
+Antonio Augusto de Mesquita Neto
+
+Coordenador

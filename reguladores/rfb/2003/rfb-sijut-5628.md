@@ -1,0 +1,30 @@
+---
+titulo: "Ato Declaratório Interpretativo SRF nº 10, de 19 de maio de 2003"
+orgao: "Secretaria da Receita Federal"
+tipo: "Ato Declaratório Interpretativo"
+numero: "10"
+data: "2003-05-19"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 21/05/2003, página 13"
+data_publicacao: "2003-05-21"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/5628/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/5628/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "5628"
+sha256_texto: "577a43f9edb27863e88eb022b40833928f6ed42024f6ea7cfda1157c3ebbc82f"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Interpretativo SRF nº 10, de 19 de maio de 2003
+
+Dispõe sobre a incidência de alíquota zero da CPMF, na hipótese de transferência de recursos de conta conjunta de até dois titulares, pessoas físicas.
+
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 8º da Lei nº 9.311, de 24 de outubro de 1996, e no processo nº 10168.001221/2003-05, declara:
+
+**Art. 1º** No caso de lançamento a débito para transferência de recursos de uma conta conjunta de até dois titulares, pessoas físicas, para outra conta conjunta dos mesmos titulares, independentemente do fato de quem seja o primeiro titular nessas contas, ressalvada a hipótese de saldo negativo prevista no inciso II do art. 2º da Lei nº 9.311, de 24 de outubro de 1996, a alíquota da Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira (CPMF) aplicável é zero.
+
+**Parágrafo único.** O disposto no caput não se aplica na hipótese de transferência de recursos entre contas individual e conjunta.
+
+JORGE ANTONIO DEHER RACHID

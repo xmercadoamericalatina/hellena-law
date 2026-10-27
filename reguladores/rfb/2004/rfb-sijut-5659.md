@@ -1,0 +1,32 @@
+---
+titulo: "Ato Declaratório Interpretativo SRF nº 15, de 28 de maio de 2004"
+orgao: "Secretaria da Receita Federal"
+tipo: "Ato Declaratório Interpretativo"
+numero: "15"
+data: "2004-05-28"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 02/06/2004, página 12"
+data_publicacao: "2004-06-02"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/5659/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/5659/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "5659"
+sha256_texto: "6a79e83eda1875671e59b897b5b826d96c241d548f8fd1d3ca331643091e53ba"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Interpretativo SRF nº 15, de 28 de maio de 2004
+
+Dispõe sobre a exigência do pagamento do Imposto sobre Produtos Industrializados dispensado, relativo a veículo adquirido com isenção por taxistas e pessoas portadoras de deficiência.
+
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, tendo em vista o disposto na Lei nº 8.989, de 24 de fevereiro de 1995, nas Instruções Normativas SRF nºs 31 e 32, de 23 de março de 2000, atuais Instruções Normativas nº 353, de 28 de agosto de 2003 e nº 375, de 23 de dezembro de 2003, e o que consta do Processo nº 10680.016264/2003-88, declara:
+
+**Art. 1º** Comprovada a perda total, por sinistro, ou por roubo ou furto, de veículo adquirido com isenção do Imposto sobre Produtos Industrializados (IPI), com a conseqüente baixa junto ao Departamento de Trânsito competente, não há a exigência do pagamento do IPI, dispensado na aquisição, em decorrência do recebimento de seguro, com a assunção, pela empresa seguradora, dos direitos relativos ao veículo.
+
+**Art. 2º** O veículo sendo recuperado, a seguradora poderá efetuar sua transferência a outra pessoa que satisfaça as condições para se beneficiar da isenção, sem pagamento do IPI, mediante prévia autorização da unidade local da Secretaria da Receita Federal.
+
+**Art. 3º** Na hipótese do art. 2º, ocorrendo a incorporação do veículo ao patrimônio da seguradora ou a sua transferência a outra pessoa que não satisfaça as condições para se beneficiar da isenção, ainda que a outra empresa seguradora, antes de três anos da aquisição do veículo, implicará o pagamento do IPI dispensado e respectivos acréscimos legais.
+
+JORGE ANTONIO DEHER RACHID

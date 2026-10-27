@@ -1,0 +1,40 @@
+---
+titulo: "Ato Declaratório Executivo DRF/CTA nº 40, de 11 de março de 2014"
+orgao: "Delegacia da Receita Federal do Brasil em Curitiba"
+tipo: "Ato Declaratório Executivo"
+numero: "40"
+data: "2014-03-11"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 14/03/2014, seção 1, página 27"
+data_publicacao: "2014-03-14"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/50595/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/50595/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "50595"
+sha256_texto: "20d419ad973cf03e41e5b8578a119f0d88551ac64c641a8284a853d85c7d7e99"
+baixado_em: "2026-10-20"
+---
+# Ato Declaratório Executivo DRF/CTA nº 40, de 11 de março de 2014
+
+"Concede inscrição no registro especial para operações com papel destinado à impressão de livros, jornais e periódicos na atividade de IMPORTADOR."
+
+O DELEGADO ADJUNTO DA RECEITA FEDERAL DO BRASIL EM CURITIBA, no uso das atribuições que lhe são conferidas pelo artigo 302, do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 maio de 2012, publicada no Diário Oficial da União de 17 de maio de 2012 e o artigo 2º da Instrução Normativa RFB nº 976, de 07 de dezembro de 2009, e face ao que consta do processo n.º 10980.727.119/2012-32, declara:
+
+**Art. 1º** INSCRITO no Registro Especial IP 09101/0056 o estabelecimento abaixo indicado que realiza operações com papel destinado à impressão de livros, jornais e periódicos na atividade de IMPORTADOR, nos termos do art. 1º, § 1º, item III da mesma Instrução Normativa.
+
+COMERCIAL ZEEV LTDA
+
+CNPJ/MF nº 12.029.727/0002-61
+
+Avenida Maringá, nº 1354, Bloco C, Unidade C 1 C - Emiliano Perneta - Pinhais Pr.
+
+**Art. 2º** O estabelecimento inscrito fica obrigado ao cumprimento das normas previstas na IN 976/2009 e dos demais atos normativos que regem a matéria, sob pena de cancelamento dos registros na forma do art. 7º da referida Instrução.
+
+**Art. 3º** Estes Atos Declaratórios Executivos produzirão efeito a partir da data de sua publicação.
+
+EDAIR RIBEIRO DA SILVA
+
+NOTA SIJUT: Este ato foi originalmente publicado sem a ementa.

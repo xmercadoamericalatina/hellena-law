@@ -1,0 +1,36 @@
+---
+titulo: "Ato Declaratório Executivo DRF/FOR nº 24, de 24 de abril de 2013"
+orgao: "Delegacia da Receita Federal do Brasil em Fortaleza"
+tipo: "Ato Declaratório Executivo"
+numero: "24"
+data: "2013-04-24"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 29/04/2013, página 17"
+data_publicacao: "2013-04-29"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/41415/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/41415/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "41415"
+sha256_texto: "b5ab977610066b4e0fa902542bfd026b513ba7ab1b46420b13a10395b4c8d814"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Executivo DRF/FOR nº 24, de 24 de abril de 2013
+
+Concede Registro Especial - Bebidas a Pessoa Jurídica que menciona.
+
+O DELEGADO SUBSTITUTO DA RECEITA FEDERAL DO BRASIL EM FORTALEZA-CE no uso das atribuições conferidas pelos artigos 224, inciso VII e art. 302, inciso IX, C/C o art. 303 do Regimento Interno da Secretaria da Receita Federal do Brasil (RFB), aprovada pela Portaria MF nº 203, de 21 de maio de 2012, publicada no DOU de 17/5/2012, e de acordo com o disposto no art. 3º, caput, § 1º, da Instrução Normativa SRF 504, de 03 de fevereiro de 2005 (DOU de 9.2.2005), considerando, ainda, o que consta dos autos do processo administrativo n.º 10380.721493/2013-22, declara:
+
+**Art. 1.º** Fica concedido à pessoa jurídica CV COMÉRCIO DE VINHOS LTDA, estabelecida na Rua São José, 90, Parque Leblon, Caucaia-CE, CEP: 61.631-040, inscrita no CNPJ sob n.º 16.466.147/0001-01, o Registro Especial, previsto no art.1.º, §6º, do Decreto-Lei nº1.593/1977, com a redação dada pela Lei n.º 10.833, de 29 de dezembro de 2003, c/c os arts. 1º ao 13, da supracitada Instrução Normativa, sob o n.º03101/077 como IMPORTADOR, referente a importação dos produtos de que trata a supracitada instrução normativa, inclusive observado o disposto no art. 1º da Instrução Normativa RFB nº 1.026, de 16 de abril de 2010.
+
+**Art. 2.º** O Registro Especial conferido por este ato refere-se somente ao estabelecimento matriz. Sua extensão a outros estabelecimentos da empresa dependerá de novo ato concessivo, junto à Delegacia ou Inspetoria da Receita Federal de jurisdição correspondente;
+
+**Art. 3.º** O Registro Especial poderá ser cancelado, a qualquer tempo, pela autoridade concedente se, posteriormente à concessão, ocorrer qualquer fato previsto no art. 8.º da Instrução Normativa supracitada;
+
+**Art. 4.º** A concessão deste Registro Especial não exime o contribuinte do cumprimento das demais obrigações, principais e acessórias, previstas na legislação tributária, mormente as disposições contidas no art. 9º da supracitada Instrução Normativa;
+
+**Art. 5º** A Delegacia da Receita Federal do Brasil deverá adotar as providências disciplinadas no art. 12 da supracitada Instrução Normativa, inclusive quanto à alimentação do Sistema Selecon;
+
+HELDER DA SILVA NOBRE

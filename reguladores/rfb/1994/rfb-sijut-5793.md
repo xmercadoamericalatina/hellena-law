@@ -1,0 +1,34 @@
+---
+titulo: "Ato Declaratório Normativo Cosit nº 5, de 25 de janeiro de 1994"
+orgao: "Coordenação-Geral de Tributação"
+tipo: "Ato Declaratório Normativo"
+numero: "5"
+data: "1994-01-25"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 26/01/1994, página 1198"
+data_publicacao: "1994-01-26"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/5793/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/5793/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "5793"
+sha256_texto: "9d18d2d0e9e4a3341e3c86dbedcf525a80efa480480dd10e497f5e869d687d24"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Normativo Cosit nº 5, de 25 de janeiro de 1994
+
+O ato não possui ementa. Ver íntegra
+
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso das suas atribuições e, tendo em vista o disposto no art. 5º do Deceto-lei nº 1.736, de 20 de dezembro de 1979 c/c o art. 2º, inciso I, da Lei nº 8.022, de 12 de abril de 1990,
+
+Declara, em caráter normativo, às Superintendências Regionais da Receita federal e demais interessados que, sobre o crédito tributário relativo ao Imposto sobre a Propriedade Territorial Rural - ITR, Taxa de Serviços Cadastrais, contribuições sindicais devidas às Confederação Nacional de Agricultura-CNA, Confederacão Nacional dos Trabalhadores na Agricultura-CONTAG e ao Serviço Nacional de Aprendizagem Rural-SENAR, suspenso em razão de Solicitação de Retificacão de Lançamento-SRL, incidirá somente a atualizacão monetária.
+
+2\. Se a suspensão ocorreu através de processo de impugnacão, o crédito tributário relativo ao ITR e a Taxa de Serviços Cadastrais, julgado contrário ao sujeito passivo, total ou parcialmente, sofrerá ainda, incidência de juros de mora sobre o valor atualizado.
+
+3\. Tratando-se de corrigir Notificações processadas incorretamente, aplicar-se-à, nos casos referidos nos itens precedentes, somente a atualização monetária.
+
+4\. Os critérios descritos acima aplicam-se, inclusive, aos exercícios de 1992 e 1991.
+
+ARISTÓFANES FONTOURA DE HOLANDA

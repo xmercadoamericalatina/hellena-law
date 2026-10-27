@@ -1,0 +1,25 @@
+---
+titulo: "PORTARIA PREVIC Nº 1.073, DE 23 DE DEZEMBRO DE 2024"
+orgao: "Ministério da Previdência Social/Superintendência Nacional de Previdência Complementar/Diretoria de Licenciamento"
+tipo: "Portaria"
+numero: "1073"
+data: 2024-12-23
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 02/01/2025, seção 1, p. 44"
+data_publicacao: 2025-01-02
+edicao: "1"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-previc-n-1.073-de-23-de-dezembro-de-2024-605100684"
+baixado_em: 2026-10-15
+---
+# PORTARIA PREVIC Nº 1.073, DE 23 DE DEZEMBRO DE 2024
+
+PORTARIA PREVIC Nº 1.073, DE 23 DE DEZEMBRO DE 2024
+
+O DIRETOR DE LICENCIAMENTO, no uso das atribuições que lhe confere a alínea "c" do inciso I do art. 66 da Portaria nº 861, de 09 de Outubro de 2024 (Regimento Interno da Superintendência Nacional de Previdência Complementar - Previc), e considerando as manifestações técnicas exaradas no Processo nº 44011.007781/2024-95, resolve:
+
+**Art.1º** Aprovar as alterações propostas ao regulamento do Plano de Benefícios Previdenciários Phibro - Phibro Prev (nova denominação do Plano de Benefícios Phibro Saúde Animal Internacional), CNPB nº 2005.0056-65, administrado pelo MultiBRA Fundo de Pensão, CNPJ nº 30.459.788/0001-60.
+
+**Art.2º** Esta Portaria entra em vigor na data de sua publicação.
+
+GUILHERME CAPRIATA VACCARO CAMPELO BEZERRA

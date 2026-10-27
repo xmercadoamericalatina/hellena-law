@@ -1,0 +1,30 @@
+---
+titulo: "Ato Declaratório Executivo DRF/LON nº 36, de 27 de maio de 2013"
+orgao: "Delegacia da Receita Federal do Brasil em Londrina"
+tipo: "Ato Declaratório Executivo"
+numero: "36"
+data: "2013-05-27"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 03/06/2013, página 26"
+data_publicacao: "2013-06-03"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/42514/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/42514/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "42514"
+sha256_texto: "38c1896ee967c3e0ffddfe362b16f4a4e41d2d2e385647dfba98964570857f72"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Executivo DRF/LON nº 36, de 27 de maio de 2013
+
+Declara a nulidade do ato de inscrição no Cadastro Nacional das Pessoas Jurídicas (CNPJ).
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM LONDRINA-PR, no uso das atribuições que lhe são conferidas pelo artigo 302, inciso IX, do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e alterações posteriores, considerando o que consta do Processo Administrativo Fiscal nº 10930.721388/2013-61 e, de acordo com o disposto nos artigos 33 e 47 da Instrução Normativa RFB nº 1.183, de 19/08/2011, declara:
+
+**Art. 1º** NULO o ato de inscrição no Cadastro Nacional das Pessoas Jurídicas (CNPJ) da empresa HOFFMAN & MACHINI LTDA. EPP - CNPJ 17.861.779/0001-32, por ter sido usado documento falsificado e sem prova de registro no órgão de origem.
+
+**Art. 2º** Este Ato Declaratório produz efeitos desde a data de inscrição no CNPJ (01/11/2011).
+
+LUIZ FERNANDO DA SILVA COSTA

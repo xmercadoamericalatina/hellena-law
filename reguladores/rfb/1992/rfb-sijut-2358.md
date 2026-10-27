@@ -1,0 +1,28 @@
+---
+titulo: "Ato Declaratório DPRF nº 79, de 28 de agosto de 1992"
+orgao: "Departamento da Receita Federal"
+tipo: "Ato Declaratório"
+numero: "79"
+data: "1992-08-28"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 31/08/1992, página 0"
+data_publicacao: "1992-08-31"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/2358/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/2358/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "2358"
+sha256_texto: "6ec6ee88ebbcab7e322ca05eaa5ebc5d565e07b952a2680d9f268cbd257b358d"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório DPRF nº 79, de 28 de agosto de 1992
+
+"Declara a UFIR mensal, no mês de setembro de 1992."
+
+O DIRETOR DO DEPARTAMENTO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o art. 2º, § 5º, da Lei nº 8.383, de 30 de dezembro de 1991, declara:
+
+que a expressão monetária da UFIR mensal, no mês de setembro de 1992, é de Cr$ 3.135,62.
+
+LUIZ FERNANDO GUSMÃO WELLISCH

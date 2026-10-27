@@ -1,0 +1,32 @@
+---
+titulo: "Portaria MF nº 251, de 4 de junho de 1993"
+orgao: "Ministério da Fazenda"
+tipo: "Portaria"
+numero: "251"
+data: "1993-06-04"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 07/06/1993, página 7563"
+data_publicacao: "1993-06-07"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/25583/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/25583/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "25583"
+sha256_texto: "0151ba56a425ef97cdfde595815c7cf775879647a65ec2d69ef01da2ce1b96df"
+baixado_em: "2026-10-21"
+---
+# Portaria MF nº 251, de 4 de junho de 1993
+
+"Reduz para zero por cento as alíquotas ad valorem do Imposto de Importação incidentes sobre os produtos que menciona."
+
+O MINISTRO DE ESTADO DA FAZENDA, de acordo com o artigo 16, inciso III, alíneas "b" e "h", e o art. 28, da Lei nº 8.490, de 19 de novembro de 1992; de acordo ainda com o disposto no art. 3º, alínea "a", da Lei nº 3.244, de 14 de agosto de 1957, alterado pelo art. 1º do Decreto-lei nº 2.162, de 19 de setembro de 1984, no art. 5º, do Decreto-lei nº 63, de 21 de novembro de 1966, e considerando terem os níveis tarifários dos produtos objeto desta Portaria se revelado inadequados ao cumprimento dos objetivos da Tarifa Aduaneira do Brasil, resolve:
+
+**Art. 1º** Ficam alteradas, para zero por cento, por até seis meses, as alíquotas "ad valorem" do imposto de importação incidentes sobre os seguintes produtos:
+
+CÓDIGO DA TAB MERCADORIA 8419.89.0299 "Ex" 001 - Esterilizador tipo espiral, com trocador de calor de tubos concêntricos, aquecedor de trajeto regulável, sistema de limpeza automática e sistema automático de recuperação de vapor, para esterilização de leite. 8422.40.9900 "Ex" 001 - Máquina semi-automática de enrolamento e pré-embalagem de fio cirúrgico agulhado. 8422.40.9900 "Ex" 002 - Máquina semi-automática de pré-embalagem de suturas cirúrgicas agulhadas e não agulhadas, em envelopes de alumínio. 8426.41.0100 "Ex" 001 - Guindaste sobre pneus, autopropulsado, com lança telescópica, para movimentação de containers, com capacidade de içar sem apoio extra e transportar carga igual ou superior a 40 toneladas. 8428.20.0000 "Ex" 001 - Unidade automática de carregamento de bandejas para linha de fabricação de pastilhas de revestimento, por sucção. 8428.20.0000 "Ex" 002 - Carregadeira e descarregadeira para linha de fabricação de pastilhas de revestimento. 8428.39.0200 "Ex" 001 - Transportadora automática para linha de fabricação de pastilhas de revestimento, com painel de comando. 8428.50.0000 "Ex" 001 - Transferidor elétrico de vagonetes, com cremalheira e força de tração para duas toneladas ou mais. 8443.50.9900 "Ex" 001 - Equipamento de impressão de logotipo e numeração em luvas e embalagens de jato de tinta. 8443.90.0000 "Ex" 001 - Conjunto de cilindros de aço cromado, com ou sem contrapressão emborrachado, ajustável pneumaticamente, para impressão em rotogravura. 8459.61.9900 "Ex" 001 - Fresadeira copiadora vertical de dois cabeçotes e seis eixos simultâneos, com digitalização automática, de comando numérico. 8460.29.0000 "Ex" 001 - Retificadeira automática para abrir canal reto de machos de roscas, com câmara de retificação blindada, dressador automático de rebolo e carregador automático incorporado com esteira de cavidade tipo berço. 8462.10.0000 "Ex" 001 - Máquina semi-automática de formar cavidade em folha de alumínio, para pré-embalagens de suturas. 8463.90.9900 "Ex" 001 - Máquina automática para fabricação de agulhas cirúrgicas, com pontas afiadas triangulares/espatuladas e furo por broca na parte traseira. 8479.89.9900 "Ex" 001 - Máquina automática para eletropolimento em agulhas cirúrgicas, em regime contínuo com anodo estático. 9030.89.9900 "Ex" 001 - Analisador de indutância em transformadores e indutores. CÓDIGO DA TAB MERCADORIA 8419.89.0299 "Ex" 001 - Esterilizador tipo espiral, com trocador de calor de tubos concêntricos, aquecedor de trajeto regulável, sistema de limpeza automática e sistema automático de recuperação de vapor, para esterilização de leite. 8422.40.9900 "Ex" 001 - Máquina semi-automática de enrolamento e pré-embalagem de fio cirúrgico agulhado. 8422.40.9900 "Ex" 002 - Máquina semi-automática de pré-embalagem de suturas cirúrgicas agulhadas e não agulhadas, em envelopes de alumínio. 8426.41.0100 "Ex" 001 - Guindaste sobre pneus, autopropulsado, com lança telescópica, para movimentação de containers, com capacidade de içar sem apoio extra e transportar carga igual ou superior a 40 toneladas. 8428.20.0000 "Ex" 001 - Unidade automática de carregamento de bandejas para linha de fabricação de pastilhas de revestimento, por sucção. 8428.20.0000 "Ex" 002 - Carregadeira e descarregadeira para linha de fabricação de pastilhas de revestimento. 8428.39.0200 "Ex" 001 - Transportadora automática para linha de fabricação de pastilhas de revestimento, com painel de comando. 8428.50.0000 "Ex" 001 - Transferidor elétrico de vagonetes, com cremalheira e força de tração para duas toneladas ou mais. 8443.50.9900 "Ex" 001 - Equipamento de impressão de logotipo e numeração em luvas e embalagens de jato de tinta. 8443.90.0000 "Ex" 001 - Conjunto de cilindros de aço cromado, com ou sem contrapressão emborrachado, ajustável pneumaticamente, para impressão em rotogravura. 8459.61.9900 "Ex" 001 - Fresadeira copiadora vertical de dois cabeçotes e seis eixos simultâneos, com digitalização automática, de comando numérico. 8460.29.0000 "Ex" 001 - Retificadeira automática para abrir canal reto de machos de roscas, com câmara de retificação blindada, dressador automático de rebolo e carregador automático incorporado com esteira de cavidade tipo berço. 8462.10.0000 "Ex" 001 - Máquina semi-automática de formar cavidade em folha de alumínio, para pré-embalagens de suturas. 8463.90.9900 "Ex" 001 - Máquina automática para fabricação de agulhas cirúrgicas, com pontas afiadas triangulares/espatuladas e furo por broca na parte traseira. 8479.89.9900 "Ex" 001 - Máquina automática para eletropolimento em agulhas cirúrgicas, em regime contínuo com anodo estático. 9030.89.9900 "Ex" 001 - Analisador de indutância em transformadores e indutores.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação no Diário Oficial da União.
+
+FERNANDO HENRIQUE CARDOSO

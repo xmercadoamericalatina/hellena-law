@@ -1,0 +1,38 @@
+---
+titulo: "Ato Declaratório Interpretativo SRF nº 20, de 19 de julho de 2004"
+orgao: "Secretaria da Receita Federal"
+tipo: "Ato Declaratório Interpretativo"
+numero: "20"
+data: "2004-07-19"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 22/07/2004, página 19"
+data_publicacao: "2004-07-22"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/5684/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/5684/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "5684"
+sha256_texto: "7b10dfe1f8d1335aa67f46e6f73e1e621893e828cfd806d1489b0e8fc707afba"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Interpretativo SRF nº 20, de 19 de julho de 2004
+
+Dispõe sobre a dedutibilidade das perdas de créditos junto a instituições financeiras em processo de liquidação extrajudicial.
+
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 209 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001, e tendo em vista o disposto no art. 9º da Lei nº 9.430, de 27 de dezembro de 1996, e nos arts.18 e 22 da Lei nº 6.024, de 13 de março de 1974, declara:
+
+Artigo único. A dedução como despesa operacional, na apuração do lucro real, do valor de créditos de empresas junto a instituições financeiras em processo de liquidação extrajudicial, com base nos incisos II e III do § 1º do art. 9º da Lei nº 9.430, de 27 de dezembro de 1996, é permitida quando observados os arts. 18 e 22 da Lei nº 6.024, de 13 de março de 1974, nos seguintes termos:
+
+**§ 1º** Quanto aos créditos sem garantia de valor:
+
+I - até R$ 5.000,00 (cinco mil reais), por operação, podem ser deduzidos como perda, desde que vencidos há mais de seis meses, independentemente de iniciados os procedimentos judiciais para o seu recebimento;
+
+II - acima de R$ 5.000,00 (cinco mil reais) até R$ 30.000,00 (trinta mil reais), por operação, podem ser deduzidos como perda, desde que vencidos há mais de um ano, sendo necessária a declaração, quando exigida, dos créditos na forma do art. 22 da Lei nº 6.024, de 1974;
+
+III - acima de R$ 30.000,00 (trinta mil reais), por operação, vencidos há mais de um ano, podem ser deduzidos como perda, sendo necessária a declaração, quando exigida, dos créditos na forma do art. 22 da Lei nº 6.024, de 1974, posto que ficam suspensas as ações e execuções em curso, por força do disposto no art. 18 da Lei nº 6.024, de 1974.
+
+**§ 2º** Quanto aos créditos com garantia de valor, podem ser deduzidos como perda aqueles vencidos há mais de dois anos, desde que tenham sido iniciados os procedimentos judiciais para o seu recebimento, ainda que os mesmos, assim como a possibilidade de arresto das garantias, tenham se tornado suspensos a partir da decretação da liquidação extrajudicial, por força do disposto no art. 18 da Lei nº 6.024, de 1974.
+
+JORGE ANTONIO DEHER RACHID

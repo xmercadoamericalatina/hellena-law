@@ -1,0 +1,30 @@
+---
+titulo: "Solução de Consulta Diana/SRRF06 nº 13, de 25 de março de 2013"
+orgao: "Divisão de Administração Aduaneira da 6ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "13"
+data: "2013-03-25"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 17/06/2013, página 20"
+data_publicacao: "2013-06-17"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/42971/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/42971/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "42971"
+sha256_texto: "61a2ae62f1c4804bdb6caf211a1a7adc4f2c23750f4aef3b340e519a25ac6e91"
+baixado_em: "2026-10-21"
+---
+# Solução de Consulta Diana/SRRF06 nº 13, de 25 de março de 2013
+
+ASUNTO: Classificação de Mercadorias EMENTA: CÓDIGO TEC - MERCADORIA Briquete de carbono importado da China, com as seguintes características físico-químicas: poder calorífico inferior: 6.196,0 Kcal/Kg, poder calorífico superior 6.692,0 Kcal/Kg, teor de enxofre: 0,87%, perda por secagem ou umidade: 1,48%, teor de matéria volátil (base seca): 2,20%, resíduo de ignição ou cinzas: 7,2% e porcentagem de carbono fixo de 88,25%. Este produto é obtido a partir da hulha betuminosa, com forma moldada e definida, de dimensão determinada, formado normalmente por moldagem, podendo apresentar-se em diversos tamanhos e formas. Os briquetes em questão são formados pela aglomeração de partículas finas do carvão mineral, menores que 6mm, com auxílio de pressão e aquecimento com ou sem aglutinante. Dessa forma, um material de quase nenhum valor pode ser transformado em um produto combustível, recuperando-se os finos considerados rejeitos do processo de beneficiamento do carvão. Esse produto está classificado no código 2701.20.00. O carvão coque importado da China, obteve as seguintes características físico-químicas: poder calorífico inferior: 6.089,0 Kcal/Kg, poder calorífico superior 6.576,00 Kcal/Kg, teor de enxofre:
+
+ASUNTO: Classificação de Mercadorias
+
+EMENTA: CÓDIGO TEC - MERCADORIA Briquete de carbono importado da China, com as seguintes características físico-químicas: poder calorífico inferior: 6.196,0 Kcal/Kg, poder calorífico superior 6.692,0 Kcal/Kg, teor de enxofre: 0,87%, perda por secagem ou umidade: 1,48%, teor de matéria volátil (base seca): 2,20%, resíduo de ignição ou cinzas: 7,2% e porcentagem de carbono fixo de 88,25%. Este produto é obtido a partir da hulha betuminosa, com forma moldada e definida, de dimensão determinada, formado normalmente por moldagem, podendo apresentar-se em diversos tamanhos e formas. Os briquetes em questão são formados pela aglomeração de partículas finas do carvão mineral, menores que 6mm, com auxílio de pressão e aquecimento com ou sem aglutinante. Dessa forma, um material de quase nenhum valor pode ser transformado em um produto combustível, recuperando-se os finos considerados rejeitos do processo de beneficiamento do carvão. Esse produto está classificado no código 2701.20.00. O carvão coque importado da China, obteve as seguintes características físico-químicas: poder calorífico inferior: 6.089,0 Kcal/Kg, poder calorífico superior 6.576,00 Kcal/Kg, teor de enxofre:
+
+DISPOSITIVOS LEGAIS: Decreto 97.409 de 23/12/88. Decreto nº 435, de 27/01/1992. RGI 1 (texto da posição 27.01 e 27.04), RGI-6 (texto da subposição 2701.20) e RGC -1 (texto do item 2704.00.10) da TEC aprovada pela Resolução CAMEX nº 94, de 8 de dezembro de 2011 (publicada no DOU de 12 de dezembro de 2011). Subsídios extraídos das Notas Explicativas do Sistema Harmonizado - NESH da posição 27.01.
+
+WILLIAM LARA Chefe

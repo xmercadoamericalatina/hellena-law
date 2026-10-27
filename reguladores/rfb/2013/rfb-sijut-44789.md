@@ -1,0 +1,32 @@
+---
+titulo: "Solução de Consulta Diana/SRRF09 nº 34, de 6 de junho de 2013"
+orgao: "Divisão de Administração Aduaneira da 9ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "34"
+data: "2013-06-06"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 14/08/2013, página 18"
+data_publicacao: "2013-08-14"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/44789/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/44789/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "44789"
+sha256_texto: "466efb999e08d9754654fea94e24f493287dbed1e60266b8775ea099958b8085"
+baixado_em: "2026-10-20"
+---
+# Solução de Consulta Diana/SRRF09 nº 34, de 6 de junho de 2013
+
+Assunto: Classificação de Mercadorias
+
+Assunto: Classificação de Mercadorias
+
+Código TEC: 8481.10.00.
+
+Mercadoria: Redutor de pressão, constituído internamente por várias câmaras, contendo em seu interior molas, diafragmas, sensor de temperatura, e, incorporado ao estágio de maior pressão, um dispositivo dinâmico de alívio da pressão e, ainda, uma válvula solenóide que controla, eletricamente, a liberação do gás ao redutor. Este é parte integrante de um sistema completo de injeção seqüencial de gás destinado à instalação de gás natural veicular (GNV) para veículos automotores. Os demais componentes do sistema de injeção não acompanham o produto.
+
+Dispositivos Legais: RGI/SH 1 (texto da posição 84.81) e 6 (texto da subposição 8481.10.00) da TEC, aprovada pela Resolução Camex nº 94, de 2011, subsídios Nesh, aprovadas pelo Decreto nº 435, de 1992, e atualizadas pela IN RFB nº 807, de 2008, e alterações posteriores.
+
+JANETE DE SOUZA MACENA Chefe

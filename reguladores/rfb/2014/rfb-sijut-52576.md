@@ -1,0 +1,30 @@
+---
+titulo: "Solução de Consulta Diana/SRRF06 nº 30, de 19 de maio de 2014"
+orgao: "Divisão de Administração Aduaneira da 6ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "30"
+data: "2014-05-19"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 20/05/2014, seção 1, página 16"
+data_publicacao: "2014-05-20"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/52576/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/52576/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "52576"
+sha256_texto: "5d669e97c7fa236f74a96b925dca297ad79c57620febc1f2b39aef388d595a9f"
+baixado_em: "2026-10-20"
+---
+# Solução de Consulta Diana/SRRF06 nº 30, de 19 de maio de 2014
+
+ASSUNTO: Classificação de Mercadorias EMENTA: Código TIPI Mercadoria 7323.93.00 - Artefatos de uso doméstico, vulgarmente denominados de Espetos, com lâmina de aço inoxidável e cabo de madeira torneado e envernizado, próprio para uso em churrasqueiras, apresentado nos modelos Simples Inox com Cabo 85 cm; Simples Inox com Cabo 75 cm; Simples Inox com Cabo 65 cm; Simples Inox com Cabo 55 cm, fabricados por Metalúrgica Dragão Ltda. 7323.99.00 - Artefatos de uso doméstico, vulgarmente denominados de Espetos, com lâmina de aço carbono galvanizado e cabo de madeira torneado e envernizado, próprio para uso em churrasqueiras, apresentado nos modelos Simples com Cabo 85 cm; Simples com Cabo 75 cm; Simples com Cabo 65 cm; Simples com Cabo 55 cm; Duplo p/ Churrasco c/ Cabo 95 cm; Duplo p/ Churrasco c/ Cabo 85 cm; Duplo p/ Churrasco c/ Cabo 75 cm; Duplo p/ Churrasco c/ Cabo 65 cm; Duplo p/ Churrasco c/ Cabo 55 cm; Duplo p/ Churrasco c/ Cabo 45 cm, fabricados por Metalúrgica Dragão Ltda. DISPOSITIVOS LEGAIS: RGI/SH Nº 1 (texto da posição 73.23) e RGI/SH Nº 6 (textos da subposições 7323.93 e 7323.99), da TEC, promulgada pelo Decreto 97.409 de 23/12/88, e aprovada pela Resolução CAMEX nº 43, de 23/12/2006 e atualizada até a Resolução CAMEX nº 63, de 02/08/2013, e/ou da Tabela de Incidência do Imposto sobre Produtos Industrializados (TIPI), promulgada pelo Decreto nº 7.660, de 23/12/2011, publicado no D.O.U de 26/12/2011, além de subsídios extraídos das Notas Explicativas do Sistema Harmonizado- NESH, aprovadas pelo Decreto nº 435, de 27/01/1992 e consolidadas pela IN RFB nº 807, de 11/01/2008, alterada pelas IN RFB nº 1072/2010 e nº 1.260/2012.
+
+ASSUNTO: Classificação de Mercadorias
+
+EMENTA: Código TIPI Mercadoria 7323.93.00 - Artefatos de uso doméstico, vulgarmente denominados de Espetos, com lâmina de aço inoxidável e cabo de madeira torneado e envernizado, próprio para uso em churrasqueiras, apresentado nos modelos Simples Inox com Cabo 85 cm; Simples Inox com Cabo 75 cm; Simples Inox com Cabo 65 cm; Simples Inox com Cabo 55 cm, fabricados por Metalúrgica Dragão Ltda. 7323.99.00 - Artefatos de uso doméstico, vulgarmente denominados de Espetos, com lâmina de aço carbono galvanizado e cabo de madeira torneado e envernizado, próprio para uso em churrasqueiras, apresentado nos modelos Simples com Cabo 85 cm; Simples com Cabo 75 cm; Simples com Cabo 65 cm; Simples com Cabo 55 cm; Duplo p/ Churrasco c/ Cabo 95 cm; Duplo p/ Churrasco c/ Cabo 85 cm; Duplo p/ Churrasco c/ Cabo 75 cm; Duplo p/ Churrasco c/ Cabo 65 cm; Duplo p/ Churrasco c/ Cabo 55 cm; Duplo p/ Churrasco c/ Cabo 45 cm, fabricados por Metalúrgica Dragão Ltda.
+
+DISPOSITIVOS LEGAIS: RGI/SH Nº 1 (texto da posição 73.23) e RGI/SH Nº 6 (textos da subposições 7323.93 e 7323.99), da TEC, promulgada pelo Decreto 97.409 de 23/12/88, e aprovada pela Resolução CAMEX nº 43, de 23/12/2006 e atualizada até a Resolução CAMEX nº 63, de 02/08/2013, e/ou da Tabela de Incidência do Imposto sobre Produtos Industrializados (TIPI), promulgada pelo Decreto nº 7.660, de 23/12/2011, publicado no D.O.U de 26/12/2011, além de subsídios extraídos das Notas Explicativas do Sistema Harmonizado- NESH, aprovadas pelo Decreto nº 435, de 27/01/1992 e consolidadas pela IN RFB nº 807, de 11/01/2008, alterada pelas IN RFB nº 1072/2010 e nº 1.260/2012.
+
+WILLIAM LARA Chefe da Diana

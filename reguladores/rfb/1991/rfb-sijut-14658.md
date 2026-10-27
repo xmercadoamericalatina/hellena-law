@@ -1,0 +1,35 @@
+---
+titulo: "Instrução Normativa DPRF nº 105, de 22 de novembro de 1991"
+orgao: "Departamento da Receita Federal"
+tipo: "Instrução Normativa"
+numero: "105"
+data: "1991-11-22"
+revogada: true
+evidencia_revogacao: "[Revogado(a) pelo(a) Instrução Normativa RFB nº 1958, de 5 de junho de 2020]"
+vigente_fonte: false
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 25/11/1991, seção 1, página 26665"
+data_publicacao: "1991-11-25"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/14658/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/14658/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "14658"
+sha256_texto: "501539a5832364bb4016e1b9a65bb5749b4324ba2a27e85bf185afe07b959952"
+baixado_em: "2026-10-21"
+---
+# Instrução Normativa DPRF nº 105, de 22 de novembro de 1991
+
+Estabelece o enquadramento de bebidas para fim de cálculo e pagamento do IPI.
+
+O DIRETOR DO DEPARTAMENTO DA RECEITA FEDERAL, no uso de suas atribuições, e tendo em vista a delegação de competência conferida pela Portaria do Secretário da Fazenda Nacional nº 1.157, de 05 de setembro de 1991, resolve:
+
+I - Os produtos nacionais e estrangeiros relacionados no anexo a esta Instrução Normativa, para efeito de cálculo e pagamento do Imposto sobre Produtos Industrializados - IPI, de que tratam os arts. 1º da Lei nº 7.798, de 10 de julho de 1989, e 2º da Lei nº 8.133, de 27 de dezembro de 1990, passam a ser classificados ou a ter sua classificação alterada, conforme o enquadramento ora estabelecido, observado, no que for aplicável, o disposto na Portaria MF nº 139, de 19 de junho de 1989.
+
+II - Esta Instrução Normativa entrará em vigor na data de sua publicação.
+
+CARLOS ROBERTO GUIMARÃES MARCIAL
+
+## ANEXO
+
+LETRA CGC CÓD. TIPI MARCA COMERCIAL CAPAC B 56.010.739/0001-39 2208.90.0600 Côco Baianinha 250 56.010.739/0001-39 2208.90.0600 Amedoim Baianinha 250 C 56.010.739/0001-39 2208.90.0599 Bitter Calegari 250 80.770.340/0001-30 2204.21.0404 Aljofar - Branco 720 80.770.340/0001-30 2204.21.0404 Porto Mouro - Seco Branco 720 89.962.781/0001-09 2204.21.0304 Cappuccino - Tinto Suave 720 E 19.320.415/0001-70 2208.90.9903 Discabel 900 20.618.708/0001-18 2205.10.9900 Champeon - Catuaba 1000 56.010.739/0001-39 2208.90.0400 Menta Golf 250 56.010.739/0001-39 2208.90.0400 Limão Baianinha 250 60.572.716/0001-95 2205.10.9900 Catuaba Capri 900 60.572.716/0001-95 2205.10.9900 Jurubeba Capri 900 60.572.716/0001-95 2205.10.0100 Capri 900 60.572.716/0001-95 2205.10.0100 Ginkano 900 F 56.010.739/0001-39 2208.90.0201 Askov 250 G 60.572.716/0001-95 2208.90.0600 Coquinho Capri 900 60.572.716/0001-95 2208.90.0600 Limão Capri 900 60.572.716/0001-95 2208.40.0200 Caninha Tosca 900 60.572.716/0001-95 2208.20.0100 Capri 900 60.572.716/0001-95 2208.90.0600 Amendoim Capri 900 60.572.716/0001-95 2208.90.0302 Gengibre Capri 900 60.572.716/0001-95 2208.90.0301 Alcatrão Capri 900 I 60.572.716/0001-95 2208.90.0599 Amargo Fernet Capri 900 60.572.716/0001-95 2208.90.0599 Amargo Bitter Extra Capri 900 K 20.618.708/0001-18 2208.90.0400 Champeon 1000 60.572.716/0001-95 2208.90.0400 Cacau Bahia 900 60.572.716/0001-95 2208.90.0400 Menta Capri 900 60.572.716/0001-95 2208.90.0400 Quentão Capri 900 L 60.572.716/0001-95 2208.90.0201 Apnhk 900 61.610.747/0001-56 2208.90.0201 Daykov 970 P IMPORTADO 2204.21.0699 Aperitif Lillet 750  
+LETRA CGC CÓD. TIPI MARCA COMERCIAL CAPAC B 56.010.739/0001-39 2208.90.0600 Côco Baianinha 250 56.010.739/0001-39 2208.90.0600 Amedoim Baianinha 250 C 56.010.739/0001-39 2208.90.0599 Bitter Calegari 250 80.770.340/0001-30 2204.21.0404 Aljofar - Branco 720 80.770.340/0001-30 2204.21.0404 Porto Mouro – Seco Branco 720 89.962.781/0001-09 2204.21.0304 Cappuccino - Tinto Suave 720 E 19.320.415/0001-70 2208.90.9903 Discabel 900 20.618.708/0001-18 2205.10.9900 Champeon - Catuaba 1000 56.010.739/0001-39 2208.90.0400 Menta Golf 250 56.010.739/0001-39 2208.90.0400 Limão Baianinha 250 60.572.716/0001-95 2205.10.9900 Catuaba Capri 900 60.572.716/0001-95 2205.10.9900 Jurubeba Capri 900 60.572.716/0001-95 2205.10.0100 Capri 900 60.572.716/0001-95 2205.10.0100 Ginkano 900 F 56.010.739/0001-39 2208.90.0201 Askov 250 G 60.572.716/0001-95 2208.90.0600 Coquinho Capri 900 60.572.716/0001-95 2208.90.0600 Limão Capri 900 60.572.716/0001-95 2208.40.0200 Caninha Tosca 900 60.572.716/0001-95 2208.20.0100 Capri 900 60.572.716/0001-95 2208.90.0600 Amendoim Capri 900 60.572.716/0001-95 2208.90.0302 Gengibre Capri 900 60.572.716/0001-95 2208.90.0301 Alcatrão Capri 900 I 60.572.716/0001-95 2208.90.0599 Amargo Fernet Capri 900 60.572.716/0001-95 2208.90.0599 Amargo Bitter Extra Capri 900 K 20.618.708/0001-18 2208.90.0400 Champeon 1000 60.572.716/0001-95 2208.90.0400 Cacau Bahia 900 60.572.716/0001-95 2208.90.0400 Menta Capri 900 60.572.716/0001-95 2208.90.0400 Quentão Capri 900 L 60.572.716/0001-95 2208.90.0201 Apnhk 900 61.610.747/0001-56 2208.90.0201 Daykov 970 P IMPORTADO 2204.21.0699 Aperitif Lillet 750

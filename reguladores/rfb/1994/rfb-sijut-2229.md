@@ -1,0 +1,32 @@
+---
+titulo: "Ato Declaratório SRF nº 69, de 25 de maio de 1994"
+orgao: "Secretaria da Receita Federal"
+tipo: "Ato Declaratório"
+numero: "69"
+data: "1994-05-25"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 31/05/1994, seção 1, página 7952"
+data_publicacao: "1994-05-31"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/2229/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/2229/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "2229"
+sha256_texto: "cda27b70d95be9b742d9408bad71d15d88a73020dcbb3c4ebfa086d4c4117abd"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório SRF nº 69, de 25 de maio de 1994
+
+Declara o valor do IPI para cigarros, água mineral, refrigerantes e cervejas a partir de 01/06/94
+
+O SECRETÁRIO DA RECEITA FEDERAL, em exercício, no uso da delegação de competência conferida pela Portaria MF nº 678, de 22 de outubro de 1992,
+
+Declara que a partir de 1º de junho de 1994, os produtos sujeitos ao regime tributário de que tratam os arts. 1º e 3º da Lei nº 7.798, de 10 de julho de 1989, estarão sujeitos ao Imposto sobre Produtos Industrializados - IPI fixado conforme as Tabelas anexas.
+
+OSIRIS DE AZEVEDO LOPES FILHO
+
+TABELA I CLASSES IPI - CR$ CLASSES IPI - CR$ CLASSES IPI - CR$ A 108,89 I 511,65 R 3.028,65 B 131,03 J 620,74 S 3.695,44
+
+<table>      <tbody>        <tr>          <td>            <div>                                    TABELA I  CLASSES  IPI - CR$  CLASSES  IPI - CR$   CLASSES  IPI - CR$     A     108,89        I      511,65       R       3.028,65     B     131,03        J      620,74       S       3.695,44     C     158,07        K      758,97       T       4.507,07     D     189,98        L      922,56       U       5.497,24     E     233,94        M    1.124,63       V       6.706,51     F     285,02        N    1.371,80       X       8.178,29     G     343,27        O    1.670,60       Y       9.979,65     H     416,48        P    2.038,16       Z      14.851,71                         Q    2.481,15                         TABELA II  CÓDIGO TIPI DESCRIÇÃO DO PRODUTO RECIPIENTE  IPI-CR$ UNIDADE   21O6.9O  Preparações não-alcoólicas,pa-            ra elaboração de bebidas            ("postmix")            1. Cilindros                         807,66  litro  22O1.1O   Águas Minerais, artificiais    e            águas gaseificadas            I- Garrafa de vidro, retornável            2. até 260 ml                          173,52   12            3. de 261 a 360 ml                     216,48   12            4. de 361 a 660 ml                     252,60   12            5. de 661 a 1.100 ml                   492,00   12            II-Garrafa de vidro, não retornável            6. até 260 ml                          626,64   24            7. de 261 a 360 ml                     742,32   24            8. de 361 a 660 ml                     738,84   12            9. de 661 a 1.100 ml                 1.226,76   12            III-Garrafa de plástico,não retornável            10. de 661 a 1.100 ml                  530,28   12            11. acima de 1.100 ml                  698,28   12            IV - Embalagens plásticas            12. até 260 ml                         302,88   48  22O2.1O   Refrigerantes e Refrescos (a)            I - Garrafa de vidro, retornável            13. até 260 ml                         332,16   12            14. de 261 a 360 ml                    426,48   12            15. de 361 a 660 ml                    697,44   12            16. de 661 a 1.100 ml                1.544,88   12            17. de 1.101 a 1.300 ml              1.860.72   12            II-Garrafa de vidro, não retornável            18. até 260 ml                         852,96   24            19. de 261 a 360 ml                    946,08   24            20. de 361 a 660 ml                    847,44   12            III-Garrafa de plástico, retornável            21. de 1.301 a 1.600 ml              2.344,32   12            22. de 1.601 a 2.100 ml              1.333,20    6            IV-Garrafa de plástico, não retornável            23. de 1.301 a 1.600 ml              2.557,20   12            24. de 1.601 a 2.100 ml              1.455,12    6            25. acima de 2.100 ml                1.455,12    6            V - Embalagens plásticas            26. até 260 ml                         948,48   48            VI - Latas            27. de 261 a 360 ml                    946,08   24            VII - Cilindros ("pre-mix")            28. cilindros                          116,38 litro  22O3.OO   Cervejas de malte            I - Garrafa de vidro, retornável            29. até 260 ml                       1.501,08   12            30. de 261 a 360 ml                  1.683,60   12            31. de 361 a 660 ml                  2.463,48   12            32. de 661 a 1.100 ml                4.770,12   12            II-Garrafa de vidro, não retornável            33. de 261 a 360 ml                  2.406,72   24            34. de 361 a 660 ml                  3.613,68   24            35. de 661 a 1.100 ml                6.296,88   24            III - Lata            36. de 261 a 360 ml                  2.882,64   24            37. de 361 a 660 ml                  4.840,08   24            IV - Barril            38. Barril                             374,62 litro            V-Recipiente especial, não retornável            39. Embalagem até 5,1 litros           438,37 litro            Cervejas de malte (b)            I - Garrafa de vidro, retornável            40. de 261 a 360 ml                    841,68   12            II-Garrafa de vidro, não retornável            41. de 261 a 360 ml                  1.204,08   24            III - Lata            42. de 261 a 360 ml                  1.441,20   24            IV - Barril            43. Barril                             187,33 litro  Nota a) No caso de produtos classificados nos códigos referidos na  Notas Complementares NC (21-1) e NC (22-1) da TIPI, os valores do  IPI ficam reduzidos a 50%, quando atendidas as condições ali  indicadas.  Nota b) Cervejas cujo teor alcoólico em volume não exceda 0,5%  vol., conforme Capítulo 22, Nota nº 3, da NBM-SH            </div>          </td>        </tr>      </tbody>    </table>

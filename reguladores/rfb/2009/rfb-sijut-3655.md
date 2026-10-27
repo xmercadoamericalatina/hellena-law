@@ -1,0 +1,34 @@
+---
+titulo: "Ato Declaratório Executivo Codac nº 11, de 13 de fevereiro de 2009"
+orgao: "Coordenação-Geral de Arrecadação e Cobrança"
+tipo: "Ato Declaratório Executivo"
+numero: "11"
+data: "2009-02-13"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 17/02/2009, página 25"
+data_publicacao: "2009-02-17"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/3655/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/3655/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "3655"
+sha256_texto: "963c372db41729a3b8a8c7b68267d93151462bdcf32804f8209b1c755c8805f6"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Executivo Codac nº 11, de 13 de fevereiro de 2009
+
+Altera o Ato Declaratório Executivo Codac nº 4, de 29 de janeiro de 2009, que divulga a Agenda Tributária do mês de fevereiro de 2009
+
+O COORDENADOR DE ARRECADAÇÃO, no uso da atribuição que lhe confere o inciso III do art. 247 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 95, de 30 de abril de 2007, e tendo em vista a competência que lhe foi delegada pelo inciso VIII do art. 1º da Portaria Codac nº 103, de 27 de dezembro de 2007, e com base no disposto nos arts. 58-A a 58-U da Lei nº 10.833, de 29 de dezembro de 2003, acrescidos pela Lei nº 11.727, de 23 de junho de 2008, no 4º do artigo 5º da Lei nº 9.718, de 27 de novembro de 1998, com redação dada pelo art. 7º da Lei nº 11.727, de 23 de junho de 2008, no Decreto nº 6.573, de 19 de setembro de 2008, e na Instrução Normativa RFB nº 876, de 18 de setembro de 2008, declara:
+
+**Art. 1º** Ficam incluídas na Agenda Tributária do mês de fevereiro de 2009, anexa ao Ato Declaratório Executivo Codac nº 4, de 29 de janeiro de 2009, as seguintes disposições:
+
+Data de Vencimento Tributos Código Darf Código GPS Período de Apuração do Fato Gerador (FG) 25 Imposto sobre Produtos Industrializados (IPI) Cervejas - Regime Especial de Tributação previsto no art. 58-J da Lei nº 10.833,de 29 de dezembro de 2003. 0821 Janeiro/2009 Demais bebidas - Regime Especial de Tributação previsto no art. 58-J da Lei nº 10.833, de 29 de dezembro de 2003. 0838 " 25 Contribuição para o PIS/Pasep Cervejas - Regime Especial de Tributação previsto no art. 58-J da Lei nº 10.833,de 29 de dezembro de 2003. 0679 Janeiro/2009 Demais bebidas - Regime Especial de Tributação previsto no art. 58-J da Lei nº 10.833, de 29 de dezembro de 2003. 0691 " Álcool - Regime Especial de Apuração e Pagamento previsto no §4º do art. 5º da Lei nº 9.718, de 27 de novembro de 1998. 0906 " 25 Contribuição para o Financiamento da Seguridade Social (Cofins) Cervejas - Regime Especial de Tributação previsto no art. 58-J da Lei nº 10.833,de 29 de dezembro de 2003. 0760 Janeiro/2009 Demais bebidas - Regime Especial de Tributação previsto no art. 58-J da Lei nº 10.833, de 29 de dezembro de 2003. 0776 " Álcool - Regime Especial de Apuração e Pagamento previsto no §4º do art. 5º da Lei nº 9.718, de 27 de novembro de 1998. 0929 "
+
+<table>   <tbody><tr>     <td>    <p>Data de    Vencimento</p>      </td>    <td>    <p>Tributos</p>      </td>    <td>    <p>Código Darf</p>       </td>    <td>    <p>Código GPS</p>      </td>    <td>    <p>Período de    Apuração do Fato Gerador (FG)</p>      </td>    </tr>    <tr>    <td>    <p>25 </p>      </td>    <td>    <p>Imposto    sobre Produtos Industrializados (IPI) </p>      </td>    <td>     <p> </p>      </td>    <td>    <p> </p>      </td>    <td>    <p> </p>      </td>    </tr>    <tr>    <td>    <p> </p>      </td>    <td>    <p>Cervejas -    Regime Especial de Tributação previsto no art. 58-J da Lei n<del>º</del>    10.833,de 29 de dezembro de 2003. </p>       </td>    <td>    <p>0821 </p>      </td>    <td>    <p> </p>      </td>    <td>     <p>Janeiro/2009    </p>      </td>    </tr>   <tr>    <td>    <p> </p>      </td>    <td>     <p>Demais    bebidas - Regime Especial de Tributação previsto no art. 58-J da Lei n<del>º</del>    10.833, de 29 de dezembro de 2003. </p>      </td>    <td>    <p>0838 </p>      </td>    <td>     <p> </p>      </td>    <td>    <p>" </p>      </td>    </tr>   <tr>    <td>     <p>25 </p>      </td>    <td>    <p>Contribuição    para o PIS/Pasep </p>      </td>    <td>    <p> </p>      </td>     <td>    <p> </p>      </td>    <td>    <p> </p>      </td>    </tr>   <tr>    <td>     <p> </p>      </td>    <td>    <p>Cervejas -    Regime Especial de Tributação previsto no art. 58-J da Lei n<del>º</del>    10.833,de 29 de dezembro de 2003. </p>      </td>    <td>     <p>0679 </p>      </td>    <td>    <p> </p>      </td>    <td>    <p>Janeiro/2009    </p>      </td>     </tr>   <tr>    <td>    <p> </p>      </td>    <td>    <p>Demais bebidas    - Regime Especial de Tributação previsto no art. 58-J da Lei n<del>º</del>    10.833, de 29 de dezembro de 2003. </p>       </td>    <td>    <p>0691 </p>      </td>    <td>    <p> </p>      </td>    <td>     <p>" </p>      </td>    </tr>   <tr>    <td>    <p> </p>      </td>    <td>     <p>Álcool -    Regime Especial de Apuração e Pagamento previsto no §4<del>º</del> do art. 5<del>º</del>    da Lei n<del>º</del> 9.718, de 27 de novembro de 1998. </p>      </td>    <td>     <p>0906 </p>      </td>    <td>    <p> </p>      </td>    <td>    <p>" </p>      </td>     </tr>   <tr>    <td>    <p>25 </p>      </td>    <td>    <p>Contribuição    para o Financiamento da Seguridade Social (Cofins) </p>      </td>     <td>    <p> </p>      </td>    <td>    <p> </p>      </td>    <td>    <p> </p>      </td>     </tr>   <tr>    <td>    <p> </p>      </td>    <td>    <p>Cervejas -    Regime Especial de Tributação previsto no art. 58-J da Lei n<del>º</del>    10.833,de 29 de dezembro de 2003. </p>       </td>    <td>    <p>0760 </p>      </td>    <td>    <p> </p>      </td>    <td>     <p>Janeiro/2009    </p>      </td>    </tr>   <tr>    <td>    <p> </p>      </td>    <td>     <p>Demais bebidas    - Regime Especial de Tributação previsto no art. 58-J da Lei n<del>º</del>  10.833, de 29 de dezembro de 2003. </p>      </td>    <td>    <p>0776 </p>      </td>    <td>     <p> </p>      </td>    <td>    <p>" </p>      </td>    </tr>   <tr>    <td>     <p> </p>      </td>    <td>    <p>Álcool -    Regime Especial de Apuração e Pagamento previsto no §4<del>º</del> do art. 5<del>º</del>    da Lei n<del>º</del> 9.718, de 27 de novembro de 1998. </p>       </td>    <td>    <p>0929 </p>      </td>    <td>    <p> </p>      </td>    <td>     <p>" </p>           </td>    </tr>  </tbody></table>
+
+**Art. 2º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação.
+
+JOSE GERALDO FERRAZ GANGANA

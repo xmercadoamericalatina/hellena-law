@@ -1,0 +1,31 @@
+---
+titulo: "Portaria Nº 187, DE 12 DE março DE 2025"
+orgao: "Ministério de Portos e Aeroportos/Secretaria Nacional de Aviação Civil"
+tipo: "Portaria"
+numero: "187"
+data: 2025-03-12
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 14/03/2025, seção 1, p. 104"
+data_publicacao: 2025-03-14
+edicao: "50"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-187-de-12-de-marco-de-2025-617949971"
+baixado_em: 2026-10-15
+---
+# Portaria Nº 187, DE 12 DE março DE 2025
+
+Portaria Nº 187, DE 12 DE março DE 2025
+
+Autoriza a celebração do contrato comercial que envolve a cessão de espaço no complexo aeroportuário, com prazo superior ao período de vigência da concessão, entre a Concessionaria do Bloco Central S.A. - filial aeroporto de São Luís e a Aerotropolis Empreendimentos S.A.
+
+O SECRETÁRIO NACIONAL DE AVIAÇÃO CIVIL, no exercício das atribuições que lhe conferem o art. 13 do Anexo I, do Decreto nº 11.354, de 1º de janeiro de 2023, com base no disposto na Portaria nº 93, de 20 de julho de 2020, e o constante nos autos do Processo Administrativo nº 50020.008398/2024-48, resolve:
+
+**Art. 1º** Autorizar contrato comercial que envolve a cessão de espaço no complexo aeroportuário do Aeroporto Internacional de São Luís - Marechal Cunha Machado (SLZ), com prazo superior ao período de vigência da concessão, a ser celebrado entre a Concessionária do Bloco Central S.A - Filial Aeroporto de São Luís, CNPJ 42.206.269/0005-00, e a Aerotropolis Empreendimentos S.A, CNPJ 22.356.816/0001-95, para fins de implementação de galpões destinados à operação logística regional.
+
+**Art. 2º** Qualquer alteração ou aditamento do contrato comercial de que trata esta Portaria dependerá de anuência prévia desta Secretaria Nacional de Aviação Civil, sob pena de cassação da autorização.
+
+**Art. 3º** Em caso de extinção antecipada da concessão, o contrato celebrado no âmbito desta Portaria será sub-rogado pelo Poder Concedente ou pelo novo operador do aeroporto.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+TOMÉ FRANCA

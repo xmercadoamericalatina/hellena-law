@@ -1,0 +1,44 @@
+---
+titulo: "Solução de Consulta Disit/SRRF04 nº 37, de 9 de maio de 2013"
+orgao: "Divisão de Tributação da 4ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "37"
+data: "2013-05-09"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 28/05/2013, página 17"
+data_publicacao: "2013-05-28"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/42309/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/42309/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "42309"
+sha256_texto: "f53542907ae0d1fb13b70371f14d1bf21a87b1381a2bf863636fa72f0cde08b2"
+baixado_em: "2026-10-21"
+---
+# Solução de Consulta Disit/SRRF04 nº 37, de 9 de maio de 2013
+
+ASSUNTO: Contribuição Social sobre o Lucro Líquido - CSLL Resultado presumido. Percentual a ser aplicado sobre a receita bruta para apuração da base de cálculo da CSLL. Prestação de serviços de reabilitação, por meio de fisioterapia e terapia ocupacional. ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ Lucro presumido. Percentual a ser aplicado sobre a receita bruta para apuração da base de cálculo do IRPJ. Prestação de serviços de reabilitação, por meio de fisioterapia e terapia ocupacional.
+
+ASSUNTO: Contribuição Social sobre o Lucro Líquido - CSLL
+
+EMENTA: Resultado presumido. Percentual a ser aplicado sobre a receita bruta para apuração da base de cálculo da CSLL. Prestação de serviços de reabilitação, por meio de fisioterapia e terapia ocupacional.
+
+Aplica-se o coeficiente de 12% (doze por cento) sobre a receita bruta, para fins de determinação do resultado presumido relativo à atividade de prestação de serviços de reabilitação, por meio de fisioterapia e terapia ocupacional, visto constituírem subatividades pertinentes à atribuição dos estabelecimentos assistenciais de saúde consistente na prestação de atendimento de apoio ao diagnóstico e terapia, contanto que, cumulativamente, a prestadora desses serviços seja organizada, de fato e de direito, sob a forma de sociedade empresária, registrada na Junta Comercial, nos termos do Código Civil, e possua infraestrutura física conforme a Resolução de Diretoria Colegiada Anvisa nº 50, de 2002, cuja comprovação deve ser feita mediante alvará expedido pelo órgão de vigilância sanitária competente.
+
+Por outro lado, na hipótese de atividades diversificadas, aplicar-se-á o percentual correspondente a cada uma delas.
+
+DISPOSITIVOS LEGAIS: Lei nº 9.249, de 1995, arts. 15, § 1º, III, “a”, e § 2º, e 20, com redação da Lei nº 11.727, de 2008; Código Civil, arts. 966, 967 e 982; Instrução Normativa RFB nº 740, de 2007, art. 12, “caput”; Instrução Normativa RFB nº 1.234, de 2012, arts. 30, 31 e 38, II; Solução de Divergência Cosit nº 11, de 2012.
+
+ASSUNTO:Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+
+EMENTA: Lucro presumido. Percentual a ser aplicado sobre a receita bruta para apuração da base de cálculo do IRPJ. Prestação de serviços de reabilitação, por meio de fisioterapia e terapia ocupacional.
+
+Aplica-se o coeficiente de 8% (oito por cento) sobre a receita bruta, para fins de determinação do lucro presumido relativo à atividade de prestação de serviços de reabilitação, por meio de fisioterapia e terapia ocupacional, visto constituírem subatividades pertinentes à atribuição dos estabelecimentos assistenciais de saúde consistente na prestação de atendimento de apoio ao diagnóstico e terapia, contanto que, cumulativamente, a prestadora desses serviços seja organizada, de fato e de direito, sob a forma de sociedade empresária, registrada na Junta Comercial, nos termos do Código Civil, e possua infraestrutura física conforme a Resolução de Diretoria Colegiada Anvisa nº 50, de 2002, cuja comprovação deve ser feita mediante alvará expedido pelo órgão de vigilância sanitária competente.
+
+Por outro lado, na hipótese de atividades diversificadas, aplicar-se-á o percentual correspondente a cada uma delas.
+
+DISPOSITIVOS LEGAIS: Lei nº 9.249, de 1995, art. 15, § 1º, III, “a”, e § 2º, com redação da Lei nº 11.727, de 2008; Código Civil, arts. 966, 967 e 982; Decreto nº 3.000, de 1999 (RIR/1999), art. 519, § 3º; Instrução Normativa RFB nº 740, de 2007, art. 12, “caput”; Instrução Normativa RFB nº 1.234, de 2012, arts. 30, 31 e 38, II; Solução de Divergência Cosit nº 11, de 2012.
+
+FLÁVIO OSÓRIO DE BARROS Chefe

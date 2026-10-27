@@ -1,0 +1,30 @@
+---
+titulo: "Ato Declaratório Interpretativo RFB nº 2, de 15 de abril de 2013"
+orgao: "Secretaria da Receita Federal do Brasil"
+tipo: "Ato Declaratório Interpretativo"
+numero: "2"
+data: "2013-04-15"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 16/04/2013, página 15"
+data_publicacao: "2013-04-16"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/41067/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/41067/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "41067"
+sha256_texto: "48295cdaeec997cc1544e99f2cd0be413b4a642c2d7f77568bbda9fd40d0de32"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Interpretativo RFB nº 2, de 15 de abril de 2013
+
+Dispõe sobre isenção do Imposto sobre a Renda das Pessoas Jurídicas, prevista em Acordo por Troca de Nota entre o Brasil e os Emirados Árabes Unidos, com base em tratamento de reciprocidade, sobre lucros de operação de aeronaves no tráfego internacional e lucros de participação em “pool” ou em empreendimento conjunto.
+
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 30 do Decreto-Lei nº 5.844, de 23 de setembro de 1943, e no parágrafo único do art. 85 da Lei nº 9.430, de 27 de dezembro de 1996, declara:
+
+**Art. 1º** Estão isentas do Imposto sobre a Renda das Pessoas Jurídicas, com base em tratamento de reciprocidade, as empresas aéreas controladas por residente dos Emirados Árabes Unidos em relação aos lucros auferidos na operação de aeronaves no tráfego internacional, inclusive os lucros decorrentes de participação em “pool” ou em empreendimento conjunto, conforme o acordo por troca de notas do Ministério das Relações Exteriores celebrado entre o Governo dos Emirados Árabes Unidos e o Governo da República Federativa do Brasil em 14 de julho de 2009.
+
+**Art. 2º** Este Ato Declaratório Interpretativo produz efeitos em relação aos fatos geradores ocorridos a partir de 14 de julho de 2009.
+
+CARLOS ALBERTO FREITAS BARRETO

@@ -1,0 +1,34 @@
+---
+titulo: "Ato Declaratório Executivo Sufis nº 19, de 18 de outubro de 2010"
+orgao: "Subsecretaria de Fiscalização"
+tipo: "Ato Declaratório Executivo"
+numero: "19"
+data: "2010-10-18"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 19/10/2010, página 22"
+data_publicacao: "2010-10-19"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/3961/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/3961/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "3961"
+sha256_texto: "64248b639f42d670d981602fe37af927e6fb22e5d3f16377f35bb82836d4f64d"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Executivo Sufis nº 19, de 18 de outubro de 2010
+
+Divulga o enquadramento fiscal de marcas de cigarro da empresa Souza Cruz S.A., inscrita no CNPJ nº 33.009.911/0001-39.
+
+O SUBSECRETÁRIO DE FISCALIZAÇÃO SECRETARIA DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe são conferidas pelo art. 265, inciso II, do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 125, de 4 de março de 2009, e tendo em vista o disposto no art. 217 do Decreto nº 7.212, de 15 de junho de 2010, declara:
+
+**Art. 1º** O enquadramento fiscal de marcas de cigarro da empresa SOUZA CRUZ S.A., CNPJ nº 33.009.911/0001-39, é o constante da seguinte tabela:
+
+Classe Fiscal Embalagem Marca Comercial Versão Vigência I Maço Hollywood Max Menthol 06/10/2010 I Maço Hollywood Xtra Ice 06/10/2010 I Maço Hollywood Mint 06/10/2010 III-R Rígida Dunhill Blue Blend KS NR HLB 29/9/2010 III-R Rígida Dunhill Carlton Blend KS NR HLB 29/9/2010 III-R Rígida Dunhill Crystal Blend KS NR HLB 29/9/2010 III-R Rígida Dunhill Master Blend KS NR HLB 30/9/2010
+
+<table>    <tbody>      <tr>        <td>          <p>Classe           Fiscal                    </p>          <div>          </div>        </td>        <td>          <p>Embalagem                    </p>          <div>          </div>        </td>        <td>          <p>Marca           Comercial                    </p>          <div>          </div>        </td>        <td>          <p>Versão                    </p>          <div>          </div>        </td>        <td>          <p>Vigência                    </p>          <div>          </div>        </td>      </tr>      <tr>        <td>          <p>I                                        </p>          <div>          </div>        </td>        <td>          <p>Maço                                        </p>          <div>          </div>        </td>        <td>          <p>Hollywood                                        </p>          <div>          </div>        </td>        <td>          <p>Max           Menthol                                        </p>          <div>          </div>        </td>        <td>          <p>06/10/2010                                        </p>          <div>          </div>        </td>      </tr>      <tr>        <td>          <p>I                                        </p>          <div>          </div>        </td>        <td>          <p>Maço                                        </p>          <div>          </div>        </td>        <td>          <p>Hollywood                                        </p>          <div>          </div>        </td>        <td>          <p>Xtra           Ice                                        </p>          <div>          </div>        </td>        <td>          <p>06/10/2010                                        </p>          <div>          </div>        </td>      </tr>      <tr>        <td>          <p>I                                        </p>          <div>          </div>        </td>        <td>          <p>Maço                                        </p>          <div>          </div>        </td>        <td>          <p>Hollywood                                        </p>          <div>          </div>        </td>        <td>          <p>Mint                    </p>          <div>          </div>        </td>        <td>          <p>06/10/2010                    </p>          <div>          </div>        </td>      </tr>      <tr>        <td>          <p>III-R                    </p>          <div>          </div>        </td>        <td>          <p>Rígida                    </p>          <div>          </div>        </td>        <td>          <p>Dunhill                                        </p>          <div>          </div>        </td>        <td>          <p>Blue           Blend KS NR HLB                                        </p>          <div>          </div>        </td>        <td>          <p>29/9/2010                    </p>          <div>          </div>        </td>      </tr>      <tr>        <td>          <p>III-R                    </p>          <div>          </div>        </td>        <td>          <p>Rígida                    </p>          <div>          </div>        </td>        <td>          <p>Dunhill                                        </p>          <div>          </div>        </td>        <td>          <p>Carlton           Blend KS NR HLB                                        </p>          <div>          </div>        </td>        <td>          <p>29/9/2010                    </p>          <div>          </div>        </td>      </tr>      <tr>        <td>          <p>III-R                    </p>          <div>          </div>        </td>        <td>          <p>Rígida                    </p>          <div>          </div>        </td>        <td>          <p>Dunhill                                        </p>          <div>          </div>        </td>        <td>          <p>Crystal           Blend KS NR HLB                                        </p>          <div>          </div>        </td>        <td>          <p>29/9/2010                    </p>          <div>          </div>        </td>      </tr>      <tr>        <td>          <p>III-R                    </p>          <div>          </div>        </td>        <td>          <p>Rígida                    </p>          <div>          </div>        </td>        <td>          <p>Dunhill                                        </p>          <div>          </div>        </td>        <td>          <p>Master           Blend KS NR HLB                                        </p>          <div>          </div>        </td>        <td>          <p>30/9/2010                    </p>          <div>          </div>                  </td>      </tr>    </tbody>  </table>
+
+**Art. 2º** O enquadramento a que se refere o artigo anterior foi comunicado à Secretaria da Receita Federal do Brasil pelo fabricante, em cumprimento ao disposto no art. 219, inciso III, do Decreto nº 7.212, de 2010.
+
+MARCOS VINICIUS NEDER DE LIMA

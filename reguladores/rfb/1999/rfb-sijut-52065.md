@@ -1,0 +1,46 @@
+---
+titulo: "Ato Declaratório Normativo Cosit nº 5, de 10 de março de 1999"
+orgao: "Coordenação-Geral de Tributação"
+tipo: "Ato Declaratório Normativo"
+numero: "5"
+data: "1999-03-10"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 23/03/1999, seção 1, página 7"
+data_publicacao: "1999-03-23"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/52065/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/52065/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "52065"
+sha256_texto: "e0ce0dd6cbb8044fe5cd02ff4186c35a6423df09f62165d4c2abac824d3f743a"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Normativo Cosit nº 5, de 10 de março de 1999
+
+Dispõe sobre a vigência e exercício das opções pelo SIMPLES ocorridas no ano-calendário de 1998.
+
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso das atribuições que lhe confere o art. 199, inciso IV, do Regimento Interno aprovado pela Portaria Ministerial No 227, de 3 de setembro de 1998, e tendo em vista as disposições do art. 2o a 5o e 9o, inciso II, todos da Lei No 9.317, de 5 de dezembro de 1996, do art. 3o da Lei No 9.732, de 11 de dezembro de 1998 e do art. 6o da Lei No 9.779, de 19 de janeiro de 1999,
+
+declara em caráter normativo, às Superintendências Regionais da Receita Federal, às Delegacias da Receita Federal de Julgamento e aos demais interessados que a pessoa jurídica:
+
+I - optante pelo SIMPLES, na condição de empresa de pequeno porte, que tenha auferido receita bruta igual ou inferior a R$ 1.200.000,00 (um milhão e duzentos mil reais), poderá, independente de alteração cadastral relativa ao porte, permanecer nessa condição para o ano-calendário de 1999;
+
+II - optante pelo SIMPLES na condição de microempresa, que tenha excedido o limite de receita bruta acumulada de R$ 120.000,00 (cento e vinte mil reais) no decurso do ano-calendário, poderá permanecer no SIMPLES, mediante alteração cadastral para o enquadramento na condição de empresa de pequeno porte, desde que não ultrapasse o limite de receita bruta anual de R$ 1.200.000,00 (um milhão e duzentos mil reais);
+
+III - na hipótese dos incisos I e II, a pessoa jurídica adotará, em relação aos valores excedentes a R$ 720.000,00 (setecentos e vinte mil reais), dentro daquele ano, os percentuais de:
+
+a) 8,4% (oito inteiros e quatro décimos por cento), em relação ao imposto e às contribuições referidos no art. 3o, § 1o da Lei No 9.317, de 5 de dezembro de 1996;
+
+b) 0,6% (seis décimos por cento), em relação ao IPI, caso seja contribuinte desse imposto;
+
+c) dos percentuais máximos atribuídos nos convênios que hajam sido firmados pela Unidade Federada e pelo Município para as empresas de pequeno porte, acrescidos de 20% (vinte por cento);
+
+IV - que iniciar atividades no ano-calendário de 1998 na condição de optante pelo SIMPLES e ultrapassar o limite de receita bruta correspondente a R$ 60.000,00 (sessenta mil reais) multiplicado pelo número de meses de funcionamento naquele período, desconsideradas as frações de meses, poderá, desde que não ultrapasse o limite proporcional de R$ 100.000,00 (cem mil reais), nas mesmas condições definidas para o limite citado anteriormente, permanecer no SIMPLES;
+
+V - que iniciou atividades no ano-calendário de 1997, adotará como limite proporcional, no caso da opção pelo SIMPLES no ano calendário de 1998, na condição de empresa de pequeno porte, o valor correspondente a R$ 100.000,00 (cem mil reais), multiplicado pelo número de meses de funcionamento naquele período, desconsideradas as frações de meses.
+
+CARLOS ALBERTO DE NIZA E CASTRO
+
+Nota SIJUT: Republicado por ter saído com incorreção, do original, no D.O de 11-03-99, Seção 1, págs. 43 e 44.

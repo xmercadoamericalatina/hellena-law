@@ -1,0 +1,32 @@
+---
+titulo: "Ato Declaratório Cosar nº 34, de 29 de outubro de 1996"
+orgao: "Coordenação-Geral do Sistema de Arrecadação e Cobrança"
+tipo: "Ato Declaratório"
+numero: "34"
+data: "1996-10-29"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 30/10/1996, página 22161"
+data_publicacao: "1996-10-30"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/1620/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/1620/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "1620"
+sha256_texto: "2cc3ceb79419022c6f1b19a1631a02561bd9a86bbd6ea5bd4a88034628b560bb"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Cosar nº 34, de 29 de outubro de 1996
+
+"Agenda Tributário para o mês de novembro/96."
+
+O COORDENADOR-GERAL DO SISTEMA DE ARRECADAÇÃO E COBRANÇA, no uso de suas atribuições, declara:
+
+1\. As datas fixadas para pagamento de tributos e contribuições federais no mês de novembro de 1996 são as constantes da AGENDA TRIBUTÁRIA, anexa.
+
+2\. O Imposto sobre Produtos Industrializados - IPI devido pelas microempresas - ME e pelas empresas de pequeno porte - EPP, relativamente aos fatos geradores ocorridos no mês de outubro de 1996, deve ser recolhido até 29 de novembro de 1996, não se lhes aplicando os vencimentos constantes da agenda anexa, tendo em vista o disposto no art. 2º da Medida Provisória nº 1.508-10, de 17 de outubro de 1996.
+
+ALDANIR SILVA Em exercício
+
+O anexo encontra-se publicado no DOU de 30/10/96, pág. 22.161/2.

@@ -1,0 +1,30 @@
+---
+titulo: "Solução de Consulta Diana/SRRF06 nº 23, de 13 de junho de 2013"
+orgao: "Divisão de Administração Aduaneira da 6ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "23"
+data: "2013-06-13"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 17/06/2013, página 21"
+data_publicacao: "2013-06-17"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/42981/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/42981/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "42981"
+sha256_texto: "c4fc2ab5b7f3b439156eff66d40091a0dfcffabad0cc7f5837bf2fa09d4497be"
+baixado_em: "2026-10-21"
+---
+# Solução de Consulta Diana/SRRF06 nº 23, de 13 de junho de 2013
+
+ASUNTO: Classificação de Mercadorias EMENTA: Código TIPI Mercadoria Kit composto de hidrômetro(s) + sensor (es) + rádio transmissor (um, dois ou quatro canais), onde o sensor se apresenta unido ao medidor por meio de fixação sobre a relojoaria do mesmo, e este (sensor) se encontra conectado ao módulo transmissor por meio de cabo (2x26AWGx (3,2 mm), de uso residencial, com função principal de medição de volume de água consumido, que se classifica conforme a seguir detalhado: 9028.20.10 - Conjunto constituído da união de hidrômetro AMR com relojoaria (s) pré-equipada (s) para saída magnética de pulsos e sensor, para aplicação em medição individualizada de condomínios, modelos M 170 e S 120, destinado ao consumidor final, fabricado por Elster Medição de Água S/A. 8517.69.00 - Aparelho (módulo) rádio transmissor de dados, para comunicação em redes por fio ou redes sem fio.
+
+ASUNTO: Classificação de Mercadorias
+
+EMENTA: Código TIPI Mercadoria Kit composto de hidrômetro(s) + sensor (es) + rádio transmissor (um, dois ou quatro canais), onde o sensor se apresenta unido ao medidor por meio de fixação sobre a relojoaria do mesmo, e este (sensor) se encontra conectado ao módulo transmissor por meio de cabo (2x26AWGx (3,2 mm), de uso residencial, com função principal de medição de volume de água consumido, que se classifica conforme a seguir detalhado: 9028.20.10 - Conjunto constituído da união de hidrômetro AMR com relojoaria (s) pré-equipada (s) para saída magnética de pulsos e sensor, para aplicação em medição individualizada de condomínios, modelos M 170 e S 120, destinado ao consumidor final, fabricado por Elster Medição de Água S/A. 8517.69.00 - Aparelho (módulo) rádio transmissor de dados, para comunicação em redes por fio ou redes sem fio.
+
+DISPOSITIVOS LEGAIS: Decreto 97.409, de 23/12/1988; Decreto nº 435, de 27/01/1992; Decreto nº 7.660, de 23/12/2011. RGI/SH-1ª (texto das posições 90.28 e 85.17), Nota 3 do Capítulo 90 (estende a aplicação das Notas 3 e 4 da Seção XVI) e RGI/SH-6ª, da Tabela de Incidência do Imposto sobre Produtos Industrializados (TIPI) e IN RFB nº 807, de 11/01/2008 (subsídios extraídos das Notas Explicativas do Sistema Harmonizado - NESH, do Capítulo 90) e da RGC-1, da TEC.
+
+WILLIAM LARA Chefe

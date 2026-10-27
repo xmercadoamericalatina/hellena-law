@@ -1,0 +1,36 @@
+---
+titulo: "Solução de Consulta SRRF03 nº 3002, de 22 de janeiro de 2014"
+orgao: "Superintendência Regional da Receita Federal do Brasil 3ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "3002"
+data: "2014-01-22"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 24/01/2014, seção 1, página 15"
+data_publicacao: "2014-01-24"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/49413/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/49413/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "49413"
+sha256_texto: "26de2ac32bba27d8c7e835a83e123d95f215101e1ac2c073bec4c14025962052"
+baixado_em: "2026-10-20"
+---
+# Solução de Consulta SRRF03 nº 3002, de 22 de janeiro de 2014
+
+ASUNTO: Contribuição Social sobre o Lucro Líquido – CSLL EMENTA: LUCRO PRESUMIDO. OPÇÃO. CONSTRUÇÃO CIVIL. PRESTAÇÃO DE SERVIÇOS. EMPREITADA. ATIVIDADES DIVERSIFICADAS. PERCENTUAIS. As empresas de construção civil, desde que não se enquadrem em nenhum dos requisitos do artigo 14 da Lei n.º 9.718, de 1998, podem optar pelo regime de tributação com base no lucro presumido. Sob o regime do lucro presumido, na determinação da base de cálculo relativa à receita bruta auferida em decorrência de atividades prestação de serviços de construção civil por empreitada, deverá ser aplicado o percentual de 12% (doze por cento) para a CSLL somente quando houver o fornecimento total de materiais (com o emprego de todos os materiais necessários à execução da obra). Quando se tratar de receita bruta auferida em decorrência da prestação de serviços na execução de obras de construção civil, com utilização parcial de materiais de propriedade da contratada, ou unicamente com a prestação de mão-de-obra, deve ser aplicado o percentual de 32% (trinta e dois por cento) para a apuração da base de cálculo da CSLL. No caso de atividades diversificadas, as receitas devem ser segregadas, aplicando-se o percentual correspondente a cada atividade. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA N.º 55 - COSIT, DE 30 DE DEZEMBRO DE 2013. DISPOSITIVOS LEGAIS: Lei n.º 9.249, de 1995, artigo 20; e IN RFB n.º 1.234, de 2012, artigos 2º, parágrafos 7º a 9º, e 38, inciso II. ASUNTO: Imposto sobre a Renda de Pessoa Jurídica – IRPJ EMENTA: LUCRO PRESUMIDO. OPÇÃO. CONSTRUÇÃO CIVIL. PRESTAÇÃO DE SERVIÇOS. EMPREITADA. ATIVIDADES DIVERSIFICADAS. PERCENTUAIS. As empresas de construção civil, desde que não se enquadrem em nenhum dos requisitos do artigo 14 da Lei n.º 9.718, de 1998, podem optar pelo regime de tributação com base no lucro presumido. Sob o regime do lucro presumido, na determinação da base de cálculo relativa à receita bruta auferida em decorrência de atividades prestação de serviços de construção civil por empreitada, deverá ser aplicado o percentual de 8% (oito por cento) para o IRPJ somente quando houver o fornecimento total de materiais (com o emprego de todos os materiais necessários à execução da obra). Quando se tratar de receita bruta auferida em decorrência da prestação de serviços na execução de obras de construção civil, com utilização parcial de materiais de propriedade da contratada, ou unicamente com a prestação de mão-de-obra, deve ser aplicado o percentual de 32% (trinta e dois por cento) para a apuração da base de cálculo do IRPJ. No caso de atividades diversificadas, as receitas devem ser segregadas, aplicando-se o percentual correspondente a cada atividade. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA N.º 55 - COSIT, DE 30 DE DEZEMBRO DE 2013. DISPOSITIVOS LEGAIS: Lei n.º 9.249, de 1995, artigo 15; e IN RFB n.º 1.234, de 2012, artigos 2º, parágrafos 7º a 9º, 38, inciso II.
+
+ASUNTO: Contribuição Social sobre o Lucro Líquido - CSLL
+
+EMENTA: LUCRO PRESUMIDO. OPÇÃO. CONSTRUÇÃO CIVIL. PRESTAÇÃO DE SERVIÇOS. EMPREITADA. ATIVIDADES DIVERSIFICADAS. PERCENTUAIS. As empresas de construção civil, desde que não se enquadrem em nenhum dos requisitos do artigo 14 da Lei n.º 9.718, de 1998, podem optar pelo regime de tributação com base no lucro presumido. Sob o regime do lucro presumido, na determinação da base de cálculo relativa à receita bruta auferida em decorrência de atividades prestação de serviços de construção civil por empreitada, deverá ser aplicado o percentual de 12% (doze por cento) para a CSLL somente quando houver o fornecimento total de materiais (com o emprego de todos os materiais necessários à execução da obra). Quando se tratar de receita bruta auferida em decorrência da prestação de serviços na execução de obras de construção civil, com utilização parcial de materiais de propriedade da contratada, ou unicamente com a prestação de mão-de-obra, deve ser aplicado o percentual de 32% (trinta e dois por cento) para a apuração da base de cálculo da CSLL. No caso de atividades diversificadas, as receitas devem ser segregadas, aplicando-se o percentual correspondente a cada atividade. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA N.º 55 - COSIT, DE 30 DE DEZEMBRO DE 2013.
+
+DISPOSITIVOS LEGAIS: Lei n.º 9.249, de 1995, artigo 20; e IN RFB n.º 1.234, de 2012, artigos 2º, parágrafos 7º a 9º, e 38, inciso II.
+
+ASUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+
+EMENTA: LUCRO PRESUMIDO. OPÇÃO. CONSTRUÇÃO CIVIL. PRESTAÇÃO DE SERVIÇOS. EMPREITADA. ATIVIDADES DIVERSIFICADAS. PERCENTUAIS. As empresas de construção civil, desde que não se enquadrem em nenhum dos requisitos do artigo 14 da Lei n.º 9.718, de 1998, podem optar pelo regime de tributação com base no lucro presumido. Sob o regime do lucro presumido, na determinação da base de cálculo relativa à receita bruta auferida em decorrência de atividades prestação de serviços de construção civil por empreitada, deverá ser aplicado o percentual de 8% (oito por cento) para o IRPJ somente quando houver o fornecimento total de materiais (com o emprego de todos os materiais necessários à execução da obra). Quando se tratar de receita bruta auferida em decorrência da prestação de serviços na execução de obras de construção civil, com utilização parcial de materiais de propriedade da contratada, ou unicamente com a prestação de mão-de-obra, deve ser aplicado o percentual de 32% (trinta e dois por cento) para a apuração da base de cálculo do IRPJ. No caso de atividades diversificadas, as receitas devem ser segregadas, aplicando-se o percentual correspondente a cada atividade. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA N.º 55 - COSIT, DE 30 DE DEZEMBRO DE 2013.
+
+DISPOSITIVOS LEGAIS: Lei n.º 9.249, de 1995, artigo 15; e IN RFB n.º 1.234, de 2012, artigos 2º, parágrafos 7º a 9º, 38, inciso II.
+
+JOÃO CARLOS DIOGENES DE OLIVEIRA Chefe

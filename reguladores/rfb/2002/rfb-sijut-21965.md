@@ -1,0 +1,40 @@
+---
+titulo: "Portaria SRF nº 43, de 11 de janeiro de 2002"
+orgao: "Secretaria da Receita Federal"
+tipo: "Portaria"
+numero: "43"
+data: "2002-01-11"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 15/04/2002, página 13"
+data_publicacao: "2002-04-15"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/21965/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/21965/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "21965"
+sha256_texto: "5ad991a016da9698a90fdc339e678468144fbd914f39b937262e228584ea6e73"
+baixado_em: "2026-10-21"
+---
+# Portaria SRF nº 43, de 11 de janeiro de 2002
+
+Dispõe sobre a instalação de terminal alfandegado de uso público em local que menciona.
+
+O SECRETÁRIO DA RECEITA FEDERAL, no uso de suas atribuições, tendo em vista o disposto no art. 5º da Lei nº 8.987, de 13 de fevereiro de 1995, no art. 5º Decreto nº 1.910, de 21 de maio de 1996, nos arts. 11 e 12 do Decreto-lei nº 200, de 25 de fevereiro de 1967, regulamentado pelo Decreto nº 83.937, de 6 de setembro de 1979, e alterações posteriores, no Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 259, de 24 de agosto de 2001 e no art. 12, § 2º, da Instrução Normativa SRF nº 55, de 23 de maio de 2000, e:
+
+Considerando a existência de EADI em Ponto de Fronteira instalada no município de Foz do Iguaçu/PR, sob administração da empresa Companhia de Desenvolvimento Agropecuário do Paraná - CODAPAR, cuja concessão precedida de execução de obra pública extinguir-se-á por advento do termo contratual em 18 de agosto de 2002;
+
+Considerando a necessidade de garantir a continuidade na prestação de serviços públicos em Terminal Alfandegado de Uso Público instalado naquela região;
+
+Considerando a necessidade de implantar os serviços aduaneiros compatíveis com as exigências ditadas pela expansão das operações de comércio exterior, inclusive mediante interiorização desses serviços, resolve:
+
+**Art. 1º** Autorizar que a Superintendência Regional da Receita Federal na 9ª Região Fiscal instaure os procedimentos licitatórios de outorga de concessão, precedida da execução de obra pública, de uma Estação Aduaneira Interior - EADI em Ponto de Fronteira, para carga geral, a localizar-se no município de Foz do Iguaçu/PR, para a prestação dos serviços públicos de estadia e pesagem de veículos e unidades de carga, movimentação e armazenagem de mercadorias importadas ou a exportar, sob controle aduaneiro.
+
+**Art. 2º** O edital relativo ao procedimento licitatório, bem assim o contrato de concessão deverão observar padrões aprovados em ato da Secretaria da Receita Federal.
+
+**Art. 3º** O prazo de concessão será de dez anos.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+EVERARDO MACIEL

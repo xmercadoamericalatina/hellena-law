@@ -1,0 +1,36 @@
+---
+titulo: "Ato Declaratório Normativo Cosit nº 53, de 28 de setembro de 1994"
+orgao: "Coordenação-Geral de Tributação"
+tipo: "Ato Declaratório Normativo"
+numero: "53"
+data: "1994-09-28"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 29/09/1994, página 14789"
+data_publicacao: "1994-09-29"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/6089/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/6089/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "6089"
+sha256_texto: "ae03e0657045f026d4ce99aee9fcd65918079512af7962b7c85c6405fe1cec36"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Normativo Cosit nº 53, de 28 de setembro de 1994
+
+"Dispõe sobre a obrigatoriedade de transporte em aeronave ou navio de bandeira brasileira".
+
+O COORDENADOR-GERAL DO SISTEMA DE TRIBUTAÇÃO, no uso das atribuições que lhe confere o item II da Instrução Normativa SRF nº 34, de 18 de setembro de 1974, e tendo em vista o disposto no art. 4º do Decreto-lei nº 29, de 14 de novembro de 1966, nos artigos 2º e 6º do Decreto-lei nº 666, de 2 de julho de 1969, com a redação dada pelo Decreto-lei nº 687, de 18 de julho de 1969, e, ainda, no art. 217 do Regulamento Aduaneiro aprovado pelo Decreto nº 91.030, de 5 de março de 1985,
+
+Declara, em caráter normativo, às Superintendências Regionais da Receita Federal e aos demais interessados, que:
+
+I.1. Sujeitam-se à obrigatoriedade de transporte em aeronave de bandeira brasileira, na forma do disposto no art. 217, inciso II, do Regulamento Aduaneiro, tão-somente as mercadorias importadas por órgãos da Administração Pública Federal, por força do disposto no art. 4º do Decreto-lei nº 29, de 14 de novembro de 1966;
+
+2\. Aplica-se a obrigatoriedade de transporte em navio de bandeira brasileira, constante do art. 217, incisos I e III, do Regulamento Aduaneiro, em face do disposto no art. 2º do Decreto-lei nº 666, de 2 de julho de 1969, às mercadorias importadas por órgãos da Administração Pública Federal, Estadual ou Municipal, direta ou indireta, bem assim a qualquer outra mercadoria a ser beneficiada com isenção ou redução de imposto, quando utilizado o transporte marítimo;
+
+3\. O disposto no art. 217, inciso III, do Regulamento Aduaneiro, por conseguinte, somente se aplica na hipótese de se utilizar o transporte marítimo, não constituindo exigência de bandeira brasileira na hipótese de transporte aêreo, tampouco constitui obrigatoriedade de se utilizar unicamente a via marítima, para efeito de fruição de benefício fiscal, com exclusão de qualquer outra modalidade de transporte.
+
+II. Na conformidade do disposto no art. 6º do Decreto-lei nº 666, de 2 de julho de 1969, com a redação dada pelo Decreto-lei nº 687, de 18 de julho de 1969, sujeitam-se à obrigatoriedade prevista no art. 2º do referido Decreto-lei - art. 217, inciso III, do Regulamento Aduaneiro -, se utilizado o transporte marítimo, os bens a serem beneficiados com a isenção do Imposto sobre Produtos Industrializados, de que trata o art. 1º da Lei nº 8.191, de 11 de junho de 1991.
+
+ARISTÓFANES FONTOURA DE HOLANDA

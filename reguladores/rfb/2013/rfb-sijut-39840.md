@@ -1,0 +1,68 @@
+---
+titulo: "Solução de Consulta Disit/SRRF08 nº 8, de 11 de janeiro de 2013"
+orgao: "Divisão de Tributação da 8ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "8"
+data: "2013-01-11"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 04/03/2013, página 24"
+data_publicacao: "2013-03-04"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/39840/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/39840/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "39840"
+sha256_texto: "51ce6004e8a686f4b931538de044b2367d7f650883c0dca16e2ba012b4a508a3"
+baixado_em: "2026-10-21"
+---
+# Solução de Consulta Disit/SRRF08 nº 8, de 11 de janeiro de 2013
+
+Assunto: Contribuição para o PIS/Pasep RETENÇÃO NA FONTE. PLANO PRIVADO DE ASSISTÊNCIA À SAÚDE. Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins RETENÇÃO NA FONTE. PLANO PRIVADO DE ASSISTÊNCIA À SAÚDE. Assunto: Contribuição Social sobre o Lucro Líquido - CSLL RETENÇÃO NA FONTE. PLANO PRIVADO DE ASSISTÊNCIA À SAÚDE. Assunto: Imposto sobre a Renda Retido na Fonte - IRRF PLANO PRIVADO DE ASSISTÊNCIA À SAÚDE.
+
+Assunto: Contribuição para o PIS/Pasep
+
+RETENÇÃO NA FONTE. PLANO PRIVADO DE ASSISTÊNCIA À SAÚDE.
+
+Os pagamentos efetuados por pessoas jurídicas de direito privado a operadoras de planos de assistência à saúde, relativos a contratos que estipulem valores fixos de remuneração, independentes da utilização dos serviços pelo contratante, não estão sujeitos à retenção na fonte da Contribuição para o PIS/Pasep de que trata o art. 30 da Lei nº 10.833, de 2003.
+
+Quando, em lugar de pagamento de valor fixo, devido independentemente da efetiva prestação de serviços, os valores pagos se referirem a serviços efetivamente prestados e houver correspondência direta entre o preço do serviço e o valor pago, ou seja, quando os pagamentos realizados por pessoas jurídicas de direito privado a operadoras de planos de assistência à saúde sejam relativos à prestação de serviços de medicina ou correlatos, nos termos do §1º do art. 647 do RIR/1999, estarão sujeitos à retenção na fonte da Contribuição para o PIS/Pasep de que trata o art. 30 da Lei nº 10.833, de 2003, ainda que vinculados a um plano de saúde.
+
+Também sujeitam-se à retenção os pagamentos realizados às operadoras de planos de assistência à saúde por órgãos da administração pública federal direta, autarquias e fundações federais, empresas públicas, sociedades de economia mista e as demais entidades em que a União, direta ou indiretamente detenha a maioria do capital social sujeito a voto, e que recebam recursos do Tesouro Nacional e estejam obrigadas a registrar sua execução orçamentária e financeira no Siafi.
+
+Dispositivos Legais: Lei nº 10.833, de 2003, arts. 30 e 34; Lei nº 9.430, de 1996, art. 64; RIR/99, art. 647, § 1º; IN SRF nº 459, de 2004, art. 1º, caput e § 2º, IV; IN RFB nº 1.234, de 2012, arts. 2º, 32 e 33; Parecer Normativo CST nº 8, de 1986.
+
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+
+RETENÇÃO NA FONTE. PLANO PRIVADO DE ASSISTÊNCIA À SAÚDE.
+
+Os pagamentos efetuados por pessoas jurídicas de direito privado a operadoras de planos de assistência à saúde, relativos a contratos que estipulem valores fixos de remuneração, independentes da utilização dos serviços pelo contratante, não estão sujeitos à retenção na fonte da Cofins de que trata o art. 30 da Lei nº 10.833, de 2003.
+
+Quando, em lugar de pagamento de valor fixo, devido independentemente da efetiva prestação de serviços, os valores pagos se referirem a serviços efetivamente prestados e houver correspondência direta entre o preço do serviço e o valor pago, ou seja, quando os pagamentos realizados por pessoas jurídicas de direito privado a operadoras de planos de assistência à saúde sejam relativos à prestação de serviços de medicina ou correlatos, nos termos do §1º do art. 647 do RIR/1999, estarão sujeitos à retenção na fonte da Cofins de que trata o art. 30 da Lei nº 10.833, de 2003, ainda que vinculados a um plano de saúde.
+
+Também sujeitam-se à retenção os pagamentos realizados às operadoras de planos de assistência à saúde por órgãos da administração pública federal direta, autarquias e fundações federais, empresas públicas, sociedades de economia mista e as demais entidades em que a União, direta ou indiretamente detenha a maioria do capital social sujeito a voto, e que recebam recursos do Tesouro Nacional e estejam obrigadas a registrar sua execução orçamentária e financeira no Siafi.
+
+Dispositivos Legais: Lei nº 10.833, de 2003, arts. 30 e 34; Lei nº 9.430, de 1996, art. 64; RIR/99, art. 647, § 1º; IN SRF nº 459, de 2004, art. 1º, caput e § 2º, IV; IN RFB nº 1.234, de 2012, arts. 2º, 32 e 33; Parecer Normativo CST nº 8, de 1986.
+
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL
+
+RETENÇÃO NA FONTE. PLANO PRIVADO DE ASSISTÊNCIA À SAÚDE.
+
+Os pagamentos efetuados por pessoas jurídicas de direito privado a operadoras de planos de assistência à saúde, relativos a contratos que estipulem valores fixos de remuneração, independentes da utilização dos serviços pelo contratante, não estão sujeitos à retenção na fonte da CSLL de que trata o art. 30 da Lei nº 10.833, de 2003. Quando, em lugar de pagamento de valor fixo, devido independentemente da efetiva prestação de serviços, os valores pagos se referirem a serviços efetivamente prestados e houver correspondência direta entre o preço do serviço e o valor pago, ou seja, quando os pagamentos realizados por pessoas jurídicas de direito privado a operadoras de planos de assistência à saúde sejam relativos à prestação de serviços de medicina ou correlatos, nos termos do §1º do art. 647 do RIR/1999, estarão sujeitos à retenção na fonte da CSLL de que trata o art. 30 da Lei nº 10.833, de 2003, ainda que vinculados a um plano de saúde.
+
+Também sujeitam-se à retenção os pagamentos realizados às operadoras de planos de assistência à saúde por órgãos da administração pública federal direta, autarquias e fundações federais, empresas públicas, sociedades de economia mista e as demais entidades em que a União, direta ou indiretamente detenha a maioria do capital social sujeito a voto, e que recebam recursos do Tesouro Nacional e estejam obrigadas a registrar sua execução orçamentária e financeira no Siafi. Dispositivos Legais: Lei nº 10.833, de 2003, arts. 30 e 34; Lei nº 9.430, de 1996, art. 64; RIR/99, art. 647, § 1º; IN SRF nº 459, de 2004, art. 1º, caput e § 2º, IV; IN RFB nº 1.234, de 2012, arts. 2º, 32 e 33; Parecer Normativo CST nº 8, de 1986.
+
+Assunto: Imposto sobre a Renda Retido na Fonte - IRRF
+
+PLANO PRIVADO DE ASSISTÊNCIA À SAÚDE.
+
+Os pagamentos efetuados por pessoas jurídicas de direito privado a operadoras de planos de assistência à saúde, relativos a contratos que estipulem valores fixos de remuneração, independentes da utilização dos serviços pelo contratante, não estão sujeitos à retenção do imposto de renda na fonte.
+
+Quando, em lugar de pagamento de valor fixo, devido independentemente da efetiva prestação de serviços, os valores pagos se referirem a serviços efetivamente prestados e houver correspondência direta entre o preço do serviço e o valor pago, ou seja, quando os pagamentos realizados por pessoas jurídicas de direito privado a operadoras de planos de assistência à saúde sejam relativos à prestação de serviços de medicina ou correlatos, nos termos do §1º do art. 647 do RIR/1999, estarão sujeitos à retenção do imposto de renda na fonte, ainda que vinculados a um plano de saúde.
+
+Também sujeitam-se à retenção os pagamentos realizados às operadoras de planos de assistência à saúde por órgãos da administração pública federal direta, autarquias e fundações federais, empresas públicas, sociedades de economia mista e as demais entidades em que a União, direta ou indiretamente detenha a maioria do capital social sujeito a voto, e que recebam recursos do Tesouro Nacional e estejam obrigadas a registrar sua execução orçamentária e financeira no Siafi.
+
+Dispositivos Legais: Lei nº 10.833, de 2003, art.34; Lei nº 9.430, de 1996, art. 64; RIR/99, art. 647, § 1º; Parecer Normativo CST nº 8, de 1986; IN RFB nº 1.234, de 2012, arts. 2º, 32 e 33.
+
+EDUARDO NEWMAN DE MATTERA GOMES Chefe

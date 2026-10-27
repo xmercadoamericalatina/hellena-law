@@ -1,0 +1,34 @@
+---
+titulo: "Ato Declaratório Executivo DRF/CXL nº 208, de 23 de junho de 2013"
+orgao: "Delegacia da Receita Federal do Brasil em Caxias do Sul"
+tipo: "Ato Declaratório Executivo"
+numero: "208"
+data: "2013-06-23"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 24/09/2013, página 26"
+data_publicacao: "2013-09-24"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/46275/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/46275/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "46275"
+sha256_texto: "c7981674bd7cc65d39d6889a4ee70ef33918feb3feef04fe063132872f93a9ad"
+baixado_em: "2026-10-20"
+---
+# Ato Declaratório Executivo DRF/CXL nº 208, de 23 de junho de 2013
+
+Atualiza relação de produtos constantes do Registro Especial de engarrafador nº 10106/165.
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM CAXIAS DO SUL (RS), no uso da atribuição que lhe confere o art. 302 do Regimento Interno, aprovado pela Portaria MF n° 203, de 14 de maio de 2012, publicada no Diário Oficial da União de 17 de maio de 2012, considerando o disposto no artigo 9º da Instrução Normativa SRF n° 504, de 03 de fevereiro de 2005, declara:
+
+**Art. 1º.** Está inscrito no Registro Especial de Bebidas sob o nº 10106/165, como engarrafador, no processo 11020.003485/2010-51, o estabelecimento da empresa Vinícola Simonetto Ltda, inscrito no CNPJ sob o n° 04.582.471/0001-06, situado na Estrada para Lageadinho, 1730, Monte Bérico, no município de Veranópolis – RS.
+
+**Art. 2º.** O estabelecimento supracitado está autorizado a engarrafar os produtos abaixo discriminados:
+
+<table>   <tr>    <td>    <p>Produto</p>    </td>    <td>    <p>Marca Comercial</p>    </td>    <td>    <p>Classificação Fiscal</p>    </td>    <td>    <p>Tipo do Recipiente</p>    </td>    <td>    <p>Capacidade do Recipiente</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Branco Seco Fino Cabernet Sauvignon Blanc</p>    </td>    <td>    <p>Simonetto</p>    </td>    <td>    <p>2204.21.00</p>    </td>    <td>    <p>não retornável</p>    </td>    <td>    <p>750 ml</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Branco Seco Fino Cabernet Sauvignon Blanc</p>    </td>    <td>    <p>Simonetto</p>    </td>    <td>    <p>2204.29.11</p>    </td>    <td>    <p>retornável</p>    </td>    <td>    <p>4.600 ml</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Branco Seco Fino Cabernet Sauvignon Blanc</p>    </td>    <td>    <p>Simonetto</p>    </td>    <td>    <p>2204.29.11</p>    </td>    <td>    <p>não retornável</p>    </td>    <td>    <p>5.000 ml</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Tinto Seco</p>    </td>    <td>    <p>Simonetto</p>    </td>    <td>    <p>2204.21.00</p>    </td>    <td>    <p>não retornável</p>    </td>    <td>    <p>750 ml</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Tinto Seco</p>    </td>    <td>    <p>SIMONETTO</p>    </td>    <td>    <p>2204.21.00</p>    </td>    <td>    <p>não retornável</p>    </td>    <td>    <p>1.900 ml</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Tinto Seco</p>    </td>    <td>    <p>Simonetto</p>    </td>    <td>    <p>2204.29.11</p>    </td>    <td>    <p>retornável</p>    </td>    <td>    <p>4.600 ml</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Tinto Seco</p>    </td>    <td>    <p>Simonetto</p>    </td>    <td>    <p>2204.29.11</p>    </td>    <td>    <p>não retornável</p>    </td>    <td>    <p>5.000 ml</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Tinto Seco Fino Cabernet Sauvignon</p>    </td>    <td>    <p>Simonetto</p>    </td>    <td>    <p>2204.21.00</p>    </td>    <td>    <p>não retornável</p>    </td>    <td>    <p>750 ml</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Tinto Seco Fino Cabernet Sauvignon</p>    </td>    <td>    <p>SIMONETTO</p>    </td>    <td>    <p>2204.21.00</p>    </td>    <td>    <p>retornável</p>    </td>    <td>    <p>2.000 ml</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Tinto Seco Fino Cabernet Sauvignon</p>    </td>    <td>    <p>Simonetto</p>    </td>    <td>    <p>2204.29.11</p>    </td>    <td>    <p>retornável</p>    </td>    <td>    <p>4.600 ml</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Tinto Seco Fino Cabernet Sauvignon</p>    </td>    <td>    <p>Simonetto</p>    </td>    <td>    <p>2204.29.11</p>    </td>    <td>    <p>não retornável</p>    </td>    <td>    <p>5.000 ml</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Tinto Seco Fino Merlot</p>    </td>    <td>    <p>Simonetto</p>    </td>    <td>    <p>2204.21.00</p>    </td>    <td>    <p>não retornável</p>    </td>    <td>    <p>750 ml</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Tinto Seco Fino Merlot</p>    </td>    <td>    <p>Simonetto</p>    </td>    <td>    <p>2204.29.11</p>    </td>    <td>    <p>não retornável</p>    </td>    <td>    <p>5.000 ml</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Tinto Seco Fino Pinotage</p>    </td>    <td>    <p>Simonetto</p>    </td>    <td>    <p>2204.21.00</p>    </td>    <td>    <p>não retornável</p>    </td>    <td>    <p>750 ml</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Tinto Seco Fino Pinotage</p>    </td>    <td>    <p>Simonetto</p>    </td>    <td>    <p>2204.29.11</p>    </td>    <td>    <p>retornável</p>    </td>    <td>    <p>4.600 ml</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Tinto Seco Fino Pinotage</p>    </td>    <td>    <p>Simonetto</p>    </td>    <td>    <p>2204.29.11</p>    </td>    <td>    <p>não retornável</p>    </td>    <td>    <p>5.000 ml</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Tinto Suave</p>    </td>    <td>    <p>Simonetto</p>    </td>    <td>    <p>2204.21.00</p>    </td>    <td>    <p>não retornável</p>    </td>    <td>    <p>750 ml</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Tinto Suave</p>    </td>    <td>    <p>Simonetto</p>    </td>    <td>    <p>2204.29.11</p>    </td>    <td>    <p>retornável</p>    </td>    <td>    <p>4.600 ml</p>    </td>   </tr>   <tr>    <td colspan="5">    <p>Produto produzido e engarrafado sob encomenda por Basso    Vinhos e Espumantes LTDA.</p>    <p> </p>    <p>CNPJ: 87.843.660/0001-12</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Moscatel Espumante</p>    </td>    <td>    <p>Simonetto</p>    </td>    <td>    <p>2204.10.90</p>    </td>    <td>    <p>não retornável</p>    </td>    <td>    <p>750 ml</p>    </td>   </tr>   <tr>    <td>    <p>Vinho Branco Espumante Natural Brut</p>    </td>    <td>    <p>Simonetto</p>    </td>    <td>    <p>2204.10.10</p>    </td>    <td>    <p>não retornável</p>    </td>    <td>    <p>750 ml</p>    </td>   </tr>  </table>
+
+**Art. 3º.** Fica revogado o artigo 2º do Ato Declaratório Executivo DRF/CXL nº 235, de 09 de novembro de 2012, publicado no DOU nº 218, de 12 de novembro de 2012.
+
+LUIZ WESCHENFELDER

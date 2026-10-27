@@ -1,0 +1,38 @@
+---
+titulo: "Ato Declaratório Executivo RFB nº 44, de 16 de setembro de 2008"
+orgao: "Secretaria da Receita Federal do Brasil"
+tipo: "Ato Declaratório Executivo"
+numero: "44"
+data: "2008-09-16"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 17/09/2008, página 29"
+data_publicacao: "2008-09-17"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/4740/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/4740/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "4740"
+sha256_texto: "de7f4dccf78d0515f6c00d71d54bd9d3e58e64160b778890d734cee6bb9fe467"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Executivo RFB nº 44, de 16 de setembro de 2008
+
+Divulga o enquadramento fiscal das marcas de cigarro da empresa Golden Leaf Tobacco Ltda, CNPJ nº 04.522.275/0001-46.
+
+O SECRETÁRIO ADJUNTO DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe são conferidas pelo art. 5º, inciso II, da Portaria RFB nº 10.259, de 17 de maio de 2007, e tendo em vista o disposto no art. 158 do Decreto nº 4.544, de 26 de dezembro de 2002, e o que consta do processo administrativo nº 10168.002670/2008-77, declara:
+
+**Art. 1º** O enquadramento fiscal das versões de marcas de cigarro da empresa GOLDEN LEAF TOBACCO LTDA., inscrita no CNPJ sob o nº 04.522.275/0001-46, é o constante da seguinte tabela:
+
+Classe Fiscal Embalagem Marca Comercial Versão Vigência III-R Rígida Djarum Black 16/09/2008 III-R Rígida Djarum Black Menthol 16/09/2008 III-R Rígida L.A. Cereja 16/09/2008 III-R Rígida L.A. Cereja Ice 16/09/2008 III-R Rígida L.A. Menthol 16/09/2008 III-R Rígida L.A. Red 16/09/2008
+
+<table>    <tbody>      <tr>        <td>          <p>Classe           Fiscal                    </p>          <div>          </div>        </td>        <td>          <p>Embalagem                    </p>          <div>          </div>        </td>        <td>          <p>Marca           Comercial                                               </p>          <div>          </div>        </td>        <td>          <p>Versão                    </p>          <div>          </div>        </td>        <td>          <p>Vigência                    </p>          <div>          </div>        </td>      </tr>      <tr>        <td>          <p>III-R                    </p>          <div>          </div>        </td>        <td>          <p>Rígida                    </p>          <div>          </div>        </td>        <td>          <p>Djarum                    </p>          <div>          </div>        </td>        <td>          <p>Black                    </p>          <div>          </div>        </td>        <td>          <p>16/09/2008                    </p>          <div>          </div>        </td>      </tr>      <tr>        <td>          <p>III-R                    </p>          <div>          </div>        </td>        <td>          <p>Rígida                    </p>          <div>          </div>        </td>        <td>          <p>Djarum                                        </p>          <div>          </div>        </td>                                <td>          <p>Black           Menthol                                        </p>          <div>          </div>        </td>                                <td>          <p>16/09/2008                    </p>          <div>          </div>        </td>      </tr>      <tr>        <td>          <p>III-R                    </p>          <div>          </div>        </td>        <td>          <p>Rígida                                  </p>          <div>          </div>        </td>        <td>          <p>L.A.                    </p>          <div>          </div>        </td>        <td>          <p>Cereja                                 </p>          <div>          </div>        </td>        <td>          <p>16/09/2008                    </p>          <div>          </div>        </td>      </tr>      <tr>        <td>          <p>III-R                    </p>          <div>          </div>        </td>        <td>          <p>Rígida                    </p>          <div>          </div>        </td>        <td>          <p>L.A.                    </p>          <div>          </div>        </td>        <td>          <p>Cereja           Ice                    </p>          <div>          </div>        </td>        <td>          <p>16/09/2008                    </p>          <div>          </div>        </td>      </tr>      <tr>        <td>          <p>III-R                    </p>          <div>          </div>        </td>        <td>          <p>Rígida                    </p>          <div>          </div>        </td>        <td>          <p>L.A.                    </p>          <div>          </div>        </td>        <td>          <p>Menthol                    </p>          <div>          </div>        </td>        <td>          <p>16/09/2008                    </p>          <div>          </div>        </td>      </tr>      <tr>        <td>          <p>III-R                    </p>          <div>          </div>        </td>        <td>          <p>Rígida                                                                                </p>          <div>          </div>        </td>        <td>          <p>L.A.                                                                                </p>          <div>          </div>        </td>        <td>          <p>Red                                                                                </p>          <div>          </div>        </td>        <td>          <p>16/09/2008</p></td>      </tr>    </tbody>  </table>
+
+**Art. 2º** A marca Djarum, embalagem maço, fica enquadrada de ofício conforme tabela abaixo:
+
+Classe Fiscal Embalagem Marca Comercial Versão Vigência III-M Maço Djarum Bali 16/09/2008 III-M Maço Djarum Bali Menta 16/09/2008
+
+<table>    <tbody>      <tr>        <td>          <p>Classe           Fiscal                    </p>          <div>          </div>        </td>        <td>          <p>Embalagem                    </p>          <div>          </div>        </td>        <td>          <p>Marca           Comercial</p>          <div>          </div>        </td>        <td>          <p>Versão                    </p>          <div>          </div>        </td>        <td>          <p>Vigência                    </p>          <div>          </div>        </td>      </tr>      <tr>        <td>          <p>III-M                    </p>          <div>          </div>        </td>        <td>          <p>Maço                    </p>          <div>          </div>        </td>        <td>          <p>Djarum                    </p>          <div>          </div>        </td>        <td>          <p>Bali                    </p>          <div>          </div>        </td>        <td>          <p>16/09/2008                    </p>          <div>          </div>        </td>      </tr>      <tr>        <td>          <p>III-M                    </p>          <div>          </div>        </td>        <td>          <p>Maço                    </p>          <div>          </div>        </td>        <td>          <p>Djarum</p>          <div>          </div>        </td>        <td>          <p>Bali           Menta                    </p>          <div>          </div>        </td>        <td>          <p>16/09/2008</p></td>      </tr>    </tbody>  </table>
+
+PAULO RICARDO DE SOUZA CARDOSO

@@ -1,0 +1,34 @@
+---
+titulo: "Ato Declaratório Interpretativo RFB nº 10, de 24 de outubro de 2005"
+orgao: "Secretaria da Receita Federal do Brasil"
+tipo: "Ato Declaratório Interpretativo"
+numero: "10"
+data: "2005-10-24"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 26/10/2005, página 8"
+data_publicacao: "2005-10-26"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/5631/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/5631/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "5631"
+sha256_texto: "d68db750505abc102c47273c539a2704eaf81e6d1db1f41e0a504977c1d26ae0"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Interpretativo RFB nº 10, de 24 de outubro de 2005
+
+Dispõe sobre a tributação das aplicações em fundos de investimento em ações na fase de pré-investimento.
+
+O SECRETÁRIO-GERAL DA RECEITA FEDERAL DO BRASIL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e o art. 8º da Portaria MF nº 275, de 15 de agosto de 2005, e tendo em vista o disposto no § 4º do art. 1º da Lei nº 11.033, de 21 de dezembro de 2005, e o que consta do processo nº 10168.003783/2005-47, declara:
+
+Artigo único. Os fundos de investimento em ações e os fundos de investimento em cotas de fundos de investimentos em ações, em fase de constituição, na forma regulamentada pela Comissão de Valores Mobiliários, cuja carteira não seja composta de acordo com os requisitos previstos no art. 8º da Instrução Normativa SRF nº 25, de 6 de março de 2001, e alterações posteriores, terão seus rendimentos auferidos na fase de pré-investimento tributados pelo imposto de renda na fonte, na data do enquadramento, à alíquota de 22,5% (vinte e dois inteiros e cinco décimos por cento).
+
+**§ 1º** Para fins do disposto no caput, considera-se que na data do enquadramento ocorrerá o resgate integral das cotas do fundo e subseqüente reaplicação das mesmas.
+
+**§ 2º** O imposto retido na forma do caput será recolhido ao Tesouro Nacional até o 3º dia útil da semana subseqüente à cobrança.
+
+**§ 3º** O resgate efetuado, para fins do enquadramento de que trata o caput, em prazo inferior a 30 (trinta dias), sujeita-se, também, à incidência do Imposto sobre Operações de Crédito, Câmbio e Seguro ou relativas a Títulos ou Valores Mobiliários (IOF), nos termos do art. 33 do Decreto nº 4.494, de 3 de dezembro de 2002.
+
+JORGE ANTONIO DEHER RACHID

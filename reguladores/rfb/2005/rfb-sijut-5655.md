@@ -1,0 +1,30 @@
+---
+titulo: "Ato Declaratório Interpretativo SRF nº 14, de 1º de dezembro de 2005"
+orgao: "Secretaria da Receita Federal"
+tipo: "Ato Declaratório Interpretativo"
+numero: "14"
+data: "2005-12-01"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 02/12/2005, página 36"
+data_publicacao: "2005-12-02"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/5655/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/5655/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "5655"
+sha256_texto: "4fb43bddf1f72b2b640a1079db03fa8277f3ae03d991bb228240fa5f5e73c126"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Interpretativo SRF nº 14, de 1º de dezembro de 2005
+
+Dispõe sobre as hipóteses em que se aplica o Ato Declaratório Interpretativo SRF nº 5, de 27 de abril de 2005, no caso de revisão de crédito tributário relativo ao Imposto sobre a Renda incidente sobre os valores pagos (em pecúnia) a título de férias integrais e de licença-prêmio não gozadas por necessidade do serviço, a trabalhadores em geral ou a servidores públicos.
+
+O SECRETÁRIO DA RECEITA FEDERAL, no uso da atribuição que lhe confere o inciso III do art. 230 do Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, tendo em vista o disposto nos §§ 4º e 5º do art. 19 da Lei nº 10.522, de 19 de julho de 2002, e o que consta no processo nº 10168.004133/2005-19, declara:
+
+**Art. 1º** O Ato Declaratório Interpretativo SRF nº 5, de 27 de abril de 2005, editado em decorrência do Parecer PGFN/CRJ/Nº 1905/2004, de 29 de novembro de 2004, tratou da não incidência do imposto de renda somente nas hipóteses de pagamento de valores a título de férias integrais e de licença-prêmio não gozadas por necessidade do serviço quando da aposentadoria, rescisão de contrato de trabalho ou exoneração, previstas nas Súmulas nos 125 e 136 do Superior Tribunal de Justiça (STJ), a trabalhadores em geral ou a servidores públicos.
+
+**Art. 2º** Sofrem a incidência do imposto de renda, prevista no art. 3º, §§ 1º e 4º, da Lei nº 7.713, de 1988, e no art. 43, inciso III, do Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto de Renda (RIR/1999), as demais formas de pagamento em pecúnia a título de férias e de licença-prêmio não gozadas.
+
+JORGE ANTONIO DEHER RACHID

@@ -1,0 +1,28 @@
+---
+titulo: "Ato Declaratório Executivo Cotec nº 11, de 23 de novembro de 2006"
+orgao: "Coordenação-Geral de Tecnologia da Informação"
+tipo: "Ato Declaratório Executivo"
+numero: "11"
+data: "2006-11-23"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 24/11/2006, página 23"
+data_publicacao: "2006-11-24"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/3647/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/3647/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "3647"
+sha256_texto: "8f25a21baaf6789bb939fafc0c4f4144e6c24242b5eb27bf09c1b0311aed3083"
+baixado_em: "2026-10-21"
+---
+# Ato Declaratório Executivo Cotec nº 11, de 23 de novembro de 2006
+
+Aprova a versão 1.1 do Programa Gerador da Declaração de Operações com Cartões de Crédito (Decred)
+
+O COORDENADOR-GERAL DE TECNOLOGIA E SEGURANÇA DA INFORMAÇÃO, no uso das atribuições que lhe confere o Regimento Interno da Secretaria da Receita Federal, aprovado pela Portaria MF nº 30, de 25 de fevereiro de 2005, e observado o disposto na Instrução Normativa SRF nº 361, de 03 de outubro de 2003, resolve:
+
+Artigo único. Aprovar a versão 1.1 do Programa Gerador da Declaração de Operações com Cartões de Crédito (Decred), para adequar o programa ao Cadastro Sincronizado Nacional.
+
+VITOR MARCOS ALMEIDA MACHADO
