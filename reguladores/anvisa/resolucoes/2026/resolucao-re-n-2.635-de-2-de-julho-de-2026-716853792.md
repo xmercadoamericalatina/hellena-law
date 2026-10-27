@@ -1,0 +1,111 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.635, DE 2 DE JULHO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "2635"
+data: 2026-07-02
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 06/07/2026, seção 1, p. 154"
+data_publicacao: 2026-07-06
+edicao: "124"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.635-de-2-de-julho-de-2026-716853792"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 2.635, DE 2 DE JULHO DE 2026
+
+RESOLUÇÃO-RE nº 2.635, DE 2 DE JULHO DE 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Cancelar o registro sanitário de medicamentos e insumos farmacêuticos, ou de apresentações, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor a partir da data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+----------------------------
+
+MYRALIS INDÚSTRIA FARMACÊUTICA LTDA 17440261000125
+
+CIANOCOBALAMINA + CLORIDRATO DE PIRIDOXINA + NITRATO DE TIAMINA
+
+BETRAT 25351.608618/2018-09 06/2026
+
+10085 ESPECIFICO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 0646242/26-1
+
+1.1462.0021.001-7 24 Meses
+
+5000 MCG + 100 MG + 100 MG COM REV CT BL AL PLAS OPC X 42
+
+1.1462.0021.002-5 24 Meses
+
+5000 MCG + 100 MG + 100 MG COM REV CT BL AL PLAS OPC X 60
+
+1.1462.0021.003-3 24 Meses
+
+5000 MCG + 100 MG + 100 MG COM REV CT BL AL PLAS OPC X 90
+
+1.1462.0021.004-1 24 Meses
+
+5000 MCG + 100 MG + 100 MG COM REV CT BL AL PLAS OPC X 21
+
+1.1462.0021.005-1 24 Meses
+
+5000 MCG + 100 MG + 100 MG COM REV CT BL AL PLAS OPC X 30
+
+1.1462.0021.011-4 24 Meses
+
+5000 MCG + 100 MG + 100 MG COM REV CT BL AL PLAS PVDC/PE/PVC OPC X 21
+
+1.1462.0021.012-2 24 Meses
+
+5000 MCG + 100 MG + 100 MG COM REV CT BL AL PLAS PVDC/PE/PVC OPC X 30
+
+1.1462.0021.013-0 24 Meses
+
+5000 MCG + 100 MG + 100 MG COM REV CT BL AL PLAS PVDC/PE/PVC OPC X 42
+
+1.1462.0021.014-9 24 Meses
+
+5000 MCG + 100 MG + 100 MG COM REV CT BL AL PLAS PVDC/PE/PVC OPC X 60
+
+1.1462.0021.015-7 24 Meses
+
+5000 MCG + 100 MG + 100 MG COM REV CT BL AL PLAS PVDC/PE/PVC OPC X 90
+
+----------------------------
+
+LABORATORIO QUIMICO FARMACEUTICO BERGAMO LTDA 61282661000141
+
+dacarbazina 25351.441636/2010-77 01/2036
+
+10081 GENERICO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 0600347/26-8
+
+1.0646.0184.001-3 24 Meses
+
+100 MG PO LIOF SOL INJ CT FA VD AMB
+
+1.0646.0184.002-1 24 Meses
+
+100 MG PO LIOF SOL INJ CT 10 FA VD AMB
+
+1.0646.0184.003-1 24 Meses
+
+100 MG PO LIOF SOL INJ CT 50 FA VD AMB

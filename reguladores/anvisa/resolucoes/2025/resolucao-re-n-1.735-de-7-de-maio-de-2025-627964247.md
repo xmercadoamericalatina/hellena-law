@@ -1,0 +1,87 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.735, DE 7 DE MAIO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1735"
+data: 2025-05-07
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 08/05/2025, seção 1, p. 92"
+data_publicacao: 2025-05-08
+edicao: "85"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.735-de-7-de-maio-de-2025-627964247"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 1.735, DE 7 DE MAIO DE 2025
+
+RESOLUÇÃO-RE nº 1.735, DE 7 DE MAIO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+JFW TRANSPORTADORA LTDA / 25.861.063/0004-06
+
+25351.058409/2025-22 / 1406227
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0521014255
+
+--------------------------------------
+
+NWF TRANSPORTES E LOGISTICA LTDA / 15.045.348/0001-72
+
+25351.059111/2025-30 / 1406275
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0526311258
+
+--------------------------------------
+
+LINUS MED COMÉRCIO DE PRODUTOS HOSPITALARES LTDA / 23.992.859/0001-20
+
+25351.060544/2025-38 / 1406929
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0536170258
+
+--------------------------------------
+
+ADDEPT MEDICAL LTDA / 57.221.457/0001-43
+
+25351.058474/2025-58 / 1406244
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0521349257
+
+--------------------------------------
+
+BIOVIDA DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS DE SAUDE LTDA / 58.406.720/0001-31
+
+25351.058257/2025-68 / 1406198
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0520265254

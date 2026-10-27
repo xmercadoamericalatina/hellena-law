@@ -1,0 +1,123 @@
+---
+titulo: "RESOLUÇÃO-RE nº 771, DE 26 DE FEVEREIRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Produtos de Terapias Avançadas"
+tipo: "Resolução"
+numero: "771"
+data: 2026-02-26
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 02/03/2026, seção 1, p. 195"
+data_publicacao: 2026-03-02
+edicao: "40"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-771-de-26-de-fevereiro-de-2026-689571363"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 771, DE 26 DE FEVEREIRO DE 2026
+
+RESOLUÇÃO-RE nº 771, DE 26 DE FEVEREIRO DE 2026
+
+O GERENTE-GERAL SUBSTITUTO DE PRODUTOS BIOLÓGICOS, RADIOFÁRMACOS, SANGUE, TECIDOS, CÉLULAS, ÓRGÃOS E PRODUTOS DE TERAPIAS AVANÇADAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 109, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir petições relacionadas à Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Produtos de Terapias Avançadas, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANDERSON VEZALI MONTAI
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ECKERT & ZIEGLER BRASIL COMERCIAL LTDA 02887124000247
+
+TETRAFLUORBORATO TETRAMIBI CUPROSO
+
+EZ-MIBI 25351.093578/2025-17 03/2026
+
+12057 RADIOFÁRMACOS - REGISTRO RADIOFÁRMACO 0761562/25-1
+
+1.5092.0005.001-0 Outros
+
+1 MG PO LIOF SOL INJ CX 1 FA VD TRANS
+
+TETRAFLUORBORATO TETRAMIBI CUPROSO
+
+--------------------------------------------------------------------------------
+
+NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA 82277955000155
+
+INSULINA ASPARTE
+
+NOVORAPID 25351.010298/00-62 12/2035
+
+11933 PRODUTOS BIOLÓGICOS - 42. ALTERAÇÃO DO PROCESSO DE FABRICAÇÃO DO PRODUTO TERMINADO - MODERADA 0974887/24-3
+
+1.1766.0016.001-9 30 Meses
+
+100 U/ML SOL INJ CT 1 FA VD TRANS X 10 ML
+
+1.1766.0016.002-7 30 Meses
+
+100 U/ML SOL INJ CT 5 CAR VD TRANS X 3 ML (PENFILL)
+
+1.1766.0016.004-3 30 Meses
+
+100 U/ML SOL INJ CT 5 CAR VD TRANS X 3 ML + 5 SIST APLIC PLAS (FLEXPEN)
+
+1.1766.0016.006-1 24 Meses
+
+100 U/ML SOL INJ CT 10 CAR VD TRANS X 3 ML + 10 SIST APL PLAS (FLEXPEN)
+
+1.1766.0016.008-6 30 Meses
+
+100 U/ML SOL INJ CT 1 CAR VD TRANS X 3 ML + 1 SIST APLIC PLAS (FLEXPEN)
+
+1.1766.0016.009-4 30 Meses
+
+100 U/ML SOL INJ CT 1 CAR VD TRANS X 3 ML + 1 SIST APLIC PLAS (FLEXTOUCH)
+
+INSULINA ASPARTE
+
+--------------------------------------------------------------------------------
+
+ZALIKA FARMACEUTICA LTDA 29536205000178
+
+VACINA COVID-19 (RECOMBINANTE)
+
+VACINA COVID-19 (RECOMBINANTE) 25351.517119/2022-81 01/2026
+
+11948 PRODUTOS BIOLÓGICOS - 58. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DO PRODUTO TERMINADO - MODERADA 0481548/25-3
+
+12374 PRODUTO BIOLÓGICO - ATUALIZAÇÃO DA COMPOSIÇÃO DAS VACINAS COVID-19 0525918/25-5
+
+1.8575.0001.005-6 12 Meses
+
+25 MCG SUS INJ CT 4 FA VD TRANS X 2,5 ML
+
+1.8575.0001.006-4 12 Meses
+
+25 MCG SUS INJ CT 10 FA VD TRANS X 2,5 ML
+
+1.8575.0001.007-2 12 Meses
+
+25 MCG SUS INJ CT 50 FA VD TRANS X 2,5 ML
+
+1.8575.0001.008-0 12 Meses
+
+25 MCG SUS INJ CT 300 FA VD TRANS X 2,5 ML
+
+VACINA COVID-19 (RECOMBINANTE)

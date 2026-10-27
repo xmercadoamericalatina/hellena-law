@@ -1,0 +1,139 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.124, DE 21 DE MARÇO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1124"
+data: 2025-03-21
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 24/03/2025, seção 1, p. 139"
+data_publicacao: 2025-03-24
+edicao: "56"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.124-de-21-de-marco-de-2025-619308604"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 1.124, DE 21 DE MARÇO DE 2025
+
+RESOLUÇÃO-RE nº 1.124, DE 21 DE MARÇO DE 2025
+
+O COORDENADOR SUBSTITUTO DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+LUIZ CLAUDIO GOMES DA SILVA JUNIOR
+
+## ANEXO
+
+RECREIO PRODUTOS FARMACÊUTICOS LTDA / 19.498.361/0001-38
+
+25351.099898/2015-00 / 1136272
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0278687253
+
+--------------------------------------
+
+ZOE LOGÍSTICA LTDA / 10.221.334/0001-49
+
+25351.695056/2018-17 / 1181965
+
+TRANSPORTAR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0278115250
+
+--------------------------------------
+
+NEROMED HOSPITALAR LTDA / 29.261.327/0001-07
+
+25351.447025/2023-19 / 1295866
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0378687255
+
+--------------------------------------
+
+R SOARES DOS SANTOS COMERCIO / 33.930.895/0001-12
+
+25351.023438/2022-21 / 1268877
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0294912258
+
+--------------------------------------
+
+FARMALEV PRODUTOS FARMACEUTICOS LTDA / 03.439.526/0002-41
+
+25351.397685/2024-22 / 1317434
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0310396255
+
+--------------------------------------
+
+HEAL PHARMA DISTRIBUIDORA LTDA / 36.811.030/0001-25
+
+25351.424319/2024-53 / 1321012
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0278664253
+
+--------------------------------------
+
+HEALTH DISTRIBUIDORA DE MEDICAMENTOS LTDA / 35.472.743/0001-49
+
+25351.778590/2021-63 / 1266296
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0303693258
+
+--------------------------------------
+
+EPHAR PESQUISA E DESENVOLVIMENTO LTDA / 36.130.126/0001-28
+
+25351.416081/2020-69 / 1238466
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+IMPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0293919259

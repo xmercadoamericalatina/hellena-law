@@ -1,0 +1,151 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.748, DE 9 DE JULHO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "2748"
+data: 2026-07-09
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 13/07/2026, seção 1, p. 220"
+data_publicacao: 2026-07-13
+edicao: "129"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.748-de-9-de-julho-de-2026-718422467"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 2.748, DE 9 DE JULHO DE 2026
+
+RESOLUÇÃO-RE nº 2.748, DE 9 DE JULHO DE 2026
+
+O GERENTE-GERAL DE COSMÉTICOS E SANEANTES DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Cancelar os processos dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONÇALVES ARAÚJO RIOS
+
+## ANEXO
+
+NOME DA EMPRESA/ CNPJ
+
+NOME DO PRODUTO E MARCA
+
+NÚMERO DE PROCESSO
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+AIRELA INDÚSTRIA FARMACÊUTICA LTDA. / 01.858.973/0001-29
+
+DERMASKYN X AIR AESTHETICS
+
+25351.208314/2025-66
+
+----------------------------------
+
+BIO INSTINTO INDUSTRIA E COMERCIO DE COSMETICOS LTDA -ME / 07.882.964/0001-50
+
+GEL LIPO REDUTOR TERMO ATIVADO MARY LIFE
+
+25351.505474/2013-83
+
+----------------------------------
+
+CEZ COMERCIO DE COSMETICOS LTDA / 36.733.999/0001-25
+
+CLIV INTT SOFT
+
+25351.574692/2021-10
+
+GEL CORPORAL CLIV INTT
+
+25351.875565/2020-46
+
+CLIV INTT BLACK
+
+5351.569461/2022-67
+
+GOLDEN BUTTON GEL FACILITADOR COM MICRO PARTICULAS DE OURO 23K BY CASTROPIL
+
+25351.219723/2022-45
+
+CLIV INTT GOLD
+
+25351.875757/2020-52
+
+CLIV INTT CINQUENTA TONS DE PRAZER
+
+25351.770302/2021-22
+
+----------------------------------
+
+COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. / 61.082.426/0002-07
+
+PIELUS FORTE SHAMPOO
+
+25351.076986/2025-04
+
+----------------------------------
+
+INDITEX BRASIL LTDA. / 02.952.485/0038-30
+
+ZARA DEEP GARDEN EAU DE PARFUM
+
+25351.693905/2023-65
+
+----------------------------------
+
+INDUSTRIA E COMERCIO QUIMETAL SA / 27.240.464/0001-21
+
+ZARA ORCHID EAU DE PARFUM
+
+25351.836079/2018-98
+
+ZARA GARDENIA EAU DE PARFUM
+
+25351.836081/2018-67
+
+----------------------------------
+
+JPG - PRODUTOS FUNCIONAIS E NUTRICIONAIS LTDA/21.051.983/0001-65
+
+MESOESTETIC SKINRETIN OILY SOLUTION
+
+25351.018058/2025-17
+
+MESOESTETIC SKINRETIN AQUEOUS SOLUTION
+
+25351.017891/2025-41
+
+----------------------------------
+
+MAKE PERFEITA MAQUIAGEM LTDA / 45.164.154/0001-57
+
+TS01184 LIP BALM / 25351.085241/2026-17
+
+----------------------------------
+
+PHILOZON - INDÚSTRIA E COMÉRCIO DE GERADORES DE OZONIO LTDA-ME / 07.138.875/0001-01
+
+CREME PARA OS PÉS PHILOZON
+
+25351.729945/2019-76
+
+DERMA ÓLEO OZONIZADO PHILOZON
+
+25351.341791/2022-90
+
+----------------------------------
+
+VIA AROMA INDUSTRIA DE AROMATIZADORES DE AMBIENTE LTDA EPP / 04.612.952/0001-17
+
+BLEND DE OLEOS ESSENCIAIS ROLL ON RELAXANTE VIA AROMA
+
+25351.303640/2021-52
+
+ROLL ON BLEND DE OLEOS ESSENCIAIS MULHER VIA AROMA
+
+25351.303630/2021-17
+
+ROLL ON BLEND DE OLEOS ESSENCIAIS HORA DE DORMIR VIA AROMA
+
+25351.303692/2021-29

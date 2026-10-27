@@ -1,0 +1,125 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.174, DE 25 DE MARÇO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1174"
+data: 2026-03-25
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 26/03/2026, seção 1, p. 140"
+data_publicacao: 2026-03-26
+edicao: "58"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.174-de-25-de-marco-de-2026-695443713"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 1.174, DE 25 DE MARÇO DE 2026
+
+RESOLUÇÃO-RE nº 1.174, DE 25 DE MARÇO DE 2026
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+FARMACIA DE MANIPULACAO PETLOVE LTDA / 19.726.259/0001-42
+
+25351.371607/2015-15 / 1142016
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0284846261
+
+--------------------------------------
+
+NAVARRO DISTRIBUIDORA DE MEDICAMENTOS S/A / 24.415.230/0004-22
+
+25351.985031/2020-27 / 1243985
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0271522267
+
+--------------------------------------
+
+QUIMERA PHARMA IMPORTACAO E DISTRIBUICAO DE MEDICAMENTOS LTDA / 59.405.466/0001-10
+
+25351.032888/2026-38 / 1426601
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+IMPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0266081266
+
+--------------------------------------
+
+EVOLUCAO DISTRIBUIDORA DE PRODUTOS PARA SAUDE LTDA / 42.336.259/0001-58
+
+25351.314450/2022-41 / 1279618
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0260952265
+
+--------------------------------------
+
+DALLAS DISTRIBUIDORA LTDA / 18.245.818/0001-30
+
+25351.053044/2023-88 / 1287310
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0283782269
+
+--------------------------------------
+
+JR MEDICAL LTDA / 59.186.081/0001-09
+
+25351.035849/2026-92 / 1425943
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0261855263
+
+--------------------------------------
+
+HOSPITAL DE CLÍNICAS DE PORTO ALEGRE / 87.020.517/0001-20
+
+25025.055950/99-09 / 1348461
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: INSUMOS FARMACÊUTICOS / MEDICAMENTO / OUTROS PRODUTOS SUJEITOS A CONTROLE ESPECIAL
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0261841262

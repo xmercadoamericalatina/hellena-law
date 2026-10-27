@@ -1,0 +1,90 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.546, DE 8 de julho DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2546"
+data: 2025-07-08
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/07/2025, seção 1, p. 125"
+data_publicacao: 2025-07-09
+edicao: "127"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.546-de-8-de-julho-de-2025-640762981"
+baixado_em: 2026-10-16
+sha256_html_fonte: 798fa03799f1e168d11fb9bdbc254e57c35ef77a178aa5ea0f2b4ab54f609903
+---
+# RESOLUÇÃO-RE Nº 2.546, DE 8 de julho DE 2025
+
+RESOLUÇÃO-RE Nº 2.546, DE 8 de julho DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+IRMANDADE SANTA CASA DE MISERICÓRDIA DE PORTO ALEGRE / 92.815.000/0001-68
+
+25351.100325/2025-07 / 1410325
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: INSUMOS FARMACÊUTICOS / MEDICAMENTO / OUTROS PRODUTOS SUJEITOS A CONTROLE ESPECIAL
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 0806850256
+
+--------------------------------------
+
+M.I. DUCATI PRODUTOS ODONTOLOGICOS LTDA / 26.743.233/0001-78
+
+25351.100312/2025-20 / 1410311
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0806826258
+
+--------------------------------------
+
+FITO CBD LTDA / 45.671.324/0001-90
+
+25351.016556/2025-25 / 1410265
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0152719253
+
+--------------------------------------
+
+PROLAB - DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS PARA LABORATORIOS LTDA / 54.070.609/0001-66
+
+25351.099681/2025-62 / 1409041
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0802361251
+
+--------------------------------------
+
+jR LOGISTICA SC LTDA / 41.577.898/0001-42
+
+25351.099776/2025-86 / 1410308
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+761 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - ARMAZENADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0802637256

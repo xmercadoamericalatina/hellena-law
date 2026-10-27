@@ -1,0 +1,75 @@
+---
+titulo: "RETIFICAÇÃO"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: ""
+data: 2026-02-18
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 18/02/2026, seção 1, p. 214"
+data_publicacao: 2026-02-18
+edicao: "32"
+fonte: "https://www.in.gov.br/web/dou/-/retificacao-687400255"
+baixado_em: 2026-10-15
+---
+# RETIFICAÇÃO
+
+RETIFICAÇÃO
+
+Na Resolução - RE N° 3.024, de 08 de agosto de 2025, publicada no Diário Oficial da União nº 150, de 11 de agosto de 2025, Seção 1, pág. 99, referente ao processo 25991.002644/80
+
+Onde se lê:
+
+CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. 44734671000151
+
+CLORIDRATO DE NALOXONA
+
+NARCAN 25991.002644/80 07/2035
+
+1464 MEDICAMENTO NOVO - RENOVAÇÃO DE REGISTRO DE MEDICAMENTO NOVO
+
+1699213/24-1
+
+1.0298.0283.003-3 36 Meses
+
+0,4 MG/ML SOL INJ IM/SC/IV CX 10 AMP VD TRANS X 1 ML
+
+1.0298.0283.004-1 36 Meses
+
+0,4 MG/ML SOL INJ IM/SC/IV CX 100 AMP VD TRANS X 1 ML
+
+1.0298.0283.005-1 36 Meses
+
+0,4 MG/ML SOL INJ IM/SC/IV CX 36 AMP VD TRANS X 1 ML
+
+1.0298.0283.006-8 36 Meses
+
+0,4 MG/ML SOL INJ IM/SC/IV CX 25 AMP VD TRANS X 1 ML
+
+Leia-se:
+
+CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. 44734671000151
+
+CLORIDRATO DE NALOXONA
+
+NARCAN 25991.002644/80 07/2035
+
+1464 MEDICAMENTO NOVO - RENOVAÇÃO DE REGISTRO DE MEDICAMENTO NOVO
+
+1699213/24-1
+
+1.0298.0283.003-3 24 Meses
+
+0,4 MG/ML SOL INJ IM/SC/IV CX 10 AMP VD TRANS X 1 ML
+
+1.0298.0283.004-1 24 Meses
+
+0,4 MG/ML SOL INJ IM/SC/IV CX 100 AMP VD TRANS X 1 ML
+
+1.0298.0283.005-1 24 Meses
+
+0,4 MG/ML SOL INJ IM/SC/IV CX 36 AMP VD TRANS X 1 ML
+
+1.0298.0283.006-8 24 Meses
+
+0,4 MG/ML SOL INJ IM/SC/IV CX 25 AMP VD TRANS X 1 ML

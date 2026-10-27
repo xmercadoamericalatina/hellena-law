@@ -1,0 +1,92 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.185, DE 12 de junho DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2185"
+data: 2025-06-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 13/06/2025, seção 1, p. 175"
+data_publicacao: 2025-06-13
+edicao: "111"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.185-de-12-de-junho-de-2025-635997336"
+baixado_em: 2026-10-16
+sha256_html_fonte: c391309d04d4319774b47818c8e619c40fb00b7e24acfe6567c505fc2a92374d
+---
+# RESOLUÇÃO-RE Nº 2.185, DE 12 de junho DE 2025
+
+RESOLUÇÃO-RE Nº 2.185, DE 12 de junho DE 2025
+
+O COORDENADOR SUBSTITUTO DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+LUIZ CLAUDIO GOMES DA SILVA JUNIOR
+
+## ANEXO
+
+L F COMERCIO DE PRODUTOS HOSPITALARES E SERVICOS DE CONSTRUCAO LTDA / 60.531.942/0001-28
+
+25351.084299/2025-54 / 1407924
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0702387258
+
+--------------------------------------
+
+SUPRIVALE DISTRIBUIDORA HOSPITALAR LTDA / 54.275.841/0001-30
+
+25351.084360/2025-63 / 1407941
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0702610259
+
+--------------------------------------
+
+JR COMERCIO ATACADISTA DE MEDICAMENTOS E MATERIAIS HOSPITALARES LTDA / 57.634.971/0001-00
+
+25351.084129/2025-70 / 1408765
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0701638257
+
+--------------------------------------
+
+UNIAO OESTE PARANAENSE DE ESTUDOS E COMBATE AO CANCER / 81.270.548/0001-53
+
+25351.084182/2025-71 / 1408751
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: INSUMOS FARMACÊUTICOS / MEDICAMENTO / OUTROS PRODUTOS SUJEITOS A CONTROLE ESPECIAL
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 0701869259
+
+--------------------------------------
+
+H A CUNHA PRAXEDES LTDA / 12.847.230/0001-70
+
+25351.084464/2025-78 / 1407969
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0703011251

@@ -1,0 +1,441 @@
+---
+titulo: "RESOLUÇÃO-RE nº 4.033, DE 9 DE OUTUBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "4033"
+data: 2026-10-09
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 13/10/2026, seção 1, p. 149"
+data_publicacao: 2026-10-13
+edicao: "193"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.033-de-9-de-outubro-de-2026-737770273"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 4.033, DE 9 DE OUTUBRO DE 2026
+
+RESOLUÇÃO-RE nº 4.033, DE 9 DE OUTUBRO DE 2026
+
+O GERENTE-GERAL DE COSMÉTICOS E SANEANTES DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir os registros e as petições dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONÇALVES ARAÚJO RIOS
+
+## ANEXO
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO E MARCA
+
+NÚMERO DO PROCESSO / REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+&CO. INDUSTRIA E COMERCIO DE COSMETICOS LTDA - EPP / 17.153.030/0001-30
+
+PINK STICK 100 - PINK CHEEKS
+
+25351.116440/2026-76 / 280880173
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0653100/26-4
+
+PINK STICK 80 - PINK CHEEKS
+
+25351.116441/2026-11 / 280880174
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0653103/26-3
+
+PINK STICK 60 - PINK CHEEKS
+
+25351.116448/2026-32 / 280880175
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0653125/26-7
+
+PINK STICK 5 - PINK CHEEKS
+
+25351.116455/2026-34 / 280880176
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0653138/26-1
+
+PINK STICK 10 - PINK CHEEKS
+
+25351.116458/2026-78 / 280880177
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0653143/26-5
+
+PINK STICK 42 RIO - PINK CHEEKS
+
+25351.116460/2026-47 / 280880178
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0653146/26-4
+
+PINK STICK 21 - PINK CHEEKS
+
+25351.116468/2026-11 / 280880179
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0653165/26-9
+
+PINK STICK 15 - PINK CHEEKS
+
+25351.116490/2026-53 / 280880180
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0653226/26-8
+
+PROTETOR SOLAR FACIAL FLUIDO TINT 15 - PINK CHEEKS
+
+25351.460755/2024-96 / 280880113
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 1589317/25-4
+
+PROTETOR SOLAR FACIAL FLUIDO TINT 15 - PINK CHEEKS
+
+25351.460755/2024-96 / 280880113
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 1615120/25-4
+
+PROTETOR SOLAR FACIAL FLUIDO TINT 20 - PINK CHEEKS
+
+25351.460861/2024-70 / 280880115
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 1589405/25-1
+
+PROTETOR SOLAR FACIAL FLUIDO TINT 20 - PINK CHEEKS
+
+25351.460861/2024-70 / 280880115
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 1615439/25-1
+
+PROTETOR SOLAR MINERAL FPS 50- ZIEL
+
+25351.812084/2023-72 / 280880088
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0061487/26-1
+
+--------------------------------------
+
+1938 LABS LTDA / 57.829.635/0001-13
+
+OLLIE KIDS&BABY PROTETOR SOLAR MINERAL EM BASTÃO
+
+25351.132938/2026-86 / 217450104
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0755515/26-9
+
+--------------------------------------
+
+AEROFLEX INDÚSTRIA DE AEROSOL LTDA / 07.872.967/0001-02
+
+SUN PRIME -ÓLEO BRONZEADOR MY HEALTH-FPS15
+
+25351.847392/2018-51 / 289650005
+
+242 - REG. COSMÉTICOS - Alteração do Prazo de Validade de Produto Registrado / 1259407/25-0
+
+--------------------------------------
+
+ANCLA´S INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - EPP / 19.138.182/0001-90
+
+DERMOPLEX SUN COLOR BASE BEGE FPS 60
+
+25351.104890/2026-16 / 275470138
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0587886/26-9
+
+--------------------------------------
+
+B. F. MARTINS LTDA / 10.571.238/0001-20
+
+GRANDHA HIDRÓXIDO DE SÓDIO SUPER FORCE
+
+25351.128338/2026-13 / 253060049
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0723153/26-4
+
+--------------------------------------
+
+BASTON INDÚSTRIA DE AEROSSOIS LTDA / 05.855.974/0001-70
+
+PROTETOR SOLAR SVEDA FPS 50
+
+25351.435515/2024-53 / 257170103
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0090722/26-4
+
+--------------------------------------
+
+BEIERSDORF INDÚSTRIA E COMÉRCIO LTDA / 01.786.983/0001-04
+
+EUCERIN PROTEÇÃO SOLAR FPS 60
+
+25351.126992/2026-92 / 227210824
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0713321/26-1
+
+--------------------------------------
+
+CDC INDUSTRIA DE COSMETICOS LTDA / 16.584.409/0001-32
+
+PROTETOR SOLAR FACIAL COM TONALIZANTE FPS 70 JAY'LUC
+
+25351.192807/2022-24 / 275010009
+
+242 - REG. COSMÉTICOS - Alteração do Prazo de Validade de Produto Registrado / 1160692/25-4
+
+--------------------------------------
+
+COSMO INDUSTRIA E COMERCIO DE COSMETICOS LTDA / 24.769.185/0001-61
+
+PROTETOR SOLAR PS-06 FPS 99 PRINCIPIA COR 7.0
+
+25351.028840/2026-25 / 289110042
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0152520/26-1
+
+PROTETOR SOLAR PS-06 FPS 99 PRINCIPIA COR 4.0
+
+25351.028860/2026-04 / 289110043
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0152594/26-4
+
+PROTETOR SOLAR PS-06 FPS 99 PRINCIPIA COR 1.0
+
+25351.028875/2026-64 / 289110044
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0152633/26-0
+
+PROTETOR SOLAR PS-06 FPS99 PRINCIPIA COR 6.0
+
+25351.028921/2026-25 / 289110045
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0152808/26-4
+
+PROTETOR SOLAR PS-06 FPS 99 PRINCIPIA COR 2.0
+
+25351.028973/2026-00 / 289110046
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0152975/26-8
+
+PROTETOR SOLAR PS-06 FPS 99 PRINCIPIA COR 8.0
+
+25351.040290/2026-12 / 289110047
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0220050/26-1
+
+PROTETOR SOLAR PS-06 FPS 99 PRINCIPIA COR 9.0
+
+25351.040374/2026-56 / 289110048
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0220371/26-1
+
+PROTETOR SOLAR PS-06 FPS 99 PRINCIPIA COR 3.0
+
+25351.040452/2026-12 / 289110049
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0220829/26-8
+
+PROTETOR SOLAR PS-06 FPS 99 PRINCIPIA COR 5.0
+
+25351.044403/2026-59 / 289110050
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0243776/26-8
+
+PROTETOR SOLAR PS-06 FPS 99 PRINCIPIA COR 10.0
+
+25351.044456/2026-70 / 289110051
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0243976/26-7
+
+--------------------------------------
+
+DAHUER LABORATÓRIO LTDA / 82.914.334/0001-35
+
+Anasol Protetor Solar Facial TSD - Base FPS 60 1.0
+
+25351.100882/2026-09 / 215630290
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0563982/26-8
+
+Anasol Protetor Solar Facial TSD - Base FPS 60 5.0
+
+25351.101037/2026-42 / 215630291
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0564387/26-6
+
+--------------------------------------
+
+FLORUS BRASIL INDUSTRIA E COMERCIO DE COSMETICOS LTDA. - ME / 05.244.203/0001-47
+
+PROTETOR SOLAR FACIAL EDY COSMETICS
+
+25351.124110/2026-54 / 235220032
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0696268/26-4
+
+--------------------------------------
+
+GOEDERT LTDA / 79.846.465/0001-18
+
+GEL ANTISSÉPTICO UPPRO
+
+25351.126590/2026-98 / 251840001
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0710563/26-4
+
+--------------------------------------
+
+K&G INDÚSTRIA E COMÉRCIO LTDA / 62.726.310/0001-45
+
+PROTETOR SOLAR MINERAL FPS 50 COM COR FAREVA
+
+25351.046558/2026-20 / 235830141
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0257207/26-1
+
+PROTETOR SOLAR MINERAL FPS 50 SEM COR FAREVA
+
+25351.046588/2026-36 / 235830142
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0257308/26-1
+
+--------------------------------------
+
+LABORATORIO INDUSTRIAL FARMACÊUTICO LIFAR LTDA / 92.928.951/0001-43
+
+PROTETOR SOLAR STICK SPORT PANVEL SOLAR FPS 99
+
+25351.079748/2026-23 / 238680158
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0442135/26-2
+
+--------------------------------------
+
+PACK TO YOU INDUSTRIA E COMERCIO DE COSMETICOS LTDA / 42.773.644/0001-62
+
+AP ALISANTE CAPILAR PANTERA NEGRA
+
+25351.028709/2026-68 / 437760009
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0151852/26-0
+
+AP INFINITY BLOND ALISANTE CAPILAR
+
+25351.028747/2026-11 / 437760010
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0151921/26-1
+
+AP LISO LAMBIDO ALISANTE CAPILAR
+
+25351.028748/2026-65 / 437760011
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0151922/26-8
+
+AP LL SUPREME ALISANTE CAPILAR
+
+25351.028754/2026-12 / 437760012
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0151935/26-2
+
+--------------------------------------
+
+PASTEUR COSMIATRIA LTDA / 87.727.277/0001-07
+
+DAUF - PROTETOR SOLAR FACIAL UNIFORMIZANTE FPS 90
+
+25351.097751/2026-29 / 214850590
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0546007/26-1
+
+KOKESHI - PROTETOR SOLAR FACIAL FPS70 ULTRA FLUÍDO
+
+25351.098956/2026-21 / 214850591
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0552902/26-8
+
+PROTETOR SOLAR FPS 30 - VITAMINA E - DAUF SOLAR
+
+25351.201139/2024-03 / 214850499
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0151276/26-9
+
+--------------------------------------
+
+PROCOSA PRODUTOS DE BELEZA LTDA / 33.306.929/0001-00
+
+LA ROCHE-POSAY ANTHELIOS UV SPORT BRUMA INVISÍVEL FPS 50+
+
+25351.080581/2026-43 / 200704467
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0446198/26-9
+
+LA ROCHE-POSAY ANTHELIOS ULTRA COVER UVSTICK 5.0
+
+25351.100647/2026-29 / 200704468
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0562903/26-7
+
+LA ROCHE-POSAY ANTHELIOS ULTRA COVER UVSTICK 3.0
+
+25351.100648/2026-73 / 200704469
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0562904/26-3
+
+LA ROCHE-POSAY ANTHELIOS ULTRA COVER UVSTICK 1.0
+
+25351.100653/2026-86 / 200704470
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0562914/26-9
+
+VICHY CAPITAL SOLEIL UV-MATCH STICK 4.0
+
+25351.100687/2026-71 / 200704471
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0562965/26-2
+
+VICHY CAPITAL SOLEIL UV-MATCH STICK 1.0
+
+25351.100688/2026-15 / 200704472
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0562966/26-9
+
+VICHY CAPITAL SOLEIL UV-MATCH STICK 3.0
+
+25351.100689/2026-60 / 200704473
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0562967/26-5
+
+LA ROCHE-POSAY ANTHELIOS ULTRA COVER UVSTICK 4.0
+
+25351.100690/2026-94 / 200704474
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0562969/26-8
+
+LA ROCHE-POSAY ANTHELIOS ULTRA COVER UVSTICK 6.0
+
+25351.100691/2026-39 / 200704475
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0562970/26-6
+
+--------------------------------------
+
+jimeli industria e comercio de cosmeticos ltda / 07.291.289/0001-94
+
+GEL ANTISSÉPTICO PARA HIGIENE DAS MÃOS ASEPLYNE NEUTRO
+
+25351.079922/2026-38 / 291980001
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0442622/26-1
+
+--------------------------------------
+
+ÁKUA INDÚSTRIA, COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO DE COSMÉTICOS LTDA. / 07.295.591/0001-10
+
+CHARMING POMADA MODELADORA FORTE
+
+25351.017874/2026-94 / 241660086
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0091315/26-3

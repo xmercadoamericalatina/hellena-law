@@ -1,0 +1,101 @@
+---
+titulo: "RESOLUÇÃO-RE nº 189, DE 16 DE JANEIRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "189"
+data: 2026-01-16
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 19/01/2026, seção 1, p. 93"
+data_publicacao: 2026-01-19
+edicao: "12"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-189-de-16-de-janeiro-de-2026-681750378"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 189, DE 16 DE JANEIRO DE 2026
+
+RESOLUÇÃO-RE nº 189, DE 16 DE JANEIRO DE 2026
+
+A COORDENADORA SUBSTITUTA DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+TACIANE PIMENTEL DA SILVA
+
+## ANEXO
+
+RODONAVES TRANSPORTES MULTIMODAL LTDA / 35.912.495/0006-14
+
+25351.004816/2025-10 / 1325950
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0042767253
+
+--------------------------------------
+
+TX DISTRIBUIDORA DE MATERIAL MEDICO E MEDICAMENTOS LTDA / 43.118.669/0001-95
+
+25351.002815/2026-11 / 1423024
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0015348261
+
+--------------------------------------
+
+NAHUM DISTRIBUICAO E REPRESENTACAO DE ARTIGOS MEDICOS E HOSPITALARES LTDA / 45.138.599/0001-62
+
+25351.002205/2026-18 / 1422978
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0012060267
+
+--------------------------------------
+
+INSPIRE PHARMA LTDA / 55.330.216/0001-07
+
+25351.001873/2026-28 / 1422887
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0010249265
+
+--------------------------------------
+
+J R PONTUAL TRANSPORTES EXPRESS LTDA / 33.077.707/0001-55
+
+25351.002805/2026-86 / 1423011
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0015331261
+
+--------------------------------------
+
+SANTO MATO FARMA LTDA / 39.799.954/0001-41
+
+25351.001944/2026-92 / 1422920
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0010653261
+
+--------------------------------------
+
+T.A.N.O. FARMÁCIA E LABORATÓRIO LTDA - ME / 18.016.973/0001-84
+
+25351.446104/2024-93 / 1423393
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1609603249

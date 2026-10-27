@@ -1,0 +1,109 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.593, DE 17 DE ABRIL DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "1593"
+data: 2026-04-17
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 22/04/2026, seção 1, p. 248"
+data_publicacao: 2026-04-22
+edicao: "74"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.593-de-17-de-abril-de-2026-700574103"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 1.593, DE 17 DE ABRIL DE 2026
+
+RESOLUÇÃO-RE Nº 1.593, DE 17 DE ABRIL DE 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Indeferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+--------------------------------------------------
+
+EUROFARMA LABORATORIOS S.A. 61190096000192
+
+CLORIDRATO DE DOXORRUBICINA 25351.019161/00-37 032026
+
+143 GENÉRICO - RENOVAÇÃO DE REGISTRO DE MEDICAMENTO 0203717/25-2
+
+1.0043.0004.002-2 24 Meses
+
+50 MG PO LIOF SOL INJ CT FA VD TRANS X 50 ML
+
+1.0043.0004.003-0 24 Meses
+
+50 MG PO LIOF SOL INJ CT 10 FA VD TRANS X 50 ML
+
+1.0043.0004.004-9 24 Meses
+
+50 MG PO LIOF SOL INJ CT 50 FA VD TRANS X 50 ML
+
+--------------------------------------------------
+
+BLAU FARMACÊUTICA S.A. 58430828000160
+
+PROPOFOL
+
+PROFOLEN 25351.006512/00-77 112025
+
+142 SIMILAR - RENOVAÇÃO DE REGISTRO DE MEDICAMENTO 0339654/25-2
+
+1.1637.0046.004-7 24 Meses
+
+10 MG/ML EMU INJ/INFUS IV CT 5 AMP VD TRANS X 20 ML
+
+1.1637.0046.005-5 24 Meses
+
+10 MG/ML EMU INJ/INFUS IV CT 50 AMP VD TRANS X 20 ML
+
+--------------------------------------------------
+
+UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A 60665981000118
+
+BOLDINA
+
+. 25351.014362/2025-95
+
+1577 ESPECÍFICO - REGISTRO DE MEDICAMENTO 0133280/25-5
+
+0,5 MG COMP EFEV CT TB PLAS X 3
+
+0,5 MG COMP EFEV CT TB PLAS X 10
+
+0,5 MG COMP EFEV CT TB PLAS X 20
+
+0,5 MG COMP EFEV CT TB PLAS X 60
+
+--------------------------------------------------
+
+ABBVIE FARMACÊUTICA LTDA. 15800545000150
+
+UPADACITINIBE HEMI-HIDRATADO
+
+RINVOQ LQ 25351.041629/2026-06
+
+12261 MEDICAMENTO INOVADOR - REGISTRO DE MEDICAMENTO INOVADOR (NOVA FORMA FARMACÊUTICA) - VIA DE DESENVOLVIMENTO ABREVIADO 0229189/26-1
+
+1 MG/ML SOL OR CT FR PLAS PEAD OPC X 180 ML + SER DOS

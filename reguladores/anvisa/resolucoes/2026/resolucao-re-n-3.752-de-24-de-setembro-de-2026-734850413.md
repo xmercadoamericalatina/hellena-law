@@ -1,0 +1,439 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.752, DE 24 DE SETEMBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "3752"
+data: 2026-09-24
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 28/09/2026, seção 1, p. 171"
+data_publicacao: 2026-09-28
+edicao: "183"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.752-de-24-de-setembro-de-2026-734850413"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 3.752, DE 24 DE SETEMBRO DE 2026
+
+RESOLUÇÃO-RE Nº 3.752, DE 24 DE SETEMBRO DE 2026
+
+A GERENTE-GERAL SUBSTITUTA DE ALIMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 96, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Deferir as petições relacionadas à Gerência-Geral de Alimentos, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ÂNGELA KARINNE FAGUNDES DE CASTRO
+
+## ANEXO
+
+Número da Listagem: 674826
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO
+
+MARCA
+
+NUMERO DO PROCESSO / VENCIMENTO DO REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+DESCRIÇÃO DA APRESENTAÇÃO
+
+REGISTRO
+
+PRAZO DE VALIDADE DA APRESENTAÇÃO
+
+EMBALAGEM PRIMÁRIA
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+DANONE LTDA. / 23.643.315/0115-10
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.110059/2011-16 / 01/2027
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0834546/26-4
+
+APRESENTAÇÃO 1
+
+6657700900017
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+DANONE LTDA. / 23.643.315/0115-10
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.110059/2011-16 / 01/2032
+
+4096 - Revalidação de registro de fórmulas modificadas para nutrição enteral / 0834675/26-9
+
+APRESENTAÇÃO 1
+
+6657700900017
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+DANONE LTDA. / 23.643.315/0115-10
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.110059/2011-16 / 01/2027
+
+4124 - Cancelamento de Registro de Apresentação / 0962096/26-6
+
+ARGENTINA
+
+6657700900025
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+CHINA
+
+6657700900033
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+POÇOS DE CALDAS/MG
+
+6657700900041
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+HOLANDA
+
+6657700900051
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+INGLATERRA
+
+6657700900068
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+DANONE LTDA. / 23.643.315/0115-10
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.110059/2011-16 / 01/2027
+
+456 - Alteração de Rotulagem / 0812609/26-3
+
+APRESENTAÇÃO 1
+
+6657700900017
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+DANONE LTDA. / 23.643.315/0115-10
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.110032/2011-99 / 03/2027
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0871156/26-1
+
+APRESENTAÇÃO 1
+
+6657700930013
+
+12 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+DANONE LTDA. / 23.643.315/0115-10
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.110032/2011-99 / 03/2027
+
+456 - Alteração de Rotulagem / 0820954/26-8
+
+APRESENTAÇÃO 1
+
+6657700930013
+
+12 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.120111/2006-26 / 03/2031
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0879396/26-1
+
+APRESENTAÇÃO 1
+
+6204799480019
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICO
+
+APRESENTAÇÃO 2
+
+6204799480035
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA CRIANÇAS DE PRIMEIRA INFÂNCIA
+
+APROVADA: ADVANCE/EXPERT/EXPERT PLUS/EXPERT+/NANLAC/NANLAC SOJA/NESTLÉ/SCIENCE/SCIENCE PLUS/SCIENCEPRO/SOJA/SOY/SPECIAL/SPECIAL CARE/SPECIAL PLUS/SPECIAL PRO/SPECIAL SCIENCE/SPECIALPRO
+
+25351.068586/2026-06 / 09/2031
+
+4069 - Registro de fórmula infantil para lactentes, fórmula infantil de seguimento para lactentes e crianças de primeira Infância / 0381216/26-8
+
+Apresentação 1
+
+6596502060017
+
+24 Meses
+
+METALICA / PLASTICA / lata
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA CRIANÇA DE PRIMEIRA INFÂNCIA
+
+25351.065508/2022-18 / 09/2027
+
+4166 - Inclusão e/ou substituição de estabelecimentos envolvidos na fabricação / 0197962/26-2
+
+APRESENTAÇÃO 1
+
+6596501590012
+
+15 Meses
+
+METALICA / PLASTICA / lata
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA CRIANÇA DE PRIMEIRA INFÂNCIA
+
+25351.065508/2022-18 / 09/2027
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0834401/26-6
+
+APRESENTAÇÃO 1
+
+6596501590012
+
+15 Meses
+
+METALICA / PLASTICA / lata
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA CRIANÇA DE PRIMEIRA INFÂNCIA
+
+25351.065508/2022-18 / 09/2027
+
+4124 - Cancelamento de Registro de Apresentação / 0978058/26-1
+
+APRESENTAÇÃO 2
+
+6596501590020
+
+15 Meses
+
+METALICA / PLASTICA / lata
+
+APRESENTAÇÃO 3
+
+6596501590039
+
+15 Meses
+
+METALICA / PLASTICA / lata
+
+APRESENTAÇÃO 4
+
+6596501590047
+
+15 Meses
+
+METALICA / PLASTICA / lata
+
+APRESENTAÇÃO 5
+
+6596501590055
+
+15 Meses
+
+METALICA / PLASTICA / lata
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES E DE SEGUIMENTO PARA LACTENTES E CRIANÇAS DE PRIMEIRA INFANCIA DESTINADA A NECESSIDADES DIETOTERÁPICAS ESPECÍFICAS COM RESTRIÇÃO DE LACTOSE E À BASE DE PROTEÍNA EXTENSAMENTE HIDROLISADA
+
+APROVADA: ADVANCE/ALFARÉ/CLINICAL/CLINICAL ADVANCE/EXPERT/EXPERT PLUS/EXPERT+/NAN/NESTLÉ/SCIENCE/SCIENCE PLUS/SCIENCE PRO/SCIENCEPRO/SPECIAL/SPECIAL CARE/SPECIAL PLUS/SPECIAL PRO/SPECIAL SCIENCE/SPECIALPRO
+
+25351.120263/2026-22 / 09/2031
+
+4071 - Registro de fórmulas infantis destinadas a necessidades dietoterápicas específicas / 0674943/26-1
+
+Apresentação 1
+
+6596502070012
+
+24 Meses
+
+METALICA / PLASTICA / lata
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES E DE SEGUIMENTO PARA LACTENTES E CRIANÇAS DE PRIMEIRA INFÂNCIA DESTINADA A NECESSIDADES DIETOTERÁPICAS ESPECÍFICAS COM RESTRIÇÃO DE LACTOSE E À BASE DE AMINOÁCIDOS LIVRES
+
+25351.498166/2012-67 / 05/2028
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0892842/26-1
+
+APRESENTAÇÃO 1
+
+6596500150019
+
+18 Meses
+
+METALICA / lata
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES E DE SEGUIMENTO PARA LACTENTES E CRIANÇAS DE PRIMEIRA INFÂNCIA DESTINADA A NECESSIDADES DIETOTERÁPICAS ESPECÍFICAS COM RESTRIÇÃO DE LACTOSE E À BASE DE AMINOÁCIDOS LIVRES
+
+25351.498166/2012-67 / 05/2028
+
+4169 - Alteração de fórmula / 0562964/26-6
+
+APRESENTAÇÃO 1
+
+6596500150019
+
+18 Meses
+
+METALICA / lata
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES E DE SEGUIMENTO PARA LACTENTES E CRIANÇAS DE PRIMEIRA INFÂNCIA DESTINADA A NECESSIDADES DIETOTERÁPICAS ESPECÍFICAS COM RESTRIÇÃO DE LACTOSE E À BASE DE AMINOÁCIDOS LIVRES
+
+25351.498166/2012-67 / 05/2028
+
+4124 - Cancelamento de Registro de Apresentação / 0959811/26-1
+
+SUIÇA
+
+6596500150027
+
+18 Meses
+
+METALICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+PRODIET NUTRIÇÃO CLINICA S.A. / 08.183.359/0001-53
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL
+
+25351.784178/2023-44 / 06/2024
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0815257/26-1
+
+APRESENTAÇÃO 1
+
+6632000310017
+
+12 Meses
+
+BOLSA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+PRODIET NUTRIÇÃO CLINICA S.A. / 08.183.359/0001-53
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL
+
+25351.212505/2023-61 / 09/2028
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0813234/26-3
+
+APRESENTAÇÃO 1
+
+6632000260011
+
+12 Meses
+
+BOLSA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+SUPPORT PRODUTOS NUTRICIONAIS LTDA / 01.107.391/0001-00
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.031764/2025-54 / 12/2031
+
+4096 - Revalidação de registro de fórmulas modificadas para nutrição enteral / 0852132/26-3
+
+APRESENTAÇÃO 1
+
+6593000140011
+
+12 Meses
+
+CELULOSICA / METALICA / PLASTICA

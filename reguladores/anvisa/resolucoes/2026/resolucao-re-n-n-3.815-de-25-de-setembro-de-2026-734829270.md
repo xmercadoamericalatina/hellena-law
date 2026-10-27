@@ -1,0 +1,111 @@
+---
+titulo: "RESOLUÇÃO-RE Nº N° 3.815, DE 25 DE SETEMBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "3815"
+data: 2026-09-25
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 28/09/2026, seção 1, p. 174"
+data_publicacao: 2026-09-28
+edicao: "183"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-n-3.815-de-25-de-setembro-de-2026-734829270"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº N° 3.815, DE 25 DE SETEMBRO DE 2026
+
+RESOLUÇÃO-RE Nº N° 3.815, DE 25 DE SETEMBRO DE 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Indeferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo;
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+--------------------------------------------------
+
+HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTDA 17174657000178
+
+DICLOFENACO SÓDICO 25351.054455/2003-47 08/2029
+
+10980 RDC 73/2016 - GENÉRICO - MUDANÇA MAIOR DE EXCIPIENTES PARA FORMAS FARMACÊUTICAS EM SOLUÇÃO 1512153/25-4
+
+11043 RDC 73/2016 - GENÉRICO - ALTERAÇÃO MAIOR DO PROCESSO DE PRODUÇÃO DO MEDICAMENTO 1533976/25-9
+
+11866 RDC 73/2016 - GENÉRICO - MUDANÇAS INTERMEDIÁRIAS DE MÉTODOS ANALÍTICOS 1533941/25-6
+
+1.0387.0052.001-8 24 Meses
+
+25 MG/ML SOL INJ CX 100 AMP VD INC X 3 ML
+
+--------------------------------------------------
+
+ACCORD FARMACÊUTICA LTDA 64171697000146
+
+Olmesartana medoxomila 25351.153504/2026-10
+
+10488 GENÉRICO - REGISTRO DE MEDICAMENTO - CLONE 0884267/26-1
+
+(155 GENERICO - REGISTRO DE MEDICAMENTO - 0104298/19-0 - 25351.068364/2019-56)
+
+20 MG COM REV CT BL AL AL X 10
+
+20 MG COM REV CT BL AL AL X 20
+
+20 MG COM REV CT BL AL AL X 30
+
+20 MG COM REV CT BL AL AL X 40
+
+20 MG COM REV CT BL AL AL X 60
+
+20 MG COM REV CT BL AL AL X 90
+
+40 MG COM REV CT BL AL AL X 10
+
+40 MG COM REV CT BL AL AL X 20
+
+40 MG COM REV CT BL AL AL X 30
+
+40 MG COM REV CT BL AL AL X 40
+
+40 MG COM REV CT BL AL AL X 60
+
+40 MG COM REV CT BL AL AL X 90
+
+--------------------------------------------------
+
+ZALIKA FARMACEUTICA LTDA 29536205000178
+
+etoricoxibe 25351.093065/2025-06
+
+155 GENERICO - REGISTRO DE MEDICAMENTO 0759369/25-4
+
+60 MG COM REV CT BL AL AL X 7
+
+60 MG COM REV CT BL AL AL X 14
+
+60 MG COM REV CT BL AL AL X 30
+
+90 MG COM REV CT BL AL AL X 7
+
+90 MG COM REV CT BL AL AL X 14
+
+90 MG COM REV CT BL AL AL X 30

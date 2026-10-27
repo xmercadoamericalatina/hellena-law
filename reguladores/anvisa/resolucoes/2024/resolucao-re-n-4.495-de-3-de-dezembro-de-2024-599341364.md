@@ -1,0 +1,72 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.495, DE 3 DE DEZEMBRO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Prod de Terapias Avan"
+tipo: "Resolução"
+numero: "4495"
+data: 2024-12-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/12/2024, seção 1, p. 72"
+data_publicacao: 2024-12-04
+edicao: "233"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.495-de-3-de-dezembro-de-2024-599341364"
+sha256_html_fonte: f88172869d6fe88c241355ec30cdecafc650872ba6d49c0442e4c890925ef097
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 4.495, DE 3 DE DEZEMBRO DE 2024
+
+RESOLUÇÃO-RE Nº 4.495, DE 3 DE DEZEMBRO DE 2024
+
+O GERENTE-GERAL DE PRODUTOS BIOLÓGICOS, RADIOFÁRMACOS, SANGUE, TECIDOS, CÉLULAS, ÓRGÃOS E PRODUTOS DE TERAPIA AVANÇADA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe foram conferidas pelo art. 112, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir petições referentes a pós-registro de produto de terapia avançada, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+FABRÍCIO CARNEIRO DE OLIVEIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+GILEAD SCIENCES FARMACEUTICA DO BRASIL LTDA 15670288000189
+
+AXICABTAGENO CILOLEUCEL
+
+YESCARTA 25351.068316/2022-63 10/2027
+
+12062 PRODUTO DE TERAPIA AVANÇADA - ALTERAÇÃO MODERADA DE QUALIDADE 0738079/24-8
+
+1.0929.0013.001-3 12 Meses
+
+1,0 A 2,0 X 10E6 CELS T CAR POSITIVAS/KG SUS INJ IV CASSETE ALU BOLS
+
+BREXUCABTAGENO AUTOLEUCEL
+
+TECARTUS 25351.087303/2023-74 12/2028
+
+12062 PRODUTO DE TERAPIA AVANÇADA - ALTERAÇÃO MODERADA DE QUALIDADE 0223918/24-3
+
+12062 PRODUTO DE TERAPIA AVANÇADA - ALTERAÇÃO MODERADA DE QUALIDADE 0223920/24-5
+
+12062 PRODUTO DE TERAPIA AVANÇADA - ALTERAÇÃO MODERADA DE QUALIDADE 0738010/24-1
+
+1.0929.0014.001-9 12 Meses
+
+MÁX DE 2 X 10E8 CEL CAR T SUS INJ IV X CASSETE ALU I BOLS INF X 68 ML
+
+1.0929.0014.002-7 12 Meses
+
+MAX 1,0 X 10E8 CELS T CART SUS INJ IV CASSETE ALU I BOLS INF X 68ML

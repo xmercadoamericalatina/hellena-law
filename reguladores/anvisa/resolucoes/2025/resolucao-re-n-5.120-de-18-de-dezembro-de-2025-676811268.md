@@ -1,0 +1,146 @@
+---
+titulo: "RESOLUÇÃO-RE nº 5.120, DE 18 DE DEZEMBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Produtos de Terapias Avançadas"
+tipo: "Resolução"
+numero: "5120"
+data: 2025-12-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/12/2025, seção 1, p. 408"
+data_publicacao: 2025-12-22
+edicao: "243"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-5.120-de-18-de-dezembro-de-2025-676811268"
+baixado_em: 2026-10-16
+sha256_html_fonte: 4b54feccf3c51fe33f524b13f6c1e0513fc19768624f57da813a7b327049b259
+---
+# RESOLUÇÃO-RE nº 5.120, DE 18 DE DEZEMBRO DE 2025
+
+RESOLUÇÃO-RE nº 5.120, DE 18 DE DEZEMBRO DE 2025
+
+O GERENTE-GERAL DE PRODUTOS BIOLÓGICOS, RADIOFÁRMACOS, SANGUE, TECIDOS, CÉLULAS, ÓRGÃOS E PRODUTOS DE TERAPIAS AVANÇADAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 109, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Cancelar o registro sanitário de medicamentos, produtos biológicos e insumos farmacêuticos, ou de apresentações, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+MARCELO MARIO MATOS MOREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+BESINS HEALTHCARE BRASIL COMERCIAL E DISTRIBUIDORA DE
+
+MEDICAMENTOS LTDA 11082598000393
+
+GONADOTROPINA CORIÔNICA
+
+CHORIOMON-M 25351.037266/2024-34 02/2027
+
+11984 PRODUTOS BIOLÓGICOS - 84. CANCELAMENTO DE REGISTRO DE
+
+APRESENTAÇÃO 1303191/25-1
+
+1.8759.0012.001-9 24 Meses
+
+5000 UI PO LIOF INJ IM/SC CX FA VD INC + DIL AMP VD INC X 1 ML
+
+1.8759.0012.003-5 24 Meses
+
+5000 UI PO LIOF INJ IM/SC CX FA VD INC
+
+GONADOTROPINA CORIÔNICA
+
+--------------------------------------------------------------------------------
+
+PFIZER BRASIL LTDA 61072393000133
+
+VACINA COVID-19 BIVALENTE
+
+COMIRNATY BIVALENTE BA.4/BA.5 25351.061129/2023-30 07/2026
+
+11985 - PRODUTOS BIOLÓGICOS - 85. CANCELAMENTO DE REGISTRO
+
+1258401/25-1
+
+1.2110.0492.001-9 24 Meses
+
+15MCG + 15MCG/DOSE SUS INJ CT 10 FA VD INC X 0,48 ML
+
+1.2110.0492.002-7 24 Meses
+
+15MCG + 15MCG/DOSE SUS INJ CT 10 FA VD INC X 2,25 ML
+
+1.2110.0492.003-5 24 Meses
+
+15MCG + 15MCG/DOSE SUS INJ CT 195 FA VD INC X 2,25 ML
+
+1.2110.0492.004-3 24 Meses
+
+5MCG + 5MCG/DOSE SUS DIL INJ CT 10 FA VD INC X 1,3 ML
+
+1.2110.0492.005-1 24 Meses
+
+1,5 MCG + 1,5 MCG/DOSE SUS DIL INJ CT 10 FA VD INC X 0,4 ML
+
+VACINA COVID-19 BIVALENTE
+
+--------------------------------------------------------------------------------
+
+BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUTICA LTDA
+
+60831658000177
+
+ESPESOLIMABE
+
+SPEVIGO 25351.083190/2022-57 03/2026
+
+1610 - PRODUTO BIOLÓGICO - CANCELAMENTO DE REGISTRO DO
+
+MEDICAMENTO POR TRANSFERÊNCIA DE TITULARIDADE 1540057/25-9
+
+1.0367.0179.001-2 36 Meses
+
+60 MG/ML SOL DIL INFUS CT 2 FA VD TRANS X 7,5 ML
+
+1.0367.0179.002-0 36 Meses
+
+150 MG/ML SOL INJ CT 2 SER PREENC VD TRANS X 1,0 ML
+
+ESPESOLIMABE
+
+--------------------------------------------------------------------------------
+
+GLAXOSMITHKLINE BRASIL LTDA 33247743000110
+
+HPV-16 L1 + HPV-18 L1
+
+CERVARIX 25351.206050/2006-43 02/2028
+
+11985 - PRODUTOS BIOLÓGICOS - 85. CANCELAMENTO DE REGISTRO
+
+1556785/25-1
+
+1.0107.0267.004-1 60 Meses
+
+20 MCG SUS INJ CT SER PREENC VD TRANS X 0,5 ML
+
+1.0107.0267.007-6 60 Meses
+
+20 MCG SUS INJ CT 10 SER PREENC VD TRANS X 0,5 ML
+
+HPV-16 L1 + HPV-18 L1

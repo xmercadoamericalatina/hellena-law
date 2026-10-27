@@ -1,0 +1,93 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.979, DE 30 DE JULHO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "2979"
+data: 2026-07-30
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 03/08/2026, seção 1, p. 54"
+data_publicacao: 2026-08-03
+edicao: "144"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.979-de-30-de-julho-de-2026-722723033"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 2.979, DE 30 DE JULHO DE 2026
+
+RESOLUÇÃO-RE Nº 2.979, DE 30 DE JULHO DE 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Publicar o cancelamento de registro da apresentação a pedido dos medicamentos similares, genéricos e novos, sob o nº de expedientes constantes do anexo desta Resolução, nos termos do art. 51 da Lei nº. 9.784, de 1999.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+RAZÃO SOCIAL CNPJ
+
+MARCA COMERCIAL Nº PROCESSO EXPEDIENTE CANCELAMENTO M.S.
+
+-------------------------------------------------
+
+ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A - 60.659.463/0029-92
+
+DECONGEX PLUS 25000.037404/96-87 0730740/26-9 1057302310151 1057302310176
+
+maleato de bronfeniramina + cloridrato de fenilefrina 25351.059422/2025-07 0745777/26-4 1057301680077 1057301680085
+
+-------------------------------------------------
+
+BAYER S.A. - 18.459.628/0001-15
+
+ASPIRINA PREVENT 25351.211644/2007-57 0729893/26-0 1705600220010 1705600220045 1705600220053
+
+NUBLAXON 25351.183324/2019-33 0745836/26-3 1705601250134 1705601250207
+
+XARELTO 25351.040441/2008-51 0675481/26-1 1705600480136 1705600480209
+
+-------------------------------------------------
+
+GERMED FARMACEUTICA LTDA - 45.992.062/0001-65
+
+Prednisolona 25351.734930/2010-96 0742201/26-1 1058307460190 1058307460204 1058307460212 1058307460220 1058307460239 1058307460247 1058307460255 1058307460263 1058307460271 1058307460281
+
+-------------------------------------------------
+
+LABORATÓRIOS FERRING LTDA - 74.232.034/0001-48
+
+CORAMENT 25351.676685/2014-21 0643854/26-6 1287600230019 1287600230027
+
+-------------------------------------------------
+
+LEGRAND PHARMA INDUSTRIA FARMACEUTICA LTDA - 05.044.984/0001-26
+
+Prednisolona 25351.734893/2010-70 0742039/26-9 1677303620295 1677303620309 1677303620317 1677303620325 1677303620333 1677303620341 1677303620351 1677303620368 1677303620376 1677303620384
+
+-------------------------------------------------
+
+LEO PHARMA LTDA - 11.424.477/0001-10
+
+ADVANTAN 25351.711143/2019-18 0748671/26-9 1856900100054
+
+-------------------------------------------------
+
+MERCK SHARP & DOHME FARMACEUTICA LTDA. - 03.560.974/0001-18
+
+TEMODAL 25351.406627/2009-33 0652712/26-6 1017101940254 1017101940262
+
+-------------------------------------------------
+
+MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - 92.265.552/0009-05
+
+PREDSIGMA 25351.065408/2022-91 0663780/26-8 1181903480016 1181903480024 1181903480032 1181903480040 1181903480059 1181903480067 1181903480075 1181903480083 1181903480091 1181903480105
+
+-------------------------------------------------
+
+ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. - 61.100.004/0001-36
+
+FLUIMUCIL 25992.011319/64 0654621/26-8 1008400751111 1008400751128 1008400751136 1008400751144
+
+FLUIMUCIL 25992.011319/64 0658755/26-9 1008400750441

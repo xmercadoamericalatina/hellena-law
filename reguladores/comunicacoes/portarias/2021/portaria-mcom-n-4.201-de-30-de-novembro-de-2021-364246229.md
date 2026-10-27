@@ -1,0 +1,40 @@
+---
+titulo: "PORTARIA MCOM Nº 4.201, DE 30 DE NOVEMBRO DE 2021"
+orgao: "Ministério das Comunicações/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "4201"
+data: 2021-11-30
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/12/2021, seção 1, p. 30"
+data_publicacao: 2021-12-02
+edicao: "226"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-mcom-n-4.201-de-30-de-novembro-de-2021-364246229"
+sha256_html_fonte: e3c5b7b545e3d460f2b28c8c72f471c6b14781cb66ad49924f7f5d8f026f68e1
+baixado_em: 2026-10-21
+---
+# PORTARIA MCOM Nº 4.201, DE 30 DE NOVEMBRO DE 2021
+
+PORTARIA MCOM Nº 4.201, DE 30 DE NOVEMBRO DE 2021
+
+Realoca Cargo em Comissão e Função de Confiança no âmbito do Ministério das Comunicações.
+
+O MINISTRO DE ESTADO DAS COMUNICAÇÕES, no uso das atribuições que lhe confere o art. 87, parágrafo único, incisos I e II, da Constituição Federal, e tendo em vista o disposto no art. 17 do Decreto nº 9.739, de 28 de março de 2019, e no art. 6º, do Decreto nº 10.747, de 13 de julho de 2021, resolve:
+
+**Art. 1º** Realocar, no âmbito do Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério das Comunicações, os seguintes Cargos em Comissão e Função de Confiança:
+
+I - uma Função Comissionada do Poder Executivo, código FCPE 102.3, de Assessor Técnico, da Coordenação-Geral do Gabinete do Ministro, do Gabinete do Ministro, para a Assessoria Especial de Controle Interno; e
+
+II - um Cargo em Comissão do Grupo-Direção e Assessoramento Superiores, código DAS 101.3, de Coordenador, da Coordenação de Procedimentos Correcionais, da Corregedoria, da Assessoria Especial de Controle Interno, para a Coordenação-Geral do Gabinete do Ministro, do Gabinete do Ministro.
+
+**Art. 2º** As alterações decorrentes desta Portaria deverão ser refletidas no regimento interno e nas alterações futuras do decreto de aprovação de estrutura regimental, conforme Anexo desta Portaria, no Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério.
+
+**Art. 3º** Esta Portaria entra em vigor sete dias após a data de sua publicação.
+
+FÁBIO FARIA
+
+## ANEXO
+
+ALTERAÇÕES DO QUADRO DEMONSTRATIVO DE CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DAS COMUNICAÇÕES
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="4"><p>QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DAS COMUNICAÇÕES</p></td>      <td rowspan="1" colspan="4"><p>QUADRO DEMONSTRATIVO DE CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DAS COMUNICAÇÕES APÓS ALOCAÇÃO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>UNIDADE</p></td>      <td rowspan="1" colspan="1"><p>CARGO/FUNÇÃO</p></td>      <td rowspan="1" colspan="1"><p>DENOMINAÇÃO</p></td>      <td rowspan="1" colspan="1"><p>DAS/FCPE/FG</p></td>      <td rowspan="1" colspan="1"><p>UNIDADE</p></td>      <td rowspan="1" colspan="1"><p>CARGO/FUNÇÃO</p></td>      <td rowspan="1" colspan="1"><p>DENOMINAÇÃO</p></td>      <td rowspan="1" colspan="1"><p>DAS/FCPE/FG</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>GABINETE</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>GABINETE</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Coordenação-Geral do Gabinete do Ministro</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>Coordenação-Geral do Gabinete do Ministro</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Assessor Técnico</p></td>      <td rowspan="1" colspan="1"><p>FCPE 102.3</p></td>      <td rowspan="1" colspan="1"><p>Coordenação de Serviços do Gabinete</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>DAS 101.3</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>ASSESSORIA ESPECIAL DE CONTROLE INTERNO</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>ASSESSORIA ESPECIAL DE CONTROLE INTERNO</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Corregedoria</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>Corregedoria</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Coordenação de Procedimentos Correcionais</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Coordenador</p></td>      <td rowspan="1" colspan="1"><p>DAS 101.3</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>Assessor Técnico</p></td>      <td rowspan="1" colspan="1"><p>FCPE 102.3</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p></p></td>     </tr>    </tbody>   </table>

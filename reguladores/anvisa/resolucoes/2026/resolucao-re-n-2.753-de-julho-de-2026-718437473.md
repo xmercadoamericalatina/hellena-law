@@ -1,0 +1,177 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.753, DE JULHO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2753"
+data: 2026-07-13
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 13/07/2026, seção 1, p. 222"
+data_publicacao: 2026-07-13
+edicao: "129"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.753-de-julho-de-2026-718437473"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 2.753, DE JULHO DE 2026
+
+RESOLUÇÃO-RE nº 2.753, DE JULHO DE 2026
+
+A GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021;
+
+Considerando o cumprimento dos requisitos dispostos no art. 39, da Resolução da Diretoria Colegiada - RDC nº 497, de 20 de maio de 2021, resolve:
+
+**Art. 1º** Renovar a Certificação de Boas Práticas de Fabricação de Medicamentos das empresas constantes no anexo, por meio de sua renovação automática.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RENATA DE LIMA SOARES
+
+## ANEXO
+
+EMPRESA: NOVAMED FABRICAÇÃO DE PRODUTOS FARMACEUTICOS LTDA - CNPJ: 12.424.020/0001-79 - AUTORIZ/MS: 1106472
+
+ENDEREÇO: Av. Torquato Tapajós, 17.703
+
+MUNICÍPIO: MANAUS - UF: AM - EXPEDIENTE: 1593650/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos; Comprimidos Revestidos; Cápsulas
+
+.........................................
+
+EMPRESA: messer GASES LTDA - CNPJ: 60.619.202/0014-62 - AUTORIZ/MS: 2200005
+
+ENDEREÇO: AV PARQUE OESTE, S/N - DISTRITO IDUSTRIAL
+
+MUNICÍPIO: MARACANAÚ - UF: CE - EXPEDIENTE: 1568435/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais: Gás
+
+Data de Vencimento: 15/07/2028
+
+.........................................
+
+EMPRESA FABRICANTE: TEVA PHARMACEUTICAL INDUSTRIES LTD.
+
+ENDEREÇO: 18, ELI HURVITZ STREET, INDUSTRIAL ZONE, KFAR SABA 4410202 - PAÍS: ISRAEL - CÓDIGO ÚNICO: A.000609
+
+EMPRESA SOLICITANTE: TEVA FARMACÊUTICA LTDA. - CNPJ: 05.333.542/0001-08
+
+AUTORIZ/MS: 1055731 - EXPEDIENTE(s): 0036653/26-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 15/07/2028
+
+.........................................
+
+EMPRESA FABRICANTE: BAXTER HEALTHCARE CORPORATION
+
+ENDEREÇO: 21026 ALEXANDER COURT, HAYWARD, CA 94545 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000074
+
+EMPRESA SOLICITANTE: BAXTER HOSPITALAR LTDA - CNPJ: 49.351.786/0002-61
+
+AUTORIZ/MS: 1006839 - EXPEDIENTE(s): 1637017/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós com Esterilização Terminal
+
+Data de Vencimento: 15/07/2028
+
+.........................................
+
+EMPRESA FABRICANTE: BOEHRINGER INGELHEIM PROMECO S.A. DE C.V.
+
+ENDEREÇO: CALLE DEL MAIZ NO. 49, COL. BARRIO XALTOCAN, XOCHIMILCO, DISTRITO FEDERAL, C. P. 16090 - PAÍS: MÉXICO - CÓDIGO ÚNICO: A.001140
+
+EMPRESA SOLICITANTE: BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUTICA LTDA. - CNPJ: 60.831.658/0001-77
+
+AUTORIZ/MS: 1003678 - EXPEDIENTE(s): 1597749/25-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+Data de Vencimento: 15/07/2028
+
+.........................................
+
+EMPRESA FABRICANTE: COHANCE LIFESCIENCES LIMITED
+
+ENDEREÇO: PLOT NO. A-19/C, A-23A & A-23B, ROAD NO. 18, IDA, NACHARAM VILLAGE, UPPAL MANDAL, MEDCHAL - MALKAJGIRI DISTRICT - 500076, TELANGANA STATE, - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001672
+
+EMPRESA SOLICITANTE: EMS S/A - CNPJ: 57.507.378/0003-65
+
+AUTORIZ/MS: 1002351 - EXPEDIENTE(s): 1623262/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas (pellets)
+
+Data de Vencimento: 15/07/2028
+
+.........................................
+
+EMPRESA FABRICANTE: WATSON PHARMA PRIVATE LIMITED
+
+ENDEREÇO: A3 TO A6, PHASE 1-A, VERNA INDUSTRIAL ESTATE, VERNA, GOA - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001026
+
+EMPRESA SOLICITANTE: TEVA FARMACÊUTICA LTDA. - CNPJ: 05.333.542/0001-08
+
+AUTORIZ/MS: 1055731 - EXPEDIENTE(s): 0041485/26-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+Data de Vencimento: 15/07/2028
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT PHARMA SOLUTIONS, L.L.C.
+
+ENDEREÇO: 2725 SCHERER DRIVE NORTH, ST. PETERSBURG, FLORIDA (FL) 33716-1016 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000139
+
+EMPRESA SOLICITANTE: ASTELLAS FARMA BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO DE MEDICAMENTOS LTDA. - CNPJ: 07.768.134/0001-04
+
+AUTORIZ/MS: 1077171 - EXPEDIENTE(s): 1596402/25-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas Moles
+
+Data de Vencimento: 15/07/2028
+
+.........................................
+
+EMPRESA FABRICANTE: CENEXI FONTENAY SOUS BOIS
+
+ENDEREÇO: 52, RUE MARCEL ET JACQUES GAUCHER, 94120, FONTENAY-SOUS-BOIS - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000144
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 1608414/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Data de Vencimento: 15/07/2028
+
+.........................................
+
+EMPRESA FABRICANTE: MEDIPHARM LABS INC.
+
+ENDEREÇO: 151 JOHN STREET - L4N2L1 - PAÍS: CANADÁ - CÓDIGO ÚNICO: A.001582
+
+EMPRESA SOLICITANTE: LABORATÓRIO TEUTO BRASILEIRO S/A - CNPJ: 17.159.229/0001-76
+
+AUTORIZ/MS: 1003707 - EXPEDIENTE(s): 1608625/25-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+Data de Vencimento: 15/07/2028
+
+.........................................
+
+EMPRESA FABRICANTE: ONESOURCE SPECIALTY PHARMA LIMITED
+
+ENDEREÇO: 152/6 & 154/16 DORESANIPALYA, BILEKAHALLI, BANNERGHATTA ROAD, BANGALORE 560 076 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000598
+
+EMPRESA SOLICITANTE: VIATRIS FARMACEUTICA DO BRASIL LTDA - CNPJ: 11.643.096/0001-22
+
+AUTORIZ/MS: 1088307 - EXPEDIENTE(s): 1497461/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Penicilínicos): Pós com Preparação Asséptica
+
+Data de Vencimento: 15/07/2028
+
+.........................................

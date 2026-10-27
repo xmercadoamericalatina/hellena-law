@@ -1,0 +1,258 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.694, DE 21 DE novembro DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "4694"
+data: 2025-11-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/11/2025, seção 1, p. 239"
+data_publicacao: 2025-11-24
+edicao: "223"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.694-de-21-de-novembro-de-2025-670484946"
+baixado_em: 2026-10-16
+sha256_html_fonte: 6e9f3c8b1db545f17cb6062fecae2c8eb695b07bbdd82c1373646ba2f1a9ae08
+---
+# RESOLUÇÃO-RE Nº 4.694, DE 21 DE novembro DE 2025
+
+RESOLUÇÃO-RE Nº 4.694, DE 21 DE novembro DE 2025
+
+A GERENTE-GERAL DE ALIMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 96, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Deferir as petições relacionadas à Gerência-Geral de Alimentos, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRÍCIA FERNANDES NANTES DE CASTILHO
+
+## ANEXO
+
+Número da Listagem: 723125
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO
+
+MARCA
+
+NUMERO DO PROCESSO / VENCIMENTO DO REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+DESCRIÇÃO DA APRESENTAÇÃO
+
+REGISTRO
+
+PRAZO DE VALIDADE DA APRESENTAÇÃO
+
+EMBALAGEM PRIMÁRIA
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+DANONE LTDA. / 23.643.315/0115-10
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.560278/2012-56 / 06/2028
+
+456 - Alteração de Rotulagem / 1334588/25-2
+
+\*\*\*
+
+6657701040011
+
+12 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+DANONE LTDA. / 23.643.315/0115-10
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.527816/2009-71 / 01/2030
+
+456 - Alteração de Rotulagem / 1334575/25-8
+
+MORANGO
+
+6657700710013
+
+12 Meses
+
+PLASTICO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.907048/2024-77 / 09/2029
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 1331179/25-4
+
+APRESENTAÇÃO 1
+
+6204799960010
+
+15 Meses
+
+ELASTOMERICA / METALICA / PLASTICA
+
+APRESENTAÇÃO 2
+
+6204799960029
+
+15 Meses
+
+ELASTOMERICA / METALICA / PLASTICA / garrafa
+
+APRESENTAÇÃO 3
+
+6204799960037
+
+15 Meses
+
+ELASTOMERICA / METALICA / PLASTICA / garrafa
+
+APRESENTAÇÃO 4
+
+6204799960045
+
+15 Meses
+
+ELASTOMERICA / METALICA / PLASTICA / garrafa
+
+APRESENTAÇÃO 5
+
+6204799960053
+
+15 Meses
+
+ELASTOMERICA / METALICA / PLASTICA / garrafa
+
+APRESENTAÇÃO 6
+
+6204799960061
+
+15 Meses
+
+ELASTOMERICA / METALICA / PLASTICA / garrafa
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA RECÉM-NASCIDOS PRÉ-TERMO E/OU DE ALTO RISCO
+
+25351.308159/2020-72 / 11/2025
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0982378/25-4
+
+Apresentação 1
+
+6596501320015
+
+24 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA RECÉM-NASCIDOS PRÉ-TERMO E/OU DE ALTO RISCO
+
+25351.308159/2020-72 / 11/2025
+
+4124 - Cancelamento de Registro de Apresentação / 1304138/25-0
+
+MÉXICO
+
+6596501320023
+
+24 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+ESTADOS UNIDOS
+
+6596501320031
+
+24 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+ALEMANHA
+
+6596501320041
+
+24 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+PRODIET NUTRIÇÃO CLINICA S.A. / 08.183.359/0001-53
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL E ORAL
+
+APROVADA: TROPHIC 1.5 FIBER SOY/TROPHIC 1.5 FIBER SOYA/TROPHIC 1.5 SOY DF/TROPHIC 1.5 SOY FIBER/TROPHIC 1.5 SOY MF/TROPHIC 1.5 SOY MULTI/TROPHIC 1.5 SOYA DF/TROPHIC 1.5 SOYA FIBER/TROPHIC 1.5 SOYA MF/TROPHIC 1.5 SOYA MULTI/TROPHIC FIBER 1.5 SOY/TROPHIC FIBER 1.5 SOYA/TROPHIC FIBER SOY 1.5/TROPHIC FIBER SOYA 1.5/TROPHIC SOY 1.5 DF/TROPHIC SOY 1.5 FIBER/TROPHIC SOY 1.5 MF/TROPHIC SOY 1.5 MULTI/TROPHIC SOY FIBER 1.5/TROPHIC SOYA 1.5 DF/TROPHIC SOYA 1.5 FIBER/TROPHIC SOYA 1.5 MF/TROPHIC SOYA 1.5 MULTI/TROPHIC SOYA FIBER 1.5
+
+25351.043755/2025-14 / 10/2030
+
+4054 - Retificação de publicação de registro - Anvisa / 1505037/25-8
+
+APRESENTAÇÃO 1
+
+6632000360014
+
+12 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / caixa
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+PRODIET NUTRIÇÃO CLINICA S.A. / 08.183.359/0001-53
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.184215/2015-17 / 11/2030
+
+4095 - Revalidação de registro de fórmulas padrão para nutrição enteral / 1061065/25-1
+
+APRESENTAÇÃO 1
+
+6632000150011
+
+12 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / caixa
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+PRODIET NUTRIÇÃO CLINICA S.A. / 08.183.359/0001-53
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.184306/2015-22 / 02/2026
+
+456 - Alteração de Rotulagem / 0900646/25-0
+
+APRESENTAÇÃO 1
+
+6632000160015
+
+12 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / caixa
+
+APRESENTAÇÃO 2
+
+6632000160023
+
+12 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / caixa

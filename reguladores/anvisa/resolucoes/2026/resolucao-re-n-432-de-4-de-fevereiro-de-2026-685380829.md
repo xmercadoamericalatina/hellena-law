@@ -1,0 +1,121 @@
+---
+titulo: "RESOLUÇÃO-RE nº 432, DE 4 DE FEVEREIRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "432"
+data: 2026-02-04
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 05/02/2026, seção 1, p. 93"
+data_publicacao: 2026-02-05
+edicao: "25"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-432-de-4-de-fevereiro-de-2026-685380829"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 432, DE 4 DE FEVEREIRO DE 2026
+
+RESOLUÇÃO-RE nº 432, DE 4 DE FEVEREIRO DE 2026
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Cancelar as Autorizações de Funcionamento e Autorizações Especiais constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+FARMÁCIA VIVEZA LTDA / 43.171.584/0001-70
+
+25351.398247/2022-10 / 7936330
+
+COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISPENSAÇÃO DE MEDICAMENTOS NÃO SUJEITOS AO CONTROLE ESPECIAL
+
+MANIPULAÇÃO DE PRODUTOS MAGISTRAIS: -
+
+MANIPULAÇÃO DE PRODUTOS OFICINAIS: -
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS: -
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0111792266
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGARIA UNICA FARMA LTDA ME / 20.682.768/0004-42
+
+25351.758036/2015-11 / 7429182
+
+COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+DISPENSAÇÃO DE PLANTAS MEDICINAIS: -
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0108894266
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FERNANDEZ COMÉRCIO DE MEDICAMENTOS S.A / 93.641.710/0066-27
+
+25351.435383/2021-17 / 7805450
+
+COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+DISPENSAÇÃO DE PLANTAS MEDICINAIS: -
+
+FRACIONAMENTO: -
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS: -
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0109921267
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+OSHADHI BRASIL IMPORTACAO E EXPORTACAO LTDA / 35.758.646/0001-17
+
+25351.045504/2021-32 / 4030263
+
+ARMAZENAR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE
+
+DISTRIBUIR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE
+
+EXPEDIR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE
+
+IMPORTAR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE
+
+729 - AFE - CANCELAMENTO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE / 0111637261
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+Agena Resinas e Colas Ltda / 33.632.464/0001-70
+
+25991.009504/77 / 3000724
+
+FABRICAR: SANEANTE DOMIS.
+
+719 - AFE - CANCELAMENTO - SANEANTES DOMISSANITÁRIOS / 0113473265
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.

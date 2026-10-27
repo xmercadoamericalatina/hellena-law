@@ -1,0 +1,42 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.790, de 25 de setembro de 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Registro e Fiscalização de Produtos Fumígenos Derivados ou Não do Tabaco"
+tipo: "Resolução"
+numero: "3790"
+data: 2025-09-25
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 29/09/2025, seção 1, p. 78"
+data_publicacao: 2025-09-29
+edicao: "185"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.790-de-25-de-setembro-de-2025-658738397"
+baixado_em: 2026-10-16
+sha256_html_fonte: 45cb37452b337cdd1d872c675fac0531dde2dc4cdc4df5939ce306cefa695484
+---
+# RESOLUÇÃO-RE nº 3.790, de 25 de setembro de 2025
+
+RESOLUÇÃO-RE nº 3.790, de 25 de setembro de 2025
+
+A GERENTE-GERAL DE REGISTRO E FISCALIZAÇÃO DE PRODUTOS FUMÍGENOS DERIVADOS OU NÃO DO TABACO DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 127, aliado ao disposto no art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e tendo em vista o disposto na Resolução da Diretoria Colegiada nº 896, de 27 de agosto de 2024, resolve:
+
+**Art. 1º** Cancelar por caducidade o Registro de Produto Fumígeno Derivado do Tabaco da marca, conforme anexo, por não ter sido peticionada a renovação de registro no prazo determinado na legislação sanitária em vigor.
+
+**Art. 2º** A empresa terá o prazo, improrrogável, de 30 (trinta) dias para recolhimento do produto em todos os pontos de venda do território brasileiro.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+STEFANIA SCHIMANESKI PIRAS
+
+## ANEXO
+
+BTX BRAZILIAN TOBACCO EXPRESS LTDA
+
+CNPJ: 19.456.843/0001-25
+
+Marca: SASSO TAB (fumo desfiado)
+
+Processo: 25351.168000/2023-51
+
+Vencimento: 25/09/2025
+
+Assunto: 6012 - Cancelamento do Registro por Caducidade

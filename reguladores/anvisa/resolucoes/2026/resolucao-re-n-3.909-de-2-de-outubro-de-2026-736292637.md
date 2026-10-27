@@ -1,0 +1,89 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.909, DE 2 DE OUTUBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "3909"
+data: 2026-10-02
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 05/10/2026, seção 1, p. 106"
+data_publicacao: 2026-10-05
+edicao: "188"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.909-de-2-de-outubro-de-2026-736292637"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 3.909, DE 2 DE OUTUBRO DE 2026
+
+RESOLUÇÃO-RE nº 3.909, DE 2 DE OUTUBRO DE 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Publicar o cancelamento de registro da apresentação a pedido dos medicamentos similares, genéricos e novos, sob o nº de expedientes constantes do anexo desta Resolução, nos termos do art. 51 da Lei nº. 9.784, de 1999.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+RAZÃO SOCIAL CNPJ
+
+MARCA COMERCIAL Nº PROCESSO EXPEDIENTE CANCELAMENTO M.S.
+
+--------------------------------------------------
+
+ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA - 02.433.631/0001-20
+
+NAROPIN 25351.022569/2017-06 1004521/26-0 1376401570015
+
+--------------------------------------------------
+
+COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. - 61.082.426/0002-07
+
+HIDANTAL 25351.497236/2022-11 0992012/26-1 1781709380050
+
+--------------------------------------------------
+
+EMS S/A - 57.507.378/0003-65
+
+maleato de dexclorfeniramina 25351.204138/2016-01 1010246/26-9 1023511910015 1023511910023 1023511910031
+
+POLAPIC 25351.849753/2018-02 1010240/26-0 1023513390019 1023513390027 1023513390035
+
+--------------------------------------------------
+
+EUROFARMA LABORATORIOS S.A. - 61.190.096/0001-92
+
+atenolol + clortalidona 25351.353317/2005-18 0962826/26-0 1004309510102 1004309510110 1004309510145 1004309510153
+
+DIUBLOCK 25351.203164/2025-02 0973814/26-2 1004315730100 1004315730119 1004315730143 1004315730151
+
+--------------------------------------------------
+
+LEGRAND PHARMA INDUSTRIA FARMACEUTICA LTDA - 05.044.984/0001-26
+
+maleato de dexclorfeniramina 25351.674687/2010-22 1007180/26-9 1677302640012 1677302640020 1677302640039
+
+--------------------------------------------------
+
+LEO PHARMA LTDA - 11.424.477/0001-10
+
+ADVANTAN 25351.711143/2019-18 0912322/26-8 1856900100062
+
+--------------------------------------------------
+
+MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - 92.265.552/0009-05
+
+FENIRAX 25351.101428/2019-38 1010238/26-8 1181901940011 1181901940028 1181901940036
+
+--------------------------------------------------
+
+OPELLA HEALTHCARE BRAZIL LTDA - 38.391.432/0001-43
+
+DULCOLAX 25351.617278/2023-66 0940437/26-1 1862000200014 1862000200022 1862000200030 1862000200049 1862000200057 1862000200065 1862000200073 1862000200081 1862000200091 1862000200103 1862000200111 1862000200121 1862000200138 1862000200146 1862000200154 1862000200162 1862000200170 1862000200189 1862000200197 1862000200200 1862000200219 1862000200227 1862000200235 1862000200243 1862000200251
+
+--------------------------------------------------
+
+RECORDATI RARE DISEASES COMÉRCIO DE MEDICAMENTOS LTDA - ME - 53.056.057/0001-79
+
+UPELIOR 25351.324951/2020-74 0976897/26-1 1712600040041 1712600040058 1712600040066

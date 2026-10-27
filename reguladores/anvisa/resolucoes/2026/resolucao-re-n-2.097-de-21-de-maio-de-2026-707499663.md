@@ -1,0 +1,181 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.097, DE 21 DE MAIO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "2097"
+data: 2026-05-21
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 25/05/2026, seção 1, p. 83"
+data_publicacao: 2026-05-25
+edicao: "96"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.097-de-21-de-maio-de-2026-707499663"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 2.097, DE 21 DE MAIO DE 2026
+
+RESOLUÇÃO-RE nº 2.097, DE 21 DE MAIO DE 2026
+
+A GERENTE-GERAL DE ALIMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 96, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Deferir as petições relacionadas à Gerência-Geral de Alimentos, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRÍCIA FERNANDES NANTES DE CASTILHO
+
+## ANEXO
+
+NÚMERO DA LISTAGEM: 365526
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO
+
+MARCA
+
+NUMERO DO PROCESSO / VENCIMENTO DO REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+DESCRIÇÃO DA APRESENTAÇÃO
+
+REGISTRO
+
+PRAZO DE VALIDADE DA APRESENTAÇÃO
+
+EMBALAGEM PRIMÁRIA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+DANONE LTDA. / 23.643.315/0115-10
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL
+
+25351.737850/2021-41 / 10/2031
+
+4095 - REVALIDAÇÃO DE REGISTRO DE FÓRMULAS PADRÃO PARA NUTRIÇÃO ENTERAL / 0431713/26-0
+
+\*\*\*
+
+6657701760014
+
+12 MESES
+
+CELULOSICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL
+
+25004.120425/2006-29 / 11/2026
+
+456 - ALTERAÇÃO DE ROTULAGEM / 0327590/26-2
+
+APRESENTAÇÃO 1
+
+6204799600030
+
+15 MESES
+
+PLASTICO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL
+
+25004.120425/2006-29 / 11/2026
+
+4124 - CANCELAMENTO DE REGISTRO DE APRESENTAÇÃO / 0470943/26-8
+
+ALEMANHA
+
+6204799600022
+
+15 MESES
+
+PLASTICO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL
+
+25004.120425/2006-29 / 11/2031
+
+4095 - REVALIDAÇÃO DE REGISTRO DE FÓRMULAS PADRÃO PARA NUTRIÇÃO ENTERAL / 0349281/26-2
+
+APRESENTAÇÃO 1
+
+6204799600030
+
+15 MESES
+
+PLASTICO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+PRLV INDUSTRIA DE SUPLEMENTOS ALIMENTARES LTDA / 33.089.180/0002-60
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.738217/2019-55 / 07/2030
+
+456 - ALTERAÇÃO DE ROTULAGEM / 0338584/26-9
+
+APRESENTAÇÃO 1
+
+6749400040018
+
+12 MESES
+
+METALICA / PLASTICA
+
+APRESENTAÇÃO 2
+
+6749400040026
+
+12 MESES
+
+CELULOSICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+PRODIET NUTRIÇÃO CLINICA S.A. / 08.183.359/0001-53
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.016169/2015-83 / 06/2027
+
+4124 - CANCELAMENTO DE REGISTRO DE APRESENTAÇÃO / 0481595/26-5
+
+CASTRO/PR
+
+6632000200033
+
+12 MESES
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+PRODIET NUTRIÇÃO CLINICA S.A. / 08.183.359/0001-53
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.016169/2015-83 / 06/2027
+
+4172 - ADEQUAÇÃO DE PRODUTO REGISTRADO À RDC 843/2024 / 0415679/26-5
+
+APRESENTAÇÃO 1
+
+6632000200017
+
+12 MESES
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / CAIXA

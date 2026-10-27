@@ -1,0 +1,56 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 751, DE 23 DE FEVEREIRO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "751"
+data: 2024-02-23
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 26/02/2024, seção 1, p. 155"
+data_publicacao: 2024-02-26
+edicao: "38"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-751-de-23-de-fevereiro-de-2024-544759466"
+sha256_html_fonte: f325266ab9d3b8ca72e39539023975c9881f62159c1cfa62df9c04cc22807471
+baixado_em: 2026-10-16
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 751, DE 23 DE FEVEREIRO DE 2024
+
+<div class="texto-dou"><html>
+ <head></head>
+ <body>
+  <p class="identifica">RESOLUÇÃO-RE Nº 751, DE 23 DE FEVEREIRO DE 2024</p>
+  <p class="dou-paragraph" >O GERENTE-GERAL DE PORTOS, AEROPORTOS, FRONTEIRAS E RECINTOS ALFANDEGADOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 160, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada -RDC nº 585, de 10 de dezembro de 2021, resolve:</p>
+  <p class="dou-paragraph" >Art. 1º Indeferir o pedido de Autorização de Funcionamento das Empresas prestadoras de serviços em Portos, Aeroportos, Fronteiras e Recintos Alfandegados conforme anexo desta Resolução.</p>
+  <p class="dou-paragraph" >Art. 2° Esta Resolução entra em vigor na data de sua publicação.</p>
+  <p class="assina">BRUNO GONÇALVES ARAÚJO RIOS</p>
+  <p class="anexo">ANEXO</p>
+  <p class="dou-paragraph" >VISION - ENGENHARIA E CONTROLE DE QUALIDADE LTDA / 18.525.750/0001-42</p>
+  <p class="dou-paragraph" >25351.595337/2023-38 /</p>
+  <p class="dou-paragraph" >9083 - PAF - AFE DE PRESTADORA DE SERVIÇO DE SEGREGAÇÃO, COLETA, ACONDICIONAMENTO, ARMAZENAMENTO, TRANSPORTE, TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS RESULTANTES DE AERONAVES, VEÍCULOS TERRESTRES EM TRÂNSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRA, EMBARCAÇÕES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ALFANDEGADOS DE USO PÚBLICO E ESTAÇÕES E PASSAGENS DE FRONTEIRA / 0964518236</p>
+  <p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p>
+  <p class="dou-paragraph" >A EMPRESA NÃO PROTOCOLOU O CUMPRIMENTO DA EXIGÊNCIA 1041266/23-2, EM DESACORDO COM O ARTIGO 11 DA RDC Nº 204/2005.</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ALPHA SECURE MÃO DE OBRA E FACILIDADES LTDA / 09.172.858/0001-08</p>
+  <p class="dou-paragraph" >25351.728797/2023-59 /</p>
+  <p class="dou-paragraph" >9041 - PAF - AFE DE PRESTADORA DE SERVIÇO DE LIMPEZA, DESINFECÇÃO E DESCONTAMINAÇÃO DE SUPERFÍCIES DE AERONAVES, VEÍCULOS TERRESTRES EM TRÂNSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRA, EMBARCAÇÕES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ADUANEIROS DE USO PÚBLICO E ESTAÇÃO E PASSAGEM DE FRONTEIRAS / 1197738231</p>
+  <p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p>
+  <p class="dou-paragraph" >A EMPRESA NÃO CUMPRIU OS ITENS 1 E 3, DA EXIGÊNCIA N° 1283328/23-2. NÃO APRESENTOU ASSINATURA DIGITAL DE SEU RESPONSÁVEL TÉCNICO NO FORMULÁRIO DE PETIÇÃO NEM NO RELATÓRIO DESCRITIVO DOS MAQUINÁRIOS E EQUIPAMENTOS, DESCUMPRINDO OS ITENS 01 E 09, DO ANEXO III, DA RDC 345/02, BEM COMO ARTIGO 10, DA RDC 470/21 C/C ART. 2º - A, §8º, DA LEI Nº 12.682/2012.</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >RENATO MACHADO DA SILVA / 33.698.128/0001-20</p>
+  <p class="dou-paragraph" >25351.033863/2024-90 /</p>
+  <p class="dou-paragraph" >9027 - PAF - AFE DE PRESTADORA DE SERVIÇO DE ABASTECIMENTO DE ÁGUA POTÁVEL PARA CONSUMO HUMANO A BORDO DE AERONAVES, EMBARCAÇÕES E VEÍCULOS TERRESTRES QUE OPERAM TRANSPORTE COLETIVO INTERNACIONAL DE PASSAGEIROS / 0189112247</p>
+  <p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p>
+  <p class="dou-paragraph" >NÃO FOI ANEXADO CERTIFICADO DE REGULARIDADE OU TERMO DE RESPONSABILIDADE OU DECLARAÇÃO DE VINCULAÇÃO DO RESPONSÁVEL TÉCNICO, EMITIDO PELA ENTIDADE REGULADORA DA ATIVIDADE DO EXERCÍCIO PROFISSIONAL, COMPROVANDO SEU VÍNCULO COM O ESTABELECIMENTO SOLICITANTE E ESPECIFICANDO AS ATIVIDADES PLEITEADAS, EXIGIDO NO ITEM 08 DO ANEXO III DA RDC 345/02, CONSIDERANDO OS INCISOS E PARÁGRAFOS DO ARTIGO 2° DA RDC N° 204/2005.</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >A.H.CASTRO SERVIÇOS TÉCNICOS DE SANEAMENTO LTDA / 08.085.884/0001-36</p>
+  <p class="dou-paragraph" >25351.628486/2023-91 /</p>
+  <p class="dou-paragraph" >9083 - PAF - AFE DE PRESTADORA DE SERVIÇO DE SEGREGAÇÃO, COLETA, ACONDICIONAMENTO, ARMAZENAMENTO, TRANSPORTE, TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS RESULTANTES DE AERONAVES, VEÍCULOS TERRESTRES EM TRÂNSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRA, EMBARCAÇÕES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ALFANDEGADOS DE USO PÚBLICO E ESTAÇÕES E PASSAGENS DE FRONTEIRA / 1016207239</p>
+  <p class="dou-paragraph" >MOTIVO DO INDEFERIMENTO:</p>
+  <p class="dou-paragraph" >A EMPRESA NÃO CUMPRIU INTEGRALMENTE AO ITEM 3 DAS NOTIFICAÇÕES DE EXIGÊNCIAS 1076750/23-9 E 0039027/24-5. A EMPRESA NÃO APRESENTOU "DECLARAÇÃO IDENTIFICANDO OS LOCAIS (ENDEREÇO COMPLETO), ONDE SÃO DISPOSTOS OS RESÍDUOS RECOLHIDOS (DOCUMENTO TÉCNICO)", NÃO ATENDENDO AO ITEM 13, DO ANEXO III, DA RDC 345/02.</p>
+ </body>
+</html></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

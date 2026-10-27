@@ -1,0 +1,670 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.727, DE 21 DE NOVEMBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "4727"
+data: 2025-11-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/11/2025, seção 1, p. 272"
+data_publicacao: 2025-11-24
+edicao: "223"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.727-de-21-de-novembro-de-2025-670501786"
+baixado_em: 2026-10-16
+sha256_html_fonte: f21a576d360cb8ee25d1c25aebf36f8aff339688ee05424c32903a268164e68c
+---
+# RESOLUÇÃO-RE Nº 4.727, DE 21 DE NOVEMBRO DE 2025
+
+RESOLUÇÃO-RE Nº 4.727, DE 21 DE NOVEMBRO DE 2025
+
+A GERENTE-GERAL SUBSTITUTA DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021,
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Renovar a Certificação de Boas Práticas de Fabricação de Medicamentos das empresas constantes no ANEXO.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+FERNANDA MACIEL REBELO
+
+## ANEXO
+
+EMPRESA FABRICANTE: BIOTEST AG
+
+ENDEREÇO: LANDSTEINERSTRASSE 5, 63303 DREIEICH. - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000111
+
+EMPRESA SOLICITANTE: GRIFOLS BRASIL LTDA - CNPJ: 02.513.899/0001-71
+
+AUTORIZ/MS: 1036417 - EXPEDIENTE(s): 0889091/25-1
+
+Produtos estéreis: Soluções Parenterais de Grande Volume com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data do vencimento: 08/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: ASPEN BAD OLDESLOE GMBH
+
+ENDEREÇO: INDUSTRIESTRASSE 32-36, 23843, BAD OLDESLOE - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000260
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0574229/25-6
+
+Líquidos não estéreis: Emulsões; Soluções
+
+Data do vencimento: 08/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: HETERO LABS LIMITED, UNIT VI
+
+ENDEREÇO: SY. NO. 410-411, TSIIC FORMULATION SEZ, POLEPALLE VILLAGE, JADCHERLA MANDAL, MAHABOOBNAGAR-DISTRICT, TELANGANA, INDIA - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001276
+
+EMPRESA SOLICITANTE: Camber Farmaceutica Ltda - CNPJ: 24.633.934/0001-29
+
+AUTORIZ/MS: 1165077 - EXPEDIENTE(s): 0837516/25-1
+
+Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data do vencimento: 08/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: GSK VACCINES GMBH
+
+ENDEREÇO: EMIL-VON-BEHRING-STR. 76 UND 79, 35041 MARBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.001390
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0536289/25-5
+
+Produtos estéreis (Granel): Pós Liofilizados; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data do vencimento: 08/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: ORGANON PHARMA (UK) LTD
+
+ENDEREÇO: SHOTTON LANE, CRAMLINGTON, NORTHUMBERLAND NE23 3JU - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.000413
+
+EMPRESA SOLICITANTE: ORGANON FARMACÊUTICA LTDA. - CNPJ: 45.987.013/0001-34
+
+AUTORIZ/MS: 1000290 - EXPEDIENTE(s): 0562423/25-7
+
+Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+Data do vencimento: 08/01/2028
+
+.........................................
+
+EMPRESA: PHARMASCIENCE INDUSTRIA FARMACEUTICA S.A - CNPJ: 25.773.037/0001-83 - AUTORIZ/MS: 1017173
+
+ENDEREÇO: RUA TEXACO, N° 640
+
+MUNICÍPIO: BETIM - UF: MG - EXPEDIENTE: 0790932/25-3
+
+Líquidos não estéreis: Emulsões; Líquidos; Soluções; Suspensões; Xampus; Xaropes; Óleos
+
+Data do vencimento: 08/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: IPSEN BIOPHARM LTD.
+
+ENDEREÇO: ASH ROAD, WREXHAM INDUSTRIAL ESTATE, WREXHAM, CLWYD, LL13 9UF - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.000322
+
+EMPRESA SOLICITANTE: BEAUFOUR IPSEN FARMACÊUTICA LTDA - CNPJ: 07.718.721/0001-80
+
+AUTORIZ/MS: 1069773 - EXPEDIENTE(s): 0537279/25-3
+
+Produtos estéreis: Pós Liofilizados
+
+Data do vencimento: 08/01/2028
+
+.........................................
+
+EMPRESA: PHARMASCIENCE INDUSTRIA FARMACEUTICA S.A - CNPJ: 25.773.037/0001-83 - AUTORIZ/MS: 1017173
+
+ENDEREÇO: RUA TEXACO, N° 640
+
+MUNICÍPIO: BETIM - UF: MG - EXPEDIENTE: 0791104/25-7
+
+Sólidos não estéreis: Comprimidos; Comprimidos Revestidos; Cápsulas; Granulados; Pós; Pós Efervescentes
+
+Data do vencimento: 08/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: ID BIOMEDICAL CORPORATION OF QUEBEC
+
+ENDEREÇO: 2323 PARC TECHNOLOGIQUE BOULEVARD, SÁINTE FOY, QC, G1P 4R8 - PAÍS: CANADÁ - CÓDIGO ÚNICO: A.000313
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0575353/25-2
+
+Produtos estéreis (Granel): Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data do vencimento: 08/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: IPSEN PHARMA BIOTECH
+
+ENDEREÇO: PARC D'ACTIVITÉS DU PLATEAU DE SIGNES, CHEMIN DÉPARTEMENTAL NO 402, 83870 - SIGNES - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000323
+
+EMPRESA SOLICITANTE: BEAUFOUR IPSEN FARMACÊUTICA LTDA - CNPJ: 07.718.721/0001-80
+
+AUTORIZ/MS: 1069773 - EXPEDIENTE(s): 0643250/25-5
+
+Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Data do vencimento: 08/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: BIOLOGICAL E. LIMITED
+
+ENDEREÇO: PLOT NO.4, SURVEY NO. 542/P, BIOTECH PARK, PHASE-II, KOLTHUR VILLAGE - 500 078, SHAMEERPET MANDAL, MEDCHAL-MALKAJGIRI DISTRICT, TELANGANA STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001424
+
+EMPRESA SOLICITANTE: FARMA VISION IMPORTAÇÃO E EXPORTAÇÃO DE MEDICAMENTOS LTDA - CNPJ: 09.058.502/0001-48
+
+AUTORIZ/MS: 1074651 - EXPEDIENTE(s): 0899499/25-2
+
+Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data do vencimento: 08/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: MERCK HEALTHCARE KGAA
+
+ENDEREÇO: FRANKFURTER STRASSE 250, 64293 DARMSTADT - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000404
+
+EMPRESA SOLICITANTE: MERCK S/A - CNPJ: 33.069.212/0001-84
+
+AUTORIZ/MS: 1000898 - EXPEDIENTE(s): 0766135/25-0
+
+Produtos estéreis: Soluções Parenterais de Grande Volume com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data do vencimento: 08/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: PURDUE PHARMACEUTICALS L.P.
+
+ENDEREÇO: 4701 INTERNATIONAL BLVD W, WILSON, NORTH CAROLINA (NC) 27893 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000515
+
+EMPRESA SOLICITANTE: MUNDIPHARMA BRASIL PRODUTOS MÉDICOS E FARMACÊUTICOS LTDA - CNPJ: 15.127.898/0001-30
+
+AUTORIZ/MS: 1091981 - EXPEDIENTE(s): 0822549/25-5
+
+Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+Data do vencimento: 08/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: MERCK SERONO S.P.A.
+
+ENDEREÇO: VIA DELLE MAGNOLIE 15 (LOC. FRAZIONE ZONA INDUSTRIALE) - 70026 MODUGNO (BA) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000410
+
+EMPRESA SOLICITANTE: FUNDAÇÃO OSWALDO CRUZ - CNPJ: 33.781.055/0001-35
+
+AUTORIZ/MS: 1010633 - EXPEDIENTE(s): 0577820/25-7
+
+Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data do vencimento: 08/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: AMGEN MANUFACTURING LIMITED LLC
+
+ENDEREÇO: PR STATE ROAD 31, KM 24.6, JUNCOS, PUERTO RICO - PAÍS: PORTO RICO - CÓDIGO ÚNICO: A.000032
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 0842895/25-6
+
+Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data do vencimento: 08/01/2028
+
+.........................................
+
+EMPRESA: PHARMASCIENCE INDUSTRIA FARMACEUTICA S.A - CNPJ: 25.773.037/0001-83 - AUTORIZ/MS: 1017173
+
+ENDEREÇO: RUA TEXACO, N° 640
+
+MUNICÍPIO: BETIM - UF: MG - EXPEDIENTE: 0791105/25-3
+
+Semissólidos não estéreis: Cremes; Géis; Pastas; Pomadas
+
+Data do vencimento: 08/01/2028
+
+.........................................
+
+EMPRESA: EMS S/A - CNPJ: 57.507.378/0003-65 - AUTORIZ/MS: 1002351
+
+ENDEREÇO: RODOVIA JORNALISTA FRANCISCO AGUIRRE PROENÇA, S/N KM 08
+
+MUNICÍPIO: HORTOLÂNDIA - UF: SP - EXPEDIENTE: 0656929/25-1
+
+Sólidos não estéreis: Comprimidos; Comprimidos Efervescentes; Comprimidos Revestidos; Cápsulas; Granulados; Pastilhas; Pós; Pós Efervescentes
+
+Data do vencimento: 08/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: SANOFI PASTEUR INC.
+
+ENDEREÇO: 1 DISCOVERY DRIVE, SWIFTWATER, PENNSYLVANIA (PA) 18370 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000552
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 0527424/25-1
+
+Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data do vencimento: 08/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: CORDEN PHARMA S.P.A.
+
+ENDEREÇO: VIALE DELL' INDUSTRIA, 3 - CAPONAGO (MB) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000168
+
+EMPRESA SOLICITANTE: ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 02.433.631/0001-20
+
+AUTORIZ/MS: 1037648 - EXPEDIENTE(s): 0913987/25-5
+
+Produtos estéreis: Emulsões Parenterais de Grande Volume com Esterilização Terminal; Emulsões Parenterais de Pequeno Volume com Esterilização Terminal
+
+DATA DO VENCIMENTO: 15/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT CTS, LLC
+
+ENDEREÇO: 10245 HICKMAN MILLS DR, KANSAS CITY, MISSOURI (MO) 64137 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001009
+
+EMPRESA SOLICITANTE: EMS S/A - CNPJ: 57.507.378/0003-65
+
+AUTORIZ/MS: 1002351 - EXPEDIENTE(s): 0353355/25-9
+
+Sólidos não estéreis (Granel): Cápsulas
+
+DATA DO VENCIMENTO: 15/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON FRANCE
+
+ENDEREÇO: 40 BOULEVARD DE CHAMPARET, 38300 BOURGOIN JALLIEU - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000474
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 0590056/25-5
+
+Sólidos não estéreis (Granel): Comprimidos; Comprimidos Revestidos
+
+DATA DO VENCIMENTO: 15/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: FERRING PHARMACEUTICALS (CHINA) CO., LTD.
+
+ENDEREÇO: NO.6 HUI LING LU (FERRING ROAD), NATIONAL HEALTH TECHNOLOGY PARK, ZHONGSHAN CITY, GUANGDONG PROVINCE - PAÍS: CHINA, REPÚBLICA POPULAR - CÓDIGO ÚNICO: A.001028
+
+EMPRESA SOLICITANTE: LABORATÓRIOS FERRING LTDA - CNPJ: 74.232.034/0001-48
+
+AUTORIZ/MS: 1028762 - EXPEDIENTE(s): 0919166/25-3
+
+Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+DATA DO VENCIMENTO: 15/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXO OPERATIONS UK LIMITED
+
+ENDEREÇO: PRIORY STREET, WARE, HERTFORDSHIRE, SG12 0DJ - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.000378
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0642319/25-1
+
+Sólidos não estéreis: Comprimidos; Comprimidos Revestidos; Pós
+
+DATA DO VENCIMENTO: 15/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: TAKEDA AUSTRIA GMBH
+
+ENDEREÇO: ST. PETER-STRASSE 25, 4020, LINZ - PAÍS: ÁUSTRIA - CÓDIGO ÚNICO: A.000450
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 0702427/25-0
+
+Produtos estéreis (Embalagem secundária)
+
+Produtos estéreis (Embalagem primária; Embalagem secundária): Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+DATA DO VENCIMENTO: 15/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: NOVO NORDISK PRODUCTION SAS
+
+ENDEREÇO: 45 AVENUE D´ORLÉANS, 28000, CHARTRES - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.001014
+
+EMPRESA SOLICITANTE: NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA - CNPJ: 82.277.955/0001-55
+
+AUTORIZ/MS: 1017662 - EXPEDIENTE(s): 0842571/25-6
+
+Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+DATA DO VENCIMENTO: 15/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: ALNYLAM PHAMACEUTICALS INC.
+
+ENDEREÇO: 665 CONCORD AVENUE, CAMBRIDGE, MASSACHUSETTS (MA) 02138 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001381
+
+EMPRESA SOLICITANTE: SPECIALTY PHARMA GOIAS LTDA - CNPJ: 31.731.807/0001-28
+
+AUTORIZ/MS: 1193611 - EXPEDIENTE(s): 0918631/25-4
+
+Líquidos não estéreis (Granel): Soluções
+
+DATA DO VENCIMENTO: 15/01/2028
+
+.........................................
+
+EMPRESA: IBG CRYO INDÚSTRIA DE GASES LTDA - CNPJ: 74.481.011/0001-77 - AUTORIZ/MS: 1188656
+
+ENDEREÇO: ESTRADA VITO GAIA PUOLI, S/Nº, KM 2,74
+
+MUNICÍPIO: DESCALVADO - UF: SP - EXPEDIENTE: 0924596/25-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais: Gás
+
+DATA DO VENCIMENTO: 15/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG
+
+ENDEREÇO: SCHÜTZENSTRASSE 87, 88212 RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000625
+
+EMPRESA SOLICITANTE: NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA - CNPJ: 82.277.955/0001-55
+
+AUTORIZ/MS: 1017662 - EXPEDIENTE(s): 0778649/25-3
+
+Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+DATA DO VENCIMENTO: 15/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: LEK PHARMACEUTICALS D.D.
+
+ENDEREÇO: VEROVSKOVA ULICA 57, SI-1526, LJUBLJANA - PAÍS: ESLOVÊNIA - CÓDIGO ÚNICO: A.000366
+
+EMPRESA SOLICITANTE: SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.286.647/0001-16
+
+AUTORIZ/MS: 1000472 - EXPEDIENTE(s): 0823676/25-1
+
+Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Produtos estéreis (Embalagem secundária)
+
+DATA DO VENCIMENTO: 15/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: HETERO LABS LIMITED, UNIT VI
+
+ENDEREÇO: SY. NO. 410-411, TSIIC FORMULATION SEZ, POLEPALLE VILLAGE, JADCHERLA MANDAL, MAHABOOBNAGAR-DISTRICT, TELANGANA, INDIA - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001276
+
+EMPRESA SOLICITANTE: Camber Farmaceutica Ltda - CNPJ: 24.633.934/0001-29
+
+AUTORIZ/MS: 1165077 - EXPEDIENTE(s): 0838146/25-2
+
+Sólidos não estéreis: Comprimidos Revestidos
+
+DATA DO VENCIMENTO: 15/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: SOLUPHARM PHARMAZEUTISCHE ERZEUGNISSE GMBH.
+
+ENDEREÇO: INDUSTRIESTRASSE 3, 34212, MELSUNGEN. - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000590
+
+EMPRESA SOLICITANTE: STEINCARES FARMACEUTICA DO BRASIL LTDA - CNPJ: 50.090.735/0001-21
+
+AUTORIZ/MS: 1301881 - EXPEDIENTE(s): 0700400/25-7
+
+Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+DATA DO VENCIMENTO: 15/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE BIOLOGICALS
+
+ENDEREÇO: 10, TUAS SOUTH AVENUE 8, CINGAPURA 637421 - PAÍS: CINGAPURA, REPÚBLICA DA - CÓDIGO ÚNICO: A.000770
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0562792/25-2
+
+Produtos estéreis (Granel): Pós Liofilizados; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+DATA DO VENCIMENTO: 15/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: GEDEON RICHTER ROMÂNIA S.A.
+
+ENDEREÇO: 99-105 CUZA-VODA STR., TÂRGU-MURES, JUD MURES, 540306 - PAÍS: ROMÊNIA - CÓDIGO ÚNICO: A.000537
+
+EMPRESA SOLICITANTE: BIOLAB SANUS FARMACÊUTICA LTDA - CNPJ: 49.475.833/0001-06
+
+AUTORIZ/MS: 1009744 - EXPEDIENTE(s): 0938186/25-6
+
+Sólidos não estéreis: Cápsulas
+
+DATA DO VENCIMENTO: 15/01/2028
+
+.........................................
+
+EMPRESA: EMS S/A - CNPJ: 57.507.378/0003-65 - AUTORIZ/MS: 1002351
+
+ENDEREÇO: RODOVIA JORNALISTA FRANCISCO AGUIRRE PROENÇA, S/N KM 08
+
+MUNICÍPIO: HORTOLÂNDIA - UF: SP - EXPEDIENTE: 0656679/25-5
+
+Líquidos não estéreis: Elixires; Emulsões; Esmaltes; Soluções; Suspensões; Xaropes
+
+DATA DO VENCIMENTO: 22/01/2028
+
+.........................................
+
+EMPRESA: EMS S/A - CNPJ: 57.507.378/0003-65 - AUTORIZ/MS: 1002351
+
+ENDEREÇO: RODOVIA JORNALISTA FRANCISCO AGUIRRE PROENÇA, S/N KM 08
+
+MUNICÍPIO: HORTOLÂNDIA - UF: SP - EXPEDIENTE: 0657206/25-3
+
+Semissólidos não estéreis: Cremes; Géis; Pastas; Pomadas
+
+DATA DO VENCIMENTO: 22/01/2028
+
+.........................................
+
+EMPRESA: R2 Soluções em radiofarmácia - CNPJ: 09.240.065/0003-40 - AUTORIZ/MS: 1081084
+
+ENDEREÇO: Rua Capitão Guynemer, SN Lote 1A da Quadra 18
+
+MUNICÍPIO: DUQUE DE CAXIAS - UF: RJ - EXPEDIENTE: 0989265/25-1
+
+Produtos estéreis (Radiofármacos): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+DATA DO VENCIMENTO: 22/01/2028
+
+.........................................
+
+EMPRESA: WELEDA DO BRASIL LABORATÓRIO E FARMÁCIA LTDA - CNPJ: 56.992.217/0001-80 - AUTORIZ/MS: 1000611
+
+ENDEREÇO: RUA BRIG HENRIQUE FONTENELE, Nº 33
+
+MUNICÍPIO: SÃO PAULO - UF: SP - EXPEDIENTE: 0938905/25-2
+
+Sólidos não estéreis: Comprimidos; Glóbulos
+
+DATA DO VENCIMENTO: 22/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: B. BRAUN AVITUM AG
+
+ENDEREÇO: KATTENVENNER STR. 32, 49219 GLANDORF - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000061
+
+EMPRESA SOLICITANTE: LABORATORIOS B. BRAUN S/A - CNPJ: 31.673.254/0001-02
+
+AUTORIZ/MS: 1000853 - EXPEDIENTE(s): 0614899/25-7
+
+Sólidos não estéreis: Pós
+
+DATA DO VENCIMENTO: 22/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT BELGIUM S.A.
+
+ENDEREÇO: FONT SAINT LANDRY 10, BRUXELAS, 1120 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000131
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 0812302/25-7
+
+Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+DATA DO VENCIMENTO: 22/01/2028
+
+.........................................
+
+EMPRESA: WELEDA DO BRASIL LABORATÓRIO E FARMÁCIA LTDA - CNPJ: 56.992.217/0001-80 - AUTORIZ/MS: 1000611
+
+ENDEREÇO: RUA BRIG HENRIQUE FONTENELE, Nº 33
+
+MUNICÍPIO: SÃO PAULO - UF: SP - EXPEDIENTE: 0938581/25-2
+
+Líquidos não estéreis: Elixires; Soluções; Xaropes
+
+DATA DO VENCIMENTO: 22/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: ABBOTT BIOLOGICALS B.V.
+
+ENDEREÇO: C.J. VAN HOUTENLAAN 36, 1381 CP WEESP - PAÍS: HOLANDA (PAÍSES BAIXOS) - CÓDIGO ÚNICO: A.000591
+
+EMPRESA SOLICITANTE: ABBOTT LABORATÓRIOS DO BRASIL LTDA - CNPJ: 56.998.701/0001-16
+
+AUTORIZ/MS: 1005531 - EXPEDIENTE(s): 0802024/25-4
+
+Produtos estéreis (Granel): Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+DATA DO VENCIMENTO: 22/01/2028
+
+.........................................
+
+EMPRESA: WHITE MARTINS GASES INDUSTRIAIS DO NORDESTE LTDA - CNPJ: 24.380.578/0024-75 - AUTORIZ/MS: 2200001
+
+ENDEREÇO: LOC DISTRITO IND TERESINA, S/N, LOTE 2
+
+MUNICÍPIO: TERESINA - UF: PI - EXPEDIENTE: 1110491/25-5
+
+Gases Medicinais (Embalagem primária): Gás
+
+DATA DO VENCIMENTO: 29/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: HETERO LABS LIMITED, UNIT III
+
+ENDEREÇO: 22-110, I.D.A, JEEDIMETLA VILLAGE, QUTHBULLAPUR MANDAL, MEDCHAL - MALKAJGIRI DISTRICT,PINCODE 500055,TELANGANA - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000388
+
+EMPRESA SOLICITANTE: Camber Farmaceutica Ltda - CNPJ: 24.633.934/0001-29
+
+AUTORIZ/MS: 1165077 - EXPEDIENTE(s): 0900468/25-4
+
+Sólidos não estéreis: Comprimidos; Comprimidos Revestidos; Cápsulas
+
+DATA DO VENCIMENTO: 29/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: FRESENIUS KABI ONCOLOGY LTD.
+
+ENDEREÇO: VILLAGE KISHANPURA, BADDI, TEHSIL NALAGARH DISTT. SOLAN, HIMACHAL PRADES - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000236
+
+EMPRESA SOLICITANTE: FRESENIUS KABI BRASIL LTDA - CNPJ: 49.324.221/0001-04
+
+AUTORIZ/MS: 1000410 - EXPEDIENTE(s): 0785601/25-2
+
+Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+DATA DO VENCIMENTO: 29/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG
+
+ENDEREÇO: EISENBAHNSTRASSE 2-4, LANGENARGEN, BADEN-WUERTTEMBERG, 88085 - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000626
+
+EMPRESA SOLICITANTE: UCB BIOPHARMA LTDA. - CNPJ: 64.711.500/0001-14
+
+AUTORIZ/MS: 1023619 - EXPEDIENTE(s): 0627969/25-9
+
+Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+DATA DO VENCIMENTO: 29/01/2028
+
+.........................................
+
+EMPRESA FABRICANTE: ATDIS PHARMA, S.L.
+
+ENDEREÇO: C/ CARRAQUER, S/N - POL. IND. LA QUINTA R2, CABANILLAS DEL CAMPO, 19171, GUADALAJARA, ESPANHA - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.001271
+
+EMPRESA SOLICITANTE: BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A - CNPJ: 05.161.069/0001-10
+
+AUTORIZ/MS: 1055849 - EXPEDIENTE(s): 0899603/25-4
+
+Produtos estéreis (Embalagem secundária)
+
+DATA DO VENCIMENTO: 29/01/2028
+
+.........................................
+
+EMPRESA: UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A - CNPJ: 60.665.981/0005-41 - AUTORIZ/MS:
+
+ENDEREÇO: AV PREFEITO OLAVO GOMES DE OLIVEIRA 4.550
+
+MUNICÍPIO: POUSO ALEGRE - UF: MG - EXPEDIENTE: 0785564/25-0
+
+Sólidos não estéreis (Cefalosporínicos): Cápsulas; Pós
+
+Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+DATA DO VENCIMENTO: 29/01/2028

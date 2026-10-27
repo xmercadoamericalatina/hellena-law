@@ -1,0 +1,204 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.423, DE 4 DE SETEMBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3423"
+data: 2025-09-04
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/09/2025, seção 1, p. 137"
+data_publicacao: 2025-09-08
+edicao: "170"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.423-de-4-de-setembro-de-2025-653602757"
+baixado_em: 2026-10-16
+sha256_html_fonte: 391623936531bb069a27d698a8c3c35981bc20ed7f280c850763d43814a8e8f8
+---
+# RESOLUÇÃO-RE nº 3.423, DE 4 DE SETEMBRO DE 2025
+
+RESOLUÇÃO-RE nº 3.423, DE 4 DE SETEMBRO DE 2025
+
+O GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021;
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Renovar a Certificação de Boas Práticas de Fabricação de Medicamentos das empresas constantes no anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de 11 de setembro de 2025.
+
+Marcus Aurélio Miranda de Araújo
+
+## ANEXO
+
+EMPRESA: MR PHARMA LTDA - CNPJ: 23.668.196/0001-92 - AUTORIZ/MS: 1155906
+
+ENDEREÇO: RUA ELISEU VISCONTI, 5
+
+MUNICÍPIO: RIO DE JANEIRO - UF: RJ - EXPEDIENTE: 0277504/25-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+Data de Vencimento: 11/09/2027
+
+.........................................
+
+EMPRESA: MR PHARMA LTDA - CNPJ: 23.668.196/0001-92 - AUTORIZ/MS: 1155906
+
+ENDEREÇO: RUA ELISEU VISCONTI, 5
+
+MUNICÍPIO: RIO DE JANEIRO - UF: RJ - EXPEDIENTE: 0277507/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Géis
+
+Data de Vencimento: 11/09/2027
+
+.........................................
+
+EMPRESA: MR PHARMA LTDA - CNPJ: 23.668.196/0001-92 - AUTORIZ/MS: 1155906
+
+ENDEREÇO: RUA ELISEU VISCONTI, 5
+
+MUNICÍPIO: RIO DE JANEIRO - UF: RJ - EXPEDIENTE: 0277503/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Pós
+
+Data de Vencimento: 11/09/2027
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG
+
+ENDEREÇO: SCHÜTZENSTRASSE 87, 88212 RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000625
+
+EMPRESA SOLICITANTE: SPECIALTY PHARMA GOIAS LTDA - CNPJ: 31.731.807/0001-28
+
+AUTORIZ/MS: 1193611 - EXPEDIENTE(s): 0333248/25-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 11/09/2027
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXO OPERATIONS UK LIMITED
+
+ENDEREÇO: HARMIRE ROAD, BARNARD CASTLE, DL12 8DT DURHAM - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.000258
+
+EMPRESA SOLICITANTE: SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.286.647/0001-16
+
+AUTORIZ/MS: 1000472 - EXPEDIENTE(s): 0285566/25-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Cefalosporínicos): Comprimidos Revestidos; Pós
+
+Data de Vencimento: 11/09/2027
+
+.........................................
+
+EMPRESA FABRICANTE: EXCELLA GMBH & CO. KG
+
+ENDEREÇO: NÜRNBERGER STRASSE 12, 90537 FEUCHT - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000212
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 1649027/24-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+Data de Vencimento: 11/09/2027
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXO OPERATIONS UK LIMITED
+
+ENDEREÇO: HARMIRE ROAD, BARNARD CASTLE, DL12 8DT DURHAM - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.000258
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 1720308/24-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Esterilização Terminal
+
+Data de Vencimento: 11/09/2027
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG
+
+ENDEREÇO: EISENBAHNSTRASSE 2-4, LANGENARGEN, BADEN-WUERTTEMBERG, 88085 - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000626
+
+EMPRESA SOLICITANTE: MERCK SHARP & DOHME FARMACEUTICA LTDA. - CNPJ: 03.560.974/0001-18
+
+AUTORIZ/MS: 1001711 - EXPEDIENTE(s): 0160046/25-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Data de Vencimento: 11/09/2027
+
+.........................................
+
+EMPRESA FABRICANTE: GENVEON ILAC SANAYI VE TICARET ANONIM SIRKETI
+
+ENDEREÇO: INONU MAH. GEBZE PLASTIKÇILER ORGANIZE SANAYI BÖLGESI, ATATÜRK BULVARI 9. CAD NO:2 GEBZE - KOCAELI - PAÍS: TURQUIA - CÓDIGO ÚNICO: A.001058
+
+EMPRESA SOLICITANTE: SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.286.647/0001-16
+
+AUTORIZ/MS: 1000472 - EXPEDIENTE(s): 0339780/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos; Comprimidos Revestidos
+
+Data de Vencimento: 11/09/2027
+
+.........................................
+
+EMPRESA FABRICANTE: AVARA PHARMACEUTICAL TECHNOLOGIES, INC.
+
+ENDEREÇO: 3300 MARSHALL AVENUE, NORMAN, OKLAHOMA (OK) 73072 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000691
+
+EMPRESA SOLICITANTE: ASTELLAS FARMA BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO DE MEDICAMENTOS LTDA. - CNPJ: 07.768.134/0001-04
+
+AUTORIZ/MS: 1077171 - EXPEDIENTE(s): 0286563/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+Data de Vencimento: 11/09/2027
+
+.........................................
+
+EMPRESA FABRICANTE: ALFASIGMA S.P.A.
+
+ENDEREÇO: VIA ENRICO FERMI, 1 - 65020 ALANNO (PE) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000020
+
+EMPRESA SOLICITANTE: MERCK S/A - CNPJ: 33.069.212/0001-84
+
+AUTORIZ/MS: 1000898 - EXPEDIENTE(s): 0125340/25-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Data de Vencimento: 11/09/2027
+
+.........................................
+
+EMPRESA FABRICANTE: A. NATTERMANN & CIE. GMBH
+
+ENDEREÇO: NATTERMANNALLEE 1 ,50829 KOLN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.001525
+
+EMPRESA SOLICITANTE: OPELLA HEALTHCARE BRAZIL LTDA - CNPJ: 38.391.432/0001-43
+
+AUTORIZ/MS: 1286206 - EXPEDIENTE(s): 1735357/24-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas
+
+Data de Vencimento: 11/09/2027
+
+.........................................
+
+EMPRESA FABRICANTE: ANNORA PHARMA PRIVATE LIMITED
+
+ENDEREÇO: SY. NO. 261, ANNARAM VILLAGE, GUMMADIDALA MANDAL,SANGAREDDY DISTRICT. TELANGANA STATE, INDIA - 502313 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001529
+
+EMPRESA SOLICITANTE: Camber Farmaceutica Ltda - CNPJ: 24.633.934/0001-29
+
+AUTORIZ/MS: 1165077 - EXPEDIENTE(s): 0277734/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos; Cápsulas; Pós; Supositórios
+
+Data de Vencimento: 11/09/2027

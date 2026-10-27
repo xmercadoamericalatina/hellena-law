@@ -1,0 +1,125 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 393, DE 30 DE JANEIRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "393"
+data: 2026-01-30
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 02/02/2026, seção 1, p. 120"
+data_publicacao: 2026-02-02
+edicao: "22"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-393-de-30-de-janeiro-de-2026-684505206"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 393, DE 30 DE JANEIRO DE 2026
+
+RESOLUÇÃO-RE Nº 393, DE 30 DE JANEIRO DE 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Cancelar o registro sanitário de medicamentos e insumos farmacêuticos, ou de apresentações, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor a partir da data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+----------------------------
+
+MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEUTICOS LTDA 92265552000905
+
+BISGLICINATO FERROSO
+
+FERVITIN 25351.062909/2022-16 02/2028
+
+10085 ESPECIFICO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 0051332/26-6
+
+1.1819.0374.004-2 24 Meses
+
+50 MG/ML SUS OR CT 20 FLAC PLAS PP TRANS X 5 ML
+
+1.1819.0374.008-5 24 Meses
+
+50 MG/ML SUS OR CT 4 FLAC PLAS PP TRANS X 5 ML
+
+----------------------------
+
+UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A 60665981000118
+
+DICLOFENACO SÓDICO
+
+FENAREN 25000.002079/88-21 07/2028
+
+1988 SIMILAR - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO DO MEDICAMENTO 0024433/26-8
+
+1.0497.0120.002-0 24 Meses
+
+25 MG/ML SOL INJ CT 10 AMP VD AMB X 3 ML
+
+1.0497.0120.003-1 24 Meses
+
+25 MG/ML SOL INJ CT 50 AMP VD AMB X 3 ML
+
+----------------------------
+
+NATULAB LABORATORIO S.A 02456955000183
+
+ARLIVRY 25351.718680/2009-93 01/2026
+
+10082 FITOTERAPICO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 0088744/26-7
+
+1.3841.0047.019-5 24 Meses
+
+65 MG PO EFEV CT 4 ENV AL X 3 G
+
+1.3841.0047.020-9 24 Meses
+
+65 MG PO EFEV CT 10 ENV AL X 3 G
+
+1.3841.0047.021-7 24 Meses
+
+65 MG PO EFEV CT 14 ENV AL X 3 G
+
+1.3841.0047.022-5 24 Meses
+
+65 MG PO EFEV CX 50 ENV AL X 3 G (EMB HOSP)
+
+1.3841.0047.023-3 24 Meses
+
+65 MG PO EFEV CX 100 ENV AL X 3 G (EMB HOSP)
+
+1.3841.0047.024-1 24 Meses
+
+65 MG PO EFEV CX 200 ENV AL X 3 G (EMB HOSP)
+
+1.3841.0047.025-1 24 Meses
+
+65 MG PO EFEV CX 300 ENV AL X 3 G (EMB HOSP)
+
+1.3841.0047.026-8 24 Meses
+
+65 MG PO EFEV CX 400 ENV AL X 3 G (EMB HOSP)
+
+1.3841.0047.027-6 24 Meses
+
+65 MG PO EFEV CX 500 ENV AL X 3 G (EMB HOSP)
+
+1.3841.0047.028-4 24 Meses
+
+65 MG PO EFEV CX 1000 ENV AL X 3 G (EMB HOSP)

@@ -1,0 +1,252 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.982, DE 16 DE AGOSTO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2982"
+data: 2024-08-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/08/2024, seção 1, p. 198"
+data_publicacao: 2024-08-19
+edicao: "159"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.982-de-16-de-agosto-de-2024-579019587"
+sha256_html_fonte: 4d2f3e1f09f461895bcfefca84e827679529cc08668203431701d79d0b8ddb65
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE nº 2.982, DE 16 DE AGOSTO DE 2024
+
+RESOLUÇÃO-RE nº 2.982, DE 16 DE AGOSTO DE 2024
+
+O GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021,
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+Marcus Aurélio Miranda de Araújo
+
+## ANEXO
+
+EMPRESA: Blau Farmacêutica S.A. - CNPJ: 58.430.828/0015-65 - AUTORIZ/MS: 1016377
+
+ENDEREÇO: Av. Pedro Ludovico, SN QUADRA2 LOTE 06/07/08/09/50/51/52
+
+MUNICÍPIO: ANÁPOLIS - UF: GO - EXPEDIENTE: 0125026/24-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Carbapenêmicos): Pós com Preparação Asséptica
+
+.........................................
+
+EMPRESA: LABORATÓRIO GLOBO SA - CNPJ: 17.115.437/0001-73 - AUTORIZ/MS: 1005358
+
+ENDEREÇO: RODOVIA MG 424, KM 8,8
+
+MUNICÍPIO: SÃO JOSÉ DA LAPA - UF: MG - EXPEDIENTE: 0125769/24-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos; Pós
+
+Sólidos não estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA: LABORATÓRIO GLOBO SA - CNPJ: 17.115.437/0001-73 - AUTORIZ/MS: 1005358
+
+ENDEREÇO: RODOVIA MG 424, KM 8,8
+
+MUNICÍPIO: SÃO JOSÉ DA LAPA - UF: MG - EXPEDIENTE: 0125776/24-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Emulsões; Soluções; Suspensões; Xaropes
+
+.........................................
+
+EMPRESA: LABORATÓRIO GLOBO SA - CNPJ: 17.115.437/0001-73 - AUTORIZ/MS: 1005358
+
+ENDEREÇO: RODOVIA MG 424, KM 8,8
+
+MUNICÍPIO: SÃO JOSÉ DA LAPA - UF: MG - EXPEDIENTE: 0125228/24-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis; Pomadas
+
+.........................................
+
+EMPRESA: WASSER FARMA LTDA - CNPJ: 01.564.260/0001-52 - AUTORIZ/MS: 1045873
+
+ENDEREÇO: JOSÉ BONIFÁCIO
+
+MUNICÍPIO: RIO DE JANEIRO - UF: RJ - EXPEDIENTE: 1430022/23-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: F. HOFFMANN - LA ROCHE LTD
+
+ENDEREÇO: GRENZACHERSTRASSE 124, CH-4070, BASILÉIA - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.000217
+
+EMPRESA SOLICITANTE: PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. - CNPJ: 33.009.945/0001-23
+
+AUTORIZ/MS: 1001004 - EXPEDIENTE(s): 0169277/24-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Granel): Comprimidos Revestidos; Pós
+
+.........................................
+
+EMPRESA FABRICANTE: BAXTER ONCOLOGY GMBH
+
+ENDEREÇO: KANTSTRASSE 2, 33790 HALLE/ WESTFALEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000080
+
+EMPRESA SOLICITANTE: DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA - CNPJ: 60.874.187/0001-84
+
+AUTORIZ/MS: 1004548 - EXPEDIENTE(s): 0120169/24-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE BIOLOGICALS
+
+ENDEREÇO: 637 RUE DES AULNOIS, 59230 SAINT-AMAND-LES-EAUX - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000731
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 1455076/23-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: GLAND PHARMA LIMITED
+
+ENDEREÇO: SURVEY 143-148, 150 & 151 NEAR GANDIMAISAMMA CROSS ROADS, D.P.PALLY, DUNDIGAL POST, DUNDIGAL-GANDIMAISAMMA MANDAL, MEDCHAL-MALKAJGIRI DISTRICT, HYDERABAD - 500 043, TELANGANA - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000257
+
+EMPRESA SOLICITANTE: DR. REDDYS FARMACÊUTICA DO BRASIL LTDA - CNPJ: 03.978.166/0001-75
+
+AUTORIZ/MS: 1051431 - EXPEDIENTE(s): 0149201/24-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Grande Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: MYLAN TEORANTA
+
+ENDEREÇO: COILL RUA, INVERIN, CO. GALWAY, IRELAND - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.001190
+
+EMPRESA SOLICITANTE: VIATRIS FARMACEUTICA DO BRASIL LTDA - CNPJ: 11.643.096/0001-22
+
+AUTORIZ/MS: 1088307 - EXPEDIENTE(s): 0155598/24-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ALLERGOPHARMA GMBH & CO. KG
+
+ENDEREÇO: HERMANN-KÖRNER-STRASSE 52 UND 54, KLAUS-GROTH-STRASSE 5A, BORSIGSTRASSE 12, REINBEK, 21465 - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.001528
+
+EMPRESA SOLICITANTE: PFIZER BRASIL LTDA - CNPJ: 61.072.393/0001-33
+
+AUTORIZ/MS: 1021101 - EXPEDIENTE(s): 0035570/24-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: PHARMACHEMIE B.V.
+
+ENDEREÇO: SWENSWEG 5, 2031 GA HAARLEM - PAÍS: HOLANDA (PAÍSES BAIXOS) - CÓDIGO ÚNICO: A.000503
+
+EMPRESA SOLICITANTE: TEVA FARMACÊUTICA LTDA. - CNPJ: 05.333.542/0001-08
+
+AUTORIZ/MS: 1055731 - EXPEDIENTE(s): 0130683/24-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ORION CORPORATION, ORION PHARMA
+
+ENDEREÇO: ORIONINTIE 1, 02200, ESPOO - PAÍS: FINLÂNDIA - CÓDIGO ÚNICO: A.000468
+
+EMPRESA SOLICITANTE: SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.286.647/0001-16
+
+AUTORIZ/MS: 1000472 - EXPEDIENTE(s): 0045459/24-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: LABORATOIRES GALDERMA
+
+ENDEREÇO: ZONE INDUSTRIELLE DE MONTDÉSIR 74540 ALBY SUR CHÉRAN - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000786
+
+EMPRESA SOLICITANTE: GALDERMA BRASIL LTDA - CNPJ: 00.317.372/0001-46
+
+AUTORIZ/MS: 1029167 - EXPEDIENTE(s): 0169125/24-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis
+
+.........................................
+
+EMPRESA FABRICANTE: ELAIAPHARM
+
+ENDEREÇO: 2881, ROUTE DES CRÊTES, Z.I. LES BOUILLIDES-SOPHIA ANTIPOLIS, VALBONNE 06560 - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000700
+
+EMPRESA SOLICITANTE: LUNDBECK BRASIL LTDA - CNPJ: 04.522.600/0001-70
+
+AUTORIZ/MS: 1004750 - EXPEDIENTE(s): 0100578/24-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: NOVARTIS PHARMA PRODUKTIONS GMBH
+
+ENDEREÇO: ÖFLINGER STRASSE 44 79664, WEHR/BADEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000099
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 0142167/24-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+Sólidos não estéreis (Granel): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON MANUFACTURING SERVICES LLC
+
+ENDEREÇO: 5900 MARTIN LUTHER KING JR. HIGHWAY, GREENVILLE, NORTH CAROLINA 27834 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000201
+
+EMPRESA SOLICITANTE: ABBVIE FARMACÊUTICA LTDA. - CNPJ: 15.800.545/0001-50
+
+AUTORIZ/MS: 1098607 - EXPEDIENTE(s): 1417375/23-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON INC.
+
+ENDEREÇO: 2100 SYNTEX COURT, MISSISSAUGA, ONTÁRIO L5N 7K9 - PAÍS: CANADÁ - CÓDIGO ÚNICO: A.000476
+
+EMPRESA SOLICITANTE: BIOPAS BRASIL PRODUTOS FARMACEUTICOS LTDA - CNPJ: 31.327.287/0001-92
+
+AUTORIZ/MS: 1189773 - EXPEDIENTE(s): 0175345/24-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: ALEXION PHARMA INTERNATIONAL OPERATIONS LIMITED
+
+ENDEREÇO: MONKSLAND INDUSTRIAL ESTATE, ATHLONE, ROSCOMMON, N37 DH79, IRELAND - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.001323
+
+EMPRESA SOLICITANTE: ALEXION SERVICOS E FARMACEUTICA DO BRASIL LTDA - CNPJ: 10.284.284/0001-49
+
+AUTORIZ/MS: 1098118 - EXPEDIENTE(s): 0208170/24-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica

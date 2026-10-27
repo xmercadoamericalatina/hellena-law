@@ -1,0 +1,345 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.366, DE 12 DE JUNHO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "2366"
+data: 2026-06-12
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 15/06/2026, seção 1, p. 120"
+data_publicacao: 2026-06-15
+edicao: "109"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.366-de-12-de-junho-de-2026-712079899"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 2.366, DE 12 DE JUNHO DE 2026
+
+RESOLUÇÃO-RE nº 2.366, DE 12 DE JUNHO DE 2026
+
+O GERENTE-GERAL DE COSMÉTICOS E SANEANTES DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir os registros e as petições dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONÇALVES ARAÚJO RIOS
+
+## ANEXO
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO E MARCA
+
+NÚMERO DO PROCESSO / REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+&CO. INDUSTRIA E COMERCIO DE COSMETICOS LTDA - EPP / 17.153.030/0001-30
+
+PROTETOR SOLAR MINERAL COM COR FPS 50 - ZIEL
+
+25351.362769/2024-45 / 280880097
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0830018/25-5
+
+PROTETOR SOLAR MINERAL COM COR FPS 50 - ZIEL
+
+25351.362769/2024-45 / 280880097
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0831820/25-0
+
+--------------------------------------
+
+AERZ QUIMICA INDUSTRIAL LTDA / 19.083.386/0001-70
+
+ÁLCOOL GEL HIGIENIZANTE ANTISSÉPTICO IMUNOGEL - SOFT BLUE
+
+25351.030254/2026-41 / 278550029
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0163006/26-1
+
+ÁLCOOL GEL HIGIENIZANTE ANTISSÉPTICO IMUNOGEL - HYDRA GREEN
+
+25351.030286/2026-46 / 278550030
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0163104/26-3
+
+REPELENTE DE INSETOS SPRAY SUPER VALE
+
+25351.076252/2026-06 / 278550031
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0423148/26-5
+
+REPELENTE DE INSETOS AEROSSOL - SUPER VALE
+
+25351.076272/2026-79 / 278550032
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0423173/26-0
+
+--------------------------------------
+
+ALLPHARMA INDUSTRIA FARMACEUTICA LTDA / 11.384.413/0001-33
+
+REPELENTE DE INSETOS - VAZZA! MOSQUITO - LONGA DURAÇÃO 10HORAS - LOÇÃO
+
+25351.061946/2026-31 / 214960001
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0340728/26-4
+
+REPELENTE DE INSETOS - VAZZA! MOSQUITO KIDS 4HORAS - LOÇÃO
+
+25351.061960/2026-34 / 214960002
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0340748/26-5
+
+--------------------------------------
+
+AVLFM INDUSTRIA DE COSMETICOS LTDA / 39.299.870/0001-49
+
+ADCOS PROTETOR SOLAR STICK ULTRALEVE FPS 80 COR 3.0 NUDE
+
+25351.240855/2025-89 / 220280448
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1652967/25-7
+
+ADCOS PROTETOR SOLAR STICK ULTRALEVE FPS 80 COR 2.0 PEACH
+
+25351.240857/2025-78 / 220280449
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1652969/25-0
+
+--------------------------------------
+
+BELLIZ INDÚSTRIA, COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA / 06.940.040/0001-08
+
+BASTÃO PROTETOR SOLAR FACIAL FPS 60 RICCA
+
+25351.237321/2025-75 / 242070007
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1632001/25-0
+
+--------------------------------------
+
+BOTICA COMERCIAL FARMACEUTICA LTDA. / 77.388.007/0001-57
+
+BOTI.SUN LOÇÃO FLUIDA PROTETOR FACIAL ANTIOLEOSIDADE FPS 70
+
+25351.018604/2026-09 / 205441642
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0094805/26-1
+
+BOTIK ÁCIDO HIALURÔNICO PROTETOR FACIAL FPS 50
+
+25351.536548/2023-39 / 205441616
+
+2105 - REG. COSMÉTICOS - Cancelamento de Apresentação de Produto Registrado a Pedido / 0492087/26-1
+
+--------------------------------------
+
+CIMED INDUSTRIA S.A / 02.814.497/0001-07
+
+XÔ INSETO! AEROSSOL
+
+25351.884769/2021-59 / 244520009
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0487596/26-9
+
+--------------------------------------
+
+COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. / 61.082.426/0002-07
+
+EPISOL COLOR FPS 70 TOM 3
+
+25351.633574/2020-61 / 200030872
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0510790/26-7
+
+EPISOL COLOR FPS 70 TOM 1
+
+25351.633659/2020-40 / 200030873
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0510774/26-1
+
+EPISOL COLOR FPS 70 TOM 2
+
+25351.633721/2020-01 / 200030874
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0510787/26-6
+
+--------------------------------------
+
+DAHUER LABORATÓRIO LTDA / 82.914.334/0001-35
+
+Sveda Protetor Solar Spray Infantil FPS 70
+
+25351.028861/2026-41 / 215630280
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0152595/26-1
+
+--------------------------------------
+
+DEVINTEX COSMETICOS LTDA / 01.773.518/0001-20
+
+SALON LINE PROFESSIONAL CREME ALISANTE TIOGLICOLATO ÓLEO DE ARGAN MÉDIO
+
+25351.377635/2011-03 / 229590228
+
+238 - REG. COSMÉTICOS - Revalidação de Registro / 0096953/26-8
+
+SALON LINE PROFESSIONAL CREME ALISANTE TIOGLICOLATO ÓLEO DE ARGAN MÉDIO
+
+25351.377635/2011-03 / 229590228
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0406428/26-3
+
+SALON LINE PROFESSIONAL CREME ALISANTE TIOGLICOLATO ÓLEO DE ARGAN FORTE
+
+25351.377659/2011-47 / 229590230
+
+238 - REG. COSMÉTICOS - Revalidação de Registro / 0097162/26-4
+
+SALON LINE PROFESSIONAL CREME ALISANTE TIOGLICOLATO ÓLEO DE ARGAN FORTE
+
+25351.377659/2011-47 / 229590230
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0406283/26-5
+
+--------------------------------------
+
+EXAT BEL INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA ME. / 02.393.589/0001-60
+
+GEL ANTISSÉPTICO PARA AS MÃOS TRÓIA CARE
+
+25351.425600/2020-80 / 234870001
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0476442/26-5
+
+GEL ANTISSÉPTICO PARA AS MÃOS TRÓIA CARE
+
+25351.425600/2020-80 / 234870001
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0501061/25-8
+
+--------------------------------------
+
+EXTRATO FLORA INDÚSTRIA E COMÉRCIO DE CORRELATOS, COSMÉTICOS, EPIS E SANEANTES LTDA - ME / 02.039.120/0001-28
+
+BASIC+CARE PROTETOR SOLAR FPS 30
+
+25351.201685/2011-70 / 226900033
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0764913/25-5
+
+BASIC+CARE PROTETOR SOLAR FPS 30
+
+25351.201685/2011-70 / 226900033
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 0779013/25-5
+
+BASIC+CARE PROTETOR SOLAR FPS 30
+
+25351.201685/2011-70 / 226900033
+
+238 - REG. COSMÉTICOS - Revalidação de Registro / 1476637/25-3
+
+--------------------------------------
+
+Francefarma Indústria de Cosméticos ltda / 18.575.413/0001-60
+
+BRISA FACE PROTETOR SOLAR FACIAL FPS 60
+
+25351.021003/2026-75 / 278300064
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0107905/26-4
+
+--------------------------------------
+
+HENLAU QUIMICA LTDA / 01.847.902/0001-20
+
+REPELENTE SPRAY CONTRA INSETOS HENLAU BABY
+
+25351.103187/2016-18 / 227430205
+
+238 - REG. COSMÉTICOS - Revalidação de Registro / 1541986/25-3
+
+REPELENTE SPRAY CONTRA INSETOS HENLAU
+
+25351.957981/2016-31 / 227430204
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0529470/26-8
+
+REPELENTE SPRAY CONTRA INSETOS HENLAU
+
+25351.957981/2016-31 / 227430204
+
+238 - REG. COSMÉTICOS - Revalidação de Registro / 1331318/25-4
+
+--------------------------------------
+
+INDUSTRIA E COMERCIO DE COSMETICOS NATURA LTDA / 00.190.373/0001-72
+
+NATURA SOLAR FPS 30 PROTETOR ILUMINADOR
+
+25351.030965/2026-15 / 205671602
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0167205/26-9
+
+--------------------------------------
+
+KENVUE LTDA. / 59.748.988/0001-14
+
+Neutrogena Beach Defense FPS 50
+
+25351.054048/2025-45 / 200921411
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0532148/26-6
+
+Neutrogena Sun Fresh FPS 80 Derm Care Cor 3.0
+
+25351.445145/2024-62 / 200921408
+
+2115 - REG. COSMÉTICOS - Redução do prazo de validade / 0547383/26-6
+
+--------------------------------------
+
+LABORMAX INDUSTRIA COSMETICA IMPORTACAO E EXPORTACAO LTDA / 57.570.640/0001-54
+
+ALISANTE CAPILAR FIOTERAMASK EG FIOTERAPIA
+
+25351.029492/2026-11 / 250350010
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0156971/26-7
+
+--------------------------------------
+
+PASTEUR COSMIATRIA LTDA / 87.727.277/0001-07
+
+DAUF SOLAR - PROTETOR SOLAR FPS 99 VITAMINA E
+
+25351.026829/2026-21 / 214850575
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0141156/26-1
+
+NEEDS SOLAR - PROTETOR SOLAR FPS 50 SPRAY BIFÁSICO
+
+25351.029500/2026-11 / 214850574
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0156984/26-1
+
+--------------------------------------
+
+RECKITT BENCKISER (BRASIL) LTDA / 59.557.124/0001-15
+
+SUPER REPELEX LOÇÃO AÇÃO HIDRATANTE
+
+25351.435839/2010-94 / 203450878
+
+238 - REG. COSMÉTICOS - Revalidação de Registro / 0270806/25-3
+
+SUPER REPELEX LOÇÃO AÇÃO HIDRATANTE
+
+25351.435839/2010-94 / 203450878
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 0477524/26-5

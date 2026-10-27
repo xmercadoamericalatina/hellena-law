@@ -1,0 +1,177 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 453, DE 5 DE FEVEREIRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Produtos de Terapias Avançadas"
+tipo: "Resolução"
+numero: "453"
+data: 2026-02-05
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 09/02/2026, seção 1, p. 76"
+data_publicacao: 2026-02-09
+edicao: "27"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-453-de-5-de-fevereiro-de-2026-685977662"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 453, DE 5 DE FEVEREIRO DE 2026
+
+RESOLUÇÃO-RE Nº 453, DE 5 DE FEVEREIRO DE 2026
+
+O GERENTE-GERAL SUBSTITUTO DE PRODUTOS BIOLÓGICOS, RADIOFÁRMACOS, SANGUE, TECIDOS, CÉLULAS, ÓRGÃOS E PRODUTOS DE TERAPIAS AVANÇADAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 109, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir petições relacionadas à Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Produtos de Terapias Avançadas, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANDERSON VEZALI MONTAI
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+ASSUNTO DA PETIÇÃO DO MATRIZ NÚMERO DO EXPEDIENTE MATRIZ NÚMERO DO PROCESSO MATRIZ
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA 56998982000107
+
+NIVOLUMABE
+
+IMREVITE 25351.079572/2025-29 10/2035
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1469892/25-7
+
+(11933 - PRODUTOS BIOLÓGICOS - 42. Alteração do processo de fabricação do produto terminado - Moderada - 1196176/25-7 - 25351.308360/2015-10)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1469898/25-6
+
+(11930 - PRODUTOS BIOLÓGICOS - 41. Alteração de instalação de fabricação do produto terminado - Maior - 1196216/25-0 - 25351.308360/2015-10)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1469900/25-1
+
+(11900 - PRODUTOS BIOLÓGICOS - 15. Alteração dos testes de controle em processo e/ou dos critérios de aceitação aplicados durante a fabricação da substância ativa - Moderada - 1196152/25-0 - 25351.308360/2015-10)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1469904/25-4
+
+(11918 - PRODUTOS BIOLÓGICOS - 32. Alteração no prazo de validade da substância ativa ou de um intermediário armazenado - Moderada - 1196181/25-3 - 25351.308360/2015-10)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1469908/25-7
+
+(11893 - PRODUTOS BIOLÓGICOS - 8. Alteração do processo de purificação - Moderada - 1196188/25-1 - 25351.308360/2015-10)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1469912/25-5
+
+(11908 - PRODUTOS BIOLÓGICOS - 22. Alteração na especificação ou no procedimento analítico usado para liberação da substância ativa - Moderada - 1196172/25-4 - 25351.308360/2015-10)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1469916/25-8
+
+(11964 - PRODUTOS BIOLÓGICOS - 75a. Inclusão ou substituição da via de administração - 1463516/24-0 - 25351.308360/2015-10)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1469922/25-2
+
+(11920 - PRODUTOS BIOLÓGICOS - 34. Alteração das condições de armazenamento da substância ativa - Moderada - 1196214/25-3 - 25351.308360/2015-10)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1469989/25-3
+
+(11922 - PRODUTOS BIOLÓGICOS - 36. Alteração da descrição ou composição do produto terminado - Maior - 1465758/24-9 - 25351.308360/2015-10)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1469993/25-1
+
+(11919 - PRODUTOS BIOLÓGICOS - 33. Alteração no protocolo de estabilidade pós-registro da substância ativa - Moderada - 1196212/25-7 - 25351.308360/2015-10)
+
+1.0180.0417.003-0 36 Meses
+
+600 MG SOL INJ SC CT FA VD TRANS X 5 ML
+
+NIVOLUMABE
+
+NIVOLUMABE
+
+NIVDIREC 25351.079573/2025-73 10/2035
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1447484/25-1
+
+(11964 - PRODUTOS BIOLÓGICOS - 75a. Inclusão ou substituição da via de administração - 1463516/24-0 - 25351.308360/2015-10)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1462609/25-8
+
+(11900 - PRODUTOS BIOLÓGICOS - 15. Alteração dos testes de controle em processo e/ou dos critérios de aceitação aplicados durante a fabricação da substância ativa - Moderada - 1196152/25-0 - 25351.308360/2015-10)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1462611/25-0
+
+(11933 - PRODUTOS BIOLÓGICOS - 42. Alteração do processo de fabricação do produto terminado - Moderada - 1196176/25-7 - 25351.308360/2015-10)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1462615/25-2
+
+(11918 - PRODUTOS BIOLÓGICOS - 32. Alteração no prazo de validade da substância ativa ou de um intermediário armazenado - Moderada - 1196181/25-3 - 25351.308360/2015-10)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1462635/25-7
+
+(11908 - PRODUTOS BIOLÓGICOS - 22. Alteração na especificação ou no procedimento analítico usado para liberação da substância ativa - Moderada - 1196172/25-4 - 25351.308360/2015-10)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1464430/25-4
+
+(11919 - PRODUTOS BIOLÓGICOS - 33. Alteração no protocolo de estabilidade pós-registro da substância ativa - Moderada - 1196212/25-7 - 25351.308360/2015-10)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1464444/25-4
+
+(11930 - PRODUTOS BIOLÓGICOS - 41. Alteração de instalação de fabricação do produto terminado - Maior - 1196216/25-0 - 25351.308360/2015-10)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1464446/25-1
+
+(11893 - PRODUTOS BIOLÓGICOS - 8. Alteração do processo de purificação - Moderada - 1196188/25-1 - 25351.308360/2015-10)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1464448/25-7
+
+(11920 - PRODUTOS BIOLÓGICOS - 34. Alteração das condições de armazenamento da substância ativa - Moderada - 1196214/25-3 - 25351.308360/2015-10)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1464518/25-1
+
+(11922 - PRODUTOS BIOLÓGICOS - 36. Alteração da descrição ou composição do produto terminado - Maior - 1465758/24-9 - 25351.308360/2015-10)
+
+1.0180.0418.003-6 36 Meses
+
+600 MG SOL INJ SC CT FA VD TRANS X 5 ML
+
+NIVOLUMABE
+
+NIVOLUMABE
+
+OPDIVO 25351.308360/2015-10 04/2026
+
+11893 PRODUTOS BIOLÓGICOS - 8. ALTERAÇÃO DO PROCESSO DE PURIFICAÇÃO - MODERADA 1196188/25-1
+
+11900 PRODUTOS BIOLÓGICOS - 15. ALTERAÇÃO DOS TESTES DE CONTROLE EM PROCESSO E/OU DOS CRITÉRIOS DE ACEITAÇÃO APLICADOS DURANTE A FABRICAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 1196152/25-0
+
+11908 PRODUTOS BIOLÓGICOS - 22. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DA SUBSTÂNCIA ATIVA - MODERADA 1196172/25-4
+
+11918 PRODUTOS BIOLÓGICOS - 32. ALTERAÇÃO NO PRAZO DE VALIDADE DA SUBSTÂNCIA ATIVA OU DE UM INTERMEDIÁRIO ARMAZENADO - MODERADA 1196181/25-3
+
+11919 PRODUTOS BIOLÓGICOS - 33. ALTERAÇÃO NO PROTOCOLO DE ESTABILIDADE PÓS-REGISTRO DA SUBSTÂNCIA ATIVA - MODERADA 1196212/25-7
+
+11920 PRODUTOS BIOLÓGICOS - 34. ALTERAÇÃO DAS CONDIÇÕES DE ARMAZENAMENTO DA SUBSTÂNCIA ATIVA - MODERADA 1196214/25-3
+
+11922 PRODUTOS BIOLÓGICOS - 36. ALTERAÇÃO DA DESCRIÇÃO OU COMPOSIÇÃO DO PRODUTO TERMINADO - MAIOR 1465758/24-9
+
+11930 PRODUTOS BIOLÓGICOS - 41. ALTERAÇÃO DE INSTALAÇÃO DE FABRICAÇÃO DO PRODUTO TERMINADO - MAIOR 1196216/25-0
+
+11933 PRODUTOS BIOLÓGICOS - 42. ALTERAÇÃO DO PROCESSO DE FABRICAÇÃO DO PRODUTO TERMINADO - MODERADA 1196176/25-7
+
+11964 PRODUTOS BIOLÓGICOS - 75A. INCLUSÃO OU SUBSTITUIÇÃO DA VIA DE ADMINISTRAÇÃO 1463516/24-0
+
+1.0180.0408.004-1 36 Meses
+
+600 MG SOL INJ SC CT FA VD TRANS X 5 ML
+
+NIVOLUMABE

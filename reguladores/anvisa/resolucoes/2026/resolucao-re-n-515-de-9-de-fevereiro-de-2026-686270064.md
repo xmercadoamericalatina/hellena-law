@@ -1,0 +1,97 @@
+---
+titulo: "RESOLUÇÃO-RE nº 515, DE 9 DE FEVEREIRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "515"
+data: 2026-02-09
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 10/02/2026, seção 1, p. 142"
+data_publicacao: 2026-02-10
+edicao: "28"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-515-de-9-de-fevereiro-de-2026-686270064"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 515, DE 9 DE FEVEREIRO DE 2026
+
+RESOLUÇÃO-RE nº 515, DE 9 DE FEVEREIRO DE 2026
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+J. S. A. PRODUTOS HOSPITALARES LTDA / 45.339.297/0001-52
+
+25351.020669/2026-14 / 1424399
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0106645269
+
+--------------------------------------
+
+ARFRIO S/A ARMAZENS GERAIS FRIGORIFICOS / 61.024.295/0001-20
+
+25351.018197/2026-21 / 1424263
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+761 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - ARMAZENADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0092306268
+
+--------------------------------------
+
+MONTE DISTRIBUIDORA DE PRODUTOS HOSPITALARES LTDA / 54.694.355/0001-57
+
+25351.021090/2026-61 / 1424428
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0108232263
+
+--------------------------------------
+
+MEDSERRA DISTRIBUIDORA LTDA / 60.540.615/0001-32
+
+25351.021252/2026-61 / 1424445
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0109245261
+
+--------------------------------------
+
+NEWDATA PESQUISAS CLINICAS E CONSULTORIA EMPRESARIAL NA AREA DE SAUDE LTDA / 46.261.816/0002-50
+
+25351.020749/2026-61 / 1424401
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: MEDICAMENTO
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 0106768263
+
+--------------------------------------
+
+MANIPULADOS PHARMA FIT LTDA / 63.653.624/0001-28
+
+25351.016743/2026-90 / 1424095
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0086383264

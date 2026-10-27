@@ -1,0 +1,357 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.462, DE 9 DE ABRIL DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "1462"
+data: 2026-04-09
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 13/04/2026, seção 1, p. 230"
+data_publicacao: 2026-04-13
+edicao: "69"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.462-de-9-de-abril-de-2026-698962860"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 1.462, DE 9 DE ABRIL DE 2026
+
+RESOLUÇÃO-RE nº 1.462, DE 9 DE ABRIL DE 2026
+
+O GERENTE-GERAL SUBSTITUTO DE COSMÉTICOS E SANEANTES DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir os registros e as petições dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RODRIGO ABRÃO VELOSO TAVEIRA
+
+## ANEXO
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO E MARCA
+
+NÚMERO DO PROCESSO / REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+&CO. INDUSTRIA E COMERCIO DE COSMETICOS LTDA - EPP / 17.153.030/0001-30
+
+PROTETOR SOLAR FACIAL FPS 60 - PODER VERDE
+
+25351.097128/2025-95 / 280880153
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0785833/25-1
+
+--------------------------------------
+
+ANCLA´S INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - EPP / 19.138.182/0001-90
+
+AUGE PROTETOR SOLAR FPS 60
+
+25351.210465/2025-84 / 275470127
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1493217/25-9
+
+DERMOPLEX SUN PROTETOR SOLAR FACIAL FPS 70
+
+25351.225308/2025-73 / 275470128
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1563911/25-6
+
+DERMOPLEX SUN FPS 30 PROTETOR SOLAR FACIAL
+
+25351.225331/2025-68 / 275470129
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1563942/25-9
+
+DERMOPLEX SUN BI-GEL PROTETOR SOLAR FACIAL FPS 35
+
+25351.230285/2025-19 / 275470130
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1596025/25-5
+
+DERMOPLEX SUN BI-GEL PROTETOR SOLAR FACIAL FPS 60
+
+25351.230624/2025-67 / 275470131
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1596897/25-2
+
+--------------------------------------
+
+ATHENAS INDÚSTRIA E TERCERIZAÇÃO DE COSMÉTICOS LTDA EPP / 01.287.021/0001-00
+
+PROTETOR SOLAR SPORT FPS 50 OAZ EUROFARMA
+
+25351.226497/2025-00 / 266700226
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1570153/25-6
+
+PROTETOR SOLAR SPORT FPS 70 OAZ EUROFARMA
+
+25351.226502/2025-76 / 266700227
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1570168/25-3
+
+--------------------------------------
+
+CCD COSM CIENTIFICA DERM COMERCIO E INDUSTRIA LTDA / 40.367.856/0001-14
+
+PHOTOAGE WATER GOLD FPS 50 DERMAGE
+
+25351.219386/2025-39 / 217170288
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1533208/25-5
+
+BK COMPACT FPS 60 COR 2 MÉDIO LIGHT DERMAGE
+
+25351.938209/2021-21 / 217170263
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0818259/25-6
+
+BK COMPACT FPS 60 COR 3 MÉDIO DERMAGE
+
+25351.938254/2021-86 / 217170264
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0818266/25-2
+
+BK COMPACT FPS 60 COR 1 CLARO DERMAGE
+
+25351.938309/2021-58 / 217170265
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0818257/25-3
+
+--------------------------------------
+
+CIMED INDUSTRIA S.A / 02.814.497/0001-07
+
+XÔ INSETO! KIDS
+
+25351.878967/2021-83 / 244520002
+
+238 - REG. COSMÉTICOS - Revalidação de Registro / 1146997/25-6
+
+--------------------------------------
+
+COSMO INDUSTRIA E COMERCIO DE COSMETICOS LTDA / 24.769.185/0001-61
+
+PROTETOR SOLAR PS-05 FPS 70 PRINCIPIA COR 3.0
+
+25351.000614/2025-07 / 289110020
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0653616/25-2
+
+PROTETOR SOLAR PS-05 FPS 70 PRINCIPIA COR 1.0
+
+25351.000651/2025-15 / 289110026
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0010397/26-4
+
+PROTETOR SOLAR PS-05 FPS 70 PRINCIPIA COR 1.0
+
+25351.000651/2025-15 / 289110026
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0652960/25-1
+
+PROTETOR SOLAR PS-05 FPS 70 PRINCIPIA COR 1.0
+
+25351.000651/2025-15 / 289110026
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 1657880/25-7
+
+PROTETOR SOLAR PS-05 FPS 70 PRINCIPIA COR 4.0
+
+25351.000652/2025-51 / 289110027
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0653813/25-2
+
+PROTETOR SOLAR PS-05 FPS 70 PRINCIPIA COR 2.0
+
+25351.463001/2024-98 / 289110021
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0010395/26-1
+
+PROTETOR SOLAR PS-05 FPS 70 PRINCIPIA COR 2.0
+
+25351.463001/2024-98 / 289110021
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0653257/25-2
+
+PROTETOR SOLAR PS-05 FPS 70 PRINCIPIA COR 6.0
+
+25351.463008/2024-18 / 289110022
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0654063/25-7
+
+PROTETOR SOLAR PS-05 FPS 70 PRINCIPIA COR 5.0
+
+25351.463076/2024-79 / 289110025
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0653913/25-7
+
+--------------------------------------
+
+Cosmoderma industria e com. ltda- me / 09.601.610/0001-15
+
+PROTETOR SOLAR PRO SUMMER FACIAL FPS 50
+
+25351.035980/2016-92 / 251160043
+
+238 - REG. COSMÉTICOS - Revalidação de Registro / 0111251/26-5
+
+PROTETOR SOLAR PRO SUMMER FACIAL FPS 50
+
+25351.035980/2016-92 / 251160043
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0957272/25-1
+
+REPELENTE DE INSETOS REPELMAX ULTRA
+
+25351.184731/2016-49 / 251160042
+
+238 - REG. COSMÉTICOS - Revalidação de Registro / 0105677/26-4
+
+PROSUMMER KIDS - FPS 50
+
+25351.411824/2019-71 / 251160056
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0957266/25-1
+
+ALCOMAX ÁLCOOL GEL ANTI SÉPTICO
+
+25351.608625/2009-45 / 251160001
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0052063/25-9
+
+ALCOMAX ÁLCOOL GEL ANTI SÉPTICO
+
+25351.608625/2009-45 / 251160001
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 0079289/25-8
+
+--------------------------------------
+
+DAHUER LABORATÓRIO LTDA / 82.914.334/0001-35
+
+LOÇÃO REPELENTE DE INSETOS DEET CUIDMAIS
+
+25351.111528/2025-11 /
+
+2721 - REG. COSMÉTICOS - Desistência de petição/processo a pedido / 1592508/25-1
+
+LOÇÃO REPELENTE DE INSETOS DEET CUIDMAIS
+
+25351.235120/2025-33 / 215630276
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1620468/25-5
+
+SPRAY REPELENTE DE INSETOS DEET CUIDMAIS
+
+25351.235226/2025-37 / 215630277
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1620884/25-9
+
+--------------------------------------
+
+FARMOQUÍMICA S/A / 33.349.473/0001-58
+
+IMECAP ACTSUN® FPS 60 FACIAL COM COR 3.0 ESCURO
+
+25351.114395/2025-34 / 235400221
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0893320/25-1
+
+IMECAP ACTSUN® FPS 60 FACIAL COM COR 2.0 MÉDIO
+
+25351.114400/2025-17 / 235400222
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0893337/25-1
+
+IMECAP ACTSUN® FPS 60 FACIAL COM COR 1.0 CLARO
+
+25351.115328/2025-37 / 235400223
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0899503/25-0
+
+--------------------------------------
+
+FLORA PRODUTOS DE HIGIENE E LIMPEZA S.A / 08.505.736/0001-23
+
+NO INSET LOÇÃO HIDRATANTE REPELENTE DE INSETOS
+
+25351.210024/2016-96 / 244700193
+
+238 - REG. COSMÉTICOS - Revalidação de Registro / 1624864/25-2
+
+NO INSET SPRAY REPELENTE DE INSETOS
+
+25351.352779/2016-20 / 244700194
+
+238 - REG. COSMÉTICOS - Revalidação de Registro / 1624865/25-9
+
+--------------------------------------
+
+INSTITUTO BRASIL COSMÉTICOS INDÚSTRIA E COMÉRCIO LTDA - ME / 04.658.623/0001-07
+
+Henné Pó - Zilda
+
+25351.221382/2025-11 / 234630065
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1542245/25-7
+
+Henné Pó - Zilda Preto Normal
+
+25351.221389/2025-32 / 234630066
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1542262/25-9
+
+--------------------------------------
+
+LIPSON COSMETICOS LTDA / 61.610.515/0001-06
+
+ROSA V PROTETOR SOLAR FACIAL INCOLOR FPS 70
+
+25351.214672/2025-16 / 212392907
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1512795/25-9
+
+--------------------------------------
+
+RECKITT BENCKISER (BRASIL) LTDA / 59.557.124/0001-15
+
+GEL SBP
+
+25351.110012/2016-33 / 203451014
+
+238 - REG. COSMÉTICOS - Revalidação de Registro / 0101944/26-8
+
+--------------------------------------
+
+SAVOY INDÚSTRIA DE COSMÉTICOS S.A. / 15.392.876/0001-06
+
+CENOURA&BRONZE PROTETOR SOLAR FPS 50
+
+25351.883948/2023-31 / 284380062
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0854421/25-4
+
+--------------------------------------
+
+SCIENCEUTICALS INDUSTRIA & INOVACAO EM COSMETICOS LTDA / 03.656.197/0001-00
+
+ECO SUNCARE FPS 80 JOÁ ECO SKINCARE
+
+25351.168986/2025-21 / 230860128
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1246501/25-2
+
+--------------------------------------
+
+SKIN LAB INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA ME / 06.302.732/0001-12
+
+PROTETOR SOLAR MINERAL RESVERATROX FPS 30 - LEES SKINCARE
+
+25351.212468/2025-52 / 248840017
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1502665/25-5

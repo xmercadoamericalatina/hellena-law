@@ -1,0 +1,421 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.539, DE 8 DE SETEMBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3539"
+data: 2026-09-08
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 09/09/2026, seção 1, p. 103"
+data_publicacao: 2026-09-09
+edicao: "170"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.539-de-8-de-setembro-de-2026-730725695"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 3.539, DE 8 DE SETEMBRO DE 2026
+
+RESOLUÇÃO-RE Nº 3.539, DE 8 DE SETEMBRO DE 2026
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Cancelar as Autorizações de Funcionamento (AFE) e as Autorizações Especiais (AE) constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+drogarias pacheco s.a / 33.438.250/0425-95
+
+25351.293050/2013-02 / 0925526
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0922849269
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGARIA SAO PAULO S.A. / 61.412.110/0511-40
+
+25351.374579/2014-07 / 7224285
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0922716269
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGARIAS PACHECO S/A / 33.438.250/0645-64
+
+25351.551093/2022-09 / 7907168
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0922818266
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMÉRCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0586-04
+
+25351.598784/2016-10 / 7495400
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0924753269
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0943-25
+
+25351.643712/2020-11 / 7772723
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0924770261
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+PRESTOMEDI DISTRIBUIDORA DE PRODUTOS PARA A SAUDE LTDA - ME / 10.749.915/0001-58
+
+25025.017446/2010-13 / 8068852
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0920490263
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMÉRCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0433-30
+
+25351.452815/2015-14 / 7404364
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0924762268
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGARIA SAO PAULO S.A. / 61.412.110/0464-90
+
+25351.131588/2013-16 / 0908351
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0922753261
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0788-00
+
+25351.137949/2019-23 / 7641051
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0924744260
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/1338-35
+
+25351.840229/2023-25 / 5055781
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0926011260
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/1219-00
+
+25351.415969/2023-27 / 7128413
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0924737263
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/1105-41
+
+25351.077327/2022-34 / 7883386
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0925907260
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGARIA AGUA DOCE LTDA / 38.489.238/0002-86
+
+25351.416660/2024-35 / 5131571
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0924164263
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+PRESTOMEDI DISTRIBUIDORA DE PRODUTOS PARA A SAUDE LTDA - ME / 10.749.915/0001-58
+
+25351.455217/2009-36 / 1080044
+
+70802 - AFE - CANCELAMENTO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS / 0920090265
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGARIAS PACHECO S/A / 33.438.250/0686-32
+
+25351.434096/2023-51 / 7154989
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0922905266
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/1424-00
+
+25351.442428/2024-52 / 5147770
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0926000268
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGARIA M A BRITO LTDA / 11.444.248/0001-68
+
+25351.379224/2011-53 / 0782506
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0921542267
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+PRESTOMEDI DISTRIBUIDORA DE PRODUTOS PARA A SAUDE LTDA - ME / 10.749.915/0001-58
+
+25025.059819/2009-54 / 1224056
+
+70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 0920099262
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR / 88.212.113/0794-40
+
+25351.457785/2019-58 / 7669061
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0925054267
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGARIAS PACHECO S/A / 33.438.250/0633-20
+
+25351.138809/2023-59 / 7972273
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0922932263
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/1309-09
+
+25351.721983/2023-67 / 5043111
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0925958263
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/1318-91
+
+25351.947655/2024-70 / 5067485
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0925935263
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMÉRCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0607-73
+
+25351.133808/2017-70 / 7506774
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0924768266
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGARIAS PACHECO S/A / 33.438.250/0646-45
+
+25351.132399/2021-71 / 7868700
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0922884269
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGA CELIA POPULAR LTDA / 40.811.185/0001-39
+
+25351.014409/2022-78 / 7874414
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0926608266
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/1393-61
+
+25351.411511/2024-80 / 5127871
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0925862266
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/1222-05
+
+25351.402595/2023-80 / 7058372
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0925979261
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/1205-04
+
+25351.099942/2023-82 / 7969258
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0925845264
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0976-93
+
+25351.498219/2023-82 / 7604645
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0925832260
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/1408-82
+
+25351.429110/2024-86 / 5136383
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0925052264
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/1220-43
+
+25351.234194/2023-91 / 7982053
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0924754265
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0887-83
+
+25351.091723/2021-93 / 7787363
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0925879266
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+AGILITE LOGISTICA E TRANSPORTES LTDA. / 34.624.842/0002-17
+
+25351.075085/2025-97 / 8317250
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0925539261
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.

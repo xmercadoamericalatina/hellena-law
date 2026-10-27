@@ -1,0 +1,111 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.618, DE 2 DE JULHO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "2618"
+data: 2026-07-02
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 06/07/2026, seção 1, p. 145"
+data_publicacao: 2026-07-06
+edicao: "124"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.618-de-2-de-julho-de-2026-716866312"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 2.618, DE 2 DE JULHO DE 2026
+
+RESOLUÇÃO-RE nº 2.618, DE 2 DE JULHO DE 2026
+
+A GERENTE-GERAL SUBSTITUTA DE ALIMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 96, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Declarar o cancelamento das notificações relacionadas à Gerência-Geral de Alimentos, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ÂNGELA KARINNE FAGUNDES DE CASTRO
+
+## ANEXO
+
+RELATÓRIO DE CONFERÊNCIA - ALIMENTOS: 466326
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO
+
+NÚMERO DO PROCESSO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+------------------------------------------
+
+BIOGUMMY INDUSTRIA LTDA / 31.318.471/0001-76
+
+SUPLEMENTO ALIMENTAR EM PASTILHA DE GOMA DE VITAMINA A, D, E, C, B5, B6, B7, B12
+
+25351.087513/2026-13
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0638937/26-6
+
+--------------------------------------
+
+DUX COMERCIO E IMPORTACAO LTDA / 31.112.243/0002-26
+
+SUPLEMENTO ALIMENTAR EM PÓ
+
+25351.069245/2026-40
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0620936/26-0
+
+--------------------------------------
+
+ORIENT MIX FITOTERÁPICOS DO BRASIL LTDA. / 73.657.876/0001-89
+
+SUPLEMETO ALIMENTAR DE ÁCIDO FÓLICO, VITAMINA B6 E VITAMINA B12 EM CÁPSULA
+
+25351.231559/2025-97
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0635088/26-7
+
+--------------------------------------
+
+QUANTUM NUTRITION LTDA / 24.985.325/0001-39
+
+CREATINA MONOHIDRATADA
+
+25351.009320/2026-13
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0639611/26-9
+
+VITAMINA B12- METILCOBALAMINA
+
+25351.238920/2025-14
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0644836/26-4
+
+COMPLEXO B
+
+25351.013974/2026-41
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0639803/26-1
+
+VITAMINA K2 MK-7 (MENAQUINONA-7)
+
+25351.004743/2026-47
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0638761/26-6
+
+--------------------------------------
+
+SANAVITA INDÚSTRIA E COMÉRCIO DE ALIMENTOS FUNCIONAIS LTDA / 53.967.360/0001-23
+
+SUPLEMENTO ALIMENTAR DE CREATINA EM PÓ
+
+25351.008043/2026-21
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0645175/26-6
+
+SUPLEMENTO ALIMENTAR DE CREATINA EM PÓ
+
+25351.008011/2026-26
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0645120/26-9

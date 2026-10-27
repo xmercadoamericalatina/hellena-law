@@ -1,0 +1,97 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.443, DE 9 DE ABRIL DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "1443"
+data: 2026-04-09
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 13/04/2026, seção 1, p. 202"
+data_publicacao: 2026-04-13
+edicao: "69"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.443-de-9-de-abril-de-2026-698949364"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 1.443, DE 9 DE ABRIL DE 2026
+
+RESOLUÇÃO-RE Nº 1.443, DE 9 DE ABRIL DE 2026
+
+A GERENTE-GERAL DE ALIMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 96, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Indeferir as petições de avaliação relacionadas à Gerência-Geral de Alimentos, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRÍCIA FERNANDES NANTES DE CASTILHO
+
+## ANEXO
+
+RELATÓRIO DE CONFERÊNCIA - ALIMENTOS: 268426
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO
+
+NÚMERO DO PROCESSO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+APIS VIDA INDUSTRIA E COMÉRCIO DE PRODUTOS FARMACEUTICOS LTDA / 02.943.733/0001-95
+
+HIDROXIESTEARATO (SOLUTOL HS 15)
+
+25351.237242/2025-64
+
+4112 - AVALIAÇÃO DE INCLUSÃO DE ADITIVOS ALIMENTARES, EXCETO ESPÉCIES BOTÂNICAS / 1631713/25-6
+
+--------------------------------------
+
+DANISCO BRASIL LTDA / 46.278.016/0003-23
+
+PROPILENOGLICOL (INS 1520)
+
+25351.206974/2025-11
+
+4113 - AVALIAÇÃO DE EXTENSÃO DE USO DE ADITIVOS ALIMENTARES, EXCETO ESPÉCIES BOTÂNICAS / 1477447/25-3
+
+--------------------------------------
+
+FUNDAÇÃO SRI VAJERA / 04.187.600/0001-61
+
+AMLA (EMBLICA OFFICINALIS)
+
+25351.184017/2025-18
+
+4146 - AVALIAÇÃO DE NOVOS ALIMENTOS E NOVOS INGREDIENTES COM HISTÓRICO DE CONSUMO SEGURO EM OUTROS PAÍSES / 1345597/25-8
+
+--------------------------------------
+
+NANOFOOD INDUSTRIA E COMERCIO S/A / 52.010.722/0001-20
+
+NANOQUITOSANA
+
+25351.159553/2025-85
+
+4112 - AVALIAÇÃO DE INCLUSÃO DE ADITIVOS ALIMENTARES, EXCETO ESPÉCIES BOTÂNICAS / 1185390/25-1
+
+--------------------------------------
+
+SOUTO, CORREA ADVOCACIA / 17.458.287/0001-09
+
+ASSOCIAÇÃO DE PEDIOCOCCUS PENTOSACEUS (CECT 8330) E BIFIDOBACTERIUM LONGUM (CECT 7894)
+
+25351.074342/2025-73
+
+4107 - AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE PROBIÓTICOS / 0628100/25-6
+
+--------------------------------------
+
+VIDA FORTE NUTRIENTES INDÚSTRIA E COMÉRCIO DE PRODUTOS NATURAIS LTDA / 07.455.576/0001-92
+
+EXTRATO AQUOSO DE SIRAITIA GROSVENORII (MONK FRUIT) PADRONIZADO EM 30% DE MOGROSÍDEO V
+
+25351.235764/2025-21
+
+4175 - AVALIAÇÃO DE INCLUSÃO OU EXTENSÃO DE USO DE ADITIVOS ALIMENTARES POR ADMISSÃO DE DOCUMENTAÇÃO EMITIDA POR AUTORIDADE REGULADORA ESTRANGEIRA EQUIVALENTE COMO REFERÊNCIA ÚNICA / 1624057/25-0

@@ -1,0 +1,216 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.218, DE 12 DE JUNHO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2218"
+data: 2025-06-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/06/2025, seção 1, p. 119"
+data_publicacao: 2025-06-16
+edicao: "112"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.218-de-12-de-junho-de-2025-636272120"
+baixado_em: 2026-10-16
+sha256_html_fonte: f13c17adaafc01ca922ef2d4be6c5ba3c8a4b7fd90291a5fd9ae556680f1ce4f
+---
+# RESOLUÇÃO-RE nº 2.218, DE 12 DE JUNHO DE 2025
+
+RESOLUÇÃO-RE nº 2.218, DE 12 DE JUNHO DE 2025
+
+O GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021;
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+Marcus Aurélio Miranda de Araújo
+
+## ANEXO
+
+EMPRESA: AIR LIQUIDE BRASIL LTDA - CNPJ: 00.331.788/0027-58 - AUTORIZ/MS: 2200003
+
+ENDEREÇO: rua david canabarro, 600
+
+MUNICÍPIO: CANOAS - UF: RS - EXPEDIENTE: 1643595/24-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais (Embalagem primária): Gás
+
+.........................................
+
+EMPRESA: Air Liquide Brasil Ltda - CNPJ: 00.331.788/0060-79 - AUTORIZ/MS: 2200003
+
+ENDEREÇO: RUA Governador Aderbal Ramos da Silva, 313
+
+MUNICÍPIO: SÃO JOSÉ - UF: SC - EXPEDIENTE: 1379947/24-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais: Gás
+
+.........................................
+
+EMPRESA: ENVASAMENTO TECNOLOGIA DE AEROSOIS LTDA - CNPJ: 62.970.991/0001-92 - AUTORIZ/MS: 1025637
+
+ENDEREÇO: AV ALBERTO JACKSON BYINGTON 2870
+
+MUNICÍPIO: OSASCO - UF: SP - EXPEDIENTE: 1583419/24-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Emulsões; Emulsões Aerossóis; Espumas; Líquidos; Soluções; Soluções Aerossóis; Suspensões; Suspensões Aerossóis
+
+.........................................
+
+EMPRESA FABRICANTE: GP GRENZACH PRODUKTIONS GMBH
+
+ENDEREÇO: EMIL-BARELL-STRASSE 7, 79639 GRENZACH-WYHLEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000286
+
+EMPRESA SOLICITANTE: BAYER S.A. - CNPJ: 18.459.628/0001-15
+
+AUTORIZ/MS: 1070568 - EXPEDIENTE(s): 1373346/24-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Cápsulas Moles
+
+.........................................
+
+EMPRESA FABRICANTE: LABORATORIOS LEÓN FARMA S.A.
+
+ENDEREÇO: POLÍGONO INDUSTRIAL NAVATEJERA, C/ LA VALLINA S/N, VILLAQUILAMBRE - LEÓN - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.000355
+
+EMPRESA SOLICITANTE: ADIUM S.A. - CNPJ: 55.980.684/0001-27
+
+AUTORIZ/MS: 1022141 - EXPEDIENTE(s): 1406361/24-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: HOVIONE FARMACIÊNCIA, S.A.
+
+ENDEREÇO: QUINTA SÃO PEDRO, SETE CASAS, LOURES, 2674-506 - PAÍS: PORTUGAL - CÓDIGO ÚNICO: A.001293
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 1520512/24-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Pós
+
+.........................................
+
+EMPRESA FABRICANTE: EUROFARMA ARGENTINA S.A.
+
+ENDEREÇO: AVENIDA SAN MARTIN, Nº 4550, BUENOS AIRES - PAÍS: ARGENTINA - CÓDIGO ÚNICO: A.001358
+
+EMPRESA SOLICITANTE: EUROFARMA LABORATÓRIOS S.A. - CNPJ: 61.190.096/0001-92
+
+AUTORIZ/MS: 1000438 - EXPEDIENTE(s): 1691633/24-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos; Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT BELGIUM S.A.
+
+ENDEREÇO: FONT SAINT LANDRY 10, BRUXELAS, 1120 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000131
+
+EMPRESA SOLICITANTE: Samsung Bioepis br Pharmaceutical ltda. - CNPJ: 24.563.776/0001-88
+
+AUTORIZ/MS: 1159210 - EXPEDIENTE(s): 1441685/24-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG
+
+ENDEREÇO: SCHÜTZENSTRASSE 87, 88212 RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000625
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 1575841/24-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: JANSSEN ORTHO LLC
+
+ENDEREÇO: STATE ROAD 933, KM 0,1, MAMEY WARD, GURABO, PR 00778 - PAÍS: PORTO RICO - CÓDIGO ÚNICO: A.000328
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 1309694/24-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: DEBIOPHARM RESEARCH & MANUFACTURING S.A.
+
+ENDEREÇO: ROUTE DU LEVANT,146,1920 MARTIGNY - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.000178
+
+EMPRESA SOLICITANTE: ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A - CNPJ: 60.659.463/0029-92
+
+AUTORIZ/MS: 1005739 - EXPEDIENTE(s): 1490803/24-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: ANDERSONBRECON (UK) LIMITED
+
+ENDEREÇO: UNITS 2-7, WYE VALLEY BUSINESS PARK, BRECON ROAD, HAY-ON-WYE, HEREFORD, HR3 5PG - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.000834
+
+EMPRESA SOLICITANTE: PINT PHARMA PRODUTOS MEDICO-HOSPITALARES E FARMACEUTICOS LTDA - CNPJ: 21.896.000/0001-91
+
+AUTORIZ/MS: 1139004 - EXPEDIENTE(s): 1642665/24-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: ALLERGAN PHARMACEUTICALS IRELAND UNLIMITED COMPANY
+
+ENDEREÇO: CASTLEBAR ROAD, WESTPORT, CO. MAYO - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.000024
+
+EMPRESA SOLICITANTE: ALLERGAN PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 43.426.626/0001-77
+
+AUTORIZ/MS: 1001478 - EXPEDIENTE(s): 1642578/24-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: GRIFOLS THERAPEUTICS LLC
+
+ENDEREÇO: 8368 CLAYTON BLVD, CLAYTON, NORTH CAROLINA (NC) 27520 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000608
+
+EMPRESA SOLICITANTE: GRIFOLS BRASIL LTDA - CNPJ: 02.513.899/0001-71
+
+AUTORIZ/MS: 1036417 - EXPEDIENTE(s): 1685279/24-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: RECHON LIFE SCIENCE AB
+
+ENDEREÇO: SOLDATTORPSVÄGEN 5, LIMHAMN, 216 13 - PAÍS: SUÉCIA - CÓDIGO ÚNICO: A.000523
+
+EMPRESA SOLICITANTE: FARMA VISION IMPORTAÇÃO E EXPORTAÇÃO DE MEDICAMENTOS LTDA - CNPJ: 09.058.502/0001-48
+
+AUTORIZ/MS: 1074651 - EXPEDIENTE(s): 0519906/25-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: SERDALE S.A.S.
+
+ENDEREÇO: KM 1.5 VIA BRICEÑO ZIPAQUIRÁ - TOCANCIPA VEREDA VERGANZO S. TIBITOC, AGRUPACIÓN ZONA FRANCA DE TOCANCIPÁ, BODEGA 45B, TOCANCIPA - CUNDINAMARCA - PAÍS: COLÔMBIA - CÓDIGO ÚNICO: A.001663
+
+EMPRESA SOLICITANTE: QUALIGREEN DISTRIBUIDORA E IMPORTADORA DE MEDICAMENTOS LTDA - CNPJ: 52.629.244/0001-31
+
+AUTORIZ/MS: 1302570 - EXPEDIENTE(s): 0486529/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções

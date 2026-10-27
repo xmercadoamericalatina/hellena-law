@@ -1,0 +1,105 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.517, DE 25 DE JUNHO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "2517"
+data: 2026-06-25
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 29/06/2026, seção 1, p. 148"
+data_publicacao: 2026-06-29
+edicao: "119"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.517-de-25-de-junho-de-2026-734603383"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 2.517, DE 25 DE JUNHO DE 2026
+
+RESOLUÇÃO-RE nº 2.517, DE 25 DE JUNHO DE 2026
+
+A GERENTE-GERAL SUBSTITUTA DE ALIMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 96, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Declarar o cancelamento das notificações relacionadas à Gerência-Geral de Alimentos, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ÂNGELA KARINNE FAGUNDES DE CASTRO
+
+## ANEXO
+
+RELATÓRIO DE CONFERÊNCIA - ALIMENTOS: 447326
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO
+
+NÚMERO DO PROCESSO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+--------------------------------------
+
+FORTLIFE INDUSTRIA LTDA / 16.001.349/0001-88
+
+SUPLEMENTO ALIMENTAR EM CÁPSULA - EXTRATO DE LARANJA DE MORO
+
+25351.221457/2025-63
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0594492/26-9
+
+--------------------------------------
+
+SALUTE INDUSTRIA E COMERCIO DE ALIMENTOS E SUPLEMENTOS LTDA. / 59.709.293/0001-23
+
+WHEY ISOMIX DEFINITION
+
+25351.174673/2025-11
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0599600/26-7
+
+WHEY ISO 34 DEGUSTAÇÃO
+
+25351.206700/2025-13
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0611554/26-3
+
+WHEY ISOLATE PROTEIN MIX 39
+
+25351.208835/2025-13
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0611652/26-3
+
+WHEY MULHER
+
+25351.208989/2025-13
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0611689/26-2
+
+COLÁGENO MULHER
+
+25351.010351/2026-17
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0593280/26-7
+
+BARUKI
+
+25351.027526/2026-25
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0593311/26-1
+
+TESTORED PRO MAX
+
+25351.028487/2026-83
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0593263/26-7
+
+WHEY PROTEIN 100%
+
+25351.174677/2025-91
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0610411/26-8
+
+TESTORED
+
+25351.025452/2026-92
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0593297/26-1

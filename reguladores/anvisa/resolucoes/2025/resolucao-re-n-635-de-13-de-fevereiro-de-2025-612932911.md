@@ -1,0 +1,213 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 635, DE 13 DE FEVEREIRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "635"
+data: 2025-02-13
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 17/02/2025, seção 1, p. 82"
+data_publicacao: 2025-02-17
+edicao: "33"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-635-de-13-de-fevereiro-de-2025-612932911"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 635, DE 13 DE FEVEREIRO DE 2025
+
+RESOLUÇÃO-RE Nº 635, DE 13 DE FEVEREIRO DE 2025
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Cancelar os registros por declaração de caducidade dos medicamentos sob os números de processos constantes nesta Resolução, nos termos do § 7º do art. 12 da Lei nº 6.360, de 1976.
+
+**Art. 2º** O cancelamento dos registros por declaração de caducidade abrange os registros dos produtos cuja revalidação não tenha sido solicitada no prazo referido no § 6º do artigo 12 da Lei nº 6.360, de 1976.
+
+**Art. 3º** Este procedimento finaliza administrativamente os processos, para aqueles registros que não tiverem manifestação em contrário das empresas detentoras.
+
+**Art. 4º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+--------------------------------------------------
+
+3M DO BRASIL LTDA 45985371000108
+
+CLORETO DE BENZALCÔNIO + CLORIDRATO DE LIDOCAÍNA MONOIDRATADA
+
+NEXCARE 25351.166617/2002-16 01/2025
+
+10070 MEDICAMENTO NOVO - CADUCIDADE DE REGISTRO DE MEDICAMENTO 0163324/25-4
+
+1.0207.0085.001-5 24 Meses
+
+1.30 MG/ML + 25 MG/ML SOL CT FR PLAS OPC X 50 ML
+
+1.0207.0085.002-3 24 Meses
+
+1.30 MG/ML + 25 MG /ML SOL CT FR PLAS OPC SPRAY X 30 ML
+
+1.0207.0085.003-1 24 Meses
+
+1.30 MG/ML + 25 MG/ML SOL CT FR PLAST OPC GOTEJADOR X 30 ML
+
+1.0207.0085.004-1 24 Meses
+
+1.30 MG/ML + 25 MG/ML SOL CT FR PLAST OPC SPRAY X 30 ML
+
+1.0207.0085.005-8 24 Meses
+
+1.30 MG/ML + 25 MG/ML SOL CT FR PLAST OPC GOT X 30 ML
+
+--------------------------------------------------
+
+ACCORD FARMACÊUTICA LTDA 64171697000146
+
+PANTOPRAZOL
+
+PROTTON 25351.421011/2014-84 01/2025
+
+10066 SIMILARES - CADUCIDADE DE REGISTRO DE MEDICAMENTO 0167353/25-0
+
+1.5537.0038.001-7 24 Meses
+
+20 MG COM REV LIB RETARD CT BL AL/AL X 7
+
+1.5537.0038.002-5 24 Meses
+
+20 MG COM REV LIB RETARD CT BL AL/AL X 14
+
+1.5537.0038.003-3 24 Meses
+
+20 MG COM REV LIB RETARD CT BL AL/AL X 28
+
+1.5537.0038.004-1 24 Meses
+
+20 MG COM REV LIB RETARD CT BL AL/AL X 280
+
+1.5537.0038.005-1 24 Meses
+
+40 MG COM REV LIB RETARD CT BL AL/AL X 7
+
+1.5537.0038.006-8 24 Meses
+
+40 MG COM REV LIB RETARD CT BL AL/AL X 14
+
+1.5537.0038.007-6 24 Meses
+
+40 MG COM REV LIB RETARD CT BL AL/AL X 28
+
+1.5537.0038.008-4 24 Meses
+
+40 MG COM REV LIB RETARD CT BL AL/AL X 280
+
+CLORIDRATO DE METFORMINA
+
+MYTFOR 25351.429159/2014-67 01/2025
+
+10066 SIMILARES - CADUCIDADE DE REGISTRO DE MEDICAMENTO 0163115/25-2
+
+1.5537.0039.001-2 36 Meses
+
+850 MG COM REV CT BL AL PVC TRANS X 30
+
+1.5537.0039.002-0 36 Meses
+
+850 MG COM REV CT BL AL PVC TRANS X 105
+
+1.5537.0039.003-9 36 Meses
+
+850 MG COM REV CT BL AL PVC TRANS X 450
+
+1.5537.0039.004-7 36 Meses
+
+850 MG COM REV CT BL AL PVC TRANS X 15
+
+1.5537.0039.005-5 36 Meses
+
+850 MG COM REV CT BL AL PVC TRANS X 210
+
+1.5537.0039.006-3 36 Meses
+
+850 MG COM REV CT BL AL PVC TRANS X 600
+
+--------------------------------------------------
+
+LABORATÓRIO TEUTO BRASILEIRO S/A 17159229000176
+
+GLIMEPIRIDA
+
+AMAGLYN 25351.194651/2011-47 01/2025
+
+10066 SIMILARES - CADUCIDADE DE REGISTRO DE MEDICAMENTO 0162670/25-1
+
+1.0370.0614.001-1 24 Meses
+
+1 MG COM CT BL AL PLAS INC X 10
+
+1.0370.0614.002-1 24 Meses
+
+1 MG COM CT BL AL PLAS INC X 30
+
+1.0370.0614.003-8 24 Meses
+
+1 MG COM CT BL AL PLAS INC X 450 (EMB HOSP)
+
+1.0370.0614.004-6 24 Meses
+
+2 MG COM CT BL AL PLAS INC X 10
+
+1.0370.0614.005-4 24 Meses
+
+2 MG COM CT BL AL PLAS INC X 30
+
+1.0370.0614.006-2 24 Meses
+
+2 MG COM CT BL AL PLAS INC X 450 (EMB HOSP)
+
+1.0370.0614.007-0 24 Meses
+
+4 MG COM CT BL AL PLAS INC X 10
+
+1.0370.0614.008-9 24 Meses
+
+4 MG COM CT BL AL PLAS INC X 30
+
+1.0370.0614.009-7 24 Meses
+
+4 MG COM CT BL AL PLAS INC X 450 (EMB HOSP)
+
+--------------------------------------------------
+
+LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA 05044984000126
+
+triancinolona acetonida 25351.653014/2010-88 01/2025
+
+10067 GENERICO - CADUCIDADE DE REGISTRO DE MEDICAMENTO 0168170/25-2
+
+1.6773.0322.001-7 24 Meses
+
+1 MG/G PAST CT BG AL X 10 G
+
+1.6773.0322.002-5 24 Meses
+
+1 MG/G PAST CT BG AL X 20 G
+
+1.6773.0322.003-3 24 Meses
+
+1 MG/G PAST CT BG AL X 30 G

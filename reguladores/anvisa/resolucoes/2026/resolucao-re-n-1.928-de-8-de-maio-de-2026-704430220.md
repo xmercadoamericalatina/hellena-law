@@ -1,0 +1,121 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.928, de 8 de MAIO de 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "1928"
+data: 2026-05-08
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 11/05/2026, seção 1, p. 161"
+data_publicacao: 2026-05-11
+edicao: "86"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.928-de-8-de-maio-de-2026-704430220"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 1.928, de 8 de MAIO de 2026
+
+RESOLUÇÃO-RE nº 1.928, de 8 de MAIO de 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor 90 (noventa) dias a partir da data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+--------------------------------------------------
+
+CIFARMA CIENTÍFICA FARMACÊUTICA LTDA 17562075000169
+
+SILYBUM MARIANUM (L.) GAERTN
+
+HEPAT 25351.221265/2025-57 08/2030
+
+10693 MEDICAMENTO TRADICIONAL FITOTERÁPICO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (INCORPORAÇÃO DE EMPRESA) 1541973/25-9
+
+(1697 MEDICAMENTO FITOTERÁPICO - REGISTRO DE MEDICAMENTO - 689252/09-3 - 25351.531031/2009-90)
+
+1.1560.0282.001-0 24 Meses
+
+17,138 MG/ML SUS OR CT 30 FLAC PLAS PP AMB X 10 ML
+
+1.1560.0282.002-9 24 Meses
+
+17,138 MG/ML SUS OR CT 50 FLAC PLAS PP AMB X 10 ML
+
+1.1560.0282.003-7 24 Meses
+
+17,138 MG/ML SUS OR CT 60 FLAC PLAS PP AMB X 10 ML
+
+1.1560.0282.004-5 24 Meses
+
+17,138 MG/ML SUS OR CT 100 FLAC PLAS PP AMB X 10 ML
+
+1.1560.0282.005-3 24 Meses
+
+17,138 MG/ML SUS OR CT FR PLAS PET AMB X 100 ML
+
+1.1560.0282.006-1 24 Meses
+
+17,138 MG/ML SUS OR CT FR PLAS PET AMB X 120 ML
+
+1.1560.0282.007-1 24 Meses
+
+17,138 MG/ML SUS OR CT FR PLAS PET AMB X 150 ML
+
+1.1560.0282.008-8 24 Meses
+
+17,138 MG/ML SUS OR CT FR VD AMB X 100 ML
+
+1.1560.0282.009-6 24 Meses
+
+17,138 MG/ML SUS OR CT FR VD AMB X 120 ML
+
+1.1560.0282.010-1 24 Meses
+
+17,138 MG/ML SUS OR CT FR VD AMB X 150 ML
+
+1.1560.0282.011-8 24 Meses
+
+120 MG COM REV CT BL AL PLAS PVDC TRANS X 10
+
+1.1560.0282.012-6 24 Meses
+
+120 MG COM REV CT BL AL PLAS PVDC TRANS X 20
+
+1.1560.0282.013-4 24 Meses
+
+120 MG COM REV CT BL AL PLAS PVDC TRANS X 30
+
+1.1560.0282.014-2 24 Meses
+
+120 MG COM REV CT BL AL PLAS PVDC TRANS X 45
+
+1.1560.0282.015-0 24 Meses
+
+120 MG COM REV CT BL AL PLAS PVDC TRANS X 60
+
+1.1560.0282.016-9 24 Meses
+
+120 MG COM REV CT BL AL PLAS PVDC TRANS X 100
+
+1.1560.0282.017-7 24 Meses
+
+120 MG COM REV CT BL AL PLAS PVDC TRANS X 200

@@ -1,0 +1,99 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.363, DE 12 DE JUNHO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "2363"
+data: 2026-06-12
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 15/06/2026, seção 1, p. 99"
+data_publicacao: 2026-06-15
+edicao: "109"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.363-de-12-de-junho-de-2026-712061465"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 2.363, DE 12 DE JUNHO DE 2026
+
+RESOLUÇÃO-RE nº 2.363, DE 12 DE JUNHO DE 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo;
+
+**Art. 2º** Esta Resolução entra em vigor 90 (noventa) dias a partir da data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+--------------------------------------------------
+
+COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. 61082426000207
+
+ADAPALENO
+
+DERIVA MICRO 25351.046851/2026-97 07/2035
+
+11200 MEDICAMENTO NOVO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 0258729/26-1
+
+1.7817.1006.001-3 24 Meses
+
+1 MG/G GEL DERM LIB PROL CT BG AL REV X 10G
+
+1.7817.1006.002-1 24 Meses
+
+1 MG/G GEL DERM LIB PROL CT BG AL REV X 15G
+
+1.7817.1006.003-1 24 Meses
+
+1 MG/G GEL DERM LIB PROL CT BG AL REV X 30G
+
+1.7817.1006.004-8 24 Meses
+
+1 MG/G GEL DERM LIB PROL CT BG AL REV X 60G
+
+--------------------------------------------------
+
+TAKEDA FARMACEUTICA BRASIL LTDA 11635171000103
+
+maribavir
+
+LIVTENCITY 25351.051259/2026-15 07/2033
+
+11200 MEDICAMENTO NOVO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 0280149/26-3
+
+1.2627.0018.001-8 36 Meses
+
+200 MG COM REV CT FR PLAS PEAD OPC X 28
+
+1.2627.0018.002-6 36 Meses
+
+200 MG COM REV CT FR PLAS PEAD OPC X 56
+
+1.2627.0018.003-4 36 Meses
+
+200 MG COM REV CT 2 FR PLAS PEAD OPC X 56
+
+acetato de icatibanto
+
+FIRAZYR 25351.051407/2026-93 12/2029
+
+11200 MEDICAMENTO NOVO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 0280471/26-2
+
+1.2627.0019.001-3 36 Meses
+
+10 MG/ML CT 1 SER X 3 ML + AGULHA

@@ -1,0 +1,105 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.211, DE 28 DE MAIO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "2211"
+data: 2026-05-28
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 01/06/2026, seção 1, p. 115"
+data_publicacao: 2026-06-01
+edicao: "101"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.211-de-28-de-maio-de-2026-709508301"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 2.211, DE 28 DE MAIO DE 2026
+
+RESOLUÇÃO-RE nº 2.211, DE 28 DE MAIO DE 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Cancelar o registro sanitário de medicamentos ou de apresentações, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor 90 (noventa) dias a partir da data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+--------------------------------------------------
+
+ELI LILLY DO BRASIL LTDA 43940618000144
+
+TADALAFILA
+
+CIALIS 25351.035707/01-51 01/2028
+
+1446 MEDICAMENTO NOVO - CANCELAMENTO DE REGISTRO DO MEDICAMENTO POR TRANSFERÊNCIA DE TITULARIDADE 0072837/26-8
+
+1.1260.0074.001-8 24 Meses
+
+20 MG COM REV CT BL AL PLAS TRANS X 2
+
+1.1260.0074.002-6 24 Meses
+
+20 MG COM REV CT BL AL PLAS TRANS X 4
+
+1.1260.0074.003-4 24 Meses
+
+20 MG COM REV CT BL AL PLAS TRANS X 8
+
+1.1260.0074.004-2 24 Meses
+
+20 MG COM REV CT BL AL PLAS TRANS X 1
+
+1.1260.0074.005-0 24 Meses
+
+5 MG COM REV CT BL AL PLAS PVC/PE/PCTFE TRANS X 7
+
+1.1260.0074.006-9 24 Meses
+
+5 MG COM REV CT BL AL PLAS PVC/PE/PCTFE TRANS X 14
+
+1.1260.0074.007-7 24 Meses
+
+5 MG COM REV CT BL AL PLAS PVC/PE/PCTFE TRANS X 15
+
+1.1260.0074.008-5 24 Meses
+
+5 MG COM REV CT BL AL PLAS PVC/PE/PCTFE TRANS X 28
+
+1.1260.0074.009-3 24 Meses
+
+5 MG COM REV CT BL AL PLAS PVC/PE/PCTFE TRANS X 30
+
+1.1260.0074.010-7 24 Meses
+
+20 MG COM REV CT BL AL PLAS TRANS X 12
+
+--------------------------------------------------
+
+SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA 61286647000116
+
+PARECOXIBE SÓDICO
+
+QUOXAD 25351.452451/2022-93 07/2035
+
+1990 SIMILAR - CANCELAMENTO DE REGISTRO DO MEDICAMENTO POR TRANSFERÊNCIA DE TITULARIDADE 0063593/26-2
+
+1.0047.0668.001-2 36 Meses
+
+40 MG PO LIOF SOL INJ IV/IM CT FA VD TRANS + DIL AMP VD TRANS X 2ML

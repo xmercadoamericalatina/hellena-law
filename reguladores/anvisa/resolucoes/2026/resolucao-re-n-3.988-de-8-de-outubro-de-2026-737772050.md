@@ -1,0 +1,331 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.988, DE 8 DE OUTUBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "3988"
+data: 2026-10-08
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 13/10/2026, seção 1, p. 126"
+data_publicacao: 2026-10-13
+edicao: "193"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.988-de-8-de-outubro-de-2026-737772050"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 3.988, DE 8 DE OUTUBRO DE 2026
+
+RESOLUÇÃO-RE nº 3.988, DE 8 DE OUTUBRO DE 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Cancelar o registro sanitário de medicamentos e insumos farmacêuticos, ou de apresentações, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor a partir da data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+COMPLEMENTO DIFERENCIAL DA APRESENTAÇÃO
+
+---------------------------------------------------
+
+EMS S/A 57507378000365
+
+albendazol 25351.017459/01-39 08/2026
+
+10081 GENERICO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 1019478/26-9
+
+1.0235.0513.001-1 24 Meses
+
+40 MG/ML SUS OR CT FR VD AMB X 10 ML
+
+Não Informado
+
+---------------------------------------------------
+
+GEOLAB INDÚSTRIA FARMACÊUTICA S/A 03485572000104
+
+clonazepam 25351.060167/2022-94 05/2032
+
+10081 GENERICO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 1048532/26-5
+
+1.5423.0330.001-1 24 Meses
+
+2,5 MG/ML SOL OR CT FR GOT PLAS AMB X 20 ML
+
+Não Informado
+
+1.5423.0330.002-1 24 Meses
+
+2,5 MG/ML SOL OR CX 50 FR GOT PLAS AMB X 20 ML
+
+Não Informado
+
+1.5423.0330.003-8 24 Meses
+
+2,5 MG/ML SOL OR CT FR GOT PLAS OPC X 20 ML
+
+Não Informado
+
+1.5423.0330.004-6 24 Meses
+
+2,5 MG/ML SOL OR CX 50 FR GOT PLAS OPC X 20 ML
+
+Não Informado
+
+losartana potássica 25351.393402/2009-81 07/2026
+
+10081 GENERICO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 1010537/26-9
+
+1.5423.0173.013-2 24 Meses
+
+100 MG COM REV CT BL AL PLAS OPC X 15
+
+Não Informado
+
+1.5423.0173.014-0 24 Meses
+
+100 MG COM REV CT BL AL PLAS OPC X 20
+
+Não Informado
+
+1.5423.0173.015-9 24 Meses
+
+100 MG COM REV CT BL AL PLAS OPC X 30
+
+Não Informado
+
+1.5423.0173.016-7 24 Meses
+
+100 MG COM REV CT BL AL PLAS OPC X 60
+
+Não Informado
+
+1.5423.0173.017-5 24 Meses
+
+100 MG COM REV CT BL AL PLAS OPC X 100
+
+Não Informado
+
+1.5423.0173.018-3 24 Meses
+
+100 MG COM REV CT BL AL PLAS OPC X 500
+
+Não Informado
+
+1.5423.0173.029-9 24 Meses
+
+100 MG COM REV CT BL AL PLAS OPC X 450
+
+Não Informado
+
+1.5423.0173.030-2 24 Meses
+
+100 MG COM REV CT BL AL PLAS OPC X 600
+
+Não Informado
+
+clonazepam
+
+ZILEPAM 25351.735030/2009-25 07/2026
+
+10081 GENERICO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 1014760/26-8
+
+1.5423.0175.008-7 24 Meses
+
+2,5 MG/ML SOL OR CT FR GOT PLAS AMB X 20 ML
+
+Não Informado
+
+1.5423.0175.009-5 24 Meses
+
+2,5 MG/ML SOL OR CX 50 FR GOT PLAS AMB X 20 ML
+
+Não Informado
+
+1.5423.0175.010-9 24 Meses
+
+2,5 MG/ML SOL OR CT FR GOT PLAS OPC X 20 ML
+
+Não Informado
+
+1.5423.0175.011-7 24 Meses
+
+2,5 MG/ML SOL OR CX 50 FR GOT PLAS OPC X 20 ML
+
+Não Informado
+
+---------------------------------------------------
+
+LABORATÓRIO TEUTO BRASILEIRO S/A 17159229000176
+
+cefalotina sódica tamponada
+
+INKEF 25351.166434/2015-15 03/2031
+
+1621 SIMILAR - CANCELAMENTO DE REGISTRO DO MEDICAMENTO 0923127/26-7
+
+1.0370.0752.001-2 24 Meses
+
+1 G PO SOL INJ/INFUS IV/IM CT FA VD TRANS + DIL AMP VD TRANS X 4 ML
+
+Não Informado
+
+1.0370.0752.002-0 24 Meses
+
+1 G PO SOL INJ/INFUS IV/IM CX 50 FA VD TRANS + 50 DIL AMP VD TRANS X 4 ML
+
+Não Informado
+
+1.0370.0752.003-9 24 Meses
+
+1 G PO SOL INJ/INFUS IV/IM CT FA VD TRANS + DIL AMP PLAS X 4 ML
+
+Não Informado
+
+1.0370.0752.004-7 24 Meses
+
+1 G PO SOL INJ/INFUS IV/IM CX 50 FA VD TRANS + 50 DIL AMP PLAS X 4ML
+
+Não Informado
+
+1.0370.0752.005-5 24 Meses
+
+1 G PO SOL INJ/INFUS IV/IM CT FA VD TRANS
+
+Não Informado
+
+1.0370.0752.006-3 24 Meses
+
+1 G PO SOL INJ/INFUS IV/IM CX 50 FA VD TRANS
+
+Não Informado
+
+---------------------------------------------------
+
+OPELLA HEALTHCARE BRAZIL LTDA 38391432000143
+
+acetonida de triancinolona
+
+NASACORT 25351.617302/2023-67 09/2025
+
+10091 MEDICAMENTO NOVO - CANCELAMENTO DE REGISTRO DO MEDICAMENTO - ANVISA 0987416/26-0
+
+1.8620.0012.001-0 18 Meses
+
+550 MCG/ML SUS NAS CT FR PLAS OPC SPRAY X 16,5 ML
+
+Não Informado
+
+---------------------------------------------------
+
+UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A 60665981000118
+
+omeprazol sódico
+
+omeprazol 25351.482057/2020-18 05/2031
+
+10088 GENERICO - CANCELAMENTO DE REGISTRO DO MEDICAMENTO - ANVISA 1014445/26-5
+
+1.0497.1461.001-1 24 Meses
+
+20 MG CAP DURA CT FR PLAS OPC X 7
+
+Não Informado
+
+1.0497.1461.002-8 24 Meses
+
+20 MG CAP DURA CT FR PLAS OPC X 14
+
+Não Informado
+
+1.0497.1461.003-6 24 Meses
+
+20 MG CAP DURA CT FR PLAS OPC X 28
+
+Não Informado
+
+1.0497.1461.004-4 24 Meses
+
+20 MG CAP DURA CT BL AL PLAS TRANS X 7
+
+Não Informado
+
+1.0497.1461.005-2 24 Meses
+
+20 MG CAP DURA CT BL AL PLAS TRANS X 14
+
+Não Informado
+
+1.0497.1461.006-0 24 Meses
+
+20 MG CAP DURA CT BL AL PLAS TRANS X 28
+
+Não Informado
+
+1.0497.1461.007-9 24 Meses
+
+20 MG CAP DURA CT BL AL PLAS TRANS X 56
+
+Não Informado
+
+1.0497.1461.008-7 24 Meses
+
+20 MG CAP DURA CT BL AL PLAS TRANS X 70
+
+Não Informado
+
+1.0497.1461.009-5 24 Meses
+
+20 MG CAP DURA CT BL AL PLAS TRANS X 98
+
+Não Informado
+
+1.0497.1461.010-9 24 Meses
+
+20 MG CAP DURA CT BL AL PLAS TRANS X 210
+
+Não Informado
+
+1.0497.1461.011-7 24 Meses
+
+20 MG CAP DURA CT BL AL PLAS TRANS X 504
+
+Não Informado
+
+1.0497.1461.012-5 24 Meses
+
+40 MG PO SOL INJ CT 25 FA VD TRANS + 25 AMP DIL X 10ML
+
+Não Informado
+
+1.0497.1461.013-3 24 Meses
+
+40 MG PO SOL INJ CT 50 FA VD TRANS + 50 AMP DIL X 10ML
+
+Não Informado
+
+1.0497.1461.014-1 24 Meses
+
+20 MG CAP DURA CT BL AL PLAS TRANS X 100 (EMB FRAC)
+
+Não Informado
+
+1.0497.1461.015-1 24 Meses
+
+20 MG CAP DURA CT BL AL PLAS TRANS X 120 (EMB FRAC)
+
+Não Informado

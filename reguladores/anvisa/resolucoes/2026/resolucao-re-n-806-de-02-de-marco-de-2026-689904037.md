@@ -1,0 +1,157 @@
+---
+titulo: "RESOLUÇÃO-RE nº 806, DE 02 DE MARÇO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "806"
+data: 2026-03-02
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 03/03/2026, seção 1, p. 74"
+data_publicacao: 2026-03-03
+edicao: "41"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-806-de-02-de-marco-de-2026-689904037"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 806, DE 02 DE MARÇO DE 2026
+
+RESOLUÇÃO-RE nº 806, DE 02 DE MARÇO DE 2026
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+CAMBIARI TRANSPORTES LTDA / 02.022.067/0001-52
+
+25351.332512/2022-05 / 1280251
+
+TRANSPORTAR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0156385261
+
+--------------------------------------
+
+ARC TRANSPORTE E LOGISTICA DO TRANSPORTE LTDA - ME / 21.160.941/0001-62
+
+25351.927768/2016-08 / 1153126
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0153241268
+
+--------------------------------------
+
+TAKEDA DISTRIBUIDORA LTDA. / 11.635.171/0001-03
+
+25351.512617/2019-32 / 1193777
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+IMPORTAR: MEDICAMENTO
+
+70887 - AE - ALTERAÇÃO - ENDEREÇO, POR ATO PÚBLICO / 0140818260
+
+--------------------------------------
+
+NOVA DISTRIBUIDORA DE MEDICAMENTOS LTDA / 63.400.543/0004-69
+
+25351.432303/2022-52 / 1281993
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0091969263
+
+--------------------------------------
+
+DHL SUPPLY CHAIN (BRAZIL) LTDA / 02.836.056/0180-72
+
+25351.425908/2024-59 / 1320173
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0158374266
+
+--------------------------------------
+
+TAKEDA PHARMA LTDA / 60.397.775/0010-65
+
+25351.512761/2019-79 / 1193781
+
+ARMAZENAR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70887 - AE - ALTERAÇÃO - ENDEREÇO, POR ATO PÚBLICO / 0164487263
+
+--------------------------------------
+
+ATTIVOS MAGISTTRAIS INDÚSTRIA E COMÉRCIO LTDA / 10.769.880/0001-19
+
+25351.162253/2025-83 / 1416041
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS
+
+EXPEDIR: INSUMOS FARMACÊUTICOS
+
+FRACIONAR: INSUMOS FARMACÊUTICOS
+
+IMPORTAR: INSUMOS FARMACÊUTICOS
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0143152262
+
+--------------------------------------
+
+BOAZ SAUDE E SEGURANCA LTDA / 61.853.683/0001-14
+
+25351.231688/2025-85 / 1421742
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0196265266
+
+--------------------------------------
+
+VDC LOG TRANSPORTE E LOGISTICA MULTIMODAL LTDA / 19.852.860/0001-81
+
+25351.477906/2019-88 / 1193209
+
+TRANSPORTAR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0163725268
+
+--------------------------------------
+
+DEMMEL TRANSPORTES E LOGISTICA LTDA / 28.985.079/0002-57
+
+25351.216088/2025-97 / 1420656
+
+ARMAZENAR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0146084268

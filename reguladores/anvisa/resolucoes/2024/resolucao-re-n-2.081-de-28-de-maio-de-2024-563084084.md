@@ -1,0 +1,42 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.081, DE 28 DE MAIO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "2081"
+data: 2024-05-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/06/2024, seção 1, p. 135"
+data_publicacao: 2024-06-03
+edicao: "104"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.081-de-28-de-maio-de-2024-563084084"
+sha256_html_fonte: e8964fcbb0af0d063bc530e65af1e7ffec409dec9a665db1acb53b58ad744280
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 2.081, DE 28 DE MAIO DE 2024
+
+RESOLUÇÃO-RE Nº 2.081, DE 28 DE MAIO DE 2024
+
+O GERENTE-GERAL DE PORTOS, AEROPORTOS, FRONTEIRAS E RECINTOS ALFANDEGADOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art.160, aliado ao art.203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada -RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Alterar a Autorização de Funcionamento, Autorização Especial ou Cadastramento de filial das Empresas prestadoras de serviços em Portos, Aeroportos, Fronteiras e Recintos Alfandegados conforme anexo desta Resolução.
+
+**Art. 2°** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONÇALVES ARAÚJO RIOS
+
+## ANEXO
+
+DIRECT LOGISTICA DE RESIDUOS E RECICLAVEIS LTDA / 43.160.689/0001-24
+
+25748.000570/2022-19 / 9100094
+
+PRESTAR SERVIÇO EM PORTOS, AEROPORTOS, FRONTEIRAS E RECINTOS ALFANDEGADOS DE: ESGOTAMENTO, COLETA E TRATAMENTO DE EFLUENTES SANITARIOS DE VEICULOS TERRESTRES EM TRANSITO POR POSTOS DE FRONTEIRA, AERONAVES, EMBARCACOES, TERMINAIS AEROPORTUARIOS,ESTACOESE PASSAGENS DE FRONTEIRAS
+
+9005 - PAF - ALTERAÇÃO NA RAZÃO SOCIAL NA AFE - EXCETO FARMÁCIAS E DROGARIAS / 0703452240
+
+25351.761727/2021-41 / 9098022
+
+PRESTAR SERVIÇO EM PORTOS, AEROPORTOS, FRONTEIRAS E RECINTOS ALFANDEGADOS DE: SEGREGAÇÃO, COLETA, ACONDICIONAMENTO, ARMAZENAMENTO, TRANSPORTE, TRATAMENTO E DISPOSIÇÃO FINAL DE RESÍDUOS SÓLIDOS RESULTANTES DE VEÍCULOS TERRESTRES EM TRANSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRAS, EMBARCAÇÕES, AERONAVES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE VIAJANTES DE CARGAS, POSTOS DE FRONTEIRA E TERMINAIS ALFANDEGADOS DE USO PUBLICO
+
+9005 - PAF - ALTERAÇÃO NA RAZÃO SOCIAL NA AFE - EXCETO FARMÁCIAS E DROGARIAS / 0701887249

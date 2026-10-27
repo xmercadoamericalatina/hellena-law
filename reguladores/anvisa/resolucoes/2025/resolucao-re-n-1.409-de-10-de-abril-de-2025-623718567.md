@@ -1,0 +1,103 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.409, DE 10 DE ABRIL DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1409"
+data: 2025-04-10
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 11/04/2025, seção 1, p. 155"
+data_publicacao: 2025-04-11
+edicao: "70"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.409-de-10-de-abril-de-2025-623718567"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 1.409, DE 10 DE ABRIL DE 2025
+
+RESOLUÇÃO-RE nº 1.409, DE 10 DE ABRIL DE 2025
+
+O COORDENADOR SUBSTITUTO DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+LUIZ CLAUDIO GOMES DA SILVA JUNIOR
+
+## ANEXO
+
+L K S MOREIRA LTDA / 19.642.543/0001-30
+
+25351.049924/2025-11 / 1405772
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0456284257
+
+--------------------------------------
+
+R P SOARES FILHO / 57.568.812/0001-55
+
+25351.040289/2025-15 / 1334796
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0368552250
+
+--------------------------------------
+
+SOUZAMED IMPORTADORA E DISTRIBUIDORA HOSPITALAR LTDA / 35.473.398/0001-68
+
+25351.049360/2025-17 / 1405786
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0453850251
+
+--------------------------------------
+
+CAPPELLI FARMACIA DE MANIPULACAO LTDA / 27.832.341/0002-60
+
+25351.049369/2025-28 / 1405374
+
+MANIPULAR: INSUMOS FARMACÊUTICOS (VETERINÁRIOS)
+
+70899 - AE - CONCESSÃO - MANIPULAR INSUMOS FARMACÊUTICOS (VETERINÁRIOS) / 0453966250
+
+--------------------------------------
+
+DIAMOND DISTRIBUIDORA DE COSMETICOS E PRODUTOS HOSPITALARES LTDA / 52.639.561/0001-39
+
+25351.354134/2024-74 / 1405790
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0792600240
+
+--------------------------------------
+
+ARTE MAIS FARMA DE MANIPULACAO LTDA / 55.435.597/0001-99
+
+25351.045564/2025-89 / 1382948
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0417766254

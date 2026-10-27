@@ -1,0 +1,116 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.509, DE 3 de julho DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "2509"
+data: 2025-07-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 07/07/2025, seção 1, p. 338"
+data_publicacao: 2025-07-07
+edicao: "125"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.509-de-3-de-julho-de-2025-640244576"
+baixado_em: 2026-10-16
+sha256_html_fonte: 05a94e078855e367097ac3763b13f10e3637e079ab34eaaa3ea9d9d09beb1a9a
+---
+# RESOLUÇÃO-RE Nº 2.509, DE 3 de julho DE 2025
+
+RESOLUÇÃO-RE Nº 2.509, DE 3 de julho DE 2025
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Cancelar o registro sanitário de medicamentos e insumos farmacêuticos, ou de apresentações, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor a partir da data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+----------------------------
+
+CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. 44734671000151
+
+HEMIFUMARATO DE QUETIAPINA 25351.003565/2010-09 11/2025
+
+10081 GENERICO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 0830359/25-2
+
+1.0298.0379.015-9 24 Meses
+
+300 MG COM REV CT BL AL PLAS PVC TRANS X 14
+
+1.0298.0379.016-7 24 Meses
+
+300 MG COM REV CT BL AL PLAS PVC TRANS X 28
+
+1.0298.0379.017-5 24 Meses
+
+300 MG COM REV CT BL AL PLAS PVC TRANS X 200
+
+1.0298.0379.018-3 24 Meses
+
+300 MG COM REV CT BL AL PLAS PVC TRANS X 30
+
+----------------------------
+
+INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA 33258401000103
+
+hemifumarato de quetiapina 25351.406167/2022-45 11/2032
+
+10081 GENERICO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 0857998/25-9
+
+1.0063.0266.013-1 24 Meses
+
+300 MG COM REV CT BL AL PLAS PVC TRANS X 14
+
+1.0063.0266.014-8 24 Meses
+
+300 MG COM REV CT BL AL PLAS PVC TRANS X 28
+
+1.0063.0266.015-6 24 Meses
+
+300 MG COM REV CT BL AL PLAS PVC TRANS X 200
+
+1.0063.0266.016-4 24 Meses
+
+300 MG COM REV CT BL AL PLAS PVC TRANS X 30
+
+----------------------------
+
+SUPERA FARMA LABORATÓRIOS S.A 43312503000105
+
+hemifumarato de quetiapina
+
+ATIP 25351.733233/2011-72 05/2035
+
+10080 SIMILARES - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 0861695/25-7
+
+1.0372.0246.013-9 24 Meses
+
+300 MG COM REV CT BL AL PLAS PVC TRANS X 14
+
+1.0372.0246.014-7 24 Meses
+
+300 MG COM REV CT BL AL PLAS PVC TRANS X 28
+
+1.0372.0246.015-5 24 Meses
+
+300 MG COM REV CT BL AL PLAS PVC TRANS X 200
+
+1.0372.0246.016-3 24 Meses
+
+300 MG COM REV CT BL AL PLAS PVC TRANS X 30

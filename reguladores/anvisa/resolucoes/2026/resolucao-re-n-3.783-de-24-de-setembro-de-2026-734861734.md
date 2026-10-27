@@ -1,0 +1,195 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.783, DE 24 DE SETEMBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "3783"
+data: 2026-09-24
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 28/09/2026, seção 1, p. 202"
+data_publicacao: 2026-09-28
+edicao: "183"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.783-de-24-de-setembro-de-2026-734861734"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 3.783, DE 24 DE SETEMBRO DE 2026
+
+RESOLUÇÃO-RE nº 3.783, DE 24 DE SETEMBRO DE 2026
+
+O GERENTE-GERAL DE COSMÉTICOS E SANEANTES DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Cancelar os processos dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONçALVES ARAúJO RIOS
+
+## ANEXO
+
+NOME DA EMPRESA/ CNPJ
+
+NOME DO PRODUTO E MARCA
+
+NÚMERO DE PROCESSO
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ASAM INDUSTRIA E COMERCIO, IMPORTACAO E EXPORTACAO DE COSMETICOS LTDA / 07.188.401/0001-66
+
+SÉRUM CLAREADOR - DRUDI BEAUTY
+
+25351.025326/2025-57
+
+----------------------------------
+
+BEAUTY SOLUTIONS COMERCIO DE PRODUTOS COSMETICOS E CORRELATOS S.A. / 42.533.087/0001-02
+
+TKN A-OX 360 COCKTAIL
+
+25351.215556/2023-44
+
+25351.240308/2025-01
+
+----------------------------------
+
+CHAMS INDÚSTRIA DE COSMÉTICOS LTDA. - ME / 04.284.635/0001-19
+
+Ouro Coloidal
+
+25351.966888/2020-48
+
+Prata Coloidal
+
+25351.966799/2020-00
+
+----------------------------------
+
+COSMETIZZE IND. COM. IMP E EXP DE PRODUTOS DE INTERESSE A SAUDE LTDA / 47.510.922/0001-02
+
+HELP DERM SUAVIZANTE
+
+25351.055784/2025-11
+
+----------------------------------
+
+Cosmoderma industria e com. ltda- me / 09.601.610/0001-15
+
+Tinta Temporária para Cabelo
+
+25351.042925/2026-16
+
+----------------------------------
+
+FLOR DI JADE COSMÉTICOS E PERFUMARIA LTDA / 15.260.152/0001-09
+
+HELP DERM TATTOO SUAVIZANTE - THE KING'S
+
+25351.191529/2025-31
+
+----------------------------------
+
+LA FORCE CREATIVE PRODUTOS NATURAIS LTDA/ 65.384.620/0001-17
+
+HIDRORREGULADOR DE PH COM PRATA COLOIDAL MUTARI
+
+25351.143143/2018-93
+
+ÁGUA ENRIQUECEDORA COM PRATA COLOIDAL MUTARI
+
+25351.045985/2018-78
+
+----------------------------------
+
+Nova Figus do Brasil Indústria e Comércio de Cosméticos Ltda. ME / 05.855.097/0001-38
+
+PRE-SHAMPO DELLARA
+
+25351.184267/2022-13
+
+----------------------------------
+
+NISS INDUSTRIA DE COSMETICOS LTDA / 39.838.963/0001-02
+
+DERMO HAPPY SOL DEFESA MÁGICA GRUPO DANDAS
+
+25351.195863/2025-63
+
+DEFESA MÁGICA KODI
+
+25351.068099/2026-35
+
+DEFESA MÁGICA SOLLENIS COSMETICOS
+
+25351.057319/2026-03
+
+PROTETOR SOLAR COM REPELENTE INSETOS- HAPPY SOL
+
+25351.035244/2025-11
+
+REPELENTE SPRAY SOLLENIS
+
+25351.098225/2026-86
+
+PROTETOR CORPORAL FPS 70 JÚLIA RIBEIRO COSMÉTICOS
+
+25351.227007/2025-84
+
+PROTETOR FACIAL FOR SKIN FPS 70 JÚLIA RIBEIRO COSMÉTICOS
+
+25351.227008/2025-29
+
+PROTETOR SOLAR ALTA PROTEÇÃO FPS 50 SOLLENIS
+
+25351.098226/2026-21
+
+PROTETOR SOLAR ALTA PROTEÇÃO FPS 70 SOLLENIS
+
+25351.098246/2026-00
+
+PROTETOR SOLAR CORPORAL FPS 70 SUNCARE AURA LINE COSMÉTICOS
+
+25351.113359/2026-34
+
+PROTETOR SOLAR FACIAL FPS 70 DANDA'S
+
+25351.166726/2026-01
+
+PROTETOR SOLAR FPS 70 DANDA'S
+
+25351.166741/2026-41
+
+PARAFINA BRONZEADORA - BRONZEIA E HIDRATA PRIME
+
+25351.032903/2026-48
+
+LUMERA LUMERALISS TRATAMENTO DISCIPLINANTE CAPILAR PREMIUM
+
+25351.155095/2026-96
+
+MÁSCARA DISCIPLINANTE LINHA LISS PREMIUM PODEROS
+
+25351.110352/2026-61
+
+GEL HIGIENIZADOR 70 PRO MARCAS
+
+25351.434847/2022-59
+
+HAPPY SOL 70
+
+25351.036747/2026-94
+
+---------------------------------
+
+SDK INDUSTRIA DE COSMETICOS LTDA / 40.498.582/0001-00
+
+Regenerador de Unhas Vita Nails Podokesia
+
+25351.259356/2024-84
+
+---------------------------------
+
+STUDEX DO BRASIL LTDA / 73.267.387/0001-10
+
+STUDEX ADVANCED AFTERCARE & CLEANSER
+
+25351.050030/2026-55

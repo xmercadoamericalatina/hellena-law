@@ -1,0 +1,155 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.346, DE 2 DE ABRIL DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "1346"
+data: 2026-04-02
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 06/04/2026, seção 1, p. 170"
+data_publicacao: 2026-04-06
+edicao: "64"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.346-de-2-de-abril-de-2026-697382956"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 1.346, DE 2 DE ABRIL DE 2026
+
+RESOLUÇÃO-RE nº 1.346, DE 2 DE ABRIL DE 2026
+
+A GERENTE-GERAL DE ALIMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 96, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Deferir as petições relacionadas à Gerência-Geral de Alimentos, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRÍCIA FERNANDES NANTES DE CASTILHO
+
+## ANEXO
+
+NÚMERO DA LISTAGEM: 248826
+
+VERSÃO DETALHADA:
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO
+
+MARCA
+
+NUMERO DO PROCESSO / VENCIMENTO DO REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+DESCRIÇÃO DA APRESENTAÇÃO
+
+REGISTRO
+
+PRAZO DE VALIDADE DA APRESENTAÇÃO
+
+EMBALAGEM PRIMÁRIA
+
+----------------------------------------------------------------------
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+MÓDULO DE PROTEÍNA DO SORO DO LEITE PARA NUTRIÇÃO ENTERAL
+
+25004.260003/2011-01 / 01/2028
+
+4172 - ADEQUAÇÃO DE PRODUTO REGISTRADO À RDC 843/2024 / 1568341/25-3
+
+APRESENTAÇÃO 1
+
+6204799790018
+
+24 MESES
+
+ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.120753/2006-25 / 07/2031
+
+4096 - REVALIDAÇÃO DE REGISTRO DE FÓRMULAS MODIFICADAS PARA NUTRIÇÃO ENTERAL / 1568162/25-1
+
+SABOR CHOCOLATE
+
+6204799550025
+
+12 MESES
+
+ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.551387/2013-29 / 08/2029
+
+4172 - ADEQUAÇÃO DE PRODUTO REGISTRADO À RDC 843/2024 / 1568340/25-7
+
+APRESENTAÇÃO 1
+
+6204799830011
+
+12 MESES
+
+ELASTOMERICA / METALICA / PLASTICA / POTE
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.121201/2006-34 / 11/2027
+
+4172 - ADEQUAÇÃO DE PRODUTO REGISTRADO À RDC 843/2024 / 1568339/25-9
+
+APRESENTAÇÃO 1
+
+6204799660025
+
+15 MESES
+
+ELASTOMERICA / METALICA / PLASTICO
+
+APRESENTAÇÃO 2
+
+6204799660033
+
+15 MESES
+
+ELASTOMERICA / METALICA / PLASTICO
+
+APRESENTAÇÃO 3
+
+6204799660041
+
+15 MESES
+
+ELASTOMERICA / METALICA / PLASTICO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.330143/2010-21 / 11/2030
+
+456 - ALTERAÇÃO DE ROTULAGEM / 1624455/25-5
+
+APRESENTAÇÃO 1
+
+4007619310048
+
+12 MESES
+
+CELULOSICA / METALICA / PLASTICA

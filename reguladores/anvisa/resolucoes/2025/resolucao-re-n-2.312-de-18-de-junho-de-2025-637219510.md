@@ -1,0 +1,186 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.312, DE 18 DE JUNHO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2312"
+data: 2025-06-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/06/2025, seção 1, p. 171"
+data_publicacao: 2025-06-23
+edicao: "115"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.312-de-18-de-junho-de-2025-637219510"
+baixado_em: 2026-10-16
+sha256_html_fonte: 849366cdcc736cda32a2c859832e67987c5d3a574c007082deafb83e9a4baafa
+---
+# RESOLUÇÃO-RE nº 2.312, DE 18 DE JUNHO DE 2025
+
+RESOLUÇÃO-RE nº 2.312, DE 18 DE JUNHO DE 2025
+
+O GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021,
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+Marcus Aurélio Miranda de Araújo
+
+## ANEXO
+
+EMPRESA: BHC COMERCIO DE GASES E TRANSPORTE LTDA EPP - CNPJ: 13.143.803/0001-47 - AUTORIZ/MS: 2200028
+
+ENDEREÇO: ROD KM 001 KM 58,8 CHACARA 06 LOTE 07 PONTE ALTA NORTE
+
+MUNICÍPIO: GAMA - UF: DF - EXPEDIENTE: 1690976/24-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais (Embalagem primária): Gás
+
+.........................................
+
+EMPRESA FABRICANTE: BAUSCH & LOMB INCORPORATED
+
+ENDEREÇO: 8500 HIDDEN RIVER PARKWAY, TAMPA, FLORIDA (FL) 33637 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000068
+
+EMPRESA SOLICITANTE: BL INDÚSTRIA OTICA LTDA - CNPJ: 27.011.022/0001-03
+
+AUTORIZ/MS: 1019615 - EXPEDIENTE(s): 1527400/24-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções com Preparação Asséptica; Suspensões com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: BAXTER ONCOLOGY GMBH
+
+ENDEREÇO: KANTSTRASSE 2, 33790 HALLE/ WESTFALEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000080
+
+EMPRESA SOLICITANTE: ASTELLAS FARMA BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO DE MEDICAMENTOS LTDA. - CNPJ: 07.768.134/0001-04
+
+AUTORIZ/MS: 1077171 - EXPEDIENTE(s): 1576257/24-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: BSP PHARMACEUTICALS S.P.A.
+
+ENDEREÇO: VIA APPIA KM 65,561 (LOC. LATINA SCALO) - 04013 LATINA (LT) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000688
+
+EMPRESA SOLICITANTE: PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. - CNPJ: 33.009.945/0001-23
+
+AUTORIZ/MS: 1001004 - EXPEDIENTE(s): 1379411/24-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: GENEPHARM S.A
+
+ENDEREÇO: 18TH KM. MARATHONOS AVE,PALLINI ATTTIKI,15351 - PAÍS: GRÉCIA - CÓDIGO ÚNICO: A.001309
+
+EMPRESA SOLICITANTE: EUROFARMA LABORATÓRIOS S.A. - CNPJ: 61.190.096/0001-92
+
+AUTORIZ/MS: 1000438 - EXPEDIENTE(s): 1691172/24-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: SHANGHAI HENGRUI PHARMACEUTICAL CO., LTD
+
+ENDEREÇO: NO 279 WENJING ROAD, MINHANG DEVELOPMENT ZONE, SHANGHAI - PAÍS: CHINA, REPÚBLICA POPULAR - CÓDIGO ÚNICO: A.001505
+
+EMPRESA SOLICITANTE: BLAU FARMACÊUTICA S.A. - CNPJ: 58.430.828/0001-60
+
+AUTORIZ/MS: 1016377 - EXPEDIENTE(s): 1670588/24-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Líquidos
+
+.........................................
+
+EMPRESA FABRICANTE: SANECA PHARMACEUTICALS A.S.
+
+ENDEREÇO: NITRIANSKA 100, HLOHOVEC - 92027 - PAÍS: ESLOVÁQUIA - CÓDIGO ÚNICO: A.001512
+
+EMPRESA SOLICITANTE: BIOPAS BRASIL PRODUTOS FARMACEUTICOS LTDA - CNPJ: 31.327.287/0001-92
+
+AUTORIZ/MS: 1189773 - EXPEDIENTE(s): 1691564/24-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: FARMASIERRA MANUFACTURING, S.L.
+
+ENDEREÇO: CTRA. IRÚN, KM. 26.200, SAN SEBASTIÁN DE LOS REYES, 28709 MADRID - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.000225
+
+EMPRESA SOLICITANTE: COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. - CNPJ: 61.082.426/0002-07
+
+AUTORIZ/MS: 1078177 - EXPEDIENTE(s): 1628277/24-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Géis
+
+.........................................
+
+EMPRESA FABRICANTE: ANDERSONBRECON (UK) LIMITED
+
+ENDEREÇO: UNITS 2-7, WYE VALLEY BUSINESS PARK, BRECON ROAD, HAY-ON-WYE, HEREFORD, HR3 5PG - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.000834
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 1535221/24-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: MSD INTERNATIONAL GMBH (SINGAPORE BRANCH).
+
+ENDEREÇO: 70 TUAS WEST DRIVE, 638414 - PAÍS: CINGAPURA, REPÚBLICA DA - CÓDIGO ÚNICO: A.000902
+
+EMPRESA SOLICITANTE: MERCK SHARP & DOHME FARMACEUTICA LTDA. - CNPJ: 03.560.974/0001-18
+
+AUTORIZ/MS: 1001711 - EXPEDIENTE(s): 1547686/24-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Pós
+
+.........................................
+
+EMPRESA FABRICANTE: BAYER AG
+
+ENDEREÇO: MÜLLERSTRASSE 178, 13353, BERLIM - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000091
+
+EMPRESA SOLICITANTE: BAYER S.A. - CNPJ: 18.459.628/0001-15
+
+AUTORIZ/MS: 1070568 - EXPEDIENTE(s): 1490968/24-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: STA PHARMACEUTICAL SWITZERLAND S.A.
+
+ENDEREÇO: RUE DU PRE-JORAT 14, COUVET, 2108 - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.001732
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 0586152/24-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Granel): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: JODAS EXPOIM PVT.LTD
+
+ENDEREÇO: PLOT NO 55,PHASE-III BIOTECH PARK, KARKAPATLA VILLAGE, MARKOOK MANDAL, SIDDIPET DISTRICT, PINCODE 502279, TELANGANA STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001747
+
+EMPRESA SOLICITANTE: PRONTOFAR LTDA - CNPJ: 00.098.242/0001-60
+
+AUTORIZ/MS: 1125679 - EXPEDIENTE(s): 0757297/24-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Pós com Esterilização Terminal; Pós com Preparação Asséptica; Soluções Parenterais de Grande Volume com Esterilização Terminal; Soluções Parenterais de Grande Volume com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Produtos estéreis (Cefalosporínicos): Pós com Preparação Asséptica

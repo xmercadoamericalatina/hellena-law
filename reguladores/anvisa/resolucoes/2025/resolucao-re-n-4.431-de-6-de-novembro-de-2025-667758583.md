@@ -1,0 +1,74 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.431, DE 6 DE novembro DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "4431"
+data: 2025-11-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/11/2025, seção 1, p. 86"
+data_publicacao: 2025-11-10
+edicao: "214"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.431-de-6-de-novembro-de-2025-667758583"
+baixado_em: 2026-10-16
+sha256_html_fonte: b6aec763266f049e5873c92cc1202d76fbe6e48e5d1ae6b1b540c22783b4d218
+---
+# RESOLUÇÃO-RE Nº 4.431, DE 6 DE novembro DE 2025
+
+RESOLUÇÃO-RE Nº 4.431, DE 6 DE novembro DE 2025
+
+A GERENTE-GERAL SUBSTITUTA DE ALIMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 96, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Indeferir as petições de avaliação relacionadas à Gerência-Geral de Alimentos, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ÂNGELA KARINNE FAGUNDES DE CASTRO
+
+## ANEXO
+
+RELATÓRIO DE CONFERÊNCIA - ALIMENTOS: 680725
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO
+
+NÚMERO DO PROCESSO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+-----------------------------------------
+
+ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A / 60.659.463/0029-92
+
+ASSOCIAÇÃO DE LIMOSILACTOBACILLUS REUTERI ATCC PTA 5289 E LIMOSILACTOBACILLUS REUTERI DSM 17938
+
+25351.400886/2024-14
+
+4107 - AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE PROBIÓTICOS / 1201758/24-6
+
+ASSOCIAÇÃO DE LIMOSILACTOBACILLUS REUTERI ATCC PTA 5289 E LIMOSILACTOBACILLUS REUTERI DSM 17938
+
+25351.394498/2024-97
+
+4107 - AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE PROBIÓTICOS / 1145678/24-6
+
+--------------------------------------
+
+CARGILL AGRICOLA S.A. / 60.498.706/0001-57
+
+FERMENTADO SECO DE LEVEDURA SACCHAROMYCES CEREVISIAE
+
+25351.792548/2023-17
+
+4109 - AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE NOVOS ALIMENTOS E NOVOS INGREDIENTES, EXCETO PROBIÓTICOS E ENZIMAS / 1319026/23-1
+
+--------------------------------------
+
+INP INDÚSTRIA DE ALIMENTOS LTDA / 17.979.609/0001-57
+
+D-ALULOSE
+
+25351.022648/2025-44
+
+4147 - AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE NOVOS ALIMENTOS E NOVOS INGREDIENTES POR ADMISSÃO DE DOCUMENTAÇÃO EMITIDA POR AUTORIDADE REGULADORA ESTRANGEIRA EQUIVALENTE COMO REFERÊNCIA ÚNICA / 0211048/25-9

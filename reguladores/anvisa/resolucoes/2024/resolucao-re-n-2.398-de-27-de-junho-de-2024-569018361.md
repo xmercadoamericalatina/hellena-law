@@ -1,0 +1,78 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.398, DE 27 DE JUNHO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Prod de Terapias Avan"
+tipo: "Resolução"
+numero: "2398"
+data: 2024-06-27
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 01/07/2024, seção 1, p. 278"
+data_publicacao: 2024-07-01
+edicao: "124"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.398-de-27-de-junho-de-2024-569018361"
+sha256_html_fonte: 359b9e37f4164e8c687ea5002a19be2fdc5f87c61b011fc39bbe56085579f390
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 2.398, DE 27 DE JUNHO DE 2024
+
+RESOLUÇÃO-RE Nº 2.398, DE 27 DE JUNHO DE 2024
+
+O GERENTE-GERAL DE PRODUTOS BIOLÓGICOS, RADIOFÁRMACOS, SANGUE, TECIDOS, CÉLULAS, ÓRGÃOS E PRODUTOS DE TERAPIAS AVANÇADAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 109, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Indeferir petições relacionadas à Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Produtos de Terapias Avançadas, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+FABRÍCIO CARNEIRO DE OLIVEIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+SANOFI MEDLEY FARMACÊUTICA LTDA. 10588595001092
+
+ADACEL 25351.412010/2019-53 03/2028
+
+11923 PRODUTOS BIOLÓGICOS - 36. ALTERAÇÃO DA DESCRIÇÃO OU COMPOSIÇÃO DO PRODUTO TERMINADO - MODERADA 0265173/23-4
+
+11930 PRODUTOS BIOLÓGICOS - 41. ALTERAÇÃO DE INSTALAÇÃO DE FABRICAÇÃO DO PRODUTO TERMINADO - MAIOR 0265162/23-9
+
+11931 PRODUTOS BIOLÓGICOS - 41. ALTERAÇÃO DE INSTALAÇÃO DE FABRICAÇÃO DO PRODUTO TERMINADO - MODERADA 0265175/23-1
+
+11933 PRODUTOS BIOLÓGICOS - 42. ALTERAÇÃO DO PROCESSO DE FABRICAÇÃO DO PRODUTO TERMINADO - MODERADA 0265194/23-7
+
+11933 PRODUTOS BIOLÓGICOS - 42. ALTERAÇÃO DO PROCESSO DE FABRICAÇÃO DO PRODUTO TERMINADO - MODERADA 0265198/23-0
+
+11948 PRODUTOS BIOLÓGICOS - 58. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DO PRODUTO TERMINADO - MODERADA 0265201/23-3
+
+11948 PRODUTOS BIOLÓGICOS - 58. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DO PRODUTO TERMINADO - MODERADA 0265232/23-3
+
+11948 PRODUTOS BIOLÓGICOS - 58. ALTERAÇÃO NA ESPECIFICAÇÃO OU NO PROCEDIMENTO ANALÍTICO USADO PARA LIBERAÇÃO DO PRODUTO TERMINADO - MODERADA 0265246/23-3
+
+11956 PRODUTOS BIOLÓGICOS - 66. MODIFICAÇÃO NA EMBALAGEM PRIMÁRIA (POR EXEMPLO, NOVO REVESTIMENTO, TAMPA, TIPO DE VIDRO) - MODERADA 0265254/23-4
+
+1.8326.0400.001-9 48 Meses
+
+SUS INJ CT FA VD TRANS X 0,5 ML
+
+Toxóide pertussis + Hemaglutinina Filamentosa + AGLUTINÓGENOS FIMBRIAIS DE BORDETELLA PERTUSSIS DOS SOROTIPOS 2 E 3 + Pertactina + Toxóide diftérico + Toxóide Tetânico
+
+1.8326.0400.004-3 48 Meses
+
+SUS INJ CT 10 FA VD TRANS X 0,5 ML
+
+Toxóide pertussis + Toxóide diftérico + Toxóide Tetânico + Hemaglutinina Filamentosa + AGLUTINÓGENOS FIMBRIAIS DE BORDETELLA PERTUSSIS DOS SOROTIPOS 2 E 3 + pertactina

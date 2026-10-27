@@ -1,0 +1,100 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.134, DE 17 DE OUTUBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4134"
+data: 2025-10-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/10/2025, seção 1, p. 150"
+data_publicacao: 2025-10-20
+edicao: "200"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.134-de-17-de-outubro-de-2025-663407690"
+baixado_em: 2026-10-16
+sha256_html_fonte: beb4343e04df345f9db3012cb902825b19fa708810fed30aead6229dd7e946fa
+---
+# RESOLUÇÃO-RE Nº 4.134, DE 17 DE OUTUBRO DE 2025
+
+RESOLUÇÃO-RE Nº 4.134, DE 17 DE OUTUBRO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+DRACMA DISTRIBUIDORA DE PRODUTOS PARA SAUDE E EDUCACAO LTDA / 57.377.365/0001-57
+
+25351.181940/2025-06 / 1417337
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1335520252
+
+--------------------------------------
+
+A2Z CLINICAL CENTRO AVANCADO DE PESQUISA CLINICA LTDA / 09.219.229/0001-96
+
+25351.184435/2025-13 / 1417553
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: MEDICAMENTO
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 1362753254
+
+--------------------------------------
+
+FUNDACAO UNIVERSIDADE DE CAXIAS DO SUL / 88.648.761/0039-78
+
+25351.188140/2025-16 / 1418211
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: MEDICAMENTO
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 1381119255
+
+--------------------------------------
+
+GUAIMBE FARMACIA NATURAL LTDA / 37.009.166/0001-89
+
+25351.181291/2025-35 / 1418195
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1331940257
+
+--------------------------------------
+
+FARMA VITAE LTDA / 41.825.621/0003-53
+
+25351.181703/2025-37 / 1418181
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1334319251
+
+--------------------------------------
+
+DROGARIA MIRANDA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA / 13.867.901/0001-27
+
+25351.181899/2025-60 / 1418178
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1335362258
+
+--------------------------------------
+
+SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA / 61.699.567/0001-92
+
+25351.185390/2025-96 / 1418207
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: MEDICAMENTO
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 1367911257

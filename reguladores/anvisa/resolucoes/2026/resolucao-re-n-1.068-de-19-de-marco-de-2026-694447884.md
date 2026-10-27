@@ -1,0 +1,177 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.068, DE 19 DE MARÇO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1068"
+data: 2026-03-19
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 20/03/2026, seção 1, p. 158"
+data_publicacao: 2026-03-20
+edicao: "54"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.068-de-19-de-marco-de-2026-694447884"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 1.068, DE 19 DE MARÇO DE 2026
+
+RESOLUÇÃO-RE nº 1.068, DE 19 DE MARÇO DE 2026
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+GRAPE LTDA / 08.220.661/0001-34
+
+25351.842926/2023-11 / 1304081
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+IMPORTAR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0225075261
+
+25351.842926/2023-11 / 1304081
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+IMPORTAR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0225192268
+
+--------------------------------------
+
+LODRON LTDA / 04.725.756/0001-59
+
+25006.001870/2003-28 / 1363738
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7024 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - RAZÃO SOCIAL / 0268726264
+
+--------------------------------------
+
+INTER SUPPLY COMERCIAL LTDA / 05.637.386/0001-60
+
+25351.529965/2009-41 / 1223982
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0236971263
+
+--------------------------------------
+
+PLUSMED DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS HOSPITALARES LTDA / 33.866.663/0001-42
+
+25351.415824/2022-45 / 1273279
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0196702267
+
+--------------------------------------
+
+F&F DISTRIBUIDORA DE PRODUTOS FARMACÊUTICOS LTDA / 10.854.165/0019-03
+
+25351.689208/2021-48 / 1258701
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0225787261
+
+--------------------------------------
+
+CM HOSPITALAR S.A. / 12.420.164/0001-57
+
+25351.998581/2016-60 / 1153940
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0226017265
+
+25351.998581/2016-60 / 1153940
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70806 - AE - ALTERAÇÃO - REDUÇÃO DE ATIVIDADE / 0232022267
+
+--------------------------------------
+
+ALIANCA SAUDE DISTRIBUIDORA DE MEDICAMENTOS LTDA - ME / 20.773.091/0001-05
+
+25351.249148/2017-84 / 1165734
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0128959266
+
+--------------------------------------
+
+onmed distribuidora de medicamentos eirelli / 34.707.920/0001-66
+
+25351.212677/2020-91 / 1238557
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0225789264
+
+--------------------------------------
+
+GREEN WHITE MEDICAL LTDA / 55.825.641/0001-77
+
+25351.445936/2024-92 / 1322681
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0148577261

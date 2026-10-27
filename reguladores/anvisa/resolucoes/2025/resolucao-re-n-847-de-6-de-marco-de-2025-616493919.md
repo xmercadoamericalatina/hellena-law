@@ -1,0 +1,163 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 847, DE 6 DE MARÇO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "847"
+data: 2025-03-06
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 10/03/2025, seção 1, p. 100"
+data_publicacao: 2025-03-10
+edicao: "46"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-847-de-6-de-marco-de-2025-616493919"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 847, DE 6 DE MARÇO DE 2025
+
+RESOLUÇÃO-RE Nº 847, DE 6 DE MARÇO DE 2025
+
+O GERENTE-GERAL DE COSMÉTICOS E SANEANTES DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir os registros e as petições dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONCALVES ARAúJO RIOS
+
+## ANEXO
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO E MARCA
+
+NÚMERO DO PROCESSO / REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ALIANZA INDUSTRIA QUIMICA LTDA / 22.879.797/0001-81
+
+SPRAY REPELENTE DE INSETOS TCHAU MOSQUITO MAMÃE
+
+25351.140447/2019-80 / 285960016
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0263176/25-8
+
+LOÇÃO HIDRATANTE REPELENTE DE INSETOS TCHAU MOSQUITO KIDS
+
+25351.140477/2019-96 / 285960021
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0263335/25-9
+
+AEROSSOL REPELENTE DE INSETOS TCHAU MOSQUITO 4 HORAS
+
+25351.140504/2019-21 / 285960022
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0263461/25-4
+
+SPRAY REPELENTE DE INSETOS TCHAU MOSQUITO 4 HORAS
+
+25351.166480/2019-30 / 285960017
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0263515/25-7
+
+AEROSSOL REPELENTE DE INSETOS TCHAU MOSQUITO 8 HORAS
+
+25351.166598/2019-68 / 285960018
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0263330/25-7
+
+LOÇÃO HIDRATANTE REPELENTE DE INSETOS TCHAU MOSQUITO 4 HORAS
+
+25351.167707/2019-64 / 285960023
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0262944/25-1
+
+LOÇÃO HIDRATANTE REPELENTE DE INSETOS TCHAU MOSQUITO MAMÃE
+
+25351.202763/2019-52 / 285960019
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0263175/25-1
+
+LOÇÃO HIDRATANTE REPELENTE DE INSETOS TCHAU MOSQUITO BEBÊ
+
+25351.202764/2019-05 / 285960020
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0263331/25-3
+
+AEROSSOL REPELENTE DE INSETOS NO MOSQUITO FAMILY - 4 HORAS
+
+25351.329146/2016-61 / 285960006
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0262992/25-6
+
+LOÇÃO HIDRATANTE REPELENTE DE INSETOS NO MOSQUITO FAMILY
+
+25351.345540/2016-15 / 285960001
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0263001/25-3
+
+REPELENTE DE INSETOS AEROSSOL NO MOSQUITO
+
+25351.414530/2018-10 / 285960015
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0262876/25-6
+
+LOÇÃO HIDRATANTE REPELENTE DE INSETOS NO MOSQUITO KIDS
+
+25351.539684/2017-32 / 285960010
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0263006/25-5
+
+SPRAY REPELENTE DE INSETOS TCHAU MOSQUITO ICARIDINA
+
+25351.582985/2019-48 / 285960024
+
+2113 - REG. COSMÉTICOS - Inclusão de fabricante / 0263332/25-0
+
+--------------------------------------
+
+HF INDÚSTRIA E COMERCIO DE COSMETICOS LTDA / 06.195.970/0001-76
+
+PROTETOR SOLAR FACIAL FPS 30 - KARINA PIRES
+
+25351.378044/2024-79 / 264060018
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1009405/24-1
+
+--------------------------------------
+
+INDUSTRIA E COMERCIO DE COSMETICOS NATURA LTDA / 00.190.373/0001-72
+
+NATURA PROTETOR SOLAR FACIAL FPS 70 PELE NORMAL A SECA
+
+25351.451973/2024-30 / 205671585
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1663318/24-7
+
+NATURA PROTETOR SOLAR FACIAL FPS 70 PELE MISTA A OLEOSA
+
+25351.457035/2024-43 / 205671586
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1713542/24-2
+
+--------------------------------------
+
+SAVOY INDÚSTRIA DE COSMÉTICOS S.A. / 15.392.876/0001-06
+
+CENOURA&BRONZE PROTETOR SOLAR FPS 50
+
+25351.883948/2023-31 / 284380062
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0248667/25-4
+
+--------------------------------------
+
+TUON COSMÉTICOS LTDA / 03.676.737/0001-17
+
+GEL ANTISSÉPTICO PARA AS MÃOS TUON COSMÉTICOS
+
+25351.866998/2020-19 / 231850060
+
+235 - REG. COSMÉTICOS - Cancelamento de Registro do Produto a Pedido / 0289100/25-9

@@ -1,0 +1,265 @@
+---
+titulo: "RESOLUÇÃO-RE N° 3.761, DE 24 DE SETEMBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3761"
+data: 2026-09-24
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 25/09/2026, seção 1, p. 75"
+data_publicacao: 2026-09-25
+edicao: "182"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.761-de-24-de-setembro-de-2026-734417418"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE N° 3.761, DE 24 DE SETEMBRO DE 2026
+
+RESOLUÇÃO-RE N° 3.761, DE 24 DE SETEMBRO DE 2026
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Cancelar as Autorizações de Funcionamento (AFE) e as Autorizações Especiais (AE) constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+SUPERIOR TRANSPORTES LOCAÇÃO E LOGÍSTICA LTDA - ME / 19.352.454/0001-50
+
+25351.169505/2016-03 / 1156001
+
+70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 0992562261
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+TNT MERCURIO CARGAS E ENCOMENDAS EXPRESSAS LTDA / 95.591.723/0058-54
+
+25351.441746/2024-04 / 8305252
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0994062265
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+TNT MERCURIO CARGAS E ENCOMENDAS EXPRESSAS LTDA / 95.591.723/0184-09
+
+25351.174267/2021-16 / 1267396
+
+70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 0994098260
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FEDEX BRASIL LOGISTICA E TRANSPORTE LTDA / 10.970.887/0041-91
+
+25351.597027/2014-16 / 1121586
+
+70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 0992948266
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+PARTNER FARMA DISTRIBUIDORA DE MEDICAMENTOS LTDA - ME / 28.123.417/0001-60
+
+25351.274471/2022-17 / 4044733
+
+729 - AFE - CANCELAMENTO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE / 0994945264
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FEDEX BRASIL LOGÍSTICA E TRANSPORTE LTDA / 10.970.887/0077-00
+
+25351.461774/2017-19 / 8155613
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0994035268
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGARIA PRAIANA DE ITAIPUAÇU LTDA ME / 27.361.243/0001-01
+
+25351.286012/2017-19 / 7519243
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0994424264
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+TNT MERCURIO CARGAS E ENCOMENDAS EXPRESSAS LTDA / 95.591.723/0167-08
+
+25351.687677/2018-27 / 8172867
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0992888263
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+PARTNER FARMA DISTRIBUIDORA DE MEDICAMENTOS LTDA - ME / 28.123.417/0001-60
+
+25351.274476/2022-40 / 3112701
+
+719 - AFE - CANCELAMENTO - SANEANTES DOMISSANITÁRIOS / 0994931263
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FEDEX BRASIL LOGISTICA E TRANSPORTE LTDA / 10.970.887/0138-59
+
+25351.319389/2021-48 / 1263008
+
+70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 0993956262
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+SUPERIOR TRANSPORTES LOCAÇÃO E LOGÍSTICA LTDA - ME / 19.352.454/0001-50
+
+25351.169503/2016-49 / 1155999
+
+70802 - AFE - CANCELAMENTO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS / 0992542260
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+TNT MERCURIO CARGAS E ENCOMENDAS EXPRESSAS LTDA / 95.591.723/0162-01
+
+25351.973887/2020-50 / 1243954
+
+70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 0993985262
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+TNT MERCURIO CARGAS E ENCOMENDAS EXPRESSAS LTDA / 95.591.723/0167-08
+
+25351.451586/2021-51 / 1255064
+
+70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 0992857261
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+TNT MERCURIO CARGAS E ENCOMENDAS EXPRESSAS LTDA / 95.591.723/0186-70
+
+25351.130655/2023-57 / 1289017
+
+70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 0994019262
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FEDEX BRASIL LOGISTICA E TRANSPORTE LTDA / 10.970.887/0138-59
+
+25351.319385/2021-60 / 8233574
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0993967264
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FEDEX BRASIL LOGÍSTICA E TRANSPORTE LTDA / 10.970.887/0077-00
+
+25351.461741/2017-61 / 1169202
+
+70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 0994038267
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+TNT MERCURIO CARGAS E ENCOMENDAS EXPRESSAS LTDA / 95.591.723/0184-09
+
+25351.174259/2021-70 / 8239030
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0994117264
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+TNT MERCURIO CARGAS E ENCOMENDAS EXPRESSAS LTDA / 95.591.723/0162-01
+
+25351.973890/2020-73 / 8208632
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0993983260
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FEDEX BRASIL LOGISTICA E TRANSPORTE LTDA / 10.970.887/0041-91
+
+25351.597022/2014-81 / 8111695
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0992975263
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+TNT MERCURIO CARGAS E ENCOMENDAS EXPRESSAS LTDA / 95.591.723/0186-70
+
+25351.114095/2023-93 / 8265617
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0994023260
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.

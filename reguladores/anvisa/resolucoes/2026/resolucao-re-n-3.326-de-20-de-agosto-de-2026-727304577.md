@@ -1,0 +1,149 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.326, DE 20 DE AGOSTO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "3326"
+data: 2026-08-20
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 24/08/2026, seção 1, p. 75"
+data_publicacao: 2026-08-24
+edicao: "159"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.326-de-20-de-agosto-de-2026-727304577"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 3.326, DE 20 DE AGOSTO DE 2026
+
+RESOLUÇÃO-RE Nº 3.326, DE 20 DE AGOSTO DE 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Indeferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo;
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+--------------------------------------------------
+
+UNITED BIOTECH DO BRASIL LTDA 46635965000151
+
+decanoato de nandrolona
+
+NÃO CADASTRADO 25351.462477/2023-21
+
+150 SIMILAR - REGISTRO DE MEDICAMENTO SIMILAR 0747507/23-1
+
+50 MG/ML SOL INJ IM CT AMP VD TRANS X 10
+
+--------------------------------------------------
+
+EUGIA PHARMA INDUSTRIA FARMACEUTICA LTDA 44639493000180
+
+cloridrato de dexmedetomidina 25351.237709/2022-23 05/2028
+
+11106 RDC 73/2016 - GENÉRICO - AMPLIAÇÃO DO PRAZO DE VALIDADE DO MEDICAMENTO 1594917/25-6
+
+1.7420.0001.001-1 24 Meses
+
+100 MCG/ML SOL INJ IV CT 5 FA VD TRANS X 2 ML
+
+1.7420.0001.002-8 24 Meses
+
+100 MCG/ML SOL INJ IV CT 25 FA VD TRANS X 2 ML
+
+--------------------------------------------------
+
+LABORATÓRIO TEUTO BRASILEIRO S/A 17159229000176
+
+cloridrato de dexmedetomidina
+
+DEFRIK 25351.459721/2021-14 05/2032
+
+10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1652086/25-6
+
+(11106 - RDC 73/2016 - GENÉRICO - Ampliação do prazo de validade do medicamento - 1594917/25-6 - 25351.237709/2022-23)
+
+1.0370.0766.001-9 24 Meses
+
+100 MCG/ML SOL INJ IV CT 5 FA VD TRANS X 2 ML
+
+1.0370.0766.002-7 24 Meses
+
+100 MCG/ML SOL INJ IV CT 25 FA VD TRANS X 2 ML
+
+--------------------------------------------------
+
+EMS S/A 57507378000365
+
+eszopiclona
+
+ESOCLON SL 25351.433443/2024-18
+
+12261 MEDICAMENTO INOVADOR - REGISTRO DE MEDICAMENTO INOVADOR (NOVA FORMA FARMACÊUTICA) - VIA DE DESENVOLVIMENTO ABREVIADO 1495244/24-1
+
+1,5 MG COM SUBL CT BL AL AL X 10
+
+1,5 MG COM SUBL CT BL AL AL X 20
+
+1,5 MG COM SUBL CT BL AL AL X 30
+
+--------------------------------------------------
+
+PROCTER & GAMBLE DO BRASIL LTDA. 59476770000158
+
+guaifenesina
+
+XAROPE MUCO 25351.131793/2026-04
+
+10490 SIMILAR - REGISTRO DE PRODUTO - CLONE 0748097/26-1
+
+(1440 MEDICAMENTO NOVO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (INCORPORAÇÃO DE EMPRESA) - 197628/09-1 - 25351.299128/2011-11)
+
+13,3 MG/ML XPE FR PLAS TRANS X 100 ML
+
+13,3 MG/ML XPE FR PLAS TRANS X 120 ML
+
+13,3 MG/ML XPE FR PLAS TRANS X 200 ML
+
+13,3 MG/ML XPE FR PLAS TRANS X 240 ML
+
+16 MG/ML XPE FR PLAS TRANS X 100 ML ( MEL)
+
+16 MG/ML XPE FR PLAS TRANS X 120 ML (MEL)
+
+16 MG/ML XPE FR PLAS TRANS X 240 ML ( MEL)
+
+--------------------------------------------------
+
+NATULAB LABORATORIO S.A 02456955000183
+
+passiflora incarnata l. + extrato seco de valeriana officinalis l.
+
+SEAKALM SONO 25351.405404/2024-12
+
+10688 MEDICAMENTO TRADICIONAL FITOTERÁPICO - REGISTRO DE MEDICAMENTO 1241560/24-0
+
+(260 + 100) MG COM REV CT BL/AL PLAS PVDC TRANS X 10
+
+(260 + 100) MG COM REV CT BL/AL PLAS PVDC TRANS X 20
+
+(260 + 100) MG COM REV CT BL/AL PLAS PVDC TRANS X 30
+
+(260 + 100) MG COM REV CT BL/AL PLAS PVDC TRANS X 60

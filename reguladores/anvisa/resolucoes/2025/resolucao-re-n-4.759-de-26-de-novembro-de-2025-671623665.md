@@ -1,0 +1,98 @@
+---
+titulo: "RESOLUÇÃO-RE nº 4.759, DE 26 DE NOVEMBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4759"
+data: 2025-11-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/11/2025, seção 1, p. 241"
+data_publicacao: 2025-11-27
+edicao: "226"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.759-de-26-de-novembro-de-2025-671623665"
+baixado_em: 2026-10-16
+sha256_html_fonte: 1379706d44cb45f4fee73ddae4d716cbe3f03a7ac1b1223fbf9f3e16e278b4bc
+---
+# RESOLUÇÃO-RE nº 4.759, DE 26 DE NOVEMBRO DE 2025
+
+RESOLUÇÃO-RE nº 4.759, DE 26 DE NOVEMBRO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+NORDESTE MED DISTRIBUIDORA DE MEDICAMENTOS LTDA / 33.798.957/0001-84
+
+25351.212691/2025-08 / 1420370
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1503182258
+
+--------------------------------------
+
+NOGUEIRA & ROSA TRANSPORTES LTDA / 09.080.035/0001-52
+
+25351.212602/2025-15 / 1420366
+
+TRANSPORTAR: MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1502963256
+
+--------------------------------------
+
+SYNMED MEDICAMENTOS LTDA / 61.885.214/0001-87
+
+25351.212574/2025-36 / 1420335
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1502908255
+
+--------------------------------------
+
+MMC TRANSPORTES LTDA / 09.546.564/0001-07
+
+25351.213713/2025-49 / 1420521
+
+TRANSPORTAR: MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1508353255
+
+--------------------------------------
+
+ANGELUS SERVICOS EMPRESARIAIS LTDA / 41.720.066/0001-33
+
+25351.211534/2025-77 / 1420198
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1497792258
+
+--------------------------------------
+
+FARMACIA E DROGARIA NISSEI S.A / 79.430.682/0574-00
+
+25351.213709/2025-81 / 1420517
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1508349258

@@ -1,0 +1,119 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.899, DE 20 DE MAIO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1899"
+data: 2025-05-20
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 21/05/2025, seção 1, p. 123"
+data_publicacao: 2025-05-21
+edicao: "94"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.899-de-20-de-maio-de-2025-630714029"
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE nº 1.899, DE 20 DE MAIO DE 2025
+
+RESOLUÇÃO-RE nº 1.899, DE 20 DE MAIO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+R. DISTRIBUIDORA DE MEDICAMENTOS E LOGISTICA LTDA / 32.929.561/0001-66
+
+25351.440706/2020-11 / 1246431
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0590871251
+
+--------------------------------------
+
+BIS COMERCIO DE PRODUTOS PARA SAUDE LTDA / 59.542.653/0001-45
+
+25351.041212/2025-54 / 1340864
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0605705259
+
+--------------------------------------
+
+PHARMA COMERCIO E REPRESENTACAO DE MEDICAMENTOS LTDA / 23.767.703/0001-45
+
+25351.031226/2025-60 / 1329229
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0588089257
+
+--------------------------------------
+
+ALCANCE PRODUTOS FARMACEUTICOS E MATERIAIS MEDICOS DISTRIBUIDORA & REPRESENTACOES LTDA. / 51.687.922/0001-50
+
+25351.777575/2023-60 / 1302703
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0599793252
+
+--------------------------------------
+
+LIDER FARMA DISTRIBUIDORA DE MEDICAMENTOS LTDA / 45.902.414/0001-44
+
+25351.901270/2024-66 / 1305499
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0613807251
+
+--------------------------------------
+
+ARRUDA DISTRIBUIDORA E COMERCIO DE PRODUTOS HOSPITALARES E ESTETICAS LTDA / 53.744.719/0001-01
+
+25351.454686/2024-81 / 1323931
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0507265254

@@ -1,0 +1,144 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.302, DE 18 de junho DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "2302"
+data: 2025-06-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/06/2025, seção 1, p. 154"
+data_publicacao: 2025-06-23
+edicao: "115"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.302-de-18-de-junho-de-2025-637188073"
+baixado_em: 2026-10-16
+sha256_html_fonte: cbba85edd5b849dde898c006efd77ad012ed36ca5194191e6067b15849e2d91f
+---
+# RESOLUÇÃO-RE Nº 2.302, DE 18 de junho DE 2025
+
+RESOLUÇÃO-RE Nº 2.302, DE 18 de junho DE 2025
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Cancelar o registro sanitário de medicamentos e insumos farmacêuticos, ou de apresentações, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor a partir da data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+----------------------------
+
+DR. REDDYS FARMACÊUTICA DO BRASIL LTDA 03978166000175
+
+bissulfato de clopidogrel 25351.074658/2017-55 03/2027
+
+10088 GENERICO - CANCELAMENTO DE REGISTRO DO MEDICAMENTO - ANVISA 0780278/25-1
+
+1.5143.0023.001-7 24 Meses
+
+75MG COM REV CT BL AL AL X 98
+
+1.5143.0023.002-5 24 Meses
+
+75MG COM REV CT BL AL AL X 60
+
+1.5143.0023.003-3 24 Meses
+
+75MG COM REV CT BL AL AL X 30
+
+1.5143.0023.004-1 24 Meses
+
+75MG COM REV CT BL AL AL X 28
+
+1.5143.0023.005-1 24 Meses
+
+75MG COM REV CT BL AL AL X 20
+
+1.5143.0023.006-8 24 Meses
+
+75MG COM REV CT BL AL AL X 14
+
+1.5143.0023.007-6 24 Meses
+
+75MG COM REV CT BL AL AL X 7
+
+----------------------------
+
+LABORATÓRIO GLOBO SA 17115437000173
+
+CAPTOPRIL 25351.460814/2014-54 06/2025
+
+10081 GENERICO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 0779334/25-1
+
+1.0535.0181.001-1 24 Meses
+
+12,5 MG COM CT BL AL PLAS TRANS X 15
+
+1.0535.0181.002-8 24 Meses
+
+12,5 MG COM CT BL AL PLAS TRANS X 30
+
+1.0535.0181.007-9 24 Meses
+
+12,5 MG COM CT BL AL PLAS TRANS X 60
+
+1.0535.0181.008-7 24 Meses
+
+12,5 MG COM CT BL AL PLAS TRANS X 600
+
+----------------------------
+
+LABORATÓRIO TEUTO BRASILEIRO S/A 17159229000176
+
+DIPIRONA
+
+DIPIRONA SODICA 25351.010237/00-78 06/2025
+
+10081 GENERICO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 0788121/25-5
+
+1.0370.0307.001-2 24 Meses
+
+500 MG/ML SOL OR CT FR PLAS OPC GOT X 10 ML 01
+
+1.0370.0307.002-0 24 Meses
+
+500 MG/ML SOL OR CX 25 FR PLAS OPC GOT X 10 ML (EMB HOSP)
+
+1.0370.0307.003-9 24 Meses
+
+500 MG/ML SOL OR CX 50 FR PLAS OPC GOT X 10 ML (EMB HOSP)
+
+1.0370.0307.004-7 24 Meses
+
+500 MG/ML SOL OR CX 100 FR PLAS OPC GOT X 10 ML (EMB HOSP)
+
+1.0370.0307.005-5 24 Meses
+
+500 MG/ML SOL OR CT FR PLAS OPC GOT X 20 ML
+
+1.0370.0307.006-3 24 Meses
+
+500 MG/ML SOL OR CX 25 FR PLAS OPC GOT X 20 ML (EMB HOSP)
+
+1.0370.0307.007-1 24 Meses
+
+500 MG/ML SOL OR CX 50 FR PLAS OPC GOT X 20 ML (EMB HOSP)
+
+1.0370.0307.008-1 24 Meses
+
+500 MG/ML SOL OR CX 100 FR PLAS OPC GOT X 20 ML (EMB HOSP)

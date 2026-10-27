@@ -1,0 +1,36 @@
+---
+titulo: "PORTARIA MCID Nº 1.267, DE 11 DE NOVEMBRO DE 2024"
+orgao: "Ministério das Cidades/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "1267"
+data: 2024-11-11
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/11/2024, seção 1, p. 5"
+data_publicacao: 2024-11-19
+edicao: "223"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-mcid-n-1.267-de-11-de-novembro-de-2024-596579853"
+sha256_html_fonte: db8985cf801caaac3378425dc48c24aa4db82935ee47d6a0eb4e227b525b9064
+baixado_em: 2026-10-16
+---
+# PORTARIA MCID Nº 1.267, DE 11 DE NOVEMBRO DE 2024
+
+PORTARIA MCID Nº 1.267, DE 11 DE NOVEMBRO DE 2024
+
+Retifica a Portaria MCID nº 1.159, de 11 de outubro de 2024, que homologa e torna público o Resultado Final da 2ª edição do Prêmio Periferia Viva.
+
+O MINISTRO DE ESTADO DAS CIDADES, no uso das atribuições que lhe foram conferidas pelo art. 87, parágrafo único, incisos I e II, da Constituição Federal, e tendo em vista o disposto no art. 20 da Lei nº 14.600, de 19 de junho de 2023, no art. 1º do Anexo I do Decreto nº 11.468, de 5 de abril de 2023, na Portaria MCID nº 545, de 11 de junho de 2024, no Edital de Seleção Pública MCID nº 5, de 28 de junho de 2024, e nos autos do Processo SEI nº 80000.003991/2024-05, resolve:
+
+**Art. 1º** Retificar o Anexo II da Portaria MCID nº 1.159, de 11 de outubro de 2024, que homologa e torna público o Resultado Final da 2ª edição do Prêmio Periferia Viva, considerando as situações de impedimentos identificadas após a seleção, conforme os seguintes registros:
+
+No Anexo II - Eixo Iniciativa de Assessorias Técnicas, onde se lê na tabela:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>POSIÇÃO</p></td>      <td rowspan="1" colspan="1"><p>INSCRIÇÃO</p></td>      <td rowspan="1" colspan="1"><p>NOME DA INICIATIVA</p></td>      <td rowspan="1" colspan="1"><p>NOTA FINAL</p></td>      <td rowspan="1" colspan="1"><p>REGIÃO</p></td>      <td rowspan="1" colspan="1"><p>CATEGORIA</p></td>      <td rowspan="1" colspan="1"><p>SITUAÇÃO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>0023</p></td>      <td rowspan="1" colspan="1"><p>on-593691005</p></td>      <td rowspan="1" colspan="1"><p>** TERRITÓRIOS EM ORDEM: REGULARIZAÇÃO FUNDIÁRIA PARA A DIGNIDADE SOCIAL</p></td>      <td rowspan="1" colspan="1"><p>6,67</p></td>      <td rowspan="1" colspan="1"><p>Norte</p></td>      <td rowspan="1" colspan="1"><p>JUSTIÇA TERRITORIAL E DIREITO À CIDADE</p></td>      <td rowspan="1" colspan="1"><p>SELECIONADA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>0024</p></td>      <td rowspan="1" colspan="1"><p>on-168174156</p></td>      <td rowspan="1" colspan="1"><p>CIRCUITO VOZES DA PERIFERIA</p></td>      <td rowspan="1" colspan="1"><p>6,50</p></td>      <td rowspan="1" colspan="1"><p>Norte</p></td>      <td rowspan="1" colspan="1"><p>CULTURA E IDENTIDADE PERIFÉRICA</p></td>      <td rowspan="1" colspan="1"><p>SELECIONADA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>0085</p></td>      <td rowspan="1" colspan="1"><p>on-1758294155</p></td>      <td rowspan="1" colspan="1"><p>DESTRAVA PEAPOS</p></td>      <td rowspan="1" colspan="1"><p>5,67</p></td>      <td rowspan="1" colspan="1"><p>Norte</p></td>      <td rowspan="1" colspan="1"><p>ECONOMIA E REDES SOLIDÁRIAS</p></td>      <td rowspan="1" colspan="1"><p>CLASSIFICADA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>0087</p></td>      <td rowspan="1" colspan="1"><p>on-751263722</p></td>      <td rowspan="1" colspan="1"><p>PARACULTURAL</p></td>      <td rowspan="1" colspan="1"><p>5,46</p></td>      <td rowspan="1" colspan="1"><p>Norte</p></td>      <td rowspan="1" colspan="1"><p>CULTURA E IDENTIDADE PERIFÉRICA</p></td>      <td rowspan="1" colspan="1"><p>CLASSIFICADA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>0090</p></td>      <td rowspan="1" colspan="1"><p>on-1017728868</p></td>      <td rowspan="1" colspan="1"><p>INICIATIVAS DE ASSESSORIAS TÉCNICAS - CATEGORIA "B" - JUSTIÇA TERRITORIAL E DIREITO À CIDADE - LAR DE EURÍPEDES</p></td>      <td rowspan="1" colspan="1"><p>5,38</p></td>      <td rowspan="1" colspan="1"><p>Norte</p></td>      <td rowspan="1" colspan="1"><p>JUSTIÇA TERRITORIAL E DIREITO À CIDADE</p></td>      <td rowspan="1" colspan="1"><p>CLASSIFICADA</p></td>     </tr>    </tbody>   </table>
+
+Leia-se:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>POSIÇÃO</p></td>      <td rowspan="1" colspan="1"><p>INSCRIÇÃO</p></td>      <td rowspan="1" colspan="1"><p>NOME DA INICIATIVA</p></td>      <td rowspan="1" colspan="1"><p>NOTA FINAL</p></td>      <td rowspan="1" colspan="1"><p>REGIÃO</p></td>      <td rowspan="1" colspan="1"><p>CATEGORIA</p></td>      <td rowspan="1" colspan="1"><p>SITUAÇÃO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>0023</p></td>      <td rowspan="1" colspan="1"><p>on-593691005</p></td>      <td rowspan="1" colspan="1"><p>** TERRITÓRIOS EM ORDEM: REGULARIZAÇÃO FUNDIÁRIA PARA A DIGNIDADE SOCIAL</p></td>      <td rowspan="1" colspan="1"><p>6,67</p></td>      <td rowspan="1" colspan="1"><p>Norte</p></td>      <td rowspan="1" colspan="1"><p>JUSTIÇA TERRITORIAL E DIREITO À CIDADE</p></td>      <td rowspan="1" colspan="1"><p>DESCLASSIFICADA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>0024</p></td>      <td rowspan="1" colspan="1"><p>on-168174156</p></td>      <td rowspan="1" colspan="1"><p>CIRCUITO VOZES DA PERIFERIA</p></td>      <td rowspan="1" colspan="1"><p>6,50</p></td>      <td rowspan="1" colspan="1"><p>Norte</p></td>      <td rowspan="1" colspan="1"><p>CULTURA E IDENTIDADE PERIFÉRICA</p></td>      <td rowspan="1" colspan="1"><p>DESCLASSIFICADA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>0085</p></td>      <td rowspan="1" colspan="1"><p>on-1758294155</p></td>      <td rowspan="1" colspan="1"><p>DESTRAVA PEAPOS</p></td>      <td rowspan="1" colspan="1"><p>5,67</p></td>      <td rowspan="1" colspan="1"><p>Norte</p></td>      <td rowspan="1" colspan="1"><p>ECONOMIA E REDES SOLIDÁRIAS</p></td>      <td rowspan="1" colspan="1"><p>SELECIONADA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>0087</p></td>      <td rowspan="1" colspan="1"><p>on-751263722</p></td>      <td rowspan="1" colspan="1"><p>PARACULTURAL</p></td>      <td rowspan="1" colspan="1"><p>5,46</p></td>      <td rowspan="1" colspan="1"><p>Norte</p></td>      <td rowspan="1" colspan="1"><p>CULTURA E IDENTIDADE PERIFÉRICA</p></td>      <td rowspan="1" colspan="1"><p>DESCLASSIFICADA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>0090</p></td>      <td rowspan="1" colspan="1"><p>on-1017728868</p></td>      <td rowspan="1" colspan="1"><p>INICIATIVAS DE ASSESSORIAS TÉCNICAS - CATEGORIA "B" - JUSTIÇA TERRITORIAL E DIREITO À CIDADE - LAR DE EURÍPEDES</p></td>      <td rowspan="1" colspan="1"><p>5,38</p></td>      <td rowspan="1" colspan="1"><p>Norte</p></td>      <td rowspan="1" colspan="1"><p>JUSTIÇA TERRITORIAL E DIREITO À CIDADE</p></td>      <td rowspan="1" colspan="1"><p>SELECIONADA</p></td>     </tr>    </tbody>   </table>
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+JADER FONTENELLE BARBALHO FILHO

@@ -1,0 +1,98 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.818, DE 25 de julho DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "2818"
+data: 2025-07-25
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 28/07/2025, seção 1, p. 170"
+data_publicacao: 2025-07-28
+edicao: "140"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.818-de-25-de-julho-de-2025-644473974"
+baixado_em: 2026-10-16
+sha256_html_fonte: 8c1228ab4138aaa8b30a745c7ddfd027a6791bbf573260b1db681a5313f9bb05
+---
+# RESOLUÇÃO-RE Nº 2.818, DE 25 de julho DE 2025
+
+RESOLUÇÃO-RE Nº 2.818, DE 25 de julho DE 2025
+
+A GERENTE-GERAL SUBSTITUTA DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+KELLEN CHRISTINA DE FREITAS GISSONI
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO PRODUTO NUMERO DO PROCESSO VENCIMENTO DA AUTORIZAÇÃO SANITÁRIA
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+AUTORIZAÇÃO SANITÁRIA VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+COMPLEMENTO DIFERENCIAL DA APRESENTAÇÃO
+
+---------------------------------------------------
+
+HERBARIUM LABORATORIO BOTANICO LTDA 78950011000120
+
+canabidiol
+
+CANABIDIOL HERBARIUM 25351.153396/2022-51 08/2028
+
+11542 PRODUTO DE CANNABIS - ALTERAÇÃO RELACIONADA AOS TESTES, LIMITES DE ESPECIFICAÇÕES E MÉTODOS ANALÍTICOS DO CONTROLE DE QUALIDADE DO PRODUTO ACABADO 0430418/25-6
+
+1.1860.0106.005-7 24 Meses
+
+50 MG/ML SOL OR CT FR VD AMB X 30 ML + SER DOS + ADAPT
+
+200 MG/ML
+
+CANNABIS SATIVA L.
+
+Extrato de Cannabis sativa HERBARIUM 43 mg/mL 25351.846081/2022-51 12/2027
+
+11542 PRODUTO DE CANNABIS - ALTERAÇÃO RELACIONADA AOS TESTES, LIMITES DE ESPECIFICAÇÕES E MÉTODOS ANALÍTICOS DO CONTROLE DE QUALIDADE DO PRODUTO ACABADO 0347486/25-8
+
+1.1860.0104.001-3 24 Meses
+
+43 MG/ML SOL GOT CT FR GOT VD AMB X 30 ML
+
+Não Informado
+
+---------------------------------------------------
+
+FARMAUSA PHARMACEUTICAL LTDA. 37124240000108
+
+canabidiol
+
+CANABIDIOL FARMAUSA 25351.129738/2024-84 07/2030
+
+11537 PRODUTOS DE CANNABIS (FITOFÁRMACO) - AUTORIZAÇÃO SANITÁRIA (COM CONCENTRAÇÃO DE THC ATÉ 0,2%) 0364360/24-1
+
+1.5274.0001.001-0 24 Meses
+
+50 MG/ML SOL OR CT FR VD AMB X 30ML + SER DOS
+
+50 MG/ML
+
+1.5274.0001.002-9 24 Meses
+
+100 MG/ML SOL OR CT FR VD AMB X 30ML + SER DOS
+
+100 MG/ML
+
+1.5274.0001.003-7 24 Meses
+
+200 MG/ML SOL OR CT FR VD AMB X 30ML + SER DOS
+
+200 MG/ML

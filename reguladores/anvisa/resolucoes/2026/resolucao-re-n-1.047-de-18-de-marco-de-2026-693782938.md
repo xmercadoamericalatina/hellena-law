@@ -1,0 +1,137 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.047, DE 18 DE MARÇO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1047"
+data: 2026-03-18
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 19/03/2026, seção 1, p. 96"
+data_publicacao: 2026-03-19
+edicao: "53"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.047-de-18-de-marco-de-2026-693782938"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 1.047, DE 18 DE MARÇO DE 2026
+
+RESOLUÇÃO-RE Nº 1.047, DE 18 DE MARÇO DE 2026
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+BRASPRESS TRANSPORTES URGENTES LTDA / 48.740.351/0004-08
+
+25351.047903/2016-10 / 1154701
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70887 - AE - ALTERAÇÃO - ENDEREÇO, POR ATO PÚBLICO / 0218789262
+
+--------------------------------------
+
+R P SOARES LTDA / 57.568.812/0001-55
+
+25351.040289/2025-15 / 1334796
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0209800267
+
+--------------------------------------
+
+BELCHER FARMACEUTICA DO BRASIL LTDA ME / 14.146.456/0001-79
+
+25351.361054/2018-27 / 1178308
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+IMPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70807 - AE - ALTERAÇÃO - AMPLIAÇÃO DE CLASSE / 0214625265
+
+--------------------------------------
+
+HAYA DO BRASIL IMPORTACAO E EXPORTACAO LTDA / 33.021.168/0001-32
+
+25351.024862/2025-35 / 1328788
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+IMPORTAR: INSUMOS FARMACÊUTICOS
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0207509263
+
+--------------------------------------
+
+BRASIL FARMA COMERCIO DE MATERIAIS E MEDICAMENTOS LTDA / 48.508.275/0001-67
+
+25351.018322/2023-51 / 1286649
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0204541263
+
+--------------------------------------
+
+LEGACY DISTRIBUIDORA LTDA / 52.152.794/0001-02
+
+25351.956086/2024-53 / 1306659
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0206411260
+
+--------------------------------------
+
+ACL CARGO TRANSPORTES LTDA EPP / 06.695.952/0001-53
+
+25351.154042/2015-90 / 1137523
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0205004261
+
+--------------------------------------
+
+LAUREL PHARMA LTDA / 49.458.734/0001-08
+
+25351.659453/2023-92 / 1300244
+
+ARMAZENAR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+IMPORTAR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0624285251

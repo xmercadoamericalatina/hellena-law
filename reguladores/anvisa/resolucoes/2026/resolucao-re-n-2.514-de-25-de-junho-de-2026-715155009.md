@@ -1,0 +1,87 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.514, DE 25 DE JUNHO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "2514"
+data: 2026-06-25
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 29/06/2026, seção 1, p. 147"
+data_publicacao: 2026-06-29
+edicao: "119"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.514-de-25-de-junho-de-2026-715155009"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 2.514, DE 25 DE JUNHO DE 2026
+
+RESOLUÇÃO-RE nº 2.514, DE 25 DE JUNHO DE 2026
+
+A GERENTE-GERAL SUBSTITUTA DE ALIMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 96, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Indeferir as petições de avaliação relacionadas à Gerência-Geral de Alimentos, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ÂNGELA KARINNE FAGUNDES DE CASTRO
+
+## ANEXO
+
+RELATÓRIO DE CONFERÊNCIA - ALIMENTOS: 445526
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO
+
+NÚMERO DO PROCESSO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+---------------------------------------
+
+ANTIBIÓTICOS DO BRASIL LTDA / 05.439.635/0001-03
+
+ENTEROCOCCUS LACTIS SF68
+
+25351.695262/2023-94
+
+4107 - AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE PROBIÓTICOS / 1133674/23-2
+
+--------------------------------------
+
+KEMIN DO BRASIL LTDA / 03.484.601/0005-39
+
+AROMATIZANTES
+
+25351.114385/2025-07
+
+4113 - AVALIAÇÃO DE EXTENSÃO DE USO DE ADITIVOS ALIMENTARES, EXCETO ESPÉCIES BOTÂNICAS / 0893284/25-4
+
+--------------------------------------
+
+REGULARIUM CONSULTORIA NUTRICIONAL E REGULATORIA LTDA / 35.806.807/0001-09
+
+EXTRATO AQUOSO DE AZEITONA
+
+25351.117086/2025-16
+
+4109 - AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE NOVOS ALIMENTOS E NOVOS INGREDIENTES, EXCETO PROBIÓTICOS E ENZIMAS / 0908362/25-1
+
+--------------------------------------
+
+SOUTO, CORREA ADVOCACIA / 17.458.287/0001-09
+
+ASSOCIAÇÃO DE LEVILACTOBACILLUS BREVIS CECT 7480 (KABP-052), LACTIPLANTIBACILLUS PLANTARUM CECT 7481 (KABP-051) E PEDIOCOCCUS ACIDILACTICI CECT 7483 (KABP-021).
+
+25351.162219/2025-17
+
+4107 - AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE PROBIÓTICOS / 1203698/25-9
+
+--------------------------------------
+
+VIVA NUTRICAO LTDA - ME / 24.778.944/0001-52
+
+EXTRATO DE ESTIGMAS DE AÇAFRÃO
+
+25351.194932/2025-11
+
+4109 - AVALIAÇÃO DE SEGURANÇA E EFICÁCIA DE PROPRIEDADES FUNCIONAL OU DE SAÚDE DE NOVOS ALIMENTOS E NOVOS INGREDIENTES, EXCETO PROBIÓTICOS E ENZIMAS / 1419075/25-0

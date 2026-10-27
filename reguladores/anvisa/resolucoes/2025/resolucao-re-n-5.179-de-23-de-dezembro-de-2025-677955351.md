@@ -1,0 +1,100 @@
+---
+titulo: "RESOLUÇÃO-RE nº 5.179, DE 23 DE DEZEMBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "5179"
+data: 2025-12-23
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/12/2025, seção 1, p. 977"
+data_publicacao: 2025-12-24
+edicao: "245"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-5.179-de-23-de-dezembro-de-2025-677955351"
+baixado_em: 2026-10-16
+sha256_html_fonte: eb5ade9e56787c046f68d31072a7e32ca2faaf4ad8a250edf74b82f1b6162936
+---
+# RESOLUÇÃO-RE nº 5.179, DE 23 DE DEZEMBRO DE 2025
+
+RESOLUÇÃO-RE nº 5.179, DE 23 DE DEZEMBRO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Cancelar as Autorizações de Funcionamento e Autorizações Especiais constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+DROGA MAIS FARMACIA LTDA / 43.425.378/0001-40
+
+25351.613930/2021-10 / 7861763
+
+COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+FRACIONAMENTO: -
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS: -
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1637287259
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FARMACIA SALVADOR FARMA LTDA / 37.802.471/0002-04
+
+25351.009277/2025-13 / 5159226
+
+COMÉRCIO: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS: -
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1637641257
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+UNIVERSAL COMERCIO DE MEDICAMENTO LTDA-EPP / 03.985.041/0001-72
+
+25351.359694/2013-62 / 0949491
+
+COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS: -
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1637826257
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FARMACIA MACHADO LTDA / 37.629.799/0003-51
+
+25351.552901/2021-66 / 7853737
+
+COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS: -
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1636780253
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.

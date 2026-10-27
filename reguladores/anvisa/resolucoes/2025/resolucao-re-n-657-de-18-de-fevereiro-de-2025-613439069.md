@@ -1,0 +1,139 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 657, DE 18 DE FEVEREIRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "657"
+data: 2025-02-18
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 19/02/2025, seção 1, p. 176"
+data_publicacao: 2025-02-19
+edicao: "35"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-657-de-18-de-fevereiro-de-2025-613439069"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 657, DE 18 DE FEVEREIRO DE 2025
+
+RESOLUÇÃO-RE Nº 657, DE 18 DE FEVEREIRO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A / 60.665.981/0009-75
+
+25351.299109/2014-08 / 1108578
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPORTAR: MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0166951251
+
+--------------------------------------
+
+HUMANA ALIMENTAR - DISTRIBUIDORA DE MEDICAMENTOS E PRODUTOS NUTRICIONAIS LTDA / 02.786.436/0001-83
+
+25351.318287/2015-16 / 8121657
+
+ARMAZENAR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISTRIBUIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+EXPEDIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0113521251
+
+--------------------------------------
+
+SINGULAR FARMACIA DE MANIPULAÇÃO LTDA / 05.794.416/0001-42
+
+25351.612171/2014-18 / 1127834
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7027 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - ENDEREÇO / 0066146259
+
+--------------------------------------
+
+FARMAGROUP S/A - CENTRAL DE COMPRAS / 17.958.051/0001-23
+
+25351.770393/2015-31 / 1149596
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0213274256
+
+--------------------------------------
+
+GOLD SEA LOG LTDA / 39.840.664/0001-02
+
+25351.676966/2023-68 / 1300582
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0066149258
+
+--------------------------------------
+
+viatris farmaceutica do brasil ltda / 11.643.096/0004-75
+
+25351.381948/2024-81 / 1315880
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EMBALAR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+FABRICAR: MEDICAMENTO
+
+FRACIONAR: MEDICAMENTO
+
+IMPORTAR: MEDICAMENTO
+
+REEMBALAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1656436248
+
+--------------------------------------
+
+TOTAL SUPRI COMERCIO IMPORTAÇÃO E EXPORTAÇÃO LTDA / 50.363.579/0001-25
+
+25351.309567/2023-94 / 1292891
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0191661252
+
+--------------------------------------
+
+Syneos Health Brasil Ltda / 08.190.722/0001-68
+
+25351.383333/2017-95 / 1170691
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: INSUMOS FARMACÊUTICOS / MEDICAMENTO / OUTROS PRODUTOS SUJEITOS A CONTROLE ESPECIAL
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0011327251

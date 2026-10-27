@@ -1,0 +1,487 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.091, DE 21 DE MARÇO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "1091"
+data: 2025-03-21
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 24/03/2025, seção 1, p. 126"
+data_publicacao: 2025-03-24
+edicao: "56"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.091-de-21-de-marco-de-2025-619288636"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 1.091, DE 21 DE MARÇO DE 2025
+
+RESOLUÇÃO-RE Nº 1.091, DE 21 DE MARÇO DE 2025
+
+O GERENTE-GERAL DE COSMÉTICOS E SANEANTES DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir os registros e as petições dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONCALVES ARAúJO RIOS
+
+## ANEXO
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO E MARCA
+
+NÚMERO DO PROCESSO / REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+&CO. INDUSTRIA E COMERCIO DE COSMETICOS LTDA - EPP / 17.153.030/0001-30
+
+BALM LABIAL - KIND
+
+25351.430454/2024-38 / 280880106
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1469608/24-3
+
+PROTETOR SOLAR FPS 80 FINNOSOL BEGE - FINNOFARMA
+
+25351.441775/2024-68 / 280880107
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1568294/24-7
+
+PROTETOR SOLAR FPS 80 FINNOSOL BEGE MÉDIO - FINNOFARMA
+
+25351.441813/2024-82 / 280880108
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1568537/24-7
+
+PROTETOR SOLAR FACIAL FPS 80 PODER VERDE
+
+25351.443056/2024-81 / 280880109
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1583084/24-0
+
+--------------------------------------
+
+AERZ QUIMICA INDUSTRIAL LTDA / 19.083.386/0001-70
+
+REPELENTE DE INSETOS REPELSET - VINI LADY
+
+25351.974507/2016-07 / 278550001
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0032914/25-3
+
+--------------------------------------
+
+ASSET QUIMICA LTDA / 33.114.341/0001-47
+
+PROTETOR SOLAR FPS 60 - DEISY PEROZZO
+
+25351.379163/2024-49 / 424840002
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1016904/24-0
+
+PROTETOR SOLAR 60 FPS - REVELA
+
+25351.413708/2024-53 / 424840003
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1317214/24-2
+
+--------------------------------------
+
+AVON INDUSTRIAL LTDA / 00.680.516/0001-24
+
+AVON CARE SUN+ FPS 30 PROTETOR SOLAR
+
+25351.113551/2020-35 / 200042181
+
+2110 - REG. COSMÉTICOS - Alteração de especificação microbiológica e/ou físico-química de Produto Registrado sem alteração de fórmula / 0847187/24-1
+
+--------------------------------------
+
+BASSI INDÚSTRIA DE COSMÉTICOS LTDA. / 22.524.028/0001-60
+
+SOLZINHO PROTETOR SOLAR STICK FPS 80 BIOCLUB
+
+25351.440139/2024-19 / 409680006
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1555083/24-2
+
+--------------------------------------
+
+BEIERSDORF INDÚSTRIA E COMÉRCIO LTDA / 01.786.983/0001-04
+
+PROTETOR SOLAR NIVEA SUN OLEOSIDADE
+
+25351.416700/2024-49 / 227210795
+
+2871 - REG. COSMÉTICOS - Registro de Produto - Importado / 1346437/24-6
+
+--------------------------------------
+
+BIO INSTINTO INDUSTRIA E COMERCIO DE COSMETICOS LTDA -ME / 07.882.964/0001-50
+
+LOÇÃO REPELENTE DE INSETOS ADULTO BIO INSTINTO
+
+25351.147358/2024-21 / 251210067
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0039551/25-3
+
+--------------------------------------
+
+BIOZER DA AMAZÔNIA INDÚSTRIA E COMÉRCIO DE COSMÉTICOS E FITOTERAPICOS LTDA / 08.274.239/0001-61
+
+GEL HIGIENIZANTE ESFERAS AZUIS ANTISSÉPTICO PARA AS MÃOS DAAZ CUIDADOS
+
+25351.444234/2024-91 / 299690001
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1591905/24-9
+
+--------------------------------------
+
+BRAVIR INDUSTRIAL LTDA / 18.688.481/0001-35
+
+MÁSSIME SOL PROTETOR SOLAR LABIAL FPS 50
+
+25351.175316/2019-13 / 206420049
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0849013/24-1
+
+HELIODERM PROTETOR SOLAR LABIAL FPS 30
+
+25351.251442/2020-15 / 206420056
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0747502/24-2
+
+MIO PROTETOR LABIAL FPS15 MELANCIA
+
+25351.450187/2024-15 / 206420096
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1649191/24-3
+
+--------------------------------------
+
+CHAMS INDÚSTRIA DE COSMÉTICOS LTDA. - ME / 04.284.635/0001-19
+
+PROTETOR SOLAR INFANTIL FPS 50 DERMUNN
+
+25351.393824/2024-49 / 235310011
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1138817/24-4
+
+PROTETOR SOLAR FPS 30 UNISOL
+
+25351.423581/2024-81 / 235310012
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1406340/24-3
+
+--------------------------------------
+
+COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. / 61.082.426/0002-07
+
+EPISOL COLOR PÓ COMPACTO FPS 50 TOM 3
+
+25351.442303/2024-22 / 200030906
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1575809/24-9
+
+EPISOL COLOR PÓ COMPACTO FPS 50 TOM 2
+
+25351.442360/2024-10 / 200030907
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1576421/24-4
+
+EPISOL COLOR PÓ COMPACTO FPS 50 TOM 4
+
+25351.442374/2024-25 / 200030908
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1576545/24-5
+
+EPISOL COLOR PÓ COMPACTO FPS 50 TOM 1
+
+25351.442390/2024-18 / 200030909
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1576725/24-3
+
+--------------------------------------
+
+COSMO INDUSTRIA E COMERCIO DE COSMETICOS LTDA / 24.769.185/0001-61
+
+PROTETOR SOLAR PS-04 PRINCIPIA
+
+25351.440153/2024-12 / 289110017
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1555152/24-4
+
+--------------------------------------
+
+DAHUER LABORATÓRIO LTDA / 82.914.334/0001-35
+
+ANASOL PROTETOR SOLAR FACIAL CLAREADOR FPS 90
+
+25351.021675/2023-38 / 215630211
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 0831621/24-9
+
+PROTETOR SOLAR CORPORAL KIDS FPS 60 AISHY
+
+25351.444297/2024-48 / 215630252
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1592372/24-4
+
+PROTETOR SOLAR CORPORAL FPS 30 AISHY
+
+25351.444299/2024-37 / 215630253
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1592381/24-3
+
+--------------------------------------
+
+EKILIBRE AMAZONIA LTDA / 26.071.939/0001-30
+
+Protetor solar Tonalizante em Bastão 12g - Ekilibre Amazonia
+
+25351.418596/2024-27 / 400820002
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1366083/24-5
+
+--------------------------------------
+
+EMCS INDUSTRIA LTDA / 07.307.698/0001-31
+
+HIDRÓXIDO DE CÁLCIO TRULLE
+
+25351.455417/2024-32 / 246050062
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1698728/24-7
+
+--------------------------------------
+
+FARMAX S.A. / 21.759.758/0001-88
+
+REPELENTE EM GEL MOSKITOFF BABY COM ICARIDINA FARMAX
+
+25351.768527/2020-38 / 231220184
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0007480/25-3
+
+--------------------------------------
+
+HF INDÚSTRIA E COMERCIO DE COSMETICOS LTDA / 06.195.970/0001-76
+
+PROTETOR SOLAR FACIAL FPS 30 - TA LOUCA!
+
+25351.439070/2024-81 / 264060019
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1547818/24-7
+
+--------------------------------------
+
+IBIRA INDUSTRIA E COMERCIO DE PRODUTOS COSMETICOS E VET LTDA / 32.525.728/0001-23
+
+BRENE DEET PROTECT CREAM - LOVELY BEAUTY CARE
+
+25351.011661/2025-78 / 448560006
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0108064/25-5
+
+--------------------------------------
+
+INDUSTRIA E COMERCIO DE COSMETICOS NATURA LTDA / 00.190.373/0001-72
+
+AVON CARE SUN+ KIDS PROTETOR SOLAR COM COR FPS 50
+
+25351.411456/2024-28 / 205671588
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1295583/24-1
+
+NATURA PROTETOR SOLAR FACIAL FPS 50 PELE MISTA A OLEOSA
+
+25351.448317/2024-50 / 205671589
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1628612/24-0
+
+--------------------------------------
+
+KLUG INDUSTRIA QUIMICA E DE COSMETICOS LTDA / 39.237.158/0001-15
+
+Smart Booster B12 - Protetor Solar FPS 50 - Smart GR
+
+25351.459059/2024-37 / 432990005
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1734856/24-6
+
+--------------------------------------
+
+LABORATOIRES PHYTO TECHNIQUE BRASIL INDUSTRIA E COMERCIO DE COSMETICOS LTDA / 20.729.335/0001-52
+
+MIRACLE STICK PROTETOR SOLAR EM BASTÃO COM COR FPS 95 #50
+
+25351.258218/2024-88 / 281600003
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0613508/24-6
+
+MIRACLE STICK PROTETOR SOLAR EM BASTÃO COM COR FPS 95 #40
+
+25351.258221/2024-00 / 281600004
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0613513/24-0
+
+MIRACLE STICK PROTETOR SOLAR EM BASTÃO COM COR FPS 95 #10
+
+25351.258223/2024-91 / 281600005
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0613518/24-1
+
+MIRACLE STICK PROTETOR SOLAR EM BASTÃO COM COR FPS 95 #20
+
+25351.258242/2024-17 / 281600006
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0613544/24-2
+
+MIRACLE STICK PROTETOR SOLAR EM BASTÃO COM COR FPS 95 #60
+
+25351.258290/2024-13 / 281600007
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0613617/24-0
+
+--------------------------------------
+
+LABORATORIO MARPESA PRODUTOS BELEZA E HIGIENE LTDA / 27.915.099/0001-08
+
+MAMI WATA PROTETOR SOLAR COM BRILHO DOURADO
+
+25351.443108/2024-10 / 206550365
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1583655/24-7
+
+--------------------------------------
+
+LABOTRAT INDUSTRIA DE COSMETICOS LTDA / 33.011.971/0001-96
+
+GEL CREME PROTETOR FACIAL FPS 50 LABOTRAT
+
+25351.430457/2024-71 / 414840015
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1469635/24-1
+
+Protetor Solar Baby & Kids FPS 60 Labotrat
+
+25351.439046/2024-41 / 414840016
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1547588/24-1
+
+Protetor Solar Dermo Sun FPS 50 Labotrat
+
+25351.439077/2024-01 / 414840017
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1547854/24-3
+
+--------------------------------------
+
+MARELI INDUSTRIA E COMERCIO DE COSMETICOS LTDA / 05.653.110/0001-76
+
+SELAGEM SILK SERICIN - BÓRABELLA
+
+25351.459647/2024-71 / 297290003
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1739986/24-5
+
+BÓRATX - BÓRABELLA
+
+25351.459648/2024-15 / 297290004
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1740083/24-5
+
+--------------------------------------
+
+MAVARO INDÚSTRIA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA. / 59.720.284/0001-33
+
+MAVARO PROTETOR SOLAR FPS 60 AÇÃO REPELENTE
+
+25351.445894/2024-90 / 212800037
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1606441/24-8
+
+--------------------------------------
+
+Nutriex Indústria de Nutracêuticos Ltda. / 22.966.065/0001-29
+
+SPRAY REPELENTE DE INSETOS ISABABY
+
+25351.154857/2018-27 / 291200231
+
+242 - REG. COSMÉTICOS - Alteração do Prazo de Validade de Produto Registrado / 1669735/24-9
+
+--------------------------------------
+
+Oleak Indústria e Comércio Ltda / 61.153.250/0001-56
+
+PULIRE ANTISSÉPTICO INSTANTÂNEO PARA AS MÃOS
+
+25351.457074/2024-41 / 227250029
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1713854/24-4
+
+--------------------------------------
+
+PASTEUR COSMIATRIA LTDA / 87.727.277/0001-07
+
+PROTETOR SOLAR FACIAL SKIN FPS 30 DAUF
+
+25351.412133/2015-95 / 214850313
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0841351/24-4
+
+PROTETOR SOLAR FACIAL SKIN FPS 30 DAUF
+
+25351.412133/2015-95 / 214850313
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 0846826/24-1
+
+PROTETOR SOLAR FPS 30 USO PROFISSIONAL - MED PROTECTION
+
+25351.450185/2024-26 / 214850535
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1649138/24-5
+
+PROTETOR SOLAR FACIAL FPS 30 - VITAMINA E - MEDSUN
+
+25351.454637/2024-49 / 214850536
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1691356/24-7
+
+PROTETOR SOLAR FPS 50 - MED SUN
+
+25351.496223/2015-13 / 214850324
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0841074/24-1
+
+PROTETOR SOLAR FPS 50 - MED SUN
+
+25351.496223/2015-13 / 214850324
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 0846880/24-5
+
+PROTETOR SOLAR FPS 50 - REVITART SOLAR
+
+25351.606157/2018-21 / 214850367
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0772246/24-6
+
+PROTETOR SOLAR FPS 50 - REVITART SOLAR
+
+25351.606157/2018-21 / 214850367
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 0778949/24-9
+
+--------------------------------------
+
+STOA INDUSTRIA COSMETICA LTDA / 37.088.088/0001-55
+
+BTX BLEND REPAIR
+
+25351.419176/2024-68 / 424260022
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1370892/24-1

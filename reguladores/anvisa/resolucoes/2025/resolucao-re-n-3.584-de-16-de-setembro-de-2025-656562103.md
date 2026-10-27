@@ -1,0 +1,174 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.584, DE 16 DE SETEMBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3584"
+data: 2025-09-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/09/2025, seção 1, p. 109"
+data_publicacao: 2025-09-17
+edicao: "177"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.584-de-16-de-setembro-de-2025-656562103"
+baixado_em: 2026-10-16
+sha256_html_fonte: 7d81cf28cde8c254a30355563d56c72779f33071751d89af5658309daf551c06
+---
+# RESOLUÇÃO-RE nº 3.584, DE 16 DE SETEMBRO DE 2025
+
+RESOLUÇÃO-RE nº 3.584, DE 16 DE SETEMBRO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+WEST AIR CARGO LTDA / 02.743.895/0001-80
+
+25351.038718/2007-02 / 1218892
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 1119064252
+
+--------------------------------------
+
+SERTAO MEDICAMENTOS & HOSPITALARES & ODONTOLOGICOS LTDA / 32.386.986/0001-76
+
+25351.447427/2024-02 / 1323408
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1698328249
+
+--------------------------------------
+
+SURGIMED COMERCIO ATACADISTA DE PRODUTOS CIRURGICOS E HOSPITALAR DO NORDESTE LTDA / 04.324.939/0001-62
+
+25351.057088/2022-04 / 1269963
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1111833257
+
+--------------------------------------
+
+MIGUEL & MALU SOUZA E BESSA MANIPULACAO LTDA / 46.031.532/0001-97
+
+25351.155871/2023-13 / 1289554
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7024 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - RAZÃO SOCIAL / 1073396258
+
+--------------------------------------
+
+FARMACIA DORIVAL LTDA ME / 00.218.358/0001-95
+
+25351.317747/2008-19 / 1384631
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+70887 - AE - ALTERAÇÃO - ENDEREÇO, POR ATO PÚBLICO / 1111155259
+
+--------------------------------------
+
+DISTMED DISTRIBUIDORA LTDA / 52.756.486/0001-96
+
+25351.101549/2025-28 / 1409268
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1087542251
+
+--------------------------------------
+
+ART PHARMA FARMÁCIA DE MANIPULAÇÃO LTDA ME / 06.948.298/0001-42
+
+25351.470018/2005-39 / 1373371
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 1099549256
+
+--------------------------------------
+
+FEDEX BRASIL LOGISTICA E TRANSPORTE LTDA / 10.970.887/0006-09
+
+25351.721450/2014-48 / 1130144
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 1111257256
+
+--------------------------------------
+
+VMF TRANSPORTE E LOGISTICA LTDA / 54.751.568/0001-73
+
+25351.422888/2024-64 / 1320450
+
+ARMAZENAR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1076911251
+
+--------------------------------------
+
+CHOICE IMPORTAÇÃO E EXPORTAÇÃO LTDA / 13.214.249/0001-41
+
+25351.620046/2014-72 / 1125271
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS
+
+EXPEDIR: INSUMOS FARMACÊUTICOS
+
+IMPORTAR: INSUMOS FARMACÊUTICOS
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 1115018256
+
+--------------------------------------
+
+FS TRANSPORTES LOCAÇÕES E AGENDAMENTOS LTDA EPP / 20.636.419/0001-41
+
+25351.648028/2014-75 / 1125023
+
+TRANSPORTAR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 1078443254
+
+--------------------------------------
+
+pádua ribeiro farmacêutica ltda / 08.758.848/0001-96
+
+25351.109698/2014-89 / 1059871
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 1120107253

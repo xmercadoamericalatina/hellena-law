@@ -1,0 +1,59 @@
+---
+titulo: "ReTIFICAÇÃO"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: ""
+data: 2026-07-10
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 10/07/2026, seção 1, p. 182"
+data_publicacao: 2026-07-10
+edicao: "128"
+fonte: "https://www.in.gov.br/web/dou/-/retificacao-718139581"
+baixado_em: 2026-10-15
+---
+# ReTIFICAÇÃO
+
+ReTIFICAÇÃO
+
+Na Resolução - RE n° 2.148, de 28 de maio de 2026, publicada no Diário Oficial da União n° 101, de 1 de junho de 2026, Seção 1, pág. 147 e 154.
+
+Onde se lê:
+
+K BATISTA GONCALVES BORGES LTDA / 25.563.628/0001-26
+
+25351.043632/2003-60 / 0385517
+
+COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE
+
+HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+DISPENSAÇÃO DE PLANTAS MEDICINAIS:
+
+MANIPULAÇÃO DE PRODUTOS MAGISTRAIS:
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS:
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0517430266
+
+Leia-se:
+
+NOGUEIRA COMERCIO DE MEDICAMENTOS LTDA / 25.563.628/0001-26
+
+25351.043632/2003-60 / 0385517
+
+COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE
+
+HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+DISPENSAÇÃO DE PLANTAS MEDICINAIS:
+
+MANIPULAÇÃO DE PRODUTOS MAGISTRAIS:
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS:
+
+7110 - AFE - ALTERAÇÃO - FARMÁCIAS E DROGARIAS - RAZÃO SOCIAL / 0517430266

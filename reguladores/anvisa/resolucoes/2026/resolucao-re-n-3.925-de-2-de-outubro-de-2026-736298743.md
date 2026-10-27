@@ -1,0 +1,259 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.925, DE 2 DE OUTUBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3925"
+data: 2026-10-02
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 05/10/2026, seção 1, p. 135"
+data_publicacao: 2026-10-05
+edicao: "188"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.925-de-2-de-outubro-de-2026-736298743"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 3.925, DE 2 DE OUTUBRO DE 2026
+
+RESOLUÇÃO-RE Nº 3.925, DE 2 DE OUTUBRO DE 2026
+
+A GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos dispostos no art. 39, da Resolução da Diretoria Colegiada - RDC nº 497, de 20 de maio de 2021, resolve:
+
+**Art. 1º** Renovar a Certificação de Boas Práticas de Fabricação de Medicamentos das empresas constantes no anexo, por meio de sua renovação automática.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RENATA DE LIMA SOARES
+
+## ANEXO
+
+EMPRESA: DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA - CNPJ: 60.874.187/0001-84 - AUTORIZ/MS: 1004548
+
+ENDEREÇO: ALAMEDA XINGU, N° 766
+
+MUNICÍPIO: BARUERI - UF: SP - EXPEDIENTE: 0288080/26-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Géis; Pomadas
+
+Data de Vencimento: 07/10/2028
+
+.........................................
+
+EMPRESA: DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA - CNPJ: 60.874.187/0001-84 - AUTORIZ/MS: 1004548
+
+ENDEREÇO: ALAMEDA XINGU, N° 766
+
+MUNICÍPIO: BARUERI - UF: SP - EXPEDIENTE: 0287928/26-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Adesivos; Comprimidos; Comprimidos Revestidos
+
+Data de Vencimento: 07/10/2028
+
+.........................................
+
+EMPRESA: laboratorio quimico farmaceutico bergamo ltda - CNPJ: 61.282.661/0008-18 - AUTORIZ/MS: 1006461
+
+ENDEREÇO: AV MARIO ISAAC PIRES, 7602
+
+MUNICÍPIO: COTIA - UF: SP - EXPEDIENTE: 0268206/26-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 07/10/2028
+
+.........................................
+
+EMPRESA: laboratorio quimico farmaceutico bergamo ltda - CNPJ: 61.282.661/0008-18 - AUTORIZ/MS: 1006461
+
+ENDEREÇO: AV MARIO ISAAC PIRES, 7602
+
+MUNICÍPIO: COTIA - UF: SP - EXPEDIENTE: 0268369/26-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem secundária)
+
+Sólidos não estéreis: Comprimidos; Comprimidos Revestidos; Cápsulas
+
+Data de Vencimento: 07/10/2028
+
+.........................................
+
+EMPRESA FABRICANTE: LOTUS PHARMACEUTICAL CO., LTD.
+
+ENDEREÇO: NO.30, CHENGGONG 1ST RD., SINSING VILLAGE, NANTOU CITY, NANTOU COUNTY, 54066, TAIWAN (R.O.C) - PAÍS: TAIWAN - CÓDIGO ÚNICO: A.000686
+
+EMPRESA SOLICITANTE: EUROFARMA LABORATORIOS S.A. - CNPJ: 61.190.096/0001-92
+
+AUTORIZ/MS: 1000438 - EXPEDIENTE(s): 0328910/26-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas
+
+Data de Vencimento: 07/10/2028
+
+.........................................
+
+EMPRESA FABRICANTE: EUGIA PHARMA SPECIALITIES LIMITED
+
+ENDEREÇO: SURVEY NOS. 550,551 E 552, KOLTHUR VILLAGE, SHAMIRPET MANDAL, MEDCHAL-MALKAJGIRI DISTRICT, TELANGANA - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001350
+
+EMPRESA SOLICITANTE: EUGIA PHARMA INDUSTRIA FARMACEUTICA LTDA - CNPJ: 44.639.493/0001-80
+
+AUTORIZ/MS: 1274209 - EXPEDIENTE(s): 0334667/26-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos; Cápsulas; Cápsulas Moles
+
+Data de Vencimento: 07/10/2028
+
+.........................................
+
+EMPRESA FABRICANTE: CAPLIN STERILES LIMITED
+
+ENDEREÇO: SURVEY NO.: 895 & 897, GURUVARAJA KANDIGAI VILLAGE,SIRUPUZHALPETTAI POST, GUMMIDIPOONDI TALUK,THIRUVALLUR DISTRICT, PIN CODE - 601 201 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001516
+
+EMPRESA SOLICITANTE: BIOTEC BIOLOGICA INDÚSTRIA FARMACÊUTICA LTDA. - CNPJ: 10.446.719/0001-04
+
+AUTORIZ/MS: 1069176 - EXPEDIENTE(s): 0306991/26-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Grande Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Soluções com Preparação Asséptica
+
+Data de Vencimento: 07/10/2028
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG
+
+ENDEREÇO: EISENBAHNSTRASSE 2-4, LANGENARGEN, BADEN-WUERTTEMBERG, 88085 - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000626
+
+EMPRESA SOLICITANTE: OCTAPHARMA BRASIL LTDA - CNPJ: 02.552.927/0001-60
+
+AUTORIZ/MS: 1039712 - EXPEDIENTE(s): 0289201/26-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Data de Vencimento: 07/10/2028
+
+.........................................
+
+EMPRESA FABRICANTE: PRODUCTOS CIENTÍFICOS S.A. DE C.V., LABORATORIOS CARNOT.
+
+ENDEREÇO: NICOLÁS SAN JUAN, 1046 COLONIA DEL VALLE. CIDADE DO MÉXICO. - PAÍS: MÉXICO - CÓDIGO ÚNICO: A.000514
+
+EMPRESA SOLICITANTE: HEMAFARMA COM E IND FARMACEUTICA LTDA - CNPJ: 30.332.829/0001-52
+
+AUTORIZ/MS: 1010360 - EXPEDIENTE(s): 0326875/26-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 07/10/2028
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXO WELLCOME PRODUCTION
+
+ENDEREÇO: 23, RUE LAVOISIER, ZONE INDUSTRIELLE N° 2, 27000 EVREUX - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000262
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0175375/26-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Pós
+
+Data de Vencimento: 07/10/2028
+
+.........................................
+
+EMPRESA FABRICANTE: BAYER WEIMAR GMBH UND CO. KG
+
+ENDEREÇO: DOBEREINERSTRASSE 20, 99427 WEIMAR - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000908
+
+EMPRESA SOLICITANTE: Laboratórios Bagó do Brasil S/A - CNPJ: 04.748.181/0009-47
+
+AUTORIZ/MS: 1056264 - EXPEDIENTE(s): 0328960/26-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+Data de Vencimento: 07/10/2028
+
+.........................................
+
+EMPRESA FABRICANTE: AMGEN INC.
+
+ENDEREÇO: ONE AMGEN CENTER DRIVE, THOUSAND OAKS, CA - 91320 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001197
+
+EMPRESA SOLICITANTE: AMGEN BIOTECNOLOGIA DO BRASIL LTDA. - CNPJ: 18.774.815/0001-93
+
+AUTORIZ/MS: 1102440 - EXPEDIENTE(s): 0347021/26-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 07/10/2028
+
+.........................................
+
+EMPRESA FABRICANTE: FRESENIUS KABI AUSTRIA GMBH
+
+ENDEREÇO: ESTERMANNSTRASSE 17, 4020 LINZ - PAÍS: ÁUSTRIA - CÓDIGO ÚNICO: A.000232
+
+EMPRESA SOLICITANTE: DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA - CNPJ: 60.874.187/0001-84
+
+AUTORIZ/MS: 1004548 - EXPEDIENTE(s): 0288058/26-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Xaropes
+
+Data de Vencimento: 07/10/2028
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG.
+
+ENDEREÇO: MOOSWIESEN 2, 88214, RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000624
+
+EMPRESA SOLICITANTE: GALDERMA BRASIL LTDA - CNPJ: 00.317.372/0001-46
+
+AUTORIZ/MS: 1029167 - EXPEDIENTE(s): 0339712/26-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 07/10/2028
+
+.........................................
+
+EMPRESA FABRICANTE: CENEXI - LABORATOIRES THISSEN S. A.
+
+ENDEREÇO: RUE DE LA PAPYRÉE 2-4-6, BRAINE-L´ALLEUD, 1420 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000345
+
+EMPRESA SOLICITANTE: ADIUM S.A. - CNPJ: 55.980.684/0001-27
+
+AUTORIZ/MS: 1022141 - EXPEDIENTE(s): 0177583/26-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+Data de Vencimento: 07/10/2028
+
+.........................................
+
+EMPRESA FABRICANTE: BORA PHARMACEUTICAL SERVICES INC
+
+ENDEREÇO: 7333 MISSISSAUGA ROAD, MISSISSAUGA, ONTARIO L5N 6L4 - PAÍS: CANADÁ - CÓDIGO ÚNICO: A.000274
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0122329/26-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções; Suspensões
+
+Data de Vencimento: 07/10/2028
+
+.........................................
+
+EMPRESA FABRICANTE: M/S TROIKAA PHARMACEUTICALS LTD.
+
+ENDEREÇO: C-1, SARA INDUSTRIAL ESTATE, SELAQUI, DEHRADUN - 248197, UTTARAKHAND - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000735
+
+EMPRESA SOLICITANTE: MASTERS SPECIALITY PHARMA LTDA - CNPJ: 14.821.008/0001-23
+
+AUTORIZ/MS: 1094531 - EXPEDIENTE(s): 0322432/26-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Data de Vencimento: 07/10/2028

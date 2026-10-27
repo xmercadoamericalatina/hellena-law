@@ -1,0 +1,90 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.858, DE 1° DE dezembro DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4858"
+data: 2025-12-01
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/12/2025, seção 1, p. 180"
+data_publicacao: 2025-12-02
+edicao: "229"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.858-de-1-de-dezembro-de-2025-672635339"
+baixado_em: 2026-10-16
+sha256_html_fonte: 9578185737ccc461a98e9f0b4729af7716ad78b8b70be20c17fcf4e917b72ecf
+---
+# RESOLUÇÃO-RE Nº 4.858, DE 1° DE dezembro DE 2025
+
+RESOLUÇÃO-RE Nº 4.858, DE 1° DE dezembro DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+AXIOMA DISTRIBUIDORA DE MEDICAMENTOS LTDA / 59.619.571/0001-51
+
+25351.214601/2025-13 / 1420981
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1512701254
+
+--------------------------------------
+
+DUNORTE DISTRIBUIDORA LTDA / 57.557.056/0001-69
+
+25351.214706/2025-64 / 1420582
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1512913251
+
+--------------------------------------
+
+FS DISTRIBUICAO DE INSUMOS FARMACEUTICOS DISTRIBUIDOR ORYON LTDA / 35.099.137/0010-10
+
+25351.214572/2025-81 / 1420579
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS
+
+EXPEDIR: INSUMOS FARMACÊUTICOS
+
+761 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - ARMAZENADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1512532258
+
+--------------------------------------
+
+RENOVA MED COMERCIO LTDA / 47.888.906/0001-58
+
+25351.215992/2025-85 / 1420639
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1518761259
+
+--------------------------------------
+
+DEMMEL TRANSPORTES E LOGISTICA LTDA / 28.985.079/0002-57
+
+25351.216088/2025-97 / 1420656
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1519038259

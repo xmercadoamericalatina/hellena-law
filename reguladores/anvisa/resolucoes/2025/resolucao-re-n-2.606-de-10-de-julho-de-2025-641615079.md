@@ -1,0 +1,40 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.606, DE 10 DE JULHO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Registro e Fiscalização de Produtos Fumígenos Derivados ou Não do Tabaco"
+tipo: "Resolução"
+numero: "2606"
+data: 2025-07-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/07/2025, seção 1, p. 133"
+data_publicacao: 2025-07-14
+edicao: "130"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.606-de-10-de-julho-de-2025-641615079"
+baixado_em: 2026-10-16
+sha256_html_fonte: 75f28b81289fef8f28524e6d951feba32f44f2523019ca879798c3e8e07aeedf
+---
+# RESOLUÇÃO-RE nº 2.606, DE 10 DE JULHO DE 2025
+
+RESOLUÇÃO-RE nº 2.606, DE 10 DE JULHO DE 2025
+
+A GERENTE-GERAL DE REGISTRO E FISCALIZAÇÃO DE PRODUTOS FUMÍGENOS DERIVADOS OU NÃO DO TABACO DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 127, aliado ao disposto no art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e tendo em vista o disposto na Resolução da Diretoria Colegiada nº 896, de 27 de agosto de 2024, resolve:
+
+**Art. 1º** Deferir a petição relativa a produto fumígeno derivado do tabaco, conforme anexo, em cumprimento à decisão liminar concedida pelo 3ª VF/SJ/BA, no processo 46408-58.2012.4.01.3300.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+STEFANIA SCHIMANESKI PIRAS
+
+## ANEXO
+
+SOUZA CRUZ LTDA
+
+CNPJ: 33.009.911/0001-39
+
+Marca: DUNHILL VOYAGE ICE REFRESH (cigarro com filtro) - embalagem primária box, embalagem secundária caixa com 2 embalagens primárias box e embalagem secundária caixa com 4 embalagens primárias box
+
+Processo: 25351.046566/2025-95
+
+Expediente: 0427150/25-5
+
+Assunto: 6001 - Registro de Produto Fumígeno - Dados Cadastrais

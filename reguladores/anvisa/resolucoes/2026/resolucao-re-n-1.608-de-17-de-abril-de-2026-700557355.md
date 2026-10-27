@@ -1,0 +1,157 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.608, DE 17 DE ABRIL DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1608"
+data: 2026-04-17
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 22/04/2026, seção 1, p. 289"
+data_publicacao: 2026-04-22
+edicao: "74"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.608-de-17-de-abril-de-2026-700557355"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 1.608, DE 17 DE ABRIL DE 2026
+
+RESOLUÇÃO-RE Nº 1.608, DE 17 DE ABRIL DE 2026
+
+A GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+RENATA DE LIMA SOARES
+
+## ANEXO
+
+EMPRESA: CRISTALIA PRODUTOS QUIMICOS FARMACEUTICOS LTDA - CNPJ: 44.734.671/0008-28 - AUTORIZ/MS: 1002981
+
+ENDEREÇO: AVENIDA NOSSA SENHORA DE ASSUNCAO
+
+MUNICÍPIO: SÃO PAULO - UF: SP - EXPEDIENTE: 1247106/25-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Emulsões Parenterais de Pequeno Volume com Esterilização Terminal; Emulsões Parenterais de Pequeno Volume com Preparação Asséptica; Soluções Parenterais de Grande Volume com Esterilização Terminal; Soluções Parenterais de Grande Volume com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Suspensões Parenterais de Pequeno Volume com Esterilização Terminal; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA: PARMAGASES COMERCIO DE GASES E SERVIÇOS LTDA - CNPJ: 32.754.143/0001-85 - AUTORIZ/MS: 1281729
+
+ENDEREÇO: AV SANTA LUZIA n° 191
+
+MUNICÍPIO: AÇAILÂNDIA - UF: MA - EXPEDIENTE: 0010759/26-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais (Embalagem primária): Gás
+
+.........................................
+
+EMPRESA FABRICANTE: RECHON LIFE SCIENCE AB
+
+ENDEREÇO: SOLDATTORPSVÄGEN 5, LIMHAMN, 216 13 - PAÍS: SUÉCIA - CÓDIGO ÚNICO: A.000523
+
+EMPRESA SOLICITANTE: PINT PHARMA PRODUTOS MEDICO-HOSPITALARES E FARMACEUTICOS LTDA - CNPJ: 21.896.000/0001-91
+
+AUTORIZ/MS: 1139004 - EXPEDIENTE(s): 0838067/25-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: BIOLOGICAL E. LIMITED
+
+ENDEREÇO: PLOT NO. 1, BIOTECH PARK, PHASE II, KOLTHUR VILLAGE, SHAMEERPET, MEDCHAL-MALKAJGIRI DISTRICT, TELANGANA - 500 078 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001339
+
+EMPRESA SOLICITANTE: EQUILIBRIO COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - CNPJ: 05.215.461/0001-03
+
+AUTORIZ/MS: 1067131 - EXPEDIENTE(s): 0293842/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: LYOPHILIZATION SERVICES OF NEW ENGLAND, INC. (LSNE)
+
+ENDEREÇO: 25 COMMERCE DRIVE, BEDFORD, NEW HAMPSHIRE (NH) 03110 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001605
+
+EMPRESA SOLICITANTE: INNOVATIVE MEDICINES BRASIL SP DISTRIBUICAO DE MEDICAMENTOS LTDA - CNPJ: 21.810.980/0001-68
+
+AUTORIZ/MS: 1138407 - EXPEDIENTE(s): 0133930/26-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: NOVARTIS FARMA S.P.A.
+
+ENDEREÇO: VIA PROVINCIALE SCHITO 131, TORRE ANNUNZIATA - NÁPOLI - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000430
+
+EMPRESA SOLICITANTE: SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.286.647/0001-16
+
+AUTORIZ/MS: 1000472 - EXPEDIENTE(s): 1542254/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: GAN & LEE PHARMACEUTICALS
+
+ENDEREÇO: NO. 8 NANFENG WEST 1ST STREET, HUOXIAN, TONGZHOU DISTRICT, BEIJING - PAÍS: CHINA, REPÚBLICA POPULAR - CÓDIGO ÚNICO: A.000879
+
+EMPRESA SOLICITANTE: FUNDAÇÃO OSWALDO CRUZ - CNPJ: 33.781.055/0001-35
+
+AUTORIZ/MS: 1010633 - EXPEDIENTE(s): 0118795/26-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: BSP PHARMACEUTICALS S.P.A.
+
+ENDEREÇO: VIA APPIA KM 65,561 (LOC. LATINA SCALO) - 04013 LATINA (LT) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000688
+
+EMPRESA SOLICITANTE: PFIZER BRASIL LTDA - CNPJ: 61.072.393/0001-33
+
+AUTORIZ/MS: 1021101 - EXPEDIENTE(s): 1447803/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: SHARP PACKAGING SERVICES, LLC
+
+ENDEREÇO: 7570 INDUSTRIAL PARK WAY, MACUNGIE, PENNSYLVANIA (PA) 18062 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001796
+
+EMPRESA SOLICITANTE: ASTELLAS FARMA BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO DE MEDICAMENTOS LTDA. - CNPJ: 07.768.134/0001-04
+
+AUTORIZ/MS: 1077171 - EXPEDIENTE(s): 0131886/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: AUROBINDO PHARMA LIMITED - UNIT III
+
+ENDEREÇO: SURVEY N° 313 AND 314, BACHUPALLY VILLAGE - BACHUPALLY MANDAL - MEDCHAL-MALKAJGIRI DISTRICT - TELANGANA STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000054
+
+EMPRESA SOLICITANTE: MYRALIS INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 17.440.261/0001-25
+
+AUTORIZ/MS: 1014621 - EXPEDIENTE(s): 1473457/25-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: KASHIV BIOSCIENCES, LLC
+
+ENDEREÇO: 3440 S. DEARBORN ST, SUITE 300, CHICAGO, ILLINOIS (IL) 60616 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001686
+
+EMPRESA SOLICITANTE: CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. - CNPJ: 44.734.671/0001-51
+
+AUTORIZ/MS: 1002981 - EXPEDIENTE(s): 0096985/26-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)

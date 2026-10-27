@@ -1,0 +1,169 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.029, DE 19 DE MARÇO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1029"
+data: 2025-03-19
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 20/03/2025, seção 1, p. 162"
+data_publicacao: 2025-03-20
+edicao: "54"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.029-de-19-de-marco-de-2025-618783957"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 1.029, DE 19 DE MARÇO DE 2025
+
+RESOLUÇÃO-RE Nº 1.029, DE 19 DE MARÇO DE 2025
+
+O COORDENADOR SUBSTITUTO DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+LUIZ CLAUDIO GOMES DA SILVA JUNIOR
+
+## ANEXO
+
+CARGOSOFT SERVICOS LOGISTICOS LTDA / 05.443.883/0007-13
+
+25351.458822/2016-04 / 1161334
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0203496256
+
+--------------------------------------
+
+IGOR LEANDRO BRANQUINHO / 11.042.734/0001-50
+
+25351.614390/2012-10 / 1397990
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7027 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - ENDEREÇO / 0322959250
+
+--------------------------------------
+
+HEAL PHARMA DISTRIBUIDORA LTDA / 36.811.030/0001-25
+
+25351.763786/2023-15 / 1302199
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0279911254
+
+--------------------------------------
+
+VAGNER DIAS VIANA LIMA / 35.748.153/0001-04
+
+25351.209134/2023-30 / 1290841
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1758646241
+
+--------------------------------------
+
+SÃO GABRIEL TRANSPORTES LTDA - ME / 15.488.297/0019-82
+
+25351.703436/2018-32 / 1182116
+
+TRANSPORTAR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0285264257
+
+--------------------------------------
+
+DIETHAFARMA DIST.DE PRODUTOS FARMACEUTICOS LTDA / 17.103.649/0001-30
+
+25351.456361/2024-33 / 1324084
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0197750257
+
+--------------------------------------
+
+ALL FORMULAS MAGISTRAL LTDA / 00.669.185/0002-02
+
+25351.189209/2015-49 / 1138898
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7024 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - RAZÃO SOCIAL / 0365323250
+
+--------------------------------------
+
+CISCARE MEDICAMENTOS LTDA / 55.816.404/0001-40
+
+25351.446888/2024-50 / 1322862
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0362271259
+
+--------------------------------------
+
+HELP SAUDE STORE LTDA / 43.732.484/0001-76
+
+25351.684989/2021-84 / 1265610
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0272221252
+
+--------------------------------------
+
+LLT DISTRIBUIÇÃO DE PRODUTOS MÉDICOS LTDA / 45.295.469/0001-33
+
+25351.086788/2023-89 / 1288211
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0210893257
+
+--------------------------------------
+
+c3 distribuiçao e logistica ltda / 53.042.199/0001-87
+
+25351.091465/2024-98 / 1308538
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0285474251

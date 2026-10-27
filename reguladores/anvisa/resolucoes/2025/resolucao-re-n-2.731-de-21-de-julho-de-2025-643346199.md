@@ -1,0 +1,162 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.731, DE 21 DE JULHO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2731"
+data: 2025-07-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/07/2025, seção 1, p. 150"
+data_publicacao: 2025-07-22
+edicao: "136"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.731-de-21-de-julho-de-2025-643346199"
+baixado_em: 2026-10-16
+sha256_html_fonte: 3e0b69c16296cba59dca849e7295f486ba803bf3a0f53f3d25c8431fea333874
+---
+# RESOLUÇÃO-RE nº 2.731, DE 21 DE JULHO DE 2025
+
+RESOLUÇÃO-RE nº 2.731, DE 21 DE JULHO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+DMT MEDICAL LTDA / 49.483.194/0001-12
+
+25351.535735/2023-03 / 1297714
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0935063251
+
+--------------------------------------
+
+JR MEDICAMENTOS E DROGARIA LTDA / 29.080.817/0001-07
+
+25351.343606/2018-15 / 1178049
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7027 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - ENDEREÇO / 0808718258
+
+--------------------------------------
+
+FOMAXX DISTRIBUIDORA DE PRODUTOS MEDICOS LTDA / 56.135.796/0001-44
+
+25351.024873/2025-15 / 1328821
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0822743256
+
+--------------------------------------
+
+DISTRIFARMA L L DA SILVA LTDA / 02.859.542/0001-40
+
+25351.007619/2016-19 / 1153984
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0822685256
+
+--------------------------------------
+
+COMERCIAL CIRURGICA RIOCLARENSE LTDA / 67.729.178/0004-91
+
+25351.478975/2009-32 / 1223752
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0824834259
+
+--------------------------------------
+
+JR&P LOGISTICA LTDA / 43.363.967/0001-40
+
+25351.073971/2022-33 / 1270883
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0814064256
+
+--------------------------------------
+
+FREEDOM FARMA DISTRIBUIDORA DE MEDICAMENTOS LTDA / 18.117.137/0001-96
+
+25351.567185/2013-45 / 1235243
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0933752253
+
+--------------------------------------
+
+multi express ltda / 18.963.112/0004-56
+
+25351.921859/2024-81 / 1305926
+
+ARMAZENAR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0814058256
+
+--------------------------------------
+
+MEDILAR IMPORTACAO E DISTRIBUICAO DE PRODUTOS MEDICO HOSPITALARES S/A / 07.752.236/0008-08
+
+25351.169443/2022-89 / 1277435
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0823298256
+
+--------------------------------------
+
+PHARMAQUÍMICA MOURA VIEIRA LTDA / 01.421.927/0001-68
+
+25351.389012/2016-99 / 1159712
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7024 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - RAZÃO SOCIAL / 0807272256

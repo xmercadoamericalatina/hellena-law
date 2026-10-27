@@ -1,0 +1,239 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.680, DE 17 DE SETEMBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "3680"
+data: 2026-09-17
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 21/09/2026, seção 1, p. 175"
+data_publicacao: 2026-09-21
+edicao: "178"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.680-de-17-de-setembro-de-2026-732936832"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 3.680, DE 17 DE SETEMBRO DE 2026
+
+RESOLUÇÃO-RE Nº 3.680, DE 17 DE SETEMBRO DE 2026
+
+A GERENTE-GERAL DE TOXICOLOGIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 114, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Aprovar a avaliação toxicológica preliminar para fins de Registro Especial Temporário (RET).
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+CÁSSIA DE FÁTIMA RANGEL FERNANDES
+
+## ANEXO
+
+EMPRESA - CNPJ
+
+PROCESSO
+
+FASE DO EXPERIMENTO
+
+-----------------------------
+
+ADAMA BRASIL S/A - 02.290.510/0001-76
+
+25351.097741/2026-93
+
+FASE II
+
+-----------------------------
+
+AGRIVALLE BRASIL INDUSTRIA E COMERCIO DE PRODUTOS AGRICOLAS SA - 05.470.581/0002-20
+
+25351.123924/2026-71
+
+## ANEXO III — -----------------------------
+
+BAYER S.A. - 18.459.628/0001-15
+
+25351.120085/2026-30
+
+FASE II
+
+25351.126185/2026-70
+
+FASE III
+
+-----------------------------
+
+BIORISK ASSESSORIA E COMÉRCIO DE PRODUTOS AGRICOLAS LTDA - 08.911.564/0001-98
+
+25351.104266/2026-19
+
+FASE I
+
+25351.104269/2026-52
+
+FASE I
+
+-----------------------------
+
+CTVA PROTEÇÃO DE CULTIVOS LTDA. - 47.180.625/0001-46
+
+25351.119341/2026-46
+
+FASE III
+
+25351.119410/2026-11
+
+FASE III
+
+-----------------------------
+
+GOWAN PRODUTOS AGRICOLAS LTDA. - 67.148.692/0001-90
+
+25351.047493/2026-30
+
+FASE III
+
+25351.052085/2026-08
+
+FASE III
+
+-----------------------------
+
+HELM DO BRASIL MERCANTIL LTDA - 47.176.755/0001-05
+
+25351.120286/2026-37
+
+## ANEXO III — -----------------------------
+
+IHARABRAS S.A. INDÚSTRIAS QUÍMICAS - 61.142.550/0001-30
+
+25351.126490/2026-61
+
+FASE II
+
+-----------------------------
+
+ISK BIOSCIENCES DO BRASIL DEFENSIVOS AGRÍCOLAS LTDA - 02.657.037/0001-12
+
+25351.122084/2026-20
+
+FASE II
+
+25351.122087/2026-63
+
+FASE II
+
+-----------------------------
+
+NISSAN CHEMICAL DO BRASIL REPRESENTAÇÃO DE PRODUTOS AGROQUIMA - 24.941.383/0001-60
+
+25351.130943/2026-54
+
+FASE I
+
+-----------------------------
+
+NISSO BRASILEIRA REPRESENTAÇÃO LTDA - 03.633.052/0001-93
+
+25351.128570/2026-51
+
+FASE I
+
+25351.102866/2026-42
+
+FASE III
+
+-----------------------------
+
+PROPHYTO COMERCIO E SERVICOS LTDA. - 07.118.820/0001-21
+
+25351.117110/2026-06
+
+## ANEXO III — -----------------------------
+
+RAINBOW DEFENSIVOS AGRÍCOLAS LTDA - 10.486.463/0001-69
+
+25351.128531/2026-54
+
+FASE II
+
+25351.128544/2026-23
+
+FASE II
+
+25351.128678/2026-44
+
+FASE II
+
+-----------------------------
+
+STOLLER DO BRASIL LTDA. - 54.995.261/0001-18
+
+25351.121755/2026-35
+
+## ANEXO III — -----------------------------
+
+SUMITOMO CHEMICAL BRASIL INDUSTRIA QUIMICA S.A - 07.467.822/0001-26
+
+25351.132924/2026-62
+
+FASE II
+
+25351.132923/2026-18
+
+FASE II
+
+25351.132930/2026-10
+
+FASE II
+
+25351.120860/2026-57
+
+FASE II
+
+25351.125533/2026-91
+
+FASE II
+
+25351.132922/2026-73
+
+FASE II
+
+-----------------------------
+
+SYNGENTA PROTEÇÃO DE CULTIVOS LTDA - 60.744.463/0001-90
+
+25351.116713/2026-82
+
+FASE II
+
+25351.106544/2026-72
+
+FASE II
+
+25351.116659/2026-75
+
+FASE II
+
+25351.116688/2026-37
+
+FASE II
+
+25351.117417/2026-07
+
+FASE II
+
+25351.123728/2026-05
+
+FASE III
+
+-----------------------------
+
+TOTAL BIOTECNOLOGIA INDUSTRIA E COMERCIO LTDA - 07.483.401/0001-99
+
+25351.111938/2026-42
+
+## ANEXO III — -----------------------------
+
+VITTIA S.A. - 45.365.558/0001-09
+
+25351.116422/2026-94
+
+## ANEXO III

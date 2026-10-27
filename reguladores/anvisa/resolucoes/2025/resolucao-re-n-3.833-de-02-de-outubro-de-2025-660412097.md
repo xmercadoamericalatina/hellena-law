@@ -1,0 +1,368 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.833, DE 02 de OUTUBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "3833"
+data: 2025-10-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/10/2025, seção 1, p. 208"
+data_publicacao: 2025-10-06
+edicao: "190"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.833-de-02-de-outubro-de-2025-660412097"
+baixado_em: 2026-10-16
+sha256_html_fonte: d468c26ed9a430d5206388785b6ba18fbdf17e17cf3c5da9a9f63aa83e2e4851
+---
+# RESOLUÇÃO-RE Nº 3.833, DE 02 de OUTUBRO DE 2025
+
+RESOLUÇÃO-RE Nº 3.833, DE 02 de OUTUBRO DE 2025
+
+A GERENTE-GERAL DE ALIMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 96, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Deferir as petições relacionadas à Gerência-Geral de Alimentos, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRÍCIA FERNANDES NANTES DE CASTILHO
+
+## ANEXO
+
+Número da Listagem: 608525
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO
+
+MARCA
+
+NUMERO DO PROCESSO / VENCIMENTO DO REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+DESCRIÇÃO DA APRESENTAÇÃO
+
+REGISTRO
+
+PRAZO DE VALIDADE DA APRESENTAÇÃO
+
+EMBALAGEM PRIMÁRIA
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+DANONE LTDA. / 23.643.315/0115-10
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA CRIANÇAS DE PRIMEIRA INFÂNCIA
+
+25351.441007/2013-88 / 05/2030
+
+4169 - Alteração de fórmula / 1114040/25-8
+
+ALEMANHA
+
+6657701250016
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+ARGENTINA (ER)
+
+6657701250024
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+ARGENTINA (BA)
+
+6657701250032
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+FRANÇA
+
+6657701250040
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+HOLANDA
+
+6657701250059
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+INDONESIA
+
+6657701250067
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+IRLANDA (MA)
+
+6657701250075
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+IRLANDA (WE)
+
+6657701250083
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+MALASIA
+
+6657701250091
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+NOVA ZELANDIA
+
+6657701250105
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+POLONIA
+
+6657701250113
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+POÇOS DE CALDAS/MG
+
+6657701250121
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FARMOQUÍMICA S/A / 33.349.473/0001-58
+
+MÓDULO DE L-GLUTAMINA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.210636/2020-61 / 11/2030
+
+4098 - Revalidação de registro de módulos para nutrição enteral / 0977503/25-9
+
+\*\*\*
+
+6723900170014
+
+24 Meses
+
+CELULOSICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.524688/2020-11 / 07/2026
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0887947/25-5
+
+APRESENTAÇÃO 1
+
+6596501440010
+
+12 Meses
+
+METALICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.524688/2020-11 / 07/2026
+
+4124 - Cancelamento de Registro de Apresentação / 1307703/25-1
+
+SÃO JOSÉ DO RIO PARDO/SP
+
+6596501440029
+
+12 Meses
+
+METALICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.419134/2009-16 / 08/2026
+
+4124 - Cancelamento de Registro de Apresentação / 1304724/25-8
+
+SÃO JOSÉ DO RIO PARDO/SP
+
+4007618850030
+
+12 Meses
+
+CELULOSICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.419134/2009-16 / 08/2026
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0872917/25-8
+
+APRESENTAÇÃO 1
+
+4007618850014
+
+12 Meses
+
+CELULOSICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.612175/2022-29 / 07/2028
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0873324/25-1
+
+APRESENTAÇÃO 1
+
+6596501780016
+
+12 Meses
+
+CELULOSICA / METALICA / PLASTICA
+
+APRESENTAÇÃO 2
+
+6596501780024
+
+12 Meses
+
+CELULOSICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.612175/2022-29 / 07/2028
+
+4124 - Cancelamento de Registro de Apresentação / 1304782/25-5
+
+SABOR BAUNILHA - ARARAS/SP
+
+6596501780032
+
+12 Meses
+
+CELULOSICA / METALICA / PLASTICA
+
+CAFÉ COM LEITE - ARARAS/SP
+
+6596501780040
+
+12 Meses
+
+CELULOSICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.330025/2009-54 / 12/2029
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0887965/25-3
+
+APRESENTAÇÃO 1
+
+4007618960022
+
+12 Meses
+
+CELULOSICA / METALICA / PLASTICO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.330025/2009-54 / 12/2029
+
+4124 - Cancelamento de Registro de Apresentação / 1307737/25-6
+
+SÃO JOSÉ DO RIO PARDO/SP
+
+4007618960014
+
+12 Meses
+
+CELULOSICA / METALICA / PLASTICO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.640264/2022-65 / 09/2028
+
+4124 - Cancelamento de Registro de Apresentação / 1304576/25-8
+
+ARARAS/SP
+
+6596501880029
+
+12 Meses
+
+CELULOSICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.640264/2022-65 / 09/2028
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0872916/25-1
+
+APRESENTAÇÃO 1
+
+6596501880010
+
+12 Meses
+
+CELULOSICA / METALICA / PLASTICA

@@ -1,0 +1,142 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.913, DE 3 DE OUTUBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3913"
+data: 2025-10-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/10/2025, seção 1, p. 236"
+data_publicacao: 2025-10-06
+edicao: "190"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.913-de-3-de-outubro-de-2025-660425813"
+baixado_em: 2026-10-16
+sha256_html_fonte: db9abd29ade7c346b2af0966a34703e8e8c5d9162578ed52aa5b29e9aaefe08d
+---
+# RESOLUÇÃO-RE nº 3.913, DE 3 DE OUTUBRO DE 2025
+
+RESOLUÇÃO-RE nº 3.913, DE 3 DE OUTUBRO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+ATENA FARMACIA DE MANIPULACAO LTDA / 46.895.120/0001-03
+
+25351.178500/2023-00 / 1289601
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7027 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - ENDEREÇO / 1214353258
+
+--------------------------------------
+
+ATIVA DISTRIBUICAO E LOGISTICA LTDA / 01.125.797/0036-46
+
+25351.140604/2025-03 / 1413001
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1171234252
+
+--------------------------------------
+
+UNIKA DISTRIBUIDORA DE MEDICAMENTOS LTDA / 35.253.360/0001-80
+
+25351.071171/2025-21 / 1407634
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1198626259
+
+--------------------------------------
+
+VADAIT PHARMA IMPORTACAO E DISTRIBUICAO DE MEDICAMENTOS LTDA / 57.355.690/0001-19
+
+25351.128673/2025-31 / 1411595
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+IMPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1190824256
+
+--------------------------------------
+
+SATMED DISTRIBUIDORA LTDA / 46.898.611/0001-08
+
+25351.429155/2023-70 / 1295974
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 1320224253
+
+--------------------------------------
+
+LINDAURA ALVES DE CARVALHO / 03.060.101/0001-46
+
+25351.170877/2002-88 / 1358271
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 1190781255
+
+--------------------------------------
+
+HAS QUIMICA LTDA / 48.228.023/0001-84
+
+25351.097225/2025-88 / 1410052
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS
+
+EXPEDIR: INSUMOS FARMACÊUTICOS
+
+IMPORTAR: INSUMOS FARMACÊUTICOS
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1198404256
+
+--------------------------------------
+
+NOVAMED MACAE LTDA / 32.284.992/0001-12
+
+25351.288628/2022-91 / 1278751
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+EXPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1191656250

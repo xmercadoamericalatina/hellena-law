@@ -1,0 +1,105 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.264, DE 30 DE MARÇO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1264"
+data: 2026-03-30
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 31/03/2026, seção 1, p. 280"
+data_publicacao: 2026-03-31
+edicao: "61"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.264-de-30-de-marco-de-2026-696674695"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 1.264, DE 30 DE MARÇO DE 2026
+
+RESOLUÇÃO-RE Nº 1.264, DE 30 DE MARÇO DE 2026
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n° 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+TRANSPORTADORA MACHADO LTDA - ME / 22.219.246/0001-91
+
+25351.054477/2026-01 / 1427871
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0295799269
+
+--------------------------------------
+
+LEVEL LOG TRANSPORTES LTDA / 61.369.387/0001-42
+
+25351.053686/2026-20 / 1427745
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0291543260
+
+--------------------------------------
+
+FARMA UP LTDA / 02.183.791/0001-68
+
+25351.050242/2026-32 / 1427287
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0275923266
+
+--------------------------------------
+
+ASV SOLUCOES EM TRANSPORTE E LOGISTICA LTDA / 30.464.674/0001-08
+
+25351.054252/2026-47 / 1427836
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0294708260
+
+--------------------------------------
+
+HOF ME LTDA / 47.712.405/0001-16
+
+25351.054049/2026-71 / 1427780
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0293824266
+
+--------------------------------------
+
+PVAX CONSULTORIA E LOGISTICA LTDA. / 12.117.414/0013-18
+
+25351.054054/2026-83 / 1427793
+
+ARMAZENAR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+761 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - ARMAZENADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0293831262
+
+--------------------------------------
+
+ER REPRESENTACAO E DISTRIBUICAO FARMACEUTICA LTDA / 52.969.559/0001-28
+
+25351.046846/2026-84 / 1426949
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0258662263

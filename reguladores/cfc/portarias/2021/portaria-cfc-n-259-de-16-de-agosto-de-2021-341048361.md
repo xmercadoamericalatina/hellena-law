@@ -1,0 +1,184 @@
+---
+titulo: "PORTARIA CFC Nº 259, DE 16 DE AGOSTO DE 2021"
+orgao: "Entidades de Fiscalização do Exercício das Profissões Liberais/Conselho Federal de Contabilidade"
+tipo: "Portaria"
+numero: "259"
+data: 2021-08-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/08/2021, seção 1, p. 135"
+data_publicacao: 2021-08-27
+edicao: "163"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-cfc-n-259-de-16-de-agosto-de-2021-341048361"
+sha256_html_fonte: f8f301268344a608138aaa61293639887ec6fda634a66fbd5b74b821337ab750
+baixado_em: 2026-10-21
+---
+# PORTARIA CFC Nº 259, DE 16 DE AGOSTO DE 2021
+
+PORTARIA CFC Nº 259, DE 16 DE AGOSTO DE 2021
+
+Dispõe sobre o Crédito Adicional Suplementar de dotações orçamentárias ao orçamento analítico do Conselho Federal de Contabilidade (CFC) para o exercício de 2021.
+
+O PRESIDENTE DO CONSELHO FEDERAL DE CONTABILIDADE, no uso de suas atribuições legais e regimentais,
+
+Considerando a competência do Conselho Federal de Contabilidade (CFC) em aprovar o seu Plano de Trabalho, Orçamento e Respectivas Modificações e as operações de crédito e baixa de bens móveis previstas no inciso XX do Art.17 da Resolução CFC n.º 1.370/2011 e no inciso VI do Art. 12 da Resolução CFC n.º 1.458/2013;
+
+Considerando o que preceitua a Resolução CFC n.º 1.161/2009, que aprovou o Manual de Contabilidade do Sistema CFC/CRCs, de 13 de fevereiro de 2009, e a Lei n.º 4.320/1964;
+
+Considerando a Resolução CFC n.º 1.609/2020, que aprovou o orçamento do CFC para o exercício de 2021;
+
+Considerando a necessidade de suplementar a despesa estimada anteriormente, para corrigir a falha de previsão no planejamento para o exercício de 2021; resolve:
+
+**Art. 1º** Aprova o Crédito Adicional Suplementar no orçamento do CFC para o exercício financeiro de 2021, no valor de R$ 3.565.250,00 (três milhões quinhentos e sessenta e cinco mil duzentos e cinquenta reais) para as seguintes rubricas:
+
+SUPLEMENTAÇÃO
+
+CONTA DESCRIÇÃO VALOR
+
+6.3 EXECUÇÃO DA DESPESA 3.565.250,00
+
+6.3.1 DESPESAS CORRENTES 2.895.250,00
+
+6.3.1.1.01.01 REMUNERAÇÃO PESSOAL 80.000,00
+
+6.3.1.1.01.01.007 HORAS EXTRAS 20.000,00
+
+6.3.1.1.01.01.008 SUBSTITUIÇÕES 60.000,00
+
+6.3.1.3 USO DE BENS E SERVIÇOS 2.415.250,00
+
+6.3.1.3.01 MATERIAL DE CONSUMO 5.000,00
+
+6.3.1.3.01.01 MATERIAL DE CONSUMO 5.000,00
+
+6.3.1.3.01.01.017 BENS MÓVEIS NÃO ATIVAVEIS 5.000,00
+
+6.3.1.3.02.01 SERVIÇOS 2.385.250,00
+
+6.3.1.3.02.01.002 SERVIÇO DE ASSESSORIA E CONSULTORIA 267.000,00
+
+6.3.1.3.02.01.003 SERVIÇOS ADVOCATÍCIOS 360.000,00
+
+6.3.1.3.02.01.005 SERVIÇOS DE INFORMÁTICA 1.117.000,00
+
+6.3.1.3.02.01.022 DEMAIS SERVIÇOS PROFISSIONAIS 211.250,00
+
+6.3.1.3.02.01.030 MANUTENÇÃO E CONSERV. DOS BENS IMÓVEIS 430.000,00
+
+6.3.1.3.02.03 DIÁRIAS 10.000,00
+
+6.3.1.3.02.03.002 CONSELHEIROS - DIÁRIAS 10.000,00
+
+6.3.1.3.02.04 PASSAGENS 15.000,00
+
+6.3.1.3.02.04.002 CONSELHEIROS - PASSAGENS 15.000,00
+
+6.3.1.5 TRANSFERÊNCIAS CORRENTES 400.000,00
+
+6.3.1.5.01.01 SUBVENÇÕES 400.000,00
+
+6.3.1.5.01.01.001 SUBVENÇÕES 400.000,00
+
+6.3.2 DESPESAS DE CAPITAL 670.000,00
+
+6.3.2.1.03.01 EQUIPAMENTOS E MATERIAIS PERMANENTES 370.000,00
+
+6.3.2.1.03.01.001 MÓVEIS E UTENSÍLIOS DE ESCRITÓRIOS 370.000,00
+
+6.3.2.4.01.01 TRANSFERÊNCIAS DE CAPITAL 300.000,00
+
+6.3.2.4.01.01.001 AUXÍLIOS 300.000,00
+
+TOTAL DAS SUPLEMENTAÇÕES 3.565.250,00
+
+**Art. 2º** O valor a ser utilizado será coberto com recursos provenientes da anulação das seguintes dotações:
+
+ANULAÇÃO
+
+CONTA DESCRIÇÃO VALOR
+
+6.3 EXECUÇÃO DA DESPESA 3.565.250,00
+
+6.3.1 DESPESAS CORRENTES 2.161.600,00
+
+6.3.1.1.01.01 REMUNERAÇÃO PESSOAL 80.000,00
+
+6.3.1.1.01.01.001 SALÁRIOS 80.000,00
+
+6.3.1.3 USO DE BENS E SERVIÇOS 902.100,00
+
+6.3.1.3.01.01 MATERIAL DE CONSUMO 30.000,00
+
+6.3.1.3.01.01.007 MATERIAL PARA DIVULGAÇÃO 5.000,00
+
+6.3.1.3.01.01.012 MATERIAIS PARA MANUT. DE BENS IMÓVEIS 7.000,00
+
+6.3.1.3.01.01.018 MATERIAIS DE DISTRIBUIÇÃO GRATUITA 3.000,00
+
+6.3.1.3.01.01.019 PRÊMIOS, DIPLOMAS E MEDALHAS 15.000,00
+
+6.3.1.3.02.01 SERVIÇOS 726.850,00
+
+6.3.1.3.02.01.005 SERVIÇOS DE TECNO DA INFORMAÇÃO 200.000,00
+
+6.3.1.3.02.01.006 SERVIÇOS DE TRANSPORTE 8.500,00
+
+6.3.1.3.02.01.007 SERVIÇOS DE COPA E COZINHA 13.000,00
+
+6.3.1.3.02.01.008 SERV.DE LIMPEZ, CONSERV. E JARDINAGEM 250.000,00
+
+6.3.1.3.02.01.016 SERVIÇOS DE TRADUÇÃO 1.750,00
+
+6.3.1.3.02.01.017 SERVIÇOS FOTOGRÁFICOS E VÍDEOS 5.000,00
+
+6.3.1.3.02.01.020 SERVIÇOS DE REPRESENTAÇÕES 185.600,00
+
+6.3.1.3.02.01.022 DEMAIS SERVIÇOS PROFISSIONAIS 6.000,00
+
+6.3.1.3.02.01.026 LOC. DE BENS MÓVEIS, MÁQUINAS E EQUIP. 12.000,00
+
+6.3.1.3.02.01.027 LOCAÇÃO DE BENS IMÓVEIS 10.000,00
+
+6.3.1.3.02.01.044 IMPRESSOS GRÁFICOS 35.000,00
+
+6.3.1.3.02.03 DIÁRIAS 48.250,00
+
+6.3.1.3.02.03.001 FUNCIONÁRIOS - DIÁRIAS 17.125,00
+
+6.3.1.3.02.03.003 COLABORADORES - DIÁRIAS 31.125,00
+
+6.3.1.3.02.04 PASSAGENS 97.000,00
+
+6.3.1.3.02.04.001 FUNCIONÁRIOS - PASSAGENS 20.800,00
+
+6.3.1.3.02.04.003 COLABORADORES - PASSAGENS 76.200,00
+
+6.3.1.5 TRANSFERÊNCIAS CORRENTES 1.125.000,00
+
+6.3.1.5.01.01.001 SUBVENÇÕES 1.125.000,00
+
+6.3.1.6 TRIBUTÁRIAS E CONTRIBUTIVAS 54.500,00
+
+6.3.1.6.01.01.002 IMPOSTOS E TAXAS 54.500,00
+
+6.3.2 DESPESAS DE CAPITAL 1.403.650,00
+
+6.3.2.1.03.01 EQUIPAMENTOS E MAT. PERMANENTES 50.000,00
+
+6.3.2.1.03.01.002 MÁQUINAS E EQUIPAMENTOS 50.000,00
+
+6.3.2.2 EMPRÉSTIMOS CONCEDIDOS 119.347,24
+
+6.3.2.2.01.01.002 EMPRÉST. P/ AQUIS, CONSTR. E REF. SEDE 119.347,24
+
+6.3.2.4 TRANSFERÊNCIAS DE CAPITAL 1.234.302,76
+
+6.3.2.4.01.01.001 AUXÍLIOS 1.234.302,76
+
+TOTAL DAS ANULAÇÕES 3.565.250,00
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua assinatura.
+
+Zulmir Ivânio Breda
+
+Presidente do Conselho

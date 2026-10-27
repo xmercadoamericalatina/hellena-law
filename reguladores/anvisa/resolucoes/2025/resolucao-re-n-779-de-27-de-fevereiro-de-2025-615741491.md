@@ -1,0 +1,115 @@
+---
+titulo: "RESOLUÇÃO-RE nº 779, DE 27 DE FEVEREIRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "779"
+data: 2025-02-27
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 05/03/2025, seção 1, p. 66"
+data_publicacao: 2025-03-05
+edicao: "43"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-779-de-27-de-fevereiro-de-2025-615741491"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 779, DE 27 DE FEVEREIRO DE 2025
+
+RESOLUÇÃO-RE nº 779, DE 27 DE FEVEREIRO DE 2025
+
+A GERENTE-GERAL SUBSTITUTA DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Indeferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+KELLEN CHRISTINA DE FREITAS GISSONI
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+----------------------------
+
+EUROFARMA LABORATÓRIOS S.A. 61190096000192
+
+LEVODROPROPIZINA
+
+PERCOF 25000.002690/98-11 08/2028
+
+11108 RDC 73/2016 - SIMILAR - AMPLIAÇÃO DO PRAZO DE VALIDADE DO MEDICAMENTO 0164365/19-7
+
+1.0043.0645.001-1 24 Meses
+
+6 MG/ML XPE CT FR VD AMB X 120 ML
+
+1.0043.0645.003-6 24 Meses
+
+6 MG/ML XPE CT FR VD AMB X 120 ML + COP
+
+1.0043.0645.004-4 24 Meses
+
+6 MG/ML XPE CT FR PLAS PET AMB X 120 ML + COP
+
+1.0043.0645.005-2 24 Meses
+
+6 MG/ML XPE CT FR VD AMB X 60 ML + COP
+
+1.0043.0645.006-0 24 Meses
+
+6 MG/ML XPE CT FR PLAS PET AMB X 60 ML + COP
+
+----------------------------
+
+EUROFARMA LABORATÓRIOS S.A. 61190096000192
+
+brometo de rocurônio 25351.408943/2007-11 08/2028
+
+11106 RDC 73/2016 - GENÉRICO - AMPLIAÇÃO DO PRAZO DE VALIDADE DO MEDICAMENTO 1664598/24-7
+
+1.0043.1010.001-1 24 Meses
+
+10 MG/ML SOL INJ IV CT 6 FA VD TRANS X 2,5 ML
+
+1.0043.1010.002-8 24 Meses
+
+10 MG/ML SOL INJ IV CT 12 FA VD TRANS X 2,5 ML
+
+1.0043.1010.003-6 24 Meses
+
+10 MG/ML SOL INJ IV CT 6 FA VD TRANS X 5 ML
+
+1.0043.1010.004-4 24 Meses
+
+10 MG/ML SOL INJ IV CT 12 FA VD TRANS X 5 ML
+
+1.0043.1010.005-2 24 Meses
+
+10 MG/ML SOL INJ IV CT 6 AMP VD TRANS X 2,5 ML
+
+1.0043.1010.006-0 24 Meses
+
+10 MG/ML SOL INJ IV CT 12 AMP VD TRANS X 2,5 ML
+
+1.0043.1010.007-9 24 Meses
+
+10 MG/ML SOL INJ IV CT 6 AMP VD TRANS X 5 ML
+
+1.0043.1010.008-7 24 Meses
+
+10 MG/ML SOL INJ IV CT 12 AMP VD TRANS X 5 ML
+
+1.0043.1010.009-5 24 Meses
+
+10 MG/ML SOL INJ IV CT 50 AMP VD TRANS X 5 ML

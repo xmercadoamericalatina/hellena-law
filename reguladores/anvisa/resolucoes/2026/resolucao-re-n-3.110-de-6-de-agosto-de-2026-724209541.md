@@ -1,0 +1,155 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.110, DE 6 DE AGOSTO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3110"
+data: 2026-08-06
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 10/08/2026, seção 1, p. 97"
+data_publicacao: 2026-08-10
+edicao: "149"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.110-de-6-de-agosto-de-2026-724209541"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 3.110, DE 6 DE AGOSTO DE 2026
+
+RESOLUÇÃO-RE Nº 3.110, DE 6 DE AGOSTO DE 2026
+
+A GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021;
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Renovar a Certificação de Boas Práticas de Fabricação de Medicamentos das empresas constantes no ANEXO.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RENATA DE LIMA SOARES
+
+## ANEXO
+
+EMPRESA FABRICANTE: JUBILANT HOLLISTERSTIER LLC
+
+ENDEREÇO: 3525 NORTH REGAL STREET, SPOKANE, WASHINGTON 99207 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000302
+
+EMPRESA SOLICITANTE: MERCK SHARP & DOHME FARMACEUTICA LTDA. - CNPJ: 03.560.974/0001-18
+
+AUTORIZ/MS: 1001711 - EXPEDIENTE(s): 1522953/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Data de Vencimento: 12/08/2028
+
+.........................................
+
+EMPRESA FABRICANTE: HETERO LABS LIMITED, UNIT V
+
+ENDEREÇO: SY NO. 439, 440, 441, & 458, TSIIC FORMULATION SEZ, POLEPALLY VILLAGE, JADCHERLA MANDAL, MAHABOOBNAGAR-DISTRICT, TELANGANA, INDIA. - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001274
+
+EMPRESA SOLICITANTE: Camber Farmaceutica Ltda - CNPJ: 24.633.934/0001-29
+
+AUTORIZ/MS: 1165077 - EXPEDIENTE(s): 1596755/25-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos; Cápsulas
+
+Data de Vencimento: 12/08/2028
+
+.........................................
+
+EMPRESA FABRICANTE: PROCTER & GAMBLE MANUFACTURING MÉXICO, S. DE R.L. DE C.V.
+
+ENDEREÇO: SAN ANDRES ATOTO Nº 326, COLONIA SAN FRANCISCO CUAUTLALPAN, NAUCALPAN DE JUÁREZ, C.P. 53560 - PAÍS: MÉXICO - CÓDIGO ÚNICO: A.000510
+
+EMPRESA SOLICITANTE: PROCTER & GAMBLE DO BRASIL LTDA. - CNPJ: 59.476.770/0001-58
+
+AUTORIZ/MS: 1021422 - EXPEDIENTE(s): 1629005/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+Data de Vencimento: 12/08/2028
+
+.........................................
+
+EMPRESA FABRICANTE: PROCTER & GAMBLE MANUFACTURING MÉXICO, S. DE R.L. DE C.V.
+
+ENDEREÇO: SAN ANDRES ATOTO Nº 326, COLONIA SAN FRANCISCO CUAUTLALPAN, NAUCALPAN DE JUÁREZ, C.P. 53560 - PAÍS: MÉXICO - CÓDIGO ÚNICO: A.000510
+
+EMPRESA SOLICITANTE: PROCTER & GAMBLE DO BRASIL LTDA. - CNPJ: 59.476.770/0001-58
+
+AUTORIZ/MS: 1021422 - EXPEDIENTE(s): 1629004/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Xaropes
+
+Data de Vencimento: 12/08/2028
+
+.........................................
+
+EMPRESA FABRICANTE: PROCTER & GAMBLE MANUFACTURING MÉXICO, S. DE R.L. DE C.V.
+
+ENDEREÇO: SAN ANDRES ATOTO Nº 326, COLONIA SAN FRANCISCO CUAUTLALPAN, NAUCALPAN DE JUÁREZ, C.P. 53560 - PAÍS: MÉXICO - CÓDIGO ÚNICO: A.000510
+
+EMPRESA SOLICITANTE: PROCTER & GAMBLE DO BRASIL LTDA. - CNPJ: 59.476.770/0001-58
+
+AUTORIZ/MS: 1021422 - EXPEDIENTE(s): 1629097/25-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Pomadas
+
+Data de Vencimento: 12/08/2028
+
+.........................................
+
+EMPRESA FABRICANTE: APOTEX INC.
+
+ENDEREÇO: 50 STEINWAY BOULEVARD, ETOBICOKE, ONTARIO, M9W 2Y6 - PAÍS: CANADÁ - CÓDIGO ÚNICO: A.000990
+
+EMPRESA SOLICITANTE: CHIESI FARMACÊUTICA LTDA - CNPJ: 61.363.032/0001-46
+
+AUTORIZ/MS: 1000580 - EXPEDIENTE(s): 0015305/26-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+Data de Vencimento: 12/08/2028
+
+.........................................
+
+EMPRESA FABRICANTE: GUERBET
+
+ENDEREÇO: 16-24 RUE JEAN CHAPTAL, 93600 AULNAY-SOUS-BOIS - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000293
+
+EMPRESA SOLICITANTE: GUERBET IMAGEM DO BRASIL LTDA - CNPJ: 30.153.811/0001-93
+
+AUTORIZ/MS: 1013981 - EXPEDIENTE(s): 1631887/25-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Grande Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Data de Vencimento: 12/08/2028
+
+.........................................
+
+EMPRESA FABRICANTE: IDT BIOLOGIKA GMBH
+
+ENDEREÇO: AM PHARMAPARK 06861 DESSAU-ROSSLAU - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.001059
+
+EMPRESA SOLICITANTE: ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A - CNPJ: 60.659.463/0029-92
+
+AUTORIZ/MS: 1005739 - EXPEDIENTE(s): 0100744/26-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+Data de Vencimento: 12/08/2028
+
+.........................................
+
+EMPRESA FABRICANTE: SIMTRA DEUTSCHLAND GMBH
+
+ENDEREÇO: KANTSTRASSE 2, 33790 HALLE/ WESTFALEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000080
+
+EMPRESA SOLICITANTE: MERCK SHARP & DOHME FARMACEUTICA LTDA. - CNPJ: 03.560.974/0001-18
+
+AUTORIZ/MS: 1001711 - EXPEDIENTE(s): 1563620/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+Data de Vencimento: 12/08/2028
+
+.........................................

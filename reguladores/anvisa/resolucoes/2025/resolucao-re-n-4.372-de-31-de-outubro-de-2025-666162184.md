@@ -1,0 +1,236 @@
+---
+titulo: "RESOLUÇÃO-RE nº 4.372, DE 31 DE OUTUBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "4372"
+data: 2025-10-31
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/11/2025, seção 1, p. 136"
+data_publicacao: 2025-11-03
+edicao: "209"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.372-de-31-de-outubro-de-2025-666162184"
+baixado_em: 2026-10-16
+sha256_html_fonte: 04f27b040ca713e127197371f60691a3dc8b07378f9b48ada3f992e4bf9b50cb
+---
+# RESOLUÇÃO-RE nº 4.372, DE 31 DE OUTUBRO DE 2025
+
+RESOLUÇÃO-RE nº 4.372, DE 31 DE OUTUBRO DE 2025
+
+O GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021,
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Renovar a Certificação de Boas Práticas de Fabricação de Medicamentos das empresas constantes no ANEXO.
+
+**Art. 2º** Esta Resolução entra em vigor na data de 20 de novembro de 2025.
+
+Marcus Aurélio Miranda de Araújo
+
+## ANEXO
+
+EMPRESA FABRICANTE: PATHEON MANUFACTURING SERVICES LLC
+
+ENDEREÇO: 5900 MARTIN LUTHER KING JR. HIGHWAY, GREENVILLE, NORTH CAROLINA 27834 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000201
+
+EMPRESA SOLICITANTE: AMGEN BIOTECNOLOGIA DO BRASIL LTDA. - CNPJ: 18.774.815/0001-93
+
+AUTORIZ/MS: 1102440 - EXPEDIENTE(s): 0702856/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de vencimento: 20/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: LG CHEM, LTD.
+
+ENDEREÇO: 151, OSONGSAENGMYEONG 1-RO, OSONG-EUP, HEUNGDEOK-GU, CHEONGJU-SI, CHUNGCHEONGBUK-DO - PAÍS: CORÉIA DO SUL - CÓDIGO ÚNICO: A.001257
+
+EMPRESA SOLICITANTE: INSTITUTO BUTANTAN - CNPJ: 61.821.344/0001-56
+
+AUTORIZ/MS: 1022340 - EXPEDIENTE(s): 0445389/25-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de vencimento: 20/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: PCI SAN DIEGO, INC.
+
+ENDEREÇO: 11040 ROSELLE STREET, SAN DIEGO, CALIFORNIA (CA) 92121 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001203
+
+EMPRESA SOLICITANTE: SPECIALTY PHARMA GOIAS LTDA - CNPJ: 31.731.807/0001-28
+
+AUTORIZ/MS: 1193611 - EXPEDIENTE(s): 0598543/25-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de vencimento: 20/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: SWISSCO SERVICES AG
+
+ENDEREÇO: BAHNHOFSTRASSE 14, 4334 SISSELN, SWITZERLAND - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.001072
+
+EMPRESA SOLICITANTE: UNITED MEDICAL LTDA - CNPJ: 68.949.239/0001-46
+
+AUTORIZ/MS: 1025762 - EXPEDIENTE(s): 0520640/25-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas
+
+Data de vencimento: 20/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: ATHENA DRUG DELIVERY SOLUTIONS PVT. LTD.
+
+ENDEREÇO: PLOT NO. A-1 TO A-5, MIDC, CHEMICAL ZONE, AMBERNATH (W), THANE 421501, MAHARASHTRA STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001229
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 0326473/25-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+Data de vencimento: 20/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: NOVO NORDISK A/S
+
+ENDEREÇO: KIRKE VAERLOSEVEJ 30, 3500, VAERLOSE - PAÍS: DINAMARCA - CÓDIGO ÚNICO: A.000445
+
+EMPRESA SOLICITANTE: NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA - CNPJ: 82.277.955/0001-55
+
+AUTORIZ/MS: 1017662 - EXPEDIENTE(s): 0544048/25-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+Data de vencimento: 20/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: ROTTAPHARM LTD.
+
+ENDEREÇO: DAMASTOWN INDUSTRIAL PARK, MULHUDDART, DUBLIN 15 - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.001211
+
+EMPRESA SOLICITANTE: VIATRIS FARMACEUTICA DO BRASIL LTDA - CNPJ: 11.643.096/0001-22
+
+AUTORIZ/MS: 1088307 - EXPEDIENTE(s): 0628192/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos; Pós; Pós Efervescentes
+
+Data de vencimento: 20/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT BELGIUM S.A.
+
+ENDEREÇO: FONT SAINT LANDRY 10, BRUXELAS, 1120 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000131
+
+EMPRESA SOLICITANTE: FUNDAÇÃO OSWALDO CRUZ - CNPJ: 33.781.055/0001-35
+
+AUTORIZ/MS: 1010633 - EXPEDIENTE(s): 1708503/24-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de vencimento: 20/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: CILAG AG
+
+ENDEREÇO: HOCHSTRASSE 201, 8200 SCHAFFHAUSEN - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.000157
+
+EMPRESA SOLICITANTE: FUNDAÇÃO OSWALDO CRUZ - CNPJ: 33.781.055/0001-35
+
+AUTORIZ/MS: 1010633 - EXPEDIENTE(s): 0221611/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de vencimento: 20/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: SANOFI-AVENTIS DEUTSCHLAND GMBH
+
+ENDEREÇO: BRÜNINGSTRAßE 50, INDUSTRIEPARK HOCHST, 65926 FRANKFURT AM MAIN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000560
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 0286099/25-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de vencimento: 20/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON ITALIA S.P.A.
+
+ENDEREÇO: 2º TRAV. SX VIA MOROLENSE, 5 - 03013 FERENTINO (FR) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000478
+
+EMPRESA SOLICITANTE: CHIESI FARMACÊUTICA LTDA - CNPJ: 61.363.032/0001-46
+
+AUTORIZ/MS: 1000580 - EXPEDIENTE(s): 0698009/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+Data de vencimento: 20/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: PRASFARMA, S.L.
+
+ENDEREÇO: CALLE SANT JOAN 11-15, 08560, MANLLEU, - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.000509
+
+EMPRESA SOLICITANTE: BAXTER HOSPITALAR LTDA - CNPJ: 49.351.786/0002-61
+
+AUTORIZ/MS: 1006839 - EXPEDIENTE(s): 0663353/25-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+Data de vencimento: 20/11/2027
+
+.........................................
+
+EMPRESA: CIFARMA CIENTÍFICA FARMACÊUTICA LTDA. - CNPJ: 17.562.075/0003-20 - AUTORIZ/MS:
+
+ENDEREÇO: aVENIDA DAS INDÚSTRIAS, 3651
+
+MUNICÍPIO: SANTA LUZIA - UF: MG - EXPEDIENTE: 0464561/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Efervescentes; Comprimidos Revestidos; Cápsulas; Granulados; Granulados Efervescentes; Pastilhas; Pós; Pós Efervescentes
+
+Data de vencimento: 20/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG.
+
+ENDEREÇO: MOOSWIESEN 2, 88214, RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000624
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 0582357/25-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+Data de vencimento: 20/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: BUSHU PHARMACEUTICALS LTD.
+
+ENDEREÇO: 1 TAKENO, KAWAGOE, SAITAMA 350-0801 - PAÍS: JAPÃO - CÓDIGO ÚNICO: A.001084
+
+EMPRESA SOLICITANTE: DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA - CNPJ: 60.874.187/0001-84
+
+AUTORIZ/MS: 1004548 - EXPEDIENTE(s): 0642157/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+Data de vencimento: 20/11/2027

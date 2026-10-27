@@ -1,0 +1,275 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.138, DE 29 DE AGOSTO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "3138"
+data: 2024-08-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/09/2024, seção 1, p. 157"
+data_publicacao: 2024-09-02
+edicao: "169"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.138-de-29-de-agosto-de-2024-581536750"
+sha256_html_fonte: f6e9b62431282a5d3922c95fe55422a553c17d20f50ce87326b23967dcbb5dfb
+baixado_em: 2026-10-16
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 3.138, DE 29 DE AGOSTO DE 2024
+
+<div class="texto-dou"><html>
+ <head></head>
+ <body>
+  <p class="identifica">RESOLUÇÃO-RE Nº 3.138, DE 29 DE AGOSTO DE 2024</p>
+  <p class="dou-paragraph" >O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:</p>
+  <p class="dou-paragraph" >Art. 1º Indeferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.</p>
+  <p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p>
+  <p class="assina">NÉLIO CÉZAR DE AQUINO</p>
+  <p class="anexo">ANEXO</p>
+  <p class="dou-paragraph" >NOME DA EMPRESA CNPJ</p>
+  <p class="dou-paragraph" >PRINCIPIO(S) ATIVO(S)</p>
+  <p class="dou-paragraph" >NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO</p>
+  <p class="dou-paragraph" >ASSUNTO DA PETIÇÃO EXPEDIENTE</p>
+  <p class="dou-paragraph" >NUMERO DE REGISTRO VALIDADE</p>
+  <p class="dou-paragraph" >APRESENTAÇÃO DO PRODUTO</p>
+  <p class="dou-paragraph" >PRINCIPIO(S) ATIVO(S)</p>
+  <p class="dou-paragraph" >----------------------------</p>
+  <p class="dou-paragraph" >BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A 05161069000110</p>
+  <p class="dou-paragraph" >DIMENIDRINATO + CLORIDRATO DE PIRIDOXINA</p>
+  <p class="dou-paragraph" >DRAMAVIT B6 25351.535300/2012-41 01/2028</p>
+  <p class="dou-paragraph" >11864 RDC 73/2016 - SIMILAR - MUDANÇAS NOS LIMITES DE ESPECIFICAÇÃO FORA DE LIMITES APROVADOS ANTERIORMENTE 1434516/23-1</p>
+  <p class="dou-paragraph" >1.5584.0397.004-1 36 Meses</p>
+  <p class="dou-paragraph" >25 MG/ML + 5 MG/ML SOL OR CT FR GOT PLAS PET AMB X 20 ML</p>
+  <p class="dou-paragraph" >----------------------------</p>
+  <p class="dou-paragraph" >EMS S/A 57507378000365</p>
+  <p class="dou-paragraph" >DROSPIRENONA + ETINILESTRADIOL</p>
+  <p class="dou-paragraph" >DROSPIRENONA+ETINILESTRADIOL 25351.565273/2010-91 09/2026</p>
+  <p class="dou-paragraph" >10992 RDC 73/2016 - GENÉRICO - MUDANÇA MAIOR DE EXCIPIENTE PARA FORMAS FARMACÊUTICAS SÓLIDAS 1484669/23-1</p>
+  <p class="dou-paragraph" >10998 RDC 73/2016 - GENÉRICO - MUDANÇA DE EXCIPIENTES RESPONSÁVEIS PELA COR E SABOR 1484690/23-0</p>
+  <p class="dou-paragraph" >11043 RDC 73/2016 - GENÉRICO - ALTERAÇÃO MAIOR DO PROCESSO DE PRODUÇÃO DO MEDICAMENTO 1484685/23-3</p>
+  <p class="dou-paragraph" >11055 RDC 73/2016 - GENÉRICO - SUBSTITUIÇÃO MAIOR DE EQUIPAMENTO 1484687/23-0</p>
+  <p class="dou-paragraph" >11862 RDC 73/2016 - GENÉRICO - MUDANÇAS NOS LIMITES DE ESPECIFICAÇÃO FORA DE LIMITES APROVADOS ANTERIORMENTE 1484695/23-1</p>
+  <p class="dou-paragraph" >11866 RDC 73/2016 - GENÉRICO - MUDANÇAS INTERMEDIÁRIAS DE MÉTODOS ANALÍTICOS 1484699/23-3</p>
+  <p class="dou-paragraph" >11869 RDC 73/2016 - GENÉRICO - MUDANÇAS MAIORES DE MÉTODOS ANALÍTICOS 1484706/23-0</p>
+  <p class="dou-paragraph" >1.0235.1045.001-0 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS PVDC OPC X 63</p>
+  <p class="dou-paragraph" >1.0235.1045.002-9 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS PVDC OPC X 21</p>
+  <p class="dou-paragraph" >1.0235.1045.003-7 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS PVDC OPC X 21 + 7</p>
+  <p class="dou-paragraph" >DROSPIRENONA + ETINILESTRADIOL</p>
+  <p class="dou-paragraph" >ELÔ 25351.702898/2014-17 05/2026</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101091/24-3</p>
+  <p class="dou-paragraph" >(10998 - GENÉRICO - Mudança de excipientes responsáveis pela cor e sabor - 1484690/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101093/24-0</p>
+  <p class="dou-paragraph" >(10992 - RDC 73/2016 - GENÉRICO - Mudança maior de excipiente para formas farmacêuticas sólidas - 1484669/23-1 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101114/24-6</p>
+  <p class="dou-paragraph" >(11866 GENÉRICO - Mudanças intermediárias de métodos analíticos - 1484699/23-3 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101116/24-2</p>
+  <p class="dou-paragraph" >(11869 GENÉRICO - Mudanças maiores de métodos analíticos - 1484706/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101120/24-1</p>
+  <p class="dou-paragraph" >(11055 GENÉRICO - Substituição maior de equipamento - 1484687/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101122/24-7</p>
+  <p class="dou-paragraph" >(11043 GENÉRICO - Alteração maior do processo de produção do medicamento - 1484685/23-3 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101146/24-4</p>
+  <p class="dou-paragraph" >(11862 GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente - 1484695/23-1 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >1.0235.1155.001-9 24 Meses</p>
+  <p class="dou-paragraph" >(3 + 0,03) MG COM REV CT BL AL PLAS PVDC OPC X 63</p>
+  <p class="dou-paragraph" >1.0235.1155.002-7 24 Meses</p>
+  <p class="dou-paragraph" >(3 + 0,03) MG COM REV CT BL AL PLAS PVDC OPC X 21</p>
+  <p class="dou-paragraph" >1.0235.1155.003-5 24 Meses</p>
+  <p class="dou-paragraph" >(3 + 0,03) MG COM REV CT BL AL PLAS PVDC OPC X 21 + 7</p>
+  <p class="dou-paragraph" >----------------------------</p>
+  <p class="dou-paragraph" >EMS SIGMA PHARMA LTDA 00923140000131</p>
+  <p class="dou-paragraph" >DROSPIRENONA + ETINILESTRADIOL</p>
+  <p class="dou-paragraph" >DALYNE 25351.157698/2015-70 10/2026</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101095/24-6</p>
+  <p class="dou-paragraph" >(11043 GENÉRICO - Alteração maior do processo de produção do medicamento - 1484685/23-3- 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101097/24-2</p>
+  <p class="dou-paragraph" >(11869 GENÉRICO - Mudanças maiores de métodos analíticos - 1484706/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101099/24-9</p>
+  <p class="dou-paragraph" >(10992 - RDC 73/2016 - GENÉRICO - Mudança maior de excipiente para formas farmacêuticas sólidas - 1484669/23-1 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101101/24-4</p>
+  <p class="dou-paragraph" >(11866 GENÉRICO - Mudanças intermediárias de métodos analíticos - 1484699/23-3 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101103/24-1</p>
+  <p class="dou-paragraph" >(10998 - GENÉRICO - Mudança de excipientes responsáveis pela cor e sabor - 1484690/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101128/24-6</p>
+  <p class="dou-paragraph" >(11055 GENÉRICO - Substituição maior de equipamento - 1484687/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101138/24-3</p>
+  <p class="dou-paragraph" >(11862 GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente - 1484695/23-1 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >1.3569.0682.001-4 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS OPC X 63</p>
+  <p class="dou-paragraph" >1.3569.0682.002-2 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS OPC X 21</p>
+  <p class="dou-paragraph" >1.3569.0682.003-0 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS OPC X 21 + 7</p>
+  <p class="dou-paragraph" >----------------------------</p>
+  <p class="dou-paragraph" >GERMED FARMACEUTICA LTDA 45992062000165</p>
+  <p class="dou-paragraph" >drospirenona + etinilestradiol 25351.156151/2015-57 07/2026</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101057/24-3</p>
+  <p class="dou-paragraph" >(11043 GENÉRICO - Alteração maior do processo de produção do medicamento - 1484685/23-3 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101061/24-1</p>
+  <p class="dou-paragraph" >(10992 - RDC 73/2016 - GENÉRICO - Mudança maior de excipiente para formas farmacêuticas sólidas - 1484669/23-1 - 25351.565273/2010-91 )</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101067/24-1</p>
+  <p class="dou-paragraph" >(11862 GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente - 1484695/23-1 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101071/24-9</p>
+  <p class="dou-paragraph" >(11055 GENÉRICO - Substituição maior de equipamento - 1484687/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101081/24-6</p>
+  <p class="dou-paragraph" >(11866 GENÉRICO - Mudanças intermediárias de métodos analíticos - 1484699/23-3 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101083/24-2</p>
+  <p class="dou-paragraph" >(11869 GENÉRICO - Mudanças maiores de métodos analíticos - 1484706/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101085/24-9</p>
+  <p class="dou-paragraph" >(10998 - GENÉRICO - Mudança de excipientes responsáveis pela cor e sabor - 1484690/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >1.0583.0794.001-1 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS OPC X 63</p>
+  <p class="dou-paragraph" >1.0583.0794.002-8 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS OPC X 21</p>
+  <p class="dou-paragraph" >1.0583.0794.003-6 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS OPC X 21 + 7</p>
+  <p class="dou-paragraph" >----------------------------</p>
+  <p class="dou-paragraph" >LEGRAND PHARMA INDÚSTRIA FARMACÊUTICA LTDA 05044984000126</p>
+  <p class="dou-paragraph" >drospirenona + etinilestradiol 25351.157786/2015-71 10/2026</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0096717/24-3</p>
+  <p class="dou-paragraph" >(11862 GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente - 1484695/23-1 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0096719/24-0</p>
+  <p class="dou-paragraph" >(11869 GENÉRICO - Mudanças maiores de métodos analíticos - 1484706/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0096721/24-1</p>
+  <p class="dou-paragraph" >(11866 GENÉRICO - Mudanças intermediárias de métodos analíticos - 1484699/23-3 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0096723/24-8</p>
+  <p class="dou-paragraph" >(10992 - RDC 73/2016 - GENÉRICO - Mudança maior de excipiente para formas farmacêuticas sólidas - 1484669/23-1 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101069/24-7</p>
+  <p class="dou-paragraph" >(11055 GENÉRICO - Substituição maior de equipamento - 1484687/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101087/24-5</p>
+  <p class="dou-paragraph" >(10998 - GENÉRICO - Mudança de excipientes responsáveis pela cor e sabor - 1484690/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101089/24-1</p>
+  <p class="dou-paragraph" >(11043 GENÉRICO - Alteração maior do processo de produção do medicamento - 1484685/23-3 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >1.6773.0454.001-5 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS OPC X 63</p>
+  <p class="dou-paragraph" >1.6773.0454.002-3 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS OPC X 21</p>
+  <p class="dou-paragraph" >1.6773.0454.003-1 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS OPC X 21 + 7</p>
+  <p class="dou-paragraph" >DROSPIRENONA + ETINILESTRADIOL</p>
+  <p class="dou-paragraph" >PREVYASM 25351.157960/2015-86 10/2026</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101106/24-5</p>
+  <p class="dou-paragraph" >(11043 GENÉRICO - Alteração maior do processo de produção do medicamento - 1484685/23-3 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101118/24-9</p>
+  <p class="dou-paragraph" >(11866 GENÉRICO - Mudanças intermediárias de métodos analíticos - 1484699/23-3 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101124/24-3</p>
+  <p class="dou-paragraph" >(11055 GENÉRICO - Substituição maior de equipamento - 1484687/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101126/24-0</p>
+  <p class="dou-paragraph" >(11862 GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente - 1484695/23-1 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101130/24-8</p>
+  <p class="dou-paragraph" >(11869 GENÉRICO - Mudanças maiores de métodos analíticos - 1484706/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101140/24-5</p>
+  <p class="dou-paragraph" >(10998 - GENÉRICO - Mudança de excipientes responsáveis pela cor e sabor - 1484690/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101144/24-8</p>
+  <p class="dou-paragraph" >(10992 - RDC 73/2016 - GENÉRICO - Mudança maior de excipiente para formas farmacêuticas sólidas - 1484669/23-1 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >1.6773.0443.001-5 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS OPC X 63</p>
+  <p class="dou-paragraph" >1.6773.0443.002-3 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS OPC X 21</p>
+  <p class="dou-paragraph" >1.6773.0443.003-1 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS OPC X 21 + 7</p>
+  <p class="dou-paragraph" >----------------------------</p>
+  <p class="dou-paragraph" >MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEUTICOS LTDA 92265552000905</p>
+  <p class="dou-paragraph" >DROSPIRENONA + ETINILESTRADIOL</p>
+  <p class="dou-paragraph" >FUCSIA FEM 25351.065455/2022-35 10/2026</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101108/24-1</p>
+  <p class="dou-paragraph" >(10992 - RDC 73/2016 - GENÉRICO - Mudança maior de excipiente para formas farmacêuticas sólidas - 1484669/23-1 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101110/24-3</p>
+  <p class="dou-paragraph" >(11055 GENÉRICO - Substituição maior de equipamento - 1484687/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101112/24-0</p>
+  <p class="dou-paragraph" >(11862 GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente - 1484695/23-1 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101132/24-4</p>
+  <p class="dou-paragraph" >(11866 GENÉRICO - Mudanças intermediárias de métodos analíticos - 1484699/23-3 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101134/24-1</p>
+  <p class="dou-paragraph" >(10998 - GENÉRICO - Mudança de excipientes responsáveis pela cor e sabor - 1484690/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101136/24-7</p>
+  <p class="dou-paragraph" >(11869 GENÉRICO - Mudanças maiores de métodos analíticos - 1484706/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101142/24-1</p>
+  <p class="dou-paragraph" >(11043 GENÉRICO - Alteração maior do processo de produção do medicamento - 1484685/23-3 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >1.1819.0398.001-9 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS OPC X 63</p>
+  <p class="dou-paragraph" >1.1819.0398.002-7 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS OPC X 21</p>
+  <p class="dou-paragraph" >1.1819.0398.003-5 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS OPC X 21 + 7</p>
+  <p class="dou-paragraph" >drospirenona + etinilestradiol 25351.065558/2022-03 08/2026</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101059/24-0</p>
+  <p class="dou-paragraph" >(10998 - GENÉRICO - Mudança de excipientes responsáveis pela cor e sabor - 1484690/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101063/24-8</p>
+  <p class="dou-paragraph" >(11055 GENÉRICO - Substituição maior de equipamento - 1484687/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101065/24-4</p>
+  <p class="dou-paragraph" >(11043 GENÉRICO - Alteração maior do processo de produção do medicamento - 1484685/23-3 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101073/24-5</p>
+  <p class="dou-paragraph" >(10992 - RDC 73/2016 - GENÉRICO - Mudança maior de excipiente para formas farmacêuticas sólidas - 1484669/23-1 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101075/24-1</p>
+  <p class="dou-paragraph" >(11862 GENÉRICO - Mudanças nos limites de especificação fora de limites aprovados anteriormente - 1484695/23-1 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101077/24-8</p>
+  <p class="dou-paragraph" >(11866 GENÉRICO - Mudanças intermediárias de métodos analíticos - 1484699/23-3 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0101079/24-4</p>
+  <p class="dou-paragraph" >(11869 GENÉRICO - Mudanças maiores de métodos analíticos - 1484706/23-0 - 25351.565273/2010-91)</p>
+  <p class="dou-paragraph" >1.1819.0457.001-9 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS OPC X 21</p>
+  <p class="dou-paragraph" >1.1819.0457.002-7 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS OPC X 21 + 7</p>
+  <p class="dou-paragraph" >1.1819.0457.003-5 24 Meses</p>
+  <p class="dou-paragraph" >3 MG + 0,03 MG COM REV CT BL AL PLAS OPC X 63</p>
+  <p class="dou-paragraph" >----------------------------</p>
+  <p class="dou-paragraph" >PRATI DONADUZZI &amp; CIA LTDA 73856593000166</p>
+  <p class="dou-paragraph" >rosuvastatina cálcica 25351.491151/2022-20 09/2034</p>
+  <p class="dou-paragraph" >155 GENERICO - REGISTRO DE MEDICAMENTO 2412185/22-1</p>
+  <p class="dou-paragraph" >5 MG COM REV CT BL AL AL X 30</p>
+  <p class="dou-paragraph" >40 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 600</p>
+  <p class="dou-paragraph" >5 MG COM REV CT BL AL AL X 90</p>
+  <p class="dou-paragraph" >5 MG COM REV CT BL AL AL X 120</p>
+  <p class="dou-paragraph" >5 MG COM REV CT BL AL AL X 300</p>
+  <p class="dou-paragraph" >5 MG COM REV CT BL AL AL X 600</p>
+  <p class="dou-paragraph" >5 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 30</p>
+  <p class="dou-paragraph" >5 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 60</p>
+  <p class="dou-paragraph" >5 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 90</p>
+  <p class="dou-paragraph" >5 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 120</p>
+  <p class="dou-paragraph" >5 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 300</p>
+  <p class="dou-paragraph" >5 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 600</p>
+  <p class="dou-paragraph" >10 MG COM REV CT BL AL AL X 30</p>
+  <p class="dou-paragraph" >10 MG COM REV CT BL AL AL X 60</p>
+  <p class="dou-paragraph" >10 MG COM REV CT BL AL AL X 90</p>
+  <p class="dou-paragraph" >10 MG COM REV CT BL AL AL X 120</p>
+  <p class="dou-paragraph" >10 MG COM REV CT BL AL AL X 300</p>
+  <p class="dou-paragraph" >10 MG COM REV CT BL AL AL X 600</p>
+  <p class="dou-paragraph" >10 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 30</p>
+  <p class="dou-paragraph" >10 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 60</p>
+  <p class="dou-paragraph" >10 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 90</p>
+  <p class="dou-paragraph" >10 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 120</p>
+  <p class="dou-paragraph" >10 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 300</p>
+  <p class="dou-paragraph" >10 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 600</p>
+  <p class="dou-paragraph" >20 MG COM REV CT BL AL AL X 30</p>
+  <p class="dou-paragraph" >20 MG COM REV CT BL AL AL X 60</p>
+  <p class="dou-paragraph" >20 MG COM REV CT BL AL AL X 90</p>
+  <p class="dou-paragraph" >20 MG COM REV CT BL AL AL X 120</p>
+  <p class="dou-paragraph" >20 MG COM REV CT BL AL AL X 300</p>
+  <p class="dou-paragraph" >20 MG COM REV CT BL AL AL X 600</p>
+  <p class="dou-paragraph" >20 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 30</p>
+  <p class="dou-paragraph" >20 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 60</p>
+  <p class="dou-paragraph" >20 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 90</p>
+  <p class="dou-paragraph" >20 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 120</p>
+  <p class="dou-paragraph" >20 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 300</p>
+  <p class="dou-paragraph" >20 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 600</p>
+  <p class="dou-paragraph" >40 MG COM REV CT BL AL AL X 30</p>
+  <p class="dou-paragraph" >40 MG COM REV CT BL AL AL X 60</p>
+  <p class="dou-paragraph" >40 MG COM REV CT BL AL AL X 90</p>
+  <p class="dou-paragraph" >40 MG COM REV CT BL AL AL X 120</p>
+  <p class="dou-paragraph" >40 MG COM REV CT BL AL AL X 300</p>
+  <p class="dou-paragraph" >40 MG COM REV CT BL AL AL X 600</p>
+  <p class="dou-paragraph" >40 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 30</p>
+  <p class="dou-paragraph" >40 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 60</p>
+  <p class="dou-paragraph" >40 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 90</p>
+  <p class="dou-paragraph" >40 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 120</p>
+  <p class="dou-paragraph" >40 MG COM REV CT BL AL PLAS PVC/PE/PVDC TRANS X 300</p>
+  <p class="dou-paragraph" >5 MG COM REV CT BL AL AL X 60</p>
+ </body>
+</html></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

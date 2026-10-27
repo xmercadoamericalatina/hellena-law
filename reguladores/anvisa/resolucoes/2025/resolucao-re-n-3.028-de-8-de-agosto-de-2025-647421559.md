@@ -1,0 +1,98 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.028, DE 8 DE AGOSTO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "3028"
+data: 2025-08-08
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 11/08/2025, seção 1, p. 103"
+data_publicacao: 2025-08-11
+edicao: "150"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.028-de-8-de-agosto-de-2025-647421559"
+baixado_em: 2026-10-16
+sha256_html_fonte: f64565d63f5ed3adf5abe4753d056f77dc9227c350645fd80ebb38e867a5dd76
+---
+# RESOLUÇÃO-RE Nº 3.028, DE 8 DE AGOSTO DE 2025
+
+RESOLUÇÃO-RE Nº 3.028, DE 8 DE AGOSTO DE 2025
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor 90 (noventa) dias a partir da data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+--------------------------------------------------
+
+AIRELA INDÚSTRIA FARMACÊUTICA LTDA. 01858973000129
+
+MALEATO DE DEXCLORFENIRAMINA
+
+SOFTEZ 25351.113488/2025-41 07/2028
+
+11203 SIMILAR - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 0888254/25-3
+
+1.4493.0081.001-1 24 Meses
+
+10 MG/G CREM DERM CT BG AL X 30 G
+
+TRIANCINOLONA ACETONIDA
+
+ORALSEPT 25351.113528/2025-55 09/2028
+
+11203 SIMILAR - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 0888341/25-3
+
+1.4493.0082.001-5 24 Meses
+
+1 MG/G PAST CT BG AL X 10G
+
+--------------------------------------------------
+
+COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. 61082426000207
+
+ADAPALENO
+
+ADACNE 25351.113432/2025-97 12/2025
+
+11203 SIMILAR - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 0888051/25-5
+
+1.7817.0988.001-0 24 Meses
+
+1,0 MG/G GEL CT BG PLAS LAM X 15 G
+
+1.7817.0988.002-9 24 Meses
+
+1,0 MG/G GEL CT BG PLAS LAM X 30 G
+
+--------------------------------------------------
+
+HYPOFARMA - INSTITUTO DE HYPODERMIA E FARMÁCIA LTDA 17174657000178
+
+TIGECICLINA
+
+TAUMIK 25351.113701/2025-15 03/2033
+
+11203 SIMILAR - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 0888778/25-2
+
+1.0387.0086.001-3 18 Meses
+
+50 MG PO LIOF SOL INFUS IV CT FA VD TRANS

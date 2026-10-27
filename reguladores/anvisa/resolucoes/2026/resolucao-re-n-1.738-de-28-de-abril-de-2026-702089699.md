@@ -1,0 +1,149 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.738, DE 28 DE ABRIL DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1738"
+data: 2026-04-28
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 29/04/2026, seção 1, p. 373"
+data_publicacao: 2026-04-29
+edicao: "79"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.738-de-28-de-abril-de-2026-702089699"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 1.738, DE 28 DE ABRIL DE 2026
+
+RESOLUÇÃO-RE Nº 1.738, DE 28 DE ABRIL DE 2026
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+BROOK S/A / 05.490.655/0001-09
+
+25351.120580/2023-04 / 1288930
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+IMPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70807 - AE - ALTERAÇÃO - AMPLIAÇÃO DE CLASSE / 0401413268
+
+25351.120580/2023-04 / 1288930
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+IMPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0401424260
+
+--------------------------------------
+
+P CENTENO TRANSPORTES LTDA / 08.649.413/0001-03
+
+25351.586684/2014-16 / 1121511
+
+TRANSPORTAR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0398440263
+
+--------------------------------------
+
+FARMACIAS SAO PAULO LTDA / 00.477.061/0022-79
+
+25351.726326/2019-20 / 1198328
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0405665261
+
+--------------------------------------
+
+ARPOADOR COMERCIO DE MEDICAMENTOS LTDA / 27.326.719/0019-00
+
+25351.465878/2019-56 / 1192859
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0391136267
+
+--------------------------------------
+
+FREEDOM HOSPITALAR LTDA / 42.252.923/0001-80
+
+25351.599040/2022-61 / 1284561
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0406150265
+
+--------------------------------------
+
+PDL EMPREENDIMENTOS FARMACEUTICOS LTDA - EPP / 24.507.376/0001-55
+
+25351.112224/2017-61 / 1163869
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7027 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - ENDEREÇO / 0368708268
+
+--------------------------------------
+
+MEDLOG LTDA / 41.751.726/0001-43
+
+25351.083123/2025-85 / 1407742
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0381857263
+
+--------------------------------------
+
+FERREIRA MATHIAS HOSPITALAR LTDA / 62.886.674/0001-92
+
+25351.010131/2026-93 / 1423544
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0396504264

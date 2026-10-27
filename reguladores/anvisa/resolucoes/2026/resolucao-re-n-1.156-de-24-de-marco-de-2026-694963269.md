@@ -1,0 +1,127 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.156, DE 24 DE MARÇO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1156"
+data: 2026-03-24
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 25/03/2026, seção 1, p. 185"
+data_publicacao: 2026-03-25
+edicao: "57"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.156-de-24-de-marco-de-2026-694963269"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 1.156, DE 24 DE MARÇO DE 2026
+
+RESOLUÇÃO-RE nº 1.156, DE 24 DE MARÇO DE 2026
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n° 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+MM BIASI CABRAL MARE ADMINISTRACAO TRANSPORTES LTDA / 51.775.321/0001-07
+
+25351.414741/2024-09 / 1319023
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0251602265
+
+--------------------------------------
+
+LIV MEDICAMENTOS IMPORTADORA EXPORTADORA E DISTRIBUIDORA DE ARTIGOS MEDICOS LTDA / 53.642.792/0001-64
+
+25351.139326/2025-33 / 1412894
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0267315261
+
+--------------------------------------
+
+M DA S CUNHA LTDA / 24.687.482/0001-68
+
+25351.037522/2026-55 / 1426051
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0249880261
+
+--------------------------------------
+
+W S TRANSPORTES DE CARGAS E LOGISTICA LTDA / 15.186.966/0010-23
+
+25351.364457/2024-76 / 1314061
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0250782260
+
+--------------------------------------
+
+ANGELUS SERVICOS EMPRESARIAIS LTDA / 41.720.066/0001-33
+
+25351.211534/2025-77 / 1420198
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0251140261
+
+--------------------------------------
+
+NUTRI CARE PRODUTOS PARA SAUDE LTDA / 22.680.187/0002-35
+
+25351.635802/2023-81 / 1299931
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0267250266
+
+--------------------------------------
+
+O DE A LIMA / 08.309.283/0001-60
+
+25351.180796/2025-82 / 1418039
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0268850267
+
+25351.180796/2025-82 / 1418039
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0269110267

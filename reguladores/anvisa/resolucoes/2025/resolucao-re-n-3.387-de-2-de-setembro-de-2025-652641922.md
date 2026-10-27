@@ -1,0 +1,158 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.387, DE 2 DE SETEMBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3387"
+data: 2025-09-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/09/2025, seção 1, p. 94"
+data_publicacao: 2025-09-03
+edicao: "167"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.387-de-2-de-setembro-de-2025-652641922"
+baixado_em: 2026-10-16
+sha256_html_fonte: 622fccc3a53cb53bdb9645c6b02c5de71fee0c09ad7cffc13119cfd3497e319b
+---
+# RESOLUÇÃO-RE nº 3.387, DE 2 DE SETEMBRO DE 2025
+
+RESOLUÇÃO-RE nº 3.387, DE 2 DE SETEMBRO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+BIMEX RS COMERCIO DE MEDICAMENTOS LTDA / 42.040.380/0001-38
+
+25351.664153/2023-25 / 1300349
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0963605259
+
+--------------------------------------
+
+RIBEIROLOG TRANSPORTE E LOGISTICA LTDA / 31.549.163/0001-51
+
+25351.145281/2025-36 / 1413321
+
+ARMAZENAR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1164963252
+
+--------------------------------------
+
+Galderma Brasil Ltda / 00.317.372/0006-50
+
+25351.367013/2018-44 / 1178402
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+IMPORTAR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0935051252
+
+--------------------------------------
+
+FREEDOM FARMA DISTRIBUIDORA DE MEDICAMENTOS LTDA / 18.117.137/0001-96
+
+25351.567185/2013-45 / 1235243
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0935060251
+
+--------------------------------------
+
+JP MEDICAMENTOS E MATERIAIS CIRURGICOS LTDA / 59.084.310/0001-84
+
+25351.140193/2025-48 / 1414006
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1029764255
+
+--------------------------------------
+
+ALPHANORTE MEDTRANSPORTE LTDA / 31.117.814/0001-34
+
+25351.457876/2024-51 / 1324741
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 1167222253
+
+--------------------------------------
+
+MATSURI COMERCIO DE PRODUTOS HOSPITALARES LTDA / 15.088.730/0001-63
+
+25351.024404/2019-58 / 1187221
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0951533258
+
+--------------------------------------
+
+NORTE GREEN COMÉRCIO DE PRODUTOS FARMACÊUTICOS E HOSPITALAR LTDA - ME / 24.218.223/0001-98
+
+25351.103695/2021-64 / 1251349
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0964818256
+
+--------------------------------------
+
+FÓRMULA BICHOS MANIPULAÇÃO LTDA. - ME / 21.399.411/0001-71
+
+25351.965351/2016-84 / 1153387
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7027 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - ENDEREÇO / 0971481253

@@ -1,0 +1,111 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.681, DE 23 DE ABRIL DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Produtos de Terapias Avançadas"
+tipo: "Resolução"
+numero: "1681"
+data: 2026-04-23
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 27/04/2026, seção 1, p. 122"
+data_publicacao: 2026-04-27
+edicao: "77"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.681-de-23-de-abril-de-2026-701458818"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 1.681, DE 23 DE ABRIL DE 2026
+
+RESOLUÇÃO-RE Nº 1.681, DE 23 DE ABRIL DE 2026
+
+O GERENTE-GERAL SUBSTITUTO DE PRODUTOS BIOLÓGICOS, RADIOFÁRMACOS, SANGUE, TECIDOS, CÉLULAS, ÓRGÃOS E PRODUTOS DE TERAPIAS AVANÇADAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 109, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir petições relacionadas à Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Produtos de Terapias Avançadas, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor 90 (noventa) dias a partir da data de sua publicação.
+
+ANDERSON VEZALI MONTAI
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+TAKEDA DISTRIBUIDORA LTDA. 11635171000103
+
+PROTHROMPLEX 25351.052090/2026-11 03/2027
+
+11201 PRODUTO BIOLÓGICO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 0283321/26-1
+
+1.2627.0015.001-1 36 Meses
+
+600 UI PO LIOF INJ CT 1 FA VD INC + 1 FA DIL X 20ML + CONJ REC E INFUS + SER
+
+FATOR II DE COAGULAÇÃO + FATOR VII DE COAGULAÇÃO + FATOR IX DE COAGULAÇÃO + FATOR X
+
+1.2627.0015.002-1 36 Meses
+
+600 UI PO LIOF INJ CT 1 FA VD INC + 1 FA DIL X 20ML + CONJ REC E INFUS
+
+FATOR II DE COAGULAÇÃO + FATOR VII DE COAGULAÇÃO + FATOR IX DE COAGULAÇÃO + FATOR X
+
+1.2627.0015.003-8 36 Meses
+
+500 UI PO LIOF INJ CT 1 FA VD INC + 1 FA DIL X 17 ML + DISP RECONST
+
+FATOR II DE COAGULAÇÃO + FATOR VII DE COAGULAÇÃO + FATOR IX DE COAGULAÇÃO + FATOR X DE COAGULAÇÃO
+
+ALBUMINA HUMANA
+
+ALBUMINA SÉRICA HUMANA NORMAL 25351.052126/2026-58 12/2035
+
+11201 PRODUTO BIOLÓGICO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 0283406/26-7
+
+1.2627.0016.001-7 24 Meses
+
+20 PCC SOL INJ CT FA X 50 ML + EQUIPO
+
+1.2627.0016.002-5 24 Meses
+
+20 PCC SOL INJ CT FA X 100 ML + EQUIPO
+
+1.2627.0016.003-3 24 Meses
+
+25 PCC SOL INJ CT FA X 20 ML + EQUIPO
+
+1.2627.0016.004-1 24 Meses
+
+25 PCC SOL INJ CT FA X 50 ML + EQUIPO
+
+1.2627.0016.005-1 24 Meses
+
+25 PCC SOL INJ CT FA X 100 ML + EQUIPO
+
+1.2627.0016.006-8 24 Meses
+
+20 PCC SOL INJ BOLSA PLÁSTICA X 50 ML
+
+1.2627.0016.007-6 24 Meses
+
+20 PCC SOL INJ BOLSA PLÁSTICA X 100 ML
+
+1.2627.0016.008-4 24 Meses
+
+20 PCC SOL INJ CX 24 BOLSA PLÁSTICA X 50 ML
+
+1.2627.0016.009-2 24 Meses
+
+20 PCC SOL INJ CX 12 BOLSA PLÁSTICA X 100 ML
+
+ALBUMINA HUMANA

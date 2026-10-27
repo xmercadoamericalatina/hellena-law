@@ -1,0 +1,109 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.801, DE 30 DE ABRIL DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1801"
+data: 2026-04-30
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 04/05/2026, seção 1, p. 189"
+data_publicacao: 2026-05-04
+edicao: "81"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.801-de-30-de-abril-de-2026-702834591"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 1.801, DE 30 DE ABRIL DE 2026
+
+RESOLUÇÃO-RE Nº 1.801, DE 30 DE ABRIL DE 2026
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n° 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+BELLA BOTICA FARMACIA DE MANIPULACAO HUMANA HOMEOPATICA VETERINARIA LTDA / 57.911.440/0001-18
+
+25351.057506/2025-06 / 5177703
+
+COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISPENSAÇÃO DE MEDICAMENTOS, INCLUSIVE SUJEITOS A CONTROLE ESPECIAL
+
+MANIPULAÇÃO DE PRODUTOS MAGISTRAIS: -
+
+MANIPULAÇÃO DE PRODUTOS OFICINAIS: -
+
+PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS: -
+
+7024 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - RAZÃO SOCIAL / 0418298262
+
+--------------------------------------
+
+PIEMAR DO VALE TRANSPORTES LTDA - ME / 21.902.967/0001-39
+
+25351.470018/2016-08 / 1160188
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70806 - AE - ALTERAÇÃO - REDUÇÃO DE ATIVIDADE / 0415500265
+
+--------------------------------------
+
+FARMACIA DE MANIPULACAO DO ARARIPE LTDA / 09.051.002/0002-65
+
+25351.231392/2014-10 / 1105281
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7024 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - RAZÃO SOCIAL / 0419931261
+
+--------------------------------------
+
+ALFA DISTRIBUIDORA LTDA / 63.251.668/0001-21
+
+25351.033311/2026-43 / 1425821
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0411292269
+
+--------------------------------------
+
+INTEGRATED PETROLEUM EXPERTISE COMPANY SERVICOS EM PETROLEO LTDA / 06.940.354/0006-07
+
+25351.067957/2025-43 / 1407591
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0417740263
+
+--------------------------------------
+
+ESSENZA FARMACEUTICA LTDA / 52.841.663/0001-32
+
+25351.415724/2024-81 / 1320096
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7024 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - RAZÃO SOCIAL / 0417371268
+
+--------------------------------------
+
+BELLA BOTICA FARMACIA DE MANIPULACAO HUMANA HOMEOPATICA VETERINARIA LTDA / 57.911.440/0001-18
+
+25351.083555/2025-96 / 1407847
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7024 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - RAZÃO SOCIAL / 0417802269

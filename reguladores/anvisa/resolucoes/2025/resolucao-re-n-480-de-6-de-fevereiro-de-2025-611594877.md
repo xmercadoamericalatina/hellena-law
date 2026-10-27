@@ -1,0 +1,147 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 480, DE 6 DE FEVEREIRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Prod de Terapias Avan"
+tipo: "Resolução"
+numero: "480"
+data: 2025-02-06
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 10/02/2025, seção 1, p. 69"
+data_publicacao: 2025-02-10
+edicao: "28"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-480-de-6-de-fevereiro-de-2025-611594877"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 480, DE 6 DE FEVEREIRO DE 2025
+
+RESOLUÇÃO-RE Nº 480, DE 6 DE FEVEREIRO DE 2025
+
+O GERENTE-GERAL DE PRODUTOS BIOLÓGICOS, RADIOFÁRMACOS, SANGUE, TECIDOS, CÉLULAS, ÓRGÃOS E PRODUTOS DE TERAPIAS AVANÇADAS da agência nacional de vigilância sanitária, no uso das atribuições que lhe confere o art. 109, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir petições relacionadas à Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Produtos de Terapias Avançadas, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor 90 (noventa) dias a partir da data de sua publicação.
+
+MARCELO MARIO MATOS MOREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+BIOCON BIOLOGICS DO BRASIL LTDA 38108988000180
+
+ADALIMUMABE
+
+HULIO 25351.438605/2024-04 09/2032
+
+11201 PRODUTO BIOLÓGICO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 1540552/24-1
+
+1.1664.0003.001-7 36 Meses
+
+50 MG/ML SOL INJ CT BL X SER PREENC PLAS X 0,8 ML + SIST APLIC PLAST PEN + 2 LEN ALCOOL
+
+1.1664.0003.002-5 36 Meses
+
+50 MG/ML SOL INJ CT BL X 2 SER PREENC PLAS X 0,8 ML + SIST APLIC PLAST PEN + 2 LEN ALCOOL
+
+1.1664.0003.003-3 36 Meses
+
+50 MG/ML SOL INJ CT BL X 6 SER PREENC PLAS X 0,8 ML + SIST APLIC PLAST PEN + 6 LEN ALCOOL
+
+1.1664.0003.004-1 36 Meses
+
+50 MG/ML SOL INJ CT BL X SER PREENC PLAS TRANS X 0,8 ML + 2 LEN ALCOOL
+
+1.1664.0003.005-1 36 Meses
+
+50 MG/ML SOL INJ CT BL X 2 SER PREENC PLAS TRANS X 0,8 ML + 2 LEN ALCOOL
+
+1.1664.0003.006-8 36 Meses
+
+50 MG/ML SOL INJ CT BL X 6 SER PREENC PLAS TRANS X 0,8 ML + 2 LEN ALCOOL
+
+ADALIMUMABE
+
+ETANERCEPTE
+
+NEPEXTO 25351.438611/2024-53 12/2031
+
+11201 PRODUTO BIOLÓGICO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 1540601/24-2
+
+1.1664.0004.001-2 24 Meses
+
+50 MG/ML SOL INJ SC CT SER PREENC VD TRANS X 0,5 ML + AGU + LEN
+
+1.1664.0004.002-0 24 Meses
+
+50 MG/ML SOL INJ SC CT 2 SER PREENC VD TRANS X 0,5 ML + 2 AGU + 2 LEN
+
+1.1664.0004.003-9 24 Meses
+
+50 MG/ML SOL INJ SC CT 4 SER PREENC VD TRANS X 0,5 ML + 4 AGU + 4 LEN
+
+1.1664.0004.004-7 24 Meses
+
+50 MG/ML SOL INJ SC CT SER PREENC VD TRANS X 1,0 ML + AGU + LEN
+
+1.1664.0004.005-5 24 Meses
+
+50 MG/ML SOL INJ SC CT 2 SER PREENC VD TRANS X 1,0 ML + 2 AGU + 2 LEN
+
+1.1664.0004.006-3 24 Meses
+
+50 MG/ML SOL INJ SC CT 4 SER PREENC VD TRANS X 1,0 ML + 4 AGU + 4 LEN
+
+1.1664.0004.007-1 24 Meses
+
+50 MG/ML SOL INJ SC CT SER PREENC VD TRANS X 1,0 ML + CAN APLIC + LEN
+
+1.1664.0004.008-1 24 Meses
+
+50 MG/ML SOL INJ SC CT 2 SER PREENC VD TRANS X 1,0 ML + 2 CAN APLIC + 2 LEN
+
+1.1664.0004.009-8 24 Meses
+
+50 MG/ML SOL INJ SC CT 4 SER PREENC VD TRANS X 1,0 ML + 4 CAN APLIC + 4 LEN
+
+ETANERCEPTE
+
+INSULINA GLARGINA
+
+SEMGLEE 25351.438612/2024-06 01/2033
+
+11201 PRODUTO BIOLÓGICO - SOLICITAÇÃO DE TRANSFERÊNCIA DE TITULARIDADE DE REGISTRO (OPERAÇÃO COMERCIAL) 1540602/24-9
+
+1.1664.0005.001-8 36 Meses
+
+100 U/ML SOL INJ CT CAR VD TRANS X 3 ML + 1 CAN APLIC
+
+1.1664.0005.002-6 36 Meses
+
+100 U/ML SOL INJ CT 3 CAR VD TRANS X 3 ML + 3 CAN APLIC
+
+1.1664.0005.003-4 36 Meses
+
+100 U/ML SOL INJ CT 5 CAR VD TRANS X 3 ML + 5 CAN APLIC
+
+1.1664.0005.004-2 36 Meses
+
+100 U/ML SOL INJ CT 10 CAR VD TRANS X 3 ML + 10 CAN APLIC
+
+INSULINA GLARGINA
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

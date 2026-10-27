@@ -1,0 +1,407 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.875, DE 1º DE OUTUBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "3875"
+data: 2026-10-01
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 05/10/2026, seção 1, p. 99"
+data_publicacao: 2026-10-05
+edicao: "188"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.875-de-1-de-outubro-de-2026-736314336"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 3.875, DE 1º DE OUTUBRO DE 2026
+
+RESOLUÇÃO-RE Nº 3.875, DE 1º DE OUTUBRO DE 2026
+
+A GERENTE-GERAL SUBSTITUTA DE ALIMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 96, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Deferir as petições relacionadas à Gerência-Geral de Alimentos, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ÂNGELA KARINNE FAGUNDES DE CASTRO
+
+## ANEXO
+
+Número da Listagem: 696826
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO
+
+MARCA
+
+NUMERO DO PROCESSO / VENCIMENTO DO REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+DESCRIÇÃO DA APRESENTAÇÃO
+
+REGISTRO
+
+PRAZO DE VALIDADE DA APRESENTAÇÃO
+
+EMBALAGEM PRIMÁRIA
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ABBOTT LABORATÓRIOS DO BRASIL LTDA / 56.998.701/0001-16
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL
+
+25351.738158/2018-34 / 10/2030
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0869970/26-7
+
+APRESENTAÇÃO 1
+
+4743203830016
+
+12 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+DANONE LTDA. / 23.643.315/0115-10
+
+Fórmula modificada para nutrição enteral e oral
+
+25004.110038/2012-11 / 04/2028
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0871161/26-5
+
+APRESENTAÇÃO 1
+
+6657701020010
+
+12 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+DANONE LTDA. / 23.643.315/0115-10
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL
+
+25351.528415/2009-18 / 04/2030
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0834930/26-9
+
+APRESENTAÇÃO 1
+
+6657700510022
+
+12 Meses
+
+METALICA / PLASTICO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+APROVADA: DII/IBD/MODULEN/MODULEN DII/MODULEN IBD/MODULEN TGF ?2/TGF ?2
+
+25351.181056/2025-63 / 03/2031
+
+457 - Inclusão de Marca / 0881851/26-4
+
+APRESENTAÇÃO 1
+
+6596502030010
+
+24 Meses
+
+METALICA / lata
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA LACTENTES
+
+25004.120123/2008-97 / 04/2029
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0892761/26-1
+
+APRESENTAÇÃO 1
+
+4007618530011
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA LACTENTES
+
+25004.120123/2008-97 / 04/2029
+
+4124 - Cancelamento de Registro de Apresentação / 1013094/26-2
+
+MÉXICO
+
+4007618530028
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICO
+
+ALEMANHA
+
+4007618530079
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICO
+
+ESTADOS UNIDOS
+
+4007618530087
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICO
+
+MÉXICO (NANTLI)
+
+4007618530095
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+MÉXICO (OCOTLÁN)
+
+4007618530109
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+MÉXICO (COATEPEC)
+
+4007618530117
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+CHILE
+
+4007618530125
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES
+
+25004.070434/99 / 10/2029
+
+4124 - Cancelamento de Registro de Apresentação / 0998163/26-2
+
+FORM 2 - ARAÇATUBA/SP
+
+4007616230027
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICO
+
+FORM 1 - ALEMANHA
+
+4007616230035
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICO
+
+FORM 1 - ESTADOS UNIDOS
+
+4007616230043
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICO
+
+FORM 1 - MÉXICO
+
+4007616230051
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICO
+
+FORM 2 - ALEMANHA
+
+4007616230061
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICO
+
+FORM 2 - ESTADOS UNIDOS
+
+4007616230078
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICO
+
+FORM 2 - MÉXICO
+
+4007616230086
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICO
+
+FORM 1 - MÉXICO (NANTLI)
+
+4007616230094
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+FORM 2 - MÉXICO (NANTLI)
+
+4007616230108
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+FORM 1 - MÉXICO (OCOTLÁN)
+
+4007616230116
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+FORM 2 - MÉXICO (OCOTLÁN)
+
+4007616230124
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+FORM 1 - MÉXICO (COATEPEC)
+
+4007616230132
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+FORM 2 - MÉXICO (COATEPEC)
+
+4007616230140
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+FORM 1 - CHILE (CANCURA)
+
+4007616230159
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+FORM 2 - CHILE (CANCURA)
+
+4007616230167
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA PEDIÁTRICA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.001573/00 / 09/2031
+
+4097 - Revalidação de registro de fórmulas pediátricas para nutrição enteral / 0437503/26-7
+
+APRESENTAÇÃO 1
+
+4007617510023
+
+18 Meses
+
+METALICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES
+
+25004.070434/99 / 10/2029
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0892662/26-3
+
+APRESENTAÇÃO 1
+
+4007616230019
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+SUPPORT PRODUTOS NUTRICIONAIS LTDA / 01.107.391/0001-00
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.031708/2025-10 / 05/2031
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0829104/26-7
+
+APRESENTAÇÃO 1
+
+6593000100018
+
+12 Meses
+
+CELULOSICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+SUPPORT PRODUTOS NUTRICIONAIS LTDA / 01.107.391/0001-00
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.031776/2025-89 / 09/2031
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0829313/26-5
+
+APRESENTAÇÃO 1
+
+6593000150015
+
+12 Meses
+
+CELULOSICA / METALICA / PLASTICA

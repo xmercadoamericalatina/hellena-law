@@ -1,0 +1,239 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.496, DE 10 DE ABRIL DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1496"
+data: 2026-04-10
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 13/04/2026, seção 1, p. 246"
+data_publicacao: 2026-04-13
+edicao: "69"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.496-de-10-de-abril-de-2026-698962648"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 1.496, DE 10 DE ABRIL DE 2026
+
+RESOLUÇÃO-RE nº 1.496, DE 10 DE ABRIL DE 2026
+
+A GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021;
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Renovar a Certificação de Boas Práticas de Fabricação de Medicamentos das empresas constantes no ANEXO.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RENATA DE LIMA SOARES
+
+## ANEXO
+
+EMPRESA: UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A - CNPJ: 60.665.981/0001-18 - AUTORIZ/MS: 1004977
+
+ENDEREÇO: RUA CORONEL LUIZ TENÓRIO DE BRITO
+
+MUNICÍPIO: EMBU-GUAÇU - UF: SP - EXPEDIENTE: 0952215/25-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós com Preparação Asséptica
+
+Data de Vencimento: 15/04/2028
+
+.........................................
+
+EMPRESA FABRICANTE: CENEXI - LABORATOIRES THISSEN S. A.
+
+ENDEREÇO: RUE DE LA PAPYRÉE 2-4-6, BRAINE-L´ALLEUD, 1420 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000345
+
+EMPRESA SOLICITANTE: ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 02.433.631/0001-20
+
+AUTORIZ/MS: 1037648 - EXPEDIENTE(s): 1334390/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 15/04/2028
+
+.........................................
+
+EMPRESA FABRICANTE: SIEGFRIED BARBERA S.L.
+
+ENDEREÇO: RONDA DE SANTA MARIA, 158, 08210, BARBERÀ DEL VALLÈS, BARCELONA - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.000431
+
+EMPRESA SOLICITANTE: UNITED MEDICAL LTDA - CNPJ: 68.949.239/0001-46
+
+AUTORIZ/MS: 1025762 - EXPEDIENTE(s): 1221342/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas
+
+Data de Vencimento: 15/04/2028
+
+.........................................
+
+EMPRESA FABRICANTE: AESICA PHARMACEUTICALS GMBH
+
+ENDEREÇO: ALFRED-NOBEL-STR. 10 UND MITTELSTR. 15 - 40789 MONHEIM AM RHEIN, NORTH RHINE - WESTPHALIA - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000991
+
+EMPRESA SOLICITANTE: MOKSHA8 BRASIL INDUSTRIA E COMERCIO DE MEDICAMENTOS LTDA - CNPJ: 07.591.326/0001-80
+
+AUTORIZ/MS: 1064256 - EXPEDIENTE(s): 1180492/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Comprimidos
+
+Data de Vencimento: 15/04/2028
+
+.........................................
+
+EMPRESA FABRICANTE: PF CONSUMER HEALTHCARE B.V. (PUERTO RICO OPERATIONS) LLC
+
+ENDEREÇO: STATE ROAD NO. 3 (KILOMETER 141.3), GUAYAMA, PUERTO RICO (PR) 00784 - PAÍS: PORTO RICO - CÓDIGO ÚNICO: A.001015
+
+EMPRESA SOLICITANTE: PF Consumer Healthcare Brazil Importadora e Distribuidora de Medicamentos Ltda - CNPJ: 30.872.270/0001-53
+
+AUTORIZ/MS: 1192905 - EXPEDIENTE(s): 1372766/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+Data de Vencimento: 15/04/2028
+
+.........................................
+
+EMPRESA FABRICANTE: FISIOPHARMA SRL
+
+ENDEREÇO: NUCLEO INDUSTRIALE - 84020 PALOMONTE (SA) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.001500
+
+EMPRESA SOLICITANTE: MANDALA BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO DE PRODUTO MÉDICO HOSPITALAR LTDA - CNPJ: 09.117.476/0001-81
+
+AUTORIZ/MS: 1109651 - EXPEDIENTE(s): 1375429/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem primária; Embalagem secundária): Pós com Preparação Asséptica
+
+Data de Vencimento: 15/04/2028
+
+.........................................
+
+EMPRESA FABRICANTE: UNICHEM LABORATORIES LIMITED
+
+ENDEREÇO: VILLAGE BHATAULI KALAN, BADDI, DISTT SOLAN, HIMACHAL PRADESH, 173205 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000623
+
+EMPRESA SOLICITANTE: UNICHEM FARMACÊUTICA DO BRASIL LTDA - CNPJ: 05.399.786/0001-85
+
+AUTORIZ/MS: 1056494 - EXPEDIENTE(s): 1414897/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Penicilínicos): Cápsulas
+
+Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+Data de Vencimento: 15/04/2028
+
+.........................................
+
+EMPRESA FABRICANTE: SUN PHARMACEUTICAL INDUSTRIES LIMITED
+
+ENDEREÇO: SURVEY N° 22 & 24, VILLAGE - UJETI, POST - BASKA - TAL - HALOL, DIST PANCHMAHAL - 389 350, GUJARAT STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000755
+
+EMPRESA SOLICITANTE: RANBAXY FARMACÊUTICA LTDA - CNPJ: 73.663.650/0001-90
+
+AUTORIZ/MS: 1023528 - EXPEDIENTE(s): 1379107/25-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções com Preparação Asséptica
+
+Data de Vencimento: 15/04/2028
+
+.........................................
+
+EMPRESA FABRICANTE: ASTRAZENECA AB
+
+ENDEREÇO: FORSKARGATAN 18, SE-151 36 SÖDERTÄLJE - PAÍS: SUÉCIA - CÓDIGO ÚNICO: A.000047
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 1280284/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Pós
+
+Data de Vencimento: 15/04/2028
+
+.........................................
+
+EMPRESA FABRICANTE: ASTRAZENECA AB
+
+ENDEREÇO: FORSKARGATAN 18, SE-151 36 SÖDERTÄLJE - PAÍS: SUÉCIA - CÓDIGO ÚNICO: A.000047
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 1280474/25-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Suspensões com Preparação Asséptica
+
+Produtos estéreis (Embalagem secundária)
+
+Data de Vencimento: 15/04/2028
+
+.........................................
+
+EMPRESA FABRICANTE: ASTRAZENECA AB
+
+ENDEREÇO: GÄRTUNAVÄGEN, SÖDERTÄLJE, 152 57 - PAÍS: SUÉCIA - CÓDIGO ÚNICO: A.000046
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 1280685/25-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos; Cápsulas
+
+Data de Vencimento: 15/04/2028
+
+.........................................
+
+EMPRESA FABRICANTE: ANDERSONBRECON INC.
+
+ENDEREÇO: 4545 ASSEMBLY DRIVE - ROCKFORD, ILLINOIS (IL) 61109 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000033
+
+EMPRESA SOLICITANTE: PTC FARMACEUTICA DO BRASIL LTDA. - CNPJ: 25.210.463/0001-09
+
+AUTORIZ/MS: 1157708 - EXPEDIENTE(s): 1258228/25-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+Data de Vencimento: 15/04/2028
+
+.........................................
+
+EMPRESA FABRICANTE: FERRING LÉCIVA A.S.
+
+ENDEREÇO: K RYBNÍKU 475, 252 42, JESENICE U PRAHY - PAÍS: TCHECA, REPÚBLICA - CÓDIGO ÚNICO: A.000229
+
+EMPRESA SOLICITANTE: LABORATÓRIOS FERRING LTDA - CNPJ: 74.232.034/0001-48
+
+AUTORIZ/MS: 1028762 - EXPEDIENTE(s): 1297231/25-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Suspensões
+
+Data de Vencimento: 15/04/2028
+
+.........................................
+
+EMPRESA FABRICANTE: UNIQUE PHARMACEUTICAL LABORATORIES
+
+ENDEREÇO: PLOT Nº4, PHASE IV, G.I.D.C., INDUSTRIAL AREA , PANOLI, 394116 - GUJARAT - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000716
+
+EMPRESA SOLICITANTE: FARMA VISION IMPORTAÇÃO E EXPORTAÇÃO DE MEDICAMENTOS LTDA - CNPJ: 09.058.502/0001-48
+
+AUTORIZ/MS: 1074651 - EXPEDIENTE(s): 1335098/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Grande Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Soluções com Esterilização Terminal; Soluções com Preparação Asséptica
+
+Data de Vencimento: 15/04/2028
+
+.........................................
+
+EMPRESA FABRICANTE: LUPIN LIMITED (BIOTECH DIVISION)
+
+ENDEREÇO: GAT. NO. 1156, 1157, 1158, 1159 AND 1160, VILLAGE GHOTAWADE, TALUKA-MULSHI PUNE 412115 MAHARASHTRA STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001377
+
+EMPRESA SOLICITANTE: BIOMM SA - CNPJ: 04.752.991/0001-10
+
+AUTORIZ/MS: 1133489 - EXPEDIENTE(s): 1313298/25-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 15/04/2028

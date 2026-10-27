@@ -1,0 +1,247 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.279, DE 3 DE JUNHO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2279"
+data: 2026-06-03
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 08/06/2026, seção 1, p. 305"
+data_publicacao: 2026-06-08
+edicao: "104"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.279-de-3-de-junho-de-2026-710490349"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 2.279, DE 3 DE JUNHO DE 2026
+
+RESOLUÇÃO-RE nº 2.279, DE 3 DE JUNHO DE 2026
+
+A GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos dispostos no art. 39, da Resolução da Diretoria Colegiada - RDC nº 497, de 20 de maio de 2021, resolve:
+
+**Art. 1º** Renovar a Certificação de Boas Práticas de Fabricação de Medicamentos das empresas constantes no anexo, por meio de sua renovação automática.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RENATA DE LIMA SOARES
+
+## ANEXO
+
+EMPRESA: BELFAR LTDA - CNPJ: 18.324.343/0001-77 - AUTORIZ/MS: 1005711
+
+ENDEREÇO: RUA ALAIR MARQUES RODRIGUES, N° 516
+
+MUNICÍPIO: BELO HORIZONTE - UF: MG - EXPEDIENTE: 1602895/25-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Colutórios; Elixires; Emulsões; Líquidos; Soluções; Suspensões; Xampus; Xaropes; Óleos
+
+Data de Vencimento: 10/06/2028
+
+.........................................
+
+EMPRESA: BELFAR LTDA - CNPJ: 18.324.343/0001-77 - AUTORIZ/MS: 1005711
+
+ENDEREÇO: RUA ALAIR MARQUES RODRIGUES, N° 516
+
+MUNICÍPIO: BELO HORIZONTE - UF: MG - EXPEDIENTE: 1603111/25-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos; Cápsulas; Pastilhas; Pós
+
+Sólidos não estéreis (Embalagem secundária)
+
+Data de Vencimento: 10/06/2028
+
+.........................................
+
+EMPRESA: BELFAR LTDA - CNPJ: 18.324.343/0001-77 - AUTORIZ/MS: 1005711
+
+ENDEREÇO: RUA ALAIR MARQUES RODRIGUES, N° 516
+
+MUNICÍPIO: BELO HORIZONTE - UF: MG - EXPEDIENTE: 1602882/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis; Pastas; Pomadas
+
+Data de Vencimento: 10/06/2028
+
+.........................................
+
+EMPRESA FABRICANTE: TRANSPHARM CANADA INC
+
+ENDEREÇO: 55 TOWN CENTRE COURT, SUITE 900, TORONTO, ONTARIO M1P 4X4 - PAÍS: CANADÁ - CÓDIGO ÚNICO: A.001594
+
+EMPRESA SOLICITANTE: VERDEMED FARMACEUTICA LTDA - CNPJ: 27.218.747/0001-77
+
+AUTORIZ/MS: 1165995 - EXPEDIENTE(s): 1230768/25-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+Data de Vencimento: 10/06/2028
+
+.........................................
+
+EMPRESA FABRICANTE: TRANSPHARM CANADA INC
+
+ENDEREÇO: 55 TOWN CENTRE COURT, SUITE 900, TORONTO, ONTARIO M1P 4X4 - PAÍS: CANADÁ - CÓDIGO ÚNICO: A.001594
+
+EMPRESA SOLICITANTE: EUROFARMA LABORATORIOS S.A. - CNPJ: 61.190.096/0001-92
+
+AUTORIZ/MS: 1000438 - EXPEDIENTE(s): 1503248/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+Data de Vencimento: 10/06/2028
+
+.........................................
+
+EMPRESA FABRICANTE: YICHANG HUMANWELL PHARMACEUTICAL CO., LTD
+
+ENDEREÇO: NO.19, DALIAN ROAD, DEVELOPMENT ZONE, YICHANG, HUBEI - PAÍS: CHINA, REPÚBLICA POPULAR - CÓDIGO ÚNICO: A.001667
+
+EMPRESA SOLICITANTE: BRAINFARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA S.A - CNPJ: 05.161.069/0001-10
+
+AUTORIZ/MS: 1055849 - EXPEDIENTE(s): 1595976/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados
+
+Data de Vencimento: 10/06/2028
+
+.........................................
+
+EMPRESA FABRICANTE: ELI LILLY AND COMPANY
+
+ENDEREÇO: LILLY CORPORATE CENTER, INDIANAPOLIS, INDIANA (IN) 46285 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000204
+
+EMPRESA SOLICITANTE: ELI LILLY DO BRASIL LTDA - CNPJ: 43.940.618/0001-44
+
+AUTORIZ/MS: 1012603 - EXPEDIENTE(s): 1602608/25-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 10/06/2028
+
+.........................................
+
+EMPRESA FABRICANTE: DR. REDDY'S LABORATORIES LIMITED - UNIT VII
+
+ENDEREÇO: PLOT NO. P1 TO P9. PHASE III. DUVVADA, VSEZ, VISHAKHAPATNAM, ANDHRA PRADESH 530 046 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000194
+
+EMPRESA SOLICITANTE: DR. REDDYS FARMACÊUTICA DO BRASIL LTDA - CNPJ: 03.978.166/0001-75
+
+AUTORIZ/MS: 1051431 - EXPEDIENTE(s): 1532970/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 10/06/2028
+
+.........................................
+
+EMPRESA FABRICANTE: AESICA PHARMACEUTICALS GMBH
+
+ENDEREÇO: ALFRED-NOBEL-STR. 10 UND MITTELSTR. 15 - 40789 MONHEIM AM RHEIN, NORTH RHINE - WESTPHALIA - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000991
+
+EMPRESA SOLICITANTE: UCB BIOPHARMA LTDA. - CNPJ: 64.711.500/0001-14
+
+AUTORIZ/MS: 1023619 - EXPEDIENTE(s): 1596458/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+Data de Vencimento: 10/06/2028
+
+.........................................
+
+EMPRESA FABRICANTE: AESICA PHARMACEUTICALS GMBH
+
+ENDEREÇO: ALFRED-NOBEL-STR. 10 UND MITTELSTR. 15 - 40789 MONHEIM AM RHEIN, NORTH RHINE - WESTPHALIA - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000991
+
+EMPRESA SOLICITANTE: UCB BIOPHARMA LTDA. - CNPJ: 64.711.500/0001-14
+
+AUTORIZ/MS: 1023619 - EXPEDIENTE(s): 1597340/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis (Embalagem secundária)
+
+Data de Vencimento: 10/06/2028
+
+.........................................
+
+EMPRESA FABRICANTE: NORTH CHINA PHARMACEUTICAL CO., LTD
+
+ENDEREÇO: Nº 388 HEPING EAST ROAD, SHIJIAZHUANG, HEBEI PROVINCE, P.R. CHINA - PAÍS: CHINA, REPÚBLICA POPULAR - CÓDIGO ÚNICO: A.001484
+
+EMPRESA SOLICITANTE: INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 33.258.401/0001-03
+
+AUTORIZ/MS: 1000637 - EXPEDIENTE(s): 1416245/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Penicilínicos): Pós com Preparação Asséptica
+
+Data de Vencimento: 10/06/2028
+
+.........................................
+
+EMPRESA FABRICANTE: SUN PHARMACEUTICAL INDUSTRIES LTD.
+
+ENDEREÇO: INDUSTRIAL AREA 3 A.B. ROAD, DEWAS, 455 001, MADHYA PRADESH - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000520
+
+EMPRESA SOLICITANTE: RANBAXY FARMACÊUTICA LTDA - CNPJ: 73.663.650/0001-90
+
+AUTORIZ/MS: 1023528 - EXPEDIENTE(s): 1602771/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Carbapenêmicos): Pós com Preparação Asséptica
+
+Data de Vencimento: 10/06/2028
+
+.........................................
+
+EMPRESA FABRICANTE: LUPIN LIMITED
+
+ENDEREÇO: PLOT NO. 6A1, 6A2 SECTOR 17, SPECIAL ECONOMIC ZONE, MIHAN, NAGPUR 441108 MAHARASHTRA STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001660
+
+EMPRESA SOLICITANTE: MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. - CNPJ: 17.875.154/0001-20
+
+AUTORIZ/MS: 1009178 - EXPEDIENTE(s): 1608406/25-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+Data de Vencimento: 10/06/2028
+
+.........................................
+
+EMPRESA FABRICANTE: LEK PHARMACEUTICALS D.D.
+
+ENDEREÇO: VEROVSKOVA ULICA 57, SI-1526, LJUBLJANA - PAÍS: ESLOVÊNIA - CÓDIGO ÚNICO: A.000366
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 1568326/25-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Grande Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Data de Vencimento: 10/06/2028
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON PHARMACEUTICALS INC
+
+ENDEREÇO: 2110 EAST GALBRAITH ROAD, CINCINNATI, OHIO (OH) 45237 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000480
+
+EMPRESA SOLICITANTE: UCB BIOPHARMA LTDA. - CNPJ: 64.711.500/0001-14
+
+AUTORIZ/MS: 1023619 - EXPEDIENTE(s): 1596466/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+Data de Vencimento: 10/06/2028
+
+.........................................
+
+EMPRESA FABRICANTE: SAMSUNG BIOLOGICS CO. LTD.
+
+ENDEREÇO: 300, SONGDO BIO-DAERO, YEONSU-GU, INCHEON, 21987 - PAÍS: CORÉIA DO SUL - CÓDIGO ÚNICO: A.001327
+
+EMPRESA SOLICITANTE: CELLTRION HEALTHCARE DISTRIBUICAO DE PRODUTOS FARMACEUTICOS DOS BRASIL LTDA - CNPJ: 05.452.889/0001-61
+
+AUTORIZ/MS: 1092163 - EXPEDIENTE(s): 1537124/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Grande Volume com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 10/06/2028

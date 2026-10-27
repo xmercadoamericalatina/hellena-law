@@ -1,0 +1,136 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.801, DE 26 DE SETEMBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3801"
+data: 2025-09-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 29/09/2025, seção 1, p. 108"
+data_publicacao: 2025-09-29
+edicao: "185"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.801-de-26-de-setembro-de-2025-658741948"
+baixado_em: 2026-10-16
+sha256_html_fonte: b8458b3888934a199db259021051aa62cb730b8556ef25e323ea86b56c15d3f5
+---
+# RESOLUÇÃO-RE nº 3.801, DE 26 DE SETEMBRO DE 2025
+
+RESOLUÇÃO-RE nº 3.801, DE 26 DE SETEMBRO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+CONTLOG LOGISTICA E COMERCIO EXTERIOR LTDA / 16.519.945/0001-54
+
+25351.666614/2022-13 / 1286285
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 1154943259
+
+--------------------------------------
+
+L F HOSPITALAR PRODUTOS PARA SAUDE LTDA / 44.922.731/0001-60
+
+25351.215691/2022-17 / 1278077
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 1276552254
+
+--------------------------------------
+
+SERVIMED COMERCIAL LTDA / 44.463.156/0024-70
+
+25351.330736/2015-22 / 1142540
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 1151412252
+
+--------------------------------------
+
+L F COMERCIO DE PRODUTOS HOSPITALARES E SERVICOS DE CONSTRUCAO LTDA / 60.531.942/0001-28
+
+25351.084299/2025-54 / 1407924
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1156055253
+
+--------------------------------------
+
+M2LIFE COMERCIAL IMPORTADORA E EXPORTADORA LTDA / 30.820.069/0001-22
+
+25351.135776/2025-57 / 1413890
+
+DISTRIBUIR: MEDICAMENTO
+
+IMPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1150330252
+
+--------------------------------------
+
+AGW COMEX HOSPITALAR LTDA / 21.333.449/0001-41
+
+25351.092172/2022-66 / 1276275
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 1151206253
+
+--------------------------------------
+
+V P - MEDICAMENTOS - LTDA - ME / 73.318.693/0001-39
+
+25351.661397/2014-81 / 1125435
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 1151996254
+
+--------------------------------------
+
+ÁGUA MEL FARMACIA DE MANIPULAÇÃO LTDA - ME / 14.819.378/0001-26
+
+25351.253699/2013-82 / 1399129
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 1184491259

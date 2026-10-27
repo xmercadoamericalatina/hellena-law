@@ -1,0 +1,129 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.729, DE 6 DE MAIO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1729"
+data: 2025-05-06
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 07/05/2025, seção 1, p. 86"
+data_publicacao: 2025-05-07
+edicao: "84"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.729-de-6-de-maio-de-2025-627658896"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 1.729, DE 6 DE MAIO DE 2025
+
+RESOLUÇÃO-RE nº 1.729, DE 6 DE MAIO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+QUANTIQ DISTRIBUIDORA LTDA / 62.227.509/0043-88
+
+25351.359994/2024-02 / 1313477
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+FRACIONAR: INSUMOS FARMACÊUTICOS
+
+IMPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1249117241
+
+25351.359994/2024-02 / 1313477
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+FRACIONAR: INSUMOS FARMACÊUTICOS
+
+IMPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70807 - AE - ALTERAÇÃO - AMPLIAÇÃO DE CLASSE / 1441853243
+
+--------------------------------------
+
+CLAIR MARIA PASSARIN & CIA LTDA / 86.837.507/0001-10
+
+25023.105092/2009-11 / 1390580
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7024 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - RAZÃO SOCIAL / 0605214255
+
+--------------------------------------
+
+SUPER BOY EXPRESS - LTDA / 10.229.393/0001-63
+
+25351.869001/2023-17 / 1304692
+
+TRANSPORTAR: MEDICAMENTO
+
+70807 - AE - ALTERAÇÃO - AMPLIAÇÃO DE CLASSE / 0521468256
+
+--------------------------------------
+
+CITY MED DISTRIBUIDORA ATACADISTA LTDA / 37.733.984/0001-20
+
+25351.415462/2020-21 / 1246063
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70887 - AE - ALTERAÇÃO - ENDEREÇO, POR ATO PÚBLICO / 0483899259
+
+--------------------------------------
+
+lidera pharma distribuidora e importadora de produtos farmacêuticos e correlatos ltda / 51.634.803/0001-39
+
+25351.525967/2023-45 / 1297871
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+IMPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0522499252
+
+--------------------------------------
+
+duo hospitalar ltda / 41.993.340/0001-48
+
+25351.117205/2022-98 / 1276370
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0520625251

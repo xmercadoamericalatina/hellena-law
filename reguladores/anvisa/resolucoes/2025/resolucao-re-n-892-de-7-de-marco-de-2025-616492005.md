@@ -1,0 +1,231 @@
+---
+titulo: "RESOLUÇÃO-RE nº 892, DE 7 DE MARÇO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "892"
+data: 2025-03-07
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 10/03/2025, seção 1, p. 105"
+data_publicacao: 2025-03-10
+edicao: "46"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-892-de-7-de-marco-de-2025-616492005"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 892, DE 7 DE MARÇO DE 2025
+
+RESOLUÇÃO-RE nº 892, DE 7 DE MARÇO DE 2025
+
+O GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021,
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+Marcus Aurélio Miranda de Araújo
+
+## ANEXO
+
+EMPRESA: ALLERGAN PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 43.426.626/0009-24 - AUTORIZ/MS: 1001478
+
+ENDEREÇO: AVENIDA GUARULHOS, N° 3272
+
+MUNICÍPIO: GUARULHOS - UF: SP - EXPEDIENTE: 0980724/24-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções com Preparação Asséptica; Suspensões com Preparação Asséptica
+
+.........................................
+
+EMPRESA: LABORATÓRIO QUÍMICO FARMACÊUTICO BERGAMO LTDA - CNPJ: 61.282.661/0001-41 - AUTORIZ/MS: 1006461
+
+ENDEREÇO: RUA RAFAEL DE MARCO, N° 43
+
+MUNICÍPIO: TABOÃO DA SERRA - UF: SP - EXPEDIENTE: 1146587/24-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA: LABORATÓRIO QUÍMICO FARMACÊUTICO BERGAMO LTDA - CNPJ: 61.282.661/0001-41 - AUTORIZ/MS: 1006461
+
+ENDEREÇO: RUA RAFAEL DE MARCO, N° 43
+
+MUNICÍPIO: TABOÃO DA SERRA - UF: SP - EXPEDIENTE: 1146020/24-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA: WHITE MARTINS GASES INDUSTRIAIS LTDA - CNPJ: 35.820.448/0030-70 - AUTORIZ/MS: 2200001
+
+ENDEREÇO: RUA CRISTIANO FRANCA TEIXEIRA GUIMARAES, 50, PORTARIA A BLOCO 5
+
+MUNICÍPIO: CONTAGEM - UF: MG - EXPEDIENTE: 0938988/24-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais (Embalagem primária): Gás
+
+.........................................
+
+EMPRESA FABRICANTE: GEDEON RICHTER PLC.
+
+ENDEREÇO: GYÖMRÖI ÚT 19-21, BUDAPEST, 1103 - PAÍS: HUNGRIA - CÓDIGO ÚNICO: A.000245
+
+EMPRESA SOLICITANTE: GEDEON RICHTER DO BRASIL IMPORTADORA, EXPORTADORA E DISTRIBUIDORA S.A. - CNPJ: 12.134.906/0002-69
+
+AUTORIZ/MS: 1091293 - EXPEDIENTE(s): 0807262/24-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+Sólidos não estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: SERVIPAC
+
+ENDEREÇO: COURS OFFENBACH, ROUTE DE MONTÉLIER, VALENCE, 26000 - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.001552
+
+EMPRESA SOLICITANTE: CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. - CNPJ: 44.734.671/0001-51
+
+AUTORIZ/MS: 1002981 - EXPEDIENTE(s): 1075482/24-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: ALFASIGMA S.P.A.
+
+ENDEREÇO: VIA ENRICO FERMI, 1 - 65020 ALANNO (PE) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000020
+
+EMPRESA SOLICITANTE: CHIESI FARMACÊUTICA LTDA - CNPJ: 61.363.032/0001-46
+
+AUTORIZ/MS: 1000580 - EXPEDIENTE(s): 1182174/24-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: ZAMBON S.P.A.
+
+ENDEREÇO: VIA DELLA CHIMICA, 9 - 36100 VICENZA (VI) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000646
+
+EMPRESA SOLICITANTE: ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. - CNPJ: 61.100.004/0001-36
+
+AUTORIZ/MS: 1000841 - EXPEDIENTE(s): 1001339/24-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Efervescentes; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: CENEXI - LABORATOIRES THISSEN S. A.
+
+ENDEREÇO: RUE DE LA PAPYRÉE 2-4-6, BRAINE-L´ALLEUD, 1420 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000345
+
+EMPRESA SOLICITANTE: PINT PHARMA PRODUTOS MEDICO-HOSPITALARES E FARMACEUTICOS LTDA - CNPJ: 21.896.000/0001-91
+
+AUTORIZ/MS: 1139004 - EXPEDIENTE(s): 1138122/24-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: HALO PHARMACEUTICAL INC
+
+ENDEREÇO: 30 NORTH JEFFERSON RD, WHIPPANY, NEW JERSEY (NJ) 07981 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001549
+
+EMPRESA SOLICITANTE: VERTEX FARMACEUTICA DO BRASIL LTDA. - CNPJ: 21.798.065/0001-02
+
+AUTORIZ/MS: 1138239 - EXPEDIENTE(s): 1173491/24-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Granulados
+
+.........................................
+
+EMPRESA FABRICANTE: BSP PHARMACEUTICALS S.P.A.
+
+ENDEREÇO: VIA APPIA KM 65,561 (LOC. LATINA SCALO) - 04013 LATINA (LT) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000688
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 1082782/24-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: FAPASA - FARMACEUTICA PARAGUAYA S.A
+
+ENDEREÇO: WALDINO RAMÓN LOVERA Y DEL CARMEN - FDO. DE LA MORA - PAÍS: PARAGUAI - CÓDIGO ÚNICO: A.000223
+
+EMPRESA SOLICITANTE: ADIUM S.A. - CNPJ: 55.980.684/0001-27
+
+AUTORIZ/MS: 1022141 - EXPEDIENTE(s): 1029826/24-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: JANSSEN CILAG S.P.A.
+
+ENDEREÇO: VIA C.JANSSEN (LOC. BORGO S. MICHELE) - 04100 LATINA (LT) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000327
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 1217211/24-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: BAYER DE MEXICO, S.A. DE C.V.
+
+ENDEREÇO: CARRETERA MEXICO - TOLUCA KM 52.5, C.P. 52000, LERMA - PAÍS: MÉXICO - CÓDIGO ÚNICO: A.000084
+
+EMPRESA SOLICITANTE: BAYER S.A. - CNPJ: 18.459.628/0001-15
+
+AUTORIZ/MS: 1070568 - EXPEDIENTE(s): 0980746/24-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Efervescentes
+
+Sólidos não estéreis (Embalagem primária; Embalagem secundária): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: UCB FARCHIM SA
+
+ENDEREÇO: Z.I. DU PLANCHY, CHEMIN DE CROIX BLANCHE 10, 1630 BULLE - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.000616
+
+EMPRESA SOLICITANTE: UCB BIOPHARMA LTDA. - CNPJ: 64.711.500/0001-14
+
+AUTORIZ/MS: 1023619 - EXPEDIENTE(s): 1195101/24-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: BENUVIA OPERATIONS, LLC
+
+ENDEREÇO: 3950 N MAYS ST, ROUND ROCK, TEXAS (TX) 78665 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001683
+
+EMPRESA SOLICITANTE: FARMAUSA PHARMACEUTICAL LTDA. - CNPJ: 37.124.240/0001-08
+
+AUTORIZ/MS: 1252742 - EXPEDIENTE(s): 0842801/23-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+.........................................
+
+EMPRESA FABRICANTE: SHANDONG ANXIN PHARMACEUTICAL CO. LTD
+
+ENDEREÇO: NO. 849, DONGJIA TOWN, LICHENG DISTRICT, JINAN CITY, SHANDONG PROVINCE - PAÍS: CHINA, REPÚBLICA POPULAR - CÓDIGO ÚNICO: A.001181
+
+EMPRESA SOLICITANTE: LABORATÓRIO TEUTO BRASILEIRO S/A - CNPJ: 17.159.229/0001-76
+
+AUTORIZ/MS: 1003707 - EXPEDIENTE(s): 1475125/23-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Penicilínicos) (Granel): Pós Liofilizados

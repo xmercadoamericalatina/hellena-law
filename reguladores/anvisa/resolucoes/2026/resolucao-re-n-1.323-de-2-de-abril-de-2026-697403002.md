@@ -1,0 +1,429 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.323, DE 2 DE ABRIL DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "1323"
+data: 2026-04-02
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 06/04/2026, seção 1, p. 189"
+data_publicacao: 2026-04-06
+edicao: "64"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.323-de-2-de-abril-de-2026-697403002"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 1.323, DE 2 DE ABRIL DE 2026
+
+RESOLUÇÃO-RE Nº 1.323, DE 2 DE ABRIL DE 2026
+
+O GERENTE-GERAL DE COSMÉTICOS E SANEANTES DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Cancelar os processos dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONçALVES ARAúJO RIOS
+
+## ANEXO
+
+NOME DA EMPRESA/ CNPJ
+
+NOME DO PRODUTO E MARCA
+
+NÚMERO DE PROCESSO
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+APINIL INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA / 08.623.125/0001-80
+
+Perfume de Calcinha Menta - Apinil Cosméticos
+
+25351.359033/2024-90
+
+PERFUME DE CALCINHA MELINDA - APINIL COSMÉTICOS
+
+25351.364188/2024-48
+
+Perfume de Calcinha Babbaloko Tutti-Fruitt - Apinil Cosméticos
+
+25351.401801/2023-34
+
+Perfume de Calcinha Babbaloko Uva - Apinil Cosméticos
+
+5351.401921/2023-31
+
+Perfume de Calcinha Baunilha - Apinil Cosméticos
+
+25351.402013/2023-65
+
+Perfume de Calcinha Cereja - Apinil Cosméticos
+
+25351.402038/2023-69
+
+Perfume de Calcinha Melancia
+
+25351.521764/2021-18
+
+Perfume de Calcinha Morango Champagne
+
+25351.521766/2021-15
+
+Perfume de Calcinha Chocolate Nutela
+
+25351.521877/2021-13
+
+Perfume de Calcinha Maçã Do Amor
+
+25351.521878/2021-68
+
+----------------------------------
+
+BOTANIC DO BRASIL COSMÉTICOS LTDA ME / 16.872.196/0001-44
+
+LIMP CALCINHA HOT DREAM
+
+25351.798692/2018-08
+
+----------------------------------
+
+Cosmaidi Indústria de Cosmeticos Ltda Me / 17.743.399/0001-01
+
+Pomada Alívio da Pele Alegria
+
+25351.043359/2025-89
+
+----------------------------------
+
+F.S. FOREST SUN INDUSTRIA E COM. DE IMP. E EXP. LTDA / 41.700.984/0001-09
+
+CALCINHA PARFUM MILLION GOLD / FOREST SUN
+
+25351.145544/2022-64
+
+CALCINHA PARFUM MORANGO C/ CHAMPANHE FOREST SUN
+
+25351.145545/2022-17
+
+CALCINHA PARFUM ALGODÃO DOCE / FOREST SUN /
+
+25351.145549/2022-97
+
+CALCINHA PARFUM LA VIA BELLA / FOREST SUN
+
+25351.145553/2022-55
+
+CALCINHA PARFUM FLOR ALGODÃO/ FOREST SUN
+
+25351.145558/2022-88
+
+----------------------------------
+
+GIOVANNI DO PRADO BARBOSA ME / 18.813.483/0001-09
+
+SPCY PERFUME DE CALCINHA VIDARE
+
+25351.452996/2024-61
+
+----------------------------------
+
+GLOBALPRO COSMETICOS LTDA / 31.664.094/0001-27
+
+PERFUME DE CALCINHA CHICLETE SEXY FANTASY
+
+25351.237214/2023-85
+
+PERFUME DE CALCINHA CHOCOLATE SEXY FANTASY
+
+25351.237215/2023-20
+
+PERFUME DE CALCINHA MENTA SEXY FANTASY
+
+25351.237216/2023-74
+
+PERFUME DE CALCINHA MORANGO SEXY FANTASY
+
+25351.237411/2023-02
+
+PERFUME DE CALCINHA PHERO
+
+25351.213796/2025-76
+
+----------------------------------
+
+JOLYE INDUSTRIA E COMERCIO DE COSMETICOS -LTDA ME/ 30.974.046/0001-72
+
+GEL DE MASSAGEM BIA CARE MENTOL
+
+25351.081833/2019-22
+
+GEL DE MASSAGEM BIA CARE CART TUBARÃO
+
+25351.081817/2019-30
+
+GEL DE MASSAGEM BIA CARE ARNICA
+
+25351.066509/2019-84
+
+GEL DE MASSAGEM BIA CARE B DE CARNEIRO
+
+25351.081773/2019-48
+
+----------------------------------
+
+HDF INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA / 28.738.254/0001-20
+
+Desodorante perfume de calcinha Mia Make
+
+25351.017953/2023-52
+
+----------------------------------
+
+LA NURA INDÚSTRIA E COMÉRCIO DE COSMÉTIOS LTDA / 07.213.487/0001-30
+
+Desodorante Perfume de Calcinha - Banho de Gata
+
+25351.916365/2021-31
+
+----------------------------------
+
+L`AROMATIC INDUSTRIA E COMERCIO LTDA / 17.470.182/0001-67
+
+SABONETE CREMOSO LIMPA CALCINHA - LIVET
+
+25351.602292/2018-06
+
+----------------------------------
+
+Laboratório Affinita Ltda / 02.012.476/0001-78
+
+PERFUME DE CALCINHA KITTY MORANGO DOCE
+
+25351.820954/2023-87
+
+----------------------------------
+
+LIVET INDUSTRIA E COMÉRCIO DE COSMÉTICOS LTDA / 21.166.776/0001-56
+
+LIMPA CALCINHA LIVET
+
+25351.019751/2022-64
+
+----------------------------------
+
+m.c.m industria de cosmeticos ltda / 49.815.708/0001-90
+
+CERA MODELADORA CRISTAL- BARUK
+
+25351.008976/2025-38
+
+----------------------------------
+
+MAKE PERFEITA MAQUIAGEM LTDA / 45.164.154/0001-57
+
+TS01110 LIP GLOSS
+
+25351.006178/2025-71
+
+TS01110 LIP GLOSS
+
+25351.233795/2025-48
+
+TS01184 LIP BALM
+
+25351.169866/2025-41
+
+TS01179 LIP OIL
+
+25351.193894/2025-80
+
+----------------------------------
+
+MARIA DAS GRAÇAS OLIVEIRA DA SILVA ME 05.969.513/0001-29
+
+ALTA DEFINIÇÃO PASTA MODELADORA ACABAMENTOS E PENTEADOS
+
+25351.027899/2025-15
+
+----------------------------------
+
+Nossa fabrica terceirização de cosméticos ltda / 31.743.223/0001-72
+
+PERFUME PARA CALCINHA TOP GEL MENTA
+
+25351.038217/2025-08
+
+----------------------------------
+
+ORTHO PAUHER INDUSTRIA COMERCIO E DISTRIBUICOES LTDA / 01.123.973/0001-80
+
+CALCINHA ULTRABSORVENTE ANTIBACTERIANA REUTILIZÁVEL - Lady Dry
+
+25351.284213/2024-19
+
+----------------------------------
+
+PLANTERS DO BRASIL INDUSTRIA E COMERCIO DE PRODUTOS FARMOQUIMICOS LTDA / 39.413.219/0001-5
+
+POMADA EM PÓ FÉRUS MAN
+
+25351.058617/2021-06
+
+----------------------------------
+
+QUÍMICA FUTURO INDÚSTRIA E COMÉRCIO LTDA ME / 65.392.797/0
+
+Limpa Graxa Futuro Rosa
+
+25351.282507/2016-79
+
+Limpa Graxa Futuro Branco
+
+25351.282577/2016-41
+
+----------------------------------
+
+RENOVATEC COSMÉTICOS LTDA / 41.483.529/0001-90
+
+ESSÊNCIA DESODORIZADORA PARA CALCINHAS ADORE MISS POP
+
+25351.096027/2023-35
+
+ESSÊNCIA DESODORIZADORA PARA CALCINHAS CANDY MISS POP
+
+25351.096159/2023-67
+
+ESSÊNCIA DESODORIZADORA PARA CALCINHAS LOVE LOVE MISS POP
+
+25351.096167/2023-11
+
+ESSÊNCIA DESODORIZADORA PARA CALCINHAS G E D MISS POP
+
+25351.096180/2023-62
+
+ESSÊNCIA DESODORIZADORA PARA CALCINHAS GABI MISS POP
+
+25351.096193/2023-31
+
+----------------------------------
+
+SOFISTICATTO INDÚSTRIA E COMÉRCIO E EXPORTAÇÃO DE COSMÉTICOS LTDA / 05.451.985/0001-95
+
+La Passion Meu Segredo Perfume de Calcinha Sensualize - Sofisticatto
+
+25351.194061/2023-74
+
+La Passion Meu Segredo Perfume de Calcinha Amor Próprio - Sofisticatto
+
+25351.194114/2023-57
+
+La Passion Meu Segredo Perfume de Calcinha Madame S - Sofisticatto
+
+25351.604966/2023-66
+
+---------------------------------
+
+SUAVE FRAGRANCE INDUSTRIA E COMERCIO DE COSMETICOS LTDA / 26.874.644/0001-00
+
+PERFUME DE CALCINHA FUEGO SUAVE FRAGRANCE
+
+25351.589517/2023-81
+
+PERFUME DE CALCINHA SEDUCTION SUAVE FRAGRANCE
+
+25351.589518/2023-25
+
+PERFUME DE CALCINHA SECRETS SUAVE FRAGRANCE
+
+25351.589768/2023-65
+
+PERFUME DE CALCINHA NOTAS DE DESEJO - FAVORITA
+
+25351.943941/2024-66
+
+----------------------------------
+
+TAHOMA INDUSTRIA E COMERCIO DE COSMÉTICOS LTDA / 08.758.098/0001-52
+
+PERFUME DE CALCINHA BEIJÁVEL UVA - BANHO DE GATA
+
+25351.170948/2022-96
+
+PERFUME DE CALCINHA BEIJÁVEL MORANGO - BANHO DE GATA
+
+25351.170960/2022-09
+
+PERFUME DE CALCINHA BEIJÁVEL TUTTI-FRUTTI - BANHO DE GATA
+
+25351.171028/2022-95
+
+PERFUME DE CALCINHA BEIJÁVEL CARAMELO - BANHO DE GATA
+
+25351.171043/2022-33
+
+PERFUME DE CALCINHA BEIJÁVEL MENTA - BANHO DE GATA
+
+25351.171044/2022-88
+
+PERFUME DE CALCINHA BEIJÁVEL CHOCOMENTA - BANHO DE GATA
+
+25351.171046/2022-77
+
+PERFUME DE CALCINHA GEL - BANHO DE GATA
+
+25351.314423/2023-50
+
+Perfume de calcinha Joop - Banho de Gata
+
+25351.222575/2021-65
+
+Perfume de calcinha VS Bombshell - Banho de Gata
+
+25351.222592/2021-01
+
+Perfume de calcinha Tresor - Banho de Gata
+
+25351.222595/2021-36
+
+Perfume de calcinha Light Blue - Banho de Gata
+
+25351.222599/2021-14
+
+Perfume de calcinha Very Irresistible - Banho de Gata
+
+25351.222624/2021-60
+
+Perfume de calcinha CH - Banho de Gata
+
+25351.222689/2021-13
+
+----------------------------------
+
+TREZZO INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA / 03.011.083/0001-02
+
+SHAMPOO 3X1 HOMENS VITISS
+
+25351.034480/2022-77
+
+----------------------------------
+
+VENEZA - INDUSTRIA E COMERCIO DE COSMETICOS LTDA / 02.705.260/0001-98
+
+DILUENTE TATUAGEM SUPERINK
+
+25351.214690/2023-28
+
+----------------------------------
+
+VIDAR COSMÉTICOS LTDA / 08.231.786/0001-60
+
+Perfume de calcinha VELVET CHERRY - MAESTÁ
+
+25351.039996/2026-31
+
+Perfume de calcinha BUBBLE SECRETS - MAESTÁ
+
+25351.040067/2026-75
+
+Perfume de calcinha ROSÉ PRIVÉE - MAESTÁ
+
+25351.040065/2026-86

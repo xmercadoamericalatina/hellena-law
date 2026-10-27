@@ -1,0 +1,1246 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.520, DE 11 DE SETEMBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3520"
+data: 2025-09-11
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 12/09/2025, seção 1, p. 198"
+data_publicacao: 2025-09-12
+edicao: "174"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.520-de-11-de-setembro-de-2025-655224234"
+baixado_em: 2026-10-16
+sha256_html_fonte: ab9cfbc1c1ed2f158b6db7a3e090ee81fe987dd525734d52707b9ed29585d985
+---
+# RESOLUÇÃO-RE nº 3.520, DE 11 DE SETEMBRO DE 2025
+
+RESOLUÇÃO-RE nº 3.520, DE 11 DE SETEMBRO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Cancelar as Autorizações de Funcionamento e Autorizações Especiais constantes no anexo desta Resolução.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+LEM COMERCIO DE MEDICAMENTOS E PERFUMARIA LTDA / 32.599.548/0002-77
+
+25351.124825/2021-01 / 7836437
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1205257250
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGARIA NALU LTDA / 26.625.803/0005-59
+
+25351.215883/2023-04 / 7980360
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0981957251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+RAQUEL VITTA BOTEON GOLDAN ME / 15.186.496/0001-07
+
+25351.005569/2013-04 / 2068594
+
+729 - AFE - CANCELAMENTO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE / 1023495252
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+GASLIVE IMPORTAÇÃO E EXPORTAÇÃO DE PRODUTOS MÉDICOS LTDA / 16.686.026/0003-37
+
+25351.099800/2024-04 / 8289045
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 1020664258
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FARMÁCIA L A LTDA / 32.425.712/0001-49
+
+25351.212661/2002-05 / 0115081
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0955510252
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+PB FARMA LTDA / 58.030.177/0001-10
+
+25351.449784/2024-05 / 5151099
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1118365259
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+HRJ DISTRIBUIDORA LTDA / 20.064.155/0001-07
+
+25351.730921/2017-06 / 1173380
+
+70802 - AFE - CANCELAMENTO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS / 1111135258
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DENTAL BRILHO COMERCIO DE PRODUTOS ODONTOLOGICOS LTDA / 18.715.879/0001-13
+
+25351.224302/2024-06 / 8291798
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0965481255
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+RIBEIRO AMORIM &PINHEL LTDA / 26.194.552/0001-71
+
+25351.292355/2021-07 / 4038682
+
+729 - AFE - CANCELAMENTO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE / 1023215250
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGA FREITAS LTDA / 59.238.220/0001-09
+
+25351.211001/2002-07 / 0125441
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1130132251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FARMÁCIA HENRILIMA LTDA / 03.585.769/0001-07
+
+25351.027844/2003-08 / 0347972
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1008454257
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+NAR SUPRIMENTOS MÉDICOS LTDA / 05.994.954/0001-80
+
+25351.072546/2017-08 / 2092189
+
+729 - AFE - CANCELAMENTO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE / 1082860255
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+MITSUI & Co (Brasil) SA / 61.139.697/0001-70
+
+25351.330558/2021-09 / 4038344
+
+729 - AFE - CANCELAMENTO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE / 0971820252
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+ALCON BRASIL CUIDADOS COM A SAÚDE LTDA / 32.929.819/0002-05
+
+25351.548065/2019-09 / 1194511
+
+70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 1069566250
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+ZAVARIZE & SANTOS FARMÁCIA LTDA / 07.208.373/0001-00
+
+25351.061844/2013-09 / 1397708
+
+70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 1007328258
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+CHRON EPIGEN INDÚSTRIA E COMÉRCIO LTDA / 04.415.365/0001-38
+
+25351.033369/2003-09 / 8016465
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 1017539251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+PRODUTOS BIO E SUSTENTAVEIS BR LTDA / 38.826.156/0001-07
+
+25351.110320/2023-12 / 4054561
+
+729 - AFE - CANCELAMENTO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE / 1150364254
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+WR FARMACIA DE MANIPULAÇÕES LTDA / 11.142.600/0001-00
+
+25351.021975/2015-15 / 7359289
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1124577254
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+J R DE CASTRO / 19.577.383/0001-93
+
+25351.267730/2024-15 / 5098138
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1008470252
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FEDEX BRASIL LOGISTICA E TRANSPORTE LTDA / 10.970.887/0013-38
+
+25351.692649/2015-16 / 1149946
+
+70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 1122293259
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+BITTOLDI PRODUTOS HOSPITALARES LTDA / 54.164.210/0001-44
+
+25351.420539/2024-16 / 1319361
+
+70802 - AFE - CANCELAMENTO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS / 0988198258
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+Drogaria Flamboyant LTDA / 30.698.951/0001-47
+
+25351.243352/2019-17 / 7660473
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1030178259
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+HRJ DISTRIBUIDORA LTDA / 20.064.155/0001-07
+
+25351.910678/2016-18 / 8134706
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 1111091251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+MARCELA DE MORAES OURIQUE & CIA LTDA / 02.671.419/0003-62
+
+25351.391547/2017-19 / 1168195
+
+70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 0998992259
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGARIA TIRADENTES DE VENCESLAU LTDA. / 04.851.602/0001-03
+
+25351.659878/2013-20 / 7020950
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1124665251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+INB TECHNOSCIENCE LTDA / 29.526.510/0001-89
+
+25351.230654/2022-21 / 8255209
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 1032398256
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FARMÁCIA LIMA JUNIOR LTDA - ME / 01.760.939/0001-17
+
+25351.689284/2014-24 / 7327167
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0971077258
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+CRS DROGARIA LTDA / 42.167.661/0001-56
+
+25351.618156/2021-25 / 7815456
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1012040259
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+T. RIBEIRO SANTOS E CIA LTDA / 31.586.143/0003-12
+
+25351.073309/2025-26 / 1408400
+
+70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 1148306251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FARMACIA DIARIAMENTE COMERCIO DE MEDICAMENTOS LTDA / 05.240.070/0027-70
+
+25351.346714/2022-26 / 7930830
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0939883252
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+CM CAMPINAS MEDICAMENTOS ESPECIAIS LTDA. / 11.371.888/0001-95
+
+25351.042330/2014-27 / 7096852
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1008432253
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+CRK FARMA LTDA / 57.016.372/0001-23
+
+25351.417306/2024-28 / 5132057
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1007312254
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+C.A.S. COMERCIO DE MEDICAMENTOS LTDA / 05.465.757/0002-55
+
+25351.126076/2022-29 / 7920071
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1149409258
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+NAGILA MARIA CHAVES RIBEIRO LTDA / 54.232.672/0001-51
+
+25351.119439/2024-31 / 5083225
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0935597255
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+GODAL DISTRIBUIDORA DE PRODUTOS CIRURGICOS LTDA / 42.296.880/0001-35
+
+25351.076185/2025-31 / 8317354
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 1089003251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+UNIDOCKS ASSESSORIA E LOGÍSTICA DE MATERIAIS LTDA / 00.233.065/0041-74
+
+25351.227046/2019-33 / 8182252
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 1090932251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+PRESCRITA MEDICAMENTOS LTDA / 10.515.224/0007-85
+
+25351.288365/2018-34 / 7585519
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1110061251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FARMACIA MEDEIROS LTDA / 10.502.926/0001-39
+
+25351.540695/2010-34 / 0698053
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1121779255
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+RTC MEDICAL MANUTENÇÃO E COMERCIO DE EQUIPAMENTOS E ACESSORIOS HOSPITALARES LTDA / 22.779.328/0001-90
+
+25351.804775/2018-35 / 3083830
+
+719 - AFE - CANCELAMENTO - SANEANTES DOMISSANITÁRIOS / 0996306251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+BORBA E THOMAS LTDA - ME / 19.806.463/0001-73
+
+25351.655130/2015-35 / 8129161
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0955623251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+ckm bruniczki ltda / 38.526.961/0002-98
+
+25351.125962/2022-35 / 7896267
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0960526251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+J S EQUIPAMENTOS MEDICOS HOSPITALARES LTDA - EPP / 10.770.079/0002-74
+
+25351.842824/2018-38 / 8176318
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 1202182259
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FARMA 10 PRODUTOS FARMACEUTICOS LTDA / 27.580.175/0002-52
+
+25351.342245/2024-38 / 5104488
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1048759253
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/1264-64
+
+25351.833707/2023-41 / 5054508
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1010243250
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+speed pharma drogaria ltda me / 24.629.407/0001-40
+
+25351.415715/2018-41 / 7608391
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1143324251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FERNANDEZ COMÉRCIO DE MEDICAMENTOS S.A / 93.641.710/0067-08
+
+25351.440769/2021-41 / 7805858
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0959007253
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+PMP DROGARIA E COMÉRCIO DE ELETRÔNICOS LTDA / 17.040.906/0114-10
+
+25351.316606/2018-42 / 7589447
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1202866255
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+LETICIA MARTINEZ DIAS & CIA LTDA / 32.068.195/0001-06
+
+25351.877918/2020-42 / 7748991
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1142568253
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGARIA MAKFARMA LTDA / 52.933.101/0001-19
+
+25351.794123/2023-42 / 5051333
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1141375257
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+RTC MEDICAL MANUTENÇÃO E COMERCIO DE EQUIPAMENTOS E ACESSORIOS HOSPITALARES LTDA / 22.779.328/0001-90
+
+25351.743764/2015-42 / 8131039
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 1125522259
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+YUKI N COLORS COSMETICOS LTDA / 29.747.860/0001-75
+
+25351.757488/2020-43 / 8206142
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 1073598250
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+CARVALHO & CIA. DROGARIA E MANIPULACAO LTDA. - ME / 14.103.585/0001-80
+
+25351.438588/2013-44 / 1113438
+
+70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 1073960251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+I. CARLOS DE SOUSA CARVALHO LTDA / 60.144.836/0001-91
+
+25351.086160/2025-45 / 5187593
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0962829251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+Aghineri Distribuidora de Cosméticos Ltda. / 32.670.115/0001-80
+
+25351.017716/2020-49 / 4022589
+
+729 - AFE - CANCELAMENTO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE / 1012542254
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FULLCARE IMPORTACAO E EXPORTACAO LTDA. / 13.063.014/0001-04
+
+25351.307971/2011-51 / 2059377
+
+729 - AFE - CANCELAMENTO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE / 1039881254
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+MGM FARMA LTDA / 02.476.399/0002-98
+
+25351.172189/2002-52 / 0057660
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1199777251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+BIOSAFE BRASIL DISTRIBUIDORA LTDA / 21.052.716/0001-02
+
+25351.767704/2014-52 / 8116169
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0992120250
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+CINQUE DROGARIA LUCELIA LTDA / 11.861.854/0001-89
+
+25351.511114/2013-54 / 7010203
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0957284250
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+BORBA E THOMAS LTDA - ME / 19.806.463/0001-73
+
+25351.256891/2017-54 / 7521246
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0956351255
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+JAJ COMERCIO DE PRODUTOS FARMACEUTICOS LTDA / 49.330.472/0001-00
+
+25351.475675/2023-54 / 7507584
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1140440250
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+SANEVITTA COMERCIO E REPRESENTACOES DE PRODUTOS MEDICOS LTDA / 21.995.406/0001-21
+
+25351.367268/2024-55 / 1314501
+
+70802 - AFE - CANCELAMENTO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS / 0992398258
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+TIM TRANSPORTES DE CARGA LTDA / 08.882.877/0001-65
+
+25351.441915/2015-59 / 1143116
+
+70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 1003504256
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+UNIDOCKS ASSESSORIA E LOGÍSTICA DE MATERIAIS LTDA / 00.233.065/0041-74
+
+25351.227067/2019-59 / 1187616
+
+70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 1090865252
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FARMACIA IRMA ROSALIA LTDA / 51.992.397/0001-86
+
+25351.721512/2023-59 / 5042991
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1022059254
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+MARCELA DE MORAES OURIQUE & CIA LTDA / 02.671.419/0003-62
+
+25351.148461/2017-60 / 7509740
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0998984256
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+BIZEZ DISTRIBUIDORA DE COSMÉTICOS LTDA / 36.526.869/0001-11
+
+25351.016880/2024-62 / 4066083
+
+729 - AFE - CANCELAMENTO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE / 1025959256
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+CKM BRUNICZKI LTDA / 38.526.961/0001-07
+
+25351.532556/2020-63 / 7795247
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0960672257
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+TIM TRANSPORTES DE CARGA LTDA / 08.882.877/0001-65
+
+25351.441853/2015-63 / 1143102
+
+70802 - AFE - CANCELAMENTO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS / 1003515258
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+PEGORARO HERNANDEZ COMERCIO DE PRODUTOS FARMACEUTICOS LTDA-ME / 14.927.368/0001-04
+
+25351.199001/2012-65 / 0842330
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1205104259
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+VIDA MEDICAMENTOS FARMA LTDA / 42.243.533/0001-44
+
+25351.228136/2021-66 / 7840688
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1043090258
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+COMERCIO DE MEDICAMENTOS BRAIR LTDA / 88.212.113/0771-53
+
+25351.593701/2018-68 / 7605654
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1148731253
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+IAG PHARMA DISTRIBUIDORA LTDA / 06.154.358/0001-55
+
+25351.022523/2005-71 / 1060069
+
+729 - AFE - CANCELAMENTO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE / 0978352254
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+25351.022523/2005-71 / 1060069
+
+70802 - AFE - CANCELAMENTO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS / 0978355253
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+R. S. MACIEL LTDA / 23.300.608/0001-37
+
+25351.700950/2015-73 / 7423990
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1126979252
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGARIA KABOD LTDA ME / 23.521.996/0001-86
+
+25351.100600/2017-74 / 7503608
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1123381259
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+NEUROPHARMA FARAMACEUTICA E BIOTECNOLOGIA LTDA / 14.141.981/0002-82
+
+25351.165045/2023-74 / 8267132
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 1029529256
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+T. RIBEIRO SANTOS E CIA LTDA / 31.586.143/0003-12
+
+25351.020476/2025-74 / 8311442
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 1148307257
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+Farma Borges LTDA / 51.070.984/0001-18
+
+25351.457717/2023-75 / 7280506
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1151735256
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+MKT DROGARIA E COMÉRCIO DE ELETRÔNICOS LTDA / 17.040.906/0085-40
+
+25351.450053/2017-75 / 7537110
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1202899251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+terminal tamandare medicamento ltda / 04.936.354/0001-01
+
+25351.483942/2014-76 / 7266048
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0964655250
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+ITS-MC SERVIÇOS LTDA EPP / 27.403.917/0001-93
+
+25351.126377/2018-76 / 8163559
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 0972589252
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+NAR SUPRIMENTOS MÉDICOS LTDA / 05.994.954/0001-80
+
+25351.472175/2012-76 / 1093354
+
+70802 - AFE - CANCELAMENTO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS / 1082918253
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+drogaria chaulet ltda / 55.218.933/0001-41
+
+25351.399468/2024-77 / 5128738
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0967929253
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGARIA E PERFUMARIA NOVA POPULAR LTDA ME / 21.787.970/0001-59
+
+25351.294974/2015-80 / 7388203
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1116712253
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+BEM MAIS FARMA LTDA / 47.358.611/0001-70
+
+25351.323980/2022-81 / 7929221
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1152869256
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+NAR SUPRIMENTOS MÉDICOS LTDA / 05.994.954/0001-80
+
+25351.659797/2007-81 / 3036393
+
+719 - AFE - CANCELAMENTO - SANEANTES DOMISSANITÁRIOS / 1082981257
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DEBORA CRISTINA DE F. ROSA PRODUTOS FARMACEUTICOS LTDA EPP / 04.537.595/0001-70
+
+25351.754744/2015-83 / 1149656
+
+70809 - AE - CANCELAMENTO - AUTORIZAÇÃO ESPECIAL / 1113448253
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGARIA NOSSA SENHORA APARECIDA DE RANCHARIA LTDA - EPP / 04.598.042/0001-27
+
+25351.715586/2013-84 / 7061570
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1121618251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FARMA SHALON LTDA / 42.262.161/0001-01
+
+25351.695085/2021-84 / 7821070
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1003139256
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FARMACIA E DROGARIA EXCLUSIVA LTDA / 31.880.698/0002-91
+
+25351.356637/2024-84 / 5105526
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0943240255
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+T. RIBEIRO SANTOS E CIA LTDA / 31.586.143/0003-12
+
+25351.020474/2025-85 / 1328132
+
+70802 - AFE - CANCELAMENTO - MEDICAMENTOS E/OU INSUMOS FARMACÊUTICOS / 1148315250
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+YUKI N COLORS COSMETICOS LTDA / 29.747.860/0001-75
+
+25351.757508/2020-86 / 4023644
+
+729 - AFE - CANCELAMENTO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE / 1073558258
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+CIRURGICA OMEGA LTDA / 27.241.523/0001-86
+
+25351.495184/2020-87 / 8201651
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 1145796257
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+WENDEL DA COSTA MARQUES LTDA / 47.710.209/0001-02
+
+25351.637137/2022-89 / 7952421
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1002420253
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+FERNANDEZ COMERCIO DE MEDICAMENTOS SA / 93.641.710/0052-21
+
+25351.702702/2019-91 / 7695864
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0959044256
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+Rafaella Correia Anacleto Estrela ME / 31.115.265/0001-69
+
+25351.521759/2019-91 / 7678365
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0956614256
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+CIMEX DISTRIBUIDORA DE COSMETICOS LTDA / 26.415.768/0001-10
+
+25351.403470/2022-96 / 4050361
+
+729 - AFE - CANCELAMENTO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE / 1021094251
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DROGARIA E PERFUMARIA CARBONO LTDA / 43.007.485/0001-58
+
+25351.867991/2021-97 / 7865094
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 1059256258
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+BELO DENTE IND. COM. IMP. E EXP. DE PRODUTOS ODONTOLÓGICOS LTDA. ME / 14.811.019/0001-22
+
+25351.681698/2012-98 / 8091287
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 1025489250
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+UNIMED DE OURINHOS COOPERATIVA DE TRABALHO MEDICO / 51.427.540/0004-30
+
+25351.003580/2003-99 / 0300644
+
+7044 - AFE - CANCELAMENTO - FARMÁCIAS E DROGARIAS / 0982321252
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+VANTAGE SPECIALTY CHEMICALS INSUMOS COSMÉTICOS E FARMACÊUTICOS LTDA. / 67.957.092/0001-73
+
+2127497 / 2025149
+
+729 - AFE - CANCELAMENTO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE / 1123925259
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.
+
+--------------------------------------
+
+DiaMed Latino América S.A. / 71.015.853/0001-45
+
+1472399 / 8000404
+
+877 - AFE - CANCELAMENTO - PRODUTOS PARA SAÚDE / 1029369259
+
+MOTIVO DO CANCELAMENTO:
+
+Cancelamento a pedido da empresa.

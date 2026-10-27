@@ -1,0 +1,93 @@
+---
+titulo: "RESOLUÇÃO-RE nº 490, DE 6 DE FEVEREIRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "490"
+data: 2025-02-06
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 07/02/2025, seção 1, p. 107"
+data_publicacao: 2025-02-07
+edicao: "27"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-490-de-6-de-fevereiro-de-2025-611341732"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 490, DE 6 DE FEVEREIRO DE 2025
+
+RESOLUÇÃO-RE nº 490, DE 6 DE FEVEREIRO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+SEMEAR MEDICAMENTOS ESPECIAIS LTDA / 55.234.459/0001-41
+
+25351.015792/2025-24 / 1327444
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0146291255
+
+--------------------------------------
+
+FARMACIA E MANIPULAÇÃO VITAE LTDA / 27.380.222/0001-33
+
+25351.015776/2025-31 / 1327566
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0146102258
+
+--------------------------------------
+
+TRANSPLEX TRANSPORTES DE CARGAS E LOGISTICA LTDA / 15.022.154/0006-66
+
+25351.015758/2025-50 / 1327549
+
+TRANSPORTAR: MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0145958256
+
+--------------------------------------
+
+MCG INDUSTRIA FARMACEUTICA E IMPORTAÇAO LTDA / 18.755.529/0001-80
+
+25351.015803/2025-76 / 1327552
+
+IMPORTAR: MEDICAMENTO
+
+706 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - IMPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0146508254
+
+--------------------------------------
+
+PHARMA MEDICAL COMERCIO DE PRODUTOS HOSPITALARES LTDA / 44.948.053/0001-04
+
+25351.016555/2025-81 / 1327475
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0152713255
+
+--------------------------------------
+
+TRANSPLEX TRANSPORTES DE CARGAS E LOGISTICA LTDA / 15.022.154/0005-85
+
+25351.015750/2025-93 / 1327427
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0145911250

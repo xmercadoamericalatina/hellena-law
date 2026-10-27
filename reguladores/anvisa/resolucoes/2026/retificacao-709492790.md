@@ -1,0 +1,71 @@
+---
+titulo: "RETIFICAÇÃO"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: ""
+data: 2026-06-01
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 01/06/2026, seção 1, p. 115"
+data_publicacao: 2026-06-01
+edicao: "101"
+fonte: "https://www.in.gov.br/web/dou/-/retificacao-709492790"
+baixado_em: 2026-10-15
+---
+# RETIFICAÇÃO
+
+RETIFICAÇÃO
+
+Na Resolução - RE N° 2.122, de 25 de maio de 2026, publicada no Diário Oficial da União nº 97, de 26 de maio de 2026, Seção 1, pág. 185, referente ao processo 25351813190202373,
+
+Onde se lê:
+
+EMS S/A 57507378000365
+
+SEMAGLUTIDA
+
+OZIVY 25351.813190/2023-73 06/2026
+
+12251 MEDICAMENTO NOVO - REGISTRO DE MEDICAMENTO NOVO (NOVO IFA ANÁLOGO) -VIA DE DESENVOLVIMENTO ABREVIADO 1358972/23-5
+
+1.0235.1473.001-8 24 Meses
+
+1,34 MG/ML SOL INJ SC CT CAR VD TRANS X 1,5 ML + CAN APLIC + 6 AGU
+
+1.0235.1473.002-6 24 Meses
+
+1,34 MG/ML SOL INJ SC CT 2 CAR VD TRANS X 1,5 ML + 2 CAN APLIC + 10 AGU
+
+1.0235.1473.003-4 24 Meses
+
+1,34 MG/ML SOL INJ SC CT CAR VD TRANS X 3 ML + CAN APLIC + 4 AGU
+
+1.0235.1473.004-2 24 Meses
+
+1,34 MG/ML SOL INJ SC CT 2 CAR VD TRANS X 3 ML + 2 CAN APLIC + 8 AGU
+
+Leia-se:
+
+EMS S/A 57507378000365
+
+SEMAGLUTIDA
+
+OZIVY 25351.813190/2023-73 05/2036
+
+12251 MEDICAMENTO NOVO - REGISTRO DE MEDICAMENTO NOVO (NOVO IFA ANÁLOGO) -VIA DE DESENVOLVIMENTO ABREVIADO 1358972/23-5
+
+1.0235.1473.001-8 24 Meses
+
+1,34 MG/ML SOL INJ SC CT CAR VD TRANS X 1,5 ML + CAN APLIC + 6 AGU
+
+1.0235.1473.002-6 24 Meses
+
+1,34 MG/ML SOL INJ SC CT 2 CAR VD TRANS X 1,5 ML + 2 CAN APLIC + 10 AGU
+
+1.0235.1473.003-4 24 Meses
+
+1,34 MG/ML SOL INJ SC CT CAR VD TRANS X 3 ML + CAN APLIC + 4 AGU
+
+1.0235.1473.004-2 24 Meses
+
+1,34 MG/ML SOL INJ SC CT 2 CAR VD TRANS X 3 ML + 2 CAN APLIC + 8 AGU

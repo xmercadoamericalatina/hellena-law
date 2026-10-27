@@ -1,0 +1,176 @@
+---
+titulo: "RESOLUÇÃO-RE nº 4.110, DE 15 DE OUTUBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "4110"
+data: 2026-10-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/10/2026, seção 1, p. 225"
+data_publicacao: 2026-10-19
+edicao: "197"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.110-de-15-de-outubro-de-2026-738847485"
+sha256_html_fonte: 26002719129ae960a2e22d8024f6bc633465e29c3ee2400dac3cc9c66cdd7919
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE nº 4.110, DE 15 DE OUTUBRO DE 2026
+
+RESOLUÇÃO-RE nº 4.110, DE 15 DE OUTUBRO DE 2026
+
+A GERENTE-GERAL SUBSTITUTA DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Renovar a Certificação de Boas Práticas de Fabricação de Medicamentos das empresas constantes no ANEXO.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+LIANA TIEKO EVANGELISTA KUSANO FONSECA
+
+## ANEXO
+
+EMPRESA FABRICANTE: LEK S.A
+
+ENDEREÇO: UL. PODLIPIE 16,95-010 STRYKÓW - PAÍS: POLÔNIA - CÓDIGO ÚNICO: A.001544
+
+EMPRESA SOLICITANTE: SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.286.647/0001-16
+
+AUTORIZ/MS: 1000472 - EXPEDIENTE(s): 0295019/26-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+Data de Vencimento: 30/09/2028
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT CTS, LLC
+
+ENDEREÇO: 10245 HICKMAN MILLS DR, KANSAS CITY, MISSOURI (MO) 64137 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001009
+
+EMPRESA SOLICITANTE: BEONE MEDICINES BRASIL LTDA - CNPJ: 30.763.301/0003-08
+
+AUTORIZ/MS: 1186425 - EXPEDIENTE(s): 0269816/26-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas
+
+Data de Vencimento: 04/11/2028
+
+.........................................
+
+EMPRESA: EMS S/A - CNPJ: 57.507.378/0006-08 - AUTORIZ/MS: 1002351
+
+ENDEREÇO: LOT POLO DE DESENVOLVIMENTO JUSCELINO KUBITSCHEK TRECHO 5 S/N CONJ 6 LOTE 1 A 10
+
+MUNICÍPIO: SANTA MARIA - UF: DF - EXPEDIENTE: 0362106/26-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis (Cefalosporínicos): Suspensões
+
+Data de Vencimento: 18/11/2028
+
+.........................................
+
+EMPRESA: EMS S/A - CNPJ: 57.507.378/0006-08 - AUTORIZ/MS: 1002351
+
+ENDEREÇO: LOT POLO DE DESENVOLVIMENTO JUSCELINO KUBITSCHEK TRECHO 5 S/N CONJ 6 LOTE 1 A 10
+
+MUNICÍPIO: SANTA MARIA - UF: DF - EXPEDIENTE: 0362107/26-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Cefalosporínicos): Comprimidos; Comprimidos Revestidos; Cápsulas
+
+Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+Data de Vencimento: 18/11/2028
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON ITALIA S.P.A
+
+ENDEREÇO: VIALE G.B. STUCCHI, 110 - 20900 MONZA (MB) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000477
+
+EMPRESA SOLICITANTE: BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA - CNPJ: 56.998.982/0001-07
+
+AUTORIZ/MS: 1001800 - EXPEDIENTE(s): 0440840/26-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+Data de Vencimento: 18/11/2028
+
+.........................................
+
+EMPRESA FABRICANTE: ALMAC PHARMA SERVICES LIMITED
+
+ENDEREÇO: SEAGOE INDUSTRIAL ESTATE, PORTADOWN, CRAIGAVON, BT63 5UA - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.000027
+
+EMPRESA SOLICITANTE: MOKSHA8 BRASIL INDUSTRIA E COMERCIO DE MEDICAMENTOS LTDA - CNPJ: 07.591.326/0001-80
+
+AUTORIZ/MS: 1064256 - EXPEDIENTE(s): 0383278/26-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+Data de Vencimento: 18/11/2028
+
+.........................................
+
+EMPRESA FABRICANTE: PFIZER MANUFACTURING DEUTSCHLAND GMBH
+
+ENDEREÇO: MOOSWALDALLEE 1, 79108, FREIBURG IM BREISGAU - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000495
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0434876/26-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+Data de Vencimento: 02/12/2028
+
+.........................................
+
+EMPRESA FABRICANTE: HOVIONE FARMACIÊNCIA, S.A.
+
+ENDEREÇO: QUINTA SÃO PEDRO, SETE CASAS, LOURES, 2674-506 - PAÍS: PORTUGAL - CÓDIGO ÚNICO: A.001293
+
+EMPRESA SOLICITANTE: VIATRIS FARMACEUTICA DO BRASIL LTDA - CNPJ: 11.643.096/0001-22
+
+AUTORIZ/MS: 1088307 - EXPEDIENTE(s): 0399423/26-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Pós
+
+Data de Vencimento: 02/12/2028
+
+.........................................
+
+EMPRESA FABRICANTE: FAES FARMA, S.A.
+
+ENDEREÇO: CALLE MÁXIMO AGUIRRE, 14, LEJONA 48940 (VIZCAYA) - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.000659
+
+EMPRESA SOLICITANTE: BIOLAB SANUS FARMACÊUTICA LTDA - CNPJ: 49.475.833/0001-06
+
+AUTORIZ/MS: 1009744 - EXPEDIENTE(s): 0510869/26-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas
+
+Data de Vencimento: 20/01/2029
+
+.........................................
+
+EMPRESA FABRICANTE: MILLMOUNT HEALTHCARE LIMITED
+
+ENDEREÇO: BLOCK-7, CITY NORTH BUSINESS CAMPUS, STAMULLEN, CO. MEATH, K32 YD60 - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.001227
+
+EMPRESA SOLICITANTE: BIOMARIN BRASIL FARMACÊUTICA LTDA - CNPJ: 08.002.360/0001-34
+
+AUTORIZ/MS: 1073334 - EXPEDIENTE(s): 0520237/26-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem secundária)
+
+Data de Vencimento: 20/01/2029
+
+.........................................
+
+EMPRESA: RIO BIOFARMA BRASIL LTDA - CNPJ: 41.738.591/0001-86 - AUTORIZ/MS: 1264753
+
+ENDEREÇO: ROD JORNALISTA FRANCISCO AGUIRRE PROENCA, KM 08 BLOCO 53
+
+MUNICÍPIO: HORTOLÂNDIA - UF: SP - EXPEDIENTE: 1035672/26-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 19/05/2029

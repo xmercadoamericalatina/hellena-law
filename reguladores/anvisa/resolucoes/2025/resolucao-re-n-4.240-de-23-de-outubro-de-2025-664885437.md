@@ -1,0 +1,162 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.240, DE 23 DE OUTUBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "4240"
+data: 2025-10-23
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 28/10/2025, seção 1, p. 83"
+data_publicacao: 2025-10-28
+edicao: "205"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.240-de-23-de-outubro-de-2025-664885437"
+baixado_em: 2026-10-16
+sha256_html_fonte: 19c9ed88d0b60cfb07978b5a2158caeb77f2fab33bd422044f58bf872e22bd0e
+---
+# RESOLUÇÃO-RE Nº 4.240, DE 23 DE OUTUBRO DE 2025
+
+RESOLUÇÃO-RE Nº 4.240, DE 23 DE OUTUBRO DE 2025
+
+GERENTE-GERAL DE COSMÉTICOS E SANEANTES DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Cancelar os processos dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONÇALVES ARAÚJO RIOS
+
+## ANEXO
+
+NOME DA EMPRESA/ CNPJ
+
+NOME DO PRODUTO E MARCA
+
+NÚMERO DE PROCESSO
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+C & R IND COM COSMETICOS LTDA / 00.700.191/0001-02
+
+Refresh Shampoo FIR
+
+25351.048698/2019-11
+
+------------------------------
+
+COSMONEW INDUSTRIA E COMERCIO DE COSMETICOS LTDA / 23.677.191/0001-26
+
+BOTOX-SMOOTH HAIR - OXILLIS
+
+25351.349098/2017-88
+
+------------------------------
+
+CROL CIÊNCIA COSMÉTICA LTDA - ME / 66.620.691/0001-34
+
+Óleo Lubrificante Lubrisa - Brisacare
+
+25351.046911/2025-91
+
+------------------------------
+
+FIGUEIRA E FELICIANO INDUSTRIA DE COSMETICOS LTDA / 21.085.169/0001-61
+
+LIPOTINA PROGRESSIVA CHICA BONITA PROFISSIONAL
+
+25351.710677/2020-52
+
+------------------------------
+
+GEO BEAUTY COSMETICOS LTDA / 10.915.632/0001-39
+
+CAPI HAIR - SHAMPOO HIDRATAÇÃO REVITALIZADORA BABOSA E MANDIOCA
+
+25351.086564/2024-58
+
+------------------------------
+
+KALYANDRA INDUSTRIA, COMERCIO, IMPORTACAO E EXPORTACAO LTDA / 54.268.123/0001-37
+
+ATIVADOR +LISO TÂNAGRA
+
+25351.798191/2023-81
+
+------------------------------
+
+LA VITTORIA INDUSTRIA E COMERCIO DE COSMETICOS LTDA / 11.273.230/0001-40
+
+CONDICIONADOR/MÁSCARA HIDRATANTE ÁSTER
+
+25351.906659/2024-06
+
+------------------------------
+
+MARCOS MARCIANO WAGNER EPP/ 15.542.217/0001-09
+
+GEL PARA MASSAGEM CORPORAL O INCRÍVEL DURÃO
+
+25351.597589/2019-15
+
+GEL PARA MASSAGEM CORPORAL IRON D'FERRODURO
+
+25351.600602/2019-21
+
+GEL PARA MASSAGEM CORPORAL TÁDURO
+
+25351.360808/2024-70
+
+GEL PARA MASSAGEM CORPORAL PIROCADURA SEGRED LOVE
+
+25351.312187/2023-37
+
+GEL PARA MASSAGEM CORPORAL PARACETADURO
+
+25351.398939/2024-20
+
+------------------------------
+
+NINE PLUS INDUSTRIA E COMERCIO DE COSMETICOS LTDA ME/ 38.134.158/0001-27
+
+MASCARA REPAIR GOLD ORGANIC DNINE 1L
+
+25351.389519/2024-52
+
+REGENERA TRATAMENTO ORGANICO DEWPRIME
+
+25351.023280/2025-31
+
+Intense Pro System Empodera Professional 1L
+
+25351.370662/2024-71
+
+Mascara Tratamento Paris Pro1L
+
+25351.453755/2024-30
+
+MÁSCARA D´TOX GOLD ORGANICO D´NINE
+
+25351.835315/2023-16
+
+MÁSCARA CAPILAR DOMONE ORGANIC 1L
+
+25351.028758/2024-39
+
+MASCARA DOMTOX CAPILAR ORGANIC 1KG
+
+25351.028769/2024-19
+
+REGENERA BTX ORGANICO DEWPRIME
+
+25351.023351/2025-04
+
+LALIXX BTX MASCARA CAPILAR 1KG
+
+25351.389530/2024-12
+
+BRUSHING TRATAMENT ORGANIC LALIXX LISS
+
+25351.390531/2024-18
+
+TRATAMENTO SUPREME HAIR 1L
+
+25351.389768/2024-48

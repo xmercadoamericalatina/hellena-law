@@ -1,0 +1,65 @@
+---
+titulo: "RETIFICAÇÃO"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Produtos de Terapias Avançadas"
+tipo: "Resolução"
+numero: ""
+data: 2026-06-15
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 15/06/2026, seção 1, p. 101"
+data_publicacao: 2026-06-15
+edicao: "109"
+fonte: "https://www.in.gov.br/web/dou/-/retificacao-712053633"
+baixado_em: 2026-10-15
+---
+# RETIFICAÇÃO
+
+RETIFICAÇÃO
+
+Na Resolução - RE nº 1.747, de 29 de abril de 2026, publicada no Diário Oficial da União nº 81, de 4 de maio de 2026, Seção 1, pág. 148
+
+Onde se lê:
+
+CIFARMA CIENTÍFICA FARMACÊUTICA LTDA 17562075000169
+
+SACCHAROMYCES BOULARDII - 17
+
+FLORENT 25000.046895/99-54 12/2035
+
+11988 PRODUTO BIOLÓGICO - ALTERAÇÃO PÓS-REGISTRO DE PROBIÓTICO 1766548/24-5
+
+200 MG CAP GEL DURA CT BL AL PLAS PVDC TRANS X 6
+
+200 MG CAP GEL DURA CT BL AL PLAS PVDC TRANS X 12
+
+200 MG CAP GEL DURA CT BL AL PLAS PVDC TRANS X 24
+
+100 MG CAP GEL DURA CT BL AL PLAS PVDC TRANS X12
+
+SACCHAROMYCES BOULARDII - 17
+
+Leia-se:
+
+CIFARMA CIENTÍFICA FARMACÊUTICA LTDA 17562075000169
+
+SACCHAROMYCES BOULARDII - 17
+
+FLORENT 25000.046895/99-54 12/2035
+
+11988 PRODUTO BIOLÓGICO - ALTERAÇÃO PÓS-REGISTRO DE PROBIÓTICO 1766548/24-5
+
+1.1560.0098.011-8 24 Meses
+
+200 MG CAP GEL DURA CT BL AL PLAS PVDC TRANS X 6
+
+1.1560.0098.012-6 24 Meses
+
+200 MG CAP GEL DURA CT BL AL PLAS PVDC TRANS X 12
+
+1.1560.0098.013-4 24 Meses
+
+200 MG CAP GEL DURA CT BL AL PLAS PVDC TRANS X 24
+
+1.1560.0098.014-2 24 Meses
+
+100 MG CAP GEL DURA CT BL AL PLAS PVDC TRANS X12

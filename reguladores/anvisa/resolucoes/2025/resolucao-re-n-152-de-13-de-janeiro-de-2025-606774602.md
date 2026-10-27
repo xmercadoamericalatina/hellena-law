@@ -1,0 +1,133 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 152, DE 13 DE JANEIRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "152"
+data: 2025-01-13
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 14/01/2025, seção 1, p. 94"
+data_publicacao: 2025-01-14
+edicao: "9"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-152-de-13-de-janeiro-de-2025-606774602"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 152, DE 13 DE JANEIRO DE 2025
+
+RESOLUÇÃO-RE Nº 152, DE 13 DE JANEIRO DE 2025
+
+O COORDENADOR SUBSTITUTO DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+LUIZ CLAUDIO GOMES DA SILVA JUNIOR
+
+## ANEXO
+
+KOR3 LOGISTICA INTELIGENTE PARA A SAUDE LTDA. / 53.356.262/0001-50
+
+25351.356615/2024-14 / 1313571
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0023334258
+
+--------------------------------------
+
+TRANSPORTES VITANGELO MUNHOZ LOGISTICA & ARMAZENAGEM LTDA / 30.854.765/0001-50
+
+25351.446317/2023-34 / 1296048
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0029181259
+
+--------------------------------------
+
+PHARMADINÂMICA FARMÁCIA MAGISTRAL LTDA / 61.950.291/0001-73
+
+25351.049912/2005-43 / 1370711
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7027 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - ENDEREÇO / 1764854241
+
+--------------------------------------
+
+GLOBAL FOUR IMPORTAÇÃO E EXPORTAÇÃO LTDA / 21.472.373/0001-35
+
+25351.420515/2024-59 / 1324894
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+IMPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0022486259
+
+--------------------------------------
+
+Zanini & Lima Transportes Ltda / 03.547.127/0001-13
+
+25351.235653/2019-77 / 1187832
+
+ARMAZENAR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0018669255
+
+--------------------------------------
+
+nostrum farmacêutica ltda / 47.636.917/0001-40
+
+25351.452625/2024-80 / 1324161
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+IMPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0023080256
+
+--------------------------------------
+
+SYGAX LOGISTICA E ARMAZENS GERAIS LTDA / 16.915.192/0001-04
+
+25351.540398/2022-87 / 1275053
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0029159253
+
+25351.540398/2022-87 / 1275053
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0029198259

@@ -1,0 +1,182 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.834, DE 28 DE NOVEMBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "4834"
+data: 2025-11-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 01/12/2025, seção 1, p. 207"
+data_publicacao: 2025-12-01
+edicao: "228"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.834-de-28-de-novembro-de-2025-672017054"
+baixado_em: 2026-10-16
+sha256_html_fonte: 67b6b2fb61adc5ec2fda9710784e0b34aae006da663a91290a66e419c0b29f4b
+---
+# RESOLUÇÃO-RE Nº 4.834, DE 28 DE NOVEMBRO DE 2025
+
+RESOLUÇÃO-RE Nº 4.834, DE 28 DE NOVEMBRO DE 2025
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Publicar o cancelamento de registro a pedido dos medicamentos similares, genéricos e novos, sob o nº de expedientes constantes do anexo desta Resolução, nos termos do art. 51 da Lei nº 9.784, de 1999.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+RAZÃO SOCIAL CNPJ
+
+N° PROCESSO EXPEDIENTE CANCELAMENTO MARCA COMERCIAL M.S.
+
+--------------------------------------------------
+
+ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A - 60.659.463/0029-92
+
+25351.375622/2019-58 1509850/25-2 CEFALIUM ONE 105730728
+
+25351.691214/2018-60 1493283/25-1 cloridrato de amiodarona 105730580
+
+25351.849560/2018-43 1483825/25-6 cloridrato de metformina 105730617
+
+25351.849754/2018-49 1509776/25-7 DORILAX DF 105730732
+
+25351.858189/2018-19 1509735/25-9 paracetamol 105730651
+
+--------------------------------------------------
+
+Althaia S.A Indústria Farmacêutica - 48.344.725/0007-19
+
+25351.031104/2025-73 1499882/25-4 amoxicilina + clavulanato de potássio 135170089
+
+--------------------------------------------------
+
+CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. - 44.734.671/0001-51
+
+25351.004547/01-61 1442818/25-5 cloridrato de tetraciclina + anfotericina b 102980277
+
+--------------------------------------------------
+
+EMS S/A - 57.507.378/0003-65
+
+25351.127158/2018-12 1519671/25-2 EMSGRIP CAF 102351319
+
+25351.232967/2014-80 1505917/25-5 GLITYFOM 102351158
+
+25351.240246/2016-39 1520478/25-2 paracetamol 102351201
+
+25351.363115/2005-76 1503751/25-2 paracetamol 102350804
+
+25351.730709/2017-31 1519687/25-9 paracetamol + cafeína 102351297
+
+25351.467064/2014-41 1445969/25-4 REDATIM 102351165
+
+25351.014814/2015-67 1491236/25-6 ROSUVAST 102351160
+
+25351.749619/2009-80 1429887/25-7 tacrolimo 102351031
+
+--------------------------------------------------
+
+FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP - 43.640.754/0001-19
+
+25351.371101/2014-17 1519423/25-0 paracetamol 110390224
+
+--------------------------------------------------
+
+GERMED FARMACEUTICA LTDA - 45.992.062/0001-65
+
+25351.382145/2016-34 1520461/25-8 paracetamol 105830889
+
+25351.195863/2007-81 1505204/25-9 paracetamol + cafeína 105830569
+
+25351.185671/2009-42 1483746/25-9 TEKZOR 105830733
+
+--------------------------------------------------
+
+KLEY HERTZ FARMACEUTICA S.A - 92.695.691/0001-03
+
+25351.162535/2019-32 1493494/25-2 HYALI 106890208
+
+--------------------------------------------------
+
+LABORATORIO TEUTO BRASILEIRO S/A - 17.159.229/0001-76
+
+25351.526637/2009-18 1512122/25-4 DILABRONCO 103700563
+
+--------------------------------------------------
+
+LEGRAND PHARMA INDUSTRIA FARMACEUTICA LTDA - 05.044.984/0001-26
+
+25351.321590/2014-05 1445840/25-1 citrato de sildenafila 167730424
+
+25351.097592/2015-18 1437595/25-1 DAGLI 167730600
+
+25351.467062/2014-52 1442826/25-8 DENAVAS 167730416
+
+25351.641238/2010-52 1503959/25-2 DRYLTAC 167730180
+
+25351.203187/2014-74 1505597/25-1 GLYGRAN 167730410
+
+25351.648336/2010-16 1504848/25-0 paracetamol 167730226
+
+25351.656358/2010-97 1505246/25-3 paracetamol+cafeína 167730232
+
+25351.648325/2010-69 1504866/25-8 PARALGEN 167730182
+
+25351.013356/2014-33 1509687/25-4 VORALLIS 167730419
+
+--------------------------------------------------
+
+MERCK S/A - 33.069.212/0001-84
+
+25351.310604/2018-40 1469009/25-1 ZIMIEX 100890406
+
+--------------------------------------------------
+
+MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - 92.265.552/0009-05
+
+25351.065429/2022-15 1446070/25-5 citrato de sildenafila 118190365
+
+25351.462792/2020-13 1519313/25-6 DORSANOL 118190217
+
+25351.572299/2020-01 1520426/25-0 DORSANOL 118190212
+
+25351.063007/2022-05 1446500/25-0 ezetimiba 118190291
+
+25351.435085/2020-46 1519338/25-1 MULTIGRIP DOR E FEBRE 118190210
+
+25351.435241/2020-79 1520446/25-4 MULTIGRIP DOR E FEBRE 118190211
+
+25351.065402/2022-14 1520413/25-8 paracetamol 118190357
+
+25351.434869/2020-57 1519378/25-1 paracetamol 118190201
+
+25351.434871/2020-26 1520452/25-9 paracetamol 118190209
+
+25351.065401/2022-70 1519661/25-5 paracetamol + cafeína 118190356
+
+--------------------------------------------------
+
+MUNDIPHARMA BRASIL PRODUTOS MÉDICOS E FARMACÊUTICOS LTDA - 15.127.898/0001-30
+
+25351.068677/2017-08 1445059/25-8 SAFLUTAN 191980004
+
+--------------------------------------------------
+
+SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - 61.286.647/0001-16
+
+25351.752105/2009-04 1458197/25-5 desloratadina 100470535
+
+--------------------------------------------------
+
+UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A - 60.665.981/0001-18
+
+25351.003417/2005-98 1429737/25-5 sulfato de terbutalina 104971316
+
+--------------------------------------------------
+
+ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. - 61.100.004/0001-36
+
+25992.010969/73 1449661/25-4 DIVIDOL 100840020

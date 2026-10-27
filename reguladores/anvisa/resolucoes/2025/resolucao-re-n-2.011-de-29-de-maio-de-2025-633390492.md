@@ -1,0 +1,95 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.011, DE 29 DE MAIO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "2011"
+data: 2025-05-29
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 02/06/2025, seção 1, p. 146"
+data_publicacao: 2025-06-02
+edicao: "102"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.011-de-29-de-maio-de-2025-633390492"
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE nº 2.011, DE 29 DE MAIO DE 2025
+
+RESOLUÇÃO-RE nº 2.011, DE 29 DE MAIO DE 2025
+
+A GERENTE-GERAL DE ALIMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 96, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Deferir as petições de avaliação relacionadas à Gerência-Geral de Alimentos, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRÍCIA FERNANDES NANTES DE CASTILHO
+
+## ANEXO
+
+RELATÓRIO DE CONFERÊNCIA - ALIMENTOS: 339525
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO
+
+NÚMERO DO PROCESSO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+------------------------------------------------
+
+AB-ENZIMAS BRASIL COMERCIAL LTDA. / 05.663.089/0001-90
+
+INVERTASE DE ASPERGILLUS NIGER EXPRESSO EM TRICHODERMA REESEI
+
+25351.064539/2023-32
+
+4116 - AVALIAÇÃO DE INCLUSÃO DE ENZIMAS PARA USO COMO COADJUVANTES DE TECNOLOGIA / 0104655/23-2
+
+--------------------------------------
+
+DSM-FIRMENICH BRASIL LTDA / 58.454.222/0001-64
+
+COPOLÍMERO EM BLOCO DE POLIOXIETILENO-POLIOXIPROPILENO
+
+25351.058180/2025-26
+
+4139 - DESISTÊNCIA DE PETIÇÃO/PROCESSO DE AVALIAÇÃO A PEDIDO DA EMPRESA / 0611994/25-9
+
+--------------------------------------
+
+LALLEMAND BRASIL LTDA / 49.979.842/0001-26
+
+ALFA-AMILASE MALTOGÊNICA DE GEOBACILLUS STEAROTHERMOPHILUS EXPRESSO EM SACCHAROMYCES CEREVISIAE (LALL-MA+)
+
+25351.284109/2023-35
+
+4116 - AVALIAÇÃO DE INCLUSÃO DE ENZIMAS PARA USO COMO COADJUVANTES DE TECNOLOGIA / 0458631/23-0
+
+--------------------------------------
+
+OURO FINO SAUDE ANIMAL LTDA. / 57.624.462/0001-05
+
+FOSFOMICINA
+
+25351.459713/2024-11
+
+4139 - DESISTÊNCIA DE PETIÇÃO/PROCESSO DE AVALIAÇÃO A PEDIDO DA EMPRESA / 0710447/25-6
+
+CIPROFLOXACINA
+
+25351.461425/2024-18
+
+4139 - DESISTÊNCIA DE PETIÇÃO/PROCESSO DE AVALIAÇÃO A PEDIDO DA EMPRESA / 0710473/25-7
+
+ENRAMICINA
+
+25351.460897/2024-53
+
+4139 - DESISTÊNCIA DE PETIÇÃO/PROCESSO DE AVALIAÇÃO A PEDIDO DA EMPRESA / 0710455/25-9
+
+BENZETIMIDE
+
+25351.461426/2024-62
+
+4139 - DESISTÊNCIA DE PETIÇÃO/PROCESSO DE AVALIAÇÃO A PEDIDO DA EMPRESA / 0710477/25-2

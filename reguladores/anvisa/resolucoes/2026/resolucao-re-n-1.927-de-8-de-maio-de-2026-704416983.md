@@ -1,0 +1,119 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.927, de 8 de MAIO de 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "1927"
+data: 2026-05-08
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 11/05/2026, seção 1, p. 161"
+data_publicacao: 2026-05-11
+edicao: "86"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.927-de-8-de-maio-de-2026-704416983"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 1.927, de 8 de MAIO de 2026
+
+RESOLUÇÃO-RE nº 1.927, de 8 de MAIO de 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Indeferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+--------------------------------------------------
+
+EUROFARMA LABORATORIOS S.A. 61190096000192
+
+EBASTINA
+
+EBASTEL 25000.031363/96-89
+
+11098 RDC 73/2016 - NOVO - INCLUSÃO DE NOVA APRESENTAÇÃO RESTRITA AO NÚMERO DE UNIDADES FARMACOTÉCNICAS 0075767/26-1
+
+10 MG COM REV CT BL AL PLAS PVC TRANS X 4
+
+--------------------------------------------------
+
+CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. 44734671000151
+
+MICOFENOLATO DE MOFETILA 25351.404578/2012-56 04/2026
+
+143 GENÉRICO - RENOVAÇÃO DE REGISTRO DE MEDICAMENTO 1255881/25-9
+
+1.0298.0430.001-5 24 Meses
+
+500 MG COM REV CT BL AL PLAS TRANS X 10
+
+1.0298.0430.002-3 24 Meses
+
+500 MG COM REV CT BL AL PLAS TRANS X 20
+
+1.0298.0430.003-1 24 Meses
+
+500 MG COM REV CT BL AL PLAS TRANS X 30
+
+1.0298.0430.004-1 24 Meses
+
+500 MG COM REV CT BL AL PLAS TRANS X 40
+
+1.0298.0430.005-8 24 Meses
+
+500 MG COM REV CT BL AL PLAS TRANS X 50
+
+1.0298.0430.006-6 24 Meses
+
+500 MG COM REV CT BL AL PLAS TRANS X 500
+
+--------------------------------------------------
+
+UNICHEM FARMACÊUTICA DO BRASIL LTDA 05399786000185
+
+CLORIDRATO DE TIZANIDINA 25351.183445/2012-93 03/2026
+
+143 GENÉRICO - RENOVAÇÃO DE REGISTRO DE MEDICAMENTO 1563864/25-8
+
+1.5649.0008.001-2 48 Meses
+
+2 MG COM CT BL AL PLAS INC X 30
+
+--------------------------------------------------
+
+LABORATÓRIOS FERRING LTDA 74232034000148
+
+ACETATO DE TERLIPRESSINA
+
+GLYPRESSIN 25000.008367/97-90 02/2029
+
+11118 RDC 73/2016 - NOVO - ALTERAÇÃO DE POSOLOGIA 0044533/25-9
+
+1.2876.0006.003-2 24 Meses
+
+1 MG PO LIOF INJ CT FA VD TRANS + DIL AMP VD TRANS X 5 ML
+
+1.2876.0006.005-9 24 Meses
+
+0,12 MG/ML SOL INJ CT 5 AMP VD TRANS X 8,5 ML
+
+1.2876.0006.006-7 24 Meses
+
+0,12 MG/ML SOL INJ CT 1 AMP VD TRANS X 8,5 ML

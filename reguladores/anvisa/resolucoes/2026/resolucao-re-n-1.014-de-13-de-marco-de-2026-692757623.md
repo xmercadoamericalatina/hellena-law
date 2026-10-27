@@ -1,0 +1,101 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.014, DE 13 DE MARÇO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "1014"
+data: 2026-03-13
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 16/03/2026, seção 1, p. 155"
+data_publicacao: 2026-03-16
+edicao: "50"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.014-de-13-de-marco-de-2026-692757623"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 1.014, DE 13 DE MARÇO DE 2026
+
+RESOLUÇÃO-RE nº 1.014, DE 13 DE MARÇO DE 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Indeferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+--------------------------------------------------
+
+EUGIA PHARMA INDUSTRIA FARMACEUTICA LTDA 44639493000180
+
+ANASTROZOL
+
+ASTANAX 25351.650429/2022-15
+
+150 SIMILAR - REGISTRO DE MEDICAMENTO SIMILAR 5076295/22-8
+
+1 MG COM REV CT BL AL PLAS PVC TRANS X 28
+
+1 MG COM REV CT BL AL PLAS PVC TRANS X 30
+
+1 MG COM REV CT BL AL PLAS PVC TRANS X 60
+
+--------------------------------------------------
+
+MASTERS SPECIALITY PHARMA LTDA 14821008000123
+
+MIDAZOLAM
+
+ZULMIDAM 25351.003076/2024-13
+
+150 SIMILAR - REGISTRO DE MEDICAMENTO SIMILAR 0137632/24-2
+
+1 MG/ML SOL INJ IV/IM/RET CX AMP VD TRANS X 5 ML
+
+5 MG/ML SOL INJ IV/IM/RET CX AMP VD TRANS X 3 ML
+
+5 MG/ML SOL INJ IV/IM/RET CX AMP VD TRANS X 10 ML
+
+--------------------------------------------------
+
+ZYDUS NIKKHO FARMACÊUTICA LTDA 05254971000181
+
+levetiracetam 25351.201904/2023-04
+
+155 GENERICO - REGISTRO DE MEDICAMENTO 0330337/23-3
+
+500 MG COM REV LIB PROL CT BL AL AL X 10
+
+500 MG COM REV LIB PROL CT BL AL AL X 20
+
+500 MG COM REV LIB PROL CT BL AL AL X 30
+
+500 MG COM REV LIB PROL CT BL AL AL X 60
+
+500 MG COM REV LIB PROL CT BL AL AL X 100
+
+750 MG COM REV LIB PROL CT BL AL AL X 10
+
+750 MG COM REV LIB PROL CT BL AL AL X 20
+
+750 MG COM REV LIB PROL CT BL AL AL X 30
+
+750 MG COM REV LIB PROL CT BL AL AL X 60
+
+750 MG COM REV LIB PROL CT BL AL AL X 100

@@ -1,0 +1,123 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.067, DE 19 DE MARÇO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1067"
+data: 2026-03-19
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 20/03/2026, seção 1, p. 157"
+data_publicacao: 2026-03-20
+edicao: "54"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.067-de-19-de-marco-de-2026-694444390"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 1.067, DE 19 DE MARÇO DE 2026
+
+RESOLUÇÃO-RE Nº 1.067, DE 19 DE MARÇO DE 2026
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+DROGARIA SAO PAULO S.A. / 61.412.110/1367-23
+
+25351.045549/2026-11 / 1426722
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0250848261
+
+--------------------------------------
+
+EQUILIBRIUM FARMACIA DE MANIPULACAO LTDA / 57.893.572/0001-64
+
+25351.038641/2026-25 / 1426160
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0211119261
+
+--------------------------------------
+
+FARMALOG DISTRIBUIDORA DE MEDICAMENTOS LTDA / 24.924.986/0005-88
+
+25351.045369/2026-30 / 1426719
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0249941261
+
+--------------------------------------
+
+NEXTGEN LABS SA / 48.950.631/0003-60
+
+25351.039428/2026-31 / 1426247
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0215196261
+
+--------------------------------------
+
+KERBER E BACH COMERCIO DE MEDICAMENTOS VETERINARIOS LTDA / 59.717.818/0001-72
+
+25351.044562/2026-53 / 1426676
+
+MANIPULAR: INSUMOS FARMACÊUTICOS (VETERINÁRIOS)
+
+70899 - AE - CONCESSÃO - MANIPULAR INSUMOS FARMACÊUTICOS (VETERINÁRIOS) / 0244727261
+
+--------------------------------------
+
+AGUIAR MANIPULACAO LTDA / 61.830.606/0001-49
+
+25351.040021/2026-56 / 1426278
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0218967268
+
+--------------------------------------
+
+ESSENCIE FARMACIA DE MEDICINA NATURAL LTDA / 53.988.913/0001-24
+
+25351.041922/2026-65 / 1426386
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0230431267
+
+--------------------------------------
+
+OSEIAS FARIAS PINTO / 25.976.872/0001-10
+
+25351.045345/2026-81 / 1426693
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0249898268
+
+--------------------------------------
+
+FC&D LOGISTICA E TRANSPORTE LTDA / 40.207.333/0001-00
+
+25351.042263/2026-84 / 1426450
+
+TRANSPORTAR: MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0232532265

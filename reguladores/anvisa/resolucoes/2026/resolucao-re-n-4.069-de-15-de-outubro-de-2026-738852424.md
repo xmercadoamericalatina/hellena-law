@@ -1,0 +1,340 @@
+---
+titulo: "RESOLUÇÃO-RE N° 4.069, DE 15 DE OUTUBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "4069"
+data: 2026-10-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/10/2026, seção 1, p. 192"
+data_publicacao: 2026-10-19
+edicao: "197"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.069-de-15-de-outubro-de-2026-738852424"
+sha256_html_fonte: 47954b9197dbc08dde069dbf5b112460a54fb8cc68a6da0a2ed5f5343b1f6dda
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO-RE N° 4.069, DE 15 DE OUTUBRO DE 2026
+
+RESOLUÇÃO-RE N° 4.069, DE 15 DE OUTUBRO DE 2026
+
+A GERENTE-GERAL DE ALIMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 96, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Deferir as petições relacionadas à Gerência-Geral de Alimentos, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRÍCIA FERNANDES NANTES DE CASTILHO
+
+## ANEXO
+
+Número da Listagem: 729826
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO
+
+MARCA
+
+NUMERO DO PROCESSO / VENCIMENTO DO REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+DESCRIÇÃO DA APRESENTAÇÃO
+
+REGISTRO
+
+PRAZO DE VALIDADE DA APRESENTAÇÃO
+
+EMBALAGEM PRIMÁRIA
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA LACTENTES
+
+25351.042934/2023-64 / 08/2028
+
+4124 - Cancelamento de Registro de Apresentação / 1063745/26-1
+
+ALEMANHA
+
+6596501790021
+
+21 Meses
+
+METALICA
+
+ESTADOS UNIDOS
+
+6596501790038
+
+21 Meses
+
+METALICA
+
+MÉXICO
+
+6596501790046
+
+21 Meses
+
+METALICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA LACTENTES
+
+25351.042934/2023-64 / 08/2028
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0834181/26-6
+
+APRESENTAÇÃO 1
+
+6596501790011
+
+21 Meses
+
+METALICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA LACTENTES
+
+25351.535195/2022-79 / 10/2027
+
+4124 - Cancelamento de Registro de Apresentação / 1056985/26-5
+
+ALEMANHA
+
+6596501640028
+
+21 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+ESTADOS UNIDOS
+
+6596501640036
+
+21 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+MÉXICO
+
+6596501640044
+
+21 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA LACTENTES
+
+25351.535195/2022-79 / 10/2027
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0834175/26-6
+
+APRESENTAÇÃO 1
+
+6596501640011
+
+21 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+MEAD JOHNSON DO BRASIL COMÉRCIO E IMPORTAÇÃO DE PRODUTOS DE NUTRIÇÃO LTDA / 10.351.637/0001-86
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA LACTENTES
+
+25004.000026/2011-17 / 08/2031
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0900993/26-0
+
+APRESENTAÇÃO 1
+
+6660900080013
+
+24 Meses
+
+ELASTOMERICA / METALICA / PLASTICA
+
+APRESENTAÇÃO 2
+
+6660900080031
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+MEAD JOHNSON DO BRASIL COMÉRCIO E IMPORTAÇÃO DE PRODUTOS DE NUTRIÇÃO LTDA / 10.351.637/0001-86
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA LACTENTES
+
+25004.000026/2011-17 / 08/2031
+
+4093 - Revalidação de registro de fórmulas infantis / 0530369/26-5
+
+APRESENTAÇÃO 1
+
+6660900080013
+
+24 Meses
+
+ELASTOMERICA / METALICA / PLASTICA
+
+APRESENTAÇÃO 2
+
+6660900080031
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+MEAD JOHNSON DO BRASIL COMÉRCIO E IMPORTAÇÃO DE PRODUTOS DE NUTRIÇÃO LTDA / 10.351.637/0001-86
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA LACTENTES
+
+25004.000026/2011-17 / 08/2031
+
+4124 - Cancelamento de Registro de Apresentação / 1066402/26-5
+
+HOLANDA - EMBALAGEM 1
+
+6660900080021
+
+24 Meses
+
+ELASTOMERICA / METALICA / PLASTICA
+
+HOLANDA - EMBALAGEM 2
+
+6660900080048
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+ARGENTINA - EMBALAGEM 1
+
+6660900080056
+
+24 Meses
+
+ELASTOMERICA / METALICA / PLASTICA
+
+ARGENTINA - EMBALAGEM 2
+
+6660900080064
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+MEAD JOHNSON DO BRASIL COMÉRCIO E IMPORTAÇÃO DE PRODUTOS DE NUTRIÇÃO LTDA / 10.351.637/0001-86
+
+FÓRMULA INFANTIL PARA LACTENTES
+
+25004.001127/2011-41 / 08/2031
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0900963/26-3
+
+APRESENTAÇÃO 1
+
+6660900070018
+
+24 Meses
+
+ELASTOMERICA / METALICA / PLASTICA
+
+APRESENTAÇÃO 2
+
+6660900070034
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+MEAD JOHNSON DO BRASIL COMÉRCIO E IMPORTAÇÃO DE PRODUTOS DE NUTRIÇÃO LTDA / 10.351.637/0001-86
+
+FÓRMULA INFANTIL PARA LACTENTES
+
+25004.001127/2011-41 / 08/2031
+
+4093 - Revalidação de registro de fórmulas infantis / 0530110/26-1
+
+APRESENTAÇÃO 1
+
+6660900070018
+
+24 Meses
+
+ELASTOMERICA / METALICA / PLASTICA
+
+APRESENTAÇÃO 2
+
+6660900070034
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+MEAD JOHNSON DO BRASIL COMÉRCIO E IMPORTAÇÃO DE PRODUTOS DE NUTRIÇÃO LTDA / 10.351.637/0001-86
+
+FÓRMULA INFANTIL PARA LACTENTES
+
+25004.001127/2011-41 / 08/2031
+
+4124 - Cancelamento de Registro de Apresentação / 1073113/26-0
+
+HOLANDA - EMBALAGEM 1
+
+6660900070026
+
+24 Meses
+
+ELASTOMERICA / METALICA / PLASTICA
+
+HOLANDA - EMBALAGEM 2
+
+6660900070042
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+ARGENTINA - EMBALAGEM 1
+
+6660900070050
+
+24 Meses
+
+ELASTOMERICA / METALICA / PLASTICA
+
+ARGENTINA - EMBALAGEM 2
+
+6660900070069
+
+18 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA

@@ -1,0 +1,52 @@
+---
+titulo: "RESOLUÇÃO CMN Nº 5.263, DE 13 DE NOVEMBRO DE 2025"
+orgao: "Ministério da Fazenda/Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "5263"
+data: 2025-11-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/11/2025, seção 1, p. 35"
+data_publicacao: 2025-11-17
+edicao: "219"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-cmn-n-5.263-de-13-de-novembro-de-2025-669280459"
+baixado_em: 2026-10-16
+sha256_html_fonte: 9c378e52e60804c31a5b9f92cfdeb0f93148f94542daf5e929bf0e3b49c0e76f
+---
+# RESOLUÇÃO CMN Nº 5.263, DE 13 DE NOVEMBRO DE 2025
+
+RESOLUÇÃO CMN Nº 5.263, DE 13 DE NOVEMBRO DE 2025
+
+Permite o cumprimento das exigibilidades de direcionamento de recursos da poupança rural e captados por meio da emissão de Letra de Crédito do Agronegócio - LCA para o crédito rural, na forma das Seções 4 (Poupança Rural) e 7 (LCA) do Capítulo 6 (Recursos) do Manual de Crédito Rural - MCR, com os saldos das operações de que trata o art. 2º da Resolução CMN nº 5.247, de 19 de setembro de 2025.
+
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão extraordinária realizada em 13 de novembro de 2025, tendo em vista as disposições do art. 4º, caput, incisos VI e VIII, da referida Lei, e dos arts. 4º e 21 da Lei nº 4.829, de 5 de novembro de 1965, resolveu:
+
+**Art. 1º** A Seção 8 (Normas Transitórias) do Capítulo 6 (Recursos) do Manual de Crédito Rural - MCR passa a vigorar com as seguintes alterações:
+
+"33 - Os saldos das operações de crédito rural destinadas à liquidação ou amortização das dívidas de que trata o art. 2º, caput, inciso I, da Resolução CMN nº 5.247, de 19 de setembro de 2025, podem ser utilizados para o cumprimento da exigibilidade da Poupança Rural (MCR 6-4), observadas as seguintes condições:
+
+a) em 22 de setembro de 2025, as operações liquidadas ou amortizadas se encontravam lastreadas nas fontes de recursos:
+
+I - Poupança Rural - Livre; ou
+
+II - Poupança Rural - Controlados - Subvenção Econômica;
+
+b) a fonte de recursos da operação de renegociação das operações referidas na alínea "a" deve ser alterada para Poupança Rural - Livre no Sistema de Operações do Crédito Rural e do Proagro - Sicor e permanecer nessa fonte até sua liquidação;
+
+c) os saldos das operações podem cumprir exclusivamente a subexigibilidade de recursos para operações de crédito rural, de que trata o MCR 6-4-10; e
+
+d) os saldos médios das operações não poderão exceder a 10% (dez por cento) da exigibilidade total apurada na forma do MCR 6-4, sendo desconsiderado, para fins de cumprimento de exigibilidade, o saldo que exceder esse limite." (NR)
+
+"34 - Os saldos das operações destinadas à liquidação ou amortização das dívidas de que trata o art. 2º, caput, incisos I, II e III, da Resolução CMN nº 5.247, de 19 de setembro de 2025, podem ser utilizados para o cumprimento da exigibilidade da Letra de Crédito do Agronegócio - LCA (MCR 6-7), observadas as seguintes condições:
+
+a) a fonte de recursos da operação de renegociação das operações referidas neste item deve ser alterada para LCA - Taxa Livre no Sicor e permanecer nessa fonte até sua liquidação;
+
+b) os saldos médios das operações destinadas à liquidação ou amortização de dívidas de que trata o art. 2º, caput, inciso I, da Resolução CMN nº 5.247, de 19 de setembro de 2025, podem cumprir exclusivamente o subdirecionamento de recursos para operações de crédito rural, de que trata o MCR 6-7-7-"a", até o limite de 20% (vinte por cento) do total desse subdirecionamento, sendo desconsiderado, para fins de cumprimento de exigibilidades, o saldo que exceder esse limite; e
+
+c) os saldos das operações destinadas à liquidação ou amortização de dívidas de que trata o art. 2º, caput, incisos II e III, da Resolução CMN nº 5.247, de 19 de setembro de 2025, podem cumprir exclusivamente a faculdade de aplicações para aquisições de Cédula de Produto Rural - CPR, de que trata o MCR 6-7-7-"b"-I, até o limite de 22% (vinte e dois por cento) do total dessa faculdade, sendo desconsiderado, para fins de cumprimento de exigibilidade, o saldo que exceder esse limite." (NR)
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+GABRIEL MURICCA GALÍPOLO
+
+Presidente do Banco

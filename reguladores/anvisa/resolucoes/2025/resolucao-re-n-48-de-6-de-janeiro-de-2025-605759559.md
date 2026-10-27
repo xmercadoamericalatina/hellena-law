@@ -1,0 +1,97 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 48, DE 6 DE JANEIRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "48"
+data: 2025-01-06
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 07/01/2025, seção 1, p. 139"
+data_publicacao: 2025-01-07
+edicao: "4"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-48-de-6-de-janeiro-de-2025-605759559"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 48, DE 6 DE JANEIRO DE 2025
+
+RESOLUÇÃO-RE Nº 48, DE 6 DE JANEIRO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+LARTT COMERCIO E DISTRIBUICAO DE PRODUTOS HOSPITALARES LTDA / 26.956.985/0001-17
+
+25351.000646/2025-02 / 1325579
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0005939259
+
+--------------------------------------
+
+RFL FARMACEUTICA LTDA / 52.042.763/0001-07
+
+25351.000617/2025-32 / 1325491
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0005468256
+
+--------------------------------------
+
+GENESIS DISTRIBUIDORA DE MATERIAL MEDICO HOSPITALAR LTDA / 36.565.090/0001-05
+
+25351.000606/2025-52 / 1325565
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0005217253
+
+--------------------------------------
+
+SANTANA FARMA DISTRIBUIDORA DE MEDICAMENTOS LTDA / 55.007.465/0001-66
+
+25351.000611/2025-65 / 1325488
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0005270251
+
+--------------------------------------
+
+FARMACIA DE MANIPULACAO BOTICA PERSONA LTDA / 58.368.455/0001-44
+
+25351.000756/2025-66 / 1325548
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0007956258
+
+--------------------------------------
+
+CLOROFILA FARMACIA DE MANIPULACAO LTDA / 56.944.216/0001-60
+
+25351.000627/2025-78 / 1325517
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0005578256

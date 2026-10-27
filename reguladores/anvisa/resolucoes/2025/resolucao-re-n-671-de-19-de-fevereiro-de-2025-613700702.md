@@ -1,0 +1,117 @@
+---
+titulo: "RESOLUÇÃO-RE nº 671, DE 19 DE FEVEREIRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "671"
+data: 2025-02-19
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 20/02/2025, seção 1, p. 85"
+data_publicacao: 2025-02-20
+edicao: "36"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-671-de-19-de-fevereiro-de-2025-613700702"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 671, DE 19 DE FEVEREIRO DE 2025
+
+RESOLUÇÃO-RE nº 671, DE 19 DE FEVEREIRO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+IB PHARMA LTDA / 53.782.683/0001-42
+
+25351.022622/2025-04 / 1328419
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0210926252
+
+--------------------------------------
+
+AJD FARMACIA VETERINARIA LTDA / 42.446.510/0001-37
+
+25351.021114/2025-09 / 1328177
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0196494257
+
+--------------------------------------
+
+FARTRIUNFO LTDA / 53.859.096/0002-95
+
+25351.018888/2025-44 / 1328730
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0172808251
+
+--------------------------------------
+
+FARMACIA DE MANIPULACAO ARTE FARMA SINOP LTDA / 39.538.037/0002-94
+
+25351.020351/2025-44 / 1328072
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0189398256
+
+--------------------------------------
+
+FOLLIAGE FARMACIA DE MANIPULACAO LTDA / 01.057.169/0006-55
+
+25351.020457/2025-48 / 1328115
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0190391251
+
+--------------------------------------
+
+FL BRASIL HOLDING, LOGISTICA E TRANSPORTE LTDA. / 18.233.211/0017-05
+
+25351.022621/2025-51 / 1328405
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0210921251
+
+--------------------------------------
+
+DT PHARMA DISTRIBUIDORA LTDA / 24.578.458/0001-90
+
+25351.022041/2025-64 / 1328331
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0206318251
+
+--------------------------------------
+
+SC DISTRIBUICAO LTDA / 01.206.820/0038-99
+
+25351.458232/2024-80 / 1324388
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1726784240

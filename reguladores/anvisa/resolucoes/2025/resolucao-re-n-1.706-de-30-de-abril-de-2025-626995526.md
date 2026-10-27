@@ -1,0 +1,101 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.706, DE 30 DE ABRIL DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1706"
+data: 2025-04-30
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 05/05/2025, seção 1, p. 117"
+data_publicacao: 2025-05-05
+edicao: "82"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.706-de-30-de-abril-de-2025-626995526"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 1.706, DE 30 DE ABRIL DE 2025
+
+RESOLUÇÃO-RE Nº 1.706, DE 30 DE ABRIL DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+PLUSFARMA COMERCIAL DO PARA LTDA / 57.439.477/0001-95
+
+25351.057337/2025-04 / 1406720
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0513807250
+
+--------------------------------------
+
+DR COMERCIAL HOSPITALAR LTDA / 56.303.526/0001-03
+
+25351.057414/2025-18 / 1406136
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0514124253
+
+--------------------------------------
+
+PHARMA EXPRESS DISTRIBUIDORA LTDA / 29.810.540/0001-12
+
+25351.056320/2025-21 / 1405971
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0506612252
+
+--------------------------------------
+
+TIAGO DOS SANTOS BARROS TRANSPORTES / 43.567.674/0001-85
+
+25351.056600/2025-30 / 1406687
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0507994256
+
+--------------------------------------
+
+SANTINI MEDICAMENTOS LTDA / 58.676.108/0001-89
+
+25351.056752/2025-32 / 1406702
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0509675255
+
+--------------------------------------
+
+RTE TRANSPORTES AGROQUIMICOS LTDA / 26.421.502/0001-80
+
+25351.056325/2025-54 / 1406656
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0506629252

@@ -1,0 +1,168 @@
+---
+titulo: "RESOLUÇÃO-RE nº 4.266, DE 29 DE OUTUBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4266"
+data: 2025-10-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/10/2025, seção 1, p. 174"
+data_publicacao: 2025-10-30
+edicao: "207"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.266-de-29-de-outubro-de-2025-665603951"
+baixado_em: 2026-10-16
+sha256_html_fonte: 9805bc4f4b7ce7f4e3cf39b1f8287dccd9bedf10f2e242323132de7834f35b94
+---
+# RESOLUÇÃO-RE nº 4.266, DE 29 DE OUTUBRO DE 2025
+
+RESOLUÇÃO-RE nº 4.266, DE 29 DE OUTUBRO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+EXPRESSO AGENCIAMENTO DE CARGAS LTDA / 26.135.058/0001-36
+
+25351.085777/2019-03 / 1186396
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 1378093259
+
+--------------------------------------
+
+PRO-PHARMACOS FARMACIA LTDA / 73.119.927/0002-08
+
+25351.037318/2014-09 / 1103735
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7027 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - ENDEREÇO / 1389994252
+
+--------------------------------------
+
+ARTESA FARMÁCIA DE MANIPULAÇÃO LTDA / 07.976.315/0001-18
+
+25351.243865/2014-13 / 1106074
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7027 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - ENDEREÇO / 1367280257
+
+--------------------------------------
+
+C. B. DISTRIBUIDORA DE PRODUTOS FARMACEUTICOS SA / 27.764.200/0002-58
+
+25351.215921/2022-30 / 1278081
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 1377725251
+
+--------------------------------------
+
+IARA DISTRIBUIDORA DE MEDICAMENTOS LTDA / 33.287.726/0001-06
+
+25351.219922/2023-34 / 1291145
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 1426040253
+
+--------------------------------------
+
+W.N. DIAGNÓSTICA LTDA - EPP / 09.100.467/0001-88
+
+25351.595172/2009-40 / 8057725
+
+ARMAZENAR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISTRIBUIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+TRANSPORTAR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 1385301252
+
+--------------------------------------
+
+Plusmed Distribuidora de Medicamentos e Produtos Hospitalares LTDA / 33.866.663/0001-42
+
+25351.415824/2022-45 / 1273279
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1372899251
+
+--------------------------------------
+
+JVMED COMERCIO DE MEDICAMENTOS LTDA EPP / 14.461.011/0001-83
+
+25351.322569/2024-50 / 1313659
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 1372436251
+
+--------------------------------------
+
+GOIAS BEM COMERCIO E SERVIÇOS DE PRODUTOS PARA SAÚDE LTDA-ME / 20.231.242/0001-01
+
+25351.629333/2015-61 / 1147089
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1370877251
+
+--------------------------------------
+
+BEST PHARMA MANIPULACAO LTDA / 08.866.676/0001-74
+
+25351.608745/2019-81 / 1195122
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7024 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - RAZÃO SOCIAL / 1421996251
+
+--------------------------------------
+
+PROFARMA DISTIBUIDORA DE PRODUTOS FARMACEUTICOS S A / 45.453.214/0018-08
+
+25000.025044/98-88 / 1204954
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 1377651258

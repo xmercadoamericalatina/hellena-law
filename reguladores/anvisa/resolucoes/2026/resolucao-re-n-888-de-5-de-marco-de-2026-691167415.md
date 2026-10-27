@@ -1,0 +1,95 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 888, DE 5 DE MARÇO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "888"
+data: 2026-03-05
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 09/03/2026, seção 1, p. 100"
+data_publicacao: 2026-03-09
+edicao: "45"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-888-de-5-de-marco-de-2026-691167415"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 888, DE 5 DE MARÇO DE 2026
+
+RESOLUÇÃO-RE Nº 888, DE 5 DE MARÇO DE 2026
+
+A GERENTE-GERAL DE ALIMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 96, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Declarar o cancelamento das notificações relacionadas à Gerência-Geral de Alimentos, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRÍCIA FERNANDES NANTES DE CASTILHO
+
+## ANEXO
+
+RELATÓRIO DE CONFERÊNCIA - ALIMENTOS: 175726
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO
+
+NÚMERO DO PROCESSO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+CAPSUL BRASIL INDÚSTRIA E COMÉRCIO LTDA / 29.822.523/0001-03
+
+SUPLEMENTO ALIMENTAR LÍQUIDO
+
+25351.025443/2026-00
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0196410/26-1
+
+SUPLEMENTO ALIMENTAR DE CAFÉ VERDE, CÚRCUMA E EXTRATO DE LARANJA MORO EM CÁPSULAS
+
+25351.022715/2026-10
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0196367/26-8
+
+SUPLEMENTO ALIMENTAR DE TIROSINA, MAGNÉSIO, COLINA E TRIPTOFANO EM CÁPSULAS
+
+25351.022738/2026-16
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0196379/26-1
+
+SUPLEMENTO ALIMENTAR EM CÁPSULAS
+
+25351.022623/2026-21
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0196387/26-2
+
+SUPLEMENTO ALIMENTAR DE BETA ALANINA E TAURINA EM CÁPSULAS
+
+25351.022743/2026-29
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0196323/26-6
+
+SUPLEMENTO ALIMENTAR EM CÁPSULAS
+
+25351.022639/2026-34
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0196381/26-3
+
+SUPLEMENTO ALIMENTAR DE GLUCOSAMINA E CONDROITINA EM CAPSULAS
+
+25351.022646/2026-36
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0196373/26-2
+
+SUPLEMENTO ALIMENTAR LÍQUIDO
+
+25351.025444/2026-46
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0196393/26-7
+
+SUPLEMENTO ALIMENTAR A BASE DE CISTEÍNA EM CÁPSULAS
+
+25351.022622/2026-87
+
+4193 - CANCELAMENTO DE NOTIFICAÇÃO - ANVISA / 0196355/26-4

@@ -1,0 +1,68 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.852, DE 15 DE MAIO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/5ª Diretoria/Gerência-Geral de Portos, Aeroportos, Fronteiras e Recintos Alfandegados"
+tipo: "Resolução"
+numero: "1852"
+data: 2024-05-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/05/2024, seção 1, p. 73"
+data_publicacao: 2024-05-16
+edicao: "94"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.852-de-15-de-maio-de-2024-560139405"
+sha256_html_fonte: b001db83b8e2993c03ed110b4cfac9e7cf56399fa337f4390ad382aff4c06ed0
+baixado_em: 2026-10-16
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 1.852, DE 15 DE MAIO DE 2024
+
+<div class="texto-dou"><html>
+ <head></head>
+ <body>
+  <p class="identifica">RESOLUÇÃO-RE Nº 1.852, DE 15 DE MAIO DE 2024</p>
+  <p class="dou-paragraph" >A GERENTE-GERAL SUBSTITUTA DE PORTOS, AEROPORTOS, FRONTEIRAS E RECINTOS ALFANDEGADOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art.160, aliado ao art.203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada -RDC nº 585, de 10 de dezembro de 2021, resolve:</p>
+  <p class="dou-paragraph" >Art. 1º Conceder Autorização de Funcionamento para as Empresas prestadoras de serviços em Portos, Aeroportos, Fronteiras e Recintos Alfandegados conforme anexo desta Resolução.</p>
+  <p class="dou-paragraph" >Art. 2° Esta Resolução entra em vigor na data de sua publicação.</p>
+  <p class="assina">GABRIELA DE LIMA VIEIRA</p>
+  <p class="anexo">ANEXO</p>
+  <p class="dou-paragraph" >MASTER TRANSPORTES E SERVIÇOS MARITIMOS LTDA / 41.364.313/0001-06</p>
+  <p class="dou-paragraph" >25351.211047/2024-23 / 9104191</p>
+  <p class="dou-paragraph" >PRESTAR SERVIÇO EM PORTOS, AEROPORTOS, FRONTEIRAS E RECINTOS ALFANDEGADOS DE: ADMINISTRAÇÃO OU REPRESENTAÇÃO DE NEGÓCIOS EM NOME DO REPRESENTANTE LEGAL OU RESPONSÁVEL DIRETO POR EMBARCAÇÃO</p>
+  <p class="dou-paragraph" >9000 - PAF - AFE DE PRESTADORA DE SERVIÇO DE ADMINISTRAÇÃO OU REPRESENTAÇÃO DE NEGÓCIOS, EM NOME DO REPRESENTANTE LEGAL OU RESPONSÁVEL DIRETO POR EMBARCAÇÃO, TOMANDO AS PROVIDÊNCIAS NECESSÁRIAS AO SEU DESPACHO EM PORTOS ORGANIZADOS E TERMINAIS AQUAVIÁRIOS INSTALADOS NO TERRITÓRIO NACIONAL / 0528423240</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >BRASPRAG CONTROLE DE PRAGAS E SERVIÇOS LTDA / 30.875.697/0001-05</p>
+  <p class="dou-paragraph" >25351.609624/2023-32 / 9104173</p>
+  <p class="dou-paragraph" >PRESTAR SERVIÇO EM PORTOS, AEROPORTOS, FRONTEIRAS E RECINTOS ALFANDEGADOS DE: DESINSETIZAÇÃO / DESRATIZAÇÃO</p>
+  <p class="dou-paragraph" >9013 - PAF - AFE DE PRESTADORA DE SERVIÇO DE DESINSETIZAÇÃO OU DESRATIZAÇÃO EM EMBARCAÇÕES, VEÍCULOS TERRESTRES EM TRÂNSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRA, AERONAVES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ADUANEIROS DE USO PÚBLICO E ESTAÇÕES E PASSAGENS DE FRONTEIRA / 0986871231</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >OCEAN - COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA / 09.556.379/0001-95</p>
+  <p class="dou-paragraph" >25351.243092/2024-47 / 9104187</p>
+  <p class="dou-paragraph" >PRESTAR SERVIÇO EM PORTOS, AEROPORTOS, FRONTEIRAS E RECINTOS ALFANDEGADOS DE: IMPORTAÇÃO POR CONTA E ORDEM DE TERCEIRO DE COSMÉTICOS, PRODUTOS DE HIGIENE E PERFUMES</p>
+  <p class="dou-paragraph" >9688 - PAF - AFE DE PRESTADORA DE SERVIÇO DE IMPORTAÇÃO POR CONTA E ORDEM DE TERCEIRO DE COSMÉTICOS, PRODUTOS DE HIGIENE E PERFUMES / 0585539243</p>
+  <p class="dou-paragraph" >25351.243415/2024-01 / 9104233</p>
+  <p class="dou-paragraph" >PRESTAR SERVIÇO EM PORTOS, AEROPORTOS, FRONTEIRAS E RECINTOS ALFANDEGADOS DE: IMPORTAÇÃO POR CONTA E ORDEM DE TERCEIRO DE PRODUTOS PARA SAÚDE</p>
+  <p class="dou-paragraph" >9714 - PAF - AFE DE PRESTADORA DE SERVIÇO DE IMPORTAÇÃO POR CONTA E ORDEM DE TERCEIRO DE PRODUTOS PARA SAÚDE E PARA DIAGNOSTICO IN VITRO / 0585878242</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ANGEL SERVICES GESTAO DE MAO DE OBRA LTDA / 03.435.654/0001-36</p>
+  <p class="dou-paragraph" >25351.164234/2024-19 / 9104216</p>
+  <p class="dou-paragraph" >PRESTAR SERVIÇO EM PORTOS, AEROPORTOS, FRONTEIRAS E RECINTOS ALFANDEGADOS DE: LIMPEZA, DESINFECÇÃO E DESCONTAMINAÇÃO DE SUPERFÍCIES</p>
+  <p class="dou-paragraph" >9041 - PAF - AFE DE PRESTADORA DE SERVIÇO DE LIMPEZA, DESINFECÇÃO E DESCONTAMINAÇÃO DE SUPERFÍCIES DE AERONAVES, VEÍCULOS TERRESTRES EM TRÂNSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRA, EMBARCAÇÕES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ADUANEIROS DE USO PÚBLICO E ESTAÇÃO E PASSAGEM DE FRONTEIRAS / 0431709246</p>
+  <p class="dou-paragraph" >25351.164209/2024-27 / 9104202</p>
+  <p class="dou-paragraph" >PRESTAR SERVIÇO EM PORTOS, AEROPORTOS, FRONTEIRAS E RECINTOS ALFANDEGADOS DE: DESINSETIZAÇÃO / DESRATIZAÇÃO</p>
+  <p class="dou-paragraph" >9013 - PAF - AFE DE PRESTADORA DE SERVIÇO DE DESINSETIZAÇÃO OU DESRATIZAÇÃO EM EMBARCAÇÕES, VEÍCULOS TERRESTRES EM TRÂNSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRA, AERONAVES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ADUANEIROS DE USO PÚBLICO E ESTAÇÕES E PASSAGENS DE FRONTEIRA / 0431659249</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >NILMAR SALES DE OLIVEIRA - ME / 06.101.684/0001-02</p>
+  <p class="dou-paragraph" >25351.169413/2024-34 / 9104220</p>
+  <p class="dou-paragraph" >PRESTAR SERVIÇO EM PORTOS, AEROPORTOS, FRONTEIRAS E RECINTOS ALFANDEGADOS DE: LIMPEZA, DESINFECÇÃO E DESCONTAMINAÇÃO DE SUPERFÍCIES</p>
+  <p class="dou-paragraph" >9041 - PAF - AFE DE PRESTADORA DE SERVIÇO DE LIMPEZA, DESINFECÇÃO E DESCONTAMINAÇÃO DE SUPERFÍCIES DE AERONAVES, VEÍCULOS TERRESTRES EM TRÂNSITO POR ESTAÇÕES E PASSAGENS DE FRONTEIRA, EMBARCAÇÕES, TERMINAIS PORTUÁRIOS E AEROPORTUÁRIOS DE CARGAS E VIAJANTES, TERMINAIS ADUANEIROS DE USO PÚBLICO E ESTAÇÃO E PASSAGEM DE FRONTEIRAS / 0439572240</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >CARISMA COMERCIAL LTDA. / 00.411.210/0001-72</p>
+  <p class="dou-paragraph" >25351.252229/2024-54 / 9104247</p>
+  <p class="dou-paragraph" >PRESTAR SERVIÇO EM PORTOS, AEROPORTOS, FRONTEIRAS E RECINTOS ALFANDEGADOS DE: IMPORTAÇÃO POR CONTA E ORDEM DE TERCEIRO DE MEDICAMENTOS E INSUMOS FARMACÊUTICOS</p>
+  <p class="dou-paragraph" >9146 - PAF - AFE DE PRESTADORA DE SERVIÇO DE IMPORTAÇÃO POR CONTA E ORDEM DE TERCEIRO DE MEDICAMENTOS E MATÉRIAS-PRIMAS COM EMPREGO NA INDÚSTRIA FARMACÊUTICA / 0601458249</p>
+ </body>
+</html></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

@@ -1,0 +1,193 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.899, DE 2 DE OUTUBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "3899"
+data: 2026-10-02
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 05/10/2026, seção 1, p. 101"
+data_publicacao: 2026-10-05
+edicao: "188"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.899-de-2-de-outubro-de-2026-736305624"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 3.899, DE 2 DE OUTUBRO DE 2026
+
+RESOLUÇÃO-RE nº 3.899, DE 2 DE OUTUBRO DE 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Indeferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+--------------------------------------------------
+
+TORRENT DO BRASIL LTDA 33078528000132
+
+olmesartana medoxomila + besilato de anlodipino
+
+OLMECOR ANLO 25351.022846/2025-16
+
+150 SIMILAR - REGISTRO DE MEDICAMENTO SIMILAR 0214158/25-2
+
+(20 + 5) MG COM REV CT BL AL AL X 7
+
+(20 + 5) MG COM REV CT BL AL AL DESSEC X 7
+
+(20 + 5) MG COM REV CT BL AL AL X 10
+
+(20 + 5) MG COM REV CT BL AL AL DESSEC X 10
+
+(20 + 5) MG COM REV CT BL AL AL X 30
+
+(20 + 5) MG COM REV CT BL AL AL DESSEC X 30
+
+(20 + 5) MG COM REV CT BL AL AL X 60
+
+(20 + 5) MG COM REV CT BL AL AL DESSEC X 60
+
+(20 + 5) MG COM REV CT BL AL AL X 90
+
+(20 + 5) MG COM REV CT BL AL AL DESSEC X 90
+
+(40 + 5) MG COM REV CT BL AL AL X 7
+
+(40 + 5) MG COM REV CT BL AL AL DESSEC X 7
+
+(40 + 5) MG COM REV CT BL AL AL X 10
+
+(40 + 5) MG COM REV CT BL AL AL DESSEC X 10
+
+(40 + 5) MG COM REV CT BL AL AL X 30
+
+(40 + 5) MG COM REV CT BL AL AL DESSEC X 30
+
+(40 + 5) MG COM REV CT BL AL AL X 60
+
+(40 + 5) MG COM REV CT BL AL AL DESSEC X 60
+
+(40 + 5) MG COM REV CT BL AL AL X 90
+
+(40 + 5) MG COM REV CT BL AL AL DESSEC X 90
+
+(40 + 10) MG COM REV CT BL AL AL X 7
+
+(40 + 10) MG COM REV CT BL AL AL DESSEC X 7
+
+(40 + 10) MG COM REV CT BL AL AL X 10
+
+(40 + 10) MG COM REV CT BL AL AL DESSEC X 10
+
+(40 + 10) MG COM REV CT BL AL AL X 30
+
+(40 + 10) MG COM REV CT BL AL AL DESSEC X 30
+
+(40 + 10) MG COM REV CT BL AL AL X 60
+
+(40 + 10) MG COM REV CT BL AL AL DESSEC X 60
+
+(40 + 10) MG COM REV CT BL AL AL X 90
+
+(40 + 10) MG COM REV CT BL AL AL DESSEC X 90
+
+--------------------------------------------------
+
+GALLIA INDUSTRIA FARMACEUTICA LTDA 12022755000176
+
+nimesulida
+
+OPTAFLAN 25351.597259/2019-20
+
+10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1458721/25-1
+
+(11093 - RDC 73/2016 - SIMILAR - Inclusão de nova apresentação - 1366408/25-5 - 25351.006433/01-83)
+
+100 MG COM CT BL AL PLAS PVC TRANS X 600
+
+--------------------------------------------------
+
+TARGO COMÉRCIO INTERNACIONAL LIMITADA 39809660000153
+
+cloridrato de cefepima 25351.486519/2023-19
+
+155 GENERICO - REGISTRO DE MEDICAMENTO 0786446/23-9
+
+1 G PO SOL INJ IV/IM CT FA VD TRANS
+
+1 G PO SOL INJ IV/IM CT 10 FA VD TRANS
+
+1 G PO SOL INJ IV/IM CT 50 FA VD TRANS
+
+--------------------------------------------------
+
+ACCORD FARMACÊUTICA LTDA 64171697000146
+
+midostaurina
+
+TADOMYN 25351.199280/2023-40
+
+150 SIMILAR - REGISTRO DE MEDICAMENTO SIMILAR 0325603/23-1
+
+25 MG CAP MOLE CT BL AL AL X 56
+
+25 MG CAP MOLE CT BL AL AL X 112
+
+--------------------------------------------------
+
+RANBAXY FARMACÊUTICA LTDA 73663650000190
+
+pantoprazol sódico sesqui-hidratado
+
+pantoprazol sódico 25351.216727/2005-71
+
+11115 RDC 73/2016 - GENÉRICO - INCLUSÃO DE NOVA CONCENTRAÇÃO 0907850/23-9
+
+20 MG COM REV LIB RETARD CT STR AL X 7
+
+20 MG COM REV LIB RETARD CT STR AL X 14
+
+20 MG COM REV LIB RETARD CT STR AL X 28
+
+20 MG COM REV LIB RETARD CT STR AL X 30
+
+20 MG COM REV LIB RETARD CT STR AL X 42
+
+--------------------------------------------------
+
+TORRENT DO BRASIL LTDA 33078528000132
+
+rosuvastatina cálcica
+
+ROSUCOR 25351.087708/2009-30
+
+11117 RDC 73/2016 - SIMILAR - INCLUSÃO DE NOVA CONCENTRAÇÃO 0377168/24-7
+
+40 MG COM REV CT BL AL AL X 10
+
+40 MG COM REV CT BL AL AL X 30
+
+40 MG COM REV CT BL AL AL X 60
+
+40 MG COM REV CT BL AL AL X 90
+
+40 MG COM REV CT BL AL AL X 100

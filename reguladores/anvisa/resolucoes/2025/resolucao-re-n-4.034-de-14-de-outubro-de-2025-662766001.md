@@ -1,0 +1,96 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.034, DE 14 DE OUTUBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "4034"
+data: 2025-10-14
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 15/10/2025, seção 1, p. 177"
+data_publicacao: 2025-10-15
+edicao: "197"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.034-de-14-de-outubro-de-2025-662766001"
+baixado_em: 2026-10-16
+sha256_html_fonte: 047a214ed35e6e49edf53491c2ee3df8ce38f6b053278359db1c46c2d6d0fcd5
+---
+# RESOLUÇÃO-RE Nº 4.034, DE 14 DE OUTUBRO DE 2025
+
+RESOLUÇÃO-RE Nº 4.034, DE 14 DE OUTUBRO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+BOMPP - DISTRIBUIDORA DE NUTRICAO E MEDICAMENTOS HOSPITALARES LTDA / 61.518.314/0001-75
+
+25351.179103/2025-17 / 1417064
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1319940251
+
+--------------------------------------
+
+CW4 IMPORTADORA E EXPORTADORA DE PRODUTOS MEDICOS LTDA / 48.060.498/0001-04
+
+25351.061562/2025-37 / 1406426
+
+ARMAZENAR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+IMPORTAR: MEDICAMENTO
+
+706 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - IMPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0543967255
+
+--------------------------------------
+
+VITAFORTE DISTRIBUIDORA DE PRODUTOS HOSPITALARES E SAUDE LTDA / 56.420.702/0001-89
+
+25351.130508/2025-49 / 1411871
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0981666256
+
+--------------------------------------
+
+SC DISTRIBUICAO LTDA / 01.206.820/0046-07
+
+25351.179016/2025-51 / 1417051
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1319747256
+
+--------------------------------------
+
+GMED GESTAO E SERVICOS EM SAUDE LTDA / 40.222.535/0001-21
+
+25351.179125/2025-79 / 1417081
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1320004253

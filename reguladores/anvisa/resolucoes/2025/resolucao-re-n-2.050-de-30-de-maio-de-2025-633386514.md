@@ -1,0 +1,231 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.050, DE 30 DE MAIO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2050"
+data: 2025-05-30
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 02/06/2025, seção 1, p. 172"
+data_publicacao: 2025-06-02
+edicao: "102"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.050-de-30-de-maio-de-2025-633386514"
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE nº 2.050, DE 30 DE MAIO DE 2025
+
+RESOLUÇÃO-RE nº 2.050, DE 30 DE MAIO DE 2025
+
+O GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+Marcus Aurélio Miranda de Araújo
+
+## ANEXO
+
+EMPRESA: White Martins Gases industriais Ltda - CNPJ: 35.820.448/0140-05 - AUTORIZ/MS: 2200001
+
+ENDEREÇO: Rua Oito, 638
+
+MUNICÍPIO: VOLTA REDONDA - UF: RJ - EXPEDIENTE: 1554237/24-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos Criogênicos Medicinais: Líquidos Criogênicos
+
+.........................................
+
+EMPRESA FABRICANTE: BALKANPHARMA-DUPNITSA AD
+
+ENDEREÇO: 3 SAMOKOVSKO SHOSSE STREET, DUPNITSA, 2600 - PAÍS: BULGÁRIA - CÓDIGO ÚNICO: A.001017
+
+EMPRESA SOLICITANTE: TEVA FARMACÊUTICA LTDA. - CNPJ: 05.333.542/0001-08
+
+AUTORIZ/MS: 1055731 - EXPEDIENTE(s): 1442850/24-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: BOEHRINGER INGELHEIM PHARMA GMBH & CO. KG
+
+ENDEREÇO: BIRKENDORFER STR. 65, 88397 - BIBERACH AN DER RISS - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000116
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 1469647/24-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: MILLMOUNT HEALTHCARE LIMITED
+
+ENDEREÇO: BLOCK-7, CITY NORTH BUSINESS CAMPUS, STAMULLEN, CO. MEATH, K32 YD60 - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.001227
+
+EMPRESA SOLICITANTE: RECORDATI RARE DISEASES COMÉRCIO DE MEDICAMENTOS LTDA - ME - CNPJ: 53.056.057/0001-79
+
+AUTORIZ/MS: 1171267 - EXPEDIENTE(s): 1262015/24-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: PHARMA PACKAGING SOLUTIONS, LLC DBA TJOAPACK, LLC
+
+ENDEREÇO: 341 JD YARNELL INDUSTRIAL PARKWAY, CLINTON, TENNESSEE (TN) 37716 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001325
+
+EMPRESA SOLICITANTE: CHIESI FARMACÊUTICA LTDA - CNPJ: 61.363.032/0001-46
+
+AUTORIZ/MS: 1000580 - EXPEDIENTE(s): 1599696/24-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: WUXI STA PHARMACEUTICAL CO., LTD.
+
+ENDEREÇO: NO. 8 XINRUI ROAD, XINWU DISTRICT, WUXI, 214028 - PAÍS: CHINA, REPÚBLICA POPULAR - CÓDIGO ÚNICO: A.001576
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 1598824/24-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: FARMASIERRA MANUFACTURING, S.L.
+
+ENDEREÇO: CTRA. IRÚN, KM. 26.200, SAN SEBASTIÁN DE LOS REYES, 28709 MADRID - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.000225
+
+EMPRESA SOLICITANTE: VIATRIS FARMACEUTICA DO BRASIL LTDA - CNPJ: 11.643.096/0001-22
+
+AUTORIZ/MS: 1088307 - EXPEDIENTE(s): 1547135/24-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+.........................................
+
+EMPRESA FABRICANTE: M/S PSYCHOTROPICS INDIA LIMITED
+
+ENDEREÇO: PLOT Nº 12 & 12A, INDUSTRIAL PARK-II, PHASE -I, SALEMPUR, MEHDOOD-2, HARIDWAR, UTTARAKHAND - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001136
+
+EMPRESA SOLICITANTE: NUNESFARMA PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 75.014.167/0001-00
+
+AUTORIZ/MS: 1017952 - EXPEDIENTE(s): 1628398/24-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: FAREVA AMBOISE
+
+ENDEREÇO: ZONE INDUSTRIELLE, 29 ROUTE DES INDUSTRIES, POCE SUR CISSE, 37530 - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000496
+
+EMPRESA SOLICITANTE: VIATRIS FARMACEUTICA DO BRASIL LTDA - CNPJ: 11.643.096/0001-22
+
+AUTORIZ/MS: 1088307 - EXPEDIENTE(s): 1599021/24-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: EXCELLA GMBH & CO. KG
+
+ENDEREÇO: NÜRNBERGER STRASSE 12, 90537 FEUCHT - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000212
+
+EMPRESA SOLICITANTE: PFIZER BRASIL LTDA - CNPJ: 61.072.393/0001-33
+
+AUTORIZ/MS: 1021101 - EXPEDIENTE(s): 1456189/24-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: HALEON CH SARL
+
+ENDEREÇO: ROUTE L´ETRAZ, 1260 NYON - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.000758
+
+EMPRESA SOLICITANTE: PF Consumer Healthcare Brazil Importadora e Distribuidora de Medicamentos Ltda - CNPJ: 30.872.270/0001-53
+
+AUTORIZ/MS: 1192905 - EXPEDIENTE(s): 0050274/25-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis
+
+.........................................
+
+EMPRESA FABRICANTE: GLAXOSMITHKLINE BIOLOGICALS S.A.
+
+ENDEREÇO: PARC DE LA NOIRE EPINE, AVENUE FLEMING 20, 1300, WAVRE - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000270
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 1394138/24-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: AVARA LISCATE PHARMACEUTICAL SERVICES S.P.A.,
+
+ENDEREÇO: VIA FOSSE ARDEATINE, 2 - 20050 LISCATE (MI) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000307
+
+EMPRESA SOLICITANTE: ASPEN PHARMA INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 02.433.631/0001-20
+
+AUTORIZ/MS: 1037648 - EXPEDIENTE(s): 1613435/24-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT ANAGNI SRL
+
+ENDEREÇO: LOC. FONTANA DEL CERASO SNC - STRADA PROVINCIALE 12 CASILINA N. 41 - 03012, ANAGNI (FR) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000126
+
+EMPRESA SOLICITANTE: BRISTOL-MYERS SQUIBB FARMACÊUTICA LTDA - CNPJ: 56.998.982/0001-07
+
+AUTORIZ/MS: 1001800 - EXPEDIENTE(s): 1628660/24-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: ROVI PHARMA INDUSTRIAL SERVICES S.A.
+
+ENDEREÇO: C/JULIÁN CAMARILLO 35, 28037 - MADRID - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.000536
+
+EMPRESA SOLICITANTE: ÁVITA CARE IMPORTAÇÃO E DISTRIBUIÇÃO DE PRODUTOS LTDA. - CNPJ: 31.203.582/0001-37
+
+AUTORIZ/MS: 1239001 - EXPEDIENTE(s): 1406392/24-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: NOVARTIS MANUFACTURING NV
+
+ENDEREÇO: RIJKSWEG 14, 2870, PUURS-SINT-AMANDS - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000660
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 1540455/24-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Soluções com Preparação Asséptica; Suspensões com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: WOCKHARDT LIMITED
+
+ENDEREÇO: E-1/1, WOCKHARDT INFRASTRUCTURE DEVELOPMENT LTD, SEZ E-1, SHENDRA MIDC, FIVE STAR INDUSTRIAL AREA, SHENDRA AURANGABAD 431154, MAHARASHTRA STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001622
+
+EMPRESA SOLICITANTE: FUNDAÇÃO EZEQUIEL DIAS - FUNED - CNPJ: 17.503.475/0001-01
+
+AUTORIZ/MS: 1012099 - EXPEDIENTE(s): 0337069/25-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica

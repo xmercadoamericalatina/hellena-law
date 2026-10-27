@@ -1,0 +1,799 @@
+---
+titulo: "RESOLUÇÃO-RE nº 4.013, de 9 de OUTUBRO de 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "4013"
+data: 2026-10-09
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 13/10/2026, seção 1, p. 114"
+data_publicacao: 2026-10-13
+edicao: "193"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.013-de-9-de-outubro-de-2026-737760505"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 4.013, de 9 de OUTUBRO de 2026
+
+RESOLUÇÃO-RE nº 4.013, de 9 de OUTUBRO de 2026
+
+A GERENTE-GERAL DE ALIMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 96, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Deferir as petições relacionadas à Gerência-Geral de Alimentos, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRÍCIA FERNANDES NANTES DE CASTILHO
+
+## ANEXO
+
+Número da Listagem: 715026
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO
+
+MARCA
+
+NUMERO DO PROCESSO / VENCIMENTO DO REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+DESCRIÇÃO DA APRESENTAÇÃO
+
+REGISTRO
+
+PRAZO DE VALIDADE DA APRESENTAÇÃO
+
+EMBALAGEM PRIMÁRIA
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL
+
+25351.400608/2013-03 / 07/2029
+
+456 - Alteração de Rotulagem / 0770104/26-6
+
+APRESENTAÇÃO 1
+
+6204799820021
+
+12 Meses
+
+PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL
+
+25351.411930/2013-51 / 09/2029
+
+456 - Alteração de Rotulagem / 0770064/26-4
+
+APRESENTAÇÃO 1
+
+6204799840023
+
+12 Meses
+
+PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FORMULA MODIFICADA PARA NUTRIÇÃO ENTERAL
+
+25351.825980/2016-54 / 07/2027
+
+456 - Alteração de Rotulagem / 0770698/26-3
+
+APRESENTAÇÃO 1
+
+6204799900063
+
+12 Meses
+
+PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES E DE SEGUIMENTO PARA LACTENTES E CRIANÇAS DE PRIMEIRA INFÂNCIA DESTINADA A NECESSIDADES DIETOTERÁPICAS ESPECÍFICAS À BASE DE PROTEÍNA EXTENSAMENTE HIDROLISADA
+
+25351.067005/2021-04 / 09/2027
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0892745/26-6
+
+APRESENTAÇÃO 1
+
+6596501610013
+
+24 Meses
+
+METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES E DE SEGUIMENTO PARA LACTENTES E CRIANÇAS DE PRIMEIRA INFÂNCIA DESTINADA A NECESSIDADES DIETOTERÁPICAS ESPECÍFICAS À BASE DE PROTEÍNA EXTENSAMENTE HIDROLISADA
+
+25351.067005/2021-04 / 09/2027
+
+4124 - Cancelamento de Registro de Apresentação / 1044981/26-7
+
+ARAÇATUBA/SP
+
+6596501610021
+
+24 Meses
+
+METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES E DE SEGUIMENTO PARA LACTENTES
+
+25351.432706/2021-11 / 05/2027
+
+4124 - Cancelamento de Registro de Apresentação / 1051608/26-5
+
+APRESENTAÇÃO - FÓRMULA 01
+
+6596501570011
+
+12 Meses
+
+METALICA / PLASTICA
+
+FÓRMULA 01 - SÃO JOSÉ DO RIO PARDO/SP
+
+6596501570021
+
+12 Meses
+
+METALICA / PLASTICA
+
+FÓRMULA 01 - ALEMANHA
+
+6596501570038
+
+12 Meses
+
+METALICA / PLASTICA
+
+FÓRMULA 01 - ESTADOS UNIDOS
+
+6596501570046
+
+12 Meses
+
+METALICA / PLASTICA
+
+FÓRMULA 01 - MÉXICO
+
+6596501570054
+
+12 Meses
+
+METALICA / PLASTICA
+
+FÓRMULA 02 - SÃO JOSÉ DO RIO PARDO/SP
+
+6596501570070
+
+12 Meses
+
+METALICA / PLASTICA
+
+FÓRMULA 02 - ALEMANHA
+
+6596501570089
+
+12 Meses
+
+METALICA / PLASTICA
+
+FÓRMULA 02 - ESTADOS UNIDOS
+
+6596501570097
+
+12 Meses
+
+METALICA / PLASTICA
+
+FÓRMULA 02 - MÉXICO
+
+6596501570100
+
+12 Meses
+
+METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES E DE SEGUIMENTO PARA LACTENTES
+
+25351.432706/2021-11 / 05/2027
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0893006/26-2
+
+APRESENTAÇÃO 1
+
+6596501570062
+
+12 Meses
+
+METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA LACTENTES
+
+25004.120051/2010-25 / 08/2031
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0892748/26-5
+
+APRESENTAÇÃO 1
+
+4007619510012
+
+12 Meses
+
+METALICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA LACTENTES
+
+25004.120051/2010-25 / 08/2031
+
+4124 - Cancelamento de Registro de Apresentação / 1045094/26-7
+
+ALEMANHA
+
+4007619510047
+
+12 Meses
+
+METALICA
+
+ESTADOS UNIDOS
+
+4007619510055
+
+12 Meses
+
+METALICA
+
+MÉXICO
+
+4007619510063
+
+12 Meses
+
+METALICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA CRIANÇAS DE PRIMEIRA INFÂNCIA
+
+25351.223143/2023-33 / 12/2028
+
+4124 - Cancelamento de Registro de Apresentação / 1056493/26-4
+
+FEIRA DE SANTANA/BA
+
+6596501910025
+
+12 Meses
+
+METALICA / PLASTICA
+
+ALEMANHA
+
+6596501910033
+
+12 Meses
+
+METALICA / PLASTICA
+
+ESTADOS UNIDOS
+
+6596501910041
+
+12 Meses
+
+METALICA / PLASTICA
+
+MÉXICO
+
+6596501910051
+
+12 Meses
+
+METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA CRIANÇAS DE PRIMEIRA INFÂNCIA
+
+25351.223143/2023-33 / 12/2028
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0834112/26-4
+
+APRESENTAÇÃO 1
+
+6596501910017
+
+12 Meses
+
+METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.008066/2026-36 / 04/2031
+
+456 - Alteração de Rotulagem / 0722859/26-1
+
+Apresentação 1
+
+6596502040016
+
+12 Meses
+
+METALICA / lata
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES
+
+25351.150866/2021-44 / 02/2027
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0892758/26-1
+
+APRESENTAÇÃO 1
+
+6596501530087
+
+15 Meses
+
+METALICA / PLASTICA / pote
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES
+
+25351.150866/2021-44 / 02/2027
+
+4124 - Cancelamento de Registro de Apresentação / 1045930/26-8
+
+FÓRMULA 2 - ALEMANHA
+
+6596501530052
+
+15 Meses
+
+METALICA / PLASTICA / pote
+
+FÓRMULA 2 - MÉXICO
+
+6596501530060
+
+15 Meses
+
+METALICA / PLASTICA / pote
+
+FÓRMULA 2 - ESTADOS UNIDOS
+
+6596501530079
+
+15 Meses
+
+METALICA / PLASTICA / pote
+
+FÓRMULA 2 - MÉXICO (OCOTLÁN)
+
+6596501530125
+
+15 Meses
+
+METALICA / PLASTICA / pote
+
+FÓRMULA 2 - MÉXICO (COATEPEC)
+
+6596501530141
+
+15 Meses
+
+METALICA / PLASTICA / pote
+
+FÓRMULA 2 - CHILE
+
+6596501530168
+
+15 Meses
+
+METALICA / PLASTICA / pote
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES
+
+25351.500578/2017-69 / 06/2029
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0892744/26-0
+
+APRESENTAÇÃO 1
+
+6596501020011
+
+21 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES
+
+25351.500578/2017-69 / 06/2029
+
+4124 - Cancelamento de Registro de Apresentação / 1044892/26-6
+
+ALEMANHA
+
+6596501020021
+
+21 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+ARAÇATUBA/SP
+
+6596501020038
+
+21 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FORMULA INFANTIL PARA LACTENTES E DE SEGMENTO PARA LACTENTES
+
+25351.725563/2019-73 / 03/2030
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0892760/26-5
+
+APRESENTAÇÃO 1
+
+6596501180019
+
+15 Meses
+
+METALICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FORMULA INFANTIL PARA LACTENTES E DE SEGMENTO PARA LACTENTES
+
+25351.725563/2019-73 / 03/2030
+
+4124 - Cancelamento de Registro de Apresentação / 1051275/26-6
+
+ALEMANHA
+
+6596501180027
+
+15 Meses
+
+METALICA
+
+ESTADOS UNIDOS
+
+6596501180035
+
+15 Meses
+
+METALICA
+
+MÉXICO
+
+6596501180043
+
+15 Meses
+
+METALICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES E DE SEGUIMENTO PARA LACTENTES E CRIANÇAS DE PRIMEIRA INFÂNCIA DESTINADA A NECESSIDADES DIETOTERÁPICAS ESPECÍFICAS COM RESTRIÇÃO DE LACTOSE E À BASE DE AMINOÁCIDOS LIVRES
+
+25351.067009/2021-84 / 09/2027
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0892759/26-7
+
+APRESENTAÇÃO 1
+
+6596501620027
+
+24 Meses
+
+METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES E DE SEGUIMENTO PARA LACTENTES E CRIANÇAS DE PRIMEIRA INFÂNCIA DESTINADA A NECESSIDADES DIETOTERÁPICAS ESPECÍFICAS COM RESTRIÇÃO DE LACTOSE E À BASE DE AMINOÁCIDOS LIVRES
+
+25351.067009/2021-84 / 09/2027
+
+4124 - Cancelamento de Registro de Apresentação / 1051135/26-1
+
+HOLANDA
+
+6596501620019
+
+24 Meses
+
+METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA CRIANÇAS DE PRIMEIRA INFÂNCIA
+
+25351.089627/2021-85 / 01/2027
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0892843/26-8
+
+APRESENTAÇÃO 1
+
+6596501520014
+
+15 Meses
+
+METALICA / PLASTICA / pote
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA CRIANÇAS DE PRIMEIRA INFÂNCIA
+
+25351.089627/2021-85 / 01/2027
+
+4124 - Cancelamento de Registro de Apresentação / 1051440/26-6
+
+FEIRA DE SANTANA/BA
+
+6596501520022
+
+15 Meses
+
+METALICA / PLASTICA / pote
+
+MÉXICO
+
+6596501520030
+
+15 Meses
+
+METALICA / PLASTICA / pote
+
+ALEMANHA
+
+6596501520049
+
+15 Meses
+
+METALICA / PLASTICA / pote
+
+ESTADOS UNIDOS
+
+6596501520057
+
+15 Meses
+
+METALICA / PLASTICA / pote
+
+ITUIUTABA/MG
+
+6596501520065
+
+15 Meses
+
+METALICA / PLASTICA / pote
+
+MÉXICO (NANTLI)
+
+6596501520073
+
+15 Meses
+
+METALICA / PLASTICA / pote
+
+MÉXICO (OCOTLÁN)
+
+6596501520081
+
+15 Meses
+
+METALICA / PLASTICA / pote
+
+MÉXICO (COATEPEC)
+
+6596501520091
+
+15 Meses
+
+METALICA / PLASTICA / pote
+
+CHILE
+
+6596501520103
+
+15 Meses
+
+METALICA / PLASTICA / pote
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES E DE SEGUIMENTO PARA LACTENTES
+
+25351.221552/2017-91 / 01/2029
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0893056/26-0
+
+APRESENTAÇÃO 1
+
+6596500990017
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES E DE SEGUIMENTO PARA LACTENTES
+
+25351.221552/2017-91 / 01/2029
+
+4124 - Cancelamento de Registro de Apresentação / 1056029/26-7
+
+SÃO JOSÉ DO RIO PARDO/SP
+
+6596500990025
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+ESTADOS UNIDOS
+
+6596500990033
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+ALEMANHA
+
+6596500990041
+
+15 Meses
+
+ELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+MÉXICO
+
+6596500990051
+
+15 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NUTRIMED INDUSTRIAL LTDA / 72.563.158/0001-80
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.692738/2015-73 / 09/2026
+
+4055 - Cancelamento de Registro de Alimentos - Anvisa / 1033898/26-5
+
+CASTRO/PR
+
+5741900510012
+
+12 Meses
+
+CELULOSICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+PRODIET NUTRIÇÃO CLINICA S.A. / 08.183.359/0001-53
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.184306/2015-22 / 02/2031
+
+4169 - Alteração de fórmula / 0532028/26-1
+
+APRESENTAÇÃO 1
+
+6632000160015
+
+12 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / caixa
+
+APRESENTAÇÃO 2
+
+6632000160023
+
+12 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / caixa
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+SUPPORT PRODUTOS NUTRICIONAIS LTDA / 01.107.391/0001-00
+
+Fórmula infantil para lactentes e de seguimento para lactentes e/ou crianças de primeira infância destinada a necessidades dietoterápicas específicas com restrição de lactose e à base de aminoácidos livres
+
+APROVADA: NEOCATE LCP
+
+25351.059799/2026-39 / 10/2031
+
+4071 - Registro de fórmulas infantis destinadas a necessidades dietoterápicas específicas / 0328962/26-1
+
+Apresentação 1
+
+6593000210018
+
+15 Meses
+
+METALICA / PLASTICA / lata

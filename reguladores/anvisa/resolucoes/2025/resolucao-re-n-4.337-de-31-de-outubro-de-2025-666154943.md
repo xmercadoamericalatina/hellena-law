@@ -1,0 +1,320 @@
+---
+titulo: "RESOLUÇÃO-RE nº 4.337, DE 31 DE OUTUBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "4337"
+data: 2025-10-31
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/11/2025, seção 1, p. 132"
+data_publicacao: 2025-11-03
+edicao: "209"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.337-de-31-de-outubro-de-2025-666154943"
+baixado_em: 2026-10-16
+sha256_html_fonte: ce9b930b1c8b9b2cb3443eb3f414e45f8a51f9a3b831f1021324a81ac9036940
+---
+# RESOLUÇÃO-RE nº 4.337, DE 31 DE OUTUBRO DE 2025
+
+RESOLUÇÃO-RE nº 4.337, DE 31 DE OUTUBRO DE 2025
+
+O GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Renovar a Certificação de Boas Práticas de Fabricação de Medicamentos das empresas constantes no ANEXO.
+
+**Art. 2º** Esta Resolução entra em vigor na data de 6 de novembro de 2025.
+
+Marcus Aurélio Miranda de Araújo
+
+## ANEXO
+
+EMPRESA: COMANDO DO EXERCITO - CNPJ: 00.394.452/0409-03 - AUTORIZ/MS: 1012085
+
+ENDEREÇO: RUA LICINIO CARDOSO, 96,
+
+MUNICÍPIO: RIO DE JANEIRO - UF: RJ - EXPEDIENTE: 0403349/25-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos; Cápsulas
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA: Cyclopet Radiofarmacos ltda - CNPJ: 09.225.881/0001-13 - AUTORIZ/MS: 1097771
+
+ENDEREÇO: Cezinando Dias Paredes, 367
+
+MUNICÍPIO: CURITIBA - UF: PR - EXPEDIENTE: 0636435/25-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Radiofármacos): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: FARMACEUTICI FORMENTI S.P.A
+
+ENDEREÇO: VIA DI VITTORIO 2 - 21040 ORIGGIO (VA) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000224
+
+EMPRESA SOLICITANTE: FUNDAÇÃO OSWALDO CRUZ - CNPJ: 33.781.055/0001-35
+
+AUTORIZ/MS: 1010633 - EXPEDIENTE(s): 0577350/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: FARMACEUTICI FORMENTI S.P.A
+
+ENDEREÇO: VIA DI VITTORIO 2 - 21040 ORIGGIO (VA) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000224
+
+EMPRESA SOLICITANTE: Samsung Bioepis br Pharmaceutical ltda. - CNPJ: 24.563.776/0001-88
+
+AUTORIZ/MS: 1159210 - EXPEDIENTE(s): 0582223/25-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: NOVARTIS PHARMA STEIN AG
+
+ENDEREÇO: SCHAFFHAUSERSTRASSE, CH-4332 STEIN - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.000433
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 0582401/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos; Cápsulas; Cápsulas Moles
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: ORION CORPORATION, ORION PHARMA
+
+ENDEREÇO: ORIONINTIE 1, 02200, ESPOO - PAÍS: FINLÂNDIA - CÓDIGO ÚNICO: A.000468
+
+EMPRESA SOLICITANTE: BIOLAB SANUS FARMACÊUTICA LTDA - CNPJ: 49.475.833/0001-06
+
+AUTORIZ/MS: 1009744 - EXPEDIENTE(s): 0590574/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: BIOCON BIOLOGICS LIMITED
+
+ENDEREÇO: BLOCK NO. B1, B2, B3, Q13 OF Q1 AND W20 AND UNIT S18, 1ST FLOOR, BLOCK B4, SPECIAL ECONOMIC ZONE, PLOT NO. 2, 3, 4, & 5, PHASE IV, BOMMASANDRA-JIGANI LINK ROAD, BOMMASANDRA POST, BENGALURU -560 099 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000106
+
+EMPRESA SOLICITANTE: LIBBS FARMACÊUTICA LTDA - CNPJ: 61.230.314/0001-75
+
+AUTORIZ/MS: 1000333 - EXPEDIENTE(s): 0441822/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: PFIZER MANUFACTURING BELGIUM NV
+
+ENDEREÇO: RIJKSWEG, 12 , PUURS-SINT-AMANDS, 2870 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000493
+
+EMPRESA SOLICITANTE: PFIZER BRASIL LTDA - CNPJ: 61.072.393/0001-33
+
+AUTORIZ/MS: 1021101 - EXPEDIENTE(s): 0583153/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: EGIS PHARMACEUTICALS PLC - SITE 2
+
+ENDEREÇO: BÖKÉNYFÖLDI ÚT 118-120, BUDAPEST, 1165 - PAÍS: HUNGRIA - CÓDIGO ÚNICO: A.000976
+
+EMPRESA SOLICITANTE: MERCK S/A - CNPJ: 33.069.212/0001-84
+
+AUTORIZ/MS: 1000898 - EXPEDIENTE(s): 0605685/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: MERCK S.A DE C.V
+
+ENDEREÇO: CALLE 5, Nº 7, FRACCIONAMIENTO INDUSTRIAL ALCE BLANCO, NAUCALPAN DE JUÁREZ, C.P.53370 - PAÍS: MÉXICO - CÓDIGO ÚNICO: A.000406
+
+EMPRESA SOLICITANTE: PROCTER & GAMBLE DO BRASIL LTDA. - CNPJ: 59.476.770/0001-58
+
+AUTORIZ/MS: 1021422 - EXPEDIENTE(s): 0464344/25-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: HP HALDEN PHARMA AS
+
+ENDEREÇO: SVINESUNDSVEIEN 80, HALDEN, 1788 - PAÍS: NORUEGA - CÓDIGO ÚNICO: A.000235
+
+EMPRESA SOLICITANTE: FRESENIUS KABI BRASIL LTDA - CNPJ: 49.324.221/0001-04
+
+AUTORIZ/MS: 1000410 - EXPEDIENTE(s): 0614042/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: ASPEN NOTRE DAME DE BONDEVILLE
+
+ENDEREÇO: 1, RUE DE L'ABBAYE, 76960 NOTRE DAME DE BONDEVILLE - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000261
+
+EMPRESA SOLICITANTE: GLAXOSMITHKLINE BRASIL LTDA - CNPJ: 33.247.743/0001-10
+
+AUTORIZ/MS: 1001071 - EXPEDIENTE(s): 0278236/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: GENZYME CORPORATION
+
+ENDEREÇO: 1125 PLEASANT VIEW TERRACE, RIDGEFIELD, NEW JERSEY (NJ) 07657 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000678
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 0203423/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: AZIENDE CHIMICHE RIUNITE ANGELINI FRANCESCO ACRAF SPA
+
+ENDEREÇO: VIA VECCHIA DEL PINOCCHIO, 22 - 60131 ANCONA - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000749
+
+EMPRESA SOLICITANTE: APSEN FARMACEUTICA S/A - CNPJ: 62.462.015/0001-29
+
+AUTORIZ/MS: 1001188 - EXPEDIENTE(s): 0537614/25-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: NANJING KING-FRIEND BIOCHEMICAL PHARMACEUTICAL CO., LTD.
+
+ENDEREÇO: NO. 16 XUEFU ROAD, NANJING HIGH & NEW TECHNOLOGY DEVELOPMENT ZONE, NANJING, JIANGSU, 210061 - PAÍS: CHINA, REPÚBLICA POPULAR - CÓDIGO ÚNICO: A.001249
+
+EMPRESA SOLICITANTE: CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. - CNPJ: 44.734.671/0001-51
+
+AUTORIZ/MS: 1002981 - EXPEDIENTE(s): 0543735/25-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: ALMAC PHARMA SERVICES LIMITED
+
+ENDEREÇO: SEAGOE INDUSTRIAL ESTATE, PORTADOWN, CRAIGAVON, BT63 5UA - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.000027
+
+EMPRESA SOLICITANTE: PINT PHARMA PRODUTOS MEDICO-HOSPITALARES E FARMACEUTICOS LTDA - CNPJ: 21.896.000/0001-91
+
+AUTORIZ/MS: 1139004 - EXPEDIENTE(s): 0574640/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas
+
+Sólidos não estéreis (Embalagem primária): Comprimidos Revestidos
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT GERMANY EBERBACH GMBH
+
+ENDEREÇO: GAMMELSBACHER STRASSE 2, 69412 EBERBACH - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000518
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 0285211/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas Moles
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: BAYER HEALTHCARE LLC
+
+ENDEREÇO: 800 DWIGHT WAY, BERKELEY, CALIFORNIA (CA) 94710 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000086
+
+EMPRESA SOLICITANTE: BAYER S.A. - CNPJ: 18.459.628/0001-15
+
+AUTORIZ/MS: 1070568 - EXPEDIENTE(s): 0536386/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: LES LABORATOIRES SERVIER INDUSTRIE
+
+ENDEREÇO: 905 ROUTE DE SARAN, GIDY, 45520 - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000371
+
+EMPRESA SOLICITANTE: LABORATÓRIOS SERVIER DO BRASIL LTDA - CNPJ: 42.374.207/0001-76
+
+AUTORIZ/MS: 1012787 - EXPEDIENTE(s): 0263012/25-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos; Granulados; Pós
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: JANSSEN CILAG S.P.A.
+
+ENDEREÇO: VIA C.JANSSEN (LOC. BORGO S. MICHELE) - 04100 LATINA (LT) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000327
+
+EMPRESA SOLICITANTE: BIOGEN BRASIL PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 07.986.222/0001-74
+
+AUTORIZ/MS: 1069938 - EXPEDIENTE(s): 0544028/25-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Cápsulas
+
+Data de Vencimento: 06/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: STERIL-GENE LIFE SCIENCES(P) LTD.
+
+ENDEREÇO: NO. 45, MAIN ROAD, MANGALAM VILLAGE. VILLIANUR COMMUNE. PUDUCHERRY-605110 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001523
+
+EMPRESA SOLICITANTE: ACCORD FARMACÊUTICA LTDA - CNPJ: 64.171.697/0001-46
+
+AUTORIZ/MS: 1055377 - EXPEDIENTE(s): 0614859/25-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 06/11/2027

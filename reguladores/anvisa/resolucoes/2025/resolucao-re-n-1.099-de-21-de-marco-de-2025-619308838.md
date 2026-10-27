@@ -1,0 +1,97 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.099, DE 21 DE MARÇO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "1099"
+data: 2025-03-21
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 24/03/2025, seção 1, p. 102"
+data_publicacao: 2025-03-24
+edicao: "56"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.099-de-21-de-marco-de-2025-619308838"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 1.099, DE 21 DE MARÇO DE 2025
+
+RESOLUÇÃO-RE nº 1.099, DE 21 DE MARÇO DE 2025
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Cancelar o registro sanitário de medicamentos e insumos farmacêuticos, ou de apresentações, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor a partir da data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+---------------------------
+
+BEKER PRODUTOS FÁRMACO HOSPITALARES LTDA 47231121000108
+
+oxacilina sódica 25351.661499/2019-95 05/2030
+
+10088 GENERICO - CANCELAMENTO DE REGISTRO DO MEDICAMENTO - ANVISA 0356583/25-1
+
+1.0346.0022.001-1 24 Meses
+
+500 MG PÓ P/ SOL INJ CT FA VD TRANS + DIL AMP VD TRANS X 5 ML
+
+1.0346.0022.002-8 24 Meses
+
+500 MG PÓ P/ SOL INJ CT 50 FA VD TRANS + 50 DIL AMP VD TRANS X 5 ML
+
+1.0346.0022.003-6 24 Meses
+
+500 MG PÓ P/ SOL INJ CT 50 FA VD TRANS
+
+---------------------------
+
+BOEHRINGER INGELHEIM DO BRASIL QUÍMICA E FARMACÊUTICA LTDA. 60831658000177
+
+BROMETO DE IPRATRÓPIO
+
+ATROVENT 25991.003472/79 03/2025
+
+10084 MEDICAMENTO NOVO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 0337036/25-4
+
+1.0367.0004.003-1 36 Meses
+
+0,4 MG/ML AER DOSIF CT TB AL X 15 ML + BOCAL + AEROCAMERA
+
+---------------------------
+
+KLEY HERTZ FARMACEUTICA S.A 92695691000103
+
+GUAIFENESINA
+
+XAROPE GFN 25351.347347/2023-69 08/2034
+
+10087 SIMILARES - CANCELAMENTO DE REGISTRO DO MEDICAMENTO - ANVISA 0328907/25-9
+
+1.0689.0212.001-2 24 Meses
+
+13,333 MG/ML XPE CT FR VD AMB X 100 ML + COP (SAB. MORANGO)
+
+1.0689.0212.002-0 24 Meses
+
+13,333 MG/ML XPE CT FR VD AMB X 100 ML + COP (SAB. BAUNILHA)
+
+1.0689.0212.003-9 24 Meses
+
+13,333 MG/ML XPE CT FR VD AMB X 150 ML + COP (SAB. BAUNILHA)

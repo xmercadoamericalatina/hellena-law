@@ -1,0 +1,133 @@
+---
+titulo: "RESOLUÇÃO-RE nº 917, DE 9 DE MARÇO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "917"
+data: 2026-03-09
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 10/03/2026, seção 1, p. 127"
+data_publicacao: 2026-03-10
+edicao: "46"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-917-de-9-de-marco-de-2026-691496795"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 917, DE 9 DE MARÇO DE 2026
+
+RESOLUÇÃO-RE nº 917, DE 9 DE MARÇO DE 2026
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+LABORATORIO TEUTO BRASILEIRO S/A / 17.159.229/0010-67
+
+25351.015712/2026-11 / 1424033
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+IMPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0170767264
+
+--------------------------------------
+
+M&A SUPRA COMERCIAL LTDA ME / 10.731.996/0001-69
+
+25351.333469/2013-13 / 1234859
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0170836266
+
+--------------------------------------
+
+nutricional farma ltda epp / 08.316.438/0001-95
+
+25351.670475/2021-41 / 1265239
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0170639266
+
+--------------------------------------
+
+ALLMEDIC DISTRIBUIDORA DE PRODUTOS LABORATORIAIS, MEDICAMENTOS, HOSPITALAR, VETERINARIO E ODONTOLOGICO LTDA / 61.722.301/0001-13
+
+25351.021769/2026-50 / 1424505
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0171931262
+
+--------------------------------------
+
+Hosp Medical Comercio de Material Medico e Medicamentos Hospitalares Ltda / 33.160.739/0001-10
+
+25351.575661/2019-53 / 1195001
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0164648267
+
+--------------------------------------
+
+INFYNYTY 2018 PRODUTOS CORRELATOS PARA SAUDE LTDA / 30.880.958/0001-85
+
+25351.236769/2025-71 / 1422691
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0172480264
+
+--------------------------------------
+
+ALL MED DISTRIBUIDORA DE MEDICAMENTOS E INSTRUMENTOS MEDICOS LTDA - ME / 20.773.091/0001-05
+
+25351.249148/2017-84 / 1165734
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0166045268

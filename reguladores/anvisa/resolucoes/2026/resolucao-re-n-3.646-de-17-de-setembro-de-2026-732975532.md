@@ -1,0 +1,165 @@
+---
+titulo: "RESOLUÇÃO-RE N° 3.646, DE 17 DE SETEMBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "3646"
+data: 2026-09-17
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 21/09/2026, seção 1, p. 156"
+data_publicacao: 2026-09-21
+edicao: "178"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.646-de-17-de-setembro-de-2026-732975532"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE N° 3.646, DE 17 DE SETEMBRO DE 2026
+
+RESOLUÇÃO-RE N° 3.646, DE 17 DE SETEMBRO DE 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Indeferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+--------------------------------------------------
+
+UNICHEM FARMACÊUTICA DO BRASIL LTDA 05399786000185
+
+cloridrato de donepezila 25351.301607/2013-92 08/2029
+
+11723 RDC 73/2016 - GENÉRICO - INCLUSÃO DE NOVO DIFA SEM CADIFA 0192127/26-8
+
+1.5649.0013.001-1 36 Meses
+
+10 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 28
+
+1.5649.0013.002-8 36 Meses
+
+5 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 28
+
+1.5649.0013.003-6 36 Meses
+
+5 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 30
+
+1.5649.0013.004-4 36 Meses
+
+5 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 60
+
+1.5649.0013.005-2 36 Meses
+
+10 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 30
+
+1.5649.0013.006-0 36 Meses
+
+10 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 60
+
+--------------------------------------------------
+
+FUNDAÇÃO OSWALDO CRUZ 33781055000135
+
+dolutegravir sódico 25351.693841/2020-50 10/2030
+
+11491 GENÉRICO - DESVINCULAÇÃO DE REGISTRO DE MEDICAMENTO - CLONE 0196560/26-8
+
+1.1063.0153.001-8 24 Meses
+
+50 MG COM REV CT FR PLAS PEAD OPC X 30
+
+1.1063.0153.004-2 24 Meses
+
+50 MG COM REV CX 35 FR PLAS PEAD OPC X 30
+
+--------------------------------------------------
+
+VIATRIS FARMACEUTICA DO BRASIL LTDA 11643096000122
+
+dexlansoprazol sesqui-hidratado
+
+dexlansoprazol 25351.401097/2024-09
+
+11091 RDC 73/2016 - GENÉRICO - INCLUSÃO DE NOVA APRESENTAÇÃO 0431941/26-2
+
+30 MG CAP DURA LIB RETARD CT BL AL AL DESSEC X 2
+
+60 MG CAP DURA LIB RETARD CT BL AL AL DESSEC X 2
+
+dexlansoprazol sesqui-hidratado
+
+FROSIV 25351.416486/2024-21
+
+10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0431981/26-4
+
+(11091 - RDC 73/2016 - GENÉRICO - Inclusão de nova apresentação - 0431941/26-2 - 25351.401097/2024-09)
+
+30 MG CAP DURA LIB RETARD CT BL AL AL DESSEC X 2
+
+60 MG CAP DURA LIB RETARD CT BL AL AL DESSEC X 2
+
+--------------------------------------------------
+
+ARESE PHARMA LTDA. 07670111000154
+
+nitrato de tiamina + fosfato de piridoxal + levomefolato de cálcio + mecobalamina
+
+NEVRIX PROTECT 25351.053828/2025-78
+
+1577 ESPECÍFICO - REGISTRO DE MEDICAMENTO 0485915/25-4
+
+(300 + 35 + 3 + 2) MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 8
+
+(300 + 35 + 3 + 2) MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 10
+
+(300 + 35 + 3 + 2) MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 15
+
+(300 + 35 + 3 + 2) MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 20
+
+(300 + 35 + 3 + 2) MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 30
+
+(300 + 35 + 3 + 2) MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 45
+
+(300 + 35 + 3 + 2) MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 60
+
+(300 + 35 + 3 + 2) MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 75
+
+(300 + 35 + 3 + 2) MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 90
+
+--------------------------------------------------
+
+CIPLA BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDICAMENTOS LTDA 18268051000164
+
+sulfato de isavuconazônio 25351.045556/2026-13
+
+155 GENERICO - REGISTRO DE MEDICAMENTO 0250877/26-1
+
+100 MG CAP DURA CT BL AL AL X 14
+
+--------------------------------------------------
+
+VIATRIS FARMACEUTICA DO BRASIL LTDA 11643096000122
+
+cloridrato de sertralina
+
+ZOLOFT SD 25351.851933/2023-11
+
+12261 MEDICAMENTO INOVADOR - REGISTRO DE MEDICAMENTO INOVADOR (NOVA FORMA FARMACÊUTICA) - VIA DE DESENVOLVIMENTO ABREVIADO 1431468/23-1
+
+20 MG/ML SOL DIL OR CT FR VD AMB X 60 ML + CGT

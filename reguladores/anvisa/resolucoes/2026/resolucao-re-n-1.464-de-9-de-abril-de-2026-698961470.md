@@ -1,0 +1,203 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.464, DE 9 DE ABRIL DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "1464"
+data: 2026-04-09
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 13/04/2026, seção 1, p. 231"
+data_publicacao: 2026-04-13
+edicao: "69"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.464-de-9-de-abril-de-2026-698961470"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 1.464, DE 9 DE ABRIL DE 2026
+
+RESOLUÇÃO-RE nº 1.464, DE 9 DE ABRIL DE 2026
+
+O GERENTE-GERAL SUBSTITUTO DE COSMÉTICOS E SANEANTES DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Cancelar os processos dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RODRIGO ABRÃO VELOSO TAVEIRA
+
+## ANEXO
+
+NOME DA EMPRESA/ CNPJ
+
+NOME DO PRODUTO E MARCA
+
+NÚMERO DE PROCESSO
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+BIO BEAUTY INDUSTRIA DE COSMETICOS LTDA / 25.053.767/0001-00
+
+FLUIDO MODULADOR PEELING ITALIANO BIODERMIS
+
+25351.042949/2026-75
+
+---------------------------------
+
+BLOOMING COSMÉTICOS IMPORTAÇÃO LTDA / 53.612.125/0001-39
+
+Adesivo dental iluminador LOVÉ RAIN
+
+25351.056888/2026-23
+
+---------------------------------
+
+GRAZIETE SOUZA DE MELO NUNES ME/ 19.646.781/0001-14
+
+PERFUME DE AMBIENTE / 25351.010441/2021-01
+
+----------------------------------
+
+H7 IMPORT LTDA - ME / 14.209.847/0001-95
+
+12D TIRAS CLAREADORAS DE DENTES - GLHF
+
+25351.218249/2025-87
+
+----------------------------------
+
+LA VITTORIA INDUSTRIA E COMERCIO DE COSMETICOS LTDA /11.273.230/0001-40
+
+CERA MODELADORA BLACK DULUX
+
+25351.158236/2025-41
+
+CERA MODELADORA INCOLOR DULUX
+
+25351.158235/2025-05
+
+CERA MODELADORA MATTE CARAMELO DULUX
+
+25351.177379/2025-52
+
+CERA MODELADORA MATTE SECO DULUX
+
+25351.158278/2025-82
+
+CERA MODELADORA OURO DULUX
+
+25351.158208/2025-24
+
+CERA MODELADORA PREMIUM DULUX
+
+25351.158209/2025-79
+
+CERA MODELADORA RUBY DULUX
+
+25351.158206/2025-35
+
+CERA MODELADORA TEIA DULUX
+
+25351.158262/2025-70
+
+CERA MODELADORA PREMIUM TRANÇAS DULUX
+
+25351.158263/2025-14
+
+CERA MODELADORA TEIA LGN
+
+25351.075880/2024-02
+
+CERA MODELADORA MATTE LGN
+
+25351.075871/2024-11
+
+CERA MODELADORA BLACK LGN
+
+25351.075724/2024-33
+
+CERA MODELADORA INCOLOR LGN
+
+25351.075787/2024-90
+
+CERA MODELADORA CARAMELO LGN
+
+25351.075879/2024-70
+
+----------------------------------
+
+LYM INDÚSTRIA E COMÉRCIO LTDA / 30.699.443/0001-83
+
+Swab de álcool LYM
+
+25351.460411/2023-04
+
+----------------------------------
+
+SFK BIJUTERIAS E ACESSORIOS LTDA/27.427.287/0001-97
+
+Lumisorris Purple Teeth Whitening Strips
+
+25351.045793/2026-84
+
+PURPLE THEETH WHITENING STRIPS DR BROOK
+
+25351.029101/2026-51
+
+PURPLE THEETH WHITENING STRIPS DR VANESSA
+
+25351.029080/2026-73
+
+Teeth Whitening Strips Mr Brook
+
+25351.029090/2026-17
+
+----------------------------------
+
+MVW LTDA / 46.041.696/0001-03
+
+Fitas de Clareamento Smilie
+
+25351.127756/2025-11
+
+----------------------------------
+
+TOYA CORPORATION LTDA / 55.512.328/0001-89
+
+FITA CLAREADORA VIOLETA
+
+25351.042245/2026-01
+
+----------------------------------
+
+VIVER INDUSTRIA E COMERCIO DE COSMETICOS LTDA - ME / 32.491.629/0001-78
+
+TÔNICO - BARBA ROBUSTA
+
+25351.539671/2021-40
+
+----------------------------------
+
+VR MEDICAL IMPORTADORA E DISTRIBUIDORA DE PRODUTOS MÉDICOS LTDA / 04.718.143/0001-94
+
+ALPINE WHITE FITAS CLAREADORAS
+
+25351.159849/2025-04
+
+ALPINE WHITE FITAS CLAREADORAS
+
+25351.136847/2023-77
+
+ALPINE WHITE FITAS CLAREADORAS PARA DENTES SENSÍVEIS
+
+25351.159875/2025-24
+
+ALPINE WHITE FITAS CLAREADORAS PARA DENTES SENSÍVEIS
+
+25351.137039/2023-27
+
+----------------------------------
+
+WISSEN CONSULTORIA LTDA / 11.014.241/0001-06
+
+Tiras Clareadoras Roxas - LIZATY
+
+25351.056691/2026-94

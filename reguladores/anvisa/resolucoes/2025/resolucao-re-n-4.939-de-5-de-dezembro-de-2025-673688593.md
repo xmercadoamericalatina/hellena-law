@@ -1,0 +1,138 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.939, DE 5 DE dezEMBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "4939"
+data: 2025-12-05
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/12/2025, seção 1, p. 201"
+data_publicacao: 2025-12-08
+edicao: "233"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.939-de-5-de-dezembro-de-2025-673688593"
+baixado_em: 2026-10-16
+sha256_html_fonte: da156f862dcb312375dddc7cc6691ad25a0fda8e2f3b19f1e6e48a57e3ca66b0
+---
+# RESOLUÇÃO-RE Nº 4.939, DE 5 DE dezEMBRO DE 2025
+
+RESOLUÇÃO-RE Nº 4.939, DE 5 DE dezEMBRO DE 2025
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Cancelar o registro sanitário de medicamentos e insumos farmacêuticos, ou de apresentações, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor a partir da data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+----------------------------
+
+GERMED FARMACEUTICA LTDA 45992062000165
+
+BIMATOPROSTA
+
+GLAMIGAN 25351.488482/2016-34 01/2027
+
+10080 SIMILARES - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 0771601/18-0
+
+1.0583.0870.001-2 24 Meses
+
+0,3 MG/ML SOL OFT CT FR PLAS OPC GOT X 2,5 ML
+
+1.0583.0870.004-7 24 Meses
+
+0,3 MG/ML SOL OFT CT FR PLAS OPC GOT X 7,5 ML
+
+----------------------------
+
+MERCK SHARP & DOHME FARMACEUTICA LTDA. 03560974000118
+
+FOSFATO DE SITAGLIPTINA MONOIDRATADO
+
+NIMEGON 25351.497971/2014-15 08/2035
+
+10087 SIMILARES - CANCELAMENTO DE REGISTRO DO MEDICAMENTO - ANVISA 1551773/25-0
+
+1.0171.0205.004-1 24 Meses
+
+50 MG COM REV CT BL AL PVC/PE/PVDC X 15
+
+1.0171.0205.005-8 24 Meses
+
+50 MG COM REV CT BL AL PVC/PE/PVDC X 30
+
+1.0171.0205.006-6 24 Meses
+
+50 MG COM REV CT BL AL PVC/PE/PVDC X 28
+
+1.0171.0205.007-4 24 Meses
+
+100 MG COM REV CT BL AL PVC/PE/PVDC X 7
+
+1.0171.0205.008-2 24 Meses
+
+100 MG COM REV CT BL AL PVC/PE/PVDC X 10
+
+1.0171.0205.009-0 24 Meses
+
+100 MG COM REV CT BL AL PVC/PE/PVDC X 14
+
+1.0171.0205.010-4 24 Meses
+
+100 MG COM REV CT BL AL PVC/PE/PVDC X 28
+
+1.0171.0205.011-2 24 Meses
+
+100 MG COM REV CT BL AL PVC/PE/PVDC X 30
+
+1.0171.0205.015-5 24 Meses
+
+50 MG COM REV CT BL AL AL X 15
+
+1.0171.0205.016-3 24 Meses
+
+50 MG COM REV CT BL AL AL X 30
+
+1.0171.0205.017-1 24 Meses
+
+50 MG COM REV CT BL AL AL X 28
+
+1.0171.0205.018-1 24 Meses
+
+100 MG COM REV CT BL AL AL X 7
+
+1.0171.0205.019-8 24 Meses
+
+100 MG COM REV CT BL AL AL X 10
+
+1.0171.0205.020-1 24 Meses
+
+100 MG COM REV CT BL AL AL X 14
+
+1.0171.0205.021-1 24 Meses
+
+100 MG COM REV CT BL AL AL X 28
+
+1.0171.0205.022-8 24 Meses
+
+100 MG COM REV CT BL AL AL X 30
+
+1.0171.0205.024-4 24 Meses
+
+50 MG COM REV CT BL AL AL X 7

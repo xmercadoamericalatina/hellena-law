@@ -1,0 +1,209 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.930, de 8 de MAIO de 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "1930"
+data: 2026-05-08
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 11/05/2026, seção 1, p. 162"
+data_publicacao: 2026-05-11
+edicao: "86"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.930-de-8-de-maio-de-2026-704396854"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 1.930, de 8 de MAIO de 2026
+
+RESOLUÇÃO-RE nº 1.930, de 8 de MAIO de 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Cancelar os registros por declaração de caducidade dos medicamentos sob os números de processos constantes nesta Resolução, nos termos do § 7º do art. 12 da Lei nº 6.360, de 1976.
+
+**Art. 2º** O cancelamento dos registros por declaração de caducidade abrange os registros dos produtos cuja revalidação não tenha sido solicitada no prazo referido no § 6º do artigo 12 da Lei nº 6.360, de 1976.
+
+**Art. 3º** Este procedimento finaliza administrativamente os processos, para aqueles registros que não tiverem manifestação em contrário das empresas detentoras.
+
+**Art. 4º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+--------------------------------------------------
+
+ACCORD FARMACÊUTICA LTDA 64171697000146
+
+ORLISTATE
+
+ORLAX 25351.316989/2015-14 04/2026
+
+10066 SIMILARES - CADUCIDADE DE REGISTRO DE MEDICAMENTO 0404229/26-8
+
+1.5537.0049.001-7 18 Meses
+
+120 MG CAP DURA CT BL AL PLAS TRANS X 21
+
+1.5537.0049.002-5 18 Meses
+
+120 MG CAP DURA CT BL AL PLAS TRANS X 42
+
+1.5537.0049.003-3 18 Meses
+
+120 MG CAP DURA CT BL AL PLAS TRANS X 84
+
+--------------------------------------------------
+
+CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. 44734671000151
+
+Maleato de Dexclorfeniramina 25351.302882/2005-17 04/2026
+
+10067 GENERICO - CADUCIDADE DE REGISTRO DE MEDICAMENTO 0404249/26-2
+
+1.0298.0359.001-1 36 Meses
+
+0,4 MG/ML SOL OR CT FR VD AMB X 120 ML + CP MED
+
+1.0298.0359.002-8 36 Meses
+
+0,4 MG/ML SOL OR CX 25 FR VD AMB X 120 ML + 25 CP MED (EMB HOSP)
+
+1.0298.0359.003-6 36 Meses
+
+0,4 MG/ML SOL OR CX 50 FR VD AMB X 120 ML + 50 CP MED (EMB HOSP)
+
+--------------------------------------------------
+
+LABORATÓRIO TEUTO BRASILEIRO S/A 17159229000176
+
+FUROSEMIDA
+
+DIFLUMID 25351.640140/2014-70 04/2026
+
+10066 SIMILARES - CADUCIDADE DE REGISTRO DE MEDICAMENTO 0404263/26-8
+
+1.0370.0681.001-7 24 Meses
+
+40 MG COM CT BL AL PLAS PVDC OPC X 20
+
+1.0370.0681.002-5 24 Meses
+
+40 MG COM CT BL AL PLAS PVDC OPC X 100
+
+1.0370.0681.003-3 24 Meses
+
+40 MG COM CT BL AL PLAS PVDC OPC X 300
+
+1.0370.0681.004-1 24 Meses
+
+40 MG COM CT BL AL PLAS PVC OPC X 20
+
+1.0370.0681.005-1 24 Meses
+
+40 MG COM CT BL AL PLAS PVC OPC X 100
+
+1.0370.0681.006-8 24 Meses
+
+40 MG COM CT BL AL PLAS PVC OPC X 300
+
+1.0370.0681.007-6 24 Meses
+
+40 MG COM CT BL AL PLAS PVDC OPC X 30
+
+1.0370.0681.008-4 24 Meses
+
+40 MG COM CT BL AL PLAS PVC OPC X 30
+
+AMOXICILINA
+
+HINCOMOX 25351.742382/2014-05 04/2026
+
+10066 SIMILARES - CADUCIDADE DE REGISTRO DE MEDICAMENTO 0404258/26-1
+
+1.0370.0682.001-2 24 Meses
+
+50 MG/ML PO SUS OR CT FR VD AMB X 60 ML + SER DOSAD
+
+1.0370.0682.002-0 24 Meses
+
+50 MG/ML PO SUS OR CT FR VD AMB X 60 ML + CP MED
+
+1.0370.0682.003-9 24 Meses
+
+50 MG/ML PO SUS OR CX 50 FR VD AMB X 60 ML + 50 SER DOSAD
+
+1.0370.0682.004-7 24 Meses
+
+50 MG/ML PO SUS OR CX 50 FR VD AMB X 60 ML + 50 CP MED
+
+1.0370.0682.005-5 24 Meses
+
+50 MG/ML PO SUS OR CT FR VD AMB X 80 ML + SER DOSAD
+
+1.0370.0682.006-3 24 Meses
+
+50 MG/ML PO SUS OR CT FR VD AMB X 80 ML + CP MED
+
+1.0370.0682.007-1 24 Meses
+
+50 MG/ML PO SUS OR CX 50 FR VD AMB X 80 ML + 50 SER DOSAD
+
+1.0370.0682.008-1 24 Meses
+
+50 MG/ML PO SUS OR CX 50 FR VD AMB X 80 ML + 50 CP MED
+
+1.0370.0682.009-8 24 Meses
+
+50 MG/ML PO SUS OR CT FR VD AMB X 150 ML + SER DOSAD
+
+1.0370.0682.010-1 24 Meses
+
+50 MG/ML PO SUS OR CT FR VD AMB X 150 ML + CP MED
+
+1.0370.0682.011-1 24 Meses
+
+50 MG/ML PO SUS OR CX 50 FR VD AMB X 150 ML + 50 SER DOSAD
+
+1.0370.0682.012-8 24 Meses
+
+50 MG/ML PO SUS OR CX 50 FR VD AMB X 150 ML + 50 CP MED
+
+--------------------------------------------------
+
+PRATI DONADUZZI & CIA LTDA 73856593000166
+
+LANSOPRAZOL + CLARITROMICINA + AMOXICILINA TRIHIDRATADA
+
+LANZOPRAZOL + CLARITROMICINA + AMOXICILINA 25351.615050/2008-01 04/2026
+
+10067 GENERICO - CADUCIDADE DE REGISTRO DE MEDICAMENTO 0404253/26-1
+
+1.2568.0221.001-9 24 Meses
+
+30 MG CAP DURA LIB RETARD + 500 MG COM REV + 500 MG CAP DURA CT 7 BL AL PLAS TRANS X 2 + 2+ 4
+
+1.2568.0221.005-1 24 Meses
+
+30 MG CAP DURA LIB RETARD + 500 MG COM REV + 500 MG CAP DURA CT 40 BL AL PLAS TRANS X 2 + 2+ 4
+
+1.2568.0221.006-1 24 Meses
+
+30 MG CAP DURA LIB RETARD + 500 MG COM REV + 500 MG CAP DURA CT 7 BL AL PLAS TRANS X 2 + 2+ 4 + 30 MG CAP DURA LIB RETARD BL AL PLAS TRANS X 14
+
+1.2568.0221.007-8 24 Meses
+
+30 MG CAP DURA LIB RETARD + 500 MG COM REV + 500 MG CAP DURA CT 7 BL AL PLAS TRANS X 2 + 2+ 4 + 30 MG CAP DURA LIB RETARD BL AL PLAS TRANS X 28

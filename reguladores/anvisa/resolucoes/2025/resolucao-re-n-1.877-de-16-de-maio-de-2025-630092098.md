@@ -1,0 +1,81 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.877, DE 16 DE MAIO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "1877"
+data: 2025-05-16
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 19/05/2025, seção 1, p. 102"
+data_publicacao: 2025-05-19
+edicao: "92"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.877-de-16-de-maio-de-2025-630092098"
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE nº 1.877, DE 16 DE MAIO DE 2025
+
+RESOLUÇÃO-RE nº 1.877, DE 16 DE MAIO DE 2025
+
+A GERENTE-GERAL SUBSTITUTA DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAQUEL LIMA E SILVA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO PRODUTO NUMERO DO PROCESSO VENCIMENTO DA AUTORIZAÇÃO SANITÁRIA
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+AUTORIZAÇÃO SANITÁRIA VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+COMPLEMENTO DIFERENCIAL DA APRESENTAÇÃO
+
+---------------------------------------------------
+
+COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. 61082426000207
+
+CANNABIS SATIVA L.
+
+Extrato de Cannabis sativa Mantecorp Farmasa 79,14 mg/mL 25351.040767/2022-36 05/2027
+
+11542 PRODUTO DE CANNABIS - ALTERAÇÃO RELACIONADA AOS TESTES, LIMITES DE ESPECIFICAÇÕES E MÉTODOS ANALÍTICOS DO CONTROLE DE QUALIDADE DO PRODUTO ACABADO 1320808/24-7
+
+1.7817.0927.001-8 24 Meses
+
+79,14 MG/ML SOL GOT CT FR VD AMB X 30 ML + CGT
+
+Não Informado
+
+canabidiol
+
+CANABIDIOL MANTECORP FARMASA 23,75 MG/ML 25351.068529/2022-95 10/2027
+
+11542 PRODUTO DE CANNABIS - ALTERAÇÃO RELACIONADA AOS TESTES, LIMITES DE ESPECIFICAÇÕES E MÉTODOS ANALÍTICOS DO CONTROLE DE QUALIDADE DO PRODUTO ACABADO 1320765/24-6
+
+1.7817.0941.001-4 24 Meses
+
+23,75 MG/ML SOL GOT CT FR VD AMB X 10 ML + CGT
+
+Não Informado
+
+CANNABIS SATIVA L.
+
+EXTRATO DE CANNABIS SATIVA MANTECORP FARMASA 160,32 MG/ML 25351.882179/2021-91 05/2027
+
+11542 PRODUTO DE CANNABIS - ALTERAÇÃO RELACIONADA AOS TESTES, LIMITES DE ESPECIFICAÇÕES E MÉTODOS ANALÍTICOS DO CONTROLE DE QUALIDADE DO PRODUTO ACABADO 1320947/24-7
+
+1.7817.0926.001-2 24 Meses
+
+160,32 MG/ML SOL GOT CT FR VD AMB X 10 ML + CGT
+
+Não Informado

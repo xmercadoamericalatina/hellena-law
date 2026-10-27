@@ -1,0 +1,191 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.032, DE 16 DE MARÇO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1032"
+data: 2026-03-16
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 17/03/2026, seção 1, p. 143"
+data_publicacao: 2026-03-17
+edicao: "51"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.032-de-16-de-marco-de-2026-693112710"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 1.032, DE 16 DE MARÇO DE 2026
+
+RESOLUÇÃO-RE Nº 1.032, DE 16 DE MARÇO DE 2026
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+FPMED DISTRIBUIDORA DE PRODUTOS HOSPITALARES LTDA / 47.110.418/0001-15
+
+25351.138366/2023-04 / 1289187
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0201154269
+
+--------------------------------------
+
+MEDGYN ESTETICA E HOSPITALAR LTDA / 47.742.451/0001-68
+
+25351.578733/2023-09 / 1298831
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0202371263
+
+--------------------------------------
+
+EURO MED LTDA / 54.343.699/0001-11
+
+25351.454024/2024-10 / 1323868
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0192165267
+
+--------------------------------------
+
+Pet Dose ltda / 40.002.373/0001-16
+
+25351.607917/2021-13 / 1266416
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7027 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - ENDEREÇO / 0232151261
+
+--------------------------------------
+
+FARMA PIEDADE MANIPULACAO LTDA / 37.131.593/0001-35
+
+25351.888886/2020-19 / 1242365
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7027 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - ENDEREÇO / 0213045265
+
+--------------------------------------
+
+NNMED-DISTRIBUIÇÃO, IMPORTAÇÃO E EXPORTAÇÃO DE MEDICAMENTOS LTDA / 15.218.561/0001-39
+
+25351.427772/2014-19 / 1109218
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0188121269
+
+--------------------------------------
+
+CAPPELLI FARMACIA DE MANIPULACAO LTDA ME / 27.832.341/0001-80
+
+25351.137010/2024-26 / 1309379
+
+MANIPULAR: INSUMOS FARMACÊUTICOS (VETERINÁRIOS)
+
+7027 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - ENDEREÇO / 0236538268
+
+--------------------------------------
+
+MED VIDA DIST DE MEDIC E MATERIAL HOSPITALARES LTDA / 49.003.356/0001-78
+
+25351.026787/2026-28 / 1425195
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0193343266
+
+--------------------------------------
+
+CARGA RAPIDA TRANSPORTES E LOGISTICA LTDA / 36.208.828/0001-87
+
+25351.590635/2023-31 / 1298940
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0251475263
+
+--------------------------------------
+
+DHV- DISTRIBUIDORA HOSPITALAR DO VALE LTDA - EPP / 23.276.873/0001-27
+
+25351.068824/2016-55 / 1154899
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0198547269
+
+--------------------------------------
+
+ZAIDANVONTRE MANIPULAÇÃO VETERINARIA LTDA / 42.450.961/0001-48
+
+25351.229071/2022-57 / 1272577
+
+MANIPULAR: INSUMOS FARMACÊUTICOS (VETERINÁRIOS)
+
+7027 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - ENDEREÇO / 0215146263
+
+--------------------------------------
+
+EXACTY MED LTDA / 47.748.479/0001-02
+
+25351.462606/2024-61 / 1325261
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0250315262
+
+--------------------------------------
+
+Takeda Distribuidora Ltda / 11.635.171/0002-94
+
+25351.512488/2019-82 / 1193750
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70887 - AE - ALTERAÇÃO - ENDEREÇO, POR ATO PÚBLICO / 0190709260

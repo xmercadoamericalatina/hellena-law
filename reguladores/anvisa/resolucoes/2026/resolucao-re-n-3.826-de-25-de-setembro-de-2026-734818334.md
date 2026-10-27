@@ -1,0 +1,173 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.826, DE 25 DE SETEMBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3826"
+data: 2026-09-25
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 28/09/2026, seção 1, p. 212"
+data_publicacao: 2026-09-28
+edicao: "183"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.826-de-25-de-setembro-de-2026-734818334"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 3.826, DE 25 DE SETEMBRO DE 2026
+
+RESOLUÇÃO-RE Nº 3.826, DE 25 DE SETEMBRO DE 2026
+
+A GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos de Boas Práticas de Distribuição e/ou Armazenagem preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Renovar a Certificação de Boas Práticas de Distribuição e/ou Armazenagem de Medicamentos para a(s) empresa(s) constante(s) no ANEXO.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RENATA DE LIMA SOARES
+
+## ANEXO
+
+EMPRESA: GRÜNENTHAL DO BRASIL FARMACÊUTICA LTDA - CNPJ: 10.555.143/0003-85 - AUTORIZ/MS: 1086107 - AE: 1144645
+
+ENDEREÇO: R VEREADOR GERMANO LUIZ VIEIRA, 500 ARMZ 03 SALA 18
+
+MUNICÍPIO: ITAJAÍ - UF: SC - EXPEDIENTE: 0840293/26-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de vencimento: 10/04/2031
+
+.........................................
+
+EMPRESA: AMGEN BIOTECNOLOGIA DO BRASIL LTDA. - CNPJ: 18.774.815/0001-93 - AUTORIZ/MS: 1102440
+
+ENDEREÇO: RUA PATRÍCIA LUCIA DE SOUZA 146
+
+MUNICÍPIO: TABOÃO DA SERRA - UF: SP - EXPEDIENTE: 0885675/26-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de vencimento: 02/05/2031
+
+.........................................
+
+EMPRESA: NUNESFARMA PRODUTOS FARMACEUTICOS LTDA - CNPJ: 75.014.167/0001-00 - AUTORIZ/MS: 1017952 - AE: 1205702
+
+ENDEREÇO: RUA ALMIRANTE GONÇALVES, N° 2247
+
+MUNICÍPIO: CURITIBA - UF: PR - EXPEDIENTE: 0729621/26-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de vencimento: 27/02/2031
+
+.........................................
+
+EMPRESA: MANDALA BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO DE PRODUTO MÉDICO HOSPITALAR LTDA - CNPJ: 09.117.476/0001-81 - AUTORIZ/MS: 1109651 - AE: 1254911
+
+ENDEREÇO: AV. HORÁCIO RACCANELLO FILHO Nº 5570, SALAS 1201, 1202 E 502, ED. SÃO BENTO
+
+MUNICÍPIO: MARINGÁ - UF: PR - EXPEDIENTE: 0857694/26-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de vencimento: 27/03/2031
+
+.........................................
+
+EMPRESA: FARMA VISION IMPORTAÇÃO E EXPORTAÇÃO DE MEDICAMENTOS LTDA - CNPJ: 09.058.502/0001-48 - AUTORIZ/MS: 1074651 - AE: 1117409
+
+ENDEREÇO: RUA SARGAS Nº 33
+
+MUNICÍPIO: COTIA - UF: SP - EXPEDIENTE: 0829048/26-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de vencimento: 27/02/2031
+
+.........................................
+
+EMPRESA: EUGIA PHARMA INDUSTRIA FARMACEUTICA LTDA - CNPJ: 44.639.493/0001-80 - AUTORIZ/MS: 1274209 - AE: 1274581
+
+ENDEREÇO: VP 06E, SN, MODULO 12/15 QUADRA 09 BLOCO A
+
+MUNICÍPIO: ANÁPOLIS - UF: GO - EXPEDIENTE: 0679743/26-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 27/03/2031
+
+.........................................
+
+EMPRESA: UCB BIOPHARMA LTDA - CNPJ: 64.711.500/0003-86 - AUTORIZ/MS: 1023619 - AE: 1036981
+
+ENDEREÇO: R VEREADOR GERMANO LUIZ VIEIRA, 500, ARMAZEM 03
+
+MUNICÍPIO: ITAJAÍ - UF: SC - EXPEDIENTE: 0333673/26-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 16/11/2030
+
+.........................................
+
+EMPRESA: NATCOFARMA DO BRASIL LTDA - CNPJ: 08.157.293/0001-27 - AUTORIZ/MS: 1082611 - AE: 1225858
+
+ENDEREÇO: AV QUINHENTOS, 56 - QUADRA 19 LOTE M-04/M-05/M-06/M-07
+
+MUNICÍPIO: SERRA - UF: ES - EXPEDIENTE: 0419096/26-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 31/10/2030
+
+.........................................
+
+EMPRESA: Life Center Comercio e Distribuidora de Medicamentos Ltda - CNPJ: 21.227.039/0001-16 - AUTORIZ/MS: 1138913 - AE: 1186288
+
+ENDEREÇO: R JOAO TONIN 50 SALA 02
+
+MUNICÍPIO: ERECHIM - UF: RS - EXPEDIENTE: 0650474/26-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 10/10/2030
+
+.........................................
+
+EMPRESA: AGV LOGÍSTICA S.A. - CNPJ: 02.905.424/0001-20 - AUTORIZ/MS: 1057776 - AE: 1220176
+
+ENDEREÇO: ESTRADA VINHEDO/VIRACOPOS, S/N, KM 04
+
+MUNICÍPIO: VINHEDO - UF: SP - EXPEDIENTE: 0903920/26-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 15/05/2031
+
+.........................................
+
+EMPRESA: DISFARMA SAUDE LTDA - CNPJ: 38.159.600/0001-70 - AUTORIZ/MS: 1249835 - AE: 1249821
+
+ENDEREÇO: RUA CORONEL ELPIDIO N 231
+
+MUNICÍPIO: PAULISTANA - UF: PI - EXPEDIENTE: 0900489/26-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 26/06/2031
+
+.........................................
+
+EMPRESA: ROCHAMED PRODUTOS HOSPITALARES LTDA - CNPJ: 39.509.749/0001-02 - AUTORIZ/MS: 1295897 - AE: 1318946
+
+ENDEREÇO: AV MATEUS ANGELO GONZAGA, 44 GALPAO 02
+
+MUNICÍPIO: AQUIRAZ - UF: CE - EXPEDIENTE: 0923199/26-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 25/09/2031
+
+.........................................

@@ -1,0 +1,98 @@
+---
+titulo: "RESOLUÇÃO CMN Nº 5.003, DE 24 DE MARÇO DE 2022"
+orgao: "Ministério da Economia/Conselho Monetário Nacional"
+tipo: "Resolução"
+numero: "5003"
+data: 2022-03-24
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 28/03/2022, seção 1, p. 43"
+data_publicacao: 2022-03-28
+edicao: "59"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-cmn-n-5.003-de-24-de-marco-de-2022-388669251"
+sha256_html_fonte: cb168efece73412e10c0881f3fe87b50959793004e72b23dcb8bc12d5b3f8a70
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO CMN Nº 5.003, DE 24 DE MARÇO DE 2022
+
+RESOLUÇÃO CMN Nº 5.003, DE 24 DE MARÇO DE 2022
+
+Revoga expressamente Resoluções do Conselho Monetário Nacional já revogadas tacitamente ou cujos efeitos tenham se exaurido no tempo, conforme determina o Decreto nº 10.139, de 28 de novembro de 2019.
+
+O Banco Central do Brasil, na forma do art. 9º da Lei nº 4.595, de 31 de dezembro de 1964, torna público que o Conselho Monetário Nacional, em sessão realizada em 24 de março de 2022, com base no art. 4º, inciso VIII, da referida Lei, e tendo em vista o disposto no art. 1º, parágrafo único, combinado com o art. 14, § 3º, inciso I, da Lei Complementar nº 95, de 26 de fevereiro de 1998, e no art. 8º do Decreto nº 10.139, de 28 de novembro de 2019, resolveu:
+
+**Art. 1º** Ficam revogados:
+
+I - a Resolução nº 228, de 4 de julho de 1972;
+
+II - a Resolução nº 1.212, de 24 de novembro de 1986;
+
+III - a Resolução nº 1.453, de 27 de janeiro de 1988;
+
+IV - a Resolução nº 1.993, de 30 de junho de 1993;
+
+V - a Resolução nº 2.203, de 28 de setembro de 1995;
+
+VI - a Resolução nº 2.342, de 13 de dezembro de 1996;
+
+VII - a Resolução nº 3.526, de 20 de dezembro de 2007;
+
+VIII - a Resolução nº 3.581, de 16 de junho de 2008;
+
+IX - a Resolução nº 3.598, de 29 de agosto de 2008;
+
+X - a Resolução nº 3.607, de 11 de setembro de 2008;
+
+XI - a Resolução nº 3.704, de 26 de março de 2009;
+
+XII - a Resolução nº 3.705, de 26 de março de 2009;
+
+XIII - a Resolução nº 3.728, de 28 de maio de 2009;
+
+XIV - a Resolução nº 3.809, de 28 de outubro de 2009;
+
+XV - a Resolução nº 3.810, de 28 de outubro de 2009;
+
+XVI - a Resolução nº 3.879, de 22 de junho de 2010;
+
+XVII - a Resolução nº 3.892, de 29 de julho de 2010;
+
+XVIII - a Resolução nº 3.960, de 31 de março de 2011;
+
+XIX - a Resolução nº 3.961, de 31 de março de 2011;
+
+XX - a Resolução nº 3.997, de 28 de julho de 2011;
+
+XXI - a Resolução nº 4.054, de 9 de fevereiro de 2012;
+
+XXII - a Resolução nº 4.186, de 31 de janeiro de 2013;
+
+XXIII - a Resolução nº 4.349, de 30 de junho de 2014;
+
+XXIV - a Resolução nº 4.368, de 11 de setembro de 2014;
+
+XXV - a Resolução nº 4.378, de 30 de outubro de 2014;
+
+XXVI - a Resolução nº 4.427, de 25 de junho de 2015;
+
+XXVII - a Resolução nº 4.496, de 31 de maio de 2016;
+
+XXVIII - a Resolução nº 4.546, de 21 de dezembro de 2016;
+
+XXIX - a Resolução nº 4.552, de 26 de janeiro de 2017;
+
+XXX - a Resolução nº 4.579, de 7 de junho de 2017;
+
+XXXI - o art. 11 da Resolução nº 4.659, de 26 de abril de 2018;
+
+XXXII - a Resolução nº 4.692, de 29 de outubro de 2018;
+
+XXXIII - a Circular nº 2.193, de 26 de junho de 1992; e
+
+XXXIV - a Circular nº 2.998, de 24 de agosto de 2000.
+
+**Art. 2º** Esta Resolução entra em vigor em 2 de maio de 2022.
+
+ROBERTO DE OLIVEIRA CAMPOS NETO
+
+Presidente do Banco Central do Brasil

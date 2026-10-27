@@ -1,0 +1,161 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.401, DE 8 DE ABRIL DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1401"
+data: 2026-04-08
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 09/04/2026, seção 1, p. 201"
+data_publicacao: 2026-04-09
+edicao: "67"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.401-de-8-de-abril-de-2026-698594081"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 1.401, DE 8 DE ABRIL DE 2026
+
+RESOLUÇÃO-RE Nº 1.401, DE 8 DE ABRIL DE 2026
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+P N A DOS REIS / 46.087.681/0001-78
+
+25351.450189/2024-12 / 1323334
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0195014260
+
+--------------------------------------
+
+NORTEPHARMA PRODUTOS FARMACEUTICOS EXPORTAÇÃO E IMPORTAÇÃO LTDA ME / 16.720.709/0001-00
+
+25351.232283/2021-31 / 1253280
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0329280261
+
+--------------------------------------
+
+RR COMERCIO DE MEDICAMENTOS LTDA / 33.781.677/0002-44
+
+25351.239051/2025-37 / 1422458
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0329015265
+
+--------------------------------------
+
+Suportemed Distribuidora Comercio e Representação Comercial LTDA / 11.957.717/0001-42
+
+25351.427895/2014-44 / 1109877
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+EXPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0327763264
+
+--------------------------------------
+
+HOPE PHARMA LTDA / 34.025.812/0001-03
+
+25351.677450/2021-79 / 1265196
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+IMPORTAR: MEDICAMENTO
+
+70807 - AE - ALTERAÇÃO - AMPLIAÇÃO DE CLASSE / 0332332268
+
+--------------------------------------
+
+DISTRIBUIDORA BM2 LTDA / 50.374.924/0001-26
+
+25351.413082/2024-85 / 1320481
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0334090261
+
+--------------------------------------
+
+CARMENS MEDICINALS BRAZIL IMPORTACAO E COMERCIALIZACAO DE PRODUTOS FARMACEUTICOS LTDA / 36.515.667/0001-74
+
+25351.362991/2022-86 / 1280632
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+IMPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0327758261
+
+--------------------------------------
+
+LOGIC PHARMA LOGISTICA E ARMAZENS GERAIS S.A. / 21.372.384/0006-58
+
+25351.034773/2026-88 / 1425897
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0328897264
+
+--------------------------------------
+
+K F V TRANSPORTADORA LTDA / 49.197.670/0001-39
+
+25351.821346/2023-90 / 1303757
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0329807269

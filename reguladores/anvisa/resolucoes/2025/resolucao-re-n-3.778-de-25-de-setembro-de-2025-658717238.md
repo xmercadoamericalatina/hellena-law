@@ -1,0 +1,98 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.778, DE 25 DE SETEMBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "3778"
+data: 2025-09-25
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 29/09/2025, seção 1, p. 76"
+data_publicacao: 2025-09-29
+edicao: "185"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.778-de-25-de-setembro-de-2025-658717238"
+baixado_em: 2026-10-16
+sha256_html_fonte: f86af74cba0239a30c73a6115349e00b4aead3055c5f9a4c9a13ccd6cb376521
+---
+# RESOLUÇÃO-RE nº 3.778, DE 25 DE SETEMBRO DE 2025
+
+RESOLUÇÃO-RE nº 3.778, DE 25 DE SETEMBRO DE 2025
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Indeferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+---------------------------------------------------
+
+ACHÉ LABORATÓRIOS FARMACÊUTICOS S.A 60659463002992
+
+DIPROPIONATO DE BECLOMETASONA
+
+BECLOAZ 25351.007482/2025-36 09/2035
+
+10490 SIMILAR - REGISTRO DE PRODUTO - CLONE 0070787/25-2
+
+(155 GENERICO - REGISTRO DE MEDICAMENTO - 5042028/22-3 - 25351.631710/2022-41)
+
+250 MCG SOL AER INAL OR CT TB AL X 200 ACIONAMENTOS + BOMB
+
+---------------------------------------------------
+
+BELFAR LTDA 18324343000177
+
+cloridrato de prometazina 25351.126001/2025-91 09/2035
+
+10488 GENÉRICO - REGISTRO DE MEDICAMENTO - CLONE 0960802/25-8
+
+(150 SIMILAR - REGISTRO DE MEDICAMENTO SIMILAR - 107680/02-9 - 25351.176497/2002-57)
+
+20 MG/G CREM DERM CT BG AL X 30 G
+
+20 MG/G CREM DERM CT 50 BG AL X 30 G
+
+20 MG/G CREM DERM CT 100 BG AL X 30 G
+
+---------------------------------------------------
+
+SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA 61286647000116
+
+voriconazol 25351.778166/2014-51 09/2035
+
+143 GENÉRICO - RENOVAÇÃO DE REGISTRO DE MEDICAMENTO 0393231/25-9
+
+1.0047.0562.001-6 24 Meses
+
+200 MG PO LIOF SOL INJ IV CT FA VD TRANS
+
+---------------------------------------------------
+
+UNITED MEDICAL LTDA 68949239000146
+
+FOSTAMATINIBE DISSÓDICO HEXAIDRATADO
+
+TAVALISSE 25351.073975/2024-83 09/2035
+
+12248 MEDICAMENTO NOVO - REGISTRO DE MEDICAMENTO NOVO (NOVO IFA) - VIA DE DESENVOLVIMENTO COMPLETO 0261570/24-3
+
+100 MG COM REV CT FR PLAS OPC X 60 + DESSEC
+
+150 MG COM REV CT FR PLAS OPC X 60 + DESSEC

@@ -1,0 +1,119 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.424, DE 28 DE AGOSTO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3424"
+data: 2026-08-28
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 31/08/2026, seção 1, p. 145"
+data_publicacao: 2026-08-31
+edicao: "164"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.424-de-28-de-agosto-de-2026-729084628"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 3.424, DE 28 DE AGOSTO DE 2026
+
+RESOLUÇÃO-RE nº 3.424, DE 28 DE AGOSTO DE 2026
+
+A GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+RENATA DE LIMA SOARES
+
+## ANEXO
+
+EMPRESA: IBF - INDUSTRIA BRASILEIRA DE FARMOQUIMICOS S.A. - CNPJ: 14.864.868/0001-44 - AUTORIZ/MS: 1130309
+
+ENDEREÇO: Avenida Jose Abbas Casseb, 376
+
+MUNICÍPIO: SÃO JOSÉ DO RIO PRETO - UF: SP - EXPEDIENTE: 1247089/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Radiofármacos): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA: MULTILAB INDUSTRIA E COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - CNPJ: 92.265.552/0009-05 - AUTORIZ/MS: 1018196
+
+ENDEREÇO: ROD JORNALISTA FRANCISCO AGUIRRE PROENÇA KM 08
+
+MUNICÍPIO: HORTOLÂNDIA - UF: SP - EXPEDIENTE: 0124050/26-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Géis com Preparação Asséptica
+
+.........................................
+
+EMPRESA: WHITE MARTINS GASES INDUSTRIAIS LTDA - CNPJ: 35.820.448/0222-96 - AUTORIZ/MS: 2200001
+
+ENDEREÇO: RODOVIA BR 262 S/N ZONA RURAL 79180000
+
+MUNICÍPIO: RIBAS DO RIO PARDO - UF: MS - EXPEDIENTE: 0566034/26-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos Criogênicos Medicinais: Líquidos Criogênicos
+
+.........................................
+
+EMPRESA FABRICANTE: KAYSERSBERG PHARMACEUTICALS
+
+ENDEREÇO: 23, AVENUE GEORGES FERRENBACH, 68240, KAYSERSBERG VIGNOBLE - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000922
+
+EMPRESA SOLICITANTE: ALCON BRASIL CUIDADOS COM A SAÚDE LTDA - CNPJ: 32.929.819/0001-24
+
+AUTORIZ/MS: 1194508 - EXPEDIENTE(s): 1487792/25-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções com Preparação Asséptica
+
+........................................
+
+EMPRESA FABRICANTE: ANPHARM PRZEDSIEBIORSTWO FARMACEUTYCZNE S.A.
+
+ENDEREÇO: UL. ANNOPOL 6 B, WARSAW, 03-236 - PAÍS: POLÔNIA - CÓDIGO ÚNICO: A.001820
+
+EMPRESA SOLICITANTE: LABORATÓRIOS SERVIER DO BRASIL LTDA - CNPJ: 42.374.207/0001-76
+
+AUTORIZ/MS: 1012787 - EXPEDIENTE(s): 0707946/25-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: CHIA TAI TIANQING PHARMACEUTICAL GROUP NANJING SHUNXIN PHARMACEUTICAL CO., LTD.
+
+ENDEREÇO: NO. 1099 FUYING ROAD, JIANGNING HI-TECH DEVELOPMENT ZONE, JIANGNING DISTRICT, NANJING, JIANGSU PROVINCE 211122 - PAÍS: CHINA, REPÚBLICA POPULAR - CÓDIGO ÚNICO: A.001876
+
+EMPRESA SOLICITANTE: CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. - CNPJ: 44.734.671/0001-51
+
+AUTORIZ/MS: 1002981 - EXPEDIENTE(s): 0137329/26-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: TORRENT PHARMACEUTICALS LIMITED
+
+ENDEREÇO: UNIT -2, SURVEY NO. 102, 105, 106, 119 TO 121, AHMEDABAD - MEHSANA HIGHWAY, BILESHWARPURA, TALUKA - KALOL, DIST. GANDHINAGAR, GUJARAT 382729 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001830
+
+EMPRESA SOLICITANTE: TORRENT DO BRASIL LTDA - CNPJ: 33.078.528/0001-32
+
+AUTORIZ/MS: 1005253 - EXPEDIENTE(s): 0828427/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos; Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: FAES FARMA S.A.
+
+ENDEREÇO: IBAIZABAL BIDEA EDIFICIO 901, PARQUE CIENTIFICO Y TECNOLOGICO DE BIZKAIA, DERIO, 48160 - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.001865
+
+EMPRESA SOLICITANTE: COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. - CNPJ: 61.082.426/0002-07
+
+AUTORIZ/MS: 1078177 - EXPEDIENTE(s): 1129483/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções

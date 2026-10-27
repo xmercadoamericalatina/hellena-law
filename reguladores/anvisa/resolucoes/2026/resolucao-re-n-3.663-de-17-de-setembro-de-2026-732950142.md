@@ -1,0 +1,117 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.663, DE 17 DE SETEMBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Produtos de Terapias Avançadas"
+tipo: "Resolução"
+numero: "3663"
+data: 2026-09-17
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 21/09/2026, seção 1, p. 158"
+data_publicacao: 2026-09-21
+edicao: "178"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.663-de-17-de-setembro-de-2026-732950142"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 3.663, DE 17 DE SETEMBRO DE 2026
+
+RESOLUÇÃO-RE nº 3.663, DE 17 DE SETEMBRO DE 2026
+
+O GERENTE-GERAL SUBSTITUTO DE PRODUTOS BIOLÓGICOS, RADIOFÁRMACOS, SANGUE, TECIDOS, CÉLULAS, ÓRGÃOS E PRODUTOS DE TERAPIAS AVANÇADAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 109, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir petições relacionadas à Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Produtos de Terapias Avançadas, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANDERSON VEZALI MONTAI
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+DR. REDDYS FARMACÊUTICA DO BRASIL LTDA 03978166000175
+
+TRASTUZUMABE
+
+TUZNUE 25351.015950/2025-46 09/2036
+
+12342 PRODUTO BIOLÓGICO - REGISTRO - VIA DE DESENVOLVIMENTO POR COMPARABILIDADE - ANTICORPOS MONOCLONAIS 0148726/25-4
+
+1.5143.0108.001-9 72 Meses
+
+150 MG PO LIOF SOL INJ IV CT FA VD TRANS
+
+1.5143.0108.002-7 48 Meses
+
+440 MG PO LIOF SOL INJ IV CT FA VD TRANS
+
+--------------------------------------------------------------------------------
+
+LEADER PHARMA DISTRIBUIDORA E IMPORTADORA DE PRODUTOS FARMACEUTICOS E CORRELATOS LTDA 58909098000184
+
+IMUNOGLOBULINA HUMANA
+
+BIOGAM 25351.020045/2026-99 09/2033
+
+11921 PRODUTOS BIOLÓGICOS - 35. ALTERAÇÃO DOS CENTROS DE COLETA DE PLASMA HUMANO - MODERADA 0477672/26-4
+
+1.2710.0002.001-7 36 Meses
+
+100 MG/ML SOL INFUS IV CX FA VD TRANS X 50 ML
+
+1.2710.0002.002-5 36 Meses
+
+100 MG/ML SOL INFUS IV CX FA VD TRANS X 100 ML
+
+--------------------------------------------------------------------------------
+
+NOVO NORDISK FARMACÊUTICA DO BRASIL LTDA 82277955000155
+
+SEMAGLUTIDA
+
+EXTENSIOR 25351.359096/2024-46 10/2034
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0441109/26-9
+
+(11930 - PRODUTOS BIOLÓGICOS - 41. Alteração de instalação de fabricação do produto terminado - Maior - 0417790/26-1 - 25351.658916/2017-51)
+
+10502 PRODUTO BIOLÓGICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0915126/25-5
+
+(11922 - PRODUTOS BIOLÓGICOS - 36. Alteração da descrição ou composição do produto terminado - Maior - 0874345/25-2 - 25351.658916/2017-51)
+
+1.1766.0043.005-9 36 Meses
+
+0,68 MG/ML SOL INJ CT X 1 CAR VD TRANS X 3 ML + 1 SIST APLIC PLAS (DOSES 0,25 MG E 0,5 MG) + 6 AGU NOVOFINE
+
+1.1766.0043.006-7 36 Meses
+
+0,68 MG/ML SOL INJ CT X 1 CAR VD TRANS X 3 ML + 1 SIST APLIC PLAS (DOSES 0,25 MG E 0,5 MG)
+
+SEMAGLUTIDA
+
+OZEMPIC 25351.658916/2017-51 08/2028
+
+11922 PRODUTOS BIOLÓGICOS - 36. ALTERAÇÃO DA DESCRIÇÃO OU COMPOSIÇÃO DO PRODUTO TERMINADO - MAIOR 0874345/25-2
+
+11930 PRODUTOS BIOLÓGICOS - 41. ALTERAÇÃO DE INSTALAÇÃO DE FABRICAÇÃO DO PRODUTO TERMINADO - MAIOR 0417790/26-1
+
+1.1766.0036.008-5 36 Meses
+
+0,68 MG/ML SOL INJ CT X 1 CAR VD TRANS X 3 ML + 1 SIST APLIC PLAS (DOSES 0,25MG E 0,5 MG) + 6 AGULHAS NOVOFINE
+
+1.1766.0036.009-3 36 Meses
+
+0,68 MG/ML SOL INJ CT X 1 CAR VD TRANS X 3 ML + 1 SIST APLIC PLAS (DOSES 0,25MG E 0,5 MG)

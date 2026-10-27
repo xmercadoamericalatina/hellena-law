@@ -1,0 +1,102 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.197, DE 21 DE AGOSTO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "3197"
+data: 2025-08-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 25/08/2025, seção 1, p. 103"
+data_publicacao: 2025-08-25
+edicao: "160"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.197-de-21-de-agosto-de-2025-650503686"
+baixado_em: 2026-10-16
+sha256_html_fonte: 901e35a98a5913842587013c154501fdee32ec49118c8fc91b6f76907718ed97
+---
+# RESOLUÇÃO-RE nº 3.197, DE 21 DE AGOSTO DE 2025
+
+RESOLUÇÃO-RE nº 3.197, DE 21 DE AGOSTO DE 2025
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Cancelar o registro sanitário de medicamentos e insumos farmacêuticos, ou de apresentações, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor a partir da data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+----------------------------
+
+CRISTÁLIA PRODUTOS QUÍMICOS FARMACÊUTICOS LTDA. 44734671000151
+
+OMEPRAZOL 25351.277933/2004-76 08/2025
+
+10081 GENERICO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 1089489/25-6
+
+1.0298.0354.001-2 24 Meses
+
+10 MG CAP DURA LIB RETARD CT BL AL PLAS PVDC OPC X 10
+
+1.0298.0354.002-0 24 Meses
+
+10 MG CAP DURA LIB RETARD CT BL AL PLAS PVDC OPC X 14
+
+1.0298.0354.003-9 24 Meses
+
+10 MG CAP DURA LIB RETARD CT BL AL PLAS PVDC OPC X 30
+
+1.0298.0354.009-8 24 Meses
+
+40 MG CAP DURA LIB RETARD CT BL AL PLAS PVDC OPC X 7
+
+1.0298.0354.010-1 24 Meses
+
+40 MG CAP DURA LIB RETARD CT BL AL PLAS PVDC OPC X 10
+
+1.0298.0354.011-1 24 Meses
+
+40 MG CAP DURA LIB RETARD CT BL AL PLAS PVDC OPC X 30
+
+----------------------------
+
+LABORATORIO FARMACEUTICO DO ESTADO DE PERNAMBUCO GOVERNADOR MIGUEL ARRAES S/A - LAFEPE 10877926000113
+
+CLOZAPINA 25351.108080/2010-37 08/2025
+
+10081 GENERICO - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 1084632/25-8
+
+1.0183.0148.001-8 24 Meses
+
+25 MG COM CT BL AL PLAS TRANS X 20
+
+1.0183.0148.003-4 24 Meses
+
+25 MG COM CX BL AL PLAS TRANS X 200 (EMB HOSP)
+
+1.0183.0148.004-2 24 Meses
+
+100 MG COM CT BL AL PLAS TRANS X 20
+
+1.0183.0148.006-9 24 Meses
+
+100 MG COM CX BL AL PLAS TRANS X 90 (EMB HOSP)
+
+1.0183.0148.007-7 24 Meses
+
+100 MG COM CX BL AL PLAS TRANS X 450 (EMB HOSP)

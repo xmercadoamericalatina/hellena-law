@@ -1,0 +1,176 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.295, DE 18 de junho DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2295"
+data: 2025-06-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/06/2025, seção 1, p. 172"
+data_publicacao: 2025-06-23
+edicao: "115"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.295-de-18-de-junho-de-2025-637199746"
+baixado_em: 2026-10-16
+sha256_html_fonte: c06659e3b8aeb45089a0d273e4dd4b17b5eaa406cac4b93910ab4f9ea7b6421a
+---
+# RESOLUÇÃO-RE Nº 2.295, DE 18 de junho DE 2025
+
+RESOLUÇÃO-RE Nº 2.295, DE 18 de junho DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+ASA BRANCA INDL. COML. E IMPORTADORA LTDA / 03.636.036/0015-50
+
+25351.861589/2018-01 / 1184424
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70887 - AE - ALTERAÇÃO - ENDEREÇO, POR ATO PÚBLICO / 0715941259
+
+--------------------------------------
+
+MEDH DISTRIBUIDORA DE MEDICAMENTOS LTDA - ME / 18.917.657/0001-83
+
+25351.216774/2017-15 / 1165570
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+EXPORTAR: MEDICAMENTO
+
+IMPORTAR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0730592251
+
+--------------------------------------
+
+SULMEDIC COMERCIO DE MEDICAMENTOS LTDA / 09.944.371/0005-20
+
+25351.059188/2025-18 / 1406292
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0714172251
+
+--------------------------------------
+
+INFINITA COMERCIO E SERVICOS LTDA / 43.286.062/0001-14
+
+25351.540346/2022-19 / 1274931
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0717271251
+
+--------------------------------------
+
+HCMED DISTRIBUIDORA LTDA / 41.109.944/0001-89
+
+25351.771531/2023-26 / 1302280
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0711347255
+
+--------------------------------------
+
+ACREMED MEDICAMENTOS E CORRELATOS LTDA / 40.005.297/0001-00
+
+25351.031307/2021-36 / 1267899
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0716238250
+
+--------------------------------------
+
+METTA BRASIL LOGISTICA LTDA / 30.408.555/0003-08
+
+25351.035728/2025-60 / 1329600
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0728391252
+
+--------------------------------------
+
+INFINITY DISTRIBUIDORA DE MEDICAMENTOS E MATERIAIS HOSPITALARES LTDA / 39.559.498/0001-62
+
+25351.729162/2023-79 / 1302154
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0716245256
+
+--------------------------------------
+
+Altamed distribuidora de medicamentos ltda - me / 21.581.445/0001-82
+
+25351.220846/2015-86 / 1140336
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+EXPORTAR: MEDICAMENTO
+
+IMPORTAR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0721847251
+
+--------------------------------------
+
+SÃO GABRIEL TRANSPORTES LTDA - ME / 15.488.297/0016-30
+
+25351.350260/2022-98 / 1281104
+
+TRANSPORTAR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0707680255

@@ -1,0 +1,146 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.418, DE 27 de junho DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2418"
+data: 2025-06-27
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/06/2025, seção 1, p. 251"
+data_publicacao: 2025-06-30
+edicao: "120"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.418-de-27-de-junho-de-2025-638657351"
+baixado_em: 2026-10-16
+sha256_html_fonte: 4699922a74eca92313ace8c02798c376292b195d767f3d2682a2bbb654ad9f57
+---
+# RESOLUÇÃO-RE Nº 2.418, DE 27 de junho DE 2025
+
+RESOLUÇÃO-RE Nº 2.418, DE 27 de junho DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+TSA LOGISTICA LTDA / 04.467.231/0001-60
+
+25351.832280/2021-00 / 1266814
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0759791252
+
+--------------------------------------
+
+NATURAL PHARMA COMERCIO E MANIPULACAO DE FORMULAS LTDA / 38.442.586/0001-17
+
+25351.275006/2022-01 / 1273282
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7027 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - ENDEREÇO / 0704513251
+
+--------------------------------------
+
+MEDCIM PRODUTOS HOSPITALARES E SERVIÇOS LTDA / 12.212.583/0001-01
+
+25351.755021/2018-44 / 1182974
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0750427256
+
+--------------------------------------
+
+DIGITAL FARMA E MANIPULAÇÃO LTDA / 30.560.294/0001-77
+
+25351.243305/2019-73 / 1188977
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+7027 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - ENDEREÇO / 0704490251
+
+--------------------------------------
+
+D P AGUIAR LTDA / 33.834.782/0001-13
+
+25351.748487/2019-74 / 1198621
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0752175254
+
+--------------------------------------
+
+ROSAFARM DISTRIBUIDORA DE MEDICAMENTOS LTDA / 37.676.047/0001-80
+
+25351.832213/2021-87 / 1268620
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 0749934255
+
+--------------------------------------
+
+AGIFLEX TRANSPORTES DE CARGAS LTDA / 10.520.551/0001-30
+
+25351.498213/2009-91 / 1224671
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0760301255
+
+--------------------------------------
+
+SAO JOSE COMERCIO ATACADISTA DE INSTRUMENTOS E MATERIAIS MEDICOS LTDA / 52.593.045/0001-10
+
+25351.070175/2025-91 / 1406872
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+TRANSPORTAR: MEDICAMENTO
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 0755159250
+
+--------------------------------------
+
+GLOBAL HOSPITALAR DISTRIBUIÇÃO E COMÉRCIO LTDA / 36.730.875/0001-96
+
+25351.033500/2022-92 / 1269318
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+70803 - AE - ALTERAÇÃO - RAZÃO SOCIAL / 0735354251

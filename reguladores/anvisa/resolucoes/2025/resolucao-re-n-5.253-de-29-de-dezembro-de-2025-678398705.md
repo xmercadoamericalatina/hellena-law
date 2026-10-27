@@ -1,0 +1,106 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 5.253, DE 29 DE dezEMBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "5253"
+data: 2025-12-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/12/2025, seção 1, p. 128"
+data_publicacao: 2025-12-30
+edicao: "248"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-5.253-de-29-de-dezembro-de-2025-678398705"
+baixado_em: 2026-10-16
+sha256_html_fonte: 9949f29488135acb007a9d72f3e121356ca2de5ef0b0b84f3f9a56029e3052c0
+---
+# RESOLUÇÃO-RE Nº 5.253, DE 29 DE dezEMBRO DE 2025
+
+RESOLUÇÃO-RE Nº 5.253, DE 29 DE dezEMBRO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Alterar Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+PHARMASANA MEDICAL LTDA / 01.787.096/0001-42
+
+25351.046426/2025-17 / 1405465
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+EXPORTAR: MEDICAMENTO
+
+FRACIONAR: INSUMOS FARMACÊUTICOS
+
+70808 - AE - ALTERAÇÃO - AMPLIAÇÃO DE ATIVIDADE / 1624955258
+
+--------------------------------------
+
+ATLAS PHARMA S.A. / 06.110.511/0007-38
+
+25351.214448/2024-35 / 1311047
+
+MANIPULAR: INSUMOS FARMACÊUTICOS (VETERINÁRIOS)
+
+7024 - AE - ALTERAÇÃO - FARMÁCIA DE MANIPULAÇÃO - RAZÃO SOCIAL / 1648933254
+
+--------------------------------------
+
+ALTHAIA S.A. INDUSTRIA FARMACEUTICA / 48.344.725/0007-19
+
+25351.543405/2013-45 / 1235104
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EMBALAR: MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPORTAR: MEDICAMENTO
+
+FABRICAR: MEDICAMENTO
+
+FRACIONAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+IMPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+REEMBALAR: MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70806 - AE - ALTERAÇÃO - REDUÇÃO DE ATIVIDADE / 1629061255
+
+25351.543405/2013-45 / 1235104
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EMBALAR: MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPORTAR: MEDICAMENTO
+
+FABRICAR: MEDICAMENTO
+
+FRACIONAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+IMPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+REEMBALAR: MEDICAMENTO
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+70804 - AE - ALTERAÇÃO - ENDEREÇO / 1557816255

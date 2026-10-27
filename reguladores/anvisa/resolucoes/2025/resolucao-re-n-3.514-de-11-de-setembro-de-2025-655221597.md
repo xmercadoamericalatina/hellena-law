@@ -1,0 +1,114 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.514, DE 11 DE SETEMBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3514"
+data: 2025-09-11
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 12/09/2025, seção 1, p. 198"
+data_publicacao: 2025-09-12
+edicao: "174"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.514-de-11-de-setembro-de-2025-655221597"
+baixado_em: 2026-10-16
+sha256_html_fonte: 6bc039ca6c54f9b80c4480f553fb86b8e47a5439c0bdcf984c4b7dec080d0c97
+---
+# RESOLUÇÃO-RE Nº 3.514, DE 11 DE SETEMBRO DE 2025
+
+RESOLUÇÃO-RE Nº 3.514, DE 11 DE SETEMBRO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+ALS PHARMA LTDA / 04.425.347/0003-07
+
+25351.151582/2025-07 / 1413963
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: INSUMOS FARMACÊUTICOS / MEDICAMENTO / OUTROS PRODUTOS SUJEITOS A CONTROLE ESPECIAL
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 1146451253
+
+--------------------------------------
+
+BMPHARMA LTDA / 54.553.859/0001-57
+
+25351.156770/2025-13 / 1414621
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1171656254
+
+--------------------------------------
+
+MG BRASIL COMERCIO E SERVICOS LTDA / 44.735.855/0002-17
+
+25351.151419/2025-36 / 1415123
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1145341250
+
+--------------------------------------
+
+H.G.B SOLUCOES ADUANEIRAS E TRANSPORTES LTDA / 40.970.678/0001-11
+
+25351.151738/2025-41 / 1413981
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1146969252
+
+--------------------------------------
+
+PPR TRANSPORTES LTDA / 35.214.735/0001-00
+
+25351.151985/2025-48 / 1414037
+
+TRANSPORTAR: MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1148140255
+
+--------------------------------------
+
+HOSPDROGAS COMERCIAL LTDA / 08.774.906/0005-07
+
+25351.148602/2025-54 / 1413687
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1130754251
+
+--------------------------------------
+
+BULGARELLI & FONSECA FARMACIA MAGISTRAL LTDA / 58.193.738/0001-00
+
+25351.157597/2025-71 / 1414787
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1175878251
+
+--------------------------------------
+
+e oliveira pires farmacia de manipulacao / 32.669.613/0001-02
+
+25351.155818/2025-76 / 1415154
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1166965252

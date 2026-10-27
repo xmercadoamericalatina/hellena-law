@@ -1,0 +1,108 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.534, DE 4 DE JULHO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2534"
+data: 2025-07-04
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 07/07/2025, seção 1, p. 370"
+data_publicacao: 2025-07-07
+edicao: "125"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.534-de-4-de-julho-de-2025-640244229"
+baixado_em: 2026-10-16
+sha256_html_fonte: 2f656e3fed0cce3ef728632e7b3abc90c3db4c96ca729054e2a0eced11abf625
+---
+# RESOLUÇÃO-RE nº 2.534, DE 4 DE JULHO DE 2025
+
+RESOLUÇÃO-RE nº 2.534, DE 4 DE JULHO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+J&C FARMA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA / 40.619.912/0001-60
+
+25351.081954/2025-12 / 1410021
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0687660254
+
+--------------------------------------
+
+AVIOES TRANSPORTES LTDA / 12.053.556/0001-25
+
+25351.097919/2025-15 / 1410143
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0791481255
+
+--------------------------------------
+
+RAIA DROGASIL S/A / 61.585.865/3372-02
+
+25351.097111/2025-38 / 1408811
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0785769251
+
+--------------------------------------
+
+RENOVO FARMACIA DE MANIPULACAO E DROGARIA LTDA / 59.053.169/0001-52
+
+25351.101312/2025-47 / 1410035
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0812297253
+
+--------------------------------------
+
+synvia laboratories ltda / 49.642.279/0001-04
+
+25351.097982/2025-51 / 1410130
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: OUTROS PRODUTOS SUJEITOS A CONTROLE ESPECIAL
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 0791653251
+
+--------------------------------------
+
+HAS QUIMICA LTDA / 48.228.023/0001-84
+
+25351.097225/2025-88 / 1410052
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS
+
+EXPEDIR: INSUMOS FARMACÊUTICOS
+
+IMPORTAR: INSUMOS FARMACÊUTICOS
+
+706 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - IMPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0786025255
+
+--------------------------------------
+
+SEMPRE FARMA LTDA / 55.050.093/0001-50
+
+25351.098629/2025-99 / 1408947
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0795962258

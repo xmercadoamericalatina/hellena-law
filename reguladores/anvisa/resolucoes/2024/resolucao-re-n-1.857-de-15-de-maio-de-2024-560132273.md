@@ -1,0 +1,271 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.857, DE 15 DE MAIO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1857"
+data: 2024-05-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/05/2024, seção 1, p. 68"
+data_publicacao: 2024-05-16
+edicao: "94"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.857-de-15-de-maio-de-2024-560132273"
+sha256_html_fonte: 05b847c2d783c1a068836f30e5d9db904343b4bfedd6c2f6efb057f6f75a2218
+baixado_em: 2026-10-16
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE Nº 1.857, DE 15 DE MAIO DE 2024
+
+<div class="texto-dou"><html>
+ <head></head>
+ <body>
+  <p class="identifica">RESOLUÇÃO-RE Nº 1.857, DE 15 DE MAIO DE 2024</p>
+  <p class="dou-paragraph" >O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:</p>
+  <p class="dou-paragraph" >Art. 1º Conceder Autorização de Funcionamento para Empresas constantes no anexo desta Resolução.</p>
+  <p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p>
+  <p class="assina">DANIEL MARCOS PEREIRA DOURADO</p>
+  <p class="anexo">ANEXO</p>
+  <p class="dou-paragraph" >Best result industria e comercio de cosmeticos ltda / 07.019.522/0001-84</p>
+  <p class="dou-paragraph" >25351.212462/2024-02 / 4068573</p>
+  <p class="dou-paragraph" >ARMAZENAR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE</p>
+  <p class="dou-paragraph" >DISTRIBUIR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE</p>
+  <p class="dou-paragraph" >EMBALAR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE</p>
+  <p class="dou-paragraph" >EXPEDIR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE</p>
+  <p class="dou-paragraph" >FABRICAR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE</p>
+  <p class="dou-paragraph" >FRACIONAR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE</p>
+  <p class="dou-paragraph" >REEMBALAR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE</p>
+  <p class="dou-paragraph" >721 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - FABRICAR (SOMENTE MATRIZ) / 0531262243</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >TELES SOLUCOES EMPRESARIAIS LTDA / 48.566.347/0001-22</p>
+  <p class="dou-paragraph" >25351.213018/2024-04 / 4068587</p>
+  <p class="dou-paragraph" >ARMAZENAR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE</p>
+  <p class="dou-paragraph" >DISTRIBUIR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE</p>
+  <p class="dou-paragraph" >EXPEDIR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE</p>
+  <p class="dou-paragraph" >723 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIR (SOMENTE MATRIZ) / 0531863247</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >CUNHA TRANSPORTEs ltda. ME / 23.530.502/0001-20</p>
+  <p class="dou-paragraph" >25351.213048/2024-11 / 3131301</p>
+  <p class="dou-paragraph" >TRANSPORTAR: SANEANTE DOMIS.</p>
+  <p class="dou-paragraph" >737 - AFE - CONCESSÃO - SANEANTES - TRANSPORTAR (SOMENTE MATRIZ) / 0531893243</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGARIA 3 AMIGOS LTDA / 12.763.127/0006-56</p>
+  <p class="dou-paragraph" >25351.228834/2024-12 / 5093602</p>
+  <p class="dou-paragraph" >COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS NÃO SUJEITOS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0559463243</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >AMAZON FARMACOS DISTRIBUIDORA DE MEDICAMENTOS LTDA / 52.669.874/0001-30</p>
+  <p class="dou-paragraph" >25351.214579/2024-12 / 1311078</p>
+  <p class="dou-paragraph" >ARMAZENAR: MEDICAMENTO</p>
+  <p class="dou-paragraph" >DISTRIBUIR: MEDICAMENTO</p>
+  <p class="dou-paragraph" >EXPEDIR: MEDICAMENTO</p>
+  <p class="dou-paragraph" >702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIR (SOMENTE MATRIZ) / 0535286244</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >DROGARIA OLIVEIRA JUNQUEIRA LTDA / 54.638.055/0001-50</p>
+  <p class="dou-paragraph" >25351.228672/2024-12 / 5093573</p>
+  <p class="dou-paragraph" >COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS CONTENDO SUBSTÂNCIAS SUJEITAS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS NÃO SUJEITOS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0559289243</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >S AMARAL COM VAREJ DE PROD FARMACEUTICOS LTDA / 04.350.689/0001-35</p>
+  <p class="dou-paragraph" >25351.228744/2024-13 / 5093587</p>
+  <p class="dou-paragraph" >COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS CONTENDO SUBSTÂNCIAS SUJEITAS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS NÃO SUJEITOS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0559369247</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >54.602.320 MARIA ELZIVANHA TORRES DA SILVA / 54.602.320/0001-40</p>
+  <p class="dou-paragraph" >25351.228617/2024-14 / 5093542</p>
+  <p class="dou-paragraph" >COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS CONTENDO SUBSTÂNCIAS SUJEITAS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS NÃO SUJEITOS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0559232241</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >UNIMEDHOSP COMERCIO ATACADISTA DE PRODUTOS HOSPITALARES E ODONTOLOGICOS LTDA / 52.238.998/0001-60</p>
+  <p class="dou-paragraph" >25351.216592/2024-14 / 3131299</p>
+  <p class="dou-paragraph" >ARMAZENAR: SANEANTE DOMIS.</p>
+  <p class="dou-paragraph" >DISTRIBUIR: SANEANTE DOMIS.</p>
+  <p class="dou-paragraph" >EXPEDIR: SANEANTE DOMIS.</p>
+  <p class="dou-paragraph" >740 - AFE - CONCESSÃO - SANEANTES - DISTRIBUIR (SOMENTE MATRIZ) / 0539087246</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Terapêutica Farmácia de Manipulação LTDA / 47.545.371/0015-18</p>
+  <p class="dou-paragraph" >25351.228922/2024-14 / 5093616</p>
+  <p class="dou-paragraph" >COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS CONTENDO SUBSTÂNCIAS SUJEITAS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS NÃO SUJEITOS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >MANIPULAÇÃO DE PRODUTOS MAGISTRAIS</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0559553242</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >D. A. DA C. SILVA &amp; CIA LTDA / 41.450.452/0001-52</p>
+  <p class="dou-paragraph" >25351.212349/2024-19 / 3131268</p>
+  <p class="dou-paragraph" >ARMAZENAR: SANEANTE DOMIS.</p>
+  <p class="dou-paragraph" >DISTRIBUIR: SANEANTE DOMIS.</p>
+  <p class="dou-paragraph" >EXPEDIR: SANEANTE DOMIS.</p>
+  <p class="dou-paragraph" >740 - AFE - CONCESSÃO - SANEANTES - DISTRIBUIR (SOMENTE MATRIZ) / 0531147240</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >J N GOMES COMERCIO DE MEDICAMENTOS LTDA / 54.653.941/0001-53</p>
+  <p class="dou-paragraph" >25351.229055/2024-26 / 5093539</p>
+  <p class="dou-paragraph" >COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS CONTENDO SUBSTÂNCIAS SUJEITAS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS NÃO SUJEITOS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0559692242</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >VIA MED COMERCIO E SERVICOS DE MEDICAMENTOS MATERIAIS E EQUIPAMENTOS LTDA / 29.212.208/0001-56</p>
+  <p class="dou-paragraph" >25351.213301/2024-28 / 1311064</p>
+  <p class="dou-paragraph" >ARMAZENAR: MEDICAMENTO</p>
+  <p class="dou-paragraph" >DISTRIBUIR: MEDICAMENTO</p>
+  <p class="dou-paragraph" >EXPEDIR: MEDICAMENTO</p>
+  <p class="dou-paragraph" >702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIR (SOMENTE MATRIZ) / 0532162242</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >MAF DISTRIBUIDORA E REPRESENTACOES LTDA / 47.193.184/0001-17</p>
+  <p class="dou-paragraph" >25351.212474/2024-29 / 3131271</p>
+  <p class="dou-paragraph" >ARMAZENAR: SANEANTE DOMIS.</p>
+  <p class="dou-paragraph" >DISTRIBUIR: SANEANTE DOMIS.</p>
+  <p class="dou-paragraph" >EXPEDIR: SANEANTE DOMIS.</p>
+  <p class="dou-paragraph" >740 - AFE - CONCESSÃO - SANEANTES - DISTRIBUIR (SOMENTE MATRIZ) / 0531276244</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >CCS DROGARIA LTDA / 54.430.572/0001-30</p>
+  <p class="dou-paragraph" >25351.228638/2024-30 / 5093556</p>
+  <p class="dou-paragraph" >COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS NÃO SUJEITOS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0559253249</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >EDIMILSON JOSÉ DA ROCHA / 00.374.079/0001-10</p>
+  <p class="dou-paragraph" >25351.216639/2024-31 / 8291631</p>
+  <p class="dou-paragraph" >TRANSPORTAR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >862 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - TRANSPORTAR / 0539139246</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >drogarias oliveira ltda / 54.432.774/0001-10</p>
+  <p class="dou-paragraph" >25351.229046/2024-35 / 5093633</p>
+  <p class="dou-paragraph" >COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS CONTENDO SUBSTÂNCIAS SUJEITAS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS NÃO SUJEITOS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0559683243</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >MEDHELP COMERCIO DE PRODUTOS ORTOPEDICOS E HOSPITALARES LTDA / 36.629.362/0001-93</p>
+  <p class="dou-paragraph" >25351.214751/2024-38 / 8291645</p>
+  <p class="dou-paragraph" >COMÉRCIO VAREJISTA: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >860 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - COMÉRCIO VAREJISTA / 0535588241</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >MEDICALMERC COMÉRCIO ATACADISTA LTDA / 52.910.397/0001-52</p>
+  <p class="dou-paragraph" >25351.212713/2024-41 / 4068591</p>
+  <p class="dou-paragraph" >ARMAZENAR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE</p>
+  <p class="dou-paragraph" >DISTRIBUIR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE</p>
+  <p class="dou-paragraph" >EXPEDIR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE</p>
+  <p class="dou-paragraph" >IMPORTAR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE</p>
+  <p class="dou-paragraph" >722 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - IMPORTAR (SOMENTE MATRIZ) / 0531533247</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >VIA MED COMERCIO E SERVICOS DE MEDICAMENTOS MATERIAIS E EQUIPAMENTOS LTDA / 29.212.208/0001-56</p>
+  <p class="dou-paragraph" >25351.212826/2024-46 / 8291628</p>
+  <p class="dou-paragraph" >ARMAZENAR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >DISTRIBUIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >EXPEDIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIR / 0531651240</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >TELES SOLUCOES EMPRESARIAIS LTDA / 48.566.347/0001-22</p>
+  <p class="dou-paragraph" >25351.212583/2024-46 / 3131285</p>
+  <p class="dou-paragraph" >ARMAZENAR: SANEANTE DOMIS.</p>
+  <p class="dou-paragraph" >DISTRIBUIR: SANEANTE DOMIS.</p>
+  <p class="dou-paragraph" >EXPEDIR: SANEANTE DOMIS.</p>
+  <p class="dou-paragraph" >740 - AFE - CONCESSÃO - SANEANTES - DISTRIBUIR (SOMENTE MATRIZ) / 0531398242</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >A V DISTRIBUIDORA DE MEDICAMENTOS LTDA / 48.984.005/0001-22</p>
+  <p class="dou-paragraph" >25351.216531/2024-49 / 1311081</p>
+  <p class="dou-paragraph" >ARMAZENAR: MEDICAMENTO</p>
+  <p class="dou-paragraph" >DISTRIBUIR: MEDICAMENTO</p>
+  <p class="dou-paragraph" >EXPEDIR: MEDICAMENTO</p>
+  <p class="dou-paragraph" >702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIR (SOMENTE MATRIZ) / 0539023248</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >mlb comercio e distribuidora de cosmeticos e perfumaria ltda / 28.974.514/0001-67</p>
+  <p class="dou-paragraph" >25351.216547/2024-51 / 4068616</p>
+  <p class="dou-paragraph" >ARMAZENAR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE</p>
+  <p class="dou-paragraph" >DISTRIBUIR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE</p>
+  <p class="dou-paragraph" >EXPEDIR: COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE</p>
+  <p class="dou-paragraph" >723 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - DISTRIBUIR (SOMENTE MATRIZ) / 0539039241</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >Medicine Health Solutions Ltda / 22.337.493/0002-73</p>
+  <p class="dou-paragraph" >25351.213539/2024-53 / 8291662</p>
+  <p class="dou-paragraph" >ARMAZENAR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >DISTRIBUIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >EXPEDIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIR / 0533506247</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >MEDICALMERC COMÉRCIO ATACADISTA LTDA / 52.910.397/0001-52</p>
+  <p class="dou-paragraph" >25351.213311/2024-63 / 8291659</p>
+  <p class="dou-paragraph" >ARMAZENAR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >DISTRIBUIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >EXPEDIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >IMPORTAR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTAR / 0532172248</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >KPA LOGISTICA LTDA / 37.076.902/0001-11</p>
+  <p class="dou-paragraph" >25351.216721/2024-66 / 4068602</p>
+  <p class="dou-paragraph" >TRANSPORTAR: COSMÉTICOS</p>
+  <p class="dou-paragraph" >728 - AFE - CONCESSÃO - COSMÉTICOS, PERFUMES E PRODUTOS DE HIGIENE - TRANSPORTAR (SOMENTE MATRIZ) / 0539226246</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >saly med soluções hospitalares ltda / 53.858.043/0001-79</p>
+  <p class="dou-paragraph" >25351.216601/2024-69 / 8291680</p>
+  <p class="dou-paragraph" >ARMAZENAR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >DISTRIBUIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >EXPEDIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIR / 0539096245</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >JORDAN DROGARIA E PERFUMARIA LTDA / 49.842.405/0001-66</p>
+  <p class="dou-paragraph" >25351.228542/2024-71 / 5093525</p>
+  <p class="dou-paragraph" >COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS NÃO SUJEITOS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0559156243</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >RGMED DISTRIBUIDORA DE MEDICAMENTOS E MATERIAIS HOSPITALARES LTDA / 49.183.157/0001-99</p>
+  <p class="dou-paragraph" >25351.212563/2024-75 / 1311002</p>
+  <p class="dou-paragraph" >ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO</p>
+  <p class="dou-paragraph" >DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO</p>
+  <p class="dou-paragraph" >EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO</p>
+  <p class="dou-paragraph" >702 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIR (SOMENTE MATRIZ) / 0531377245</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >TELES SOLUCOES EMPRESARIAIS LTDA / 48.566.347/0001-22</p>
+  <p class="dou-paragraph" >25351.212997/2024-75 / 8291614</p>
+  <p class="dou-paragraph" >ARMAZENAR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >DISTRIBUIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >EXPEDIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIR / 0531840247</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >ISL COMERCIO DE PRODUTOS FARMACEUTICOS LTDA / 33.145.011/0004-61</p>
+  <p class="dou-paragraph" >25351.228540/2024-82 / 5093511</p>
+  <p class="dou-paragraph" >COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS CONTENDO SUBSTÂNCIAS SUJEITAS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS NÃO SUJEITOS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0559154241</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >SANTO REDIN FILHA TRANSPORTES LTDA / 34.639.947/0001-69</p>
+  <p class="dou-paragraph" >25351.212619/2024-91 / 1311020</p>
+  <p class="dou-paragraph" >TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO</p>
+  <p class="dou-paragraph" >701 - AFE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTAR (SOMENTE MATRIZ) / 0531435245</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >FPB BRASIL FARMÁCIAS S.A / 51.359.276/0001-00</p>
+  <p class="dou-paragraph" >25351.229006/2024-93 / 5093620</p>
+  <p class="dou-paragraph" >COMÉRCIO: ALIMENTOS PERMITIDOS / COSMÉTICOS / PERFUMES / PRODUTOS DE HIGIENE / PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS CONTENDO SUBSTÂNCIAS SUJEITAS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE MEDICAMENTOS NÃO SUJEITOS AO CONTROLE ESPECIAL</p>
+  <p class="dou-paragraph" >DISPENSAÇÃO DE PLANTAS MEDICINAIS</p>
+  <p class="dou-paragraph" >PRESTAÇÃO DE SERVIÇOS FARMACÊUTICOS</p>
+  <p class="dou-paragraph" >733 - AFE - CONCESSÃO - FARMÁCIAS E DROGARIAS / 0559641249</p>
+  <p class="dou-paragraph" >--------------------------------------</p>
+  <p class="dou-paragraph" >A V DISTRIBUIDORA DE MEDICAMENTOS LTDA / 48.984.005/0001-22</p>
+  <p class="dou-paragraph" >25351.216532/2024-93 / 8291676</p>
+  <p class="dou-paragraph" >ARMAZENAR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >DISTRIBUIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >EXPEDIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)</p>
+  <p class="dou-paragraph" >856 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - DISTRIBUIR / 0539024244</p>
+ </body>
+</html></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

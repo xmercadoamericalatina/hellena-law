@@ -1,0 +1,28 @@
+---
+titulo: "PORTARIA MCOM Nº 3.752, DE 01 DE OUTUBRO DE 2021"
+orgao: "Ministério das Comunicações/Secretaria de Radiodifusão/Departamento de Outorga e Pós Outorga"
+tipo: "Portaria"
+numero: "3752"
+data: 2021-10-01
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/10/2021, seção 1, p. 24"
+data_publicacao: 2021-10-06
+edicao: "190"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-mcom-n-3.752-de-01-de-outubro-de-2021-350609325"
+sha256_html_fonte: 7d3d88352093fe5cc963dc5583e1f4e6091c5c1ebc6a462bf9fab9ec746fe6b7
+baixado_em: 2026-10-21
+---
+# PORTARIA MCOM Nº 3.752, DE 01 DE OUTUBRO DE 2021
+
+PORTARIA MCOM Nº 3.752, DE 01 DE OUTUBRO DE 2021
+
+O DIRETOR DE OUTORGA E PÓS-OUTORGA, no uso das atribuições que lhe são conferidas pelo § 2º, do artigo 27, da Portaria nº 141, de 22 de julho de 2020, publicada no Diário Oficial da União, de 24 de julho de 2020, e tendo em vista o que consta do Processo nº 53115.015658/2021-28, invocando as razões presentes da Nota Técnica nº 11702/2021/SEI-MCOM, resolve:
+
+**Art. 1º** Homologar as operações efetuadas pela Fundação Nossa Senhora Aparecida, na qualidade de executante dos serviços de retransmissão de televisão, consistente na alteração da geradora cedente da programação básica, conforme listagem indicada abaixo:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Processo</p></td>      <td rowspan="1" colspan="1"><p>Retransmissora</p></td>      <td rowspan="1" colspan="1"><p>Antiga Geradora</p></td>      <td rowspan="1" colspan="1"><p>Nova geradora</p></td>      <td rowspan="1" colspan="1"><p>Município</p></td>      <td rowspan="1" colspan="1"><p>Estado</p></td>      <td rowspan="1" colspan="1"><p>Canal</p></td>      <td rowspan="1" colspan="1"><p>Caráter</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53115.015658/2021-28</p></td>      <td rowspan="1" colspan="1"><p>Fundação Nossa Senhora Aparecida</p></td>      <td rowspan="1" colspan="1"><p>Fundação Nossa Senhora Aparecida</p></td>      <td rowspan="1" colspan="1"><p>Eldorado Sistema de Televisão Ltda.</p></td>      <td rowspan="1" colspan="1"><p>Palmeira dos Índios</p></td>      <td rowspan="1" colspan="1"><p>AL</p></td>      <td rowspan="1" colspan="1"><p>17</p></td>      <td rowspan="1" colspan="1"><p>Secundário</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53115.008357/2020-67</p></td>      <td rowspan="1" colspan="1"><p>Fundação Nossa Senhora Aparecida</p></td>      <td rowspan="1" colspan="1"><p>Fundação Nossa Senhora Aparecida</p></td>      <td rowspan="1" colspan="1"><p>Eldorado Sistema de Televisão Ltda.</p></td>      <td rowspan="1" colspan="1"><p>Juiz de Fora</p></td>      <td rowspan="1" colspan="1"><p>MG</p></td>      <td rowspan="1" colspan="1"><p>25</p></td>      <td rowspan="1" colspan="1"><p>Primário</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53115.008355/2020-78</p></td>      <td rowspan="1" colspan="1"><p>Fundação Nossa Senhora Aparecida</p></td>      <td rowspan="1" colspan="1"><p>Fundação Nossa Senhora Aparecida</p></td>      <td rowspan="1" colspan="1"><p>Eldorado Sistema de Televisão Ltda.</p></td>      <td rowspan="1" colspan="1"><p>Juazeiro do Norte</p></td>      <td rowspan="1" colspan="1"><p>CE</p></td>      <td rowspan="1" colspan="1"><p>19</p></td>      <td rowspan="1" colspan="1"><p>Secundário</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53115.008402/2020-83</p></td>      <td rowspan="1" colspan="1"><p>Fundação Nossa Senhora Aparecida</p></td>      <td rowspan="1" colspan="1"><p>Fundação Nossa Senhora Aparecida</p></td>      <td rowspan="1" colspan="1"><p>Eldorado Sistema de Televisão Ltda.</p></td>      <td rowspan="1" colspan="1"><p>Umuarama</p></td>      <td rowspan="1" colspan="1"><p>PR</p></td>      <td rowspan="1" colspan="1"><p>16</p></td>      <td rowspan="1" colspan="1"><p>Secundário</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53115.008338/2020-31</p></td>      <td rowspan="1" colspan="1"><p>Fundação Nossa Senhora Aparecida</p></td>      <td rowspan="1" colspan="1"><p>Fundação Nossa Senhora Aparecida</p></td>      <td rowspan="1" colspan="1"><p>Eldorado Sistema de Televisão Ltda.</p></td>      <td rowspan="1" colspan="1"><p>Cruzeiro</p></td>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>41</p></td>      <td rowspan="1" colspan="1"><p>Primário</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53115.008366/2020-58</p></td>      <td rowspan="1" colspan="1"><p>Fundação Nossa Senhora Aparecida</p></td>      <td rowspan="1" colspan="1"><p>Fundação Nossa Senhora Aparecida</p></td>      <td rowspan="1" colspan="1"><p>Eldorado Sistema de Televisão Ltda.</p></td>      <td rowspan="1" colspan="1"><p>Mongaguá</p></td>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>27</p></td>      <td rowspan="1" colspan="1"><p>Secundário</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>53115.008334/2020-52</p></td>      <td rowspan="1" colspan="1"><p>Fundação Nossa Senhora Aparecida</p></td>      <td rowspan="1" colspan="1"><p>Fundação Nossa Senhora Aparecida</p></td>      <td rowspan="1" colspan="1"><p>Eldorado Sistema de Televisão Ltda.</p></td>      <td rowspan="1" colspan="1"><p>Cáceres</p></td>      <td rowspan="1" colspan="1"><p>MT</p></td>      <td rowspan="1" colspan="1"><p>15</p></td>      <td rowspan="1" colspan="1"><p>Primário</p></td>     </tr>    </tbody>   </table>
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+WILLIAM IVO KOSHEVNIKOFF ZAMBELLI

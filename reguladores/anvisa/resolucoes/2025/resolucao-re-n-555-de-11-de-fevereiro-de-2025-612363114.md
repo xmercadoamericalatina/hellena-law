@@ -1,0 +1,117 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 555, DE 11 DE FEVEREIRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "555"
+data: 2025-02-11
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 12/02/2025, seção 1, p. 83"
+data_publicacao: 2025-02-12
+edicao: "30"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-555-de-11-de-fevereiro-de-2025-612363114"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 555, DE 11 DE FEVEREIRO DE 2025
+
+RESOLUÇÃO-RE Nº 555, DE 11 DE FEVEREIRO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+DOREMUS ALIMENTOS LTDA. / 54.289.830/0001-00
+
+25351.018268/2025-13 / 1328055
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS
+
+EXPEDIR: INSUMOS FARMACÊUTICOS
+
+EXTRAIR: INSUMOS FARMACÊUTICOS
+
+FABRICAR: INSUMOS FARMACÊUTICOS
+
+PURIFICAR: INSUMOS FARMACÊUTICOS
+
+SINTETIZAR: INSUMOS FARMACÊUTICOS
+
+TRANSFORMAR: INSUMOS FARMACÊUTICOS
+
+7173 - AE - CONCESSÃO - INSUMOS FARMACÊUTICOS - INDÚSTRIA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0167109251
+
+--------------------------------------
+
+COMPANY MED DISTRIBUIDORA LTDA / 55.037.046/0001-77
+
+25351.018257/2025-25 / 1327691
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0166983250
+
+--------------------------------------
+
+ASSOCIACAO HOSPITAL DE CARIDADE IJUI / 90.730.508/0001-38
+
+25351.018214/2025-40 / 1327674
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: MEDICAMENTO
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 0166598259
+
+--------------------------------------
+
+farmácia de manipulação mirari ltda / 53.699.877/0001-89
+
+25351.459138/2024-48 / 1328041
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1735363243
+
+--------------------------------------
+
+PHARMA BAHIA COMERCIO VAREJISTA DE MEDICAMENTOS LTDA / 27.966.112/0002-39
+
+25351.433266/2024-61 / 1328038
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1491399244
+
+--------------------------------------
+
+CN DISTRIBUIDORA LTDA / 58.778.922/0001-04
+
+25351.018972/2025-68 / 1327782
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0173791255
+
+--------------------------------------
+
+RN LOGISTICA INTEGRADA LTDA / 44.324.312/0001-26
+
+25351.018954/2025-86 / 1328011
+
+TRANSPORTAR: MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0173660258

@@ -1,0 +1,317 @@
+---
+titulo: "RESOLUÇÃO-RE N° 3.980, DE 8 DE OUTUBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "3980"
+data: 2026-10-08
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 13/10/2026, seção 1, p. 124"
+data_publicacao: 2026-10-13
+edicao: "193"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.980-de-8-de-outubro-de-2026-737788053"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE N° 3.980, DE 8 DE OUTUBRO DE 2026
+
+RESOLUÇÃO-RE N° 3.980, DE 8 DE OUTUBRO DE 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Indeferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+COMPLEMENTO DIFERENCIAL DA APRESENTAÇÃO
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+CIPLA BRASIL IMPORTADORA E DISTRIBUIDORA DE MEDICAMENTOS LTDA 18268051000164
+
+dipropionato de beclometasona + fumarato de formoterol di-hidratado
+
+dipropionato de beclometasona + fumarato de formoterol 25351.213874/2023-71
+
+155 GENERICO - REGISTRO DE MEDICAMENTO 0349281/23-8
+
+(100 + 6) MCG SOL AER INAL OR CT TB AL X 120 ACION
+
+Não Informado
+
+--------------------------------------------------------------------------------
+
+DR. REDDYS FARMACÊUTICA DO BRASIL LTDA 03978166000175
+
+hemitartarato de zolpidem 25351.136169/2024-23
+
+155 GENERICO - REGISTRO DE MEDICAMENTO 0375623/24-8
+
+10 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 7
+
+Não Informado
+
+10 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 10
+
+Não Informado
+
+10 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 14
+
+Não Informado
+
+10 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 20
+
+Não Informado
+
+10 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 28
+
+Não Informado
+
+10 MG COM REV CT BL AL PLAS PVC/PVDC TRANS X 30
+
+Não Informado
+
+--------------------------------------------------------------------------------
+
+EISAI LABORATÓRIOS LTDA 08416362000170
+
+carmustina
+
+GLIADEL 25351.677248/2011-12 09/2026
+
+1463 MEDICAMENTO NOVO - RENOVAÇÃO DE REGISTRO DE FORMA FARMACÊUTICA NOVA NO PAÍS 0187630/26-7
+
+1.7310.0004.001-0 48 Meses
+
+7,7 MG IMPL CX 8 ENV AL PLAS X 1
+
+Não Informado
+
+--------------------------------------------------------------------------------
+
+JANSSEN-CILAG FARMACÊUTICA LTDA 51780468000187
+
+ibrutinibe
+
+IMBRUVICA 25351.201886/2023-52 09/2034
+
+11107 RDC 73/2016 - NOVO - AMPLIAÇÃO DO PRAZO DE VALIDADE DO MEDICAMENTO 1454383/25-4
+
+1.1236.3445.001-9 36 Meses
+
+70 MG/ML SUS OR CT FR VD AMB X 112 ML + 2 SER DOS
+
+Não Informado
+
+--------------------------------------------------------------------------------
+
+ACCORD FARMACÊUTICA LTDA 64171697000146
+
+cloridrato de irinotecano triidratado
+
+cloridrato de irinotecano 25351.195771/2007-00 10/2028
+
+11043 RDC 73/2016 - GENÉRICO - ALTERAÇÃO MAIOR DO PROCESSO DE PRODUÇÃO DO MEDICAMENTO 0220825/26-2
+
+11049 RDC 73/2016 - GENÉRICO - INCLUSÃO MAIOR DE EQUIPAMENTO 0237221/26-8
+
+11079 RDC 73/2016 - GENÉRICO - MUDANÇA MAIOR DA FORMA E DIMENSÕES DA EMBALAGEM PRIMÁRIA DO MEDICAMENTO 0237222/26-4
+
+11742 RDC 73/2016 - GENÉRICO - MUDANÇA DO DIFA SEM CADIFA (MAIOR) 0237220/26-1
+
+11875 RDC 73/2016 - GENÉRICO - EXCLUSÃO CRÍTICA DE TESTES OU MÉTODOS 0237089/26-2
+
+1.5537.0013.001-0 24 Meses
+
+20 MG/ML SOL DIL INFUS IV CT FA VD AMB X 2 ML
+
+Não Informado
+
+1.5537.0013.002-9 24 Meses
+
+20 MG/ML SOL DIL INFUS IV CT FA VD AMB X 5 ML
+
+Não Informado
+
+cloridrato de irinotecano triidratado
+
+CLORITECAN 25351.515145/2017-16 10/2027
+
+10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0500744/26-5
+
+(11742 - RDC 73/2016 - GENÉRICO - Mudança do DIFA sem CADIFA (maior) - 0237220/26-1 - 25351.195771/2007-00)
+
+10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0500746/26-1
+
+(11875 - RDC 73/2016 - GENÉRICO - Exclusão crítica de testes ou métodos - 0237089/26-2 - 25351.195771/2007-00)
+
+10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0500748/26-8
+
+(11079 - RDC 73/2016 - GENÉRICO - Mudança maior da forma e dimensões da embalagem primária do medicamento - 0237222/26-4 - 25351.195771/2007-00)
+
+10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0500750/26-0
+
+(11043 - RDC 73/2016 - GENÉRICO - Alteração maior do processo de produção do medicamento - 0220825/26-2 - 25351.195771/2007-00)
+
+10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 0500752/26-6
+
+(11049 - RDC 73/2016 - GENÉRICO - Inclusão maior de equipamento - 0237221/26-8 - 25351.195771/2007-00)
+
+1.5537.0056.001-5 24 Meses
+
+20 MG/ML SOL DIL INFUS IV CT FA VD AMB X 2 ML
+
+Não Informado
+
+1.5537.0056.002-3 24 Meses
+
+20 MG/ML SOL DIL INFUS IV CT FA VD AMB X 5 ML
+
+Não Informado
+
+--------------------------------------------------------------------------------
+
+EMS S/A 57507378000365
+
+amoxicilina tri-hidratada + claritromicina + esomeprazol magnésico tri-hidratado
+
+amoxicilina + claritromicina + esomeprazol 25351.045869/2021-67
+
+10506 GENÉRICO - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1168271/24-0
+
+(11116 - RDC 73/2016 - NOVO - Inclusão de nova concentração - 1053153/24-0 - 25351.762354/2011-12)
+
+500 MG CAP DURA + 500 MG COM REV + 40 MG COM REV LIB RETARD CT BL AL AL X 40 + 20 + 42
+
+ESOGASTRO IBP 40
+
+500 MG CAP DURA + 500 MG COM REV + 40 MG COM REV LIB RETARD CT BL AL AL X 28 + 14 + 28
+
+ESOGASTRO IBP 40
+
+500 MG CAP DURA + 500 MG COM REV + 40 MG COM REV LIB RETARD CT BL AL AL X 28 + 14 + 42
+
+ESOGASTRO IBP 40
+
+500 MG CAP DURA + 500 MG COM REV + 40 MG COM REV LIB RETARD CT BL AL AL X 56 + 28 + 42
+
+ESOGASTRO IBP 40
+
+amoxicilina tri-hidratada + claritromicina + esomeprazol magnésico tri-hidratado
+
+ESOGASTRO IBP 25351.762354/2011-12
+
+11116 RDC 73/2016 - NOVO - INCLUSÃO DE NOVA CONCENTRAÇÃO 1053153/24-0
+
+500 MG CAP DURA + 500 MG COM REV + 40 MG COM REV LIB RETARD CT BL AL AL X 40 + 20 + 42
+
+ESOGASTRO IBP 40
+
+500 MG CAP DURA + 500 MG COM REV + 40 MG COM REV LIB RETARD CT BL AL AL X 28 + 14 + 28
+
+ESOGASTRO IBP 40
+
+500 MG CAP DURA + 500 MG COM REV + 40 MG COM REV LIB RETARD CT BL AL AL X 28 + 14 + 42
+
+ESOGASTRO IBP 40
+
+500 MG CAP DURA + 500 MG COM REV + 40 MG COM REV LIB RETARD CT BL AL AL X 56 + 28 + 42
+
+ESOGASTRO IBP 40
+
+--------------------------------------------------------------------------------
+
+LUNDBECK BRASIL LTDA 04522600000170
+
+cloridrato de memantina
+
+EBIX 25351.215852/2002-11 08/2028
+
+10993 RDC 73/2016 - NOVO - MUDANÇA MAIOR DE EXCIPIENTE PARA FORMAS FARMACÊUTICAS SÓLIDAS 0271653/25-4
+
+11044 RDC 73/2016 - NOVO - ALTERAÇÃO MAIOR DO PROCESSO DE PRODUÇÃO DO MEDICAMENTO 0314017/26-7
+
+11859 RDC 73/2016 - NOVO - EXCLUSÃO NÃO CRÍTICA DE TESTES OU MÉTODOS 0313893/26-8
+
+11863 RDC 73/2016 - NOVO - MUDANÇAS NOS LIMITES DE ESPECIFICAÇÃO FORA DE LIMITES APROVADOS ANTERIORMENTE 0314059/26-1
+
+1.0475.0050.004-7 36 Meses
+
+10 MG COM REV CT BL AL PLAS TRANS X 7
+
+Não Informado
+
+1.0475.0050.005-5 36 Meses
+
+10 MG COM REV CT BL AL PLAS TRANS X 14
+
+Não Informado
+
+1.0475.0050.006-3 36 Meses
+
+10 MG COM REV CT BL AL PLAS TRANS X 28
+
+Não Informado
+
+1.0475.0050.007-1 36 Meses
+
+10 MG COM REV CT BL AL PLAS TRANS X 56
+
+Não Informado
+
+--------------------------------------------------------------------------------
+
+MEDQUIMICA INDUSTRIA FARMACEUTICA LTDA. 17875154000120
+
+cloridrato de flurazepam
+
+DALMADORM 25351.646193/2022-12 05/2029
+
+11108 RDC 73/2016 - SIMILAR - AMPLIAÇÃO DO PRAZO DE VALIDADE DO MEDICAMENTO 0359829/26-1
+
+11868 RDC 73/2016 - SIMILAR - MUDANÇAS INTERMEDIÁRIAS DE MÉTODOS ANALÍTICOS 0359830/26-9
+
+1.0917.0129.001-2 12 Meses
+
+30 MG COM REV CT BL AL PLAS PVC TRANS X 30
+
+Não Informado
+
+1.0917.0129.002-0 12 Meses
+
+30 MG COM REV CT FR VD AMB X 20
+
+Não Informado
+
+--------------------------------------------------------------------------------
+
+THERAMEX FARMACEUTICA LTDA. 16927572000150
+
+promestrieno
+
+COLPOTROFINE 25351.155654/2025-87 12/2026
+
+11023 RDC 73/2016 - NOVO - INCLUSÃO DE LOCAL DE FABRICAÇÃO DE MEDICAMENTO DE LIBERAÇÃO CONVENCIONAL 0134805/26-7
+
+11059 RDC 73/2016 - NOVO - INCLUSÃO MAIOR DE TAMANHO DE LOTE DO MEDICAMENTO 0134811/26-7
+
+1.9711.0003.001-9 60 Meses
+
+10 MG OVL VAG CT BL AL PLAS PVC TRANS X 20
+
+Não Informado

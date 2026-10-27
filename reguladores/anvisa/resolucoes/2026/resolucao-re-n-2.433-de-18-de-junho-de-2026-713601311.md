@@ -1,0 +1,97 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.433, DE 18 DE JUNHO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "2433"
+data: 2026-06-18
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 22/06/2026, seção 1, p. 87"
+data_publicacao: 2026-06-22
+edicao: "114"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.433-de-18-de-junho-de-2026-713601311"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 2.433, DE 18 DE JUNHO DE 2026
+
+RESOLUÇÃO-RE nº 2.433, DE 18 DE JUNHO DE 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Cancelar o registro sanitário de medicamentos e insumos farmacêuticos, ou de apresentações, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor a partir da data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+---------------------------
+
+LABORATÓRIO TEUTO BRASILEIRO S/A 17159229000176
+
+HIDROCLOROTIAZIDA
+
+DIURIX 25000.022335/95-71 05/2026
+
+10080 SIMILARES - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 0539067/26-2
+
+1.0370.0104.002-7 24 Meses
+
+50 MG COM CT BL AL PLAS TRANS X 20
+
+1.0370.0104.003-5 24 Meses
+
+50 MG COM CT BL AL PLAS TRANS X 300
+
+1.0370.0104.007-8 24 Meses
+
+50 MG COM CT BL AL PLAS TRANS X 30
+
+---------------------------
+
+OPEM REPRESENTAÇÃO IMPORTADORA EXPORTADORA E DISTRIBUIDORA LTDA 38909503000157
+
+SULFATO DE POLIMIXINA B
+
+BEDFORDPOLY - B 25351.001622/00-98 11/2025
+
+10091 MEDICAMENTO NOVO - CANCELAMENTO DE REGISTRO DO MEDICAMENTO - ANVISA 0569508/26-2
+
+1.2748.0011.001-5 60 Meses
+
+500.000 UI PO LIOF SOL INJ IM/IT/IV CT FA VD TRANS
+
+1.2748.0011.002-3 60 Meses
+
+500.000 UI PO LIOF SOL INJ IM/IT/IV CT 10 FA VD TRANS
+
+1.2748.0011.003-1 60 Meses
+
+1.000.000 UI PO LIOF SOL INJ IM/IT/IV CT FA VD TRANS
+
+1.2748.0011.004-1 60 Meses
+
+1.000.000 UI PO LIOF SOL INJ IM/IT/IV CT 10 FA VD TRANS
+
+1.2748.0011.005-8 60 Meses
+
+1.500.000 UI PO LIOF SOL INJ IM/IT/IV CT FA VD TRANS
+
+1.2748.0011.006-6 60 Meses
+
+1.500.000 UI PO LIOF SOL INJ IM/IT/IV CT 10 FA VD TRANS

@@ -1,0 +1,90 @@
+---
+titulo: "INSTRUÇÃO NORMATIVA BCB Nº 121, DE 1º DE JULHO DE 2021"
+orgao: "Ministério da Economia/Banco Central do Brasil/Àrea de Regulação/Departamento de Regulação do Sistema Financeiro"
+tipo: "Instrução Normativa"
+numero: "121"
+data: 2021-07-01
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 05/07/2021, seção 1, p. 31"
+data_publicacao: 2021-07-05
+edicao: "124"
+fonte: "https://www.in.gov.br/web/dou/-/instrucao-normativa-bcb-n-121-de-1-de-julho-de-2021-329783405"
+sha256_html_fonte: 83b4241851989b4e5af88bb8ee42592ed141df47c625dfe50501a16cf70a163b
+baixado_em: 2026-10-21
+---
+# INSTRUÇÃO NORMATIVA BCB Nº 121, DE 1º DE JULHO DE 2021
+
+INSTRUÇÃO NORMATIVA BCB Nº 121, DE 1º DE JULHO DE 2021
+
+Altera as instruções normativas BCB ns. 41, de 5 de novembro de 2020, e 70, de 15 de janeiro de 2021.
+
+Os Chefes do Departamento de Competição e de Estrutura do Mercado Financeiro (Decem), do Departamento de Gestão Estratégica e Supervisão Especializada (Degef), e do Departamento de Regulação do Sistema Financeiro (Denor), no uso das atribuições que lhes confere o art. 23, inciso I, alínea "a", do Regimento Interno do Banco Central do Brasil, anexo à Portaria nº 84.287, de 27 de fevereiro de 2015, com base nos arts. 8º da Resolução CMN nº 4.734, de 27 de junho de 2019, e 15-B da Circular nº 3.952, de 27 de junho de 2019, resolvem:
+
+**Art. 1º** A Instrução Normativa BCB nº 41, de 5 de novembro de 2020, passa a vigorar com a seguinte alteração:
+
+"Art. 12 As instituições financeiras, credenciadoras e subcredenciadoras e as entidades registradoras que tiverem suas atividades suspensas a partir de 7 de junho de 2021, nos termos da Resolução CMN nº 4.734, de 27 de junho de 2019, e da Circular nº 3.952, de 27 de junho de 2019, deverão realizar novo ciclo de testes homologatórios, cujo regramento será divulgado oportunamente pelo Banco Central do Brasil." (NR)
+
+**Art. 2º** A ementa da Instrução Normativa BCB nº 70, de 15 de janeiro de 2021, passa a vigorar com a seguinte redação:
+
+"Estabelece o regramento do novo ciclo de testes homologatórios a ser observado por instituições financeiras, credenciadoras e subcredenciadoras e entidades registradoras que tiverem suas atividades suspensas a partir de 7 de junho de 2021 ou que pretendem iniciar o tratamento de operações de negociação de recebíveis de arranjos de pagamento de que trata a Resolução CMN nº 4.734, de 27 de junho de 2019; e altera a Instrução Normativa BCB nº 41, de 5 de novembro de 2020." (NR)
+
+**Art. 3º** A Instrução Normativa BCB nº 70, de 15 de janeiro de 2021, passa a vigorar com as seguintes alterações:
+
+"Art 1º Esta Instrução Normativa estabelece, em consonância com o disposto no art. 12 da Instrução Normativa BCB nº 41, de 5 de novembro de 2020, o regramento do novo ciclo de testes homologatórios a ser observado por instituições financeiras, credenciadoras e subcredenciadoras e entidades registradoras que tiverem suas atividades suspensas, a partir de 7 de junho de 2021, em função da não realização com sucesso de todos os testes previstos no plano de testes homologatórios de integração até a data estabelecida para declaração de prontidão, ou que pretendem iniciar o tratamento de operações de negociação de recebíveis de arranjos de pagamento nos termos da Resolução CMN nº 4.734, de 27 de junho de 2019, e da Circular nº 3.952, de 27 de junho de 2019, e altera a referida Instrução Normativa." (NR)
+
+"Art. 2º As instituições financeiras, credenciadoras e subcredenciadoras mencionadas no art. 1º devem realizar com sucesso o conjunto de testes definido pela entidade registradora com a qual possuem relação contratual.
+
+**§ 1º** O conjunto de testes a ser definido pela entidade registradora deve ser suficiente para:
+
+I - assegurar que os sistemas das instituições são adequados para a realização correta e segura de operações envolvendo recebíveis de arranjo de pagamento integrante do Sistema de Pagamentos Brasileiro e para validar a adequada observância da regulamentação em vigor; e
+
+II - validar requisitos funcionais e não funcionais de acordo com premissas, diretrizes e definições estabelecidas na convenção das entidades registradoras de que trata o Capítulo V da Circular nº 3.952, de 2019.
+
+**§ 2º** As instituições financeiras e credenciadoras deverão manter à disposição do Banco Central do Brasil pelo prazo de cinco anos, a contar da data de encerramento dos testes mencionados no caput, a documentação referente aos resultados dos testes que realizaram.
+
+**§ 3º** As entidades registradoras deverão manter à disposição do Banco Central do Brasil pelo prazo de cinco anos, a contar da data de encerramento dos testes mencionados no caput, a documentação referente aos resultados dos testes realizados por instituições subcredenciadoras." (NR)
+
+"Art. 3º As entidades registradoras de que trata o art. 1º deverão apresentar declaração de prontidão para início do tratamento de operações de negociação de recebíveis de arranjos de pagamento nos termos da Circular nº 3.952, de 2019.
+
+**§ 1º** A declaração de prontidão prevista no caput deve considerar:
+
+I - a realização com sucesso de testes homologatórios de interoperabilidade, conforme definido no inciso II do art. 2º da Instrução Normativa BCB nº 41, de 2020, estabelecidos no plano de testes homologatórios de integração proposto pelas entidades registradoras signatárias da convenção de que trata o Capítulo V da Circular nº 3.952, de 2019;
+
+II - a simulação bem sucedida do início de operação em produção, com o objetivo de validar a configuração e o dimensionamento do ambiente computacional de seu sistema de registro, incluindo a conectividade com outras entidades registradoras e com as demais empresas envolvidas na operacionalização do ambiente de interoperabilidade; e
+
+III - o estabelecimento de controles e processos adequados para a observância dos procedimentos operacionais previstos na convenção, incluindo a coordenação de atividades com as demais entidades registradoras na abertura e fechamento das grades de operação, bem como no processamento de dados que antecede ou sucede essas grades.
+
+**§ 2º** A declaração de prontidão prevista no caput deve ser acompanhada de relatório contendo os resultados de todos os testes realizados para validação do sistema de registro e de relatório da auditoria interna sobre:
+
+I - a capacidade de o ambiente computacional do sistema de registro atender aos requisitos estabelecidos na regulamentação em vigor; e
+
+II - a efetividade das ações tomadas para mitigar eventuais fragilidades identificadas nos testes de vulnerabilidade realizados em seus sistemas para prevenção de incidentes cibernéticos.
+
+**§ 3º** As entidades registradoras signatárias da convenção que já estiverem operando segundo os dispositivos da regulamentação em vigor deverão disponibilizar ambiente computacional e demais recursos necessários para viabilizar a realização dos testes e simulações tratados no §1º.
+
+**§ 4º** A disponibilização do ambiente computacional e demais recursos necessários para viabilizar a realização dos testes descritos no caput deverá ocorrer em até 10 dias após a formalização de solicitação para realização dos testes de interoperabilidade pela entidade registradora que pretende iniciar a realização das operações previstas no caput.
+
+**§ 5º** O conjunto de testes homologatórios de interoperabilidade propostos pelas entidades registradoras signatárias da convenção deve ser continuamente aprimorado, mediante justificativa, de forma a incluir cenários de teste cuja execução se mostra necessária para assegurar o adequado funcionamento do ambiente de interoperabilidade." (NR)
+
+"Art. 4º Os testes previstos nos arts. 2º e 3º poderão ser realizados a partir de:
+
+I - 9 de agosto de 2021, no caso de instituições financeiras, credenciadoras e subcredenciadoras; e
+
+II - 30 de agosto de 2021, no caso de entidades registradoras." (NR)
+
+"Art 4º-A As entidades registradoras de que trata o Capítulo V da Circular nº 3.952, de 2019, deverão enviar ao Banco Central do Brasil, até 2 de agosto de 2021 as premissas, diretrizes e definições para validação de requisitos funcionais e não funcionais a serem consideradas para a definição do conjunto de testes previsto no art. 2º, bem como sobre os itens a serem considerados na declaração de prontidão, conforme o §1º do art. 3º." (NR)
+
+**Art. 4º** Esta Instrução Normativa entra em vigor na data de sua publicação.
+
+ÂNGELO JOSÉ MONT ALVERNE DUARTE
+
+Chefe do Departamento de Competição e de Estrutura do Mercado Financeiro
+
+ADALBERTO FELINTO DA CRUZ JUNIOR
+
+Chefe do Departamento de Gestão Estratégica e Supervisão Especializada
+
+JOÃO ANDRÉ CALVINO MARQUES PEREIRA
+
+Chefe do Departamento de Regulação do Sistema Financeiro

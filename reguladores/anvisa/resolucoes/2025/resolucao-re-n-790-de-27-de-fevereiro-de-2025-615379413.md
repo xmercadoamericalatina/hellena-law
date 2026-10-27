@@ -1,0 +1,137 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 790, DE 27 DE FEVEREIRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "790"
+data: 2025-02-27
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 28/02/2025, seção 1, p. 120"
+data_publicacao: 2025-02-28
+edicao: "42"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-790-de-27-de-fevereiro-de-2025-615379413"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 790, DE 27 DE FEVEREIRO DE 2025
+
+RESOLUÇÃO-RE Nº 790, DE 27 DE FEVEREIRO DE 2025
+
+O COORDENADOR SUBSTITUTO DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+LUIZ CLAUDIO GOMES DA SILVA JUNIOR
+
+## ANEXO
+
+FORMULA VIDA FARMACIA DE MANIPULACAO LTDA / 56.127.010/0001-47
+
+25351.026738/2025-12 / 1329141
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0249511258
+
+--------------------------------------
+
+AGF FARMACIA DE MANIPULACAO LTDA / 54.340.167/0001-20
+
+25351.026646/2025-24 / 1328939
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0248355252
+
+--------------------------------------
+
+FLORENCA MEDICAMENTOS LTDA / 19.455.289/0002-42
+
+25351.026732/2025-37 / 1328987
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0249356252
+
+--------------------------------------
+
+BC FARMACIA DE MANIPULACAO LTDA / 54.340.322/0001-09
+
+25351.023465/2025-46 / 1328604
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0219417253
+
+--------------------------------------
+
+STHAL PHARMA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA / 54.139.351/0001-07
+
+25351.024860/2025-46 / 1328774
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0234629258
+
+--------------------------------------
+
+UNIAOMED LTDA / 40.498.903/0001-69
+
+25351.024837/2025-51 / 1329172
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0234508256
+
+--------------------------------------
+
+tm farmácia de manipulação ltda / 54.686.606/0001-51
+
+25351.025608/2025-54 / 1329138
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0241135257
+
+--------------------------------------
+
+M A G FARMACIA DE MANIPULACAO LTDA / 22.137.696/0002-16
+
+25351.023422/2025-61 / 1328575
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 0218998252
+
+--------------------------------------
+
+CONTINENTAL DISTRIBUIDORA DE MATERIAL MEDICO HOSPITALAR LTDA / 45.983.680/0001-49
+
+25351.024768/2025-86 / 1329155
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0233918256
+
+--------------------------------------
+
+FENIX DISTRIBUIDORA DE PRODUTOS HOSPITALARES E MEDICAMENTOS LTDA / 55.256.178/0001-90
+
+25351.024036/2025-96 / 1328697
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0226431258

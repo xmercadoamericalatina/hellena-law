@@ -1,0 +1,273 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.837, DE 16 DE OUTUBRO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3837"
+data: 2024-10-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 21/10/2024, seção 1, p. 216"
+data_publicacao: 2024-10-21
+edicao: "204"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.837-de-16-de-outubro-de-2024-591381034"
+sha256_html_fonte: f258610c37419c066d4e9622b62b1231e0daa1d43b7a2cf3974acfa7fc6c8449
+baixado_em: 2026-10-16
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO-RE nº 3.837, DE 16 DE OUTUBRO DE 2024
+
+<div class="texto-dou"><html>
+ <head></head>
+ <body>
+  <p class="identifica">RESOLUÇÃO-RE nº 3.837, DE 16 DE OUTUBRO DE 2024</p>
+  <p class="dou-paragraph" >O GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:</p>
+  <p class="dou-paragraph" >Art. 1º Conceder às empresas constantes no anexo a Certificação de Boas Práticas de Fabricação de Produtos para Saúde.</p>
+  <p class="dou-paragraph" >Art. 2º A presente certificação tem validade de 4 (quatro) anos a partir de sua publicação, conforme art. 1º da Resolução da Diretoria Colegiada - RDC nº 850, de 20 de março de 2024.</p>
+  <p class="dou-paragraph" >Art. 3º Esta Resolução entra em vigor na data de sua publicação.</p>
+  <p class="assina">MARCUS AURÉLIO MIRANDA DE ARAÚJO</p>
+  <p class="anexo">ANEXO</p>
+  <p class="dou-paragraph" >Fabricante: Acist Medical Systems, Inc.</p>
+  <p class="dou-paragraph" >Endereço: 7905 Fuller Road, Eden Prairie, Minnesota, 55344, Estados Unidos da América</p>
+  <p class="dou-paragraph" >Solicitante: Bracco Imaging do Brasil Importação e Distribuição de Medicamentos Ltda. CNPJ: 10.742.412/0004-01</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.05.803-2 Expediente: 0245974/24-5</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Equipamentos de uso médico da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Acumed LLC</p>
+  <p class="dou-paragraph" >Endereço: 5885 NE Cornelius Pass Road, Hillsboro, Oregon, 97124, Estados Unidos da América</p>
+  <p class="dou-paragraph" >Solicitante: Intermedic Technology Importação e Exportação Ltda CNPJ: 01.390.500/0001-40</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.00.941-7 Expediente: 0252776/24-1</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Materiais de uso médico das classes III e IV.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Avent, Inc.</p>
+  <p class="dou-paragraph" >Endereço: 6620 S. Memorial Place, Suite 100, Tucson, Arizona, 85756, Estados Unidos da América</p>
+  <p class="dou-paragraph" >Solicitante: VR Medical Importadora e Distribuidora de Produtos Médicos Ltda. CNPJ: 04.718.143/0001-94</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.01.025-1 Expediente: 0300638/24-8</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Equipamentos de uso médico da classe III e materiais de uso médico da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Axis-Shield Diagnostics Ltd.</p>
+  <p class="dou-paragraph" >Endereço: Luna Place, The Technology Park - Dundee DD2 1XA, Reino Unido</p>
+  <p class="dou-paragraph" >Solicitante: Siemens Healthcare Diagnósticos Ltda. CNPJ: 01.449.930/0001-90</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 1.03.451-6 Expediente: 0316204/24-2</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Produtos para diagnóstico de uso in vitro da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Bellco S.r.l.</p>
+  <p class="dou-paragraph" >Endereço: Via Camurana 1, Mirandola, Modena, 41037, Itália</p>
+  <p class="dou-paragraph" >Solicitante: Auto Suture do Brasil Ltda. CNPJ: 01.645.409/0001-28</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 1.03.490-0 Expediente: 0315660/24-4</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Materiais de uso médico da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Biokit S.A.</p>
+  <p class="dou-paragraph" >Endereço: Av. Can Montcau 7, Lliçà d´Amunt, Barcelona, 08186, Espanha</p>
+  <p class="dou-paragraph" >Solicitante: Abbott Laboratórios do Brasil Ltda CNPJ: 56.998.701/0001-16</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.01.465-0 Expediente: 0237387/24-7</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Produtos para diagnóstico de uso in vitro da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Cardinal Health (Kenmex Medical Specialties)</p>
+  <p class="dou-paragraph" >Endereço: Calle 9 Sur 1113, Ciudad Industrial, Tijuana, Baja California, 22444, México</p>
+  <p class="dou-paragraph" >Solicitante: Cardinal Health do Brasil Ltda. CNPJ: 19.585.158/0001-07</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.13.561-1 Expediente: 0339126/24-8</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Materiais de uso médico da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Collagen Matrix, Inc.</p>
+  <p class="dou-paragraph" >Endereço: 110 Commerce Drive, Allendale, New Jersey, 07401, Estados Unidos da América</p>
+  <p class="dou-paragraph" >Solicitante: S.I.N. IMPLANT SYSTEM LTDA CNPJ: 04.298.106/0001-74</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.01.089-1 Expediente: 1338958/24-1</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Materiais de uso médico da classe IV.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Collagen Matrix, Inc.</p>
+  <p class="dou-paragraph" >Endereço: 15 Thornton Road, Oakland, New Jersey 07436, Estados Unidos da América</p>
+  <p class="dou-paragraph" >Solicitante: S.I.N. IMPLANT SYSTEM LTDA CNPJ: 04.298.106/0001-74</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.01.089-1 Expediente: 1338090/24-1</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Materiais de uso médico da classe IV.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: DiaSys Diagnostic Systems GmbH</p>
+  <p class="dou-paragraph" >Endereço: Alte Strasse 9, Holzheim - 65558, Alemanha</p>
+  <p class="dou-paragraph" >Solicitante: Kovalent do Brasil Ltda. CNPJ: 04.842.199/0001-56</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.01.153-1 Expediente: 0479136/24-6</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Produtos para Diagnóstico de uso in vitro da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Dr. Korman Laboratories Ltd.</p>
+  <p class="dou-paragraph" >Endereço: 23, 26, Yosef Levi Str., Kiryat Bialik, 2751123, Israel</p>
+  <p class="dou-paragraph" >Solicitante: Nutriex Importação e Exportação de Produtos Nutricionais e Farmoquímicos Ltda CNPJ: 06.172.459/0001-59</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.04.519-6 Expediente: 0246025/24-7</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Materiais de uso médico da classe IV.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Eunsung Global Corp.</p>
+  <p class="dou-paragraph" >Endereço: 120, GIEOPDOSI-RO, JIJEONG-MYEON, WONJU-SI, GANGWON-DO, 26354, CORÉIA DO SUL</p>
+  <p class="dou-paragraph" >Solicitante: DOMO Salute Consultoria Regulatória Ltda. CNPJ: 26.263.959/0001-03</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.14.647-5 Expediente: 1295896/24-9</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Equipamentos de uso médico da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Hebei Jingde Medical Device Technology Co., Ltd.</p>
+  <p class="dou-paragraph" >Endereço: Fuda Road - Tongsheng Road, Southern Area of Industrial Park, Gu'an Country, Langfang City, Hebei, 065599, China</p>
+  <p class="dou-paragraph" >Solicitante: PRODIGY COMPANY LTDA CNPJ: 24.579.215/0001-77</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.16529-1 Expediente: 1329478/24-0</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Equipamentos de uso médico da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Illumina, Inc.</p>
+  <p class="dou-paragraph" >Endereço: 5200 Illumina Way, San Diego, California, 92122, Estados Unidos da América</p>
+  <p class="dou-paragraph" >Solicitante: Emergo Brazil Import Importação e Distribuição de Produtos Médicos Hospitalares Ltda CNPJ: 04.967.408/0001-98</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.01.175-8 Expediente: 0544441/24-9</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Produtos para diagnóstico de uso in vitro da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Matrix Surgical Holdings, LLC dba Matrix Surgical USA</p>
+  <p class="dou-paragraph" >Endereço: 98 Bledsoe Road, Newnan, Georgia, 30265, Estados Unidos da América</p>
+  <p class="dou-paragraph" >Solicitante: Emedical Host Importacao e Fabricacao de Produtos Medicos Ltda CNPJ: 38.288.061/0001-79</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.25.079-7 Expediente: 1345300/24-7</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Materiais de uso médico das classes III e IV.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Medskin Solutions Dr. Suwelack AG</p>
+  <p class="dou-paragraph" >Endereço: Josef-Suwelack Strasse 2, 48727, Billerbeck, Alemanha</p>
+  <p class="dou-paragraph" >Solicitante: Atlasmed Comércio e Importação de Produtos Médicos Ltda CNPJ: 33.930.810/0001-04</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.19.183-3 Expediente: 0309737/24-9</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Materiais de uso médico da classe IV.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Merit Medical Singapore Pte. Ltd.</p>
+  <p class="dou-paragraph" >Endereço: 198 Yishun Avenue 7, 768926, Singapura</p>
+  <p class="dou-paragraph" >Solicitante: Merit Medical Comercialização, Distribuição, Importação e Exportação de Produtos Hospitalares Ltda CNPJ: 13.200.579/0001-88</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.07.409-5 Expediente: 0500227/24-1</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Materiais de uso médico das classes III e IV e equipamentos de uso médico da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Merit Medical Systems, Inc.</p>
+  <p class="dou-paragraph" >Endereço: 14646 Kirby Drive, Houston, Texas, 77047, Estados Unidos da América</p>
+  <p class="dou-paragraph" >Solicitante: Boston Scientific do Brasil Ltda CNPJ: 01.513.946/0001-14</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 1.03.413-5 Expediente: 0511324/24-3</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Materiais de uso médico das classes III e IV.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Olympus Winter &amp; Ibe GmbH</p>
+  <p class="dou-paragraph" >Endereço: Rheinstrasse 8, Teltow, Brandenburg, 14513, Alemanha</p>
+  <p class="dou-paragraph" >Solicitante: Olympus Optical do Brasil Ltda. CNPJ: 04.937.243/0001-01</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.01.246-3 Expediente: 0531664/24-4</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Equipamentos de uso médico da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: OrthoPediatrics Canada ULC</p>
+  <p class="dou-paragraph" >Endereço: 1111 Autoroute Chomedey, Laval, Quebec, H7W 5J8, Canadá</p>
+  <p class="dou-paragraph" >Solicitante: Medstar Importação e Exportação Eireli CNPJ: 03.580.620/0001-35</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.00.473-0 Expediente: 0338812/24-5</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Materiais de uso médico da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Quidel Corporation</p>
+  <p class="dou-paragraph" >Endereço: 10165 McKellar Court, San Diego, 92121, California, Estados Unidos da América</p>
+  <p class="dou-paragraph" >Solicitante: VR Medical Importadora e Distribuidora de Produtos Médicos Ltda CNPJ: 04.718.143/0001-94</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.01.025-1 Expediente: 0373229/24-1</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Produtos para diagnóstico de uso in vitro da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: S.I.T. Sordina IORT Technologies SPA</p>
+  <p class="dou-paragraph" >Endereço: Via dell'Industria, 1/A - Aprilia, 04011, Itália</p>
+  <p class="dou-paragraph" >Solicitante: Efectiv Importação, Comércio e Serviços de Acessórios e Equipamentos Médicos Ltda. CNPJ: 19.338.548/0001-74</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.11.913-4 Expediente: 0566307/24-3</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Equipamentos de uso médico da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Siemens Healthcare Diagnostics Inc.</p>
+  <p class="dou-paragraph" >Endereço: 430 South Beiger St., Mishawaka, Indiana, 46544, Estados Unidos da América</p>
+  <p class="dou-paragraph" >Solicitante: Siemens Healthcare Diagnósticos Ltda. CNPJ: 01.449.930/0001-90</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 1.03.451-6 Expediente: 0398665/24-9</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde</p>
+  <p class="dou-paragraph" >Produtos para diagnóstico de uso in vitro da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Smiths Medical ASD Inc.</p>
+  <p class="dou-paragraph" >Endereço: 3350 Granada Avenue North Suite 100 / 3400 Granada Avenue North, Oakdale, MN, 55128, Estados Unidos da América</p>
+  <p class="dou-paragraph" >Solicitante: Smiths Medical do Brasil Produtos Hospitalares Ltda CNPJ: 06.019.570/0001-00</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.02.289-9 Expediente: 0344126/24-2</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Equipamentos de uso médico da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Smiths Medical ASD Inc.</p>
+  <p class="dou-paragraph" >Endereço: 6250 Shier Rings Road, Dublin, Ohio, 43016, Estados Unidos da América</p>
+  <p class="dou-paragraph" >Solicitante: Smiths Medical do Brasil Produtos Hospitalares Ltda. CNPJ: 06.019.570/0001-00</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.02.289-9 Expediente: 0344125/24-6</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Equipamentos de uso médico da classe III</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: The Binding Site Group Ltd.</p>
+  <p class="dou-paragraph" >Endereço: 8 Calthorpe Road - Edgbaston - Birmingham - B15 1QT, Reino Unido</p>
+  <p class="dou-paragraph" >Solicitante: The Binding Site Brasil Comércio de Produtos para Laboratórios Ltda. CNPJ: 23.119.193/0001-08</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 8.13.573-2 Expediente: 0330705/24-5</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Produtos para diagnóstico de uso in vitro da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Thoratec Corporation</p>
+  <p class="dou-paragraph" >Endereço: 6035 Stoneridge Drive, Pleasanton, California, 94588, Estados Unidos da América</p>
+  <p class="dou-paragraph" >Solicitante: St. Jude Medical Brasil Ltda. CNPJ: 00.986.846/0001-42</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 1.03.323-4 Expediente: 0253268/24-9</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Equipamentos de uso médico da classe IV.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Unomedical Devices S.A de C.V.</p>
+  <p class="dou-paragraph" >Endereço: Avenida Fomento Industrial, Lote 9, M3 Parque Industrial del Norte, Reynosa, Tamaulipas, 88736, México</p>
+  <p class="dou-paragraph" >Solicitante: Auto Suture do Brasil Ltda CNPJ: 01.645.409/0001-28</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 1.03.490-0 Expediente: 0338863/24-9</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Materiais de uso médico da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: Varian Medical Systems Imaging Laboratory GmbH</p>
+  <p class="dou-paragraph" >Endereço: Tafernstrasse 7, Dattwil AG, 5405, Suíça</p>
+  <p class="dou-paragraph" >Solicitante: Varian Medical Systems Brasil Ltda. CNPJ: 03.009.915/0001-56</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 1.04.054-1 Expediente: 0330781/24-3</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde:</p>
+  <p class="dou-paragraph" >Equipamentos de uso médico da classe III.</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+  <p class="dou-paragraph" >----------------------------------------------------------------------------------</p>
+  <p class="dou-paragraph" >Fabricante: William A. Cook Australia PTY. LTD.</p>
+  <p class="dou-paragraph" >Endereço: 95 Brandl Street, Eight Mile Plains, Queensland, 4113, Australia</p>
+  <p class="dou-paragraph" >Solicitante: E. Tamussino &amp; Cia Ltda. CNPJ: 33.100.082/0001-03</p>
+  <p class="dou-paragraph" >Autorização de Funcionamento: 1.02.129-9 Expediente: 0113137/24-9</p>
+  <p class="dou-paragraph" >Certificado de Boas Práticas de Fabricação de Produtos para Saúde</p>
+  <p class="dou-paragraph" >Materiais de uso médico da classe IV</p>
+  <p class="dou-paragraph" >Motivo: Publicado deferimento, subsidiado por informações provenientes de autoridades regulatórias e de organismos auditores terceiros reconhecidos pela Anvisa.</p>
+ </body>
+</html></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

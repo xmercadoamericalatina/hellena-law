@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 1.541, DE 28 DE JUNHO DE 2021"
+orgao: "Controladoria-Geral da União/Secretaria Executiva"
+tipo: "Portaria"
+numero: "1541"
+data: 2021-06-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/06/2021, seção 1, p. 166"
+data_publicacao: 2021-06-30
+edicao: "121"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1.541-de-28-de-junho-de-2021-329114315"
+sha256_html_fonte: a3e952fcdc6b9f635eaa6480aa2aeeb50529dee0b475a77f49f9c8f132aff1cc
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 1.541, DE 28 DE JUNHO DE 2021
+
+PORTARIA Nº 1.541, DE 28 DE JUNHO DE 2021
+
+Dispõe sobre a descentralização de Divisões de Coordenações-Gerais vinculadas à Secretaria Federal de Controle Interno para as Controladorias Regionais da União nos Estados.
+
+O SECRETÁRIO-EXECUTIVO DA CONTROLADORIA-GERAL DA UNIÃO, no uso das atribuições legais que lhe confere o inciso IV do art. 5º e o inciso V do art. 28, ambos do Decreto nº 9.681, de 03 de janeiro de 2019, e considerando a subordinação das Controladorias Regionais da União nos Estados à Secretaria-Executiva e os potenciais benefícios em termos de melhoria da eficiência e da celeridade da descentralização de atividades e da otimização da utilização do quadro de servidores lotados no Órgão Central e nas Controladorias Regionais da União nos Estados, resolve:
+
+**Art. 1º** Alterar o Anexo Único da Portaria nº 1.108, de 14 de março de 2019, que passa a vigorar nos termos do Anexo Único a esta Portaria.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+JOSE MARCELO CASTRO DE CARVALHO
+
+ANEXO ÚNICO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Função Comissionada vinculada à Divisão descentralizada</p></td>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de origem da Divisão</p></td>      <td rowspan="1" colspan="1"><p>Controladoria Regional de destino da Divisão</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FCPE 101.2</p></td>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de Auditoria de Estatais dos Setores de Logística e Serviços (CGLOG)</p></td>      <td rowspan="1" colspan="1"><p>Controladoria Regional da União no Estado do Rio Grande do Sul (CGU-R/RS)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FCPE 101.2</p></td>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de Auditoria de Estatais dos Setores de Energia e Petróleo (CGEP)</p></td>      <td rowspan="1" colspan="1"><p>Controladoria Regional da União no Estado do Rio de Janeiro (CGU-R/RJ)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FCPE 101.2</p></td>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de Auditoria de Estatais dos Setores Financeiro e de Desenvolvimento (CGFIN)</p></td>      <td rowspan="1" colspan="1"><p>Controladoria Regional da União no Estado de São Paulo (CGU-R/SP)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FCPE 101.2</p></td>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de Auditoria de Estatais dos Setores de Energia e Petróleo (CGEP)</p></td>      <td rowspan="1" colspan="1"><p>Controladoria Regional da União no Estado do Goiás (CGU-R/GO)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FCPE 101.2</p></td>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de Auditoria de Políticas Econômicas (CGPEC)</p></td>      <td rowspan="1" colspan="1"><p>Controladoria Regional da União no Estado da Bahia (CGU-R/BA)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FCPE 101.2</p></td>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de Auditoria de Políticas Econômicas (CGPEC)</p></td>      <td rowspan="1" colspan="1"><p>Controladoria Regional da União no Estado de Minas Gerais (CGU-R/MG)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FCPE 101.2</p></td>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de Auditoria de Patrimônio e de Desburocratização (CGPAT)</p></td>      <td rowspan="1" colspan="1"><p>Controladoria Regional da União no Estado de Sergipe (CGU-R/SE)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FCPE 101.2</p></td>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de Auditoria das Áreas de Educação Básica, Direitos Humanos e Desenvolvimento Social (CGEBC)</p></td>      <td rowspan="1" colspan="1"><p>Controladoria Regional da União no Estado do Ceará (CGU-R/CE)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FCPE 101.2</p></td>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de Auditoria das Áreas de Educação Superior e Profissionalizante (CGESUP)</p></td>      <td rowspan="1" colspan="1"><p>Controladoria Regional da União no Estado de Minas Gerais (CGU-R/MG)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FCPE 101.2</p></td>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de Auditoria das Áreas de Educação Superior e Profissionalizante (CGESUP)</p></td>      <td rowspan="1" colspan="1"><p>Controladoria Regional da União no Estado do Paraná (CGU-R/PR)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FCPE 101.2</p></td>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de Auditoria da Área de Saúde (CGSAU)</p></td>      <td rowspan="1" colspan="1"><p>Controladoria Regional da União no Estado do Pernambuco (CGU-R/PE) e Controladoria Regional da União no Estado da Paraíba (CGU-R/PB)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FCPE 101.2</p></td>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de Auditoria das Áreas de Educação Básica, Direitos Humanos e Desenvolvimento Social (CGEBC)</p></td>      <td rowspan="1" colspan="1"><p>Controladoria Regional da União no Estado do Goiás (CGU-R/GO)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FCPE 101.2</p></td>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de Auditoria das Áreas de Minas e Energia (CGENE)</p></td>      <td rowspan="1" colspan="1"><p>Controladoria Regional da União no Estado de Minas Gerais (CGU-R/MG)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>FCPE 101.2</p></td>      <td rowspan="1" colspan="1"><p>Coordenação-Geral de Auditoria das Áreas de Agricultura, Pecuária e Abastecimento (CGAGR)</p></td>      <td rowspan="1" colspan="1"><p>Controladoria Regional da União no Estado do Rio Grande do Sul (CGU-R/RS)</p></td>     </tr>    </tbody>   </table>

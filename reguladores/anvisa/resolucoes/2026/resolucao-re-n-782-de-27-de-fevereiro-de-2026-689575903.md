@@ -1,0 +1,221 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 782, DE 27 DE FEVEREIRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "782"
+data: 2026-02-27
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 02/03/2026, seção 1, p. 217"
+data_publicacao: 2026-03-02
+edicao: "40"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-782-de-27-de-fevereiro-de-2026-689575903"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 782, DE 27 DE FEVEREIRO DE 2026
+
+RESOLUÇÃO-RE Nº 782, DE 27 DE FEVEREIRO DE 2026
+
+A GERENTE-GERAL SUBSTITUTA DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos dispostos no art. 39, da Resolução da Diretoria Colegiada - RDC nº 497, de 20 de maio de 2021, resolve:
+
+**Art. 1º** Renovar a Certificação de Boas Práticas de Fabricação de Medicamentos das empresas constantes no anexo, por meio de sua renovação automática.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+renata de lima soares
+
+## ANEXO
+
+EMPRESA: Mappel Indústria de Embalagens S.A. - CNPJ: 01.233.103/0005-98 - AUTORIZ/MS: 1034806
+
+ENDEREÇO: RUA LÍBERO BADARÓ, 1115
+
+MUNICÍPIO: SÃO BERNARDO DO CAMPO - UF: SP - EXPEDIENTE: 1010606/25-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem secundária)
+
+Data de Vencimento: 04/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: LEO PHARMA MANUFACTURING (ITALY) S.R.L.
+
+ENDEREÇO: VIA E. SCHERING 21, 20054, SEGRATE (MILÃO) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000319
+
+EMPRESA SOLICITANTE: LEO PHARMA LTDA - CNPJ: 11.424.477/0001-10
+
+AUTORIZ/MS: 1085697 - EXPEDIENTE(s): 1125598/25-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis
+
+Data de Vencimento: 04/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG.
+
+ENDEREÇO: MOOSWIESEN 2, 88214, RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000624
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 1022600/25-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 04/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: BAXALTA INCORPORATED
+
+ENDEREÇO: 4501 COLORADO BOULEVARD, LOS ANGELES, CA 90039 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000075
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 1089220/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 04/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: SHL MEDICAL ASSEMBLY & SERVICES LLC
+
+ENDEREÇO: 588 JIM MORAN BOULEVARD, DEERFIELD BEACH, FLORIDA (FL) 33442 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001376
+
+EMPRESA SOLICITANTE: CELLTRION HEALTHCARE DISTRIBUICAO DE PRODUTOS FARMACEUTICOS DOS BRASIL LTDA - CNPJ: 05.452.889/0001-61
+
+AUTORIZ/MS: 1092163 - EXPEDIENTE(s): 0837472/25-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+Data de Vencimento: 04/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: SIMTRA US LLC
+
+ENDEREÇO: 927 SOUTH CURRY PIKE, BLOOMINGTON, INDIANA (IN) 47403 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000081
+
+EMPRESA SOLICITANTE: FUNDAÇÃO OSWALDO CRUZ - CNPJ: 33.781.055/0001-35
+
+AUTORIZ/MS: 1010633 - EXPEDIENTE(s): 1038317/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 04/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: PHARMAPATH S.A.
+
+ENDEREÇO: 1, 28 OCTOVRIOU STR., AGIA VARVARA, 12351 - PAÍS: GRÉCIA - CÓDIGO ÚNICO: A.000651
+
+EMPRESA SOLICITANTE: BIOLAB SANUS FARMACÊUTICA LTDA - CNPJ: 49.475.833/0001-06
+
+AUTORIZ/MS: 1009744 - EXPEDIENTE(s): 1172767/25-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos; Cápsulas
+
+Data de Vencimento: 04/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: MERCK SERONO SA
+
+ENDEREÇO: ZONE INDUSTRIALLE DE L'OURIETTAZ CH-1170, AUBONNE - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.000408
+
+EMPRESA SOLICITANTE: FUNDAÇÃO OSWALDO CRUZ - CNPJ: 33.781.055/0001-35
+
+AUTORIZ/MS: 1010633 - EXPEDIENTE(s): 1025612/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 04/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: PACKAGING COORDINATORS, LLC
+
+ENDEREÇO: 3001 RED LION ROAD, PHILADELPHIA , PENNSYLVANIA (PA) 19114 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000138
+
+EMPRESA SOLICITANTE: RECORDATI RARE DISEASES COMÉRCIO DE MEDICAMENTOS LTDA - ME - CNPJ: 53.056.057/0001-79
+
+AUTORIZ/MS: 1171267 - EXPEDIENTE(s): 1146822/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+Data de Vencimento: 04/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: PENN PHARMACEUTICAL SERVICES LIMITED
+
+ENDEREÇO: UNITS 23-24 TAFARNAUBACH INDUSTRIAL ESTATE, TREDEGAR, NP22 3AA - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.000484
+
+EMPRESA SOLICITANTE: UCB BIOPHARMA LTDA. - CNPJ: 64.711.500/0001-14
+
+AUTORIZ/MS: 1023619 - EXPEDIENTE(s): 1044154/25-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis (Embalagem primária; Granel): Soluções
+
+Data de Vencimento: 04/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: SUMITOMO PHARMA CO., LTD. OITA PLANT
+
+ENDEREÇO: 2200 OAZA TSURUSAKI, OITA, OITA 870-0106 - PAÍS: JAPÃO - CÓDIGO ÚNICO: A.000877
+
+EMPRESA SOLICITANTE: PFIZER BRASIL LTDA - CNPJ: 61.072.393/0001-33
+
+AUTORIZ/MS: 1021101 - EXPEDIENTE(s): 0802134/25-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Carbapenêmicos) (Granel): Pós com Preparação Asséptica
+
+Data de Vencimento: 04/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: COSMO S.P.A.
+
+ENDEREÇO: VIA C. COLOMBO 1-20045, LAINATE, MILÃO - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000169
+
+EMPRESA SOLICITANTE: SUN FARMACÊUTICA DO BRASIL LTDA - CNPJ: 05.035.244/0001-23
+
+AUTORIZ/MS: 1046820 - EXPEDIENTE(s): 1183823/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes
+
+Data de Vencimento: 04/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: ALMAC PHARMA SERVICES LIMITED
+
+ENDEREÇO: SEAGOE INDUSTRIAL ESTATE, PORTADOWN, CRAIGAVON, BT63 5UA - PAÍS: REINO UNIDO - CÓDIGO ÚNICO: A.000027
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 1146785/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+Data de Vencimento: 04/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: OCTAPHARMA PRODUKTIONSGESELLSCHAFT DEUTSCHLAND MBH
+
+ENDEREÇO: WOLFGANG-MARGUERRE - ALLEE 1, 31832 SPRINGE - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000777
+
+EMPRESA SOLICITANTE: EMPRESA BRASILEIRA DE HEMODERIVADOS E BIOTECNOLOGIA - CNPJ: 07.607.851/0001-46
+
+AUTORIZ/MS: 1093047 - EXPEDIENTE(s): 1012379/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Grande Volume com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de Vencimento: 04/03/2028

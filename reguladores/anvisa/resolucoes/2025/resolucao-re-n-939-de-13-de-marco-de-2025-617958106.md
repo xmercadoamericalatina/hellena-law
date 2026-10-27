@@ -1,0 +1,103 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 939, DE 13 DE MARÇO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "939"
+data: 2025-03-13
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 17/03/2025, seção 1, p. 72"
+data_publicacao: 2025-03-17
+edicao: "51"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-939-de-13-de-marco-de-2025-617958106"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 939, DE 13 DE MARÇO DE 2025
+
+RESOLUÇÃO-RE Nº 939, DE 13 DE MARÇO DE 2025
+
+A GERENTE-GERAL SUBSTITUTA DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Indeferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAQUEL LIMA E SILVA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+-------------------------------------------------
+
+HIPOLABOR FARMACEUTICA LTDA 19570720000110
+
+fenitoína sódica 25351.433647/2008-21 08/2029
+
+11862 RDC 73/2016 - GENÉRICO - MUDANÇAS NOS LIMITES DE ESPECIFICAÇÃO FORA DE LIMITES APROVADOS ANTERIORMENTE 1184996/23-7
+
+1.1343.0171.001-1 24 Meses
+
+50 MG/ML SOL INJ CT 05 AMP VD TRANS X 5 ML
+
+1.1343.0171.002-1 24 Meses
+
+50 MG/ML SOL INJ CX 100 AMP VD TRANS X 5 ML
+
+1.1343.0171.003-8 24 Meses
+
+50 MG/ML SOL INJ CX 50 AMP VD TRANS X 5 ML
+
+-------------------------------------------------
+
+DR. REDDYS FARMACÊUTICA DO BRASIL LTDA 03978166000175
+
+AZACITIDINA
+
+WINDUZA 25351.077325/2017-88 07/2029
+
+10507 SIMILAR - MODIFICAÇÃO PÓS-REGISTRO - CLONE 1562502/24-8
+
+1.5143.0046.001-2 24 Meses
+
+100 MG PO LIOF SUS INJ SC CT FA VD TRANS
+
+1.5143.0046.002-0 24 Meses
+
+150 MG PO LIOF SUS INJ SC CT FA VD TRANS
+
+Azacitidina 25351.593976/2016-05 06/2029
+
+11109 RDC 73/2016 - GENÉRICO - MUDANÇA DOS CUIDADOS DE CONSERVAÇÃO DO MEDICAMENTO 1498376/24-1
+
+1.5143.0044.001-1 24 Meses
+
+100 MG PO LIOF SUS INJ SC CT FA VD TRANS
+
+1.5143.0044.002-1 24 Meses
+
+150 MG PO LIOF SUS INJ SC CT FA VD TRANS
+
+-------------------------------------------------
+
+RECKITT BENCKISER (BRASIL) LTDA 59557124000115
+
+ALGINATO DE SÓDIO + BICARBONATO DE POTÁSSIO
+
+LUFTAGASTRO 25351.557861/2012-15 09/2028
+
+11092 RDC 73/2016 - NOVO - INCLUSÃO DE NOVA APRESENTAÇÃO 1757391/24-2
+
+100 MG/ML + 20 MG/ML SUS OR CT 12 ENV AL LAM X 10 ML

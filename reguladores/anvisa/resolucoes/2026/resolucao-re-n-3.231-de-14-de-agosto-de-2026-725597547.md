@@ -1,0 +1,695 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.231, de 14 de AGOSTO de 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Alimentos"
+tipo: "Resolução"
+numero: "3231"
+data: 2026-08-14
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 17/08/2026, seção 1, p. 91"
+data_publicacao: 2026-08-17
+edicao: "154"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.231-de-14-de-agosto-de-2026-725597547"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 3.231, de 14 de AGOSTO de 2026
+
+RESOLUÇÃO-RE nº 3.231, de 14 de AGOSTO de 2026
+
+A GERENTE-GERAL DE ALIMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 96, aliado ao art. 203, I, §1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada-RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Deferir as petições relacionadas à Gerência-Geral de Alimentos, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+PATRÍCIA FERNANDES NANTES DE CASTILHO
+
+## ANEXO
+
+Número da Listagem: 567126
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO
+
+MARCA
+
+NUMERO DO PROCESSO / VENCIMENTO DO REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+DESCRIÇÃO DA APRESENTAÇÃO
+
+REGISTRO
+
+PRAZO DE VALIDADE DA APRESENTAÇÃO
+
+EMBALAGEM PRIMÁRIA
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ABBOTT LABORATÓRIOS DO BRASIL LTDA / 56.998.701/0001-16
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.588804/2016-06 / 04/2029
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0658864/26-2
+
+APRESENTAÇÃO 1
+
+4743203780019
+
+24 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+ABBOTT LABORATÓRIOS DO BRASIL LTDA / 56.998.701/0001-16
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.210134/2016-12 / 09/2027
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0688381/26-0
+
+APRESENTAÇÃO 1
+
+4743203700015
+
+12 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+ABBOTT LABORATÓRIOS DO BRASIL LTDA / 56.998.701/0001-16
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.673426/2020-80 / 07/2026
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0688266/26-6
+
+APRESENTAÇÃO 1
+
+4743203840011
+
+24 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+APRESENTAÇÃO 2
+
+4743203840021
+
+24 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+APRESENTAÇÃO 3
+
+4743203840038
+
+24 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+DANONE LTDA. / 23.643.315/0115-10
+
+FÓRMULA PADRÃO PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.528447/2009-15 / 01/2030
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0777819/26-1
+
+APRESENTAÇÃO 1
+
+6657700800012
+
+12 Meses
+
+PLASTICO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+DANONE LTDA. / 23.643.315/0115-10
+
+MÓDULO DE LIPÍDIOS PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.525355/2009-72 / 01/2028
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0655189/26-2
+
+APRESENTAÇÃO 1
+
+6657700150018
+
+12 Meses
+
+PLASTICO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FARMOQUÍMICA S/A / 33.349.473/0001-58
+
+FÓRMULA INFANTIL DE SEGUIMENTO PARA CRIANÇAS DE PRIMEIRA INFÂNCIA
+
+25351.432980/2016-04 / 09/2031
+
+4093 - Revalidação de registro de fórmulas infantis / 0538689/26-9
+
+\*\*\*
+
+6723900100016
+
+18 Meses
+
+METALICA / PLASTICA / lata
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL
+
+25004.121199/2006-01 / 06/2027
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0671177/26-5
+
+APRESENTAÇÃO 1
+
+6204799650038
+
+12 Meses
+
+PLASTICO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL
+
+25004.121199/2006-01 / 06/2027
+
+4124 - Cancelamento de Registro de Apresentação / 0799937/26-2
+
+ALEMANHA
+
+6204799650021
+
+12 Meses
+
+PLASTICO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL
+
+25351.400608/2013-03 / 07/2029
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0794297/26-9
+
+APRESENTAÇÃO 1
+
+6204799820021
+
+12 Meses
+
+PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL
+
+25351.400608/2013-03 / 07/2029
+
+4124 - Cancelamento de Registro de Apresentação / 0803271/26-8
+
+ALEMANHA
+
+6204799820014
+
+12 Meses
+
+PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL
+
+25351.411930/2013-51 / 09/2029
+
+4124 - Cancelamento de Registro de Apresentação / 0803161/26-4
+
+ALEMANHA
+
+6204799840015
+
+12 Meses
+
+PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL
+
+25351.411930/2013-51 / 09/2029
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0794298/26-5
+
+APRESENTAÇÃO 1
+
+6204799840023
+
+12 Meses
+
+PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FORMULA MODIFICADA PARA NUTRIÇÃO ENTERAL
+
+25351.825980/2016-54 / 07/2027
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0794304/26-5
+
+APRESENTAÇÃO 1
+
+6204799900063
+
+12 Meses
+
+PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FORMULA MODIFICADA PARA NUTRIÇÃO ENTERAL
+
+25351.825980/2016-54 / 07/2027
+
+4124 - Cancelamento de Registro de Apresentação / 0803262/26-9
+
+FÓRMULA 1 - ALEMANHA
+
+6204799900018
+
+12 Meses
+
+PLASTICA
+
+FÓRMULA 2 - ALEMANHA
+
+6204799900034
+
+12 Meses
+
+PLASTICA
+
+FÓRMULA 1 - HOLANDA
+
+6204799900051
+
+12 Meses
+
+PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FÓRMULA PEDIÁTRICA PARA NUTRIÇÃO ENTERAL
+
+25351.400650/2013-73 / 10/2029
+
+4124 - Cancelamento de Registro de Apresentação / 0811992/26-9
+
+ALEMANHA
+
+6204799880017
+
+12 Meses
+
+PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+FRESENIUS KABI BRASIL LTDA / 49.324.221/0001-04
+
+FÓRMULA PEDIÁTRICA PARA NUTRIÇÃO ENTERAL
+
+25351.400650/2013-73 / 10/2029
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0761583/26-2
+
+APRESENTAÇÃO 1
+
+6204799880025
+
+12 Meses
+
+PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES
+
+25351.260946/2017-87 / 08/2028
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0654060/26-6
+
+APRESENTAÇÃO 1
+
+6596500950023
+
+21 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+NESTLE BRASIL LTDA / 60.409.075/0001-52
+
+FÓRMULA INFANTIL PARA LACTENTES
+
+25351.260946/2017-87 / 08/2028
+
+4124 - Cancelamento de Registro de Apresentação / 0816902/26-1
+
+ALEMANHA
+
+6596500950015
+
+21 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+MÉXICO
+
+6596500950031
+
+21 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+ESTADOS UNIDOS
+
+6596500950041
+
+21 Meses
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+SUPPORT PRODUTOS NUTRICIONAIS LTDA / 01.107.391/0001-00
+
+MÓDULO DE LIPÍDEOS PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.002751/2004-12 / 12/2029
+
+4124 - Cancelamento de Registro de Apresentação / 0793020/26-8
+
+APRESENTAÇÃO 2
+
+4112001480024
+
+02 Ano(s)
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+SUPPORT PRODUTOS NUTRICIONAIS LTDA / 01.107.391/0001-00
+
+MÓDULO DE LIPÍDEOS PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.002751/2004-12 / 12/2029
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0665350/26-1
+
+APRESENTAÇÃO 1
+
+4112001480016
+
+02 Ano(s)
+
+CELULOSICA / ELASTOMERICA / METALICA / PLASTICA / VIDRO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+SUPPORT PRODUTOS NUTRICIONAIS LTDA / 01.107.391/0001-00
+
+FÓRMULA DIETOTERÁPICA COM RESTRIÇÃO DOS AMINOÁCIDOS TIROSINA E FENILALANINA
+
+APROVADA: TYR ANAMIX INFANT
+
+25351.129896/2025-15 / 08/2031
+
+4148 - Registro de fórmula dietoterápica para erros inatos do metabolismo / 0978725/25-5
+
+Apresentação 1
+
+6593000200012
+
+18 Meses
+
+ELASTOMERICA / METALICA / PLASTICA / lata
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+SUPPORT PRODUTOS NUTRICIONAIS LTDA / 01.107.391/0001-00
+
+FÓRMULA MODIFICADA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.031764/2025-54 / 12/2026
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0655167/26-9
+
+APRESENTAÇÃO 1
+
+6593000140011
+
+12 Meses
+
+CELULOSICA / METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+SUPPORT PRODUTOS NUTRICIONAIS LTDA / 01.107.391/0001-00
+
+FÓRMULA DIETOTERÁPICA COM RESTRIÇÃO DOS AMINOÁCIDOS METIONINA, TREONINA E VALINA E BAIXO TEOR DE ISOLEUCINA
+
+APROVADA: MMA/PA ANAMIX JUNIOR
+
+25351.064973/2025-84 / 08/2031
+
+4148 - Registro de fórmula dietoterápica para erros inatos do metabolismo / 0566898/25-0
+
+APRESENTAÇÃO 1
+
+6593000190017
+
+18 Meses
+
+ELASTOMERICA / METALICA / PLASTICA / lata
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+SUPPORT PRODUTOS NUTRICIONAIS LTDA / 01.107.391/0001-00
+
+FÓRMULA PEDIÁTRICA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25351.333543/2021-94 / 04/2027
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0695492/26-8
+
+APRESENTAÇÃO 1
+
+6593000070011
+
+18 Meses
+
+METALICA / PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+TGE BEM ESTAR COMERCIO DE PRODUTOS NATURAIS LTDA- ME / 22.844.085/0001-27
+
+MASSA ALIMENTÍCIA COM GLUCOMANANO KONJAC
+
+25351.850333/2016-69 / 07/2026
+
+4055 - Cancelamento de Registro de Alimentos - Anvisa / 0784926/26-5
+
+\*\*\*
+
+6729500010019
+
+24 Meses
+
+PLASTICA
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+VIDA FORTE NUTRIENTES INDUSTRIA E COMERCIO DE PRODUTOS NATURAIS LTDA / 07.455.576/0001-92
+
+MÓDULO DE L-GLUTAMINA PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.231923/2006-04 / 05/2027
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0790117/26-6
+
+APRESENTAÇÃO 1
+
+6542600010015
+
+24 Meses
+
+METALICA / PLASTICO
+
+APRESENTAÇÃO 2
+
+6542600010023
+
+24 Meses
+
+PLASTICA / pote
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+VIDA FORTE NUTRIENTES INDUSTRIA E COMERCIO DE PRODUTOS NATURAIS LTDA / 07.455.576/0001-92
+
+MÓDULO DE PROTEÍNAS PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.360048/2009-45 / 01/2030
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0790179/26-1
+
+APRESENTAÇÃO 1
+
+6542600080013
+
+24 Meses
+
+METALICA / PLASTICO / VIDRO
+
+APRESENTAÇÃO 2
+
+6542600080056
+
+24 Meses
+
+METALICA / PLASTICO / VIDRO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+VIDA FORTE NUTRIENTES INDUSTRIA E COMERCIO DE PRODUTOS NATURAIS LTDA / 07.455.576/0001-92
+
+MÓDULO DE PROTEÍNAS PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.360048/2009-45 / 01/2030
+
+4124 - Cancelamento de Registro de Apresentação / 0803019/26-7
+
+LATA 450 G
+
+6542600080021
+
+24 Meses
+
+METALICA / PLASTICO / VIDRO
+
+SACHE 6G
+
+6542600080031
+
+24 Meses
+
+METALICA / PLASTICO / VIDRO
+
+SACHE 12 G
+
+6542600080048
+
+24 Meses
+
+METALICA / PLASTICO / VIDRO
+
+SACHE 24 G
+
+6542600080064
+
+24 Meses
+
+METALICA / PLASTICO / VIDRO
+
+SACHE 30 G
+
+6542600080072
+
+24 Meses
+
+METALICA / PLASTICA / VIDRO
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+VIDA FORTE NUTRIENTES INDUSTRIA E COMERCIO DE PRODUTOS NATURAIS LTDA / 07.455.576/0001-92
+
+MÓDULO DE CARBOIDRATOS PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.360049/2009-74 / 01/2030
+
+4172 - Adequação de produto registrado à RDC 843/2024 / 0789901/26-9
+
+APRESENTAÇÃO 1
+
+6542600090019
+
+24 Meses
+
+METALICA / PLASTICO / VIDRO
+
+APRESENTAÇÃO 2
+
+6542600090027
+
+24 Meses
+
+PLASTICA / pote
+
+\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_
+
+VIDA FORTE NUTRIENTES INDUSTRIA E COMERCIO DE PRODUTOS NATURAIS LTDA / 07.455.576/0001-92
+
+MÓDULO DE CARBOIDRATOS PARA NUTRIÇÃO ENTERAL E ORAL
+
+25004.360049/2009-74 / 01/2030
+
+4124 - Cancelamento de Registro de Apresentação / 0803186/26-0
+
+APRESENTAÇÃO 3
+
+6542600090035
+
+24 Meses
+
+METALICA / sachê

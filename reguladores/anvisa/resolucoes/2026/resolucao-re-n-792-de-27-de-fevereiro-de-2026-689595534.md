@@ -1,0 +1,67 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 792, DE 27 DE FEVEREIRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "792"
+data: 2026-02-27
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 02/03/2026, seção 1, p. 190"
+data_publicacao: 2026-03-02
+edicao: "40"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-792-de-27-de-fevereiro-de-2026-689595534"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 792, DE 27 DE FEVEREIRO DE 2026
+
+RESOLUÇÃO-RE Nº 792, DE 27 DE FEVEREIRO DE 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Publicar o cancelamento de registro da apresentação a pedido dos medicamentos similares, genéricos e novos, sob o nº de expedientes constantes do anexo desta Resolução, nos termos do art. 51 da Lei nº. 9.784 de 1999.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+RAZÃO SOCIAL CNPJ
+
+MARCA COMERCIAL Nº PROCESSO EXPEDIENTE CANCELAMENTO M.S.
+
+--------------------------------------------------
+
+FUNDAÇÃO PARA O REMÉDIO POPULAR - FURP - 43.640.754/0001-19
+
+--------------------------------------------------
+
+FURP-ESTREPTOMICINA 25001.012878/85 0088995/26-7 1103900830022
+
+--------------------------------------------------
+
+JANSSEN-CILAG FARMACEUTICA LTDA - 51.780.468/0001-87
+
+ERFANDEL 25351.860423/2018-60 0161244/26-2 1123634330013 1123634330021 1123634330031 1123634330048 1123634330056 1123634330064
+
+--------------------------------------------------
+
+LIBBS FARMACÊUTICA LTDA - 61.230.314/0001-75
+
+ÉGIDE 25351.376229/2009-17 0152382/26-7 1003301580014 1003301580030 1003301580057
+
+--------------------------------------------------
+
+PRATI DONADUZZI & CIA LTDA - 73.856.593/0001-66
+
+CADVAS 25351.043045/2025-86 0104984/26-4 1256803650012 1256803650020 1256803650039 1256803650047 1256803650055 1256803650063 1256803650071 1256803650081 1256803650179 1256803650187 1256803650195 1256803650209 1256803650217 1256803650225 1256803650233 1256803650241
+
+mesilato de doxazosina 25351.456946/2014-61 0081532/26-1 1256802990014 1256802990030 1256802990049 1256802990057 1256802990065 1256802990073 1256802990081 1256802990091 1256802990189 1256802990197 1256802990200 1256802990219 1256802990227 1256802990235 1256802990243 1256802990251
+
+--------------------------------------------------
+
+UNIÃO QUÍMICA FARMACÊUTICA NACIONAL S/A - 60.665.981/0001-18
+
+Diazepam 25351.787675/2011-95 0147415/26-8 1049713900014 1049713900022 1049713900030
+
+prednisona 25351.043702/2004-61 0099572/26-5 1049713360044 1049713360052 1049713360060 1049713360109 1049713360117 1049713360125

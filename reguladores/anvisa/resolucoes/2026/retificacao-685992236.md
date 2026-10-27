@@ -1,0 +1,91 @@
+---
+titulo: "ReTIFICAÇÃO"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: ""
+data: 2026-02-09
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 09/02/2026, seção 1, p. 74"
+data_publicacao: 2026-02-09
+edicao: "27"
+fonte: "https://www.in.gov.br/web/dou/-/retificacao-685992236"
+baixado_em: 2026-10-15
+---
+# ReTIFICAÇÃO
+
+ReTIFICAÇÃO
+
+Na Resolução-RE Nº 1.749, de 08 de maio de 2025, publicada no Diário Oficial da União nº 87, de 12/05/2025, Seção 1, Pág. 184, referente ao processo nº 25351701930202320:
+
+Onde se lê:
+
+(...)
+
+BELFAR LTDA 18324343000177
+
+CARBONATO DE CÁLCIO
+
+CALCIOFAR PLUS 25351.701930/2023-20 05/2035
+
+1577 ESPECÍFICO - REGISTRO DE MEDICAMENTO 1145393/23-1
+
+1.0571.0188.001-3 24 Meses
+
+1250 MG COM CT FR PL AS OPC X 60
+
+1.0571.0188.002-1 24 Meses
+
+1250 MG COM CT FR PL AS OPC X 90
+
+1.0571.0188.003-1 24 Meses
+
+1250 MG COM CT FR PL AS OPC X 120
+
+1.0571.0188.004-8 24 Meses
+
+1250 MG COM CT 60 FR PL AS OPC X 60
+
+1.0571.0188.005-6 24 Meses
+
+1250 MG COM CT 60 FR PL AS OPC X 90
+
+1.0571.0188.006-4 24 Meses
+
+1250 MG COM CT 60 FR PL AS OPC X 120
+
+Leia-se:
+
+(...)
+
+BELFAR LTDA 18324343000177
+
+CARBONATO DE CÁLCIO
+
+CALCIOFAR PLUS 25351.701930/2023-20 05/2035
+
+1577 ESPECÍFICO - REGISTRO DE MEDICAMENTO 1145393/23-1
+
+1.0571.0188.001-3 24 Meses
+
+1250 MG COM CT FR PLAS PEBD/PEAD/PP OPC X 60
+
+1.0571.0188.002-1 24 Meses
+
+1250 MG COM CT FR PLAS PEBD/PEAD/PP OPC X 90
+
+1.0571.0188.003-1 24 Meses
+
+1250 MG COM CT FR PLAS PEBD/PEAD/PP OPC X 120
+
+1.0571.0188.004-8 24 Meses
+
+1250 MG COM CT FR PLAS PEBD/PEAD/PP OPC X 3600
+
+1.0571.0188.005-6 24 Meses
+
+1250 MG COM CT 60 FR PLAS PEBD/PEAD/PP OPC X 5400
+
+1.0571.0188.006-4 24 Meses
+
+1250 MG COM CT 60 FR PLAS PEBD/PEAD/PP OPC X 7200

@@ -1,0 +1,204 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.911, DE 16 DE MAIO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1911"
+data: 2024-05-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/05/2024, seção 1, p. 181"
+data_publicacao: 2024-05-20
+edicao: "96"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.911-de-16-de-maio-de-2024-560714562"
+sha256_html_fonte: de76d809652590704fd464402d12af9803f2865c6ae7f1ddf9d8db928c0a9c01
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 1.911, DE 16 DE MAIO DE 2024
+
+RESOLUÇÃO-RE Nº 1.911, DE 16 DE MAIO DE 2024
+
+O GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021,
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+MARCUS AURÉLIO MIRANDA DE ARAÚJO
+
+## ANEXO
+
+EMPRESA: Air Liquide Brasil LTDA - CNPJ: 00.331.788/0031-34 - AUTORIZ/MS: 2200003
+
+ENDEREÇO: Rua Dois, 300. Lote 2
+
+MUNICÍPIO: CONTAGEM - UF: MG - EXPEDIENTE: 1055494/23-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais (Embalagem primária): Gás
+
+.........................................
+
+EMPRESA: GUERBET PRODUTOS RADIOLÓGICOS LTDA - CNPJ: 42.180.406/0001-43 - AUTORIZ/MS: 1049801
+
+ENDEREÇO: RUA ANDRÉ ROCHA, N° 3000
+
+MUNICÍPIO: RIO DE JANEIRO - UF: RJ - EXPEDIENTE: 1043554/23-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Grande Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA: LIBBS FARMACÊUTICA LTDA - CNPJ: 61.230.314/0005-07 - AUTORIZ/MS: 1000333
+
+ENDEREÇO: RUA ALBERTO CORREIA FRANCFORT, Nº 88
+
+MUNICÍPIO: EMBU DAS ARTES - UF: SP - EXPEDIENTE: 1010917/23-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis; Pomadas
+
+.........................................
+
+EMPRESA: MESSER Gases Ltda - CNPJ: 60.619.202/0025-15 - AUTORIZ/MS: 2200005
+
+ENDEREÇO: Rodovia Armando Salles de Oliveira, km 1
+
+MUNICÍPIO: SERTÃOZINHO - UF: SP - EXPEDIENTE: 4653658/22-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais (Embalagem primária): Gases Medicinais
+
+.........................................
+
+EMPRESA FABRICANTE: FIDIA FARMACEUTICI S.P.A
+
+ENDEREÇO: VIA PONTE DELLA FABBRICA 3/A - 35031 - ABANO TERME, PADOVA - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000230
+
+EMPRESA SOLICITANTE: TRB PHARMA INDÚSTRIA QUÍMICA E FARMACÊUTICA LTDA - CNPJ: 61.455.192/0001-15
+
+AUTORIZ/MS: 1003417 - EXPEDIENTE(s): 1073122/23-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG.
+
+ENDEREÇO: MOOSWIESEN 2, 88214, RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000624
+
+EMPRESA SOLICITANTE: ABBVIE FARMACÊUTICA LTDA. - CNPJ: 15.800.545/0001-50
+
+AUTORIZ/MS: 1098607 - EXPEDIENTE(s): 1073352/23-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: MEDICAMEN BIOTECH LTD.
+
+ENDEREÇO: SP - 1192 A & B, PHASE IV - INDUSTRIAL AREA - BHIWADI, DISTRITO ALWAR, RAJASTHAN - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001019
+
+EMPRESA SOLICITANTE: NUNESFARMA DISTRIBUIDORA DE PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 75.014.167/0001-00
+
+AUTORIZ/MS: 1017952 - EXPEDIENTE(s): 1093067/23-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: AUROBINDO PHARMA LIMITED - UNIT III
+
+ENDEREÇO: SURVEY N° 313 AND 314, BACHUPALLY VILLAGE - BACHUPALLY MANDAL - MEDCHAL-MALKAJGIRI DISTRICT - TELANGANA STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000054
+
+EMPRESA SOLICITANTE: AUROBINDO PHARMA INDÚSTRIA FARMACÊUTICA LIMITADA - CNPJ: 04.301.884/0001-75
+
+AUTORIZ/MS: 1051679 - EXPEDIENTE(s): 1206142/23-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: DSM NUTRITIONAL PRODUCTS COLOMBIA S.A.
+
+ENDEREÇO: PARQUE INDUSTRIAL TIBITOC LOTE 41B Y 42B KM 2,4 VIA BRICENO - ZIOAQUIRÁ DEL MUNICIPIO DE TOCANCIPÁ - CUNDINAMARCA - PAÍS: COLÔMBIA - CÓDIGO ÚNICO: A.001219
+
+EMPRESA SOLICITANTE: CIFARMA CIENTÍFICA FARMACÊUTICA LTDA - CNPJ: 17.562.075/0001-69
+
+AUTORIZ/MS: 1015601 - EXPEDIENTE(s): 1144396/23-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Pós
+
+.........................................
+
+EMPRESA FABRICANTE: CENEXI FONTENAY SOUS BOIS
+
+ENDEREÇO: 52, RUE MARCEL ET JACQUES GAUCHER, 94120, FONTENAY-SOUS-BOIS - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000144
+
+EMPRESA SOLICITANTE: BIOPAS BRASIL PRODUTOS FARMACEUTICOS LTDA - CNPJ: 31.327.287/0001-92
+
+AUTORIZ/MS: 1189773 - EXPEDIENTE(s): 1285773/23-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: SCHERING PLOUGH, S.A. DE C.V
+
+ENDEREÇO: AV. 16 DE SEPTIEMBRE Nº 301, C.P. 16090, XALTOCAN, XOCHIMILCO, DISTRITO FEDERAL - PAÍS: MÉXICO - CÓDIGO ÚNICO: A.000567
+
+EMPRESA SOLICITANTE: MERCK SHARP & DOHME FARMACEUTICA LTDA. - CNPJ: 03.560.974/0001-18
+
+AUTORIZ/MS: 1001711 - EXPEDIENTE(s): 1178032/23-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: PFIZER IRELAND PHARMACEUTICALS
+
+ENDEREÇO: GRANGE CASTLE BUSINESS PARK, CLONDALKIN, DUBLIN 22, D22 V8F8 - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.000635
+
+EMPRESA SOLICITANTE: PFIZER BRASIL LTDA - CNPJ: 61.072.393/0001-33
+
+AUTORIZ/MS: 1021101 - EXPEDIENTE(s): 1213970/23-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Suspensões Parenterais de Pequeno Volume com Esterilização Terminal; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: VIANEX S.A.
+
+ENDEREÇO: 16TH KM MARATHONOS AVE, PLANT C, 15351 PALLINI, ATTICA - GREECE - PAÍS: GRÉCIA - CÓDIGO ÚNICO: A.001160
+
+EMPRESA SOLICITANTE: ELI LILLY DO BRASIL LTDA - CNPJ: 43.940.618/0001-44
+
+AUTORIZ/MS: 1012603 - EXPEDIENTE(s): 1108994/23-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: ABBOTT LABORATORIES GMBH
+
+ENDEREÇO: JUSTUS-VON-LIEBIG-STR. 33, 31535 NEUSTADT A. RBGE. - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000593
+
+EMPRESA SOLICITANTE: ABBOTT LABORATÓRIOS DO BRASIL LTDA - CNPJ: 56.998.701/0001-16
+
+AUTORIZ/MS: 1005531 - EXPEDIENTE(s): 1122883/23-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Cápsulas
+
+.........................................
+
+EMPRESA FABRICANTE: FRÜH VERPACKUNGSTECHNIK AG
+
+ENDEREÇO: ALLMENDSTRASSE 47, FEHRALTORF, 8320 - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.001711
+
+EMPRESA SOLICITANTE: CELLTRION HEALTHCARE DISTRIBUICAO DE PRODUTOS FARMACEUTICOS DOS BRASIL LTDA - CNPJ: 05.452.889/0001-61
+
+AUTORIZ/MS: 1092163 - EXPEDIENTE(s): 0076058/24-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................

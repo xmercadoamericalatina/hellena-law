@@ -1,0 +1,171 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.817, DE 25 DE SETEMBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "3817"
+data: 2026-09-25
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 28/09/2026, seção 1, p. 178"
+data_publicacao: 2026-09-28
+edicao: "183"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.817-de-25-de-setembro-de-2026-734860379"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 3.817, DE 25 DE SETEMBRO DE 2026
+
+RESOLUÇÃO-RE Nº 3.817, DE 25 DE SETEMBRO DE 2026
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Cancelar o registro sanitário de medicamentos e insumos farmacêuticos, ou de apresentações, conforme anexo;
+
+**Art. 2º** Esta Resolução entra em vigor a partir da data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+--------------------------------------------------
+
+INSTITUTO BIOCHIMICO INDÚSTRIA FARMACÊUTICA LTDA 33258401000103
+
+haloperidol 25351.358444/2024-68 09/2034
+
+10088 GENERICO - CANCELAMENTO DE REGISTRO DO MEDICAMENTO - ANVISA 0981020/26-0
+
+1.0063.0303.001-6 36 Meses
+
+2 MG/ML SOL OR CX 50 FR GOT PLAS OPC X 10 ML
+
+1.0063.0303.002-4 24 Meses
+
+1 MG COM CT BL AL PLAS PVC/PVDC TRANS X 20
+
+1.0063.0303.003-2 24 Meses
+
+1 MG COM CX BL AL PLAS PVC/PVDC TRANS X 200
+
+1.0063.0303.004-0 24 Meses
+
+5 MG COM CT BL AL PLAS PVC/PVDC TRANS X 20
+
+1.0063.0303.005-9 24 Meses
+
+5 MG COM CT BL AL PLAS PVC/PVDC TRANS X 200
+
+1.0063.0303.006-7 36 Meses
+
+5 MG/ML SOL INJ IM CX 50 AMP VD AMB X 1 ML
+
+1.0063.0303.007-5 36 Meses
+
+2 MG/ML SOL GOT OR CT FR GOT PLAS OPC X 20 ML
+
+1.0063.0303.008-3 36 Meses
+
+2 MG/ML SOL GOT OR CX 10 FR GOT PLAS OPC X 20 ML
+
+1.0063.0303.009-1 36 Meses
+
+5 MG/ML SOL INJ IM CX 36 AMP VD AMB X 1 ML
+
+1.0063.0303.010-5 36 Meses
+
+5 MG/ML SOL INJ IM CX 25 AMP VD AMB X 1 ML
+
+--------------------------------------------------
+
+LABORATÓRIO TEUTO BRASILEIRO S/A 17159229000176
+
+ibuprofeno
+
+IBUPRIL 25001.017057/85 09/2026
+
+10080 SIMILARES - CANCELAMENTO DE REGISTRO DA APRESENTAÇÃO - ANVISA 0982102/26-3
+
+1.0370.0076.023-9 24 Meses
+
+400 MG COM REV CT BL AL PLAS TRANS X 4
+
+1.0370.0076.024-7 24 Meses
+
+400 MG COM REV CT BL AL PLAS TRANS X 10
+
+1.0370.0076.025-5 24 Meses
+
+400 MG COM REV CT BL AL PLAS TRANS X 20
+
+1.0370.0076.026-3 24 Meses
+
+400 MG COM REV CT BL AL PLAS TRANS X 192
+
+1.0370.0076.027-1 24 Meses
+
+400 MG COM REV CT BL AL PLAS TRANS X 200
+
+1.0370.0076.028-1 24 Meses
+
+400 MG COM REV CT BL AL PLAS TRANS X 500
+
+1.0370.0076.029-8 24 Meses
+
+400 MG COM REV CT BL AL PLAS TRANS X 90
+
+--------------------------------------------------
+
+THERASKIN FARMACEUTICA LTDA. 61517397000188
+
+LAKESIAMEDICAL 25351.377954/2024-34 09/2035
+
+10087 SIMILARES - CANCELAMENTO DE REGISTRO DO MEDICAMENTO - ANVISA 0955151/26-4
+
+1.0191.0308.001-1 24 Meses
+
+10 MG/G CREM DERM CT BG AL X 20 G
+
+ciclopirox olamina
+
+1.0191.0308.002-1 24 Meses
+
+80 MG/G ESM DERM CT FR VD AMB X 3 G
+
+ciclopirox
+
+1.0191.0308.003-8 24 Meses
+
+80 MG/G ESM DERM CT FR VD AMB X 6 G
+
+ciclopirox
+
+1.0191.0308.004-6 24 Meses
+
+10 MG/ML SOL SPR DERM CT FR SPR PLAS PEAD OPC X 15 ML
+
+ciclopirox olamina
+
+1.0191.0308.005-4 24 Meses
+
+10 MG/ML SOL SPR DERM CT FR SPR PLAS PEAD OPC X 30 ML
+
+ciclopirox olamina
+
+1.0191.0308.006-2 24 Meses
+
+10 MG/ML SOL SPR DERM CT FR SPR PLAS PEAD OPC X 50 ML
+
+ciclopirox olamina

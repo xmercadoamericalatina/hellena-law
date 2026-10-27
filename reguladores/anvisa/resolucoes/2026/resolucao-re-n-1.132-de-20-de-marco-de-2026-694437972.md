@@ -1,0 +1,137 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.132, DE 20 DE MARÇO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "1132"
+data: 2026-03-20
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 23/03/2026, seção 1, p. 129"
+data_publicacao: 2026-03-23
+edicao: "55"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.132-de-20-de-marco-de-2026-694437972"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 1.132, DE 20 DE MARÇO DE 2026
+
+RESOLUÇÃO-RE Nº 1.132, DE 20 DE MARÇO DE 2026
+
+A GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos dispostos no art. 39, da Resolução da Diretoria Colegiada - RDC nº 497, de 20 de maio de 2021, resolve:
+
+**Art. 1º** Renovar a Certificação de Boas Práticas de Fabricação de Medicamentos das empresas constantes no anexo, por meio de sua renovação automática.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RENATA DE LIMA SOARES
+
+## ANEXO
+
+EMPRESA: AIR LIQUIDE BRASIL LTDA - CNPJ: 00.331.788/0024-05 - AUTORIZ/MS: 2200003
+
+ENDEREÇO: ROD BR-101 SUL, 3020, LETRA C
+
+MUNICÍPIO: CABO DE SANTO AGOSTINHO - UF: PE - EXPEDIENTE: 1267898/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais: Gás
+
+Data de Vencimento: 25/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: MYLAN LABORATORIES SAS
+
+ENDEREÇO: ROUTE DE BELLEVILLE-LIEU-DIT MAILLARD, 01400 CHATILLON-SUR-CHALARONNE - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000594
+
+EMPRESA SOLICITANTE: ABBOTT LABORATÓRIOS DO BRASIL LTDA - CNPJ: 56.998.701/0001-16
+
+AUTORIZ/MS: 1005531 - EXPEDIENTE(s): 1058638/25-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos; Comprimidos Revestidos; Cápsulas
+
+Data de Vencimento: 25/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: CIPLA LTD
+
+ENDEREÇO: PLOT NO. 9 & 10 INDORE SPECIAL ECONOMIC ZONE, PHASE II, PITHAMPUR, DISTRICT DHAR, MADHYA PRADESH PIN CODE: 454775 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000995
+
+EMPRESA SOLICITANTE: VIATRIS FARMACEUTICA DO BRASIL LTDA - CNPJ: 11.643.096/0001-22
+
+AUTORIZ/MS: 1088307 - EXPEDIENTE(s): 1224267/25-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Suspensões
+
+Data de Vencimento: 25/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: FOREST LABORATORIES IRELAND LIMITED
+
+ENDEREÇO: CLONSHAUGH BUSINESS AND TECHNOLOGY PARK, DUBLIN 17, IRELAND - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.001130
+
+EMPRESA SOLICITANTE: ALLERGAN PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 43.426.626/0001-77
+
+AUTORIZ/MS: 1001478 - EXPEDIENTE(s): 0992915/25-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos; Cápsulas
+
+Data de Vencimento: 25/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: HOLOPACK VERPACKUNGSTECHNIK GMBH
+
+ENDEREÇO: BAHNHOFSTRASSE 18, 74429 - SULZBACH-LAUFEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.001113
+
+EMPRESA SOLICITANTE: OPEM REPRESENTAÇÃO IMPORTADORA EXPORTADORA E DISTRIBUIDORA LTDA - CNPJ: 38.909.503/0001-57
+
+AUTORIZ/MS: 1027487 - EXPEDIENTE(s): 1183919/25-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem primária; Embalagem secundária): Soluções com Preparação Asséptica
+
+Data de Vencimento: 25/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: ACTAVIS LTD.
+
+ENDEREÇO: BLB 015-016, BULEBEL INDUSTRIAL ESTATE, ZEJTUN ZTN 3000 - PAÍS: MALTA - CÓDIGO ÚNICO: A.000014
+
+EMPRESA SOLICITANTE: BIOLAB SANUS FARMACÊUTICA LTDA - CNPJ: 49.475.833/0001-06
+
+AUTORIZ/MS: 1009744 - EXPEDIENTE(s): 1258264/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+Data de Vencimento: 25/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: SHANDONG ANXIN PHARMACEUTICAL CO. LTD
+
+ENDEREÇO: NO. 849, DONGJIA TOWN, LICHENG DISTRICT, JINAN CITY, SHANDONG PROVINCE - PAÍS: CHINA, REPÚBLICA POPULAR - CÓDIGO ÚNICO: A.001181
+
+EMPRESA SOLICITANTE: SANVAL COMERCIO E INDUSTRIA LTDA - CNPJ: 61.068.755/0007-08
+
+AUTORIZ/MS: 1007146 - EXPEDIENTE(s): 1231112/25-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Penicilínicos): Pós Liofilizados
+
+Data de Vencimento: 25/03/2028
+
+.........................................
+
+EMPRESA FABRICANTE: TAKEDA PHARMACEUTICAL COMPANY LIMITED
+
+ENDEREÇO: 4720 MITSUI, HIKARI, YAMAGUCHI 743-8502 - PAÍS: JAPÃO - CÓDIGO ÚNICO: A.000607
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 1089179/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+Data de Vencimento: 25/03/2028

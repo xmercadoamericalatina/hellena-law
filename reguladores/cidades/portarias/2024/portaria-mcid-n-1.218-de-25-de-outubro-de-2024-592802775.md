@@ -1,0 +1,34 @@
+---
+titulo: "PORTARIA MCID Nº 1.218, DE 25 DE OUTUBRO DE 2024"
+orgao: "Ministério das Cidades/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "1218"
+data: 2024-10-25
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/10/2024, seção 1, p. 15"
+data_publicacao: 2024-10-30
+edicao: "210"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-mcid-n-1.218-de-25-de-outubro-de-2024-592802775"
+sha256_html_fonte: 51bbb9884c45cb9647243dc83b47e2d6a76af92895463758b9ff5eb37937d03b
+baixado_em: 2026-10-16
+---
+# PORTARIA MCID Nº 1.218, DE 25 DE OUTUBRO DE 2024
+
+PORTARIA MCID Nº 1.218, DE 25 DE OUTUBRO DE 2024
+
+Autoriza a contratação de propostas selecionadas no âmbito do Programa Minha Casa, Minha Vida Entidades - MCMV-Entidades, objeto do processo seletivo instituído pela Portaria MCID nº 862, de 4 de julho de 2023.
+
+O MINISTRO DE ESTADO DAS CIDADES, no uso das atribuições que lhe confere o art. 87, parágrafo único, incisos I e II, da Constituição Federal, e tendo em vista o disposto no art. 20 da Lei nº 14.600, de 19 de junho de 2023, no art. 1º do Anexo I do Decreto nº 11.468, de 5 de abril de 2023, nos arts. 11, inciso I, e 20 da Lei nº 14.620, de 13 de julho de 2023, na Resolução CCFDS nº 214, de 15 de dezembro de 2016, na Instrução Normativa MCID nº 28, de 4 de julho de 2023, e na Portaria MCID nº 862, de 4 de julho de 2023, resolve:
+
+**Art. 1º** Fica autorizada a contratação das propostas relacionadas no Anexo desta Portaria, em conformidade com a Portaria MCID nº 355, de 9 de abril de 2024, que divulgou as propostas selecionadas para contratação no âmbito do Programa Minha Casa, Minha Vida Entidades - MCMV-Entidades, objeto do processo seletivo instituído pela Portaria MCID nº 862, de 4 de julho de 2023.
+
+**Parágrafo único.** O Agente Operador e o Agente Financeiro deverão observar o prazo para a contratação das propostas previsto no art. 2º da Portaria MCID nº 355, de 9 de abril de 2024, e suas eventuais prorrogações, e cumprir todas as condições técnicas, institucionais e jurídicas necessárias para a formalização das contratações.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+JADER FONTENELLE BARBALHO FILHO
+
+## ANEXO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>UF</p></td>      <td rowspan="1" colspan="1"><p>MUNICÍPIO</p></td>      <td rowspan="1" colspan="1"><p>Nº DE IDENTIFICAÇÃO DA PROPOSTA</p></td>      <td rowspan="1" colspan="1"><p>APF</p></td>      <td rowspan="1" colspan="1"><p>NOME DA ENTIDADE ORGANIZADORA - EO</p></td>      <td rowspan="1" colspan="1"><p>CNPJ DA EO</p></td>      <td rowspan="1" colspan="1"><p>UH</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>MG</p></td>      <td rowspan="1" colspan="1"><p>Belo Horizonte</p></td>      <td rowspan="1" colspan="1"><p>120c2178-5018-448d-a496-bfadbd006411</p></td>      <td rowspan="1" colspan="1"><p>63526229</p></td>      <td rowspan="1" colspan="1"><p>União Metropolitana por Moradia Popular de Belo Horizonte - UMMPBH</p></td>      <td rowspan="1" colspan="1"><p>02239425000183</p></td>      <td rowspan="1" colspan="1"><p>88</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PB</p></td>      <td rowspan="1" colspan="1"><p>Bayeux</p></td>      <td rowspan="1" colspan="1"><p>3eac96a7-6a1c-4145-904f-e182217c577b</p></td>      <td rowspan="1" colspan="1"><p>63530867</p></td>      <td rowspan="1" colspan="1"><p>Federação Paraibana do Movimento Comunitário - FEPAMOC</p></td>      <td rowspan="1" colspan="1"><p>10664255000102</p></td>      <td rowspan="1" colspan="1"><p>100</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PB</p></td>      <td rowspan="1" colspan="1"><p>Riachão</p></td>      <td rowspan="1" colspan="1"><p>c5dfff6a-2b27-4a8e-86cf-d7da1b3be8eb</p></td>      <td rowspan="1" colspan="1"><p>63532356</p></td>      <td rowspan="1" colspan="1"><p>Federação Paraibana do Movimento Comunitário - FEPAMOC</p></td>      <td rowspan="1" colspan="1"><p>10664255000102</p></td>      <td rowspan="1" colspan="1"><p>50</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PE</p></td>      <td rowspan="1" colspan="1"><p>Ipojuca</p></td>      <td rowspan="1" colspan="1"><p>198cce40-0354-4a20-9d1b-e87b32012a0e</p></td>      <td rowspan="1" colspan="1"><p>63535874</p></td>      <td rowspan="1" colspan="1"><p>Associação de Apoio aos Sem Teto da Região Nordeste</p></td>      <td rowspan="1" colspan="1"><p>05859096000161</p></td>      <td rowspan="1" colspan="1"><p>288</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>RN</p></td>      <td rowspan="1" colspan="1"><p>Natal</p></td>      <td rowspan="1" colspan="1"><p>a79083d4-c6c1-4f80-8b23-ab3e89b6c084</p></td>      <td rowspan="1" colspan="1"><p>63540215</p></td>      <td rowspan="1" colspan="1"><p>Associação de Apoio as Cidades, Comunidades e Assentamentos - ARCA</p></td>      <td rowspan="1" colspan="1"><p>08767060000146</p></td>      <td rowspan="1" colspan="1"><p>80</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>RN</p></td>      <td rowspan="1" colspan="1"><p>Natal</p></td>      <td rowspan="1" colspan="1"><p>40f1eaa2-eb8d-425a-b3ba-1159c0545194</p></td>      <td rowspan="1" colspan="1"><p>63540101</p></td>      <td rowspan="1" colspan="1"><p>Associação de Apoio as Cidades, Comunidades e Assentamentos - ARCA</p></td>      <td rowspan="1" colspan="1"><p>08767060000146</p></td>      <td rowspan="1" colspan="1"><p>192</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>RS</p></td>      <td rowspan="1" colspan="1"><p>São Leopoldo</p></td>      <td rowspan="1" colspan="1"><p>f530727d-f7e5-4245-8447-410627e35a10</p></td>      <td rowspan="1" colspan="1"><p>63543385</p></td>      <td rowspan="1" colspan="1"><p>Cooperativa de Trabalho Habitação e Consumo Construindo Cidadania</p></td>      <td rowspan="1" colspan="1"><p>10772307000164</p></td>      <td rowspan="1" colspan="1"><p>250</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>RS</p></td>      <td rowspan="1" colspan="1"><p>São Leopoldo</p></td>      <td rowspan="1" colspan="1"><p>7f39b5d8-71ac-4fff-afb9-dd86695f8f50</p></td>      <td rowspan="1" colspan="1"><p>63794623</p></td>      <td rowspan="1" colspan="1"><p>Cooperativa de Trabalho Habitação e Projetos</p></td>      <td rowspan="1" colspan="1"><p>20246098000179</p></td>      <td rowspan="1" colspan="1"><p>96</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>RS</p></td>      <td rowspan="1" colspan="1"><p>Porto Alegre</p></td>      <td rowspan="1" colspan="1"><p>2d073046-d23f-4a71-adf0-735e796c1042</p></td>      <td rowspan="1" colspan="1"><p>63542474</p></td>      <td rowspan="1" colspan="1"><p>Movimento de Luta nos Bairros, Vilas e Favelas</p></td>      <td rowspan="1" colspan="1"><p>07058129000108</p></td>      <td rowspan="1" colspan="1"><p>35</p></td>     </tr>    </tbody>   </table>

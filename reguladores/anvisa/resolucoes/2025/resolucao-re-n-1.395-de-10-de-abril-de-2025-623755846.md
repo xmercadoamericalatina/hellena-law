@@ -1,0 +1,133 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.395, DE 10 DE ABRIL DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Toxicologia"
+tipo: "Resolução"
+numero: "1395"
+data: 2025-04-10
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 14/04/2025, seção 1, p. 305"
+data_publicacao: 2025-04-14
+edicao: "71"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.395-de-10-de-abril-de-2025-623755846"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 1.395, DE 10 DE ABRIL DE 2025
+
+RESOLUÇÃO-RE Nº 1.395, DE 10 DE ABRIL DE 2025
+
+O GERENTE-GERAL DE COSMÉTICOS E SANEANTES DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art.1º** Cancelar os processos dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONÇALVES ARAÚJO RIOS
+
+## ANEXO
+
+NOME DA EMPRESA/ CNPJ
+
+NOME DO PRODUTO E MARCA
+
+NÚMERO DE PROCESSO
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+BELA E CHIC INDUSTRIA E COMERCIO DE COSMETICOS ESPECIAIS LTDA / 05.268.903/0001-71
+
+CLUSTER STYLE POMADA MODELADORA NANNO MATTE
+
+25351.072587/2018-37
+
+---------------------------------------
+
+BIO EXTRATUS COSMETIC NATURAL LTDA / 02.176.615/0001-07
+
+HOMEM CABELO E BARBA POMADA CAPILAR BIO EXTRATUS
+
+25351.449623/2017-30
+
+---------------------------------------
+
+COSMONEW INDUSTRIA E COMERCIO DE COSMETICOS LTDA / 23.677.191/0001-26
+
+COLLAGEN PROTEIN - ONLY STEP - BEYOND
+
+25351.476000/2019-46
+
+LAZULI VIOLET AMAZON - OXILLIS
+
+25351.043377/2020-56
+
+COCONUT PROTEIN - TROPICAL FRUIT - OXILLIS
+
+25351.623538/2019-56
+
+EMERALD PROTEIN THERAPY - OXILLIS
+
+25351.741876/2019-79
+
+MÁSCARA BOTOX PLATINUM KADWELL
+
+25351.043075/2017-14
+
+SELECT ONE MÁSCARA REDUTORA MARCA VIVA PROFISSIONAL
+
+25351.354513/2024-64
+
+PROTEIN INDIEN AMLA PLEX MARCA BRAZILIS PROFISSIONAL
+
+25351.037505/2025-37
+
+MODELAGE STRONG EFFECT - ELYSSA COSMETIQUES
+
+25351.714913/2018-95
+
+DISCIPLINANT CAPILLAIRE STEP 2 COCOA BRASILIS - ELYSSA COSMETIQUES
+
+25351.054026/2018-56
+
+---------------------------------------
+
+DI FIORENA INDÚSTRIA COSMÉTICA LTDA EPP / 06.218.670/0001-65
+
+POMADA DE FIXAÇÃO EFEITO SECO FIT FINISH
+
+25351.211922/2014-42
+
+POMADA FIXADORA MAX CARE FINISH VOGA COSMÉTICOS
+
+25351.631579/2015-51
+
+---------------------------------------
+
+EXTEC MEDICAL LTDA / 33.094.900/0001-02
+
+TOALHA DESCARTÁVEL - EXMEDI
+
+25351.341803/2023-67
+
+---------------------------------------
+
+FRIELO DO BRASIL INDUSTRIA E COMERCIO DE COSMETICOS LTDA - ME / C13.647.062/0001-31
+
+Máscara BBTOX Quiabo Mágico Rofer Profissional
+
+25351.004486/2022-10
+
+---------------------------------------
+
+ISP OIL TECNOLOGIA EM ÓLEOS VEGETAIS E RESINAS LTDA - ME. / 07.543.683/0001-72
+
+PASTA MODELADORA CARAMELO FRANKS
+
+25351.313618/2024-63
+
+---------------------------------------
+
+W.COSMETICOS PROFISSIONAIS LTDA - ME / 28.029.473/0001-30
+
+GEL COLA TWO BROTHERS /W COSMÉTICOS
+
+25351.736038/2017-17

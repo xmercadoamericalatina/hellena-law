@@ -1,0 +1,525 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 488, DE 6 DE FEVEREIRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "488"
+data: 2026-02-06
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 09/02/2026, seção 1, p. 92"
+data_publicacao: 2026-02-09
+edicao: "27"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-488-de-6-de-fevereiro-de-2026-685989860"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 488, DE 6 DE FEVEREIRO DE 2026
+
+RESOLUÇÃO-RE Nº 488, DE 6 DE FEVEREIRO DE 2026
+
+O GERENTE-GERAL DE COSMÉTICOS E SANEANTES DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir os registros e as petições dos produtos saneantes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONÇALVES ARAÚJO RIOS
+
+## ANEXO
+
+PONTO DA QUIMICA INDUSTRIA E COMERCIO LTDA / 22.453.634/0001-32
+
+DETERGENTE PROFISSIONAL DESINCRUSTANTE ÁCIDO NATAL
+
+25351.012162/2025-06 / 368050005
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0111682258
+
+--------------------------------------
+
+AQUAFAST PRODUTOS DE LIMPEZA E HIGIENE LTDA / 04.253.427/0001-52
+
+DESINFETANTE AQUAFAST
+
+25351.629000/2007-11 / 327590017
+
+331 - REG. SANEANTES - Nova versão de Produto / 1243198257
+
+--------------------------------------
+
+RILL QUÍMICA LTDA ME / 67.421.040/0001-88
+
+Rillo Enzyme Detergente Enzimático
+
+25351.174465/2025-11 / 329440015
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 1281980251
+
+--------------------------------------
+
+MEGA FIM SANEANTES LTDA ME / 12.615.562/0001-29
+
+BARA FORMI INSETICIDA
+
+25351.183833/2025-12 / 349780007
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 1344686257
+
+--------------------------------------
+
+L.M. INDÚSTRIA, COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA / 22.399.174/0001-01
+
+SODA CAUSTICA POLITRIZ
+
+25351.121885/2015-13 / 315400019
+
+334 - REG. SANEANTES - Revalidação de Registro / 1492899259
+
+--------------------------------------
+
+RODOL LTDA / 02.524.305/0001-28
+
+SUPER MAC 200 IT
+
+25351.179544/2011-14 / 326740048
+
+334 - REG. SANEANTES - Revalidação de Registro / 1501160257
+
+--------------------------------------
+
+INFINITY CHEMICAL INDUSTRIA E COMERCIO DE PRODUTOS QUIMICOS LTDA / 33.865.554/0001-00
+
+DETERSANI
+
+25351.074329/2025-14 / 393810038
+
+331 - REG. SANEANTES - Nova versão de Produto / 1331059259
+
+--------------------------------------
+
+SAUBER QUIMICA - INDUSTRIA E COMERCIO DE PRODUTOS DE LIMPEZA LTDA / 12.157.539/0001-38
+
+DESINFETANTE VOLK
+
+25351.837960/2018-14 / 347610006
+
+330 - REG. SANEANTES - Modificação de Fórmula de Produto / 1158886250
+
+--------------------------------------
+
+RODOL LTDA / 02.524.305/0001-28
+
+SUPER MAC 200 IT
+
+25351.179544/2011-14 / 326740048
+
+330 - REG. SANEANTES - Modificação de Fórmula de Produto / 1500946257
+
+--------------------------------------
+
+ATL HIGIENE PROFISSIONAL LTDA - EPP / 96.606.215/0001-20
+
+ATLAOXI MASTER - DESINCRUSTANTE ÁCIDO
+
+25351.552591/2010-14 / 319080061
+
+334 - REG. SANEANTES - Revalidação de Registro / 0807870251
+
+--------------------------------------
+
+BIOTEC AGROQUIMICOS LTDA / 37.097.655/0001-30
+
+LACTO PLUS 500 PEROXIDE
+
+25351.205466/2025-15 / 343280001
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 1469613255
+
+--------------------------------------
+
+RODOL LTDA / 02.524.305/0001-28
+
+DETERGENTE PROFISSIONAL DESINCRUSTANTE ÁCIDO RODOL ATVC
+
+25351.039365/2011-15 / 326740045
+
+332 - REG. SANEANTES - Nova Embalagem de Produto / 1300355255
+
+--------------------------------------
+
+KIFORTE QUIMICA INDUSTRIA E COMERCIO LTDA / 17.713.316/0001-23
+
+K 611
+
+25351.360950/2024-17 / 371060006
+
+332 - REG. SANEANTES - Nova Embalagem de Produto / 1271112256
+
+--------------------------------------
+
+LIMPRIL MANUFATURA E COMÉRCIO DE PRODUTOS DE LIMPEZA LTDA - ME / 80.552.466/0001-39
+
+REMOCROST
+
+25351.095525/2020-18 / 314200010
+
+330 - REG. SANEANTES - Modificação de Fórmula de Produto / 1483460258
+
+--------------------------------------
+
+ISO INDÚSTRIA DE SABÕES E ÓLEOS LTDA / 00.175.936/0001-53
+
+PRATT HIPOCLORITO 1%
+
+25351.140456/2025-19 / 337010027
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 1031827251
+
+--------------------------------------
+
+Spartan do Brasil Produtos Químicos Ltda. / 46.256.772/0002-70
+
+SANOCLIN
+
+25351.057430/2024-20 / 300180213
+
+392 - REG. SANEANTES - Novo Prazo de Validade de Produto / 1477087257
+
+--------------------------------------
+
+INSERT QUIMICA INDUSTRIAL LTDA / 01.483.645/0001-95
+
+FLEXIN 110
+
+25351.330206/2015-24 / 321860039
+
+334 - REG. SANEANTES - Revalidação de Registro / 0823643255
+
+--------------------------------------
+
+COLAU QUIMICA DO BRASIL LTDA / 89.832.034/0001-56
+
+DETERCOL AC - DETERGENTE ALCALINO CLORADO
+
+25351.575707/2015-28 / 308000065
+
+334 - REG. SANEANTES - Revalidação de Registro / 0309857252
+
+--------------------------------------
+
+ENVIRONMENTAL SCIENCE DO BRASIL LTDA. / 45.698.161/0001-39
+
+RODILON BLOCO EXTRUSADO
+
+25351.238018/2023-28 / 317890014
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 1386654256
+
+--------------------------------------
+
+CALLAMARYS INDUSTRIA E COMERCIO DE COSMETICOS E SANEANTES LTDA / 01.932.232/0001-40
+
+ÁLCOOL TUPI 70° INPM
+
+25351.541605/2014-28 / 358810001
+
+332 - REG. SANEANTES - Nova Embalagem de Produto / 1381427251
+
+--------------------------------------
+
+DEION INDÚSTRIA E COMÉRCIO DE DETERGENTES LTDA / 76.670.124/0001-46
+
+DEION CLARIFICANTE E FLOCULANTE
+
+25351.371313/2015-31 / 323040021
+
+334 - REG. SANEANTES - Revalidação de Registro / 0256300259
+
+--------------------------------------
+
+RODOL LTDA / 02.524.305/0001-28
+
+DETERGENTE PROFISSIONAL DESINCRUSTANTE ÁCIDO RISOL 13
+
+25351.039375/2011-37 / 326740042
+
+332 - REG. SANEANTES - Nova Embalagem de Produto / 1300001259
+
+--------------------------------------
+
+SYNGENTA PROTEÇÃO DE CULTIVOS LTDA / 60.744.463/0001-90
+
+OPTIGARD FORMIGA GEL
+
+25351.235262/2009-44 / 301196645
+
+390 - REG. SANEANTES - Mudança de Nome de Produto / 1470949253
+
+--------------------------------------
+
+LIVE MAX INDUSTRIA E COMERCIO LTDA / 42.869.308/0001-18
+
+LIVE TEX ALK ADD 5258
+
+25351.121387/2025-44 / 312770015
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0928150259
+
+--------------------------------------
+
+INDUSTRIA QUIMICA CRUZEIRO DO SUL LTDA / 11.666.612/0001-34
+
+LIMPA PEDRAS ESPUMA SUL
+
+25351.181109/2025-46 / 359710015
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 1331309255
+
+--------------------------------------
+
+GOEDERT LTDA / 79.846.465/0001-18
+
+UPPRO EXPERT LIMPA PEDRAS E PÓS-OBRA CONCENTRADO
+
+25351.546971/2023-47 / 341540001
+
+392 - REG. SANEANTES - Novo Prazo de Validade de Produto / 1470855259
+
+--------------------------------------
+
+MANTOVANI INDUSTRIA QUIMICA LTDA / 68.247.584/0001-38
+
+SODA CÁUSTICA RUCK
+
+25351.029773/2016-48 / 322400011
+
+334 - REG. SANEANTES - Revalidação de Registro / 0055700268
+
+--------------------------------------
+
+RISCEK INDUSTRIA E COMERCIO LTDA / 04.331.432/0001-36
+
+RICEK ALV - DESINFETANTE E ALVEJANTE CLORADO
+
+25351.388327/2015-50 / 325520013
+
+334 - REG. SANEANTES - Revalidação de Registro / 0704197251
+
+--------------------------------------
+
+DOMISUL AGROQUIMICA LTDA / 02.375.759/0001-84
+
+FORMICIDA PÓ 40 IDEAL
+
+25351.837234/2023-51 / 379340017
+
+390 - REG. SANEANTES - Mudança de Nome de Produto / 1487694253
+
+--------------------------------------
+
+VINIX INDÚSTRIA E COMÉRCIO LTDA / 09.044.896/0001-85
+
+G-LAV APC 17
+
+25351.168467/2016-54 / 337750061
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 1123813256
+
+--------------------------------------
+
+BENZOQUÍMICA INDÚSTRIA E COM. DE PRODUTOS QUÍMICOS LTDA / 40.845.570/0001-05
+
+BENZO AC FIGHT
+
+25351.407605/2024-54 / 324040011
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 1261099249
+
+--------------------------------------
+
+ATL HIGIENE PROFISSIONAL LTDA - EPP / 96.606.215/0001-20
+
+ATLABIO CL MASTER
+
+25351.552605/2010-62 / 319080062
+
+334 - REG. SANEANTES - Revalidação de Registro / 0812894251
+
+--------------------------------------
+
+COLGATE PALMOLIVE INDUSTRIAL LTDA / 03.816.532/0001-90
+
+PINHO SOL PERFUMADO FLOR DE MANDACARU
+
+25351.522162/2022-69 / 341460418
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 1447013255
+
+--------------------------------------
+
+DEXTER LATINA INDÚSTRIA E COMÉRCIO DE PRODUTOS QUÍMICOS LTDA / 01.401.828/0001-14
+
+BAYGON DEFENSE GEL ISCA MATA BARATAS
+
+25351.192074/2025-71 / 323400053
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 1400924251
+
+--------------------------------------
+
+DIVERSEY BRASIL INDUSTRIA QUIMICA LTDA / 03.049.181/0001-39
+
+ORCA
+
+25351.079220/2025-73 / 326610315
+
+332 - REG. SANEANTES - Nova Embalagem de Produto / 1276158254
+
+--------------------------------------
+
+ENVIRONMENTAL SCIENCE DO BRASIL LTDA. / 45.698.161/0001-39
+
+RODILON SOFT BAIT
+
+25351.238107/2023-74 / 317890015
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 1386673251
+
+--------------------------------------
+
+LGR INDÚSTRIA E COMÉRCIO DE PRODUTOS DE LIMPEZA LTDA / 08.706.183/0001-77
+
+SANICLOR
+
+25351.042075/2025-75 / 341750054
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 1485122252
+
+--------------------------------------
+
+COLGATE PALMOLIVE INDUSTRIAL LTDA / 03.816.532/0001-90
+
+PINHO SOL NATURAL ESSENTIALS
+
+25351.575104/2020-76 / 341460407
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 1446666255
+
+--------------------------------------
+
+MAXBRIO INDÚSTRIA E COMÉRCIO DE PRODUTOS DE LIMPEZA LTDA-ME / 10.470.936/0001-30
+
+DESINFETANTE CONCENTRADO MAXBRIO
+
+25351.671444/2015-78 / 348080014
+
+334 - REG. SANEANTES - Revalidação de Registro / 0700820256
+
+--------------------------------------
+
+RHUANY INDÚSTRIA QUÍMICA LTDA - ME / 05.452.947/0001-57
+
+HIPOCLORITO DE SÓDIO 10 RHUANY
+
+25351.736059/2013-80 / 338520007
+
+332 - REG. SANEANTES - Nova Embalagem de Produto / 1296276252
+
+--------------------------------------
+
+Refribrasil Indústria e Comércio LTDA / 03.809.314/0001-28
+
+ALCA R2000
+
+25351.426058/2020-82 / 376610002
+
+332 - REG. SANEANTES - Nova Embalagem de Produto / 1372819258
+
+--------------------------------------
+
+ATL HIGIENE PROFISSIONAL LTDA - EPP / 96.606.215/0001-20
+
+GR 500 MASTER - DESINCRUSTANTE ALCALINO
+
+25351.552547/2010-83 / 319080060
+
+334 - REG. SANEANTES - Revalidação de Registro / 0813263255
+
+--------------------------------------
+
+MARKA PRODUTOS QUÍMICOS LTDA / 05.306.032/0001-33
+
+DETERGENTE DESENGRAXANTE ALCALINO ZOMAX
+
+25351.112039/2025-86 / 341330006
+
+30020 - REG. SANEANTES - Registro de produtos saneantes / 0876399251
+
+--------------------------------------
+
+TNT NITROS QUÍMICA LTDA / 05.019.811/0001-58
+
+WATER CLEAN TNT NITROS QUIMICA
+
+25351.093194/2016-90 / 335160009
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 0601194250
+
+--------------------------------------
+
+COLGATE PALMOLIVE INDUSTRIAL LTDA / 03.816.532/0001-90
+
+ORIGINAL PINHO SOL
+
+25351.407303/2017-91 / 341460405
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 1144613256
+
+--------------------------------------
+
+DIVERSEY BRASIL INDUSTRIA QUIMICA LTDA / 03.049.181/0001-39
+
+HERCULES
+
+25351.072207/2025-93 / 326610314
+
+332 - REG. SANEANTES - Nova Embalagem de Produto / 1271443252
+
+--------------------------------------
+
+RODOL LTDA / 02.524.305/0001-28
+
+DETERGENTE PROFISSIONAL DESINCRUSTANTE ÁCIDO SUPER ACTIV
+
+25351.039392/2011-93 / 326740044
+
+332 - REG. SANEANTES - Nova Embalagem de Produto / 1325397253
+
+--------------------------------------
+
+Spartan do Brasil Produtos Químicos Ltda. / 46.256.772/0002-70
+
+MLD FLORAL
+
+25000.010104/99-85 / 300180108
+
+330 - REG. SANEANTES - Modificação de Fórmula de Produto / 1458569250
+
+--------------------------------------
+
+BAUMINAS HIDROAZUL INDÚSTRIA E COMÉRCIO LTDA / 25.686.353/0001-18
+
+ALGICIDA CHOQUE HIDROAZUL
+
+25351.005514/01-48 / 321080009
+
+330 - REG. SANEANTES - Modificação de Fórmula de Produto / 1477338250
+
+--------------------------------------
+
+NEOGEN DO BRASIL INDUSTRIA E COMERCIO LTDA / 90.821.554/0001-42
+
+GRAMPER ISCA GRANULADA
+
+25351.020816/00-00 / 304250047
+
+389 - REG. SANEANTES - Alteração de Rotulagem de Produto / 1445016257

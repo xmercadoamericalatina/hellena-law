@@ -1,0 +1,43 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.525, DE 4 DE SETEMBRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3525"
+data: 2026-09-04
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 08/09/2026, seção 1, p. 154"
+data_publicacao: 2026-09-08
+edicao: "169"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.525-de-4-de-setembro-de-2026-730271190"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 3.525, DE 4 DE SETEMBRO DE 2026
+
+RESOLUÇÃO-RE nº 3.525, DE 4 DE SETEMBRO DE 2026
+
+A GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e o art. 6º, da Lei nº 9.782, de 26 de janeiro de 1999, resolve:
+
+**Art. 1º** Adotar a medida preventiva constante no ANEXO.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RENATA DE LIMA SOARES
+
+## ANEXO
+
+1\. Empresa: MABILA INDÚSTRIA E COSMÉTICOS LTDA - CNPJ: 08779262000108
+
+Produto - (Lote): PROCESSO 25351.852785/2023-44 - SHAMPOO RESCUE RECONSTRUTOR DOS FIOS LIMPEZA SUAVE OH MY HAIR MAVILA(TODOS);PROCESSO 25351.856301/2023-36 - SHAMPOO MAX HIDRA ALTO IMPACTO HIALURÔNICO OH MY HAIR MAVILA PROFESS(TODOS);PROCESSO 25351.853004/2023-39 - SHAMPOO MAX NUTRI REP. MASSA SOS ANTI QUEDA OH MY HAIR MAVILA PROFES(TODOS);PROCESSO 25351.856335/2023-21 - MÁSCARA LÍQUIDA CAPILAR - OH MY HAIR MAVILA PROFESSIONAL(TODOS);PROCESSO 25351.912756/2024-20 - SHAMPOO HIDRATAÇÃO INTENSA - OH MY HAIR MAVILA PROFESSIONAL(TODOS);PROCESSO 25351.912756/2024-20 - SHAMPOO ALTO IMPACTO LIMPEZA SAUVE - OH MY HAIR MAVILA PROFESSIONAL(TODOS);PROCESSO 25351.856334/2023-86 - MÁSCARA LÍQUIDA CAPILAR - OH MY HAIR MAVILA PROFESSIONAL(TODOS);PROCESSO 25351.855775/2023-61 - SHAMPOO DETOX HAIR LIMPEZA SUAVE - OH MY HAIR MAVILA PROFESSIONAL(TODOS);PROCESSO 25351.853003/2023-94 - MÁSCARA LÍQUIDA CAPILAR HIDRATAÇÃO INTENSA BABOSA OH MY HAIR MAVILA(TODOS);PROCESSO 25351.853004/2023-39 - SHAMPOO LIMPEZA SUAVE ENRIQUECIDO ÓLEOS VEGETAIS OH MY HAIR MAVILA P(TODOS);PROCESSO 25351.912654/2024-12 - MÁSCARA LÍQUIDA CAPILAR BAMBOO TERAPY BIO RECONST OH MY HAIR MAVILA(TODOS);PROCESSO 25351.852785/2023-44 - SHAMPOO FORTALECEDOR - HYPER MANDIOCA - OH MY HAIR MAVILA PROFESSION(TODOS);PROCESSO 25351.916763/2024-09 - MÁSCARA LÍQUIDA CABELOS MISSÃO IMPOSSÍVEL 007 OH MY HAIR MAVILA PROF(TODOS);PROCESSO 25351.916763/2024-09 - MÁSCARA CAPILAR X-COLOR BLOND COLOR INTENSE OH MY HAIR MAVILA PROFES(TODOS);PROCESSO 25351.856305/2023-14 - MÁSCARA CAPILAR MEUS CACHOS PERFEITOS - OH MY HAIR MAVILA PROFESSION(TODOS);PROCESSO 25351.856305/2023-14 - MÁSCARA LÍQUIDA CAPILAR - OH MY HAIR MAVILA PROFESSIONAL(TODOS);PROCESSO 25351.856301/2023-36 - SHAMPOO CURLY - OH MY HAIR MAVILA PROFESSIONAL(TODOS);MÁSCARA LÍQUIDA CAPILAR - OH MY HAIR MAVILA PROFESSIONAL(TODOS);
+
+Tipo de Produto: Cosmético
+
+Expediente nº: 0910815/26-7
+
+Assunto: 70351 - Ações de Fiscalização em Vigilância Sanitária
+
+Ações de fiscalização: Apreensão
+
+Proibição - Comercialização, Distribuição, Fabricação, Propaganda, Uso
+
+Motivação: Considerando que a empresa Safira Indústria e Comércio de Cosméticos LTDA, CNPJ n° 11.587.245/0001-83, desconhece a fabricação dos produtos citados, fabricados irregularmente pela empresa Mabila Indústria e Cosméticos LTDA, CNPJ n° 08.779.262/0001-08, sem autorização de funcionamento, utilizando na rotulagem dos produtos seus dados cadastrais na ANVISA, e tendo em vista o previsto no art. 2°, art. 5°, art. 6°, incisos I e II do art. 63 e inciso I do art. 67 da Lei 6.360, de 23 de setembro de 1976, inciso XV do art. 7º da Lei 9.782, de 26 de janeiro de 1999 e art. 45 da Lei 9.784, de 29 de janeiro de 1999.

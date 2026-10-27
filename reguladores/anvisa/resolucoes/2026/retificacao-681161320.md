@@ -1,0 +1,53 @@
+---
+titulo: "RETIFICAÇÃO"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: ""
+data: 2026-01-15
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 15/01/2026, seção 1, p. 197"
+data_publicacao: 2026-01-15
+edicao: "10"
+fonte: "https://www.in.gov.br/web/dou/-/retificacao-681161320"
+baixado_em: 2026-10-15
+---
+# RETIFICAÇÃO
+
+RETIFICAÇÃO
+
+Na Resolução - RE n° 3.104, de 26 de agosto de 2024, publicada no Diário Oficial da União n° 165, de 27 de agosto de 2024, Seção 1, pág. 101.
+
+Onde se lê:
+
+EXATUS GENE SERVIÇOS DE COLETA DE EXAMES GENETICOS LTDA / 37.208.935/0001-78
+
+25351.387771/2024-27 / 8297392
+
+ARMAZENAR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISTRIBUIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+EXPEDIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+IMPORTAR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTAR / 1089402244
+
+Leia-se:
+
+EXATUS GENE LABORATÓRIO E SERVIÇOS DE COLETA DE EXAMES GENETICOS LTDA /
+
+37.208.935/0001-78
+
+25351.387771/2024-27 / 8297392
+
+ARMAZENAR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+DISTRIBUIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+EXPEDIR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+IMPORTAR: PRODUTOS PARA SAÚDE (DISPOSITIVOS MÉDICOS)
+
+859 - AFE - CONCESSÃO - PRODUTOS PARA SAÚDE - IMPORTAR / 1089402244

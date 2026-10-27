@@ -1,0 +1,224 @@
+---
+titulo: "RESOLUÇÃO-RE nº 4.546, DE 5 DE DEZEMBRO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "4546"
+data: 2024-12-05
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/12/2024, seção 1, p. 221"
+data_publicacao: 2024-12-09
+edicao: "236"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.546-de-5-de-dezembro-de-2024-600283635"
+sha256_html_fonte: 2c3fa3a8a96e5666dc44ba2ac648259d42b34ea670ef1481bccc6184854ab081
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE nº 4.546, DE 5 DE DEZEMBRO DE 2024
+
+RESOLUÇÃO-RE nº 4.546, DE 5 DE DEZEMBRO DE 2024
+
+O GERENTE-GERAL DE COSMÉTICOS E SANEANTES DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Indeferir os registros e as petições dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RODRIGO JOSÉ VIANA OTTONI
+
+## ANEXO
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO E MARCA
+
+NÚMERO DO PROCESSO / REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+&CO. INDUSTRIA E COMERCIO DE COSMETICOS LTDA - EPP / 17.153.030/0001-30
+
+DAILY SUNSCREEN STICK MEDIUM - OCEANE
+
+25351.384721/2024-98 /
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1063425/24-7
+
+A&A GOLD PHARMA INDUSTRIA LTDA / 07.415.503/0001-77
+
+SPRAY REPELENTE DE INSETOS ATÉ 4H DE PROTEÇÃO ACTION
+
+25351.854538/2023-82 /
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1436802/23-7
+
+AMAZONIA BRASIL COSMETICOS LTDA / 08.826.553/0001-00
+
+GEL HIGIENIZADOR DE MÃOS BELEZA DA AMAZÔNIA
+
+25351.106663/2020-30 / 262350001
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 2316820/21-2
+
+136.510/0001-30
+
+LOÇÃO ATIVADORA DE GUANIDINA - ALOE CACHOS
+
+25351.303713/2016-08 / 240360018
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0371423/23-6
+
+CONDICIONADOR KIDS BOY - ALOE BABY
+
+25351.581433/2018-31 / 240360021
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0371069/23-8
+
+GEL MODELADOR KIDS BOY - ALOE BABY
+
+25351.581538/2018-91 / 240360020
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0371161/23-1
+
+AVLFM INDUSTRIA DE COSMETICOS LTDA / 39.299.870/0001-49
+
+ADCOS PROTETOR SOLAR FLUID HYALU COVER FPS 60 IVORY
+
+25351.404069/2024-35 /
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1229830/24-3
+
+ADCOS PROTETOR SOLAR FLUID HYALU COVER FPS 60 BRONZE
+
+25351.404112/2024-62 /
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1230265/24-4
+
+ADCOS PROTETOR SOLAR FLUID HYALU COVER FPS 60 NUDE
+
+25351.404118/2024-30 /
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1230329/24-2
+
+ADCOS PROTETOR SOLAR FLUID HYALU COVER FPS 60 BEIGE
+
+25351.404119/2024-84 /
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1230330/24-1
+
+CAMARGO E NEIVA LTDA / 15.241.265/0001-59
+
+REPELENTE ACTION 10H DE PROTEÇÃO COM ICARIDINA
+
+25351.114497/2024-79 /
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0338488/24-3
+
+REPELENTE ACTION KIDS 10H DE PROTEÇÃO COM ICARIDINA
+
+25351.122104/2024-09 /
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0351513/24-8
+
+COSMEWALE INDUSTRIA E COMERCIO DE COSMETICOS LTDA / 57.139.131/0001-71
+
+PASTA MODELADORA CRISTAL
+
+25351.445974/2024-45 /
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1607288/24-9
+
+Cosmolife Industria e Comercio de Cosmeticos ltda -me / 13.377.370/0001-94
+
+Nanoblock FPS 50 - Help Skin
+
+25351.076917/2022-40 /
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 0539372/22-6
+
+DIVINA DAMA INDUSTRIA E COMERCIO LTDA / 34.025.155/0001-02
+
+Henê Gel Modelo Alisador Ultra Negro Petro Forte
+
+25351.409928/2024-82 /
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1283819/24-4
+
+Hene Gel Indiano Divina Dama Preto Forte
+
+25351.409930/2024-51 /
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1283826/24-1
+
+Henê Gel Indiano Divina Dama Preto Médio
+
+25351.409936/2024-29 /
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1283934/24-8
+
+EKILIBRE AMAZONIA LTDA / 26.071.939/0001-30
+
+Repelente Natural 120 ml - Ekilibre Amazônia
+
+25351.418516/2024-33 /
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1365169/24-3
+
+LPL INDUSTRIA E COMERCIO DE SANEANTES LTDA / 14.622.908/0001-41
+
+GEL ANTISSÉPTICO INOVATTA PROFESSIONAL
+
+25351.470034/2022-22 /
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 4860931/22-0
+
+MARCELU´S IND. E COM. DE COSMÉTICOS LTDA. / 00.519.134/0001-13
+
+SHÍNE POMADE CABALLEROS
+
+25351.440954/2024-88 /
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1561688/24-0
+
+FIRM POMADE CABALLEROS
+
+25351.440996/2024-19 /
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1561984/24-8
+
+MARGY COSMETICOS LTDA - ME / 12.119.356/0001-28
+
+PROTETOR SOLAR PER SOLE FPS 30
+
+25351.812582/2023-15 /
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1357973/23-3
+
+NEW GREEN COSMETICOS INDUSTRIA E COMERCIO LTDA / 42.742.673/0001-67
+
+Nova Era - Álcool gel 70º INPM - HIGIENIZADOR DE MÃOS ANTISSÉPTICO
+
+25351.408302/2024-59 /
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1269796/24-1
+
+OVERSEAS IMPORTADORA E EXPORTADORA DE COSMETICOS LTDA / 73.692.923/0001-25
+
+YOGHURT SUNSCREEN FACE CREAM SPF 30 - KORRES
+
+25351.408333/2024-18 /
+
+2871 - REG. COSMÉTICOS - Registro de Produto - Importado / 1270031/24-4
+
+AEGEAN BRONZE TANNING + SKIN PERFECTING FACE & BODY SERUM - KORRES
+
+25351.408334/2024-54 /
+
+2871 - REG. COSMÉTICOS - Registro de Produto - Importado / 1270032/24-1
+
+R DA SILVA P TOLEDO WONDER COSMETICS / 27.462.715/0001-12
+
+REPELEFIL DUO FPS 60 SC
+
+25351.867490/2023-72 /
+
+287 - REG. COSMÉTICOS - Registro de Produto - Nacional / 1458771/23-7

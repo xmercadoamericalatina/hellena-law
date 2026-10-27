@@ -1,0 +1,200 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 4.365, DE 22 DE NOVEMBRO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "4365"
+data: 2024-11-22
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 25/11/2024, seção 1, p. 141"
+data_publicacao: 2024-11-25
+edicao: "226"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.365-de-22-de-novembro-de-2024-597409666"
+sha256_html_fonte: 0a7a527b773ede00fbf8f1db6021eb58bcd0a15a0eb923cd2634f9592ed24420
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 4.365, DE 22 DE NOVEMBRO DE 2024
+
+RESOLUÇÃO-RE Nº 4.365, DE 22 DE NOVEMBRO DE 2024
+
+A GERENTE-GERAL SUBSTITUTA DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021,
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação terá validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+FERNANDA MACIEL REBELO
+
+## ANEXO
+
+EMPRESA: White Martins Gases Industriais Ltda - CNPJ: 35.820.448/0043-95 - AUTORIZ/MS: 2200001
+
+ENDEREÇO: RUA BENEDITO GONÇALVES 2320 B
+
+MUNICÍPIO: DIVINÓPOLIS - UF: MG - EXPEDIENTE: 0245697/24-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos Criogênicos Medicinais: Líquidos Criogênicos
+
+.........................................
+
+EMPRESA FABRICANTE: NOVARTIS FARMA S.P.A.
+
+ENDEREÇO: VIA PROVINCIALE SCHITO 131, TORRE ANNUNZIATA - NÁPOLI - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000430
+
+EMPRESA SOLICITANTE: NOVARTIS BIOCIENCIAS S.A - CNPJ: 56.994.502/0001-30
+
+AUTORIZ/MS: 1000685 - EXPEDIENTE(s): 0622189/24-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: GE HEALTHCARE IRELAND LIMITED
+
+ENDEREÇO: IDA BUSSINESS PARK, CARRIGTOHILL, CO. - CORK - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.000242
+
+EMPRESA SOLICITANTE: GE HEALTHCARE DO BRASIL COMÉRCIO E SERVIÇOS PARA EQUIPAMENTOS MEDICO-HOSPITALARES LTDA - CNPJ: 00.029.372/0001-40
+
+AUTORIZ/MS: 1083968 - EXPEDIENTE(s): 0636509/24-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Grande Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: SANOFI PASTEUR LIMITED
+
+ENDEREÇO: 1755 STEELES AVE. WEST, TORONTO, ON M2R 3T4 - PAÍS: CANADÁ - CÓDIGO ÚNICO: A.000550
+
+EMPRESA SOLICITANTE: SANOFI MEDLEY FARMACÊUTICA LTDA. - CNPJ: 10.588.595/0010-92
+
+AUTORIZ/MS: 1083267 - EXPEDIENTE(s): 0267371/24-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: INNOTHERA CHOUZY
+
+ENDEREÇO: RENÉ CHANTEREAU, 41150, CHOUZY-SUR-CISSE - LOIER-ET-CHER - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000747
+
+EMPRESA SOLICITANTE: LABORATÓRIO GROSS S. A. - CNPJ: 33.145.194/0001-72
+
+AUTORIZ/MS: 1004443 - EXPEDIENTE(s): 0601223/24-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: ROEMMERS S.A.I.C.F.
+
+ENDEREÇO: ALVARO BARROS Nº 1113 - LUIS GUILLON - PARTIDO DE ESTEBAN ECHEVERRIA - PROVINCIA DE BUENOS AIRES - PAÍS: ARGENTINA - CÓDIGO ÚNICO: A.001201
+
+EMPRESA SOLICITANTE: FARMOQUÍMICA S/A - CNPJ: 33.349.473/0001-58
+
+AUTORIZ/MS: 1003906 - EXPEDIENTE(s): 0666603/24-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: ROEMMERS S.A.I.C.F.
+
+ENDEREÇO: ALVARO BARROS Nº 1113 - LUIS GUILLON - PARTIDO DE ESTEBAN ECHEVERRIA - PROVINCIA DE BUENOS AIRES - PAÍS: ARGENTINA - CÓDIGO ÚNICO: A.001201
+
+EMPRESA SOLICITANTE: FARMOQUÍMICA S/A - CNPJ: 33.349.473/0001-58
+
+AUTORIZ/MS: 1003906 - EXPEDIENTE(s): 0666984/24-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Suspensões; Xaropes
+
+.........................................
+
+EMPRESA FABRICANTE: OTSUKA PHARMACEUTICAL CO., LTD. TOKUSHIMA FACTORY
+
+ENDEREÇO: 463-10, KAGASUNO, KAWAUCHI-CHO, TOKUSHIMA-SHI., TOKUSHIMA, 771-0192 - PAÍS: JAPÃO - CÓDIGO ÚNICO: A.001153
+
+EMPRESA SOLICITANTE: LUNDBECK BRASIL LTDA - CNPJ: 04.522.600/0001-70
+
+AUTORIZ/MS: 1004750 - EXPEDIENTE(s): 0622502/24-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: MERZ PHARMA GMBH & CO. KGAA
+
+ENDEREÇO: LUDWIGSTRAßE 22, 64354 REINHEIM - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000419
+
+EMPRESA SOLICITANTE: LUNDBECK BRASIL LTDA - CNPJ: 04.522.600/0001-70
+
+AUTORIZ/MS: 1004750 - EXPEDIENTE(s): 0593279/24-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Comprimidos Revestidos
+
+........................................
+
+EMPRESA FABRICANTE: F. HOFFMANN - LA ROCHE LTD
+
+ENDEREÇO: 4303 KAISERAUGST - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.000216
+
+EMPRESA SOLICITANTE: PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A. - CNPJ: 33.009.945/0001-23
+
+AUTORIZ/MS: 1001004 - EXPEDIENTE(s): 0675818/24-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Produtos estéreis (Cefalosporínicos): Pós com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: ANESTA LLC
+
+ENDEREÇO: 4745 WILEY POST WAY, SALT LAKE CITY, UTAH (UT) 84116 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000824
+
+EMPRESA SOLICITANTE: ORGANON FARMACÊUTICA LTDA. - CNPJ: 45.987.013/0001-34
+
+AUTORIZ/MS: 1000290 - EXPEDIENTE(s): 0266852/24-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Granel): Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: BAXTER HEALTHCARE CORPORATION
+
+ENDEREÇO: 25212 WEST ILLINOIS ROUTE 120, ROUND LAKE, ILLINOIS (IL) 60073 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001343
+
+EMPRESA SOLICITANTE: BAXTER HOSPITALAR LTDA - CNPJ: 49.351.786/0002-61
+
+AUTORIZ/MS: 1006839 - EXPEDIENTE(s): 0682042/24-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Grande Volume com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: GC BIOPHARMA CORP.
+
+ENDEREÇO: 586, GWAHAKSANEOP 2-RO, OCHANG-EUP, CHEONGWON-GU, CHEONGJU-SI, CHUNGCHEONGBUK-DO, CORÉIA - PAÍS: CORÉIA DO SUL - CÓDIGO ÚNICO: A.000287
+
+EMPRESA SOLICITANTE: CELLTRION HEALTHCARE DISTRIBUICAO DE PRODUTOS FARMACEUTICOS DOS BRASIL LTDA - CNPJ: 05.452.889/0001-61
+
+AUTORIZ/MS: 1092163 - EXPEDIENTE(s): 0095652/24-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: INVENTIA HEALTHCARE LIMITED
+
+ENDEREÇO: F1-F1/1-F75/1, ADDITIONAL AMBERNATH M.I.D.C.; AMBERNATH (EAST) DIST.THANE, 421 506 MAHARASHTRA STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000671
+
+EMPRESA SOLICITANTE: EPHAR PESQUISA E DESENVOLVIMENTO LTDA - CNPJ: 36.130.126/0001-28
+
+AUTORIZ/MS: 1238452 - EXPEDIENTE(s): 1037174/23-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas

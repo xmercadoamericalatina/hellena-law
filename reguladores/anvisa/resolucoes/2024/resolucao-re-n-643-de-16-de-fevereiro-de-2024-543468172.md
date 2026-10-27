@@ -1,0 +1,206 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 643, DE 16 DE FEVEREIRO DE 2024"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "643"
+data: 2024-02-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/02/2024, seção 1, p. 95"
+data_publicacao: 2024-02-19
+edicao: "33"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-643-de-16-de-fevereiro-de-2024-543468172"
+sha256_html_fonte: 5196ac004d49ad98dbb008763c2c1c82a39fc4792305ab8c65b5443a5acf2c54
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 643, DE 16 DE FEVEREIRO DE 2024
+
+RESOLUÇÃO-RE Nº 643, DE 16 DE FEVEREIRO DE 2024
+
+O GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021,
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+MARCUS AURÉLIO MIRANDA DE ARAÚJO
+
+## ANEXO
+
+EMPRESA: IBF - INDUSTRIA BRASILEIRA DE FARMOQUIMICOS S.A. - CNPJ: 14.864.868/0001-44 - AUTORIZ/MS: 1130309
+
+ENDEREÇO: Avenida Jose Abbas Casseb, 376
+
+MUNICÍPIO: SÃO JOSÉ DO RIO PRETO - UF: SP - EXPEDIENTE: 0804441/23-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Radiofármacos): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA: LABORATÓRIOS PFIZER LTDA - CNPJ: 46.070.868/0036-99 - AUTORIZ/MS: 1002166
+
+ENDEREÇO: ROD PRESIDENTE CASTELO BRANCO, Nº 32501, KM 32,5 - ED. MANUFATURA, ENTRADA B
+
+MUNICÍPIO: ITAPEVI - UF: SP - EXPEDIENTE: 0837085/23-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+.........................................
+
+EMPRESA: VIDORA FARMACÊUTICA LTDA - CNPJ: 92.762.277/0001-70 - AUTORIZ/MS: 1004733
+
+ENDEREÇO: RUA ALBERTO RANGEL, Nº 823
+
+MUNICÍPIO: PORTO ALEGRE - UF: RS - EXPEDIENTE: 0780373/23-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Emulsões; Soluções; Tinturas; Xaropes
+
+.........................................
+
+EMPRESA FABRICANTE: TAKEDA AUSTRIA GMBH
+
+ENDEREÇO: ST. PETER-STRASSE 25, 4020, LINZ - PAÍS: ÁUSTRIA - CÓDIGO ÚNICO: A.000450
+
+EMPRESA SOLICITANTE: BLANVER FARMOQUIMICA E FARMACÊUTICA S.A. - CNPJ: 53.359.824/0001-19
+
+AUTORIZ/MS: 1015246 - EXPEDIENTE(s): 0587074/23-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: BIOCON SDN. BHD.
+
+ENDEREÇO: NO.1, JALAN BIOTEKNOLOGI 1, KAWASAN PERINDUSTRIAN SILC, 79200 ISKANDAR PUTERI, JOHOR - PAÍS: MALÁSIA - CÓDIGO ÚNICO: A.001269
+
+EMPRESA SOLICITANTE: EQUILIBRIO COMÉRCIO DE PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 05.215.461/0001-03
+
+AUTORIZ/MS: 1067131 - EXPEDIENTE(s): 0810131/23-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: SAMSUNG BIOLOGICS CO. LTD.
+
+ENDEREÇO: 300, SONGDO BIO-DAERO, YEONSU-GU, INCHEON, 21987 - PAÍS: CORÉIA DO SUL - CÓDIGO ÚNICO: A.001327
+
+EMPRESA SOLICITANTE: ASTRAZENECA DO BRASIL LTDA - CNPJ: 60.318.797/0001-00
+
+AUTORIZ/MS: 1016181 - EXPEDIENTE(s): 0882263/23-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem primária; Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: DELPHARM HUNINGUE SAS
+
+ENDEREÇO: 26 RUE DE LA CHAPELLE, 68330 HUNINGUE - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000864
+
+EMPRESA SOLICITANTE: UNITED MEDICAL LTDA - CNPJ: 68.949.239/0001-46
+
+AUTORIZ/MS: 1025762 - EXPEDIENTE(s): 0613366/23-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+.........................................
+
+EMPRESA FABRICANTE: MSD INTERNATIONAL GMBH T/A MSD IRELAND (CARLOW)
+
+ENDEREÇO: DUBLIN ROAD, CARLOW, CO. CARLOW, IRELAND - PAÍS: IRLANDA - CÓDIGO ÚNICO: A.001134
+
+EMPRESA SOLICITANTE: MERCK SHARP & DOHME FARMACEUTICA LTDA. - CNPJ: 03.560.974/0001-18
+
+AUTORIZ/MS: 1001711 - EXPEDIENTE(s): 0870793/23-3
+
+ERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica; Suspensões Parenterais de Pequeno Volume com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: SALUTAS PHARMA GMBH
+
+ENDEREÇO: OTTO-VON-GUERICKE-ALLEE 1-39179- BARLEBEN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000538
+
+EMPRESA SOLICITANTE: SANDOZ DO BRASIL INDÚSTRIA FARMACÊUTICA LTDA - CNPJ: 61.286.647/0001-16
+
+AUTORIZ/MS: 1000472 - EXPEDIENTE(s): 0816653/23-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas; Comprimidos; Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: IBSA INSTITUT BIOCHIMIQUE S.A.
+
+ENDEREÇO: VIA PIAN SCAIROLO 49, 6912 PAZZALLO - PAÍS: SUÍÇA - CÓDIGO ÚNICO: A.001143
+
+EMPRESA SOLICITANTE: UCB BIOPHARMA LTDA. - CNPJ: 64.711.500/0001-14
+
+AUTORIZ/MS: 1023619 - EXPEDIENTE(s): 0672180/23-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT GERMANY SCHORNDORF GMBH
+
+ENDEREÇO: STEINBEISSTRASSE 1 UND 2, 73614, SCHORNDORF - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000134
+
+EMPRESA SOLICITANTE: ZAMBON LABORATÓRIOS FARMACÊUTICOS LTDA. - CNPJ: 61.100.004/0001-36
+
+AUTORIZ/MS: 1000841 - EXPEDIENTE(s): 0775836/23-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: SEPTODONT
+
+ENDEREÇO: 58 RUE DU PONT DE CRÉTEIL 94107 SAINT MAUR DES FOSSES CEDEX - PAÍS: FRANÇA - CÓDIGO ÚNICO: A.000575
+
+EMPRESA SOLICITANTE: DLA PHARMACEUTICAL LTDA - CNPJ: 45.841.137/0001-07
+
+AUTORIZ/MS: 1009931 - EXPEDIENTE(s): 0876983/23-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+.........................................
+
+EMPRESA FABRICANTE: IDT BIOLOGIKA GMBH
+
+ENDEREÇO: AM PHARMAPARK 06861 DESSAU-ROSSLAU - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.001059
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 0739911/23-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+.........................................
+
+EMPRESA FABRICANTE: RECIPHARM LEGANÉS S.L.U.
+
+ENDEREÇO: CALLE SEVERO OCHOA, 13 LEGANÉS 28914 (MADRID) - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.001068
+
+EMPRESA SOLICITANTE: BLANVER FARMOQUIMICA E FARMACÊUTICA S.A. - CNPJ: 53.359.824/0001-19
+
+AUTORIZ/MS: 1015246 - EXPEDIENTE(s): 0926454/23-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos
+
+.........................................
+
+EMPRESA FABRICANTE: MEDICAMEN BIOTECH LTD.
+
+ENDEREÇO: SP - 1192 A & B, PHASE IV - INDUSTRIAL AREA - BHIWADI, DISTRITO ALWAR, RAJASTHAN - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001019
+
+EMPRESA SOLICITANTE: NUNESFARMA DISTRIBUIDORA DE PRODUTOS FARMACÊUTICOS LTDA - CNPJ: 75.014.167/0001-00
+
+AUTORIZ/MS: 1017952 - EXPEDIENTE(s): 4999981/22-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Suspensões
+
+.........................................

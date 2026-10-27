@@ -1,0 +1,397 @@
+---
+titulo: "RESOLUÇÃO-RE nº 945, DE 12 DE MARÇO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "945"
+data: 2026-03-12
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 16/03/2026, seção 1, p. 167"
+data_publicacao: 2026-03-16
+edicao: "50"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-945-de-12-de-marco-de-2026-692770980"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 945, DE 12 DE MARÇO DE 2026
+
+RESOLUÇÃO-RE nº 945, DE 12 DE MARÇO DE 2026
+
+O GERENTE-GERAL DE COSMÉTICOS E SANEANTES DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir os registros e as petições dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONçALVES ARAúJO RIOS
+
+## ANEXO
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO E MARCA
+
+NÚMERO DO PROCESSO / REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+&CO. INDUSTRIA E COMERCIO DE COSMETICOS LTDA - EPP / 17.153.030/0001-30
+
+SWEATY STICK PROTETOR FACIAL COM COR FLUFFY- CATHY BEAUTY
+
+25351.187486/2025-99 / 280880148
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1377954/25-1
+
+SWEATY STICK PROTETOR FACIAL COM COR BLISSY- CATHY BEAUTY
+
+25351.187487/2025-33 / 280880149
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1377955/25-7
+
+SWEATY STICK PROTETOR FACIAL INCOLOR - CATHY BEAUTY
+
+25351.187498/2025-13 / 280880150
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1378001/25-7
+
+SWEATY STICK PROTETOR FACIAL COM COR BLOOM- CATHY BEAUTY
+
+25351.187499/2025-68 / 280880151
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1378002/25-3
+
+SWEATY STICK PROTETOR FACIAL COM COR NUDE - CATHY BEAUTY
+
+25351.187501/2025-07 / 280880152
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1378008/25-1
+
+PROTETOR SOLAR PÓ COMPACTO P 15 - PINK CHEEKS
+
+25351.377594/2024-71 / 280880102
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0919576/25-7
+
+--------------------------------------
+
+ATHENAS INDÚSTRIA E TERCERIZAÇÃO DE COSMÉTICOS LTDA EPP / 01.287.021/0001-00
+
+REPELENTE OAZ EUROFARMA
+
+25351.583781/2022-20 / 266700196
+
+2721 - REG. COSMÉTICOS - Desistência de petição/processo a pedido / 0112028/26-8
+
+--------------------------------------
+
+AVLFM INDUSTRIA DE COSMETICOS LTDA / 39.299.870/0001-49
+
+ADCOS PROTETOR SOLAR MOUSSE MINERAL FPS UVB 50 NUDE
+
+25351.052626/2019-61 / 220280358
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0231014/25-2
+
+ADCOS PROTETOR SOLAR MOUSSE MINERAL FPS UVB 50 NUDE
+
+25351.052626/2019-61 / 220280358
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 0269494/25-1
+
+ADCOS PROTETOR SOLAR MOUSSE MINERAL FPS UVB 50 IVORY
+
+25351.052703/2019-82 / 220280352
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0230340/25-3
+
+ADCOS PROTETOR SOLAR MOUSSE MINERAL FPS UVB 50 IVORY
+
+25351.052703/2019-82 / 220280352
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 0269493/25-5
+
+ADCOS PROTETOR SOLAR MOUSSE MINERAL FPS UVB 50 PEACH
+
+25351.052710/2019-84 / 220280353
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0231068/25-5
+
+ADCOS PROTETOR SOLAR MOUSSE MINERAL FPS UVB 50 PEACH
+
+25351.052710/2019-84 / 220280353
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 0269541/25-0
+
+ADCOS PROTETOR SOLAR MOUSSE MINERAL FPS UVB 50 BEIGE
+
+25351.052752/2019-15 / 220280354
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0229178/25-1
+
+ADCOS PROTETOR SOLAR MOUSSE MINERAL FPS UVB 50 BEIGE
+
+25351.052752/2019-15 / 220280354
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 0269484/25-6
+
+ADCOS PROTETOR SOLAR MOUSSE MINERAL FPS UVB 50 BRONZE
+
+25351.054948/2019-44 / 220280359
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0230233/25-2
+
+ADCOS PROTETOR SOLAR MOUSSE MINERAL FPS UVB 50 BRONZE
+
+25351.054948/2019-44 / 220280359
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 0269492/25-9
+
+ADCOS PROTETOR SOLAR PÓ COMPACTO FPS 60 COR 1.0 IVORY
+
+25351.197774/2025-51 / 220280436
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1432346/25-3
+
+ADCOS PROTETOR SOLAR PÓ COMPACTO FPS 60 COR 3.0 NUDE
+
+25351.197783/2025-42 / 220280437
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1432369/25-3
+
+ADCOS PROTETOR SOLAR PÓ COMPACTO FPS 60 COR 2.0 PEACH
+
+25351.197800/2025-41 / 220280438
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1432401/25-4
+
+ADCOS PROTETOR SOLAR PÓ COMPACTO FPS 60 COR 4.0 BEIGE
+
+25351.197801/2025-96 / 220280439
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1432402/25-1
+
+ADCOS PROTETOR SOLAR PÓ COMPACTO FPS 60 COR 6.0 BRONZE
+
+25351.197803/2025-85 / 220280440
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1432404/25-3
+
+ADCOS PROTETOR SOLAR PÓ COMPACTO FPS 60 TRANSLÚCIDO
+
+25351.197804/2025-20 / 220280441
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1432406/25-6
+
+--------------------------------------
+
+Atomy do Brasil Cosmeticos Ltda / 40.486.928/0001-42
+
+ATOMY SUNSCREEN BEIGE
+
+25351.179072/2025-96 / 439590002
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1319859/25-9
+
+ATOMY SUNSCREEN WHITE
+
+25351.179135/2025-12 / 439590003
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1320027/25-3
+
+--------------------------------------
+
+BEIERSDORF INDÚSTRIA E COMÉRCIO LTDA / 01.786.983/0001-04
+
+NIVEA SUN TOQUE SECO FPS 70
+
+25351.164490/2025-89 / 227210819
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1216160/25-2
+
+NIVEA SUN UV FACE CONTROLE DE OLEOSIDADE
+
+25351.164494/2025-67 / 227210820
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1216164/25-8
+
+--------------------------------------
+
+BOTICA COMERCIAL FARMACEUTICA LTDA. / 77.388.007/0001-57
+
+AUSTRALIAN GOLD FPS 15 SPRAY GEL PROTETOR SOLAR
+
+25351.071923/2017-02 / 205441526
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 1017350/25-6
+
+--------------------------------------
+
+Cosmoderma industria e com. ltda- me / 09.601.610/0001-15
+
+PRO SUMMER FPS 50
+
+25351.036965/2014-65 / 251160028
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0957259/25-5
+
+--------------------------------------
+
+DI HELLEN INDÚSTRIA DE COSMÉTICOS LTDA / 01.376.008/0001-10
+
+PROTETOR SOLAR SUNPROTEC FPS 30 DI HELLEN
+
+25351.216048/2014-60 / 224800150
+
+238 - REG. COSMÉTICOS - Revalidação de Registro / 0933749/25-2
+
+PROTETOR SOLAR SUNPROTEC FPS 30 DI HELLEN
+
+25351.216048/2014-60 / 224800150
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 1180127/25-1
+
+PROTETOR SOLAR SUNPROTEC FPS 50 DI HELLEN
+
+25351.216096/2014-71 / 224800151
+
+238 - REG. COSMÉTICOS - Revalidação de Registro / 0248596/25-0
+
+--------------------------------------
+
+Isdin Produtos Farmaceuticos Ltda / 10.817.114/0001-82
+
+ISDIN FOTOPROTECTOR COVERAGE 5.0 AMBER
+
+25351.201485/2025-64 / 253860084
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1448845/25-4
+
+ISDIN FOTOPROTECTOR COVERAGE 3.0 SAND
+
+25351.201491/2025-11 / 253860085
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1448868/25-4
+
+ISDIN FOTOPROTECTOR COVERAGE 1.0 PEARL
+
+25351.201525/2025-78 / 253860086
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1449032/25-7
+
+ISDIN FOTOPROTECTOR COVERAGE 2.0 BEIGE
+
+25351.201527/2025-67 / 253860087
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1449034/25-0
+
+ISDIN FOTOPROTECTOR COVERAGE 6.0 COCOA
+
+25351.201534/2025-69 / 253860088
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1449058/25-6
+
+ISDIN FOTOPROTECTOR COVERAGE 4.0 GOLDEN
+
+25351.201537/2025-01 / 253860089
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1449071/25-2
+
+--------------------------------------
+
+LABORATORIOS B. BRAUN S/A / 31.673.254/0001-02
+
+Softalind Viscorub
+
+25351.195371/2015-25 / 201510007
+
+2105 - REG. COSMÉTICOS - Cancelamento de Apresentação de Produto Registrado a Pedido / 0218909/26-8
+
+--------------------------------------
+
+NATURELLE IND E COMERCIO DE PRODUTOS NATURAIS LTDA / 48.561.369/0001-08
+
+PROTETOR SOLAR FPS 50 GUAVA
+
+25351.197540/2025-12 / 206640969
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1431194/25-5
+
+GEL HIGIENIZANTE PARA AS MÃOS NOBAC
+
+25351.649635/2015-22 / 206640840
+
+2105 - REG. COSMÉTICOS - Cancelamento de Apresentação de Produto Registrado a Pedido / 0225165/26-1
+
+--------------------------------------
+
+NETWORK BEAUTY & FASHION COSMÉTICA LTDA / 03.424.849/0001-80
+
+ATIVADOR GUANIDINA FORTE INNOVATOR
+
+25351.397535/2011-72 / 230980012
+
+238 - REG. COSMÉTICOS - Revalidação de Registro / 0059585/26-9
+
+--------------------------------------
+
+NEW CONCEPT INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA / 23.759.374/0001-90
+
+FORMS CURLS - SUUM LUMEN
+
+25351.186112/2025-56 / 410500071
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1371838/25-9
+
+--------------------------------------
+
+PASTEUR COSMIATRIA LTDA / 87.727.277/0001-07
+
+678BRAZIL - PROTETOR SOLAR BURITI FPS 60
+
+25351.166992/2025-44 / 214850561
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1233006/25-8
+
+678BRAZIL - PROTETOR SOLAR FACIAL BURITI FPS 60
+
+25351.167025/2025-08 / 214850562
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1233060/25-2
+
+678BRAZIL - PROTETOR SOLAR BURITI FPS 30
+
+25351.167032/2025-00 / 214850563
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1233074/25-3
+
+--------------------------------------
+
+PERFUMARIA GUEDES SOBRINHO LTDA / 33.097.049/0001-63
+
+SOLFIX URUCUM GS - FPS 06
+
+25351.115442/2015-86 / 202630087
+
+238 - REG. COSMÉTICOS - Revalidação de Registro / 0072432/25-0
+
+--------------------------------------
+
+ROHTO-MENTHOLATUM DO BRASIL COMÉRCIO DE PRODUTOS PARA SAÚDE LTDA / 14.739.675/0001-61
+
+Skin Aqua Super Moisture Barrier Essence
+
+25351.177204/2025-45 / 268100015
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1309334/25-1
+
+--------------------------------------
+
+SOUL BRAZIL COSMETICOS LTDA / 27.744.405/0001-90
+
+Repelentix Repelente de Insetos - Soul Cosméticos
+
+25351.221030/2025-65 / 401170048
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1541089/25-1

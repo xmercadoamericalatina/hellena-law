@@ -1,0 +1,254 @@
+---
+titulo: "RESOLUÇÃO-RE nº 4.373, DE 31 DE OUTUBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "4373"
+data: 2025-10-31
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/11/2025, seção 1, p. 136"
+data_publicacao: 2025-11-03
+edicao: "209"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-4.373-de-31-de-outubro-de-2025-666143428"
+baixado_em: 2026-10-16
+sha256_html_fonte: d97060323fcea4db3cf5b2bcd12436b86da01212d3c8a520bf5383e6a49dfd5e
+---
+# RESOLUÇÃO-RE nº 4.373, DE 31 DE OUTUBRO DE 2025
+
+RESOLUÇÃO-RE nº 4.373, DE 31 DE OUTUBRO DE 2025
+
+O GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021,
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Renovar a Certificação de Boas Práticas de Fabricação de Medicamentos das empresas constantes no ANEXO.
+
+**Art. 2º** Esta Resolução entra em vigor na data de 27 de novembro de 2025.
+
+Marcus Aurélio Miranda de Araújo
+
+## ANEXO
+
+EMPRESA: KENVUE LTDA. - CNPJ: 59.748.988/0001-14 - AUTORIZ/MS: 1057211
+
+ENDEREÇO: RODOVIA PRESIDENTE DUTRA KM 154
+
+MUNICÍPIO: SÃO JOSÉ DOS CAMPOS - UF: SP - EXPEDIENTE: 0642274/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções; Suspensões; Xaropes
+
+Data de vencimento: 27/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: RENAISSANCE LAKEWOOD LLC
+
+ENDEREÇO: 1200 PACO WAY, LAKEWOOD, NEW JERSEY(NJ) 08701 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001359
+
+EMPRESA SOLICITANTE: JANSSEN-CILAG FARMACÊUTICA LTDA - CNPJ: 51.780.468/0001-87
+
+AUTORIZ/MS: 1012361 - EXPEDIENTE(s): 0464329/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis (Embalagem primária; Granel): Soluções
+
+Data de vencimento: 27/11/2027
+
+.........................................
+
+EMPRESA: GREENPHARMA QUÍMICA E FARMACÊUTICA LTDA - CNPJ: 33.408.105/0001-33 - AUTORIZ/MS: 1020190
+
+ENDEREÇO: VPR3 QUADRA 2A, MÓDULOS 32/35
+
+MUNICÍPIO: ANÁPOLIS - UF: GO - EXPEDIENTE: 0487394/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções; Suspensões
+
+Semissólidos não estéreis: Cremes; Pastas; Pomadas
+
+Sólidos não estéreis: Comprimidos; Comprimidos Revestidos; Cápsulas
+
+Sólidos não estéreis (Cefalosporínicos): Pós
+
+Produtos estéreis: Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Data de vencimento: 27/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: ONCOTEC PHARMA PRODUKTION GMBH
+
+ENDEREÇO: AM PHARMAPARK, 06861, DESSAU-ROSSLAU - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000627
+
+EMPRESA SOLICITANTE: BLANVER FARMOQUIMICA E FARMACEUTICA S.A. - CNPJ: 53.359.824/0001-19
+
+AUTORIZ/MS: 1015246 - EXPEDIENTE(s): 0703660/25-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Pós Liofilizados
+
+Data de vencimento: 27/11/2027
+
+.........................................
+
+EMPRESA: BLAU FARMACÊUTICA S.A. - CNPJ: 58.430.828/0005-93 - AUTORIZ/MS: 1016377
+
+ENDEREÇO: RODOVIA RAPOSO TAVARES, N° 2833, KM 30,5 EDIF 200/210/300
+
+MUNICÍPIO: COTIA - UF: SP - EXPEDIENTE: 0589810/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Emulsões Parenterais de Pequeno Volume com Esterilização Terminal; Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de vencimento: 27/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: ENESTIA BELGIUM N.V.
+
+ENDEREÇO: KLOCKNERSTRAAT 1, HAMONT-ACHEL, LIMBURG, B-3930 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000744
+
+EMPRESA SOLICITANTE: Samsung Bioepis br Pharmaceutical ltda. - CNPJ: 24.563.776/0001-88
+
+AUTORIZ/MS: 1159210 - EXPEDIENTE(s): 0721694/25-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+Data de vencimento: 27/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: LABORATORIOS LEÓN FARMA S.A.
+
+ENDEREÇO: POLÍGONO INDUSTRIAL NAVATEJERA, C/ LA VALLINA S/N, VILLAQUILAMBRE - LEÓN - PAÍS: ESPANHA - CÓDIGO ÚNICO: A.000355
+
+EMPRESA SOLICITANTE: FARMOQUÍMICA S/A - CNPJ: 33.349.473/0001-58
+
+AUTORIZ/MS: 1003906 - EXPEDIENTE(s): 0721682/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos; Cápsulas Moles
+
+Data de vencimento: 27/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: GLAND PHARMA LIMITED
+
+ENDEREÇO: SURVEY 143-148, 150 & 151 NEAR GANDIMAISAMMA CROSS ROADS, D.P.PALLY, DUNDIGAL POST, DUNDIGAL-GANDIMAISAMMA MANDAL, MEDCHAL-MALKAJGIRI DISTRICT, HYDERABAD - 500 043, TELANGANA - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000257
+
+EMPRESA SOLICITANTE: LABORATÓRIO QUÍMICO FARMACÊUTICO BERGAMO LTDA - CNPJ: 61.282.661/0001-41
+
+AUTORIZ/MS: 1006461 - EXPEDIENTE(s): 0605969/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados
+
+Data de vencimento: 27/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: JEWIM PHARMACEUTICAL (SHANDONG) CO., LTD.
+
+ENDEREÇO: CHUANGYE STREET, TAI'AN HIGH-TECH INDUSTRIAL DEVELOPMENT ZONE, SHANDONG PROVINCE. - PAÍS: CHINA, REPÚBLICA POPULAR - CÓDIGO ÚNICO: A.000333
+
+EMPRESA SOLICITANTE: PHARMASCIENCE INDUSTRIA FARMACEUTICA S.A - CNPJ: 25.773.037/0001-83
+
+AUTORIZ/MS: 1017173 - EXPEDIENTE(s): 0696964/25-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Suspensões Aerossóis
+
+Data de vencimento: 27/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: GLAND PHARMA LIMITED
+
+ENDEREÇO: SURVEY 143-148, 150 & 151 NEAR GANDIMAISAMMA CROSS ROADS, D.P.PALLY, DUNDIGAL POST, DUNDIGAL-GANDIMAISAMMA MANDAL, MEDCHAL-MALKAJGIRI DISTRICT, HYDERABAD - 500 043, TELANGANA - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000257
+
+EMPRESA SOLICITANTE: VOLPHARMA DISTRIBUIDORA DE PRODUTOS HOSPITALARES E FARMACÊUTICOS LTDA - CNPJ: 14.665.928/0001-08
+
+AUTORIZ/MS: 1093571 - EXPEDIENTE(s): 0563139/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de vencimento: 27/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: BIOLOGICAL E. LIMITED
+
+ENDEREÇO: PLOT NO.4, SURVEY NO. 542/P, BIOTECH PARK, PHASE-II, KOLTHUR VILLAGE - 500 078, SHAMEERPET MANDAL, MEDCHAL-MALKAJGIRI DISTRICT, TELANGANA STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001424
+
+EMPRESA SOLICITANTE: ANTIBIÓTICOS DO BRASIL LTDA - CNPJ: 05.439.635/0001-03
+
+AUTORIZ/MS: 1055622 - EXPEDIENTE(s): 0656247/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados
+
+Data de vencimento: 27/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: SIMTRA US LLC
+
+ENDEREÇO: 927 SOUTH CURRY PIKE, BLOOMINGTON, INDIANA (IN) 47403 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000081
+
+EMPRESA SOLICITANTE: ULTRAGENYX BRASIL FARMACEUTICA LTDA - CNPJ: 27.724.245/0001-18
+
+AUTORIZ/MS: 1239643 - EXPEDIENTE(s): 0590593/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de vencimento: 27/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: DR. GERHARD MANN - CHEM. PHARM. FABRIK GMBH
+
+ENDEREÇO: BRUNSBUTTELER DAMM 165/173 13581 BERLIN - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.001034
+
+EMPRESA SOLICITANTE: BL INDÚSTRIA OTICA LTDA - CNPJ: 27.011.022/0001-03
+
+AUTORIZ/MS: 1019615 - EXPEDIENTE(s): 0566988/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Géis com Preparação Asséptica; Soluções com Preparação Asséptica
+
+Data de vencimento: 27/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: LABORATORIOS ANDRÓMACO S.A
+
+ENDEREÇO: AVENIDA QUILÍN N° 5273,PENALOLÉN,SANTIAGO - PAÍS: CHILE - CÓDIGO ÚNICO: A.001335
+
+EMPRESA SOLICITANTE: GRÜNENTHAL DO BRASIL FARMACÊUTICA LTDA. - CNPJ: 10.555.143/0001-13
+
+AUTORIZ/MS: 1086107 - EXPEDIENTE(s): 0721748/25-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Anéis; Comprimidos Revestidos
+
+Data de vencimento: 27/11/2027
+
+.........................................
+
+EMPRESA FABRICANTE: ASTELLAS PHARMA INC. YAIZU TECHNOLOGY CENTER
+
+ENDEREÇO: 180 OZUMI YAIZU-SHI, SHIZUOKA - PAÍS: JAPÃO - CÓDIGO ÚNICO: A.001365
+
+EMPRESA SOLICITANTE: ASTELLAS FARMA BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO DE MEDICAMENTOS LTDA. - CNPJ: 07.768.134/0001-04
+
+AUTORIZ/MS: 1077171 - EXPEDIENTE(s): 0642421/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos
+
+Data de vencimento: 27/11/2027
+
+.........................................
+
+EMPRESA: KENVUE LTDA. - CNPJ: 59.748.988/0001-14 - AUTORIZ/MS: 1057211
+
+ENDEREÇO: RODOVIA PRESIDENTE DUTRA KM 154
+
+MUNICÍPIO: SÃO JOSÉ DOS CAMPOS - UF: SP - EXPEDIENTE: 0642229/25-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Semissólidos não estéreis: Cremes; Géis; Pomadas
+
+Data de vencimento: 27/11/2027
+
+.........................................

@@ -1,0 +1,195 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.085, DE 6 DE AGOSTO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Produtos de Terapias Avançadas"
+tipo: "Resolução"
+numero: "3085"
+data: 2026-08-06
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 07/08/2026, seção 1, p. 136"
+data_publicacao: 2026-08-07
+edicao: "148"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.085-de-6-de-agosto-de-2026-724098030"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 3.085, DE 6 DE AGOSTO DE 2026
+
+RESOLUÇÃO-RE nº 3.085, DE 6 DE AGOSTO DE 2026
+
+O GERENTE-GERAL SUBSTITUTO DE PRODUTOS BIOLÓGICOS, RADIOFÁRMACOS, SANGUE, TECIDOS, CÉLULAS, ÓRGÃOS E PRODUTOS DE TERAPIAS AVANÇADAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 109, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir petições relacionadas à Gerência-Geral de Produtos Biológicos, Radiofármacos, Sangue, Tecidos, Células, Órgãos e Produtos de Terapias Avançadas, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+ANDERSON VEZALI MONTAI
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO MEDICAMENTO NUMERO DO PROCESSO VENCIMENTO DO REGISTRO
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+NUMERO DE REGISTRO VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+PRINCIPIO(S) ATIVO(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+ACCORD FARMACÊUTICA LTDA 64171697000146
+
+USTEQUINUMABE
+
+IMULDOSA 25351.357617/2024-21 08/2036
+
+12342 PRODUTO BIOLÓGICO - REGISTRO - VIA DE DESENVOLVIMENTO POR COMPARABILIDADE - ANTICORPOS MONOCLONAIS 0834819/24-7
+
+1.5537.0145.001-9 18 Meses
+
+5 MG/ML SOL INJ INF IV 1 FA VD TRANS X 26 ML
+
+1.5537.0145.002-7 24 Meses
+
+90 MG/ML SOL INJCT 1 SER PREENCH VD TRANS DISP SEGURANÇA X 0,5 ML
+
+1.5537.0145.003-5 24 Meses
+
+90 MG/ML SOL INJCT 1 SER PREENCH VD TRANS DISP SEGURANÇA X 1 ML
+
+--------------------------------------------------------------------------------
+
+DAIICHI SANKYO BRASIL FARMACÊUTICA LTDA 60874187000184
+
+TRASTUZUMABE DERUXTECANA
+
+ENHERTU 25351.541212/2020-45 10/2029
+
+11967 PRODUTOS BIOLÓGICOS - 77A. INCLUSÃO OU MODIFICAÇÃO DE INDICAÇÃO TERAPÊUTICA 1477216/25-7
+
+1.0454.0191.001-1 48 Meses
+
+100 MG PO LIOF SOL INJ IV CT FA VD AMB
+
+--------------------------------------------------------------------------------
+
+DR. REDDYS FARMACÊUTICA DO BRASIL LTDA 03978166000175
+
+TORIPALIMABE
+
+ZYTORVI 25351.007182/2024-76 08/2036
+
+12337 PRODUTO BIOLÓGICO - REGISTRO DE PRODUTO NOVO - ANTICORPOS MONOCLONAIS 0143912/24-0
+
+1.5143.0104.001-7 36 Meses
+
+40 MG/ML SOL DIL INFUS CT 1 FA VD TRANS X 6 ML
+
+--------------------------------------------------------------------------------
+
+FRESENIUS KABI BRASIL LTDA 49324221000104
+
+USTEQUINUMABE
+
+OTULFI 25351.457288/2024-17 08/2036
+
+12342 PRODUTO BIOLÓGICO - REGISTRO - VIA DE DESENVOLVIMENTO POR COMPARABILIDADE - ANTICORPOS MONOCLONAIS 1717713/24-8
+
+1.0041.0241.001-1 36 Meses
+
+90 MG SOL INJ CT 1 SER PREENC VD TRANS DISP SEGURANÇA X 1 ML
+
+1.0041.0241.002-8 36 Meses
+
+45 MG SOL INJ CT 1 SER PREENC VD TRANS DISP SEGURANÇA X 0,5 ML
+
+1.0041.0241.003-6 36 Meses
+
+130 MG SOL INJ INFUS IV CT X 1 FA VD TRANS X 26 ML
+
+--------------------------------------------------------------------------------
+
+LEO PHARMA LTDA 11424477000110
+
+ESPESOLIMABE
+
+SPEVIGO 25351.222196/2025-07 03/2031
+
+1530 PRODUTO BIOLÓGICO - RENOVAÇÃO DE REGISTRO DE PRODUTO BIOLÓGICO NOVO 1144714/25-1
+
+1.8569.0018.001-5 36 Meses
+
+60 MG/ML SOL DIL INFUS CT 2 FA VD TRANS X 7,5 ML
+
+1.8569.0018.002-3 24 Meses
+
+150 MG/ML SOL INJ CT 2 SER PREENC VD TRANS X 1,0 ML
+
+1.8569.0018.003-1 36 Meses
+
+150 MG/ML SOL INJ CT SER PREENC VD TRANS X 2,0 ML
+
+--------------------------------------------------------------------------------
+
+MERCK SHARP & DOHME FARMACEUTICA LTDA. 03560974000118
+
+PEMBROLIZUMABE
+
+KEYTRUDA 25351.150453/2021-60 10/2031
+
+11967 PRODUTOS BIOLÓGICOS - 77A. INCLUSÃO OU MODIFICAÇÃO DE INDICAÇÃO TERAPÊUTICA 0308251/26-1
+
+1.0171.0209.001-7 24 Meses
+
+100 MG/ 4 ML SOL DIL INFUS CT FA VD TRANS X 4 ML
+
+1.0171.0209.002-5 24 Meses
+
+100 MG/ 4 ML SOL DIL INFUS CT 2 FA VD TRANS X 4 ML
+
+1.0171.0209.003-3 24 Meses
+
+395 MG / 2,4 ML SOL INJ CT FA VD TRANS X 2,4 ML
+
+1.0171.0209.004-1 24 Meses
+
+790 MG / 4,8 ML SOL INJ CT FA VD TRANS X 4,8 ML
+
+--------------------------------------------------------------------------------
+
+PFIZER BRASIL LTDA 61072393000133
+
+ENFORTUMABE VEDOTINA
+
+PADCEV 25351.148428/2025-40 05/2032
+
+11967 PRODUTOS BIOLÓGICOS - 77A. INCLUSÃO OU MODIFICAÇÃO DE INDICAÇÃO TERAPÊUTICA 0308260/26-1
+
+1.2110.0501.001-6 36 Meses
+
+20 MG PO LIOF SOL INJ IV CT FA VD TRANS
+
+1.2110.0501.002-4 36 Meses
+
+30 MG PO LIOF SOL INJ IV CT FA VD TRANS
+
+--------------------------------------------------------------------------------
+
+UNITED MEDICAL LTDA 68949239000146
+
+TAFASITAMABE
+
+MINJUVI 25351.428102/2022-51 07/2031
+
+1530 PRODUTO BIOLÓGICO - RENOVAÇÃO DE REGISTRO DE PRODUTO BIOLÓGICO NOVO 1593320/25-2
+
+1.2576.0039.001-4 72 Meses
+
+200 MG PO SOL INFUS IV CT FA VD TRANS
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

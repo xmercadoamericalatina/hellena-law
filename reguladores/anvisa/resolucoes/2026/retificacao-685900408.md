@@ -1,0 +1,95 @@
+---
+titulo: "RETIFICAÇÃO"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: ""
+data: 2026-02-09
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 09/02/2026, seção 1, p. 74"
+data_publicacao: 2026-02-09
+edicao: "27"
+fonte: "https://www.in.gov.br/web/dou/-/retificacao-685900408"
+baixado_em: 2026-10-15
+---
+# RETIFICAÇÃO
+
+RETIFICAÇÃO
+
+Na Resolução - RE N° 2.243, de 13 de junho de 2025, publicada no Diário Oficial da União nº 112, de 16 de junho de 2025, Seção 1, pág. 94, referente ao processo 25351030370200373,
+
+Onde se lê:
+
+LABORATORIOS B. BRAUN S/A 31673254000102
+
+PROPOFOL
+
+LIPURO 25351.030370/2003-73 05/2035
+
+142 SIMILAR - RENOVAÇÃO DE REGISTRO DE MEDICAMENTO 1006227/24-5
+
+1.0085.0133.001-2 24 Meses
+
+10 MG/ML EMU INJ IV CT FA VD TRANS X 100 ML
+
+1.0085.0133.002-0 24 Meses
+
+10 MG/ML EMU INJ IV CX 5 AMP VD TRANS X 20 ML
+
+1.0085.0133.003-9 24 Meses
+
+10 MG/ML EMU INJ IV CT FA VD TRANS X 50 ML
+
+1.0085.0133.004-7 24 Meses
+
+10 MG/ML EMU INJ IV CX 10 FA VD TRANS X 50 ML
+
+1.0085.0133.005-5 24 Meses
+
+10 MG/ML EMU INJ IV CX 10 FA VD TRANS X 100 ML
+
+1.0085.0133.008-1 24 Meses
+
+10 MG/ML EMU INJ IV CX 10 FA VD TRANS X 20 ML
+
+Leia-se:
+
+LABORATORIOS B. BRAUN S/A 31673254000102
+
+PROPOFOL
+
+LIPURO 25351.030370/2003-73 05/2035
+
+142 SIMILAR - RENOVAÇÃO DE REGISTRO DE MEDICAMENTO 1006227/24-5
+
+1.0085.0133.001-2 24 Meses
+
+10 MG/ML EMU INJ IV CT FA VD TRANS X 100 ML
+
+1.0085.0133.002-0 24 Meses
+
+10 MG/ML EMU INJ IV CX 5 AMP VD TRANS X 20 ML
+
+1.0085.0133.003-9 24 Meses
+
+10 MG/ML EMU INJ IV CT FA VD TRANS X 50 ML
+
+1.0085.0133.004-7 24 Meses
+
+10 MG/ML EMU INJ IV CX 10 FA VD TRANS X 50 ML
+
+1.0085.0133.005-5 24 Meses
+
+10 MG/ML EMU INJ IV CX 10 FA VD TRANS X 100 ML
+
+1.0085.0133.008-1 24 Meses
+
+10 MG/ML EMU INJ IV CX 10 FA VD TRANS X 20 ML
+
+1.0085.0133.009-8 24 Meses
+
+20 MG/ML EMU INJ IV CT FA VD TRANS X 50 ML
+
+1.0085.0133.010-1
+
+20 MG/ML EMU INJ IV CX 10 FA VD TRANS X 50 ML

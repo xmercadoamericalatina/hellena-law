@@ -1,0 +1,106 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.659, DE 16 DE JULHO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "2659"
+data: 2025-07-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/07/2025, seção 1, p. 128"
+data_publicacao: 2025-07-17
+edicao: "133"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.659-de-16-de-julho-de-2025-642487408"
+baixado_em: 2026-10-16
+sha256_html_fonte: fb93ae4f8e5aafc3f1531a2270228e7ca8a0fc535dea0a43d876624b74ec6a15
+---
+# RESOLUÇÃO-RE nº 2.659, DE 16 DE JULHO DE 2025
+
+RESOLUÇÃO-RE nº 2.659, DE 16 DE JULHO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+CHARLES OLIVEIRA ALMEIDA / 60.913.087/0001-10
+
+25351.102024/2025-18 / 1409299
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0815905254
+
+--------------------------------------
+
+DISTMED DISTRIBUIDORA LTDA / 52.756.486/0001-96
+
+25351.101549/2025-28 / 1409268
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0812854250
+
+--------------------------------------
+
+LIGA PARANAENSE DE COMBATE AO CÂNCER / 76.591.049/0001-28
+
+25351.102852/2025-48 / 1410801
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: MEDICAMENTO
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 0822258251
+
+--------------------------------------
+
+DELTAMED EQUIPAMENTOS HOSPITALARES LTDA / 57.893.937/0001-50
+
+25351.083293/2025-60 / 1407773
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0698564251
+
+--------------------------------------
+
+MEDIMPORT COMÉRCIO DE PRODUTOS HOSPITALARES LTDA - EPP / 03.434.334/0001-61
+
+25351.101596/2025-71 / 1410799
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0812963253
+
+--------------------------------------
+
+EXATA DISTRIBUIDORA LTDA / 41.751.726/0001-43
+
+25351.083123/2025-85 / 1407742
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0698016254

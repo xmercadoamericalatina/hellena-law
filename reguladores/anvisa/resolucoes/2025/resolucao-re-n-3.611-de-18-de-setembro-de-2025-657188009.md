@@ -1,0 +1,156 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.611, DE 18 de SETEMBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3611"
+data: 2025-09-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/09/2025, seção 1, p. 245"
+data_publicacao: 2025-09-22
+edicao: "180"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.611-de-18-de-setembro-de-2025-657188009"
+baixado_em: 2026-10-16
+sha256_html_fonte: faa361c94da5c5e849d58a200e314a8d9a7d010ca9cc309f9b8715b572928681
+---
+# RESOLUÇÃO-RE Nº 3.611, DE 18 de SETEMBRO DE 2025
+
+RESOLUÇÃO-RE Nº 3.611, DE 18 de SETEMBRO DE 2025
+
+O GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, e
+
+considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Conceder à(s) Empresa(s) constante(s) no ANEXO, a Certificação de Boas Práticas de Fabricação de Medicamentos.
+
+**Art. 2º** A presente Certificação tem validade de 2 (dois) anos a partir da sua publicação.
+
+**Art. 3º** Esta Resolução entra em vigor na data de sua publicação.
+
+Marcus Aurélio Miranda de Araújo
+
+## ANEXO
+
+EMPRESA: EMPRESA BRASILEIRA DE HEMODERIVADOS E BIOTECNOLOGIA - CNPJ: 07.607.851/0002-27 - AUTORIZ/MS: 1093047
+
+ENDEREÇO: Rodovia BR 101 S/N Quadra D Lote 6
+
+MUNICÍPIO: GOIANA - UF: PE - EXPEDIENTE: 0996625/24-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+.........................................
+
+EMPRESA: WHITE MARTINS GASES INDUSTRIAIS DO NORDESTE S/A - CNPJ: 24.380.578/0041-76 - AUTORIZ/MS: 2200002
+
+ENDEREÇO: ROD. SE 210 S/N
+
+MUNICÍPIO: LARANJEIRAS - UF: SE - EXPEDIENTE: 2655887/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais (Embalagem primária): Gases Medicinais
+
+.........................................
+
+EMPRESA: WHITE MARTINS GASES INDUSTRIAIS DO NORTE LTDA - CNPJ: 34.597.955/0007-85 - AUTORIZ/MS: 2200004
+
+ENDEREÇO: Avenida B N 1434
+
+MUNICÍPIO: CUIABÁ - UF: MT - EXPEDIENTE: 4626235/22-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Gases Medicinais (Embalagem primária): Gás
+
+.........................................
+
+EMPRESA FABRICANTE: MEDYTOX INC.
+
+ENDEREÇO: 102, OSONGSAENGMYEONG 4-RO, OSONG-EUP, HEUNGDEOK-GU - CHEONGJU-SI, CHUNGCHEONGBUK-DO - PAÍS: CORÉIA DO SUL - CÓDIGO ÚNICO: A.001422
+
+EMPRESA SOLICITANTE: LABORATÓRIO QUÍMICO FARMACÊUTICO BERGAMO LTDA - CNPJ: 61.282.661/0001-41
+
+AUTORIZ/MS: 1006461 - EXPEDIENTE(s): 1727071/24-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Pós com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: AMBERMAX S.A.S
+
+ENDEREÇO: RUTA 101, KM 26,2, CIUDAD DE BARROS BLANCOS, DEPARTAMENTO DE CANELONES - PAÍS: URUGUAI - CÓDIGO ÚNICO: A.001696
+
+EMPRESA SOLICITANTE: VALENSS WELLNESS BRASIL LTDA - CNPJ: 47.184.203/0001-49
+
+AUTORIZ/MS: 1289432 - EXPEDIENTE(s): 1123218/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+.........................................
+
+EMPRESA FABRICANTE: AMBERMAX S.A.S
+
+ENDEREÇO: RUTA 101, KM 26,2, CIUDAD DE BARROS BLANCOS, DEPARTAMENTO DE CANELONES - PAÍS: URUGUAI - CÓDIGO ÚNICO: A.001696
+
+EMPRESA SOLICITANTE: OREGON FARMACÊUTICA LTDA - CNPJ: 06.027.816/0004-38
+
+AUTORIZ/MS: - EXPEDIENTE(s): 0370978/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Soluções
+
+.........................................
+
+EMPRESA FABRICANTE: DR. REDDY'S LABORATORIES LIMITED FTO - UNIT 3
+
+ENDEREÇO: SURVEY Nº 41, 42 PART, 45 PART & 46 PART, BACHUPALLY VILLAGE, BACHUPALLY MANDAL, MEDCHAL MALKAJGIRI DISTRICT, TELANGANA STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.001282
+
+EMPRESA SOLICITANTE: BIOLAB SANUS FARMACÊUTICA LTDA - CNPJ: 49.475.833/0001-06
+
+AUTORIZ/MS: 1009744 - EXPEDIENTE(s): 0928261/25-5
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: AUROBINDO PHARMA LIMITED - UNIT III
+
+ENDEREÇO: SURVEY N° 313 AND 314, BACHUPALLY VILLAGE - BACHUPALLY MANDAL - MEDCHAL-MALKAJGIRI DISTRICT - TELANGANA STATE - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000054
+
+EMPRESA SOLICITANTE: BIOLAB SANUS FARMACÊUTICA LTDA - CNPJ: 49.475.833/0001-06
+
+AUTORIZ/MS: 1009744 - EXPEDIENTE(s): 1016820/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: SHARP PACKAGING SERVICES, LLC
+
+ENDEREÇO: 22-23 CARLAND RD., CONSHOHOCKEN, PENNSYLVANIA (PA) 19428 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001013
+
+EMPRESA SOLICITANTE: BEAUFOUR IPSEN FARMACÊUTICA LTDA - CNPJ: 07.718.721/0001-80
+
+AUTORIZ/MS: 1069773 - EXPEDIENTE(s): 0934308/25-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+.........................................
+
+EMPRESA FABRICANTE: ALCON RESEARCH LLC
+
+ENDEREÇO: 6201 SOUTH FREEWAY, FORT WORTH, TEXAS (TX) 76134 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.000018
+
+EMPRESA SOLICITANTE: ALCON BRASIL CUIDADOS COM A SAÚDE LTDA - CNPJ: 32.929.819/0001-24
+
+AUTORIZ/MS: 1194508 - EXPEDIENTE(s): 1614154/24-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Soluções com Preparação Asséptica; Suspensões com Preparação Asséptica
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG.
+
+ENDEREÇO: MOOSWIESEN 2, 88214, RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000624
+
+EMPRESA SOLICITANTE: LABORATÓRIOS FERRING LTDA - CNPJ: 74.232.034/0001-48
+
+AUTORIZ/MS: 1028762 - EXPEDIENTE(s): 0939110/25-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica

@@ -1,0 +1,89 @@
+---
+titulo: "RESOLUÇÃO-RE nº 1.985, DE 26 DE MAIO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "1985"
+data: 2025-05-26
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 27/05/2025, seção 1, p. 224"
+data_publicacao: 2025-05-27
+edicao: "98"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.985-de-26-de-maio-de-2025-631930734"
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE nº 1.985, DE 26 DE MAIO DE 2025
+
+RESOLUÇÃO-RE nº 1.985, DE 26 DE MAIO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução de Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+TRANSLOGMED SUL ARMAZENAGEM E TRANSPORTES LTDA / 26.089.319/0001-29
+
+25351.069142/2025-07 / 1408046
+
+ARMAZENAR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+761 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - ARMAZENADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0590128256
+
+--------------------------------------
+
+NOTOS TRANSPORTE E LOGISTICA LTDA / 30.091.747/0002-44
+
+25351.065006/2025-30 / 1406582
+
+TRANSPORTAR: MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0567113256
+
+--------------------------------------
+
+BAMED DISTRIBUIDORA DE MEDICAMENTOS LTDA / 58.941.290/0001-58
+
+25351.069192/2025-86 / 1406807
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0590490257
+
+--------------------------------------
+
+MAISVIDA DISTRIBUIDORA DE MATERIAL MEDICO HOSPITALAR LTDA / 44.205.333/0001-22
+
+25351.053246/2025-91 / 1408094
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0481081259
+
+--------------------------------------
+
+TOTAL MED COMERCIO DE PRODUTOS HOSPITALAR LTDA / 22.085.155/0001-00
+
+25351.043879/2025-91 / 1408063
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0402343255

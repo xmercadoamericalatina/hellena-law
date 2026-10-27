@@ -1,0 +1,411 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 1.980, DE 14 DE MAIO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/3ª Diretoria/Gerência-Geral de Cosméticos e Saneantes"
+tipo: "Resolução"
+numero: "1980"
+data: 2026-05-14
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 18/05/2026, seção 1, p. 235"
+data_publicacao: 2026-05-18
+edicao: "91"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-1.980-de-14-de-maio-de-2026-706285898"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE Nº 1.980, DE 14 DE MAIO DE 2026
+
+RESOLUÇÃO-RE Nº 1.980, DE 14 DE MAIO DE 2026
+
+O GERENTE-GERAL DE COSMÉTICOS E SANEANTES DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 129, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Deferir os registros e as petições dos produtos de higiene pessoal, cosméticos e perfumes, conforme relação anexa.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+BRUNO GONÇALVES ARAÚJO RIOS
+
+## ANEXO
+
+NOME DA EMPRESA / CNPJ
+
+NOME DO PRODUTO E MARCA
+
+NÚMERO DO PROCESSO / REGISTRO
+
+PETIÇÃO(ÕES) / EXPEDIENTE(S)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+AXIGRAM LABORATORIO LTDA - ME / 15.435.515/0001-91
+
+SOLLIZ PROTETOR SOLAR FPS 60 SEM COR BIODAILY
+
+25351.013985/2026-21 / 270200018
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0071409/26-2
+
+--------------------------------------
+
+BOTICA COMERCIAL FARMACEUTICA LTDA. / 77.388.007/0001-57
+
+BOTI.SUN PROTETOR SOLAR CORPORAL FPS 30
+
+25351.059199/2022-47 / 205441600
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 1073853/25-0
+
+--------------------------------------
+
+C & R IND COM COSMETICOS LTDA / 00.700.191/0001-02
+
+Hair & Skin Works Cosmetics FPS 60
+
+25351.241454/2025-46 / 224640159
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1656529/25-4
+
+--------------------------------------
+
+CCD COSM CIENTIFICA DERM COMERCIO E INDUSTRIA LTDA / 40.367.856/0001-14
+
+PHOTOAGE WATER FPS 50 DERMAGE
+
+25351.161732/2020-78 / 217170254
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0467494/25-8
+
+PHOTOAGE WATER FPS 50 DERMAGE
+
+25351.161732/2020-78 / 217170254
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 1300302/25-9
+
+--------------------------------------
+
+CERAS JOHNSON / 33.122.466/0007-04
+
+EXPOSIS EXTREME GEL PARA PELE
+
+25351.047518/2026-03 / 201920540
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0261935/26-7
+
+EXPOSIS INFANTIL SPRAY PARA PELE
+
+25351.051802/2026-76 / 201920541
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0282365/26-5
+
+EXPOSIS EXTREME SPRAY PARA PELE
+
+25351.051841/2026-73 / 201920542
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0282545/26-3
+
+--------------------------------------
+
+CIMED INDUSTRIA S.A / 02.814.497/0001-07
+
+BRONZY FPS 30
+
+25351.238261/2025-16 / 244520026
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1638252/25-4
+
+--------------------------------------
+
+COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. / 61.082.426/0002-07
+
+EPISOL CLARIFY FPS 60 MÉDIO
+
+25351.234103/2025-89 / 200030913
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1615228/25-0
+
+EPISOL CLARIFY FPS 60 MÉDIO ESCURO
+
+25351.234141/2025-31 / 200030914
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1615341/25-1
+
+EPISOL CLARIFY FPS 60
+
+25351.234238/2025-44 / 200030915
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1615502/25-4
+
+EPISOL CLARIFY FPS 60 CLARO
+
+25351.234239/2025-99 / 200030916
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1615503/25-1
+
+--------------------------------------
+
+FARMAX S.A. / 21.759.758/0001-88
+
+PROTETOR SOLAR FACIAL FPS 70 COR 2.0 SUNLESS
+
+25351.004719/2026-16 / 231220219
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0025350/26-9
+
+PROTETOR SOLAR FACIAL FPS 70 COR 4.0 SUNLESS
+
+25351.004722/2026-21 / 231220220
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0025354/26-4
+
+PROTETOR SOLAR FACIAL FPS 70 COR 3.0 SUNLESS
+
+25351.004723/2026-76 / 231220221
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0025355/26-1
+
+--------------------------------------
+
+Francefarma Indústria de Cosméticos ltda / 18.575.413/0001-60
+
+REPMAX FAMILY LOÇÃO REPELENTE DE INSETOS
+
+25351.042650/2026-11 / 278300063
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0235282/26-0
+
+--------------------------------------
+
+GUIRRE INDUSTRIA E COMERCIO DE COSMETICOS LTDA / 03.996.187/0001-13
+
+PROTETOR SOLAR AZ KARLA ALVES
+
+25351.373345/2024-14 / 253270032
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 1072822/25-3
+
+--------------------------------------
+
+LIPSON COSMETICOS LTDA / 61.610.515/0001-06
+
+SALLVE PROTETOR SOLAR BASTÃO COM COR FPS 90 COR 1
+
+25351.350165/2024-56 / 212392871
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0322283/26-4
+
+SALLVE PROTETOR SOLAR BASTÃO COM COR FPS 90 COR 1
+
+25351.350165/2024-56 / 212392871
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0780041/25-9
+
+SALLVE PROTETOR SOLAR BASTÃO COM COR FPS 90 COR 1
+
+25351.350165/2024-56 / 212392871
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 1505101/25-5
+
+SALLVE PROTETOR SOLAR BASTÃO COM COR FPS 90 COR 2
+
+25351.350269/2024-61 / 212392872
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0322284/26-1
+
+SALLVE PROTETOR SOLAR BASTÃO COM COR FPS 90 COR 2
+
+25351.350269/2024-61 / 212392872
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0780120/25-6
+
+SALLVE PROTETOR SOLAR BASTÃO COM COR FPS 90 COR 2
+
+25351.350269/2024-61 / 212392872
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 1505120/25-0
+
+SALLVE PROTETOR SOLAR BASTÃO COM COR FPS 90 COR 4
+
+25351.350303/2024-05 / 212392873
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0322286/26-3
+
+SALLVE PROTETOR SOLAR BASTÃO COM COR FPS 90 COR 4
+
+25351.350303/2024-05 / 212392873
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0780381/25-4
+
+SALLVE PROTETOR SOLAR BASTÃO COM COR FPS 90 COR 4
+
+25351.350303/2024-05 / 212392873
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 1505141/25-7
+
+SALLVE PROTETOR SOLAR BASTÃO COM COR FPS 90 COR 5
+
+25351.350451/2024-11 / 212392874
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0322262/26-7
+
+SALLVE PROTETOR SOLAR BASTÃO COM COR FPS 90 COR 5
+
+25351.350451/2024-11 / 212392874
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0780573/25-1
+
+SALLVE PROTETOR SOLAR BASTÃO COM COR FPS 90 COR 5
+
+25351.350451/2024-11 / 212392874
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 1505179/25-4
+
+SALLVE PROTETOR SOLAR BASTÃO COM COR FPS 90 COR 3
+
+25351.350692/2024-61 / 212392875
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 1505129/25-7
+
+SALLVE PROTETOR SOLAR BASTÃO COM COR FPS 90 COR 8
+
+25351.353302/2024-12 / 212392877
+
+2112 - REG. COSMÉTICOS - Inclusão de apresentação / 0322316/26-0
+
+SALLVE PROTETOR SOLAR BASTÃO COM COR FPS 90 COR 8
+
+25351.353302/2024-12 / 212392877
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0781179/25-4
+
+SALLVE PROTETOR SOLAR BASTÃO COM COR FPS 90 COR 8
+
+25351.353302/2024-12 / 212392877
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 1505249/25-2
+
+--------------------------------------
+
+MAZA 2000 COMERCIO INDUSTRIAL LTDA / 03.316.093/0001-56
+
+ÁLCOOL GEL PARA MÃOS ANTISSÉPTICO CRUZEIRO
+
+25351.729195/2014-05 / 229950019
+
+230 - REG. COSMÉTICOS - Modificação de Fórmula de Produto Registrado - Nacional / 0190767/26-0
+
+ÁLCOOL GEL PARA MÃOS ANTISSÉPTICO CRUZEIRO
+
+25351.729195/2014-05 / 229950019
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0448108/26-7
+
+ÁLCOOL GEL PARA MÃOS ANTISSÉPTICO CRUZEIRO
+
+25351.729195/2014-05 / 229950019
+
+238 - REG. COSMÉTICOS - Revalidação de Registro / 1691518/24-7
+
+--------------------------------------
+
+NATURAL D´GAIA EXPORTAÇÃO INDÚSTRIA E COMÉRCIO DE COSMÉTICOS LTDA - ME / 07.207.505/0001-70
+
+PROTETOR SOLAR INFANTIL FPS 45 KHOR
+
+25351.230471/2025-58 / 241580054
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1596481/25-1
+
+--------------------------------------
+
+NATURELLE IND E COMERCIO DE PRODUTOS NATURAIS LTDA / 48.561.369/0001-08
+
+BIOSOLE MINERALE FPS 60 - ADA TINA
+
+25351.216881/2025-96 / 206640971
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1522642/25-1
+
+BIOSOLE MINERALE FPS 60 - COR 25 VANIGLIA - ADA TINA
+
+25351.216945/2025-59 / 206640972
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1522811/25-7
+
+BIOSOLE MINERALE FPS 60 - COR 35 MIELE - ADA TINA
+
+25351.217084/2025-26 / 206640973
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1523170/25-5
+
+BIOSOLE MINERALE FPS 60 - COR 20 CREMA - ADA TINA
+
+25351.217111/2025-61 / 206640974
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1523210/25-7
+
+BIOSOLE MINERALE FPS 60 - COR 40 BRONZE - ADA TINA
+
+25351.217123/2025-95 / 206640975
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1523234/25-3
+
+--------------------------------------
+
+Oleak Indústria e Comércio Ltda / 61.153.250/0001-56
+
+ÁLCOOL GEL 70° 105
+
+25351.230925/2025-91 / 227250031
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1597600/25-3
+
+--------------------------------------
+
+PROCOSA PRODUTOS DE BELEZA LTDA / 33.306.929/0001-00
+
+CERAVE PROTETOR LOÇÃO INVISÍVEL HIDRATANTE CORPO E ROSTO FAMÍLIA FPS 50
+
+25351.211597/2025-23 / 200704455
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 1497942/25-0
+
+--------------------------------------
+
+R2M DO BRASIL INDUSTRIA DE COSMETICOS LTDA / 24.475.141/0001-29
+
+TCHAU MOSQUITO AEROSSOL REPELENTE DE INSETOS 4 HORAS
+
+25351.508474/2020-06 / 299600002
+
+2721 - REG. COSMÉTICOS - Desistência de petição/processo a pedido / 0355533/26-0
+
+TCHAU MOSQUITO SPRAY REPELENTE DE INSETOS MAMÃE
+
+25351.508529/2020-70 / 299600008
+
+2721 - REG. COSMÉTICOS - Desistência de petição/processo a pedido / 0355598/26-4
+
+TCHAU MOSQUITO LOÇÃO HIDRATANTE REPELENTE DE INSETOS BEBÊ
+
+25351.508567/2020-22 / 299600006
+
+2721 - REG. COSMÉTICOS - Desistência de petição/processo a pedido / 0355546/26-4
+
+--------------------------------------
+
+SAYLUJ INDUSTRIA E COMERCIO LTDA / 03.488.597/0001-53
+
+ATIVADOR DE GUANIDINA GUANIDRAN
+
+25351.008097/2026-97 / 230900051
+
+2731 - REG. COSMÉTICOS - Registro de produtos cosméticos / 0041632/26-5
+
+--------------------------------------
+
+VR MEDICAL IMPORTADORA E DISTRIBUIDORA DE PRODUTOS MÉDICOS LTDA / 04.718.143/0001-94
+
+Sil2U® SPRAY REPELENTE DE INSETOS
+
+25351.226996/2023-27 / 235660082
+
+289 - REG. COSMÉTICOS - Alteração de Rotulagem de Produto Registrado / 0240300/26-2

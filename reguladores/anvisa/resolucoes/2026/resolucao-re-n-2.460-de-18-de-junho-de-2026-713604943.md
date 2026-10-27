@@ -1,0 +1,219 @@
+---
+titulo: "RESOLUÇÃO-RE nº 2.460, DE 18 DE JUNHO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "2460"
+data: 2026-06-18
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 22/06/2026, seção 1, p. 118"
+data_publicacao: 2026-06-22
+edicao: "114"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.460-de-18-de-junho-de-2026-713604943"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 2.460, DE 18 DE JUNHO DE 2026
+
+RESOLUÇÃO-RE nº 2.460, DE 18 DE JUNHO DE 2026
+
+A GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021;
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Distribuição e/ou Armazenagem preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Renovar a Certificação de Boas Práticas de Distribuição e/ou Armazenagem de Medicamentos para a(s) empresa(s) constante(s) no ANEXO.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RENATA DE LIMA SOARES
+
+## ANEXO
+
+EMPRESA: FAMA DISTRIBUIDORA HOSPITALAR LTDA - ME - CNPJ: 03.250.803/0001-92 - AUTORIZ/MS: 1158461
+
+ENDEREÇO: R PROFESSOR JOÃO FELIX, 635 SALA 07
+
+MUNICÍPIO: CUIABÁ - UF: MT - EXPEDIENTE: 0046137/26-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 11/07/2030
+
+.........................................
+
+EMPRESA: PHARMAPLUS LTDA - CNPJ: 03.817.043/0001-52 - AUTORIZ/MS: 1074906
+
+ENDEREÇO: RUA JOÃO DOMINGOS SOBRINHO Nº 91
+
+MUNICÍPIO: AFOGADOS DA INGAZEIRA - UF: PE - EXPEDIENTE: 0086761/26-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 11/07/2030
+
+.........................................
+
+EMPRESA: MOKSHA8 BRASIL INDUSTRIA E COMERCIO DE MEDICAMENTOS LTDA - CNPJ: 07.591.326/0004-22 - AUTORIZ/MS:
+
+ENDEREÇO: Rua Vereador Germano Luiz Vieira, n.º 500 Armazém 03 sala 13
+
+MUNICÍPIO: ITAJAÍ - UF: SC - EXPEDIENTE: 1626344/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 22/08/2030
+
+.........................................
+
+EMPRESA: ASCLE BRASIL LTDA - CNPJ: 28.911.309/0001-52 - AUTORIZ/MS: 1172782
+
+ENDEREÇO: RUA SERRA NEGRA, 78 - GALPÃO 02
+
+MUNICÍPIO: GUARAPARI - UF: ES - EXPEDIENTE: 0367121/26-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 24/10/2030
+
+.........................................
+
+EMPRESA: pinex logistic solution ltda - CNPJ: 30.104.500/0001-34 - AUTORIZ/MS: 1179551
+
+ENDEREÇO: Rua AV. DAS NAÇÕES UNIDAS 21476 GALPÃO P06
+
+MUNICÍPIO: SÃO PAULO - UF: SP - EXPEDIENTE: 0478590/26-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 11/07/2030
+
+.........................................
+
+EMPRESA: COLLECT IMPORTAÇÃO E COMÉRCIO LTDA - CNPJ: 53.452.157/0001-14 - AUTORIZ/MS: 1051895
+
+ENDEREÇO: RUA JOSEFINA n° 200 CONJ 311
+
+MUNICÍPIO: GUARULHOS - UF: SP - EXPEDIENTE: 0016041/26-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 26/09/2030
+
+.........................................
+
+EMPRESA: ASTELLAS FARMA BRASIL IMPORTAÇÃO E DISTRIBUIÇÃO DE MEDICAMENTOS LTDA. - CNPJ: 07.768.134/0001-04 - AUTORIZ/MS: 1077171
+
+ENDEREÇO: AVENIDA GUIDO CALOI 1935 BLOCO B 2 ANDAR
+
+MUNICÍPIO: SÃO PAULO - UF: SP - EXPEDIENTE: 0231852/26-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 12/09/2030
+
+.........................................
+
+EMPRESA: PINEX COMERCIAL IMPORTADORA E SERVICOS LTDA - CNPJ: 15.448.112/0001-87 - AUTORIZ/MS: 1180848
+
+ENDEREÇO: Avenida DAS NACOES UNIDAS 21476 GALPÃO P.06-B
+
+MUNICÍPIO: SÃO PAULO - UF: SP - EXPEDIENTE: 0478546/26-2
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 01/08/2030
+
+.........................................
+
+EMPRESA: Mawdsleys Pharmaceuticals do Brasil Ltda - CNPJ: 19.501.429/0002-71 - AUTORIZ/MS:
+
+ENDEREÇO: ROD BR 101, 12750, KM 124 400 GALPAO 67/68
+
+MUNICÍPIO: ITAJAÍ - UF: SC - EXPEDIENTE: 0025836/26-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 11/07/2030
+
+.........................................
+
+EMPRESA: UNITED MEDICAL LTDA - CNPJ: 68.949.239/0001-46 - AUTORIZ/MS: 1025762
+
+ENDEREÇO: AVENIDA DOS IMARES, Nº 401
+
+MUNICÍPIO: SÃO PAULO - UF: SP - EXPEDIENTE: 0122305/26-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 12/09/2030
+
+.........................................
+
+EMPRESA: Besins Healthcare Brasil Comercial e Distribuidora de Medicamentos Ltda - CNPJ: 11.082.598/0003-93 - AUTORIZ/MS: 1087593
+
+ENDEREÇO: Avenida Monte Libano (LOT M II P I Logistico), 1481, Anexo 1507
+
+MUNICÍPIO: JUNDIAÍ - UF: SP - EXPEDIENTE: 0139494/26-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 15/08/2030
+
+.........................................
+
+EMPRESA: SOGAMAX DISTRIBUIDORA DE PRODUTOS FARMACEUTICOS LTDA - CNPJ: 00.857.492/0001-36 - AUTORIZ/MS: 1093033
+
+ENDEREÇO: Rua José Peres Ximenes, 78
+
+MUNICÍPIO: CARDOSO MOREIRA - UF: RJ - EXPEDIENTE: 1603012/25-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 13/09/2029
+
+.........................................
+
+EMPRESA: PRODUTOS ROCHE QUÍMICOS E FARMACÊUTICOS S.A - CNPJ: 33.009.945/0002-04 - AUTORIZ/MS:
+
+ENDEREÇO: EST MUNICIPAL, SN QUADRALOTE LOTE 001C ANEXO PARTE 6
+
+MUNICÍPIO: APARECIDA DE GOIÂNIA - UF: GO - EXPEDIENTE: 1596584/25-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 18/07/2030
+
+.........................................
+
+EMPRESA: ZALIKA FARMACEUTICA LTDA - CNPJ: 29.536.205/0001-78 - AUTORIZ/MS: 1185754
+
+ENDEREÇO: Rua Chopin, 33, Mezanino 3, Sala 3
+
+MUNICÍPIO: CONTAGEM - UF: MG - EXPEDIENTE: 0308431/26-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 10/10/2030
+
+.........................................
+
+EMPRESA: ATIVA DISTRIBUIÇÃO E LOGISTICA LTDA - CNPJ: 01.125.797/0024-02 - AUTORIZ/MS:
+
+ENDEREÇO: ROD. CORONEL POLICIA MILITAR NELSON TRANCHESI, 740 GALPAO 17 AO 23 BLOCO 300
+
+MUNICÍPIO: ITAPEVI - UF: SP - EXPEDIENTE: 0373883/26-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 20/06/2030
+
+.........................................
+
+EMPRESA: GUARIA COMERCIO E REPRESENTAÇÃO DE PRODUTOS HOSPITALARES LTDA - CNPJ: 32.181.809/0001-53 - AUTORIZ/MS: 1193993
+
+ENDEREÇO: RUA TEOFILO OTONI. Nº 169
+
+MUNICÍPIO: CAMPO GRANDE - UF: MS - EXPEDIENTE: 0231749/26-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE DISTRIBUIÇÃO E/OU ARMAZENAGEM: Medicamentos
+
+Data de Vencimento: 20/06/2030

@@ -1,0 +1,105 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 2.145, DE 6 de junho DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/2ª Diretoria/Gerência-Geral de Medicamentos"
+tipo: "Resolução"
+numero: "2145"
+data: 2025-06-06
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 09/06/2025, seção 1, p. 182"
+data_publicacao: 2025-06-09
+edicao: "107"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-2.145-de-6-de-junho-de-2025-634729864"
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO-RE Nº 2.145, DE 6 de junho DE 2025
+
+RESOLUÇÃO-RE Nº 2.145, DE 6 de junho DE 2025
+
+O GERENTE-GERAL DE MEDICAMENTOS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 100, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º** Indeferir petições relacionadas à Gerência-Geral de Medicamentos, conforme anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+RAPHAEL SANCHES PEREIRA
+
+## ANEXO
+
+NOME DA EMPRESA CNPJ
+
+PRINCIPIO(S) ATIVO(S)
+
+NOME DO PRODUTO NUMERO DO PROCESSO VENCIMENTO DA AUTORIZAÇÃO SANITÁRIA
+
+ASSUNTO DA PETIÇÃO EXPEDIENTE
+
+AUTORIZAÇÃO SANITÁRIA VALIDADE
+
+APRESENTAÇÃO DO PRODUTO
+
+---------------------------------------------------
+
+BIONATUS LABORATÓRIO BOTÂNICO LTDA 68032192000151
+
+AESCULUS HIPPOCASTANUM L.
+
+MRX VARIVASUS 25351.355770/2024-13 06/2035
+
+10487 MEDICAMENTO FITOTERÁPICO - REGISTRO DE MEDICAMENTO - CLONE 0806113/24-1
+
+(122 REGISTRO DE MEDICAMENTO FITOTERÁPICO TRADICIONAL - 041210/02-4 - 25000.011971/92-06)
+
+280 MG COM REV CT BL AL PLAS INC X 30
+
+280 MG COM REV CT BL AL PLAS INC X 45
+
+280 MG COM REV CT BL AL PLAS INC X 60
+
+170 MG COM REV CT BL AL PLAS INC X 30
+
+170 MG COM REV CT BL AL PLAS INC X 45
+
+170 MG COM REV CT BL AL PLAS INC X 60
+
+170 MG COM REV CT BL AL PLAS INC X 40
+
+170 MG COM REV CT BL AL PLAS INC X 50
+
+170 MG COM REV CT BL AL PLAS INC X 90
+
+170 MG COM REV DISP 18 BL AL PLAS INC X 4
+
+170 MG COM REV DISP 18 BL AL PLAS INC X 15
+
+170 MG COM REV DISP 18 BL AL PLAS INC X 8
+
+170 MG COM REV DISP 70 BL AL PLAS INC X 15
+
+---------------------------------------------------
+
+BIOLAB SANUS FARMACÊUTICA LTDA 49475833000106
+
+estradiol hemi-hidratado + acetato de noretisterona 25351.070472/2025-37 06/2035
+
+155 GENERICO - REGISTRO DE MEDICAMENTO 0601573/25-5
+
+(1 + 0,5) MG COM REV CT BL AL PLAS PVC/PVDC TRANS CALEND X 28
+
+(1 + 0,5) MG COM REV CT BL AL PLAS PVC/PVDC TRANS CALEND X 84
+
+dimenidrinato 25351.070474/2025-26 06/2035
+
+155 GENERICO - REGISTRO DE MEDICAMENTO 0601579/25-4
+
+25 MG CAP MOLE CT BL AL PLAS PVC/PVDC TRANS X 4
+
+25 MG CAP MOLE CT BL AL PLAS PVC/PVDC TRANS X 10
+
+25 MG CAP MOLE CT BL AL PLAS PVC/PVDC TRANS X 20
+
+25 MG CAP MOLE CT BL AL PLAS PVC/PVDC TRANS X 100
+
+25 MG CAP MOLE CT BL AL PLAS PVC/PVDC TRANS X 100 (EMB FRAC)
+
+25 MG CAP MOLE CT BL AL PLAS PVC/PVDC TRANS X 200 (EMB FRAC)

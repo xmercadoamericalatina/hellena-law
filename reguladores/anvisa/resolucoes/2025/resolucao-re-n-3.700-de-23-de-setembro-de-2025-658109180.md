@@ -1,0 +1,96 @@
+---
+titulo: "RESOLUÇÃO-RE Nº 3.700, DE 23 de SETEMBRO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3700"
+data: 2025-09-23
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/09/2025, seção 1, p. 166"
+data_publicacao: 2025-09-24
+edicao: "182"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.700-de-23-de-setembro-de-2025-658109180"
+baixado_em: 2026-10-16
+sha256_html_fonte: 7e3d9a33b8e47cd1ddc899eebcda2b945fd2a21a8ebe992114371364c61d4d98
+---
+# RESOLUÇÃO-RE Nº 3.700, DE 23 de SETEMBRO DE 2025
+
+RESOLUÇÃO-RE Nº 3.700, DE 23 de SETEMBRO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+VEDEA PESQUISA CLINICA LTDA / 57.227.227/0001-91
+
+25351.168919/2025-15 / 1415887
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: MEDICAMENTO
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 1246286254
+
+--------------------------------------
+
+REAL E BENEMERITA ASSOCIACAO PORTUGUESA DE BENEFICENCIA / 61.599.908/0015-53
+
+25351.170178/2025-24 / 1416206
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: MEDICAMENTO
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 1259417255
+
+--------------------------------------
+
+ONCO STAR SP ONCOLOGIA LTDA / 28.290.788/0002-18
+
+25351.167876/2025-42 / 1415839
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: MEDICAMENTO
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 1236924258
+
+--------------------------------------
+
+HOSPITAIS INTEGRADOS DA GAVEA S/A / 31.635.857/0006-16
+
+25351.168044/2025-43 / 1415842
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: MEDICAMENTO
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 1237834252
+
+--------------------------------------
+
+FUNDACAO FACULDADE REGIONAL DE MEDICINA S J RIO PRETO / 60.003.761/0025-04
+
+25351.170167/2025-44 / 1416024
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: MEDICAMENTO
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 1259402258
+
+--------------------------------------
+
+FUNDACAO ANTONIO PRUDENTE / 60.961.968/0001-06
+
+25351.165789/2025-51 / 1416181
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: MEDICAMENTO
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 1224511255
+
+--------------------------------------
+
+CASA DE SAUDE SANTA MARCELINA / 60.742.616/0001-60
+
+25351.166986/2025-97 / 1416194
+
+LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA: MEDICAMENTO
+
+70309 - AE - CONCESSÃO - LABORATÓRIOS OU INSTITUIÇÕES DE PESQUISA (EXCETO INDÚSTRIA E FARMÁCIA DE MANIPULAÇÃO) / 1232989258

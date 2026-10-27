@@ -1,0 +1,113 @@
+---
+titulo: "RESOLUÇÃO-RE nº 115, DE 12 DE JANEIRO DE 2026"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "115"
+data: 2026-01-12
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 13/01/2026, seção 1, p. 59"
+data_publicacao: 2026-01-13
+edicao: "8"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-115-de-12-de-janeiro-de-2026-680680779"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO-RE nº 115, DE 12 DE JANEIRO DE 2026
+
+RESOLUÇÃO-RE nº 115, DE 12 DE JANEIRO DE 2026
+
+A COORDENADORA SUBSTITUTA DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+TACIANE PIMENTEL DA SILVA
+
+## ANEXO
+
+F. A. SINERGIA FARMACEUTICA LTDA / 59.476.438/0001-93
+
+25351.238908/2025-00 / 1422431
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1642802255
+
+--------------------------------------
+
+MILFARMA COMERCIAL LTDA / 08.241.229/0004-72
+
+25351.000956/2026-08 / 1422782
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0004610261
+
+--------------------------------------
+
+CENTRO DE DISTRIBUICAO SMALLFARMA LTDA / 11.116.966/0001-05
+
+25351.218476/2025-11 / 1423129
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 1529585252
+
+--------------------------------------
+
+DAYTONA EXPRESS SERVICOS DE DOCUMENTOS E ENCOM URG LTDA / 00.580.312/0001-11
+
+25351.000979/2026-12 / 1422811
+
+TRANSPORTAR: MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0004701267
+
+--------------------------------------
+
+GEORGES DANIEL BEIRIGO DE BESSAS / 59.420.669/0001-85
+
+25351.241602/2025-22 / 1422688
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1657464253
+
+--------------------------------------
+
+VITALITTE FARMACIA DE MANIPULACAO LTDA / 39.730.229/0001-17
+
+25351.238010/2025-23 / 1422322
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1637019254
+
+--------------------------------------
+
+IBT INTERMODAL BRASIL TRANSPORTES LTDA / 52.480.108/0001-22
+
+25351.000490/2026-32 / 1422751
+
+TRANSPORTAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+7176 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - TRANSPORTADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0002220261
+
+--------------------------------------
+
+OFICIALMED LONDRINA LTDA / 59.060.670/0001-46
+
+25351.241355/2025-64 / 1422657
+
+MANIPULAR: INSUMOS FARMACÊUTICOS
+
+705 - AE - CONCESSÃO - FARMÁCIA DE MANIPULAÇÃO / 1655859251

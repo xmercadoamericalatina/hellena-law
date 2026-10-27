@@ -1,0 +1,198 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.326, DE 28 DE AGOSTO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária"
+tipo: "Resolução"
+numero: "3326"
+data: 2025-08-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 01/09/2025, seção 1, p. 175"
+data_publicacao: 2025-09-01
+edicao: "165"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.326-de-28-de-agosto-de-2025-652051540"
+baixado_em: 2026-10-16
+sha256_html_fonte: bb6a8d75a4c96e266f406ecabac6651a5a7cbf2f4f66acf57b914289e01685e8
+---
+# RESOLUÇÃO-RE nº 3.326, DE 28 DE AGOSTO DE 2025
+
+RESOLUÇÃO-RE nº 3.326, DE 28 DE AGOSTO DE 2025
+
+O GERENTE-GERAL DE INSPEÇÃO E FISCALIZAÇÃO SANITÁRIA DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 140, aliado ao art. 203, I, § 1º do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC nº 585, de 10 de dezembro de 2021;
+
+Considerando o cumprimento dos requisitos de Boas Práticas de Fabricação preconizados em legislação vigente, para a área de Medicamentos, resolve:
+
+**Art. 1º** Renovar a Certificação de Boas Práticas de Fabricação de Medicamentos das empresas constantes no anexo.
+
+**Art. 2º** Esta Resolução entra em vigor na data de 28 de agosto de 2025.
+
+Marcus Aurélio Miranda de Araújo
+
+## ANEXO
+
+EMPRESA FABRICANTE: FERTIN PHARMA A/S
+
+ENDEREÇO: DANDYVEJ 19, VEJLE, 7100, DENMARK - PAÍS: DINAMARCA - CÓDIGO ÚNICO: A.001513
+
+EMPRESA SOLICITANTE: FARMOQUÍMICA S/A - CNPJ: 33.349.473/0001-58
+
+AUTORIZ/MS: 1003906 - EXPEDIENTE(s): 0262739/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Gomas de Mascar
+
+Data de vencimento: 28/08/2027
+
+.........................................
+
+EMPRESA FABRICANTE: ATLANTIC PHARMA - PRODUÇÕES FARMACÊUTICAS, S.A.
+
+ENDEREÇO: RUA DA TAPADA GRANDE, Nº 2, ABRUNHEIRA, SINTRA, 2710-089 - PAÍS: PORTUGAL - CÓDIGO ÚNICO: A.000885
+
+EMPRESA SOLICITANTE: COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. - CNPJ: 61.082.426/0002-07
+
+AUTORIZ/MS: 1078177 - EXPEDIENTE(s): 0104774/25-8
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos; Comprimidos Revestidos; Cápsulas
+
+Data de vencimento: 28/08/2027
+
+.........................................
+
+EMPRESA FABRICANTE: ALMAC PHARMA SERVICES LLC
+
+ENDEREÇO: 2661 AUDUBON ROAD,AUDUBON,PA 19403 - PAÍS: ESTADOS UNIDOS DA AMÉRICA - CÓDIGO ÚNICO: A.001487
+
+EMPRESA SOLICITANTE: VERTEX FARMACEUTICA DO BRASIL LTDA. - CNPJ: 21.798.065/0001-02
+
+AUTORIZ/MS: 1138239 - EXPEDIENTE(s): 0152263/25-0
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Embalagem primária; Embalagem secundária): Granulados
+
+Data de vencimento: 28/08/2027
+
+.........................................
+
+EMPRESA FABRICANTE: TAKEDA GMBH
+
+ENDEREÇO: LEHNITZSTRASSE 70-98, 16515 ORANIENBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000451
+
+EMPRESA SOLICITANTE: TAKEDA PHARMA LTDA. - CNPJ: 60.397.775/0001-74
+
+AUTORIZ/MS: 1006398 - EXPEDIENTE(s): 0211339/25-3
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos Revestidos; Cápsulas
+
+Data de vencimento: 28/08/2027
+
+.........................................
+
+EMPRESA FABRICANTE: MYLAN LABORATORIES LIMITED [OTL]
+
+ENDEREÇO: PLOT N° 284-B, BOMMASANDRA, JIGANI LINK ROAD, INDUSTRIAL AREA, ANEKAL TALUK, BANGALORE, 560 105 - PAÍS: ÍNDIA - CÓDIGO ÚNICO: A.000463
+
+EMPRESA SOLICITANTE: LIBBS FARMACÊUTICA LTDA - CNPJ: 61.230.314/0001-75
+
+AUTORIZ/MS: 1000333 - EXPEDIENTE(s): 0234690/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Pequeno Volume com Esterilização Terminal
+
+Data de vencimento: 28/08/2027
+
+.........................................
+
+EMPRESA FABRICANTE: VETTER PHARMA-FERTIGUNG GMBH & CO. KG.
+
+ENDEREÇO: MOOSWIESEN 2, 88214, RAVENSBURG - PAÍS: ALEMANHA - CÓDIGO ÚNICO: A.000624
+
+EMPRESA SOLICITANTE: EISAI LABORATÓRIOS LTDA - CNPJ: 08.416.362/0001-70
+
+AUTORIZ/MS: 1073104 - EXPEDIENTE(s): 0234636/25-4
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Granel): Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de vencimento: 28/08/2027
+
+.........................................
+
+EMPRESA FABRICANTE: CATALENT ANAGNI SRL
+
+ENDEREÇO: LOC. FONTANA DEL CERASO SNC - STRADA PROVINCIALE 12 CASILINA N. 41 - 03012, ANAGNI (FR) - PAÍS: ITÁLIA - CÓDIGO ÚNICO: A.000126
+
+EMPRESA SOLICITANTE: EISAI LABORATÓRIOS LTDA - CNPJ: 08.416.362/0001-70
+
+AUTORIZ/MS: 1073104 - EXPEDIENTE(s): 0234624/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis (Embalagem secundária)
+
+Data de vencimento: 28/08/2027
+
+.........................................
+
+EMPRESA FABRICANTE: OCTAPHARMA PHARMAZEUTIKA PRODUKTIONSGES MBH
+
+ENDEREÇO: OBERLAAER STRASSE 235, A-1100 VIENA - PAÍS: ÁUSTRIA - CÓDIGO ÚNICO: A.000456
+
+EMPRESA SOLICITANTE: EMPRESA BRASILEIRA DE HEMODERIVADOS E BIOTECNOLOGIA - CNPJ: 07.607.851/0001-46
+
+AUTORIZ/MS: 1093047 - EXPEDIENTE(s): 0052657/25-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Produtos estéreis: Pós Liofilizados; Soluções Parenterais de Grande Volume com Preparação Asséptica; Soluções Parenterais de Pequeno Volume com Preparação Asséptica
+
+Data de vencimento: 28/08/2027
+
+.........................................
+
+EMPRESA FABRICANTE: PATHEON INC.
+
+ENDEREÇO: 111 CONSUMERS DRIVE, WHITBY, ONTARIO L1N - 5Z5 - PAÍS: CANADÁ - CÓDIGO ÚNICO: A.000475
+
+EMPRESA SOLICITANTE: ORGANON FARMACÊUTICA LTDA. - CNPJ: 45.987.013/0001-34
+
+AUTORIZ/MS: 1000290 - EXPEDIENTE(s): 1684845/24-6
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis (Granel): Comprimidos
+
+Data de vencimento: 28/08/2027
+
+.........................................
+
+EMPRESA FABRICANTE: ORGANON HEIST BV
+
+ENDEREÇO: INDUSTRIEPARK 30, HEIST-OP-DEN-BERG, 2220 - PAÍS: BÉLGICA - CÓDIGO ÚNICO: A.000565
+
+EMPRESA SOLICITANTE: ORGANON FARMACÊUTICA LTDA. - CNPJ: 45.987.013/0001-34
+
+AUTORIZ/MS: 1000290 - EXPEDIENTE(s): 1685368/24-7
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Líquidos não estéreis: Suspensões
+
+Data de vencimento: 28/08/2027
+
+.........................................
+
+EMPRESA FABRICANTE: ATLANTIC PHARMA - PRODUÇÕES FARMACÊUTICAS, S.A.
+
+ENDEREÇO: RUA DA TAPADA GRANDE, Nº 2, ABRUNHEIRA, SINTRA, 2710-089 - PAÍS: PORTUGAL - CÓDIGO ÚNICO: A.000885
+
+EMPRESA SOLICITANTE: ABBOTT LABORATÓRIOS DO BRASIL LTDA - CNPJ: 56.998.701/0001-16
+
+AUTORIZ/MS: 1005531 - EXPEDIENTE(s): 0043390/25-1
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Cápsulas
+
+Data de vencimento: 28/08/2027
+
+.........................................
+
+EMPRESA FABRICANTE: BALKANPHARMA-DUPNITSA AD
+
+ENDEREÇO: 3 SAMOKOVSKO SHOSSE STREET, DUPNITSA, 2600 - PAÍS: BULGÁRIA - CÓDIGO ÚNICO: A.001017
+
+EMPRESA SOLICITANTE: COSMED INDUSTRIA DE COSMETICOS E MEDICAMENTOS S.A. - CNPJ: 61.082.426/0002-07
+
+AUTORIZ/MS: 1078177 - EXPEDIENTE(s): 0210898/25-9
+
+CERTIFICADO DE BOAS PRÁTICAS DE FABRICAÇÃO DE MEDICAMENTOS: Sólidos não estéreis: Comprimidos Revestidos
+
+Data de vencimento: 28/08/2027
+
+.........................................

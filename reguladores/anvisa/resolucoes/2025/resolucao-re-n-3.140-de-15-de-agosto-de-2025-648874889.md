@@ -1,0 +1,104 @@
+---
+titulo: "RESOLUÇÃO-RE nº 3.140, DE 15 DE AGOSTO DE 2025"
+orgao: "Ministério da Saúde/Agência Nacional de Vigilância Sanitária/4ª Diretoria/Gerência-Geral de Inspeção e Fiscalização Sanitária/Coordenação de Autorização de Funcionamento de Empresas"
+tipo: "Resolução"
+numero: "3140"
+data: 2025-08-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/08/2025, seção 1, p. 108"
+data_publicacao: 2025-08-18
+edicao: "155"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-re-n-3.140-de-15-de-agosto-de-2025-648874889"
+baixado_em: 2026-10-16
+sha256_html_fonte: 43988399fd6f68d7b6776e51a217b9f2feebf4b26ddb288fe921fc74e6c3ecc8
+---
+# RESOLUÇÃO-RE nº 3.140, DE 15 DE AGOSTO DE 2025
+
+RESOLUÇÃO-RE nº 3.140, DE 15 DE AGOSTO DE 2025
+
+O COORDENADOR DE AUTORIZAÇÃO DE FUNCIONAMENTO DE EMPRESAS DA AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA, no uso das atribuições que lhe confere o art. 144, aliado ao art. 203, I, §1° do Regimento Interno aprovado pela Resolução da Diretoria Colegiada - RDC n° 585, de 10 de dezembro de 2021, resolve:
+
+**Art. 1º.** Conceder Autorização Especial para Empresas de Medicamentos e de Insumos Farmacêuticos, constantes no anexo desta Resolução, de acordo com a Portaria n°. 344, de 12 de maio de 1998 e suas atualizações, observando-se as proibições e restrições estabelecidas.
+
+**Art. 2º** Esta Resolução entra em vigor na data de sua publicação.
+
+DANIEL MARCOS PEREIRA DOURADO
+
+## ANEXO
+
+CORREA HOSPITALAR COMERCIO E MANUTENCAO DE INSTRUMENTOS MEDICOS LTDA / 29.696.867/0001-05
+
+25351.119247/2025-14 / 1410754
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0918561256
+
+--------------------------------------
+
+VADAIT PHARMA IMPORTACAO E DISTRIBUICAO DE MEDICAMENTOS LTDA / 57.355.690/0001-19
+
+25351.128673/2025-31 / 1411595
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0973186259
+
+--------------------------------------
+
+Clínica Médica São Germno S/S Ldta / 59.843.888/0001-77
+
+25351.126027/2025-39 / 1413153
+
+OUTRAS: -
+
+70753 - AE - CONCESSÃO - OUTROS PRODUTOS OU SUBSTÂNCIAS SUJEITOS AO CONTROLE ESPECIAL (Portaria nº 344/98), EXCETO MEDICAMENTOS E INSUMOS FARMACÊUTICOS / 0960999256
+
+--------------------------------------
+
+VITAMEDIC INDUSTRIA FARMACEUTICA LTDA / 30.222.814/0005-65
+
+25351.119257/2025-41 / 1410768
+
+ARMAZENAR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+761 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - ARMAZENADORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0918596254
+
+--------------------------------------
+
+MEDSOL DISTRIBUIDORA DE MEDICAMENTOS LTDA / 39.536.330/0002-12
+
+25351.127448/2025-87 / 1411533
+
+ARMAZENAR: MEDICAMENTO
+
+DISTRIBUIR: MEDICAMENTO
+
+EXPEDIR: MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0967368251
+
+--------------------------------------
+
+g oliveira representaçoes serviços e comercio ltda / 26.905.148/0002-40
+
+25351.127118/2025-91 / 1413167
+
+ARMAZENAR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+DISTRIBUIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+EXPEDIR: INSUMOS FARMACÊUTICOS / MEDICAMENTO
+
+704 - AE - CONCESSÃO - MEDICAMENTOS E INSUMOS FARMACÊUTICOS - DISTRIBUIDORA DO PRODUTO SUJEITO A CONTROLE ESPECIAL / 0966105257
