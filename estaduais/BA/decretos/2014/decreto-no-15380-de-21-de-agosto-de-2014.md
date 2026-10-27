@@ -1,0 +1,47 @@
+---
+titulo: "Decreto nº 15380, de 21/08/2014"
+uf: "BA"
+tipo: "Decreto"
+numero: "15380"
+data: 2014-08-21
+ementa: "Declara de utilidade pública, para fins de constituição de servidão administrativa, a área de terra que indica."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-15380-de-21-de-agosto-de-2014"
+baixado_em: 2026-10-16
+---
+# Decreto nº 15380, de 21/08/2014
+
+DECRETO Nº 15.380 DE 21 DE AGOSTO DE 2014
+
+Declara de utilidade pública, para fins de constituição de servidão administrativa, a área de terra que indica.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, à vista do disposto no art. 105, inciso V, da Constituição Estadual, no art. 5º, alínea "h", combinados com o art. 40, ambos do Decreto-Lei nº 3.365, de 21 de junho de 1941 e alterações posteriores, e do que consta do Processo nº 1420140056750, da Companhia de Engenharia Ambiental e Recursos Hídricos da Bahia - CERB,
+
+D E C R E T A
+
+**Art. 1º** - Ficam declaradas de utilidade pública, para fins de constituição de servidão administrativa, as áreas de terra, com as acessões e benfeitorias nelas existentes, totalizando 8.079,36m², pertencentes a quem de direito, situadas no Município de Euclides da Cunha - Bahia, abrangendo a localidade de Tinguí, conforme estudos e projetos realizados pela Companhia de Engenharia Ambiental e Recursos Hídricos da Bahia - CERB, e coordenadas constantes dos Anexos I e II deste Decreto.
+
+**Parágrafo único** - As áreas de terra de que trata este artigo destinam-se à Implantação do Sistema Integrado de Abastecimento de Água Tucano Noroeste, na localidade Tinguí, no Município de Euclides da Cunha - Bahia.
+
+**Art. 2º** - Fica a Companhia de Engenharia Ambiental e Recursos Hídricos da Bahia - CERB, vinculada à Secretaria do Meio Ambiente, autorizada a promover os atos administrativos e judiciais, se necessário em caráter de urgência, com vistas à efetivação da constituição de servidão administrativa de que trata este Decreto, e a imitir-se na posse respectiva, providenciando, inclusive, a liquidação e o pagamento da indenização, utilizando-se, para tanto, dos recursos de que dispuser.
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 21 de agosto de 2014.
+
+JAQUES WAGNER
+
+Governador
+
+Carlos Mello
+
+Secretário da Casa Civil em exercício
+
+Eugênio Spengler
+
+Secretário do Meio Ambiente
+
+<table> <tbody> <tr> <td colspan="6"> <p><strong>ANEXO I</strong></p> <p>Cálculo Analítico de Área, Azimute, Lados, Coordenadas Geográficas e UTM</p> <p>IMÓVEL: FAIXA DE ADUTORA</p> <p>MUNICÍPIO: EUCLIDES DA CUNHA</p> <p>LOCALIDADE: TINGUÍ</p> <p>DATUM: SIRGAS 2000</p> <p>MERID. CENTRAL: 39º W</p> </td> </tr> <tr> <td> <p>Estação</p> </td> <td> <p>Vante</p> </td> <td> <p>Coord. Norte(m)</p> </td> <td> <p>Coord. Este(m)</p> </td> <td> <p>Azimute</p> </td> <td> <p>Distância(m)</p> </td> </tr> <tr> <td> <p>M 01</p> </td> <td> <p>M 02</p> </td> <td> <p>8838651.17</p> </td> <td> <p>500674.67</p> </td> <td> <p>113º14'27"</p> </td> <td> <p>90,28</p> </td> </tr> <tr> <td> <p>M 02</p> </td> <td> <p>M 03</p> </td> <td> <p>8838615.55</p> </td> <td> <p>500757.63</p> </td> <td> <p>87º35'59"</p> </td> <td> <p>140,18</p> </td> </tr> <tr> <td> <p>M 03</p> </td> <td> <p>M 04</p> </td> <td> <p>8838621.42</p> </td> <td> <p>500897.68</p> </td> <td> <p>115º54'02"</p> </td> <td> <p>150,63</p> </td> </tr> <tr> <td> <p>M 04</p> </td> <td> <p>M 05</p> </td> <td> <p>8838555.63</p> </td> <td> <p>501033.18</p> </td> <td> <p>115º53'36"</p> </td> <td> <p>199,92</p> </td> </tr> <tr> <td> <p>M 05</p> </td> <td> <p>M 06</p> </td> <td> <p>8838468.32</p> </td> <td> <p>501213.02</p> </td> <td> <p>116º34'14"</p> </td> <td> <p>32,43</p> </td> </tr> <tr> <td> <p>M 06</p> </td> <td> <p>M 07</p> </td> <td> <p>8838453.82</p> </td> <td> <p>501242.03</p> </td> <td> <p>206º34'31"</p> </td> <td> <p>5,00</p> </td> </tr> <tr> <td> <p>M 07</p> </td> <td> <p>M 08</p> </td> <td> <p>8838449.34</p> </td> <td> <p>501239.79</p> </td> <td> <p>296º34'20"</p> </td> <td> <p>32,39</p> </td> </tr> <tr> <td> <p>M 08</p> </td> <td> <p>M 09</p> </td> <td> <p>8838463.83</p> </td> <td> <p>501210.83</p> </td> <td> <p>295º53'36"</p> </td> <td> <p>199,90</p> </td> </tr> <tr> <td> <p>M 09</p> </td> <td> <p>M 10</p> </td> <td> <p>8838551.13</p> </td> <td> <p>501030.99</p> </td> <td> <p>295º54'02"</p> </td> <td> <p>149,37</p> </td> </tr> <tr> <td> <p>M 10</p> </td> <td> <p>M 11</p> </td> <td> <p>8838616.37</p> </td> <td> <p>500896.63</p> </td> <td> <p>267º36'00"</p> </td> <td> <p>140,06</p> </td> </tr> <tr> <td> <p>M 11</p> </td> <td> <p>M 12</p> </td> <td> <p>8838610.51</p> </td> <td> <p>500756.70</p> </td> <td> <p>293º14'26"</p> </td> <td> <p>89,47</p> </td> </tr> <tr> <td> <p>M 12</p> </td> <td> <p>M 13</p> </td> <td> <p>8838645.81</p> </td> <td> <p>500674.48</p> </td> <td> <p>250º46'57"</p> </td> <td> <p>99,12</p> </td> </tr> <tr> <td> <p>M 13</p> </td> <td> <p>M 14</p> </td> <td> <p>8838613.19</p> </td> <td> <p>500580.89</p> </td> <td> <p>249º10'40"</p> </td> <td> <p>199,96</p> </td> </tr> <tr> <td> <p>M 14</p> </td> <td> <p>M 15</p> </td> <td> <p>8838542.11</p> </td> <td> <p>500393.98</p> </td> <td> <p>254º00'24"</p> </td> <td> <p>3,78</p> </td> </tr> <tr> <td> <p>M 15</p> </td> <td> <p>M 16</p> </td> <td> <p>8838541.07</p> </td> <td> <p>500390.35</p> </td> <td> <p>344º00'55"</p> </td> <td> <p>5,00</p> </td> </tr> <tr> <td> <p>M 16</p> </td> <td> <p>M 17</p> </td> <td> <p>8838545.87</p> </td> <td> <p>500388.98</p> </td> <td> <p>74º01'09"</p> </td> <td> <p>3,57</p> </td> </tr> <tr> <td> <p>M 17</p> </td> <td> <p>M 18</p> </td> <td> <p>8838546.85</p> </td> <td> <p>500392.40</p> </td> <td> <p>69º10'41"</p> </td> <td> <p>199,86</p> </td> </tr> <tr> <td> <p>M 18</p> </td> <td> <p>M 01</p> </td> <td> <p>8838617.90</p> </td> <td> <p>500579.21</p> </td> <td> <p>70º46'56"</p> </td> <td> <p>101,09</p> </td> </tr> <tr> <td colspan="2"> <p>Perímetro: 1.842,00m</p> </td> <td> <p> </p> </td> <td> <p> </p> </td> <td> <p> </p> </td> <td> <p> </p> </td> </tr> <tr> <td colspan="3"> <p>Área Total: 4.579,96m²     0,457996Ha</p> </td> <td> <p> </p> </td> <td> <p> </p> </td> <td> <p> </p> </td> </tr> </tbody> </table>
+
+<table> <tbody> <tr> <td colspan="6"> <p><strong>ANEXO II</strong></p> <p>Cálculo Analítico de Área, Azimute, Lados, Coordenadas Geográficas e UTM</p> <p>IMÓVEL: FAIXA DE ADUTORA</p> <p>MUNICÍPIO: EUCLIDES DA CUNHA</p> <p>LOCALIDADE: TINGUÍ</p> <p>DATUM: SIRGAS 2000</p> <p>MERID. CENTRAL: 39º W</p> </td> </tr> <tr> <td> <p>Estação</p> </td> <td> <p>Vante</p> </td> <td> <p>Coord. Norte(m)</p> </td> <td> <p>Coord. Este(m)</p> </td> <td> <p>Azimute</p> </td> <td> <p>Distância(m)</p> </td> </tr> <tr> <td> <p>M 01</p> </td> <td> <p>M 02</p> </td> <td> <p>8838433.53</p> </td> <td> <p>499993.89</p> </td> <td> <p>168º13'05"</p> </td> <td> <p>5,00</p> </td> </tr> <tr> <td> <p>M 02</p> </td> <td> <p>M 03</p> </td> <td> <p>8838428.63</p> </td> <td> <p>499994.91</p> </td> <td> <p>258º13'23"</p> </td> <td> <p>142,49</p> </td> </tr> <tr> <td> <p>M 03</p> </td> <td> <p>M 04</p> </td> <td> <p>8838399.55</p> </td> <td> <p>499855.43</p> </td> <td> <p>270º41'00"</p> </td> <td> <p>140,54</p> </td> </tr> <tr> <td> <p>M 04</p> </td> <td> <p>M 05</p> </td> <td> <p>8838401.23</p> </td> <td> <p>499714.90</p> </td> <td> <p>278º55'40"</p> </td> <td> <p>139,71</p> </td> </tr> <tr> <td> <p>M 05</p> </td> <td> <p>M 06</p> </td> <td> <p>8838422.91</p> </td> <td> <p>499576.89</p> </td> <td> <p>254º10'56"</p> </td> <td> <p>99,48</p> </td> </tr> <tr> <td> <p>M 06</p> </td> <td> <p>M 07</p> </td> <td> <p>8838395.79</p> </td> <td> <p>499481.18</p> </td> <td> <p>249º16'19"</p> </td> <td> <p>119,75</p> </td> </tr> <tr> <td> <p>M 07</p> </td> <td> <p>M 08</p> </td> <td> <p>8838353.41</p> </td> <td> <p>499369.18</p> </td> <td> <p>252º20'35"</p> </td> <td> <p>57,77</p> </td> </tr> <tr> <td> <p>M 08</p> </td> <td> <p>M 09</p> </td> <td> <p>8838335.89</p> </td> <td> <p>499314.13</p> </td> <td> <p>342º21'05"</p> </td> <td> <p>5,00</p> </td> </tr> <tr> <td> <p>M 09</p> </td> <td> <p>M 10</p> </td> <td> <p>8838340.65</p> </td> <td> <p>499312.61</p> </td> <td> <p>72º20'50"</p> </td> <td> <p>57,57</p> </td> </tr> <tr> <td> <p>M 10</p> </td> <td> <p>M 11</p> </td> <td> <p>8838358.11</p> </td> <td> <p>499367.47</p> </td> <td> <p>69º16'34"</p> </td> <td> <p>120,00</p> </td> </tr> <tr> <td> <p>M 11</p> </td> <td> <p>M 12</p> </td> <td> <p>8838400.57</p> </td> <td> <p>499479.71</p> </td> <td> <p>74º10'56"</p> </td> <td> <p>100,68</p> </td> </tr> <tr> <td> <p>M 12</p> </td> <td> <p>M 13</p> </td> <td> <p>8838428.02</p> </td> <td> <p>499576.58</p> </td> <td> <p>98º55'41"</p> </td> <td> <p>140,44</p> </td> </tr> <tr> <td> <p>M 13</p> </td> <td> <p>M 14</p> </td> <td> <p>8838406.22</p> </td> <td> <p>499715.32</p> </td> <td> <p>90º41'00"</p> </td> <td> <p>139,63</p> </td> </tr> <tr> <td> <p>M 14</p> </td> <td> <p>M 01</p> </td> <td> <p>8838404.56</p> </td> <td> <p>499854.94</p> </td> <td> <p>78º13'22"</p> </td> <td> <p>141,94</p> </td> </tr> <tr> <td colspan="2"> <p>Perímetro: 1.410,00m</p> </td> <td> <p> </p> </td> <td> <p> </p> </td> <td> <p> </p> </td> <td> <p> </p> </td> </tr> <tr> <td colspan="3"> <p>Área Total: 3.499,40m²     0,349940Ha</p> </td> <td> <p> </p> </td> <td> <p> </p> </td> <td> <p> </p> </td> </tr> </tbody> </table>

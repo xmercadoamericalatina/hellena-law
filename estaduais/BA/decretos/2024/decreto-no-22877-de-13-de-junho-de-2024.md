@@ -1,0 +1,54 @@
+---
+titulo: "Decreto nº 22877, de 13/06/2024"
+uf: "BA"
+tipo: "Decreto"
+numero: "22877"
+data: 2024-06-13
+ementa: "Dispõe sobre prazo especial para recolhimento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicações - ICMS devido pelos contribuintes vinculados"
+publicacao: "DOE sexta-feira, 14 de Junho de 2024"
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-22877-de-13-de-junho-de-2024"
+baixado_em: 2026-10-16
+revogada: null
+---
+# Decreto nº 22877, de 13/06/2024
+
+DECRETO Nº 22.877 DE 13 DE JUNHO DE 2024
+
+Dispõe sobre prazo especial para recolhimento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicações - ICMS devido pelos contribuintes vinculados à campanha de promoção de vendas denominada "Liquida Bahia - 2024”, e dá outras providências.
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso da atribuição que lhe é conferida pelo inciso V do art. 105 da Constituição Estadual, e tendo em vista o Convênio ICMS nº 181/17,
+
+D E C R E T A
+
+**Art. 1º** - Aos contribuintes varejistas regularmente inscritos no Cadastro de Contribuintes do ICMS do Estado da Bahia - CAD-ICMS, que aderirem à campanha de vendas denominada "Liquida Bahia - 2024”, a ser realizada no período de 25 de junho a 01 de julho de 2024, promovida pela Federação das Câmaras de Dirigentes Lojistas do Estado da Bahia - FCDL, fica facultado o recolhimento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicações - ICMS, relativo às operações de saídas de mercadorias realizadas no mês de junho de 2024, em 02 (duas) parcelas mensais, iguais e consecutivas, com datas de vencimento em 09/07/2024 e 09/08/2024.
+
+**§ 1**º - A FCDL deverá encaminhar para o correio eletrônico *gestorarrecadacao*@*sefaz.ba.gov.br*, até o dia 11 de julho de 2024, a relação dos contribuintes vinculados à campanha, em arquivo no formato *Excel*, com 02 (duas) colunas, contendo em uma a Inscrição Estadual e na outra a respectiva Razão Social.
+
+**§ 2**º - O disposto neste artigo não se aplica às operações sujeitas ao pagamento do ICMS pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte - Simples Nacional, de que trata a Lei Complementar Federal nº 123, de 14 de dezembro de 2006.
+
+**Art. 2º** - Fica também facultado aos contribuintes varejistas regularmente inscritos no CAD-ICMS, que aderirem à campanha de vendas denominada "Liquida Bahia - 2024”, o recolhimento do ICMS decorrente de operações sujeitas ao pagamento por antecipação tributária que encerre a fase de tributação, de responsabilidade do destinatário, nas aquisições interestaduais de mercadorias efetuadas durante o mês de junho de 2024, hipótese em que será realizado em 02 (duas) parcelas mensais, iguais e consecutivas, com datas de vencimento em 25/07/2024 e 26/08/2024.
+
+**Art. 3º** - Não farão jus aos prazos especiais de pagamento previstos neste Decreto, os contribuintes enquadrados nas seguintes atividades econômicas:
+
+**I -** comércio de automóveis, camionetas, utilitários, motocicletas e motonetas novos;
+
+**II -** comércio de caminhões, reboques, semi-reboques, ônibus e micro-ônibus novos e usados;
+
+**III -** comércio de mercadorias em geral, com predominância de produtos alimentícios - hipermercados e supermercados.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 13 de jnho de 2024.
+
+JERÔNIMO RODRIGUES
+
+Governador
+
+Afonso Bandeira Florence
+
+Secretário da Casa Civil
+
+Manoel Vitório da Silva Filho
+
+Secretário da Fazenda

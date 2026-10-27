@@ -1,0 +1,54 @@
+---
+titulo: "Lei Ordinária nº 1991, de 30/12/1963"
+uf: "BA"
+tipo: "Lei Ordinária"
+numero: "1991"
+data: 1963-12-30
+ementa: "Altera a redação do artigo 33, inciso V, da lei 1.567 de 01 de dezembro de 1961 ."
+versao_texto: "texto do Portal de Legislação da Bahia"
+publicacao: ""
+fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-1991-de-30-de-dezembro-de-1963"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 1991, de 30/12/1963
+
+LEI Nº 1.991 DE 30 DE DEZEMBRO DE 1963
+
+Altera a redação do artigo 33, inciso V, da lei 1.567 de 01 de dezembro de 1961 .
+
+O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** - O inciso V do artigo 33 da lei 1.567, de 01 de dezembro de 1961 , passa a vigorar com a seguinte redação:
+
+"De 1,5% (um e meio por cento) da renda tributária de impostos do Estado da Bahia."
+
+**Art. 2º** - Esta Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 30 de dezembro de 1963.
+
+ANTONIO LOMANTO JUNIOR
+
+Governador
+
+Honorato Vianna de Castro
+
+Jorge Calmon
+
+Francisco Cabral
+
+Luiz Carlos Braga
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

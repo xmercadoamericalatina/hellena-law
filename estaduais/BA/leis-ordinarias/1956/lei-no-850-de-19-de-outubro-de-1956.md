@@ -1,0 +1,60 @@
+---
+titulo: "Lei Ordinária nº 850, de 19/10/1956"
+uf: "BA"
+tipo: "Lei Ordinária"
+numero: "850"
+data: 1956-10-19
+ementa: "Altera dispositivos do Código Sanitário do Estado e dá outras providências."
+versao_texto: "texto do Portal de Legislação da Bahia"
+publicacao: ""
+fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-850-de-19-de-outubro-de-1956"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 850, de 19/10/1956
+
+LEI Nº 850 DE 19 DE OUTUBRO DE 1956
+
+Altera dispositivos do Código Sanitário do Estado e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** - Fica elevado ao décuplo o valor das multas previstas no Decreto nº 4.144, de 20/11/1925 (Código Sanitário do Estado).
+
+**Art. 2º** - A representação da Fazenda Pública, no Juízo da Capital, nos executivos fiscais que tenham por objeto multas aplicadas, em virtude de infração do Código Sanitário do Estado, será confiada ao Consultor Jurídico da Secretaria de Saúde Pública e Assistência Social, e, se necessário, também, ao Assistente Jurídico ou a outro funcionário, bacharel em direito, que for para esse fim, especialmente designado por ato do Governo.
+
+**§ 1º** - Pela cobrança judicial prevista neste artigo serão atribuídas ao que a promover as vantagens de lei.
+
+**§ 2º** - O Consultor Jurídico da S. S. P. A. S., quando no desempenho das funções que lhe são conferidas neste artigo, será considerado procurador.
+
+**Art. 3º** - Para o fim do artigo anterior, depois de devidamente inscrito o débito na repartição competente, remeterá esta ao Secretário de Saúde Pública e Assistência Social a certidão respectiva para cobrança executiva.
+
+**Art. 4º** - O Consultor Jurídico da S. S. P. A. S. ou quem designado para exercer as atribuições previstas no art. 2º desta Lei, até ao dia 15 de janeiro de cada ano, enviará à Procuradoria da Fazenda relatório de suas atividades no particular da cobrança da dívida ativa que lhe foi confiada.
+
+**Art. 5º** - A representação prevista no art. 2º da presente Lei prevalecerá inclusive para os processos em curso.
+
+**Art. 6º** - Esta Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 19 de outubro de 1956.
+
+ANTONIO BALBINO
+
+Governador
+
+Gorgônio Araújo
+
+Orlando Garcia
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

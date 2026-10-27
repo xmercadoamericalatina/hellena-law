@@ -1,0 +1,43 @@
+---
+titulo: "Decreto nº 13617, de 20/01/2012"
+uf: "BA"
+tipo: "Decreto"
+numero: "13617"
+data: 2012-01-20
+ementa: "Declara de utilidade pública, para fins de constituição de servidão administrativa, a área de terra que indica."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-13617-de-20-de-janeiro-de-2012"
+baixado_em: 2026-10-16
+---
+# Decreto nº 13617, de 20/01/2012
+
+DECRETO Nº 13.617 DE 20 DE JANEIRO DE 2012
+
+Declara de utilidade pública, para fins de constituição de servidão administrativa, a área de terra que indica.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições e à vista do disposto no art. 105, inciso V, da Constituição Estadual, e no art. 5º, alínea "h", combinado com o art. 40 do Decreto-Lei nº 3.365, de 21 de junho de 1941, e alterações posteriores, e do que consta no Processo nº 37773/2011, da Empresa Baiana de Águas e Saneamento S/A, registrado sob o nº 1411120002019 na Secretaria de Desenvolvimento Urbano,
+
+D E C R E T A
+
+**Art. 1º** - Fica declarada de utilidade pública, para fins de constituição de servidão administrativa, a área de terra medindo 5.896,59m², pertencente a quem de direito, situada na área paralela à Rua Alceu Pereira, partindo do final da Rua Ângelo dos Anjos até 190m após o Instituto de Educação, sentido Maracás/Planaltino, no Município de Maracás - Bahia, a seguir descrita: TRECHO 1: partindo-se do ponto V-1, de coordenadas N = 8.514.486,6630 e E = 344.663,7102, com ângulo de 71º43'00" e distância de 18,97m, determina-se o ponto V-2, de coordenadas N = 8.514.501,8475 e E = 344.675,0822; daí, com ângulo de 173º15'26" e distância de 15,78m, determina-se o ponto V-3, de coordenadas N = 8.514.513,6861 e E = 344.686,3454; daí, com ângulo de 174º23'11" e distância de 19,05m, determina-se o ponto V-4, de coordenadas N = 8.514.526,1338 e E = 344.700,7596; daí, com ângulo de 212º23'55" e distância de 0,72m, determina-se o ponto V-5, de coordenadas N = 8.514.526,8238 e E = 344.700,9677; daí, com ângulo de 149º01'27" e distância de 10,26m, determina-se o ponto V-6, de coordenadas N = 8.514.533,7230 e E = 344.708,5670; daí, com ângulo de 60º09'00" e distância de 1,47m, determina-se o ponto V-7, de coordenadas N = 8.514.532,2857 e E = 344.708,8827; daí, com ângulo de 150º49'33" e distância de 9,98m, determina-se o ponto V-8, de coordenadas N = 8.514.522,7320 e E = 344.706,0004; daí, com ângulo de 147º36'05" e distância de 20,49m, determina-se o ponto V-9, de coordenadas N = 8.514.509,3373 e E = 344.690,4896; daí, com ângulo de 185º36'49" e distância de 16,24m, determina-se o ponto V-10, de coordenadas N = 8.514.497,9679 e E = 344.679,6728; daí, com ângulo de 186º44'34" e distância de 16,63m, determina-se o ponto V-11, de coordenadas N = 8.514.484,6530 e E = 344.669,7011; daí, com ângulo de 108º17'00" e distância de 6,32m, retorna-se ao ponto V-1, fechando-se a área poligonal em descrição; TRECHO 2: partindo-se do ponto V-1, de coordenadas E = 345.576,9328 e N = 8.514.581,2841, com ângulo de 113º48'40" e distância de 12,83m, determina-se o ponto V-2, de coordenadas E = 345.566,0109 e N = 8.514.595,3373; daí, com ângulo de 197º21'17" e distância de 71,92m, determina-se o ponto V-3, de coordenadas E = 345.506,9517 e N = 8.514.636,3713; daí, com ângulo de 191º45'27" e distância de 65,63m, determina-se o ponto V-4, de coordenadas E = 345.446,5585 e N = 8.514.662,0488; daí, com ângulo de 188º23'54" e distância de 74,52m, determina-se o ponto V-5, de coordenadas E = 345.374,4586 e N = 8.514.680,8774; daí, com ângulo de 188º03'17" e distância de 59,70m, determina-se o ponto V-6, de coordenadas E = 345.315,1554 e N = 8.514.687,7190; daí, com ângulo de 180º39'46" e distância de 63,33m, determina-se o ponto V-7, de coordenadas E = 345.252,1661 e N = 8.514.694,2485; daí, com ângulo de 186º27'05" e distância de 59,89m, determina-se o ponto V-8, de coordenadas E = 345.192,2826 e N = 8.514.693,6912; daí, com ângulo de 229º16'30" e distância de 70,98m, determina-se o ponto V-9, de coordenadas E = 345.146,4765 e N = 8.514.639,4711; daí, com ângulo de 151º09'55" e distância de 70,84m, determina-se o ponto V-10, de coordenadas E = 345.080,3309 e N = 8.514.614,1153; daí, com ângulo de 177º25'00" e distância de 70,44m, determina-se o ponto V-11, de coordenadas E = 345.013,4894 e N = 8.514.591,8930; daí, com ângulo de 165º53'41" e distância de 50,37m, determina-se o ponto V-12, de coordenadas E = 344.963,2619 e N = 8.514.588,1297; daí, com ângulo de 160º41'47" e distância de 59,98m, determina-se o ponto V-13, de coordenadas E = 344.905,3285 e N = 8.514.603,6733; daí, com ângulo de 199º57'21" e distância de 37,60m, determina-se o ponto V-14, de coordenadas E = 344.867,8654 e N = 8.514.600,4371; daí, com ângulo de 194º05'10" e distância de 79,42m, determina-se o ponto V-15, de coordenadas E = 344.792,7822 e N = 8.514.574,5500; daí, com ângulo de 187º57'40" e distância de 51,21m, determina-se o ponto V-16, de coordenadas E = 344.747,1456 e N = 8.514.551,3127; daí, com ângulo de 179º25'58" e distância de 14,49m, determina-se o ponto V-17, de coordenadas E = 344.734,1689 e N = 8.514.544,8661; daí, com ângulo de 72º22'37" e distância de 6,30m, determina-se o ponto V-18, de coordenadas E = 344.733,2064 e N = 8.514.551,0876; daí, com ângulo de 107º37'23" e distância de 12,55m, determina-se o ponto V-19, de coordenadas E = 344.744,4496 e N = 8.514.556,6729; daí, com ângulo de 180º34'02" e distância de 51,60m, determina-se o ponto V-20, de coordenadas E = 344.790,4318 e N = 8.514.580,0862; daí, com ângulo de 172º02'20" e distância de 80,58m, determina-se o ponto V-21, de coordenadas E = 344.866,6105 e N = 8.514.606,3511; daí, com ângulo de 165º54'50" e distância de 39,40m, determina-se o ponto V-22, de coordenadas E = 344.905,8638 e N = 8.514.609,7419; daí, com ângulo de 160º02'39" e distância de 59,27m, determina-se o ponto V-23, de coordenadas E = 344.963,8312 e N = 8.514.594,1892; daí, com ângulo de 199º18'13" e distância de 48,61m, determina-se o ponto V-24, de coordenadas E = 345.012,3009 e N = 8.514.597,8208; daí, com ângulo de 194º06'19" e distância de 69,60m, determina-se o ponto V-25, de coordenadas E = 345.078,3097 e N = 8.514.619,7662; daí, com ângulo de 182º35'00" e distância de 69,16m, determina-se o ponto V-26, de coordenadas E = 345.142,8886 e N = 8.514.644,5215; daí, com ângulo de 208º50'05" e distância de 72,19m, determina-se o ponto V-27, de coordenadas E = 345.189,4751 e N = 8.514.699,6653; daí, com ângulo de 130º43'30" e distância de 62,98m, determina-se o ponto V-28, de coordenadas E = 345.252,4484 e N = 8.514.700,2514; daí, com ângulo de 173º32'55" e distância de 63,70m, determina-se o ponto V-29, de coordenadas E = 345.315,8085 e N = 8.514.693,6835; daí, com ângulo de 179º20'14" e distância de 60,15m, determina-se o ponto V-30, de coordenadas E = 345.375,5659 e N = 8.514.686,7894; daí, com ângulo de 171º56'43" e distância de 75,38m, determina-se o ponto V-31, de coordenadas E = 345.448,5008 e N = 8.514.667,7428; daí, com ângulo de 171º36'06" e distância de 66,68m, determina-se o ponto V-32, de coordenadas E = 345.509,8679 e N = 8.514.641,6512; daí, com ângulo de 168º14'33" e distância de 73,45m, determina-se o ponto V-33, de coordenadas E = 345.570,1864 e N = 8.514.599,7422; daí, com ângulo de 162º38'43" e distância de 15,61m, determina-se o ponto V-34, de coordenadas E = 345.583,2951 e N = 8.514.582,8754; daí, com ângulo de 66º11'20" e distância de 6,49m, retorna-se ao ponto V-1, fechando-se a área poligonal em descrição, conforme projeto elaborado pela Empresa Baiana de Águas e Saneamento S/A - EMBASA, da estrutura da Secretaria de Desenvolvimento Urbano.
+
+**Parágrafo único** - A área de terra de que trata este artigo destina-se à implantação do Coletor Tronco 2, pertencente ao Sistema de Esgotamento Sanitário de Maracás, no Município de Maracás - Bahia, obra do Programa de Aceleração do Crescimento - PAC.
+
+**Art. 2º** - Fica a Empresa Baiana de Águas e Saneamento S/A - EMBASA autorizada a promover os atos administrativos e judiciais, se necessário em caráter de urgência, com vistas à efetivação da constituição de servidão administrativa de que trata este Decreto, e a imitir-se na posse respectiva, providenciando, inclusive, a liquidação e o pagamento da indenização, utilizando-se, para tanto, dos recursos de que dispuser.
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 20 de janeiro de 2012.
+
+JAQUES WAGNER
+
+Governador
+
+Rui Costa
+
+Secretário da Casa Civil
+
+Cícero de Carvalho Monteiro
+
+Secretário de Desenvolvimento Urbano

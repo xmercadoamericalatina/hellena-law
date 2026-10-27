@@ -1,0 +1,46 @@
+---
+titulo: "Decreto nº 24553, de 29/05/2026"
+uf: "BA"
+tipo: "Decreto"
+numero: "24553"
+data: 2026-05-29
+ementa: "Altera o Decreto nº 24.236, de 23 de dezembro de 2025, na forma que indica."
+publicacao: "DOE sábado, 30 de Maio de 2026"
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-24553-de-29-de-maio-de-2026"
+baixado_em: 2026-10-16
+revogada: null
+---
+# Decreto nº 24553, de 29/05/2026
+
+DECRETO Nº 24.553 DE 29 DE MAIO DE 2026
+
+Altera o Decreto nº 24.236, de 23 de dezembro de 2025, na forma que indica.
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso da atribuição que lhe é conferida pelo inciso V do art. 105 da Constituição Estadual,
+
+D E C R E T A
+
+**Art. 1º** - O Decreto nº 24.236, de 23 de dezembro de 2025, passa a vigorar com a seguinte alteração:
+
+"Art. 2º - ................................................................................................
+
+.................................................................................................................
+
+II - o art. 1º do Decreto nº 21.521, de 21 de julho de 2022, com efeitos a partir de 01 de novembro de 2026.” (NR)
+
+**Art. 2º** - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 29 de maio de 2026.
+
+JERÔNIMO RODRIGUES
+
+Governador
+
+Carlos Mello
+
+Secretário da Casa Civil em exercício
+
+Manoel Vitório da Silva Filho
+
+Secretário da Fazenda

@@ -1,0 +1,50 @@
+---
+titulo: "Decreto nº 22241, de 25/08/2023"
+uf: "BA"
+tipo: "Decreto"
+numero: "22241"
+data: 2023-08-25
+ementa: "Altera o Decreto nº 21.654, de 07 de outubro de 2022, na forma que indica."
+publicacao: "DOE sábado, 26 de Agosto de 2023"
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-22241-de-25-de-agosto-de-2023"
+baixado_em: 2026-10-16
+revogada: null
+---
+# Decreto nº 22241, de 25/08/2023
+
+DECRETO Nº 22.241 DE 25 DE AGOSTO DE 2023
+
+Altera o Decreto nº 21.654, de 07 de outubro de 2022, na forma que indica.
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições e à vista do disposto no inciso V do art. 105 da Constituição Estadual e na alínea "h” do art. 5º, combinado com o art. 40, ambos do Decreto-Lei Federal nº 3.365, de 21 de junho de 1941, e alterações posteriores, e do que consta no Processo SEI nº 100.0899.2022.0008319-10, da Empresa Baiana de Águas e Saneamento S/A - EMBASA, vinculada à Secretaria de Infraestrutura Hídrica e Saneamento,
+
+D E C R E T A
+
+**Art. 1º** - O art. 1º do Decreto nº 21.654, de 07 de outubro de 2022, passa a vigorar com a seguinte redação:
+
+"Art. 1º - Fica declarada de utilidade pública, para fins de constituição de servidão administrativa, a área de terra medindo 91,73m², pertencente a quem de direito, com as acessões e benfeitorias nela existentes, situada no Sítio Santa Cruz, Bairro Tabela, Município de Cruz das Almas - Bahia, conforme estudo e projeto realizados pela Empresa Baiana de Águas e Saneamento S/A - EMBASA e coordenadas constantes do Anexo Único deste Decreto.
+
+**Parágrafo único** - A área de terra de que trata este artigo destina-se à implantação de Rede Coletora de Esgoto, pertencente ao Sistema de Esgotamento Sanitário de Cruz das Almas, no Município de Cruz das Almas - Bahia.
+
+......................................................................................................” (NR)
+
+**Art. 2º** - O Anexo Único do Decreto nº 21.654, de 07 de outubro de 2022, passa vigorar na forma do Anexo Único deste Decreto.
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 25 de agosto de 2023.
+
+JERÔNIMO RODRIGUES
+
+Governador
+
+Afonso Bandeira Florence
+
+Secretário da Casa Civil
+
+Larissa Gomes Moraes
+
+Secretária de Infraestrutura Hídrica e Saneamento
+
+<table> 	<tbody> 		<tr> 			<td colspan="6"> 			<p>ANEXO ÚNICO<br> 			Cálculo Analítico de Área. Azimute. Coordenadas UTM<br> 			IMÓVEL: Rede Coletora de Esgoto - Área 05 B.<br> 			MUNICÍPIO: Cruz das Almas - Bahia.<br> 			LOCALIDADE: Sítio Santa Cruz, Bairro Tabela.</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>Estação</p> 			</td> 			<td> 			<p>Vante</p> 			</td> 			<td> 			<p>Coor. Leste (m)</p> 			</td> 			<td> 			<p>Coor. Norte (m)</p> 			</td> 			<td> 			<p>Azimute</p> 			</td> 			<td> 			<p>Dist. (m)</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V1</p> 			</td> 			<td> 			<p>V2</p> 			</td> 			<td> 			<p>      489.299,63 </p> 			</td> 			<td> 			<p>8.601.272,30 </p> 			</td> 			<td> 			<p>316º21'12"</p> 			</td> 			<td> 			<p>5,39 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V2</p> 			</td> 			<td> 			<p>V3</p> 			</td> 			<td> 			<p>      489.295,91 </p> 			</td> 			<td> 			<p>8.601.276,20 </p> 			</td> 			<td> 			<p>301º58'33"</p> 			</td> 			<td> 			<p>30,78 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V3</p> 			</td> 			<td> 			<p>V4</p> 			</td> 			<td> 			<p>      489.269,80 </p> 			</td> 			<td> 			<p>8.601.292,50 </p> 			</td> 			<td> 			<p>284º52'54"</p> 			</td> 			<td> 			<p>58,02 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V4</p> 			</td> 			<td> 			<p>V5</p> 			</td> 			<td> 			<p>      489.213,73 </p> 			</td> 			<td> 			<p>8.601.307,40 </p> 			</td> 			<td> 			<p>15º31'27"</p> 			</td> 			<td> 			<p>0,93 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V5</p> 			</td> 			<td> 			<p>V6</p> 			</td> 			<td> 			<p>      489.213,98 </p> 			</td> 			<td> 			<p>8.601.308,30 </p> 			</td> 			<td> 			<p>104º50'29"</p> 			</td> 			<td> 			<p>58,17 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V6</p> 			</td> 			<td> 			<p>V7</p> 			</td> 			<td> 			<p>      489.270,21 </p> 			</td> 			<td> 			<p>8.601.293,40 </p> 			</td> 			<td> 			<p>121º55'02"</p> 			</td> 			<td> 			<p>31,02 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V7</p> 			</td> 			<td> 			<p>V8</p> 			</td> 			<td> 			<p>      489.296,54 </p> 			</td> 			<td> 			<p>8.601.277,00 </p> 			</td> 			<td> 			<p>136º23'37"</p> 			</td> 			<td> 			<p>5,52 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V8</p> 			</td> 			<td> 			<p>V1</p> 			</td> 			<td> 			<p>      489.300,35 </p> 			</td> 			<td> 			<p>8.601.273,00 </p> 			</td> 			<td> 			<p>225º48'25"</p> 			</td> 			<td> 			<p>1,00 </p> 			</td> 		</tr> 		<tr> 			<td colspan="6"> 			<p>Área: 91,73m²<br> 			Perímetro: 190,84m</p> 			</td> 		</tr> 	</tbody> </table>

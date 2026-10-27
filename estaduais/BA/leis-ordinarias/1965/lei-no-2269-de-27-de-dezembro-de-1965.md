@@ -1,0 +1,50 @@
+---
+titulo: "Lei Ordinária nº 2269, de 27/12/1965"
+uf: "BA"
+tipo: "Lei Ordinária"
+numero: "2269"
+data: 1965-12-27
+ementa: "Fixa os vencimentos de Diretor de Educação e Cultura e atribui símbolos a cargos em comissão do Departamento Estadual de Educação e Cultura."
+versao_texto: "texto do Portal de Legislação da Bahia"
+publicacao: ""
+fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-2269-de-27-de-dezembro-de-1965"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 2269, de 27/12/1965
+
+LEI Nº 2.269 DE 27 DE DEZEMBRO DE 1965
+
+Fixa os vencimentos de Diretor de Educação e Cultura e atribui símbolos a cargos em comissão do Departamento Estadual de Educação e Cultura.
+
+O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** - Os vencimentos do Diretor de Educação e Cultura, pelo período de seu mandato, são fixados no valor mensal correspondente a onze e meia (11,5) vezes o salário mínimo regional, ex-vi do artigo 103, alínea cc, da Lei Orgânica do Ensino.
+
+**Art. 2º** - Atribuir-se-ão aos cargos em comissão, de Superintendente do Ensino Elementar, Superintendente do Ensino Secundário Normal e Profissional, Superintendente de Difusão Cultural e Diretor do Centro de Estudos Educacionais e Aperfeiçoamento do Professorado, integrantes do Anexo IV da Lei nº 1.613, de 12 de janeiro de 1962 , as vantagens do símbolo CC- 7, em que passam a ser classificados no quadro do Departamento Estadual de Educação e Cultura.
+
+**Art. 3º** - Fica o Poder Executivo autorizado a abrir, à conta dos recursos constantes da codificação 3.05.08 - verba 3.1.4.19-1, do orçamento vigente, o crédito suplementar de Cr$3.060.000 (três milhões e sessenta mil cruzeiros), para fazer face às despesas decorrentes desta lei, que entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 27 de dezembro de 1965
+
+ANTONIO LOMANTO JUNIOR
+
+Governador
+
+Eduardo Mamede
+
+Ivo Braga
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

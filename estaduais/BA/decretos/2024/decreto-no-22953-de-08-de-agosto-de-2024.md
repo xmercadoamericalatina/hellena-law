@@ -1,0 +1,48 @@
+---
+titulo: "Decreto nº 22.953, de 08/08/2024"
+uf: "BA"
+tipo: "Decreto"
+numero: "22.953"
+data: 2024-08-08
+ementa: "Declara de utilidade pública, para fins de desapropriação, as áreas de terra que indica."
+publicacao: "DOE sexta-feira, 9 de Agosto de 2024"
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-22953-de-08-de-agosto-de-2024"
+baixado_em: 2026-10-16
+revogada: null
+---
+# Decreto nº 22.953, de 08/08/2024
+
+DECRETO Nº 22.953 DE 08 DE AGOSTO DE 2024
+
+Declara de utilidade pública, para fins de desapropriação, as áreas de terra que indica.
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições, à vista do disposto no inciso V do art. 105 da Constituição Estadual, nas alíneas "e” e "h” do art. 5º do Decreto-Lei Federal nº 3.365, de 21 de junho de 1941, e alterações posteriores, e do que consta do Processo SEI nº 039.0822.2024.0004743-14, da Companhia de Engenharia Hídrica e de Saneamento da Bahia - CERB, vinculada à Secretaria de Infraestrutura Hídrica e Saneamento,
+
+D E C R E T A
+
+**Art. 1º** - Ficam declaradas de utilidade pública, para fins de desapropriação, as áreas de terra totalizando 147,00m², com as acessões e benfeitorias nelas existentes, pertencentes a quem de direito, situadas na localidade de Boa Vista, no Município de Morro do Chapéu - Bahia, conforme estudo e projeto realizados pela Companhia de Engenharia Hídrica e de Saneamento da Bahia - CERB, e coordenadas constantes dos Anexos I e II deste Decreto.
+
+**Parágrafo único -** As áreas de terra de que trata este artigo destinam-se à implantação de Poço (Captação) e Reservatório, pertencentes ao Sistema de Abastecimento de Água na localidade de Boa Vista, no Município de Morro do Chapéu - Bahia.
+
+**Art. 2º** - Fica a Companhia de Engenharia Hídrica e de Saneamento da Bahia - CERB, autorizada a promover os atos administrativos e judiciais, se necessário em caráter de urgência, com vistas à efetivação da desapropriação de que trata este Decreto, e a imitir-se na posse respectiva, providenciando, inclusive, a liquidação e o pagamento da indenização, utilizando-se, para tanto, dos recursos de que dispuser.
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 08 de agosto de 2024.
+
+JERÔNIMO RODRIGUES
+
+Governador
+
+Afonso Bandeira Florence
+
+Secretário da Casa Civil
+
+Larissa Gomes Moraes
+
+Secretária de Infraestrutura Hídrica e Saneamento
+
+<table> 	<tbody> 		<tr> 			<td colspan="6"> 			<p>ANEXO I<br> 			Cálculo Analítico de Área, Azimute, Lados e Coordenadas UTM<br> 			SISTEMA DE ABASTECIMENTO DE ÁGUA<br> 			Imóvel: POÇO (CAPTAÇÃO)<br> 			Município: MORRO DO CHAPÉU<br> 			Localidade: BOA VISTA                                    UF: Bahia<br> 			Datum: SIRGAS 2000<br> 			Meridiano Central: 39º WGr</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>Estação</p> 			</td> 			<td> 			<p>Vante</p> 			</td> 			<td> 			<p>Coord. Norte</p> 			</td> 			<td> 			<p>Coord. Este</p> 			</td> 			<td> 			<p>Azimute</p> 			</td> 			<td> 			<p>Distância</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V1</p> 			</td> 			<td> 			<p>V2</p> 			</td> 			<td> 			<p>8.723.835,59</p> 			</td> 			<td> 			<p>227.315,22</p> 			</td> 			<td> 			<p>141°53'17"</p> 			</td> 			<td> 			<p>7,00</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V2</p> 			</td> 			<td> 			<p>V3</p> 			</td> 			<td> 			<p>8.723.830,08</p> 			</td> 			<td> 			<p>227.319,54</p> 			</td> 			<td> 			<p>231°53'17" </p> 			</td> 			<td> 			<p>7,00</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V3</p> 			</td> 			<td> 			<p>V4</p> 			</td> 			<td> 			<p>8.723.825,76</p> 			</td> 			<td> 			<p>227.314,03</p> 			</td> 			<td> 			<p>321°53'17" </p> 			</td> 			<td> 			<p>7,00</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V4</p> 			</td> 			<td> 			<p>V1</p> 			</td> 			<td> 			<p>8.723.831,27</p> 			</td> 			<td> 			<p>227.309,71</p> 			</td> 			<td> 			<p>51°53'17" </p> 			</td> 			<td> 			<p>7,00 </p> 			</td> 		</tr> 		<tr> 			<td colspan="6"> 			<p>Perímetro: 28,00m<br> 			Área Total: 49,00m² - 0,0049ha</p> 			</td> 		</tr> 	</tbody> </table>
+
+<table> 	<tbody> 		<tr> 			<td colspan="6"> 			<p>ANEXO II<br> 			Cálculo Analítico de Área, Azimute, Lados e Coordenadas UTM<br> 			SISTEMA DE ABASTECIMENTO DE ÁGUA<br> 			ImóveI: RESERVATÓRIO<br> 			Município: MORRO DO CHAPÉU<br> 			Localidade: BOA VISTA                                    UF:  Bahia<br> 			Datum: SIRGAS 2000<br> 			Meridiano Central: 39º WGr</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>Estação</p> 			</td> 			<td> 			<p>Vante</p> 			</td> 			<td> 			<p>Coord. Norte</p> 			</td> 			<td> 			<p>Coord. Este</p> 			</td> 			<td> 			<p>Azimute</p> 			</td> 			<td> 			<p>Distância</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V1</p> 			</td> 			<td> 			<p>V2</p> 			</td> 			<td> 			<p>8.723.897,97</p> 			</td> 			<td> 			<p>227.190,32</p> 			</td> 			<td> 			<p>130°34'47" </p> 			</td> 			<td> 			<p>14,00</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V2</p> 			</td> 			<td> 			<p>V3</p> 			</td> 			<td> 			<p>8.723.888,86</p> 			</td> 			<td> 			<p>227.200,95</p> 			</td> 			<td> 			<p>220°34'47" </p> 			</td> 			<td> 			<p>7,00</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V3</p> 			</td> 			<td> 			<p>V4</p> 			</td> 			<td> 			<p>8.723.883,55</p> 			</td> 			<td> 			<p>227.196,40</p> 			</td> 			<td> 			<p>310°34'47" </p> 			</td> 			<td> 			<p>14,00</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V4</p> 			</td> 			<td> 			<p>V1</p> 			</td> 			<td> 			<p>8.723.892,65</p> 			</td> 			<td> 			<p>227.185,77</p> 			</td> 			<td> 			<p>40°34'47"   </p> 			</td> 			<td> 			<p>7,00 </p> 			</td> 		</tr> 		<tr> 			<td colspan="6"> 			<p>Perímetro: 42,00m<br> 			Área Total: 98,00m² - 0,0098ha</p> 			</td> 		</tr> 	</tbody> </table>

@@ -1,0 +1,50 @@
+---
+titulo: "Lei Ordinária nº 2583, de 07/10/1968"
+uf: "BA"
+tipo: "Lei Ordinária"
+numero: "2583"
+data: 1968-10-07
+ementa: "Modifica o anexo III da Lei nº 2.321, de 11 de abril de 1966, fixa vencimentos e dá outras providências."
+versao_texto: "texto do Portal de Legislação da Bahia"
+publicacao: ""
+fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-2583-de-07-de-outubro-de-1968"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 2583, de 07/10/1968
+
+LEI Nº 2.583 DE 07 DE OUTUBRO DE 1968
+
+Modifica o anexo III da Lei nº 2.321, de 11 de abril de 1966, fixa vencimentos e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** - Os vencimentos do Chefe da Casa Civil e do Chefe da Casa Militar são fixados em NCr$1.500,00, mensais, para cada um.
+
+**Art. 2º** - Em nenhuma hipótese, será permitida a acumulação dos vencimentos fixados no art. 1º com quaisquer outros estipêndios, exceto os percebidos em razão do exercício do magistério e verba de representação.
+
+**Art. 3º** - Fica classificado em símbolo especial o cargo em comissão de Chefe da Casa Civil constante do anexo III da Lei nº 2.321, de 11 de abril de 1966.
+
+**Art. 4º** - Esta Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 07 de outubro de 1968.
+
+LUIZ VIANA FILHO
+
+Governador
+
+Heitor Dias Pereira
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

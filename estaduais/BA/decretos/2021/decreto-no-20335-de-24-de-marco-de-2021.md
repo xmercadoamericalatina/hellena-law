@@ -1,0 +1,46 @@
+---
+titulo: "Decreto nº 20335, de 24/03/2021"
+uf: "BA"
+tipo: "Decreto"
+numero: "20335"
+data: 2021-03-24
+ementa: "Declara de utilidade publica, para fins de desapropriação, a área de terra que indica."
+publicacao: "DOE quinta-feira, 25 de Março de 2021"
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-20335-de-24-de-marco-de-2021"
+baixado_em: 2026-10-16
+revogada: null
+---
+# Decreto nº 20335, de 24/03/2021
+
+DECRETO Nº 20.335 DE 24 DE MARÇO DE 2021
+
+Declara de utilidade publica, para fins de desapropriação, a área de terra que indica.
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições e à vista do disposto no inciso V do art. 105 da Constituição Estadual, nas alíneas "h” e "i”, ambas do art. 5º do Decreto-Lei Federal nº 3.365, de 21 de junho de 1941, e alterações posteriores, e do que consta do Processo nº 034.3086.2021.0000225-33, da Companhia de Transportes do Estado da Bahia, vinculada à Secretaria de Desenvolvimento Urbano,
+
+D E C R E T A
+
+**Art. 1º** - Fica declarada de utilidade pública, para fins de desapropriação, a área de terra medindo 5.051,17m², com as acessões e benfeitorias nela existentes, pertencente a quem de direito, situada na Avenida Beira Mar do Lobato, Bairro Lobato, no Município de Salvador - Bahia, conforme estudo e projeto realizados pela Companhia de Transportes do Estado da Bahia, e coordenadas constantes no Anexo Único deste Decreto.
+
+**Parágrafo único -** A área de terra de que trata este artigo destina-se à implantação de Subestação Primária - SE02 para alimentação elétrica do VLT/Monotrilho do Subúrbio, no Município de Salvador - Bahia.
+
+**Art. 2º** - Fica a Companhia de Transportes do Estado da Bahia, vinculada à Secretaria de Desenvolvimento Urbano, autorizada a promover os atos administrativos e judiciais, se necessário em caráter de urgência, com vistas à efetivação da desapropriação de que trata este Decreto, e a imitir-se na posse respectiva, providenciando, inclusive, a liquidação e o pagamento da indenização, utilizando-se, para tanto, dos recursos de que dispuser.
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 24 de março de 2021.
+
+RUI COSTA
+
+Governador
+
+Carlos Mello
+
+Secretário da Casa Civil em exercício
+
+Nelson Vicente Portela Pellegrino
+
+Secretário de Desenvolvimento Urbano
+
+<table> 	<tbody> 		<tr> 			<td colspan="7"> 			<p><strong>ANEXO ÚNICO</strong></p> 			</td> 		</tr> 		<tr> 			<td colspan="7"> 			<p>TABELA DE AZIMUTES, DISTÂNCIAS E COORDENADAS</p> 			</td> 		</tr> 		<tr> 			<td colspan="2"> 			<p>LADOS</p> 			</td> 			<td rowspan="2"> 			<p>AZIMUTE (UTM)</p> 			</td> 			<td> 			<p>DISTÂNCIA (UTM)</p> 			</td> 			<td> 			<p> </p> 			</td> 			<td colspan="2"> 			<p>COORDENADAS (UTM)</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>Vértices</p> 			</td> 			<td> 			<p>Vértices</p> 			</td> 			<td> 			<p>(metros)</p> 			</td> 			<td colspan="2"> 			<p>E (metros)</p> 			</td> 			<td> 			<p>N (metros)</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-17</p> 			</td> 			<td> 			<p>P-18</p> 			</td> 			<td> 			<p>105°21'17"</p> 			</td> 			<td> 			<p>9,28</p> 			</td> 			<td colspan="2"> 			<p>556426,39</p> 			</td> 			<td> 			<p>8573052,97</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-18</p> 			</td> 			<td> 			<p>P-19</p> 			</td> 			<td> 			<p>107°31'12"</p> 			</td> 			<td> 			<p>7,23</p> 			</td> 			<td colspan="2"> 			<p>556433,28</p> 			</td> 			<td> 			<p>8573050,80</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-19</p> 			</td> 			<td> 			<p>P-20</p> 			</td> 			<td> 			<p>106°07'32"</p> 			</td> 			<td> 			<p>5,45</p> 			</td> 			<td colspan="2"> 			<p>556438,52</p> 			</td> 			<td> 			<p>8573049,28</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-20</p> 			</td> 			<td> 			<p>P-21</p> 			</td> 			<td> 			<p>106°41'01"</p> 			</td> 			<td> 			<p>6,98</p> 			</td> 			<td colspan="2"> 			<p>556445,21</p> 			</td> 			<td> 			<p>8573047,28</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-21</p> 			</td> 			<td> 			<p>P-22</p> 			</td> 			<td> 			<p>107°58'10"</p> 			</td> 			<td> 			<p>4,09</p> 			</td> 			<td colspan="2"> 			<p>556449,09</p> 			</td> 			<td> 			<p>8573046,02</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-22</p> 			</td> 			<td> 			<p>P-23</p> 			</td> 			<td> 			<p>197°01'34"</p> 			</td> 			<td> 			<p>15,03</p> 			</td> 			<td colspan="2"> 			<p>556444,69</p> 			</td> 			<td> 			<p>8573031,65</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-23</p> 			</td> 			<td> 			<p>P-24</p> 			</td> 			<td> 			<p>196°31'37"</p> 			</td> 			<td> 			<p>62,33</p> 			</td> 			<td colspan="2"> 			<p>556426,96</p> 			</td> 			<td> 			<p>8572971,89</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-24</p> 			</td> 			<td> 			<p>P-25</p> 			</td> 			<td> 			<p>191°28'31"</p> 			</td> 			<td> 			<p>5,42</p> 			</td> 			<td colspan="2"> 			<p>556425,88</p> 			</td> 			<td> 			<p>8572966,58</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-25</p> 			</td> 			<td> 			<p>P-26</p> 			</td> 			<td> 			<p>287°44'26"</p> 			</td> 			<td> 			<p>16,81</p> 			</td> 			<td colspan="2"> 			<p>556409,88</p> 			</td> 			<td> 			<p>8572971,70</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-26</p> 			</td> 			<td> 			<p>P-1</p> 			</td> 			<td> 			<p>192°40'56"</p> 			</td> 			<td> 			<p>51,47</p> 			</td> 			<td colspan="2"> 			<p>556398,58</p> 			</td> 			<td> 			<p>8572921,49</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-1</p> 			</td> 			<td> 			<p>P-2</p> 			</td> 			<td> 			<p>321°32'16"</p> 			</td> 			<td> 			<p>10,92</p> 			</td> 			<td colspan="2"> 			<p>556391,79</p> 			</td> 			<td> 			<p>8572930,04</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-2</p> 			</td> 			<td> 			<p>P-3</p> 			</td> 			<td> 			<p>318°43'54"</p> 			</td> 			<td> 			<p>4,41</p> 			</td> 			<td colspan="2"> 			<p>556388,88</p> 			</td> 			<td> 			<p>8572933,35</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-3</p> 			</td> 			<td> 			<p>P-4</p> 			</td> 			<td> 			<p>29°05'32"</p> 			</td> 			<td> 			<p>1,35</p> 			</td> 			<td colspan="2"> 			<p>556389,54</p> 			</td> 			<td> 			<p>8572934,53</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-4</p> 			</td> 			<td> 			<p>P-5</p> 			</td> 			<td> 			<p>335°43'12"</p> 			</td> 			<td> 			<p>11,98</p> 			</td> 			<td colspan="2"> 			<p>556384,61</p> 			</td> 			<td> 			<p>8572945,45</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-5</p> 			</td> 			<td> 			<p>P-6</p> 			</td> 			<td> 			<p>338°07'47"</p> 			</td> 			<td> 			<p>15,77</p> 			</td> 			<td colspan="2"> 			<p>556378,74</p> 			</td> 			<td> 			<p>8572960,08</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-6</p> 			</td> 			<td> 			<p>P-7</p> 			</td> 			<td> 			<p>345°19'36"</p> 			</td> 			<td> 			<p>16,45</p> 			</td> 			<td colspan="2"> 			<p>556374,57</p> 			</td> 			<td> 			<p>8572975,99</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-7</p> 			</td> 			<td> 			<p>P-8</p> 			</td> 			<td> 			<p>288°35'44"</p> 			</td> 			<td> 			<p>0,75</p> 			</td> 			<td colspan="2"> 			<p>556373,87</p> 			</td> 			<td> 			<p>8572976,23</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-8</p> 			</td> 			<td> 			<p>P-9</p> 			</td> 			<td> 			<p>14°46'46"</p> 			</td> 			<td> 			<p>0,17</p> 			</td> 			<td colspan="2"> 			<p>556373,91</p> 			</td> 			<td> 			<p>8572976,39</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-9</p> 			</td> 			<td> 			<p>P-10</p> 			</td> 			<td> 			<p>343°51'57"</p> 			</td> 			<td> 			<p>7,22</p> 			</td> 			<td colspan="2"> 			<p>556371,90</p> 			</td> 			<td> 			<p>8572983,32</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-10</p> 			</td> 			<td> 			<p>P-11</p> 			</td> 			<td> 			<p>0°00'13"</p> 			</td> 			<td> 			<p>6,38</p> 			</td> 			<td colspan="2"> 			<p>556371,90</p> 			</td> 			<td> 			<p>8572989,71</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-11</p> 			</td> 			<td> 			<p>P-12</p> 			</td> 			<td> 			<p>19°13'59"</p> 			</td> 			<td> 			<p>7,04</p> 			</td> 			<td colspan="2"> 			<p>556374,22</p> 			</td> 			<td> 			<p>8572996,36</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-12</p> 			</td> 			<td> 			<p>P-13</p> 			</td> 			<td> 			<p>14°36'33"</p> 			</td> 			<td> 			<p>23,41</p> 			</td> 			<td colspan="2"> 			<p>556380,13</p> 			</td> 			<td> 			<p>8573019,01</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-13</p> 			</td> 			<td> 			<p>P-14</p> 			</td> 			<td> 			<p>11°30'51"</p> 			</td> 			<td> 			<p>5,57</p> 			</td> 			<td colspan="2"> 			<p>556381,24</p> 			</td> 			<td> 			<p>8573024,47</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-14</p> 			</td> 			<td> 			<p>P-15</p> 			</td> 			<td> 			<p>115°20'25"</p> 			</td> 			<td> 			<p>19,00</p> 			</td> 			<td colspan="2"> 			<p>556398,41</p> 			</td> 			<td> 			<p>8573016,34</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-15</p> 			</td> 			<td> 			<p>P-16</p> 			</td> 			<td> 			<p>25°35'45"</p> 			</td> 			<td> 			<p>41,07</p> 			</td> 			<td colspan="2"> 			<p>556416,15</p> 			</td> 			<td> 			<p>8573053,38</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>P-16</p> 			</td> 			<td> 			<p>P-17</p> 			</td> 			<td> 			<p>32°08'09"</p> 			</td> 			<td> 			<p>2,42</p> 			</td> 			<td colspan="2"> 			<p>556417,44</p> 			</td> 			<td> 			<p>8573055,43</p> 			</td> 		</tr> 		<tr> 			<td colspan="7"> 			<p>Área: 5.051,17m²<br> 			Perímetro: 357,97m</p> 			</td> 		</tr> 		<tr> 			 			 			 			 			 			 			 		</tr> 	</tbody> </table>

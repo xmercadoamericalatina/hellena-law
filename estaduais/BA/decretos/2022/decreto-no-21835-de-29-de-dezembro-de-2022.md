@@ -1,0 +1,42 @@
+---
+titulo: "Decreto nº 21835, de 29/12/2022"
+uf: "BA"
+tipo: "Decreto"
+numero: "21835"
+data: 2022-12-29
+ementa: "Homologa o Decreto Municipal de \"Situação de Emergência” que indica."
+publicacao: "DOE sexta-feira, 30 de Dezembro de 2022"
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-21835-de-29-de-dezembro-de-2022"
+baixado_em: 2026-10-16
+revogada: null
+---
+# Decreto nº 21835, de 29/12/2022
+
+DECRETO Nº 21.835 DE 29 DE DEZEMBRO DE 2022
+
+Homologa o Decreto Municipal de "Situação de Emergência” que indica.
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso das atribuições que lhe são conferidas pelo inciso XII do art. 105 da Constituição Estadual, e pelo inciso VII do art. 7º da Lei Federal nº 12.608, de 10 de abril de 2012, e à vista do constante no Processo SEI nº 014.5378.2022.0004935-19, da Superintendência de Proteção e Defesa Civil - SUDEC, da estrutura da Casa Civil,
+
+considerando os danos decorrentes da estiagem que está a afetar as atividades econômicas e a atingir a população do Município de Muquém do São Francisco - Bahia;
+
+considerando as informações prestadas pela Superintendência de Proteção e Defesa Civil - SUDEC;
+
+considerando competir ao Estado preservar o bem-estar da população e, nesse sentido, adotar as medidas que se fizerem necessárias,
+
+D E C R E T A
+
+**Art. 1º** - Fica homologado o Decreto Municipal nº 078, de 13 de dezembro de 2022, da Prefeita Municipal de Muquém do São Francisco, que declarou em "Situação de Emergência”, pelo prazo de 180 (cento e oitenta) dias, as áreas comprovadamente afetadas do referido Município.
+
+**Art. 2º** - Este Decreto de homologação entra em vigor na data de sua publicação, retroagindo seus efeitos a 13 de dezembro de 2022, e vigerá pelo prazo de 180 (cento e oitenta) dias, a contar da aludida data.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 29 de dezembro de 2022.
+
+RUI COSTA
+
+Governador
+
+Carlos Mello
+
+Secretário da Casa Civil em exercício

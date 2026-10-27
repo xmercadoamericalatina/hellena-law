@@ -1,0 +1,45 @@
+---
+titulo: "Decreto nº 8437, de 05/02/2003"
+uf: "BA"
+tipo: "Decreto"
+numero: "8437"
+data: 2003-02-05
+ementa: "Declara de utilidade pública, para fins de desapropriação, a área de terra que indica e dá outras providências."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-8437-de-05-de-fevereiro-de-2003"
+baixado_em: 2026-10-16
+---
+# Decreto nº 8437, de 05/02/2003
+
+DECRETO Nº 8.437 DE 05 DE FEVEREIRO DE 2003
+
+Declara de utilidade pública, para fins de desapropriação, a área de terra que indica e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, à vista do disposto no art. 164, inciso IV, da Constituição Estadual , e no art. 5º, alínea i, do Decreto-Lei nº 3.365, de 21 de junho de 1941, alterado pelas Leis nos 2.786, de 21 de maio de 1956, 6.602, de 07 de dezembro de 1978, e 9.785, de 29 de janeiro de 1999,
+
+D E C R E T A
+
+**Art. 1º** - Fica declarada de utilidade pública, para fins de desapropriação, a área de terra medindo 130.079,10 m², pertencente a quem de direito, localizada nos Municípios de Simões Filho e Camaçari-BA, com as benfeitorias nela existentes, a seguir descrita: partindo-se da estaca 428+1,570 m do eixo de locação do gasoduto sede White Martins Estação de Aratú, determina-se o vértice V-1, de coordenadas UTM 8.594.772,0260 m e 569.001,4078 m, situada na margem direita do Rio Joanes, limite da faixa de domínio de 10 m de largura, sendo 5 m para cada lado, daí com azimute verdadeiro de 214º 44 12 e distância de 357,987 m, determina-se o vértice V-2; daí, com azimute verdadeiro de 220º 09 52 e distância de 357,987 m, determina-se o vértice V-3; daí, com azimute verdadeiro de 222º 02 552 e distância de 340,443 m, determina-se o vértice V-4; daí, com azimute verdadeiro de 238º 06 32 e distância de 47,895 m, determina-se o vértice V-5; daí, com azimute verdadeiro de 227º 06 32 e distância de 39,920 m, determina-se o vértice V-6; daí, com azimute verdadeiro de 219º 06 32 e distância de 59,815 m, determina-se o vértice V-7; daí, com azimute verdadeiro de 215º 06 32 e distância de 40,958 m, determina-se o vértice V-8; daí, com azimute verdadeiro de 207º 06 32 e distância de 47,165 m, determina-se o vértice V-9; daí, com azimute verdadeiro de 219º 26 32 e distância de 70,183 m, determina-se o vértice V-10; daí, com azimute verdadeiro de 221º 36 32 e distância de 519,133 m, determina-se o vértice V-11; daí, com azimute verdadeiro de 220º 51 32 e distância de 179,477 m, determina-se o vértice V-12; daí, com azimute verdadeiro de 221º 41 32 e distância de 527,884 m, determina-se o vértice V-13; daí, com azimute verdadeiro de 229º 31 32 e distância de 211,844 m, determina-se o vértice V-14; daí, com azimute verdadeiro de 224º 36 32 e distância de 99,646 m, determina-se o vértice V-15; daí, com azimute verdadeiro de 220º 11 32 e distância de 89,857 m, determina-se o vértice V-16; daí, com azimute verdadeiro de 215º 31 32 e distância de 45,647 m, determina-se o vértice V-17; daí, com azimute verdadeiro de 208º 01 32 e distância de 130,736 m, determina-se o vértice V-18; daí, com azimute verdadeiro de 223º 18 02 e distância de 25,173 m, determina-se o vértice V-19; daí, com azimute verdadeiro de 221º 51 22 e distância de 46,766 m, determina-se o vértice V-20; daí, com azimute verdadeiro de 221º 28 22 e distância de 1.276,946 m, determina-se o vértice V-21; daí, com azimute verdadeiro de 222º 03 23 e distância de 593,934 m, determina-se o vértice V-22; daí, com azimute verdadeiro de 221º 10 24 e distância de 563,239 m, determina-se o vértice V-23; daí, com azimute verdadeiro de 222º 30 24 e distância de 261,822 m, determina-se o vértice V-24; daí, com azimute verdadeiro de 214º 00 24 e distância de 196,946 m, determina-se o vértice V-25; daí, com azimute verdadeiro de 216º 55 24 e distância de 119,670 m, determina-se o vértice V-26; daí, com azimute verdadeiro de 220º 15 24 e distância de 260,534 m, determina-se o vértice V-27; daí, com azimute verdadeiro de 217º 40 24 e distância de 1.555,783 m, determina-se o vértice V-28; daí, com azimute verdadeiro de 218º 00 25 e distância de 300,325 m, determina-se o vértice V-29; daí, com azimute verdadeiro de 214º 20 31 e distância de 98,469 m, determina-se o vértice V-30; daí, com azimute verdadeiro de 217º 00 31 e distância de 19,147 m, determina-se o vértice V-31; daí, com azimute verdadeiro de 225º 52 31 e distância de 100,638 m, determina-se o vértice V-32; daí, com azimute verdadeiro de 229º 31 31 e distância de 58,288 m, determina-se o vértice V-33; daí, com azimute verdadeiro de 210º 46 31 e distância de 240,529 m, determina-se o vértice V-34; daí, com azimute verdadeiro de 218º 13 32 e distância de 220,826 m, determina-se o vértice V-35; daí, com azimute verdadeiro de 216º 55 32 e distância de 256,054 m, determina-se o vértice V-36; estaca 881+16,970 m do eixo de locação de coordenadas UTM 8.587.844,2485 m e 563.202,3355 m, daí, com azimute verdadeiro de 169º 10 34 e distância de 882,959 m, determina-se o vértice V-37; daí, com azimute verdadeiro de 109º 31 52 e distância de 128,188 m, determina-se o vértice V-38; daí, com azimute verdadeiro de 131º 51 06 e distância de 50,716 m, determina-se o vértice V-39; daí, com azimute verdadeiro de 149º 20 05 e distância de 57,390 m, determina-se o vértice V-40; daí, com azimute verdadeiro de 164º 29 13 e distância de 47,117 m, determina-se o vértice V-41; daí, com azimute verdadeiro de 170º 48 09 e distância de 57,912 m, determina-se o vértice V-42; daí, com azimute verdadeiro de 187º 41 07 e distância de 29,847 m, determina-se o vértice V-43; daí, com azimute verdadeiro de 204º 30 05 e distância de 181,586 m, determina-se o vértice V-44; daí, com azimute verdadeiro de 254º 31 28 e distância de 44,445 m, determina-se o vértice V-45; daí, com azimute verdadeiro de 148º 13 11 e distância de 128/,719 m, determina-se o vértice V-46; daí, com azimute verdadeiro de 186º 15 27 e distância de 126,638 m, determina-se o vértice V-47; daí, com azimute verdadeiro de 211º 45 04 e distância de 40,066 m, determina-se o vértice V-48; daí, com azimute verdadeiro de 263º 16 06 e distância de 49,710 m, determina-se o vértice V-49; daí, com azimute verdadeiro de 266º 09 17 e distância de 17,591 m, determina-se o vértice V-50; daí, com azimute verdadeiro de 190º 56 37 e distância de 224,446 m, determina-se o vértice V-51; daí, com azimute verdadeiro de 202º 03 22 e distância de 100,144 m, determina-se o vértice V-52; daí, com azimute verdadeiro de 187º 40 21 e distância de 42,880 m, determina-se o vértice V-53; daí, com azimute verdadeiro de 199º 25 46 e distância de 90,633 m, determina-se o vértice V-54; daí, com azimute verdadeiro de 265º 14 15 e distância de 53,375 m, determina-se o vértice V-55; daí, com azimute verdadeiro de 277º 00 24 e distância de 76,078 m, determina-se o vértice V-56; daí, com azimute verdadeiro de 301º 08 53 e distância de 79,954 m, determina-se o vértice V-57; daí, com azimute verdadeiro de 305º 47 50 e distância de 82,072 m, determina-se o vértice V-58; daí, com azimute verdadeiro de 294º 55 36 e distância de 101,026 m, determina-se o vértice V-59; daí, com azimute verdadeiro de 277º 17 45 e distância de 59,051 m, determina-se o vértice V-60; daí, com azimute verdadeiro de 270º 04 08 e distância de 164,480 m, determina-se o vértice V-61; daí, com azimute verdadeiro de 230º 45 30 e distância de 290,657 m, determina-se o vértice V-62; daí, com azimute verdadeiro de 234º 36 28 e distância de 39,781 m, determina-se o vértice V-63; daí, com azimute verdadeiro de 239º 43 10 e distância de 705,336 m, encontra-se a estaca 1.079 + 10,220 m, de coordenadas UTM 8.585.377,7982 e 561.922,5468 m; determinando-se o vértice V-64, entroncamento com o gasoduto existente da Bahiagás, trecho Estação Aratú Estação CIA Sul; daí, retorna-se ao vértice V-1, início da presente descrição, totalizando, assim, a extensão de 13.007,91 m, conforme projeto elaborado pela Superintendência de Desenvolvimento Industrial e Comercial - SUDIC, autarquia vinculada à Secretaria da Indústria, Comércio e Mineração.
+
+**Parágrafo único** - A área de terra de que trata este artigo destina-se à implantação de gasoduto nos Municípios de Camaçari e Simões Filho-BA.
+
+**Art. 2º** - Fica a Superintendência de Desenvolvimento Industrial e Comercial - SUDIC, com o apoio da Procuradoria Geral do Estado, autorizada a promover os atos administrativos e judiciais, se necessário em caráter de urgência, com vistas à efetivação da desapropriação de que trata este Decreto, e a imitir-se na posse respectiva, providenciando, inclusive, a liquidação e o pagamento das indenizações, utilizando-se, para tanto, dos recursos de que dispuser.
+
+**Art. 3º** - Este Decreto entrará em vigor na data de sua publicação.
+
+**Art. 4º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 05 de fevereiro de 2003.
+
+PAULO SOUTO
+
+Governador
+
+Ruy Tourinho
+
+Secretário de Governo
+
+Otto Alencar
+
+Secretário da Indústria, Comércio e Mineração

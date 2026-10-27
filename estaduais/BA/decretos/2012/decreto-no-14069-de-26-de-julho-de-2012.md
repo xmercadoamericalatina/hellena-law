@@ -1,0 +1,47 @@
+---
+titulo: "Decreto nº 14069, de 26/07/2012"
+uf: "BA"
+tipo: "Decreto"
+numero: "14069"
+data: 2012-07-26
+ementa: "Declara de utilidade pública, para fins de desapropriação, a área de terra que indica."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14069-de-26-de-julho-de-2012"
+baixado_em: 2026-10-16
+---
+# Decreto nº 14069, de 26/07/2012
+
+DECRETO Nº 14.069 DE 26 DE JULHO DE 2012
+
+Declara de utilidade pública, para fins de desapropriação, a área de terra que indica.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, à vista do disposto no art. 105, inciso V, da Constituição Estadual, no art. 5º, alínea "i", do Decreto-Lei nº 3.365, de 21 de junho de 1941, e alterações posteriores, e do que consta do Processo nº 1403120059859, da Companhia de Desenvolvimento Urbano do Estado da Bahia - CONDER,
+
+D E C R E T A
+
+**Art. 1º** - Fica declarada de utilidade pública, para fins de desapropriação, a área de terra, com as acessões e benfeitorias nela existentes, medindo 343.859,437m², pertencente a quem de direito, situada entre a Av. Nóide Cerqueira e a BR-324, próxima ao Parque de Exposição João Martins da Silva, no Município de Feira de Santana - Bahia, conforme estudos e projetos realizados pela Companhia de Desenvolvimento Urbano do Estado da Bahia - CONDER, e coordenadas constantes do Anexo Único deste Decreto.
+
+**Parágrafo único** - A área de terra de que trata este artigo destina-se à implantação da complementação da Avenida Nóide Cerqueira.
+
+**Art. 2º** - Fica a Companhia de Desenvolvimento Urbano do Estado da Bahia - CONDER, vinculada à Secretaria de Desenvolvimento Urbano, autorizada a promover os atos administrativos e judiciais, se necessário em caráter de urgência, com vistas à efetivação da desapropriação de que trata este Decreto, e a imitir-se na posse respectiva, providenciando, inclusive, a liquidação e o pagamento da indenização, utilizando-se, para tanto, dos recursos de que dispuser.
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 26 de julho de 2012.
+
+JAQUES WAGNER
+
+Governador
+
+Rui Costa
+
+Secretário da Casa Civil
+
+Cícero Monteiro
+
+Secretário de Desenvolvimento Urbano
+
+ANEXO ÚNICO
+
+<table> <tbody> <tr> <td colspan="6"> <p>TABELA DE AZIMUTES, DISTÂNCIAS E COORDENADAS</p> </td> </tr> <tr> <td colspan="2"> <p>LADOS</p> </td> <td> <p>AZIMUTE (UTM)</p> </td> <td> <p>DISTÂNCIA (UTM) metros</p> </td> <td colspan="2"> <p>COORDENADAS UTM</p> </td> </tr> <tr> <td> <p>VÉRTICES</p> </td> <td> <p>VÉRTICES</p> </td> <td> <p> </p> </td> <td> <p> </p> </td> <td> <p>E metros</p> </td> <td> <p>N metros</p> </td> </tr> <tr> <td> <p>V1</p> </td> <td> <p>V2</p> </td> <td> <p>91º58'01"</p> </td> <td> <p>916,866</p> </td> <td> <p>508.440,706</p> </td> <td> <p>8.645.093,497</p> </td> </tr> <tr> <td> <p>V2</p> </td> <td> <p>V3</p> </td> <td> <p>91º23'57"</p> </td> <td> <p>39,847</p> </td> <td> <p>508.480,541</p> </td> <td> <p>8.645.092,524</p> </td> </tr> <tr> <td> <p>V3</p> </td> <td> <p>V4</p> </td> <td> <p>90º58'00"</p> </td> <td> <p>394,691</p> </td> <td> <p>508.875,175</p> </td> <td> <p>8.645.085,866</p> </td> </tr> <tr> <td> <p>V4</p> </td> <td> <p>V5</p> </td> <td> <p>90º56'38"</p> </td> <td> <p>1.102,873</p> </td> <td> <p>509.977,899</p> </td> <td> <p>8.645.067,699</p> </td> </tr> <tr> <td> <p>V5</p> </td> <td> <p>V6</p> </td> <td> <p>90º04'43"</p> </td> <td> <p>170,382</p> </td> <td> <p>510.148,281</p> </td> <td> <p>8.645.067,465</p> </td> </tr> <tr> <td> <p>V6</p> </td> <td> <p>V7</p> </td> <td> <p>92º05'41"</p> </td> <td> <p>114,039</p> </td> <td> <p>510.262,175</p> </td> <td> <p>8.645.063,299</p> </td> </tr> <tr> <td> <p>V7</p> </td> <td> <p>V8</p> </td> <td> <p>98º19'13"</p> </td> <td> <p>8,554</p> </td> <td> <p>510.270,639</p> </td> <td> <p>8.645.062,061</p> </td> </tr> <tr> <td> <p>V8</p> </td> <td> <p>V9</p> </td> <td> <p>139º01'06"</p> </td> <td> <p>395,360</p> </td> <td> <p>510.506,917</p> </td> <td> <p>8.644.790,078</p> </td> </tr> <tr> <td> <p>V9</p> </td> <td> <p>V10</p> </td> <td> <p>181º21'32"</p> </td> <td> <p>1.139,267</p> </td> <td> <p>510.479,900</p> </td> <td> <p>8.643.651,131</p> </td> </tr> <tr> <td> <p>V10</p> </td> <td> <p>V11</p> </td> <td> <p>162º55'35"</p> </td> <td> <p>307,283</p> </td> <td> <p>510.568,538</p> </td> <td> <p>8.643.362,536</p> </td> </tr> <tr> <td> <p>V11</p> </td> <td> <p>V12</p> </td> <td> <p>144º30'25"</p> </td> <td> <p>703,175</p> </td> <td> <p>510.976,803</p> </td> <td> <p>8.642.790,020</p> </td> </tr> <tr> <td> <p>V12</p> </td> <td> <p>V13</p> </td> <td> <p>177º22'05"</p> </td> <td> <p>558,909</p> </td> <td> <p>511.001,083</p> </td> <td> <p>8.642.261,810</p> </td> </tr> <tr> <td> <p>V13</p> </td> <td> <p>V14</p> </td> <td> <p>210º13'45"</p> </td> <td> <p>10,601</p> </td> <td> <p>510.995,745</p> </td> <td> <p>8.642.252,650</p> </td> </tr> <tr> <td> <p>V14</p> </td> <td> <p>V15</p> </td> <td> <p>191º17'17"</p> </td> <td> <p>282,816</p> </td> <td> <p>510.941,389</p> </td> <td> <p>8.641.980,329</p> </td> </tr> <tr> <td> <p>V15</p> </td> <td> <p>V16</p> </td> <td> <p>172º20'49"</p> </td> <td> <p>1.126,938</p> </td> <td> <p>511.091,467</p> </td> <td> <p>8.640.863,429</p> </td> </tr> <tr> <td> <p>V16</p> </td> <td> <p>V17</p> </td> <td> <p>196º57'02"</p> </td> <td> <p>332,295</p> </td> <td> <p>510.997,537</p> </td> <td> <p>8.640.555,246</p> </td> </tr> <tr> <td> <p>V17</p> </td> <td> <p>V18</p> </td> <td> <p>221º32'55"</p> </td> <td> <p>105,279</p> </td> <td> <p>510.927,710</p> </td> <td> <p>8.640.476,455</p> </td> </tr> <tr> <td> <p>V18</p> </td> <td> <p>V19</p> </td> <td> <p>269º47'44"</p> </td> <td> <p>39,577</p> </td> <td> <p>510.892,647</p> </td> <td> <p>8.640.476,330</p> </td> </tr> <tr> <td> <p>V19</p> </td> <td> <p>V20</p> </td> <td> <p>217º22'10"</p> </td> <td> <p>8,494</p> </td> <td> <p>510.887,491</p> </td> <td> <p>8.640.469,580</p> </td> </tr> <tr> <td> <p>V20</p> </td> <td> <p>V21</p> </td> <td> <p>128º16'59"</p> </td> <td> <p>95,729</p> </td> <td> <p>510.962,635</p> </td> <td> <p>8.640.410,271</p> </td> </tr> <tr> <td> <p>V21</p> </td> <td> <p>V22</p> </td> <td> <p>37º53'42"</p> </td> <td> <p>10,641</p> </td> <td> <p>510.969,171</p> </td> <td> <p>8.640.418,669</p> </td> </tr> <tr> <td> <p>V22</p> </td> <td> <p>V23</p> </td> <td> <p>348º42'05"</p> </td> <td> <p>43,351</p> </td> <td> <p>510.961,832</p> </td> <td> <p>8.640.455,403</p> </td> </tr> <tr> <td> <p>V23</p> </td> <td> <p>V24</p> </td> <td> <p>42º33'43"</p> </td> <td> <p>98,403</p> </td> <td> <p>511.027,098</p> </td> <td> <p>8.640.529,047</p> </td> </tr> <tr> <td> <p>V24</p> </td> <td> <p>V25</p> </td> <td> <p>16º49'40"</p> </td> <td> <p>366,249</p> </td> <td> <p>511.130,610</p> </td> <td> <p>8.640.868,724</p> </td> </tr> <tr> <td> <p>V25</p> </td> <td> <p>V26</p> </td> <td> <p>352º20'49"</p> </td> <td> <p>1.126,903</p> </td> <td> <p>510.980,537</p> </td> <td> <p>8.641.985,590</p> </td> </tr> <tr> <td> <p>V26</p> </td> <td> <p>V27</p> </td> <td> <p>11º17'17"</p> </td> <td> <p>256,700</p> </td> <td> <p>511.029,874</p> </td> <td> <p>8.642.232,763</p> </td> </tr> <tr> <td> <p>V27</p> </td> <td> <p>V28</p> </td> <td> <p>30º13'45"</p> </td> <td> <p>214,081</p> </td> <td> <p>511.137,655</p> </td> <td> <p>8.642.417,733</p> </td> </tr> <tr> <td> <p>V28</p> </td> <td> <p>V29</p> </td> <td> <p>357º22'05"</p> </td> <td> <p>242,892</p> </td> <td> <p>511.127,104</p> </td> <td> <p>8.642.647,283</p> </td> </tr> <tr> <td> <p>V29</p> </td> <td> <p>V30</p> </td> <td> <p>324º30'25"</p> </td> <td> <p>906,655</p> </td> <td> <p>510.600,698</p> </td> <td> <p>8.643.385,470</p> </td> </tr> <tr> <td> <p>V30</p> </td> <td> <p>V31</p> </td> <td> <p>342º55'59"</p> </td> <td> <p>281,877</p> </td> <td> <p>510.519,389</p> </td> <td> <p>8.643.650,313</p> </td> </tr> <tr> <td> <p>V31</p> </td> <td> <p>V32</p> </td> <td> <p>1º21'33"</p> </td> <td> <p>1.139,338</p> </td> <td> <p>510.546,411</p> </td> <td> <p>8.644.789,330</p> </td> </tr> <tr> <td> <p>V32</p> </td> <td> <p>V33</p> </td> <td> <p>318º32'27"</p> </td> <td> <p>458,790</p> </td> <td> <p>510.270,105</p> </td> <td> <p>8.645.102,085</p> </td> </tr> <tr> <td> <p>V33</p> </td> <td> <p>V34</p> </td> <td> <p>275º35'56"</p> </td> <td> <p>121,861</p> </td> <td> <p>510.148,947</p> </td> <td> <p>8.645.113,962</p> </td> </tr> <tr> <td> <p>V34</p> </td> <td> <p>V35</p> </td> <td> <p>269º58'45"</p> </td> <td> <p>169,796</p> </td> <td> <p>509.979,151</p> </td> <td> <p>8.645.113,900</p> </td> </tr> <tr> <td> <p>V35</p> </td> <td> <p>V36</p> </td> <td> <p>271º00'36"</p> </td> <td> <p>271,816</p> </td> <td> <p>509.707,378</p> </td> <td> <p>8.645.118,691</p> </td> </tr> <tr> <td> <p>V36</p> </td> <td> <p>V37</p> </td> <td> <p>270º56'12"</p> </td> <td> <p>830,877</p> </td> <td> <p>508.876,612</p> </td> <td> <p>8.645.132,275</p> </td> </tr> <tr> <td> <p>V37</p> </td> <td> <p>V38</p> </td> <td> <p>270º57'42"</p> </td> <td> <p>398,211</p> </td> <td> <p>508.478,457</p> </td> <td> <p>8.645.138,958</p> </td> </tr> <tr> <td> <p>V38</p> </td> <td> <p>V39</p> </td> <td> <p>271º57'11"</p> </td> <td> <p>952,340</p> </td> <td> <p>507.526,670</p> </td> <td> <p>8.645.171,414</p> </td> </tr> <tr> <td> <p>V39</p> </td> <td> <p>V1</p> </td> <td> <p>182º49'24"</p> </td> <td> <p>46,505</p> </td> <td> <p>507.524,380</p> </td> <td> <p>8.645.124,965</p> </td> </tr> </tbody> </table>

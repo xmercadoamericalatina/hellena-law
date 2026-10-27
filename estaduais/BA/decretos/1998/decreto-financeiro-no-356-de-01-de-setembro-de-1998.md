@@ -1,0 +1,51 @@
+---
+titulo: "Decreto nº 356, de 01/09/1998"
+uf: "BA"
+tipo: "Decreto"
+numero: "356"
+data: 1998-09-01
+ementa: "Abre, ao Orçamento Fiscal, na Secretaria da Indústria, Comércio e Mineração e no Instituto Baiano de Metrologia, Normalização e Qualidade Industrial - IBAMETRO, o crédito suplementar no valor de R$80.000,00 (oitenta mil reais), na forma que indica e"
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-financeiro-no-356-de-01-de-setembro-de-1998"
+baixado_em: 2026-10-16
+---
+# Decreto nº 356, de 01/09/1998
+
+DECRETO FINANCEIRO Nº 356 DE 01 DE SETEMBRO DE 1998
+
+Abre, ao Orçamento Fiscal, na Secretaria da Indústria, Comércio e Mineração e no Instituto Baiano de Metrologia, Normalização e Qualidade Industrial - IBAMETRO, o crédito suplementar no valor de R$80.000,00 (oitenta mil reais), na forma que indica e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, com fundamento na Lei nº 2.322, de 11 de abril de 1966, nos artigos 58, § 1º, incisos II e III e 62, inciso III e autorizado pela Lei nº 7.248, de 29 de dezembro de 1997, no art. 6º, incisos I, letras a , e c , III e parágrafo único ,
+
+D E C R E T A
+
+## Anexo I
+
+## Anexo II
+
+## Anexo III
+
+Parágrafo Único - Os recursos para atender ao crédito referido neste artigo correrão por conta do Excesso de Arrecadação da Entidade, no corrente exercício, conforme demonstrado no Processo nº 16.031/98-SEPLANTEC.
+
+**Art. 4º** - Este Decreto entrará em vigor na data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 01 de setembro de 1998.
+
+CÉSAR BORGES
+
+Governador
+
+Luiz Carreira
+
+Secretário do Planejamento, Ciência e Tecnologia
+
+Albérico Mascarenhas
+
+Secretário da Fazenda
+
+Geraldo Magalhães Machado
+
+Secretário da Indústria, Comércio e Mineração

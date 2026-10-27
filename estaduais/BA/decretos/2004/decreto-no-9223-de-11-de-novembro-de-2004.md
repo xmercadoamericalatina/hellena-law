@@ -1,0 +1,47 @@
+---
+titulo: "Decreto nº 9223, de 11/11/2004"
+uf: "BA"
+tipo: "Decreto"
+numero: "9223"
+data: 2004-11-11
+ementa: "Homologa o Decreto Municipal de Situação de Emergência que indica."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-9223-de-11-de-novembro-de-2004"
+baixado_em: 2026-10-16
+---
+# Decreto nº 9223, de 11/11/2004
+
+DECRETO Nº 9.223 DE 11 DE NOVEMBRO DE 2004
+
+Homologa o Decreto Municipal de Situação de Emergência que indica.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso das atribuições que lhe são conferidas pelo art. 105, inciso XII, da Constituição Estadual , e à vista do disposto no art. 12 do Decreto Federal nº 895, de 16 de agosto de 1993,
+
+considerando os fatores anormais e adversos decorrentes da longa estiagem ou interrupção do período chuvoso no curso produtivo, que estão a afetar as atividades econômicas e a atingir a população do Município de Campo Formoso;
+
+considerando as informações prestadas pela Coordenação de Defesa Civil - CORDEC;
+
+considerando competir ao Estado preservar o bem-estar da população e, nesse sentido, adotar as medidas que se fizerem necessárias,
+
+D E C R E T A
+
+**Art. 1º** - Fica homologado o Decreto Municipal nº 069, de 27 de outubro de 2004, do Prefeito Municipal de Campo Formoso, que declarou em Situação de Emergência, pelo prazo de 90 (noventa) dias, a parte leste do Município de Campo Formoso, notadamente os povoados de Garimpo do Socotó, Recanto, Gangorra, Tuiutiba, Boa Esperança, Brejo do Tamanduá, Gavião, Lagoa do Pastoreador, Lagoa Seca, Panelhinhas, Vanvana, Canavieira, Bananeira, Candeias, Grota da Gia, Barroca do Hermógenes, Sucesso, Boi Morto, Mandacarú, Abóbora, Baixio, Puxadeira, Sapucaia, Cercadinho, Angico, Pitiá, Cerrado, Pinheiro, Pouso Alegre, Campo Alegre, Curral da Ponta, Três Barras, Cedro, Borda da Mata, Alagadiço dos Algodões, Lagoa do Mato, Ilhote, Papagaio, Queimada da Lages, Campinhos, Torrões, Barreiros, Santo Antonio, Lagoa Rasa, Água dos Pássaros, Carrasco, Campo de Fora, Lagoa da Roça, Caraíbas, Olaria, Folha Larga, Caldeirão Verde, Poço Velho, Poço do Zé Rouxinho, Olho DÁguinha, Lagoa Funda, Tombão, Fazenda Recreio, Campo Frio, Alvaçã, Limoeiro, Brejo Grande, Terceira Ponte e Poços.
+
+**Art. 2º** - Este Decreto de Homologação entrará em vigor na data de sua publicação, retroagindo seus efeitos à correspondente data de declaração de Situação de Emergência no Município, e vigerá pelo prazo de 90 (noventa) dias, a contar da aludida data.
+
+**Art. 3º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 11 de novembro de 2004.
+
+PAULO SOUTO
+
+Governador
+
+Ruy Tourinho
+
+Secretário de Governo
+
+Eduardo Oliveira Santos
+
+Secretário do Trabalho e Ação Social

@@ -1,0 +1,48 @@
+---
+titulo: "Lei Ordinária nº 1875, de 27/03/1963"
+uf: "BA"
+tipo: "Lei Ordinária"
+numero: "1875"
+data: 1963-03-27
+ementa: "Considera de utilidade pública, o Instituto Feminino Nossa Senhora de Nazaré, da Cidade de Nazaré."
+versao_texto: "texto do Portal de Legislação da Bahia"
+publicacao: ""
+fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-1875-de-27-de-marco-de-1963"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 1875, de 27/03/1963
+
+LEI Nº 1.875 DE 27 DE MARÇO DE 1963
+
+Considera de utilidade pública, o Instituto Feminino Nossa Senhora de Nazaré, da Cidade de Nazaré.
+
+O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** - É considerado de utilidade pública o Instituto Feminino Nossa Senhora de Nazaré, com sede na Cidade de Nazaré.
+
+**Art. 2º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 27 de março de 1963.
+
+JURACY MAGALHÃES
+
+Governador
+
+Adhemar Martineli Braga
+
+Manoel Evangelista de Brito
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

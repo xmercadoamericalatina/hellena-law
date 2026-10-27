@@ -1,0 +1,79 @@
+---
+titulo: "Lei Ordinária nº 2788, de 28/01/1970"
+uf: "BA"
+tipo: "Lei Ordinária"
+numero: "2788"
+data: 1970-01-28
+ementa: "Reestrutura o cargo de Médico do Estado, fixa valores e dá outras providências."
+versao_texto: "texto do Portal de Legislação da Bahia"
+publicacao: ""
+fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-2788-de-28-de-janeiro-de-1970"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 2788, de 28/01/1970
+
+LEI Nº 2.788 DE 28 DE JANEIRO DE 1970
+
+Reestrutura o cargo de Médico do Estado, fixa valores e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** - Ficam constituídas as séries de classes de Médico e Médico Legista do Estado com a estrutura e os valores de vencimentos constantes do Anexo.
+
+**Art. 2º** - O ingresso na classe inicial das Séries de Classes de Médico e Médico Legista do Estado far-se-á concurso público de provas e títulos dentre os diplomados em medicina ou por transferência, mediante prova de habilitação observados os dispositivos estatutários e formalidades específicas.
+
+**Art. 3º** - Ficam automaticamente enquadrados, com extinção dos cargos atualmente existentes, os atuais ocupantes dos cargos das classes Singulares de Médico e Médico Sanitarista na Série de Classes de Médico e os de Classe Singular de Médico Legista, na Série de Classes de igual denominação de acordo com o seguinte critério:
+
+a) médicos com mais de 10 anos de serviço público ou possuidor de curso oficial de Saúde Pública ou curso oficial de Organização e Administração Hospitalar - classe II;
+
+b) médicos com menos de 10 anos de serviço público, sem curso de Saúde Pública - classe I.
+
+**Parágrafo único** - Se do enquadramento determinado neste artigo resultar número de ocupantes da classe II superior ao número fixado no Anexo , serão os respectivos cargos considerados excedentes passando na vacância a integrar a classe I.
+
+**Art. 4º** - As vagas atualmente existentes nas classes singulares de Médico, Médico Sanitarista e Médico Legista passam a integrar a referência I das Séries de Classe de Médico e Médico Legista ora criadas.
+
+**Art. 5º** - Dentro no prazo de 30 dias da data da publicação desta lei, os Serviços de Administração Geral dos órgãos da administração centralizada expedirão as respectivas apostilas individuais dentro do atual regime de lotação funcional.
+
+**Art. 6º** - Por ocasião da primeira majoração de vencimentos, será reestruturada a escala geral do funcionário público civil do Estado no sentido de serem reincluídas as Séries de Classe de Médico e Médico Legista em níveis compatíveis com a presente estrutura.
+
+**Parágrafo único** - Será igualmente, estudada a situação dos demais cargos de nível universitário fazendo-se um escalamento de acordo com critérios a serem fixados.
+
+**Art. 7º** - Para atender as despesas decorrentes desta lei, fica o Poder Executivo autorizado a abrir crédito suplementar da quantia de NCr$ 2.274.800,00 (dois milhões, duzentos e setenta e quatro mil e oitocentos cruzeiros novos) às dotações específicas do orçamento vigente, deduzindo o valor desse crédito da verba orçamentaria a isso destinada.
+
+**Art. 8º** - Esta Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 28 de janeiro de 1970.
+
+LUIZ VIANA FILHO
+
+José Duarte de Araújo
+
+Bóris Tabacof
+
+## ANEXO
+
+a) - MÉDICO
+
+| Classe | Nº de Cargos | Valor |
+| --- | --- | --- |
+| II | 550 | NCr$ 750,00 |
+| I | 400 | NCr$ 680,00 |
+| b) - MÉDICO LEGISTA |  |  |
+| Classe | Nº de Cargos | Valor |
+| II | 20 | NCr$ 750,00 |
+| I | 30 | NCr$ 680,00 |
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

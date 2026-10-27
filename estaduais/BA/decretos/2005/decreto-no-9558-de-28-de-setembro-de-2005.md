@@ -1,0 +1,101 @@
+---
+titulo: "Decreto nº 9558, de 28/09/2005"
+uf: "BA"
+tipo: "Decreto"
+numero: "9558"
+data: 2005-09-28
+ementa: "Aprova o Relatório de Gestão Fiscal do segundo quadrimestre de 2005."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-9558-de-28-de-setembro-de-2005"
+baixado_em: 2026-10-16
+---
+# Decreto nº 9558, de 28/09/2005
+
+DECRETO Nº 9.558 DE 28 DE SETEMBRO DE 2005
+
+Aprova o Relatório de Gestão Fiscal do segundo quadrimestre de 2005.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, e considerando o disposto nos artigos 54 e 55, da Lei Complementar nº 101, de 04 de maio de 2000,
+
+D E C R E T A
+
+**Art. 1º** - Fica aprovado o Relatório de Gestão Fiscal, referente ao segundo quadrimestre do exercício de 2005, que com este se publica.
+
+**Art. 2º** - Este Decreto entrará em vigor na data de sua publicação.
+
+**Art. 3º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 28 de setembro de 2005.
+
+PAULO SOUTO
+
+Governador
+
+Ruy Tourinho
+
+Secretário de Governo
+
+Marcelo Barros
+
+Secretário da Administração
+
+Anaci Bispo Paim
+
+Secretária da Educação
+
+José Luiz Pérez Garrido
+
+Secretário da Indústria, Comércio e Mineração
+
+Eraldo Tinoco
+
+Secretário de Infra-Estrutura
+
+Edson Sá Rocha
+
+Secretário da Segurança Pública
+
+Paulo Renato Dantas Gaudenzi
+
+Secretário da Cultura e Turismo
+
+Roberto Moussallem de Andrade
+
+Secretário de Desenvolvimento Urbano
+
+Albérico Machado Mascarenhas
+
+Secretário da Fazenda
+
+Armando Avena Filho
+
+Secretário do Planejamento
+
+Pedro Barbosa de Deus
+
+Secretário da Agricultura, Irrigação e Reforma Agrária
+
+Sérgio Ferreira
+
+Secretário da Justiça e Direitos Humanos
+
+José Antonio Rodrigues Alves
+
+Secretário da Saúde
+
+Eduardo Oliveira Santos
+
+Secretário do Trabalho, Assistência Social e Esporte
+
+Clodoveo Piazza
+
+Secretário de Combate à Pobreza e às Desigualdades Sociais
+
+Jorge Khoury Hedaye
+
+Secretário de Meio Ambiente e Recursos Hídricos
+
+Rafael Esmeraldo Lucchesi Ramacciotti
+
+Secretário de Ciência, Tecnologia e Inovação

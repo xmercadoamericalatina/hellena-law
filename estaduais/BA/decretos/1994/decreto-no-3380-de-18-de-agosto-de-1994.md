@@ -1,0 +1,55 @@
+---
+titulo: "Decreto nº 3380, de 18/08/1994"
+uf: "BA"
+tipo: "Decreto"
+numero: "3380"
+data: 1994-08-18
+ementa: "Abre, ao Orçamento da Seguridade, no Instituto de Assistência e Previdência dos Servidores do Estado da Bahia - IAPSEB, o crédito suplementar no valor de R$320.000,00 (trezentos e vinte mil reais), na forma que indica e dá outras providências."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-3380-de-18-de-agosto-de-1994"
+baixado_em: 2026-10-16
+---
+# Decreto nº 3380, de 18/08/1994
+
+DECRETO Nº 3.380 DE 18 DE AGOSTO DE 1994
+
+Abre, ao Orçamento da Seguridade, no Instituto de Assistência e Previdência dos Servidores do Estado da Bahia - IAPSEB, o crédito suplementar no valor de R$320.000,00 (trezentos e vinte mil reais), na forma que indica e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, com fundamento no que dispõem os artigos 58, parágrafo 1º, inciso III e 62, inciso III, da Lei nº 2.322/66 , segundo as alterações introduzidas pela Lei nº 2.588/68 , e devidamente autorizado pelo artigo 7º, inciso I, letra a e parágrafo único da Lei nº 6.528/93 ,
+
+D E C R E T A
+
+**Art. 1º** - Fica aberto, ao Orçamento da Seguridade, no Instituto de Assistência e Previdência dos Servidores do Estado da Bahia - IAPSEB, o crédito suplementar no valor de R$320.000,00 (trezentos e vinte mil reais), a ser consignado à seguinte atividade:
+
+<table>  <tr>   <td>   <p>ENTIDADE</p>   </td>   <td>   <p>PROJETO/ ATIVIDADE</p>   </td>   <td>   <p>GRUPO DE DESPESA</p>   </td>   <td>   <p>VALOR            (R$1,00)</p>   </td>  </tr>  <tr>   <td>   <p>09.60</p>   </td>   <td>   <p>15820334.925</p>   </td>   <td>   <p>4.7.00.00</p>   </td>   <td>   <p>260.000</p>   </td>  </tr>  <tr>   <td>   <p></p>   </td>   <td>   <p></p>   </td>   <td>   <p>3.2.00.00</p>   </td>   <td>   <p>60.000</p>   </td>  </tr>  <tr>   <td>   <p></p>   </td>   <td>   <p></p>   </td>   <td>   <p>TOTAL</p>   </td>   <td>   <p>320.000</p>   </td>  </tr> </table>
+
+**Parágrafo único** - Os acréscimos resultantes da suplementação de que trata este artigo são detalhados e apropriados no Orçamento Analítico vigente da Entidade da seguinte forma:
+
+<table>  <tr>   <td>   <p>ENTIDADE</p>   </td>   <td>   <p>PROJETO/ ATIVIDADE</p>   </td>   <td>   <p>NAT. DA DESPESA</p>   </td>   <td>   <p>FONTE DE RECURSOS</p>   </td>   <td>   <p>VALOR (R$1,00)</p>   </td>  </tr>  <tr>   <td>   <p>09.60</p>   </td>   <td>   <p>15820334.925</p>   </td>   <td>   <p>4.7.90.71</p>   </td>   <td>   <p>40</p>   </td>   <td>   <p>260.000</p>   </td>  </tr>  <tr>   <td>   <p></p>   </td>   <td>   <p></p>   </td>   <td>   <p>3.2.90.24</p>   </td>   <td>   <p>40</p>   </td>   <td>   <p>40.000</p>   </td>  </tr>  <tr>   <td>   <p></p>   </td>   <td>   <p></p>   </td>   <td>   <p>3.2.90.21</p>   </td>   <td>   <p>40</p>   </td>   <td>   <p>20.000</p>   </td>  </tr>  <tr>   <td>   <p></p>   </td>   <td>   <p></p>   </td>   <td>   <p></p>   </td>   <td>   <p>TOTAL</p>   </td>   <td>   <p>320.000</p>   </td>  </tr> </table>
+
+**Art. 2º** - As despesas decorrentes da abertura do presente crédito suplementar correrão por conta da anulação da dotação consignada no Orçamento Analítico vigente da Entidade à seguinte atividade:
+
+<table>  <tr>   <td>   <p>ENTIDADE</p>   </td>   <td>   <p>PROJETO/ ATIVIDADE</p>   </td>   <td>   <p>NAT. DA DESPESA</p>   </td>   <td>   <p>FONTE DE    RECURSOS</p>   </td>   <td>   <p>VALOR      (R$1,00)</p>   </td>  </tr>  <tr>   <td>   <p>09.60</p>   </td>   <td>   <p>13814284.106</p>   </td>   <td>   <p>4.6.90.62</p>   </td>   <td>   <p>40</p>   </td>   <td>   <p>320.000</p>   </td>  </tr> </table>
+
+**Art. 3º** - Este Decreto entra em vigor na data da sua publicação.
+
+**Art. 4º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 18 de agosto de 1994.
+
+ANTONIO IMBASSAHY
+
+Governador
+
+Luiz Antonio Vasconcellos Carreira
+
+Secretário do Planejamento, Ciência e Tecnologia
+
+Rodolpho Tourinho Neto
+
+Secretário da Fazenda
+
+Edilson Souto Freire
+
+Secretário da Administração

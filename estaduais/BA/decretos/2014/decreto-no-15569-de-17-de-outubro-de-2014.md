@@ -1,0 +1,47 @@
+---
+titulo: "Decreto nº 15569, de 17/10/2014"
+uf: "BA"
+tipo: "Decreto"
+numero: "15569"
+data: 2014-10-17
+ementa: "Declara de utilidade pública, para fins de constituição de servidão administrativa, as áreas de terra que indica."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-15569-de-17-de-outubro-de-2014"
+baixado_em: 2026-10-16
+---
+# Decreto nº 15569, de 17/10/2014
+
+DECRETO Nº 15.569 DE 17 DE OUTUBRO DE 2014
+
+Declara de utilidade pública, para fins de constituição de servidão administrativa, as áreas de terra que indica.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições e à vista do disposto no art. 105, inciso V, da Constituição Estadual, e no art. 5º, alínea "h", combinado com o art. 40, ambos do Decreto-Lei nº 3.365, de 21 de junho de 1941, e alterações posteriores, e do que consta do Processo nº 1420140054260, da Companhia de Engenharia Ambiental e Recursos Hídricos da Bahia - CERB,
+
+D E C R E T A
+
+**Art. 1º** - Ficam declaradas de utilidade pública, para fins de constituição de servidão administrativa, as áreas de terra, com as acessões e benfeitorias nelas existentes, totalizando 888,92m², pertencentes a quem de direito, situadas no Município de Bom Jesus da Serra - Bahia, abrangendo a localidade de Corredor, conforme estudos e projetos realizados pela Companhia de Engenharia Ambiental e Recursos Hídricos da Bahia - CERB, e coordenadas constantes dos Anexos I e II deste Decreto.
+
+**Parágrafo único** - As áreas de terra de que trata este artigo destinam-se à implantação de componentes de Adutoras e Redes de Distribuição, pertencentes ao Sistema Simplificado de Abastecimento de Água da localidade de Corredor, no Município de Bom Jesus da Serra - Bahia.
+
+**Art. 2º** - Fica a Companhia de Engenharia Ambiental e Recursos Hídricos da Bahia - CERB, vinculada à Secretaria do Meio Ambiente, autorizada a promover os atos administrativos e judiciais, se necessário em caráter de urgência, com vistas à efetivação da constituição de servidão administrativa de que trata este Decreto, e a imitir-se na posse respectiva, providenciando, inclusive, a liquidação e o pagamento da indenização, utilizando-se, para tanto, dos recursos de que dispuser.
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 17 de outubro de 2014.
+
+JAQUES WAGNER
+
+Governador
+
+Carlos Mello
+
+Secretário da Casa Civil em exercício
+
+Eugênio Spengler
+
+Secretário do Meio Ambiente
+
+<table> <tbody> <tr> <td colspan="7"> <p><strong>ANEXO I</strong><br> Cálculo Analítico de Área. Azimute. Coordenadas UTM<br> IMÓVEL: ADUTORA/REDE DE DISTRIBUIÇÃO<br> MUNICÍPIO: BOM JESUS DA SERRA<br> LOCALIDADE: CORREDOR-MI-MEM<br> ÁREA: 860,06m²<br> PERÍMETRO: 862.061m</p> </td> </tr> <tr> <td> <p>SEG</p> </td> <td> <p>UTM X1</p> </td> <td> <p>UTM Y1</p> </td> <td> <p>UTM X2</p> </td> <td> <p>UTM Y2</p> </td> <td> <p>Distância</p> </td> <td> <p>Azimute</p> </td> </tr> <tr> <td> <p>01--02</p> </td> <td> <p>334286,53</p> </td> <td> <p>8419360,46</p> </td> <td> <p>334277,55</p> </td> <td> <p>8419346,5</p> </td> <td> <p>16,6</p> </td> <td> <p>21244"07'</p> </td> </tr> <tr> <td> <p>02--03</p> </td> <td> <p>334277,55</p> </td> <td> <p>8419346,5</p> </td> <td> <p>334268,82</p> </td> <td> <p>8419329,76</p> </td> <td> <p>18,88</p> </td> <td> <p>20734"02'</p> </td> </tr> <tr> <td> <p>03--04</p> </td> <td> <p>334268,82</p> </td> <td> <p>8419329,76</p> </td> <td> <p>334269,4</p> </td> <td> <p>8419296,14</p> </td> <td> <p>33,63</p> </td> <td> <p>17859"58'</p> </td> </tr> <tr> <td> <p>04--05</p> </td> <td> <p>334269,4</p> </td> <td> <p>8419296,14</p> </td> <td> <p>334272</p> </td> <td> <p>8419286,13</p> </td> <td> <p>10,33</p> </td> <td> <p>16527"34'</p> </td> </tr> <tr> <td> <p>05--06</p> </td> <td> <p>334272</p> </td> <td> <p>8419286,13</p> </td> <td> <p>334272,69</p> </td> <td> <p>8419234,06</p> </td> <td> <p>52,08</p> </td> <td> <p>17914"33'</p> </td> </tr> <tr> <td> <p>06--07</p> </td> <td> <p>334272,69</p> </td> <td> <p>8419234,06</p> </td> <td> <p>334276,65</p> </td> <td> <p>8419199,41</p> </td> <td> <p>34,88</p> </td> <td> <p>17328"49'</p> </td> </tr> <tr> <td> <p>07--08</p> </td> <td> <p>334276,65</p> </td> <td> <p>8419199,41</p> </td> <td> <p>334323,75</p> </td> <td> <p>8419141,67</p> </td> <td> <p>74,51</p> </td> <td> <p>14047"41'</p> </td> </tr> <tr> <td> <p>08--09</p> </td> <td> <p>334323,75</p> </td> <td> <p>8419141,67</p> </td> <td> <p>334356,93</p> </td> <td> <p>8419107,58</p> </td> <td> <p>47,57</p> </td> <td> <p>13546"26'</p> </td> </tr> <tr> <td> <p>09--10</p> </td> <td> <p>334356,93</p> </td> <td> <p>8419107,58</p> </td> <td> <p>334369,61</p> </td> <td> <p>8419080,39</p> </td> <td> <p>29,99</p> </td> <td> <p>15459"38'</p> </td> </tr> <tr> <td> <p>10--11</p> </td> <td> <p>334369,61</p> </td> <td> <p>8419080,39</p> </td> <td> <p>334393,44</p> </td> <td> <p>8419019,33</p> </td> <td> <p>65,55</p> </td> <td> <p>15840"33'</p> </td> </tr> <tr> <td> <p>11--12</p> </td> <td> <p>334393,44</p> </td> <td> <p>8419019,33</p> </td> <td> <p>334406,95</p> </td> <td> <p>8418976,3</p> </td> <td> <p>45,1</p> </td> <td> <p>16234"13'</p> </td> </tr> <tr> <td> <p>12--13</p> </td> <td> <p>334406,95</p> </td> <td> <p>8418976,3</p> </td> <td> <p>334405,05</p> </td> <td> <p>8418975,7</p> </td> <td> <p>2</p> </td> <td> <p>25234"13'</p> </td> </tr> <tr> <td> <p>13--14</p> </td> <td> <p>334405,05</p> </td> <td> <p>8418975,7</p> </td> <td> <p>334391,56</p> </td> <td> <p>8419018,67</p> </td> <td> <p>45,04</p> </td> <td> <p>34234"12'</p> </td> </tr> <tr> <td> <p>14--15</p> </td> <td> <p>334391,56</p> </td> <td> <p>8419018,67</p> </td> <td> <p>334367,77</p> </td> <td> <p>8419079,61</p> </td> <td> <p>65,42</p> </td> <td> <p>33840"33'</p> </td> </tr> <tr> <td> <p>15--16</p> </td> <td> <p>334367,77</p> </td> <td> <p>8419079,61</p> </td> <td> <p>334355,26</p> </td> <td> <p>8419106,42</p> </td> <td> <p>29,59</p> </td> <td> <p>33459"38'</p> </td> </tr> <tr> <td> <p>16--17</p> </td> <td> <p>334355,26</p> </td> <td> <p>8419106,42</p> </td> <td> <p>334322,25</p> </td> <td> <p>8419140,33</p> </td> <td> <p>47,32</p> </td> <td> <p>31546"26'</p> </td> </tr> <tr> <td> <p>17--18</p> </td> <td> <p>334322,25</p> </td> <td> <p>8419140,33</p> </td> <td> <p>334274,73</p> </td> <td> <p>8419198,6</p> </td> <td> <p>75,19</p> </td> <td> <p>32047"41'</p> </td> </tr> <tr> <td> <p>18--19</p> </td> <td> <p>334274,73</p> </td> <td> <p>8419198,6</p> </td> <td> <p>334270,69</p> </td> <td> <p>8419233,94</p> </td> <td> <p>35,57</p> </td> <td> <p>35328"49'</p> </td> </tr> <tr> <td> <p>19--20</p> </td> <td> <p>334270,69</p> </td> <td> <p>8419233,94</p> </td> <td> <p>334270</p> </td> <td> <p>8419285,87</p> </td> <td> <p>51,93</p> </td> <td> <p>35914"33'</p> </td> </tr> <tr> <td> <p>20--21</p> </td> <td> <p>334270</p> </td> <td> <p>8419285,87</p> </td> <td> <p>334267,41</p> </td> <td> <p>8419295,86</p> </td> <td> <p>10,33</p> </td> <td> <p>34527"34'</p> </td> </tr> <tr> <td> <p>21--22</p> </td> <td> <p>334267,41</p> </td> <td> <p>8419295,86</p> </td> <td> <p>334266,81</p> </td> <td> <p>8419330,24</p> </td> <td> <p>34,38</p> </td> <td> <p>35859"58'</p> </td> </tr> <tr> <td> <p>22--23</p> </td> <td> <p>334266,81</p> </td> <td> <p>8419330,24</p> </td> <td> <p>334275,82</p> </td> <td> <p>8419347,5</p> </td> <td> <p>19,48</p> </td> <td> <p>2734"02'</p> </td> </tr> <tr> <td> <p>23--24</p> </td> <td> <p>334275,82</p> </td> <td> <p>8419347,5</p> </td> <td> <p>334284,85</p> </td> <td> <p>8419361,54</p> </td> <td> <p>16,69</p> </td> <td> <p>3244"07'</p> </td> </tr> <tr> <td> <p>24--01</p> </td> <td> <p>334284,85</p> </td> <td> <p>8419361,54</p> </td> <td> <p>334286,53</p> </td> <td> <p>8419360,46</p> </td> <td> <p>2</p> </td> <td> <p>12244"07'</p> </td> </tr> </tbody> </table>
+
+<table> <tbody> <tr> <td colspan="7"> <p><strong>ANEXO II</strong><br> Cálculo Analítico de Área. Azimute. Coordenadas UTM<br> IMÓVEL: ADUTORA/REDE DE DISTRIBUIÇÃO<br> MUNICÍPIO: BOM JESUS DA SERRA<br> LOCALIDADE: CORREDOR-MI-MEM<br> ÁREA: 28,86m²<br> PERÍMETRO: 30.862m</p> </td> </tr> <tr> <td> <p>SEG</p> </td> <td> <p>UTM X1</p> </td> <td> <p>UTM Y1</p> </td> <td> <p>UTM X2</p> </td> <td> <p>UTM Y2</p> </td> <td> <p>Distância</p> </td> <td> <p>Azimute</p> </td> </tr> <tr> <td> <p>01--02</p> </td> <td> <p>334413,79</p> </td> <td> <p>8418971,59</p> </td> <td> <p>334416,88</p> </td> <td> <p>8418975,85</p> </td> <td> <p>5,27</p> </td> <td> <p>3600"03'</p> </td> </tr> <tr> <td> <p>02--03</p> </td> <td> <p>334416,88</p> </td> <td> <p>8418975,85</p> </td> <td> <p>334426,18</p> </td> <td> <p>8418978,95</p> </td> <td> <p>9,81</p> </td> <td> <p>7133"54'</p> </td> </tr> <tr> <td> <p>03--04</p> </td> <td> <p>334426,18</p> </td> <td> <p>8418978,95</p> </td> <td> <p>334426,82</p> </td> <td> <p>8418977,05</p> </td> <td> <p>2</p> </td> <td> <p>16133"54'</p> </td> </tr> <tr> <td> <p>04--05</p> </td> <td> <p>334426,82</p> </td> <td> <p>8418977,05</p> </td> <td> <p>334418,12</p> </td> <td> <p>8418974,15</p> </td> <td> <p>9,17</p> </td> <td> <p>25133"54'</p> </td> </tr> <tr> <td> <p>05--06</p> </td> <td> <p>334418,12</p> </td> <td> <p>8418974,15</p> </td> <td> <p>334415,4</p> </td> <td> <p>8418970,41</p> </td> <td> <p>4,62</p> </td> <td> <p>21600"03'</p> </td> </tr> <tr> <td> <p>06--01</p> </td> <td> <p>334415,4</p> </td> <td> <p>8418970,41</p> </td> <td> <p>334413,79</p> </td> <td> <p>8418971,59</p> </td> <td> <p>2</p> </td> <td> <p>30600"03'</p> </td> </tr> </tbody> </table>

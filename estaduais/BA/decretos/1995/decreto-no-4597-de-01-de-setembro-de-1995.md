@@ -1,0 +1,53 @@
+---
+titulo: "Decreto nº 4597, de 01/09/1995"
+uf: "BA"
+tipo: "Decreto"
+numero: "4597"
+data: 1995-09-01
+ementa: "Altera o 3º Plano Trimestral de Aplicação das Secretarias do Estado, aprovados pelos Decretos nºs 4.433/95 e 4.471/95 , e determina outras providências."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-4597-de-01-de-setembro-de-1995"
+baixado_em: 2026-10-16
+---
+# Decreto nº 4597, de 01/09/1995
+
+DECRETO Nº 4.597 DE 01 DE SETEMBRO DE 1995
+
+Altera o 3º Plano Trimestral de Aplicação das Secretarias do Estado, aprovados pelos Decretos nºs 4.433/95 e 4.471/95 , e determina outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, com fundamento no que dispõe o artigo 27, parágrafos 3º e 5º , da Lei nº 2.322/66 , com a redação dada pela Lei nº 3.737/79 ,
+
+D E C R E T A
+
+**Art. 1º** - Ficam alterados, na conformidade dos quadros em anexo , que integram o presente Decreto, o 3º Plano Trimestral de Aplicação da Secretaria e órgão abaixo indicados:
+
+<table>  <tr>   <td>   <p></p>   </td>   <td>   <p></p>   </td>   <td>   <p></p>   </td>   <td>   <p></p>   </td>   <td>   <p>(R$ 1,00)</p>   </td>  </tr>  <tr>   <td>   <p>CÓDIGO</p>   </td>   <td>   <p>SECRETARIA/ÓRGÃO</p>   </td>   <td colspan="3">   <p>RECURSOS ACUMULADOS DO 3º PTA</p>   </td>  </tr>  <tr>   <td>   <p></p>   </td>   <td>   <p></p>   </td>   <td>   <p>ORDINÁRIOS</p>   </td>   <td>   <p>VINCULADOS</p>   </td>   <td>   <p>TOTAL</p>   </td>  </tr>  <tr>   <td>   <p>07.00</p>   </td>   <td>   <p>GABINETE DO VICE -GOVERNADOR</p>   </td>   <td>   <p>                           20.000</p>   </td>   <td>   <p></p>   </td>   <td>   <p>                                   20.000</p>   </td>  </tr>  <tr>   <td>   <p>19.00</p>   </td>   <td>   <p>SAÚDE</p>   </td>   <td>   <p>9.781.604</p>   </td>   <td>   <p>31.592.290</p>   </td>   <td>   <p>41.373.894</p>   </td>  </tr>  <tr>   <td colspan="2">   <p>ACUMULADO DO ESTADO</p>   </td>   <td>   <p>133.009.533</p>   </td>   <td>   <p>84.236.937</p>   </td>   <td>   <p>217.246.470</p>   </td>  </tr> </table>
+
+**Art. 2º** - Os demais projetos e atividades constantes do Plano Trimestral de Aplicação, continuam vigorando com seus valores originalmente aprovados ou modificados por decretos anteriores.
+
+**Art. 3º** - Este Decreto entra em vigor na data da sua publicação.
+
+**Art. 4º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 01 de setembro de 1995.
+
+PAULO SOUTO
+
+Governador
+
+Luiz Antonio Vasconcellos Carreira
+
+Secretário do Planejamento, Ciência e Tecnologia
+
+Rodolpho Tourinho Neto
+
+Secretário da Fazenda
+
+José Maria de Magalhães Netto
+
+Secretário da Saúde
+
+## ANEXO
+
+## ANEXO

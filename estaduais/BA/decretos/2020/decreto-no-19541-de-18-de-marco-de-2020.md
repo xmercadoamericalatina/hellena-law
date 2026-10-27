@@ -1,0 +1,45 @@
+---
+titulo: "Decreto nº 19541, de 18/03/2020"
+uf: "BA"
+tipo: "Decreto"
+numero: "19541"
+data: 2020-03-18
+ementa: "Declara de utilidade pública, para fins de constituição de servidão administrativa, a área de terra que indica."
+publicacao: "DOE quinta-feira, 19 de Março de 2020"
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-19541-de-18-de-marco-de-2020"
+baixado_em: 2026-10-16
+---
+# Decreto nº 19541, de 18/03/2020
+
+DECRETO Nº 19.541 DE 18 DE MARÇO DE 2020
+
+Declara de utilidade pública, para fins de constituição de servidão administrativa, a área de terra que indica.
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições e à vista do disposto no inciso V do art. 105 da Constituição Estadual, na alínea "h” do art. 5º, combinado com o art. 40, ambos do Decreto-Lei Federal nº 3.365, de 21 de junho de 1941, e alterações posteriores, e do que consta no Processo SEI nº 100.0899.2020.0000631-12, da Empresa Baiana de Águas e Saneamento S/A - EMBASA, vinculada à Secretaria de Infraestrutura Hídrica e Saneamento,
+
+D E C R E T A
+
+**Art. 1º** - Fica declarada de utilidade pública, para fins de constituição de servidão administrativa, a área de terra medindo 3.110,42m², com as acessões e benfeitorias nela existentes, pertencente a quem de direito, situada na Fazenda Bom Sucesso ao norte da Ferrovia Centro Atlântico, no Município de Caculé - Bahia, conforme estudo e projeto realizados pela Empresa Baiana de Águas e Saneamento S/A - EMBASA, e coordenadas constantes do Anexo Único deste Decreto.
+
+**Parágrafo único -** A área de terra de que trata este artigo destina-se à implantação de Adutora de Água Bruta Truvisco-Rio do Antônio, pertencente ao Sistema Integrado de Abastecimento de Água de Rio do Antônio, no Município de Caculé -Bahia.
+
+**Art. 2º** - Fica a Empresa Baiana de Águas e Saneamento S/A - EMBASA autorizada a promover os atos administrativos e judiciais, se necessário em caráter de urgência, com vistas à efetivação da constituição de servidão administrativa de que trata este Decreto, e a imitir-se na posse respectiva, providenciando, inclusive, a liquidação e o pagamento da indenização, utilizando-se, para tanto, dos recursos de que dispuser.
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 18 de março de 2020.
+
+RUI COSTA
+
+Governador
+
+Bruno Dauster
+
+Secretário da Casa Civil
+
+Leonardo Góes Silva
+
+Secretário de Infraestrutura Hídrica e Saneamento
+
+<table> 	<tbody> 		<tr> 			<td colspan="6"> 			<p><strong>ANEXO ÚNICO</strong><br> 			Cálculo Analítico de Área. Azimute. Coordenadas SIRGAS<br> 			IMÓVEL: Adutora de Água Bruta Truvisco-Rio do Antônio<br> 			MUNICÍPIO: Caculé - Bahia<br> 			LOCALIDADE: Fazenda Bom Sucesso ao norte da Ferrovia Centro Atlântico</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>Estação</p> 			</td> 			<td> 			<p>Vante</p> 			</td> 			<td> 			<p>Coord. Leste (m)</p> 			</td> 			<td> 			<p>Coord. Norte (m)</p> 			</td> 			<td> 			<p>Azimute</p> 			</td> 			<td> 			<p>Dist. (m)</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V1</p> 			</td> 			<td> 			<p>V2</p> 			</td> 			<td> 			<p>801.170,750 </p> 			</td> 			<td> 			<p>8.394.937,783</p> 			</td> 			<td> 			<p>246[º]45'14,4655"</p> 			</td> 			<td> 			<p>4,46</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V2</p> 			</td> 			<td> 			<p>V3</p> 			</td> 			<td> 			<p>801.166,651</p> 			</td> 			<td> 			<p>8.394.936,023</p> 			</td> 			<td> 			<p>3[º]01'42,2482"</p> 			</td> 			<td> 			<p>77,55</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V3</p> 			</td> 			<td> 			<p>V4</p> 			</td> 			<td> 			<p>801.170,748</p> 			</td> 			<td> 			<p>8.395.013,462</p> 			</td> 			<td> 			<p>9[º]57'39,6102"</p> 			</td> 			<td> 			<p>49,05</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V4</p> 			</td> 			<td> 			<p>V5</p> 			</td> 			<td> 			<p>801.179,234</p> 			</td> 			<td> 			<p>8.395.061,776</p> 			</td> 			<td> 			<p>20[º]39'39,8671"</p> 			</td> 			<td> 			<p>65,67</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V5</p> 			</td> 			<td> 			<p>V6</p> 			</td> 			<td> 			<p>801.202,404</p> 			</td> 			<td> 			<p>8.395.123,221</p> 			</td> 			<td> 			<p>25[º]56'15,1228"</p> 			</td> 			<td> 			<p>110,96</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V6</p> 			</td> 			<td> 			<p>V7</p> 			</td> 			<td> 			<p>801.250,936</p> 			</td> 			<td> 			<p>8.395.223,003</p> 			</td> 			<td> 			<p>20[º]53'45,222"</p> 			</td> 			<td> 			<p>183,40</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V7</p> 			</td> 			<td> 			<p>V8</p> 			</td> 			<td> 			<p>801.316,351</p> 			</td> 			<td> 			<p>8.395.394,344</p> 			</td> 			<td> 			<p>55[º]35'35,7407"</p> 			</td> 			<td> 			<p>30,03</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V8</p> 			</td> 			<td> 			<p>V9</p> 			</td> 			<td> 			<p>801.341,129</p> 			</td> 			<td> 			<p>8.395.411,314</p> 			</td> 			<td> 			<p>70[º]05'14,1858"</p> 			</td> 			<td> 			<p>53,08</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V9</p> 			</td> 			<td> 			<p>V10</p> 			</td> 			<td> 			<p>801.391,037</p> 			</td> 			<td> 			<p>8.395.429,393</p> 			</td> 			<td> 			<p>63[º]19'34,0271"</p> 			</td> 			<td> 			<p>91,73</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V10</p> 			</td> 			<td> 			<p>V11</p> 			</td> 			<td> 			<p>801.473,004</p> 			</td> 			<td> 			<p>8.395.470,571</p> 			</td> 			<td> 			<p>312[º]02'04,6926"</p> 			</td> 			<td> 			<p>74,45</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V11</p> 			</td> 			<td> 			<p>V12</p> 			</td> 			<td> 			<p>801.417,704</p> 			</td> 			<td> 			<p>8.395.520,424</p> 			</td> 			<td> 			<p>323[º]41'47,1973"</p> 			</td> 			<td> 			<p>27,64</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V12</p> 			</td> 			<td> 			<p>V13</p> 			</td> 			<td> 			<p>801.401,337</p> 			</td> 			<td> 			<p>8.395.542,702</p> 			</td> 			<td> 			<p>344[º]44'01,3756"</p> 			</td> 			<td> 			<p>18,36</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V13</p> 			</td> 			<td> 			<p>V14</p> 			</td> 			<td> 			<p>801.396,503</p> 			</td> 			<td> 			<p>8.395.560,416</p> 			</td> 			<td> 			<p>72[º]06'02,5613"</p> 			</td> 			<td> 			<p>4,37</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V14</p> 			</td> 			<td> 			<p>V15</p> 			</td> 			<td> 			<p>801.400,665</p> 			</td> 			<td> 			<p>8.395.561,760</p> 			</td> 			<td> 			<p>161[º]19'13,6916"</p> 			</td> 			<td> 			<p>4,00</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V15</p> 			</td> 			<td> 			<p>V16</p> 			</td> 			<td> 			<p>801.401,946</p> 			</td> 			<td> 			<p>8.395.557,971</p> 			</td> 			<td> 			<p>167[º]14'53,7001"</p> 			</td> 			<td> 			<p>13,84</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V16</p> 			</td> 			<td> 			<p>V17</p> 			</td> 			<td> 			<p>801.405,001</p> 			</td> 			<td> 			<p>8.395.544,472</p> 			</td> 			<td> 			<p>143[º]41'47,4405"</p> 			</td> 			<td> 			<p>26,54</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V17</p> 			</td> 			<td> 			<p>V18</p> 			</td> 			<td> 			<p>801.420,714</p> 			</td> 			<td> 			<p>8.395.523,084</p> 			</td> 			<td> 			<p>131[º]56'12,1564"</p> 			</td> 			<td> 			<p>79,19</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V18</p> 			</td> 			<td> 			<p>V19</p> 			</td> 			<td> 			<p>801.479,624</p> 			</td> 			<td> 			<p>8.395.470,159</p> 			</td> 			<td> 			<p>242[º]56'26,9769"</p> 			</td> 			<td> 			<p>97,72</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V19</p> 			</td> 			<td> 			<p>V20</p> 			</td> 			<td> 			<p>801.392,601</p> 			</td> 			<td> 			<p>8.395.425,705</p> 			</td> 			<td> 			<p>250[º]05'14,132"</p> 			</td> 			<td> 			<p>52,79</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V20</p> 			</td> 			<td> 			<p>V21</p> 			</td> 			<td> 			<p>801.342,969</p> 			</td> 			<td> 			<p>8.395.407,726</p> 			</td> 			<td> 			<p>235[º]35'35,3925"</p> 			</td> 			<td> 			<p>28,33</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V21</p> 			</td> 			<td> 			<p>V22</p> 			</td> 			<td> 			<p>801.319,599</p> 			</td> 			<td> 			<p>8.395.391,720</p> 			</td> 			<td> 			<p>200[º]53'08,187"</p> 			</td> 			<td> 			<p>182,31</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V22</p> 			</td> 			<td> 			<p>V23</p> 			</td> 			<td> 			<p>801.254,606</p> 			</td> 			<td> 			<p>8.395.221,391</p> 			</td> 			<td> 			<p>205[º]56'33,9547"</p> 			</td> 			<td> 			<p>110,88</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V23</p> 			</td> 			<td> 			<p>V24</p> 			</td> 			<td> 			<p>801.206,100</p> 			</td> 			<td> 			<p>8.395.121,687</p> 			</td> 			<td> 			<p>200[º]39'39,4712"</p> 			</td> 			<td> 			<p>65,16</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V24</p> 			</td> 			<td> 			<p>V25</p> 			</td> 			<td> 			<p>801.183,109</p> 			</td> 			<td> 			<p>8.395.060,716</p> 			</td> 			<td> 			<p>189[º]57'40,0712"</p> 			</td> 			<td> 			<p>48,44</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V25</p> 			</td> 			<td> 			<p>V1</p> 			</td> 			<td> 			<p>801.174,730</p> 			</td> 			<td> 			<p>8.395.013,008</p> 			</td> 			<td> 			<p>183[º]01'42,3051"</p> 			</td> 			<td> 			<p>75,33</p> 			</td> 		</tr> 		<tr> 			<td colspan="6"> 			<p>Área: 3.110,42m²<br> 			Perímetro: 1.575,29m </p> 			</td> 		</tr> 	</tbody> </table>

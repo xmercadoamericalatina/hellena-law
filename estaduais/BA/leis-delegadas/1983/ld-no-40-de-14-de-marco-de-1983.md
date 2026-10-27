@@ -1,0 +1,114 @@
+---
+titulo: "Lei Delegada nº 40, de 14/03/1983"
+uf: "BA"
+tipo: "Lei Delegada"
+numero: "40"
+data: 1983-03-14
+ementa: "Reorganiza a Casa Militar do Gabinete do Governador e dá outras providências."
+versao_texto: "texto do Portal de Legislação da Bahia"
+publicacao: ""
+fonte: "https://www.legislabahia.ba.gov.br/documentos/ld-no-40-de-14-de-marco-de-1983"
+baixado_em: 2026-10-13
+---
+# Lei Delegada nº 40, de 14/03/1983
+
+LEI DELEGADA Nº 40 DE 14 DE MARÇO DE 1983
+
+Reorganiza a Casa Militar do Gabinete do Governador e dá outras providências.
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no exercício da competência que lhe foi delegada pela Resolução nº 1.176 de 03 de dezembro de 1982, da Assembléia Legislativa do Estado da Bahia, promulga a seguinte Lei:
+
+**Art. 1º** - Fica reorganizada, na forma indicada na presente lei, a Casa Militar do Gabinete do Governador.
+
+#### CAPÍTULO I - — FINALIDADE E COMPETÊNCIA
+
+**Art. 2º** - A Casa Militar do Gabinete do Governador tem por finalidade assistir ao Governador do Estado no exercício de suas atribuições constitucionais, competindo-lhe:
+
+**I -** prestar assistência ao Governador no trato dos assuntos militares, policiais-militares e de segurança pública;
+
+**II -** representar o Governador em cerimônias especiais;
+
+**III -** zelar pela segurança pessoal do Governador e de seus familiares;
+
+**IV -** manter a segurança dos palácios e de outros locais em que se encontre o Governador;
+
+**V -** coordenar os planos especiais de segurança de Chefes de Estado e de outras autoridades convidadas pelo Governador em visita ou em missões especiais no Estado;
+
+**VI -** exercer outras atividades correlatas.
+
+#### CAPÍTULO II - — ESTRUTURA
+
+**Art. 3º** - A Casa Militar do Gabinete do Governador tem a seguinte estrutura:
+
+**I -** Chefia da Casa Militar;
+
+**II -** Sub-Chefia da Casa Militar;
+
+**III -** Assessoria Militar;
+
+**IV -** Assessoria de Planejamento;
+
+**V -** Serviço de Administração Geral;
+
+**VI -** Inspetoria Setorial de Finanças;
+
+**VII -** Serviço de Comunicação;
+
+**VIII -** Serviço de Transporte;
+
+**IX -** Serviço de Segurança;
+
+**X -** Serviço de Ligação.
+
+**Parágrafo único -** Os órgãos aludidos nos incisos I, II e IV, deste artigo, não terão subdivisões estruturais, podendo constituir grupos de trabalho, inclusive com a participação de consultores especiais.
+
+**Art. 4º** - O assessoramento jurídico à Casa Militar do Gabinete do Governador cabe à Procuradoria Geral do Estado.
+
+#### CAPÍTULO III - — COMPETÊNCIA DOS ÓRGÃOS
+
+**Art. 5º** - A Assessoria de Planejamento, que desempenha as atividades de programação, orçamento, acompanhamento e modernização administrativa, no âmbito da Casa Militar do Gabinete do Governador, em articulação com as unidades centrais do Sistema Estadual de Planejamento, tem sua competência definida na legislação específica do respectivo sistema.
+
+**Art. 6º** - O Serviço de Administração Geral, que executa as atividades de administração geral, tem sua competência definida na legislação do respectivo sistema.
+
+**Art. 7º** - A Inspetoria Setorial de Finanças, que executa as atividades de administração financeira e de contabilidade, tem sua competência definida na legislação especifica do respectivo sistema.
+
+**Art. 8º** - Os órgãos mencionados nos incisos I, II, III, VII, VIII, IX e X do artigo 3º desta lei, e que desempenham atividades específicas da Casa Militar, terão suas competências definidas no respectivo Regimento.
+
+#### CAPÍTULO IV - — DISPOSIÇÕES GERAIS E TRANSITÓRIAS
+
+**Art. 9º** - Os cargos em comissão da Casa Militar do Gabinete do Governador são os constantes do Anexo Único que integra esta lei.
+
+**Art. 10** - O Chefe da Casa Militar do Gabinete do Governador tem, no âmbito do cerimonial público, tratamento correspondente ao de Secretário de Estado.
+
+**Art. 11** - Fica o Poder Executivo autorizado a:
+
+**I -** praticar, no prazo de 120 (cento e vinte ) dias, os atos regulamentares, estatutários e regimentais que decorram, implícita ou explicitamente, das disposições desta lei, inclusive os que se relacionem com pessoal, material e patrimônio;
+
+**II -** efetuar, mediante Decreto, as modificações orçamentárias decorrentes do disposto nesta lei.
+
+**Art. 12** - Esta Lei entra em vigor na data da sua publicação, revogadas as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 14 de março de l983.
+
+ANTONIO CARLOS MAGALHÃES
+
+Governador
+
+Plinio Mariani Guerreiro
+
+**ANEXO ÚNICO**
+
+CARGOS EM COMISSÃO DA CASA MILITAR DO GABINETE DO GOVERNADOR
+
+| DENOMINAÇÃO | SÍMBOLO | QUANTIDADE |
+| --- | --- | --- |
+| Chefe da Casa Militar | Especial | 01 |
+| Subchefe da Casa Militar | Especial | 01 |
+| Assessor Militar | DAS-5 | 01 |
+| Assessor Chefe | DAS-5 | 01 |
+| Assessor | DAS-4 | 02 |
+| Diretor de Serviço | DAS-5 | 05 |
+| Diretor da Inspetoria Setorial de Finanças | DAS-5 | 01 |
+| Diretor Adjunto | DAS-4 | 04 |
+
+&lt;div class="field

@@ -1,0 +1,45 @@
+---
+titulo: "Decreto nº 14304, de 19/02/2013"
+uf: "BA"
+tipo: "Decreto"
+numero: "14304"
+data: 2013-02-19
+ementa: "Homologa o Decreto Municipal de \"Situação de Emergência\" que indica."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-14304-de-19-de-fevereiro-de-2013"
+baixado_em: 2026-10-16
+---
+# Decreto nº 14304, de 19/02/2013
+
+DECRETO Nº 14.304 DE 19 DE FEVEREIRO DE 2013
+
+Homologa o Decreto Municipal de "Situação de Emergência" que indica.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso das atribuições que lhe são conferidas pelo art. 105, inciso XII, da Constituição Estadual, e pelo inciso VII do art. 7º da Lei Federal no 12.608, de 10 de abril de 2012, e do constante no Processo nº 9484130000045, da Coordenação de Defesa Civil, da estrutura da Secretaria de Desenvolvimento Social e Combate à Pobreza,
+
+considerando os danos decorrentes da enxurrada que afetou as atividades econômicas e atingiu a população do Município de Wenceslau Guimarães - BA;
+
+considerando as informações prestadas pela Coordenação de Defesa Civil - CORDEC;
+
+considerando competir ao Estado preservar o bem-estar da população e, nesse sentido, adotar as medidas que se fizerem necessárias,
+
+D E C R E T A
+
+**Art. 1º** - Fica homologado o Decreto Municipal nº 006/2013, de 21 de janeiro de 2013, do Prefeito Municipal de Wenceslau Guimarães, que declarou em "Situação de Emergência", pelo prazo de 90 (noventa) dias, a Zona Rural e Urbana do referido Município.
+
+**Art. 2º** - Este Decreto de homologação entra em vigor na data de sua publicação, retroagindo seus efeitos a 21 de janeiro de 2013, e vigerá pelo prazo de 90 (noventa) dias, a contar da aludida data.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 19 de fevereiro de 2013.
+
+JAQUES WAGNER
+
+Governador
+
+Rui Costa
+
+Secretário da Casa Civil
+
+Maria Moraes de Carvalho Mota
+
+Secretária de Desenvolvimento Social e Combate à Pobreza em exercício

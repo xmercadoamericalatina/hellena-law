@@ -1,0 +1,45 @@
+---
+titulo: "Decreto nº 10140, de 06/11/2006"
+uf: "BA"
+tipo: "Decreto"
+numero: "10140"
+data: 2006-11-06
+ementa: "Declara de utilidade pública, para fins de desapropriação, a área de terra que indica e dá outras providências."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-10140-de-06-de-novembro-de-2006"
+baixado_em: 2026-10-16
+---
+# Decreto nº 10140, de 06/11/2006
+
+DECRETO Nº 10.140 DE 06 DE NOVEMBRO DE 2006
+
+Declara de utilidade pública, para fins de desapropriação, a área de terra que indica e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, e à vista do disposto no art. 164 , inciso IV, da Constituição Estadual, e no art. 5º, alínea h, do Decreto-Lei nº 3.365, de 21 de junho de 1941, alterado pela Lei nº 2.786, de 21 de maio de 1956,
+
+D E C R E T A
+
+**Art. 1º** - Fica declarada de utilidade pública, para fins de desapropriação, a área de terra medindo 300,00 m², localizada na Rua Elias Assis, Loteamento Cajueiro, lotes 04 e 05 da quadra D, Cidade de Ipiaú, pertencente a Walter Rios Almeida, a seguir descrita: partindo do ponto P-1, de coordenadas E = 421.578,2324 e N = 8.436.344,6937 com ângulo de 90º e distância de 20,00 m, determina-se o ponto P-2, de coordenadas E = 421.558,6383 e N = 8.436.348,7045; daí, com ângulo de 90º e distância de 15,00 m, determina-se o ponto P-3, de coordenadas E = 421.561,1086 e N = 8.436.360,4477; daí, com ângulo de 90º e distância de 20,00 m, determina-se o ponto P-4, de coordenadas E = 421.580,7026 e N = 8.436.356,4369; daí, com ângulo de 90º e distância 15,00 m, retorna-se ao ponto P-1, fechando-se a área poligonal em descrição, conforme projeto e Laudo de Avaliação nº 307/2006-D, elaborados pela Empresa Baiana de Águas e Saneamento S/A - EMBASA, da estrutura da Secretaria de Desenvolvimento Urbano.
+
+**Parágrafo único** - A área de terra de que trata este artigo destina-se à construção da Estação Elevatória Final do Sistema de Esgotamento Sanitário da Cidade de Ipiaú.
+
+**Art. 2º** - Fica a Empresa Baiana de Águas e Saneamento S/A EMBASA autorizada a promover os atos administrativos e judiciais, se necessário em caráter de urgência, com vistas à efetivação da desapropriação de que trata este Decreto, e a imitir-se na posse respectiva, providenciando, inclusive, a liquidação e o pagamento da indenização, utilizando-se, para tanto, dos recursos de que dispuser.
+
+**Art. 3º** - Este Decreto entrará em vigor na data de sua publicação.
+
+**Art. 4º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 06 de novembro de 2006.
+
+PAULO SOUTO
+
+Governador
+
+Ruy Tourinho
+
+Secretário de Governo
+
+Roberto Moussallem de Andrade
+
+Secretário de Desenvolvimento Urbano

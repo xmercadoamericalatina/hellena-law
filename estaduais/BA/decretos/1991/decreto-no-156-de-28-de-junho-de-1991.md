@@ -1,0 +1,49 @@
+---
+titulo: "Decreto nº 156, de 28/06/1991"
+uf: "BA"
+tipo: "Decreto"
+numero: "156"
+data: 1991-06-28
+ementa: "Altera o Plano Especial de Aplicação da Polícia Militar da Bahia - PM/BA, na forma que indica e dá outras providências."
+publicacao: ""
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-156-de-28-de-junho-de-1991"
+baixado_em: 2026-10-16
+---
+# Decreto nº 156, de 28/06/1991
+
+DECRETO Nº 156 DE 28 DE JUNHO DE 1991
+
+Altera o Plano Especial de Aplicação da Polícia Militar da Bahia - PM/BA, na forma que indica e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, com fundamento no que dispõe a Lei nº 2.322/66 ,
+
+DECRETA
+
+**Art. 1º** - Fica alterado, na conformidade do quadro anexo , o Plano Especial de Aplicação da Polícia Militar da Bahia - PM/BA, aprovado pelo Decreto nº 4.364 de 28 de janeiro de 1991, publicado no Diário Oficial de 29 de janeiro de 1991.
+
+**Art. 2º** - Este Decreto entra em vigor na data da sua publicação.
+
+**Art. 3º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 28 de junho de 1991.
+
+ANTONIO CARLOS MAGALHÃES
+
+Governador
+
+Waldeck Vieira Ornelas
+
+Secretário do Planejamento, Ciência e Tecnologia
+
+Rodolpho Tourinho Neto
+
+Secretário da Fazenda
+
+Sérgio Alexandre Meneses Habib
+
+Secretário da Segurança Pública
+
+Plano Especial de Aplicação - Parte I
+
+Plano Especial de Aplicação - Parte II

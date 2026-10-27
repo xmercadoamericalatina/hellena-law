@@ -1,0 +1,42 @@
+---
+titulo: "Decreto nº 24059, de 15/10/2025"
+uf: "BA"
+tipo: "Decreto"
+numero: "24059"
+data: 2025-10-15
+ementa: "Homologa o Decreto Municipal de \"Situação de Emergência” que indica."
+publicacao: "DOE quinta-feira, 16 de Outubro de 2025"
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-24059-de-15-de-outubro-de-2025"
+baixado_em: 2026-10-16
+revogada: null
+---
+# Decreto nº 24059, de 15/10/2025
+
+DECRETO Nº 24.059 DE 15 DE OUTUBRO DE 2025
+
+Homologa o Decreto Municipal de "Situação de Emergência” que indica.
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso das atribuições que lhe são conferidas pelo inciso XII do art. 105 da Constituição Estadual, e pelo inciso VII do art. 7º da Lei Federal nº 12.608, de 10 de abril de 2012, e à vista do constante no Processo SEI nº 014.5378.2025.0003733-11, da Superintendência de Proteção e Defesa Civil - SUDEC, da estrutura da Casa Civil,
+
+considerando os danos decorrentes da estiagem que está a afetar as atividades econômicas e a atingir a população do Município de Rio de Contas - Bahia;
+
+considerando as informações prestadas pela Superintendência de Proteção e Defesa Civil - SUDEC;
+
+considerando competir ao Estado preservar o bem-estar da população e, nesse sentido, adotar as medidas que se fizerem necessárias,
+
+D E C R E T A
+
+**Art. 1º** - Fica homologado o Decreto Municipal nº 159, de 02 de setembro de 2025, do Prefeito Municipal de Rio de Contas, que declarou em "Situação de Emergência”, pelo prazo de 120 (cento e vinte) dias, as áreas comprovadamente afetadas do referido Município.
+
+**Art. 2º** - Este Decreto de homologação entra em vigor na data de sua publicação, retroagindo seus efeitos a 02 de setembro de 2025, e vigerá pelo prazo de 120 (cento e vinte) dias, a contar da aludida data.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 15 de outubro de 2025.
+
+JERÔNIMO RODRIGUES
+
+Governador
+
+Carlos Mello
+
+Secretário da Casa Civil em exercício

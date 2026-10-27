@@ -1,0 +1,48 @@
+---
+titulo: "Decreto nº 24575, de 11/06/2026"
+uf: "BA"
+tipo: "Decreto"
+numero: "24575"
+data: 2026-06-11
+ementa: "Altera o Decreto nº 24.364, de 23 de fevereiro de 2026, na forma que indica."
+publicacao: "DOE sexta-feira, 12 de Junho de 2026"
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-24575-de-11-de-junho-de-2026"
+baixado_em: 2026-10-16
+revogada: null
+---
+# Decreto nº 24575, de 11/06/2026
+
+DECRETO Nº 24.575 DE 11 DE JUNHO DE 2026
+
+Altera o Decreto nº 24.364, de 23 de fevereiro de 2026, na forma que indica.
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições, à vista do disposto no inciso V do art. 105 da Constituição Estadual e na alínea "h” do art. 5º, combinado com o art. 40, ambos do Decreto-Lei Federal nº 3.365, de 21 de junho de 1941, e alterações posteriores, e do que consta no Processo SEI nº 100.0899.2026.0003657-26, da Empresa Baiana de Águas e Saneamento S/A - EMBASA, vinculada à Secretaria de Infraestrutura Hídrica e Saneamento,
+
+D E C R E T A
+
+**Art. 1º** - O *caput* do art. 1º do Decreto nº 24.364, de 23 de fevereiro de 2026, passa a vigorar com a seguinte redação:
+
+"Art. 1º - Fica declarada de utilidade pública, para fins de constituição de servidão administrativa, a área de terra medindo 3.667,86m², pertencente a quem de direito, com as acessões e benfeitorias nela existentes, situada na Fazenda Recife, no município de Brumado - Bahia, conforme estudo e projeto realizados pela Empresa Baiana de Águas e Saneamento S/A - EMBASA e coordenadas constantes do Anexo Único deste Decreto.
+
+......................................................................................................” (NR)
+
+**Art. 2º** - O Anexo Único do Decreto nº 24.364, de 23 de fevereiro de 2026, passa a vigorar na forma do Anexo Único deste Decreto.
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 11 de junho de 2026.
+
+JERÔNIMO RODRIGUES
+
+Governador
+
+Carlos Mello
+
+Secretário da Casa Civil em exercício
+
+Marise Prado de Oliveira Chastinet
+
+Secretária de Infraestrutura Hídrica e Saneamento
+
+<table> 	<tbody> 		<tr> 			<td colspan="6"> 			<p>ANEXO ÚNICO<br> 			Cálculo Analítico de Área, Azimute e Coordenadas UTM.<br> 			IMÓVEL: Emissário Final - EMF<br> 			MUNICÍPIO: Brumado - Bahia<br> 			LOCALIDADE: Fazenda Recife</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>Estação</p> 			</td> 			<td> 			<p>Vante</p> 			</td> 			<td> 			<p>Coord. Norte (m)</p> 			</td> 			<td> 			<p>Coord. Leste (m)</p> 			</td> 			<td> 			<p>Azimute</p> 			</td> 			<td> 			<p>Dist. (m)</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V1</p> 			</td> 			<td> 			<p>V2</p> 			</td> 			<td> 			<p>216.795,0766</p> 			</td> 			<td> 			<p>8.429.681,1244</p> 			</td> 			<td> 			<p>61°47'14"</p> 			</td> 			<td> 			<p>47,33</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V2</p> 			</td> 			<td> 			<p>V3</p> 			</td> 			<td> 			<p>216.836,7852</p> 			</td> 			<td> 			<p>8.429.703,5003</p> 			</td> 			<td> 			<p>76°26'47"</p> 			</td> 			<td> 			<p>124,59</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V3</p> 			</td> 			<td> 			<p>V4</p> 			</td> 			<td> 			<p>216.957,9092</p> 			</td> 			<td> 			<p>8.429.732,6996</p> 			</td> 			<td> 			<p>80°59'13"</p> 			</td> 			<td> 			<p>49,14</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V4</p> 			</td> 			<td> 			<p>V5</p> 			</td> 			<td> 			<p>217.006,4426</p> 			</td> 			<td> 			<p>8.429.740,3979</p> 			</td> 			<td> 			<p>112°29'55"</p> 			</td> 			<td> 			<p>86,07</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V5</p> 			</td> 			<td> 			<p>V6</p> 			</td> 			<td> 			<p>217.085,9650</p> 			</td> 			<td> 			<p>8.429.707,4610</p> 			</td> 			<td> 			<p>111°23'21"</p> 			</td> 			<td> 			<p>117,62</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V6</p> 			</td> 			<td> 			<p>V7</p> 			</td> 			<td> 			<p>217.195,4799</p> 			</td> 			<td> 			<p>8.429.664,5664</p> 			</td> 			<td> 			<p>117°05'23"</p> 			</td> 			<td> 			<p>31,15</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V7</p> 			</td> 			<td> 			<p>V8</p> 			</td> 			<td> 			<p>217.223,2133</p> 			</td> 			<td> 			<p>8.429.650,3807</p> 			</td> 			<td> 			<p>127°14'05"</p> 			</td> 			<td> 			<p>58,45</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V8</p> 			</td> 			<td> 			<p>V9</p> 			</td> 			<td> 			<p>217.269,7530</p> 			</td> 			<td> 			<p>8.429.615,0107</p> 			</td> 			<td> 			<p>87°04'07"</p> 			</td> 			<td> 			<p>25,94</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V9</p> 			</td> 			<td> 			<p>V10</p> 			</td> 			<td> 			<p>217.295,6613</p> 			</td> 			<td> 			<p>8.429.616,3374</p> 			</td> 			<td> 			<p>74°16'46"</p> 			</td> 			<td> 			<p>31,36</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V10</p> 			</td> 			<td> 			<p>V11</p> 			</td> 			<td> 			<p>217.325,8462</p> 			</td> 			<td> 			<p>8.429.624,8337</p> 			</td> 			<td> 			<p>58°06'23"</p> 			</td> 			<td> 			<p>80,61</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V11</p> 			</td> 			<td> 			<p>V12</p> 			</td> 			<td> 			<p>217.394,2907</p> 			</td> 			<td> 			<p>8.429.667,4261</p> 			</td> 			<td> 			<p>21°39'59"</p> 			</td> 			<td> 			<p>8,12</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V12</p> 			</td> 			<td> 			<p>V13</p> 			</td> 			<td> 			<p>217.397,2895</p> 			</td> 			<td> 			<p>8.429.674,9746</p> 			</td> 			<td> 			<p>21°39'59"</p> 			</td> 			<td> 			<p>75,83</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V13</p> 			</td> 			<td> 			<p>V14</p> 			</td> 			<td> 			<p>217.425,2872</p> 			</td> 			<td> 			<p>8.429.745,4504</p> 			</td> 			<td> 			<p>111°39'59"</p> 			</td> 			<td> 			<p>5,00</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V14</p> 			</td> 			<td> 			<p>V15</p> 			</td> 			<td> 			<p>217.429,9339</p> 			</td> 			<td> 			<p>8.429.743,6044</p> 			</td> 			<td> 			<p>201°42'14"</p> 			</td> 			<td> 			<p>68,14</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V15</p> 			</td> 			<td> 			<p>V16</p> 			</td> 			<td> 			<p>217.404,7349</p> 			</td> 			<td> 			<p>8.429.680,2945</p> 			</td> 			<td> 			<p>201°42'15"</p> 			</td> 			<td> 			<p>17,54</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V16</p> 			</td> 			<td> 			<p>V17</p> 			</td> 			<td> 			<p>217.398,2494</p> 			</td> 			<td> 			<p>8.429.664,0005</p> 			</td> 			<td> 			<p>238°06'23"</p> 			</td> 			<td> 			<p>82,88</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V17</p> 			</td> 			<td> 			<p>V18</p> 			</td> 			<td> 			<p>217.327,8798</p> 			</td> 			<td> 			<p>8.429.620,2101</p> 			</td> 			<td> 			<p>254°16'56"</p> 			</td> 			<td> 			<p>32,63</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V18</p> 			</td> 			<td> 			<p>V19</p> 			</td> 			<td> 			<p>217.296,4665</p> 			</td> 			<td> 			<p>8.429.611,3697</p> 			</td> 			<td> 			<p>267°04'25"</p> 			</td> 			<td> 			<p>27,92</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V19</p> 			</td> 			<td> 			<p>V20</p> 			</td> 			<td> 			<p>217.268,5837</p> 			</td> 			<td> 			<p>8.429.609,9443</p> 			</td> 			<td> 			<p>307°01'13"</p> 			</td> 			<td> 			<p>60,01</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V20</p> 			</td> 			<td> 			<p>V21</p> 			</td> 			<td> 			<p>217.220,6731</p> 			</td> 			<td> 			<p>8.429.646,0742</p> 			</td> 			<td> 			<p>297°04'23"</p> 			</td> 			<td> 			<p>30,61</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V21</p> 			</td> 			<td> 			<p>V22</p> 			</td> 			<td> 			<p>217.193,4215</p> 			</td> 			<td> 			<p>8.429.660,0033</p> 			</td> 			<td> 			<p>291°23'21"</p> 			</td> 			<td> 			<p>117,42</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V22</p> 			</td> 			<td> 			<p>V23</p> 			</td> 			<td> 			<p>217.084,0876</p> 			</td> 			<td> 			<p>8.429.702,8272</p> 			</td> 			<td> 			<p>292°36'03"</p> 			</td> 			<td> 			<p>84,65</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V23</p> 			</td> 			<td> 			<p>V24</p> 			</td> 			<td> 			<p>217.005,9423</p> 			</td> 			<td> 			<p>8.429.735,3573</p> 			</td> 			<td> 			<p>260°52'21"</p> 			</td> 			<td> 			<p>47,62</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V24</p> 			</td> 			<td> 			<p>V25</p> 			</td> 			<td> 			<p>216.958,9232</p> 			</td> 			<td> 			<p>8.429.727,8028</p> 			</td> 			<td> 			<p>256°25'56"</p> 			</td> 			<td> 			<p>124,29</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V25</p> 			</td> 			<td> 			<p>V26</p> 			</td> 			<td> 			<p>216.838,1059</p> 			</td> 			<td> 			<p>8.429.698,6459</p> 			</td> 			<td> 			<p>242°01'03"</p> 			</td> 			<td> 			<p>7,36</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V26</p> 			</td> 			<td> 			<p>V27</p> 			</td> 			<td> 			<p>216.831,6049</p> 			</td> 			<td> 			<p>8.429.695,1918</p> 			</td> 			<td> 			<p>241°41'12"</p> 			</td> 			<td> 			<p>34,00</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V27</p> 			</td> 			<td> 			<p>V28</p> 			</td> 			<td> 			<p>216.801,6730</p> 			</td> 			<td> 			<p>8.429.679,0662</p> 			</td> 			<td> 			<p>241°02'18"</p> 			</td> 			<td> 			<p>5,00</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V28</p> 			</td> 			<td> 			<p>V1</p> 			</td> 			<td> 			<p>216.797,2983</p> 			</td> 			<td> 			<p>8.429.676,6451</p> 			</td> 			<td> 			<p>333°37'08"</p> 			</td> 			<td> 			<p>5,00</p> 			</td> 		</tr> 		<tr> 			<td colspan="6"> 			<p>Área: 3.667,86m²<br> 			Perímetro: 1.486,28m</p> 			</td> 		</tr> 	</tbody> </table>

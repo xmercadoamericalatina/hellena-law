@@ -1,0 +1,50 @@
+---
+titulo: "Decreto nº 19640, de 15/04/2020"
+uf: "BA"
+tipo: "Decreto"
+numero: "19640"
+data: 2020-04-15
+ementa: "Declara de utilidade pública, para fins de constituição de servidão administrativa, as áreas de terra que indica."
+publicacao: "DOE quinta-feira, 16 de Abril de 2020"
+versao_texto: "texto do Portal de Legislação da Bahia"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/decreto-no-19640-de-15-de-abril-de-2020"
+baixado_em: 2026-10-16
+---
+# Decreto nº 19640, de 15/04/2020
+
+DECRETO Nº 19.640 DE 15 DE ABRIL DE 2020
+
+Declara de utilidade pública, para fins de constituição de servidão administrativa, as áreas de terra que indica.
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, no uso de suas atribuições e à vista do disposto no inciso V do art. 105 da Constituição Estadual, na alínea "h” do art. 5º, combinado com o art. 40, ambos do Decreto-Lei Federal nº 3.365, de 21 de junho de 1941, e alterações posteriores, e do que consta no Processo SEI nº 100.0899.2020.0001208-76, da Empresa Baiana de Águas e Saneamento S/A - EMBASA, vinculada à Secretaria de Infraestrutura Hídrica e Saneamento,
+
+D E C R E T A
+
+**Art. 1º** - Ficam declaradas de utilidade pública, para fins de constituição de servidão administrativa, as áreas de terra totalizando 2.580,14m², com as acessões e benfeitorias nelas existentes, pertencentes a quem de direito, situadas na Rua Santa Rosa, Bairro Fazenda Santa Rosa, nº 00410, no Município de Simões Filho - Bahia, conforme estudo e projeto realizados pela Empresa Baiana de Águas e Saneamento S/A - EMBASA, e coordenadas constantes dos Anexos I e II deste Decreto.
+
+Redação de acordo com o Decreto nº 21.160 de 15 de fevereiro de 2022.  
+Redação original: "Art. 1º - Ficam declaradas de utilidade pública, para fins de constituição de servidão administrativa, as áreas de terra totalizando 2.580,14m², com as acessões e benfeitorias nelas existentes, pertencentes a quem de direito, situadas na Rua Santa Rosa, Fazenda Santa Rosa, nº 408, no Município de Simões Filho - Bahia, conforme estudo e projeto realizados pela Empresa Baiana de Águas e Saneamento S/A - EMBASA, e coordenadas constantes dos Anexos I e II deste Decreto."
+
+**Parágrafo único -** As áreas de terra de que trata este artigo destinam-se à implantação de Adutora de Água Tratada de Pitanga dos Palmares, pertencente ao Sistema Integrado de Abastecimento de Água de Simões Filho, no Município de Simões Filho - Bahia.
+
+**Art. 2º** - Fica a Empresa Baiana de Águas e Saneamento S/A - EMBASA autorizada a promover os atos administrativos e judiciais, se necessário em caráter de urgência, com vistas à efetivação da constituição de servidão administrativa de que trata este Decreto, e a imitir-se na posse respectiva, providenciando, inclusive, a liquidação e o pagamento da indenização, utilizando-se, para tanto, dos recursos de que dispuser.
+
+**Art. 3º** - Este Decreto entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 15 de abril de 2020.
+
+RUI COSTA
+
+Governador
+
+Bruno Dauster
+
+Secretário da Casa Civil
+
+Leonardo Góes Silva
+
+Secretário de Infraestrutura Hídrica e Saneamento
+
+<table> 	<tbody> 		<tr> 			<td colspan="6"> 			<p>ANEXO I (De acordo com o Decreto nº 21.160 de 15 de fevereiro de 2022.)<br> 			Cálculo Analítico de Área. Azimute. Coordenadas UTM<br> 			IMÓVEL: Adutora de Água Tratada de Pitanga dos Palmares<br> 			MUNICÍPIO: Simões Filho – Bahia<br> 			LOCALIDADE: Rua Santa Rosa, Bairro Fazenda Santa Rosa, nº 00410</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>Estação</p> 			</td> 			<td> 			<p>Vante</p> 			</td> 			<td> 			<p>Coor. Leste (m)</p> 			</td> 			<td> 			<p>Coor. Norte (m)</p> 			</td> 			<td> 			<p>Azimute</p> 			</td> 			<td> 			<p>Dist. (m)</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V1</p> 			</td> 			<td> 			<p>V2</p> 			</td> 			<td> 			<p>564.321,5078</p> 			</td> 			<td> 			<p>8.588.304,9741</p> 			</td> 			<td> 			<p>301°31'28"</p> 			</td> 			<td> 			<p>83,646 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V2</p> 			</td> 			<td> 			<p>V3</p> 			</td> 			<td> 			<p>564.250,2061</p> 			</td> 			<td> 			<p>8.588.348,7097</p> 			</td> 			<td> 			<p>34°11'34"</p> 			</td> 			<td> 			<p>173,900 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V3</p> 			</td> 			<td> 			<p>V4</p> 			</td> 			<td> 			<p>564.347,9339</p> 			</td> 			<td> 			<p>8.588.492,5511</p> 			</td> 			<td> 			<p>17°47'35"</p> 			</td> 			<td> 			<p>20,977 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V4</p> 			</td> 			<td> 			<p>V5</p> 			</td> 			<td> 			<p>564.354,3441</p> 			</td> 			<td> 			<p>8.588.512,5247</p> 			</td> 			<td> 			<p>22°10'39"</p> 			</td> 			<td> 			<p>59,988 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V5</p> 			</td> 			<td> 			<p>V6</p> 			</td> 			<td> 			<p>564.376,9883</p> 			</td> 			<td> 			<p>8.588.568,0747</p> 			</td> 			<td> 			<p>13°37'32"</p> 			</td> 			<td> 			<p>25,528 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V6</p> 			</td> 			<td> 			<p>V7</p> 			</td> 			<td> 			<p>564.383,0022</p> 			</td> 			<td> 			<p>8.588.592,8845</p> 			</td> 			<td> 			<p>67°50'33"</p> 			</td> 			<td> 			<p>15,950 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V7</p> 			</td> 			<td> 			<p>V8</p> 			</td> 			<td> 			<p>564.397,7740</p> 			</td> 			<td> 			<p>8.588.598,9000</p> 			</td> 			<td> 			<p>157°50'31"</p> 			</td> 			<td> 			<p>6,000 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V8</p> 			</td> 			<td> 			<p>V9</p> 			</td> 			<td> 			<p>564.400,0370</p> 			</td> 			<td> 			<p>8.588.593,3431</p> 			</td> 			<td> 			<p>247°50'33"</p> 			</td> 			<td> 			<p>12,878 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V9</p> 			</td> 			<td> 			<p>V10</p> 			</td> 			<td> 			<p>564.388,1098</p> 			</td> 			<td> 			<p>8.588.588,4860</p> 			</td> 			<td> 			<p>193°37'32"</p> 			</td> 			<td> 			<p>22,905 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V10</p> 			</td> 			<td> 			<p>V11</p> 			</td> 			<td> 			<p>564.382,7138</p> 			</td> 			<td> 			<p>8.588.566,2252</p> 			</td> 			<td> 			<p>202°10'4"</p> 			</td> 			<td> 			<p>60,207 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V11</p> 			</td> 			<td> 			<p>V12</p> 			</td> 			<td> 			<p>564.359,9869</p> 			</td> 			<td> 			<p>8.588.510,4725</p> 			</td> 			<td> 			<p>197°47'35"</p> 			</td> 			<td> 			<p>21,612 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V12</p> 			</td> 			<td> 			<p>V13</p> 			</td> 			<td> 			<p>564.353,3827</p> 			</td> 			<td> 			<p>8.588.489,8944</p> 			</td> 			<td> 			<p>214°11'34"</p> 			</td> 			<td> 			<p>168,478 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V13</p> 			</td> 			<td> 			<p>V14</p> 			</td> 			<td> 			<p>564.258,7016</p> 			</td> 			<td> 			<p>8.588.350,5374</p> 			</td> 			<td> 			<p>121°31'28"</p> 			</td> 			<td> 			<p>74,089 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V14</p> 			</td> 			<td> 			<p>V1</p> 			</td> 			<td> 			<p>564.321,8562</p> 			</td> 			<td> 			<p>8.588.311,7992</p> 			</td> 			<td> 			<p>182°55'2"</p> 			</td> 			<td> 			<p>6,834 </p> 			</td> 		</tr> 		<tr> 			<td colspan="6"> 			<p>Área: 2.220,47m²<br> 			Perímetro: 752,993m </p> 			</td> 		</tr> 	</tbody> </table>
+
+<table> 	<tbody> 		<tr> 			<td colspan="6"> 			<p>ANEXO II (De acordo com o Decreto nº 21.160 de 15 de fevereiro de 2022.)<br> 			Cálculo Analítico de Área. Azimute. Coordenadas UTM<br> 			IMÓVEL: Adutora de Água Tratada de Pitanga dos Palmares<br> 			MUNICÍPIO: Simões Filho – Bahia<br> 			LOCALIDADE: Rua Santa Rosa, Bairro Fazenda Santa Rosa, nº 00410</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>Estação</p> 			</td> 			<td> 			<p>Vante</p> 			</td> 			<td> 			<p>Coor. Leste (m)</p> 			</td> 			<td> 			<p>Coor. Norte (m)</p> 			</td> 			<td> 			<p>Azimute</p> 			</td> 			<td> 			<p>Dist. (m)</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V1</p> 			</td> 			<td> 			<p>V2</p> 			</td> 			<td> 			<p>564.470,6060</p> 			</td> 			<td> 			<p>8.588.630,1349</p> 			</td> 			<td> 			<p>52°59'21"</p> 			</td> 			<td> 			<p>11,097 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V2</p> 			</td> 			<td> 			<p>V3</p> 			</td> 			<td> 			<p>564.479,4676</p> 			</td> 			<td> 			<p>8.588.636,8152</p> 			</td> 			<td> 			<p>48°43'03"</p> 			</td> 			<td> 			<p>12,921 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V3</p> 			</td> 			<td> 			<p>V4</p> 			</td> 			<td> 			<p>564.489,1774</p> 			</td> 			<td> 			<p>8.588.645,3402</p> 			</td> 			<td> 			<p>53°48'55"</p> 			</td> 			<td> 			<p>16,951 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V4</p> 			</td> 			<td> 			<p>V5</p> 			</td> 			<td> 			<p>564.502,8590</p> 			</td> 			<td> 			<p>8.588.655,3480</p> 			</td> 			<td> 			<p>67°41'21"</p> 			</td> 			<td> 			<p>16,049 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V5</p> 			</td> 			<td> 			<p>V6</p> 			</td> 			<td> 			<p>564.517,7061</p> 			</td> 			<td> 			<p>8.588.661,4405</p> 			</td> 			<td> 			<p>78°55'32"</p> 			</td> 			<td> 			<p>17,601 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V6</p> 			</td> 			<td> 			<p>V7</p> 			</td> 			<td> 			<p>564.534,9789</p> 			</td> 			<td> 			<p>8.588.664,8213</p> 			</td> 			<td> 			<p>87°17'5"</p> 			</td> 			<td> 			<p>4,023 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V7</p> 			</td> 			<td> 			<p>V8</p> 			</td> 			<td> 			<p>564.538,9973</p> 			</td> 			<td> 			<p>8.588.665,0110</p> 			</td> 			<td> 			<p>174°24'18"</p> 			</td> 			<td> 			<p>4,860 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V8</p> 			</td> 			<td> 			<p>V9</p> 			</td> 			<td> 			<p>564.539,4711</p> 			</td> 			<td> 			<p>8.588.660,1745</p> 			</td> 			<td> 			<p>264°24'17"</p> 			</td> 			<td> 			<p>24,291 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V9</p> 			</td> 			<td> 			<p>V10</p> 			</td> 			<td> 			<p>564.515,2957</p> 			</td> 			<td> 			<p>8.588.657,8061</p> 			</td> 			<td> 			<p>233°17'31"</p> 			</td> 			<td> 			<p>52,366 </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>V10</p> 			</td> 			<td> 			<p>V1</p> 			</td> 			<td> 			<p>564.473,3145</p> 			</td> 			<td> 			<p>8.588.626,5052</p> 			</td> 			<td> 			<p>323°16'1"</p> 			</td> 			<td> 			<p>4,529 </p> 			</td> 		</tr> 		<tr> 			<td colspan="6"> 			<p>Área: 359,67m²<br> 			Perímetro: 164,687m </p> 			</td> 		</tr> 	</tbody> </table>
