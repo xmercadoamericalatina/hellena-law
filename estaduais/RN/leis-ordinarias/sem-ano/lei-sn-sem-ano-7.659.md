@@ -1,0 +1,66 @@
+---
+titulo: "Lei Ord. nº 7.659, de 18/06/1999"
+uf: "RN"
+tipo: "Lei Ordinária"
+numero: ""
+data: 1999-06-18
+ementa: "Reconhece como de Utilidade Pública a FUNDAÇóO FORMA DEI, com sede e foro jurídico no Município de Mossoró, neste Estado."
+versao_texto: "PDF da Assembleia Legislativa"
+fonte: "https://www.al.rn.leg.br/storage/legislacao//7.659.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ord. nº 7.659, de 18/06/1999
+
+19 DE JUNHO DE 1999 3 Diário ..................................................................................................................................................................................................................................................... Oficial RIO GRANDE DO NORTE
+
+Lei nº. 7.654 de 18 de junho de 1999. O GOVERNADOR DO ESTADO DO RIO GRANDE DO Indústria, do Comércio, da Ciência e da Tecnologia . Reconhece como de Utilidade Pública a NORTE, no uso de suas atribuições constitucionais, Palácio dos Despachos de Lagoa Nova, em Natal, 18 de entidade que especifica e dá outras RESOLVE exonerar, ALBERTINA DA SILVA ROCHA, junho de 1999, 111º da República. providências. matrícula 121.361-0, do Cargo em Comissão, Símbolo VDE-III, de GARIBALDI ALVES FILHO
+
+O GOVERNADOR DO ESTADO DO RIO GRANDE DO Vice-Diretor da Escola Estadual Prof. Pedro Alexandrino – Ensino 1º Nelson Hermógenes de Medeiros Freire NORTE: FAÇO SABER que o Poder Legislativo decreta e eu sanciono e 2º Graus, em São Pedro/RN. a seguinte Lei: Palácio de Despachos de Lagoa Nova, em Natal, 18 de O GOVERNADOR DO ESTADO DO RIO GRANDE DO
+
+**Art. 1º.** Fica reconhecida como de Utilidade Pública a CAIXA junho de 1999, 111º da República. NORTE, no uso de suas atribuições constitucionais, ESCOLAR DA ESCOLA ESTADUAL CUNHA DA MOTA, com sede GARIBALDI ALVES FILHO R E S O L V E nomear ANDRÉ LUÍS CAVALCANTE e foro jurídico no Município de Mossoró, neste Estado. Luiz Eduardo Carneiro Costa BARBALHO para exercer o cargo em comissão de Coordenador da
+
+**Art. 2º.** Esta Lei entra em vigor na data de sua publicação, Coordenadoria de Infra-Estrutura da Secretaria de Estado da Indústria, revogadas as disposições em contrário. GOVERNADOR DO ESTADO DO RIO GRANDE DO do Comércio, da Ciência e da Tecnologia. Palácio de Despachos de Lagoa Nova, em Natal, 18 de NORTE, no uso de suas atribuições constitucionais, Palácio dos Despachos de Lagoa Nova, em Natal, 18 de junho de 1999, 111º da República. RESOLVE nomear ILDEN ROCHA BARROS para o Cargo junho de 1999, 111º da República. GARIBALDI ALVES FILHO em Comissão, Símbolo VDE-III, de Vice-Diretor da Escola Estadual GARIBALDI ALVES FILHO Carlos Eduardo Nunes Alves Prof. Pedro Alexandrino – Ensino 1º e 2º Graus, em São Pedro/RN. Nelson Hermógenes de Medeiros Freire Palácio de Despachos de Lagoa Nova, em Natal, 18 de
+
+Lei nº. 7.655 de 18 de junho de 1999. Reconhece como de Utilidade Pública a junho de 1999, 111º da República. O Governador do Estado do Rio Grande do Norte, no uso de entidade que especifica e dá outras GARIBALDI ALVES FILHO suas atribuições constitucionais e tendo em vista as alterações providências. Luiz Eduardo Carneiro Costa introduzidas na estrutura organizacional da Secretaria de Estado da
+
+O GOVERNADOR DO ESTADO DO RIO GRANDE DO Saúde Pública/SESAP, através da Lei nº 6.852, de 04.01.96, NORTE: FAÇO SABER que o Poder Legislativo decreta e eu sanciono O GOVERNADOR DO ESTADO DO RIO GRANDE DO R E S O L V E exonerar, a pedido, o servidor Ivan Dias a seguinte Lei: NORTE, no uso de suas atribuições constitucionais, Freire, do cargo de provimento em comissão de Subcoordenador, com
+
+**Art. 1º.** Fica reconhecida como de Utilidade Pública a CAIXA RESOLVE nomear MARIA DAS NEVES CRUZ ARAÚJO, atribuições específicas de Gerente, no Escritório Técnico de Apoio ESCOLAR DA ESCOLA ESTADUAL INALDA CABRAL, com sede matrícula 71.115-2, para o Cargo em Comissão, Símbolo VDE-III, de aos Municípios (ETAM I), com sede em São José de Mipibu/RN. e foro jurídico no Município de Mossoró, neste Estado. Vice-Diretor da Escola Estadual Poeta Celestino Alves – Ensino 1º Palácio de Despachos de Lagoa Nova, em Natal, 16 de
+
+**Art. 2º.** Esta Lei entra em vigor na data de sua publicação, Grau, em Currais Novos/RN. junho de 1999, 111º da República. revogadas as disposições em contrário. Palácio de Despachos de Lagoa Nova, em Natal, 18 de GARIBALDI ALVES FILHO Palácio de Despachos de Lagoa Nova, em Natal, 18 de junho de 1999, 111º da República. Gilson José Fernandes Marcelino junho de 1999, 111º da República. GARIBALDI ALVES FILHO GARIBALDI ALVES FILHO Luiz Eduardo Carneiro Costa O Governador do Estado do Rio Grande do Norte, no uso de Carlos Eduardo Nunes Alves suas atribuições constitucionais e tendo em vista as alterações
+
+O GOVERNADOR DO ESTADO DO RIO GRANDE DO introduzidas na estrutura organizacional da Secretaria de Estado da
+
+Lei nº. 7.656 de 18 de junho de 1999. NORTE, no uso de suas atribuições constitucionais, Saúde Pública/SESAP, através da Lei nº 6.852, de 04.01.96, Reconhece como de Utilidade Pública a RESOLVE exonerar, a pedido, LINDALVA BATISTA DE R E S O L V E nomear Janduhy Max Freire de Andrade, entidade que especifica e dá outras LIMA FERNANDES, matrícula 65.147-8, do Cargo em Comissão, de para exercer o cargo de provimento em comissão de Subcoordenador, providências. Diretor do Centro Escolar Edino Jales, em Patu/RN. com atribuições específicas de Gerente, no Escritório Técnico de
+
+O GOVERNADOR DO ESTADO DO RIO GRANDE DO Palácio de Despachos de Lagoa Nova, em Natal, 18 de Apoio aos Municípios (ETAM I), com sede em São José de Mipibu/ NORTE: FAÇO SABER que o Poder Legislativo decreta e eu sanciono junho de 1999, 111º da República. RN. a seguinte Lei: GARIBALDI ALVES FILHO Palácio de Despachos de Lagoa Nova, em Natal, 16 de
+
+**Art. 1º.** Fica reconhecida como de Utilidade Pública a CAIXA Luiz Eduardo Carneiro Costa junho de 1999, 111º da República. ESCOLAR DA ESCOLA ESTADUAL PROFESSOR RAFAEL GARIBALDI ALVES FILHO GARCIA, com sede e foro jurídico no Município de São José de Mipibu, O GOVERNADOR DO ESTADO DO RIO GRANDE DO Gilson José Fernandes Marcelino Estado do Rio Grande do Norte. NORTE, no uso de suas atribuições constitucionais,
+
+**Art. 2º.** Esta Lei entra em vigor na data de sua publicação, RESOLVE nomear JAILMA ANACELE ALVES DE revogadas as disposições em contrário. Palácio de Despachos de Lagoa Nova, em Natal, 18 de OLIVEIRA, matrícula nº 120.510-2, para o Cargo em Comissão, SECRETARIAS DE ESTADO junho de 1999, 111º da República. Símbolo DE-IV, de Diretor da Escola Estadual Edino Jales – Ensino de GARIBALDI ALVES FILHO 2º Grau, em Patu/RN. Carlos Eduardo Nunes Alves Palácio de Despachos de Lagoa Nova, em Natal, 18 de Secretaria da Administração e dos junho de 1999, 111º da República.
+
+Lei nº. 7.657 de 18 de junho de 1999. GARIBALDI ALVES FILHO Recursos Humanos Reconhece como de Utilidade Pública a Luiz Eduardo Carneiro Costa entidade que especifica e dá outras RESOLUÇÃO ADMINISTRATIVA Nº 437 DE 17 DE MAIO DE providências. O GOVERNADOR DO ESTADO DO RIO GRANDE DO 1999
+
+O GOVERNADOR DO ESTADO DO RIO GRANDE DO NORTE, no uso de suas atribuições constitucionais, O SECRETÁRIO DE ESTADO DA ADMINISTRAÇÃO E DOS NORTE: FAÇO SABER que o Poder Legislativo decreta e eu sanciono RESOLVE exonerar, a pedido, JOSÉ VITORINO DOS RECURSOS HUMANOS, no uso da atribuição que lhe é conferida pelo a seguinte Lei: SANTOS, matrícula nº 64.109, do Cargo em Comissão, Símbolo DE- artigo 1º, inciso III, do Decreto nº 11.519, de 24.11.92, e tendo em
+
+**Art. 1º.** Fica reconhecida como de Utilidade Pública o GRUPO V, de Diretor da Escola Estadual Manoel Salustino - em Currais Novos/ vista o que consta do processo nº 32.825/98 - SECD, ARRUAÇA DE TEATRO AMADOR, com sede e foro jurídico no RN. RESOLVE conceder aposentadoria, por tempo de serviço, nos termos município de Mossoró, neste Estado. Palácio de Despachos de Lagoa Nova, em Natal, 18 de do artigo 29, inciso III, letra “b”, § 4º, incisos I e II, da Constituição
+
+**Art. 2º.** Esta Lei entra em vigor na data de sua publicação, junho de 1999, 111º da República. Estadual, a MARIA DA PAZ LOPES SILVA, matrícula nº 32.615, no revogadas as disposições em contrário. GARIBALDI ALVES FILHO cargo de Professor CL-1, Nível “I” , carga horária de 30 (trinta) horas Palácio de Despachos de Lagoa Nova, em Natal, 18 de Luiz Eduardo Carneiro Costa semanais, do Quadro Geral de Pessoal do Estado - Secretaria de junho de 1999, 111º da República. Educação, Cultura e Desportos, com as vantagens de 25% (vinte e GARIBALDI ALVES FILHO O GOVERNADOR DO ESTADO DO RIO GRANDE DO cinco por cento) de gratificação adicional por tempo de serviço, de Carlos Eduardo Nunes Alves NORTE, no uso de suas atribuições constitucionais, acordo com o artigo 75, parágrafo único, da Lei Complementar nº RESOLVE nomear MARIA DAS GRAÇAS COSTA SANTOS 122, de 30.06.94, 1/3 (um terço) de Remuneração Pecuniária, na
+
+Lei nº. 7.658 de 18de junho de 1999. para o Cargo em Comissão, Símbolo DE-V, de Diretor da Escola forma dos artigos 54, alterado pela Lei Complementar nº 164 de Reconhece como de Utilidade Pública a Estadual Manoel Salustino – em Currais Novos/RN. entidade que especifica e dá outras 08.04.99, em seu artigo 1º, da Lei Complementar n° 049, de 22.10.86. Palácio de Despachos de Lagoa Nova, em Natal, 18 de 145% (cento e quarenta e cinco por cento) de Gratificação de Exercício providências. junho de 1999, 111º da República.
+
+O GOVERNADOR DO ESTADO DO RIO GRANDE DO em Sala de Aula, nos termos do artigo 1º, da Lei Complementar nº GARIBALDI ALVES FILHO 114, de 20.09.93, alterada pelo artigo 1º, da Lei Complementar nº NORTE: FAÇO SABER que o Poder Legislativo decreta e eu sanciono Luiz Eduardo Carneiro Costa 134, de 22.06.95, e proventos correspondentes à remuneração do a seguinte Lei:
+
+**Art. 1º.** Fica reconhecida como de Utilidade Pública a cargo da classe imediatamente superior, equivalente a Professor CL-
+
+O GOVERNADOR DO ESTADO DO RIO GRANDE DO 2, nível “I” , conforme o artigo 202, inciso I, da Lei Complementar ASSOCIAÇÃO NORTE-RIO-GRANDENSE DE CRIADORES DE OVINOS E CAPRINOS (ANCOC), com sede e foro jurídico no NORTE, no uso de suas atribuições constitucionais, n° 122/94. município de Parnamirim, neste Estado. RESOLVE exonerar, a pedido, HILDETE ROQUE DE LIMA, PUBLIQUE-SE.
+
+**Art. 2º.** Esta Lei entra em vigor na data de sua publicação, matrícula nº 20.178, do Cargo em Comissão, Símbolo DE-IV, de Jaime Mariz de Faria Júnior revogadas as disposições em contrário. Diretor da Escola Estadual Professor Felipe Bittencourt – Ensino de SECRETÁRIO DE ESTADO DA ADMINISTRAÇÃO E DOS Palácio de Despachos de Lagoa Nova, em Natal, 18 de 1º Grau, em Parelhas/RN. RECURSOS HUMANOS junho de 1999, 111º da República. Palácio de Despachos de Lagoa Nova, em Natal, 18 de GARIBALDI ALVES FILHO junho de 1999, 111º da República. RESOLUÇÃO ADMINISTRATIVA Nº 430 DE 17 DE MAIO DE Carlos Eduardo Nunes Alves GARIBALDI ALVES FILHO 1999 Luiz Eduardo Carneiro Costa O SECRETÁRIO DE ESTADO DA ADMINISTRAÇÃO E DOS
+
+Lei nº. 7.659 de 18de junho de 1999. RECURSOS HUMANOS, no uso da atribuição que lhe é conferida pelo Reconhece como de Utilidade Pública a O GOVERNADOR DO ESTADO DO RIO GRANDE DO artigo 1º, inciso III, do Decreto nº 11.519, de 24.11.92, e tendo em entidade que especifica e dá outras NORTE, no uso de suas atribuições constitucionais, vista o que consta do processo nº 28.074/98 - SECD, providências. RESOLVE nomear HILDETE ROQUE DE LIMA, para o RESOLVE conceder aposentadoria, por tempo de serviço, nos termos
+
+O GOVERNADOR DO ESTADO DO RIO GRANDE DO Cargo em Comissão, Símbolo DE-IV, de Diretor da Escola Estadual do artigo 29, inciso III, letra “a”, § 4º, incisos I e II, da Constituição NORTE: FAÇO SABER que o Poder Legislativo decreta e eu sanciono Professor Felipe Bittencourt – Ensino de 1º Grau, em Parelhas/RN. Estadual, a MARIA SOCORRO DE MENDONÇA, matrícula nº 20.518 a seguinte Lei: Palácio de Despachos de Lagoa Nova, em Natal, 18 de , no cargo de Professor CL-5, Nível “J” , carga horária de 30 (trinta)
+
+**Art. 1º.** Fica reconhecida como de Utilidade Pública a junho de 1999, 111º da República. horas semanais, do Quadro Geral de Pessoal do Estado - Secretaria da FUNDAÇÃO FORMA DEI, com sede e foro jurídico no município de GARIBALDI ALVES FILHO Educação, da Cultura e dos Desportos, com as vantagens de 30% Mossoró, neste Estado. Luiz Eduardo Carneiro Costa (trinta por cento) de gratificação adicional por tempo de serviço, de
+
+**Art. 2º.** Esta Lei entra em vigor na data de sua publicação, acordo com o artigo 75, parágrafo único, da Lei Complementar nº revogadas as disposições em contrário. O GOVERNADOR DO ESTADO DO RIO GRANDE DO 122, de 30.06.94, 1/2 (um meio) de Remuneração Pecuniária a titulo Palácio de Despachos de Lagoa Nova, em Natal, 18 de NORTE, no uso de suas atribuições constitucionais, de vantagem pessoal, na forma do artigo 54 alterado pela Lei junho de 1999, 111º da República. R E S O L V E exonerar, a pedido, ANA VALÉRIA GARIBALDI ALVES FILHO Complementar nº 164 de 08.04.99, em seu artigo 1º, 145% (cento e BARBALHO CAVALCANTE do cargo em comissão de Coordenador quarenta e cinco por cento) de Gratificação de Exercício em Sala de Carlos Eduardo Nunes Alves da Coordenadoria de Infra-Estrutura da Secretaria de Estado da

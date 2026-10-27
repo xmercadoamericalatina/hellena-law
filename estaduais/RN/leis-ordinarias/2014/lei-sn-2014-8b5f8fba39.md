@@ -1,0 +1,30 @@
+---
+titulo: "Lei Ord. nº 9.842, de 02/06/2014"
+uf: "RN"
+tipo: "Lei Ordinária"
+numero: ""
+data: 2014-06-02
+ementa: "Fica reconhecido como de Utilidade Pública o Conselho Comunitário do Conjunto Frei Damião e dá outras providências."
+versao_texto: "PDF da Assembleia Legislativa"
+fonte: "https://www.al.rn.leg.br/storage/legislacao/2014/08/12/a081b71c314b5c35cf08978b5f8fba39.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ord. nº 9.842, de 02/06/2014
+
+RIO GRANDE DO NORTE
+
+LEI Nº 9.842, DE 02 DE JUNHO DE 2014.
+
+FICA RECONHECIDA COMO DE UTILIDADE PÚBLICA O CONSELHO COMUNITÁRIO DO CONJUNTO FREI DAMIÃO E DÁ OUTRAS PROVIDÊNCIAS.
+
+A GOVERNADORA DO ESTADO DO RIO GRANDE DO NORTE: FAÇO SABER que o Poder Legislativo decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º.** Fica reconhecido como de utilidade pública o Conselho Comunitário do Conjunto Frei Damião – CONSFRED, com sede no município de Touros e foro jurídico nesta Capital, Estado do Rio Grande do Norte.
+
+**Art. 2º.** Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Palácio de Despachos de Lagoa Nova, em Natal, 02 de junho de 2014, 193º da Independência e 126º da República.
+
+ROSALBA CIARLINI Júlio César de Queiroz Costa
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO RIO GRANDE DO NORTE – SECRETARIA LEGISLATIVA

@@ -1,0 +1,15810 @@
+---
+titulo: "Lei Ord. nº 10.048, de 26/01/2016"
+uf: "RN"
+tipo: "Lei Ordinária"
+numero: ""
+data: 2016-01-26
+ementa: "Dispõe sobre o Plano Plurianual do Estado para o Quadriênio 2016-2019 e dá outras providências."
+versao_texto: "PDF da Assembleia Legislativa"
+fonte: "https://www.al.rn.leg.br/storage/legislacao/2016/01/29/4a174486736c8248b243a6087cfbc7b1.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ord. nº 10.048, de 26/01/2016
+
+RIO GRANDE DO NORTE
+
+LEI Nº 10.048, DE 26 DE JANEIRO DE 2016.
+
+Dispõe sobre o Plano Plurianual do Estado para o Quadriênio 2016-2019 e dá outras providências.
+
+O GOVERNADOR DO ESTADO DO RIO GRANDE DO NORTE: FAÇO SABER que o Poder Legislativo decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º.** Esta Lei institui o Plano Plurianual para o período de 2016 a 2019 (PPA 2016-2019), em cumprimento ao disposto no § 1º do art. 106 da Constituição do Estado.
+
+**Art. 2º.** O PPA 2016-2019 é instrumento de planejamento governamental que define diretrizes, objetivos e metas com o propósito de viabilizar a implementação e a gestão das políticas públicas, orientar a definição de prioridades e auxiliar na promoção do desenvolvimento sustentável do Estado.
+
+**Art. 3º.** O Plano Plurianual instituído por esta Lei compreende:
+
+I – na Dimensão Estratégica: a Visão Estratégica do Governo para o período, os Eixos Estratégicos que definem as principais linhas da atuação governamental e as Diretrizes Estratégicas que os traduzem e norteiam as principais agendas do Governo para os próximos quatro anos; e
+
+II – na Dimensão Tática: os Programas Temáticos, que a conectam à Dimensão Estratégica, e seus respectivos atributos: Contextualização, Indicadores, Objetivos, Metas e Iniciativas; e os Programas de Gestão, Manutenção e Serviços do Estado.
+
+**§ 1º.** Integram esta Lei:
+
+I – anexo dos Programas Temáticos do Plano Plurianual 2016-2019, separados por poder;
+
+II – anexo do Programa de Gestão, Manutenção e Serviços ao Estado, separado por poder; e
+
+III – anexo de Metas e Prioridades para o exercício de 2016.
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO RIO GRANDE DO NORTE – SECRETARIA LEGISLATIVA
+
+**§ 2º.** Os Anexos mencionados no §1º são iniciados pelos quadros consolidados que refletem as projeções de valores globais do PPA para o seu período de referência.
+
+**§ 3º.** Não integram o PPA, nem seus Anexos, as despesas provenientes de Operações Especiais.
+
+**Art. 4º.** O Plano Plurianual 2016-2019 é o instrumento que organiza a atuação governamental, segundo Programas Temáticos orientados para a realização da Visão Estratégica do Governo e o alcance dos Objetivos Estratégicos definidos para o período do Plano.
+
+**Parágrafo único.** Além dos programas temáticos de que trata o caput deste artigo, o PPA 2016-2019 inclui as despesas relacionadas à manutenção e aos serviços do Estado, as quais integram o Programa de Gestão.
+
+**Art. 5º.** Os Programas Temáticos serão observados nas leis de diretrizes orçamentárias na fixação, a cada ano, dos Objetivos, Prioridades e Metas para o exercício seguinte e nas leis orçamentárias anuais através das Ações Orçamentárias.
+
+**Art. 6º.** Para efeito desta Lei, entende-se:
+
+I – Visão Estratégica – declaração de um desejo coletivo, factível, claro, que orientou o planejamento do Rio Grande do Norte, no geral, e da ação governamental, em particular;
+
+II – Eixos Estratégicos – principais linhas da atuação governamental para o período de implementação do Plano;
+
+III – Diretrizes Estratégicas – diretrizes que traduzem os Eixos Estratégicos e norteiam as principais agendas para os próximos quatro anos. Definem o alinhamento estratégico necessário à elaboração dos Programas Temáticos para a construção da Dimensão Tática do Plano.
+
+IV – Programas Temáticos – entes de ligação entre as Dimensões Estratégica e Tática que retratam a agenda do governo e são organizados por recortes de políticas públicas que orientam a ação governamental;
+
+V – Contextualização – descreve, de forma sucinta, a situação atual da política pública expressa no Programa Temático.
+
+VI – Indicadores – integram o conjunto de parâmetros que permite acompanhar a evolução do Programa Temático.
+
+VII – Valor Global – corresponde ao valor total definido para determinado Programa Temático ou Programa de Gestão, considerando a fonte de recurso e a sua categoria econômica.
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO RIO GRANDE DO NORTE – SECRETARIA LEGISLATIVA
+
+VIII – Objetivos – expressam as escolhas do Governo para a transformação de determinada realidade, orientando a sua atuação para o que deve ser feito frente aos desafios, demandas e oportunidades ligadas aos Programas Temáticos.
+
+IX – Metas – expressam a medida de alcance dos Objetivos, podendo ser qualitativas ou quantitativas.
+
+X – Iniciativas – atributos dos Programas Temáticos que declaram os meios que viabilizam os Objetivos e suas Metas.
+
+XI – Projetos Estratégicos – aquelas iniciativas que, por sua importância ou valor de recursos alocados à sua realização, forem consideradas estratégicas para a implementação do Programa Temático ao qual estão relacionadas.
+
+XII – Programa de Gestão, Manutenção e Serviços do Estado – contempla despesas destinadas ao apoio, à gestão e à manutenção da ação governamental ou, ainda, aquelas não tratadas nos Programas Temáticos.
+
+**§ 1º.** A utilização de Indicadores nos Programas Temáticos dos Poderes Legislativo e Judiciário e no Programa de Gestão é facultativa.
+
+**§ 2º.** As despesas de pessoal das áreas prioritárias de governo (Educação, Saúde e Segurança) integram os Programas Temáticos de cada uma dessas áreas.
+
+**Art. 7º.** A programação constante no Plano Plurianual será financiada com recursos oriundos do Tesouro Estadual, bem como os decorrentes de operações de crédito internas e externas e procedentes de convênios com órgãos e entidades governamentais, entre outros.
+
+**Art. 8º.** A gestão do PPA 2016-2019 consiste na articulação dos meios necessários para viabilizar a consecução de seus objetivos, sobretudo, para a garantia de acesso dos segmentos populacionais mais vulneráveis às políticas públicas, e busca o aperfeiçoamento:
+
+I – dos mecanismos de implementação e integração das políticas públicas;
+
+II – dos critérios de regionalização das políticas públicas; e
+
+III – dos mecanismos de monitoramento, avaliação e revisão do PPA 2016- 2019.
+
+**Parágrafo único.** Caberá à Secretaria de Estado do Planejamento e das Finanças (SEPLAN) definir as diretrizes, os prazos, e as orientações técnicas complementares para a gestão do PPA 2016-2019.
+
+**Art. 9º.** Os valores financeiros constantes do PPA 2016-2019 instituído por esta Lei são referenciais, não constituem limitação a sua execução e deverão ser fixados em cada exercício, por ocasião da aprovação dos orçamentos anuais, obedecidos os parâmetros fixados pelas respectivas Leis de Diretrizes Orçamentárias.
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO RIO GRANDE DO NORTE – SECRETARIA LEGISLATIVA
+
+**Art. 10.** Por meio de Decreto do Governador do Estado poderão ser realizadas alterações em programas temáticos no tocante a sua denominação; a denominação de suas iniciativas; a fusão de iniciativas desde que inalterados os objetivos programáticos.
+
+**Art. 11.** A exclusão ou a alteração de programas constantes desta Lei ou a inclusão de novo programa serão propostas pelo Poder Executivo por meio de Projeto de
+
+Lei de revisão anual ou específico de alteração da Lei do Plano Plurianual.
+
+**§ 1º** Após publicação da respectiva Lei, o Poder Executivo atualizará e disponibilizará para acesso público as alterações ocorridas nos Programas constantes do Plano Plurianual em função do Projeto de Lei de revisão ou de alteração.
+
+**§ 2º** Na hipótese de revisão do Plano Plurianual como etapa preliminar à elaboração do Projeto de Lei Orçamentária, os anexos deste constarão com demonstrativos das alterações resultantes daquela revisão.
+
+**Art. 12.** Esta Lei entra em vigor na data de sua publicação.
+
+Palácio de Despachos de Lagoa Nova, em Natal/RN, 26 de janeiro de 2016, 195º da Independência e 128º da República.
+
+ROBINSON FARIA Gustavo Mauricio Filgueiras Nogueira
+
+ASSEMBLEIA LEGISLATIVA DO ESTADO DO RIO GRANDE DO NORTE – SECRETARIA LEGISLATIVA
+
+Anexo 1 OS NÚMEROS DO PPA
+
+ANEXO I. OS NÚMEROS DO PPA
+
+Os gráficos abaixo apresentam os valores para o período 2016-2019.
+
+GRÁFICO 96. RECURSOS DO PPA: PROGRAMAS TEMÁTICO E DE GESTÃO
+
+Gestão 45%
+
+Temático 55%
+
+Valores do PPA 2016 - 2019 por Programa Programas Temáticos 25.235.158.273,65 Programa de Gestão, Manutenção e Serviços ao Estado 20.500.595.631,00 Total 45.735.753.904,65
+
+GRÁFICO 97. DISTRIBUIÇÃO PERCENTUAL DOS RECURSOS POR FONTE DE FINANCIAMENTO
+
+Outros Recursos 22%
+
+Operação de Crédito 5% Estadual Federal 64% 9%
+
+Valores do PPA 2016 - 2019 por Fonte Estadual 28.992.876.950,54 Federal 4.288.002.107,79 Operação de Crédito 2.415.406.672,87 Outros Recursos 10.039.468.173,45 Total 45.735.753.904,65
+
+GRÁFICO 98.DISTRIBUIÇÃO PERCENTUAL DOS RECURSOS POR FONTE DE FINANCIAMENTO E PROGRAMA
+
+38,3%
+
+25,1%
+
+19,7%
+
+9,3% 5,3% 2,3% 0,1%
+
+Estadual Federal Operação de Crédito Outros Recursos
+
+Temático Gestão
+
+GRÁFICO 99.DISTRIBUIÇÃO PERCENTUAL DOS RECURSOS POR PROGRAMA TEMÁTICO E DIRETRIZ ESTRATÉGICA
+
+Diretriz 1 7,2%
+
+Diretriz 2 27,0% Diretriz 6 56,1%
+
+Diretriz 3 3,1% Diretriz 4 Diretriz 5 0,2% 6,5%
+
+Valores do PPA 2016 - 2019 por Diretriz Diretriz 1 1.825.753.464,00 Diretriz 2 6.806.926.967,36 Diretriz 3 778.833.990,00 Diretriz 4 46.729.000,00 Diretriz 5 1.627.729.302,00 Diretriz 6 14.149.185.550,29 Total 45.735.753.904,65
+
+Democratização e Governança Pública com participação social, transparência, eficiência e gestão Diretriz Estratégica 1 orientada para resultados Investimento no capital humano potiguar: Educação de qualidade para todos de modo a garantir a Diretriz Estratégica 2 cidadania e o acesso a oportunidades Investimento em Infraestrutura a fim proporcionar os meios para o avanço da economia do Rio Grande Diretriz Estratégica 3 do Norte Investimento em Ciência, Tecnologia e Inovação para consolidar o desenvolvimento do Estado no longo Diretriz Estratégica 4 prazo Investimento em eficiência no apoio e incentivo ao Desenvolvimento Econômico do Estado e ao Em- Diretriz Estratégica 5 preendedorismo
+
+Diretriz Estratégica 6 Promoção do bem-estar do potiguar através da garantia ao acesso aos direitos fundamentais
+
+Anexo 2 PROGRAMAS TEMÁTICOS
+
+ANEXO II: PROGRAMAS TEMÁTICOS
+
+1. DEMOCRATIZAÇÃO, TRANSPARÊNCIA E GOVERNANÇA PÚBLICA
+
+2. MELHORIA NA GESTÃO DA PREVIDÊNCIA SOCIAL
+
+3. FORTALECIMENTO DA AÇÃO LEGISLATIVA
+
+4. JUDICIÁRIO
+
+5. FORTALECIMENTO DO CONTROLE EXTERNO
+
+6. DEFESA E EFETIVAÇÃO DOS DIREITOS DA SOCIEDADE
+
+7. EDUCAÇÃO BÁSICA E PROFISSIONAL
+
+8. EDUCAÇÃO SUPERIOR E TECNOLÓGICA
+
+9. LOGÍSTICA E TRANSPORTE
+
+10. CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+
+11. DESENVOLVIMENTO ENERGÉTICO E MINERAL
+
+12. DESENVOLVIMENTO SUSTENTÁVEL DA AGROPECUÁRIA
+
+13. APOIO AO DESENVOLVIMENTO ECONÔMICO INDUSTRIAL
+
+14. DESENVOLVIMENTO SUSTENTÁVEL DA PESCA E AQUICULTURA
+
+15. TURISMO
+
+16. COMÉRCIO E SERVIÇOS
+
+17. SEGURANÇA PÚBLICA, PROTEÇÃO E DEFESA CIVIL
+
+18. ASSISTÊNCIA SOCIAL E TRABALHO
+
+19. REFORMA AGRÁRIA E ASSUNTOS FUNDIÁRIOS
+
+20. SANEAMENTO BÁSICO
+
+21. FORTALECIMENTO DO SISTEMA ÚNICO DE SAÚDE
+
+22. DESENVOLVIMENTO DA CULTURA
+
+23. ESPORTE E LAZER
+
+24. HABITAÇÃO
+
+25. SEGURANÇA ALIMENTAR E NUTRICIONAL
+
+26. DESENVOLVIMENTO TERRITORIAL E ENFRENTAMENTO DA POBREZA
+
+27. JUSTIÇA E CIDADANIA
+
+28. AUTONOMIA E EMANCIPAÇÃO DA JUVENTUDE
+
+29. PROMOÇÃO E AUTONOMIA DAS MULHERES
+
+30. MEIO AMBIENTE E BIODIVERSIDADE
+
+31. CONSERVAÇÃO E GESTÃO DE RECURSOS HÍDRICOS E OFERTA DE ÁGUA
+
+Poder Executivo
+
+1. DEMOCRATIZAÇÃO, TRANSPARÊNCIA E GOVERNANÇA PÚBLICA
+
+Governar com o povo. O Governo do Estado do Rio Grande do Norte busca se aproximar cada vez mais da sociedade, convidando o cidadão a participar ativamente das decisões que influenciam diretamente o seu dia-a-dia. Essa nova maneira de governar não advém apenas de uma nova tendência da gestão pública, mas também se origina de um desejo ativo da sociedade, que entende cada vez mais seu papel na construção de um governo eficiente e de qualidade. Essa interação mais próxima possibilita um avanço no bem-estar coletivo, pois promove a melhoria do acesso à informação, que leva a um aumento da eficiência e qualidade do gasto público e dos serviços prestados à população.
+
+Essa democratização no modo de governar teve início esse ano com os eventos do Planejamento Participativo para a elaboração desse Plano Plurianual. Foram realizadas 10 oficinas em todos os territórios do Estado, com a participação de 1.227 pessoas, que apresentaram 574 propostas para o desenvolvimento estadual nos próximos quatro anos. A democratização da gestão terá continuidade através do monitoramento participativo do PPA e da implantação do Orçamento Participativo estadual.
+
+Essa nova maneira de governar com o povo é mais democrática e também mais transparente. O grau de transparência de estados e municípios brasileiros é medido pela Escala Brasil Transparente (EBT), indicador desenvolvido pela Controladoria Geral da União (CGU). A EBT é um indicador que tem o objetivo de avaliar o grau de cumprimento de dispositivos da Lei de Acesso à Informação (LAI). O diferencial da métrica adotada pela CGU é a abordagem de verificação de efetividade da LAI em relação a solicitações reais de acesso à informação sobre diversas áreas de governo. Com a EBT, a CGU pretende aprofundar o monitoramento da transparência pública e gerar um produto que possibilite o acompanhamento das ações empreendidas por estados e municípios no tocante ao direito de acesso à informação.
+
+Escala Brasil Transparente - Notas de 0 a 10
+
+10,010,0 9,7 9,3 9,2 9,2 8,9 8,9 8,8 8,6 8,6 8,3 7,8 7,8 7,4 6,7 6,4 5,6 4,9 4,7 3,3 2,8 2,8 2,5 2,2
+
+0,0 0,0
+
+CE SP PR SE SC RS DF GO ES TO PE BA AL PB MG PI MT RO RR AC RJ AM PA MS MA AP RN
+
+Fonte: Escala Brasil Transparente, Controladoria Geral da União, 2015
+
+Como apresentado no gráfico acima, Estado do Rio Grande do Norte recebeu, juntamente com o Amapá, a pior nota na escala EBT. Indiscutivelmente, o Estado tem muito o que melhorar em relação à transparência das informações disponibilizadas ao público. Assim sendo, todos os níveis de governo estarão empenhados em democratizar informações sobre suas atividades, de forma que o cidadão potiguar possa acompanhar a evolução do seu governo e, consequentemente, contribuir para sua consecução.
+
+Igualmente, através da democratização do governo e da melhoria da transparência, o Governo do Rio Grande do Norte estará dando um passo importante em direção a um modelo de governança inclusivo, transparente e mais eficiente. Além disso, o Governo vem implantando a gestão orientada para resultados em diversas esferas da administração através do Projeto RN Sustentável. De acordo com o relatório do RN Sustentável, “Desde 1995, quando o Governo Federal lançou uma ampla discussão sobre a reforma do setor público no Brasil em função de suas necessidades de ajuste fiscal, vários governos estaduais têm tomado medidas para restaurar o equilíbrio fiscal e as reformas empreendidas como forma de melhorar seu desempenho. Esta onda de esforços de reformação, no entanto, não tem sido uniforme ou homogênea. O Rio Grande do Norte adotou algumas medidas de modernização isoladas, mas ainda não fez uma reforma mais abrangente. Além disso, pouco foi feito para mudar o foco de controle de entrada e de procedimentos formais para a realização da gestão por resultados. Isso tem prejudicado a capacidade da administração pública de contribuir eficazmente para o desenvolvimento social e econômico, como é evidente, nas persistentes desigualdades regionais1”. Assim sendo objetivo final da implantação desse novo método de governança será o de promover a melhoria dos processos, dos gastos e promover um avanço significativo na maneira de fazer políticas públicas. Toda a administração estará empenhada em aprimorar seus métodos para finalmente trazer o Governo do Rio Grande do Norte para o século XXI.
+
+(RN Sustentável, 2014)
+
+Demonstrativo de Programas Temáticos PPA
+
+0001 - DEMOCRATIZAÇÃO, TRANSPARÊNCIA E GOVERNANÇA PÚBLICA
+
+Diretriz 01 - DEMOCRATIZAÇÃO E GOVERNANÇA PÚBLICA COM PARTICIPAÇÃO SOCIAL, TRANSPARÊNCIA, EFICIÊNCIA E GESTÃO ORIENTADA PARA RESULTADOS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0037 - Índice de Transparência Nota 30/05/2014 5,27
+
+0038 - Escala Brasil Transparente Nota 30/07/2015 0
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 231.533.000,00 507.049.000,00 738.582.000,00
+
+Recurso Federal 0,00 0,00 0,00
+
+Operações de Crédito 0,00 549.428.608,00 549.428.608,00
+
+Outros 28.557.428,00 5.302.028,00 33.859.456,00
+
+TOTAL 260.090.428,00 1.061.779.636,00 1.321.870.064,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0215 - Garantir o assessoramento ao Chefe do Poder Executivo de forma eficiente, através da modernização da Consultoria Geral do Estado, visando refletir seus resultados em uma melhor eficiência administrativa e operacional.
+
+Órgão: 11103 - Consultoria Geral do Estado
+
+Meta 1145 - Promover a capacitação dos Servidores da CGE Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Meta 1146 - Adquirir equipamentos de informática e eletroeletrônicos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 38 Total 38
+
+Iniciativas 00959 - Modernização da CGE através do seu reaparelhamento e informatização
+
+01506 - Qualificação profissional dos servidores da CGE
+
+Objetivo 0235 - Elevar a qualidade dos serviços prestados em defesa judicial e extrajudicial do Estado, bem como o assessoramento jurídico ao Poder Executivo, através da racionalização e melhoria física, administrativa e institucional da Procuradoria Geral do Estado.
+
+Órgão: 11104 - Procuradoria Geral do Estado
+
+Meta 0775 - Atender as solicitações de desapropriações feitas à Procuradoria Geral do Estado Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0777 - Qualificar e capacitar os servidores da PGE Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 380 Total 380
+
+Meta 1287 - Reequipar e informatizar a Procuradoria Geral do Estado Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 01006 - Construção e reaparelhamento da Sede e os Núcleos e ampliação das atuais instalações físicas, promovendo ações de modernização administrativa e institucional no âmbito da Procuradoria Geral do Estado 01090 - Realização de desapropriações de áreas e imóveis
+
+01154 - Revisão do Plano de Carreira, Cargos e Salários dos servidores da PGE
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0265 - Divulgar as ações desenvolvidas pelo governo do Estado, por meio de comunicação oficial e eletrônica para promover a prestação de contas e a transparência das atividades e políticas públicas.
+
+Órgão: 11105 - Assessoria de Comunicação Social
+
+Meta 0870 - Atingir em media 90% de todos os municipios do Rio Grande do Norte com divulgação das ações desenvolvidas pelo Governo do Estado Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 90 Total 90
+
+Iniciativas 01238 - Campanhas educativas e divulgação de ações através de midias televisiva, radio, jornal e WEB
+
+Objetivo 0293 - Ampliar e disseminar conhecimentos e práticas voltadas para a temática da Transparência e Controle Social da Administração Pública, assim como, o avanço de ações de governo eletrônico, contribuindo para a educação social, melhor oferta de serviços públicos e exercício da cidadania.
+
+Órgão: 11106 - Controladoria Geral do Estado
+
+Meta 1152 - Realizar 08 ações em Educação para o Controle Social Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 8 Total 8
+
+Meta 1232 - Instituir a Ouvidoria Geral do Estado Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Iniciativas 01406 - Realização de encontros, seminários, fóruns e conferencias para a divulgação e promoção da participação, controle social e transparência da ação pública
+
+01407 - Ampliação e aperfeiçoamento dos canais de diálogos com a sociedade civil através da promoção de ações de governo eletrônico, proporcionando o avanço da democracia participativa no estado do RN 01408 - Implementação da Lei Estadual de Acesso a Informação - LAI
+
+01409 - Criação do Conselho Estadual de Transparência e Combate a Corrupção
+
+Objetivo 0294 - Ampliar e qualificar o Controle Interno e o bom gerenciamento dos negócios públicos através da melhoria das instalações físicas, oferta de ferramentas técnicas apropriadas e da formação e capacitação de serviços afim de proporcionar melhores condições e resultados no exercício das atividades da Controladoria Geral do Estado.
+
+Órgão: 11106 - Controladoria Geral do Estado
+
+Meta 1153 - Realizar 20 Auditorias Especializadas no âmbito da Administração Pública Estadual Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 20 Total 20
+
+Meta 1238 - Instituir a Corregedoria Geral do Estado Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 01410 - Capacitação, requalificação e aperfeiçoamento dos servidores técnicos da Controladoria Geral do Estado através da participação em cursos, seminários, visitas técnicas e afins
+
+01411 - Promoção da melhoria da estrutura física e ferramentas de trabalho adequadas ao bom desempenho das funções relacionadas ao Controle Interno
+
+Objetivo 0204 - Modernizar a estrutura e os serviços do Gabinete Civil, por meio da operacionalização, reaparelhamento, bem como a qualificação e a promoção da qualidade de vida dos servidores, visando o desenvolvimento institucional e otimização da gestão das organizações públicas, garantindo eficiência e transparência.
+
+Órgão: 11108 - Gabinete Civil do Governador do Estado
+
+Meta 0619 - Modernizar o Gabinete Civil Percentual Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 100 Total 100
+
+Meta 0634 - Implantar um sistema eletrônico de compilação e sistematização da legislação estadual Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1.000.000 Total 1.000.000
+
+Iniciativas 00938 - Melhoria das instalações físicas do Gabinete Civil
+
+00939 - Modernização do sistema de segurança do Gabinete Civil
+
+00940 - Ampliação do Programa Qualidade de Vida e Gestão Ambiental do Gabinete Civil
+
+00941 - Modernização do Gabinete Civil, através da aquisição de móveis e equipamentos
+
+00942 - Aquisição de veículos e aeronave para o Gabinete Civil
+
+00944 - Implantação de um sistema eletrônico para compilação e sistematização da legislação estadual
+
+00945 - Revisão e aperfeiçoamento do Plano de Cargos, Carreiras e Remunerações (PCCR)
+
+Objetivo 0234 - Reestruturar e adequar o Centro Administrativo através da implantação e implementação de um Programa de Humanização, por meio da melhoria da infraestrutura, promovendo condições apropriadas de uso, transformando em um espaço agradável e seguro para os cidadãos trabalharem e praticarem atividades de esporte e lazer.
+
+Órgão: 11108 - Gabinete Civil do Governador do Estado
+
+Meta 0701 - Reestruturar, adequar e construir na área de 370.000m2 do Centro Administrativo Metro Quadrado Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 370.000 Total 370.000
+
+Meta 0704 - Implantar e implementar o Programa de Humanização no Centro Administrativo Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Iniciativas 01003 - Implantação de um sistema de segurança e modernização da identificação visual do Centro Administrativo
+
+01004 - Adequação da estrutura física às normas de acessibilidade, pavimentação, iluminação e criação de um projeto paisagístico no Centro Administrativo
+
+01005 - Construção e execução de obras no Centro Administrativo
+
+01008 - Construção do sistema de drenagem do Centro Administrativo
+
+01010 - Ampliação e modernização da área de esporte e lazer do Centro Administrativo
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0269 - Divulgar os atos governamentais através do diário oficial e outras publicações de interesse do estado, como livros, revistas e periódicos, bem como a execução de serviços gráficos oficiais ou de interesse de terceiros, visando um serviço público de qualidade e transparência.
+
+Órgão: 11201 - Departamento Estadual de Imprensa
+
+Meta 0873 - Construir rádio oficial até 2019 Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1315 - Aumentar a produção gráfica do periódico A República em 50% até 2018 Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 50 Total 50
+
+Iniciativas 01248 - Modernização do parque gráfico e de comunicação
+
+Objetivo 0262 - Desenvolver ações para a captação de recursos para projetos e execução de obras de infraestrutura física, social e ambiental no Estado.
+
+Órgão: 12000 - Vice-Governadoria
+
+Meta 0868 - Construir um auditório na sede de vice-governadoria Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0869 - Aparelhar e informatizar a vice-governadoria Percentual Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 100 Total 100
+
+Iniciativas 01207 - Reforma e ampliação da estrutura
+
+01208 - Aparelhamento e informatização da vice-governadoria
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0043 - Aperfeiçoar a gestão pública, através da implantação de políticas de recursos humanos orientada por competências, democratização das relações de trabalho e oferta de canais de comunicação com a sociedade, visando aumentar a capacidade do governo na implementação de suas políticas.
+
+Órgão: 16000 - Secretaria de Estado da Administração e dos Recursos Humanos
+
+Meta 0109 - Aprimorar os mecanismos para a gestão por desempenho na Administração Pública Estadual Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0110 - Criar Ouvidoria Geral no âmbito da Secretaria Estadual de Administração e dos Recursos Humanos Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0316 - Realizar concurso público para preencher vagas existentes no Quadro de Pessoal dos Órgãos da Administração Direta e Indireta Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 22 Total 22
+
+Meta 0317 - Consolidar o Sistema de atenção à saúde do servidor QVST e preparação para aposentadoria. Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 00151 - Implementação de política de desenvolvimento de pessoas na Administração Pública Estadual.
+
+00152 - Criação e fortalecimento dos instrumentos de democratização da gestão pública
+
+00439 - Desenvolvimento das políticas de atenção a saúde e segurança do trabalho.
+
+00445 - Desenvolvimento das políticas de preparação para aposentadoria conforme a Lei Federal 10.741 de 01/10/2003 Art.28 II.
+
+01091 - Normatização para concursos publicos no Estado do Rio Grande do Norte
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0103 - Fortalecer a política pública de formação inicial e continuada para o servidor público estadual.
+
+Órgão: 16000 - Secretaria de Estado da Administração e dos Recursos Humanos
+
+Meta 0210 - Ampliar em 50% a capacidade física instalada da EGRN, até dezembro de 2018 Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 50 Total 50
+
+Meta 0255 - Adquirir 1000 novos títulos anualmente para a biblioteca da EGRN. Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1.000 Total 1.000
+
+Meta 0270 - Mapear 100% dos processos internos da EGRN Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0279 - Normatizar e oficializar um plano de acolhimento aos novos servidores Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0291 - Realizar o CONGESP e CONGESPRO anualmente; duas Jornadas anuais de QVST no interior do estado; bem como Fóruns de Gestores de Unidade Medida Unidade RH em Natal e no Interior
+
+Território 2016-2019 Terras Potiguaras 12 Seridó 8 Açu/Mossoró 12 Total 32
+
+Iniciativas 00296 - Ampliação, estruturação física e aparelhamento da EGRN
+
+00300 - Consolidação da missão da EGRN, fortalecendo a política pública de formação inicial e continuada do servidor público
+
+00301 - Modernização da gestão da bilblioteca da EGRN.
+
+00327 - Revisão do fluxo de seleção de estagiários
+
+00328 - Mapeamento dos processos internos
+
+00330 - Contribuição para a efetivação do Programa de Qualidade de Vida e Saúde no Trabalho em conjunto com as demais secretarias.
+
+00345 - Execução do Programa de Qualidade de Vida e Saúde no Trabalho - QVST.
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0136 - Definir políticas de gestão de patrimônio, compras e frota de veículos, procurando meios que traduzam economicidade e redução de custos financeiros para o Estado.
+
+Órgão: 16000 - Secretaria de Estado da Administração e dos Recursos Humanos
+
+Meta 0326 - Dotar o Arquivo Publico Estadual de um espaço físico próprio para conservação do acervo documental do Estado Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0420 - Ampliar os mecanismos de gestão patrimonial, garanindo a otimização dos recursos do Estado Percentual Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 100 Total 100
+
+Meta 0423 - Articular a criação do Fundo Patrimonial do Estado Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0491 - Implantar uma Central de Compras no Governo do Estado do Rio Grande do Norte. Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 00720 - Estruturação do espaço fisico onde Funcionará o Arquivo Publico do Estado por meio de reforma.
+
+00721 - Elaboração de Projeto Lei sobre a criação do fundo patrimonial do Estado.
+
+Objetivo 0166 - Promover a Modernização da Gestão Administrativa através da Tecnologia da Informação e Comunicação para o fortalecimento, integração e acessibilidade do cidadão com o governo do estado
+
+Órgão: 16000 - Secretaria de Estado da Administração e dos Recursos Humanos
+
+Meta 0437 - Implementar políticas de TIC e de segurança da informação, abrangendo o monitoramento das diretrizes em todos os órgãos públicos do governo Unidade Medida Percentual do Estado, de forma a garantir a confiabilidade, integridade e disponibilidade dos dados e dos sistemas
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0450 - Realizar a modernização fisica e tecnológica do órgão central de TIC e de suas ramificações nas demais unidades administrativas do governo do Unidade Medida Percentual Estado, por meio de aquisição e intalação de equipamentos adequados
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0465 - Fortalecer e aumentar a Rede de dados atualmente utilizada pelos órgãos e entidades da administração pública através da rede do RN INFOVIA Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 00724 - Implementação das Política de Tecnologia da Informação e Comunicação-TIC e da Segurança da Informação, garantindo a segurança das informações do Estado e do cidadão .
+
+00725 - Implantação e efetivação de Programa de Governo Eletrônico e soluções e-SIC no Governo do RN.
+
+00729 - Criação de infraestrutura de datacenter de alta disponibilidade
+
+00730 - Desenvolvimento de infraestrutura para criação da nuvem (Cloud Privada)no Estado do Rn.
+
+00734 - Incremento da velocidade e qualidade de comunicação de dados e voz (internet), garantindo a contínua atualização tecnológica (velocidade e qualidade de tráfego), assim como a ampliação das áreas alcançadas e máxima disponibilidade de acesso aos usuários 00736 - Criação de Governança de TI Centralizada - ATIC
+
+Objetivo 0031 - Recuperar os créditos imobiliários do FCVS proporcionando ao Governo lastro financeiro e as condições favoráveis para novação de dívidas e responsabilidades previstas na lei 10.150/00.
+
+Órgão: 16202 - Companhia de Processamento de Dados
+
+Meta 0078 - Recuperar Créditos FCVS. Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 60 Total 60
+
+Iniciativas 00132 - Execução de trabalhos para arranjo e análise de documentação para recuperação de Créditos Patrimoniais do FCVS
+
+Objetivo 0032 - Regularizar atrasos dos mutuários inadimplentes vinculados a contratos imobiliários contratados pela incorporada COHAB-RN proporcionando a DATANORTE lastro financeiro e as condições favoráveis ao pagamento de dívidas e obrigações.
+
+Órgão: 16202 - Companhia de Processamento de Dados
+
+Meta 0112 - Recuperar créditos Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 40 Total 40
+
+Iniciativas 00154 - Ações de cobrança e agendamentos de acordos de pagamentos para Redução de imóveis inadimplentes
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0275 - Melhorar os sistemas de controle de despesas públicas, dos recursos humanos e da gestão de ativos físicos, no contexto de uma abordagem de gestão baseada em resultados, em conformidade com o acordo de empréstimo do Banco Mundial para o programa RN Sustentável.
+
+Órgão: 19000 - Secretaria de Estado do Planejamento e das Finanças
+
+Meta 0891 - Modernizar os sistemas administrativos e de gestão do Estado Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 3 Total 3
+
+Meta 0893 - Melhorar e modernizar a infraestrutura dos órgãos de Planejamento, Gestão e Controle Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 5 Total 5
+
+Meta 0895 - Promover a capacitação de servidores Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1.500 Total 1.500
+
+Iniciativas 01298 - Melhoria da Gestão do Setor Público - RN SUSTENTÁVEL
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0303 - Fortalecer o planejamento através da modernização da gestão estadual e da promoção de políticas públicas estratégicas, visando ampliar o desenvolvimento territorial, o diálogo participativo e a gestão orientada para resultados.
+
+Órgão: 19000 - Secretaria de Estado do Planejamento e das Finanças
+
+Meta 1269 - Promover o Realinhamento Organizacional da Estrutura Administrativa do Estado do Rio Grande do Norte Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1270 - Realizar estudo de Modelagem de Macroprocessos para Resultados Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1271 - Implantar do Sistema de Gestão de Resultados Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1272 - Apoiar a Implementação do Plano da Região Metropolitana Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1273 - Implementar o Orçamento Participativo Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 1274 - Avaliar as metas estabelecidas no Plano Plurianual Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 3 Total 3
+
+Meta 1275 - Implementar o Plano Estratégico de Desenvolvimento do Rio Grande do Norte Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1276 - Elaborar Plano dos Eixos Integrados de Desenvolvimento do Rio Grande do Norte Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1277 - Apoiar a Gestão Municipal nas áreas de Planejamento e Finanças nos dez territórios do Rio Grande do Norte Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 5 Sertão Central, Cabugi e Litoral Norte 11
+
+Demonstrativo de Programas Temáticos PPA Agreste Litoral Sul 24 Trairi 15 Potengi 11 Seridó 25 Alto Oeste 30 Açu/Mossoró 14 Mato Grande 15 Sertão do Apodi 17 Total 167
+
+Iniciativas 01488 - Elaboração e implementação de estudos, pesquisas e planos relacionados ao desenvolvimento e a consolidação do planejamento do Estado
+
+01489 - Fortalecimento do Desenvolvimento Territorial
+
+01490 - Fortalecimento Institucional da Região Metropolitana de Natal
+
+01491 - Operacionalização e fortalecimento do Conselho Metropolitano e do Conselho Estadual das Cidades – ConCidades
+
+01492 - Valorização e Qualificação dos Servidores
+
+01493 - Reestruturação e modernização do Sistema de Informações, Monitoramento e Avaliação do Planejamento e Gestão Estadual
+
+01494 - Elaboração e Implementação de ações e programas prioritários e estratégicos, incluindo a formação de banco de projetos de investimento
+
+01495 - Elaboração dos Instrumentos Legais de Planejamento
+
+01496 - Acompanhamento, monitoramento e avaliação dos programas governamentais estratégicos
+
+01497 - Elaboração do Orçamento Participativo
+
+01498 - Sensibilização de atores sociais para o fortalecimento da gestão participativa
+
+01499 - Articulação institucional para promoção da melhoria da gestão pública Estadual
+
+01500 - Apoio a implementação de consórcios públicos
+
+Objetivo 0304 - Promover o reordenamento da gestão financeira, através do gerenciamento de ativos e da implementação de ações fiscais eficientes e transparentes, visando maximizar o potencial de desenvolvimento financeiro do Estado.
+
+Órgão: 19000 - Secretaria de Estado do Planejamento e das Finanças
+
+Meta 1278 - Promover a alienação de 100% dos ativos previstos para o período de quatro anos Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1279 - Manter o Controle do Caixa Único do Estado Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1280 - Manter em 100% a Regularidade Fiscal do Estado Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1281 - Atender Empresas Públicas com aumento de capital Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 8 Total 8
+
+Iniciativas 01501 - Gestão Administrativa e Financeira de Ativos
+
+01502 - Desenvolvimento e fortalecimento de Parcerias Público Privadas
+
+01503 - Participação Acionária e Fortalecimento de Empresas Públicas
+
+01504 - Operacionalização do Sistema de Caixa Único do RN
+
+01505 - Publicação dos Relatórios da Lei de Responsabilidade Fiscal
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0315 - Promover a recuperação de ativos do extinto Sistema Financeiro Estadual (BANDERN e BDRN).
+
+Órgão: 19204 - Empresa Gestora de Ativos do Rio Grande do Norte
+
+Meta 1353 - Recuperar os ativos do sistema financeiro estadual Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 01563 - Recuperação de ativos
+
+Objetivo 0033 - Ampliar a arrecadação estadual, por meio da modernização e restruturação administrativa, física e tecnológica, garantindo eficácia e eficiência às atividades realizadas e melhoria dos serviços prestados à sociedade.
+
+Órgão: 22000 - Secretaria de Estado da Tributação
+
+Meta 0075 - Reformar as Unidades Regionais de Tributação (URT) e a sede da SET/RN Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 2 Agreste Litoral Sul 1 Seridó 2 Açu/Mossoró 1 Mato Grande 1 Total 7
+
+Meta 0081 - Elevar a qualidade dos serviços prestados por Unidade Regional de Tributação (URT) Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 60 Total 60
+
+Meta 0082 - Aumentar volume de procedimentos de fiscalização com base no monitoramento eletrônico e na malha fiscal Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 60 Total 60
+
+Meta 0085 - Implantar sistema eletrônico para processos administrativos tributários e contencioso fiscal Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 40 Total 40
+
+Iniciativas 00101 - Qualificação e capacitação de servidores da SET/RN na área tributária
+
+00102 - Ampliação da Infraestrutura de Tecnologia da Informação e Comunicação da SET/RN
+
+00103 - Gestão da Administração Tributária
+
+00104 - Reforma dos Prédios das Unidades Regionais de Tributação (URT), postos fiscais e sede da SET/RN
+
+00105 - Aperfeiçoamento das Áreas Financeira e Dívida Ativa do Estado
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0066 - Ampliar a disseminação da educação fiscal no Estado através da qualificação de pessoal, sensibilização da sociedade e reformulação das ações educativas de cidadania fiscal.
+
+Órgão: 22000 - Secretaria de Estado da Tributação
+
+Meta 0165 - Capacitar quadro técnico dos municípios para disseminação do Programa de Educação Fiscal – PEF Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 15 Sertão Central, Cabugi e Litoral Norte 5 Agreste Litoral Sul 5 Seridó 5 Alto Oeste 5 Açu/Mossoró 10 Mato Grande 5 Sertão do Apodi 5 Acari 5 Total 60
+
+Meta 0166 - Realizar eventos culturais de Educação Fiscal Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 2 Seridó 1 Açu/Mossoró 1 Total 4
+
+Meta 0169 - Desenvolver e implantar parcerias com organismos da sociedade para promoção da educação fiscal Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Meta 0170 - Monitorar e avaliar os resultados do Programa de Educação Fiscal - PEF Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 3 Total 3
+
+Meta 0171 - Reformular sistemas de gestão da campanha educativa de cidadania fiscal Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 00234 - Desenvolvimento de projetos para disseminar a educação fiscal no Estado
+
+00235 - Sensibilização da sociedade para a importância dos tributos e da emissão da nota fiscal
+
+2. MELHORIA NA GESTÃO DA PREVIDÊNCIA SOCIAL
+
+A previdência social no Brasil é um complexo sistema de proteção social e enfrenta grandes desafios. Atualmente a receita recolhida para a previdência social não é suficiente para pagar as despesas gerando um déficit nas contas do Estado. Entre as causas para o agravamento fiscal do sistema previdenciário estão o aumento no número de beneficiários, com uma taxa média de 4,4% a.a. entre 1980 e 2013; baixo crescimento do PIB, que foi 2,6% a.a. no período, segundo o Anuário Estatístico de Previdência Social. Outros fatores como a generosidade das regras, com baixa idade para aposentadoria e liberação de benefícios por invalidez e o aumento do salário mínimo também contribuíram para o agravamento da situação atual.
+
+O Rio Grande do Norte encontra-se em desequilíbrio nas contas previdenciárias. A despesa com inativos e pensionistas foi a que mais cresceu entre 2010 e 2014. Na análise da evolução do fundo previdenciário observamos que, entre 2010 e 2014, o resultado foi superavitário, enquanto o fundo previdenciário apresentou déficit em todos os anos com aumento de 42% no déficit entre 2013 e 2014.
+
+Fonte: Governo do Estado do Rio Grande do Norte – Cenários Fiscais
+
+O governo do Rio Grande do Norte tem um grande desafio para equilibrar as contas nos próximos anos. Em 2014, o gasto com pessoal ultrapassou os limites da Lei de Responsabilidade
+
+Fiscal (LRF) em 4,1 p.p. Apenas no Judiciário o gasto está dentro da Lei, em todos os outros poderes o valor foi ultrapassado.
+
+STN 2010 2011 2012 2013 2014 LRF\* % Consolidado 59,9 59,6 59,6 59,9 64,1 60,0 Executivo\*\* 48,8 48,4 48,9 48,9 53,4 49,0 Legislativo 2,9 3,1 3,0 3,1 3,0 2,4 Judiciário 6,4 6,1 5,8 5,9 5,6 6,0 Ministério Público 1,9 2,0 1,9 2,0 2,1 2,0 Fonte: Relatórios de Gestão Fiscal - Demonstrativo Sintético da Despesa com Pessoal \* Limites do Artigo 20 da Lei de responsabilidade Fiscal \*\* Utilizando a metodologia de cálculo definida pelo STN
+
+Nos próximos quatro anos, o governo tem o grande desafio de estabelecer os limites com gasto de pessoal dentro da LRF e reduzir o déficit previdenciário. O Rio Grande do Norte precisa fazer um controle intensivo nas contas governamentais, por meio da melhoria na gestão do gasto com pessoal e precisa buscar medidas, previstas na lei, para reduzir os custos e melhorar a situação fiscal no curto e médio prazo.
+
+Demonstrativo de Programas Temáticos PPA
+
+0002 - MELHORIA NA GESTÃO DA PREVIDÊNCIA SOCIAL
+
+Diretriz 01 - DEMOCRATIZAÇÃO E GOVERNANÇA PÚBLICA COM PARTICIPAÇÃO SOCIAL, TRANSPARÊNCIA, EFICIÊNCIA E GESTÃO ORIENTADA PARA RESULTADOS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0128 - Prazo médio de resposta na concessão de aposentadoria Dia 31/12/2014 180
+
+0129 - Prazo médio de resposta na concessão de pensão Dia 31/12/2014 100
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 0,00 0,00 0,00
+
+Recurso Federal 0,00 0,00 0,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 2.423.000,00 14.680.000,00 17.103.000,00
+
+TOTAL 2.423.000,00 14.680.000,00 17.103.000,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0020 - Melhorar e ampliar a rede de atendimento previdenciário do Estado do Rio Grande do Norte, através da modernização e reforma da estrutura física e tecnológica e da qualificação profissional, visando garantir a qualidade dos serviços prestados aos usuários do sistema.
+
+Órgão: 16201 - Instituto de Previdência dos Servidores do Estado do Rio Grande do Norte
+
+Meta 0049 - Reformar e ampliar as instalações físicas da Sede e demais agências do Interior do Estado, garantindo a acessibilidade e conforto aos usuários Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Seridó 2 Açu/Mossoró 1 Total 4
+
+Iniciativas 00091 - Modernização do sistema de informática da rede Previdenciária do Estado
+
+00092 - Capacitação e aperfeiçoamento do corpo técnico para desenvolverem suas atividades de forma mais eficiente
+
+00093 - Melhoria da infraestrutura Previdenciária
+
+00096 - Realização de paraceira para promoção de um programa para pós-graduandos, com a finalidade de desenvolver trabalho/ações que possibilite a modernização dos serviços previdenciários
+
+7. EDUCAÇÃO BÁSICA E PROFISSIONAL
+
+A educação constitui elemento essencial para o desenvolvimento humano, compreendendo as relações sociais, políticas, histórico e cultural. No atual contexto da sociedade, cabe aos entes federados desenvolver ações capazes de comportar a dinâmica requerida pela sociedade, em parcerias, no sentido da consolidação do sistema educacional.
+
+A obrigatoriedade e a gratuidade do ensino fundamental exigem do poder público que seja assegurado em todas as esferas federal, estadual e municipal, o desenvolvimento da educação com base no tripé: oferta, permanência e aprendizagem, em observância às necessidades de escolarização, atendo-se à formação pluricultural da população brasileira, na expectativa de contribuir para a melhoria da qualidade de ensino.
+
+A Educação Básica é constituída da educação infantil (creche e pré-escola – 0 aos 5 anos), ensino fundamental (anos iniciais do 1º ao 5º e anos finais do 6º ao 9º – 6 aos 14 anos) e ensino médio (1º ao 3º ano equivalente aos 15 a 17 anos), inclusive suas modalidades (Educação Especial, Educação do Campo e Educação de Jovens e Adultos). No Rio Grande do Norte a educação infantil tem sido assumida pelos municípios.
+
+O Ensino Fundamental (EF) é a segunda etapa constituinte da Educação Básica e tem por objetivo a formação integral do indivíduo para o exercício pleno da cidadania, pautando-se nos princípios da igualdade, da liberdade, do reconhecimento e respeito à diversidade, além da valorização dos profissionais da educação e da gestão democrática como garantia da qualidade da educação. O EF está dividido em duas etapas: EF I – de 6 (seis) aos 10 (dez) anos de idade e o EF II - de 11 (onze) aos 14 (catorze) anos de idade, com duração total de 9 (nove) anos.
+
+O contexto atual do Ensino Médio (EM) na rede estadual do Rio Grande do Norte, se efetiva no acesso e na perspectiva de permanência e de qualidade social para os jovens e adultos estudantes matriculados em 290 escolas. Dessas, 207 oferecem EM noturno; em 71 escolas funcionam a modalidade de Educação de Jovens e Adultos, 08 ofertam Ensino Médio Modalidade Normal, e, ainda nesse universo, 62 escolas implantaram o Programa Ensino Médio Inovador. É importante destacar que em uma mesma escola pode funcionar mais de uma forma de oferta, de programas e ou modalidade. As diversas formas de oferta de EM têm como objetivo assegurar a sua função formativa considerando as peculiaridades e singularidades dos estudantes, sempre que o interesse do processo de ensino e aprendizagem assim o recomendar, vislumbrando as dimensões do trabalho, ciência, cultura e tecnologia como eixo integrador de saberes e conhecimentos, contextualizando-os em sua dimensão histórica e à realidade social contemporânea.
+
+O Rio Grande do Norte desenvolve as ações educacionais em consonância com as políticas educacionais nacionais direcionadas para essa etapa. Ao longo dos anos, o Estado vem desenvolvendo programas e projetos no citado nível de ensino como uma forma de superar e combater os problemas existentes, tais como: abandono, evasão, repetência, reprovação e distorção idade-ano.
+
+Ao longo dos anos, temos assistido a um decréscimo das taxas de matrícula em ambas as etapas, conforme podemos observar na tabela abaixo:
+
+TABELA I – MATRÍCULA INICIAL NO ENSINO FUNDAMENTAL (2009-2014)
+
+Ano Ens. Fund. Anos Iniciais Ens. Fund. Anos Finais Total
+
+2009 62.488 89.329 151.817
+
+2010 57.823 84.586 142.409
+
+2011 55.421 80.907 136.328
+
+2012 50.743 75.267 126.010
+
+2013 48.319 74.647 122.966
+
+2014 43.847 72.040 115.887
+
+Não obstante, as taxas de aprovação no Ensino Fundamental têm crescido, ainda que numa velocidade bastante inferior ao que se considera necessário para que seja possível atingir novos patamares de matrícula no Ensino Médio, conforme se observa na tabela abaixo:
+
+TABELA II – TAXA DE APROVAÇÃO NO ENSINO FUNDAMENTAL
+
+2009 2010 2011 2012 2013
+
+71,15% 72,82% 72,90% 75,10% 75,47%
+
+Todo o esforço realizado pelas sucessivas gestões no sentido de assegurar uma oferta de Ensino Médio que assegure a sua função formativa considerando as peculiaridades e singularidades dos estudantes, somente neste ano de 2014 produziu um aumento relativamente significativo, após uma série de quedas, como pode ser percebido na tabela abaixo.
+
+TABELA III – NÚMERO DE MATRÍCULA NO ENSINO MÉDIO
+
+2010 2011 2012 2013 2014
+
+124.938 122.446 118.623 114.518 135.609
+
+Uma das causas para este fenômeno se explica pelo baixo fluxo escolar no EF que apresenta um histórico de retenção e, consequentemente, altos índices de distorção idade-série. É importante destacar que essa etapa de ensino é a maior responsável em gerar a demanda para o ensino médio.
+
+Esse fator e outros como a reprovação e o abandono representam o grande gargalo para essa etapa de ensino. Ressaltamos que esse decréscimo da matrícula na rede estadual não é um acontecimento apenas do Rio Grande do Norte. No Brasil, de modo geral, as matrículas tiveram uma queda de 3% entre 2010 e 2013, mesmo o País com 1,6 milhão de jovens de 15 a 17 anos fora da escola, o que representa 15,2% dos jovens.
+
+Em 2011, no Rio Grande do Norte, a quantidade de jovens de 15 a 17 anos fora da escola foi de 18.434. Segundo dados do IBGE/PNAD (2014), os jovens de 19 anos que concluíram o Ensino Médio representaram 35,2% do total em 2009, 57,2% em 2011 e 42,3% em 2012. De 2011 a 2012, os dados revelam que houve um decréscimo de jovens que concluíram o EM no ano de 2012.
+
+De alguma forma a rede pública de ensino não tem conseguido atrair os jovens que saem do Ensino Fundamental, apesar das vagas disponíveis nas escolas de Ensino Médio. Mesmo com a redução de matrículas, a rede estadual continuou sendo responsável pela grande maioria da oferta de ensino: em 2010, 83,9% das matrículas eram da rede pública estadual, mantendo esse percentual em torno de 81% nos demais anos. Destacamos que segundo dados do IBGE/PNAD/Anuário Brasileiro da Educação Básica (2013), a taxa líquida de matrícula do Rio Grande do Norte, em 2009, foi 42% e, em 2012, foi de 45%.
+
+Atualmente, dois graves problemas se manifestam no Ensino Médio: a distorção idade/série e as taxas de reprovação, como podemos notar nas duas tabelas abaixo.
+
+TABELA IV – DISTORÇÃO IDADE/SÉRIE NO ENSINO MÉDIO, NA REDE ESTADUAL PÚBLICA.
+
+2010 2011 2012 2013
+
+52,5% 51,0% 51,0% 50,6%
+
+TABELA V – REPROVAÇÃO NO ENSINO MÉDIO, NA REDE ESTADUAL PÚBLICA.
+
+2010 2011 2012 2013
+
+6,4% 7,9% 8,7% 11,8%
+
+O Programa Temático de Educação Básica e Profissional consiste numa formulação estratégica da Secretaria de Estado da Educação e da Cultura (SEEC) para fazer frente, no contexto da realidade educacional do Rio Grande do Norte, aos desafios impostos pelas baixas taxas de desempenho escolar dos estudantes, diagnosticadas por meio das avaliações nacionais da aprendizagem. Nesse sentido, o Programa norteia uma linha de ações cujos esforços se concentram na melhoria dos processos da gestão institucional e pedagógica do sistema estadual de ensino, por meio do planejamento estratégico integrado e da avaliação institucional, utilizando-se do conhecimento especializado e do suporte de recursos e tecnologias informacionais para produzir resultados educacionais que promovam, numa perspectiva longitudinal, a mudança desejada nesse atual cenário educacional do Estado.
+
+Segundo dados do INEP – Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira, autarquia do Ministério da Educação, o Rio Grande do Norte se situa entre os estados da Federação que apresentam um histórico de baixo desempenho escolar, tendo registrado avanços pouco expressivos ao longo dos últimos oito anos, a despeito do incremento das políticas do MEC para a educação básica e profissional nesse período. Os dados mais recentes do IDEB – Índice de Desenvolvimento da Educação Básica, que varia de 0 a 10, relativos à rede estadual de ensino do Rio Grande do Norte apresentam resultados de apenas 3,9 pontos para os anos iniciais do ensino fundamental, 3,1 para os anos finais e 2,7 para o ensino médio, enquanto a meta nacional é de 6 pontos, correspondente ao nível médio de desempenho dos países desenvolvidos, segundo a OCDE – Organização para a Cooperação para o Desenvolvimento, organismo da ONU – Organização das Nações Unidas.
+
+Reforçam esse diagnóstico, os indicadores do fluxo escolar levantados pelo Censo Escolar da Educação Básica/INEP, que apontam taxas abaixo da média brasileira para a aprovação dos estudantes em todas as etapas do ensino, além de elevadas taxas de distorção idade-série/ano e de abandono.
+
+Estudos especializados consideram que esse conjunto precário de indicadores constitui fator decisivo para o baixo desenvolvimento socioeconômico da população e para a reprodução das condições de pobreza do Estado, cuja tendência deve ser revertida mediante políticas eficazes que promovam equidade social no contexto do desenvolvimento sustentável, beneficiando as camadas mais carentes da população, atendidas pela escola pública, e elevando seu padrão de vida e sua expectativa de futuro.
+
+Face ao exposto, releva-se a importância estratégica do Programa Temático aludido, cujas estratégias focam a melhoria dos processos da gestão da educação básica e profissional do Rio Grande do Norte, lançando mão de conhecimentos especializados e recursos tecnológicos decisivos para o desenvolvimento e a consolidação do projeto educacional do Rio Grande do Norte, na perspectiva da excelência dos serviços educacionais que devem ser prestados ao cidadão.
+
+Demonstrativo de Programas Temáticos PPA
+
+0007 - EDUCAÇÃO BÁSICA E PROFISSIONAL
+
+Diretriz 02 - INVESTIMENTO NO CAPITAL HUMANO POTIGUAR: EDUCAÇÃO DE QUALIDADE PARA TODOS DE MODO A GARANTIR A CIDADANIA E O ACESSO À OPORTUNIDADES
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0041 - Taxa de Distorção Idade/Série – Ensino Fundamental Índice 28/05/2014 38,89
+
+0042 - Taxa de Distorção Idade/Série – Ensino Médio Índice 28/05/2014 50,71
+
+0043 - Taxa de Aprovação – Ensino Médio Índice 01/02/2015 68,5
+
+0044 - Taxa de Aprovação – Ensino Fundamental Índice 01/02/2015 75,8
+
+0045 - Taxa de Reprovação – Ensino Fundamental Índice 01/02/2015 20,3
+
+0046 - Taxa de Reprovação – Ensino Médio Índice 01/02/2015 19,2
+
+0047 - Taxa de Abandono – Ensino Fundamental Índice 01/02/2015 3,9
+
+0048 - Taxa de Abandono – Ensino Médio Índice 01/02/2015 12,3
+
+0049 - Índice - IDEB – Ensino Fundamental Anos Iniciais Índice 30/11/2013 3,9
+
+0050 - Índice - IDEB – Ensino Fundamental Anos Finais Índice 30/11/2013 3,1
+
+0051 - Índice - IDEB – Ensino Médio Índice 30/11/2013 2,7
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 4.145.092.000,00 320.000,00 4.145.412.000,00
+
+Recurso Federal 492.308.000,00 817.172.000,00 1.309.480.000,00
+
+Operações de Crédito 0,00 185.324.000,00 185.324.000,00
+
+Outros 0,00 0,00 0,00
+
+TOTAL 4.637.400.000,00 1.002.816.000,00 5.640.216.000,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0104 - Expandir e melhorar a infraestrutura física, esportiva e tecnológica das Escolas, Órgão Central, DIRED e DRAE, por meio da Avaliação da Situação Física Escolar, dotando de condições adequadas ao desempenho de suas atribuições afim de proporcionar um ensino de qualidade, sensível às particularidades dos alunos e profissionais, bem como do público que nelas transitam.
+
+Órgão: 18000 - Secretaria de Estado da Educação e da Cultura
+
+Meta 0343 - Construir 03 Centros de Educação Profissional e Tecnológico Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 2 Açu/Mossoró 1 Total 3
+
+Meta 0347 - Construir 04 escolas estaduais da Educação Básica Unidade Unidade Medida
+
+Território 2016-2019 Agreste Litoral Sul 1 Alto Oeste 1 Mato Grande 1 Sertão do Apodi 1 Total 4
+
+Meta 0350 - Reformar e ampliar a infraestrutura física das 419 unidades de ensino da rede estadual Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 50 Sertão Central, Cabugi e Litoral Norte 38 Agreste Litoral Sul 44 Trairi 41 Potengi 46 Seridó 50 Alto Oeste 35 Açu/Mossoró 40 Mato Grande 36 Sertão do Apodi 39 Total 419
+
+Meta 0356 - Construir 195 quadras poliesportivas em escolas estaduais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 20 Sertão Central, Cabugi e Litoral Norte 20 Agreste Litoral Sul 20 Trairi 20 Potengi 20 Seridó 20 Alto Oeste 20 Açu/Mossoró 20 Mato Grande 20 Sertão do Apodi 15 Total 195
+
+Meta 0357 - Realizar cobertura de 25 quadras poliesportivas em escolas estaduais por ano Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 3 Sertão Central, Cabugi e Litoral Norte 2 Agreste Litoral Sul 3 Trairi 2 Potengi 2 Seridó 3 Alto Oeste 3 Açu/Mossoró 3
+
+Demonstrativo de Programas Temáticos PPA Mato Grande 2 Sertão do Apodi 2 Total 25
+
+Meta 0359 - Reaparelhar as 639 escolas estaduais, 16 DIRED, 08 DRAE e Órgão Central Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 163 Sertão Central, Cabugi e Litoral Norte 28 Agreste Litoral Sul 81 Trairi 37 Potengi 15 Seridó 77 Alto Oeste 72 Açu/Mossoró 97 Mato Grande 40 Sertão do Apodi 54 Total 664
+
+Meta 0360 - Ampliar a infraestrutura tecnológica nas 639 escolas estaduais, Órgão Central, 16 DIRED e 08 DRAE Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 163 Sertão Central, Cabugi e Litoral Norte 28 Agreste Litoral Sul 81 Trairi 37 Potengi 15 Seridó 77 Alto Oeste 72 Açu/Mossoró 97 Mato Grande 40 Sertão do Apodi 54 Total 664
+
+Iniciativas 00446 - Construção, ampliação, reforma e reparação das unidades de ensino, Órgão Central, DIRED e DRAE
+
+00449 - Construção, Ampliação, Reforma, Reparação e Adequação das quadras poliesportivas das unidades de ensino e espaços culturais
+
+00451 - Aparelhamento e reaparelhamento das unidades de ensino, DIRED, DRAE e Órgão Central
+
+00453 - Expansão e Modernização dos laboratórios e equipamentos de informática da Rede Estadual de Ensino
+
+00454 - Ampliação e Implementação do Sistema Integrado da Educação Básica (SIGeduc) e Sistema de Gestão de Pessoas (SAGEP), da Rede Potiguar de Televisão Educativa e Cultural, Rede Gigametrópole e Sistema de Informação da Avaliação da Situação Física Escolar – SIAFE 00457 - Ampliação do acesso à informática e digitalização de documentos das escolas estaduais, DIRED, DRAE e Órgão Central
+
+00460 - Fortalecimento dos Núcleos de Tecnologia Educacional
+
+00462 - Realizar levantamento da infraestrutura física da rede estadual de ensino por meio da Avaliação da Situação Física Escolar
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0105 - Expandir e melhorar a qualidade da Educação Básica, Profissional e atendimento educacional especializado, a partir da implantação e implementação de políticas que propiciem a construção e ampliação de saberes e conhecimentos no âmbito do ensino fundamental, médio e profissional, ampliando a matrícula da rede e promovendo a redução dos índices de reprovação, distorção idade/série e analfabetismo.
+
+Órgão: 18000 - Secretaria de Estado da Educação e da Cultura
+
+Meta 0362 - Implantar e implementar programas de Formação Continuada e de Valorização do Magistério e Profissionais da Educação das 639 escolas, 16 Unidade Medida Unidade DIRED, 08 DRAE e Órgão Central
+
+Território 2016-2019 Terras Potiguaras 163 Sertão Central, Cabugi e Litoral Norte 28 Agreste Litoral Sul 81 Trairi 37 Potengi 15 Seridó 77 Alto Oeste 72 Açu/Mossoró 97 Mato Grande 40 Sertão do Apodi 54 Total 664
+
+Meta 0364 - Elevar o acesso, a permanência e o nível de escolarização da Educação Básica, Profissional e atendimento educacional especializado nas 639 Unidade Medida Unidade escolas estaduais
+
+Território 2016-2019 Terras Potiguaras 157 Sertão Central, Cabugi e Litoral Norte 26 Agreste Litoral Sul 79 Trairi 36 Potengi 14 Seridó 74 Alto Oeste 70 Açu/Mossoró 94 Mato Grande 37 Sertão do Apodi 52 Total 639
+
+Meta 0376 - Implantar e implementar a Educação Profissional Técnica de Nível Médio e EJA nos 10 Centros de Educação Profissional e Tecnológica e 38 Unidade Medida Unidade escolas estaduais
+
+Território 2016-2019 Terras Potiguaras 9 Sertão Central, Cabugi e Litoral Norte 4 Agreste Litoral Sul 4 Trairi 4 Potengi 4 Seridó 4 Alto Oeste 4 Açu/Mossoró 7 Mato Grande 5 Sertão do Apodi 3 Total 48
+
+Meta 0382 - Implantar e implementar ações pedagógicas, programas e projetos para a Educação Básica, Profissional e atendimento educacional especializado Unidade Medida Unidade nas 639 escolas estaduais
+
+Território 2016-2019 Terras Potiguaras 157 Sertão Central, Cabugi e Litoral Norte 26 Agreste Litoral Sul 79 Trairi 36 Potengi 14 Seridó 74 Alto Oeste 70 Açu/Mossoró 94 Mato Grande 37 Sertão do Apodi 52
+
+Demonstrativo de Programas Temáticos PPA Total 639
+
+Meta 0385 - Implantar e fortalecer os Programas de Alimentação Escolar nas 639 escolas estaduais e 8 DRAE Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 158 Sertão Central, Cabugi e Litoral Norte 26 Agreste Litoral Sul 80 Trairi 37 Potengi 14 Seridó 75 Alto Oeste 71 Açu/Mossoró 95 Mato Grande 38 Sertão do Apodi 53 Total 647
+
+Meta 0388 - Implantar 184 bibliotecas escolares e comunitárias Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 20 Sertão Central, Cabugi e Litoral Norte 25 Agreste Litoral Sul 15 Trairi 15 Potengi 15 Seridó 20 Alto Oeste 15 Açu/Mossoró 25 Mato Grande 14 Sertão do Apodi 20 Total 184
+
+Meta 0390 - Oferecer transporte escolar aos alunos das 639 escolas estaduais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 157 Sertão Central, Cabugi e Litoral Norte 26 Agreste Litoral Sul 79 Trairi 36 Potengi 14 Seridó 74 Alto Oeste 70 Açu/Mossoró 94 Mato Grande 37 Sertão do Apodi 52 Total 639
+
+Meta 0391 - Oferecer passagem gratuita aos alunos das 117 escolas estaduais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 351 Total 351
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 00488 - Formação continuada aos professores e profissionais de Educação Básica e Profissional
+
+00494 - Aquisição e elaboração de material didático-pedagógico, desportivo, cultural e de fardamento escolar
+
+00501 - Fortalecimento de ações e programas da Alimentação Escolar
+
+00509 - Implantação e implementação de bibliotecas escolares e de programas de incentivo à formação de leitores
+
+00512 - Desenvolvimento e Fortalecimento de ações e programas na Educação Básica e de atendimento especializado
+
+00515 - Implementação da Educação Profissional Tecnológica
+
+00517 - Oferta de passagem gratuita aos estudantes
+
+00520 - Ampliação e fortalecimento da oferta do transporte escolar
+
+00521 - Reorganização do Currículo da EJA da rede pública estadual incorporando a preparação para o mundo do trabalho e a Educação Profissional e Tecnológica
+
+00523 - Implementação do novo currículo no Ensino Médio noturno, constituído a partir de uma proposta que considere o diálogo entre educação e trabalho
+
+00526 - Promoção de discussão e ajustes na versão preliminar das diretrizes e matrizes curriculares, bem como das Referências Básicas para a Organização do Trabalho Pedagógico
+
+00527 - Apoio a ações pedagógicas de fortalecimento da relação escola-comunidade
+
+00529 - Apoio a projetos de intervenção pedagógica voltados à melhoria na aprendizagem dos educandos
+
+00531 - Elaboração de Diretrizes e Matrizes Curriculares do Ensino Médio
+
+00532 - Implementação da nova Proposta Curricular do Ensino Médio Noturno
+
+00533 - Revisão/atualização dos Planos de Curso da Educação Profissional
+
+00534 - Realização de oficinas, seminários, concursos e amostras culturais na rede estadual de ensino
+
+00535 - Elaboração do Plano Estratégico de implementação da Educação Profissional da rede estadual de ensino, considerando: modelo de gestão, plano de contratação de profissionais das áreas gerais e específicas, plano estratégico de criação e manutenção de cursos 00536 - Distribuição de cartilhas para o desenvolvimento da ação de Educação Alimentar e Nutricional nas escolas estaduais
+
+00537 - Promoção de discussão em toda a rede estadual de uma nova forma de organização curricular da EJA
+
+00539 - Mapeamento de espaços não escolares adequados à ampliação de formas de atendimento da EJA, considerando a criação de classes em locais de trabalho e hospitais, para os estudantes em tratamento prolongado de saúde 01519 - Fortalecimento do quadro de professores do magistério e profissionais da educação
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0106 - Instituir políticas públicas com pilares a inclusão social, a gestão democrática e a diversidade no processo educativo, com base na humanização, socialização, e a ação sistêmica, para garantir a efetivação do direito a qualidade da educação básica e profissional do RN.
+
+Órgão: 18000 - Secretaria de Estado da Educação e da Cultura
+
+Meta 0392 - Implantar as políticas de Educação Integral em Tempo Integral em 98 escolas estaduais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 20 Sertão Central, Cabugi e Litoral Norte 5 Agreste Litoral Sul 11 Trairi 7 Potengi 4 Seridó 12 Alto Oeste 11 Açu/Mossoró 14 Mato Grande 8 Sertão do Apodi 6 Total 98
+
+Meta 0393 - Implementar o programa de Cooperação entre Estado e Municípios, nos 167 municípios Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 5 Sertão Central, Cabugi e Litoral Norte 11 Agreste Litoral Sul 24 Trairi 15 Potengi 11 Seridó 25 Alto Oeste 30 Açu/Mossoró 14 Mato Grande 15 Sertão do Apodi 17 Total 167
+
+Meta 0394 - Ampliar as ações de Multiculturalismo e Diversidade nas 639 escolas estaduais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 157 Sertão Central, Cabugi e Litoral Norte 26 Agreste Litoral Sul 79 Trairi 36 Potengi 14 Seridó 74 Alto Oeste 70 Açu/Mossoró 94 Mato Grande 37 Sertão do Apodi 52 Total 639
+
+Meta 0395 - Fortalecer as políticas de Educação em Direitos Humanos nas 639 escolas estaduais do RN Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 157 Sertão Central, Cabugi e Litoral Norte 26 Agreste Litoral Sul 79 Trairi 36 Potengi 14 Seridó 74 Alto Oeste 70 Açu/Mossoró 94 Mato Grande 37 Sertão do Apodi 52
+
+Demonstrativo de Programas Temáticos PPA Total 639
+
+Meta 0396 - Fomentar o Protagonismo Juvenil na Escola nas 639 escolas estaduais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 157 Sertão Central, Cabugi e Litoral Norte 26 Agreste Litoral Sul 79 Trairi 36 Potengi 14 Seridó 74 Alto Oeste 70 Açu/Mossoró 94 Mato Grande 37 Sertão do Apodi 52 Total 639
+
+Meta 0397 - Ampliar as ações do Programa Educação e Saúde na Escola nas 639 escolas estaduais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 157 Sertão Central, Cabugi e Litoral Norte 26 Agreste Litoral Sul 79 Trairi 36 Potengi 14 Seridó 74 Alto Oeste 70 Açu/Mossoró 94 Mato Grande 37 Sertão do Apodi 52 Total 639
+
+Meta 0398 - Fortalecer a Gestão Democrática para realização das eleições unificadas dos gestores escolares nas 639 escolas estaduais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 157 Sertão Central, Cabugi e Litoral Norte 26 Agreste Litoral Sul 79 Trairi 36 Potengi 14 Seridó 74 Alto Oeste 70 Açu/Mossoró 94 Mato Grande 37 Sertão do Apodi 52 Total 639
+
+Meta 0399 - Fortalecer o funcionamento dos 639 Conselhos Escolares Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 157 Sertão Central, Cabugi e Litoral Norte 26 Agreste Litoral Sul 79 Trairi 36 Potengi 14 Seridó 74 Alto Oeste 70 Açu/Mossoró 94 Mato Grande 37 Sertão do Apodi 52 Total 639
+
+Meta 0400 - Promover a formação continuada dos 2.556 gestores escolares Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 628
+
+Demonstrativo de Programas Temáticos PPA Sertão Central, Cabugi e Litoral Norte 108 Agreste Litoral Sul 316 Trairi 144 Potengi 56 Seridó 292 Alto Oeste 284 Açu/Mossoró 376 Mato Grande 144 Sertão do Apodi 208 Total 2.556
+
+Meta 0401 - Fortalecer o Programa de Educação Ambiental em 32 escolas estaduais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 4 Sertão Central, Cabugi e Litoral Norte 4 Agreste Litoral Sul 3 Trairi 3 Potengi 3 Seridó 3 Alto Oeste 3 Açu/Mossoró 2 Mato Grande 3 Sertão do Apodi 4 Total 32
+
+Meta 0402 - Ampliar a oferta de vagas para professores e profissionais da Educação Básica e Profissional nas 639 escolas estaduais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 157 Sertão Central, Cabugi e Litoral Norte 26 Agreste Litoral Sul 79 Trairi 36 Potengi 14 Seridó 74 Alto Oeste 70 Açu/Mossoró 94 Mato Grande 37 Sertão do Apodi 52 Total 639
+
+Meta 0403 - Reordenar as 639 escolas de acordo com a demanda existente Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 157 Sertão Central, Cabugi e Litoral Norte 26 Agreste Litoral Sul 79 Trairi 36 Potengi 14 Seridó 74 Alto Oeste 70 Açu/Mossoró 94 Mato Grande 37 Sertão do Apodi 52 Total 639
+
+Meta 0404 - Implementar Programa de Qualidade de Vida e Saúde no Trabalho para 1.870 professores e profissionais de educação Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 727 Sertão Central, Cabugi e Litoral Norte 127 Agreste Litoral Sul 127 Trairi 127 Potengi 127 Seridó 127 Alto Oeste 127 Açu/Mossoró 127 Mato Grande 127
+
+Demonstrativo de Programas Temáticos PPA Sertão do Apodi 127 Total 1.870
+
+Iniciativas 00410 - Elaboração e implementação de Programa de Cooperação entre Estado e Municípios
+
+00413 - Autonomia financeira da Gestão Educacional no âmbito do Órgão Central, DIRED, DRAE e escolas estaduais
+
+00415 - Implementação e fortalecimento do processo de eleições nas escolas e DIRED
+
+00419 - Implantação da Educação Integral em Tempo Integral
+
+00420 - Ampliação dos Programas de Saúde na Escola
+
+00422 - Implementação e fortalecimento de ações, programas e projetos da Cultura de Paz e a educação em direitos humanos nas escolas estaduais
+
+00424 - Implementação o Multiculturalismo e Diversidade nos Projetos Políticos Pedagógicos
+
+00429 - Fortalecimento do Programa de Educação Ambiental
+
+00431 - Contratação de professores e profissionais de educação
+
+00432 - Implementação do Programa de Qualidade de Vida e Saúde no Trabalho
+
+00434 - Acompanhamento do reordenamento das escolas estaduais
+
+00435 - Promoção da reorganização curricular e do Projeto Político-Pedagógico das escolas que se tornarão de Educação Integral em Tempo Integral
+
+00437 - Realização de encontros para articular objetivos e metas instituídos pelos planos estadual e municipal de educação
+
+00441 - Garantia da efetivação do Plano de Cargo e Carreira dos profissionais de educação no que concerne a valorização profissional, inclusive no que se refere à promoção horizontal e vertical destes profissionais 01469 - Incentivo à produção das Mulheres nas atividades de arte, cultura lazer e produção literária
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0107 - Implantar e implementar práticas de Planejamento Estratégico Integrado das ações de gestão e das ações pedagógicas alinhadas a uma política de avaliação institucional no âmbito dos três níveis de gestão do sistema de educação: Secretaria de Educação (SEEC), Diretoria Regional (DIRED) e unidades escolares da rede estadual de ensino, de modo a impactar na melhoria do ensino-aprendizagem.
+
+Órgão: 18000 - Secretaria de Estado da Educação e da Cultura
+
+Meta 0226 - Desenvolver e executar o Planejamento Estratégico Integrado do Órgão Central e 16 DIRED Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 4 Agreste Litoral Sul 1 Trairi 1 Potengi 1 Seridó 2 Alto Oeste 1 Açu/Mossoró 2 Mato Grande 3 Sertão do Apodi 2 Total 17
+
+Meta 0228 - Implantar e implementar Sistema de Avaliação Institucional Integrado na rede estadual de ensino Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0231 - Implantar e implementar Programa de Avaliação da Aprendizagem Escolar na rede estadual de ensino Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0234 - Acompanhar e monitorar o desempenho da rede estadual de ensino nas avaliações educacionais estaduais e nacionais nas 639 escolas Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 157 Sertão Central, Cabugi e Litoral Norte 26 Agreste Litoral Sul 79 Trairi 36 Potengi 14 Seridó 74 Alto Oeste 70 Açu/Mossoró 94 Mato Grande 37 Sertão do Apodi 52 Total 639
+
+Meta 0303 - Implementar Plano de Desenvolvimento da Escola (PDDE Interativo) nas 639 escolas Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 157 Sertão Central, Cabugi e Litoral Norte 26 Agreste Litoral Sul 79 Trairi 36 Potengi 14 Seridó 74 Alto Oeste 70 Açu/Mossoró 94 Mato Grande 37 Sertão do Apodi 52 Total 639
+
+Meta
+
+Demonstrativo de Programas Temáticos PPA 0337 - Implementar Projeto Político Pedagógico nas 639 escolas Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 157 Sertão Central, Cabugi e Litoral Norte 26 Agreste Litoral Sul 79 Trairi 38 Potengi 14 Seridó 74 Alto Oeste 70 Açu/Mossoró 92 Mato Grande 37 Sertão do Apodi 52 Total 639
+
+Meta 0340 - Realizar o Censo Escolar da Educação Básica e Profissional nas 3.776 escolas do Estado Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 852 Sertão Central, Cabugi e Litoral Norte 149 Agreste Litoral Sul 485 Trairi 263 Potengi 130 Seridó 414 Alto Oeste 381 Açu/Mossoró 484 Mato Grande 348 Sertão do Apodi 270 Total 3.776
+
+Iniciativas 00400 - Realização do Censo Escolar na Educação Básica e Profissional
+
+00403 - Implementação do Plano de Desenvolvimento da Escola (PDE Interativo) e Projeto Político Pedagógico
+
+00405 - Implantação e implementação do Sistema de Avaliação Institucional
+
+00407 - Acompanhamento e monitoramento dos resultados das avaliações de aprendizagem
+
+00409 - Realização do Planejamento Estratégico Integrado
+
+Objetivo 0175 - Melhorar o acesso e a qualidade dos serviços da Educação em conformidade com o acordo de empréstimo do Banco Mundial para o Programa RN Sustentável.
+
+Órgão: 19000 - Secretaria de Estado do Planejamento e das Finanças
+
+Meta 0476 - Construir, reformar e/ou equipar unidades de Escolas Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 241 Total 241
+
+Meta 0482 - Alfabetizar jovens e adultos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 7.500 Total 7.500
+
+Meta 0487 - Implementar subprojetos de Práticas de Inovação Pedagógicas - PIP Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1.620 Total 1.620
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 00740 - Melhoria da qualidade da Educação - RN SUSTENTÁVEL
+
+8. EDUCAÇÃO SUPERIOR E TECNOLÓGICA
+
+A Educação é um instrumento imprescindível para a construção, efetivação e divulgação dos Direitos Humanos nos âmbitos da individualidade e da coletividade, presumido que o indivíduo é agente ativo na transformação da sua mentalidade e exerce forte influência no seu grupo.
+
+Desse modo, é preciso desenvolver um trabalho formativo onde os sujeitos despertem para seus direitos, para os direitos do outro e para os direitos da comunidade e com isso possa formar parâmetros para o fortalecimento da consciência universal em Direitos Humanos.
+
+A educação superior e técnica é um dos principais propulsores para o desenvolvimento socioeconômico do país e é um dos pilares para aumentar a competividade. Nos últimos anos, o Brasil apresentou grandes avanços no ensino superior e tecnológico, com aumento do número de Universidade e Institutos de ensino superior e tecnológico, capilarização do ensino para as regiões no interior dos estados, aumento expressivo no número de vagas e democratização do ensino, possibilitando maior acesso às pessoas com menor renda.
+
+Os avanços na educação superior e tecnológica foram resultados de ações do Governo Federal como o Plano de Reestruturação e Expansão da Universidade Federais (REUNI), Programa Universidade para Todos (ProUni) e o Fundo de Financiamento ao Estudante do Ensino Superior (Fies). A reestruturação do Exame Nacional do Ensino Médio (ENEM) melhorou a sinergia entre o ensino médio e o ensino superior público reduzindo a disparidade entre os ensinos públicos e privados de ensino médio.
+
+Em 2013, o Brasil contava com 2.391 instituições e de ensino superior aproximadamente 6 milhões de matrículas, representando um aumento de 58% desde 2003. Do total das instituições no país, 16% estavam no Nordeste, que apresentou aumento de 47% desde 2003. Em relação ao número de matrículas, a região Nordeste dobrou o número desde 2003, totalizando 1,3 milhões de matrículas em 2013, segundo dados do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP).
+
+O Estado avançou significativamente no ensino superior e tecnológico nos últimos anos, com crescimento no número de instituições e de matrículas superiores ao Brasil e à região Nordeste. Em 2013, eram 25 instituições, representando um aumento de 79% desde 2003, e 110 mil matrículas, aumento de 142% desde 2002.
+
+Fonte: Instituto Nacional De Estudos e Pesquisas Educacionais Anísio Teixeira (INEP).
+
+No Rio Grande do Norte, entre as instituições de ensino superior e tecnológico, destacam-se a Universidade Federal do Rio Grande do Norte (UFRN) e a Universidade Federal Rural do Semiárido (UFERSA). As instituições de educação superior que pertencem ao Sistemas Estadual de Ensino, segundo dados do MEC, abrangem 189 cursos em diferentes áreas do conhecimento e estão presentes em 32 municípios do Estado.
+
+O principal desafio do ensino superior e tecnológico torna-se, então, continuar a expansão e primar pela qualidade na formação, para alavancar a competitividade do Estado e auxiliar no desenvolvimento socioeconômico. Para os próximos anos o desafio será promover esse avanço dadas as restrições orçamentárias, em especial do Governo Federal, devido à redução de custos do Ministério da Educação, que impacta diretamente nos cursos de graduação e pós-graduação.
+
+Demonstrativo de Programas Temáticos PPA
+
+0008 - EDUCAÇÃO SUPERIOR E TECNOLÓGICA
+
+Diretriz 02 - INVESTIMENTO NO CAPITAL HUMANO POTIGUAR: EDUCAÇÃO DE QUALIDADE PARA TODOS DE MODO A GARANTIR A CIDADANIA E O ACESSO À OPORTUNIDADES
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0076 - Taxa de cobertura de pessoas com mais de 25 anos com ensino superior. Percentual 30/12/2010 13,47
+
+0077 - IGC – Índice Geral de Cursos Unidade 30/12/2013 3
+
+0078 - Relação (Aluno/Professor) Unidade 30/01/2015 16,9
+
+0079 - Relação Aluno/Sala de Aula Unidade 30/01/2015 52,97
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 1.146.036.000,00 7.483.015,00 1.153.519.015,00
+
+Recurso Federal 2.740.000,00 9.142.300,00 11.882.300,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 0,00 1.309.652,36 1.309.652,36
+
+TOTAL 1.148.776.000,00 17.934.967,36 1.166.710.967,36
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0307 - Fortalecer a política de ensino superior de graduação e pós-graduação, por meio da sua interiorização, do desenvolvimento da pesquisa, da inovação e da internacionalização, da assistência estudantil, da extensão universitária, da avaliação institucional e das ações afirmativas de inclusão, a fim de ampliar o acesso e contribuir com o desenvolvimento socioeconômico do Estado.
+
+Órgão: 18202 - Fundação Universidade do Estado do RN - FUERN
+
+Meta 0908 - Reduzir em até 20% os índices de evasão, retenção e reprovação nos cursos de Graduação da FUERN Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 20 Total 20
+
+Meta 0913 - Alcançar o conceito 4 do Índice Geral de Cursos – IGC/INEP/MEC até 2019 Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0915 - Assegurar os processos de reconhecimento, renovação de reconhecimento de 100% dos cursos e o recredenciamento da UERN junto ao Unidade Medida Percentual CEE/RN
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0936 - Criar 05 cursos de mestrado acadêmico nas diversas áreas de conhecimento, priorizando as temáticas oriundas de demandas regionais Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 3 Terras Potiguaras 2 Total 5
+
+Meta 0938 - Implantar 03 novos cursos de doutorado em programas stricto sensu em fase de consolidação Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 3 Total 3
+
+Meta 0940 - Elevar o conceito de 40% dos programas stricto sensu existentes na UERN, considerando sua sustentabilidade acadêmica Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 40 Total 40
+
+Meta 0942 - Elaborar e aprovar as resoluções que viabilizarão o adequado funcionamento das ofertas em EaD no âmbito da UERN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0943 - Participar de 04 mestrados profissionais em rede Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0944 - Compor 02 redes que implementem mestrados profissionais em áreas estratégicas como saúde, segurança, meio ambiente Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2
+
+Demonstrativo de Programas Temáticos PPA Total 2
+
+Meta 0946 - Criar 4 cursos de capacitação docente - DINTER Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0947 - Criar 3 cursos com programas em residência nas áreas de saúde, direito e computação Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 3 Total 3
+
+Meta 0948 - Ampliar em 25% os projetos institucionalizados de pesquisa científica e tecnológica Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 25 Total 25
+
+Meta 0950 - Ampliar em 30% a produção científica e tecnológica qualificada do corpo docente e discente Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 30 Total 30
+
+Meta 0952 - Ampliar em 20% a quantidade de grupos de pesquisa Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 20 Total 20
+
+Meta 0953 - Ampliar em 15% a quantidade de bolsas de iniciação científica e tecnológica Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 15 Total 15
+
+Meta 0954 - Estruturar a diretoria de apoio à inclusão Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0957 - Estruturar laboratórios e salas de aula para o atendimento especializado aos estudantes com deficiência Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0958 - Implantar o programa de incubação e empreendedorismo Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0964 - Elaborar e normatizar a política de extensão para implementação nos Projetos Pedagógicos dos Cursos (PPC’s) Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1
+
+Demonstrativo de Programas Temáticos PPA Total 1
+
+Meta 0966 - Criar o fundo de internacionalização e de mobilidade acadêmica Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0967 - Criar o Fundo de Apoio ao Desenvolvimento da Extensão – FADE/FUERN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0968 - Institucionalizar o Programa Idioma sem Fronteiras – IsF – na UERN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0977 - Criar o Plano de Apoio a Permanência Estudantil – PAPE Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1223 - Ampliar e fortalecer 100% dos programas de capacitação e consolidação de ações voltadas à saúde e bem estar dos corpos docente e Unidade Medida Percentual técnico-administrativo
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1233 - Ofertar 10 cursos de especialização nas diversas áreas de conhecimento para atender demandas de capacitação profissional Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Meta 1234 - Capacitar em nível de doutorado 100 servidores docentes e técnicos da UERN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1235 - Capacitar em nível de mestrado 40 servidores técnicos da UERN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 40 Total 40
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 00176 - Fortalecimento das ações de assistência estudantil com a construção de residências e restaurantes universitários, centros de convivências entre outros ambientes de apoio aos discentes
+
+00194 - Consolidação da política de desenvolvimento institucional
+
+00196 - Qualificação da gestão acadêmica e administrativa com foco na capacitação dos recursos humanos e na utilização dos sistemas de informação
+
+00197 - Estabelecimento de uma política de comunicação
+
+00204 - Avaliação dos Núcleos Avançados
+
+00206 - Gestão do ensino, pesquisa e extensão, por meio de uma maior articulação das pró-reitorias
+
+00207 - Implantação da ouvidoria da UERN
+
+00208 - Aprovação e implantação do plano de cargos e salários dos servidores técnicos e docentes
+
+00209 - Elaboração e aprovação do novo plano de cargos e salários dos servidores docentes
+
+00259 - Manutenção do Programa Administração Itinerante nos Campi Avançados
+
+00262 - Criação de rede de discussão e atuação em políticas públicas com outras instituições de Ensino Superior
+
+00273 - Ampliação da parceria com FAEF, FACS e FAEN na promoção de Programas e Projetos de qualidade de vida e práticas esportivas no âmbito da instituição
+
+00340 - Realização de concurso público para docentes e técnicos
+
+00349 - Realização de visitas sistemáticas de avaliação dos cursos
+
+00406 - Estímulo da mobilidade nacional e internacional na perspectiva de potencializar a excelência acadêmica
+
+00416 - Implantação de instrumento de acompanhamento do egresso
+
+00423 - Manutenção e aprimoramento do sistema de reserva de vagas para alunos procedentes de escolas públicas e pessoas com deficiência
+
+00428 - Elaboração de índices de evasão, retenção e repetência
+
+00455 - Renovação do credenciamento no Sistema Universidade Aberta do Brasil – UAB
+
+00467 - Interiorização e criação de novos cursos na UERN
+
+00473 - Oferta de recursos humanos e materiais para o atendimento educacional especializado
+
+00489 - Oferta de cursos de formação em educação inclusiva
+
+00516 - Utilização de sistemas de Tecnologia da Informação e da comunicação para o atendimento as pessoas com necessidade especiais
+
+00547 - Coordenação do processo de reconhecimento e renovação dos cursos de graduação
+
+00576 - Estímulo à produção acadêmico-científica dos docentes e discentes dos Programas de Pós-Graduação da UERN
+
+00583 - Estabelecimento de parceiras com instituições e programas de pós-graduação nacionais e internacionais de referência, por meio do Programa de Cooperação Acadêmica (PROCAD)
+
+00601 - Implantação da Pró-Reitoria de Assuntos Estudantis – PRAE
+
+00603 - Criação do Sistema Integrado da Assistência estudantil - SIAE
+
+00605 - Ampliação dos Programas de Apoio ao Estudante, incluindo a consolidação do atendimento psicológico e psicopedagógico e a ampliação da política de apoio à moradia e alimentação
+
+00620 - Direcionamento da política de pesquisa e inovação para o desenvolvimento regional e social do semiárido do Estado do Rio Grande do Norte
+
+00621 - Integração de pesquisa e inovação com o setor produtivo, governo, universidades e escolas de educação básica
+
+00636 - Indução à criação de centros de pesquisa e inovação da UERN
+
+00644 - Consolidação e estruturação do Departamento de Inovação e Empreendedorismo
+
+00646 - Consolidação do Núcleo de Inovação Tecnológica (NIT)
+
+00676 - Consolidação no âmbito das ações extensionistas da Política de Valorização da Diversidade, de Inclusão e Inclusão das Pessoas com Deficiência e da Política de Assistência e Permanência Estudantil da UERN 00677 - Estabelecimento da integralização das ações extensionistas com a Política de Pesquisa e Invocação e a Política de Ensino de Graduação da UERN
+
+00684 - Fomento à participação nos principais eventos de extensão no âmbito local, estadual, nacional e internacional
+
+00687 - Formação do Comitê Executivo do FADEx, para o gerenciamento de recursos
+
+00949 - Fortalecimento das parcerias com órgãos governamentais e não governamentais
+
+00951 - Criação e implantação de novas iniciativas na educação de jovens e adultos, em parceria com a SEEC em todo o Estado
+
+00953 - Formalização de parceria com a SEEC visando à ampliação da oferta de cursos de formação continuada para os professores da rede de ensino estadual em todo o Rio Grande do Norte
+
+01421 - Apoio à implantação de incubadoras voltadas para a economia solidária, agroecologia e de base tecnológica que contemple o potencial de pesquisa e as competências instaladas nos laboratórios da UERN 01431 - Manutenção e ampliação da política institucional de capacitação do pessoal docente e técnico da UERN
+
+01549 - implantação de unidades e extensão em faculdades e campi avançado
+
+01551 - Fomentar ações institucionais no âmbito da UERN voltadas as pautas das ações afirmativas oriundas do movimento estudantil
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0308 - Modernizar as práticas de planejamento e de gestão institucional, através da autonomia de gestão financeira, da adoção de novas tecnologias, da qualificação da estrutura física, do fortalecimento da política de gestão de pessoas e da participação democrática dos segmentos institucionais, prezando pela excelência no serviço prestado, pautado na ética e na valorização dos servidores.
+
+Órgão: 18202 - Fundação Universidade do Estado do RN - FUERN
+
+Meta 0102 - Implantar a autonomia financeira e patrimonial da FUERN até 2017 Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0708 - Realizar concurso público para docentes e técnicos da FUERN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0885 - Implantar na FUERN, até 2016, sistema de gestão para resultados com acompanhamento em plataforma eletrônica Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0888 - Implantar plano de segurança de pessoas e de patrimônio institucional no Campus Central e nos Campi Avançados da UERN até 2017 Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0889 - Implantar sistema eletrônico para gestão de demandas administrativas no âmbito da FUERN até 2017 Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0905 - Institucionalizar 100% das políticas e práticas que favoreçam a sustentabilidade da FUERN Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 00141 - Realização de gestão orçamentária que alinhe equilíbrio fiscal com a execução das ações prioritárias dos Órgãos Administrativos e Unidades Acadêmicas da FUERN
+
+00166 - Aparelhamento das Unidades da Fundação Universidade do Estado do Rio Grande do Norte
+
+00179 - Construção do prédio do campus avançado de Natal
+
+00182 - Promoção e apoio a ocupação de espaços comerciais e de serviços para as áreas de convivência nos campus universitários
+
+00185 - Implementação da gestão de captação e aplicação de recursos
+
+00186 - Fortalecimento das relações institucionais da FUERN com a FUNCITERN e demais fundações e instituições públicas e privadas
+
+00187 - Institucionalização e implantação no âmbito da UERN de modelo de gestão baseado na cultura de planejamento para resultados
+
+00189 - Adoção de sistemas corporativos automatizados para modernizar e promover eficiência aos procedimentos administrativos
+
+00192 - Elaboração do Plano Diretor de Tecnologia da Informação – PDTI – da FUERN
+
+00241 - Implantação de sistema informatizado para gestão de demandas administrativas no âmbito da FUERN
+
+01564 - Ampliação e valorização do quadro de servidores
+
+01565 - Aquisição de material didático, ampliação do acervo e aparelhamento das bibliotecas
+
+01566 - Renovação e ampliação da frota de veículos
+
+01567 - Aparelhamento dos cursos de pós-graduação stricto sensu da FUERN
+
+01568 - Construção do prédio do campus avançado de Apodi
+
+01569 - Construção, adaptação e melhoria da infraestrutura da FUERN
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0058 - Ampliar a qualificação dos profissionais da educação do Estado por meio da melhoria do ensino, pesquisa e extensão, visando a eficiência e também a modernização dos serviços prestados pelo IFESP.
+
+Órgão: 18203 - Instituto de Educação Superior Presidente Kennedy
+
+Meta 0162 - Formar 2.000 professores nos cursos de graduação e pós-graduação Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2.000 Total 2.000
+
+Meta 0163 - Fomentar 80 projetos de pesquisa e extensão implementados pelo IFESP Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 80 Total 80
+
+Meta 0164 - Aparelhar o Núcleo de Educação a Distância do IFESP Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0330 - Modernizar a Biblioteca Profª Crisan Siminéa Percentual Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 100 Total 100
+
+Meta 0332 - Restaurar e conservar o prédio do IFESP Percentual Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 100 Total 100
+
+Meta 0334 - Reaparelhar o IFESP Percentual Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 100 Total 100
+
+Meta 0336 - Ampliar a oferta de cursos no IFESP Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 200 Total 200
+
+Meta 0550 - Construir e implantar o Centro de Documentação e Memória da Escola Normal/Instituto Kennedy Percentual Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 100 Total 100
+
+Meta 0553 - Implantar o Núcleo de EAD com adequação da estrutura física e material para atuação na formação inicial e continuada Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1
+
+Demonstrativo de Programas Temáticos PPA Total 1
+
+Meta 0731 - Garantir a formação continuada dos profissionais da Educação Básica do RN, na modalidade presencial e a distância em parceria com a Unidade Medida Unidade Secretaria Estadual de Educação
+
+Território 2016-2019 Rio Grande do Norte 800 Total 800
+
+Meta 0890 - Interiorizar os cursos ofertados pelo IFESP na modalidade presencial e EAD Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 120 Total 120
+
+Meta 0899 - Formar os professores da Educação Básica da Rede Estadual de Ensino do RN para o conhecimento das Diretrizes Nacionais dos Direitos Unidade Medida Unidade Humanos/2013
+
+Território 2016-2019 Rio Grande do Norte 1.200 Total 1.200
+
+Meta 0902 - Implantar o Programa de Sustentabilidade Ambiental e Qualidade de Vida, atendendo os servidores do IFESP Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 200 Total 200
+
+Iniciativas 00874 - Ampliação e modernização da Biblioteca Prfª Crisan Siminéa
+
+00877 - Reaparelhamento do IFESP para a melhor operacionalização dos seus serviços
+
+00880 - Fortalecimento do processo de acompanhamento e avaliação dos cursos de formação de professores
+
+00882 - Modernização, restauração e conservação do prédio do IFESP
+
+00883 - Ampliação e realização de processo seletivo vestibular
+
+00887 - Construção, implantação e operacionalização do Centro de Documentação e Memória
+
+00893 - Garantia da formação de professores à nível de graduação e pós-graduação
+
+01015 - Elaboração da proposta do anteprojeto de lei que assegure a plena autonomia administrativa, didático-científica, de gestão financeira e patrimonial do Instituto de Educação Superior Presidente Kennedy - IFESP 01020 - Implementação da gestão de captação e aplicação de recursos, de modo a ampliar a receita do IFESP
+
+01021 - Interiorização das ações formativas do IFESP por meio do Núcleo de Educação a Distância
+
+01022 - Formação continuada dos profissionais da Educação Básica do RN e dos servidores do IFESP nas modalidades presencial e a distância
+
+01051 - Realização de aulas de campo interestadual para os cursos de graduação e pós-graduação
+
+01052 - Realização de eventos científicos e culturais
+
+9. LOGÍSTICA E TRANSPORTE
+
+Os modais de transporte são extremamente importantes para a economia do país, pois em condições adequadas, podem reduzir custo do escoamento de produção, contribuindo para aumentar a competitividade regional e do Brasil. Os modais mais importantes são o rodoviário, aeroviário, hidroviário e ferroviário.
+
+Em relação ao modal ferroviário, o Estado do Rio Grande do Norte tem 4.476 Km de extensão pavimentada. A extensão federal é equivalente a 1.396 Km e a estadual é 2.863 Km. Segundo pesquisa realizada pela Confederação Nacional de Transportes (CNT) em 2014, na análise de 1.830 Km de extensão pavimentada, considerando o estado geral da extensão, 39% foram avaliadas como boa, 28% regula. Em relação a qualidade do pavimento, 40% foi avaliado como bom e em relação a sinalização, a maioria, 29%, foi considerada regular.
+
+Fonte: Pesquisa de Rodovias 2014 - Confederação Nacional de Transportes (CNT).
+
+Em relação ao modal aeroviário, o Rio Grande do Norte tem o Aeroporto Internacional Governador Aluízio Alves, em São Gonçalo do Amarante, que foi inaugurado em maio de 2014 e substituiu o Aeroporto Augusto Severo. Este aeroporto é o primeiro no Brasil administrado 100% pela iniciativa privada, o Consórcio Inframerica. Com capacidade para 6 milhões de passageiros/ano, o aeroporto possui 42 mil m² e terá, ao longo dos 28 anos de concessão, um investimento total de R$ 650 milhões, chegando a uma capacidade de 11 milhões de passageiros por ano, demanda esperada até 2038. Em julho de 2015, o aeroporto teve 2.131 voos
+
+domésticos e 33 internacionais, 248.570 passageiros e 981.350 kg de carga aérea, sendo um importante modal de transporte no Estado.
+
+No que tange ao sistema portuário, o Rio Grande do Norte possui dois portos. O Porto de Natal foi construído em 1932 e se destaca na exportação de frutas, que representa 30% da movimentação do terminal e recebe com regularidade navios para exportação de açúcar e importação de trigo. Atualmente, o porto tem linha direta para a Europa, com paradas nos portos de Vigo, na Espanha, Sheerness, na Inglaterra, e Roterdan, na Holanda.
+
+O segundo porto é o Terminal Salineiro de Areia Branca, também conhecido como Porto-Ilha, responsável pelo escoamento de todo o sal produzido do Estado. O porto foi inaugurado em 1974 e fica localizado a 14 km da costa de Areia Branca, a 330 km de Natal. Entre 2009 e 2012, o Governo Federal investiu R$ 278 milhões no Terminal Salineiro de Areia Branca, com recursos foram provenientes do Programa de Aceleração do Crescimento (PAC). Entre janeiro e junho de 2015, o porto movimentou 864.490 toneladas de sal. Os portos são administrados pela Companhia Docas do Rio Grande do Norte - CODERN, empresa de economia mista.
+
+Em relação ao modal ferroviário, a Região Metropolitana de Natal conta com 56 km de linhas de transporte ferroviário urbano operadas pela Companhia Brasileira de Trens Urbanos – CBTU. Alguns trechos estão sendo adaptados para a utilização de veículos leves sobre trilhos – VLT, que já foram adquiridos com empresas que fabricam em território nacional.
+
+A malha ferroviária que cobre o restante do Estado é administrada, desde 1998, pela Companhia Ferroviária do Nordeste – CFN, hoje denominada Transnordestina Logística S/A, que é controlada pelo grupo Companhia Siderúrgica Nacional – CSN.
+
+Há três trechos principais de linhas de ferro no Estado, hoje desativados: (1) Macau - Ceará Mirim; (2) Parnamirim - Nova Cruz, que liga o Porto de Natal ao sudeste potiguar e permite acesso à Paraíba, fazendo a conexão com a Nova Transnordestina, que ainda está em construção e ligará o porto de Pecém, no Ceará, ao porto de Suape, em Pernambuco; (3) Mossoró – Alexandria, que cruza todo o oeste do Estado, alcançando a Paraíba.
+
+As cargas pesadas, como os minérios, entre outros produtos, vêm ganhando cada vez mais relevância na produção potiguar. Os investimentos para melhoria e desenvolvimento do modal de transporte no Rio Grande do Norte são essenciais para a logística e para as exportações, e extremamente importantes para aumentar a competitividade e auxiliar no desenvolvimento econômico do Estado.
+
+Demonstrativo de Programas Temáticos PPA
+
+0009 - LOGÍSTICA E TRANSPORTE
+
+Diretriz 03 - INVESTIMENTO EM INFRAESTRUTURA A FIM DE PROPORCIONAR OS MEIOS PARA O AVANÇO DA ECONOMIA DO RN
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0105 - Proporção de rodovias pavimentadas em relação ao total Percentual 30/01/2013 16,40
+
+0106 - Número de habitantes por ônibus Unidade 30/01/2013 337
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 0,00 80.043.000,00 80.043.000,00
+
+Recurso Federal 0,00 64.911.000,00 64.911.000,00
+
+Operações de Crédito 0,00 597.992.000,00 597.992.000,00
+
+Outros 4.626.000,00 640.000,00 5.266.000,00
+
+TOTAL 4.626.000,00 743.586.000,00 748.212.000,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0095 - Investir em mobilidade urbana e ações de logística para promover o desenvolvimento econômico, através de execução de obras de mobilidade e de infraestrutura para o avanço das políticas executadas pela Secretaria de Infraestrutura do Estado.
+
+Órgão: 25000 - Secretaria de Estado da Infraestrutura
+
+Meta 0235 - Construir terceira ponte sobre o Rio Potengi Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0239 - Concluir Obras do Pro-Transporte Quilômetro Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 14 Total 14
+
+Meta 0240 - Reestruturar as obras de mobilidade na Avenida Engenheiro Roberto Freire Metro Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 4.100 Total 4.100
+
+Meta 0241 - Implantar uma nova via de escoamento da produção industrial denominada Via Norte/Sul Metro Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 12.700 Total 12.700
+
+Meta 0243 - Elaborar e implantar o plano metropolitano de mobilidade urbana de Natal Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0244 - Concluir obras do contorno de Mossoró Unidade Unidade Medida
+
+Território 2016-2019 Açu/Mossoró 1 Total 1
+
+Meta 0247 - Implantar 10 km de ciclovia na capital do Estado Quilômetro Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 10 Total 10
+
+Meta 0249 - Conclur as obras sobre a ponte do rio Jacú Unidade Unidade Medida
+
+Território 2016-2019 Trairi 1 Total 1
+
+Meta 1309 - Elaborar o projeto da terceira ponte sobre o rio Potengi Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1
+
+Demonstrativo de Programas Temáticos PPA Total 1
+
+Iniciativas 00383 - Conclusão da reforma do prédio da SIN.
+
+00384 - Modernização da Secretaria de Infraestrutura.
+
+00385 - Aquisição de software de orçamento e gestão integrada.
+
+00386 - Elaboração de Estudos de viabilidade técnica, econômica, ambiental e de projetos.
+
+00387 - Construção de Pontes.
+
+00388 - Execução de obras de mobilidade.
+
+Objetivo 0051 - Melhorar as condições de trafegabilidade através da execução de obras de construção, restauração e conservação das rodovias do Estado, oferecendo condições de locomoção mais seguras e eficientes, e contribuindo para uma melhor integração das regiões.
+
+Órgão: 25201 - Departamento de Estradas de Rodagem
+
+Meta 0726 - Construir 173 km de Trechos Rodoviários Quilômetro Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 20 Terras Potiguaras 32 Agreste Litoral Sul 20 Potengi 30 Seridó 43 Alto Oeste 13 Açu/Mossoró 5 Mato Grande 10 Total 173
+
+Meta 0742 - Restaurar 704 km de Trechos Rodoviários Quilômetro Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 20 Terras Potiguaras 8 Sertão Central, Cabugi e Litoral Norte 15 Agreste Litoral Sul 125 Trairi 45 Potengi 40 Seridó 176 Alto Oeste 43 Açu/Mossoró 127 Mato Grande 28 Sertão do Apodi 77 Total 704
+
+Meta 0746 - Conservar 3.000 km de Rodovias Quilômetro Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 3.000 Total 3.000
+
+Iniciativas 01023 - Construção e ampliação de trechos rodoviários.
+
+01024 - Restauração e adequações de trechos rodoviários.
+
+01025 - Realização da manutenção/ano da malha viária, incluídos os serviços de sinalização rodoviária.
+
+01026 - Adequação de capacidade de 50 km de rodovia/ano
+
+01027 - Atualização periódica do Sistema Rodoviário Estadual
+
+01028 - Identificação dos eixos estruturantes mediante programa estadual de contagem de tráfego
+
+01029 - Definição de prioridades para as intervenções de adequação de capacidade, restauração e duplicação
+
+01030 - Elaboração de estudos de viabilidade e projetos executivos das obras viárias
+
+01031 - Fiscalização e acompanhamento das obras viárias em execução
+
+01032 - Articulação para realizar parceria com o Governo Federal para Duplicação da BR-304 e BR-406
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0053 - Melhorar a infraestrutura de apoio ao STIP–Sistema de Transporte Intermunicipal de Passageiros, e propor alternativas operacionais ao seu funcionamento, oferecendo aos usuários do transporte coletivo melhores condições de fluxo e de segurança.
+
+Órgão: 25201 - Departamento de Estradas de Rodagem
+
+Meta 0601 - Construir 02 terminais rodoviários de passageiros Unidade Unidade Medida
+
+Território 2016-2019 Sertão Central, Cabugi e Litoral Norte 1 Agreste Litoral Sul 1 Total 2
+
+Meta 0608 - Reformar 05 terminais rodoviários de passageiros Unidade Unidade Medida
+
+Território 2016-2019 Trairi 1 Seridó 2 Alto Oeste 1 Mato Grande 1 Total 5
+
+Meta 0616 - Modernizar 04 terminais rodoviários de passageiros Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Iniciativas 00921 - Concessão de linhas intermunicipais para todo o Estado do RN
+
+00922 - Solicitar autorização para realização de concurso público.
+
+00923 - Construção e reforma de terminais rodoviários de passageiros
+
+00924 - Elaborar estudos e projetos executivos das obras selecionadas.
+
+00925 - Modernizarr terminais rodoviários de passageiros.
+
+00926 - Criar gerencia para os 18 (dezoito) terminais rodoviários atualmente existentes.
+
+00927 - Buscar parcerias com as Prefeituras Municipais visando firmar convênios para administrar e manter os terminais rodoviários.
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0054 - Dotar o Estado de uma melhor infraestrutura aeroportuária, com a reforma e modernização dos aeroportos e aeródromos existentes, buscando promover o aumento do fluxo de passageiros, e consequentemente, o desenvolvimento econômico e turístico da região.
+
+Órgão: 25201 - Departamento de Estradas de Rodagem
+
+Meta 0635 - Reformar de 01 aeroporto Unidade Unidade Medida
+
+Território 2016-2019 Açu/Mossoró 1 Total 1
+
+Meta 0638 - Modernizar 04 aeroportos e aeródromos em operação Unidade Unidade Medida
+
+Território 2016-2019 Seridó 2 Alto Oeste 1 Açu/Mossoró 1 Total 4
+
+Meta 1285 - Elaborar plano para reestruturação dos 04 aeródromos de Assu, Jardim do Seridó, Martins e Jardim de Angicos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 00931 - Reforma e modernização os aeroportos e aeródromos do RN
+
+00932 - Implantar as exigências da ANAC - Agência Nacional de Aviação Civil.
+
+00933 - Elaborar estudos e projetos para aeroportos.
+
+00934 - Criação de gerência para os 04 aeroportos e aeródromos atualmente em operação, que são: o Aeroporto de Mossoró e os Aeródromos de Currais Novos, Caicó e Pau dos Ferros.
+
+00936 - Estabelecimento de parcerias com as Prefeituras Municipais visando firmar convênios para administrar e manter os aeroportos e aeródromos
+
+01331 - Viabilização de conexões de rotas aéreas regionais
+
+Objetivo 0056 - Modernizar e informatizar os diversos setores do DER/RN com reestruturação operacional visando uma melhor automatização de seus serviços,bem como, promover a capacitação dos funcionários buscando um desenvolvimento mais eficiente das atividades exercidas.
+
+Órgão: 25201 - Departamento de Estradas de Rodagem
+
+Meta 0687 - Adquirir equipamentos e materiais permanentes visando equipar os diversos setores do DER/RN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 60 Total 60
+
+Meta 0689 - Modernizar do Departamento de Estradas de Rodagem do RN - DER/RN através do desenvolvimento dos recursos tecnológicos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0693 - Capacitar os funcionários do DER/RN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 00993 - Aquisição de equipamentos e materiais permanentes.
+
+00994 - Aquisição de programas e softwares
+
+00995 - Realização de cursos de qualificação profissional.
+
+00996 - Elaboração de proposta para criação de uma Diretoria de Planejamento no DER
+
+00997 - Elaboração de proposta para criação de um Departamento de Transporte Intermunicipal
+
+00999 - Estabelecimento de gestão por competência
+
+10. CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+
+A ciência, tecnologia e inovação são propulsores para o desenvolvimento econômico de um país, promovem ganhos de produtividade e eficiência e abrangem diferentes áreas do conhecimento como aeroespacial, agropecuária, biotecnologia, defesa, energia, fármacos e saúde, nanotecnologia, nuclear, petróleo e gás, tecnologia da informação e comunicação, áreas relacionadas a recursos naturais e meio ambiente e desenvolvimento social.
+
+A região Nordeste teve avanços significativos nos indicadores socioeconômicos nos últimos anos e uma nova etapa de desenvolvimento abrange maior participação local em ciência, tecnologia e inovação. Nesse cenário, faz-se necessário a consolidação de uma sólida base de conhecimentos, que esteja ancorada numa infraestrutura de ciência e tecnologia orientada pelo estímulo à aprendizagem, direcionada ao atendimento das necessidades da região e para geração de valor dos recursos naturais locais.
+
+O Rio Grande do Norte apresentou avanços em ciência, tecnologia e inovação nos últimos anos. O número de doutores no Estado aumentou 586% entre 2000 e 2010, segundo dados do CNPq, sendo, em 2010, 53 doutores por mil habitantes, o segundo maior do Nordeste.
+
+Fonte: CNPq/AEI.
+
+Além do relevante número de doutores, o Rio Grande do Norte tem importantes entidade na área de ciência, tecnologia e inovação. Entre os destaques estão os institutos nacionais de ciência e tecnologia (INCT) de Comunicações Sem Fio, INCT Estudos Espaciais e o INCT Interface Cérebro-Máquina, que tem destaque nacional e internacional na área de neuroengenharia.
+
+Mesmo com os avanços, o Estado precisa ir além. Frente ao cenário restritivo na econômica brasileiro no curto e médio prazo, a ciência, tecnologia e inovação são fundamentais para
+
+desenvolver e aproveitar as oportunidades que surgirão na crise e auxiliar no desenvolvimento do Rio Grande do Norte, contribuindo também para o desenvolvimento do Brasil.
+
+Demonstrativo de Programas Temáticos PPA
+
+0010 - DESENVOLVIMENTO ENERGÉTICO E MINERAL
+
+Diretriz 03 - INVESTIMENTO EM INFRAESTRUTURA A FIM DE PROPORCIONAR OS MEIOS PARA O AVANÇO DA ECONOMIA DO RN
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0005 - Extensão de rede de gasodutos construída Quilômetro 30/06/2015 357
+
+0006 - Volume de gás natural comercializado Metro Cúbico 30/06/2015 297,092mil
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 1.864.000,00 0,00 1.864.000,00
+
+Recurso Federal 440.000,00 44.000,00 484.000,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 273.000,00 28.000.990,00 28.273.990,00
+
+TOTAL 2.577.000,00 28.044.990,00 30.621.990,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0087 - Estabelecer as bases de uma politíca energética para o Estado do Rio Grande do Norte através da realização de ações, em particular com relação às energias alternativas e renováveis (eólica e solar), visando o entendimento da situação da política de desenvolvimento energético.
+
+Órgão: 20000 - Secretaria de Estado do Desenvolvimento Econômico
+
+Meta 0217 - Elaborar e atualizar o Atlas de energia eólica e solar Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 8 Total 8
+
+Iniciativas 00281 - Elaboração do Atlas de energia eólica e solar
+
+Objetivo 0126 - Estabelecer políticas e ações para o desenvolvimento geológico e mineral do Rio Grande do Norte por meio da elaboração de diagnósticos, visando um melhor entendimento da situação do Estado.
+
+Órgão: 20000 - Secretaria de Estado do Desenvolvimento Econômico
+
+Meta 0286 - Realizar diagnostico do Setor Mineral do RN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0297 - Atualizar o Mapa Geológico do Estado do RN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0585 - Fortalecer o núcleo de artesanato mineral Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 00338 - Elaboração de diagnóstico do Setor Mineral
+
+00350 - Elaboração de Mapa Geológico
+
+00895 - Apoio à cadeia produtiva mineral
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0024 - Construir, manter, melhorar e expandir a rede de gasodutos de gás natural com segurança para atendimento às demandas da população.
+
+Órgão: 20202 - Companhia Potiguar de Gás
+
+Meta 0052 - Construir novos gasodutos Quilômetro Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 69 Açu/Mossoró 10 Total 79
+
+Meta 0053 - Interligar novos clientes dos segmentos veicular, industrial residencial e comercial Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 12.213 Açu/Mossoró 2.000 Total 14.213
+
+Iniciativas 01520 - Execução do gasoduto
+
+01521 - Execução das interligações dos clientes
+
+Objetivo 0180 - Garantir à população a prestação de serviços de qualidade por meio do controle, regulação e fiscalização dos serviços de distribuição de energia elétrica, eólica, gas canalizado e água pelas concessionárias, permissionárias e autorizadas, com foco nas Normas Legais vigentes, e por meio da readequação das instalações e do pessoal da ARSEP, visando à oferta apropriada desses serviços.
+
+Órgão: 25204 - Agência Reguladora de Serviços Públicos
+
+Meta 0572 - Realizar fiscalizações técnicas, comerciais e financeiras na COSERN e em parques eólicos previstos nos contratos de metas vigentes durante o Unidade Medida Unidade período de 2016 a 2019
+
+Território 2016-2019 Terras Potiguaras 32 Sertão Central, Cabugi e Litoral Norte 32 Agreste Litoral Sul 32 Trairi 32 Seridó 32 Açu/Mossoró 32 Mato Grande 32 Total 224
+
+Meta 0696 - Atender os Municipios do RN no que se refere à regulação, fiscalização e distribuição de água Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 127 Total 127
+
+Meta 1305 - Realizar estudos sobre tarifas de gás canalizado aplicadas aos consumidores Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 16 Total 16
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 01509 - Aquisição de materiais para subsidiar as atividades de fiscalização
+
+01510 - Melhoria das instalações físicas da ARSEP
+
+01511 - Capacitação e aperfeiçoamento dos técnicos da ARSEP
+
+01512 - Realização de estudos para a melhoria dos serviços prestados à população
+
+Objetivo 0306 - Orientar a população quanto ao consumo sustentável de energia elétrica, eólica e de água por meio de campanhas educativas visando à maior conscientização quanto ao uso adequado desses serviços.
+
+Órgão: 25204 - Agência Reguladora de Serviços Públicos
+
+Meta 1306 - Realizar campanhas educativas Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 8 Total 8
+
+Iniciativas 01513 - Realização de campanhas educativas
+
+11. DESENVOLVIMENTO ENERGÉTICO E MINERAL
+
+A matriz energética brasileira é predominantemente por geração hidráulica, que foi responsável por 60% da oferta interna de energia elétrica em 2014, segundo dados do Ministério de Minas e Energia. Outras fontes energéticas vêm ganhando destaque no Brasil como a eólica que apresentou aumento na oferta interna de 85,6% entre 2013 e 2014.
+
+O Rio Grande do Norte possui a maior matriz eólica do país, sendo responsável por 30% do total gerado, e tem a maior capacidade instalada, segundo a Aneel. Atualmente o Estado é autossuficiente na produção de energia limpa e conta com 70 parques eólicos em operação e 31 em construção.
+
+A indústria de Petróleo brasileira enfrenta uma séria de dificuldades, com a crise na Petrobrás, problemas de corrupção e queda no preço da commodity. Em face a esse cenário, espera-se desinvestimentos no setor. AS dificuldades já foram sentidas no Rio Grande do Norte, que apresentou queda de 13% na produção de petróleo e gás natural no primeiro trimestre de 2015. O Estado é o quarto maior produtor de barris de petróleo do Brasil e tem potencial de crescimento.
+
+Fonte: Anuário Estatístico. ANP (2014).
+
+O setor de mineração também está passando por momentos de dificuldades. Segundo o Instituto Brasileiro de Mineração, o minério de ferro corresponde por 75% da produção mineral brasileira, excluindo petróleo e gás, e apresentou queda de 50% do preço no último, sendo o principal motivo o aumento da oferta mundial devido à elevação do estoque chinês. Em volume, a produção de bens minerais no Brasil aumentou em 2014, e a expectativa é que isso se mantenha ao longo de 2015. O Rio Grande do Norte tem grande potencial de exploração mineral: alguns destaques são o cimento, scheelita e o calcário.
+
+O Rio Grande do Norte, apesar do alto potencial de exploração mineral e energético, enfrenta barreiras como a falta de infraestrutura para escoamento da produção e liberação de licenças ambientais para instalação das empresas, o que dificulta o crescimento.
+
+O desenvolvimento energético e mineral no Estado tem grandes desafios a serem superados nos próximos anos, pois as dificuldades conjunturais dos setores terão como consequências demissões de trabalhadores, impactos em toda cadeia produtiva e redução da arrecadação de alguns municípios e estados.
+
+Demonstrativo de Programas Temáticos PPA
+
+0011 - CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+
+Diretriz 04 - INVESTIMENTO EM CIÊNCIA, TECNOLOGIA E INOVAÇÃO PARA CONSOLIDAR O DESENVOLVIMENTO DO ESTADO NO LONGO PRAZO
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0107 - Gastos Estaduais com Ciência e Tecnologia Reais 30/01/2013 152,7
+
+0108 - Número de patentes Unidade 30/01/2012 36
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 8.889.400,00 23.049.600,00 31.939.000,00
+
+Recurso Federal 3.519.600,00 3.852.400,00 7.372.000,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 7.418.000,00 0,00 7.418.000,00
+
+TOTAL 19.827.000,00 26.902.000,00 46.729.000,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0247 - Atender demandas da agropecuária, aquicultura, meteorologia e meio ambiente, por meio de pesquisas em CT e da produção de insumos agropecuários voltados aos produtores rurais, visando à inovação nos processos, produtos e sistemas de produção agropecuários e aquícolas, a transferência de conhecimento e tecnologias, assim com a redução de impactos climatológicos e melhoria do meio ambiente.
+
+Órgão: 17203 - Empresa de Pesquisa Agropecuária
+
+Meta 0033 - Produzir mudas de bananeira, cajueiro e coco nas estações experimentais da EMPARN Tonelada Unidade Medida
+
+Território 2016-2019 Açu/Mossoró 1.070 Sertão do Apodi 180 Total 1.250
+
+Meta 0128 - Produzir 1.250 toneladas de sementes certificadas de feijão, sorgo e milho nas estações experimentais da EMPARN Tonelada Unidade Medida
+
+Território 2016-2019 Açu/Mossoró 1.070 Sertão do Apodi 180 Total 1.250
+
+Meta 0160 - Produzir 800.000 pintos de um dia de galinha caipira Unidade Unidade Medida
+
+Território 2016-2019 Seridó 800.000 Total 800.000
+
+Meta 0161 - Efetuar 22.000 análise de água, solo, planta, calcário e bacteriológica Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 22.000 Total 22.000
+
+Meta 0168 - Disponibilizar aos produtores rurais rebanho bovino, ovinos e caprinos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4.000 Total 4.000
+
+Meta 0644 - Produzir sementes de caju e de coco e de outros produtos para disponibilizar aos produtores rurais Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 270.000 Total 270.000
+
+Meta 0668 - Promover e participar de eventos e feiras agropecuárias Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 188 Terras Potiguaras 2 Sertão Central, Cabugi e Litoral Norte 4 Seridó 3 Vale do Assu 3 Total 200
+
+Meta 0711 - Desenvolver pesquisas com sementes, plantas frutiferas e plantas forrageiras Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 16 Total 16
+
+Demonstrativo de Programas Temáticos PPA Meta 0718 - Desenvolver pesquisas com camarão, peixes e algas Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0732 - Desenvolver pesquisas em meteorologia e meio ambiente Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 8 Total 8
+
+Meta 0739 - Desenvolver pesquisas voltadas à pecuária Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 16 Total 16
+
+Iniciativas 00228 - Produção de mudas
+
+00229 - Produção de pintos de galinha caipira
+
+00230 - Análises laboratoriais
+
+00232 - Manutenção de rebanhos bovinos, ovinos e caprinos
+
+00943 - Produção de sementes
+
+00971 - Participação e promoção de eventos e atividades agropecuarias
+
+01014 - Desenvolver projetos e pesquisas voltados à friticultura
+
+01016 - Desenvolver projetos e pesquisas voltados à aquicultura
+
+01034 - Desenvolver projetos e pesquisas em meteorologia e meio ambiente
+
+01040 - Desenvolver projetos e pesquisas em pecuária
+
+Objetivo 0173 - Promover o conhecimento em ciência e tecnologia para o crescimento e desenvolvimento do Rio Grande do Norte por meio do Parque Tecnológico.
+
+Órgão: 20000 - Secretaria de Estado do Desenvolvimento Econômico
+
+Meta 0456 - Construir o Parque Tecnológico e seus núcleos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Iniciativas 00727 - Construção do Parque Tecnológico
+
+Objetivo 0263 - Institucionalizar uma política pública para o RN por meio do apoio à diferentes instituições de ensino, pesquisa e fomento, visando à contribuição e o melhor aproveitamento das competências e capacidades técnicas existentes.
+
+Órgão: 20000 - Secretaria de Estado do Desenvolvimento Econômico
+
+Meta 0851 - Fortalecer o Fórum das APLs Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 01190 - Apoio às APLs no RN
+
+Objetivo 0200 - Apoiar e fomentar os programas ou os projetos de pesquisa realizados em instituições públicas ou privadas; a criação, a complementação e a modernização da infra-estrutura necessária ao desenvolvimento científico e tecnológico; a concessão de bolsas de estudos e de pesquisa no País e no exterior; transmissão de informações, vinculados ao desenvolvimento do conhecimento
+
+Órgão: 20207 - Fundação de Apoio à Pesquisa do Rio Grande do Norte
+
+Meta 1340 - Intensificar e reforçar a Rede Estadual de banda larga e a conexão/expansão das cidades digitais (Programas Estaduais para Cidades Digitais, Unidade Medida Percentual Telecentros, etc.), nos territótios
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1341 - Elaborar o plano de implementação do parque tecnológico do RN Percentual Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 100 Total 100
+
+Meta 1342 - Fomentar a criação de novos produtos e serviços no RN Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1344 - Apoiar novas empresas, gerando pelo menos 10% de postos de trabalho nas atividades apoiadas, contribuindo com a ampliação da arrecadação de Unidade Medida Percentual impostos proporcional empregabilidade
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1346 - Prospectar parcerias nacionais e internacionais, com intuito de promover a transferência de conhecimento e implementação de inovação no RN Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1347 - Organizar e implementar mecanismos de difusão das ações de Ciência, Tecnologia e Inovação no RN Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1351 - Implementar programas de pesquisas, em parcerias com Instituições de Ensino Superior, para desenvolvimento regional do Estado Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 00900 - Realização de eventos científicos e da Semana Nacional de Ciência e Tecnologia no RN
+
+00902 - Realização de treinamentos e capacitação aos colaboradores e servidores da FAPERN
+
+00904 - Fomento a criação e desenvolvimento de empresas startup e incubadoras
+
+00905 - Realização de ações de CTI para o desenvolvimento das empresas
+
+00908 - Realização de ações de CTI para desenvolvimento social, mobilidade urbana, segurança e saúde
+
+00910 - Modernização, aparelhamento e automação da FAPERN através da aquisição de equipamentos e softwares
+
+00914 - Realização do programa de apoio a eventos, equipamentos e divulgação científica
+
+00917 - Realização do projeto de implantação do parque tecnológico no RN
+
+00918 - Apoio a programas de formação científica P&D
+
+00919 - Implantação da Estação Ciência
+
+00920 - Operacionalização de centros tecnológicos
+
+00928 - Criação de núcleo de inovação tecnológica de energias renováveis
+
+00929 - Implantação e implementação do programa de incentivo a patentes
+
+00930 - Implementação de rede estadual de banda larga - InfoVias
+
+Objetivo 0089 - Dotar o Estado de novas alternativas para o suprimento de demanda hídrica por meio de novas tecnologias de forma a diminuir o deficit hídrico
+
+Órgão: 27000 - Sec de Estado do Meio Ambiente e dos Recursos Hídricos
+
+Meta 0207 - Desenvolver estudos para análise da viabilidade da utilização da água do mar e de águas servidas, bem como de energias renováveis (eólicas) Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Iniciativas 00847 - Estudos de Alternativas de Dessalinização da Água do Mar
+
+00848 - Estudo de Alternativa de Energias Renováveis para Pequenos Sistemas de Abastecimento
+
+00849 - Reuso de Água
+
+12. DESENVOLVIMENTO SUSTENTÁVEL DA AGROPECUÁRIA
+
+A globalização dos mercados impõe mais pressão para que a produção agropecuária seja cada vez mais sustentável. O desafio é aumentar a eficiência produtiva e econômica e minimizar os impactos ambientais. O Ministério da agricultura tem estimulado boas práticas agropecuárias privilegiando aspectos sociais, econômicos, culturais, bióticos e ambientais, com sistemas de produção integrada, de plantio direto, agricultura orgânica, integração lavoura-pecuária- floresta plantada, conservação do solo e recuperação de áreas degradadas.
+
+No Brasil, entre 2002 e 2012, a agropecuária teve redução na participação no Valor Adicionado Bruto (VAB) de 2 p.p. Acompanhando o movimento nacional, a região Nordeste apresentou queda de 3 p.p. e o Rio Grande do Norte apresentou queda de 4 p.p., com participação de 3% no VAB em 2012, bem abaixo das médias do Brasil e do Nordeste. Apesar da baixa participação econômica da Agropecuária no Rio Grande do Norte, o setor tem grande importância para o desenvolvimento de algumas regiões do Estado, contribuindo para a erradicação da pobreza.
+
+Fonte: Instituto Brasileiro de Geografia e Estatística (IBGE) - Contas Regionais.
+
+O Estado tem como característica as lavouras temporárias, que segundo o IBGE, são culturas de longo ciclo vegetativo, que permitem colheitas sucessivas, sem necessidade de novo plantio. Esse tipo de cultura, como cana-de-açúcar, melão, mandioca e abacaxi, representou 76% do valor da produção em 2010. Entre as lavouras permanentes destacam-se a castanha de caju, o coco-da-baía e o mamão.
+
+Na pecuária e outros produtos de origem animal destacam-se a pecuária leiteira, produção e venda de ovos de galinha, produção de mel de abelha e rebanhos como bovino, caprino, ovino e galináceos.
+
+O Rio Grande do Norte tem predomínio de agricultura familiar e grande parte do seu território fica na região semiárida, com situações climáticas desfavoráveis para as atividades agropecuárias. Algumas ações já estão sendo realizadas para apoiar o desenvolvimento desse setor no Estado de forma mais sustentável, como a liberação para os agricultores familiares venderem os produtos em todo país apenas com a certificação dos serviços sanitários estaduais, sem a necessidade do selo de Serviço de Inspeção Federal (SIF); estímulo para implantação do Plano de Agricultura de Baixo Carbono (ABC); e o Programa Territórios da Cidadania (PTC), que busca promover e acelerar a superação da pobreza e das desigualdades sociais no meio rural, por meio de estratégia de desenvolvimento territorial sustentável e com participação
+
+Demonstrativo de Programas Temáticos PPA
+
+0012 - DESENVOLVIMENTO SUSTENTÁVEL DA AGROPECUÁRIA
+
+Diretriz 05 - INVESTIMENTO EM EFICIÊNCIA NO APOIO E INCENTIVO AO DESENVOLVIMENTO ECONÔMICO DO ESTADO E AO EMPREENDEDORISMO
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0062 - Custo do plano safra da Agricultura Familiar Reais 30/06/2014 75
+
+0063 - Rendimento médio mensal do agricultor familiar Reais 07/06/2012 348,76
+
+0064 - Produção da agricultura familiar Reais 31/12/2006 54.367.000,00
+
+0065 - Infraestrutura irrigada Percentual 30/12/2010 51,00
+
+0067 - Área degradada recuperada Hectare 01/01/2011 0,00
+
+0068 - Área plantada Hectare 31/10/2010 47.415.700,00
+
+0070 - Evolução da produção de carnes Percentual 30/06/2010 2,83
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 34.808.712,00 16.672.968,00 51.481.680,00
+
+Recurso Federal 21.577.980,00 55.535.300,00 77.113.280,00
+
+Operações de Crédito 0,00 856.560,00 856.560,00
+
+Outros 4.260.480,00 803.680,00 5.064.160,00
+
+TOTAL 60.647.172,00 73.868.508,00 134.515.680,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0152 - Modernizar a gestão institucional da Secretaria da Agricultura, da Pecuária e da Pesca, visando alcançar agilidade e qualidade na formulação e execução de políticas públicas e no provimento de serviços no setor agropecuário com transparência e eficiência, em benefício da sociedade norteriograndese.
+
+Órgão: 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0675 - Contratar 160 técnicos de nível superior da área finalística e de Tecnologia da Informação Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 160 Total 160
+
+Meta 0681 - Implantar Sistema de Informação Integrado por meio de Difusão Tecnológica para qualificar os serviços de sanidade, pesquisa e extensão Unidade Medida Unidade Agropecuária
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0684 - Implantar no site da Secretaria módulo informativo das ações desenvolvidas da Agropecuária e da Agricultura Familiar Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0685 - Implantar pesquisa de satisfação no site da Secretaria ao público beneficiário da agropecuária e da agricultura familiar sobre os serviços Unidade Medida Unidade prestados pela SAPE e vinculadas
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0766 - Obter mão de obra de 56 bolsistas universitários cursando nível superior de áreas finalísticas da Agropecuária e de Tecnologia da Informação. Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 56 Total 56
+
+Meta 0767 - Implantar no site da Secretaria pesquisa do índice e satisfação dos servidores da SAPE e Vinculadas Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Iniciativas 01210 - Realização de ações de modernização para a melhoria da eficiência dos serviços prestados pela Secretaria.
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0153 - Promover e fortalecer a pesquisa, o desenvolvimento tecnológico e inovação voltados para a agricultura irrigada e de sequeiro e a sua difusão visando o incremento nos ganhos em produtividade, com qualidade e redução dos custos de produção, protegendo o uso e a qualidade do solo, em parceria com entes públicos.
+
+Órgão: 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0768 - Constituir redes de pesquisas e transferência de tecnologia em agricultura irrigada: fruticultura, salinidade e drenagem, produção de grãos, arroz Unidade Medida Unidade irrigado por inundação e hortaliças
+
+Território 2016-2019 Terras Potiguaras 3 Total 3
+
+Meta 0769 - Implantar e operacionalizar projetos demonstrativos em irrigação e drenagem em parceria com entes públicos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0770 - Desenvolver ações de capacitação e atualização tecnológica em seminários voltado para o aprimoramento do processo produtivo beneficiando os Unidade Medida Unidade produtores da cadeia produtiva da fruticultura
+
+Território 2016-2019 Rio Grande do Norte 16 Total 16
+
+Meta 0771 - Contratar estudos incrementais sobre diferentes temas associados ao desenvolvimento dos cultivos irrigados, métodos e sistemas de irrigação e Unidade Medida Unidade drenagem
+
+Território 2016-2019 Rio Grande do Norte 5 Total 5
+
+Iniciativas 01215 - Realização de estudos e pesquisas direcionadas a redução das perdas de água em sistemas irrigados e a otimização de sua aplicação na agricultura irrigada, com vistas ao aumento de sua eficiência. 01216 - Apoio à incorporação de novas culturas irrigadas, como pastagem, principalmente para pequenos e médios produtores de leite
+
+01218 - Fortalecimento das instituições estaduais de pesquisa, assistência técnica e extensão rural em agricultura irrigada
+
+01219 - Utilizar o Centro Vocacional da Fruticultura, sediado no Centro Regional da Agricultura, em Mossoró, que possui toda uma infraestrutura para o pleno funcionamento e desenvolvimento das ações de capacitações voltadas aos produtores da cadeia produtiva da fruticultura. 01220 - Promoção de programas de difusão e transferência tecnológica e ampla divulgação dos benefícios da irrigação, com destaque para os métodos adequados aos ganhos de produtividade e qualidade, em veículos e linguagem acessíveis ao produtor.
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0154 - Incentivar o desenvolvimento da agricultura orgânica e de outros sistemas sustentáveis, de forma a agregar valores ambientais, sociais e econômicos aos sistemas produtivos, melhorando a sua eficiência, a qualidade e competitividade dos produtos e a equidade na distribuição dos benefícios e renda.
+
+Órgão: 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0772 - Apoiar projetos de pesquisa, desenvolvimento e difusão de tecnologias apropriadas aos sistemas orgânicos de produção Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Meta 0773 - Apoiar às culturas geradoras de Bioenergia, como as culturas do gerasol, mamona, cana de açucar, etc Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 7 Total 7
+
+Meta 0774 - Capacitar técnicos e produtores em bem-estar animal, produção integrada agropecuária de qualidade e segurança na cadeia produtiva Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 76 Total 76
+
+Meta 0776 - Criar a infraestrutura de bancos comunitários de sementes e mudas de espécies florestais nativas e aquelas utilizadas como adubos verdes Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Meta 0782 - Capacitar produtores e técnicos do setor em tecnologias apropriadas aos sistemas orgânicos e/ou mecanismos de controle da qualidade orgânica Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 47 Total 47
+
+Iniciativas 01221 - Promoção do desenvolvimento da agricultura orgânica pelo aumento do acesso às tecnologias apropriadas e pela ampliação dos mercados de produtos orgânicos por meio de eventos e campanhas pela Internet, de conscientização voltados a esclarecer a sociedade sobre a importância da produção e do consumo sustentável e responsável. 01222 - Proposição e aprovação de normas sobre produção agropecuária sustentável, fortalecendo o desenvolvimento de energia renovável produzida a partir de materiais derivados de fontes limpas como as culturas do: Girasol, Mamona, Castanhas, Cana-de-açucar, etc 01224 - Apoiar a formação de bancos comunitários de mudas de espécies florestais nativas e aquelas utilizadas como adubos verdes, na busca de incentivo a recomposição natural de áreas desmatadas.
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0155 - Desenvolver e fortalecer o associativismo e o cooperativismo por meio da promoção, implantação e modernização da infraestrutura de apoio à produção, incluindo medidas estruturantes de aperfeiçoamento dos serviços concernentes ao desenvolvimento agropecuário, visando agregar valor ao produto com à redução de custos e perdas.
+
+Órgão: 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0783 - Implementar infraestrutura territorial de equipamentos por meio da aquisição de máquinas e implementos agrícolas, mediante parcerias com Unidade Medida Unidade entes federados
+
+Território 2016-2019 Rio Grande do Norte 12 Total 12
+
+Meta 0784 - Promover a comercialização de produtos e serviços da economia solidária por meio do acesso às compras governamentais Quilômetro Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 94 Total 94
+
+Meta 0785 - Implantar projetos de desenvolvimento e inclusão social em associações rurais e cooperativas, apoiando organização social e produtiva para Unidade Medida Unidade acesso aos mercados e aumento da renda
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Iniciativas 01227 - Apoio a projetos e estudos que visem o desenvolvimento do setor agropecuário, como a redução do custo logístico da movimentação de produtos destinados ao abastecimento.
+
+01229 - Promoção da comercialização de produtos e serviços da economia solidária por meio do acesso às compras governamentais, do fortalecimento de feiras, espaços fixos e bases de serviço de apoio à comercialização e da certificação de produtos e serviços com garantia de origem social e ambiental 01230 - Incentivar o desenvolvimento de modelos inovadores sustentáveis de cooperativas e de associações, principalmente as de pequenos produtores agropecuários
+
+Objetivo 0217 - Ampliar e qualificar sistemas de produção de base ecológica e orgânica da Agricultura Familiar e de Povos e Comunidades Tradicionais de modo a ofertar à sociedade produtos diversificados, diferenciados e sem contaminantes, gerando renda às famílias e melhorando a qualidade de vida e da alimentação.
+
+Órgão: 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0787 - Proporcionar o atendimento a famílias com acesso a mercados e instrumentos de fomento para sistemas de produção de base ecológica e Unidade Medida Unidade orgânica
+
+Território 2016-2019 Rio Grande do Norte 36 Total 36
+
+Meta 0788 - Aumentar a participação dos produtos orgânicos e de base ecológica no mercado Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 26 Total 26
+
+Iniciativas 01233 - Articulação de redes de pesquisa, desenvolvimento, transferência de tecnologias e experiências locais, em sistemas de produção de base ecológica, adequadas à realidade da agricultura familiar. 01235 - Apoio e fomento a processos de transição agroecológica; a experiências de produção e redes de promoção da agroecologia e da agricultura orgânica e a circuitos locais de comercialização, de economia solidária, do mercado justo e da rede de segurança alimentar 01237 - Implementação de estratégias e ações visando à ampliação da participação da produção orgânica e de base ecológica da agricultura familiar nos mercados institucionais e diferenciados
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0218 - Apoiar o desenvolvimento da cadeia produtiva da pecuária por meio de novas tecnologias, na busca por melhoramento genético dos rebanhos e eficiência produtiva, agregando valor aos produtos ofertados com sustentabilidade e mitigação dos possíveis riscos ambientais.
+
+Órgão: 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0789 - Adquirir e distribuir kits de inseminação artificial Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 30 Total 30
+
+Meta 0790 - Elaborar estudos em tecnologia adaptadas para convivência dos rebanhos com o semiárido do RN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 5 Total 5
+
+Meta 0792 - Capacitar técnicos e produtores em bem-estar animal, produção integrada da pecuária de qualidade e segurança dos derivados Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 20 Total 20
+
+Meta 0793 - Disseminar estudos e conhecimentos aos produtores dos territórios, visando controlar e solucionar os problemas de ordem produtiva, sanitária e Unidade Medida Unidade alimentar com ênfase na sustentabilidade ambiental
+
+Território 2016-2019 Rio Grande do Norte 17 Total 17
+
+Meta 0795 - Implementar Laboratório Móvel de Sanidade e Reprodução Animal. Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 01239 - Apoio à promoção das feiras voltadas para a comercialização de animais com genética superior e incentivar a melhoria da qualidade dos rebanhos por meio de planos de manejo animal.
+
+01240 - Contribuir com a divulgação dos programas junto aos produtores, durante os eventos agropecuários, socializando o desenvolvimento de melhores práticas na pecuária visando diminuir os impactos sobre as áreas florestais, revertendo a degradação ambiental, na busca de melhoria das relações sociais e aumento da qualidade produtiva e renda. 01241 - Promover a melhoria do manejo no processo de abate dos animais, com base nas leis e diretrizes nacionais e internacionais de bem-estar animal, considerando ainda, o plano de manejo do alojamento das matrizes, com foco na melhoria da qualidade e eficiência produtiva. 01243 - Contribuir para o fortalecimento da cadeia produtiva da bovinocultura, caprinocultura, ovinocultura, suinocultura, apicultura, avecultura e equideocultura, estabelecendo um elo comercial integrado entre produtores fornecedores e compradores de animais geneticamente superiores, como também assistir outras espécies de animais da pecuária.
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0219 - Qualificar os instrumentos de financiamento, fomento, proteção da produção, garantia de preços e da renda como estratégia de inclusão produtiva e ampliação da renda da agricultura familiar, com a geração de alimentos, bioenergia, produtos e serviços que possibilite a sustentabilidade ambiental nos territórios.
+
+Órgão: 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0799 - Proporcionar a aquisição e distribuição de mudas de espécies frutíferas e nativas florestais Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 35.000 Total 35.000
+
+Meta 0801 - Apoiar estudos de criação e ampliação das agroindústrias familiares das comunidades rural e sua manutenção, respeitando a dinâmica cultural e Unidade Medida Unidade divisão do trabalho de cada povo
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0803 - Adquirir e distribuir sementes de qualidade de feijão, milho e arroz para subsistência e de sorgo para forragem animal, a 35mil agricultores Unidade Medida Tonelada familiares cadastrados nos 1.156 Bancos de Sementes
+
+Território 2016-2019 Rio Grande do Norte 2.000 Total 2.000
+
+Meta 0805 - Promover as conferências estaduais das políticas públicas territorial no Conselho Estadual de Desenvolvimento Rural Sustentável (CEDRUS) Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 7 Total 7
+
+Meta 0808 - Proporcionar infraestrutura territorial de comercialização dos produtos da Agricultura Familiar Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Meta 0812 - Garantir a cota de R$ 102,00 na participação do Estado no fundo garantia-safra em favor de 65mil beneficiários do programa Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 65.000 Total 65.000
+
+Meta 1352 - Adquirir equipamentos, máquinas e implementos agrícolas para recomposição da infraestrutura produtiva dos territórios. Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 27 Total 27
+
+Iniciativas 01244 - Melhoria da infraestrutura viária municipal e territorial para escoamento da produção e incremento da produtividade por meio da aquisição de máquinas e implementos agrícolas, como também promover a reestruturação das unidades de assistência técnica e extensão rural com a recomposição de equipamentos que potencialize a qualidade dos serviços prestados pelo extensionista. 01245 - Aperfeiçoamento dos mecanismos de desenvolvimento e apoio à comercialização, da fixação de preços mínimos e divulgação de análises sobre infraestrutura e logística de escoamento da produção e fomento da agropecuária e agroindustria 01246 - Manter a infraestrutura e o estoque de bancos comunitários de sementes em 137 municípios com ênfase na aquisição de variedades adaptadas para o semiárido e com o acompanhamento dos pesquisadores da EMPARN/EMBRAPA 01247 - Auxílio à execução das conferências estaduais que tratam das políticas públicas relacionadas com o desenvolvimento rural sustentável dos territórios, por meio do CEDRUS criado pelo decreto nº 15.931 de 07/03/2002 01249 - Apoio logístico da armazenagem de sementes e comercialização dos produtos produzidos na base da Agricultura Familiar
+
+01252 - Assistência financeira na implementação do fundo Garantia-Safra para a participação de famílias da agricultura familiar em situação de vulnerabilidade climática influenciada diretamente pela perda da produção, conforme Lei nº 10.420, de 10/04/2002. 01398 - Recomposição da vegetação natural em função da necessidade de proteger o solo e ampliar a cobertura das áreas já degradadas pelo desenvolvimento urbano ou rural.
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0221 - Implementar e monitorar as ações do Plano de Desenvolvimento da Agricultura de Baixa Emissão de Carbono (ABC), visando a mitigação dos gases de efeito estufa e adaptação aos efeitos diretos e indiretos das mudanças climáticas, de forma a aumentar a resiliência e eficiência das unidades e dos sistemas produtivos agropecuários (Decreto nº 7390/2010, Art. 6º, § 1º).
+
+Órgão: 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0814 - Divulgar a Agricultura de Baixa Emissão de Carbono - Plano ABC, por meio da realização de campanhas publicitárias Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 7 Total 7
+
+Meta 0815 - Capacitar técnicos e produtores rurais, por meio de cursos, oficinas e seminários, em práticas e sistemas conservacionistas de produção Unidade Medida Unidade agropecuária sustentável, conforme previsto no Plano ABC
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0816 - Mapear as áreas prioritárias para implantação de sistemas produtivos sustentáveis, conforme previsto no Plano ABC Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Meta 0817 - Implantar e reativar viveiros de mudas de espécies florestais nativas e exóticas, visando atender às demandas do Plano ABC Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 6 Total 6
+
+Iniciativas 01253 - Realização de ações para implementação e divulgação do plano estadual de Agricultura de Baixa Emissão de Carbono
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0222 - Fortalecer a infraestrutura e os serviços de apoio ao desenvolvimento do meio rural, através de um conjunto de ações implementadas em parceria com entes públicos e privados, visando ao desenvolvimento das atividades da agropecuária.
+
+Órgão: 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0818 - Proporcionar a realização e participação de 56 eventos/feiras agropecuários no Estado do Rio Grande do Norte, no período do PPA Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 56 Total 56
+
+Meta 0820 - Construir barragem para captação de água Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 17 Total 17
+
+Meta 0822 - Projetar, construir e recuperar cisternas de placas para armazenamento de água nas comunidades rurais Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 50 Total 50
+
+Meta 0823 - Construir Redes de Energia Elétrica de comunidades e propriedades rurais Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 20 Total 20
+
+Meta 0824 - Prover a Perfuração, Instalação e Manutenção de poços para provimento de água de consumo animal e produção de alimentos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 37 Total 37
+
+Iniciativas 01258 - Realização de parcerias com o setor público e privado em benefício da realização de feiras e eventos, contribuindo com o fomento dos negócios agropecuários no Estado do Rio Grande do Norte.
+
+01260 - Construção de barragem para Captação de Água para o consumo animal
+
+01261 - Construção de barragem subterrâneas para Captação de Água para produção agrícola
+
+01262 - Instalação de Cisternas de Placas para Armazenamento de Água para o consumo animal
+
+01263 - Viabilização da projeção e execução da construção de redes de energia elétrica de comunidades e propriedades rurais
+
+01264 - Disponibilização do abastecimento de água para a produção animal e da pequena irrigação, por meio da perfuração, instalação, recuperação e limpeza de poços tubulares;
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0223 - Assegurar a proteção da agropecuária rural, tornando-a estável com a implementação de infraestrutura hídrica em regiões atingidas pela seca, emergencialmente em propriedades de agricultura familiar, a fim de reduzir o êxodo rural, constituindo-se, inclusive, em dotação específica para transferência de recursos a instituições privadas sem fins lucrativos.
+
+Órgão: 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0826 - Instalar poços perfurados e não instalados e dessalinizadores em comunidades rurais em emergência de abastecimento de água Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 72 Total 72
+
+Meta 0829 - Adquirir e distribuir forragem/volumosos/leguminosas para consumo animal, em situação emergencial por estiagem prolongada Tonelada Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 7 Total 7
+
+Iniciativas 01265 - Desenvolvimento de ações estratégicas para o enfrentamento de períodos de longa estiagem, garantindo as condições mínimas que assegure a sobrevivência do homem em condições de produzir economicamente no semiárido do RN.
+
+Objetivo 0224 - Aumentar a produção de organismos aquáticos de forma sustentável, através da implantação de parques aquícolas, da regularização fundiária e ambiental, da realização de pesquisas e assistência técnica e da modernização de infraestruturas produtivas, com foco no potencial aquícola do Rio Grande do Norte
+
+Órgão: 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0830 - Atender à demanda de famílias pela extensão pesqueira e aquícola Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2.000 Total 2.000
+
+Meta 0831 - Implantar Estações de Piscicultura Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Meta 0832 - Qualificar técnicos extensionistas em pesca e aquicultura Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 12 Total 12
+
+Meta 0833 - Implantar e Operacionalizar Escritório Local de Assistência Técnica e Extensão Pesqueira Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Meta 0835 - Implantar projetos e manter unidades demonstrativas de aquicultura adequando a infraestrutura de viveiros em tanques redes, tanques escavados Unidade Medida Unidade e canais de irrigação para atender às famílias.
+
+Território 2016-2019 Rio Grande do Norte 15 Total 15
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 01266 - Implementação da assistência técnica e extensão pesqueira e aquícola aos produtores
+
+01267 - Implantação ou modernização de unidades produtoras de peixes em formas jovens para fomento à aquicultura e para repovoamento de corpos d’água
+
+01268 - Desenvolvimento de projetos de pesquisa científica e formação de recursos humanos para o setor pesqueiro e aquícola em parceria com universidades públicas ou privadas
+
+01269 - Aprimoramento dos instrumentos de crédito e viabilização do acesso pelos pescadores e aquicultores com apoio na elaboração de planos de crédito do PRONAF
+
+01270 - Regularização ambiental da aquicultura em articulação com municípios, na busca de viabilizar projetos de produção sustentável de viveiros, tanques redes e escavados que ofereçam condições da geração de emprego e renda local
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0225 - Implementar infraestruturas de recepção, distribuição e comercialização do pescado, para promover a agregação de valor e a qualidade dos produtos aquícolas e pesqueiros, visando o desenvolvimento da piscicultura e aquicultura do Rio Grande do Norte.
+
+Órgão: 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0854 - Produzir 26 milhões de alevinos para Aquicultura e peixamento de açudes Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 10.000.000 Total 10.000.000
+
+Meta 0855 - Atender aos territórios com equipamentos para desenvolvimento da infraestrutura e logística produtiva do pescado Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Meta 0857 - Recuperar núcleos pesqueiros de Baia Formosa, Maxaranguape, Caiçara do Norte, Macau, São Rafael e Jucurutu Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 3 Total 3
+
+Meta 0858 - Realizar estudos de viabilidade dos polos atuneiros de Baia Formosa e Areia Branca Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 7 Total 7
+
+Meta 0859 - Adquirir e instalar equipamentos de apoio à conservação do pescado em Colônias Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 26 Total 26
+
+Meta 0861 - Apoiar a Implantação dos equipamentos do laboratório de histamina da UFRN Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0862 - Implantar seis parques ou faixas aquicolas nos reservatórios de domínio do Estado do RN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 6 Total 6
+
+Meta 0864 - Concluir e adequar o terminal pesqueiro público de Natal Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 01271 - Disponibilização de veículo apropriado para o transporte dos alevinos com acompanhamento de técnico, proporcionando o desenvolvimento do pescado no RN.
+
+01273 - Promover a gestão participativa das infraestruturas públicas da cadeia produtiva pesqueira de forma sustentável com ações de defesa e repovoamento dos açudes
+
+01274 - Instalação de Atracadouros nos Açudes (Apodi, Upanema, São Paulo do Potengi, Lucrécia, Parelhas, Macaiba, Poço Branco e Caico) e estuário marítimo (Baia Formosa), proporcionando melhoria das condições de embarque e desembarque e demais controles 01275 - Disponibilização de infraestrutura de armazenagem e comercialização da pesca artesanal
+
+01276 - Conhecer a capacidade de suporte da pesca de atum nestes polos
+
+01277 - Disponibilização de equipamentos, implantação, reforma e adequações de infraestrutura e logística produtiva garantindo a melhoria das condições de higiene na recepção, beneficiamento, estocagem, conservação, distribuição e comercialização do pescado nas comunidades 01278 - Operacionalização Participativa do Laboratório de Histamina (Convênio Estado e UFRN).
+
+01279 - Ordenar e fisclizar as Atividades de Pesca nos Reservatórios e Domínio do Estado buscando aumentar a produtividade de cultivo
+
+01280 - Implantação de Terminais Pesqueiros Públicos
+
+Objetivo 0226 - Promover a inclusão social, o acesso à cidadania e qualificação profissional por meio de cursos profissionalizantes e qualificações, com vistas à melhoria da qualidade de vida dos trabalhadores e trabalhadoras da pesca e aquicultura.
+
+Órgão: 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0865 - Qualificar 870 pescadores nas praticas de uso do GPS, cortes de velas e manutenção de pequenos motores marítimos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 870 Total 870
+
+Meta 0867 - Desenvolver projetos de reordenamento dos polos de produção com assessoria para inserção do pescado no mercado institucional Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 150 Total 150
+
+Iniciativas 01281 - Realização de campanhas e treinamentos em parceria com outros órgãos para regularização dos agentes de distribuição e comercialização
+
+01282 - Aumento da participação do pescado no mercado institucional, com foco no incentivo do consumo de pescado na alimentação escolar
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0139 - Fortalecer a agricultura familiar por meio de ações de Assistência Técnica e Extensão Rural pública continuada, para agricultores e agricultoras e jovens agricultores, utilizando metodologia participativa e valorizando o conhecimento territorial para ampliar a geração de oportunidades e garantia de renda e diversificação da produção agrícola e não agrícola com base nos princípios da agroecologia.
+
+Órgão: 17202 - Instituto de Assistência Técnica e Extensão Rural
+
+Meta 0452 - Prestar serviços de Assistência Técnica e Extensão Rural - ATER aos agricultores familiares capacitando e organizando-os em suas cadeias de Unidade Medida Unidade produção agropecuária
+
+Território 2016-2019 Terras Potiguaras 487 Sertão Central, Cabugi e Litoral Norte 1.322 Agreste Litoral Sul 2.370 Trairi 3.496 Potengi 2.872 Seridó 6.023 Alto Oeste 6.142 Açu/Mossoró 5.021 Mato Grande 5.380 Sertão do Apodi 4.939 Total 38.052
+
+Meta 1148 - Prestar serviços de Assistência Técnica e Extensão Rural - ATER aos jovens agricultores familiares capacitando e organizando-os em suas Unidade Medida Unidade cadeias de produção agropecuária
+
+Território 2016-2019 Terras Potiguaras 243 Sertão Central, Cabugi e Litoral Norte 660 Agreste Litoral Sul 1.186 Trairi 1.748 Potengi 1.435 Seridó 3.012 Alto Oeste 3.072 Açu/Mossoró 2.511 Mato Grande 2.691 Sertão do Apodi 2.471 Total 19.029
+
+Meta 1149 - Prestar serviços de Assistência Técnica e Extensão Rural - ATER as agricultoras familiares capacitando e organizando-as em suas cadeias de Unidade Medida Unidade produção agropecuária
+
+Território 2016-2019 Terras Potiguaras 487 Sertão Central, Cabugi e Litoral Norte 1.322 Agreste Litoral Sul 2.370 Trairi 3.496 Potengi 2.872 Seridó 6.023 Alto Oeste 6.142 Açu/Mossoró 5.021 Mato Grande 5.380 Sertão do Apodi 4.939 Total 38.052
+
+Meta 1150 - Adequar e equipar escritórios municipais de Assistência Técnica e Extensão Rural - ATER para atendimento ao produtor rural Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 116 Total 116
+
+Meta 1151 - Capacitar servidores em atividade na instituição Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 472 Total 472
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 01100 - Fortalecimento das ações de assistência técnica e extensão rural com uma gestão voltada para o desenvolvimento territorial sustentável
+
+01101 - Ampliação e adequação do patrimônio de bens móveis e imóveis da Instituição e avaliação as atividades e impactos dos serviços de Assistência Técnica e Extensão Rural - ATER
+
+01107 - Promoção e valorização do conhecimento, através capacitação continuada dos servidores, pesquisas de campo e consultoria para melhoira dos serviços de Assistência Técnica e Extensão Rural - ATER
+
+Objetivo 0015 - Estruturar as instalações físicas da EMPARN e supri-la de meios de transporte, equipamentos e máquinas, visando adequar sua estrutura ao desenvolvimento das atividades de pesquisas, produção e prestação de serviços.
+
+Órgão: 17203 - Empresa de Pesquisa Agropecuária
+
+Meta 0034 - Beneficiar 8 estacoes experimentais da EMPARN com estrutura predial, de maquinas e equipamentos; implantar e acompanhar 50 unidades de Unidade Medida Tonelada palma, sendo 22 produtivas, 12 vinculadas ao IDIARN e 16 multiplicadoras de sementes
+
+Território 2016-2019 Açu/Mossoró 875 Sertão do Apodi 375 Total 1.250
+
+Iniciativas 00723 - Beneficiamento e estruturação de estações experimentais da EMPARN
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0005 - Promover o abastecimento de hortifrutigranjeiros e outros produtos, ofertando aos usuários infraestrutura e serviços de qualidade, visando contribuir com a sociedade potiguar no desenvolvimento agrícola, na integração produtor-consumidor e na segurança alimentar.
+
+Órgão: 17205 - Central de Abastecimento
+
+Meta 0014 - Atingir o Índice de Satisfação Anual - ISA de 80% entre os permissionários, clientes e servidores, com relação ao atendimento em infraestrutura e Unidade Medida Percentual serviços
+
+Território 2016-2019 Rio Grande do Norte 80 Total 80
+
+Meta 0035 - Operacionalizar o funcionamento da Central de Comercialização da Agricultura Familiar, viabilizando a transição para a auto-gestão da AF até Unidade Medida Unidade 2018
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0036 - Manter imagem positiva da CEASA nas coberturas midiáticas Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 70 Total 70
+
+Meta 0050 - Construir e operacionalizar novas Ceasas em Caicó e Mossoró Unidade Unidade Medida
+
+Território 2016-2019 Seridó 1 Açu/Mossoró 1 Total 2
+
+Meta 0051 - Realizar o controle e monitoramento dos agrotóxicos nos hortifruti comercializados na CEASA Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 192 Total 192
+
+Meta 0072 - Implantar o Banco de Caixas na CEASA Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Iniciativas 00072 - Restauração, reforma e adequação da infraestrutura da CEASA/RN
+
+00073 - Construção de edifício garagem na área da CEASA
+
+00074 - Ampliação, valorização e capacitação dos Servidores e Parceiros
+
+00075 - Construção de novas CEASAS
+
+00076 - Elaboração e implementação do Plano de Gerenciamento de Resíduos Sólidos da CEASA
+
+00078 - Reaparelhamento e modernização da CEASA
+
+00094 - Promoção da imagem pública da CEASA
+
+00095 - Promoção de ações de qualidade de vida e meio ambiente
+
+00872 - Elaboração e sistematização de informações estratégicas fundamentadas na realização de estudos e pesquisas
+
+00903 - Operacionalização e o funcionamento da Central de Comercialização da Agricultura Familiar, viabilizando a transição para a auto-gestão da AF até 2018
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0206 - Executar e manter a defesa e inspeção agropecuária mediante ações inerentes à sanidade vegetal e animal, assegurando a oferta de produtos de qualidade, contribuindo para a preservação da saúde pública, do meio ambiente e o aumento da competitividade dos produtos de origem animal e vegetal do Estado do RN.
+
+Órgão: 17206 - Instituto de Defesa e Inspeção Agropecuária do Estado do RN
+
+Meta 0648 - Reestruturar as instalações físicas do Instituto, das ULSAVS e das barreiras fitossanitárias Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 8 Sertão Central, Cabugi e Litoral Norte 4 Agreste Litoral Sul 4 Trairi 4 Potengi 4 Seridó 8 Alto Oeste 4 Açu/Mossoró 8 Mato Grande 4 Sertão do Apodi 4 Total 52
+
+Meta 0653 - Promover cursos de educação sanitária Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 96 Sertão Central, Cabugi e Litoral Norte 48 Agreste Litoral Sul 48 Trairi 48 Potengi 48 Seridó 96 Alto Oeste 48 Açu/Mossoró 96 Mato Grande 48 Sertão do Apodi 48 Total 624
+
+Meta 0665 - Realizar visitas de fiscalização para a prevenção, controle e erradicação das doenças dos animais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 920 Sertão Central, Cabugi e Litoral Norte 960 Agreste Litoral Sul 960 Trairi 960 Potengi 960 Seridó 1.920 Alto Oeste 960 Açu/Mossoró 1.920 Mato Grande 960 Sertão do Apodi 960 Total 11.480
+
+Meta 0670 - Realizar visitas de fiscalização para a prevenção, controle e erradicação das doenças dos vegetais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1.920 Sertão Central, Cabugi e Litoral Norte 960 Agreste Litoral Sul 960 Trairi 960 Potengi 960 Seridó 1.920 Alto Oeste 960 Açu/Mossoró 1.920 Mato Grande 960 Sertão do Apodi 960
+
+Demonstrativo de Programas Temáticos PPA Total 12.480
+
+Meta 0680 - Fiscalizar e registrar estabelecimentos que comercializam produtos de origem animal e vegetal Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 320 Sertão Central, Cabugi e Litoral Norte 160 Agreste Litoral Sul 160 Trairi 160 Potengi 120 Seridó 320 Alto Oeste 160 Açu/Mossoró 320 Mato Grande 160 Sertão do Apodi 160 Total 2.040
+
+Meta 0688 - Realizar cadastro de propriedades rurais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 2.000 Sertão Central, Cabugi e Litoral Norte 1.000 Agreste Litoral Sul 1.000 Trairi 1.000 Potengi 1.000 Seridó 2.000 Alto Oeste 1.000 Açu/Mossoró 2.000 Mato Grande 1.000 Sertão do Apodi 1.000 Total 13.000
+
+Meta 0694 - Realizar fiscalização para defesa agropecuária Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 6.000 Sertão Central, Cabugi e Litoral Norte 3.000 Agreste Litoral Sul 3.000 Trairi 3.000 Potengi 3.000 Seridó 6.000 Alto Oeste 2.750 Açu/Mossoró 6.000 Mato Grande 3.000 Sertão do Apodi 3.000 Total 38.750
+
+Iniciativas 01104 - Melhoria das instalações físicas do IDIARN, das ULSAVS e das barreiras fitossanitárias com aquisição de equipamento de informática e contratação de internet de alta velocidade
+
+01111 - Realização de educação sanitária em saúde animal e vegetal (dia de campo, palestras, mini cursos), formação de multiplicadores e confecção de material informativo
+
+01120 - Realização de vigilância em propriedades consideradas de maior risco sanitário; atendimento a focos ou suspeita de doença dos animais; e controle populacional de morcegos hematófagos
+
+01121 - Apoio para a realização de exames laboratoriais para a sanidade animal e vegetal
+
+01125 - Vigilância em áreas que apresentem risco fitossanitário, detectando pragas quarentenárias e também fiscalizando trânsito de vegetais
+
+01138 - Fiscalização da classificação dos produtos vegetais no campo, na indústria e no comércio
+
+01141 - Fiscalização em estabelecimentos industriais e comerciais de produtos de origem animal
+
+01145 - Realização de cadastro de propriedades e/ou produtores rurais e/ou atualizar o cadastro existente
+
+01147 - Realização de fiscalização em eventos agropecuários
+
+01148 - Realização de fiscalização: dos insumos utilizados na agropecuária, incluindo comercio, transporte, armazenamento e logística reversa dos envases dos agrotóxicos; da emissão de CFO; e da vacinação obrigatória dos animais
+
+13. APOIO AO DESENVOLVIMENTO ECONÔMICO INDUSTRIAL
+
+O cenário macroeconômico atual do país não é favorável. Em 2015 a economia brasileira segue em perspectiva negativa, com queda acentuada do Produto Interno Bruto (PIB) e o desemprego em alta. O Fundo Monetário Internacional (FMI), em julho de 2015, projeta queda do PIB de 1,5% em 2015 e recuperação lenta a partir de 2016, estimada em 0,7%. Além do PIB, outros indicadores financeiros também mostram as dificuldades atuais e futura do Brasil, como a inflação, estimada para 9,32% (acima do teto da meta do governo), de acordo com o boletim Focus do Banco Central; taxa Selic em 14,25%; produção industrial com retração de 5%; taxa de desemprego de 8,1%, segundo o IBGE.
+
+Parte desse impacto é resultado da queda da atividade industrial no país em decorrência da crise econômica; principalmente da alta da inflação, aumento exponencial da cotação do dólar (impactando o preço de insumos importados), crise hídrica, aumento das tarifas/preços de insumos básicos (como energia, água, gás e combustíveis), aumentos sucessivos do Salário Mínimo, aumento da taxa básica de juros, restrições ao crédito, dentre outros. De fato, a Conferência Nacional das Indústrias (CNI) já revisou as estimativas de retração do PIB da indústria em 3,8%, maior que o divulgado no relatório trimestral Informe Conjuntural de abril. A sondagem realizada pelo CNI no final de junho de 2015 mostra nova queda no índice de evolução da produção, bem como nos índices de evolução de empregos e de intenção de investimento, e aumento nos índices de ociosidade da capacidade produtiva e de evolução de estoques; além de ressaltar o pessimismo sobre a melhora da situação da indústria no curto prazo.
+
+Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), a produção industrial nacional recuou 1,2% em abril ante março deste ano, e 7,6% em relação a abril de 2014; representando um recuo de 6,3% no acumulado até abril em comparação com mesmo período de 2014, e no acumulado de 12 meses, 4,8% - resultado negativo mais intenso desde dezembro de 2009. O IBGE também destaca que a taxa de desemprego subiu nos três primeiros meses deste ano e chegou a 7,9%, equivalente a 7,934 milhões de pessoas; sendo a região Nordeste com a maior taxa desocupação do país, 9,6%.
+
+Portanto, o desafio mais importante do país é recuperar o crescimento econômico sem prejuízo dos salários e da inclusão social; o que passa pelos investimentos, especialmente os articulados pelo setor público, como na infraestrutura e programas de incentivo. Os estados da federação que seguiram tal caminho, demonstraram crescimento ou queda menor em seus respectivos índices.
+
+No Rio Grande do Norte o impacto também é evidente, com declínio no número de indústrias em atividade, volume de investimento e empregos gerados, tendo apresentado a pior performance nacional na taxa de desemprego em atividades formais e informais no primeiro trimestre do ano, correspondendo a 11,5% (ante 7,9% nacional e 9,6% do Nordeste), segundo IBGE; refletindo em renda per capita e níveis de pobreza abaixo da média nacional. O saldo (admitidos – demitidos) de emprego na Indústria no primeiro semestre de 2015 no Estado foi negativo em todos os meses.
+
+Fonte: CAGED/Ministério do Trabalho e Emprego.
+
+Devido a retração no ritmo da concessão de benefícios financeiros nos últimos anos (apenas 8 novas concessões e 3 prorrogações de janeiro de 2011 a novembro de 2014), industriais locais migraram para estados vizinhos que ofertaram melhores incentivos e novas industrias se instalaram em Pernambuco, Paraíba e Ceará; estados que demonstraram crescimento bastante superior ao Rio Grande do Norte.
+
+Portanto, para um Rio Grande do Norte mais próspero faz-se necessário e urgente criar um ambiente favorável para todas as empresas que queiram investir e expandir no Estado e de fomento à atuação empresarial local, almejando o crescimento do número de indústrias instaladas e em funcionamento no Estado, ampliação da capacidade produtiva total, elevação no volume de investimentos aplicados e na geração de emprego e renda, fomentando toda a economia local.
+
+Demonstrativo de Programas Temáticos PPA
+
+0013 - APOIO AO DESENVOLVIMENTO ECONÔMICO INDUSTRIAL
+
+Diretriz 05 - INVESTIMENTO EM EFICIÊNCIA NO APOIO E INCENTIVO AO DESENVOLVIMENTO ECONÔMICO DO ESTADO E AO EMPREENDEDORISMO
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0081 - Volume de Incentivo ao Desenvolvimento Industrial Reais 30/07/2015 27.048.338,00
+
+0082 - Número de empresas beneficiadas com programas de incentivo industrial Unidade 30/07/2015 84
+
+0083 - Empregos formais gerados por beneficiadas com programas de incentivo industrial Unidade 30/07/2015 24.455
+
+0084 - Áreas Industriais Ativas Unidade 30/07/2015 5
+
+0085 - Empregos Gerados em Áreas Industriais Unidade 30/07/2015 15.000
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 272.000,00 1.184.452.000,00 1.184.724.000,00
+
+Recurso Federal 0,00 2.572.000,00 2.572.000,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 0,00 0,00 0,00
+
+TOTAL 272.000,00 1.187.024.000,00 1.187.296.000,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0203 - Incentivar a manutenção e expansão de empresas existentes no Estado, bem como atrair novos investimentos e ampliar a geração de empregos, por meio da expansão de programas específicos de incentivo ao desenvolvimento industrial e esforços contínuos de divulgação e publicidade sobre os potenciais e diferenciais de nossa economia.
+
+Órgão: 20000 - Secretaria de Estado do Desenvolvimento Econômico
+
+Meta 0603 - Ampliar a geração de empregos por meio de empresas beneficiárias do PROADI Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 600 Total 600
+
+Meta 0662 - Ampliar a geração de empregos por meio de empresas beneficiárias do PROGAS Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 110 Total 110
+
+Meta 0671 - Promover as potencialidades de investimentos (eventos) Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 60 Total 60
+
+Iniciativas 00906 - Concessão de incentivos financeiros para atrair investimentos no setor industrial
+
+01033 - Concessão de incentivos ao uso de gás natural para atrair investimentos no setor industrial
+
+01035 - Promoção e divulgação das potencialidades socioeconômicas do RN
+
+01156 - Elaboração ds nova Lei e Decreto Regulamentador para possibilitar a expansão do PROGÁS
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0233 - Promover a desconcentração do desenvolvimento socioeconômico e da geração de empregos através da ampliação de ofertas de áreas industriais e infraestrutura correlata no interior do Estado, aproveitando as potencialidades regionais e de novos investimentos em infraestrutura necessária para fomento à instalação de empresas.
+
+Órgão: 20000 - Secretaria de Estado do Desenvolvimento Econômico
+
+Meta 0692 - Construir galpões industriais para fomento da economia local em diversos municípios, com pelo menos 1 em cada região do Estado Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Sertão Central, Cabugi e Litoral Norte 2 Agreste Litoral Sul 1 Trairi 1 Potengi 1 Seridó 2 Alto Oeste 2 Açu/Mossoró 2 Mato Grande 2 Sertão do Apodi 1 Total 15
+
+Meta 0697 - Implantar nova área industrial estadual fora da região metropolitana de Natal Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0705 - Implantar novos parques industriais em entendimento com municípios para sua realização, abrangendo todas as regiões do Estado Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Sertão Central, Cabugi e Litoral Norte 1 Agreste Litoral Sul 1 Trairi 1 Potengi 1 Seridó 2 Alto Oeste 1 Açu/Mossoró 2 Mato Grande 1 Sertão do Apodi 1 Total 12
+
+Meta 0706 - Ampliar a infraestrutura das áreas industriais já existentes no Estado Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 01013 - Implantação, modernização,ampliação e distribuição espacial da infraestrutura para industrialização, inclusive se constituindo em dotação específica para transparência de recursos para as prefeituras
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0309 - Promover a cadeia produtiva têxtil e de confecções no Rio Grande do Norte por meio da construção do Centro Tecnológico Têxtil e do apoio às empresas do setor, visando ao desenvolvimento do setor têxtil estadual.
+
+Órgão: 20000 - Secretaria de Estado do Desenvolvimento Econômico
+
+Meta 0246 - Construir o Centro Tecnológico Têxtil Unidade Unidade Medida
+
+Território 2016-2019 Seridó 1 Total 1
+
+Meta 0592 - Ampliar a produção das empresas de confecções do Estado Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 260 Total 260
+
+Iniciativas 00299 - Construção do Centro Tecnológico Têxtil
+
+00897 - Indução do desenvolvimento técnico e tecnológico da cadeia produtiva de confecções
+
+14. DESENVOLVIMENTO SUSTENTÁVEL DA PESCA E AQUICULTURA
+
+Os frutos do mar por suas qualidades excepcionais e indicações médicas, a cada ano ganham novos consumidores em todo o mundo. A pesca e aquicultura, apesar da sua importância econômica e social, nem sempre é inserida entre os objetivos principais dos planos dos governos, apesar do enorme potencial do Rio Grande do Norte para a produção pesqueira, quer seja em águas oceânicas ou continentais, mediante a pesca extrativista ou através da aquicultura em viveiros escavados ou tanques-redes.
+
+Com relação à pesca oceânica, o Nordeste apresenta a sua plataforma marinha estreita, o que torna favorável a pesca em águas profundas. A temperatura também é fator propício para a maior variedade de espécies e as correntes marítimas contribuem para um ciclo migratório constante.
+
+Entretanto, no Rio Grande do Norte a pesca oceânica está bem abaixo do seu potencial exploratório. Alguns avanços em tecnologia que foram obtidos com o arrendamento de navios japoneses em parceria com empresas pesqueiras do Estado, não foram totalmente absorvidos pela nossa frota, visando uma melhoria na seletividade da pesca, talvez devido aos altos custos na implementação destas ações.
+
+Mesmo operando abaixo da sua capacidade, o volume capturado viabilizou a indústria de processamento, estando a capacidade instalada de processamento de pescado adequada ao aumento da produção. Com a estrutura do Terminal Pesqueiro Público de Natal, em fase final de execução, a pesca industrial terá um ponto de apoio para a recepção, conservação e distribuição do pescado, além de apoio ao abastecimento de gelo e combustível às embarcações.
+
+A aquicultura e pesca artesanal encontra-se espalhada praticamente em todo o Rio Grande do Norte, seja no interior ou ao longo dos 410 quilômetros de litoral, onde milhares de famílias retiram da água o seu sustento diário. No entanto, a labuta diária dessas pessoas muitas vezes é dificultada pela falta de estruturas básicas que possibilitem mais segurança, conforto eficiências e ganhos.
+
+Torna-se necessário um plano de incentivo à produção de pescado contemplando a criação de parques aquícolas, atracadores flutuantes, pequenas estruturas frigoríficas, além da construção de estações de piscicultura de Apodi e Upanema para manutenção do fornecimento de alevinos para o repovoamento das coleções d’águas. Além disso, a criação de um serviço de assistência técnica que leve ao pescador profissional artesanal novas técnicas de captura, beneficiamento e comercialização da produção teriam um grande impacto no setor pesqueiro.
+
+Com relação à carcinicultura, o licenciamento ambiental continua sendo o principal gargalo para a atividade. As dificuldades para se obter o licenciamento têm inibido a instalação e funcionamento de muitas fazendas de camarão no Rio Grande do Norte. A interiorização da carcinicultura ocupando áreas degradas pode representar uma alternativa para ocupação e renda. Uma das características da carcinicultura potiguar é o acentuado número de micro e pequenos produtores de 05 até 10 hectares, que perfazem 67,6% e que geram uma produção equivalente a 15% do total no Estado, segundo a Associação Brasileira de Criadores de Camarão. Este público carece de um serviço de assistência técnica pesqueira com a finalidade de introdução de novas tecnologias.
+
+Demonstrativo de Programas Temáticos PPA
+
+0014 - DESENVOLVIMENTO SUSTENTÁVEL DA PESCA E AQUICULTURA
+
+Diretriz 05 - INVESTIMENTO EM EFICIÊNCIA NO APOIO E INCENTIVO AO DESENVOLVIMENTO ECONÔMICO DO ESTADO E AO EMPREENDEDORISMO
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0071 - Produção da Aquicultura em toneladas Tonelada 31/12/2009 415.649,00
+
+0075 - Produção da Pesca em toneladas Tonelada 31/12/2009 825.164,00
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 161.000,00 0,00 161.000,00
+
+Recurso Federal 1.014.300,00 434.700,00 1.449.000,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 0,00 0,00 0,00
+
+TOTAL 1.175.300,00 434.700,00 1.610.000,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0141 - Melhorar as atividades produtivas da pesca e da aquicultura, através do fortalecimento da Assistência Técnica e Extensão Rural aos pescadores e aquicultores familiares, visando a promoção da sustentabilidade da atividade bem como o aumento da produtividade desses alimentos.
+
+Órgão: 17202 - Instituto de Assistência Técnica e Extensão Rural
+
+Meta 0503 - Prestar serviços de Assistência Técnica e Extensão Rural - ATER em ações educativas e de capacitação de Pescadores e/ou Aquicultores Unidade Medida Unidade assistidos pelo PRONAF
+
+Território 2016-2019 Terras Potiguaras 220 Sertão Central, Cabugi e Litoral Norte 200 Agreste Litoral Sul 200 Trairi 50 Seridó 150 Alto Oeste 100 Açu/Mossoró 400 Mato Grande 220 Sertão do Apodi 70 Total 1.610
+
+Iniciativas 01109 - Promoção e fortalecimento dos serviços de Assistência Técnica e Extensão Rural - ATER ofertados para pescadores(as) e aquicultores(as)
+
+15. TURISMO
+
+O Brasil é reconhecido pelas suas belezas naturais e pela diversidade cultural, que atrai turistas do mundo inteiro. O setor de turismo é uma atividade econômica importante pois gera emprego e renda e é responsável pelo desenvolvimento socioeconômico de algumas regiões do país.
+
+Em 2014, a contribuição direta do setor de turismo na economia foi 3,5% do PIB, considerando a contribuição total, direta e indireta, a participação no PIB foi de 9,6%. O setor gerou aproximadamente 3 milhões de empregos diretos e quase 9 milhões de empregos totais, segundo dados da World Travel & Tourism Council (WTTC).
+
+Considerando a chegada de turistas no Brasil por vias de acesso aérea, marítima, terrestre e fluvial, entre 2013 e 2014, houve crescimento de 11%, passando de 5,8 para 6,4 milhões de chegadas. Entre as unidades da Federação, o Rio Grande do Norte ficou na 13ª posição entre os estados que apresentaram o maior número de chegadas de turistas ao país, apresentando crescimento de 6% no período, segundo dados do Ministério do Turismo.
+
+No Rio Grande do Norte, o turismo é uma das principais atividades econômicas. O Estado tem cinco polos turísticos de destaque: (I) Polo Costa das Dunas, situado no litoral oriental, abrange 18 municípios e tem como destaque as regiões litorâneas, que compreendem 14 municípios e com grande potencial para turismo de sol e praia; (II) Polo Costa Branca, situado na zona oeste do Estado, é caracterizado pelo contraste entre sertão e regiões litorâneas e pela presença de sítios arqueológicos e paleontológicos; (III) Polo de Seridó, localiza-se no semiárido do Estado, que além dos atrativos naturais, destacam-se o artesanato regional e os sítios arqueológicos; (IV) Polo Serrano, situado no semiárido nordestino, tem potencial para turismo de aventura, religioso e ecoturismo, com destaques para os sítios arqueológicos e as formações rochosas; (V) Polo Agreste/Trairi, situado no sertão nordestino, destaca-se pelo turismo religioso que foi impulsionado pela construção do Complexo Turístico Religioso Alto de Santa Rita de Cássia. (SETUR-RN)
+
+Segundo dados do Ministério do Turismo, o setor de turismo no Rio Grande do Norte apresentou expansão nos últimos anos, aumentando a empregabilidade e a geração de renda. No período entre 2012 e 2013, a expansão do número de agências de turismo no Estado foi de 8% e o número de locadora de veículos foi de 30%, bem abaixo das médias do Nordeste e do Brasil. O número de restaurantes, bares e similares aumentou 28% e o número de leitos de hotelaria aumentou 27%, ambos acima das médias do Nordeste e do Brasil.
+
+Fonte: Estatísticas básicas de turismo Brasil – Ano 2013
+
+Apesar da expansão dos indicadores de turismo no Estado, a crise econômica do país diminuiu a confiança dos empresários do setor. O cenário é de incertezas frente a atual crise econômica do país, com aumento do desemprego e queda do poder de compra da população. A esses fatores somam-se o menor poder de investimento do Governo Federal e o cenário fiscal restritivo do Estado do Rio Grande do Norte, que afeta investimentos em infraestrutura e segurança pública.
+
+Por outro lado, com a desvalorização do real frente ao dólar, pode ocorrer um direcionamento para o turismo interno de parte dos turistas brasileiros que iriam para o exterior. A desvalorização do câmbio também pode atrair mais estrangeiros para o pais.
+
+O setor de turismo é estratégico tanto para o Brasil quanto para o Estado do Rio Grande do Norte e, apesar das dificuldades econômicas e incertezas futuras, os investimentos no setor devem ser mantidos em todas as regiões do Estado, em especial nas regiões do interior, para alavancar o desenvolvimento socioeconômico dessas regiões e do Estado.
+
+Demonstrativo de Programas Temáticos PPA
+
+0015 - TURISMO
+
+Diretriz 05 - INVESTIMENTO EM EFICIÊNCIA NO APOIO E INCENTIVO AO DESENVOLVIMENTO ECONÔMICO DO ESTADO E AO EMPREENDEDORISMO
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0058 - Fluxo Turístico Unidade 31/12/2012 2.618.348,00
+
+0059 - Receita Turística Unidade 31/12/2012 2.318.200,00
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 9.161.086,00 5.473.200,00 14.634.286,00
+
+Recurso Federal 31.583.000,00 207.432.336,00 239.015.336,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 310.000,00 0,00 310.000,00
+
+TOTAL 41.054.086,00 212.905.536,00 253.959.622,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0099 - Apoiar a infraestrutura turística através da execução de obras visando promover o turismo regional e de negócios do Estado.
+
+Órgão: 25000 - Secretaria de Estado da Infraestrutura
+
+Meta 0277 - Ampliar o centro de convenção de Natal Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0281 - Construir o centro de convenções de Mossoró Unidade Unidade Medida
+
+Território 2016-2019 Açu/Mossoró 1 Total 1
+
+Meta 0282 - Construir o teleférico de Martins Unidade Unidade Medida
+
+Território 2016-2019 Alto Oeste 1 Total 1
+
+Meta 1354 - Construir o teleférico do Santuário de Santa Rita de Cássia no município de Santa Cruz Unidade Unidade Medida
+
+Território 2016-2019 Trairi 1 Total 1
+
+Iniciativas 00390 - Construção e ampliação de equipamentos de suporte ao turismo.
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0074 - Desenvolver o turismo do Rio Grande do Norte, através da melhoria na infraestrutura turística, da elaboração e estruturação de roteiros, produtos e destinos turísticos, de forma sustentável realizando ações que respeitem o Meio-Ambiente e o turismo de base local, visando a consolidação da regionalização do turismo de forma sustentável.
+
+Órgão: 28000 - Secretaria de Estado do Turismo
+
+Meta 0176 - Elaborar roteiros turísticos segmentados Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 6 Total 6
+
+Meta 0177 - Elaborar os planos dos principais destinos turísticos do estado Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 2 Sertão Central, Cabugi e Litoral Norte 1 Agreste Litoral Sul 1 Trairi 1 Seridó 1 Alto Oeste 1 Açu/Mossoró 1 Mato Grande 2 Total 10
+
+Meta 0180 - Realizar eventos do projeto Cidade Viva nos municípios turísticos Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 195 Sertão Central, Cabugi e Litoral Norte 2 Agreste Litoral Sul 1 Trairi 1 Seridó 3 Alto Oeste 2 Açu/Mossoró 2 Mato Grande 1 Sertão do Apodi 1 Total 208
+
+Meta 0182 - Elaborar Plano Diretor do Turismo Náutico Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0183 - Melhorar a infraestrutura do patrimônio histórico e cultural Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 15 Total 15
+
+Meta 0185 - Melhorar e implantar a infraestrutura nos principais destinos turísticos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 14 Total 14
+
+Meta 0187 - Desenvolver ações de incentivo ao turismo sustentável Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 6
+
+Demonstrativo de Programas Temáticos PPA Total 6
+
+Iniciativas 00243 - Elaboração, implantação e consolidação dos roteiros turísticos
+
+00244 - Preservação do patrimônio histórico e cultural, através de reformas, construções e ampliações
+
+00245 - Melhoria dos acessos, sinalização e urbanização de orlas.
+
+00246 - Elaboração de estudos, projetos e pesquisas para o desenvolvimentodo turismo
+
+00247 - Modernização e reaparelhamento da SETUR.
+
+00248 - Qualificação e capacitação de pessoal para o fortalecimento da produção associada ao setor turístico e promoção de campanhas educativas
+
+00249 - Captação de instituições parceiras.
+
+00279 - Implantação na SETUR, do programa Qualidade de vida e saúde no trabalho
+
+01525 - Promoção da conscientização ambiental no turismo
+
+Objetivo 0081 - Apoiar a promoção, a realização e participação da SETUR em eventos turísticos e ações que fortalecem programas estaduais, nacionais e as instâncias de governança, para incremento do fluxo turístico, gerando emprego e renda, para melhoria da qualidade de vida da população do estado.
+
+Órgão: 28000 - Secretaria de Estado do Turismo
+
+Meta 0190 - Apoiar e participar de eventos turísticos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 110 Total 110
+
+Meta 0191 - Realizar e participar de reuniões dos conselhos dos polos turísticos Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 48 Trairi 16 Seridó 16 Alto Oeste 16 Açu/Mossoró 16 Total 112
+
+Meta 0192 - Apoiar e participar de programas estaduais e nacionais de artesanato e de inclusão social do público da maior idade Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 28 Total 28
+
+Iniciativas 00255 - Apoio e participação em eventos turísticos estaduais, nacionais e internacionais
+
+00256 - Realização e participação em reuniões dos conselhos regionais e estadual de turismo
+
+00257 - Apoio e participação em programas estaduais e nacionais de turismo
+
+00258 - Captação de voos estaduais, nacionais e internacionais.
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0084 - Promover a qualificação dos serviços e produtos turísticos, através do fortalecimento do sistema CADASTUR, da capacitação e credenciamento de profissionais e da elaboração de estudos e pesquisas, buscando atingir um padrão de excelência no atendimento e acompanhar o comportamento evolutivo do setor.
+
+Órgão: 28000 - Secretaria de Estado do Turismo
+
+Meta 0193 - Realizar cadastramento da rede hoteleira dos municípios que compõe os Polos Turísticos Percentual Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 16 Sertão Central, Cabugi e Litoral Norte 8 Agreste Litoral Sul 8 Trairi 8 Seridó 8 Alto Oeste 8 Açu/Mossoró 8 Mato Grande 8 Sertão do Apodi 8 Total 80
+
+Meta 0196 - Qualificar novos Bugueiros Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 200 Total 200
+
+Meta 0198 - Requalificar Bugueiros Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 800 Total 800
+
+Meta 0202 - Promover campanhas educativas para o Bugyy Turismo Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 8 Total 8
+
+Meta 0203 - Elaborar novos roteiros do serviço Buggy Turismo no litoral Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 8 Total 8
+
+Meta 0204 - Realizar pesquisas de demanda turística nos principais municípios turísticos Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 16 Agreste Litoral Sul 8 Seridó 8 Alto Oeste 4 Açu/Mossoró 8 Mato Grande 4 Total 48
+
+Iniciativas 00276 - Realização do controle de qualidade dos equipamentos turísticos
+
+00774 - Desenvolvimento e aperfeiçoamento do serviço Buggy Turismo e qualificação dos profissionais
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0239 - Promover o turismo do Estado do Rio Grande do Norte, por meio da participação e realização de eventos temáticos, promoção de campanhas, marketing e qualificação profissional, direcionadas para o setor, visando incentivar o turista brasileiro e estrangeiro a viajar pelo Estado, para o aumento do fluxo de turistas, assim como a divulgação dos produtos, destinos e serviços turísticos.
+
+Órgão: 28202 - Empresa Potiguar de Promoção Turistica
+
+Meta 0730 - Capacitar profissionais atuantes no processo de comercialização de serviços, destinos e produtos do setor turístico do Rio Grande do Norte Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 7.085 Terras Potiguaras 1.886 Total 8.971
+
+Meta 1307 - Realizar, participar e apoiar eventos de promoção turísitica do Estado do Rio Grande do Norte em âmbito nacional e internacional Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 347 Total 347
+
+Meta 1308 - Realizar, participar e apoiar eventos de promoção turística do Estado do Rio Grande do Norte em âmbito estadual Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 20 Sertão Central, Cabugi e Litoral Norte 5 Agreste Litoral Sul 5 Trairi 7 Potengi 4 Seridó 8 Alto Oeste 5 Açu/Mossoró 5 Mato Grande 4 Sertão do Apodi 7 Total 70
+
+Iniciativas 01315 - Participação, realização e apoio a eventos temáticos geradores de fluxo turístico para a comercialização de roteiros, destinos e produtos
+
+01317 - Apoio a promoção, comercialização e marketing por meio da produção de material institucional e de divulgação turistica em âmbito Nacional e Internacional
+
+01319 - Promoção e apoio à comercialização dos destinos, roteiros e produtos dos Polos Turísticos do Estado do Rio Grande do Norte
+
+01320 - Fortalecimeto da prestação de serviços de divulgação, participando e realizando campanhas de incentivo, propaganda, marketing, ações e eventos de promoção turística nacional e internacional
+
+01321 - Apoio e captação de Vôo Charter
+
+01322 - Realização e participação em programas de capacitação
+
+01323 - Elaboração de estudos, planos e diagnósticos do setor turístico
+
+16. COMÉRCIO E SERVIÇOS
+
+O setor de serviços tem grande importância para a economia brasileira, com a maior participação no Valor Adicionado Bruto (VAB) do país. Nos últimos anos o setor terciário apresentou crescimento na participação da economia e relevância no desenvolvimento econômico e social. Em 2012, a participação no VAB do Brasil foi de 68,7%, de acordo com dados do IBGE.
+
+O comércio e os serviços estão entre os que mais empregam, segundo o Ministério do Trabalho e Emprego. Em 2013, considerando apenas os vínculos ativos em 31/12, o comércio foi responsável por 19% dos empregos formais, e os serviços por 53%. As duas atividades juntas foram responsáveis pela geração de aproximadamente 35 milhões de empregos formais em 2013.
+
+O Rio Grande do Norte tem elevada participação dos setores terciário no VAB, o equivalente a 73% em 2012, segundo dados do IBGE. Essa participação supera a média do Brasil e do Nordeste que é 70,7%.
+
+O cenário econômico atual do Brasil de inflação elevada, aumento dos juros e queda na renda familiar, está impactando muito as atividades de comércio e serviços. No Rio Grande do Norte, a partir do mês de abril de 2015, o comércio e os serviços apresentaram mais demissões do que contratações, gerando saldo negativo de empregos, com destaque para o mês de junho, que apresentou o saldo mais negativo nesse ano.
+
+Fonte: CAGED/Ministério do Trabalho e Emprego.
+
+Apesar da desaceleração do setor, o volume de vendas apresentou melhor resultado do que a média brasileira nos seis primeiros meses do ano, de acordo com a Pesquisa Mensal de Comércio, IBGE. Quanto à receita nominal, na mesma base de referência, as vendas do Estado cresceram 5,9% e 3,7% no varejo ampliado (ante 4,2% e -0,4% do nacional).
+
+VOLUME DE VENDAS – COMÉRCIO VAREJISTA POTIGUAR
+
+Fonte: Macroplan com base nos dados da Pesquisa Mensal do Comércio/IBGE
+
+Devido a importância do setor terciário para o desenvolvimento socioeconômico potiguar, mesmo com esse cenário desafiador, serão necessárias ações mais focadas e incisivas do governo do Estado nos próximos anos para conseguir enfrentar e superar os desafios.
+
+Demonstrativo de Programas Temáticos PPA
+
+0016 - COMÉRCIO E SERVIÇOS
+
+Diretriz 05 - INVESTIMENTO EM EFICIÊNCIA NO APOIO E INCENTIVO AO DESENVOLVIMENTO ECONÔMICO DO ESTADO E AO EMPREENDEDORISMO
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0086 - Tempo para Autenticação de Processos Dia 07/08/2015 8
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 984.000,00 0,00 984.000,00
+
+Recurso Federal 100.000,00 15.100.000,00 15.200.000,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 8.420.000,00 25.744.000,00 34.164.000,00
+
+TOTAL 9.504.000,00 40.844.000,00 50.348.000,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0290 - Estimular e apoiar empreendimentos produtivos, através de ações de fomento, visando contribuir para o desenvolvimento econômico-social da população do Rio Grande do Norte.
+
+Órgão: 19203 - Agência de Fomento
+
+Meta 1118 - Contratar 16.500 operações de crédito para fomentar empreendimentos produtivos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 16.500 Total 16.500
+
+Iniciativas 01396 - Ampliação da Concessão e Indermediação de Financiamentos
+
+Objetivo 0124 - Ampliar a promoção da produção econômica do Estado, inclusive com a transferência de recursos a instituições privadas sem fins lucrativos e prefeituras.
+
+Órgão: 20000 - Secretaria de Estado do Desenvolvimento Econômico
+
+Meta 0271 - Realizar eventos econômicos e comerciais Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 00329 - Realização de Eventos.
+
+Objetivo 0264 - Fortalecer o programa IMPORT RN através de incentivo à importação de produtos não fabricados no RN e que possam ser diretamente comercializados para outros Estados e/ou que possam fazer parte de processos produtivos industriais para abastecer também outros mercados.
+
+Órgão: 20000 - Secretaria de Estado do Desenvolvimento Econômico
+
+Meta 0852 - Fortalecer o programa IMPORT RN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 60 Total 60
+
+Iniciativas 01194 - Apoiar as empresas incentivadas pela legislação do Import RN na geração de novos negócios
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0123 - Transformar a Junta Comercial do Estado do RN num órgão que, além de realizar as atividades de registro empresarial, seja um facilitador da atividade empresarial e do desenvolvimento econômico do Estado, prestando serviços de excelência em ambiente adequado, moderno, com uso das melhores tecnologias atualmente disponíveis para serviço à população.
+
+Órgão: 20205 - Junta Comercial do Estado
+
+Meta 0284 - Adquirir equipamentos e ferramentas tecnológicas Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0293 - Realizar cursos de qualificação e aperfeiçoamento do pessoal Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 168 Total 168
+
+Meta 0298 - Integrar todos os órgãos representativos e a classe empresarial para facilitar e simplificar a emissão dos atos de registro Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0315 - Concluir a construção da sede da Jucern Metro Quadrado Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 97 Total 97
+
+Iniciativas 00545 - Suporte técnico para gerenciamento do sistema Redesim
+
+00551 - Implantação de métodos administrativos e tecnológicos para aumentar a eficiência da Jucern
+
+00557 - Conclusão do prédio sede da Jucern
+
+00560 - Implantação do Plano de Cargos e Salários dos servidores da Jucern
+
+00562 - Qualificação e Aperfeiçoamento dos servidores da Jucern
+
+Objetivo 0158 - Garantir a fidelidade e confiabilidade nos instrumentos de medições em produtos regulamentados pelo Inmetro, através da fiscalização de postos e de aparelhos, assim como da modernização do IPEM, visando assegurar os direitos do consumidor no Estado.
+
+Órgão: 20206 - Instituto de Pesos e Medidas
+
+Meta 0406 - Construir Posto de Cronotocógrafo Unidade Unidade Medida
+
+Território 2016-2019 Açu/Mossoró 1 Total 1
+
+Meta 0408 - Realizar Fiscalização Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 288.000 Total 288.000
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 00717 - Construção de Posto de Cronotocógrafo
+
+00718 - Aparelhamento e modernização de postos de verificação
+
+00767 - Formação de recursos Humanos
+
+17. SEGURANÇA PÚBLICA, PROTEÇÃO E DEFESA CIVIL
+
+A transição para o século XXI trouxe a segurança pública como principal pauta das agendas governamentais, considerando que o fenômeno da violência se generalizou, atingindo os cantos mais ermos do país, deixando de ser um problema localizado das capitais e regiões metropolitanas.
+
+O Instituto Sangari, em 2014, realizou um estudo sobre as mortes violentas decorrentes de homicídios no Brasil, delimitando como série histórica o período de 2000 a 2012. Essa pesquisa, intitulada Mapa da Violência no Brasil, mostrou que em média 154 pessoas morreram por dia, vítimas de homicídios no ano de 2012, um aumento de cerca de 13,4% em relação à 2002, totalizando 56.337 pessoas assassinadas no país. Estratificando mais ainda esses dados tem-se que as principais vítimas estão na faixa etária entre 15 e 29 anos, representando 53,4% do total de homicídios no Brasil, sendo 91,6% desse total do sexo masculino.
+
+Esse estudo aponta que das 27 unidades da federação, 20 tiveram crescimento nos índices de homicídios e 7 tiveram um crescimento acelerado, como o Maranhão, Ceará, Paraíba, Amazonas e, em destaque, o Rio Grande do Norte e a Bahia, tendo esses dois últimos estados triplicado as taxas de mortalidade juvenil decorrentes de homicídios, no período analisado.
+
+Da coletânea de dados registrados no Mapa da Violência, verificou-se que o Rio Grande do Norte teve um acréscimo de 272,4% nos homicídios quando comparados os anos de 2000 e 2012, sendo, em números absolutos, 301 casos no primeiro ano e 1.121 no último ano da série histórica, posicionando o Estado como primeiro colocado no ranking nacional.
+
+Além dos condicionantes sociais que indicam situações de vulnerabilidade, tem-se como uma das principais causas do incremento no número de homicídios, principalmente entre os jovens, o crescimento da oferta e do consumo de drogas, com destaque para o uso da maconha e do crack. Essa situação não é peculiar apenas nos grandes centros, está disseminada em todas as cidades do interior. No Rio Grande do Norte, segundo dados do Setor de Estatística da Polícia Civil, verifica-se um aumento no quantitativo de apreensões de drogas de 423% entre 2013 e 2014, sendo a maconha e crack as mais representativas. No primeiro ano foi registrada a apreensão de 234 kg de entorpecentes, e no ano seguinte 992 kg.
+
+Nesse cenário, faz-se premente a tomada de medidas urgentes e eficientes com o intuito de combater a criminalidade e de promover a redução de mortes por causas externas, com ênfase para os homicídios. A adoção de um desenho institucional constituído a partir de uma rede de prevenção, com a participação efetiva da comunidade é pauta enfática no planejamento da Polícia Civil do Rio Grande do Norte. Dessa feita, uma das alternativas é a incorporação do
+
+modelo de polícia de proximidade, com o apoio dos aglomerados sociais representativos (associações de bairros, igrejas, escolas, organizações não governamentais, dentre outras) e de ações de sensibilização sobre o papel da instituição é importância do combate a violência.
+
+Outra importante temática se refere à promoção de políticas voltadas para crianças e adolescentes, que estão em fase escolar ou aqueles egressos dos sistemas penais, que estão em condições de vulnerabilidade e são importantes atores na composição dessa estatística de criminalidade e, em decorrência disso, vítimas frequentes de homicídios. A base dessa atuação deve ser o fortalecimento da rede de proteção social e de prevenção para a redução da violência, em atuação conjunta com as demais instituições que atuam no acompanhamento dessa clientela.
+
+Cabe destaque também para a necessidade de modernização da estrutura policial, prevendo incrementos nos aparatos técnicos e tecnológicos, valorização da força de trabalho, adoção de procedimentos padronizados e incorporação de métodos e processos científicos de produção de conhecimento, tendo como referência a especialização dos processos investigativos e de inteligência que são o lastro das atividades da corporação, implementando sua atuação com mecanismos mais efetivos e resolutivos em todo o Estado.
+
+Amparados nas diretivas constitucionais, outro grande desafio é a reformulação do modelo de polícia a ser adotado, saindo do modelo meramente repressor e seguindo para um patamar de reconhecimento dos direitos fundamentais e se transformando em uma polícia cidadã. Nessa direção se prevê a reestruturação de objetivos, valores e garantias, inerentes a um estado democrático de direito, com base na segurança jurídica e na qualificação da oferta de serviços que são de incumbência da Polícia Civil e, por conseguinte, melhorar a autoimagem da instituição e resgatar a credibilidade perante a sociedade. Uma instituição que valoriza o homem em sua essência, alicerçados numa atuação conjunta, Cidadão e Estado, na direção da paz social e da fraternidade.
+
+Compondo os órgãos governamentais que promovem a segurança pública e a defesa civil, encontra-se também o Corpo de Bombeiros Militar que, apresentando-se como Corporação autônoma somente a partir de 2002, busca a descentralização de seus serviços, a fim de melhor servir a sociedade potiguar. Atualmente presente em apenas 05 dos 167 municípios do Estado e tendo de salvaguardar os 410 quilômetros do litoral potiguar, a Instituição carece da construção, da reforma e do aparelhamento de Unidades, da aquisição de equipamentos e viaturas, bem como do aumento de seu efetivo.
+
+Atuando no combate e na prevenção de incêndios, na defesa ambiental, na defesa civil, na análise de projetos e na vistoria de edificações, bem como nas operações de busca, resgate e salvamento, o Corpo de Bombeiros Militar serve à sociedade do Rio Grande do Norte na preservação da vida, do meio ambiente e do patrimônio.
+
+Em relação à segurança pública no trânsito, é norteada através do Código de Trânsito Brasileiro, onde pode- se destacar o artigo 1°, §2: “O trânsito em condições seguras é um direito de todos e dever dos órgãos e entidades componentes do Sistema de Trânsito, a estes cabendo, no âmbito das respectivas competências, adotar as medidas destinadas a assegurar esse direito”.
+
+O Departamento Estadual de Trânsito do Rio Grande do Norte – DETRAN/RN, autarquia estadual, é responsável por planejar, coordenar, fiscalizar, controlar e executar as políticas de trânsito, além de cumprir e fazer cumprir a legislação de trânsito no Estado do Rio Grande do Norte. Entre as suas principais atividades estão o registro de veículos e a habilitação de condutores. Associado a isso, o DETRAN desenvolve um conjunto de atividades que lhe competem nos termos do artigo 22 do Código de Trânsito Brasileiro.
+
+O desenvolvimento industrial do século XX propiciou aumento considerável da frota de veículos em circulação em todo o mundo. Os sistemas viários e o planejamento urbano, em geral, não conseguiram acompanhar o aumento do volume do tráfego. Desta maneira, a qualidade de vida, principalmente nas grandes cidades, ficou prejudicada, contribuindo para o aumento da agressividade dos motoristas e para o crescimento da violência no trânsito. Os acidentes de trânsito surgem então como um problema social, podendo ser considerado algo bastante grave.
+
+Distribuição do número de vítimas fatais em acidentes de trânsito do período de 2011 a 2014 no estado do Rio Grande do Norte
+
+794 783 658 691
+
+2011 2012 2013 2014
+
+Fonte: Centro Integrado de Operações de Segurança Pública – CIOSP (Polícia Militar) /Setor de Estatística do DETRAN/RN
+
+A frota total de veículos do Rio Grande do Norte até o mês de junho de 2015 foi de 1.073.788 (um milhão, setenta e três mil, setecentos e oitenta e oito) nos últimos dez anos e teve aumento de 163,6%, apresentando um índice de motorização de 315 veículos para cada 1.000 habitantes.
+
+Evolução da frota de veículos cadastrados do Rio Grande do Norte, no período de 2005 a 2015
+
+1.200.000 1.073.788 1.000.000 804.454 800.000 587.411 600.000 407.356 400.000 200.000
+
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015\*
+
+Fonte: Setor de Estatística do DETRAN/RN
+
+O número de condutores cadastrados no Registro Nacional da Carteira de Habilitação (RENACH) até junho/2015 é de 688.412 condutores.
+
+Distribuição do número de condutores cadastrados no Registro Nacional de Carteiras de Habilitação – (RENACH), no Rio Grande do Norte
+
+800.000 688.412 583.744 600.000 474.091 371.801 400.000 200.000
+
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015\*
+
+Fonte: Setor de Estatística do DETRAN/RN
+
+Nesse contexto, faz-se entender que a segurança pública está ligada a melhoria do atendimento do DETRAN/RN aos cidadãos necessitando uma estrutura modernizada, bem como melhoria nas ações de educação, fiscalização e sinalização adequada.
+
+Demonstrativo de Programas Temáticos PPA
+
+0017 - SEGURANÇA PÚBLICA, PROTEÇÃO E DEFESA CIVIL
+
+Diretriz 06 - PROMOÇÃO DO BEM-ESTAR DO POTIGUAR ATRAVÉS DA GARANTIA AO ACESSO AOS DIREITOS FUNDAMENTAIS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0099 - Índice de Veículos Fiscalizados a cada 1000 veículos Unidade 31/12/2014 74
+
+0100 - Número de mortes em acidentes de trânsito a cada 10.000 veiculos Unidade 31/12/2014 7
+
+0101 - Número de mortes em acidentes de trânsito a cada 100.000 habitantes Unidade 31/12/2014 20
+
+0136 - Taxa de homicídios por 100 mil habitantes Unidade 31/12/2012 34,7
+
+0137 - Razão entre o número de presos e vagas Unidade 31/12/2012 2,84
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 3.806.714.000,00 96.794.000,00 3.903.508.000,00
+
+Recurso Federal 12.571.862,42 46.987.100,62 59.558.963,04
+
+Operações de Crédito 0,00 81.324.000,00 81.324.000,00
+
+Outros 81.882.000,00 31.693.000,00 113.575.000,00
+
+TOTAL 3.901.167.862,42 256.798.100,62 4.157.965.963,04
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0132 - Melhorar o desempenho do serviço de policiamento ostensivo, criando condições logísticas, administrativas, de infraestrutura e de recursos humanos, vidando diminuir os índices de violência e proporcionar maior segurança a sociedade.
+
+Órgão: 15000 - Polícia Militar
+
+Meta 0409 - Ampliar a frota de veículos, incluindo a aquisição de ônibus, caminhonetes, caminhões, vans, motocicletas entre outros veículos operacionais e Unidade Medida Unidade administrativos
+
+Território 2016-2019 Rio Grande do Norte 1.314 Total 1.314
+
+Meta 0422 - Adquirir armamento e material bélico Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2.900 Total 2.900
+
+Meta 0435 - Adquirir coletes e escudos balísticos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4.400 Total 4.400
+
+Meta 0474 - Adquirir equipamentos para rádio comunicação Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4.000 Total 4.000
+
+Meta 0514 - Ampliar e recompor o efetivo da Polícia Militar (160 oficiais e 4.000 praças) Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 2.160 Sertão Central, Cabugi e Litoral Norte 200 Agreste Litoral Sul 400 Seridó 400 Alto Oeste 400 Açu/Mossoró 600 Total 4.160
+
+Meta 0537 - Capacitar os Policiais Militares com conhecimentos que aumentem a qualidade no atendimento e a eficácia na ação policial Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 600 Sertão Central, Cabugi e Litoral Norte 220 Agreste Litoral Sul 220 Trairi 220 Potengi 40 Seridó 220 Alto Oeste 220 Açu/Mossoró 220 Mato Grande 220 Sertão do Apodi 220 Total 2.400
+
+Meta 0552 - Realizar cursos de formação, aperfeiçoamento e habilitação dos Policiais Militares para uma maior qualidade na prestação do serviço Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 10.060 Total 10.060
+
+Demonstrativo de Programas Temáticos PPA
+
+Meta 0567 - Desenvolver e implementar programa contínuo de ações de assistência social, psicológicas e jurídicas ao público interno da PMRN Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Sertão Central, Cabugi e Litoral Norte 1 Agreste Litoral Sul 1 Trairi 1 Potengi 1 Seridó 1 Alto Oeste 1 Açu/Mossoró 1 Mato Grande 1 Sertão do Apodi 1 Total 10
+
+Meta 0571 - Otimizar a gestão de recursos humanos e logísticos na PMRN através da aquisição de softwares Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 8 Total 8
+
+Meta 0589 - Implantar programa de reaparelhamento nas unidades da Polícia Militar, incluindo a aquisição de móveis e equipamentos de escritório Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 17 Sertão Central, Cabugi e Litoral Norte 11 Agreste Litoral Sul 24 Trairi 15 Potengi 11 Seridó 25 Alto Oeste 30 Açu/Mossoró 14 Mato Grande 15 Sertão do Apodi 17 Total 179
+
+Meta 0598 - Aparelhar em Tecnologia de Informação (TI) unidades da PMRN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 32 Total 32
+
+Meta 0630 - Construir, reformar e ampliar os prédios da PMRN Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 20 Sertão Central, Cabugi e Litoral Norte 11 Agreste Litoral Sul 24 Trairi 15 Potengi 11 Seridó 25 Alto Oeste 30 Açu/Mossoró 14 Mato Grande 15 Sertão do Apodi 17 Total 182
+
+Meta 0756 - Desenvolver programa de lazer e desportos para interação do público interno da PMRN com a comunidade Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta
+
+Demonstrativo de Programas Temáticos PPA 0763 - Promover a realização de eventos institucionais e de celebração de datas cívicas Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 80 Total 80
+
+Meta 0827 - Realizar a aquisição de semoventes para o canil e para o esquadrão de cavalaria da PMRN Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 32 Açu/Mossoró 12 Total 44
+
+Iniciativas 01082 - Ampliação, formação e qualificação do quadro de servidores da PMRN
+
+01083 - Ampliação da frota de veículos da PMRN
+
+01119 - Ampliação do parque bélico da PMRN, incluindo a aquisição de armamento letal e menos letal
+
+01124 - Informatização de unidades da PMRN
+
+01127 - Modernização do sistema de comunicação da PMRN
+
+01134 - Construção, reforma e ampliação das instalações físicas das unidades hospitalares da PMRN
+
+01137 - Aparelhamento e informatização de unidades hospitalares da PMRN
+
+01139 - Reaparelhamento de unidades da PMRN
+
+01142 - Construção, reforma e ampliação das instalações físicas de unidades da PMRN
+
+01164 - Criação e fortalecimento de núcleos de assistência jurídica, psicológica e social, visando o bem estar do público interno da instituição
+
+01259 - Promoção e realização de eventos institucionais e comemorativos relacionados as datas cívicas e de celebração da PMRN
+
+Objetivo 0176 - Melhorar o acesso e a qualidade dos serviços da Segurança em conformidade com o acordo de empréstimo do Banco Mundial para o programa RN Sustentável.
+
+Órgão: 19000 - Secretaria de Estado do Planejamento e das Finanças
+
+Meta 0492 - Digitalizar o acervo de identificação do cidadão Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0494 - Fortalecer ações de prevenção a violência (Programa de Resistência às Drogas – PROERD e Coordenadoria de Defesa dos Direitos das Unidade Medida Unidade Mulheres e Minorias – CODIMM)
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Meta 0495 - Equipar as unidades de segurança pública (delegacias, postos policiais, batalhões) Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 200 Total 200
+
+Meta 0496 - Fortalecer o Centro Integrado de Operações de Segurança Pública (CIOSP) Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Açu/Mossoró 1 Total 2
+
+Iniciativas 00742 - Fortalecimento da gestão de segurança pública - RN SUSTENTÁVEL
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0169 - Melhorar a infraestrutura de Tecnologia da Informação do Sistema de Segurança Pública, através da modernização e da implementação de ações integradas, visando promover o uso da inteligência e da tecnologia como diferencial estratégico.
+
+Órgão: 21000 - Secretaria de Estado da Segurança Pública e da Defesa Social
+
+Meta 0430 - Ampliar a oferta de internet nos municípios da Região Metropolitana de Natal, considerando o adequado funcionamento para as unidades de Unidade Medida Unidade Segurança Pública
+
+Território 2016-2019 Terras Potiguaras 5 Agreste Litoral Sul 4 Potengi 1 Mato Grande 2 Total 12
+
+Meta 0636 - Adquirir equipamentos de Tecnologia da Informação para 344 unidades do Sistema de Segurança Pública Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 94 Sertão Central, Cabugi e Litoral Norte 17 Agreste Litoral Sul 35 Trairi 19 Potengi 14 Seridó 42 Alto Oeste 39 Açu/Mossoró 35 Mato Grande 23 Sertão do Apodi 26 Total 344
+
+Iniciativas 00722 - Modernização e ampliação da infraestrutura de comunicação de dados da Segurança Pública, incluindo a aquisição de equipamentos para dar suporte a expansão do Sistema de Telecomunicações e de informações 01019 - Informatização e ampliação da estrutura tecnológica, incluindo aquisições de equipamentos de TI para atender as unidades do sistema de Segurança Pública (SESED, Polícia Militar, Polícia Civil, Corpo de Bombeiros Militar e ITEP)
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0249 - Aprimorar a atuação das forças de Segurança Pública, fortalecendo o sistema através da adoção de medidas concretas e sistemáticas de integração entre os Órgãos de Segurança Pública, na busca pela redução dos Crimes Violentos Letais Intencionais – CVLI.
+
+Órgão: 21000 - Secretaria de Estado da Segurança Pública e da Defesa Social
+
+Meta 0738 - Implantar programa de reaparelhamento contínuo do aparato de Segurança Pública Estadual Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 94 Sertão Central, Cabugi e Litoral Norte 17 Agreste Litoral Sul 35 Trairi 19 Potengi 14 Seridó 42 Alto Oeste 39 Açu/Mossoró 35 Mato Grande 23 Sertão do Apodi 26 Total 344
+
+Meta 0747 - Ampliar o programa de Áreas Integradas de Segurança Pública para todo o Estado Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 17 Sertão Central, Cabugi e Litoral Norte 1 Agreste Litoral Sul 1 Trairi 1 Potengi 1 Seridó 2 Alto Oeste 2 Açu/Mossoró 3 Mato Grande 1 Sertão do Apodi 1 Total 30
+
+Meta 0748 - Ampliar o Programa Educacional de Resistência às Drogas (PROERD) de 52 municípios atendidos para todo o Estado Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 115 Total 115
+
+Meta 0928 - Aprimorar as normas de organização e funcionamento das instituições do Sistema Estadual de Segurança Pública Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 5 Total 5
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 01053 - Recomposição do efetivo das forças de Segurança Pública (Polícias Militar e Civil, Corpo de Bombeiros Militar e ITEP) e estruturação do quadro administrativo da SESED, através de concurso público, aplicando formação e capacitação continuada aos agentes públicos, primando pela integração e intersetorialidade das ações 01054 - Reaparelhamento e modernização das unidades de Segurança Pública, incluindo a aquisição de equipamentos, materiais e mobiliários
+
+01055 - Modernização, manutenção, gerenciamento e adequação da frota de veículos
+
+01056 - Aquisição de aeronave para subsidiar as ações integradas do Sistema de Segurança Pública
+
+01057 - Aquisição de material bélico para o Sistema de Segurança Pública
+
+01058 - Construção e reforma das unidades operacionais, administrativas, da ouvidoria geral e do hangar para aeronave
+
+01059 - Fortalecimento da gestão democrática do Sistema de Segurança Pública e operacionalização dos Conselhos Comunitários de Segurança
+
+01062 - Fortalecimento e operacionalização das Áreas Integradas de Segurança Pública AISP
+
+01064 - Implantação e fortalecimento das ações de interiorização da Ouvidoria Geral da SESED - RN
+
+01067 - Construção da sede da Segurança Pública e do Centro Integrado de Formação de profissionais
+
+01068 - Fortalecimento e operacionalização do PROERD, incluindo a ampliação do Ronda Escolar e o dimensionamento do quadro funcional
+
+01308 - Elaboração e implementação de projetos de adequação da estrutura administrativa dos órgãos que compõe o Sistema Estadual de Segurança Pública (SESED, Policias Militar e Civil, Corpo de Bombeiros Militar e ITEP) 01309 - Elaboração e implementação dos projetos para aprimorar as normas de organização e procedimentos das instituições de Segurança Pública
+
+01312 - Elaboração e implementação do projeto de mapeamento e melhoria de processos das instituições do Sistema de Segurança Pública
+
+01329 - Ampliação e fortalecimento do Ronda Cidadã
+
+01508 - Articulação institucional para prevenção, repressão, responsabilização e atendimento às mulheres e minorias vítimas de violência
+
+Objetivo 0285 - Fomentar ações de promoção e valorização social da Polícia Civil, promovendo o resgate da autoimagem institucional com foco na defesa da cidadania, dos direitos humanos e da participação efetiva e solidária da comunidade para promoção da paz social.
+
+Órgão: 21102 - Polícia Civil
+
+Meta 1028 - Elaborar e implementar o Plano de Marketing Institucional da Polícia Civil, abrangendo a comunicação interna e externa da instituição Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1029 - Realizar pesquisa de satisfação do cidadão para avaliação da prestação dos serviços da Polícia Civil, em 100% dos territórios Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Meta 1030 - Elaborar e implementar programa educativo de sensibilização sobre as ações da Polícia Civil e de prevenção à violência em 20 escolas públicas Unidade Medida Unidade estaduais
+
+Território 2016-2019 Rio Grande do Norte 20 Total 20
+
+Meta 1031 - Criar e implantar Programa de Polícia Civil Comunitária Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Iniciativas 01376 - Elaboração e institucionalização de programas para divulgação da missão e da atuação da Polícia Civil junto às comunidades, às escolas e aos grupos sociais organizados
+
+01378 - Criação e integração de ações policiais e de aproximação comunitária, especialmente no tocante às Áreas Integradas de Segurança Pública (AISP)
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0286 - Promover a valorização da força de trabalho da Polícia Civil na perspectiva da instituição de uma polícia cidadã com foco na melhoria da qualidade do serviço prestado à sociedade.
+
+Órgão: 21102 - Polícia Civil
+
+Meta 1038 - Promover a capacitação e requalificação para 100% dos servidores da Polícia Civil Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1039 - Realizar a formação de 1.584 concursados para atuar na Polícia Civil Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1040 - Criar e implantar Programa de Qualidade de Vida e Saúde no Trabalho (PQVST) na Polícia Civil Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 01382 - Ampliação e incremento do quadro de servidores da Polícia Civil através de concurso público para as atividades meio e fim
+
+01383 - Qualificação permanente da força de trabalho com ênfase nas atividades administrativas e operacionais da Polícia Civil
+
+01384 - Fomento à pesquisa cientifica e à valorização dos servidores através da meritocracia, com avaliação de desempenho, aplicação de recompensas, identificação, treinamento e aproveitamento das lideranças na Polícia Civil 01385 - Promoção e estímulo às atividades de bem-estar e de qualidade de vida do servidor
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0287 - Fortalecer e modernizar a estrutura administrativa e operacional da Polícia Civil por meio da reestruturação e do aperfeiçoamento das unidades, visando a melhoria da ambiência de trabalho e da oferta dos serviços à sociedade.
+
+Órgão: 21102 - Polícia Civil
+
+Meta 1043 - Construir e implantar a Cidade da Polícia Civil Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 1044 - Construir 28 delegacias de polícia Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 12 Sertão Central, Cabugi e Litoral Norte 2 Agreste Litoral Sul 2 Trairi 2 Seridó 3 Alto Oeste 1 Açu/Mossoró 3 Mato Grande 2 Sertão do Apodi 1 Total 28
+
+Meta 1046 - Reformar 42 delegacias de polícia Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 12 Sertão Central, Cabugi e Litoral Norte 3 Agreste Litoral Sul 7 Trairi 1 Potengi 3 Seridó 4 Alto Oeste 3 Açu/Mossoró 2 Mato Grande 3 Sertão do Apodi 4 Total 42
+
+Meta 1047 - Criar e aparelhar 30 unidades operacionais e administrativas Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 22 Seridó 2 Açu/Mossoró 3 Mato Grande 1 Sertão do Apodi 2 Total 30
+
+Meta 1049 - Reaparelhar 100% das unidades operacionais e administrativas existentes Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1053 - Adquirir 6.800 unidades de equipamentos bélicos para recomposição e ampliação do parque da Polícia Civil Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 680 Sertão Central, Cabugi e Litoral Norte 680
+
+Demonstrativo de Programas Temáticos PPA Agreste Litoral Sul 680 Trairi 680 Potengi 680 Seridó 680 Alto Oeste 680 Açu/Mossoró 680 Mato Grande 680 Sertão do Apodi 680 Total 6.800
+
+Meta 1054 - Elaborar e implantar o Plano Diretor de Tecnologia da Informação e Comunicação da Polícia Civil (PDTI) Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1055 - Adquirir 200 veículos automotores para apoio administrativo e operacional das unidades da Polícia Civil Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 97 Sertão Central, Cabugi e Litoral Norte 6 Agreste Litoral Sul 11 Trairi 4 Potengi 4 Seridó 22 Alto Oeste 9 Açu/Mossoró 30 Mato Grande 8 Sertão do Apodi 9 Total 200
+
+Meta 1056 - Elaborar o diagnóstico situacional da Polícia Civil, no tocante ao levantamento de estrutura física e tecnológica, de pessoal e mapeamento dos Unidade Medida Unidade processos e rotinas internas
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1057 - Adquirir 250 equipamentos de rádio e comunicação para as unidades da Polícia Civil Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 28 Sertão Central, Cabugi e Litoral Norte 24 Agreste Litoral Sul 24 Trairi 24 Potengi 24 Seridó 27 Alto Oeste 24 Açu/Mossoró 27 Mato Grande 24 Sertão do Apodi 24 Total 250
+
+Iniciativas 01386 - Construção, reforma e ampliação de unidades administrativas e operacionais da Polícia Civil
+
+01387 - Modernização, ampliação e controle da frota de veículos da Polícia Civil
+
+01388 - Aparelhamento e reaparelhamento das unidades que compõem a Polícia Civil
+
+01389 - Reaparelhamento e ampliação do parque bélico policial, de segurança pessoal e demais insumos
+
+01390 - Modernização do sistema de comunicação da Polícia Civil
+
+01391 - Ampliação do sistema de tecnologia da informação da Polícia Civil
+
+01392 - Padronização de procedimentos e fluxos de trabalho das unidades administrativas e operacionais da Polícia Civil
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0284 - Melhorar o desempenho das atividades técnico-científico, através da ampliação, modernização e melhoria da infraestrutura física e de pessoal do ITEP, bem como da formação e aperfeiçoamento dos profissionais, visando assegurar à população um melhor atendimento.
+
+Órgão: 21131 - Instituto Técnico Científico de Polícia
+
+Meta 1019 - Aparelhar e informatizar Unidades do ITEP Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Seridó 1 Alto Oeste 1 Açu/Mossoró 1 Total 4
+
+Meta 1023 - Construir, reformar e ampliar unidades do ITEP Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Seridó 1 Alto Oeste 1 Açu/Mossoró 1 Total 4
+
+Meta 1025 - Ampliar a frota de veículos Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 14 Seridó 2 Alto Oeste 6 Açu/Mossoró 6 Total 28
+
+Meta 1026 - Qualificar e aperfeiçoar o quadro de Recursos Humanos Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 450 Seridó 85 Alto Oeste 85 Açu/Mossoró 115 Total 735
+
+Iniciativas 01373 - Ampliação da estrutura tecnológica, com aquisições de computadores, impressoras, acessórios e demais equipamentos de TI para atender as unidades do ITEP
+
+01374 - Construção, reforma e ampliação de unidades do ITEP
+
+01375 - Modernização e adequação da frota de veículos do ITEP
+
+01377 - Qualificação, aperfeiçoamento e valorização do quadro de servidores do ITEP
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0039 - Racionalizar as atividades operacionais do sistema penitenciário, através de sua estruturação física, da garantia da valorização e profissionalização da carreira do servidor, da implantação do estatuto e do plano de cargos, carreira e salários dos agentes penitenciários, do acesso as novas tecnologias e materiais, visando maior eficiência e ao sistema penitenciário.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0002 - Construir 07 Unidades Prisionais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 2 Potengi 2 Seridó 1 Alto Oeste 1 Açu/Mossoró 1 Total 7
+
+Meta 0006 - Reformar 01 imóvel dos grupos especiais da execução penal Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0007 - Equipar unidades administrativas prisionais Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0008 - Implantar monitoramento áudio/visual em todas as unidades prisionais Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 32 Total 32
+
+Meta 0009 - Renovar frota de veículos operacionais do sistema prisional Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0010 - Aparelhar as unidades prisionais e os grupos especiais, com Kits básicos de equipamentos de proteção individual para os servidores Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 40 Total 40
+
+Meta 0011 - Disponibilizar material bélico, em quantidade adequada, para 100% dos agentes penitenciários em serviço Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0013 - Viabilizar aquisição de fardamento padrão “vestuário e calçado”, para os servidores penitenciários Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 3.660 Total 3.660
+
+Meta
+
+Demonstrativo de Programas Temáticos PPA 0088 - Implantar em 100% o estatuto e o plano de cargo, carreira e salários dos agentes penitenciários Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0089 - Proporcionar a qualificação continuada dos agentes penitenciários e servidores da SEJUC Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0090 - Criar 150 vagas para técnicos penitenciários Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 150 Total 150
+
+Meta 1312 - Gerar vagas no sistema prisional Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 3.000 Total 3.000
+
+Iniciativas 00005 - Regularização de escrituras de terrenos para construção de unidades prisionais
+
+00006 - Regularização de licenças ambientais
+
+00007 - Formalização de parcerias institucionais
+
+00030 - Estruturação de unidades prisionais
+
+00031 - Mapeamento de unidades prisionais
+
+00032 - Realização de parcerias e convênios
+
+00033 - Aparelhamento tecnológico em comunicação áudio/visual para unidades prisionais
+
+00097 - Ampliação das ações de logística e renovação de frota de veículos do sistema penitenciário
+
+00111 - Aperfeiçoamento técnico e enquadramento dos agentes penitenciários nos respectivos níveis
+
+00112 - Melhoramento das condições de trabalho do servidor do sistema penitenciário
+
+01541 - Aquisição de uniformes padrão para os agentes do sistema penitenciário
+
+Objetivo 0252 - Planejar, coordenar e promover a proteção civil permanente contra desastres com medidas que visem evitar, prevenir e/ou minimizar os danos e prejuízos, socorrer e assistir as populações atingidas, mitigando os riscos e perdas materiais, bem como o restabelecimento do bem estar social.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0757 - Prevenir e mitigar emergências e desastres Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0759 - Construir, aparelhar e modernizar as instalações físicas da proteção e defesa civil Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 01079 - Atividades de prevenção, mitigação e respostas aos desastres
+
+01081 - Construção da sede da Proteção de Defesa Civil
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0271 - Aperfeiçoar o atendimento aos usuários e proporcionar satisfação e condições de trabalho aos servidores através da valorização e modernização da estrutura, visando à prestação do serviço público com qualidade.
+
+Órgão: 25203 - Departamento Estadual de Trânsito
+
+Meta 0997 - Construir, reformar e ampliar as instalações físicas do DETRAN/RN - sede e suas unidades Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 21 Total 21
+
+Meta 0998 - Reaparelhar o DETRAN/RN - sede e suas unidades Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 21 Total 21
+
+Meta 0999 - Adquirir, implantar e atualizar Sistemas de Informação do DETRAN/RN - sede e suas unidades Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 5 Total 5
+
+Meta 1000 - Implementar o processo de inovação organizacional no DETRAN/RN - sede e suas unidades Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1001 - Capacitar e qualificar servidores do DETRAN/RN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 750 Total 750
+
+Meta 1002 - Promover eventos para os servidores e cidadãos visando melhorar a prestação do serviço Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 16 Total 16
+
+Iniciativas 01354 - Reestruturação física do DETRAN/RN sede e suas unidades, incluindo a reforma e a ampliação da Central de Atendimento
+
+01355 - Reaparelhamento do DETRAN/RN sede e suas unidades e ampliação da frota de veículos
+
+01356 - Modernização da Tecnologia da Informação, incluindo a aquisição de sistemas para o DETRAN/RN sede e suas unidades
+
+01358 - Implementação do processo de inovação organizacional, incluindo o aperfeiçoamento do atendimento no DETRAN/RN sede e suas unidades, bem como a padronização e normatização do processo e a reativação do projeto ouvidoria Itinerante 01359 - Capacitação, qualificação e valorização dos servidores do DETRAN/RN, incluído a reestruturação do Plano de Cargos, Funções e Retribuições (PCFR)
+
+01360 - Realização de eventos para servidores e cidadãos, visando proporcionar a qualidade dos serviços prestados
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0272 - Promover a segurança do trânsito, através da melhoria da educação, da fiscalização e do sistema viário, visando à fluidez, à redução dos índices de acidentes e às condições adequadas das vias de trânsito.
+
+Órgão: 25203 - Departamento Estadual de Trânsito
+
+Meta 0884 - Realizar ações de fiscalização de veículos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1.346 Total 1.346
+
+Meta 1008 - Realizar ações de educação de trânsito Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 330 Total 330
+
+Meta 1009 - Implementar e manter o sistema de sinalização horizontal nas vias públicas em condições adequadas e seguras Metro Quadrado Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 480.000 Total 480.000
+
+Meta 1313 - Implementar e manter o sistema de sinalização vertical, semafórica e eletrônica nas vias públicas em condições adequadas e seguras Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 24.442 Total 24.442
+
+Iniciativas 01366 - Intensificação de operações e fiscalização do trânsito
+
+01368 - Implantação e desenvolvimento de ações educativas para os diversos seguimentos da sociedade
+
+01370 - Implementação e manutenção do sistema de sinalização nas vias públicas
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0021 - Melhorar o desempenho das atividades do Corpo de Bombeiros Militar, criando condições logísticas, administrativas, de infraestrutura e recursos humanos, visando fortalecer a proteção da vida, do patrimônio e do meio ambiente para o bem estar da sociedade.
+
+Órgão: 32000 - Corpo de Bombeiros Militar
+
+Meta 0094 - Realizar a “corrida Soldado do fogo” anualmente em comemoração ao dia nacional dos Bombeiros Militares Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 4 Total 4
+
+Meta 0095 - Realizar a “caminhada da mãe potiguar” anualmente em comemoração do dia da mulher e da política de doação de leite materno Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 4 Total 4
+
+Meta 0096 - Operacionalizar o Programa Bombeiro Mirim Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Seridó 1 Total 2
+
+Meta 0100 - Promover atividades de musicalidade no âmbito do Programa Bombeiro Mirim Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Seridó 1 Total 2
+
+Meta 0113 - Realizar o processo seletivo para curso de formação de Oficiais Bombeiros Militar Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0114 - Implementar o curso de formação dos Militares do quadro de Saúde Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0115 - Implementar o curso de formação dos Militares do quadro de Oficiais Administrativo Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0116 - Implementar o curso de aperfeiçoamento de Oficiais Bombeiros Militar Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0405 - Implantar, gerenciar e manter Tecnologia de Sistemas de Informação em unidades do Corpo de Bombeiros Militar Unidade Unidade Medida
+
+Demonstrativo de Programas Temáticos PPA Território 2016-2019 Terras Potiguaras 6 Seridó 1 Alto Oeste 1 Açu/Mossoró 1 Total 9
+
+Meta 0509 - Aparelhar unidades do Corpo de Bombeiros Militar Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 6 Seridó 1 Alto Oeste 1 Mato Grande 1 Total 9
+
+Meta 1314 - Construir o parque aquático no quartel do Comando Geral do Corpo de Bombeiro Militar Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Iniciativas 00121 - Construção e Reforma de Unidades Militares, Incluindo a Construção do Parque Aquático no Quartel do Comando Geral do Corpo de Bombeiros Militar
+
+00122 - Aprovação da Lei de organização básica do CBM/RN
+
+00123 - Reaparelhamento de Unidades do Corpo de Bombeiros Militar
+
+00129 - Ampliação da Frota de Veículos
+
+00135 - Realização de atividades desportivas e de lazer
+
+00145 - Operacionalização do programa Bombeiro Mirim
+
+00157 - Formação, requalificação e aperfeiçoamento dos recursos humanos
+
+00713 - Levantamento, implantação e gerenciamento da estrutura de Tecnologia e de Sistemas da Informação nas Unidades do Corpo de Bombeiros Militar
+
+18. ASSISTÊNCIA SOCIAL E TRABALHO
+
+A assistência social é um dever do Estado e direito de todos os cidadãos. Os pilares da assistência social no Brasil é a Constituição Federal de 1988 e a Lei Orgânica da Assistência Social (Loas), onde está determinado que a assistência social seja um sistema descentralizado e participativo, composto pelo poder público e pela sociedade civil.
+
+A oferta da assistência social em todo o país é organizada pelo Sistema único de Assistência Social (Suas). As ações da Suas são baseadas nas orientações da nova Política Nacional de Assistência Social (PNAS), aprovada pelo Conselho Nacional de Assistência Social (CNAS) em 2004. A gestão da assistência social brasileira é acompanhada e avaliada tanto pelo poder público quanto pela sociedade civil, igualmente representados nos conselhos nacional do Distrito Federal, estaduais e municipais de assistência social. Esse controle social consolida um modelo de gestão transparente em relação às estratégias e à execução da política.
+
+A assistência social é uma das vertentes da seguridade social, que compõe um conjunto integrado de ações e iniciativas destinadas a assegurar os direitos relativos à saúde e previdência social, além da assistência social.
+
+Segundo a constituição federal, a assistência social será prestada a todos os cidadãos, independentemente de contribuição à seguridade social, e tem como principais objetivos a proteção familiar, materna, infância, adolescência e velhice; amparo às crianças e adolescentes carentes; e promoção da integração ao mercado de trabalho.
+
+Para garantir a assistência social para a população brasileira, o Governo Federal criou vários programas sociais, com destaque para o Bolsa Família. O programa do Bolsa Família teve papel relevante para a redução da pobreza no Nordeste e ampara muitas famílias.
+
+O Rio Grande do Norte, em 2013, tinha 32% das famílias do Estado como beneficiárias do Bolsa Família, apresentando a menor proporção de famílias atendidas no Nordeste. Em alguns estados, como o Maranhão, a proporção de famílias beneficiárias foi equivalente a 49% do total, sendo a média brasileira igual a 21%.
+
+Fonte: Tabelas Sociais - Cadastro Único.
+
+O Estado do Rio Grande do Norte, além dos programas do Governo Federal, também oferece programas para apoiar a população potiguar, como o Café do Trabalhador, que beneficia diariamente cerca de 900 trabalhadores com o café da manhã ao preço de R$ 0,50 (cinquenta centavos). O cardápio varia entre café, pão, leite, bolacha, frutas e produtos da terra. O café é servido nas seguintes Centrais do Trabalhador: Natal (Cidade da Esperança), João Câmara, Mossoró, Ceará-Mirim, Angicos e Assu.
+
+Os programas de assistência social e apoio ao trabalho, são extremamente importantes para garantir mínimas condições de vida à população mais desassistida da sociedade, auxiliando no combate à pobreza e na redução da desigualdade social. A assistência social adequada à população potiguar deve ser uma das prioridades da agenda do governo do Rio Grande do Norte, em especial nos próximos quatro anos, para reduzir os impactos da crise econômica sobre a população mais necessitada do Estado.
+
+Demonstrativo de Programas Temáticos PPA
+
+0018 - ASSISTÊNCIA SOCIAL E TRABALHO
+
+Diretriz 06 - PROMOÇÃO DO BEM-ESTAR DO POTIGUAR ATRAVÉS DA GARANTIA AO ACESSO AOS DIREITOS FUNDAMENTAIS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0109 - Valor de benefícios concedidos pelo programa Bolsa Família Reais 30/01/2013 637.742.452,00
+
+0110 - Taxa de desemprego na população Percentual 30/07/2015 11,06
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 36.106.000,00 33.122.000,00 69.228.000,00
+
+Recurso Federal 71.600.000,00 6.548.691,00 78.148.691,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 3.765.000,00 0,00 3.765.000,00
+
+TOTAL 111.471.000,00 39.670.691,00 151.141.691,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0189 - Subsidiar a formulação das Políticas Públicas para Criança e Adolescente, através da estruturação de políticas, planos, projetos e diálogos com o Sistema de Garantia de Direitos visando a efetivação dos Direitos.
+
+Órgão: 26000 - Secretaria de Estado do Trabalho, da Habitação e da Assistência Social
+
+Meta 0545 - Realizar um Diagnóstico Situacional de atendimento aos Direitos da Criança e do Adolescente Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0546 - Fomentar a elaboração de planos para Criança e Adolescente Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 3 Total 3
+
+Meta 0551 - Realizar campanha de sensibilização sobre Direitos da Criança e do Adolescente Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0554 - Apoiar, realizar e participar das Conferências Municipais, Regionais , Estadual e Nacional sobre Direitos da Criança e do Adolescente Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 179 Total 179
+
+Meta 0557 - Capacitar Conselheiros de Direitos Tutelares e Operadores do Sistema de Garantia dos Direitos da Criança e do Adolescente Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 6.000 Total 6.000
+
+Meta 0560 - Monitorar o funcionamento das instituições responsáveis pela execução do sistema de Garantia dos Direitos da Criança e do Adolescente Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 120 Total 120
+
+Meta 0564 - Criar Banco de Dados sobre o Sistema de Garantia dos Direitos da Criança e do Adolescente Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 00844 - Elaboração de Estudos e Pesquisas sobre o Sistema de Garantia dos Direitos da Criança e do Adolescente
+
+00846 - Fortalecimento e monitoramento das estâncias de atendimento à Criança e ao Adolescente
+
+00850 - Apoio, realização, divulgação e mobilização de campanhas e conferências sobre o Sistema de Garantia dos Direitos da Criança e do Adolescente
+
+00855 - Mobilização e Gerenciamento das informações sobre o Sistema de Garantia dos Direitos da Criança e do Adolescente
+
+00856 - Qualificação dos operadores do Sistema de Garantia dos Direitos da Criança e do Adolescente
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0201 - Implementar as políticas públicas de emprego e de combate ao desemprego, oferecendo atendimento e orientação ao trabalhador jovem, com idade entre 16 a 29 anos, e famílias de baixa renda, com vistas a facilitar o acesso ou a reintegração ao mercado de trabalho.
+
+Órgão: 26000 - Secretaria de Estado do Trabalho, da Habitação e da Assistência Social
+
+Meta 0597 - Inserir trabalhadores no mercado de trabalho Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 6.319 Agreste Litoral Sul 482 Trairi 406 Seridó 1.239 Alto Oeste 708 Açu/Mossoró 1.906 Mato Grande 537 Sertão do Apodi 403 Total 12.000
+
+Meta 0605 - Captar vagas de empregos no Estado Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 3.694 Agreste Litoral Sul 1.634 Trairi 4.009 Seridó 1.780 Alto Oeste 2.840 Açu/Mossoró 2.026 Mato Grande 1.602 Sertão do Apodi 12.715 Total 30.300
+
+Meta 0614 - Inserir jovens com idade entre 16 a 24 anos no Programa Primeiro Emprego Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 2.400 Seridó 600 Açu/Mossoró 1.000 Total 4.000
+
+Meta 0628 - Qualificar e requalificar trabalhadores para o mercado de trabalho Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1.600 Agreste Litoral Sul 800 Trairi 800 Seridó 4.000 Alto Oeste 800 Açu/Mossoró 4.000 Mato Grande 800 Sertão do Apodi 3.200 Total 16.000
+
+Meta 0639 - Qualificar jovens com idade entre 18 e 29 anos para o mercado de trabalho Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 7.000 Sertão Central, Cabugi e Litoral Norte 1.400 Agreste Litoral Sul 1.400 Trairi 1.400 Seridó 7.000 Alto Oeste 1.400 Açu/Mossoró 5.600
+
+Demonstrativo de Programas Temáticos PPA Mato Grande 1.400 Sertão do Apodi 1.400 Total 28.000
+
+Meta 0646 - Manter e operacionalizar postos de atendimento do SINE/RN Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 7 Agreste Litoral Sul 2 Trairi 1 Seridó 2 Alto Oeste 1 Açu/Mossoró 2 Mato Grande 1 Sertão do Apodi 1 Total 17
+
+Meta 0652 - Implantar postos de atendimento do SINE/RN Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Sertão Central, Cabugi e Litoral Norte 1 Alto Oeste 1 Total 3
+
+Meta 0657 - Manter e operacionalizar as Centrais do Trabalhador Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Sertão Central, Cabugi e Litoral Norte 1 Açu/Mossoró 2 Mato Grande 2 Total 6
+
+Meta 0661 - Implantar novas Centrais do Trabalhador Unidade Unidade Medida
+
+Território 2016-2019 Sertão Central, Cabugi e Litoral Norte 1 Agreste Litoral Sul 1 Trairi 1 Seridó 1 Alto Oeste 1 Sertão do Apodi 1 Total 6
+
+Iniciativas 01526 - Criação de programa sistemático e permanente de qualificação e requalificação da equipe técnica
+
+01527 - Estabelecimento de parcerias junto às empresas visando o aumento da captação de vagas
+
+01528 - Aumento do número de servidores na equipe técnica
+
+01529 - Modernização das instalações e equipamentos dos postos de atendimento e do Programa Central do Trabalhador
+
+01530 - Viabilização de incentivo fiscal para as empresas que aderirem ao programa específico para jovens
+
+01531 - Realização de intermediação e concessão de crédito para o trabalhador
+
+01532 - Elaboração de cadastro com o perfil de jovens com idade entre 16 e 19 anos
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0227 - Garantir a ocupação, trabalho e renda para que o artesão do RN se torne conhecido e reconhecido como protagonista de sua arte do saber fazer, através da Escola do Artesão, revitalização das centrais de comercialização e participação em feiras estaduais, nacionais e internacionais para escoamento dos produtos artesanais.
+
+Órgão: 26000 - Secretaria de Estado do Trabalho, da Habitação e da Assistência Social
+
+Meta 0673 - Implementar a Escola do Artesão Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0686 - Revitalizar e modernizar equipamentos de comercialização Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 2 Agreste Litoral Sul 1 Seridó 2 Açu/Mossoró 2 Total 7
+
+Meta 0698 - Realizar fóruns do artesanato potiguar nos pólos territorias do estado do RN Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Sertão Central, Cabugi e Litoral Norte 1 Agreste Litoral Sul 1 Trairi 1 Potengi 1 Seridó 1 Alto Oeste 1 Açu/Mossoró 1 Mato Grande 1 Sertão do Apodi 1 Total 10
+
+Iniciativas 01007 - Realização de ações para o desenvolvimento do artesanato no Rio Grande do Norte
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0270 - Consolidar o SUAS por meio da efetivação de ações de assessoramento, monitoramento e avaliação, da estruturação e implementação da Gestão do Trabalho e Educação Permanente e da Vigilância Socioassistencial, promovendo a profissionalização, estruturação do trabalho, valorização dos trabalhadores do SUAS, a disseminação de informações territoriais e o aprimoramento do provimento e do controle social
+
+Órgão: 26000 - Secretaria de Estado do Trabalho, da Habitação e da Assistência Social
+
+Meta 0880 - Realizar mapeamento socioterritorial das áreas de vulnerabilidade e risco social Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Sertão Central, Cabugi e Litoral Norte 1 Agreste Litoral Sul 1 Trairi 1 Potengi 1 Seridó 1 Alto Oeste 1 Açu/Mossoró 1 Mato Grande 1 Sertão do Apodi 1 Total 10
+
+Meta 0897 - Cofinanciar os serviços, programas, projetos e benefícios para o aprimoramento da gestão, em âmbito regional e local Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0903 - Realizar Conferências Estaduais, sendo duas da Assistência Social (2017 e 2019), duas da Pessoa com Deficiência (2017 e 2019) e uma da Unidade Medida Unidade Pessoa Idosa (2019)
+
+Território 2016-2019 Rio Grande do Norte 5 Total 5
+
+Meta 0910 - Implementar a Educação Permanente do SUAS e estruturar as ações da Gestão do Trabalho, no âmbito do SUAS Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Meta 1316 - Estruturar e implementar a gestão da Política Estadual do Idoso Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 01302 - Implementação e efetivação do SUAS
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0277 - Ampliar e qualificar os serviços da proteção social especial estruturando a rede de média e alta complexidade nas questões: gênero, racismo, prevenção ao uso de drogas, abuso e exploração sexual de crianças e adolescentes, jovens e mulheres em situação de violência, pessoas com deficiência, em situação de rua e povos originários e tradicionais, em situação de risco social e violação de direitos.
+
+Órgão: 26000 - Secretaria de Estado do Trabalho, da Habitação e da Assistência Social
+
+Meta 0969 - Estruturar e implementar PAEFI/CREAS regionais, incluindo serviços para crianças e adolescentes, jovens, mulheres em situação de violência e Unidade Medida Unidade famílias
+
+Território 2016-2019 Rio Grande do Norte 6 Total 6
+
+Meta 1087 - Considerar, no atendimento dos programas, projetos e serviços, o recorte quanto aos povos indígenas, povos de matriz africana, quilombolas, Unidade Medida Unidade ciganos, pescadores e pescadoras artesanais e demais comunidades tradicionais
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 01330 - Expansão dos serviços socioassistenciais da proteção social especial de média e alta complexidade e execução do plano estadual de atendimento socioeducativo do RN, além da estruturação do órgão gestor do sistema socioeducativo, que será ligado a SETHAS, definindo suas competências e atribuições, respeitada a Lei do SINASE
+
+Objetivo 0278 - Monitorar e avaliar a gestão do programa Bolsa Família e cadastro único nos 167 municípios do RN, promovendo o acesso das famílias e indivíduos aos serviços nas áreas da saúde, educação e da assistência social, por meio do cumprimento das condicionalidades, contribuindo para a redução da pobreza extrema no Estado, garantindo melhoria das condições de subsistência e elevação do padrão de vida.
+
+Órgão: 26000 - Secretaria de Estado do Trabalho, da Habitação e da Assistência Social
+
+Meta 0981 - Acompanhar, monitorar, avaliar e assessorar a gestão municipal do programa Bolsa Família e cadastro único Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Sertão Central, Cabugi e Litoral Norte 1 Agreste Litoral Sul 1 Trairi 1 Potengi 1 Seridó 1 Alto Oeste 1 Açu/Mossoró 1 Mato Grande 1 Sertão do Apodi 1 Total 10
+
+Iniciativas 01357 - Acompanhamento e monitoramento do Programa Bolsa Família no Estado do Rio Grande do Norte, observando a intersetorialidade da gestão e das condicionalidades
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0149 - Executar no ambito do Estado a Politica de Atendimento Socioeducativo ao adolescentes acusados e ou autores de atos infracional, com privação e restrição de liberdade, e os serviços de internação provisória e atendimneto inicial garantindo sua proteção integral e seus direitos fundamentais, preconizados na Lei 8.069/90 - ECA e a Lei 12.594/2012 - SINASE
+
+Órgão: 26202 - Fundação Estadual da Criança e do Adolescente
+
+Meta 0377 - Atender à Familia e ao Adolescente Egresso Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 35.904 Sertão Central, Cabugi e Litoral Norte 960 Agreste Litoral Sul 1.920 Seridó 14.016 Alto Oeste 960 Açu/Mossoró 16.896 Mato Grande 12.960 Total 83.616
+
+Meta 0424 - Proporcionar Atendimento Socioeducativo ao Adolescente Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 8.976 Sertão Central, Cabugi e Litoral Norte 240 Agreste Litoral Sul 480 Seridó 3.504 Alto Oeste 240 Açu/Mossoró 4.224 Mato Grande 3.240 Total 20.904
+
+Meta 0510 - Participar de Eventos de Aperfeicoamento Técnico Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 600 Total 600
+
+Meta 0519 - Realização de Eventos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 30 Total 30
+
+Meta 0523 - Monitorar e Avaliar os Programas de Atendimento Socioeducativo Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 264 Total 264
+
+Meta 0536 - Recuperar, Reformar e Ampliar Unidades de Atendimento Socioeducativo Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 23 Sertão Central, Cabugi e Litoral Norte 1 Agreste Litoral Sul 2 Seridó 9 Alto Oeste 0 Açu/Mossoró 15 Mato Grande 3 Total 53
+
+Meta
+
+Demonstrativo de Programas Temáticos PPA 0541 - Aparelhar e Reaparelhar de Unidades de Atendimento Socioeducativo Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 18 Sertão Central, Cabugi e Litoral Norte 2 Agreste Litoral Sul 3 Seridó 15 Alto Oeste 2 Açu/Mossoró 15 Mato Grande 6 Total 61
+
+Meta 0583 - Construir Unidades de Atendimento Socioeducativo Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Sertão Central, Cabugi e Litoral Norte 1 Agreste Litoral Sul 1 Seridó 4 Alto Oeste 1 Açu/Mossoró 0 Mato Grande 2 Total 10
+
+Meta 0596 - Operacionalizar Sistema Tecnológico de Informação Socioeducativa Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 22 Total 22
+
+Meta 0599 - Capacitar permanentemente os Servidores da Socioeducação Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4.400 Total 4.400
+
+Iniciativas 00973 - Construção, Recuperação, Reforma, Ampliação, Aparelhamento e Reaparelhamento de unidades de Atendimento
+
+00974 - Implementação, Operacionalização, Monitoramento e Avaliação dos Programas Socioeducativos
+
+00975 - Qualificação e Aperfeiçoamento do Servidor da Socioeducação
+
+00977 - Realização de Eventos e Promoção de Ações Socioeducativas
+
+00978 - Atualização de Banco de Dados e Operacionalização do Sistema de Informação Socioeducativa
+
+00979 - Melhoria e Operacionalização das Unidades de Atendimento Socioeducativo
+
+19. REFORMA AGRÁRIA E ASSUNTOS FUNDIÁRIOS
+
+O gerenciamento e a promoção do ordenamento da estrutura fundiária nacional são atribuições do Instituto Nacional de Colonização e Reforma Agrária (INCRA). Para tanto, a autarquia desenvolve trabalhos que abrangem estudos para o zoneamento do país em regiões homogêneas - do ponto de vista socioeconômico e das características da estrutura agrária.
+
+A Reforma Agrária, segundo o INCRA, é o conjunto de medidas para promover a melhor distribuição da terra mediante modificações no regime de posse e uso, a fim de atender aos princípios de justiça social, desenvolvimento rural sustentável e aumento de produção. Entre os projetos de reforma agrária, tem-se o assentamento de famílias em unidade agrícolas, que devem ser utilizadas como moradia e explorada para sustento, utilizando exclusivamente mão de obra familiar. No Estado do Rio Grande do Norte, até 2014 foram assentadas 28.803 famílias. Desde de 2011, o número de famílias assentas aumentaram no Estado, sendo em 2014 736 famílias assentadas.
+
+Fonte: Instituto Nacional de Colonização e Reforma Agrária.
+
+Entre as ações do Estado para a distribuição de terras e o apoio a população rural no combate à pobreza, destaca-se o Programa Nacional de Crédito Fundiário (PNCF), que oferece condições para que os trabalhadores rurais sem terra ou com pouca terra possam comprar um imóvel rural por meio de um financiamento. O recurso ainda é usado na estruturação da infraestrutura necessária para a produção e assistência técnica e extensão rural. Além da terra, o agricultor pode construir sua casa, preparar o solo, comprar implementos, ter acompanhamento técnico e o que mais for necessário para se desenvolver de forma independente e autônoma.
+
+Segundo dados do Ministério do desenvolvimento agrário, no Estado do Rio Grande do Norte já foram atendidos 114 municípios e 55.383 famílias pelo Programa Nacional de Crédito Fundiário.
+
+Apesar do considerável desempenho, ainda temos uma demanda represada relevante de famílias que buscam o acesso à terra por intermédio do PNCF, ou em acampamentos rurais identificados e monitorados pelo INCRA.
+
+Considerando esse cenário, entendemos que torna-se imprescindível promover o acesso à terra por intermédio do PNCF, outros programas e ações dos Governos Federal e Estadual, garantindo o controle social, observando a qualidade dos imóveis rurais adquiridos, a sua infraestrutura produtiva, de recursos hídricos, vias de acesso e energia, disponibilizando assistência técnica qualidade pública ou privada, tornando-se necessária a articulação de políticas públicas que impulsionem o desenvolvimento rural, tendo a reforma agrária como um dos pilares, ampliando e fortalecendo a agricultura familiar, gerando renda e ocupação no meio rural.
+
+Demonstrativo de Programas Temáticos PPA
+
+0019 - REFORMA AGRÁRIA E ASSUNTOS FUNDIÁRIOS
+
+Diretriz 06 - PROMOÇÃO DO BEM-ESTAR DO POTIGUAR ATRAVÉS DA GARANTIA AO ACESSO AOS DIREITOS FUNDAMENTAIS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0060 - Número de famílias atendidas pelo Programa de Crédito Fundiário Unidade 01/01/2014 53
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 6.000.000,00 920.000,00 6.920.000,00
+
+Recurso Federal 924.000,00 1.320.000,00 2.244.000,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 638.240,00 12.448.000,00 13.086.240,00
+
+TOTAL 7.562.240,00 14.688.000,00 22.250.240,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0030 - Implementar medidas técnicas, administrativas e jurídicas necessárias à regularização fundiária de assentamentos urbanos constituídos por imóveis construídos e comercializados pela COHAB-RN.
+
+Órgão: 16202 - Companhia de Processamento de Dados
+
+Meta 0077 - Regularizar Conjuntos Habitacionais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 28 Seridó 10 Alto Oeste 6 Açu/Mossoró 20 Total 64
+
+Iniciativas 00108 - Implementação de medidas necessárias à regularização fundiária de conjuntos habitacionais construidos e comercializados pela COHAB-RN.
+
+Objetivo 0202 - Instituir o Plano Estadual de Sucessão Rural para promover o acesso à terra e a inclusão social e produtiva da juventude rural
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0606 - Instituir o Plano de Sucessão Rural Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0610 - Realizar diagnóstico sobre a condição atual de acesso à terra, demandas e potencialidades da juventude rural nos diversos Territórios de Unidade Medida Unidade Identidade
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0613 - Firmar termos de cooperação com a União e instituições financeiras para o fomento de empreendimentos rurais e acesso ao crédito para jovens da Unidade Medida Unidade agricultura familiar
+
+Território 2016-2019 Rio Grande do Norte 8 Total 8
+
+Iniciativas 00987 - Elaborar e instituir o Plano Estadual de Sucessão Rural
+
+00988 - Ampliar os direitos sociais e econômicos da juventude rural e urbana nos territórios
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0037 - Promover o acesso à terra através do cadastro de terra, da regularização da malha fundiária e de ações que visem o desenvolvimento rural para trabalhadores e trabalhadoras rurais do Estado do Rio Grande do Norte.
+
+Órgão: 31000 - Secretaria de Estado de Assuntos Fundiários, Colonização e Reforma Agrária
+
+Meta 0135 - Conceder crédito fundiário para famílias potiguares através do PNCF Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 70 Sertão Central, Cabugi e Litoral Norte 240 Agreste Litoral Sul 170 Trairi 200 Potengi 190 Seridó 200 Alto Oeste 220 Açu/Mossoró 250 Mato Grande 200 Sertão do Apodi 340 Total 2.080
+
+Meta 0148 - Implantar projeto de infraestrutura produtiva nas áreas do PNCF Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 11 Sertão Central, Cabugi e Litoral Norte 31 Agreste Litoral Sul 22 Trairi 24 Potengi 22 Seridó 24 Alto Oeste 30 Açu/Mossoró 29 Mato Grande 25 Sertão do Apodi 42 Total 260
+
+Meta 0173 - Substituir e regularizar famílias nos quadros sociais das associações do PNCF Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 70 Sertão Central, Cabugi e Litoral Norte 70 Agreste Litoral Sul 70 Trairi 70 Potengi 70 Seridó 70 Alto Oeste 70 Açu/Mossoró 70 Mato Grande 70 Sertão do Apodi 70 Total 700
+
+Meta 0174 - Realizar a individualização dos projetos do PNCF Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 10 Sertão Central, Cabugi e Litoral Norte 40 Agreste Litoral Sul 10 Trairi 10 Potengi 30 Seridó 60 Alto Oeste 30 Açu/Mossoró 90 Mato Grande 60 Sertão do Apodi 110
+
+Demonstrativo de Programas Temáticos PPA Total 450
+
+Meta 0175 - Revitalizar antigos projetos do PNCF Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 5 Sertão Central, Cabugi e Litoral Norte 20 Agreste Litoral Sul 10 Trairi 5 Potengi 10 Seridó 30 Alto Oeste 5 Açu/Mossoró 45 Mato Grande 10 Sertão do Apodi 40 Total 180
+
+Meta 0205 - Implantar bibliotecas rurais nos territórios do Rio Grande do Norte pelo Programa Arca das Letras Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 40 Sertão Central, Cabugi e Litoral Norte 35 Agreste Litoral Sul 38 Trairi 38 Potengi 40 Seridó 40 Alto Oeste 36 Açu/Mossoró 40 Mato Grande 35 Sertão do Apodi 38 Total 380
+
+Meta 0227 - Realizar a regularização fundiária Unidade Unidade Medida
+
+Território 2016-2019 Agreste Litoral Sul 6.363 Trairi 3.335 Potengi 2.981 Seridó 2.159 Alto Oeste 3.557 Açu/Mossoró 1.608 Mato Grande 1.726 Sertão do Apodi 3.271 Total 25.000
+
+Meta 0328 - Capacitar famílias dos assentamentos rurais/áreas do crédito fundiário com foco nas mulheres rurais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 2.000 Sertão Central, Cabugi e Litoral Norte 2.000 Agreste Litoral Sul 2.000 Trairi 2.000 Potengi 2.000 Seridó 2.000 Alto Oeste 2.000 Açu/Mossoró 2.000 Mato Grande 2.000 Sertão do Apodi 2.000 Total 20.000
+
+Meta 0333 - Perfurar e instalar poços nos assentamentos rurais/áreas do crédito fundiário existentes no território potiguar Unidade Unidade Medida
+
+Território 2016-2019 Sertão Central, Cabugi e Litoral Norte 260 Trairi 260 Potengi 260
+
+Demonstrativo de Programas Temáticos PPA Seridó 260 Alto Oeste 260 Açu/Mossoró 260 Mato Grande 260 Sertão do Apodi 260 Total 2.080
+
+Iniciativas 01514 - Realização de ações para a regularização fundiária
+
+01515 - Realização de ações para emancipação de assentamentos
+
+01516 - Realização de ações para o desenvolvimento rural
+
+01517 - Realização de ações para a implementação do Programa Nacional do Crédito Fundiário
+
+01518 - Modernização tecnológica e dos servidores da SEARA
+
+20. SANEAMENTO BÁSICO
+
+A preocupação com o saneamento básico é algo que vem desde a antiguidade, quando do surgimento e expansão das primeiras cidades.
+
+O saneamento básico, segundo a OMS, é o gerenciamento dos fatores físicos que podem exercer efeitos nocivos ao homem, prejudicando seu bem-estar físico, mental e social.
+
+O saneamento básico, de acordo com a Lei 11.445, abrange o abastecimento de água, esgotamento sanitário, limpeza urbana e manejo de resíduos sólidos, e drenagem. Desta forma, conclui-se que o saneamento está diretamente relacionado às condições de saúde da população, além de promover a conservação do meio ambiente.
+
+Atualmente o benefício mais difundido no saneamento tem a ver com a prevenção, uma vez que estudos comprovam que para cada 1 real investido em saneamento têm-se uma economia de 4 reais em assistência médica.
+
+Entre os indicadores de saneamento básico, o Rio Grande do Norte está abaixo da média brasileira na proporção de domicílio com saneamento básico adequado, rede coletora de esgoto ou fossa séptica e coleta de lixo. O Estado supera a média brasileira apenas na rede geral de abastecimento de água que atende a 87,5% dos domicílios.
+
+Fonte: OPE Sociais, com base na Pesquisa Nacional por Amostra de Domicílios (PNAD)/IBGE - 2013.
+
+No Rio Grande do Norte os índices de cobertura de abastecimento de água, na zona urbana, chegam a um percentual de aproximadamente 100%, porém com a situação da seca que assola toda a região vem comprometendo o abastecimento.
+
+O Estado precisa avançar para melhorar os indicadores, pois o saneamento básico está diretamente relacionado a saúde e bem-estar da população.
+
+Demonstrativo de Programas Temáticos PPA
+
+0020 - SANEAMENTO BÁSICO
+
+Diretriz 06 - PROMOÇÃO DO BEM-ESTAR DO POTIGUAR ATRAVÉS DA GARANTIA AO ACESSO AOS DIREITOS FUNDAMENTAIS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0111 - Taxa de domicílios com saneamento básico adequado Percentual 30/01/2013 54,3
+
+0112 - Proporção de domicilios com rede coletora de esgoto ou fossa séptica Percentual 30/01/2013 59,1
+
+0113 - Proporção de domicilios com coleta de lixo Percentual 30/01/2013 87,5
+
+0114 - Taxa de domicílios com rede geral de abastecimento de água Percentual 30/01/2013 87,5
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 179.607,00 121.034.330,54 121.213.937,54
+
+Recurso Federal 1.340.400,00 766.682.237,75 768.022.637,75
+
+Operações de Crédito 0,00 16.766.504,87 16.766.504,87
+
+Outros 0,00 132.371.143,09 132.371.143,09
+
+TOTAL 1.520.007,00 1.036.854.216,25 1.038.374.223,25
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0098 - Apoiar e incentivar a implantação de sistemas de drenagem nos diversos municípios do Estado do Rio Grande do Norte.
+
+Órgão: 25000 - Secretaria de Estado da Infraestrutura
+
+Meta 0253 - Construir 82 km de tubulação de drenagem Quilômetro Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 4 Sertão Central, Cabugi e Litoral Norte 4 Agreste Litoral Sul 12 Trairi 8 Potengi 4 Seridó 12 Alto Oeste 20 Açu/Mossoró 4 Mato Grande 8 Sertão do Apodi 8 Total 84
+
+Meta 0341 - Pavimentar 1.190.760 m² nos diversos municípios do Estado Metro Quadrado Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 39.300 Sertão Central, Cabugi e Litoral Norte 87.320 Agreste Litoral Sul 174.640 Trairi 109.150 Potengi 87.320 Seridó 174.640 Alto Oeste 218.300 Açu/Mossoró 100.420 Mato Grande 109.150 Sertão do Apodi 122.240 Total 1.222.480
+
+Iniciativas 00688 - Execução de drenagem e esgotamento sanitário.
+
+00689 - Execução e restauração de pavimentação.
+
+Objetivo 0090 - Apoiar os municipios no atendimento às Políticas de saneamento básico visando a Política Estadual de Saneamento Básico de forma a nortear os municpios na elaboração e implementação dos planos de forma integrada aos setores de abastecimento de água, esgotamento sanitário, limpeza urbana e manejo de resíduos sólidos, drenagem e manejo de águas pluviais.
+
+Órgão: 27000 - Sec de Estado do Meio Ambiente e dos Recursos Hídricos
+
+Meta 0245 - Implantar 45 Ações de Saneamento Básico Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 31 Seridó 6 Alto Oeste 2 Açu/Mossoró 6 Total 45
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 00851 - Elaboração de Estudos e Projetos de Saneamento Básico
+
+00854 - Apoio na Elaboração dos Planos Municipais de Saneamento Básico
+
+00864 - Renascer Potengi
+
+00870 - Execução de Sistemas de Aterro Sanitário Regionais
+
+00871 - Execução de Sistemas de Abastecimento de Água
+
+00875 - Execução de Sistemas de Esgotamento Sanitário
+
+00876 - Execução do Programa Regional de Coleta Seletiva
+
+00878 - Implementação e fortalecimento de Consórcios Públicos
+
+Objetivo 0003 - Garantir o acesso da população do RN ao saneamento básico, por meio do abastecimento de água e esgotamento sanitário, visando a melhoria da qualidade de vida da população.
+
+Órgão: 27201 - Companhia de Águas e Esgotos do RN
+
+Meta 0003 - Elaborar projeto de engenharia de sistema de abastecimento de água Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0004 - Implantar sistema de abastecimento de água Unidade Unidade Medida
+
+Território 2016-2019 Sertão Central, Cabugi e Litoral Norte 1 Total 1
+
+Meta 0005 - Ampliar sistemas de abastecimento de água Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Seridó 5 Alto Oeste 2 Açu/Mossoró 3 Mato Grande 1 Sertão do Apodi 2 Total 14
+
+Meta 0511 - Implantar sistemas de esgotamento sanitário Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 4 Alto Oeste 1 Total 5
+
+Meta 0525 - Ampliar sistemas de esgotamento sanitário Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 6 Agreste Litoral Sul 2 Seridó 2 Açu/Mossoró 3 Total 13
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 00009 - Elaboração de projetos de engenharia para ampliação do sistema de abastecimento de água da cidade de Natal
+
+00011 - Ampliação de sistemas de esgotamento sanitário dos municípios do RN
+
+00012 - Implantação de sistemas de esgotamento sanitário dos municípios do RN
+
+00017 - Ampliação de sistemas de abastecimento de água dos municípios do RN
+
+00028 - Implantação de sistemas de abastecimento de água dos municípios do RN
+
+21. FORTALECIMENTO DO SISTEMA ÚNICO DE SAÚDE
+
+O Estado do Rio Grande do Norte com extensão territorial de 53.306,8 Km² é constituído por 167 municípios, dividido em 08 Regiões de Saúde e possui uma população de 3.408.510 habitantes (IBGE). Evidencia em sua demografia uma predominância de jovens, apresentando um discreto aumento anual na população idosa. O Estado tinha em 2011 aproximadamente 7,5% de habitantes com mais de 65 anos e hoje conta com 8,7%, mantendo este crescimento estima-se que atingirá 18%, em 2050.
+
+Analisando a mortalidade proporcional (CAP. CID 10), no ano de 2013, observa-se a predominância das doenças do aparelho circulatório (28%), seguidas das neoplasias (15,28%) e causas externas (14,6%). No tocante à morbidade, 26% das internações está relacionada à obstetrícia; excluindo-se essa causa o maior percentual de internações é representado pelas neoplasias (10%), as doenças infecciosas e parasitárias (9,47%), doenças do aparelho digestivo (9%) e causas externas (7,55%), respectivamente.
+
+Cabe ressaltar, a importância da situação de saúde da população materno infantil. Com relação à mortalidade, os óbitos de mulheres em idade fértil são causados pelas Neoplasias (26,44%), seguidos pelas Doenças do aparelho circulatório e pelas Causas Externas, com igual percentual (20%). Foram ainda registrados 22 óbitos relacionados à gravidez, parto e puerpério. Os óbitos infantis pela causa “Algumas afecções originadas no período perinatal” representam 63% do total; as Malformações congênitas, deformidades e anomalias cromossômicas aparecem como segunda causa (16%) e as Doenças Infecciosas e Parasitárias estão na terceira posição (6%).
+
+No tocante à morbidade do grupo materno infantil, nas causas de internações hospitalares de mulheres em idade fértil predominam o parto (39,68%), causas ligadas a gravidez parto e puerpério (19,65%), seguidas das neoplasias. Na faixa etária menor de 1 ano predominam as causas perinatais (35,25%), seguidas das doenças infecciosas e parasitárias (18,92%) e das malformações congênitas (4,21%).
+
+Após 21 anos de promulgação da Lei n. 8.080/1990, foi publicado o Decreto nº 7.508/2011, que regulamenta a referida Lei em alguns aspectos, como: a organização do Sistema Único de Saúde (SUS), o planejamento da saúde, a assistência à saúde e a articulação interfederativa. Este dispositivo legal norteia os gestores na organização do SUS enfocando a regionalização, dando continuidade ao que foi conquistado com a implantação do Pacto pela Saúde e incorporando o processo de implantação do Contrato Organizativo das Ações Públicas – COAP. Desde a implementação do Sistema Único de Saúde, ainda se apresentam um conjunto de dificuldades
+
+e desafios a serem superados pelo sistema público, embora muitos avanços sejam identificados e reconhecidos pelos gestores, usuários e trabalhadores da saúde.
+
+Ao analisarmos esse processo no Rio Grande do Norte, percebe-se que um dos grandes desafios tem sido a superação da conformação de sistemas municipais de saúde fragmentados, atomizados, que vem levando ao aprofundamento das desigualdades na oferta e no acesso aos serviços, comprometendo a legitimidade do SUS.
+
+Nesse contexto, as atribuições comuns e as competências do ente estadual na gestão do SUS, definidas no arcabouço jurídico, apontam a responsabilidade de condução, regulação e direção do Sistema no âmbito estadual como tarefas essenciais e intransferíveis para que o Sistema tenha funcionalidade.
+
+Partindo desse pressuposto, a regionalização é a estratégia a ser adotada para a formação de sistemas de saúde mais eficientes. A Regionalização é uma diretriz do Sistema Único de Saúde e um eixo estruturante do Pacto de Gestão e deve orientar a descentralização das ações e serviços de saúde e os processos de negociação e pactuação entre os gestores.
+
+Implementar a regionalização, de forma cooperativa e solidária, exige do gestor e de todos os envolvidos uma abertura para o novo, no sentido de acolher as diferentes concepções e trabalhar no e com o coletivo, saindo de uma prática fragmentada e individualista, para a construção colaborativa.
+
+Nesse sentido, o processo de regionalização que se pretende implementar, contempla uma lógica de planejamento integrado, compreendendo as noções de territorialidade, na identificação de prioridades de intervenção e de conformação de sistemas funcionais de saúde, não necessariamente restritos à abrangência municipal, mas respeitando seus limites como unidade indivisível, de forma a garantir o acesso dos cidadãos a todas as ações e serviços necessários para a resolução de seus problemas de saúde, otimizando os recursos disponíveis.
+
+Frente a esse desafio, é imprescindível que a organização dos serviços no âmbito da atenção básica seja de responsabilidade dos municípios, com as ações de atenção secundaria ficando a cargo da responsabilidade solidaria dos municípios da microrregião e as ações de alta complexidade sob a responsabilidade da Secretaria Estadual de Saúde.
+
+A efetivação dessas mudanças também pressupõe aos gestores novas responsabilidades, especialmente a construção de redes de atenção à saúde, no intuito de desenvolver um sistema
+
+eficiente, aperfeiçoando os serviços e ampliando o acesso da população. Espera-se diminuir as iniquidades regionais e ofertar uma atenção de qualidade, de forma organizada e mais próximo possível da população.
+
+As ações contidas no Plano Plurianual buscam a construção de um sistema integrado, na qual a atenção primária se ligue aos demais níveis de atenção, por meio da construção de linhas de cuidado, tendo como foco as redes temáticas, com vistas a atingir a integralidade. A operacionalização desse desenho demanda a construção de sistema de apoio, logístico, regulação, transporte, entre outros para sua efetivação.
+
+O delineamento das ações expressa a necessidade premente de incremento de recursos financeiros no sentido de garantir o cofinanciamento tripartite das ações em apoio aos municípios. Para a efetivação dessa modelagem se faz necessária ainda a reorganização da SESAP, incluindo a revisão do organograma e o fortalecimento das regionais de saúde
+
+Para garantir a efetividade e sustentabilidade dessa rede são imperiosos a reestruturação e o fortalecimento da Atenção Hospitalar, com foco na revisão da quantidade e do perfil dos hospitais regionais, e das unidades de referência, sob gestão estadual.
+
+Por fim, vale salientar que o fortalecimento do SUS é um processo rico e desafiador que exige que o planejamento esteja na centralidade da agenda da gestão, num processo ascendente e integrado, compatibilizando as necessidades das políticas de saúde com a disponibilidade dos recursos financeiros, cujo estabelecimento das metas e a avaliação dos resultados tem como objetivo finalístico a melhoria da qualidade de vida do potiguar.
+
+Demonstrativo de Programas Temáticos PPA
+
+0021 - FORTALECIMENTO DO SISTEMA ÚNICO DE SAÚDE
+
+Diretriz 06 - PROMOÇÃO DO BEM-ESTAR DO POTIGUAR ATRAVÉS DA GARANTIA AO ACESSO AOS DIREITOS FUNDAMENTAIS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0115 - Taxa de mortalidade infantil (menores de 1 ano) por 1000 nascidos vivos Unidade 31/12/2013 14,4
+
+0116 - Expectativa de vida Ano 30/01/2012 74,7
+
+0117 - Número de médicos por 1000 habitantes Unidade 30/01/2010 1,2
+
+0118 - Número de leitos por 1000 habitantes Unidade 30/01/2012 2,3
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 4.804.016.000,00 162.112.000,00 4.966.128.000,00
+
+Recurso Federal 954.411.600,00 100.556.400,00 1.054.968.000,00
+
+Operações de Crédito 0,00 116.452.000,00 116.452.000,00
+
+Outros 410.580.000,00 3.948.000,00 414.528.000,00
+
+TOTAL 6.169.007.600,00 383.068.400,00 6.552.076.000,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0174 - Melhorar o acesso e a qualidade dos serviços da saúde em conformidade com o acordo de empréstimo do Banco Mundial para o programa RN Sustentável.
+
+Órgão: 19000 - Secretaria de Estado do Planejamento e das Finanças
+
+Meta 0463 - Construir, reformar e/ou equipar unidades de Saúde Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 26 Total 26
+
+Meta 0467 - Qualificar Profissionais da Saúde Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 00735 - Melhoria da rede de atenção à saúde, incluindo o fortalecimento das redes de atenção materno-infantil, oncológica e de urgências-emergências
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0040 - Coordenar o processo de planejamento, gestão e orçamento, no âmbito do SUS, de forma regionalizada, articulada e participativa, visando a consolidação e aumento da resolutividade, da qualidade da gestão e da atenção à saúde.
+
+Órgão: 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 1069 - Apoiar 100% dos municípios do RN, na elaboração, monitoramento e avaliação dos instrumentos de planejamento e gestão (plano de saúde, Unidade Medida Percentual programação anual de saúde, relatório anual de gestão)
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1071 - Coordenar o processo de elaboração, monitoramento e avaliação de 100% dos instrumentos de planejamento e gestão da SESAP (plano estadual Unidade Medida Percentual de saúde, programação anual de saúde e relatório anual de gestão)
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1072 - Coordenar, monitorar e avaliar a Programação Pactuada Integrada de forma articulada e regionalizada Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1073 - Coordenar a elaboração, monitorar e avaliar 100% dos protocolos de cooperação entre entes públicos – PCEP celebrados entre a SESAP e os Unidade Medida Percentual municípios, referentes à contratualização dos hospitais regionais
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1074 - Implantar o apoio integrado em 100% das Comissões Intergestores Regionais do Estado Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1075 - Implantar o apoio à Gestão Estratégica e participativa, visando a captação de recursos externos, pesquisa científica, tecnológica e inovação em Unidade Medida Percentual saúde, com acompanhamento de projetos, monitoramento e avaliação de metas e desempenho e análise da saúde
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1076 - Implantar a Política Estadual de Educação Popular em Saúde no RN Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1077 - Apoiar tecnicamente os componentes municipais do SNA já existentes Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1078 - Viabilizar a normatização das atribuições e processos de trabalho da auditoria Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1
+
+Demonstrativo de Programas Temáticos PPA Total 1
+
+Meta 1079 - Reestruturar física e tecnologicamente o Sistema Estadual de Auditoria Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1080 - Fomentar a criação e instrumentalização de novos componentes municipais do SNA em 100% das regiões de saúde, com foco nos respectivos Unidade Medida Percentual municípios sede
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1081 - Apoiar a implantação de serviços de ouvidoria em 56 municípios do RN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 56 Total 56
+
+Meta 1082 - Implantar sub-redes de ouvidoria Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 8 Total 8
+
+Meta 1083 - Viabilizar a participação de 100% dos profissionais, em eventos de educação permanente Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 01395 - Aquisição de soluções tecnológicas para gestão pública; equipamentos e materiais permanentes, confecção gráfica de publicações institucionais; atualização da programação pactuada integrada, complementação do quadro de auditores, educação permanente da equipe, aquisição e articulação para a aprovação do projeto de lei 01425 - Implantação de núcleo de economia da saúde, de informações estratégicas, ciência, tecnologia e inovação em saúde, convênios e projetos
+
+01426 - Formalização de contratos de gestão, convênios, consórcios, termos de cooperação
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0113 - Promover soluções de informática no ambiente da Saúde, incluindo aquisição e manutenções de computadores, além do desenvolvimento de sistemas que garantam a celeridade nos processos e projetos de bens e serviços da Saúde.
+
+Órgão: 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 0258 - Modernizar a tecnologia da informação da SESAP Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2.500 Total 2.500
+
+Meta 0389 - Implantar sistema de gestão hospitalar, de gestão administrativa e de recursos humanos Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1249 - Fornecer suporte e realizar manutenção preventiva e corretiva dos equipamentos de informática Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 00302 - Aquisição de equipamentos (PC, servidores, equipamentos de TI), aquisição de licenças de software (antivírus e sistemas operacionais), ampliação da velocidade dos links das unidades e aquisição do sistema de gestão administrativo e de recursos humanos, e manutenção preventiva e corretiva
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0172 - Promover a Regulação do Acesso à Assistência, de forma regionalizada, por meio da ampliação e modernização dos serviços de regulação, no âmbito do SUS, garantindo a universalidade do acesso, integralidade e equidade do cuidado.
+
+Órgão: 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 0367 - Melhorar o acesso da internet/intranet através da conexão por fibra ótica e aumento de velocidade dos links das unidades de saúde do Estado Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0500 - Aumentar em 12% cobertura do Serviço de Atendimento Móvel de Urgência e Emergência (SAMU 192) Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 12 Total 12
+
+Meta 1041 - Garantir a participação anual de 80% dos profissionais do Serviço de Atendimento Móvel de Urgência e Emergência (SAMU 192), no programa Unidade Medida Percentual de capacitação permanente
+
+Território 2016-2019 Rio Grande do Norte 80 Total 80
+
+Meta 1042 - Assegurar a operacionalização Serviço de Atendimento Móvel de Urgência e Emergência (SAMU 192) Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1045 - Ampliar e modernizar 100% Serviço de Atendimento Móvel de Urgência e Emergência (SAMU 192) Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1048 - Regular 100% dos atendimentos aos usuários que necessitem de assistência de tratamento fora do domicilio Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1050 - Implantar o Núcleo de Serviço Social para aprimorar as ações do tratamento fora de domicílio Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1051 - Viabilizar a participação de 100% dos profissionais do setor, em eventos de educação permanente Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1052 - Transladar 100% dos usuários que foram a óbito durante tratamento fora de seu domicílio, que tenham sido regulados pela SESAP Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100
+
+Demonstrativo de Programas Temáticos PPA Total 100
+
+Meta 1058 - Implantar 05 centrais regionais de regulação de exames de média e alta complexidade e regulação de internação hospitalar e custear o Complexo Unidade Medida Percentual Estadual de Regulação
+
+Território 2016-2019 Agreste Litoral Sul 1 Trairi 1 Seridó 1 Açu/Mossoró 1 Mato Grande 1 Total 5
+
+Meta 1059 - Regular 100% dos leitos SUS sob gestão do Estado Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1060 - Implantar a regulação do acesso para a atenção hospitalar às urgências, em 100% das demandas inseridas no SISREG Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1061 - Aumentar em 20% a captação de doadores de órgãos no Estado Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 20 Total 20
+
+Meta 1063 - Fortalecer a Política Estadual de Transplantes de Órgãos, priorizando o fortalecimento da rede pública Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1064 - Reestruturar física e tecnologicamente a Central de Transplante Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Iniciativas 00747 - Aquisição de passagens aéreas, terrestres e ajuda de custo para os usuários; aquisição de software de regulação para o tratamento fora do domicílio, viabilização de recursos humanos, capacitação, reciclagem, treinamento da força de trabalho, contratação de serviço funerário com a finalidade de translado de usuários que foram a óbito 01412 - Aquisição de equipamentos, renovação da frota, ampliação da estrutura física e tecnológica da central, capacitação de equipes para atendimento pré-hospitalar, pactuação do cofinanciamento, entre os entes federativos para manutenção e expansão das ações, habilitação e qualificação das unidades móveis pelo Ministério da Saúde 01413 - Qualificação das Centrais de Regulação, implantação do transporte sanitário intermunicipal, habilitação das centrais de regulação, lotação e qualificação dos profissionais, como também, a instalação de fibra ótica nas unidades estaduais de saúde do Rio Grande do Norte 01414 - Implantação do projeto doação de vidas nos hospitais, sensibilização dos serviços e da população para a doação de órgãos, reforma e aquisição de equipamentos para a Central de Transplantes, educação permanente da equipe técnica, implantação de apoio técnico aos hospitais da grande Natal
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0258 - Promover a reestruturação e a efetivação da assistência farmacêutica no RN, de forma articulada com as demais esferas de governo, visando garantir a maior disponibilidade e o uso racional dos medicamentos e insumos, o acesso dos usuários e a maior qualificação dos serviços.
+
+Órgão: 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 0853 - Elaborar e implantar o Plano Estadual da Política e da Gestão da Assistência Farmacêutica Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1006 - Apoiar 100% dos municípios do estado, em caráter regional, nas competências no âmbito da Assistência Farmacêutico Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1007 - Implantar o Sistema Nacional de Gestão da Assistência Farmacêutica (HORUS), em 100% dos municípios Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1010 - Ampliar, adequar e estruturar nas regiões de saúde, o acesso aos Componentes da Assistência Farmacêutica (Básico, Estratégico e Unidade Medida Unidade Especializado)
+
+Território 2016-2019 Terras Potiguaras 3 Seridó 2 Alto Oeste 1 Açu/Mossoró 3 Total 9
+
+Meta 1011 - Cooperar tecnicamente com 100% dos serviços de farmácia hospitalar da rede estadual Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 01371 - Institucionalização da Assistência Farmacêutica no organograma da SESAP; qualificação da equipe técnica, implantação de Comissão Permanente, viabilização do profissional farmacêutico nas URSAPs, visitas técnicas aos municípios e regionais do estado; monitoramento dos municípiosdo QUALIFAR-SUS, ampliação do Sistema Nacional de Gestão da Assistência Farmacêutica (HORUS), aquisição de materiais permanentes e equipamentos, reforma e ampliação das unidades, aquisição de caminhão refrigerado
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0267 - Qualificar a Atenção à Saúde, por meio do apoio técnico e financeiro às gestões municipais, visando elevar a resolutividade da Atenção Básica
+
+Órgão: 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 0879 - Prestar apoio institucional no processo de implantação, acompanhamento e qualificação da atenção básica e de ampliação e consolidação da Unidade Medida Percentual Estratégia Saúde da Família em 100% dos municípios
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1190 - Destinar recursos estaduais para compor o financiamento tripartite da atenção básica a 100% dos municípios Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1191 - Implementar a planificação das ações e monitorar a utilização dos recursos federais da atenção básica transferidos aos municípios Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1192 - Apoiar a Política Estadual de Atenção Básica Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1193 - Apoiar 100% das regiões de saúde na implantação e efetivação das redes de atenção (cegonha, psicossocial, atenção à pessoa com deficiência, Unidade Medida Percentual crônicas, urgência e emergência)
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1194 - Coordenar a Rede de Atenção Integral à Saúde do Trabalhador no âmbito estadual Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1195 - Fortalecer a rede de saúde mental com ênfase na dependência de álcool e outras drogas, por meio do apoio a 100% dos municípios, com Unidade Medida Percentual monitoramento e avaliação
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1196 - Acompanhar e coordenar a implantação e implementação das Práticas Integrativas e Complementares do SUS, em 100% dos municípios do Estado Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1222 - Promover o intercâmbio de experiências em 100% dos municípios, para disseminar tecnologias e conhecimentos voltados à melhoria dos serviços Unidade Medida Percentual da atenção básica
+
+Território 2016-2019 Rio Grande do Norte 100
+
+Demonstrativo de Programas Temáticos PPA Total 100
+
+Iniciativas 01428 - Aquisição de material permanente e equipamentos de informática, qualificação da gestão e dos profissionais, realização de seminários e oficinas, apoio integrado aos municípios, coordenação da implantação do E-SUS AB nos municípios e revisão da Portaria 242/2014
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0283 - Fortalecer o Conselho Estadual de Saúde, por meio de sua qualificação, acompanhamento e reestruturação física e tecnológica para a consolidação do Controle Social no âmbito do Sistema Único de Saúde.
+
+Órgão: 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 1016 - Capacitar 3.038 conselheiros de saúde do Estado do RN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 3.038 Total 3.038
+
+Meta 1017 - Reestruturar física e tecnologicamente o Conselho Estadual de Saúde do RN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1018 - Intensificar o acompanhamento aos 167 Conselhos Municipais de Saúde (CMS’s) e melhorar a interação com o Conselho Nacional de Saúde Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 167 Total 167
+
+Meta 1020 - Realizar as Conferências de Saúde e as conferências temáticas deliberadas pela conferência nacional de saúde (saúde do trabalhador, saúde Unidade Medida Percentual mental, saúde ambiental, etc.)
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1021 - Assegurar a participação do Conselho em 100% nas Plenárias Nacional de Conselhos de Saúde Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1022 - Desenvolver campanha massiva de mídia em defesa do SUS e ampliar a visibilidade, na sociedade, das ações desenvolvidas pelo Conselho Unidade Medida Unidade Estadual de Saúde
+
+Território 2016-2019 Rio Grande do Norte 12 Total 12
+
+Meta 1024 - Apoiar o processo de educação popular com vistas à participação social no SUS, por meio seminários e oficinas anuais Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 16 Total 16
+
+Meta 1027 - Implantar as assessorias jurídica, contábil e outras necessárias ligadas diretamente ao Conselho Estadual de Saúde com objetivo de qualificar Unidade Medida Percentual sua intervenção
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1230 - Realizar 08 seminários estaduais com temas definidos pelo CES/RN, e 02 da Região Nordeste para avaliar as deliberações da Conferência Unidade Medida Unidade Nacional de Saúde, com o objetivo de aproximar as entidades da sociedade civil na defesa do SUS
+
+Território 2016-2019 Rio Grande do Norte 10
+
+Demonstrativo de Programas Temáticos PPA Total 10
+
+Meta 1231 - Criar e instalar a Biblioteca do Controle Social no âmbito do SUS Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 01405 - Articulação e mobilização dos conselheiros municipais e estaduais de saúde, estabelecimento de parcerias solidárias com as Unidades Regionais de Saúde, elaboração e confecção de material didático, realização de eventos, articulação com a SESAP, aquisição de bens de capital, aquisição de passagens aéreas e diárias, publicação de periódico quadrimestral, inserção de vaga de 01 assessor jurídico e 01 assessor contábil para o CES, no próximo concurso público da Secretaria Estadual de Saúde
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0288 - Ofertar serviços de reabilitação integrada, articulada e efetiva de forma regionalizada, conforme as políticas do Ministério da Saúde, fortalecendo e garantindo os direitos fundamentais da pessoa com deficiência, contribuindo para melhoria da sua qualidade de vida.
+
+Órgão: 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 1103 - Reestruturar, reformar, modernizar, climatizar e adequar o espaço físico da unidade do Centro Especializado em Reabilitação-CER na capital Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1104 - Implantar o serviço de atendimento com práticas de Equoterapia Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Meta 1105 - Manter em 100% a operacionalização dos serviços dos Centros Especializados em Reabilitação Infantil e Adulto Percentual Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 100 Total 100
+
+Meta 1133 - Construir Oficina Ortopédica Fixa Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Meta 1134 - Habilitar o Centro Especializado em Reabilitação-CER para atender pacientes com deficiência visual, doenças raras e fissuras Labiopalatinas Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1135 - Implantar e implementar a Classificação Internacional de Funcionalidade e Incapacidade-CIF Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 1136 - Modernizar o Serviço de Arquivo Médico e Estatística - SAME Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1137 - Reestruturar e Implantar a Comissão Interna de Prevenção de Acidentes - CIPA na Rede da SESAP/RN Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1138 - Reestruturar a área tecnológica da instituição Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1
+
+Demonstrativo de Programas Temáticos PPA Total 1
+
+Iniciativas 01404 - Articulação com outros setores da SESAP e instituições de ensino, aquisição de software, equipamentos e mobiliários, apoio administrativo para a realização das ações, reuniões técnicas, implantação de protocolos clínicos, elaboração de projeto arquitetônico
+
+Objetivo 0289 - Coordenar a política de sangue do estado, por meio da melhoria dos padrões sanitários, infraestrutura física e do parque tecnológico da hemorrede, visando a garantia da assistência hematológica e hemoterápica aos norteriograndenses.
+
+Órgão: 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 1106 - Reduzir em 20% as devoluções de hemocomponentes dos hospitais localizados na capital e grande Natal Percentual Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 20 Total 20
+
+Meta 1108 - Aumentar em 20% as doações de sangue Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 20 Total 20
+
+Meta 1109 - Viabilizar a participação de 100% dos profissionais do Setor, em eventos de educação permanente Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1110 - Manter em 100% a operacionalização dos serviços de Hemoterapia e Hematologia Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 01397 - Manutenção dos serviços hematologia e hemoterapia, redução das devoluções de hemocomponentes e aumento das doações de sangue
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0291 - Promover a Educação Permanente em Saúde (EPS), por meio do investimento em educação e desenvolvimento profissional, na concepção da gestão participativa, contribuindo para a reorganização e qualificação da produção de serviços nas redes de atenção à saúde (RAS) e da formação profissional de excelência para o SUS.
+
+Órgão: 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 1119 - Aprovar a Lei da Política Estadual de Educação Permanente em Saúde (PEEPS) do RN até junho de 2016 Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1120 - Aprovar o Regimento de 8 Comissões de Integração Escola-Serviço (CIES Regionais) nas Comissão Intergestores Regionais (CIR) Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Agreste Litoral Sul 1 Trairi 1 Seridó 1 Alto Oeste 1 Açu/Mossoró 2 Mato Grande 1 Total 8
+
+Meta 1121 - Ordenar e formalizar o território e a rede de serviços da SESAP-RN como “Sistema Estadual de Saúde Escola do SUS no RN” Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1122 - Expandir o número de programas de residências em áreas médicas, estratégicas, para cursos de Medicina criados pelo MEC/MS, (ped./neonatal Unidade Medida Unidade ginec., obst., cirurgia, psiq., anestes. em parceria com universidades públicas, particularmente UFRN e/ou UERN
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1123 - Credenciar, pelo menos 4 unidades, hospitalares da rede da SESAP como hospitais de ensino pelo MEC/MS Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 1124 - Criar o Programa de Residência Multiprofissional na SESAP-RN em parceria com universidades Pública, particularmente UFRN e/ou UERN Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1125 - Oferecer turmas exclusivas para servidores em dois cursos de Mestrado Profissionalizante com 60 vagas e um curso de Especialização com 80 Unidade Medida Unidade vagas, com abrangência para todas as regiões de saúde
+
+Território 2016-2019 Rio Grande do Norte 3 Total 3
+
+Meta 1126 - Oferecer ações de educação permanente e educação profissional para as equipes das RAS conforme necessidades e participação em eventos, Unidade Medida Percentual atingindo pelo menos 15% dos servidores por ano
+
+Território 2016-2019 Rio Grande do Norte 60 Total 60
+
+Demonstrativo de Programas Temáticos PPA Meta 1250 - Retomar as discursões da mesa de negociação no âmbito do SUS Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 1348 - Articular a implantação de cursos técnicos profissionalizantes nas áreas prioritária do SUS, através dos Institutos Federais e Escolas Técnicas Unidade Medida Percentual Públicas
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1350 - Assegurar conteúdos voltados para fortalecimento do controle social e gestão participativa do SUS em todos os Cursos e Modalidades de Unidade Medida Percentual Educação Permanente destinados aos Trabalhadores do SUS
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 01422 - Elaboração do regimento da CIES, implantação do PEEPS, aprovação do plano da PAREPS, ofertas de residência médica, adequação de formação de ensino
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0292 - Fortalecer as políticas deregulação do trabalho no SUS, por meio de inovações práticas de valorização e atenção ao trabalhador da saúde e apoio à gestão participativa e descentralizada, visando à organização dos serviços e de novos modos de produção e circulação do saber, buscando a qualidade da assistência à população.
+
+Órgão: 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 1127 - Realizar provimento de 700 cargos vagos e de 3.420 cargos para reposição do déficit de pessoal, por meio da realização de concurso público Unidade Medida Unidade emergencial
+
+Território 2016-2019 Rio Grande do Norte 4.120 Total 4.120
+
+Meta 1128 - Realizar o aperfeiçoamento de 100% das ferramentas de gestão do trabalho (dimensionamento de pessoal, controle de frequência) de servidores e Unidade Medida Percentual serviços, norteadas pelos princípios e diretrizes da Política Nacional de Humanização
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1129 - Fortalecer e implementar a política de saúde do trabalhador no âmbito da SESAP-RN, contemplando a criação de Núcleo de Assistência à Saúde Unidade Medida Unidade do Trabalhador (NAST) em todas as unidades da rede
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 1130 - Aperfeiçoar a Política de Valorização do Servidor, contemplando a revisão da carreira e da avaliação de desempenho Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 1131 - Publicar documento com descrição dos processos e procedimentos da área de gestão de pessoas e implantar sistema integrado de informação Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Meta 1132 - Implementar e fortalecer o apoio institucional nos princípios e diretrizes da Política Nacional de Humanização Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 1251 - Realizar a digitalização dos arquivos institucionais Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1252 - Implementar e garantir a operacionalização do Programa de Qualidade de Vida e Saúde no Trabalho/CRH no âmbito da SESAP-RENAST/MS Unidade Medida Percentual assegurando parceria com a Saúde do Trabalhador
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1253 - Rever o organograma da SESAP com vistas às adequações das demandas do SUS Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1
+
+Demonstrativo de Programas Temáticos PPA Total 1
+
+Iniciativas 01423 - Realização de concurso público; apoio institucional, integração dos sistemas de administração de pessoal existentes; contratação de serviço de digitação do arquivo de documentos funcionais dos servidores; integração das ações de atenção ao servidor; trabalho no âmbito da SESAP-RN; contratação de consultoria em avaliação de desempenho e em gestão de processos; carta de serviços, revisão do organograma para institucionalização dos arranjos informais e redefinição da estrutura organizativa
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0296 - Reestruturar e operacionalizar a Rede de Atenção à Saúde através do fortalecimento da atenção hospitalar e especializada de acordo com as diretrizes da regionalização, definindo perfis, adequação organizacional,física e tecnológica das Unidades, ampliando o acesso e garantindo a assistência com eficiência e eficácia dos resultados.
+
+Órgão: 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 1182 - Implantar, construir e reestruturar a área física e tecnológica em 100% das unidades hospitalares estratégicas e de referência de acordo com o Unidade Medida Percentual desenho da Rede de Atenção à Saúde loco-regional
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1183 - Implantar a contratualização entre a gestão e os serviços em 15 hospitais estratégicos sob gestão estadual Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 9 Agreste Litoral Sul 1 Seridó 2 Alto Oeste 1 Açu/Mossoró 1 Mato Grande 1 Total 15
+
+Meta 1184 - Implantar (habilitar e qualificar) 52 leitos de UTI, para suprir a necessidadeda Rede de Atenção à Saúde loco-regional Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 52 Total 52
+
+Meta 1185 - Implantar (habilitar e qualificar) 287 leitos de Cuidados Prolongados, para suprir a necessidade da Rede de Atenção à Saúde loco-regional Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 287 Total 287
+
+Meta 1186 - Fomentar a implantação do transporte sanitário em parceria com a sétima e a segunda regiões de saúde Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Seridó 1 Alto Oeste 1 Açu/Mossoró 1 Total 4
+
+Meta 1187 - Rever a quantidade e definir o perfil das 26 unidades hospitalares sob gestão estadual Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 10 Agreste Litoral Sul 3 Trairi 1 Seridó 3 Alto Oeste 1 Açu/Mossoró 7 Mato Grande 1 Total 26
+
+Meta 1188 - Assegurar a operacionalização de 100% das unidades hospitalares e de referência sob gestão estadual Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Demonstrativo de Programas Temáticos PPA
+
+Meta 1189 - Expandir, implementar e operacionalizar o Serviço de Atenção Domiciliar, buscando fortalecer e ampliar a municipalização dos serviços Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 01417 - Construção, reforma, ampliação, aparelhamento, modernização e parque tecnológico das unidades hospitalares e de referência
+
+01418 - Manutenção das unidades, qualificação dos profissionais, aquisição de sistema de gestão, implantação e habilitação de novos serviços, articulação entre áreas técnicas da SESAP e do MS
+
+01419 - Habilitação, aquisição de insumos e equipamentos, veículos, composição e qualificação de equipe técnica
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0297 - Fortalecer a Promoção e a Vigilância em Saúde por meio das ações intra, intersetoriais e interinstitucionais, visando reduzir os riscos e agravos à saúde da população.
+
+Órgão: 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 1197 - Implantar a Rede de Comunicação para Promoção da Saúde nas 8 Regiões de Saúde Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 8 Total 8
+
+Meta 1198 - Ampliar de 9 para 19 o número de municípios notificadores de intoxicações exógenas, entre os prioritários do Plano de Ação, com o intuito de Unidade Medida Unidade atingir o percentual de 100%
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Meta 1199 - Reestruturar as 8 Centrais de Rede de Frio Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 2 Agreste Litoral Sul 1 Trairi 1 Seridó 1 Alto Oeste 1 Açu/Mossoró 1 Mato Grande 1 Total 8
+
+Meta 1200 - Estruturar o serviço de vigilância dos acidentes de transporte terrestre em 12 municípios do Estado Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 4 Sertão Central, Cabugi e Litoral Norte 1 Agreste Litoral Sul 1 Trairi 1 Seridó 1 Alto Oeste 1 Açu/Mossoró 2 Mato Grande 1 Total 12
+
+Meta 1201 - Implementar em 100% dos municípios a prática de notificação contínua dos casos de violência interpessoal/autoprovocada Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1202 - Aumentar para 80% o encerramento oportuno dos casos de doenças de Notificação compulsória Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 80 Total 80
+
+Meta 1203 - Aumentar para 90% a proporção de óbitos maternos e MIF investigados no RN Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 90 Total 90
+
+Demonstrativo de Programas Temáticos PPA Meta 1204 - Aumentar para 70% as investigações fetais e infantis RN Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 70 Total 70
+
+Meta 1205 - Ampliar em 30% a cobertura vacinal do calendário básico de vacinas em menores de 1 ano Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 30 Total 30
+
+Meta 1206 - Ampliar para 85% a cura dos casos novos de tuberculose pulmonar bacilífera no Estado Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 85 Total 85
+
+Meta 1207 - Ampliar para 35% o número de análises realizadas em amostra de água para o consumo humano quanto aos parâmetros coliforme total, cloro Unidade Medida Percentual residual livre e turbidez
+
+Território 2016-2019 Rio Grande do Norte 35 Total 35
+
+Meta 1208 - Reduzir em 28% o coeficiente de prevalência da hanseníase Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 28 Total 28
+
+Meta 1209 - Reduzir em 50% o número absoluto de óbitos por dengue Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 50 Total 50
+
+Meta 1210 - Aumentar para 85%, a cobertura de exames citopatológicos do colo do útero entre mulheres de 25 a 64 anos Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 85 Total 85
+
+Meta 1211 - Aumentar para 85%, a cobertura de exames de mamografia de rastreamento entre mulheres de 50 a 69 anos Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 85 Total 85
+
+Meta 1212 - Reestruturar a Central Estadual da Base de Ultra Baixo Volume (combate ao aedes aeggeti) Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1213 - Implantar metodologia de análises de detecção de resíduos e outros contaminantes de grãos, minerais e laticínios na II e VII regiões de saúde Unidade Unidade Medida
+
+Território 2016-2019 Açu/Mossoró 2 Total 2
+
+Demonstrativo de Programas Temáticos PPA Meta 1214 - Viabilizar a participação de 100% dos profissionais do LACEN em eventos de educação permanente relacionados a área Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1215 - Operacionalizar 100% as ações e serviços da rede de laboratórios de saúde pública do Estado Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1216 - Realizar e monitorar inspeções sanitárias dos produtos e serviços de saúde, em 80% dos municípios, cujas ações ainda não foram Unidade Medida Percentual descentralizadas
+
+Território 2016-2019 Rio Grande do Norte 80 Total 80
+
+Meta 1217 - Realizar o monitoramento e avaliação da descentralização das ações de vigilância para o gerenciamento do risco sanitário em 100% dos Unidade Medida Percentual municípios do Estado
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1218 - Implementar ações de promoção e proteção, recuperação e reabilitação da saúde de 100% dos trabalhadores submetidos aos riscos e agravos Unidade Medida Percentual advindos das condições de trabalho
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1219 - Coordenar as ações de vigilância ambiental, no âmbito do Estado, relacionadas aos fatores de risco à saúde humana, incluindo o monitoramento da Unidade Medida Percentual água de consumo humano e contaminantes com importância em saúde pública
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1220 - Reduzir os riscos e agravos à saúde da população LGBT, por meio do apoio as ações de promoção e vigilância em saúde, garantindo o recorte Unidade Medida Percentual étnico/racial, de gênero e geracional
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1221 - Implementar as ações de vigilância, prevenção e controle das DST/AIDS e Hepatites Virais, no âmbito do Estado Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1349 - Implantar Comitê de Articulação Intersetorial e Interinstitucional do SUS/RN Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 01429 - Implantação, implementação de serviços e ações de vigilância em saúde, apoio técnico, logístico e financeiro para a realização de visitas técnicas, implantação de sistema de informação e fomento à pesquisa
+
+22. DESENVOLVIMENTO DA CULTURA
+
+A cultura é tudo aquilo que é produzido pela população de uma determinada região, seja no plano concreto ou no plano imaterial, desde artefatos e objetos até ideais e crenças. A cultura é a identidade de um povo.
+
+No Brasil, observamos culturas extremamente distintas e que formam a identidade do país. A região Nordeste tem uma cultura bem definida e muito rica, com destaques para as festas, danças, artesanatos e culinária, que são exportadas para as demais regiões do Brasil.
+
+O Rio Grande do Norte possui um precioso folclore nascido das tradições nativas, portuguesas e africanas. Com o tempo essas tradições, herança da mestiçagem e da fascinação pela beleza das paisagens, foram fonte de inspiração para os grandes artistas potiguares através de músicas e danças populares. As manifestações culturais são adaptadas ou desapareceram ao longo dos séculos, modelados hoje pela televisão, pela internet e pelos interesses privados que criam novos hábitos culturais, adaptando o calendário das festas populares ao calendário turístico, como as festas de São João.
+
+Entre outras manifestações culturais do Estado, destacam-se a literatura de cordel, os artesanatos como o bordado, crochê e cerâmica, os monumentos históricos locais como a Fortaleza dos Reis Magos e o bairro da Ribeira, em Natal, e várias igrejas, e a culinária local como o feijão verde e a paçoca.
+
+Além da identidade do povo, a cultura também é fonte de emprego e renda, auxiliando no desenvolvimento do Rio Grande do Norte. Entre as formas para auxiliar no desenvolvimento cultural do Estado, destacam-se o turismo e a economia criativa.
+
+O desenvolvimento da cultura local tem grandes desafios a serem superados. O Governo do Estado deve se empenhar no apoio ao desenvolvimento cultural por meio de programas voltados as diferentes manifestações culturais, como por exemplo oficinas de artesanato, suporte ao turismo e incentivo a formalização.
+
+O segmento de economia criativa é estrategicamente muito relevante para o Rio Grande do Norte nos próximos anos, pois além de valorizar a cultura local, pode auxiliar a população potiguar a superar a adversidades da recessão econômica do país.
+
+Demonstrativo de Programas Temáticos PPA
+
+0022 - DESENVOLVIMENTO DA CULTURA
+
+Diretriz 06 - PROMOÇÃO DO BEM-ESTAR DO POTIGUAR ATRAVÉS DA GARANTIA AO ACESSO AOS DIREITOS FUNDAMENTAIS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0124 - Percentual de despesas com cultura do Governo Estadual do RN Percentual 31/01/2013 0,7
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 16.377.000,00 2.400.000,00 18.777.000,00
+
+Recurso Federal 1.895.000,00 1.308.000,00 3.203.000,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 198.000,00 4.000,00 202.000,00
+
+TOTAL 18.470.000,00 3.712.000,00 22.182.000,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0295 - Promover o desenvolvimento sociocultural e científico do Estado, mediante colaboração com o poder público, através da realização de oficinas, cursos de capacitação e seminários, afim de promover a manutenção e documentação dos bens culturais móveis e imóveis do Estado.
+
+Órgão: 18201 - Fundação José Augusto
+
+Meta 1171 - Ofertar 75 oficinas de formação artística para crianças Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 75 Total 75
+
+Meta 1172 - Ofertar 70 oficinas de formação artística para jovens Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 70 Total 70
+
+Meta 1173 - Ofertar 40 oficinas de formação artística para adultos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 40 Total 40
+
+Meta 1174 - Ofertar 40 oficinas de formação artístitca para as profissões das artes Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 40 Total 40
+
+Meta 1175 - Ofertar 10 cursos de carpintaria e serralheria para cenógrafos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Meta 1176 - Ofertar 12 cursos de engenharia de som para apresentações musicais e artes cênicas Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 12 Total 12
+
+Meta 1177 - Ofertar 12 cursos de operação de luz Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 12 Total 12
+
+Meta 1178 - Ofertar 20 cursos de eletricistas para eventos artísticos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 20 Total 20
+
+Meta 1179 - Ofertar 20 cursos de técnicos de montagem e desmontagem Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 20
+
+Demonstrativo de Programas Temáticos PPA Total 20
+
+Meta 1180 - Ofertar 70 cursos especiais para linguagens artísticas Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 70 Total 70
+
+Meta 1181 - Ofertar 14 Seminários de Vivências Artístiticas Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 14 Total 14
+
+Iniciativas 01571 - Realização de capacitação para agentes de cultura
+
+01572 - Articulação para firmar parcerias
+
+01573 - Realização de oficinas e seminários
+
+Objetivo 0298 - Estruturar o Sistema Estadual de Cultura e ampliar a participação e o controle social na proposição, implementação e fiscalização de políticas de cultura do Estado, através da abertura de canais de diálogo com a sociedade visando o aperfeiçoamento da gestão de cultura.
+
+Órgão: 18201 - Fundação José Augusto
+
+Meta 1240 - Realizar Conferências Estaduais de Cultura Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 2 Total 2
+
+Meta 1241 - Criar fóruns dos setoriais de cultura Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 16 Total 16
+
+Iniciativas 01471 - Estruturação do Sistema Estadual de Cultura
+
+01472 - Promoção e fomento a canais de participação social na cultura
+
+01559 - Revisão dos instrumentos normativos do financiamento da cultura
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0299 - Promover a Capacitação e a Profissionalização dos trabalhadores/as das artes e o acesso do cidadão a vivência da cultura, através da implantação do Programa de Iniciação Artística (PIA).
+
+Órgão: 18201 - Fundação José Augusto
+
+Meta 1243 - Ofertar cursos, oficinas e seminários para os trabalhadores das artes Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 20 Sertão Central, Cabugi e Litoral Norte 15 Agreste Litoral Sul 20 Trairi 20 Potengi 15 Seridó 20 Alto Oeste 15 Açu/Mossoró 20 Mato Grande 20 Sertão do Apodi 20 Total 185
+
+Meta 1244 - Promover oficinas,seminários e vivências de arte e cultura de estímulo a construção do conhecimento como forma de transformação a sua Unidade Medida Unidade realidade
+
+Território 2016-2019 Terras Potiguaras 20 Sertão Central, Cabugi e Litoral Norte 15 Agreste Litoral Sul 20 Trairi 20 Potengi 20 Seridó 20 Alto Oeste 20 Açu/Mossoró 15 Mato Grande 20 Sertão do Apodi 15 Total 185
+
+Iniciativas 01473 - Realização do Programa de Iniciação Artística - PIA
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0300 - Preservar e promover o patrimônio imaterial e a representação simbólica da cultura, através do financiamento à iniciativas culturais e do fomento da economia, visando fortalecer a interação entre cidadão e arte.
+
+Órgão: 18201 - Fundação José Augusto
+
+Meta 1245 - Realizar a manutenção dos grupos artísticos de natureza pública do Estado Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 24 Total 24
+
+Meta 1246 - Realizar cursos para fomentar o empreendedorismo cultural Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 24 Total 24
+
+Meta 1248 - Realizar apresentações culturais em todos os territórios do RN Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 200 Sertão Central, Cabugi e Litoral Norte 100 Agreste Litoral Sul 100 Trairi 100 Potengi 100 Seridó 100 Alto Oeste 50 Açu/Mossoró 150 Mato Grande 100 Sertão do Apodi 100 Total 1.100
+
+Meta 1255 - Promover ações de intercâmbio cultural através de festivais, seminários, mostras e outros eventos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 240 Total 240
+
+Meta 1256 - Promover editais culturais no Estado Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 46 Total 46
+
+Meta 1257 - Fomentar e manter os pontos de cultura do RN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 172 Total 172
+
+Iniciativas 01474 - Fomento e Promoção de apresentações culturais, criação artística e intercâmbio cultural
+
+01475 - Promoção e fomento ao empreendedorismo cultural e economia criativa
+
+01476 - Preservação, fomento e promoção dos grupos artísticos públicos e do patrimônio vivo
+
+01477 - Garantia de percentual de gênero e juventude em 100% dos editais da Fundação José Augusto
+
+01478 - Fomento e manutenção dos grupos de cultura
+
+01479 - Promoção de atividades artístico-culturais que abordem as diversas temáticas dos Direitos Humanos
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0301 - Modernizar e ampliar a rede de bens, equipamentos culturais e recursos humanos através da construção, conservação, manutenção e aparelhamento das estruturas físicas e da melhoria de pessoal, de modo a garantir condições de funcionamento da gestão da cultura.
+
+Órgão: 18201 - Fundação José Augusto
+
+Meta 1258 - Manter e restaurar prédios históricos e/ou tombados, equipamentos, acervos e monumentos culturais Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 35 Total 35
+
+Meta 1259 - Reformar e modernizar a Biblioteca Pública Câmara Cascudo Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 1260 - Restaurar e adquirir novos títulos para o acervo da Biblioteca Pública Câmara Cascudo Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 21.500 Total 21.500
+
+Meta 1261 - Adquirir e manter imóveis tombados Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 3 Total 3
+
+Meta 1262 - Criar subsedes de cultura nos territórios do Estado Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Meta 1263 - Realizar encontros de capacitação e intercâmbio dos agentes de cultura Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 1264 - Capacitar e qualificar os servidores da Fundação José Augusto Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 320 Total 320
+
+Iniciativas 01480 - Construção, aquisição, manutenção, restauração e operacionalização de prédios históricos e/ou tomabados, equipamentos, acervos e monumentos culturais
+
+01481 - Modernização da Fundação José Augusto
+
+01482 - Aperfeiçoamento do quadro de servidores da Fundação José Augusto
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0302 - Apoiar e fomentar o Turismo Cultural do RN através da elaboração, estruturação e mapeamento de bens e roteiros culturais do Estado, de modo a consolidar seu patrimônio cultural.
+
+Órgão: 18201 - Fundação José Augusto
+
+Meta 1265 - Criar roteiros turístico-culturais do Estado Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 5 Total 5
+
+Meta 1266 - Mapear bens e patrimônios culturais do Estado Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 30 Total 30
+
+Meta 1267 - Criar o Centro Cultural das Identidades Tradicionais da Cultura Seridoense Unidade Unidade Medida
+
+Território 2016-2019 Seridó 1 Total 1
+
+Iniciativas 01483 - Fomento, manutenção e preservação ao turismo cultural
+
+23. ESPORTE E LAZER
+
+O esporte e o lazer são atividades inerentes ao ser humano há séculos, tendo características próprias do seu tempo e expressões culturais onde são praticados. No processo histórico e evolutivo, o esporte e o lazer tem se prestado a variáveis objetivos e valores: diversão e espetáculos, aproximando culturas, supremacia racial, promoção da saúde e afirmação de ideologias políticas e econômicas. O fato é que, na atualidade se firma como uma expressão humana valorizada e necessária, porém promotora de distorções das mais variadas.
+
+A Constituição brasileira define como direito básico ao cidadão o esporte e o lazer. Na prática o acesso a este direito demonstra as desigualdades existentes entre: populações urbanas e rurais, classes sociais, gêneros, faixas etárias, ricos e pobres, regiões geográficas, dentre outras variáveis. Se por um lado as modalidades esportivas e as várias formas de lazer crescem favorecendo a inclusão de novos praticantes, a democratização do acesso não segue a mesma lógica. Políticas públicas precisam ser criadas e orientadas para corrigir estas distorções.
+
+Recentes publicações do Ministério dos Esportes, no Diagnóstico Nacional do Esporte com dados colhidos por amostragem em todo o País no ano de 2013, são esclarecedores e valiosos, para orientações de políticas públicas de esporte e lazer, tais como: no Brasil, a taxa de sedentarismo corresponde a 45,9% da população entre 14 e 75 anos, ou seja, não praticam nenhum tipo de esporte ou atividade física regular. Em relação a outros países, colocação brasileira no ranking do sedentarismo atinge o surpreendente 5º lugar geral, conforme tabela abaixo:
+
+PAÍSES TAXA DE SEDENTARISMO
+
+ARGENTINA 68,3%
+
+PORTUGAL 53%
+
+ÁFRICA DO SUL 52,4%
+
+ITÁLIA 48%
+
+BRASIL 45,9%
+
+Fonte: Diesporte, Diagnóstico Nacional do Esporte, junho de 2015, Ministério do Esporte.
+
+Em relação a proporção de sedentários por faixa etária no Brasil, observa-se aumento da proporção de pessoas sedentárias com o aumento da idade. Os dados mostram que 50,4% das mulheres são sedentárias, sendo superior aos homens, com 41,2% de sedentários.
+
+FAIXA ETÁRIA PERCENTUAL 15 a 19 anos 32,7% 20 a 24 anos 38,1% 25 a 34 anos 40,7% 35 a 44 anos 46,4% 45 a 54 anos 53,5% 55 a 64 anos 56,5% 65 a 74 anos 64,4%
+
+Fonte: Diesporte, Diagnóstico Nacional do Esporte, junho de 2015, Ministério do Esporte.
+
+Mais de 80% da população conhecem os riscos que correm pela falta de atividade física, no entanto, mesmo assim deixam de se exercitar uns por falta de tempo, outros por falta de motivação e disposição. A prática regular de exercícios físicos fortalece os músculos, melhora a frequência cardíaca, reduz a ansiedade e depressão, evita e controla doenças como obesidade, diabetes e osteoporose, contribuindo para a melhoria da qualidade de vida e a promoção da saúde. Como já se esperava o futebol é o esporte preferencial dos entrevistados, 42,7% dos praticantes, sendo 66,2% homens e apenas 19,2% são mulheres.
+
+Na pesquisa identifica-se que 36,3% são ativos para melhorar a qualidade de vida e o seu bem- estar. Constata-se que a escola foi a porta de entrada para a iniciação esportiva orientada por um professor entre 48% da população. Paradoxalmente 90,3% dos entrevistados não recebem orientação de um instrutor. A faixa etária mais ativa corresponde aos jovens de 15 a 16 anos.
+
+No tocante ao esporte de alto rendimento, até as categorias de base o Governo Federal tem evidenciado esforços no sentido de financiar a estruturação de centros de treinamento e também destinar recursos, em forma de bolsas aos atletas que vierem a se destacar em seus esportes de origem. Esta política assegura o crescimento técnico e a permanência dos atletas em suas práticas. A política aqui relatada vem apresentando resultados significativos em nosso Estado, especialmente no segmento estudantil e destes no esporte paraolímpico.
+
+Observando os dados, detecta-se que o desafio para o esporte e o lazer passa por políticas públicas de inclusão social, viabilizando:
+
+ Aumentar a oferta de equipamentos e espaços destinados ao lazer e as práticas esportivas;
+
+ Aumentar e diversificar a oferta de programas e serviços de esporte e lazer;
+
+ Promover a formulação, valorização e estimulando a distribuição territorial de profissionais do lazer e do esporte;
+
+ Acolher os segmentos sociais ausentes as práticas esportivas, especialmente, idosos, mulheres, segregados e população rural;
+
+ Reduzir as desigualdades sociais e de regiões no que se refere ao acesso ao esporte e ao lazer.
+
+Pelo exposto, espera-se que políticas com estes objetivos minimizem as distorções existentes, privilegie as classes sociais mais necessitadas de serviços públicos na área do esporte e do lazer.
+
+Demonstrativo de Programas Temáticos PPA
+
+0023 - ESPORTE E LAZER
+
+Diretriz 06 - PROMOÇÃO DO BEM-ESTAR DO POTIGUAR ATRAVÉS DA GARANTIA AO ACESSO AOS DIREITOS FUNDAMENTAIS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0016 - Numero de bolsas concedidas a atletas do RN Unidade
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 4.916.000,00 5.277.000,00 10.193.000,00
+
+Recurso Federal 0,00 9.846.000,00 9.846.000,00
+
+Operações de Crédito 0,00 1.094.000,00 1.094.000,00
+
+Outros 3.200.000,00 0,00 3.200.000,00
+
+TOTAL 8.116.000,00 16.217.000,00 24.333.000,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0280 - Despontar o Rio Grande do Norte no esporte de alto rendimento através do fomento a participação de alunos-atletas advindos em especial de escolas públicas em eventos esportivos, possibilitando a descoberta de talentos, bem como através do apoio as entidades esportivas representativas, assegurando a qualidade técnica de seus praticantes nos eventos nacionais e internacionais.
+
+Órgão: 33000 - Secretaria do Estado do Esporte e do Lazer
+
+Meta 0989 - Apoiar o esporte de rendimento através das entidades representativas das diversas modalidades por meio da participação e realização de eventos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 160 Total 160
+
+Meta 1288 - Promover a participação de atletas escolares nos esportes olímpicos e paraolímpicos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 20.000 Total 20.000
+
+Meta 1289 - Promover eventos esportivos educacionais Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 20 Total 20
+
+Meta 1290 - Implantar projetos de iniciação esportiva nos municípios do RN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 80 Total 80
+
+Meta 1291 - Conceder bolsa esporte para atletas e paratletas de alto rendimento Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 800 Total 800
+
+Meta 1292 - Construir o Centro de Treinamento Esportivo de alto rendimento Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1294 - Implantar o Sistema Estadual de Gestão do Esporte e do lazer Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 01115 - Implantação de núcleos de esporte olímpico e paralímpico no âmbito educacional público municipal e estadual, bem como sua supervisão, para descoberta de talentos
+
+01123 - Realização das etapas estaduais com vistas a selecionar as equipes representativas estaduais nos eventos esportivos olímpicos e paraolímpicos escolares de nível nacional
+
+01332 - Apoio a relização e participação em eventos de alto rendimento
+
+01523 - Apoio ao atleta de base (escolar) e profissional de alto rendimento para participação em eventos esportivos nacionais e internacionais, priorizando os esportes olímpicos e paralímpicos
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0305 - Instituir no RN o Sistema Estadual de Esporte e lazer, para possibilitar a estruturação das ações governamentais nesta área, através da implantação de políticas públicas sólidas, voltadas a promover a universalização da prática esportiva e do lazer, promovendo a inserção social de crianças, jovens e adolescentes, adultos, idosos, pessoas em situação de vulnerabilidade social e marginalizadas.
+
+Órgão: 33000 - Secretaria do Estado do Esporte e do Lazer
+
+Meta 1295 - Realizar eventos estaduais de esporte, recreação e lazer (Fóruns, Seminários, Encontros), que promovam a conscientização do papel do esporte Unidade Medida Unidade e do lazer na sociedade
+
+Território 2016-2019 Rio Grande do Norte 48 Total 48
+
+Meta 1296 - Realizar eventos de esporte, recreação e lazer para a população indígena Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 1297 - Implantar projetos de esporte, recreação e lazer em Unidades do Sistema Prisional Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 1298 - Instalar campos de areia com função polidesportiva Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 180 Total 180
+
+Meta 1299 - Realizar e/ou apoiar eventos esportivos, recreativos e de lazer, bem como de esporte amador Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 160 Total 160
+
+Meta 1300 - Implantar academias para a 3ª idade Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 126 Total 126
+
+Meta 1301 - Apoiar e incentivar a instalação dos Conselhos Municipais de Esporte e Lazer Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 40 Total 40
+
+Meta 1302 - Realizar eventos de esporte e lazer para inclusão social de jovens e adolescentes expostos a violência e em cumprimento de medidas Unidade Medida Unidade socioeducativas
+
+Território 2016-2019 Rio Grande do Norte 12 Total 12
+
+Meta 1304 - Realizar eventos de esporte, recreação e lazer de inclusão social para idosos e pessoas com deficiência Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 8
+
+Demonstrativo de Programas Temáticos PPA Total 8
+
+Meta 1311 - Implantar Praças da Juventude Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 6 Total 6
+
+Iniciativas 01092 - Apoio e realização de eventos que qualifique e aperfeiçoe agentes para atuação no esporte, recreação e lazer das pessoas com deficiência e nos territórios socialmente vulneráveis
+
+01093 - Articulação com instituições de ensino superior, no sentido de fomentar a capacitação de recursos humanos que atuam nos meios esportivos
+
+01098 - Articulação com municípios para incluir em seus programas, projetos evidenciando esportes para inclusão social especialmente para as pessoas com deficiência
+
+01099 - Realização, promoção e apoio a eventos de esporte de participação, recreação e lazer para inclusão social de pessoas expostas a violência, jovens cumpridores de medidas socioeducativas, apenados e pessoas com deficiência 01126 - Promoção de Reuniões periódicas com gestores municipais e entidades representativas do esporte para coleta sugestões que contribuam com o processo de construção do Sistema Estadual do Esporte e do Lazer 01129 - Formatação do processo de coleta de dados dos eventos de esporte e lazer nos municípios, visando à elaboração de um calendário estadual integrado
+
+01131 - Consolidação e formalização do Sistema Estadual de Esporte e do Lazer
+
+01133 - Articulação para implantação os Conselhos Municipais de Esporte e Lazer
+
+01136 - Criação do banco de dados do esporte, articulado com o censo esportivo estadual
+
+01533 - Cooperação entre a SEEL, SEEC e SEJURN para revitalizar e reestruturar os CAIC´s do Estado do RN, para acolhimento de atividades de Educação, Cultura, Esporte e Lazer
+
+01534 - Implantação, implementação, operacionalização, revitalização e instalação de equipamentos de esporte e lazer nas zonas urbana e rural
+
+01535 - Concessão de bolsa esporte à atletas e paratletas de alto rendimento
+
+01539 - Elaboração do diagnóstico acerca da realidade vivenciada pelo esporte e lazer do Rio Grande do Norte, sendouma ferramenta de informação de dados inportante para fomentar a área, em parceria com os municípios, para criação do Sistema Estadual de Esporte e Lazer 01540 - Promoção e realização de atividades esportivas nos municípios do RN
+
+24. HABITAÇÃO
+
+Em virtude de fatores como o intenso processo de urbanização das últimas décadas, a baixa renda familiar, a apropriação especulativa de terra urbanizada e a inadequação das políticas de habitação, uma quantidade expressiva de brasileiros vive em habitações inadequadas. O déficit habitacional, acumulado ao longo de décadas e a demanda habitacional futura representam um desafio de cerca de 31 milhões de novos atendimentos habitacionais até 2023 no Brasil, segundo o Plano Nacional de Habitação.
+
+De acordo com a Fundação João Pinheiro, no período entre 2007 e 2012, o Brasil reduziu o déficit habitacional em 1,6%. Em 2012, 5,8 milhões de domicílios brasileiros, 9,1% do total, encontravam-se em condições não desejáveis, seja por condições de precariedade da construção, condições insalubres, excessivamente habitados ou com aluguéis excessivamente onerados, apresentando um déficit habitacional de moradias a serem construídas.
+
+O Rio Grande do Norte, no período entre 2007 e 2012, apresentou queda de 1,3% no déficit populacional. O Estado está na 22ª posição entre as unidades da Federação, com um dos maiores déficits habitacionais do pais, e caiu três posições no período analisado.
+
+Em 2012, 12% dos Potiguares encontravam-se em condições não desejáveis de domicílio, (aproximadamente 120 mil domicílios), com 83% na área urbana e 17% na rural. Entre os componentes do déficit habitacional no período entre 2007 e 2012, a habitação precária reduziu 69%, adensamento excessivo em domicílios alugados reduziu 7,6% e a coabitação familiar teve uma leve redução de 0,3%. Um problema que se agravou foi o ônus excessivo com aluguel urbano, que aumentou 103,4% no mesmo período.
+
+Fonte: Fundação João Pinheiro – Déficit habitacional no Brasil 2011 – 2012.
+
+Segundo os dados do Plano Estadual de Habitação de Interesse Social (PEHIS) do Rio Grande do Norte, as regiões Metropolitana e Mossorense acumulam mais da metade do déficit potiguar. No Estado, 92,4% dos domicílios urbanos têm oferta de infraestrutura como abastecimento de água, coleta de lixo e abastecimento de energia elétrica, sendo a região do Litoral Oriental, seguida pela região do Agreste, Potengi e Trairi as mais deficitárias. Entre os domicílios urbanos, 31,2% do total do Estado apresentam banheiro e rede geral de esgoto, sendo as regiões do Litoral Oriental e Médio Oeste mais deficientes.
+
+Fonte: Plano Estadual de Habitação de Interesse Social (PEHIS) do Rio Grande do Norte, 2014. Dados IBGE, Censo 2010.
+
+A maioria dos municípios do Estado do Rio Grande do Norte são de pequeno porte, ou seja, com menos de 10 mil habitantes, e isso gera dificuldades para fazer funcionar as estruturas de gestão de política habitacional, como a gestão dos recursos e a falta de conselho estruturado. Apenas 24% dos municípios aderiram ao PEHIS, sendo a maior incidência entre os municípios maiores e na Região Metropolitana.
+
+Algumas ações já foram realizadas para melhorar o déficit habitacional no Estado, como a criação em 2007 da Companhia Estadual de Habitação e Desenvolvimento Urbano do Rio Grande do Norte (CEHAB), que permitiu uma maior autonomia financeira para o tema de habitação, antes vinculado diretamente a Secretaria de Estado do Trabalho, Habitação e da Assistência Social (SETHAS).
+
+A elaboração do PEHIS é um novo passo na consolidação da política habitacional do Estado e, nesse sentido, deve-se retomar a gestão e a articulação no âmbito das instituições envolvidas.
+
+O PEHIS deve promover o debate sobre papéis e atribuições que estado e municípios assumem na consolidação e implementação do Sistema Nacional de Habitação.
+
+De acordo com a PEC 282/2008, durante trinta anos, ou até a eliminação do déficit habitacional, serão destinados, anualmente, recursos orçamentários aos Fundos de Habitação de Interesse Social na União, nos Estados, no Distrito Federal e nos Municípios, o equivalente a 1% da arrecadação dos impostos (refere-se ao art. 155 e dos recursos de que tratam os arts. 157 e 159, inciso I, alínea “a”, e inciso II, deduzidas as parcelas que forem transferidas aos respectivos Municípios). Segundo dados do Plano Estadual de Habitação de Interesse Social (PEHIS) do Rio Grande do Norte, o valor anual para investimento em habitação é aproximadamente 3 milhões de reais.
+
+Um dos principais desafios do Estado é melhorar o déficit habitacional, que é um dos maiores do pais e está bem acima da média brasileira. Os investimentos obrigatórios em habitação não serão suficientes para melhorar os indicadores, havendo necessidade de mais investimentos por parte do Governo do Estado. Devido às restrições fiscais, a capacidade de investimento no Estado será limitada nos próximos anos e isso será agravado pelo cenário de crise econômica nacional. Para superar esses desafios, o Estado pode buscar fontes alternativas de investimento como as Parcerias Público-Privada (PPP) e a captação de recursos internacionais.
+
+Demonstrativo de Programas Temáticos PPA
+
+0024 - HABITAÇÃO
+
+Diretriz 06 - PROMOÇÃO DO BEM-ESTAR DO POTIGUAR ATRAVÉS DA GARANTIA AO ACESSO AOS DIREITOS FUNDAMENTAIS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0119 - Déficit habitacional Percentual 30/01/2012 12,3
+
+0120 - Percentual de domicílios em Aglomerados Subnormais Percentual 30/01/2010 2,7
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 0,00 60.136.000,00 60.136.000,00
+
+Recurso Federal 0,00 0,00 0,00
+
+Operações de Crédito 0,00 67.244.000,00 67.244.000,00
+
+Outros 0,00 0,00 0,00
+
+TOTAL 0,00 127.380.000,00 127.380.000,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0260 - Promover o acesso a moradia digna através da construção, reforma e ampliação de unidades habitacionais visando a melhoria da qualidade de vida da população e a redução do déficit habitacional.
+
+Órgão: 26203 - Companhia Estadual de Habitação e Desenvolvimento Urbano
+
+Meta 0839 - Adquirir lotes ou terrenos para a construção de Unidades Habitacionais Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 83 Total 83
+
+Meta 0840 - Legalizar lotes e terrenos através da Regularização Fundiária Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 83 Total 83
+
+Meta 0841 - Construir 40.000 Unidades Habitacionais Urbanas e Rurais Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 40.000 Total 40.000
+
+Meta 0845 - Reformar ou ampliar 20.000 moradias para famílias de baixa renda Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 20.000 Total 20.000
+
+Meta 0849 - Ampliar e modernizar a estrutura física e tecnológica da Companhia Estadual de Habitação e Desenvolvimento Urbano Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 01191 - Apoio as entidades não governamentais que atuam como promotoras de Habitação de Interesse Social
+
+01193 - Realização de convênios que apoiem a infraestrutura urbana e rural para a produção de Habitação de Interesse Social
+
+01196 - Desapropriação de áreas públicas para produção de Habitação de Interesse Social
+
+01197 - Ampliação do Programa de Habitação de Interesse Social, através de Parcerias Público Privada - PPP visando acessar os programas do Governo Federal (PNHU/PNHR)
+
+01198 - Realização de convênios junto ao governo federal através dos recursos do PAC, OGU, FNHIS, FDS, FAT
+
+01199 - Realização de projetos habitacionais para construção de unidades habitacionais em parceria com os municípios
+
+01200 - Promoção de parceria com os centros de ensino, pesquisa e extensão na para ampliação do conhecimento sobre a problemática habitacional do Estado
+
+01201 - Articulação de ações para promoção da integração dos Planos Habitacionais dos Municípios ao desenvolvimento regional
+
+01202 - Assessoramento aos municípios para o enfrentamento de suas problemáticas habitacionais
+
+01203 - Construção, reforma e ampliação de habitação em quantidade e qualidade adequada a demanda de cada região para a promoção de redução do deficit habitacional nos territórios do Rio Grande do Norte 01204 - Articulação junto ao INCRA e os municípios, para melhorar as condições de moradia na zona rural, considerando as informações do Cadastro Ambiental Rural
+
+01205 - Melhoria da gestão administrativa e organizacional da Companhia Estadual de Habitação e Desenvolvimento Urbano
+
+01206 - Desenvolvimento de estudos e projetos sustentáveis na área habitacional
+
+01544 - Implementação, execução e gestão do Plano Estadual de Habitação de Interesse Social
+
+01545 - Promoção, capacitação e assessoramento para a inclusão produtiva das familias beneficiadas pelos programas habitacionais
+
+01546 - Melhoria da infraestrutura física e tecnológica da sede da Companhia Estadual de Habitação e Desenvolvimento Urbano - CEHAB
+
+01547 - Promoção da regularização fundiária e desapropriação para a construção de moradias que beneficiam famílias de baixa renda
+
+25. SEGURANÇA ALIMENTAR E NUTRICIONAL
+
+Em 2014, o Brasil saiu do Mapa Mundial da Fome, da Organização das Nações Unidas para a Alimentação e a Agricultura (FAO/ONU). Tais esforços foram materializados por meio de um conjunto de políticas públicas geridas de maneira participativa, a maior parte delas contemplada no 1º Plano Nacional de Segurança Alimentar e Nutricional, elaborado a partir das proposições da 4ª Conferência Nacional de Segurança Alimentar e Nutricional - CNSAN. Este modelo participativo tornou o país uma referência internacional no enfrentamento da fome e de outras manifestações de insegurança alimentar e nutricional.
+
+Apesar da conquista histórica, ainda existem desafios a serem superados, especialmente entre grupos populacionais específicos, tais como a população negra, os povos indígenas e os povos e comunidades tradicionais, especialmente as comunidades quilombolas, bem como as populações mais vulnerabilizadas que moram nas cidades.
+
+A principal causa da insegurança alimentar é a falta de acesso aos alimentos pelos grupos sociais mais vulneráveis, haja vista que o rendimento familiar é o principal fator que determina tal condição de insegurança. A proporção de insegurança alimentar grave ou moderada foi maior em domicílios cuja pessoa de referência é a mulher. Ademais, existe uma relação inversa entre o nível de escolaridade e insegurança alimentar grave ou moderada (IBGE, 2010).
+
+Na busca de minimizar tal realidade, em 2003 foi criada a Rede de Equipamentos de Alimentação e Nutrição, composta de Restaurantes Populares, como forma de ofertar refeições a preços subsidiados, assegurando o direito humano à alimentação, com a finalidade de exercer a consolidação de sistemas descentralizados de segurança alimentar e nutricional, especialmente quando articulada com a iniciativa de educação alimentar e nutricional.
+
+Merece destaque também, as ações de acesso à água para a manutenção da segurança hídrica no tocante às tecnologias de captação de água potável para consumo humano, cultivo de hortas e criação de pequenos e médios animais, experimentadas pela sociedade e encampadas enquanto política pública, por meio do Programa de Cisternas como exemplo de parceria entre o Poder Público e Entidades da Sociedade Civil. Constata-se como resultados mais relevantes destas iniciativas a maior disponibilidade e qualidade de água, mais tempo para mulheres e crianças e a redução de incidência de doenças.
+
+No Rio grande do Norte, o Governo implantou o Programa de Restaurantes Populares para atender a população em situação de vulnerabilidade alimentar e nutricional assegurando uma alimentação de qualidade através de 24 (vinte e quatro) Unidades de Restaurantes Populares, mais especificamente nos Territórios de: Mato Grande, Seridó, Potengi, Apodi, Mossoró, Alto
+
+Oeste, Terras Potiguaras, Trairí, Agreste e Sertão do Cabugi cuja área de abrangência atinge 20 (vinte) municípios no Rio Grande do Norte, assegurando 19.500 (dezenove mil e 500) refeições/dia.
+
+Nesse contexto, cabe ressaltar a importância do Programa do Leite, implantado pelo Governo do Estado, no intuito de reduzir as carências nutricionais de crianças (02 à 07 anos), gestantes, nutrizes (até 06 meses após o parto) e outros beneficiários desde que justificado e deliberado pelo Conselho de Segurança Alimentar e Nutricional – CONSEA e Secretaria Nacional de Segurança Alimentar e Nutricional – SESAN possibilitando que tal benefício atinja 105.000 (cento e cinquenta e cinco mil) famílias distribuídas em todo território. Tal iniciativa levou o Rio Grande do Norte a ser indicado pelo UNICEF como o Estado do Brasil com o menor índice de desnutrição e menor taxa de mortalidade infantil.
+
+No tocante a estiagem que caracteriza a região semiárida, considerada uma das mais críticas dos últimos 50 anos, afetando o abastecimento de água e os sistemas produtivos locais, com impactos diretos sobre o desenvolvimento socioeconômico da região, o Governo do Rio Grande do Norte, em parceria com o Ministério de Desenvolvimento Social – MDS, implantou o Programa de Cisternas como estratégia para minimizar os efeitos da seca no Estado.
+
+Esse Programa beneficia 9.206 (nove mil duzentos e seis) cisternas/famílias de baixa renda inscritas no Cadastro Único localizadas nos 10 (dez) territórios do Rio Grande do Norte, exceto na Capital, cuja abrangência atinge um total de 108 (cento e oito) municípios, possibilitando a esse público-alvo o acesso à água potável destinada ao consumo humano (1ª água) e para consumo animal e produção agrícola (2ª água).
+
+Nesse contexto, ressaltamos a importância da pactuação dos governos e sociedade, através dos Conselhos e das Conferências, objetivando ampliar e fortalecer os compromissos políticos para a promoção da soberania alimentar, garantindo a todos o direito humano à alimentação adequada e saudável, assegurando a participação social e a gestão intersetorial no Sistema, na Política e no Plano Nacional de Segurança Alimentar e Nutricional.
+
+Demonstrativo de Programas Temáticos PPA
+
+0025 - SEGURANÇA ALIMENTAR E NUTRICIONAL
+
+Diretriz 06 - PROMOÇÃO DO BEM-ESTAR DO POTIGUAR ATRAVÉS DA GARANTIA AO ACESSO AOS DIREITOS FUNDAMENTAIS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0123 - Domicílios em Situação de Segurança Alimentar Percentual 31/01/2013 67,5
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 390.420.000,00 5.300.000,00 395.720.000,00
+
+Recurso Federal 125.800.000,00 0,00 125.800.000,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 22.232.000,00 0,00 22.232.000,00
+
+TOTAL 538.452.000,00 5.300.000,00 543.752.000,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0253 - Ampliar as condições de acesso a produção e ao consumo de alimentos, fortalecendo as cadeias e arranjos produtivos com diferentes formas de agregação de valor por meio da agroindustrialização, visando a segurança alimentar e nutricional com inclusão social pela geração de ocupaçao e renda.
+
+Órgão: 17202 - Instituto de Assistência Técnica e Extensão Rural
+
+Meta 0875 - Prestar serviços de Assistência Técnica e Extensão Rural - ATER aos beneficiários produtores capacitando-os na produção agropecuária Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1.009 Sertão Central, Cabugi e Litoral Norte 3.026 Agreste Litoral Sul 6.053 Trairi 9.079 Potengi 7.162 Seridó 20.177 Alto Oeste 25.221 Açu/Mossoró 14.845 Mato Grande 13.105 Sertão do Apodi 1.207 Total 100.884
+
+Iniciativas 01160 - Incentivo a produção e ao consumo de alimentos agregando valor para segurança alimentar e nutricional da Agricultura Familiar nas cadeias produtivas
+
+Objetivo 0029 - Promover o aproveitamento integral dos alimentos hortifruti e a melhoria na alimentação de populações carentes, através de Rede de Parceiros em Banco de Alimentos e Formação de Agentes em Cozinha Inteligente Popular, visando o fortalecimento das ações a Segurança Alimentar e Nutricional – SAN.
+
+Órgão: 17205 - Central de Abastecimento
+
+Meta 0108 - Atender com alimento e conhecimento em Segurança Alimentar e Nutricional as populações mais carentes dos municípios da Região Unidade Medida Unidade Metropolitana de Natal
+
+Território 2016-2019 Terras Potiguaras 5 Agreste Litoral Sul 4 Potengi 1 Mato Grande 2 Total 12
+
+Meta 1310 - Atender com alimento e conhecimento em Segurança Alimentar e Nutricional as populações mais carentes dos municípios de menor IDH do RN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 70 Total 70
+
+Iniciativas 00167 - Constituição da Rede de Parceiros de Segurança Alimentar e Nutricional (Rede VIDA SAN) para a Formação de Agentes Multiplicadores em Cozinha de Desperdício Zero
+
+00168 - Ampliação e consolidação do funcionamento do Banco de Alimentos IN NATURA (Mesa da Solidariedade)
+
+00171 - Reestruturação e reativação do Banco de Alimentos Processados (SOPÃO)
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0165 - Promover a segurança alimentar através de ações que garantam o acesso ao alimento saudável e de qualidade e à universalização da água, na perspectiva do direito humano à alimentação adequada, através da implementação do plano estadual de segurança alimentar nutricional para a população em vulnerabilidade social.
+
+Órgão: 26000 - Secretaria de Estado do Trabalho, da Habitação e da Assistência Social
+
+Meta 0431 - Readequar unidades de Restaurantes Populares distribuidos municípios inseridos em todos os territórios do RN Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 6 Sertão Central, Cabugi e Litoral Norte 1 Agreste Litoral Sul 3 Trairi 1 Potengi 1 Seridó 3 Alto Oeste 1 Açu/Mossoró 5 Mato Grande 2 Sertão do Apodi 1 Total 24
+
+Meta 0460 - Implantar novos Restaurantes Populares Unidade Unidade Medida
+
+Território 2016-2019 Agreste Litoral Sul 2 Açu/Mossoró 1 Total 3
+
+Meta 0475 - Readequar unidades do Café do Trabalhador em municípios do RN Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Sertão Central, Cabugi e Litoral Norte 1 Açu/Mossoró 2 Mato Grande 2 Total 6
+
+Meta 0483 - Implementar unidades do Café do Trabalhador Unidade Unidade Medida
+
+Território 2016-2019 Agreste Litoral Sul 1 Alto Oeste 1 Total 2
+
+Meta 0565 - Readequar o Programa de Cisternas em municípios inseridos em todos os territórios do RN Unidade Unidade Medida
+
+Território 2016-2019 Sertão Central, Cabugi e Litoral Norte 7 Agreste Litoral Sul 12 Trairi 1 Potengi 9 Seridó 21 Alto Oeste 24 Açu/Mossoró 8 Mato Grande 14 Sertão do Apodi 12 Total 108
+
+Meta 0577 - Implantar o Programa Cidadão sem fome em municípios do RN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1
+
+Demonstrativo de Programas Temáticos PPA Terras Potiguaras 6 Agreste Litoral Sul 2 Alto Oeste 1 Açu/Mossoró 1 Mato Grande 1 Total 12
+
+Meta 0581 - Implantar o Programa de Cisternas em municípios do Estado Unidade Unidade Medida
+
+Território 2016-2019 Sertão Central, Cabugi e Litoral Norte 15 Trairi 15 Potengi 14 Açu/Mossoró 15 Total 59
+
+Meta 0587 - Ampliar o Programa de distribuição de sopas Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 4 Agreste Litoral Sul 1 Seridó 1 Alto Oeste 1 Açu/Mossoró 1 Total 8
+
+Meta 0622 - Institucionalizar em todo o Estado o Sistema Nacional de Segurança Alimentar e Nutricional (SISAN) Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1088 - Considerar, no atendimento dos programas de segurança alimentar e nutricional, o recorte quanto aos povos indígenas, povos de matriz africana, Unidade Medida Unidade quilombolas, ciganos, pescadores e pescadoras artesanais e demais comunidades tradicionais
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 00868 - Fortalecimento no desenvolvimento das ações da política de segurança alimentar e nutricional do Estado
+
+01536 - Institucionalização do Sistema Nacional de Segurança Alimentar
+
+26. DESENVOLVIMENTO TERRITORIAL E ENFRENTAMENTO DA POBREZA
+
+A América Latina, região bastante marcada pelas explorações sofridas quando dominada por impérios, herdou de sua história, além de lutas e conquistas, as marcas da pobreza que durante muitos anos vem afetando diretamente seus costumes, aspectos culturais e desenvolvendo em seu povo a habilidade de convivência e estratégias de combate a esse mau. Os problemas sociais ficaram bastante evidentes quando durante as crises financeiras da década de 1980 e revelou- se um colapso dos modelos estruturais de desenvolvimento econômico locais adotado nesta região.
+
+O Brasil, não diferente de outros países da América Latina sofreu durante muitos anos com problemas estruturais de gestão pública e a falta de políticas para o desenvolvimento econômico, além da extrema pobreza e a fome ainda muito presente na vida dos brasileiros (as). Somente em 1990 guiada por três fatores: (1) A busca por geração de emprego, (2) A necessidade de atrair novos investidores e (3) O processo de descentralização política e financeira dos estados e municípios é que se começou a trabalhar experiências de desenvolvimento econômico local com foco nos âmbitos municipais.
+
+Nos últimos anos, com uma atualização das políticas focadas no desenvolvimento econômico, combate a fome e pobreza extrema observou-se uma redução desta, porém, em termos absolutos nota-se ainda uma concentração da pobreza nas áreas urbanas, mas em termos relativos, observa-se que a pobreza rural é bem mais expressiva. Em 2007, o Brasil ainda detinha mais de 30% da pobreza latino-americana, que correspondia a aproximadamente 58 milhões de pessoas, grande parte desse contingente residia em áreas rurais. Dados como esses foram relevantes para uma discussão mais ampla sobre as desigualdades sociais, regionais e a busca de um desenvolvimento economicamente sustentável.
+
+O Rio Grande do Norte é um Estado com uma população de 3.168.027 habitantes (IBGE, SIDRA 2010) distribuídos em 167 municípios sendo 77,80% da população residente de áreas urbanas e 22,20% em áreas rurais. Entre os Estados do Nordeste, em 2013, o Rio Grande do Norte teve a menor proporção de pobres, o equivalente 27,4% da população. No período entre 2004 e 2013, o Rio Grande do Norte reduziu a pobreza em 29,6 p.p.
+
+Em relação a extrema pobreza, o Estado apresenta 8,9% da população nessa condição, perdendo para Sergipe e abaixo da média brasileira e acima da média do Nordeste. Entre 2004 e 2013, o Estado reduziu a proporção de pessoas extremamente pobres em 15,4 p.p.
+
+Fonte: OPE Sociais, com base na Pesquisa Nacional por Amostra de Domicílios (PNAD), 2013.
+
+A evolução da proporção de pobres e extremamente pobres no Rio Grande do Norte, demonstram resultados positivos dos investimentos e ações voltadas ao desenvolvimento que o Estado vem realizando durante as últimas décadas junto com ações diretas das políticas sociais do Governo Federal. Contudo, há uma proporção muito grande de pessoas em condições de pobreza no Estado e que necessitam de atenção prioritária do Governo.
+
+Demonstrativo de Programas Temáticos PPA
+
+0026 - DESENVOLVIMENTO TERRITORIAL E ENFRENTAMENTO DA POBREZA
+
+Diretriz 06 - PROMOÇÃO DO BEM-ESTAR DO POTIGUAR ATRAVÉS DA GARANTIA AO ACESSO AOS DIREITOS FUNDAMENTAIS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0121 - Coeficiente de Gini Índice 30/01/2013 0,538
+
+0122 - Porcentagem de pessoas extremamente pobres na população Percentual 30/01/2013 8,93
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 1.600.000,00 10.100.000,00 11.700.000,00
+
+Recurso Federal 37.800.000,00 0,00 37.800.000,00
+
+Operações de Crédito 0,00 520.000.000,00 520.000.000,00
+
+Outros 0,00 0,00 0,00
+
+TOTAL 39.400.000,00 530.100.000,00 569.500.000,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0171 - Aumentar a segurança alimentar, o acesso à infraestrutura produtiva e o acesso a mercados em conformidade com o acordo de empréstimo do Banco Mundial para o Programa RN Sustentável.
+
+Órgão: 19000 - Secretaria de Estado do Planejamento e das Finanças
+
+Meta 0442 - Implementar Subprojetos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 686 Total 686
+
+Meta 0446 - Implementar Investimentos de Desenvolvimento Regional Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 20 Total 20
+
+Meta 0451 - Apoiar o Fortalecimento da Governança Local/Territorial Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 14.500 Total 14.500
+
+Iniciativas 00728 - Desenvolvimento Regional Sustentável - RN SUSTENTÁVEL
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0254 - Promover ações que contribuam com o desenvolvimento dos dez territórios que formam o Estado do RN, respeitando e valorizando suas especificidades econômicas locais e culturais, trabalhando o desenvolvimento de uma política de economia solidária e da inclusão sócio produtiva, pensando na micro região como agentes promotores do desenvolvimento, contribuindo assim para o combate à pobreza extrema.
+
+Órgão: 26000 - Secretaria de Estado do Trabalho, da Habitação e da Assistência Social
+
+Meta 0778 - Implantar um programa de coleta seletiva nos órgãos governamentais da administração direta e indireta Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 57 Total 57
+
+Meta 0796 - Elaborar e implementar ações de apoio à inclusão socioprodutiva de jovens e à produção e comercialização das mulheres por meio de políticas de Unidade Medida Unidade desenvolvimento territorial e economia solidária
+
+Território 2016-2019 Terras Potiguaras 10 Agreste Litoral Sul 10 Trairi 10 Açu/Mossoró 10 Mato Grande 10 Total 50
+
+Meta 0802 - Desenvolver e adequar estruturas (centros de comercialização) para o estimulo à comercialização dos empreendimentos de economia solidária Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Açu/Mossoró 1 Total 2
+
+Meta 0809 - Promover e fortalecer a economia solidária no Estado do RN, através de empreendimentos Unidade Unidade Medida
+
+Território 2016-2019 Sertão Central, Cabugi e Litoral Norte 10 Potengi 10 Seridó 10 Alto Oeste 10 Sertão do Apodi 10 Total 50
+
+Meta 1095 - Considerar, nos programas e serviços de enfretamento da pobreza, o recorte quanto aos povos indígenas, povos de matriz africana, quilombolas, Unidade Medida Unidade ciganos, pescadores e pescadoras artesanais e demais comunidades tradicionais
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 01105 - Realização de ações de combate à pobreza, potencializando o protagonismo do beneficiário e aperfeiçoamento das equipes técnicas
+
+01169 - Reestruturação de espaços para a comercialização da economia solidária para difusão e formação de tecnologias sociais, além da realização do mapeamento de grupos juvenis e de mulheres em empreendimentos de economia solidária desenvolvidas por jovens e mulheres ou com sua participação 01173 - Fortalecimento de parcerias com os órgãos da administração direta e indireta do Estado para a implantação da coleta seletiva
+
+01175 - Fortalecimento da política estadual de economia popular e solidária através da reestruturação e funcionamento do Conselho Estadual de Economia Popular e Solidária; instituição do Fundo Estadual de Economia Solidaria; e apoio ao Fórum Potiguar de Economia Solidária 01537 - Realização de parcerias públicas e privadas para o combate à pobreza
+
+27. JUSTIÇA E CIDADANIA
+
+A cidadania é o conjunto de direitos e deveres civis, políticos e sociais que cada cidadão deve exercer. A consolidação da cidadania, em sua forma plena, deve ser o fator principal da criação de uma cultura em direitos humanos, que consiste nas garantias fundamentais para que todo homem tenha condições reais de viver com dignidade. São conquistas históricas e devem ser asseguradas pelo Estado de Direito, que envolvem desde o direito à vida, à liberdade e à igualdade, até o direito à saúde, educação e ao meio ambiente saudável.
+
+O acesso à Justiça deve ser encarado como pressuposto essencial de um sistema jurídico que visa garantir a eficácia do princípio constitucional da isonomia, e superar obstáculos econômicos, sociais e culturais de acesso à justiça, a fim de garantir a igualdade do exercício dos mais diversos direitos.
+
+Segundo o relatório da Anistia Internacional, em 2014 ocorreram várias violações dos direitos humanos no Brasil. Jovens negros moradores de favelas, trabalhadores rurais e povos indígenas correm maior risco de sofrer violações de direitos humanos. Apesar da aprovação de uma lei que permite o casamento entre pessoas do mesmo sexo, lésbicas, gays, bissexuais, transgêneros e intersexuais (LGBTI) ainda são discriminados e atacados.
+
+Alguns avanços foram feitos no sentido de enfrentar a impunidade pelas graves violações de direitos humanos cometidas no Brasil, como a acessibilidade para os deficientes, lei de proteção ao idoso, combate ao trabalho escravo e lei contra discriminação de raça, cor, etnia, religião ou procedência nacional.
+
+Apesar dos avanços em nível nacional, algumas regiões carecem de maior atenção. O Rio Grande do Norte precisa adotar medidas prementes para garantir os direitos humanos da população potiguar. Em 2014, segundo o Disque 100 do Departamento de Ouvidoria Nacional dos Direitos Humanos, o Estado foi o terceiro em maior número de denúncias de violência contra idosos. No primeiro semestre de 2015, foram 3.100 denúncias de violação dos direitos humanos no Estado, sendo 190 denúncias de violência sexual.
+
+Sendo dever do Estado garantir os direitos humanos da população, o Governo do Rio Grande do Norte precisa agir intensivamente para reduzir as violações dos direitos humanos em todas as esferas, e assim garantir a justiça e cidadania a população potiguar.
+
+Demonstrativo de Programas Temáticos PPA
+
+0027 - JUSTIÇA E CIDADANIA
+
+Diretriz 06 - PROMOÇÃO DO BEM-ESTAR DO POTIGUAR ATRAVÉS DA GARANTIA AO ACESSO AOS DIREITOS FUNDAMENTAIS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0130 - Taxa de crianças sem registro civil Percentual 31/01/2010 19
+
+0131 - Percentual de proteção de vítimas e testemunhas ameaçadas de violência Percentual 31/01/2010 60
+
+0133 - Taxa de pessoas com deficiência inseridas no mercado de trabalho Percentual 31/01/2010 36,75
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 109.930.840,00 24.625.000,00 134.555.840,00
+
+Recurso Federal 4.433.000,00 202.807.000,00 207.240.000,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 554.000,00 9.340.000,00 9.894.000,00
+
+TOTAL 114.917.840,00 236.772.000,00 351.689.840,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0164 - Ampliar a presença permanente da Defensoria Pública no território do Estado do Rio Grande do Norte e expandir a estrutura já existente, por meio de investimento em infraestrutura, tecnologia, mão de obra e capacitação, com o fito de atender aos ditames da Emenda Constitucional 80/2014
+
+Órgão: 05000 - Defensoria Pública Geral do Estado
+
+Meta 0493 - Expandir a presença permanente da Defensoria Pública para 40 (quarenta ) unidades jurisdicionais do Estado do Rio Grande do Norte até 2019 Ano Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 40 Total 40
+
+Meta 0497 - Especializar a eficácia dos serviços, buscando elevar em 60% o número atual de atendimentos diretos anuais realizados pela Defensoria Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 60 Total 60
+
+Iniciativas 00744 - Instalação do projeto de atendimento direto à população via telefone (“call center”) e internet
+
+00746 - Realização de concurso para o cargo de Defensor Público e servidores administrativos e provimento de todas as vagas existentes .
+
+00748 - Implantação do programa Humanização do Atendimento, baseado na especialização, treinamento, capacitação e ampliação de toda a equipe multidisciplinar e visando aumentar o grau de especialização dos serviços prestados, bem como fornecer assistência multidisciplinar aos moradores de rua e às comunidades com deficiência de serviços públicos. 00749 - Realização de estudos e pesquisas para auxiliar na definição de estratégias para a expansão racional da Defensoria Pública, identificando as áreas de maior índice de exclusão social e adensamento populacional e consequente necessidade de serviços da Defensoria. 00751 - Realização de campanhas temáticas de educação em direitos para exercício da cidadania, através da utilização de diversos tipos de mídia, tais como folders, banners, recepções e vídeos, além de palestras para o público a serem ofertados nos órgãos de execução da Defensoria. 00752 - Construição, reforma, e locações de imóveis para viabilizar a instalação de novos Núcleos e Núcleos Especializados da Defensoria na capital e interior, possibilitando a expansão física da instituição e melhorias nas estruturas já existentes. 00753 - Modernização dos equipamentos de informática e de infraestrutura física e fomento, já em 2016, da ampliação da frota de veículos da Defensoria, em conformidade com a necessidade dos núcleos atuais e dos que vierem a existir, bem como a manter revisada e em condições plenas de funcionamento. 00756 - Interiorizar ou buscar ampliar a interiorização dos programas já implementados pela Defensoria: SUS Mediado, Conciliar É Preciso, ,Sol da Liberdade, Paternidade Responsável e Defensoria na Comunidade (para este em especial, um onibus equipado será adquirido) 01524 - Elaboração de Projeto de Lei para criação do Plano de Cargos e Salários para servidores administrativos da Defensoria.
+
+Objetivo 0006 - Promover o direito da Pessoa Com Deficiência – PCD em todo o Estado, através de articulação com as demais Secretarias e entidades ligadas ao tema, buscando parcerias, para garantir a inclusão social em todos os níveis de acessibilidade.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0015 - Reestruturar e ampliar o núcleo de informações da CORDE no Estado Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Seridó 1 Açu/Mossoró 1 Mato Grande 1 Total 4
+
+Meta 1268 - Implantar residências inclusivas públicas para jovens e adultos com deficiência Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Terras Potiguaras 1 Seridó 1 Açu/Mossoró 2 Total 5
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 00037 - Capacitação de servidores da CORDE
+
+00038 - Reativação dos núcleos nas cidades polos
+
+00039 - Viabilização de parcerias para ampliação e melhorias no acesso a técnologia da informação
+
+01485 - Implementação de residências inclusivas públicas para pessoas com deficiência
+
+01487 - Viabilização de convênios
+
+Objetivo 0010 - Garantir a população potiguar ao acesso programa de erradicação o sub-registro civil de nascimento e do acesso da população à documentação básica, para o pleno exercício da cidadania brasileira.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0019 - Realizar palestras e capacitações com os operadores de direitos humanos e a população em geral Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Iniciativas 00043 - Proteção às vítimas e testemunhas ameaçadas em situação de violência
+
+01570 - Formecimento de documentação básica ao cidadão
+
+Objetivo 0011 - Garantir a proteção e o resgate dos direitos humanos do povo potiguar, por meio da criação do centro de referência e atendimento em direitos humanos, da implantação do plano estadual de direitos humanos da população LGBT e do acesso aos programas de proteção.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0017 - Atender as crianças, adolescentes, vítimas e testemunhas ameaçadas Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0021 - Atender pessoas para a promoção, proteção, prevenção e resgate dos direitos humanos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2.000 Terras Potiguaras 2.000 Total 4.000
+
+Meta 0023 - Elaborar o Plano Estadual das Políticas Públicas LGBTs Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 00040 - Celebração de Convênios com a SDH
+
+00042 - Criação do conselhos estaduais de proteção as crianças, adolescentes, vítimas e testemunhas ameaçadas
+
+00044 - Promoção de palestras, seminários, diálogos abertos, capacitações e treinamentos
+
+00045 - Celebração de convênios para a efetivação do Centro de Referência e Atendimento em Direitos Humanos
+
+00046 - Elaboração do Plano Estadual das Políticas Pública LGBTs
+
+00981 - Capacitação e participação de jovens em grupos de trabalho para elaboração da política estadual de educação profissional e tecnológica
+
+00983 - Promoção de programas, projetos e ações voltados a autononia e protagonistmo juvenil
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0013 - Realizar estudos, pesquisas, conferências estaduais e monitoramento dos grupos ligados às minorias, para melhorar os atendimentos dos usuários nas áreas ligadas aos Direitos Humanos.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0025 - Realizar conferências estaduais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 6 Total 6
+
+Meta 0026 - Promover palestras, seminários, diálogos abertos, sobre as temáticas de Direitos Humanos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 12 Terras Potiguaras 4 Total 16
+
+Iniciativas 00048 - Realização de estudos e fortalecimento das politicas públicas em direitos humanos
+
+00049 - Articulações para realização de conferências estaduais e criação de conselhos, grupos gestores e comitês ligados aos direitos humanos
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0014 - Garantir condições ao direitos básicos as pessoas com privação de liberdade, a partir da implementação contínua de métodos de assistência a educação, profissionalização e saúde do apenado, fortalecendo o cumprimento da pena e tornando-os aptos ao convívio na sociedade.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0029 - Implantar em 100% das penitenciárias, cadeias públicas e centros de detenção provisória Unidades Básicas de Sáude - UBS Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0030 - Ampliar o ensino profissionalizante nas unidades prisionais Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 25 Terras Potiguaras 75 Total 100
+
+Meta 0031 - Aparelhar unidades prisionais com laboratório de informática e de ensino profissionalizante Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2 Terras Potiguaras 2 Agreste Litoral Sul 2 Seridó 2 Alto Oeste 1 Açu/Mossoró 1 Mato Grande 1 Total 11
+
+Meta 0032 - Implantar unidades da APAC Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 11 Sertão Central, Cabugi e Litoral Norte 1 Agreste Litoral Sul 2 Potengi 1 Total 15
+
+Iniciativas 00052 - Realização de parcerias e convênios
+
+00053 - Formação de Grupo de Trabalho com representantes Municipais, ONG e outro Poderes para implantação das APAC
+
+00056 - Garantia da alimentação das pessoas presas e dos servidores penitenciários
+
+00969 - Criar módulos de cárceres em conformidade com o padrão estabelecido pelas diretrizes da arquitetura prisional
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0018 - Oferecer de forma integrada nas Centrais do Cidadão serviços públicos essenciais, com atendimento de qualidade aos cidadãos do RN.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0039 - Implantar 3 novas Centrais do Cidadão Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 3 Total 3
+
+Meta 0043 - Adequar as Centrais do Cidadão em conformidade com as normas de acessibiliade Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0044 - Viabilizar capacitação continuada dos colaboradores das Centrais do Cidadão Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 00059 - Recuperação e aparelhamento de unidade de atendimento integrado
+
+00106 - Modernização das estruturas tecnológicas das centrais do cidadão, ampliando o atendimento aos usuários em geral
+
+Objetivo 0019 - Ampliar e melhorar o atendimento ao consumidor, promovendo a educação para o consumo através da reestruturação e criação de novas unidades do Procon/RN, ampliando as formas de atendimento e desenvolvendo a política estadual de defesa do consumidor.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0046 - Criar escola estadual de defesa do consumidor Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0047 - Abrir unidades de atendimento ao consumidor Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 5 Total 5
+
+Meta 0048 - Ampliar o número de atendimentos do Procon/RN Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 30 Total 30
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 00061 - Capacitação e requalificação dos servidores do PROCON
+
+00062 - Reforma, ampliação e construção de unidades do Procon/RN
+
+00063 - Estruturação e aparelhamento das unidades de atendimento
+
+00064 - Aquisição de unidade móvel de atendimento
+
+00065 - Implantação do tele-atendimento com abertura de processos virtuais do PROCON/RN
+
+00066 - Desenvolvimento de material educativo
+
+00067 - Promoção de eventos, fóruns e audiências públicas
+
+00068 - Aprovação da lei de criação da escola estadual de defesa do consumidor
+
+Objetivo 0027 - Garantir ações afirmativas com intuito de planejar, executar, capacitar e promover políticas públicas estaduais, municipais e federais em prol da igualdade racial do RN promovendo a justiça social e o desenvolvimento sustentável centrado nas comunidades e povos tradicionais.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0061 - Reestruturar e ampliar a Coordenadoria Estadual de Promoção de Política da Igualdade Racial – COEPPIR Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0064 - Realizar eventos ligados a promoção da igualdade racial Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Sertão Central, Cabugi e Litoral Norte 3 Mato Grande 1 Total 8
+
+Meta 0065 - Promover mapeamento em todo o território Potiguar dos povos tradicionais e de matriz africana Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1032 - Cadastrar no SICAB - Cadastro Nacional todos os artesãos do RN no período de 2016 a 2019 Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 00079 - Estruturação física da COEPPIR
+
+00080 - Reativação dos territórios de Cidadania da Igualdade Racial
+
+00081 - Reativação do CONSEPPIR – Conselho Estadual de Políticas de Promoção da Igualdade Racial
+
+00082 - Construção do Plano de Igualdade Racial do Estado do Rio Grande do Norte
+
+00083 - Coordenação e capacitação de servidores para o programa de Combate ao Racismo Institucional em parceria com o programa Estadual Ronda Cidadã, promovendo cursos de formação de lideranças nas comunidades tradicionais e de matriz africana 00084 - Fortalecimento dos segmentos das comunidades tradicionais (Ciganos, Índios, Quilombos e Matriz Africana) através de comitê gestor estadual
+
+00085 - Realização de eventos e fóruns em educação étnico racial
+
+00086 - Capacitação de servidores e de grupos tradicionais (Ciganos, Índígenas , Quilombos e povos de Matriz Africana) e elaboração de material didático
+
+00089 - Elaboração de documento final do mapeamento no ponto de vista quantitativo e qualitativo dos povos tradicionais (Ciganos , Índios, Quilombos e de Matriz Africana)
+
+00090 - Construção de unidades habitacionais voltadas para a qualidade de vida e a sustentabilidade das comunidades tradicionais em parceria com os programas estaduais e federais voltados para a garantia da moradia
+
+28. AUTONOMIA E EMANCIPAÇÃO DA JUVENTUDE
+
+O papel da juventude é cada vez mais reconhecido como de fundamental importância ao processo de desenvolvimento de qualquer país do mundo. O tema sobre a juventude ganhou mais espaço na agenda pública no Brasil nos últimos anos e culminou no Estatuto da Juventude em agosto de 2013, alcançando 50 milhões de jovens entre 15 e 29 anos. No Estatuto foram previstos ao todo 11 direitos aos jovens, como direito à diversidade e igualdade; comunicação e liberdade de expressão; educação; saúde; profissionalização, trabalho e renda; segurança pública e acesso à justiça. Foram definidos também dois benefícios diretos: descontos e gratuidades em transporte interestadual, e meia-entrada em eventos culturais e esportivos para jovens de baixa renda.
+
+O Estatuto da Juventude foi um marco legal importante e tem por objetivo garantir os direitos dos jovens e promover a autonomia e emancipação. A Secretaria Nacional da Juventude é a responsável por ações e programas destinados as jovens, entre eles destacam-se: Plano de Prevenção à Violência contra juventude negra, Juventude Viva, Programa Estação Juventude e Programa Juventude Rural.
+
+No Rio Grande do Norte, alguns programas de juventude estão disponíveis para os jovens potiguares como a apresentado na tabela abaixo:
+
+Programas para Descrição Juventude no RN Projeto de integração social que envolve a participação voluntária de estudantes Projeto Rondon universitários na busca de soluções que contribuam para o desenvolvimento sustentável de comunidades carentes e ampliem o bem-estar da população. É um conjunto de ações articuladas que asseguram a melhoria do ensino nas redes existentes, bem como, a formação dos professores, produção de material Pronacampo didático específico, acesso e recuperação da infraestrutura e qualidade da educação no campo em todas as etapas e modalidades - Decreto nº 7.352/2010. É voltado para pessoas físicas com idade entre 16 e 29 anos, visando acesso ao Pronaf Jovem crédito rural. É destinado a financiar a graduação na educação superior de estudantes FIES matriculados em instituições não gratuitas. Programa para reduzir os homicídios de jovens, especialmente jovens negros do Plano Juventude Viva sexo masculino, moradores das periferias e áreas metropolitanas dos centros urbanos. Tem como objetivo elevar a escolaridade de jovens com idade entre 18 e 29 Projovem Urbano anos, que saibam ler e escrever e não tenham concluído o ensino fundamental, visando à conclusão desta etapa por meio da modalidade de Educação. Tem por objetivo de ampliar a oferta de cursos de educação profissional e PRONATEC tecnológica. Preparar o jovem para o mercado de trabalho e para ocupações alternativas Projovem Trabalhador geradoras de renda são os principais objetivos do Projovem Trabalhador. Tem como finalidade a concessão de bolsas de estudo integrais e parciais em PROUNI cursos de graduação e sequenciais de formação específica, em instituições de ensino superior privadas.
+
+Além desses programas, a Secretaria Extraordinária de Juventude do Rio Grande do Norte (SEJURN) tem programa próprios como o SEJURN Itinerante, que realização de oficinas de esporte de lutas olímpicas, e prática do esporte três tempos (estabelecimento das regras - realização do jogo - reflexão coletiva dos jogadores), além disso, no turno noturno ocorre o CineCultJOVEM com exposição de filmes e documentários com debate sobre sonhos e enfrentamento ao racismo e violência; Estação Juventude, que está em processo de implementação, consiste em levar por meio de um micro-ônibus atividades culturais, esportivas e sociais para as Juventudes das periferias; Caravana da Juventude, tem como objetivo estimular a discussão sobre Políticas Públicas de Juventude, buscando ao mesmo tempo incentivar a criação e a implementação de Conselhos Municipais de Juventude no Rio Grande do Norte, concomitantemente com a criação de Fóruns Municipais de Juventude, onde serão pensadas e debatidas as políticas públicas que o Executivo e Legislativo municipais irão regulamentar e implementar.
+
+Os programas voltados para juventude estão impactando a vida de muitos jovens. Entre os programas, um dos destaques é o Programa PROUNI, que concede bolsas de estudo para jovens carentes ter acesso a cursos de graduação em instituições de ensino superior privada. Entre 2012 e o primeiro semestre de 2015, 11.460 jovens potiguares foram beneficiados pelo programa, sendo um total de aproximadamente um milhão de jovens em todo Brasil.
+
+Fonte: Ministério da Educação.
+
+Os avanços nas políticas públicas para a juventude foram significativos e impactaram a vida de muitos jovens, contribuindo para a autonomia e emancipação. Apesar dos avanços, muitos jovens ainda estão desassistidos, em especial os jovens de comunidade locais do Estado. Os esforços do Governo Federal e dos estados e municípios devem continuar, para que todos os jovens sejam atendidos.
+
+Demonstrativo de Programas Temáticos PPA
+
+0028 - AUTONOMIA E EMANCIPAÇÃO DA JUVENTUDE
+
+Diretriz 06 - PROMOÇÃO DO BEM-ESTAR DO POTIGUAR ATRAVÉS DA GARANTIA AO ACESSO AOS DIREITOS FUNDAMENTAIS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0134 - Número de Homicídios de Jovens (15 a 29 anos) por 100 mil Jovens Unidade 31/01/2013 70,5
+
+0135 - Jovens que não estudam, não trabalham e não procuram emprego Percentual 31/12/2013 17,08
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 1.971.000,00 475.000,00 2.446.000,00
+
+Recurso Federal 1.016.000,00 950.000,00 1.966.000,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 0,00 0,00 0,00
+
+TOTAL 2.987.000,00 1.425.000,00 4.412.000,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0049 - Garantir as condições políticas, administrativas e estruturais para o planejamento, a execução, o monitoramento e a avaliação da agenda de governo da SEJURN em todo o território do Rio Grande do Norte.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0137 - Aparelhar a SEJURN com mobiliário e equipamentos eletroeletrônicos, de informática e audiovisual Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 30 Total 30
+
+Meta 0138 - Adquirir veículos de passeio e transporte coletivo Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 3 Total 3
+
+Meta 0156 - Promover e operacionalizar a Comunicação Institucional da SEJURN através da produção de conteúdos em diversas mídias, da divulgação Unidade Medida Unidade jornalística e promoção de campanhas
+
+Território 2016-2019 Rio Grande do Norte 200 Total 200
+
+Meta 1317 - Estruturar, reformar, adaptar, ampliar e readequar espaços físicos para funcionamento das atividades da SEJURN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2 Terras Potiguaras 1 Seridó 1 Açu/Mossoró 1 Total 5
+
+Meta 1318 - Instituir formalmente a Secretaria de Juventude do Rio Grande do Norte com autonomia administrativa e financeira Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 00947 - Instituição e estruturação da Secretaria de Juventude do Rio Grande do Norte-SEJURN
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0144 - Elaborar e implementar o Plano de Prevenção à Violência contra a Juventude Negra do RN: Juventude Viva para criar, articular e integrar políticas, programas, projetos e ações voltadas para a prevenção da violência letal contra jovens negros.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0352 - Realizar eventos para discussão sobre as temáticas da Juventude, direitos e violência conta os jovens negros com grupos juvenis, organizações Unidade Medida Unidade civis, conselheiros e gestores do RN
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0354 - Implantar o Comitê Gestor Estadual do Plano Juventude Viva Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0363 - Realizar campanhas de divulgação sobre as questões relacionadas à violência contra jovens e racismo institucional Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0366 - Apoiar a atuação da Rede Juventude Viva enquanto espaço de participação da sociedade civil na formulação, implementação, monitoramento e Unidade Medida Unidade avaliação das ações do Plano
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Meta 1319 - Promover campanhas e eventos de sensibilização da opinião pública sobre a banalização da violência contra jovens promovendo a cultura de paz, a Unidade Medida Unidade valorização da vida da juventude, a superação do racismo e a garantia dos direitos fundamentais
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 1320 - Realizar diagnóstico territorial da violência letal contra jovens negros no Rio Grande do Norte identificando os principais fatores de Unidade Medida Percentual vulnerabilidade e exposição à essa violência
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1321 - Instituir e estruturar os Núcleos de Articulação Territorial do Plano Juventude Viva nas 10 localidades que apresentar as piores taxas de violência Unidade Medida Unidade letal do RN
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Meta 1322 - Assessorar os municípios com as piores taxas de violência letal contra jovens negros na adesão ao Plano Juventude Viva e na elaboração e Unidade Medida Unidade implementação do plano local
+
+Território 2016-2019 Rio Grande do Norte 20 Total 20
+
+Meta 1323 - Estruturar e adequar espaços físicos para execução das ações e atividades de cultura, esporte, lazer e capacitação do Plano Juventude Viva Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Terras Potiguaras 1
+
+Demonstrativo de Programas Temáticos PPA Seridó 1 Açu/Mossoró 1 Total 4
+
+Iniciativas 00955 - Implementação do Plano Juventude Viva
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0148 - Promover os direitos e a efetivação das Políticas Públicas de Juventude através da criação de espaços, instâncias e instrumentos de participação, articulação e controle social para os jovens, gestores e organizações da sociedade civil
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0143 - Criar o Conselho Estadual de Juventude e o Fundo Estadual de Juventude Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Meta 0145 - Implantar e operacionalizar o Plano Estadual de Juventude Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0146 - Realizar a Conferência Estadual de Juventude e dez conferências Territoriais Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Terras Potiguaras 1 Sertão Central, Cabugi e Litoral Norte 1 Agreste Litoral Sul 1 Trairi 1 Potengi 1 Seridó 1 Alto Oeste 1 Açu/Mossoró 1 Mato Grande 1 Sertão do Apodi 1 Total 11
+
+Meta 0380 - Instituir, estruturar e operacionalizar o Fórum Estadual de Gestores Municipais de Políticas Públicas de Juventude Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0383 - Capacitar gestores públicos e técnicos sobre temas relacionados às políticas públicas de Juventude Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0384 - Incentivar a criação e estruturação de Conselhos Municipais de Políticas Públicas de Juventude Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0386 - Apoiar e assessorar a criação e estruturação de Fóruns/Núcleos Territoriais de Juventude Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 00948 - Instituição e operacionalização da Política e do Sistema Estadual de Juventude com mecanismos participação, financiamento e transparência da gestão pública com vistas ao cumprimento pelo estado do RN das atribuições federativas determinadas pelo Estatuto da Juventude
+
+Objetivo 0207 - Promover ação articulada para a inclusão social e produtiva da juventude urbana e rural, através da ampliação do acesso à terra e outros meios de produção, ao crédito, à qualificação profissional e à assistência técnica, visando à redução da pobreza e da desigualdade social pela redução do desemprego, da informalidade e da baixa remuneração do trabalho juvenil.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 1325 - Realizar estudos e pesquisas sobre interesses profissionais dos jovens do RN em todos os territórios Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Meta 1326 - Promover ações de qualificação de grupos juvenis para formas coletivas de associação, organização e gestão produtiva, com enfoque para a Unidade Medida Unidade economia solidária, cooperativismo e economia criativa, em parceria com a Emater/RN, SEARA e SEEC
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Meta 1327 - Instituir e operacionalizar o Plano Estadual de Sucessão Rural, em parceria com a Emater-RN, a SEARA e a SEEC Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1328 - Instituir e operacionalizar o Plano Estadual de Sucessão Rural, em parceria com a Emater-RN, a SEARA e a SEEC Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 00963 - Promoção de iniciativas de inclusão social e produtiva de jovens urbanos e rurais, com enfoque na economia solidária e criativa, e incentivo ao empreendedorismo, associativismo e cooperativismo
+
+00990 - Ampliar os direitos sociais e econômicos da juventude rural nos territórios, e dos centros urbanos por meio de ações de emissão de documentação civil, fiscal e jurídica, bem como de apoio à participação juvenil nas organizações rurais, nas instâncias colegiadas e nos comitês gestores de políticas. 00991 - Fortalecer as políticas voltadas para a inclusão produtiva e a consolidação de redes socioeconômicas da agricultura familiar no âmbito dos territórios rurais, e de empreendimentos das áreas urbanas considerando as práticas da economia solidária, com especial atenção aos jovens de famílias em condição de extrema pobreza. 00992 - Incentivar e qualificar grupos juvenis para formas coletivas de associação e organização produtiva com enfoque para a economia solidária, cooperativismo e economia criativa.
+
+01560 - Articulação para a criação de ação ou política estadual da oferta de serviços de assistência técnica, de inovação tecnológica e de acesso ao crédito para empreendimentos coletivos juvenis urbanos
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0310 - Promover ações de capacitação, mobilização, sensibilização e assessoramento relacionadas à compreensão da condição juvenil, dos fatores de vulnerabilidade e de exposição às violências e riscos sociais e ambientais, para gestores e técnicos do setor público e da sociedade civil, grupos e lideranças juvenis, visando aprimoramento das políticas públicas de juventude.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0141 - Realizar capacitação e qualificação continuadas da equipe técnica e administrativa da SEJURN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 20 Total 20
+
+Meta 0153 - Promover ações de sensibilização e mobilização para gestores estaduais e municipais, técnicos, grupos e organizações juvenis com vistas a Unidade Medida Unidade qualificar atuação nas políticas de juventude
+
+Território 2016-2019 Rio Grande do Norte 144 Terras Potiguaras 20 Sertão Central, Cabugi e Litoral Norte 80 Agreste Litoral Sul 80 Trairi 80 Potengi 80 Seridó 100 Alto Oeste 20 Açu/Mossoró 60 Mato Grande 60 Sertão do Apodi 103 Total 827
+
+Meta 0154 - Realizar eventos sobre temas relacionados às Políticas Públicas de Juventude e do âmbito da gestão: avaliação, planejamento e prestação de Unidade Medida Unidade contas
+
+Território 2016-2019 Rio Grande do Norte 8 Total 8
+
+Meta 0155 - Promover a participação em eventos sociais e acadêmicos e intercâmbios locais, regionais, nacionais e internacionais sobre temas relacionados Unidade Medida Unidade às Políticas Públicas e garantia dos direitos da Juventude
+
+Território 2016-2019 Rio Grande do Norte 40 Total 40
+
+Meta 1324 - Incentivar e apoiar a instituição de fóruns e grupos de trabalho intersetoriais, com participação juvenil, para construção participativa da Política Unidade Medida Unidade Estadual de Educação Profissional e Tecnológica
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 01556 - Promoção de ações de assessoramento, capacitação continuada, mobilização e sensibilização para técnicos e servidores públicos, gestores, profissionais não governamentais, e jovens, bem como estudos, diagnósticos e pesquisas sobre a condição juvenil, os fatores de vulnerabilidade e violências
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0311 - Implementar o Programa Estação Juventude com vistas promoção de sua emancipação e autonomia pela produção e circulação de informações sobre políticas, serviços e oportunidades de inclusão social e produtiva, formação de redes locais e participação da juventude.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0375 - Estruturar bases fixas de apoio à Estação Juventude Itinerante nos territórios priorizados em parceria com as prefeituras, secretarias de estado de Unidade Medida Unidade Educação e de Assistência Social e a Emater-RN
+
+Território 2016-2019 Rio Grande do Norte 1 Terras Potiguaras 3 Açu/Mossoró 1 Total 5
+
+Meta 1329 - Implantar a Central de Informações através do mapeamento das políticas e ofertas de oportunidades existentes nos municípios e dos grupos e Unidade Medida Unidade organizações juvenis para a articulação de uma rede de emancipação para a Juventude
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1331 - Realizar oficinas de percurso e de projetos de vida para assistir jovens Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 12 Açu/Mossoró 12 Total 24
+
+Meta 1332 - Desenvolver e operacionalizar a Ação Específica Local conforme o que for definido pelos jovens dos territórios priorizados Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Açu/Mossoró 1 Total 2
+
+Iniciativas 00964 - Implementação do Programa Estação Juventude (Estação Itinerante), com vistas à produção e circulação de informações sobre políticas, serviços e oportunidades de inclusão social e produtiva, formação de redes locais, mobilização para a integração de políticas públicas e cooperação das três esferas de governo, para criar oportunidades, modificando a realidade dos jovens, considerando a dimensão territorial do desenvolvimento e inclusão
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0312 - Instituir sistemas de informação e observatórios permanentes para produção continuada de conhecimentos, informações e dados sobre a condição juvenil, os fatores de vulnerabilidade social e de exposição às violências visando ao monitoramento da efetividade das políticas, programas e ações existentes.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0149 - Criar e operacionalizar sistema de informação georreferenciado sobre condição juvenil, vulnerabilidade social e violência, e monitore a oferta de Unidade Medida Unidade políticas públicas de juventude no RN
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0151 - Produzir e atualizar, de forma continuada, um Diagnóstico Situacional dos Grupos Juvenis do RN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0152 - Criar e operacionalizar o Observatório Potiguar das Comunidades Periféricas: laboratório Integrado de Pesquisa e Extensão, em parceria com a Unidade Medida Unidade UERN e outras instituições de educação superior e de pesquisa
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0378 - Realizar levantamento da população carcerária juvenil identificando seu perfil e a situação de progressão de regime, através de parceria com a Unidade Medida Unidade SEJUC
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 00950 - Realização de estudos, diagnósticos e pesquisas que sistematize dados e informações sobre condição juvenil, vulnerabilidade social e violência, e monitore a oferta de políticas públicas de juventude no RN
+
+Objetivo 0313 - Promover ações de prevenção e de redução de danos do uso abusivo de álcool, crack e outras drogas, junto aos grupos juvenis de diversas identidades e qualificar atores governamentais e não governamentais que atuam nos serviços e equipamentos das áreas de justiça, segurança, saúde, educação esporte e lazer e assistência social.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0355 - Apoiar os municípios e instituições juvenis da sociedade civil que realizem ações e atividades de prevenção e redução de danos sociais pelo uso Unidade Medida Unidade de álcool e outras drogas através do assessoramento técnico e mediação de parcerias
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 1334 - Promover capacitação de gestores, educadores, e profissionais de áreas afins para o desenvolvimento de ações de prevenção ao uso de drogas Unidade Medida Unidade (fumadas, inaladas e injetáveis) e outros comportamentos de risco como as DST/AIDS, junto aos jovens
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Iniciativas 00984 - Implantação e implementação de políticas, programas e ações integradas de prevenção e redução de danos para adolescentes e jovens, de 15 a 29 anos, em situação de uso; uso abusivo e indevido e dependência de álcool, crack e outras drogas, adequando às realidades locais 01561 - Promoção de ações de prevenção ao consumo e de redução de danos do uso abusivo de álcool, crack e outras drogas nas escolas da rede estadual de ensino e nas comunidades do entorno, em parceria e cooperação técnica com a SEEC 01562 - Realização de programas, projetos e ações educativas, culturais, desportivas, artísticas e recreativas, tais como, TamoJunto, JogoElos, Viva Jovem, através de cooperação e convênios com a União
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0314 - Promover a cidadania cultural e o direito humano à comunicação e à informação da juventude reconhecendo-os como agentes produtores de cultura e de comunicação através da criação de meios de acesso às Tecnologias de Informação, de incentivos financeiros e físicos para fruição dos seus potenciais, priorizando a juventude negra e de comunidades tradicionais e as mulheres jovens.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 1335 - Implantar e operacionalizar o Plano Estadual para a População Juvenil em Situação de Rua, em parceria com a SETHAS, SESAP, SESED e Unidade Medida Unidade SEJUC
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 1336 - Realizar oficinas e seminários sobre os direitos e saúde sexual e reprodutiva de mulheres jovens Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 8 Total 8
+
+Meta 1337 - Realizar oficinas e seminários sobre direitos humanos e políticas de atendimento a população jovem LGBT Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 8 Total 8
+
+Meta 1338 - Fomentar a criação de programa estadual de acesso gratuito à internet sem fio em todos os equipamentos públicos estaduais e para as Unidade Medida Unidade comunidades do entorno, em parceria com à SEEC
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 1339 - Promover concursos e editais para produção cultural e audiovisual sobre cultura negra e racismo, com foco na reversão dos estereótipos do Unidade Medida Unidade preconceito e na valorização da história e cultura negra e juvenil, em parceria com a FJA, SEEC e SEJUC
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Iniciativas 01558 - Promoção de ações e projetos culturais e de comunicação, incentivando a produção independente de jovens e expandindo o acesso gratuito aos serviços e tecnologias de informação e comunicação em todos os municípios do Estado
+
+29. PROMOÇÃO E AUTONOMIA DAS MULHERES
+
+A discriminação e preconceitos contra as mulheres são herdadas de uma sociedade patriarca e excludente. Ao longo das últimas décadas, a mulher veio ganhando espaço, em especial, no mercado de trabalho e nos espaços de poder, provocando mudanças culturais na sociedade.
+
+Apesar dos avanços, as mulheres ainda vivem situações de fragilidade e desigualdade. Segundo os dados do Censo 2010 do IBGE, a desigualdade de rendimento entre homens e mulheres se alterou muito pouco nos últimos dez anos. A diferença salarial das mulheres em 2010 era aproximadamente 30% inferior à dos homens, sendo mais desigual na Região Nordeste. O componente racial agrava ainda mais a desigualdade, pois o rendimento de mulheres pardas correspondia a 35% do rendimento médio dos homens brancos.
+
+Uma das fragilidades enfrentadas pelas mulheres é a violência. De acordo com os dados do Mapa da Violência de 2012, entre 1980 e 2010, houve aumento de 230% no número de mulheres assassinadas, quantidade superior a 92 mil mulheres. Em 2010, foram assassinadas 71 mulheres no Rio Grande do Norte, o equivalente a taxa de homicídios feminino de 4,4. Em 2006 foi criada a lei 11.340, conhecida como Lei Maria da Penha, como ação do Governo Federal e do sistema de justiça do país para aprofundar o enfrentamento da violência contra a mulher.
+
+Para a proteção e promoção da igualdade de gênero e combater todas as formas de preconceito e discriminação, a Secretaria de Políticas para as Mulheres (SPM) atua em políticas do trabalho e da autonomia econômica das mulheres, enfrentamento à violência contra as mulheres e programas e ações nas áreas de saúde, educação, cultura, participação política, igualdade de gênero e diversidade.
+
+Em 2015 foi inaugurada a Sede das Secretarias de Políticas para as Mulheres e da Juventude no Rio Grande do Norte, sendo a efetivação de um dos compromissos assumidos na campanha do Governador do Estado. Esse foi um importante passo do governo para avançar nas políticas em prol das mulheres.
+
+O Governo do Rio Grande do Norte, em parceria com o Governo Federal e entidade de apoio as mulheres, devem continuar os esforços para promoção e autonomia das mulheres, no combate a violência, melhoraria na qualidade de vida e igualdade de gênero.
+
+Demonstrativo de Programas Temáticos PPA
+
+0029 - PROMOÇÃO E AUTONOMIA DAS MULHERES
+
+Diretriz 06 - PROMOÇÃO DO BEM-ESTAR DO POTIGUAR ATRAVÉS DA GARANTIA AO ACESSO AOS DIREITOS FUNDAMENTAIS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0087 - Total de mulheres ocupadas Unidade 31/12/2010 486.405
+
+0088 - Total de mulheres vítimas de violência de gênero Unidade 31/01/2010 5.918
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 2.410.000,00 0,00 2.410.000,00
+
+Recurso Federal 250.000,00 2.100.000,00 2.350.000,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 0,00 0,00 0,00
+
+TOTAL 2.660.000,00 2.100.000,00 4.760.000,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0086 - Promover a inserção e a permanência das mulheres no mundo do trabalho, por meio do apoio à qualificação profissional, ao fortalecimento das organizações produtivas e às ações de socialização do trabalho doméstico e de cuidados.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0195 - Constituir rede estadual de instituições públicas e privadas que desenvolvem ações para mulheres no mundo do trabalho Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0197 - Constituir fórum permanente sobre crédito e financiamento para mulheres com a participação de instituições de crédito e representantes dos Unidade Medida Unidade movimentos de mulheres
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0199 - Apoiar estratégias de comercialização direta da produção das mulheres Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Meta 0200 - Realizar chamadas públicas de apoio ao fortalecimento da produção e comercialização de grupos de mulheres Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Meta 0201 - Realizar simpósio com movimentos sociais, entidades sindicais, acadêmicas e empresariais, sobre temas relacionados ao mundo do trabalho, Unidade Medida Unidade ampliando e qualificando a discussão sobre divisão sexual do trabalho, direitos trabalhistas e demais pautas
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 00263 - Desenvolvimento de ações de incentivo à autonomia econômica das mulheres, realizando mapeamento da situação da mulher no mundo do trabalho e capacitações, apoiando a ampliação do acesso das mulheres ao crédito e fortalecendo a produção e comercialização dos seus produtos
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0111 - Consolidar a política estadual de enfrentamento à violência contra as mulheres, com a integração e ampliação dos serviços públicos especializados no âmbito da saúde, educação, da justiça, da segurança pública, da rede socioassistencial e da promoção da autonomia.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0252 - Implantar e viabilizar a Casa da Mulher Brasileira Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0254 - Realizar ações com as unidades móveis do Projeto de Enfrentamento à Violência contra as Mulheres do Campo, da Floresta e das Águas Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 160 Total 160
+
+Meta 0256 - Implantar e viabilizar Casas Abrigo e Centros de Referência estaduais para mulheres vítimas de violência Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0257 - Implantar o sistema estadual de integração da Rede de Enfrentamento à Violência contra as Mulheres Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0259 - Adquirir e distribuir dispositivo de emergência para mulheres que estão com medidas protetivas de reincidência e risco de morte Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0261 - Realizar capacitações das/os profissionais que atuam no atendimento as mulheres vítimas de violência Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Meta 0262 - Realizar capacitações com mulheres sobre a política estadual de Enfrentamento à Violência contra a Mulher Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Meta 0263 - Desenvolver o observatório da Política Estadual de Enfrentamento à Violência contra a Mulher Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0264 - Desenvolver ações informativas sobre a política estadual de enfrentamento a violência contra a mulher e sobre os dados dessa violência no RN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2
+
+Demonstrativo de Programas Temáticos PPA Total 2
+
+Meta 0265 - Realizar simpósio com movimentos sociais, entidades sindicais, acadêmicas e empresariais, sobre temas relacionados a violência contra as Unidade Medida Unidade mulheres, ampliando e qualificando a discussão sobre a política de enfrentamento a essa violência
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 00305 - Realização de ações para a consolidação da política de enfretamento da violência contra as mulheres por meio de eventos de formação, estudos e pesquisas específicas, estruturação de uma estratégia de comunicação, criação de fóruns e articulação política para fortalecimento da rede de enfretamento 00306 - Articulação dos órgãos competentes para a disponibilização de servidoras/es e terceirizadas/os para a Casa da Mulher Brasileira, Casas Abrigo e Centros de Referência
+
+00311 - Articulação de parlamentares para garantir emendas para a mobilização de recursos para as ações de enfrentamento à violência contra as mulheres
+
+00319 - Incorporação do quesito raça/cor e orientação sexual, em todos os registros de violência contra as mulheres
+
+Objetivo 0125 - Promover a ampliação e a garantia dos direitos das mulheres, nas diversas áreas, considerando-as em sua diversidade e especificidades.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0272 - Criar política de monitoramento e avaliação das ações direcionadas às mulheres urbanas e rurais, implementadas pelos diversos órgãos, Unidade Medida Percentual considerando os recortes de raça, etnia, orientação sexual e geração
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0276 - Realizar Chamadas Públicas de apoio à auto organização das mulheres LBT, negras, indígenas, ciganas, jovens, idosas, mulheres com Unidade Medida Unidade deficiência, urbanas e rurais
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Meta 0278 - Desenvolver ações com rodas de conversas, filmes, palestras, teatro, danças, músicas e outras técnicas arte educativas, sobre o uso de drogas Unidade Medida Unidade lícitas e ilícitas
+
+Território 2016-2019 Rio Grande do Norte 30 Mato Grande 10 Total 40
+
+Meta 0280 - Realizar simpósio com movimentos sociais, entidades sindicais, acadêmicas e empresariais, sobre temas relacionados a garantia dos direitos das Unidade Medida Unidade mulheres pelas políticas públicas
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 00331 - Criação de um selo de certificação, para valorização e visibilização das ações para mulheres, executadas pelos diversos órgãos públicos estaduais
+
+00332 - Apoio à ampliação de políticas públicas para garantia dos direitos das mulheres, assegurando um maior acesso das mulheres a essas políticas e o fortalecimento da sua auto organização
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0128 - Fortalecer e ampliar a participação das mulheres nas instâncias de poder e decisão, a partir do diálogo com a sociedade civil e movimentos sociais, em especial os movimentos de mulheres, considerando sua diversidade e especificidades.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0294 - Constituir a rede potiguar de gestoras municipais de políticas para mulheres Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0295 - Apoiar a criação e o fortalecimento de OPMs nos municípios do RN, preferencialmente 01 por território Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Meta 0296 - Assegurar a participação das delegadas do estado do RN na 4ª Conferência Nacional de Políticas para Mulheres Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 54 Total 54
+
+Meta 0300 - Reestruturar o Conselho Estadual da Mulher, garantindo a representação da diversidade de mulheres Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0304 - Estimular a criação de Conselhos Municipais dos Direitos da Mulher onde existir OPM Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 8 Total 8
+
+Meta 0306 - Fortalecer as Câmaras Territoriais de Mulheres Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 10 Total 10
+
+Meta 0307 - Realizar simpósio com movimentos sociais, entidades sindicais, acadêmicas e empresariais, sobre temas relacionados a participação política das Unidade Medida Unidade mulheres
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 00361 - Promoção de ações para ampliação e fortalecimento da participação das mulheres nos espaços de poder e decisão
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0131 - Desenvolver, estimular e apoiar estudos e pesquisas voltados à produção de dados sobre o trabalho das mulheres, a relação social de desigualdade entre homens e mulheres e sua interface com as desigualdades de classe, raça/etnia, geração, orientação sexual, entre outras.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0311 - Realizar e divulgar estudo sobre a violência contra as mulheres no estado do RN, considerando os recorte de raça, etnia e orientação sexual, a fim Unidade Medida Unidade de subsidiar a formulação de políticas de enfrentamento à violência contra as mulheres
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0312 - Desenvolver e divulgar pesquisa estadual sobre as condições de inserção e/ou permanência das mulheres no mundo do trabalho Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0313 - Instituir Prêmio (anual) de Estudos e Pesquisas para estimular a produção e sistematização de dados sobre as mulheres Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 3 Total 3
+
+Iniciativas 00391 - Realização de estudos e pesquisas sobre a situação das mulheres no Estado do Rio Grande do Norte
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0134 - Fortalecer e consolidar a institucionalidade da SPM/RN como instrumento para a implementação de políticas para autonomia das mulheres e promoção da igualdade de gênero.
+
+Órgão: 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0318 - Implementar processo sistemático de planejamento, monitoramento e avaliação das ações desenvolvidas pela SPM/RN Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0319 - Estruturar a Secretaria de Políticas Públicas para Mulheres do RN com base na reforma administrativa realizada Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0320 - Produzir peças publicitárias sobre os temas de atuação da SPM, para veiculação nos diferentes meios de comunicação Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Meta 0321 - Desenvolver campanhas educativas sobre a temática de gênero Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Meta 0324 - Produzir boletins informativos impressos sobre as ações desenvolvidas pela SPM RN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 36.000 Total 36.000
+
+Meta 0325 - Promover Seminário sobre a representação das Mulheres na Mídia Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 00495 - Desenvolvimento de ações para fortalecimento institucional para atuação com políticas públicas para as mulheres, com ênfase na estrutura e comunicação
+
+30. MEIO AMBIENTE E BIODIVERSIDADE
+
+Conforme o Dicionário Aurélio da língua portuguesa, ambiente é aquilo “que cerca ou envolve os seres vivos ou as coisas, por todos os lados”. Pela colocação de Amado (2012), alguns consideram a expressão meio ambiente redundante, podendo-se referir apenas a ambiente, tendo em vista sua definição. Todavia, o mesmo Dicionário Aurélio da língua portuguesa, no verbete meio, traz a definição de meio ambiente, este como sendo “o conjunto de condições naturais e de influências que atuam sobre os organismos vivos e seres humanos”.
+
+Já a Política Nacional do Meio Ambiente (Lei n° 6.938/1981), no artigo 3º, Inciso I, define meio ambiente como “o conjunto de condições, leis, influências e interações de ordem física, química e biológica, que permite, abriga e rege a vida em todas as suas formas”. Entretanto Amado (2012) cita críticas quanto ao conceito legal aqui transcrito, porquanto ter dado ênfase apenas ao componente biológico, não incluindo o social. Segundo Milaré (2013), o meio ambiente, devido à riqueza e complexidade dos assuntos tratados, enquadra-se numa categoria onde o conteúdo é mais facilmente intuído do que definível.
+
+Em 03 de março de 2004 foi instituída a Política Estadual de Meio Ambiente do Rio Grande do Norte para proteção, controle e recuperação da qualidade ambiental, pela Lei Complementar nº 272/2004 (inserção de alterações através das Leis Complementares nº 291/2005, 336/2006, 380/2008, 461/2011 e 495/2013), visando estabelecer as condições necessárias para o desenvolvimento sustentável do Estado. A Política Estadual de Meio Ambiente do Rio Grande do Norte define meio ambiente como sendo “o conjunto de condições, leis, influências e interações de ordem física, química e biológica, bem como fatores socioeconômicos e culturais, incluindo o ambiente construído, que permite, abriga e rege a vida em todas as suas formas”. É importante enfatizar que tal definição não se limitou ao ambiente biológico e físico, inserindo também o social.
+
+Pela Política Estadual, todos os Órgãos e Entidades da Administração Pública do Estado e dos Municípios, que atuam na proteção e melhoria da qualidade ambiental, constituem o Sistema Estadual do Meio Ambiente (SISEMA), onde toda conduta que viole as regras jurídicas de uso, gozo, promoção, proteção e recuperação do meio ambiente é considerada infração administrativa ambiental. Os instrumentos utilizados na Política Estadual do Meio Ambiente são os seguintes:
+
+ Sistema Estadual de Informações Ambientais;
+
+ Relatório de qualidade do meio ambiente;
+
+ Cadastro técnico estadual de atividades relacionadas com o uso dos recursos ambientais e potencialmente degradadoras;
+
+ Educação ambiental;
+
+ Zoneamento ambiental;
+
+ Sistema Estadual de Unidades de Conservação da Natureza (SEUC);
+
+ Compensação ambiental;
+
+ Normas e padrões ambientais;
+
+ Monitoramento ambiental;
+
+ Auto monitoramento ambiental;
+
+ Auditoria ambiental;
+
+ Licenças e avaliação de impactos ambientais.
+
+Para biodiversidade, o Dicionário Aurélio da língua portuguesa, define o seguinte: “a existência, numa dada região, de uma grande variedade de espécies, ou de outras categorias taxonômicas (como gêneros, etc.) de plantas ou de animais”, mas não se pode falar em biodiversidade sem nos atermos aos biomas. O livreto Florestas do Brasil – em resumo (2013), produzido pelo Serviço Florestal Brasileiro, entende bioma como um conjunto de vida (vegetal e animal) constituído pelo grupamento de tipos de vegetação contíguos e identificáveis em escala regional, com condições geoclimáticas similares e história compartilhada de mudanças, o que resulta em uma diversidade biológica própria2.
+
+O Brasil abriga seis biomas continentais: Amazônia, Cerrado, Mata Atlântica, Caatinga, Pampa e Pantanal. O Rio Grande do Norte está inserido em dois, no bioma Mata Atlântica e no bioma Caatinga. O bioma Mata Atlântica, ao longo dos séculos de ocupação humana, teve sua área florestal drasticamente reduzida, devido à especulação imobiliária e a expansão da atividade agropecuária, encontrando-se atualmente extremamente fragmentada, sendo o que abriga parcela significativa da diversidade biológica do Brasil, muitas destas ameaçadas de extinção. Esse bioma é composto por formações florestais nativas e ecossistemas associados, como:
+
+(Serviço Florestal Brasileiro, 2013), citando (Instituto Brasileiro de Geografia e Estatística, 2004).
+
+Floresta Ombrófila Densa; Floresta Ombrófila Mista, também denominada de Mata de Araucárias; Floresta Ombrófila Aberta; Floresta Estacional Semidecidual; e Floresta Estacional Decidual, bem como os manguezais, as vegetações de restingas, campos de altitude, brejos interioranos e encraves florestais do Nordeste.
+
+O bioma Caatinga ocupa cerca de 10% do território nacional e é o único bioma exclusivamente brasileiro. A vegetação é composta por arbustos espinhosos e florestas sazonalmente secas e que, apesar de ocupar uma região semiárida, possui grande heterogeneidade com sua biodiversidade amparando várias atividades econômicas voltadas para fins agrossilvipastoris e industriais. Entretanto, esse bioma vem sendo desmatado de maneira célere, devido, principalmente, ao consumo de lenha nativa, geralmente explorada de forma ilegal e insustentável.
+
+Uma prática comum nas cidades é a disposição inadequada dos resíduos sólidos gerados pela população, provocando a poluição do solo e das águas superficiais e subterrâneas. Some-se a isso o uso do solo para atividades agropecuárias, extração mineral, entre outras, com diversos impactos negativos ao meio ambiente e a poluição das águas. Desta forma, recai sobre o órgão ambiental a necessidade de licenciar, fiscalizar e monitorar a implantação e operação de empreendimentos e atividades potencialmente poluidores e aqueles que sob qualquer forma possa causar degradação do meio ambiente, onde se incluem atividades como indústria, agropecuária, mineração, exploração de petróleo e gás, construção civil, geração de energia, aquicultura, entre outras.
+
+Em relação as unidades de conservação, o Rio Grande do Norte tem quatro parques estaduais de proteção integral, uma reserva de desenvolvimento sustentável e quatro áreas de proteção ambiental terrestre. Essas áreas precisam de uma atenção mais ativa do Estado para manter a preservação e o uso sustentável.
+
+Fonte: IDEMA, 2013.
+
+As metas estabelecidas no PPA 2016-2019, visam possibilitar a efetiva aplicação da Política Estadual de Meio Ambiente, considerando a realidade atual do uso e ocupação do solo e as particularidades da biodiversidade regional, a fim de proporcionar o desenvolvimento socioeconômico sustentável do Estado, garantindo a devida proteção do meio ambiente e proporcionando qualidade de vida as presentes e futuras gerações.
+
+Demonstrativo de Programas Temáticos PPA
+
+0030 - MEIO AMBIENTE E BIODIVERSIDADE
+
+Diretriz 06 - PROMOÇÃO DO BEM-ESTAR DO POTIGUAR ATRAVÉS DA GARANTIA AO ACESSO AOS DIREITOS FUNDAMENTAIS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0089 - Percentual da extensão territorial do RN ambientalmente protegida Percentual 17/08/2015 4,59
+
+0090 - Licenças Ambientais Emitidas Anualmente Unidade 31/12/2014 3.623
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 35.400,00 111.600,00 147.000,00
+
+Recurso Federal 238.600,00 23.947.200,00 24.185.800,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 72.564.000,00 0,00 72.564.000,00
+
+TOTAL 72.838.000,00 24.058.800,00 96.896.800,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0101 - Apoiar o incentivo a prática de preservação do Meio Ambiente, bem como a exploração do turismo ecológico.
+
+Órgão: 25000 - Secretaria de Estado da Infraestrutura
+
+Meta 0283 - Construir o parque de Mãe Luiza Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0285 - Construir o parque ecológico do Vale das Cascatas Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0290 - Construir trecho do parque das Dunas, a margem da Engenheiro Roberto Freire Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0292 - Promover estudo de viabilidade para reutilização do Estádio Juvenal Lamartine Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Iniciativas 00398 - Recuperação, construção e reforma de parques ecológicos e/ou de turismo.
+
+Objetivo 0091 - Aprimorar continuamente os processos organizacionais, assegurar a modernização da instituição e direcionar a implantação das diretrizes estratégicas da SEMARH
+
+Órgão: 27000 - Sec de Estado do Meio Ambiente e dos Recursos Hídricos
+
+Meta 0211 - Promover o fortalecimento institucional do SISEMA (capacitação e fortalecimento dos municípios) Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0212 - Implementar a Política Estadual de Gestão Ambiental Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0242 - Promover a reestruturação Organizacional da SEMARH Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 00835 - Reequipamento da SEMARH
+
+00838 - Capacitação de pessoal
+
+00839 - Programa Qualidade de Vida e Saúde no Trabalho
+
+00884 - Implantação do Sistema de Gestão Compartilhada
+
+00885 - Implementar o Programa Estadual de Capacitação de Gestores Ambientais
+
+00886 - Implementação do Cadastro Ambiental Rural
+
+00888 - Plano Estadual de Mudanças Climáticas
+
+Objetivo 0094 - Recuperar, prevenir, preservar, conservar a bacia hidrográfica por meio de ações integradas e permanentes que promova a maioria da disponibilidade hídrica, em quantidade e qualidade e condições sócioambientais
+
+Órgão: 27000 - Sec de Estado do Meio Ambiente e dos Recursos Hídricos
+
+Meta 0214 - Revitalizar as bacias hidrográficas do Estado, em situação de vulnerabilidade ambiental , por meio de ações de prevenção, recuperação, Unidade Medida Percentual conservação e preservação
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 00889 - Elaboração de Plano de Recuperação de Matas Ciliares
+
+00890 - Manejo de Bacias Hidrográficas
+
+00891 - Levantamento dos Agentes de Poluição dasÁguas da Região da Bacia Hidrográfica do Rio Piranhas-Açu
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0002 - Promover a política ambiental do Rio Grande do Norte, aproveitando as potencialidades regionais, em busca da melhoria da qualidade de vida e do desenvolvimento sustentável.
+
+Órgão: 27203 - Instituto de Desenvolvimento Sustentável e Meio Ambiente do RN
+
+Meta 0001 - Orientar a elaboração e/ou revisão de documentos jurídicos-institucionais, visando a estruturação dos órgãos locais e de seus sistemas de gestão Unidade Medida Ano ambiental
+
+Território 2016-2019 Rio Grande do Norte 20 Terras Potiguaras 20 Agreste Litoral Sul 10 Total 50
+
+Meta 0058 - Realizar visitas técnicas para elaboração de documentos jurídico-institucionais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Sertão Central, Cabugi e Litoral Norte 6 Agreste Litoral Sul 17 Trairi 12 Potengi 7 Seridó 25 Alto Oeste 24 Açu/Mossoró 11 Mato Grande 10 Sertão do Apodi 13 Total 126
+
+Meta 0062 - Realizar oficinas sobre legislação ambiental Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 4 Sertão Central, Cabugi e Litoral Norte 1 Agreste Litoral Sul 6 Açu/Mossoró 1 Mato Grande 1 Total 13
+
+Meta 0069 - Realizar capacitação voltadas para as temáticas de fiscalização, licenciamento ambiental, recursos financeiro e educação ambiental Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 20 Sertão Central, Cabugi e Litoral Norte 44 Agreste Litoral Sul 96 Trairi 60 Potengi 44 Seridó 100 Alto Oeste 120 Açu/Mossoró 56 Mato Grande 60 Sertão do Apodi 68 Total 668
+
+Meta 0070 - Realizar eventos de capacitação voltadas para as temáticas de Fiscalização Ambiental (2016), Licenciamento Ambiental(2017), Capacitação de Unidade Medida Unidade recursos financeiros(2018) e Educação Ambiental(2019)
+
+Território 2016-2019 Terras Potiguaras 20 Sertão Central, Cabugi e Litoral Norte 44 Agreste Litoral Sul 96 Trairi 60 Potengi 44 Seridó 100
+
+Demonstrativo de Programas Temáticos PPA Alto Oeste 120 Açu/Mossoró 56 Mato Grande 60 Sertão do Apodi 68 Total 668
+
+Meta 0074 - Identificar áreas degradadas, em degradação ou ambientalmente ameaçadas, áreas de relevante interesse ambiental e sob processo efetivo ou Unidade Medida Hora potencial de degradação
+
+Território 2016-2019 Terras Potiguaras 2 Sertão Central, Cabugi e Litoral Norte 2 Agreste Litoral Sul 2 Trairi 2 Potengi 2 Seridó 2 Alto Oeste 2 Açu/Mossoró 2 Mato Grande 2 Sertão do Apodi 2 Total 20
+
+Meta 0084 - Realizar oficinas temáticas voltadas para elaboração e implantação de Agendas Ambientais nos Municípios Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 2 Sertão Central, Cabugi e Litoral Norte 2 Agreste Litoral Sul 4 Trairi 2 Potengi 2 Seridó 4 Alto Oeste 4 Açu/Mossoró 2 Mato Grande 2 Sertão do Apodi 2 Total 26
+
+Meta 0087 - Criar, operacionalizar e manter um Banco de Dados sobre as estruturas dos municipais de gestão ambiental do Estado a partir de dados do Unidade Medida Unidade Diagnostico SISMUMA/RN(2014), abrangendo os 10 Territórios
+
+Território 2016-2019 Terras Potiguaras 2 Total 2
+
+Meta 0129 - Capacitar gestores e técnicos do Projeto Orla Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 4 Sertão Central, Cabugi e Litoral Norte 4 Agreste Litoral Sul 4 Açu/Mossoró 4 Mato Grande 4 Total 20
+
+Meta 0130 - Realizar oficinas de sensibilização e de aplicação dos protocolos de orientação sobre a proteção das tartarugas marinhas Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 4 Sertão Central, Cabugi e Litoral Norte 4 Agreste Litoral Sul 4 Açu/Mossoró 4 Mato Grande 4 Total 20
+
+Meta 0150 - Revisar o zoneamento ecológico e econômico do litoral oriental(lei estadual 7.871/2000) e realizar estudos sobre o mar adjacente Unidade Unidade Medida
+
+Território 2016-2019
+
+Demonstrativo de Programas Temáticos PPA Terras Potiguaras 2 Agreste Litoral Sul 2 Mato Grande 2 Total 6
+
+Meta 0157 - Complementar a caracterização da faixa terrestre do litoral setentrional e realizar estudos sobre o mar adjacente, para definição do zoneamento Unidade Medida Unidade ecológio econômico
+
+Território 2016-2019 Sertão Central, Cabugi e Litoral Norte 2 Açu/Mossoró 2 Mato Grande 2 Total 6
+
+Meta 0158 - Elaborar estudo para tomadas de decisões sobre medidas a serem realizadas, visando à recomposição da mata ciliar do Rio Doce e como deve Unidade Medida Unidade ser feita essa recomposição, bem como, Identificar quais os agentes de degradação e como reverter essa situação
+
+Território 2016-2019 Terras Potiguaras 2 Total 2
+
+Meta 0172 - Elaborar planos de manejos e zoneamentos em 4 unidades de conservação Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Sertão Central, Cabugi e Litoral Norte 1 Alto Oeste 1 Açu/Mossoró 1 Total 4
+
+Meta 0189 - Monitorar a Reserva de Desenvolvimento Sustentável Estadual Ponta do Tubarão Unidade Unidade Medida
+
+Território 2016-2019 Sertão Central, Cabugi e Litoral Norte 1 Total 1
+
+Meta 0194 - Realizar estudos sobre a erosão e degradação e sua relação com as mudanças climáticas, que contribuam para o monitoramento da linha de Unidade Medida Unidade costa
+
+Território 2016-2019 Terras Potiguaras 4 Sertão Central, Cabugi e Litoral Norte 4 Agreste Litoral Sul 4 Açu/Mossoró 4 Mato Grande 4 Total 20
+
+Meta 0322 - Revisar os planos de manejo e zoneamento do Parque das Dunas de Natal, APA de Jenipabu, Parque Estadual Mata da Pipa, APA dos Recifes de Unidade Medida Unidade Corais e APA Piquiri-Una
+
+Território 2016-2019 Terras Potiguaras 2 Agreste Litoral Sul 2 Mato Grande 1 Total 5
+
+Meta 0329 - Diagnostico Sócio Econômico da área mangue do Potengi Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 0427 - Elevar o número de propriedades inscriatas no Cadastro Ambiental Rural Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 60.000 Total 60.000
+
+Demonstrativo de Programas Temáticos PPA Meta 0530 - Compensar licenças como incentivo à produção e utilização de gás natural por empresas de pequeno, médio e grande porte Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 16.000 Total 16.000
+
+Meta 0547 - Realização de trabalho de educação ambiental, nas escolas e comunidades com oficinas de reciclagem e sabão ecologicamente correto para 40 Unidade Medida Unidade multiplicadores
+
+Território 2016-2019 Terras Potiguaras 4 Sertão Central, Cabugi e Litoral Norte 4 Agreste Litoral Sul 4 Trairi 4 Potengi 4 Seridó 4 Alto Oeste 4 Açu/Mossoró 4 Mato Grande 4 Sertão do Apodi 4 Total 40
+
+Meta 0548 - Elaborar estudos de viabilidade de criação de novas UC Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0562 - Conhecer a qualidade das águas superficiais em 113 pontos e das águas subterrâneas em 100 poços Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 213 Total 213
+
+Meta 0566 - Formar 480 multiplicadores em educação e gestão ambiental Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 480 Total 480
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 01399 - Realização de atividades em educação ambiental
+
+01400 - Aquisição de programas e equipamentos de informática.
+
+01401 - Realização de deslocamento aéreo, terrestre, marítimo e fluvial, executando atividades de campo e mergulhos submarinos.
+
+01402 - Elaboração de plano de manejo, zoneamento das unidades de conservação e reflorestamento de mata ciliar
+
+01432 - Construção e equipar o Centro de Triagem de Animais Silvestres-CETAS
+
+01433 - Estudos e revisão de planos de manejo e zoneamento
+
+01436 - Construção dos Ecopostos.
+
+01438 - Realização de sobrevoos sistemáticos
+
+01439 - Apoio à gestão ambiental dos municípios e articulação com entidades das esferas municipais, estaduais e federais
+
+01440 - Aperfeiçoamento dos instrumentos de gestão ambiental e implementação do Projeto Orla
+
+01441 - Celebração de acordo de cooperação técnica e convênios com instituições governamentais (estadual e federal)
+
+01446 - Participação de cursos e treinamentos na área florestal
+
+01448 - Aquisição de imagens de satélite
+
+01449 - Celebração convênio com instituições públicas governamentais e entidade de ensino e pesquisa e desenvolvimento de diversos projetos
+
+01450 - Ações de divulgação do Cadastro Ambiental Rural
+
+01455 - Capacitação de gestores ambientais
+
+01458 - Combate a desertificação e mitigação dos efeitos da seca
+
+01461 - Promoção da agenda ambiental na administração pública
+
+01463 - Assinar convênio do IDEMA com instituições governamentais para operacionalizar programa, Realizar campanhas periódicas de coleta de água para análise, Disponibilizar os relatórios e boletins no site do programa. 01465 - Implantar infraestrutura de uso público nas unidades de conservação
+
+01466 - Elencar os programas de manejo
+
+01467 - Elaboração de estudos para identifica as áreas prioritárias para a conservação da biodiversidade no Estado do RN
+
+01484 - Operacionalização do convênio visando o Fortalecimento Institucional do IDEMA
+
+01486 - Incentivo ao Progás
+
+01507 - Apoio e elaboração de zoneamentos ambientais e planos de gestão ambiental
+
+01548 - Recuperação de pareas degradadas nas unidades de conservação
+
+31. CONSERVAÇÃO E GESTÃO DE RECURSOS HÍDRICOS E OFERTA DE ÁGUA
+
+A água é um recurso natural vital para a sobrevivência das espécies humana, vegetal e animal. Além de um recurso ambiental, a água tem valor econômico porque é finita, vulnerável e essencial para a conservação da vida e do meio ambiente e sua escassez impede o desenvolvimento de diversas regiões. O controle da poluição da água é necessário para assegurar e manter níveis de qualidade compatíveis com sua utilização. O excesso de dejetos orgânicos e tóxicos na água reduz o nível de oxigênio e impossibilita o ciclo biológico normal.
+
+Grande parte do Rio Grande do Norte está inserido no semiárido nordestino, caracterizado por chuvas irregulares, transformando os principais rios como intermitentes, onde durante boa parte do ano se apresentam secos. Historicamente as cidades se instalam nas margens ou muito próximas de recursos hídricos, e no Rio Grande do Norte não foi diferente, onde diversas cidades se encontram cortadas ou margeadas por rios, como é o caso da Capital Natal, Mossoró, Caicó, entre outras. Como consequência dessa ocupação humana, ocorrem lançamentos de esgotos sanitários provenientes das habitações e efluentes líquidos das atividades industriais, de aquicultura, de hospitais, drenagens de áreas agrícolas, entre outras, nesses corpos hídricos, provocando a sua poluição, tornando mais grave os impactos negativos quando os recursos hídricos são intermitentes.
+
+O Rio Grande do Norte dispõe de reservas hídricas concentradas para abastecer a sua população e atender as demandas de irrigação. O Estado apresenta-se com reservas substanciais de águas superficiais no interior, destacando-se o açude Armando Ribeiro Gonçalves no rio Açu, que se configura como a segunda maior barragem do Nordeste, com capacidade de acumulação de 2,4 bilhões de m³, sendo que 90% das reservas hídricas do Estado estão concentradas nos dois maiores rios: Açu e Apodi.
+
+O Estado também possui reservas de águas subterrâneas no litoral, no sistema Dunas-Barreiras e na Chapada do Apodi, no Arenito Açu. O Rio Grande do Norte conta com 46 açudes monitorados pela Secretaria de Meio Ambiente e dos Recursos Hídricos, como apresentado no mapa abaixo.
+
+Fonte: Secretaria do Meio Ambiente e de Recursos Hídricos.
+
+Tendo em vista o grande potencial hídrico do Estado e as características climáticas tornando os principais rios como intermitentes, o Governo Potiguar vem investindo em obras que buscam melhorar e ampliar a oferta dos recursos hídricos, buscando equilíbrio para o uso sustentável do recurso. Apesar do cenário fiscal restritivo para os próximos anos, os investimentos para conservação e gestão dos recursos hídricos e a oferta de água precisam continuar para manter a qualidade de vida e o bem-estar da população potiguar e o desenvolvimento econômico do Estado.
+
+Demonstrativo de Programas Temáticos PPA
+
+0031 - CONSERVAÇÃO E GESTÃO DE RECURSOS HÍDRICOS E OFERTA DE ÁGUA
+
+Diretriz 06 - PROMOÇÃO DO BEM-ESTAR DO POTIGUAR ATRAVÉS DA GARANTIA AO ACESSO AOS DIREITOS FUNDAMENTAIS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+0095 - Cobertura de municípios com aterros sanitários Percentual 30/01/2015 6,5
+
+0096 - Municípios em situação de colapso e emergência hídrica Unidade 30/01/2015 150
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 26.035.593,00 22.088.400,00 48.123.993,00
+
+Recurso Federal 34.349.400,00 104.821.400,00 139.170.800,00
+
+Operações de Crédito 0,00 278.925.000,00 278.925.000,00
+
+Outros 2.788.000,00 13.464.000,00 16.252.000,00
+
+TOTAL 63.172.993,00 419.298.800,00 482.471.793,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0096 - Abastecimento dos municípios em situação de colápso e emrgências hídricas, de acordo com o Decreto Emergencial, por meio de ações de governo de forma a minimizar os efeitos da estiagem
+
+Órgão: 27000 - Sec de Estado do Meio Ambiente e dos Recursos Hídricos
+
+Meta 0215 - Desenvolver Plano Emergencial de Convivência com os Efeitos da Estiagem Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 00894 - Atendimento a Situações Urgentes e Emergenciais nas Áreas Ambientais e de Recursos Hídricos
+
+00896 - Estabelecimento de Medidas Corretivas, Preventivas e Emergenciais de Mitigação à Mudança Climática
+
+Objetivo 0097 - Implementar, de forma mais atuante, nos órgãos competentes do Sistema de Gerenciamento de Recursos Hídricos do Estado, os instrumentos de gestão preconizados na Lei Federal n° 9433/97, e na Lei Estadual n° 6908/96
+
+Órgão: 27000 - Sec de Estado do Meio Ambiente e dos Recursos Hídricos
+
+Meta 0221 - Promover o fortalecimento intitucional do SIGERH Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0224 - Implementar os instrumentos de gestão de recursos hídricos Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0225 - Promover integração das águas do Rio são Francisco (PISF) com as Bacias Hidrográficas do Estado Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 00817 - Sistema de Informação de Recursos Hídricos
+
+00818 - Enquadramento de corpos de água
+
+00821 - Aprimoramento do processo de outorga
+
+00823 - Implantação da cobrança pelo uso da água
+
+00824 - Concepção e implantação do sistema de fiscalização
+
+00826 - Treinamento e capacitação em recursos hídricos
+
+00827 - Incentivo a criação e implementação de comitês de bacia hidrográficas
+
+00828 - Educação, Divulgação e Gestão Participativa
+
+00898 - Implantar o Centro de Referência em Monitoramento das Águas do Rio Grande do Norte
+
+00907 - Gestão e Gerenciamento do Uso das Águas do PISF
+
+00916 - Integração de Bacias Hidrográficas
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0100 - Analisar a disponibilidade hídrica do Estado por meio de estudos e projetos visando ampliar a capacidade de atendimento das demandas do Estado, permitindo, dessa forma, seu desenvolvimento social e econômico
+
+Órgão: 27000 - Sec de Estado do Meio Ambiente e dos Recursos Hídricos
+
+Meta 0229 - Desenvolvimento de 35 Estudos e Projetos na Área Ambiental e de Recursos Hídricos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 35 Total 35
+
+Meta 0233 - Promover a segurança de barragens Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 00829 - Elaboração de estudos, planos e projetos
+
+00836 - Melhoria de instalações físicas
+
+Objetivo 0102 - Aumentar a capacidade de oferta hídrica para atendimento aos usos da água por meio de ações estruturantes, permitindo dessa forma o atendimento prioritário ao abastecimento humano, irrigação, piscicultura e outros usos
+
+Órgão: 27000 - Sec de Estado do Meio Ambiente e dos Recursos Hídricos
+
+Meta 0236 - Implantar 41 obras estruturantes Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 28 Sertão Central, Cabugi e Litoral Norte 3 Agreste Litoral Sul 1 Seridó 6 Alto Oeste 2 Açu/Mossoró 1 Total 41
+
+Meta 0238 - Implantar 1900 Pequenos Sistemas de Abastecimento de Água Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1.900 Total 1.900
+
+Iniciativas 00783 - Construção, Ampliação e Recuperação de Adutoras
+
+00790 - Construção, Ampliação e Recuperação de Barragens
+
+00792 - Construção, Ampliação e Recuperação de Canais
+
+00797 - Programa Água Doce
+
+00799 - Programa Água paraTodos
+
+00801 - Perfuração de Poços
+
+00803 - Instalação de Poços
+
+00805 - Recuperação, Limpeza e teste de vazão de poços
+
+00806 - Recuperação e Manutenção de Dessalinizadores
+
+00808 - Instalação de Dessalinizadores
+
+01325 - Construção, Ampliação e Recuperação de Poços e Dessalinizadores
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0240 - Executar a gestão técnica e operacional das águas do Rio Grande do Norte, por meio da aplicação dos instrumentos de gestão definidos pela política estadual dos recursos hídricos, garantindo a preservação das águas e otimizando sua oferta para o consumo humano e demais usos.
+
+Órgão: 27202 - Instituto de Gestão das Águas do RN
+
+Meta 0709 - Desenvolver estudos, projetos e pesquisas sobre a Gestão dos Recursos Hídricos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 5 Total 5
+
+Meta 0713 - Monitorar quali-quantitativamente os Recursos Hídricos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 900 Total 900
+
+Meta 0717 - Emitir outorga e dispensa pelo direito do uso dos Recursos Hídricos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 8.000 Total 8.000
+
+Meta 0721 - Emitir licença e dispensa de obras hidráulicas Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 8.650 Total 8.650
+
+Meta 0727 - Cadastrar os usuários de água e as obras hidráulicas Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 8.000 Total 8.000
+
+Meta 0734 - Operacionalizar a cobrança pelo uso da água Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 40 Total 40
+
+Meta 0737 - Fiscalizar as demandas requeridas pelo uso dos Recursos Hídricos Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0741 - Implantar e operacionalizar o Sistema de Informações sobre Recursos Hídricos Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0743 - Instalar escritórios regionais de apoio ao Instituto de Gestão das Águas do Estado do Rio Grande do Norte Unidade Unidade Medida
+
+Território 2016-2019 Seridó 1 Açu/Mossoró 1
+
+Demonstrativo de Programas Temáticos PPA Total 2
+
+Meta 0760 - Realizar vistorias às barragens Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 200 Total 200
+
+Meta 0761 - Operar e manter a infraestrutura hídrica Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0762 - Realizar batimetria de açudes Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 12 Total 12
+
+Meta 0764 - Garantir a gestão integrada e descentralizada dos contratos firmados no âmbito dos Recursos Hídricos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0877 - Promover eventos sobre Recursos Hídricos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 200 Total 200
+
+Iniciativas 01283 - Desenvolvimento de estudos, projetos e pesquisas sobre a gestão dos Recursos Hídricos
+
+01284 - Monitoramento quali-quantitativo dos Recursos Hídricos
+
+01285 - Emissão de outorga e dispensa pelo direito do uso dos Recursos Hídricos
+
+01286 - Emissão de licença e dispensa de obras hidráulicas
+
+01287 - Cadastro de usuários de água e obras hidráulicas
+
+01288 - Operacionalização de cobrança pelo uso da água
+
+01289 - Fiscalização das demandas requeridas pelo uso dos Recursos Hídricos
+
+01290 - Realização de vistorias de barragens
+
+01291 - Operacionalização e manutenção da infraestrutura hídrica
+
+01292 - Implantação e operacionalização do Sistema de Informações sobre Recursos Hídricos do Rio Grande do Norte
+
+01293 - Realização de batimetria de açudes
+
+01294 - Garantia da gestão integrada e descentralizada dos contratos firmados no âmbito dos Recursos Hídricos
+
+01299 - Instalação de escritórios regionais de apoio ao Instituto de Gestão das Águas do Estado do Rio Grande do Norte
+
+01333 - Promoção de eventos sobre Recursos Hídricos
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0282 - Promover o fortalecimento institucional do IGARN, através da melhoria das condições organizacionais de trabalho e da adequação física e tecnológica do órgão, garantindo a modernização e o pleno funcionamento do Instituto.
+
+Órgão: 27202 - Instituto de Gestão das Águas do RN
+
+Meta 0745 - Modernizar tecnologicamente o Instituto de Gestão das Águas do Estado do Rio Grande do Norte Percentual Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 100 Total 100
+
+Meta 0878 - Adequar a estrutura física do Instituto de Gestão das Águas do Estado do Rio Grande do Norte Percentual Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 100 Total 100
+
+Meta 0886 - Implantar o plano de capacitação dos servidores do Instituto de Gestão das Águas do Estado do Rio Grande do Norte Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0887 - Regulamentar o Instituto de Gestão das Águas do Rio Grande do Norte e os Instrumentos da Política de Gestão Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 4 Total 4
+
+Meta 1286 - Capacitar os servidores do Instituto de Gestão das Águas do Estado do Rio Grande do Norte Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 40 Total 40
+
+Iniciativas 01297 - Adequação da estrutura física do Instituto de Gestão das Águas do Estado do Rio Grande do Norte
+
+01334 - Modernização tecnológica do Instituto de Gestão das Águas do Estado do Rio Grande do Norte
+
+01336 - Participação dos servidores do Instituto de Gestão das Águas do Estado do Rio Grande do Norte em eventos de aperfeiçoamento técnico-administrativo
+
+01337 - Regulamentação do Instituto de Gestão das Águas do Estado do Rio Grande do Norte e dos Instrumentos da Política de Gestão
+
+01372 - Qualidade de vida e saúde dos colaboradores no trabalho
+
+Poder Legislativo
+
+3. FORTALECIMENTO DA AÇÃO LEGISLATIVA
+
+As Assembleias Legislativas do Brasil foram criadas em 1834, por força do Ato Adicional à Constituição do Império. A Assembleia da Província do Rio Grande do Norte foi instalada em 02 de fevereiro de 1835 com o objetivo de cumprir o processo legislativo, apresentar proposição de Lei nas comissões, segundo as regras da Constituição Estadual e do Regimento Interno, e assegurar a participação democrática da sociedade.
+
+Ao Poder Legislativo cabe representar a sociedade potiguar, promovendo a tarefa de legislar e fiscalizar o trabalho da administração pública. Assim, a Ação Legislativa deve ser promovedora no sentido de promoção de novas leis e de novos regramentos na sociedade, cooperadora no sentido do debate e aprovação daquilo que vem do Poder Executivo, fiscalizadora fazendo uso das suas ferramentas legais no exercício da tarefa de fiscalizar o Poder Executivo Estadual, e transparente de modo a demonstrar para sociedade como a representação de seus interesses, pelos parlamentares, está efetivamente acontecendo. O ideal é que o Legislativo seja promovedor, cooperador, fiscalizador e transparente.
+
+A assembleia Legislativa do Rio Grande do Norte tem alguns projetos de elevada importância para a sociedade potiguar como a Assembleia Itinerante, que leva os trabalhadores parlamentares aos municípios-polo do Estado fortalecendo a interação com a população; Assembleia Cidadã, que são atendimentos gratuitos para a população de municípios do Rio Grande do Norte que apresentam carência em diversas áreas, como saúde, educação e ação social e o Parlamento Jovem, que é um projeto educacional para promover a consciência política e a liderança entre jovens e adolescentes norte-rio-grandenses.
+
+Para o Fortalecimento da Ação Legislativa, necessário se faz desenvolver um Planejamento Estratégico com vistas a melhorar a eficácia, a qualidade, a integração, a otimização do orçamento e dos recursos humanos e tecnológicos disponíveis em prol de uma sociedade mais justa e melhor.
+
+Demonstrativo de Programas Temáticos PPA
+
+0003 - FORTALECIMENTO DA AÇÃO LEGISLATIVA
+
+Diretriz 01 - DEMOCRATIZAÇÃO E GOVERNANÇA PÚBLICA COM PARTICIPAÇÃO SOCIAL, TRANSPARÊNCIA, EFICIÊNCIA E GESTÃO ORIENTADA PARA RESULTADOS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 5.224.000,00 11.984.000,00 17.208.000,00
+
+Recurso Federal 0,00 0,00 0,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 0,00 1.000.000,00 1.000.000,00
+
+TOTAL 5.224.000,00 12.984.000,00 18.208.000,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0273 - Promover a seleção e qualificação profissional, desenvolver ações de qualidade de vida dos parlamentares e servidores, reestruturar a infraestrutura e modernização tecnológica, construir uma nova sede e modernizar a escola do legislativo.
+
+Órgão: 01000 - Assembléia Legislativa
+
+Meta 1012 - Realizar concurso público Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 1013 - Selecionar Agentes de Policia Legislativa Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 30 Total 30
+
+Meta 1014 - Capacitar e requalificar deputados estaduais Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 96 Total 96
+
+Meta 1015 - Capacitar e treinar servidores da Assembleia Legislativa Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1.600 Total 1.600
+
+Meta 1035 - Reaparelhar e informatizar a Assembleia Legislativa Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Meta 1037 - Realizar eventos do projeto de interiorização das ações legislativas Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 28 Total 28
+
+Meta 1062 - Construir a nova sede do Poder Legislativo Percentual Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 100 Total 100
+
+Meta 1065 - Reaparelhar a nova sede da Assembleia Legislativa Unidade Unidade Medida
+
+Território 2016-2019 Terras Potiguaras 1 Total 1
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 01365 - Realização de concurso público
+
+01367 - Capacitação e requalificação dos Deputados e Servidores do Poder Legislativo, através de cursos, seminários, palaestras e oficinas de trabalho
+
+01369 - Promoção de ações visando a promoção da qualidade de vida dos Deputados e Servidores do Poder Legislativo
+
+01379 - Modernização e reestruturação física e tecnológica do Poder Legislativo
+
+01380 - Descentralização dos trabalhos legislativos através da interiorização da ação legislativa
+
+01393 - Construição da nova sede do Pode Legislativo objetivando adequar a estrutura atual de modo a possibilitar a melhoria da prestação dos serviços legislativos.
+
+01394 - Promoção da modernização da escola do legislativo quanto à sua estrutura tecnológica, bem como, garantir o bom desempenho dos trabalhos escolares.
+
+Objetivo 0279 - Promover a transmissão e divulgação de todos os trabalhos e atividades legislativas, bem como transmitir programas culturais através da TV e Rádio Assembleia, visando melhorar a comunicação entre o Poder Legislativo e a sociedade.
+
+Órgão: 01201 - Fundação Djalma Marinho
+
+Meta 1004 - Atender os municípios do Estado na transmissão dos trabalhos e atividades legislativas através da TV e Rádio Assembleia Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 167 Total 167
+
+Meta 1282 - Adquirir e reformar o prédio da FDM Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1283 - Realizar concurso público para preenchimento do quadro de servidores Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 1284 - Instalar o Jornal Assembleia Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 01361 - Ampliar a TV e Rádio Assembleia e instalar o Jornal Assembleia
+
+01362 - Melhoria da estrutura física necessária ao desenvolvimento das atividades da FDM
+
+01363 - Aquisição de veículos automotivos
+
+01364 - Realização de concurso público para manter o quadro de pessoal da FDM
+
+5. FORTALECIMENTO DO CONTROLE EXTERNO
+
+Todas as instituições públicas, independentemente da respectiva missão finalística, obrigam-se a conduzir o seu funcionamento a serviço do bem coletivo, ou seja, em benefício da sociedade. No caso específico dos Tribunais de Contas, sua função institucional, compreendendo o exercício do controle externo da gestão pública, deve estar comprometida, inteiramente, com o interesse da sociedade e, portanto, em favor da cidadania.
+
+O Tribunal de Contas do Estado é o responsável pela fiscalização e análise das contas públicas de seus jurisdicionados, Órgãos do Estado e Municípios, da Administração Direta e Indireta, inclusive do Terceiro Setor.
+
+A partir da vigência da atual Constituição, as Cortes de Contas tiveram suas competências redimensionadas, sendo mais tarde acrescidas, em sede regulamentar, das inúmeras atribuições estabelecidas por meio da Lei de Responsabilidade Fiscal (LRF), a qual, de forma inovadora, prescreveu uma nova postura para a gestão público-administrativa, cuja atuação, além de marcada pelos princípios da responsabilidade, transparência e controle, teria que transcorrer assentada no pressuposto do planejamento das respectivas ações. Para dar resposta a essa nova realidade, tornou-se inadiável a adoção de medidas voltadas para a modernização dos órgãos de controle externo.
+
+Diante desse cenário de mudanças e no caso específico do Estado do Rio Grande do Norte, este Tribunal de Contas decidiu por conceber e de imediato implementar o seu Plano Estratégico, o qual, a par de fixar objetivos institucionais, ao mesmo tempo definiu ações e meios para alcançá- los, bem assim a quantificação de metas e resultados programados.
+
+Do ponto de vista estratégico, o programa se destina a orientar o planejamento e a execução da gestão técnico-administrativa do Tribunal como órgão público, enquanto, sob sua finalidade primordial, apresenta-se expressamente comprometido com o propósito de aperfeiçoar o processo de fortalecimento do controle externo, aplicável à gestão pública e em benefício da sociedade.
+
+O exercício do controle externo tem como atividade essencial a fiscalização da regular aplicação dos recursos públicos, no intuito de prevenir riscos quanto ao mau uso do dinheiro público, minimizando falhas e detectando possíveis fraudes e desvios, por meio da promoção de ações permanentes de auditoria voltadas a orientações, recomendações, determinações e avaliações.
+
+O Tribunal de Contas, diante da importante vigilância que deve ser exercida no controle das contas públicas e dada a abrangência de seu campo de atuação, busca intensificar e promover
+
+a integração institucional de Ações do Controle Externo, por meio da celebração de convênios e termos de cooperação com outros órgãos.
+
+No âmbito interno, o objetivo é o fortalecimento das práticas de planejamento, disseminando os objetivos estratégicos da organização, alinhados à missão, visão e valores da instituição, visando a avaliação dos resultados institucionais em processo de melhoria contínua. Ainda neste enfoque, no campo do desenvolvimento profissional e gerencial de seus servidores, o Tribunal de Contas, consciente do importante papel desempenhado junto à sociedade, como órgão fiscalizador e normativo, busca estimular a capacitação profissional de seus servidores e profissionais jurisdicionados, a fim de desenvolver seus conhecimentos, habilidades, competências e atitudes para referenciá-los no desempenho das suas funções, por meio de treinamentos e participação de eventos de atualização profissional.
+
+Contudo, para dar um arcabouço ao desenvolvimento eficiente e adequado de todas as funções institucionais do TCE, faz-se necessário o planejamento da aplicação dos recursos financeiros na melhoria da infraestrutura do órgão, no tocante a manutenção e ampliação de suas instalações, mediante aquisições de bens móveis e imóveis, entre outros elementos essenciais a sua funcionalidade.
+
+Outro objetivo do programa retrata a preocupação quanto à manutenção de competências destacadas e desenvolvidas no quadro de pessoal, assim como, quanto à forma de atrair novos servidores tecnicamente capacitados, por meio de concurso público. Numa mesma diretriz, tem- se a revisão periódica do plano de cargos e salários, em uma busca constante de manter a motivação e o comprometimento dos servidores.
+
+Concluindo, os objetivos elencados pelo Tribunal de Contas do Estado no programa de fortalecimento do controle externo, suscintamente: fiscalizar a regular aplicação dos recursos públicos; aprimorar o desenvolvimento profissional e gerencial dos seus agentes; intensificar e estimular treinamentos profissionais aos jurisdicionados; melhorar a infraestrutura do Órgão; fortalecer práticas de planejamento no âmbito do TCE; e atrair e manter competências no quadro de pessoal, os quais nortearão as atividades institucionais nos exercícios de 2016 a 2019. Em suma, busca-se essencialmente proporcionar a melhoria dos serviços prestados pelo TCE à sociedade, sempre com vista ao cumprimento dos princípios constitucionais da legalidade, impessoalidade, moralidade, publicidade e eficiência.
+
+Demonstrativo de Programas Temáticos PPA
+
+0005 - FORTALECIMENTO DO CONTROLE EXTERNO
+
+Diretriz 01 - DEMOCRATIZAÇÃO E GOVERNANÇA PÚBLICA COM PARTICIPAÇÃO SOCIAL, TRANSPARÊNCIA, EFICIÊNCIA E GESTÃO ORIENTADA PARA RESULTADOS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 2.612.000,00 7.300.000,00 9.912.000,00
+
+Recurso Federal 0,00 0,00 0,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 1.580.000,00 13.520.000,00 15.100.000,00
+
+TOTAL 4.192.000,00 20.820.000,00 25.012.000,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0157 - Fiscalizar a regular aplicação dos recursos públicos, prevenindo riscos e detectando fraudes e desvios, por meio da promoção de ações de fiscalização voltadas a orientações, recomendações, determinações e avaliações.
+
+Órgão: 02000 - Tribunal de Contas
+
+Meta 0512 - Fiscalizar órgãos públicos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 800 Total 800
+
+Iniciativas 00695 - Promoção da Fiscalização da Gestão Pública, incluindo a elaboração do plano de fiscalização e promoção das adequadas condições de operacionalização desse processo
+
+00697 - Articulação institucional e promoção de convênios para melhoria do controle externo
+
+Objetivo 0159 - Aprimorar o desenvolvimento profissional e gerencial dos agentes do Tribunal de Contas e dos jurisdicionados, estimulando conhecimentos, habilidades e atitudes no desempenho das funções, através de treinamento e participação de eventos de atualização profissional.
+
+Órgão: 02000 - Tribunal de Contas
+
+Meta 0516 - Realizar e participar de treinamentos e eventos para os Agentes do TCE Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2.000 Total 2.000
+
+Meta 0517 - Realizar e participar de treinamentos e eventos para os Jurisdicionados Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2.000 Total 2.000
+
+Iniciativas 00698 - Realização e participação em eventos de aperfeiçoamento técnico
+
+00699 - Realização de treinamentos para jurisdicionados
+
+01538 - Realização de treinamentos para agentes do TCE
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0161 - Melhorar as ações de Controle Externo, através da modernização da infraestrutura física do Tribunal de Contas, visando a adequação de elementos essenciais a sua funcionalidade.
+
+Órgão: 02000 - Tribunal de Contas
+
+Meta 0520 - Ampliar a frota de veículos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 17 Total 17
+
+Meta 0521 - Construir prédio do anexo do TCE Metro Quadrado Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 6.000 Total 6.000
+
+Meta 0524 - Aparelhar o TCE Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0526 - Implantar a TV e a Rádio do TCE Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0527 - Renovar o acervo da biblioteca do TCE, através da aquisição de livro e material didático Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 800 Total 800
+
+Meta 0528 - Implantar a Central de Atendimento do TCE Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0529 - Renovar e ampliar a estrutura de TI Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0532 - Promover a utilização de energia alternativa no TCE Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 15 Total 15
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 00700 - Construção do anexo do Tribunal de Contas do Estado
+
+00702 - Aparelhamento do Tribunal de Contas do Estado
+
+00703 - Renovação e ampliação de frota de veículos do TCE
+
+00704 - Implantação do Rádio e TV do TCE
+
+00705 - Renovação do acervo da biblioteca do TCE
+
+00706 - Implantação e operacionalização da Central de Atendimento do TCE
+
+00708 - Renovação e ampliação da estrutura de TI do TCE
+
+00709 - Promoção de programas de redução de custos e desperdícios com foco na sustentabilidade
+
+Objetivo 0162 - Fortalecer práticas de planejamento e de gestão no âmbito do TCE, atraindo, mantendo e valorizando as competências no quadro de pessoal, bem como disseminando os objetivos estratégicos da instituição, visando melhorar continuamente a avaliação dos resultados institucionais.
+
+Órgão: 02000 - Tribunal de Contas
+
+Meta 0533 - Implementar o planejamento estatégico Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 60 Total 60
+
+Meta 0534 - Realizar concurso público Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 2 Total 2
+
+Meta 0535 - Revisar o Plano de Cargos, Carreiras e Salários Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Iniciativas 00710 - Fortalecimento da práticas de planejamento e gestão estratégica do TCE
+
+00711 - Realização de concurso público para manter e ampliar o quadro de pessoal do TCE
+
+00712 - Revisões periódicas para adequação nos termos e condições do plano de cargos e salários
+
+Poder Judiciário
+
+4. JUDICIÁRIO
+
+O poder judiciário tem como função jurisdicional a solução de conflitos. O Tribunal de Justiça do Rio Grande do Norte no seu papel institucional de realizar justiça a partir de conceitos como: eficiência, imparcialidade, comprometimento e independência, busca ser uma instituição moderna e eficiente, reconhecida pela sociedade pela sua efetividade, celeridade, presteza no atendimento e credibilidade. Para tanto estabelece, a partir do seu planejamento estratégico, algumas perspectivas para a sociedade e para a eficiência nas suas ações.
+
+Em relação à sociedade, entende necessário o fortalecimento da atuação do Poder Judiciário do Rio Grande do Norte, garantindo que a população o reconheça como responsável por realizar justiça de forma eficaz e efetiva, contribuindo para a realização do bem comum.
+
+Espera-se alcançar mais eficiência e eficácia na prestação jurisdicional, por meio da implantação de ações que impulsionem as execuções fiscais e cíveis, como o aumento na celeridade e produtividade de magistrados e servidores, institucionalização da gestão das demandas repetitivas e os processos contra grandes litigantes, redução do acervo dos processos de corrupção e de improbidade administrativa, institucionalização das soluções dos conflitos pelos métodos consensuais. No aspecto de Fiscalização e Correição, tem-se o aperfeiçoamento das fiscalizações, correições e inspeções por meio da orientação e padronização dos serviços prestados pelo PJRN.
+
+A partir da eficiência operacional administrativa, orçamentária e financeira espera-se proporcionar a celeridade e efetividade dos processos administrativos, bem como o aumento da receita e aperfeiçoamento da gestão de custos. Com vistas a melhoria na qualidade de vida da população do Estado, o Tribunal de Justiça do Rio Grande do Norte continuará o processo de fortalecimento da gestão da justiça criminal e das ações nas áreas da infância e juventude, violência doméstica e socioambiental, bem como aperfeiçoando o processo de comunicação social.
+
+Demonstrativo de Programas Temáticos PPA
+
+0004 - JUDICIÁRIO
+
+Diretriz 01 - DEMOCRATIZAÇÃO E GOVERNANÇA PÚBLICA COM PARTICIPAÇÃO SOCIAL, TRANSPARÊNCIA, EFICIÊNCIA E GESTÃO ORIENTADA PARA RESULTADOS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 131.376.000,00 164.997.000,00 296.373.000,00
+
+Recurso Federal 0,00 0,00 0,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 38.308.000,00 35.429.000,00 73.737.000,00
+
+TOTAL 169.684.000,00 200.426.000,00 370.110.000,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0276 - Realizar justiça com eficiência, imparcialidade, comprometimento e independência.
+
+Órgão: 04000 - Tribunal de Justiça
+
+Meta 0939 - Implantar o ensino a distância Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0951 - Realizar pesquisas a partir do núcleo de pesquisa da ESMARN Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0956 - Implantar mídias eletrônicas Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0960 - Publicar edições científicas Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 16 Total 16
+
+Meta 0971 - Implantar turmas de residência judicial Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 0975 - Capacitar 21% de servidores e magistrados em competências específicas Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 21 Total 21
+
+Meta 0980 - Promover anualmente 4 eventos de capacitação Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 16 Total 16
+
+Meta 0982 - Adquirir novos veículos Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 25 Total 25
+
+Meta 0985 - Implantar ações sociais, econômicas e ambientais Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 168
+
+Demonstrativo de Programas Temáticos PPA Total 168
+
+Meta 0986 - Realizar ações de sensibilização, encaminhamento e fiscalização Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 200 Total 200
+
+Meta 0987 - Executar ações voltadas para a execução penal Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 200 Total 200
+
+Meta 0990 - Construir e reformar unidades do poder judiciário Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 140 Total 140
+
+Meta 0991 - Concluir a construção do fórum de Parnamirim Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0993 - Adquirir imóveis para o poder judiciário Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 3 Total 3
+
+Meta 0995 - Construção da nova sede do TJRN Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 70 Total 70
+
+Meta 0996 - Construção do fórum da Comarca de Pau dos Ferros Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1066 - Estruturar e adequar os prédicos e as instalações de sistema de segurança do poder judiciário Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 31 Total 31
+
+Meta 1067 - Aprimorar ações gerenciais Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1068 - Implantar ações e projetos voltados para infância e juventude Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Demonstrativo de Programas Temáticos PPA
+
+Meta 1070 - Modernizar a infraestrutura física dos juizados especiais Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 50 Total 50
+
+Meta 1099 - Medir as ações voltadas a qualidade de vida Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 30 Total 30
+
+Meta 1100 - Identificar o número de ações voltadas a preservação da saúde dos servidores e magistrados do TJ Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 4 Total 4
+
+Meta 1101 - Implatar arquivos do TJRN Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 50 Total 50
+
+Meta 1102 - Reduzir o percentural de cargos não providos Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 118 Total 118
+
+Meta 1111 - Modernizar o centro de dados Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1112 - Modernizar o parque tecnológico Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1115 - Concretizar a implementação do PJE Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1116 - Implantar sistemas informatizados elaborados pela instituição Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 1117 - Solucionar conflitos por métodos consensuais Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 30 Total 30
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 01338 - Impulsionar as execuções fiscais, cíveis e penais
+
+01339 - Aumentar a celeridade e produtividade na prestação jurisdicional
+
+01340 - Institucionalizar a gestão de demandas repetitivas e dos processos contra grandes litigantes
+
+01342 - Institucionalização de solução de conflitos pelos métodos consensuais
+
+01343 - Aperfeiçoamento das fiscalizações, correções e inspeções
+
+01344 - Promoção da celeridade e efetividade dos processos administrativos
+
+01345 - Fortalecimento da gestão da justiça criminal e ações nas áreas da infância e juventude, violência doméstica, socioambiental e dependência química
+
+01346 - Aperfeiçoar o processo de comunicação
+
+01347 - Ampliar a governança judiciária e estimular ações inovadoras
+
+01348 - Aprimorar a gestão de pessoas
+
+01349 - Aumentar a receita e aperfeiçoar a gestão de custos
+
+01350 - Adequação da infraestrutura física, da segurança e da sustentabilidade do ambiente de trabalho
+
+01351 - Aprimorar a infraestrutura e governança de tic
+
+01352 - Elaboração de projetos de pesquisa
+
+01353 - Promoção de produção intelectual e científica
+
+Procuradoria Geral de Justiça
+
+6. DEFESA E EFETIVAÇÃO DOS DIREITOS DA SOCIEDADE
+
+A Constituição Federal de 1988 confere ao Ministério Público Brasileiro, por intermédio da investidura de novas competências, quais sejam, a defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis, um novo perfil. Logo, a instituição passa a ser entendida, verdadeiramente, como representante da soberania popular, como guardião dos fundamentos do novo Estado nacional que passava a ser construído com base no novo ordenamento constitucional.
+
+Como complemento ao advento da Carta Magna de 1988, foi editado um conjunto normativo com o propósito de possibilitar a efetividade das tarefas constitucionais do Ministério Público, explicando suas atribuições e legitimando o expressamente para atuação na tutela das novas dimensões constitucionais, especialmente, dos direitos das pessoas portadoras de deficiência, da criança e do adolescente, do consumidor, do patrimônio público, da saúde, da ordem econômica e da livre concorrência, da pessoa idosa e do meio ambiente.
+
+Como forma de sistematizar o papel institucional do MPRN, em 2012 proclamou-se como visão de futuro da instituição o seguinte “sociedade como Instituição independente, catalisadora, dinâmica, eficiente e eficaz, responsável e referência na defesa dos interesses da sociedade e na valorização efetiva de seus integrantes, com capacidade de contribuir na construção da justiça social e da cidadania com atenção equânime em todo o Estado do Rio Grande do Norte. ”
+
+Com o propósito de promover meios capazes de abarcar a variedade de competências e, concomitantemente, oferecer um sistema capaz de reger os esforços e recursos institucionais em função das suas pretensões institucionais reunidas na sua visão, o MPRN identificou a premente necessidade de aperfeiçoar seu modelo de gestão organizacional. O novo modelo de gestão teve a preocupação de se utilizar da aproximação com a sociedade (agentes públicos, sociedade civil organizada e o cidadão potiguar). Elaborado por meio de um processo participativo, no qual foram usados instrumentos que garantiram a observação dos interesses dos segmentos da instituição e da sociedade, foi editado o Planejamento Estratégico 2012-2016. O MPRN sintetizou em um mapa estratégico todos os objetivos que reunidos devem representar a efetivação da atuação ministerial no exercício de suas incumbências constitucionais, destacando assuntos e temáticas que foram eleitas prioritárias pelos atores institucionais e sociais, prezando por critérios de urgência, relevância social e aplicabilidade regional.
+
+Além de prestar-se a sistematizar os esforços institucionais em direção aos objetivos institucionais, ele permite a determinação de um marco norteador das estratégias
+
+orçamentárias pertinentes e necessárias à operacionalização de ações, projetos e programas institucionais afetos à materialização do PE 2012-2016.
+
+Naquilo que pertine ao processo de priorização empreendido para a eleição das diretrizes estratégicas, tem-se a pesquisa de imagem institucional realizada pelo MPRN no ano de 2015. A coleta de informações representou importante instrumento de coleta impressões e anseios sociais e proporcionou a criação e guarda de informações valiosas para a definição da concentração de esforços institucionais. A frente uma ilustração com as representações de prioridades obtidas pela mencionada pesquisa.
+
+A expectativa é de que as ações, projetos e programas em volta dos objetivos propostos pelo Ministério Público do Estado do Rio Grande do Norte possibilitem ampliar e direcionar sua atuação, de modo que os benefícios originados pela garantia destes direitos possam ser sentidos pela sociedade a ponto de consolidar a imagem do MPRN como guardião da ordem jurídica, regime democrático e dos interesses sociais e individuais indisponíveis.
+
+Demonstrativo de Programas Temáticos PPA
+
+0006 - DEFESA E EFETIVAÇÃO DOS DIREITOS DA SOCIEDADE
+
+Diretriz 01 - DEMOCRATIZAÇÃO E GOVERNANÇA PÚBLICA COM PARTICIPAÇÃO SOCIAL, TRANSPARÊNCIA, EFICIÊNCIA E GESTÃO ORIENTADA PARA RESULTADOS
+
+Indicadores Nome Unidade de Medida Data de Apuração Índice Recente
+
+Valor do Programa Categoria Economica Fonte de Financiamento 2016-2019 Corrente Capital
+
+Recurso Estadual 14.883.797,80 35.446.602,20 50.330.400,00
+
+Recurso Federal 0,00 0,00 0,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outros 80.000,00 23.040.000,00 23.120.000,00
+
+TOTAL 14.963.797,80 58.486.602,20 73.450.400,00
+
+Demonstrativo de Programas Temáticos PPA
+
+Objetivo 0072 - Fortalecer o enfrentamento ao crime organizado por meio do aprimoramento e expansão do suporte à atuação do MPRN com o objetivo de intensificar a atividade de investigação.
+
+Órgão: 14000 - Procuradoria Geral da Justiça
+
+Meta 0179 - Propor ações judiciais em relação às investigações para as quais há designação do Grupo de Atuação Especial de Combate ao Crime Unidade Medida Percentual Organizado (GAECO) em conjunto com o Promotor Natural até 2019
+
+Território 2016-2019 Rio Grande do Norte 50 Total 50
+
+Meta 0181 - Realizar operações em relação às investigações para as quais há designação do Grupo de Atuação Especial de Combate ao Crime Organizado Unidade Medida Percentual (GAECO) em conjunto com o Promotor Natural até 2019
+
+Território 2016-2019 Rio Grande do Norte 35 Total 35
+
+Meta 0184 - Realizar o atendimento por meio do Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO) das solicitações de investigação Unidade Medida Percentual sobre crime organizado até 2019
+
+Território 2016-2019 Rio Grande do Norte 40 Total 40
+
+Meta 0186 - Reduzir o tempo médio de atendimento do Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO) às diligências solicitadas até Unidade Medida Percentual 2019
+
+Território 2016-2019 Rio Grande do Norte 30 Total 30
+
+Iniciativas 00628 - Promoção da melhoria contínua e evolução do Laboratório Especializado de Tecnologia e da atividade de investigação
+
+Objetivo 0073 - Facilitar e simplificar o acesso da população aos serviços prestados pelo MPRN por meio da ampliação dos canais de comunicação e acesso à informação para uma maior garantia dos direitos do cidadão.
+
+Órgão: 14000 - Procuradoria Geral da Justiça
+
+Meta 0188 - Ampliar o número de atendimentos realizados pela Ouvidoria do Ministério Público Estadual em relação ao ano de 2015 até 2019 Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 107 Total 107
+
+Meta 0213 - Implantar a Central de Atendimento ao Cidadão Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 1 Total 1
+
+Meta 0335 - Melhorar o nível de satisfação do usuário do MPRN Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 95 Total 95
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 00632 - Fortalecimento e ampliação dos canais de acesso e comunicação do Ministério Público do Estado do Rio Grande do Norte com a sociedade
+
+00633 - Realização de ações de aproximação com a sociedade
+
+Objetivo 0075 - Promover a eficiência das atividades administrativas em todo o Estado, por meio da modernização e desburocratização das atividades na área meio e finalística para assegurar maior eficiência e celeridade às ações institucionais.
+
+Órgão: 14000 - Procuradoria Geral da Justiça
+
+Meta 0230 - Implementar o MP Virtual nas Promotorias de Justiça Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Meta 0232 - Implementar gestão de processos identificados como prioritários na área administrativa Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 100 Total 100
+
+Iniciativas 00635 - Modernização e desburocratização das atividades nas áreas meio e finalística
+
+00637 - Automação de processo digital das áreas meio e finalística do MPRN
+
+Objetivo 0076 - Garantir infraestrutura física e tecnológica adequada, acessível e segura em todas as unidades ministeriais buscando oferecer melhores condições aos integrantes do MPRN e ao cidadão.
+
+Órgão: 14000 - Procuradoria Geral da Justiça
+
+Meta 0216 - Construir unidades ministeriais Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 21 Total 21
+
+Meta 0339 - Implantar controles de segurança nas unidades ministeriais Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 80 Total 80
+
+Meta 0344 - Atender demandas estratégicas de TI Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 93 Total 93
+
+Meta 0346 - Melhorar o nível de satisfação dos usuários de TI Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 90 Total 90
+
+Demonstrativo de Programas Temáticos PPA
+
+Iniciativas 00639 - Ampliação do parque tecnológico e modernização da infraestrutura da TI
+
+00641 - Construção, ampliação e reforma de sedes e anexos do MPRN
+
+00643 - Dotação de material permanente, mobiliário e equipamentos para as unidades do MPE
+
+00645 - Aquisição de imóveis
+
+00647 - Promoção da Segurança Institucional
+
+Objetivo 0077 - Promover o alcance da missão institucional por meio da aplicação de uma política de gestão de pessoas que desenvolva, valorize e retenha o capital humano objetivando proporcionar satisfação e comprometimento.
+
+Órgão: 14000 - Procuradoria Geral da Justiça
+
+Meta 0222 - Nomear cargos efetivos para as vagas criadas até 2019 Unidade Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 33 Total 33
+
+Meta 0223 - Reduzir o absenteísmo da instituição em relação ao ano de 2015 Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 41 Total 41
+
+Meta 0308 - Melhorar o nível de satisfação de servidores e membros com o MPRN Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 80 Total 80
+
+Meta 0309 - Aumentar o número de servidores que obtenham no mínimo 70% no Índice de Desenvolvimento do Servidor Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 85 Total 85
+
+Meta 0314 - Capacitar os integrantes da instituição Percentual Unidade Medida
+
+Território 2016-2019 Rio Grande do Norte 90 Total 90
+
+Iniciativas 00649 - Realização de concurso público
+
+00652 - Aplicação e aprimoramento da política de gestão de pessoas
+
+00653 - Promoção da qualificação e aperfeiçoamento funcional dos integrantes do MPRN de acordo com as necessidades institucionais
+
+Anexo 3 PROGRAMA DE GESTÃO, MANUTENÇÃO E SERVIÇOS AO ESTADO
+
+Governo do Estado do Rio Grande do Norte SIAF/RN
+
+DEMONSTRATIVO CONSOLIDADO DO PROGRAMA DE GESTÃO, MANUTENÇÃO E SERVIÇOS AO ESTADO
+
+0100 - GESTÃO, MANUTENÇÃO E SERVIÇOS AO ESTADO Poder Executivo
+
+Órgão 2016 - 2019 11103 - Consultoria Geral do Estado 5.057.000,00
+
+11104 - Procuradoria Geral do Estado 136.155.000,00
+
+11105 - Assessoria de Comunicação Social 6.869.000,00
+
+11106 - Controladoria Geral do Estado 32.026.000,00
+
+11108 - Gabinete Civil do Governador do Estado 143.513.000,00
+
+11201 - Departamento Estadual de Imprensa 71.197.272,00
+
+12000 - Vice-Governadoria 13.328.000,00
+
+15000 - Polícia Militar 110.660.000,00
+
+16000 - Secretaria de Estado da Administração e dos Recursos Humanos 411.708.000,00
+
+16201 - Instituto de Previdência dos Servidores do Estado do Rio Grande do Norte 8.682.489.000,00
+
+16202 - Companhia de Processamento de Dados 309.941.060,00
+
+17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca 64.014.040,00
+
+17202 - Instituto de Assistência Técnica e Extensão Rural 128.902.750,00
+
+17203 - Empresa de Pesquisa Agropecuária 55.100.916,00
+
+17205 - Central de Abastecimento 36.395.520,00
+
+17206 - Instituto de Defesa e Inspeção Agropecuária do Estado do RN 21.036.000,00
+
+18000 - Secretaria de Estado da Educação e da Cultura 715.300.000,00
+
+18201 - Fundação José Augusto 157.900.000,00
+
+18202 - Fundação Universidade do Estado do RN - FUERN 146.285.685,00
+
+18203 - Instituto de Educação Superior Presidente Kennedy 800.000,00
+
+19000 - Secretaria de Estado do Planejamento e das Finanças 29.152.000,00
+
+20000 - Secretaria de Estado do Desenvolvimento Econômico 23.964.000,00
+
+20205 - Junta Comercial do Estado 18.392.000,00
+
+20206 - Instituto de Pesos e Medidas 16.000,00
+
+20207 - Fundação de Apoio à Pesquisa do Rio Grande do Norte 7.440.000,00
+
+21000 - Secretaria de Estado da Segurança Pública e da Defesa Social 21.273.600,00
+
+21102 - Polícia Civil 77.336.000,00
+
+21131 - Instituto Técnico Científico de Polícia 9.334.764,00
+
+22000 - Secretaria de Estado da Tributação 1.268.488.000,00
+
+23000 - Secretaria de Estado da Justiça e da Cidadania 368.370.000,00
+
+24000 - Secretaria de Estado da Saúde Pública 140.000.000,00
+
+25000 - Secretaria de Estado da Infraestrutura 44.992.000,00
+
+25201 - Departamento de Estradas de Rodagem 92.024.000,00
+
+25203 - Departamento Estadual de Trânsito 331.056.000,00
+
+25204 - Agência Reguladora de Serviços Públicos 10.205.000,00
+
+Governo do Estado do Rio Grande do Norte SIAF/RN
+
+DEMONSTRATIVO CONSOLIDADO DO PROGRAMA DE GESTÃO, MANUTENÇÃO E SERVIÇOS AO ESTADO
+
+0100 - GESTÃO, MANUTENÇÃO E SERVIÇOS AO ESTADO 26000 - Secretaria de Estado do Trabalho, da Habitação e da Assistência Social 73.363.000,00
+
+26202 - Fundação Estadual da Criança e do Adolescente 120.562.000,00
+
+26203 - Companhia Estadual de Habitação e Desenvolvimento Urbano 5.140.000,00
+
+27000 - Sec de Estado do Meio Ambiente e dos Recursos Hídricos 11.444.000,00
+
+27202 - Instituto de Gestão das Águas do RN 6.108.000,00
+
+27203 - Instituto de Desenvolvimento Sustentável e Meio Ambiente do RN 274.424.000,00
+
+28000 - Secretaria de Estado do Turismo 10.563.800,00
+
+28202 - Empresa Potiguar de Promoção Turistica 18.360.864,00
+
+31000 - Secretaria de Estado de Assuntos Fundiários, Colonização e Reforma Agrária 22.520.000,00
+
+32000 - Corpo de Bombeiros Militar 18.592.600,00
+
+33000 - Secretaria do Estado do Esporte e do Lazer 9.324.000,00
+
+TOTAL 14.261.123.871,00
+
+Valor Total do Poder Executivo
+
+Categoria Econômica Fonte de Financiamento 2016 - 2019 Corrente Capital
+
+Estadual 5.239.102.575,00 87.357.464,00 5.326.460.039,00
+
+Federal 21.892.600,00 22.126.700,00 44.019.300,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outras 8.843.294.332,00 47.350.200,00 8.890.644.532,00
+
+Total 14.104.289.507,00 156.834.364,00 14.261.123.871,00
+
+Governo do Estado do Rio Grande do Norte SIAF/RN
+
+DEMONSTRATIVO CONSOLIDADO DO PROGRAMA DE GESTÃO, MANUTENÇÃO E SERVIÇOS AO ESTADO
+
+0100 - GESTÃO, MANUTENÇÃO E SERVIÇOS AO ESTADO Poder Legislativo
+
+Órgão 2016 - 2019 01000 - Assembléia Legislativa 1.218.344.000,00
+
+01201 - Fundação Djalma Marinho 39.772.000,00
+
+02000 - Tribunal de Contas 336.376.000,00
+
+TOTAL 1.594.492.000,00
+
+Valor Total do Poder Legislativo
+
+Categoria Econômica Fonte de Financiamento 2016 - 2019 Corrente Capital
+
+Estadual 1.590.307.064,00 4.184.936,00 1.594.492.000,00
+
+Federal 0,00 0,00 0,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outras 0,00 0,00 0,00
+
+Total 1.590.307.064,00 4.184.936,00 1.594.492.000,00
+
+Governo do Estado do Rio Grande do Norte SIAF/RN
+
+DEMONSTRATIVO CONSOLIDADO DO PROGRAMA DE GESTÃO, MANUTENÇÃO E SERVIÇOS AO ESTADO
+
+0100 - GESTÃO, MANUTENÇÃO E SERVIÇOS AO ESTADO Poder Judiciário
+
+Órgão 2016 - 2019 04000 - Tribunal de Justiça 3.407.662.000,00
+
+TOTAL 3.407.662.000,00
+
+Valor Total do Poder Judiciário
+
+Categoria Econômica Fonte de Financiamento 2016 - 2019 Corrente Capital
+
+Estadual 3.311.766.000,00 8.799.000,00 3.320.565.000,00
+
+Federal 0,00 0,00 0,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outras 85.778.000,00 1.319.000,00 87.097.000,00
+
+Total 3.397.544.000,00 10.118.000,00 3.407.662.000,00
+
+Governo do Estado do Rio Grande do Norte SIAF/RN
+
+DEMONSTRATIVO CONSOLIDADO DO PROGRAMA DE GESTÃO, MANUTENÇÃO E SERVIÇOS AO ESTADO
+
+0100 - GESTÃO, MANUTENÇÃO E SERVIÇOS AO ESTADO Defensoria Pública Geral do Estado
+
+Órgão 2016 - 2019 05000 - Defensoria Pública Geral do Estado 125.288.160,00
+
+TOTAL 125.288.160,00
+
+Valor Total do Poder Judiciário
+
+Categoria Econômica Fonte de Financiamento 2016 - 2019 Corrente Capital
+
+Estadual 125.058.160,00 230.000,00 125.288.160,00
+
+Federal 0,00 0,00 0,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outras 0,00 0,00 0,00
+
+Total 125.058.160,00 230.000,00 125.288.160,00
+
+Governo do Estado do Rio Grande do Norte SIAF/RN
+
+DEMONSTRATIVO CONSOLIDADO DO PROGRAMA DE GESTÃO, MANUTENÇÃO E SERVIÇOS AO ESTADO
+
+0100 - GESTÃO, MANUTENÇÃO E SERVIÇOS AO ESTADO Procuradoria Geral de Justiça
+
+Órgão 2016 - 2019 14000 - Procuradoria Geral da Justiça 1.112.029.600,00
+
+TOTAL 1.112.029.600,00
+
+Valor Total do Poder Judiciário
+
+Categoria Econômica Fonte de Financiamento 2016 - 2019 Corrente Capital
+
+Estadual 1.096.341.600,00 1.356.000,00 1.097.697.600,00
+
+Federal 0,00 0,00 0,00
+
+Operações de Crédito 0,00 0,00 0,00
+
+Outras 14.332.000,00 0,00 14.332.000,00
+
+Total 1.110.673.600,00 1.356.000,00 1.112.029.600,00
+
+## Anexo 4
+
+ANEXO DE METAS E PRIORIDADES
+
+Anexo de Metas e Prioridades - 2016 Programa 0001 - DEMOCRATIZAÇÃO, TRANSPARÊNCIA E GOVERNANÇA PÚBLICA
+
+Objetivo 0215 - Garantir o assessoramento ao Chefe do Poder Executivo de forma eficiente, através da modernização da Consultoria Geral do Estado, visando refletir seus resultados em uma melhor eficiência administrativa e operacional.
+
+Órgão Responsável 11103 - Consultoria Geral do Estado
+
+Meta 1145 - Promover a capacitação dos Servidores da CGE Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 3
+
+Total 3
+
+Meta 1146 - Adquirir equipamentos de informática e eletroeletrônicos Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 11
+
+Total 11
+
+Objetivo 0235 - Elevar a qualidade dos serviços prestados em defesa judicial e extrajudicial do Estado, bem como o assessoramento jurídico ao Poder Executivo, através da racionalização e melhoria física, administrativa e institucional da Procuradoria Geral do Estado.
+
+Órgão Responsável 11104 - Procuradoria Geral do Estado
+
+Meta 0775 - Atender as solicitações de desapropriações feitas à Unidade de Medida Percentual Procuradoria Geral do Estado Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 0777 - Qualificar e capacitar os servidores da PGE Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 80
+
+Total 80
+
+Meta 1287 - Reequipar e informatizar a Procuradoria Geral do Estado Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Objetivo 0265 - Divulgar as ações desenvolvidas pelo governo do Estado, por meio de comunicação oficial e eletrônica para promover a prestação de contas e a transparência das atividades e políticas públicas.
+
+Órgão Responsável 11105 - Assessoria de Comunicação Social
+
+Meta 0870 - Atingir em media 90% de todos os municipios do Rio Grande Unidade de Medida Percentual do Norte com divulgação das ações desenvolvidas pelo Governo do Estado Território Quantidade
+
+0001 - Rio Grande do Norte 90
+
+Total 90
+
+Anexo de Metas e Prioridades - 2016
+
+Objetivo 0293 - Ampliar e disseminar conhecimentos e práticas voltadas para a temática da Transparência e Controle Social da Administração Pública, assim como, o avanço de ações de governo eletrônico, contribuindo para a educação social, melhor oferta de serviços públicos e exercício da cidadania.
+
+Órgão Responsável 11106 - Controladoria Geral do Estado
+
+Meta 1152 - Realizar 08 ações em Educação para o Controle Social Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 2
+
+Total 2
+
+Meta 1232 - Instituir a Ouvidoria Geral do Estado Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Objetivo 0294 - Ampliar e qualificar o Controle Interno e o bom gerenciamento dos negócios públicos através da melhoria das instalações físicas, oferta de ferramentas técnicas apropriadas e da formação e capacitação de serviços afim de proporcionar melhores condições e resultados no exercício das atividades da Controladoria Geral do Estado.
+
+Órgão Responsável 11106 - Controladoria Geral do Estado
+
+Meta 1153 - Realizar 20 Auditorias Especializadas no âmbito da Unidade de Medida Unidade Administração Pública Estadual Território Quantidade
+
+0002 - Terras Potiguaras 5
+
+Total 5
+
+Meta 1238 - Instituir a Corregedoria Geral do Estado Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Objetivo 0204 - Modernizar a estrutura e os serviços do Gabinete Civil, por meio da operacionalização, reaparelhamento, bem como a qualificação e a promoção da qualidade de vida dos servidores, visando o desenvolvimento institucional e otimização da gestão das organizações públicas, garantindo eficiência e transparência.
+
+Órgão Responsável 11108 - Gabinete Civil do Governador do Estado
+
+Meta 0619 - Modernizar o Gabinete Civil Unidade de Medida Percentual
+
+Território Quantidade
+
+0002 - Terras Potiguaras 60
+
+Total 60
+
+Meta 0634 - Implantar um sistema eletrônico de compilação e Unidade de Medida Unidade sistematização da legislação estadual Território Quantidade
+
+0002 - Terras Potiguaras 50.000
+
+Total 50.000
+
+Objetivo 0234 - Reestruturar e adequar o Centro Administrativo através da implantação e implementação de um Programa de Humanização, por meio da melhoria da infraestrutura, promovendo condições apropriadas de uso, transformando em um espaço agradável e seguro para os cidadãos trabalharem e praticarem atividades de esporte e lazer.
+
+Anexo de Metas e Prioridades - 2016 Órgão Responsável 11108 - Gabinete Civil do Governador do Estado
+
+Meta 0701 - Reestruturar, adequar e construir na área de 370.000m2 do Unidade de Medida Metro Quadrado Centro Administrativo Território Quantidade
+
+0002 - Terras Potiguaras 350.000
+
+Total 350.000
+
+Meta 0704 - Implantar e implementar o Programa de Humanização no Unidade de Medida Unidade Centro Administrativo Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Objetivo 0269 - Divulgar os atos governamentais através do diário oficial e outras publicações de interesse do estado, como livros, revistas e periódicos, bem como a execução de serviços gráficos oficiais ou de interesse de terceiros, visando um serviço público de qualidade e transparência.
+
+Órgão Responsável 11201 - Departamento Estadual de Imprensa
+
+Meta 1315 - Aumentar a produção gráfica do periódico A República em 50% Unidade de Medida Percentual até 2018 Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Objetivo 0262 - Desenvolver ações para a captação de recursos para projetos e execução de obras de infraestrutura física, social e ambiental no Estado.
+
+Órgão Responsável 12000 - Vice-Governadoria
+
+Meta 0868 - Construir um auditório na sede de vice-governadoria Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 0869 - Aparelhar e informatizar a vice-governadoria Unidade de Medida Percentual
+
+Território Quantidade
+
+0002 - Terras Potiguaras 100
+
+Total 100
+
+Objetivo 0043 - Aperfeiçoar a gestão pública, através da implantação de políticas de recursos humanos orientada por competências, democratização das relações de trabalho e oferta de canais de comunicação com a sociedade, visando aumentar a capacidade do governo na implementação de suas políticas.
+
+Órgão Responsável 16000 - Secretaria de Estado da Administração e dos Recursos Humanos
+
+Meta 0109 - Aprimorar os mecanismos para a gestão por desempenho na Unidade de Medida Percentual Administração Pública Estadual Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 0110 - Criar Ouvidoria Geral no âmbito da Secretaria Estadual de Unidade de Medida Percentual Administração e dos Recursos Humanos Território Quantidade
+
+Anexo de Metas e Prioridades - 2016 0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0316 - Realizar concurso público para preencher vagas existentes no Unidade de Medida Unidade Quadro de Pessoal dos Órgãos da Administração Direta e Indireta Território Quantidade
+
+0001 - Rio Grande do Norte 8
+
+Total 8
+
+Meta 0317 - Consolidar o Sistema de atenção à saúde do servidor QVST e Unidade de Medida Percentual preparação para aposentadoria. Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Objetivo 0103 - Fortalecer a política pública de formação inicial e continuada para o servidor público estadual.
+
+Órgão Responsável 16000 - Secretaria de Estado da Administração e dos Recursos Humanos
+
+Meta 0210 - Ampliar em 50% a capacidade física instalada da EGRN, até Unidade de Medida Percentual dezembro de 2018 Território Quantidade
+
+0001 - Rio Grande do Norte 20
+
+Total 20
+
+Meta 0255 - Adquirir 1000 novos títulos anualmente para a biblioteca da Unidade de Medida Unidade EGRN. Território Quantidade
+
+0001 - Rio Grande do Norte 250
+
+Total 250
+
+Meta 0270 - Mapear 100% dos processos internos da EGRN Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Meta 0279 - Normatizar e oficializar um plano de acolhimento aos novos Unidade de Medida Unidade servidores Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0291 - Realizar o CONGESP e CONGESPRO anualmente; duas Unidade de Medida Unidade Jornadas anuais de QVST no interior do estado; bem como Fóruns de Gestores de RH em Natal e no Interior Território Quantidade
+
+0002 - Terras Potiguaras 3
+
+0007 - Seridó 2
+
+0009 - Açu/Mossoró 3
+
+Total 8
+
+Objetivo 0136 - Definir políticas de gestão de patrimônio, compras e frota de veículos, procurando meios que traduzam economicidade e redução de custos financeiros para o Estado.
+
+Órgão Responsável 16000 - Secretaria de Estado da Administração e dos Recursos Humanos
+
+Meta 0420 - Ampliar os mecanismos de gestão patrimonial, garanindo a Unidade de Medida Percentual otimização dos recursos do Estado
+
+Anexo de Metas e Prioridades - 2016 Território Quantidade
+
+0002 - Terras Potiguaras 50
+
+Total 50
+
+Meta 0423 - Articular a criação do Fundo Patrimonial do Estado Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0491 - Implantar uma Central de Compras no Governo do Estado do Unidade de Medida Percentual Rio Grande do Norte. Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Objetivo 0166 - Promover a Modernização da Gestão Administrativa através da Tecnologia da Informação e Comunicação para o fortalecimento, integração e acessibilidade do cidadão com o governo do estado
+
+Órgão Responsável 16000 - Secretaria de Estado da Administração e dos Recursos Humanos
+
+Meta 0437 - Implementar políticas de TIC e de segurança da informação, Unidade de Medida Percentual abrangendo o monitoramento das diretrizes em todos os órgãos públicos do governo do Estado, de forma a garantir a confiabilidade, integridade e disponibilidade dos dados e dos sistemas Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 0450 - Realizar a modernização fisica e tecnológica do órgão central Unidade de Medida Percentual de TIC e de suas ramificações nas demais unidades administrativas do governo do Estado, por meio de aquisição e intalação de equipamentos adequados Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 0465 - Fortalecer e aumentar a Rede de dados atualmente utilizada Unidade de Medida Percentual pelos órgãos e entidades da administração pública através da rede do RN INFOVIA Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Objetivo 0031 - Recuperar os créditos imobiliários do FCVS proporcionando ao Governo lastro financeiro e as condições favoráveis para novação de dívidas e responsabilidades previstas na lei 10.150/00.
+
+Órgão Responsável 16202 - Companhia de Processamento de Dados
+
+Meta 0078 - Recuperar Créditos FCVS. Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 15
+
+Total 15
+
+Anexo de Metas e Prioridades - 2016
+
+Objetivo 0032 - Regularizar atrasos dos mutuários inadimplentes vinculados a contratos imobiliários contratados pela incorporada COHAB-RN proporcionando a DATANORTE lastro financeiro e as condições favoráveis ao pagamento de dívidas e obrigações.
+
+Órgão Responsável 16202 - Companhia de Processamento de Dados
+
+Meta 0112 - Recuperar créditos Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Objetivo 0275 - Melhorar os sistemas de controle de despesas públicas, dos recursos humanos e da gestão de ativos físicos, no contexto de uma abordagem de gestão baseada em resultados, em conformidade com o acordo de empréstimo do Banco Mundial para o programa RN Sustentável.
+
+Órgão Responsável 19000 - Secretaria de Estado do Planejamento e das Finanças
+
+Meta 0891 - Modernizar os sistemas administrativos e de gestão do Estado Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 3
+
+Total 3
+
+Meta 0893 - Melhorar e modernizar a infraestrutura dos órgãos de Unidade de Medida Unidade Planejamento, Gestão e Controle Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Meta 0895 - Promover a capacitação de servidores Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 500
+
+Total 500
+
+Objetivo 0303 - Fortalecer o planejamento através da modernização da gestão estadual e da promoção de políticas públicas estratégicas, visando ampliar o desenvolvimento territorial, o diálogo participativo e a gestão orientada para resultados.
+
+Órgão Responsável 19000 - Secretaria de Estado do Planejamento e das Finanças
+
+Meta 1269 - Promover o Realinhamento Organizacional da Estrutura Unidade de Medida Unidade Administrativa do Estado do Rio Grande do Norte Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1270 - Realizar estudo de Modelagem de Macroprocessos para Unidade de Medida Unidade Resultados Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1272 - Apoiar a Implementação do Plano da Região Metropolitana Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 1273 - Implementar o Orçamento Participativo Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1275 - Implementar o Plano Estratégico de Desenvolvimento do Rio Unidade de Medida Unidade Grande do Norte Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1276 - Elaborar Plano dos Eixos Integrados de Desenvolvimento do Unidade de Medida Unidade Rio Grande do Norte Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0304 - Promover o reordenamento da gestão financeira, através do gerenciamento de ativos e da implementação de ações fiscais eficientes e transparentes, visando maximizar o potencial de desenvolvimento financeiro do Estado.
+
+Órgão Responsável 19000 - Secretaria de Estado do Planejamento e das Finanças
+
+Meta 1278 - Promover a alienação de 100% dos ativos previstos para o Unidade de Medida Percentual período de quatro anos Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1279 - Manter o Controle do Caixa Único do Estado Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Meta 1280 - Manter em 100% a Regularidade Fiscal do Estado Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Meta 1281 - Atender Empresas Públicas com aumento de capital Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Objetivo 0315 - Promover a recuperação de ativos do extinto Sistema Financeiro Estadual (BANDERN e BDRN).
+
+Órgão Responsável 19204 - Empresa Gestora de Ativos do Rio Grande do Norte
+
+Meta 1353 - Recuperar os ativos do sistema financeiro estadual Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Anexo de Metas e Prioridades - 2016
+
+Objetivo 0033 - Ampliar a arrecadação estadual, por meio da modernização e restruturação administrativa, física e tecnológica, garantindo eficácia e eficiência às atividades realizadas e melhoria dos serviços prestados à sociedade.
+
+Órgão Responsável 22000 - Secretaria de Estado da Tributação
+
+Meta 0075 - Reformar as Unidades Regionais de Tributação (URT) e a Unidade de Medida Unidade sede da SET/RN Território Quantidade
+
+0002 - Terras Potiguaras 2
+
+0007 - Seridó 1
+
+Total 3
+
+Meta 0082 - Aumentar volume de procedimentos de fiscalização com base Unidade de Medida Percentual no monitoramento eletrônico e na malha fiscal Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 0085 - Implantar sistema eletrônico para processos administrativos Unidade de Medida Percentual tributários e contencioso fiscal Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Objetivo 0066 - Ampliar a disseminação da educação fiscal no Estado através da qualificação de pessoal, sensibilização da sociedade e reformulação das ações educativas de cidadania fiscal.
+
+Órgão Responsável 22000 - Secretaria de Estado da Tributação
+
+Meta 0165 - Capacitar quadro técnico dos municípios para disseminação Unidade de Medida Unidade do Programa de Educação Fiscal – PEF Território Quantidade
+
+0008 - Alto Oeste 5
+
+0009 - Açu/Mossoró 5
+
+0011 - Sertão do Apodi 5
+
+Total 15
+
+Meta 0166 - Realizar eventos culturais de Educação Fiscal Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016 Programa 0002 - MELHORIA NA GESTÃO DA PREVIDÊNCIA SOCIAL
+
+Objetivo 0020 - Melhorar e ampliar a rede de atendimento previdenciário do Estado do Rio Grande do Norte, através da modernização e reforma da estrutura física e tecnológica e da qualificação profissional, visando garantir a qualidade dos serviços prestados aos usuários do sistema.
+
+Órgão Responsável 16201 - Instituto de Previdência dos Servidores do Estado do Rio Grande do Norte
+
+Meta 0049 - Reformar e ampliar as instalações físicas da Sede e demais Unidade de Medida Unidade agências do Interior do Estado, garantindo a acessibilidade e conforto aos usuários Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016 Programa 0003 - FORTALECIMENTO DA AÇÃO LEGISLATIVA
+
+Objetivo 0273 - Promover a seleção e qualificação profissional, desenvolver ações de qualidade de vida dos parlamentares e servidores, reestruturar a infraestrutura e modernização tecnológica, construir uma nova sede e modernizar a escola do legislativo.
+
+Órgão Responsável 01000 - Assembléia Legislativa
+
+Meta 1012 - Realizar concurso público Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 1013 - Selecionar Agentes de Policia Legislativa Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 30
+
+Total 30
+
+Meta 1014 - Capacitar e requalificar deputados estaduais Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 24
+
+Total 24
+
+Meta 1015 - Capacitar e treinar servidores da Assembleia Legislativa Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 400
+
+Total 400
+
+Meta 1035 - Reaparelhar e informatizar a Assembleia Legislativa Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 1037 - Realizar eventos do projeto de interiorização das ações Unidade de Medida Unidade legislativas Território Quantidade
+
+0002 - Terras Potiguaras 28
+
+Total 28
+
+Meta 1062 - Construir a nova sede do Poder Legislativo Unidade de Medida Percentual
+
+Território Quantidade
+
+0002 - Terras Potiguaras 29
+
+Total 29
+
+Meta 1065 - Reaparelhar a nova sede da Assembleia Legislativa Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Objetivo 0279 - Promover a transmissão e divulgação de todos os trabalhos e atividades legislativas, bem como transmitir programas culturais através da TV e Rádio Assembleia, visando melhorar a comunicação entre o Poder Legislativo e a sociedade.
+
+Órgão Responsável 01201 - Fundação Djalma Marinho
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 1004 - Atender os municípios do Estado na transmissão dos Unidade de Medida Unidade trabalhos e atividades legislativas através da TV e Rádio Assembleia Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Meta 1282 - Adquirir e reformar o prédio da FDM Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1283 - Realizar concurso público para preenchimento do quadro de Unidade de Medida Unidade servidores Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1284 - Instalar o Jornal Assembleia Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016 Programa 0004 - JUDICIÁRIO
+
+Objetivo 0276 - Realizar justiça com eficiência, imparcialidade, comprometimento e independência.
+
+Órgão Responsável 04000 - Tribunal de Justiça
+
+Meta 0939 - Implantar o ensino a distância Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 0951 - Realizar pesquisas a partir do núcleo de pesquisa da Unidade de Medida Unidade ESMARN Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0956 - Implantar mídias eletrônicas Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0960 - Publicar edições científicas Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 4
+
+Total 4
+
+Meta 0971 - Implantar turmas de residência judicial Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0975 - Capacitar 21% de servidores e magistrados em competências Unidade de Medida Percentual específicas Território Quantidade
+
+0001 - Rio Grande do Norte 18
+
+Total 18
+
+Meta 0980 - Promover anualmente 4 eventos de capacitação Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 4
+
+Total 4
+
+Meta 0982 - Adquirir novos veículos Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Meta 0985 - Implantar ações sociais, econômicas e ambientais Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 33
+
+Total 33
+
+Meta 0986 - Realizar ações de sensibilização, encaminhamento e Unidade de Medida Unidade fiscalização Território Quantidade
+
+Anexo de Metas e Prioridades - 2016 0001 - Rio Grande do Norte 50
+
+Total 50
+
+Meta 0987 - Executar ações voltadas para a execução penal Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Meta 0990 - Construir e reformar unidades do poder judiciário Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 34
+
+Total 34
+
+Meta 0991 - Concluir a construção do fórum de Parnamirim Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Meta 0995 - Construção da nova sede do TJRN Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Meta 0996 - Construção do fórum da Comarca de Pau dos Ferros Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Meta 1067 - Aprimorar ações gerenciais Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 70
+
+Total 70
+
+Meta 1068 - Implantar ações e projetos voltados para infância e juventude Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 30
+
+Total 30
+
+Meta 1070 - Modernizar a infraestrutura física dos juizados especiais Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 1099 - Medir as ações voltadas a qualidade de vida Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 15
+
+Total 15
+
+Meta 1100 - Identificar o número de ações voltadas a preservação da Unidade de Medida Unidade saúde dos servidores e magistrados do TJ Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1101 - Implatar arquivos do TJRN Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Anexo de Metas e Prioridades - 2016 Total 5
+
+Meta 1102 - Reduzir o percentural de cargos não providos Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 37
+
+Total 37
+
+Meta 1111 - Modernizar o centro de dados Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 70
+
+Total 70
+
+Meta 1112 - Modernizar o parque tecnológico Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 1115 - Concretizar a implementação do PJE Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 15
+
+Total 15
+
+Meta 1116 - Implantar sistemas informatizados elaborados pela instituição Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 24
+
+Total 24
+
+Meta 1117 - Solucionar conflitos por métodos consensuais Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 18
+
+Total 18
+
+Anexo de Metas e Prioridades - 2016 Programa 0005 - FORTALECIMENTO DO CONTROLE EXTERNO
+
+Objetivo 0157 - Fiscalizar a regular aplicação dos recursos públicos, prevenindo riscos e detectando fraudes e desvios, por meio da promoção de ações de fiscalização voltadas a orientações, recomendações, determinações e avaliações.
+
+Órgão Responsável 02000 - Tribunal de Contas
+
+Meta 0512 - Fiscalizar órgãos públicos Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 200
+
+Total 200
+
+Objetivo 0159 - Aprimorar o desenvolvimento profissional e gerencial dos agentes do Tribunal de Contas e dos jurisdicionados, estimulando conhecimentos, habilidades e atitudes no desempenho das funções, através de treinamento e participação de eventos de atualização profissional.
+
+Órgão Responsável 02000 - Tribunal de Contas
+
+Meta 0516 - Realizar e participar de treinamentos e eventos para os Unidade de Medida Unidade Agentes do TCE Território Quantidade
+
+0001 - Rio Grande do Norte 500
+
+Total 500
+
+Meta 0517 - Realizar e participar de treinamentos e eventos para os Unidade de Medida Unidade Jurisdicionados Território Quantidade
+
+0001 - Rio Grande do Norte 500
+
+Total 500
+
+Objetivo 0161 - Melhorar as ações de Controle Externo, através da modernização da infraestrutura física do Tribunal de Contas, visando a adequação de elementos essenciais a sua funcionalidade.
+
+Órgão Responsável 02000 - Tribunal de Contas
+
+Meta 0520 - Ampliar a frota de veículos Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 8
+
+Total 8
+
+Meta 0521 - Construir prédio do anexo do TCE Unidade de Medida Metro Quadrado
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 3.000
+
+Total 3.000
+
+Meta 0524 - Aparelhar o TCE Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 0526 - Implantar a TV e a Rádio do TCE Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 0527 - Renovar o acervo da biblioteca do TCE, através da aquisição Unidade de Medida Unidade de livro e material didático Território Quantidade
+
+0001 - Rio Grande do Norte 200
+
+Total 200
+
+Meta 0528 - Implantar a Central de Atendimento do TCE Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0529 - Renovar e ampliar a estrutura de TI Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 0532 - Promover a utilização de energia alternativa no TCE Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Objetivo 0162 - Fortalecer práticas de planejamento e de gestão no âmbito do TCE, atraindo, mantendo e valorizando as competências no quadro de pessoal, bem como disseminando os objetivos estratégicos da instituição, visando melhorar continuamente a avaliação dos resultados institucionais.
+
+Órgão Responsável 02000 - Tribunal de Contas
+
+Meta 0533 - Implementar o planejamento estatégico Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 15
+
+Total 15
+
+Meta 0534 - Realizar concurso público Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016 Programa 0006 - DEFESA E EFETIVAÇÃO DOS DIREITOS DA SOCIEDADE
+
+Objetivo 0072 - Fortalecer o enfrentamento ao crime organizado por meio do aprimoramento e expansão do suporte à atuação do MPRN com o objetivo de intensificar a atividade de investigação.
+
+Órgão Responsável 14000 - Procuradoria Geral da Justiça
+
+Meta 0179 - Propor ações judiciais em relação às investigações para as Unidade de Medida Percentual quais há designação do Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO) em conjunto com o Promotor Natural até 2019 Território Quantidade
+
+0001 - Rio Grande do Norte 35
+
+Total 35
+
+Meta 0181 - Realizar operações em relação às investigações para as Unidade de Medida Percentual quais há designação do Grupo de Atuação Especial de Combate ao Crime Organizado (GAECO) em conjunto com o Promotor Natural até 2019 Território Quantidade
+
+0001 - Rio Grande do Norte 20
+
+Total 20
+
+Meta 0184 - Realizar o atendimento por meio do Grupo de Atuação Unidade de Medida Percentual Especial de Combate ao Crime Organizado (GAECO) das solicitações de investigação sobre crime organizado até 2019 Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 0186 - Reduzir o tempo médio de atendimento do Grupo de Atuação Unidade de Medida Percentual Especial de Combate ao Crime Organizado (GAECO) às diligências solicitadas até 2019 Território Quantidade
+
+0001 - Rio Grande do Norte 15
+
+Total 15
+
+Objetivo 0073 - Facilitar e simplificar o acesso da população aos serviços prestados pelo MPRN por meio da ampliação dos canais de comunicação e acesso à informação para uma maior garantia dos direitos do cidadão.
+
+Órgão Responsável 14000 - Procuradoria Geral da Justiça
+
+Meta 0188 - Ampliar o número de atendimentos realizados pela Ouvidoria Unidade de Medida Percentual do Ministério Público Estadual em relação ao ano de 2015 até 2019 Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Objetivo 0075 - Promover a eficiência das atividades administrativas em todo o Estado, por meio da modernização e desburocratização das atividades na área meio e finalística para assegurar maior eficiência e celeridade às ações institucionais.
+
+Órgão Responsável 14000 - Procuradoria Geral da Justiça
+
+Meta 0230 - Implementar o MP Virtual nas Promotorias de Justiça Unidade de Medida Percentual
+
+Território Quantidade
+
+Anexo de Metas e Prioridades - 2016 0001 - Rio Grande do Norte 25
+
+Total 25
+
+Objetivo 0076 - Garantir infraestrutura física e tecnológica adequada, acessível e segura em todas as unidades ministeriais buscando oferecer melhores condições aos integrantes do MPRN e ao cidadão.
+
+Órgão Responsável 14000 - Procuradoria Geral da Justiça
+
+Meta 0216 - Construir unidades ministeriais Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 3
+
+Total 3
+
+Meta 0339 - Implantar controles de segurança nas unidades ministeriais Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Meta 0344 - Atender demandas estratégicas de TI Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 80
+
+Total 80
+
+Meta 0346 - Melhorar o nível de satisfação dos usuários de TI Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 75
+
+Total 75
+
+Objetivo 0077 - Promover o alcance da missão institucional por meio da aplicação de uma política de gestão de pessoas que desenvolva, valorize e retenha o capital humano objetivando proporcionar satisfação e comprometimento.
+
+Órgão Responsável 14000 - Procuradoria Geral da Justiça
+
+Meta 0222 - Nomear cargos efetivos para as vagas criadas até 2019 Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 9
+
+Total 9
+
+Meta 0223 - Reduzir o absenteísmo da instituição em relação ao ano de Unidade de Medida Percentual 2015 Território Quantidade
+
+0001 - Rio Grande do Norte 8
+
+Total 8
+
+Meta 0309 - Aumentar o número de servidores que obtenham no mínimo Unidade de Medida Percentual 70% no Índice de Desenvolvimento do Servidor Território Quantidade
+
+0001 - Rio Grande do Norte 70
+
+Total 70
+
+Meta 0314 - Capacitar os integrantes da instituição Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 70
+
+Total 70
+
+Anexo de Metas e Prioridades - 2016 Programa 0007 - EDUCAÇÃO BÁSICA E PROFISSIONAL
+
+Objetivo 0104 - Expandir e melhorar a infraestrutura física, esportiva e tecnológica das Escolas, Órgão Central, DIRED e DRAE, por meio da Avaliação da Situação Física Escolar, dotando de condições adequadas ao desempenho de suas atribuições afim de proporcionar um ensino de qualidade, sensível às particularidades dos alunos e profissionais, bem como do público que nelas transitam.
+
+Órgão Responsável 18000 - Secretaria de Estado da Educação e da Cultura
+
+Meta 0343 - Construir 03 Centros de Educação Profissional e Tecnológico Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0009 - Açu/Mossoró 1
+
+Total 2
+
+Meta 0347 - Construir 04 escolas estaduais da Educação Básica Unidade de Medida Unidade
+
+Território Quantidade
+
+0004 - Agreste Litoral Sul 1
+
+0011 - Sertão do Apodi 1
+
+Total 2
+
+Meta 0350 - Reformar e ampliar a infraestrutura física das 419 unidades de Unidade de Medida Unidade ensino da rede estadual Território Quantidade
+
+0002 - Terras Potiguaras 15
+
+0003 - Sertão Central, Cabugi e Litoral Norte 12
+
+0004 - Agreste Litoral Sul 10
+
+0005 - Trairi 11
+
+0006 - Potengi 12
+
+0007 - Seridó 10
+
+0008 - Alto Oeste 11
+
+0009 - Açu/Mossoró 11
+
+0010 - Mato Grande 12
+
+0011 - Sertão do Apodi 13
+
+Total 117
+
+Meta 0356 - Construir 195 quadras poliesportivas em escolas estaduais Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 5
+
+0003 - Sertão Central, Cabugi e Litoral Norte 5
+
+0004 - Agreste Litoral Sul 5
+
+0005 - Trairi 5
+
+0006 - Potengi 5
+
+0007 - Seridó 5
+
+0008 - Alto Oeste 5
+
+0009 - Açu/Mossoró 5
+
+0010 - Mato Grande 5
+
+0011 - Sertão do Apodi 5
+
+Total 50
+
+Meta 0357 - Realizar cobertura de 25 quadras poliesportivas em escolas Unidade de Medida Unidade estaduais por ano Território Quantidade
+
+0002 - Terras Potiguaras 3
+
+0003 - Sertão Central, Cabugi e Litoral Norte 2
+
+0004 - Agreste Litoral Sul 3
+
+0005 - Trairi 2
+
+0006 - Potengi 2
+
+Anexo de Metas e Prioridades - 2016 0007 - Seridó 3
+
+0008 - Alto Oeste 3
+
+0009 - Açu/Mossoró 3
+
+0010 - Mato Grande 2
+
+0011 - Sertão do Apodi 2
+
+Total 25
+
+Meta 0359 - Reaparelhar as 639 escolas estaduais, 16 DIRED, 08 DRAE e Unidade de Medida Unidade Órgão Central Território Quantidade
+
+0002 - Terras Potiguaras 163
+
+0003 - Sertão Central, Cabugi e Litoral Norte 28
+
+0004 - Agreste Litoral Sul 81
+
+0005 - Trairi 37
+
+0006 - Potengi 15
+
+0007 - Seridó 77
+
+0008 - Alto Oeste 72
+
+0009 - Açu/Mossoró 97
+
+0010 - Mato Grande 40
+
+0011 - Sertão do Apodi 54
+
+Total 664
+
+Meta 0360 - Ampliar a infraestrutura tecnológica nas 639 escolas Unidade de Medida Unidade estaduais, Órgão Central, 16 DIRED e 08 DRAE Território Quantidade
+
+0002 - Terras Potiguaras 163
+
+0003 - Sertão Central, Cabugi e Litoral Norte 28
+
+0004 - Agreste Litoral Sul 81
+
+0005 - Trairi 37
+
+0006 - Potengi 15
+
+0007 - Seridó 77
+
+0008 - Alto Oeste 72
+
+0009 - Açu/Mossoró 97
+
+0010 - Mato Grande 40
+
+0011 - Sertão do Apodi 54
+
+Total 664
+
+Objetivo 0105 - Expandir e melhorar a qualidade da Educação Básica, Profissional e atendimento educacional especializado, a partir da implantação e implementação de políticas que propiciem a construção e ampliação de saberes e conhecimentos no âmbito do ensino fundamental, médio e profissional, ampliando a matrícula da rede e promovendo a redução dos índices de reprovação, distorção idade/série e analfabetismo. Órgão Responsável 18000 - Secretaria de Estado da Educação e da Cultura
+
+Meta 0362 - Implantar e implementar programas de Formação Continuada Unidade de Medida Unidade e de Valorização do Magistério e Profissionais da Educação das 639 escolas, 16 DIRED, 08 DRAE e Órgão Central Território Quantidade
+
+0002 - Terras Potiguaras 163
+
+0003 - Sertão Central, Cabugi e Litoral Norte 28
+
+0004 - Agreste Litoral Sul 81
+
+0005 - Trairi 37
+
+0006 - Potengi 15
+
+0007 - Seridó 77
+
+0008 - Alto Oeste 72
+
+0009 - Açu/Mossoró 97
+
+0010 - Mato Grande 40
+
+0011 - Sertão do Apodi 54
+
+Total 664
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 0364 - Elevar o acesso, a permanência e o nível de escolarização da Unidade de Medida Unidade Educação Básica, Profissional e atendimento educacional especializado nas 639 escolas estaduais Território Quantidade
+
+0002 - Terras Potiguaras 157
+
+0003 - Sertão Central, Cabugi e Litoral Norte 26
+
+0004 - Agreste Litoral Sul 79
+
+0005 - Trairi 36
+
+0006 - Potengi 14
+
+0007 - Seridó 74
+
+0008 - Alto Oeste 70
+
+0009 - Açu/Mossoró 94
+
+0010 - Mato Grande 37
+
+0011 - Sertão do Apodi 52
+
+Total 639
+
+Meta 0376 - Implantar e implementar a Educação Profissional Técnica de Unidade de Medida Unidade Nível Médio e EJA nos 10 Centros de Educação Profissional e Tecnológica e 38 escolas estaduais Território Quantidade
+
+0002 - Terras Potiguaras 5
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0004 - Agreste Litoral Sul 1
+
+0005 - Trairi 1
+
+0006 - Potengi 1
+
+0007 - Seridó 1
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 3
+
+0010 - Mato Grande 2
+
+0011 - Sertão do Apodi 1
+
+Total 17
+
+Meta 0382 - Implantar e implementar ações pedagógicas, programas e Unidade de Medida Unidade projetos para a Educação Básica, Profissional e atendimento educacional especializado nas 639 escolas estaduais Território Quantidade
+
+0002 - Terras Potiguaras 157
+
+0003 - Sertão Central, Cabugi e Litoral Norte 26
+
+0004 - Agreste Litoral Sul 79
+
+0005 - Trairi 36
+
+0006 - Potengi 14
+
+0007 - Seridó 74
+
+0008 - Alto Oeste 70
+
+0009 - Açu/Mossoró 94
+
+0010 - Mato Grande 37
+
+0011 - Sertão do Apodi 52
+
+Total 639
+
+Meta 0385 - Implantar e fortalecer os Programas de Alimentação Escolar Unidade de Medida Unidade nas 639 escolas estaduais e 8 DRAE Território Quantidade
+
+0002 - Terras Potiguaras 158
+
+0003 - Sertão Central, Cabugi e Litoral Norte 26
+
+0004 - Agreste Litoral Sul 80
+
+0005 - Trairi 37
+
+0006 - Potengi 14
+
+0007 - Seridó 75
+
+0008 - Alto Oeste 71
+
+0009 - Açu/Mossoró 95
+
+Anexo de Metas e Prioridades - 2016 0010 - Mato Grande 38
+
+0011 - Sertão do Apodi 53
+
+Total 647
+
+Meta 0388 - Implantar 184 bibliotecas escolares e comunitárias Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 2
+
+0003 - Sertão Central, Cabugi e Litoral Norte 2
+
+0004 - Agreste Litoral Sul 1
+
+0005 - Trairi 1
+
+0006 - Potengi 1
+
+0007 - Seridó 2
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 2
+
+0010 - Mato Grande 2
+
+0011 - Sertão do Apodi 2
+
+Total 16
+
+Meta 0390 - Oferecer transporte escolar aos alunos das 639 escolas Unidade de Medida Unidade estaduais Território Quantidade
+
+0002 - Terras Potiguaras 157
+
+0003 - Sertão Central, Cabugi e Litoral Norte 26
+
+0004 - Agreste Litoral Sul 79
+
+0005 - Trairi 36
+
+0006 - Potengi 14
+
+0007 - Seridó 74
+
+0008 - Alto Oeste 70
+
+0009 - Açu/Mossoró 94
+
+0010 - Mato Grande 37
+
+0011 - Sertão do Apodi 52
+
+Total 639
+
+Objetivo 0106 - Instituir políticas públicas com pilares a inclusão social, a gestão democrática e a diversidade no processo educativo, com base na humanização, socialização, e a ação sistêmica, para garantir a efetivação do direito a qualidade da educação básica e profissional do RN.
+
+Órgão Responsável 18000 - Secretaria de Estado da Educação e da Cultura
+
+Meta 0392 - Implantar as políticas de Educação Integral em Tempo Integral Unidade de Medida Unidade em 98 escolas estaduais Território Quantidade
+
+0002 - Terras Potiguaras 2
+
+0003 - Sertão Central, Cabugi e Litoral Norte 2
+
+0004 - Agreste Litoral Sul 1
+
+0005 - Trairi 1
+
+0006 - Potengi 1
+
+0007 - Seridó 2
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 2
+
+0010 - Mato Grande 2
+
+0011 - Sertão do Apodi 2
+
+Total 16
+
+Meta 0393 - Implementar o programa de Cooperação entre Estado e Unidade de Medida Unidade Municípios, nos 167 municípios Território Quantidade
+
+0002 - Terras Potiguaras 5
+
+Anexo de Metas e Prioridades - 2016 0003 - Sertão Central, Cabugi e Litoral Norte 11
+
+0004 - Agreste Litoral Sul 24
+
+0005 - Trairi 15
+
+0006 - Potengi 11
+
+0007 - Seridó 25
+
+0008 - Alto Oeste 30
+
+0009 - Açu/Mossoró 14
+
+0010 - Mato Grande 15
+
+0011 - Sertão do Apodi 17
+
+Total 167
+
+Meta 0394 - Ampliar as ações de Multiculturalismo e Diversidade nas 639 Unidade de Medida Unidade escolas estaduais Território Quantidade
+
+0002 - Terras Potiguaras 157
+
+0003 - Sertão Central, Cabugi e Litoral Norte 26
+
+0004 - Agreste Litoral Sul 79
+
+0005 - Trairi 36
+
+0006 - Potengi 14
+
+0007 - Seridó 74
+
+0008 - Alto Oeste 70
+
+0009 - Açu/Mossoró 94
+
+0010 - Mato Grande 37
+
+0011 - Sertão do Apodi 52
+
+Total 639
+
+Meta 0395 - Fortalecer as políticas de Educação em Direitos Humanos nas Unidade de Medida Unidade 639 escolas estaduais do RN Território Quantidade
+
+0002 - Terras Potiguaras 157
+
+0003 - Sertão Central, Cabugi e Litoral Norte 26
+
+0004 - Agreste Litoral Sul 79
+
+0005 - Trairi 36
+
+0006 - Potengi 14
+
+0007 - Seridó 74
+
+0008 - Alto Oeste 70
+
+0009 - Açu/Mossoró 94
+
+0010 - Mato Grande 37
+
+0011 - Sertão do Apodi 52
+
+Total 639
+
+Meta 0396 - Fomentar o Protagonismo Juvenil na Escola nas 639 escolas Unidade de Medida Unidade estaduais Território Quantidade
+
+0002 - Terras Potiguaras 157
+
+0003 - Sertão Central, Cabugi e Litoral Norte 26
+
+0004 - Agreste Litoral Sul 79
+
+0005 - Trairi 36
+
+0006 - Potengi 14
+
+0007 - Seridó 74
+
+0008 - Alto Oeste 70
+
+0009 - Açu/Mossoró 94
+
+0010 - Mato Grande 37
+
+0011 - Sertão do Apodi 52
+
+Total 639
+
+Meta 0397 - Ampliar as ações do Programa Educação e Saúde na Escola Unidade de Medida Unidade nas 639 escolas estaduais Território Quantidade
+
+0002 - Terras Potiguaras 157
+
+Anexo de Metas e Prioridades - 2016 0003 - Sertão Central, Cabugi e Litoral Norte 26
+
+0004 - Agreste Litoral Sul 79
+
+0005 - Trairi 36
+
+0006 - Potengi 14
+
+0007 - Seridó 74
+
+0008 - Alto Oeste 70
+
+0009 - Açu/Mossoró 94
+
+0010 - Mato Grande 37
+
+0011 - Sertão do Apodi 52
+
+Total 639
+
+Meta 0398 - Fortalecer a Gestão Democrática para realização das eleições Unidade de Medida Unidade unificadas dos gestores escolares nas 639 escolas estaduais Território Quantidade
+
+0002 - Terras Potiguaras 157
+
+0003 - Sertão Central, Cabugi e Litoral Norte 26
+
+0004 - Agreste Litoral Sul 79
+
+0005 - Trairi 36
+
+0006 - Potengi 14
+
+0007 - Seridó 74
+
+0008 - Alto Oeste 70
+
+0009 - Açu/Mossoró 94
+
+0010 - Mato Grande 37
+
+0011 - Sertão do Apodi 52
+
+Total 639
+
+Meta 0399 - Fortalecer o funcionamento dos 639 Conselhos Escolares Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 157
+
+0003 - Sertão Central, Cabugi e Litoral Norte 26
+
+0004 - Agreste Litoral Sul 79
+
+0005 - Trairi 36
+
+0006 - Potengi 14
+
+0007 - Seridó 74
+
+0008 - Alto Oeste 70
+
+0009 - Açu/Mossoró 94
+
+0010 - Mato Grande 37
+
+0011 - Sertão do Apodi 52
+
+Total 639
+
+Meta 0400 - Promover a formação continuada dos 2.556 gestores Unidade de Medida Unidade escolares Território Quantidade
+
+0002 - Terras Potiguaras 628
+
+0003 - Sertão Central, Cabugi e Litoral Norte 108
+
+0004 - Agreste Litoral Sul 316
+
+0005 - Trairi 144
+
+0006 - Potengi 56
+
+0007 - Seridó 292
+
+0008 - Alto Oeste 284
+
+0009 - Açu/Mossoró 376
+
+0010 - Mato Grande 144
+
+0011 - Sertão do Apodi 208
+
+Total 2.556
+
+Meta 0401 - Fortalecer o Programa de Educação Ambiental em 32 escolas Unidade de Medida Unidade estaduais Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Anexo de Metas e Prioridades - 2016 0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0006 - Potengi 1
+
+0007 - Seridó 1
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 1
+
+0011 - Sertão do Apodi 1
+
+Total 7
+
+Meta 0402 - Ampliar a oferta de vagas para professores e profissionais da Unidade de Medida Unidade Educação Básica e Profissional nas 639 escolas estaduais Território Quantidade
+
+0002 - Terras Potiguaras 157
+
+0003 - Sertão Central, Cabugi e Litoral Norte 26
+
+0004 - Agreste Litoral Sul 79
+
+0005 - Trairi 36
+
+0006 - Potengi 14
+
+0007 - Seridó 74
+
+0008 - Alto Oeste 70
+
+0009 - Açu/Mossoró 94
+
+0010 - Mato Grande 37
+
+0011 - Sertão do Apodi 52
+
+Total 639
+
+Meta 0403 - Reordenar as 639 escolas de acordo com a demanda Unidade de Medida Unidade existente Território Quantidade
+
+0002 - Terras Potiguaras 157
+
+0003 - Sertão Central, Cabugi e Litoral Norte 26
+
+0004 - Agreste Litoral Sul 79
+
+0005 - Trairi 36
+
+0006 - Potengi 14
+
+0007 - Seridó 74
+
+0008 - Alto Oeste 70
+
+0009 - Açu/Mossoró 94
+
+0010 - Mato Grande 37
+
+0011 - Sertão do Apodi 52
+
+Total 639
+
+Meta 0404 - Implementar Programa de Qualidade de Vida e Saúde no Unidade de Medida Unidade Trabalho para 1.870 professores e profissionais de educação Território Quantidade
+
+0002 - Terras Potiguaras 600
+
+Total 600
+
+Objetivo 0107 - Implantar e implementar práticas de Planejamento Estratégico Integrado das ações de gestão e das ações pedagógicas alinhadas a uma política de avaliação institucional no âmbito dos três níveis de gestão do sistema de educação: Secretaria de Educação (SEEC), Diretoria Regional (DIRED) e unidades escolares da rede estadual de ensino, de modo a impactar na melhoria do ensino-aprendizagem.
+
+Órgão Responsável 18000 - Secretaria de Estado da Educação e da Cultura
+
+Meta 0226 - Desenvolver e executar o Planejamento Estratégico Integrado Unidade de Medida Unidade do Órgão Central e 16 DIRED Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 0228 - Implantar e implementar Sistema de Avaliação Institucional Unidade de Medida Percentual Integrado na rede estadual de ensino Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Anexo de Metas e Prioridades - 2016 Total 50
+
+Meta 0231 - Implantar e implementar Programa de Avaliação da Unidade de Medida Percentual Aprendizagem Escolar na rede estadual de ensino Território Quantidade
+
+0001 - Rio Grande do Norte 80
+
+Total 80
+
+Meta 0234 - Acompanhar e monitorar o desempenho da rede estadual de Unidade de Medida Unidade ensino nas avaliações educacionais estaduais e nacionais nas 639 escolas Território Quantidade
+
+0002 - Terras Potiguaras 157
+
+0003 - Sertão Central, Cabugi e Litoral Norte 26
+
+0004 - Agreste Litoral Sul 79
+
+0005 - Trairi 36
+
+0006 - Potengi 14
+
+0007 - Seridó 74
+
+0008 - Alto Oeste 70
+
+0009 - Açu/Mossoró 94
+
+0010 - Mato Grande 37
+
+0011 - Sertão do Apodi 52
+
+Total 639
+
+Meta 0303 - Implementar Plano de Desenvolvimento da Escola (PDDE Unidade de Medida Unidade Interativo) nas 639 escolas Território Quantidade
+
+0002 - Terras Potiguaras 157
+
+0003 - Sertão Central, Cabugi e Litoral Norte 26
+
+0004 - Agreste Litoral Sul 79
+
+0005 - Trairi 36
+
+0006 - Potengi 14
+
+0007 - Seridó 74
+
+0008 - Alto Oeste 70
+
+0009 - Açu/Mossoró 94
+
+0010 - Mato Grande 37
+
+0011 - Sertão do Apodi 52
+
+Total 639
+
+Meta 0337 - Implementar Projeto Político Pedagógico nas 639 escolas Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 55
+
+0003 - Sertão Central, Cabugi e Litoral Norte 16
+
+0004 - Agreste Litoral Sul 28
+
+0005 - Trairi 20
+
+0006 - Potengi 8
+
+0007 - Seridó 34
+
+0008 - Alto Oeste 27
+
+0009 - Açu/Mossoró 30
+
+0010 - Mato Grande 27
+
+0011 - Sertão do Apodi 27
+
+Total 272
+
+Meta 0340 - Realizar o Censo Escolar da Educação Básica e Profissional Unidade de Medida Unidade nas 3.776 escolas do Estado Território Quantidade
+
+0002 - Terras Potiguaras 852
+
+0003 - Sertão Central, Cabugi e Litoral Norte 149
+
+0004 - Agreste Litoral Sul 485
+
+0005 - Trairi 263
+
+Anexo de Metas e Prioridades - 2016 0006 - Potengi 130
+
+0007 - Seridó 414
+
+0008 - Alto Oeste 381
+
+0009 - Açu/Mossoró 484
+
+0010 - Mato Grande 348
+
+0011 - Sertão do Apodi 270
+
+Total 3.776
+
+Objetivo 0175 - Melhorar o acesso e a qualidade dos serviços da Educação em conformidade com o acordo de empréstimo do Banco Mundial para o Programa RN Sustentável.
+
+Órgão Responsável 19000 - Secretaria de Estado do Planejamento e das Finanças
+
+Meta 0476 - Construir, reformar e/ou equipar unidades de Escolas Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 86
+
+Total 86
+
+Meta 0482 - Alfabetizar jovens e adultos Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 2.500
+
+Total 2.500
+
+Meta 0487 - Implementar subprojetos de Práticas de Inovação Unidade de Medida Unidade Pedagógicas - PIP Território Quantidade
+
+0001 - Rio Grande do Norte 320
+
+Total 320
+
+Anexo de Metas e Prioridades - 2016 Programa 0008 - EDUCAÇÃO SUPERIOR E TECNOLÓGICA
+
+Objetivo 0307 - Fortalecer a política de ensino superior de graduação e pós-graduação, por meio da sua interiorização, do desenvolvimento da pesquisa, da inovação e da internacionalização, da assistência estudantil, da extensão universitária, da avaliação institucional e das ações afirmativas de inclusão, a fim de ampliar o acesso e contribuir com o desenvolvimento socioeconômico do Estado.
+
+Órgão Responsável 18202 - Fundação Universidade do Estado do RN - FUERN
+
+Meta 0908 - Reduzir em até 20% os índices de evasão, retenção e Unidade de Medida Percentual reprovação nos cursos de Graduação da FUERN Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Meta 0913 - Alcançar o conceito 4 do Índice Geral de Cursos – Unidade de Medida Unidade IGC/INEP/MEC até 2019 Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0915 - Assegurar os processos de reconhecimento, renovação de Unidade de Medida Percentual reconhecimento de 100% dos cursos e o recredenciamento da UERN junto ao CEE/RN Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Meta 0936 - Criar 05 cursos de mestrado acadêmico nas diversas áreas Unidade de Medida Unidade de conhecimento, priorizando as temáticas oriundas de demandas regionais Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0938 - Implantar 03 novos cursos de doutorado em programas stricto Unidade de Medida Unidade sensu em fase de consolidação Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0940 - Elevar o conceito de 40% dos programas stricto sensu Unidade de Medida Percentual existentes na UERN, considerando sua sustentabilidade acadêmica Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 0942 - Elaborar e aprovar as resoluções que viabilizarão o adequado Unidade de Medida Unidade funcionamento das ofertas em EaD no âmbito da UERN Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0943 - Participar de 04 mestrados profissionais em rede Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0946 - Criar 4 cursos de capacitação docente - DINTER Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 0948 - Ampliar em 25% os projetos institucionalizados de pesquisa Unidade de Medida Percentual científica e tecnológica Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Meta 0950 - Ampliar em 30% a produção científica e tecnológica qualificada Unidade de Medida Percentual do corpo docente e discente Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Meta 0952 - Ampliar em 20% a quantidade de grupos de pesquisa Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Meta 0953 - Ampliar em 15% a quantidade de bolsas de iniciação científica Unidade de Medida Percentual e tecnológica Território Quantidade
+
+0001 - Rio Grande do Norte 3
+
+Total 3
+
+Meta 0954 - Estruturar a diretoria de apoio à inclusão Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0957 - Estruturar laboratórios e salas de aula para o atendimento Unidade de Medida Unidade especializado aos estudantes com deficiência Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0964 - Elaborar e normatizar a política de extensão para Unidade de Medida Unidade implementação nos Projetos Pedagógicos dos Cursos (PPC’s) Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1223 - Ampliar e fortalecer 100% dos programas de capacitação e Unidade de Medida Percentual consolidação de ações voltadas à saúde e bem estar dos corpos docente e técnico-administrativo Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1233 - Ofertar 10 cursos de especialização nas diversas áreas de Unidade de Medida Unidade conhecimento para atender demandas de capacitação profissional Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 1234 - Capacitar em nível de doutorado 100 servidores docentes e Unidade de Medida Unidade técnicos da UERN Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1235 - Capacitar em nível de mestrado 40 servidores técnicos da Unidade de Medida Unidade UERN Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Anexo de Metas e Prioridades - 2016 Total 10
+
+Objetivo 0308 - Modernizar as práticas de planejamento e de gestão institucional, através da autonomia de gestão financeira, da adoção de novas tecnologias, da qualificação da estrutura física, do fortalecimento da política de gestão de pessoas e da participação democrática dos segmentos institucionais, prezando pela excelência no serviço prestado, pautado na ética e na valorização dos servidores.
+
+Órgão Responsável 18202 - Fundação Universidade do Estado do RN - FUERN
+
+Meta 0708 - Realizar concurso público para docentes e técnicos da FUERN Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0885 - Implantar na FUERN, até 2016, sistema de gestão para Unidade de Medida Unidade resultados com acompanhamento em plataforma eletrônica Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0905 - Institucionalizar 100% das políticas e práticas que favoreçam a Unidade de Medida Percentual sustentabilidade da FUERN Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Objetivo 0058 - Ampliar a qualificação dos profissionais da educação do Estado por meio da melhoria do ensino, pesquisa e extensão, visando a eficiência e também a modernização dos serviços prestados pelo IFESP.
+
+Órgão Responsável 18203 - Instituto de Educação Superior Presidente Kennedy
+
+Meta 0162 - Formar 2.000 professores nos cursos de graduação e Unidade de Medida Unidade pós-graduação Território Quantidade
+
+0001 - Rio Grande do Norte 500
+
+Total 500
+
+Meta 0163 - Fomentar 80 projetos de pesquisa e extensão implementados Unidade de Medida Unidade pelo IFESP Território Quantidade
+
+0001 - Rio Grande do Norte 20
+
+Total 20
+
+Meta 0164 - Aparelhar o Núcleo de Educação a Distância do IFESP Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 0330 - Modernizar a Biblioteca Profª Crisan Siminéa Unidade de Medida Percentual
+
+Território Quantidade
+
+0002 - Terras Potiguaras 40
+
+Total 40
+
+Meta 0332 - Restaurar e conservar o prédio do IFESP Unidade de Medida Percentual
+
+Território Quantidade
+
+0002 - Terras Potiguaras 40
+
+Total 40
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 0334 - Reaparelhar o IFESP Unidade de Medida Percentual
+
+Território Quantidade
+
+0002 - Terras Potiguaras 40
+
+Total 40
+
+Meta 0336 - Ampliar a oferta de cursos no IFESP Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 50
+
+Total 50
+
+Meta 0550 - Construir e implantar o Centro de Documentação e Memória Unidade de Medida Percentual da Escola Normal/Instituto Kennedy Território Quantidade
+
+0002 - Terras Potiguaras 40
+
+Total 40
+
+Meta 0553 - Implantar o Núcleo de EAD com adequação da estrutura física Unidade de Medida Unidade e material para atuação na formação inicial e continuada Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0731 - Garantir a formação continuada dos profissionais da Unidade de Medida Unidade Educação Básica do RN, na modalidade presencial e a distância em parceria com a Secretaria Estadual de Educação Território Quantidade
+
+0001 - Rio Grande do Norte 200
+
+Total 200
+
+Meta 0890 - Interiorizar os cursos ofertados pelo IFESP na modalidade Unidade de Medida Unidade presencial e EAD Território Quantidade
+
+0001 - Rio Grande do Norte 30
+
+Total 30
+
+Meta 0899 - Formar os professores da Educação Básica da Rede Estadual Unidade de Medida Unidade de Ensino do RN para o conhecimento das Diretrizes Nacionais dos Direitos Humanos/2013 Território Quantidade
+
+0001 - Rio Grande do Norte 300
+
+Total 300
+
+Meta 0902 - Implantar o Programa de Sustentabilidade Ambiental e Unidade de Medida Unidade Qualidade de Vida, atendendo os servidores do IFESP Território Quantidade
+
+0002 - Terras Potiguaras 50
+
+Total 50
+
+Anexo de Metas e Prioridades - 2016 Programa 0009 - LOGÍSTICA E TRANSPORTE
+
+Objetivo 0095 - Investir em mobilidade urbana e ações de logística para promover o desenvolvimento econômico, através de execução de obras de mobilidade e de infraestrutura para o avanço das políticas executadas pela Secretaria de Infraestrutura do Estado.
+
+Órgão Responsável 25000 - Secretaria de Estado da Infraestrutura
+
+Meta 0239 - Concluir Obras do Pro-Transporte Unidade de Medida Quilômetro
+
+Território Quantidade
+
+0002 - Terras Potiguaras 8
+
+Total 8
+
+Meta 0240 - Reestruturar as obras de mobilidade na Avenida Engenheiro Unidade de Medida Metro Roberto Freire Território Quantidade
+
+0002 - Terras Potiguaras 2.100
+
+Total 2.100
+
+Meta 0244 - Concluir obras do contorno de Mossoró Unidade de Medida Unidade
+
+Território Quantidade
+
+0009 - Açu/Mossoró 1
+
+Total 1
+
+Meta 0247 - Implantar 10 km de ciclovia na capital do Estado Unidade de Medida Quilômetro
+
+Território Quantidade
+
+0002 - Terras Potiguaras 2
+
+Total 2
+
+Meta 0249 - Conclur as obras sobre a ponte do rio Jacú Unidade de Medida Unidade
+
+Território Quantidade
+
+0005 - Trairi 1
+
+Total 1
+
+Meta 1309 - Elaborar o projeto da terceira ponte sobre o rio Potengi Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Objetivo 0051 - Melhorar as condições de trafegabilidade através da execução de obras de construção, restauração e conservação das rodovias do Estado, oferecendo condições de locomoção mais seguras e eficientes, e contribuindo para uma melhor integração das regiões.
+
+Órgão Responsável 25201 - Departamento de Estradas de Rodagem
+
+Meta 0726 - Construir 145 km de Trechos Rodoviários Unidade de Medida Quilômetro
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+0002 - Terras Potiguaras 8
+
+0004 - Agreste Litoral Sul 5
+
+0006 - Potengi 8
+
+0007 - Seridó 3
+
+0008 - Alto Oeste 7
+
+0009 - Açu/Mossoró 5
+
+0010 - Mato Grande 5
+
+Total 46
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 0742 - Restaurar 704 km de Trechos Rodoviários Unidade de Medida Quilômetro
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+0002 - Terras Potiguaras 8
+
+0003 - Sertão Central, Cabugi e Litoral Norte 15
+
+0004 - Agreste Litoral Sul 17
+
+0006 - Potengi 40
+
+0007 - Seridó 67
+
+0009 - Açu/Mossoró 17
+
+0011 - Sertão do Apodi 35
+
+Total 204
+
+Meta 0746 - Conservar 3.000 km de Rodovias Unidade de Medida Quilômetro
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 750
+
+Total 750
+
+Objetivo 0053 - Melhorar a infraestrutura de apoio ao STIP–Sistema de Transporte Intermunicipal de Passageiros, e propor alternativas operacionais ao seu funcionamento, oferecendo aos usuários do transporte coletivo melhores condições de fluxo e de segurança.
+
+Órgão Responsável 25201 - Departamento de Estradas de Rodagem
+
+Meta 0601 - Construir 02 terminais rodoviários de passageiros Unidade de Medida Unidade
+
+Território Quantidade
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+Total 1
+
+Meta 0608 - Reformar 05 terminais rodoviários de passageiros Unidade de Medida Unidade
+
+Território Quantidade
+
+0010 - Mato Grande 1
+
+Total 1
+
+Meta 0616 - Modernizar 04 terminais rodoviários de passageiros Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0054 - Dotar o Estado de uma melhor infraestrutura aeroportuária, com a reforma e modernização dos aeroportos e aeródromos existentes, buscando promover o aumento do fluxo de passageiros, e consequentemente, o desenvolvimento econômico e turístico da região.
+
+Órgão Responsável 25201 - Departamento de Estradas de Rodagem
+
+Meta 0635 - Reformar de 01 aeroporto Unidade de Medida Unidade
+
+Território Quantidade
+
+0009 - Açu/Mossoró 1
+
+Total 1
+
+Meta 0638 - Modernizar 04 aeroportos e aeródromos em operação Unidade de Medida Unidade
+
+Território Quantidade
+
+0009 - Açu/Mossoró 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 1285 - Elaborar plano para reestruturação dos 04 aeródromos de Unidade de Medida Unidade Assu, Jardim do Seridó, Martins e Jardim de Angicos Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0056 - Modernizar e informatizar os diversos setores do DER/RN com reestruturação operacional visando uma melhor automatização de seus serviços,bem como, promover a capacitação dos funcionários buscando um desenvolvimento mais eficiente das atividades exercidas.
+
+Órgão Responsável 25201 - Departamento de Estradas de Rodagem
+
+Meta 0687 - Adquirir equipamentos e materiais permanentes visando Unidade de Medida Unidade equipar os diversos setores do DER/RN Território Quantidade
+
+0001 - Rio Grande do Norte 20
+
+Total 20
+
+Meta 0689 - Modernizar do Departamento de Estradas de Rodagem do RN Unidade de Medida Unidade - DER/RN através do desenvolvimento dos recursos tecnológicos Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0693 - Capacitar os funcionários do DER/RN Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Anexo de Metas e Prioridades - 2016 Programa 0010 - DESENVOLVIMENTO ENERGÉTICO E MINERAL
+
+Objetivo 0087 - Estabelecer as bases de uma politíca energética para o Estado do Rio Grande do Norte através da realização de ações, em particular com relação às energias alternativas e renováveis (eólica e solar), visando o entendimento da situação da política de desenvolvimento energético.
+
+Órgão Responsável 20000 - Secretaria de Estado do Desenvolvimento Econômico
+
+Meta 0217 - Elaborar e atualizar o Atlas de energia eólica e solar Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Objetivo 0126 - Estabelecer políticas e ações para o desenvolvimento geológico e mineral do Rio Grande do Norte por meio da elaboração de diagnósticos, visando um melhor entendimento da situação do Estado.
+
+Órgão Responsável 20000 - Secretaria de Estado do Desenvolvimento Econômico
+
+Meta 0286 - Realizar diagnostico do Setor Mineral do RN Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0297 - Atualizar o Mapa Geológico do Estado do RN Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0585 - Fortalecer o núcleo de artesanato mineral Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0024 - Construir, manter, melhorar e expandir a rede de gasodutos de gás natural com segurança para atendimento às demandas da população.
+
+Órgão Responsável 20202 - Companhia Potiguar de Gás
+
+Meta 0052 - Construir novos gasodutos Unidade de Medida Quilômetro
+
+Território Quantidade
+
+0002 - Terras Potiguaras 17
+
+0009 - Açu/Mossoró 2
+
+Total 19
+
+Meta 0053 - Interligar novos clientes dos segmentos veicular, industrial Unidade de Medida Unidade residencial e comercial Território Quantidade
+
+0002 - Terras Potiguaras 3.000
+
+0009 - Açu/Mossoró 500
+
+Total 3.500
+
+Anexo de Metas e Prioridades - 2016
+
+Objetivo 0180 - Garantir à população a prestação de serviços de qualidade por meio do controle, regulação e fiscalização dos serviços de distribuição de energia elétrica, eólica, gas canalizado e água pelas concessionárias, permissionárias e autorizadas, com foco nas Normas Legais vigentes, e por meio da readequação das instalações e do pessoal da ARSEP, visando à oferta apropriada desses serviços.
+
+Órgão Responsável 25204 - Agência Reguladora de Serviços Públicos
+
+Meta 0572 - Realizar fiscalizações técnicas, comerciais e financeiras na Unidade de Medida Unidade COSERN e em parques eólicos previstos nos contratos de metas vigentes durante o período de 2016 a 2019 Território Quantidade
+
+0002 - Terras Potiguaras 8
+
+0003 - Sertão Central, Cabugi e Litoral Norte 8
+
+0004 - Agreste Litoral Sul 8
+
+0005 - Trairi 8
+
+0007 - Seridó 8
+
+0009 - Açu/Mossoró 8
+
+0010 - Mato Grande 8
+
+Total 56
+
+Meta 0696 - Atender os Municipios do RN no que se refere à regulação, Unidade de Medida Unidade fiscalização e distribuição de água Território Quantidade
+
+0001 - Rio Grande do Norte 20
+
+Total 20
+
+Meta 1305 - Realizar estudos sobre tarifas de gás canalizado aplicadas Unidade de Medida Unidade aos consumidores Território Quantidade
+
+0001 - Rio Grande do Norte 4
+
+Total 4
+
+Objetivo 0306 - Orientar a população quanto ao consumo sustentável de energia elétrica, eólica e de água por meio de campanhas educativas visando à maior conscientização quanto ao uso adequado desses serviços.
+
+Órgão Responsável 25204 - Agência Reguladora de Serviços Públicos
+
+Meta 1306 - Realizar campanhas educativas Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Anexo de Metas e Prioridades - 2016 Programa 0011 - CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+
+Objetivo 0247 - Atender demandas da agropecuária, aquicultura, meteorologia e meio ambiente, por meio de pesquisas em CT e da produção de insumos agropecuários voltados aos produtores rurais, visando à inovação nos processos, produtos e sistemas de produção agropecuários e aquícolas, a transferência de conhecimento e tecnologias, assim com a redução de impactos climatológicos e melhoria do meio ambiente. Órgão Responsável 17203 - Empresa de Pesquisa Agropecuária
+
+Meta 0033 - Produzir mudas de bananeira, cajueiro e coco nas estações Unidade de Medida Tonelada experimentais da EMPARN Território Quantidade
+
+0009 - Açu/Mossoró 245
+
+0011 - Sertão do Apodi 30
+
+Total 275
+
+Meta 0128 - Produzir 1.250 toneladas de sementes certificadas de feijão, Unidade de Medida Tonelada sorgo e milho nas estações experimentais da EMPARN Território Quantidade
+
+0009 - Açu/Mossoró 245
+
+0011 - Sertão do Apodi 30
+
+Total 275
+
+Meta 0160 - Produzir 800.000 pintos de um dia de galinha caipira Unidade de Medida Unidade
+
+Território Quantidade
+
+0007 - Seridó 200.000
+
+Total 200.000
+
+Meta 0161 - Efetuar 22.000 análise de água, solo, planta, calcário e Unidade de Medida Unidade bacteriológica Território Quantidade
+
+0002 - Terras Potiguaras 5.500
+
+Total 5.500
+
+Meta 0168 - Disponibilizar aos produtores rurais rebanho bovino, ovinos e Unidade de Medida Unidade caprinos Território Quantidade
+
+0001 - Rio Grande do Norte 1.000
+
+Total 1.000
+
+Meta 0644 - Produzir sementes de caju e de coco e de outros produtos Unidade de Medida Unidade para disponibilizar aos produtores rurais Território Quantidade
+
+0001 - Rio Grande do Norte 67.000
+
+Total 67.000
+
+Meta 0668 - Promover e participar de eventos e feiras agropecuárias Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 44
+
+0002 - Terras Potiguaras 1
+
+0003 - Sertão Central, Cabugi e Litoral Norte 2
+
+0007 - Seridó 2
+
+0012 - Vale do Assu 2
+
+Total 51
+
+Meta 0711 - Desenvolver pesquisas com sementes, plantas frutiferas e Unidade de Medida Unidade plantas forrageiras Território Quantidade
+
+0001 - Rio Grande do Norte 4
+
+Total 4
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 0718 - Desenvolver pesquisas com camarão, peixes e algas Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0732 - Desenvolver pesquisas em meteorologia e meio ambiente Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 0739 - Desenvolver pesquisas voltadas à pecuária Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 4
+
+Total 4
+
+Objetivo 0173 - Promover o conhecimento em ciência e tecnologia para o crescimento e desenvolvimento do Rio Grande do Norte por meio do Parque Tecnológico.
+
+Órgão Responsável 20000 - Secretaria de Estado do Desenvolvimento Econômico
+
+Meta 0456 - Construir o Parque Tecnológico e seus núcleos Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0263 - Institucionalizar uma política pública para o RN por meio do apoio à diferentes instituições de ensino, pesquisa e fomento, visando à contribuição e o melhor aproveitamento das competências e capacidades técnicas existentes.
+
+Órgão Responsável 20000 - Secretaria de Estado do Desenvolvimento Econômico
+
+Meta 0851 - Fortalecer o Fórum das APLs Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0200 - Apoiar e fomentar os programas ou os projetos de pesquisa realizados em instituições públicas ou privadas; a criação, a complementação e a modernização da infra-estrutura necessária ao desenvolvimento científico e tecnológico; a concessão de bolsas de estudos e de pesquisa no País e no exterior; transmissão de informações, vinculados ao desenvolvimento do conhecimento
+
+Órgão Responsável 20207 - Fundação de Apoio à Pesquisa do Rio Grande do Norte
+
+Meta 1340 - Intensificar e reforçar a Rede Estadual de banda larga e a Unidade de Medida Percentual conexão/expansão das cidades digitais (Programas Estaduais para Cidades Digitais, Telecentros, etc.), nos territótios Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1341 - Elaborar o plano de implementação do parque tecnológico do Unidade de Medida Percentual RN Território Quantidade
+
+0002 - Terras Potiguaras 50
+
+Total 50
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 1342 - Fomentar a criação de novos produtos e serviços no RN Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1344 - Apoiar novas empresas, gerando pelo menos 10% de postos Unidade de Medida Percentual de trabalho nas atividades apoiadas, contribuindo com a ampliação da arrecadação de impostos proporcional empregabilidade Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1346 - Prospectar parcerias nacionais e internacionais, com intuito de Unidade de Medida Percentual promover a transferência de conhecimento e implementação de inovação no RN Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1347 - Organizar e implementar mecanismos de difusão das ações Unidade de Medida Percentual de Ciência, Tecnologia e Inovação no RN Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1351 - Implementar programas de pesquisas, em parcerias com Unidade de Medida Percentual Instituições de Ensino Superior, para desenvolvimento regional do Estado Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Objetivo 0089 - Dotar o Estado de novas alternativas para o suprimento de demanda hídrica por meio de novas tecnologias de forma a diminuir o deficit hídrico
+
+Órgão Responsável 27000 - Sec de Estado do Meio Ambiente e dos Recursos Hídricos
+
+Meta 0207 - Desenvolver estudos para análise da viabilidade da utilização Unidade de Medida Unidade da água do mar e de águas servidas, bem como de energias renováveis (eólicas) Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Anexo de Metas e Prioridades - 2016 Programa 0012 - DESENVOLVIMENTO SUSTENTÁVEL DA AGROPECUÁRIA
+
+Objetivo 0218 - Apoiar o desenvolvimento da cadeia produtiva da pecuária por meio de novas tecnologias, na busca por melhoramento genético dos rebanhos e eficiência produtiva, agregando valor aos produtos ofertados com sustentabilidade e mitigação dos possíveis riscos ambientais.
+
+Órgão Responsável 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0795 - Implementar Laboratório Móvel de Sanidade e Reprodução Unidade de Medida Unidade Animal. Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0219 - Qualificar os instrumentos de financiamento, fomento, proteção da produção, garantia de preços e da renda como estratégia de inclusão produtiva e ampliação da renda da agricultura familiar, com a geração de alimentos, bioenergia, produtos e serviços que possibilite a sustentabilidade ambiental nos territórios.
+
+Órgão Responsável 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0801 - Apoiar estudos de criação e ampliação das agroindústrias Unidade de Medida Unidade familiares das comunidades rural e sua manutenção, respeitando a dinâmica cultural e divisão do trabalho de cada povo Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0803 - Adquirir e distribuir sementes de qualidade de feijão, milho e Unidade de Medida Tonelada arroz para subsistência e de sorgo para forragem animal, a 35mil agricultores familiares cadastrados nos 1.156 Bancos de Sementes Território Quantidade
+
+0001 - Rio Grande do Norte 2.000
+
+Total 2.000
+
+Meta 0812 - Garantir a cota de R$ 102,00 na participação do Estado no Unidade de Medida Unidade fundo garantia-safra em favor de 65mil beneficiários do programa Território Quantidade
+
+0001 - Rio Grande do Norte 65.000
+
+Total 65.000
+
+Objetivo 0222 - Fortalecer a infraestrutura e os serviços de apoio ao desenvolvimento do meio rural, através de um conjunto de ações implementadas em parceria com entes públicos e privados, visando ao desenvolvimento das atividades da agropecuária.
+
+Órgão Responsável 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0818 - Proporcionar a realização e participação de 56 eventos/feiras Unidade de Medida Unidade agropecuários no Estado do Rio Grande do Norte, no período do PPA Território Quantidade
+
+0001 - Rio Grande do Norte 56
+
+Total 56
+
+Meta 0820 - Construir barragem para captação de água Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 17
+
+Total 17
+
+Meta 0822 - Projetar, construir e recuperar cisternas de placas para Unidade de Medida Unidade armazenamento de água nas comunidades rurais
+
+Anexo de Metas e Prioridades - 2016 Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Objetivo 0223 - Assegurar a proteção da agropecuária rural, tornando-a estável com a implementação de infraestrutura hídrica em regiões atingidas pela seca, emergencialmente em propriedades de agricultura familiar, a fim de reduzir o êxodo rural, constituindo-se, inclusive, em dotação específica para transferência de recursos a instituições privadas sem fins lucrativos.
+
+Órgão Responsável 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0826 - Instalar poços perfurados e não instalados e dessalinizadores Unidade de Medida Unidade em comunidades rurais em emergência de abastecimento de água Território Quantidade
+
+0001 - Rio Grande do Norte 72
+
+Total 72
+
+Meta 0829 - Adquirir e distribuir forragem/volumosos/leguminosas para Unidade de Medida Tonelada consumo animal, em situação emergencial por estiagem prolongada Território Quantidade
+
+0001 - Rio Grande do Norte 7
+
+Total 7
+
+Objetivo 0224 - Aumentar a produção de organismos aquáticos de forma sustentável, através da implantação de parques aquícolas, da regularização fundiária e ambiental, da realização de pesquisas e assistência técnica e da modernização de infraestruturas produtivas, com foco no potencial aquícola do Rio Grande do Norte
+
+Órgão Responsável 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0832 - Qualificar técnicos extensionistas em pesca e aquicultura Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 12
+
+Total 12
+
+Objetivo 0225 - Implementar infraestruturas de recepção, distribuição e comercialização do pescado, para promover a agregação de valor e a qualidade dos produtos aquícolas e pesqueiros, visando o desenvolvimento da piscicultura e aquicultura do Rio Grande do Norte.
+
+Órgão Responsável 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0854 - Produzir 26 milhões de alevinos para Aquicultura e peixamento Unidade de Medida Unidade de açudes Território Quantidade
+
+0001 - Rio Grande do Norte 10.000.000
+
+Total 10.000.000
+
+Meta 0857 - Recuperar núcleos pesqueiros de Baia Formosa, Unidade de Medida Unidade Maxaranguape, Caiçara do Norte, Macau, São Rafael e Jucurutu Território Quantidade
+
+0001 - Rio Grande do Norte 3
+
+Total 3
+
+Meta 0859 - Adquirir e instalar equipamentos de apoio à conservação do Unidade de Medida Unidade pescado em Colônias Território Quantidade
+
+0001 - Rio Grande do Norte 26
+
+Total 26
+
+Meta 0861 - Apoiar a Implantação dos equipamentos do laboratório de Unidade de Medida Unidade histamina da UFRN
+
+Anexo de Metas e Prioridades - 2016 Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 0862 - Implantar seis parques ou faixas aquicolas nos reservatórios Unidade de Medida Unidade de domínio do Estado do RN Território Quantidade
+
+0001 - Rio Grande do Norte 6
+
+Total 6
+
+Meta 0864 - Concluir e adequar o terminal pesqueiro público de Natal Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Objetivo 0226 - Promover a inclusão social, o acesso à cidadania e qualificação profissional por meio de cursos profissionalizantes e qualificações, com vistas à melhoria da qualidade de vida dos trabalhadores e trabalhadoras da pesca e aquicultura.
+
+Órgão Responsável 17000 - Secretaria de Estado da Agricultura, da Pecuária e da Pesca
+
+Meta 0865 - Qualificar 870 pescadores nas praticas de uso do GPS, cortes Unidade de Medida Unidade de velas e manutenção de pequenos motores marítimos Território Quantidade
+
+0001 - Rio Grande do Norte 870
+
+Total 870
+
+Meta 0867 - Desenvolver projetos de reordenamento dos polos de Unidade de Medida Unidade produção com assessoria para inserção do pescado no mercado institucional Território Quantidade
+
+0001 - Rio Grande do Norte 150
+
+Total 150
+
+Objetivo 0139 - Fortalecer a agricultura familiar por meio de ações de Assistência Técnica e Extensão Rural pública continuada, para agricultores e agricultoras e jovens agricultores, utilizando metodologia participativa e valorizando o conhecimento territorial para ampliar a geração de oportunidades e garantia de renda e diversificação da produção agrícola e não agrícola com base nos princípios da agroecologia.
+
+Órgão Responsável 17202 - Instituto de Assistência Técnica e Extensão Rural
+
+Meta 0452 - Prestar serviços de Assistência Técnica e Extensão Rural - Unidade de Medida Unidade ATER aos agricultores familiares capacitando e organizando-os em suas cadeias de produção agropecuária Território Quantidade
+
+0002 - Terras Potiguaras 73
+
+0003 - Sertão Central, Cabugi e Litoral Norte 198
+
+0004 - Agreste Litoral Sul 356
+
+0005 - Trairi 524
+
+0006 - Potengi 431
+
+0007 - Seridó 903
+
+0008 - Alto Oeste 921
+
+0009 - Açu/Mossoró 753
+
+0010 - Mato Grande 807
+
+0011 - Sertão do Apodi 741
+
+Total 5.707
+
+Meta 1148 - Prestar serviços de Assistência Técnica e Extensão Rural - Unidade de Medida Unidade ATER aos jovens agricultores familiares capacitando e organizando-os em suas cadeias de produção agropecuária
+
+Anexo de Metas e Prioridades - 2016 Território Quantidade
+
+0002 - Terras Potiguaras 36
+
+0003 - Sertão Central, Cabugi e Litoral Norte 99
+
+0004 - Agreste Litoral Sul 178
+
+0005 - Trairi 262
+
+0006 - Potengi 215
+
+0007 - Seridó 452
+
+0008 - Alto Oeste 461
+
+0009 - Açu/Mossoró 377
+
+0010 - Mato Grande 404
+
+0011 - Sertão do Apodi 371
+
+Total 2.855
+
+Meta 1149 - Prestar serviços de Assistência Técnica e Extensão Rural - Unidade de Medida Unidade ATER as agricultoras familiares capacitando e organizando-as em suas cadeias de produção agropecuária Território Quantidade
+
+0002 - Terras Potiguaras 73
+
+0003 - Sertão Central, Cabugi e Litoral Norte 198
+
+0004 - Agreste Litoral Sul 356
+
+0005 - Trairi 524
+
+0006 - Potengi 431
+
+0007 - Seridó 903
+
+0008 - Alto Oeste 921
+
+0009 - Açu/Mossoró 753
+
+0010 - Mato Grande 807
+
+0011 - Sertão do Apodi 741
+
+Total 5.707
+
+Meta 1150 - Adequar e equipar escritórios municipais de Assistência Unidade de Medida Unidade Técnica e Extensão Rural - ATER para atendimento ao produtor rural Território Quantidade
+
+0001 - Rio Grande do Norte 17
+
+Total 17
+
+Meta 1151 - Capacitar servidores em atividade na instituição Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 180
+
+Total 180
+
+Objetivo 0015 - Estruturar as instalações físicas da EMPARN e supri-la de meios de transporte, equipamentos e máquinas, visando adequar sua estrutura ao desenvolvimento das atividades de pesquisas, produção e prestação de serviços.
+
+Órgão Responsável 17203 - Empresa de Pesquisa Agropecuária
+
+Meta 0034 - Beneficiar 8 estacoes experimentais da EMPARN com Unidade de Medida Tonelada estrutura predial, de maquinas e equipamentos; implantar e acompanhar 50 unidades de palma, sendo 22 produtivas, 12 vinculadas ao IDIARN e 16 multiplicadoras de sementes Território Quantidade
+
+0009 - Açu/Mossoró 200
+
+0011 - Sertão do Apodi 75
+
+Total 275
+
+Anexo de Metas e Prioridades - 2016
+
+Objetivo 0005 - Promover o abastecimento de hortifrutigranjeiros e outros produtos, ofertando aos usuários infraestrutura e serviços de qualidade, visando contribuir com a sociedade potiguar no desenvolvimento agrícola, na integração produtor-consumidor e na segurança alimentar.
+
+Órgão Responsável 17205 - Central de Abastecimento
+
+Meta 0014 - Atingir o Índice de Satisfação Anual - ISA de 80% entre os Unidade de Medida Percentual permissionários, clientes e servidores, com relação ao atendimento em infraestrutura e serviços Território Quantidade
+
+0001 - Rio Grande do Norte 80
+
+Total 80
+
+Meta 0035 - Operacionalizar o funcionamento da Central de Unidade de Medida Unidade Comercialização da Agricultura Familiar, viabilizando a transição para a auto-gestão da AF até 2018 Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 0036 - Manter imagem positiva da CEASA nas coberturas midiáticas Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 70
+
+Total 70
+
+Meta 0051 - Realizar o controle e monitoramento dos agrotóxicos nos Unidade de Medida Unidade hortifruti comercializados na CEASA Território Quantidade
+
+0001 - Rio Grande do Norte 48
+
+Total 48
+
+Objetivo 0206 - Executar e manter a defesa e inspeção agropecuária mediante ações inerentes à sanidade vegetal e animal, assegurando a oferta de produtos de qualidade, contribuindo para a preservação da saúde pública, do meio ambiente e o aumento da competitividade dos produtos de origem animal e vegetal do Estado do RN.
+
+Órgão Responsável 17206 - Instituto de Defesa e Inspeção Agropecuária do Estado do RN
+
+Meta 0648 - Reestruturar as instalações físicas do Instituto, das ULSAVS e Unidade de Medida Unidade das barreiras fitossanitárias Território Quantidade
+
+0002 - Terras Potiguaras 2
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0004 - Agreste Litoral Sul 1
+
+0005 - Trairi 1
+
+0006 - Potengi 1
+
+0007 - Seridó 2
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 2
+
+0010 - Mato Grande 1
+
+0011 - Sertão do Apodi 1
+
+Total 13
+
+Meta 0653 - Promover cursos de educação sanitária Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 24
+
+0003 - Sertão Central, Cabugi e Litoral Norte 12
+
+0004 - Agreste Litoral Sul 12
+
+Anexo de Metas e Prioridades - 2016 0005 - Trairi 12
+
+0006 - Potengi 12
+
+0007 - Seridó 24
+
+0008 - Alto Oeste 12
+
+0009 - Açu/Mossoró 24
+
+0010 - Mato Grande 12
+
+0011 - Sertão do Apodi 12
+
+Total 156
+
+Meta 0665 - Realizar visitas de fiscalização para a prevenção, controle e Unidade de Medida Unidade erradicação das doenças dos animais Território Quantidade
+
+0002 - Terras Potiguaras 200
+
+0003 - Sertão Central, Cabugi e Litoral Norte 240
+
+0004 - Agreste Litoral Sul 240
+
+0005 - Trairi 240
+
+0006 - Potengi 240
+
+0007 - Seridó 480
+
+0008 - Alto Oeste 240
+
+0009 - Açu/Mossoró 480
+
+0010 - Mato Grande 240
+
+0011 - Sertão do Apodi 240
+
+Total 2.840
+
+Meta 0670 - Realizar visitas de fiscalização para a prevenção, controle e Unidade de Medida Unidade erradicação das doenças dos vegetais Território Quantidade
+
+0002 - Terras Potiguaras 480
+
+0003 - Sertão Central, Cabugi e Litoral Norte 240
+
+0004 - Agreste Litoral Sul 240
+
+0005 - Trairi 240
+
+0006 - Potengi 240
+
+0007 - Seridó 480
+
+0008 - Alto Oeste 240
+
+0009 - Açu/Mossoró 480
+
+0010 - Mato Grande 240
+
+0011 - Sertão do Apodi 240
+
+Total 3.120
+
+Meta 0680 - Fiscalizar e registrar estabelecimentos que comercializam Unidade de Medida Unidade produtos de origem animal e vegetal Território Quantidade
+
+0002 - Terras Potiguaras 80
+
+0003 - Sertão Central, Cabugi e Litoral Norte 40
+
+0004 - Agreste Litoral Sul 40
+
+0005 - Trairi 40
+
+0006 - Potengi 40
+
+0007 - Seridó 80
+
+0008 - Alto Oeste 40
+
+0009 - Açu/Mossoró 80
+
+0010 - Mato Grande 40
+
+0011 - Sertão do Apodi 40
+
+Total 520
+
+Meta 0688 - Realizar cadastro de propriedades rurais Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 500
+
+0003 - Sertão Central, Cabugi e Litoral Norte 250
+
+0004 - Agreste Litoral Sul 250
+
+Anexo de Metas e Prioridades - 2016 0005 - Trairi 250
+
+0006 - Potengi 250
+
+0007 - Seridó 500
+
+0008 - Alto Oeste 250
+
+0009 - Açu/Mossoró 500
+
+0010 - Mato Grande 250
+
+0011 - Sertão do Apodi 250
+
+Total 3.250
+
+Meta 0694 - Realizar fiscalização para defesa agropecuária Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1.500
+
+0003 - Sertão Central, Cabugi e Litoral Norte 750
+
+0004 - Agreste Litoral Sul 750
+
+0005 - Trairi 750
+
+0006 - Potengi 750
+
+0007 - Seridó 1.500
+
+0008 - Alto Oeste 750
+
+0009 - Açu/Mossoró 1.500
+
+0010 - Mato Grande 750
+
+0011 - Sertão do Apodi 750
+
+Total 9.750
+
+Anexo de Metas e Prioridades - 2016 Programa 0013 - APOIO AO DESENVOLVIMENTO ECONÔMICO INDUSTRIAL
+
+Objetivo 0203 - Incentivar a manutenção e expansão de empresas existentes no Estado, bem como atrair novos investimentos e ampliar a geração de empregos, por meio da expansão de programas específicos de incentivo ao desenvolvimento industrial e esforços contínuos de divulgação e publicidade sobre os potenciais e diferenciais de nossa economia.
+
+Órgão Responsável 20000 - Secretaria de Estado do Desenvolvimento Econômico
+
+Meta 0603 - Ampliar a geração de empregos por meio de empresas Unidade de Medida Unidade beneficiárias do PROADI Território Quantidade
+
+0001 - Rio Grande do Norte 120
+
+Total 120
+
+Meta 0662 - Ampliar a geração de empregos por meio de empresas Unidade de Medida Unidade beneficiárias do PROGAS Território Quantidade
+
+0001 - Rio Grande do Norte 20
+
+Total 20
+
+Meta 0671 - Promover as potencialidades de investimentos (eventos) Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 15
+
+Total 15
+
+Objetivo 0233 - Promover a desconcentração do desenvolvimento socioeconômico e da geração de empregos através da ampliação de ofertas de áreas industriais e infraestrutura correlata no interior do Estado, aproveitando as potencialidades regionais e de novos investimentos em infraestrutura necessária para fomento à instalação de empresas.
+
+Órgão Responsável 20000 - Secretaria de Estado do Desenvolvimento Econômico
+
+Meta 0692 - Construir galpões industriais para fomento da economia local Unidade de Medida Unidade em diversos municípios, com pelo menos 1 em cada região do Estado Território Quantidade
+
+0007 - Seridó 1
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 1
+
+0011 - Sertão do Apodi 1
+
+Total 4
+
+Meta 0697 - Implantar nova área industrial estadual fora da região Unidade de Medida Unidade metropolitana de Natal Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0705 - Implantar novos parques industriais em entendimento com Unidade de Medida Unidade municípios para sua realização, abrangendo todas as regiões do Estado Território Quantidade
+
+0005 - Trairi 1
+
+0007 - Seridó 1
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 1
+
+Total 4
+
+Meta 0706 - Ampliar a infraestrutura das áreas industriais já existentes no Unidade de Medida Percentual Estado Território Quantidade
+
+Anexo de Metas e Prioridades - 2016 0001 - Rio Grande do Norte 23
+
+Total 23
+
+Objetivo 0309 - Promover a cadeia produtiva têxtil e de confecções no Rio Grande do Norte por meio da construção do Centro Tecnológico Têxtil e do apoio às empresas do setor, visando ao desenvolvimento do setor têxtil estadual.
+
+Órgão Responsável 20000 - Secretaria de Estado do Desenvolvimento Econômico
+
+Meta 0246 - Construir o Centro Tecnológico Têxtil Unidade de Medida Unidade
+
+Território Quantidade
+
+0007 - Seridó 1
+
+Total 1
+
+Meta 0592 - Ampliar a produção das empresas de confecções do Estado Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 80
+
+Total 80
+
+Anexo de Metas e Prioridades - 2016 Programa 0014 - DESENVOLVIMENTO SUSTENTÁVEL DA PESCA E AQUICULTURA
+
+Objetivo 0141 - Melhorar as atividades produtivas da pesca e da aquicultura, através do fortalecimento da Assistência Técnica e Extensão Rural aos pescadores e aquicultores familiares, visando a promoção da sustentabilidade da atividade bem como o aumento da produtividade desses alimentos.
+
+Órgão Responsável 17202 - Instituto de Assistência Técnica e Extensão Rural
+
+Meta 0503 - Prestar serviços de Assistência Técnica e Extensão Rural - Unidade de Medida Unidade ATER em ações educativas e de capacitação de Pescadores e/ou Aquicultores assistidos pelo PRONAF Território Quantidade
+
+0002 - Terras Potiguaras 33
+
+0003 - Sertão Central, Cabugi e Litoral Norte 30
+
+0004 - Agreste Litoral Sul 30
+
+0005 - Trairi 7
+
+0007 - Seridó 23
+
+0008 - Alto Oeste 15
+
+0009 - Açu/Mossoró 60
+
+0010 - Mato Grande 33
+
+0011 - Sertão do Apodi 10
+
+Total 241
+
+Anexo de Metas e Prioridades - 2016 Programa 0015 - TURISMO
+
+Objetivo 0099 - Apoiar a infraestrutura turística através da execução de obras visando promover o turismo regional e de negócios do Estado.
+
+Órgão Responsável 25000 - Secretaria de Estado da Infraestrutura
+
+Meta 0277 - Ampliar o centro de convenção de Natal Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Objetivo 0074 - Desenvolver o turismo do Rio Grande do Norte, através da melhoria na infraestrutura turística, da elaboração e estruturação de roteiros, produtos e destinos turísticos, de forma sustentável realizando ações que respeitem o Meio-Ambiente e o turismo de base local, visando a consolidação da regionalização do turismo de forma sustentável.
+
+Órgão Responsável 28000 - Secretaria de Estado do Turismo
+
+Meta 0176 - Elaborar roteiros turísticos segmentados Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0177 - Elaborar os planos dos principais destinos turísticos do Unidade de Medida Unidade estado Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0004 - Agreste Litoral Sul 1
+
+Total 2
+
+Meta 0180 - Realizar eventos do projeto Cidade Viva nos municípios Unidade de Medida Unidade turísticos Território Quantidade
+
+0002 - Terras Potiguaras 48
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0007 - Seridó 1
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 1
+
+Total 52
+
+Meta 0183 - Melhorar a infraestrutura do patrimônio histórico e cultural Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 3
+
+Total 3
+
+Meta 0185 - Melhorar e implantar a infraestrutura nos principais destinos Unidade de Medida Unidade turísticos Território Quantidade
+
+0001 - Rio Grande do Norte 3
+
+Total 3
+
+Meta 0187 - Desenvolver ações de incentivo ao turismo sustentável Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016
+
+Objetivo 0081 - Apoiar a promoção, a realização e participação da SETUR em eventos turísticos e ações que fortalecem programas estaduais, nacionais e as instâncias de governança, para incremento do fluxo turístico, gerando emprego e renda, para melhoria da qualidade de vida da população do estado.
+
+Órgão Responsável 28000 - Secretaria de Estado do Turismo
+
+Meta 0190 - Apoiar e participar de eventos turísticos Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 0191 - Realizar e participar de reuniões dos conselhos dos polos Unidade de Medida Unidade turísticos Território Quantidade
+
+0002 - Terras Potiguaras 12
+
+0005 - Trairi 4
+
+0007 - Seridó 4
+
+0008 - Alto Oeste 4
+
+0009 - Açu/Mossoró 4
+
+Total 28
+
+Meta 0192 - Apoiar e participar de programas estaduais e nacionais de Unidade de Medida Unidade artesanato e de inclusão social do público da maior idade Território Quantidade
+
+0001 - Rio Grande do Norte 7
+
+Total 7
+
+Objetivo 0084 - Promover a qualificação dos serviços e produtos turísticos, através do fortalecimento do sistema CADASTUR, da capacitação e credenciamento de profissionais e da elaboração de estudos e pesquisas, buscando atingir um padrão de excelência no atendimento e acompanhar o comportamento evolutivo do setor.
+
+Órgão Responsável 28000 - Secretaria de Estado do Turismo
+
+Meta 0193 - Realizar cadastramento da rede hoteleira dos municípios que Unidade de Medida Percentual compõe os Polos Turísticos Território Quantidade
+
+0002 - Terras Potiguaras 4
+
+0003 - Sertão Central, Cabugi e Litoral Norte 2
+
+0004 - Agreste Litoral Sul 2
+
+0005 - Trairi 2
+
+0007 - Seridó 2
+
+0008 - Alto Oeste 2
+
+0009 - Açu/Mossoró 2
+
+0010 - Mato Grande 2
+
+0011 - Sertão do Apodi 2
+
+Total 20
+
+Meta 0196 - Qualificar novos Bugueiros Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Meta 0198 - Requalificar Bugueiros Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 200
+
+Total 200
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 0202 - Promover campanhas educativas para o Bugyy Turismo Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 0203 - Elaborar novos roteiros do serviço Buggy Turismo no litoral Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 0204 - Realizar pesquisas de demanda turística nos principais Unidade de Medida Unidade municípios turísticos Território Quantidade
+
+0002 - Terras Potiguaras 4
+
+0004 - Agreste Litoral Sul 2
+
+0007 - Seridó 2
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 2
+
+0010 - Mato Grande 1
+
+Total 12
+
+Objetivo 0239 - Promover o turismo do Estado do Rio Grande do Norte, por meio da participação e realização de eventos temáticos, promoção de campanhas, marketing e qualificação profissional, direcionadas para o setor, visando incentivar o turista brasileiro e estrangeiro a viajar pelo Estado, para o aumento do fluxo de turistas, assim como a divulgação dos produtos, destinos e serviços turísticos.
+
+Órgão Responsável 28202 - Empresa Potiguar de Promoção Turistica
+
+Meta 0730 - Capacitar profissionais atuantes no processo de Unidade de Medida Unidade comercialização de serviços, destinos e produtos do setor turístico do Rio Grande do Norte Território Quantidade
+
+0001 - Rio Grande do Norte 1.626
+
+0002 - Terras Potiguaras 400
+
+Total 2.026
+
+Meta 1307 - Realizar, participar e apoiar eventos de promoção turísitica do Unidade de Medida Unidade Estado do Rio Grande do Norte em âmbito nacional e internacional Território Quantidade
+
+0001 - Rio Grande do Norte 73
+
+Total 73
+
+Meta 1308 - Realizar, participar e apoiar eventos de promoção turística do Unidade de Medida Unidade Estado do Rio Grande do Norte em âmbito estadual Território Quantidade
+
+0002 - Terras Potiguaras 5
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0004 - Agreste Litoral Sul 1
+
+0005 - Trairi 1
+
+0006 - Potengi 1
+
+0007 - Seridó 2
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 1
+
+0010 - Mato Grande 1
+
+0011 - Sertão do Apodi 1
+
+Total 15
+
+Anexo de Metas e Prioridades - 2016 Programa 0016 - COMÉRCIO E SERVIÇOS
+
+Objetivo 0290 - Estimular e apoiar empreendimentos produtivos, através de ações de fomento, visando contribuir para o desenvolvimento econômico-social da população do Rio Grande do Norte.
+
+Órgão Responsável 19203 - Agência de Fomento
+
+Meta 1118 - Contratar 16.500 operações de crédito para fomentar Unidade de Medida Unidade empreendimentos produtivos Território Quantidade
+
+0001 - Rio Grande do Norte 6.000
+
+Total 6.000
+
+Objetivo 0124 - Ampliar a promoção da produção econômica do Estado, inclusive com a transferência de recursos a instituições privadas sem fins lucrativos e prefeituras.
+
+Órgão Responsável 20000 - Secretaria de Estado do Desenvolvimento Econômico
+
+Meta 0271 - Realizar eventos econômicos e comerciais Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Objetivo 0264 - Fortalecer o programa IMPORT RN através de incentivo à importação de produtos não fabricados no RN e que possam ser diretamente comercializados para outros Estados e/ou que possam fazer parte de processos produtivos industriais para abastecer também outros mercados.
+
+Órgão Responsável 20000 - Secretaria de Estado do Desenvolvimento Econômico
+
+Meta 0852 - Fortalecer o programa IMPORT RN Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 15
+
+Total 15
+
+Objetivo 0123 - Transformar a Junta Comercial do Estado do RN num órgão que, além de realizar as atividades de registro empresarial, seja um facilitador da atividade empresarial e do desenvolvimento econômico do Estado, prestando serviços de excelência em ambiente adequado, moderno, com uso das melhores tecnologias atualmente disponíveis para serviço à população.
+
+Órgão Responsável 20205 - Junta Comercial do Estado
+
+Meta 0284 - Adquirir equipamentos e ferramentas tecnológicas Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 36
+
+Total 36
+
+Meta 0293 - Realizar cursos de qualificação e aperfeiçoamento do pessoal Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 42
+
+Total 42
+
+Meta 0298 - Integrar todos os órgãos representativos e a classe Unidade de Medida Percentual empresarial para facilitar e simplificar a emissão dos atos de registro Território Quantidade
+
+Anexo de Metas e Prioridades - 2016 0001 - Rio Grande do Norte 24
+
+Total 24
+
+Meta 0315 - Concluir a construção da sede da Jucern Unidade de Medida Metro Quadrado
+
+Território Quantidade
+
+0002 - Terras Potiguaras 97
+
+Total 97
+
+Objetivo 0158 - Garantir a fidelidade e confiabilidade nos instrumentos de medições em produtos regulamentados pelo Inmetro, através da fiscalização de postos e de aparelhos, assim como da modernização do IPEM, visando assegurar os direitos do consumidor no Estado.
+
+Órgão Responsável 20206 - Instituto de Pesos e Medidas
+
+Meta 0408 - Realizar Fiscalização Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 72.000
+
+Total 72.000
+
+Anexo de Metas e Prioridades - 2016 Programa 0017 - SEGURANÇA PÚBLICA, PROTEÇÃO E DEFESA CIVIL
+
+Objetivo 0132 - Melhorar o desempenho do serviço de policiamento ostensivo, criando condições logísticas, administrativas, de infraestrutura e de recursos humanos, vidando diminuir os índices de violência e proporcionar maior segurança a sociedade.
+
+Órgão Responsável 15000 - Polícia Militar
+
+Meta 0409 - Ampliar a frota de veículos, incluindo a aquisição de ônibus, Unidade de Medida Unidade caminhonetes, caminhões, vans, motocicletas entre outros veículos operacionais e administrativos Território Quantidade
+
+0001 - Rio Grande do Norte 330
+
+Total 330
+
+Meta 0422 - Adquirir armamento e material bélico Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 725
+
+Total 725
+
+Meta 0435 - Adquirir coletes e escudos balísticos Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1.100
+
+Total 1.100
+
+Meta 0474 - Adquirir equipamentos para rádio comunicação Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1.000
+
+Total 1.000
+
+Meta 0514 - Ampliar e recompor o efetivo da Polícia Militar (160 oficiais e Unidade de Medida Unidade 4.000 praças) Território Quantidade
+
+0002 - Terras Potiguaras 540
+
+0003 - Sertão Central, Cabugi e Litoral Norte 50
+
+0004 - Agreste Litoral Sul 100
+
+0007 - Seridó 100
+
+0008 - Alto Oeste 100
+
+0009 - Açu/Mossoró 150
+
+Total 1.040
+
+Meta 0537 - Capacitar os Policiais Militares com conhecimentos que Unidade de Medida Unidade aumentem a qualidade no atendimento e a eficácia na ação policial Território Quantidade
+
+0002 - Terras Potiguaras 150
+
+0003 - Sertão Central, Cabugi e Litoral Norte 55
+
+0004 - Agreste Litoral Sul 55
+
+0005 - Trairi 55
+
+0006 - Potengi 10
+
+0007 - Seridó 55
+
+0008 - Alto Oeste 55
+
+0009 - Açu/Mossoró 55
+
+0010 - Mato Grande 55
+
+0011 - Sertão do Apodi 55
+
+Total 600
+
+Meta 0552 - Realizar cursos de formação, aperfeiçoamento e habilitação Unidade de Medida Unidade dos Policiais Militares para uma maior qualidade na prestação do serviço
+
+Anexo de Metas e Prioridades - 2016 Território Quantidade
+
+0001 - Rio Grande do Norte 2.515
+
+Total 2.515
+
+Meta 0567 - Desenvolver e implementar programa contínuo de ações de Unidade de Medida Unidade assistência social, psicológicas e jurídicas ao público interno da PMRN Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0004 - Agreste Litoral Sul 1
+
+0005 - Trairi 1
+
+0006 - Potengi 1
+
+0007 - Seridó 1
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 1
+
+0010 - Mato Grande 1
+
+0011 - Sertão do Apodi 1
+
+Total 10
+
+Meta 0571 - Otimizar a gestão de recursos humanos e logísticos na PMRN Unidade de Medida Unidade através da aquisição de softwares Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 0589 - Implantar programa de reaparelhamento nas unidades da Unidade de Medida Unidade Polícia Militar, incluindo a aquisição de móveis e equipamentos de escritório Território Quantidade
+
+0002 - Terras Potiguaras 17
+
+0003 - Sertão Central, Cabugi e Litoral Norte 11
+
+0004 - Agreste Litoral Sul 24
+
+0005 - Trairi 15
+
+0006 - Potengi 11
+
+0007 - Seridó 25
+
+0008 - Alto Oeste 30
+
+0009 - Açu/Mossoró 14
+
+0010 - Mato Grande 15
+
+0011 - Sertão do Apodi 17
+
+Total 179
+
+Meta 0598 - Aparelhar em Tecnologia de Informação (TI) unidades da Unidade de Medida Unidade PMRN Território Quantidade
+
+0001 - Rio Grande do Norte 32
+
+Total 32
+
+Meta 0630 - Construir, reformar e ampliar os prédios da PMRN Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 6
+
+0003 - Sertão Central, Cabugi e Litoral Norte 3
+
+0004 - Agreste Litoral Sul 6
+
+0005 - Trairi 4
+
+0006 - Potengi 3
+
+0007 - Seridó 7
+
+0008 - Alto Oeste 8
+
+0009 - Açu/Mossoró 4
+
+0010 - Mato Grande 4
+
+0011 - Sertão do Apodi 5
+
+Anexo de Metas e Prioridades - 2016 Total 50
+
+Meta 0756 - Desenvolver programa de lazer e desportos para interação do Unidade de Medida Unidade público interno da PMRN com a comunidade Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0763 - Promover a realização de eventos institucionais e de Unidade de Medida Unidade celebração de datas cívicas Território Quantidade
+
+0001 - Rio Grande do Norte 20
+
+Total 20
+
+Meta 0827 - Realizar a aquisição de semoventes para o canil e para o Unidade de Medida Unidade esquadrão de cavalaria da PMRN Território Quantidade
+
+0002 - Terras Potiguaras 8
+
+0009 - Açu/Mossoró 3
+
+Total 11
+
+Objetivo 0176 - Melhorar o acesso e a qualidade dos serviços da Segurança em conformidade com o acordo de empréstimo do Banco Mundial para o programa RN Sustentável.
+
+Órgão Responsável 19000 - Secretaria de Estado do Planejamento e das Finanças
+
+Meta 0492 - Digitalizar o acervo de identificação do cidadão Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Meta 0494 - Fortalecer ações de prevenção a violência (Programa de Unidade de Medida Unidade Resistência às Drogas – PROERD e Coordenadoria de Defesa dos Direitos das Mulheres e Minorias – CODIMM) Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 0495 - Equipar as unidades de segurança pública (delegacias, Unidade de Medida Unidade postos policiais, batalhões) Território Quantidade
+
+0001 - Rio Grande do Norte 200
+
+Total 200
+
+Meta 0496 - Fortalecer o Centro Integrado de Operações de Segurança Unidade de Medida Unidade Pública (CIOSP) Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Objetivo 0169 - Melhorar a infraestrutura de Tecnologia da Informação do Sistema de Segurança Pública, através da modernização e da implementação de ações integradas, visando promover o uso da inteligência e da tecnologia como diferencial estratégico.
+
+Órgão Responsável 21000 - Secretaria de Estado da Segurança Pública e da Defesa Social
+
+Meta 0430 - Ampliar a oferta de internet nos municípios da Região Unidade de Medida Unidade Metropolitana de Natal, considerando o adequado funcionamento para as unidades de Segurança Pública Território Quantidade
+
+Anexo de Metas e Prioridades - 2016 0002 - Terras Potiguaras 2
+
+0004 - Agreste Litoral Sul 1
+
+0006 - Potengi 1
+
+0010 - Mato Grande 1
+
+Total 5
+
+Meta 0636 - Adquirir equipamentos de Tecnologia da Informação para 344 Unidade de Medida Unidade unidades do Sistema de Segurança Pública Território Quantidade
+
+0002 - Terras Potiguaras 24
+
+0003 - Sertão Central, Cabugi e Litoral Norte 5
+
+0004 - Agreste Litoral Sul 9
+
+0005 - Trairi 5
+
+0006 - Potengi 4
+
+0007 - Seridó 11
+
+0008 - Alto Oeste 10
+
+0009 - Açu/Mossoró 9
+
+0010 - Mato Grande 6
+
+0011 - Sertão do Apodi 7
+
+Total 90
+
+Objetivo 0249 - Aprimorar a atuação das forças de Segurança Pública, fortalecendo o sistema através da adoção de medidas concretas e sistemáticas de integração entre os Órgãos de Segurança Pública, na busca pela redução dos Crimes Violentos Letais Intencionais – CVLI.
+
+Órgão Responsável 21000 - Secretaria de Estado da Segurança Pública e da Defesa Social
+
+Meta 0738 - Implantar programa de reaparelhamento contínuo do aparato Unidade de Medida Unidade de Segurança Pública Estadual Território Quantidade
+
+0002 - Terras Potiguaras 24
+
+0003 - Sertão Central, Cabugi e Litoral Norte 5
+
+0004 - Agreste Litoral Sul 9
+
+0005 - Trairi 5
+
+0006 - Potengi 4
+
+0007 - Seridó 11
+
+0008 - Alto Oeste 10
+
+0009 - Açu/Mossoró 9
+
+0010 - Mato Grande 6
+
+0011 - Sertão do Apodi 7
+
+Total 90
+
+Meta 0747 - Ampliar o programa de Áreas Integradas de Segurança Unidade de Medida Unidade Pública para todo o Estado Território Quantidade
+
+0002 - Terras Potiguaras 5
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0004 - Agreste Litoral Sul 1
+
+0005 - Trairi 1
+
+0006 - Potengi 1
+
+0007 - Seridó 1
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 1
+
+0010 - Mato Grande 1
+
+0011 - Sertão do Apodi 1
+
+Total 14
+
+Meta 0748 - Ampliar o Programa Educacional de Resistência às Drogas Unidade de Medida Unidade (PROERD) de 52 municípios atendidos para todo o Estado
+
+Anexo de Metas e Prioridades - 2016 Território Quantidade
+
+0001 - Rio Grande do Norte 30
+
+Total 30
+
+Meta 0928 - Aprimorar as normas de organização e funcionamento das Unidade de Medida Unidade instituições do Sistema Estadual de Segurança Pública Território Quantidade
+
+0001 - Rio Grande do Norte 3
+
+Total 3
+
+Objetivo 0285 - Fomentar ações de promoção e valorização social da Polícia Civil, promovendo o resgate da autoimagem institucional com foco na defesa da cidadania, dos direitos humanos e da participação efetiva e solidária da comunidade para promoção da paz social.
+
+Órgão Responsável 21102 - Polícia Civil
+
+Meta 1028 - Elaborar e implementar o Plano de Marketing Institucional da Unidade de Medida Unidade Polícia Civil, abrangendo a comunicação interna e externa da instituição Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1030 - Elaborar e implementar programa educativo de sensibilização Unidade de Medida Unidade sobre as ações da Polícia Civil e de prevenção à violência em 20 escolas públicas estaduais Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Objetivo 0286 - Promover a valorização da força de trabalho da Polícia Civil na perspectiva da instituição de uma polícia cidadã com foco na melhoria da qualidade do serviço prestado à sociedade.
+
+Órgão Responsável 21102 - Polícia Civil
+
+Meta 1038 - Promover a capacitação e requalificação para 100% dos Unidade de Medida Percentual servidores da Polícia Civil Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Objetivo 0287 - Fortalecer e modernizar a estrutura administrativa e operacional da Polícia Civil por meio da reestruturação e do aperfeiçoamento das unidades, visando a melhoria da ambiência de trabalho e da oferta dos serviços à sociedade.
+
+Órgão Responsável 21102 - Polícia Civil
+
+Meta 1043 - Construir e implantar a Cidade da Polícia Civil Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 1044 - Construir 28 delegacias de polícia Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 5
+
+0007 - Seridó 1
+
+Anexo de Metas e Prioridades - 2016 0009 - Açu/Mossoró 2
+
+0010 - Mato Grande 1
+
+Meta 1046 - Reformar 42 delegacias de polícia Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 7
+
+0004 - Agreste Litoral Sul 2
+
+0007 - Seridó 1
+
+0011 - Sertão do Apodi 1
+
+Total 11
+
+Meta 1047 - Criar e aparelhar 30 unidades operacionais e administrativas Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 4
+
+0007 - Seridó 1
+
+0009 - Açu/Mossoró 1
+
+0011 - Sertão do Apodi 1
+
+Total 7
+
+Meta 1049 - Reaparelhar 100% das unidades operacionais e Unidade de Medida Percentual administrativas existentes Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1053 - Adquirir 6.800 unidades de equipamentos bélicos para Unidade de Medida Unidade recomposição e ampliação do parque da Polícia Civil Território Quantidade
+
+0002 - Terras Potiguaras 170
+
+0003 - Sertão Central, Cabugi e Litoral Norte 170
+
+0004 - Agreste Litoral Sul 170
+
+0005 - Trairi 170
+
+0006 - Potengi 170
+
+0007 - Seridó 170
+
+0008 - Alto Oeste 170
+
+0009 - Açu/Mossoró 170
+
+0010 - Mato Grande 170
+
+0011 - Sertão do Apodi 170
+
+Total 1.700
+
+Meta 1055 - Adquirir 200 veículos automotores para apoio administrativo e Unidade de Medida Unidade operacional das unidades da Polícia Civil Território Quantidade
+
+0002 - Terras Potiguaras 25
+
+0003 - Sertão Central, Cabugi e Litoral Norte 2
+
+0004 - Agreste Litoral Sul 3
+
+0005 - Trairi 1
+
+0006 - Potengi 1
+
+0007 - Seridó 7
+
+0008 - Alto Oeste 3
+
+0009 - Açu/Mossoró 8
+
+0010 - Mato Grande 2
+
+0011 - Sertão do Apodi 3
+
+Total 55
+
+Meta 1056 - Elaborar o diagnóstico situacional da Polícia Civil, no tocante Unidade de Medida Unidade ao levantamento de estrutura física e tecnológica, de pessoal e mapeamento dos processos e rotinas internas Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Anexo de Metas e Prioridades - 2016 Total 1
+
+Meta 1057 - Adquirir 250 equipamentos de rádio e comunicação para as Unidade de Medida Unidade unidades da Polícia Civil Território Quantidade
+
+0002 - Terras Potiguaras 7
+
+0003 - Sertão Central, Cabugi e Litoral Norte 6
+
+0004 - Agreste Litoral Sul 6
+
+0005 - Trairi 6
+
+0006 - Potengi 6
+
+0007 - Seridó 7
+
+0008 - Alto Oeste 6
+
+0009 - Açu/Mossoró 7
+
+0010 - Mato Grande 6
+
+0011 - Sertão do Apodi 6
+
+Total 63
+
+Objetivo 0284 - Melhorar o desempenho das atividades técnico-científico, através da ampliação, modernização e melhoria da infraestrutura física e de pessoal do ITEP, bem como da formação e aperfeiçoamento dos profissionais, visando assegurar à população um melhor atendimento.
+
+Órgão Responsável 21131 - Instituto Técnico Científico de Polícia
+
+Meta 1019 - Aparelhar e informatizar Unidades do ITEP Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 1023 - Construir, reformar e ampliar unidades do ITEP Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 1025 - Ampliar a frota de veículos Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 9
+
+0009 - Açu/Mossoró 2
+
+Total 11
+
+Meta 1026 - Qualificar e aperfeiçoar o quadro de Recursos Humanos Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 450
+
+Total 450
+
+Objetivo 0039 - Racionalizar as atividades operacionais do sistema penitenciário, através de sua estruturação física, da garantia da valorização e profissionalização da carreira do servidor, da implantação do estatuto e do plano de cargos, carreira e salários dos agentes penitenciários, do acesso as novas tecnologias e materiais, visando maior eficiência e ao sistema penitenciário.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0002 - Construir 07 Unidades Prisionais Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0006 - Potengi 1
+
+Total 2
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 0006 - Reformar 01 imóvel dos grupos especiais da execução penal Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 0007 - Equipar unidades administrativas prisionais Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 96
+
+Total 96
+
+Meta 0008 - Implantar monitoramento áudio/visual em todas as unidades Unidade de Medida Unidade prisionais Território Quantidade
+
+0001 - Rio Grande do Norte 32
+
+Total 32
+
+Meta 0009 - Renovar frota de veículos operacionais do sistema prisional Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 97
+
+Total 97
+
+Meta 0010 - Aparelhar as unidades prisionais e os grupos especiais, com Unidade de Medida Unidade Kits básicos de equipamentos de proteção individual para os servidores Território Quantidade
+
+0001 - Rio Grande do Norte 40
+
+Total 40
+
+Meta 0011 - Disponibilizar material bélico, em quantidade adequada, para Unidade de Medida Unidade 100% dos agentes penitenciários em serviço Território Quantidade
+
+0001 - Rio Grande do Norte 97
+
+Total 97
+
+Meta 0013 - Viabilizar aquisição de fardamento padrão “vestuário e Unidade de Medida Unidade calçado”, para os servidores penitenciários Território Quantidade
+
+0001 - Rio Grande do Norte 1.830
+
+Total 1.830
+
+Meta 0088 - Implantar em 100% o estatuto e o plano de cargo, carreira e Unidade de Medida Percentual salários dos agentes penitenciários Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Meta 0089 - Proporcionar a qualificação continuada dos agentes Unidade de Medida Percentual penitenciários e servidores da SEJUC Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Meta 0090 - Criar 150 vagas para técnicos penitenciários Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Meta 1312 - Gerar vagas no sistema prisional Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1.191
+
+Anexo de Metas e Prioridades - 2016 Total 1.191
+
+Objetivo 0252 - Planejar, coordenar e promover a proteção civil permanente contra desastres com medidas que visem evitar, prevenir e/ou minimizar os danos e prejuízos, socorrer e assistir as populações atingidas, mitigando os riscos e perdas materiais, bem como o restabelecimento do bem estar social.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0757 - Prevenir e mitigar emergências e desastres Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 97
+
+Total 97
+
+Meta 0759 - Construir, aparelhar e modernizar as instalações físicas da Unidade de Medida Unidade proteção e defesa civil Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0271 - Aperfeiçoar o atendimento aos usuários e proporcionar satisfação e condições de trabalho aos servidores através da valorização e modernização da estrutura, visando à prestação do serviço público com qualidade.
+
+Órgão Responsável 25203 - Departamento Estadual de Trânsito
+
+Meta 0997 - Construir, reformar e ampliar as instalações físicas do Unidade de Medida Unidade DETRAN/RN - sede e suas unidades Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Meta 0998 - Reaparelhar o DETRAN/RN - sede e suas unidades Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Meta 0999 - Adquirir, implantar e atualizar Sistemas de Informação do Unidade de Medida Unidade DETRAN/RN - sede e suas unidades Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 1000 - Implementar o processo de inovação organizacional no Unidade de Medida Unidade DETRAN/RN - sede e suas unidades Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1001 - Capacitar e qualificar servidores do DETRAN/RN Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 200
+
+Total 200
+
+Meta 1002 - Promover eventos para os servidores e cidadãos visando Unidade de Medida Unidade melhorar a prestação do serviço Território Quantidade
+
+0001 - Rio Grande do Norte 4
+
+Total 4
+
+Anexo de Metas e Prioridades - 2016
+
+Objetivo 0272 - Promover a segurança do trânsito, através da melhoria da educação, da fiscalização e do sistema viário, visando à fluidez, à redução dos índices de acidentes e às condições adequadas das vias de trânsito.
+
+Órgão Responsável 25203 - Departamento Estadual de Trânsito
+
+Meta 0884 - Realizar ações de fiscalização de veículos Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 290
+
+Total 290
+
+Meta 1008 - Realizar ações de educação de trânsito Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 71
+
+Total 71
+
+Meta 1009 - Implementar e manter o sistema de sinalização horizontal nas Unidade de Medida Metro Quadrado vias públicas em condições adequadas e seguras Território Quantidade
+
+0001 - Rio Grande do Norte 120.000
+
+Total 120.000
+
+Meta 1313 - Implementar e manter o sistema de sinalização vertical, Unidade de Medida Unidade semafórica e eletrônica nas vias públicas em condições adequadas e seguras Território Quantidade
+
+0001 - Rio Grande do Norte 6.113
+
+Total 6.113
+
+Objetivo 0021 - Melhorar o desempenho das atividades do Corpo de Bombeiros Militar, criando condições logísticas, administrativas, de infraestrutura e recursos humanos, visando fortalecer a proteção da vida, do patrimônio e do meio ambiente para o bem estar da sociedade.
+
+Órgão Responsável 32000 - Corpo de Bombeiros Militar
+
+Meta 0094 - Realizar a “corrida Soldado do fogo” anualmente em Unidade de Medida Unidade comemoração ao dia nacional dos Bombeiros Militares Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 0095 - Realizar a “caminhada da mãe potiguar” anualmente em Unidade de Medida Unidade comemoração do dia da mulher e da política de doação de leite materno Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 0096 - Operacionalizar o Programa Bombeiro Mirim Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0007 - Seridó 1
+
+Total 2
+
+Meta 0100 - Promover atividades de musicalidade no âmbito do Programa Unidade de Medida Unidade Bombeiro Mirim Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Anexo de Metas e Prioridades - 2016 0007 - Seridó 1
+
+Total 2
+
+Meta 0113 - Realizar o processo seletivo para curso de formação de Unidade de Medida Unidade Oficiais Bombeiros Militar Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0116 - Implementar o curso de aperfeiçoamento de Oficiais Unidade de Medida Unidade Bombeiros Militar Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0405 - Implantar, gerenciar e manter Tecnologia de Sistemas de Unidade de Medida Unidade Informação em unidades do Corpo de Bombeiros Militar Território Quantidade
+
+0002 - Terras Potiguaras 2
+
+0007 - Seridó 1
+
+Total 3
+
+Meta 0509 - Aparelhar unidades do Corpo de Bombeiros Militar Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 2
+
+0007 - Seridó 1
+
+Total 3
+
+Meta 1314 - Construir o parque aquático no quartel do Comando Geral do Unidade de Medida Unidade Corpo de Bombeiro Militar Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016 Programa 0018 - ASSISTÊNCIA SOCIAL E TRABALHO
+
+Objetivo 0189 - Subsidiar a formulação das Políticas Públicas para Criança e Adolescente, através da estruturação de políticas, planos, projetos e diálogos com o Sistema de Garantia de Direitos visando a efetivação dos Direitos.
+
+Órgão Responsável 26000 - Secretaria de Estado do Trabalho, da Habitação e da Assistência Social
+
+Meta 0546 - Fomentar a elaboração de planos para Criança e Adolescente Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 3
+
+Total 3
+
+Meta 0551 - Realizar campanha de sensibilização sobre Direitos da Unidade de Medida Unidade Criança e do Adolescente Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0557 - Capacitar Conselheiros de Direitos Tutelares e Operadores do Unidade de Medida Unidade Sistema de Garantia dos Direitos da Criança e do Adolescente Território Quantidade
+
+0001 - Rio Grande do Norte 1.500
+
+Total 1.500
+
+Meta 0560 - Monitorar o funcionamento das instituições responsáveis pela Unidade de Medida Unidade execução do sistema de Garantia dos Direitos da Criança e do Adolescente Território Quantidade
+
+0001 - Rio Grande do Norte 30
+
+Total 30
+
+Meta 0564 - Criar Banco de Dados sobre o Sistema de Garantia dos Unidade de Medida Unidade Direitos da Criança e do Adolescente Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0201 - Implementar as políticas públicas de emprego e de combate ao desemprego, oferecendo atendimento e orientação ao trabalhador jovem, com idade entre 16 a 29 anos, e famílias de baixa renda, com vistas a facilitar o acesso ou a reintegração ao mercado de trabalho.
+
+Órgão Responsável 26000 - Secretaria de Estado do Trabalho, da Habitação e da Assistência Social
+
+Meta 0597 - Inserir trabalhadores no mercado de trabalho Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1.166
+
+0004 - Agreste Litoral Sul 97
+
+0005 - Trairi 89
+
+0007 - Seridó 224
+
+0008 - Alto Oeste 134
+
+0009 - Açu/Mossoró 336
+
+0010 - Mato Grande 112
+
+0011 - Sertão do Apodi 88
+
+Total 2.246
+
+Meta 0605 - Captar vagas de empregos no Estado Unidade de Medida Unidade
+
+Território Quantidade
+
+Anexo de Metas e Prioridades - 2016 0002 - Terras Potiguaras 2.700
+
+0004 - Agreste Litoral Sul 216
+
+0005 - Trairi 275
+
+0007 - Seridó 540
+
+0008 - Alto Oeste 324
+
+0009 - Açu/Mossoró 810
+
+0010 - Mato Grande 270
+
+0011 - Sertão do Apodi 265
+
+Total 5.400
+
+Meta 0614 - Inserir jovens com idade entre 16 a 24 anos no Programa Unidade de Medida Unidade Primeiro Emprego Território Quantidade
+
+0002 - Terras Potiguaras 300
+
+0007 - Seridó 75
+
+0009 - Açu/Mossoró 125
+
+Total 500
+
+Meta 0628 - Qualificar e requalificar trabalhadores para o mercado de Unidade de Medida Unidade trabalho Território Quantidade
+
+0002 - Terras Potiguaras 200
+
+0004 - Agreste Litoral Sul 100
+
+0005 - Trairi 100
+
+0007 - Seridó 500
+
+0008 - Alto Oeste 100
+
+0009 - Açu/Mossoró 500
+
+0010 - Mato Grande 100
+
+0011 - Sertão do Apodi 400
+
+Total 2.000
+
+Meta 0639 - Qualificar jovens com idade entre 18 e 29 anos para o Unidade de Medida Unidade mercado de trabalho Território Quantidade
+
+0002 - Terras Potiguaras 1.125
+
+0003 - Sertão Central, Cabugi e Litoral Norte 225
+
+0004 - Agreste Litoral Sul 225
+
+0005 - Trairi 225
+
+0007 - Seridó 1.125
+
+0008 - Alto Oeste 225
+
+0009 - Açu/Mossoró 900
+
+0010 - Mato Grande 225
+
+0011 - Sertão do Apodi 225
+
+Total 4.500
+
+Meta 0646 - Manter e operacionalizar postos de atendimento do SINE/RN Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 7
+
+0004 - Agreste Litoral Sul 2
+
+0005 - Trairi 1
+
+0007 - Seridó 2
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 2
+
+0010 - Mato Grande 1
+
+0011 - Sertão do Apodi 1
+
+Total 17
+
+Meta 0657 - Manter e operacionalizar as Centrais do Trabalhador Unidade de Medida Unidade
+
+Território Quantidade
+
+Anexo de Metas e Prioridades - 2016 0002 - Terras Potiguaras 1
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0009 - Açu/Mossoró 2
+
+0010 - Mato Grande 2
+
+Total 6
+
+Meta 0661 - Implantar novas Centrais do Trabalhador Unidade de Medida Unidade
+
+Território Quantidade
+
+0008 - Alto Oeste 1
+
+Total 1
+
+Objetivo 0227 - Garantir a ocupação, trabalho e renda para que o artesão do RN se torne conhecido e reconhecido como protagonista de sua arte do saber fazer, através da Escola do Artesão, revitalização das centrais de comercialização e participação em feiras estaduais, nacionais e internacionais para escoamento dos produtos artesanais.
+
+Órgão Responsável 26000 - Secretaria de Estado do Trabalho, da Habitação e da Assistência Social
+
+Meta 0686 - Revitalizar e modernizar equipamentos de comercialização Unidade de Medida Unidade
+
+Território Quantidade
+
+0007 - Seridó 2
+
+Total 2
+
+Meta 0698 - Realizar fóruns do artesanato potiguar nos pólos territorias do Unidade de Medida Unidade estado do RN Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0004 - Agreste Litoral Sul 1
+
+Total 3
+
+Objetivo 0270 - Consolidar o SUAS por meio da efetivação de ações de assessoramento, monitoramento e avaliação, da estruturação e implementação da Gestão do Trabalho e Educação Permanente e da Vigilância Socioassistencial, promovendo a profissionalização, estruturação do trabalho, valorização dos trabalhadores do SUAS, a disseminação de informações territoriais e o aprimoramento do provimento e do controle social Órgão Responsável 26000 - Secretaria de Estado do Trabalho, da Habitação e da Assistência Social
+
+0004 - Agreste Litoral Sul 1
+
+0006 - Potengi 1
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 1
+
+0011 - Sertão do Apodi 1
+
+Total 5
+
+Meta 0897 - Cofinanciar os serviços, programas, projetos e benefícios para Unidade de Medida Percentual o aprimoramento da gestão, em âmbito regional e local Território Quantidade
+
+0001 - Rio Grande do Norte 20
+
+Total 20
+
+Meta 0910 - Implementar a Educação Permanente do SUAS e estruturar as Unidade de Medida Unidade ações da Gestão do Trabalho, no âmbito do SUAS Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 1316 - Estruturar e implementar a gestão da Política Estadual do Unidade de Medida Unidade Idoso Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Anexo de Metas e Prioridades - 2016 Total 1
+
+Objetivo 0277 - Ampliar e qualificar os serviços da proteção social especial estruturando a rede de média e alta complexidade nas questões: gênero, racismo, prevenção ao uso de drogas, abuso e exploração sexual de crianças e adolescentes, jovens e mulheres em situação de violência, pessoas com deficiência, em situação de rua e povos originários e tradicionais, em situação de risco social e violação de direitos.
+
+Órgão Responsável 26000 - Secretaria de Estado do Trabalho, da Habitação e da Assistência Social
+
+Meta 0969 - Estruturar e implementar PAEFI/CREAS regionais, incluindo Unidade de Medida Unidade serviços para crianças e adolescentes, jovens, mulheres em situação de violência e famílias Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1087 - Considerar, no atendimento dos programas, projetos e Unidade de Medida Unidade serviços, o recorte quanto aos povos indígenas, povos de matriz africana, quilombolas, ciganos, pescadores e pescadoras artesanais e demais comunidades tradicionais Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0278 - Monitorar e avaliar a gestão do programa Bolsa Família e cadastro único nos 167 municípios do RN, promovendo o acesso das famílias e indivíduos aos serviços nas áreas da saúde, educação e da assistência social, por meio do cumprimento das condicionalidades, contribuindo para a redução da pobreza extrema no Estado, garantindo melhoria das condições de subsistência e elevação do padrão de vida. Órgão Responsável 26000 - Secretaria de Estado do Trabalho, da Habitação e da Assistência Social
+
+Meta 0981 - Acompanhar, monitorar, avaliar e assessorar a gestão Unidade de Medida Unidade municipal do programa Bolsa Família e cadastro único Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0004 - Agreste Litoral Sul 1
+
+0005 - Trairi 1
+
+0006 - Potengi 1
+
+0007 - Seridó 1
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 1
+
+0010 - Mato Grande 1
+
+0011 - Sertão do Apodi 1
+
+Total 10
+
+Objetivo 0149 - Executar no ambito do Estado a Politica de Atendimento Socioeducativo ao adolescentes acusados e ou autores de atos infracional, com privação e restrição de liberdade, e os serviços de internação provisória e atendimneto inicial garantindo sua proteção integral e seus direitos fundamentais, preconizados na Lei 8.069/90 - ECA e a Lei 12.594/2012 - SINASE
+
+Órgão Responsável 26202 - Fundação Estadual da Criança e do Adolescente
+
+Meta 0377 - Atender à Familia e ao Adolescente Egresso Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 8.976
+
+0004 - Agreste Litoral Sul 480
+
+0007 - Seridó 3.504
+
+0009 - Açu/Mossoró 4.224
+
+Anexo de Metas e Prioridades - 2016 0010 - Mato Grande 2.880
+
+Total 20.064
+
+Meta 0424 - Proporcionar Atendimento Socioeducativo ao Adolescente Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 2.244
+
+0004 - Agreste Litoral Sul 120
+
+0007 - Seridó 876
+
+0009 - Açu/Mossoró 1.056
+
+0010 - Mato Grande 720
+
+Total 5.016
+
+Meta 0510 - Participar de Eventos de Aperfeicoamento Técnico Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 150
+
+Total 150
+
+Meta 0519 - Realização de Eventos Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 8
+
+Total 8
+
+Meta 0523 - Monitorar e Avaliar os Programas de Atendimento Unidade de Medida Unidade Socioeducativo Território Quantidade
+
+0001 - Rio Grande do Norte 66
+
+Total 66
+
+Meta 0536 - Recuperar, Reformar e Ampliar Unidades de Atendimento Unidade de Medida Unidade Socioeducativo Território Quantidade
+
+0002 - Terras Potiguaras 6
+
+0007 - Seridó 1
+
+0009 - Açu/Mossoró 5
+
+Meta 0541 - Aparelhar e Reaparelhar de Unidades de Atendimento Unidade de Medida Unidade Socioeducativo Território Quantidade
+
+0002 - Terras Potiguaras 5
+
+0007 - Seridó 5
+
+0009 - Açu/Mossoró 5
+
+0010 - Mato Grande 1
+
+Total 16
+
+Meta 0583 - Construir Unidades de Atendimento Socioeducativo Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0007 - Seridó 1
+
+0010 - Mato Grande 1
+
+Total 3
+
+Meta 0596 - Operacionalizar Sistema Tecnológico de Informação Unidade de Medida Unidade Socioeducativa Território Quantidade
+
+0001 - Rio Grande do Norte 22
+
+Total 22
+
+Meta 0599 - Capacitar permanentemente os Servidores da Socioeducação Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1.100
+
+Anexo de Metas e Prioridades - 2016 Total 1.100
+
+Anexo de Metas e Prioridades - 2016 Programa 0019 - REFORMA AGRÁRIA E ASSUNTOS FUNDIÁRIOS
+
+Objetivo 0030 - Implementar medidas técnicas, administrativas e jurídicas necessárias à regularização fundiária de assentamentos urbanos constituídos por imóveis construídos e comercializados pela COHAB-RN.
+
+Órgão Responsável 16202 - Companhia de Processamento de Dados
+
+Meta 0077 - Regularizar Conjuntos Habitacionais Unidade de Medida Unidade
+
+Território Quantidade
+
+0009 - Açu/Mossoró 20
+
+Total 20
+
+Objetivo 0202 - Instituir o Plano Estadual de Sucessão Rural para promover o acesso à terra e a inclusão social e produtiva da juventude rural
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0606 - Instituir o Plano de Sucessão Rural Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0610 - Realizar diagnóstico sobre a condição atual de acesso à terra, Unidade de Medida Unidade demandas e potencialidades da juventude rural nos diversos Territórios de Identidade Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0613 - Firmar termos de cooperação com a União e instituições Unidade de Medida Unidade financeiras para o fomento de empreendimentos rurais e acesso ao crédito para jovens da agricultura familiar Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Objetivo 0037 - Promover o acesso à terra através do cadastro de terra, da regularização da malha fundiária e de ações que visem o desenvolvimento rural para trabalhadores e trabalhadoras rurais do Estado do Rio Grande do Norte.
+
+Órgão Responsável 31000 - Secretaria de Estado de Assuntos Fundiários, Colonização e Reforma Agrária
+
+Meta 0135 - Conceder crédito fundiário para famílias potiguares através do Unidade de Medida Unidade PNCF Território Quantidade
+
+0002 - Terras Potiguaras 10
+
+0003 - Sertão Central, Cabugi e Litoral Norte 50
+
+0004 - Agreste Litoral Sul 20
+
+0005 - Trairi 40
+
+0006 - Potengi 30
+
+0007 - Seridó 50
+
+0008 - Alto Oeste 20
+
+0009 - Açu/Mossoró 50
+
+0010 - Mato Grande 50
+
+Anexo de Metas e Prioridades - 2016 0011 - Sertão do Apodi 80
+
+Total 400
+
+Meta 0148 - Implantar projeto de infraestrutura produtiva nas áreas do Unidade de Medida Unidade PNCF Território Quantidade
+
+0002 - Terras Potiguaras 3
+
+0003 - Sertão Central, Cabugi e Litoral Norte 6
+
+0004 - Agreste Litoral Sul 4
+
+0005 - Trairi 5
+
+0006 - Potengi 2
+
+0007 - Seridó 6
+
+0008 - Alto Oeste 4
+
+0009 - Açu/Mossoró 4
+
+0010 - Mato Grande 6
+
+0011 - Sertão do Apodi 10
+
+Total 50
+
+Meta 0173 - Substituir e regularizar famílias nos quadros sociais das Unidade de Medida Unidade associações do PNCF Território Quantidade
+
+0002 - Terras Potiguaras 10
+
+0003 - Sertão Central, Cabugi e Litoral Norte 10
+
+0004 - Agreste Litoral Sul 10
+
+0005 - Trairi 10
+
+0006 - Potengi 10
+
+0007 - Seridó 10
+
+0008 - Alto Oeste 10
+
+0009 - Açu/Mossoró 10
+
+0010 - Mato Grande 10
+
+0011 - Sertão do Apodi 10
+
+Total 100
+
+Meta 0174 - Realizar a individualização dos projetos do PNCF Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 10
+
+0003 - Sertão Central, Cabugi e Litoral Norte 10
+
+0006 - Potengi 10
+
+0010 - Mato Grande 20
+
+0011 - Sertão do Apodi 30
+
+Total 80
+
+Meta 0175 - Revitalizar antigos projetos do PNCF Unidade de Medida Unidade
+
+Território Quantidade
+
+0003 - Sertão Central, Cabugi e Litoral Norte 5
+
+0007 - Seridó 5
+
+0009 - Açu/Mossoró 10
+
+0011 - Sertão do Apodi 10
+
+Total 30
+
+Meta 0205 - Implantar bibliotecas rurais nos territórios do Rio Grande do Unidade de Medida Unidade Norte pelo Programa Arca das Letras Território Quantidade
+
+0002 - Terras Potiguaras 10
+
+0003 - Sertão Central, Cabugi e Litoral Norte 10
+
+0004 - Agreste Litoral Sul 10
+
+0005 - Trairi 8
+
+0006 - Potengi 10
+
+0007 - Seridó 10
+
+Anexo de Metas e Prioridades - 2016 0008 - Alto Oeste 10
+
+0009 - Açu/Mossoró 10
+
+0010 - Mato Grande 10
+
+0011 - Sertão do Apodi 10
+
+Total 98
+
+Meta 0227 - Realizar a regularização fundiária Unidade de Medida Unidade
+
+Território Quantidade
+
+0004 - Agreste Litoral Sul 1.158
+
+0005 - Trairi 701
+
+0006 - Potengi 575
+
+0007 - Seridó 407
+
+0008 - Alto Oeste 719
+
+0009 - Açu/Mossoró 363
+
+0010 - Mato Grande 392
+
+0011 - Sertão do Apodi 685
+
+Total 5.000
+
+Meta 0328 - Capacitar famílias dos assentamentos rurais/áreas do crédito Unidade de Medida Unidade fundiário com foco nas mulheres rurais Território Quantidade
+
+0002 - Terras Potiguaras 500
+
+0003 - Sertão Central, Cabugi e Litoral Norte 500
+
+0004 - Agreste Litoral Sul 500
+
+0005 - Trairi 500
+
+0006 - Potengi 500
+
+0007 - Seridó 500
+
+0008 - Alto Oeste 500
+
+0009 - Açu/Mossoró 500
+
+0010 - Mato Grande 500
+
+0011 - Sertão do Apodi 500
+
+Total 5.000
+
+Meta 0333 - Perfurar e instalar poços nos assentamentos rurais/áreas do Unidade de Medida Unidade crédito fundiário existentes no território potiguar Território Quantidade
+
+0003 - Sertão Central, Cabugi e Litoral Norte 65
+
+0005 - Trairi 65
+
+0006 - Potengi 65
+
+0007 - Seridó 65
+
+0008 - Alto Oeste 65
+
+0009 - Açu/Mossoró 65
+
+0010 - Mato Grande 65
+
+0011 - Sertão do Apodi 65
+
+Total 520
+
+Anexo de Metas e Prioridades - 2016 Programa 0020 - SANEAMENTO BÁSICO
+
+Objetivo 0098 - Apoiar e incentivar a implantação de sistemas de drenagem nos diversos municípios do Estado do Rio Grande do Norte.
+
+Órgão Responsável 25000 - Secretaria de Estado da Infraestrutura
+
+Meta 0253 - Construir 82 km de tubulação de drenagem Unidade de Medida Quilômetro
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0004 - Agreste Litoral Sul 3
+
+0005 - Trairi 2
+
+0006 - Potengi 1
+
+0007 - Seridó 3
+
+0008 - Alto Oeste 5
+
+0009 - Açu/Mossoró 1
+
+0010 - Mato Grande 2
+
+0011 - Sertão do Apodi 2
+
+Total 21
+
+Meta 0341 - Pavimentar 1.190.760 m² nos diversos municípios do Estado Unidade de Medida Metro Quadrado
+
+Território Quantidade
+
+0002 - Terras Potiguaras 9.000
+
+0003 - Sertão Central, Cabugi e Litoral Norte 20.000
+
+0004 - Agreste Litoral Sul 40.000
+
+0005 - Trairi 25.000
+
+0006 - Potengi 20.000
+
+0007 - Seridó 40.000
+
+0008 - Alto Oeste 50.000
+
+0009 - Açu/Mossoró 23.000
+
+0010 - Mato Grande 25.000
+
+0011 - Sertão do Apodi 28.000
+
+Total 280.000
+
+Objetivo 0090 - Apoiar os municipios no atendimento às Políticas de saneamento básico visando a Política Estadual de Saneamento Básico de forma a nortear os municpios na elaboração e implementação dos planos de forma integrada aos setores de abastecimento de água, esgotamento sanitário, limpeza urbana e manejo de resíduos sólidos, drenagem e manejo de águas pluviais.
+
+Órgão Responsável 27000 - Sec de Estado do Meio Ambiente e dos Recursos Hídricos
+
+Meta 0245 - Implantar 45 Ações de Saneamento Básico Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+0007 - Seridó 6
+
+Total 16
+
+Objetivo 0003 - Garantir o acesso da população do RN ao saneamento básico, por meio do abastecimento de água e esgotamento sanitário, visando a melhoria da qualidade de vida da população.
+
+Órgão Responsável 27201 - Companhia de Águas e Esgotos do RN
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 0003 - Elaborar projeto de engenharia de sistema de abastecimento Unidade de Medida Unidade de água Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 0004 - Implantar sistema de abastecimento de água Unidade de Medida Unidade
+
+Território Quantidade
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+Total 1
+
+Meta 0005 - Ampliar sistemas de abastecimento de água Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0007 - Seridó 3
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 2
+
+0010 - Mato Grande 1
+
+0011 - Sertão do Apodi 2
+
+Total 10
+
+Meta 0511 - Implantar sistemas de esgotamento sanitário Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 2
+
+0008 - Alto Oeste 1
+
+Total 3
+
+Meta 0525 - Ampliar sistemas de esgotamento sanitário Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 5
+
+0004 - Agreste Litoral Sul 2
+
+0007 - Seridó 1
+
+0009 - Açu/Mossoró 3
+
+Total 11
+
+Anexo de Metas e Prioridades - 2016 Programa 0021 - FORTALECIMENTO DO SISTEMA ÚNICO DE SAÚDE
+
+Objetivo 0174 - Melhorar o acesso e a qualidade dos serviços da saúde em conformidade com o acordo de empréstimo do Banco Mundial para o programa RN Sustentável.
+
+Órgão Responsável 19000 - Secretaria de Estado do Planejamento e das Finanças
+
+Meta 0463 - Construir, reformar e/ou equipar unidades de Saúde Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 22
+
+Total 22
+
+Meta 0467 - Qualificar Profissionais da Saúde Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 40
+
+Total 40
+
+Objetivo 0040 - Coordenar o processo de planejamento, gestão e orçamento, no âmbito do SUS, de forma regionalizada, articulada e participativa, visando a consolidação e aumento da resolutividade, da qualidade da gestão e da atenção à saúde.
+
+Órgão Responsável 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 1069 - Apoiar 100% dos municípios do RN, na elaboração, Unidade de Medida Percentual monitoramento e avaliação dos instrumentos de planejamento e gestão (plano de saúde, programação anual de saúde, relatório anual de gestão) Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Meta 1071 - Coordenar o processo de elaboração, monitoramento e Unidade de Medida Percentual avaliação de 100% dos instrumentos de planejamento e gestão da SESAP (plano estadual de saúde, programação anual de saúde e relatório anual de gestão) Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Meta 1072 - Coordenar, monitorar e avaliar a Programação Pactuada Unidade de Medida Percentual Integrada de forma articulada e regionalizada Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Meta 1073 - Coordenar a elaboração, monitorar e avaliar 100% dos Unidade de Medida Percentual protocolos de cooperação entre entes públicos – PCEP celebrados entre a SESAP e os municípios, referentes à contratualização dos hospitais regionais Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Meta 1074 - Implantar o apoio integrado em 100% das Comissões Unidade de Medida Percentual Intergestores Regionais do Estado Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 1075 - Implantar o apoio à Gestão Estratégica e participativa, visando Unidade de Medida Percentual a captação de recursos externos, pesquisa científica, tecnológica e inovação em saúde, com acompanhamento de projetos, monitoramento e avaliação de metas e desempenho e análise da saúde Território Quantidade
+
+0001 - Rio Grande do Norte 97
+
+Total 97
+
+Meta 1076 - Implantar a Política Estadual de Educação Popular em Saúde Unidade de Medida Percentual no RN Território Quantidade
+
+0001 - Rio Grande do Norte 97
+
+Total 97
+
+Meta 1077 - Apoiar tecnicamente os componentes municipais do SNA já Unidade de Medida Percentual existentes Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1078 - Viabilizar a normatização das atribuições e processos de Unidade de Medida Percentual trabalho da auditoria Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1079 - Reestruturar física e tecnologicamente o Sistema Estadual de Unidade de Medida Percentual Auditoria Território Quantidade
+
+0001 - Rio Grande do Norte 97
+
+Total 97
+
+Meta 1080 - Fomentar a criação e instrumentalização de novos Unidade de Medida Percentual componentes municipais do SNA em 100% das regiões de saúde, com foco nos respectivos municípios sede Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1081 - Apoiar a implantação de serviços de ouvidoria em 56 Unidade de Medida Unidade municípios do RN Território Quantidade
+
+0001 - Rio Grande do Norte 14
+
+Total 14
+
+Meta 1082 - Implantar sub-redes de ouvidoria Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 1083 - Viabilizar a participação de 100% dos profissionais, em Unidade de Medida Percentual eventos de educação permanente Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Objetivo 0113 - Promover soluções de informática no ambiente da Saúde, incluindo aquisição e manutenções de computadores, além do desenvolvimento de sistemas que garantam a celeridade nos processos e projetos de bens e serviços da Saúde.
+
+Órgão Responsável 24000 - Secretaria de Estado da Saúde Pública
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 0258 - Modernizar a tecnologia da informação da SESAP Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1.250
+
+Total 1.250
+
+Meta 0389 - Implantar sistema de gestão hospitalar, de gestão Unidade de Medida Percentual administrativa e de recursos humanos Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1249 - Fornecer suporte e realizar manutenção preventiva e corretiva Unidade de Medida Percentual dos equipamentos de informática Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Objetivo 0172 - Promover a Regulação do Acesso à Assistência, de forma regionalizada, por meio da ampliação e modernização dos serviços de regulação, no âmbito do SUS, garantindo a universalidade do acesso, integralidade e equidade do cuidado.
+
+Órgão Responsável 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 0367 - Melhorar o acesso da internet/intranet através da conexão por Unidade de Medida Percentual fibra ótica e aumento de velocidade dos links das unidades de saúde do Estado Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 0500 - Aumentar em 12% cobertura do Serviço de Atendimento Móvel Unidade de Medida Percentual de Urgência e Emergência (SAMU 192) Território Quantidade
+
+0001 - Rio Grande do Norte 3
+
+Total 3
+
+Meta 1041 - Garantir a participação anual de 80% dos profissionais do Unidade de Medida Percentual Serviço de Atendimento Móvel de Urgência e Emergência (SAMU 192), no programa de capacitação permanente Território Quantidade
+
+0001 - Rio Grande do Norte 80
+
+Total 80
+
+Meta 1042 - Assegurar a operacionalização Serviço de Atendimento Móvel Unidade de Medida Percentual de Urgência e Emergência (SAMU 192) Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Meta 1045 - Ampliar e modernizar 100% Serviço de Atendimento Móvel de Unidade de Medida Percentual Urgência e Emergência (SAMU 192) Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Meta 1048 - Regular 100% dos atendimentos aos usuários que Unidade de Medida Percentual necessitem de assistência de tratamento fora do domicilio Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 1050 - Implantar o Núcleo de Serviço Social para aprimorar as ações Unidade de Medida Percentual do tratamento fora de domicílio Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Meta 1051 - Viabilizar a participação de 100% dos profissionais do setor, Unidade de Medida Percentual em eventos de educação permanente Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1052 - Transladar 100% dos usuários que foram a óbito durante Unidade de Medida Percentual tratamento fora de seu domicílio, que tenham sido regulados pela SESAP Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Meta 1058 - Implantar 05 centrais regionais de regulação de exames de Unidade de Medida Percentual média e alta complexidade e regulação de internação hospitalar e custear o Complexo Estadual de Regulação Território Quantidade
+
+0005 - Trairi 1
+
+0007 - Seridó 1
+
+0010 - Mato Grande 1
+
+Total 3
+
+Meta 1059 - Regular 100% dos leitos SUS sob gestão do Estado Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Meta 1060 - Implantar a regulação do acesso para a atenção hospitalar às Unidade de Medida Percentual urgências, em 100% das demandas inseridas no SISREG Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1061 - Aumentar em 20% a captação de doadores de órgãos no Unidade de Medida Percentual Estado Território Quantidade
+
+0001 - Rio Grande do Norte 8
+
+Total 8
+
+Meta 1063 - Fortalecer a Política Estadual de Transplantes de Órgãos, Unidade de Medida Percentual priorizando o fortalecimento da rede pública Território Quantidade
+
+0001 - Rio Grande do Norte 40
+
+Total 40
+
+Meta 1064 - Reestruturar física e tecnologicamente a Central de Unidade de Medida Unidade Transplante Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0258 - Promover a reestruturação e a efetivação da assistência farmacêutica no RN, de forma articulada com as demais esferas de governo, visando garantir a maior disponibilidade e o uso racional dos medicamentos e insumos, o acesso dos usuários e a maior qualificação dos serviços.
+
+Anexo de Metas e Prioridades - 2016 Órgão Responsável 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 0853 - Elaborar e implantar o Plano Estadual da Política e da Gestão Unidade de Medida Percentual da Assistência Farmacêutica Território Quantidade
+
+0001 - Rio Grande do Norte 40
+
+Total 40
+
+Meta 1006 - Apoiar 100% dos municípios do estado, em caráter regional, Unidade de Medida Percentual nas competências no âmbito da Assistência Farmacêutico Território Quantidade
+
+0001 - Rio Grande do Norte 40
+
+Total 40
+
+Meta 1007 - Implantar o Sistema Nacional de Gestão da Assistência Unidade de Medida Percentual Farmacêutica (HORUS), em 100% dos municípios Território Quantidade
+
+0001 - Rio Grande do Norte 40
+
+Total 40
+
+Meta 1010 - Ampliar, adequar e estruturar nas regiões de saúde, o acesso Unidade de Medida Unidade aos Componentes da Assistência Farmacêutica (Básico, Estratégico e Especializado) Território Quantidade
+
+0002 - Terras Potiguaras 3
+
+Total 3
+
+Meta 1011 - Cooperar tecnicamente com 100% dos serviços de farmácia Unidade de Medida Percentual hospitalar da rede estadual Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Objetivo 0267 - Qualificar a Atenção à Saúde, por meio do apoio técnico e financeiro às gestões municipais, visando elevar a resolutividade da Atenção Básica
+
+Órgão Responsável 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 0879 - Prestar apoio institucional no processo de implantação, Unidade de Medida Percentual acompanhamento e qualificação da atenção básica e de ampliação e consolidação da Estratégia Saúde da Família em 100% dos municípios Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1190 - Destinar recursos estaduais para compor o financiamento Unidade de Medida Percentual tripartite da atenção básica a 100% dos municípios Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1191 - Implementar a planificação das ações e monitorar a utilização Unidade de Medida Percentual dos recursos federais da atenção básica transferidos aos municípios Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1192 - Apoiar a Política Estadual de Atenção Básica Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 30
+
+Anexo de Metas e Prioridades - 2016 Total 30
+
+Meta 1193 - Apoiar 100% das regiões de saúde na implantação e Unidade de Medida Percentual efetivação das redes de atenção (cegonha, psicossocial, atenção à pessoa com deficiência, crônicas, urgência e emergência) Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1194 - Coordenar a Rede de Atenção Integral à Saúde do Trabalhador Unidade de Medida Percentual no âmbito estadual Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Meta 1195 - Fortalecer a rede de saúde mental com ênfase na Unidade de Medida Percentual dependência de álcool e outras drogas, por meio do apoio a 100% dos municípios, com monitoramento e avaliação Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1196 - Acompanhar e coordenar a implantação e implementação das Unidade de Medida Percentual Práticas Integrativas e Complementares do SUS, em 100% dos municípios do Estado Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1222 - Promover o intercâmbio de experiências em 100% dos Unidade de Medida Percentual municípios, para disseminar tecnologias e conhecimentos voltados à melhoria dos serviços da atenção básica Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Objetivo 0283 - Fortalecer o Conselho Estadual de Saúde, por meio de sua qualificação, acompanhamento e reestruturação física e tecnológica para a consolidação do Controle Social no âmbito do Sistema Único de Saúde.
+
+Órgão Responsável 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 1016 - Capacitar 3.038 conselheiros de saúde do Estado do RN Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 760
+
+Total 760
+
+Meta 1017 - Reestruturar física e tecnologicamente o Conselho Estadual Unidade de Medida Unidade de Saúde do RN Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1018 - Intensificar o acompanhamento aos 167 Conselhos Unidade de Medida Unidade Municipais de Saúde (CMS’s) e melhorar a interação com o Conselho Nacional de Saúde Território Quantidade
+
+0001 - Rio Grande do Norte 167
+
+Total 167
+
+Meta 1020 - Realizar as Conferências de Saúde e as conferências Unidade de Medida Percentual temáticas deliberadas pela conferência nacional de saúde (saúde do trabalhador, saúde mental, saúde ambiental, etc.)
+
+Anexo de Metas e Prioridades - 2016 Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1021 - Assegurar a participação do Conselho em 100% nas Unidade de Medida Percentual Plenárias Nacional de Conselhos de Saúde Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Meta 1022 - Desenvolver campanha massiva de mídia em defesa do SUS Unidade de Medida Unidade e ampliar a visibilidade, na sociedade, das ações desenvolvidas pelo Conselho Estadual de Saúde Território Quantidade
+
+0001 - Rio Grande do Norte 3
+
+Total 3
+
+Meta 1024 - Apoiar o processo de educação popular com vistas à Unidade de Medida Unidade participação social no SUS, por meio seminários e oficinas anuais Território Quantidade
+
+0001 - Rio Grande do Norte 4
+
+Total 4
+
+Meta 1027 - Implantar as assessorias jurídica, contábil e outras Unidade de Medida Percentual necessárias ligadas diretamente ao Conselho Estadual de Saúde com objetivo de qualificar sua intervenção Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1230 - Realizar 08 seminários estaduais com temas definidos pelo Unidade de Medida Unidade CES/RN, e 02 da Região Nordeste para avaliar as deliberações da Conferência Nacional de Saúde, com o objetivo de aproximar as entidades da sociedade civil na defesa do SUS Território Quantidade
+
+0001 - Rio Grande do Norte 3
+
+Total 3
+
+Objetivo 0288 - Ofertar serviços de reabilitação integrada, articulada e efetiva de forma regionalizada, conforme as políticas do Ministério da Saúde, fortalecendo e garantindo os direitos fundamentais da pessoa com deficiência, contribuindo para melhoria da sua qualidade de vida.
+
+Órgão Responsável 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 1103 - Reestruturar, reformar, modernizar, climatizar e adequar o Unidade de Medida Unidade espaço físico da unidade do Centro Especializado em Reabilitação-CER na capital Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1105 - Manter em 100% a operacionalização dos serviços dos Unidade de Medida Percentual Centros Especializados em Reabilitação Infantil e Adulto Território Quantidade
+
+0002 - Terras Potiguaras 100
+
+Total 100
+
+Meta 1133 - Construir Oficina Ortopédica Fixa Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 1134 - Habilitar o Centro Especializado em Reabilitação-CER para Unidade de Medida Unidade atender pacientes com deficiência visual, doenças raras e fissuras Labiopalatinas Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1135 - Implantar e implementar a Classificação Internacional de Unidade de Medida Unidade Funcionalidade e Incapacidade-CIF Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1136 - Modernizar o Serviço de Arquivo Médico e Estatística - SAME Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1137 - Reestruturar e Implantar a Comissão Interna de Prevenção de Unidade de Medida Percentual Acidentes - CIPA na Rede da SESAP/RN Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Objetivo 0289 - Coordenar a política de sangue do estado, por meio da melhoria dos padrões sanitários, infraestrutura física e do parque tecnológico da hemorrede, visando a garantia da assistência hematológica e hemoterápica aos norteriograndenses.
+
+Órgão Responsável 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 1106 - Reduzir em 20% as devoluções de hemocomponentes dos Unidade de Medida Percentual hospitais localizados na capital e grande Natal Território Quantidade
+
+0002 - Terras Potiguaras 5
+
+Total 5
+
+Meta 1108 - Aumentar em 20% as doações de sangue Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Meta 1109 - Viabilizar a participação de 100% dos profissionais do Setor, Unidade de Medida Percentual em eventos de educação permanente Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1110 - Manter em 100% a operacionalização dos serviços de Unidade de Medida Percentual Hemoterapia e Hematologia Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Objetivo 0291 - Promover a Educação Permanente em Saúde (EPS), por meio do investimento em educação e desenvolvimento profissional, na concepção da gestão participativa, contribuindo para a reorganização e qualificação da produção de serviços nas redes de atenção à saúde (RAS) e da formação profissional de excelência para o SUS.
+
+Órgão Responsável 24000 - Secretaria de Estado da Saúde Pública
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 1119 - Aprovar a Lei da Política Estadual de Educação Permanente Unidade de Medida Unidade em Saúde (PEEPS) do RN até junho de 2016 Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1120 - Aprovar o Regimento de 8 Comissões de Integração Unidade de Medida Unidade Escola-Serviço (CIES Regionais) nas Comissão Intergestores Regionais (CIR) Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0004 - Agreste Litoral Sul 1
+
+0009 - Açu/Mossoró 1
+
+Total 3
+
+Meta 1122 - Expandir o número de programas de residências em áreas Unidade de Medida Unidade médicas, estratégicas, para cursos de Medicina criados pelo MEC/MS, (ped./neonatal ginec., obst., cirurgia, psiq., anestes. em parceria com universidades públicas, particularmente UFRN e/ou UERN Território Quantidade
+
+0001 - Rio Grande do Norte 30
+
+Total 30
+
+Meta 1123 - Credenciar, pelo menos 4 unidades, hospitalares da rede da Unidade de Medida Unidade SESAP como hospitais de ensino pelo MEC/MS Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1124 - Criar o Programa de Residência Multiprofissional na Unidade de Medida Percentual SESAP-RN em parceria com universidades Pública, particularmente UFRN e/ou UERN Território Quantidade
+
+0001 - Rio Grande do Norte 30
+
+Total 30
+
+Meta 1125 - Oferecer turmas exclusivas para servidores em dois cursos de Unidade de Medida Unidade Mestrado Profissionalizante com 60 vagas e um curso de Especialização com 80 vagas, com abrangência para todas as regiões de saúde Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1126 - Oferecer ações de educação permanente e educação Unidade de Medida Percentual profissional para as equipes das RAS conforme necessidades e participação em eventos, atingindo pelo menos 15% dos servidores por ano Território Quantidade
+
+0001 - Rio Grande do Norte 15
+
+Total 15
+
+Meta 1250 - Retomar as discursões da mesa de negociação no âmbito do Unidade de Medida Unidade SUS Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1348 - Articular a implantação de cursos técnicos profissionalizantes Unidade de Medida Percentual nas áreas prioritária do SUS, através dos Institutos Federais e Escolas Técnicas Públicas Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Anexo de Metas e Prioridades - 2016 Total 25
+
+Meta 1350 - Assegurar conteúdos voltados para fortalecimento do controle Unidade de Medida Percentual social e gestão participativa do SUS em todos os Cursos e Modalidades de Educação Permanente destinados aos Trabalhadores do SUS Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Objetivo 0292 - Fortalecer as políticas deregulação do trabalho no SUS, por meio de inovações práticas de valorização e atenção ao trabalhador da saúde e apoio à gestão participativa e descentralizada, visando à organização dos serviços e de novos modos de produção e circulação do saber, buscando a qualidade da assistência à população.
+
+Órgão Responsável 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 1127 - Realizar provimento de 700 cargos vagos e de 3.420 cargos Unidade de Medida Unidade para reposição do déficit de pessoal, por meio da realização de concurso público emergencial Território Quantidade
+
+0001 - Rio Grande do Norte 700
+
+Total 700
+
+Meta 1128 - Realizar o aperfeiçoamento de 100% das ferramentas de Unidade de Medida Percentual gestão do trabalho (dimensionamento de pessoal, controle de frequência) de servidores e serviços, norteadas pelos princípios e diretrizes da Política Nacional de Humanização Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1129 - Fortalecer e implementar a política de saúde do trabalhador no Unidade de Medida Unidade âmbito da SESAP-RN, contemplando a criação de Núcleo de Assistência à Saúde do Trabalhador (NAST) em todas as unidades da rede Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1130 - Aperfeiçoar a Política de Valorização do Servidor, contemplando Unidade de Medida Unidade a revisão da carreira e da avaliação de desempenho Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1131 - Publicar documento com descrição dos processos e Unidade de Medida Unidade procedimentos da área de gestão de pessoas e implantar sistema integrado de informação Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1132 - Implementar e fortalecer o apoio institucional nos princípios e Unidade de Medida Unidade diretrizes da Política Nacional de Humanização Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1251 - Realizar a digitalização dos arquivos institucionais Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 1252 - Implementar e garantir a operacionalização do Programa de Unidade de Medida Percentual Qualidade de Vida e Saúde no Trabalho/CRH no âmbito da SESAP-RENAST/MS assegurando parceria com a Saúde do Trabalhador Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1253 - Rever o organograma da SESAP com vistas às adequações Unidade de Medida Unidade das demandas do SUS Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0296 - Reestruturar e operacionalizar a Rede de Atenção à Saúde através do fortalecimento da atenção hospitalar e especializada de acordo com as diretrizes da regionalização, definindo perfis, adequação organizacional,física e tecnológica das Unidades, ampliando o acesso e garantindo a assistência com eficiência e eficácia dos resultados.
+
+Órgão Responsável 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 1182 - Implantar, construir e reestruturar a área física e tecnológica Unidade de Medida Percentual em 100% das unidades hospitalares estratégicas e de referência de acordo com o desenho da Rede de Atenção à Saúde loco-regional Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1183 - Implantar a contratualização entre a gestão e os serviços em Unidade de Medida Unidade 15 hospitais estratégicos sob gestão estadual Território Quantidade
+
+0002 - Terras Potiguaras 2
+
+0007 - Seridó 1
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 1
+
+0010 - Mato Grande 1
+
+Total 6
+
+Meta 1184 - Implantar (habilitar e qualificar) 52 leitos de UTI, para suprir a Unidade de Medida Unidade necessidadeda Rede de Atenção à Saúde loco-regional Território Quantidade
+
+0001 - Rio Grande do Norte 13
+
+Total 13
+
+Meta 1185 - Implantar (habilitar e qualificar) 287 leitos de Cuidados Unidade de Medida Unidade Prolongados, para suprir a necessidade da Rede de Atenção à Saúde loco-regional Território Quantidade
+
+0001 - Rio Grande do Norte 72
+
+Total 72
+
+Meta 1186 - Fomentar a implantação do transporte sanitário em parceria Unidade de Medida Unidade com a sétima e a segunda regiões de saúde Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 1187 - Rever a quantidade e definir o perfil das 26 unidades Unidade de Medida Unidade hospitalares sob gestão estadual Território Quantidade
+
+0002 - Terras Potiguaras 3
+
+0007 - Seridó 2
+
+Anexo de Metas e Prioridades - 2016 0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 1
+
+0010 - Mato Grande 1
+
+Total 8
+
+Meta 1188 - Assegurar a operacionalização de 100% das unidades Unidade de Medida Percentual hospitalares e de referência sob gestão estadual Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Meta 1189 - Expandir, implementar e operacionalizar o Serviço de Atenção Unidade de Medida Percentual Domiciliar, buscando fortalecer e ampliar a municipalização dos serviços Território Quantidade
+
+0001 - Rio Grande do Norte 30
+
+Total 30
+
+Objetivo 0297 - Fortalecer a Promoção e a Vigilância em Saúde por meio das ações intra, intersetoriais e interinstitucionais, visando reduzir os riscos e agravos à saúde da população.
+
+Órgão Responsável 24000 - Secretaria de Estado da Saúde Pública
+
+Meta 1197 - Implantar a Rede de Comunicação para Promoção da Saúde Unidade de Medida Unidade nas 8 Regiões de Saúde Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 1198 - Ampliar de 9 para 19 o número de municípios notificadores de Unidade de Medida Unidade intoxicações exógenas, entre os prioritários do Plano de Ação, com o intuito de atingir o percentual de 100% Território Quantidade
+
+0001 - Rio Grande do Norte 3
+
+Total 3
+
+Meta 1199 - Reestruturar as 8 Centrais de Rede de Frio Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0007 - Seridó 1
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 1
+
+Total 4
+
+Meta 1200 - Estruturar o serviço de vigilância dos acidentes de transporte Unidade de Medida Unidade terrestre em 12 municípios do Estado Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0004 - Agreste Litoral Sul 1
+
+0009 - Açu/Mossoró 1
+
+Total 3
+
+Meta 1201 - Implementar em 100% dos municípios a prática de notificação Unidade de Medida Percentual contínua dos casos de violência interpessoal/autoprovocada Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1202 - Aumentar para 80% o encerramento oportuno dos casos de Unidade de Medida Percentual doenças de Notificação compulsória Território Quantidade
+
+Anexo de Metas e Prioridades - 2016 0001 - Rio Grande do Norte 20
+
+Total 20
+
+Meta 1203 - Aumentar para 90% a proporção de óbitos maternos e MIF Unidade de Medida Percentual investigados no RN Território Quantidade
+
+0001 - Rio Grande do Norte 20
+
+Total 20
+
+Meta 1204 - Aumentar para 70% as investigações fetais e infantis RN Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 1205 - Ampliar em 30% a cobertura vacinal do calendário básico de Unidade de Medida Percentual vacinas em menores de 1 ano Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 1206 - Ampliar para 85% a cura dos casos novos de tuberculose Unidade de Medida Percentual pulmonar bacilífera no Estado Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 1207 - Ampliar para 35% o número de análises realizadas em Unidade de Medida Percentual amostra de água para o consumo humano quanto aos parâmetros coliforme total, cloro residual livre e turbidez Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Meta 1208 - Reduzir em 28% o coeficiente de prevalência da hanseníase Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 7
+
+Total 7
+
+Meta 1209 - Reduzir em 50% o número absoluto de óbitos por dengue Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Meta 1210 - Aumentar para 85%, a cobertura de exames citopatológicos do Unidade de Medida Percentual colo do útero entre mulheres de 25 a 64 anos Território Quantidade
+
+0001 - Rio Grande do Norte 15
+
+Total 15
+
+Meta 1211 - Aumentar para 85%, a cobertura de exames de mamografia de Unidade de Medida Percentual rastreamento entre mulheres de 50 a 69 anos Território Quantidade
+
+0001 - Rio Grande do Norte 15
+
+Total 15
+
+Meta 1213 - Implantar metodologia de análises de detecção de resíduos e Unidade de Medida Unidade outros contaminantes de grãos, minerais e laticínios na II e VII regiões de saúde Território Quantidade
+
+0009 - Açu/Mossoró 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 1214 - Viabilizar a participação de 100% dos profissionais do LACEN Unidade de Medida Percentual em eventos de educação permanente relacionados a área Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1215 - Operacionalizar 100% as ações e serviços da rede de Unidade de Medida Percentual laboratórios de saúde pública do Estado Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1216 - Realizar e monitorar inspeções sanitárias dos produtos e Unidade de Medida Percentual serviços de saúde, em 80% dos municípios, cujas ações ainda não foram descentralizadas Território Quantidade
+
+0001 - Rio Grande do Norte 20
+
+Total 20
+
+Meta 1217 - Realizar o monitoramento e avaliação da descentralização das Unidade de Medida Percentual ações de vigilância para o gerenciamento do risco sanitário em 100% dos municípios do Estado Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1218 - Implementar ações de promoção e proteção, recuperação e Unidade de Medida Percentual reabilitação da saúde de 100% dos trabalhadores submetidos aos riscos e agravos advindos das condições de trabalho Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1219 - Coordenar as ações de vigilância ambiental, no âmbito do Unidade de Medida Percentual Estado, relacionadas aos fatores de risco à saúde humana, incluindo o monitoramento da água de consumo humano e contaminantes com importância em saúde pública Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1220 - Reduzir os riscos e agravos à saúde da população LGBT, por Unidade de Medida Percentual meio do apoio as ações de promoção e vigilância em saúde, garantindo o recorte étnico/racial, de gênero e geracional Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1221 - Implementar as ações de vigilância, prevenção e controle das Unidade de Medida Percentual DST/AIDS e Hepatites Virais, no âmbito do Estado Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1349 - Implantar Comitê de Articulação Intersetorial e Interinstitucional Unidade de Medida Percentual do SUS/RN Território Quantidade
+
+0001 - Rio Grande do Norte 97
+
+Total 97
+
+Anexo de Metas e Prioridades - 2016 Programa 0022 - DESENVOLVIMENTO DA CULTURA
+
+Objetivo 0295 - Promover o desenvolvimento sociocultural e científico do Estado, mediante colaboração com o poder público, através da realização de oficinas, cursos de capacitação e seminários, afim de promover a manutenção e documentação dos bens culturais móveis e imóveis do Estado.
+
+Órgão Responsável 18201 - Fundação José Augusto
+
+Meta 1171 - Ofertar 75 oficinas de formação artística para crianças Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1172 - Ofertar 70 oficinas de formação artística para jovens Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1173 - Ofertar 40 oficinas de formação artística para adultos Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 1174 - Ofertar 40 oficinas de formação artístitca para as profissões Unidade de Medida Unidade das artes Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 1175 - Ofertar 10 cursos de carpintaria e serralheria para cenógrafos Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 4
+
+Total 4
+
+Meta 1176 - Ofertar 12 cursos de engenharia de som para apresentações Unidade de Medida Unidade musicais e artes cênicas Território Quantidade
+
+0001 - Rio Grande do Norte 4
+
+Total 4
+
+Meta 1177 - Ofertar 12 cursos de operação de luz Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 4
+
+Total 4
+
+Meta 1178 - Ofertar 20 cursos de eletricistas para eventos artísticos Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 6
+
+Total 6
+
+Meta 1179 - Ofertar 20 cursos de técnicos de montagem e desmontagem Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 6
+
+Total 6
+
+Meta 1180 - Ofertar 70 cursos especiais para linguagens artísticas Unidade de Medida Unidade
+
+Território Quantidade
+
+Anexo de Metas e Prioridades - 2016 0001 - Rio Grande do Norte 20
+
+Total 20
+
+Meta 1181 - Ofertar 14 Seminários de Vivências Artístiticas Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 3
+
+Total 3
+
+Objetivo 0298 - Estruturar o Sistema Estadual de Cultura e ampliar a participação e o controle social na proposição, implementação e fiscalização de políticas de cultura do Estado, através da abertura de canais de diálogo com a sociedade visando o aperfeiçoamento da gestão de cultura.
+
+Órgão Responsável 18201 - Fundação José Augusto
+
+Meta 1240 - Realizar Conferências Estaduais de Cultura Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 1241 - Criar fóruns dos setoriais de cultura Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 4
+
+Total 4
+
+Objetivo 0299 - Promover a Capacitação e a Profissionalização dos trabalhadores/as das artes e o acesso do cidadão a vivência da cultura, através da implantação do Programa de Iniciação Artística (PIA).
+
+Órgão Responsável 18201 - Fundação José Augusto
+
+Meta 1243 - Ofertar cursos, oficinas e seminários para os trabalhadores Unidade de Medida Unidade das artes Território Quantidade
+
+0002 - Terras Potiguaras 5
+
+0004 - Agreste Litoral Sul 5
+
+0005 - Trairi 5
+
+0007 - Seridó 5
+
+0009 - Açu/Mossoró 5
+
+0010 - Mato Grande 5
+
+0011 - Sertão do Apodi 5
+
+Total 35
+
+Meta 1244 - Promover oficinas,seminários e vivências de arte e cultura de Unidade de Medida Unidade estímulo a construção do conhecimento como forma de transformação a sua realidade Território Quantidade
+
+0002 - Terras Potiguaras 5
+
+0004 - Agreste Litoral Sul 5
+
+0005 - Trairi 5
+
+0006 - Potengi 5
+
+0007 - Seridó 5
+
+0008 - Alto Oeste 5
+
+0010 - Mato Grande 5
+
+Total 35
+
+Anexo de Metas e Prioridades - 2016
+
+Objetivo 0300 - Preservar e promover o patrimônio imaterial e a representação simbólica da cultura, através do financiamento à iniciativas culturais e do fomento da economia, visando fortalecer a interação entre cidadão e arte.
+
+Órgão Responsável 18201 - Fundação José Augusto
+
+Meta 1245 - Realizar a manutenção dos grupos artísticos de natureza Unidade de Medida Unidade pública do Estado Território Quantidade
+
+0001 - Rio Grande do Norte 6
+
+Total 6
+
+Meta 1246 - Realizar cursos para fomentar o empreendedorismo cultural Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 6
+
+Total 6
+
+Meta 1248 - Realizar apresentações culturais em todos os territórios do RN Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 50
+
+0003 - Sertão Central, Cabugi e Litoral Norte 25
+
+0004 - Agreste Litoral Sul 25
+
+0005 - Trairi 25
+
+0006 - Potengi 25
+
+0007 - Seridó 25
+
+0008 - Alto Oeste 15
+
+0009 - Açu/Mossoró 40
+
+0010 - Mato Grande 25
+
+0011 - Sertão do Apodi 25
+
+Total 280
+
+Meta 1255 - Promover ações de intercâmbio cultural através de festivais, Unidade de Medida Unidade seminários, mostras e outros eventos Território Quantidade
+
+0001 - Rio Grande do Norte 60
+
+Total 60
+
+Meta 1256 - Promover editais culturais no Estado Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 1257 - Fomentar e manter os pontos de cultura do RN Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 43
+
+Total 43
+
+Objetivo 0301 - Modernizar e ampliar a rede de bens, equipamentos culturais e recursos humanos através da construção, conservação, manutenção e aparelhamento das estruturas físicas e da melhoria de pessoal, de modo a garantir condições de funcionamento da gestão da cultura.
+
+Órgão Responsável 18201 - Fundação José Augusto
+
+Meta 1258 - Manter e restaurar prédios históricos e/ou tombados, Unidade de Medida Unidade equipamentos, acervos e monumentos culturais Território Quantidade
+
+Anexo de Metas e Prioridades - 2016 0001 - Rio Grande do Norte 5
+
+Total 5
+
+Meta 1259 - Reformar e modernizar a Biblioteca Pública Câmara Cascudo Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 1260 - Restaurar e adquirir novos títulos para o acervo da Biblioteca Unidade de Medida Unidade Pública Câmara Cascudo Território Quantidade
+
+0002 - Terras Potiguaras 20.000
+
+Total 20.000
+
+Meta 1263 - Realizar encontros de capacitação e intercâmbio dos agentes Unidade de Medida Unidade de cultura Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1264 - Capacitar e qualificar os servidores da Fundação José Augusto Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 80
+
+Total 80
+
+Objetivo 0302 - Apoiar e fomentar o Turismo Cultural do RN através da elaboração, estruturação e mapeamento de bens e roteiros culturais do Estado, de modo a consolidar seu patrimônio cultural.
+
+Órgão Responsável 18201 - Fundação José Augusto
+
+Meta 1266 - Mapear bens e patrimônios culturais do Estado Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Anexo de Metas e Prioridades - 2016 Programa 0023 - ESPORTE E LAZER
+
+Objetivo 0280 - Despontar o Rio Grande do Norte no esporte de alto rendimento através do fomento a participação de alunos-atletas advindos em especial de escolas públicas em eventos esportivos, possibilitando a descoberta de talentos, bem como através do apoio as entidades esportivas representativas, assegurando a qualidade técnica de seus praticantes nos eventos nacionais e internacionais.
+
+Órgão Responsável 33000 - Secretaria do Estado do Esporte e do Lazer
+
+Meta 0989 - Apoiar o esporte de rendimento através das entidades Unidade de Medida Unidade representativas das diversas modalidades por meio da participação e realização de eventos Território Quantidade
+
+0001 - Rio Grande do Norte 40
+
+Total 40
+
+Meta 1288 - Promover a participação de atletas escolares nos esportes Unidade de Medida Unidade olímpicos e paraolímpicos Território Quantidade
+
+0001 - Rio Grande do Norte 5.000
+
+Total 5.000
+
+Meta 1289 - Promover eventos esportivos educacionais Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Meta 1290 - Implantar projetos de iniciação esportiva nos municípios do Unidade de Medida Unidade RN Território Quantidade
+
+0001 - Rio Grande do Norte 20
+
+Total 20
+
+Meta 1291 - Conceder bolsa esporte para atletas e paratletas de alto Unidade de Medida Unidade rendimento Território Quantidade
+
+0001 - Rio Grande do Norte 200
+
+Total 200
+
+Meta 1292 - Construir o Centro de Treinamento Esportivo de alto Unidade de Medida Unidade rendimento Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1294 - Implantar o Sistema Estadual de Gestão do Esporte e do lazer Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0305 - Instituir no RN o Sistema Estadual de Esporte e lazer, para possibilitar a estruturação das ações governamentais nesta área, através da implantação de políticas públicas sólidas, voltadas a promover a universalização da prática esportiva e do lazer, promovendo a inserção social de crianças, jovens e adolescentes, adultos, idosos, pessoas em situação de vulnerabilidade social e marginalizadas.
+
+Órgão Responsável 33000 - Secretaria do Estado do Esporte e do Lazer
+
+Meta 1295 - Realizar eventos estaduais de esporte, recreação e lazer Unidade de Medida Unidade (Fóruns, Seminários, Encontros), que promovam a conscientização do papel do esporte e do lazer na sociedade Território Quantidade
+
+0001 - Rio Grande do Norte 12
+
+Anexo de Metas e Prioridades - 2016 Total 12
+
+Meta 1296 - Realizar eventos de esporte, recreação e lazer para a Unidade de Medida Unidade população indígena Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1297 - Implantar projetos de esporte, recreação e lazer em Unidades Unidade de Medida Unidade do Sistema Prisional Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1298 - Instalar campos de areia com função polidesportiva Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 45
+
+Total 45
+
+Meta 1299 - Realizar e/ou apoiar eventos esportivos, recreativos e de lazer, Unidade de Medida Unidade bem como de esporte amador Território Quantidade
+
+0001 - Rio Grande do Norte 40
+
+Total 40
+
+Meta 1300 - Implantar academias para a 3ª idade Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 33
+
+Total 33
+
+Meta 1301 - Apoiar e incentivar a instalação dos Conselhos Municipais de Unidade de Medida Unidade Esporte e Lazer Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 1302 - Realizar eventos de esporte e lazer para inclusão social de Unidade de Medida Unidade jovens e adolescentes expostos a violência e em cumprimento de medidas socioeducativas Território Quantidade
+
+0001 - Rio Grande do Norte 3
+
+Total 3
+
+Meta 1304 - Realizar eventos de esporte, recreação e lazer de inclusão Unidade de Medida Unidade social para idosos e pessoas com deficiência Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 1311 - Implantar Praças da Juventude Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Anexo de Metas e Prioridades - 2016 Programa 0024 - HABITAÇÃO
+
+Objetivo 0260 - Promover o acesso a moradia digna através da construção, reforma e ampliação de unidades habitacionais visando a melhoria da qualidade de vida da população e a redução do déficit habitacional.
+
+Órgão Responsável 26203 - Companhia Estadual de Habitação e Desenvolvimento Urbano
+
+Meta 0839 - Adquirir lotes ou terrenos para a construção de Unidades Unidade de Medida Unidade Habitacionais Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 0840 - Legalizar lotes e terrenos através da Regularização Fundiária Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 0841 - Construir 40.000 Unidades Habitacionais Urbanas e Rurais Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 10.000
+
+Total 10.000
+
+Meta 0845 - Reformar ou ampliar 20.000 moradias para famílias de baixa Unidade de Medida Unidade renda Território Quantidade
+
+0001 - Rio Grande do Norte 5.000
+
+Total 5.000
+
+Meta 0849 - Ampliar e modernizar a estrutura física e tecnológica da Unidade de Medida Unidade Companhia Estadual de Habitação e Desenvolvimento Urbano Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016 Programa 0025 - SEGURANÇA ALIMENTAR E NUTRICIONAL
+
+Objetivo 0253 - Ampliar as condições de acesso a produção e ao consumo de alimentos, fortalecendo as cadeias e arranjos produtivos com diferentes formas de agregação de valor por meio da agroindustrialização, visando a segurança alimentar e nutricional com inclusão social pela geração de ocupaçao e renda.
+
+Órgão Responsável 17202 - Instituto de Assistência Técnica e Extensão Rural
+
+Meta 0875 - Prestar serviços de Assistência Técnica e Extensão Rural - Unidade de Medida Unidade ATER aos beneficiários produtores capacitando-os na produção agropecuária Território Quantidade
+
+0002 - Terras Potiguaras 151
+
+0003 - Sertão Central, Cabugi e Litoral Norte 454
+
+0004 - Agreste Litoral Sul 908
+
+0005 - Trairi 1.362
+
+0006 - Potengi 1.074
+
+0007 - Seridó 3.027
+
+0008 - Alto Oeste 3.783
+
+0009 - Açu/Mossoró 2.227
+
+0010 - Mato Grande 1.966
+
+0011 - Sertão do Apodi 181
+
+Total 15.133
+
+Objetivo 0029 - Promover o aproveitamento integral dos alimentos hortifruti e a melhoria na alimentação de populações carentes, através de Rede de Parceiros em Banco de Alimentos e Formação de Agentes em Cozinha Inteligente Popular, visando o fortalecimento das ações a Segurança Alimentar e Nutricional – SAN.
+
+Órgão Responsável 17205 - Central de Abastecimento
+
+Meta 0108 - Atender com alimento e conhecimento em Segurança Unidade de Medida Unidade Alimentar e Nutricional as populações mais carentes dos municípios da Região Metropolitana de Natal Território Quantidade
+
+0002 - Terras Potiguaras 5
+
+0004 - Agreste Litoral Sul 4
+
+0006 - Potengi 1
+
+0010 - Mato Grande 2
+
+Total 12
+
+Meta 1310 - Atender com alimento e conhecimento em Segurança Unidade de Medida Unidade Alimentar e Nutricional as populações mais carentes dos municípios de menor IDH do RN Território Quantidade
+
+0001 - Rio Grande do Norte 70
+
+Total 70
+
+Objetivo 0165 - Promover a segurança alimentar através de ações que garantam o acesso ao alimento saudável e de qualidade e à universalização da água, na perspectiva do direito humano à alimentação adequada, através da implementação do plano estadual de segurança alimentar nutricional para a população em vulnerabilidade social.
+
+Órgão Responsável 26000 - Secretaria de Estado do Trabalho, da Habitação e da Assistência Social
+
+Meta 0431 - Readequar unidades de Restaurantes Populares distribuidos Unidade de Medida Unidade municípios inseridos em todos os territórios do RN Território Quantidade
+
+0002 - Terras Potiguaras 6
+
+Anexo de Metas e Prioridades - 2016 0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0004 - Agreste Litoral Sul 3
+
+0005 - Trairi 1
+
+0006 - Potengi 1
+
+0007 - Seridó 3
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 5
+
+0010 - Mato Grande 2
+
+0011 - Sertão do Apodi 1
+
+Total 24
+
+Meta 0460 - Implantar novos Restaurantes Populares Unidade de Medida Unidade
+
+Território Quantidade
+
+0009 - Açu/Mossoró 1
+
+Total 1
+
+Meta 0475 - Readequar unidades do Café do Trabalhador em municípios Unidade de Medida Unidade do RN Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0009 - Açu/Mossoró 2
+
+0010 - Mato Grande 2
+
+Total 6
+
+Meta 0565 - Readequar o Programa de Cisternas em municípios inseridos Unidade de Medida Unidade em todos os territórios do RN Território Quantidade
+
+0003 - Sertão Central, Cabugi e Litoral Norte 7
+
+0004 - Agreste Litoral Sul 12
+
+0005 - Trairi 1
+
+0006 - Potengi 9
+
+0007 - Seridó 21
+
+0008 - Alto Oeste 24
+
+0009 - Açu/Mossoró 8
+
+0010 - Mato Grande 14
+
+0011 - Sertão do Apodi 12
+
+Total 108
+
+Meta 0577 - Implantar o Programa Cidadão sem fome em municípios do Unidade de Medida Unidade RN Território Quantidade
+
+0002 - Terras Potiguaras 2
+
+0004 - Agreste Litoral Sul 1
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 1
+
+Total 5
+
+Meta 0581 - Implantar o Programa de Cisternas em municípios do Estado Unidade de Medida Unidade
+
+Território Quantidade
+
+0003 - Sertão Central, Cabugi e Litoral Norte 5
+
+0005 - Trairi 5
+
+0006 - Potengi 5
+
+0009 - Açu/Mossoró 5
+
+Total 20
+
+Meta 0587 - Ampliar o Programa de distribuição de sopas Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 2
+
+Anexo de Metas e Prioridades - 2016 0004 - Agreste Litoral Sul 1
+
+0009 - Açu/Mossoró 1
+
+Total 4
+
+Meta 0622 - Institucionalizar em todo o Estado o Sistema Nacional de Unidade de Medida Unidade Segurança Alimentar e Nutricional (SISAN) Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1088 - Considerar, no atendimento dos programas de segurança Unidade de Medida Unidade alimentar e nutricional, o recorte quanto aos povos indígenas, povos de matriz africana, quilombolas, ciganos, pescadores e pescadoras artesanais e demais comunidades tradicionais Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016 Programa 0026 - DESENVOLVIMENTO TERRITORIAL E ENFRENTAMENTO DA POBREZA
+
+Objetivo 0171 - Aumentar a segurança alimentar, o acesso à infraestrutura produtiva e o acesso a mercados em conformidade com o acordo de empréstimo do Banco Mundial para o Programa RN Sustentável.
+
+Órgão Responsável 19000 - Secretaria de Estado do Planejamento e das Finanças
+
+Meta 0442 - Implementar Subprojetos Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 229
+
+Total 229
+
+Meta 0446 - Implementar Investimentos de Desenvolvimento Regional Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 0451 - Apoiar o Fortalecimento da Governança Local/Territorial Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 6.000
+
+Total 6.000
+
+Objetivo 0254 - Promover ações que contribuam com o desenvolvimento dos dez territórios que formam o Estado do RN, respeitando e valorizando suas especificidades econômicas locais e culturais, trabalhando o desenvolvimento de uma política de economia solidária e da inclusão sócio produtiva, pensando na micro região como agentes promotores do desenvolvimento, contribuindo assim para o combate à pobreza extrema. Órgão Responsável 26000 - Secretaria de Estado do Trabalho, da Habitação e da Assistência Social
+
+Meta 0778 - Implantar um programa de coleta seletiva nos órgãos Unidade de Medida Unidade governamentais da administração direta e indireta Território Quantidade
+
+0002 - Terras Potiguaras 27
+
+Total 27
+
+Meta 1095 - Considerar, nos programas e serviços de enfretamento da Unidade de Medida Unidade pobreza, o recorte quanto aos povos indígenas, povos de matriz africana, quilombolas, ciganos, pescadores e pescadoras artesanais e demais comunidades tradicionais Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016 Programa 0027 - JUSTIÇA E CIDADANIA
+
+Objetivo 0164 - Ampliar a presença permanente da Defensoria Pública no território do Estado do Rio Grande do Norte e expandir a estrutura já existente, por meio de investimento em infraestrutura, tecnologia, mão de obra e capacitação, com o fito de atender aos ditames da Emenda Constitucional 80/2014
+
+Órgão Responsável 05000 - Defensoria Pública Geral do Estado
+
+Meta 0493 - Expandir a presença permanente da Defensoria Pública para Unidade de Medida Ano 40 (quarenta ) unidades jurisdicionais do Estado do Rio Grande do Norte até 2019 Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 0497 - Especializar a eficácia dos serviços, buscando elevar em 60% Unidade de Medida Percentual o número atual de atendimentos diretos anuais realizados pela Defensoria Território Quantidade
+
+0001 - Rio Grande do Norte 15
+
+Total 15
+
+Objetivo 0006 - Promover o direito da Pessoa Com Deficiência – PCD em todo o Estado, através de articulação com as demais Secretarias e entidades ligadas ao tema, buscando parcerias, para garantir a inclusão social em todos os níveis de acessibilidade.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0015 - Reestruturar e ampliar o núcleo de informações da CORDE no Unidade de Medida Unidade Estado Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0007 - Seridó 1
+
+0009 - Açu/Mossoró 1
+
+0010 - Mato Grande 1
+
+Total 4
+
+Meta 1268 - Implantar residências inclusivas públicas para jovens e Unidade de Medida Unidade adultos com deficiência Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Objetivo 0010 - Garantir a população potiguar ao acesso programa de erradicação o sub-registro civil de nascimento e do acesso da população à documentação básica, para o pleno exercício da cidadania brasileira.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0019 - Realizar palestras e capacitações com os operadores de Unidade de Medida Unidade direitos humanos e a população em geral Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Anexo de Metas e Prioridades - 2016
+
+Objetivo 0011 - Garantir a proteção e o resgate dos direitos humanos do povo potiguar, por meio da criação do centro de referência e atendimento em direitos humanos, da implantação do plano estadual de direitos humanos da população LGBT e do acesso aos programas de proteção.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0017 - Atender as crianças, adolescentes, vítimas e testemunhas Unidade de Medida Percentual ameaçadas Território Quantidade
+
+0001 - Rio Grande do Norte 97
+
+Total 97
+
+Meta 0021 - Atender pessoas para a promoção, proteção, prevenção e Unidade de Medida Unidade resgate dos direitos humanos Território Quantidade
+
+0001 - Rio Grande do Norte 1.000
+
+Total 1.000
+
+Meta 0023 - Elaborar o Plano Estadual das Políticas Públicas LGBTs Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0013 - Realizar estudos, pesquisas, conferências estaduais e monitoramento dos grupos ligados às minorias, para melhorar os atendimentos dos usuários nas áreas ligadas aos Direitos Humanos.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0026 - Promover palestras, seminários, diálogos abertos, sobre as Unidade de Medida Unidade temáticas de Direitos Humanos Território Quantidade
+
+0001 - Rio Grande do Norte 4
+
+Total 4
+
+Objetivo 0014 - Garantir condições ao direitos básicos as pessoas com privação de liberdade, a partir da implementação contínua de métodos de assistência a educação, profissionalização e saúde do apenado, fortalecendo o cumprimento da pena e tornando-os aptos ao convívio na sociedade.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0029 - Implantar em 100% das penitenciárias, cadeias públicas e Unidade de Medida Percentual centros de detenção provisória Unidades Básicas de Sáude - UBS Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 0030 - Ampliar o ensino profissionalizante nas unidades prisionais Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 0031 - Aparelhar unidades prisionais com laboratório de informática e Unidade de Medida Unidade de ensino profissionalizante Território Quantidade
+
+0002 - Terras Potiguaras 2
+
+0004 - Agreste Litoral Sul 2
+
+Anexo de Metas e Prioridades - 2016 0010 - Mato Grande 1
+
+Total 5
+
+Meta 0032 - Implantar unidades da APAC Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Objetivo 0018 - Oferecer de forma integrada nas Centrais do Cidadão serviços públicos essenciais, com atendimento de qualidade aos cidadãos do RN.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0039 - Implantar 3 novas Centrais do Cidadão Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 0043 - Adequar as Centrais do Cidadão em conformidade com as Unidade de Medida Percentual normas de acessibiliade Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 0044 - Viabilizar capacitação continuada dos colaboradores das Unidade de Medida Percentual Centrais do Cidadão Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Objetivo 0019 - Ampliar e melhorar o atendimento ao consumidor, promovendo a educação para o consumo através da reestruturação e criação de novas unidades do Procon/RN, ampliando as formas de atendimento e desenvolvendo a política estadual de defesa do consumidor.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0047 - Abrir unidades de atendimento ao consumidor Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 0048 - Ampliar o número de atendimentos do Procon/RN Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Objetivo 0027 - Garantir ações afirmativas com intuito de planejar, executar, capacitar e promover políticas públicas estaduais, municipais e federais em prol da igualdade racial do RN promovendo a justiça social e o desenvolvimento sustentável centrado nas comunidades e povos tradicionais.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0061 - Reestruturar e ampliar a Coordenadoria Estadual de Unidade de Medida Unidade Promoção de Política da Igualdade Racial – COEPPIR Território Quantidade
+
+Anexo de Metas e Prioridades - 2016 0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 0064 - Realizar eventos ligados a promoção da igualdade racial Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 4
+
+Total 4
+
+Meta 0065 - Promover mapeamento em todo o território Potiguar dos povos Unidade de Medida Unidade tradicionais e de matriz africana Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1032 - Cadastrar no SICAB - Cadastro Nacional todos os artesãos do Unidade de Medida Percentual RN no período de 2016 a 2019 Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Anexo de Metas e Prioridades - 2016 Programa 0028 - AUTONOMIA E EMANCIPAÇÃO DA JUVENTUDE
+
+Objetivo 0049 - Garantir as condições políticas, administrativas e estruturais para o planejamento, a execução, o monitoramento e a avaliação da agenda de governo da SEJURN em todo o território do Rio Grande do Norte.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0137 - Aparelhar a SEJURN com mobiliário e equipamentos Unidade de Medida Unidade eletroeletrônicos, de informática e audiovisual Território Quantidade
+
+0001 - Rio Grande do Norte 30
+
+Total 30
+
+Meta 0138 - Adquirir veículos de passeio e transporte coletivo Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 3
+
+Total 3
+
+Meta 0156 - Promover e operacionalizar a Comunicação Institucional da Unidade de Medida Unidade SEJURN através da produção de conteúdos em diversas mídias, da divulgação jornalística e promoção de campanhas Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Meta 1317 - Estruturar, reformar, adaptar, ampliar e readequar espaços Unidade de Medida Unidade físicos para funcionamento das atividades da SEJURN Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 1318 - Instituir formalmente a Secretaria de Juventude do Rio Grande Unidade de Medida Unidade do Norte com autonomia administrativa e financeira Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0144 - Elaborar e implementar o Plano de Prevenção à Violência contra a Juventude Negra do RN: Juventude Viva para criar, articular e integrar políticas, programas, projetos e ações voltadas para a prevenção da violência letal contra jovens negros.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0352 - Realizar eventos para discussão sobre as temáticas da Unidade de Medida Unidade Juventude, direitos e violência conta os jovens negros com grupos juvenis, organizações civis, conselheiros e gestores do RN Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0354 - Implantar o Comitê Gestor Estadual do Plano Juventude Viva Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0363 - Realizar campanhas de divulgação sobre as questões Unidade de Medida Unidade relacionadas à violência contra jovens e racismo institucional Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Anexo de Metas e Prioridades - 2016 Total 1
+
+Meta 0366 - Apoiar a atuação da Rede Juventude Viva enquanto espaço de Unidade de Medida Unidade participação da sociedade civil na formulação, implementação, monitoramento e avaliação das ações do Plano Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 1319 - Promover campanhas e eventos de sensibilização da opinião Unidade de Medida Unidade pública sobre a banalização da violência contra jovens promovendo a cultura de paz, a valorização da vida da juventude, a superação do racismo e a garantia dos direitos fundamentais Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1320 - Realizar diagnóstico territorial da violência letal contra jovens Unidade de Medida Percentual negros no Rio Grande do Norte identificando os principais fatores de vulnerabilidade e exposição à essa violência Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 1321 - Instituir e estruturar os Núcleos de Articulação Territorial do Unidade de Medida Unidade Plano Juventude Viva nas 10 localidades que apresentar as piores taxas de violência letal do RN Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 1322 - Assessorar os municípios com as piores taxas de violência Unidade de Medida Unidade letal contra jovens negros na adesão ao Plano Juventude Viva e na elaboração e implementação do plano local Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Meta 1323 - Estruturar e adequar espaços físicos para execução das Unidade de Medida Unidade ações e atividades de cultura, esporte, lazer e capacitação do Plano Juventude Viva Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0148 - Promover os direitos e a efetivação das Políticas Públicas de Juventude através da criação de espaços, instâncias e instrumentos de participação, articulação e controle social para os jovens, gestores e organizações da sociedade civil
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0143 - Criar o Conselho Estadual de Juventude e o Fundo Estadual Unidade de Medida Unidade de Juventude Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 0145 - Implantar e operacionalizar o Plano Estadual de Juventude Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 0380 - Instituir, estruturar e operacionalizar o Fórum Estadual de Unidade de Medida Unidade Gestores Municipais de Políticas Públicas de Juventude Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0383 - Capacitar gestores públicos e técnicos sobre temas Unidade de Medida Unidade relacionados às políticas públicas de Juventude Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0384 - Incentivar a criação e estruturação de Conselhos Municipais Unidade de Medida Unidade de Políticas Públicas de Juventude Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0386 - Apoiar e assessorar a criação e estruturação de Unidade de Medida Unidade Fóruns/Núcleos Territoriais de Juventude Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0207 - Promover ação articulada para a inclusão social e produtiva da juventude urbana e rural, através da ampliação do acesso à terra e outros meios de produção, ao crédito, à qualificação profissional e à assistência técnica, visando à redução da pobreza e da desigualdade social pela redução do desemprego, da informalidade e da baixa remuneração do trabalho juvenil.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 1325 - Realizar estudos e pesquisas sobre interesses profissionais Unidade de Medida Unidade dos jovens do RN em todos os territórios Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 1326 - Promover ações de qualificação de grupos juvenis para Unidade de Medida Unidade formas coletivas de associação, organização e gestão produtiva, com enfoque para a economia solidária, cooperativismo e economia criativa, em parceria com a Emater/RN, SEARA e SEEC Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 1327 - Instituir e operacionalizar o Plano Estadual de Sucessão Rural, Unidade de Medida Unidade em parceria com a Emater-RN, a SEARA e a SEEC Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1328 - Instituir e operacionalizar o Plano Estadual de Sucessão Rural, Unidade de Medida Unidade em parceria com a Emater-RN, a SEARA e a SEEC Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0310 - Promover ações de capacitação, mobilização, sensibilização e assessoramento relacionadas à compreensão da condição juvenil, dos fatores de vulnerabilidade e de exposição às violências e riscos sociais e ambientais, para gestores e técnicos do setor público e da sociedade civil, grupos e lideranças juvenis, visando aprimoramento das políticas públicas de juventude.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 0141 - Realizar capacitação e qualificação continuadas da equipe Unidade de Medida Unidade técnica e administrativa da SEJURN Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Meta 0153 - Promover ações de sensibilização e mobilização para Unidade de Medida Unidade gestores estaduais e municipais, técnicos, grupos e organizações juvenis com vistas a qualificar atuação nas políticas de juventude Território Quantidade
+
+0001 - Rio Grande do Norte 92
+
+0004 - Agreste Litoral Sul 60
+
+0007 - Seridó 40
+
+0009 - Açu/Mossoró 40
+
+0011 - Sertão do Apodi 40
+
+Total 272
+
+Meta 0154 - Realizar eventos sobre temas relacionados às Políticas Unidade de Medida Unidade Públicas de Juventude e do âmbito da gestão: avaliação, planejamento e prestação de contas Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 0155 - Promover a participação em eventos sociais e acadêmicos e Unidade de Medida Unidade intercâmbios locais, regionais, nacionais e internacionais sobre temas relacionados às Políticas Públicas e garantia dos direitos da Juventude Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Meta 1324 - Incentivar e apoiar a instituição de fóruns e grupos de trabalho Unidade de Medida Unidade intersetoriais, com participação juvenil, para construção participativa da Política Estadual de Educação Profissional e Tecnológica Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0311 - Implementar o Programa Estação Juventude com vistas promoção de sua emancipação e autonomia pela produção e circulação de informações sobre políticas, serviços e oportunidades de inclusão social e produtiva, formação de redes locais e participação da juventude.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0375 - Estruturar bases fixas de apoio à Estação Juventude Itinerante Unidade de Medida Unidade nos territórios priorizados em parceria com as prefeituras, secretarias de estado de Educação e de Assistência Social e a Emater-RN Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+0009 - Açu/Mossoró 1
+
+Total 2
+
+Meta 1329 - Implantar a Central de Informações através do mapeamento Unidade de Medida Unidade das políticas e ofertas de oportunidades existentes nos municípios e dos grupos e organizações juvenis para a articulação de uma rede de emancipação para a Juventude Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 1331 - Realizar oficinas de percurso e de projetos de vida para Unidade de Medida Unidade assistir jovens Território Quantidade
+
+0002 - Terras Potiguaras 12
+
+Total 12
+
+Meta 1332 - Desenvolver e operacionalizar a Ação Específica Local Unidade de Medida Unidade conforme o que for definido pelos jovens dos territórios priorizados Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Objetivo 0312 - Instituir sistemas de informação e observatórios permanentes para produção continuada de conhecimentos, informações e dados sobre a condição juvenil, os fatores de vulnerabilidade social e de exposição às violências visando ao monitoramento da efetividade das políticas, programas e ações existentes.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0149 - Criar e operacionalizar sistema de informação Unidade de Medida Unidade georreferenciado sobre condição juvenil, vulnerabilidade social e violência, e monitore a oferta de políticas públicas de juventude no RN Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0151 - Produzir e atualizar, de forma continuada, um Diagnóstico Unidade de Medida Unidade Situacional dos Grupos Juvenis do RN Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0152 - Criar e operacionalizar o Observatório Potiguar das Unidade de Medida Unidade Comunidades Periféricas: laboratório Integrado de Pesquisa e Extensão, em parceria com a UERN e outras instituições de educação superior e de pesquisa Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0378 - Realizar levantamento da população carcerária juvenil Unidade de Medida Unidade identificando seu perfil e a situação de progressão de regime, através de parceria com a SEJUC Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0313 - Promover ações de prevenção e de redução de danos do uso abusivo de álcool, crack e outras drogas, junto aos grupos juvenis de diversas identidades e qualificar atores governamentais e não governamentais que atuam nos serviços e equipamentos das áreas de justiça, segurança, saúde, educação esporte e lazer e assistência social.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0355 - Apoiar os municípios e instituições juvenis da sociedade civil Unidade de Medida Unidade que realizem ações e atividades de prevenção e redução de danos sociais pelo uso de álcool e outras drogas através do assessoramento técnico e mediação de parcerias Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 1334 - Promover capacitação de gestores, educadores, e Unidade de Medida Unidade profissionais de áreas afins para o desenvolvimento de ações de prevenção ao uso de drogas (fumadas, inaladas e injetáveis) e outros comportamentos de risco como as DST/AIDS, junto aos jovens Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0314 - Promover a cidadania cultural e o direito humano à comunicação e à informação da juventude reconhecendo-os como agentes produtores de cultura e de comunicação através da criação de meios de acesso às Tecnologias de Informação, de incentivos financeiros e físicos para fruição dos seus potenciais, priorizando a juventude negra e de comunidades tradicionais e as mulheres jovens.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 1335 - Implantar e operacionalizar o Plano Estadual para a População Unidade de Medida Unidade Juvenil em Situação de Rua, em parceria com a SETHAS, SESAP, SESED e SEJUC Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1336 - Realizar oficinas e seminários sobre os direitos e saúde Unidade de Medida Unidade sexual e reprodutiva de mulheres jovens Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 1337 - Realizar oficinas e seminários sobre direitos humanos e Unidade de Medida Unidade políticas de atendimento a população jovem LGBT Território Quantidade
+
+0001 - Rio Grande do Norte 2
+
+Total 2
+
+Meta 1338 - Fomentar a criação de programa estadual de acesso gratuito à Unidade de Medida Unidade internet sem fio em todos os equipamentos públicos estaduais e para as comunidades do entorno, em parceria com à SEEC Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 1339 - Promover concursos e editais para produção cultural e Unidade de Medida Unidade audiovisual sobre cultura negra e racismo, com foco na reversão dos estereótipos do preconceito e na valorização da história e cultura negra e juvenil, em parceria com a FJA, SEEC e SEJUC Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Anexo de Metas e Prioridades - 2016 Programa 0029 - PROMOÇÃO E AUTONOMIA DAS MULHERES
+
+Objetivo 0086 - Promover a inserção e a permanência das mulheres no mundo do trabalho, por meio do apoio à qualificação profissional, ao fortalecimento das organizações produtivas e às ações de socialização do trabalho doméstico e de cuidados.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0195 - Constituir rede estadual de instituições públicas e privadas Unidade de Medida Unidade que desenvolvem ações para mulheres no mundo do trabalho Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0197 - Constituir fórum permanente sobre crédito e financiamento Unidade de Medida Unidade para mulheres com a participação de instituições de crédito e representantes dos movimentos de mulheres Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0200 - Realizar chamadas públicas de apoio ao fortalecimento da Unidade de Medida Unidade produção e comercialização de grupos de mulheres Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0201 - Realizar simpósio com movimentos sociais, entidades Unidade de Medida Unidade sindicais, acadêmicas e empresariais, sobre temas relacionados ao mundo do trabalho, ampliando e qualificando a discussão sobre divisão sexual do trabalho, direitos trabalhistas e demais pautas Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0111 - Consolidar a política estadual de enfrentamento à violência contra as mulheres, com a integração e ampliação dos serviços públicos especializados no âmbito da saúde, educação, da justiça, da segurança pública, da rede socioassistencial e da promoção da autonomia.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0252 - Implantar e viabilizar a Casa da Mulher Brasileira Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0254 - Realizar ações com as unidades móveis do Projeto de Unidade de Medida Unidade Enfrentamento à Violência contra as Mulheres do Campo, da Floresta e das Águas Território Quantidade
+
+0001 - Rio Grande do Norte 40
+
+Total 40
+
+Meta 0257 - Implantar o sistema estadual de integração da Rede de Unidade de Medida Unidade Enfrentamento à Violência contra as Mulheres Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0259 - Adquirir e distribuir dispositivo de emergência para mulheres Unidade de Medida Percentual que estão com medidas protetivas de reincidência e risco de morte
+
+Anexo de Metas e Prioridades - 2016 Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Meta 0261 - Realizar capacitações das/os profissionais que atuam no Unidade de Medida Unidade atendimento as mulheres vítimas de violência Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0264 - Desenvolver ações informativas sobre a política estadual de Unidade de Medida Unidade enfrentamento a violência contra a mulher e sobre os dados dessa violência no RN Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0125 - Promover a ampliação e a garantia dos direitos das mulheres, nas diversas áreas, considerando-as em sua diversidade e especificidades.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0272 - Criar política de monitoramento e avaliação das ações Unidade de Medida Percentual direcionadas às mulheres urbanas e rurais, implementadas pelos diversos órgãos, considerando os recortes de raça, etnia, orientação sexual e geração Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Meta 0278 - Desenvolver ações com rodas de conversas, filmes, palestras, Unidade de Medida Unidade teatro, danças, músicas e outras técnicas arte educativas, sobre o uso de drogas lícitas e ilícitas Território Quantidade
+
+0010 - Mato Grande 10
+
+Total 10
+
+Objetivo 0128 - Fortalecer e ampliar a participação das mulheres nas instâncias de poder e decisão, a partir do diálogo com a sociedade civil e movimentos sociais, em especial os movimentos de mulheres, considerando sua diversidade e especificidades.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0294 - Constituir a rede potiguar de gestoras municipais de políticas Unidade de Medida Percentual para mulheres Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Meta 0295 - Apoiar a criação e o fortalecimento de OPMs nos municípios Unidade de Medida Unidade do RN, preferencialmente 01 por território Território Quantidade
+
+0001 - Rio Grande do Norte 4
+
+Total 4
+
+Meta 0296 - Assegurar a participação das delegadas do estado do RN na Unidade de Medida Unidade 4ª Conferência Nacional de Políticas para Mulheres Território Quantidade
+
+0001 - Rio Grande do Norte 54
+
+Total 54
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 0300 - Reestruturar o Conselho Estadual da Mulher, garantindo a Unidade de Medida Unidade representação da diversidade de mulheres Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0304 - Estimular a criação de Conselhos Municipais dos Direitos da Unidade de Medida Unidade Mulher onde existir OPM Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Meta 0306 - Fortalecer as Câmaras Territoriais de Mulheres Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 5
+
+Total 5
+
+Objetivo 0131 - Desenvolver, estimular e apoiar estudos e pesquisas voltados à produção de dados sobre o trabalho das mulheres, a relação social de desigualdade entre homens e mulheres e sua interface com as desigualdades de classe, raça/etnia, geração, orientação sexual, entre outras.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0311 - Realizar e divulgar estudo sobre a violência contra as Unidade de Medida Unidade mulheres no estado do RN, considerando os recorte de raça, etnia e orientação sexual, a fim de subsidiar a formulação de políticas de enfrentamento à violência contra as mulheres Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Objetivo 0134 - Fortalecer e consolidar a institucionalidade da SPM/RN como instrumento para a implementação de políticas para autonomia das mulheres e promoção da igualdade de gênero.
+
+Órgão Responsável 23000 - Secretaria de Estado da Justiça e da Cidadania
+
+Meta 0318 - Implementar processo sistemático de planejamento, Unidade de Medida Percentual monitoramento e avaliação das ações desenvolvidas pela SPM/RN Território Quantidade
+
+0001 - Rio Grande do Norte 30
+
+Total 30
+
+Meta 0319 - Estruturar a Secretaria de Políticas Públicas para Mulheres do Unidade de Medida Unidade RN com base na reforma administrativa realizada Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 0320 - Produzir peças publicitárias sobre os temas de atuação da Unidade de Medida Unidade SPM, para veiculação nos diferentes meios de comunicação Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0324 - Produzir boletins informativos impressos sobre as ações Unidade de Medida Unidade desenvolvidas pela SPM RN Território Quantidade
+
+0001 - Rio Grande do Norte 9.000
+
+Total 9.000
+
+Anexo de Metas e Prioridades - 2016 Programa 0030 - MEIO AMBIENTE E BIODIVERSIDADE
+
+Objetivo 0101 - Apoiar o incentivo a prática de preservação do Meio Ambiente, bem como a exploração do turismo ecológico.
+
+Órgão Responsável 25000 - Secretaria de Estado da Infraestrutura
+
+Objetivo 0091 - Aprimorar continuamente os processos organizacionais, assegurar a modernização da instituição e direcionar a implantação das diretrizes estratégicas da SEMARH
+
+Órgão Responsável 27000 - Sec de Estado do Meio Ambiente e dos Recursos Hídricos
+
+Meta 0211 - Promover o fortalecimento institucional do SISEMA Unidade de Medida Percentual (capacitação e fortalecimento dos municípios) Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 0212 - Implementar a Política Estadual de Gestão Ambiental Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Meta 0242 - Promover a reestruturação Organizacional da SEMARH Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Objetivo 0094 - Recuperar, prevenir, preservar, conservar a bacia hidrográfica por meio de ações integradas e permanentes que promova a maioria da disponibilidade hídrica, em quantidade e qualidade e condições sócioambientais
+
+Órgão Responsável 27000 - Sec de Estado do Meio Ambiente e dos Recursos Hídricos
+
+Meta 0214 - Revitalizar as bacias hidrográficas do Estado, em situação de Unidade de Medida Percentual vulnerabilidade ambiental , por meio de ações de prevenção, recuperação, conservação e preservação Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Objetivo 0002 - Promover a política ambiental do Rio Grande do Norte, aproveitando as potencialidades regionais, em busca da melhoria da qualidade de vida e do desenvolvimento sustentável.
+
+Órgão Responsável 27203 - Instituto de Desenvolvimento Sustentável e Meio Ambiente do RN
+
+Meta 0001 - Orientar a elaboração e/ou revisão de documentos Unidade de Medida Ano jurídicos-institucionais, visando a estruturação dos órgãos locais e de seus sistemas de gestão ambiental Território Quantidade
+
+0001 - Rio Grande do Norte 10
+
+Total 10
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 0058 - Realizar visitas técnicas para elaboração de documentos Unidade de Medida Unidade jurídico-institucionais Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0003 - Sertão Central, Cabugi e Litoral Norte 3
+
+0004 - Agreste Litoral Sul 4
+
+0005 - Trairi 3
+
+0006 - Potengi 3
+
+0007 - Seridó 4
+
+0008 - Alto Oeste 4
+
+0009 - Açu/Mossoró 3
+
+0010 - Mato Grande 3
+
+0011 - Sertão do Apodi 3
+
+Total 31
+
+Meta 0062 - Realizar oficinas sobre legislação ambiental Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 4
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0004 - Agreste Litoral Sul 6
+
+0009 - Açu/Mossoró 1
+
+0010 - Mato Grande 1
+
+Total 13
+
+Meta 0069 - Realizar capacitação voltadas para as temáticas de Unidade de Medida Unidade fiscalização, licenciamento ambiental, recursos financeiro e educação ambiental Território Quantidade
+
+0002 - Terras Potiguaras 5
+
+0003 - Sertão Central, Cabugi e Litoral Norte 11
+
+0004 - Agreste Litoral Sul 24
+
+0005 - Trairi 15
+
+0006 - Potengi 11
+
+0007 - Seridó 25
+
+0008 - Alto Oeste 30
+
+0009 - Açu/Mossoró 14
+
+0010 - Mato Grande 15
+
+0011 - Sertão do Apodi 17
+
+Total 167
+
+Meta 0070 - Realizar eventos de capacitação voltadas para as temáticas Unidade de Medida Unidade de Fiscalização Ambiental (2016), Licenciamento Ambiental(2017), Capacitação de recursos financeiros(2018) e Educação Ambiental(2019) Território Quantidade
+
+0002 - Terras Potiguaras 5
+
+0003 - Sertão Central, Cabugi e Litoral Norte 11
+
+0004 - Agreste Litoral Sul 24
+
+0005 - Trairi 15
+
+0006 - Potengi 11
+
+0007 - Seridó 25
+
+0008 - Alto Oeste 30
+
+0009 - Açu/Mossoró 14
+
+0010 - Mato Grande 15
+
+0011 - Sertão do Apodi 17
+
+Total 167
+
+Anexo de Metas e Prioridades - 2016 Meta 0074 - Identificar áreas degradadas, em degradação ou Unidade de Medida Hora ambientalmente ameaçadas, áreas de relevante interesse ambiental e sob processo efetivo ou potencial de degradação Território Quantidade
+
+0002 - Terras Potiguaras 2
+
+0003 - Sertão Central, Cabugi e Litoral Norte 2
+
+0004 - Agreste Litoral Sul 2
+
+0005 - Trairi 2
+
+0006 - Potengi 2
+
+0007 - Seridó 2
+
+0008 - Alto Oeste 2
+
+0009 - Açu/Mossoró 2
+
+0010 - Mato Grande 2
+
+0011 - Sertão do Apodi 2
+
+Total 20
+
+Meta 0084 - Realizar oficinas temáticas voltadas para elaboração e Unidade de Medida Unidade implantação de Agendas Ambientais nos Municípios Território Quantidade
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0004 - Agreste Litoral Sul 2
+
+0007 - Seridó 2
+
+0009 - Açu/Mossoró 1
+
+Total 6
+
+Meta 0087 - Criar, operacionalizar e manter um Banco de Dados sobre as Unidade de Medida Unidade estruturas dos municipais de gestão ambiental do Estado a partir de dados do Diagnostico SISMUMA/RN(2014), abrangendo os 10 Territórios Território Quantidade
+
+0002 - Terras Potiguaras 2
+
+Total 2
+
+Meta 0129 - Capacitar gestores e técnicos do Projeto Orla Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0004 - Agreste Litoral Sul 1
+
+0009 - Açu/Mossoró 1
+
+0010 - Mato Grande 1
+
+Total 5
+
+Meta 0130 - Realizar oficinas de sensibilização e de aplicação dos Unidade de Medida Unidade protocolos de orientação sobre a proteção das tartarugas marinhas Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0004 - Agreste Litoral Sul 1
+
+0009 - Açu/Mossoró 1
+
+0010 - Mato Grande 1
+
+Total 5
+
+Meta 0157 - Complementar a caracterização da faixa terrestre do litoral Unidade de Medida Unidade setentrional e realizar estudos sobre o mar adjacente, para definição do zoneamento ecológio econômico Território Quantidade
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0009 - Açu/Mossoró 1
+
+0010 - Mato Grande 1
+
+Total 3
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 0158 - Elaborar estudo para tomadas de decisões sobre medidas a Unidade de Medida Unidade serem realizadas, visando à recomposição da mata ciliar do Rio Doce e como deve ser feita essa recomposição, bem como, Identificar quais os agentes de degradação e como reverter essa situação Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 0172 - Elaborar planos de manejos e zoneamentos em 4 unidades Unidade de Medida Unidade de conservação Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 1
+
+Total 4
+
+Meta 0189 - Monitorar a Reserva de Desenvolvimento Sustentável Estadual Unidade de Medida Unidade Ponta do Tubarão Território Quantidade
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+Total 1
+
+Meta 0194 - Realizar estudos sobre a erosão e degradação e sua relação Unidade de Medida Unidade com as mudanças climáticas, que contribuam para o monitoramento da linha de costa Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0004 - Agreste Litoral Sul 1
+
+0009 - Açu/Mossoró 1
+
+0010 - Mato Grande 1
+
+Total 5
+
+Meta 0322 - Revisar os planos de manejo e zoneamento do Parque das Unidade de Medida Unidade Dunas de Natal, APA de Jenipabu, Parque Estadual Mata da Pipa, APA dos Recifes de Corais e APA Piquiri-Una Território Quantidade
+
+0002 - Terras Potiguaras 2
+
+Total 2
+
+Meta 0329 - Diagnostico Sócio Econômico da área mangue do Potengi Unidade de Medida Unidade
+
+Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 0427 - Elevar o número de propriedades inscriatas no Cadastro Unidade de Medida Unidade Ambiental Rural Território Quantidade
+
+0001 - Rio Grande do Norte 60.000
+
+Total 60.000
+
+Meta 0530 - Compensar licenças como incentivo à produção e utilização de Unidade de Medida Unidade gás natural por empresas de pequeno, médio e grande porte Território Quantidade
+
+0001 - Rio Grande do Norte 4.000
+
+Total 4.000
+
+Meta 0547 - Realização de trabalho de educação ambiental, nas escolas e Unidade de Medida Unidade comunidades com oficinas de reciclagem e sabão ecologicamente correto para 40 multiplicadores
+
+Anexo de Metas e Prioridades - 2016 Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+0003 - Sertão Central, Cabugi e Litoral Norte 1
+
+0004 - Agreste Litoral Sul 1
+
+0005 - Trairi 1
+
+0006 - Potengi 1
+
+0007 - Seridó 1
+
+0008 - Alto Oeste 1
+
+0009 - Açu/Mossoró 1
+
+0010 - Mato Grande 1
+
+0011 - Sertão do Apodi 1
+
+Total 10
+
+Meta 0548 - Elaborar estudos de viabilidade de criação de novas UC Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0562 - Conhecer a qualidade das águas superficiais em 113 pontos e Unidade de Medida Unidade das águas subterrâneas em 100 poços Território Quantidade
+
+0001 - Rio Grande do Norte 213
+
+Total 213
+
+Meta 0566 - Formar 480 multiplicadores em educação e gestão ambiental Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 480
+
+Total 480
+
+Anexo de Metas e Prioridades - 2016 Programa 0031 - CONSERVAÇÃO E GESTÃO DE RECURSOS HÍDRICOS E OFERTA DE ÁGUA
+
+Objetivo 0096 - Abastecimento dos municípios em situação de colápso e emrgências hídricas, de acordo com o
+
+Decreto Emergencial, por meio de ações de governo de forma a minimizar os efeitos da estiagem
+
+Órgão Responsável 27000 - Sec de Estado do Meio Ambiente e dos Recursos Hídricos
+
+Meta 0215 - Desenvolver Plano Emergencial de Convivência com os Unidade de Medida Percentual Efeitos da Estiagem Território Quantidade
+
+0001 - Rio Grande do Norte 40
+
+Total 40
+
+Objetivo 0097 - Implementar, de forma mais atuante, nos órgãos competentes do Sistema de Gerenciamento de Recursos Hídricos do Estado, os instrumentos de gestão preconizados na Lei Federal n° 9433/97, e na
+
+Lei Estadual n° 6908/96
+
+Órgão Responsável 27000 - Sec de Estado do Meio Ambiente e dos Recursos Hídricos
+
+Meta 0221 - Promover o fortalecimento intitucional do SIGERH Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 0224 - Implementar os instrumentos de gestão de recursos hídricos Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 20
+
+Total 20
+
+Meta 0225 - Promover integração das águas do Rio são Francisco (PISF) Unidade de Medida Percentual com as Bacias Hidrográficas do Estado Território Quantidade
+
+0001 - Rio Grande do Norte 80
+
+Total 80
+
+Objetivo 0100 - Analisar a disponibilidade hídrica do Estado por meio de estudos e projetos visando ampliar a capacidade de atendimento das demandas do Estado, permitindo, dessa forma, seu desenvolvimento social e econômico
+
+Órgão Responsável 27000 - Sec de Estado do Meio Ambiente e dos Recursos Hídricos
+
+Meta 0229 - Desenvolvimento de 35 Estudos e Projetos na Área Ambiental Unidade de Medida Unidade e de Recursos Hídricos Território Quantidade
+
+0001 - Rio Grande do Norte 15
+
+Total 15
+
+Meta 0233 - Promover a segurança de barragens Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 70
+
+Total 70
+
+Anexo de Metas e Prioridades - 2016
+
+Objetivo 0102 - Aumentar a capacidade de oferta hídrica para atendimento aos usos da água por meio de ações estruturantes, permitindo dessa forma o atendimento prioritário ao abastecimento humano, irrigação, piscicultura e outros usos
+
+Órgão Responsável 27000 - Sec de Estado do Meio Ambiente e dos Recursos Hídricos
+
+Meta 0236 - Implantar 41 obras estruturantes Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 8
+
+0008 - Alto Oeste 1
+
+Total 9
+
+Meta 0238 - Implantar 1900 Pequenos Sistemas de Abastecimento de Unidade de Medida Percentual Água Território Quantidade
+
+0001 - Rio Grande do Norte 500
+
+Total 500
+
+Objetivo 0240 - Executar a gestão técnica e operacional das águas do Rio Grande do Norte, por meio da aplicação dos instrumentos de gestão definidos pela política estadual dos recursos hídricos, garantindo a preservação das águas e otimizando sua oferta para o consumo humano e demais usos.
+
+Órgão Responsável 27202 - Instituto de Gestão das Águas do RN
+
+Meta 0709 - Desenvolver estudos, projetos e pesquisas sobre a Gestão Unidade de Medida Unidade dos Recursos Hídricos Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0713 - Monitorar quali-quantitativamente os Recursos Hídricos Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 200
+
+Total 200
+
+Meta 0717 - Emitir outorga e dispensa pelo direito do uso dos Recursos Unidade de Medida Unidade Hídricos Território Quantidade
+
+0001 - Rio Grande do Norte 2.000
+
+Total 2.000
+
+Meta 0721 - Emitir licença e dispensa de obras hidráulicas Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 2.160
+
+Total 2.160
+
+Meta 0727 - Cadastrar os usuários de água e as obras hidráulicas Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 2.000
+
+Total 2.000
+
+Meta 0737 - Fiscalizar as demandas requeridas pelo uso dos Recursos Unidade de Medida Percentual Hídricos Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Anexo de Metas e Prioridades - 2016
+
+Meta 0741 - Implantar e operacionalizar o Sistema de Informações sobre Unidade de Medida Percentual Recursos Hídricos Território Quantidade
+
+0001 - Rio Grande do Norte 25
+
+Total 25
+
+Meta 0760 - Realizar vistorias às barragens Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Meta 0761 - Operar e manter a infraestrutura hídrica Unidade de Medida Percentual
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 100
+
+Total 100
+
+Meta 0762 - Realizar batimetria de açudes Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 3
+
+Total 3
+
+Meta 0764 - Garantir a gestão integrada e descentralizada dos contratos Unidade de Medida Unidade firmados no âmbito dos Recursos Hídricos Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0877 - Promover eventos sobre Recursos Hídricos Unidade de Medida Unidade
+
+Território Quantidade
+
+0001 - Rio Grande do Norte 50
+
+Total 50
+
+Objetivo 0282 - Promover o fortalecimento institucional do IGARN, através da melhoria das condições organizacionais de trabalho e da adequação física e tecnológica do órgão, garantindo a modernização e o pleno funcionamento do Instituto.
+
+Órgão Responsável 27202 - Instituto de Gestão das Águas do RN
+
+Meta 0878 - Adequar a estrutura física do Instituto de Gestão das Águas do Unidade de Medida Percentual Estado do Rio Grande do Norte Território Quantidade
+
+0002 - Terras Potiguaras 20
+
+Total 20
+
+Meta 0886 - Implantar o plano de capacitação dos servidores do Instituto Unidade de Medida Unidade de Gestão das Águas do Estado do Rio Grande do Norte Território Quantidade
+
+0001 - Rio Grande do Norte 1
+
+Total 1
+
+Meta 0887 - Regulamentar o Instituto de Gestão das Águas do Rio Grande Unidade de Medida Unidade do Norte e os Instrumentos da Política de Gestão Território Quantidade
+
+0002 - Terras Potiguaras 1
+
+Total 1
+
+Meta 1286 - Capacitar os servidores do Instituto de Gestão das Águas do Unidade de Medida Unidade Estado do Rio Grande do Norte Território Quantidade
+
+Anexo de Metas e Prioridades - 2016 0001 - Rio Grande do Norte 10
+
+Total 10

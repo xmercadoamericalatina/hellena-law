@@ -1,0 +1,74 @@
+---
+titulo: "Decreto Legislativo nº 1.898, de 29 de junho de 2022"
+uf: "RO"
+tipo: "Decreto Legislativo"
+numero: "1898"
+data: 2022-06-29
+ementa: "Concede o Título Honorífico de Cidadão do Estado de Rondônia ao Comandante-Geral da Polícia Militar, Coronel PM James Alves Padilha, em reconhecimento aos relevantes serviços prestados ao Estado de Rondônia."
+publicacao: "DO-e-ALE nº 114"
+versao_texto: "original (arquivo anexado ao SAPL)"
+fonte: "https://sapl.al.ro.leg.br/norma/10854"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2022/10854/dl_1898-22.pdf"
+baixado_em: 2026-10-15
+---
+# Decreto Legislativo nº 1.898, de 29 de junho de 2022
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Autal Dep: Cirone Derra\_ DO-cALEN 114 de 29 / 06 /22 Assembleia Legislativa do Estado de Rondônia.
+
+DECRETO LEGISLATIVO Nº 1.898, DE 29 DE JUNHO DE 2022. Concede o Título Honorífico de Cidadão do Estado de Rondônia ao CEL PM James Alves Padilha.
+
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE RONDÔNIA, nos termos do inciso IX do § 1º do artigo 14, combinado com os artigos 166 e 167 do Regimento Interno, promulga o seguinte Decreto Legislativo:
+
+**Art. 1º** Fica concedido o Título Honorífico de Cidadão do Estado de Rondônia ao CEL PM JAMES ALVES PADILHA, pelos relevantes serviços prestados ao Estado de Rondônia.
+
+**Art. 2º** Este Decreto Legislativo entra em vigor na data de sua publicação.
+
+Av. Faquar n° 2562, Bairro: Olaria - Porto Velho/RO CEP: 76.801-189 - Fone: (69) 3218-5605 - 5645 | www.al.ro.leg.br
+
+DO-e-ALE/RO \* ANO XI - N° 114
+
+DECRETO LEGISLATIVO N° 1.898, DE 29 DE JU- NHO DE 2022. Concede o Título Honorífico de Ci- dadão do Estado de Rondônia ao CEL PM James Alves Padilha.
+
+O PRESIDENTE DA ASSEMBLEIA LEGISLA- TIVA DO ESTADO DE RONDÔNIA, nos termos do in- ciso IX do § 1° do artigo 14, combinado com os artigos 166 e 167 do Regimento Interno, promulga o seguinte
+
+Decreto Legislativo:
+
+**Art. 1°** Fica concedido o Título Honorífico de Ci- dadão do Estado de Rondônia ao CEL PM JAMES ALVES PADILHA, pelos relevantes serviços prestados ao Estado de Rondônia.
+
+**Art. 2°** Este Decreto Legislativo entra em vigor na data de sua publicação.
+
+DECRETO LEGISLATIVO N° 1.899, DE 29 DE JU- NHO DE 2022. Concede a Medalha do Mérito Le- gislativo ao 2° SGT PM Suymar Pereira de Lima.
+
+O PRESIDENTE DA ASSEMBLEIA LEGISLA- TIVA DO ESTADO DE RONDÔNIA, nos termos do in- ciso IX do § 1° do artigo 14, do Regimento Interno e do
+
+Decreto Legislativo n° 591, de 20 de maio de 2015, alte- rado pelos Decretos Legislativos n° 627, de 30 de março de 2016, n° 647, de 24 de agosto de 2016, n° 1.124, de 23 de outubro de 2019 e n° 1.503, de 23 de novembro de 2021, promulga o seguinte Decreto Legislativo:
+
+**Art. 1°** Fica concedida a Medalha do Mérito Legis- lativo ao 2° SGT PM SUYMAR PEREIRA DE LIMA, pe- los relevantes serviços prestados ao Estado de Rondônia.
+
+**Art. 2°** Este Decreto Legislativo entra em vigor na data de sua publicação.
+
+Autenticidade, integridade e interoperalidade - ICP BRASIL 29/06/2022
+
+DECRETO LEGISLATIVO N° 1.900, DE 29 DE JU- NHO DE 2022. Concede a Medalha do Mérito Legislativo ao Senhor Wendel Ferreira de Freitas.
+
+O PRESIDENTE DA ASSEMBLEIA LEGISLA- TIVA DO ESTADO DE RONDÔNIA, nos termos do in- ciso IX do § 1° do artigo 14, do Regimento Interno e do
+
+Decreto Legislativo n° 591, de 20 de maio de 2015, alte- rado pelos Decretos Legislativos n° 627, de 30 de março de 2016, n° 647, de 24 de agosto de 2016, n° 1.124, de 23 de outubro de 2019 e n° 1.503, de 23 de novembro de 2021, promulga o seguinte Decreto Legislativo:
+
+**Art. 1°** Fica concedida a Medalha do Mérito Legis- lativo ao Senhor WENDEL FERREIRA DE FREITAS, pe- los relevantes serviços prestados ao Estado de Rondônia.
+
+**Art. 2°** Este Decreto Legislativo entra em vigor na data de sua publicação.
+
+DECRETO LEGISLATIVO N° 1.901, DE 29 DE JU- NHO DE 2022. Concede o Título Honorífico de Ci- dadão do Estado de Rondônia ao Senhor Osias Labajos Garate.
+
+O PRESIDENTE DA ASSEMBLEIA LEGISLA- TIVA DO ESTADO DE RONDÔNIA, nos termos do in- ciso IX do § 1° do artigo 14, combinado com os artigos 166 e 167 do Regimento Interno, promulga o seguinte
+
+Decreto Legislativo:
+
+**Art. 1°** Fica concedido o Título Honorífico de Cida- dão do Estado de Rondônia ao Senhor OSIAS LABAJOS GARATE, pelos relevantes serviços prestados ao Estado de Rondônia.
+
+**Art. 2°** Este Decreto Legislativo entra em vigor na
+
+VIDE ORIGINAL https://transparencia.al.ro.leg.br/Diario/

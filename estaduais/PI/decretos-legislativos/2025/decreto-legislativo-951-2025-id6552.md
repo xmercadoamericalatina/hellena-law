@@ -1,0 +1,62 @@
+---
+titulo: "Decreto Legislativo nº 951, de 08 de abril de 2025"
+uf: "PI"
+tipo: "Decreto Legislativo"
+numero: "951"
+data: 2025-04-08
+ementa: "Dispõe sobre Título de Cidadão Honorário Piauiense ao Senhor Ossian Mendes Palácio."
+publicacao: ""
+versao_texto: "original (arquivo anexado ao SAPL)"
+fonte: "https://sapl.al.pi.leg.br/norma/6552"
+arquivo: "https://sapl.al.pi.leg.br/media/sapl/public/normajuridica/2025/6552/sei_00010.004613_2025_63_1.pdf"
+baixado_em: 2026-10-15
+---
+# Decreto Legislativo nº 951, de 08 de abril de 2025
+
+PROPOSIÇÃO 2025/SEGOV-PI/GAB/PROTO-ALEPI Teresina/PI, 10 de abril de
+
+DECRETO LEGISLATIVO Nº 951 DE 8 DE ABRIL DE 2025 Dispõe sobre a atribuição do Título de Cidadão Honorário Piauiense ao Sr. Ossian Mendes Palácio.
+
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO PIAUÍ, Faço saber que o Poder Legislativo, nos termos do artigo 27, inciso V, alínea “g” do Regimento Interno, aprovou e eu, em obediência ao contido no art. 19, do mesmo Regimento, promulgo o seguinte:
+
+DECRETO LEGISLATIVO
+
+**Art. 1º** Fica atribuído o Título de Cidadão Honorário Piauiense ao Sr. Ossian Mendes Palácio.
+
+**Art. 2º** A entrega da honraria será feita em Sessão Solene da Assembleia Legislativa do estado do Piauí.
+
+**Art. 3º** Este Decreto Legislativo entre em vigor na data da sua publicação. PALÁCIO PETRÔNIO PORTELLA, em Teresina (PI), 8 de abril de 2025.
+
+- Matr.0000000-0, Presidente da ALEPI, em 14/04/2025, às 09:20,
+
+código verificador 017616352 e o código CRC 575C381E.
+
+SEI nº 017616352
+
+SEGOV\_Proposição SEGOV-PI/GAB/PROTO-ALEPI 017616352 SEI 00010.004613/2025-63 / pg. 1
+
+EXPEDIENTE 2025/SEGOV-PI/GAB/PROTO-ALEPI Teresina/PI, 11 de abril de
+
+OFÍCIO PRES. SGM Nº 085/2025
+
+Ilustríssimo Senhor Ossian Mendes Palácio
+
+A/C do Deputado Cel. Carlos Augusto
+
+Senhor Ossian Mendes Palácio,
+
+Tenho a satisfação de comunicar a Vossa Senhoria, que acolhendo proposição do Deputado Cel. Carlos Augusto, o Plenário da Assembleia Legislativa do Estado do Piauí aprovou na forma do disposto no art. 27, inciso V, alínea “g”, do Regimento Interno desta Casa Legislativa, conceder-lhe o Título de Cidadania Piauiense, em reconhecimento aos relevantes serviços prestados à comunidade piauiense, materializado através do Decreto Legislativo nº 951, de 8 de abril de 2025, via original anexa.
+
+Assim, a ﬁm de que possa o Cerimonial desta Casa Legislativa agendar a solenidade de entrega do respectivo documento, solicito se digne de informar a esta Assembleia Legislativa, a data em que, a seu critério, poderá receber aquela homenagem.
+
+Atenciosamente,
+
+- Matr.0000000-0, Presidente da ALEPI, em 14/04/2025, às 09:21,
+
+SEGOV\_Expediente SEGOV-PI/GAB/PROTO-ALEPI 017649876 SEI 00010.004613/2025-63 / pg. 2
+
+código verificador 017649876 e o código CRC 37125952.
+
+SEI nº 017649876
+
+SEGOV\_Expediente SEGOV-PI/GAB/PROTO-ALEPI 017649876 SEI 00010.004613/2025-63 / pg. 3

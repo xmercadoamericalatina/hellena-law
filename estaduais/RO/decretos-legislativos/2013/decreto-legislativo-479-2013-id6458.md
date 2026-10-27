@@ -1,0 +1,26 @@
+---
+titulo: "Decreto Legislativo nº 479, de 25 de setembro de 2013"
+uf: "RO"
+tipo: "Decreto Legislativo"
+numero: "479"
+data: 2013-09-25
+ementa: "CONCEDE O TÍTULO HONORÍFICO DE \"HONRA AO MÉRITO\" AO SENHOR MANOEL BENTES DE AMORIM."
+publicacao: "D.O. ALE N° 151"
+versao_texto: "original (arquivo anexado ao SAPL)"
+fonte: "https://sapl.al.ro.leg.br/norma/6458"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2013/6458/6458_texto_integral.pdf"
+baixado_em: 2026-10-15
+---
+# Decreto Legislativo nº 479, de 25 de setembro de 2013
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+A os Lep. equinha Craújo de 1° / 10/2013 Assembleia Legislativa do Estado de Rondônia.
+
+DECRETO LEGISLATIVO N° 479, DE 25 DE SETEMBRO DE 2013. Concede o Título Honorífico de Honra ao Mérito ao Senhor Manoel Bentes de Amorim.
+
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE RONDÔNIA, nos termos do inciso IX do § 1° do artigo 14, combinado com os artigos 166 e 167 do Regimento Interno, promulga o seguinte Decreto Legislativo:
+
+**Art. 1°.** Fica concedido o Título Honorífico de Honra ao Mérito ao Senhor MA- NOEL BENTES DE AMORIM, pelos relevantes serviços prestados como comerciante ao Estado de Rondônia.
+
+**Art. 2°.** Este Decreto Legislativo entra em vigor na data de sua publicação. ASSEMBLEIA LEGISLATIVA, 25 de setembro de 2013. Deputado HERMINIO COELHO Presidente-ALE/RO Rua Major Amarantes, 390 - Arigolândia - Porto Velho - RO CEP: 76801-91I / Fone: (69) 3216-2800 / 3216-2824 / Site: www.ale.ro.gov.br

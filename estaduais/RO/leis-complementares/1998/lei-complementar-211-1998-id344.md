@@ -1,0 +1,146 @@
+---
+titulo: "Lei Complementar nº 211, de 15 de dezembro de 1998"
+uf: "RO"
+tipo: "Lei Complementar"
+numero: "211"
+data: 1998-12-15
+ementa: "CRIA O INSTITUTO DE DEFESA AGROSILVOPASTORIL DO ESTADO DE RONDÔNIA."
+versao_texto: "original (arquivo anexado ao SAPL)"
+publicacao: "D.O. nº 4146, de 15/12/98Errat"
+fonte: "https://sapl.al.ro.leg.br/norma/344"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/1998/344/344_texto_integral.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Complementar nº 211, de 15 de dezembro de 1998
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+LEI COMPLEMENTAR N° 211, DE 15 DE DEZEMBRO DE 1998. Cria o Instituto de Defesa Agrosilvopastoril do Estado de Rondônia - IDARON.
+
+O GOVERNADOR DO ESTADO DE RONDÔNIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei Complementar:
+
+**Art. 1°** - Fica criado o Instituto de Defesa Agrosilvopastoril do Estado de Rondônia - IDARON, entidade autárquica, com personalidade jurídica de direito público, com autonomia técnica, administrativa e financeira e patrimônio próprio, sede e foro na cidade de Porto Velho e jurisdição em todo o Estado, vinculado à Secretaria de Estado da Agricultura e Reforma Agrária-SEAGRI, de fins não lucrativos, regido por esta Lei Complementar e pela legislação relativa à Fundações, no que lhe for aplicavel.
+
+**Parágrafo único** - No texto desta Lei Complementar a sigla IDARON e a expressão Instituto de Defesa Agrosilvopastoril do Estado de Rondônia se equivalem como designação da entidade.
+
+**Art. 2°** - O Instituto de Defesa Agrosilvopastoril do Estado de Rondônia - IDARON, é o órgão coordenador e executor da política estadual de Defesa Agropecuária e tem por finalidade promover a fiscalização, a inspeção e a execução das atividades de vigilância e defesa sanitária animal e vegetal, bem como a inspeção, fiscalização e classificação da produção vegetal e florestal a ele delegadas.
+
+**Art. 3°** - Compete ao Instituto de Defesa Agrosilvopastoril do Estado de Rondônia - IDARON: 1 - planejar, coordenar e executar as ações de Defesa Agropecuária do Estado, compatibilizando-se com diretrizes da política agropecuária nos âmbitos federal e estadual;
+
+.... 1° 4846 NO AlA 15 1120 8918 Blárle Oficiar Pulficatle no ERRATA Pubicado no Diarlo Ofictal 1420010 42 0903499
+
+II - promover estudos que subsidiem o planejamento na área de Defesa Agropecuária e Florestal;
+
+III - promover a integração das ações nas áreas de Defesa Agropecuária nos níveis federal, estadual e municipal;
+
+IV - propor e definir a elaboração de convênios com o setor público e privado, para a execução de serviços de Defesa Agropecuária, nos âmbitos estadual e municipal;
+
+V - promover a capacitação e aperfeiçoamento dos recursos humanos na área de Defesa Agropecuária;
+
+VI - manter intercâmbio de informações técnicas e científicas com instituições nacionais e internacionais que se dediquem as atividades de Defesa Agropecuária;
+
+VII - apresentar à Secretaria de Estado da Agricultura e Reforma Agrária-SEAGRI as propostas de planejamento e programas anuais e plurianuais de Defesa Agropecuária, com a ordenação prioritária dos projetos que os integram e a identificação dos órgãos executores;
+
+VIII - promover a realização de conferências, simpósios e outros conclaves científicos na área de Defesa Agropecuária;
+
+IX - firmar convênios com órgãos governamentais, não governamentais e institucionais.
+
+**Art. 4°** - O patrimônio e a receita do Instituto de Defesa Agrosilvopastoril do Estado de Rondônia - IDARON, administrado por sua Diretoria, com observância dos preceitos legais e regulamentares serão empregados, exclusivamente, na consecução das finalidades descritas em seu Estatuto.
+
+**Art. 5°** - O patrimônio do Instituto de Defesa Agrosilvopastoril do Estado de Rondônia - IDARON, constituir-se-á de:
+
+I - bens móveis e imóveis de sua propriedade que venham a ser adquiridos ou lhe sejam incorporados em virtude da lei;
+
+II - bens e direitos constantes do acervo dos Departamentos de Produção Animal e Vegetal e outros da Secretaria de Estado da Agricultura e Reforma Agrária.
+
+**Art. 6°** - Constituem Receita do Instituto de Defesa Agrosilvopastoril do Estado de Rondônia - IDARON:
+
+I - doações consignadas no orçamento do Estado de Rondônia;
+
+II - saldo dos exercícios anteriores;
+
+III - recursos provenientes de convênios, contratos ou ajustes de prestação de serviços;
+
+IV - recursos resultantes de operação de créditos;
+
+V - rendas patrimoniais;
+
+VI - recursos de capital, inclusive os resultantes de conversão em espécie, de bens e direitos;
+
+VII - recursos provenientes de fundos existentes ou a serem criados, destinados a promover a sanidade dos recursos vegetais e dos rebanhos animais, visando o aumento da produção agropecuária;
+
+VIII - doações e legados que lhe forem feitos;
+
+IX - recursos de leis específicas;
+
+X - participação no resultado econômico apresentado em cada exercício financeiro, por empresa de cujo capital o Estado detenha maioria de conformidade com o que ficar estabelecido em cada casa pelo Poder Executivo;
+
+XI - quaisquer outras receitas operacionais.
+
+**Art. 7°** - A estrutura organizacional básica do Instituto de Defesa Agrosilvopastoril do Estado de Rondônia - IDARON compreende os seguintes órgãos:
+
+I - Conselho Deliberativo;
+
+II - Diretoria Executiva;
+
+III - Órgãos de Administração Sistêmica e de Execução Programática:
+
+a) Coordenadorias;
+
+IV - Órgãos de Administração Regionalizada;
+
+a) Unidades Regionais de Execução;
+
+b) Postos Fiscais;
+
+c) Unidades de Classificação.
+
+**Art. 8°** - O Instituto de Defesa Agrosilvopastoril do Estado de Rondônia - IDARON, terá Quadro de Pessoal e Plano de Carreira próprios.
+
+**Art. 9°** - O servidor da Administração Direta poderá ser colocado à disposição do Instituto de Defesa Agrosilvopastoril do Estado de Rondônia - IDARON, com ônus para o Estado, mediante pedido fundamentado do seu Presidente, com concordância do Secretário da Pasta e autorização do Governador do Estado.
+
+**Art. 10** - Ficam criados os cargos comissionados de Presidente e Diretor, conforme o Anexo I, desta Lei Complementar.
+
+**Art. 11** - O Conselho Deliberativo será constituído pelos seguintes membros:
+
+I - Secretário de Estado da Agricultura e Reforma Agrária, na qualidade de Presidente;
+
+II - Presidente do Instituto de Defesa Agrosilvopastoril do Estado de Rondônia;
+
+III - Representante da Federação de Agricultura do Estado de Rondônia;
+
+IV - Representante da Delegacia Federal de Agricultura e do Abastecimento em Rondônia;
+
+V - Representante do Conselho Regional de Medicina Veterinária do Estado de Rondônia;
+
+VI - Representante dos estabelecimentos que comercializam produtos agrícolas;
+
+VII - Representante da Federação do Comércio do Estado de Rondônia;
+
+VIII - Representante da Federação das Indústrias do Estado de Rondônia;
+
+IX - Representante do Conselho Regional de Engenharia, Arquitetura e Agronomia - CREA.
+
+**Art. 12** - A Diretoria Executiva será composta de 03 (três) membros sendo o Presidente, o Diretor Administrativo-Financeiro e o Diretor Técnico.
+
+**Art. 13** - O Presidente do Instituto de Defesa Agrosilvopastoril do Estado de Rondônia - IDARON, será indicado pelo Conselho Deliberativo e nomeado pelo Governador do Estado, e os Diretores indicados pelo Presidente, nomeados pelo Chefe do Poder Executivo.
+
+**Parágrafo único** - O Chefe do Poder Executivo, através de ato próprio, aprovará o Estatuto do Instituto de Defesa Agrosilvopastoril do Estado de Rondônia - IDARON, que constará, além dos objetivos, do patrimônio, dos recursos financeiros, na forma do disposto nesta Lei Complementar, o detalhamento da estrutura organizacional, competência e responsabilidades inerentes aos Órgãos Deliberativos e Executivos, bem como os demais Orgãos.
+
+**Art. 14** - Ficam extintas na Secretaria de Estado da Agricultura e Reforma Agrária, nos Departamentos de Produção Animal e Produção Vegetal, as Divisões de Defesa Sanitária Animal, de Defesa Sanitária Vegetal e de Padronização e Classificação Vegetal, cujas as atividades serão absorvidas, paulatinamente, pelo Instituto de Defesa Agrosilvopastoril do Estado de Rondônia - IDARON.
+
+**Parágrafo único** - No presente exercício o Poder Executivo promoverá a transferência dos recursos orçamentários consignados nas Divisões mencionadas neste artigo.
+
+**Art. 15** - Fica aberto no corrente exercício crédito especial de R$ 30.000,00 (trinta mil reais), para fins de atender as despesas iniciais da implantação do Instituto de Defesa Agrosilvopastoril do Estado de Rondônia - IDARON.
+
+**Art. 16** - O Fundo Emergencial Agropecuário do Estado de Rondônia - FEARO, instituído através da Lei Complementar n° 167, de 27 de dezembro de 1996, passa a ser gerido pelo Instituto de Defesa Agrosilvopastoril do Estado de Rondônia - IDARON.
+
+**Art. 17** - Esta Lei Complementar entra em vigor na data de sua publicação.
+
+**Art. 18** - Revogam-se as disposições em contrário. Palácio do Governo do Estado de Rondônia, em 15 de dezembro de 1998, 110° da República VALDIR RAUPP/DE MATOS Governador
+
+ANEXO I ====== CARGO EM COMISSÃO SIMBOL. VALOR CARGO QUANT. 80% da Gratif. de Secretário de Presidente
+
+Estado 80% da Gratif. de Representação Diretor CC
+
+do Presidente

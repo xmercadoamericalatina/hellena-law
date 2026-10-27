@@ -1,0 +1,32 @@
+---
+titulo: "Lei Ord. nº 10.250, de 28/09/2017"
+uf: "RN"
+tipo: "Lei Ordinária"
+numero: ""
+data: 2017-09-26
+ementa: "Reconhece de Utilidade Pública a Associação Cultural e Social de Timbaúba dos Batistas – ACUST, e dá outras providências."
+versao_texto: "PDF da Assembleia Legislativa"
+fonte: "https://www.al.rn.leg.br/storage/legislacao/2019/05/14/a1ba0704a8fbdb4e2942ef3e8dfafec2.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ord. nº 10.250, de 28/09/2017
+
+RIO GRANDE DO NORTE
+
+LEI Nº 10.247, DE 26 DE SETEMBRO DE 2017.
+
+Altera a Lei Estadual nº 9.626, de 2 de julho de 2012, que autoriza o Estado do Rio Grande do Norte, por intermédio do Poder Executivo, a contratar operação de crédito com a Caixa Econômica Federal (CEF) e dá outras providências.
+
+O GOVERNADOR DO ESTADO DO RIO GRANDE DO NORTE: FAÇO SABER que o Poder Legislativo decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** O art. 1º, parágrafo único, da Lei Estadual nº 9.626, de 2 de julho de 2012, com a redação dada pela Lei Estadual nº 9.712, de 9 de abril de 2013, passa a vigorar com a seguinte alteração:
+
+“Art. 1º ..............................................................................................
+
+**Parágrafo único.** Os recursos provenientes da operação de crédito autorizada no caput deste artigo serão aplicados exclusivamente no aporte de contrapartidas de responsabilidade do Estado do Rio Grande do Norte para execução de obras de mobilidade urbana, saneamento básico e apoio a projetos de infraestrutura turística, no âmbito do território estadual, em contratos destinados à preparação da capital norte-rio-grandense para sediar eventos relacionados com a Copa do Mundo de Futebol de 2014 e outras operações vinculadas no Programa de Aceleração do Crescimento (PAC).” (NR)
+
+**Art. 2º** Esta Lei entra em vigor na data da sua publicação.
+
+Palácio de Despachos de Lagoa Nova, em Natal/RN, 26 de setembro de 2017, 196º da Independência e 129º da República. DOE Nº. 14.019 Data: 27.09.2017 ROBINSON FARIA Pág.01 Gustavo Mauricio Filgueiras Nogueira
+
+Coordenadoria de Controle dos Atos Governamentais – CONTRAG/GAC

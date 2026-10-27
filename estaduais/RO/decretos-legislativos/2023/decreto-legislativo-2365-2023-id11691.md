@@ -1,0 +1,26 @@
+---
+titulo: "Decreto Legislativo nº 2.365, de 05 de outubro de 2023"
+uf: "RO"
+tipo: "Decreto Legislativo"
+numero: "2365"
+data: 2023-10-05
+ementa: "Concede o Título Honorífico de Honra ao Mérito ao Senhor João Carlos Rodrigues Venturin pelos relevantes serviços prestados ao Estado de Rondônia."
+publicacao: "DO-e-ALE n°179"
+versao_texto: "original (arquivo anexado ao SAPL)"
+fonte: "https://sapl.al.ro.leg.br/norma/11691"
+arquivo: "https://sapl.al.ro.leg.br/media/sapl/public/normajuridica/2023/11691/dl_2365-23.pdf"
+baixado_em: 2026-10-15
+---
+# Decreto Legislativo nº 2.365, de 05 de outubro de 2023
+
+> Texto obtido por OCR a partir de PDF escaneado; pode conter erros de reconhecimento.
+
+Autor Dep. Delegado Lucas DO-e-ALE n° 179 de OS /10 / 23 Assembleia Legislativa do Estado de Rondônia.
+
+DECRETO LEGISLATIVO N° 2.365, DE 27 DE SETEMBRO DE 2023. Concede o Título Honorífico de Honra ao Mérito ao Senhor João Carlos Rodrigues Venturin.
+
+O PRESIDENTE DA ASSEMIBLEIA LEGISLATIVA DO ESTADO DE RONDÔNIA, nos termos do inciso IX do § 1º do artigo 14, combinado com os artigos 166 e 167 do Regimento Interno, promulga o seguinte Decreto Legislativo:
+
+**Art. 1°** Fica concedido o Título Honorífico de Honra ao Mérito ao Senhor JOÃO CARLOS RODRIGUES VENTURIN, pelos relevantes serviços prestados ao Estado de Rondônia.
+
+**Art. 2º** Este Decreto Legislativo entra em vigor na data de sua publicação. ASSEMBLEIA LEGISLATIVA, 27 de setembro de 2023. Deputado MARCELO CRUZ Presidente -ALE/RO ASSEMBLEIA LEGISLATIVA DE RONDÔNIA HARMONIA E DEFESA DO RONDONIENSE Av. Faquar n° 2562, Bairro: Olaria - Porto Velho/RO CEP: 76.801-189 - Fone: (69) 3218-5605 - 5645 | www.al.ro.leg.br

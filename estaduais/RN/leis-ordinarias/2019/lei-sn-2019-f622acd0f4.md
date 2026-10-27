@@ -1,0 +1,26 @@
+---
+titulo: "Lei Ord. nº 9.296, de 27/01/2010"
+uf: "RN"
+tipo: "Lei Ordinária"
+numero: ""
+data: 2010-01-27
+ementa: "Dispõe sobre o reconhecimento de utilidade pública da ASSOCIAÇóO COMUNITÁRIA DE COMUNICAÇóO E CULTURA DO ARENó ? ACCCA, e fixa outras disposições."
+versao_texto: "PDF da Assembleia Legislativa"
+fonte: "https://www.al.rn.leg.br/storage/legislacao/2019/06/07/afa6dfb387adc0ec0f59eff622acd0f4.pdf"
+baixado_em: 2026-10-13
+---
+# Lei Ord. nº 9.296, de 27/01/2010
+
+Governo do Estado do Rio Grande do Norte Gabinete Civil Coordenadoria de Controle dos Atos Governamentais
+
+LEI Nº 9.296, DE 27 DE JANEIRO DE 2010.
+
+Dispõe sobre o reconhecimento de utilidade pública da ASSOCIAÇÃO COMUNITÁRIA DE COMUNICAÇÃO E CULTURA DO ARENÃ – ACCCA, e fixa outras disposições.
+
+A GOVERNADORA DO ESTADO DO RIO GRANDE DO NORTE: FAÇO SABER que o Poder Legislativo decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** Fica concedida como entidade de Utilidade Pública Estadual a Associação Comunitária de Comunicação e Cultura do Arenã – ACCCA, com sede no povoado Arenã e foro jurídico no município de São José de Mipibu, neste Estado.
+
+**Art. 2º** Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Palácio de Despachos de Lagoa Nova, em Natal, 27 de janeiro de 2010, 189º da Independência e 122º da República. DOE Nº. 12.140 WILMA MARIA DE FARIA Data: 28.01.2010 Pág. 01 Leonardo Arruda Câmara

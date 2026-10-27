@@ -1,0 +1,38 @@
+---
+titulo: "Decreto Legislativo nº 944, de 01 de abril de 2025"
+uf: "PI"
+tipo: "Decreto Legislativo"
+numero: "944"
+data: 2025-04-01
+ementa: "Dispõe sobre a concessão do Título de Cidadania Piauiense ao Senhor Carlos Alberto Libânio Christo - Frei Betto."
+publicacao: ""
+versao_texto: "original (arquivo anexado ao SAPL)"
+fonte: "https://sapl.al.pi.leg.br/norma/6539"
+arquivo: "https://sapl.al.pi.leg.br/media/sapl/public/normajuridica/2025/6539/sei_00010.004022_2025_96.pdf"
+baixado_em: 2026-10-15
+---
+# Decreto Legislativo nº 944, de 01 de abril de 2025
+
+GOVERNO DO ESTADO DO PIAUÍ SECRETARIA DE GOVERNO DO ESTADO DO PIAUÍ - SEGOV-PI SETOR DE PROTOCOLO ALEPI - SEGOV-PI Av. Antonino Freire, 1450 Palácio de Karnak - Bairro Centro, Teresina/PI, CEP 64001-140 Telefone: - http://www.pi.gov.br
+
+PROPOSIÇÃO 2025/SEGOV-PI/GAB/PROTO-ALEPI Teresina/PI, 01 de abril de 2025.
+
+DECRETO LEGISLATIVO Nº 944 DE 01 DE ABRIL DE 2025 Dispõe sobre a concessão do Título de Cidadania Piauiense ao Senhor Carlos Alberto Libânio Christo - Frei Betto​.
+
+O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO PIAUÍ, Faço saber que o Poder Legislativo, nos termos do artigo 27, inciso V, alínea “g” do Regimento Interno, aprovou e eu, em obediência ao contido no art. 19, do mesmo Regimento, promulgo o seguinte:
+
+DECRETO LEGISLATIVO
+
+**Art. 1º** Fica concedido o Título de Cidadania Piauiense a Carlos Alberto Libânio Christo - Frei Betto, pelos relevantes serviços prestados ao estado do Piauí.
+
+**Art. 2º** A entrega da honraria será realizada em local a ser autorizado pela Mesa Diretora da Assembleia Legislativa do estado do Piauí.
+
+**Art. 3º** Este Decreto Legislativo entra em vigor na data de sua publicação. PALÁCIO PETRÔNIO PORTELLA, em Teresina (PI), 01 de abril de 2025. Dep. SEVERO EULÁLIO Presidente Documento assinado eletronicamente por SEVERO MARIA EULALIO NETO - Matr.0000000-0, Presidente da ALEPI, em 01/04/2025, às 13:05, conforme horário oficial de Brasília, com fundamento no Cap. III, Art. 14 do
+
+Decreto Estadual nº 18.142, de 28 de fevereiro de 2019.
+
+A autenticidade deste documento pode ser conferida no site https://sei.pi.gov.br/sei/controlador\_externo.php? acao=documento\_conferir&id\_orgao\_acesso\_externo=0, informando o código verificador 017451898 e o código CRC B8C53581.
+
+Referência: Caso responda este Documento, indicar expressamente o Processo nº SEI nº 017451898 00010.004022/2025-96
+
+SEGOV\_Proposição SEGOV-PI/GAB/PROTO-ALEPI 017451898 SEI 00010.004022/2025-96 / pg. 1
