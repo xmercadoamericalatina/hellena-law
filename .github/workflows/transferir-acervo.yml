@@ -9,7 +9,7 @@ permissions:
   contents: write
 concurrency:
   group: transferencia-acervo
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   transferir:
     runs-on: ubuntu-24.04
