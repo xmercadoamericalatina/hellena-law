@@ -1,0 +1,71 @@
+name: Atualizar lei seca (fontes oficiais)
+on:
+  schedule:
+    # 03h17, 09h17, 15h17 e 21h17 em Belém (UTC-3). GitHub pode atrasar execuções.
+    - cron: '17 0,6,12,18 * * *'
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: Coleta completa ou apenas prioridades
+        type: choice
+        options: [completo, prioridades]
+        default: completo
+  workflow_run:
+    workflows: ['Transferir acervo Hellena-Law']
+    types: [completed]
+permissions:
+  contents: write
+concurrency:
+  group: lei-seca-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  atualizar:
+    if: github.ref == 'refs/heads/main' && (github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success')
+    runs-on: ubuntu-24.04
+    timeout-minutes: 55
+    steps:
+      - name: Obter somente atualizador e acervo curado
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout: |
+            scripts/lei_seca
+            lei-seca
+      - name: Testar política e integridade
+        run: python3 -I -m unittest discover -s scripts/lei_seca -p 'test_*.py' -v
+      - name: Atualizar e registrar falhas sem perder checkpoints
+        id: coleta
+        env:
+          MODO: ${{ inputs.modo || 'completo' }}
+        shell: bash
+        run: |
+          set +e
+          python3 -I scripts/lei_seca/atualizar.py --mode "$MODO" --limit 150 --indices 8 --historic 2 --seconds 2400
+          rc=$?
+          echo "codigo=$rc" >> "$GITHUB_OUTPUT"
+          exit 0
+      - name: Conferir acervo antes do commit
+        run: python3 -I scripts/lei_seca/auditar.py lei-seca
+      - name: Guardar textos, originais, versões e pendências
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'Leis Secas Bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- lei-seca
+          if ! git diff --cached --quiet; then
+            git commit -m 'Atualiza lei seca e relatório de cobertura das fontes oficiais'
+            # Sem force push: concorrência com edição humana é reportada, não sobrescrita.
+            git push origin HEAD:main
+          fi
+      - name: Resumo e sinalização de fontes pendentes
+        if: always()
+        env:
+          CODIGO: ${{ steps.coleta.outputs.codigo }}
+        shell: bash
+        run: |
+          if test -f lei-seca/ultima_execucao.json; then
+            python3 -c 'import json,os; r=json.load(open("lei-seca/ultima_execucao.json")); f=open(os.environ["GITHUB_STEP_SUMMARY"],"a"); f.write("## Lei seca\n\nProcessados: "+str(r["processados"])+". Fila: "+str(r["fila_total"])+".\n\nConsulte lei-seca/pendencias.json e cobertura.json. Volume não comprova completude nacional.\n")'
+          fi
+          test "$CODIGO" = '0'
