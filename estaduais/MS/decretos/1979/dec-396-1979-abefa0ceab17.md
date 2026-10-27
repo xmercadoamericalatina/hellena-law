@@ -1,0 +1,23 @@
+---
+titulo: "DECRETO Nº 396, DE 18 DE DEZEMBRO DE 1979"
+uf: "MS"
+tipo: "Decreto"
+numero: "396"
+data: 1979-12-18
+ementa: "Altera o orçamento da Empresa de Serviços Agropecuários de Mato Grosso do Sul (AGROSUL), para o exercício de 1979."
+versao_texto: "texto da base de legislação da Governadoria (pode conter alterações incorporadas)"
+fonte: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/0/ABEFA0CEAB17279204256E2D0065D9D9?OpenDocument"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 396, DE 18 DE DEZEMBRO DE 1979
+
+***(\*) ESTE TEXTO NÃO SUBSTITUI O ORIGINAL PUBLICADO NO DIÁRIO OFICIAL DO ESTADO.***
+
+**ESTADO DE MATO GROSSO DO SUL**
+
+**DECRETO Nº 396, DE 18 DE DEZEMBRO DE 1979.**
+
+*Altera o orçamento da Empresa de Serviços Agropecuários de Mato Grosso do Sul (AGROSUL), para o exercício de 1979.*
+
+Notas:  
+**Publicado no Diário Oficial nº 242, de 18 de dezembro de 1979. Revogado pelo Decreto nº 15.689, de 26 de maio de 2021.**

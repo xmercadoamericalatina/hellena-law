@@ -1,0 +1,23 @@
+---
+titulo: "DECRETO Nº 3.666, DE 29 DE JULHO DE 1986"
+uf: "MS"
+tipo: "Decreto"
+numero: "3.666"
+data: 1986-07-29
+ementa: "Abre a Secretaria de Justiça, crédito suplementar no valor de Cz$ 3.224.928,00."
+versao_texto: "texto da base de legislação da Governadoria (pode conter alterações incorporadas)"
+fonte: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/0/5BF2FB8FFCCC48B604256E2D0067CFAE?OpenDocument"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 3.666, DE 29 DE JULHO DE 1986
+
+***(\*) ESTE TEXTO NÃO SUBSTITUI O ORIGINAL PUBLICADO NO DIÁRIO OFICIAL DO ESTADO.***
+
+**ESTADO DE MATO GROSSO DO SUL**
+
+**DECRETO Nº 3.666, DE 29 DE JULHO DE 1986.**
+
+*Abre a Secretaria de Justiça, crédito suplementar no valor de Cz$ 3.224.928,00.*
+
+Notas:  
+**Publicado no Diário Oficial nº 1.869, de 30 de julho de 1986. Revogado pelo Decreto nº 15.689, de 26 de maio de 2021.**

@@ -1,0 +1,23 @@
+---
+titulo: "DECRETO Nº 7.926, DE 29 DE AGOSTO DE 1994"
+uf: "MS"
+tipo: "Decreto"
+numero: "7.926"
+data: 1994-08-29
+ementa: "Abre crédito suplementar a Unidade Orçamentária que menciona e dá outras providências."
+versao_texto: "texto da base de legislação da Governadoria (pode conter alterações incorporadas)"
+fonte: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/0/0CA6DECEFDFCF88504256E2D0069879A?OpenDocument"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 7.926, DE 29 DE AGOSTO DE 1994
+
+***(\*) ESTE TEXTO NÃO SUBSTITUI O ORIGINAL PUBLICADO NO DIÁRIO OFICIAL DO ESTADO.***
+
+**ESTADO DE MATO GROSSO DO SUL**
+
+**DECRETO Nº 7.926, DE 29 DE AGOSTO DE 1994.**
+
+*Abre crédito suplementar a Unidade Orçamentária que menciona e dá outras providências.*
+
+Notas:  
+**Publicado no Diário Oficial nº 3.862, de 30 de agosto de 1994. Revogado pelo Decreto nº 15.762, de 3 de setembro de 2021.**

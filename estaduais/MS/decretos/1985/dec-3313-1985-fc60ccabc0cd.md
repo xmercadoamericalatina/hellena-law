@@ -1,0 +1,23 @@
+---
+titulo: "DECRETO Nº 3.313, DE 19 DE NOVEMBRO DE 1985"
+uf: "MS"
+tipo: "Decreto"
+numero: "3.313"
+data: 1985-11-19
+ementa: "Altera o orçamento da Empresa de Energia Elétrica de Mato Grosso do Sul S/A. - ENERSUL, para o exercício de 1985."
+versao_texto: "texto da base de legislação da Governadoria (pode conter alterações incorporadas)"
+fonte: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/0/FC60CCABC0CDB26904256E2D0067CEF5?OpenDocument"
+baixado_em: 2026-10-15
+---
+# DECRETO Nº 3.313, DE 19 DE NOVEMBRO DE 1985
+
+***(\*) ESTE TEXTO NÃO SUBSTITUI O ORIGINAL PUBLICADO NO DIÁRIO OFICIAL DO ESTADO.***
+
+**ESTADO DE MATO GROSSO DO SUL**
+
+**DECRETO Nº 3.313, DE 19 DE NOVEMBRO DE 1985.**
+
+*Altera o orçamento da Empresa de Energia Elétrica de Mato Grosso do Sul S/A. - ENERSUL, para o exercício de 1985.*
+
+Notas:  
+**Publicado no Diário Oficial nº 1.700, de 20 de novembro de 1985. Revogado pelo Decreto nº 15.689, de 26 de maio de 2021.**
