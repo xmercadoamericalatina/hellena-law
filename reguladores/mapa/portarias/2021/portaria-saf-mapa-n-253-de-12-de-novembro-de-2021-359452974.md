@@ -1,0 +1,52 @@
+---
+titulo: "PORTARIA SAF/MAPA Nº 253, DE 12 DE NOVEMBRO DE 2021"
+orgao: "Ministério da Agricultura, Pecuária e Abastecimento/Secretaria de Agricultura Familiar e Cooperativismo"
+tipo: "Portaria"
+numero: "253"
+data: 2021-11-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/11/2021, seção 1, p. 4"
+data_publicacao: 2021-11-16
+edicao: "214"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-saf/mapa-n-253-de-12-de-novembro-de-2021-359452974"
+sha256_html_fonte: 5a89a639fd5f3b732f5265fda92af5c168dbdb548bcc9ee3e067e3eae6293691
+baixado_em: 2026-10-21
+---
+# PORTARIA SAF/MAPA Nº 253, DE 12 DE NOVEMBRO DE 2021
+
+PORTARIA SAF/MAPA Nº 253, DE 12 DE NOVEMBRO DE 2021
+
+Dispõe sobre a criação da Unidade Gestora Estadual - UGE, responsável pela execução e gerenciamento do Programa Nacional de Crédito Fundiário no Estado de Minas Gerais.
+
+O SECRETÁRIO DE AGRICULTURA FAMILIAR E COOPERATIVISMO, no uso de suas atribuições que lhe confere o Parágrafo Único do Art. 1º e o Parágrafo 3º do Art. 2º da Portaria nº 189 de 17 de setembro de 2019, resolve:
+
+**Art. 1º** Instituir a Unidade Gestora Estadual no estado de Minas Gerais - UGE/MG, cujas as atribuições serão exercidas pela Superintendência Federal da Agricultura, Pecuária e Abastecimento - SFA do Ministério da Agricultura, Pecuária e Abastecimento - MAPA.
+
+Parágrafo Único. O Superintendente da SFA/MG será o coordenador da UGE/MG.
+
+**Art. 2º** A UGE/MG desempenhará todas as atividades previstas no Regulamento Operativo do Fundo de Terras e da Reforma Agrária, nos Manuais de Operações e nas normas complementares do PNCF - Terra Brasil.
+
+Parágrafo Único. A UGE/MG atuará sob a supervisão imediata do Departamento de Gestão do Crédito Fundiário - DECRED, da Secretaria de Agricultura Familiar e Cooperativismo - SAF.
+
+**Art. 3º** Caberá ao Coordenador da UGE/MG, sem prejuízo de outras atribuições que lhe forem conferidas pela regulamentação do PNCF - Terra Brasil:
+
+I - coordenar a execução do Programa no Estado, em consonância com o Regulamento Operativo e o Manual de Operações do Programa;
+
+II - assegurar a supervisão da aplicação dos recursos federais por parte das entidades conveniadas e dos beneficiários do Programa;
+
+III - encaminhar aos agentes financeiros autorizações de contratação das propostas aprovadas pelo Conselho Municipal, bem como as autorizações de liberação de recursos de investimentos;
+
+IV - tomar todas as providências administrativas ou judiciais necessárias em caso de constatação de irregularidades no Programa, em particular o bloqueio dos recursos das contas vinculadas ao financiamento, a suspensão ou rescisão de contratos e a execução de hipotecas;
+
+V - autorizar e encaminhar aos agentes financeiros as alterações nos contratos de financiamento do Programa, em conformidade com as normas vigentes;
+
+VI - emitir as Declarações de Aptidão ao Programa Nacional de Fortalecimento da Agricultura Familiar "A" - PRONAF A, para os beneficiários do PNCF - Terra Brasil, bem como desempenhar todas as demais funções atribuídas à UGE/MG por força das normas do PRONAF; e
+
+VII - habilitar os operadores dos sistemas de informações gerenciais do PNCF - Terra Brasil e zelar pela integridade dos dados nele contidos, em observância às normas estabelecidas pelas gerências de sistemas do DECRED e do MAPA.
+
+**Art. 4º** Caberá conjuntamente à SAF, à Secretaria-Executiva do MAPA e à respectiva SFA no Estado criarem as condições de financiamento da UGE/MG, bem como disponibilizar os recursos e o pessoal para o desempenho de suas competências.
+
+**Art. 5º** Esta Portaria entra em vigor no dia 16 de novembro de 2021.
+
+CESAR HANNA HALUM

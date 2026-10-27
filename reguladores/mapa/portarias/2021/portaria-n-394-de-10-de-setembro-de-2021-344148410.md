@@ -1,0 +1,62 @@
+---
+titulo: "PORTARIA Nº 394, DE 10 DE SETEMBRO DE 2021"
+orgao: "Ministério da Agricultura, Pecuária e Abastecimento/Secretaria de Defesa Agropecuária"
+tipo: "Portaria"
+numero: "394"
+data: 2021-09-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 13/09/2021, seção 1, p. 7"
+data_publicacao: 2021-09-13
+edicao: "173"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-394-de-10-de-setembro-de-2021-344148410"
+sha256_html_fonte: 25c7b34bd35ab79a71d48f7f20eea22e5e3a262a487cff7114ed2b1b27a6bc8e
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 394, DE 10 DE SETEMBRO DE 2021
+
+PORTARIA Nº 394, DE 10 DE SETEMBRO DE 2021
+
+Estabelece os calendários de semeadura de soja em nível nacional, e dá outras providências.
+
+O SECRETÁRIO DE DEFESA AGROPECUÁRIA, DO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO, no uso das atribuições que lhe conferem os arts. 21 e 63 do Anexo I do Decreto nº 10.253, de 20 de fevereiro de 2020, tendo em vista o disposto no Decreto n° 24.114, de 12 de abril de 1934, no Decreto n° 5.759, de 17 de abril de 2006, na Portaria nº 306, de 13 de maio de 2021, e o que consta do Processo n° 21000.070074/2021-16, resolve:
+
+**Art. 1º** Estabelecer os calendários de semeadura de soja referente à safra 2021/2022, nas unidades da federação, na forma do anexo desta Portaria, para fins de atendimento ao Programa Nacional de Controle da Ferrugem Asiática da Soja -*Phakopsora pachyrhizi*(PNCFS).
+
+**Parágrafo único.** Os períodos de semeadura poderão ser alterados, mediante solicitação fundamentada dos órgãos estaduais de defesa sanitária vegetal.
+
+**Art. 2º** As finalidades dos cultivos autorizados em caráter excepcional, de que trata o Art. 10 da Portaria nº 306, de 13 de maio de 2021, para a safra 2021/2022, poderão ser protocolizadas junto às Superintendências Federais de Agricultura, Pecuária e Abastecimento, em cada unidade da federação, em até 60 (sessenta) dias antes do fim do calendário de semeadura.
+
+**Art. 3º** Fica revogada a Portaria nº 389, de 1º de setembro de 2021.
+
+**Art. 4º** Esta Portaria entra em vigor na data da sua publicação.
+
+JOSÉ GUILHERME TOLLSTADIUS LEAL
+
+## ANEXO
+
+CALENDÁRIOS DE SEMEADURA DE SOJA
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>PERÍODO DE SEMEADURA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Acre</p></td>      <td rowspan="1" colspan="1"><p>21 de setembro de 2021 a 08 de fevereiro de 2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Alagoas</p></td>      <td rowspan="1" colspan="1"><p>01 de abril de 2022 a 30 de junho de 2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Amapá</p></td>      <td rowspan="1" colspan="1"><p>01 de março de 2022 a 19 de julho de 2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Bahia</p></td>      <td rowspan="1" colspan="1"><p>01 de outubro de 2021 a 31 de dezembro de 2021</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Ceará</p></td>      <td rowspan="1" colspan="1"><p>16 de setembro de 2021 a 03 de fevereiro de 2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Distrito Federal</p></td>      <td rowspan="1" colspan="1"><p>25 de setembro de 2021 a 12 de fevereiro de 2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Goiás</p></td>      <td rowspan="1" colspan="1"><p>25 de setembro de 2021 a 12 de fevereiro de 2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Maranhão</p></td>      <td rowspan="1" colspan="1"><p>Região I1 - 01 de dezembro de 2021 a 20 de abril de 2022</p><p>Região II2- 21 de novembro de 2021 a 10 de abril de 2022</p><p>Região III3- 01 de outubro de 2021 a 18 de fevereiro de 2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Minas Gerais</p></td>      <td rowspan="1" colspan="1"><p>25 de setembro de 2021 a 12 de fevereiro de 2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Mato Grosso</p></td>      <td rowspan="1" colspan="1"><p>16 de setembro de 2021 a 03 de fevereiro de 2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Mato Grosso do Sul</p></td>      <td rowspan="1" colspan="1"><p>16 de setembro de 2021 a 31 de dezembro de 2021</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Pará</p></td>      <td rowspan="1" colspan="1"><p>Região I4 - 16 de setembro de 2021 a 03 de fevereiro de 2022</p><p>Região II5- 01 de novembro de 2021 a 21 de março de 2022</p><p>Região III6- 16 de novembro de 2021 a 05 de abril de 2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Paraná</p></td>      <td rowspan="1" colspan="1"><p>11 de setembro de 2021 a 31 de janeiro de 2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Piauí</p></td>      <td rowspan="1" colspan="1"><p>Região I7 - 01 de dezembro de 2021 a 20 de abril de 2022</p><p>Região II8- 01 de novembro de 2021 a 21 de março de 2022</p><p>Região III9- 01 de outubro de 2021 a 18 de fevereiro de 2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Rio Grande do Sul</p></td>      <td rowspan="1" colspan="1"><p>13 de setembro de 2021 a 31 de janeiro de 2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Rondônia</p></td>      <td rowspan="1" colspan="1"><p>Região I10 - 11 de setembro de 2021 a 29 de janeiro de 2022</p><p>Região II11- 16 de setembro de 2021 a 03 de fevereiro de 2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Roraima</p></td>      <td rowspan="1" colspan="1"><p>20 de abril de 2022 a 07 de setembro de 2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Santa Catarina</p></td>      <td rowspan="1" colspan="1"><p>13 de setembro de 2021 a 31 de janeiro de 2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>São Paulo</p></td>      <td rowspan="1" colspan="1"><p>16 de setembro de 2021 a 03 de fevereiro de 2022</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Tocantins</p></td>      <td rowspan="1" colspan="1"><p>01 de outubro de 2021 a 18 de fevereiro de 2022</p></td>     </tr>    </tbody>   </table>
+
+1Alcântara, Amapá do Maranhão, Apicum-Açu, Bacuri, Bacurituba, Bequimão, Boa Vista do Gurupi, Cajapió, Cândido Mendes, Carutapera, Cedral, Central do Maranhão, Centro do Guilherme, Cururupu, Godofredo Viana, Governador Nunes Freire, Guimarães, Junco do Maranhão, Luís Domingues, Maracaçumé, Maranhãozinho, Matinha, Mirinzal, Olinda Nova do Maranhão, Paço do Lumiar, Palmeirândia, Peri Mirim, Pinheiro, Porto Rico do Maranhão, Presidente Médici, Presidente Sarney, Raposa, Santa Helena, Santa Luzia do Paruá, São Bento, São João Batista, São José de Ribamar, São Luís, São Vicente Ferrer, Serrano do Maranhão, Turiaçu, Turilândia, Altamira do Maranhão, Alto Alegre do Pindaré, Araguanã, Bela Vista do Maranhão, Bom Jardim, Cajari, Centro Novo do Maranhão, Governador Newton Bello, Igarapé do Meio, Monção, Nova Olinda do Maranhão, Olho d'Água das Cunhãs, Pedro do Rosário, Penalva, Pindaré-Mirim, Pio XII, Santa Inês, São João do Carú, Satubinha, Tufilândia, Viana, Vitória do Mearim, Vitorino Freire, Zé Doca, Anajatuba, Arari, Axixá, Bacabal, Bacabeira, Cachoeira Grande, Cantanhede, Conceição do Lago-Açu, Coroatá, Icatu, Itapecuru Mirim, Lago Verde, Matões do Norte, Miranda do Norte, Morros, Nina Rodrigues, Pirapemas, Presidente Juscelino, Presidente Vargas, Rosário, Santa Rita, São Benedito do Rio Preto, São Mateus do Maranhão, Timbiras, Vargem Grande, Afonso Cunha, Água Doce do Maranhão, Anapurus, Araioses, Barreirinhas, Belágua, Brejo, Buriti, Chapadinha, Coelho Neto, Duque Bacelar, Humberto de Campos, Magalhães de Almeida, Mata Roma, Milagres do Maranhão, Paulino Neves, Primeira Cruz, Santa Quitéria do Maranhão, Santana do Maranhão, Santo Amaro do Maranhão, São Bernardo, Tutóia, Urbano Santos, Açailândia, Amarante do Maranhão, Arame, Barra do Corda, Bom Jesus das Selvas, Bom Lugar, Brejo de Areia, Buriticupu, Esperantinópolis, Itaipava do Grajaú, Itinga do Maranhão, Jenipapo dos Vieiras, Joselândia, Lago da Pedra, Lago do Junco, Lago dos Rodrigues, Lagoa Grande do Maranhão, Marajá do Sena, Paulo Ramos, Poção de Pedras, Santa Luzia, São José dos Basílios, São Raimundo do Doca Bezerra, São Roberto, Aldeias Altas, Alto Alegre do Maranhão, Bernardo do Mearim, Capinzal do Norte, Caxias, Codó, Dom Pedro, Gonçalves Dias, Governador Archer, Igarapé Grande, Lima Campos, Pedreiras, Peritoró, Santo Antônio dos Lopes, São João do Soter, São Luís Gonzaga do Maranhão, Timon e Trizidela do Vale.
+
+2Buritirana, Campestre do Maranhão, Cidelândia, Davinópolis, Estreito, Formosa da Serra Negra, Governador Edison Lobão, Grajaú, Imperatriz, João Lisboa, Lajeado Novo, Montes Altos, Porto Franco, Ribamar Fiquene, São Francisco do Brejão, São João do Paraíso, São Pedro da Água Branca, São Pedro dos Crentes, Senador La Rocque, Sítio Novo e Vila Nova dos Martírios.
+
+3Barão de Grajaú, Buriti Bravo, Colinas, Fernando Falcão, Fortuna, Governador Eugênio Barros, Governador Luiz Rocha, Graça Aranha, Jatobá, Lagoa do Mato, Matões, Mirador, Nova Iorque, Paraibano, Parnarama, Passagem Franca, Pastos Bons, Presidente Dutra, Santa Filomena do Maranhão, São Domingos do Maranhão, São Francisco do Maranhão, São João dos Patos, Senador Alexandre Costa, Sucupira do Norte, Sucupira do Riachão, Tuntum, Benedito Leite, Fortaleza dos Nogueiras, Loreto, Sambaíba, São Domingos do Azeitão, São Félix de Balsas, São Raimundo das Mangabeiras, Alto Parnaíba, Balsas, Carolina, Feira Nova do Maranhão, Nova Colinas, Riachão e Tasso Fragoso.
+
+4Bannach, Conceição do Araguaia, Cumaru do Norte, Floresta do Araguaia, PauD'Arco, Redenção, Santa Maria das Barreiras, Santana do Araguaia, Ourilândia do Norte, São Félix do Xingu, Tucumã, Água Azul do Norte, Rio Maria, Sapucaia, Xinguara, Brejo Grande do Araguaia, Itupiranga, Jacundá, Marabá, Nova Ipixuna, Palestina do Pará, Piçarra, São Domingos do Araguaia, São Geraldo do Araguaia, São João do Araguaia, Canaã dos Carajás, Curionópolis, Eldorado do Carajás, Parauapebas, Aveiro, Itaituba, Jacareacanga, Novo Progresso, Trairão, além dos distritos de Cachoeira da Serra e Castelo de Sonhos.
+
+5Aurora do Pará, Mãe do Rio, Paragominas, Ulianópolis, Ipixuna do Pará, Nova Esperança do Piriá, Tailândia, Moju, Goianésia do Pará, Jacunda, Breu Branco, Dom Eliseu, Rondon do Pará, Abel Figueiredo, Bom Jesus do Tocantins, Ourém, Capitão Poço, Tomé-Açu, Novo Repartimento, Pacajá, Tucuruí, Garrafão do Norte, Bonito, Capanema, Nova Timboteua, Peixe-Boi, Primavera, Quatipuru, Salinópolis, Santarém Novo, São João de Pirabas, Augusto Corrêa, Bragança, Cachoeira do Piriá, Santa Luzia do Pará, Baião, Viseu, Castanhal, Curuçá, Igarapé-Açu, Inhangapi, Irituia, Magalhães Barata, Maracanã, Marapanim, Santa Maria do Pará, São Domingos do Capim, São Francisco do Pará, São João da Ponta, São Miguel do Guamá, Terra Alta, Abaetetuba, Igarapé-Miri, Cametá, Limoeiro do Ajuru, Mocajuba, Oeiras do Pará, Acará, Barcarena, Benevides, Bujaru, Colares, Concórdia do Pará, Marituba, Santa Bárbara do Pará, Santa Izabel do Pará, Santo Antônio do Tauá, São Caetano de Odivelas, Vigia, Cachoeira do Arari, Muaná e Ponta de Pedras.
+
+6Alenquer, Belterra, Mojuí dos Campos, Monte Alegre, Prainha, Santarém, Altamira, Anapu, Brasil Novo, Medicilândia, Senador José Porfírio, Vitória do Xingu, Uruará, Placas, Rurópolis, Salvaterra, Tracuateua, Curuá, Faro, Juruti, Óbidos, Oriximiná, Terra Santa, Almeirim, Porto de Moz, Santa Cruz do Arari, Soure, Afuá, Anajás, Bagre, Breves, Chaves, Gurupá, Melgaço e Portel.
+
+7Municípios que compõem a Mesorregião NORTE, conforme classificação IBGE.
+
+8Municípios que compõem a Mesorregião CENTRO, conforme classificação IBGE.
+
+9Municípios que compõem a Mesorregião SUL (Sudeste e Sudoeste), conforme classificação IBGE.
+
+10Municípios de Cabixi, Cerejeiras, Chupinguaia, Colorado do Oeste, Corumbiara, Pimenteiras do Oeste e Vilhena.
+
+11Demais municípios do estado.

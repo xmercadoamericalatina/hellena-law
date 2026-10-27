@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIA Nº 23, DE 21 DE FEVEREIRO DE 2022"
+orgao: "Ministério da Agricultura, Pecuária e Abastecimento/Secretaria Executiva/Superintendência Federal de Agricultura, Pecuária e Abastecimento do Espírito Santo"
+tipo: "Portaria"
+numero: "23"
+data: 2022-02-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/02/2022, seção 1, p. 17"
+data_publicacao: 2022-02-23
+edicao: "38"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-23-de-21-de-fevereiro-de-2022-382222322"
+sha256_html_fonte: f1930fc388a2f6260761be98bb088aacc7ceb70a84cde3063922e4dd12d3c971
+baixado_em: 2026-10-20
+---
+# PORTARIA Nº 23, DE 21 DE FEVEREIRO DE 2022
+
+PORTARIA Nº 23, DE 21 DE FEVEREIRO DE 2022
+
+O SUPERINTENDENTE FEDERAL DE AGRICULTURA NO ESTADO DO ESPÍRITO SANTO, NO USO DAS ATRIBUIÇÕES QUE LHE FORAM CONFERIDAS PELO REGIMENTO INTERNO DA SECRETARIA EXECUTIVA (SE/MAPA), APROVADO ATRAVÉS DA PORTARIA MINISTERIAL Nº 561, DE 11 DE ABRIL DE 2018, PUBLICADA NO DOU DE 12 DE ABRIL DE 2018 E NOS TERMOS DA INSTRUÇÃO NORMATIVA 6, DE 16 DE JANEIRO DE 2018, PUBLICADA NO DOU DE 17 DE JANEIRO DE 2018, RESOLVE:
+
+ART. 1º - Cancelar, A HABILITAÇÃO Nº 31/2019 CONCEDIDA AO(A) MÉDICO(A) VETERINÁRIO(A) MERY HENRIQUE RIBEIRO FERNANDES PARA COLHEITA E ENVIO DE AMOSTRAS PARA DIAGNÓSTICO DO MORMO NO ÂMBITO DO ESTADO DO ESPÍRITO SANTO, CONCEDIDA PELA PORTARIA SFA-ES 083/2019 DE 10.06.2019.
+
+**Art. 2º.** Esta Portaria entra em vigor na data de sua publicação.
+
+AURELIANO NOGUEIRA DA COSTA

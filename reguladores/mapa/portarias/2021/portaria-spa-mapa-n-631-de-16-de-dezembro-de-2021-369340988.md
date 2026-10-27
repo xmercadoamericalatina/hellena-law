@@ -1,0 +1,126 @@
+---
+titulo: "PORTARIA SPA/MAPA Nº 631, DE 16 DE DEZEMBRO DE 2021"
+orgao: "Ministério da Agricultura, Pecuária e Abastecimento/Secretaria de Política Agrícola"
+tipo: "Portaria"
+numero: "631"
+data: 2021-12-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/12/2021, seção 1, p. 69"
+data_publicacao: 2021-12-22
+edicao: "240"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-spa/mapa-n-631-de-16-de-dezembro-de-2021-369340988"
+sha256_html_fonte: 7fb45739b565c3efe4e8fc292470b63c45ec9ffa70fbcd2c4f873121891195e5
+baixado_em: 2026-10-21
+---
+# PORTARIA SPA/MAPA Nº 631, DE 16 DE DEZEMBRO DE 2021
+
+PORTARIA SPA/MAPA Nº 631, DE 16 DE DEZEMBRO DE 2021
+
+Aprova o Zoneamento Agrícola de Risco Climático - ZARC para a cultura do triticale, em sistema de cultivo irrigado, no Distrito Federal.
+
+O SECRETÁRIO DE POLÍTICA AGRÍCOLA, no uso de suas atribuições e competências estabelecidas pelo Decreto nº 10.827, de 30 de setembro de 2021, e observado, no que couber, o contido no Decreto nº 9.841 de 18 de junho de 2019, na Portaria nº 412 de 30 de dezembro de 2020 e na Instrução Normativa nº 2, de 9 de novembro de 2021, publicada no Diário Oficial da União de 11 de novembro de 2021, da Secretaria de Política Agrícola, resolve:
+
+**Art. 1º** Aprovar o Zoneamento Agrícola de Risco Climático para a cultura do triticale, em sistema de cultivo irrigado, no Distrito Federal conforme anexo.
+
+**Art. 2º** Esta Portaria entra em vigor em 2 de janeiro de 2022.
+
+GUILHERME SORIA BASTOS FILHO
+
+## ANEXO
+
+1\. NOTA TÉCNICA
+
+O triticale (X Triticosecale Wittmack) é o primeiro cereal criado pelo homem. Oriundo do cruzamento artificial entre trigo e centeio, cujas primeiras plantas férteis foram obtidas na Alemanha no final do século XIX. No Brasil, o triticale começou a ser estudado nos anos 1960 e chegou às lavouras comerciais nos anos 1980. Ao unir os genomas do trigo e do centeio, o triticale, potencialmente, por combinar características positivas das duas espécies, pode apresentar vantagens competitivas em áreas consideradas marginais para o cultivo de cereais de inverno no mundo.
+
+No Brasil, inicialmente, o triticale foi cultivado com o objetivo de ser um substituto do trigo na alimentação humana. Todavia, pelas caraterísticas tecnológicas da farinha de triticale, o seu uso ficou restrito a mesclas com trigos para a fabricação de biscoitos e, principalmente, na alimentação animal (suínos e aves).
+
+A disponibilidade hídrica e a temperatura do ar são as principais variáveis ambientais que influenciam o crescimento e o desenvolvimento do triticale. O triticale costuma apresentar tolerância elevada a condições ambientais adversas como o estresse térmico (altas ou baixas temperaturas), acidez do solo, salinidade, alcalinidade, estresse mineral (deficiência/excesso), estresse hídrico (deficiência/excesso), entre outros. Por isso, é considerado um cereal para cultivo em ambientes menos favoráveis ou para sistemas agrícolas com baixo investimento tecnológico.
+
+A cultura apresenta relativa tolerância a estiagens, principalmente em solos ácidos. A tolerância do triticale à acidez permite que as plantas desenvolvam o sistema radicular que atinge maior profundidade, garantindo capacidade de adaptação às condições de estresse.
+
+A temperatura do ar é a principal variável ambiental que influencia a duração do ciclo do triticale. A faixa de temperatura ideal para o crescimento e desenvolvimento do triticale é de 15 a 25°C. A ocorrência de frio no início do ciclo de desenvolvimento pode favorecer a cultura, uma vez que baixas temperaturas prolongam o período vegetativo, permitindo maior emissão de perfilhos, aumento de área foliar e estabelecimento do sistema radicular.
+
+Os cereais de inverno, como o trigo e o triticale, são suscetíveis a danos provocados por geada durante todo o ciclo de desenvolvimento da cultura. Entretanto, a fase mais sensível é no Espigamento/florescimento quando a ocorrência de geadas pode provocar redução do rendimento e qualidade dos grãos.
+
+O excesso de chuva de enchimento de grãos favorece o aparecimento de doenças na espiga. A ocorrência de doenças na espiga do triticale pode provocar redução do rendimento e da qualidade dos grãos, uma vez que alguns microorganismos podem produzir micotoxinas que limitam o consumo destes grãos por animais monogástricos.
+
+O excesso de chuvas na maturação dos grãos (próximo à colheita) pode provocar a germinação dos grãos na espiga e, consequentemente, redução do rendimento e do peso hectolitro dos grãos.
+
+A precipitação de granizo provoca danos diretos na cultura do triticale, provocando quebra de colmos, dilaceração de folhas, redução da área foliar e debulha das espigas. Os danos indiretos estão relacionados à dilaceração das plantas, aumentando a suscetibilidade das mesmas à incidência de insetos, fungos e bactérias.
+
+O triticale é uma cultura que apresenta elevada plasticidade em relação a variáveis ambientais. Todavia, o rendimento de grãos e a viabilidade econômica da cultura são diretamente influenciados por geadas no espigamento, pelo excesso de umidade e deficiência hídrica a partir do espigamento, chuvas de granizo na colheita e excesso de umidade combinado com temperaturas elevadas no enchimento de grãos, entre outros.
+
+Objetivou-se, com o Zoneamento Agrícola de Risco Climático, identificar o período de semeadura, para o cultivo do triticale irrigado, em três níveis de risco: 20%(80% dos anos atendidos), 30%(70% dos anos atendidos) e 40%(60% dos anos atendidos).
+
+Essa identificação foi realizada com a aplicação de um modelo de balanço hídrico da cultura. Neste modelo são consideradas as exigências hídrica e térmica, duração do ciclo, fases fenológicas e reserva útil de água dos solos para o cultivo desta espécie, bem como dados de precipitação pluvial e evapotranspiração de referência de séries, preferencialmente, com 30 anos de dados. Somente em algumas regiões com escassez dessas séries de longa duração, foram usadas séries com um mínimo de 15 anos de dados diários, chegando a uma totalização de 3.500 séries pluviométricas aproveitáveis para o trabalho.
+
+Ressalta-se que por se tratar de um modelo agroclimático, parte-se do pressuposto de que não ocorrerão limitações quanto à fertilidade dos solos ou danos às plantas devido à ocorrência de plantas daninhas, pragas e doenças.
+
+Para delimitação das áreas aptas ao cultivo do triticale, em condições de baixo risco, foram adotados os seguintes parâmetros e variáveis:
+
+I. Temperatura:
+
+Foi considerado o risco de geada foi estimado pela análise da frequência de ocorrência de temperaturas do ar igual ou menor a 1,0°C, com base na temperatura do ar em abrigo meteorológico. O diagnóstico de risco de geada foi considerado em dois decêndios (20 dias) ao redor do espigamento, incluindo o decêndio imediatamente anterior (n-1) e no decêndio do espigamento (n).
+
+II. Ciclo e Fases fenológicas: Fase I: Estabelecimento da cultura (semeadura/emergência); Fase II: Crescimento Vegetativo; Fase III: Espigamento/floração/enchimento de grãos; Fase IV: Maturação. As cultivares de triticale foram classificadas em três grupos de características homogêneas, conforme tabela abaixo:
+
+<table> 	<tbody> 		<tr> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p><strong>Grupo</strong></p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Ciclo (dias)</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Representa o grupo de cultivares com ciclo médio entre (dias)</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>Grupo I</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>110</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p> ≤ 110</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>Grupo II</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>120</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>111 - 130</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>Grupo III</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>130</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>&gt; 130</p> 			</td> 		</tr> 	</tbody> </table>
+
+III. Precipitação: O risco de excesso hídrico no final do ciclo na Fase IV (20 dias final do ciclo) foi calculado pelo total de chuva maior ou igual a 185 mm.
+
+IV. Critérios Auxiliares:
+
+Adicionalmente, como estratégia para melhor posicionamento da cultura, adotou-se o início e término dos períodos de semeadura dos sistemas de produção de grãos consolidados em cada zona de produção para definir as delimitações regionais, utilizando resultados de experimentação conduzida em 144 locais no País, entre 2000 e 2020.
+
+Os ambientes, considerados com aptidão para o cultivo de triticale em sistemas de cultivo irrigados, foram definidos pelo critério de altitude preferencialmente acima de 500 m e com estação de estação de crescimento da cultura caracterizada por ausência ou pouca chuva.
+
+Considerou-se apto o Distrito Federal para o cultivo do triticale os municípios por apresentar, em no mínimo 20%de sua área, condições climáticas dentro dos critérios considerados.
+
+Notas:
+
+Os resultados do Zarc são gerados considerando um manejo agronômico adequado para o bom desenvolvimento, crescimento e produtividade da cultura, compatível com as condições de cada localidade. Falhas ou deficiências de manejo de diversos tipos, desde a fertilidade do solo até o manejo de pragas e doenças; ou escolha de cultivares inadequados para o ambiente edafoclimático, podem resultar em perdas graves de produtividade ou agravar perdas geradas por eventos meteorológicos adversos. Portanto, é indispensável: utilizar tecnologia de produção adequada para a condição edafoclimática; controlar efetivamente as plantas daninhas, pragas e doenças durante o cultivo; adotar práticas de manejo e conservação de solos.
+
+A gestão de riscos de natureza climática na cultura do triticale pode ser melhorada pela assistência técnica local, via a diluição de riscos, quando são associadas, ao calendário de semeadura preconizado nas Portarias de ZARC, práticas de manejo de cultivos que contemplem a rotação de culturas, o escalonamento de épocas de semeadura e a diversificação de cultivares (com ciclos diferentes) em uma mesma propriedade rural.
+
+Informações detalhadas para a condução de uma lavoura de triticale, da semeadura à colheita, podem ser encontradas nas Informações Técnicas anuais da Comissão Brasileira de Pesquisa de Trigo e Triticale, disponíveis em (escolher a versão mais atual, conforme safra alvo):
+
+https://www.reuniaodetrigo.com.br/
+
+https://www.conferencebr.com/conteudo/arquivo/informacoestecnicasparatrigoetriticale
+
+safra2020-1597089276.pdf
+
+2\. TIPOS DE SOLOS APTOS AO CULTIVO
+
+São aptos ao cultivo de triticale no Distrito Federal os solos dos tipos 1, 2 e 3, observadas as especificações e recomendações contidas na Instrução Normativa nº 2, de 9 de novembro de 2021.
+
+Não são indicadas para o cultivo:
+
+\- áreas de preservação permanente, de acordo com a Lei 12.6, de 25 de maio de 2012;
+
+\- áreas com solos que apresentam profundidade inferior a 50 cm ou com solos muito pedregosos, isto é, solos nos quais calhaus e matacões ocupem mais de 15%da massa e/ou da superfície do terreno.
+
+\- áreas que não atendam às determinações da Legislação Ambiental vigente, do Zoneamento Ecológico Econômico (ZEE) dos Estados.
+
+3\. TABELA DE PERÍODOS DE SEMEADURA
+
+<table> 	<tbody> 		<tr> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>Períodos</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>1</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>2</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>3</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>4</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>5</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>6</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>7</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>8</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>9</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>10</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>11</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>12</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>Datas</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>1º</p>  			<p>a</p>  			<p>10</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>11</p>  			<p>a</p>  			<p>20</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>21</p>  			<p>a</p>  			<p>31</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>1º</p>  			<p>a</p>  			<p>10</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>11</p>  			<p>a</p>  			<p>20</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>21</p>  			<p>a</p>  			<p>28</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>1º</p>  			<p>a</p>  			<p>10</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>11</p>  			<p>a</p>  			<p>20</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>21</p>  			<p>a</p>  			<p>31</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>1º</p>  			<p>a</p>  			<p>10</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>11</p>  			<p>a</p>  			<p>20</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>21</p>  			<p>a</p>  			<p>30</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>Meses</p> 			</td> 			<td colspan="3" rowspan="1"> 			<p>Janeiro</p> 			</td> 			<td colspan="3" rowspan="1"> 			<p>Fevereiro</p> 			</td> 			<td colspan="3" rowspan="1"> 			<p>Março</p> 			</td> 			<td colspan="3" rowspan="1"> 			<p>Abril</p> 			</td> 		</tr> 	</tbody> </table>
+
+<table> 	<tbody> 		<tr> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>Períodos</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>13</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>14</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>15</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>16</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>17</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>18</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>19</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>20</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>21</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>22</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>23</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>24</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>Datas</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>1º</p>  			<p>a</p>  			<p>10</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>11</p>  			<p>a</p>  			<p>20</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>21</p>  			<p>a</p>  			<p>31</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>1º</p>  			<p>a</p>  			<p>10</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>11</p>  			<p>a</p>  			<p>20</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>21</p>  			<p>a</p>  			<p>30</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>1º</p>  			<p>a</p>  			<p>10</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>11</p>  			<p>a</p>  			<p>20</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>21</p>  			<p>a</p>  			<p>31</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>1º</p>  			<p>a</p>  			<p>10</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>11</p>  			<p>a</p>  			<p>20</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>21</p>  			<p>a</p>  			<p>31</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>Meses</p> 			</td> 			<td colspan="3" rowspan="1"> 			<p>Maio</p> 			</td> 			<td colspan="3" rowspan="1"> 			<p>Junho</p> 			</td> 			<td colspan="3" rowspan="1"> 			<p>Julho</p> 			</td> 			<td colspan="3" rowspan="1"> 			<p>Agosto</p> 			</td> 		</tr> 	</tbody> </table>
+
+<table> 	<tbody> 		<tr> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>Períodos</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>25</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>26</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>27</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>28</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>29</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>30</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>31</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>32</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>33</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>34</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>35</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>36</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>Datas</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>1º</p>  			<p>a</p>  			<p>10</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>11</p>  			<p>a</p>  			<p>20</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>21</p>  			<p>a</p>  			<p>30</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>1º</p>  			<p>a</p>  			<p>10</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>11</p>  			<p>a</p>  			<p>20</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>21</p>  			<p>a</p>  			<p>31</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>1º</p>  			<p>a</p>  			<p>10</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>11</p>  			<p>a</p>  			<p>20</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>21</p>  			<p>a</p>  			<p>30</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>1º</p>  			<p>a</p>  			<p>10</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>11</p>  			<p>a</p>  			<p>20</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>21</p>  			<p>a</p>  			<p>31</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>Meses</p> 			</td> 			<td colspan="3" rowspan="1"> 			<p>Setembro</p> 			</td> 			<td colspan="3" rowspan="1"> 			<p>Outubro</p> 			</td> 			<td colspan="3" rowspan="1"> 			<p>Novembro</p> 			</td> 			<td colspan="3" rowspan="1"> 			<p>Dezembro</p> 			</td> 		</tr> 	</tbody> </table>
+
+4\. CULTIVARES INDICADAS
+
+Ficam indicadas no Zoneamento Agrícola de Risco Climático, as cultivares de triticale registradas no Registro Nacional de Cultivares (RNC) do Ministério da Agricultura, Pecuária e Abastecimento, atendidas as indicações das regiões de adaptação, em conformidade com as recomendações dos respectivos obtentores/mantenedores.
+
+NOTAS:
+
+1\. Informações específicas sobre as cultivares indicadas devem ser obtidas junto aos respectivos obtentores/mantenedores.
+
+2\. Devem ser utilizadas no plantio sementes produzidas em conformidade com a legislação brasileira sobre sementes e mudas (Lei nº 10.711, de 5 de agosto de 2003, e Decreto nº 10.586, de 18 de dezembro de 2020).
+
+5\. PERÍODOS INDICADOS PARA SEMEADURA
+
+<table> 	<tbody> 		<tr> 		</tr> 		<tr> 			<td colspan="9" rowspan="1"> 			<p>PERÍODOS DE SEMEADURA PARA CULTIVARES DE GRUPO I<strong>, II e III</strong></p> 			</td> 		</tr> 		<tr> 			<td colspan="3" rowspan="1"> 			<p><strong>SOLO 1</strong></p> 			</td> 			<td colspan="3" rowspan="1"> 			<p>SOLO 2</p> 			</td> 			<td colspan="3" rowspan="1"> 			<p>SOLO 3</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>RISCO DE 20%</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>RISCO DE 30%</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>RISCO DE 40%</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>RISCO DE 20%</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>RISCO DE 30%</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>RISCO DE 40%</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>RISCO DE 20%</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>RISCO DE 30%</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>RISCO DE 40%</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>11 a 16</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p> </p> 			</td> 			<td colspan="1" rowspan="1"> 			<p> </p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>11 a 16</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p> </p> 			</td> 			<td colspan="1" rowspan="1"> 			<p> </p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>11 a 16</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p> </p> 			</td> 			<td colspan="1" rowspan="1"> 			<p> </p> 			</td> 		</tr> 	</tbody> </table>

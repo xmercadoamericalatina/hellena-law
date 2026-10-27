@@ -1,0 +1,28 @@
+---
+titulo: "PORTARIA Nº 558, DE 11 DE AGOSTO DE 2022"
+orgao: "Ministério da Agricultura, Pecuária e Abastecimento/Secretaria Executiva/Superintendência Federal de Agricultura, Pecuária e Abastecimento de São Paulo"
+tipo: "Portaria"
+numero: "558"
+data: 2022-08-11
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 15/08/2022, seção 1, p. 11"
+data_publicacao: 2022-08-15
+edicao: "154"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-558-de-11-de-agosto-de-2022-422262797"
+sha256_html_fonte: 5fd3ec142c3c094f73c2f63f73f60f6ea8c6c9c45540003e6832b322f258c675
+baixado_em: 2026-10-20
+---
+# PORTARIA Nº 558, DE 11 DE AGOSTO DE 2022
+
+PORTARIA Nº 558, DE 11 DE AGOSTO DE 2022
+
+A SUPERINTENDENTE FEDERAL DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO NO ESTADO DE SÃO PAULO, no uso de suas atribuições que lhe confere o Art. 292, da Portaria Ministerial nº. 561, de 11/04/2018, publicado no D.O.U. de 13/04/2018, página 7 a 39 e o Memorando Circular nº 25/2018/SE-MAPA, de 25/04/2018 - Processo SEI nº. 21000.015362/2018-11 e considerando o que consta no Processo SEI SFA/SP nº. 21052.016120/2022-15, resolve:
+
+**Art. 1** - HABILITAR os Médicos Veterinários abaixo discriminados para a colheita de material e envio de amostras aos laboratórios credenciados para o diagnóstico de Mormo, observando as normas e dispositivos legais em vigor:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>ORDEM</p></td>      <td rowspan="1" colspan="1"><p>NOME</p></td>      <td rowspan="1" colspan="1"><p>CRMV-SP</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>01</p></td>      <td rowspan="1" colspan="1"><p>ALEXANDRE LUIS DE MELO FILHO</p></td>      <td rowspan="1" colspan="1"><p>54632</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>02</p></td>      <td rowspan="1" colspan="1"><p>ANTONIO CARLOS BOLINO</p></td>      <td rowspan="1" colspan="1"><p>3853</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>03</p></td>      <td rowspan="1" colspan="1"><p>BRUNO VINICIUS PEREIRA ENNES</p></td>      <td rowspan="1" colspan="1"><p>55128</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>04</p></td>      <td rowspan="1" colspan="1"><p>CAROLINA HEREDIA DA SILVA OLIVEIRA</p></td>      <td rowspan="1" colspan="1"><p>49614</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>05</p></td>      <td rowspan="1" colspan="1"><p>DIANA VILLA VERDE SALAZAR</p></td>      <td rowspan="1" colspan="1"><p>48528</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>06</p></td>      <td rowspan="1" colspan="1"><p>EZAÚ TOSHIO FUZITA</p></td>      <td rowspan="1" colspan="1"><p>51527</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>07</p></td>      <td rowspan="1" colspan="1"><p>FERNANDA BRANCO DE MORAES ANDRADE</p></td>      <td rowspan="1" colspan="1"><p>14513</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>08</p></td>      <td rowspan="1" colspan="1"><p>GABRIELLE FRANCESCHILLI ROSSI</p></td>      <td rowspan="1" colspan="1"><p>53489</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>09</p></td>      <td rowspan="1" colspan="1"><p>HENRIQUE ARAUJO NOVAIS</p></td>      <td rowspan="1" colspan="1"><p>45759</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>10</p></td>      <td rowspan="1" colspan="1"><p>JOSÉ FRANCISCO CRACCO DE GIULI ALVES</p></td>      <td rowspan="1" colspan="1"><p>56744</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>11</p></td>      <td rowspan="1" colspan="1"><p>LEONARDO PEIXOTO JACON</p></td>      <td rowspan="1" colspan="1"><p>48854</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>12</p></td>      <td rowspan="1" colspan="1"><p>LEONARDO TORRES GASPARINI</p></td>      <td rowspan="1" colspan="1"><p>51106</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>13</p></td>      <td rowspan="1" colspan="1"><p>LUAN ALEX NICOLA LENCIONE</p></td>      <td rowspan="1" colspan="1"><p>47425</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>14</p></td>      <td rowspan="1" colspan="1"><p>MARIA CRISANE FIRMINO DE HOLANDA</p></td>      <td rowspan="1" colspan="1"><p>55700</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>15</p></td>      <td rowspan="1" colspan="1"><p>MARILIA COSTA VALENTE TEIXEIRA</p></td>      <td rowspan="1" colspan="1"><p>48349</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>16</p></td>      <td rowspan="1" colspan="1"><p>MARINA LIMA XAVIER DA SILVA</p></td>      <td rowspan="1" colspan="1"><p>56297</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>17</p></td>      <td rowspan="1" colspan="1"><p>MATHEUS FERRARI RODRIGUES</p></td>      <td rowspan="1" colspan="1"><p>52158</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>18</p></td>      <td rowspan="1" colspan="1"><p>RAMON ALVES DA CUNHA</p></td>      <td rowspan="1" colspan="1"><p>50443</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>19</p></td>      <td rowspan="1" colspan="1"><p>RENAN GOULARTE DE MORAES</p></td>      <td rowspan="1" colspan="1"><p>48545</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>20</p></td>      <td rowspan="1" colspan="1"><p>RONALDO CORDEIRO DE ARAÚJO</p></td>      <td rowspan="1" colspan="1"><p>56014</p></td>     </tr>    </tbody>   </table>
+
+**Art. 2** - Esta Portaria entra em vigor na data de sua publicação, podendo ocorrer suspensão e cancelamento da habilitação de qualquer médico veterinário nela contido, em razão do não cumprimento da legislação vigente.
+
+ANDRÉA FIGUEIREDO PROCÓPIO DE MOURA

@@ -1,0 +1,56 @@
+---
+titulo: "PORTARIA Nº 1.560, DE 29 DE julho DE 2022"
+orgao: "Ministério da Agricultura, Pecuária e Abastecimento/Instituto Nacional de Colonização e Reforma Agrária"
+tipo: "Portaria"
+numero: "1560"
+data: 2022-07-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 01/08/2022, seção 1, p. 65"
+data_publicacao: 2022-08-01
+edicao: "144"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1.560-de-29-de-julho-de-2022-418964560"
+sha256_html_fonte: f5ea451d67740b91b3ab446d4e4f3413c8571d12a99252dd8991735968850891
+baixado_em: 2026-10-20
+---
+# PORTARIA Nº 1.560, DE 29 DE julho DE 2022
+
+PORTARIA Nº 1.560, DE 29 DE julho DE 2022
+
+Altera a Portaria nº 552, de 30 de março de 2022, que divulga os atos normativos inferiores a decreto de competência do Instituto Nacional de Colonização e Reforma Agrária, nos termos do Decreto nº 10.139, de 28 de novembro de 2019.
+
+O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA, no uso das atribuições que lhe são conferidas pelo art. 19 da Estrutura Regimental, aprovada pelo Decreto nº 10.252, de 20 de fevereiro de 2020, combinado com o art. 110, do Regimento Interno da Autarquia, aprovado pela Portaria Nº 531, de 23 de março de 2020, e, tendo em vista o disposto no do Decreto nº 10.139, de 28 de novembro de 2019, resolve:
+
+**Art. 1º** Ficam incluídos da Portaria nº 552, de 30 de março de 2022, na forma dos Anexos I e II, os seguintes atos:
+
+I - mantidos para revisão mais profunda; e
+
+II - revogados tacitamente ou com efeitos exauridos no tempo.
+
+**Art. 2º** Ficam excluídos da Portaria Incra nº 552, de 30 de março de 2022, na forma dos Anexos III e IV, os seguintes atos:
+
+I - destituídos de conteúdo normativo; e
+
+II - expressamente revogados anteriormente à sua inclusão.
+
+**Art. 3º** Fica declarada a revogação expressa dos atos normativos constantes do Anexo II.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+GERALDO JOSÉ DA CÂMARA FERREIRA DE MELO FILHO
+
+## ANEXO I — ATOS MANTIDOS PARA REVISÃO MAIS PROFUNDA
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>UNIDADE</p></td>      <td rowspan="1" colspan="1"><p>ESPÉCIE</p></td>      <td rowspan="1" colspan="1"><p>NÚMERO</p></td>      <td rowspan="1" colspan="1"><p>DATA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>INSTRUÇÃO ESPECIAL</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>14 DE NOVEMBRO DE 2001</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>INSTRUÇÃO ESPECIAL</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>11 DE ABRIL DE 2005</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>INSTRUÇÃO ESPECIAL</p></td>      <td rowspan="1" colspan="1"><p>16</p></td>      <td rowspan="1" colspan="1"><p>24 DE JULHO DE 1979</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>INSTRUÇÃO ESPECIAL</p></td>      <td rowspan="1" colspan="1"><p>20</p></td>      <td rowspan="1" colspan="1"><p>28 DE MAIO DE 1980</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>INSTRUÇÃO ESPECIAL</p></td>      <td rowspan="1" colspan="1"><p>23</p></td>      <td rowspan="1" colspan="1"><p>25 DE MARÇO DE 1982</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>INSTRUÇÃO ESPECIAL</p></td>      <td rowspan="1" colspan="1"><p>27</p></td>      <td rowspan="1" colspan="1"><p>6 DE MAIO DE 1983</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>INSTRUÇÃO ESPECIAL</p></td>      <td rowspan="1" colspan="1"><p>29</p></td>      <td rowspan="1" colspan="1"><p>8 DE FEVEREIRO DE 1984</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>INSTRUÇÃO ESPECIAL</p></td>      <td rowspan="1" colspan="1"><p>32</p></td>      <td rowspan="1" colspan="1"><p>23 DE JANEIRO DE 1985</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>INSTRUÇÃO ESPECIAL</p></td>      <td rowspan="1" colspan="1"><p>33</p></td>      <td rowspan="1" colspan="1"><p>29 DE JANEIRO DE 1992</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>INSTRUÇÃO ESPECIAL</p></td>      <td rowspan="1" colspan="1"><p>39</p></td>      <td rowspan="1" colspan="1"><p>5 DE FEVEREIRO DE 1990</p></td>     </tr>    </tbody>   </table>
+
+## ANEXO II — ATOS REVOGADOS TACITAMENTE OU CUJOS EFEITOS TENHAM SE EXAURIDO NO TEMPO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>UNIDADE</p></td>      <td rowspan="1" colspan="1"><p>ESPÉCIE</p></td>      <td rowspan="1" colspan="1"><p>NÚMERO</p></td>      <td rowspan="1" colspan="1"><p>DATA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>INSTRUÇÃO NORMATIVA</p></td>      <td rowspan="1" colspan="1"><p>23</p></td>      <td rowspan="1" colspan="1"><p>25 DE NOVEMBRO DE 2005</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>INSTRUÇÃO NORMATIVA</p></td>      <td rowspan="1" colspan="1"><p>27</p></td>      <td rowspan="1" colspan="1"><p>20 DE DEZEMBRO DE 2005</p></td>     </tr>    </tbody>   </table>
+
+## ANEXO III — ATOS DESTITUÍDOS DE CONTEÚDO NORMATIVO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>UNIDADE</p></td>      <td rowspan="1" colspan="1"><p>ESPÉCIE</p></td>      <td rowspan="1" colspan="1"><p>NÚMERO</p></td>      <td rowspan="1" colspan="1"><p>DATA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>MANUAL</p></td>      <td rowspan="1" colspan="1"><p>S/N</p></td>      <td rowspan="1" colspan="1"><p>3 DE DEZEMBRO DE 2009</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>MANUAL</p></td>      <td rowspan="1" colspan="1"><p>S/N</p></td>      <td rowspan="1" colspan="1"><p>23 DE AGOSTO DE 2013</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>MANUAL</p></td>      <td rowspan="1" colspan="1"><p>S/N</p></td>      <td rowspan="1" colspan="1"><p>1ª EDIÇÃO/2013</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>MANUAL</p></td>      <td rowspan="1" colspan="1"><p>S/N</p></td>      <td rowspan="1" colspan="1"><p>1ª EDIÇÃO/2013</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>MANUAL OPERACIONAL</p></td>      <td rowspan="1" colspan="1"><p>S/N</p></td>      <td rowspan="1" colspan="1"><p>15 DE MAIO DE 2017</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>NOTA TÉCNICA</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>30 DE ABRIL DE 2017</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>NOTA TÉCNICA</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>24 DE OUTUBRO DE 2008</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>NOTA TÉCNICA</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>14 DE JULHO DE 2011</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>NOTA TÉCNICA</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>20 DE ABRIL DE 2017</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>NOTA TÉCNICA</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>30 DE ABRIL DE 2017</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>NOTA TÉCNICA</p></td>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>12 DE NOVEMBRO DE 2014</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>NOTA TÉCNICA</p></td>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>16 DE FEVEREIRO DE 2009</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>NOTA TÉCNICA</p></td>      <td rowspan="1" colspan="1"><p>7</p></td>      <td rowspan="1" colspan="1"><p>5 DE JULHO DE 2009</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>NOTA TÉCNICA</p></td>      <td rowspan="1" colspan="1"><p>432</p></td>      <td rowspan="1" colspan="1"><p>26 DE MARÇO DE 2018</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>NOTA TÉCNICA CONJUNTA</p></td>      <td rowspan="1" colspan="1"><p>9A</p></td>      <td rowspan="1" colspan="1"><p>4 DE NOVEMBRO DE 2016</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>NOTA TÉCNICA CONJUNTA</p></td>      <td rowspan="1" colspan="1"><p>10</p></td>      <td rowspan="1" colspan="1"><p>29 DE AGOSTO DE 2017</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>PORTARIA</p></td>      <td rowspan="1" colspan="1"><p>75</p></td>      <td rowspan="1" colspan="1"><p>22 DE MAIO DE 1987</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>INCRA</p></td>      <td rowspan="1" colspan="1"><p>PORTARIA</p></td>      <td rowspan="1" colspan="1"><p>284</p></td>      <td rowspan="1" colspan="1"><p>30 DE MAIO DE 2005</p></td>     </tr>    </tbody>   </table>
+
+## ANEXO IV — ATOS EXPRESSAMENTE REVOGADOS ANTERIORMENTE À INCLUSÃO NA PORTARIA INCRA Nº 552, DE 30 DE MARÇO DE 2022
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>UNIDADE</p></td>      <td rowspan="1" colspan="1"><p>ESPÉCIE</p></td>      <td rowspan="1" colspan="1"><p>NÚMERO</p></td>      <td rowspan="1" colspan="1"><p>DATA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>SEAD</p></td>      <td rowspan="1" colspan="1"><p>PORTARIA</p></td>      <td rowspan="1" colspan="1"><p>523</p></td>      <td rowspan="1" colspan="1"><p>24 DE AGOSTO DE 2018</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>MDA/INCRA</p></td>      <td rowspan="1" colspan="1"><p>PORTARIA CONJUNTA</p></td>      <td rowspan="1" colspan="1"><p>13</p></td>      <td rowspan="1" colspan="1"><p>22 DE AGOSTO DE 2005</p></td>     </tr>    </tbody>   </table>

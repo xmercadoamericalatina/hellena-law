@@ -1,0 +1,62 @@
+---
+titulo: "PORTARIA SE Nº 2.368, DE 20 DE DEZEMBRO DE 2021"
+orgao: "Ministério da Agricultura, Pecuária e Abastecimento/Secretaria Executiva"
+tipo: "Portaria"
+numero: "2368"
+data: 2021-12-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 21/12/2021, seção 1, p. 13"
+data_publicacao: 2021-12-21
+edicao: "239"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-se-n-2.368-de-20-de-dezembro-de-2021-368972505"
+sha256_html_fonte: a99c43901fcac32e83d366b0f29f25eb94d6aa59ad39c5bfd9aa77e62cd62a96
+baixado_em: 2026-10-21
+---
+# PORTARIA SE Nº 2.368, DE 20 DE DEZEMBRO DE 2021
+
+PORTARIA SE Nº 2.368, DE 20 DE DEZEMBRO DE 2021
+
+O SECRETÁRIO-EXECUTIVO DO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO, no exercício da atribuição que lhe foi conferida pela Ministra de Estado da Agricultura, Pecuária e Abastecimento, nos termos do art. 62, inciso II, do Capítulo IV, do Decreto nº 10.827, de 30 de setembro de 2021; do art. 15 do Regulamento do Selo Mais Integridade - 2021/22, aprovado pela Portaria MAPA nº 32, de 5 de fevereiro de 2021; e considerando ainda a instrução constante do Processo SEI nº 21000.097328/2021-43, resolve:
+
+**Art. 1º** Aprovar, na forma homologada pelo Comitê Gestor do Selo Mais Integridade, a premiação do Selo Mais Integridade - "versão verde" às 9 (nove) empresas abaixo discriminadas:
+
+AGRIFIRM DO BRASIL NUTRIÇÃO ANIMAL LTDA. - CNPJ's 03.279.946.0001-27 e 03.279.946/0002-08;
+
+BSBIOS INDUSTRIA E COMERCIO DE BIODIESEL SUL BRASIL S.A. - CNPJ's 07.322.382/0001-19 e 07.322.382/0004-61;
+
+COMPANHIA NITRO QUIMICA BRASILEIRA - CNPJ 61.150.348/0001-50;
+
+FRIGORÍFICO JAHU EIRELI - CNPJ's 61.286.613/0001-21; 61.286.613/0005-55; 61.286.613/0006-36; 61.286.613/0007-17; 61.286.613/0008-06; 61.286.613/0014-46; 61.286.613/0016-08; 61.286.613/0017-99 e 61.286.613/0018-70;
+
+MARFRIG GLOBAL FOODS S.A. - CNPJ's 03.853.896/0001-40; 03.853.896/0002-20; 03.853.896/0003-01; 03.853.896/0005-73; 03.853.896/0012-00; 03.853.896/0013-83; 03.853.896/0015-45; 03.853.896/0016-26; 03.853.896/0039-12; 03.853.896/0041-37; 03.853.896/0042-18; 03.853.896/0044-80; 03.853.896/0045-60; 03.853.896/0053-70; 03.853.896/0054-51; 03.853.896/0056-13; 03.853.896/0059-66; 03.853.896/0063-42; 03.853.896/0064-23; 03.853.896/0066-95; 03.853.896/0067-76 e 03.853.896/0068-57;
+
+OURO FINO SAÚDE ANIMAL LTDA. - CNPJ 57.624.462/0001-05;
+
+OURO FINO AGRONEGÓCIO LTDA. - CNPJ 05.480.599/0001-21;
+
+SOLUBIO TECNOLOGIAS AGRÍCOLAS LTDA. - CNPJ 16.952.307/0001-22; e
+
+TRÊS TENTOS AGROINDUSTRIAL S.A. - CNPJ's 94.813.102/0001-70; 94.813.102/0017-37 e 94.813.102/0008-46.
+
+**Art. 2º** Aprovar, na forma homologada pelo Comitê Gestor do Selo Mais Integridade, em sede de renovação, a premiação do Selo Mais Integridade - "versão amarela" às 8 (oito) empresas abaixo discriminadas:
+
+ADECOAGRO BRASIL PARTICIPAÇÕES S.A. - CNPJ's 07.835.579/0001-51; 22.587.687/0001-46 e 07.903.169/0001-09 (grupo empresarial);
+
+ANDRADE SUN FARMS AGROCOMERCIAL LTDA. - CNPJ 08.042.857/0001-86;
+
+AMAGGI EXPORTAÇÃO E IMPORTAÇÃO LTDA. - CNPJ 77.294.254/0001-94;
+
+BEM BRASIL ALIMENTOS S.A. - CNPJ's 06.004.860/0001-80 e 06.004.860/0003-41;
+
+SÃO SALVADOR ALIMENTOS S.A. - CNPJ's 03.387.396/0001-60; 03.387.396/0002-40; 03.387.396/0007-55; 03.387.396/0008-36; 03.387.396/0009-17; 03.387.396/0010-50; 03.387.396/0011-31; 03.387.396/0012-12; 03.387.396/0013-01; 03.387.396/0014-84; 03.387.396/0016-46; 03.387.396/0017-27; 03.387.396/0019-99; 03.387.396/0020-22; 03.387.396/0021-03; 03.387.396/0022-94; 03.387.396/0023-75 e 03.387.396/0024-56;
+
+SINERGIA AGRO DO BRASIL LTDA. - CNPJ 07.321.234/0001-80;
+
+UPL DO BRASIL INDÚSTRIA E COMÉRCIO DE INSUMOS AGROPECUÁRIOS S.A. - CNPJ 02.974.733/0001-52; e
+
+VITTIA FERTILIZANTES E BIOLÓGICOS S.A. - CNPJ's 45.365.558/0001-09; 19.558.896/0001-57; 08.181.297/0001-40 e 22.175.316/0001-57 (grupo empresarial).
+
+**Art. 3º** Esta portaria entra em vigor em 3 de janeiro de 2022.
+
+MARCOS MONTES
