@@ -1,0 +1,28 @@
+---
+titulo: "PORTARIA Nº 9.055, DE 2 DE SETEMBRO DE 2022"
+orgao: "Ministério da Infraestrutura/Agência Nacional de Aviação Civil/Superintendência de Acompanhamento de Serviços Aéreos"
+tipo: "Portaria"
+numero: "9055"
+data: 2022-09-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/09/2022, seção 1, p. 47"
+data_publicacao: 2022-09-08
+edicao: "171"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-9.055-de-2-de-setembro-de-2022-427621899"
+sha256_html_fonte: 789d1019cb85e80683c792de9dd0218e4a3cfc856a8250967304a1f6d2137e02
+baixado_em: 2026-10-20
+---
+# PORTARIA Nº 9.055, DE 2 DE SETEMBRO DE 2022
+
+PORTARIA Nº 9.055, DE 2 DE SETEMBRO DE 2022
+
+O SUPERINTENDENTE DE ACOMPANHAMENTO DE SERVIÇOS AÉREOS, no uso das atribuições que lhe conferem o art. 32, inciso XX, do Regimento Interno, aprovado pela Resolução nº 381, de 14 de junho de 2016, tendo em vista o disposto no art. 23, § 2º, da Resolução nº 682, de 7 de junho de 2022, e considerando o que consta do processo nº 00058.049768/2022-30, resolve:
+
+**Art. 1º** Revogar a Portaria nº 3.298/SAS, de 23 de outubro de 2018, que altera as declarações de aeroporto de interesse dos aeroportos de Fortaleza (SBFZ), Florianópolis (SBFL) e Porto Alegre (SBPA), publicada no Diário Oficial da União de 25 de outubro de 2018, Seção 1, página 89.
+
+**Parágrafo único.** Ficam prorrogados os efeitos da Portaria descrita no caput até o final da temporada Inverno 2022 (W22).
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+RAFAEL JOSÉ BOTELHO FARIA

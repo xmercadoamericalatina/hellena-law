@@ -1,0 +1,38 @@
+---
+titulo: "PORTARIA Nº 536-E, DE 11 DE MAIO DE 2021"
+orgao: "Ministério do Turismo/Agência Nacional do Cinema"
+tipo: "Portaria"
+numero: "536"
+data: 2021-05-11
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/05/2021, seção 1, p. 122"
+data_publicacao: 2021-05-17
+edicao: "91"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-536-e-de-11-de-maio-de-2021-320067003"
+sha256_html_fonte: ca21e10b017bd20dbab385c81b64a1003397ea60b386d1d1460b5f1c51200489
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 536-E, DE 11 DE MAIO DE 2021
+
+PORTARIA Nº 536-E, DE 11 DE MAIO DE 2021
+
+Divulga a Agenda Regulatória da Agência Nacional do Cinema - ANCINE para o biênio 2021-2022.
+
+O DIRETOR-PRESIDENTE DA AGÊNCIA NACIONAL DO CINEMA - ANCINE, no uso das atribuições que lhe conferem os incisos III e IV do art. 13 do Anexo I do Decreto nº. 8.283, de 3 de julho de 2014, observado o disposto no inciso XV do art. 6º da Resolução de Diretoria Colegiada nº. 59, e considerando a Decisão de Diretoria Colegiada nº. 246-E, de 07 de maio de 2021, e,
+
+Considerando a relevância de aperfeiçoar o processo regulatório da Agência Nacional do Cinema - ANCINE, garantindo transparência a e previsibilidade às normas e atos da Agência, resolve:
+
+**Art. 1º.** Tornar pública a Agenda Regulatória da Agência Nacional do Cinema - ANCINE para o período 2021-2022, em anexo.
+
+**Art. 2º.** Esta Portaria entra em vigor na data de sua publicação.
+
+ALEX BRAGA MUNIZ
+
+Substituto
+
+## ANEXO
+
+AGENDA REGULATÓRIA ANCINE 2021-2022
+
+<table> 	<tbody> 		<tr> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> </td> 			<td colspan="1" rowspan="1"> 			<p>TEMA</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>AÇÃO</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>MATÉRIA</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>1</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Canais de Distribuição Obrigatória</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Regulamentação dos canais de distribuição obrigatória no Serviço de Acesso Condicionado.</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Regulamentação dos canais de distribuição obrigatória, no tocante ao seu credenciamento, ao cumprimento de suas obrigações administrativas, e estabelecimento das respectivas sanções, se for o caso.</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>2</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>TV Paga</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Revisão de normas que tratam da atividade de TV Paga.</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Avaliação e revisão do estoque de normas relativo às atividades de programação e empacotamento no âmbito do Serviço de Acesso Condicionado (SeAC).</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>3</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>TV Paga</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Análise e proposição de ações para a inclusão de tecnologias de acessibilidade visual e auditiva na TV Paga.</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Promoção da acessibilidade visual e auditiva nos canais de programação veiculados na TV Paga.</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>4</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Jogos Eletrônicos</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Regulamentação do segmento de Jogos Eletrônicos.</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Avaliação quanto ao estabelecimento de ações de regulação por informação.</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>5</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Registro</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Revisão das Instruções Normativas nº 91, 95, 104 e 105.</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Aprimoramento e consolidação dos procedimentos referentes ao Registro de Obra Audiovisual (Publicitária e não publicitária), e de Agente Econômico.</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>6</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Termo de Ajustamento de Conduta</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Revisão da regulamentação da celebração e acompanhamento de Termo de Ajuste de Conduta - TAC (Instrução normativa nº 118).</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Aprimoramento e simplificação das normas infralegais visando a aumentar a eficiência do processo de Termos de Ajustamento de Conduta.</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>7</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Regulamentação do Art. 27 da MP 2.228-1/01</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Regulamentação do Art. 27 da Medida Provisória 2.228-1/01, que versa sobre o licenciamento para comunicação pública de obras realizadas com recursos públicos federais em canais educativos, legislativos, universitários, judiciários, comunitários e estabelecimentos públicos de ensino, dez anos após a sua primeira exibição.</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Estabelecimento de previsão normativa com diretrizes para o licenciamento para comunicação pública de obras realizadas com recursos públicos federais em canais educativos, legislativos, universitários, judiciários, comunitários e estabelecimentos públicos de ensino, dez anos após a sua primeira exibição.</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>8</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Fomento ao segmento de Vídeo sob demanda</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Regulamentação da utilização de recursos públicos para fomento de obras para primeira exibição no segmento de Vídeo sob Demanda.</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Revisão das regras de investimento em projetos para fins de fomento a obras para a primeira exibição no segmento de Vídeo sob Demanda.</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>9</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Revisão da regulamentação sobre os Funcines</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Revisão da regulamentação dos procedimentos relativos à criação e operação de Funcines (Instrução Normativa nº 80), com vistas ao melhor acompanhamento desses fundos e dos projetos por eles fomentados.</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Aprimorar e simplificar os procedimentos referentes à criação e operação dos Funcines, além da avaliação da adequação da normativa à aplicação dos recursos públicos a jogos eletrônicos.</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>10</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Classificação de nível</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Revisão da Instrução Normativa 119 (classificação de nível) para fins de definição dos limites financeiros de aporte de recursos públicos por agente econômico, a fim de incorporar os aportes de recursos oriundos do FSA.</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Revisão normativa para harmonização de entendimentos e conceitos relativos aos limites financeiros de aporte de recursos públicos por agente econômico.</p> 			</td> 		</tr> 		<tr> 			<td colspan="1" rowspan="1"> 			<p>11</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Combate e prevenção à pirataria audiovisual</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Regulamentação do tratamento de notícias de violações de Direitos Autorais.</p> 			</td> 			<td colspan="1" rowspan="1"> 			<p>Estabelecimento de previsão normativa para o recebimento e o processamento de notícias sobre violações de direitos autorais em sítios ou aplicações da internet, e acerca das medidas para contenção dos danos causados.</p> 			</td> 		</tr> 	</tbody> </table>

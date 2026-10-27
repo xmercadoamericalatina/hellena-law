@@ -1,0 +1,30 @@
+---
+titulo: "PORTARIA Nº 17.181, DE 10 DE JUNHO DE 2025"
+orgao: "Ministério de Portos e Aeroportos/Agência Nacional de Aviação Civil/Superintendência de Pessoal da Aviação Civil/Gerência de Exames de Pessoal/Coordenadoria de Certificação Médica Aeronáutica"
+tipo: "Portaria"
+numero: "17181"
+data: 2025-06-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 12/06/2025, seção 1, p. 100"
+data_publicacao: 2025-06-12
+edicao: "110"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-17.181-de-10-de-junho-de-2025-635616716"
+baixado_em: 2026-10-16
+sha256_html_fonte: d7e24e507864a30ead080aa5581d6374fd8d642f66370761c3a9cd99a07fa84e
+---
+# PORTARIA Nº 17.181, DE 10 DE JUNHO DE 2025
+
+PORTARIA Nº 17.181, DE 10 DE JUNHO DE 2025
+
+O COORDENADOR DE CERTIFICAÇÃO MÉDICA AERONÁUTICA, no uso da atribuição que lhe confere o art. 18, inciso II, da Portaria Nº 13.517/SPL, de 2 de janeiro de 2024, tendo em vista o disposto no Regulamento Brasileiro da Aviação Civil - RBAC nº 67 e na Lei nº 7.565, de 19 de dezembro de 1986, e considerando o que consta do processo nº 00065.000897/2025-83, resolve:
+
+**Art. 1º** Revalidar, até 10 de junho de 2028, o credenciamento do médico Dr. ELTON ERHARDT - MC122, CRM/RS 23120, para a realização de exames de saúde periciais no endereço Rua Bento Gonçalves, nº 806, sala 201, Centro, São Leopoldo (RS), para fins de emissão de Certificado Médico Aeronáutico de 2ª, 4ª e 5ª classes, em conformidade com o Regulamento Brasileiro da Aviação Civil - RBAC nº 67.
+
+**Parágrafo único.** O credenciamento poderá ser suspenso a qualquer tempo por descumprimento de quaisquer dos requisitos previstos para o credenciamento.
+
+**Art. 2º** Fica revogada a Portaria nº 4.132/SPL, de 28 de janeiro de 2021, publicada no Diário Oficial da União de 3 de fevereiro de 2021, Seção 1, página 33.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+MATEUS VIDAL ALVES SILVA

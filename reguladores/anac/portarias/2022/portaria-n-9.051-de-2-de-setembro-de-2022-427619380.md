@@ -1,0 +1,30 @@
+---
+titulo: "PORTARIA Nº 9.051, DE 2 DE SETEMBRO DE 2022"
+orgao: "Ministério da Infraestrutura/Agência Nacional de Aviação Civil/Superintendência de Acompanhamento de Serviços Aéreos"
+tipo: "Portaria"
+numero: "9051"
+data: 2022-09-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/09/2022, seção 1, p. 46"
+data_publicacao: 2022-09-08
+edicao: "171"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-9.051-de-2-de-setembro-de-2022-427619380"
+sha256_html_fonte: 65a61ba4e0efd23c6350c4d8206e61b28ffb7b0384cd581a95b842db8682f208
+baixado_em: 2026-10-20
+---
+# PORTARIA Nº 9.051, DE 2 DE SETEMBRO DE 2022
+
+PORTARIA Nº 9.051, DE 2 DE SETEMBRO DE 2022
+
+O SUPERINTENDENTE DE ACOMPANHAMENTO DE SERVIÇOS AÉREOS, no uso das atribuições que lhe conferem o art. 32, inciso XX, do Regimento Interno, aprovado pela Resolução nº 381, de 14 de junho de 2016, tendo em vista o disposto no art. 23, § 2º, da Resolução nº 682, de 7 de junho de 2022, e considerando o que consta do processo nº 00058.049768/2022-30, resolve:
+
+**Art. 1º** Declarar como aeroporto facilitado, a partir da temporada Verão 2023 (S23), o Aeroporto Internacional do Rio de Janeiro/Galeão - Antônio Carlos Jobim (SBGL) em razão da sua conectividade com outros aeroportos da rede, conforme critérios estabelecidos no art. 23 da Resolução nº 682, de 7 de junho de 2022.
+
+**Art. 2º** Fica revogada a Portaria nº 647/SAS, de 18 de março de 2016, publicada no Diário Oficial da União de 21 de março de 2016, Seção 1, página 2.
+
+**Parágrafo único.** Ficam prorrogados os efeitos da Portaria descrita no caput até o final da temporada Inverno 2022 (W22).
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+RAFAEL JOSÉ BOTELHO FARIA

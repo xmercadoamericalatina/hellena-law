@@ -1,0 +1,40 @@
+---
+titulo: "PORTARIA Nº 11.175, DE 28 DE ABRIL DE 2023"
+orgao: "Ministério de Portos e Aeroportos/Agência Nacional de Aviação Civil/Superintendência de Infraestrutura Aeroportuária/Gerência de Certificação e Segurança Operacional"
+tipo: "Portaria"
+numero: "11175"
+data: 2023-04-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 15/05/2023, seção 1, p. 72"
+data_publicacao: 2023-05-15
+edicao: "91"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-11.175-de-28-de-abril-de-2023-483066974"
+sha256_html_fonte: 20e8a54b5093da1f39c7c80f2837fb750b72efb37e491e6c80c36859cd029a7d
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 11.175, DE 28 DE ABRIL DE 2023
+
+PORTARIA Nº 11.175, DE 28 DE ABRIL DE 2023
+
+O GERENTE DE CERTIFICAÇÃO E SEGURANÇA OPERACIONAL, no uso da atribuição que lhe confere o art. 4º, inciso III da Portaria nº 10.700, de 09 de março de 2023, tendo em vista o disposto na Lei nº 7.565, de 19 de dezembro de 1986, e na Resolução nº 158, de 13 de julho de 2010, e Portaria nº 3.352/SIA, de 30 de outubro de 2018, e considerando o que consta do processo nº 00065.011331/2023-15, resolve:
+
+**Art. 1º** Inscrever o Aeródromo privado abaixo no cadastro com as seguintes características:
+
+I - denominação: Fazenda Rebojo;
+
+II - código identificador de aeródromo - CIAD: MS0704;
+
+III - município (UF): Corumbá (MS);
+
+IV - ponto de referência do aeródromo (coordenadas geográficas): 20° 02' 13'' S / 057° 55' 01'' W.
+
+**Art. 2º** A inscrição no cadastro tem validade de 10 (dez) anos.
+
+**Art. 3º** As características cadastrais do aeródromo serão publicadas no sítio da ANAC na rede mundial de computadores.
+
+**Art. 4º** O interessado pelo aeródromo deve garantir que as informações prestadas a respeito das características da infraestrutura correspondam à situação do aeródromo, a fim de manter sua inscrição cadastral atualizada na ANAC.
+
+**Art. 5º** Esta Portaria entra em vigor na data de sua publicação.
+
+FÁBIO LOPES MAGALHÃES

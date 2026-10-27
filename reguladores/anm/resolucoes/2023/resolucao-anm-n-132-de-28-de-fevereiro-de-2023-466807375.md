@@ -1,0 +1,52 @@
+---
+titulo: "RESOLUÇÃO ANM Nº 132, DE 28 DE FEVEREIRO DE 2023"
+orgao: "Ministério de Minas e Energia/Agência Nacional de Mineração"
+tipo: "Resolução"
+numero: "132"
+data: 2023-02-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 01/03/2023, seção 1, p. 42"
+data_publicacao: 2023-03-01
+edicao: "41"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-anm-n-132-de-28-de-fevereiro-de-2023-466807375"
+sha256_html_fonte: 6776c014eeb787f4ebed63ca2f25274f3d4e2ac787dbd55c2f8f79c0bc6d262f
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO ANM Nº 132, DE 28 DE FEVEREIRO DE 2023
+
+RESOLUÇÃO ANM Nº 132, DE 28 DE FEVEREIRO DE 2023
+
+Atualiza os valores dos emolumentos, da Taxa Anual por Hectare (TAH), das multas previstas na legislação minerária, das vistorias de fiscalização e dos demais serviços prestados pela Agência Nacional de Mineração, fixados através da Resolução ANM nº 93, de 03 de fevereiro de 2022.
+
+O DIRETOR-GERAL DA AGÊNCIA NACIONAL DE MINERAÇÃO - ANM, em decisão ad referendum da Diretoria Colegiada, com fulcro no art. 2º, inciso XXVIII, da Lei nº 13.575, de 26 de dezembro de 2017, e art. 2º, inciso XXVIII, da Estrutura Regimental da ANM, aprovada na forma do Anexo I do Decreto nº 9.587, de 27 de novembro de 2018, e no art. 13 do Regimento Interno, aprovado na forma do Anexo II da Resolução ANM nº 102, de 13 de abril de 2022, resolve:
+
+**Art. 1º** Atualizar, tendo em vista o previsto no art. 80 do Decreto nº 9.406, de 12 de junho de 2018, os valores dos emolumentos, da Taxa Anual por Hectare (TAH), das multas previstas na legislação minerária, das vistorias de fiscalização e dos demais serviços prestados pela Autarquia, conforme a previsão legal abaixo mencionada, cujos preços integram o Anexo I desta Resolução:
+
+I - art. 20, do Decreto-Lei nº 227, de 28 de fevereiro de 1967 (Código de Mineração);
+
+II - art. 31, incisos I a IV e § 2º, do Decreto-Lei nº 7.841, de 08 de agosto de 1945 (Código de Águas Minerais);
+
+III - art. 9º, incisos I a IX e § 1º, da Lei nº 7.805, de 18 de julho de 1989;
+
+IV - art. 2ºC, § 5º, da Lei nº 8.001, de 13 de março de 1990; e
+
+V - art. 15, § 1º e art. 17, § 1º, da Lei nº 11.685, de 02 de junho de 2008.
+
+**Art. 2º** Os serviços cópia reprográfica sem autenticação, cópia reprográfica autenticada, cópia de mapa, cópia de overlay, cópia de tela de terminal, autenticação, overlay em pendrive ou CD ROM e cópia do RAL em pendrive ou CD ROM não serão mais prestados pela ANM.
+
+**Art. 3º** Esta Resolução entra em vigor em 1º de março de 2023 e terá vigência final em 29 de fevereiro de 2024
+
+MAURO HENRIQUE MOREIRA SOUSA
+
+## ANEXO I
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="2"><p>EMOLUMENTOS</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Anuência prévia para Aerolevantamento Geofísico</p></td>      <td rowspan="1" colspan="1"><p>R$ 281,44</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Anuência prévia para Importação de Amianto</p></td>      <td rowspan="1" colspan="1"><p>R$ 140,72</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Anuência prévia para Importação de Diamantes Brutos</p></td>      <td rowspan="1" colspan="1"><p>R$ 140,72</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Certificado do Processo de Kimberley</p></td>      <td rowspan="1" colspan="1"><p>R$ 985,41</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Cessão ou Transferência Parcial de Direitos Minerários</p></td>      <td rowspan="1" colspan="1"><p>R$ 1.407,11</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Cessão ou Transferência Total de Direitos Minerários</p></td>      <td rowspan="1" colspan="1"><p>R$ 703,55</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Demais atos de averbação</p></td>      <td rowspan="1" colspan="1"><p>R$ 1.358,58</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Demais atos de averbação (renovação de Permissão de Lavra Garimpeira - PLG)</p></td>      <td rowspan="1" colspan="1"><p>R$ 679,29</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Requerimento de Autorização de Pesquisa</p></td>      <td rowspan="1" colspan="1"><p>R$ 1.182,78</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Requerimento de Mudança de Regime para Pesquisa</p></td>      <td rowspan="1" colspan="1"><p>R$ 1.182,78</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Requerimento de Guia de Utilização</p></td>      <td rowspan="1" colspan="1"><p>R$ 8.046,35</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Requerimento de Imissão de Posse na Jazida</p></td>      <td rowspan="1" colspan="1"><p>R$ 2.190,30</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Requerimento de Permissão de Lavra Garimpeira</p></td>      <td rowspan="1" colspan="1"><p>R$ 238,42</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Requerimento de Registro de Licença</p></td>      <td rowspan="1" colspan="1"><p>R$ 238,42</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Transferência de direitos minerários em face de transformação, incorporação, fusão, cisão, sucessão causa mortis e falência do titular (requerimento)</p></td>      <td rowspan="1" colspan="1"><p>R$ 703,55</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Transferência de direitos minerários em face de transformação, incorporação, fusão, cisão, sucessão causa mortis e falência do titular (por direito transferido)</p></td>      <td rowspan="1" colspan="1"><p>R$ 140,72</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p>TAXA ANUAL POR HECTARE (TAH)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Alvará de Pesquisa - na vigência do prazo original</p></td>      <td rowspan="1" colspan="1"><p>R$ 4,33</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Alvará de Pesquisa - na vigência do prazo de prorrogação</p></td>      <td rowspan="1" colspan="1"><p>R$ 6,48</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p>MULTAS PREVISTAS NA LEGISLAÇÃO MINERÁRIA C/ VALOR SINGULAR</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Art. 54, do RCM</p></td>      <td rowspan="1" colspan="1"><p>R$ 4.327,34</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Art. 55, do RCM</p></td>      <td rowspan="1" colspan="1"><p>R$ 4.327,34</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Art. 56, do RCM</p></td>      <td rowspan="1" colspan="1"><p>R$ 4.327,34</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Art. 57, do RCM</p></td>      <td rowspan="1" colspan="1"><p>R$ 4,33</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Art. 58, do RCM (hipótese de pesquisa)</p></td>      <td rowspan="1" colspan="1"><p>R$ 1.063,90</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Art. 58, do RCM (hipótese de lavra)</p></td>      <td rowspan="1" colspan="1"><p>R$ 4.327,34</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Art. 59, do RCM</p></td>      <td rowspan="1" colspan="1"><p>R$ 1.063,90</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Art. 60, do RCM</p></td>      <td rowspan="1" colspan="1"><p>R$ 2.127,79</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Art. 61, do RCM</p></td>      <td rowspan="1" colspan="1"><p>R$ 4.327,34</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Art. 62, do RCM</p></td>      <td rowspan="1" colspan="1"><p>R$ 4.327,34</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Art. 63, do RCM</p></td>      <td rowspan="1" colspan="1"><p>R$ 4.327,34</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Art. 64, do RCM</p></td>      <td rowspan="1" colspan="1"><p>R$ 4.327,34</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Art. 65, do RCM</p></td>      <td rowspan="1" colspan="1"><p>R$ 4.327,34</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Art. 66, do RCM</p></td>      <td rowspan="1" colspan="1"><p>R$ 4.327,34</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Art. 67, do RCM</p></td>      <td rowspan="1" colspan="1"><p>R$ 4.327,34</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Art. 68, do RCM</p></td>      <td rowspan="1" colspan="1"><p>R$ 4.327,34</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Art. 69, do RCM</p></td>      <td rowspan="1" colspan="1"><p>R$ 1.063,90</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Art. 17, § 1º, da Lei nº 11.685/2008</p></td>      <td rowspan="1" colspan="1"><p>R$ 2.306,75</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p>LOCALIZAÇÃO DA ÁREA VISTORIADA (VALOR POR DIA E PROCESSO)</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Área localizada num raio de 100 km (cem quilômetros) da Sede da Gerência Regional da ANM</p></td>      <td rowspan="1" colspan="1"><p>R$ 553,95</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Área localizada num raio de mais de 100 km (cem quilômetros) da Sede da Gerência Regional da ANM, exceto para aquelas localizadas nos territórios dos Estados do Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia e Roraima</p></td>      <td rowspan="1" colspan="1"><p>R$ 830,92</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Área localizada num raio de mais de 100 km (cem quilômetros) da Sede da Gerência Regional da ANM e que estejam localizadas nos territórios dos Estados do Acre, Amapá, Amazonas, Mato Grosso, Pará, Rondônia e Roraima</p></td>      <td rowspan="1" colspan="1"><p>R$ 1.107,89</p></td>     </tr>     <tr>      <td rowspan="1" colspan="2"><p>DEMAIS SERVIÇOS</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Certidões diversas</p></td>      <td rowspan="1" colspan="1"><p>R$ 42,20</p></td>     </tr>    </tbody>   </table>
+
+Notas:
+
+(1) Realizada fiscalização da CFEM pela equipe da ANM e constatada a tipificação de infrações, a multa será de 20% (vinte por cento) do valor apurado ou de R$ 5.624,33 (cinco mil, seiscentos e vinte e quatro reais e trinta e três centavos), o que for maior;
+
+(2) O valor da multa será de 0,33% (trinta e três centésimos por cento) ao dia até o limite máximo de 20% (vinte por cento) do valor apurado à título de CFEM;
+
+(3) O valor da multa será de 30% (trinta por cento) do valor apurado à título de CFEM.

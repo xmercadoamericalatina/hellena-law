@@ -1,0 +1,38 @@
+---
+titulo: "PORTARIA Nº 4.822, DE 19 DE ABRIL DE 2021"
+orgao: "Ministério da Infraestrutura/Agência Nacional de Aviação Civil/Superintendência de Pessoal da Aviação Civil/Gerência de Certificação de Organizações de Instrução"
+tipo: "Portaria"
+numero: "4822"
+data: 2021-04-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 29/04/2021, seção 1, p. 89"
+data_publicacao: 2021-04-29
+edicao: "79"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-4.822-de-19-de-abril-de-2021-316983040"
+sha256_html_fonte: 6f8e97e68d638c87b9dcdbc5d0548e20cda0abab0a9e753c351d504a87881b65
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 4.822, DE 19 DE ABRIL DE 2021
+
+PORTARIA Nº 4.822, DE 19 DE ABRIL DE 2021
+
+O GERENTE DE CERTIFICAÇÃO DE ORGANIZAÇÕES DE INSTRUÇÃO, no uso da atribuição que lhe confere o inciso V do artigo 18 da Portaria nº 2.928, de 21 de outubro de 2020, tendo em vista o disposto no Regulamento Brasileiro de Aviação Civil -RBAC n° 110, e considerando o que consta do Processo nº00058.040197/2020-14, resolve:
+
+**Art. 1º** Autorizar o centro de instrução MASTER - SERVIÇOS AUXILIARES DE TRANSPORTE AÉREO LTDA, CNPJ nº 13.366.040/0001-01, a ministrar os seguintes cursos em Segurança da Aviação Civil contra Atos de Interferência Ilícita (AVSEC), na modalidade de ensino a distância (EAD) e presencial, conforme especificações da listagem abaixo, nos termos do Regulamento Brasileiro da Aviação Civil -RBAC nº 110:
+
+I - AVSEC para Atendimento ao Passageiro (EAD - Convencional) - Formação;
+
+II - AVSEC para Carga Aérea (EAD - Convencional) - Formação;
+
+III - AVSEC para Operações de Solo (EAD - Convencional) - Formação;
+
+IV - AVSEC para Tripulantes (EAD - Convencional) - Formação;
+
+V - AVSEC para Operador de Aeródromo - PRESENCIAL;
+
+VI - AVSEC para Operador Aéreo - PRESENCIAL.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+FELIPE GONZALEZ GONZAGA

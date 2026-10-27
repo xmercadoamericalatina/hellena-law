@@ -1,0 +1,40 @@
+---
+titulo: "PORTARIA Nº 8.038, DE 12 DE MAIO DE 2022"
+orgao: "Ministério da Infraestrutura/Agência Nacional de Aviação Civil/Superintendência de Infraestrutura Aeroportuária/Gerência de Certificação e Segurança Operacional"
+tipo: "Portaria"
+numero: "8038"
+data: 2022-05-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/05/2022, seção 1, p. 127"
+data_publicacao: 2022-05-24
+edicao: "97"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-8.038-de-12-de-maio-de-2022-402107251"
+sha256_html_fonte: d11b6a464b5c3b3f72f5498317e9c350bc83e046ce434322a6cc71d9eabc4fe2
+baixado_em: 2026-10-20
+---
+# PORTARIA Nº 8.038, DE 12 DE MAIO DE 2022
+
+PORTARIA Nº 8.038, DE 12 DE MAIO DE 2022
+
+O GERENTE DE CERTIFICAÇÃO E SEGURANÇA OPERACIONAL, no uso da atribuição que lhe confere o art. 4º, inciso III da Portaria nº 6.880, de 30 de dezembro de 2021, tendo em vista o disposto na Lei nº 7.565, de 19 de dezembro de 1986, e na Resolução nº 158, de 13 de julho de 2010, e Portaria nº 3.352/SIA, de 30 de outubro de 2018, e considerando o que consta do processo nº 00065.011996/2022-48, resolve:
+
+**Art. 1º** Inscrever o Heliponto Privado abaixo no cadastro com as seguintes características:
+
+I - denominação: Arvoredo;
+
+II - código identificador de aeródromo - CIAD: MG0504;
+
+III - município (UF): Contagem (MG);
+
+IV - ponto de referência do aeródromo (coordenadas geográficas): 19° 52' 54'' S / 044° 01' 48'' W.
+
+**Art. 2º** A inscrição no cadastro tem validade de 10 (dez) anos.
+
+**Art. 3º** As características cadastrais do aeródromo serão publicadas no sítio da ANAC na rede mundial de computadores.
+
+**Art. 4º** O interessado pelo aeródromo deve garantir que as informações prestadas a respeito das características da infraestrutura correspondam à situação do aeródromo, a fim de manter sua inscrição cadastral atualizada na ANAC.
+
+**Art. 5º** Esta Portaria entra em vigor na data de sua publicação.
+
+FÁBIO LOPES MAGALHÃES
