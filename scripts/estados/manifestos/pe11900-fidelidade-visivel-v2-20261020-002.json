@@ -1,0 +1,2042 @@
+{
+  "total_examinado": 11900,
+  "total_aceito": 11870,
+  "total_retido": 30,
+  "divergencias_numeros_sinais_moedas_percentuais": 0,
+  "criterio": "Replay integral v2 e revisão contextual dos headings editoriais. Retidos são divergências visíveis reais de apresentação, majoritariamente itálico mal fechado (*caput *), não ausência confirmada de norma/anexo. Nenhum corpo alterado para acomodar comparação.",
+  "replay_integral_sha256": "549a2b1255d09bbef9d7ca88ba5b9e196bd4d946f01d66ee6df3d9ad807b5dd5",
+  "replay_heading_contextual_sha256": "33e62c09191e78f78d7c48876462d96b791c1b650c8010ae183facb083b03899",
+  "total_readmitido_heading_comprovado": 49,
+  "retidos": [
+    {
+      "path": "estaduais/PE/decretos/2013/dec-40127-2013-id14726.md",
+      "sha256_md": "7cd96dc86cbe56e3d45ea45877e8f26d98e10368ccbf1f712231e990a824ccad",
+      "id_oficial": "14726",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=14726&tipo=TEXTOATUALIZADO",
+      "tipo": "Decreto",
+      "numero": "40.127",
+      "data": "2013-11-28",
+      "versao_texto": "atualizada",
+      "cache": "estaduais/PE/_fonte/decretos/2013/dec-40127-2013-id14726.html.gz",
+      "sha256_cache": "ad2ef876379fac6d781a750675c9d4e2bf5cc716fe0b782c7fa5538d4572c83e",
+      "sha256_fonte": "eacc2148ac7e353ccc6f4d0bc464f7aa484ed11ee48acbae17512d02e0ae6389",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 17579,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "69e0276c52cdd57c13cb62ff35fb131aef358142e210e44a79aa66967474326f",
+      "sha256_reconversao": "dd492989e7788e266672d70d1d2b67f08c499727adf603593d61bc37c90b089e",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "SEFAZ nº 026/2013, e o teor do Ofício CONDIC nº 138, de 12 de setembro de 2013,\n\nDECRETA:\n\nArt. 1º Fica concedido à empresa EUCATEX NORDESTE INDÚSTRIA E COMÉRCIO LTDA., estabelecida na Rua Interna, nº 07/171, Área Industrial, Pontezinha, Cabo do Santo Agostinho/PE, com ",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 40.127, DE 28 DE NOVEMBRO DE 2013. Concede estímulo previsto na Lei n° 11.675, de 11 de outubro de 1999, que dispõe sobre o PRODEPE, à empresa EUCATEX NORDESTE INDÚSTRIA E COMÉRCIO LTDA. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do art. 37 da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999; CONSIDERANDO a Resolução nº 040, de 9 de setembro de 2013, do Conselho Estadual de Política Industrial, Comercial e de Serviços - CONDIC, que aprovou o Parecer Conjunto AD DIPER/SEFAZ nº 026/2013, e o teor do Ofício CONDIC nº 138, de 12 de setembro de 2013, DECRETA: Art. 1º Fica concedido à empresa EUCATEX NORDESTE INDÚSTRIA E COMÉRCIO LTDA., estabelecida na Rua Interna, nº 07/171, Área Industrial, Pontezinha, Cabo do Santo Agostinho/PE, com CNPJ/MF nº 12.494.872/0001-32 e CACEPE nº 0414125-32, o estímulo de que tratam os arts. 6º e 24 do Decreto nº 21.959, de 27 de d",
+        "indice": {
+          "id": "14726",
+          "nome": "Decreto do Executivo n° 40.127",
+          "publicacao": "Publicada no DOE 29/11/2013",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 40.127, DE 28 DE NOVEMBRO DE 2013"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "e07a8b9ad34ad7b2bf53e8d96f74156e759107a695385ef5c298e26257289415",
+        "sha256_visivel_md": "e3cfb34412d12396e55277111fdf18cc4368ed3b34c4742324d79ce5df0bcb0b",
+        "sha256_visivel_reconversao": "e3cfb34412d12396e55277111fdf18cc4368ed3b34c4742324d79ce5df0bcb0b",
+        "divergencia_md_fonte": {
+          "posicao": 4261,
+          "fonte": "ês subsequente ao período fiscal da efetiva utilização. Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": "ês subsequente ao período fiscal da efetiva utilização. Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52176-2022-id61502.md",
+      "sha256_md": "638d2b12341296455df05854f61a1ac5b3e5027fda269400786a3602f2d3596e",
+      "id_oficial": "61502",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=61502&tipo=TEXTOORIGINAL",
+      "tipo": "Decreto",
+      "numero": "52.176",
+      "data": "2022-01-21",
+      "versao_texto": "original",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52176-2022-id61502.html.gz",
+      "sha256_cache": "5c86e42be5255ed120ba54b13ef3aaea9b930c36035761154790fe70c21a271a",
+      "sha256_fonte": "22d2f6595daa70c7a5a01e1b7360d2e21b968690d64fe00b5b93e8135c6b8b44",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 31479,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "f137d0268ff63b94e3e76a7b483f678acc973d2ab48c8f8b54b4e8be48aa8c77",
+      "sha256_reconversao": "70b2da5929d5eee1f4fa94cf436cdf604bc97d40f4b86fd4c7213efe5d1af731",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "da Ata da 128ª Reunião do referido Comitê, realizada em 20 de dezembro de 2021,\n\nDECRETA:\n\nArt. 1º Fica prorrogado o prazo de fruição do incentivo do PRODEPE de que trata o Decreto nº 20.837, de 11 de setembro de 1998, concedido à empresa COMPANHIA MULLER DE BEBIDAS NOR",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 52.176, DE 21 DE JANEIRO DE 2022. (Vide errata no final do texto.) Dispõe sobre a alteração e 2ª prorrogação do prazo de fruição de estímulo do PRODEPE, concedido pelo Decreto nº 20.837, de 11 de setembro de 1998, à empresa COMPANHIA MULLER DE BEBIDAS NORDESTE, posteriormente transferido pelo Decreto nº 46.277, de 19 de julho de 2018, para a empresa COMPANHIA MULLER DE BEBIDAS. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do art. 37 da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999; CONSIDERANDO a decisão do Comitê Diretor do PRODEPE, conforme consta da Ata da 128ª Reunião do referido Comitê, realizada em 20 de dezembro de 2021, DECRETA: Art. 1º Fica prorrogado o prazo de fruição do incentivo do PRODEPE de que trata o Decreto nº 20.837, de 11 de setembro de 1998, concedido à empresa COMPANHIA MULLER DE BEBIDAS NORDESTE, posteriormente transferido pelo Decr",
+        "indice": {
+          "id": "61502",
+          "nome": "Decreto do Executivo n° 52.176",
+          "publicacao": "Publicada no DOE 22/01/2022",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 52.176, DE 21 DE JANEIRO DE 2022"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "86f6584d122138cd4110eed8d664e4b01a5bf4e014257ca4834a2bf73eaddbcb",
+        "sha256_visivel_md": "b04086adfdea067e77aac001e243e8d31cc275e5c6e0eb66c9eafd2dcf8deac4",
+        "sha256_visivel_reconversao": "b04086adfdea067e77aac001e243e8d31cc275e5c6e0eb66c9eafd2dcf8deac4",
+        "divergencia_md_fonte": {
+          "posicao": 4631,
+          "fonte": "....................................................... Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": "....................................................... Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52495-2022-id62355.md",
+      "sha256_md": "4c1582fd8c4b64cf3603fe33b123b35cc67a4b5899e132673f67ccaa0f1afb74",
+      "id_oficial": "62355",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=62355&tipo=TEXTOATUALIZADO",
+      "tipo": "Decreto",
+      "numero": "52.495",
+      "data": "2022-03-25",
+      "versao_texto": "atualizada",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52495-2022-id62355.html.gz",
+      "sha256_cache": "1b715f0ea6a06d910df13dff84c6a52944472fd141cb1ee8b61695e5ec964c2b",
+      "sha256_fonte": "f6419573dafb561af5faf42e155c77ce10918eaecfe1f67289413c8b6ad01fa5",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 219185,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "8d7825891006d03d244b9027465a353a3018a460f594d6e1645f35dbaa3d4568",
+      "sha256_reconversao": "217f692602e5386e3636dcef0d07205f8d36c0c34370fee3599b3c63d9705ea2",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "e lhe são conferidas pelos incisos II e IV do art. 37 da Constituição Estadual,\n\nDECRETA:\n\nArt. 1° Fica criado o Centro Educacional Inclusivo Ulisses Pernambucano – CEIUP que funcionará em prédio próprio, situado à Rua Gouveia de Barros, n° 189, CEP n° 50.100-030 - Sant",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 52.495, DE 25 DE MARÇO DE 2022. Cria o Centro Educacional Inclusivo Ulisses Pernambucano – CEIUP. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelos incisos II e IV do art. 37 da Constituição Estadual, DECRETA: Art. 1° Fica criado o Centro Educacional Inclusivo Ulisses Pernambucano – CEIUP que funcionará em prédio próprio, situado à Rua Gouveia de Barros, n° 189, CEP n° 50.100-030 - Santo Amaro, Recife/PE. Parágrafo único. O Centro Educacional Inclusivo Ulisses Pernambucano – CEIUP integrará a estrutura da Secretaria Estadual de Educação e Esportes. Art. 2° O Centro Educacional Inclusivo Ulisses Pernambucano – CEIUP será composto de 3 (três) núcleos: I - Núcleo de Apoio Pedagógico para atender aos (às) estudantes acometidos (as) pelo Zika Vírus, doenças raras e outras deficiências; II - Núcleo de Altas Habilidades e Superdotação – AH/SD; e III - Núcleo de Formação de Profissionais da Educação. Art. 3° Poderá a Secretaria de Educação e Esportes realiz",
+        "indice": {
+          "id": "62355",
+          "nome": "Decreto do Executivo n° 52.495",
+          "publicacao": "Publicada no DOE 26/03/2022",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 52.495, DE 25 DE MARÇO DE 2022"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [
+          {
+            "markdown": "TÍTULO I — DA CARACTERIZAÇÃO DO ESTABELECIMENTO",
+            "fonte": "TÍTULO I DA CARACTERIZAÇÃO DO ESTABELECIMENTO",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO I — DA DENOMINAÇÃO, LOCALIZAÇÃO E MANTENEDOR",
+            "fonte": "CAPÍTULO I DA DENOMINAÇÃO, LOCALIZAÇÃO E MANTENEDOR",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO II — DO PÚBLICO ALVO E HORÁRIO DE FUNCIONAMENTO",
+            "fonte": "CAPÍTULO II DO PÚBLICO ALVO E HORÁRIO DE FUNCIONAMENTO",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO III — DOS PRINCÍPIOS EDUCACIONAIS E FINALIDADES DO CEIUP",
+            "fonte": "CAPÍTULO III DOS PRINCÍPIOS EDUCACIONAIS E FINALIDADES DO CEIUP",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "TÍTULO II — DA ORGANIZAÇÃO DO ENSINO",
+            "fonte": "TÍTULO II DA ORGANIZAÇÃO DO ENSINO",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO I — DAS DIRETRIZES PEDAGÓGICAS DO CEIUP",
+            "fonte": "CAPÍTULO I DAS DIRETRIZES PEDAGÓGICAS DO CEIUP",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO II — DA ESTRUTURA ORGANIZACIONAL DO CEIUP",
+            "fonte": "CAPÍTULO II DA ESTRUTURA ORGANIZACIONAL DO CEIUP",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção I — Do Núcleo de Apoio Pedagógico - Síndrome do Zika Vírus, Doenças Raras e outras deficiências",
+            "fonte": "Seção I Do Núcleo de Apoio Pedagógico - Síndrome do Zika Vírus, Doenças Raras e outras deficiências",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção II — Do Núcleo de Altas Habilidades e Superdotação",
+            "fonte": "Seção II Do Núcleo de Altas Habilidades e Superdotação",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção III — Do Núcleo de Formação de Profissionais da Educação",
+            "fonte": "Seção III Do Núcleo de Formação de Profissionais da Educação",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO III — DA MATRÍCULA E DO ACESSO AOS SERVIÇOS E PROGRAMAS DO CEIUP",
+            "fonte": "CAPÍTULO III DA MATRÍCULA E DO ACESSO AOS SERVIÇOS E PROGRAMAS DO CEIUP",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO IV — DA FREQUÊNCIA",
+            "fonte": "CAPÍTULO IV DA FREQUÊNCIA",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO V — DA FORMA DE REGISTRO DOS RESULTADOS DA APRENDIZAGEM",
+            "fonte": "CAPÍTULO V DA FORMA DE REGISTRO DOS RESULTADOS DA APRENDIZAGEM",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO VI — DA EXPEDIÇÃO DE DOCUMENTOS",
+            "fonte": "CAPÍTULO VI DA EXPEDIÇÃO DE DOCUMENTOS",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "TÍTULO III — DA ADMINISTRAÇÃO DO CEIUP",
+            "fonte": "TÍTULO III DA ADMINISTRAÇÃO DO CEIUP",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO I — DA CONCEPÇÃO E FORMA DE GESTÃO",
+            "fonte": "CAPÍTULO I DA CONCEPÇÃO E FORMA DE GESTÃO",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO II — DAS FORMAS DE PARTICIPAÇÃO DA ADMINISTRAÇÃO DO CEIUP",
+            "fonte": "CAPÍTULO II DAS FORMAS DE PARTICIPAÇÃO DA ADMINISTRAÇÃO DO CEIUP",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção I — Do Conselho Administrativo",
+            "fonte": "Seção I Do Conselho Administrativo",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção II — Do Conselho Pedagógico",
+            "fonte": "Seção II Do Conselho Pedagógico",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO III — DAS FORMAS DE CONTROLE SOCIAL",
+            "fonte": "CAPÍTULO III DAS FORMAS DE CONTROLE SOCIAL",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO IV — DA ESTRUTURA ADMINISTRATIVA",
+            "fonte": "CAPÍTULO IV DA ESTRUTURA ADMINISTRATIVA",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção I — Da Gestão do CEIUP",
+            "fonte": "Seção I Da Gestão do CEIUP",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção II — Do(a) Coordenador(a) Pedagógico(a)",
+            "fonte": "Seção II Do(a) Coordenador(a) Pedagógico(a)",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção III — Do Chefe de Secretaria",
+            "fonte": "Seção III Do Chefe de Secretaria",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção IV — Da Equipe de Apoio Administrativo",
+            "fonte": "Seção IV Da Equipe de Apoio Administrativo",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção V — Da Equipe de Serviços Gerais",
+            "fonte": "Seção V Da Equipe de Serviços Gerais",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção VI — Dos Profissionais da Educação, da Saúde e Assistentes Sociais",
+            "fonte": "Seção VI Dos Profissionais da Educação, da Saúde e Assistentes Sociais",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO V — DOS PRINCÍPIOS DE CONVIVÊNCIA SOCIAL",
+            "fonte": "CAPÍTULO V DOS PRINCÍPIOS DE CONVIVÊNCIA SOCIAL",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção I — Dos Direitos dos Estudantes",
+            "fonte": "Seção I Dos Direitos dos Estudantes",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção II — Dos Deveres dos Estudantes",
+            "fonte": "Seção II Dos Deveres dos Estudantes",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção III — Dos Direitos e Deveres dos Profissionais da Educação",
+            "fonte": "Seção III Dos Direitos e Deveres dos Profissionais da Educação",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção IV — Dos Direitos e Deveres da Equipe Técnico-Pedagógica",
+            "fonte": "Seção IV Dos Direitos e Deveres da Equipe Técnico-Pedagógica",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "TÍTULO IV — DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+            "fonte": "TÍTULO IV DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          }
+        ],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "a8f95a8e05f10eccfb0ff648fcd241b516e519022421cf9f5a8a6109bd1ee816",
+        "sha256_visivel_md": "ecd80858e884b319bd091ab7be493cfda1414214b2b42dc20a1b47384a92c6b4",
+        "sha256_visivel_reconversao": "ecd80858e884b319bd091ab7be493cfda1414214b2b42dc20a1b47384a92c6b4",
+        "divergencia_md_fonte": {
+          "posicao": 11467,
+          "fonte": "o Centro, em parceria com os profissionais dos demais Núcleos. Parágrafo único. Além do previsto no caput, podem ser desenvolvidas pesquisas que apoiem as práticas educativas dos profissionais do Centro, bem como possibilitem uma melhor compreensão da realidade educacional dos estudantes público alv",
+          "md": "o Centro, em parceria com os profissionais dos demais Núcleos. Parágrafo único. Além do previsto no *caput *, podem ser desenvolvidas pesquisas que apoiem as práticas educativas dos profissionais do Centro, bem como possibilitem uma melhor compreensão da realidade educacional dos estudantes público "
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52183-2022-id61487.md",
+      "sha256_md": "6631833e6d1dbde6c5b1976bfd51a52569fb4e6a4fd9777040852579fb1737fe",
+      "id_oficial": "61487",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=61487&tipo=TEXTOORIGINAL",
+      "tipo": "Decreto",
+      "numero": "52.183",
+      "data": "2022-01-21",
+      "versao_texto": "original",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52183-2022-id61487.html.gz",
+      "sha256_cache": "a1df8bf33a098df8793ba8ab44c7f7d935051fabccef48a8f4e2b601e74d4e4e",
+      "sha256_fonte": "9c80e0d274ea419af9f941722fe1caebd71588e871e1e4bb270694424d161548",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 18170,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "eb44756be2be32c1b385f8bcef81e45e6e21b7327bf76de5d3a172b02691c8f4",
+      "sha256_reconversao": "2c42bfc0c817a70421edbdfff5999583aa62fc1325d903850d15aec6052e100c",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "da Ata da 128ª Reunião do referido Comitê, realizada em 20 de dezembro de 2021,\n\nDECRETA:\n\nArt. 1º Fica prorrogado o prazo de fruição do incentivo do PRODEPE de que trata o Decreto nº 35.802, de 28 de outubro de 2010, concedido à empresa JURERÊ INDÚSTRIA DE ALIMENTOS LT",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 52.183, DE 21 DE JANEIRO DE 2022. Dispõe sobre a prorrogação do prazo de fruição de estímulo do PRODEPE concedido pelo Decreto nº 35.802, de 28 de outubro de 2010, para a empresa JURERÊ INDÚSTRIA DE ALIMENTOS LTDA. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do art. 37 da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999; CONSIDERANDO a decisão do Comitê Diretor do PRODEPE, conforme consta da Ata da 128ª Reunião do referido Comitê, realizada em 20 de dezembro de 2021, DECRETA: Art. 1º Fica prorrogado o prazo de fruição do incentivo do PRODEPE de que trata o Decreto nº 35.802, de 28 de outubro de 2010, concedido à empresa JURERÊ INDÚSTRIA DE ALIMENTOS LTDA., estabelecida na Rua Francisco Paulo Maciel, n° 124, Bairro Novo, Carpina - PE, com CNPJ/MF nº 12.336.734/0001-25 e CACEPE nº 0406610-32, nos termos do inciso III do *caput* e do inciso II do § 15 do art. ",
+        "indice": {
+          "id": "61487",
+          "nome": "Decreto do Executivo n° 52.183",
+          "publicacao": "Publicada no DOE 22/01/2022",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 52.183, DE 21 DE JANEIRO DE 2022"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "5e3f00ad0724533a9d2e3906bad0f95fdd364ffc0610b7e18be21a09b62e57b9",
+        "sha256_visivel_md": "93c15b24e89d16827a5d7be79ba76b8f525ccd3f41129a436cce09a9d3089e1a",
+        "sha256_visivel_reconversao": "93c15b24e89d16827a5d7be79ba76b8f525ccd3f41129a436cce09a9d3089e1a",
+        "divergencia_md_fonte": {
+          "posicao": 2678,
+          "fonte": " novembro de 2022, independente de qualquer valor; (AC) Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": " novembro de 2022, independente de qualquer valor; (AC) Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52643-2022-id62741.md",
+      "sha256_md": "0f9c4bb2c221812acb64718dbeb187910a2d28d16c470cdaed5dcf4ff9c185de",
+      "id_oficial": "62741",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=62741&tipo=TEXTOORIGINAL",
+      "tipo": "Decreto",
+      "numero": "52.643",
+      "data": "2022-04-25",
+      "versao_texto": "original",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52643-2022-id62741.html.gz",
+      "sha256_cache": "3d18aceb525262b796ac18c2dcd43dc9ab51f71e8d5d76103402e0d03de12e98",
+      "sha256_fonte": "48f55f1d74fc9cc87760b1af0502ff7684cdd9a385da36751db8e3573eea002a",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 17485,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "0569822629699e0ffefa11f25a9652404bceac6a9242f1427a6022f751073018",
+      "sha256_reconversao": "8d9c42f2000043931b6f177595ba70f789331693f2b84e5da987f756c07969bb",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "ta da Ata da 129ª Reunião do referido Comitê, realizada em 25 de março de 2022,\n\nDECRETA:\n\nArt. 1º Fica renovado o prazo de fruição do incentivo do PRODEPE de que trata o Decreto nº 34.727, de 18 de março de 2010, para a empresa CEREALISTA FORQUILHINHA LTDA., atualmente",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 52.643, DE 25 DE ABRIL DE 2022. Dispõe sobre a renovação do prazo de fruição de estímulo do PRODEPE concedido pelo Decreto nº 34.727, de 18 de março de 2010, para a empresa CEREALISTA FORQUILHINHA LTDA., atualmente denominada RAMPINELLI ALIMENTOS LTDA. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do art. 37 da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999; CONSIDERANDO a decisão do Comitê Diretor do PRODEPE, conforme consta da Ata da 129ª Reunião do referido Comitê, realizada em 25 de março de 2022, DECRETA: Art. 1º Fica renovado o prazo de fruição do incentivo do PRODEPE de que trata o Decreto nº 34.727, de 18 de março de 2010, para a empresa CEREALISTA FORQUILHINHA LTDA., atualmente denominada RAMPINELLI ALIMENTOS LTDA., estabelecida na Rua Eronildes Bernardino de Lima, nº 71, Distrito Industrial, Caruaru/PE, com CNPJ/MF nº 79.416.541/0005-89 e CACEPE n",
+        "indice": {
+          "id": "62741",
+          "nome": "Decreto do Executivo n° 52.643",
+          "publicacao": "Publicada no DOE 26/04/2022",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 52.643, DE 25 DE ABRIL DE 2022"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "36eddce374cd84723a6ee6d49bdc7c150c98ed07bc8ee3928329805b23280047",
+        "sha256_visivel_md": "85b06f65bb1aebbe925ade9b8e3b177e2c37082ac9ab1afb9132f039242dea40",
+        "sha256_visivel_reconversao": "85b06f65bb1aebbe925ade9b8e3b177e2c37082ac9ab1afb9132f039242dea40",
+        "divergencia_md_fonte": {
+          "posicao": 2516,
+          "fonte": "....................................................... Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": "....................................................... Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52669-2022-id62765.md",
+      "sha256_md": "3538ec9c5fbfa47227d79733d14073b4625d41bcdda39cab7ed9474ec96088a3",
+      "id_oficial": "62765",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=62765&tipo=TEXTOORIGINAL",
+      "tipo": "Decreto",
+      "numero": "52.669",
+      "data": "2022-04-25",
+      "versao_texto": "original",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52669-2022-id62765.html.gz",
+      "sha256_cache": "613e65c0f3bbe0edb9a5360f749fe37b42ca7c05723acc34a57e40440a513b2a",
+      "sha256_fonte": "91442ccbeda4c757b93f0b8a2b0e26b3a47a4698181219be3b45d2add8a90402",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 16567,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "d840d52b7d4f21e025fcce64c7ba273229765e8c09780dff6a5f5bfcaac6b7a2",
+      "sha256_reconversao": "69e335be7f50c9d33da19b034ea7969ea5ec10338dadb76ba8aaa915eadf1442",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "a da Ata da 129 ª Reunião do referido Comitê, realizada em 25 de março de 2022,\n\nDECRETA:\n\nArt. 1º Fica renovado o prazo de fruição do incentivo do PRODEPE de que trata o Decreto nº 34.270, de 25 de novembro de 2009, para à empresa SOMOPAR INDÚSTRIA E COMÉRCIO DE MÓVEIS",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 52.669, DE 25 DE ABRIL DE 2022. Dispõe sobre a renovação do prazo de fruição do incentivo do PRODEPE concedido pelo Decreto nº 34.270, de 25 de novembro de 2009, para a empresa SOMOPAR INDÚSTRIA E COMÉRCIO DE MÓVEIS LTDA., atualmente denominada SMP - INDÚSTRIA E COMÉRCIO DE MÓVEIS LTDA. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do art. 37 da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999; CONSIDERANDO a decisão do Comitê Diretor do PRODEPE, conforme consta da Ata da 129 ª Reunião do referido Comitê, realizada em 25 de março de 2022, DECRETA: Art. 1º Fica renovado o prazo de fruição do incentivo do PRODEPE de que trata o Decreto nº 34.270, de 25 de novembro de 2009, para à empresa SOMOPAR INDÚSTRIA E COMÉRCIO DE MÓVEIS LTDA., atualmente denominada SMP - INDÚSTRIA E COMÉRCIO DE MÓVEIS LTDA., estabelecida na Av. Joaquim Nabuco, n° 690, Centro, Bonito/PE, c",
+        "indice": {
+          "id": "62765",
+          "nome": "Decreto do Executivo n° 52.669",
+          "publicacao": "Publicada no DOE 26/04/2022",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 52.669, DE 25 DE ABRIL DE 2022"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "bb373e81f8da72a2500bc02384da4f316d5fc67f466bf30cc684a915c0f18d92",
+        "sha256_visivel_md": "efab29430c61dbfa4d97000fe80623079e9df3280b50875446dc5b6d137e4bb3",
+        "sha256_visivel_reconversao": "efab29430c61dbfa4d97000fe80623079e9df3280b50875446dc5b6d137e4bb3",
+        "divergencia_md_fonte": {
+          "posicao": 1769,
+          "fonte": "ndicionada à observância das seguintes características: Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": "ndicionada à observância das seguintes características: Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52177-2022-id61503.md",
+      "sha256_md": "f6d8514775631a3dd4335ac8e08046a8cd7243a23309643264d34c792fd54539",
+      "id_oficial": "61503",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=61503&tipo=TEXTOORIGINAL",
+      "tipo": "Decreto",
+      "numero": "52.177",
+      "data": "2022-01-21",
+      "versao_texto": "original",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52177-2022-id61503.html.gz",
+      "sha256_cache": "7174d6621eb43ae763795a8de2fa901b238a624299be6b58b056bc9eaa53983c",
+      "sha256_fonte": "bb8b4106f93e1cb5a77d059862329925dfde70f767bb360fbc6ead0d429c17fb",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 17633,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "67164d5b476c845c2483a92678cb5d7e6acbc76105ff9aade218dc764a855791",
+      "sha256_reconversao": "0003ae13c8b35ce5ce7a78b62f6f20fb4a8d10eacaca6ff0b146cb913631eea3",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "da Ata da 128ª Reunião do referido Comitê, realizada em 20 de dezembro de 2021,\n\nDECRETA:\n\nArt. 1º Fica renovado o prazo de fruição do incentivo do PRODEPE de que trata o Decreto nº 34.453, de 28 de dezembro de 2009, para a empresa DAIRY PARTNERS AMERICAS NORDESTE - PRO",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 52.177, DE 21 DE JANEIRO DE 2022. Dispõe sobre a renovação do prazo de fruição do estímulo do PRODEPE concedido pelo Decreto nº 34.453, de 28 de dezembro de 2009, à empresa DAIRY PARTNERS AMERICAS NORDESTE - PRODUTOS ALIMENTÍCIOS LTDA. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do art. 37 da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999; CONSIDERANDO a decisão do Comitê Diretor do PRODEPE, conforme consta da Ata da 128ª Reunião do referido Comitê, realizada em 20 de dezembro de 2021, DECRETA: Art. 1º Fica renovado o prazo de fruição do incentivo do PRODEPE de que trata o Decreto nº 34.453, de 28 de dezembro de 2009, para a empresa DAIRY PARTNERS AMERICAS NORDESTE - PRODUTOS ALIMENTÍCIOS LTDA., estabelecida na Rua Projetada, nº 1100, Parte 2, Sala 1, Boa Vista, Garanhuns - PE, com CNPJ/MF nº 10.331.731/0001-73 e CACEPE nº 0383867-63, nos termos do inciso",
+        "indice": {
+          "id": "61503",
+          "nome": "Decreto do Executivo n° 52.177",
+          "publicacao": "Publicada no DOE 22/01/2022",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 52.177, DE 21 DE JANEIRO DE 2022"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "7083bcbc502e54e43a197258697efb964d64d7d04a71816b065297327feb0941",
+        "sha256_visivel_md": "f44cc0f4d08144c047eb1594afee0bd4b9d717fa4bafc688eb8d2c9a81d2a03c",
+        "sha256_visivel_reconversao": "f44cc0f4d08144c047eb1594afee0bd4b9d717fa4bafc688eb8d2c9a81d2a03c",
+        "divergencia_md_fonte": {
+          "posicao": 2346,
+          "fonte": "....................................................... Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": "....................................................... Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52189-2022-id61509.md",
+      "sha256_md": "e03dea7275294c284097bd62e40dd9a1f00b4052ad75e1e11d0d24c85164c3a4",
+      "id_oficial": "61509",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=61509&tipo=TEXTOORIGINAL",
+      "tipo": "Decreto",
+      "numero": "52.189",
+      "data": "2022-01-21",
+      "versao_texto": "original",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52189-2022-id61509.html.gz",
+      "sha256_cache": "57d20984256547a42fbbddd5a84a0895cdbbb662609e5c9db406689fffde82bb",
+      "sha256_fonte": "ad13161f6b096b9b4b3f9b74a0f3571fc9e510691cbfcf1acc7fffba9a782a04",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 23318,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "3164be485f33cad31592f6978fd03a1f8ecaad3c469aa1e3671cb62f5faa545a",
+      "sha256_reconversao": "950f61b34e5116c21e8398825cac4d8967a9e3d9bad3810fbb3189dd15433110",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "da Ata da 128ª Reunião do referido Comitê, realizada em 20 de dezembro de 2021,\n\nDECRETA:\n\nArt. 1º Fica prorrogado o prazo de fruição dos incentivos do PRODEPE de que trata o Decreto nº 22.230, de 28 de abril de 2000, concedido à empresa TCA - TECNOLOGIA EM COMPONENTES ",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 52.189, DE 21 DE JANEIRO DE 2022. Dispõe sobre a 2ª prorrogação do prazo de fruição de estímulo do PRODEPE, concedido pelo Decreto nº 22.230, de 28 de abril de 2000, à empresa TCA - TECNOLOGIA EM COMPONENTES AUTOMOTIVOS S/A, posteriormente transferido pelo Decreto nº 42.079, de 25 de agosto de 2015, à empresa FIAT AUTOMÓVEIS LTDA., atualmente denominada FCA FIAT CHRYSLER AUTOMÓVEIS BRASIL LTDA. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do art. 37 da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999; CONSIDERANDO a decisão do Comitê Diretor do PRODEPE, conforme consta da Ata da 128ª Reunião do referido Comitê, realizada em 20 de dezembro de 2021, DECRETA: Art. 1º Fica prorrogado o prazo de fruição dos incentivos do PRODEPE de que trata o Decreto nº 22.230, de 28 de abril de 2000, concedido à empresa TCA - TECNOLOGIA EM COMPONENTES AUTOMOTIVOS S/A, posterior",
+        "indice": {
+          "id": "61509",
+          "nome": "Decreto do Executivo n° 52.189",
+          "publicacao": "Publicada no DOE 22/01/2022",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 52.189, DE 21 DE JANEIRO DE 2022"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "480ea11c50612011ca81ab55b863ea6b6b227c12657bdf39906a79257d4d74d5",
+        "sha256_visivel_md": "bea13f47ccb731299c53d6a740c6011d5bc05424eebed72d979abb809703c074",
+        "sha256_visivel_reconversao": "bea13f47ccb731299c53d6a740c6011d5bc05424eebed72d979abb809703c074",
+        "divergencia_md_fonte": {
+          "posicao": 4005,
+          "fonte": "6/0034-14 e CACEPE nº 0497958-30, por motivo de incorporação. (REN) § 2º Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": "6/0034-14 e CACEPE nº 0497958-30, por motivo de incorporação. (REN) § 2º Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52178-2022-id61485.md",
+      "sha256_md": "48d1e9db7ccf53b4cdd4bce3a17bf5f2fab80e1aaccd74f6e1d150706dcbba83",
+      "id_oficial": "61485",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=61485&tipo=TEXTOORIGINAL",
+      "tipo": "Decreto",
+      "numero": "52.178",
+      "data": "2022-01-21",
+      "versao_texto": "original",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52178-2022-id61485.html.gz",
+      "sha256_cache": "1fd6902b26408eff94928f12118471f34608dfe87db43f0791fcf98e5a18f4b1",
+      "sha256_fonte": "7a13dcd1d8793310366bc799ab437ef3f2117c2aa27aa44cb28344ae6fb132d5",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 16855,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "fa0a97fbd6b8ef29de90e58d1bc2d267f547be4611281f1df382c32bb4e9234f",
+      "sha256_reconversao": "ed5679f5d6c1f64d649596771ca9d01376815f975d720e9020960af91b7ff9df",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "da Ata da 128ª Reunião do referido Comitê, realizada em 20 de dezembro de 2021,\n\nDECRETA:\n\nArt. 1º Fica renovado o prazo de fruição do incentivo do PRODEPE, de que trata o Decreto nº 40.127, de 28 de novembro de 2013, para a empresa EUCATEX NORDESTE INDÚSTRIA E COMÉRCIO",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 52.178, DE 21 DE JANEIRO DE 2022. Dispõe sobre a renovação do prazo de fruição de estímulo do PRODEPE concedido pelo Decreto nº 40.127, de 28 de novembro de 2013, à empresa EUCATEX NORDESTE INDÚSTRIA E COMÉRCIO LTDA. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do art. 37 da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999; CONSIDERANDO a decisão do Comitê Diretor do PRODEPE, conforme consta da Ata da 128ª Reunião do referido Comitê, realizada em 20 de dezembro de 2021, DECRETA: Art. 1º Fica renovado o prazo de fruição do incentivo do PRODEPE, de que trata o Decreto nº 40.127, de 28 de novembro de 2013, para a empresa EUCATEX NORDESTE INDÚSTRIA E COMÉRCIO LTDA., estabelecida na Rua Interna nº 07, 171, Área Industrial, Pontezinha, Cabo do Santo Agostinho - PE, com CNPJ/MF nº 12.494.872/0001-32 e CACEPE nº 0414125-32, nos termos do inciso III do *caput* e do i",
+        "indice": {
+          "id": "61485",
+          "nome": "Decreto do Executivo n° 52.178",
+          "publicacao": "Publicada no DOE 22/01/2022",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 52.178, DE 21 DE JANEIRO DE 2022"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "803701bd759b013e51aec8aa720f52035d5a8ca72b6cdd1045a080c07c81f1b8",
+        "sha256_visivel_md": "afaea49954e71eaffbde39ee09bf239fb7c3241608f628f1db09b253e3662747",
+        "sha256_visivel_reconversao": "afaea49954e71eaffbde39ee09bf239fb7c3241608f628f1db09b253e3662747",
+        "divergencia_md_fonte": {
+          "posicao": 2277,
+          "fonte": "....................................................... Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": "....................................................... Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-53190-2022-id66923.md",
+      "sha256_md": "e13f5e601a8dee319ef1d8e453c6b16a814b039b5d6ccd37bc55dbd47abaa92a",
+      "id_oficial": "66923",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=66923&tipo=TEXTOORIGINAL",
+      "tipo": "Decreto",
+      "numero": "53.190",
+      "data": "2022-07-14",
+      "versao_texto": "original",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-53190-2022-id66923.html.gz",
+      "sha256_cache": "1a46a4b86b0cb5d9e76dca6d4c731feacd20007ad9536d359a8cbcbbb8ff8582",
+      "sha256_fonte": "58f383bdce3d36a9d421b81b69397c4dd980b6e56c49dab6b9bb4bb719ec6ff8",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 16473,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "f81616220b4408894c0ee78280e41b5a0375966fcc43aad21583bb61d30b7bcf",
+      "sha256_reconversao": "94e2eac85f8a1735f06587c51aac8d5e7b596626f7c040d4d5d90a419d5e8f84",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "es conferidas pelo incisos II e IV dos arts. 37 e 195 da Constituição Estadual,\n\nDECRETA:\n\nArt. 1º O Decreto nº 50.873, de 17 de junho de 2021, passa a vigorar com as seguintes alterações:\n\n“Art. 16. Os beneficiários que receberem os recursos para custeio de solução de ",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 53.190, DE 14 DE JULHO DE 2022. Altera o Decreto nº 50.873, de 17 de junho de 2021, que regulamenta a Lei nº 17.322, de 15 de junho de 2021, e prorroga o prazo de aporte dos recursos financeiros para custeio de solução de conectividade, na forma do art. 2º, § 1º, da citada Lei. O GOVERNADOR DO ESTADO, no uso das atribuições conferidas pelo incisos II e IV dos arts. 37 e 195 da Constituição Estadual, DECRETA: Art. 1º O Decreto nº 50.873, de 17 de junho de 2021, passa a vigorar com as seguintes alterações: “Art. 16. Os beneficiários que receberem os recursos para custeio de solução de conectividade deverão anexar trimestralmente a documentação comprobatória do dispêndio dos valores recebidos no Portal Professor Conectado. (NR) § 1º Serão admitidos, para fins de comprovação das despesas mencionadas no *caput *, notas fiscais, recibos, faturas ou cópia de contratos firmados com a empresa prestadora dos serviços de conectividade fixa ou móvel, que seja referente a pelo menos um d",
+        "indice": {
+          "id": "66923",
+          "nome": "Decreto do Executivo n° 53.190",
+          "publicacao": "Publicada no DOE 15/07/2022",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 53.190, DE 14 DE JULHO DE 2022"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "03a29a7677b0ac3c18606cfe86172bbbf5c2fd112cf04423682c3b616665ee5f",
+        "sha256_visivel_md": "62d17039c3eeb43c548be08dc87d804d154f2423749b963cdaf713383b1f828c",
+        "sha256_visivel_reconversao": "62d17039c3eeb43c548be08dc87d804d154f2423749b963cdaf713383b1f828c",
+        "divergencia_md_fonte": {
+          "posicao": 821,
+          "fonte": "rofessor Conectado. (NR) § 1º Serão admitidos, para fins de comprovação das despesas mencionadas no caput, notas fiscais, recibos, faturas ou cópia de contratos firmados com a empresa prestadora dos serviços de conectividade fixa ou móvel, que seja referente a pelo menos um dos meses do trimestre da",
+          "md": "rofessor Conectado. (NR) § 1º Serão admitidos, para fins de comprovação das despesas mencionadas no *caput *, notas fiscais, recibos, faturas ou cópia de contratos firmados com a empresa prestadora dos serviços de conectividade fixa ou móvel, que seja referente a pelo menos um dos meses do trimestre"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52180-2022-id61504.md",
+      "sha256_md": "93021ae484bd14ebc023aa1dbba4e25c206e7882bcef45c3791bb81fb8f1ee78",
+      "id_oficial": "61504",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=61504&tipo=TEXTOORIGINAL",
+      "tipo": "Decreto",
+      "numero": "52.180",
+      "data": "2022-01-21",
+      "versao_texto": "original",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52180-2022-id61504.html.gz",
+      "sha256_cache": "1c5b0f0a9d9587412d003da9e5707c8bbb50cfd124eb398767d982f26bd2a489",
+      "sha256_fonte": "c14e6130d8a7a3052bd0a91421a4730796881ea1b88a245c0bb5d17f2e154c61",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 29004,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "ac69881bd7d9a8006130481d521c830c57ca12a951f12976b8cb695d26096743",
+      "sha256_reconversao": "a56fdfd9d21e42b6be78aa71ebeb4166460b02a1b83337a7ffc529a799fd582a",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "da Ata da 128ª Reunião do referido Comitê, realizada em 20 de dezembro de 2021,\n\nDECRETA:\n\nArt. 1º Ficam renovados os prazos de fruição do incentivo do PRODEPE de que tratam os Decretos nº 26.487, de 9 de março de 2004 e nº 33.055, de 27 de fevereiro de 2009, concedidos",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 52.180, DE 21 DE JANEIRO DE 2022. Dispõe sobre a renovação do prazo de fruição de estímulo do PRODEPE concedido pelos Decretos nº 26.487, de 9 de março de 2004 e nº 33.055, de 27 de fevereiro de 2009, para a empresa MADELAR - INDÚSTRIA E COMÉRCIO LTDA., atualmente denominada MADELAR INDÚSTRIA LTDA. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do art. 37 da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999; CONSIDERANDO a decisão do Comitê Diretor do PRODEPE, conforme consta da Ata da 128ª Reunião do referido Comitê, realizada em 20 de dezembro de 2021, DECRETA: Art. 1º Ficam renovados os prazos de fruição do incentivo do PRODEPE de que tratam os Decretos nº 26.487, de 9 de março de 2004 e nº 33.055, de 27 de fevereiro de 2009, concedidos à empresa MADELAR - INDÚSTRIA E COMÉRCIO LTDA., atualmente denominada MADELAR INDÚSTRIA LTDA., estabelecida na Rodovia BR 2",
+        "indice": {
+          "id": "61504",
+          "nome": "Decreto do Executivo n° 52.180",
+          "publicacao": "Publicada no DOE 22/01/2022",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 52.180, DE 21 DE JANEIRO DE 2022"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "cdbc81fd00dec7e8128a806627b0c3f81edae9840d8f91c325854fc20ffd7050",
+        "sha256_visivel_md": "63861f5ea1644745bb8b10058948ab72dc03eb833562aa80e3fcb763e1db627e",
+        "sha256_visivel_reconversao": "63861f5ea1644745bb8b10058948ab72dc03eb833562aa80e3fcb763e1db627e",
+        "divergencia_md_fonte": {
+          "posicao": 1842,
+          "fonte": "e 6º do Decreto 21.959, de 27 de dezembro de 1999. (NR) Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": "e 6º do Decreto 21.959, de 27 de dezembro de 1999. (NR) Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52185-2022-id61507.md",
+      "sha256_md": "f927565a933a29bb86b73bc6554444914316c733e04835acb090f5c43bc59f0a",
+      "id_oficial": "61507",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=61507&tipo=TEXTOORIGINAL",
+      "tipo": "Decreto",
+      "numero": "52.185",
+      "data": "2022-01-21",
+      "versao_texto": "original",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52185-2022-id61507.html.gz",
+      "sha256_cache": "9472b5d8d6e64967d76533585af8a56b5861c004d576e9333bdc4b3c4eab8a43",
+      "sha256_fonte": "04eac03c4ac1e5e583111d0095ac5aa0c467f7ec1f1f81914b155d54bc8b8241",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 26573,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "1b3cff0761f5eae518d6feb5fce6c12d61f889998f226bf48edec02b2007cc4e",
+      "sha256_reconversao": "a1fa17decc90150abefe7454ba1ee40c4c28710fb6f035bf8259c5ea226fb32b",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "da Ata da 128ª Reunião do referido Comitê, realizada em 20 de dezembro de 2021,\n\nDECRETA:\n\nArt. 1º Fica renovado e prorrogado o prazo de fruição do incentivo do PRODEPE de que tratam os Decretos nº 33.102, de 17 de março de 2009, e nº 36.297, de 3 de março de 2011, para",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 52.185, DE 21 DE JANEIRO DE 2022. Dispõe sobre a renovação e prorrogação do prazo de fruição de estímulo do PRODEPE concedido pelos Decretos nº 33.102, de 17 de março de 2009, e nº 36.297, de 3 de março de 2011, para a empresa NORAL – NORDESTE ALUMÍNIO LTDA. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do art. 37 da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999; CONSIDERANDO a decisão do Comitê Diretor do PRODEPE, conforme consta da Ata da 128ª Reunião do referido Comitê, realizada em 20 de dezembro de 2021, DECRETA: Art. 1º Fica renovado e prorrogado o prazo de fruição do incentivo do PRODEPE de que tratam os Decretos nº 33.102, de 17 de março de 2009, e nº 36.297, de 3 de março de 2011, para a empresa NORAL - NORDESTE ALUMÍNIO LTDA., estabelecida na Rua Largo Verde, nº 25, Prazeres, Jaboatão dos Guararapes – PE, com CNPJ/MF nº 05.651.892/0001-04 e CACEP",
+        "indice": {
+          "id": "61507",
+          "nome": "Decreto do Executivo n° 52.185",
+          "publicacao": "Publicada no DOE 22/01/2022",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 52.185, DE 21 DE JANEIRO DE 2022"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "22c8d40cc1f0fc533dde0ca3faac9168d473c285c2549047cf79bed64a4d0550",
+        "sha256_visivel_md": "38d0d8bfa048ac64b51d52017dad278fb174f493799d928cd932e4ee5de46b35",
+        "sha256_visivel_reconversao": "38d0d8bfa048ac64b51d52017dad278fb174f493799d928cd932e4ee5de46b35",
+        "divergencia_md_fonte": {
+          "posicao": 2362,
+          "fonte": "....................................................... Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": "....................................................... Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52726-2022-id62845.md",
+      "sha256_md": "0e2e45fb66476edb2bc801664c0df1c20d84d25b755e7339e69ffd64b9c8ce09",
+      "id_oficial": "62845",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=62845&tipo=TEXTOORIGINAL",
+      "tipo": "Decreto",
+      "numero": "52.726",
+      "data": "2022-04-27",
+      "versao_texto": "original",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52726-2022-id62845.html.gz",
+      "sha256_cache": "73a7f42408bd8a9f9b06ab366aaa60fabb5936be03a76637207695a383bfa58f",
+      "sha256_fonte": "6016ca0b5993f7beb0391dc10fa1288eb197046ca62d8cc36482b93d1d4509f5",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 15008,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "7484b88ef531e18ca0ec169607419c904921c0cfc59ed896a90f676a364a345f",
+      "sha256_reconversao": "c699d40a7754be7cd2b9e96314d77fa0943b4db105b0f9a731a379e7e04de152",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "ta da Ata da 129ª Reunião do referido Comitê, realizada em 25 de março de 2022,\n\nDECRETA:\n\nArt. 1º Fica renovado o prazo de fruição do incentivo do PRODEPE de que trata o Decreto nº 29.609, de 31 de agosto de 2006, para a empresa INDÚSTRIAS REUNIDAS RAYMUNDO DA FONTE S/",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 52.726, DE 27 DE ABRIL DE 2022. Dispõe sobre a renovação do prazo de fruição de estímulo do PRODEPE concedido pelo Decreto nº 29.609, de 31 de agosto de 2006, para a empresa INDÚSTRIAS REUNIDAS RAYMUNDO DA FONTE S/A. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do art. 37 da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999; CONSIDERANDO a decisão do Comitê Diretor do PRODEPE, conforme consta da Ata da 129ª Reunião do referido Comitê, realizada em 25 de março de 2022, DECRETA: Art. 1º Fica renovado o prazo de fruição do incentivo do PRODEPE de que trata o Decreto nº 29.609, de 31 de agosto de 2006, para a empresa INDÚSTRIAS REUNIDAS RAYMUNDO DA FONTE S/A, estabelecida na Rodovia PE-15, Km 14, Vila Torres Galvão, Paulista - PE, com CNPJ nº 11.507.415/0001-72 e CACEPE nº 0069853-94, nos termos do inciso III do *capu *t e inciso II do § 15 do art. 5º da Lei nº 1",
+        "indice": {
+          "id": "62845",
+          "nome": "Decreto do Executivo n° 52.726",
+          "publicacao": "Publicada no DOE 28/04/2022",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 52.726, DE 27 DE ABRIL DE 2022"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "d7c072de288fd5aab18b47d48ee309c7f2d1d359f601dfd8637a0a91296fe0d6",
+        "sha256_visivel_md": "f110121723856a1b0ef48cf49b0f1f8855f9b4b5c14d4f60befa78a8acb3f75c",
+        "sha256_visivel_reconversao": "f110121723856a1b0ef48cf49b0f1f8855f9b4b5c14d4f60befa78a8acb3f75c",
+        "divergencia_md_fonte": {
+          "posicao": 949,
+          "fonte": ", Paulista - PE, com CNPJ nº 11.507.415/0001-72 e CACEPE nº 0069853-94, nos termos do inciso III do caput e inciso II do § 15 do art. 5º da Lei nº 11.675, de 11 de outubro de 1999. Art. 2º Em função do disposto no art. 1º, o Decreto nº 29.609, de 2006, passa a vigorar com as seguintes modificações: ",
+          "md": ", Paulista - PE, com CNPJ nº 11.507.415/0001-72 e CACEPE nº 0069853-94, nos termos do inciso III do *capu *t e inciso II do § 15 do art. 5º da Lei nº 11.675, de 11 de outubro de 1999. Art. 2º Em função do disposto no art. 1º, o Decreto nº 29.609, de 2006, passa a vigorar com as seguintes modificaçõe"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52731-2022-id62850.md",
+      "sha256_md": "7766ffe57d5fb09aec5e3d884b9a888fc285f88432ddd8bea7c9ebe66372a1fa",
+      "id_oficial": "62850",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=62850&tipo=TEXTOORIGINAL",
+      "tipo": "Decreto",
+      "numero": "52.731",
+      "data": "2022-04-27",
+      "versao_texto": "original",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52731-2022-id62850.html.gz",
+      "sha256_cache": "463d444b484ddd6b2889168a1c3b5c8016dcddee3bd8d6200b2f9dd872b78085",
+      "sha256_fonte": "2815fa44af488ab028a6ef4e20ce7ce977b718ea10d1a0280382a1aa6d0131b1",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 16050,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "07828d5ef32810d4dbe95984e97dc99f3e03e4eea49e52964e4efd564c7c4834",
+      "sha256_reconversao": "1204d231f594a70583e60f54f77f0ec2be57861b5cbb5cdc028fb86692799629",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "ta da Ata da 129ª Reunião do referido Comitê, realizada em 25 de março de 2022,\n\nDECRETA:\n\nArt. 1º Fica prorrogado o prazo de fruição do incentivo do PRODEPE de que trata o Decreto nº 38.129, de 27 de abril de 2012, para a empresa NISSIN-AJINOMOTO ALIMENTOS LTDA., atual",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 52.731, DE 27 DE ABRIL DE 2022. Dispõe sobre a prorrogação do prazo de fruição de estímulo do PRODEPE concedido pelo Decreto nº 38.129, de 27 de abril de 2012, para a empresa NISSIN-AJINOMOTO ALIMENTOS LTDA., atualmente denominada NISSIN FOODS DO BRASIL LTDA. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do art. 37 da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999; CONSIDERANDO a decisão do Comitê Diretor do PRODEPE, conforme consta da Ata da 129ª Reunião do referido Comitê, realizada em 25 de março de 2022, DECRETA: Art. 1º Fica prorrogado o prazo de fruição do incentivo do PRODEPE de que trata o Decreto nº 38.129, de 27 de abril de 2012, para a empresa NISSIN-AJINOMOTO ALIMENTOS LTDA., atualmente denominada NISSIN FOODS DO BRASIL LTDA., estabelecida na Rodovia PE-050, Km 15, Distrito Industrial, Glória do Goitá - PE, com CNPJ/MF nº 60.945.169/0005-70 e CA",
+        "indice": {
+          "id": "62850",
+          "nome": "Decreto do Executivo n° 52.731",
+          "publicacao": "Publicada no DOE 28/04/2022",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 52.731, DE 27 DE ABRIL DE 2022"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "7d402b68732a3969edcc1c549a0c5b6fc1241f7916ce3605f52a6bd2d9cbb296",
+        "sha256_visivel_md": "ffaeac416f8a2308de49d6b6a19ad3a2d7182802376e79b5c0e51504643ecbc3",
+        "sha256_visivel_reconversao": "ffaeac416f8a2308de49d6b6a19ad3a2d7182802376e79b5c0e51504643ecbc3",
+        "divergencia_md_fonte": {
+          "posicao": 2239,
+          "fonte": "....................................................... Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": "....................................................... Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52184-2022-id61506.md",
+      "sha256_md": "e5b9cb519511304096c065565a7073c79f08bcef6c351ec1b1aa5e7acb53aafd",
+      "id_oficial": "61506",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=61506&tipo=TEXTOORIGINAL",
+      "tipo": "Decreto",
+      "numero": "52.184",
+      "data": "2022-01-21",
+      "versao_texto": "original",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52184-2022-id61506.html.gz",
+      "sha256_cache": "3d06711dafdc11e6b66600f94aba3eff1f1e28c437f3989bfd22a01b8930f6a0",
+      "sha256_fonte": "b72727ff4cfe183b07e36629723485da0555b15ef8a22fd663c3766ff406fbd7",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 16815,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "1b4fe1c1697c51728b70d8e80945d716bd0461ef4767d8ed300a1d1e46339889",
+      "sha256_reconversao": "4f64d88e2c651e2ded3c1e75a98d37009418c79312d693545906b332ce388892",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "da Ata da 128ª Reunião do referido Comitê, realizada em 20 de dezembro de 2021,\n\nDECRETA:\n\nArt. 1º Fica prorrogado o prazo de fruição do incentivo do PRODEPE de que trata o Decreto nº 34.738, de 18 de março de 2010, para a empresa MAXTIL INDÚSTRIA E COMÉRCIO LTDA., esta",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 52.184, DE 21 DE JANEIRO DE 2022. Dispõe sobre a prorrogação do prazo de fruição de estímulo do PRODEPE concedido pelo Decreto nº 34.738, de 18 de março de 2010, para a empresa MAXTIL INDÚSTRIA E COMÉRCIO LTDA. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do art. 37 da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999; CONSIDERANDO a decisão do Comitê Diretor do PRODEPE, conforme consta da Ata da 128ª Reunião do referido Comitê, realizada em 20 de dezembro de 2021, DECRETA: Art. 1º Fica prorrogado o prazo de fruição do incentivo do PRODEPE de que trata o Decreto nº 34.738, de 18 de março de 2010, para a empresa MAXTIL INDÚSTRIA E COMÉRCIO LTDA., estabelecida na Rodovia BR 232, km 9,3, s/n, Portaria 2, Curado, Jaboatão dos Guararapes - PE, com CNPJ/MF nº 07.265.878/0001-06 e CACEPE nº 0324062-23, nos termos do inciso III do *caput* e do inciso II do § 15 do ar",
+        "indice": {
+          "id": "61506",
+          "nome": "Decreto do Executivo n° 52.184",
+          "publicacao": "Publicada no DOE 22/01/2022",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 52.184, DE 21 DE JANEIRO DE 2022"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "e68f9d35b92ab6d1a195fb22cf57c394b6abf5aeb046c63b36faec55e818d822",
+        "sha256_visivel_md": "87603599b4a7f651c18784d47ffdda0fd03dd850bbcab7c53f039f35863bc2ac",
+        "sha256_visivel_reconversao": "87603599b4a7f651c18784d47ffdda0fd03dd850bbcab7c53f039f35863bc2ac",
+        "divergencia_md_fonte": {
+          "posicao": 2141,
+          "fonte": "....................................................... Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": "....................................................... Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2015/dec-41630-2015-id2884.md",
+      "sha256_md": "de7e9f6a9fe6afb642785950a4d4cc7c6b69469d441b0b88d7320f49ad817158",
+      "id_oficial": "2884",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=2884&tipo=TEXTOATUALIZADO",
+      "tipo": "Decreto",
+      "numero": "41.630",
+      "data": "2015-04-16",
+      "versao_texto": "atualizada",
+      "cache": "estaduais/PE/_fonte/decretos/2015/dec-41630-2015-id2884.html.gz",
+      "sha256_cache": "af5b0b028e5ba813a9fc122539f6022c05729d0e1b96e58d1f5e54c661c2cb83",
+      "sha256_fonte": "7ff4f8ca55a7a1f7836651418a81fe78a1bc2367c73116a09dbccb275fe31aaf",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 18900,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "6ee8cf557409b9b04d6821ced563232794cec9a335e3d742f6581cfb6a7cd760",
+      "sha256_reconversao": "a3d5fe5081c4b8079f528970da746c837c7bd332c554e03fa8142dc92aa8d9a1",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "IPER/SEFAZ nº 12/2015, e o teor do Ofício CONDIC nº 021, de 8 de abril de 2015,\n\nDECRETA:\n\nArt. 1º Fica concedido à empresa CERVEJARIA PETRÓPOLIS DE PERNAMBUCO LTDA., estabelecida na Rodovia BR-101, km 37,50, Mangabeira, Itapissuma - PE, com CNPJ/MF nº 16.622.166/0001-8",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 41.630, DE 16 DE ABRIL DE 2015. Concede estímulo previsto na Lei nº 11.675, de 11 de outubro de 1999, que dispõe sobre o PRODEPE, à empresa CERVEJARIA PETRÓPOLIS DE PERNAMBUCO LTDA. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do art. 37 da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999; CONSIDERANDO a Resolução nº 062, de 27 de março de 2015, do Conselho Estadual de Políticas Industrial, Comercial e de Serviços – CONDIC, que aprovou o Parecer Conjunto AD DIPER/SEFAZ nº 12/2015, e o teor do Ofício CONDIC nº 021, de 8 de abril de 2015, DECRETA: Art. 1º Fica concedido à empresa CERVEJARIA PETRÓPOLIS DE PERNAMBUCO LTDA., estabelecida na Rodovia BR-101, km 37,50, Mangabeira, Itapissuma - PE, com CNPJ/MF nº 16.622.166/0001-80 e CACEPE nº 0496338-56, o estímulo de que trata o art. 5º do Decreto nº 21.959, de 27 de dezembro de 1999, ficando a respectiva fruição c",
+        "indice": {
+          "id": "2884",
+          "nome": "Decreto do Executivo n° 41.630",
+          "publicacao": "Publicada no DOE 17/04/2015",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 41.630, DE 16 DE ABRIL DE 2015"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "1aa8d9b5772f8910737bd680b6a7d62279cbd12fa57c98c25b7fb03513aedd59",
+        "sha256_visivel_md": "d6df67800454750d032ea5fa95bdad4a75905c64b515bea8d129c837d056dd38",
+        "sha256_visivel_reconversao": "d6df67800454750d032ea5fa95bdad4a75905c64b515bea8d129c837d056dd38",
+        "divergencia_md_fonte": {
+          "posicao": 2731,
+          "fonte": "ês subsequente ao período fiscal da efetiva utilização. Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": "ês subsequente ao período fiscal da efetiva utilização. Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2012/dec-38543-2012-id16263.md",
+      "sha256_md": "bb0299c46e9a2310e1c2923b0369a64878db613d35a997b890432568f01b5ab3",
+      "id_oficial": "16263",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=16263&tipo=TEXTOATUALIZADO",
+      "tipo": "Decreto",
+      "numero": "38.543",
+      "data": "2012-08-17",
+      "versao_texto": "atualizada",
+      "cache": "estaduais/PE/_fonte/decretos/2012/dec-38543-2012-id16263.html.gz",
+      "sha256_cache": "1926f3bd7020e37e522856ffa17e59ef83337db8a28340dc0ce766418a15f9f6",
+      "sha256_fonte": "96a54c5dc1f4c3a8e15cc706c1aecb67c69ddc59a4a8ceb06670b05c2da2f39d",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 12099,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "b059ad1733ac2587ecb676d5ad72ba232537d47c86d40119c992ee5d2dc18f2a",
+      "sha256_reconversao": "9e3bfcad8b3a04ef47d9e40dd50c732d3770b5d6b606223006bb1006cd71c737",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "EFAZ nº 050/2012, e o teor do Ofício CONDIC nº 117/2012, de 31 de maio de 2012,\n\nDECRETA:\n\nArt.1º Fica concedido à empresa FLOMIL - INDÚSTRIA E COMÉRCIO LTDA., estabelecida na Rodovia BR-423, km 64, Zona Rural, Lajedo - PE, com CNPJ/MF nº 11.616.865/0001-01 e CACEPE nº ",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 38.543, DE 17 DE AGOSTO DE 2012. Concede estímulo previsto na Lei nº 11.675, de 11 de outubro de 1999, que dispõe sobre o PRODEPE, à empresa FLOMIL - INDÚSTRIA E COMÉRCIO LTDA. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do artigo 37 da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999; CONSIDERANDO a Resolução nº 022/2012, de 18 de maio de 2012, do Conselho Estadual de Política Industrial, Comercial e de Serviços - CONDIC, que aprovou o Parecer Conjunto AD DIPER/SEFAZ nº 050/2012, e o teor do Ofício CONDIC nº 117/2012, de 31 de maio de 2012, DECRETA: Art.1º Fica concedido à empresa FLOMIL - INDÚSTRIA E COMÉRCIO LTDA., estabelecida na Rodovia BR-423, km 64, Zona Rural, Lajedo - PE, com CNPJ/MF nº 11.616.865/0001-01 e CACEPE nº 0392835-77, o estímulo de que trata o artigo 5º do Decreto nº 21.959, de 27 de dezembro de 1999, ficando a respectiva fruição condici",
+        "indice": {
+          "id": "16263",
+          "nome": "Decreto do Executivo n° 38.543",
+          "publicacao": "Publicada no DOE 18/08/2012",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 38.543, DE 17 DE AGOSTO DE 2012"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "f9116dd255062beca315e9df1d9d4cfd36d571fb1efa5e5159f4a60efe891b6f",
+        "sha256_visivel_md": "6332fafa6da2f48c265fa9df3de9448f51fdda5168953b937f31ba02183c4a2c",
+        "sha256_visivel_reconversao": "6332fafa6da2f48c265fa9df3de9448f51fdda5168953b937f31ba02183c4a2c",
+        "divergencia_md_fonte": {
+          "posicao": 2842,
+          "fonte": ", duzentos e trinta e sete reais e dezesseis centavos). Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": ", duzentos e trinta e sete reais e dezesseis centavos). Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2006/dec-28976-2006-id18468.md",
+      "sha256_md": "3f93dbe137168884b74270086e64f4493e9d3c3268b3dc66ba3a63aab8b09960",
+      "id_oficial": "18468",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=18468&tipo=TEXTOATUALIZADO",
+      "tipo": "Decreto",
+      "numero": "28.976",
+      "data": "2006-03-06",
+      "versao_texto": "atualizada",
+      "cache": "estaduais/PE/_fonte/decretos/2006/dec-28976-2006-id18468.html.gz",
+      "sha256_cache": "891c60ae159403e90463f595def709630c9b3f632dd4bf8880cd602acc134f8b",
+      "sha256_fonte": "86e5956c31fe06f3cf3b974e8addd743860ddc12f127f33335da0497a5279159",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 32889,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "9b212b71bb5f455f6db93013a3fc60f9ed46dfb0e686cdaa5e3af4dd06d47112",
+      "sha256_reconversao": "8871b215a444627c59fcbf56684f537bbddd9b8d67ee647c5b80646388beffab",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "m dos incentivos do PRODEPE, concedidos à empresa PHILIPS MEDICAL SYSTEMS LTDA,\n\nDECRETA:\n\nArt. 1º Fica concedido à empresa PHILIPS MEDICAL SYSTEMS LTDA., estabelecida na Avenida Getúlio Vargas, nº 3560 - Edifício D1 - térreo (parte) - Edifício D3 - 1º andar (parte) - D",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 28.976, DE 06 DE MARÇO DE 2006. Consolida os Decretos nº 25.953, de 29 de setembro de 2003, nº 26.701, de 11 de maio de 2004, nº 27.737, de 11 de março de 2005, nº 27.872, de 28 de abril de 2005, nº 28.002, de 06 de junho de 2005, nº 28.389, de 22 de setembro de 2005, e nº 28.442, de 04 de outubro de 2005, e dá outras providências. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo artigo 37, inciso IV, da Constituição Estadual, CONSIDERANDO a necessidade de consolidar os Decretos no 25.953, de 29 de setembro de 2003, nº 26.701, 11 de maio de 2004, nº 27.737, de 11 de março de 2005, n° 27.872, de 28 de abril de 2005, nº 28.002, de 06 de junho de 2005, nº 28.389, de 22 de setembro de 2005, e nº 28.442, de 04 de outubro de 2005, que tratam dos incentivos do PRODEPE, concedidos à empresa PHILIPS MEDICAL SYSTEMS LTDA, DECRETA: Art. 1º Fica concedido à empresa PHILIPS MEDICAL SYSTEMS LTDA., estabelecida na Avenida Getúlio Vargas, nº 3560 - Edifício D1 - té",
+        "indice": {
+          "id": "18468",
+          "nome": "Decreto do Executivo n° 28.976",
+          "publicacao": "Publicada no DOE 07/03/2006",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 28.976, DE 06 DE MARÇO DE 2006"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "73647fd1e984b5d51b54c3afc1b9a188cb5ebc171bf1a5de2bae01de205427a0",
+        "sha256_visivel_md": "ccec7a8e16cd87fa0ff9a5b2b82d223018c6ffa17c3a1526eceb2e53a093a311",
+        "sha256_visivel_reconversao": "ccec7a8e16cd87fa0ff9a5b2b82d223018c6ffa17c3a1526eceb2e53a093a311",
+        "divergencia_md_fonte": {
+          "posicao": 11158,
+          "fonte": " 7419.99.00 - até 200 peças; ferramentas não-magnéticas - NBM/SH 8205.59.00 - até 200 peças; bomba d`água para “chiller” - NBM/SH 8413.81.00 - até 200 peças; bomba d`água - NBM/SH 8413.91.00 - até 200 peças; bomba de ar- NBM/SH 8414.10.00 - até 200 peças; ventoinha / ventilador - NBM/SH 8414.59.90 -",
+          "md": " 7419.99.00 - até 200 peças; ferramentas não-magnéticas - NBM/SH 8205.59.00 - até 200 peças; bomba dágua para “chiller” - NBM/SH 8413.81.00 - até 200 peças; bomba dágua - NBM/SH 8413.91.00 - até 200 peças; bomba de ar- NBM/SH 8414.10.00 - até 200 peças; ventoinha / ventilador - NBM/SH 8414.59.90 - a"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2000/dec-22230-2000-id14664.md",
+      "sha256_md": "d48f251955f26dd4139d950b75d530f1fba455f7d8eebdfa7d9c10573bd4552e",
+      "id_oficial": "14664",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=14664&tipo=TEXTOATUALIZADO",
+      "tipo": "Decreto",
+      "numero": "22.230",
+      "data": "2000-04-28",
+      "versao_texto": "atualizada",
+      "cache": "estaduais/PE/_fonte/decretos/2000/dec-22230-2000-id14664.html.gz",
+      "sha256_cache": "1ece385f054f76c02d32846001bd2d1ec921e9ba240c04717dbe95561158b0da",
+      "sha256_fonte": "4b68515690f1bdc75f4e31a91da0c32cfb2f1f933521fc28419aeb92785ff3b8",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 22795,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "894b32bcadf76abd8de85d0a664c2e22722062e407633b904d61893c65e05bf1",
+      "sha256_reconversao": "9a1f1b2c6cccf7130f92763955aa40be567eb37352622c504ecd53ad20bb1d13",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": ", de 27 de dezembro de 1999, e do Decreto nº 21.973, de 29 de dezembro de 1999,\n\nDECRETA:\n\nArt. 1º A fruição do estímulo concedido nos termos do Decreto nº 21.973, de 29 de dezembro de 1999, à empresa TCA - TECNOLOGIA EM COMPONENTES AUTOMOTIVOS S/A, fica condicionada à ",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 22.230, DE 28 DE ABRIL DE 2000 Dispõe sobre a fruição de estímulo previsto na Lei nº 11.675, de 11 de outubro de 1999. O VICE-GOVERNADOR NO EXERCÍCIO DO CARGO DE GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo artigo 37, inciso IV da Constituição Estadual, e com fundamento na Lei n.º 11.675, de 11 de outubro de 1999, e no Decreto n.º 21.959, de 27 de dezembro de 1999 republicado no Diário Oficial do Estado, em 23 de março de 2000, Considerando a Resolução n.º 07/99, de 28 de dezembro de 1999, do Conselho Estadual de Política Industrial, Comercial e de Serviços - CONDIC; Considerando que a empresa TCA - Tecnologia em Componentes Automotivos S/A, estabelecida na Via Prestes Maia, s/n.º - Km 86,2 - BR 101 Sul - Prazeres - Jaboatão dos Guararapes - PE, CNPJ n.º 00.763.047/0001-07, CACEPE n.º 18.1.580.0006872-9, encontra-se fruindo dos incentivos do Programa de Desenvolvimento de Pernambuco - PRODEPE, nos termos do Decreto n.º 20.547, de 12 de maio de 199",
+        "indice": {
+          "id": "14664",
+          "nome": "Decreto do Executivo n° 22.230",
+          "publicacao": "Publicada no DOE 29/04/2000",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 22.230, DE 28 DE ABRIL DE 2000"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "c607f25954ff24156f2d5e88bad9c33866295d9bc54328ea1ace90cb3648da69",
+        "sha256_visivel_md": "0b979b91f218b3914d60916e078f8cbaa72ce763c248d706644f7e8936f03707",
+        "sha256_visivel_reconversao": "0b979b91f218b3914d60916e078f8cbaa72ce763c248d706644f7e8936f03707",
+        "divergencia_md_fonte": {
+          "posicao": 4967,
+          "fonte": "rado pelo art. 2º do Decreto nº 52.189, de 21 de novembro de 2022.) § 2º Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": "rado pelo art. 2º do Decreto nº 52.189, de 21 de novembro de 2022.) § 2º Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2009/dec-34270-2009-id670.md",
+      "sha256_md": "0c7a37e9c6912941734c32859c4fbc28a2a010cd532105faeda9128c937df1ee",
+      "id_oficial": "670",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=670&tipo=TEXTOATUALIZADO",
+      "tipo": "Decreto",
+      "numero": "34.270",
+      "data": "2009-11-25",
+      "versao_texto": "atualizada",
+      "cache": "estaduais/PE/_fonte/decretos/2009/dec-34270-2009-id670.html.gz",
+      "sha256_cache": "9c585b4b7d943fa00df69626ed6e3d6ec691cf992a1dc4d9bbf8b471e80b61f0",
+      "sha256_fonte": "21e2821f979a0b23c15b2212dd516a8f95b1cd0338246150d0e55820c20c64d9",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 12233,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "bd17f1cc8b43ef1a8c2d35788b9148b8fb8ecc9f25cad689f2b71c0ba50ad846",
+      "sha256_reconversao": "b656f12df3d4ab94f2687ac6b7becf047d0fd701f2bca4cdd4f3ba37b863e2ac",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "/SEFAZ nº 098/2009, e o teor do Ofício CONDIC nº 158, de 22 de outubro de 2009,\n\nDECRETA:\n\nArt. 1º Fica concedido à empresa SOMOPAR INDÚSTRIA E COMÉRCIO DE MÓVEIS LTDA., atualmente denominada SMP - INDÚSTRIA E COMÉRCIO DE MÓVEIS LTDA., estabelecida na Av. Joaquim Nabuco",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 34.270, DE 25 DE NOVEMBRO DE 2009. Concede estímulo previsto na Lei nº 11.675, de 11 de outubro de 1999, e alterações, que dispõe sobre o PRODEPE, à empresa SOMOPAR INDÚSTRIA E COMÉRCIO DE MÓVEIS LTDA. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo artigo 37, inciso IV, da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959 de 27 de dezembro de 1999, e respectivas alterações; CONSIDERANDO a Resolução nº 022, de 20 de outubro de 2009, do Conselho Estadual de Política Industrial, Comercial e de Serviços – CONDIC, que aprovou o Parecer Conjunto AD DIPER/SEFAZ nº 098/2009, e o teor do Ofício CONDIC nº 158, de 22 de outubro de 2009, DECRETA: Art. 1º Fica concedido à empresa SOMOPAR INDÚSTRIA E COMÉRCIO DE MÓVEIS LTDA., atualmente denominada SMP - INDÚSTRIA E COMÉRCIO DE MÓVEIS LTDA., estabelecida na Av. Joaquim Nabuco, n° 690, Centro, Bonito - PE, com CNPJ/MF nº 06.276.902/0001-31 e CACEPE nº 0384789-60,",
+        "indice": {
+          "id": "670",
+          "nome": "Decreto do Executivo n° 34.270",
+          "publicacao": "Publicada no DOE 26/11/2009",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 34.270, DE 25 DE NOVEMBRO DE 2009"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "7f3649dfdbcf31797e4f14d60d8fe7d77b12bb621a2b3bb52f6cd2f3c1140635",
+        "sha256_visivel_md": "efb4c15105623c0d6133535acbe13e2c2fda92a68eb39020c260844e71e22bc7",
+        "sha256_visivel_reconversao": "efb4c15105623c0d6133535acbe13e2c2fda92a68eb39020c260844e71e22bc7",
+        "divergencia_md_fonte": {
+          "posicao": 1285,
+          "fonte": " art. 2º do Decreto nº 52.669, de 25 de abril de 2022.) Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": " art. 2º do Decreto nº 52.669, de 25 de abril de 2022.) Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2009/dec-33102-2009-id24978.md",
+      "sha256_md": "abfbcb0e7d475e36b48b0fe10e9298b1a2ac0466a0cb170c243fe7b1fe6e06c7",
+      "id_oficial": "24978",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=24978&tipo=TEXTOATUALIZADO",
+      "tipo": "Decreto",
+      "numero": "33.102",
+      "data": "2009-03-17",
+      "versao_texto": "atualizada",
+      "cache": "estaduais/PE/_fonte/decretos/2009/dec-33102-2009-id24978.html.gz",
+      "sha256_cache": "2bfcff290972d1743b81b3b498ed6c9cc140007756e46299f81f72d352702424",
+      "sha256_fonte": "ce9cdf32d1cc6a36ee7370324db3652a8e92cdbd91e6cb89102f90a641f81466",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 12611,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "325e70519352b9b35f113b101cf64a4edb017f7ba897b1e89da7912c76cad806",
+      "sha256_reconversao": "c16266938672af3604bedff80891207bd7d97f236ac0944d908786da24d65e7a",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": " nº 105/2008, e o teor do Ofício CONDIC nº 170/2008, de 30 de dezembro de 2008,\n\nDECRETA:\n\nArt. 1º Fica concedido à empresa NORAL – NORDESTE ALUMÍNIO LTDA., estabelecida na Rua Largo Verde, nº 25, Prazeres, Jaboatão dos Guararapes – PE, com CNPJ/MF nº 05.651.892/0001-04",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 33.102, DE 17 DE MARÇO DE 2009. Concede estímulo previsto na Lei nº 11.675, de 11 de outubro de 1999, e alterações, que dispõe sobre o PRODEPE, à empresa NORAL – NORDESTE ALUMÍNIO LTDA. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo artigo 37, IV, da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999, e respectivas alterações; CONSIDERANDO a Resolução nº 20/2008, de 23 de dezembro de 2008, do Conselho Estadual de Política Industrial, Comercial e de Serviços – CONDIC, que aprovou o Parecer Conjunto AD DIPER/SEFAZ nº 105/2008, e o teor do Ofício CONDIC nº 170/2008, de 30 de dezembro de 2008, DECRETA: Art. 1º Fica concedido à empresa NORAL – NORDESTE ALUMÍNIO LTDA., estabelecida na Rua Largo Verde, nº 25, Prazeres, Jaboatão dos Guararapes – PE, com CNPJ/MF nº 05.651.892/0001-04 e CACEPE nº 0301619-67, o estímulo de que trata o art. 5º do Decreto 21.959, de 27 de dezembro de ",
+        "indice": {
+          "id": "24978",
+          "nome": "Decreto do Executivo n° 33.102",
+          "publicacao": "Publicada no DOE 18/03/2009",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 33.102, DE 17 DE MARÇO DE 2009"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "534262a79957f95b01c16ef1cff1ccb5f9752cb2a268aa004f3734d6306b96eb",
+        "sha256_visivel_md": "f6ebdb829fb183c0f96e35a655579403c92d20e65abd98edd74f099094ef6dae",
+        "sha256_visivel_reconversao": "f6ebdb829fb183c0f96e35a655579403c92d20e65abd98edd74f099094ef6dae",
+        "divergencia_md_fonte": {
+          "posicao": 3545,
+          "fonte": "lização, independentemente de qualquer limite de valor. Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": "lização, independentemente de qualquer limite de valor. Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2010/dec-34727-2010-id23189.md",
+      "sha256_md": "db3b12688f60f8933bb198275bda59f9f6c7665cd50a29e71245dd3dcb1602d6",
+      "id_oficial": "23189",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=23189&tipo=TEXTOATUALIZADO",
+      "tipo": "Decreto",
+      "numero": "34.727",
+      "data": "2010-03-18",
+      "versao_texto": "atualizada",
+      "cache": "estaduais/PE/_fonte/decretos/2010/dec-34727-2010-id23189.html.gz",
+      "sha256_cache": "abe6aa8a0164879738b3eeba7303b92cece17a4df2c8184a90cb6880dd57fd0e",
+      "sha256_fonte": "f5dba0b4f5c20f909ae4a6702a9cfb3762dc1011a64b1c06750e1bfca9426896",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 13183,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "301d47d31aca249dbf9df89c703d90f31e6a8b71201d8387db5ad8528d446081",
+      "sha256_reconversao": "ecfc7b4ffe3fdab65875d4c54def3a4587e8de4ec6bf612b1db8d669bcd60fd6",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "SEFAZ nº 107/2009, e o teor do Ofício CONDIC nº 175, de 29 de dezembro de 2009,\n\nDECRETA:\n\nArt. 1º Fica concedido à empresa CEREALISTA FORQUILHINHA LTDA., atualmente denominada RAMPINELLI ALIMENTOS LTDA., estabelecida na Rua Eronildes Bernardino de Lima, nº 71, Distrito",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 34.727, DE 18 DE MARÇO DE 2010. Concede estímulo previsto na Lei nº 11.675, de 11 de outubro de 1999, e alterações, que dispõe sobre o PRODEPE, à empresa CEREALISTA FORQUILHINHA LTDA. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo artigo 37, inciso IV, da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999, e respectivas alterações; CONSIDERANDO a Resolução nº 026, de 28 de dezembro de 2009, do Conselho Estadual de Política Industrial, Comercial e de Serviços - CONDIC, que aprovou o Parecer Conjunto AD DIPER/SEFAZ nº 107/2009, e o teor do Ofício CONDIC nº 175, de 29 de dezembro de 2009, DECRETA: Art. 1º Fica concedido à empresa CEREALISTA FORQUILHINHA LTDA., atualmente denominada RAMPINELLI ALIMENTOS LTDA., estabelecida na Rua Eronildes Bernardino de Lima, nº 71, Distrito Industrial, Caruaru/PE, com CNPJ/MF nº 79.416.541/0005-89 e CACEPE nº 0380219-19, o estímulo de que tr",
+        "indice": {
+          "id": "23189",
+          "nome": "Decreto do Executivo n° 34.727",
+          "publicacao": "Publicada no DOE 19/03/2010",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 34.727, DE 18 DE MARÇO DE 2010"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "042fba99a87446bd107c986baf8926f5c74ab8842ae59834fd195ae5b448dc11",
+        "sha256_visivel_md": "6ce2920f162d60eebbefed3b94b6973e4703a63ab99228325ab3acc0d85788e4",
+        "sha256_visivel_reconversao": "6ce2920f162d60eebbefed3b94b6973e4703a63ab99228325ab3acc0d85788e4",
+        "divergencia_md_fonte": {
+          "posicao": 3117,
+          "fonte": "ntos e oitenta e nove reais e setenta e dois centavos). Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": "ntos e oitenta e nove reais e setenta e dois centavos). Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2010/dec-35802-2010-id21002.md",
+      "sha256_md": "1cc2ea80c27340d4b4b7a9f2ac09addd3ba4e6cc8f8b9c0fb673476335c293c1",
+      "id_oficial": "21002",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=21002&tipo=TEXTOATUALIZADO",
+      "tipo": "Decreto",
+      "numero": "35.802",
+      "data": "2010-10-28",
+      "versao_texto": "atualizada",
+      "cache": "estaduais/PE/_fonte/decretos/2010/dec-35802-2010-id21002.html.gz",
+      "sha256_cache": "71f77ea7b9b7b680f201ecd6246cf5c597bb789872cc5d9c85ba1631077e7866",
+      "sha256_fonte": "edf9d05ad05773638bc501eae3cd01e1969784649cf47466a5aa182cc236fbd2",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 13824,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "bd53795c0f93a9ba77ab5c2fbf1bc31e6a78179529aabfcafae7bf8e86bd7e42",
+      "sha256_reconversao": "4f21dc85562f35c1a97d35e41a8af494d64c160ea9d53846729e47f252c2585b",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "SEFAZ nº 106/2010, e o teor do Ofício CONDIC nº 146, de 30 de setembro de 2010,\n\nDECRETA:\n\nArt. 1º Fica concedido à empresa JURERÊ INDÚSTRIA DE ALIMENTOS LTDA., estabelecida na Rua Francisco Paulo Maciel, n° 124, Bairro Novo, Carpina - PE, com CNPJ/MF nº 12.336.734/0001",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 35.802, DE 28 DE OUTUBRO DE 2010. Concede estímulo previsto na Lei nº 11.675, de 11 de outubro de 1999, que dispõe sobre o PRODEPE, à empresa JURERÊ INDÚSTRIA DE ALIMENTOS LTDA. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo artigo 37, inciso IV, da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999; CONSIDERANDO a Resolução nº 017, de 29 de setembro de 2010, do Conselho Estadual de Política Industrial, Comercial e de Serviços - CONDIC, que aprovou o Parecer Conjunto AD DIPER/SEFAZ nº 106/2010, e o teor do Ofício CONDIC nº 146, de 30 de setembro de 2010, DECRETA: Art. 1º Fica concedido à empresa JURERÊ INDÚSTRIA DE ALIMENTOS LTDA., estabelecida na Rua Francisco Paulo Maciel, n° 124, Bairro Novo, Carpina - PE, com CNPJ/MF nº 12.336.734/0001-25 e CACEPE nº 0406610-32, o estímulo de que trata o art. 5º do Decreto nº 21.959, de 27 de dezembro de 1999, ficando a respectiva fru",
+        "indice": {
+          "id": "21002",
+          "nome": "Decreto do Executivo n° 35.802",
+          "publicacao": "Publicada no DOE 29/10/2010",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 35.802, DE 28 DE OUTUBRO DE 2010"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "8177bf66035c5d753d07be8b20c0c07f4e8426ed05e454f5183ccd6af775b77b",
+        "sha256_visivel_md": "623032224a3c83a2126afb6c22c7d9a5252e261b31b0355eb7aabb2190aeada2",
+        "sha256_visivel_reconversao": "623032224a3c83a2126afb6c22c7d9a5252e261b31b0355eb7aabb2190aeada2",
+        "divergencia_md_fonte": {
+          "posicao": 3335,
+          "fonte": "rt. 2º do Decreto nº 52.183, de 21 de janeiro de 2022.) Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": "rt. 2º do Decreto nº 52.183, de 21 de janeiro de 2022.) Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2021/dec-51027-2021-id56098.md",
+      "sha256_md": "5866604e98883331471c4930d7259176a9af10933a9be2aadb4806e544e934c6",
+      "id_oficial": "56098",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=56098&tipo=TEXTOORIGINAL",
+      "tipo": "Decreto",
+      "numero": "51.027",
+      "data": "2021-07-22",
+      "versao_texto": "original",
+      "cache": "estaduais/PE/_fonte/decretos/2021/dec-51027-2021-id56098.html.gz",
+      "sha256_cache": "ae32fb87daa2c3b86981bb31e5c6ca1856b5afde99038e504752f22cd5bd7022",
+      "sha256_fonte": "77db6ccd08da1822ae58dbf8c848819b42192e0d1c2540ec7969c682c63c97cb",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 15147,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "00e69e8a11848cef1b70bdf71e7b46534434ff558d450376da26ca3543fd5f53",
+      "sha256_reconversao": "57e618b7fd3bff3ee66800ff6758b2b6d4117d7a4537a05369b923a8173198cd",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "a União de 17 de dezembro de 1993 e de 21 de dezembro de 2000, respectivamente,\n\nDECRETA:\n\nArt. 1° O Decreto nº 44.650, de 30 de junho de 2017, passa a vigorar com as seguintes modificações:\n\n“LIVRO II\n\nDOS PROCEDIMENTOS ESPECÍFICOS\n\n....................................",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 51.027, DE 22 DE JULHO DE 2021. Modifica o Decreto nº 44.650, de 30 de junho de 2017, que regulamenta a Lei nº 15.730, de 17 de março de 2016, que dispõe sobre o ICMS, incorporando os procedimentos específicos relativos às operações em consignação. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do art. 37 da Constituição Estadual, CONSIDERANDO o disposto no Ajuste Sinief 2/1993 e no Protocolo ICMS 52/2000, publicados no Diário Oficial da União de 17 de dezembro de 1993 e de 21 de dezembro de 2000, respectivamente, DECRETA: Art. 1° O Decreto nº 44.650, de 30 de junho de 2017, passa a vigorar com as seguintes modificações: “LIVRO II DOS PROCEDIMENTOS ESPECÍFICOS .......................................................................................................................... ### TÍTULO IV-A — DAS OPERAÇÕES RELATIVAS À CONSIGNAÇÃO (AC) Art. 517-A. Os procedimentos específicos relativos às operações em consignação ficam disciplinados",
+        "indice": {
+          "id": "56098",
+          "nome": "Decreto do Executivo n° 51.027",
+          "publicacao": "Publicada no DOE 23/07/2021",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 51.027, DE 22 DE JULHO DE 2021"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "bd55a62e992536bb29f60d2646ef59d4385a5edb686cb149be30503d76aa1704",
+        "sha256_visivel_md": "e284d53564ffb7e6972691b7146dfed2af2707a93b2e3831d8c83cf4ce099d94",
+        "sha256_visivel_reconversao": "e284d53564ffb7e6972691b7146dfed2af2707a93b2e3831d8c83cf4ce099d94",
+        "divergencia_md_fonte": {
+          "posicao": 853,
+          "fonte": "....................................................................................... TÍTULO IV-A DAS OPERAÇÕES RELATIVAS À CONSIGNAÇÃO (AC) Art. 517-A. Os procedimentos específicos relativos às operações em consignação ficam disciplinados conforme o disposto: (AC) I - no Ajuste Sinief 2/1993, rel",
+          "md": "....................................................................................... TÍTULO IV-A — DAS OPERAÇÕES RELATIVAS À CONSIGNAÇÃO (AC) Art. 517-A. Os procedimentos específicos relativos às operações em consignação ficam disciplinados conforme o disposto: (AC) I - no Ajuste Sinief 2/1993, r"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2021/dec-50873-2021-id55768.md",
+      "sha256_md": "718cbb62aa2affdca272a8cbb970e13447682972e95fea145fc6ee59d08d5f9b",
+      "id_oficial": "55768",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=55768&tipo=TEXTOATUALIZADO",
+      "tipo": "Decreto",
+      "numero": "50.873",
+      "data": "2021-06-17",
+      "versao_texto": "atualizada",
+      "cache": "estaduais/PE/_fonte/decretos/2021/dec-50873-2021-id55768.html.gz",
+      "sha256_cache": "7dde46594459bc7220fae079463636c7aea9cbf28f3169601bcf2f20f5f4f878",
+      "sha256_fonte": "e4ae21f65efafe8b7c81cafee19c9f61306980a3984f9ba26a4c14626110dbc6",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 61831,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "fd4acce0e439750bad3eb77b536812ea8c1a8eeb55d774db206c27580ccac84c",
+      "sha256_reconversao": "de2cd0d5a66b3cae19ac8d7f41191daa76c28809f47f6d5ef9439c13acfcc82d",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "onstituição Estadual, e tendo em vista a Lei nº 17.322, de 15 de junho de 2021,\n\nDECRETA:\n\n CAPÍTULO I — DA AÇÃO DE “INCLUSÃO DIGITAL DOS PROFISSIONAIS DA REDE ESTADUAL DE ENSINO”\n\nArt. 1º O presente Decreto estabelece os procedimentos, prazos e competências para a exec",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 50.873, DE 17 DE JUNHO DE 2021. Regulamenta a Lei nº 17.322, de 15 de junho de 2021, que autoriza a ação governamental de “Inclusão Digital dos Profissionais da Rede Estadual de Ensino”, com o objetivo de mitigar os efeitos da emergência de saúde pública de importância internacional decorrente do novo coronavírus. O GOVERNADOR DO ESTADO, no uso das atribuições conferidas pelo inciso IV do art. 37 da Constituição Estadual, e tendo em vista a Lei nº 17.322, de 15 de junho de 2021, DECRETA: #### CAPÍTULO I — DA AÇÃO DE “INCLUSÃO DIGITAL DOS PROFISSIONAIS DA REDE ESTADUAL DE ENSINO” Art. 1º O presente Decreto estabelece os procedimentos, prazos e competências para a execução da ação governamental de Inclusão Digital dos Profissionais da Rede Estadual de Ensino, instituída pela Lei nº 17.322, de 15 de junho de 2021. #### CAPÍTULO II — DOS PROCEDIMENTOS PARA ADESÃO À AÇÃO Art. 2º Os repasses dos recursos de que trata este Decreto dependerão de cadastramento prévio e adesão voluntá",
+        "indice": {
+          "id": "55768",
+          "nome": "Decreto do Executivo n° 50.873",
+          "publicacao": "Publicada no DOE 18/06/2021",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 50.873, DE 17 DE JUNHO DE 2021"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [
+          {
+            "markdown": "CAPÍTULO I — DA AÇÃO DE “INCLUSÃO DIGITAL DOS PROFISSIONAIS DA REDE ESTADUAL DE ENSINO”",
+            "fonte": "CAPÍTULO I DA AÇÃO DE “INCLUSÃO DIGITAL DOS PROFISSIONAIS DA REDE ESTADUAL DE ENSINO”",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO II — DOS PROCEDIMENTOS PARA ADESÃO À AÇÃO",
+            "fonte": "CAPÍTULO II DOS PROCEDIMENTOS PARA ADESÃO À AÇÃO",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO III — DOS PROCEDIMENTOS DE REPASSE DOS RECURSOS",
+            "fonte": "CAPÍTULO III DOS PROCEDIMENTOS DE REPASSE DOS RECURSOS",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO IV — DA AQUISIÇÃO DO EQUIPAMENTO DE INFORMÁTICA",
+            "fonte": "CAPÍTULO IV DA AQUISIÇÃO DO EQUIPAMENTO DE INFORMÁTICA",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO V — DA COMPROVAÇÃO DAS DESPESAS COM CONECTIVIDADE",
+            "fonte": "CAPÍTULO V DA COMPROVAÇÃO DAS DESPESAS COM CONECTIVIDADE",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+            "fonte": "CAPÍTULO VI DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          }
+        ],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "5c79e9e8c4897ddc996d17aeb00fafdbbeee6a48d4e628609b4a5df4ac8135a6",
+        "sha256_visivel_md": "a5b469919eb50890c6b2344cef9d697cff1edd0bcc01060812402ca3faef5a47",
+        "sha256_visivel_reconversao": "a5b469919eb50890c6b2344cef9d697cff1edd0bcc01060812402ca3faef5a47",
+        "divergencia_md_fonte": {
+          "posicao": 11632,
+          "fonte": " de julho de 2022.) § 1º Serão admitidos, para fins de comprovação das despesas mencionadas no caput, notas fiscais, recibos, faturas ou cópia de contratos firmados com a empresa prestadora dos serviços de conectividade fixa ou móvel, que seja referente a pelo menos um dos meses do trimestre da pres",
+          "md": " de julho de 2022.) § 1º Serão admitidos, para fins de comprovação das despesas mencionadas no caput *, notas fiscais, recibos, faturas ou cópia de contratos firmados com a empresa prestadora dos serviços de conectividade fixa ou móvel, que seja referente a pelo menos um dos meses do trimestre da pr"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2021/dec-52001-2021-id61093.md",
+      "sha256_md": "0999cd401035fc21bff49f0ce45e8053b154faa9529edc5321695cde91e701b5",
+      "id_oficial": "61093",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=61093&tipo=TEXTOORIGINAL",
+      "tipo": "Decreto",
+      "numero": "52.001",
+      "data": "2021-12-14",
+      "versao_texto": "original",
+      "cache": "estaduais/PE/_fonte/decretos/2021/dec-52001-2021-id61093.html.gz",
+      "sha256_cache": "96a36726d8dc86de3d248551b22c6bf99d44ae4d56ca0f83765bce78a87d16d3",
+      "sha256_fonte": "f61f29223d3b7df7025bfd4c67859aa5e73b5b7c636187de2be1f83601a68176",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 46569,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "41cff66334e1dfae091ae2fdbead4ad38436ceeb9cfd23cbd30e57e713c42b8a",
+      "sha256_reconversao": "e4187e9eb0ddb3de5c89a87661e1b2d25ec952560ae004a6889ca7d64f3d71e0",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "e regulamenta a Lei nº 15.730, de 17 de março de 2016, que dispõe sobre o ICMS,\n\nDECRETA:\n\nArt. 1º O Decreto nº 44.650, de 30 de junho de 2017, passa a vigorar com as seguintes modificações:\n\n“PARTE ESPECÍFICA\n\n...........................................................",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 52.001, DE 14 DE DEZEMBRO DE 2021. Modifica o Decreto nº 44.650, de 30 de junho de 2017, que regulamenta a Lei nº 15.730, de 17 de março de 2016, que dispõe sobre o ICMS, relativamente a eventos, inclusive feiras. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do art. 37 da Constituição Estadual, CONSIDERANDO a necessidade de promover ajustes no Decreto nº 44.650, de 30 de junho de 2017, que regulamenta a Lei nº 15.730, de 17 de março de 2016, que dispõe sobre o ICMS, DECRETA: Art. 1º O Decreto nº 44.650, de 30 de junho de 2017, passa a vigorar com as seguintes modificações: “PARTE ESPECÍFICA .......................................................................................................................... ## LIVRO II — DOS PROCEDIMENTOS ESPECÍFICOS .......................................................................................................................... ### TÍTULO IX-A — DAS OPERAÇÕES RELATIVAS A EVENTOS, INCLUSIV",
+        "indice": {
+          "id": "61093",
+          "nome": "Decreto do Executivo n° 52.001",
+          "publicacao": "Publicada no DOE 15/12/2021",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 52.001, DE 14 DE DEZEMBRO DE 2021"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [
+          {
+            "markdown": "LIVRO II — DOS PROCEDIMENTOS ESPECÍFICOS",
+            "fonte": "LIVRO II DOS PROCEDIMENTOS ESPECÍFICOS",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO I — DAS DISPOSIÇÕES GERAIS",
+            "fonte": "CAPÍTULO I DAS DISPOSIÇÕES GERAIS",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO II — DAS OPERAÇÕES PROMOVIDAS POR CONTRIBUINTE DESTE ESTADO",
+            "fonte": "CAPÍTULO II DAS OPERAÇÕES PROMOVIDAS POR CONTRIBUINTE DESTE ESTADO",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção I — Das Disposições Preliminares",
+            "fonte": "Seção I Das Disposições Preliminares",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção II — Da Suspensão da Exigência do Imposto",
+            "fonte": "Seção II Da Suspensão da Exigência do Imposto",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção III — Da Emissão de Documentos Fiscais",
+            "fonte": "Seção III Da Emissão de Documentos Fiscais",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Subseção I — Da Remessa de Mercadoria",
+            "fonte": "Subseção I Da Remessa de Mercadoria",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Subseção II — Do Retorno da Mercadoria",
+            "fonte": "Subseção II Do Retorno da Mercadoria",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção IV — Da Interrupção da Suspensão da Exigência do Imposto",
+            "fonte": "Seção IV Da Interrupção da Suspensão da Exigência do Imposto",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO III — DAS OPERAÇÕES PROMOVIDAS POR CONTRIBUINTE DOMICILIADO EM OUTRA UF",
+            "fonte": "CAPÍTULO III DAS OPERAÇÕES PROMOVIDAS POR CONTRIBUINTE DOMICILIADO EM OUTRA UF",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção I — Das Disposições Gerais",
+            "fonte": "Seção I Das Disposições Gerais",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção II — Da Sistemática Especial de Recolhimento e Apuração do Imposto",
+            "fonte": "Seção II Da Sistemática Especial de Recolhimento e Apuração do Imposto",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          }
+        ],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "79a49fb9f0e59f277428b3359a3bb96002978d6bbd68acec42ac057663da0cc2",
+        "sha256_visivel_md": "9a2a41ed3cd18fbe07700e11bebad2475fce3002c0c661a26cea8dae433b891d",
+        "sha256_visivel_reconversao": "9a2a41ed3cd18fbe07700e11bebad2475fce3002c0c661a26cea8dae433b891d",
+        "divergencia_md_fonte": {
+          "posicao": 946,
+          "fonte": "....................................................................................... TÍTULO IX-A DAS OPERAÇÕES RELATIVAS A EVENTOS, INCLUSIVE FEIRAS (AC) Art. 540-A. Os procedimentos aplicáveis às operações relativas a eventos, inclusive feiras são aqueles estabelecidos no Anexo 31. (AC) ........",
+          "md": "....................................................................................... TÍTULO IX-A — DAS OPERAÇÕES RELATIVAS A EVENTOS, INCLUSIVE FEIRAS (AC) Art. 540-A. Os procedimentos aplicáveis às operações relativas a eventos, inclusive feiras são aqueles estabelecidos no Anexo 31. (AC) ......"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2021/dec-51610-2021-id58315.md",
+      "sha256_md": "33d750cc701680161826a45071f92d996c420180348aca1cadb9bea0f2734005",
+      "id_oficial": "58315",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=58315&tipo=TEXTOORIGINAL",
+      "tipo": "Decreto",
+      "numero": "51.610",
+      "data": "2021-10-15",
+      "versao_texto": "original",
+      "cache": "estaduais/PE/_fonte/decretos/2021/dec-51610-2021-id58315.html.gz",
+      "sha256_cache": "70abb6841fd4df579079131ed8aaa1af37446172a29873c1ef6352cd00f05f0e",
+      "sha256_fonte": "791ca70c73d929d6113395ad77d2376a86d3da1a5ba486ec7dd4fbd0dd7b7b02",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 41440,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "1fc0d022cc9b61b10672ae3f75160e22b4e46401f40d3be8915c8b1f1b955388",
+      "sha256_reconversao": "540de3cbe25c7939c800e85b65b2957cdf798d794978c4961bfa9de4edf53cd4",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": " fiscais foram reinstituídos pelo Decreto nº 46.957, de 28 de dezembro de 2018,\n\nDECRETA:\n\nArt. 1º O Decreto n° 44.650, de 30 de junho de 2017, passa a vigorar com as seguintes modificações:\n\n“PARTE ESPECÍFICA\n\n LIVRO I — DAS SISTEMÁTICAS ESPECÍFICAS DE TRIBUTAÇÃO\n\n....",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 51.610, DE 15 DE OUTUBRO DE 2021. Modifica o Decreto nº 44.650, de 30 de junho de 2017, que regulamenta a Lei nº 15.730, de 17 de março de 2016, incorporando a sistemática específica de tributação relativa a gado e produto derivado do seu abate. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do art. 37 da Constituição Estadual, CONSIDERANDO a conveniência de incorporar ao Regulamento do ICMS a sistemática específica de tributação relativa a gado e produto derivado do seu abate, cujos benefícios fiscais foram reinstituídos pelo Decreto nº 46.957, de 28 de dezembro de 2018, DECRETA: Art. 1º O Decreto n° 44.650, de 30 de junho de 2017, passa a vigorar com as seguintes modificações: “PARTE ESPECÍFICA ## LIVRO I — DAS SISTEMÁTICAS ESPECÍFICAS DE TRIBUTAÇÃO .......................................................................................................................... ### TÍTULO V-B — Das operações com gado e produto derivado do seu ",
+        "indice": {
+          "id": "58315",
+          "nome": "Decreto do Executivo n° 51.610",
+          "publicacao": "Publicada no DOE 16/10/2021",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 51.610, DE 15 DE OUTUBRO DE 2021"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [
+          {
+            "markdown": "LIVRO I — DAS SISTEMÁTICAS ESPECÍFICAS DE TRIBUTAÇÃO",
+            "fonte": "LIVRO I DAS SISTEMÁTICAS ESPECÍFICAS DE TRIBUTAÇÃO",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO I — DAS DISPOSIÇÕES GERAIS",
+            "fonte": "CAPÍTULO I DAS DISPOSIÇÕES GERAIS",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO II — DA SAÍDA INTERNA DE GADO VIVO",
+            "fonte": "CAPÍTULO II DA SAÍDA INTERNA DE GADO VIVO",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO III — DAS OPERAÇÕES COM PRODUTO COMESTÍVEL DERIVADO DO ABATE DO GADO",
+            "fonte": "CAPÍTULO III DAS OPERAÇÕES COM PRODUTO COMESTÍVEL DERIVADO DO ABATE DO GADO",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção I — Das Operações Internas e de Importação do Exterior",
+            "fonte": "Seção I Das Operações Internas e de Importação do Exterior",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Subseção I — Do Imposto Relativo às Sucessivas Saídas Internas",
+            "fonte": "Subseção I Do Imposto Relativo às Sucessivas Saídas Internas",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Subseção II — Dos Benefícios Fiscais Concedidos nas Operações com Mercadoria Procedente deste Estado",
+            "fonte": "Subseção II Dos Benefícios Fiscais Concedidos nas Operações com Mercadoria Procedente deste Estado",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Subseção III — Da Liberação da Cobrança do Imposto nas Subsequentes Operações Internas",
+            "fonte": "Subseção III Da Liberação da Cobrança do Imposto nas Subsequentes Operações Internas",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "Seção II — Dos Benefícios Fiscais Aplicáveis às Saídas Interestaduais",
+            "fonte": "Seção II Dos Benefícios Fiscais Aplicáveis às Saídas Interestaduais",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO IV — DA SAÍDA INTERNA DE PRODUTO NÃO COMESTÍVEL DERIVADO DO ABATE DO GADO",
+            "fonte": "CAPÍTULO IV DA SAÍDA INTERNA DE PRODUTO NÃO COMESTÍVEL DERIVADO DO ABATE DO GADO",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          },
+          {
+            "markdown": "CAPÍTULO V — DO CRÉDITO FISCAL NA SAÍDA DE MERCADORIA DIVERSA DERIVADA DA INDUSTRIALIZAÇÃO",
+            "fonte": "CAPÍTULO V DO CRÉDITO FISCAL NA SAÍDA DE MERCADORIA DIVERSA DERIVADA DA INDUSTRIALIZAÇÃO",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          }
+        ],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "0b3726877308cd13821ac415b227d5a8a4b6f6ad683a7dd2bbc04449287448a5",
+        "sha256_visivel_md": "c1f2f71edd08f606013461a8c9a55fdb5896264460488f22795a4fc71e7d6822",
+        "sha256_visivel_reconversao": "c1f2f71edd08f606013461a8c9a55fdb5896264460488f22795a4fc71e7d6822",
+        "divergencia_md_fonte": {
+          "posicao": 940,
+          "fonte": "........................................................................................ TÍTULO V-B Das operações com gado e produto derivado do seu abate (AC) Art. 302-E. Até 31 de dezembro de 2032, fica estabelecida, nos termos do Anexo 28, a sistemática específica de tributação relativa a gado e ",
+          "md": "........................................................................................ TÍTULO V-B — Das operações com gado e produto derivado do seu abate (AC) Art. 302-E. Até 31 de dezembro de 2032, fica estabelecida, nos termos do Anexo 28, a sistemática específica de tributação relativa a gado "
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2020/dec-49824-2020-id53539.md",
+      "sha256_md": "81d4bacb7084244e1f6e4781366c9395b9273f6c919f9583834cb1c0f19de695",
+      "id_oficial": "53539",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=53539&tipo=TEXTOORIGINAL",
+      "tipo": "Decreto",
+      "numero": "49.824",
+      "data": "2020-11-25",
+      "versao_texto": "original",
+      "cache": "estaduais/PE/_fonte/decretos/2020/dec-49824-2020-id53539.html.gz",
+      "sha256_cache": "fa4fc1a47d267b8e642a56fd9b564c9a338ab10c58ead956562d203a89a55e65",
+      "sha256_fonte": "d2fdc3372f55e19a40aa2ac66865366beb4d30fbed9d48cf38f10163b27b52f7",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 36529,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "86fdafb504e81ef052ebd4ecfdab2621017220d30f8cd21bbe2ae894f9d71599",
+      "sha256_reconversao": "0b2ff486a538aeff8044b5180de68538fca40494681adf3cc84e56955eabd39e",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "e regulamenta a Lei nº 15.730, de 17 de março de 2016, que dispõe sobre o ICMS,\n\nDECRETA:\n\nArt. 1º O Decreto nº 44.650, de 30 de junho de 2017, passa a vigorar com as seguintes modificações:\n\n“Art. 147. ...................................................................",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 49.824, DE 25 DE NOVEMBRO DE 2020. Modifica o Decreto nº 44.650, de 30 de junho de 2017, que regulamenta a Lei nº 15.730, de 17 de março de 2016, relativamente a ponto de retirada de mercadoria comercializada por meio da Internet ou de telemarketing. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo inciso IV do art. 37 da Constituição Estadual, CONSIDERANDO a necessidade de promover ajustes no Decreto nº 44.650, de 30 de junho de 2017, que regulamenta a Lei nº 15.730, de 17 de março de 2016, que dispõe sobre o ICMS, DECRETA: Art. 1º O Decreto nº 44.650, de 30 de junho de 2017, passa a vigorar com as seguintes modificações: “Art. 147. ......................................................................................................... .......................................................................................................................... § 3º .......................................................................................",
+        "indice": {
+          "id": "53539",
+          "nome": "Decreto do Executivo n° 49.824",
+          "publicacao": "Publicada no DOE 26/11/2020",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 49.824, DE 25 DE NOVEMBRO DE 2020"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [
+          {
+            "markdown": "LIVRO II — DOS PROCEDIMENTOS ESPECÍFICOS",
+            "fonte": "LIVRO II DOS PROCEDIMENTOS ESPECÍFICOS",
+            "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+          }
+        ],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "96790864d38eb3123cf3edf940d2988b9c3225865ab8413ac361d0df26030c5b",
+        "sha256_visivel_md": "019e5e7dd7cc6619403aa781a14efe60120f2fb66b2995dd1aa4c48d4485cd4e",
+        "sha256_visivel_reconversao": "019e5e7dd7cc6619403aa781a14efe60120f2fb66b2995dd1aa4c48d4485cd4e",
+        "divergencia_md_fonte": {
+          "posicao": 1813,
+          "fonte": "........................................................................................ TÍTULO X-A DO PONTO DE RETIRADA DE MERCADORIA COMERCIALIZADA POR MEIO DA INTERNET OU DE TELEMARKETING (AC) Art. 545-A. Os procedimentos específicos relativos à utilização de ponto de retirada de mercadoria ficam",
+          "md": "........................................................................................ TÍTULO X-A — DO PONTO DE RETIRADA DE MERCADORIA COMERCIALIZADA POR MEIO DA INTERNET OU DE TELEMARKETING (AC) Art. 545-A. Os procedimentos específicos relativos à utilização de ponto de retirada de mercadoria fic"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/2011/dec-36297-2011-id19481.md",
+      "sha256_md": "d1e97ff7a00c2ed2978692190b0caa42b3b983cef27552ad1b7787584d35c8c6",
+      "id_oficial": "19481",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=19481&tipo=TEXTOATUALIZADO",
+      "tipo": "Decreto",
+      "numero": "36.297",
+      "data": "2011-03-03",
+      "versao_texto": "atualizada",
+      "cache": "estaduais/PE/_fonte/decretos/2011/dec-36297-2011-id19481.html.gz",
+      "sha256_cache": "f80f55178c6df62f0f0197ca559d12ed27125d2f1a929eb379c2ad179b482209",
+      "sha256_fonte": "f54313aa3ff5114fcaf154c0b0bfcc2bbe0092891ab9cacee6f27886ded2fe8e",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 15210,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "28e4c1f0ddf776e331fe63e630a70647bacb7a73463b41f9e31902bea8736e29",
+      "sha256_reconversao": "a518723f9a2517df5e986df753fac0b08f2909728a583add65cba8dc6df559d3",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "SEFAZ nº 184/2010, e o teor do Ofício CONDIC nº 213, de 23 de dezembro de 2010,\n\nDECRETA:\n\nArt. 1º Fica concedido à empresa NORAL – NORDESTE ALUMÍNIO LTDA., estabelecida na Rua Largo Verde, nº 25, Prazeres, Jaboatão dos Guararapes – PE, com CNPJ/MF nº 05.651.892/0001-04",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO Nº 36.297, DE 03 DE MARÇO DE 2011. Concede estímulo previsto na Lei nº 11.675, de 11 de outubro de 1999, que trata do PRODEPE, à empresa NORAL – NORDESTE ALUMÍNIO LTDA. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo artigo 37, inciso IV, da Constituição Estadual, CONSIDERANDO a Lei nº 11.675, de 11 de outubro de 1999, e o Decreto nº 21.959, de 27 de dezembro de 1999; CONSIDERANDO a Resolução nº 026, de 23 de dezembro de 2010, do Conselho Estadual de Política Industrial, Comercial e de Serviços – CONDIC, que aprovou o Parecer Conjunto AD DIPER/SEFAZ nº 184/2010, e o teor do Ofício CONDIC nº 213, de 23 de dezembro de 2010, DECRETA: Art. 1º Fica concedido à empresa NORAL – NORDESTE ALUMÍNIO LTDA., estabelecida na Rua Largo Verde, nº 25, Prazeres, Jaboatão dos Guararapes – PE, com CNPJ/MF nº 05.651.892/0001-04 e CACEPE nº 0301619-67, o estímulo de que tratam os artigos 5º e 6º do Decreto 21.959, de 27 de dezembro de 1999, ficando a sua fruição condiciona",
+        "indice": {
+          "id": "19481",
+          "nome": "Decreto do Executivo n° 36.297",
+          "publicacao": "Publicada no DOE 04/03/2011",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO Nº 36.297, DE 03 DE MARÇO DE 2011"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "c29544af23484c56ee0f573fdee36401445e80f8045d2e8a2e62ded904542d53",
+        "sha256_visivel_md": "c7a74da590aadd35b1ffbf3025c3c0f92853a2d1876474d45d6fd2b398df1369",
+        "sha256_visivel_reconversao": "c7a74da590aadd35b1ffbf3025c3c0f92853a2d1876474d45d6fd2b398df1369",
+        "divergencia_md_fonte": {
+          "posicao": 4143,
+          "fonte": "ês subsequente ao período fiscal da efetiva utilização. Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": "ês subsequente ao período fiscal da efetiva utilização. Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-20837-1998-id22678.md",
+      "sha256_md": "fc6fb1296c9f1312ee0b182515c8d4d215ad966f3340ac0c005e165229341cbb",
+      "id_oficial": "22678",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=22678&tipo=TEXTOATUALIZADO",
+      "tipo": "Decreto",
+      "numero": "20.837",
+      "data": "1998-09-11",
+      "versao_texto": "atualizada",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-20837-1998-id22678.html.gz",
+      "sha256_cache": "3e9c4b2b6c552731c1250255ac36091033ddd0a17bcf47e5f8caecf28f1c06f3",
+      "sha256_fonte": "2e00accb89b064ca440465e41e46237bd383a9d6b2e323bd0155bc5a672ce244",
+      "limite_campo": {
+        "inicio": 0,
+        "fim": 27652,
+        "bytes_fora_do_campo": 57,
+        "tipo": "fragmento divTexto fechado"
+      },
+      "sha256_campo": "57841e800bcc6246d784f11a69461b2eec21b719e0888d67a65be6b8129fda8b",
+      "sha256_reconversao": "4f37cc8d33944c07e50e39099a98bcbc0595a8cc15f95f8ec7efdfee3d249254",
+      "residuo_limite_removivel": null,
+      "corpo_confere_sequencia_alfanumerica_fonte": true,
+      "dispositivo_proprio": "mercial e de Serviços - CONDIC, que aprovou o Parecer n° 068/97 AD/DIPER-SEFAZ,\n\nDECRETA:\n\nArt. 1º Fica concedido à empresa COMPANHIA MULLER DE BEBIDAS, estabelecida na Rodovia BR 101, Sul, nº 2800, km 28, Distrito Industrial Santo Estevão, Cabo de Santo Agostinho - PE,",
+      "tabelas_complexas_conferidas": 0,
+      "problemas": [
+        "v2: texto visível diverge diretamente do HTML oficial, preservando pontuação"
+      ],
+      "evidencias": {
+        "inicio_fonte": "DECRETO N° 20.837, DE 11 DE SETEMBRO DE 1998. (Vide art. 1º do Decreto n° 21.270, de 19 de janeiro de 1999 - transfere benefícios.) Dispõe sobre a fruição de estímulo prevista na Lei n° 11.288, de 22 de dezembro de 1995 e alterações. O GOVERNADOR DO ESTADO, no uso das atribuições que lhe são conferidas pelo artigo 37, inciso IV da Constituição Estadual e com fundamento nas Leis n° 11.288, de 22 de dezembro de 1995, e 11.402, de 18 de dezembro de 1996 e nos artigos 3°, 5°, 8°, § 3, 10 e 11 do Decreto n° 19.085, de 29 de abril de 1996, e alterações; CONSIDERANDO a Resolução n° 03/97, de 09 de dezembro de 1997, do Conselho Estadual de Política Industrial, Comercial e de Serviços - CONDIC, que aprovou o Parecer n° 068/97 AD/DIPER-SEFAZ, DECRETA: Art. 1º Fica concedido à empresa COMPANHIA MULLER DE BEBIDAS, estabelecida na Rodovia BR 101, Sul, nº 2800, km 28, Distrito Industrial Santo Estevão, Cabo de Santo Agostinho - PE, com CNPJ/MF nº 03.485.775/0036-12 e CACEPE nº 0728708-93, o estímulo",
+        "indice": {
+          "id": "22678",
+          "nome": "Decreto do Executivo n° 20.837",
+          "publicacao": "Publicada no DOE 12/09/1998",
+          "tipo": "6"
+        },
+        "epigrafe_literal": "DECRETO N° 20.837, DE 11 DE SETEMBRO DE 1998"
+      },
+      "publicavel": false,
+      "fidelidade_visivel_v2": {
+        "comparacoes": {
+          "texto_visivel_md_igual_reconversao": true,
+          "texto_visivel_md_igual_html_fonte": false,
+          "texto_visivel_md_igual_fonte_apos_formato_heading_comprovado": false,
+          "numeros_sinais_moedas_percentuais_iguais_fonte": true
+        },
+        "normalizacoes_de_apresentacao": [],
+        "normalizacao_permitida": "whitespace e BOM invisível; marcadores de apresentação Markdown conhecidos; tags de apresentação HTML. Preserva caixa, acentos, pontuação, moedas, percentuais, decimais e sinais.",
+        "sha256_visivel_fonte": "58876b6270d4418d1ebefbf586e461e1d377e9e1b0448f135e2fe6ebc6f0c435",
+        "sha256_visivel_md": "af92ae3f388c7ff102657017ea90b07eef5f6a97df9de6956e0639dd247c9ec3",
+        "sha256_visivel_reconversao": "af92ae3f388c7ff102657017ea90b07eef5f6a97df9de6956e0639dd247c9ec3",
+        "divergencia_md_fonte": {
+          "posicao": 5997,
+          "fonte": " art. 5º do Decreto nº 28.150, de 22 de julho de 2005.) Parágrafo único. Para efeito do disposto no caput, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em proj",
+          "md": " art. 5º do Decreto nº 28.150, de 22 de julho de 2005.) Parágrafo único. Para efeito do disposto no *caput *, a empresa deve observar o previsto na Lei nº 15.063, de 4 de setembro de 2013, e no Decreto nº 40.218, de 20 de dezembro de 2013, que dispõem sobre a realização de investimentos mínimos em p"
+        }
+      }
+    }
+  ]
+}

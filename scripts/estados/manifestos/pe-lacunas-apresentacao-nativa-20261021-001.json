@@ -1,0 +1,31 @@
+{
+  "executado_em": "2026-10-21T03:48:21.457729-03:00",
+  "total": 1,
+  "documentos": [
+    {
+      "path": "estaduais/PE/decretos/1997/dec-20256-1997-id82115.md",
+      "sha256_md_anterior": "5377dafe04800a1775a054cc0db46fac6eada082d4759cfc3c305ead6190c2c6",
+      "sha256_md": "3b8a5dc459dcbde5e51c0529e65bfc454ad5a953c68dcd77e185b2e3a9c3c51f",
+      "cache": "estaduais/PE/_fonte/decretos/1997/dec-20256-1997-id82115.html.gz",
+      "sha256_cache": "c8b74af93119062404a4e3b9cdb00afdd54311e1552fe0cbbcc5afeee88c327b",
+      "backup": "estaduais/PE/_fonte/auditorias/nativo-lacunas-20261021/decretos/1997/dec-20256-1997-id82115.md.gz",
+      "sha256_backup_gzip": "94515810bc9d3fa28f64bf7cb61159a2261e65c775453efe8a2ffbd794e781c4",
+      "metadados_H1_inalterados": true,
+      "acao": "Preservar body HTML oficial nativo para que linha literal de hífens não vire régua Markdown; somente LF e entidades equivalentes de espaços textuais finais.",
+      "QA": {
+        "path": "estaduais/PE/decretos/1997/dec-20256-1997-id82115.md",
+        "sha256_md": "3b8a5dc459dcbde5e51c0529e65bfc454ad5a953c68dcd77e185b2e3a9c3c51f",
+        "cache": "estaduais/PE/_fonte/decretos/1997/dec-20256-1997-id82115.html.gz",
+        "sha256_cache": "c8b74af93119062404a4e3b9cdb00afdd54311e1552fe0cbbcc5afeee88c327b",
+        "sha256_campo": "a64c24185dd899ff12929929c37870dd44c48821e961f15f01c381db36e72ccf",
+        "sha256_html_renderizado": "822e3fd1c646a002f615aa5e80eaa8916096cfbd602f360f7f7368dcbebcf13a",
+        "listas": [],
+        "normalizacao_apresentacao": "Delimitador de lista manual da AST preservado; apenas número efetivo do HTML ol/start/li incrementado. Não copiar números manuais da fonte.",
+        "igualdade_visivel": true,
+        "assinatura_numerica_confere": true,
+        "aceito": true,
+        "contexto": null
+      }
+    }
+  ]
+}

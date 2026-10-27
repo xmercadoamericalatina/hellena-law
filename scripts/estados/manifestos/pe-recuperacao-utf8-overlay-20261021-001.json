@@ -1,0 +1,37 @@
+{
+  "auditado_em": "2026-10-21T04:32:24.453455-03:00",
+  "retidos_adicionais": [
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-6046-1967-id66712.md",
+      "sha256_HEAD": "ca8c6721beec58bc489b01e52e8bfbd8342f5f4c579bafe7bc7777c64e2fe60a",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto",
+      "manifesto": "scripts/estados/manifestos/pe-recuperacao-utf8-20261021-001.json"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-6048-1967-id66725.md",
+      "sha256_HEAD": "ea3817f92661edaca7f78498cbd108055a19eb819aaff068d98b7942c5fdee6a",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto",
+      "manifesto": "scripts/estados/manifestos/pe-recuperacao-utf8-20261021-001.json"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-6052-1967-id66599.md",
+      "sha256_HEAD": "0a34934ece4ef4e3d47e9aa9872cdfe5e6c18215d3b6f390a3a496eacb850b53",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto",
+      "manifesto": "scripts/estados/manifestos/pe-recuperacao-utf8-20261021-001.json"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1972/lei-6419-1972-id39088.md",
+      "sha256_HEAD": "bc001507b279c7e1d59fd624072a032868f8c8fa8b77a06bcb5c3fd3a5198058",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto",
+      "manifesto": "scripts/estados/manifestos/pe-recuperacao-utf8-20261021-001.json"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1972/lei-6423-1972-id38850.md",
+      "sha256_HEAD": "d8936934b887b171b2b8ff0cbf1ebb4c459d47eedf2715109612fe37a81d63f7",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto",
+      "manifesto": "scripts/estados/manifestos/pe-recuperacao-utf8-20261021-001.json"
+    }
+  ],
+  "total": 5,
+  "criterio": "Não promover estes candidatos dos snapshots anteriores. Todos os MD reais continuam intactos."
+}

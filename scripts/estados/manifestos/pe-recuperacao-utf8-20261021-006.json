@@ -1,0 +1,467 @@
+{
+  "auditado_em": "2026-10-21T04:27:49.026870-03:00",
+  "HEAD_commit": "8d2231fa2875003fe8ac60883267fd8f3a1ecd6d",
+  "sha256_arvore_HEAD": "67369279f5ec7276a44966d5cd8405257ecdb1db8453b2ba83497904d8f82a31",
+  "codigo_auditor": "scripts/estados/auditar_pe_recuperacao_utf8.py",
+  "sha256_codigo_auditor": "d38b6f839a37d5def7a2997fcc2bb4cc818cc0480db58faf65efbed20e187b87",
+  "rede": 0,
+  "MD_reais_modificados": 0,
+  "total_selecionado": 31,
+  "total_candidatos_privados": 2,
+  "total_retido": 29,
+  "selecionados": [
+    {
+      "path": "estaduais/PE/leis-complementares/1990/lc-1-1990-id5633.md",
+      "sha256_MD_inventario": "81674b96890ee0cc16a95233a701f4e379b9c4057a94f3790fae2192bad4cedd",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+    },
+    {
+      "path": "estaduais/PE/leis-complementares/2004/lc-67-2004-id3354.md",
+      "sha256_MD_inventario": "4c98fdf93ed788d19bc47cfc53dab9c76d8c6fc5addb7391e92411a330255087",
+      "motivo": "ValueError: data/ano não comprovados"
+    },
+    {
+      "path": "estaduais/PE/leis-complementares/2005/lc-74-2005-id4259.md",
+      "sha256_MD_inventario": "554f68758dc0fdb1381ac35a27b2e5cccd992f5d4c25fd7407dc099b218f9668",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+    },
+    {
+      "path": "estaduais/PE/leis-complementares/2011/lc-183-2011-id75.md",
+      "sha256_MD_inventario": "af1a6c027f5172d447f9ba12ed8967f149c19ff690bfe4763265a3eb7165cf5b",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+    },
+    {
+      "path": "estaduais/PE/leis-complementares/2018/lc-391-2018-id40608.md",
+      "sha256_MD_inventario": "471236d6404ed4a7f597df0658753796d9f76c7d83a99f07a05149d2234da0f1",
+      "motivo": "ValueError: formatação Markdown exige representação separada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5497-1965-id76908.md",
+      "sha256_MD_inventario": "1281b3f7cbbe110fc5a9669122f403b2787bf61fac1fd842c812ffee391938f2",
+      "motivo": "ValueError: número da epígrafe diverge; não renumerar silenciosamente"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5563-1965-id76771.md",
+      "sha256_MD_inventario": "daf2093393ceea3b68852cded345fd28457e08fde4fb3476a4b6ab40d0d726f1",
+      "motivo": "ValueError: epígrafe própria não comprovada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5564-1965-id76770.md",
+      "sha256_MD_inventario": "2664922cd303d7c9068b65f84f81d3c8c98ab22513bcc1192edeffcc3eafa829",
+      "motivo": "KeyError: 'juho'"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5584-1965-id76740.md",
+      "sha256_MD_inventario": "6f6c38db1f3565a392ea090a47550a9a88d5d0007073112be563410dc627a5b1",
+      "motivo": "ValueError: epígrafe própria não comprovada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5605-1965-id76686.md",
+      "sha256_MD_inventario": "6c47162b2bc44cef82c27366fa76ceb0b2389772cecf01ea99df1e672256f847",
+      "destino_canonico": "estaduais/PE/leis-ordinarias/1965/lei-5605-1965-id76686.md",
+      "exige_rename_atomico": false,
+      "sha256_HEAD": "6c47162b2bc44cef82c27366fa76ceb0b2389772cecf01ea99df1e672256f847",
+      "git_blob_HEAD": "1cf2e2471453d608b62442ec3496fac6d9ce19b5",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=76686&tipo=TEXTOORIGINAL",
+      "id_oficial": "76686",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1965/lei-5605-1965-id76686.html.gz",
+      "sha256_cache": "865b832515d1d272e1b2e38961dc3a91ad550a8d0d6ff620ee4cfbfb93b3e825",
+      "sha256_fonte": "c1ddac520eb962630c1dfb7a622296603304c915d1a284aeed3c142e1f5a48ad",
+      "backup": "estaduais/PE/_fonte/auditorias/pe-recuperacao-utf8-20261021-006/HEAD-preimagem/estaduais/PE/leis-ordinarias/1965/lei-5605-1965-id76686.md.gz",
+      "sha256_backup": "1b7ff7ef44bd8bfb70919123ab1234557bc426af991ed53e89eea204f4ff6ce1",
+      "body_preimagem": "estaduais/PE/_fonte/auditorias/pe-recuperacao-utf8-20261021-006/body-preimagem/estaduais/PE/leis-ordinarias/1965/lei-5605-1965-id76686.md.gz",
+      "sha256_body_preimagem": "8e3213db2d0f90e6aff35b20b093fbfa1127b3d81994b7c914ac68eae7c26edb",
+      "candidato_privado": "estaduais/PE/_fonte/auditorias/pe-recuperacao-utf8-20261021-006/candidatos/estaduais/PE/leis-ordinarias/1965/lei-5605-1965-id76686.md.gz",
+      "sha256_candidato": "34ffb60326559c7facc4301595746ecc25be37131daf96090317d6c9bc0e5857",
+      "sha256_candidato_gz": "c7a0d8d2eaae2fdf90be56f7319bdc63f7951e0adbab18aa8c1e7f0cb56b0381",
+      "QA": {
+        "epigrafe_literal": "LEI Nº 5.605, DE 23 DE AGÔSTO DE 1965",
+        "data": "1965-08-23",
+        "sha256_campo": "9ca1d27ee5e2073d65555ff8aa09b434dc1e285effa24fedddf40b38c354e46d",
+        "dispositivo_proprio": "ISLATIVA DO ESTADO DE PERNAMBUCO:\n\nFaço saber que o Poder Legislativo decreta e eu promulgo a seguinte Lei:\n\nArt. 1º Fica autorizado o Governador do Estado, a abrir o crédito especial de cinco milhões de cruzeiros (Cr$ 5.000.000), para auxiliar o término da construção do Círculo Operário Católic",
+        "igualdade_visivel_CommonMark": true,
+        "assinatura_numerica_sinais": true,
+        "tabelas_multilinhas": 0,
+        "normalizacoes_heading": [],
+        "listas": [],
+        "encoding": "Cache UTF-8 estrito, sem substituições; declaração Word interna não muda os bytes da representação preservada.",
+        "limites_campo": [
+          0,
+          5118
+        ]
+      }
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5606-1965-id76685.md",
+      "sha256_MD_inventario": "8c8a3b6869c748ee0dfacc71d9974e816482ef2864a1284e76af1f4ca5c4e3fb",
+      "destino_canonico": "estaduais/PE/leis-ordinarias/1965/lei-5606-1965-id76685.md",
+      "exige_rename_atomico": false,
+      "sha256_HEAD": "8c8a3b6869c748ee0dfacc71d9974e816482ef2864a1284e76af1f4ca5c4e3fb",
+      "git_blob_HEAD": "e3da84c618141127ecae0d89772d2535c9e17568",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=76685&tipo=TEXTOORIGINAL",
+      "id_oficial": "76685",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1965/lei-5606-1965-id76685.html.gz",
+      "sha256_cache": "ed8d8eaf48d58b9159b83b9e92981aec83a55df1af18c4c67efa511d0427e8ba",
+      "sha256_fonte": "11fa23f48aa0b486b5485370a49d8478b5f28f76fb4cfa532d55e044c23c8e86",
+      "backup": "estaduais/PE/_fonte/auditorias/pe-recuperacao-utf8-20261021-006/HEAD-preimagem/estaduais/PE/leis-ordinarias/1965/lei-5606-1965-id76685.md.gz",
+      "sha256_backup": "30179f9181db9baa8838661d184309d0e7bbc40eb4428f8e1460d39cb3ddc2e1",
+      "body_preimagem": "estaduais/PE/_fonte/auditorias/pe-recuperacao-utf8-20261021-006/body-preimagem/estaduais/PE/leis-ordinarias/1965/lei-5606-1965-id76685.md.gz",
+      "sha256_body_preimagem": "21ff5a6b4e582e54d17489889eb4bbb8614774637952c2f462ffa720112a12f3",
+      "candidato_privado": "estaduais/PE/_fonte/auditorias/pe-recuperacao-utf8-20261021-006/candidatos/estaduais/PE/leis-ordinarias/1965/lei-5606-1965-id76685.md.gz",
+      "sha256_candidato": "6261de83a2f5dd8d4ce9cf4f4e3ded36d33b717368043cb0c70ed19bab8b09a1",
+      "sha256_candidato_gz": "a8c619b85890615562405d9e84afe12a6af40d601f9b6b9d2a8daf5d2db62aea",
+      "QA": {
+        "epigrafe_literal": "LEI Nº 5.606, DE 23 DE AGÔSTO DE 1965",
+        "data": "1965-08-23",
+        "sha256_campo": "484e245eab5491b617425f06bf68c9270eea3c1b5d7e9ff35bdf26185dbf4abb",
+        "dispositivo_proprio": "ISLATIVA DO ESTADO DE PERNAMBUCO:\n\nFaço saber que o Poder Legislativo decreta e eu promulgo a seguinte Lei:\n\nArt. 1º Fica o Chefe do Poder Executivo autorizado a abrir o crédito especial de Cr$ 13.000.000 (Treze milhões de cruzeiros), para ajudar a construção do Cruzeiro da cidade de Poção.\n\nArt",
+        "igualdade_visivel_CommonMark": true,
+        "assinatura_numerica_sinais": true,
+        "tabelas_multilinhas": 0,
+        "normalizacoes_heading": [],
+        "listas": [],
+        "encoding": "Cache UTF-8 estrito, sem substituições; declaração Word interna não muda os bytes da representação preservada.",
+        "limites_campo": [
+          0,
+          5241
+        ]
+      }
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5744-1965-id75126.md",
+      "sha256_MD_inventario": "bf64e3896a946eaa2c5c0f8eccc0891fc2b9ddbe54d611b3a37a5384bae045d1",
+      "motivo": "ValueError: formatação Markdown exige representação separada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1966/lei-5813-1966-id74584.md",
+      "sha256_MD_inventario": "0e21644dc6eb4ee5e30603cf0984c37e822d4b0df97d330ac713a801e0869b35",
+      "motivo": "ValueError: número da epígrafe diverge; não renumerar silenciosamente"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1966/lei-5840-1966-id74561.md",
+      "sha256_MD_inventario": "fbef18182a80b1a4fa074a876fb94a27978cead0697b7fec97cea8d7fa14e2ab",
+      "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1966/lei-5879-1966-id74182.md",
+      "sha256_MD_inventario": "0d41be1ff02e5f0ae40e732eca0699dc02dcde926e61bd4f7625599de6480cc8",
+      "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1966/lei-5938-1966-id73931.md",
+      "sha256_MD_inventario": "a5ffd56a02d439595496300f30486e8920cb6970f215ccb8ef560ab89851114b",
+      "motivo": "ValueError: epígrafe própria não comprovada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-5981-1967-id71083.md",
+      "sha256_MD_inventario": "a77291f1058edb052c90c4c92ba688625c0ca919e7ea81814b997b9de1e4133d",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-6001-1967-id67678.md",
+      "sha256_MD_inventario": "063d106e6144c1330c671c245c1a7cde157e6e697bdd9b4b37663c2738d5ff69",
+      "motivo": "KeyError: 'setemro'"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-6027-1967-id67437.md",
+      "sha256_MD_inventario": "1c2e8fd5d1f3d8bce893351b5043572075dec03ef4df5f9876c9c5b0b22d1d95",
+      "motivo": "ValueError: epígrafe própria não comprovada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-6038-1967-id67140.md",
+      "sha256_MD_inventario": "26ffcde951dd585b71da4892a18198d03d07ab58dfd4e3aa95edc5fcb6d2109f",
+      "motivo": "ValueError: epígrafe própria não comprovada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-6076-1967-id66484.md",
+      "sha256_MD_inventario": "8b5f916f5a3607a42bb8d707c65e6814d697e3f86c69d033788a6f3561de8fec",
+      "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1968/lei-6111-1968-id63366.md",
+      "sha256_MD_inventario": "25d99b7938a65fb788e14c72109abedf9b5e70c2fadb4693fbfd5facbcf856e7",
+      "motivo": "ValueError: data/ano não comprovados"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1968/lei-6118-1968-id63323.md",
+      "sha256_MD_inventario": "cafbf5819cc40baedb07980f2b7b0c44e6989bf1a1c1753b66fa585c72840163",
+      "motivo": "ValueError: epígrafe própria não comprovada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1968/lei-6173-1968-id58487.md",
+      "sha256_MD_inventario": "457181b7c5167b48da8b837b16a571c137db0949148dfd13e20aaf3714b52404",
+      "motivo": "ValueError: epígrafe própria não comprovada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1968/lei-6207-1968-id61136.md",
+      "sha256_MD_inventario": "2b27d87b64642c6d1cecf4c838d9e6d09793740e2424bb2d0144f54d78b83f85",
+      "motivo": "KeyError: 'dezemro'"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1968/lei-6220-1968-id58390.md",
+      "sha256_MD_inventario": "013fbede680640ccb4c3869178ac20ee8e89cff2f0d048510bcd2ba8acdb2373",
+      "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1969/lei-6221-1969-id58159.md",
+      "sha256_MD_inventario": "5874127ec919e82b5188649156f60c3d77ae02f6c434b845767f7e9eb2606466",
+      "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1972/lei-6461-1972-id38980.md",
+      "sha256_MD_inventario": "2e33cbe5a3cedb3663312164ce6fe51753b95bb721cf4568f664b073aa72270b",
+      "motivo": "ValueError: número da epígrafe diverge; não renumerar silenciosamente"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1974/lei-6741-1974-id37854.md",
+      "sha256_MD_inventario": "2b1f67282961e2d6e294d9bd70cc7917f7a4acf0b390e6397b968ce1ad1eba03",
+      "motivo": "ValueError: formatação Markdown exige representação separada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1975/lei-7037-1975-id33451.md",
+      "sha256_MD_inventario": "6fef1d767fc07dc9ef844d204bed359354d100e802c7ad3216e1673e198510c4",
+      "motivo": "KeyError: 'dezermbro'"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1975/lei-7053-1975-id33121.md",
+      "sha256_MD_inventario": "c98da39b078508482997ac2c166711590ecbe4c2ced554e343ed117400168837",
+      "motivo": "ValueError: objeto aprovado próprio exige contexto"
+    }
+  ],
+  "candidatos": [
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5605-1965-id76686.md",
+      "sha256_MD_inventario": "6c47162b2bc44cef82c27366fa76ceb0b2389772cecf01ea99df1e672256f847",
+      "destino_canonico": "estaduais/PE/leis-ordinarias/1965/lei-5605-1965-id76686.md",
+      "exige_rename_atomico": false,
+      "sha256_HEAD": "6c47162b2bc44cef82c27366fa76ceb0b2389772cecf01ea99df1e672256f847",
+      "git_blob_HEAD": "1cf2e2471453d608b62442ec3496fac6d9ce19b5",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=76686&tipo=TEXTOORIGINAL",
+      "id_oficial": "76686",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1965/lei-5605-1965-id76686.html.gz",
+      "sha256_cache": "865b832515d1d272e1b2e38961dc3a91ad550a8d0d6ff620ee4cfbfb93b3e825",
+      "sha256_fonte": "c1ddac520eb962630c1dfb7a622296603304c915d1a284aeed3c142e1f5a48ad",
+      "backup": "estaduais/PE/_fonte/auditorias/pe-recuperacao-utf8-20261021-006/HEAD-preimagem/estaduais/PE/leis-ordinarias/1965/lei-5605-1965-id76686.md.gz",
+      "sha256_backup": "1b7ff7ef44bd8bfb70919123ab1234557bc426af991ed53e89eea204f4ff6ce1",
+      "body_preimagem": "estaduais/PE/_fonte/auditorias/pe-recuperacao-utf8-20261021-006/body-preimagem/estaduais/PE/leis-ordinarias/1965/lei-5605-1965-id76686.md.gz",
+      "sha256_body_preimagem": "8e3213db2d0f90e6aff35b20b093fbfa1127b3d81994b7c914ac68eae7c26edb",
+      "candidato_privado": "estaduais/PE/_fonte/auditorias/pe-recuperacao-utf8-20261021-006/candidatos/estaduais/PE/leis-ordinarias/1965/lei-5605-1965-id76686.md.gz",
+      "sha256_candidato": "34ffb60326559c7facc4301595746ecc25be37131daf96090317d6c9bc0e5857",
+      "sha256_candidato_gz": "c7a0d8d2eaae2fdf90be56f7319bdc63f7951e0adbab18aa8c1e7f0cb56b0381",
+      "QA": {
+        "epigrafe_literal": "LEI Nº 5.605, DE 23 DE AGÔSTO DE 1965",
+        "data": "1965-08-23",
+        "sha256_campo": "9ca1d27ee5e2073d65555ff8aa09b434dc1e285effa24fedddf40b38c354e46d",
+        "dispositivo_proprio": "ISLATIVA DO ESTADO DE PERNAMBUCO:\n\nFaço saber que o Poder Legislativo decreta e eu promulgo a seguinte Lei:\n\nArt. 1º Fica autorizado o Governador do Estado, a abrir o crédito especial de cinco milhões de cruzeiros (Cr$ 5.000.000), para auxiliar o término da construção do Círculo Operário Católic",
+        "igualdade_visivel_CommonMark": true,
+        "assinatura_numerica_sinais": true,
+        "tabelas_multilinhas": 0,
+        "normalizacoes_heading": [],
+        "listas": [],
+        "encoding": "Cache UTF-8 estrito, sem substituições; declaração Word interna não muda os bytes da representação preservada.",
+        "limites_campo": [
+          0,
+          5118
+        ]
+      }
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5606-1965-id76685.md",
+      "sha256_MD_inventario": "8c8a3b6869c748ee0dfacc71d9974e816482ef2864a1284e76af1f4ca5c4e3fb",
+      "destino_canonico": "estaduais/PE/leis-ordinarias/1965/lei-5606-1965-id76685.md",
+      "exige_rename_atomico": false,
+      "sha256_HEAD": "8c8a3b6869c748ee0dfacc71d9974e816482ef2864a1284e76af1f4ca5c4e3fb",
+      "git_blob_HEAD": "e3da84c618141127ecae0d89772d2535c9e17568",
+      "fonte": "https://legis.alepe.pe.gov.br/texto.aspx?id=76685&tipo=TEXTOORIGINAL",
+      "id_oficial": "76685",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1965/lei-5606-1965-id76685.html.gz",
+      "sha256_cache": "ed8d8eaf48d58b9159b83b9e92981aec83a55df1af18c4c67efa511d0427e8ba",
+      "sha256_fonte": "11fa23f48aa0b486b5485370a49d8478b5f28f76fb4cfa532d55e044c23c8e86",
+      "backup": "estaduais/PE/_fonte/auditorias/pe-recuperacao-utf8-20261021-006/HEAD-preimagem/estaduais/PE/leis-ordinarias/1965/lei-5606-1965-id76685.md.gz",
+      "sha256_backup": "30179f9181db9baa8838661d184309d0e7bbc40eb4428f8e1460d39cb3ddc2e1",
+      "body_preimagem": "estaduais/PE/_fonte/auditorias/pe-recuperacao-utf8-20261021-006/body-preimagem/estaduais/PE/leis-ordinarias/1965/lei-5606-1965-id76685.md.gz",
+      "sha256_body_preimagem": "21ff5a6b4e582e54d17489889eb4bbb8614774637952c2f462ffa720112a12f3",
+      "candidato_privado": "estaduais/PE/_fonte/auditorias/pe-recuperacao-utf8-20261021-006/candidatos/estaduais/PE/leis-ordinarias/1965/lei-5606-1965-id76685.md.gz",
+      "sha256_candidato": "6261de83a2f5dd8d4ce9cf4f4e3ded36d33b717368043cb0c70ed19bab8b09a1",
+      "sha256_candidato_gz": "a8c619b85890615562405d9e84afe12a6af40d601f9b6b9d2a8daf5d2db62aea",
+      "QA": {
+        "epigrafe_literal": "LEI Nº 5.606, DE 23 DE AGÔSTO DE 1965",
+        "data": "1965-08-23",
+        "sha256_campo": "484e245eab5491b617425f06bf68c9270eea3c1b5d7e9ff35bdf26185dbf4abb",
+        "dispositivo_proprio": "ISLATIVA DO ESTADO DE PERNAMBUCO:\n\nFaço saber que o Poder Legislativo decreta e eu promulgo a seguinte Lei:\n\nArt. 1º Fica o Chefe do Poder Executivo autorizado a abrir o crédito especial de Cr$ 13.000.000 (Treze milhões de cruzeiros), para ajudar a construção do Cruzeiro da cidade de Poção.\n\nArt",
+        "igualdade_visivel_CommonMark": true,
+        "assinatura_numerica_sinais": true,
+        "tabelas_multilinhas": 0,
+        "normalizacoes_heading": [],
+        "listas": [],
+        "encoding": "Cache UTF-8 estrito, sem substituições; declaração Word interna não muda os bytes da representação preservada.",
+        "limites_campo": [
+          0,
+          5241
+        ]
+      }
+    }
+  ],
+  "retidos": [
+    {
+      "path": "estaduais/PE/leis-complementares/1990/lc-1-1990-id5633.md",
+      "sha256_MD_inventario": "81674b96890ee0cc16a95233a701f4e379b9c4057a94f3790fae2192bad4cedd",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+    },
+    {
+      "path": "estaduais/PE/leis-complementares/2004/lc-67-2004-id3354.md",
+      "sha256_MD_inventario": "4c98fdf93ed788d19bc47cfc53dab9c76d8c6fc5addb7391e92411a330255087",
+      "motivo": "ValueError: data/ano não comprovados"
+    },
+    {
+      "path": "estaduais/PE/leis-complementares/2005/lc-74-2005-id4259.md",
+      "sha256_MD_inventario": "554f68758dc0fdb1381ac35a27b2e5cccd992f5d4c25fd7407dc099b218f9668",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+    },
+    {
+      "path": "estaduais/PE/leis-complementares/2011/lc-183-2011-id75.md",
+      "sha256_MD_inventario": "af1a6c027f5172d447f9ba12ed8967f149c19ff690bfe4763265a3eb7165cf5b",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+    },
+    {
+      "path": "estaduais/PE/leis-complementares/2018/lc-391-2018-id40608.md",
+      "sha256_MD_inventario": "471236d6404ed4a7f597df0658753796d9f76c7d83a99f07a05149d2234da0f1",
+      "motivo": "ValueError: formatação Markdown exige representação separada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5497-1965-id76908.md",
+      "sha256_MD_inventario": "1281b3f7cbbe110fc5a9669122f403b2787bf61fac1fd842c812ffee391938f2",
+      "motivo": "ValueError: número da epígrafe diverge; não renumerar silenciosamente"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5563-1965-id76771.md",
+      "sha256_MD_inventario": "daf2093393ceea3b68852cded345fd28457e08fde4fb3476a4b6ab40d0d726f1",
+      "motivo": "ValueError: epígrafe própria não comprovada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5564-1965-id76770.md",
+      "sha256_MD_inventario": "2664922cd303d7c9068b65f84f81d3c8c98ab22513bcc1192edeffcc3eafa829",
+      "motivo": "KeyError: 'juho'"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5584-1965-id76740.md",
+      "sha256_MD_inventario": "6f6c38db1f3565a392ea090a47550a9a88d5d0007073112be563410dc627a5b1",
+      "motivo": "ValueError: epígrafe própria não comprovada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5744-1965-id75126.md",
+      "sha256_MD_inventario": "bf64e3896a946eaa2c5c0f8eccc0891fc2b9ddbe54d611b3a37a5384bae045d1",
+      "motivo": "ValueError: formatação Markdown exige representação separada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1966/lei-5813-1966-id74584.md",
+      "sha256_MD_inventario": "0e21644dc6eb4ee5e30603cf0984c37e822d4b0df97d330ac713a801e0869b35",
+      "motivo": "ValueError: número da epígrafe diverge; não renumerar silenciosamente"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1966/lei-5840-1966-id74561.md",
+      "sha256_MD_inventario": "fbef18182a80b1a4fa074a876fb94a27978cead0697b7fec97cea8d7fa14e2ab",
+      "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1966/lei-5879-1966-id74182.md",
+      "sha256_MD_inventario": "0d41be1ff02e5f0ae40e732eca0699dc02dcde926e61bd4f7625599de6480cc8",
+      "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1966/lei-5938-1966-id73931.md",
+      "sha256_MD_inventario": "a5ffd56a02d439595496300f30486e8920cb6970f215ccb8ef560ab89851114b",
+      "motivo": "ValueError: epígrafe própria não comprovada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-5981-1967-id71083.md",
+      "sha256_MD_inventario": "a77291f1058edb052c90c4c92ba688625c0ca919e7ea81814b997b9de1e4133d",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-6001-1967-id67678.md",
+      "sha256_MD_inventario": "063d106e6144c1330c671c245c1a7cde157e6e697bdd9b4b37663c2738d5ff69",
+      "motivo": "KeyError: 'setemro'"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-6027-1967-id67437.md",
+      "sha256_MD_inventario": "1c2e8fd5d1f3d8bce893351b5043572075dec03ef4df5f9876c9c5b0b22d1d95",
+      "motivo": "ValueError: epígrafe própria não comprovada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-6038-1967-id67140.md",
+      "sha256_MD_inventario": "26ffcde951dd585b71da4892a18198d03d07ab58dfd4e3aa95edc5fcb6d2109f",
+      "motivo": "ValueError: epígrafe própria não comprovada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-6076-1967-id66484.md",
+      "sha256_MD_inventario": "8b5f916f5a3607a42bb8d707c65e6814d697e3f86c69d033788a6f3561de8fec",
+      "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1968/lei-6111-1968-id63366.md",
+      "sha256_MD_inventario": "25d99b7938a65fb788e14c72109abedf9b5e70c2fadb4693fbfd5facbcf856e7",
+      "motivo": "ValueError: data/ano não comprovados"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1968/lei-6118-1968-id63323.md",
+      "sha256_MD_inventario": "cafbf5819cc40baedb07980f2b7b0c44e6989bf1a1c1753b66fa585c72840163",
+      "motivo": "ValueError: epígrafe própria não comprovada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1968/lei-6173-1968-id58487.md",
+      "sha256_MD_inventario": "457181b7c5167b48da8b837b16a571c137db0949148dfd13e20aaf3714b52404",
+      "motivo": "ValueError: epígrafe própria não comprovada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1968/lei-6207-1968-id61136.md",
+      "sha256_MD_inventario": "2b27d87b64642c6d1cecf4c838d9e6d09793740e2424bb2d0144f54d78b83f85",
+      "motivo": "KeyError: 'dezemro'"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1968/lei-6220-1968-id58390.md",
+      "sha256_MD_inventario": "013fbede680640ccb4c3869178ac20ee8e89cff2f0d048510bcd2ba8acdb2373",
+      "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1969/lei-6221-1969-id58159.md",
+      "sha256_MD_inventario": "5874127ec919e82b5188649156f60c3d77ae02f6c434b845767f7e9eb2606466",
+      "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1972/lei-6461-1972-id38980.md",
+      "sha256_MD_inventario": "2e33cbe5a3cedb3663312164ce6fe51753b95bb721cf4568f664b073aa72270b",
+      "motivo": "ValueError: número da epígrafe diverge; não renumerar silenciosamente"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1974/lei-6741-1974-id37854.md",
+      "sha256_MD_inventario": "2b1f67282961e2d6e294d9bd70cc7917f7a4acf0b390e6397b968ce1ad1eba03",
+      "motivo": "ValueError: formatação Markdown exige representação separada"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1975/lei-7037-1975-id33451.md",
+      "sha256_MD_inventario": "6fef1d767fc07dc9ef844d204bed359354d100e802c7ad3216e1673e198510c4",
+      "motivo": "KeyError: 'dezermbro'"
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1975/lei-7053-1975-id33121.md",
+      "sha256_MD_inventario": "c98da39b078508482997ac2c166711590ecbe4c2ced554e343ed117400168837",
+      "motivo": "ValueError: objeto aprovado próprio exige contexto"
+    }
+  ],
+  "motivos": {
+    "ValueError: visual/ativo/tachado/ocultação exige contexto": 4,
+    "ValueError: data/ano não comprovados": 2,
+    "ValueError: formatação Markdown exige representação separada": 3,
+    "ValueError: número da epígrafe diverge; não renumerar silenciosamente": 3,
+    "ValueError: epígrafe própria não comprovada": 7,
+    "KeyError: 'juho'": 1,
+    "ValueError: aviso/remissão própria não representada exige contexto": 4,
+    "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado": 1,
+    "KeyError: 'setemro'": 1,
+    "KeyError: 'dezemro'": 1,
+    "KeyError: 'dezermbro'": 1,
+    "ValueError: objeto aprovado próprio exige contexto": 1
+  },
+  "criterio": "Reparos privados de publicados com prova de bytes UTF-8 da fonte/cache e preimagem HEAD. Identidade índice/epígrafe/data/tipo, íntegra/visuais/tachados/objetos conservadores, CommonMark e sinais integrais, matrizes de tabelas. Data/ano antes vazios são preenchidos somente pela epígrafe comprovada; paths sem-ano têm destino privado explícito para rename atômico; resto do metadata/H1 preservado, corpo reextraído da mesma fonte. Não modifica MD reais nem presume vigência."
+}

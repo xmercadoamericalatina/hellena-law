@@ -1,0 +1,157 @@
+{
+  "total": 8,
+  "documentos": [
+    {
+      "path": "estaduais/PE/decretos/2012/dec-37833-2012-id17583.md",
+      "sha256_md_anterior": "e7c226f81325129d1105fe17c8e8192be615dfd3dd5d99615d01f9a064cc88ab",
+      "sha256_md": "2357558014593eb9c6e4d2fe70b45e6d73f4a546966e13154aad6bf1fe3200aa",
+      "backup": "estaduais/PE/_fonte/auditorias/quebras-explicitas-20261020/decretos/2012/dec-37833-2012-id17583.md.gz",
+      "sha256_backup_gzip": "9bdb8bdc3b1f3ad93b8c69d4b41d4e19dc5b19dad5314568584b579f85324797",
+      "cache": "estaduais/PE/_fonte/decretos/2012/dec-37833-2012-id17583.html.gz",
+      "sha256_cache": "2df91aca286b12bab7ade4993b3d27cd58d397a1bcb4d63b0d06e34ad0b42de2",
+      "sha256_fonte": "b0ad4ad6a9b3350f29f6455c7891e56210365a0d2e478608c1e62076430ed390",
+      "linhas": [
+        {
+          "linha": 103,
+          "antes": "PRODUTOS PARA O TRATAMENTO  ",
+          "depois": "PRODUTOS PARA O TRATAMENTO<br>",
+          "prova": "Quebra explícita de linha emitida na reconversão da fonte HTML, preservada como br em vez de dois espaços finais Markdown."
+        }
+      ],
+      "unica_alteracao": "Sintaxe de quebra de linha, sem alterar letras/números/metadados ou texto normativo; mesma quebra visual."
+    },
+    {
+      "path": "estaduais/PE/decretos/2008/dec-32021-2008-id12849.md",
+      "sha256_md_anterior": "c0d80d0578d059a59ae595c19653b2ccc437b2918cebe245b38f9e3f4b0cf2de",
+      "sha256_md": "baabb5afd71ad93579f95a3b2dc87d37d2a1cd004933cab30f898215ad6f44ff",
+      "backup": "estaduais/PE/_fonte/auditorias/quebras-explicitas-20261020/decretos/2008/dec-32021-2008-id12849.md.gz",
+      "sha256_backup_gzip": "846b45aeee341e0df550d27757a6c3d52ae420dbb3041d33fa113164e026d9b1",
+      "cache": "estaduais/PE/_fonte/decretos/2008/dec-32021-2008-id12849.html.gz",
+      "sha256_cache": "1b7f0054d503efc660858b41caf1cd4ec3b436f665f0aa7a64627b66c5eac088",
+      "sha256_fonte": "b1f8b1f3665bd771dde1992fbada5dcdcc157164d55ccf6fbc34592ee0a5762d",
+      "linhas": [
+        {
+          "linha": 61,
+          "antes": "RELAÇÃO DAS EMPRESAS, CONFORME APROVAÇÃO PELO CONDIC  ",
+          "depois": "RELAÇÃO DAS EMPRESAS, CONFORME APROVAÇÃO PELO CONDIC<br>",
+          "prova": "Quebra explícita de linha emitida na reconversão da fonte HTML, preservada como br em vez de dois espaços finais Markdown."
+        }
+      ],
+      "unica_alteracao": "Sintaxe de quebra de linha, sem alterar letras/números/metadados ou texto normativo; mesma quebra visual."
+    },
+    {
+      "path": "estaduais/PE/decretos/2008/dec-32890-2008-id27011.md",
+      "sha256_md_anterior": "0e306e8b10b020ac3d4ba026a0da6f3d75084de8dc0679c51a7e0b390d3c0959",
+      "sha256_md": "d9837fdfb1f6c94d301328163cc224dd9f2fdd05187b378a8eab472cf104db80",
+      "backup": "estaduais/PE/_fonte/auditorias/quebras-explicitas-20261020/decretos/2008/dec-32890-2008-id27011.md.gz",
+      "sha256_backup_gzip": "37cae6476bf1f3ce10f78b033f48b3718d6ab552c8cf2fd0daf816d30cfa3130",
+      "cache": "estaduais/PE/_fonte/decretos/2008/dec-32890-2008-id27011.html.gz",
+      "sha256_cache": "5a21a6ed1c3965c93b29e8b39ada2429267256281898d2d6eec8bfac3dcc0db4",
+      "sha256_fonte": "babf1ecfdfeac4f41722e62b014570504552a4b1dfa5e539a84876b14ae69c45",
+      "linhas": [
+        {
+          "linha": 35,
+          "antes": "EDUARDO HENRIQUE ACCIOLY CAMPOS  ",
+          "depois": "EDUARDO HENRIQUE ACCIOLY CAMPOS<br>",
+          "prova": "Quebra explícita de linha emitida na reconversão da fonte HTML, preservada como br em vez de dois espaços finais Markdown."
+        }
+      ],
+      "unica_alteracao": "Sintaxe de quebra de linha, sem alterar letras/números/metadados ou texto normativo; mesma quebra visual."
+    },
+    {
+      "path": "estaduais/PE/decretos/2009/dec-33712-2009-id24145.md",
+      "sha256_md_anterior": "87d1eff449e5ba466f361012b83737f713322db3c1b7dce4d2b730cd38343281",
+      "sha256_md": "ba74297fc073430d25030f014c715aab527084dc47d31b20bf1fd4d6fecca6b3",
+      "backup": "estaduais/PE/_fonte/auditorias/quebras-explicitas-20261020/decretos/2009/dec-33712-2009-id24145.md.gz",
+      "sha256_backup_gzip": "32fc29e0e2e24eef05cbc059db9a1cac197ac07ac7c5467174658fb3b3105446",
+      "cache": "estaduais/PE/_fonte/decretos/2009/dec-33712-2009-id24145.html.gz",
+      "sha256_cache": "ec2b5eb8b68159d819c527f642aad0e21f54ab715329a72f64abc1fe8c168e6f",
+      "sha256_fonte": "4c124a4ea409d4bbba659c32f6c3acb91a8727a55595e1492f6b1f746d7e10b5",
+      "linhas": [
+        {
+          "linha": 59,
+          "antes": "PRODUTOS IMPORTADOS, PARA UTILIZAÇÃO NO PROCESSO PRODUTIVO DE  ",
+          "depois": "PRODUTOS IMPORTADOS, PARA UTILIZAÇÃO NO PROCESSO PRODUTIVO DE<br>",
+          "prova": "Quebra explícita de linha emitida na reconversão da fonte HTML, preservada como br em vez de dois espaços finais Markdown."
+        }
+      ],
+      "unica_alteracao": "Sintaxe de quebra de linha, sem alterar letras/números/metadados ou texto normativo; mesma quebra visual."
+    },
+    {
+      "path": "estaduais/PE/decretos/2018/dec-45673-2018-id35998.md",
+      "sha256_md_anterior": "fa93538368247f85e1ac1490f84f694b1e5c4263e1da97ba81d8fe1e1d4a39a6",
+      "sha256_md": "d5379f16a73db98cf3562d32ede9975e9c4aabddfb170e0cce0898976241c134",
+      "backup": "estaduais/PE/_fonte/auditorias/quebras-explicitas-20261020/decretos/2018/dec-45673-2018-id35998.md.gz",
+      "sha256_backup_gzip": "81fccc992cd048bf08299a8a31ff4bef020d36e80f5c6d1363c29b955179e7dd",
+      "cache": "estaduais/PE/_fonte/decretos/2018/dec-45673-2018-id35998.html.gz",
+      "sha256_cache": "b8db9b433e2cee128c37ed2701be4f0bbd4b481d64bef4002f7360a8fae39780",
+      "sha256_fonte": "0b6ef86b84d4633157cbe5d228760e1be86622d1fc53e8917e59c9b784a98da4",
+      "linhas": [
+        {
+          "linha": 33,
+          "antes": "II - excesso de arrecadação: previsto para o presente exercício, nos termos do artigo 43 da Lei nº 4.320, de 17 de março de 1964, na fonte de recursos “0150 -  ",
+          "depois": "II - excesso de arrecadação: previsto para o presente exercício, nos termos do artigo 43 da Lei nº 4.320, de 17 de março de 1964, na fonte de recursos “0150 -<br>",
+          "prova": "Quebra explícita de linha emitida na reconversão da fonte HTML, preservada como br em vez de dois espaços finais Markdown."
+        }
+      ],
+      "unica_alteracao": "Sintaxe de quebra de linha, sem alterar letras/números/metadados ou texto normativo; mesma quebra visual."
+    },
+    {
+      "path": "estaduais/PE/decretos/2011/dec-36711-2011-id18711.md",
+      "sha256_md_anterior": "6c0922280155696630b9c54cb276cef79d970d182f0220ba51c8e73d56569a78",
+      "sha256_md": "046bbb8dc540ea545fe27c92902733ab1ca0dcf0c15a13056e3a676b5859cbb6",
+      "backup": "estaduais/PE/_fonte/auditorias/quebras-explicitas-20261020/decretos/2011/dec-36711-2011-id18711.md.gz",
+      "sha256_backup_gzip": "35166a8fd9517e1937b65eda9b3d871ae7cb2457efb0e1fa11828959b554e201",
+      "cache": "estaduais/PE/_fonte/decretos/2011/dec-36711-2011-id18711.html.gz",
+      "sha256_cache": "dc6d7c103d75a4aee7f60a7175c147d9e27a02d91b1f896082823c826a6a2932",
+      "sha256_fonte": "d2671b1aeaee8e7862c62401b5dd27f73f11a1cadc39bb530381b6e33a49593b",
+      "linhas": [
+        {
+          "linha": 133,
+          "antes": "EQUIPAMENTOS E COMPONENTES PARA O APROVEITAMENTO  ",
+          "depois": "EQUIPAMENTOS E COMPONENTES PARA O APROVEITAMENTO<br>",
+          "prova": "Quebra explícita de linha emitida na reconversão da fonte HTML, preservada como br em vez de dois espaços finais Markdown."
+        }
+      ],
+      "unica_alteracao": "Sintaxe de quebra de linha, sem alterar letras/números/metadados ou texto normativo; mesma quebra visual."
+    },
+    {
+      "path": "estaduais/PE/decretos/2011/dec-36312-2011-id19383.md",
+      "sha256_md_anterior": "a73e5f85917e6775bdabd3b2633954f564814ac6d9daba9fef5251fbe9eccad0",
+      "sha256_md": "26a34ee115afbe618d22036211d80561fa2c62adff4cc7bf49d1c3ddb8ae3140",
+      "backup": "estaduais/PE/_fonte/auditorias/quebras-explicitas-20261020/decretos/2011/dec-36312-2011-id19383.md.gz",
+      "sha256_backup_gzip": "50e5b4b4c2265b38e1f27ffd4ae272cf9b0ded38ecadf547ca56a98bebddfaa6",
+      "cache": "estaduais/PE/_fonte/decretos/2011/dec-36312-2011-id19383.html.gz",
+      "sha256_cache": "571b3062b5e9e0293ad4b8015ee56dfba058b40a8e5ae7951fe0cb86af6e64bd",
+      "sha256_fonte": "0aac49ac0c5ee7c63eb93aa4c0db80545e0aef83abceda53b5bd29dbd29ef028",
+      "linhas": [
+        {
+          "linha": 181,
+          "antes": "EQUIPAMENTOS E COMPONENTES PARA O APROVEITAMENTO  ",
+          "depois": "EQUIPAMENTOS E COMPONENTES PARA O APROVEITAMENTO<br>",
+          "prova": "Quebra explícita de linha emitida na reconversão da fonte HTML, preservada como br em vez de dois espaços finais Markdown."
+        }
+      ],
+      "unica_alteracao": "Sintaxe de quebra de linha, sem alterar letras/números/metadados ou texto normativo; mesma quebra visual."
+    },
+    {
+      "path": "estaduais/PE/decretos/2005/dec-28044-2005-id47317.md",
+      "sha256_md_anterior": "78d0254167b0f4861974a07adfbf76a7762d1ee6213acbf27e9fc909f278c3f3",
+      "sha256_md": "049d8cd105b2ea94207471fa66e616b7fc34c3e82e61cc7f61c7e0a72984595f",
+      "backup": "estaduais/PE/_fonte/auditorias/quebras-explicitas-20261020/decretos/2005/dec-28044-2005-id47317.md.gz",
+      "sha256_backup_gzip": "29373b3f637fb47198567d4a968f3eba8dfd39712a68a1d8cddca5825d2eb655",
+      "cache": "estaduais/PE/_fonte/decretos/2005/dec-28044-2005-id47317.html.gz",
+      "sha256_cache": "4f239998baa1b303f9a8feac754c4b58d82bd875b431b2caf9f62adc4a80a096",
+      "sha256_fonte": "35956e68d9c9e336b97edb4c8d1e89f49e5c372dd18c375ad2372d810cab1fab",
+      "linhas": [
+        {
+          "linha": 147,
+          "antes": "Fármacos e Medicamentos Destinados a Órgãos e Entidades da Administração Pública Direta e  ",
+          "depois": "Fármacos e Medicamentos Destinados a Órgãos e Entidades da Administração Pública Direta e<br>",
+          "prova": "Quebra explícita de linha emitida na reconversão da fonte HTML, preservada como br em vez de dois espaços finais Markdown."
+        }
+      ],
+      "unica_alteracao": "Sintaxe de quebra de linha, sem alterar letras/números/metadados ou texto normativo; mesma quebra visual."
+    }
+  ]
+}

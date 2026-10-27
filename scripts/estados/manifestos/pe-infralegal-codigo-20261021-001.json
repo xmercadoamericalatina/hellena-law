@@ -1,0 +1,17 @@
+{
+  "congelado_em": "2026-10-21T05:25:46.329679-03:00",
+  "codigo": {
+    "scripts/estados/pe.py": "e65e343264f6bd8fb34d583b616b4436765970ada1429869169ab69ad786d5d4",
+    "scripts/estados/pe_identidade.py": "a8b44a6c2306f7377096a6bc02091e5cd12d46af16d573bf07e6546c1201a7a9",
+    "scripts/estados/coletar_pe_infralegal.py": "24fdd23a06585cf4aeee059cd0e7b78a85af30d7e4565464ac227a0c61533dd2",
+    "scripts/estados/test_pe_infralegal.py": "8ef6fbe0445719984b42437791a5eef74d0b8dca0f84870be6160b4f09f7fda8",
+    "scripts/estados/test_pe_identidade_retomada.py": "6e4b06f0e5bbe77371d90e6271d51670a051655e081a9a5077ac14fa6dab81ef",
+    "scripts/estados/auditar_pe_infralegal_cache.py": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+    "scripts/estados/test_pe_infralegal_cache.py": "f1e2509326e922404883213cf0562c06d84131781ab57dd6bc95144a68bcde00",
+    "scripts/estados/snapshots/pe_20261021_001.py": "db315fa2e5dd55066d2398777aaa80bf1325e658d05eefc483a17a3670d52204",
+    "scripts/estados/snapshots/coletar_pe_infralegal_20261021_001.py": "fac75f685105fa02abf3202c0eab813152e93b5c2d3d8d5cb999474b270162b0"
+  },
+  "testes": "54 testes PE passaram, incluindo8+1 novos de retomada/ID/ano/edição/publicação,6 QA de tabelas/sinais/anexos/visuais/status e regressão UTF-8 da resposta com declaração Word Windows1252; py_compile passou.",
+  "captura": "Lotes001/002 executaram pe.py e driver dos snapshots001, preservados literalmente. Correção da entrada padrão e extração da identidade em helper próprio foram aplicadas depois; o replay integral dos aprovados usa o código final. Não reiniciar processo vivo do lote002.",
+  "dependencias_comuns": "normalizar_rj_apresentacao.py e helpers PE já entregues, sem mudanças"
+}

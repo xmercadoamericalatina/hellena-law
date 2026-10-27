@@ -1,0 +1,24 @@
+{
+  "congelado_em": "2026-10-21T04:31:54.818775-03:00",
+  "codigo": {
+    "scripts/estados/auditar_pe_recuperacao_utf8.py": "d38b6f839a37d5def7a2997fcc2bb4cc818cc0480db58faf65efbed20e187b87",
+    "scripts/estados/test_pe_recuperacao_utf8.py": "965bf9aeac331c13121d0c0978d9e7897e724569a0b97f64acaefc3cb86dd4a4",
+    "scripts/estados/reexecutar_pe_recuperacao_utf8.py": "e0b000b401530c6b695bb9edbdaf19cad248344f5ea9b50a1803dd560730ff21",
+    "scripts/estados/snapshots/auditar_pe_recuperacao_utf8_20261021_001.py": "c457fc317c34a08c13ce120c0e8ffcc508cdd7e2ca5615f8032f8df8abf48cd9",
+    "scripts/estados/snapshots/auditar_pe_recuperacao_utf8_20261021_002.py": "bdc30992ad6c1c4c4d252353897d8b5185b803911f7cdfe4b0336ffef7301f6f",
+    "scripts/estados/snapshots/auditar_pe_recuperacao_utf8_20261021_003.py": "d38b6f839a37d5def7a2997fcc2bb4cc818cc0480db58faf65efbed20e187b87",
+    "scripts/estados/snapshots/test_pe_recuperacao_utf8_20261021_001.py": "5d151d11dd2da20d513a18c7245855e5cf6a6d66ff856a89bba880fb0906f989"
+  },
+  "testes": "6 testes passaram, incluindo UTF-8 versus CP1252, nome literal, negativo/decimal/percentual/tabela, identidade divergente, data/ano da própria epígrafe, imagem/tachado/ocultação e remissão a anexo próprio com tabela genérica insuficiente.",
+  "runtime": "PYTHONPATH=/tmp/constituicao-markdown-qa-20261020:scripts:scripts/estados; /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3; markdown-it-py==4.0.0",
+  "replays": [
+    {
+      "path": "estaduais/PE/_fonte/auditorias/pe-recuperacao-utf8-final-20261021-001/pe-recuperacao-utf8-replay-20261021-001.json.gz",
+      "sha256": "742f0075f73c71c20e60047e9180cd10559349cf11a0461b5fe877ab3095cd54"
+    },
+    {
+      "path": "estaduais/PE/_fonte/auditorias/pe-recuperacao-utf8-final-20261021-001/pe-recuperacao-utf8-replay-20261021-002.json.gz",
+      "sha256": "4e0b5e10ae9ea16009856ead0bfa1ad904e03c7110d37576f2921a3780a9eea2"
+    }
+  ]
+}

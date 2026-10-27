@@ -1,0 +1,1270 @@
+{
+  "auditado_em": "2026-10-21T05:25:45.808118-03:00",
+  "total_auditado": 1743,
+  "total_publicavel": 1686,
+  "total_retido": 57,
+  "sha256_capturas_completas": "994abc6d69ce71889de9a79df17429d2eb792c9c33438ebcdfb8bf43ea1fdb56",
+  "prefixo_QA_001": {
+    "bytes": 2173915,
+    "sha256": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084"
+  },
+  "criterio": "Coleção1743=prefixo1652 mais sufixo91 do mesmo log2000 sem reexecutar rede. Atualização do helper de identidade e apresentação exigiu replay integral nos aprovados. ID/índice/tipo/número/data/ano/versão/fonte, dispositivo próprio, avisos/objetos/anexos/visuais/tachados/ocultação/símbolos conservadores; CommonMark integral/sinais/pontuação e matrizes celulares multilinhas. Só fontes completas e None para revogada sem situação literal. CSS externo ausente não certificado.",
+  "retidos": [
+    {
+      "path": "estaduais/PE/portarias/2025/port-8-2025-id81994.md",
+      "id_oficial": "81994",
+      "item_indice": {
+        "id": "81994",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 8",
+        "publicacao": "Publicada no DOE 18/02/2025",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Designa e formaliza a composição da Comissão Permanente de Licitação."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2025/port-8-2025-id81994.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/81994/TEXTOORIGINAL/fc7cd8453c2693c97126a500a6fb1059ba50203c1b2d8fb6d927466695a20cf6.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:17.434361-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: outra epígrafe completa exige revisão de granularidade"
+    },
+    {
+      "path": "estaduais/PE/portarias/2025/port-5-2025-id81962.md",
+      "id_oficial": "81962",
+      "item_indice": {
+        "id": "81962",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 5",
+        "publicacao": "Publicada no DOE 18/02/2025",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Designa e formaliza a composição da Comissão de Pregão."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2025/port-5-2025-id81962.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/81962/TEXTOORIGINAL/41e1a4336a0d79d4217c17dfc3a306ce5f1ab937389739a33fed70a7f503c841.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:17.446646-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: outra epígrafe completa exige revisão de granularidade"
+    },
+    {
+      "path": "estaduais/PE/portarias/2025/port-4-2025-id81961.md",
+      "id_oficial": "81961",
+      "item_indice": {
+        "id": "81961",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 4",
+        "publicacao": "Publicada no DOE 07/02/2025",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Dispensa membros da Comissão de Pregão."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2025/port-4-2025-id81961.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/81961/TEXTOORIGINAL/24a987160b1027becc9855ac89d8d385306b7ee2836cfa7cd92198a132e784d6.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:17.462442-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: outra epígrafe completa exige revisão de granularidade"
+    },
+    {
+      "path": "estaduais/PE/portarias/2024/port-360-2024-id76633.md",
+      "id_oficial": "76633",
+      "item_indice": {
+        "id": "76633",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 360",
+        "publicacao": "Publicada no DOE 17/02/2024",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Fixa o quantitativo de servidores responsáveis por Suprimento Individual da Assembleia Legislativa do Estado de Pernambuco."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2024/port-360-2024-id76633.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/76633/TEXTOORIGINAL/dd0c2441ca7e413644431d7861cda992080273cae9604740c910428092c69c9e.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:17.928465-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+    },
+    {
+      "path": "estaduais/PE/portarias/2022/port-356-2022-id61836.md",
+      "id_oficial": "61836",
+      "item_indice": {
+        "id": "61836",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 356",
+        "publicacao": "Publicada no DOE 23/02/2022",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Designa e formaliza a composição da Comissão Permanente de Licitação - CPL."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2022/port-356-2022-id61836.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/61836/TEXTOORIGINAL/2870c0df8229d4cf385c01ed7ff437131d54fe5bcb6ac6e5ef588fd244afa1c7.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:18.204009-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+    },
+    {
+      "path": "estaduais/PE/portarias/2022/port-355-2022-id61835.md",
+      "id_oficial": "61835",
+      "item_indice": {
+        "id": "61835",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 355",
+        "publicacao": "Publicada no DOE 23/02/2022",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Designa e formaliza a composição da Comissão de Pregão."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2022/port-355-2022-id61835.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/61835/TEXTOORIGINAL/3652f4da0d6c203ab3e36f534cc7f01606d0b0ee882541dcaf6b684e9bfc84e9.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:18.219700-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+    },
+    {
+      "path": "estaduais/PE/portarias/2020/port-371-2020-id48995.md",
+      "id_oficial": "48995",
+      "item_indice": {
+        "id": "48995",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 371",
+        "publicacao": "Publicada no DOE 06/02/2020",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Fixa o quantitativo de servidores responsáveis por Suprimento Individual da Assembleia Legislativa do Estado de Pernambuco."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2020/port-371-2020-id48995.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/48995/TEXTOORIGINAL/98cdbbd6abdf2d42b9fcb2e6ca5cdefc59d4d7016ad1254d37d48b767332273e.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:18.559233-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+    },
+    {
+      "path": "estaduais/PE/portarias/2016/port-489-2016-id25620.md",
+      "id_oficial": "25620",
+      "item_indice": {
+        "id": "25620",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 489",
+        "publicacao": "Publicada no DOE 16/12/2016",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Define o período e horário do recesso administrativo deste Poder Legislativo."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2016/port-489-2016-id25620.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/25620/TEXTOORIGINAL/e5943c4bd6de317ad46f124305ee1ed8d3e2dfdb03ab2df05fd7e24009a57d63.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:18.746942-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: remissão própria ou citada a anexo exige contexto; tabela genérica não comprova"
+    },
+    {
+      "path": "estaduais/PE/portarias/2016/port-382-2016-id19141.md",
+      "id_oficial": "19141",
+      "item_indice": {
+        "id": "19141",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 382",
+        "publicacao": "Publicada no DOE 05/03/2016",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Designa para compor a Comissão Permanente de Pregão na função de Equipe de Apoio, o servidor CELSO DE SOUZA ALMEIDA, matrícula nº 25631, em substituição ao servidor ÁLVARO JOSÉ DOS SANTOS, matrícula nº 186, nos termos da Lei nº 12.794/05, retroagindo ao dia 23 de fevereiro do corrente ano."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2016/port-382-2016-id19141.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/19141/TEXTOORIGINAL/bdcc8b29e82b723913d962f8eddf96ec72619203d75fad72a4dd64f6974fdad3.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:18.760088-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+    },
+    {
+      "path": "estaduais/PE/portarias/2016/port-372-2016-id18779.md",
+      "id_oficial": "18779",
+      "item_indice": {
+        "id": "18779",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 372",
+        "publicacao": "Publicada no DOE 23/02/2016",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Designação para compor a Comissão Permanente de Licitação na função de membro titular, a servidora SUZANA MARIA DE AGUIAR, matrícula nº 42.401, em substituição a servidora ROBERTA SANTANA DO AMARAL, matrícula nº 318, a partir do dia 23 de fevereiro do corrente ano."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2016/port-372-2016-id18779.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/18779/TEXTOORIGINAL/fc2c4254728c2b32f23a7865b4c844fd6093aaefa92324be8e75ffd03151db43.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:18.774514-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+    },
+    {
+      "path": "estaduais/PE/portarias/2016/port-345-2016-id18084.md",
+      "id_oficial": "18084",
+      "item_indice": {
+        "id": "18084",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 345",
+        "publicacao": "Publicada no DOE 12/01/2016",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Fixa o quantitativo de servidores responsáveis por Suprimento Individual da Assembleia Legislativa do Estado de Pernambuco, para o exercício de 2016."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2016/port-345-2016-id18084.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/18084/TEXTOORIGINAL/aac71e207d0633991575bb6f173418d1b34b6be348c0c1dcf8585a9f00547a28.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:18.788097-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+    },
+    {
+      "path": "estaduais/PE/portarias/2015/port-249-2015-id14991.md",
+      "id_oficial": "14991",
+      "item_indice": {
+        "id": "14991",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 249",
+        "publicacao": "Publicada no DOE 10/09/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Formaliza a composição da Comissão de Pregoeiro nos termos da Lei nº 12.794/2005."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2015/port-249-2015-id14991.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/14991/TEXTOORIGINAL/677f5d8c57da3494a5ae026857502f6d92ef100e57fc81d59c1938908f535b42.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:18.802236-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+    },
+    {
+      "path": "estaduais/PE/portarias/2015/port-245-2015-id14898.md",
+      "id_oficial": "14898",
+      "item_indice": {
+        "id": "14898",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 245",
+        "publicacao": "Publicada no DOE 05/09/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Formaliza a composição da Comissão Permanente de Licitação, conforme relação abaixo, nos termos do Ato nº 210/95 do Presidente da Assembleia Legislativa do Estado de Pernambuco."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2015/port-245-2015-id14898.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/14898/TEXTOORIGINAL/09e65b49905a7d1a9b60ff4b0e4b80d070f7e197d000c16396f9d59639edb401.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:18.820356-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+    },
+    {
+      "path": "estaduais/PE/portarias/2015/port-242-2015-id14858.md",
+      "id_oficial": "14858",
+      "item_indice": {
+        "id": "14858",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 242",
+        "publicacao": "Publicada no DOE 03/09/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Formaliza a composição da Comissão Permanente de Licitação."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2015/port-242-2015-id14858.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/14858/TEXTOORIGINAL/3f7d83df30957bd675ee3fb1be182aec836b0f6466a830d15875a27e3cc71fc0.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:18.860102-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+    },
+    {
+      "path": "estaduais/PE/portarias/2011/port-734-2011-id10037.md",
+      "id_oficial": "10037",
+      "item_indice": {
+        "id": "10037",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 734",
+        "publicacao": "Publicada no DOE 14/01/2011",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Fixa Quantitativo de servidores responsáveis por suprimento individual."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2011/port-734-2011-id10037.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/10037/TEXTOORIGINAL/2eb6693cbd1083c7fdaca7e26ed8108ad8503f7b1b2a4d8987f25ab0b7abe0b0.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:18.910867-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+    },
+    {
+      "path": "estaduais/PE/portarias/2014/port-635-2014-id9463.md",
+      "id_oficial": "9463",
+      "item_indice": {
+        "id": "9463",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 635",
+        "publicacao": "Publicada no DOE 16/12/2014",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Designa servidor para representar o Poder Legislativo Estadual no sistema E-CAP."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2014/port-635-2014-id9463.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/9463/TEXTOORIGINAL/2e111f0d8b71f0e0687f37531c35168db0bd399dd6334f89820f1f5761a5b5c6.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:18.968749-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+    },
+    {
+      "path": "estaduais/PE/portarias/2015/port-693-2015-id4181.md",
+      "id_oficial": "4181",
+      "item_indice": {
+        "id": "4181",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 693",
+        "publicacao": "Publicada no DOE 22/01/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Fixa o quantitativo de servidores responsáveis por Suprimento Individual da Assembleia Legislativa do Estado de Pernambuco, para o exercício de 2015."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2015/port-693-2015-id4181.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/4181/TEXTOORIGINAL/4029a171b01d40dac1a5da0a7e14e59392d9e24b89d0e469e52fa2dacc375260.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:19.007685-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+    },
+    {
+      "path": "estaduais/PE/portarias/2011/port-76-2011-id4045.md",
+      "id_oficial": "4045",
+      "item_indice": {
+        "id": "4045",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 76",
+        "publicacao": "Publicada no DOE 24/02/2011",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Cria Grupo de Trabalho para planejar e implementar sistemática para atender às Nomas Brasilieras de Contabilidade Aplicadas ao Setor Público - NBCASP."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2011/port-76-2011-id4045.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/4045/TEXTOORIGINAL/39f239bba17d7a7a4a0e843be3146adc45eaaf7d2941616f42b60e3791ca3cb1.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:19.041536-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+    },
+    {
+      "path": "estaduais/PE/portarias/2014/port-624-2014-id2578.md",
+      "id_oficial": "2578",
+      "item_indice": {
+        "id": "2578",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 624",
+        "publicacao": "Publicada no DOE 18/06/2014",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Formaliza a composição da Comissão Permanente de Licitação da Assembleia Legislativa de Pernambuco."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2014/port-624-2014-id2578.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/2578/TEXTOORIGINAL/5d54df87d8863ae448c391c4f23d0dfac7f4fec7a2ebebee839e260b9722fdf1.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:19.081440-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+    },
+    {
+      "path": "estaduais/PE/portarias/2014/port-625-2014-id2463.md",
+      "id_oficial": "2463",
+      "item_indice": {
+        "id": "2463",
+        "tipo": "8",
+        "nome": "Portaria Administrativa da Alepe n° 625",
+        "publicacao": "Publicada no DOE 18/06/2014",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Formaliza a composição da Comissão Permanente de Pregão da Assembleia Legislativa de Pernambuco."
+      },
+      "cache": "estaduais/PE/_fonte/portarias/2014/port-625-2014-id2463.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/2463/TEXTOORIGINAL/6a1ef2f8ecea72ec6d51f56d4330ac0e34ee4f2ba4fdf8276a1303cd3c0a40c9.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:19.119933-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/1991/res-152-1991-id48839.md",
+      "id_oficial": "48839",
+      "item_indice": {
+        "id": "48839",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 152",
+        "publicacao": "Publicada no DOE 19/10/1991",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Aprova a Prestação de Contas do Estado do ano de 1990."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/1991/res-152-1991-id48839.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/48839/TEXTOORIGINAL/f26d21a7b373e8afc28a74ef1e247ab30e5dd5e0fbfc9dc4911c61ab561c4c30.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:35.102407-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: objeto aprovado sem título representado exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/1994/res-236-1994-id43499.md",
+      "id_oficial": "43499",
+      "item_indice": {
+        "id": "43499",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 236",
+        "publicacao": "Publicada no DOE 08/12/1994",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Recomenda aprovação do balanço geral do Estado, relativo ao ano de 1993."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/1994/res-236-1994-id43499.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/43499/TEXTOORIGINAL/d5f1f396bce21e8841d63ef6ed64e80f393fc6fa0add59ff7ff5f508192d5e31.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:37.853848-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: objeto aprovado sem título representado exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2018/res-1547-2018-id40815.md",
+      "id_oficial": "40815",
+      "item_indice": {
+        "id": "40815",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.547",
+        "publicacao": "Publicada no DOE 14/11/2018",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Altera a Resolução nº 1.270, de 26 de novembro de 2014 que institui os modelos de Carteira de Identificação Funcional dos Deputados, Procurador Geral, Superintendentes, Auditor-chefe, Secretário-Geral, Consultor-Geral, Servidores Efetivos Ativos e Servidores Efetivos Inativos da Assembleia Legislativa do Estado de Pernambuco."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2018/res-1547-2018-id40815.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/40815/TEXTOORIGINAL/ec56eaa52e89be5676f3a082f4ba6d6bc939db01dec6be142f240f91e3849d3d.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:38.470942-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/1996/res-289-1996-id31316.md",
+      "id_oficial": "31316",
+      "item_indice": {
+        "id": "31316",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 289",
+        "publicacao": "Publicada no DOE 04/05/1996",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Aprova a Prestação de Contas da Mesa Diretora, relativo ao exercício de 1995."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/1996/res-289-1996-id31316.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/31316/TEXTOORIGINAL/5c3710629a965de2a514a7e5c7e0e0edcde050829c28b2688964a92cbf957e22.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:40.751243-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: objeto aprovado sem título representado exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/1970/res-852-1970-id27749.md",
+      "id_oficial": "27749",
+      "item_indice": {
+        "id": "27749",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 852",
+        "publicacao": "Publicada no DOE 14/03/1971",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Adapta o Regimento Interno as novas disposições legais."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/1970/res-852-1970-id27749.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/27749/TEXTOORIGINAL/d4be68c96fad76856bca596df8902f3b0393f2172f8b300d25cf5fad192a9972.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:42.099800-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1344-2015-id17783.md",
+      "id_oficial": "17783",
+      "item_indice": {
+        "id": "17783",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.344",
+        "publicacao": "Publicada no DOE 17/12/2015",
+        "textos": [
+          "TEXTOANOTADO",
+          "TEXTOATUALIZADO",
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Dispõe sobre a avaliação especial de desempenho do estágio probatório dos servidores da Assembleia Legislativa do Estado de Pernambuco e dá outras providências."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1344-2015-id17783.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/17783/TEXTOATUALIZADO/2c91cc48950007060be8fab142837df23b55b38ef3eb67da9c2b44640708ba3a.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:43.545954-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1342-2015-id17721.md",
+      "id_oficial": "17721",
+      "item_indice": {
+        "id": "17721",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.342",
+        "publicacao": "Publicada no DOE 15/12/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Título Honorifico de Cidadão Pernambucano a Guilherme Augusto Machado."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1342-2015-id17721.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/17721/TEXTOORIGINAL/71d74d9c20244af7bcf0a8648bf7e01a395f9e827b264abdf79ca857e0b67a2b.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:43.612713-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1341-2015-id17720.md",
+      "id_oficial": "17720",
+      "item_indice": {
+        "id": "17720",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.341",
+        "publicacao": "Publicada no DOE 15/12/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Título Honorífico de Cidadão Pernambucano ao agrônomo Gutemberg Grangeiro Maciel."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1341-2015-id17720.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/17720/TEXTOORIGINAL/4455ad32c3c0d4f4ec100f59885416a06d1b42c4a5e7de5f16f55ca4cd7d22e8.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:43.626186-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1340-2015-id17719.md",
+      "id_oficial": "17719",
+      "item_indice": {
+        "id": "17719",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.340",
+        "publicacao": "Publicada no DOE 15/12/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Título Honorífico de Cidadão Pernambucano ao Senhor José Raimundo dos Santos Costa."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1340-2015-id17719.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/17719/TEXTOORIGINAL/d87a3b6f71422feff8d73163988fab4542bac5165677852263bda4cdce8a36ef.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:43.637991-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1339-2015-id17447.md",
+      "id_oficial": "17447",
+      "item_indice": {
+        "id": "17447",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.339",
+        "publicacao": "Publicada no DOE 01/12/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Título Honorífico de Cidadão Pernambucano ao Ilustríssimo Sr. Stéphane Frantz Emmanuel Engelhard."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1339-2015-id17447.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/17447/TEXTOORIGINAL/d25ee28ea569b665f4de97cd0b576d67835fd19731210556ebaf0564fdf782e7.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:43.651861-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1336-2015-id16898.md",
+      "id_oficial": "16898",
+      "item_indice": {
+        "id": "16898",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.336",
+        "publicacao": "Publicada no DOE 11/11/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Título Honorífico de Cidadão Pernambucano ao Exmo. Sr. Júlio Emilio Lossio de Macêdo."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1336-2015-id16898.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/16898/TEXTOORIGINAL/75f03e734c82bbaf632bdcfa041bf9ebd2b71b8f68f742062e809296a0642c9b.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:43.691525-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1335-2015-id16768.md",
+      "id_oficial": "16768",
+      "item_indice": {
+        "id": "16768",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.335",
+        "publicacao": "Publicada no DOE 05/11/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede licença em caráter Cultural ao Deputado José Humberto Cavalcanti."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1335-2015-id16768.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/16768/TEXTOORIGINAL/84cbd7334df7a841e0c776dbad8212f4ea423068e7a732bca60c5e520df46c61.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:43.705105-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1334-2015-id16767.md",
+      "id_oficial": "16767",
+      "item_indice": {
+        "id": "16767",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.334",
+        "publicacao": "Publicada no DOE 05/11/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Título Honorífico de Cidadão Pernambucano a Paulo Rubem Santiago Ferreira."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1334-2015-id16767.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/16767/TEXTOORIGINAL/8b49427f231f186d586a5a307b8ef6bcc1d78d07547be9ce93ede8512e215c4c.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:43.719210-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1333-2015-id16766.md",
+      "id_oficial": "16766",
+      "item_indice": {
+        "id": "16766",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.333",
+        "publicacao": "Publicada no DOE 05/11/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Título Honorífico de Cidadão Pernambucano ao Coronel Bombeiro Militar Manoel Francisco de Oliveira Cunha Filho."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1333-2015-id16766.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/16766/TEXTOORIGINAL/039555a7ca26559fbbdb24c534ac08c561b5152997046cc3bc5d53598d5ec407.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:43.731824-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1332-2015-id16302.md",
+      "id_oficial": "16302",
+      "item_indice": {
+        "id": "16302",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.332",
+        "publicacao": "Publicada no DOE 15/10/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Aprova a apresentação à Câmara dos Deputados de Proposta de Emenda à Constituição Federal, visando alterar os arts. 22 e 24 da Constituição Federal, para tornar competências legislativas privativas da União em concorrentes com os Estados e o Distrito Federal."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1332-2015-id16302.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/16302/TEXTOORIGINAL/e8cf14c0f470c12147cd80d7bd9dadbc0fbdd0d6081612958682e8ec858cccd1.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:43.744667-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1331-2015-id16301.md",
+      "id_oficial": "16301",
+      "item_indice": {
+        "id": "16301",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.331",
+        "publicacao": "Publicada no DOE 15/10/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Aprova a apresentação à Câmara dos Deputados de Proposta de Emenda à Constituição Federal, visando alterar os arts. 166 e 198 da Constituição Federal, para o fim de estabelecer que a União destine, no mínimo, 10% (dez por cento) da sua receita corrente bruta às ações e serviços públicos de saúde, excluindo do cômputo deste percentual as emendas parlamentares ao orçamento federal."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1331-2015-id16301.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/16301/TEXTOORIGINAL/c8df8005508b91f5e546ca79da26682cd1d9fa8598b87fdf0575d0a2674c6264.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:43.761635-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1330-2015-id16300.md",
+      "id_oficial": "16300",
+      "item_indice": {
+        "id": "16300",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.330",
+        "publicacao": "Publicada no DOE 15/10/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Aprova a apresentação à Câmara dos Deputados de Proposta de Emenda à Constituição Federal, visando acrescentar inciso IV ao art. 60 da Constituição Federal, para estabelecer a iniciativa popular para apresentação de Proposta de Emenda à Constituição."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1330-2015-id16300.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/16300/TEXTOORIGINAL/824805324f92d5aab8e955fb7b37f9aaf894fc13f070cbbaa39ff4c7833d48fd.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:43.793505-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1311-2015-id14433.md",
+      "id_oficial": "14433",
+      "item_indice": {
+        "id": "14433",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.311",
+        "publicacao": "Publicada no DOE 20/08/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Título Honorífico de Cidadã Pernambucana a Ilustríssima Senhora Doutora Liana Maria Vieira de Oliveira Ventura."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1311-2015-id14433.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/14433/TEXTOORIGINAL/e6bb1dd489db0cea4ce20061b554ad27433b7d38926201257e8d77eb34cc4266.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:44.091036-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1310-2015-id14432.md",
+      "id_oficial": "14432",
+      "item_indice": {
+        "id": "14432",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.310",
+        "publicacao": "Publicada no DOE 28/08/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Cria a Medalha Comemorativa em celebração ao centenário de nascimento do Ex-Governador Miguel Arraes de Alencar."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1310-2015-id14432.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/14432/TEXTOORIGINAL/dd08b3d0bbf37b84e62d4e190626b5c934420a9c582864619743bdcf563521fe.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:44.105524-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1308-2015-id14212.md",
+      "id_oficial": "14212",
+      "item_indice": {
+        "id": "14212",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.308",
+        "publicacao": "Publicada no DOE 13/08/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Aprova a indicação governamental à pessoa mencionada para o cargo de Diretor Presidente de Regulação dos Serviços Públicos Delegados do Estado de Pernambuco (ARPE)."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1308-2015-id14212.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/14212/TEXTOORIGINAL/e2de6c20d12107993beb49fc4bc4b355990715b8940c6dd61af0253dc1e8060a.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:44.142885-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1307-2015-id11082.md",
+      "id_oficial": "11082",
+      "item_indice": {
+        "id": "11082",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.307",
+        "publicacao": "Publicada no DOE 30/06/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede licença em caráter Cultural ao Deputado Miguel Coelho."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1307-2015-id11082.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/11082/TEXTOORIGINAL/e7b8e7bbf2524b1552752872fdb7b0bb417a65e938f1d2879447e29af75d9f6f.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:44.157287-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1306-2015-id10910.md",
+      "id_oficial": "10910",
+      "item_indice": {
+        "id": "10910",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.306",
+        "publicacao": "Publicada no DOE 18/06/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Título Honorífico de Cidadão Pernambucano ao escritor José Domício Coutinho."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1306-2015-id10910.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/10910/TEXTOORIGINAL/e51f9694c326cd6eefd3361166ff904401c0a0ab6d59c968c735390bcae8613e.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:44.173825-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1305-2015-id10909.md",
+      "id_oficial": "10909",
+      "item_indice": {
+        "id": "10909",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.305",
+        "publicacao": "Publicada no DOE 18/06/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Título Honorífico de Cidadão Pernambucano ao Dr. Manoel Jerônimo de Melo Neto."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1305-2015-id10909.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/10909/TEXTOORIGINAL/1b5311ec1909245204d314f15e62029b7ed5492511f2feb0e9c0fea38afbd5cf.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:44.185296-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1304-2015-id10908.md",
+      "id_oficial": "10908",
+      "item_indice": {
+        "id": "10908",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.304",
+        "publicacao": "Publicada no DOE 18/06/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede licença em caráter Cultural ao Deputado Joaquim Lira."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1304-2015-id10908.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/10908/TEXTOORIGINAL/ccc7f3d68331d708f7889f1e5bb46cf79e5dae60609be66c61b2c134b66dfbae.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:44.198732-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1303-2015-id10872.md",
+      "id_oficial": "10872",
+      "item_indice": {
+        "id": "10872",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.303",
+        "publicacao": "Publicada no DOE 17/06/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Altera a Resolução nº 1.270, de 26 de novembro de 2014, Institui os modelos de Carteira de Identificação Funcional dos Deputados, Procurador Geral, Superintendentes, Auditor-chefe, Secretário-Geral, Consultor-Geral, Servidores Efetivos Ativos e Servidores Efetivos Inativos da Assembleia Legislativa do Estado de Pernambuco."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1303-2015-id10872.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/10872/TEXTOORIGINAL/09dbcc7fb7207b2ccd76e237b4a9ebee8b0065e7ed567406911e44662fd61952.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:44.211442-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2014/res-1271-2014-id10609.md",
+      "id_oficial": "10609",
+      "item_indice": {
+        "id": "10609",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.271",
+        "publicacao": "Publicada no DOE 10/12/2014",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede Título de Cidadã à Senhora Andrea Fernandes Nunes Padilha."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2014/res-1271-2014-id10609.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/10609/TEXTOORIGINAL/76ed3bd4e8111b403d50c4b68e8409c8e4849b5f28e22dd285a244d61802d8fa.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:44.402980-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2011/res-1045-2011-id10549.md",
+      "id_oficial": "10549",
+      "item_indice": {
+        "id": "10549",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.045",
+        "publicacao": "Publicada no DOE 02/06/2011",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Título Honorífico de Cidadão Pernambucano ao Geólogo Alarico Antônio Frota Mont'Alverne."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2011/res-1045-2011-id10549.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/10549/TEXTOORIGINAL/f6553fa12d609ca4f8a2e60a877f8ba46b4d7226a6b36fda88152213c1a17eca.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:44.565081-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2011/res-1034-2011-id10546.md",
+      "id_oficial": "10546",
+      "item_indice": {
+        "id": "10546",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.034",
+        "publicacao": "Publicada no DOE 19/04/2011",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Título de Cidadão a João Mauricio Leitão Adeodato."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2011/res-1034-2011-id10546.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/10546/TEXTOORIGINAL/7f36e840992c1676ba66ff1bc4b97f3d1c818df61082ab4ea12dd44beb817a78.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:44.579819-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2011/res-1035-2011-id10503.md",
+      "id_oficial": "10503",
+      "item_indice": {
+        "id": "10503",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.035",
+        "publicacao": "Publicada no DOE 19/04/2011",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Titulo de Cidadão Pernambuco ao ilustríssimo Sr. Frederico da Costa Amâncio."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2011/res-1035-2011-id10503.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/10503/TEXTOORIGINAL/cf9f9e9f92fe9d9d3fa1c6434ce0e7ffae9a12e1be8379f37a5150767794e012.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:44.775020-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2011/res-1041-2011-id10190.md",
+      "id_oficial": "10190",
+      "item_indice": {
+        "id": "10190",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.041",
+        "publicacao": "Publicada no DOE 17/05/2011",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede Licença em Caráter Cultural ao Deputado Izaías Régis."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2011/res-1041-2011-id10190.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/10190/TEXTOORIGINAL/645d0a926d43e1e8598291bfe42eb9417801f6b4a0ebc1bc041abec34e899c72.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:45.469014-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2010/res-996-2010-id10083.md",
+      "id_oficial": "10083",
+      "item_indice": {
+        "id": "10083",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 996",
+        "publicacao": "Publicada no DOE 04/06/2010",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede Medalha Leão do Norte, Classe Ouro, Mérito Direitos Humanos Herbert de Souza, ao Promotor Marcellus de Albuquerque Ugiette."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2010/res-996-2010-id10083.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/10083/TEXTOORIGINAL/c5e8140a24380c30b5d1fb664748c39ccb0a77d1ac64bcd17e845d80c7d554e9.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:45.656940-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2006/res-804-2006-id9732.md",
+      "id_oficial": "9732",
+      "item_indice": {
+        "id": "9732",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 804",
+        "publicacao": "Publicada no DOE 20/12/2006",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Título de Cidadão de Pernambuco ao Delegado de Polícia Federal Bergson Toledo Silva."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2006/res-804-2006-id9732.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/9732/TEXTOORIGINAL/f91458a402814ed5f5d7bd91c15de4aa3d258db2cabea7b172fee54591e8fac8.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:46.388213-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2011/res-1036-2011-id9582.md",
+      "id_oficial": "9582",
+      "item_indice": {
+        "id": "9582",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.036",
+        "publicacao": "Publicada no DOE 20/04/2011",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede licença em caráter Cultural ao Deputado Clodoaldo Magalhães."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2011/res-1036-2011-id9582.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/9582/TEXTOORIGINAL/ab15648a4e5153f3b5081a83063958f9f066417dfa34790f823a5e275d654d4f.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:46.642479-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2006/res-803-2006-id9481.md",
+      "id_oficial": "9481",
+      "item_indice": {
+        "id": "9481",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 803",
+        "publicacao": "Publicada no DOE 20/12/2006",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Título Honorífico de Cidadã do Estado de Pernambuco à Empresária Luciana Gomes Hazin."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2006/res-803-2006-id9481.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/9481/TEXTOORIGINAL/b77622714eacb14802784313df2205b88212d3b718564e47682ae3108e71d20a.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:02:46.803955-03:00",
+      "bytes_prefixo_log": 2173915,
+      "sha256_prefixo_log": "8397df18f348bc07085398cd9a6d3f64549b21c7deb8f6e0d1f340d1e1261084",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2011/res-1026-2011-id9316.md",
+      "id_oficial": "9316",
+      "item_indice": {
+        "id": "9316",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.026",
+        "publicacao": "Publicada no DOE 25/02/2011",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede licença em caráter Cultural ao Deputado João Fernando Coutinho."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2011/res-1026-2011-id9316.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/9316/TEXTOORIGINAL/807262ccf07f4139e60845f6cacc7aa024d4f1d31d3537f8ee1242aa5c28ce0b.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:05:55.077351-03:00",
+      "bytes_prefixo_log": 103383,
+      "sha256_prefixo_log": "3ebcea760579999260a7ca2355c48d28bb2e3c48c837e69b0bf5c911ee0548bc",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2011/res-1028-2011-id9279.md",
+      "id_oficial": "9279",
+      "item_indice": {
+        "id": "9279",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.028",
+        "publicacao": "Publicada no DOE 23/03/2011",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede a Medalha do Mérito Democrático e Popular Frei Caneca a Associação Criança Cidadã - ABCC."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2011/res-1028-2011-id9279.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/9279/TEXTOORIGINAL/b6c6a19702b183b47bcc6e593ac757cb08d9edc532b09bb5b02d25d822833dad.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:05:55.189126-03:00",
+      "bytes_prefixo_log": 103383,
+      "sha256_prefixo_log": "3ebcea760579999260a7ca2355c48d28bb2e3c48c837e69b0bf5c911ee0548bc",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2011/res-1027-2011-id9027.md",
+      "id_oficial": "9027",
+      "item_indice": {
+        "id": "9027",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.027",
+        "publicacao": "Publicada no DOE 23/03/2011",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede a Medalha de Mérito Democrático e Popular Frei Caneca a Dom Genival Saraiva de França, Bispo da Diocese de Palmares,mata sul pernambucana."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2011/res-1027-2011-id9027.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/9027/TEXTOORIGINAL/c44e560cc0087b35b91a5dcffeba7ee019f01c9b98e4d65eadaa6e2c30c5398e.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:05:55.277844-03:00",
+      "bytes_prefixo_log": 103383,
+      "sha256_prefixo_log": "3ebcea760579999260a7ca2355c48d28bb2e3c48c837e69b0bf5c911ee0548bc",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    }
+  ]
+}

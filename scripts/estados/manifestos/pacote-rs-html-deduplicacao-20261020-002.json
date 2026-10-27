@@ -1,0 +1,36 @@
+{
+  "supersede_decisao_colisoes_de": "scripts/estados/manifestos/pacote-rs-html-deduplicacao-20261020-001.json",
+  "criterio": "URLs/IDs diferentes não autorizam duplicação da mesma norma. Colisões de tipo/número/data revisadas no conteúdo literal. Sufixos alfabéticos são parte da identidade; seu desaparecimento em metadata exige retenção. Nenhum corpo/metadata alterado neste fechamento.",
+  "retidos": [
+    {
+      "path_retido": "estaduais/RS/decretos/2005/dec- 44230-2005-id49319.md",
+      "path_distinto_ou_canonico": "estaduais/RS/decretos/2005/dec-44230-2005-id49323.md",
+      "sha256_retido": "62cc9d7e29026baad7091923f9812b299f9b73b51c193dc18e3d76701643fd0c",
+      "sha256_canonico": "fd910057cbca17e9608db3778df58f7acb981927560b69a968b8f265448222c1",
+      "classificacao": "alias_comprovado",
+      "motivo": "alias da mesma norma: epígrafe, tipo, número, data e corpo conferidos; diferenças apenas de apresentação",
+      "epigrafe_retida": "**DECRETONº 44.230, DE 29 DE DEZEMBRO DE 2005.**",
+      "epigrafe_comparada": "**DECRETONº 44.230, DE 29 DE DEZEMBRO DE 2005.**",
+      "corpo_apos_titulo_igual": true,
+      "texto_sem_tags_whitespace_igual": true,
+      "diferencas_texto_sem_tags": [],
+      "fontes_preservadas": true,
+      "nenhum_md_alterado_ou_apagado": true
+    },
+    {
+      "path_retido": "estaduais/RS/decretos/2004/dec- 43547-2004-id48328.md",
+      "path_distinto_ou_canonico": "estaduais/RS/decretos/2004/dec-43547-2004-id48340.md",
+      "sha256_retido": "3e9261d732f06f745dd062b49d6572b46d23b3e7285ba5027065f0ee11b45e08",
+      "sha256_canonico": "2e635c6b3a6e2303b53e182cdcbfc53e5f679283bd43ec752a4ef289e00e7ed6",
+      "classificacao": "alias_comprovado",
+      "motivo": "alias da mesma norma: epígrafe, tipo, número, data e corpo conferidos; diferenças apenas de apresentação",
+      "epigrafe_retida": "**DECRETO Nº 43.547, DE 31 DE DEZEMBRO DE 2004.**",
+      "epigrafe_comparada": "**DECRETO Nº 43.547, DE 31 DE DEZEMBRO DE 2004.**",
+      "corpo_apos_titulo_igual": true,
+      "texto_sem_tags_whitespace_igual": true,
+      "diferencas_texto_sem_tags": [],
+      "fontes_preservadas": true,
+      "nenhum_md_alterado_ou_apagado": true
+    }
+  ]
+}

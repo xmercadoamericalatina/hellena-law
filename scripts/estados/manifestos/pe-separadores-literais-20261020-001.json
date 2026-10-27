@@ -1,0 +1,1018 @@
+{
+  "total": 30,
+  "total_linhas": 63,
+  "origem": "30 MD retidos temporariamente do pacote PE final 002 para normalização de apresentação Markdown de separadores oficiais. A quantidade exata de sinais = e eventual aspas final foram conferidas no campo HTML oficial.",
+  "documentos": [
+    {
+      "path": "estaduais/PE/decretos/2001/dec-23347-2001-id62035.md",
+      "sha256_md_anterior_pacote_002": "add31c2ed69fe9663f93c236554672798b40c7b5e6b60a74767e235edc0b5973",
+      "sha256_md": "92acd98ca6beee08ddf992bc6c5b03259db55b16915e2023a2a9a6a1c1ecefae",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/2001/dec-23347-2001-id62035.md.gz",
+      "sha256_backup_gzip": "cf79cfa171de592850220faea98dea121287ede93241227ecc84bb7a8d219210",
+      "cache": "estaduais/PE/_fonte/decretos/2001/dec-23347-2001-id62035.html.gz",
+      "sha256_cache": "b6ab1e5857b6a2e3fc113105bb64e56231dedcb65b2997427dfcc3d3cf61b573",
+      "sha256_fonte": "286101cd244126c020321ed945f09f437967e228947685815064a1c995bc45ee",
+      "sha256_campo": "8cb6b0a85364b1c508a8b7b5ef806318e9695864cb09eac81dc12ffecaa0f770",
+      "limites_campo": [
+        0,
+        26692
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 49,
+          "literal": "======================================================================",
+          "representacao": "`======================================================================`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1828,
+          "contexto_fonte": "GovernadordoEstadoCYROEUGENIOVIANACOELHOSÍLVIOPESSOADECARVALHOANEXOIPROPRIETARIO:POLIGONALDECONTORNO======================================================================MARCOCOORD.ECOORD.NAZIMUTHLADO======================================================================"
+        },
+        {
+          "linha_anterior": 53,
+          "literal": "======================================================================",
+          "representacao": "`======================================================================`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1828,
+          "contexto_fonte": "GovernadordoEstadoCYROEUGENIOVIANACOELHOSÍLVIOPESSOADECARVALHOANEXOIPROPRIETARIO:POLIGONALDECONTORNO======================================================================MARCOCOORD.ECOORD.NAZIMUTHLADO======================================================================"
+        },
+        {
+          "linha_anterior": 293,
+          "literal": "======================================================================",
+          "representacao": "`======================================================================`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1828,
+          "contexto_fonte": "GovernadordoEstadoCYROEUGENIOVIANACOELHOSÍLVIOPESSOADECARVALHOANEXOIPROPRIETARIO:POLIGONALDECONTORNO======================================================================MARCOCOORD.ECOORD.NAZIMUTHLADO======================================================================"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/2011/dec-36625-2011-id19382.md",
+      "sha256_md_anterior_pacote_002": "4b5d391956195801b04e397ee8430098d98f8a72f338e63d69333a583e2418e2",
+      "sha256_md": "496f5f25e493b36784fa59c3adbad0b2d3821a119e3782aa35b77b6dc31249aa",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/2011/dec-36625-2011-id19382.md.gz",
+      "sha256_backup_gzip": "758d724542ad38c8a8a17308234c07bde0b3fc2d022000fe3670d372e772783c",
+      "cache": "estaduais/PE/_fonte/decretos/2011/dec-36625-2011-id19382.html.gz",
+      "sha256_cache": "f64e549966c90b5fc37691a759d7557e40b965a2e09341c07a4811cc2be560f4",
+      "sha256_fonte": "78d5373fe0fec09f7756cadee41cab37c4e915341d6f793b9ac40ec68b5ad101",
+      "sha256_campo": "4570636cf78ca73f0bf85e3994014b86a7777cb9438d451f0af54cd1ac1a8411",
+      "limites_campo": [
+        0,
+        25625
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 85,
+          "literal": "==========================================================================================================================",
+          "representacao": "`==========================================================================================================================`",
+          "ocorrencia_fonte_visivel_sem_espacos": 4111,
+          "contexto_fonte": "áficaseUTMIMÓVEL:ENGENHODOUNAMUNICÍPIO:BARREIROS-PECOMARCA:BARREIROSDATUM:SAD-69MERID.CENTRAL:51°WGr==========================================================================================================================EstaçãoVanteCoord.NorteCoord.EsteAzimuteDistânciaFatorEscalaLatitudeLongitude(&CODIGO&)(m)(m)(m)===="
+        },
+        {
+          "linha_anterior": 91,
+          "literal": "==========================================================================================================================",
+          "representacao": "`==========================================================================================================================`",
+          "ocorrencia_fonte_visivel_sem_espacos": 4111,
+          "contexto_fonte": "áficaseUTMIMÓVEL:ENGENHODOUNAMUNICÍPIO:BARREIROS-PECOMARCA:BARREIROSDATUM:SAD-69MERID.CENTRAL:51°WGr==========================================================================================================================EstaçãoVanteCoord.NorteCoord.EsteAzimuteDistânciaFatorEscalaLatitudeLongitude(&CODIGO&)(m)(m)(m)===="
+        },
+        {
+          "linha_anterior": 107,
+          "literal": "==========================================================================================================================",
+          "representacao": "`==========================================================================================================================`",
+          "ocorrencia_fonte_visivel_sem_espacos": 4111,
+          "contexto_fonte": "áficaseUTMIMÓVEL:ENGENHODOUNAMUNICÍPIO:BARREIROS-PECOMARCA:BARREIROSDATUM:SAD-69MERID.CENTRAL:51°WGr==========================================================================================================================EstaçãoVanteCoord.NorteCoord.EsteAzimuteDistânciaFatorEscalaLatitudeLongitude(&CODIGO&)(m)(m)(m)===="
+        },
+        {
+          "linha_anterior": 113,
+          "literal": "==================================================================================================================",
+          "representacao": "`==================================================================================================================`",
+          "ocorrencia_fonte_visivel_sem_espacos": 5199,
+          "contexto_fonte": "===================================================Perímetro:940,82ÁreaTotal:64.094,74m2(6,409474ha)==================================================================================================================ANEXOIIMEMORIALDESCRITIVOMunicípio:BARREIROS/PEÁrea(ha):0,092558haPerímetro:152,68mInicia-seadescriç"
+        },
+        {
+          "linha_anterior": 135,
+          "literal": "==========================================================================================================================",
+          "representacao": "`==========================================================================================================================`",
+          "ocorrencia_fonte_visivel_sem_espacos": 4111,
+          "contexto_fonte": "áficaseUTMIMÓVEL:ENGENHODOUNAMUNICÍPIO:BARREIROS-PECOMARCA:BARREIROSDATUM:SAD-69MERID.CENTRAL:51°WGr==========================================================================================================================EstaçãoVanteCoord.NorteCoord.EsteAzimuteDistânciaFatorEscalaLatitudeLongitude(&CODIGO&)(m)(m)(m)===="
+        },
+        {
+          "linha_anterior": 141,
+          "literal": "==========================================================================================================================",
+          "representacao": "`==========================================================================================================================`",
+          "ocorrencia_fonte_visivel_sem_espacos": 4111,
+          "contexto_fonte": "áficaseUTMIMÓVEL:ENGENHODOUNAMUNICÍPIO:BARREIROS-PECOMARCA:BARREIROSDATUM:SAD-69MERID.CENTRAL:51°WGr==========================================================================================================================EstaçãoVanteCoord.NorteCoord.EsteAzimuteDistânciaFatorEscalaLatitudeLongitude(&CODIGO&)(m)(m)(m)===="
+        },
+        {
+          "linha_anterior": 151,
+          "literal": "==========================================================================================================================",
+          "representacao": "`==========================================================================================================================`",
+          "ocorrencia_fonte_visivel_sem_espacos": 4111,
+          "contexto_fonte": "áficaseUTMIMÓVEL:ENGENHODOUNAMUNICÍPIO:BARREIROS-PECOMARCA:BARREIROSDATUM:SAD-69MERID.CENTRAL:51°WGr==========================================================================================================================EstaçãoVanteCoord.NorteCoord.EsteAzimuteDistânciaFatorEscalaLatitudeLongitude(&CODIGO&)(m)(m)(m)===="
+        },
+        {
+          "linha_anterior": 157,
+          "literal": "==========================================================================================================================",
+          "representacao": "`==========================================================================================================================`",
+          "ocorrencia_fonte_visivel_sem_espacos": 4111,
+          "contexto_fonte": "áficaseUTMIMÓVEL:ENGENHODOUNAMUNICÍPIO:BARREIROS-PECOMARCA:BARREIROSDATUM:SAD-69MERID.CENTRAL:51°WGr==========================================================================================================================EstaçãoVanteCoord.NorteCoord.EsteAzimuteDistânciaFatorEscalaLatitudeLongitude(&CODIGO&)(m)(m)(m)===="
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/2011/dec-36626-2011-id19115.md",
+      "sha256_md_anterior_pacote_002": "bd21cede530f5c6b79b61a004677f0b19b535d1a748b69379dfe8564408b049f",
+      "sha256_md": "1b1c53d2890f3c3b2a8e38f80f11624356b678473a2a1b52745a3bb6fb53195f",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/2011/dec-36626-2011-id19115.md.gz",
+      "sha256_backup_gzip": "420c37c1597478f3e9991d2abe313a7ac14be8e25ef0986635a04b0c06d8b0d9",
+      "cache": "estaduais/PE/_fonte/decretos/2011/dec-36626-2011-id19115.html.gz",
+      "sha256_cache": "1cb6bc4a15691478688a3f69f59a95942708fc32627b195de9bc94b900504c02",
+      "sha256_fonte": "ac7dfc62639814b70fb44617c9cb8b6df9b3b761c3ec2e7fddc815477b1e193f",
+      "sha256_campo": "189181500e7285b18dac0877e96b465b72c1c7c485aada3e4c3e9b0d0c1e11b2",
+      "limites_campo": [
+        0,
+        15245
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 81,
+          "literal": "=======================================================================================================================",
+          "representacao": "`=======================================================================================================================`",
+          "ocorrencia_fonte_visivel_sem_espacos": 2606,
+          "contexto_fonte": "seUTMIMÓVEL:ENGENHOSBAETÉEUNAMUNICÍPIO:BARREIROS-PECOMARCA:BARREIROSDATUM:SAD-69MERID.CENTRAL:51°WGr=======================================================================================================================EstaçãoVanteCoord.NorteCoord.EsteAzimuteDistânciaFatorEscalaLatitudeLongitude(&CODIGO&)(m)(m)(m)===="
+        },
+        {
+          "linha_anterior": 87,
+          "literal": "=======================================================================================================================",
+          "representacao": "`=======================================================================================================================`",
+          "ocorrencia_fonte_visivel_sem_espacos": 2606,
+          "contexto_fonte": "seUTMIMÓVEL:ENGENHOSBAETÉEUNAMUNICÍPIO:BARREIROS-PECOMARCA:BARREIROSDATUM:SAD-69MERID.CENTRAL:51°WGr=======================================================================================================================EstaçãoVanteCoord.NorteCoord.EsteAzimuteDistânciaFatorEscalaLatitudeLongitude(&CODIGO&)(m)(m)(m)===="
+        },
+        {
+          "linha_anterior": 99,
+          "literal": "=======================================================================================================================",
+          "representacao": "`=======================================================================================================================`",
+          "ocorrencia_fonte_visivel_sem_espacos": 2606,
+          "contexto_fonte": "seUTMIMÓVEL:ENGENHOSBAETÉEUNAMUNICÍPIO:BARREIROS-PECOMARCA:BARREIROSDATUM:SAD-69MERID.CENTRAL:51°WGr=======================================================================================================================EstaçãoVanteCoord.NorteCoord.EsteAzimuteDistânciaFatorEscalaLatitudeLongitude(&CODIGO&)(m)(m)(m)===="
+        },
+        {
+          "linha_anterior": 105,
+          "literal": "========================================================================================================================”",
+          "representacao": "`========================================================================================================================”`",
+          "ocorrencia_fonte_visivel_sem_espacos": 3526,
+          "contexto_fonte": "===============================================Perímetro:3.047,21ÁreaTotal:550.402,63m2(55,040263ha)========================================================================================================================”"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21064-1998-id78375.md",
+      "sha256_md_anterior_pacote_002": "4fef4108c019e26d77e1b6dd90833236ca3e70cb779a5a213ea82d55886b5a07",
+      "sha256_md": "a214395a576d9772a8f1ae94b806f8a077333297effb983080a0ce615433fe9f",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21064-1998-id78375.md.gz",
+      "sha256_backup_gzip": "71fa69402ca88f1c37e96663fb3e0cba2102ebe1d591f40da880b5062318e95d",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21064-1998-id78375.html.gz",
+      "sha256_cache": "cfcb5dfe352c7c6ed50fb07dc046d203f3e294117eec2386106488d36ff76652",
+      "sha256_fonte": "f7c0eb21e4cb874cbaf56b7de9d1c8373fd27ec22393bc16c7753434f3a7ece5",
+      "sha256_campo": "0b8a918fed8c57b9e7548cf090a5d65617d9f828507e344d284cd558ae4563de",
+      "limites_campo": [
+        0,
+        230840
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 527,
+          "literal": "=========",
+          "representacao": "`=========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 12938,
+          "contexto_fonte": "dministrativadoÓrgão17.3503.1.90-FNT01-PessoaleEncargosSociais17.350----------------TOTAL185.452.075=========Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdaanula"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21113-1998-id77996.md",
+      "sha256_md_anterior_pacote_002": "7640a05e6eb43b9c49b2a19437a48e9f5e8f509868bce4d5ace66e04de7e1ba3",
+      "sha256_md": "649c19cb8e38bf81945a1a42aefe10099ab78c380ad8b4dbb59ee484e1e80ff3",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21113-1998-id77996.md.gz",
+      "sha256_backup_gzip": "ab6cc7b21f24ae2608d9aad8933f05713b97dbb95d99f927182fcea67d3940fa",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21113-1998-id77996.html.gz",
+      "sha256_cache": "3b3d06a934326198e27fd23d3a05e7abe771b82eb09c7ce5e6e85fce278a3010",
+      "sha256_fonte": "035a89c0ce2db0613935aa58532b0cf4d1e6109cce90976dd57de8ce231c23c2",
+      "sha256_campo": "ddcf12955b22a7373a5bedc0122a0b728a00eb3c259f614b099bad4a1d6eba60",
+      "limites_campo": [
+        0,
+        28126
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 63,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1553,
+          "contexto_fonte": "madeSaneamentoUrbanoeAmbi-340.000ental-PROSAM4.5.90-FNT42-Investimentos340.000----------TOTAL340.000========Art.3ºEsteDecretoentraemvigornadatadesuapublicação.Art.4ºRevogam-seasdisposiçõesemcontrário.Paláciod"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21042-1998-id78508.md",
+      "sha256_md_anterior_pacote_002": "f57e3a8bef179fa03b1d2442d00cbfbf22bee0ac7360d618f8cd651a0959b771",
+      "sha256_md": "2c060da7f4bf8eee10efe7f188627065bf74849ef632c7c241bdf55a627a26fe",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21042-1998-id78508.md.gz",
+      "sha256_backup_gzip": "786b00a64fb645ccd7aec4314b932b66a27fa4a92138ac64927aa514df431976",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21042-1998-id78508.html.gz",
+      "sha256_cache": "c258f721e3fc11358fed41f22d7ff361038e1eff81149edd4a6a613128ccfd10",
+      "sha256_fonte": "3859ba3abb19b67e1ce247e9fcaf29d2d1556e3aa085330cc6464d711f7f58ed",
+      "sha256_campo": "173194192c1e6a435101fd9b2f4a27da11ecafc8cfedd847e39e222445724059",
+      "limites_campo": [
+        0,
+        36814
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 91,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 2292,
+          "contexto_fonte": "denaçãodadefesacivildoEstado5.5003.1.90-FNT01-PessoaleEncargosSociais5.550------------TOTAL6.634.030=======Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdaanula"
+        },
+        {
+          "linha_anterior": 111,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 2292,
+          "contexto_fonte": "denaçãodadefesacivildoEstado5.5003.1.90-FNT01-PessoaleEncargosSociais5.550------------TOTAL6.634.030=======Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdaanula"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-20759-1998-id80372.md",
+      "sha256_md_anterior_pacote_002": "737510cbc99ab7fb70cd5469264b8bcf4d2077f8db6503895d0de3ed14e34309",
+      "sha256_md": "21ab06562aef440ffa87b729b0185ae873a846a561021e86d9748f17f06e81b8",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-20759-1998-id80372.md.gz",
+      "sha256_backup_gzip": "1ad8260424c411e561961c3a447938a1e5da334befbde5eeb9f308e13dbe182f",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-20759-1998-id80372.html.gz",
+      "sha256_cache": "ad644cd32b47de0e9a085d3801a45da18dabd840b2add3427026b55aeaa7c87f",
+      "sha256_fonte": "d7ffcf121851204d99bc8a1237aebbe25094d547becd4263a636addc7c5049ab",
+      "sha256_campo": "d77518e8463507d4a5a9ab9100df419a2b3fcd8b57bd200487d845b53bafa868",
+      "limites_campo": [
+        0,
+        21477
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 41,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1021,
+          "contexto_fonte": "acordostrabalhistas4.800.0003.4.90-FNT03-OutrasDespesasCorrentes4.800.000-------------TOTAL4.800.000=======Art.2ºOsrecursosnecessáriosaoatendimentodadespesadequetrataoartigoanteriorsãoosprovenientesdereceita"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21112-1998-id77998.md",
+      "sha256_md_anterior_pacote_002": "c363c5739c5f40bab6c91db5a36bb0a1ecc2d03ec245b7b4f7656c510d462584",
+      "sha256_md": "5f65e73e2c582199b94636bf05ba024068c17d3918389d8476f14f21840fa461",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21112-1998-id77998.md.gz",
+      "sha256_backup_gzip": "7a26213ef7515cecb3e2214d469644c13d8a38c86d12f17488270691c7cf6d62",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21112-1998-id77998.html.gz",
+      "sha256_cache": "28687a21e4bcceecff79a951cc3456d26a7daf83d4af8e8505d26eb73c5a7f36",
+      "sha256_fonte": "e6d63cc826bd51c50bf83e6c30b01ce745060106146fe85cb68eff258ebbe75d",
+      "sha256_campo": "cb630531114dc6eda4a639c666960c2c5252198874bd3b3c3794c88340de880e",
+      "limites_campo": [
+        0,
+        55999
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 69,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1605,
+          "contexto_fonte": "FNT41-OutrasDespesasCorrentesm4.509.0004.5.90-FNT41-Investimentos700.000--------------TOTAL5.524.000========Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdaanula"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21089-1998-id77900.md",
+      "sha256_md_anterior_pacote_002": "d7ca39c944c48f330bf42bf03d52f41c310eb66c904b749e4d107db5923296ca",
+      "sha256_md": "fed5c5d168a98b6d1219f5bb36477d5acc410f9638fc2e71fee8c51f99f01570",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21089-1998-id77900.md.gz",
+      "sha256_backup_gzip": "1e11abdf4795db3c33295ea2b78bd8a70f06e1e973ffa5b803a5305f59d42dfe",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21089-1998-id77900.html.gz",
+      "sha256_cache": "fe4bd5aed590292792704ec373988f8bac43d788e547d4214ba53a0807ff3b17",
+      "sha256_fonte": "12cd3a8edc29aca1caf1523f47013bb950cee38fbfb44a1e1259be4d19cd2319",
+      "sha256_campo": "65e8c3fe320a207706721f3061fd3f3845693f3e21e4367fe370eacfd8be7df8",
+      "limites_campo": [
+        0,
+        37819
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 99,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 2230,
+          "contexto_fonte": "uraçãodeviasurbanasmetropolitanas785.0004.5.90-FNT01-Investimentos785.000-------------TOTAL4.475.000=======Art.3ºEsteDecretoentraemvigornadatadesuapublicação.Art.4ºRevogam-seasdisposiçõesemcontrário.Paláciod"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-20752-1998-id80365.md",
+      "sha256_md_anterior_pacote_002": "965d429b0e9eebdabbe6efd7b97f1076e3928c5413d3a85f54569ee986da203c",
+      "sha256_md": "22ee6faaeb81175d26016740223671047d02436c6f7b9dbef8b9e69a658a761f",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-20752-1998-id80365.md.gz",
+      "sha256_backup_gzip": "5e21007f345d57a81c1f935a0fd5d53b886dcc328412c3262caceff30dfc4170",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-20752-1998-id80365.html.gz",
+      "sha256_cache": "a49caa62fef2a81abf70043b7c3361dc8b757c3d8a8bcb98fd90406b63866c94",
+      "sha256_fonte": "f63071cf61d1c9a3160cc9fadb2e3075f89dda80ab2564eeb14b62c7a58af974",
+      "sha256_campo": "dfc033ed0a105a3d1d7c6ed64e4664ce10b688986e8a93614da4c7ad504de280",
+      "limites_campo": [
+        0,
+        21630
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 41,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1062,
+          "contexto_fonte": "ministrativadoÓrgão1.450.0003.4.90-FNT01-OutrasDespesasCorrentes1.450.000-------------TOTAL1.450.000=======Art.2ºOsrecursosnecessáriosaoatendimentodadespesadequetrataoartigoanteriorsãoosprovenientesdaanulaçã"
+        },
+        {
+          "linha_anterior": 59,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1062,
+          "contexto_fonte": "ministrativadoÓrgão1.450.0003.4.90-FNT01-OutrasDespesasCorrentes1.450.000-------------TOTAL1.450.000=======Art.2ºOsrecursosnecessáriosaoatendimentodadespesadequetrataoartigoanteriorsãoosprovenientesdaanulaçã"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21061-1998-id78432.md",
+      "sha256_md_anterior_pacote_002": "4a8d5cba4d98df2e0be79b20615f5a2c9608af5808f6f23af2d39cd48b0c98ee",
+      "sha256_md": "7774cbad9de6b56f7d4004733640fe68d112fe20d7b309a945de5441524193f1",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21061-1998-id78432.md.gz",
+      "sha256_backup_gzip": "a84b96c13466265dd0c5d2e2f9cda9f3f463822b83d0a1b51d98d6235d5773a7",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21061-1998-id78432.html.gz",
+      "sha256_cache": "3c623cedc10370c5ecd0883049455b8a5c9f623c58c28980fbba935ef8f16728",
+      "sha256_fonte": "4c0c6d686bb7d760c8e8ed4c182e17369e1044011632508250206c05664b3b52",
+      "sha256_campo": "aa12c861a1f6f05cf5358f4ffbdb7034ce69e48979e1b57ad358b8ce64850d9a",
+      "limites_campo": [
+        0,
+        22561
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 43,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1042,
+          "contexto_fonte": "ePernambuco-EMATER5.000.0003.4.13–FNT01-OutrasDespesasCorrentes5.000.000--------------TOTAL5.000.000=======Art.2ºOsrecursosnecessáriosaoatendimentodadespesadequetrataoartigoanteriorsãoosprovenientesdaanulaçã"
+        },
+        {
+          "linha_anterior": 63,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1042,
+          "contexto_fonte": "ePernambuco-EMATER5.000.0003.4.13–FNT01-OutrasDespesasCorrentes5.000.000--------------TOTAL5.000.000=======Art.2ºOsrecursosnecessáriosaoatendimentodadespesadequetrataoartigoanteriorsãoosprovenientesdaanulaçã"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21043-1998-id78509.md",
+      "sha256_md_anterior_pacote_002": "e4d9d068f294c04d0b1d7f7eca9095ac8e3bf811e61b067dff2c278d63a4f107",
+      "sha256_md": "19f1839b577a5747f8ddcc0340aa53013960820adad8b16b488da18f95166663",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21043-1998-id78509.md.gz",
+      "sha256_backup_gzip": "8c9cb9e24931de5f7939e15199df28080d4d9a03c349d5b6ba9cf44cc523995b",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21043-1998-id78509.html.gz",
+      "sha256_cache": "b84b19fdc23d6ffa52085c914de3cf393a42bb94d91fb88fddfe89d3f0bf323d",
+      "sha256_fonte": "ce73c7b62bdea13a2723dc004b7261532190e0103e8ee0887f4d73900f54d349",
+      "sha256_campo": "6c9dc4d936b1c7cf96cd4fff1187ea91bbc4b672ce15df1137d577418c75cf1c",
+      "limites_campo": [
+        0,
+        21592
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 41,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 798,
+          "contexto_fonte": "terna600.000.0004.7.90-FNT01-AmortizaçãodaDívidaInterna600.000.000------------------TOTAL600.000.000========Art.2ºOsrecursosnecessáriosaoatendimentodadespesadequetrataoartigoanteriorsãoosprovenientesdasoperaç"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21086-1998-id77897.md",
+      "sha256_md_anterior_pacote_002": "2e0a0fc8268a713d523b6328c8563c4f4c9f7f35bbd5acb0706f74416cdc7fcb",
+      "sha256_md": "8da489a8345aa09754923638efe756e82c2ab5f5af4ada876dde091a4c2db700",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21086-1998-id77897.md.gz",
+      "sha256_backup_gzip": "71e8873f0f8da02a69264b182dbdff6b238d020aa300c0dba6dd7aee85596d01",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21086-1998-id77897.html.gz",
+      "sha256_cache": "b30d1d88ab5330824fe7d1645eeb5e5eb45fa5f117d5f75242abbcc3f0a34483",
+      "sha256_fonte": "1c3941ca9a9005559c1d4ed80b438a6670ab4e8655901858e242ca2537c7d507",
+      "sha256_campo": "2e63220fb024a5bc9a6bf2e51f5ef5147b9216b6f11dad92b2aaaf918d89aa92",
+      "limites_campo": [
+        0,
+        19476
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 43,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 996,
+          "contexto_fonte": "dministrativadoÓrgão1.000.0003.4.90-FNT01-OutrasDespesasCorrentes1.000.000------------TOTAL1.000.000=======Art.2ºOsrecursosnecessáriosaoatendimentodadespesadequetrataoartigoanteriorsãoosprovenientesdetransfe"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21087-1998-id77898.md",
+      "sha256_md_anterior_pacote_002": "bd05af6d645f526189eca7c6e542f8201193f4685c8a8c99a8b426d4e1313603",
+      "sha256_md": "06adce5ea037b7bfcec671d94864a62980a764152f460758aff7d1d09574d89e",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21087-1998-id77898.md.gz",
+      "sha256_backup_gzip": "3b4aa989ce5671977008c76158a96a1be64b41eacb535cbaee6c097e571dd628",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21087-1998-id77898.html.gz",
+      "sha256_cache": "db172d9f446e07ab86d4b6d8cdcc019506b006e6c09bcf65aa48c6d9d0e1fa4e",
+      "sha256_fonte": "5785462171340c9eaa99a6fd00e0ae343a631925f1297f640a43375e51364309",
+      "sha256_campo": "a9469aa5631a1e517dd8fa34edcc10ca8ab6564393e0cd98bd11162e7a9747df",
+      "limites_campo": [
+        0,
+        21973
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 41,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1037,
+          "contexto_fonte": "doAdolescente-FUNDAC1.000.0003.4.11-FNT01-OutrasDespesasCorrentes1.000.000------------TOTAL1.000.000=======Art.2ºOsrecursosnecessáriosaoatendimentodadespesadequetrataoartigoanteriorsãoosprovenientesdaanulaçã"
+        },
+        {
+          "linha_anterior": 61,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1037,
+          "contexto_fonte": "doAdolescente-FUNDAC1.000.0003.4.11-FNT01-OutrasDespesasCorrentes1.000.000------------TOTAL1.000.000=======Art.2ºOsrecursosnecessáriosaoatendimentodadespesadequetrataoartigoanteriorsãoosprovenientesdaanulaçã"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21053-1998-id78502.md",
+      "sha256_md_anterior_pacote_002": "35052da963b3c5d5b50e97202c45d5c7ab4dec52db635124663bcf8a70dbdd7b",
+      "sha256_md": "ada7cb4ce366a3eab2b308a2451de38fcc315ed68df6917a8bb492e603efd67e",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21053-1998-id78502.md.gz",
+      "sha256_backup_gzip": "9e85241d5334ff55f871de991050b5e00345a9d8e89759b3b6a135f3bac8fec8",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21053-1998-id78502.html.gz",
+      "sha256_cache": "ac1ffbb231c9cfd04776271cffbc775a57b54f4117dd0ec4e0aee505f547d24e",
+      "sha256_fonte": "78bf7e96166743f572e7f91313d26b5f10be6594be0a4efd5608c8247a5686f0",
+      "sha256_campo": "f56f58b3b72413cef8719c828ba36fdceadcb10c3d4e6d29a5374ce03c3955c9",
+      "limites_campo": [
+        0,
+        22060
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 41,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1024,
+          "contexto_fonte": "dasaçõesdeproduçãopenitenciária20.0003.4.90-FNT41-OutrasDespesasCorrentes20.000----------TOTAL20.000========Art.2ºOsrecursosnecessáriosaoatendimentodadespesadequetrataoartigoanteriorsãoosprovenientesdaanulaçã"
+        },
+        {
+          "linha_anterior": 59,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1024,
+          "contexto_fonte": "dasaçõesdeproduçãopenitenciária20.0003.4.90-FNT41-OutrasDespesasCorrentes20.000----------TOTAL20.000========Art.2ºOsrecursosnecessáriosaoatendimentodadespesadequetrataoartigoanteriorsãoosprovenientesdaanulaçã"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21090-1998-id77901.md",
+      "sha256_md_anterior_pacote_002": "19ec6c128eabcd4eebee00f3011d78ab8f820190b00eb7029c89ea61c00e19ac",
+      "sha256_md": "ab2a544a585f37c8d0bb2f275b333018fcce6186c698f6f34ed36e6c333ba0b7",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21090-1998-id77901.md.gz",
+      "sha256_backup_gzip": "91926f8e35921df8baea4563da75bd61f6154532a8b091b7c071741d351fe1d8",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21090-1998-id77901.html.gz",
+      "sha256_cache": "96186102b1545662a0309dbd7b7a7dafa82fc90c8aa046697bdddd7a04adf1f8",
+      "sha256_fonte": "a806b70e2e5c5f164dacdebdad833d3817961ba1c5fcd70cddce62554069553d",
+      "sha256_campo": "e457e8f68f7795ffe9d5cb80f1c3e0bde000a80f3b32fac1c9af2dade2d52a4b",
+      "limites_campo": [
+        0,
+        48441
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 53,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1475,
+          "contexto_fonte": "tropolitanadoRecife1.646.0003.4.90-FNT41-OutrasDespesasCorrentes1.646.000-------------TOTAL3.823.896=======Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdassegu"
+        },
+        {
+          "linha_anterior": 113,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1475,
+          "contexto_fonte": "tropolitanadoRecife1.646.0003.4.90-FNT41-OutrasDespesasCorrentes1.646.000-------------TOTAL3.823.896=======Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdassegu"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21088-1998-id77899.md",
+      "sha256_md_anterior_pacote_002": "74bd165db21af70c9b687c9fd7801cc40d067addf70d464f12a89f9b53443491",
+      "sha256_md": "556a61c528455537f1f4122503487589bc97bb02184a30d2239245752ceb0471",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21088-1998-id77899.md.gz",
+      "sha256_backup_gzip": "c40c7802fe68df923bc2da0b62cad414a8997a3ff49ae86fd70583c2014a3f80",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21088-1998-id77899.html.gz",
+      "sha256_cache": "e9e40bb6dfcdd2303af4d580b2f9b3bf9c38f0831f86ec3156e24d5aa610dea3",
+      "sha256_fonte": "e6ee31eff667cd39e3be8f03e65247d18b645e2b79ef9ec184dc4dcd0ad2d03e",
+      "sha256_campo": "3944059412c4e31b119aea53fb41248785304b2158bfbd448a70c7ee4054939c",
+      "limites_campo": [
+        0,
+        53059
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 121,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 2621,
+          "contexto_fonte": "emadeinformaçõesmetropolitanas71.0003.4.90-FNT01-OutrasDespesasCorrentes71.000----------TOTAL467.000========II-TRANSFERÊNCIASESTADUAISTransferênciasestaduaisclassificadasdaseguinteforma:(RECEITASDOTESOURO)CÓD"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21083-1998-id77895.md",
+      "sha256_md_anterior_pacote_002": "0d5676e4715a29d4b7daf297de8af7717c03abaefa6ec296a74a543f0f64ecb5",
+      "sha256_md": "29d78e522da61fd64fc118192f9925a1a93117e88954762835987d5ae79f6a99",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21083-1998-id77895.md.gz",
+      "sha256_backup_gzip": "39e9cc4d3e8f71d55a8ed3cf5cae88574ab8fd4c74ee9bc93414809542a9c74d",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21083-1998-id77895.html.gz",
+      "sha256_cache": "f628a911e36eb4f9d7a59793c4a98500d08145b8a3757efccdc574ff4e46853f",
+      "sha256_fonte": "c8b4fe820a48247ef60d01ed264f301fdd14e8c708b412ab6f804d722d58cbe4",
+      "sha256_campo": "cc5b33c1725df54c036306e0ace343b90861b066e7b1ce00b859be19ff2d9278",
+      "limites_campo": [
+        0,
+        19318
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 41,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 838,
+          "contexto_fonte": "ministrativadoÓrgão3.480.0003.1.90-FNT01-PessoaleEncargosSociais3.480.000-------------TOTAL3.480.000=======Art.2ºOsrecursosnecessáriosaoatendimentodadespesadequetrataoartigoanteriorsãoosprovenientesdetransfe"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-20757-1998-id80370.md",
+      "sha256_md_anterior_pacote_002": "f034c6b43237053d32e9ac150745a95607778dbf9e707c317fb63c996666ee7c",
+      "sha256_md": "9c0e162af3aad1a8e7f893dac824c8360ab2add5052909a6f8a5af24cc25f56e",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-20757-1998-id80370.md.gz",
+      "sha256_backup_gzip": "f4b6e84a15e74188c68457da24f91744a51c2d1239cb393ff382105b69d924e3",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-20757-1998-id80370.html.gz",
+      "sha256_cache": "608c841c2fa205fe39223b27d642a6cb0d2f594ee816ace30caaefad1bc4006f",
+      "sha256_fonte": "d310d1e69b704fc4e4fd4576fa0886900a71b84ce4cd2f1dcccade2aba396323",
+      "sha256_campo": "76e2a7f38bfe37bd7a465d85cec5ed20a001651da1c0fd3fd13484e8b4d2f75b",
+      "limites_campo": [
+        0,
+        23353
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 47,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1098,
+          "contexto_fonte": "0.0004.5.14-FNT01-Investimentos300.0004.5.14-FNT02-Investimentos3.000.000-------------TOTAL3.300.000=======Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdaanula"
+        },
+        {
+          "linha_anterior": 71,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1098,
+          "contexto_fonte": "0.0004.5.14-FNT01-Investimentos300.0004.5.14-FNT02-Investimentos3.000.000-------------TOTAL3.300.000=======Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdaanula"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21077-1998-id77908.md",
+      "sha256_md_anterior_pacote_002": "8c230a1a60aea45fc3f870309be895c222a6e76117fd84df5234eeb02bc2588f",
+      "sha256_md": "f4665673d91864ac98ceacde4012bd31584da3ce7e0ca123bff5c28684396366",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21077-1998-id77908.md.gz",
+      "sha256_backup_gzip": "3b9a5fb47ad4a450ffea1950f8bf57e7522931ed28a9fda6975ef70aa893126e",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21077-1998-id77908.html.gz",
+      "sha256_cache": "60080715b09e761c1d8f7b16b55d772944f1d625dfeaf7b96b121d023a0a188b",
+      "sha256_fonte": "c3d3cf64694dee87e59558e01bfc12240e7fcacdefdc3a2603b50abffaf92dff",
+      "sha256_campo": "13eb92bc7c62b012cb5618b4f9da3c513b8a6faa6d3e6d820e1a028251a8d3f1",
+      "limites_campo": [
+        0,
+        134868
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 75,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1529,
+          "contexto_fonte": "-Encargoscomvaletransporte12.0003.4.90-FNT01-OutrasDespesasCorrentes12.000------------TOTAL5.097.470=======II-CRÉDITOSUPLEMENTARCréditosuplementarnovalordeR$39.894.353,00(trintaenovemilhões,oitocentosenovent"
+        },
+        {
+          "linha_anterior": 205,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 4668,
+          "contexto_fonte": "0.0004.5.90-FNT01-Investimentos200.0004.5.90-FNT02-Investimentos600.000--------------TOTAL39.894.353========Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdassegu"
+        },
+        {
+          "linha_anterior": 331,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 4668,
+          "contexto_fonte": "0.0004.5.90-FNT01-Investimentos200.0004.5.90-FNT02-Investimentos600.000--------------TOTAL39.894.353========Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdassegu"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21045-1998-id78511.md",
+      "sha256_md_anterior_pacote_002": "3ce58fbd79bd58c51a47e312f82821a120adf608c6802e011728b40c2cf5d0e5",
+      "sha256_md": "377d7ce012c873da8b46bedc58c37956e162fc4cf0441bec2fc078146a78c8ba",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21045-1998-id78511.md.gz",
+      "sha256_backup_gzip": "3c4efd30f68f0bfb84ab4c7b2ea9be284bbd97e324040ccd5daa735c0d2c0de4",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21045-1998-id78511.html.gz",
+      "sha256_cache": "d52aea20c1016d2b102c79df96c4f9c7e42ca39bfa0fe0b058fc0d8b8f9e2a4f",
+      "sha256_fonte": "1686d66b37a9e042580be5a2b80677ef2b54cf0930aaf8b0677978c23066c3b1",
+      "sha256_campo": "14c8a2a89cad004f4f8754d95687b4101df4da230943fde84f76a96fb274f42a",
+      "limites_campo": [
+        0,
+        22805
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 43,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1117,
+          "contexto_fonte": "ntoemanutençãodeserviçosdeinformática110.0004.5.90-FNT42-Investimentos110.000-----------TOTAL110.000========Art.2ºOsrecursosnecessáriosaoatendimentodadespesadequetrataoartigoanteriorsãoosprovenientesdaanulaçã"
+        },
+        {
+          "linha_anterior": 63,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1117,
+          "contexto_fonte": "ntoemanutençãodeserviçosdeinformática110.0004.5.90-FNT42-Investimentos110.000-----------TOTAL110.000========Art.2ºOsrecursosnecessáriosaoatendimentodadespesadequetrataoartigoanteriorsãoosprovenientesdaanulaçã"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-20758-1998-id80371.md",
+      "sha256_md_anterior_pacote_002": "170e4b02ac1dd42f6522e4f4f645e1bdc16679ed488f2e7046660ac675ff81e8",
+      "sha256_md": "7a97bcbbc189ddd905d2e35ea5d737af7b32e4b6812c44f35449a1893426b5cf",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-20758-1998-id80371.md.gz",
+      "sha256_backup_gzip": "e1e33171278ae9d4a621d4c3ec877fc6738b8cc9a744d890b22910049ca24c22",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-20758-1998-id80371.html.gz",
+      "sha256_cache": "22cbd14765c42e0b6942a42ba2803c813289ba1731c0adf28add6f76f612431d",
+      "sha256_fonte": "df191a6eab9ea84356106c25888dc4df1c57be59c7007b91cfed58b15f71b2c7",
+      "sha256_campo": "f30ba7360242a04fcff01797c65a7263069b0be311f2b021cfe2eb6a821d6bb3",
+      "limites_campo": [
+        0,
+        23357
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 47,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1234,
+          "contexto_fonte": ".0004.5.90-FNT01-Investimentos300.0004.5.90-FNT02-Investimentos3.000.000--------------TOTAL3.300.000========Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdaanula"
+        },
+        {
+          "linha_anterior": 67,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1234,
+          "contexto_fonte": ".0004.5.90-FNT01-Investimentos300.0004.5.90-FNT02-Investimentos3.000.000--------------TOTAL3.300.000========Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdaanula"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21041-1998-id78507.md",
+      "sha256_md_anterior_pacote_002": "f202977f2d7d6d3821c224d8eb56661ec3c5db7437ae193fc0ccfe47c111e914",
+      "sha256_md": "b146695efe58696fdd865e3515ec391b7275103d8c614c19f00ce5677ecbf5ed",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21041-1998-id78507.md.gz",
+      "sha256_backup_gzip": "4b7b25e63c326e6e25735a0ef49a7749660ed6d45276cfaf0007e378cbf792b5",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21041-1998-id78507.html.gz",
+      "sha256_cache": "ab4768ba130d05c9ba627a6f0b1500175b45b10f70173b4476f83423b36e0b02",
+      "sha256_fonte": "213b587830dc9e744adb543bc230ac9b59e1b7445f486c063e2de5e03105b099",
+      "sha256_campo": "c5c65a951dfb9cceea091f6d6776e61a69d11ae6fca7869892c9bac5c7dc779c",
+      "limites_campo": [
+        0,
+        23233
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 41,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 819,
+          "contexto_fonte": "oscomvaletransporte1.200.0003.4.90-FNT01-OutrasDespesasCorrentes1.200.000-------------TOTAL1.200.000========Art.2°Osrecursosnecessáriosaoatendimentodadespesadequetrataoartigoanteriorsãoosprovenientesdaanulaçã"
+        },
+        {
+          "linha_anterior": 61,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 819,
+          "contexto_fonte": "oscomvaletransporte1.200.0003.4.90-FNT01-OutrasDespesasCorrentes1.200.000-------------TOTAL1.200.000========Art.2°Osrecursosnecessáriosaoatendimentodadespesadequetrataoartigoanteriorsãoosprovenientesdaanulaçã"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21062-1998-id78433.md",
+      "sha256_md_anterior_pacote_002": "bce4548c790470f90343a456ac5d22f3a839e7d6ca2ad7295413b4e88c804ae6",
+      "sha256_md": "65fe886ad27832e10e95b5ef459f575f6fe5ca8fd1187f32dc1260ce1801ed1f",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21062-1998-id78433.md.gz",
+      "sha256_backup_gzip": "3d01424beeecdde09be3ff384224424858e3801abec21a8fb2d27c026ab08ac7",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21062-1998-id78433.html.gz",
+      "sha256_cache": "9ddc7dc10d8792d00616a02a7a4db8de68b68497a9884c6244b551997c0b22da",
+      "sha256_fonte": "d4e9297acdd9b70c8020c2d0e7f58b0c9f3fe4bc5d0f729bb6b5bc66ece60d18",
+      "sha256_campo": "36edc456d112ccc5a905673cfa4bca826b10c7b4ea8aa0498c28692442712adf",
+      "limites_campo": [
+        0,
+        19790
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 45,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 910,
+          "contexto_fonte": "laopequenoprodutor5.000.0003.4.90–FNT01-OutrasDespesasCorrentes5.000.000--------------TOTAL5.000.000========Art.2ºOsrecursosnecessáriosaoatendimentodadespesadequetrataoartigoanteriorsãoosprovenientesdetransfe"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21044-1998-id78510.md",
+      "sha256_md_anterior_pacote_002": "4feebf8c089421e9c832264016ce46f88eaa0b7d8c87158fc7fe9c2a3f33ec87",
+      "sha256_md": "21134570833a0c1a1ffb78c56cecf0c3e8ad85ffe057647906fcd0107f760a72",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21044-1998-id78510.md.gz",
+      "sha256_backup_gzip": "6dca805637b473afb03ee57a1c8919d3af9698a87e3939bed858c34533734abf",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21044-1998-id78510.html.gz",
+      "sha256_cache": "6b0def393877f52d8b7724d6131a0c6d303f289edf5487a150763c62854f6a9a",
+      "sha256_fonte": "0f8cf82c565a3541c961597915182ece622d896699b3aa090bd008886efb6b03",
+      "sha256_campo": "d780c8de936a72a66336a61b6f1bb498ee8b5f9c93b01c80d85c6534a716c327",
+      "limites_campo": [
+        0,
+        26161
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 49,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1224,
+          "contexto_fonte": "GestãoadministrativadoÓrgão110.0003.4.90-FNT01-OutrasDespesasCorrentes110.000-----------TOTAL275.000========Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdasanul"
+        },
+        {
+          "linha_anterior": 75,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1224,
+          "contexto_fonte": "GestãoadministrativadoÓrgão110.0003.4.90-FNT01-OutrasDespesasCorrentes110.000-----------TOTAL275.000========Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdasanul"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-20751-1998-id80364.md",
+      "sha256_md_anterior_pacote_002": "3d6f23c5be14dbf017e650ffafb84474a0e016b5978b2c02f75966dd283e4327",
+      "sha256_md": "c8762f8dada73f335721ae02a749ca0242ddeafe3e15c16da29036312bb7602f",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-20751-1998-id80364.md.gz",
+      "sha256_backup_gzip": "64a085651a809ce93703375fddf917e8f3754deda2d7bf59fd3bcb32fb35c95b",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-20751-1998-id80364.html.gz",
+      "sha256_cache": "047d0dfde0fd2c2655c7eed9e91efa53d17e2d9ddf05b22a44dfd73c026c2ed9",
+      "sha256_fonte": "8c9fe1e9a2ebd82c6980b9551737b156c6e2578b3983f043f5cc6c4e1e8c171a",
+      "sha256_campo": "16624cb479bfc536303e6483d076f4f6812d0333c2de767b1c980fd4fa5070ee",
+      "limites_campo": [
+        0,
+        27957
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 41,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1108,
+          "contexto_fonte": "cadoSistemaEstadualdeSaúde-SUS1.041.6784.5.90-FNT01-Investimentos1.041.678------------TOTAL1.041.678=======RECURSOSDEOUTRASFONTESEMR$1,0053000-SECRETARIADESAÚDE-ENTIDADESSUPERVISIONADAS53040-FundoEstadualdeS"
+        },
+        {
+          "linha_anterior": 57,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1108,
+          "contexto_fonte": "cadoSistemaEstadualdeSaúde-SUS1.041.6784.5.90-FNT01-Investimentos1.041.678------------TOTAL1.041.678=======RECURSOSDEOUTRASFONTESEMR$1,0053000-SECRETARIADESAÚDE-ENTIDADESSUPERVISIONADAS53040-FundoEstadualdeS"
+        },
+        {
+          "linha_anterior": 75,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1108,
+          "contexto_fonte": "cadoSistemaEstadualdeSaúde-SUS1.041.6784.5.90-FNT01-Investimentos1.041.678------------TOTAL1.041.678=======RECURSOSDEOUTRASFONTESEMR$1,0053000-SECRETARIADESAÚDE-ENTIDADESSUPERVISIONADAS53040-FundoEstadualdeS"
+        },
+        {
+          "linha_anterior": 91,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1108,
+          "contexto_fonte": "cadoSistemaEstadualdeSaúde-SUS1.041.6784.5.90-FNT01-Investimentos1.041.678------------TOTAL1.041.678=======RECURSOSDEOUTRASFONTESEMR$1,0053000-SECRETARIADESAÚDE-ENTIDADESSUPERVISIONADAS53040-FundoEstadualdeS"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21060-1998-id78431.md",
+      "sha256_md_anterior_pacote_002": "9c919c05e88358991bf6ac4209a40118ae512ad8cc8e1eaa8082113cb0cc6919",
+      "sha256_md": "1a4acfd2a29dbe0c4bedfb195cc2ba99a00aab2721ead92b145eae3cad4666a6",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21060-1998-id78431.md.gz",
+      "sha256_backup_gzip": "9183225db47ff40a0ce569188ca0b25de89df4b2b12b743c8ff3f77dbe7bb351",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21060-1998-id78431.html.gz",
+      "sha256_cache": "6123ef899e41eb9bfec38b6e3141272963f2cc74a277f745bdc0fe2346883181",
+      "sha256_fonte": "a3639e401902e14e7bc05a6c016d0fd2c7a26cac10f322fff05b50d3b2c2d72e",
+      "sha256_campo": "9f955e94d599db3f44dafd08d63e51d8fc9c88a8e859f0a465cd57a787c2df90",
+      "limites_campo": [
+        0,
+        28195
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 43,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 969,
+          "contexto_fonte": "spesasCorrentes7.488.5003.4.90-FNT02-OutrasDespesaCorrentes29.213.070----------------TOTAL36.701.570========Art.2°Osrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdassegu"
+        },
+        {
+          "linha_anterior": 67,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1454,
+          "contexto_fonte": "icadePernambuco–CELPE7.488.5004.6.90-FNT04-InversõesFinanceiras7.488.500--------------TOTAL7.488.500=======II-CONVÊNIOSTermoAditivoaoConvênio,nãoprevistonoOrçamentoemvigor,celebradoentreaUniãoFederal,através"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21084-1998-id75254.md",
+      "sha256_md_anterior_pacote_002": "989dcb0a29b699af8113e541cada5085ff0d9c74c126958e7a00f232e5a613cd",
+      "sha256_md": "235eafa60f4c1b463ff4236f84f7a27869b8f99f442392b43a54a328f1c87432",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21084-1998-id75254.md.gz",
+      "sha256_backup_gzip": "e722b2568c5a61295cff7e1b728b269d5ba92f2af2f6e7532b8951e7509fcefc",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21084-1998-id75254.html.gz",
+      "sha256_cache": "a907b66aef73a6bb16ca9d6ccfe877dec5a9ecf108fd6608a61eed1c6b687cc5",
+      "sha256_fonte": "9b1fcee93f16ddd18c29d1712512c71051fa5f1264e79fcd3ac0878ad8a54a4f",
+      "sha256_campo": "8bf7eea5c7a0bda87201afcf3a9d7ad3bc06f5495788211ce4c73fa590cc35a2",
+      "limites_campo": [
+        0,
+        78713
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 47,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 912,
+          "contexto_fonte": "Ofertadeaçõeseserviçosdesaúde-SUS500.0004.5.90-FNT02-Investimentos500.000-------------TOTAL4.000.000=======Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdaanula"
+        },
+        {
+          "linha_anterior": 95,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 912,
+          "contexto_fonte": "Ofertadeaçõeseserviçosdesaúde-SUS500.0004.5.90-FNT02-Investimentos500.000-------------TOTAL4.000.000=======Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdaanula"
+        },
+        {
+          "linha_anterior": 165,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 912,
+          "contexto_fonte": "Ofertadeaçõeseserviçosdesaúde-SUS500.0004.5.90-FNT02-Investimentos500.000-------------TOTAL4.000.000=======Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdaanula"
+        },
+        {
+          "linha_anterior": 205,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 912,
+          "contexto_fonte": "Ofertadeaçõeseserviçosdesaúde-SUS500.0004.5.90-FNT02-Investimentos500.000-------------TOTAL4.000.000=======Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdaanula"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21078-1998-id77907.md",
+      "sha256_md_anterior_pacote_002": "b67ab08a59515ff66f66b5dab6fa187a4879914f43a835174f7f1528f833e621",
+      "sha256_md": "3074cb911c2fd2ad1583ad7393ced1357343f9ec38597533d086b599a21b2095",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21078-1998-id77907.md.gz",
+      "sha256_backup_gzip": "85b55f39fc761073df22eb56bd9a6dcc017b8416d608a554e133d3330dfb64d7",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21078-1998-id77907.html.gz",
+      "sha256_cache": "f4fbe945a220ac9d3c403410c2eb3784604ec518377fcc32c7fe7724ac47501a",
+      "sha256_fonte": "bceb2bee99459df35c80471ac13f3279b308371d0128b8a431b06b0e62dda716",
+      "sha256_campo": "23df5cc88b1d3addc1bde6a2b4ebbdae20e04b98ff9e241b596ec9d5e5b5ec59",
+      "limites_campo": [
+        0,
+        32842
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 57,
+          "literal": "=======",
+          "representacao": "`=======`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1517,
+          "contexto_fonte": "02-Habilitaçãodecondutores27.4003.4.90-FNT41-OutrasDespesasCorrentes27.400------------TOTAL1.643.203=======Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdaanula"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-21055-1998-id78504.md",
+      "sha256_md_anterior_pacote_002": "2571e8dc59282487ad3c07cbab8fa78020dde318812bb05380f0bacd4c23a4cf",
+      "sha256_md": "d4914d7c4adb4938b9979292e912e1dd2e5b5e05a0af64c33d629520402ce19e",
+      "backup": "estaduais/PE/_fonte/auditorias/separadores-literais-20261020/decretos/1998/dec-21055-1998-id78504.md.gz",
+      "sha256_backup_gzip": "884edb9bcf00224d742b45a1276de3e4f8558b45b7ef1e909e6f432dee64811f",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-21055-1998-id78504.html.gz",
+      "sha256_cache": "341a85bccad602967c87482dafa7feddfe6b1f64e5f269a2b3ae225332918d07",
+      "sha256_fonte": "202bde70883d98fb92bc36cd1fe8b517356907a66d67551bee2455857f670a95",
+      "sha256_campo": "342297365efb029388aa13c92f3a267ee9979e7a60bf225f5fa2c2b526488968",
+      "limites_campo": [
+        0,
+        36985
+      ],
+      "linhas_conferidas": [
+        {
+          "linha_anterior": 57,
+          "literal": "========",
+          "representacao": "`========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 1477,
+          "contexto_fonte": "rviçodeassistênciasocial400.0003.4.90-FNT01-OutrasDespesasCorrentes400.000------------TOTAL8.190.000========Art.2ºOsrecursosnecessáriosaoatendimentodasdespesasdequetrataoartigoanteriorsãoosprovenientesdaanula"
+        },
+        {
+          "linha_anterior": 123,
+          "literal": "=========",
+          "representacao": "`=========`",
+          "ocorrencia_fonte_visivel_sem_espacos": 2965,
+          "contexto_fonte": "soaleEncargosSociais2.390.0003.4.90-FNT01-OutrasDespesasCorrentes6.000----------------TOTAL8.190.000=========Art.3ºEsteDecretoentraemvigornadatadesuapublicação,retroagindoseusefeitosa30deoutubrode1998.Art.4ºRe"
+        }
+      ],
+      "unica_alteracao": "Inserção de backticks ao redor das linhas literais de separação, sem remover ou substituir nenhum caractere da fonte. Metadados e todo o restante do MD byte a byte preservados. Código inline exibe o literal sem heading Setext e sem marcador de conflito Git.",
+      "identidade_integridade_visuais_anexos_objetos": "Conserva os gates já aprovados do pacote PE11900. Não modifica corpo alfanumérico, dados ou tabelas."
+    }
+  ]
+}

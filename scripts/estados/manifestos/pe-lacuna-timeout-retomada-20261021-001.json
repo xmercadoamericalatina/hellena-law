@@ -1,0 +1,28 @@
+{
+  "id_oficial": "86761",
+  "item_indice": {
+    "id": "86761",
+    "tipo": "6",
+    "nome": "Decreto do Executivo n° 19.375",
+    "publicacao": "Publicada no DOE 12/10/1996",
+    "textos": [
+      "TEXTOORIGINAL"
+    ],
+    "ementa": "Introduz alterações no Decreto n° 16.552, de 29 de março de 1993, que dispõe sobre a antecipação tributária do ICMS relativo a madeira, seus derivados e laminados melamínicos, e sobre prazo de recolhimento de tributo e de entrega de documento à repartição fazendária, e dá outras providências.",
+    "ano": "1996"
+  },
+  "tentativa_em": "2026-10-21T03:27:13.160324-03:00",
+  "criterio": "Uma retomada do único timeout anterior após o término do lote; sem repetir fonte já presente.",
+  "requisicao": {
+    "url": "https://legis.alepe.pe.gov.br/texto.aspx?id=86761&tipo=TEXTOORIGINAL",
+    "http": 200,
+    "bytes": 110208,
+    "sha256": "b7f9312db1e62700bc9c5da54cc502f74f16707b7f6e430fbb45651f4439abca"
+  },
+  "status": "ok",
+  "detalhe": null,
+  "path": "estaduais/PE/decretos/1996/dec-19375-1996-id86761.md",
+  "sha256_md": "6d12a99aabdfd726f83b6345aaee24b4a63dfeec454569d20117a2510e6a9e16",
+  "cache": "estaduais/PE/_fonte/decretos/1996/dec-19375-1996-id86761.html.gz",
+  "sha256_cache": "008048e779a24de16f6be22182140d5a3a04840a13d39b8c0347c8abdc13d516"
+}

@@ -1,0 +1,109 @@
+{
+  "HEAD_consultado": "3ec907523f453fbe15e6f6d95a43ad6976598b42",
+  "total_iniciais": 11900,
+  "total_ausentes_HEAD": 30,
+  "ausentes_em_nativo176": 27,
+  "total_complemento": 3,
+  "ausentes_HEAD": [
+    "estaduais/PE/decretos/1998/dec-20751-1998-id80364.md",
+    "estaduais/PE/decretos/1998/dec-20752-1998-id80365.md",
+    "estaduais/PE/decretos/1998/dec-20757-1998-id80370.md",
+    "estaduais/PE/decretos/1998/dec-20758-1998-id80371.md",
+    "estaduais/PE/decretos/1998/dec-20759-1998-id80372.md",
+    "estaduais/PE/decretos/1998/dec-21041-1998-id78507.md",
+    "estaduais/PE/decretos/1998/dec-21042-1998-id78508.md",
+    "estaduais/PE/decretos/1998/dec-21043-1998-id78509.md",
+    "estaduais/PE/decretos/1998/dec-21044-1998-id78510.md",
+    "estaduais/PE/decretos/1998/dec-21045-1998-id78511.md",
+    "estaduais/PE/decretos/1998/dec-21053-1998-id78502.md",
+    "estaduais/PE/decretos/1998/dec-21055-1998-id78504.md",
+    "estaduais/PE/decretos/1998/dec-21060-1998-id78431.md",
+    "estaduais/PE/decretos/1998/dec-21061-1998-id78432.md",
+    "estaduais/PE/decretos/1998/dec-21062-1998-id78433.md",
+    "estaduais/PE/decretos/1998/dec-21064-1998-id78375.md",
+    "estaduais/PE/decretos/1998/dec-21077-1998-id77908.md",
+    "estaduais/PE/decretos/1998/dec-21078-1998-id77907.md",
+    "estaduais/PE/decretos/1998/dec-21083-1998-id77895.md",
+    "estaduais/PE/decretos/1998/dec-21084-1998-id75254.md",
+    "estaduais/PE/decretos/1998/dec-21086-1998-id77897.md",
+    "estaduais/PE/decretos/1998/dec-21087-1998-id77898.md",
+    "estaduais/PE/decretos/1998/dec-21088-1998-id77899.md",
+    "estaduais/PE/decretos/1998/dec-21089-1998-id77900.md",
+    "estaduais/PE/decretos/1998/dec-21090-1998-id77901.md",
+    "estaduais/PE/decretos/1998/dec-21112-1998-id77998.md",
+    "estaduais/PE/decretos/1998/dec-21113-1998-id77996.md",
+    "estaduais/PE/decretos/2001/dec-23347-2001-id62035.md",
+    "estaduais/PE/decretos/2011/dec-36625-2011-id19382.md",
+    "estaduais/PE/decretos/2011/dec-36626-2011-id19115.md"
+  ],
+  "documentos": [
+    {
+      "path": "estaduais/PE/decretos/2001/dec-23347-2001-id62035.md",
+      "sha256_md": "92acd98ca6beee08ddf992bc6c5b03259db55b16915e2023a2a9a6a1c1ecefae",
+      "cache": "estaduais/PE/_fonte/decretos/2001/dec-23347-2001-id62035.html.gz",
+      "sha256_cache": "b6ab1e5857b6a2e3fc113105bb64e56231dedcb65b2997427dfcc3d3cf61b573",
+      "sha256_fonte": "286101cd244126c020321ed945f09f437967e228947685815064a1c995bc45ee",
+      "sha256_campo": "8cb6b0a85364b1c508a8b7b5ef806318e9695864cb09eac81dc12ffecaa0f770",
+      "renderizador": "markdown-it-py 4.0.0 / CommonMark / HTML habilitado / tables habilitado",
+      "sha256_html_renderizado": "5145c50c06b0afbae3e2fbbb5537294eb2d40bc9865670e5a125752855a7dc15",
+      "sha256_visivel_fonte": "2db6b77e1cada5ea80e75510e39696ffda717ca936bc1b3443ba0db4207b7627",
+      "sha256_visivel_md_normalizado": "2db6b77e1cada5ea80e75510e39696ffda717ca936bc1b3443ba0db4207b7627",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "normalizacoes_heading_com_prova": [
+        {
+          "markdown": "ANEXO I — PROPRIETARIO:POLIGONAL DE CONTORNO",
+          "fonte": "ANEXO I PROPRIETARIO:POLIGONAL DE CONTORNO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "publicavel_por_fidelidade_visivel": true,
+      "situacao": "ausente HEAD; separadores literais escapados já comprovados pela fonte"
+    },
+    {
+      "path": "estaduais/PE/decretos/2011/dec-36625-2011-id19382.md",
+      "sha256_md": "496f5f25e493b36784fa59c3adbad0b2d3821a119e3782aa35b77b6dc31249aa",
+      "cache": "estaduais/PE/_fonte/decretos/2011/dec-36625-2011-id19382.html.gz",
+      "sha256_cache": "f64e549966c90b5fc37691a759d7557e40b965a2e09341c07a4811cc2be560f4",
+      "sha256_fonte": "78d5373fe0fec09f7756cadee41cab37c4e915341d6f793b9ac40ec68b5ad101",
+      "sha256_campo": "4570636cf78ca73f0bf85e3994014b86a7777cb9438d451f0af54cd1ac1a8411",
+      "renderizador": "markdown-it-py 4.0.0 / CommonMark / HTML habilitado / tables habilitado",
+      "sha256_html_renderizado": "3c12adeb9b856bad5ee00c090c78bc6cc1a2181a27a33f051d78f059686aa0a9",
+      "sha256_visivel_fonte": "78a04db924e326ca05b3cde340482fd0c25f43ba906719d995a0c280a3f1003a",
+      "sha256_visivel_md_normalizado": "78a04db924e326ca05b3cde340482fd0c25f43ba906719d995a0c280a3f1003a",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "normalizacoes_heading_com_prova": [
+        {
+          "markdown": "ANEXO I — MEMORIAL DESCRITIVO",
+          "fonte": "ANEXO I MEMORIAL DESCRITIVO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — MEMORIAL DESCRITIVO",
+          "fonte": "ANEXO II MEMORIAL DESCRITIVO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "publicavel_por_fidelidade_visivel": true,
+      "situacao": "ausente HEAD; separadores literais escapados já comprovados pela fonte"
+    },
+    {
+      "path": "estaduais/PE/decretos/2011/dec-36626-2011-id19115.md",
+      "sha256_md": "1b1c53d2890f3c3b2a8e38f80f11624356b678473a2a1b52745a3bb6fb53195f",
+      "cache": "estaduais/PE/_fonte/decretos/2011/dec-36626-2011-id19115.html.gz",
+      "sha256_cache": "1cb6bc4a15691478688a3f69f59a95942708fc32627b195de9bc94b900504c02",
+      "sha256_fonte": "ac7dfc62639814b70fb44617c9cb8b6df9b3b761c3ec2e7fddc815477b1e193f",
+      "sha256_campo": "189181500e7285b18dac0877e96b465b72c1c7c485aada3e4c3e9b0d0c1e11b2",
+      "renderizador": "markdown-it-py 4.0.0 / CommonMark / HTML habilitado / tables habilitado",
+      "sha256_html_renderizado": "fe3f3d08b17de71d810de03e21cf2fb73a7333ec737f2b4709c58d3e43cf1ba0",
+      "sha256_visivel_fonte": "e1df102450627937d8544150f8e2f9e05d9eccbf6e169affe1dfddcf838e7860",
+      "sha256_visivel_md_normalizado": "e1df102450627937d8544150f8e2f9e05d9eccbf6e169affe1dfddcf838e7860",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "normalizacoes_heading_com_prova": [],
+      "publicavel_por_fidelidade_visivel": true,
+      "situacao": "ausente HEAD; separadores literais escapados já comprovados pela fonte"
+    }
+  ]
+}

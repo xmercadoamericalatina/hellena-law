@@ -1,0 +1,3553 @@
+{
+  "total": 226,
+  "MD_reais_modificados": 0,
+  "criterio": "Sinais de mojibake persistem nos MD publicados; estes casos não passaram todos os gates de recuperação privada. Fonte/epígrafe/metadata/visuais/anexos ou apresentação precisam contexto. Não registrar todos como ausência de norma. Dois sufixos tratados em recibos próprios estão fora deste conjunto.",
+  "documentos": [
+    {
+      "path": "estaduais/PE/decretos-lei/sem-ano/dl-207-sem-ano-id5667.md",
+      "sha256_md": "069113de1be57dfa838c8cb86e9a76a08107d0fadab2b3081123e4dca069da22",
+      "sinal_literal": "NÂº",
+      "contexto": "xado_em: 2026-10-13\n---\n# Decreto-Lei n° 207\n\n**DECRETO-LEI NÂº 207, DE 26 DE FEVEREIRO DE 1970.**\n\nEMENTA: Autoriza o exercÃ­cio de funcionÃ¡rios em cur",
+      "cache": "estaduais/PE/_fonte/decretos-lei/sem-ano/dl-207-sem-ano-id5667.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "KeyError: 'ano'"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-002",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/decretos-lei/sem-ano/dl-243-sem-ano-id46247.md",
+      "sha256_md": "3f1a79e62de2bc2c16b8cb11a6420369e34159f44ca21ffbfb92cc3e99f0152e",
+      "sinal_literal": "NÂº",
+      "contexto": "xado_em: 2026-10-13\n---\n# Decreto-Lei n° 243\n\n**DECRETO-LEI NÂº 243, DE 26 DE MARÃ‡O DE 1970.**\n\nEstabelece, para efeito de administraÃ§Ã£o policial, a Ã",
+      "cache": "estaduais/PE/_fonte/decretos-lei/sem-ano/dl-243-sem-ano-id46247.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "KeyError: 'ano'"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-002",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/decretos-lei/sem-ano/dl-301-sem-ano-id46847.md",
+      "sha256_md": "bc5746780269d6fc62741d08abbccd11cb276882d9612c166c808888e6bc9143",
+      "sinal_literal": "NÂº",
+      "contexto": "do_em: 2026-10-13\n---\n# Decreto-Lei n° 301\n\n**DECRETO - LEI NÂº 301, DE 19 DE MAIO DE 1970.**\n\nAutoriza doaÃ§Ã£o do imÃ³vel do patrimÃ´nio do Estado.\n\nO ",
+      "cache": "estaduais/PE/_fonte/decretos-lei/sem-ano/dl-301-sem-ano-id46847.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "KeyError: 'ano'"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-002",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/decretos-lei/sem-ano/dl-303-sem-ano-id47164.md",
+      "sha256_md": "898b8cc184c3bb9369c2d53ecfdb404e3fc3d51aeac5e37a0c875a51e908174a",
+      "sinal_literal": "NÂº",
+      "contexto": "do_em: 2026-10-13\n---\n# Decreto-Lei n° 303\n\n**DECRETO - LEI NÂº 303, DE 29 DE MAIO DE 1970.**\n\nCria e extingue cargos no Quadro Permanente do Pessoal do ",
+      "cache": "estaduais/PE/_fonte/decretos-lei/sem-ano/dl-303-sem-ano-id47164.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "KeyError: 'ano'"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-002",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/decretos-lei/sem-ano/dl-307-sem-ano-id47287.md",
+      "sha256_md": "a50ac7730733899f2a660e011ba6e5db3cd53122f541cc33eaae3b008a854f4a",
+      "sinal_literal": "NÂº",
+      "contexto": "xado_em: 2026-10-13\n---\n# Decreto-Lei n° 307\n\n**DECRETO-LEI NÂº 307, DE 23 DE MAIO DE 1970.**\n\nRevoga a Lei 6.097, de 23 de maio de 1968.\n\nO GOVERNADOR D",
+      "cache": "estaduais/PE/_fonte/decretos-lei/sem-ano/dl-307-sem-ano-id47287.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "KeyError: 'ano'"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-002",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/decretos-lei/sem-ano/dl-309-sem-ano-id47326.md",
+      "sha256_md": "c16b4615f394813f31547a232311b8d963b485dce842216e355a8c2e959a91b9",
+      "sinal_literal": "NÂº",
+      "contexto": "xado_em: 2026-10-13\n---\n# Decreto-Lei n° 309\n\n**DECRETO-LEI NÂº 309, DE 29 DE MAIO DE 1970.**\n\nDispÃµe sobre a transformaÃ§Ã£o do Departamento Estadual d",
+      "cache": "estaduais/PE/_fonte/decretos-lei/sem-ano/dl-309-sem-ano-id47326.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "KeyError: 'ano'"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-002",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/decretos-lei/sem-ano/dl-50-sem-ano-id57754.md",
+      "sha256_md": "3c0f8575b99954be61454704461b27f05cff6bc9cd2446a799993b3ebe2163f7",
+      "sinal_literal": "NÂº",
+      "contexto": "ixado_em: 2026-10-13\n---\n# Decreto-Lei n° 50\n\n**DECRETO-LEI NÂº 50 DE 18 DE JULHO DE 1969.**\n\nAutoriza abertura de CrÃ©ditos Adicionais.\n\nO GOVERNADOR DO",
+      "cache": "estaduais/PE/_fonte/decretos-lei/sem-ano/dl-50-sem-ano-id57754.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "KeyError: 'ano'"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-002",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/decretos-lei/sem-ano/dl-59-sem-ano-id42293.md",
+      "sha256_md": "9337944e58dd04111b5fc832ecc4ac924e25b2a67f52f4f9212af94621d9c100",
+      "sinal_literal": "NÂ°",
+      "contexto": "ixado_em: 2026-10-13\n---\n# Decreto-Lei n° 59\n\n**DECRETO-LEI NÂ° 59 DE 26 DE JULHO 1969.**\n\nDispÃµe sobre a DivisÃ£o do Estado em RegiÃµes Administrativas",
+      "cache": "estaduais/PE/_fonte/decretos-lei/sem-ano/dl-59-sem-ano-id42293.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "KeyError: 'ano'"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-002",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/decretos-lei/sem-ano/dl-6-sem-ano-id58142.md",
+      "sha256_md": "0488d552063cdba94860b8b1d10dca3d6c1b56201e22a10f92b96ca28c2bdf3c",
+      "sinal_literal": "NÂ°",
+      "contexto": "aixado_em: 2026-10-13\n---\n# Decreto-Lei n° 6\n\n**DECRETO-LEI NÂ° 6, DE 28 DE MARCODE 1969.**\n\nDispÃµe sobrea abertura de crÃ©dito especial.\n\nO GOVERNADOR ",
+      "cache": "estaduais/PE/_fonte/decretos-lei/sem-ano/dl-6-sem-ano-id58142.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "KeyError: 'ano'"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-002",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/decretos-lei/sem-ano/dl-87-sem-ano-id57369.md",
+      "sha256_md": "c578729cf7b1c03a707f3319662598f862342237b7268f317f1bf3f89f704bf6",
+      "sinal_literal": "NÂº",
+      "contexto": "ixado_em: 2026-10-13\n---\n# Decreto-Lei n° 87\n\n**DECRETO-LEI NÂº 87, DE 19 DE SETEMBRO DE 1969.**\n\nAutoriza a abertura de crÃ©dito suplementar.\n\nO GOVERNA",
+      "cache": "estaduais/PE/_fonte/decretos-lei/sem-ano/dl-87-sem-ano-id57369.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "KeyError: 'ano'"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-002",
+          "motivo": "ValueError: CommonMark integral/sinais não confere"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-complementares/1990/lc-1-1990-id5633.md",
+      "sha256_md": "81674b96890ee0cc16a95233a701f4e379b9c4057a94f3790fae2192bad4cedd",
+      "sinal_literal": "NÂº",
+      "contexto": "m: 2026-10-13\n---\n# Lei Complementar n° 1\n\nLEI COMPLEMENTAR NÂº 1, DE 12 DE JULHO DE 1990.\n\n(Vide a Lei Complementar nÂº 4, de 2 de junho de 1992.)\n\n(Vid",
+      "cache": "estaduais/PE/_fonte/leis-complementares/1990/lc-1-1990-id5633.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-complementares/2004/lc-67-2004-id3354.md",
+      "sha256_md": "4c98fdf93ed788d19bc47cfc53dab9c76d8c6fc5addb7391e92411a330255087",
+      "sinal_literal": "NÂº",
+      "contexto": "2026-10-13\n---\n# Lei Complementar n° 67\n\n**LEI COMPLEMENTAR NÂº 67, DE 20 DE JANEIRO DE 2005.**\n\nDisciplina o cÃ¡lculo da receita que indica, e dÃ¡ outra",
+      "cache": "estaduais/PE/_fonte/leis-complementares/2004/lc-67-2004-id3354.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: data/ano não comprovados"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: data/ano não comprovados"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-complementares/2005/lc-74-2005-id4259.md",
+      "sha256_md": "554f68758dc0fdb1381ac35a27b2e5cccd992f5d4c25fd7407dc099b218f9668",
+      "sinal_literal": "NÂº",
+      "contexto": "2026-10-13\n---\n# Lei Complementar n° 74\n\n**LEI COMPLEMENTAR NÂº 74, DE 31 DE JANEIRO DE 2005.**\n\nEstabelece a quantidade mÃ¡xima de prestaÃ§Ãµes relativa",
+      "cache": "estaduais/PE/_fonte/leis-complementares/2005/lc-74-2005-id4259.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-complementares/2011/lc-183-2011-id75.md",
+      "sha256_md": "af1a6c027f5172d447f9ba12ed8967f149c19ff690bfe4763265a3eb7165cf5b",
+      "sinal_literal": "NÂº",
+      "contexto": "026-10-13\n---\n# Lei Complementar n° 183\n\n**LEI COMPLEMENTAR NÂº 183, DE 17 DE OUTUBRO DE 2011.**\n\nDispÃµe sobre a dispensa de crÃ©dito tributÃ¡rio refere",
+      "cache": "estaduais/PE/_fonte/leis-complementares/2011/lc-183-2011-id75.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-complementares/2018/lc-391-2018-id40608.md",
+      "sha256_md": "471236d6404ed4a7f597df0658753796d9f76c7d83a99f07a05149d2234da0f1",
+      "sinal_literal": "NÂº",
+      "contexto": "026-10-13\n---\n# Lei Complementar n° 391\n\n**LEI COMPLEMENTAR NÂº 391, DE 24 DE OUTUBRO DE 2018.**\n\nAltera o parÃ¡grafo Ãºnico do art. 6Âº da Lei Complemen",
+      "cache": "estaduais/PE/_fonte/leis-complementares/2018/lc-391-2018-id40608.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5497-1965-id76908.md",
+      "sha256_md": "1281b3f7cbbe110fc5a9669122f403b2787bf61fac1fd842c812ffee391938f2",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 5.497\n\n**LEI NÂº 5.497-A, DE 29 DE MARÃ‡O DE 1965.**\n\nIsenta de tributos estaduais as operaÃ§Ãµes da Caixa",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1965/lei-5497-1965-id76908.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: número da epígrafe diverge; não renumerar silenciosamente"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: número da epígrafe diverge; não renumerar silenciosamente"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5563-1965-id76771.md",
+      "sha256_md": "daf2093393ceea3b68852cded345fd28457e08fde4fb3476a4b6ab40d0d726f1",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 5.563\n\n**LEI NÂº 5.563, DE 8 JUNHO DE 1965.**\n\nAutoriza abertura de crÃ©dito especial.\n\nO PRESIDENTE DA AS",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1965/lei-5563-1965-id76771.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5564-1965-id76770.md",
+      "sha256_md": "2664922cd303d7c9068b65f84f81d3c8c98ab22513bcc1192edeffcc3eafa829",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 5.564\n\n**LEI NÂº 5.564, DE 16 DE JUHO DE 1965.**\n\nAutoriza doaÃ§Ã£o de Terreno.\n\nO GOVERNADOR DO ESTADO DE",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1965/lei-5564-1965-id76770.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "KeyError: 'juho'"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "KeyError: 'juho'"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5584-1965-id76740.md",
+      "sha256_md": "6f6c38db1f3565a392ea090a47550a9a88d5d0007073112be563410dc627a5b1",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 5.584\n\n**LEI NÂº 5.584, 5 DE JULHO DE 1965.**\n\nAutoriza abertura de crÃ©dito especial.\n\nO PRESIDENTE DA AS",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1965/lei-5584-1965-id76740.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1965/lei-5744-1965-id75126.md",
+      "sha256_md": "bf64e3896a946eaa2c5c0f8eccc0891fc2b9ddbe54d611b3a37a5384bae045d1",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 5.744\n\n**LEI NÂº 5.744, DE 26 DE NOVEMBRO DE 1965.**\n\nAutoriza abertura de crÃ©dito suplementar.\n\nO GOVERN",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1965/lei-5744-1965-id75126.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1966/lei-5813-1966-id74584.md",
+      "sha256_md": "0e21644dc6eb4ee5e30603cf0984c37e822d4b0df97d330ac713a801e0869b35",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 5.813\n\n**LEI NÂº 5.823, DE 23 DE JUNHO DE 1966.**\n\nAutoriza abertura de crÃ©dito especial.\n\nO GOVERNADOR D",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1966/lei-5813-1966-id74584.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: número da epígrafe diverge; não renumerar silenciosamente"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: número da epígrafe diverge; não renumerar silenciosamente"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1966/lei-5840-1966-id74561.md",
+      "sha256_md": "fbef18182a80b1a4fa074a876fb94a27978cead0697b7fec97cea8d7fa14e2ab",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 5.840\n\n**LEI NÂº 5.840, DE 26 DE AGOSTO DE 1966.**\n\nAutoriza o Executivo a participar de empresa subsidiÃ¡",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1966/lei-5840-1966-id74561.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1966/lei-5879-1966-id74182.md",
+      "sha256_md": "0d41be1ff02e5f0ae40e732eca0699dc02dcde926e61bd4f7625599de6480cc8",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 5.879\n\n**LEI NÂº 5.879, DE 4 DE OUTUBRO DE 1966.**\n\nTransfere SubvenÃ§Ã£o.\n\nO GOVERNADOR DO ESTADO DE PERN",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1966/lei-5879-1966-id74182.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1966/lei-5938-1966-id73931.md",
+      "sha256_md": "a5ffd56a02d439595496300f30486e8920cb6970f215ccb8ef560ab89851114b",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 5.938\n\n**LEI NÂº 5.938, DE 19 DEZEMBRO DE 1966.**\n\nConcede isenÃ§Ã£o do Imposto de Vendas e consignaÃ§Ãµes",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1966/lei-5938-1966-id73931.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-5981-1967-id71083.md",
+      "sha256_md": "a77291f1058edb052c90c4c92ba688625c0ca919e7ea81814b997b9de1e4133d",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 5.981\n\n**LEI NÂº 5.981, DE 15 DE JUNHO DE 1967.**\n\nExtingue e cria cargos no Quadro Permanente do ServiÃ§o",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1967/lei-5981-1967-id71083.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-6001-1967-id67678.md",
+      "sha256_md": "063d106e6144c1330c671c245c1a7cde157e6e697bdd9b4b37663c2738d5ff69",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 6.001\n\n**LEI NÂº 6.001, DE 6 DE SETEMRO DE 1967.**\n\nConsidera de utilidade pÃºblica a AssociaÃ§Ã£o de Prot",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1967/lei-6001-1967-id67678.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "KeyError: 'setemro'"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "KeyError: 'setemro'"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-6027-1967-id67437.md",
+      "sha256_md": "1c2e8fd5d1f3d8bce893351b5043572075dec03ef4df5f9876c9c5b0b22d1d95",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 6.027\n\n**LEI NÂº 6.027, DE 27 DE OUTUBRO DE 196.**\n\nConcede ao Chefe do Poder Executivo autorizaÃ§Ã£o para",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1967/lei-6027-1967-id67437.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-6038-1967-id67140.md",
+      "sha256_md": "26ffcde951dd585b71da4892a18198d03d07ab58dfd4e3aa95edc5fcb6d2109f",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 6.038\n\n**LEI NÂº 6.038, DE 13 NOVEMBRO DE 1967.**\n\nAutoriza a construÃ§Ã£o de uma estÃ¡tua do grande Brasi",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1967/lei-6038-1967-id67140.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-6046-1967-id66712.md",
+      "sha256_md": "ca8c6721beec58bc489b01e52e8bfbd8342f5f4c579bafe7bc7777c64e2fe60a",
+      "sinal_literal": "NÂ°",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 6.046\n\n**LEI NÂ° 6.046, DE 27 DE NOVEMBRO DE 1967.**\n\nÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1967/lei-6046-1967-id66712.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "overlay",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-6048-1967-id66725.md",
+      "sha256_md": "ea3817f92661edaca7f78498cbd108055a19eb819aaff068d98b7942c5fdee6a",
+      "sinal_literal": "NÂ°",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 6.048\n\n**LEI NÂ° 6.048, DE 27 DE NOVEMBRO DE 1967.**\n\nÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1967/lei-6048-1967-id66725.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "overlay",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-6052-1967-id66599.md",
+      "sha256_md": "0a34934ece4ef4e3d47e9aa9872cdfe5e6c18215d3b6f390a3a496eacb850b53",
+      "sinal_literal": "NÂ°",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 6.052\n\n**LEI NÂ° 6.052, DE 28 DE NOVEMBRO DE 1967.**\n\nCria cargos de Fiscal Auxiliar de Rendas de ServiÃ§o",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1967/lei-6052-1967-id66599.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "overlay",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1967/lei-6076-1967-id66484.md",
+      "sha256_md": "8b5f916f5a3607a42bb8d707c65e6814d697e3f86c69d033788a6f3561de8fec",
+      "sinal_literal": "NÂ°",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 6.076\n\n**LEI NÂ° 6.076, DE 11 DE DEZEMBRO DE 1967.**\n\nOrÃ§a a receita e fixa a despesa do Estado de Pernam",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1967/lei-6076-1967-id66484.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1968/lei-6111-1968-id63366.md",
+      "sha256_md": "25d99b7938a65fb788e14c72109abedf9b5e70c2fadb4693fbfd5facbcf856e7",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 6.111\n\n**LEI NÂº 6.111, DE 12 DE JUNHO DE 1986.**\n\nDispÃµe sobre a elaboraÃ§Ã£o dos OrÃ§amento Plurianuais",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1968/lei-6111-1968-id63366.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: data/ano não comprovados"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: data/ano não comprovados"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1968/lei-6118-1968-id63323.md",
+      "sha256_md": "cafbf5819cc40baedb07980f2b7b0c44e6989bf1a1c1753b66fa585c72840163",
+      "sinal_literal": "NÂ°",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 6.118\n\n**LEI NÂ° 6.118, DE JUNHO DE 1968.**\n\nAutoriza o Poder Executivo a abrir crÃ©dito especial par o fi",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1968/lei-6118-1968-id63323.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1968/lei-6173-1968-id58487.md",
+      "sha256_md": "457181b7c5167b48da8b837b16a571c137db0949148dfd13e20aaf3714b52404",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 6.173\n\n**LEI NÂº 6.173, DE 31 OUTUBRO DE 1968.**\n\nAutoriza a concessÃ£o de pensÃ£o especial ao Arquiteto L",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1968/lei-6173-1968-id58487.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1968/lei-6207-1968-id61136.md",
+      "sha256_md": "2b27d87b64642c6d1cecf4c838d9e6d09793740e2424bb2d0144f54d78b83f85",
+      "sinal_literal": "NÂ°",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 6.207\n\n**LEI NÂ° 6.207, DE 13 DE DEZEMRO DE 1968.**\n\nDeclara de utilidade pÃºblica o Cabanga Iate Clube.\n\n",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1968/lei-6207-1968-id61136.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "KeyError: 'dezemro'"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "KeyError: 'dezemro'"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1968/lei-6220-1968-id58390.md",
+      "sha256_md": "013fbede680640ccb4c3869178ac20ee8e89cff2f0d048510bcd2ba8acdb2373",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 6.220\n\n**LEI NÂº 6.220, DE 13 DE DEZEMBRO DE 1968.**\n\nOrÃ§a a Receita e fixa a Despesa do Estado de Pernam",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1968/lei-6220-1968-id58390.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1969/lei-6221-1969-id58159.md",
+      "sha256_md": "5874127ec919e82b5188649156f60c3d77ae02f6c434b845767f7e9eb2606466",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 6.221\n\n**LEI NÂº 6.221, DE 23 DE MAIO DE 1969.**\n\nDispÃµe sobre o OrÃ§amento Plurianual de Investimentos, ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1969/lei-6221-1969-id58159.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1972/lei-6419-1972-id39088.md",
+      "sha256_md": "bc001507b279c7e1d59fd624072a032868f8c8fa8b77a06bcb5c3fd3a5198058",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 6.419\n\n**LEI NÂº 6.419, DE 31 DE AGOSTO DE 1972.**\n\nAumenta os vencimentos da Magistratura, do MinistÃ©rio",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1972/lei-6419-1972-id39088.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "overlay",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1972/lei-6423-1972-id38850.md",
+      "sha256_md": "d8936934b887b171b2b8ff0cbf1ebb4c459d47eedf2715109612fe37a81d63f7",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 6.423\n\n**LEI NÂº 6.423, DE 26 DE SETEMBRO DE 1972.**\n\nEleva os vencimentos dos funcionÃ¡rios da Secretaria",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1972/lei-6423-1972-id38850.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "overlay",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1972/lei-6461-1972-id38980.md",
+      "sha256_md": "2e33cbe5a3cedb3663312164ce6fe51753b95bb721cf4568f664b073aa72270b",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 6.461\n\n**LEI NÂº 6257, DE 10 DE DEZEMBRO DE 1970.**\n\n(Revogado pelo art. 4Â° da Lei nÂ° 6.461, de 6 de dez",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1972/lei-6461-1972-id38980.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: número da epígrafe diverge; não renumerar silenciosamente"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: número da epígrafe diverge; não renumerar silenciosamente"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1974/lei-6741-1974-id37854.md",
+      "sha256_md": "2b1f67282961e2d6e294d9bd70cc7917f7a4acf0b390e6397b968ce1ad1eba03",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 6.741\n\n**LEI NÂº 6.741, DE 5 DE SETEMBRO DE 1974.**\n\nReajusta os vencimentos e salÃ¡rios dos funcionÃ¡rios",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1974/lei-6741-1974-id37854.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1975/lei-7037-1975-id33451.md",
+      "sha256_md": "6fef1d767fc07dc9ef844d204bed359354d100e802c7ad3216e1673e198510c4",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 7.037\n\n**LEI NÂº 7.037, DE 16 DE DEZERMBRO DE 1975.**\n\nReconhece de utilidade pÃºblica a FundaÃ§Ã£o de AÃ§",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1975/lei-7037-1975-id33451.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "KeyError: 'dezermbro'"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "KeyError: 'dezermbro'"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1975/lei-7053-1975-id33121.md",
+      "sha256_md": "c98da39b078508482997ac2c166711590ecbe4c2ced554e343ed117400168837",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 7.053\n\n**LEI NÂº 7.053, DE 24 DE DEZEMBRO DE 1975.**\n\nDispÃµe sobre o I Plano de Desenvolvimento do Estado",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1975/lei-7053-1975-id33121.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-001",
+          "motivo": "ValueError: objeto aprovado próprio exige contexto"
+        },
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-006",
+          "motivo": "ValueError: objeto aprovado próprio exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1978/lei-7637-1978-id27625.md",
+      "sha256_md": "1c7aa9fc04ac6ee925d3240434efe2b82e46de1508e4e601af5164c2e8923e94",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 7.637\n\n**LEI NÂº 7.637, 28 DE JUNHO DE 1978.**\n\nCria cargos na carreira do MinistÃ©rio PÃºblico e dÃ¡ outr",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1978/lei-7637-1978-id27625.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1979/lei-7825-1979-id17510.md",
+      "sha256_md": "259aeaef8af5a7226f899d520f74d7e512143d0b88713e2cc329489981dbfa0a",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 7.825\n\n**LEI NÂº 7.825, DE 29 DE DEZEMBRO DE 1978.**\n\nAutoriza a abertura de crÃ©dito especial.\n\nO GOVERNA",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1979/lei-7825-1979-id17510.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: data/ano não comprovados"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1979/lei-8043-1979-id5569.md",
+      "sha256_md": "f680528815fba73d55699459af8e15cffe41e08ec56a9ddfce454732aec9a2a3",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 8.043\n\n**LEI NÂº 8.043, DE 19 DE NOVEMBRO DE 1979.**\n\nInstitui o Sistema de Transporte PÃºblico de Passage",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1979/lei-8043-1979-id5569.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1979/lei-8089-1979-id11699.md",
+      "sha256_md": "044116d7f3a799d5b2de07724e173421a9e03b1b0ff082ee06d4f28aa71284c8",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 8.089\n\n**LEI NÂº 8.089 DE 18 DE DEZEMBRO DE 1979.**\n\nReajusta vencimentos e salÃ¡rios de servidores pÃºbli",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1979/lei-8089-1979-id11699.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1979/lei-8090-1979-id14176.md",
+      "sha256_md": "0dbafd49d02d37f29c24eec256b4cd7affbfd1d8da2f34097ff001f80ca7b72c",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 8.090\n\n**LEI NÂº 8.090 DE 20 DE DEZEMBRO DE 1979.**\n\nAprova o II Plano de Desenvolvimento do Estado â€“ II",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1979/lei-8090-1979-id14176.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1980/lei-8496-1980-id1862.md",
+      "sha256_md": "476767dc2c7e84bd6e8405b995923b971546c3d86be521a885efb037ba3580ed",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 8.496\n\n**LEI NÂº 8.496, DE 5 DE DEZEMBRO DE 1980.**\n\nAutoriza abertura de crÃ©dito especial.\n\nO GOVERNADOR",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1980/lei-8496-1980-id1862.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1981/lei-8621-1981-id5434.md",
+      "sha256_md": "aaac7105680ef0e0496874774e18a7c770e3f1a6323568d824fd2c44d2cf5f3b",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 8.621\n\n**LEI NÂº 8.621, DE 14 DE JULHO DE 1981.**\n\nFixa o efetivo da PolÃ­cia Militar de Pernambuco, e dÃ¡",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1981/lei-8621-1981-id5434.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: anexo próprio sem título representado exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1985/lei-9751-1985-id2433.md",
+      "sha256_md": "1d216440cfe486a309d7188f89def985ebd0441228b12bcae5685f46f2df4f75",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 9.751\n\n**LEI NÂº 9.751, DE 18 DE NOVEMBRO DE 1985.**\n\nAutoriza a desapropriaÃ§Ã£o e a alienaÃ§Ã£o de imÃ³v",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1985/lei-9751-1985-id2433.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1985/lei-9757-1985-id269.md",
+      "sha256_md": "a43d4c5e4b497c0f047c87d14afd2f9e785f93b40fde2f85d9de811818e06833",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 9.757\n\n**LEI NÂº 9.757, DE 25 DE NOVEMBRO DE 1985.**\n\nAutoriza a homologaÃ§Ã£o do tombamento da Vila Real ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1985/lei-9757-1985-id269.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1986/lei-9807-1986-id5248.md",
+      "sha256_md": "b295fd0e22da0be2c8905665289744841c724af2d81f1bc505e9733e1e9fab0d",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 9.807\n\n**LEI NÂº 9.807, DE 24 DE JANEIRO DE 1986.**\n\nDispÃµe sobre a aposentadoria do funcionÃ¡rio policia",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1986/lei-9807-1986-id5248.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1986/lei-9810-1986-id1784.md",
+      "sha256_md": "31196b0dc6fecac244fc07ca70fd3417ef74a05f9103a37f1b410ee40b88d54e",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 9.810\n\n**LEI NÂº 9.810, DE 24 DE JANEIRO DE 1986.**\n\nAutoriza a contrataÃ§Ã£o do emprÃ©stimo que especific",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1986/lei-9810-1986-id1784.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1986/lei-9811-1986-id9778.md",
+      "sha256_md": "e5c1f94c2ba9c2ab1d9aa30f976cac4f4c569de812d48132b5d7c477ecee68cd",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 9.811\n\n**LEI NÂº 9.811, DE 24 DE JANEIRO DE 1986.**\n\nAutoriza a contrataÃ§Ã£o do emprÃ©stimo que especific",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1986/lei-9811-1986-id9778.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1986/lei-9838-1986-id10325.md",
+      "sha256_md": "42a802a4cf9144b5e7923a2d93a0646a55abdb6af5d70135ebe38cda70c776cb",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 9.838\n\n**LEI NÂº 9.838, DE 2 DE JULHO DE 1986.**\n\nAutoriza a contrataÃ§Ã£o do emprÃ©stimo que especifica, ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1986/lei-9838-1986-id10325.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1986/lei-9839-1986-id2128.md",
+      "sha256_md": "b9c92518850b71e040bf8dc4dd4313c984792db02c61dbb170c963c0d1a95ccb",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 9.839\n\n**LEI NÂº 9.839 DE 2 DE JULHO DE 1986.**\n\nEleva o valor da pensÃ£o que especifica.\n\nO GOVERNADOR DO",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1986/lei-9839-1986-id2128.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1986/lei-9855-1986-id6811.md",
+      "sha256_md": "526def89b5e80de4b71de1bbd71dd3c9c1343696b8c729163856ec5dd5e16fba",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 9.855\n\n**LEI NÂº 9.855, DE 23 DE JULHO DE 1986.**\n\nAutoriza a contrataÃ§Ã£o dos emprÃ©stimos que especific",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1986/lei-9855-1986-id6811.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1986/lei-9907-1986-id4127.md",
+      "sha256_md": "26b4bfe67b109d6fcd663f7a8c2e2058fdf3531198c3b9833cc7b7c5ca78974f",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 9.907\n\n**LEI NÂº 9. 907, DE 21 DE OUTUBRO DE 1986.**\n\nCria o Conselho Estadual de Direitos da Mulher - CED",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1986/lei-9907-1986-id4127.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1986/lei-9909-1986-id7919.md",
+      "sha256_md": "d0c3e4f8d71b9463c3e20625e3504eac3ae9a576d873d4ac370ab8ec7e3b70bb",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 9.909\n\n**LEI NÂº 9. 909, DE 28 DE OUTUBRO DE 1986.**\n\nEstabelece critÃ©rios para fixar a remuneraÃ§Ã£o do ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1986/lei-9909-1986-id7919.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1986/lei-9912-1986-id6422.md",
+      "sha256_md": "f4471e98fb836f4bc9e3dc049ee545847d380fc3256c3c7a018a3806d76aa609",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 9.912\n\n**LEI NÂº 9. 912, DE 1Âº DE DEZEMBRO DE 1986.**\n\nAutoriza o Poder Executivo a conceder garantia, me",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1986/lei-9912-1986-id6422.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1986/lei-9960-1986-id3698.md",
+      "sha256_md": "65892303e01ae2a294b31c46ab1c3ac404bb0fc4fadbe22eb37a53c7a2af3049",
+      "sinal_literal": "NÂº",
+      "contexto": "\nbaixado_em: 2026-10-13\n---\n# Lei Ordinária n° 9.960\n\n**LEI NÂº 9.960, DE 17 DE DEZEMBRO DE 1986.**\n\nDefine Ã¡reas de interesse especial, dispÃµe sobre o",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1986/lei-9960-1986-id3698.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1987/lei-10000-1987-id3555.md",
+      "sha256_md": "b6d11ef79849894a58e1df66b22ca429f1bbdee890ea6438288caef27b9bd033",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.000\n\n**LEI NÂº 10.000, DE 19 DE JUNHO DE 1987.**\n\nAltera a Lei nÂº 9.892, de 6 de outubro de 1986, e dÃ¡",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1987/lei-10000-1987-id3555.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1988/lei-10115-1988-id6855.md",
+      "sha256_md": "c9fd07ca9641a3eba9190e3db76cfd51be19e291c1271cd796ff24cad24bf323",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.115\n\n**LEI NÂº 10.115 DE 26 DE MAIO DE 1988.**\n\nDispÃµe sobre a gratificaÃ§Ã£o de produtividade fiscal e",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1988/lei-10115-1988-id6855.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1989/lei-10261-1989-id2981.md",
+      "sha256_md": "1588f693e16594507d8afecdf05644ad28d730e5636cc84fc063185e779b7ed0",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.261\n\n**LEI NÂº 10.261, DE 13 DE ABRIL DE 1989.**\n\nDispÃµe sobre o reajuste salarial do mÃªs de marÃ§o de",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1989/lei-10261-1989-id2981.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1989/lei-10271-1989-id6596.md",
+      "sha256_md": "c4d83145a382eee16f969020c56d748700ed965bc66643697f3ce8c847a1596b",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.271\n\n**LEI NÂº 10.271, 6 DE JUNHO DE 1989.**\n\nReajusta os salÃ¡rios e proventos do pessoal do Poder Legi",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1989/lei-10271-1989-id6596.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1989/lei-10324-1989-id303.md",
+      "sha256_md": "3061fa21f89e693cb9d0a1cefe3857bf238d5ca8ef01cd48bf351bf587ca13a7",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.324\n\n**LEI NÂº 10.324, DE 21 DE SETEMBRO DE 1989.**\n\nDispÃµe sobre as antecipaÃ§Ãµes mensais do reajuste",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1989/lei-10324-1989-id303.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1989/lei-10327-1989-id5563.md",
+      "sha256_md": "878026fe23c4ed94bdae82c11a5cca9eecdc156641d1c5b8bfdfd9057a94871b",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.327\n\n**LEI NÂº 10.327, DE 3 DE OUTUBRO DE 1989.**\n\nCria cargos no Quadro de Pessoal Policial da Secretar",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1989/lei-10327-1989-id5563.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1989/lei-10329-1989-id4774.md",
+      "sha256_md": "01997ad2e0a1ceb095f135f86ddea67a8db42efa09aa786255a14097d5fab7e3",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.329\n\n**LEI NÂº 10.329, DE 4 DE OUTUBRO DE 1989.**\n\nAutoriza a abertura de crÃ©dito especial.\n\nO GOVERNAD",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1989/lei-10329-1989-id4774.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1989/lei-10364-1989-id5724.md",
+      "sha256_md": "a3ec8d533e1ad2375d80746f9875dd10a81bcd75cbf7902e52f4799132a8d7c8",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.364\n\n**LEI NÂº 10.364, EM 29 DE NOVEMBRO DE 1989.**\n\nTransfere SubvenÃ§Ã£o.\n\nO PRESIDENTE DA ASSEMBLÃ‰IA",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1989/lei-10364-1989-id5724.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1990/lei-10482-1990-id3643.md",
+      "sha256_md": "fc70b4249aeb5bd3a3a3f088056689d58df719732e138d96c5697279c6c7cfbc",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.482\n\n**LEI NÂº 10.482, 10 DE SETEMBRO DE 1990.**\n\nDispÃµe sobre a antecipaÃ§Ã£o de reajuste de venciment",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1990/lei-10482-1990-id3643.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1990/lei-10486-1990-id4596.md",
+      "sha256_md": "87a678136c809c654c69c0a2a198936167ecda7ea3fe51d80da2da703f0c4375",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.486\n\n**LEI NÂº 10.486 DE 17 DE SETEMBRO DE 1990.**\n\nCria o Conselho Estadual de Defesa dos Direitos, da ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1990/lei-10486-1990-id4596.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1991/lei-10550-1991-id9231.md",
+      "sha256_md": "264b5420751229a41a3a765201d8de483dad572e95bae8320e35771164f85f55",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.550\n\n**LEI NÂº 10.550, DE 8 DE JANEIRO 1991.**\n\nAutoriza o Poder Executivo a conceder garantia, mediante",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1991/lei-10550-1991-id9231.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1991/lei-10552-1991-id1088.md",
+      "sha256_md": "a296c74cc2828c309c01c75883fc4a445bb9517254f1f568cb172bc1b1a83194",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.552\n\n**LEI NÂº 10.552, DE 8 DE JANEIRO DE 1991.**\n\nDispÃµe sobre o atendimento educacional especializado",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1991/lei-10552-1991-id1088.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1991/lei-10602-1991-id10400.md",
+      "sha256_md": "79d449fc096d6bdc7e4fe7a54d128d04a48729443f6dce9ee2315c6968e074c9",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.602\n\n**LEI NÂº 10.602, DE 15 DE JULHO 1991.**\n\nAutoriza o Poder Executivo a efetuar as operaÃ§Ãµes de cr",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1991/lei-10602-1991-id10400.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1991/lei-10604-1991-id2329.md",
+      "sha256_md": "88205bba83f5763106dfa946980ba6ac2f08143ad93c4cc86089d4ed3f8e2595",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.604\n\n**LEI NÂº 10.604, DE 15 DE JULHO 1991.**\n\nDispÃµe sobre a utilizaÃ§Ã£o de cruzados novos para o pag",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1991/lei-10604-1991-id2329.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1991/lei-10618-1991-id1089.md",
+      "sha256_md": "b98aa43d25ff13be5e1ef8ec0e7551dc726def4095ce55cbea5eef0be1d2099b",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.618\n\n**LEI NÂº 10.618, DE 1Âº DE OUTUBRO 1991.**\n\nDispÃµe sobre a criaÃ§Ã£o do MunicÃ­pio de QuixabÃ¡.\n\n",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1991/lei-10618-1991-id1089.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1991/lei-10622-1991-id6704.md",
+      "sha256_md": "4a38ece5d76e44fedf10ced56aa6ee00713e266dd7436e8afddb990b3b99820c",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.622\n\n**LEI NÂº 10.622, DE 1Âº DE OUTUBRO 1991.**\n\nCria o MunicÃ­pio de Vertente do LÃ©rio.\n\nO GOVERNADOR",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1991/lei-10622-1991-id6704.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1991/lei-10623-1991-id10137.md",
+      "sha256_md": "4d03c5eee378d83abe3dc293476bdc7032eb00871145c4feff0b029e5bca7c03",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.623\n\n**LEI NÂº 10.623, DE 1Âº DE OUTUBRO 1991.**\n\nCria o MunicÃ­pio de Santa Cruz desmembrado do MunicÃ­",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1991/lei-10623-1991-id10137.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1991/lei-10624-1991-id3248.md",
+      "sha256_md": "d6bf1e93b1718c4499ded03a9cae409f9ca8cf51629f5518d1763617f1d2dd1c",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.624\n\n**LEI NÂº 10.624, DE 1Âº DE OUTUBRO 1991.**\n\nCria o MunicÃ­pio de Jucati.\n\nO GOVERNADOR DO ESTADO D",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1991/lei-10624-1991-id3248.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1991/lei-10648-1991-id2042.md",
+      "sha256_md": "eb5e1bbf4d9131075a73f35a7fce7d15c1b268abbc2533f36fc4f8dfabafcfd6",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.648\n\n**LEI NÂº 10.648, DE 18 DE NOVEMBRO DE 1991.**\n\n(Vide o art. 28 da Lei nÂº 13.332, de 7 de novembro",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1991/lei-10648-1991-id2042.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1991/lei-10685-1991-id8542.md",
+      "sha256_md": "3f73f2d3d414fcda840edf6936ca358f7cc172e2caec6a65c1af5da992a81a14",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.685\n\n**LEI NÂº 10.685, DE 23 DE DEZEMBRO DE 1991.**\n\nAltera a Lei nÂº 7.038, de 17 de dezembro de 1975, ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1991/lei-10685-1991-id8542.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: sem dispositivo inicial próprio nem promulgação/comando normativo com contexto comprovado"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1992/lei-10738-1992-id9508.md",
+      "sha256_md": "be4aaf88f372277a7629192c39cad087f85742dc7c0b1660551946f09340c3f8",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.738\n\n**LEI NÂº 10.738 DE 5 MAIO DE 1992.**\n\nFixa a remuneraÃ§Ã£o dos membros do Poder JudiciÃ¡rio e dÃ¡ ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1992/lei-10738-1992-id9508.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1992/lei-10796-1992-id268.md",
+      "sha256_md": "d3dfc4700a0e3f4c141b0a0e3cf4af8e9cc2eec3ff38a3cc1b2fed65e186128d",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.796\n\n**LEI NÂº 10.796 DE 17 DE JULHO DE 1992.**\n\nCria a AssistÃªncia Policial Militar da AssemblÃ©ia Leg",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1992/lei-10796-1992-id268.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1992/lei-10853-1992-id2298.md",
+      "sha256_md": "d8379e028e48686c39d553f96c3100929a943abb7bb5467cc87342eed22180a3",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.853\n\n**LEI NÂº 10.853, DE 29 DE DEZEMBRO DE 1992.**\n\nCria Inspetorias Regionais de Controle Externo no T",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1992/lei-10853-1992-id2298.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1993/lei-10899-1993-id5352.md",
+      "sha256_md": "9c1d48d8c98599ddcbd0333edc1a886157f20d297f639282811117d1096dc647",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.899\n\n**LEI NÂº 10.899, DE 26 DE MAIO DE 1993.**\n\nAutoriza a abertura de crÃ©dito adicionais ao orÃ§ament",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1993/lei-10899-1993-id5352.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1993/lei-10912-1993-id7087.md",
+      "sha256_md": "6b27dcc862fcc910c64fa7632b11a4cad1a0a50b94510dc57031a2ac59fa6470",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.912\n\n**LEI NÂº 10.912, DE 17 DE JUNHO DE 1993.**\n\nAutoriza a abertura de crÃ©dito suplementares ao OrÃ§a",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1993/lei-10912-1993-id7087.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1993/lei-10948-1993-id6758.md",
+      "sha256_md": "756e647ce68da44638bf7c5a20db4642851553be7bb75e2aa7620d068ccd0df6",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.948\n\n**LEI NÂº 10.948, DE 3 DE SETEMBRO DE 1993.**\n\nAutoriza a abertura de crÃ©dito suplementar ao OrÃ§a",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1993/lei-10948-1993-id6758.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1993/lei-10956-1993-id4535.md",
+      "sha256_md": "3ea6c9ac7dc191528f5597d1e4dc92e1004d61bfddefba869dda15ba12a27bdf",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 10.956\n\n**LEI NÂº 10.956, DE 7 DE OUTUBRO DE 1993.**\n\nAutoriza a abertura de crÃ©ditos suplementares ao OrÃ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1993/lei-10956-1993-id4535.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1994/lei-11035-1994-id10269.md",
+      "sha256_md": "94e403b49ad01f77ccd1fbaa279c81894b4ce0b474211421ef38b0763dbb2a66",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.035\n\n**LEI NÂº 11.035, DE 21 DE JANEIRO DE 1994.**\n\nReajusta os valores de vencimentos dos servidores do",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1994/lei-11035-1994-id10269.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-003",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1994/lei-11136-1994-id10652.md",
+      "sha256_md": "446f9dacd237a09595a79266b015a96f93353c75801f4beaa03fdff3fbd52d9f",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.136\n\n**LEI NÂº 11.136, DE 4 DE NOVEMBRO DE 1994.**\n\nAutoriza a abertura de crÃ©ditos suplementares ao Or",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1994/lei-11136-1994-id10652.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: CommonMark integral/sinais não confere"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1994/lei-11137-1994-id10462.md",
+      "sha256_md": "0c1c6c9f8e1cbdc4748e3e0c2d865aaf1d0fa35b113e5db6ec87270156c1bdab",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.137\n\n**LEI NÂº 11.137, DE 4 DE NOVEMBRO DE 1994.**\n\nAutoriza a abertura de crÃ©dito especial ao OrÃ§amen",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1994/lei-11137-1994-id10462.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1994/lei-11193-1994-id73.md",
+      "sha256_md": "13a39d34acac5ea9f4c46983e397d3836637cfa8de779f3222a3a3a2f4d57122",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.193\n\n**LEI NÂº 11.193, DE 28 DE DEZEMBRO DE 1994.**\n\nReajusta os valores de vencimentos, e gratificaÃ§Ãµ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1994/lei-11193-1994-id73.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1994/lei-11194-1994-id5606.md",
+      "sha256_md": "9d11be196ad73b77a4e71638e4d66f1d6ae4fdbfaed9185b696e052228f8398e",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.194\n\n**LEI NÂº 11.194, DE 28 DE DEZEMBRO DE 1994.**\n\nInstitui a taxa pela utilizaÃ§Ã£o dos ServiÃ§os PÃº",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1994/lei-11194-1994-id5606.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1995/lei-11212-1995-id5421.md",
+      "sha256_md": "113789e817e329086b88006e1af15c9b9516bcf1d556fa580cbe71600fa368b3",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.212\n\n**LEI NÂº 11.212, DE 25 DEMAIO DE 1995.**\n\nAutoriza a abertura de crÃ©dito especial ao OrÃ§amento F",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1995/lei-11212-1995-id5421.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1995/lei-11270-1995-id8045.md",
+      "sha256_md": "6a7ca250c64b86c54ed747537f5b937a4efc6c468017fd6c972037393b49f02f",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.270\n\n**LEI NÂº 11.270, DE 3 DE NOVEMBRO DE 1995.**\n\nAutoriza a abertura de crÃ©ditos suplementares ao Or",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1995/lei-11270-1995-id8045.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1996/lei-11342-1996-id299.md",
+      "sha256_md": "5dfb1e1d0d673dcb1fd595fe4fb12796331777300ece65b45261650ead03bbcf",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.342\n\n**LEI NÂº 11.342, EM 18 DE ABRIL DE 1996.**\n\nTransfere subvenÃ§Ã£o social que especÃ­fica.\n\nO PRESI",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1996/lei-11342-1996-id299.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1996/lei-11348-1996-id1154.md",
+      "sha256_md": "76978fe25bdf4f7a3cf47f7619400f84ca01572495b5c98a44b3994417416a7d",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.348\n\n**LEI NÂº 11.348, EM 17 DE MAIO DE 1996.**\n\nConsidera de utilidade pÃºblica a CongregaÃ§Ã£o de Sant",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1996/lei-11348-1996-id1154.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1996/lei-11376-1996-id1176.md",
+      "sha256_md": "66ec090de3ca17fe1a5c49cb475aeb3db7624a640189197cdaf727d510eab28c",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.376\n\n**LEI NÂº 11.376, DE 13 DE AGOSTO DE 1996.**\n\nIntroduz modificaÃ§Ãµes na OrganizaÃ§Ã£o JudiciÃ¡ria ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1996/lei-11376-1996-id1176.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1996/lei-11413-1996-id10215.md",
+      "sha256_md": "cd9cdfefed630586650268cee37b6782db2f48e7ad34421eeb4cef6e611e800b",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.413\n\n**LEI NÂº 11.413, DE 20 DE DEZEMBRO DE 1996.**\n\nModifica a tributaÃ§Ã£o do Imposto sobre TransmissÃ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1996/lei-11413-1996-id10215.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1997/lei-11443-1997-id9154.md",
+      "sha256_md": "b74c93c960ffa0849a5d3035919325100e49d8fbfd17063778228b4a74c50d0a",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.443\n\n**LEI NÂº 11.443, DE 1Âº DE JULHO DE 1997.**\n\nInstitui o Sistema Estadual de Esportes e Lazer no Es",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1997/lei-11443-1997-id9154.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1997/lei-11479-1997-id9782.md",
+      "sha256_md": "aea18936bb981fe52ff7c1c8223e1971b5027c01bd7bb1ba61631f56fb421f29",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.479\n\n**LEI NÂº 11.479, DE NOVEMBRO DE 1997.**\n\nDeclara de Utilidade PÃºblica a Comunidade dos Pequenos P",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1997/lei-11479-1997-id9782.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1997/lei-11482-1997-id620.md",
+      "sha256_md": "a4209918bfacd9b3f9ab32a1cb9523f39018c9bba80ee164e99e2126db83f695",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.482\n\n**LEI NÂº 11.482, 10 DE DEZEMBRO DE 1997.**\n\nConsidera de Utilidade PÃºblica o Abrigo SÃ£o Francisc",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1997/lei-11482-1997-id620.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1997/lei-11484-1997-id1624.md",
+      "sha256_md": "e76712e8abbcebca3db0c58b0379552f091ce51c8e2f081c04639a62962e339e",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.484\n\n**LEI NÂº 11.484 DE 13 DE DEZEMBRO DE 1997.**\n\n(Vide o inciso VI do art. 10 da Lei nÂº 12.474, de 1",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1997/lei-11484-1997-id1624.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1998/lei-11524-1998-id333.md",
+      "sha256_md": "3bc7ffd0053ef1e3b5047af5fd3380c9bf1e68f246d9842eb5a5a72affe068c3",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.524\n\n**LEI NÂº 11.524 DE 7 DE JANEIRO DE 1998.**\n\nCria o Fundo Estadual de ManutenÃ§Ã£o e Desenvolviment",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1998/lei-11524-1998-id333.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1998/lei-11566-1998-id5013.md",
+      "sha256_md": "8c22d5b655ad44c8f9e94ab4b9f27e9959f13101fe5e2ebce6c52baeeb0a8435",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.566\n\n**LEI NÂº 11.566, DE 26 DE AGOSTO DE 1998.**\n\nCria a \"Escola de Contas PÃºblicas Professor Barreto ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1998/lei-11566-1998-id5013.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1998/lei-11579-1998-id8255.md",
+      "sha256_md": "ad07272081f7c7b7bebf09984f708984303faeb8f161e06fb5b133b763130ed5",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.579\n\n**LEI NÂº 11.579, DE 23 DEOUTUBRO DE 1998.**\n\nAutoriza o Poder Executivo a abrir crÃ©ditos suplemen",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1998/lei-11579-1998-id8255.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1998/lei-11580-1998-id8669.md",
+      "sha256_md": "9607a3dd637926a09709908c1deb157a30a7c48b290e433341e13f9fa1ad7579",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.580\n\n**LEI NÂº 11.580, DE 26 DEOUTUBRO DE 1998.**\n\n(Vide art. 4Âº da Lei Complementar nÂº 478, de 30 de ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1998/lei-11580-1998-id8669.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1998/lei-11581-1998-id1034.md",
+      "sha256_md": "fce320a553678a38ba4c8a2cc07b7660c04fb5f77bfc804e99cb704da1e8c1d6",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.581\n\n**LEI NÂº 11.581, DE 28 DEOUTUBRO DE 1998.**\n\nAutoriza o Poder Executivo a abrir crÃ©dito especial ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1998/lei-11581-1998-id1034.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1998/lei-11584-1998-id9556.md",
+      "sha256_md": "fdb8ca246866279019a1ac6a4260874935a5c3f4094fb40ff397d9fc1d12c748",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.584\n\n**LEI NÂº 11.584, DE 4 DENOVEMBRO DE 1998.**\n\nAutoriza o Poder Executivo a abrir crÃ©dito suplement",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1998/lei-11584-1998-id9556.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1998/lei-11587-1998-id10612.md",
+      "sha256_md": "3ab6878fb8ef969a8a5ab5bc173fed1da75deed5ed5b33e709fedc7856eab4b0",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.587\n\n**LEI NÂº 11.587, DE 6 DENOVEMBRO DE 1998.**\n\nDispÃµe sobre a concessÃ£o de crÃ©dito presumido na s",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1998/lei-11587-1998-id10612.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1998/lei-11588-1998-id10578.md",
+      "sha256_md": "667151525219df4b0d1def90f340eb3fc83d5278ec71a36f1efe580f57810340",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.588\n\n**LEI NÂº 11.588, DE 11 DENOVEMBRO DE 1998.**\n\nAutoriza o Poder Executivo a receber doaÃ§Ã£o do Gov",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1998/lei-11588-1998-id10578.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1998/lei-11589-1998-id9630.md",
+      "sha256_md": "e8a7041a7b15a17df48734cd4df49268acf5f4edd3978147913416fe57c0ae86",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.589\n\n**LEI NÂº 11.589, DE 11 DENOVEMBRO DE 1998.**\n\nAutoriza o Poder Executivo a abrir crÃ©ditos supleme",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1998/lei-11589-1998-id9630.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1998/lei-11590-1998-id1941.md",
+      "sha256_md": "096a9b7a8c0b20886aafc4429490197248176fbff966f482bed4e5fd7eb3b5b5",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.590\n\n**LEI NÂº 11.590, DE 11 DENOVEMBRO DE 1998.**\n\nAutoriza o Poder Executivo a abrir crÃ©dito especial",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1998/lei-11590-1998-id1941.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1998/lei-11616-1998-id6835.md",
+      "sha256_md": "1d41d78873fa9c469512670fa66988a3b5f454322a612649c170c7c16cc957fb",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.616\n\n**LEI NÂº 11.616, DE 29 DE DEZEMBRO DE 1998.**\n\n(Vide o art. 2Âº da Lei nÂº 11.848, de 22 de setemb",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1998/lei-11616-1998-id6835.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1998/lei-11625-1998-id8192.md",
+      "sha256_md": "6f3bdfa8d5807b0e492ae7363d7d62ce140e2adcd554009d8e586bbd56bb6d5f",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.625\n\n**LEI NÂº 11.625, DE 29 DE DEZEMBRO DE 1998.**\n\nAutoriza o Poder Executivo a abrir crÃ©ditos especi",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1998/lei-11625-1998-id8192.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1999/lei-11641-1999-id5012.md",
+      "sha256_md": "1722b44deb09821809e1ecc4105bdca123cedcd5caa11c947482db43a3653f01",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.641\n\n**LEI NÂº 11.641, DE 4 DE MAIO DE 1999.**\n\n(Valor alterado pelo art. 3Âº da Lei Complementar nÂº 86",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1999/lei-11641-1999-id5012.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1999/lei-11679-1999-id4630.md",
+      "sha256_md": "849ba894a846b753a5434df1d51b5c45b2bbac77563530d7d9aca6c81f195bf8",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.679\n\n**LEI NÂº 11.679, DE 13 DE OUTUBRO DE 1999.**\n\nAutoriza o Poder Executivo a aumentar o capital soci",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1999/lei-11679-1999-id4630.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1999/lei-11697-1999-id3924.md",
+      "sha256_md": "782c32e1fa302f325dde10a8f50af5c150c93dae6a3f2b31f2df4ffe9f73a528",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.697\n\n**LEI NÂº 11.697, DE 11 DENOVEMBRO DE 1999.**\n\nDeclara de utilidade pÃºblica a Escola SÃ£o Francisc",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1999/lei-11697-1999-id3924.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1999/lei-11698-1999-id2747.md",
+      "sha256_md": "6290617ef0bddd0bfc3fcf216407fb2f74cb02d662c7512c28e53b381fcddaa9",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.698\n\n**LEI NÂº 11.698, DE 11 DENOVEMBRO DE 1999.**\n\nConsidera de utilidade pÃºblica o Lar EspÃ­rita do D",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1999/lei-11698-1999-id2747.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1999/lei-11699-1999-id354.md",
+      "sha256_md": "a17aae0e7cc1dcfabc5c1ce8e39e9155038fe4e89a55ca8ded2242ef4720b3e0",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.699\n\n**LEI NÂº 11.699 DE 12 DENOVEMBRO DE 1999.**\n\n(Vide o art. 1Âº da Lei nÂº 11.938, de 8 de marÃ§o de",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1999/lei-11699-1999-id354.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1999/lei-11705-1999-id2810.md",
+      "sha256_md": "89fdf1d8e2bd2aa801007798c95e1b850f77d3aa601269526c0856f54acd3dd8",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.705\n\n**LEI NÂº 11.705, DE 30 DENOVEMBRO DE 1999.**\n\nDeclara de utilidade pÃºblica a AssociaÃ§Ã£o MOVIMEN",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1999/lei-11705-1999-id2810.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1999/lei-11706-1999-id9425.md",
+      "sha256_md": "0e7a54d18ce3342f5a7fcff1e64a43c7b06b7bf4764a4fb97854b3feeec969fa",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.706\n\n**LEI NÂº 11.706, DE 30 DENOVEMBRO DE 1999.**\n\nDeclara de utilidade pÃºblica a AssociaÃ§Ã£o Benefic",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1999/lei-11706-1999-id9425.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1999/lei-11707-1999-id5655.md",
+      "sha256_md": "2335121f63c4883ffcccf78564a64c8350efe31587fc48a8b5d9dd58454c182f",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.707\n\n**LEI NÂº 11.707, DE 30 DENOVEMBRO DE 1999.**\n\nConsidera de utilidade pÃºblica o Centro Judaico de ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1999/lei-11707-1999-id5655.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/1999/lei-11722-1999-id3106.md",
+      "sha256_md": "9c74691175c2c617fd7c6427b0e511fba27d6c33771d02980dbbe06c07a28bc7",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.722\n\n**LEI NÂº 11.722, DE 17 DE DEZEMBRO DE 1999.**\n\nInstitui o fundo de credito PRORENDA RURAL - PE, e ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/1999/lei-11722-1999-id3106.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2000/lei-11872-2000-id4946.md",
+      "sha256_md": "66ee01cf03cfde10fb3e224d9a2f0def448958bc82ad5007eccd2068833e58b3",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.872\n\n**LEI NÂº 11.872, DE 8 DE NOVEMBRO DE 2000.**\n\nAutoriza o Poder Executivo a investir em Fundo de In",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2000/lei-11872-2000-id4946.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2000/lei-11880-2000-id9352.md",
+      "sha256_md": "343d500ba76b4d780e67beae79984008ffc24bc061e8b24c42d3d8740b0770b1",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 11.880\n\n**LEI NÂº 11.880, DE 21 DE NOVEMBRO DE 2000.**\n\nDenomina Complexo Cultural Governador Moura Cavalca",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2000/lei-11880-2000-id9352.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2002/lei-12242-2002-id3429.md",
+      "sha256_md": "abd036b57c2481e1d5be1e4b811623aa1d4db23411443955b2c31cb0579a1dbb",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 12.242\n\n**LEI NÂº 12.242, DE 28 DE JUNHO DE 2002.**\n\nDispÃµe sobre a forma de cÃ¡lculo das gratificaÃ§Ãµes ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2002/lei-12242-2002-id3429.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2003/lei-12335-2003-id4842.md",
+      "sha256_md": "d4870e8f6623e1032fafd10f6c3bdabfa30ba84b3ed635c77d6d83a345b59b57",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 12.335\n\n**LEI NÂº 12.335, DE 23 DE JANEIRO DE 2003.**\n\nIntroduz, com base na Lei Complementar Federal nÂº 1",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2003/lei-12335-2003-id4842.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2003/lei-12408-2003-id10704.md",
+      "sha256_md": "94b9366b35e1fc19812cc6543a9348ed411687148633bad08fbfeb992732bb06",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 12.408\n\n**LEI NÂº 12.408, DE 29 DE AGOSTO DE 2003.**\n\nDispÃµe sobre a adequaÃ§Ã£o orÃ§amentÃ¡ria dos Ã³rgÃ£",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2003/lei-12408-2003-id10704.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2003/lei-12520-2003-id7852.md",
+      "sha256_md": "75d1749980f4bdc7a255d042ddad5528743806d328028e8e41a84684f2fa2710",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 12.520\n\n**LEI NÂº 12.520, DE 29 DE DEZEMBRO DE 2003.**\n\nAutoriza o Poder Executivo a abrir crÃ©dito especia",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2003/lei-12520-2003-id7852.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: CommonMark integral/sinais não confere"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2004/lei-12697-2004-id8270.md",
+      "sha256_md": "17e27f52ed3821439897e3e4a8019f70925b80bbcdc1891aaae0bc78f0b541ff",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 12.697\n\n**LEI NÂº 12.697, DE 3 DE NOVEMBRO DE 2004.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Es",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2004/lei-12697-2004-id8270.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: CommonMark integral/sinais não confere"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2004/lei-12735-2004-id8345.md",
+      "sha256_md": "642d889dc0e4596f92c0d44c4b62c14f31620116b3fb674c64858616abd93b62",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 12.735\n\n**LEI NÂº 12.735, DE 15 DE DEZEMBRO DE 2004**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Es",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2004/lei-12735-2004-id8345.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2004/lei-12736-2004-id7555.md",
+      "sha256_md": "a56f395e271b94b730e0a316b36d2642bc8ffe0156464ee636762f0a777c74c9",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 12.736\n\n**LEI NÂº 12.736, DE 17 DE DEZEMRO DE 2004.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Es",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2004/lei-12736-2004-id7555.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "KeyError: 'dezemro'"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2005/lei-12805-2005-id6480.md",
+      "sha256_md": "2e086bd2b8e685df3b17a747d8652a721f0e730606da6270e898ac033a3e8037",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 12.805\n\n**LEI NÂº 12.805, DE 09 DE MAIO DE 2005.**\n\nAutoriza a abertura de crÃ©dito especial ao OrÃ§amento ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2005/lei-12805-2005-id6480.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2006/lei-13064-2006-id4734.md",
+      "sha256_md": "c7457c226e9c0b9c80eb11862771a97e27e146fc7d15e449357b366410cc7b76",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.064\n\n**LEI NÂº 13.064, DE 5 DE JULHO DE 2006.**\n\nInstitui sistemÃ¡tica de tributaÃ§Ã£o referente ao ICMS",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2006/lei-13064-2006-id4734.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2006/lei-13093-2006-id811.md",
+      "sha256_md": "37edb5a38c5cbfb24d2ef3ceda188d5765afaf6c085eff5f3e8f8ddb2ead740c",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.093\n\n**LEI NÂº 13.093, DE 21 DE SETEMBRO DE 2006.**\n\nFixa o teto remuneratÃ³rio, no Ã¢mbito do Poder Jud",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2006/lei-13093-2006-id811.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2007/lei-13285-2007-id9712.md",
+      "sha256_md": "d755eb102b0cb1a651af026507c9b3ced99bdb86ea43babf036e1ba9ccaaa836",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.285\n\n**LEI NÂº 13.285, DE 30 DE AGOSTO DE 2007.**\n\nAutoriza supressÃ£o de vegetaÃ§Ã£o de preservaÃ§Ã£o p",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2007/lei-13285-2007-id9712.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2007/lei-13288-2007-id9717.md",
+      "sha256_md": "736480d4e0ae7e268de6a22863e74954b0ee5b446588a8f6ab56e470d82afc81",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.288\n\n**LEI NÂº 13.288, DE 6 DE SETEMBRO DE 2007.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Es",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2007/lei-13288-2007-id9717.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2007/lei-13295-2007-id9945.md",
+      "sha256_md": "60f2376cf6eb14277181fbaef09745d2946bd83f043cc66813547d7eec0ea052",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.295\n\n**LEI NÂº 13.295, DE 20 DE SETEMBRO DE 2007.**\n\nInclui nova AÃ§Ã£o em Programa constante do Plano P",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2007/lei-13295-2007-id9945.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: CommonMark integral/sinais não confere"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2007/lei-13340-2007-id7907.md",
+      "sha256_md": "02fdf7fa9fa9ec63e33deb263845fb59d1443949254d770d6eff8877771dcdb0",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.340\n\n**LEI NÂº 13.340, DE 23 DE NOVEMBRO DE 2007.**\n\nAutoriza supressÃ£o de vegetaÃ§Ã£o de preservaÃ§Ã£o",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2007/lei-13340-2007-id7907.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2007/lei-13373-2007-id1650.md",
+      "sha256_md": "21e6c858b5d61db5444729f66422d3de19b2845eb2971380de196184e8c4878d",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.373\n\n**LEI NÂº 13. 373, DE 19 DE DEZEMBRO DE 2007.**\n\nAltera a remuneraÃ§Ã£o do cargo que indica, e dÃ¡ ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2007/lei-13373-2007-id1650.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13410-2008-id3079.md",
+      "sha256_md": "673e2b218316f74f1d9c589297ba4456285a0799fcd2d3c10357b3ba5428f758",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.410\n\n**LEI NÂº 13.410, DE 14 DE MARÃ‡O DE 2008.**\n\nAutoriza o Poder Executivo a contratar financiamento ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13410-2008-id3079.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13487-2008-id1560.md",
+      "sha256_md": "f2f5b421fa09712146f642fdc4a357b315de27dcb53131941e33575078255a01",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.487\n\n**LEI NÂº 13.487, DE 1Âº DE JULHO DE 2008.**\n\nCria as gratificaÃ§Ãµes que indica, no Ã¢mbito da Sec",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13487-2008-id1560.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13555-2008-id9016.md",
+      "sha256_md": "f7a05531e8d6e6ad33f4a5d3455b493f8f7c69e149a576df74b58d2bbce77960",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.555\n\n**LEI NÂº 13.555, DE 17 DE SETEMBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do E",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13555-2008-id9016.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13561-2008-id1237.md",
+      "sha256_md": "bc016fccbd09b232d8ff2773923618259dae400e10893b0ebdc2625958893a90",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.561\n\n**LEI NÂº 13.561, DE 19 DE SETEMBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do E",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13561-2008-id1237.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13563-2008-id9335.md",
+      "sha256_md": "2b22b4463ac04b57c9a91a6561729505a793fca35e9957a1bbc7b8c672b97fcb",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.563\n\n**LEI NÂº 13.563, DE 19 DE SETEMBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do E",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13563-2008-id9335.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13564-2008-id6534.md",
+      "sha256_md": "7c2388418839aa4bf2f47da80b7cb642e14f6ecdfd6db9448c24bc04a7f8f0ff",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.564\n\n**LEI NÂº 13.564, DE 19 DE SETEMBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do E",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13564-2008-id6534.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13568-2008-id7677.md",
+      "sha256_md": "dcc0a8831242c4d5ec16cb8e67931829004ffb17b28163f9258c695fc5c12e16",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.568\n\n**LEI NÂº 13.568, DE 19 DE SETEMBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do E",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13568-2008-id7677.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13569-2008-id7670.md",
+      "sha256_md": "65e2d7e68f11a691924d26022d3d9a6bf2c7dbb6452174e2b8309bbde908ee8c",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.569\n\n**LEI NÂº 13.569, DE 19 DE SETEMBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do E",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13569-2008-id7670.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13570-2008-id3298.md",
+      "sha256_md": "ef50bddf464d7d3e48beb0b7d7692929954c435b1dcd496f0e60fa00c4100528",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.570\n\n**LEI NÂº 13.570, DE 19 DE SETEMBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do E",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13570-2008-id3298.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13572-2008-id2643.md",
+      "sha256_md": "9877e874136881cbf44656411e2849f094da4ce199aa4093d4ee54ae05e862f5",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.572\n\n**LEI NÂº 13.572, DE 30 DE SETEMBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do E",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13572-2008-id2643.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13573-2008-id6257.md",
+      "sha256_md": "7309dea4ed66e106b3140a8df42848fb3672c160983c8198eadc07dff74eb215",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.573\n\n**LEI NÂº 13.573, DE 30 DE SETEMBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do E",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13573-2008-id6257.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13574-2008-id7491.md",
+      "sha256_md": "76be0d901960208980c034da1f9ef36490f828cc633021cded417ccd65d4b352",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.574\n\n**LEI NÂº 13.574, DE 30 DE SETEMBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do E",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13574-2008-id7491.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13581-2008-id9496.md",
+      "sha256_md": "eb173be37e77f837470d75e2c7731e037eb7010ad1afe0f642d99b2b029cde38",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.581\n\n**LEI NÂº 13.581, DE 15 DE OUTUBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Es",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13581-2008-id9496.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13582-2008-id5849.md",
+      "sha256_md": "f50e685556e63a8720417dd3c4b14e66629761dcb06a31bbbfcc236003b01e3a",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.582\n\n**LEI NÂº 13.582, DE 15 DE OUTUBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Es",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13582-2008-id5849.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13586-2008-id6350.md",
+      "sha256_md": "0b72ba915f712c9fbbd20d6623916472bc33e36319a068025a8c30c545fc6358",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.586\n\n**LEI NÂº 13.586, DE 17 DE OUTUBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Es",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13586-2008-id6350.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13588-2008-id3167.md",
+      "sha256_md": "a85facea09b3338990a417d54d2e531eaa4e0b98a0a07c5b5157c6983d8a7865",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.588\n\n**LEI NÂº. 10.588, DE 6 DE JUNHO DE 1991.**\n\nConcede PensÃ£o Especial.\n\nO GOVERNADOR DO ESTADO DE P",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13588-2008-id3167.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: número da epígrafe diverge; não renumerar silenciosamente"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13599-2008-id7482.md",
+      "sha256_md": "a180ee0adb1b1d2fdc58de422ccdd90f6f7a5bdc17d378e8949c7ac09b93b6bb",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.599\n\n**LEI NÂº 13.599, DE 29 DE OUTUBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Es",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13599-2008-id7482.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13601-2008-id9433.md",
+      "sha256_md": "702b4a081516f4810575c45c9aff2cfa52a7be1831bcf7eb7403a8f6725285fe",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.601\n\n**LEI NÂº 13.601, DE 29 DE OUTUBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Es",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13601-2008-id9433.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13609-2008-id9085.md",
+      "sha256_md": "82470ef633f95a17347f2b086d6707931446ab52e07feac212c488bc1f7a6cac",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.609\n\n**LEI NÂº 13.609, DE 31 DE OUTUBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Es",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13609-2008-id9085.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13613-2008-id8530.md",
+      "sha256_md": "35897673e549477b377fc7c188630beba608050e69f367bc07f2889ab348264c",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.613\n\n**LEI NÂº 13.613, DE 31 DE OUTUBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Es",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13613-2008-id8530.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13628-2008-id3677.md",
+      "sha256_md": "0686af4e86dc040f9063f6a76f293a7ca2c9913f09f4d39a55d870283693cd25",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.628\n\n**LEI NÂº 13.628, DE 18 DE NOVEMBRO DE 2008.**\n\nIntroduz modificaÃ§Ãµes na Lei nÂº 10.654, de 27 de",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13628-2008-id3677.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13631-2008-id6579.md",
+      "sha256_md": "f85af8c2957d60fbc95e25a99f3935d4f4f5cfbbdb17959e710ce6744afd0ad5",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.631\n\n**LEI NÂº 13.631, DE 19 DE NOVEMBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do E",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13631-2008-id6579.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13633-2008-id6714.md",
+      "sha256_md": "43246c74843e504d452d2f12e8390c9dff16023758eb86e1779d5242edcad669",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.633\n\n**LEI NÂº 13.633, DE 21 DE NOVEMBRO DE 2008.**\n\nDenomina de \"Hospital Metropolitano Oeste - PelÃ³pi",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13633-2008-id6714.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13640-2008-id8594.md",
+      "sha256_md": "0667244df0c68340472cd8cc22ed809d89444ae42e06f6e8554b7b87136dfebb",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.640\n\n**LEI NÂº 13.640, DE 26 DE NOVEMBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do E",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13640-2008-id8594.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13642-2008-id5530.md",
+      "sha256_md": "1c4c769e5f8bebf9cc052db9931f15281facb8b7323cab2f737f67f193f56d3d",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.642\n\n**LEI NÂº 13.642, DE 26 DE NOVEMBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do E",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13642-2008-id5530.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13667-2008-id8428.md",
+      "sha256_md": "bf987fb29754d92cb9c5cf0496d758f8819402eb79253acf65e42f5dc82e494b",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.667\n\n**LEI NÂº 13.667, DE 4 DE DEZEMBRO DE 2008.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Es",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13667-2008-id8428.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13680-2008-id5604.md",
+      "sha256_md": "b419897fd015cd416532243332954353fc6297791d3962c7599c9a7a3d1dc79f",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.680\n\n**LEI NÂº 13.680, DE 10 DE DEZEMBRO DE 2008.**\n\nRevisa, em cumprimento ao que preceitua o art. 124,",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13680-2008-id5604.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2008/lei-13696-2008-id9421.md",
+      "sha256_md": "68521617803824da71f3b812b2a7f960feed20c565f347715285bf0bb3014e76",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.696\n\n**LEI NÂº 13.696, DE 18 DE DEZEMBRO DE 2008.**\n\nAltera a Lei nÂº 13.486, de 1Âº de julho de 2008, q",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2008/lei-13696-2008-id9421.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13728-2009-id8105.md",
+      "sha256_md": "251351577034ccea29b59101063bfc596da6187894261fa5e6996496dbdf1312",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.728\n\n**LEI NÂº 13.728, DE 18 DE MARÃ‡O DE 2009.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Est",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13728-2009-id8105.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13756-2009-id5726.md",
+      "sha256_md": "be1d5f3030ca2085b99805b5ff1498298f8e6c6a59611299d3b92d68ef88c7a5",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.756\n\n**LEI NÂº 13.756, DE 24 DE ABRIL DE 2009.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Esta",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13756-2009-id5726.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13765-2009-id6453.md",
+      "sha256_md": "06665e588921c7fab5080a295dffc856b920b01b8e2e64529fc5ae6c0629c120",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.765\n\n**LEI NÂº 13.765, DE 6 DE MAIO DE 2009.**\n\nInclui AÃ§Ã£o no Plano Plurianual 2008/2011, abre crÃ©di",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13765-2009-id6453.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13792-2009-id7655.md",
+      "sha256_md": "5800dd071323d1a69dd3939a18a9df22e2bbab3ed4d15f753b77ed172109371b",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.792\n\n**LEI NÂº 13.792, DE 9 DE JUNHO DE 2009.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Estad",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13792-2009-id7655.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13806-2009-id1832.md",
+      "sha256_md": "5a5edd8977ccc41ede6ed574891d3fb158c8df926c2fab0cdc399430d5e61541",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.806\n\n**LEI NÂº 13.806, DE 18 DE JUNHO DE 2009.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Esta",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13806-2009-id1832.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13807-2009-id5411.md",
+      "sha256_md": "aee567885870320c2c51a37c82be1ba0d56132a58ce5e464197cbcafc465de44",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.807\n\n**LEI NÂº 13.807, DE 18 DE JUNHO DE 2009.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Esta",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13807-2009-id5411.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13819-2009-id9163.md",
+      "sha256_md": "c3574c2943ca3986b694e6a96acea1d86c868852b769563ba0d47e5bca2d4e85",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.819\n\n**LEI NÂº 13.819, DE 22 DE JUNHO DE 2009.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Esta",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13819-2009-id9163.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13831-2009-id2271.md",
+      "sha256_md": "7500cb8364c9a27c025564d3e68d61a8eccd1f8e624ca04ac4c3327c216a0f95",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.831\n\n**LEI NÂº 13.831, DE 29 DE JUNHO DE 2009.**\n\nAltera a Lei nÂº 13.754, de 24 de abril de 2009, que d",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13831-2009-id2271.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13838-2009-id3107.md",
+      "sha256_md": "5a647687d697134016d6d5ce7538c3c7fa973ad8554e60628e8d0fc951eb3f89",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.838\n\n**LEI NÂº 13.838, DE 7 DE AGOSTO DE 2009.**\n\nDefine critÃ©rios para a fixaÃ§Ã£o do valor da gratifi",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13838-2009-id3107.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13865-2009-id6954.md",
+      "sha256_md": "20295864d3b975e765eb8df4513ea431c6dfd224072cf2a9498c5003ae5d73c6",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.865\n\n**LEI NÂº 13.865, DE 3 DE SETEMBRO DE 2009.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Es",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13865-2009-id6954.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13887-2009-id9241.md",
+      "sha256_md": "1793428af57e016fbf58f7ab8dcd211b4c3e68348345b178a88b3c38e5f1a413",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.887\n\n**LEI NÂº 13.887, DE 30 DE SETEMBRO DE 2009.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do E",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13887-2009-id9241.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13905-2009-id9209.md",
+      "sha256_md": "7f8ce651474384fb33dca8a40691a1088132013955979e1ee810ca13f782ed29",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.905\n\n**LEI NÂº 13.905, DE 12 DE NOVEMBRO DE 2009.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do E",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13905-2009-id9209.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13916-2009-id3225.md",
+      "sha256_md": "1bb19b03797ebf265ccac3d856ffb5d0e467cfe06c0d2003a983396d1195f81d",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.916\n\n**LEI NÂº 13.916, DE 19 DE NOVEMBRO DE 2009.**\n\nInclui AÃ§Ã£o no Plano Plurianual 2008/2011, abre c",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13916-2009-id3225.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13925-2009-id9906.md",
+      "sha256_md": "430767cc762c514be69e3b1581d905fe6984aa28bbc54c7730ffb93eaf084ae3",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.925\n\n**LEI NÂº 13.925, DE 2 DE DEZEMBRO DE 2009.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Es",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13925-2009-id9906.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13926-2009-id6181.md",
+      "sha256_md": "82da9b71d9d8a22a5fabac98d921d07739e76f0b013f4529ef8f43b688d45453",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.926\n\n**LEI NÂº 13.926, DE 2 DE DEZEMBRO DE 2009.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Es",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13926-2009-id6181.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13927-2009-id5826.md",
+      "sha256_md": "8a51f01af7b61fdb1e6a1516c6737cffd73f22148ed86726753a8ecb971b57ce",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.927\n\n**LEI NÂº 13.927, DE 2 DE DEZEMBRO DE 2009.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Es",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13927-2009-id5826.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13957-2009-id6340.md",
+      "sha256_md": "ff17c1504f2308b14f9d7976053bac53eaf8d405c67ceeb7fa3b50be08cdc7b5",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.957\n\n**LEI NÂº 13.957, DE 15 DE DEZEMBRO DE 2009.**\n\nRevisa, em cumprimento ao que preceitua o art. 124,",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13957-2009-id6340.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13968-2009-id3605.md",
+      "sha256_md": "66e824518ee4806e1ff8bc9bc4c2711d00b7e1d21d26c3a817ce94cd3dc17104",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.968\n\n**LEI NÂº 13.968, DE 15 DE DEZEMBRO DE 2009.**\n\nModifica a denominaÃ§Ã£o e a competÃªncia dos Ã³rgÃ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13968-2009-id3605.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13970-2009-id4575.md",
+      "sha256_md": "1f2cda349004c1e83babeab95432c135e541c1194f95436c9b3dc1b37d1c4892",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.970\n\n**LEI NÂº 13.970, DE 15 DEDEZEMBRO DE 2009.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Es",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13970-2009-id4575.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2009/lei-13975-2009-id9549.md",
+      "sha256_md": "5dbdaf7311aec2c62bf4b49024fe1ceb09d4cb54dfe93c6fab2406d5f4299ed0",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 13.975\n\n**LEI NÂº 13.975, DE 16 DE DEZEMBRO DE 2009.**\n\nAltera a Lei nÂº 13.244, de 11 de junho de 2007, qu",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2009/lei-13975-2009-id9549.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2010/lei-14029-2010-id6016.md",
+      "sha256_md": "bff5e8d9d13244ca0dcc0f2306803941f47f60f6e8ee50c4f86876f1e40e992a",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 14.029\n\n**LEI NÂº 14.029, DE 26 DE MARÃ‡O DE 2010.**\n\nInclui AÃ§Ã£o no Plano Plurianual 2008/2011, abre crÃ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2010/lei-14029-2010-id6016.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-004",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2010/lei-14234-2010-id4739.md",
+      "sha256_md": "28087dc2df72a88cb07eec930bfe4771ee291005f33941f97ac47f75a2b6b296",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 14.234\n\n**LEI NÂº 14.234, DE 13 DE DEZEMBRO DE 2010.**\n\nRevisa, em cumprimento ao que preceitua o art. 124,",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2010/lei-14234-2010-id4739.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2011/lei-14466-2011-id10619.md",
+      "sha256_md": "b484ff649c6bdef43d5fe232aa29328df45e574ae0252605dcd2d0e1df494260",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 14.466\n\n**LEI NÂº 14.466, DE 7 DE NOVEMBRO DE 2011.**\n\nAutoriza o Estado de Pernambuco a doar, com encargo,",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2011/lei-14466-2011-id10619.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2013/lei-14926-2013-id8600.md",
+      "sha256_md": "25e2a2a009cd56e67900e4e2287de1bd4ffc9454e63dafd42fd34e6a82ea68b3",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 14.926\n\n**LEI NÂº 14. 926, DE 21 DE MARÃ‡O DE 2013.**\n\nDispÃµe sobre o valor do subsÃ­dio dos Membros do Mi",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2013/lei-14926-2013-id8600.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2013/lei-15094-2013-id5763.md",
+      "sha256_md": "a28b2ff8cf665b6d410fe9dc86019ff36a61f0e8f5dd0318d262e986c5ccbfca",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 15.094\n\n**LEI NÂº 15.094, DE 19 DE SETEMBRO DE 2013.**\n\nAutoriza o Estado de Pernambuco a receber doaÃ§Ã£o,",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2013/lei-15094-2013-id5763.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: CommonMark integral/sinais não confere"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2013/lei-15133-2013-id6165.md",
+      "sha256_md": "2202a2ca0fa39218159bca5bf83051718a42f01318a1b505bf9c7df3c5e4e4ad",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 15.133\n\n**LEI NÂº 15.133, DE 18 DE OUTUBRO DE 2013.**\n\nAutoriza o Estado de Pernambuco a doar, com encargo,",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2013/lei-15133-2013-id6165.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2013/lei-15201-2013-id1470.md",
+      "sha256_md": "2f95de5e0331501d83fb058a65e2164dc68902b59e52471c639e64b9b367ac31",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 15.201\n\n**LEI NÂº 15.201, DE 17 DE DEZEMBRO DE 2013.**\n\nDispÃµe, em cumprimento ao que preceitua o art. 124",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2013/lei-15201-2013-id1470.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2013/lei-15206-2013-id10139.md",
+      "sha256_md": "7db4d781c3c18b56d44225cd32064ae013ec90c68c66647dbfa2e7d95e50d6b9",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 15.206\n\n**LEI NÂº 15.206, DE 17 DE DEZEMBRO DE 2013.**\n\nAutoriza o Departamento Estadual de TrÃ¢nsito de Pe",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2013/lei-15206-2013-id10139.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2013/lei-15213-2013-id6273.md",
+      "sha256_md": "388c92b0ea66f38025832dc3b6610b439bd7b25806aca214728fbfb59a954a78",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 15.213\n\n**LEI NÂº 15.213, DE 19 DE DEZEMBRO DE 2013.**\n\nInstitui o Programa Minha CertidÃ£o.\n\nO GOVERNADOR ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2013/lei-15213-2013-id6273.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: CommonMark integral/sinais não confere"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2014/lei-15348-2014-id9574.md",
+      "sha256_md": "fe91f0f3f4899b010249b72c8e1c53789ff38db2db2871012a3ae6402edf11ea",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 15.348\n\n**LEI NÂº 15.348, DE 2 DE JULHO DE 2014.**\n\nAbre crÃ©dito suplementar ao OrÃ§amento Fiscal do Estad",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2014/lei-15348-2014-id9574.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2014/lei-15396-2014-id9423.md",
+      "sha256_md": "28edf28465f49e00b19c4682c9361b86d5f180f83ab0a97bc0411e4488fcbda8",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 15.396\n\n**LEI NÂº 15.396, DIA 4 DE NOVEMBRO DE 2014.**\n\nDenomina Complexo TurÃ­stico PortuÃ¡rio Governador ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2014/lei-15396-2014-id9423.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2014/lei-15397-2014-id6109.md",
+      "sha256_md": "aeafce4d830a4975e0643879ab5424aab92ff55fe3709e5a18bb5e08c1a56238",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 15.397\n\n**LEI NÂº 15.397, DIA 4 DE NOVEMBRO DE 2014.**\n\nAutoriza o Estado de Pernambuco a doar, bem como a ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2014/lei-15397-2014-id6109.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: epígrafe própria não comprovada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2014/lei-15437-2014-id1156.md",
+      "sha256_md": "096212108b07e101a5dcdf49c16500721840a46c53c642efd83d26d1057dc7f4",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 15.437\n\n**LEI NÂº 15.437, DE 23 DE DEZEMBRO DE 2014.**\n\nDispÃµe, em cumprimento ao que preceitua o artigo 1",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2014/lei-15437-2014-id1156.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2017/lei-16274-2017-id34564.md",
+      "sha256_md": "f05c38d5d298c3d811889de09b81ec78f9c65266872cbe72bc4bf90328b1eaf0",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 16.274\n\n**LEI NÂº 16.274, DE 26 DE DEZEMBRO DE 2017.**\n\nDispÃµe, em cumprimento ao que preceitua o art. 124",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2017/lei-16274-2017-id34564.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: aviso/remissão própria não representada exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2019/lei-16582-2019-id46002.md",
+      "sha256_md": "4414c1ccdbbe8a3a41f6a8865edfc1b1bea3773ec56b9995ce28affefa7a3161",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 16.582\n\n**LEI NÂº 16.582, DE 7 DE JUNHO DE 2019.2**\n\nAutoriza SUAPE - Complexo Industrial PortuÃ¡rio Govern",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2019/lei-16582-2019-id46002.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2019/lei-16583-2019-id46019.md",
+      "sha256_md": "560c5d6e3246eed1845b4276a10022a75009486b597cc9dea5392c1c1a453ab0",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 16.583\n\n**LEI NÂº 16.583, DE 10 DE JUNHO DE 2019.**\n\nAssegura, no Ã¢mbito do Estado de Pernambuco, a priori",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2019/lei-16583-2019-id46019.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2019/lei-16590-2019-id46027.md",
+      "sha256_md": "963db12a2e93fafaa51c4e610b898f2d87ba649c8251de9946ed51a5d087fc9a",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 16.590\n\n**LEI NÂº 16.590, DE 11 DE JUNHO DE 2019.**\n\nDispÃµe sobre a prioridade de pessoas com Acromatose (",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2019/lei-16590-2019-id46027.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2019/lei-16597-2019-id46289.md",
+      "sha256_md": "0dcbb6e8495c661f5def4d4b8ffa61e8631dfbdaee945f6f05a85359fd1fbf6c",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 16.597\n\n**LEI NÂº 16.597, DE 28 DE JUNHO DE 2019.**\n\nDispÃµe sobre a criaÃ§Ã£o de cargos de provimento em c",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2019/lei-16597-2019-id46289.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2019/lei-16598-2019-id46290.md",
+      "sha256_md": "d091a63700dad3bb7a84f509e06ed6bf67c94fc151d4db8328396cd55e8c1f22",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 16.598\n\n**LEI NÂº 16.598, DE 28 DE JUNHO DE 2019.**\n\nDispÃµe sobre a transformaÃ§Ã£o de cargos de proviment",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2019/lei-16598-2019-id46290.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2019/lei-16599-2019-id46291.md",
+      "sha256_md": "789e1e1eb3951ffdf9bc02c81b394ddec3cc477678bef3ad1cd6eececdb688dc",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 16.599\n\n**LEI NÂº 16.599, DE 28 DE JUNHO DE 2019.**\n\nReajusta a remuneraÃ§Ã£o dos cargos do Poder JudiciÃ¡r",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2019/lei-16599-2019-id46291.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2019/lei-16659-2019-id47646.md",
+      "sha256_md": "09b3c4caa7544ac63e04e480752f5efe267ad74679b7463e0ffcbe6a9fad5719",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 16.659\n\n**LEI NÂº 16.659, DE 10 DE OUTUBRO DE 2019.**\n\nDefine medidas a serem tomadas pelos estabelecimento",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2019/lei-16659-2019-id47646.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2019/lei-16716-2019-id48118.md",
+      "sha256_md": "ebc5e4e86f137167e8107a3e7dcce5bf56a8e19e748e06b4f83f21cdd104707c",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 16.716\n\n**LEI NÂº 16.716, DE 26 DE NOVEMBRO DE 2019.**\n\nAltera a Lei nÂº 13.371, de 19 de dezembro de 2007,",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2019/lei-16716-2019-id48118.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: formatação Markdown exige representação separada"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2020/lei-16810-2020-id48650.md",
+      "sha256_md": "7b4c0940608483a0c7b5b711f3378e6e211a28945ab97f08d80ada0e9b0e9b30",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 16.810\n\n**LEI NÂº 16.810, DE 7 DE JANEIRO DE 2020.**\n\nVeda o ingresso, circulaÃ§Ã£o e permanÃªncia de veÃ­c",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2020/lei-16810-2020-id48650.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2020/lei-16919-2020-id50850.md",
+      "sha256_md": "af73a25dfdc19b71fb9a9c252a8dbc9186df96c1bcdb32559bd0876b6b84c87b",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 16.919\n\n**LEI NÂº 16.919, DE 18 DE JUNHO DE 2020.**\n\nDetermina a adoÃ§Ã£o de medidas de proteÃ§Ã£o e enfren",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2020/lei-16919-2020-id50850.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2020/lei-17139-2020-id53823.md",
+      "sha256_md": "2800eede158906fe3f2cebb95907c6fc60f04744a74daf22717cf04b7edb83d8",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 17.139\n\n**LEI NÂº 17.139, DE 28 DE DEZEMBRO DE 2020.**\n\nDefine as especificaÃ§Ãµes tÃ©cnicas para reproduÃ§",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2020/lei-17139-2020-id53823.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2021/lei-17176-2021-id54536.md",
+      "sha256_md": "e69632ab11d98af3321d607c123713d7b08bc0fecdfe12a3f7d4c41c48f5320f",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 17.176\n\n**LEI NÂº 17.176, DE 11 DE MARÃ‡O DE 2021.**\n\nInstitui diretrizes para campanha permanente de comba",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2021/lei-17176-2021-id54536.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2021/lei-17359-2021-id56032.md",
+      "sha256_md": "52e08d8f1bcfa1cabc5503b0f9f7587f779e5a842c815af82bee0dcf361fef67",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 17.359\n\n**LEI NÂº 17.359, DE 15 DE JULHO DE 2021.**\n\nInstitui diretrizes para a instituiÃ§Ã£o de PolÃ­tica ",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2021/lei-17359-2021-id56032.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2021/lei-17541-2021-id61096.md",
+      "sha256_md": "07d230584670843fc64c30f9f54693e762b0ad756a4a66b8c040129fdaa235b5",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 17.541\n\n**LEI NÂº 17.541, DE 15 DE DEZEMBRO DE 2021.**\n\nModifica o Plano de Cargos e Carreiras dos servidor",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2021/lei-17541-2021-id61096.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: CommonMark integral/sinais não confere"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2022/lei-17814-2022-id66467.md",
+      "sha256_md": "3dd2d1e51c96814a5665fe23ecbadd9b60902fa306223f71c881cca9364e0eda",
+      "sinal_literal": "NÂº",
+      "contexto": "Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â **LEI NÂº 17.814, DE 10 DE JUNHO DE 2022.**\n\n**Â**\n\nDenomina de Rodovia Deputado OtÃ¡vio GonÃ§alo d",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2022/lei-17814-2022-id66467.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2022/lei-17833-2022-id66641.md",
+      "sha256_md": "77f6a6085e9f8340a2cd6b09cc065ebf17883abdd88f5f9335a2d4d7a9233c6c",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 17.833\n\n**LEI NÂº 17.833, DE 22 DE JUNHO DE 2022.**\n\nInstitui a PolÃ­tica Estadual de Empreendedorismo da P",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2022/lei-17833-2022-id66641.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2022/lei-17845-2022-id66659.md",
+      "sha256_md": "53a342ecaa3bb89f82012681d93668b1a854a8db8468a9cfe7ede85cdd62d741",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 17.845\n\n**LEI NÂº 17.845, DE 22 DE JUNHO DE 2022.**\n\nDispÃµe sobre a PolÃ­tica Estadual de ConscientizaÃ§Ã£",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2022/lei-17845-2022-id66659.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2022/lei-17873-2022-id66820.md",
+      "sha256_md": "a47749b67b2537b866c61317b3e5061c16c34c900e84eb38227c564f3d3c6228",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 17.873\n\n**LEI NÂº 17.873, DE 5 DE JULHO DE 2022.**\n\nReajusta os valores da GratificaÃ§Ã£o Policial de Incen",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2022/lei-17873-2022-id66820.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2022/lei-17890-2022-id66908.md",
+      "sha256_md": "34247b1d2d4bdee372e12589daf0f6d591c00a1e7934ead09599f315822f6070",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 17.890\n\n**LEI NÂº 17.890, DE 13 DE JULHO DE 2022.**\n\nDispÃµe sobre a proibiÃ§Ã£o da utilizaÃ§Ã£o da cama de",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2022/lei-17890-2022-id66908.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2022/lei-18094-2022-id70894.md",
+      "sha256_md": "e0726025436637d09085200d12315bf6c0159b4103562e0ebcbcf94e59ca32ef",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 18.094\n\n**LEI NÂº 18.094, DE 28 DE DEZEMBRO DE 2022.**\n\nInstitui a PolÃ­tica Estadual de Apoio Ã Agricultur",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2022/lei-18094-2022-id70894.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    },
+    {
+      "path": "estaduais/PE/leis-ordinarias/2022/lei-18107-2022-id70915.md",
+      "sha256_md": "3fa847b2f1d3394984d09f100bead30f178c1685f0aef62f579b5100ec74c247",
+      "sinal_literal": "NÂº",
+      "contexto": "baixado_em: 2026-10-13\n---\n# Lei Ordinária n° 18.107\n\n**LEI NÂº 18.107, DE 28 DE DEZEMBRO DE 2022.**\n\nInstitui a PolÃ­tica de PrevenÃ§Ã£o e Enfrentamento",
+      "cache": "estaduais/PE/_fonte/leis-ordinarias/2022/lei-18107-2022-id70915.html.gz",
+      "cache_existe": true,
+      "motivos": [
+        {
+          "manifesto": "pe-recuperacao-utf8-20261021-005",
+          "motivo": "ValueError: visual/ativo/tachado/ocultação exige contexto"
+        }
+      ],
+      "classificacao": "Pendência conservadora de codificação/escopo; não equivale a ausência normativa confirmada."
+    }
+  ]
+}

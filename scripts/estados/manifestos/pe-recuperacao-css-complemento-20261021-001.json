@@ -1,0 +1,11 @@
+{
+  "auditado_em": "2026-10-21T04:48:05.017820-03:00",
+  "total": 3786,
+  "total_riscos": 0,
+  "manifestos": {
+    "scripts/estados/manifestos/pe-recuperacao-utf8-final-20261021-001.json": "ab8dc89d1fb3d412b28c732ea8ece765b05147cf8f23f7ce13f79d97f4866ced",
+    "scripts/estados/manifestos/pe-recuperacao-utf8-final-20261021-002.json": "b0d955a821029a6129adc1f88b165f1da398b4a4d9bb6bfd711d01475ec401bc"
+  },
+  "criterio": "Complemento somente leitura antes de promover: zero CSS de ocultação/tachado com zeros decimais, fontes Symbol/Wingdings/Webdings atribuídas no corpo ou em classes CSS usadas. Definição @font-face isolada não atribui fonte. Riscos precisam contexto visual; não remover símbolos por inferência.",
+  "documentos": []
+}

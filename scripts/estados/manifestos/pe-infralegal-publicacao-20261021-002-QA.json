@@ -1,0 +1,685 @@
+{
+  "auditado_em": "2026-10-21T05:33:45.578330-03:00",
+  "total_auditado": 587,
+  "total_publicavel": 557,
+  "total_retido": 30,
+  "sha256_capturas_completas": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+  "prefixo_QA_001": {
+    "bytes": 675547,
+    "sha256": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6"
+  },
+  "criterio": "Coleção587 do segundo log fechado, sem reexecutar rede. Atualização do helper de identidade e apresentação exigiu replay integral nos aprovados. ID/índice/tipo/número/data/ano/versão/fonte, dispositivo próprio, avisos/objetos/anexos/visuais/tachados/ocultação/símbolos conservadores; CommonMark integral/sinais/pontuação e matrizes celulares multilinhas. Só fontes completas e None para revogada sem situação literal. CSS externo ausente não certificado.",
+  "retidos": [
+    {
+      "path": "estaduais/PE/resolucoes/2011/res-1030-2011-id8104.md",
+      "id_oficial": "8104",
+      "item_indice": {
+        "id": "8104",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.030",
+        "publicacao": "Publicada no DOE 24/03/2011",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Aprova a nomeação do Dr. JOÃO HENRIQUE CARNEIRO CAMPOS, para o cargo de Conselheiro do Tribunal de Contas do Estado de Pernambuco."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2011/res-1030-2011-id8104.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/8104/TEXTOORIGINAL/d4e8a0f0ec420b0f57ac8fc67772c8d294200c6475c11c434ba3a8debe463e54.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:07.784498-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2011/res-1042-2011-id7162.md",
+      "id_oficial": "7162",
+      "item_indice": {
+        "id": "7162",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.042",
+        "publicacao": "Publicada no DOE 02/06/2011",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede a Medalha Leão do Norte, Classe Ouro, Mérito Direitos Humanos Herbert de Souza, ao Instituto Papai."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2011/res-1042-2011-id7162.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/7162/TEXTOORIGINAL/8bf90ae8c923aa0cc962838dfeb4e82d4c7de651ce4ade09ff9aa0d035d02f96.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:09.509862-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2008/res-879-2008-id5684.md",
+      "id_oficial": "5684",
+      "item_indice": {
+        "id": "5684",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 879",
+        "publicacao": "Publicada no DOE 26/06/2008",
+        "textos": [
+          "TEXTOANOTADO",
+          "TEXTOATUALIZADO",
+          "TEXTOINDICE",
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Institui o Regulamento do Plano de Benefícios Previdenciários da Assembléia Legislativa do Estado de Pernambuco - Plano ALEPEPREV."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2008/res-879-2008-id5684.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/5684/TEXTOATUALIZADO/474a193e5dfbf5b1156373b13f46a58567b38974634d035f4b099638bf7922ec.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:12.915626-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/1999/res-437-1999-id4802.md",
+      "id_oficial": "4802",
+      "item_indice": {
+        "id": "4802",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 437",
+        "publicacao": "Publicada no DOE 12/05/1999",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Cria a Marca do sesquicentenário de Joaquim Nabuco."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/1999/res-437-1999-id4802.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/4802/TEXTOORIGINAL/ad61b58ef241674b96e7d80f26c942dde93421d3f28fc31f761bae9712ca0b8e.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:13.887894-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/1999/res-438-1999-id4174.md",
+      "id_oficial": "4174",
+      "item_indice": {
+        "id": "4174",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 438",
+        "publicacao": "Publicada no DOE 12/05/1999",
+        "textos": [
+          "TEXTOANOTADO",
+          "TEXTOATUALIZADO",
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Cria a Medalha Especial em homenagem aos 150 anos de nascimento do abolicionista Joaquim Nabuco, Patrono do Poder Legislativo."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/1999/res-438-1999-id4174.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/4174/TEXTOATUALIZADO/9eec85c7149958e3be02c6821bba8b17f41cf1c36a11a06f09ae4696d1adf582.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:14.225685-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2005/res-715-2005-id3986.md",
+      "id_oficial": "3986",
+      "item_indice": {
+        "id": "3986",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 715",
+        "publicacao": "Publicada no DOE 15/04/2005",
+        "textos": [
+          "TEXTOANOTADO",
+          "TEXTOATUALIZADO",
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Estabelece a Organização Administrativa da Assembléia Legislativa do Estado de Pernambuco."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2005/res-715-2005-id3986.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/3986/TEXTOATUALIZADO/f55c4037ed1c6a931d51a2eed424ac36fca15bf16d8b07ee688058d9e7099683.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:14.334499-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1296-2015-id3939.md",
+      "id_oficial": "3939",
+      "item_indice": {
+        "id": "3939",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.296",
+        "publicacao": "Publicada no DOE 15/05/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede licença em caráter Cultural à Deputada Priscila Krause."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1296-2015-id3939.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/3939/TEXTOORIGINAL/0e8d98dfdbe84cd56482fb8600a7e8d8713c34c3ac95d1852015d519d0cf16f3.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:14.423836-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1288-2015-id3905.md",
+      "id_oficial": "3905",
+      "item_indice": {
+        "id": "3905",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.288",
+        "publicacao": "Publicada no DOE 23/04/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede licença em caráter Cultural ao Deputado Diogo Moraes."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1288-2015-id3905.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/3905/TEXTOORIGINAL/e54d270f9b5d167bd8aa840c5365fde818be862066538390ad112be05262f80d.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:14.482116-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1292-2015-id3859.md",
+      "id_oficial": "3859",
+      "item_indice": {
+        "id": "3859",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.292",
+        "publicacao": "Publicada no DOE 06/05/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Título Honorífico de Cidadão Pernambucano a Carlos Geraldo Santana de Oliveira."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1292-2015-id3859.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/3859/TEXTOORIGINAL/085974e910b2d58ca9f933fe02b45a647648b9463529954a52da614864e4686b.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:14.518811-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1297-2015-id3730.md",
+      "id_oficial": "3730",
+      "item_indice": {
+        "id": "3730",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.297",
+        "publicacao": "Publicada no DOE 28/05/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede licença em caráter Cultural ao Deputado Sílvio Costa Filho."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1297-2015-id3730.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/3730/TEXTOORIGINAL/c13f205af2169c64848c005ff0c34bc2f8fe6fcd8c5b5bae1292208330da7e58.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:14.711403-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1298-2015-id3652.md",
+      "id_oficial": "3652",
+      "item_indice": {
+        "id": "3652",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.298",
+        "publicacao": "Publicada no DOE 05/06/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede licença em caráter Cultural ao Deputado Miguel Coelho."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1298-2015-id3652.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/3652/TEXTOORIGINAL/b3d2983a8adbc978d7a355622e4c48b4f8c3602cdd3cdf9b5c21d7e737153210.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:14.875098-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1290-2015-id3598.md",
+      "id_oficial": "3598",
+      "item_indice": {
+        "id": "3598",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.290",
+        "publicacao": "Publicada no DOE 30/04/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede licença em caráter Cultural à Deputada Teresa Leitão."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1290-2015-id3598.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/3598/TEXTOORIGINAL/20398d7c9ed9e86ba5b922585f50a65686602fc762f1315014f1d4ec5cf0216e.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:14.956164-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1280-2015-id3378.md",
+      "id_oficial": "3378",
+      "item_indice": {
+        "id": "3378",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.280",
+        "publicacao": "Publicada no DOE 18/03/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Título Honorífico de Cidadão Pernambucano ao Ilustríssimo Senhor Rodrigo Mezzalira Tchaick."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1280-2015-id3378.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/3378/TEXTOORIGINAL/bba02490c839ff05341d3ad80fd0008d403d16b5fb44a6703919de436d3346dd.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:15.434082-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2011/res-1031-2011-id3291.md",
+      "id_oficial": "3291",
+      "item_indice": {
+        "id": "3291",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.031",
+        "publicacao": "Publicada no DOE 06/04/2011",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede licença em caráter Cultural ao Deputado Gustavo Negromonte."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2011/res-1031-2011-id3291.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/3291/TEXTOORIGINAL/152b2a8b3795f806497fef80de129626bf820da6c39626fae51799424b214f2e.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:15.517161-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1283-2015-id3189.md",
+      "id_oficial": "3189",
+      "item_indice": {
+        "id": "3189",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.283",
+        "publicacao": "Publicada no DOE 15/04/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede a Medalha Joaquim Nabuco, Classe Ouro, ao médico Eliézer Rushansky."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1283-2015-id3189.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/3189/TEXTOORIGINAL/71c604ea9beaabf3d29dc4668a7c6f8a40463fca2114674f1342913aa0fe0438.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:15.617391-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1284-2015-id3120.md",
+      "id_oficial": "3120",
+      "item_indice": {
+        "id": "3120",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.284",
+        "publicacao": "Publicada no DOE 15/04/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Título de Cidadão Pernambucano ao Ilustríssimo Dr. José Iran Costa Júnior."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1284-2015-id3120.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/3120/TEXTOORIGINAL/453b38ef8b44213d0fb49feb78d5855ca0d4dcfe458811c28b73ba3345904d95.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:15.698711-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1299-2015-id3028.md",
+      "id_oficial": "3028",
+      "item_indice": {
+        "id": "3028",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.299",
+        "publicacao": "Publicada no DOE 09/06/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede licença em caráter Cultural ao Deputado Clodoaldo Magalhães."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1299-2015-id3028.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/3028/TEXTOORIGINAL/ed1b73f54ee83e605b3ad8ce9fa46cb9b167670def23bd743eb13b42da818129.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:15.872571-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2014/res-1272-2014-id2659.md",
+      "id_oficial": "2659",
+      "item_indice": {
+        "id": "2659",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.272",
+        "publicacao": "Publicada no DOE 11/12/2014",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Altera a Resolução nº 646, de 4 de dezembro de 2003, que institui o Código de Ética Parlamentar da Assembleia Legislativa do Estado de Pernambuco, cria a Comissão de Ética Parlamentar e dá outras providências."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2014/res-1272-2014-id2659.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/2659/TEXTOORIGINAL/933bbdaec847d812ed9a5731e3e0c699f0588d5814b297270c0717c0245b516f.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:16.814369-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2014/res-1268-2014-id2651.md",
+      "id_oficial": "2651",
+      "item_indice": {
+        "id": "2651",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.268",
+        "publicacao": "Publicada no DOE 09/10/2014",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Cria a Medalha Comemorativa em homenagem dos 25 anos da Constituição do Estado de Pernambuco."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2014/res-1268-2014-id2651.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/2651/TEXTOORIGINAL/9e874c93ce4dc4c7c8bc520bfcc75b6ad21be04c69d80ef6a6aece417c7e80c0.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:16.926617-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2011/res-1038-2011-id2581.md",
+      "id_oficial": "2581",
+      "item_indice": {
+        "id": "2581",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.038",
+        "publicacao": "Publicada no DOE 27/04/2011",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede licença em caráter Cultural ao Deputado Maviael Cavalcanti."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2011/res-1038-2011-id2581.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/2581/TEXTOORIGINAL/494d8df646895c3d26fd4525ec30c49becdaedb1189c2ef144ecac1a4e2517d3.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:16.949946-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2011/res-1037-2011-id2357.md",
+      "id_oficial": "2357",
+      "item_indice": {
+        "id": "2357",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.037",
+        "publicacao": "Publicada no DOE 20/04/2011",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede licença em caráter Cultural ao Deputado Ciro Coelho."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2011/res-1037-2011-id2357.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/2357/TEXTOORIGINAL/897a5e58e9a7ade1d804ded0d12f1a565f16387ca003f206124a1872c68b4bb9.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:17.329501-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2011/res-1043-2011-id1561.md",
+      "id_oficial": "1561",
+      "item_indice": {
+        "id": "1561",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.043",
+        "publicacao": "Publicada no DOE 02/06/2011",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede a Medalha Leão do Norte do Mérito \"Administrativo e Assistência Social Ministro Marcos Freire\" a Entidade que indica e dá outras providências."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2011/res-1043-2011-id1561.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/1561/TEXTOORIGINAL/e7c90bb9ba46a8f2c28709894a5c69210eea1cca823192fdddb9084b1fdb035e.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:18.154671-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2011/res-1029-2011-id1242.md",
+      "id_oficial": "1242",
+      "item_indice": {
+        "id": "1242",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.029",
+        "publicacao": "Publicada no DOE 24/03/2011",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Aprova a nomeação do Procurador do Ministério Público de Contas DIRCEU RODOLFO DE MELO JÚNIOR, para o cargo de Conselheiro do Tribunal de Contas do Estado de Pernambuco."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2011/res-1029-2011-id1242.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/1242/TEXTOORIGINAL/cbc1092fae6554ad2f2f115bc95311d66c8fc6845f6d5220191757e50a185c47.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:18.477927-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/1997/res-358-1997-id1073.md",
+      "id_oficial": "1073",
+      "item_indice": {
+        "id": "1073",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 358",
+        "publicacao": "Publicada no DOE 30/10/1997",
+        "textos": [
+          "TEXTOANOTADO",
+          "TEXTOATUALIZADO",
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Modifica a instituição do “Prêmio Continental 2001”, pelo Desenvolvimento Econômico Cultural de Pernambuco, denominado “TROFÉU LEÃO DO NORTE”, e dá outras providências."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/1997/res-358-1997-id1073.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/1073/TEXTOATUALIZADO/ba1c20e85b608f1fa2666242a1812290c7e1a7e3878e1f19e0cb91a359da247a.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:18.886830-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2009/res-931-2009-id763.md",
+      "id_oficial": "763",
+      "item_indice": {
+        "id": "763",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 931",
+        "publicacao": "Publicada no DOE 17/09/2009",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Altera a Resolução nº 879, de 25 de junho de 2008, que institui o Regulamento do Plano de Benefícios Previdenciários da Assembleia Legislativa do Estado de Pernambuco - Plano ALEPEPREV."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2009/res-931-2009-id763.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/763/TEXTOORIGINAL/a21676d081a08682a0bbc739bc27c3b0fe049d86cedf08ed90fd82290aa3454c.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:19.395494-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1302-2015-id742.md",
+      "id_oficial": "742",
+      "item_indice": {
+        "id": "742",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.302",
+        "publicacao": "Publicada no DOE 10/06/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede licença em caráter Cultural ao Deputado Eriberto Medeiros."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1302-2015-id742.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/742/TEXTOORIGINAL/40d5bb4361d3e40ab70c207c883ca79b043962f343b6593d715cce0669ff179b.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:19.476009-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2010/res-972-2010-id574.md",
+      "id_oficial": "574",
+      "item_indice": {
+        "id": "574",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 972",
+        "publicacao": "Publicada no DOE 16/03/2010",
+        "textos": [
+          "TEXTOANOTADO",
+          "TEXTOATUALIZADO",
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Consolida e disciplina o funcionamento dos serviços administrativos, financeiros e contábeis e da segurança interna, todos integrantes da estrutura organizacional e administrativa da Assembleia Legislativa do Estado de Pernambuco, em cumprimento ao disposto no art. 20, parágrafo único do Regimento Interno da Assembleia Legislativa do Estado de Pernambuco, com fundamento na Lei nº 12.776 de 23 de Março de 2005 e suas alterações posteriores, bem como na Resolução nº 715/2005."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2010/res-972-2010-id574.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/574/TEXTOATUALIZADO/0beb2332f1d3c9305396535f0a1b4548f58dfd5b647d876ec1b353fbc4a95749.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:19.679480-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2011/res-1044-2011-id521.md",
+      "id_oficial": "521",
+      "item_indice": {
+        "id": "521",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.044",
+        "publicacao": "Publicada no DOE 02/06/2011",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede medalha Leão do Norte, classe ouro, mérito Zumbi dos Palmares à Dra. Vera Regina de Paula Baroni."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2011/res-1044-2011-id521.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/521/TEXTOORIGINAL/fab92da4b87541a053fa5f12328ac8c5edf107ef7a18883ebd16f88e1fae7185.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:19.866258-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1294-2015-id508.md",
+      "id_oficial": "508",
+      "item_indice": {
+        "id": "508",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.294",
+        "publicacao": "Publicada no DOE 07/05/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede o Título Honorífico de Cidadão Pernambucano a Ismar Teixeira Cabral."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1294-2015-id508.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/508/TEXTOORIGINAL/e6c2be3cb5bbb30d6120b740a0d6b58f8bf4c2342b6fffcae72d32002b537f7c.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:19.899023-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    },
+    {
+      "path": "estaduais/PE/resolucoes/2015/res-1281-2015-id276.md",
+      "id_oficial": "276",
+      "item_indice": {
+        "id": "276",
+        "tipo": "4",
+        "nome": "Resolução da Alepe n° 1.281",
+        "publicacao": "Publicada no DOE 31/03/2015",
+        "textos": [
+          "TEXTOORIGINAL"
+        ],
+        "ementa": "Concede licença em caráter Cultural ao Deputado Vinícius Labanca."
+      },
+      "cache": "estaduais/PE/_fonte/resolucoes/2015/res-1281-2015-id276.html.gz",
+      "captura": "estaduais/PE/_fonte/respostas/276/TEXTOORIGINAL/87044d398e74e47caebf6f0963620a28bb8f6bba7d4e229c4216b0bf11d9296f.html.gz",
+      "aceito": false,
+      "auditado_em": "2026-10-21T05:33:20.160539-03:00",
+      "bytes_prefixo_log": 675547,
+      "sha256_prefixo_log": "6feb0af088a0ba436e2f3c0c506c14f531331354cad51b10fa9a9fc6eb5f5df6",
+      "sha256_codigo_auditor": "98078db9918c1363fda479eb89e5feac954e13dd0484579ef8b07a2b082cefa9",
+      "motivo": "ValueError: visual/ativo/tachado/ocultação/fonte de símbolos exige contexto"
+    }
+  ]
+}

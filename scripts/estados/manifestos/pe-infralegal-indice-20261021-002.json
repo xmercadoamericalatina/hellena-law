@@ -1,0 +1,44 @@
+{
+  "iniciado_em": "2026-10-21T03:39:19.620751-03:00",
+  "finalizado_em": "2026-10-21T03:39:29.141506-03:00",
+  "tipos": [
+    "4",
+    "5",
+    "8"
+  ],
+  "total_ids": 2599,
+  "contagens": {
+    "4": 2047,
+    "5": 213,
+    "8": 339
+  },
+  "completo": true,
+  "erros": [],
+  "lista": "estaduais/PE/_indice/infralegal-20261021-002/lista.json",
+  "sha256_lista": "a21a5552fe3b926d337052def88eb17c5075a6fc3e958327808c6431bead7485",
+  "requisicoes": [
+    {
+      "em": "2026-10-21T03:39:19.640565-03:00",
+      "url": "https://legis.alepe.pe.gov.br/lista.aspx?tiponorma=4",
+      "cache_reutilizado": "estaduais/PE/_indice/infralegal-20261021-001/tipo-4/inicial.html.gz",
+      "sha256": "b28cbc457a5271aa61b68a319171c657e257054332a1d2fc43898c291f78f5a7"
+    },
+    {
+      "em": "2026-10-21T03:39:25.589315-03:00",
+      "url": "https://legis.alepe.pe.gov.br/lista.aspx?tiponorma=5",
+      "metodo": "GET",
+      "http": 200,
+      "bytes": 968251,
+      "sha256": "b7d359820ba2bcb223207f6b0f8a672842ccdb3cf996409427db12cc4afc2bc7"
+    },
+    {
+      "em": "2026-10-21T03:39:29.049359-03:00",
+      "url": "https://legis.alepe.pe.gov.br/lista.aspx?tiponorma=8",
+      "metodo": "GET",
+      "http": 200,
+      "bytes": 1406203,
+      "sha256": "761f08a2eb117007f02af38977cea01021599c1ca66f9ae4dd42e321d7009a97"
+    }
+  ],
+  "criterio": "Três categorias oficiais previstas no plano. Índices sem seletor de ano são preservados sem inventar ano por publicação. Uma requisição serial a cada 1,1 s, ou cache imutável da tentativa anterior. Índice não equivale à publicação."
+}

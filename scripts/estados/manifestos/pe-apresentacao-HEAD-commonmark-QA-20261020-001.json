@@ -1,0 +1,808 @@
+{
+  "renderizador": "markdown-it-py 4.0.0 / CommonMark com HTML e tables",
+  "total": 30,
+  "aceitos": 28,
+  "retidos": 2,
+  "documentos": [
+    {
+      "path": "estaduais/PE/decretos/2013/dec-40127-2013-id14726.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "145181a9c14aa92848b0b1464fc0dbbe85e00569ca4b71b5cf9843d599647623",
+      "cache": "estaduais/PE/_fonte/decretos/2013/dec-40127-2013-id14726.html.gz",
+      "sha256_cache": "ad2ef876379fac6d781a750675c9d4e2bf5cc716fe0b782c7fa5538d4572c83e",
+      "sha256_fonte": "eacc2148ac7e353ccc6f4d0bc464f7aa484ed11ee48acbae17512d02e0ae6389",
+      "sha256_campo": "69e0276c52cdd57c13cb62ff35fb131aef358142e210e44a79aa66967474326f",
+      "sha256_html_renderizado": "4a0ecac5d19ef5fe3fc6ec66940a0825496a8bc5412eef1a19bc5c797b00007a",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52176-2022-id61502.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "be4b6e55396ab01a78e2e0616bb4fabb672046c97744fa43760d49eada7f9554",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52176-2022-id61502.html.gz",
+      "sha256_cache": "5c86e42be5255ed120ba54b13ef3aaea9b930c36035761154790fe70c21a271a",
+      "sha256_fonte": "22d2f6595daa70c7a5a01e1b7360d2e21b968690d64fe00b5b93e8135c6b8b44",
+      "sha256_campo": "f137d0268ff63b94e3e76a7b483f678acc973d2ab48c8f8b54b4e8be48aa8c77",
+      "sha256_html_renderizado": "32340e95e48676b525252b6a3a93e3f84e342e742553e2e2b0e5da76aa010d72",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52495-2022-id62355.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "9952573dc6e081571cb403c2f12fd21afff62bdc83b84b2eb0db8913ff02a908",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52495-2022-id62355.html.gz",
+      "sha256_cache": "1b715f0ea6a06d910df13dff84c6a52944472fd141cb1ee8b61695e5ec964c2b",
+      "sha256_fonte": "f6419573dafb561af5faf42e155c77ce10918eaecfe1f67289413c8b6ad01fa5",
+      "sha256_campo": "8d7825891006d03d244b9027465a353a3018a460f594d6e1645f35dbaa3d4568",
+      "sha256_html_renderizado": "1bd78656489e67238e8586fec8c9e791d40c193d6f69695f4abf4a5f9f9f5c03",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [
+        {
+          "markdown": "TÍTULO I — DA CARACTERIZAÇÃO DO ESTABELECIMENTO",
+          "fonte": "TÍTULO I DA CARACTERIZAÇÃO DO ESTABELECIMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO I — DA DENOMINAÇÃO, LOCALIZAÇÃO E MANTENEDOR",
+          "fonte": "CAPÍTULO I DA DENOMINAÇÃO, LOCALIZAÇÃO E MANTENEDOR",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DO PÚBLICO ALVO E HORÁRIO DE FUNCIONAMENTO",
+          "fonte": "CAPÍTULO II DO PÚBLICO ALVO E HORÁRIO DE FUNCIONAMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DOS PRINCÍPIOS EDUCACIONAIS E FINALIDADES DO CEIUP",
+          "fonte": "CAPÍTULO III DOS PRINCÍPIOS EDUCACIONAIS E FINALIDADES DO CEIUP",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO II — DA ORGANIZAÇÃO DO ENSINO",
+          "fonte": "TÍTULO II DA ORGANIZAÇÃO DO ENSINO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO I — DAS DIRETRIZES PEDAGÓGICAS DO CEIUP",
+          "fonte": "CAPÍTULO I DAS DIRETRIZES PEDAGÓGICAS DO CEIUP",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA ESTRUTURA ORGANIZACIONAL DO CEIUP",
+          "fonte": "CAPÍTULO II DA ESTRUTURA ORGANIZACIONAL DO CEIUP",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Do Núcleo de Apoio Pedagógico - Síndrome do Zika Vírus, Doenças Raras e outras deficiências",
+          "fonte": "Seção I Do Núcleo de Apoio Pedagógico - Síndrome do Zika Vírus, Doenças Raras e outras deficiências",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Do Núcleo de Altas Habilidades e Superdotação",
+          "fonte": "Seção II Do Núcleo de Altas Habilidades e Superdotação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Do Núcleo de Formação de Profissionais da Educação",
+          "fonte": "Seção III Do Núcleo de Formação de Profissionais da Educação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DA MATRÍCULA E DO ACESSO AOS SERVIÇOS E PROGRAMAS DO CEIUP",
+          "fonte": "CAPÍTULO III DA MATRÍCULA E DO ACESSO AOS SERVIÇOS E PROGRAMAS DO CEIUP",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DA FREQUÊNCIA",
+          "fonte": "CAPÍTULO IV DA FREQUÊNCIA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DA FORMA DE REGISTRO DOS RESULTADOS DA APRENDIZAGEM",
+          "fonte": "CAPÍTULO V DA FORMA DE REGISTRO DOS RESULTADOS DA APRENDIZAGEM",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DA EXPEDIÇÃO DE DOCUMENTOS",
+          "fonte": "CAPÍTULO VI DA EXPEDIÇÃO DE DOCUMENTOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO III — DA ADMINISTRAÇÃO DO CEIUP",
+          "fonte": "TÍTULO III DA ADMINISTRAÇÃO DO CEIUP",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO I — DA CONCEPÇÃO E FORMA DE GESTÃO",
+          "fonte": "CAPÍTULO I DA CONCEPÇÃO E FORMA DE GESTÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DAS FORMAS DE PARTICIPAÇÃO DA ADMINISTRAÇÃO DO CEIUP",
+          "fonte": "CAPÍTULO II DAS FORMAS DE PARTICIPAÇÃO DA ADMINISTRAÇÃO DO CEIUP",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Do Conselho Administrativo",
+          "fonte": "Seção I Do Conselho Administrativo",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Do Conselho Pedagógico",
+          "fonte": "Seção II Do Conselho Pedagógico",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS FORMAS DE CONTROLE SOCIAL",
+          "fonte": "CAPÍTULO III DAS FORMAS DE CONTROLE SOCIAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DA ESTRUTURA ADMINISTRATIVA",
+          "fonte": "CAPÍTULO IV DA ESTRUTURA ADMINISTRATIVA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Da Gestão do CEIUP",
+          "fonte": "Seção I Da Gestão do CEIUP",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Do(a) Coordenador(a) Pedagógico(a)",
+          "fonte": "Seção II Do(a) Coordenador(a) Pedagógico(a)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Do Chefe de Secretaria",
+          "fonte": "Seção III Do Chefe de Secretaria",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — Da Equipe de Apoio Administrativo",
+          "fonte": "Seção IV Da Equipe de Apoio Administrativo",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção V — Da Equipe de Serviços Gerais",
+          "fonte": "Seção V Da Equipe de Serviços Gerais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção VI — Dos Profissionais da Educação, da Saúde e Assistentes Sociais",
+          "fonte": "Seção VI Dos Profissionais da Educação, da Saúde e Assistentes Sociais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DOS PRINCÍPIOS DE CONVIVÊNCIA SOCIAL",
+          "fonte": "CAPÍTULO V DOS PRINCÍPIOS DE CONVIVÊNCIA SOCIAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Dos Direitos dos Estudantes",
+          "fonte": "Seção I Dos Direitos dos Estudantes",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Dos Deveres dos Estudantes",
+          "fonte": "Seção II Dos Deveres dos Estudantes",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Dos Direitos e Deveres dos Profissionais da Educação",
+          "fonte": "Seção III Dos Direitos e Deveres dos Profissionais da Educação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — Dos Direitos e Deveres da Equipe Técnico-Pedagógica",
+          "fonte": "Seção IV Dos Direitos e Deveres da Equipe Técnico-Pedagógica",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO IV — DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+          "fonte": "TÍTULO IV DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52183-2022-id61487.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "1156cb91cf4b28e231097bea1e01cfc2e04ba329981882c64839d664dd5d66cd",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52183-2022-id61487.html.gz",
+      "sha256_cache": "a1df8bf33a098df8793ba8ab44c7f7d935051fabccef48a8f4e2b601e74d4e4e",
+      "sha256_fonte": "9c80e0d274ea419af9f941722fe1caebd71588e871e1e4bb270694424d161548",
+      "sha256_campo": "eb44756be2be32c1b385f8bcef81e45e6e21b7327bf76de5d3a172b02691c8f4",
+      "sha256_html_renderizado": "68071359ca23fc71f4da56f282f86478c50b441252ea212e48431764f1ee0c05",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52643-2022-id62741.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "7d77bbc1d28736ceea060a5ae656d1aba8f1fdaebbfcdd37e9d4c31c4ec59c4c",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52643-2022-id62741.html.gz",
+      "sha256_cache": "3d18aceb525262b796ac18c2dcd43dc9ab51f71e8d5d76103402e0d03de12e98",
+      "sha256_fonte": "48f55f1d74fc9cc87760b1af0502ff7684cdd9a385da36751db8e3573eea002a",
+      "sha256_campo": "0569822629699e0ffefa11f25a9652404bceac6a9242f1427a6022f751073018",
+      "sha256_html_renderizado": "c875d814dc40a71a1152dc606ee7dc7d127df488e3ecab1db952b89e439d2ecd",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52669-2022-id62765.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "ba925753ea82a556ae52cfbf4bd90a207697c5ac2c8072374d49a1d1391f6c2c",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52669-2022-id62765.html.gz",
+      "sha256_cache": "613e65c0f3bbe0edb9a5360f749fe37b42ca7c05723acc34a57e40440a513b2a",
+      "sha256_fonte": "91442ccbeda4c757b93f0b8a2b0e26b3a47a4698181219be3b45d2add8a90402",
+      "sha256_campo": "d840d52b7d4f21e025fcce64c7ba273229765e8c09780dff6a5f5bfcaac6b7a2",
+      "sha256_html_renderizado": "f5dd797bc524ede6ec9ff2fb58cce1a33eeeea12c9b099bbbe09ca38b0edac35",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52177-2022-id61503.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "ee3a9084d3e2b6e135bcf972d2f3c9722605acd80f414926a7accb644c680ee8",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52177-2022-id61503.html.gz",
+      "sha256_cache": "7174d6621eb43ae763795a8de2fa901b238a624299be6b58b056bc9eaa53983c",
+      "sha256_fonte": "bb8b4106f93e1cb5a77d059862329925dfde70f767bb360fbc6ead0d429c17fb",
+      "sha256_campo": "67164d5b476c845c2483a92678cb5d7e6acbc76105ff9aade218dc764a855791",
+      "sha256_html_renderizado": "bcfd6ee48d758192ab90f4c3e455509ea14d6077e969f75891af2bc1ab66436b",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52189-2022-id61509.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "de3b922552015c2a6eb5d68e51d0102e238dbe4873f514dc4aa7bbd4878fd4c0",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52189-2022-id61509.html.gz",
+      "sha256_cache": "57d20984256547a42fbbddd5a84a0895cdbbb662609e5c9db406689fffde82bb",
+      "sha256_fonte": "ad13161f6b096b9b4b3f9b74a0f3571fc9e510691cbfcf1acc7fffba9a782a04",
+      "sha256_campo": "3164be485f33cad31592f6978fd03a1f8ecaad3c469aa1e3671cb62f5faa545a",
+      "sha256_html_renderizado": "4446140c994e12fdd1752e04c90b14d122d3e6e6513274dca779ce2f9fa66d45",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52178-2022-id61485.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "7518c942704f45ec3a5d6b92f9cdaf8a2b320860a58a680884c14b49e2d038e5",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52178-2022-id61485.html.gz",
+      "sha256_cache": "1fd6902b26408eff94928f12118471f34608dfe87db43f0791fcf98e5a18f4b1",
+      "sha256_fonte": "7a13dcd1d8793310366bc799ab437ef3f2117c2aa27aa44cb28344ae6fb132d5",
+      "sha256_campo": "fa0a97fbd6b8ef29de90e58d1bc2d267f547be4611281f1df382c32bb4e9234f",
+      "sha256_html_renderizado": "e7555bd6dacb0ce58b753c36b8ab7bea909b5ce645a3bf9071772ea8b33f210f",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-53190-2022-id66923.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "52f8e90650cf200318444260afe04d6857676579602a3b1e2d833c366b9f415a",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-53190-2022-id66923.html.gz",
+      "sha256_cache": "1a46a4b86b0cb5d9e76dca6d4c731feacd20007ad9536d359a8cbcbbb8ff8582",
+      "sha256_fonte": "58f383bdce3d36a9d421b81b69397c4dd980b6e56c49dab6b9bb4bb719ec6ff8",
+      "sha256_campo": "f81616220b4408894c0ee78280e41b5a0375966fcc43aad21583bb61d30b7bcf",
+      "sha256_html_renderizado": "5eb06663d3e73860b7099d3bb26be815dd2c5a6eca7af6b88893a8c083a6fa23",
+      "texto_visivel_integral_confere": false,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": {
+        "posicao": 93,
+        "fonte": "DECRETO Nº 53.190, DE 14 DE JULHO DE 2022. Altera o Decreto nº 50.873, de 17 de junho de 2021, que regulamenta a Lei nº 17.322, de 15 de junho de 2021, e prorroga o prazo de aporte dos recursos financeiros para custeio de solução de conectividade, na forma do art. 2º, § 1º, da citada Lei. O G",
+        "md": "DECRETO Nº 53.190, DE 14 DE JULHO DE 2022. Altera o Decreto nº 50.873, de 17 de junho de 2021**, que regulamenta a** Lei nº 17.322, de 15 de junho de 2021**, e prorroga o prazo de aporte dos recursos financeiros para custeio de solução de conectividade, na forma do art. 2º, § 1º, da citada Le"
+      },
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52180-2022-id61504.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "0594659d474a19d55c5096996919ea4e632e315119fd9f6252958f697435c6d0",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52180-2022-id61504.html.gz",
+      "sha256_cache": "1c5b0f0a9d9587412d003da9e5707c8bbb50cfd124eb398767d982f26bd2a489",
+      "sha256_fonte": "c14e6130d8a7a3052bd0a91421a4730796881ea1b88a245c0bb5d17f2e154c61",
+      "sha256_campo": "ac69881bd7d9a8006130481d521c830c57ca12a951f12976b8cb695d26096743",
+      "sha256_html_renderizado": "2e5b283577365ad6f6f90a229d7a053549ff0bb9c79092e48a8f4d11f674418c",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52185-2022-id61507.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "371aeaad653166b0a036b6b84006894a8b06ddecb26d0a4344b757732d320978",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52185-2022-id61507.html.gz",
+      "sha256_cache": "9472b5d8d6e64967d76533585af8a56b5861c004d576e9333bdc4b3c4eab8a43",
+      "sha256_fonte": "04eac03c4ac1e5e583111d0095ac5aa0c467f7ec1f1f81914b155d54bc8b8241",
+      "sha256_campo": "1b3cff0761f5eae518d6feb5fce6c12d61f889998f226bf48edec02b2007cc4e",
+      "sha256_html_renderizado": "aacb80526381c7dd012d0264b40a6848fc54ae7b3efd84ca93c373063d36d1d9",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52726-2022-id62845.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "3f1b4a1fe33b682d04d7fae8326f72936846913e2f9c8326313c5c289e665a88",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52726-2022-id62845.html.gz",
+      "sha256_cache": "73a7f42408bd8a9f9b06ab366aaa60fabb5936be03a76637207695a383bfa58f",
+      "sha256_fonte": "6016ca0b5993f7beb0391dc10fa1288eb197046ca62d8cc36482b93d1d4509f5",
+      "sha256_campo": "7484b88ef531e18ca0ec169607419c904921c0cfc59ed896a90f676a364a345f",
+      "sha256_html_renderizado": "34f0a35c72c04af7979b82b87b000601a0d8e86b5b0b9afc7754b37d1f2642fb",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52731-2022-id62850.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "9e5cf290451f2f3ae734fa79b51a10b0f49ccbce13fc0afde9eca69ab55eab37",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52731-2022-id62850.html.gz",
+      "sha256_cache": "463d444b484ddd6b2889168a1c3b5c8016dcddee3bd8d6200b2f9dd872b78085",
+      "sha256_fonte": "2815fa44af488ab028a6ef4e20ce7ce977b718ea10d1a0280382a1aa6d0131b1",
+      "sha256_campo": "07828d5ef32810d4dbe95984e97dc99f3e03e4eea49e52964e4efd564c7c4834",
+      "sha256_html_renderizado": "17542106de4ad96a6d00810bfa67d5d516021a15d47e8085888d4af589e1c245",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52184-2022-id61506.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "d7a7d374ef2b806e30751a159f108243d87394d73e61bb95790a8929a3cbab00",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52184-2022-id61506.html.gz",
+      "sha256_cache": "3d06711dafdc11e6b66600f94aba3eff1f1e28c437f3989bfd22a01b8930f6a0",
+      "sha256_fonte": "b72727ff4cfe183b07e36629723485da0555b15ef8a22fd663c3766ff406fbd7",
+      "sha256_campo": "1b4fe1c1697c51728b70d8e80945d716bd0461ef4767d8ed300a1d1e46339889",
+      "sha256_html_renderizado": "066c9ca37973d19f13c1a981556f62f373138e92342c018c8fd5b6e3694413a1",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2015/dec-41630-2015-id2884.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "ef2e6c9aa678131529e962b08282b4ad9efa7cf7dc963c51770ac93ba33355af",
+      "cache": "estaduais/PE/_fonte/decretos/2015/dec-41630-2015-id2884.html.gz",
+      "sha256_cache": "af5b0b028e5ba813a9fc122539f6022c05729d0e1b96e58d1f5e54c661c2cb83",
+      "sha256_fonte": "7ff4f8ca55a7a1f7836651418a81fe78a1bc2367c73116a09dbccb275fe31aaf",
+      "sha256_campo": "6ee8cf557409b9b04d6821ced563232794cec9a335e3d742f6581cfb6a7cd760",
+      "sha256_html_renderizado": "40b0b6b8d07a08c1249e43c9d3a941650ade281fb3535479b3e6e9c3680b1f3c",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2012/dec-38543-2012-id16263.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "cc974293b2b943ff4dc11b02b81c874bda2be014c50856adb07a6eba6e256608",
+      "cache": "estaduais/PE/_fonte/decretos/2012/dec-38543-2012-id16263.html.gz",
+      "sha256_cache": "1926f3bd7020e37e522856ffa17e59ef83337db8a28340dc0ce766418a15f9f6",
+      "sha256_fonte": "96a54c5dc1f4c3a8e15cc706c1aecb67c69ddc59a4a8ceb06670b05c2da2f39d",
+      "sha256_campo": "b059ad1733ac2587ecb676d5ad72ba232537d47c86d40119c992ee5d2dc18f2a",
+      "sha256_html_renderizado": "dfc34514696c4076e18b467130507bbb66d7a30bfd13411fa41ae2fc5ed46dd8",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2006/dec-28976-2006-id18468.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "efe751c7e83ca1c3d7c638072fe204cd1b5b75ab54afbedf1f4b3889cd022eb7",
+      "cache": "estaduais/PE/_fonte/decretos/2006/dec-28976-2006-id18468.html.gz",
+      "sha256_cache": "891c60ae159403e90463f595def709630c9b3f632dd4bf8880cd602acc134f8b",
+      "sha256_fonte": "86e5956c31fe06f3cf3b974e8addd743860ddc12f127f33335da0497a5279159",
+      "sha256_campo": "9b212b71bb5f455f6db93013a3fc60f9ed46dfb0e686cdaa5e3af4dd06d47112",
+      "sha256_html_renderizado": "a0b6c4b628d456293a6605173aa2dd11ab0f85ae8413439bc9834e7b3b7cba82",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2000/dec-22230-2000-id14664.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "1ee08cc1440b37d9ad0a51225bd4762d770287fe24e95dc7f1ac842377456bac",
+      "cache": "estaduais/PE/_fonte/decretos/2000/dec-22230-2000-id14664.html.gz",
+      "sha256_cache": "1ece385f054f76c02d32846001bd2d1ec921e9ba240c04717dbe95561158b0da",
+      "sha256_fonte": "4b68515690f1bdc75f4e31a91da0c32cfb2f1f933521fc28419aeb92785ff3b8",
+      "sha256_campo": "894b32bcadf76abd8de85d0a664c2e22722062e407633b904d61893c65e05bf1",
+      "sha256_html_renderizado": "0918f7b4f39aa7e663f309a594d8c804914f7cac82f51b5cade9577979d9f71b",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2009/dec-34270-2009-id670.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "4c55d3ce37d13c42d7b3c6765caba141902bd5e32b232a9cc52e7bd461fe9a6e",
+      "cache": "estaduais/PE/_fonte/decretos/2009/dec-34270-2009-id670.html.gz",
+      "sha256_cache": "9c585b4b7d943fa00df69626ed6e3d6ec691cf992a1dc4d9bbf8b471e80b61f0",
+      "sha256_fonte": "21e2821f979a0b23c15b2212dd516a8f95b1cd0338246150d0e55820c20c64d9",
+      "sha256_campo": "bd17f1cc8b43ef1a8c2d35788b9148b8fb8ecc9f25cad689f2b71c0ba50ad846",
+      "sha256_html_renderizado": "8566152176ef439be67883267c9bfd93f7c9a9dfa92ce6e1ffd6f666c2b88870",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2009/dec-33102-2009-id24978.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "6c57ea80dc5f180030ab453c98ba7cdfcebac6e9715b8f5b7cb7e956ae92f164",
+      "cache": "estaduais/PE/_fonte/decretos/2009/dec-33102-2009-id24978.html.gz",
+      "sha256_cache": "2bfcff290972d1743b81b3b498ed6c9cc140007756e46299f81f72d352702424",
+      "sha256_fonte": "ce9cdf32d1cc6a36ee7370324db3652a8e92cdbd91e6cb89102f90a641f81466",
+      "sha256_campo": "325e70519352b9b35f113b101cf64a4edb017f7ba897b1e89da7912c76cad806",
+      "sha256_html_renderizado": "b772a3e8984989c9a0373868969222c080092f8f4e5277f587e034c017b9cfa9",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2010/dec-34727-2010-id23189.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "cbf253e656e005981096472cb2e2fbbf66998363e10c6c6ab7b754012324329c",
+      "cache": "estaduais/PE/_fonte/decretos/2010/dec-34727-2010-id23189.html.gz",
+      "sha256_cache": "abe6aa8a0164879738b3eeba7303b92cece17a4df2c8184a90cb6880dd57fd0e",
+      "sha256_fonte": "f5dba0b4f5c20f909ae4a6702a9cfb3762dc1011a64b1c06750e1bfca9426896",
+      "sha256_campo": "301d47d31aca249dbf9df89c703d90f31e6a8b71201d8387db5ad8528d446081",
+      "sha256_html_renderizado": "0f76350829ffe19fd2ba83504e7328bfcd55bbb2419564c417d3d9af3c761d50",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2010/dec-35802-2010-id21002.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "1a5695c53733f2154640b84f474a0673696ec1261865c543635545ecacbfdd6e",
+      "cache": "estaduais/PE/_fonte/decretos/2010/dec-35802-2010-id21002.html.gz",
+      "sha256_cache": "71f77ea7b9b7b680f201ecd6246cf5c597bb789872cc5d9c85ba1631077e7866",
+      "sha256_fonte": "edf9d05ad05773638bc501eae3cd01e1969784649cf47466a5aa182cc236fbd2",
+      "sha256_campo": "bd53795c0f93a9ba77ab5c2fbf1bc31e6a78179529aabfcafae7bf8e86bd7e42",
+      "sha256_html_renderizado": "8a49365db6d30ad0ab5f90fee5ad2595b3f286e30f69c193139d2bd175564a03",
+      "texto_visivel_integral_confere": false,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": {
+        "posicao": 686,
+        "fonte": "o AD DIPER/SEFAZ nº 106/2010, e o teor do Ofício CONDIC nº 146, de 30 de setembro de 2010, DECRETA: Art. 1º Fica concedido à empresa JURERÊ INDÚSTRIA DE ALIMENTOS LTDA., estabelecida na Rua Francisco Paulo Maciel, n° 124, Bairro Novo, Carpina - PE, com CNPJ/MF nº 12.336.734/0001-25 e CACEPE nº 04066",
+        "md": "o AD DIPER/SEFAZ nº 106/2010, e o teor do Ofício CONDIC nº 146, de 30 de setembro de 2010, DECRETA: **Art. 1º Fica concedido à empresa JURERÊ INDÚSTRIA DE ALIMENTOS LTDA., estabelecida na Rua Francisco Paulo Maciel, n° 124, Bairro Novo, Carpina - PE, com CNPJ/MF nº 12.336.734/0001-25 e CACEPE nº 040"
+      },
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2021/dec-51027-2021-id56098.md",
+      "acao": "readmissao_contextual_sem_alteracao",
+      "sha256_md": "5866604e98883331471c4930d7259176a9af10933a9be2aadb4806e544e934c6",
+      "cache": "estaduais/PE/_fonte/decretos/2021/dec-51027-2021-id56098.html.gz",
+      "sha256_cache": "ae32fb87daa2c3b86981bb31e5c6ca1856b5afde99038e504752f22cd5bd7022",
+      "sha256_fonte": "77db6ccd08da1822ae58dbf8c848819b42192e0d1c2540ec7969c682c63c97cb",
+      "sha256_campo": "00e69e8a11848cef1b70bdf71e7b46534434ff558d450376da26ca3543fd5f53",
+      "sha256_html_renderizado": "51fa103f56ce58a528e02b99679b0b4047b3be0ac4ee14f064415e5c77298874",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [
+        {
+          "markdown": "TÍTULO IV-A — DAS OPERAÇÕES RELATIVAS À CONSIGNAÇÃO (AC)",
+          "fonte": "TÍTULO IV-A DAS OPERAÇÕES RELATIVAS À CONSIGNAÇÃO (AC)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2021/dec-50873-2021-id55768.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "0a5532494a3597e9d7e07908f437f79feed2d77f378957a9433629cda197dfd1",
+      "cache": "estaduais/PE/_fonte/decretos/2021/dec-50873-2021-id55768.html.gz",
+      "sha256_cache": "7dde46594459bc7220fae079463636c7aea9cbf28f3169601bcf2f20f5f4f878",
+      "sha256_fonte": "e4ae21f65efafe8b7c81cafee19c9f61306980a3984f9ba26a4c14626110dbc6",
+      "sha256_campo": "fd4acce0e439750bad3eb77b536812ea8c1a8eeb55d774db206c27580ccac84c",
+      "sha256_html_renderizado": "e7feb53ca896ddf783b098c49d83981803f1c9ce32a8ab1a6f4b17a2a017b751",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [
+        {
+          "markdown": "CAPÍTULO I — DA AÇÃO DE “INCLUSÃO DIGITAL DOS PROFISSIONAIS DA REDE ESTADUAL DE ENSINO”",
+          "fonte": "CAPÍTULO I DA AÇÃO DE “INCLUSÃO DIGITAL DOS PROFISSIONAIS DA REDE ESTADUAL DE ENSINO”",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DOS PROCEDIMENTOS PARA ADESÃO À AÇÃO",
+          "fonte": "CAPÍTULO II DOS PROCEDIMENTOS PARA ADESÃO À AÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DOS PROCEDIMENTOS DE REPASSE DOS RECURSOS",
+          "fonte": "CAPÍTULO III DOS PROCEDIMENTOS DE REPASSE DOS RECURSOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DA AQUISIÇÃO DO EQUIPAMENTO DE INFORMÁTICA",
+          "fonte": "CAPÍTULO IV DA AQUISIÇÃO DO EQUIPAMENTO DE INFORMÁTICA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DA COMPROVAÇÃO DAS DESPESAS COM CONECTIVIDADE",
+          "fonte": "CAPÍTULO V DA COMPROVAÇÃO DAS DESPESAS COM CONECTIVIDADE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+          "fonte": "CAPÍTULO VI DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2021/dec-52001-2021-id61093.md",
+      "acao": "readmissao_contextual_sem_alteracao",
+      "sha256_md": "0999cd401035fc21bff49f0ce45e8053b154faa9529edc5321695cde91e701b5",
+      "cache": "estaduais/PE/_fonte/decretos/2021/dec-52001-2021-id61093.html.gz",
+      "sha256_cache": "96a36726d8dc86de3d248551b22c6bf99d44ae4d56ca0f83765bce78a87d16d3",
+      "sha256_fonte": "f61f29223d3b7df7025bfd4c67859aa5e73b5b7c636187de2be1f83601a68176",
+      "sha256_campo": "41cff66334e1dfae091ae2fdbead4ad38436ceeb9cfd23cbd30e57e713c42b8a",
+      "sha256_html_renderizado": "ff12d73048be92dcb1189074202419ea79bc1fec070a7a0ba203148947cf8aa3",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [
+        {
+          "markdown": "LIVRO II — DOS PROCEDIMENTOS ESPECÍFICOS",
+          "fonte": "LIVRO II DOS PROCEDIMENTOS ESPECÍFICOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO IX-A — DAS OPERAÇÕES RELATIVAS A EVENTOS, INCLUSIVE FEIRAS (AC)",
+          "fonte": "TÍTULO IX-A DAS OPERAÇÕES RELATIVAS A EVENTOS, INCLUSIVE FEIRAS (AC)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO I — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DAS OPERAÇÕES PROMOVIDAS POR CONTRIBUINTE DESTE ESTADO",
+          "fonte": "CAPÍTULO II DAS OPERAÇÕES PROMOVIDAS POR CONTRIBUINTE DESTE ESTADO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Das Disposições Preliminares",
+          "fonte": "Seção I Das Disposições Preliminares",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Da Suspensão da Exigência do Imposto",
+          "fonte": "Seção II Da Suspensão da Exigência do Imposto",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Da Emissão de Documentos Fiscais",
+          "fonte": "Seção III Da Emissão de Documentos Fiscais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção I — Da Remessa de Mercadoria",
+          "fonte": "Subseção I Da Remessa de Mercadoria",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção II — Do Retorno da Mercadoria",
+          "fonte": "Subseção II Do Retorno da Mercadoria",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — Da Interrupção da Suspensão da Exigência do Imposto",
+          "fonte": "Seção IV Da Interrupção da Suspensão da Exigência do Imposto",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS OPERAÇÕES PROMOVIDAS POR CONTRIBUINTE DOMICILIADO EM OUTRA UF",
+          "fonte": "CAPÍTULO III DAS OPERAÇÕES PROMOVIDAS POR CONTRIBUINTE DOMICILIADO EM OUTRA UF",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Das Disposições Gerais",
+          "fonte": "Seção I Das Disposições Gerais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Da Sistemática Especial de Recolhimento e Apuração do Imposto",
+          "fonte": "Seção II Da Sistemática Especial de Recolhimento e Apuração do Imposto",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2021/dec-51610-2021-id58315.md",
+      "acao": "readmissao_contextual_sem_alteracao",
+      "sha256_md": "33d750cc701680161826a45071f92d996c420180348aca1cadb9bea0f2734005",
+      "cache": "estaduais/PE/_fonte/decretos/2021/dec-51610-2021-id58315.html.gz",
+      "sha256_cache": "70abb6841fd4df579079131ed8aaa1af37446172a29873c1ef6352cd00f05f0e",
+      "sha256_fonte": "791ca70c73d929d6113395ad77d2376a86d3da1a5ba486ec7dd4fbd0dd7b7b02",
+      "sha256_campo": "1fc0d022cc9b61b10672ae3f75160e22b4e46401f40d3be8915c8b1f1b955388",
+      "sha256_html_renderizado": "4c3c4592e6402b4017b46cd9a726676490e196aea587193820f7c5e302ab0b2d",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [
+        {
+          "markdown": "LIVRO I — DAS SISTEMÁTICAS ESPECÍFICAS DE TRIBUTAÇÃO",
+          "fonte": "LIVRO I DAS SISTEMÁTICAS ESPECÍFICAS DE TRIBUTAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO V-B — Das operações com gado e produto derivado do seu abate (AC)",
+          "fonte": "TÍTULO V-B Das operações com gado e produto derivado do seu abate (AC)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO I — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA SAÍDA INTERNA DE GADO VIVO",
+          "fonte": "CAPÍTULO II DA SAÍDA INTERNA DE GADO VIVO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS OPERAÇÕES COM PRODUTO COMESTÍVEL DERIVADO DO ABATE DO GADO",
+          "fonte": "CAPÍTULO III DAS OPERAÇÕES COM PRODUTO COMESTÍVEL DERIVADO DO ABATE DO GADO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Das Operações Internas e de Importação do Exterior",
+          "fonte": "Seção I Das Operações Internas e de Importação do Exterior",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção I — Do Imposto Relativo às Sucessivas Saídas Internas",
+          "fonte": "Subseção I Do Imposto Relativo às Sucessivas Saídas Internas",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção II — Dos Benefícios Fiscais Concedidos nas Operações com Mercadoria Procedente deste Estado",
+          "fonte": "Subseção II Dos Benefícios Fiscais Concedidos nas Operações com Mercadoria Procedente deste Estado",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção III — Da Liberação da Cobrança do Imposto nas Subsequentes Operações Internas",
+          "fonte": "Subseção III Da Liberação da Cobrança do Imposto nas Subsequentes Operações Internas",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Dos Benefícios Fiscais Aplicáveis às Saídas Interestaduais",
+          "fonte": "Seção II Dos Benefícios Fiscais Aplicáveis às Saídas Interestaduais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DA SAÍDA INTERNA DE PRODUTO NÃO COMESTÍVEL DERIVADO DO ABATE DO GADO",
+          "fonte": "CAPÍTULO IV DA SAÍDA INTERNA DE PRODUTO NÃO COMESTÍVEL DERIVADO DO ABATE DO GADO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DO CRÉDITO FISCAL NA SAÍDA DE MERCADORIA DIVERSA DERIVADA DA INDUSTRIALIZAÇÃO",
+          "fonte": "CAPÍTULO V DO CRÉDITO FISCAL NA SAÍDA DE MERCADORIA DIVERSA DERIVADA DA INDUSTRIALIZAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2020/dec-49824-2020-id53539.md",
+      "acao": "readmissao_contextual_sem_alteracao",
+      "sha256_md": "81d4bacb7084244e1f6e4781366c9395b9273f6c919f9583834cb1c0f19de695",
+      "cache": "estaduais/PE/_fonte/decretos/2020/dec-49824-2020-id53539.html.gz",
+      "sha256_cache": "fa4fc1a47d267b8e642a56fd9b564c9a338ab10c58ead956562d203a89a55e65",
+      "sha256_fonte": "d2fdc3372f55e19a40aa2ac66865366beb4d30fbed9d48cf38f10163b27b52f7",
+      "sha256_campo": "86fdafb504e81ef052ebd4ecfdab2621017220d30f8cd21bbe2ae894f9d71599",
+      "sha256_html_renderizado": "9e040c2bf4a4e3ae3573436e5c93d41c7afe4a41db6b8433ede69d6874a16d95",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [
+        {
+          "markdown": "LIVRO II — DOS PROCEDIMENTOS ESPECÍFICOS",
+          "fonte": "LIVRO II DOS PROCEDIMENTOS ESPECÍFICOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO X-A — DO PONTO DE RETIRADA DE MERCADORIA COMERCIALIZADA POR MEIO DA INTERNET OU DE TELEMARKETING (AC)",
+          "fonte": "TÍTULO X-A DO PONTO DE RETIRADA DE MERCADORIA COMERCIALIZADA POR MEIO DA INTERNET OU DE TELEMARKETING (AC)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/2011/dec-36297-2011-id19481.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "b9219b8e780812cfe7e8c1268bfb60c7ebc20fcc6ae6319bdafc7b95c921f951",
+      "cache": "estaduais/PE/_fonte/decretos/2011/dec-36297-2011-id19481.html.gz",
+      "sha256_cache": "f80f55178c6df62f0f0197ca559d12ed27125d2f1a929eb379c2ad179b482209",
+      "sha256_fonte": "f54313aa3ff5114fcaf154c0b0bfcc2bbe0092891ab9cacee6f27886ded2fe8e",
+      "sha256_campo": "28e4c1f0ddf776e331fe63e630a70647bacb7a73463b41f9e31902bea8736e29",
+      "sha256_html_renderizado": "864862af0eaa2ee2c56000b67fb17cb4b7fbaac0256b7a8fae57315ddbfd977a",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-20837-1998-id22678.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md": "da586c012a3044cee42d74b99dc2a1dce793a7ba2c304798e89eea00cc20b923",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-20837-1998-id22678.html.gz",
+      "sha256_cache": "3e9c4b2b6c552731c1250255ac36091033ddd0a17bcf47e5f8caecf28f1c06f3",
+      "sha256_fonte": "2e00accb89b064ca440465e41e46237bd383a9d6b2e323bd0155bc5a672ce244",
+      "sha256_campo": "57841e800bcc6246d784f11a69461b2eec21b719e0888d67a65be6b8129fda8b",
+      "sha256_html_renderizado": "e8a46059354b736c30898bfc9f5325e0278fffdb29d292d85d9236335acf546b",
+      "texto_visivel_integral_confere": true,
+      "numeros_sinais_moeda_percentuais_conferem": true,
+      "contexto_divergencia": null,
+      "normalizacoes_heading_com_prova": [],
+      "quantidade_listas_ordenadas_renderizadas": 0
+    }
+  ],
+  "criterio": "Apenas aceitos autorizados para publicação; duas correções locais não resolvem outros delimitadores fortes inválidos no mesmo corpo e seguem retidas."
+}

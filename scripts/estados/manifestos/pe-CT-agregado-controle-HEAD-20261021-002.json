@@ -1,0 +1,2047 @@
+{
+  "preparado_em": "2026-10-21T06:55:01.894383-03:00",
+  "HEAD": "207390262912b4e7e8c1cbbf6c700ce9a2f13ca3",
+  "total_HEAD": 50162,
+  "total": 225,
+  "ausentes_HEAD": 225,
+  "aliases_por_ID": 0,
+  "aliases_por_tipo_numero_ano": 0,
+  "replay225": 225,
+  "sem_promocao": true,
+  "controle_candidatos": "scripts/estados/manifestos/pe-CT-agregado-privado-20261021-002.json",
+  "sha256_controle_candidatos": "aeeb61d1b210fe8dfb525279d2a8b3d3ede1497bc08194511058e440416c8c31",
+  "fontes_independentes_ROOT": {
+    "estaduais/PE/_fonte/auditorias/CT-agregado-20261021-002/pe225-head-identidades-root-20261021.json": "cf4d244f8c6ebd2fa96d1ce969c52e6f2546516aa86df24c1ce641edd1aed481",
+    "estaduais/PE/_fonte/auditorias/CT-agregado-20261021-002/pe225-head-destinos-root-20261021.json": "31fb1427e3a901bbeb066ffe6109784f7548d5eddb8837c1178206c2a0c04f6a",
+    "estaduais/PE/_fonte/auditorias/CT-agregado-20261021-002/pe225-head-prova-root-20261021.json": "44439a9921893feca33f406593f45a75fa9d1c3c82119e5fe7554e7d92a74cc2",
+    "estaduais/PE/_fonte/auditorias/CT-agregado-20261021-002/replay-225.jsonl": "49ac58be035d5f48e967424181de36aaf93dc4b291600484e60de285b3312f1b"
+  },
+  "documentos": [
+    {
+      "destino": "estaduais/PE/portarias/2026/port-51-CT-2026-id90017.md",
+      "ID_oficial": "90017",
+      "numero_impresso": "51-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-50-CT-2026-id89995.md",
+      "ID_oficial": "89995",
+      "numero_impresso": "50-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-49-CT-2026-id89964.md",
+      "ID_oficial": "89964",
+      "numero_impresso": "49-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-48-CT-2026-id89963.md",
+      "ID_oficial": "89963",
+      "numero_impresso": "48-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-47-CT-2026-id89892.md",
+      "ID_oficial": "89892",
+      "numero_impresso": "47-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-46-CT-2026-id89819.md",
+      "ID_oficial": "89819",
+      "numero_impresso": "46-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-45-CT-2026-id89702.md",
+      "ID_oficial": "89702",
+      "numero_impresso": "45-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-44-CT-2026-id89665.md",
+      "ID_oficial": "89665",
+      "numero_impresso": "44-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-43-CT-2026-id89651.md",
+      "ID_oficial": "89651",
+      "numero_impresso": "43-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-42-CT-2026-id89503.md",
+      "ID_oficial": "89503",
+      "numero_impresso": "42-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-41-CT-2026-id89314.md",
+      "ID_oficial": "89314",
+      "numero_impresso": "41-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-40-CT-2026-id89162.md",
+      "ID_oficial": "89162",
+      "numero_impresso": "40-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-39-CT-2026-id89161.md",
+      "ID_oficial": "89161",
+      "numero_impresso": "39-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-38-CT-2026-id89160.md",
+      "ID_oficial": "89160",
+      "numero_impresso": "38-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-37-CT-2026-id89045.md",
+      "ID_oficial": "89045",
+      "numero_impresso": "37-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-36-CT-2026-id89031.md",
+      "ID_oficial": "89031",
+      "numero_impresso": "36-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-35-CT-2026-id88890.md",
+      "ID_oficial": "88890",
+      "numero_impresso": "35-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-34-CT-2026-id88889.md",
+      "ID_oficial": "88889",
+      "numero_impresso": "34-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-33-CT-2026-id88793.md",
+      "ID_oficial": "88793",
+      "numero_impresso": "33-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-31-CT-2026-id88509.md",
+      "ID_oficial": "88509",
+      "numero_impresso": "31-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-30-CT-2026-id88473.md",
+      "ID_oficial": "88473",
+      "numero_impresso": "30-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-29-CT-2026-id88395.md",
+      "ID_oficial": "88395",
+      "numero_impresso": "29-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-28-CT-2026-id88394.md",
+      "ID_oficial": "88394",
+      "numero_impresso": "28-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-27-CT-2026-id88231.md",
+      "ID_oficial": "88231",
+      "numero_impresso": "27-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-26-CT-2026-id88230.md",
+      "ID_oficial": "88230",
+      "numero_impresso": "26-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-25-CT-2026-id88228.md",
+      "ID_oficial": "88228",
+      "numero_impresso": "25-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-24-CT-2026-id88227.md",
+      "ID_oficial": "88227",
+      "numero_impresso": "24-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-23-CT-2026-id88226.md",
+      "ID_oficial": "88226",
+      "numero_impresso": "23-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-22-CT-2026-id88225.md",
+      "ID_oficial": "88225",
+      "numero_impresso": "22-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-21-CT-2026-id88176.md",
+      "ID_oficial": "88176",
+      "numero_impresso": "21-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-20-CT-2026-id88111.md",
+      "ID_oficial": "88111",
+      "numero_impresso": "20-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-19-CT-2026-id88110.md",
+      "ID_oficial": "88110",
+      "numero_impresso": "19-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-18-CT-2026-id87954.md",
+      "ID_oficial": "87954",
+      "numero_impresso": "18-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-17-CT-2026-id87953.md",
+      "ID_oficial": "87953",
+      "numero_impresso": "17-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-16-CT-2026-id87952.md",
+      "ID_oficial": "87952",
+      "numero_impresso": "16-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-15-CT-2026-id87951.md",
+      "ID_oficial": "87951",
+      "numero_impresso": "15-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-14-CT-2026-id87940.md",
+      "ID_oficial": "87940",
+      "numero_impresso": "14-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-13-CT-2026-id87939.md",
+      "ID_oficial": "87939",
+      "numero_impresso": "13-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-12-CT-2026-id87922.md",
+      "ID_oficial": "87922",
+      "numero_impresso": "12-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-11-CT-2026-id87921.md",
+      "ID_oficial": "87921",
+      "numero_impresso": "11-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-10-CT-2026-id87906.md",
+      "ID_oficial": "87906",
+      "numero_impresso": "10-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-9-CT-2026-id87896.md",
+      "ID_oficial": "87896",
+      "numero_impresso": "9-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-8-CT-2026-id87807.md",
+      "ID_oficial": "87807",
+      "numero_impresso": "8-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-6-CT-2026-id87730.md",
+      "ID_oficial": "87730",
+      "numero_impresso": "6-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-7-CT-2026-id87729.md",
+      "ID_oficial": "87729",
+      "numero_impresso": "7-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-5-CT-2026-id87643.md",
+      "ID_oficial": "87643",
+      "numero_impresso": "5-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-4-CT-2026-id87642.md",
+      "ID_oficial": "87642",
+      "numero_impresso": "4-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-3-CT-2026-id87494.md",
+      "ID_oficial": "87494",
+      "numero_impresso": "3-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-2-CT-2026-id87415.md",
+      "ID_oficial": "87415",
+      "numero_impresso": "2-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2026/port-1-CT-2026-id87340.md",
+      "ID_oficial": "87340",
+      "numero_impresso": "1-CT",
+      "ano": "2026",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-176-CT-2025-id87196.md",
+      "ID_oficial": "87196",
+      "numero_impresso": "176-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-175-CT-2025-id87075.md",
+      "ID_oficial": "87075",
+      "numero_impresso": "175-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-174-CT-2025-id87074.md",
+      "ID_oficial": "87074",
+      "numero_impresso": "174-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-173-CT-2025-id87061.md",
+      "ID_oficial": "87061",
+      "numero_impresso": "173-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-172-CT-2025-id87060.md",
+      "ID_oficial": "87060",
+      "numero_impresso": "172-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-171-CT-2025-id87017.md",
+      "ID_oficial": "87017",
+      "numero_impresso": "171-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-170-CT-2025-id86981.md",
+      "ID_oficial": "86981",
+      "numero_impresso": "170-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-169-CT-2025-id86980.md",
+      "ID_oficial": "86980",
+      "numero_impresso": "169-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-168-CT-2025-id86979.md",
+      "ID_oficial": "86979",
+      "numero_impresso": "168-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-167-CT-2025-id86954.md",
+      "ID_oficial": "86954",
+      "numero_impresso": "167-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-166-CT-2025-id86953.md",
+      "ID_oficial": "86953",
+      "numero_impresso": "166-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-165-CT-2025-id86952.md",
+      "ID_oficial": "86952",
+      "numero_impresso": "165-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-164-CT-2025-id86951.md",
+      "ID_oficial": "86951",
+      "numero_impresso": "164-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-163-CT-2025-id86950.md",
+      "ID_oficial": "86950",
+      "numero_impresso": "163-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-162-CT-2025-id86949.md",
+      "ID_oficial": "86949",
+      "numero_impresso": "162-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-161-CT-2025-id86948.md",
+      "ID_oficial": "86948",
+      "numero_impresso": "161-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-160-CT-2025-id86883.md",
+      "ID_oficial": "86883",
+      "numero_impresso": "160-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-159-CT-2025-id86882.md",
+      "ID_oficial": "86882",
+      "numero_impresso": "159-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-158-CT-2025-id86879.md",
+      "ID_oficial": "86879",
+      "numero_impresso": "158-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-157-CT-2025-id86878.md",
+      "ID_oficial": "86878",
+      "numero_impresso": "157-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-156-CT-2025-id86766.md",
+      "ID_oficial": "86766",
+      "numero_impresso": "156-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-155-CT-2025-id86708.md",
+      "ID_oficial": "86708",
+      "numero_impresso": "155-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-154-CT-2025-id86707.md",
+      "ID_oficial": "86707",
+      "numero_impresso": "154-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-153-CT-2025-id86670.md",
+      "ID_oficial": "86670",
+      "numero_impresso": "153-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-152-CT-2025-id86563.md",
+      "ID_oficial": "86563",
+      "numero_impresso": "152-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-151-CT-2025-id86440.md",
+      "ID_oficial": "86440",
+      "numero_impresso": "151-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-150-CT-2025-id86418.md",
+      "ID_oficial": "86418",
+      "numero_impresso": "150-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-149-CT-2025-id86417.md",
+      "ID_oficial": "86417",
+      "numero_impresso": "149-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-148-CT-2025-id85326.md",
+      "ID_oficial": "85326",
+      "numero_impresso": "148-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-147-CT-2025-id85219.md",
+      "ID_oficial": "85219",
+      "numero_impresso": "147-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-146-CT-2025-id85192.md",
+      "ID_oficial": "85192",
+      "numero_impresso": "146-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-144-CT-2025-id85050.md",
+      "ID_oficial": "85050",
+      "numero_impresso": "144-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-145-CT-2025-id85049.md",
+      "ID_oficial": "85049",
+      "numero_impresso": "145-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-143-CT-2025-id84994.md",
+      "ID_oficial": "84994",
+      "numero_impresso": "143-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-142-CT-2025-id84992.md",
+      "ID_oficial": "84992",
+      "numero_impresso": "142-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-141-CT-2025-id84869.md",
+      "ID_oficial": "84869",
+      "numero_impresso": "141-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-140-CT-2025-id84804.md",
+      "ID_oficial": "84804",
+      "numero_impresso": "140-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-139-CT-2025-id84757.md",
+      "ID_oficial": "84757",
+      "numero_impresso": "139-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-138-CT-2025-id84720.md",
+      "ID_oficial": "84720",
+      "numero_impresso": "138-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-137-CT-2025-id84607.md",
+      "ID_oficial": "84607",
+      "numero_impresso": "137-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-136-CT-2025-id84450.md",
+      "ID_oficial": "84450",
+      "numero_impresso": "136-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-135-CT-2025-id84385.md",
+      "ID_oficial": "84385",
+      "numero_impresso": "135-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-134-CT-2025-id84356.md",
+      "ID_oficial": "84356",
+      "numero_impresso": "134-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-133-CT-2025-id84224.md",
+      "ID_oficial": "84224",
+      "numero_impresso": "133-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-132-CT-2025-id84223.md",
+      "ID_oficial": "84223",
+      "numero_impresso": "132-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-131-CT-2025-id84189.md",
+      "ID_oficial": "84189",
+      "numero_impresso": "131-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-130-CT-2025-id84085.md",
+      "ID_oficial": "84085",
+      "numero_impresso": "130-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-129-CT-2025-id84084.md",
+      "ID_oficial": "84084",
+      "numero_impresso": "129-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-128-CT-2025-id84083.md",
+      "ID_oficial": "84083",
+      "numero_impresso": "128-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-126-CT-2025-id84030.md",
+      "ID_oficial": "84030",
+      "numero_impresso": "126-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-123-CT-2025-id84025.md",
+      "ID_oficial": "84025",
+      "numero_impresso": "123-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-124-CT-2025-id84024.md",
+      "ID_oficial": "84024",
+      "numero_impresso": "124-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-125-CT-2025-id84023.md",
+      "ID_oficial": "84023",
+      "numero_impresso": "125-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-122-CT-2025-id83966.md",
+      "ID_oficial": "83966",
+      "numero_impresso": "122-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-120-CT-2025-id83943.md",
+      "ID_oficial": "83943",
+      "numero_impresso": "120-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-121-CT-2025-id83936.md",
+      "ID_oficial": "83936",
+      "numero_impresso": "121-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-119-CT-2025-id83748.md",
+      "ID_oficial": "83748",
+      "numero_impresso": "119-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-118-CT-2025-id83747.md",
+      "ID_oficial": "83747",
+      "numero_impresso": "118-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-117-CT-2025-id83746.md",
+      "ID_oficial": "83746",
+      "numero_impresso": "117-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-116-CT-2025-id83703.md",
+      "ID_oficial": "83703",
+      "numero_impresso": "116-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-115-CT-2025-id83672.md",
+      "ID_oficial": "83672",
+      "numero_impresso": "115-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-114-CT-2025-id83671.md",
+      "ID_oficial": "83671",
+      "numero_impresso": "114-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-113-CT-2025-id83645.md",
+      "ID_oficial": "83645",
+      "numero_impresso": "113-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-112-CT-2025-id83644.md",
+      "ID_oficial": "83644",
+      "numero_impresso": "112-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-111-CT-2025-id83550.md",
+      "ID_oficial": "83550",
+      "numero_impresso": "111-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-110-CT-2025-id83429.md",
+      "ID_oficial": "83429",
+      "numero_impresso": "110-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-109-CT-2025-id83427.md",
+      "ID_oficial": "83427",
+      "numero_impresso": "109-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-108-CT-2025-id83388.md",
+      "ID_oficial": "83388",
+      "numero_impresso": "108-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-107-CT-2025-id83383.md",
+      "ID_oficial": "83383",
+      "numero_impresso": "107-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-106-CT-2025-id83382.md",
+      "ID_oficial": "83382",
+      "numero_impresso": "106-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-105-CT-2025-id83381.md",
+      "ID_oficial": "83381",
+      "numero_impresso": "105-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-104-CT-2025-id83380.md",
+      "ID_oficial": "83380",
+      "numero_impresso": "104-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-103-CT-2025-id83379.md",
+      "ID_oficial": "83379",
+      "numero_impresso": "103-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-102-CT-2025-id83378.md",
+      "ID_oficial": "83378",
+      "numero_impresso": "102-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-101-CT-2025-id83377.md",
+      "ID_oficial": "83377",
+      "numero_impresso": "101-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-100-CT-2025-id83376.md",
+      "ID_oficial": "83376",
+      "numero_impresso": "100-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-99-CT-2025-id83375.md",
+      "ID_oficial": "83375",
+      "numero_impresso": "99-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-98-CT-2025-id83374.md",
+      "ID_oficial": "83374",
+      "numero_impresso": "98-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-97-CT-2025-id83373.md",
+      "ID_oficial": "83373",
+      "numero_impresso": "97-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-96-CT-2025-id83372.md",
+      "ID_oficial": "83372",
+      "numero_impresso": "96-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-95-CT-2025-id83371.md",
+      "ID_oficial": "83371",
+      "numero_impresso": "95-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-94-CT-2025-id83370.md",
+      "ID_oficial": "83370",
+      "numero_impresso": "94-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-93-CT-2025-id83369.md",
+      "ID_oficial": "83369",
+      "numero_impresso": "93-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-92-CT-2025-id83368.md",
+      "ID_oficial": "83368",
+      "numero_impresso": "92-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-91-CT-2025-id83364.md",
+      "ID_oficial": "83364",
+      "numero_impresso": "91-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-90-CT-2025-id83363.md",
+      "ID_oficial": "83363",
+      "numero_impresso": "90-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-89-CT-2025-id83362.md",
+      "ID_oficial": "83362",
+      "numero_impresso": "89-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-88-CT-2025-id83361.md",
+      "ID_oficial": "83361",
+      "numero_impresso": "88-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-87-CT-2025-id83359.md",
+      "ID_oficial": "83359",
+      "numero_impresso": "87-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-86-CT-2025-id83358.md",
+      "ID_oficial": "83358",
+      "numero_impresso": "86-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-85-CT-2025-id83356.md",
+      "ID_oficial": "83356",
+      "numero_impresso": "85-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-84-CT-2025-id83272.md",
+      "ID_oficial": "83272",
+      "numero_impresso": "84-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-83-CT-2025-id83271.md",
+      "ID_oficial": "83271",
+      "numero_impresso": "83-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-82-CT-2025-id83270.md",
+      "ID_oficial": "83270",
+      "numero_impresso": "82-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-81-CT-2025-id83257.md",
+      "ID_oficial": "83257",
+      "numero_impresso": "81-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-80-CT-2025-id83256.md",
+      "ID_oficial": "83256",
+      "numero_impresso": "80-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-79-CT-2025-id83231.md",
+      "ID_oficial": "83231",
+      "numero_impresso": "79-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-78-CT-2025-id83230.md",
+      "ID_oficial": "83230",
+      "numero_impresso": "78-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-77-CT-2025-id83229.md",
+      "ID_oficial": "83229",
+      "numero_impresso": "77-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-76-CT-2025-id83228.md",
+      "ID_oficial": "83228",
+      "numero_impresso": "76-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-75-CT-2025-id83227.md",
+      "ID_oficial": "83227",
+      "numero_impresso": "75-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-74-CT-2025-id83199.md",
+      "ID_oficial": "83199",
+      "numero_impresso": "74-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-73-CT-2025-id83198.md",
+      "ID_oficial": "83198",
+      "numero_impresso": "73-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-72-CT-2025-id83197.md",
+      "ID_oficial": "83197",
+      "numero_impresso": "72-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-71-CT-2025-id83196.md",
+      "ID_oficial": "83196",
+      "numero_impresso": "71-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-70-CT-2025-id83195.md",
+      "ID_oficial": "83195",
+      "numero_impresso": "70-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-69-CT-2025-id83194.md",
+      "ID_oficial": "83194",
+      "numero_impresso": "69-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-68-CT-2025-id83193.md",
+      "ID_oficial": "83193",
+      "numero_impresso": "68-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-67-CT-2025-id83192.md",
+      "ID_oficial": "83192",
+      "numero_impresso": "67-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-66-CT-2025-id83144.md",
+      "ID_oficial": "83144",
+      "numero_impresso": "66-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-65-CT-2025-id83097.md",
+      "ID_oficial": "83097",
+      "numero_impresso": "65-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-64-CT-2025-id82958.md",
+      "ID_oficial": "82958",
+      "numero_impresso": "64-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-63-CT-2025-id82957.md",
+      "ID_oficial": "82957",
+      "numero_impresso": "63-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-62-CT-2025-id82956.md",
+      "ID_oficial": "82956",
+      "numero_impresso": "62-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-61-CT-2025-id82955.md",
+      "ID_oficial": "82955",
+      "numero_impresso": "61-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-60-CT-2025-id82954.md",
+      "ID_oficial": "82954",
+      "numero_impresso": "60-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-59-CT-2025-id82953.md",
+      "ID_oficial": "82953",
+      "numero_impresso": "59-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-58-CT-2025-id82952.md",
+      "ID_oficial": "82952",
+      "numero_impresso": "58-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-57-CT-2025-id82951.md",
+      "ID_oficial": "82951",
+      "numero_impresso": "57-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-56-CT-2025-id82905.md",
+      "ID_oficial": "82905",
+      "numero_impresso": "56-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-55-CT-2025-id82828.md",
+      "ID_oficial": "82828",
+      "numero_impresso": "55-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-54-CT-2025-id82827.md",
+      "ID_oficial": "82827",
+      "numero_impresso": "54-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-53-CT-2025-id82784.md",
+      "ID_oficial": "82784",
+      "numero_impresso": "53-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-52-CT-2025-id82783.md",
+      "ID_oficial": "82783",
+      "numero_impresso": "52-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-51-CT-2025-id82782.md",
+      "ID_oficial": "82782",
+      "numero_impresso": "51-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-50-CT-2025-id82781.md",
+      "ID_oficial": "82781",
+      "numero_impresso": "50-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-49-CT-2025-id82780.md",
+      "ID_oficial": "82780",
+      "numero_impresso": "49-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-48-CT-2025-id82779.md",
+      "ID_oficial": "82779",
+      "numero_impresso": "48-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-47-CT-2025-id82737.md",
+      "ID_oficial": "82737",
+      "numero_impresso": "47-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-46-CT-2025-id82735.md",
+      "ID_oficial": "82735",
+      "numero_impresso": "46-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-45-CT-2025-id82732.md",
+      "ID_oficial": "82732",
+      "numero_impresso": "45-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-44-CT-2025-id82611.md",
+      "ID_oficial": "82611",
+      "numero_impresso": "44-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-43-CT-2025-id82610.md",
+      "ID_oficial": "82610",
+      "numero_impresso": "43-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-42-CT-2025-id82609.md",
+      "ID_oficial": "82609",
+      "numero_impresso": "42-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-41-CT-2025-id82534.md",
+      "ID_oficial": "82534",
+      "numero_impresso": "41-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-40-CT-2025-id82533.md",
+      "ID_oficial": "82533",
+      "numero_impresso": "40-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-39-CT-2025-id82532.md",
+      "ID_oficial": "82532",
+      "numero_impresso": "39-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-38-CT-2025-id82463.md",
+      "ID_oficial": "82463",
+      "numero_impresso": "38-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-37-CT-2025-id82462.md",
+      "ID_oficial": "82462",
+      "numero_impresso": "37-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-36-CT-2025-id82461.md",
+      "ID_oficial": "82461",
+      "numero_impresso": "36-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-35-CT-2025-id82460.md",
+      "ID_oficial": "82460",
+      "numero_impresso": "35-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-34-CT-2025-id82459.md",
+      "ID_oficial": "82459",
+      "numero_impresso": "34-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-33-CT-2025-id82458.md",
+      "ID_oficial": "82458",
+      "numero_impresso": "33-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-32-CT-2025-id82434.md",
+      "ID_oficial": "82434",
+      "numero_impresso": "32-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-31-CT-2025-id82433.md",
+      "ID_oficial": "82433",
+      "numero_impresso": "31-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-30-CT-2025-id82432.md",
+      "ID_oficial": "82432",
+      "numero_impresso": "30-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-29-CT-2025-id82431.md",
+      "ID_oficial": "82431",
+      "numero_impresso": "29-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-28-CT-2025-id82430.md",
+      "ID_oficial": "82430",
+      "numero_impresso": "28-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-27-CT-2025-id82429.md",
+      "ID_oficial": "82429",
+      "numero_impresso": "27-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-26-CT-2025-id82428.md",
+      "ID_oficial": "82428",
+      "numero_impresso": "26-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-25-CT-2025-id82426.md",
+      "ID_oficial": "82426",
+      "numero_impresso": "25-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-19-CT-2025-id82415.md",
+      "ID_oficial": "82415",
+      "numero_impresso": "19-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-23-CT-2025-id82394.md",
+      "ID_oficial": "82394",
+      "numero_impresso": "23-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-22-CT-2025-id82392.md",
+      "ID_oficial": "82392",
+      "numero_impresso": "22-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-21-CT-2025-id82391.md",
+      "ID_oficial": "82391",
+      "numero_impresso": "21-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-20-CT-2025-id82389.md",
+      "ID_oficial": "82389",
+      "numero_impresso": "20-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-24-CT-2025-id82378.md",
+      "ID_oficial": "82378",
+      "numero_impresso": "24-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-18-CT-2025-id82372.md",
+      "ID_oficial": "82372",
+      "numero_impresso": "18-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-17-CT-2025-id82345.md",
+      "ID_oficial": "82345",
+      "numero_impresso": "17-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-16-CT-2025-id82344.md",
+      "ID_oficial": "82344",
+      "numero_impresso": "16-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-15-CT-2025-id82206.md",
+      "ID_oficial": "82206",
+      "numero_impresso": "15-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-14-CT-2025-id82205.md",
+      "ID_oficial": "82205",
+      "numero_impresso": "14-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-13-CT-2025-id82204.md",
+      "ID_oficial": "82204",
+      "numero_impresso": "13-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-12-CT-2025-id82203.md",
+      "ID_oficial": "82203",
+      "numero_impresso": "12-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-11-CT-2025-id82167.md",
+      "ID_oficial": "82167",
+      "numero_impresso": "11-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-10-CT-2025-id82166.md",
+      "ID_oficial": "82166",
+      "numero_impresso": "10-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-9-CT-2025-id82165.md",
+      "ID_oficial": "82165",
+      "numero_impresso": "9-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-8-CT-2025-id82164.md",
+      "ID_oficial": "82164",
+      "numero_impresso": "8-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-7-CT-2025-id82161.md",
+      "ID_oficial": "82161",
+      "numero_impresso": "7-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-6-CT-2025-id82122.md",
+      "ID_oficial": "82122",
+      "numero_impresso": "6-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-5-CT-2025-id82121.md",
+      "ID_oficial": "82121",
+      "numero_impresso": "5-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-4-CT-2025-id82120.md",
+      "ID_oficial": "82120",
+      "numero_impresso": "4-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-3-CT-2025-id82119.md",
+      "ID_oficial": "82119",
+      "numero_impresso": "3-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-2-CT-2025-id82118.md",
+      "ID_oficial": "82118",
+      "numero_impresso": "2-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    },
+    {
+      "destino": "estaduais/PE/portarias/2025/port-1-CT-2025-id82067.md",
+      "ID_oficial": "82067",
+      "numero_impresso": "1-CT",
+      "ano": "2025",
+      "HEAD_SHA256": null,
+      "aliases_ID": [],
+      "aliases_tipo_numero_ano": []
+    }
+  ],
+  "comando_replay": "PYTHONPATH=/tmp/constituicao-markdown-qa-20261020:scripts/estados/snapshots/pe_CT_agregado_20261021_002 /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/estados/snapshots/pe_CT_agregado_20261021_002/reexecutar_pe_ct.py --manifesto scripts/estados/manifestos/pe-CT-agregado-privado-20261021-002.json --saida NOVO.jsonl"
+}

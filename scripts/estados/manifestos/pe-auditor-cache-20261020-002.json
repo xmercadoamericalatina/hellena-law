@@ -1,0 +1,37 @@
+{
+  "arquivos_codigo": {
+    "scripts/estados/auditar_pe_cache.py": "6b01a14236cddf0fd7d2a744a4bafc97e251a25282c7be5ba49e075d4b6486bc",
+    "scripts/estados/test_pe_auditoria_cache.py": "9d3f8174d6a0d9ce382d59978946dd4395a5cf3cc1717afa86074ab71dabc6cc",
+    "scripts/estados/auditar_pe_cache_v2.py": "a0be6920407108011416bed8ce6377fa5d3f35b34bb2ee0b998831727276c49b",
+    "scripts/estados/pe_fidelidade_visivel.py": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+    "scripts/estados/test_pe_fidelidade_visivel.py": "39a85f66a41ef56e82bc1bca515b3792b07b1db731b9a44f39a2c4d3d0cdc159"
+  },
+  "testes_estaduais": {
+    "aprovados": 92,
+    "fidelidade_visivel_especificos": 21,
+    "casos": [
+      "decimal 0,5/05",
+      "negativo -100/100",
+      "percentual",
+      "moeda",
+      "parênteses contábeis",
+      "GFM",
+      "literal de asterisco e crase",
+      "HTML nativo sem reinterpretar Markdown",
+      "código inline com barra literal",
+      "headings editoriais com prova literal e sem remover sinais de valor",
+      "campos de formulário com underscores preservados",
+      "itálico mal fechado não ignorado como formato válido"
+    ]
+  },
+  "prioridade_da_evidencia": "Fonte HTML oficial é a autoridade. Quando a reconversão produz artefato de apresentação, o MD só é aceito se o texto visível integral e a assinatura numérica coincidirem diretamente com a fonte primária (admitindo apenas heading editorial explicitamente comprovado). A divergência da reconversão permanece documentada, não é escondida.",
+  "normalizacao": "Somente apresentação Markdown/HTML conhecida, whitespace e BOM invisível; não remove pontuação, signos, moedas ou percentuais; conserva caixa e acentos.",
+  "v1_preservado": true,
+  "novos_arquivos_v2": [
+    "scripts/estados/auditar_pe_cache_v2.py",
+    "scripts/estados/pe_fidelidade_visivel.py",
+    "scripts/estados/test_pe_fidelidade_visivel.py"
+  ],
+  "replay_final": "25.316 MD, snapshot JSONL final 003 em execução; resultados completos serão entregues em manifests de dados separados. Código estável após 92 testes.",
+  "modulos_compartilhados_alterados": false
+}

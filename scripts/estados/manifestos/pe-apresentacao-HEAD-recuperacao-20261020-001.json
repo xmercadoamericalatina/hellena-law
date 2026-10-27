@@ -1,0 +1,938 @@
+{
+  "total_revisado": 30,
+  "total_corrigido": 26,
+  "total_readmitido_sem_edicao": 4,
+  "criterio": "Correção exclusivamente de apresentação comprovada pela fonte HTML e preimagem exata de HEAD. Nenhum sinal literal da fonte apagado; nenhum valor ou nome inferido. Metadados preservados. Código html2md global não alterado.",
+  "documentos": [
+    {
+      "path": "estaduais/PE/decretos/2013/dec-40127-2013-id14726.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "7cd96dc86cbe56e3d45ea45877e8f26d98e10368ccbf1f712231e990a824ccad",
+      "sha256_md": "145181a9c14aa92848b0b1464fc0dbbe85e00569ca4b71b5cf9843d599647623",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "436af185881339a4efaae24a68f41e9b050565af",
+      "cache": "estaduais/PE/_fonte/decretos/2013/dec-40127-2013-id14726.html.gz",
+      "sha256_cache": "ad2ef876379fac6d781a750675c9d4e2bf5cc716fe0b782c7fa5538d4572c83e",
+      "sha256_fonte": "eacc2148ac7e353ccc6f4d0bc464f7aa484ed11ee48acbae17512d02e0ae6389",
+      "limites_campo": [
+        0,
+        17579
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "e07a8b9ad34ad7b2bf53e8d96f74156e759107a695385ef5c298e26257289415",
+      "texto_visivel_html_fonte_sha256": "e07a8b9ad34ad7b2bf53e8d96f74156e759107a695385ef5c298e26257289415",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2013/dec-40127-2013-id14726.md.gz",
+      "sha256_backup_gzip": "b3265f1d50ff0344447e90dedc4d72579af777d2cf142e5f1924535022d01977"
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52176-2022-id61502.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "638d2b12341296455df05854f61a1ac5b3e5027fda269400786a3602f2d3596e",
+      "sha256_md": "be4b6e55396ab01a78e2e0616bb4fabb672046c97744fa43760d49eada7f9554",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "6b491eea26dd15615e385f0b551e0a30fff2dc94",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52176-2022-id61502.html.gz",
+      "sha256_cache": "5c86e42be5255ed120ba54b13ef3aaea9b930c36035761154790fe70c21a271a",
+      "sha256_fonte": "22d2f6595daa70c7a5a01e1b7360d2e21b968690d64fe00b5b93e8135c6b8b44",
+      "limites_campo": [
+        0,
+        31479
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "86f6584d122138cd4110eed8d664e4b01a5bf4e014257ca4834a2bf73eaddbcb",
+      "texto_visivel_html_fonte_sha256": "86f6584d122138cd4110eed8d664e4b01a5bf4e014257ca4834a2bf73eaddbcb",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2022/dec-52176-2022-id61502.md.gz",
+      "sha256_backup_gzip": "635c06fb7c200b1a568a53608f4bc841d67db4b91a3ba4d763c3066df58eac15"
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52495-2022-id62355.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "4c1582fd8c4b64cf3603fe33b123b35cc67a4b5899e132673f67ccaa0f1afb74",
+      "sha256_md": "9952573dc6e081571cb403c2f12fd21afff62bdc83b84b2eb0db8913ff02a908",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "066126de5bd05d825f677d22f0917c0cedb8d1f0",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52495-2022-id62355.html.gz",
+      "sha256_cache": "1b715f0ea6a06d910df13dff84c6a52944472fd141cb1ee8b61695e5ec964c2b",
+      "sha256_fonte": "f6419573dafb561af5faf42e155c77ce10918eaecfe1f67289413c8b6ad01fa5",
+      "limites_campo": [
+        0,
+        219185
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "a8f95a8e05f10eccfb0ff648fcd241b516e519022421cf9f5a8a6109bd1ee816",
+      "texto_visivel_html_fonte_sha256": "a8f95a8e05f10eccfb0ff648fcd241b516e519022421cf9f5a8a6109bd1ee816",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2022/dec-52495-2022-id62355.md.gz",
+      "sha256_backup_gzip": "880244225059d6b4d54274393e4dd42ea5661abfd0e9a26e2c934063f8739325"
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52183-2022-id61487.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "6631833e6d1dbde6c5b1976bfd51a52569fb4e6a4fd9777040852579fb1737fe",
+      "sha256_md": "1156cb91cf4b28e231097bea1e01cfc2e04ba329981882c64839d664dd5d66cd",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "fe2314ce388f7ee8f6c72c861491f869ec86a1f7",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52183-2022-id61487.html.gz",
+      "sha256_cache": "a1df8bf33a098df8793ba8ab44c7f7d935051fabccef48a8f4e2b601e74d4e4e",
+      "sha256_fonte": "9c80e0d274ea419af9f941722fe1caebd71588e871e1e4bb270694424d161548",
+      "limites_campo": [
+        0,
+        18170
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "5e3f00ad0724533a9d2e3906bad0f95fdd364ffc0610b7e18be21a09b62e57b9",
+      "texto_visivel_html_fonte_sha256": "5e3f00ad0724533a9d2e3906bad0f95fdd364ffc0610b7e18be21a09b62e57b9",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2022/dec-52183-2022-id61487.md.gz",
+      "sha256_backup_gzip": "16f5603c613f85bbc02eccb739533e2e77f3768fca8b8b49d351894942a6bf60"
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52643-2022-id62741.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "0f9c4bb2c221812acb64718dbeb187910a2d28d16c470cdaed5dcf4ff9c185de",
+      "sha256_md": "7d77bbc1d28736ceea060a5ae656d1aba8f1fdaebbfcdd37e9d4c31c4ec59c4c",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "488ebebb54be1c3b73993f2f3f46fd914042d103",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52643-2022-id62741.html.gz",
+      "sha256_cache": "3d18aceb525262b796ac18c2dcd43dc9ab51f71e8d5d76103402e0d03de12e98",
+      "sha256_fonte": "48f55f1d74fc9cc87760b1af0502ff7684cdd9a385da36751db8e3573eea002a",
+      "limites_campo": [
+        0,
+        17485
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "36eddce374cd84723a6ee6d49bdc7c150c98ed07bc8ee3928329805b23280047",
+      "texto_visivel_html_fonte_sha256": "36eddce374cd84723a6ee6d49bdc7c150c98ed07bc8ee3928329805b23280047",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2022/dec-52643-2022-id62741.md.gz",
+      "sha256_backup_gzip": "5504e2e191554e6f583b806809b1f5cbe92d1f580788924e53591bc27e0e2a22"
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52669-2022-id62765.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "3538ec9c5fbfa47227d79733d14073b4625d41bcdda39cab7ed9474ec96088a3",
+      "sha256_md": "ba925753ea82a556ae52cfbf4bd90a207697c5ac2c8072374d49a1d1391f6c2c",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "e5ca8785d4533ca51ddf67c963478282324a0ac2",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52669-2022-id62765.html.gz",
+      "sha256_cache": "613e65c0f3bbe0edb9a5360f749fe37b42ca7c05723acc34a57e40440a513b2a",
+      "sha256_fonte": "91442ccbeda4c757b93f0b8a2b0e26b3a47a4698181219be3b45d2add8a90402",
+      "limites_campo": [
+        0,
+        16567
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "bb373e81f8da72a2500bc02384da4f316d5fc67f466bf30cc684a915c0f18d92",
+      "texto_visivel_html_fonte_sha256": "bb373e81f8da72a2500bc02384da4f316d5fc67f466bf30cc684a915c0f18d92",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2022/dec-52669-2022-id62765.md.gz",
+      "sha256_backup_gzip": "3b6516cd243308655afe0b43b60d06d0175c96c166c0e1e826d1e999d1b1a56d"
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52177-2022-id61503.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "f6d8514775631a3dd4335ac8e08046a8cd7243a23309643264d34c792fd54539",
+      "sha256_md": "ee3a9084d3e2b6e135bcf972d2f3c9722605acd80f414926a7accb644c680ee8",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "41217666d13a2fd50fbbcbe13508fcfc81402ca1",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52177-2022-id61503.html.gz",
+      "sha256_cache": "7174d6621eb43ae763795a8de2fa901b238a624299be6b58b056bc9eaa53983c",
+      "sha256_fonte": "bb8b4106f93e1cb5a77d059862329925dfde70f767bb360fbc6ead0d429c17fb",
+      "limites_campo": [
+        0,
+        17633
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "7083bcbc502e54e43a197258697efb964d64d7d04a71816b065297327feb0941",
+      "texto_visivel_html_fonte_sha256": "7083bcbc502e54e43a197258697efb964d64d7d04a71816b065297327feb0941",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2022/dec-52177-2022-id61503.md.gz",
+      "sha256_backup_gzip": "3c120645a31396685458320a04c10245d2b1345cf3303ef70c48ae49216c28fd"
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52189-2022-id61509.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "e03dea7275294c284097bd62e40dd9a1f00b4052ad75e1e11d0d24c85164c3a4",
+      "sha256_md": "de3b922552015c2a6eb5d68e51d0102e238dbe4873f514dc4aa7bbd4878fd4c0",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "4c79126edc0162204fd798205495ef7ee7740e27",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52189-2022-id61509.html.gz",
+      "sha256_cache": "57d20984256547a42fbbddd5a84a0895cdbbb662609e5c9db406689fffde82bb",
+      "sha256_fonte": "ad13161f6b096b9b4b3f9b74a0f3571fc9e510691cbfcf1acc7fffba9a782a04",
+      "limites_campo": [
+        0,
+        23318
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "480ea11c50612011ca81ab55b863ea6b6b227c12657bdf39906a79257d4d74d5",
+      "texto_visivel_html_fonte_sha256": "480ea11c50612011ca81ab55b863ea6b6b227c12657bdf39906a79257d4d74d5",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2022/dec-52189-2022-id61509.md.gz",
+      "sha256_backup_gzip": "cac8913ab4f503f002d494f096582e170f258cf5975550bd226ece27edc1060e"
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52178-2022-id61485.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "48d1e9db7ccf53b4cdd4bce3a17bf5f2fab80e1aaccd74f6e1d150706dcbba83",
+      "sha256_md": "7518c942704f45ec3a5d6b92f9cdaf8a2b320860a58a680884c14b49e2d038e5",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "9c14759d31d8fe29386301bbba185c0812b7d656",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52178-2022-id61485.html.gz",
+      "sha256_cache": "1fd6902b26408eff94928f12118471f34608dfe87db43f0791fcf98e5a18f4b1",
+      "sha256_fonte": "7a13dcd1d8793310366bc799ab437ef3f2117c2aa27aa44cb28344ae6fb132d5",
+      "limites_campo": [
+        0,
+        16855
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "803701bd759b013e51aec8aa720f52035d5a8ca72b6cdd1045a080c07c81f1b8",
+      "texto_visivel_html_fonte_sha256": "803701bd759b013e51aec8aa720f52035d5a8ca72b6cdd1045a080c07c81f1b8",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2022/dec-52178-2022-id61485.md.gz",
+      "sha256_backup_gzip": "4a8aec961358b0998afec6613d15c87ce64baa84e8d87fa14058b4ea1558ecca"
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-53190-2022-id66923.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "e13f5e601a8dee319ef1d8e453c6b16a814b039b5d6ccd37bc55dbd47abaa92a",
+      "sha256_md": "52f8e90650cf200318444260afe04d6857676579602a3b1e2d833c366b9f415a",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "6b1a78581ffb222d04530ff6c7dc146bbf7cb4c5",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-53190-2022-id66923.html.gz",
+      "sha256_cache": "1a46a4b86b0cb5d9e76dca6d4c731feacd20007ad9536d359a8cbcbbb8ff8582",
+      "sha256_fonte": "58f383bdce3d36a9d421b81b69397c4dd980b6e56c49dab6b9bb4bb719ec6ff8",
+      "limites_campo": [
+        0,
+        16473
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 2,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "03a29a7677b0ac3c18606cfe86172bbbf5c2fd112cf04423682c3b616665ee5f",
+      "texto_visivel_html_fonte_sha256": "03a29a7677b0ac3c18606cfe86172bbbf5c2fd112cf04423682c3b616665ee5f",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2022/dec-53190-2022-id66923.md.gz",
+      "sha256_backup_gzip": "fe8c0c4141585a0a83c5c66f7273e9d368807fec0e4eccc6518fb9378c5fef10"
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52180-2022-id61504.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "93021ae484bd14ebc023aa1dbba4e25c206e7882bcef45c3791bb81fb8f1ee78",
+      "sha256_md": "0594659d474a19d55c5096996919ea4e632e315119fd9f6252958f697435c6d0",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "d80d9be53534de1849ffabaa9d6270fe422d9b47",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52180-2022-id61504.html.gz",
+      "sha256_cache": "1c5b0f0a9d9587412d003da9e5707c8bbb50cfd124eb398767d982f26bd2a489",
+      "sha256_fonte": "c14e6130d8a7a3052bd0a91421a4730796881ea1b88a245c0bb5d17f2e154c61",
+      "limites_campo": [
+        0,
+        29004
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 2,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "cdbc81fd00dec7e8128a806627b0c3f81edae9840d8f91c325854fc20ffd7050",
+      "texto_visivel_html_fonte_sha256": "cdbc81fd00dec7e8128a806627b0c3f81edae9840d8f91c325854fc20ffd7050",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2022/dec-52180-2022-id61504.md.gz",
+      "sha256_backup_gzip": "edc7966156edaee795fd9ca9bd82b6e84523efc8863491466eb15bd8c2cf3aa7"
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52185-2022-id61507.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "f927565a933a29bb86b73bc6554444914316c733e04835acb090f5c43bc59f0a",
+      "sha256_md": "371aeaad653166b0a036b6b84006894a8b06ddecb26d0a4344b757732d320978",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "c5ef71a7dd63824316b3e1691dee4c40beae81c0",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52185-2022-id61507.html.gz",
+      "sha256_cache": "9472b5d8d6e64967d76533585af8a56b5861c004d576e9333bdc4b3c4eab8a43",
+      "sha256_fonte": "04eac03c4ac1e5e583111d0095ac5aa0c467f7ec1f1f81914b155d54bc8b8241",
+      "limites_campo": [
+        0,
+        26573
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 2,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "22c8d40cc1f0fc533dde0ca3faac9168d473c285c2549047cf79bed64a4d0550",
+      "texto_visivel_html_fonte_sha256": "22c8d40cc1f0fc533dde0ca3faac9168d473c285c2549047cf79bed64a4d0550",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2022/dec-52185-2022-id61507.md.gz",
+      "sha256_backup_gzip": "fb27f109dbf26e13460f90e3d6a0f0aac459bf60bdf914b4e7fdf5b3177e37e5"
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52726-2022-id62845.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "0e2e45fb66476edb2bc801664c0df1c20d84d25b755e7339e69ffd64b9c8ce09",
+      "sha256_md": "3f1b4a1fe33b682d04d7fae8326f72936846913e2f9c8326313c5c289e665a88",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "5ac4bcbf2c055cb59b92906c8626d2517a20c238",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52726-2022-id62845.html.gz",
+      "sha256_cache": "73a7f42408bd8a9f9b06ab366aaa60fabb5936be03a76637207695a383bfa58f",
+      "sha256_fonte": "6016ca0b5993f7beb0391dc10fa1288eb197046ca62d8cc36482b93d1d4509f5",
+      "limites_campo": [
+        0,
+        15008
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*capu *",
+          "depois": "*capu*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>capu</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "d7c072de288fd5aab18b47d48ee309c7f2d1d359f601dfd8637a0a91296fe0d6",
+      "texto_visivel_html_fonte_sha256": "d7c072de288fd5aab18b47d48ee309c7f2d1d359f601dfd8637a0a91296fe0d6",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2022/dec-52726-2022-id62845.md.gz",
+      "sha256_backup_gzip": "9559c763b9b13b37c032800a21dcd2a6b213a2dde2aec16b94b3b1dd34f6cd71"
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52731-2022-id62850.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "7766ffe57d5fb09aec5e3d884b9a888fc285f88432ddd8bea7c9ebe66372a1fa",
+      "sha256_md": "9e5cf290451f2f3ae734fa79b51a10b0f49ccbce13fc0afde9eca69ab55eab37",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "7cfca2a27074798f2accd01648019d021aff85c4",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52731-2022-id62850.html.gz",
+      "sha256_cache": "463d444b484ddd6b2889168a1c3b5c8016dcddee3bd8d6200b2f9dd872b78085",
+      "sha256_fonte": "2815fa44af488ab028a6ef4e20ce7ce977b718ea10d1a0280382a1aa6d0131b1",
+      "limites_campo": [
+        0,
+        16050
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "7d402b68732a3969edcc1c549a0c5b6fc1241f7916ce3605f52a6bd2d9cbb296",
+      "texto_visivel_html_fonte_sha256": "7d402b68732a3969edcc1c549a0c5b6fc1241f7916ce3605f52a6bd2d9cbb296",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2022/dec-52731-2022-id62850.md.gz",
+      "sha256_backup_gzip": "b44b2676db02ad4b053cf9418700f1a9f22a443b4b64d24e4277f17c421ac579"
+    },
+    {
+      "path": "estaduais/PE/decretos/2022/dec-52184-2022-id61506.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "e5b9cb519511304096c065565a7073c79f08bcef6c351ec1b1aa5e7acb53aafd",
+      "sha256_md": "d7a7d374ef2b806e30751a159f108243d87394d73e61bb95790a8929a3cbab00",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "bd94bac734ae27e9800941fb129d63adbb8d5584",
+      "cache": "estaduais/PE/_fonte/decretos/2022/dec-52184-2022-id61506.html.gz",
+      "sha256_cache": "3d06711dafdc11e6b66600f94aba3eff1f1e28c437f3989bfd22a01b8930f6a0",
+      "sha256_fonte": "b72727ff4cfe183b07e36629723485da0555b15ef8a22fd663c3766ff406fbd7",
+      "limites_campo": [
+        0,
+        16815
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "e68f9d35b92ab6d1a195fb22cf57c394b6abf5aeb046c63b36faec55e818d822",
+      "texto_visivel_html_fonte_sha256": "e68f9d35b92ab6d1a195fb22cf57c394b6abf5aeb046c63b36faec55e818d822",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2022/dec-52184-2022-id61506.md.gz",
+      "sha256_backup_gzip": "3091dab480acec2e2d17ccf721a0d070a6a363a286e23800c638b23be62e0190"
+    },
+    {
+      "path": "estaduais/PE/decretos/2015/dec-41630-2015-id2884.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "de7e9f6a9fe6afb642785950a4d4cc7c6b69469d441b0b88d7320f49ad817158",
+      "sha256_md": "ef2e6c9aa678131529e962b08282b4ad9efa7cf7dc963c51770ac93ba33355af",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "a0287d489d474b0d22354d822743af2d0bf96aa9",
+      "cache": "estaduais/PE/_fonte/decretos/2015/dec-41630-2015-id2884.html.gz",
+      "sha256_cache": "af5b0b028e5ba813a9fc122539f6022c05729d0e1b96e58d1f5e54c661c2cb83",
+      "sha256_fonte": "7ff4f8ca55a7a1f7836651418a81fe78a1bc2367c73116a09dbccb275fe31aaf",
+      "limites_campo": [
+        0,
+        18900
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "1aa8d9b5772f8910737bd680b6a7d62279cbd12fa57c98c25b7fb03513aedd59",
+      "texto_visivel_html_fonte_sha256": "1aa8d9b5772f8910737bd680b6a7d62279cbd12fa57c98c25b7fb03513aedd59",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2015/dec-41630-2015-id2884.md.gz",
+      "sha256_backup_gzip": "6ef4c9bdc2b44afbedbbd901d1d03bbf8a0fa03317dcde9703edc24b31db4218"
+    },
+    {
+      "path": "estaduais/PE/decretos/2012/dec-38543-2012-id16263.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "bb0299c46e9a2310e1c2923b0369a64878db613d35a997b890432568f01b5ab3",
+      "sha256_md": "cc974293b2b943ff4dc11b02b81c874bda2be014c50856adb07a6eba6e256608",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "e0d6ea6f3f968ea2f181d671a34e97904b53aa72",
+      "cache": "estaduais/PE/_fonte/decretos/2012/dec-38543-2012-id16263.html.gz",
+      "sha256_cache": "1926f3bd7020e37e522856ffa17e59ef83337db8a28340dc0ce766418a15f9f6",
+      "sha256_fonte": "96a54c5dc1f4c3a8e15cc706c1aecb67c69ddc59a4a8ceb06670b05c2da2f39d",
+      "limites_campo": [
+        0,
+        12099
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "f9116dd255062beca315e9df1d9d4cfd36d571fb1efa5e5159f4a60efe891b6f",
+      "texto_visivel_html_fonte_sha256": "f9116dd255062beca315e9df1d9d4cfd36d571fb1efa5e5159f4a60efe891b6f",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2012/dec-38543-2012-id16263.md.gz",
+      "sha256_backup_gzip": "06e25b64d8ecb189f8ef053c826feb8d1bf888a5dcaad06f8358d55b5d8eea57"
+    },
+    {
+      "path": "estaduais/PE/decretos/2006/dec-28976-2006-id18468.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "3f93dbe137168884b74270086e64f4493e9d3c3268b3dc66ba3a63aab8b09960",
+      "sha256_md": "efe751c7e83ca1c3d7c638072fe204cd1b5b75ab54afbedf1f4b3889cd022eb7",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "1e8df41b06606b46a4fe210eb28b7faa27630eee",
+      "cache": "estaduais/PE/_fonte/decretos/2006/dec-28976-2006-id18468.html.gz",
+      "sha256_cache": "891c60ae159403e90463f595def709630c9b3f632dd4bf8880cd602acc134f8b",
+      "sha256_fonte": "86e5956c31fe06f3cf3b974e8addd743860ddc12f127f33335da0497a5279159",
+      "limites_campo": [
+        0,
+        32889
+      ],
+      "mudancas": [
+        {
+          "tipo": "crase_literal_escapada",
+          "antes": "d`água",
+          "depois": "d\\`água",
+          "ocorrencias": 2,
+          "prova": "Crase literal presente na fonte HTML, preservada como caractere visível, sem interpretar dois exemplares como código Markdown."
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "73647fd1e984b5d51b54c3afc1b9a188cb5ebc171bf1a5de2bae01de205427a0",
+      "texto_visivel_html_fonte_sha256": "73647fd1e984b5d51b54c3afc1b9a188cb5ebc171bf1a5de2bae01de205427a0",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2006/dec-28976-2006-id18468.md.gz",
+      "sha256_backup_gzip": "ae99b5254d1b823cec422acdd9a3e3ff9c9f7a06e7e247eca1492279496c57ef"
+    },
+    {
+      "path": "estaduais/PE/decretos/2000/dec-22230-2000-id14664.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "d48f251955f26dd4139d950b75d530f1fba455f7d8eebdfa7d9c10573bd4552e",
+      "sha256_md": "1ee08cc1440b37d9ad0a51225bd4762d770287fe24e95dc7f1ac842377456bac",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "bba4d20a76f308d47b161241530aa3b0bb453717",
+      "cache": "estaduais/PE/_fonte/decretos/2000/dec-22230-2000-id14664.html.gz",
+      "sha256_cache": "1ece385f054f76c02d32846001bd2d1ec921e9ba240c04717dbe95561158b0da",
+      "sha256_fonte": "4b68515690f1bdc75f4e31a91da0c32cfb2f1f933521fc28419aeb92785ff3b8",
+      "limites_campo": [
+        0,
+        22795
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "c607f25954ff24156f2d5e88bad9c33866295d9bc54328ea1ace90cb3648da69",
+      "texto_visivel_html_fonte_sha256": "c607f25954ff24156f2d5e88bad9c33866295d9bc54328ea1ace90cb3648da69",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2000/dec-22230-2000-id14664.md.gz",
+      "sha256_backup_gzip": "dd81bc062aea594353a988666bb736a50ef64fdf035f6fb13c75d4060b6d185c"
+    },
+    {
+      "path": "estaduais/PE/decretos/2009/dec-34270-2009-id670.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "0c7a37e9c6912941734c32859c4fbc28a2a010cd532105faeda9128c937df1ee",
+      "sha256_md": "4c55d3ce37d13c42d7b3c6765caba141902bd5e32b232a9cc52e7bd461fe9a6e",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "aeabb8c01bd4679dd7ce845785df79c04603aec6",
+      "cache": "estaduais/PE/_fonte/decretos/2009/dec-34270-2009-id670.html.gz",
+      "sha256_cache": "9c585b4b7d943fa00df69626ed6e3d6ec691cf992a1dc4d9bbf8b471e80b61f0",
+      "sha256_fonte": "21e2821f979a0b23c15b2212dd516a8f95b1cd0338246150d0e55820c20c64d9",
+      "limites_campo": [
+        0,
+        12233
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "7f3649dfdbcf31797e4f14d60d8fe7d77b12bb621a2b3bb52f6cd2f3c1140635",
+      "texto_visivel_html_fonte_sha256": "7f3649dfdbcf31797e4f14d60d8fe7d77b12bb621a2b3bb52f6cd2f3c1140635",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2009/dec-34270-2009-id670.md.gz",
+      "sha256_backup_gzip": "dfee3b8a364157e7ca5a9a190fbdd8c732792e6ecf4904caae71ae9b326ee41f"
+    },
+    {
+      "path": "estaduais/PE/decretos/2009/dec-33102-2009-id24978.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "abfbcb0e7d475e36b48b0fe10e9298b1a2ac0466a0cb170c243fe7b1fe6e06c7",
+      "sha256_md": "6c57ea80dc5f180030ab453c98ba7cdfcebac6e9715b8f5b7cb7e956ae92f164",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "eebd27f970d9e49e24bef11afe04552dd638ce14",
+      "cache": "estaduais/PE/_fonte/decretos/2009/dec-33102-2009-id24978.html.gz",
+      "sha256_cache": "2bfcff290972d1743b81b3b498ed6c9cc140007756e46299f81f72d352702424",
+      "sha256_fonte": "ce9cdf32d1cc6a36ee7370324db3652a8e92cdbd91e6cb89102f90a641f81466",
+      "limites_campo": [
+        0,
+        12611
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "534262a79957f95b01c16ef1cff1ccb5f9752cb2a268aa004f3734d6306b96eb",
+      "texto_visivel_html_fonte_sha256": "534262a79957f95b01c16ef1cff1ccb5f9752cb2a268aa004f3734d6306b96eb",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2009/dec-33102-2009-id24978.md.gz",
+      "sha256_backup_gzip": "9265d93f15926914868e33041faf9babaa50783889383592581b07e1e031ee2b"
+    },
+    {
+      "path": "estaduais/PE/decretos/2010/dec-34727-2010-id23189.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "db3b12688f60f8933bb198275bda59f9f6c7665cd50a29e71245dd3dcb1602d6",
+      "sha256_md": "cbf253e656e005981096472cb2e2fbbf66998363e10c6c6ab7b754012324329c",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "f80e52d3832a1dd3410e34c295cff4f257b416a5",
+      "cache": "estaduais/PE/_fonte/decretos/2010/dec-34727-2010-id23189.html.gz",
+      "sha256_cache": "abe6aa8a0164879738b3eeba7303b92cece17a4df2c8184a90cb6880dd57fd0e",
+      "sha256_fonte": "f5dba0b4f5c20f909ae4a6702a9cfb3762dc1011a64b1c06750e1bfca9426896",
+      "limites_campo": [
+        0,
+        13183
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "042fba99a87446bd107c986baf8926f5c74ab8842ae59834fd195ae5b448dc11",
+      "texto_visivel_html_fonte_sha256": "042fba99a87446bd107c986baf8926f5c74ab8842ae59834fd195ae5b448dc11",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2010/dec-34727-2010-id23189.md.gz",
+      "sha256_backup_gzip": "71c585f53abe511a60efdc485c8cfcb1aef0d43462e46bbf4bcbaa1ffd6e2bd3"
+    },
+    {
+      "path": "estaduais/PE/decretos/2010/dec-35802-2010-id21002.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "1cc2ea80c27340d4b4b7a9f2ac09addd3ba4e6cc8f8b9c0fb673476335c293c1",
+      "sha256_md": "1a5695c53733f2154640b84f474a0673696ec1261865c543635545ecacbfdd6e",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "ccf9f38e625ece3f1a57f9a73da09a8903091de3",
+      "cache": "estaduais/PE/_fonte/decretos/2010/dec-35802-2010-id21002.html.gz",
+      "sha256_cache": "71f77ea7b9b7b680f201ecd6246cf5c597bb789872cc5d9c85ba1631077e7866",
+      "sha256_fonte": "edf9d05ad05773638bc501eae3cd01e1969784649cf47466a5aa182cc236fbd2",
+      "limites_campo": [
+        0,
+        13824
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "8177bf66035c5d753d07be8b20c0c07f4e8426ed05e454f5183ccd6af775b77b",
+      "texto_visivel_html_fonte_sha256": "8177bf66035c5d753d07be8b20c0c07f4e8426ed05e454f5183ccd6af775b77b",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2010/dec-35802-2010-id21002.md.gz",
+      "sha256_backup_gzip": "9565ea804a83447a3c598def1c4d04ff3722f4310672fb94c01ec31cae99d85f"
+    },
+    {
+      "path": "estaduais/PE/decretos/2021/dec-51027-2021-id56098.md",
+      "acao": "readmissao_contextual_sem_alteracao",
+      "sha256_md": "5866604e98883331471c4930d7259176a9af10933a9be2aadb4806e544e934c6",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "65abe36d9f954aa985cdf9bc5a54367d7e05b229",
+      "prova": [
+        {
+          "markdown": "TÍTULO IV-A — DAS OPERAÇÕES RELATIVAS À CONSIGNAÇÃO (AC)",
+          "fonte": "TÍTULO IV-A DAS OPERAÇÕES RELATIVAS À CONSIGNAÇÃO (AC)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ]
+    },
+    {
+      "path": "estaduais/PE/decretos/2021/dec-50873-2021-id55768.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "718cbb62aa2affdca272a8cbb970e13447682972e95fea145fc6ee59d08d5f9b",
+      "sha256_md": "0a5532494a3597e9d7e07908f437f79feed2d77f378957a9433629cda197dfd1",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "c45f600292da99b1b4b1d3b4566ad004ccef3d6c",
+      "cache": "estaduais/PE/_fonte/decretos/2021/dec-50873-2021-id55768.html.gz",
+      "sha256_cache": "7dde46594459bc7220fae079463636c7aea9cbf28f3169601bcf2f20f5f4f878",
+      "sha256_fonte": "e4ae21f65efafe8b7c81cafee19c9f61306980a3984f9ba26a4c14626110dbc6",
+      "limites_campo": [
+        0,
+        61831
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 2,
+          "prova_html_italico": "<i>caput </i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "5c79e9e8c4897ddc996d17aeb00fafdbbeee6a48d4e628609b4a5df4ac8135a6",
+      "texto_visivel_html_fonte_sha256": "5c79e9e8c4897ddc996d17aeb00fafdbbeee6a48d4e628609b4a5df4ac8135a6",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2021/dec-50873-2021-id55768.md.gz",
+      "sha256_backup_gzip": "e508cf2b61b2657501292fc366cbfba743c3161c136825bd7ed284390f4a45e6"
+    },
+    {
+      "path": "estaduais/PE/decretos/2021/dec-52001-2021-id61093.md",
+      "acao": "readmissao_contextual_sem_alteracao",
+      "sha256_md": "0999cd401035fc21bff49f0ce45e8053b154faa9529edc5321695cde91e701b5",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "27fba96b592a5dc133e7df0f4e9da3a05c1fde49",
+      "prova": [
+        {
+          "markdown": "LIVRO II — DOS PROCEDIMENTOS ESPECÍFICOS",
+          "fonte": "LIVRO II DOS PROCEDIMENTOS ESPECÍFICOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO IX-A — DAS OPERAÇÕES RELATIVAS A EVENTOS, INCLUSIVE FEIRAS (AC)",
+          "fonte": "TÍTULO IX-A DAS OPERAÇÕES RELATIVAS A EVENTOS, INCLUSIVE FEIRAS (AC)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO I — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DAS OPERAÇÕES PROMOVIDAS POR CONTRIBUINTE DESTE ESTADO",
+          "fonte": "CAPÍTULO II DAS OPERAÇÕES PROMOVIDAS POR CONTRIBUINTE DESTE ESTADO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Das Disposições Preliminares",
+          "fonte": "Seção I Das Disposições Preliminares",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Da Suspensão da Exigência do Imposto",
+          "fonte": "Seção II Da Suspensão da Exigência do Imposto",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Da Emissão de Documentos Fiscais",
+          "fonte": "Seção III Da Emissão de Documentos Fiscais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção I — Da Remessa de Mercadoria",
+          "fonte": "Subseção I Da Remessa de Mercadoria",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção II — Do Retorno da Mercadoria",
+          "fonte": "Subseção II Do Retorno da Mercadoria",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — Da Interrupção da Suspensão da Exigência do Imposto",
+          "fonte": "Seção IV Da Interrupção da Suspensão da Exigência do Imposto",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS OPERAÇÕES PROMOVIDAS POR CONTRIBUINTE DOMICILIADO EM OUTRA UF",
+          "fonte": "CAPÍTULO III DAS OPERAÇÕES PROMOVIDAS POR CONTRIBUINTE DOMICILIADO EM OUTRA UF",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Das Disposições Gerais",
+          "fonte": "Seção I Das Disposições Gerais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Da Sistemática Especial de Recolhimento e Apuração do Imposto",
+          "fonte": "Seção II Da Sistemática Especial de Recolhimento e Apuração do Imposto",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ]
+    },
+    {
+      "path": "estaduais/PE/decretos/2021/dec-51610-2021-id58315.md",
+      "acao": "readmissao_contextual_sem_alteracao",
+      "sha256_md": "33d750cc701680161826a45071f92d996c420180348aca1cadb9bea0f2734005",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "b00a28445e216144bc332ff2d4845976e962aaee",
+      "prova": [
+        {
+          "markdown": "LIVRO I — DAS SISTEMÁTICAS ESPECÍFICAS DE TRIBUTAÇÃO",
+          "fonte": "LIVRO I DAS SISTEMÁTICAS ESPECÍFICAS DE TRIBUTAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO V-B — Das operações com gado e produto derivado do seu abate (AC)",
+          "fonte": "TÍTULO V-B Das operações com gado e produto derivado do seu abate (AC)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO I — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA SAÍDA INTERNA DE GADO VIVO",
+          "fonte": "CAPÍTULO II DA SAÍDA INTERNA DE GADO VIVO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS OPERAÇÕES COM PRODUTO COMESTÍVEL DERIVADO DO ABATE DO GADO",
+          "fonte": "CAPÍTULO III DAS OPERAÇÕES COM PRODUTO COMESTÍVEL DERIVADO DO ABATE DO GADO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Das Operações Internas e de Importação do Exterior",
+          "fonte": "Seção I Das Operações Internas e de Importação do Exterior",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção I — Do Imposto Relativo às Sucessivas Saídas Internas",
+          "fonte": "Subseção I Do Imposto Relativo às Sucessivas Saídas Internas",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção II — Dos Benefícios Fiscais Concedidos nas Operações com Mercadoria Procedente deste Estado",
+          "fonte": "Subseção II Dos Benefícios Fiscais Concedidos nas Operações com Mercadoria Procedente deste Estado",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção III — Da Liberação da Cobrança do Imposto nas Subsequentes Operações Internas",
+          "fonte": "Subseção III Da Liberação da Cobrança do Imposto nas Subsequentes Operações Internas",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Dos Benefícios Fiscais Aplicáveis às Saídas Interestaduais",
+          "fonte": "Seção II Dos Benefícios Fiscais Aplicáveis às Saídas Interestaduais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DA SAÍDA INTERNA DE PRODUTO NÃO COMESTÍVEL DERIVADO DO ABATE DO GADO",
+          "fonte": "CAPÍTULO IV DA SAÍDA INTERNA DE PRODUTO NÃO COMESTÍVEL DERIVADO DO ABATE DO GADO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DO CRÉDITO FISCAL NA SAÍDA DE MERCADORIA DIVERSA DERIVADA DA INDUSTRIALIZAÇÃO",
+          "fonte": "CAPÍTULO V DO CRÉDITO FISCAL NA SAÍDA DE MERCADORIA DIVERSA DERIVADA DA INDUSTRIALIZAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ]
+    },
+    {
+      "path": "estaduais/PE/decretos/2020/dec-49824-2020-id53539.md",
+      "acao": "readmissao_contextual_sem_alteracao",
+      "sha256_md": "81d4bacb7084244e1f6e4781366c9395b9273f6c919f9583834cb1c0f19de695",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "3804aa81960cd87d30b90ff4aba9f745fe12d838",
+      "prova": [
+        {
+          "markdown": "LIVRO II — DOS PROCEDIMENTOS ESPECÍFICOS",
+          "fonte": "LIVRO II DOS PROCEDIMENTOS ESPECÍFICOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO X-A — DO PONTO DE RETIRADA DE MERCADORIA COMERCIALIZADA POR MEIO DA INTERNET OU DE TELEMARKETING (AC)",
+          "fonte": "TÍTULO X-A DO PONTO DE RETIRADA DE MERCADORIA COMERCIALIZADA POR MEIO DA INTERNET OU DE TELEMARKETING (AC)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ]
+    },
+    {
+      "path": "estaduais/PE/decretos/2011/dec-36297-2011-id19481.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "d1e97ff7a00c2ed2978692190b0caa42b3b983cef27552ad1b7787584d35c8c6",
+      "sha256_md": "b9219b8e780812cfe7e8c1268bfb60c7ebc20fcc6ae6319bdafc7b95c921f951",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "32abee3a72d59a53ec1e73ce0e7785a6caff8961",
+      "cache": "estaduais/PE/_fonte/decretos/2011/dec-36297-2011-id19481.html.gz",
+      "sha256_cache": "f80f55178c6df62f0f0197ca559d12ed27125d2f1a929eb379c2ad179b482209",
+      "sha256_fonte": "f54313aa3ff5114fcaf154c0b0bfcc2bbe0092891ab9cacee6f27886ded2fe8e",
+      "limites_campo": [
+        0,
+        15210
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "c29544af23484c56ee0f573fdee36401445e80f8045d2e8a2e62ded904542d53",
+      "texto_visivel_html_fonte_sha256": "c29544af23484c56ee0f573fdee36401445e80f8045d2e8a2e62ded904542d53",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/2011/dec-36297-2011-id19481.md.gz",
+      "sha256_backup_gzip": "44e72334bb720fe746f2e3cd641c92b3cd410be2d4e60d50a2f48e5e3abb18d2"
+    },
+    {
+      "path": "estaduais/PE/decretos/1998/dec-20837-1998-id22678.md",
+      "acao": "correcao_apresentacao_comprovada",
+      "sha256_md_anterior": "fc6fb1296c9f1312ee0b182515c8d4d215ad966f3340ac0c005e165229341cbb",
+      "sha256_md": "da586c012a3044cee42d74b99dc2a1dce793a7ba2c304798e89eea00cc20b923",
+      "HEAD_commit": "1751bab699a81efdf80adb29bee45a9688d71d5f",
+      "HEAD_blob": "0a0ef14a6adb0bd459bf126c0f84ce5ebbe83679",
+      "cache": "estaduais/PE/_fonte/decretos/1998/dec-20837-1998-id22678.html.gz",
+      "sha256_cache": "3e9c4b2b6c552731c1250255ac36091033ddd0a17bcf47e5f8caecf28f1c06f3",
+      "sha256_fonte": "2e00accb89b064ca440465e41e46237bd383a9d6b2e323bd0155bc5a672ce244",
+      "limites_campo": [
+        0,
+        27652
+      ],
+      "mudancas": [
+        {
+          "tipo": "delimitador_italico_reposicionado",
+          "antes": "*caput *",
+          "depois": "*caput*",
+          "ocorrencias": 1,
+          "prova_html_italico": "<i>caput</i>"
+        }
+      ],
+      "metadados_inalterados": true,
+      "texto_visivel_fonte_apos_correcao_sha256": "58876b6270d4418d1ebefbf586e461e1d377e9e1b0448f135e2fe6ebc6f0c435",
+      "texto_visivel_html_fonte_sha256": "58876b6270d4418d1ebefbf586e461e1d377e9e1b0448f135e2fe6ebc6f0c435",
+      "backup": "estaduais/PE/_fonte/auditorias/apresentacao-HEAD-20261020/decretos/1998/dec-20837-1998-id22678.md.gz",
+      "sha256_backup_gzip": "f1f75bd18ad92e25fce93f3eb73684632effbab50c73bed02a94397f9eecb0fc"
+    }
+  ]
+}

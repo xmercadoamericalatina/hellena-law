@@ -1,0 +1,14 @@
+{
+  "iniciado_em": "2026-10-21T04:00:54.672636-03:00",
+  "finalizado_em": "2026-10-21T05:04:50.789855-03:00",
+  "total_selecionado": 2000,
+  "contagens": {
+    "identidade_ou_fonte_retida": 257,
+    "ok": 1743
+  },
+  "interrompido_para_diagnostico": false,
+  "selecao": "scripts/estados/manifestos/pe-infralegal-coleta-20261021-001-selecao.json",
+  "resultado": "estaduais/PE/_fonte/auditorias/infralegal/pe-infralegal-coleta-20261021-001.jsonl",
+  "sha256_resultado": "994abc6d69ce71889de9a79df17429d2eb792c9c33438ebcdfb8bf43ea1fdb56",
+  "criterio": "Captura serial com intervalo mínimo 1,1 s, 40 s de timeout, parada em 401/403/429 ou 3 falhas de rede consecutivas. Ano somente da epígrafe própria. IDs/chaves preexistentes e listas anteriores descontados. Captura não implica publicação: íntegra, visuais, tabelas, anexos, tachados, CommonMark e metadados exigem QA separado."
+}
