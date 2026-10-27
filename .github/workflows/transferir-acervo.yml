@@ -5,6 +5,7 @@ on:
     paths: ['.github/workflows/transferir-acervo.yml']
 permissions:
   contents: write
+  workflows: write
 concurrency:
   group: transferencia-acervo
   cancel-in-progress: false
