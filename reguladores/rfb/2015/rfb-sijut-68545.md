@@ -1,0 +1,44 @@
+---
+titulo: "Solução de Consulta Disit/SRRF09 nº 9017, de 29 de junho de 2015"
+orgao: "Divisão de Tributação da 9ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "9017"
+data: "2015-06-29"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 15/10/2015, seção 1, página 28"
+data_publicacao: "2015-10-15"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/68545/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/68545/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "68545"
+sha256_texto: "76f748698cb9e0d115b3f84e80503d2af0d955754bf62fb948eef4245e3a46b1"
+baixado_em: "2026-10-20"
+---
+# Solução de Consulta Disit/SRRF09 nº 9017, de 29 de junho de 2015
+
+Assunto: Contribuição para o PIS/Pasep. INCIDÊNCIA CONCENTRADA. MONOFÁSICOS. REVENDA DE PRODUTOS DE PERFUMARIA, DE TOUCADOR OU DE HIGIENE PESSOAL. LUCRO PRESUMIDO. REGIME DE APURAÇÃO CUMULATIVA. ALÍQUOTA ZERO. A sistemática de incidência concentrada ou monofásica não se confunde com os regimes de apuração cumulativa e não cumulativa da Contribuição ao PIS/Pasep, podendo abranger contribuintes de ambos os regimes. Os comerciantes varejistas de produtos de perfumaria, de toucador ou de higiene pessoal citados no art. 1o, I, “b” da Lei nº 10.147, de 2002, podem aplicar a alíquota reduzida a zero sobre suas receitas de venda de tais produtos, ainda que estejam submetidos à sistemática de cumulatividade da referida Contribuição Social. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 108, DE 6 DE MAIO DE 2015. Dispositivos Legais: Lei nº 10.147, de 2000, arts. 1º e 2º; Lei nº 10.637, de 2002, art. 8º; MP nº 66, de 2002; IN RFB nº 1.396, de 2013, art. 22. Assunto: Contribuição para o Financiamento da Seguridade Social – Cofins INCIDÊNCIA CONCENTRADA. MONOFÁSICOS. REVENDA DE PRODUTOS DE PERFUMARIA, DE TOUCADOR OU DE HIGIENE PESSOAL. LUCRO PRESUMIDO. REGIME DE APURAÇÃO CUMULATIVA. ALÍQUOTA ZERO. A sistemática de incidência concentrada ou monofásica não se confunde com os regimes de apuração cumulativa e não cumulativa da Cofins, podendo abranger contribuintes de ambos os regimes. Os comerciantes varejistas de produtos de perfumaria, de toucador ou de higiene pessoal citados no art. 1o, I, “b” da Lei nº 10.147, de 2002, podem aplicar a alíquota reduzida a zero sobre suas receitas de venda de tais produtos, ainda que estejam submetidos à sistemática de cumulatividade da referida Contribuição Social. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 108, DE 6 DE MAIO DE 2015. Dispositivos Legais: Lei nº 10.147, de 2000, arts. 1º e 2º; Lei nº 10.833, de 2003, art. 10; MP nº 135, de 2003; IN RFB nº 1.396, de 2013, art. 22.
+
+Assunto: Contribuição para o PIS/Pasep.
+
+INCIDÊNCIA CONCENTRADA. MONOFÁSICOS. REVENDA DE PRODUTOS DE PERFUMARIA, DE TOUCADOR OU DE HIGIENE PESSOAL. LUCRO PRESUMIDO. REGIME DE APURAÇÃO CUMULATIVA. ALÍQUOTA ZERO.
+
+A sistemática de incidência concentrada ou monofásica não se confunde com os regimes de apuração cumulativa e não cumulativa da Contribuição ao PIS/Pasep, podendo abranger contribuintes de ambos os regimes. Os comerciantes varejistas de produtos de perfumaria, de toucador ou de higiene pessoal citados no art. 1o, I, “b” da Lei nº 10.147, de 2002, podem aplicar a alíquota reduzida a zero sobre suas receitas de venda de tais produtos, ainda que estejam submetidos à sistemática de cumulatividade da referida Contribuição Social.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 108, DE 6 DE MAIO DE 2015.
+
+Dispositivos Legais: Lei nº 10.147, de 2000, arts. 1º e 2º; Lei nº 10.637, de 2002, art. 8o; MP nº 66, de 2002; IN RFB nº 1.396, de 2013, art. 22.
+
+Assunto: Contribuição para o Financiamento da Seguridade Social – Cofins
+
+INCIDÊNCIA CONCENTRADA. MONOFÁSICOS. REVENDA DE PRODUTOS DE PERFUMARIA, DE TOUCADOR OU DE HIGIENE PESSOAL. LUCRO PRESUMIDO. REGIME DE APURAÇÃO CUMULATIVA. ALÍQUOTA ZERO.
+
+A sistemática de incidência concentrada ou monofásica não se confunde com os regimes de apuração cumulativa e não cumulativa da Cofins, podendo abranger contribuintes de ambos os regimes. Os comerciantes varejistas de produtos de perfumaria, de toucador ou de higiene pessoal citados no art. 1o, I, “b” da Lei nº 10.147, de 2002, podem aplicar a alíquota reduzida a zero sobre suas receitas de venda de tais produtos, ainda que estejam submetidos à sistemática de cumulatividade da referida Contribuição Social.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 108, DE 6 DE MAIO DE 2015.
+
+Dispositivos Legais: Lei nº 10.147, de 2000, arts. 1º e 2º; Lei nº 10.833, de 2003, art. 10; MP nº 135, de 2003; IN RFB nº 1.396, de 2013, art. 22.
+
+MARCO ANTÔNIO FERREIRA POSSETTI Chefe da Disit

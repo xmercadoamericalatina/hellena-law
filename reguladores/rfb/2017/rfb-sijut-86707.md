@@ -1,0 +1,56 @@
+---
+titulo: "Solução de Consulta Disit/SRRF08 nº 8056, de 26 de julho de 2017"
+orgao: "Divisão de Tributação da 8ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "8056"
+data: "2017-07-26"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 29/09/2017, seção 1, página 62"
+data_publicacao: "2017-09-29"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/86707/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/86707/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "86707"
+sha256_texto: "21ae08b87be399aab6a17694b7c535ffc15945c4884321e48a7708578edb902d"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF08 nº 8056, de 26 de julho de 2017
+
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ LUCRO PRESUMIDO. VENDA DE PROGRAMA DE COMPUTADOR ADAPTADO. PERCENTUAL APLICÁVEL. Para fins de determinação da base de cálculo do imposto, o percentual aplicável à receita bruta decorrente da comercialização de programas de computador adaptados (customized) deve ser determinado à luz da natureza da atividade prevalecente na relação entre as partes (venda de mercadoria ou prestação de serviço). Em relação a isso, considera-se que as adaptações feitas no produto pronto para cada cliente, representam meros ajustes no programa, permitindo que o software (que já existia antes da relação jurídica) possa atender às necessidades daquele cliente. Tais adaptações não configuram verdadeira encomenda de um programa e, portanto, as respectivas receitas não são auferidas em decorrência da prestação de serviços. Logo, nestes casos, o percentual aplicável é de 8% (oito por cento). Contudo, caso se verifique que essas adaptações representem, em verdade, o próprio desenvolvimento de um programa aderente às necessidades do cliente e impliquem nova versão do produto ou sejam significativas ao ponto de não se enquadrarem como os meros ajustes mencionados, configurada estará a prestação de um serviço, o que sujeita a receita decorrente ao percentual de presunção de 32% (trinta e dois por cento). Assim, restando caracterizado que o software seja um sistema gerenciador de banco de dados e o ajuste e a adequação às necessidades do cliente representem o desenvolvimento de um banco de dados relacional (obrigação de fazer), a atividade deve ser classificada como prestação de serviço, cujo percentual é de 32% (trinta e dois por cento). SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 123, DE 28 DE MAIO DE 2014. Dispositivos Legais: Lei nº 9.249, de 1995, art. 15. Assunto: Contribuição Social sobre o Lucro Líquido - CSLL LUCRO PRESUMIDO. VENDA DE PROGRAMA DE COMPUTADOR ADAPTADO. PERCENTUAL APLICÁVEL. Para fins de determinação da base de cálculo da contribuição, o percentual aplicável à receita bruta decorrente da comercialização de programas de computador adaptados (customized) deve ser determinado à luz da natureza da atividade prevalecente na relação entre as partes (venda de mercadoria ou prestação de serviço). Em relação a isso, considera-se que as adaptações feitas no produto pronto para cada cliente, representam meros ajustes no programa, permitindo que o software (que já existia antes da relação jurídica) possa atender às necessidades daquele cliente. Tais adaptações não configuram verdadeira encomenda de um programa e, portanto, as respectivas receitas não são auferidas em decorrência da prestação de serviços. Logo, nestes casos, o percentual aplicável é de 12% (doze por cento). Contudo, caso se verifique que essas adaptações representem, em verdade, o próprio desenvolvimento de um programa aderente às necessidades do cliente e impliquem nova versão do produto ou sejam significativas ao ponto de não se enquadrarem como os meros ajustes mencionados, configurada estará a prestação de um serviço, o que sujeita a receita decorrente ao percentual de presunção de 32% (trinta e dois por cento). Assim, restando caracterizado que o software seja um sistema gerenciador de banco de dados e o ajuste e a adequação às necessidades do cliente representem o desenvolvimento de um banco de dados relacional (obrigação de fazer), a atividade deve ser classificada como prestação de serviço, cujo percentual é de 32% (trinta e dois por cento). SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 123, DE 28 DE MAIO DE 2014. Dispositivos Legais: Lei nº 9.249, de 1995, art. 20, c/c art. 15, § 1º.
+
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+
+LUCRO PRESUMIDO. VENDA DE PROGRAMA DE COMPUTADOR ADAPTADO. PERCENTUAL APLICÁVEL.
+
+Para fins de determinação da base de cálculo do imposto, o percentual aplicável à receita bruta decorrente da comercialização de programas de computador adaptados (customized) deve ser determinado à luz da natureza da atividade prevalecente na relação entre as partes (venda de mercadoria ou prestação de serviço).
+
+Em relação a isso, considera-se que as adaptações feitas no produto pronto para cada cliente, representam meros ajustes no programa, permitindo que o software (que já existia antes da relação jurídica) possa atender às necessidades daquele cliente. Tais adaptações não configuram verdadeira encomenda de um programa e, portanto, as respectivas receitas não são auferidas em decorrência da prestação de serviços. Logo, nestes casos, o percentual aplicável é de 8% (oito por cento).
+
+Contudo, caso se verifique que essas adaptações representem, em verdade, o próprio desenvolvimento de um programa aderente às necessidades do cliente e impliquem nova versão do produto ou sejam significativas ao ponto de não se enquadrarem como os meros ajustes mencionados, configurada estará a prestação de um serviço, o que sujeita a receita decorrente ao percentual de presunção de 32% (trinta e dois por cento).
+
+Assim, restando caracterizado que o software seja um sistema gerenciador de banco de dados e o ajuste e a adequação às necessidades do cliente representem o desenvolvimento de um banco de dados relacional (obrigação de fazer), a atividade deve ser classificada como prestação de serviço, cujo percentual é de 32% (trinta e dois por cento).
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 123, DE 28 DE MAIO DE 2014.
+
+Dispositivos Legais: Lei nº 9.249, de 1995, art. 15.
+
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL
+
+LUCRO PRESUMIDO. VENDA DE PROGRAMA DE COMPUTADOR ADAPTADO. PERCENTUAL APLICÁVEL.
+
+Para fins de determinação da base de cálculo da contribuição, o percentual aplicável à receita bruta decorrente da comercialização de programas de computador adaptados (customized) deve ser determinado à luz da natureza da atividade prevalecente na relação entre as partes (venda de mercadoria ou prestação de serviço).
+
+Em relação a isso, considera-se que as adaptações feitas no produto pronto para cada cliente, representam meros ajustes no programa, permitindo que o software (que já existia antes da relação jurídica) possa atender às necessidades daquele cliente. Tais adaptações não configuram verdadeira encomenda de um programa e, portanto, as respectivas receitas não são auferidas em decorrência da prestação de serviços. Logo, nestes casos, o percentual aplicável é de 12% (doze por cento).
+
+Contudo, caso se verifique que essas adaptações representem, em verdade, o próprio desenvolvimento de um programa aderente às necessidades do cliente e impliquem nova versão do produto ou sejam significativas ao ponto de não se enquadrarem como os meros ajustes mencionados, configurada estará a prestação de um serviço, o que sujeita a receita decorrente ao percentual de presunção de 32% (trinta e dois por cento).
+
+Assim, restando caracterizado que o software seja um sistema gerenciador de banco de dados e o ajuste e a adequação às necessidades do cliente representem o desenvolvimento de um banco de dados relacional (obrigação de fazer), a atividade deve ser classificada como prestação de serviço, cujo percentual é de 32% (trinta e dois por cento).
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 123, DE 28 DE MAIO DE 2014.
+
+Dispositivos Legais: Lei nº 9.249, de 1995, art. 20, c/c art. 15, § 1º.
+
+KARINA ALESSANDRA DE MATTERA GOMES Chefe

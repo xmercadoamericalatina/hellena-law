@@ -1,0 +1,32 @@
+---
+titulo: "Solução de Consulta Disit/SRRF04 nº 4019, de 1º de abril de 2015"
+orgao: "Divisão de Tributação da 4ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "4019"
+data: "2015-04-01"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 24/04/2015, seção 1, página 43"
+data_publicacao: "2015-04-24"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/63414/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/63414/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "63414"
+sha256_texto: "febcfe62a94f9e0acd83a2a25b494816bd74c7f934348e4213250a3b46081b18"
+baixado_em: "2026-10-20"
+---
+# Solução de Consulta Disit/SRRF04 nº 4019, de 1º de abril de 2015
+
+Assunto: Obrigações Acessórias Ementa: As sociedades em conta de participação devem inscrever-se no Cadastro Nacional da Pessoa Jurídica (CNPJ), ainda que tenham sido constituídas antes da entrada em vigor da Instrução Normativa RFB nº 1.470, de 2014, publicada no Diário Oficial da União de 3 de junho de 2014 e retificada no dia 9 subsequente, que estabelece a obrigatoriedade de inscrição naquele cadastro de todas as pessoas jurídicas domiciliadas no Brasil, inclusive aquelas equiparadas pela legislação do Imposto sobre a Renda. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 121, DE 27 DE MAIO DE 2014. Dispositivos Legais: Lei nº 5.172, de 1966 (Código Tributário Nacional), art. 113, § 2º; Decreto-Lei nº 2.303, de 1986, art. 7º, “caput”; Lei nº 10.406, de 2002 (Código Civil), arts. 991 a 996; Lei nº 9.779, de 1999, art. 16; Decreto nº 3.000, de 1999 (Regulamento do Imposto sobre a Renda), art. 148; Instrução Normativa RFB nº 1.470, de 2014, arts. 3º, “caput”, e 52; Solução de Consulta Cosit nº 121, de 2014.
+
+Assunto: Obrigações Acessórias
+
+Ementa: As sociedades em conta de participação devem inscrever-se no Cadastro Nacional da Pessoa Jurídica (CNPJ), ainda que tenham sido constituídas antes da entrada em vigor da Instrução Normativa RFB nº 1.470, de 2014, publicada no Diário Oficial da União de 3 de junho de 2014 e retificada no dia 9 subsequente, que estabelece a obrigatoriedade de inscrição naquele cadastro de todas as pessoas jurídicas domiciliadas no Brasil, inclusive aquelas equiparadas pela legislação do Imposto sobre a Renda.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 121, DE 27 DE MAIO DE 2014.
+
+Dispositivos Legais: Lei nº 5.172, de 1966 (Código Tributário Nacional), art. 113, § 2º; Decreto-Lei nº 2.303, de 1986, art. 7º, “caput”; Lei nº 10.406, de 2002 (Código Civil), arts. 991 a 996; Lei nº 9.779, de 1999, art. 16; Decreto nº 3.000, de 1999 (Regulamento do Imposto sobre a Renda), art. 148; Instrução Normativa RFB nº 1.470, de 2014, arts. 3º, “caput”, e 52; Solução de Consulta Cosit nº 121, de 2014.
+
+ISABEL CRISTINA DE OLIVEIRA GONZAGA Chefe

@@ -1,0 +1,36 @@
+---
+titulo: "Solução de Consulta Disit/SRRF03 nº 3008, de 8 de abril de 2015"
+orgao: "Divisão de Tributação da 3ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "3008"
+data: "2015-04-08"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 09/04/2015, seção 1, página 24"
+data_publicacao: "2015-04-09"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/62951/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/62951/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "62951"
+sha256_texto: "2dd17dddf7ce1c7dfed3670a371f56dd8f1afac3d2d5fd8c6d6df341f6f7e9b3"
+baixado_em: "2026-10-20"
+---
+# Solução de Consulta Disit/SRRF03 nº 3008, de 8 de abril de 2015
+
+Assunto: Imposto sobre a Renda de Pessoa Jurídica – IRPJ EMENTA: LUCRO PRESUMIDO. PERCENTUAL DE PRESUNÇÃO. AUXÍLIO DIAGNÓSTICO. A partir de 1º de janeiro de 2009, é possível a utilização do percentual de 8% para apuração da base de cálculo do IRPJ, pela sistemática do lucro presumido, em relação à receita referente aos serviços de diagnósticos por imagem (Eco-Cardiograma e Ultrason Geral), e Serviços de Diagnósticos por Registro Gráfico (ECC - Eletro- Cardiograma computadorizado, Ergométrico computadorizado e Outros exames - Análogos), desde que a prestadora dos serviços seja organizada sob a forma de sociedade empresária e atenda às normas da Anvisa. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT - Nº 86, DE 02 DE ABRIL DE 2014. Dispositivos Legais:: Art. 15, caput e §§ 1º, III, “a” e 2º, da Lei nº 9.249, de 1995, com a redação da Lei nº 11.727, de 2008; ADI RFB nº 19, de 2007; Instrução Normativa RFB nº 1.234, de 2012, arts. 30 e 31 e Código Civil, arts. 966 e 982. Assunto: Contribuição Social sobre o Lucro Líquido – CSLL EMENTA: LUCRO PRESUMIDO. PERCENTUAL DE PRESUNÇÃO. AUXÍLIO DIAGNÓSTICO. A partir de 1º de janeiro de 2009, é possível a utilização do percentual de 12% para apuração da base de cálculo da CSLL, pela sistemática do lucro presumido, em relação à receita referente aos serviços de diagnósticos por imagem (Eco-Cardiograma e Ultrason Geral), e Serviços de Diagnósticos por Registro Gráfico (ECC - Eletro- Cardiograma computadorizado, Ergométrico computadorizado e Outros exames - Análogos), desde que a prestadora dos serviços seja organizada sob a forma de sociedade empresária e atenda às normas da Anvisa. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT - Nº 86, DE 02 DE ABRIL DE 2014. Dispositivos Legais: Art. 15, caput e §§ 1º, III, “a” e 2º, com a redação da Lei nº 11.727, de 2008, e art. 20, ambos da Lei nº 9.249, de 1995; ADI RFB nº 19, de 2007; Instrução Normativa RFB nº 1.234, de 2012, arts. 30 e 31 e Código Civil, arts. 966 e 982.
+
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+
+EMENTA: LUCRO PRESUMIDO. PERCENTUAL DE PRESUNÇÃO. AUXÍLIO DIAGNÓSTICO. A partir de 1º de janeiro de 2009, é possível a utilização do percentual de 8% para apuração da base de cálculo do IRPJ, pela sistemática do lucro presumido, em relação à receita referente aos serviços de diagnósticos por imagem (Eco-Cardiograma e Ultrason Geral), e Serviços de Diagnósticos por Registro Gráfico (ECC - Eletro- Cardiograma computadorizado, Ergométrico computadorizado e Outros exames - Análogos), desde que a prestadora dos serviços seja organizada sob a forma de sociedade empresária e atenda às normas da Anvisa. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT - Nº 86, DE 02 DE ABRIL DE 2014.
+
+Dispositivos Legais:: Art. 15, caput e §§ 1º, III, “a” e 2º, da Lei nº 9.249, de 1995, com a redação da Lei nº 11.727, de 2008; ADI RFB nº 19, de 2007; Instrução Normativa RFB nº 1.234, de 2012, arts. 30 e 31 e Código Civil, arts. 966 e 982.
+
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL
+
+EMENTA: LUCRO PRESUMIDO. PERCENTUAL DE PRESUNÇÃO. AUXÍLIO DIAGNÓSTICO. A partir de 1º de janeiro de 2009, é possível a utilização do percentual de 12% para apuração da base de cálculo da CSLL, pela sistemática do lucro presumido, em relação à receita referente aos serviços de diagnósticos por imagem (Eco-Cardiograma e Ultrason Geral), e Serviços de Diagnósticos por Registro Gráfico (ECC - Eletro- Cardiograma computadorizado, Ergométrico computadorizado e Outros exames - Análogos), desde que a prestadora dos serviços seja organizada sob a forma de sociedade empresária e atenda às normas da Anvisa. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT - Nº 86, DE 02 DE ABRIL DE 2014.
+
+Dispositivos Legais: Art. 15, caput e §§ 1º, III, “a” e 2º, com a redação da Lei nº 11.727, de 2008, e art. 20, ambos da Lei nº 9.249, de 1995; ADI RFB nº 19, de 2007; Instrução Normativa RFB nº 1.234, de 2012, arts. 30 e 31 e Código Civil, arts. 966 e 982.
+
+JOÃO CARLOS DIÓGENES DE OLIVEIRA Chefe

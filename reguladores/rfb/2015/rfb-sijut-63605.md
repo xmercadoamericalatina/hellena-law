@@ -1,0 +1,38 @@
+---
+titulo: "Ato Declaratório Executivo DRF/SOR nº 16, de 29 de abril de 2015"
+orgao: "Delegacia da Receita Federal do Brasil em Sorocaba"
+tipo: "Ato Declaratório Executivo"
+numero: "16"
+data: "2015-04-29"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 30/04/2015, seção 1, página 81"
+data_publicacao: "2015-04-30"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/63605/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/63605/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "63605"
+sha256_texto: "e1e7f4b6d7626ec608a98189702e71804cb18b35ae28b8c9d58a0ed2eb3a46eb"
+baixado_em: "2026-10-20"
+---
+# Ato Declaratório Executivo DRF/SOR nº 16, de 29 de abril de 2015
+
+Divulga enquadramento de bebidas segundo o regime de tributação do Imposto sobre Produtos Industrializados (IPI) de que trata o art. 1º da Lei n.º 7.798, de 10 de julho de 1989. e as disposições da Instrução Normativa RFB n.º 866, de 06 de agosto de 2008 (DOU de 07/08/2008).
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM SOROCABA-SP, no uso da atribuição que lhe confere o artigo 314, inciso VI do Regimento Interno da Secretaria da Receita Federal do Brasil– RFB, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto na Instrução Normativa RFB nº 866 de 06 de agosto de 2008 (DOU de 07/08/2008), com base nos autos do processo administrativo n.º10855.722160/2013-39, declara:
+
+**Art. 1º** Os produtos comercializados pela empresa VINHOS QUINTA DO NINO LTDA, CNPJ 48.727.804/0001-13, relacionadas neste Ato Declaratório Executivo (ADE), para efeito de cálculo e pagamento do Imposto sobre Produtos Industrializados (IPI) de que trata o art. 1º da Lei nº 7.798, de 10 de julho de 1989, passam a ser classificados ou a ter sua classificação alterada conforme o enquadramento ora estabelecido.
+
+<table>  	<col>  	<col>  	<col>  	<col>  	<col>  	<tr>  		<td>  			<p>CNPJ</p>  		</td>  		<td>  			<p>MARCA  			COMERCIAL</p>  		</td>  		<td>  			<p>CAPACIDADE  			(mililitros)</p>  		</td>  		<td>  			<p>CÓDIGO  			TIPI</p>  		</td>  		<td>  			<p>ENQUADRAMENTO  			(letra)</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>48.727.804/0001-13</p>  		</td>  		<td>  			<p>BLACK  			CAMEL</p>  		</td>  		<td>  			<p>De  			671ml até 1000ml</p>  		</td>  		<td>  			<p>2208.90.00</p>  		</td>  		<td>  			<p>K</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>48.727.804/0001-13</p>  		</td>  		<td>  			<p>MONROE  			- TINTO DE MESA SECO</p>  		</td>  		<td>  			<p>De  			671ml até 1000ml</p>  		</td>  		<td>  			<p>2204.21.00</p>  		</td>  		<td>  			<p>D</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>48.727.804/0001-13</p>  		</td>  		<td>  			<p>MONROE  			- TINTO DE MESA SUAVE</p>  		</td>  		<td>  			<p>De  			671ml até 1000ml</p>  		</td>  		<td>  			<p>2204.21.00</p>  		</td>  		<td>  			<p>D</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>48.727.804/0001-13</p>  		</td>  		<td>  			<p>MARAVILHA  			- BRANCO DE MESA SECO</p>  		</td>  		<td>  			<p>De  			671ml até 1000ml</p>  		</td>  		<td>  			<p>2204.21.00</p>  		</td>  		<td>  			<p>D</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>48.727.804/0001-13</p>  		</td>  		<td>  			<p>MARAVILHA  			-  BRANCO DE MESA SUAVE</p>  		</td>  		<td>  			<p>De  			671ml até 1000ml</p>  		</td>  		<td>  			<p>2204.21.00</p>  		</td>  		<td>  			<p>D</p>  		</td>  	</tr>  </table>
+
+**Art. 2º** Os produtos acondicionados em recipientes de capacidade superior a mil mililitros, relacionados neste ADE, estão sujeitos ao imposto proporcionalmente ao que for estabelecido no enquadramento para o recipiente de capacidade de mil mililitros, arredondando-se para mil mililitros a fração residual, se houver, conforme o § 9º do art. 210 do Decreto n° 7.212/2010 – RIPI.
+
+**Art. 3º** As classes de enquadramento previstas neste ADE referem-se a produtos comercializados em qualquer tipo de vasilhame.
+
+**Parágrafo único.** Caso haja marcas de vinho comum ou de consumo corrente relacionadas neste ADE, comercializadas simultaneamente em vasilhame de vidro retornável e não retornável, o enquadramento do produto comercializado em vasilhame retornável dar-se-á em classe imediatamente inferior à constante deste ADE, observada a classe mínima a que se refere o inciso I do § 2º do art. 210 do Decreto n° 7.212/2010 – RIPI.
+
+**Art. 4º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação.
+
+FRANCISCO JOSE BRANCO PESSOA

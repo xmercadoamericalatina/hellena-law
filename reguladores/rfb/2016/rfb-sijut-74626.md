@@ -1,0 +1,36 @@
+---
+titulo: "Ato Declaratório Interpretativo RFB nº 4, de 7 de junho de 2016"
+orgao: "Secretaria da Receita Federal do Brasil"
+tipo: "Ato Declaratório Interpretativo"
+numero: "4"
+data: "2016-06-07"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 09/06/2016, seção 1, página 29"
+data_publicacao: "2016-06-09"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/74626/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/74626/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "74626"
+sha256_texto: "fe8a86cf6b642b8d26b333281e5cd4bd15d4ac68d3b57dd88bcc713bb037e6b9"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Interpretativo RFB nº 4, de 7 de junho de 2016
+
+Dispõe sobre o regime de apuração da Contribuição para o PIS/Pasep e da Cofins aplicável às receitas decorrentes da venda de produtos submetidos à incidência concentrada ou monofásica.
+
+O SECRETÁRIO DA RECEITA FEDERAL DO BRASIL, no uso da(s) atribuição(ões) que lhe conferem os incisos III e XXVI do art. 280 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto na alínea “a” do inciso VII do art. 8º e no § 8º do art. 3º da Lei nº 10.637, de 30 de dezembro de 2002, e na alínea “a” do inciso VII do art. 10 e no § 8º do art. 3º da Lei nº 10.833, de 29 de dezembro de 2003, declara:
+
+**Art. 1º** A partir de 1º de agosto de 2004, com a entrada em vigor dos arts. 21 e 37 da Lei nº 10.865, de 30 de abril de 2004, as receitas decorrentes da venda de produtos submetidos à incidência concentrada ou monofásica da Contribuição para o PIS/Pasep e da Cofins estão, em regra, sujeitas ao regime de apuração não cumulativa das contribuições, salvo disposições contrárias estabelecidas pela legislação.
+
+**§ 1º** As receitas decorrentes da venda de álcool para fins carburantes estiveram sujeitas ao regime de apuração cumulativa da Contribuição para o PIS/Pasep e da Cofins até 01 de outubro de 2008, data de entrada em vigor das alíneas “c” e “d” do inciso III do art. 42 da Lei nº 11.727, de 23 de junho de 2008, a partir da qual se aplica a tais receitas, em regra, o regime de apuração não cumulativa das contribuições, salvo disposições contrárias estabelecidas pela legislação.
+
+**§ 2º** Entre 1º de maio de 2008 e 23 de junho de 2008 e entre 1º de abril de 2009 e 4 de junho de 2009, esteve vedada a possibilidade de apuração, por comerciantes atacadistas e varejistas, de créditos em relação a custos, despesas e encargos vinculados a receitas decorrentes da revenda de mercadorias submetidas à incidência concentrada ou monofásica da Contribuição para o PIS/Pasep e da Cofins.
+
+**Art. 2º** Observado o disposto no art. 1º, para efeitos do rateio proporcional de que tratam o inciso II do § 8º do art. 3º da Lei nº 10.637, de 30 de dezembro de 2002, e o inciso II do § 8º do art. 8º da Lei nº 10.833, de 29 de dezembro de 2003, as receitas decorrentes da venda de produtos sujeitos à incidência concentrada ou monofásica da Contribuição para o PIS/Pasep e da Cofins podem ser incluídas no cálculo da “relação percentual existente entre a receita bruta sujeita à incidência não cumulativa e a receita bruta total” referida nos mencionados dispositivos, mesmo que tais receitas estejam submetidas a suspensão, isenção, alíquota zero ou não incidência das contribuições em voga, salvo disposições contrárias estabelecidas pela legislação.
+
+**Art. 3º** Ficam modificadas as conclusões em contrário constantes em Soluções de Consulta ou em Soluções de Divergência emitidas antes da publicação deste ato, independentemente de comunicação aos consulentes.
+
+JORGE ANTONIO DEHER RACHID

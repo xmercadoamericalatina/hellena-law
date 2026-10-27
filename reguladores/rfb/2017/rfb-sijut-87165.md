@@ -1,0 +1,32 @@
+---
+titulo: "Ato Declaratório Executivo DRF/JFA nº 16, de 16 de outubro de 2017"
+orgao: "Delegacia da Receita Federal do Brasil em Juiz de Fora"
+tipo: "Ato Declaratório Executivo"
+numero: "16"
+data: "2017-10-16"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 17/10/2017, seção 1, página 15"
+data_publicacao: "2017-10-17"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/87165/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/87165/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "87165"
+sha256_texto: "80c882b793ccd0cc73a0e042877bee62aab3618b1ad486e712ec20bd09090948"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo DRF/JFA nº 16, de 16 de outubro de 2017
+
+Cancela Registro Especial para estabelecimento que realiza operações com papel imune, na atividade de GRÁFICA.
+
+O CHEFE DA SEÇÃO DE FISCALIZAÇÃO DA DELEGACIA DA RECEITA FEDERAL DO BRASIL EM JUIZ DE FORA-MG, por delegação de competência conferida através do artigo 5º da Portaria DRF/JFA/MG nº 59, de 14 de junho de 2012, publicada no Diário Oficial da União de 19 de junho de 2012, e tendo em vista o disposto na Instrução Normativa RFB nº 976, de 7 de dezembro de 2009, e processo nº 10640.001821/2002-51, declara:
+
+Art.1º.- Cancelado, na forma do artigo 7º, Inciso I, da IN RFB nº 976/09, o Registro Especial na atividade Gráfica, sob o nº GP-06104/036 da empresa FUNDAÇÃO ARTHUR BERNARDES, CNPJ 20.320.503/0005-85, estabelecida no Campus Universitário, s/nº, Zona Rural, Viçosa/MG, concedido através do Ato Declaratório Executivo nº 24, de 11 de Junho de 2010.
+
+Art. 2º.- Fica revogado o Ato Declaratório Executivo nº 24, publicado no DOU de 14/06/2010.
+
+**Art. 3º** - Este Ato Declaratório somente terá validade após a sua publicação no Diário Oficial da União.
+
+DIOGO RAMALHO VASCONCELOS

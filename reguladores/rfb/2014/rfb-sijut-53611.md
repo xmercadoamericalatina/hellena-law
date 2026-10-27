@@ -1,0 +1,36 @@
+---
+titulo: "Solução de Consulta Disit/SRRF06 nº 6020, de 25 de junho de 2014"
+orgao: "Divisão de Tributação da 6ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "6020"
+data: "2014-06-25"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 30/06/2014, seção 1, página 59"
+data_publicacao: "2014-06-30"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/53611/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/53611/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "53611"
+sha256_texto: "edb5e213fbf3c56894cea8f3ecb663978a4a1f2f86822df3c673954bbfc52109"
+baixado_em: "2026-10-20"
+---
+# Solução de Consulta Disit/SRRF06 nº 6020, de 25 de junho de 2014
+
+ASSUNTO: Contribuição Social sobre o Lucro Líquido - CSLL EMENTA: LUCRO PRESUMIDO. CONSTRUÇÃO CIVIL. EMPREITADA. FORNECIMENTO DE MATERIAL. PERCENTUAL. Às receitas decorrentes da prestação de serviços de construção civil somente se aplica o percentual de presunção de 12% (doze por cento) para a CSLL na hipótese de contratação por empreitada na modalidade total, com fornecimento, pelo empreiteiro, de todos os materiais indispensáveis à execução da obra, sendo tais materiais incorporados a esta. As demais receitas decorrentes de prestação de serviços, salvo as de serviços médicos e hospitalares definidos na legislação, sujeitam-se ao percentual de presunção de 32% (trinta e dois por cento). SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 8, DE 7/1/2014. DISPOSITIVOS LEGAIS: Lei nº 7.689/1988, art. 6º; Lei nº 8.981/1995, art. 57; Lei nº 9.249/1995, com alterações, arts. 15 e 20; Lei nº 9.430/1996, art. 28; IN RFB nº 1.234/2012, arts. 2º, § 7º, inciso II, e § 9º, e 38; ADN Cosit nº 6/1997. ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ EMENTA: LUCRO PRESUMIDO. CONSTRUÇÃO CIVIL. EMPREITADA. FORNECIMENTO DE MATERIAL. PERCENTUAL. Às receitas decorrentes da prestação de serviços de construção civil somente se aplica o percentual de presunção de 8% (oito por cento) para o IRPJ na hipótese de contratação por empreitada na modalidade total, com fornecimento, pelo empreiteiro, de todos os materiais indispensáveis à execução da obra, sendo tais materiais incorporados a esta. As demais receitas decorrentes de prestação de serviços, salvo as de serviços médicos e hospitalares definidos na legislação, sujeitam-se ao percentual de presunção de 32% (trinta e dois por cento). SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 8, DE 7/1/2014. DISPOSITIVOS LEGAIS: Lei nº 9.249/1995, com alterações, art. 15, § 1º, inciso III, “a”, e § 2º; IN RFB nº 1.234/2012, arts. 2º, § 7º, inciso II, e § 9º, e 38; ADN Cosit nº 6/1997
+
+ASSUNTO: Contribuição Social sobre o Lucro Líquido - CSLL
+
+EMENTA: LUCRO PRESUMIDO. CONSTRUÇÃO CIVIL. EMPREITADA. FORNECIMENTO DE MATERIAL. PERCENTUAL. Às receitas decorrentes da prestação de serviços de construção civil somente se aplica o percentual de presunção de 12% (doze por cento) para a CSLL na hipótese de contratação por empreitada na modalidade total, com fornecimento, pelo empreiteiro, de todos os materiais indispensáveis à execução da obra, sendo tais materiais incorporados a esta. As demais receitas decorrentes de prestação de serviços, salvo as de serviços médicos e hospitalares definidos na legislação, sujeitam-se ao percentual de presunção de 32% (trinta e dois por cento). SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 8, DE 7/1/2014.
+
+DISPOSITIVOS LEGAIS: Lei nº 7.689/1988, art. 6º; Lei nº 8.981/1995, art. 57; Lei nº 9.249/1995, com alterações, arts. 15 e 20; Lei nº 9.430/1996, art. 28; IN RFB nº 1.234/2012, arts. 2º, § 7º, inciso II, e § 9º, e 38; ADN Cosit nº 6/1997.
+
+ASSUNTO: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+
+EMENTA: LUCRO PRESUMIDO. CONSTRUÇÃO CIVIL. EMPREITADA. FORNECIMENTO DE MATERIAL. PERCENTUAL. Às receitas decorrentes da prestação de serviços de construção civil somente se aplica o percentual de presunção de 8% (oito por cento) para o IRPJ na hipótese de contratação por empreitada na modalidade total, com fornecimento, pelo empreiteiro, de todos os materiais indispensáveis à execução da obra, sendo tais materiais incorporados a esta. As demais receitas decorrentes de prestação de serviços, salvo as de serviços médicos e hospitalares definidos na legislação, sujeitam-se ao percentual de presunção de 32% (trinta e dois por cento). SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 8, DE 7/1/2014.
+
+DISPOSITIVOS LEGAIS: Lei nº 9.249/1995, com alterações, art. 15, § 1º, inciso III, “a”, e § 2º; IN RFB nº 1.234/2012, arts. 2º, § 7º, inciso II, e § 9º, e 38; ADN Cosit nº 6/1997
+
+MÁRIO HERMES SOARES CAMPOS Chefe

@@ -1,0 +1,42 @@
+---
+titulo: "Solução de Consulta Disit/SRRF02 nº 2009, de 22 de junho de 2017"
+orgao: "Divisão de Tributação da 2ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "2009"
+data: "2017-06-22"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 27/06/2017, seção 1, página 24"
+data_publicacao: "2017-06-27"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/84035/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/84035/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "84035"
+sha256_texto: "7f3a001818f174ac6a87e14c288d17b86f8df271108caba841da7317f9a8ef3e"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF02 nº 2009, de 22 de junho de 2017
+
+ASSUNTO: Imposto sobre a Renda Retido na Fonte - IRRF  
+EMENTA: Retenção do Imposto de Renda incidente na fonte e direito à apropriação do mesmo, na espécie, pelos Municípios e suas autarquias e fundações que instituírem e mantiverem, para fins de incorporação definitiva ao seu patrimônio, por ocasião dos pagamentos que estes efetuarem a pessoas jurídicas, decorrentes de contratos de fornecimento de bens e/ou serviços. Inteligência da expressão “rendimentos” constante no inciso Ido art. 158 da Constituição. O art. 158, inciso I, da Constituição Federal permite que os Municípios possam incorporar diretamente ao seu patrimônio o produto da retenção na fonte do Imposto de Renda incidente sobre rendimentos do trabalho que pagarem a seus servidores e empregados. Por outro lado, deve ser recolhido à Secretaria da Receita Federal do Brasil o Imposto de Renda Retido na Fonte pelas Municipalidades, incidente sobre rendimentos pagos por estas a pessoas jurídicas, decorrentes de contratos de fornecimento de bens e/ou serviços. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 166, DE 22 DE JUNHO DE 2015.  
+DISPOSITIVOS LEGAIS: Constituição Federal de 1988, art. 158, I; Lei nº 5.172, de 1966 (Código Tributário Nacional), art. 86, inciso II, §§ 1º e 2º; Decreto-Lei nº 62, de 1966, art. 21; Decreto nº 3.000, de 1999 (Regulamento do Imposto de Renda), arts. 682, I, e 685, II, “a”; Instrução Normativa RFB nº 1.455, de 2014, arts. 16 e 17; Parecer Normativo RFB nº 2, de 2012; Parecer PGFN/CAT nº 276, de 2014.  
+ASSUNTO: Normas Gerais de Direito Tributário  
+EMENTA: CONSULTA. INEFICÁCIA PARCIAL. Não produz efeitos a consulta formulada quando o fato estiver definido ou declarado em disposição literal de lei.  
+DISPOSITIVOS LEGAIS: Instrução Normativa SRF nº 1.396, de 16 de setembro de 2013, art. 18, IX.
+
+ASSUNTO: Imposto sobre a Renda Retido na Fonte - IRRF
+
+EMENTA: Retenção do Imposto de Renda incidente na fonte e direito à apropriação do mesmo, na espécie, pelos Municípios e suas autarquias e fundações que instituírem e mantiverem, para fins de incorporação definitiva ao seu patrimônio, por ocasião dos pagamentos que estes efetuarem a pessoas jurídicas, decorrentes de contratos de fornecimento de bens e/ou serviços. Inteligência da expressão “rendimentos” constante no inciso Ido art. 158 da Constituição. O art. 158, inciso I, da Constituição Federal permite que os Municípios possam incorporar diretamente ao seu patrimônio o produto da retenção na fonte do Imposto de Renda incidente sobre rendimentos do trabalho que pagarem a seus servidores e empregados. Por outro lado, deve ser recolhido à Secretaria da Receita Federal do Brasil o Imposto de Renda Retido na Fonte pelas Municipalidades, incidente sobre rendimentos pagos por estas a pessoas jurídicas, decorrentes de contratos de fornecimento de bens e/ou serviços. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 166, DE 22 DE JUNHO DE 2015.
+
+DISPOSITIVOS LEGAIS: Constituição Federal de 1988, art. 158, I; Lei nº 5.172, de 1966 (Código Tributário Nacional), art. 86, inciso II, §§ 1º e 2º; Decreto-Lei nº 62, de 1966, art. 21; Decreto nº 3.000, de 1999 (Regulamento do Imposto de Renda), arts. 682, I, e 685, II, “a”; Instrução Normativa RFB nº 1.455, de 2014, arts. 16 e 17; Parecer Normativo RFB nº 2, de 2012; Parecer PGFN/CAT nº 276, de 2014.
+
+ASSUNTO: Normas Gerais de Direito Tributário
+
+EMENTA: CONSULTA. INEFICÁCIA PARCIAL. Não produz efeitos a consulta formulada quando o fato estiver definido ou declarado em disposição literal de lei.
+
+DISPOSITIVOS LEGAIS: Instrução Normativa SRF nº 1.396, de 16 de setembro de 2013, art. 18, IX.
+
+ALDENIR BRAGA CHRISTO  
+Chefe

@@ -1,0 +1,34 @@
+---
+titulo: "Ato Declaratório Executivo Delex/SPO nº 52, de 3 de julho de 2018"
+orgao: "Delegacia Especial da Receita Federal do Brasil de Fiscalização de Comércio Exterior"
+tipo: "Ato Declaratório Executivo"
+numero: "52"
+data: "2018-07-03"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 11/07/2018, seção 1, página 85"
+data_publicacao: "2018-07-11"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/93224/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/93224/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "93224"
+sha256_texto: "4eb69fc9abbff7ef1e80c3fce6ef069f29a5ca3b9bc6e7376e1685415f7d7ff0"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo Delex/SPO nº 52, de 3 de julho de 2018
+
+Cancela o registro especial para estabelecimentos que realizem operações com papel destinado à impressão de livros, jornais e periódicos (papel imune).
+
+O Auditor-Fiscal da Receita Federal do Brasil LUIS FELIPE TAKANO, matrícula nº 1.815.087, lotado e em exercício na Delegacia Especial da Receita Federal do Brasil de Fiscalização de Comércio Exterior e Indústria (DELEX) em São Paulo, no exercício da competência delegada pelo inciso II do art. 7º, da Portaria DELEX nº 73/2018, de 19/04/2018, publicada no DOU de 23/04/2018), tendo em vista o disposto no inciso VIII do art. 340 da Portaria MF nº 430 de 09/10/2017, publicada no DOU de 11/10/2017, e, considerando o disposto na Instrução Normativa RFB n° 976, de 07/12/2009 e alterações posteriores, resolve como abaixo segue:
+
+Processo Eletrônico nº 10314.720320/2018-37
+
+COOPERATIVA CENTRAL DE LATICINIOS DO ESTADO DE S PAULO (CNPJ: 61.418.026/0001-49)
+
+Cancela o Registro Especial de IMPORTADOR, nº IP-08190/00262 e USUÁRIO nº UP-08190/00563, concedidos, respectivamente, pelos ADEs nº 367/2010 e 349/2010, ambos de 13/05/2010, publicados no DOU em 18/05/2010, Processo nº 11610.004063/2002-43, para o estabelecimento da empresa COOPERATIVA CENTRAL DE LATICINIOS DO ESTADO DE S PAULO, inscrita no CNPJ sob o número 61.418.026/0001-49, localizado na Rua Gomes Cardim, 532, Brás, São Paulo/SP, CEP: 03050-900.
+
+O presente Ato Declaratório Executivo entra em vigor na data de sua publicação.
+
+LUIS FELIPE TAKANO

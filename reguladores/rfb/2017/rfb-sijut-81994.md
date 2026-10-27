@@ -1,0 +1,62 @@
+---
+titulo: "Ato Declaratório Executivo DRF/RJ1 nº 67, de 4 de abril de 2017"
+orgao: "Delegacia da Receita Federal do Brasil no Rio de Janeiro I"
+tipo: "Ato Declaratório Executivo"
+numero: "67"
+data: "2017-04-04"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 10/04/2017, seção 1, página 18"
+data_publicacao: "2017-04-10"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/81994/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/81994/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "81994"
+sha256_texto: "838537cbed392b984bffca866403d13839ce17cada78e02b2d5dab9f7604c7fc"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo DRF/RJ1 nº 67, de 4 de abril de 2017
+
+Concede, à pessoa jurídica que menciona, habilitação para operar no Regime Especial de Tributação para Desenvolvimento da Atividade de Exibição Cinematográfica (Recine) de que trata a Instrução Normativa RFB nº 1.446/2014.
+
+A DELEGADA DA RECEITA FEDERAL DO BRASIL NO RIO DE JANEIRO I, no exercício das atribuições regimentais, definidas pelo artigo 302, inciso VI, do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF n° 203, de 14 de maio de 2012, publicada no DOU de 17 de maio de 2012, tendo em vista o disposto no artigo 10, caput da Instrução Normativa nº 1.446, de 17 de fevereiro de 2014, publicada no D.O.U. de 18 de fevereiro de 2014 e, considerando o que consta do dossiê nº 10010.017467/0217-06 resolve:
+
+Art. 1º- Habilitar a empresa abaixo identificada para operar no Regime Especial de Tributação para Desenvolvimento da Atividade de Exibição Cinematográfica (RECINE), instituído pela Lei nº 12.599/2012 e regulamentado pelo Decreto nº 7.729/2012, consoante o disposto no artigo 10, caput, da Instrução Normativa nº 1.446/2014, nos termos da Portaria ANCINE Nº 12-E, DE 18 DE JANEIRO DE 2017.
+
+DOSSIÊ DE ATENDIMENTO: 10010.017467/0217-06
+
+INTERESSADO: MICROSENS S/A
+
+CNPJ Nº 78.126.950/0001-54
+
+PROJETO: DIGITALIZAÇÃO – MICROSENS – 05 COMPLEXOS
+
+ENQUADRAMENTO: AQUISIÇÃO DE EQUIPAMENTOS AUDIOVISUAIS PARA LOCAÇÃO OU INSTALAÇÃO EM SALAS DE EXIBIÇÃO CINEMATOGRÁFICA.
+
+OBJETO: Refere-se à locação de equipamentos audiovisuais para 05 (cinco) complexos, listados a seguir:
+
+1) Complexo cinematográfico Espaço Itaú de Cinemas, localizado à R. Túlio de Rose, 80, 2º Piso, CEP: 91.340-110, Passo de Areia, Porto Alegre – RS;
+
+2) Espaço cinematográfico Microsens Distrito Federal, localizado à Quadra 14, Área Especial 03 e 04, Salas A, B e C, CEP:
+
+73.050-140, Sobradinho – DF;
+
+3) Complexo cinematográfico Espaço Itaú de Cinemas – Botafogo, localizado à Praia de Botafogo, 316, Térreo, Botafogo, CEP: 22.250-040, Rio de Janeiro – RJ;
+
+4) Complexo cinematográfico Microsens Catanduva, localizado à Av. Engenheiro José Nelson Machado, 280, Sala a55, Centro, CEP: 15.800-200, Catanduva – SP;
+
+5) Complexo cinematográfico Microsens Araguaina, localizado à Av. Canego João Lima, 2037, Quadra 13, Lote 01, Sala 402,
+
+CEP: 77.804-010 Centro, Araguaiana – TO.
+
+**Art. 2º** - A suspensão de que trata o art. 2º da IN 1.446/2014, pode ser usufruída nas aquisições e importações de bens e materiais listados no Anexo ao Decreto nº 7.729/2012, vinculadas ao projeto aprovado e realizadas entre a data da habilitação ao regime e 26 de março de 2017.
+
+**Art. 3º** - A presente habilitação poderá ser cancelada “ex officio” pela Autoridade Fiscal em caso de inobservância, por parte da beneficiária, de quaisquer dos requisitos que condicionaram a concessão do regime, conforme artigo 11 da Instrução Normativa RFB nº 1.446/2014.
+
+**Art. 4º** - Pelo prazo de 05 (cinco) anos, contados da conclusão do projeto de modernização ou do início da operação das salas de exibição, fica vedada a destinação dos complexos e dos equipamentos audiovisuais, adquiridos com benefício fiscal, em fins diversos dos previstos nos projetos credenciados ou aprovados pela ANCINE (art. 15 da Lei nº 12.599/2012).
+
+**Art. 5º** - Este Ato Declaratório Executivo produzirá efeitos a partir da data de sua publicação no Diário Oficial da União.
+
+MÔNICA PAES BARRETO

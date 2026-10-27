@@ -1,0 +1,30 @@
+---
+titulo: "Ato Declaratório Executivo DRF/VAR nº 67, de 18 de dezembro de 2014"
+orgao: "Delegacia da Receita Federal do Brasil em Varginha"
+tipo: "Ato Declaratório Executivo"
+numero: "67"
+data: "2014-12-18"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 23/12/2014, seção 1, página 44"
+data_publicacao: "2014-12-23"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/59663/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/59663/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "59663"
+sha256_texto: "e07ecc744f8c52a2972aa874228080fc199d75858d8a22dfde85e5844aea23fd"
+baixado_em: "2026-10-20"
+---
+# Ato Declaratório Executivo DRF/VAR nº 67, de 18 de dezembro de 2014
+
+Declara e comunica o cancelamento de inscrição no cadastro CPF nos termos da Instrução Normativa RFB nº 1.042, de 10 de junho de 2010.
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM VARGINHA, no uso das atribuições que lhe confere o art. 224, III do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e da competência conferida pelo artigo 26, II c/c os art. 30, I e 31, da Instrução Normativa RFB nº 1.042, de 10 de junho de 2010, e considerando o que consta do processo administrativo nº 10660-723515/2014-75, declara:
+
+**Art. 1º** - Cancelada, por multiplicidade, a inscrição no Cadastro de Pessoas Físicas - CPF, do contribuinte PETERSON WILLIANS DE CASTRO, CPF 127.868.896-00.
+
+**Art. 2º** – Remanesce para o interessado o CPF 139.913.216-45.
+
+NEWTON KLEBER DE ABREU JÚNIOR

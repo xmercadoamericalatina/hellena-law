@@ -1,0 +1,37 @@
+---
+titulo: "Solução de Consulta Disit/SRRF07 nº 7017, de 26 de julho de 2018"
+orgao: "Divisão de Tributação da 7ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "7017"
+data: "2018-07-26"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 28/08/2018, seção 1, página 27"
+data_publicacao: "2018-08-28"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/94451/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/94451/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "94451"
+sha256_texto: "b9414596d0cc97baa895b19013da8e46693821cb8568b60f3333bbee7a1e6304"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF07 nº 7017, de 26 de julho de 2018
+
+ASSUNTO: Assunto: Imposto sobre a Renda Retido na Fonte - IRRF EMENTA: RENDIMENTOS RECEBIDOS ACUMULADAMENTE. REGIME DE TRIBUTAÇÃO. A entidade fechada de previdência complementar que pagar ou creditar, a partir de 11 de março de 2015, rendimentos submetidos à incidência do imposto sobre a renda com base na tabela progressiva, quando correspondentes a anos-calendário anteriores ao do recebimento, os tributará exclusivamente na fonte, no mês do recebimento ou crédito, em separado dos demais rendimentos recebidos no mês. A base de cálculo será apurada sobre o montante dos rendimentos pagos ou creditados, mediante a utilização de tabela progressiva resultante da multiplicação da quantidade de meses a que se referem os rendimentos pelos valores constantes da tabela progressiva mensal correspondente ao mês do recebimento ou crédito. O beneficiário do rendimento deverá indicar em sua Declaração de Ajuste Anual, com o uso da Ficha Rendimentos Tributáveis de Pessoa Jurídica Recebidos Acumuladamente pelo Titular/Dependente, a forma de tributação por ele adotada, por opção, nos termos da legislação de regência (Ajuste Anual ou Tributação Exclusiva na Fonte). SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT N.º 146, DE 29 DE SETEMBRO DE 2016. DISPOSITIVOS LEGAIS: Lei n.º 7.713, de 1988, art. 12-A; IN RFB n.º 1.500, arts. 36-51. ASSUNTO: Processo Administrativo Fiscal EMENTA: INEFICÁCIA PARCIAL DA CONSULTA. Não produz efeito a consulta formulada quando o fato estiver disciplinado em ato normativo publicado na Imprensa Oficial antes de sua apresentação e/ou tiver por objetivo a prestação de assessoria jurídica ou contábil-fiscal pela RFB. DISPOSITIVOS LEGAIS: IN RFB n.º 1.396, de 2013, art. 18, incisos VII e XIV c/c IN RFB n.º 672, de 2006, e IN RFB n.º 736, de 2007.
+
+ASSUNTO: Assunto: Imposto sobre a Renda Retido na Fonte - IRRF
+
+EMENTA: RENDIMENTOS RECEBIDOS ACUMULADAMENTE. REGIME DE TRIBUTAÇÃO. A entidade fechada de previdência complementar que pagar ou creditar, a partir de 11 de março de 2015, rendimentos submetidos à incidência do imposto sobre a renda com base na tabela progressiva, quando correspondentes a anos-calendário anteriores ao do recebimento, os tributará exclusivamente na fonte, no mês do recebimento ou crédito, em separado dos demais rendimentos recebidos no mês. A base de cálculo será apurada sobre o montante dos rendimentos pagos ou creditados, mediante a utilização de tabela progressiva resultante da multiplicação da quantidade de meses a que se referem os rendimentos pelos valores constantes da tabela progressiva mensal correspondente ao mês do recebimento ou crédito. O beneficiário do rendimento deverá indicar em sua Declaração de Ajuste Anual, com o uso da Ficha Rendimentos Tributáveis de Pessoa Jurídica Recebidos Acumuladamente pelo Titular/Dependente, a forma de tributação por ele adotada, por opção, nos termos da legislação de regência (Ajuste Anual ou Tributação Exclusiva na Fonte). SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT N.º 146, DE 29 DE SETEMBRO DE 2016.
+
+DISPOSITIVOS LEGAIS: Lei n.º 7.713, de 1988, art. 12-A; IN RFB n.º 1.500, arts. 36-51.
+
+ASSUNTO: Processo Administrativo Fiscal
+
+EMENTA: INEFICÁCIA PARCIAL DA CONSULTA. Não produz efeito a consulta formulada quando o fato estiver disciplinado em ato normativo publicado na Imprensa Oficial antes de sua apresentação e/ou tiver por objetivo a prestação de assessoria jurídica ou contábil-fiscal pela RFB.
+
+DISPOSITIVOS LEGAIS: IN RFB n.º 1.396, de 2013, art. 18, incisos VII e XIV c/c IN RFB n.º 672, de 2006, e IN RFB n.º 736, de 2007.
+
+JOSÉ CARLOS SABINO ALVES  
+Chefe da Disit/SRRF07

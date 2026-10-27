@@ -1,0 +1,48 @@
+---
+titulo: "Solução de Consulta Disit/SRRF08 nº 8083, de 17 de julho de 2015"
+orgao: "Divisão de Tributação da 8ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "8083"
+data: "2015-07-17"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 17/08/2015, seção 1, página 24"
+data_publicacao: "2015-08-17"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/67094/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/67094/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "67094"
+sha256_texto: "ef410fedf864077e3fd80adebdd7befa635108b3f1133eeb5b260ea0239a55b2"
+baixado_em: "2026-10-20"
+---
+# Solução de Consulta Disit/SRRF08 nº 8083, de 17 de julho de 2015
+
+Assunto: Imposto sobre a Renda de Pessoa Jurídica – IRPJ CONCESSIONÁRIA DE SERVIÇO PÚBLICO. ATIVIDADE DE CONSTRUÇÃO. O percentual de presunção a ser aplicado para determinação da base de cálculo do IRPJ dos pagamentos por estimativa para as atividades de prestação de serviços de construção, recuperação, reforma, ampliação ou melhoramento de infraestrutura, vinculados a contratos de concessão de serviços públicos, independentemente do emprego parcial ou total de materiais, será de 32% (trinta e dois por cento). Por força do § 2º do art. 15 da Lei nº 9.249, de 1995, para o caso de outras atividades, serão aplicados seus correspondentes percentuais de presunção. Dispositivos Legais: Lei nº 9.430, de 1996, art. 2º; Lei nº 9.249, de 1995, alínea “e”, inciso III, § 1º, art. 15, introduzida pela Lei nº 12.973, de 2014; Lei nº 12.973, de 2014, art. 36; Instrução Normativa RFB nº 1.515, de 2014, alínea “e”, inciso IV, § 2º, e § 18, ambos do art. 4º, e arts. 81 e 83. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 74, DE 3 DE JULHO DE 2015. Assunto: Contribuição Social sobre o Lucro Líquido – CSLL CONCESSIONÁRIA DE SERVIÇO PÚBLICO. ATIVIDADE DE CONSTRUÇÃO. O percentual de presunção a ser aplicado para determinação da base de cálculo da CSLL dos pagamentos por estimativa para as atividades de prestação de serviços de construção, recuperação, reforma, ampliação ou melhoramento de infraestrutura, vinculados a contratos de concessão de serviços públicos, independentemente do emprego parcial ou total de materiais, será de 32% (trinta e dois por cento). Por força do § 2º do art. 15 da Lei nº 9.249, de 1995, para o caso de outras atividades, serão aplicados seus correspondentes percentuais de presunção. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 74, DE 3 DE JULHO DE 2015. Dispositivos Legais: Lei nº 9.430, de 1996, art. 2º; Lei nº 9.249, de 1995, alínea “e”, inciso III, § 1º, art. 15, introduzida pela Lei nº 12.973, de 2014, e art. 20; Lei nº 12.973, de 2014, art. 36; Instrução Normativa RFB nº 1.515, de 2014, alínea “e”, inciso IV, § 2º, e § 18, ambos do art. 4º, e arts. 81 e 83.
+
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+
+CONCESSIONÁRIA DE SERVIÇO PÚBLICO. ATIVIDADE DE CONSTRUÇÃO.
+
+O percentual de presunção a ser aplicado para determinação da base de cálculo do IRPJ dos pagamentos por estimativa para as atividades de prestação de serviços de construção, recuperação, reforma, ampliação ou melhoramento de infraestrutura, vinculados a contratos de concessão de serviços públicos, independentemente do emprego parcial ou total de materiais, será de 32% (trinta e dois por cento).
+
+Por força do § 2º do art. 15 da Lei nº 9.249, de 1995, para o caso de outras atividades, serão aplicados seus correspondentes percentuais de presunção.
+
+Dispositivos Legais: Lei nº 9.430, de 1996, art. 2º; Lei nº 9.249, de 1995, alínea “e”, inciso III, § 1º, art. 15, introduzida pela Lei nº 12.973, de 2014; Lei nº 12.973, de 2014, art. 36; Instrução Normativa RFB nº 1.515, de 2014, alínea “e”, inciso IV, § 2º, e § 18, ambos do art. 4º, e arts. 81 e 83.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 74, DE 3 DE JULHO DE 2015.
+
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL
+
+CONCESSIONÁRIA DE SERVIÇO PÚBLICO. ATIVIDADE DE CONSTRUÇÃO.
+
+O percentual de presunção a ser aplicado para determinação da base de cálculo da CSLL dos pagamentos por estimativa para as atividades de prestação de serviços de construção, recuperação, reforma, ampliação ou melhoramento de infraestrutura, vinculados a contratos de concessão de serviços públicos, independentemente do emprego parcial ou total de materiais, será de 32% (trinta e dois por cento).
+
+Por força do § 2º do art. 15 da Lei nº 9.249, de 1995, para o caso de outras atividades, serão aplicados seus correspondentes percentuais de presunção.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 74, DE 3 DE JULHO DE 2015.
+
+Dispositivos Legais: Lei nº 9.430, de 1996, art. 2º; Lei nº 9.249, de 1995, alínea “e”, inciso III, § 1º, art. 15, introduzida pela Lei nº 12.973, de 2014, e art. 20; Lei nº 12.973, de 2014, art. 36; Instrução Normativa RFB nº 1.515, de 2014, alínea “e”, inciso IV, § 2º, e § 18, ambos do art. 4º, e arts. 81 e 83.
+
+KARINA ALESSANDRA DE MATTERA GOMES Chefe

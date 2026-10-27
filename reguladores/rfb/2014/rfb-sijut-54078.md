@@ -1,0 +1,48 @@
+---
+titulo: "Solução de Consulta Disit/SRRF08 nº 8040, de 27 de junho de 2014"
+orgao: "Divisão de Tributação da 8ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "8040"
+data: "2014-06-27"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 15/07/2014, seção 1, página 25"
+data_publicacao: "2014-07-15"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/54078/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/54078/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "54078"
+sha256_texto: "3965d877ceb4dad6bb978b0cc8299459447f5ff82b0c045e3cf9728b3547883f"
+baixado_em: "2026-10-20"
+---
+# Solução de Consulta Disit/SRRF08 nº 8040, de 27 de junho de 2014
+
+Assunto: Imposto sobre a Renda de Pessoa Jurídica – IRPJ LUCRO PRESUMIDO. Serviços DE SAÚDE. PERCENTUAL. PRESUNÇÃO REDUZIDO. REQUISITOS. A partir de 1.º de janeiro de 2009, para fins de determinação da base de cálculo do Imposto sobre a Renda de Pessoa Jurídica com base no lucro presumido, aplica-se o percentual de 8% sobre a receita bruta decorrente da prestação de serviços hospitalares e de auxílio diagnóstico e terapia, patologia clínica, imagenologia, anatomia patológica e citopatologia, medicina nuclear e análises e patologias clínicas, desde que a prestadora destes serviços seja organizada sob a forma de sociedade empresária (de direito e de fato) e atenda às normas da Agência Nacional de Vigilância Sanitária - Anvisa. Em relação à receita percebida em decorrência da realização de (i) consultas médicas, (ii) pequenos procedimentos cirúrgicos operatórios e pós-operatórios, realizados por prestador de serviço em estabelecimento próprio que não atende aos requisitos estabelecidos no ADI SRF nº. 19, de 2007 e (iii) cirurgias plásticas realizadas em estabelecimentos de terceiros, aplica-se o percentual de 32% (trinta e dois por cento) na apuração do lucro presumido. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 86, DE 02 DE ABRIL DE 2014. Dispositivos Legais: Lei nº 9.249, de 1995, art. 15, caput, § 1º, III, “a”, e § 2º; Lei nº 9.430, de 1996, art. 25, I; Lei nº 10.406, de 2002 (Código Civil), art. 966 e 982; Lei nº 11.727, de 2008, arts. 29 e 41, VI; IN RFB nº 1.234, de 2012, arts. 30, 31 e 38, II; ADI SRF nº 19, de 2007; Soluções de Divergência Cosit nº 11, de 2012, e nº 14, de 2013; Resolução RDC Anvisa nº 50, de 2002. Assunto: Contribuição Social sobre o Lucro Líquido – CSLL LUCRO PRESUMIDO. Serviços DE SAÚDE. PERCENTUAL DE PRESUNÇÃO REDUZIDO. REQUISITOS. A partir de 1.º de janeiro de 2009, para fins de determinação da base de cálculo da Contribuição Social sobre o Lucro Líquido com base no lucro presumido, aplica-se o percentual de 12% sobre a receita bruta decorrente da prestação de serviços hospitalares e de auxílio diagnóstico e terapia, patologia clínica, imagenologia, anatomia patológica e citopatologia, medicina nuclear e análises e patologias clínicas, desde que a prestadora destes serviços seja organizada sob a forma de sociedade empresária (de direito e de fato) e atenda às normas da Agência Nacional de Vigilância Sanitária - Anvisa. Em relação à receita percebida em decorrência da realização de (i) consultas médicas, (ii) pequenos procedimentos cirúrgicos operatórios e pós-operatórios, realizados por prestador de serviço em estabelecimento próprio que não atende aos requisitos estabelecidos no ADI SRF nº. 19, de 2007 e (iii) cirurgias plásticas realizadas em estabelecimentos de terceiros, aplica-se o percentual de 32% (trinta e dois por cento) na apuração da base de cálculo presumida da CSLL. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 86, DE 02 DE ABRIL DE 2014. Dispositivos Legais: Lei nº 9.249, de 1995, art. 15, § 1º, III, “a”, e art. 20, caput; Lei nº 9.430, de 1996, art. 29, I; Lei nº 10.406, de 2002 (Código Civil), art. 966 e 982; Lei nº 11.727, de 2008, arts. 29 e 41, VI; IN RFB nº 1.234, de 2012, arts. 31 e 38, II; ADI SRF nº 19, de 2007; Soluções de Divergência Cosit nº 11, de 2012, e nº 14, de 2013; Resolução RDC Anvisa nº 50, de 2002.
+
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+
+LUCRO PRESUMIDO. Serviços DE SAÚDE. PERCENTUAL. PRESUNÇÃO REDUZIDO. REQUISITOS.
+
+A partir de 1.º de janeiro de 2009, para fins de determinação da base de cálculo do Imposto sobre a Renda de Pessoa Jurídica com base no lucro presumido, aplica-se o percentual de 8% sobre a receita bruta decorrente da prestação de serviços hospitalares e de auxílio diagnóstico e terapia, patologia clínica, imagenologia, anatomia patológica e citopatologia, medicina nuclear e análises e patologias clínicas, desde que a prestadora destes serviços seja organizada sob a forma de sociedade empresária (de direito e de fato) e atenda às normas da Agência Nacional de Vigilância Sanitária - Anvisa.
+
+Em relação à receita percebida em decorrência da realização de (i) consultas médicas, (ii) pequenos procedimentos cirúrgicos operatórios e pós-operatórios, realizados por prestador de serviço em estabelecimento próprio que não atende aos requisitos estabelecidos no ADI SRF nº. 19, de 2007 e (iii) cirurgias plásticas realizadas em estabelecimentos de terceiros, aplica-se o percentual de 32% (trinta e dois por cento) na apuração do lucro presumido.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 86, DE 02 DE ABRIL DE 2014.
+
+Dispositivos Legais: Lei nº 9.249, de 1995, art. 15, caput, § 1º, III, “a”, e § 2º; Lei nº 9.430, de 1996, art. 25, I; Lei nº 10.406, de 2002 (Código Civil), art. 966 e 982; Lei nº 11.727, de 2008, arts. 29 e 41, VI; IN RFB nº 1.234, de 2012, arts. 30, 31 e 38, II; ADI SRF nº 19, de 2007; Soluções de Divergência Cosit nº 11, de 2012, e nº 14, de 2013; Resolução RDC Anvisa nº 50, de 2002.
+
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL
+
+LUCRO PRESUMIDO. Serviços DE SAÚDE. PERCENTUAL DE PRESUNÇÃO REDUZIDO. REQUISITOS.
+
+A partir de 1.º de janeiro de 2009, para fins de determinação da base de cálculo da Contribuição Social sobre o Lucro Líquido com base no lucro presumido, aplica-se o percentual de 12% sobre a receita bruta decorrente da prestação de serviços hospitalares e de auxílio diagnóstico e terapia, patologia clínica, imagenologia, anatomia patológica e citopatologia, medicina nuclear e análises e patologias clínicas, desde que a prestadora destes serviços seja organizada sob a forma de sociedade empresária (de direito e de fato) e atenda às normas da Agência Nacional de Vigilância Sanitária - Anvisa.
+
+Em relação à receita percebida em decorrência da realização de (i) consultas médicas, (ii) pequenos procedimentos cirúrgicos operatórios e pós-operatórios, realizados por prestador de serviço em estabelecimento próprio que não atende aos requisitos estabelecidos no ADI SRF nº. 19, de 2007 e (iii) cirurgias plásticas realizadas em estabelecimentos de terceiros, aplica-se o percentual de 32% (trinta e dois por cento) na apuração da base de cálculo presumida da CSLL.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 86, DE 02 DE ABRIL DE 2014.
+
+Dispositivos Legais: Lei nº 9.249, de 1995, art. 15, § 1º, III, “a”, e art. 20, caput; Lei nº 9.430, de 1996, art. 29, I; Lei nº 10.406, de 2002 (Código Civil), art. 966 e 982; Lei nº 11.727, de 2008, arts. 29 e 41, VI; IN RFB nº 1.234, de 2012, arts. 31 e 38, II; ADI SRF nº 19, de 2007; Soluções de Divergência Cosit nº 11, de 2012, e nº 14, de 2013; Resolução RDC Anvisa nº 50, de 2002.
+
+EDUARDO NEWMAN DE MATTERA GOMES Chefe

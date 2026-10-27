@@ -1,0 +1,42 @@
+---
+titulo: "Ato Declaratório Executivo DRF/PFO nº 10, de 29 de maio de 2014"
+orgao: "Delegacia da Receita Federal do Brasil em Passo Fundo"
+tipo: "Ato Declaratório Executivo"
+numero: "10"
+data: "2014-05-29"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 30/05/2014, seção 1, página 84"
+data_publicacao: "2014-05-30"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/52847/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/52847/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "52847"
+sha256_texto: "b287c0289f50f2d8d2a6e31e23ae7e9e4d63ed47246dd062861ffad64d5d2c1e"
+baixado_em: "2026-10-20"
+---
+# Ato Declaratório Executivo DRF/PFO nº 10, de 29 de maio de 2014
+
+Divulga enquadramento de bebidas, segundo o regime de tributação do Imposto sobre Produtos Industrializados de que trata o art. 1° da Lei n° 7.798, de 10 de julho de 1989.
+
+A DELEGADA SUBSTITUTA DA RECEITA FEDERAL DO BRASIL EM PASSO FUNDO (RS), no uso da atribuição que lhe são conferidas pelos arts. 224 e 314 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, e tendo em vista o disposto no art. 5º, da Instrução Normativa RFB 866, de 06 de agosto de 2008, e nos arts. 209 e 210 do Decreto nº 7.212, de 15 de junho de 2010 - Regulamento do Imposto sobre Produtos Industrializados (Ripi), declara:
+
+**Art. 1°** Os produtos relacionados neste Ato Declaratório Executivo (ADE), para efeito de cálculo e pagamento do Imposto sobre Produtos Industrializados (IPI) de que trata o art. 1° da Lei n° 7.798, de 10 de julho de 1989, passam a ser classificados ou a ter sua classificação alterada conforme Anexo Único.
+
+**Art. 2°** Os produtos referidos no art. 1°, acondicionados em recipientes de capacidade superior a 1.000 ml (um mil mililitros), estão sujeitos à incidência do IPI, proporcionalmente ao que for estabelecido no enquadramento para o recipiente de capacidade de 1.000 ml (um mil mililitros), arredondando-se para 1.000 ml (um mil mililitros) a fração residual, se houver, conforme disposto no § 9° do art. 210 do Decreto n° 7.212, de 15 de junho de 2010 – Regulamento do Imposto sobre Produtos Industrializados (RIPI).
+
+**Art. 3°** As classes de enquadramento previstas neste ADE, salvo nos casos expressamente definidos, referem-se a produtos comercializados em qualquer tipo de vasilhame.
+
+**Parágrafo único.** Para as marcas de vinho comum ou de consumo corrente, comercializadas em vasilhame retornável, o enquadramento do produto dar-se-á em classe imediatamente inferior à constante deste ADE, observada a classe mínima a que se refere o inciso V do § 2° do art. 210 do RIPI.
+
+**Art. 4°** As classes de enquadramento previstas neste ADE aplicam-se aos produtos fabricados no País, exceto quanto aos produtos do código 2208.30 da Tabela de Incidência do IPI que observarem o disposto no § 2° do art. 211 do RIPI.
+
+**Art. 5°** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+LUCIANE SCORTEGAGNA PEDRA
+
+ANEXO ÚNICO ENQUADRAMENTO DE PRODUTOS PARA EFEITO DE CÁLCULO E PAGAMENTO DO IPI.
+
+<table>  				<col>  				<col>  				<col>  				<col>  				<col>  				<tr>  					<td>  						<p>CNPJ</p>  					</td>  					<td>  						<p>MARCA  						COMERCIAL</p>  					</td>  					<td>  						<p>CAPACIDADE  						(mililitros)</p>  					</td>  					<td>  						<p>CÓDIGO  						TIPI</p>  					</td>  					<td>  						<p>ENQUADRAMENTO  						(letra)</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>06.152.044/0001-13</p>  					</td>  					<td>  						<p>CACHAÇA  						EXTRA PREMIUM PRINCESA DO ARROIO</p>  					</td>  					<td>  						<p>De  						671ml até 1000ml</p>  					</td>  					<td>  						<p>2208.40.00</p>  					</td>  					<td>  						<p>Q</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>06.152.044/0001-13</p>  					</td>  					<td>  						<p>GRASPA  						PRINCESA DO ARROIO</p>  					</td>  					<td>  						<p>De  						671ml até 1000ml</p>  					</td>  					<td>  						<p>2208.20.00</p>  					</td>  					<td>  						<p>R</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>06.152.044/0001-13</p>  					</td>  					<td>  						<p>GRASPA  						PRINCESA DO ARROIO</p>  					</td>  					<td>  						<p>Até  						180ml</p>  					</td>  					<td>  						<p>2208.20.00</p>  					</td>  					<td>  						<p>K</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>06.152.044/0001-13</p>  					</td>  					<td>  						<p>VODCA  						PRINCESA DO ARROIO</p>  					</td>  					<td>  						<p>De  						671ml até 1000ml</p>  					</td>  					<td>  						<p>2208.60.00</p>  					</td>  					<td>  						<p>P</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>07.637.628/0001-41</p>  					</td>  					<td>  						<p>VINICOLA  						KNOP - SECO BORDÔ</p>  					</td>  					<td>  						<p>Acima  						de 1000ml</p>  					</td>  					<td>  						<p>2204.21.00</p>  					</td>  					<td>  						<p>G</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>07.637.628/0001-41</p>  					</td>  					<td>  						<p>VINICOLA  						KNOP - SECO BORDÔ</p>  					</td>  					<td>  						<p>De  						671ml até 1000ml</p>  					</td>  					<td>  						<p>2204.21.00</p>  					</td>  					<td>  						<p>H</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>07.637.628/0001-41</p>  					</td>  					<td>  						<p>VINICOLA  						KNOP - SECO BORDÔ</p>  					</td>  					<td>  						<p>De  						376ml até 670ml</p>  					</td>  					<td>  						<p>2204.21.00</p>  					</td>  					<td>  						<p>D</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>07.637.628/0001-41</p>  					</td>  					<td>  						<p>VINICOLA  						KNOP - SECO CONCORD</p>  					</td>  					<td>  						<p>Acima  						de 1000ml</p>  					</td>  					<td>  						<p>2204.21.00</p>  					</td>  					<td>  						<p>F</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>07.637.628/0001-41</p>  					</td>  					<td>  						<p>VINICOLA  						KNOP - SECO CONCORD</p>  					</td>  					<td>  						<p>De  						671ml até 1000ml</p>  					</td>  					<td>  						<p>2204.21.00</p>  					</td>  					<td>  						<p>H</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>07.637.628/0001-41</p>  					</td>  					<td>  						<p>VINICOLA  						KNOP - SECO CONCORD</p>  					</td>  					<td>  						<p>De  						376ml até 670ml</p>  					</td>  					<td>  						<p>2204.21.00</p>  					</td>  					<td>  						<p>D</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>07.637.628/0001-41</p>  					</td>  					<td>  						<p>VINICOLA  						KNOP - SECO NIÁGARA BRANCO</p>  					</td>  					<td>  						<p>Acima  						de 1000ml</p>  					</td>  					<td>  						<p>2204.21.00</p>  					</td>  					<td>  						<p>F</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>07.637.628/0001-41</p>  					</td>  					<td>  						<p>VINICOLA  						KNOP - SECO NIÁGARA BRANCO</p>  					</td>  					<td>  						<p>De  						671ml até 1000ml</p>  					</td>  					<td>  						<p>2204.21.00</p>  					</td>  					<td>  						<p>H</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>07.637.628/0001-41</p>  					</td>  					<td>  						<p>VINICOLA  						KNOP - SECO NIÁGARA BRANCO</p>  					</td>  					<td>  						<p>De  						376ml até 670ml</p>  					</td>  					<td>  						<p>2204.21.00</p>  					</td>  					<td>  						<p>D</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>07.637.628/0001-41</p>  					</td>  					<td>  						<p>VINICOLA  						KNOP - SECO NIÁGARA ROSE</p>  					</td>  					<td>  						<p>Acima  						de 1000ml</p>  					</td>  					<td>  						<p>2204.21.00</p>  					</td>  					<td>  						<p>F</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>07.637.628/0001-41</p>  					</td>  					<td>  						<p>VINICOLA  						KNOP - SECO NIÁGARA ROSE</p>  					</td>  					<td>  						<p>De  						671ml até 1000ml</p>  					</td>  					<td>  						<p>2204.21.00</p>  					</td>  					<td>  						<p>H</p>  					</td>  				</tr>  				<tr>  					<td>  						<p>16.383.695/0001-78</p>  					</td>  					<td>  						<p>VINHEDO  						SOLIMAN</p>  					</td>  					<td>  						<p>De  						671ml até 1000ml</p>  					</td>  					<td>  						<p>2204.21.00</p>  					</td>  					<td>  						<p>J</p>  					</td>  				</tr>  			</table>

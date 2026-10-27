@@ -1,0 +1,28 @@
+---
+titulo: "Ato Declaratório Executivo DRF/BSB nº 121, de 9 de outubro de 2015"
+orgao: "Delegacia da Receita Federal do Brasil em Brasília"
+tipo: "Ato Declaratório Executivo"
+numero: "121"
+data: "2015-10-09"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 13/10/2015, seção 1, página 20"
+data_publicacao: "2015-10-13"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/68438/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/68438/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "68438"
+sha256_texto: "4e8228772d5e75c762ec06f2570fa7b9283fbcadd53c06a7b9df8b6795f7e125"
+baixado_em: "2026-10-20"
+---
+# Ato Declaratório Executivo DRF/BSB nº 121, de 9 de outubro de 2015
+
+Declara Nula a inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ) do Ministério da Fazenda.
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM BRASILIA–DF, no uso das atribuições conferidas pelo Regimento Interno da Secretaria da Receita Federal do Brasil – RFB, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, fundamentado no inciso II e § 1º do art. 33 da IN RFB nº 1.470, de 30 de maio de 2014, e o que consta no Processo Administrativo nº 14055.720127/2015-11, declara:
+
+**Art.1º** Nula a inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ), 19.418.710/0001-64, da empresa GENILSON DUARTE DE SOUZA 50530046172.
+
+ADALBERTO SANCHES

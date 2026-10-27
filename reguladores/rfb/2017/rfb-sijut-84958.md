@@ -1,0 +1,48 @@
+---
+titulo: "Solução de Consulta Disit/SRRF01 nº 1029, de 18 de julho de 2017"
+orgao: "Divisão de Tributação da 1ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "1029"
+data: "2017-07-18"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 03/08/2017, seção 1, página 101"
+data_publicacao: "2017-08-03"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/84958/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/84958/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "84958"
+sha256_texto: "a5f939a2a48c474be3620287b1e2c3451ea709b333cb4224ec92d13226216b56"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF01 nº 1029, de 18 de julho de 2017
+
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social – Cofins EMENTA: CRÉDITO. FRETE NA IMPORTAÇÃO. Os dispêndios da pessoa jurídica importadora com serviços de transporte (frete) da mercadoria importada desde o estrangeiro até o porto ou aeroporto alfandegado de descarga ou o ponto de fronteira alfandegado (transporte internacional) estão incluídos no valor aduaneiro da mercadoria, conforme inciso I do art. 4º da Instrução Normativa SRF nº 327, de 2003, e, consequentemente, podem compor a base de cálculo dos créditos de que tratam os incisos I e II do caput do art. 15 da Lei nº 10.865, de 2004, desde que permitida a apuração do referido crédito na operação. Os dispêndios da pessoa jurídica importadora com serviços de transporte (frete) da mercadoria importada desde o local alfandegado até o local de entrega da mercadoria no território nacional (transporte nacional) não estão incluídos no valor aduaneiro da mercadoria, conforme inciso II do art. 5º da Instrução Normativa SRF nº 327, de 2003, e, consequentemente, não podem compor a base de cálculo dos créditos de que tratam os incisos I e II do caput do art. 15 da Lei nº 10.865, de 2004. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 350 , DE 28 DE JUNHO DE 2017. DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 3o, II e IX, § 1o, I, § 2o, II, e § 3o, I; Lei nº 10.865, de 2004, art. 7o, I, e art. 15, II; Decreto nº 3.000, de 1999 (RIR/99), art. 289, § 1o; Instrução Normativa SRF nº 327, de 2003, arts. 4º e 5º. ASSUNTO: Contribuição para o Pis/Pasep EMENTA: CRÉDITO. FRETE NA IMPORTAÇÃO. Os dispêndios da pessoa jurídica importadora com serviços de transporte (frete) da mercadoria importada desde o estrangeiro até o porto ou aeroporto alfandegado de descarga ou o ponto de fronteira alfandegado (transporte internacional) estão incluídos no valor aduaneiro da mercadoria, conforme inciso I do art. 4º da Instrução Normativa SRF nº 327, de 2003, e, consequentemente, podem compor a base de cálculo dos créditos de que tratam os incisos I e II do caput do art. 15 da Lei nº 10.865, de 2004, desde que permitida a apuração do referido crédito na operação. Os dispêndios da pessoa jurídica importadora com serviços de transporte (frete) da mercadoria importada desde o local alfandegado até o local de entrega da mercadoria no território nacional (transporte nacional) não estão incluídos no valor aduaneiro da mercadoria, conforme inciso II do art. 5º da Instrução Normativa SRF nº 327, de 2003, e, consequentemente, não podem compor a base de cálculo dos créditos de que tratam os incisos I e II do caput do art. 15 da Lei nº 10.865, de 2004. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 350 , DE 28 DE JUNHO DE 2017. DISPOSITIVOS LEGAIS: Lei nº 10.637, de 2002, art. 3o, II, § 2o, II, e § 3o, I; Lei nº 10.833, de 2003, art. 3o, IX, e § 1o, I, c/c art. 15, II; Lei nº 10.865, de 2004, art. 7o, I, e art. 15, II; Decreto nº 3.000, de 1999, art. 289, § 1o; Instrução Normativa SRF nº 327, de 2003, arts. 4º e 5º.
+
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social – Cofins
+
+EMENTA: CRÉDITO. FRETE NA IMPORTAÇÃO.
+
+Os dispêndios da pessoa jurídica importadora com serviços de transporte (frete) da mercadoria importada desde o estrangeiro até o porto ou aeroporto alfandegado de descarga ou o ponto de fronteira alfandegado (transporte internacional) estão incluídos no valor aduaneiro da mercadoria, conforme inciso I do art. 4º da Instrução Normativa SRF nº 327, de 2003, e, consequentemente, podem compor a base de cálculo dos créditos de que tratam os incisos I e II do caput do art. 15 da Lei nº 10.865, de 2004, desde que permitida a apuração do referido crédito na operação.
+
+Os dispêndios da pessoa jurídica importadora com serviços de transporte (frete) da mercadoria importada desde o local alfandegado até o local de entrega da mercadoria no território nacional (transporte nacional) não estão incluídos no valor aduaneiro da mercadoria, conforme inciso II do art. 5º da Instrução Normativa SRF nº 327, de 2003, e, consequentemente, não podem compor a base de cálculo dos créditos de que tratam os incisos I e II do caput do art. 15 da Lei nº 10.865, de 2004.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 350 , DE 28 DE JUNHO DE 2017.
+
+DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 3o, II e IX, § 1o, I, § 2o, II, e § 3o, I; Lei nº 10.865, de 2004, art. 7o, I, e art. 15, II; Decreto nº 3.000, de 1999 (RIR/99), art. 289, § 1o; Instrução Normativa SRF nº 327, de 2003, arts. 4º e 5º.
+
+ASSUNTO: Contribuição para o Pis/Pasep
+
+EMENTA: CRÉDITO. FRETE NA IMPORTAÇÃO.
+
+Os dispêndios da pessoa jurídica importadora com serviços de transporte (frete) da mercadoria importada desde o estrangeiro até o porto ou aeroporto alfandegado de descarga ou o ponto de fronteira alfandegado (transporte internacional) estão incluídos no valor aduaneiro da mercadoria, conforme inciso I do art. 4º da Instrução Normativa SRF nº 327, de 2003, e, consequentemente, podem compor a base de cálculo dos créditos de que tratam os incisos I e II do caput do art. 15 da Lei nº 10.865, de 2004, desde que permitida a apuração do referido crédito na operação.
+
+Os dispêndios da pessoa jurídica importadora com serviços de transporte (frete) da mercadoria importada desde o local alfandegado até o local de entrega da mercadoria no território nacional (transporte nacional) não estão incluídos no valor aduaneiro da mercadoria, conforme inciso II do art. 5º da Instrução Normativa SRF nº 327, de 2003, e, consequentemente, não podem compor a base de cálculo dos créditos de que tratam os incisos I e II do caput do art. 15 da Lei nº 10.865, de 2004.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 350 , DE 28 DE JUNHO DE 2017.
+
+DISPOSITIVOS LEGAIS: Lei nº 10.637, de 2002, art. 3o, II, § 2o, II, e § 3o, I; Lei nº 10.833, de 2003, art. 3o, IX, e § 1o, I, c/c art. 15, II; Lei nº 10.865, de 2004, art. 7o, I, e art. 15, II; Decreto nº 3.000, de 1999, art. 289, § 1o; Instrução Normativa SRF nº 327, de 2003, arts. 4º e 5º.
+
+RODRIGO AUGUSTO VERLY DE OLIVEIRA Chefe

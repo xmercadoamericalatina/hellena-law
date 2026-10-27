@@ -1,0 +1,32 @@
+---
+titulo: "Ato Declaratório Executivo ALF/MNS nº 26, de 3 de agosto de 2018"
+orgao: "Alfândega da Receita Federal do Brasil no Porto de Manaus"
+tipo: "Ato Declaratório Executivo"
+numero: "26"
+data: "2018-08-03"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 09/08/2018, seção 1, página 35"
+data_publicacao: "2018-08-09"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/93975/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/93975/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "93975"
+sha256_texto: "8a8419e5298c07587667dbb55d2b321ab85d9f1e652617dfecff7316c0db0787"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo ALF/MNS nº 26, de 3 de agosto de 2018
+
+Habilita a empresa que menciona ao regime de suspensão da contribuição para o PIS/Pasep-Importação e da Cofins/Importação.
+
+O DELEGADO DA ALFÂNDEGA DA RECEITA FEDERAL DO BRASIL DO PORTO DE MANAUS/AM , no uso da(s) atribuição(ões) que lhe conferem os inciso(s) incisos III do art. 340 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 430, de 09 de Outubro de 2017, considerando o que consta do processo administrativo 12266.720682/2018-76 declara:
+
+**Art. 1º** Habilitada ao regime de suspensão da contribuição para o PIS/Pasep – Importação e da Cofins – Importação a Empresa ARMOR BRASIL INDUSTRIA E COMERCIO DE FITAS PARA IMPRESSAO LTDA– CNPJ nº 08.979.043/0001-72 nos termos do artigo 8º da Instrução Normativa SRF n° 424, republicada no DOU de 08/06/2004.
+
+**Art. 2º** A habilitação terá validade por prazo indeterminado, observado o disposto no parágrafo único do artigo 4º da supracitada Instrução Normativa.
+
+**Art. 3º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+JOSÉ ALVES DIAS

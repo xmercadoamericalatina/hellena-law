@@ -1,0 +1,32 @@
+---
+titulo: "Ato Declaratório Executivo DRF/POA nº 38, de 29 de abril de 2015"
+orgao: "Delegacia da Receita Federal do Brasil em Porto Alegre"
+tipo: "Ato Declaratório Executivo"
+numero: "38"
+data: "2015-04-29"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 04/05/2015, seção 1, página 78"
+data_publicacao: "2015-05-04"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/63697/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/63697/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "63697"
+sha256_texto: "2aa76dfa0308e9c1150c0db59641fe3833e79dffe5983c40b9731abb6f338e12"
+baixado_em: "2026-10-20"
+---
+# Ato Declaratório Executivo DRF/POA nº 38, de 29 de abril de 2015
+
+Declara anulados de ofício os atos de concessão de inscrição no CNPJ
+
+A DELEGADA-ADJUNTA DA RECEITA FEDERAL DO BRASIL EM PORTO ALEGRE - RS, no uso das atribuições que lhe são conferidas pelo art. 303 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14/05/2012, publicada no DOU de 17/05/2012 e alterações posteriores, e tendo em vista o disposto no § 1º do Art. 33 da IN RFB nº 1.470, de 30 de maio de 2014,
+
+DECLARA anulados de ofício, os atos de concessão de inscrição no CNPJ, por haver sido atribuído mais de um número de inscrição para a mesma pessoa jurídica, de acordo com o disposto no inciso I do Art. 33 da IN RFB nº 1.470/2014, de:
+
+CEZAR AUGUSTO REZER - ME – CNPJ 05.696.173/0001-00
+
+A anulação a que se refere este Ato Declaratório implicará o cancelamento da inscrição no CNPJ e produzirá efeitos a partir do termo inicial de vigência do ato cadastral declarado nulo.
+
+MARISTELA M. M. B. BITTENCOURT

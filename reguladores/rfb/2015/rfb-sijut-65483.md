@@ -1,0 +1,30 @@
+---
+titulo: "Ato Declaratório Executivo DRF/FNS nº 152, de 22 de junho de 2015"
+orgao: "Delegacia da Receita Federal do Brasil em Florianópolis"
+tipo: "Ato Declaratório Executivo"
+numero: "152"
+data: "2015-06-22"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 24/06/2015, seção 1, página 27"
+data_publicacao: "2015-06-24"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/65483/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/65483/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "65483"
+sha256_texto: "3046113674f4c48cf6c1692a5aa93833e8cbb4a9cc786497f4326f91c8ad098d"
+baixado_em: "2026-10-20"
+---
+# Ato Declaratório Executivo DRF/FNS nº 152, de 22 de junho de 2015
+
+Autoriza o fornecimento de selos de controle de bebidas para importação.
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM FLORIANÓPOLIS, no uso das atribuições que lhe são conferidas pelo artigo. 302, inciso IX, combinado com o Artigo 224, inciso VII e o artigo 314 inciso VI, da Portaria MF nº 203, de 14 de maio de 2012, publicada no DOU de 17 de maio de 2012, e considerando o disposto no art. 51, da Instrução Normativa RFB nº 1.432, de 26 de dezembro de 2013, publicada no DOU de 27 de dezembro de 2013 e no artigo 336 do Decreto nº 7.212 de 15 de junho de 2010, publicado no DOU de 16 de junho de 2010 e, ainda, considerando o pedido do contribuinte DOMAZZI IMPORTAÇÃO E EXPORTAÇÃO LTDA, CNPJ nº 72.204.944/0001-91, portador do Registro Especial de Importador de Bebidas Alcólicas de nº 09201/145, formulado nos autos do processo 11516.721994/2014-11, estabelecido à Rua Victor Konder nº 1259, Sala 103, A/B, Centro, Florianópolis, CEP 88.015-400, declara:
+
+**Art. 1º** - Autorizado o fornecimento de 9.000 (nove mil) selos de controle, Código 9822-13, Tipo VINHO, Cor AMARELO, para produto estrangeiro a ser selado no exterior, para os produtos e quantidades abaixo identificados, a saber:
+
+<table>  	<col>  	<col>  	<col>  	<col>  	<tr>  		<td>  			<p>Unidade</p>  		</td>  		<td>  			<p>Caixa</p>  		</td>  		<td>  			<p>Marca  			comercial</p>  		</td>  		<td>  			<p>Características  			do produto</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>360</p>  		</td>  		<td>  			<p>30</p>  		</td>  		<td>  			<p>TRIPANTU</p>  		</td>  		<td>  			<p>Vinho  			fino branco de mesa seco, Chileno, composto de uva Sauvignon Blanc  			Tripantu Reserve, safra 2013, com graduação  			alcóolica 12,5% vol., em caixas com 12 garrafas de 750ml.</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>1980</p>  		</td>  		<td>  			<p>165</p>  		</td>  		<td>  			<p>TRIPANTU</p>  		</td>  		<td>  			<p>Vinho  			fino tinto de mesa seco, Chileno, composto de uva Cabernet  			Suvignon Tripantu Reserve, safra 2013, com graduação  			alcóolica 13,5% vol., em caixas com 12 garrafas de 750ml.</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>1980</p>  		</td>  		<td>  			<p>165</p>  		</td>  		<td>  			<p>TRIPANTU</p>  		</td>  		<td>  			<p>Vinho  			fino tinto de mesa seco, Chileno, composto de uva Carmenere  			Tripantu Reserve, safra 2013, com graduação  			alcóolica 13,5% vol., em caixas com 12 garrafas de 750ml.</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>480</p>  		</td>  		<td>  			<p>40</p>  		</td>  		<td>  			<p>TRIPANTU</p>  		</td>  		<td>  			<p>Vinho  			fino tinto de mesa seco, Chileno, composto de uva Merlot Tripantu  			Reserve, safra 2013, com graduação alcóolica  			13,5% vol., em caixas com 12 garrafas de 750ml.</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>1200</p>  		</td>  		<td>  			<p>100</p>  		</td>  		<td>  			<p>TRIPANTU</p>  		</td>  		<td>  			<p>Vinho  			fino tinto de mesa seco, Chileno, composto de uva Pinot Noir  			Tripantu Reserve, safra 2013, com graduação  			alcóolica 13,5% vol., em caixas com 12 garrafas de 750ml.</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>240</p>  		</td>  		<td>  			<p>20</p>  		</td>  		<td>  			<p>TRIPANTU</p>  		</td>  		<td>  			<p>Vinho  			fino tinto de mesa seco, Chileno, composto de uva Chardonnay  			Tripantu Grand Reserve, safra 2013, com graduação  			alcóolica 12,5% vol., em caixas com 12 garrafas de 750ml.</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>840</p>  		</td>  		<td>  			<p>70</p>  		</td>  		<td>  			<p>TRIPANTU</p>  		</td>  		<td>  			<p>Vinho  			fino tinto de mesa seco, Chileno, composto de uva Cabernet  			Sauvignon Tripantu Grand Reserve, safra 2013, com graduação  			alcóolica 13,5% vol., em caixas com 12 garrafas de 750ml.</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>840</p>  		</td>  		<td>  			<p>70</p>  		</td>  		<td>  			<p>TRIPANTU</p>  		</td>  		<td>  			<p>Vinho  			fino tinto de mesa seco, Chileno, composto de uva Carmenere  			Tripantu Grand Reserve, safra 2012, com graduação  			alcóolica 14% vol., em caixas com 12 garrafas de 750ml.</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>480</p>  		</td>  		<td>  			<p>40</p>  		</td>  		<td>  			<p>TRIPANTU</p>  		</td>  		<td>  			<p>Vinho  			fino tinto de mesa seco, Chileno, composto de uva Syrah Tripantu  			Grand Reserve, safra 2012, com graduação alcóolica  			13% vol., em caixas com 12 garrafas de 750ml.</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>480</p>  		</td>  		<td>  			<p>40</p>  		</td>  		<td>  			<p>TRIPANTU</p>  		</td>  		<td>  			<p>Vinho  			fino tinto de mesa seco, Chileno, composto de uva Pinor Noir  			Tripantu Grand Reserve, safra 2011, com graduação  			alcóolica 13,5% vol., em caixas com 12 garrafas de 750ml.</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>120</p>  		</td>  		<td>  			<p>10</p>  		</td>  		<td>  			<p>TRIPANTU</p>  		</td>  		<td>  			<p>Vinho  			nobre tinto de mesa seco, Chileno, composto de uva Cabernet  			Sauvignon Tripantu Premium, safra 2012, com graduação  			alcóolica 14% vol., em caixas com 12 garrafas de 750ml.</p>  		</td>  	</tr>  </table>
+
+LUIZ AUGUSTO DE SOUZA GONÇALVES

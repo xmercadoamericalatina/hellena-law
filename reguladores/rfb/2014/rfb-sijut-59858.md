@@ -1,0 +1,30 @@
+---
+titulo: "Solução de Consulta Disit/SRRF06 nº 6065, de 26 de dezembro de 2014"
+orgao: "Divisão de Tributação da 6ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "6065"
+data: "2014-12-26"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 30/12/2014, seção 1, página 45"
+data_publicacao: "2014-12-30"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/59858/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/59858/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "59858"
+sha256_texto: "ce78cd4d81f73c8ddb0116f747fc81808c2669895c55ac4b52e396785552958c"
+baixado_em: "2026-10-20"
+---
+# Solução de Consulta Disit/SRRF06 nº 6065, de 26 de dezembro de 2014
+
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: CONTRIBUIÇÃO SUBSTITUTIVA. CONSTRUÇÃO CIVIL. BASE DE CÁLCULO. 1. A contribuição previdenciária substitutiva de que trata o art. 7º da Lei nº 12.546, de 2011, para a empresa de construção civil, cuja atividade principal acha-se inserida num dos grupos 412, 432, 433 e 439 da Classificação Nacional de Atividades Econômicas - CNAE 2.0, deve incidir sobre a receita bruta da empresa relativa a todas as suas atividades, inclusive as da área administrativa, ainda que alguma delas não esteja contemplada no regime de tributação substitutivo, com exclusão das receitas oriundas das obras de construção civil cujo recolhimento tenha incidido sobre a folha de pagamento. 2. As empresas de construção civil cuja atividade principal acha-se prevista no inciso IV do art. 7º da Lei nº 12.546, de 2011, e que são responsáveis pela matrícula da obra no CEI, ficam sujeitas à contribuição substitutiva sobre a receita bruta: a) obrigatoriamente, para as obras matriculadas entre 01/04/2013 a 31/05/2013, até o seu término, e para as matriculadas a partir de 01/11/2013, até o seu término; b) facultativamente, para as obras matriculadas entre 01/06/2013 a 31/10/2013, até o seu término. 3. As empresas do ramo de construção civil sujeitas ao regime de tributação substitutivo, nos meses em que não auferirem receita, não recolherão a contribuição previdenciária prevista na Lei nº 12.546, de 2011, nem as contribuições previdenciárias previstas nos incisos I e III do art. 22 da Lei nº 8.212, de 1991. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 16, DE 16 DE JANEIRO DE 2014. Dispositivos Legais Constituição Federal de 1988, art. 195, § 13; Lei nº 8.212, de 1991, art. 22, I e III; Lei nº 12.546, de 2011, arts. 7º e 9º; Lei nº 12.844, de 2013, arts. 13 e 14; Medida Provisória nº 540, de 2011, art. 7º; Medida Provisória nº 601, de 2012, art. 1º; Medida Provisória nº 612, de 2012, art. 25; Instrução Normativa RFB nº 971, de 2009, art. 19, II, “c” e art. 26, I e II; Instrução Normativa RFB nº 1.396, de 2013, art. 22. DISPOSITIVOS LEGAIS: Constituição Federal de 1988, art. 195, § 13; Lei nº 8.212, de 1991, art. 22, I e III; Lei nº 12.546, de 2011, arts. 7º e 9º; Lei nº 12.844, de 2013, arts. 13 e 14; Medida Provisória nº 540, de 2011, art. 7º; Medida Provisória nº 601, de 2012, art. 1º; Medida Provisória nº 612, de 2012, art. 25; Instrução Normativa RFB nº 971, de 2009, art. 19, II, “c” e art. 26, I e II; Instrução Normativa RFB nº 1.396, de 2013, art. 22.
+
+ASSUNTO: Contribuições Sociais Previdenciárias
+
+EMENTA: CONTRIBUIÇÃO SUBSTITUTIVA. CONSTRUÇÃO CIVIL. BASE DE CÁLCULO. 1. A contribuição previdenciária substitutiva de que trata o art. 7º da Lei nº 12.546, de 2011, para a empresa de construção civil, cuja atividade principal acha-se inserida num dos grupos 412, 432, 433 e 439 da Classificação Nacional de Atividades Econômicas - CNAE 2.0, deve incidir sobre a receita bruta da empresa relativa a todas as suas atividades, inclusive as da área administrativa, ainda que alguma delas não esteja contemplada no regime de tributação substitutivo, com exclusão das receitas oriundas das obras de construção civil cujo recolhimento tenha incidido sobre a folha de pagamento. 2. As empresas de construção civil cuja atividade principal acha-se prevista no inciso IV do art. 7º da Lei nº 12.546, de 2011, e que são responsáveis pela matrícula da obra no CEI, ficam sujeitas à contribuição substitutiva sobre a receita bruta: a) obrigatoriamente, para as obras matriculadas entre 01/04/2013 a 31/05/2013, até o seu término, e para as matriculadas a partir de 01/11/2013, até o seu término; b) facultativamente, para as obras matriculadas entre 01/06/2013 a 31/10/2013, até o seu término. 3. As empresas do ramo de construção civil sujeitas ao regime de tributação substitutivo, nos meses em que não auferirem receita, não recolherão a contribuição previdenciária prevista na Lei nº 12.546, de 2011, nem as contribuições previdenciárias previstas nos incisos I e III do art. 22 da Lei nº 8.212, de 1991. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 16, DE 16 DE JANEIRO DE 2014. Dispositivos Legais Constituição Federal de 1988, art. 195, § 13; Lei nº 8.212, de 1991, art. 22, I e III; Lei nº 12.546, de 2011, arts. 7º e 9º; Lei nº 12.844, de 2013, arts. 13 e 14; Medida Provisória nº 540, de 2011, art. 7º; Medida Provisória nº 601, de 2012, art. 1º; Medida Provisória nº 612, de 2012, art. 25; Instrução Normativa RFB nº 971, de 2009, art. 19, II, “c” e art. 26, I e II; Instrução Normativa RFB nº 1.396, de 2013, art. 22.
+
+DISPOSITIVOS LEGAIS: Constituição Federal de 1988, art. 195, § 13; Lei nº 8.212, de 1991, art. 22, I e III; Lei nº 12.546, de 2011, arts. 7º e 9º; Lei nº 12.844, de 2013, arts. 13 e 14; Medida Provisória nº 540, de 2011, art. 7º; Medida Provisória nº 601, de 2012, art. 1º; Medida Provisória nº 612, de 2012, art. 25; Instrução Normativa RFB nº 971, de 2009, art. 19, II, “c” e art. 26, I e II; Instrução Normativa RFB nº 1.396, de 2013, art. 22.
+
+MÁRIO HERMES SOARES CAMPOS Chefe

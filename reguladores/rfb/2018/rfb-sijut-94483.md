@@ -1,0 +1,34 @@
+---
+titulo: "Solução de Consulta Disit/SRRF05 nº 5004, de 8 de agosto de 2018"
+orgao: "Divisão de Tributação da 5ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "5004"
+data: "2018-08-08"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 29/08/2018, seção 1, página 19"
+data_publicacao: "2018-08-29"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/94483/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/94483/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "94483"
+sha256_texto: "0f94a2f9677653bc7e36ee7fa027176e004e23f0849560b1edd840a849ccf409"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF05 nº 5004, de 8 de agosto de 2018
+
+ASSUNTO: Contribuições Sociais Previdenciárias EMENTA: ACORDO INTERNACIONAL DE PREVIDÊNCIA SOCIAL. BRASIL E COREIA. DESLOCAMENTO TEMPORÁRIO. ADMINISTRADOR NÃO EMPREGADO O trabalhador, desde que regularmente empregado na Coreia, deslocado temporariamente para trabalhar no Brasil como administrador não-sócio e não-empregado, nos termos e condições do artigo 6 do Acordo de Previdência Social celebrado entre o Brasil e a Coreia, permanecerá vinculado à legislação previdenciária da Coreia, acarretando sua não filiação ao sistema previdenciário brasileiro, não se sujeitando, assim, ao desconto da contribuição previdenciária prevista no art. 21 da Lei nº 8.212, de 1991. Além disso, a empresa fica dispensada de recolher a contribuição patronal estabelecida no art. 22, III da Lei nº 8.212, de 1991, sobre a remuneração paga a este trabalhador. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 454, DE 2017 Dispositivos Legais: IN RFB nº 971, de 2009, art. 9º, XII, “c”, Acordo de Previdência Social entre a República Federativa do Brasil e a República da Coreia, promulgado pelo Decreto Legislativo nº 152, de 2015, art. 6º; Ajuste Administrativo para a Implementação do Acordo de Previdência Social entre a República Federativa do Brasil e a República da Coreia, artigos 3º.
+
+ASSUNTO: Contribuições Sociais Previdenciárias
+
+EMENTA: ACORDO INTERNACIONAL DE PREVIDÊNCIA SOCIAL. BRASIL E COREIA. DESLOCAMENTO TEMPORÁRIO. ADMINISTRADOR NÃO EMPREGADO O trabalhador, desde que regularmente empregado na Coreia, deslocado temporariamente para trabalhar no Brasil como administrador não-sócio e não-empregado, nos termos e condições do artigo 6 do Acordo de Previdência Social celebrado entre o Brasil e a Coreia, permanecerá vinculado à legislação previdenciária da Coreia, acarretando sua não filiação ao sistema previdenciário brasileiro, não se sujeitando, assim, ao desconto da contribuição previdenciária prevista no art. 21 da Lei nº 8.212, de 1991. Além disso, a empresa fica dispensada de recolher a contribuição patronal estabelecida no art. 22, III da Lei nº 8.212, de 1991, sobre a remuneração paga a este trabalhador.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 454, DE 2017
+
+Dispositivos Legais: IN RFB nº 971, de 2009, art. 9º, XII, “c”, Acordo de Previdência Social entre a República Federativa do Brasil e a República da Coreia, promulgado pelo Decreto Legislativo nº 152, de 2015, art. 6º; Ajuste Administrativo para a Implementação do Acordo de Previdência Social entre a República Federativa do Brasil e a República da Coreia, artigos 3º.
+
+MILENA REBOUÇAS NERY MONTALVÃO  
+Auditora-Fiscal da RFB  
+Chefe da Disit 05

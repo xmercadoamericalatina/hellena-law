@@ -1,0 +1,172 @@
+---
+titulo: "Ato Declaratório Executivo Derat/SPO nº 324, de 5 de novembro de 2014"
+orgao: "Delegacia Especial da Receita Federal do Brasil de Administração Tributária em São Paulo"
+tipo: "Ato Declaratório Executivo"
+numero: "324"
+data: "2014-11-05"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 07/11/2014, seção 1, página 30"
+data_publicacao: "2014-11-07"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/57996/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/57996/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "57996"
+sha256_texto: "eccdf283c016228e7fc6dab50f3edf153f644047e9348426ed95b80f36a081ae"
+baixado_em: "2026-10-20"
+---
+# Ato Declaratório Executivo Derat/SPO nº 324, de 5 de novembro de 2014
+
+Declara a baixa por inexistência de fato dos contribuintes perante o Cadastro Nacional de Pessoa Jurídica.
+
+A DELEGADA DA DELEGACIA ESPECIAL DA RECEITA FEDERAL DO BRASIL DE ADMINISTRAÇÃO TRIBUTÁRIA EM SÃO PAULO no uso das atribuições que lhe foram conferidas pelo parágrafo 2º do artigo 29 da Instrução Normativa RFB nº 1.470 de 30/05/2014, resolve:
+
+Declarar BAIXADAS de ofício as inscrições abaixo, no Cadastro Nacional de Pessoa Jurídica (CNPJ), por inexistência de fato, nos termos do inciso II do artigo 27 da Instrução Normativa RFB nº 1.470 de 30/05/2014.
+
+A declaração de baixa baseia-se na ausência de regularização cadastral e pelo não atendimento do edital de intimação publicado no DOU, nos termos do § 2º do art. 29 da IN supracitada.
+
+PROCESSO: 19515.000738/2004-37
+
+DAOUD MOVEIS LTDA
+
+CNPJ Nº: 65.779.035/0001-16
+
+PROCESSO: 10880.005502/2006-16
+
+PATRICIA DO CARMO WHITACKER VALSANI - ME
+
+CNPJ Nº: 05.919.435/0001-58
+
+PROCESSO: 10314.012187/2006-16
+
+SISBRASI ELETRONICA LTDA
+
+CNPJ Nº: 06.225.004/0001-54
+
+PROCESSO: 10880.007524/2006-11
+
+MICRO NORTE INFORMATICA LTDA
+
+CNPJ Nº: 73.040.511/0001-00
+
+PROCESSO: 10218.000569/2006-87
+
+VECTOR VENDAS TECNICAS LTDA
+
+CNPJ Nº: 65.211.138/0001-85
+
+PROCESSO: 19615.000095/2007-46
+
+ARMANDO CORDEIRO - INFORMATICA
+
+CNPJ Nº: 05.997.042/0001-62
+
+PROCESSO: 10880.002020/2007-95
+
+WEST SIDE COMERCIAL DE INFORMATICA LTDA – ME
+
+CNPJ Nº: 05.882.380/0001-59
+
+PROCESSO: 10314.005134/2007-11
+
+RICARDO DUPAS MORAES - INFORMATICA - ME
+
+CNPJ Nº: 04.595.295/0001-47
+
+PROCESSO: 13896.002558/2007-19
+
+CIRCULAR O DESEJO FILMES LTDA - EPP
+
+CNPJ Nº: 54.958.665/0001-31
+
+PROCESSO: 13896.002561/2007-32
+
+DOIS ERRE FILMES LTDA - EPP
+
+CNPJ Nº: 02.555.807/0001-16
+
+PROCESSO: 13896.002556/2007-20
+
+MH&H PRODUCOES CINEMATOGRAFICAS LTDA - ME
+
+CNPJ Nº: 74.588.138/0001-90
+
+PROCESSO: 14311.000236/2008-11
+
+ALUISIO CLAUDIO RODRIGUES
+
+CNPJ Nº: 02.652.052/0001-78
+
+PROCESSO: 19615.000825/2008-90
+
+PENSCAN DO BRASIL COMERCIO E SERVICOS DE INFORMATICA LTDA – ME CNPJ Nº: 05.307.858/0001-17
+
+PROCESSO: 10725.002881/2008-47
+
+GALANTE INCORPORACOES – EMPREENDIMENTOS LTDA CNPJ Nº: 05.662.266/0001-13
+
+PROCESSO: 14311.000309/2008-66
+
+SERRA DO OURO COMERCIAL LTDA
+
+CNPJ Nº: 02.884.306/0001-83
+
+PROCESSO: 10314.001456/2009-53
+
+GOLDEN BLUE IMPORTACAO E COMERCIO LTDA
+
+CNPJ Nº: 01.106.191/0001-33
+
+PROCESSO: 19615.000339/2009-52
+
+PAULO CESAR FREIRE DOS SANTOS - ME
+
+CNPJ Nº: 08.352.760/0001-70
+
+PROCESSO: 19482.000085/2009-25
+
+SO HD COMERCIO E SERVICOS DE INFORMATICA LTDA-ME
+
+CNPJ Nº: 07.031.563/0001-96
+
+PROCESSO: 16643.000074/2009-67
+
+IMPEX COMERCIO EXTERIOR LTDA - ME
+
+CNPJ Nº: 08.532.691/0001-86
+
+PROCESSO: 19615.720386/2013-01
+
+ST COMERCIO DE EQUIPAMENTOS ELETRONICOS LTDA-ME
+
+CNPJ Nº: 01.182.345/0001-76
+
+PROCESSO: 16095.720050/2014-49
+
+ROGERIO IERVOLINO
+
+CNPJ Nº: 13.970.152/0001-69
+
+PROCESSO: 10803.720054/2014-15
+
+NEWGROUP COMERCIAL LTDA
+
+CNPJ Nº: 13.558.430/0001-75
+
+PROCESSO: 10803.720055/2014-51
+
+ELLO COMERCIO DE PAPEIS LTDA - EPP
+
+CNPJ Nº: 16.785.820/0001-76
+
+PROCESSO: 10803.720061/2014-17
+
+MMJ INTERMEDIACOES E NEGOCIOS LTDA - EPP
+
+CNPJ Nº: 13.506.750/0001-81
+
+Data de efeito a partir da publicação deste.
+
+REGINA COELI ALVES DE MELLO

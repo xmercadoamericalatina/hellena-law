@@ -1,0 +1,37 @@
+---
+titulo: "Solução de Consulta Disit/SRRF07 nº 7022, de 5 de setembro de 2018"
+orgao: "Divisão de Tributação da 7ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "7022"
+data: "2018-09-05"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 01/11/2018, seção 1, página 29"
+data_publicacao: "2018-11-01"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/96233/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/96233/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "96233"
+sha256_texto: "4fd8d794f0eb75108a4e20d0eecb1c88e6d6998f5dc78c032ac6f0209e2246a7"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF07 nº 7022, de 5 de setembro de 2018
+
+ASSUNTO: Simples Nacional EMENTA: ORGANIZADORA DE EVENTOS. SUBCONTRATAÇÃO DE SERVIÇOS. RECEITA BRUTA. A empresa organizadora de eventos pode atuar, dentre outras, das seguintes formas: 1) intermediando o negócio, sem contratar nada, nem ninguém em seu nome, e, dessa forma, sua receita corresponde à comissão pela intermediação; 2) organizando e produzindo o evento em seu nome e por sua conta, e, nesse caso, a receita bruta será o valor cobrado pela totalidade do serviço, mesmo que parte desse valor seja utilizada para pagar fornecedores e prestadores de serviço subcontratados; ou 3) prestando serviços para a organizadora de eventos como subcontratada e, nesta hipótese, sua receita corresponde à remuneração prevista no contrato celebrado com aquela contratante. SOLUÇÃO DE CONSULTA VINCULADA ÀS SOLUÇÕES DE CONSULTA COSIT N.º 251, de 23 DE MAIO DE 2017, N.º 263, de 26 DE SETEMBRO de 2014, e N.º 304, de 24 DE OUTUBRO de 2014. DISPOSITIVOS LEGAIS: Lei n.º 11.771, de 2008, arts. 21, 22, 30, §§ 1.º e 2.º; LC n.º 123, de 2006, arts. 1.º a 3.º, § 1.º; 17, §§ 1.º e 2.º; 18, §§ 3.º e 5.º-F; § 5.º I, VII, e 5.º J; DL n.º1.598, de 1977, art. 12. ASSUNTO: Processo Administrativo Fiscal EMENTA: CONSULTA TRIBUTÁRIA. INEFICÁCIA PARCIAL. Declara-se a ineficácia parcial da consulta quando o objeto da dúvida de certas indagações acha-se expressamente disciplinado em atos normativos publicados na imprensa oficial antes da formalização da consulta, ou está definido ou declarado em disposição literal de lei e/ou objetiva a prestação de assessoria jurídica ou contábil-fiscal pela Secretaria da Receita Federal do Brasil. DISPOSITIVOS LEGAIS: IN RFB nº 1.396, de 2013, art. 18, incisos VII, IX e XIV.
+
+ASSUNTO: Simples Nacional
+
+EMENTA: ORGANIZADORA DE EVENTOS. SUBCONTRATAÇÃO DE SERVIÇOS. RECEITA BRUTA. A empresa organizadora de eventos pode atuar, dentre outras, das seguintes formas: 1) intermediando o negócio, sem contratar nada, nem ninguém em seu nome, e, dessa forma, sua receita corresponde à comissão pela intermediação; 2) organizando e produzindo o evento em seu nome e por sua conta, e, nesse caso, a receita bruta será o valor cobrado pela totalidade do serviço, mesmo que parte desse valor seja utilizada para pagar fornecedores e prestadores de serviço subcontratados; ou 3) prestando serviços para a organizadora de eventos como subcontratada e, nesta hipótese, sua receita corresponde à remuneração prevista no contrato celebrado com aquela contratante. SOLUÇÃO DE CONSULTA VINCULADA ÀS SOLUÇÕES DE CONSULTA COSIT N.º 251, de 23 DE MAIO DE 2017, N.º 263, de 26 DE SETEMBRO de 2014, e N.º 304, de 24 DE OUTUBRO de 2014.
+
+DISPOSITIVOS LEGAIS: Lei n.º 11.771, de 2008, arts. 21, 22, 30, §§ 1.º e 2.º; LC n.º 123, de 2006, arts. 1.º a 3.º, § 1.º; 17, §§ 1.º e 2.º; 18, §§ 3.º e 5.º-F; § 5.º I, VII, e 5.º J; DL n.º1.598, de 1977, art. 12.
+
+ASSUNTO: Processo Administrativo Fiscal
+
+EMENTA: CONSULTA TRIBUTÁRIA. INEFICÁCIA PARCIAL. Declara-se a ineficácia parcial da consulta quando o objeto da dúvida de certas indagações acha-se expressamente disciplinado em atos normativos publicados na imprensa oficial antes da formalização da consulta, ou está definido ou declarado em disposição literal de lei e/ou objetiva a prestação de assessoria jurídica ou contábil-fiscal pela Secretaria da Receita Federal do Brasil.
+
+DISPOSITIVOS LEGAIS: IN RFB nº 1.396, de 2013, art. 18, incisos VII, IX e XIV.
+
+JOSÉ CARLOS SABINO ALVES  
+Chefe

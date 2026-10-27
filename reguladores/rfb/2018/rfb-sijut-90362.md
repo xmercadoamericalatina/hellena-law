@@ -1,0 +1,32 @@
+---
+titulo: "Solução de Consulta Disit/SRRF04 nº 4007, de 23 de fevereiro de 2018"
+orgao: "Divisão de Tributação da 4ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "4007"
+data: "2018-02-23"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 26/02/2018, seção 1, página 61"
+data_publicacao: "2018-02-26"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/90362/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/90362/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "90362"
+sha256_texto: "9b97f9690dc95a16cf89eda74dd015dcaf5f23d04606f02316b2adfdee50886d"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF04 nº 4007, de 23 de fevereiro de 2018
+
+Assunto: Contribuições Sociais Previdenciárias CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. FUNDAÇÃO. INAPLICABILIDADE. As fundações, entidades sem fins lucrativos, não se enquadram no conceito de empresa previsto no inciso VII do art. 9º da Lei nº 12.546, de 2011, com redação dada pela Lei nº 12.844, de 2013, não se lhes aplicando, portanto, o disposto no art. 8º, § 3º, XVI, da Lei nº 12.546, de 2011, que prevê a incidência de contribuição substitutiva sobre a receita bruta para as empresas jornalísticas e de radiodifusão sonora e de sons e imagens de que trata a Lei nº 10.610, de 20 de dezembro de 2002, enquadradas nas classes 6010-1 e 6021-7 da CNAE. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 125, DE 9 DE FEVEREIRO DE 2017. Dispositivos Legais: Lei nº 12.546, de 2011, arts. 8º, § 3, XVI, e 9º, VII; Lei nº 12.844, de 2013, art. 49, IV, “b”; Ato Declaratório Interpretativo RFB nº 11, de 2015.
+
+Assunto: Contribuições Sociais Previdenciárias
+
+CONTRIBUIÇÃO PREVIDENCIÁRIA SOBRE A RECEITA BRUTA. FUNDAÇÃO. INAPLICABILIDADE. As fundações, entidades sem fins lucrativos, não se enquadram no conceito de empresa previsto no inciso VII do art. 9º da Lei nº 12.546, de 2011, com redação dada pela Lei nº 12.844, de 2013, não se lhes aplicando, portanto, o disposto no art. 8º, § 3º, XVI, da Lei nº 12.546, de 2011, que prevê a incidência de contribuição substitutiva sobre a receita bruta para as empresas jornalísticas e de radiodifusão sonora e de sons e imagens de que trata a Lei nº 10.610, de 20 de dezembro de 2002, enquadradas nas classes 6010-1 e 6021-7 da CNAE.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 125, DE 9 DE FEVEREIRO DE 2017.
+
+Dispositivos Legais: Lei nº 12.546, de 2011, arts. 8º, § 3, XVI, e 9º, VII; Lei nº 12.844, de 2013, art. 49, IV, “b”; Ato Declaratório Interpretativo RFB nº 11, de 2015.
+
+FLÁVIO OSÓRIO DE BARROS Chefe

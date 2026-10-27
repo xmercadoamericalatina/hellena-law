@@ -1,0 +1,31 @@
+---
+titulo: "Solução de Consulta Disit/SRRF02 nº 2006, de 2 de maio de 2016"
+orgao: "Divisão de Tributação da 2ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "2006"
+data: "2016-05-02"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 06/05/2016, seção 1, página 69"
+data_publicacao: "2016-05-06"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/73539/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/73539/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "73539"
+sha256_texto: "0737903df65d2cdc50ee39a3cefcef649f39700ec2da78fd28f47e07290d9627"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF02 nº 2006, de 2 de maio de 2016
+
+ASSUNTO: Imposto sobre a Renda de Pessoa Física – IRPF EMENTA: MORTE. PESSOA FÍSICA. AÇÃO JUDICIAL. INCIDÊNCIA. DANO MATERIAL. LUCROS CESSANTES. Quantia paga periodicamente, caracteriza-se como pensão civil por ato ilícito, também denominada "lucros cessantes". Tem por finalidade substituir os rendimentos que a vítima deixou de perceber em razão de sua morte. Tais valores devem ser oferecidos à tributação, no mês do seu recebimento e na declaração. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 81, DE 24 DE MARÇO DE 2015 IMPOSTO SOBRE A RENDA RETIDO NA FONTE Cabe a retenção de imposto de renda retido na fonte por meio de DIRF sobre rendimentos sobre os quais haja incidido o tributo. DISPOSITIVOS LEGAIS: Código Tributário Nacional, arts. 43 e 111; Lei nº 7.713, de 1988; art. 3º, § 4º; Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto sobre a Renda (RIR/1999), arts. 39, inc. XVI, 639 e 680; IN RFB nº 1.503, de 2014, art. 2º; IN RFB nº 1.396, de 2013, art. 22; Solução de Consulta Cosit nº 81, 24 de março de 2015.
+
+ASSUNTO: Imposto sobre a Renda de Pessoa Física - IRPF
+
+EMENTA: MORTE. PESSOA FÍSICA. AÇÃO JUDICIAL. INCIDÊNCIA. DANO MATERIAL. LUCROS CESSANTES. Quantia paga periodicamente, caracteriza-se como pensão civil por ato ilícito, também denominada "lucros cessantes". Tem por finalidade substituir os rendimentos que a vítima deixou de perceber em razão de sua morte. Tais valores devem ser oferecidos à tributação, no mês do seu recebimento e na declaração. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 81, DE 24 DE MARÇO DE 2015 IMPOSTO SOBRE A RENDA RETIDO NA FONTE Cabe a retenção de imposto de renda retido na fonte por meio de DIRF sobre rendimentos sobre os quais haja incidido o tributo.
+
+DISPOSITIVOS LEGAIS: Código Tributário Nacional, arts. 43 e 111; Lei nº 7.713, de 1988; art. 3º, § 4º; Decreto nº 3.000, de 26 de março de 1999 - Regulamento do Imposto sobre a Renda (RIR/1999), arts. 39, inc. XVI, 639 e 680; IN RFB nº 1.503, de 2014, art. 2º; IN RFB nº 1.396, de 2013, art. 22; Solução de Consulta Cosit nº 81, 24 de março de 2015.
+
+ALDENIR BRAGA CHRISTO  
+Chefe

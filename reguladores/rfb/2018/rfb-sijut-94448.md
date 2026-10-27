@@ -1,0 +1,41 @@
+---
+titulo: "Solução de Consulta Disit/SRRF07 nº 7014, de 16 de julho de 2018"
+orgao: "Divisão de Tributação da 7ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "7014"
+data: "2018-07-16"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 28/08/2018, seção 1, página 26"
+data_publicacao: "2018-08-28"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/94448/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/94448/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "94448"
+sha256_texto: "01c0351824dfa0f394043f5ef62bfd95cd50ac27ff0baa973da147ec43a084ec"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF07 nº 7014, de 16 de julho de 2018
+
+ASSUNTO: Simples Nacional EMENTA: PRÓTESES MÉDICO-HOSPITALARES. VENDA EM CONSIGNAÇÃO EM NOME PRÓPRIO. TRIBUTAÇÃO. O resultado da atividade de venda de próteses médico-hospitalares efetuada em consignação, em nome próprio, pode ser tributado na forma do regime de apuração do Simples Nacional. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 273, DE 26 DE SETEMBRO DE 2014. DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 2006, art. 17 caput e§ 2º; art. 18, caput e parágrafo 5º - F. EMENTA: PRÓTESES MÉDICO-HOSPITALARES. VENDA EM CONSIGNAÇÃO EM NOME PRÓPRIO. CONTRATO DE COMISSÃO. TRIBUTAÇÃO. A venda de próteses médico-hospitalares em consignação, mediante contrato de comissão (arts. 693 a 709 do CC), é feita em nome próprio, não caracterizando intermediação de negócios. A receita bruta decorrente do exercício dessa atividade é a comissão e deve ser tributada pelo Anexo III da Lei Complementar n° 123, de 2006. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 166, DE 25 DE JUNHO DE 2014. A venda de próteses médico-hospitalares em consignação, mediante contrato estimatório ou “consignação mercantil” (arts. 534 a 537 do CC), feita em nome próprio, não se caracteriza como intermediação de negócios. A receita bruta decorrente do exercício dessa atividade (venda em consignação) é o produto da venda a terceiros dos bens recebidos em consignação, excluídas apenas as vendas canceladas e os descontos incondicionais concedidos e deve ser tributada pelo Anexo I da Lei Complementar n° 123, de 2006. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 166, DE 25 DE JUNHO DE 2014. DISPOSITIVOS LEGAIS: Lei Complementar n° 123, de 2006, arts. 3º, § 1º, 17, XI e §§ 2º e 5°-F, 18, § 3º; Lei n° 9.716, de 1998, art. 5º; Lei n° 10.406, de 2002 (Código Civil), arts. 534 a 537 e 693 a 709. ASSUNTO: Processo Administrativo Fiscal EMENTA: CONSULTA TRIBUTÁRIA. INEFICÁCIA PARCIAL. Declara-se a ineficácia de parte da consulta, quando não descrever, completa e exatamente, a hipótese a que se referir ou não contiver os elementos necessários à sua solução, bem como quando tiver por objetivo a prestação de assessoria jurídica ou contábil-fiscal pela RFB. DISPOSITIVOS LEGAIS: Dispositivos Legais: Decreto n.º 70.235, de 1972, art. 52, inciso VIII; IN RFB n.º 1.396, de 2013, art. 18, incisos II, XI e XIV; Decreto n.º 7.574, de 2011, art. 94, inciso VIII.
+
+ASSUNTO: Simples Nacional
+
+EMENTA: PRÓTESES MÉDICO-HOSPITALARES. VENDA EM CONSIGNAÇÃO EM NOME PRÓPRIO. TRIBUTAÇÃO. O resultado da atividade de venda de próteses médico-hospitalares efetuada em consignação, em nome próprio, pode ser tributado na forma do regime de apuração do Simples Nacional. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 273, DE 26 DE SETEMBRO DE 2014.
+
+DISPOSITIVOS LEGAIS: Lei Complementar nº 123, de 2006, art. 17 caput e§ 2º; art. 18, caput e parágrafo 5º - F.
+
+EMENTA: PRÓTESES MÉDICO-HOSPITALARES. VENDA EM CONSIGNAÇÃO EM NOME PRÓPRIO. CONTRATO DE COMISSÃO. TRIBUTAÇÃO. A venda de próteses médico-hospitalares em consignação, mediante contrato de comissão (arts. 693 a 709 do CC), é feita em nome próprio, não caracterizando intermediação de negócios. A receita bruta decorrente do exercício dessa atividade é a comissão e deve ser tributada pelo Anexo III da Lei Complementar n° 123, de 2006. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 166, DE 25 DE JUNHO DE 2014. A venda de próteses médico-hospitalares em consignação, mediante contrato estimatório ou “consignação mercantil” (arts. 534 a 537 do CC), feita em nome próprio, não se caracteriza como intermediação de negócios. A receita bruta decorrente do exercício dessa atividade (venda em consignação) é o produto da venda a terceiros dos bens recebidos em consignação, excluídas apenas as vendas canceladas e os descontos incondicionais concedidos e deve ser tributada pelo Anexo I da Lei Complementar n° 123, de 2006. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 166, DE 25 DE JUNHO DE 2014.
+
+DISPOSITIVOS LEGAIS: Lei Complementar n° 123, de 2006, arts. 3º, § 1º, 17, XI e §§ 2º e 5°-F, 18, § 3º; Lei n° 9.716, de 1998, art. 5º; Lei n° 10.406, de 2002 (Código Civil), arts. 534 a 537 e 693 a 709.
+
+ASSUNTO: Processo Administrativo Fiscal
+
+EMENTA: CONSULTA TRIBUTÁRIA. INEFICÁCIA PARCIAL. Declara-se a ineficácia de parte da consulta, quando não descrever, completa e exatamente, a hipótese a que se referir ou não contiver os elementos necessários à sua solução, bem como quando tiver por objetivo a prestação de assessoria jurídica ou contábil-fiscal pela RFB.
+
+DISPOSITIVOS LEGAIS: Dispositivos Legais: Decreto n.º 70.235, de 1972, art. 52, inciso VIII; IN RFB n.º 1.396, de 2013, art. 18, incisos II, XI e XIV; Decreto n.º 7.574, de 2011, art. 94, inciso VIII.
+
+JOSÉ CARLOS SABINO ALVES  
+Chefe da Disit/SRRF07

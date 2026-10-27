@@ -1,0 +1,46 @@
+---
+titulo: "Ato Declaratório Executivo DRF/RJ1 nº 466, de 15 de dezembro de 2014"
+orgao: "Delegacia da Receita Federal do Brasil no Rio de Janeiro I"
+tipo: "Ato Declaratório Executivo"
+numero: "466"
+data: "2014-12-15"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 17/12/2014, seção 1, página 26"
+data_publicacao: "2014-12-17"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/59440/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/59440/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "59440"
+sha256_texto: "ebd4fc3195fb24e2ea17bdd34c61db999f732e85cfe9a6e57eca715d12749d50"
+baixado_em: "2026-10-20"
+---
+# Ato Declaratório Executivo DRF/RJ1 nº 466, de 15 de dezembro de 2014
+
+Concede, à pessoa jurídica que menciona, habilitação ao gozo dos Benefícios Fiscais referentes à realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016, de que trata a Instrução Normativa RFB nº 1.335/2013.
+
+A DELEGADA DA RECEITA FEDERAL DO BRASIL NO RIO DE JANEIRO I, no exercício das atribuições regimentais, definidas pelo artigo 302, inciso VI, do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF n° 203, de 14 de maio de 2012, publicada no D.O.U. de 17 de maio de 2012, tendo em vista o disposto no artigo 9º, caput da Instrução Normativa nº 1.335, de 26 de fevereiro de 2013, publicada no D.O.U. de 27 de fevereiro de 2013, com suas alterações posteriores, resolve:
+
+**Art. 1º** - Habilitar a empresa abaixo identificada ao gozo dos Benefícios Fiscais referentes à realização, no Brasil dos Jogos Olímpicos de 2016 e Jogos Paraolímpicos de 2016, instituídos pela Lei nº 12.780, de 09 de janeiro de 2013, publicada no D.O.U. de 10 de janeiro de 2013, consoante o disposto na Instrução Normativa nº 1.335/2013, com suas alterações:
+
+PROCESSO(DOSSIÊ): 10010.011403/1014-79
+
+NOME EMPRESARIAL: BHG SUDESTE EMPREENDIMENTO HOTELEIRO LTDA.
+
+CNPJ Nº 04.364.546/0001-82
+
+DATA INÍCIO VIGÊNCIA: 27/11/2014
+
+ENQUADRAMENTO: Inciso XV do art. 2º e arts. 12 ao 14 da Lei nº 12.780/2013
+
+**Art. 2º** - O aludido benefício será aplicado à matriz e a todos os seus estabelecimentos.
+
+**Art. 3º** - A fruição do presente benefício aplica-se aos fatos geradores que ocorrerem no período entre a data de início da vigência, indicada acima e 31 de dezembro de 2017.
+
+**Art. 4º** - A presente habilitação poderá ser cancelada “ex officio” pela Autoridade Fiscal em caso de inobservância, por parte da habilitada, de quaisquer dos requisitos que condicionaram a concessão do benefício.
+
+**Art. 5º** - Este Ato Declaratório Executivo produzirá efeitos a partir da data de sua publicação no D.O.U.
+
+MÔNICA PAES BARRETO

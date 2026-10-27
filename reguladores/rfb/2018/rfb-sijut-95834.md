@@ -1,0 +1,46 @@
+---
+titulo: "Ato Declaratório Executivo DRF/SJR nº 258, de 11 de outubro de 2018"
+orgao: "Delegacia da Receita Federal do Brasil em São José do Rio Preto"
+tipo: "Ato Declaratório Executivo"
+numero: "258"
+data: "2018-10-11"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 18/10/2018, seção 1, página 28"
+data_publicacao: "2018-10-18"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/95834/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/95834/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "95834"
+sha256_texto: "d5b4093ad03766fa7c9875358c49d9e4aab230a33ada1bbec3da26d88afb9bb4"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo DRF/SJR nº 258, de 11 de outubro de 2018
+
+declara cancelada inscrição no registro especial instituído pelo Decreto-lei nº 1.593/77, e nos termos dos artigos 1º e 2º da Lei nº 11.945/2009 - empresas jornalísticas ou editoras e gráficas que realizem operações com papel destinado à impressão de livros, jornais e periódicos.
+
+O AUDITOR FISCAL DA RECEITA FEDERAL DO BRASIL lotado na DRF em SÃO JOSÉ DO RIO PRETO - SP, no uso da competência estabelecida por intermédio da Instrução Normativa (IN) RFB nº 1.817, de 20 de julho de 2018, publicada no Diário Oficial da União em 24 de julho de 2018, declara:
+
+**Art. 1º** - CANCELADO o Registro Especial instituído pelo Decreto-lei nº 1.593, de 21 de dezembro de 1977, e nos termos dos artigos 1º e 2º da Lei nº 11.945/2009, com a regulamentação dada pela IN-RFB nº 1.817/2018, do estabelecimento abaixo discriminado:
+
+Nome Empresarial: EDITORA DELARCO LTDA.
+
+Endereço: Rua Siqueira Campos, nº 4022 - Bairro: Vila Santa Cruz
+
+Cidade : SÃO JOSÉ DO RIO PRETO - SP
+
+C.N.P.J. Nº: 10.322.985/0001-25
+
+Processo Administrativo nº: 10850.721744/2018-41
+
+Registro Especial CANCELADO nº: UP/08107/00163
+
+Atividade: USUÁRIO - IN-RFB nº 1.817/2018, art. 8º, inciso II.
+
+**Art. 2º** - A exigência da regularização da ocorrência por Omissão na entrega da declaração Especial de Informações Relativas ao Controle de Papel Imune - DIF - Papel Imune, está prevista nos parágrafos 1º ao 3º do artigo 11 da IN-RFB nº 1.817/2018, de 20.07.2018, publicada no DOU de 24/07/2018.
+
+**Art. 3º** - Este Ato declaratório entra em vigor na data de sua publicação.
+
+LUIZ CARLOS DA SILVA

@@ -1,0 +1,54 @@
+---
+titulo: "Solução de Consulta Cosit nº 99122, de 28 de setembro de 2017"
+orgao: "Coordenação-Geral de Tributação"
+tipo: "Solução de Consulta"
+numero: "99122"
+data: "2017-09-28"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 03/10/2017, seção 1, página 25"
+data_publicacao: "2017-10-03"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/86769/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/86769/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "86769"
+sha256_texto: "07a68d0249a1c8cbe0ce5accd66e9134394a3b85fb9bc6c3e26cb894cf056cb1"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Cosit nº 99122, de 28 de setembro de 2017
+
+ASSUNTO: OBRIGAÇÕES ACESSÓRIAS EMENTA: SISCOSERV. OPERAÇÃO COM MERCADORIAS. SERVIÇOS CONEXOS. Nas operações de comércio exterior de bens e mercadorias, os serviços conexos (p.ex.: transporte, seguro e de agentes externos) podem ser objeto de registro no Sistema Integrado de Comércio Exterior de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (Siscoserv), pois não são incorporados aos bens e mercadorias. Nessas operações, a definição dos serviços que devem ser registrados depende do estabelecimento de relações jurídicas de prestação de serviços conexas à importação/exportação envolvendo domiciliados e não domiciliados no Brasil. Desta forma, a responsabilidade pelo registro no Siscoserv não decorre das responsabilidades mutuamente assumidas no bojo do contrato de compra e venda, e que dizem respeito apenas a importador e exportador, mas do fato de o jurisdicionado domiciliado no Brasil figurar em um dos polos da relação jurídica de prestação de serviço desde que, no outro polo, figure um domiciliado no estrangeiro, ainda que referida relação jurídica tenha se estabelecido por intermédio de terceiros. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA Nº 222 - COSIT, DE 27 DE OUTUBRO DE 2015. SISCOSERV. SERVIÇO DE TRANSPORTE DE CARGA. Prestador de serviço de transporte de carga é alguém que se obriga com quem quer enviar coisas (tomador do serviço) a transportá-las de um lugar para outro, entregando-as a quem foi indicado para recebê-las. A obrigação se evidencia pela emissão do conhecimento de carga. O obrigado a transportar que não é operador de veículo deverá subcontratar alguém que efetivamente faça o transporte. Logo, simultaneamente, será prestador e tomador de serviço de transporte. Quem age em nome do tomador ou do prestador de serviço de transporte não é, ele mesmo, prestador ou tomador de tal serviço. Mas é prestador ou tomador de serviços auxiliares conexos (que facilitam a cada interveniente cumprir suas obrigações relativas ao contrato de transporte) quando o faz em seu próprio nome. Se tomador e prestador forem ambos residentes ou domiciliados no Brasil, não surge a obrigação de prestação de informações no Siscoserv. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA Nº 257 - COSIT, DE 26 DE SETEMBRO DE 2014. SISCOSERV. EMPRÉSTIMO. FINANCIAMENTO. REGISTRO. Nas operações de empréstimos e financiamentos (serviços de concessão de crédito) realizadas entre residentes ou domiciliados no Brasil e residentes ou domiciliados no exterior, o valor da operação a constar no Siscoserv constitui-se de todos os custos necessários para a efetiva prestação do serviço, não se registrando o valor do principal e dos juros. Nessas operações, considera-se como data de início da prestação do serviço a primeira data em que, por qualquer meio, ficar caracterizada a concessão do empréstimo ou financiamento; SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA Nº 414 - COSIT, DE 12 DE SETEMBRO DE 2017. DISPOSITIVOS LEGAIS: §1º do art. 37 do Decreto-Lei nº 37, de 1966; arts. 730 e 744 do Código Civil; art. 25 da Lei nº 12.546, de 2011; Manuais do Siscoserv, instituídos pela Portaria Conjunta RFB/SCS nº 1.895, de 2013, e nº 768, de 2016; arts. 2º, II, e 3º da Instrução Normativa RFB 800, de 2007; e art. 1º § 9º da Instrução Normativa RFB nº RFB nº 1.277, de 28 de junho de 2012.
+
+ASSUNTO: OBRIGAÇÕES ACESSÓRIAS
+
+EMENTA: SISCOSERV. OPERAÇÃO COM MERCADORIAS. SERVIÇOS CONEXOS.
+
+Nas operações de comércio exterior de bens e mercadorias, os serviços conexos (p.ex.: transporte, seguro e de agentes externos) podem ser objeto de registro no Sistema Integrado de Comércio Exterior de Serviços, Intangíveis e Outras Operações que Produzam Variações no Patrimônio (Siscoserv), pois não são incorporados aos bens e mercadorias. Nessas operações, a definição dos serviços que devem ser registrados depende do estabelecimento de relações jurídicas de prestação de serviços conexas à importação/exportação envolvendo domiciliados e não domiciliados no Brasil.
+
+Desta forma, a responsabilidade pelo registro no Siscoserv não decorre das responsabilidades mutuamente assumidas no bojo do contrato de compra e venda, e que dizem respeito apenas a importador e exportador, mas do fato de o jurisdicionado domiciliado no Brasil figurar em um dos polos da relação jurídica de prestação de serviço desde que, no outro polo, figure um domiciliado no estrangeiro, ainda que referida relação jurídica tenha se estabelecido por intermédio de terceiros.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA Nº 222 - COSIT, DE 27 DE OUTUBRO DE 2015.
+
+SISCOSERV. SERVIÇO DE TRANSPORTE DE CARGA.
+
+Prestador de serviço de transporte de carga é alguém que se obriga com quem quer enviar coisas (tomador do serviço) a transportá-las de um lugar para outro, entregando-as a quem foi indicado para recebê-las. A obrigação se evidencia pela emissão do conhecimento de carga.
+
+O obrigado a transportar que não é operador de veículo deverá subcontratar alguém que efetivamente faça o transporte. Logo, simultaneamente, será prestador e tomador de serviço de transporte.
+
+Quem age em nome do tomador ou do prestador de serviço de transporte não é, ele mesmo, prestador ou tomador de tal serviço. Mas é prestador ou tomador de serviços auxiliares conexos (que facilitam a cada interveniente cumprir suas obrigações relativas ao contrato de transporte) quando o faz em seu próprio nome.
+
+Se tomador e prestador forem ambos residentes ou domiciliados no Brasil, não surge a obrigação de prestação de informações no Siscoserv.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA Nº 257 - COSIT, DE 26 DE SETEMBRO DE 2014.
+
+SISCOSERV. EMPRÉSTIMO. FINANCIAMENTO. REGISTRO.
+
+Nas operações de empréstimos e financiamentos (serviços de concessão de crédito) realizadas entre residentes ou domiciliados no Brasil e residentes ou domiciliados no exterior, o valor da operação a constar no Siscoserv constitui-se de todos os custos necessários para a efetiva prestação do serviço, não se registrando o valor do principal e dos juros. Nessas operações, considera-se como data de início da prestação do serviço a primeira data em que, por qualquer meio, ficar caracterizada a concessão do empréstimo ou financiamento;
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA Nº 414 - COSIT, DE 12 DE SETEMBRO DE 2017.
+
+DISPOSITIVOS LEGAIS: §1º do art. 37 do Decreto-Lei nº 37, de 1966; arts. 730 e 744 do Código Civil; art. 25 da Lei nº 12.546, de 2011; Manuais do Siscoserv, instituídos pela Portaria Conjunta RFB/SCS nº 1.895, de 2013, e nº 768, de 2016; arts. 2º, II, e 3º da Instrução Normativa RFB 800, de 2007; e art. 1º § 9º da Instrução Normativa RFB nº RFB nº 1.277, de 28 de junho de 2012.
+
+CLAUDIA LUCIA PIMENTEL MARTINS DA SILVA Coordenadora

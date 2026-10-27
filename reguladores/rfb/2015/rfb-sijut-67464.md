@@ -1,0 +1,36 @@
+---
+titulo: "Ato Declaratório Executivo Delex/SPO nº 4, de 31 de agosto de 2015"
+orgao: "Delegacia Especial da Receita Federal do Brasil de Fiscalização de Comércio Exterior"
+tipo: "Ato Declaratório Executivo"
+numero: "4"
+data: "2015-08-31"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 01/09/2015, seção 1, página 19"
+data_publicacao: "2015-09-01"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/67464/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/67464/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "67464"
+sha256_texto: "4e2b1a4cdf51726a32627fda59e20e09436bc6814113a1542bd41cbe797a48c8"
+baixado_em: "2026-10-20"
+---
+# Ato Declaratório Executivo Delex/SPO nº 4, de 31 de agosto de 2015
+
+Declara inaptidão de empresa perante o Cadastro Nacional de Pessoas Jurídicas e inidoneidade dos documentos fiscais por ela emitidos.
+
+Ana Cláudia Fernandes Lourenço, Auditora-Fiscal da Receita Federal do Brasil, matrícula SIAPECAD nº 1294224, no exercício da competência delegada pelo art. 4ª, inciso V da Portaria nº 05, de 3 de fevereiro de 2014, publicada no DOU de 3 de fevereiro de 2014, resolve:
+
+Declarar INAPTA a inscrição no Cadastro Nacional de Pessoas Jurídicas (CNPJ) da pessoa jurídica abaixo identificada, com fundamento art. 23, § 2º, do Decreto-Lei nº 1.455/76, com redação dada pela Lei nº 10.637/02; art. 11, inciso II e parágrafo único, da Instrução Normativa SRF nº 228/02; e art. 37, III cc art. 40 da IN RFB nº 1.470/2014, por restar não comprovada a origem, disponibilidade e a efetiva transferência dos recursos empregados em suas operações de comércio exterior, e tudo o mais que consta no processo administrativo abaixo mencionado:
+
+Empresa: Neumann Shipment Importação Exportação LTDA
+
+CNPJ: 05.597.753/0001-40
+
+Processo: 10314.720677/2015-72
+
+Inidoneidade a partir de 07/01/2011
+
+ANA CLÁUDIA FERNANDES LOURENÇO Chefe Substituta

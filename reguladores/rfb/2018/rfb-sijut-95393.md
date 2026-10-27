@@ -1,0 +1,49 @@
+---
+titulo: "Solução de Consulta Disit/SRRF06 nº 6019, de 27 de setembro de 2018"
+orgao: "Divisão de Tributação da 6ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "6019"
+data: "2018-09-27"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 02/10/2018, seção 1, página 35"
+data_publicacao: "2018-10-02"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/95393/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/95393/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "95393"
+sha256_texto: "c4c2e369fceb3c44599cfd4b2b5b0d96efb990ec31b1adc1ea627e70468b6854"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF06 nº 6019, de 27 de setembro de 2018
+
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA - IRPJ PRESTAÇÃO DE SERVIÇOS. LUCRO PRESUMIDO. BASE DE CÁLCULO. O preço da prestação de serviços em geral, que corresponde à soma a pagar pelos serviços faturados, compõe a base de cálculo do IRPJ na apuração com base no lucro presumido. Os valores que estão contidos na soma a pagar pelos serviços faturados, e que posteriormente serão utilizados para fazer frente a custos ou despesas essenciais ao exercício da atividade a que se dedica a prestadora dos serviços, devem compor a base de cálculo do IRPJ apurado com base no lucro presumido. Inexiste previsão legal de exclusão da base de cálculo do IRPJ de despesas com despachantes, taxas, tributos ou quaisquer honorários que compõem o preço do serviço prestado. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 184, DE 17/3/2017. DISPOSITIVOS LEGAIS: Lei nº 12.973/2014, arts. 1º, 2º, 4º a 70 e 75; Lei nº 9.430/1996, art. 25, inciso I; Lei nº 9.249/1995, art. 15; Lei nº 8.981/1995, art. 31; Lei nº 8.906/1994, art. 15; Decreto-Lei nº 1.598/1977, arts. 12 e 13; Lei nº 5.474/1968, art. 20. ASSUNTO: CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL EMENTA: PRESTAÇÃO DE SERVIÇOS. LUCRO PRESUMIDO. BASE DE CÁLCULO. O preço da prestação de serviços em geral, que corresponde à soma a pagar pelos serviços faturados, compõe a base de cálculo da CSLL na apuração com base no lucro presumido. Os valores que estão contidos na soma a pagar pelos serviços faturados, e que posteriormente serão utilizados para fazer frente a custos ou despesas essenciais ao exercício da atividade a que se dedica a prestadora dos serviços, devem compor a base de cálculo da CSLL apurada com base no lucro presumido. Inexiste previsão legal de exclusão da base de cálculo da CSLL de despesas com despachantes, taxas, tributos ou quaisquer honorários que compõem o preço do serviço prestado. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 184, DE 17/3/2017. DISPOSITIVOS LEGAIS: Lei nº 12.973/2014, arts. 1º, 2º, 4º a 70 e 75; Lei nº 9.430/1996, art. 25, inciso I; Lei nº 9.249/1995, art. 15; Lei nº 8.981/1995, arts. 31 e 57; Lei nº 8.906/1994, art. 15; Decreto-Lei nº 1.598/1977, arts. 12 e 13; Lei nº 5.474/1968, art. 20. ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS EMENTA: PRESTAÇÃO DE SERVIÇOS. BASE DE CÁLCULO. O preço da prestação de serviços em geral, que corresponde à soma a pagar pelos serviços faturados, compõe a base de cálculo da Cofins. Os valores que estão contidos na soma a pagar pelos serviços faturados, e que posteriormente serão utilizados para fazer frente a custos ou despesas essenciais ao exercício da atividade a que se dedica a prestadora dos serviços, devem compor a base de cálculo da Cofins. Inexiste previsão legal de exclusão da base de cálculo da Cofins de despesas com despachantes, taxas, tributos ou quaisquer honorários que compõem o preço do serviço prestado. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 184, DE 17/3/2017. DISPOSITIVOS LEGAIS: Lei Complementar nº 70/1991, art. 2º, caput; Lei nº 12.973/2014, arts. 1º a 3º; Lei nº 10.833/2003, art. 10, inciso II; Lei nº 10.637/2002, art. 8º, inciso II; Lei nº 9.718/1998, arts. 1º a 3º; Lei nº 9.715/1998, art. 3º; Lei nº 8.906/1994, art. 15; Decreto-Lei nº 1.598/1977, art. 12. ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP EMENTA: PRESTAÇÃO DE SERVIÇOS. BASE DE CÁLCULO. O preço da prestação de serviços em geral, que corresponde à soma a pagar pelos serviços faturados, compõe a base de cálculo da Contribuição para o PIS/Pasep. Os valores que estão contidos na soma a pagar pelos serviços faturados, e que posteriormente serão utilizados para fazer frente a custos ou despesas essenciais ao exercício da atividade a que se dedica a prestadora dos serviços, devem compor a base de cálculo da Contribuição para o PIS/Pasep. Inexiste previsão legal de exclusão da base de cálculo da Contribuição para o PIS/Pasep de despesas com despachantes, taxas, tributos ou quaisquer honorários que compõem o preço do serviço prestado. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 184, DE 17/3/2017. DISPOSITIVOS LEGAIS: Lei Complementar nº 70/1991, art. 2º, caput; Lei nº 12.973/2014, arts. 1º a 3º; Lei nº 10.833/2003, art. 10, inciso II; Lei nº 10.637/2002, art. 8º, inciso II; Lei nº 9.718/1998, arts. 1º a 3º; Lei nº 9.715/1998, art. 3º; Lei nº 8.906/1994, art. 15; Decreto-Lei nº 1.598/1977, art. 12.
+
+ASSUNTO: IMPOSTO SOBRE A RENDA DE PESSOA JURÍDICA - IRPJ
+
+PRESTAÇÃO DE SERVIÇOS. LUCRO PRESUMIDO. BASE DE CÁLCULO. O preço da prestação de serviços em geral, que corresponde à soma a pagar pelos serviços faturados, compõe a base de cálculo do IRPJ na apuração com base no lucro presumido. Os valores que estão contidos na soma a pagar pelos serviços faturados, e que posteriormente serão utilizados para fazer frente a custos ou despesas essenciais ao exercício da atividade a que se dedica a prestadora dos serviços, devem compor a base de cálculo do IRPJ apurado com base no lucro presumido. Inexiste previsão legal de exclusão da base de cálculo do IRPJ de despesas com despachantes, taxas, tributos ou quaisquer honorários que compõem o preço do serviço prestado. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 184, DE 17/3/2017.
+
+DISPOSITIVOS LEGAIS: Lei nº 12.973/2014, arts. 1º, 2º, 4º a 70 e 75; Lei nº 9.430/1996, art. 25, inciso I; Lei nº 9.249/1995, art. 15; Lei nº 8.981/1995, art. 31; Lei nº 8.906/1994, art. 15; Decreto-Lei nº 1.598/1977, arts. 12 e 13; Lei nº 5.474/1968, art. 20.
+
+ASSUNTO: CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL
+
+EMENTA: PRESTAÇÃO DE SERVIÇOS. LUCRO PRESUMIDO. BASE DE CÁLCULO. O preço da prestação de serviços em geral, que corresponde à soma a pagar pelos serviços faturados, compõe a base de cálculo da CSLL na apuração com base no lucro presumido. Os valores que estão contidos na soma a pagar pelos serviços faturados, e que posteriormente serão utilizados para fazer frente a custos ou despesas essenciais ao exercício da atividade a que se dedica a prestadora dos serviços, devem compor a base de cálculo da CSLL apurada com base no lucro presumido. Inexiste previsão legal de exclusão da base de cálculo da CSLL de despesas com despachantes, taxas, tributos ou quaisquer honorários que compõem o preço do serviço prestado. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 184, DE 17/3/2017.
+
+DISPOSITIVOS LEGAIS: Lei nº 12.973/2014, arts. 1º, 2º, 4º a 70 e 75; Lei nº 9.430/1996, art. 25, inciso I; Lei nº 9.249/1995, art. 15; Lei nº 8.981/1995, arts. 31 e 57; Lei nº 8.906/1994, art. 15; Decreto-Lei nº 1.598/1977, arts. 12 e 13; Lei nº 5.474/1968, art. 20.
+
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS
+
+EMENTA: PRESTAÇÃO DE SERVIÇOS. BASE DE CÁLCULO. O preço da prestação de serviços em geral, que corresponde à soma a pagar pelos serviços faturados, compõe a base de cálculo da Cofins. Os valores que estão contidos na soma a pagar pelos serviços faturados, e que posteriormente serão utilizados para fazer frente a custos ou despesas essenciais ao exercício da atividade a que se dedica a prestadora dos serviços, devem compor a base de cálculo da Cofins. Inexiste previsão legal de exclusão da base de cálculo da Cofins de despesas com despachantes, taxas, tributos ou quaisquer honorários que compõem o preço do serviço prestado. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 184, DE 17/3/2017.
+
+DISPOSITIVOS LEGAIS: Lei Complementar nº 70/1991, art. 2º, caput; Lei nº 12.973/2014, arts. 1º a 3º; Lei nº 10.833/2003, art. 10, inciso II; Lei nº 10.637/2002, art. 8º, inciso II; Lei nº 9.718/1998, arts. 1º a 3º; Lei nº 9.715/1998, art. 3º; Lei nº 8.906/1994, art. 15; Decreto-Lei nº 1.598/1977, art. 12.
+
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+
+EMENTA: PRESTAÇÃO DE SERVIÇOS. BASE DE CÁLCULO. O preço da prestação de serviços em geral, que corresponde à soma a pagar pelos serviços faturados, compõe a base de cálculo da Contribuição para o PIS/Pasep. Os valores que estão contidos na soma a pagar pelos serviços faturados, e que posteriormente serão utilizados para fazer frente a custos ou despesas essenciais ao exercício da atividade a que se dedica a prestadora dos serviços, devem compor a base de cálculo da Contribuição para o PIS/Pasep. Inexiste previsão legal de exclusão da base de cálculo da Contribuição para o PIS/Pasep de despesas com despachantes, taxas, tributos ou quaisquer honorários que compõem o preço do serviço prestado. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 184, DE 17/3/2017.
+
+DISPOSITIVOS LEGAIS: Lei Complementar nº 70/1991, art. 2º, caput; Lei nº 12.973/2014, arts. 1º a 3º; Lei nº 10.833/2003, art. 10, inciso II; Lei nº 10.637/2002, art. 8º, inciso II; Lei nº 9.718/1998, arts. 1º a 3º; Lei nº 9.715/1998, art. 3º; Lei nº 8.906/1994, art. 15; Decreto-Lei nº 1.598/1977, art. 12.
+
+MÁRIO HERMES SOARES CAMPOS  
+Chefe

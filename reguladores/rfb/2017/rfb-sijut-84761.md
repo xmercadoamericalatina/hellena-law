@@ -1,0 +1,44 @@
+---
+titulo: "Solução de Consulta Disit/SRRF01 nº 1024, de 28 de junho de 2017"
+orgao: "Divisão de Tributação da 1ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "1024"
+data: "2017-06-28"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 27/07/2017, seção 1, página 113"
+data_publicacao: "2017-07-27"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/84761/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/84761/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "84761"
+sha256_texto: "78eff0ffe1f865d71d9747d5931f6e7c6902425d90b0e367107ad1bddbedffba"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF01 nº 1024, de 28 de junho de 2017
+
+ASSUNTO: Contribuição para o Pis/Pasep EMENTA: FRETE NA AQUISIÇÃO PARA REVENDA DE BENS SUJEITOS À INCIDÊNCIA CONCENTRADA. IMPOSSIBILIDADE DE CRÉDITO. São vedadas a apuração e a utilização de créditos da Contribuição para o PIS/Pasep em relação a gastos com serviços de transporte (frete) na aquisição para revenda dos produtos de que tratam os §§ 1º e 1º-A do art. 2º da Lei nº 10.637, de 2002, sujeitos à incidência concentrada da Contribuição para o PIS/Pasep, inclusive, de óleo diesel adquirido para revenda. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 327, DE 21 DE JUNHO DE 2017. DISPOSITIVOS LEGAIS: : §§ 1º e 1º-A do art. 2º; e incisos I e II do art. 3º da Lei nº 10.637, de 30 de dezembro de 2002; inciso IX do art. 3º, e inciso II do art. 15 da Lei nº 10.833, de 29 de dezembro de 2003; art. 17 da Lei nº 11.033, de 21 de dezembro de 2004; art. 16 da Lei nº 11.116, de 18 de maio de 2005; e art. 289 do Decreto nº 3.000, de 6 de março de 1999. ASSUNTO: Contribuição para o Financiamento da Seguridade Social – Cofins EMENTA: FRETE NA AQUISIÇÃO PARA REVENDA DE BENS SUJEITOS À INCIDÊNCIA CONCENTRADA. IMPOSSIBILIDADE DE CRÉDITO. São vedadas a apuração e a utilização de créditos da Cofins em relação a gastos com serviços de transporte (frete) na aquisição para revenda dos produtos de que tratam os §§ 1º e 1º-A do art. 2º da Lei nº 10.833, de 2003, sujeitos à incidência concentrada da Cofins, inclusive, de óleo diesel adquirido para revenda. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 327, DE 21 DE JUNHO DE 2017. DISPOSITIVOS LEGAIS: §§ 1º e 1º-A do art. 2º; e incisos I, II e IX do art. 3º da Lei nº 10.833, de 29 de dezembro de 2003; art. 17 da Lei nº 11.033, de 21 de dezembro de 2004; art. 16 da Lei nº 11.116, de 18 de maio de 2005; e art. 289 do Decreto nº 3.000, de 6 de março de 1999.
+
+ASSUNTO: Contribuição para o Pis/Pasep
+
+EMENTA: FRETE NA AQUISIÇÃO PARA REVENDA DE BENS SUJEITOS À INCIDÊNCIA CONCENTRADA. IMPOSSIBILIDADE DE CRÉDITO.
+
+São vedadas a apuração e a utilização de créditos da Contribuição para o PIS/Pasep em relação a gastos com serviços de transporte (frete) na aquisição para revenda dos produtos de que tratam os §§ 1º e 1º-A do art. 2º da Lei nº 10.637, de 2002, sujeitos à incidência concentrada da Contribuição para o PIS/Pasep, inclusive, de óleo diesel adquirido para revenda.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 327, DE 21 DE JUNHO DE 2017.
+
+DISPOSITIVOS LEGAIS: : §§ 1º e 1º-A do art. 2º; e incisos I e II do art. 3º da Lei nº 10.637, de 30 de dezembro de 2002; inciso IX do art. 3º, e inciso II do art. 15 da Lei nº 10.833, de 29 de dezembro de 2003; art. 17 da Lei nº 11.033, de 21 de dezembro de 2004; art. 16 da Lei nº 11.116, de 18 de maio de 2005; e art. 289 do Decreto nº 3.000, de 6 de março de 1999.
+
+ASSUNTO: Contribuição para o Financiamento da Seguridade Social – Cofins
+
+EMENTA: FRETE NA AQUISIÇÃO PARA REVENDA DE BENS SUJEITOS À INCIDÊNCIA CONCENTRADA. IMPOSSIBILIDADE DE CRÉDITO.
+
+São vedadas a apuração e a utilização de créditos da Cofins em relação a gastos com serviços de transporte (frete) na aquisição para revenda dos produtos de que tratam os §§ 1º e 1º-A do art. 2º da Lei nº 10.833, de 2003, sujeitos à incidência concentrada da Cofins, inclusive, de óleo diesel adquirido para revenda.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 327, DE 21 DE JUNHO DE 2017.
+
+DISPOSITIVOS LEGAIS: §§ 1º e 1º-A do art. 2º; e incisos I, II e IX do art. 3º da Lei nº 10.833, de 29 de dezembro de 2003; art. 17 da Lei nº 11.033, de 21 de dezembro de 2004; art. 16 da Lei nº 11.116, de 18 de maio de 2005; e art. 289 do Decreto nº 3.000, de 6 de março de 1999.
+
+RODRIGO AUGUSTO VERLY DE OLIVEIRA Chefe

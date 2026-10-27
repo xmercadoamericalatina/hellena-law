@@ -1,0 +1,32 @@
+---
+titulo: "Portaria DRF/CBA nº 144, de 24 de outubro de 2017"
+orgao: "Delegacia da Receita Federal do Brasil em Cuiabá"
+tipo: "Portaria"
+numero: "144"
+data: "2017-10-24"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 01/11/2017, seção 1, página 26"
+data_publicacao: "2017-11-01"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/87609/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/87609/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "87609"
+sha256_texto: "1a5044be309a7af7cafa84a3d7d860ae6f96ed83ea65c4392ba7a1b86c321210"
+baixado_em: "2026-10-16"
+---
+# Portaria DRF/CBA nº 144, de 24 de outubro de 2017
+
+"Declara nula a inscrição que menciona no Cadastro Nacional da Pessoa Jurídica - CNPJ."
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM CUIABÁ-MT, no uso da atribuição que lhe confere o artigo 302 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, publicada na Seção I do Diário Oficial da União de 17 de maio de 2012, considerando o disposto no art. 35, II, da Instrução Normativa RFB nº 1.634, de 06 de maio de 2016, e tendo em vista o que consta no e-dossiê nº 10010.022832/1017-14, declara:
+
+NULA a inscrição no CNPJ sob o nº 04.578.876/0008-47 em nome de Roberta Nascimento Advogados Associados.
+
+OLDESIO SILVA ANHESINI
+
+Nota Normas: Este ato foi originalmente publicado sem a ementa.
+
+.

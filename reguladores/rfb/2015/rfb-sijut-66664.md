@@ -1,0 +1,36 @@
+---
+titulo: "Ato Declaratório Executivo DRF/GUA nº 48, de 28 de julho de 2015"
+orgao: "Delegacia da Receita Federal do Brasil em Guarulhos"
+tipo: "Ato Declaratório Executivo"
+numero: "48"
+data: "2015-07-28"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 30/07/2015, seção 1, página 39"
+data_publicacao: "2015-07-30"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/66664/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/66664/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "66664"
+sha256_texto: "2130bacc011cb33dd21c9b8d99324edb482b919d30d8025878bd39f20b2ab276"
+baixado_em: "2026-10-20"
+---
+# Ato Declaratório Executivo DRF/GUA nº 48, de 28 de julho de 2015
+
+Declara a baixa por inexistência de fato do contribuinte perante o Cadastro Nacional de Pessoas Jurídicas - CNPJ a empresa que menciona.
+
+O DELEGADO DA RECEITA FEDERAL DO BRASIL EM GUARULHOS - SP, no uso das atribuições que lhe são conferidas pelo Artigo 305 do Regimento Interno da RFB, aprovado pela Portaria do Ministério da Fazenda (MF) nº 203, de 14 de maio de 2012, com as alterações posteriores, resolve:
+
+Declarar BAIXADA de ofício a inscrição no Cadastro Nacional da Pessoa Jurídica – CNPJ por inexistência de fato nos termos do inciso II do artigo 27 da Instrução Normativa nº 1.470 de 30/05/2014.
+
+A declaração de baixa baseia-se na ausência da regularização cadastral e pelo não atendimento da intimação do edital publicado no DOU, nos termos do § 2º do artigo 29 da IN RFB 1.470/2014, sendo constatada a inexistência de fato do contribuinte de acordo com a alínea a do inciso II do artigo 27, da Instrução Normativa 1.470, de 30/05/2014, devido a não comprovação do patrimônio e da sua capacidade operacional necessários à realização de seu objeto.
+
+PROCESSO: 10875-721.676/2015-90
+
+CONTRIBUINTE: DUMONT INDÚSTRIA E COMÉRCIO DE PLÁSTICOS LTDA
+
+CNPJ: 20.137.671/0001-06
+
+PAULO ANTONIO ESPÍNDOLA GONZÁLEZ

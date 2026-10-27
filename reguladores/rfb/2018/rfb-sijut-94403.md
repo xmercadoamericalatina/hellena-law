@@ -1,0 +1,50 @@
+---
+titulo: "Solução de Consulta Disit/SRRF02 nº 2008, de 30 de julho de 2018"
+orgao: "Divisão de Tributação da 2ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "2008"
+data: "2018-07-30"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 27/08/2018, seção 1, página 111"
+data_publicacao: "2018-08-27"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/94403/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/94403/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "94403"
+sha256_texto: "d68d3c14572078d6f114e62d1d1c92b56186793118e4bfda478b382fc807adc2"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF02 nº 2008, de 30 de julho de 2018
+
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS EMENTA: AGENCIAMENTO MARÍTIMO. RETENÇÃO. As receitas decorrentes de agenciamento marítimo, por não constituir esse serviço atividade profissional, não se sujeitam à retenção da Cofins na fonte de que trata o art. 30 da Lei nº 10.833, de 2003. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 49, DE 11 DE DEZEMBRO DE 2013. DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 30; Decreto nº 3.000, de 1999 (RIR/99), art. 647, § 1º; IN SRF nº 459, de 2004, art. 1º, § 2º, IV; PN CST nº 8, de 1986, item 14; e PN CST nº 37, de 1987, item 2. ASSUNTO: CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL EMENTA: AGENCIAMENTO MARÍTIMO. RETENÇÃO. As receitas decorrentes de agenciamento marítimo, por não constituir esse serviço atividade profissional, não se sujeitam à retenção da CSLL na fonte de que trata o art. 30 da Lei nº 10.833, de 2003. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 49, DE 11 DE DEZEMBRO DE 2013. DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 30; Decreto nº 3.000, de 1999 (RIR/99), art. 647, § 1º; IN SRF nº 459, de 2004, art. 1º, § 2º, IV; PN CST nº 8, de 1986, item 14; e PN CST nº 37, de 1987, item 2. ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP EMENTA: AGENCIAMENTO MARÍTIMO. RETENÇÃO. As receitas decorrentes de agenciamento marítimo, por não constituir esse serviço atividade profissional, não se sujeitam à retenção da Contribuição para o PIS/Pasep na fonte de que trata o art. 30 da Lei nº 10.833, de 2003. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 49, DE 11 DE DEZEMBRO DE 2013. DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 30; Decreto nº 3.000, de 1999 (RIR/99), art. 647, § 1º; IN SRF nº 459, de 2004, art. 1º, § 2º, IV; PN CST nº 8, de 1986, item 14; e PN CST nº 37, de 1987, item 2. ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE - IRRF EMENTA: AGENCIAMENTO MARÍTIMO. RETENÇÃO. As receitas decorrentes de agenciamento marítimo, por não constituir esse serviço representação comercial, mediação de negócios ou atividade profissional, não se sujeitam à retenção do Imposto de Renda na fonte com base nos arts. 647 e 651, inc. I do RIR/99. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 49, DE 11 DE DEZEMBRO DE 2013. DISPOSITIVOS LEGAIS: Decreto nº 3.000, de 1999 (RIR/99), arts. 647 e 651.
+
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS
+
+EMENTA: AGENCIAMENTO MARÍTIMO. RETENÇÃO. As receitas decorrentes de agenciamento marítimo, por não constituir esse serviço atividade profissional, não se sujeitam à retenção da Cofins na fonte de que trata o art. 30 da Lei nº 10.833, de 2003. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 49, DE 11 DE DEZEMBRO DE 2013.
+
+DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 30; Decreto nº 3.000, de 1999 (RIR/99), art. 647, § 1º; IN SRF nº 459, de 2004, art. 1º, § 2º, IV; PN CST nº 8, de 1986, item 14; e PN CST nº 37, de 1987, item 2.
+
+ASSUNTO: CONTRIBUIÇÃO SOCIAL SOBRE O LUCRO LÍQUIDO - CSLL
+
+EMENTA: AGENCIAMENTO MARÍTIMO. RETENÇÃO. As receitas decorrentes de agenciamento marítimo, por não constituir esse serviço atividade profissional, não se sujeitam à retenção da CSLL na fonte de que trata o art. 30 da Lei nº 10.833, de 2003. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 49, DE 11 DE DEZEMBRO DE 2013.
+
+DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 30; Decreto nº 3.000, de 1999 (RIR/99), art. 647, § 1º; IN SRF nº 459, de 2004, art. 1º, § 2º, IV; PN CST nº 8, de 1986, item 14; e PN CST nº 37, de 1987, item 2.
+
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+
+EMENTA: AGENCIAMENTO MARÍTIMO. RETENÇÃO. As receitas decorrentes de agenciamento marítimo, por não constituir esse serviço atividade profissional, não se sujeitam à retenção da Contribuição para o PIS/Pasep na fonte de que trata o art. 30 da Lei nº 10.833, de 2003. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 49, DE 11 DE DEZEMBRO DE 2013.
+
+DISPOSITIVOS LEGAIS: Lei nº 10.833, de 2003, art. 30; Decreto nº 3.000, de 1999 (RIR/99), art. 647, § 1º; IN SRF nº 459, de 2004, art. 1º, § 2º, IV; PN CST nº 8, de 1986, item 14; e PN CST nº 37, de 1987, item 2.
+
+ASSUNTO: IMPOSTO SOBRE A RENDA RETIDO NA FONTE - IRRF
+
+EMENTA: AGENCIAMENTO MARÍTIMO. RETENÇÃO. As receitas decorrentes de agenciamento marítimo, por não constituir esse serviço representação comercial, mediação de negócios ou atividade profissional, não se sujeitam à retenção do Imposto de Renda na fonte com base nos arts. 647 e 651, inc. I do RIR/99. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 49, DE 11 DE DEZEMBRO DE 2013.
+
+DISPOSITIVOS LEGAIS: Decreto nº 3.000, de 1999 (RIR/99), arts. 647 e 651.
+
+ALDENIR BRAGA CHRISTO
+
+Chefe

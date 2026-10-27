@@ -1,0 +1,54 @@
+---
+titulo: "Ato Declaratório Executivo DRF/RJ1 nº 180, de 19 de maio de 2015"
+orgao: "Delegacia da Receita Federal do Brasil no Rio de Janeiro I"
+tipo: "Ato Declaratório Executivo"
+numero: "180"
+data: "2015-05-19"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 20/05/2015, seção 1, página 17"
+data_publicacao: "2015-05-20"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/64231/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/64231/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "64231"
+sha256_texto: "0612a4a54247629204d516bec71a2aa3ec519930d2b3dee1a437dc9bf61ebf5a"
+baixado_em: "2026-10-20"
+---
+# Ato Declaratório Executivo DRF/RJ1 nº 180, de 19 de maio de 2015
+
+Concede, à pessoa jurídica que menciona, habilitação para operar no Regime Especial de Incentivos para o Desenvolvimento da Infra-Estrutura (REIDI) de que trata a Instrução Normativa SRF nº 758/2007.
+
+A DELEGADA DA RECEITA FEDERAL DO BRASIL NO RIO DE JANEIRO I, no uso de suas atribuições, definidas no Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14 de maio de 2012, publicada no Diário Oficial da União de 17 de maio de 2012, tendo em vista o disposto no artigo 11, caput, da Instrução Normativa nº 758, de 25 de julho de 2007, publicada no D.O.U. de 27 de julho de 2007, com suas alterações posteriores e, considerando o que consta do processo nº 11707.721396/2014-03, resolve:
+
+**Art. 1º** - Co-Habilitar a empresa abaixo identificada para operar no Regime Especial de Incentivos para o Desenvolvimento da Infra-Estrutura (REIDI), instituído pela Lei nº 11.488/2007 e regulamentado pelo Decreto nº 6.144/2007, consoante o disposto no artigo 11, da Instrução Normativa RFB nº 758, de 25 de julho de 2007, publicada no D.O.U. de 27 de julho de 2007, com suas alterações posteriores, considerando para tal ter sido a mesma contratada pela empresa Belo Monte Transmissora de Energia SPE S.A , CNPJ nº 20.223.016/0001-70, para prestar serviços relacionados à execução do projeto aprovado pela Portaria nº 226, de 21/08/2014, do Ministério das Minas e Energia, publicada no D.O.U. de 22 de agosto de 2014, o qual, mencione-se, está habilitado no REIDI por intermédio do ADE 326, de 2 de outubro de 2014, publicado no D.O.U. de 7 de outubro de 2014, emitido pela DRFB/RIO DE JANEIRO I.
+
+EMPRESA: SEPCO1 CONSTRUCOES DO BRASIL LTDA
+
+CNPJ Nº 14.139.738/0001-49
+
+CEIs da obra, por trecho:
+
+LT Xingu-Estreito, DT 003/2014, trecho 1, - nº 51.229.43605/77;
+
+LT Xingu-Estreito, DT 004/2014, trecho 2, - nº 51.229.43515/71;
+
+LT Xingu-Estreito, DT 007/2014- trecho 5 - nº 51.229.43731/72.
+
+NOME DO PROJETO: Lote AB do Leilão nº11/2013- ANEEL
+
+ATO AUTORIZATIVO: Contrato de Concessão nº 14 2014, de 16 de junho de 2014.
+
+SETOR DE INFRAESTRUTURA: Transmissão de Energia Elétrica.
+
+PRAZO ESTIMADO DE EXECUÇÃO: início a partir de janeiro de 2015 e término em janeiro de 2018.
+
+**Art. 2º** - Os benefícios do REIDI poderão ser usufruídos nas aquisições e importações realizadas no período de 05 (cinco) anos contados da data da habilitação da pessoa jurídica, titular do projeto de infraestrutura (Lei nº 11.488/2007, art. 5º c/c art. 4º, § único do Decreto nº 6.144/2007).
+
+**Art. 3º** -A presente co-habilitação poderá ser cancelada “ex officio” pela Autoridade Fiscal em caso de inobservância, por parte da beneficiária, de quaisquer dos requisitos que condicionaram a concessão do regime.
+
+**Art. 4º** -Este Ato Declaratório entra em vigor na data de sua publicação.
+
+MÔNICA PAES BARRETO

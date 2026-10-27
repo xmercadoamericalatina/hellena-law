@@ -1,0 +1,654 @@
+---
+titulo: "Ato Declaratório Executivo DRF/RJ1 nº 813, de 17 de outubro de 2016"
+orgao: "Delegacia da Receita Federal do Brasil no Rio de Janeiro I"
+tipo: "Ato Declaratório Executivo"
+numero: "813"
+data: "2016-10-17"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 19/10/2016, seção 1, página 23"
+data_publicacao: "2016-10-19"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/78216/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/78216/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "78216"
+sha256_texto: "ed0af34e75c6a62f5c736582b77e6ebe676b84f2deb96c8b4e47a7c190b13edb"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo DRF/RJ1 nº 813, de 17 de outubro de 2016
+
+Declara canceladas as habilitações das pessoas jurídicas que menciona ao gozo dos Benefícios Fiscais Referentes à Realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016, instituídos pela Lei nº 12.780/2013.
+
+A DELEGADA DA RECEITA FEDERAL DO BRASIL NO RIO DE JANEIRO I, no exercício das atribuições que lhe confere o inciso VI, do artigo 302, do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF n° 203, de 14 de maio de 2012, e tendo em vista o disposto no inciso II do artigo 12 da Instrução Normativa nº 1.335, de 26 de fevereiro de 2013, publicada no D.O.U. de 27 de fevereiro de 2013, com suas alterações, e ainda o que consta do dossiê 10010.036389/0816-36, resolve:
+
+**Art. 1º** - Declarar canceladas as habilitações das empresas abaixo relacionadas ao gozo dos benefícios fiscais referentes à realização no Brasil dos Jogos Olímpicos de 2016 e Jogos Paraolímpicos de 2016:
+
+Empresa: SLQUATRO SEGURANÇA E VIGILÂNCIA LTDA - ME
+
+CNPJ: 02.857.188/0001-14
+
+Processo/Dossiê: 10010.000109/1015-12
+
+Ato concessório: ADE/DRF/RJ2/83/2013
+
+Empresa: STAHL TALHAS EQUIPAMENTOS DE MOVIMENTAÇÃO LTDA
+
+CNPJ: 05.811.776/0001-05
+
+Processo/Dossiê: 10010.000144/1015-31
+
+Ato concessório: ADE/DRF/RJ2/172/2013
+
+Empresa:UNIDAS LOCADORA DE VEÍCULOS LTDA
+
+CNPJ:01.079.210/0001-80
+
+Processo/Dossiê:10010.001049/0516-04
+
+Ato concessório:ADE/DRF/RJ1/85/2014
+
+Empresa:SPIDER TECNOLOGIA INDÚSTRIA E COMÉRCIO LTDA
+
+CNPJ:68.432.764/0001-90
+
+Processo/Dossiê:10010.001052/0516-10
+
+Ato concessório:ADE/DRF/RJ1/134/2014
+
+Empresa:TV MINUTO S/A
+
+CNPJ:14.369.047/0001-31
+
+Processo/Dossiê:10010.001512/0715-54
+
+Ato concessório:ADE/DRF/RJ1/186/2014
+
+Empresa:FSB COMUNICAÇÃO E MARKETING DIGITAL LTDA - ME
+
+CNPJ:07.148.569/0001-48
+
+Processo/Dossiê:10010.001566/1215-50
+
+Ato concessório:ADE/DRF/RJ1/223/2014
+
+Empresa:DIAMANTE INDÚSTRIA E COMÉRCIO DE MÓVEIS LTDA - ME
+
+CNPJ:10.387.419/0001-00
+
+Processo/Dossiê:10010.001568/1215-49
+
+Ato concessório:ADE/DRF/RJ1/275/2014
+
+Empresa:OWENS-ILLINOIS DO BRASIL INDÚSTRIA E COMÉRCIO LTDA
+
+CNPJ:08.910.541/0001-69
+
+Processo/Dossiê:10010.001580/1215-53
+
+Ato concessório:ADE/DRF/RJ1/291/2014
+
+Empresa:BRASPAG - TECNOLOGIA EM PAGAMENTO LTDA
+
+CNPJ:07.355.049/0001-06
+
+Processo/Dossiê:10010.001622/1215-56
+
+Ato concessório:ADE/DRF/RJ1/352/2014
+
+Empresa:RS EVENTOS E GASTRONOMIA LTDA
+
+CNPJ:03.243.951/0001-80
+
+Processo/Dossiê:10010.001670/0815-77
+
+Ato concessório:ADE/DRF/RJ1/360/2014
+
+Empresa:MIL GERADORES LTDA
+
+CNPJ:08.774.241/0001-08
+
+Processo/Dossiê:10010.001671/0815-11
+
+Ato concessório:ADE/DRF/RJ1/372/2014
+
+Empresa:EMPREENDIMENTOS TURÍSTICOS EVIDENCE LTDA - EPP
+
+CNPJ:02.738.683/0001-04
+
+Processo/Dossiê:10010.001798/0215-54
+
+Ato concessório:ADE/DRF/RJ1/450/2014
+
+Empresa:CONFEDERAÇÃO BRASILEIRA DE ATLETISMO
+
+CNPJ:29.983.798/0001-10
+
+Processo/Dossiê:10010.002732/0414-26
+
+Ato concessório:ADE/DRF/RJ1/458/2014
+
+Empresa:SR SÃO PAULO CINEMAS S/A
+
+CNPJ:04.006.465/0001-00
+
+Processo/Dossiê:10010.003221/0616-19
+
+Ato concessório:ADE/DRF/RJ1/28/2015
+
+Empresa:EMPRESA BRASILEIRA DE COMUNICAÇÃO PRODUÇÃO LTDA
+
+CNPJ:04.405.242/0001-16
+
+Processo/Dossiê:10010.003235/0616-32
+
+Ato concessório:ADE/DRF/RJ1/42/2015
+
+Empresa:ENTREMARES HOTÉIS LTDA
+
+CNPJ:28.575.983/0001-03
+
+Processo/Dossiê:10010.004223/1014-31
+
+Ato concessório:ADE/DRF/RJ1/52/2015
+
+Empresa:H M COUTINHO PETRÓLEO LT D A
+
+CNPJ:29.302.205/0002-94
+
+Processo/Dossiê:10010.007035/0416-23
+
+Ato concessório:ADE/DRF/RJ1/113/2015
+
+Empresa:TRUCKVAN IMPLEMENTOS RODOVIARIOS LTDA
+
+CNPJ:67.411.173/0001-73
+
+Processo/Dossiê:10010.007678/0316-12
+
+Ato concessório:ADE/DRF/RJ1/114/2015
+
+Empresa:PERFORMANCE CARIOCA ADMINISTRACAO DE HOTEIS LTDA
+
+CNPJ:18.161.159/0001-53
+
+Processo/Dossiê:10010.007747/0316-80
+
+Ato concessório:ADE/DRF/RJ1/118/2015
+
+Empresa:INSTITUTO VIDA LIVRE
+
+CNPJ:15.234.307/0001-24
+
+Processo/Dossiê:10010.010108/0516-27
+
+Ato concessório:ADE/DRF/RJ1/176/2014
+
+Empresa:DREAMDOMUS BRASIL EMPREENDIMENTOS E AUTOMAÇÃO LTDA - ME
+
+CNPJ:19.657.777/0001-51
+
+Processo/Dossiê:10010.011707/1015-17
+
+Ato concessório:ADE/DRF/RJ1/193/2015
+
+Empresa:EQUIPO MARKETING ESPORTIVOS E EVENTOS EIRELI ME - ME
+
+CNPJ:21.009.216/0001-98
+
+Processo/Dossiê:10010.011795/0915-78
+
+Ato concessório:ADE/DRF/RJ1/198/2015
+
+Empresa:CHIMENTÃO & DUARTE – TELECOM SOLUTION PROVIDERS LTDA
+
+CNPJ:02.595.218/0001-61
+
+Processo/Dossiê:10010.011860/0215-16
+
+Ato concessório:ADE/DRF/RJ1/208/2015
+
+Empresa:RLP ENGENHARIA LTDA
+
+CNPJ:03.749.012/0001-01
+
+Processo/Dossiê:10010.013938/0216-18
+
+Ato concessório:ADE/DRF/RJ1/226/2015
+
+Empresa:JOLY COMÉRCIO DE COMÉSTICOS LTDA – ME
+
+CNPJ:11.117.770/0001-35
+
+Processo/Dossiê:10010.013939/0216-62
+
+Ato concessório:ADE/DRF/RJ1/227/2015
+
+Empresa:VESSEL METALURGICA LTDA- EPP
+
+CNPJ:36.532.059/0001-78
+
+Processo/Dossiê:10010.014132/0715-80
+
+Ato concessório:ADE/DRF/RJ1/229/2015
+
+Empresa:PEREIRA LOPES LTDA - EPP
+
+CNPJ:27.634.484/0001-87
+
+Processo/Dossiê:10010.014148/0715-92
+
+Ato concessório:ADE/DRF/RJ1/235/2015
+
+Empresa:RTB COMUNICAÇÃO LTDA
+
+CNPJ:13.669.328/0001-47
+
+Processo/Dossiê:10010.014167/0715-19
+
+Ato concessório:ADE/DRF/RJ1/288/2015
+
+Empresa:DAVANTI COMERCIAL, IMPORTACAO, EXPORTACAO E SERVICOS LTDA - ME
+
+CNPJ:10.373.344/0001-08
+
+Processo/Dossiê:10010.014173/0715-76
+
+Ato concessório:ADE/DRF/RJ1/301/2015
+
+Empresa:TAMOIOS PROJETOS TURISTICOS LTDA - ME
+
+CNPJ:09.070.138/0001-31
+
+Processo/Dossiê:10010.014775/0815-96
+
+Ato concessório:ADE/DRF/RJ1/305/2015
+
+Empresa:SCA-INDUSTRIA DE MOVEIS LTDA
+
+CNPJ:87.552.170/0001-67
+
+Processo/Dossiê:10010.015367/0615-26
+
+Ato concessório:ADE/DRF/RJ1/310/2015
+
+Empresa:FOTOSFERA LTDA
+
+CNPJ:28.600.914/0001-02
+
+Processo/Dossiê:10010.015908/0814-61
+
+Ato concessório:ADE/DRF/RJ1/326/2015
+
+Empresa:HOTEL VILAMAR COPACABANA LTDA - EPP
+
+CNPJ:03.607.630/0001-17
+
+Processo/Dossiê:10010.015917/0814-51
+
+Ato concessório:ADE/DRF/RJ1/327/2015
+
+Empresa:CSM ILUKA BRASIL ORGANIZAÇÃO DE EVENTOS LTDA
+
+CNPJ:20.068.735/0001-64
+
+Processo/Dossiê:10010.016387/0416-70
+
+Ato concessório:ADE/DRF/RJ1/362/2015
+
+Empresa:C. RAMALHO - RJ MARKETING SERVICOS LTDA – ME.
+
+CNPJ:04.878.208/0001-69
+
+Processo/Dossiê:10010.016391/0416-38
+
+Ato concessório:ADE/DRF/RJ1/363/2015
+
+Empresa:ESCRITA INDÚSTRIA E SERVIÇOS DE SUPRIMENTOS PARA ESCRITÓRIO LTDA
+
+CNPJ:08.053.031/0001-12
+
+Processo/Dossiê:10010.016464/0415-19
+
+Ato concessório:ADE/DRF/RJ1/382/2015
+
+Empresa:VERZANI & SANDRINI SEGURANÇA PATRIMONIAL LTDA
+
+CNPJ:64.179.724/0001-27
+
+Processo/Dossiê:10010.016683/0815-41
+
+Ato concessório:ADE/DRF/RJ1/470/2015
+
+Empresa:GAIVOTA HOTEL LTDA - EPP
+
+CNPJ:27.664.481/0001-96
+
+Processo/Dossiê:10010.016891/0515-51
+
+Ato concessório:ADE/DRF/RJ1/476/2015
+
+Empresa:HOTEL ATLÂNTICO RIO LTDA - EPP
+
+CNPJ:10.938.753/0001-04
+
+Processo/Dossiê:10010.016909/0515-15
+
+Ato concessório:ADE/DRF/RJ1/508/2015
+
+Empresa:ALÉM INTERNATIONAL DO BRASIL - CRIAÇÃO E GERENC. DE EVENTOS
+
+CNPJ:18.328.560/0001-35
+
+Processo/Dossiê:10010.016920/0515-85
+
+Ato concessório:ADE/DRF/RJ1/522/2015
+
+Empresa: ESHO EMPRESA DE SERVIÇOS HOSPITALARES S.A
+
+CNPJ:29.435.005/0001-29
+
+Processo/Dossiê:10010.017244/0914-37
+
+Ato concessório:ADE/DRF/RJ1/532/2015
+
+Empresa:TEKTOR ENGENHARIA EIRELI
+
+CNPJ:09.169.837/0001-33
+
+Processo/Dossiê:10010.019015/0316-32
+
+Ato concessório:ADE/DRF/RJ1/42/2016
+
+Empresa:DINÂMICA ENERGIA SOLAR LTDA
+
+CNPJ:05.053.556/0001-60
+
+Processo/Dossiê:10010.020065/0116-37
+
+Ato concessório:ADE/DRF/RJ1/70/2016
+
+Empresa:SAVYON INDÚSTRIAS TÊXTEIS LTDA
+
+CNPJ:62.669.874/0001-93
+
+Processo/Dossiê:10010.020092/0116-18
+
+Ato concessório:ADE/DRF/RJ1/73/2016
+
+Empresa:AUDAX LOGÍSTICA TRANSPORTES & TURISMO LTDA
+
+CNPJ:13.461.436/0001-20
+
+Processo/Dossiê: 10010.020103/0116-51
+
+Ato concessório:ADE/DRF/RJ1/74/2016
+
+Empresa:CSM ILUKA BRASIL ORGANIZAÇÃO DE EVENTOS LTDA
+
+CNPJ:20.068.735/0001-64
+
+Processo/Dossiê: 10010.020131/1115-41
+
+Ato concessório:ADE/DRF/RJ1/91/2016
+
+Empresa:UBEE DESENVOLVIMENTO DE SOFTWARE S/A
+
+CNPJ:17.399.938/0001-29
+
+Processo/Dossiê:10010.021375/0616-92
+
+Ato concessório:ADE/DRF/RJ1/100/2016
+
+Empresa:BRASTURINVEST INVESTIMENTOS TURÍSTICOS S/A.
+
+CNPJ:03.422.594/0001-17
+
+Processo/Dossiê:10010.022044/1214-19
+
+Ato concessório:ADE/DRF/RJ1/109/2016
+
+Empresa:GHANDI SECAF VEÍCULOS LTDA
+
+CNPJ:03.562.381/0001-90
+
+Processo/Dossiê:10010.022159/0614-01
+
+Ato concessório:ADE/DRF/RJ1/110/2016
+
+Empresa:VÍDEO CLIPPING PRODUÇÕES LTDA
+
+CNPJ:31.936.131/0001-09
+
+Processo/Dossiê:10010.022253/0814-87
+
+Ato concessório:ADE/DRF/RJ1/158/2016
+
+Empresa:IMÓVEISPONTORIO CONSULTORIA IMOBILIÁRIA LTDA - ME
+
+CNPJ:14.283.888/0001-21
+
+Processo/Dossiê:10010.023273/1015-06
+
+Ato concessório:ADE/DRF/RJ1/159/2016
+
+Empresa:TECITEXTIL DESIREE - COMÉRCIO E IMPORTAÇÃO LTDA - EPP
+
+CNPJ:04.671.612/0001-67
+
+Processo/Dossiê:10010.023676/0216-08
+
+Ato concessório:ADE/DRF/RJ1/165/2016
+
+Empresa:MARTINS – COSTA PRODUÇÕES LTDA - ME
+
+CNPJ:01.966.527/0001-38
+
+Processo/Dossiê:10010.025401/0514-27
+
+Ato concessório:ADE/DRF/RJ1/171/2016
+
+Empresa:DESIR PROMOÇÕES ARTÍSTICAS LTDA - EPP
+
+CNPJ:72.505.316/0001-46
+
+Processo/Dossiê:10010.025659/1215-70
+
+Ato concessório:ADE/DRF/RJ1/175/2016
+
+Empresa:SALDIT INFORMÁTICA EIRELI - EPP
+
+CNPJ:11.546.269/0001-94
+
+Processo/Dossiê:10010.025689/1215-86
+
+Ato concessório:ADE/DRF/RJ1/184/2016
+
+Empresa:TRANS RETA LOGISTICA E LOCAÇÃO DE GUINDASTE S/A
+
+CNPJ:42.202.705/0001-31
+
+Processo/Dossiê:10010.025690/1215-19
+
+Ato concessório:ADE/DRF/RJ1/189/2016
+
+Empresa:REFRESCOS BANDEIRANTES INDÚSTRIA E COMÉRCIO LTDA
+
+CNPJ:03.380.763/0015-07
+
+Processo/Dossiê:10010.025714/1215-21
+
+Ato concessório:ADE/DRF/RJ1/210/2016
+
+Empresa:PROMEX COMÉRCIO, IMPORTAÇÃO E EXPORTAÇÃO LTDA
+
+CNPJ:04.484.321/0001-60
+
+Processo/Dossiê:10010.025719/0216-81
+
+Ato concessório:ADE/DRF/RJ1/212/2016
+
+Empresa:COPACABANA SOL HOTEL LTDA - EPP
+
+CNPJ:30.931.711/0001-40
+
+Processo/Dossiê:10010.026321/1114-91
+
+Ato concessório:ADE/DRF/RJ1/243/2016
+
+Empresa:ELEGANCIA DISTRIBUIDORA DE COSMETICOS LTDA
+
+CNPJ:08.377.511/0001-39
+
+Processo/Dossiê:10010.026600/0616-87
+
+Ato concessório:ADE/DRF/RJ1/244/2016
+
+Empresa:EQUIPO LOG COMÉRCIO E SERVIÇOS EIRELI – ME
+
+CNPJ:10.702.605/0001-88
+
+Processo/Dossiê:10010.028082/0316-48
+
+Ato concessório:ADE/DRF/RJ1/251/2016
+
+Empresa:NOBILE GESTAO DE EMPREENDIMENTOS LTDA
+
+CNPJ:09.405.789/0001-35
+
+Processo/Dossiê:10010.028576/0716-83
+
+Ato concessório:ADE/DRF/RJ1/266/2016
+
+Empresa:MERCADO ELETRÔNICO S/A
+
+CNPJ:00.117.351/0001-87
+
+Processo/Dossiê:10010.028603/0214-32
+
+Ato concessório:ADE/DRF/RJ1/295/2016
+
+Empresa:SCOPUS SOLUÇÕES EM TI LTDA
+
+CNPJ:14.380.750/0001-40
+
+Processo/Dossiê:10010.028716/0415-44
+
+Ato concessório:ADE/DRF/RJ1/340/2016
+
+Empresa:HIPPERFIO CABOS ESPECIAIS LTDA
+
+CNPJ:10.538.025/0001-05
+
+Processo/Dossiê:10010.032994/0515-69
+
+Ato concessório:ADE/DRF/RJ1/342/2016
+
+Empresa:AMERICAS COPACABANA HOTEL LTDA
+
+CNPJ:22.465.567/0001-76
+
+Processo/Dossiê:10010.032995/0515-11
+
+Ato concessório:ADE/DRF/RJ1/361/2016
+
+Empresa:ACAto concessório: ADEMIA BRASILEIRA DE CANOAGEM - ABRACAN
+
+CNPJ:12.502.059/0001-67
+
+Processo/Dossiê:10010.033007/0515-43
+
+Ato concessório:ADE/DRF/RJ1/382/2016
+
+Empresa:CLEIMAR HOTEIS LTDA - EPP
+
+CNPJ:02.476.318/0001-79
+
+Processo/Dossiê:10010.033077/0315-76
+
+Ato concessório:ADE/DRF/RJ1/388/2016
+
+Empresa:HOTEL RONDONIA PALACE LTDA
+
+CNPJ:33.354.028/0001-86
+
+Processo/Dossiê:10010.033079/0315-65
+
+Ato concessório:ADE/DRF/RJ1/396/2016
+
+Empresa:FULSTANDIG SHOWS E EVENTOS MC LTDA
+
+CNPJ:05.231.625/0001-88
+
+Processo/Dossiê:10010.033733/0516-47
+
+Ato concessório:ADE/DRF/RJ1/401/2016
+
+Empresa:KIOTO AMBIENTAL LTDA
+
+CNPJ:06.865.209/0001-02
+
+Processo/Dossiê:10010.033785/0516-13
+
+Ato concessório:ADE/DRF/RJ1/402/2016
+
+Empresa:P5 EMPREENDIMENTOS LTDA
+
+CNPJ:06.865.209/0001-02
+
+Processo/Dossiê:10010.033794/0516-12
+
+Ato concessório:ADE/DRF/RJ1/424/2016
+
+Empresa:GABISOM SISTEMAS DE SOM E EQUIPAMENTOS MUSICAIS LTDA
+
+CNPJ:54.482.328/0001-10
+
+Processo/Dossiê:10010.038480/0416-35
+
+Ato concessório:ADE/DRF/RJ1/436/2016
+
+Empresa:GEODRILL ENGENHARIA LTDA
+
+CNPJ:02.592.069/0001-87
+
+Processo/Dossiê:10010.039109/0415-18
+
+Ato concessório:ADE/DRF/RJ1/493/2016
+
+Empresa:BOSSA NOVA FILMS CRIAÇÕES E PRODUÇÕES S/A
+
+CNPJ:07.477.471/0001-34
+
+Processo/Dossiê:10010.041148/1014-99
+
+Ato concessório:ADE/DRF/RJ1/506/2016
+
+Empresa:ACO PROMOÇÕES E MARKETING LTDA - EPP
+
+CNPJ:40.254.831/0001-04
+
+Processo/Dossiê:10010.041396/0315-55
+
+Ato concessório:ADE/DRF/RJ1/511/2016
+
+Empresa:BATATA COMUNICAÇÕES LTDA
+
+CNPJ:09.228.192/0001-62
+
+Processo/Dossiê:18470.723629/2013-83
+
+Ato concessório:ADE/DRF/RJ1/552/2016
+
+Empresa:VAGAS TECNOLOGIA DE SOFTWARE LTDA
+
+CNPJ:03.689.427/0001-37
+
+Processo/Dossiê:18470.726925/2013-36
+
+Ato concessório:ADE/DRF/RJ1/676/2016
+
+**Art. 2º** - Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União.
+
+MÔNICA PAES BARRETO

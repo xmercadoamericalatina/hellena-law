@@ -1,0 +1,33 @@
+---
+titulo: "Ato Declaratório Executivo DRF/SJR nº 26, de 16 de maio de 2017"
+orgao: "Delegacia da Receita Federal do Brasil em São José do Rio Preto"
+tipo: "Ato Declaratório Executivo"
+numero: "26"
+data: "2017-05-16"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 18/05/2017, seção 1, página 67"
+data_publicacao: "2017-05-18"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/82947/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/82947/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "82947"
+sha256_texto: "d68b6620f2a8f8d2c3f148389ffe961ba910b0077acc622599299b1542a34b2a"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo DRF/SJR nº 26, de 16 de maio de 2017
+
+Declaração de nulidade da inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ) por ter sido constatado vício no ato de inscrição.
+
+O AUDITOR-FISCAL DA RECEITA FEDERAL DO BRASIL ORA SIGNATÁRIO, no uso das atribuições que lhe conferem os incisos VI do Artigo 243 e IX do Artigo 302 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF nº 203, de 14/05/2012, publicada no Diário Oficial da União (DOU) de 17/05/2012, com delegação de competência prevista no Artigo 5º, incisos III e IV da Portaria DRF/SJR nº 47, de 11/10/2016, publicada no DOU de 18/10/2016, e no cumprimento do disposto no Artigo 35, inciso II e §§ 1º e 2º da Instrução Normativa RFB nº 1.634/2016,
+
+DECLARA:
+
+**Art. 1º** NULA a inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ ), número 18.910.382/0001-56, pertencente a BENEDITO DA SILVA ALOMBA 18614922515, por ter sido constatado VICIO na inscrição, em acatamento ao Despacho Decisório nº 0253/2017 – 0810700/DRF/SJR/SACAT, constante do Processo nº 10850.721376/2017-51.
+
+**Art. 2º** Este Ato Declaratório Executivo produzirá efeitos a partir do termo inicial de vigência do ato cadastral (19/09/2013).
+
+GRIGOR HAIG VARTANIAN  
+Chefe

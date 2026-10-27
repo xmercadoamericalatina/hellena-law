@@ -1,0 +1,54 @@
+---
+titulo: "Solução de Consulta Disit/SRRF09 nº 9025, de 29 de agosto de 2018"
+orgao: "Divisão de Tributação da 9ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "9025"
+data: "2018-08-29"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 20/11/2018, seção 1, página 52"
+data_publicacao: "2018-11-20"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/96636/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/96636/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "96636"
+sha256_texto: "644c85e1465f80fd1ef47379f22f4312c09c19d6a5bcfc9e009b8d4800e5238e"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF09 nº 9025, de 29 de agosto de 2018
+
+Assunto: Contribuição para o Financiamento da Seguridade Social – Cofins CONSTRUÇÃO CIVIL. FABRICAÇÃO E MONTAGEM DE ESTRUTURAS METÁLICAS. As receitas decorrentes da execução de obra de construção civil, por administração, empreitada ou subempreitada permitem a apuração das contribuições para o PIS/Pasep e Cofins pelo regime cumulativo. Entende-se por execução de obra de construção civil a montagem de estruturas metálicas, com fornecimento de material, sempre que necessárias à completude da obra, nela se incorporando em substituição à convencional estrutura de concreto armado, como sustentáculo de coberturas de edifícios, aeroportos, arenas desportivas, galpões industriais, ou, ainda, na construção de pontes e viadutos. A mera operação de fabricação e venda de estruturas metálicas, ainda que empregadas em obras de construção de civil, não permite a apuração da Cofins pelo regime cumulativo. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 11 , DE 27 DE AGOSTO DE 2014. Dispositivos Legais: art. 10, inc. XX da Lei nº 10.833, de 2003; Solução de Divergência Cosit nº 11/2014. Assunto: Contribuição para o PIS/Pasep CONSTRUÇÃO CIVIL. FABRICAÇÃO E MONTAGEM DE ESTRUTURAS METÁLICAS. As receitas decorrentes da execução de obra de construção civil, por administração, empreitada ou subempreitada permitem a apuração das contribuições para o PIS/Pasep e Cofins pelo regime cumulativo. Entende-se por execução de obra de construção civil a montagem de estruturas metálicas, com fornecimento de material, sempre que necessárias à completude da obra, nela se incorporando em substituição à convencional estrutura de concreto armado, como sustentáculo de coberturas de edifícios, aeroportos, arenas desportivas, galpões industriais, ou, ainda, na construção de pontes e viadutos. A mera operação de fabricação e venda de estruturas metálicas, ainda que empregadas em obras de construção de civil, não permite a apuração da contribuição para o PIS/Pasep pelo regime cumulativo. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 11 , DE 27 DE AGOSTO DE 2014. Dispositivos Legais: art. 15, inc. V, da Lei nº 10.833, de 2003; Solução de Divergência Cosit nº 11/2014.
+
+Assunto: Contribuição para o Financiamento da Seguridade Social – Cofins
+
+CONSTRUÇÃO CIVIL. FABRICAÇÃO E MONTAGEM DE ESTRUTURAS METÁLICAS.
+
+As receitas decorrentes da execução de obra de construção civil, por administração, empreitada ou subempreitada permitem a apuração das contribuições para o PIS/Pasep e Cofins pelo regime cumulativo.
+
+Entende-se por execução de obra de construção civil a montagem de estruturas metálicas, com fornecimento de material, sempre que necessárias à completude da obra, nela se incorporando em substituição à convencional estrutura de concreto armado, como sustentáculo de coberturas de edifícios, aeroportos, arenas desportivas, galpões industriais, ou, ainda, na construção de pontes e viadutos.
+
+A mera operação de fabricação e venda de estruturas metálicas, ainda que empregadas em obras de construção de civil, não permite a apuração da Cofins pelo regime cumulativo.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 11 , DE 27 DE AGOSTO DE 2014.
+
+Dispositivos Legais: art. 10, inc. XX da Lei nº 10.833, de 2003; Solução de Divergência Cosit nº 11/2014.
+
+Assunto: Contribuição para o PIS/Pasep
+
+CONSTRUÇÃO CIVIL. FABRICAÇÃO E MONTAGEM DE ESTRUTURAS METÁLICAS.
+
+As receitas decorrentes da execução de obra de construção civil, por administração, empreitada ou subempreitada permitem a apuração das contribuições para o PIS/Pasep e Cofins pelo regime cumulativo.
+
+Entende-se por execução de obra de construção civil a montagem de estruturas metálicas, com fornecimento de material, sempre que necessárias à completude da obra, nela se incorporando em substituição à convencional estrutura de concreto armado, como sustentáculo de coberturas de edifícios, aeroportos, arenas desportivas, galpões industriais, ou, ainda, na construção de pontes e viadutos.
+
+A mera operação de fabricação e venda de estruturas metálicas, ainda que empregadas em obras de construção de civil, não permite a apuração da contribuição para o PIS/Pasep pelo regime cumulativo.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE DIVERGÊNCIA COSIT Nº 11 , DE 27 DE AGOSTO DE 2014.
+
+Dispositivos Legais: art. 15, inc. V, da Lei nº 10.833, de 2003; Solução de Divergência Cosit nº 11/2014.
+
+MARCO ANTÔNIO FERREIRA POSSETTI
+
+Chefe Da Divisão De Tributação

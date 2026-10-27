@@ -1,0 +1,34 @@
+---
+titulo: "Solução de Consulta Disit/SRRF09 nº 9013, de 28 de julho de 2014"
+orgao: "Divisão de Tributação da 9ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "9013"
+data: "2014-07-28"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 12/05/2015, seção 1, página 36"
+data_publicacao: "2015-05-12"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/64013/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/64013/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "64013"
+sha256_texto: "2b13a7e26a08401c2940637610e8c9a8d084aa4509de2d02d2bd76ee2da73fe7"
+baixado_em: "2026-10-20"
+---
+# Solução de Consulta Disit/SRRF09 nº 9013, de 28 de julho de 2014
+
+Assunto: Contribuições Sociais Previdenciárias. CPRB. CONTRIBUIÇÃO PREVIDENCIÁRIA SUBSTITUTIVA. INDUSTRIALIZAÇÃO POR ENCOMENDA. Para fazer jus à substituição previdenciária prevista no caput do art. 8º da Lei nº 12.546, de 2011, ainda que se trate de industrialização por encomenda, é necessário que a empresa efetivamente participe da fabricação de produto. Na hipótese da fabricação ter sido realizada integralmente por outra empresa, a encomendante continuará a recolher a contribuição previdenciária nos termos do art. 22 da Lei nº 8.212, de 14 de julho de 1991. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 39, DE 02 DE DEZEMBRO DE 2013. Dispositivos Legais: Lei nº 12.546, de 2011, art. 8º; Medida Provisória nº 563, de 2012, art. 43.
+
+Assunto: Contribuições Sociais Previdenciárias.
+
+CPRB. CONTRIBUIÇÃO PREVIDENCIÁRIA SUBSTITUTIVA. INDUSTRIALIZAÇÃO POR ENCOMENDA.
+
+Para fazer jus à substituição previdenciária prevista no caput do art. 8º da Lei nº 12.546, de 2011, ainda que se trate de industrialização por encomenda, é necessário que a empresa efetivamente participe da fabricação de produto. Na hipótese da fabricação ter sido realizada integralmente por outra empresa, a encomendante continuará a recolher a contribuição previdenciária nos termos do art. 22 da Lei nº 8.212, de 14 de julho de 1991.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 39, DE 02 DE DEZEMBRO DE 2013.
+
+Dispositivos Legais: Lei nº 12.546, de 2011, art. 8º; Medida Provisória nº 563, de 2012, art. 43.
+
+MARCO ANTONIO FERREIRA POSSETTI Chefe

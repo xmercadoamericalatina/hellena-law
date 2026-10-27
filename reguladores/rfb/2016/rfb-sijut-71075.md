@@ -1,0 +1,34 @@
+---
+titulo: "Ato Declaratório Executivo DRF/RJ1 nº 12, de 19 de janeiro de 2016"
+orgao: "Delegacia da Receita Federal do Brasil no Rio de Janeiro I"
+tipo: "Ato Declaratório Executivo"
+numero: "12"
+data: "2016-01-19"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 22/01/2016, seção 1, página 23"
+data_publicacao: "2016-01-22"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/71075/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/71075/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "71075"
+sha256_texto: "35754719854b573400b6fed8ba08c1aadc9e50fa0d4926c9e55675fd571de6de"
+baixado_em: "2026-10-16"
+---
+# Ato Declaratório Executivo DRF/RJ1 nº 12, de 19 de janeiro de 2016
+
+Declara canceladas as habilitações das pessoas jurídicas que menciona ao gozo dos Benefícios Fiscais Referentes à Realização, no Brasil, dos Jogos Olímpicos de 2016 e dos Jogos Paraolímpicos de 2016, instituídos pela Lei nº 12.780/2013.
+
+A DELEGADA DA RECEITA FEDERAL DO BRASIL NO RIO DE JANEIRO I, no exercício das atribuições conferidas pelo artigo 302 do Regimento Interno da Secretaria da Receita Federal do Brasil, aprovado pela Portaria MF n° 203, de 14 de maio de 2012, publicada no D.O.U. de 17 de maio de 2012, tendo em vista o disposto no artigo 12, inc. II, da Instrução Normativa nº 1.335/2013, publicada no D.O.U. de 27 de fevereiro de 2013, com suas alterações posteriores, resolve:
+
+**Art. 1º** - Declarar canceladas as habilitações ao gozo dos benefícios fiscais referentes à realização no Brasil dos Jogos Olímpicos e Jogos Paraolímpicos de 2016, concedidas pelos Atos Declaratórios Executivos abaixo relacionados:
+
+a
+
+<table>  	<col>  	<col>  	<tr>  		<td>  			<p>ADE:</p>  		</td>  		<td>  			<p>124/2015/DRF/RJ1</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>EMPRESA:</p>  		</td>  		<td>  			<p>UP  			ASSET PEPE HOTEL LTDA.</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>CNPJ:</p>  		</td>  		<td>  			<p>18.638.713/0001-40</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>PROCESSO/DOSSIÊ:</p>  		</td>  		<td>  			<p>10010.002049/0415-70</p>  		</td>  	</tr>  	<tr>  		<td>  			<p> </p>  		</td>  		<td>  			<p> </p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ADE:</p>  		</td>  		<td>  			<p>266/2014/DRF/RJ1</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>EMPRESA:</p>  		</td>  		<td>  			<p>CHAMI  			EMPREENDIMENTOS S.A.</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>CNPJ:</p>  		</td>  		<td>  			<p>34.125.641/0001-94</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>PROCESSO/DOSSIÊ:</p>  		</td>  		<td>  			<p>10010.002331/0814-27</p>  		</td>  	</tr>  	<tr>  		<td>  			<p> </p>  		</td>  		<td>  			<p> </p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ADE:</p>  		</td>  		<td>  			<p>183/2015/DRF/RJ1</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>EMPRESA:</p>  		</td>  		<td>  			<p>SEAL  			HOTELARIA LTDA - ME</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>CNPJ:</p>  		</td>  		<td>  			<p>17.161.595/0001-60</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>PROCESSO/DOSSIÊ:</p>  		</td>  		<td>  			<p>10010.006943/0515-81</p>  		</td>  	</tr>  	<tr>  		<td>  			<p> </p>  		</td>  		<td>  			<p> </p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ADE:</p>  		</td>  		<td>  			<p>432/2014/DRF/RJ1</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>EMPRESA:</p>  		</td>  		<td>  			<p>IMPERIAL  			HOTEL LTDA.</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>CNPJ:</p>  		</td>  		<td>  			<p>33.200.833/0001-55</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>PROCESSO/DOSSIÊ:</p>  		</td>  		<td>  			<p>10010.016043/0914-12</p>  		</td>  	</tr>  	<tr>  		<td>  			<p> </p>  		</td>  		<td>  			<p> </p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ADE:</p>  		</td>  		<td>  			<p>368/2014/DRF/RJ1</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>EMPRESA:</p>  		</td>  		<td>  			<p>HOTEL  			ROYALTY BARRA LTDA.</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>CNPJ:</p>  		</td>  		<td>  			<p>33.910.613/0001-15</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>PROCESSO/DOSSIÊ:</p>  		</td>  		<td>  			<p>10010.017254/0914-72</p>  		</td>  	</tr>  	<tr>  		<td>  			<p> </p>  		</td>  		<td>  			<p> </p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ADE:</p>  		</td>  		<td>  			<p>355/2014/DRF/RJ1</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>EMPRESA:</p>  		</td>  		<td>  			<p>ARGENTINA  			HOTEL SOCIEDADE LTDA.</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>CNPJ:</p>  		</td>  		<td>  			<p>33.196.171/0001-97</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>PROCESSO/DOSSIÊ:</p>  		</td>  		<td>  			<p>10010.017291/0914-81</p>  		</td>  	</tr>  	<tr>  		<td>  			<p> </p>  		</td>  		<td>  			<p> </p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ADE:</p>  		</td>  		<td>  			<p>492/2014/DRF/RJ1</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>EMPRESA:</p>  		</td>  		<td>  			<p>AUGUSTO  			RIO COPA HOTEL LTDA. - ME</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>CNPJ:</p>  		</td>  		<td>  			<p>10.694.785/0001-01</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>PROCESSO/DOSSIÊ:</p>  		</td>  		<td>  			<p>10010.018333/1214-13</p>  		</td>  	</tr>  	<tr>  		<td>  			<p> </p>  		</td>  		<td>  			<p> </p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ADE:</p>  		</td>  		<td>  			<p>299/2014/DRF/RJ1</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>EMPRESA:</p>  		</td>  		<td>  			<p>HOTEL  			DEBRET LTDA. - EPP</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>CNPJ:</p>  		</td>  		<td>  			<p>34.109.652/0001-80</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>PROCESSO/DOSSIÊ:</p>  		</td>  		<td>  			<p>10010.022266/0814-56</p>  		</td>  	</tr>  	<tr>  		<td>  			<p> </p>  		</td>  		<td>  			<p> </p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ADE:</p>  		</td>  		<td>  			<p>456/2014/DRF/RJ1</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>EMPRESA:</p>  		</td>  		<td>  			<p>HOTELARIA  			ACCOR PDB LTDA.</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>CNPJ:</p>  		</td>  		<td>  			<p>02.419.765/0001-96</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>PROCESSO/DOSSIÊ:</p>  		</td>  		<td>  			<p>10010.026317/1114-23</p>  		</td>  	</tr>  	<tr>  		<td>  			<p> </p>  		</td>  		<td>  			<p> </p>  		</td>  	</tr>  	<tr>  		<td>  			<p> </p>  		</td>  		<td>  			<p> </p>  		</td>  	</tr>  	<tr>  		<td>  			<p>ADE:</p>  		</td>  		<td>  			<p>112/2015/DRF/RJ1</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>EMPRESA:</p>  		</td>  		<td>  			<p>ORBE  			CONS. EM GESTÃO EMP. E TRINAMENTO LTDA.</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>CNPJ:</p>  		</td>  		<td>  			<p>13.302.128/0001-51</p>  		</td>  	</tr>  	<tr>  		<td>  			<p>PROCESSO/DOSSIÊ:</p>  		</td>  		<td>  			<p>10010.038859/0315-00</p>  		</td>  	</tr>  </table>
+
+**Art. 2º** - Este Ato Declaratório entrará em vigor a partir da data de sua publicação.
+
+MÔNICA PAES BARRETO

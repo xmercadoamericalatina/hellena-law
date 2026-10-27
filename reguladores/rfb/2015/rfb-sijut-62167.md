@@ -1,0 +1,32 @@
+---
+titulo: "Solução de Consulta Disit/SRRF08 nº 8010, de 23 de fevereiro de 2015"
+orgao: "Divisão de Tributação da 8ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "8010"
+data: "2015-02-23"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 17/03/2015, seção 1, página 70"
+data_publicacao: "2015-03-17"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/62167/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/62167/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "62167"
+sha256_texto: "417ef15b7c2c980655600546f95542bae9e8a122ca196c1bab82b7a4f0d7facf"
+baixado_em: "2026-10-20"
+---
+# Solução de Consulta Disit/SRRF08 nº 8010, de 23 de fevereiro de 2015
+
+Assunto: Imposto sobre a Renda de Pessoa Jurídica – IRPJ Para fins de apuração da base de cálculo dos tributos devidos na forma do artigo 5º da Instrução Normativa RFB nº 1.435, de 2013, serão consideradas as receitas de juros, correções e multa de mora decorrentes de atraso no pagamento de prestações relativas à comercialização de imóveis, auferidas por pessoa jurídica que explore atividades imobiliárias referentes a loteamento de terrenos, incorporação imobiliária, construção de prédios destinados à venda, bem como a venda de imóveis construídos ou adquiridos para a revenda, desde que esses acréscimos sejam apurados por meio de índices ou coeficientes previstos em contrato. SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 151, DE 9 DE JUNHO DE 2014. Dispositivos Legais: Lei nº 9.249, de 1995, art. 15; Lei nº 11.196, de 2005, art. 34; Decreto-lei nº 1.598, de 1977, arts. 27 a 29; Lei nº 8.981, de 1995, art. 30; Instrução Normativa RFB nº 1.435, de 2013, art. 5º.
+
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+
+Para fins de apuração da base de cálculo dos tributos devidos na forma do artigo 5º da Instrução Normativa RFB nº 1.435, de 2013, serão consideradas as receitas de juros, correções e multa de mora decorrentes de atraso no pagamento de prestações relativas à comercialização de imóveis, auferidas por pessoa jurídica que explore atividades imobiliárias referentes a loteamento de terrenos, incorporação imobiliária, construção de prédios destinados à venda, bem como a venda de imóveis construídos ou adquiridos para a revenda, desde que esses acréscimos sejam apurados por meio de índices ou coeficientes previstos em contrato.
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 151, DE 9 DE JUNHO DE 2014.
+
+Dispositivos Legais: Lei nº 9.249, de 1995, art. 15; Lei nº 11.196, de 2005, art. 34; Decreto-lei nº 1.598, de 1977, arts. 27 a 29; Lei nº 8.981, de 1995, art. 30; Instrução Normativa RFB nº 1.435, de 2013, art. 5º.
+
+CARLOS HENRIQUE DE OLIVEIRA Chefe

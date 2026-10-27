@@ -1,0 +1,38 @@
+---
+titulo: "Solução de Consulta Disit/SRRF04 nº 4008, de 22 de março de 2018"
+orgao: "Divisão de Tributação da 4ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "4008"
+data: "2018-03-22"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 23/03/2018, seção 1, página 35"
+data_publicacao: "2018-03-23"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/90957/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/90957/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "90957"
+sha256_texto: "533018cd844fac4eaa853b2028b8cbec2b9f67c075d2fde35a39848fae194b84"
+baixado_em: "2026-10-16"
+---
+# Solução de Consulta Disit/SRRF04 nº 4008, de 22 de março de 2018
+
+Assunto: Contribuições Sociais Previdenciárias CONTRATAÇÃO DE SERVIÇOS PRESTADOS POR MICROEMPREENDEDOR INDIVIDUAL. Contribuição Previdenciária Patronal. A partir de 1º de julho de 2009, a empresa contratante de Microempreendedor Individual (MEI), para prestação de serviços de hidráulica, eletricidade, pintura, alvenaria, carpintaria e de manutenção ou reparo de veículos, está obrigada a recolher a respectiva Contribuição Previdenciária Patronal (CPP). Relativamente à contratação de MEI para execução de serviços diversos dos já mencionados, a CPP era exigível a partir de 9 de fevereiro de 2012, nos termos da Lei Complementar nº 139, de 2011, mas essa exação foi revogada retroativamente pela Lei Complementar nº 147, de 2014. Se as correspondentes contribuições tiverem sido recolhidas com vinculação inequívoca à obra e devidamente declaradas em Guia de Recolhimento do Fundo de Garantia do Tempo de Serviço e Informações à Previdência Social (GFIP), a remuneração paga poderá ser deduzida da Remuneração da Mão de Obra Total (RMT). Entretanto, é necessário o cumprimento dos requisitos legais, tais como a utilização da Declaração e Informação sobre Obra (DISO). VINCULAÇÃO ÀS SOLUÇÕES DE CONSULTA COSIT Nº 108, DE 1º DE AGOSTO DE 2016, E Nº 66, DE 20 DE JANEIRO DE 2017. Dispositivos Legais: Lei Complementar nº 123, de 2006, art. 18-B, § 1º; Lei Complementar nº 139, de 2011; Lei Complementar nº 147, de 2014, art. 12; Lei nº 8.212, de 1991, art. 22, III, e 32; Decreto nº 3.048, de 1999, art. 255; Resolução CGSN nº 94, de 2011, art. 104-C; Instrução Normativa RFB nº 971, de 2009, art. 3º, 4º, IV, 9º, XXXV, 47, 72, III, 201, § 1º, 322, 338 a 340, 342, 351 a 363, 456 e 460.
+
+Assunto: Contribuições Sociais Previdenciárias
+
+CONTRATAÇÃO DE SERVIÇOS PRESTADOS POR MICROEMPREENDEDOR INDIVIDUAL. Contribuição Previdenciária Patronal.
+
+A partir de 1º de julho de 2009, a empresa contratante de Microempreendedor Individual (MEI), para prestação de serviços de hidráulica, eletricidade, pintura, alvenaria, carpintaria e de manutenção ou reparo de veículos, está obrigada a recolher a respectiva Contribuição Previdenciária Patronal (CPP).
+
+Relativamente à contratação de MEI para execução de serviços diversos dos já mencionados, a CPP era exigível a partir de 9 de fevereiro de 2012, nos termos da Lei Complementar nº 139, de 2011, mas essa exação foi revogada retroativamente pela Lei Complementar nº 147, de 2014.
+
+Se as correspondentes contribuições tiverem sido recolhidas com vinculação inequívoca à obra e devidamente declaradas em Guia de Recolhimento do Fundo de Garantia do Tempo de Serviço e Informações à Previdência Social (GFIP), a remuneração paga poderá ser deduzida da Remuneração da Mão de Obra Total (RMT). Entretanto, é necessário o cumprimento dos requisitos legais, tais como a utilização da Declaração e Informação sobre Obra (DISO).
+
+VINCULAÇÃO ÀS SOLUÇÕES DE CONSULTA COSIT Nº 108, DE 1º DE AGOSTO DE 2016, E Nº 66, DE 20 DE JANEIRO DE 2017.
+
+Dispositivos Legais: Lei Complementar nº 123, de 2006, art. 18-B, § 1º; Lei Complementar nº 139, de 2011; Lei Complementar nº 147, de 2014, art. 12; Lei nº 8.212, de 1991, art. 22, III, e 32; Decreto nº 3.048, de 1999, art. 255; Resolução CGSN nº 94, de 2011, art. 104-C; Instrução Normativa RFB nº 971, de 2009, art. 3º, 4º, IV, 9º, XXXV, 47, 72, III, 201, § 1º, 322, 338 a 340, 342, 351 a 363, 456 e 460.
+
+FLÁVIO OSÓRIO DE BARROS Chefe
