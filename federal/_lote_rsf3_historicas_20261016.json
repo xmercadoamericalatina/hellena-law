@@ -1,0 +1,62 @@
+{
+  "documentos": [
+    {
+      "path": "federal/resolucoes-senado/1982/rsf-23-1982-08-16.md",
+      "sha256_arquivo": "a5993586d35cee43b19b0b013e9ae475d18f6504e82535494a56027893e6cffe",
+      "urn": "urn:lex:br:senado.federal:resolucao:1982-08-16;23",
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=4527&download=true#page=18",
+      "sha256_pdf_fonte": "395dafeddad4834e55bd8aba22ec283ec70c8fb30e689b3eae7bca724035a0ad",
+      "render": {
+        "path": "federal/_fonte/senado-anais/diario4527-page18-historico-verificado.png",
+        "sha256_arquivo": "90741b92cc338d65cb78465c961bcfe854d19d7ee707485ef730fb73b1d9491f"
+      }
+    },
+    {
+      "path": "federal/resolucoes-senado/1982/rsf-65-1982-09-30.md",
+      "sha256_arquivo": "f4aee0dfcdf197c72d1df2fa0bd141a5328ebc66d232f1e78684838b9d0fc291",
+      "urn": "urn:lex:br:senado.federal:resolucao:1982-09-30;65",
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=4550&download=true#page=6",
+      "sha256_pdf_fonte": "ddfe9785a5b4f6c9702ea417ba5268d11594ec14689dcb325f9ec3ccb9a65476",
+      "render": {
+        "path": "federal/_fonte/senado-anais/diario4550-page6-historico-verificado.png",
+        "sha256_arquivo": "316be1687c8ac647505acc11505c27fc093d2a3c4528242163dee09f725e6909"
+      }
+    },
+    {
+      "path": "federal/resolucoes-senado/1982/rsf-66-1982-09-30.md",
+      "sha256_arquivo": "03048fa995c94f25aff5ae78e26b09af1d5913bde6a79ae6cb4664ae83d1e561",
+      "urn": "urn:lex:br:senado.federal:resolucao:1982-09-30;66",
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=4550&download=true#page=6",
+      "sha256_pdf_fonte": "ddfe9785a5b4f6c9702ea417ba5268d11594ec14689dcb325f9ec3ccb9a65476",
+      "render": {
+        "path": "federal/_fonte/senado-anais/diario4550-page6-historico-verificado.png",
+        "sha256_arquivo": "316be1687c8ac647505acc11505c27fc093d2a3c4528242163dee09f725e6909"
+      }
+    }
+  ],
+  "scripts_publicar": [
+    {
+      "path": "scripts/baixar_rsf_historicas.py",
+      "sha256_arquivo": "b396916054b96fcdbd639c6e76cce4a1208c0eecde28b0b6d749f05dcc2df4ea"
+    }
+  ],
+  "transcricoes_publicar": [
+    {
+      "path": "federal/_transcricoes_rsf_historicas.json",
+      "sha256_arquivo": "53b77f59b974ffa7cfaf6de0fa15486dde6838a8138c0aa3b28b1f50f2d8f1e5"
+    }
+  ],
+  "ledgers_publicar": [
+    {
+      "path": "federal/_recuperacoes_rsf_historicas.jsonl",
+      "sha256_arquivo": "453903ff5708b8290ff966572e41bc0b75d1853923480a5b8dfe1e59ab58ee4f"
+    }
+  ],
+  "validacao": {
+    "auditar_validar_erros": 0,
+    "ast": true,
+    "reproducao_offline": true
+  },
+  "separado_do_lote9": true,
+  "congelado": true
+}

@@ -1,0 +1,42 @@
+{
+  "documentos": [
+    {
+      "path": "federal/resolucoes-senado/1967/rsf-48-1967-06-01.md",
+      "sha256_arquivo": "8f0a0c1a825eae224b4bc59f91dd3f2169fd428c78a8b958f062f704a2411e0d"
+    }
+  ],
+  "scripts_publicar": [
+    {
+      "path": "scripts/baixar_rsf_data_incerta.py",
+      "sha256_arquivo": "d7894d55a30e8a8af915803ad4a169d0bc6dc8dad12298bb2d31e3c1a9958a2c"
+    }
+  ],
+  "transcricoes_publicar": [
+    {
+      "path": "federal/_transcricoes_rsf_data_incerta.json",
+      "sha256_arquivo": "0cecd7c869755746fc6f8c23220f596c45bee9890ccedea8880780b756035c61"
+    }
+  ],
+  "ledgers_publicar": [
+    {
+      "path": "federal/_recuperacoes_rsf_data_incerta.jsonl",
+      "sha256_arquivo": "44733eedf9867add61f62ff093f7f29416af46f2f67c5bc5300805f272f9d741"
+    }
+  ],
+  "provas_cache": [
+    {
+      "path": "federal/_fonte/auditorias/rsf48-1967-divergencia-original-20261016.json",
+      "sha256_arquivo": "7034d25f084b4d0bcc312091e7f5898eb8d95cbda35b6eec890db5c9027e2d60"
+    }
+  ],
+  "validacao": {
+    "auditar_validar_erros": 0,
+    "aviso_data_ausente_explicita": true,
+    "reproducao_offline": true,
+    "ast": true
+  },
+  "data_desconhecida": true,
+  "urn_e_caminho_primarios_preservados": true,
+  "congelado": true,
+  "separado_dos_lotes9e3": true
+}

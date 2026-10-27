@@ -1,0 +1,44 @@
+{
+  "escopo": "Retenção comprovada de identidade, somenteleitura; sequencial de origem não basta como identidade, metas não alteradas.",
+  "retidos": [
+    {
+      "path": "federal/decretos-nao-numerados/2010/dec-sn-2010-11-12-s12.md",
+      "sha256_md": "fa499119440a82b95ecfb204cee3db1ad5d7ee9add197ec63cf8583eb74ae775",
+      "urn_publicada": "urn:lex:br:federal:decreto:2010-11-12;seq-sf-12",
+      "id_senado_publicado": "580662",
+      "indice_publicado": {
+        "id": "580662",
+        "tipo": "DEC-sn",
+        "descricao": "Decreto não Numerado",
+        "sequencia": "12",
+        "norma": "DEC-2010-11-12-s12",
+        "normaNome": "Decreto  de 12/11/2010 ( seq-sf: 12 )",
+        "ementa": "DECLARA DE UTILIDADE PUBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONARIA AUTOPISTA LITORAL SUL S.A., OS IMOVEIS QUE MENCIONA, LOCALIZADOS NO MUNICIPIO DE ITAPEMA, NO ESTADO DE SANTA CATARINA, NECESSARIOS A EXECUÇÃO DAS OBRAS DE IMPLANTAÇÃO DA MARGINAL SUL DE ITAPEMA, NAS IMEDIAÇÕES DO KM 147+000M DA RODOVIA GOVERNADOR MARIO COVAS, BR-101/SC.",
+        "dataassinatura": "12/11/2010",
+        "anoassinatura": "2010",
+        "apelido": "DEC-2010-11-12-s12"
+      },
+      "status": "identidade_corpo_diverge_metadados_publicados",
+      "evidencia": "Cabeçalho/índice esperamAutopistaLitoralSul/Itapema/SC,marginalSulkm147+000daBR101; ementa eArt1próprios doMD sãoAutopistaFernãoDias/PousoAlegre/MG,CCO daBR381. Corpo corresponde àidentidade11índice, ID576839.",
+      "identidade_corpo_real": {
+        "urn_indice": "urn:lex:br:federal:decreto:2010-11-12;seq-sf-11",
+        "indice": {
+          "id": "576839",
+          "tipo": "DEC-sn",
+          "descricao": "Decreto não Numerado",
+          "sequencia": "11",
+          "norma": "DEC-2010-11-12-s11",
+          "normaNome": "Decreto  de 12/11/2010 ( seq-sf: 11 )",
+          "ementa": "DECLARA DE UTILIDADE PUBLICA, PARA FINS DE DESAPROPRIAÇÃO, EM FAVOR DA CONCESSIONARIA AUTOPISTA FERNÃO DIAS S.A., OS IMOVEIS QUE MENCIONA, LOCALIZADOS NO MUNICIPIO DE POUSO ALEGRE, NO ESTADO DE MINAS GERAIS, NECESSARIOS A EXECUÇÃO DAS OBRAS DE IMPLANTAÇÃO DO CENTRO DE CONTROLE OPERACIONAL - CCO NA RODOVIA FERNÃO DIAS, BR-381/MG.",
+          "dataassinatura": "12/11/2010",
+          "anoassinatura": "2010",
+          "apelido": "DEC-2010-11-12-s11"
+        },
+        "fonte_alternativa": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/dnn/dnn12932.htm",
+        "sha256_fonte_alternativa": "5c53acad8058553df72eb306e05b635284d77c4b9d46f5df69ae4887e891d0af"
+      },
+      "sha256_fonte_cache_publicada": "606d729af4e87f33e783f4bcb2ff62fe9cc90b3a165ba1a08151b1183edb1b61",
+      "acao": "Excluir publicado12da contagem apta até reparar o corpo deItapema; manter texto histórico. Só criar11com reparo12coordenado para não duplicar PousoAlegre."
+    }
+  ]
+}

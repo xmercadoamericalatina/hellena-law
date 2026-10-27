@@ -1,0 +1,36 @@
+{
+  "escopo": "232 decretos publicados da rodada1945, auditoria adicional de imagens e remissões próprias a suplemento ausente. Não altera texto histórico.",
+  "resumo": {
+    "auditados": 232,
+    "elementos_visuais": 0,
+    "nova_pendencia": 1,
+    "pendencia_anterior_20176": 1
+  },
+  "invalidacoes_aptidao": [
+    {
+      "path": "federal/decretos/1945/dec-20170-1945-12-10.md",
+      "manifesto": "federal/_auditoria_integridade_232_20261020.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1945/dec-20170-1945-12-10.html.gz",
+      "sha256_fonte_html": "975fdcbdc979c1b146ac38e0ceed8faab264d5256a9d296dd08d43587de12b3c",
+      "urn": "urn:lex:br:federal:decreto:1945-12-10;20170",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1945-12-10;20170",
+      "sha256": "e12e8c648a29e1d4b5e0ff744ada049c5355da456c98a9120a3f1038b789028f",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "o de janeiro, necessarios as obras de construcao de uma ponte sobre o rio bengala, segundo o tracado indicado na planta que com este baixa, devidamente rubricada.",
+        "fecho": "rio de janeiro, em 10 de dezembro de 1945; 124º da independencia e 57º da republica.",
+        "apos_fecho": [
+          "jose linhares",
+          "mauricio joppert da silva"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "DOU/CLBR original e eventual planta anexada, via Câmara ou Senado",
+          "status": "Ainda não localizada captura integral; recuperação pendente"
+        }
+      ]
+    }
+  ],
+  "pendencia_ja_documentada": "Decreto20.176/1945: nota diplomática ausente nas transcrições Senado e Câmara; aviso e fontes preservados na auditoria232 anterior."
+}

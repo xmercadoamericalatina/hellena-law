@@ -1,0 +1,564 @@
+{
+  "escopo": "Quinze retenções cumulativas adicionais do lote 012: substitui a seleção preliminar de seis casos com o replay ampliado. Preserva MDs/fontes e o overlay anterior.",
+  "resumo": {
+    "retidos": 15,
+    "guard_objetos_proprios": 14,
+    "material_de_outra_norma": 1
+  },
+  "overlay_anterior": {
+    "path": "federal/_overlay_contexto_integridade_012_20261021_001.json",
+    "sha256": "3388db211e2cb06e6b1897d40920440e2a26a78f7f21797cce24149a5f8fec0b"
+  },
+  "registros": [
+    {
+      "path": "federal/decretos/1952/dec-30691-1952-03-29.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1952-03-29;30691",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-03-29;30691",
+      "url_texto": "https://normas.leg.br/api/binario/6847b74b-982f-44d7-9d80-57f26b5fc222/texto",
+      "sha256": "724eb74c69a8df6a8c49d7d0e0c769841f0aca3754c3cb18255a099fbe5db51b",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "0ef7060e6f7d6a23a8f677c88ffee93c186c646c0671a1d4170f50baedfec429",
+      "sha256_metadados": "49523358e93f3bcd82d3f760020022f9155ae319fd43bd624d0f4b1d0288ccc1",
+      "captura_metadados": "federal/_fonte/metadados-normas/29b8c8793d0fcb4ce8dbe33b3ef225f6d56eb5801c41454b9c1a49cbf888ea36/49523358e93f3bcd82d3f760020022f9155ae319fd43bd624d0f4b1d0288ccc1.json.gz",
+      "epigrafe": {
+        "numero": "30691",
+        "data": "1952-03-29",
+        "epigrafe": "DECRETO N. 30.691 - DE 29 DE MARÇO DE 1952"
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Art. 832 determina carimbos conforme os modelos anexos; a transcrição termina em ponteiro CLBR pp. 486–492 Carimbos, sem os desenhos.",
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1951/dec-30357-1951-12-31.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1951-12-31;30357",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-12-31;30357",
+      "url_texto": "https://normas.leg.br/api/binario/769454f7-91cf-407e-b59f-73c8f1f994e4/texto",
+      "sha256": "b373f8f22e200b66e02a9f1c55e2aca673961c215b5a41c7c077221b4ea12211",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "02405cfe06101d4d3abf628ff9af3bfaa1d645a75f1511efa585608784de2753",
+      "sha256_metadados": "b0483c473f522406eae44c59d14c24a0d5de98ffc6d19f170a6c5ebc77a4900b",
+      "captura_metadados": "federal/_fonte/metadados-normas/18849e5782b0c8ca677d782b30ccb50266be41f480e763b8c4b6a1c34517dc7b/b0483c473f522406eae44c59d14c24a0d5de98ffc6d19f170a6c5ebc77a4900b.json.gz",
+      "epigrafe": {
+        "numero": "30357",
+        "data": "1951-12-31",
+        "epigrafe": "decreto nº 30.357, de 31 de dezembro de 1951."
+      },
+      "tabelas": 3,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Após as tabelas de gratificação do Ministério das Relações Exteriores, a fonte emenda fragmento a partir de alínea d e art. 254 de regulamento da Escola de Aeronáutica, encerrado em 02/04/1952. Não corresponde a suplemento próprio da gratificação.",
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1951/dec-30163-1951-11-13.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1951-11-13;30163",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-11-13;30163",
+      "url_texto": "https://normas.leg.br/api/binario/4864e835-3e62-4fad-b43e-bf90fca661fa/texto",
+      "sha256": "57ceca9624266518da019331c0dd38a701bcb98123d39d120cbb0e5236fd318d",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "02a1ad184caef03314aef1abe038813d4838a3b660989092cfe540dcbe195c6b",
+      "sha256_metadados": "df3b816f069d5346b72685b87f62e0471a9a7bb6e8300001c76b9ccc1e231b0d",
+      "captura_metadados": "federal/_fonte/metadados-normas/c277bd917153dac408018898815c440049ef041bea2ad0dd9fe38064457e4b96/df3b816f069d5346b72685b87f62e0471a9a7bb6e8300001c76b9ccc1e231b0d.json.gz",
+      "epigrafe": {
+        "numero": "30163",
+        "data": "1951-11-13",
+        "epigrafe": "DECRETO N. 30.163 – DE 13 DE NOVEMBRO DE 1951"
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Regulamento de uniformes remete ao símbolo e figuras próprios; a transcrição contém ponteiros CLBR p. 93 Símbolo Fig. 01 e pp. 117–140 Figuras, sem as ilustrações.",
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1951/dec-29736-1951-06-03.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1951-06-03;29736",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-03;29736",
+      "url_texto": "https://normas.leg.br/api/binario/3671e317-e74a-44a3-a18c-ae550a1c9c70/texto",
+      "sha256": "8b31df121cbe08750f23509d464a5372ef4db53dd9087921d17d7b531ce4107a",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "316b3615f7d8149ada5ccf8f562b058f4441a77e36cfce55502ec494a79aa418",
+      "sha256_metadados": "50ee83e6c0de031cce088c1fc84993609fb9d8aadc1361a6779df3c7aac9171b",
+      "captura_metadados": "federal/_fonte/metadados-normas/16e2bfc9ba287ba10d51c1e1bafcd01e979d72101b0e8e5d3af4d3775ef268d7/50ee83e6c0de031cce088c1fc84993609fb9d8aadc1361a6779df3c7aac9171b.json.gz",
+      "epigrafe": {
+        "numero": "29736",
+        "data": "1951-06-03",
+        "epigrafe": "DECRETO Nº 29.736, DE 3 DE JUNHO DE 1951."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Anexos I e II próprios, que identificam funções extintas e mantidas, não aparecem na transcrição. Código administrativo informa 03/07/1951, mas epígrafe, índice e metadados consultados dizem 03/06/1951; identidade cronológica exige fonte independente.",
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1951/dec-29081-1951-01-04.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1951-01-04;29081",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-01-04;29081",
+      "url_texto": "https://normas.leg.br/api/binario/d12b1a49-634d-4ad4-bcc7-d3c5b8d4c17f/texto",
+      "sha256": "3f45940cad875aa3c5656d9a610531af6d0a0a019db24cc9f91d27320264cfa7",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "c863ebb9ae2b96f5e0e1b7f4eefb2c3586ceecf73277ac14eec556957d293cd4",
+      "sha256_metadados": "b93e69bbabdaa2eb3ddc6e5ae127e930f6a414a2587adc154f42d4e865b638bf",
+      "captura_metadados": "federal/_fonte/metadados-normas/5c014259ec4c6178f475abf4cee44a6d5bf1c0b0a485eb008b9e9b900be56a2e/b93e69bbabdaa2eb3ddc6e5ae127e930f6a414a2587adc154f42d4e865b638bf.json.gz",
+      "epigrafe": {
+        "numero": "29081",
+        "data": "1951-01-04",
+        "epigrafe": "DECRETO N. 29.081 – DE 4 DE JANEIRO DE 1951"
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Relação nominal que determina a alteração da tabela de mensalistas ausente; apenas ponteiro CLBR pp. 4–16.",
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1950/dec-29004-1950-12-19.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1950-12-19;29004",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1950-12-19;29004",
+      "url_texto": "https://normas.leg.br/api/binario/27dd710a-3764-4608-a348-d5e4aaa86165/texto",
+      "sha256": "b4b797d4ba2d6b407c454e61f64389b111d0d522d1b9dad642f4ba1ce9c64443",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "4e7185c5d710aa45fddbe248d2f766f7ff36f56c06571c81a94ef580e0b8d853",
+      "sha256_metadados": "24dd0dd87d77035b9894df8b7f5ffe46f6a1b57a768d4a00d7fb9f0a00d97944",
+      "captura_metadados": "federal/_fonte/metadados-normas/2d8670c6b5eff6ba2882e31abe5fb4d82c4161150080ad4c4b14ca1dc64410f9/24dd0dd87d77035b9894df8b7f5ffe46f6a1b57a768d4a00d7fb9f0a00d97944.json.gz",
+      "epigrafe": {
+        "numero": "29004",
+        "data": "1950-12-19",
+        "epigrafe": "DECRETO N. 29.004 – DE 19 DE DEZEMBRO DE 1950"
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Relação nominal que determina a alteração da tabela de mensalistas ausente; apenas ponteiro CLBR pp. 389–392.",
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1951/dec-29784-1951-07-19.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1951-07-19;29784",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-07-19;29784",
+      "url_texto": "https://normas.leg.br/api/binario/10f7a806-1c4b-4888-a87f-4096fddbcfa2/texto",
+      "sha256": "b6482ae398905481594ebcdf5b67c163acf750bc76269b50a3f6ba728304222a",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "194c31ff7d39dc8a335d6f61ac099a40349f47e3a0e65ed903e11b54bdf431ec",
+      "sha256_metadados": "f9982f6fd0402a5f5fb69c96f58a11997a4982bba8698ca8a88ad1a297d4f689",
+      "captura_metadados": "federal/_fonte/metadados-normas/5311d00a0d688e183ee4546eacc6ae7f0ff4aab6a3a794c337475f3680eeb030/f9982f6fd0402a5f5fb69c96f58a11997a4982bba8698ca8a88ad1a297d4f689.json.gz",
+      "epigrafe": {
+        "numero": "29784",
+        "data": "1951-07-19",
+        "epigrafe": "decreto nº 29.784, de 19 de julho de 1951."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "as e suprimidas na tabela unica de mensalista do ministerio do trabalho, industria e comercio, as funcoes constantes do anexo i deste decreto, cujos ocupantes foram admitidos a titulo precario na forma do artigo 2º do decreto-lei nº 5.175, de 7 de janeiro de 19",
+        "fecho": "rio de janeiro, 19 de julho de 1951; 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "danton coelho"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1951/dec-29795-1951-07-19.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1951-07-19;29795",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-07-19;29795",
+      "url_texto": "https://normas.leg.br/api/binario/238b8395-8573-428e-9c30-ba3bb56919fe/texto",
+      "sha256": "5a6fb89c38c246b0773112a42170fe0d5ce2108f3e139724c75c5b4f336f7bdd",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "0f23b9bc2f16f436232fad30cf46dc8caab8b3c45ba9579a1707310d5b011ae7",
+      "sha256_metadados": "d38fc59e88d6f7b718c8585cd4bf9201959819ba0cc4a9627348071ac78f64c6",
+      "captura_metadados": "federal/_fonte/metadados-normas/521aa7c0d8b941fa464c7202a9c3d0d2e34654154fb4b69eb48fd7326c10cf48/d38fc59e88d6f7b718c8585cd4bf9201959819ba0cc4a9627348071ac78f64c6.json.gz",
+      "epigrafe": {
+        "numero": "29795",
+        "data": "1951-07-19",
+        "epigrafe": "DECRETO Nº 29.795, DE 19 DE JUlHO DE 1951."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "º ficam extintas e suprimidas na tabela unica de mensalistas do ministerio da educacao e saude as funcoes constantes do anexo i deste decreto, cujos ocupantes foram admitidos a titulo precario na forma do artigo 2º do decreto-lei nº 5.175, de 7 de janeiro de 19",
+        "fecho": "rio de janeiro, em 19 de julho de 1951; 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "e. simoes filho"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1951/dec-29768-1951-07-16.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1951-07-16;29768",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-07-16;29768",
+      "url_texto": "https://normas.leg.br/api/binario/28ca2c0a-e113-410c-829a-fe735e2dfa10/texto",
+      "sha256": "c6901a5908ec8484f44892011eed1f553f4318c8c378d7eac40826488f799c80",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "b22aa4b2663dc7739b4b01798ee0fa0179151956ed08bbc673ba6f45f734fa03",
+      "sha256_metadados": "43c976e0d1b131d02dbc9cb6ed96bf8198c1a8275f4a1444bb3c3b0f271c4571",
+      "captura_metadados": "federal/_fonte/metadados-normas/edb512f775ef207ab6dbcdcb582ab2063611a9be159ae94c178ae45d00c5b411/43c976e0d1b131d02dbc9cb6ed96bf8198c1a8275f4a1444bb3c3b0f271c4571.json.gz",
+      "epigrafe": {
+        "numero": "29768",
+        "data": "1951-07-16",
+        "epigrafe": "DECRETO Nº 29.768, DE 16 DE JULHO DE 1951."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "t. 1º ficam extintas e suprimidas na tabela unica de mensalistas do ministerio da aeronautica, as funcoes constantes do anexo i deste decreto, cujos ocupantes foram admitidos a titulo precario na forma do artigo 2º do decreto-lei nº 5.175, de 7 de janeiro de 19",
+        "fecho": "rio de janeiro, em 16 de julho de 1951, 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "nero moura"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1951/dec-29739-1951-07-09.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1951-07-09;29739",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-07-09;29739",
+      "url_texto": "https://normas.leg.br/api/binario/33b20913-bf58-47e6-a71b-6f2447ab74ae/texto",
+      "sha256": "3287041c8589e3f105b8f35486c37df33ba7f8e84ce349b5eee9aae48aace65e",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "2e3f3ce83566827ac0f8fae0b55917818f55266412059f3e6df80fb46d6cdf5d",
+      "sha256_metadados": "113240741dfabe56e2be86497c8d8ac91798350b8f85943cd145a2132a2ec842",
+      "captura_metadados": "federal/_fonte/metadados-normas/2c57e29a8b742186d22f14b60804326c4a732d490e478673ef3848f445b30877/113240741dfabe56e2be86497c8d8ac91798350b8f85943cd145a2132a2ec842.json.gz",
+      "epigrafe": {
+        "numero": "29739",
+        "data": "1951-07-09",
+        "epigrafe": "DECRETO Nº 29.739, DE 9 DE JULHO DE 1951."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "as e suprimidas na tabelas unica de mensalistas do ministerio da justica e negocios interiores as funcoes constantes do anexo i deste decreto, cujos ocupantes foram admitidos a titulo precario na forma do art. 2º do decreto-lei nº 5.175 de 7 de janeiro de 1943,",
+        "fecho": "rio de janeiro, em 9 de julho de 1951; 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "francisco negrao de lima"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1951/dec-29737-1951-07-03.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1951-07-03;29737",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-07-03;29737",
+      "url_texto": "https://normas.leg.br/api/binario/945b2316-5f01-41ab-9f7a-26451d4178dc/texto",
+      "sha256": "168964acb802d3e95a96d5dcb2695639f7b323af81603a20b8403da49ad3243d",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "3bf326c41ebc54c9a2f5b20e0cc4ec9dfc6d09a98b42587b49930e27a5777918",
+      "sha256_metadados": "71eccf6013e79e7c9c2d8f9994f6a2ac65ce67a7eb98916c8c4ce72dbf394d97",
+      "captura_metadados": "federal/_fonte/metadados-normas/e75e500a9f9d081f2c22cff3d744e8b66ee89ee712b49cd14db58fa3bccdc483/71eccf6013e79e7c9c2d8f9994f6a2ac65ce67a7eb98916c8c4ce72dbf394d97.json.gz",
+      "epigrafe": {
+        "numero": "29737",
+        "data": "1951-07-03",
+        "epigrafe": "DECRETO Nº 29.737, DE 3 DE JULHO DE 1951."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "unica de mensalistas do ministerio da viacao e obras publicas, a ser oportunamente organizada, as funcoes constantes do anexo ii deste decreto.\n§ 1º realizadas as provas, os atuais ocupantes das funcoes a que se refere este artigo, se nao satisfizerem as condico",
+        "fecho": "rio de janeiro, em 3 de julho de 1951, 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "alvaro de souza lima"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1951/dec-29672-1951-06-15.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1951-06-15;29672",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-15;29672",
+      "url_texto": "https://normas.leg.br/api/binario/ffb048f3-2fb5-4608-95be-68909c236abd/texto",
+      "sha256": "d7a84046cd7f044e72771549567cc71115dd05f121c0a4201fd2df55603fc453",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "94d87fefa4bbe0ec92c14447a2b646d52addfe565daf3439b7715570492275d2",
+      "sha256_metadados": "b6fb0189b73f37377bdd5cbdd5446208f1f2f2846e2489e2787cada3e572a19c",
+      "captura_metadados": "federal/_fonte/metadados-normas/2df04aa8db0afedbd83bd0ec3d9329c0f93f2804742e38c61d31f97ba3523bed/b6fb0189b73f37377bdd5cbdd5446208f1f2f2846e2489e2787cada3e572a19c.json.gz",
+      "epigrafe": {
+        "numero": "29672",
+        "data": "1951-06-15",
+        "epigrafe": "DECRETO Nº 29.672, DE 15 DE JUNHO DE 1951."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "to e consequente inclusao na nova t.u.m. a ser oportunidade organizada para aquele ministerio, as funcoes constantes do anexo deste decreto.\n§ 1º realizadas as provas, os atuais ocupantes das funcoes a que se refere este artigo, se nao satisfizerem as condico",
+        "fecho": "rio de janeiro, 15 de junho de 1951; 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "newton estilac leal"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1951/dec-29651-1951-06-08.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1951-06-08;29651",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-08;29651",
+      "url_texto": "https://normas.leg.br/api/binario/06145797-a172-4194-80aa-9b2716b719a2/texto",
+      "sha256": "3bb03b4abf041a3b24d707346df41c14864ce1506607525999efdbb575853ca3",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "e65871614b5d519ed7cddfd3c33818d7c58a1b25a362807b87f62472738daa72",
+      "sha256_metadados": "0c43cdc7d007cc1d79129046d5d06349d74e0afbffddc38c58bc6e834b3b16e3",
+      "captura_metadados": "federal/_fonte/metadados-normas/d2688412c9327237fbc63506d6377eaa827fca33a008c942264d112a3cf849d3/0c43cdc7d007cc1d79129046d5d06349d74e0afbffddc38c58bc6e834b3b16e3.json.gz",
+      "epigrafe": {
+        "numero": "29651",
+        "data": "1951-06-08",
+        "epigrafe": "DECRETO N. 29.651 - DE 8 DE JUNHO DE 1951"
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Objeto gráfico do regulamento próprio indicado apenas por placeholder bibliográfico; descrição textual ou outras tabelas não comprovam a reprodução dos desenhos, símbolos, carimbos ou figuras.",
+      "evidencia_guard": {
+        "motivo": "Objeto gráfico do regulamento próprio indicado apenas por placeholder bibliográfico; descrição textual ou outras tabelas não comprovam a reprodução dos desenhos, símbolos, carimbos ou figuras.",
+        "lacuna": "<<anexo>>clbr vol. 06 ano 1951 figuras.",
+        "estado": "revisao_documental_necessaria"
+      },
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1951/dec-29638-1951-06-05.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1951-06-05;29638",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-05;29638",
+      "url_texto": "https://normas.leg.br/api/binario/11081bfa-17e4-4e6f-b23a-f09aabd4e7d0/texto",
+      "sha256": "92888f2c97a1e8d552f9e06ae4a702a7b07ac118d76ef1334af79b68adec2ea2",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "02b03e601f5c4cd9757082267a2a62d5ee48324f46a30d29881471a7a7be0d68",
+      "sha256_metadados": "ff007e60ecf5565be5faadf940bec552b44915a9c7584fd6dfb5f48150f66140",
+      "captura_metadados": "federal/_fonte/metadados-normas/0f0c0242a2feba2cfeed054cf85d1a02803a5cbc2340ef58f26ad4e3bcfb3dbb/ff007e60ecf5565be5faadf940bec552b44915a9c7584fd6dfb5f48150f66140.json.gz",
+      "epigrafe": {
+        "numero": "29638",
+        "data": "1951-06-05",
+        "epigrafe": "DECRETO nº 29.638, DE 5 DE JUNHO DE 1951."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": ":\nart. 1º ficam extintas e suprimidas na tabela unica de mensalistas do ministerio da fazenda, as funcoes constantes do anexo i deste decreto, cujos ocupantes foram admitidos a titulo precario na forma do artigo 2º do decreto-lei nº 5.175, de 7 de janeiro de 19",
+        "fecho": "rio de janeiro, 5 de junho de 1951, 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "horacio lafer"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1951/dec-29639-1951-06-05.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1951-06-05;29639",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-05;29639",
+      "url_texto": "https://normas.leg.br/api/binario/a5dee6fd-8906-4a84-9a15-3e5c874b4974/texto",
+      "sha256": "53a248091cabe5ef9ff91a54f2ac7bc862ea6011b1151ecd71369129785ea18e",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "fa74e2d6f1c20c82a2ff81ac902ca630a036a6517c16c271dd08222db06873d0",
+      "sha256_metadados": "a17c47518abbb3665bd12d1c7fbe4d4dcbc73b6a5572337a4a33f76d2cd824d8",
+      "captura_metadados": "federal/_fonte/metadados-normas/30a6afa3c584a06d46e021067b9438dd3168f4003a60d4ff862ccddba9e8ceb9/a17c47518abbb3665bd12d1c7fbe4d4dcbc73b6a5572337a4a33f76d2cd824d8.json.gz",
+      "epigrafe": {
+        "numero": "29639",
+        "data": "1951-06-05",
+        "epigrafe": "DECRETO Nº 29.639, DE 5 DE JUNHO DE 1951."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+      "evidencia_guard": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "as e suprimidas na tabela unica de mensalistas (t.u.m.) do ministerio das relacoes exteriores, as funcoes constantes do anexo i deste decreto, cujos ocupantes foram admitidos a titulo precario na forma do artigo 2º do decreto-lei nº 5.175, de 7-1-43, e a data d",
+        "fecho": "rio de janeiro, 5 de junho de 1951; 130º da independencia e 63º da republica.",
+        "apos_fecho": [
+          "getulio vargas",
+          "joao neves da fontoura"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    }
+  ]
+}

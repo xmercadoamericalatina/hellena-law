@@ -1,0 +1,206 @@
+{
+  "overlay": "anexos_federal_publicados_20261020_001",
+  "escopo": "920 normas publicadas do lote cache001 v2: 8 com suplemento próprio ausente; auditoria restante continua. Nenhuma alteração de norma, fonte ou lista anterior.",
+  "resumo": {
+    "auditados": 920,
+    "visuais_html_encontrados": 0,
+    "integralidade_anexo_pendente": 8
+  },
+  "invalidacoes_aptidao": [
+    {
+      "path": "federal/decretos/1999/dec-3270-1999-12-01.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_001_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1999/dec-3270-1999-12-01.html.gz",
+      "sha256_fonte_html": "078722ec213644ccd02b91570d4a0be234d697c3d983a1e22b9d575382c4f217",
+      "urn": "urn:lex:br:federal:decreto:1999-12-01;3270",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1999-12-01;3270",
+      "sha256": "f21b0c78c749ae2b56574c8cb5edfa384748044385e114bc819e80f6a297e6e4",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "s do maranhao - codomar, aprovado pelo decreto nº 2.912, de 29 de dezembro de 1998, conforme demonstrativo constante do anexo a este decreto.\nart. 2º a meta de resultado primario, calculada segundo o conceito de necessidade de financiamento liquido, da companh",
+        "fecho": "brasilia, 1º de dezembro de 1999; 178º da independencia e 111º da republica.",
+        "apos_fecho": [
+          "fernando henrique cardoso",
+          "martus tavares"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto/d3270.htm",
+          "status": "Consultada: anexo representado por Image, exige preservação/transcrição validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1999/dec-3219-1999-10-22.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_001_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1999/dec-3219-1999-10-22.html.gz",
+      "sha256_fonte_html": "c8c8e9bf09caaf7e0b14c68bb23e490757d4ce98545a4100ec197417434da320",
+      "urn": "urn:lex:br:federal:decreto:1999-10-22;3219",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1999-10-22;3219",
+      "sha256": "97ff6074186c93b49eef2d8cd4411f50d41a30636115d6c7f3840a565cee8d83",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": " processamento de dados, planejamento e administracao de cartao de credito ltda., conforme demonstrativos constantes do anexo a este decreto.\nart. 2º a execucao dos gastos classificados na rubrica investimentos do programa de dispendios globais fica condiciona",
+        "fecho": "brasilia, 22 de outubro de 1999; 178º da independencia e 111º da republica.",
+        "apos_fecho": [
+          "fernando hernrique cardoso",
+          "martus tavares"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto/d3219.htm",
+          "status": "Consultada: anexo em tabelas visível"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1999/dec-3177-1999-09-16.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_001_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1999/dec-3177-1999-09-16.html.gz",
+      "sha256_fonte_html": "3a3dfba7c33b02ccf9c564b7dcef2ecaecda019906338fb8098c2e472b137082",
+      "urn": "urn:lex:br:federal:decreto:1999-09-16;3177",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1999-09-16;3177",
+      "sha256": "15b0e052a0b1a1c1e7b7b86528c54df373c8badb249d6b8d6c1d3851c5184f94",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "lhe confere o art. 84, incisos iv e vi, da constituicao,\ndecreta:\nart. 1º ficam remanejados, na forma deste artigo e do anexo a este decreto, os seguintes cargos, funcoes e gratificacoes:\ni - da presidencia da republica para a secretaria de gestao, do minister",
+        "fecho": "brasilia, 16 de setembro de 1999; 178º da independencia e 111º da republica.",
+        "apos_fecho": [
+          "fernando henrique cardoso",
+          "martus tavares",
+          "pedro parente"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto/d3177.htm",
+          "status": "Candidata oficial; ainda não consultada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1999/dec-3170-1999-09-15.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_001_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1999/dec-3170-1999-09-15.html.gz",
+      "sha256_fonte_html": "206c5579a77fd05ab380e60ab6e7e33e36917a85660e5bc016881107376384f0",
+      "urn": "urn:lex:br:federal:decreto:1999-09-15;3170",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1999-09-15;3170",
+      "sha256": "c5efbf4efa1916363f4e3beab3ffc38053f3992307759837f751e69a97ac4f64",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "eroportuaria – infraero, aprovado pelo decreto nº 2.912, de 29 de dezembro de 1998, conforme demonstrativo constante do anexo a este decreto.\nart. 2º a meta de resultado primario, calculada segundo o conceito de necessidade de financiamento liquido, da empresa",
+        "fecho": "brasilia, 15 de setembro de 1999; 158º da independencia e 111º da republica.",
+        "apos_fecho": [
+          "fernando henrique cardoso",
+          "martus tavares"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto/d3170.htm",
+          "status": "Candidata oficial; ainda não consultada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1998/dec-2852-1998-12-01.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_001_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1998/dec-2852-1998-12-01.html.gz",
+      "sha256_fonte_html": "150dc327aaa2e3592c10a2d50aeff36ba723e1c30a966755e3fa4dd10449290f",
+      "urn": "urn:lex:br:federal:decreto:1998-12-01;2852",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1998-12-01;2852",
+      "sha256": "371314a8976d46a3ac04b76df3b497481808278f124f798f00a5ae711437796b",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": " para 1998, aprovado por intermedio do decreto nº 2.453, de 6 de janeiro de 1998, conforme demonstrativos constantes do anexo a este decreto.\nart. 2º as empresas a que se refere o artigo anterior deverao observar, na execucao dos seus investimentos, o limite g",
+        "fecho": "brasilia, 1º de dezembro de 1998; 177º da independencia e 110º da republica.",
+        "apos_fecho": [
+          "fernando henrique cardoso",
+          "paulo paiva"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2852.htm",
+          "status": "Candidata oficial; ainda não consultada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1998/dec-2838-1998-11-06.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_001_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1998/dec-2838-1998-11-06.html.gz",
+      "sha256_fonte_html": "2732b2dd3dc643f8a346497614c45e5f22f086d19bbdeb88a91d633c8e026d35",
+      "urn": "urn:lex:br:federal:decreto:1998-11-06;2838",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1998-11-06;2838",
+      "sha256": "130618f04ffc71999553769c5e5ac3e13cda43073548d2462a9542db568a4eeb",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "mento.\nart. 9º os orgaos centrais da administracao penitenciaria preencherao quadro estatistico, de acordo com o modelo anexo a este decreto, devendo encaminha-lo, ate 31 de marco de 1999, ao departamento penitenciario nacional - depen, da secretaria de justic",
+        "fecho": "brasilia, 6 de novembro de 1998; 177º da independencia e 110º da republica.",
+        "apos_fecho": [
+          "fernando henrique cardoso",
+          "renan calheiros"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2838.htm",
+          "status": "Candidata oficial; ainda não consultada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1998/dec-2633-1998-06-19.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_001_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1998/dec-2633-1998-06-19.html.gz",
+      "sha256_fonte_html": "c116a205f4a8dc1723f1ab1eac8d0989ed8ffaa23517ed04ff0501aa3ec1afb9",
+      "urn": "urn:lex:br:federal:decreto:1998-06-19;2633",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1998-06-19;2633",
+      "sha256": "3070fd6a433f404dab1a46fcb61f5289f7d94c06d4117cad4a8c7c4a5ac7316a",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "a. para 1998, aprovado por intermedio do decreto nº 2.453, de 6 de janeiro de 1998, conforme demonstrativo constante do anexo a este decreto.\nart. 2º este decreto entra em vigor na data de sua publicacao.",
+        "fecho": "brasilia, 19 de junho de 1998; 177º da independencia e 110º da republica.",
+        "apos_fecho": [
+          "fernando henrique cardoso",
+          "paulo paiva"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2633.htm",
+          "status": "Candidata oficial; ainda não consultada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1998/dec-2492-1998-02-09.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_001_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1998/dec-2492-1998-02-09.html.gz",
+      "sha256_fonte_html": "20db982f5fe75a4bdc53c790f8d51b49ef5c2f96598022ecdac63db74b010379",
+      "urn": "urn:lex:br:federal:decreto:1998-02-09;2492",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1998-02-09;2492",
+      "sha256": "ac9dfeecd61b8d6bf764cdaa40e5324f14dc72e825b6b90a6e7e1113abc6bf39",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "mos basicos para os produtos agricolas da safra de verao e para os produtos regionais - 1997/98 sao os relacionados nos anexos a este decreto, com seus respectivos valores, especificacoes e vigencia.\nart. 2º os precos numeros serao assegurados aos produtores e ",
+        "fecho": "brasilia, 9 de fevereiro de 1998; 177º da independencia e 110º da republica.",
+        "apos_fecho": [
+          "fernando henrique cardoso",
+          "pedro malan",
+          "arlindo porto"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto/d2492.htm",
+          "status": "Candidata oficial; ainda não consultada"
+        }
+      ]
+    }
+  ],
+  "acao": "Excluir do progresso apto até obter e validar suplemento integral; preservar texto publicado e hashes anteriores. Recuperação somente em área separada com backup."
+}

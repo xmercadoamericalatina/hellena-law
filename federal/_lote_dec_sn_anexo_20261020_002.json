@@ -1,0 +1,58 @@
+{
+  "escopo": "Uma nova norma federal sem número, com os dois anexos próprios incorporados integralmente a partir do DOC oficial. Nenhum destino canônico foi alterado.",
+  "resumo": {
+    "candidatos": 1,
+    "obtidos": 1,
+    "publicaveis": 1,
+    "retidos": 0,
+    "falhas": 0
+  },
+  "publicaveis": [
+    {
+      "path": "federal/decretos-nao-numerados/2010/dec-sn-2010-09-14-s0.md",
+      "candidate": "federal/_candidatos_dec_sn_20261020_002/dec-sn-2010-09-14-s0.md",
+      "sha256_candidato": "3ed08291c348e26aa1888a09642344efe43bbc0f002b7ca13e0be779a36e0639",
+      "acao": "criar somente se o destino continuar ausente",
+      "urn": "urn:lex:br:federal:decreto:2010-09-14;seq-sf-0",
+      "id_senado": "590478",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/dnn/dnn12857.htm",
+      "sha256_fonte_html": "06208d6bfc0c8a23c3800ad52f27595e7441ee27e0aba5a0f80a4758b35e68ef",
+      "fonte_anexo": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/dnn/anexo/ANDNN12857-10.doc",
+      "sha256_fonte_anexo_doc": "68488abf5ddb9a6e7b1c5f0c9e52cede9c66cde0f505a851575ef8b13d6c9e20",
+      "tabelas_normativas_anexo": 4,
+      "linhas_por_tabela": [
+        207,
+        27,
+        205,
+        38
+      ],
+      "celulas_por_tabela": [
+        499,
+        142,
+        558,
+        157
+      ],
+      "checks": [
+        "Epígrafe e fecho próprios confirmam 14 de setembro de 2010.",
+        "Objeto e beneficiários correspondem ao índice oficial, além da URN.",
+        "Texto principal completo, com os três artigos próprios.",
+        "Todo texto visível e estrutura de tabelas preservados na conversão para Markdown.",
+        "As duas conversões independentes do DOC têm sequência visível e matrizes de células idênticas.",
+        "Mesclagens preservadas pela conversão LibreOffice; os atributos de mesclagem não são iguais entre os dois motores.",
+        "Sem conteúdo visual normativo detectado nas duas conversões.",
+        "Todos os valores e colunas estão legíveis nas onze páginas de conferência visual.",
+        "Totais dos Anexos I e II: R$ 7.650.000, com detalhamento de CDC, CDRJ e SERPRO.",
+        "Sem duplicação por URN, objeto, data ou beneficiários nas normas presentes nessa data."
+      ],
+      "prova_visual": {
+        "path": "federal/_provas_dec_sn_anexo_20261020_002/anexo-conferencia-a4.pdf",
+        "sha256": "8fc79f2e85c6d5eb5ea21a1e869bdd69d12b34222df98e20e0324b55cc436385",
+        "natureza": "PDF derivado somente para conferência visual. A largura de página da exportação HTML foi ampliada para A4 para expor as colunas. Nenhum texto ou célula foi alterado. O PDF derivado diretamente do DOC com largura de página estreita foi descartado como prova por cortar colunas."
+      }
+    }
+  ],
+  "fontes_e_conferencia": {
+    "path": "federal/_fontes_dec_sn_anexo_20261020_002.jsonl.gz",
+    "sha256": "00712cc36ccc3157271207706b18d282766b5ef8e430c71e06f52acc61d399dc"
+  }
+}

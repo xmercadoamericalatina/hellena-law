@@ -1,0 +1,202 @@
+{
+  "documentos": [
+    {
+      "path": "federal/resolucoes-senado/1978/rsf-69-1978-09-19.md",
+      "sha256_arquivo": "eae9aca9d2cc4cdd26fc03aa6b4df7067e9ed7d60b6fca6a5c57edfe12ccae3d",
+      "urn": "urn:lex:br:senado.federal:resolucao:1978-09-19;69",
+      "fonte": "https://legis.senado.leg.br/diarios/BuscaPaginasDiario?codDiario=8017&download=true#page=16",
+      "sha256_corpo": "301b5a850c830350421a57888307c3b3979ae30a85eb8d9cf0075d23f4fe6378",
+      "sha256_texto_normativo": "7bc145332d7bb85da7a19221b52ffae5fd7afc9a8499952ecc317da0b3e8cfe1",
+      "sha256_pdf_fonte": "601787e2b22bb0e036adbde1cecbfd603351ab86b604e1f7c7758cb76f29eb47",
+      "documentos_referidos_integrais": true,
+      "paginas_pdf": [
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    }
+  ],
+  "scripts_publicar": [
+    {
+      "path": "scripts/baixar_rsf69_1978.py",
+      "sha256_arquivo": "b15c851267ce9afad7c28d1a290a79a7329c70cb127587a34c666e095bbff50a"
+    }
+  ],
+  "ledgers_publicar": [
+    {
+      "path": "federal/_revisao_rsf69_anexos.jsonl",
+      "sha256_arquivo": "ceb6a67848fffc72eb38034e74e85c93a9c47b63dac1ef022e9c1ac660b8fda1"
+    }
+  ],
+  "transcricoes_publicar": [
+    {
+      "path": "federal/_transcricao_rsf69_1978.json",
+      "sha256_arquivo": "fbf137ed5d9b7ea59a15ec926b44f512e6671934345f76759a27833c6e4f0f86"
+    }
+  ],
+  "provas_cache": [
+    {
+      "path": "federal/_fonte/auditorias/rsf69-validacao-final-20261016.json",
+      "sha256_arquivo": "6a81346a1a7c2613e6e25df257ff62e17532060641f1bf356a66098c94a81d59"
+    },
+    {
+      "path": "federal/_fonte/auditorias/rsf69-revisao-independente-final.json",
+      "sha256_arquivo": "f4752e2f87d3c016ffcfed659042ee8cdb14f73aac8287153f0f1265636ba8db"
+    },
+    {
+      "path": "federal/_fonte/auditorias/rsf69-revisao-independente-base.json",
+      "sha256_arquivo": "f355515949e64a9aeeb6f60ea70cfd7c691daa904604577b8091f2b13e4bc272"
+    },
+    {
+      "path": "federal/_fonte/auditorias/rsf69-revisao-independente/crops-manifesto.json",
+      "sha256_arquivo": "72678cf4871d84cbc288b5eafde1d973dd845c15994416a8b8a47c5a508c72c4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/rsf69-ocr-modelo-por.proveniencia.json",
+      "sha256_arquivo": "5b3678d70f5186f01b941453e9c808f4bf87b76ec329e9f25c3c9e33ca94e775"
+    }
+  ],
+  "renders_revisao": [
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page16-anexos-verificado.png",
+      "sha256_arquivo": "5cec7070ad998dbc438e24aa2108e46aa4acf51cb238e26dd5d71d6d1c533642"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page17-anexos-verificado.png",
+      "sha256_arquivo": "1bbb4fed1adaf39c552853326efbde1a7afd8778e257b32ce14bd03ccad9d766"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page18-anexos-verificado.png",
+      "sha256_arquivo": "38035a46d5cbc9c4a529f7d2ee45b3fac267b449cc53a4feb9a1d68836924117"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page19-anexos-verificado.png",
+      "sha256_arquivo": "49c69a8d82e5c5397cf3275026e9ab18ce0fdb5dfbb68c2e827436d82df79527"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page20-anexos-verificado.png",
+      "sha256_arquivo": "77ce6e3d7cc1963f2fa8ff558f407d2b8c6e57ac8124bb63c3b2b787e749db1b"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page21-anexos-verificado.png",
+      "sha256_arquivo": "6c5802bb2cdc119949904299c19a051c3237aa48f66a273a0421c9a7c471c586"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page22-anexos-verificado.png",
+      "sha256_arquivo": "4f6f5c7e013f6e9d3edf5433e4b374ad64557576f0a7b39f6bfd4cebee2708ae"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page23-anexos-verificado.png",
+      "sha256_arquivo": "16843a83840f78b0cd9651c6fefce5919f0ce63ff5ea9b4479b73c1419e71f11"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page24-anexos-verificado.png",
+      "sha256_arquivo": "74d2ddd5f03c14a768cfbd30e28cf889a337858cd2aa055dc923f036e13f9fac"
+    }
+  ],
+  "extracoes_ocr_cache": [
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page16-tesseract-por.txt",
+      "sha256_arquivo": "85b7eccaf972fdf8b941fe5122156ee2ea7922706b9f1e9a3778886fe174ddb1"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page17-tesseract-por.txt",
+      "sha256_arquivo": "f1e37ff7d3617c684f57576054220e1c65dea04840dd73a2461d07772cbfd593"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page18-tesseract-por.txt",
+      "sha256_arquivo": "bbf21804f085e713192ad634b66640bc33e99d973202ee9132faf1e92060c608"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page19-tesseract-por.txt",
+      "sha256_arquivo": "6098332cc795baf66f52aafe67d0c8c7f3c0e409c6e2e86ae7c10d1cf0b50c36"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page20-tesseract-por.txt",
+      "sha256_arquivo": "272a29ab7512e291225915f1841ccbde48c836c244116540df476f908638b832"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page21-tesseract-por.txt",
+      "sha256_arquivo": "19c9992a48c84a8fb03b6e5024dd10fd93e8ed6e8484a561204170babf7f3bd6"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page22-tesseract-por.txt",
+      "sha256_arquivo": "4f55c5e94d13809457f1d09a50c5626c9b6b73f1a0251244cfe72e6852d10bc6"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page23-tesseract-por.txt",
+      "sha256_arquivo": "f85a01521921fe46450a14c930306d09e78044c94f61efdc9b97eea6557ba78c"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page24-tesseract-por.txt",
+      "sha256_arquivo": "a9c88431eaa0df06cf9e528634cbee5795a2be4bf0a2d281b0ec14b4a1a250f6"
+    }
+  ],
+  "textos_revisados_cache": [
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page16-anexos-revisado.txt",
+      "sha256_arquivo": "1818ec2cb87cce41dfd2d92d8c69e7773d1573d6e42701599ed3d22a34f37ab7"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page17-anexos-revisado.txt",
+      "sha256_arquivo": "2fadf79f86a2d4cb5945f385afe6435e4777a1e803e20bcf0c438a6d00d7c7d2"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page18-anexos-revisado.txt",
+      "sha256_arquivo": "19a978e0d0b7466ab60598bdb8a90d397135fbd2a7e44511f434dd3b5460a861"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page19-anexos-revisado.txt",
+      "sha256_arquivo": "392674526e0cee09ce06d95c26f688b3a6691da58ef6d6335904bc5a7d79c339"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page20-anexos-revisado.txt",
+      "sha256_arquivo": "4a419df70b7f07d863dfb5c7e0a39aecdeb938e973bd75f7b9828c5a0b4dcafc"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page21-anexos-revisado.txt",
+      "sha256_arquivo": "39779a5a448c814f0ab21ccd4a45005aed4f469287d65872efadebf298c1cf07"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page22-anexos-revisado.txt",
+      "sha256_arquivo": "38d73430a74319cf70d8d6464b0905963e4f52ef6e372ee7a9bce7da547b0662"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page23-anexos-revisado.txt",
+      "sha256_arquivo": "4a4b4aac7b8bb05b78706d463028eb626967987d2e63b712385b83f317c832b7"
+    },
+    {
+      "path": "federal/_fonte/senado-anais/diario8017-page24-anexos-revisado.txt",
+      "sha256_arquivo": "2d1ec6f62b9427226be9482b8c86f10d6482fee7a893250214ffc646c3f8a895"
+    }
+  ],
+  "validacao": {
+    "auditar_erros": 0,
+    "replay_offline": true,
+    "revisao_independente_integral": true,
+    "ambiguidades_restantes": 0,
+    "paginas": 9,
+    "correcoes_iniciais": 345,
+    "correcoes_independentes_e_compostos": 22
+  },
+  "excecao_estrutura": "ApenasURN69/1978,PDFSHA/normaSHA/ledgerSHAfixos; fonte sem artigos com alíneas,quantitativos,fecho e subscritores. Não generaliza aceitação de outros textos sem artigos.",
+  "grafias_e_lapsos_impressos_preservados": [
+    "Dariel é a grafia impressa comprovada em detalhe; não foi normalizada para Daniel. Quebras/hifens de fim de linha normalizados.",
+    "Número do desenho1.6731 e grafiaZeichnungsvordruk conferidos em ampliação; removidos cabeçalho/marca marginal sem conteúdo do documento.",
+    "Fonte imprimeWaeerm Christopher; grafia preservada em ampliação, sem substituir pelo nome esperado de autoridade. Conferência integral das duas colunas.",
+    "Trecho com traço ampliado: custos com reatores sobem. Mantidas formas impressas Eletric Company,a Califórnia e Mesmo esse cálculo não é equivocado; sem correção editorial.",
+    "Nome impressoCarlos Silus Martins preservado, conferido em ampliação. Número15anos conferido na coluna esquerda; demais cifras e siglas contrastadas com a página integral.",
+    "Mantidas grafias impressas nucelar e aos pais; fonte tem parêntese final sem abertura e era muito menor, preservados sem emenda. Cifras de custos/ano1971 confirmadas visualmente.",
+    "Mantidos erros da própria impressão: Calmon de São,dividos,por diversas geólogos,deficit comercia,precedência e não temos de renegociar. Cifras eAngraIII confirmados por render.",
+    "GrafiaItaipú confirmada em ampliação; valoresUS$30bilhões,US$3.000,10%e11% contrastados com render. Mantida ausência de fechamento da aspa dejet,no original.",
+    "Última fronteira confrontada: encerra-se emdores de poupança antes da declaração do Presidente e doPLS280. Fonte imprime matações,se referiu as e pôde, mantidos literalmente."
+  ],
+  "separado_dos_lotes9e3e48": true,
+  "congelado": true
+}

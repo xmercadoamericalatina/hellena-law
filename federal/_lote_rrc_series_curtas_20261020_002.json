@@ -1,0 +1,61 @@
+{
+  "escopo": "Duas normas de 1993 ausentes do índice RRC cujo recorte começa em 1994. Textos próprios recuperados de fontes oficiais, sem reduzir a meta e sem duplicar projetos ou retificações como atos novos.",
+  "resumo": {
+    "candidatos": 2,
+    "obtidos": 2,
+    "publicaveis": 2,
+    "retidos": 0,
+    "falhas": 0
+  },
+  "publicaveis": [
+    {
+      "path": "federal/resolucoes-congresso/1993/rrc-1-1993-11-18.md",
+      "urn": "urn:lex:br:congresso.nacional:resolucao:1993-11-18;1",
+      "sha256": "35bed053d288a1d16c8ddbbcf346560668012123b59235bcc4ff31e33434a9ba",
+      "id_senado": "589229",
+      "id_publicacao_senado": "15784462",
+      "fonte": "https://legis.senado.leg.br/norma/589229/publicacao/15784462",
+      "sha256_fonte_html": "9cb6ce113efc8cffe81a911bd8de5491a4e6abf54985a89fccdd44c975172ea1",
+      "preexistente_md": false,
+      "artigos_proprios": 35,
+      "checks": [
+        "Número, ano, tipo e data confirmados no cadastro e no corpo próprio.",
+        "Promulgação e assinatura próprias presentes.",
+        "Sem tabelas ou conteúdo visual normativo omitido.",
+        "Texto integral preservado, com a divergência do HTML e do fac-símile explicitamente atribuída quando existente.",
+        "Sem duplicação por URN, número, data ou objeto nos MD presentes."
+      ],
+      "observacao_publicacao": null
+    },
+    {
+      "path": "federal/resolucoes-congresso/1993/rrc-2-1993-12-07.md",
+      "urn": "urn:lex:br:congresso.nacional:resolucao:1993-12-07;2",
+      "sha256": "9a6f38bc9d043faaddec1cc4fc08d7f84958ac2d97b7d99d1bf26c286a539eba",
+      "id_senado": "589231",
+      "id_publicacao_senado": "15784509",
+      "fonte": "https://www.senado.leg.br/publicacoes/anais/constituinte/diarios-revisionais/Diarios_dos_trabalhos_revisionais_1994_no_16_03FEV1994.pdf",
+      "sha256_fonte_html": "fb756496cb5de0343d9eff2c9ba28e43c45f1b0f0562eb28d3898ecbeb1b8399",
+      "preexistente_md": false,
+      "artigos_proprios": 2,
+      "checks": [
+        "Número, ano, tipo e data confirmados no cadastro e no corpo próprio.",
+        "Promulgação e assinatura próprias presentes.",
+        "Sem tabelas ou conteúdo visual normativo omitido.",
+        "Texto integral preservado, com a divergência do HTML e do fac-símile explicitamente atribuída quando existente.",
+        "Sem duplicação por URN, número, data ou objeto nos MD presentes."
+      ],
+      "observacao_publicacao": "O fac-símile do Diário dos Trabalhos Revisionais de 3 de fevereiro de 1994, página inicial (página 563 no cadastro), republica integralmente esta resolução por omissão da publicação de 8 de dezembro de 1993, página 215. A expressão \"passam a ser\" segue o fac-símile, conferido visualmente; o HTML Sigen omite o \"a\". O HTML original permanece preservado no recibo, sem alteração."
+    }
+  ],
+  "diagnostico_indice": "scripts/indice_federal.py configura RRC desde 1994; os cadastros oficiais 589229 e 589231 comprovam normas de 1993. A meta de 95 permanece inalterada e quatro atos da diferença ainda precisam de investigação.",
+  "provas": [
+    {
+      "path": "federal/_provas_rrc_1993_20261020_002/rrc-2-1993-publicacao-integral-1994-02-03.png",
+      "sha256": "5ba9571c3af60955e1c66368c3ca2dbc7476c40933ec3c9a3754be58925cbaca"
+    }
+  ],
+  "receipts": {
+    "path": "federal/_receipts_rrc_series_curtas_20261020_002.jsonl.gz",
+    "sha256": "0eb0f17ab96dc095cb76402ddfe5c8b47bedac6202a6677c740200c94c7ae93f"
+  }
+}

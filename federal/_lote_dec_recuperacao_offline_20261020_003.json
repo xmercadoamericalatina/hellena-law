@@ -1,0 +1,4235 @@
+{
+  "lote": "lote_dec_recuperacao_offline_20261020_003",
+  "origem": "Revisão documental complementar offline dos retidos do lote offline002; nenhuma nova requisição HTTP, nenhuma inferência de mês a partir de citação/anexo.",
+  "publicaveis": [
+    {
+      "path": "federal/decretos/1999/dec-3250-1999-11-17.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1999-11-17;3250",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1999-11-17;3250",
+      "url_texto": "https://normas.leg.br/api/binario/aecafccc-75a4-4cce-b366-b4cacd7a9e25/texto",
+      "sha256": "2c9912a502ccb62ef48005a40f98270dfe5734671dc832a431d62f5ba67dbd82",
+      "sha256_anterior": "89d20fea21b807c3a7ffc8fabffb5f8d022edf8096c36135d4cb4d8f1451d93b",
+      "sha256_fonte_html": "f5a6153373b86a9038b9173d934053bb2494ec4a6d8bd9f83781ff95b4d1aebb",
+      "sha256_metadados": "37d6e18a76047171a1aaf06bd80886f5841c2ab4db382916e8e00c7f0536cc18",
+      "captura_metadados": "federal/_fonte/metadados-normas/6858ce91600f7445e3b59ff474c0e59a0df7c0eff47df25c50894f5bd8bf7c1a/37d6e18a76047171a1aaf06bd80886f5841c2ab4db382916e8e00c7f0536cc18.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "3250",
+          "texto": "DECRETO Nº 3.250, DE 17 DE NOVEMBO DE 1999.",
+          "mes_literal": "NOVEMBO"
+        },
+        "fecho": {
+          "texto": "Brasília, 17 de novembro de 1999; 178º da Independência e 111º da República.",
+          "data": "1999-11-17"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 1,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1999/dec-3234-1999-11-08.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1999-11-08;3234",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1999-11-08;3234",
+      "url_texto": "https://normas.leg.br/api/binario/6ccef12a-79f9-4e3b-8ca1-7421277cfd64/texto",
+      "sha256": "3fe3db17da28dd667b1dcffd531b494f2bbd84e811b7da83ad1ea1a1275c2635",
+      "sha256_anterior": "a2bfd85fe6b08868b7af63b3bf6f1813d68373e5e1f6a4a815616e4309e72c73",
+      "sha256_fonte_html": "77ff203a77903f2b5a253ec47f93bdbce858e4b7e66d45ceef9c7a68025e8d8b",
+      "sha256_metadados": "cc9d78201e76c0208d669832779d349bc6a93b08ca98201d9029991b53296158",
+      "captura_metadados": "federal/_fonte/metadados-normas/28b9779c3c5b910249d3386f085d578632467d00e0cdb18c27c3728b81a45547/cc9d78201e76c0208d669832779d349bc6a93b08ca98201d9029991b53296158.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "3234",
+          "texto": "**DECRETO Nº 3.234, DE 8 DE NOBEMBRO DE 1999.**",
+          "mes_literal": "NOBEMBRO"
+        },
+        "fecho": {
+          "texto": "Brasília, 8 de novembro de 1999; 178º da Independência e 111º da República.",
+          "data": "1999-11-08"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1999/dec-3126-1999-08-02.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1999-08-02;3126",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1999-08-02;3126",
+      "url_texto": "https://normas.leg.br/api/binario/5300604d-33bb-47ec-a9a1-ac4d30c7c1d8/texto",
+      "sha256": "28cc3756cb528f7423ae33ea881f2173dc989c812562cb2d3bac1032f3ce25d4",
+      "sha256_anterior": "bbfb4e038597543bd3c55966882a6b52ddadced84c577d79f32cd8d075d9f99f",
+      "sha256_fonte_html": "a379860b4f732c986dce4035fa8a17e9ffb2cd1cd8053d5e181d91bb52d3916a",
+      "sha256_metadados": "b3ca2ba85c63c00287df1a5633f7adec125a60964c055674f32810c7887a99e4",
+      "captura_metadados": "federal/_fonte/metadados-normas/42d9b3269ab10603c9c40e505acbd9de3681b35e764b48025c035fd5c52f0884/b3ca2ba85c63c00287df1a5633f7adec125a60964c055674f32810c7887a99e4.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "3126",
+          "texto": "DECRETO Nº 3.126, DE 2 DE gosto de 1999.",
+          "mes_literal": "GOSTO"
+        },
+        "fecho": {
+          "texto": "Brasília, 2 de agosto de 1999; 178º da Independência e 111º da República.",
+          "data": "1999-08-02"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1999/dec-3044-1999-05-05.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1999-05-05;3044",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1999-05-05;3044",
+      "url_texto": "https://normas.leg.br/api/binario/f6d55312-50aa-4dc4-a8ce-09d454e823be/texto",
+      "sha256": "aab8acbe6403a251f1eeb81e6beca35095398e283ae925731a6f0090864a1c58",
+      "sha256_anterior": "a6f67b3467875d409e2baa70e183c4bdf1f45c177b039bb9dd40899fff7ed850",
+      "sha256_fonte_html": "7ea487233d653115768374a94b509f62e80f6fc535ff187279aff03324f57565",
+      "sha256_metadados": "bdc98f5c4e5832476f857a432432a2b914762d9c12e473d54b52fcc1e1ce0fb8",
+      "captura_metadados": "federal/_fonte/metadados-normas/7aa9e9b7b0b42b0c0f980dd2cf0cdeb75082ec41fe61191bf70c1b4ad4efdf09/bdc98f5c4e5832476f857a432432a2b914762d9c12e473d54b52fcc1e1ce0fb8.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "3044",
+          "texto": "DECRETO Nº 3.044, DE MAIO DE 1999.",
+          "mes_literal": null
+        },
+        "fecho": {
+          "texto": "Brasília, 5 de maio de 1999; 178º da Independência e 111º da República.",
+          "data": "1999-05-05"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1997/dec-2416-1997-12-10.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1997-12-10;2416",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1997-12-10;2416",
+      "url_texto": "https://normas.leg.br/api/binario/179daa98-6ad5-4b5e-8972-7c16cad8cf81/texto",
+      "sha256": "34cb5080637ded6cf14bdedf182d53601da3a0596748b01dd6f12c5b634ea8d5",
+      "sha256_anterior": "8ed7be42d472e31143d1e6f63234e68182bacafc02776733418a39fe5985bbbe",
+      "sha256_fonte_html": "bfd1e6788af534195293729cdb81dbca283b05acc608609109b4fca1774bc9a5",
+      "sha256_metadados": "16f282f97a26225a443b788b3b8b06574f79c183ecba357a478b55066c428d58",
+      "captura_metadados": "federal/_fonte/metadados-normas/f7db43020e851a91e1561a2b1f23120b9ae20dd6212431f38f2da426ead067d9/16f282f97a26225a443b788b3b8b06574f79c183ecba357a478b55066c428d58.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "2416",
+          "texto": "**DECRETO Nº 2.416, DE 10 DE, DEZEMBRO DE 1997**",
+          "mes_literal": ""
+        },
+        "fecho": {
+          "texto": "Brasília, 10 de dezembro de 1997; 176º da Independência e 109º da República.",
+          "data": "1997-12-10"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1997/dec-2240-1997-05-28.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1997-05-28;2240",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1997-05-28;2240",
+      "url_texto": "https://normas.leg.br/api/binario/8b24579e-ad32-46fc-87e8-ae9421407454/texto",
+      "sha256": "9d171eaebde1cc88e54d88a58ad1b312ec3136de7552ba3cd2c406d4d3b3f915",
+      "sha256_anterior": "5310390e4888b476f54548752d1763a89bc25211e8ca7e5f0db393c11b53bdaf",
+      "sha256_fonte_html": "591693f699272b1a6be17b2b06197155d41ce740bb4b964feb3a615a8bffd3e5",
+      "sha256_metadados": "20ef5dcd658b9b2249dbe20811198476cc3a52ddc9dc2a13b04eb3890006c7c2",
+      "captura_metadados": "federal/_fonte/metadados-normas/dac19540b801124c414841bbef705b0bc732f785b4e484e7d8816fb6aa477b02/20ef5dcd658b9b2249dbe20811198476cc3a52ddc9dc2a13b04eb3890006c7c2.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "2240",
+          "texto": "DECRETO Nº 2.240, DE 28 DE-MAIO DE 1997",
+          "mes_literal": ""
+        },
+        "fecho": {
+          "texto": "Brasília, 28 de maio de 1997; 176º da Independência e 109º da República.",
+          "data": "1997-05-28"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 7,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1996/dec-2072-1996-11-14.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1996-11-14;2072",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1996-11-14;2072",
+      "url_texto": "https://normas.leg.br/api/binario/ef53ee6d-6105-46fb-9920-81705c7eb4b0/texto",
+      "sha256": "9c339defd1ca7d2b6aad98bb666fa5c8937aa7a885c5b5adf582c5787d1f0382",
+      "sha256_anterior": "da4b768f57ffaec6af11023221c90fd319050aff516e4bbd00f76f1d1c8e9d33",
+      "sha256_fonte_html": "f56b764007a3d6377ecfa237b1abafb3b0bbb0dad6734824563ef0c18d2eb322",
+      "sha256_metadados": "6f006629c0f225bc65e2562ad2f56252035be970cf1ce604de6eed8cf782e9b6",
+      "captura_metadados": "federal/_fonte/metadados-normas/34afb6cdc9a04019047a0cdea9e52fa7fe03758a701032dfeab757af0873db67/6f006629c0f225bc65e2562ad2f56252035be970cf1ce604de6eed8cf782e9b6.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "2072",
+          "texto": "DECRETO Nº 2.072 , DE 14 DE NOVEMBRO DE L996.",
+          "mes_literal": "NOVEMBRO"
+        },
+        "fecho": {
+          "texto": "Brasília, 14 de novembro de 1996; 175º da Independência e 108º da República.",
+          "data": "1996-11-14"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1996/dec-2038-1996-10-15.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1996-10-15;2038",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1996-10-15;2038",
+      "url_texto": "https://normas.leg.br/api/binario/975afc3e-81c8-49fa-9a59-fc40d185984b/texto",
+      "sha256": "32fa1055b75727d163fafda5a4f2fe183904c3111a8fe29e11bc88cfcbb290b1",
+      "sha256_anterior": "c0dc1fc2825c386a0fdb353d1d3e1949e152130a35e60407e078809e17e962da",
+      "sha256_fonte_html": "6327420fc97b4acc42aba223a1e5111c358eaea1669a46c28062afcdd2d8e68d",
+      "sha256_metadados": "67606c6ac34d2a2bff03b8ede9963d5cd5bb0779b950119c4ff2dc0c58bcd450",
+      "captura_metadados": "federal/_fonte/metadados-normas/18fa15afa2ccb6db1bceb8ea299f5e339739a55ac2e67ea9fa9b6ad706020f3f/67606c6ac34d2a2bff03b8ede9963d5cd5bb0779b950119c4ff2dc0c58bcd450.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "2038",
+          "texto": "DECRETO Nº 2.038, DE 15 DE OUTUBRO DE l996.",
+          "mes_literal": "OUTUBRO"
+        },
+        "fecho": {
+          "texto": "Brasília, 15 de outubro de 1996; 175° da Independência e 108° da República.",
+          "data": "1996-10-15"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1996/dec-1976-1996-08-06.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1996-08-06;1976",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1996-08-06;1976",
+      "url_texto": "https://normas.leg.br/api/binario/193af755-298a-4b02-a0e4-9b2fbee69f6a/texto",
+      "sha256": "47a670fdf9a02c9bfdee9fa3020165e1253438ce26668c462e2e74b7d898522b",
+      "sha256_anterior": "6360e569b22a0a77eb118669512c8840e2ab46349adeae435cefe85e13729697",
+      "sha256_fonte_html": "2abbb86ecb40b209cae51e13d22b79b020804f054797b8d5349c77f1da8a6bcb",
+      "sha256_metadados": "3066a7bdf1a3864b6b22be95c1c698bab97327d1d6c127a552c252179331653a",
+      "captura_metadados": "federal/_fonte/metadados-normas/ebf43b6edf68b85a821079b2e79f308712cbdfbc7b6a230edbe8da9fdbb90319/3066a7bdf1a3864b6b22be95c1c698bab97327d1d6c127a552c252179331653a.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "1976",
+          "texto": "DECRETO Nº 1.976, DE 6 DE AGOSTO DE L996.",
+          "mes_literal": "AGOSTO"
+        },
+        "fecho": {
+          "texto": "Brasília, 6 de agosto de 1996; 175º da Independência e 108º da República.",
+          "data": "1996-08-06"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1996/dec-1899-1996-05-09.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1996-05-09;1899",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1996-05-09;1899",
+      "url_texto": "https://normas.leg.br/api/binario/386f297d-d4eb-435c-9d26-6fe7df9afc81/texto",
+      "sha256": "f179ea1460356cac3c7ac19c69fe5c060a30a23c8b8f55259a528d976bf45853",
+      "sha256_anterior": "7985387a5722c25d3e4d0483f316beba630e46685520d00d36e5c624ce77e432",
+      "sha256_fonte_html": "066f3bec3eabea26d3ed06a3d1835c2826c33d482919e96302e7a1ca4ae96409",
+      "sha256_metadados": "aa3ac4df7ced6ab8eab338504c6769514d555139a84923c2e84bdb22bbd35e3f",
+      "captura_metadados": "federal/_fonte/metadados-normas/a15850596b909ca77d00bff901fcc6736c042c678d46cebb1f1080a60ea6ab74/aa3ac4df7ced6ab8eab338504c6769514d555139a84923c2e84bdb22bbd35e3f.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "1899",
+          "texto": "DECRETO Nº 1.899 DE 9 DE MAIO DE L996.",
+          "mes_literal": "MAIO"
+        },
+        "fecho": {
+          "texto": "Brasília, 9 de maio de 1996; 175º da Independência e 108º da República.",
+          "data": "1996-05-09"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1996/dec-1876-1996-04-25.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1996-04-25;1876",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1996-04-25;1876",
+      "url_texto": "https://normas.leg.br/api/binario/88715f00-81e8-427c-8970-20d999705253/texto",
+      "sha256": "fb3bbb350520534b800bcb296a018f6c893c36463c131a276433a881217f6cc5",
+      "sha256_anterior": "106a1a45692395fb6bf83daef7414527cdb33b95343e4f0bfca769803285794a",
+      "sha256_fonte_html": "4181a2ecee0bd5869d911dcee1de87826cc996ea0cd09b70849bbf305cfc52ea",
+      "sha256_metadados": "885ab158d317413a0b2d88649975352fc3622d9e3192edf29604ca412fa79411",
+      "captura_metadados": "federal/_fonte/metadados-normas/2b56ab2217fefbb04bf2c25c248b2195f553525d076c806143c3ad77268ff94d/885ab158d317413a0b2d88649975352fc3622d9e3192edf29604ca412fa79411.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "1876",
+          "texto": "DECRETO Nº 1.876, DE 25 DE ABRIL DE L996",
+          "mes_literal": "ABRIL"
+        },
+        "fecho": {
+          "texto": "Brasília, 25 de abril de 1996; 175° da Independência e 108° da República.",
+          "data": "1996-04-25"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1996/dec-1796-1996-01-24.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1996-01-24;1796",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1996-01-24;1796",
+      "url_texto": "https://normas.leg.br/api/binario/092aac2b-60b2-4d1f-ac17-23b9e3482175/texto",
+      "sha256": "5cb2065744a34cc914f502f4d0dafcf41c3ea1f1d7b4ff401caef959f234760d",
+      "sha256_anterior": "c232e81c9165570161dbbf81cd909bced1587439818131fd6515161f2bc33485",
+      "sha256_fonte_html": "c764f5aef4bdbee31d03f4a0e477dae625de19316328bf6e1c1fa8af903bcf11",
+      "sha256_metadados": "6fcf4e02634f016cfb152f6605bc8a605d2c2e960c1ca9718d08293f3765e148",
+      "captura_metadados": "federal/_fonte/metadados-normas/0ea723ac3b2013b02662cb8b9324c05e539c1e64f847e968c5ef04564a4424a3/6fcf4e02634f016cfb152f6605bc8a605d2c2e960c1ca9718d08293f3765e148.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "1796",
+          "texto": "DECRETO N° 1.796, DE 24 DE JANEIRO DF 1996",
+          "mes_literal": "JANEIRO"
+        },
+        "fecho": {
+          "texto": "Brasília, 24 de janeiro de 1996; 175° da Independência e 108° da República.",
+          "data": "1996-01-24"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1995/dec-1680-1995-10-18.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1995-10-18;1680",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1995-10-18;1680",
+      "url_texto": "https://normas.leg.br/api/binario/201128a0-fdc1-40ea-be0f-0813170f5d0c/texto",
+      "sha256": "a9d7049e85c6bb9fbb7ddacd2d1b81ef69033df8374297acdcdbec204ca5b7cc",
+      "sha256_anterior": "cacb943472295eec17157c2b07b299406f867ffebd1e65fe484a218c0f4abc63",
+      "sha256_fonte_html": "d6a88a3601778bda8ba5a80e6f4d0a5cd75ba18029a34f57ff091246861b8f17",
+      "sha256_metadados": "ad07fa5a360a3b371fac2c5f97298581bab9c2169e53b6d17265545869fa9c53",
+      "captura_metadados": "federal/_fonte/metadados-normas/243449cbb89c5a796268c763b851decd70d4b29300f8851d98d3dbdc9abcd544/ad07fa5a360a3b371fac2c5f97298581bab9c2169e53b6d17265545869fa9c53.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "1680",
+          "texto": "DECRETO Nº 1.680, DE OUTUBRO DE 1995.",
+          "mes_literal": null
+        },
+        "fecho": {
+          "texto": "Brasília, 18 de outubro de 1995; 174º da Independência e 107º da República.",
+          "data": "1995-10-18"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1995/dec-1667-1995-10-10.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1995-10-10;1667",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1995-10-10;1667",
+      "url_texto": "https://normas.leg.br/api/binario/4ec97290-7ff6-429c-a6de-cf28abd19e54/texto",
+      "sha256": "ed4dd1dbc79fc484771ee0d338f6c59ee56fe0aafe446bc93c3405953c44c619",
+      "sha256_anterior": "2c78e28b6a88f52992b1abb963f30a4f398212f9381cbf29b1c68419cdb78580",
+      "sha256_fonte_html": "3073255bf01862527984365770099ec9be36a75ed86ac17a399d4a0705b54f4d",
+      "sha256_metadados": "7d4fd1c2fd34686a6b4d847986fb2e4c0127488c2c1bf98875ccb05a67e468e2",
+      "captura_metadados": "federal/_fonte/metadados-normas/0cb688106038be6ec01a100a6f8010ce5c3f18c4a9dea996c16c13928a8da1f5/7d4fd1c2fd34686a6b4d847986fb2e4c0127488c2c1bf98875ccb05a67e468e2.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "1667",
+          "texto": "DECRETO Nº 1.667, DE OUTUBRO DE 1995",
+          "mes_literal": null
+        },
+        "fecho": {
+          "texto": "Brasília, em 10 de outubro de 1995; 174º da Independência e 107º da República.",
+          "data": "1995-10-10"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1995/dec-1595-1995-08-17.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1995-08-17;1595",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1995-08-17;1595",
+      "url_texto": "https://normas.leg.br/api/binario/4fdc412b-f0ca-4949-9135-a115cb68c320/texto",
+      "sha256": "42c984fa195f4726568c8a17c987190c2161f990ddedbcb4db17b5dc407c5ed9",
+      "sha256_anterior": "ae199f20e24968588ffd6ff6b869c16316bf212efff7a96f9335added380dfcc",
+      "sha256_fonte_html": "b9c0cfa3be5541c2ef7eb3e02aa5834730501c4619b71838140b6411a1463b85",
+      "sha256_metadados": "942b3bf1f55388219b0560027e3e19a5e999cc5a9a729d78b8e997c20c34c437",
+      "captura_metadados": "federal/_fonte/metadados-normas/24ffa49d182afb0747ec1a1ea81323645228edced39cb18fd4b160ff45426cc6/942b3bf1f55388219b0560027e3e19a5e999cc5a9a729d78b8e997c20c34c437.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "1595",
+          "texto": "DECRETO nº 1.595, de agosto de 1995",
+          "mes_literal": null
+        },
+        "fecho": {
+          "texto": "Brasília, 17 de agosto de 1995; 174° da Independência e 107° da República.",
+          "data": "1995-08-17"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1994/dec-1351-1994-12-28.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1994-12-28;1351",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1994-12-28;1351",
+      "url_texto": "https://normas.leg.br/api/binario/cadc0c76-8293-4f9e-91ea-68cfefb78542/texto",
+      "sha256": "1bff2b0c777950c0664d9a76c0730351c55dacca844e5b6e1707a7e80dfcffc8",
+      "sha256_anterior": "ae594ff482648b23f977f724a1961ffa4c9f027e2e76284a7dad0f2fa9113b34",
+      "sha256_fonte_html": "abc75f8e62783b3b63a59e6bca0dbf80b7395fb6f0334a6bf91df050d0163dd4",
+      "sha256_metadados": "0d7edb64fb90d1264a1dd8a48374df764d696c194115be112119abc09a05890e",
+      "captura_metadados": "federal/_fonte/metadados-normas/9fcd04f9377ca4a343f763768fdaff4d2d14e1a0e1daa7febe18f8227268a65a/0d7edb64fb90d1264a1dd8a48374df764d696c194115be112119abc09a05890e.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "1351",
+          "texto": "DECRETO Nº 1.351 de,28 DE DEZEMBRO DE 1994",
+          "mes_literal": null
+        },
+        "fecho": {
+          "texto": "Brasília, 28 de dezembro de 1994; 173º Independência e 106º da República.",
+          "data": "1994-12-28"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1994/dec-1328-1994-12-05.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1994-12-05;1328",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1994-12-05;1328",
+      "url_texto": "https://normas.leg.br/api/binario/1e5c44b4-6d51-43ae-8f65-f959e6044595/texto",
+      "sha256": "a37b289caeb8d6f351a6923d71dceb4b8fd10aa2f477807552d046864bf4c57e",
+      "sha256_anterior": "6dd070cae72f3271f4648fdc449e5959ce44848b005ffdb2d6c0824b7d6996fe",
+      "sha256_fonte_html": "423a652cfb9430e38ad458a533674c689f462ef438d73edf169001c6639f4c0a",
+      "sha256_metadados": "b8cde036777247a427fde82a1012fea0d67b8381cb2b6a9df32fa175206a6411",
+      "captura_metadados": "federal/_fonte/metadados-normas/0c04a47df77423b4deabc07cd67aa1bc78686389ce45133bcbdf2fa935dbc7bf/b8cde036777247a427fde82a1012fea0d67b8381cb2b6a9df32fa175206a6411.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "1328",
+          "texto": "DECRETO Nº1.328, DE DEZEMBRO DE 1994",
+          "mes_literal": null
+        },
+        "fecho": {
+          "texto": "Brasília, 5 de dezembro de 1994, 173º da Independência e 106º da República.",
+          "data": "1994-12-05"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1994/dec-1255-1994-09-29.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1994-09-29;1255",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1994-09-29;1255",
+      "url_texto": "https://normas.leg.br/api/binario/c53ba012-5daf-4195-b1cd-3c92f442ff58/texto",
+      "sha256": "c19e595f8822e3a8d34a4529af8811a9e42bef450094cb40713b2fd8f0a50abb",
+      "sha256_anterior": "5df10d7b11829cb8413a296d1924046967d6f2714a89bf9373b13de05decc501",
+      "sha256_fonte_html": "fa47d4f08cc5515845bdae9cb75243fda77640c273c34245bfd570979e414f14",
+      "sha256_metadados": "6f25951e004d70a4ee834d4b567ad1c4bfe1323e4b01d09d58c33c8fca316636",
+      "captura_metadados": "federal/_fonte/metadados-normas/4f831642242a9d3b8c8549bbabbd8fdd653041bd5767996fe79f9703319fdcde/6f25951e004d70a4ee834d4b567ad1c4bfe1323e4b01d09d58c33c8fca316636.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "1255",
+          "texto": "DECRETO Nº 1.255, DE 29 DE SETEMBRO E 1994",
+          "mes_literal": "SETEMBRO"
+        },
+        "fecho": {
+          "texto": "Brasília, em 29 de setembro de 1994; 173º da Independência e 106º da República.",
+          "data": "1994-09-29"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1992/dec-638-1992-08-24.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1992-08-24;638",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1992-08-24;638",
+      "url_texto": "https://normas.leg.br/api/binario/44e8ad1a-4e45-4555-bd65-0f8a780c128c/texto",
+      "sha256": "29e65b971b43d33064e9c2696f3d0750b57a452af5a536c5051e5c4ddb8e8c81",
+      "sha256_anterior": "15b93224b2de84471db807e826f15c8df9bdad340861b635ef7c0e49a5ec7168",
+      "sha256_fonte_html": "7e45bac387da2feb0eb952ebc6a1d58d07fd57e6db608ef4f6bb67b3218519a2",
+      "sha256_metadados": "7919679cd8b9f989d13ef0411a372cc9d696332e8f98c32627e20c793be27356",
+      "captura_metadados": "federal/_fonte/metadados-normas/6485a6063d498575e1326a4134c4311cb6c1c81eddb7b4f1238f928a71e71efb/7919679cd8b9f989d13ef0411a372cc9d696332e8f98c32627e20c793be27356.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "638",
+          "texto": "DECRETO N° 638, DE 24 DE AGOSTO PE 1992",
+          "mes_literal": "AGOSTO"
+        },
+        "fecho": {
+          "texto": "Brasília, 24 de agosto de 1992; 171º da Independência e 104º da República.",
+          "data": "1992-08-24"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1991/dec-387-1991-12-24.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1991-12-24;387",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1991-12-24;387",
+      "url_texto": "https://normas.leg.br/api/binario/c715b1c8-31ec-4e76-9421-3859f86606a0/texto",
+      "sha256": "62482b7b8893b7f1df7d3b613902c0f92e74c94da94aeeba1f971cacd0802800",
+      "sha256_anterior": "6674a56b58767127fb91aef6ad0d1dda17b61244675835dcb23b1c8d992414ca",
+      "sha256_fonte_html": "3a86d6a4c88228f3ef090a57e8433556b04695b7cb097c50b84a31afe752c870",
+      "sha256_metadados": "57bcb93013138e1653f52b40b72039286f5ade7733e26569337051b86ba17309",
+      "captura_metadados": "federal/_fonte/metadados-normas/61fb185a5f502bf34d5825034030f62a71c9786dd1018cbfae599bab6cbf5a8f/57bcb93013138e1653f52b40b72039286f5ade7733e26569337051b86ba17309.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "387",
+          "texto": "DECRETO Nº 387, DE 24 DE DEZEMBRO DE l991",
+          "mes_literal": "DEZEMBRO"
+        },
+        "fecho": {
+          "texto": "Brasília, 24 de dezembro de 1991; 170º da Independência e 103º da República.",
+          "data": "1991-12-24"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1990/dec-99366-1990-07-03.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1990-07-03;99366",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1990-07-03;99366",
+      "url_texto": "https://normas.leg.br/api/binario/e0204dca-8b0e-4785-99f0-4314a24d090e/texto",
+      "sha256": "2fee9db7ad939b17b01de982fddc057cecb5b42240f4b363d2dc6d02f815893a",
+      "sha256_anterior": "7d43e82b7b4f5ede5498659f8c1507a72db30e7da2ef24f11790ef2135f294c3",
+      "sha256_fonte_html": "159d326b9e1d6e9c7bd6f17088a0d86dea36a0269372866348cdec2b9cc2eba5",
+      "sha256_metadados": "aefceb5c7ab54d2e685518bea94f77ba06072478faf96de283597b966581aa60",
+      "captura_metadados": "federal/_fonte/metadados-normas/c5cc213217376b5e21fb9de6d530767ee5e6f7fcae00b1a7b367afff34e27cd3/aefceb5c7ab54d2e685518bea94f77ba06072478faf96de283597b966581aa60.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "99366",
+          "texto": "DECRETO N° 99.366, DE 3 DE JULHO DE: 1990",
+          "mes_literal": "JULHO"
+        },
+        "fecho": {
+          "texto": "Brasília, 3 de julho de 1990; 169° da Independência e 102° da República.",
+          "data": "1990-07-03"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1990/dec-99103-1990-03-09.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1990-03-09;99103",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1990-03-09;99103",
+      "url_texto": "https://normas.leg.br/api/binario/24b740cb-0b91-43af-8a57-8a1a095b2848/texto",
+      "sha256": "a6cd2c67966248f1011c49861c7b1a5fc355202df4e67cd84cfd29efa272c472",
+      "sha256_anterior": "c35814e9107f844d78488afaa1fcb4a5ef8fe1493bc7f3cedb93d1761d8acf2e",
+      "sha256_fonte_html": "19ff5a01893a11980a20313f646d8ae16927efb64ad3db5832ed3a8663403916",
+      "sha256_metadados": "93c79727ade5fbb6b6f35806d86362dbced6bb54a04d019bb53b79c314ce5f8a",
+      "captura_metadados": "federal/_fonte/metadados-normas/f67a3b8b788cdab2068d7c43b69988aaa1119f3fa3dd452b7fcb81d679b8e0af/93c79727ade5fbb6b6f35806d86362dbced6bb54a04d019bb53b79c314ce5f8a.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "99103",
+          "texto": "DECRETO N° 99.103, DE: 9 DE MARÇO DE 1990",
+          "mes_literal": null
+        },
+        "fecho": {
+          "texto": "Brasília, 09 de março de 1990; 169° da Independência e 102° da República.",
+          "data": "1990-03-09"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1990/dec-98964-1990-02-16.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1990-02-16;98964",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1990-02-16;98964",
+      "url_texto": "https://normas.leg.br/api/binario/42f8203a-14de-46fd-af18-19ccc7c4a3f7/texto",
+      "sha256": "ffe2f94c93f012e7c3f3a45c9ec924b521e5a9b490a02a68e6c1d88deb143eb0",
+      "sha256_anterior": "1d741b17efc3975d010fbe56a8be62d0d505f0489677fbab5bfe2532f0c22b82",
+      "sha256_fonte_html": "3d66c94e3eaba26205be09a7bb8f916e916fe9569101308227ee54297c5011ee",
+      "sha256_metadados": "2ac0f29e8315157ddc5f76da67e0f7aafefc6f359ce9da09b883db830836ccdb",
+      "captura_metadados": "federal/_fonte/metadados-normas/a63fb240af91e174a07613d3418007acab337eb99c614b4c71aa96a957dcaf52/2ac0f29e8315157ddc5f76da67e0f7aafefc6f359ce9da09b883db830836ccdb.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "98964",
+          "texto": "DECRETO N° 98.964, DE 16 DE FEVEREIRO DE l990",
+          "mes_literal": "FEVEREIRO"
+        },
+        "fecho": {
+          "texto": "Brasília, 16 de fevereiro de 1990; 169° da Independência e 102° da República.",
+          "data": "1990-02-16"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1990/dec-98925-1990-02-02.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1990-02-02;98925",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1990-02-02;98925",
+      "url_texto": "https://normas.leg.br/api/binario/50a6af75-82db-4781-9d09-fe483064e4a1/texto",
+      "sha256": "d362ae42f26c17d636463d804e26408f354c8531adca8b6cf62ef8d714d579e5",
+      "sha256_anterior": "54ca12b93ed86a78012257617d2277ca25b3256f5e0446743f9bb19b632f4529",
+      "sha256_fonte_html": "e9cf2a099836246e2e3c91401525cedcf8916c399ed057742ce9575f5b47cb38",
+      "sha256_metadados": "8273ef1d73fd79eaba140862c46238ea9223135628388dc906e78dbfbdfb3cc7",
+      "captura_metadados": "federal/_fonte/metadados-normas/93e23a706cc5abe4873dde5c5390bb5016f992a977dfeaeb8b5991afe021628a/8273ef1d73fd79eaba140862c46238ea9223135628388dc906e78dbfbdfb3cc7.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "98925",
+          "texto": "DECRETO Nº 98.925, DE 2 DE FEVEREIRO DE l990",
+          "mes_literal": "FEVEREIRO"
+        },
+        "fecho": {
+          "texto": "Brasília, 2 de fevereiro de 1990; 169º da Independência e 102º da República.",
+          "data": "1990-02-02"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1990/dec-98918-1990-02-01.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1990-02-01;98918",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1990-02-01;98918",
+      "url_texto": "https://normas.leg.br/api/binario/8c6d4b95-4168-4207-885a-e9a4699e6a16/texto",
+      "sha256": "2e941f9163e1af0c92ca6a2529fc7e17e5b7c4ac23bd1321845299690b33669e",
+      "sha256_anterior": "1656ef8709fed6dcaf88c995faeca4c8949b5db23ce0574c26beffb84a4af5a4",
+      "sha256_fonte_html": "20fbb6a2555a583750cf1ac79b20efd1a6a5249d7ae81e8f88f00f12d220d318",
+      "sha256_metadados": "f437d038901ee44bb76f0640f56abd36900a7e3d98fb028393df4b315c5319a7",
+      "captura_metadados": "federal/_fonte/metadados-normas/f2cd41f6eb37dff929a961043a6766223bf5bf44c8965d1f1a184144714ec821/f437d038901ee44bb76f0640f56abd36900a7e3d98fb028393df4b315c5319a7.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "98918",
+          "texto": "DECRETO Nº 98.918, DE 1º DE FEVEREIR0 DE 1990",
+          "mes_literal": "FEVEREIR"
+        },
+        "fecho": {
+          "texto": "Brasília, 1º de fevereiro de 1990; 169º da Independência e 102º da República.",
+          "data": "1990-02-01"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1990/dec-98914-1990-01-31.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1990-01-31;98914",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1990-01-31;98914",
+      "url_texto": "https://normas.leg.br/api/binario/afafb565-4db5-4a4b-a8cb-a351578cacec/texto",
+      "sha256": "ed1422a1fd6997b264d1fe7b9c66dca6bef5d6d00301d53ad0e2f101a0122710",
+      "sha256_anterior": "c0d3f1e54da1b303fae9fb363141a5e4fe98489cee98eecc367246f414edfe26",
+      "sha256_fonte_html": "2ff3fc35b0ad702cffd146ba1d2fada95a2016ba0e930fbba4f35f851f65acb2",
+      "sha256_metadados": "6db689d6e1d56551eff4e73b7cfa93c615d9beefa099f7fb6da3e4d69b33150f",
+      "captura_metadados": "federal/_fonte/metadados-normas/71bf722d66938baf577b296796e3c4c19c7587ec166a5fd4058713a0ea3db058/6db689d6e1d56551eff4e73b7cfa93c615d9beefa099f7fb6da3e4d69b33150f.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "98914",
+          "texto": "DECRETO Nº 98.914, DE 31 DE JANEIR0 DE 1990",
+          "mes_literal": "JANEIR"
+        },
+        "fecho": {
+          "texto": "Brasília, 31 de janeiro de 1990; 169º da Independência e 102º da República.",
+          "data": "1990-01-31"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1990/dec-98881-1990-01-25.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1990-01-25;98881",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1990-01-25;98881",
+      "url_texto": "https://normas.leg.br/api/binario/99117c89-e76f-4bb2-b69e-523668f00e2f/texto",
+      "sha256": "a238c93ef0e9b03c22703cbf07231c8ee866b173665fde2590086697487dae77",
+      "sha256_anterior": "6361a5603698ad3c042e2396a3785062a6f0449e970a2fb44635c6b7f80dbd2f",
+      "sha256_fonte_html": "ded9582b1dde051847cf4a21aeddd7514ea09919c4fbb8cb077ca287e94c72c5",
+      "sha256_metadados": "ccfb099ae5577794d0553cb031c49153b325e7ef1910eea1e6cad7eee6d4e64a",
+      "captura_metadados": "federal/_fonte/metadados-normas/244174e059d0782bd311ab35e70988935318fcea7ced723c6c49393471ad6020/ccfb099ae5577794d0553cb031c49153b325e7ef1910eea1e6cad7eee6d4e64a.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "98881",
+          "texto": "DECRETO Nº 98.881, DE 25 DE; JANEIRO DE 1990",
+          "mes_literal": ""
+        },
+        "fecho": {
+          "texto": "Brasília, 25 de janeiro de 1990; 169º da Independência e 102º da República.",
+          "data": "1990-01-25"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1990/dec-98960-1990-02-15.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1990-02-15;98960",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1990-02-15;98960",
+      "url_texto": "https://normas.leg.br/api/binario/15286530-2b31-47b6-8a6f-620acecb8d96/texto",
+      "sha256": "bf3cf811038761e2f55c49752ccefc5ab447bc9fec9696bc666d43f2609ccacf",
+      "sha256_anterior": "18d5246ab41f59749b3f7ad8e5ae4207bdb3f82f85ef59ee7a8b67acb91d39a4",
+      "sha256_fonte_html": "0f573258c07f0b1eb37d40e27f706b9a7a1f2add6389ef11c0c4a1ba0695bed6",
+      "sha256_metadados": "ce658ebfba9f957a3afb378718c576bcbbc8581517d31950908068548bf50d18",
+      "captura_metadados": "federal/_fonte/metadados-normas/ad52325bb0c89d847a3906a2461247d63c1ef7cbc6a1099635b521f26348632c/ce658ebfba9f957a3afb378718c576bcbbc8581517d31950908068548bf50d18.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "98960",
+          "texto": "**DECRETO Nº 98.960, DE 15 DE FEVEREIRO DE I990**",
+          "mes_literal": "FEVEREIRO"
+        },
+        "fecho": {
+          "texto": "Brasília, 15 de fevereiro de 1990; 169° da Independência e 102º da República.",
+          "data": "1990-02-15"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1989/dec-97978-1989-07-19.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1989-07-19;97978",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1989-07-19;97978",
+      "url_texto": "https://normas.leg.br/api/binario/5b12fbe8-8cb2-49d9-89a2-4e865133a302/texto",
+      "sha256": "9f19311a3fff94420c161e77f634bda8362faa85012e4eb417fa86bf98452b5b",
+      "sha256_anterior": "5475c5162fa8dcd37218fd6ea30e3b0e0ddb39ba0d2d036f5e9d49784d2a9044",
+      "sha256_fonte_html": "b1b47f71197198a3f0a2af545517a0b8409dcfdfff85e303785d14033ebc7491",
+      "sha256_metadados": "501b1d0027b51b4306e35d7a71319fb86a048fcb6407c005533ab8c4a146aa89",
+      "captura_metadados": "federal/_fonte/metadados-normas/8789f097450cd9244d53053babc924ac4229a990f055ef8883889084eee69551/501b1d0027b51b4306e35d7a71319fb86a048fcb6407c005533ab8c4a146aa89.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "97978",
+          "texto": "DECRETO Nº 97.978, DE l9 DE JULHO DE 1989",
+          "mes_literal": null
+        },
+        "fecho": {
+          "texto": "Brasília, 19 de julho de 1989; 168º da Independência e 101º da República.",
+          "data": "1989-07-19"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1989/dec-97919-1989-07-06.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1989-07-06;97919",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1989-07-06;97919",
+      "url_texto": "https://normas.leg.br/api/binario/7083fce6-777e-489f-866f-fd6616a73e2b/texto",
+      "sha256": "8886ca529583e92901898799fc8d510aec44d1ddb97c6c97b17995a745f5e007",
+      "sha256_anterior": "530992b18745334a02bcd8b89e36bf9075962626efb9fccbdbddc171d008bc94",
+      "sha256_fonte_html": "723bdf28568a6eeeb8209f782ea49aec139ee4d1f6fcf1692acb2b4c3e4a7824",
+      "sha256_metadados": "dc6a25349ac5587f61dd77331aee21282fc66e5b7820c6a52e19aea649cc6c05",
+      "captura_metadados": "federal/_fonte/metadados-normas/c28194f99b88363d1008f76aeffc382258b9ceafd9e5572fe88444f4820e41b0/dc6a25349ac5587f61dd77331aee21282fc66e5b7820c6a52e19aea649cc6c05.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "97919",
+          "texto": "DECRETO N° 97.919, DE 6 DE JULHO D E 1989",
+          "mes_literal": "JULHO"
+        },
+        "fecho": {
+          "texto": "Brasília, 06 de julho de 1989; 168° da Independência e 101° da República.",
+          "data": "1989-07-06"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1989/dec-97522-1989-02-16.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1989-02-16;97522",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1989-02-16;97522",
+      "url_texto": "https://normas.leg.br/api/binario/2becb7e5-55fe-46ff-8e67-b75cca9cd680/texto",
+      "sha256": "619cf581fc4ac00dd62ce10c46d265fc5dbde575da887ce30ceb0429e473100a",
+      "sha256_anterior": "876316fe81eaeb8909c64c27f54a224a452d215b8089c02553d2657e9c7b8e81",
+      "sha256_fonte_html": "0d7381a5ffa60b2c84befa3037dae2ea3420070b52699691f9e28a1f9ebbfdd8",
+      "sha256_metadados": "58223fca8690be108c27cd00e3b85ed1ddbe7a58a4664e26cc2835b5777bb0df",
+      "captura_metadados": "federal/_fonte/metadados-normas/36759cba76f3697fa6993fb789463ec58676f43bba74e9aa02c0cf73c4a277e4/58223fca8690be108c27cd00e3b85ed1ddbe7a58a4664e26cc2835b5777bb0df.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "97522",
+          "texto": "**DECRETO Nº 97.522, DE 16 DE FEVEREIRO DE l989**",
+          "mes_literal": "FEVEREIRO"
+        },
+        "fecho": {
+          "texto": "Brasília, 16 de fevereiro de 1989, 168º da Independência e 101º da República.",
+          "data": "1989-02-16"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1989/dec-97506-1989-02-13.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1989-02-13;97506",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1989-02-13;97506",
+      "url_texto": "https://normas.leg.br/api/binario/93ea7893-4427-4e91-af79-3e4797cabbf9/texto",
+      "sha256": "9b3f9a32d986129afba45935008bc1ca035f27189d9a8bb3abb724d85ee7e1ad",
+      "sha256_anterior": "7d6b9d57c88d9bd387bc03962cd1280d93a2eef9ddf8adc0ae6abf0f9ac86e36",
+      "sha256_fonte_html": "0000ab7f86b0350906bdf2803c1736edc2c681e5b2e90396f6ee546cd940359b",
+      "sha256_metadados": "c42530d115e6457d1f40fd86536d31d4d9937be225d0426cd71947e502f59ef4",
+      "captura_metadados": "federal/_fonte/metadados-normas/a5788c68f173f94145d09ec70a765425386986aba921ce1fbb5276afe773a802/c42530d115e6457d1f40fd86536d31d4d9937be225d0426cd71947e502f59ef4.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "97506",
+          "texto": "**DECRETO N° 97.506, DE 13 DE FEVEREIR0 DE 1989**",
+          "mes_literal": "FEVEREIR"
+        },
+        "fecho": {
+          "texto": "Brasília, 13 de fevereiro de 1989; 168° da Independência e 101° da República.",
+          "data": "1989-02-13"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1989/dec-97501-1989-02-09.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1989-02-09;97501",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1989-02-09;97501",
+      "url_texto": "https://normas.leg.br/api/binario/e8b88c24-488f-470e-846c-ba3391f8b10e/texto",
+      "sha256": "50405875caf95c5bdc0a04272ccbd9f8c4788d45a088c5b21e3b8da0f9b383c3",
+      "sha256_anterior": "c14b2f351a53cc26708ae226bf5e13e2a6911b2b24fdac6db8a9243ee123f23b",
+      "sha256_fonte_html": "4395c9bf443160629eec4dcea611ccf30316a99b17a5ea436202da923ebf4b1e",
+      "sha256_metadados": "9d6763f2d580fb12d36e90d197594ca812332d20ee8672f57b4006d0278b191e",
+      "captura_metadados": "federal/_fonte/metadados-normas/ccea2b6041d47b73656d42973e8f88aee9aec904eb3065ba0ca31e4e324e7c73/9d6763f2d580fb12d36e90d197594ca812332d20ee8672f57b4006d0278b191e.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "97501",
+          "texto": "**DECRETO N° 97.501, DE: 9 DE FEVEREIRO de 1989**",
+          "mes_literal": null
+        },
+        "fecho": {
+          "texto": "Brasília, 9 de fevereiro de 1989; 168º da Independência e 101 da República.",
+          "data": "1989-02-09"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1988/dec-96621-1988-08-31.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1988-08-31;96621",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1988-08-31;96621",
+      "url_texto": "https://normas.leg.br/api/binario/5d27d816-3e13-4251-bb46-ede884cf13d8/texto",
+      "sha256": "29cca36868615139dcbb1b8d1faeff4e9a2bf1da94d5db84c84407e27da985a9",
+      "sha256_anterior": "6063cdbc7b21bc4c0269f6ed54a7a3fb5da09377fb593612e3e4294378d2d39c",
+      "sha256_fonte_html": "61c8d003b78a06ce286a81a2af2d11d389d3efb52fbdbefb6fd5d9557d236a72",
+      "sha256_metadados": "bdd84e5d29d8f7ade180b6d8379f5f2ce385061dcf1e483e2e2b45a7c24bfed2",
+      "captura_metadados": "federal/_fonte/metadados-normas/73a39b88f8b24c3a64c69bf2e4d96536346d75d3a0b72337f936be28701b9ea0/bdd84e5d29d8f7ade180b6d8379f5f2ce385061dcf1e483e2e2b45a7c24bfed2.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "96621",
+          "texto": "**DECRETO N° 96.621, DE 31 DE AGOSTO. DE 1988**",
+          "mes_literal": "AGOSTO"
+        },
+        "fecho": {
+          "texto": "Brasília, 31 de agosto de 1988; 167° da Independência e 100° da República.",
+          "data": "1988-08-31"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1988/dec-96538-1988-08-22.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1988-08-22;96538",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1988-08-22;96538",
+      "url_texto": "https://normas.leg.br/api/binario/ed28142b-eedc-49d3-91bb-11d1f81b4ceb/texto",
+      "sha256": "136e88a3f8e2b1f5dde097624beb06d7fcc438cf9b3952afdfcf95d5fa27c85b",
+      "sha256_anterior": "3d0ecb5d6b2d56958ce6bdf33d71ff72643158492b49b6e05d8bfe424f82aeab",
+      "sha256_fonte_html": "5262ceabe3b91ff2ac7359f81a53d58a37043ce585bf19b8036c940380ac9aa9",
+      "sha256_metadados": "fd343524be11cf8b37f9c681ec6c188680832c4cd3cf7e723f67ae15dcc10043",
+      "captura_metadados": "federal/_fonte/metadados-normas/8932e15583e11a3d8a0e32a62351d0dd60019dbfdcc7789126b42646e798c7db/fd343524be11cf8b37f9c681ec6c188680832c4cd3cf7e723f67ae15dcc10043.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "96538",
+          "texto": "**DECRETO Nº 96.538, DE 22 DE AGOSTO DE l988**",
+          "mes_literal": "AGOSTO"
+        },
+        "fecho": {
+          "texto": "Brasília, 22 de agosto de 1988; 167º da Independência e 100º da República.",
+          "data": "1988-08-22"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    },
+    {
+      "path": "federal/decretos/1987/dec-94593-1987-07-10.md",
+      "preexistente": true,
+      "origem": "Revisão documental complementar offline de HTML/metadados já obtidos; epígrafe e fecho próprios explicitamente confrontados.",
+      "urn": "urn:lex:br:federal:decreto:1987-07-10;94593",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1987-07-10;94593",
+      "url_texto": "https://normas.leg.br/api/binario/71edbff7-fa38-4766-b71d-8535a5df301b/texto",
+      "sha256": "9a13c318d40f6d9f6e6c7033d36167fa8f5bbf181e59ad7c8637375433aa79ba",
+      "sha256_anterior": "1470a24ab598ca6185d23cf102cd1be21c4e521686f936400adbcaf305710465",
+      "sha256_fonte_html": "fa8384781d20f3fed879ffbd34bacf558528d9785a5be949956327246824fc2d",
+      "sha256_metadados": "537e6534348a95691c4293dde4dc27940ed008e136a0ce6021c0a0bbffa8868f",
+      "captura_metadados": "federal/_fonte/metadados-normas/c5ba79c65ab4c401bf518d08b05a22c9f71f021eb4e6b30554a043d0df50210f/537e6534348a95691c4293dde4dc27940ed008e136a0ce6021c0a0bbffa8868f.json.gz",
+      "epigrafe": {
+        "metodo": "numero_proprio_e_data_do_fecho_proprio",
+        "epigrafe": {
+          "numero": "94593",
+          "texto": "**DECRETO N° 94.593, DE 10 DE JULHO DF 1987**",
+          "mes_literal": "JULHO"
+        },
+        "fecho": {
+          "texto": "Brasília, 10 de julho de 1987; 166° da Independência e 99° da República.",
+          "data": "1987-07-10"
+        },
+        "ressalva": "Epígrafe incompleta/defeituosa preservada; data completa corroborada no fecho do próprio decreto."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      }
+    }
+  ],
+  "retidos": [
+    {
+      "path": "federal/decretos/1999/dec-3207-1999-10-13.md",
+      "indice": {
+        "id": "399841",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "3207",
+        "norma": "DEC-3207-1999-10-13",
+        "normaNome": "Decreto nº 3.207 de 13/10/1999",
+        "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPUBLICA TCHECA SOBRE O EXERCICIO DE EMPREGO POR PARTE DE DEPENDENTES DO PESSOAL DIPLOMATICO, CONSULAR, ADMINISTRATIVO E TECNICO, CELEBRADO EM PRAGA, EM 13 DE JUNHO DE 1997.",
+        "dataassinatura": "13/10/1999",
+        "anoassinatura": "1999",
+        "apelido": "DEC-3207-1999-10-13"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"3027\", \"data\": \"1999-10-13\", \"epigrafe\": \"DECRETO Nº 3.027, DE 13 DE OUTUBRO DE 1999.\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "399841",
+        "norma": "DEC-3207-1999-10-13",
+        "urn": "urn:lex:br:federal:decreto:1999-10-13;3207",
+        "url": "https://normas.leg.br/api/public/binario/cd4e5fa1-7397-4d22-8da1-822c8c7a07b2/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "3207",
+          "data": "1999-10-13"
+        },
+        "epigrafe_encontrada": {
+          "numero": "3027",
+          "data": "1999-10-13",
+          "epigrafe": "DECRETO Nº 3.027, DE 13 DE OUTUBRO DE 1999."
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1998/dec-2903-1998-12-28.md",
+      "indice": {
+        "id": "398639",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "2903",
+        "norma": "DEC-2903-1998-12-28",
+        "normaNome": "Decreto nº 2.903 de 28/12/1998",
+        "ementa": "ALTERA O DECRETO 2.451, DE 5 DE JANEIRO DE 1998.",
+        "dataassinatura": "28/12/1998",
+        "anoassinatura": "1998",
+        "apelido": "DEC-2903-1998-12-28"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1998/dec-2842-1998-11-16.md",
+      "indice": {
+        "id": "398401",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "2842",
+        "norma": "DEC-2842-1998-11-16",
+        "normaNome": "Decreto nº 2.842 de 16/11/1998",
+        "ementa": "REGULAMENTA O ARTIGO 14, PARAGRAFO 3, INCISO III, DA LEI 9.650, DE 27 DE MAIO DE 1998.",
+        "dataassinatura": "16/11/1998",
+        "anoassinatura": "1998",
+        "apelido": "DEC-2842-1998-11-16"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"2842\", \"data\": \"1998-11-13\", \"epigrafe\": \"Decreto nº 2.842, de 13 de novembro de 1998\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "398401",
+        "norma": "DEC-2842-1998-11-16",
+        "urn": "urn:lex:br:federal:decreto:1998-11-16;2842",
+        "url": "https://normas.leg.br/api/public/binario/8c1df4ba-5f5b-4632-8f80-6d2e6ab42cfb/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "2842",
+          "data": "1998-11-16"
+        },
+        "epigrafe_encontrada": {
+          "numero": "2842",
+          "data": "1998-11-13",
+          "epigrafe": "DECRETO Nº 2.842, DE 13 DE NOVEMBRO DE 1998."
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1998/dec-2718-1998-08-10.md",
+      "indice": {
+        "id": "397909",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "2718",
+        "norma": "DEC-2718-1998-08-10",
+        "normaNome": "Decreto nº 2.718 de 10/08/1998",
+        "ementa": "DISPÕE SOBRE A EXECUÇÃO DO DECIMO QUARTO PROTOCOLO ADICIONAL AO ACORDO COMERCIAL 22, SETOR DA INDUSTRIA DE OLEOS ESSENCIAIS, QUIMICO-AROMATICOS, AROMAS E SABORES, ENTRE BRASIL E ARGENTINA, DE 30 DE DEZEMBRO DE 1994.",
+        "dataassinatura": "10/08/1998",
+        "anoassinatura": "1998",
+        "apelido": "DEC-2718-1998-08-10"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1998/dec-2654-1998-07-02.md",
+      "indice": {
+        "id": "397654",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "2654",
+        "norma": "DEC-2654-1998-07-02",
+        "normaNome": "Decreto nº 2.654 de 02/07/1998",
+        "ementa": "DISPÕE SOBRE A INCLUSÃO, NO PROGRAMA NACIONAL DE DESESTATIZAÇÃO - PND, DA CENTRAIS GERADORAS DO SUL DO BRASIL S.A. - GERASUL.",
+        "dataassinatura": "02/07/1998",
+        "anoassinatura": "1998",
+        "apelido": "DEC-2654-1998-07-02"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "397654",
+        "norma": "DEC-2654-1998-07-02",
+        "urn": "urn:lex:br:federal:decreto:1998-07-02;2654",
+        "url": "https://normas.leg.br/api/public/binario/13b828f7-db71-4fb5-aceb-0d687a9375f8/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "2654",
+          "data": "1998-07-02"
+        },
+        "epigrafe_encontrada": {
+          "numero": "2654",
+          "data": "1998-07-12",
+          "epigrafe": "DECRETO Nº 2.654, DE 12 DE JULHO DE 1998"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/2000/dec-3441-2000-04-26.md",
+      "indice": {
+        "id": "400784",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "3441",
+        "norma": "DEC-3441-2000-04-26",
+        "normaNome": "Decreto nº 3.441 de 26/04/2000",
+        "ementa": "DELEGA COMPETENCIA AO MINISTRO DE ESTADO DA JUSTIÇA PARA AUTORIZAR O FUNCIONAMENTO NO BRASIL DE ORGANIZAÇÕES ESTRANGEIRAS DESTINADAS A FINS DE INTERESSE COLETIVO, NA FORMA PREVISTA NO ARTIGO 11 DO DECRETO-LEI 4.657, DE 4 DE SETEMBRO DE 1942.",
+        "dataassinatura": "26/04/2000",
+        "anoassinatura": "2000",
+        "apelido": "DEC-3441-2000-04-26"
+      },
+      "motivo_anterior": "Documento Intermediate; sem prova de íntegra da norma",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1998/dec-2845-1998-11-19.md",
+      "indice": {
+        "id": "398413",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "2845",
+        "norma": "DEC-2845-1998-11-19",
+        "normaNome": "Decreto nº 2.845 de 19/11/1998",
+        "ementa": "ENCERRA OS TRABALHOS DE INVENTARIANÇA DA EXTINTA FUNDAÇÃO ROQUETTE PINTO.",
+        "dataassinatura": "19/11/1998",
+        "anoassinatura": "1998",
+        "apelido": "DEC-2845-1998-11-19"
+      },
+      "motivo_anterior": "Documento Intermediate; sem prova de íntegra da norma; Cabeçalho próprio de RETIFICAÇÃO avulsa; Sem artigo normativo próprio; revisão de comando decisório/íntegra necessária",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "398413",
+        "norma": "DEC-2845-1998-11-19",
+        "urn": "urn:lex:br:federal:decreto:1998-11-19;2845",
+        "url": "https://normas.leg.br/api/public/binario/29647ad6-7f1f-460a-9dc3-e60aad24c847/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "2845",
+          "data": "1998-11-19"
+        },
+        "epigrafe_encontrada": {
+          "numero": "2885",
+          "data": "1998-11-19",
+          "epigrafe": "DECRETO Nº 2.885, DE 19 DE NOVEMBRO DE 1998"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1998/dec-2825-1998-10-28.md",
+      "indice": {
+        "id": "398333",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "2825",
+        "norma": "DEC-2825-1998-10-28",
+        "normaNome": "Decreto nº 2.825 de 28/10/1998",
+        "ementa": "PROMULGA O ACORDO PARA O ESTABELECIMENTO DA REPRESENTAÇÃO DA UIT EM BRASILIA, CELEBRADO ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E A UNIÃO INTERNACIONAL DE TELECOMUNICAÇÕES, EM GENEBRA, EM 8 DE OUTUBRO DE 1991.",
+        "dataassinatura": "28/10/1998",
+        "anoassinatura": "1998",
+        "apelido": "DEC-2825-1998-10-28"
+      },
+      "motivo_anterior": "Documento Intermediate; sem prova de íntegra da norma; Cabeçalho próprio de RETIFICAÇÃO avulsa; Sem artigo normativo próprio; revisão de comando decisório/íntegra necessária",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "398333",
+        "norma": "DEC-2825-1998-10-28",
+        "urn": "urn:lex:br:federal:decreto:1998-10-28;2825",
+        "url": "https://normas.leg.br/api/public/binario/f4075ac9-7428-4c4f-a907-c7448b3d3107/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "2825",
+          "data": "1998-10-28"
+        },
+        "epigrafe_encontrada": {
+          "numero": "1825",
+          "data": "1998-10-28",
+          "epigrafe": "DECRETO Nº 1.825, DE 28 DE OUTUBRO DE 1998"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1998/dec-2632-1998-06-19.md",
+      "indice": {
+        "id": "397565",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "2632",
+        "norma": "DEC-2632-1998-06-19",
+        "normaNome": "Decreto nº 2.632 de 19/06/1998",
+        "ementa": "DISPÕE SOBRE O SISTEMA NACIONAL ANTIDROGAS, E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "19/06/1998",
+        "anoassinatura": "1998",
+        "apelido": "DEC-2632-1998-06-19"
+      },
+      "motivo_anterior": "Documento Intermediate; sem prova de íntegra da norma",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1997/dec-2263-1997-06-26.md",
+      "indice": {
+        "id": "396097",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "2263",
+        "norma": "DEC-2263-1997-06-26",
+        "normaNome": "Decreto nº 2.263 de 26/06/1997",
+        "ementa": "PRORROGA O PRAZO ESTABELECIDO NO ARTIGO 1 DO DECRETO 1.988, DE 27 DE AGOSTO DE 1996.",
+        "dataassinatura": "26/06/1997",
+        "anoassinatura": "1997",
+        "apelido": "DEC-2263-1997-06-26"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"2263\", \"data\": \"1997-06-25\", \"epigrafe\": \"DECRETO Nº 2.263, DE 25 DE JUNHO DE 1997\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "396097",
+        "norma": "DEC-2263-1997-06-26",
+        "urn": "urn:lex:br:federal:decreto:1997-06-26;2263",
+        "url": "https://normas.leg.br/api/public/binario/3f5bc861-080d-4a79-bfac-f76e411cbd4f/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "2263",
+          "data": "1997-06-26"
+        },
+        "epigrafe_encontrada": {
+          "numero": "2263",
+          "data": "1997-06-25",
+          "epigrafe": "DECRETO Nº 2.263, DE 25 DE JUNHO DE 1997"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1997/dec-2216-1997-04-29.md",
+      "indice": {
+        "id": "395909",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "2216",
+        "norma": "DEC-2216-1997-04-29",
+        "normaNome": "Decreto nº 2.216 de 29/04/1997",
+        "ementa": "PRORROGA O PRAZO ESTABELECIDO NO PARAGRAFO 2 DO ARTIGO 1 DO DECRETO 1.778, DE 9 DE JANEIRO DE 1996.",
+        "dataassinatura": "29/04/1997",
+        "anoassinatura": "1997",
+        "apelido": "DEC-2216-1997-04-29"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1997/dec-2182-1997-03-20.md",
+      "indice": {
+        "id": "395774",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "2182",
+        "norma": "DEC-2182-1997-03-20",
+        "normaNome": "Decreto nº 2.182 de 20/03/1997",
+        "ementa": "ESTABELECE NORMAS PARA A TRANSFERENCIA E O RECOLHIMENTO DE ACERVOS ARQUIVISTICOS PUBLICOS FEDERAIS PARA O ARQUIVO NACIONAL.",
+        "dataassinatura": "20/03/1997",
+        "anoassinatura": "1997",
+        "apelido": "DEC-2182-1997-03-20"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1997/dec-2170-1997-03-04.md",
+      "indice": {
+        "id": "395726",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "2170",
+        "norma": "DEC-2170-1997-03-04",
+        "normaNome": "Decreto nº 2.170 de 04/03/1997",
+        "ementa": "DA NOVA REDAçÃO AO ARTIGO 2 DO DECRETO 89.250, DE 27 DE DEZEMBRO DE 1983, QUE REGULAMENTA A LEI 7.116, DE 29 DE AGOSTO DE 1983, QUE ASSEGURA VALIDADE NACIONAL AS CARTEIRAS DE IDENTIDADE, REGULA SUA EXPEDIçÃO, E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "04/03/1997",
+        "anoassinatura": "1997",
+        "apelido": "DEC-2170-1997-03-04"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1996/dec-2113-1996-12-30.md",
+      "indice": {
+        "id": "395500",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "2113",
+        "norma": "DEC-2113-1996-12-30",
+        "normaNome": "Decreto nº 2.113 de 30/12/1996",
+        "ementa": "ALTERA OS ANEXOS DO DECRETO 1.923, DE 7 DE JUNHO DE 1996, QUE DISPÕE SOBRE A COMPATIBILIZAçÃO ENTRE A REALIZAçÃO DA RECEITA E A EXECUçÃO DA DESPESA, SOBRE A PROGRAMAçÃO ORçAMENTARIA E FINANCEIRA DO PODER EXECUTIVO PARA O EXERCICIO DE 1996, E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "30/12/1996",
+        "anoassinatura": "1996",
+        "apelido": "DEC-2113-1996-12-30"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"2213\", \"data\": \"1996-12-30\", \"epigrafe\": \"DECRETO Nº 2213, DE 30 DE DEZEMBRO DE 1996.\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "395500",
+        "norma": "DEC-2113-1996-12-30",
+        "urn": "urn:lex:br:federal:decreto:1996-12-30;2113",
+        "url": "https://normas.leg.br/api/public/binario/41b5b320-4827-44f3-8a10-6de89851da49/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "2113",
+          "data": "1996-12-30"
+        },
+        "epigrafe_encontrada": {
+          "numero": "2213",
+          "data": "1996-12-30",
+          "epigrafe": "DECRETO Nº 2213, DE 30 DE DEZEMBRO DE 1996."
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1996/dec-2076-1996-11-20.md",
+      "indice": {
+        "id": "395353",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "2076",
+        "norma": "DEC-2076-1996-11-20",
+        "normaNome": "Decreto nº 2.076 de 20/11/1996",
+        "ementa": "REGULAMENTA O PROGRAMA DE DESLIGAMENTO VOLUNTARIO DOS SERVIDORES CIVIS DA ADMINISTRAçÃO FEDERAL DIRETA, AUTARQUICA E FUNDACIONAL.",
+        "dataassinatura": "20/11/1996",
+        "anoassinatura": "1996",
+        "apelido": "DEC-2076-1996-11-20"
+      },
+      "motivo_anterior": "Fonte contém conteúdo visual não validado: ['img', 'img']",
+      "status": "retido_validacao",
+      "detalhe": "Conteúdo visual",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1996/dec-2045-1996-10-24.md",
+      "indice": {
+        "id": "395229",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "2045",
+        "norma": "DEC-2045-1996-10-24",
+        "normaNome": "Decreto nº 2.045 de 24/10/1996",
+        "ementa": "PROMULGA O ACORDO DE COOPERAçÃO CULTURAL, CIENTIFICA E TECNICA, CELEBRADO ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO DE ANTIGUA E BARBUDA, EM BRASILIA, EM 17 DE AGOSTO DE 1982.",
+        "dataassinatura": "24/10/1996",
+        "anoassinatura": "1996",
+        "apelido": "DEC-2045-1996-10-24"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1996/dec-2016-1996-10-01.md",
+      "indice": {
+        "id": "395093",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "2016",
+        "norma": "DEC-2016-1996-10-01",
+        "normaNome": "Decreto nº 2.016 de 01/10/1996",
+        "ementa": "DA NOVA REDAçÃO A LETRA \"A\" DO INCISO II DO ARTIGO  1 DO DECRETO 72.021, DE 28 DE MARçO DE 1973, ALTERADO PELO DECRETO 91.256, DE 20 DE MAIO DE 1985, QUE DISPÕE SOBRE ORGÃOS CUJOS CARGOS, FUNçÕES OU ATIVIDADES DESEMPENHADAS NAS CONDIçÕES DA LEI DE RETRIBUIçÃO NO EXTERIOR, SE CONSIDERAM PERMANENTES.",
+        "dataassinatura": "01/10/1996",
+        "anoassinatura": "1996",
+        "apelido": "DEC-2016-1996-10-01"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"2016\", \"data\": \"1996-10-19\", \"epigrafe\": \"DECRETO N° 2.016, DE 19 DE OUTUBRO DE 1996\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "395093",
+        "norma": "DEC-2016-1996-10-01",
+        "urn": "urn:lex:br:federal:decreto:1996-10-01;2016",
+        "url": "https://normas.leg.br/api/public/binario/41f4b04a-0665-4461-b639-cb273578bdca/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "2016",
+          "data": "1996-10-01"
+        },
+        "epigrafe_encontrada": {
+          "numero": "2016",
+          "data": "1996-10-19",
+          "epigrafe": "DECRETO N° 2.016, DE 19 DE OUTUBRO DE 1996"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1996/dec-1890-1996-04-29.md",
+      "indice": {
+        "id": "394566",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1890",
+        "norma": "DEC-1890-1996-04-29",
+        "normaNome": "Decreto nº 1.890 de 29/04/1996",
+        "ementa": "ALTERA A ALIQUOTA DE IMPOSTO DE IMPORTAçÃO DOS PRODUTOS QUE ESPECIFICA.",
+        "dataassinatura": "29/04/1996",
+        "anoassinatura": "1996",
+        "apelido": "DEC-1890-1996-04-29"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1996/dec-1804-1996-02-06.md",
+      "indice": {
+        "id": "394223",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1804",
+        "norma": "DEC-1804-1996-02-06",
+        "normaNome": "Decreto nº 1.804 de 06/02/1996",
+        "ementa": "DISPÕE SOBRE A EXECUçÃO DO TERCEIRO PROTOCOLO ADICIONAL AO ACORDO DE ALCANCE PARCIAL 21, SUBSCRITO AO AMPARO DO ARTIGO 25 DO TRATADO DE MONTEVIDEU DE 1980, ENTRE BRASIL E CUBA, DE 27 DE JUNHO DE 1995.",
+        "dataassinatura": "06/02/1996",
+        "anoassinatura": "1996",
+        "apelido": "DEC-1804-1996-02-06"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1995/dec-1681-1995-10-23.md",
+      "indice": {
+        "id": "393728",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1681",
+        "norma": "DEC-1681-1995-10-23",
+        "normaNome": "Decreto nº 1.681 de 23/10/1995",
+        "ementa": "PROMULGA O ACORDO SOBRE COMERCIO E COOPERAÇÃO ECONOMICA, ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPUBLICA TCHECA, DE 25 DE ABRIL DE 1994.",
+        "dataassinatura": "23/10/1995",
+        "anoassinatura": "1995",
+        "apelido": "DEC-1681-1995-10-23"
+      },
+      "motivo_anterior": "Fonte contém conteúdo visual não validado: ['img', 'img']",
+      "status": "retido_validacao",
+      "detalhe": "Conteúdo visual",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1995/dec-1676-1995-10-17.md",
+      "indice": {
+        "id": "393708",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1676",
+        "norma": "DEC-1676-1995-10-17",
+        "normaNome": "Decreto nº 1.676 de 17/10/1995",
+        "ementa": "PROMULGA O ACORDO SOBRE COOPERAçÃO FINANCEIRA PARA O EMPREENDIMENTO \"ESTUDOS TECNICO, ECONOMICO E DE IMPACTO AMBIENTAL PARA A MELHORIA DO TRANSPORTE DE CARGA E PASSAGEIROS, NO CORREDOR RIO DE JANEIRO/ SÃO PAULO/CAMPINAS, INCLUSIVE EM SEUS ACESSOS AOS PORTOS DA REGIÃO\", ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPUBLICA FEDERAL DA ALEMANHA, DE 6 DE ABRIL DE 1995.",
+        "dataassinatura": "17/10/1995",
+        "anoassinatura": "1995",
+        "apelido": "DEC-1676-1995-10-17"
+      },
+      "motivo_anterior": "Fonte contém conteúdo visual não validado: ['img', 'img']",
+      "status": "retido_validacao",
+      "detalhe": "Conteúdo visual",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1995/dec-1670-1995-10-11.md",
+      "indice": {
+        "id": "393684",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1670",
+        "norma": "DEC-1670-1995-10-11",
+        "normaNome": "Decreto nº 1.670 de 11/10/1995",
+        "ementa": "PROMULGA O ACORDO SOBRE O COMERCIO E COOPERAçÃO ECONOMICA, ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPUBLICA DA BULGARIA, DE 13 DE SETEMBRO DE 1993.",
+        "dataassinatura": "11/10/1995",
+        "anoassinatura": "1995",
+        "apelido": "DEC-1670-1995-10-11"
+      },
+      "motivo_anterior": "Fonte contém conteúdo visual não validado: ['img', 'img']",
+      "status": "retido_validacao",
+      "detalhe": "Conteúdo visual",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1995/dec-1669-1995-10-11.md",
+      "indice": {
+        "id": "393680",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1669",
+        "norma": "DEC-1669-1995-10-11",
+        "normaNome": "Decreto nº 1.669 de 11/10/1995",
+        "ementa": "PROMULGA O ACORDO SOBRE COOPERAçÃO FINANCEIRA PARA O EMPREENDIMENTO \"PROTEçÃO DA MATA ATLANTICA-PARANA\", ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPUBLICA FEDERAL DA ALEMANHA, DE 06 DE ABRIL DE 1995.",
+        "dataassinatura": "11/10/1995",
+        "anoassinatura": "1995",
+        "apelido": "DEC-1669-1995-10-11"
+      },
+      "motivo_anterior": "Fonte contém conteúdo visual não validado: ['img', 'img']",
+      "status": "retido_validacao",
+      "detalhe": "Conteúdo visual",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1995/dec-1668-1995-10-11.md",
+      "indice": {
+        "id": "393676",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1668",
+        "norma": "DEC-1668-1995-10-11",
+        "normaNome": "Decreto nº 1.668 de 11/10/1995",
+        "ementa": "PROMULGA O ACORDO SOBRE COOPERAçÃO FINANCEIRA PARA O EMPREENDIMENTO \"PROJETOS DEMONSTRATIVOS\", ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPUBLICA FEDERAL DA ALEMANHA, DE 06 DE ABRIL DE 1995.",
+        "dataassinatura": "11/10/1995",
+        "anoassinatura": "1995",
+        "apelido": "DEC-1668-1995-10-11"
+      },
+      "motivo_anterior": "Fonte contém conteúdo visual não validado: ['img', 'img']",
+      "status": "retido_validacao",
+      "detalhe": "Conteúdo visual",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1995/dec-1671-1995-10-11.md",
+      "indice": {
+        "id": "393688",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1671",
+        "norma": "DEC-1671-1995-10-11",
+        "normaNome": "Decreto nº 1.671 de 11/10/1995",
+        "ementa": "PROMULGA O ACORDO SOBRE COOPERAçÃO FINANCEIRA PARA O EMPREENDIMENTO \"PROJETO INTEGRADO DE PROTEçÃO DAS TERRAS E POPULAçÕES INDIGENAS DA AMAZONIA LEGAL/DEMARCAçÃO DE TERRAS INDIGENAS\", ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPUBLICA FEDERAL DA ALEMANHA, DE 06 DE ABRIL DE 1995.",
+        "dataassinatura": "11/10/1995",
+        "anoassinatura": "1995",
+        "apelido": "DEC-1671-1995-10-11"
+      },
+      "motivo_anterior": "Fonte contém conteúdo visual não validado: ['img', 'img']",
+      "status": "retido_validacao",
+      "detalhe": "Conteúdo visual",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1995/dec-1558-1995-07-18.md",
+      "indice": {
+        "id": "393230",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1558",
+        "norma": "DEC-1558-1995-07-18",
+        "normaNome": "Decreto nº 1.558 de 18/07/1995",
+        "ementa": "PROMULGA O ACORDO DE COMERCIO E COOPERAçÃO ECONOMICA, ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO DA ROMENIA, DE 23 DE FEVEREIRO DE 1994.",
+        "dataassinatura": "18/07/1995",
+        "anoassinatura": "1995",
+        "apelido": "DEC-1558-1995-07-18"
+      },
+      "motivo_anterior": "Fonte contém conteúdo visual não validado: ['img', 'img']",
+      "status": "retido_validacao",
+      "detalhe": "Conteúdo visual",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1995/dec-1525-1995-06-20.md",
+      "indice": {
+        "id": "393087",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1525",
+        "norma": "DEC-1525-1995-06-20",
+        "normaNome": "Decreto nº 1.525 de 20/06/1995",
+        "ementa": "DISPÕE SOBRE A EXCLUSÃO DO PROGRAMA NACIONAL DE DESESTATIZAçÃO - PND, CRIADO PELA LEI 8.031, DE 12 DE ABRIL DE 1990, DAS PARTICIPAçÕES ACIONARIAS DA PETROBRAS QUIMICA S.A. - PETROQUISA, NA ALCLOR QUIMICA DE ALAGOAS S.A., NA COMPANHIA ALAGOAS INDUSTRIAL - CINAL E NA FCC - FABRICA CARIOCA DE CATALISADORES, BEM COMO DA NUCLEBRAS EQUIPAMENTOS PESADOS S.A. - NUCLEP.",
+        "dataassinatura": "20/06/1995",
+        "anoassinatura": "1995",
+        "apelido": "DEC-1525-1995-06-20"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1995/dec-1431-1995-03-30.md",
+      "indice": {
+        "id": "392708",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1431",
+        "norma": "DEC-1431-1995-03-30",
+        "normaNome": "Decreto nº 1.431 de 30/03/1995",
+        "ementa": "DISPÕE SOBRE A TRANSFORMAçÃO DE GRANDE COMANDO NO MINISTERIO DO EXERCITO E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "30/03/1995",
+        "anoassinatura": "1995",
+        "apelido": "DEC-1431-1995-03-30"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"1431\", \"data\": \"1995-08-30\", \"epigrafe\": \"DECRETO Nº 1.431, DE 30 DE AGOSTO DE 1995\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "392708",
+        "norma": "DEC-1431-1995-03-30",
+        "urn": "urn:lex:br:federal:decreto:1995-03-30;1431",
+        "url": "https://normas.leg.br/api/public/binario/90476fc5-cb79-43f3-9dcb-1d9db4e0d5a6/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "1431",
+          "data": "1995-03-30"
+        },
+        "epigrafe_encontrada": {
+          "numero": "1431",
+          "data": "1995-08-30",
+          "epigrafe": "DECRETO Nº 1.431, DE 30 DE AGOSTO DE 1995"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1994/dec-1345-1994-12-26.md",
+      "indice": {
+        "id": "392271",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1345",
+        "norma": "DEC-1345-1994-12-26",
+        "normaNome": "Decreto nº 1.345 de 26/12/1994",
+        "ementa": "DISPÕE SOBRE A EXECUÇÃO DA ATA DE RETIFICAÇÃO DO PRIMEIRO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONOMICA 26, ENTRE BRASIL E BOLIVIA, DE 19 DE SETEMBRO DE 1994.",
+        "dataassinatura": "26/12/1994",
+        "anoassinatura": "1994",
+        "apelido": "DEC-1345-1994-12-26"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"1345\", \"data\": \"1994-12-23\", \"epigrafe\": \"DECRETO Nº 1.345, DE 23 DE DEZEMBRO DE 1994\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "392271",
+        "norma": "DEC-1345-1994-12-26",
+        "urn": "urn:lex:br:federal:decreto:1994-12-26;1345",
+        "url": "https://normas.leg.br/api/public/binario/8c3061e2-400a-4213-944a-74538d05845c/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "1345",
+          "data": "1994-12-26"
+        },
+        "epigrafe_encontrada": {
+          "numero": "1345",
+          "data": "1994-12-23",
+          "epigrafe": "DECRETO Nº 1.345, DE 23 DE DEZEMBRO DE 1994"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1994/dec-1332-1994-12-08.md",
+      "indice": {
+        "id": "392206",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1332",
+        "norma": "DEC-1332-1994-12-08",
+        "normaNome": "Decreto nº 1.332 de 08/12/1994",
+        "ementa": "APROVA A ATUALIZAÇÃO DA POLITICA DE DESENVOLVIMENTO DAS ATIVIDADES ESPACIAIS - PNDAE.",
+        "dataassinatura": "08/12/1994",
+        "anoassinatura": "1994",
+        "apelido": "DEC-1332-1994-12-08"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1994/dec-1325-1994-12-02.md",
+      "indice": {
+        "id": "392169",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1325",
+        "norma": "DEC-1325-1994-12-02",
+        "normaNome": "Decreto nº 1.325 de 02/12/1994",
+        "ementa": "PROMULGA O TRATADO DE EXTRADIÇÃO, ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPUBLICA PORTUGUESA, DE 07.05.91.",
+        "dataassinatura": "02/12/1994",
+        "anoassinatura": "1994",
+        "apelido": "DEC-1325-1994-12-02"
+      },
+      "motivo_anterior": "Fonte contém conteúdo visual não validado: ['img', 'img']",
+      "status": "retido_validacao",
+      "detalhe": "Conteúdo visual",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1994/dec-1196-1994-07-14.md",
+      "indice": {
+        "id": "391513",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1196",
+        "norma": "DEC-1196-1994-07-14",
+        "normaNome": "Decreto nº 1.196 de 14/07/1994",
+        "ementa": "DISPÕE SOBRE A GESTÃO E ADMINISTRAÇÃO DO FUNDO NACIONAL PARA A CRIANÇA E O ADOLESCENTE (FNCA), E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "14/07/1994",
+        "anoassinatura": "1994",
+        "apelido": "DEC-1196-1994-07-14"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1994/dec-1179-1994-07-04.md",
+      "indice": {
+        "id": "391424",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1179",
+        "norma": "DEC-1179-1994-07-04",
+        "normaNome": "Decreto nº 1.179 de 04/07/1994",
+        "ementa": "PROMULGA O ACORDO SOBRE TRANSPORTES AEREOS REGULARES ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPUBLICA PORTUGUESA, CELEBRADO EM 7 DE MAIO DE 1991, EM BRASILIA.",
+        "dataassinatura": "04/07/1994",
+        "anoassinatura": "1994",
+        "apelido": "DEC-1179-1994-07-04"
+      },
+      "motivo_anterior": "Fonte contém conteúdo visual não validado: ['img', 'img']",
+      "status": "retido_validacao",
+      "detalhe": "Conteúdo visual",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1994/dec-1180-1994-07-04.md",
+      "indice": {
+        "id": "391429",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1180",
+        "norma": "DEC-1180-1994-07-04",
+        "normaNome": "Decreto nº 1.180 de 04/07/1994",
+        "ementa": "PROMULGA O ACORDO RELATIVO A SERVIÇOS AEREOS ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO DE HONG KONG, CELEBRADO EM 06 DE SETEMBRO DE 1991, EM HONG KONG.",
+        "dataassinatura": "04/07/1994",
+        "anoassinatura": "1994",
+        "apelido": "DEC-1180-1994-07-04"
+      },
+      "motivo_anterior": "Fonte contém conteúdo visual não validado: ['img', 'img']",
+      "status": "retido_validacao",
+      "detalhe": "Conteúdo visual",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1994/dec-1149-1994-05-27.md",
+      "indice": {
+        "id": "391273",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1149",
+        "norma": "DEC-1149-1994-05-27",
+        "normaNome": "Decreto nº 1.149 de 27/05/1994",
+        "ementa": "MODIFICA O DECRETO 1.066, DE 27 DE FEVEREIRO DE 1994, QUE DISPÕE SOBRE A METODOLOGIA DE CALCULO DA UNIDADE REAL DE VALOR (URV).",
+        "dataassinatura": "27/05/1994",
+        "anoassinatura": "1994",
+        "apelido": "DEC-1149-1994-05-27"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1994/dec-1106-1994-04-07.md",
+      "indice": {
+        "id": "391054",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1106",
+        "norma": "DEC-1106-1994-04-07",
+        "normaNome": "Decreto nº 1.106 de 07/04/1994",
+        "ementa": "ALTERA AS ALIQUOTAS DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS INCIDENTE SOBRE OS PRODUTOS CLASSIFICADOS NAS POSIÇÕES QUE MENCIONA.",
+        "dataassinatura": "07/04/1994",
+        "anoassinatura": "1994",
+        "apelido": "DEC-1106-1994-04-07"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1994/dec-1103-1994-04-04.md",
+      "indice": {
+        "id": "391039",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1103",
+        "norma": "DEC-1103-1994-04-04",
+        "normaNome": "Decreto nº 1.103 de 04/04/1994",
+        "ementa": "DISPÕE SOBRE A EXECUÇÃO DO PROTOCOLO SOBRE AS COMEMORAÇÕES DOS DESCOBRIMENTOS PORTUGUESES, CELEBRADO ENTRE O BRASIL E PORTUGAL.",
+        "dataassinatura": "04/04/1994",
+        "anoassinatura": "1994",
+        "apelido": "DEC-1103-1994-04-04"
+      },
+      "motivo_anterior": "Fonte contém conteúdo visual não validado: ['img', 'img']",
+      "status": "retido_validacao",
+      "detalhe": "Conteúdo visual",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1994/dec-1093-1994-03-23.md",
+      "indice": {
+        "id": "390989",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1093",
+        "norma": "DEC-1093-1994-03-23",
+        "normaNome": "Decreto nº 1.093 de 23/03/1994",
+        "ementa": "REGULAMENTA A LEI COMPLEMENTAR 79, DE 7 DE JANEIRO DE 1994, QUE CRIA O FUNDO PENITENCIARIO NACIONAL - FUNPEN, E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "23/03/1994",
+        "anoassinatura": "1994",
+        "apelido": "DEC-1093-1994-03-23"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"1093\", \"data\": \"1994-03-03\", \"epigrafe\": \"DECRETO Nº 1.093, DE 3 DE MARÇO DE 1994\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "390989",
+        "norma": "DEC-1093-1994-03-23",
+        "urn": "urn:lex:br:federal:decreto:1994-03-23;1093",
+        "url": "https://normas.leg.br/api/public/binario/dd94a249-3ed1-4375-9b78-966a6f585f79/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "1093",
+          "data": "1994-03-23"
+        },
+        "epigrafe_encontrada": {
+          "numero": "1093",
+          "data": "1994-03-03",
+          "epigrafe": "DECRETO Nº 1.093, DE 3 DE MARÇO DE 1994"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1994/dec-1065-1994-02-24.md",
+      "indice": {
+        "id": "390852",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1065",
+        "norma": "DEC-1065-1994-02-24",
+        "normaNome": "Decreto nº 1.065 de 24/02/1994",
+        "ementa": "PROMULGA O ACORDO ENTRE A REPUBLICA FEDERATIVA DO BRASIL, A REPUBLICA ARGENTINA, A AGENCIA BRASILEIRO-ARGENTINA DE CONTABILIDADE E CONTROLE DE MATERIAIS NUCLEARES (ABACC) E A AGENCIA INTERNACIONAL DE ENERGIA ATOMICA (AIEA) PARA A APLICAÇÃO DE SALVAGUARDAS.",
+        "dataassinatura": "24/02/1994",
+        "anoassinatura": "1994",
+        "apelido": "DEC-1065-1994-02-24"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1994/dec-1060-1994-02-21.md",
+      "indice": {
+        "id": "390825",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1060",
+        "norma": "DEC-1060-1994-02-21",
+        "normaNome": "Decreto nº 1.060 de 21/02/1994",
+        "ementa": "DISPÕE SOBRE A EXECUÇÃO DA ADESÃO DE CUBA AO ACORDO DE COOPERAÇÃO E INTERCAMBIO DE BENS NAS AREAS CULTURAL, EDUCACIONAL E CIENTIFICA, ENTRE BRASIL, ARGENTINA, BOLIVIA, COLOMBIA, CHILE, EQUADOR, MEXICO, PARAGUAI, PERU, URUGUAI, VENEZUELA E CUBA, DE 7 DE JULHO DE 1992.",
+        "dataassinatura": "21/02/1994",
+        "anoassinatura": "1994",
+        "apelido": "DEC-1060-1994-02-21"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1993/dec-1011-1993-12-22.md",
+      "indice": {
+        "id": "390574",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1011",
+        "norma": "DEC-1011-1993-12-22",
+        "normaNome": "Decreto nº 1.011 de 22/12/1993",
+        "ementa": "ALTERA DISPOSITIVOS DO REGULAMENTO DISCIPLINAR PARA A MARINHA, BAIXADO PELO DECRETO 88.545, DE 26 DE JULHO DE 1983.",
+        "dataassinatura": "22/12/1993",
+        "anoassinatura": "1993",
+        "apelido": "DEC-1011-1993-12-22"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1993/dec-1014-1993-12-22.md",
+      "indice": {
+        "id": "390589",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1014",
+        "norma": "DEC-1014-1993-12-22",
+        "normaNome": "Decreto nº 1.014 de 22/12/1993",
+        "ementa": "DISPÕE SOBRE OS EFETIVOS DO EXERCITO A VIGORAREM EM 1994.",
+        "dataassinatura": "22/12/1993",
+        "anoassinatura": "1993",
+        "apelido": "DEC-1014-1993-12-22"
+      },
+      "motivo_anterior": "elemento visual não extraído na tabela: img",
+      "status": "retido_offline",
+      "detalhe": "elemento visual não extraído na tabela: img",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1993/dec-959-1993-10-11.md",
+      "indice": {
+        "id": "390309",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "959",
+        "norma": "DEC-959-1993-10-11",
+        "normaNome": "Decreto nº 959 de 11/10/1993",
+        "ementa": "APROVA A ESTRUTURA DE CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA NO AMBITO DO MINISTERIO DA CULTURA.",
+        "dataassinatura": "11/10/1993",
+        "anoassinatura": "1993",
+        "apelido": "DEC-959-1993-10-11"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1993/dec-940-1993-09-27.md",
+      "indice": {
+        "id": "390207",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "940",
+        "norma": "DEC-940-1993-09-27",
+        "normaNome": "Decreto nº 940 de 27/09/1993",
+        "ementa": "DISPÕE SOBRE A DIARIA NO EXTERIOR, DO SERVIDOR PUBLICO CIVIL E MILITAR, INTEGRANTE DE EQUIPE DE APOIO OU DE COMITIVA DO PRESIDENTE OU DO VICE-PRESIDENTE DA REPUBLICA.",
+        "dataassinatura": "27/09/1993",
+        "anoassinatura": "1993",
+        "apelido": "DEC-940-1993-09-27"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1993/dec-916-1993-09-08.md",
+      "indice": {
+        "id": "390080",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "916",
+        "norma": "DEC-916-1993-09-08",
+        "normaNome": "Decreto nº 916 de 08/09/1993",
+        "ementa": "CONSOLIDA O REGULAMENTO DA LEI 8.249, DE 24 DE OUTUBRO DE 1991, QUE ESTABELECE AS CARACTERISTICAS DA NOTA DO TESOURO NACIONAL - NTN E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "08/09/1993",
+        "anoassinatura": "1993",
+        "apelido": "DEC-916-1993-09-08"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1993/dec-847-1993-06-25.md",
+      "indice": {
+        "id": "389722",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "847",
+        "norma": "DEC-847-1993-06-25",
+        "normaNome": "Decreto nº 847 de 25/06/1993",
+        "ementa": "DISPÕE SOBRE A EXECUÇÃO DO DECIMO QUARTO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONOMICA 14, ENTRE BRASIL E ARGENTINA, DE 08 DE FEVEREIRO DE 1993.",
+        "dataassinatura": "25/06/1993",
+        "anoassinatura": "1993",
+        "apelido": "DEC-847-1993-06-25"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1993/dec-801-1993-04-20.md",
+      "indice": {
+        "id": "389488",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "801",
+        "norma": "DEC-801-1993-04-20",
+        "normaNome": "Decreto nº 801 de 20/04/1993",
+        "ementa": "DISPÕE SOBRE A VINCULAÇÃO DAS ENTIDADES INTEGRANTES DA ADMINISTRAÇÃO PUBLICA FEDERAL INDIRETA AOS ORGÃOS DA PRESIDENCIA DA REPUBLICA E AOS MINISTERIOS.",
+        "dataassinatura": "20/04/1993",
+        "anoassinatura": "1993",
+        "apelido": "DEC-801-1993-04-20"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"801\", \"data\": \"1992-04-20\", \"epigrafe\": \"DECRETO N° 801, DE 20 DE ABRIL DE 1992\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "389488",
+        "norma": "DEC-801-1993-04-20",
+        "urn": "urn:lex:br:federal:decreto:1993-04-20;801",
+        "url": "https://normas.leg.br/api/public/binario/11246590-fd7e-4a1f-967b-89898383ac27/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "801",
+          "data": "1993-04-20"
+        },
+        "epigrafe_encontrada": {
+          "numero": "801",
+          "data": "1992-04-20",
+          "epigrafe": "DECRETO N° 801, DE 20 DE ABRIL DE 1992"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1993/dec-803-1993-04-20.md",
+      "indice": {
+        "id": "389498",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "803",
+        "norma": "DEC-803-1993-04-20",
+        "normaNome": "Decreto nº 803 de 20/04/1993",
+        "ementa": "ALTERA AS ALIQUOTAS DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS INCIDENTE SOBRE OS PRODUTOS QUE ENUMERA.",
+        "dataassinatura": "20/04/1993",
+        "anoassinatura": "1993",
+        "apelido": "DEC-803-1993-04-20"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1993/dec-763-1993-02-25.md",
+      "indice": {
+        "id": "389292",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "763",
+        "norma": "DEC-763-1993-02-25",
+        "normaNome": "Decreto nº 763 de 25/02/1993",
+        "ementa": "PROMULGA O ACORDO SOBRE O EXERCICIO DE ATIVIDADES REMUNERADAS POR PARTE DE DEPENDENTES DO PESSOAL DIPLOMATICO, CONSULAR, ADMINISTRATIVO E TECNICO, ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPUBLICA ARGENTINA, DE 20/08/91.",
+        "dataassinatura": "25/02/1993",
+        "anoassinatura": "1993",
+        "apelido": "DEC-763-1993-02-25"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1993/dec-752-1993-02-16.md",
+      "indice": {
+        "id": "389235",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "752",
+        "norma": "DEC-752-1993-02-16",
+        "normaNome": "Decreto nº 752 de 16/02/1993",
+        "ementa": "DISPÕE SOBRE A CONCESSÃO DO CERTIFICADO DE ENTIDADE DE FINS FILANTROPICOS, A QUE SE REFERE O ARTIGO 55, INCISO II DA LEI 8.212, DE 24 DE JULHO DE 1991, E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "16/02/1993",
+        "anoassinatura": "1993",
+        "apelido": "DEC-752-1993-02-16"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1992/dec-704-1992-12-22.md",
+      "indice": {
+        "id": "388990",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "704",
+        "norma": "DEC-704-1992-12-22",
+        "normaNome": "Decreto nº 704 de 22/12/1992",
+        "ementa": "APROVA O PLANO GERAL DE CONVOCAÇÃO PARA O SERVIÇO MILITAR INICIAL NAS FORÇAS ARMADAS EM 1994.",
+        "dataassinatura": "22/12/1992",
+        "anoassinatura": "1992",
+        "apelido": "DEC-704-1992-12-22"
+      },
+      "motivo_anterior": "elemento visual não extraído na tabela: img",
+      "status": "retido_offline",
+      "detalhe": "elemento visual não extraído na tabela: img",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1992/dec-626-1992-08-07.md",
+      "indice": {
+        "id": "388594",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "626",
+        "norma": "DEC-626-1992-08-07",
+        "normaNome": "Decreto nº 626 de 07/08/1992",
+        "ementa": "ALTERA ÁREAS DE JURISDIÇÃO DOS COMANDOS MILITARES DE ÁREA E DAS REGIÕES MILITARES E DÁ OUTRAS PROVIDÊNCIAS.",
+        "dataassinatura": "07/08/1992",
+        "anoassinatura": "1992",
+        "apelido": "DEC-626-1992-08-07"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"626\", \"data\": \"1992-08-10\", \"epigrafe\": \"DECRETO N° 626, DE 10 DE AGOSTO DE 1992\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "388594",
+        "norma": "DEC-626-1992-08-07",
+        "urn": "urn:lex:br:federal:decreto:1992-08-07;626",
+        "url": "https://normas.leg.br/api/public/binario/7da8435c-5ed4-4fc6-9d89-5cc06a161564/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "626",
+          "data": "1992-08-07"
+        },
+        "epigrafe_encontrada": {
+          "numero": "626",
+          "data": "1992-08-10",
+          "epigrafe": "DECRETO N° 626, DE 10 DE AGOSTO DE 1992"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1992/dec-480-1992-03-25.md",
+      "indice": {
+        "id": "387858",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "480",
+        "norma": "DEC-480-1992-03-25",
+        "normaNome": "Decreto nº 480 de 25/03/1992",
+        "ementa": "DISPÕE SOBRE INCLUSÃO E EXCLUSÃO DE PARTICIPAÇÕES ACIONARIAS DA PETROBRAS QUIMICA S.A. - PETROQUISA NO AMBITO DO PROGRAMA NACIONAL DE DESESTATIZAÇÃO.",
+        "dataassinatura": "25/03/1992",
+        "anoassinatura": "1992",
+        "apelido": "DEC-480-1992-03-25"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1996/dec-2100-1996-12-20.md",
+      "indice": {
+        "id": "395448",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "2100",
+        "norma": "DEC-2100-1996-12-20",
+        "normaNome": "Decreto nº 2.100 de 20/12/1996",
+        "ementa": "TORNA PUBLICA A DENUNCIA, PELO BRASIL, DA CONVENçÃO DA OIT 158 RELATIVA AO TERMINO DA RELAçÃO DE TRABALHO POR INICIATIVA DO EMPREGADOR.",
+        "dataassinatura": "20/12/1996",
+        "anoassinatura": "1996",
+        "apelido": "DEC-2100-1996-12-20"
+      },
+      "motivo_anterior": "Sem artigo normativo próprio; revisão de comando decisório/íntegra necessária",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "395448",
+        "norma": "DEC-2100-1996-12-20",
+        "urn": "urn:lex:br:federal:decreto:1996-12-20;2100",
+        "url": "https://normas.leg.br/api/public/binario/fe74668c-acc1-48c4-b040-4f1b02c63a01/texto",
+        "motivo": "Sem artigo normativo próprio; íntegra/comando decisório exige revisão específica"
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1995/dec-1723-1995-11-29.md",
+      "indice": {
+        "id": "393898",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1723",
+        "norma": "DEC-1723-1995-11-29",
+        "normaNome": "Decreto nº 1.723 de 29/11/1995",
+        "ementa": "DISPÕE SOBRE O REMANEJAMENTO DOS CARGOS EM COMISSÃO QUE MENCIONA.",
+        "dataassinatura": "29/11/1995",
+        "anoassinatura": "1995",
+        "apelido": "DEC-1723-1995-11-29"
+      },
+      "motivo_anterior": "Cabeçalho próprio de RETIFICAÇÃO avulsa",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "393898",
+        "norma": "DEC-1723-1995-11-29",
+        "urn": "urn:lex:br:federal:decreto:1995-11-29;1723",
+        "url": "https://normas.leg.br/api/public/binario/f97c3239-a357-49da-ad2f-01b45eba5ea0/texto",
+        "motivo": "Documento de retificação avulsa; buscar a versão integral da norma"
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1993/dec-1026-1993-12-28.md",
+      "indice": {
+        "id": "390649",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "1026",
+        "norma": "DEC-1026-1993-12-28",
+        "normaNome": "Decreto nº 1.026 de 28/12/1993",
+        "ementa": "DISPÕE SOBRE O PROGRAMA NACIONAL DE TREINAMENTO DO SERVIDOR PUBLICO - PNTS E REGULAMENTA O FUNDO ESPECIAL DE FORMAÇÃO, QUALIFICAÇÃO, TREINAMENTO E DESENVOLVIMENTO DO SERVIDOR PUBLICO - FUNDASE, INSTITUIDO PELA LEI 8.627, DE 19 DE FEVEREIRO DE 1993, E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "28/12/1993",
+        "anoassinatura": "1993",
+        "apelido": "DEC-1026-1993-12-28"
+      },
+      "motivo_anterior": "Documento Intermediate; sem prova de íntegra da norma; Cabeçalho próprio de RETIFICAÇÃO avulsa; Sem artigo normativo próprio; revisão de comando decisório/íntegra necessária",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1991/dec-318-1991-10-31.md",
+      "indice": {
+        "id": "387028",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "318",
+        "norma": "DEC-318-1991-10-31",
+        "normaNome": "Decreto nº 318 de 31/10/1991",
+        "ementa": "PROMULGA O NOVO TEXTO DA CONVENÇÃO INTERNACIONAL PARA A PROTEÇÃO DOS VEGETAIS.",
+        "dataassinatura": "31/10/1991",
+        "anoassinatura": "1991",
+        "apelido": "DEC-318-1991-10-31"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"31\", \"data\": \"1991-10-08\", \"epigrafe\": \"DECRETO N° 318 DE OUTUBRO DE 1991\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "387028",
+        "norma": "DEC-318-1991-10-31",
+        "urn": "urn:lex:br:federal:decreto:1991-10-31;318",
+        "url": "https://normas.leg.br/api/public/binario/b0b2150b-93a4-4800-8d40-066cf17c7c0a/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "318",
+          "data": "1991-10-31"
+        },
+        "epigrafe_encontrada": {
+          "numero": "31",
+          "data": "1991-10-08",
+          "epigrafe": "DECRETO N° 318 DE OUTUBRO DE 1991"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1991/dec-58-1991-03-13.md",
+      "indice": {
+        "id": "385611",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "58",
+        "norma": "DEC-58-1991-03-13",
+        "normaNome": "Decreto nº 58 de 13/03/1991",
+        "ementa": "DISPÕE SOBRE OS QUADROS DO CORPO DE OFICIAIS DA ATIVA DA AERONAUTICA.",
+        "dataassinatura": "13/03/1991",
+        "anoassinatura": "1991",
+        "apelido": "DEC-58-1991-03-13"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"58\", \"data\": \"1991-05-13\", \"epigrafe\": \"DECRETO Nº 58, DE 13 DE MAIO DE 1991\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "385611",
+        "norma": "DEC-58-1991-03-13",
+        "urn": "urn:lex:br:federal:decreto:1991-03-13;58",
+        "url": "https://normas.leg.br/api/public/binario/a80dffe2-a8ce-40a7-9e56-1875e60bce28/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "58",
+          "data": "1991-03-13"
+        },
+        "epigrafe_encontrada": {
+          "numero": "58",
+          "data": "1991-05-13",
+          "epigrafe": "DECRETO Nº 58, DE 13 DE MAIO DE 1991"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1990/dec-99792-1990-12-12.md",
+      "indice": {
+        "id": "522433",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "99792",
+        "norma": "DEC-99792-1990-12-12",
+        "normaNome": "Decreto nº 99.792 de 12/12/1990",
+        "ementa": "ABRE AO ORÇAMENTO FISCAL DA UNIÃO, EM FAVOR DE DIVERSOS ORGÃOS DO PODER JUDICIARIO E DO MINISTERIO PUBLICO DA UNIÃO, CREDITOS ADICIONAIS NO VALOR DE CR$ 800.519.000,00, PARA REFORÇO DE DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.",
+        "dataassinatura": "12/12/1990",
+        "anoassinatura": "1990",
+        "apelido": "DEC-99792-1990-12-12"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"99792\", \"data\": \"1990-02-12\", \"epigrafe\": \"DECRETO N° 99.792, DE 12 DE FEVEREIRO DE 1990\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "522433",
+        "norma": "DEC-99792-1990-12-12",
+        "urn": "urn:lex:br:federal:decreto:1990-12-12;99792",
+        "url": "https://normas.leg.br/api/public/binario/8dbb73fe-da9e-4b10-9a99-f1d1450424ef/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "99792",
+          "data": "1990-12-12"
+        },
+        "epigrafe_encontrada": {
+          "numero": "99792",
+          "data": "1990-02-12",
+          "epigrafe": "DECRETO N° 99.792, DE 12 DE FEVEREIRO DE 1990"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1990/dec-99237-1990-05-04.md",
+      "indice": {
+        "id": "521877",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "99237",
+        "norma": "DEC-99237-1990-05-04",
+        "normaNome": "Decreto nº 99.237 de 04/05/1990",
+        "ementa": "ABRE A PRESIDENCIA DA REPUBLICA EM FAVOR DO GABINETE DA PRESIDENCIA DA REPUBLICA O CREDITO SUPLEMENTAR NO VALOR DE CR$ 68.718.000,00, PARA REFORÇO DE DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.",
+        "dataassinatura": "04/05/1990",
+        "anoassinatura": "1990",
+        "apelido": "DEC-99237-1990-05-04"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1990/dec-98950-1990-02-15.md",
+      "indice": {
+        "id": "521590",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "98950",
+        "norma": "DEC-98950-1990-02-15",
+        "normaNome": "Decreto nº 98.950 de 15/02/1990",
+        "ementa": "OUTORGA CONCESSÃO A RADIO VALE DO POTENGI LTDA., PARA EXPLORAR SERVIÇO DE RADIODIFUSÃO SONORA EM ONDA MEDIA, NA CIDADE DE SÃO PAULO DO POTENGI, ESTADO DO RIO GRANDE DO NORTE.",
+        "dataassinatura": "15/02/1990",
+        "anoassinatura": "1990",
+        "apelido": "DEC-98950-1990-02-15"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"98950\", \"data\": \"1990-02-16\", \"epigrafe\": \"DECRETO Nº 98.950, DE 16 DE FEVEREIRO DE 1990\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "521590",
+        "norma": "DEC-98950-1990-02-15",
+        "urn": "urn:lex:br:federal:decreto:1990-02-15;98950",
+        "url": "https://normas.leg.br/api/public/binario/6e622302-1076-4f92-8f4d-71765bced07e/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "98950",
+          "data": "1990-02-15"
+        },
+        "epigrafe_encontrada": {
+          "numero": "98950",
+          "data": "1990-02-16",
+          "epigrafe": "DECRETO Nº 98.950, DE 16 DE FEVEREIRO DE 1990"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1990/dec-98928-1990-02-02.md",
+      "indice": {
+        "id": "521568",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "98928",
+        "norma": "DEC-98928-1990-02-02",
+        "normaNome": "Decreto nº 98.928 de 02/02/1990",
+        "ementa": "ALTERA DISPOSITIVOS DO DECRETO 89.086, DE 01 DE DEZEMBRO DE 1983 E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "02/02/1990",
+        "anoassinatura": "1990",
+        "apelido": "DEC-98928-1990-02-02"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1990/dec-98882-1990-01-25.md",
+      "indice": {
+        "id": "521522",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "98882",
+        "norma": "DEC-98882-1990-01-25",
+        "normaNome": "Decreto nº 98.882 de 25/01/1990",
+        "ementa": "OUTORGA CONCESSÃO A RADIO JORNAL CIDADE DE JUIZ DE FORA LTDA., PARA EXPLORAR SERVIÇO DE RADIODIFUSÃO SONORA EM ONDA MEDIA, NA CIDADE DE JUIZ DE FORA, ESTADO DE MINAS GERAIS.",
+        "dataassinatura": "25/01/1990",
+        "anoassinatura": "1990",
+        "apelido": "DEC-98882-1990-01-25"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"98882\", \"data\": \"1990-01-26\", \"epigrafe\": \"DECRETO Nº 98.882, DE 26 DE JANEIRO DE 1990\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "521522",
+        "norma": "DEC-98882-1990-01-25",
+        "urn": "urn:lex:br:federal:decreto:1990-01-25;98882",
+        "url": "https://normas.leg.br/api/public/binario/cebb9af3-10c1-42fc-801c-de1f7e059c8f/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "98882",
+          "data": "1990-01-25"
+        },
+        "epigrafe_encontrada": {
+          "numero": "98882",
+          "data": "1990-01-26",
+          "epigrafe": "DECRETO Nº 98.882, DE 26 DE JANEIRO DE 1990"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1990/dec-98839-1990-01-17.md",
+      "indice": {
+        "id": "521479",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "98839",
+        "norma": "DEC-98839-1990-01-17",
+        "normaNome": "Decreto nº 98.839 de 17/01/1990",
+        "ementa": "DISPÕE SOBRE A EXECUÇÃO DA ATA DE RETIFICAÇÃO DO ACORDO DE COMPLEMENTAÇÃO ECONOMICA 12, ENTRE O BRASIL E A ARGENTINA.",
+        "dataassinatura": "17/01/1990",
+        "anoassinatura": "1990",
+        "apelido": "DEC-98839-1990-01-17"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1990/dec-98829-1990-01-15.md",
+      "indice": {
+        "id": "521469",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "98829",
+        "norma": "DEC-98829-1990-01-15",
+        "normaNome": "Decreto nº 98.829 de 15/01/1990",
+        "ementa": "DISPÕE SOBRE A COMISSÃO COORDENADORA REGIONAL DE PESQUISAS NA AMAZONIA - CORPAM, CRIADA PELA LEI 7.796, DE 10 DE JULHO DE 1989.",
+        "dataassinatura": "15/01/1990",
+        "anoassinatura": "1990",
+        "apelido": "DEC-98829-1990-01-15"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"98829\", \"data\": \"1990-01-16\", \"epigrafe\": \"DECRETO Nº 98.829, DE 16 DE JANEIRO DE 1990\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "521469",
+        "norma": "DEC-98829-1990-01-15",
+        "urn": "urn:lex:br:federal:decreto:1990-01-15;98829",
+        "url": "https://normas.leg.br/api/public/binario/be83e237-98c0-46f2-8f03-925c8e98a091/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "98829",
+          "data": "1990-01-15"
+        },
+        "epigrafe_encontrada": {
+          "numero": "98829",
+          "data": "1990-01-16",
+          "epigrafe": "DECRETO Nº 98.829, DE 16 DE JANEIRO DE 1990"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1990/dec-98827-1990-01-15.md",
+      "indice": {
+        "id": "521467",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "98827",
+        "norma": "DEC-98827-1990-01-15",
+        "normaNome": "Decreto nº 98.827 de 15/01/1990",
+        "ementa": "RETIFICA OS LIMITES E HOMOLOGA A DEMARCAÇÃO ADMINISTRATIVA DA AREA INDIGENA IRANTXE, NO MUNICIPIO DE DIAMANTINO, ESTADO DE MATO GROSSO E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "15/01/1990",
+        "anoassinatura": "1990",
+        "apelido": "DEC-98827-1990-01-15"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"98827\", \"data\": \"1990-01-16\", \"epigrafe\": \"DECRETO N° 98.827, DE 16 DE JANEIRO DE 1990\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "521467",
+        "norma": "DEC-98827-1990-01-15",
+        "urn": "urn:lex:br:federal:decreto:1990-01-15;98827",
+        "url": "https://normas.leg.br/api/public/binario/55a8d287-9337-409d-8c94-fed8766d3713/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "98827",
+          "data": "1990-01-15"
+        },
+        "epigrafe_encontrada": {
+          "numero": "98827",
+          "data": "1990-01-16",
+          "epigrafe": "DECRETO N° 98.827, DE 16 DE JANEIRO DE 1990"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1990/dec-98825-1990-01-15.md",
+      "indice": {
+        "id": "521465",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "98825",
+        "norma": "DEC-98825-1990-01-15",
+        "normaNome": "Decreto nº 98.825 de 15/01/1990",
+        "ementa": "HOMOLOGA DEMARCAÇÃO ADMINISTRATIVA DA TERRA INDIGENA CARRETÃO II, QUE MENCIONA, NO ESTADO DE GOIAS.",
+        "dataassinatura": "15/01/1990",
+        "anoassinatura": "1990",
+        "apelido": "DEC-98825-1990-01-15"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"98825\", \"data\": \"1990-01-16\", \"epigrafe\": \"DECRETO 98.825, DE 16 DE JANEIRO DE 1990\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "521465",
+        "norma": "DEC-98825-1990-01-15",
+        "urn": "urn:lex:br:federal:decreto:1990-01-15;98825",
+        "url": "https://normas.leg.br/api/public/binario/a55f6219-108d-401f-b259-921dbd8af42a/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "98825",
+          "data": "1990-01-15"
+        },
+        "epigrafe_encontrada": {
+          "numero": "98825",
+          "data": "1990-01-16",
+          "epigrafe": "DECRETO 98.825, DE 16 DE JANEIRO DE 1990"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1990/dec-98821-1990-01-12.md",
+      "indice": {
+        "id": "521461",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "98821",
+        "norma": "DEC-98821-1990-01-12",
+        "normaNome": "Decreto nº 98.821 de 12/01/1990",
+        "ementa": "FIXA AS PROPORÇÕES, REFERENTES AO ANO-BASE DE 1989, A SEREM OBSERVADAS PARA PROMOÇÃO OBRIGATORIA DE OFICIAIS DAS ARMAS, QUADROS E SERVIÇOS DO EXERCITO.",
+        "dataassinatura": "12/01/1990",
+        "anoassinatura": "1990",
+        "apelido": "DEC-98821-1990-01-12"
+      },
+      "motivo_anterior": "Fonte contém conteúdo visual não validado: ['img', 'img', 'img', 'img', 'img']",
+      "status": "retido_validacao",
+      "detalhe": "Conteúdo visual",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1990/dec-98819-1990-01-11.md",
+      "indice": {
+        "id": "521459",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "98819",
+        "norma": "DEC-98819-1990-01-11",
+        "normaNome": "Decreto nº 98.819 de 11/01/1990",
+        "ementa": "ALTERA O PRAZO DE CONCESSÃO OUTORGADA AO ESTADO DO PARANA, ATRAVES DO DECRETO 36.398, DE 23 DE FEVEREIRO DE 1949, E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "11/01/1990",
+        "anoassinatura": "1990",
+        "apelido": "DEC-98819-1990-01-11"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1990/dec-98814-1990-01-10.md",
+      "indice": {
+        "id": "521454",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "98814",
+        "norma": "DEC-98814-1990-01-10",
+        "normaNome": "Decreto nº 98.814 de 10/01/1990",
+        "ementa": "HOMOLOGA A DEMARCAÇÃO DA AREA INDIGENA NAMBIKWARA, ESTADO DE MATO GROSSO.",
+        "dataassinatura": "10/01/1990",
+        "anoassinatura": "1990",
+        "apelido": "DEC-98814-1990-01-10"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"9814\", \"data\": \"1990-01-10\", \"epigrafe\": \"DECRETO Nº 9.814, DE 10 DE JANEIRO DE 1990\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "521454",
+        "norma": "DEC-98814-1990-01-10",
+        "urn": "urn:lex:br:federal:decreto:1990-01-10;98814",
+        "url": "https://normas.leg.br/api/public/binario/67692bab-957f-4104-a692-ee76a984cfd8/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "98814",
+          "data": "1990-01-10"
+        },
+        "epigrafe_encontrada": {
+          "numero": "9814",
+          "data": "1990-01-10",
+          "epigrafe": "DECRETO Nº 9.814, DE 10 DE JANEIRO DE 1990"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1989/dec-98740-1989-12-28.md",
+      "indice": {
+        "id": "521380",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "98740",
+        "norma": "DEC-98740-1989-12-28",
+        "normaNome": "Decreto nº 98.740 de 28/12/1989",
+        "ementa": "ABRE AO ORÇAMENTO FISCAL DA UNIÃO, EM FAVOR DO MINISTERIO DA EDUCAÇÃO, CREDITOS ADICIONAIS NO VALOR DE NCZ 22.190.141,00, PARA REFORÇO DE DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.",
+        "dataassinatura": "28/12/1989",
+        "anoassinatura": "1989",
+        "apelido": "DEC-98740-1989-12-28"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1989/dec-98557-1989-12-14.md",
+      "indice": {
+        "id": "521197",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "98557",
+        "norma": "DEC-98557-1989-12-14",
+        "normaNome": "Decreto nº 98.557 de 14/12/1989",
+        "ementa": "ABRE AO MINISTERIO DA AGRICULTURA, EM FAVOR DE DIVERSAS UNIDADES ORÇAMENTARIAS, O CREDITO SUPLEMENTAR NO VALOR DE NCZ 38.729.820,00, PARA REFORÇO DE DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.",
+        "dataassinatura": "14/12/1989",
+        "anoassinatura": "1989",
+        "apelido": "DEC-98557-1989-12-14"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1989/dec-98545-1989-12-14.md",
+      "indice": {
+        "id": "521185",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "98545",
+        "norma": "DEC-98545-1989-12-14",
+        "normaNome": "Decreto nº 98.545 de 14/12/1989",
+        "ementa": "ABRE AO MINISTERIO DA PREVIDENCIA E ASSISTENCIA SOCIAL, EM FAVOR DO DEPARTAMENTO DE ADMINISTRAÇÃO E DA FUNDAÇÃO ABRIGO CRISTO REDENTOR, O CREDITO SUPLEMENTAR NO VALOR DE NCZ 1.474.726,00, PARA REFORÇO DE DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.",
+        "dataassinatura": "14/12/1989",
+        "anoassinatura": "1989",
+        "apelido": "DEC-98545-1989-12-14"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1989/dec-98466-1989-12-05.md",
+      "indice": {
+        "id": "521106",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "98466",
+        "norma": "DEC-98466-1989-12-05",
+        "normaNome": "Decreto nº 98.466 de 05/12/1989",
+        "ementa": "ABRE AO MINISTERIO DO INTERIOR, EM FAVOR DA SECRETARIA GERAL, O CREDITO EXTRAORDINARIO NO VALOR DE NCZ 10.000.000,00, PARA REFORÇO DE DOTAÇÃO CONSIGNADA NO VIGENTE ORÇAMENTO.",
+        "dataassinatura": "05/12/1989",
+        "anoassinatura": "1989",
+        "apelido": "DEC-98466-1989-12-05"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1992/dec-433-1992-01-24.md",
+      "indice": {
+        "id": "387613",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "433",
+        "norma": "DEC-433-1992-01-24",
+        "normaNome": "Decreto nº 433 de 24/01/1992",
+        "ementa": "DISPÕE SOBRE A AQUISIÇÃO DE IMOVEIS RURAIS, PARA FINS DE REFORMA AGRARIA, POR MEIO DE COMPRA E VENDA.",
+        "dataassinatura": "24/01/1992",
+        "anoassinatura": "1992",
+        "apelido": "DEC-433-1992-01-24"
+      },
+      "motivo_anterior": "Documento Intermediate; sem prova de íntegra da norma; Cabeçalho próprio de RETIFICAÇÃO avulsa; Sem artigo normativo próprio; revisão de comando decisório/íntegra necessária",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1990/dec-99757-1990-12-03.md",
+      "indice": {
+        "id": "522398",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "99757",
+        "norma": "DEC-99757-1990-12-03",
+        "normaNome": "Decreto nº 99.757 de 03/12/1990",
+        "ementa": "RETIFICA O DECRETO 98.602, DE 19 DE DEZEMBRO DE 1989, QUE DEU NOVA REDAÇÃO AO DECRETO 50.215, DE 28 DE JANEIRO DE 1961, QUE PROMULGOU A CONVENÇÃO RELATIVA AO ESTATUTO DOS REFUGIADOS.",
+        "dataassinatura": "03/12/1990",
+        "anoassinatura": "1990",
+        "apelido": "DEC-99757-1990-12-03"
+      },
+      "motivo_anterior": "Sem artigo normativo próprio; revisão de comando decisório/íntegra necessária",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "522398",
+        "norma": "DEC-99757-1990-12-03",
+        "urn": "urn:lex:br:federal:decreto:1990-12-03;99757",
+        "url": "https://normas.leg.br/api/public/binario/fa53ee95-c787-4903-8605-6cfddbb583f6/texto",
+        "motivo": "Sem artigo normativo próprio; íntegra/comando decisório exige revisão específica"
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1990/dec-99532-1990-09-19.md",
+      "indice": {
+        "id": "522173",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "99532",
+        "norma": "DEC-99532-1990-09-19",
+        "normaNome": "Decreto nº 99.532 de 19/09/1990",
+        "ementa": "DISPÕE SOBRE A COMPOSIÇÃO E FUNCIONAMENTO DO CONSELHO NACIONAL DE METROLOGIA, NORMALIZAÇÃO E QUALIDADE INDUSTRIAL - CONMETRO.",
+        "dataassinatura": "19/09/1990",
+        "anoassinatura": "1990",
+        "apelido": "DEC-99532-1990-09-19"
+      },
+      "motivo_anterior": "Documento Intermediate; sem prova de íntegra da norma; Sem artigo normativo próprio; revisão de comando decisório/íntegra necessária",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1990/dec-99199-1990-03-29.md",
+      "indice": {
+        "id": "521839",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "99199",
+        "norma": "DEC-99199-1990-03-29",
+        "normaNome": "Decreto nº 99.199 de 29/03/1990",
+        "ementa": "PROCEDE A TRANSFERENCIA DAS DOTAÇÕES ORÇAMENTARIAS QUE ESPECIFICA.",
+        "dataassinatura": "29/03/1990",
+        "anoassinatura": "1990",
+        "apelido": "DEC-99199-1990-03-29"
+      },
+      "motivo_anterior": "Documento Intermediate; sem prova de íntegra da norma; Cabeçalho próprio de RETIFICAÇÃO avulsa; Sem artigo normativo próprio; revisão de comando decisório/íntegra necessária",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1990/dec-98946-1990-02-13.md",
+      "indice": {
+        "id": "521586",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "98946",
+        "norma": "DEC-98946-1990-02-13",
+        "normaNome": "Decreto nº 98.946 de 13/02/1990",
+        "ementa": "ALTERA O DECRETO 17.253, DE 28 DE NOVEMBRO DE 1943, E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "13/02/1990",
+        "anoassinatura": "1990",
+        "apelido": "DEC-98946-1990-02-13"
+      },
+      "motivo_anterior": "Documento Intermediate; sem prova de íntegra da norma; Cabeçalho próprio de RETIFICAÇÃO avulsa; Sem artigo normativo próprio; revisão de comando decisório/íntegra necessária",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1989/dec-98428-1989-11-21.md",
+      "indice": {
+        "id": "521068",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "98428",
+        "norma": "DEC-98428-1989-11-21",
+        "normaNome": "Decreto nº 98.428 de 21/11/1989",
+        "ementa": "DISPÕE SOBRE A EXECUÇÃO DO DECIMO PROTOCOLO ADICIONAL AO ACORDO COMERCIAL 18, NO SETOR DA INDUSTRIA FOTOGRAFICA, ENTRE O BRASIL, A ARGENTINA, O MEXICO, O URUGUAI E A VENEZUELA.",
+        "dataassinatura": "21/11/1989",
+        "anoassinatura": "1989",
+        "apelido": "DEC-98428-1989-11-21"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1989/dec-98037-1989-08-09.md",
+      "indice": {
+        "id": "520677",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "98037",
+        "norma": "DEC-98037-1989-08-09",
+        "normaNome": "Decreto nº 98.037 de 09/08/1989",
+        "ementa": "OUTORGA CONCESSÃO A RIO SÃO FRANCISCO RADIODIFUSÃO LTDA., PARA EXPLORAR SERVIÇO DE RADIODIFUSÃO SONORA EM ONDA MEDIA, NA CIDADE DE BOM JESUS DA LAPA, ESTADO DA BAHIA.",
+        "dataassinatura": "09/08/1989",
+        "anoassinatura": "1989",
+        "apelido": "DEC-98037-1989-08-09"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1989/dec-97926-1989-07-07.md",
+      "indice": {
+        "id": "520566",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "97926",
+        "norma": "DEC-97926-1989-07-07",
+        "normaNome": "Decreto nº 97.926 de 07/07/1989",
+        "ementa": "AUTORIZA O FUNCIONAMENTO DO CURSO DE SERVIÇO SOCIAL DA FACULDADE RIOPRETENSE DE SERVIÇO SOCIAL.",
+        "dataassinatura": "07/07/1989",
+        "anoassinatura": "1989",
+        "apelido": "DEC-97926-1989-07-07"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1989/dec-97916-1989-07-06.md",
+      "indice": {
+        "id": "520556",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "97916",
+        "norma": "DEC-97916-1989-07-06",
+        "normaNome": "Decreto nº 97.916 de 06/07/1989",
+        "ementa": "ALTERA A REDAÇÃO DO ARTIGO 48 DO DECRETO 93.872, DE 23 DE DEZEMBRO DE 1986.",
+        "dataassinatura": "06/07/1989",
+        "anoassinatura": "1989",
+        "apelido": "DEC-97916-1989-07-06"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1989/dec-97883-1989-06-27.md",
+      "indice": {
+        "id": "520523",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "97883",
+        "norma": "DEC-97883-1989-06-27",
+        "normaNome": "Decreto nº 97.883 de 27/06/1989",
+        "ementa": "OUTORGA CONCESSÃO A RCE TV DE XANXERE LIMITADA, PARA EXPLORAR SERVIÇO DE RADIODIFUSÃO DE SONS E IMAGENS (TELEVISÃO), NA CIDADE DE XANXERE, ESTADO DE SANTA CATARINA.",
+        "dataassinatura": "27/06/1989",
+        "anoassinatura": "1989",
+        "apelido": "DEC-97883-1989-06-27"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"97883\", \"data\": \"1989-06-26\", \"epigrafe\": \"DECRETO N° 97.883, DE 26 DE JUNHO DE 1989\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "520523",
+        "norma": "DEC-97883-1989-06-27",
+        "urn": "urn:lex:br:federal:decreto:1989-06-27;97883",
+        "url": "https://normas.leg.br/api/public/binario/39d6a004-946c-41e1-8a29-7cccc896c811/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "97883",
+          "data": "1989-06-27"
+        },
+        "epigrafe_encontrada": {
+          "numero": "97883",
+          "data": "1989-06-26",
+          "epigrafe": "DECRETO N° 97.883, DE 26 DE JUNHO DE 1989"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1989/dec-97707-1989-05-03.md",
+      "indice": {
+        "id": "520347",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "97707",
+        "norma": "DEC-97707-1989-05-03",
+        "normaNome": "Decreto nº 97.707 de 03/05/1989",
+        "ementa": "REDUZ A ALIQUOTA DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS INCIDENTE SOBRE CIGARROS.",
+        "dataassinatura": "03/05/1989",
+        "anoassinatura": "1989",
+        "apelido": "DEC-97707-1989-05-03"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"97707\", \"data\": \"1988-05-03\", \"epigrafe\": \"DECRETO N° 97.707, DE 03 DE MAIO DE 1988\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "520347",
+        "norma": "DEC-97707-1989-05-03",
+        "urn": "urn:lex:br:federal:decreto:1989-05-03;97707",
+        "url": "https://normas.leg.br/api/public/binario/5667a553-d442-4d96-ad00-d4f0c8633703/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "97707",
+          "data": "1989-05-03"
+        },
+        "epigrafe_encontrada": {
+          "numero": "97707",
+          "data": "1988-05-03",
+          "epigrafe": "DECRETO N° 97.707, DE 03 DE MAIO DE 1988"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1989/dec-97675-1989-04-20.md",
+      "indice": {
+        "id": "520315",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "97675",
+        "norma": "DEC-97675-1989-04-20",
+        "normaNome": "Decreto nº 97.675 de 20/04/1989",
+        "ementa": "AUTORIZA O FUNCIONAMENTO DO CURSO DE DANÇA, DA FACULDADE DE DANÇA DE LONDRINA, PARANA.",
+        "dataassinatura": "20/04/1989",
+        "anoassinatura": "1989",
+        "apelido": "DEC-97675-1989-04-20"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1989/dec-97489-1989-02-08.md",
+      "indice": {
+        "id": "520129",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "97489",
+        "norma": "DEC-97489-1989-02-08",
+        "normaNome": "Decreto nº 97.489 de 08/02/1989",
+        "ementa": "PROMULGA O ACORDO SOBRE O ESTABELECIMENTO E OS PRIVILEGIOS E IMUNIDADES DA DELEGAÇÃO DA COMISSÃO DAS COMUNIDADES EUROPEIAS NO BRASIL.",
+        "dataassinatura": "08/02/1989",
+        "anoassinatura": "1989",
+        "apelido": "DEC-97489-1989-02-08"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1989/dec-97475-1989-01-25.md",
+      "indice": {
+        "id": "520115",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "97475",
+        "norma": "DEC-97475-1989-01-25",
+        "normaNome": "Decreto nº 97.475 de 25/01/1989",
+        "ementa": "DISPÕE SOBRE VIAGENS AO EXTERIOR.",
+        "dataassinatura": "25/01/1989",
+        "anoassinatura": "1989",
+        "apelido": "DEC-97475-1989-01-25"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"97475\", \"data\": \"1989-01-05\", \"epigrafe\": \"DECRETO N° 97.475, DE 5 DE JANEIRO DE 1989\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "520115",
+        "norma": "DEC-97475-1989-01-25",
+        "urn": "urn:lex:br:federal:decreto:1989-01-25;97475",
+        "url": "https://normas.leg.br/api/public/binario/e2493c92-4c56-4b4e-b773-26b4ee6e88de/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "97475",
+          "data": "1989-01-25"
+        },
+        "epigrafe_encontrada": {
+          "numero": "97475",
+          "data": "1989-01-05",
+          "epigrafe": "DECRETO N° 97.475, DE 5 DE JANEIRO DE 1989"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1989/dec-97433-1989-01-05.md",
+      "indice": {
+        "id": "520073",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "97433",
+        "norma": "DEC-97433-1989-01-05",
+        "normaNome": "Decreto nº 97.433 de 05/01/1989",
+        "ementa": "AUTORIZA O FUNCIONAMENTO DO CURSO DE CIENCIAS CONTABEIS DA FACULDADE JIPARANAENSE DE CIENCIAS CONTABEIS, EM JI-PARANA, ESTADO DE RONDONIA.",
+        "dataassinatura": "05/01/1989",
+        "anoassinatura": "1989",
+        "apelido": "DEC-97433-1989-01-05"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"97433\", \"data\": \"1989-01-06\", \"epigrafe\": \"DECRETO N° 97.433, DE 6 DE JANEIRO DE 1989\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "520073",
+        "norma": "DEC-97433-1989-01-05",
+        "urn": "urn:lex:br:federal:decreto:1989-01-05;97433",
+        "url": "https://normas.leg.br/api/public/binario/ad0dbf83-0a34-482c-b0d9-eacb1a1972c0/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "97433",
+          "data": "1989-01-05"
+        },
+        "epigrafe_encontrada": {
+          "numero": "97433",
+          "data": "1989-01-06",
+          "epigrafe": "DECRETO N° 97.433, DE 6 DE JANEIRO DE 1989"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1989/dec-97431-1989-01-05.md",
+      "indice": {
+        "id": "520071",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "97431",
+        "norma": "DEC-97431-1989-01-05",
+        "normaNome": "Decreto nº 97.431 de 05/01/1989",
+        "ementa": "AUTORIZA O FUNCIONAMENTO DO CURSO DE ADMINISTRAÇÃO DA FACULDADE DE CIENCIAS ADMINISTRATIVAS  E CONTABEIS DE GUAXUPE, EM MINAS GERAIS.",
+        "dataassinatura": "05/01/1989",
+        "anoassinatura": "1989",
+        "apelido": "DEC-97431-1989-01-05"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"97431\", \"data\": \"1989-01-06\", \"epigrafe\": \"DECRETO N° 97.431, DE 6 DE JANEIRO DE 1989\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "520071",
+        "norma": "DEC-97431-1989-01-05",
+        "urn": "urn:lex:br:federal:decreto:1989-01-05;97431",
+        "url": "https://normas.leg.br/api/public/binario/c6eded76-98a5-4036-b148-b31e8df4cfa8/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "97431",
+          "data": "1989-01-05"
+        },
+        "epigrafe_encontrada": {
+          "numero": "97431",
+          "data": "1989-01-06",
+          "epigrafe": "DECRETO N° 97.431, DE 6 DE JANEIRO DE 1989"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-97132-1988-11-23.md",
+      "indice": {
+        "id": "519772",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "97132",
+        "norma": "DEC-97132-1988-11-23",
+        "normaNome": "Decreto nº 97.132 de 23/11/1988",
+        "ementa": "ABRE AO MINISTERIO DAS COMUNICAÇÕES, O CREDITO SUPLEMENTAR DE CZ 236.056.000,00, PARA REFORÇO DE DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.",
+        "dataassinatura": "23/11/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-97132-1988-11-23"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96978-1988-10-14.md",
+      "indice": {
+        "id": "519618",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96978",
+        "norma": "DEC-96978-1988-10-14",
+        "normaNome": "Decreto nº 96.978 de 14/10/1988",
+        "ementa": "ABRE AO ORÇAMENTO DA UNIÃO, EM FAVOR DE DIVERSOS ORGÃOS, O CREDITO SUPLEMENTAR DE CZ 30.430.241.000,00, PARA REFORÇO DE DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.",
+        "dataassinatura": "14/10/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96978-1988-10-14"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96976-1988-10-14.md",
+      "indice": {
+        "id": "519616",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96976",
+        "norma": "DEC-96976-1988-10-14",
+        "normaNome": "Decreto nº 96.976 de 14/10/1988",
+        "ementa": "ABRE A DIVERSOS ORGÃOS DOS PODERES LEGISLATIVO E JUDICIARIO E AO MINISTERIO DA JUSTIÇA, EM FAVOR DE DIVERSAS UNIDADES ORÇAMENTARIAS, O CREDITO SUPLEMENTAR DE CZ 27.798.321.000,00, PARA REFORÇO DAS DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.",
+        "dataassinatura": "14/10/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96976-1988-10-14"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96857-1988-09-29.md",
+      "indice": {
+        "id": "519497",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96857",
+        "norma": "DEC-96857-1988-09-29",
+        "normaNome": "Decreto nº 96.857 de 29/09/1988",
+        "ementa": "REAJUSTA O VALOR DO PISO NACIONAL DE SALARIOS.",
+        "dataassinatura": "29/09/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96857-1988-09-29"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96795-1988-09-28.md",
+      "indice": {
+        "id": "519435",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96795",
+        "norma": "DEC-96795-1988-09-28",
+        "normaNome": "Decreto nº 96.795 de 28/09/1988",
+        "ementa": "DECLARA DE UTILIDADE PUBLICA, PARA FINS DE DESAPROPRIAÇÃO, AREA DE TERRA NECESSARIA A IMPLANTAÇÃO DA SUBESTAÇÃO TRANSFORMADORA DE DISTRIBUIÇÃO LOUVEIRA, DA ELETROPAULO - ELETRICIDADE DE SÃO PAULO S.A., NO ESTADO DE SÃO PAULO.",
+        "dataassinatura": "28/09/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96795-1988-09-28"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96747-1988-09-21.md",
+      "indice": {
+        "id": "519387",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96747",
+        "norma": "DEC-96747-1988-09-21",
+        "normaNome": "Decreto nº 96.747 de 21/09/1988",
+        "ementa": "DECLARA DE UTILIDADE PUBLICA AS INSTITUIÇÕES QUE MENCIONA.",
+        "dataassinatura": "21/09/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96747-1988-09-21"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"96747\", \"data\": \"1988-12-21\", \"epigrafe\": \"DECRETO N° 96.747, DE 21 DE DEZEMBRO DE 1988\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "519387",
+        "norma": "DEC-96747-1988-09-21",
+        "urn": "urn:lex:br:federal:decreto:1988-09-21;96747",
+        "url": "https://normas.leg.br/api/public/binario/575b81bf-0e9f-47ce-9f5d-b204619c38de/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "96747",
+          "data": "1988-09-21"
+        },
+        "epigrafe_encontrada": {
+          "numero": "96747",
+          "data": "1988-12-21",
+          "epigrafe": "DECRETO N° 96.747, DE 21 DE DEZEMBRO DE 1988"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96737-1988-09-20.md",
+      "indice": {
+        "id": "519377",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96737",
+        "norma": "DEC-96737-1988-09-20",
+        "normaNome": "Decreto nº 96.737 de 20/09/1988",
+        "ementa": "ABRE AO MINISTERIO DOS TRANSPORTES, EM FAVOR DE ENTIDADES SUPERVISIONADAS, O CREDITO SUPLEMENTAR DE CZ 735.730.000,00, PARA REFORÇO DE DOTAÇÃO CONSIGNADA NO VIGENTE ORÇAMENTO.",
+        "dataassinatura": "20/09/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96737-1988-09-20"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96640-1988-09-02.md",
+      "indice": {
+        "id": "519280",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96640",
+        "norma": "DEC-96640-1988-09-02",
+        "normaNome": "Decreto nº 96.640 de 02/09/1988",
+        "ementa": "OUTORGA CONCESSÃO A RADIODIFUSÃO CIDADE DE PALMITAL LTDA., PARA EXPLORAR SERVIÇO DE RADIODIFUSÃO SONORA EM ONDA MEDIA, NA CIDADE DE PALMITAL, ESTADO DO PARANA.",
+        "dataassinatura": "02/09/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96640-1988-09-02"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96623-1988-08-31.md",
+      "indice": {
+        "id": "519263",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96623",
+        "norma": "DEC-96623-1988-08-31",
+        "normaNome": "Decreto nº 96.623 de 31/08/1988",
+        "ementa": "DISPÕE SOBRE A INCLUSÃO DA NUCLEBRAS EQUIPAMENTOS PESADOS S.A. - NUCLEP E NUCLEBRAS DE MONAZITA E ASSOCIADOS LTDA - NUCLEMON, NO PROGRAMA FEDERAL DE DESESTATIZAÇÃO, E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "31/08/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96623-1988-08-31"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96636-1988-09-02.md",
+      "indice": {
+        "id": "519276",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96636",
+        "norma": "DEC-96636-1988-09-02",
+        "normaNome": "Decreto nº 96.636 de 02/09/1988",
+        "ementa": "OUTORGA CONCESSÃO A RADIO GUARACIABA LTDA., PARA EXPLORAR SERVIÇO DE RADIODIFUSÃO SONORA EM ONDA MEDIA, NA CIDADE DE GUARACIABA DO NORTE, ESTADO DO CEARA.",
+        "dataassinatura": "02/09/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96636-1988-09-02"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96575-1988-08-24.md",
+      "indice": {
+        "id": "519215",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96575",
+        "norma": "DEC-96575-1988-08-24",
+        "normaNome": "Decreto nº 96.575 de 24/08/1988",
+        "ementa": "AUTORIZA O FUNCIONAMENTO DO CURSO SUPERIOR DE GRADUAÇÃO EM ENGENHARIA INDUSTRIAL MECANICA, EM MANAUS, AMAZONAS.",
+        "dataassinatura": "24/08/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96575-1988-08-24"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"96675\", \"data\": \"1988-08-24\", \"epigrafe\": \"DECRETO N° 96.675, DE 24 DE AGOSTO DE 1988\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "519215",
+        "norma": "DEC-96575-1988-08-24",
+        "urn": "urn:lex:br:federal:decreto:1988-08-24;96575",
+        "url": "https://normas.leg.br/api/public/binario/123a51f4-6046-4b08-9097-d5dc9a9c275a/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "96575",
+          "data": "1988-08-24"
+        },
+        "epigrafe_encontrada": {
+          "numero": "96675",
+          "data": "1988-08-24",
+          "epigrafe": "DECRETO N° 96.675, DE 24 DE AGOSTO DE 1988"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96554-1988-08-23.md",
+      "indice": {
+        "id": "519194",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96554",
+        "norma": "DEC-96554-1988-08-23",
+        "normaNome": "Decreto nº 96.554 de 23/08/1988",
+        "ementa": "ABRE AO MINISTERIO DAS COMUNICAÇÕES, EM FAVOR DO GABINETE DO MINISTRO, O CREDITO SUPLEMENTAR DE CZ 70.000.000,00, PARA REFORÇO DE DOTAÇÃO CONSIGNADA NO VIGENTE ORÇAMENTO.",
+        "dataassinatura": "23/08/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96554-1988-08-23"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1989/dec-97832-1989-06-14.md",
+      "indice": {
+        "id": "520472",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "97832",
+        "norma": "DEC-97832-1989-06-14",
+        "normaNome": "Decreto nº 97.832 de 14/06/1989",
+        "ementa": "REAJUSTA OS PREÇOS MINIMOS BASICOS DE PRODUTOS AGRICOLAS FIXADOS PELOS DECRETOS 97.478, DE 26 DE JANEIRO DE 1989, E 97.668, DE 19 DE ABRIL DE 1989.",
+        "dataassinatura": "14/06/1989",
+        "anoassinatura": "1989",
+        "apelido": "DEC-97832-1989-06-14"
+      },
+      "motivo_anterior": "Documento Intermediate; sem prova de íntegra da norma; Cabeçalho próprio de RETIFICAÇÃO avulsa; Sem artigo normativo próprio; revisão de comando decisório/íntegra necessária",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "520472",
+        "norma": "DEC-97832-1989-06-14",
+        "urn": "urn:lex:br:federal:decreto:1989-06-14;97832",
+        "url": "https://normas.leg.br/api/public/binario/381e7fd4-6eb4-4bc1-8fe8-91e264c03db8/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "97832",
+          "data": "1989-06-14"
+        },
+        "epigrafe_encontrada": {
+          "numero": "98832",
+          "data": "1989-06-14",
+          "epigrafe": "DECRETO N° 98.832, DE 14 DE JUNHO DE 1989"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1989/dec-97630-1989-04-10.md",
+      "indice": {
+        "id": "520270",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "97630",
+        "norma": "DEC-97630-1989-04-10",
+        "normaNome": "Decreto nº 97.630 de 10/04/1989",
+        "ementa": "CRIA, NO ESTADO DO AMAPA, A FLORESTA NACIONAL DO AMAPA, COM LIMITES QUE ESPECIFICA, E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "10/04/1989",
+        "anoassinatura": "1989",
+        "apelido": "DEC-97630-1989-04-10"
+      },
+      "motivo_anterior": "Documento Intermediate; sem prova de íntegra da norma; Cabeçalho próprio de RETIFICAÇÃO avulsa; Sem artigo normativo próprio; revisão de comando decisório/íntegra necessária",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "520270",
+        "norma": "DEC-97630-1989-04-10",
+        "urn": "urn:lex:br:federal:decreto:1989-04-10;97630",
+        "url": "https://normas.leg.br/api/public/binario/d452afad-d620-46f7-ac14-e2da8e451e9b/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "97630",
+          "data": "1989-04-10"
+        },
+        "epigrafe_encontrada": {
+          "numero": "96630",
+          "data": "1989-04-10",
+          "epigrafe": "DECRETO N° 96.630, DE 10 DE ABRIL DE 1989"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96759-1988-09-22.md",
+      "indice": {
+        "id": "519399",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96759",
+        "norma": "DEC-96759-1988-09-22",
+        "normaNome": "Decreto nº 96.759 de 22/09/1988",
+        "ementa": "DISPÕE SOBRE O CONSELHO NACIONAL DAS ZONAS DE PROCESSAMENTO DE EXPORTAÇÃO - CZPE, CRIADO PELO DECRETO-LEI 2.452, DE 29 DE JULHO DE 1988, E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "22/09/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96759-1988-09-22"
+      },
+      "motivo_anterior": "Documento Intermediate; sem prova de íntegra da norma; Cabeçalho próprio de RETIFICAÇÃO avulsa; Sem artigo normativo próprio; revisão de comando decisório/íntegra necessária",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96446-1988-07-29.md",
+      "indice": {
+        "id": "519086",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96446",
+        "norma": "DEC-96446-1988-07-29",
+        "normaNome": "Decreto nº 96.446 de 29/07/1988",
+        "ementa": "ABRE A CAMARA DOS DEPUTADOS, O CREDITO SUPLEMENTAR DE CZ 1.100.000.000,00, PARA REFORÇO DE DOTAÇÃO CONSIGNADA NO VIGENTE ORÇAMENTO.",
+        "dataassinatura": "29/07/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96446-1988-07-29"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96439-1988-07-28.md",
+      "indice": {
+        "id": "519079",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96439",
+        "norma": "DEC-96439-1988-07-28",
+        "normaNome": "Decreto nº 96.439 de 28/07/1988",
+        "ementa": "DECLARA DE INTERESSE SOCIAL, PARA FINS DE DESAPROPRIAÇÃO, O IMOVEL RURAL DENOMINADO 'FAZENDA ARAPUA', TAMBEM CONHECIDO COMO CORGÃO, CURIONGONGO E MACAUBAS, CLASSIFICADO COMO 'LATIFUNDIO POR EXPLORAÇÃO', SITUADO NO MUNICIPIO DE VARZELANDIA, NO ESTADO DE MINAS GERAIS, COMPREENDIDO NA ZONA PRIORITARIA, PARA FINS DE REFORMA AGRARIA, FIXADA PELO DECRETO 92.694, DE 19 DE MAIO DE 1986, E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "28/07/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96439-1988-07-28"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96415-1988-07-26.md",
+      "indice": {
+        "id": "519055",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96415",
+        "norma": "DEC-96415-1988-07-26",
+        "normaNome": "Decreto nº 96.415 de 26/07/1988",
+        "ementa": "DECLARA DE INTERESSE SOCIAL, PARA FINS DE DESAPROPRIAÇÃO, O IMOVEL RURAL DENOMINADO 'GAVIÃO E COBIÇADO', CLASSIFICADO COMO 'LATIFUNDIO POR EXPLORAÇÃO', SITUADO NO MUNICIPIO DE CARAUARI, NO ESTADO DO AMAZONAS, COMPREENDIDO NA ZONA PRIORITARIA, PARA FINS DE REFORMA AGRARIA, FIXADA PELO DECRETO 92.679, DE 19 DE MAIO DE 1986, E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "26/07/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96415-1988-07-26"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96394-1988-07-21.md",
+      "indice": {
+        "id": "519034",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96394",
+        "norma": "DEC-96394-1988-07-21",
+        "normaNome": "Decreto nº 96.394 de 21/07/1988",
+        "ementa": "AUTORIZA O FUNCIONAMENTO DO CURSO SUPERIOR DE TECNOLOGIA EM PROCESSAMENTO DE DADOS DO CENTRO DE ENSINO SUPERIOR DE INFORMATICA.",
+        "dataassinatura": "21/07/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96394-1988-07-21"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"98394\", \"data\": \"1988-07-21\", \"epigrafe\": \"DECRETO N° 98.394, DE 21 DE JULHO DE 1988\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "519034",
+        "norma": "DEC-96394-1988-07-21",
+        "urn": "urn:lex:br:federal:decreto:1988-07-21;96394",
+        "url": "https://normas.leg.br/api/public/binario/e8bad0ad-ca67-4b9a-83d8-14e973b4c19d/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "96394",
+          "data": "1988-07-21"
+        },
+        "epigrafe_encontrada": {
+          "numero": "98394",
+          "data": "1988-07-21",
+          "epigrafe": "DECRETO N° 98.394, DE 21 DE JULHO DE 1988"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96348-1988-07-15.md",
+      "indice": {
+        "id": "518988",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96348",
+        "norma": "DEC-96348-1988-07-15",
+        "normaNome": "Decreto nº 96.348 de 15/07/1988",
+        "ementa": "DECLARA DE INTERESSE SOCIAL, PARA FINS DE DESAPROPRIAÇÃO, O IMOVEL RURAL DENOMINADO 'FAZENDA CHOPIM - QUINHÃO 5, DA DIVISÃO JUDICIAL DA GLEBA 1 DO QUINHÃO 1', CLASSIFICADO COMO 'LATIFUNDIO POR EXPLORAÇÃO', SITUADO NO MUNICIPIO DE MANGUEIRINHA, NO ESTADO DO PARANA, COMPREENDIDO NA ZONA PRIORITARIA, PARA FINS DE REFORMA AGRARIA, FIXADA PELO DECRETO 92.622, DE 02 DE MAIO DE 1986, E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "15/07/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96348-1988-07-15"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"96348\", \"data\": \"1988-07-16\", \"epigrafe\": \"DECRETO N° 96.348, DE 16 DE JULHO DE 1988\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "518988",
+        "norma": "DEC-96348-1988-07-15",
+        "urn": "urn:lex:br:federal:decreto:1988-07-15;96348",
+        "url": "https://normas.leg.br/api/public/binario/ff3bd896-d3f8-439f-8740-0aa1ae01cd5a/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "96348",
+          "data": "1988-07-15"
+        },
+        "epigrafe_encontrada": {
+          "numero": "96348",
+          "data": "1988-07-16",
+          "epigrafe": "DECRETO N° 96.348, DE 16 DE JULHO DE 1988"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96274-1988-07-05.md",
+      "indice": {
+        "id": "518914",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96274",
+        "norma": "DEC-96274-1988-07-05",
+        "normaNome": "Decreto nº 96.274 de 05/07/1988",
+        "ementa": "ABRE AO MINISTERIO DA SAUDE, EM FAVOR DE ENTIDADES SUPERVISIONADAS, O CREDITO SUPLEMENTAR DE CZ 271.526.000,00, PARA REFORÇO DE DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.",
+        "dataassinatura": "05/07/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96274-1988-07-05"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"96274\", \"data\": \"1988-07-06\", \"epigrafe\": \"DECRETO N° 96.274, DE 6 DE JULHO DE 1988\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "518914",
+        "norma": "DEC-96274-1988-07-05",
+        "urn": "urn:lex:br:federal:decreto:1988-07-05;96274",
+        "url": "https://normas.leg.br/api/public/binario/6a92de54-029a-4064-a887-450f567c585c/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "96274",
+          "data": "1988-07-05"
+        },
+        "epigrafe_encontrada": {
+          "numero": "96274",
+          "data": "1988-07-06",
+          "epigrafe": "DECRETO N° 96.274, DE 6 DE JULHO DE 1988"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96271-1988-07-05.md",
+      "indice": {
+        "id": "518911",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96271",
+        "norma": "DEC-96271-1988-07-05",
+        "normaNome": "Decreto nº 96.271 de 05/07/1988",
+        "ementa": "ABRE AO MINISTERIO DO INTERIOR, EM FAVOR DA SECRETARIA GERAL, O CREDITO SUPLEMENTAR DE CZ 100.000.000,00, PARA REFORÇO DE DOTAÇÃO CONSIGNADA NO VIGENTE ORÇAMENTO.",
+        "dataassinatura": "05/07/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96271-1988-07-05"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"96271\", \"data\": \"1988-07-06\", \"epigrafe\": \"DECRETO N° 96.271, DE 06 DE JULHO DE 1988\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "518911",
+        "norma": "DEC-96271-1988-07-05",
+        "urn": "urn:lex:br:federal:decreto:1988-07-05;96271",
+        "url": "https://normas.leg.br/api/public/binario/e34fbdb4-c9f2-4af5-8bea-90080e5e0047/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "96271",
+          "data": "1988-07-05"
+        },
+        "epigrafe_encontrada": {
+          "numero": "96271",
+          "data": "1988-07-06",
+          "epigrafe": "DECRETO N° 96.271, DE 06 DE JULHO DE 1988"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96082-1988-05-20.md",
+      "indice": {
+        "id": "518722",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96082",
+        "norma": "DEC-96082-1988-05-20",
+        "normaNome": "Decreto nº 96.082 de 20/05/1988",
+        "ementa": "ABRE AO MINISTERIO DA MARINHA, EM FAVOR DA SECRETARIA GERAL DA MARINHA, O CREDITO SUPLEMENTAR DE CZ 2.129.883.000,00, PARA REFORÇO DE DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.",
+        "dataassinatura": "20/05/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96082-1988-05-20"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-95759-1988-02-29.md",
+      "indice": {
+        "id": "518399",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "95759",
+        "norma": "DEC-95759-1988-02-29",
+        "normaNome": "Decreto nº 95.759 de 29/02/1988",
+        "ementa": "REAJUSTA O VALOR DO SALARIO MINIMO DE REFERENCIA.",
+        "dataassinatura": "29/02/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-95759-1988-02-29"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"96759\", \"data\": \"1988-02-29\", \"epigrafe\": \"DECRETO N° 96.759, DE 29 DE FEVEREIRO DE 1988\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "518399",
+        "norma": "DEC-95759-1988-02-29",
+        "urn": "urn:lex:br:federal:decreto:1988-02-29;95759",
+        "url": "https://normas.leg.br/api/public/binario/90bd719c-e97b-41bb-a1f7-911d8d27ef72/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "95759",
+          "data": "1988-02-29"
+        },
+        "epigrafe_encontrada": {
+          "numero": "96759",
+          "data": "1988-02-29",
+          "epigrafe": "DECRETO N° 96.759, DE 29 DE FEVEREIRO DE 1988"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-95757-1988-02-29.md",
+      "indice": {
+        "id": "518397",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "95757",
+        "norma": "DEC-95757-1988-02-29",
+        "normaNome": "Decreto nº 95.757 de 29/02/1988",
+        "ementa": "DECLARA DE INTERESSE SOCIAL, PARA FINS DE DESAPROPRIAÇÃO, O IMOVEL RURAL DENOMINADO 'FAZENDA SANTA TEREZA' OU 'ALDEIA', CLASSIFICADO COMO 'LATIFUNDIO POR EXPLORAÇÃO', SITUADO NO MUNICIPIO DE BACABAL, NO ESTADO DO MARANHÃO, COMPREENDIDO NA ZONA PRIORITARIA, PARA FINS DE REFORMA AGRARIA, FIXADA PELO DECRETO 92.619, DE 02 DE MAIO DE 1986, E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "29/02/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-95757-1988-02-29"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"96757\", \"data\": \"1988-02-29\", \"epigrafe\": \"DECRETO N.° 96.757, DE 29 DE FEVEREIRO DE 1988\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "518397",
+        "norma": "DEC-95757-1988-02-29",
+        "urn": "urn:lex:br:federal:decreto:1988-02-29;95757",
+        "url": "https://normas.leg.br/api/public/binario/21ab3076-1a8e-4ea8-866e-8d2d3fd1ce98/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "95757",
+          "data": "1988-02-29"
+        },
+        "epigrafe_encontrada": {
+          "numero": "96757",
+          "data": "1988-02-29",
+          "epigrafe": "DECRETO N.° 96.757, DE 29 DE FEVEREIRO DE 1988"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-95753-1988-02-26.md",
+      "indice": {
+        "id": "518393",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "95753",
+        "norma": "DEC-95753-1988-02-26",
+        "normaNome": "Decreto nº 95.753 de 26/02/1988",
+        "ementa": "AUTORIZA O FUNCIONAMENTO DO CURSO DE CIENCIAS ECONOMICAS DA FACULDADE DE CIENCIAS ECONOMICAS DE CUIABA, MATO GROSSO.",
+        "dataassinatura": "26/02/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-95753-1988-02-26"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"96753\", \"data\": \"1988-02-26\", \"epigrafe\": \"DECRETO N° 96.753, DE 26 DE FEVEREIRO DE 1988\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "518393",
+        "norma": "DEC-95753-1988-02-26",
+        "urn": "urn:lex:br:federal:decreto:1988-02-26;95753",
+        "url": "https://normas.leg.br/api/public/binario/2b0891ad-b61f-412e-be29-4edc9a678222/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "95753",
+          "data": "1988-02-26"
+        },
+        "epigrafe_encontrada": {
+          "numero": "96753",
+          "data": "1988-02-26",
+          "epigrafe": "DECRETO N° 96.753, DE 26 DE FEVEREIRO DE 1988"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-95689-1988-01-29.md",
+      "indice": {
+        "id": "518329",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "95689",
+        "norma": "DEC-95689-1988-01-29",
+        "normaNome": "Decreto nº 95.689 de 29/01/1988",
+        "ementa": "DISPÕE SOBRE A RECLASSIFICAÇÃO DE FUNÇÕES DE CONFIANÇA PARA O PLANO UNICO DE CLASSIFICAÇÃO E RETRIBUIÇÃO DE CARGOS E EMPREGOS A QUE SE REFERE A LEI 7.596, DE 10 DE ABRIL DE 1987, E DA OUTRAS PROVIDENCIAS.",
+        "dataassinatura": "29/01/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-95689-1988-01-29"
+      },
+      "motivo_anterior": "Epígrafe própria diverge: {\"numero\": \"95689\", \"data\": \"1986-01-29\", \"epigrafe\": \"DECRETO N° 95.689, DE 29 DE JANEIRO DE 1986\"}",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "518329",
+        "norma": "DEC-95689-1988-01-29",
+        "urn": "urn:lex:br:federal:decreto:1988-01-29;95689",
+        "url": "https://normas.leg.br/api/public/binario/6db47ad4-bbf9-44d1-b2e5-c77de7fd9fff/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "95689",
+          "data": "1988-01-29"
+        },
+        "epigrafe_encontrada": {
+          "numero": "95689",
+          "data": "1986-01-29",
+          "epigrafe": "DECRETO N° 95.689, DE 29 DE JANEIRO DE 1986"
+        }
+      },
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1987/dec-95492-1987-12-15.md",
+      "indice": {
+        "id": "518132",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "95492",
+        "norma": "DEC-95492-1987-12-15",
+        "normaNome": "Decreto nº 95.492 de 15/12/1987",
+        "ementa": "FIXA OS EFETIVOS DO EXERCITO PARA 1988.",
+        "dataassinatura": "15/12/1987",
+        "anoassinatura": "1987",
+        "apelido": "DEC-95492-1987-12-15"
+      },
+      "motivo_anterior": "elemento visual não extraído na tabela: img",
+      "status": "retido_offline",
+      "detalhe": "elemento visual não extraído na tabela: img",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1987/dec-95430-1987-12-10.md",
+      "indice": {
+        "id": "518070",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "95430",
+        "norma": "DEC-95430-1987-12-10",
+        "normaNome": "Decreto nº 95.430 de 10/12/1987",
+        "ementa": "ABRE AO MINISTERIO DA CULTURA, EM FAVOR DA SECRETARIA GERAL E DA SECRETARIA DE APOIO A PRODUÇÃO CULTURAL, O CREDITO SUPLEMENTAR DE CZ 4.819.000,00, PARA REFORÇO DE DOTAÇÕES CONSIGNADAS NO VIGENTE ORÇAMENTO.",
+        "dataassinatura": "10/12/1987",
+        "anoassinatura": "1987",
+        "apelido": "DEC-95430-1987-12-10"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1987/dec-94815-1987-09-01.md",
+      "indice": {
+        "id": "517455",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "94815",
+        "norma": "DEC-94815-1987-09-01",
+        "normaNome": "Decreto nº 94.815 de 01/09/1987",
+        "ementa": "REAJUSTA O VALOR DO PISO NACIONAL DE SALARIO.",
+        "dataassinatura": "01/09/1987",
+        "anoassinatura": "1987",
+        "apelido": "DEC-94815-1987-09-01"
+      },
+      "motivo_anterior": "Epígrafe própria inconclusiva; requer revisão/fonte alternativa",
+      "status": "retido_validacao",
+      "detalhe": "Identidade documental não comprovada",
+      "preexistente": true
+    },
+    {
+      "path": "federal/decretos/1988/dec-96448-1988-07-29.md",
+      "indice": {
+        "id": "519088",
+        "tipo": "DEC-n",
+        "descricao": "Decreto Numerado",
+        "numero": "96448",
+        "norma": "DEC-96448-1988-07-29",
+        "normaNome": "Decreto nº 96.448 de 29/07/1988",
+        "ementa": "ABRE AO MINISTERIO DOS TRANSPORTES, EM FAVOR DE ENTIDADES SUPERVISIONADAS, O CREDITO SUPLEMENTAR DE CZ 11.065.000.000,00, PARA REFORÇO DE DOTAÇÃO CONSIGNADA NO VIGENTE ORÇAMENTO.",
+        "dataassinatura": "29/07/1988",
+        "anoassinatura": "1988",
+        "apelido": "DEC-96448-1988-07-29"
+      },
+      "motivo_anterior": "Documento Intermediate; sem prova de íntegra da norma; Cabeçalho próprio de RETIFICAÇÃO avulsa; Sem artigo normativo próprio; revisão de comando decisório/íntegra necessária",
+      "status": "sem_texto",
+      "detalhe": {
+        "id": "519088",
+        "norma": "DEC-96448-1988-07-29",
+        "urn": "urn:lex:br:federal:decreto:1988-07-29;96448",
+        "url": "https://normas.leg.br/api/public/binario/33e0d637-c6bb-4893-a238-0ddd640705e6/texto",
+        "motivo": "Epígrafe própria diverge do número/data do índice e URN; revisão necessária; fonte preservada",
+        "identidade_esperada": {
+          "numero": "96448",
+          "data": "1988-07-29"
+        },
+        "epigrafe_encontrada": {
+          "numero": "96448",
+          "data": "1988-07-20",
+          "epigrafe": "DECRETO N° 96.448, DE 20 DE JULHO DE 1988"
+        }
+      },
+      "preexistente": true
+    }
+  ],
+  "resumo": {
+    "candidatos": 157,
+    "publicaveis": 36,
+    "retidos": 121,
+    "bloqueio": false
+  },
+  "limite_integralidade": "Conteúdo integral disponível no HTML oficial; anexos citados mas ausentes da própria fonte exigem verificação específica.",
+  "rede": false,
+  "auditoria_final": {
+    "arquivos": 36,
+    "erros": 0,
+    "avisos": 0,
+    "hashes_conferidos": true
+  }
+}

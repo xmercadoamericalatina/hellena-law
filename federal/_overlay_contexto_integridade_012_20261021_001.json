@@ -1,0 +1,194 @@
+{
+  "escopo": "Seis retenções cumulativas adicionais do lote 012, antes de publicação. Sem modificar fontes, MDs ou pacotes anteriores.",
+  "resumo": {
+    "retidos": 6
+  },
+  "registros": [
+    {
+      "path": "federal/decretos/1952/dec-30691-1952-03-29.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1952-03-29;30691",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1952-03-29;30691",
+      "url_texto": "https://normas.leg.br/api/binario/6847b74b-982f-44d7-9d80-57f26b5fc222/texto",
+      "sha256": "724eb74c69a8df6a8c49d7d0e0c769841f0aca3754c3cb18255a099fbe5db51b",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "0ef7060e6f7d6a23a8f677c88ffee93c186c646c0671a1d4170f50baedfec429",
+      "sha256_metadados": "49523358e93f3bcd82d3f760020022f9155ae319fd43bd624d0f4b1d0288ccc1",
+      "captura_metadados": "federal/_fonte/metadados-normas/29b8c8793d0fcb4ce8dbe33b3ef225f6d56eb5801c41454b9c1a49cbf888ea36/49523358e93f3bcd82d3f760020022f9155ae319fd43bd624d0f4b1d0288ccc1.json.gz",
+      "epigrafe": {
+        "numero": "30691",
+        "data": "1952-03-29",
+        "epigrafe": "DECRETO N. 30.691 - DE 29 DE MARÇO DE 1952"
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Art. 832 determina carimbos conforme os modelos anexos; a transcrição termina em ponteiro CLBR pp. 486–492 Carimbos, sem os desenhos.",
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1951/dec-30357-1951-12-31.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1951-12-31;30357",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-12-31;30357",
+      "url_texto": "https://normas.leg.br/api/binario/769454f7-91cf-407e-b59f-73c8f1f994e4/texto",
+      "sha256": "b373f8f22e200b66e02a9f1c55e2aca673961c215b5a41c7c077221b4ea12211",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "02405cfe06101d4d3abf628ff9af3bfaa1d645a75f1511efa585608784de2753",
+      "sha256_metadados": "b0483c473f522406eae44c59d14c24a0d5de98ffc6d19f170a6c5ebc77a4900b",
+      "captura_metadados": "federal/_fonte/metadados-normas/18849e5782b0c8ca677d782b30ccb50266be41f480e763b8c4b6a1c34517dc7b/b0483c473f522406eae44c59d14c24a0d5de98ffc6d19f170a6c5ebc77a4900b.json.gz",
+      "epigrafe": {
+        "numero": "30357",
+        "data": "1951-12-31",
+        "epigrafe": "decreto nº 30.357, de 31 de dezembro de 1951."
+      },
+      "tabelas": 3,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Após as tabelas de gratificação do Ministério das Relações Exteriores, a fonte emenda fragmento a partir de alínea d e art. 254 de regulamento da Escola de Aeronáutica, encerrado em 02/04/1952. Não corresponde a suplemento próprio da gratificação.",
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1951/dec-30163-1951-11-13.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1951-11-13;30163",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-11-13;30163",
+      "url_texto": "https://normas.leg.br/api/binario/4864e835-3e62-4fad-b43e-bf90fca661fa/texto",
+      "sha256": "57ceca9624266518da019331c0dd38a701bcb98123d39d120cbb0e5236fd318d",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "02a1ad184caef03314aef1abe038813d4838a3b660989092cfe540dcbe195c6b",
+      "sha256_metadados": "df3b816f069d5346b72685b87f62e0471a9a7bb6e8300001c76b9ccc1e231b0d",
+      "captura_metadados": "federal/_fonte/metadados-normas/c277bd917153dac408018898815c440049ef041bea2ad0dd9fe38064457e4b96/df3b816f069d5346b72685b87f62e0471a9a7bb6e8300001c76b9ccc1e231b0d.json.gz",
+      "epigrafe": {
+        "numero": "30163",
+        "data": "1951-11-13",
+        "epigrafe": "DECRETO N. 30.163 – DE 13 DE NOVEMBRO DE 1951"
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Regulamento de uniformes remete ao símbolo e figuras próprios; a transcrição contém ponteiros CLBR p. 93 Símbolo Fig. 01 e pp. 117–140 Figuras, sem as ilustrações.",
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1951/dec-29736-1951-06-03.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1951-06-03;29736",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-06-03;29736",
+      "url_texto": "https://normas.leg.br/api/binario/3671e317-e74a-44a3-a18c-ae550a1c9c70/texto",
+      "sha256": "8b31df121cbe08750f23509d464a5372ef4db53dd9087921d17d7b531ce4107a",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "316b3615f7d8149ada5ccf8f562b058f4441a77e36cfce55502ec494a79aa418",
+      "sha256_metadados": "50ee83e6c0de031cce088c1fc84993609fb9d8aadc1361a6779df3c7aac9171b",
+      "captura_metadados": "federal/_fonte/metadados-normas/16e2bfc9ba287ba10d51c1e1bafcd01e979d72101b0e8e5d3af4d3775ef268d7/50ee83e6c0de031cce088c1fc84993609fb9d8aadc1361a6779df3c7aac9171b.json.gz",
+      "epigrafe": {
+        "numero": "29736",
+        "data": "1951-06-03",
+        "epigrafe": "DECRETO Nº 29.736, DE 3 DE JUNHO DE 1951."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Anexos I e II próprios, que identificam funções extintas e mantidas, não aparecem na transcrição. Código administrativo informa 03/07/1951, mas epígrafe, índice e metadados consultados dizem 03/06/1951; identidade cronológica exige fonte independente.",
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1951/dec-29081-1951-01-04.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1951-01-04;29081",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1951-01-04;29081",
+      "url_texto": "https://normas.leg.br/api/binario/d12b1a49-634d-4ad4-bcc7-d3c5b8d4c17f/texto",
+      "sha256": "3f45940cad875aa3c5656d9a610531af6d0a0a019db24cc9f91d27320264cfa7",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "c863ebb9ae2b96f5e0e1b7f4eefb2c3586ceecf73277ac14eec556957d293cd4",
+      "sha256_metadados": "b93e69bbabdaa2eb3ddc6e5ae127e930f6a414a2587adc154f42d4e865b638bf",
+      "captura_metadados": "federal/_fonte/metadados-normas/5c014259ec4c6178f475abf4cee44a6d5bf1c0b0a485eb008b9e9b900be56a2e/b93e69bbabdaa2eb3ddc6e5ae127e930f6a414a2587adc154f42d4e865b638bf.json.gz",
+      "epigrafe": {
+        "numero": "29081",
+        "data": "1951-01-04",
+        "epigrafe": "DECRETO N. 29.081 – DE 4 DE JANEIRO DE 1951"
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Relação nominal que determina a alteração da tabela de mensalistas ausente; apenas ponteiro CLBR pp. 4–16.",
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    },
+    {
+      "path": "federal/decretos/1950/dec-29004-1950-12-19.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1950-12-19;29004",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1950-12-19;29004",
+      "url_texto": "https://normas.leg.br/api/binario/27dd710a-3764-4608-a348-d5e4aaa86165/texto",
+      "sha256": "b4b797d4ba2d6b407c454e61f64389b111d0d522d1b9dad642f4ba1ce9c64443",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "4e7185c5d710aa45fddbe248d2f766f7ff36f56c06571c81a94ef580e0b8d853",
+      "sha256_metadados": "24dd0dd87d77035b9894df8b7f5ffe46f6a1b57a768d4a00d7fb9f0a00d97944",
+      "captura_metadados": "federal/_fonte/metadados-normas/2d8670c6b5eff6ba2882e31abe5fb4d82c4161150080ad4c4b14ca1dc64410f9/24dd0dd87d77035b9894df8b7f5ffe46f6a1b57a768d4a00d7fb9f0a00d97944.json.gz",
+      "epigrafe": {
+        "numero": "29004",
+        "data": "1950-12-19",
+        "epigrafe": "DECRETO N. 29.004 – DE 19 DE DEZEMBRO DE 1950"
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "estado": "retido_revisao_integralidade_identidade",
+      "motivo": "Relação nominal que determina a alteração da tabela de mensalistas ausente; apenas ponteiro CLBR pp. 389–392.",
+      "limite": "A constatação refere-se à transcrição consultada, sem afirmar ausência da norma ou suplemento em todas as fontes."
+    }
+  ]
+}

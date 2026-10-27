@@ -1,0 +1,314 @@
+{
+  "escopo": "Revisão offline adicional de 124 MDs que mencionam modelo anexo, sem modificar normas, listas ou provas anteriores. Comparação guard anterior/novo para identificar somente retenções novas fora dos lotes 005–007.",
+  "resumo": {
+    "candidatos_modelo_anexo": 124,
+    "retencoes_novas_fora_005007": 14,
+    "alteracoes_md": 0
+  },
+  "retidos": [
+    {
+      "path": "federal/decretos/1984/dec-90570-1984-11-27.md",
+      "urn": "urn:lex:br:federal:decreto:1984-11-27;90570",
+      "sha256_md": "af5635846d14b8df4006dd6df09e35e5ad8d87dd484740c455c9980840a98fa4",
+      "sha256_fonte_html": "4e8180a0effdd419f91992fba472197bd9d94661782474203f35c89e7140b3e9",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1984-11-27;90570",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": ", o parecer do conselho penitenciario sera substituido pela informacao da autoridade sob cuja custodia estiver o preso.\nart. 11 os orgaos centrais de administracao penitenciaria preencherao, ate 30 de junho de 1985, quadro de acordo com o modelo anexo, encaminhando-o ao departamento penitenciario federal, do ministerio da justica.\nart. 12 este decreto entra em vigor na data de sua publicacao, revogadas as disposicoes em contrario.",
+        "fecho": "brasilia, 27 de novembro de 1984; 163º da independencia e 96º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "ibrahim abi-ackel",
+          "<<anexos>>",
+          "tabela."
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "status": "retido_modelo_proprio_ausente_na_transcricao",
+      "situacao_publicacao": "Presente no disco; coordenador deve confrontar com HEAD e máscaras existentes antes de alterar a contagem apta."
+    },
+    {
+      "path": "federal/decretos/2011/dec-7648-2011-12-21.md",
+      "urn": "urn:lex:br:federal:decreto:2011-12-21;7648",
+      "sha256_md": "8926e07707ac938fc5d4e583526f55cdcdc3eb010d42b14c90301451c429db6b",
+      "sha256_fonte_html": "775f565b36189d48582bf3bcc85a43448cca17e9853c225a8c33c73610641609",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2011-12-21;7648",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "a, o prazo estabelecido no § 4º sera prorrogado, impreterivelmente, por mais quinze dias, devendo-se comunicar o juizo.\nart. 11. os orgaos centrais da administracao penitenciaria encaminharao, imediatamente, copia deste decreto as unidades penitenciarias e preencherao o quadro estatistico constante do modelo anexo, devendo remete-lo, ate seis meses a contar da data de publicacao deste decreto, ao departamento penitenciario nacional do ministerio da justica.\n§ 1° o departamento penitenciario nacional mantera publicado, no seu portal da rede mundial de computadores, quadro est",
+        "fecho": "brasilia, 21 de dezembro de 2011; 190º da independencia e 123º da republica.",
+        "apos_fecho": [
+          "dilma rousseff",
+          "jose eduardo cardozo",
+          "anexo"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "status": "retido_modelo_proprio_ausente_na_transcricao",
+      "situacao_publicacao": "Presente no disco; coordenador deve confrontar com HEAD e máscaras existentes antes de alterar a contagem apta."
+    },
+    {
+      "path": "federal/decretos/1966/dec-59595-1966-11-28.md",
+      "urn": "urn:lex:br:federal:decreto:1966-11-28;59595",
+      "sha256_md": "58e6681fde250634380481da7c8a8b4abcf159fb7523f0e7d33a2b8bfa488e5f",
+      "sha256_fonte_html": "55eabfb93888d86580b032891d4c14605bbd01ef5f62d434d141bd381cefebbb",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1966-11-28;59595",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": " das empresas brasileiras e estrangeiras devidamente autorizadas pelo governo brasileiro a fazer trafego internacional.\nart. 2º o controle de embarque e desembarque dos passageiros, turistas, de onibus internacionais sera feito atraves do “cartao de embarque/desembarque” (modelo anexo) o qual sera entregue pelo passageiro as autoridades competentes em tres vias, a primeira e a segunda destinadas as autoridades, e a terceira devolvida ao passageiro.\nart. 3º o controle da entrada e saida dos turistas que viajam em automoveis particulares, amparados pelo decreto nº 53.",
+        "fecho": "brasilia, 28 de novembro de 1966, 145º da independencia e 78º da republica.",
+        "apos_fecho": [
+          "h. castelo branco",
+          "m. pio correa",
+          "eduardo lopes rodrigues",
+          "<<anexo>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "status": "retido_modelo_proprio_ausente_na_transcricao",
+      "situacao_publicacao": "Presente no disco; coordenador deve confrontar com HEAD e máscaras existentes antes de alterar a contagem apta."
+    },
+    {
+      "path": "federal/decretos/1964/dec-53480-1964-01-23.md",
+      "urn": "urn:lex:br:federal:decreto:1964-01-23;53480",
+      "sha256_md": "60b9c427d89bf0df452e33e2ca802b71e0021ad695cb4f1dae364455577ddf2a",
+      "sha256_fonte_html": "3f7274a697b6d30c61a29e737137c09cbd1016adde67c37b4fabebeda5a071d8",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1964-01-23;53480",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": ", cada repreensao correspondera a dois pontos, cada dia de suspensao a tres, e cada destituicao de funcao a dez pontos.\nart. 32. o merecimento do funcionario, na classe a que pertencer, sera apurado semestralmente, atraves do boletim de merecimento, conforme modelo anexo.\nart. 33. as condicoes essenciais de merecimento serao aferidas pelo chefe imediato do funcionario e as condicoes comple",
+        "fecho": "brasilia, em 23 de janeiro de 1964; 143º da independencia e 76º da republica.",
+        "apos_fecho": [
+          "joao goulart",
+          "aberlado jurema",
+          "sylvio borges de souza motta",
+          "jair ribeiro",
+          "joao augusto de araujo castro",
+          "ney galvao",
+          "expedito machado",
+          "oswaldo lima filho",
+          "julio furquim sambaquy",
+          "amaury silva",
+          "anysio botelho",
+          "wilson fadul",
+          "antonio de oliveira brito",
+          "egydio michaelsen",
+          "<<anexos>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "status": "retido_modelo_proprio_ausente_na_transcricao",
+      "situacao_publicacao": "Presente no disco; coordenador deve confrontar com HEAD e máscaras existentes antes de alterar a contagem apta."
+    },
+    {
+      "path": "federal/decretos/1959/dec-45568-1959-03-13.md",
+      "urn": "urn:lex:br:federal:decreto:1959-03-13;45568",
+      "sha256_md": "9033b0b6a706bb1997ec4443c2c51765c10b71a63f6993c58305afc7b01d8d9b",
+      "sha256_fonte_html": "d5c72a5319fb5e8d8cb0688428c4587b3866d6e2514ca2082f5248d5a5efdae4",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1959-03-13;45568",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "lizacoes e dedicacao em favor da assistencia e da educacao alimentar dos escolares, se tornem merecedores de distincao.\nart. 2º a medalha ora instituida sera pendente de uma fita azul cobalto, de trinta e cinco milimetros de largura, carregada ao centro de uma listra amarelo-ouro de dois milimetros, de acordo com o modelo anexo, e obedecera a seguinte especificacao:\ni - anverso: sobre um resplendor de oito pontas, esmaltadas em branco, duas a duas, um ramo de trigo espigado sobre um ",
+        "fecho": "rio de janeiro, 13 de marco de 1959; 138º da independencia e 71º da republica.",
+        "apos_fecho": [
+          "juscelino kubitschek",
+          "clovis salgado",
+          "<<anexo>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "status": "retido_modelo_proprio_ausente_na_transcricao",
+      "situacao_publicacao": "Presente no disco; coordenador deve confrontar com HEAD e máscaras existentes antes de alterar a contagem apta."
+    },
+    {
+      "path": "federal/decretos/1991/dec-245-1991-10-28.md",
+      "urn": "urn:lex:br:federal:decreto:1991-10-28;245",
+      "sha256_md": "f667f6c69909c6c1f2dbe447e9a0436b0b623d32de87e84e69d99ede0717f038",
+      "sha256_fonte_html": "63f680221a16babbdce2716c09ffbee9587ccbbe270a84e974a7387c6904a6ce",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1991-10-28;245",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "u da observacao cautelar de protecao do liberado; a falta de informacoes podera ser suprida por outro documento idoneo.\nart. 9° os orgaos centrais da administracao penitenciaria preencherao, ate 31 de janeiro de 1992, quadro de acordo com o modelo anexo, encaminhando-o ao departamento de assuntos penitenciarios da secretaria nacional dos direitos da cidadania e justica do ministerio da justica.\nart. 10. este decreto entra em vigor na data de sua publicacao.",
+        "fecho": "brasilia, 28 de outubro de 1991; 170° da independencia e 103° da republica.",
+        "apos_fecho": [
+          "fernando collor",
+          "jarbas passarinho",
+          "<<anexo>>",
+          "tabelas"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "status": "retido_modelo_proprio_ausente_na_transcricao",
+      "situacao_publicacao": "Presente no disco; coordenador deve confrontar com HEAD e máscaras existentes antes de alterar a contagem apta."
+    },
+    {
+      "path": "federal/decretos/2010/dec-7420-2010-12-31.md",
+      "urn": "urn:lex:br:federal:decreto:2010-12-31;7420",
+      "sha256_md": "3025e519aefb9242abb120d405d82cb85cced58f489a027f25c9d0524d9a513f",
+      "sha256_fonte_html": "f41f18f738f11a7ff4b43872c20ffa449c9213b03310ba9cb73cf0644e6d23a2",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:2010-12-31;7420",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "to do incidente de execucao que trata da comutacao de pena ou indulto, gozando este ultimo de prioridade na apreciacao.\nart. 11. os orgaos centrais da administracao penitenciaria encaminharao, imediatamente, copia deste decreto as unidades penitenciarias e preencherao o quadro estatistico constante do modelo anexo, devendo remete-lo, ate seis meses a contar da data de publicacao deste decreto, ao departamento penitenciario nacional do ministerio da justica.\n§ 1o o departamento penitenciario nacional mantera publicado, no seu portal da rede mundial de computadores, quadro est",
+        "fecho": "brasilia, 31 de dezembro de 2010; 189o da independencia e 122o da republica.",
+        "apos_fecho": [
+          "luiz inacio lula da silva",
+          "luiz paulo teles ferreira barreto",
+          "<<anexo>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "status": "retido_modelo_proprio_ausente_na_transcricao",
+      "situacao_publicacao": "Presente no disco; coordenador deve confrontar com HEAD e máscaras existentes antes de alterar a contagem apta."
+    },
+    {
+      "path": "federal/decretos/1965/dec-55551-1965-01-12.md",
+      "urn": "urn:lex:br:federal:decreto:1965-01-12;55551",
+      "sha256_md": "6d5c25518a8cb5d55e9c53c561c52b9393c408880101d39e88e34fbef56a08d5",
+      "sha256_fonte_html": "e7af66f1090601f6cf891e18ebc419e31d659a80db38596add6dc0650406d9a1",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1965-01-12;55551",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "entes ao salario-educacao que teriam sido devidas, de conformidade com este decreto, no decurso do ano letivo anterior.\nart. 10. a comprovacao, perante os institutos de aposentadoria e pensoes, da isencao de que trata o art. 8º e da sua renovacao far-se-a mediante certificado expedido pelos orgaos da administracao estadual do ensino, de conformidade com os modelos anexos de numeros i e ii.\nart. 11. as operacoes concernentes ao custeio dos servicos proprios de ensino e de bolsas de estudo por parte das empre",
+        "fecho": "brasilia, em 12 de janeiro de 1965; 144º da independencia e 77º da republica.",
+        "apos_fecho": [
+          "h. castello branco",
+          "flavio lacerda",
+          "arnaldo susseking",
+          "octavio bulhoes",
+          "<<anexos>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "status": "retido_modelo_proprio_ausente_na_transcricao",
+      "situacao_publicacao": "Presente no disco; coordenador deve confrontar com HEAD e máscaras existentes antes de alterar a contagem apta."
+    },
+    {
+      "path": "federal/decretos/1986/dec-92701-1986-05-21.md",
+      "urn": "urn:lex:br:federal:decreto:1986-05-21;92701",
+      "sha256_md": "9b425217c20a5a805636fc9dc5c0da902a532509b3a7a4ea76afbf506e77a4ed",
+      "sha256_fonte_html": "f8159571ae9e30466816ceb09e3783cb5fa5d7017345e52fa186b6cfc25066c1",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1986-05-21;92701",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "tante da ordem dos advogados do brasil - oab, indicado pela secao de sua area de atuacao.\ncapitulo ii\ndo reconhecimento\nart. 5º a associacao que satisfizer as exigencias deste decreto recebera uma ''carta de reconhecimento'', outorgada pela unidade junto a qual atuara, de acordo com o modelo anexo.\n§ 1º a concessao da ''carta de reconhecimento'', far-se-a a pedido da associacao interessada, mediante a apresentacao d",
+        "fecho": "brasilia, 21 de maio de 1986; 165º da independencia e 98º da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "raphael de almeida magalhaes",
+          "<<tabelas>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "status": "retido_modelo_proprio_ausente_na_transcricao",
+      "situacao_publicacao": "Presente no disco; coordenador deve confrontar com HEAD e máscaras existentes antes de alterar a contagem apta."
+    },
+    {
+      "path": "federal/decretos/1976/dec-77464-1976-04-20.md",
+      "urn": "urn:lex:br:federal:decreto:1976-04-20;77464",
+      "sha256_md": "5b8306fbac1fc7db7834ebd4ee123ebbec84af8ec2d02721f424da808fb84728",
+      "sha256_fonte_html": "d153c705a0a350771a93532cbb5fa34b87fc17ee20ab5e3ad6ba60ced4b4f01c",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1976-04-20;77464",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "ins de aposentadoria, os periodos de licenca especial nao gozada, cujo direito tenha sido adquirido sob o mesmo regime.\nart. 3º - para fins de comparacao do tempo de servico prestado sob regime estatutario, a unidade de pessoal expedira certidao do tempo de servico (cts), conforme modelo anexo que produzira no instituto nacional de previdencia social (inps) todos os efeitos previstos na legislacao de previdencia social.\nparagrafo unico - o orgao de pessoal, apos o levantamento do tempo de servico, que abrangera todo aquele registrado nos",
+        "fecho": "brasilia, 20 de abril de 1976; 155º da independencia e 88º da republica.",
+        "apos_fecho": [
+          "ernesto geisel",
+          "arnaldo prieto",
+          "l.g. do nascimento e silva",
+          "<<anexo>>",
+          "tabela"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "status": "retido_modelo_proprio_ausente_na_transcricao",
+      "situacao_publicacao": "Presente no disco; coordenador deve confrontar com HEAD e máscaras existentes antes de alterar a contagem apta."
+    },
+    {
+      "path": "federal/decretos/1989/dec-97576-1989-03-15.md",
+      "urn": "urn:lex:br:federal:decreto:1989-03-15;97576",
+      "sha256_md": "c8439f4ef247ce8900057f06bccbf0e29557fb966d805d27fa2066a5f12a7e52",
+      "sha256_fonte_html": "b0837ce2d0b9fcbb873c6331b4d157c96c5ea2e86ca3295ec49827da861867ee",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1989-03-15;97576",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "autelar e protecao do liberado; na falta da entidade, tais informacoes poderao ser supridas por outro documento idoneo.\nart. 9° os orgaos centrais da administracao penitenciaria preencherao, ate 31 de julho de 1989, quadro de acordo com o modelo anexo, encaminhando-o a secretaria de justica e segu­ranca publica, do ministerio da justica.\nart. 10. este decreto entra em vigor na data de sua publicacao.",
+        "fecho": "brasilia, 15 de marco de 1989; 168° da independencia e 101° da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "oscar dias correa",
+          "<<anexo>>",
+          "tabelas"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "status": "retido_modelo_proprio_ausente_na_transcricao",
+      "situacao_publicacao": "Presente no disco; coordenador deve confrontar com HEAD e máscaras existentes antes de alterar a contagem apta."
+    },
+    {
+      "path": "federal/decretos/1988/dec-96035-1988-05-11.md",
+      "urn": "urn:lex:br:federal:decreto:1988-05-11;96035",
+      "sha256_md": "eb1c278e1ead445e68c3e75da8b7051585350e2f5c948ea4719206c66da7ae91",
+      "sha256_fonte_html": "4e818fd69928b1dcc44557494eaf428f5cb769bab636683c64892799db21dc56",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1988-05-11;96035",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "autelar e protecao do liberado; na falta da entidade, tais informacoes poderao ser supridas por outro documento idoneo.\nart. 9° os orgaos centrais da administracao penitenciaria preencherao, ate 30 de setembro de 1988, quadro de acordo com o modelo anexo, encaminhando-o ao departamento penitenciario federal, do ministerio da justica.\nart. 10. este decreto entra em vigor na data de sua publicacao.",
+        "fecho": "brasilia, 11 de maio de 1988; 167° da independencia e 100° da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "paulo brossard",
+          "<<anexos>>",
+          "tabela."
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "status": "retido_modelo_proprio_ausente_na_transcricao",
+      "situacao_publicacao": "Presente no disco; coordenador deve confrontar com HEAD e máscaras existentes antes de alterar a contagem apta."
+    },
+    {
+      "path": "federal/decretos/1989/dec-98389-1989-11-13.md",
+      "urn": "urn:lex:br:federal:decreto:1989-11-13;98389",
+      "sha256_md": "12e2369a5ffa2e976a731331aea51099503cb31e89bb6f33df279824072e5930",
+      "sha256_fonte_html": "96fa1c1c3def27331fdeb4a28d953d782cf4adcdb5c5d6322c7cfeeecffdb326",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1989-11-13;98389",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "cautelar e protecao do liberado e, na falta da mesma, tais informacoes poderao ser supridas por outro documento idoneo.\nart. 11 - os orgaos centrais da administracao penitenciaria preencherao, ate 31 de janeiro de 1990, quadro de acordo com o modelo anexo, encaminhando-o a secretaria da justica e seguranca publica do ministerio da justica.\nart. 12 - este decreto entra em vigor na data de sua publicacao .",
+        "fecho": "brasilia, 13 de novembro de 1989; 168º da independencia e 101º da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "j. saulo ramos",
+          "<<anexo>>",
+          "tabela."
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "status": "retido_modelo_proprio_ausente_na_transcricao",
+      "situacao_publicacao": "Presente no disco; coordenador deve confrontar com HEAD e máscaras existentes antes de alterar a contagem apta."
+    },
+    {
+      "path": "federal/decretos/1988/dec-97164-1988-12-07.md",
+      "urn": "urn:lex:br:federal:decreto:1988-12-07;97164",
+      "sha256_md": "b5369ca26216810792650b6f7d489b0d42bd7aa14f169116cd2df3a9b1ca05a4",
+      "sha256_fonte_html": "8cbf9be903db1152d750e5efa658c7fcbd4c97eb04d5964063b012edc4aabdc7",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1988-12-07;97164",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "autelar e protecao do liberado. na falta da entidade, tais informacoes poderao ser supridas por outro documento idoneo.\nart. 9º - os orgaos centrais da administracao penitenciaria preencherao, ate 30 de abril de 1989, quadro de acordo com o modelo anexo, encaminhando-o a secretaria de justica e seguranca publica, do ministerio da justica.\nart. 10 - este decreto entra em vigor na data de sua publicacao.",
+        "fecho": "brasilia, 07 de dezembro de 1988; 167º da independencia e 100º da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "paulo brossard",
+          "<<anexo>>",
+          "(tabela)"
+        ],
+        "estado": "ausencia_na_transcricao"
+      },
+      "status": "retido_modelo_proprio_ausente_na_transcricao",
+      "situacao_publicacao": "Presente no disco; coordenador deve confrontar com HEAD e máscaras existentes antes de alterar a contagem apta."
+    }
+  ],
+  "limite": "Comprova ausência do modelo próprio na transcrição da fonte e do MD examinados; não afirma inexistência do suplemento em outra publicação oficial. Fontes alternativas ainda precisam ser recuperadas."
+}

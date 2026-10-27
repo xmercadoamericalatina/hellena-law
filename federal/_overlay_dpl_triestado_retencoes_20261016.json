@@ -1,0 +1,20 @@
+{
+  "manifesto_base": "federal/_preparacao_dpl_triestado3270_20261016.json",
+  "base_intacta": true,
+  "candidatos_condicionais": 3268,
+  "sem_alteracao_condicionais": 5,
+  "retidos": 117,
+  "retencoes_adicionais": [
+    {
+      "path": "federal/decretos-legislativos/1928/dpl-5488-1928-07-09.md",
+      "sha256_md": "486123139cf0d6755620fd84d218b1f0b590673fbd9ff89a236222cbdfff247e",
+      "motivo": "Fonte textual contém ilegível; exige resolução visual, sem preenchimento inferido"
+    },
+    {
+      "path": "federal/decretos-legislativos/1928/dpl-5515-1928-08-13.md",
+      "sha256_md": "c024a7c1517c152f42592cc7f20dd4be5d433e23114d57e1250635258211046a",
+      "motivo": "Fonte textual contém ilegível; exige resolução visual, sem preenchimento inferido"
+    }
+  ],
+  "aplicado": false
+}

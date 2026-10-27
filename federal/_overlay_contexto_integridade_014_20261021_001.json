@@ -1,0 +1,18 @@
+{
+  "registros": [
+    {
+      "path": "federal/decretos/1949/dec-26660-1949-05-11.md",
+      "sha256_md": "081908aa307f0890cdd9e031343389d1e69f84b032ed94510cda7176093fcfe0",
+      "sha256_fonte_html": "88eb55bafbb2eeeb6a0d71e00e368d743ce3f77a1cadfba00aa1d38d86d731fe",
+      "motivo": "O decreto de pesquisa mineral começa nos artigos 1º e 2º e salta para o artigo 6º de conselho científico de hospital; encerra com tabela atribuída ao Decreto nº 26.663, de 12 de maio de 1949. Trecho próprio truncado e material de outra norma misturado.",
+      "estado": "retido_truncamento_ou_material_de_outra_norma_na_transcricao"
+    },
+    {
+      "path": "federal/decretos/1948/dec-25641-1948-10-06.md",
+      "sha256_md": "41cbadfc989755b9beb1cc37124007316f1516ce1c45f711e067036efb23c193",
+      "sha256_fonte_html": "372eecbebaa73e097869628a683a7a064db06fa199b1e5168d77d190c5fae64f",
+      "motivo": "Após o fecho próprio de 6 de outubro de 1948 de autorização minerária, o HTML acrescenta cláusulas da Société Anonyme du Gaz de Rio de Janeiro, com fecho de 7 de outubro de 1948. Não há nexo do corpo minerário com essas cláusulas societárias.",
+      "estado": "retido_truncamento_ou_material_de_outra_norma_na_transcricao"
+    }
+  ]
+}

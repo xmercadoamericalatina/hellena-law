@@ -1,0 +1,58 @@
+{
+  "remissoes_proprias_examinadas": 1894,
+  "fontes_com_links": 0,
+  "metodo": "Comparação do gate anterior com gate sem exceção por link e sem aceitar título de anexo isolado; listas/manifests prévios intactos.",
+  "escopo": "Remissões próprias dos snapshots aceitos, pré-selecionadas com rg (3.233 paths no acervo,1.894 no conjunto aceito). Nenhuma fonte candidata contém<a href>; exceção por link removida preventivamente. Dois casos adicionais terminam literalmente em ANEXO/TABELA sem qualquer tabela/dado, antes liberados pelo simples título.",
+  "resumo": {
+    "remissoes_aceitas_examinadas": 1894,
+    "fontes_com_link": 0,
+    "novas_invalidacoes_aptidao": 2,
+    "pendencias_001_002_publicados": 42,
+    "pendencias_publicados_apos_overlay003": 44
+  },
+  "invalidacoes_aptidao": [
+    {
+      "path": "federal/decretos/1992/dec-451-1992-02-17.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_003_v2.json",
+      "urn": "urn:lex:br:federal:decreto:1992-02-17;451",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1992-02-17;451",
+      "sha256": "7bdebacf15b4eea652134f82486a4421e5063b0b9db0945e425dffe8079d0dcd",
+      "sha256_fonte_html": "ddf67b38bf9cc7ee1f82da5250078d21f8271e41c63ab4e7486eec344615de81",
+      "fonte_html_cache": "federal/_fonte/decretos/1992/dec-451-1992-02-17.html.gz",
+      "links_fonte": [],
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas, eventual nota de publicação ou rótulo/link; sem o corpo do suplemento.",
+        "remissao": "de maio de 1990,\ndecreta:\nart. 1° o anexo ao decreto n° 243, de 28 de outubro de 1991, passa a vigorar com a redacao do anexo a este decreto.\nart. 2° este decreto entra em vigor na data de sua publi­cacao.",
+        "fecho": "brasilia, 17 de fevereiro de 1992; 171° da independencia e 104° da republica.",
+        "apos_fecho": [
+          "fernando collor",
+          "marcilio marques moreira",
+          "anexo",
+          "tabela"
+        ]
+      }
+    },
+    {
+      "path": "federal/decretos/1995/dec-1550-1995-07-07.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_002_v2.json",
+      "urn": "urn:lex:br:federal:decreto:1995-07-07;1550",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1995-07-07;1550",
+      "sha256": "94295a96d2f4bc8f0193d94c6ac12762aa16d00b3f12e2588511a0097df9bca2",
+      "sha256_fonte_html": "e3f70135376b411d67f291ddbf78c64c2823ebc59dac7c77a888adcd751e17ed",
+      "fonte_html_cache": "federal/_fonte/decretos/1995/dec-1550-1995-07-07.html.gz",
+      "links_fonte": [],
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas, eventual nota de publicação ou rótulo/link; sem o corpo do suplemento.",
+        "remissao": ", de 19 de setembro de 1984, e pela lei nº 8.085, de 23 de outubro de 1990,\ndecreta:\nart. 1º fica alterada, na forma do anexo a este decreto, a tarifa externa comum - tec do mercosul, que compoe o decreto nº 1.343, de 23 de dezembro de 1994.\nart. 2º este decre",
+        "fecho": "brasilia, 7 de julho de 1995; 174º da independencia e 107º da republica.",
+        "apos_fecho": [
+          "fernando henrique cardoso",
+          "pedro malan",
+          "anexo",
+          "tabela"
+        ]
+      }
+    }
+  ],
+  "acao": "Excluir estes dois paths do progresso apto até recuperar anexos. MDs, fontes, manifests e listas anteriores preservados."
+}

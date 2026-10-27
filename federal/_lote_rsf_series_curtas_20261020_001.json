@@ -1,0 +1,80 @@
+{
+  "escopo": "Duas lacunas reais recuperadas de coletânea oficial preexistente. Nenhuma meta reduzida; artigo próprio pode ser disposição numerada contextual, comoRSF2/1948. Não certifica vigência atual.",
+  "publicaveis": [
+    {
+      "path": "federal/resolucoes-senado/1948/rsf-2-1948-02-16.md",
+      "urn": "urn:lex:br:senado.federal:resolucao:1948-02-16;2",
+      "sha256": "4264e958ee7d31baee8910252280f40a8df8f92eacbe130396a8a3388d582cf2",
+      "id_senado": "589306",
+      "origem": "Fonte PDF e extração preexistentes em cache, sem presumir autoria; seleção contextual e validação visual nesta rodada, sem HTTP novo.",
+      "preexistente_md": false,
+      "fonte": "https://www.senado.leg.br/publicacoes/anais/pdf/Resolucoes/1946a1959.pdf",
+      "sha256_fonte_pdf": "41225aa2500ba701635ab104728427becdad324da0ac1eeae597952a5a5805b2",
+      "paginas_pdf": [
+        53,
+        54
+      ],
+      "metodo_identidade": "epigrafe_n2_1948_fecho16_fevereiro_1948_e_cinco_disposicoes_enumeradas_sem_rotulo_artigo",
+      "observacao_identidade": "A fonte contém cinco disposições numeradas (1ª a 5ª), sem rótulo Artigo; foram preservadas integralmente, com a fórmula de promulgação, fecho e nota de publicação.",
+      "checks": [
+        "Texto integral do trecho e notas reproduzido sem perdas",
+        "Identidade número/ano e data conforme prova especificada",
+        "Trecho contém disposições próprias, não apenas referência/errata",
+        "Revisão visual das páginas: sem tabela, figura ou anexo próprio omitido",
+        "URN e tipo/número/ano ausentes antes de gravar",
+        "Sem inferência de vigência"
+      ],
+      "provas": [
+        {
+          "path": "federal/_provas_rsf_series_curtas_20261020_001/1946a1959-p53.png",
+          "sha256": "4a7b2c3e3206c8008f34f7e56256b2a40d86c90ecbca8a935b00587405bf0eca",
+          "pagina_pdf": 53
+        },
+        {
+          "path": "federal/_provas_rsf_series_curtas_20261020_001/1946a1959-p54.png",
+          "sha256": "b2f4b5a16d0f2f0f2a724391d7727b5006ab2503037f7c6ab35c37698b3ecd0b",
+          "pagina_pdf": 54
+        }
+      ]
+    },
+    {
+      "path": "federal/resolucoes-senado/1981/rsf-116-1981-11-28.md",
+      "urn": "urn:lex:br:senado.federal:resolucao:1981-11-28;116",
+      "sha256": "50fd7fe24fcf844392a226266a25543c2481e6888e3290dd81734b2f3e72d260",
+      "id_senado": "564409",
+      "origem": "Fonte PDF e extração preexistentes em cache, sem presumir autoria; seleção contextual e validação visual nesta rodada, sem HTTP novo.",
+      "preexistente_md": false,
+      "fonte": "https://www.senado.leg.br/publicacoes/anais/pdf/Resolucoes/1981.pdf",
+      "sha256_fonte_pdf": "69393af18b30a789582bb722b24bc2ca1c6da323c691ac2da3b64b226d8afc30",
+      "paginas_pdf": [
+        65
+      ],
+      "metodo_identidade": "epigrafe_n116_1981_artigo_unico_e_data_de_publicacao28_nov_1981_conforme_indice",
+      "observacao_identidade": "A coletânea não informa data própria de assinatura; 28/11/1981 é a data de publicação citada pela fonte e a data do índice oficial. Não se presume identidade entre publicação e assinatura.",
+      "checks": [
+        "Texto integral do trecho e notas reproduzido sem perdas",
+        "Identidade número/ano e data conforme prova especificada",
+        "Trecho contém disposições próprias, não apenas referência/errata",
+        "Revisão visual das páginas: sem tabela, figura ou anexo próprio omitido",
+        "URN e tipo/número/ano ausentes antes de gravar",
+        "Sem inferência de vigência"
+      ],
+      "provas": [
+        {
+          "path": "federal/_provas_rsf_series_curtas_20261020_001/1981-p65.png",
+          "sha256": "eb580d165f4cd8d045481be805ce9edf1ccfe628a1d68b2289b76fdd3a897891",
+          "pagina_pdf": 65
+        }
+      ]
+    }
+  ],
+  "resumo": {
+    "candidatos": 2,
+    "publicaveis": 2,
+    "retidos": 0
+  },
+  "receipts": {
+    "path": "federal/_receipts_rsf_series_curtas_20261020_001.jsonl.gz",
+    "sha256": "8b1e48941a2d34c79505cda29d34765f885822c9d40386652c09ed4b72ce4a01"
+  }
+}

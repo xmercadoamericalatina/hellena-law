@@ -1,0 +1,47 @@
+{
+  "escopo": "Retenção adicional do lote 010, sem alterar o MD ou qualquer pacote anterior.",
+  "resumo": {
+    "revisados": 1,
+    "retidos": 1
+  },
+  "registros": [
+    {
+      "path": "federal/decretos/1953/dec-34126-1953-10-08.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1953-10-08;34126",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1953-10-08;34126",
+      "url_texto": "https://normas.leg.br/api/binario/3d69e003-773b-49c5-b6df-666d38e00b35/texto",
+      "sha256": "44dc5bd1255b1ed90055e6af4b0d0779b275af14c50cd91454530b3af2e4a326",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "9ecdd465652a5caafd70b5219b37aad121caa1e3ee9396c4d11e4ea71263eeba",
+      "sha256_metadados": "ca28d31aff4c742b2940de28ef9f4a93654abbaf2897aed64026cf1f3fe177b7",
+      "captura_metadados": "federal/_fonte/metadados-normas/59016661f31998da1d94ffa2f56d96c22b343a5a970f61e54e749b5c892305b0/ca28d31aff4c742b2940de28ef9f4a93654abbaf2897aed64026cf1f3fe177b7.json.gz",
+      "epigrafe": {
+        "numero": "34126",
+        "data": "1953-10-08",
+        "epigrafe": "DECRETO N. 34.126 – DE 8 DE OUTUBRO DE 1953"
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "sha256_md": "44dc5bd1255b1ed90055e6af4b0d0779b275af14c50cd91454530b3af2e4a326",
+      "resultado": {
+        "motivo": "Aprovação própria com placeholder terminal e nenhuma reprodução do suplemento; a indicação bibliográfica não é o conteúdo do anexo, mesmo sem fecho reconhecível.",
+        "remissao": "art. 1º fica aprovada, na forma da relacao anexa, a tabela numerica especial de extranumerario-mensalista (artigo ( ilegivel ) da lei nº 1,765, de 1952), do 20º batalhao de cacadores, do ministerio da guerra.",
+        "lacuna": "<<anexo>>clbr vol. 08 ano 1953 pag. 250 tabela.\n",
+        "fecho": null,
+        "estado": "ausencia_na_transcricao"
+      },
+      "estado": "retido_suplemento_proprio_ausente_na_transcricao",
+      "limite": "A prova se refere somente à transcrição consultada; não afirma ausência em outras publicações."
+    }
+  ]
+}

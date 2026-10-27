@@ -1,0 +1,54 @@
+{
+  "data": "2026-10-20",
+  "escopo": "Lotes 005, 006 e 007 congelados, sem alteração de documentos ou de manifestos anteriores.",
+  "resumo": {
+    "revisados": 5558,
+    "retidos": 2
+  },
+  "retidos": [
+    {
+      "lote": 5,
+      "path": "federal/decretos/1958/dec-44505-1958-09-24.md",
+      "urn": "urn:lex:br:federal:decreto:1958-09-24;44505",
+      "sha256_md": "a0475a676fa818ee4c715c34b09a29425a56b3f44bc37609a0e06d012efee2a2",
+      "sha256_fonte_html": "eda19e6c3133e363437b4bf0fde21148b64430b0092631eb76eb7bf8e00c1309",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1958-09-24;44505",
+      "url_texto": "https://normas.leg.br/api/binario/229da4a0-208b-44dc-af8d-02b2b3c3139e/texto",
+      "status": "retido_integralidade",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": " da constituicao federal e tendo em vista o disposto no art. 6º do decreto-lei nº 334, de 15 de marco de 1938,\ndecreta:\nart. 1º em obediencia ao art. 1º do decreto-lei nº 334, de 15 de marco de 1938, fica instituido um unico certificado de classificacao e de fiscalizacao da exportacao, conforme modelo anexo.\n§ 1º a parte destinada a classificacao sera preenchida pelo servico de economia rural ou pelos postos subordinados aos ",
+        "fecho": "rio de janeiro, 24 de setembro de 1958; 137º da independencia e 70º da republica.",
+        "apos_fecho": [
+          "juscelino kubitschek",
+          "mario meneghetti",
+          "lucas lopes",
+          "<<anexo>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      }
+    },
+    {
+      "lote": 5,
+      "path": "federal/decretos/1958/dec-44507-1958-09-24.md",
+      "urn": "urn:lex:br:federal:decreto:1958-09-24;44507",
+      "sha256_md": "635f2b0d91368a3e046f0f426016173da08d51a74bbaf958d967f015782ef558",
+      "sha256_fonte_html": "db6ec87284b11925e62d0a358fd681eae14bc10a854dcc38b90d52b59eb50b46",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1958-09-24;44507",
+      "url_texto": "https://normas.leg.br/api/binario/7a8bf71a-0457-4b37-b65e-15b64a18f003/texto",
+      "status": "retido_integralidade",
+      "evidencia": {
+        "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+        "remissao": "ro de 1957.\no presidente da republica, usando das atribuicoes que lhe confere o artigo 87, i, da constituicao,\ndecreta:\nart. 1º fica substituida pelo modelo anexo denominado “guia de embarque” a atual guia de exportacao para o exterior do brasil, de que trata o decreto nº 15.813, de 13 de novembro de 1922.\nparagrafo unico. a “guia de embarque“ sera preenchida em 8 vias, que terao a seguinte destinacao:\n1ª via - reparticao a",
+        "fecho": "rio de janeiro, 24 de setembro de 158, 137º da independencia, 70º da republica.",
+        "apos_fecho": [
+          "juscelino kubistchek",
+          "lucas lopes",
+          "<<anexo>>"
+        ],
+        "estado": "ausencia_na_transcricao"
+      }
+    }
+  ],
+  "limite": "Ausência comprovada na transcrição examinada; não afirma inexistência do suplemento em outra publicação oficial."
+}

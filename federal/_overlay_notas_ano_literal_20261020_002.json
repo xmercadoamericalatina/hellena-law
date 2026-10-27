@@ -1,0 +1,41 @@
+{
+  "escopo": "Corrige somente a citação editorial de três anos oficiais com cinco algarismos. Não modifica canônicos nem candidatos anteriores.",
+  "substituicoes_privadas": [
+    {
+      "path": "federal/decretos/1957/dec-42979-1957-12-31.md",
+      "candidate": "federal/_candidatos_fechos_ano_literal_20261020_002/dec-42979-1957-12-31.md",
+      "sha256_candidato": "c680b4f347e45bf1cc66319d755255bd591520ab098aef6a86672bb6b3969287",
+      "sha256_preimagem": "aa3d4c835f4c3e636e682802f6b4aaee826295b002e418a40deb56eaca534e49",
+      "candidato_anterior": "federal/_candidatos_fechos_contextuais_20261020_001/dec-42979-1957-12-31.md",
+      "sha256_candidato_anterior": "87b86f46ca7f6c25e9d4ca9e394786188ec193dc36d5799d941b82e801c2d0ef",
+      "literal_parcial_anterior": "Rio de Janeiro, 31 de dezembro de 1195",
+      "literal_completo_fonte": "Rio de Janeiro, 31 de dezembro de 11957",
+      "nota_final": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 42979, de 1957-12-31. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 31 de dezembro de 11957\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/a3a2d1d5-234b-4489-bf99-a61cf6e8093c/texto; SHA-256 do HTML: 1c2f4d702af882fa1b38a4d4e7fc78e3ecab7682815dfea2e35945ecf6e9472e.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1957/dec-41888-1957-07-25.md",
+      "candidate": "federal/_candidatos_fechos_ano_literal_20261020_002/dec-41888-1957-07-25.md",
+      "sha256_candidato": "df75be4a023502cf2d3c472496bfbfe2fc95cda7ef017625eb24caf104d65183",
+      "sha256_preimagem": "323d5562dce8d9577cda216fc920dfe54b92aebef492a362087a7ef3878a12c4",
+      "candidato_anterior": "federal/_candidatos_fechos_contextuais_20261020_001/dec-41888-1957-07-25.md",
+      "sha256_candidato_anterior": "5dd5b3463a1d00739fd8c0f5ca23e039f363b6c07cbeb0537a4ae622fc896d3f",
+      "literal_parcial_anterior": "Rio de Janeiro, 25 de julho de 1895",
+      "literal_completo_fonte": "Rio de Janeiro, 25 de julho de 18957",
+      "nota_final": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 41888, de 1957-07-25. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 25 de julho de 18957\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/885cb5bc-9b61-4b71-82f8-f91e217a9207/texto; SHA-256 do HTML: 85885498510455934cb3688cb8db74fc4906231462fcebb50248a709d5a70bc7.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1957/dec-41542-1957-05-20.md",
+      "candidate": "federal/_candidatos_fechos_ano_literal_20261020_002/dec-41542-1957-05-20.md",
+      "sha256_candidato": "630467bfedbaf581ab15a5ffb0987d45e109b5803cc947fb15d4deba925a2dab",
+      "sha256_preimagem": "31493ec6516f4c58f10154ae0b6c228777b9685cdf3fadfe35de2ea2cc48d84b",
+      "candidato_anterior": "federal/_candidatos_fechos_contextuais_20261020_001/dec-41542-1957-05-20.md",
+      "sha256_candidato_anterior": "f8f94cc12bea5b92b6360d4b3e35cb263a9d118aa4377750118d53c553f89043",
+      "literal_parcial_anterior": "Rio de Janeiro, 20 de maio de 1195",
+      "literal_completo_fonte": "Rio de Janeiro, 20 de maio de 11957",
+      "nota_final": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 41542, de 1957-05-20. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 20 de maio de 11957\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/7081eabb-4bf6-4180-a604-a035ac2d9abf/texto; SHA-256 do HTML: f2b7086e59b70ac0c4b319f030ad1d6bb1d73d41a3453f7e670eba26eb47411c.",
+      "corpo_oficial_inalterado": true
+    }
+  ]
+}

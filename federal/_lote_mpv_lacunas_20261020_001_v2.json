@@ -1,0 +1,326 @@
+{
+  "lote": "mpv_lacunas_20261020_001_v2",
+  "candidatos_mpv_com_fonte": 11,
+  "publicaveis": [
+    {
+      "path": "federal/medidas-provisorias/1996/mpv-1478-15-1996-08-29.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1996-08-29;1478-15",
+      "preexistente_md": false,
+      "origem": "Nova captura oficial seguida de fechamento exclusivamente offline; não presume autoria de caches anteriores.",
+      "sha256": "1e43f9e539ce5b95c1235fbcccf0c2d1dae53aca99f1e88be6200980770ad506",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:1996-08-29;1478-15",
+      "url_texto": "https://normas.leg.br/api/public/binario/7493ed79-8ef5-411a-a6e2-923e70a52751/texto",
+      "sha256_fonte_html": "bf698aed26c40d343f37ad8b4bcb056523ebbec8864409c727fc3954d78d771a",
+      "fonte_html_cache": "federal/_fonte/medidas-provisorias/1996/mpv-1478-15-1996-08-29.html.gz",
+      "sha256_metadados": "c10374df240c73ad1c7219fd4471420f47ffa303564a982a5b26aaacc8a25740",
+      "captura_metadados": "federal/_fonte/metadados-normas/844b1492ec4fc93b1016d75f06cf61be9454b67635a8460048c71d128c8ab6d0/c10374df240c73ad1c7219fd4471420f47ffa303564a982a5b26aaacc8a25740.json.gz",
+      "identidade": {
+        "metodo": "epigrafe_completa_e_fecho_proprio",
+        "epigrafe": "medida provisoria nº 1.478-15, de 29 de agosto de 1996.",
+        "fecho": "brasilia, 29 de agosto de 1996; 175º da independencia e 108º da republica.",
+        "data": "1996-08-29"
+      },
+      "tabelas": 0,
+      "checks": {
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_elementos_visuais": true,
+        "artigos_proprios_sem_retificacao_avulsa": true,
+        "urn_numero_tipo_data_indice_metadados_epigrafe_fecho": true,
+        "sem_duplicacao_numero_ano": true
+      }
+    },
+    {
+      "path": "federal/medidas-provisorias/1996/mpv-1464-13-1996-09-26.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1996-09-26;1464-13",
+      "preexistente_md": false,
+      "origem": "Nova captura oficial seguida de fechamento exclusivamente offline; não presume autoria de caches anteriores.",
+      "sha256": "5cfb3fc070a4324adcab4ab4f34a7c8287a86b176960726837f7beb569e77a48",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:1996-09-26;1464-13",
+      "url_texto": "https://normas.leg.br/api/public/binario/c2570eaf-f91e-4fb5-9e4b-6fe823908e2c/texto",
+      "sha256_fonte_html": "07ce0536e9f49b5c5537b6e1a7b9471292b299d6779f00aed808900dad14a4d1",
+      "fonte_html_cache": "federal/_fonte/medidas-provisorias/1996/mpv-1464-13-1996-09-26.html.gz",
+      "sha256_metadados": "6cd794aae12fa937a4dd26b7324314362df5d35a53ba632075e2c0180a312883",
+      "captura_metadados": "federal/_fonte/metadados-normas/d80c5e8809e51049fa9495fd37d9558b7a7da1189294d61deb7961e02198859c/6cd794aae12fa937a4dd26b7324314362df5d35a53ba632075e2c0180a312883.json.gz",
+      "identidade": {
+        "metodo": "epigrafe_completa_e_fecho_proprio",
+        "epigrafe": "medida provisoria nº 1.464-13, de 26 de setembro de 1996.",
+        "fecho": "brasilia, 26 de setembro de 1996; 175º da independencia e 108º da republica.",
+        "data": "1996-09-26"
+      },
+      "tabelas": 0,
+      "checks": {
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_elementos_visuais": true,
+        "artigos_proprios_sem_retificacao_avulsa": true,
+        "urn_numero_tipo_data_indice_metadados_epigrafe_fecho": true,
+        "sem_duplicacao_numero_ano": true
+      }
+    },
+    {
+      "path": "federal/medidas-provisorias/1997/mpv-1542-25-1997-08-07.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1997-08-07;1542-25",
+      "preexistente_md": false,
+      "origem": "Nova captura oficial seguida de fechamento exclusivamente offline; não presume autoria de caches anteriores.",
+      "sha256": "09618fbc651e9f2b35aee5e16a50a9e0fb37b5d30bda9dabb64cb2a97b5c219e",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:1997-08-07;1542-25",
+      "url_texto": "https://normas.leg.br/api/public/binario/e3ece7d3-8a9e-4e3b-8cb0-366c525613c5/texto",
+      "sha256_fonte_html": "0d3b3f3941e4bbbd484b0046fb54e47ee12d81bfd6370ada5dd3e12a34aebd24",
+      "fonte_html_cache": "federal/_fonte/medidas-provisorias/1997/mpv-1542-25-1997-08-07.html.gz",
+      "sha256_metadados": "f55fa325c8133cb8effa77e45d6563acbffac7e140a960744fec6301153014ee",
+      "captura_metadados": "federal/_fonte/metadados-normas/1b28f7d37c0a1d228d771016e85fba20075111d63bc56807e696e1cd42646e34/f55fa325c8133cb8effa77e45d6563acbffac7e140a960744fec6301153014ee.json.gz",
+      "identidade": {
+        "metodo": "epigrafe_completa_e_fecho_proprio",
+        "epigrafe": "medida provisoria nº 1.542-25, de 7 de agosto de 1997",
+        "fecho": "brasilia, 7 de agosto de 1997; 176o da independencia e 109o da republica.",
+        "data": "1997-08-07"
+      },
+      "tabelas": 0,
+      "checks": {
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_elementos_visuais": true,
+        "artigos_proprios_sem_retificacao_avulsa": true,
+        "urn_numero_tipo_data_indice_metadados_epigrafe_fecho": true,
+        "sem_duplicacao_numero_ano": true
+      }
+    },
+    {
+      "path": "federal/medidas-provisorias/1998/mpv-1549-40-1998-02-26.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1998-02-26;1549-40",
+      "preexistente_md": false,
+      "origem": "Nova captura oficial seguida de fechamento exclusivamente offline; não presume autoria de caches anteriores.",
+      "sha256": "853b2a112528b1fdf9aeeadfb9ab75560bb78f60c7369fb2218def95b34571c5",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:1998-02-26;1549-40",
+      "url_texto": "https://normas.leg.br/api/public/binario/59db99e0-11d0-4478-b08a-153c23439863/texto",
+      "sha256_fonte_html": "867cb0c7a755b28730e98c917b6e97e5ecbd1cd911240ba91de4507cbbff96de",
+      "fonte_html_cache": "federal/_fonte/medidas-provisorias/1998/mpv-1549-40-1998-02-26.html.gz",
+      "sha256_metadados": "71177ad805476da77c2040954418ee3ba8c23c96b9e4c03d47d1bad3af2f280b",
+      "captura_metadados": "federal/_fonte/metadados-normas/e123b6b6080ce623a4a2da6e85f9077dacd061963af353e7bfc37de76484dae7/71177ad805476da77c2040954418ee3ba8c23c96b9e4c03d47d1bad3af2f280b.json.gz",
+      "identidade": {
+        "metodo": "epigrafe_completa_e_fecho_proprio",
+        "epigrafe": "medida provisoria nº 1.549-40, de 26 de fevereiro de 1998",
+        "fecho": "brasilia, 26 de fevereiro de 1998; 177º da independencia e 110º da republica.",
+        "data": "1998-02-26"
+      },
+      "tabelas": 0,
+      "checks": {
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_elementos_visuais": true,
+        "artigos_proprios_sem_retificacao_avulsa": true,
+        "urn_numero_tipo_data_indice_metadados_epigrafe_fecho": true,
+        "sem_duplicacao_numero_ano": true
+      }
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1900-39-1999-06-29.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-06-29;1900-39",
+      "preexistente_md": false,
+      "origem": "Nova captura oficial seguida de fechamento exclusivamente offline; não presume autoria de caches anteriores.",
+      "sha256": "ef3abbb3e65f0b742429d4163df70996d8f4ffd932fd94e2d146dbd6cd826c98",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:1999-06-29;1900-39",
+      "url_texto": "https://normas.leg.br/api/public/binario/1db87a63-c068-4690-95d0-30ac002ec880/texto",
+      "sha256_fonte_html": "46fead07c8e03fff04a7ff95ccff5ee8e17302d3699fb116d5302484eeb95026",
+      "fonte_html_cache": "federal/_fonte/medidas-provisorias/1999/mpv-1900-39-1999-06-29.html.gz",
+      "sha256_metadados": "a142b1168b389da3d10d4b97a8c9b85ac14a2666b035087851d3d2c7b828a5cc",
+      "captura_metadados": "federal/_fonte/metadados-normas/456b9ae8cef1f4ee4f4ec47a60a621dea9c436c2e300d35c6d7867176765ec9f/a142b1168b389da3d10d4b97a8c9b85ac14a2666b035087851d3d2c7b828a5cc.json.gz",
+      "identidade": {
+        "metodo": "epigrafe_completa_e_fecho_proprio",
+        "epigrafe": "medida provisoria nº 1.900-39, de 29 de junho 1999.",
+        "fecho": "brasilia, 29 de junho de 1999; 178º da independencia e 111º da republica.",
+        "data": "1999-06-29"
+      },
+      "tabelas": 0,
+      "checks": {
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_elementos_visuais": true,
+        "artigos_proprios_sem_retificacao_avulsa": true,
+        "urn_numero_tipo_data_indice_metadados_epigrafe_fecho": true,
+        "sem_duplicacao_numero_ano": true
+      }
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1846-10-1999-07-29.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-07-29;1846-10",
+      "preexistente_md": false,
+      "origem": "Nova captura oficial seguida de fechamento exclusivamente offline; não presume autoria de caches anteriores.",
+      "sha256": "d9a4fe3a66a1a28d37055d25e538b44b14036a456b4423393843e5cfc79d76de",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:1999-07-29;1846-10",
+      "url_texto": "https://normas.leg.br/api/public/binario/332af428-9038-4b15-8f13-5d1020737d25/texto",
+      "sha256_fonte_html": "b2e774f02a34e41228a76939b562302762a569c33c230967d2c5fcadfa7a7e87",
+      "fonte_html_cache": "federal/_fonte/medidas-provisorias/1999/mpv-1846-10-1999-07-29.html.gz",
+      "sha256_metadados": "025a5057a988508383bf493d6cbbd2b32ee8f2f518f59dd71f675d5abaee0e47",
+      "captura_metadados": "federal/_fonte/metadados-normas/9be0c3c3ef435e5fa579c3301f47f7529b77e90a474aca2228626bb18a9a7592/025a5057a988508383bf493d6cbbd2b32ee8f2f518f59dd71f675d5abaee0e47.json.gz",
+      "identidade": {
+        "metodo": "epigrafe_completa_e_fecho_proprio",
+        "epigrafe": "medida provisoria nº 1.846-10, de 29 de julho de 1999.",
+        "fecho": "brasilia, 29 de julho de 1999; 178º da independencia e 111º da republica.",
+        "data": "1999-07-29"
+      },
+      "tabelas": 0,
+      "checks": {
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_elementos_visuais": true,
+        "artigos_proprios_sem_retificacao_avulsa": true,
+        "urn_numero_tipo_data_indice_metadados_epigrafe_fecho": true,
+        "sem_duplicacao_numero_ano": true
+      }
+    },
+    {
+      "path": "federal/medidas-provisorias/1999/mpv-1907-10-1999-09-24.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:1999-09-24;1907-10",
+      "preexistente_md": false,
+      "origem": "Nova captura oficial seguida de fechamento exclusivamente offline; não presume autoria de caches anteriores.",
+      "sha256": "3b00e7d7a84a7d6c6646a2a50c11214bac3999dbffa082236584d088ccbbe525",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:1999-09-24;1907-10",
+      "url_texto": "https://normas.leg.br/api/public/binario/f9a0af5a-69ed-4b55-ad34-3ed9df05cab6/texto",
+      "sha256_fonte_html": "ffb34f569b91a3c0d39319412edff08073df22b0061731ffd149ba8fcda00ce1",
+      "fonte_html_cache": "federal/_fonte/medidas-provisorias/1999/mpv-1907-10-1999-09-24.html.gz",
+      "sha256_metadados": "0b926c4d805fb7407c95b62df5004bbb132bb3f954f867dc2d4c27488883331d",
+      "captura_metadados": "federal/_fonte/metadados-normas/e64194d6b43780013b8ad98f44da9980833be78777aca911b3b2a6ef5ef96225/0b926c4d805fb7407c95b62df5004bbb132bb3f954f867dc2d4c27488883331d.json.gz",
+      "identidade": {
+        "metodo": "epigrafe_completa_e_fecho_proprio",
+        "epigrafe": "medida provisoria nº 1.907-10, de 24 de setembro de 1999.",
+        "fecho": "brasilia, 24 de setembro de 1999; 178º da independencia e 111º da republica.",
+        "data": "1999-09-24"
+      },
+      "tabelas": 0,
+      "checks": {
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_elementos_visuais": true,
+        "artigos_proprios_sem_retificacao_avulsa": true,
+        "urn_numero_tipo_data_indice_metadados_epigrafe_fecho": true,
+        "sem_duplicacao_numero_ano": true
+      }
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-2027-38-2000-05-04.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-05-04;2027-38",
+      "preexistente_md": false,
+      "origem": "Nova captura oficial seguida de fechamento exclusivamente offline; não presume autoria de caches anteriores.",
+      "sha256": "a2d62afaaedd4f4ad3177665c5c82388a4e8b2f8b8e7df067003e1d9824680bb",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2000-05-04;2027-38",
+      "url_texto": "https://normas.leg.br/api/public/binario/99163073-d14c-4c8e-88c2-614b5a3c616b/texto",
+      "sha256_fonte_html": "9d9f167a8b3b5f0a2e8fcae5a96e62b226c147313159dcfe749a8c409dd52890",
+      "fonte_html_cache": "federal/_fonte/medidas-provisorias/2000/mpv-2027-38-2000-05-04.html.gz",
+      "sha256_metadados": "bce99e88031e63957d7db2deb2fc970cdea2d2b5c076f07305d29a65653c989f",
+      "captura_metadados": "federal/_fonte/metadados-normas/700aaa935f3d6ef0b113d6ceefae3677b6c4db2adec84170b14d6080260d3ba5/bce99e88031e63957d7db2deb2fc970cdea2d2b5c076f07305d29a65653c989f.json.gz",
+      "identidade": {
+        "metodo": "epigrafe_completa_e_fecho_proprio",
+        "epigrafe": "medida provisoria nº 2.027-38, de 4 de maio de 2000.",
+        "fecho": "brasilia, 4 de maio de 2000; 179º da independencia e 112º da republica.",
+        "data": "2000-05-04"
+      },
+      "tabelas": 0,
+      "checks": {
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_elementos_visuais": true,
+        "artigos_proprios_sem_retificacao_avulsa": true,
+        "urn_numero_tipo_data_indice_metadados_epigrafe_fecho": true,
+        "sem_duplicacao_numero_ano": true
+      }
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-2124-17-2000-12-27.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-12-27;2124-17",
+      "preexistente_md": false,
+      "origem": "Nova captura oficial seguida de fechamento exclusivamente offline; não presume autoria de caches anteriores.",
+      "sha256": "bb89900372b95fb79dd1e095063d1adb7f20e3755361ee221799446c75c1c35a",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2000-12-27;2124-17",
+      "url_texto": "https://normas.leg.br/api/public/binario/59fcb631-9bc1-448f-a8f6-4e8abecbd543/texto",
+      "sha256_fonte_html": "007e7071402d91d1c3d9eddbf1137c27f2b4d0d8c7cde16799349fe2a418b9be",
+      "fonte_html_cache": "federal/_fonte/medidas-provisorias/2000/mpv-2124-17-2000-12-27.html.gz",
+      "sha256_metadados": "dab9ac55631c9e0b919d80c0b88e9d5f9394739c8109f735b226ed460b5ca5a9",
+      "captura_metadados": "federal/_fonte/metadados-normas/aa750ac894c427e53a4543415a4e9ea64b789c4ca4073e8f3dd1bea533db721a/dab9ac55631c9e0b919d80c0b88e9d5f9394739c8109f735b226ed460b5ca5a9.json.gz",
+      "identidade": {
+        "metodo": "epigrafe_completa_e_fecho_proprio",
+        "epigrafe": "medida provisoria nº 2.124-17, de 27 de dezembro de 2000.",
+        "fecho": "brasilia, 27 de dezembro de 2000; 179º da independencia e 112º da republica.",
+        "data": "2000-12-27"
+      },
+      "tabelas": 0,
+      "checks": {
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_elementos_visuais": true,
+        "artigos_proprios_sem_retificacao_avulsa": true,
+        "urn_numero_tipo_data_indice_metadados_epigrafe_fecho": true,
+        "sem_duplicacao_numero_ano": true
+      }
+    },
+    {
+      "path": "federal/medidas-provisorias/2000/mpv-2134-25-2000-12-28.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2000-12-28;2134-25",
+      "preexistente_md": false,
+      "origem": "Nova captura oficial seguida de fechamento exclusivamente offline; não presume autoria de caches anteriores.",
+      "sha256": "e00ca0067aa9f26c9f909b824e21ef7793444cd0fc02844bdc89f67372c93c9b",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2000-12-28;2134-25",
+      "url_texto": "https://normas.leg.br/api/public/binario/2c2126e2-0ece-4178-b5c1-9c568453c649/texto",
+      "sha256_fonte_html": "68ba698cae2de04604d0416b703992145cfaff39fd832ef6d9fe4fa714640cdd",
+      "fonte_html_cache": "federal/_fonte/medidas-provisorias/2000/mpv-2134-25-2000-12-28.html.gz",
+      "sha256_metadados": "388ce05816444168015df5f8d4c5d425869fd69b993b7d6c4b8feeae439f26d3",
+      "captura_metadados": "federal/_fonte/metadados-normas/ac8941f3b736240211671bf6b50d82d3d450906d0ddc60c23678b7781c80605a/388ce05816444168015df5f8d4c5d425869fd69b993b7d6c4b8feeae439f26d3.json.gz",
+      "identidade": {
+        "metodo": "numero_proprio_mes_ano_e_data_do_fecho_proprio",
+        "epigrafe": "medida provisoria nº 2.134-25, de dezembro de 2000",
+        "fecho": "brasilia, 28 de dezembro de 2000; 179º da independencia e 112º da republica.",
+        "data": "2000-12-28"
+      },
+      "tabelas": 2,
+      "checks": {
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_elementos_visuais": true,
+        "artigos_proprios_sem_retificacao_avulsa": true,
+        "urn_numero_tipo_data_indice_metadados_epigrafe_fecho": true,
+        "sem_duplicacao_numero_ano": true
+      }
+    },
+    {
+      "path": "federal/medidas-provisorias/2001/mpv-2153-2-2001-06-05.md",
+      "urn": "urn:lex:br:federal:medida.provisoria:2001-06-05;2153-2",
+      "preexistente_md": false,
+      "origem": "Nova captura oficial seguida de fechamento exclusivamente offline; não presume autoria de caches anteriores.",
+      "sha256": "bbd89f2bc08370b2d9940f062e8a6dbefff08e234c9e2f6a6220e6cec0b8f7eb",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:medida.provisoria:2001-06-05;2153-2",
+      "url_texto": "https://normas.leg.br/api/public/binario/88e39af9-8d0c-4dd9-affc-f4e4d34bc13f/texto",
+      "sha256_fonte_html": "4e530692f548375cd5826b45ec247b56aa00b24e07e51f657fb1a83eb9416b4c",
+      "fonte_html_cache": "federal/_fonte/medidas-provisorias/2001/mpv-2153-2-2001-06-05.html.gz",
+      "sha256_metadados": "1cf5944fb561bf7c30dbf5088a34faa72f59f1d085395db9c1bd5fd25e46fdb0",
+      "captura_metadados": "federal/_fonte/metadados-normas/bb9b6666769c04f2e44e0c4619e08c52b4c0baf20b5627cb7a5f892e229d5765/1cf5944fb561bf7c30dbf5088a34faa72f59f1d085395db9c1bd5fd25e46fdb0.json.gz",
+      "identidade": {
+        "metodo": "epigrafe_completa_e_fecho_proprio",
+        "epigrafe": "medida provisoria nº 2.153‑2, de 5 de junho de 2001",
+        "fecho": "brasilia, 5 de junho de 2001; 180° da independencia e 113º da republica.",
+        "data": "2001-06-05"
+      },
+      "tabelas": 0,
+      "checks": {
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_elementos_visuais": true,
+        "artigos_proprios_sem_retificacao_avulsa": true,
+        "urn_numero_tipo_data_indice_metadados_epigrafe_fecho": true,
+        "sem_duplicacao_numero_ano": true
+      }
+    }
+  ],
+  "retidos": [],
+  "resumo": {
+    "fontes_html_obtidas": 11,
+    "publicaveis": 11,
+    "retidos": 0
+  },
+  "origem": "Índice oficial e API normas.leg.br; capturas imutáveis, fechamento offline e identidade própria confrontada.",
+  "receipts": {
+    "path": "federal/_receipts_mpv_lacunas_20261020_001_v2.jsonl.gz",
+    "sha256": "35da4d791d8d695694cbb5d9a9dfb6395561c50ab0d4ff1fe639135328dfb2ce"
+  },
+  "limite": "Texto original/republicado integral da captura verificada; não infere vigência pela ausência de revogação. Nenhuma meta reduzida."
+}

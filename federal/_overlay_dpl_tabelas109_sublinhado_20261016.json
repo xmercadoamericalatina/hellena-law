@@ -1,0 +1,41 @@
+{
+  "manifesto_base": "federal/_preparacao_dpl_tabelas109_condicional_20261016.json",
+  "condicionais_apos_retencao": 106,
+  "retidos_adicionais": [
+    {
+      "path": "federal/decretos-legislativos/1909/dpl-2168-1909-12-06.md",
+      "fonte": {
+        "path": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/camara/465877173f0c459c61f1f83796c741f5853c55689570805536a9ac59072b244c.html.gz",
+        "sha256_arquivo": "da13b6abf7e6bee8a25b2432c908af3a7ca94bbe73c31607675af1c8a9495a07",
+        "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/da13b6abf7e6bee8a25b2432c908af3a7ca94bbe73c31607675af1c8a9495a07-465877173f0c459c61f1f83796c741f5853c55689570805536a9ac59072b244c.html.gz",
+        "sha256_fonte": "7760e70c6147e8af7118bab9a20a3ed9c2b61956eb058be2a97381b87e0b6bb2",
+        "url": "https://www2.camara.leg.br/legin/fed/decret/1900-1909/decreto-2168-6-dezembro-1909-580753-publicacaooriginal-103609-pl.html"
+      },
+      "motivo": "sublinhado fonte exige preservação/revisão; máscaras anteriores não o cobriam"
+    },
+    {
+      "path": "federal/decretos-legislativos/1919/dpl-3681-1919-01-08.md",
+      "fonte": {
+        "path": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/camara/79bda9637cc579730020f90b5453a6faa8c23d16d95e8148fae006145c0ce54e.html.gz",
+        "sha256_arquivo": "7962fee8873a0147022bbcdd5ed945c6f5f56a908c3f0774e959d340ac6ec336",
+        "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/7962fee8873a0147022bbcdd5ed945c6f5f56a908c3f0774e959d340ac6ec336-79bda9637cc579730020f90b5453a6faa8c23d16d95e8148fae006145c0ce54e.html.gz",
+        "sha256_fonte": "857d82bfb5c2628a8018e0a815aa15362b022cc0819442308c4fb51bc881209d",
+        "url": "https://www2.camara.leg.br/legin/fed/decret/1910-1919/decreto-3681-8-janeiro-1919-570799-publicacaooriginal-93907-pl.html"
+      },
+      "motivo": "sublinhado fonte exige preservação/revisão; máscaras anteriores não o cobriam"
+    },
+    {
+      "path": "federal/decretos-legislativos/1929/dpl-5633-1929-01-03.md",
+      "fonte": {
+        "path": "/Volumes/ExternalSSD/GitHub/constituicao/federal/_fonte/camara/225ea9844799b5b12ddbd90fb89c2bb19b57091caf66ae678991194cdc78eb11.html.gz",
+        "sha256_arquivo": "45ab39377cbe45c295bdbaf36f5bc85345ecae858da4489230532d60cb2a3cfb",
+        "snapshot": "federal/_fonte/auditorias/dpl-auditoria-20261016/snapshots/45ab39377cbe45c295bdbaf36f5bc85345ecae858da4489230532d60cb2a3cfb-225ea9844799b5b12ddbd90fb89c2bb19b57091caf66ae678991194cdc78eb11.html.gz",
+        "sha256_fonte": "89e9fe2504d2e65fc6d34dc953e33cc6af4943e305248a5a3cb87eb201811a56",
+        "url": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-5633-3-janeiro-1929-561403-publicacaooriginal-85023-pl.html"
+      },
+      "motivo": "sublinhado fonte exige preservação/revisão; máscaras anteriores não o cobriam"
+    }
+  ],
+  "base_intacta": true,
+  "aplicado": false
+}

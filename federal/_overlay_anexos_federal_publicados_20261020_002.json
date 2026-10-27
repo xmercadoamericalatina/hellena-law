@@ -1,0 +1,899 @@
+{
+  "overlay": "anexos_federal_publicados_20261020_002",
+  "escopo": "Auditoria adicional dos19.536 decretos cache001–011 já publicados; toda área normativa do HTML examinada para img/svg/canvas/object/embed/math/iframe/v:*. Remissões próprias conservadoras com evidência de fecho sem suplemento. Não modifica texto histórico nem manifests/listas anteriores.",
+  "resumo": {
+    "auditados": 19536,
+    "visuais_encontrados": 0,
+    "erros_leitura": 0,
+    "anexos_proprios_ausentes_total": 42,
+    "ja_documentados_overlay001": 8,
+    "novas_invalidacoes_neste_overlay": 34
+  },
+  "manifestos_auditados": [
+    {
+      "path": "federal/_lote_dec_cache_20261020_001_v2.json",
+      "sha256": "0c6e68eb5821bce129d37f11c20ddfc2ff867d362d93f5b3244d3cd3cc4729e8"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_002_v2.json",
+      "sha256": "edafc403daefaa1c737de29e50276b8369164da35139967e8d1c7c6f1d4c44e0"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_003_v2.json",
+      "sha256": "450ebe8de37038683f7bfd1bc3cc9d0e1f1d2bb2f1ac4efe430771d611819374"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_004_v2.json",
+      "sha256": "9763493d38310024bb1839904bb2d35321bc241f4842fea4fb265c1b8a1e93aa"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_005_v2.json",
+      "sha256": "0031e62ae91e11f6a923238a786897608ea6a09d5c15e589cce73e76781a80eb"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_006.json",
+      "sha256": "f33e2f3aa6499eba0c97740ed55c1f36bb5a7426a548c71b75014f7b9959767b"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_007.json",
+      "sha256": "7e894226ff5e589a5601874f3e42a666db0b5ac9dc456679f0ed77e84b70131d"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_008.json",
+      "sha256": "69e3108009a0793edcc91f81f2c38b17d91cf0d5f5857f03f7061e922bc9b88f"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_009.json",
+      "sha256": "e57f9a605b33479d24c6974f21a1e2d80d2f6ff4ecc885009cc72bd8a4d645cf"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_010.json",
+      "sha256": "bcd971608b50e9f98658dbbce520a4037d92676a1b6acb44fd0ee2d2d92ad183"
+    },
+    {
+      "path": "federal/_lote_dec_cache_20261020_011.json",
+      "sha256": "016ea47b55e80e04b41eee8534cae246bcba0dd3c5dd8dc2cb2bc99a417006aa"
+    }
+  ],
+  "invalidacoes_aptidao": [
+    {
+      "path": "federal/decretos/1998/dec-2453-1998-01-06.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_002_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1998/dec-2453-1998-01-06.html.gz",
+      "sha256_fonte_html": "17b3cbf7907531ac4502e2cbb92f26a32934317ee12878657e412488af4c3f4b",
+      "urn": "urn:lex:br:federal:decreto:1998-01-06;2453",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1998-01-06;2453",
+      "sha256": "557fbc219db3c7ec20c26cd3d6b04389132f31f6b5786e7355d085e6a7a4fbdb",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "obais - pdg das empresas estatais federais para o exercicio de 1998, conforme demonstrativos por empresa constantes dos anexos a este decreto.\nart. 2º as empresas a que se refere o artigo anterior deverao observar, na execucao dos seus investimentos, o limite g",
+        "fecho": "brasilia, 06 de janeiro de 1998; 177º da independencia e 110º da republica.",
+        "apos_fecho": [
+          "fernando henrique cardoso",
+          "antonio kandir"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1997/dec-2255-1997-06-16.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_002_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1997/dec-2255-1997-06-16.html.gz",
+      "sha256_fonte_html": "77b49da17db766ceb5474a51d7658ab7aedea0772397c5fdc055c68bc295f770",
+      "urn": "urn:lex:br:federal:decreto:1997-06-16;2255",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1997-06-16;2255",
+      "sha256": "b71be0c1a611b804bd641ac1206761c39308e60af5ee3e7448a45ffd0ee4f97a",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "º ficam concedidas, na forma dos arts. 10 e 11 da lei nº 9.140, de 4 de dezembro de 1995, as indenizacoes constantes do anexo a este decreto, aos beneficiarios nele relacionados.\nart. 2º este decreto entra em vigor na data de sua publicacao.",
+        "fecho": "brasilia, 16 de junho de 1997; 176º da independencia e 109º da republica.",
+        "apos_fecho": [
+          "fernando henrique cardoso",
+          "iris rezende"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1997/dec-2145-1997-02-14.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_002_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1997/dec-2145-1997-02-14.html.gz",
+      "sha256_fonte_html": "1d07d2db3bcca8cf0d613e423403e47463e0fc1c5ba96d373ba01a3d2d75bf18",
+      "urn": "urn:lex:br:federal:decreto:1997-02-14;2145",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1997-02-14;2145",
+      "sha256": "7847f26413a9bce2725f1ee41d299ddf942f81d114e35c391f648830decb36cf",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "tribuicoes que lhe confere o art. 84, incisos iv e vi, da constituicao,\ndecreta:\nart. 1º ficam remanejados, na forma do anexo a este decreto, da fundacao de assistencia ao estudante - fae para o ministerio da administracao federal e reforma do estado, oriundos",
+        "fecho": "brasilia, 14 de fevereiro de 1997; 176º da independencia e 109º da republica.",
+        "apos_fecho": [
+          "marco antonio de oliveira maciel",
+          "luciano oliva patricio",
+          "luis carlos bresser pereira"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1996/dec-1922-1996-06-05.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_002_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1996/dec-1922-1996-06-05.html.gz",
+      "sha256_fonte_html": "84e3ca864f5d86513e3e309727e68fe377aca84e5f265b8333cd31bc346bb4d5",
+      "urn": "urn:lex:br:federal:decreto:1996-06-05;1922",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1996-06-05;1922",
+      "sha256": "a5bb825854162e67379a1d6173cfeb3d2344cac7a8c3fc15b51cc85cfe9a69ff",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "licitar ao proprietario providencias no sentido de firmar, em duas vias, o termo de compromisso, de acordo com o modelo anexo a este decreto;\niii - homologar o pedido por meio da autoridade competente;\niv - publicar no diario oficial ato de reconhecimento da a",
+        "fecho": "brasilia, 5 de junho de 1996; 175° da independencia e 108° da republica.",
+        "apos_fecho": [
+          "fernando henrique cardoso",
+          "gustavo krause"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1996/dec-1848-1996-03-29.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_002_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1996/dec-1848-1996-03-29.html.gz",
+      "sha256_fonte_html": "86a555b0c96c375cb12455d96cc58378d13fe8d5294588dc83a71248577faf55",
+      "urn": "urn:lex:br:federal:decreto:1996-03-29;1848",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1996-03-29;1848",
+      "sha256": "793ddce9063c61cee789c0383be444866e021ce9f118cfdab3f461d3948c2efe",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "a de excecao a tarifa externa comum - tec e respectivas aliquotas do imposto de importacao passam a vigorar na forma do anexo ao presente decreto.\nart. 2º este decreto entra em vigor na data de sua publicacao.",
+        "fecho": "brasilia, 29 de marco e 1996; 175º da independencia e 108º da republica.",
+        "apos_fecho": [
+          "fernando henrique cardoso",
+          "pedro malan",
+          "dorothea werneck"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1996/dec-1834-1996-03-07.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_002_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1996/dec-1834-1996-03-07.html.gz",
+      "sha256_fonte_html": "64b6e15d9a46d339a78bf0173c043101e0d53699305c0c7acc44bdbb2fb122a7",
+      "urn": "urn:lex:br:federal:decreto:1996-03-07;1834",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1996-03-07;1834",
+      "sha256": "ecae5673ba75285b839beea1414ee5b8ffd219cc260c0c2ca36a2adfab3667cf",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "es gratificadas, oriundos de orgaos extintos da administracao federal direta, autarquica e fundacional, conforme quadro anexo a este decreto.\nart. 2° este decreto entra em vigor na data de sua publicacao.",
+        "fecho": "brasilia, 7 de marco de 1996; 175° da independencia e 108° da republica.",
+        "apos_fecho": [
+          "fernando henrique cardoso",
+          "luiz carlos bresser pereira"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1995/dec-1759-1995-12-26.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_002_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1995/dec-1759-1995-12-26.html.gz",
+      "sha256_fonte_html": "d15283959368c73b8e8c63bc6f926dc152105f8a23e9baeba3a868870e232030",
+      "urn": "urn:lex:br:federal:decreto:1995-12-26;1759",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1995-12-26;1759",
+      "sha256": "d6cd95649d5a18a15aa37ad3199281b8ab1593ca06d9515791da5b9f874829ee",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": " da constituicao,\ndecreta:\nart. 1º fica aprovado o regulamento do comando de defesa aeroespacial brasileiro (comdabra), que com este baixa, assinado pelo ministro de estado da aeronautica.\nart. 2º fica o ministro de estado da aeronautica autorizado a aprovar",
+        "fecho": "brasilia, 26 de dezembro de 1995; 174º da independencia e 107º da republica.",
+        "apos_fecho": [
+          "fernando henrique cardoso",
+          "mauro cesar rodrigues pereira",
+          "zenildo de lucena",
+          "lelio viana lobo",
+          "benedito onofre bezerra leonel"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1994/dec-1343-1994-12-23.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_002_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1994/dec-1343-1994-12-23.html.gz",
+      "sha256_fonte_html": "c0aef3c1b240b095fb29fe5ece3e3150bbf7ac8366b7d197304eaa9300ad3249",
+      "urn": "urn:lex:br:federal:decreto:1994-12-23;1343",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1994-12-23;1343",
+      "sha256": "b2dc66b21b271c0b6cfafe8f2868f05800dafc98b335711eb1698a648f36b339",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "istema harmonizado, a qual passara a ser designada tarefa externa comum (tec), respectiva lista de excecao, conforme os anexos a este decreto.\nart. 2º as preferencias tarifarias, em vigor outorgadas pelo brasil, permanecerao validas, nos termos da legislacao pe",
+        "fecho": "brasilia, 23 de dezembro de 1994; 173º da independencia e 106º da republica.",
+        "apos_fecho": [
+          "itamar franco",
+          "ciro ferreira gomes"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1993/dec-769-1993-03-10.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_002_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1993/dec-769-1993-03-10.html.gz",
+      "sha256_fonte_html": "680c486a31106fdabb37a43ec38df3eb599b2b5d179cb85d75417088000ce2ed",
+      "urn": "urn:lex:br:federal:decreto:1993-03-10;769",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1993-03-10;769",
+      "sha256": "0ba6c9592946984a2c6d40bc7af36a99ca9acb2acfd3f37f57f9675cbe3ca14b",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "os arts. 1° e 2°, os cargos do grupo-direcao e assessoramento superiores (das) e funcoes gratificadas (fg), na forma do anexo a este decreto.\nart. 4° o ministerio da agricultura, do abastecimento e da reforma agraria submetera a secretaria da administracao fed",
+        "fecho": "brasilia, 10 de marco de 1993; 172° da independencia e 105° da republica.",
+        "apos_fecho": [
+          "itamar franco",
+          "lazaro ferreira barboza",
+          "luiza erundina de sousa",
+          ">>anexos>>",
+          "tabelas"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1992/dec-668-1992-10-16.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_002_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1992/dec-668-1992-10-16.html.gz",
+      "sha256_fonte_html": "f22d82fde47e7736050d25be810dba2777dac768c70a5956ad9e5e4bdb877307",
+      "urn": "urn:lex:br:federal:decreto:1992-10-16;668",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1992-10-16;668",
+      "sha256": "a9e4f45e0edec711d486a337c66d501692726f19e862fe518f01312ae754a416",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "r documento idoneo.\nart. 9° os orgaos centrais de administracao penitenciaria preencherao quadro de acordo com o modelo anexo a este decreto, encaminhando-o, ate 31 de marco de 1993, ao departamento de assuntos penitenciarios da secretaria nacional dos direito",
+        "fecho": "brasilia, 16 de outubro de 1992; 171° da independencia e 104° da republica.",
+        "apos_fecho": [
+          "itamar franco",
+          "mauricio correa"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1992/dec-625-1992-08-04.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_002_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1992/dec-625-1992-08-04.html.gz",
+      "sha256_fonte_html": "628e53ff393374659ef2d365386f778ba8dcf7c78499a2b9a84f75934c0fdcd8",
+      "urn": "urn:lex:br:federal:decreto:1992-08-04;625",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1992-08-04;625",
+      "sha256": "e3ebfafe630b0ebd70df9dd93df6b8ec80403d43ac0e0f17728381a1c8cf7c77",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": " de 10 de abril de 1987, em decorrencia do decreto-lei n° 2.382, de 9 de dezembro de 1987, sao distribuidas na forma do anexo a este decreto.\nart. 2° os servidores investidos nas funcoes de que trata este decreto perceberao a retribuicao fixada no anexo ix da ",
+        "fecho": "brasilia, 04 de agosto de 1992; 171° da independencia e 104º da republica.",
+        "apos_fecho": [
+          "fernando collor",
+          "socrates da costa monteiro"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1992/dec-610-1992-07-21.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_002_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1992/dec-610-1992-07-21.html.gz",
+      "sha256_fonte_html": "8ad4aaa55d60456468317871f195cf13b2b7928c272dfc6e808538268db64f27",
+      "urn": "urn:lex:br:federal:decreto:1992-07-21;610",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1992-07-21;610",
+      "sha256": "5753f909675cde63da98ad082064f57d8f0a42d46443e579e5ac153a8f47746e",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "1992, ficam desdobrados e ajustados aos ministerios da previdencia social e do trabalho e da administracao, na forma do anexo a este decreto.\nparagrafo unico. para efeito de movimentacao e empenho das dotacoes orcamentarias apropriadas aos ministerios de que t",
+        "fecho": "brasilia, 21 de julho de 1992; 171º da independencia e 104º da republica.",
+        "apos_fecho": [
+          "fernando collor",
+          "marcilio marques moreira"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1992/dec-588-1992-06-30.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_002_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1992/dec-588-1992-06-30.html.gz",
+      "sha256_fonte_html": "7db06ac237ab1fafb3bad470a93fd086d58e9954f4d35790a7f6bb2e2e864a76",
+      "urn": "urn:lex:br:federal:decreto:1992-06-30;588",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1992-06-30;588",
+      "sha256": "e7db884c11c109296cb739ee05d0b217194d4edbee50d5eebe418da0aa218afc",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "bem como dos projetos relacionados na programacao destacada, cujos valores nao poderao ser inferiores aos constantes do anexo a este decreto.\n§ 1° o departamento de assuntos internacionais do ministerio da economia, fazenda e planejamento, estabelecera, por pr",
+        "fecho": "brasilia, 30 de junho de 1992; 171° da independencia e 104° da republica.",
+        "apos_fecho": [
+          "fernando collor",
+          "marcilio marques moreira"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1992/dec-435-1992-01-27.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_003_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1992/dec-435-1992-01-27.html.gz",
+      "sha256_fonte_html": "d9d0222228f210d6a7095998fdbf33436ff7fe45fa9ffd8e5a5adaf5a10ad4a0",
+      "urn": "urn:lex:br:federal:decreto:1992-01-27;435",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1992-01-27;435",
+      "sha256": "732907c03fa6116eca34117853f128da4483fc5f7421bb00004f91166cd8f13b",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "ao aduaneira, com sede em bruxelas, belgica, na versao luso-brasileira, efetuada pelo grupo binacional brasil/portugal, anexas a este decreto.\nparagrafo unico. as notas explicativas do sistema harmonizado constituem elemento subsidiario de carater fundamental p",
+        "fecho": "brasilia, 27 de janeiro de 1992; 171° da independencia e 104° da republica.",
+        "apos_fecho": [
+          "(\\) – n. da dijof: este decreto e seus anexos encontram-se publicados em suplemento a presente edicao. preco do exemplar: cr$ 5.000,00",
+          "fernando collor",
+          "marcilio marques moreira"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1991/dec-223-1991-09-25.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_003_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1991/dec-223-1991-09-25.html.gz",
+      "sha256_fonte_html": "a1362da399e59807145c0775f109bb1bdfac26af354b2ffc5aa1d9df2d7eb1f4",
+      "urn": "urn:lex:br:federal:decreto:1991-09-25;223",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1991-09-25;223",
+      "sha256": "bd3df09d97d4601c991d2cc536c251becd695a23b603375b3d1c748da38d3622",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": " e de servicos gerais - sisg.\nart. 3° e alterado o anexo ii ao decreto n° 99.606, de 13 de outubro de 1990, na forma do anexo a este decreto.\nart. 4.° este decreto entra em vigor na data de sua publicacao.",
+        "fecho": "brasilia, 25 de setembro de 1991; 170° da independencia e 103.° da republica.",
+        "apos_fecho": [
+          "fernando collor",
+          "jarbas passarinho"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1990/dec-99855-1990-12-20.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_003_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1990/dec-99855-1990-12-20.html.gz",
+      "sha256_fonte_html": "d8cc2e6800e989343b2dffdf67f2d4996005826a467d02b7139c867050fcbe0d",
+      "urn": "urn:lex:br:federal:decreto:1990-12-20;99855",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1990-12-20;99855",
+      "sha256": "554ce09f03c95821fb3b379ea533913d3571d3944966ac31049846971e286a57",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "ta:\nart. 1° fica aprovado o plano geral de convocacao para o servico militar inicial nas forcas armadas no ano de 1992, que com este baixa.\nart. 2° este decreto entra em vigor na data de sua publicacao, revogadas as disposicoes em contrario.",
+        "fecho": "brasilia, 20 de dezembro de 1990; 169° da independencia e 102° da republica.",
+        "apos_fecho": [
+          "fernando collor",
+          "mario cesar flores",
+          "carlos tinoco ribeiro gomes",
+          "socrates da costa monteiro"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1989/dec-98323-1989-10-24.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_004_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1989/dec-98323-1989-10-24.html.gz",
+      "sha256_fonte_html": "e64c73995a574bd3f3cb620633bade795e95389b5bba8097560a6655c7077bcd",
+      "urn": "urn:lex:br:federal:decreto:1989-10-24;98323",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1989-10-24;98323",
+      "sha256": "4c078ed2f82fb7208a5fb33cb6c4edd00ccfb0b66f89b7d0d8897b0596b8c274",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "periodos de correcao pela variacao do bonus do tesouro nacional - btn e inicio de vigencia, sao os constantes da tabela anexa a este decreto.\nart. 2º os precos minimos serao assegurados aos produtores ou as suas cooperativas, livres da incidencia do imposto so",
+        "fecho": "brasilia, 24 de outubro de 1989; 168º da independencia e 101º da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "iris rezende machado"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1988/dec-95744-1988-02-23.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_005_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1988/dec-95744-1988-02-23.html.gz",
+      "sha256_fonte_html": "cc2e1c077f292acacf17ec2f06712c77cce22d333492cfa6c5b4849274322233",
+      "urn": "urn:lex:br:federal:decreto:1988-02-23;95744",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1988-02-23;95744",
+      "sha256": "2503478b78ee34e568ae58a6b0eafd56f035bc9f33d4d73a20f3e6835d121e66",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "27 de agosto de 1962,\ndecreta:\nart. 1° fica aprovado o regulamento do servico especial de televisao por assinatura-tva, que com este baixa.\nart. 2° este decreto entra em vigor na data de sua publicacao, revogadas as disposicoes em contrario.",
+        "fecho": "brasilia, 23 de fevereiro de 1988; 167° da independencia e 100° da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "antonio carlos magalhaes"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1988/dec-95732-1988-02-12.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_005_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1988/dec-95732-1988-02-12.html.gz",
+      "sha256_fonte_html": "c842fc5d985f015f03f36b9cd1d25a2049073da685d307072400b0310467e45e",
+      "urn": "urn:lex:br:federal:decreto:1988-02-12;95732",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1988-02-12;95732",
+      "sha256": "ee690dea697fe3a544cd73351e61483d16302caccae3c5d54fcb3d9e24fc542a",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "da lei n° 785, de 20 de agosto de 1949,\ndecreta:\nart. 1° fica aprovado o regulamento da escola superior de guerra (esg) que com este baixa, assinado pelo ministro de estado chefe do estado-maior das forcas armadas.\nart. 2° este decreto entra em vigor na data",
+        "fecho": "brasilia, 12 de fevereiro de 1988; 167° da independencia e 100° da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "paulo roberto coutinho camarinha"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1987/dec-95173-1987-11-10.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_005_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1987/dec-95173-1987-11-10.html.gz",
+      "sha256_fonte_html": "9c0beea627c5712185212e32779c2c09042bfdc30e5c5631f36b80e74fff82bc",
+      "urn": "urn:lex:br:federal:decreto:1987-11-10;95173",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1987-11-10;95173",
+      "sha256": "dbd6226b09d4a9d148b46ec08862439a97b8aa5c15a7470646f2fe0819d81279",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "ta:\nart. 1° fica aprovado o plano geral de convocacao para o servico militar inicial nas forcas armadas no ano de 1989, que com este baixa.\nart. 2° este decreto entra em vigor na data de sua publicacao, revogadas as disposicoes em contrario.",
+        "fecho": "brasilia, 10 de novembro de 1987; 166° da independencia e 99° da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "henrique saboia",
+          "leonidas pires goncalves",
+          "octavio julio moreira lima",
+          "paulo roberto coutinho camarinha"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1987/dec-94991-1987-09-30.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_005_v2.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1987/dec-94991-1987-09-30.html.gz",
+      "sha256_fonte_html": "59d816b54310669c8e587fa41033e9f9966d06c5d0352c1bbbb805ed3e3f6774",
+      "urn": "urn:lex:br:federal:decreto:1987-09-30;94991",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1987-09-30;94991",
+      "sha256": "3b61f4205e5c7919c374b077a8b884727773e3a026c3976a37052ffa1d9f251d",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "ii e v, da constituicao,\ndecreta:\nart. 1º fica aprovado o programa de acao governamental para o periodo de 1987 a 1991, que com este baixa, cuja coordenacao cabe a secretaria de planejamento e coordenacao da presidencia da republica.\nart. 2º a secretaria de ",
+        "fecho": "brasilia, 30 de setembro de 1987; 166º da independencia e 99º da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "anibal teixeira de souza"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1987/dec-94268-1987-04-23.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_006.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1987/dec-94268-1987-04-23.html.gz",
+      "sha256_fonte_html": "1c133f7af2b2c5993db7b759af224cb9a0cb4874e092afc8885d3d7d4d2ead06",
+      "urn": "urn:lex:br:federal:decreto:1987-04-23;94268",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1987-04-23;94268",
+      "sha256": "f54d2738d6422723c3fc6ad31b193e2bff3a2d8ccd1a0ad3c54adef0b0c06573",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "e em conformidade com o disposto no artigo 62, § 4º, ambos da constituicao,\ndecreta:\nart. 1º fica reaberto, sob a forma anexa a este decreto, ao ministerio da educacao, em favor da secretaria-geral, pelo saldo apurado em 31 de dezembro de 1986, o credito espec",
+        "fecho": "brasilia, 23 de abril de 1987; 166º da independencia e 99º da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "dilson domingos funaro",
+          "anibal teixeira de souza"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1986/dec-93327-1986-10-02.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_006.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1986/dec-93327-1986-10-02.html.gz",
+      "sha256_fonte_html": "1a15ac90996f2e4cee0e6d1cf2f8ed280b7a4cbb868c761e6dbd547f0e095bcb",
+      "urn": "urn:lex:br:federal:decreto:1986-10-02;93327",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1986-10-02;93327",
+      "sha256": "b1579efeaa989a8f515624c4843530b7072fdcc44ce967697578a9101de8fe05",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": " para composicao do grupo-direcao e assessoramento superiores, codigo lt-das-100, de sua tabela permanente, na forma do anexo a este decreto.\nart. 2º as atribuicoes das funcoes de assessor e assistente de que trata este decreto, sao as definidas no regimento i",
+        "fecho": "brasilia, 2 de outubro de 1986; 165º da independencia e 98º da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "aluizio alves"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1986/dec-92608-1986-04-30.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_006.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1986/dec-92608-1986-04-30.html.gz",
+      "sha256_fonte_html": "b44cd4ab53974038dfa82c66fdfe644384e8a40091afc4e8d0d4b18205469f5c",
+      "urn": "urn:lex:br:federal:decreto:1986-04-30;92608",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1986-04-30;92608",
+      "sha256": "04a244ff38ff7082b790b5ab4e45af32d194a4e78a4a1be5b3dffaa59e1b1016",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "ecera ao trabalhador o requerimento de seguro-desemprego - sd, com a comunicacao de dispensa - cd, na forma dos modelos anexos a este decreto.\nart. 10. o trabalhador encaminhara, apos o 60º (sexagesimo) dia de desemprego, o requerimento de seguro-desemprego - s",
+        "fecho": "brasilia, 30 de abril de 1986; 165º da independencia e 98º da republica.",
+        "apos_fecho": [
+          "jose sarney",
+          "almir pazzianoto pinto"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1985/dec-91106-1985-03-12.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_007.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1985/dec-91106-1985-03-12.html.gz",
+      "sha256_fonte_html": "ecd062936aa9ea7a1abf1408c21e5c81563362e94d97d89ff6384f9bb1f3b181",
+      "urn": "urn:lex:br:federal:decreto:1985-03-12;91106",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1985-03-12;91106",
+      "sha256": "9f446f75f1f2cb95ca80a1edd93527ec13aae207aec9ab27205bdaf97d690a37",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": " vigente.\nparagrafo unico. na hipotese de aquisicao ou financiamento antes do ultimo mes de correcao previsto na tabela anexa a este decreto, valera como preco minimo, para efeito do disposto neste artigo, o preco-base corrigido ate o mes em que ocorrer a oper",
+        "fecho": "brasilia, 12 de marco de 1985; 164º da independencia e 97º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "nestor jost"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1983/dec-89250-1983-12-27.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_008.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1983/dec-89250-1983-12-27.html.gz",
+      "sha256_fonte_html": "eeca0a37c96b278cc2578fc990a9aee62a616f6973c93e476a38e3fd831dfe74",
+      "urn": "urn:lex:br:federal:decreto:1983-12-27;89250",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1983-12-27;89250",
+      "sha256": "8b3733ffbbdee226e2e95b02c2fc75b1a596697a036ad1d1fd9cd77a3b70ba3d",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "ia federal e encaminhada ao orgao expedidor para cancelamento.\nart. 13 fica aprovado o modelo de carteira de identidade anexo a este decreto.\nart. 14 a partir de 1º de maio de 1984, nenhum orgao de identificacao podera utilizar-se de modelo de carteira de iden",
+        "fecho": "brasilia, em 27 de dezembro de 1983; 162º da independencia e 95º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "ibrahim abi-ackel"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1983/dec-88268-1983-04-30.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_009.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1983/dec-88268-1983-04-30.html.gz",
+      "sha256_fonte_html": "2c9c3f64149652f83ebe71e1b6047b0d283d4a44dd4b00ae28083a9612994bc5",
+      "urn": "urn:lex:br:federal:decreto:1983-04-30;88268",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1983-04-30;88268",
+      "sha256": "29d8a98f93a44a5b61871164a17bec4720f848e69df00768622c89fbd5dcde7b",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "o. os valores de referencia, a serem adotados em cada regiao, ja atualizados na forma de caput deste artigo, constam do anexo ao presente decreto.\nart. 2º o coeficiente fixado no artigo 1º deste decreto aplica-se, inclusive as penas pecuniarias previstas em lei e a",
+        "fecho": "brasilia, 30 de abril de 1983; 162º da independencia e 95º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "ernane galveas",
+          "jose flavio pecora"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1981/dec-86012-1981-05-19.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_010.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1981/dec-86012-1981-05-19.html.gz",
+      "sha256_fonte_html": "5aff7ed24fae5fa7b65f64b5d493a947e34ddd46da223f826f21447cba2f23fc",
+      "urn": "urn:lex:br:federal:decreto:1981-05-19;86012",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1981-05-19;86012",
+      "sha256": "40bd0b76b870a0e0beda9d35bda700b989f1895005e1188d7a2fdb6dc79096e1",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "parcial.\ndecreta:\nart. 1º - no periodo de 1º de janeiro a 16 de maio de 1981, as importacoes do produto especificado no anexo a este decreto, originarias da colombia, ficam sujeitas aos gravames e as restricoes nao-tarifarias estipuladas naquele anexo, obedeci",
+        "fecho": "brasilia, em 19 de maio de 1981; 160º da independencia e 93º da republica.",
+        "apos_fecho": [
+          "aureliano chaves",
+          "joao clemente baena soares"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1981/dec-85840-1981-03-25.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_010.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1981/dec-85840-1981-03-25.html.gz",
+      "sha256_fonte_html": "7dfb5d89c83b3a26e8a4f138ba57fcc2ad91144ac210e7fceb72999251403232",
+      "urn": "urn:lex:br:federal:decreto:1981-03-25;85840",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1981-03-25;85840",
+      "sha256": "e49e8885756f54745a08a6032a2b8518c46177c21b12af6165a3966bbb1938b7",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": ".806, de 10 de junho de 1976.\nart. 3º aplicam-se os novos valores a que se refere o artigo 1º e os constantes da tabela anexa a este decreto as indenizacoes de representacao relativas as funcoes do gabinete militar.\nart. 4º a despesa decorrente da execucao des",
+        "fecho": "brasilia, 25 de marco de 1981; 160º da independencia e 93º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "danilo venturini",
+          "golbery do couto e silva"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1981/dec-85821-1981-03-17.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_010.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1981/dec-85821-1981-03-17.html.gz",
+      "sha256_fonte_html": "613eed9843ea6e9b4f3a9c6e32aaf2e6546b373a61df27484c30a307b6537811",
+      "urn": "urn:lex:br:federal:decreto:1981-03-17;85821",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1981-03-17;85821",
+      "sha256": "2665bd82e7761aaa7a4270756e086079ee07a6403a044a288a21b78dc47588e3",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "em conformidade com o disposto no artigo 62, § 4º, ambos da constituicao,\ndecreta:\nart. 1º - fica reaberto, sob a forma anexa a este decreto, a presidencia da republica, em favor do departamento administrativo do servico publico, pelo saldo apurado em 31 de de",
+        "fecho": "brasilia, em 17 de marco de 1981; 160º da independencia e 93º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "ernane galveas",
+          "delfim netto"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1981/dec-85662-1981-01-22.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_010.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1981/dec-85662-1981-01-22.html.gz",
+      "sha256_fonte_html": "c2f18ae014a0f539865de58e60b0c6c3580f166ee0046c0fe112185f016c6ffb",
+      "urn": "urn:lex:br:federal:decreto:1981-01-22;85662",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1981-01-22;85662",
+      "sha256": "c3f9b1e798badde820d8e6a7fea95dd1a2d06703e7851ef2b02254b0ef75653d",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "icao, e tendo em vista o disposto no § 4º, do artigo 62, da constituicao,\ndecreta:\nart. 1º - fica reaberto, sob a forma anexa a este decreto, ao ministerio da relacoes exteriores, pelo saldo apurado em 31 de dezembro de 1980, no valor de cr$ 664.000.000,00 (se",
+        "fecho": "brasilia, em 22 de janeiro de 1981; 160º da independencia e 93º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "ernane galveas",
+          "delfim netto"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1980/dec-85148-1980-09-15.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_010.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1980/dec-85148-1980-09-15.html.gz",
+      "sha256_fonte_html": "9559caae680b246545e18d581aff4fdf3b5ebf09f6b76747ec46eec17be34358",
+      "urn": "urn:lex:br:federal:decreto:1980-09-15;85148",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1980-09-15;85148",
+      "sha256": "30a7984c34f31092ca0f845359da655ae9156070f66ffcbf0ff9cf5bb0cf39aa",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "................................................................................\"\nart. 2º - ficam alteradas na forma do anexo a este decreto as tabelas que constituem o anexo iii do decreto nº 71.733, de 18 de janeiro de 1973.\nart. 3º - este decreto entrara em",
+        "fecho": "brasilia, 15 de setembro de 1980; 159º da independencia e 92º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "jose flavio pecora"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1980/dec-84747-1980-05-28.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_010.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1980/dec-84747-1980-05-28.html.gz",
+      "sha256_fonte_html": "85793719b79db3136fa0886f1befe5a12182872cfd40b144b5e283079a8b9349",
+      "urn": "urn:lex:br:federal:decreto:1980-05-28;84747",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1980-05-28;84747",
+      "sha256": "8137d5426699952c9281c3775e8687a65173e1acde62ab960c63fa526d07721b",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": "o-extensivas outorgada aquele pais,\ndecreta:\nart. 1º - ate 31 de dezembro de 1980, a importacao do produto constante do anexo a este decreto e originario da bolivia estara sujeita aos gravames e as condicoes nele indicados, passando o mencionado produto a faze",
+        "fecho": "brasilia, em 28 de maio de 1980; 159º da independencia e 92º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "joao clemente baena soares"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1979/dec-84216-1979-11-14.md",
+      "manifesto": "federal/_lote_dec_cache_20261020_011.json",
+      "fonte_html_cache": "federal/_fonte/decretos/1979/dec-84216-1979-11-14.html.gz",
+      "sha256_fonte_html": "9d1b41f38a2f42d57e821f32e2392c7405f8b1d2357ebc8075e90903170f857c",
+      "urn": "urn:lex:br:federal:decreto:1979-11-14;84216",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1979-11-14;84216",
+      "sha256": "ca8e93e9bdb8f068c06e285f119237b3516de038336444835202e14e0a101ac8",
+      "evidencia": {
+        "motivo": "Suplemento próprio baixado pelo decreto ausente do HTML: somente fecho, assinaturas e eventual nota de publicação; sem tabela, conteúdo visual ou link.",
+        "remissao": ":\nart. 1º - fica aprovado o plano geral de convocacao para o servico militar inicial nas forcas armadas no ano de 1981, que com este baixa, assinado pelo general-de-exercito samuel augusto alves correa, ministro chefe do estado-maior das forcas armadas.\nart.",
+        "fecho": "brasilia, 14 de novembro de 1979; 158º da independencia e 91º da republica.",
+        "apos_fecho": [
+          "joao figueiredo",
+          "samuel augusto alves correa"
+        ]
+      },
+      "fontes_alternativas": [
+        {
+          "fonte": "Planalto/Câmara e edição DOU/CLBR original",
+          "status": "Recuperação complementar pendente; URL específica ainda não validada"
+        }
+      ]
+    }
+  ],
+  "visuais": [],
+  "erros": [],
+  "acao": "Excluir os42 paths únicos dos overlays001+002 da cobertura apta até recuperar suplementos. Preservar norma histórica e fonte original.",
+  "limite": "Gate conservador não prova que todas as possíveis remissões a anexos foram resolvidas; fontes oficiais podem omitir suplementos mesmo com o texto principal completo."
+}

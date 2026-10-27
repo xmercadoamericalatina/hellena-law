@@ -1,0 +1,34 @@
+{
+  "escopo": "Última lacuna aparente do índiceRRC/RCN recuperada com publicação originalSigen. Índice89atos e meta95permanecem como estavam; não certifica cobertura apenas por contagem nem vigência atual.",
+  "publicaveis": [
+    {
+      "path": "federal/resolucoes-congresso/1994/rrc-1-1994-02-24.md",
+      "urn": "urn:lex:br:congresso.nacional:resolucao:1994-02-24;1",
+      "sha256": "d7e0749bdc8ba66b42df15cb70bdbcadfb7f293763eb12189d08d2536d1132c3",
+      "fonte": "https://legis.senado.leg.br/norma/589230/publicacao/15648777",
+      "id_senado": "589230",
+      "id_publicacao": "15648777",
+      "sha256_fonte_html": "f95b156559c859de17151d0267020ca0a7fedc9d2f0e303d68abbb174a952dd1",
+      "sha256_area_normativa": "f5e48391626c2f9b5d87eae9050f844d523ded1f2525f729908b6e6b408ab38b",
+      "origem": "Nova captura oficial de publicação Sigen, alternativa legítima ao API semencoding; nenhuma norma anterior sobrescrita.",
+      "preexistente_md": false,
+      "checks": [
+        "Número01/ano1994RCF e tipo correspondem ao registro589230",
+        "Dois artigos próprios e promulgaçãoSenado24/2/1994",
+        "Texto visível e estrutura iguais à fonte",
+        "Sem visuais ou anexos próprios omitidos",
+        "URN ausente antes da gravação; sérieRRC distinta deRCN"
+      ],
+      "observacao_ementa": "Índice/cadastro resumido informa art.37; ementa própria e artigo1º do texto integral informam art.34, mantidos conforme publicação original."
+    }
+  ],
+  "resumo": {
+    "candidatos": 1,
+    "publicaveis": 1,
+    "retidos": 0
+  },
+  "receipts": {
+    "path": "federal/_receipts_rrc_series_curtas_20261020_001.jsonl.gz",
+    "sha256": "a037fb2fe5592863795a5b9866a1a3f2cfdc5a9bc56190d231eb5c7c508adf8f"
+  }
+}

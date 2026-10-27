@@ -1,0 +1,122 @@
+{
+  "escopo": "Overlay posterior aos lotes congelados 005 e 006, sem alterar MD, fontes ou listas anteriores.",
+  "retidos": [
+    {
+      "path": "federal/decretos/1958/dec-43925-1958-06-20.md",
+      "urn": "urn:lex:br:federal:decreto:1958-06-20;43925",
+      "sha256_md": "74fc2a0b8aab94d9c51c883b5b6aef7f8ba2c8c25305c5dc4d489e4ddc5c8a40",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1958-06-20;43925",
+      "sha256_fonte_html": "18059e479c915fe0b953ae367eb385bd3f228b2a1af0930be956194c1a399e50",
+      "status": "Retido fora do pacote final filtrado; arquivo e manifesto anteriores preservados.",
+      "motivo": "Datas oficiais incompatíveis: epígrafe em 20/06/1958, fecho em 20/07/1958 e cabeçalho da retificação em 26/06/1958, com referência à publicação em 10/07/1958. Exige alternativa oficial ou divergência declarada e revista.",
+      "epigrafes_e_fechos_encontrados": [
+        "DECRETO Nº 43.925, DE 20 DE JUNHO DE 1958. Fixa normas de publicação de atos relativos a pessoal, assim como de preench",
+        "Decreto nº 43.716, de 19 de maio de 1958. Art. 3º Concedida a autorização será o processo encaminhado ao Departamento A",
+        "Rio de Janeiro, em 20 de julho de 1958; 137º da Independência e 70º da República",
+        "DECRETO Nº 43.925, DE 26 DE JUNHO DE 1958. Fixa normas de publicação de atos relativos a pessoal, assim como de preench"
+      ],
+      "marcadores": [
+        "###DEC-043925-0-000-20-06-1958@@@",
+        "###DEC-043925-0-000-26-06-1958@@@RET01+++"
+      ],
+      "diferencas_replay": [
+        {
+          "operacao": "delete",
+          "fonte": "###DEC-043925-0-000-20-06-1958@@@ ",
+          "md": "",
+          "contexto_fonte": "###DEC-043925-0-000-20-06-1958@@@ DECRETO Nº 43.925, DE 20 DE JUNHO DE 1958. Fixa normas de pu",
+          "contexto_md": "DECRETO Nº 43.925, DE 20 DE JUNHO DE 1958. Fixa normas de pu"
+        },
+        {
+          "operacao": "delete",
+          "fonte": "###DEC-043925-0-000-26-06-1958@@@",
+          "md": "",
+          "contexto_fonte": "ado Parsifal Barroso Francisco de Melo Mauricio de Medeiros ###DEC-043925-0-000-26-06-1958@@@RET01+++ DECRETO Nº 43.925, DE 26 DE JUNHO DE 1958. Fixa nor",
+          "contexto_md": "ado Parsifal Barroso Francisco de Melo Mauricio de Medeiros RET01+++ DECRETO Nº 43.925, DE 26 DE JUNHO DE 1958. Fixa nor"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1958/dec-43276-1958-02-25.md",
+      "urn": "urn:lex:br:federal:decreto:1958-02-25;43276",
+      "sha256_md": "9ba7769549412df73642d709430d9f3118abe514376f2f724dc14724bbdff346",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1958-02-25;43276",
+      "sha256_fonte_html": "981051acac3ac96a22acae42d2a0d6bc6d41ce196d5cd2d72afda33b46273d25",
+      "status": "Retido fora do pacote final filtrado; arquivo e manifesto anteriores preservados.",
+      "motivo": "Código administrativo inicial indica 24/02/1958, enquanto epígrafe e fecho próprios indicam 25/02/1958. Corpo normativo concordante; exceção de normalização administrativa retida para revisão explícita.",
+      "epigrafes_e_fechos_encontrados": [
+        "DECRETO N. 43.276 – DE 25 DE FEVEREIRO DE 1958 Altera a lotação de repartições do Ministério do Trabalho, Indústria e C",
+        "Rio de Janeiro, em 25 de fevereiro de 1958, 137º da Independência e 70º da República"
+      ],
+      "marcadores": [
+        "###DEC-043276-0-000-24-02-1958@@@"
+      ],
+      "diferencas_replay": [
+        {
+          "operacao": "delete",
+          "fonte": "###DEC-043276-0-000-24-02-1958@@@ ",
+          "md": "",
+          "contexto_fonte": "###DEC-043276-0-000-24-02-1958@@@ DECRETO N. 43.276 – DE 25 DE FEVEREIRO DE 1958 Altera a lota",
+          "contexto_md": "DECRETO N. 43.276 – DE 25 DE FEVEREIRO DE 1958 Altera a lota"
+        }
+      ]
+    },
+    {
+      "path": "federal/decretos/1957/dec-42709-1957-11-29.md",
+      "urn": "urn:lex:br:federal:decreto:1957-11-29;42709",
+      "sha256_md": "e078b236c5acea67306133abc671700c34338929763eb83073712eee40a5df3e",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1957-11-29;42709",
+      "sha256_fonte_html": "7cf3fac26e34e070cb3ba9e1d8f0e2cf438bbd744015519b9293974dec337f69",
+      "status": "Retido fora do pacote final filtrado; arquivo e manifesto anteriores preservados.",
+      "motivo": "Renderização Markdown interpreta crases literais de minutos de rumo como delimitadores de código. Candidato privado com sete escapes está no pacote de reparo.",
+      "epigrafes_e_fechos_encontrados": [
+        "DECRETO N.º42.709, DE 29 DE Novembro DE 1957. Autoriza o cidadão brasileiro Antonio Augusto Stivanin a pesquisar feldsp",
+        "Rio de Janeiro, em 29 de novembro de 1957, 136"
+      ],
+      "marcadores": [
+        "###DEC-042709-0-000-29-11-1957@@@"
+      ],
+      "diferencas_replay": [
+        {
+          "operacao": "delete",
+          "fonte": "`",
+          "md": "",
+          "contexto_fonte": "m metros (81m), quatro graus trinta minutos noroeste (4.º 30` NW), cento e oitenta e dois metros (182 m), sessenta e seis",
+          "contexto_md": "m metros (81m), quatro graus trinta minutos noroeste (4.º 30 NW), cento e oitenta e dois metros (182 m), sessenta e seis"
+        },
+        {
+          "operacao": "delete",
+          "fonte": "`",
+          "md": "",
+          "contexto_fonte": "2 m), sessenta e seis graus trinta minutos noroeste (66.º 30` NW) setenta e seis metros (76 m), oitenta e seis graus trin",
+          "contexto_md": "2 m), sessenta e seis graus trinta minutos noroeste (66.º 30 NW) setenta e seis metros (76 m), oitenta e seis graus trin"
+        },
+        {
+          "operacao": "insert",
+          "fonte": "",
+          "md": ".º 30SW), setenta e nove metros (79 m), trinta um graus e trinta minutos nordeste (31.º 30NE), trezentos e vinte e dois (322m), setenta e nove graus e trinta minutos sudeste (79.º 30SE); cento e vinte e quatro metros (124 m), três graus e trinta minutos (3.º 30SE); cento e vinte e um metros e oitenta centímetros (121.80 m); setenta e três graus trinta minutos sudoeste (73",
+          "contexto_fonte": "ros (76 m), oitenta e seis graus trinta minutos sudoeste (86.º 30`SW), setenta e nove metros (79 m), trinta um graus e t",
+          "contexto_md": "ros (76 m), oitenta e seis graus trinta minutos sudoeste (86.º 30SW), setenta e nove metros (79 m), trinta um graus e trinta minutos nordeste (31.º 30NE), trezentos e vinte e dois (322m), setenta e nove graus e trinta minutos sudeste (79.º 30SE); cento e vinte e quatro metros (124 m), três graus e trinta minutos (3.º 30SE); cento e vinte e um metros e oitenta centímetros (121.80 m); setenta e três graus trinta minutos sudoeste (73.º 30`SW). Art. 2.º O título da autorização de pesquisa, que"
+        },
+        {
+          "operacao": "delete",
+          "fonte": ", setenta e nove metros (79 m), trinta um graus e trinta minutos nordeste (31.º 30`NE), trezentos e vinte e dois (322m), setenta e nove graus e trinta minutos sudeste (79.º 30`SE); cento e vinte e quatro metros (124 m), três graus e trinta minutos (3.º 30`SE); cento e vinte e um metros e oitenta centímetros (121.80 m); setenta e três graus trinta minutos sudoeste (73.º 30`SW)",
+          "md": "",
+          "contexto_fonte": "), oitenta e seis graus trinta minutos sudoeste (86.º 30`SW), setenta e nove metros (79 m), trinta um graus e trinta minutos nordeste (31.º 30`NE), trezentos e vinte e dois (322m), setenta e nove graus e trinta minutos sudeste (79.º 30`SE); cento e vinte e quatro metros (124 m), três graus e trinta minutos (3.º 30`SE); cento e vinte e um metros e oitenta centímetros (121.80 m); setenta e três graus trinta minutos sudoeste (73.º 30`SW). Art. 2.º O título da autorização de pesquisa, que será uma",
+          "contexto_md": "); setenta e três graus trinta minutos sudoeste (73.º 30`SW). Art. 2.º O título da autorização de pesquisa, que será uma"
+        }
+      ]
+    }
+  ],
+  "resumo": {
+    "retidos_lote005": 2,
+    "retidos_lote006": 1,
+    "divergencia_real_renderizacao": 1,
+    "conflito_datas_oficiais": 1,
+    "excecao_administrativa_para_revisao": 1
+  },
+  "auditoria": {
+    "path": "federal/_auditoria_pontuacao_federal_20261020_005_006_v4.json",
+    "sha256": "ab1d741582b8878bb2d606fffce72c84da662a681790415f6a019427ac01be38"
+  }
+}
