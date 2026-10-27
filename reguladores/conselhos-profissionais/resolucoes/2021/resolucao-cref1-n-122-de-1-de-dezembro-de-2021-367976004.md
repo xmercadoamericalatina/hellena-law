@@ -1,0 +1,44 @@
+---
+titulo: "RESOLUÇÃO CREF1 Nº 122, DE 1º DE DEZEMBRO DE 2021"
+orgao: "Entidades de Fiscalização do Exercício das Profissões Liberais/Conselho Regional de Educação Física da 1ª Região"
+tipo: "Resolução"
+numero: "122"
+data: 2021-12-01
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/12/2021, seção 1, p. 184"
+data_publicacao: 2021-12-17
+edicao: "237"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-cref1-n-122-de-1-de-dezembro-de-2021-367976004"
+sha256_html_fonte: cb26cfb72d4ceac7b72d61e9d93d9a8b82ea93532456b375cf671ccd1bc2a7c2
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO CREF1 Nº 122, DE 1º DE DEZEMBRO DE 2021
+
+RESOLUÇÃO CREF1 Nº 122, DE 1º DE DEZEMBRO DE 2021
+
+Dispõe sobre as multas por infrações devidas ao Conselho Regional de Educação Física da 1ª Região.
+
+O PRESIDENTE DO CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA DA 1.ª REGIÃO, usando de suas atribuições estatutárias, e:
+
+CONSIDERANDO o inciso IV do artigo 33 do Estatuto do CONFEF;
+
+CONSIDERANDO a Resolução do CONFEF Resolução 410/2021;
+
+CONSIDERANDO o inciso I do art. 4º da Lei nº 12.514/2011, que autoriza aos Conselhos de Fiscalização das Profissões regulamentadas a cobrar multas por violação da ética, que constituirão receitas próprias de cada Conselho;
+
+CONSIDERANDO a deliberação tomada em Reunião Plenária realizada em 29 de outubro de 2021, resolve:
+
+**Art. 1º** - O valor das multas por infrações a serem aplicadas às Pessoas Físicas e/ou Jurídicas para o ano de 2022 será de até três vezes o valor da anuidade de 2022, estabelecida em Resolução Própria 121/2021.
+
+**Art. 2º** - A relação entre a infração cometida pelas Pessoas Físicas e/ou Pessoa Jurídicas e o valor da multa a ser arbitrada, encontra-se exposta no ANEXO I desta Resolução.
+
+**Art. 3º** - A reincidência na prática de qualquer infração cometida pelas Pessoas Físicas e/ou Pessoas Jurídicas, incidirá no agravamento da penalidade aplicada anteriormente.
+
+**Art. 4º** - Esta Resolução entra em vigor em 01.01.2022.
+
+ROGÉRIO SILVA DE MELO
+
+## ANEXO I — QUADRO DE PENALIDADES DE PROFISSIONAIS DE EDUCAÇÃO FÍSICA
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Descrição da Autuação</p></td>      <td rowspan="1" colspan="1"><p>Grau de Gravidade Máximo a ser Imputado por ocasião do julgamento</p></td>      <td rowspan="1" colspan="1"><p>Legislação Infringida</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Exercício Ilegal da Profissão</p></td>      <td rowspan="1" colspan="1"><p>GRAVISSIMA</p></td>      <td rowspan="1" colspan="1"><p>- Lei nº 9.696/1998; Art. 47 da Lei nº 3.688/1941; Estatuto CREF1; Resolução CONFEF nº 307/2015; Código de Ética dos Profissionais de Educação Física.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Graduado atuando sem registro junto ao CREF1</p></td>      <td rowspan="1" colspan="1"><p>MÉDIA</p></td>      <td rowspan="1" colspan="1"><p>- Lei nº 9.696/1998; Art. 47 da Lei nº 3.688/1941; Estatuto CREF1; Resolução CONFEF nº 307/2015; Código de Ética dos Profissionais de Educação Física.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Profissional atuando fora da sua área de habilitação</p></td>      <td rowspan="1" colspan="1"><p>GRAVE</p></td>      <td rowspan="1" colspan="1"><p>- Lei nº 9.696/1998; Art. 47 da Lei nº 3.688/1941; Resolução CREF1 nº 031/2004; Resolução CONFEF nº 307/2015 - Código de Ética dos Profissionais de Educação Física.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Profissional registrado atuando com os seus direitos suspensos, baixa temporária ou cancelado.</p></td>      <td rowspan="1" colspan="1"><p>GRAVISSIMA</p></td>      <td rowspan="1" colspan="1"><p>- Lei nº 9.696/1998; Art. 205 do Código Penal; Resolução CREF1 nº 059/2008; Resolução CONFEF nº 307/2015 - Código de Ética dos Profissionais de Educação Física.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Profissional com identificação em desacordo com o exercício profissional</p></td>      <td rowspan="1" colspan="1"><p>LEVE</p></td>      <td rowspan="1" colspan="1"><p>- Resolução CREF1 nº 081/2013; Resolução CONFEF nº 307/2015; Código de Ética dos Profissionais de Educação Física.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Profissional atuando com Registro de outra jurisdição acima do prazo permitido</p></td>      <td rowspan="1" colspan="1"><p>LEVE</p></td>      <td rowspan="1" colspan="1"><p>- Resolução CONFEF nº 076/2004; Resolução CONFEF nº 307/2015 - Código de Ética dos Profissionais de Educação Física.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Profissional de Educação Física em inadimplência das suas obrigações estatutárias.</p></td>      <td rowspan="1" colspan="1"><p>LEVE</p></td>      <td rowspan="1" colspan="1"><p>- Lei nº 9.696/1998; Lei nº 12.197/2010; Estatuto CREF1; Resolução CONFEF nº 307/2015 - Código de Ética dos Profissionais de Educação Física.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Desrespeito ao Agente de Fiscalização ou qualquer representante do CREF1, no exercício de suas funções, ou em razão destas, bem como resistir, impedir, embaraçar ou furtar-se a fiscalização.</p></td>      <td rowspan="1" colspan="1"><p>GRAVISSIMA</p></td>      <td rowspan="1" colspan="1"><p>- Art. 331 do Código Penal; Em caso de impedir a fiscalização - Arts. 329 e 330 do Código Penal; Resolução CONFEF nº 307/2015 - Código de Ética dos Profissionais de Educação Física.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Transgressão a preceitos do Código de Ética, especialmente aos arts. 1º ao 5º, com consequências danosas a clientes e/ou categoria profissional.</p></td>      <td rowspan="1" colspan="1"><p>GRAVÍSSIMA</p></td>      <td rowspan="1" colspan="1"><p>- Resolução CONFEF nº 307/2015 - Código de Ética dos Profissionais de Educação Física.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Condenação judicial por prática de crime no exercício da profissão ou em razão desta.</p></td>      <td rowspan="1" colspan="1"><p>GRAVISSIMA</p></td>      <td rowspan="1" colspan="1"><p>- Resolução CONFEF nº 307/2015 - Código de Ética dos Profissionais de Educação Física.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Permitir sala desprovida de profissional de Educação Física</p></td>      <td rowspan="1" colspan="1"><p>GRAVÍSSIMA</p></td>      <td rowspan="1" colspan="1"><p>- Art. 09º da Resolução CONFEF nº 134/2007; Resolução CONFEF nº 307/2015 - Código de Ética dos Profissionais de Educação Física.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Profissional atuando sem ter realizado a Capacitação em Suporte Básico de Vida</p></td>      <td rowspan="1" colspan="1"><p>GRAVÍSSIMA</p></td>      <td rowspan="1" colspan="1"><p>- Lei Federal nº 9.696/1998; Lei Estadual nº 7.696/2017; Resolução CREF1 nº 103/2018; Resolução CONFEF nº 134/2007; Resolução CONFEF nº 307/2015 - Código de Ética dos Profissionais de Educação Física.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Reincidência de qualquer infração de natureza LEVE</p></td>      <td rowspan="1" colspan="1"><p>MÉDIA</p></td>      <td rowspan="1" colspan="1"><p>- Resolução CREF1 nº 122/2021</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Reincidência de qualquer infração de natureza Média</p></td>      <td rowspan="1" colspan="1"><p>GRAVE</p></td>      <td rowspan="1" colspan="1"><p>- Resolução CREF1 nº 122/2021</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Reincidência de qualquer infração de natureza GRAVE</p></td>      <td rowspan="1" colspan="1"><p>GRAVISSIMA</p></td>      <td rowspan="1" colspan="1"><p>- Resolução CREF1 nº 122/2021</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Infração Leve - Sem multa e com anotação de Advertência.</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Infração Média - Multa de UMA anuidade vigente e instauração de Processo Ético.</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Infração Grave - Multa de DUAS anuidades vigentes e instauração de Processo Ético.</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Infração Gravíssima - Multa de TRÊS anuidades vigentes e instauração de Processo Ético.</p></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>     </tr>     <tr>      <td rowspan="1" colspan="3"></td>     </tr>     <tr>      <td rowspan="1" colspan="3"></td>     </tr>     <tr>      <td rowspan="1" colspan="3"></td>     </tr>    </tbody>   </table>

@@ -1,0 +1,30 @@
+---
+titulo: "PORTARIA CGGMA/SUBLOP/CHELOG/EMCFA-MD Nº 3.010, DE 13 DE JUNHO DE 2024"
+orgao: "Ministério da Defesa/Estado-Maior Conjunto das Forças Armadas/Chefia de Logística e Mobilização/Subchefia de Logística Operacional"
+tipo: "Portaria"
+numero: "3010"
+data: 2024-06-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/06/2024, seção 1, p. 23"
+data_publicacao: 2024-06-17
+edicao: "114"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-cggma/sublop/chelog/emcfa-md-n-3.010-de-13-de-junho-de-2024-566018294"
+sha256_html_fonte: d96c0d6569128cebc1262f070f2ada1b87f0c06ded3c049f4ac5d1d2a036f77b
+baixado_em: 2026-10-16
+---
+# PORTARIA CGGMA/SUBLOP/CHELOG/EMCFA-MD Nº 3.010, DE 13 DE JUNHO DE 2024
+
+PORTARIA CGGMA/SUBLOP/CHELOG/EMCFA-MD Nº 3.010, DE 13 DE JUNHO DE 2024
+
+O SUBCHEFE DE LOGÍSTICA OPERACIONAL DA CHEFIA DE LOGÍSTICA E MOBILIZAÇÃO DO ESTADO-MAIOR CONJUNTO DAS FORÇAS ARMADAS DO MINISTÉRIO DA DEFESA no uso da competência que lhe foi delegada pelo inciso I do art. 1º da Portaria SEGMA/SUBILOG/CHELOG/EMCFA-MD nº 1.579, de 5 de abril de 2021, e o que consta no Processo NUP 60310.000261/2024-33, resolve:
+
+**Art. 1º** Conceder inscrição, junto ao Ministério da Defesa (MD), à empresa MAPEAR GEOSOLUÇÕES LTDA., com sede social na Avenida Bernardes Filho, 31 - Lourdes, Viçosa/MG, CEP: 36.572-016, inscrita no CNPJ sob o nº 31.898.350/0001-40, como entidade privada executante de aerolevantamento, Categoria "A".
+
+**Art. 2º** Considerar a inscrição válida a partir da data de sua publicação em Diário Oficial da União, até a data de 20 de junho de 2027.
+
+**Art. 3º** Durante o período de vigência da inscrição a empresa deverá comunicar ao MD qualquer alteração referente a sua capacitação técnica e/ou jurídica.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+Gen Bda MAURÍCIO DE SOUZA BEZERRA

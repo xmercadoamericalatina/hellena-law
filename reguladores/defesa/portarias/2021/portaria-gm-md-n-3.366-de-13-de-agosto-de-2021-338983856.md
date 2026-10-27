@@ -1,0 +1,146 @@
+---
+titulo: "PORTARIA GM-MD Nº 3.366, DE 13 DE AGOSTO DE 2021"
+orgao: "Ministério da Defesa/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "3366"
+data: 2021-08-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/08/2021, seção 1, p. 193"
+data_publicacao: 2021-08-18
+edicao: "156"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-gm-md-n-3.366-de-13-de-agosto-de-2021-338983856"
+sha256_html_fonte: 0115c295867a184f620a693c8ab0efb27c84fbe55d375c4bd36bfea7515ba5c5
+baixado_em: 2026-10-21
+---
+# PORTARIA GM-MD Nº 3.366, DE 13 DE AGOSTO DE 2021
+
+PORTARIA GM-MD Nº 3.366, DE 13 DE AGOSTO DE 2021
+
+O MINISTRO DE ESTADO DA DEFESA, no uso de suas atribuições legais e conforme o disposto no Decreto nº 5.958, de 7 de novembro de 2006, e no art. 9º da Portaria nº 85/GM/MD, de 11 de janeiro de 2018 e o que consta do Processo nº 60041.000680/2021-40, resolve:
+
+Conceder a Medalha Mérito Desportivo Militar às personalidades civis e militares a seguir relacionadas:
+
+General de Exército PAULO SÉRGIO NOGUEIRA DE OLIVEIRA;
+
+Tenente-Brigadeiro do Ar HERALDO LUIZ RODRIGUES;
+
+General de Exército EDUARDO ANTONIO FERNANDES;
+
+ANTONIO PAULO VOGEL DE MEDEIROS, Secretário de Orçamento e Organização Institucional do Ministério da Defesa;
+
+Major-Brigadeiro do Ar JOÃO CAMPOS FERREIRA FILHO;
+
+Terceiro-Sargento (RM2-EP) LUANA WANDERLEY MOREIRA LIRA;
+
+Terceiro-Sargento (RM2-EP) NATHALIA SIQUEIRA ALMEIDA;
+
+Terceiro-Sargento (RM2-EP) EDIVAL MARQUES QUIRINO PONTES;
+
+Terceiro-Sargento (RM2-EP) ANA LUIZA BUSATO BARBACHAN;
+
+Terceiro-Sargento (RM2-EP) DANIEL BORGES CARGNIN;
+
+Terceiro-Sargento (RM2-EP) GABRIELLE GONÇALVES RONCATTO;
+
+Terceiro-Sargento (RM2-EP) SAMUEL REIS ALBRECHT;
+
+Terceiro-Sargento (RM2-EP) ALTOBELI SANTOS DA SILVA;
+
+Terceiro-Sargento (RM2-EP) HEBERT WILIAN CARVALHO DA CONCEIÇÃO SOUSA;
+
+Terceiro-Sargento (RM2-EP) FELIPE BARDI DOS SANTOS;
+
+Terceiro-Sargento (RM2-EP) LARISSA CINCINATO PIMENTA;
+
+Terceiro-Sargento (RM2-EP) ALMIR CUNHA DOS SANTOS;
+
+Terceiro-Sargento (RM2-EP) LUCAS VERTHEIN;
+
+Terceiro-Sargento (RM2-EP) GUILHERME PEREIRA DA COSTA;
+
+Terceiro-Sargento (RM2-EP) ISAAC NASCIMENTO DE SOUZA FILHO;
+
+Terceiro-Sargento (RM2-EP) GRAZIELE JESUS DE SOUSA;
+
+Terceiro-Sargento (RM2-EP) MARIA IEDA CHAVES GUIMARÃES;
+
+Terceiro-Sargento (RM2-EP) NATASHA ROSA FIGUEIREDO CAMPIÃO;
+
+Terceiro-Sargento (RM2-EP) TIFFANI BEATRIZ DOMINGOS SILVA DO NASCIMENTO MARINHO;
+
+Terceiro-Sargento (RM2-EP) ALISON BRENDOM ALVES DOS SANTOS;
+
+Terceiro-Sargento (RM2-EP) PEDRO HENRIQUE GONÇALVES DA SILVA;
+
+Terceiro-Sargento (RM2-EP) CHAYENNE PEREIRA DA SILVA;
+
+3º Sargento STT LUISA DE BAPTISTA BASTOS DUARTE;
+
+3º Sargento STT ERIC GOMES TAKABATAKE;
+
+3º Sargento STT EDUARDO KATSUHIRO BARBOSA;
+
+3º Sargento STT RAFAEL GODOY DE MACEDO;
+
+3º Sargento STT RODRIGO PEREIRA DO NASCIMENTO;
+
+3º Sargento STT EDUARDO YUDY BRITO SANTOS;
+
+3º Sargento STT ABNER TEIXEIRA DA SILVA JUNIOR;
+
+3º Sargento STT GIOVANNA TOMANIK DIAMANTE;
+
+3º Sargento STT GUILHERME AMARAL TOLDO;
+
+3º Sargento STT WANDERSON DE OLIVEIRA;
+
+3º Sargento STT FERNANDO MUHLENBERG SCHEFFER;
+
+3º Sargento STT REBECCA CAVALCANTE BARBOSA DA SILVA;
+
+3º Sargento STT LUCAS DA SILVA CARVALHO;
+
+3º Sargento STT MARCIO SOARES TELES;
+
+3º Sargento STT ALEXSANDRO DO NASCIMENTO DE MELO;
+
+3º Sargento STT JUCIELEN CERQUEIRA ROMEU;
+
+3º Sargento STT KENO MARLEY MACHADO;
+
+3º Sargento STT GABRIEL OLIVEIRA CONSTANTINO;
+
+3º Sargento STT GUILHERME DIAS MASSÊ BASSETO;
+
+3º Sargento TES VITTÓRIA LOPES DE MELLO;
+
+3º Sargento TES ELIANE MARTINS;
+
+3º Sargento TES FRANCISCO CARLOS BARRETTO JÚNIOR;
+
+3º Sargento TES CAIO CAMPOS SOUZA;
+
+3º Sargento TES DÉRICK DE SOUZA SILVA;
+
+3º Sargento TES AUGUSTO DUTRA DA SILVA DE OLIVEIRA;
+
+3º Sargento TES LAILA FERRER E SILVA;
+
+3º Sargento TES TATIANE RAQUEL DA SILVA;
+
+3º Sargento TES LUIZ HENRIQUE COCUZZI;
+
+3º Sargento TES PRISCILLA ANDRÉIA STEVAUX CARNAVAL;
+
+3º Sargento TES ALINE DA SILVA RODRIGUES;
+
+Soldado MANOEL MESSIAS DOS SANTOS JUNIOR;
+
+Soldado LUCAS CONCEIÇÃO VILAR;
+
+Grumete (RM2) INGRID DE OLIVEIRA; e
+
+Grumete (RM2) ANA CAROLINA AZEVEDO.
+
+WALTER SOUZA BRAGA NETTO

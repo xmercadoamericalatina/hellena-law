@@ -1,0 +1,44 @@
+---
+titulo: "RESOLUÇÃO CREFITO-3 Nº 120, DE 13 DE DEZEMBRO DE 2024"
+orgao: "Entidades de Fiscalização do Exercício das Profissões Liberais/Conselho Regional de Fisioterapia e Terapia Ocupacional da 3ª Região"
+tipo: "Resolução"
+numero: "120"
+data: 2024-12-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/12/2024, seção 1, p. 478"
+data_publicacao: 2024-12-23
+edicao: "246"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-crefito-3-n-120-de-13-de-dezembro-de-2024-603332436"
+sha256_html_fonte: e9900332112b4ec1737f543c04a74d4066654f1055d1439c8b7980d1071f7b4d
+baixado_em: 2026-10-16
+---
+# RESOLUÇÃO CREFITO-3 Nº 120, DE 13 DE DEZEMBRO DE 2024
+
+RESOLUÇÃO CREFITO-3 Nº 120, DE 13 DE DEZEMBRO DE 2024
+
+Aprova a proposta orçamentária para o exercício financeiro de 2025 e dá outras providências
+
+O Plenário do CONSELHO REGIONAL DE FISIOTERAPIA E TERAPIA OCUPACIONAL DA 3ª REGIÃO - CREFITO-3, em sua 706ª Reunião Ordinária, realizada em 13 de dezembro de 2024, de forma presencial na Sede do CREFITO-3, situada na Rua Cincinato Braga, nº 59 - 4º andar, São Paulo - SP, usando da atribuição que lhe confere o Inciso VIII do Artigo 7º da Lei nº 6.316, de 17 de dezembro de 1975; resolve:
+
+**Art. 1º** - Aprovar a proposta orçamentária do Conselho Regional de Fisioterapia e Terapia Ocupacional para o exercício financeiro de 2025, que estima a receita em R$ 95.357.322,73 (noventa e cinco milhões trezentos e cinquenta e sete mil e trezentos e vinte e dois reais e setenta e três centavos) e fixa a sua despesa em igual valor, conforme a Lei nº 4320/1964 e MCASP.
+
+**Art. 2º** - A receita será realizada mediante a arrecadação das receitas correntes, observando os seguintes desdobramentos.
+
+**Art. 3º** - Para fins de equilíbrio orçamentário, será utilizado o montante de R$ 34.600.056,72 (trinta e quatro milhões seiscentos mil cinquenta e seis reais e setenta e dois centavos) de Recursos Arrecadados em Exercícios Anteriores para elaboração deste Orçamento Programa, conforme MCASP.
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Execução do Orçamento</p></td>      <td rowspan="1" colspan="1"><p>95.357.322,73</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Receitas Correntes</p></td>      <td rowspan="1" colspan="1"><p>60.357.322,73</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Contribuições</p></td>      <td rowspan="1" colspan="1"><p>37.842.831,80</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Anuidades</p></td>      <td rowspan="1" colspan="1"><p>37.842.831,80</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Receita de Serviços</p></td>      <td rowspan="1" colspan="1"><p>2.492.857,25</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Emolumentos com Inscrições</p></td>      <td rowspan="1" colspan="1"><p>1.281.584,02</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Emolumentos com Expedições de Carteiras</p></td>      <td rowspan="1" colspan="1"><p>951.505,07</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Emolumentos com Expedições de Certificados</p></td>      <td rowspan="1" colspan="1"><p>254.067,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Emolumentos com Apostilamentos</p></td>      <td rowspan="1" colspan="1"><p>5.701,16</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Financeiras</p></td>      <td rowspan="1" colspan="1"><p>6.917.768,47</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Juros de Mora</p></td>      <td rowspan="1" colspan="1"><p>342.464,98</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Multas sobre Anuidades</p></td>      <td rowspan="1" colspan="1"><p>218.887,58</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Remuneração de Dep. Banc. E Aplicações Financeiras</p></td>      <td rowspan="1" colspan="1"><p>6.356.415,91</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Outras Receitas Correntes</p></td>      <td rowspan="1" colspan="1"><p>13.503.808,49</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Dívida Ativa</p></td>      <td rowspan="1" colspan="1"><p>13.356.841,67</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Multas de Infrações</p></td>      <td rowspan="1" colspan="1"><p>49.199,18</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Indenizações e Restituições</p></td>      <td rowspan="1" colspan="1"><p>88.610,84</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Receitas não identificadas</p></td>      <td rowspan="1" colspan="1"><p>9.156,80</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Recursos Arrecadados em Exercícios Anteriores</p></td>      <td rowspan="1" colspan="1"><p>34.600.056,72</p></td>     </tr>    </tbody>   </table>
+
+**Art. 4º** - A despesa será realizada em observância do seguinte desdobramento:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Crédito Disponível da Despesa</p></td>      <td rowspan="1" colspan="1"><p>95.357.322,73</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Crédito Disponível da Despesa Corrente</p></td>      <td rowspan="1" colspan="1"><p>83.965.622,73</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Pessoal e Encargos Sociais</p></td>      <td rowspan="1" colspan="1"><p>31.664.866,22</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Remuneração Pessoal</p></td>      <td rowspan="1" colspan="1"><p>23.518.354,86</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Encargos Patronais</p></td>      <td rowspan="1" colspan="1"><p>8.146.511,36</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Outras Despesas Correntes</p></td>      <td rowspan="1" colspan="1"><p>52.300.756,51</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Benefícios a Pessoal</p></td>      <td rowspan="1" colspan="1"><p>5.426.293,63</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Benefícios Assistenciais</p></td>      <td rowspan="1" colspan="1"><p>316.834,57</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Uso de Bens e Serviços</p></td>      <td rowspan="1" colspan="1"><p>12.964.448,89</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Material de Consumo</p></td>      <td rowspan="1" colspan="1"><p>3.837.535,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Serviços Terceiros - Pessoas Físicas</p></td>      <td rowspan="1" colspan="1"><p>46.080,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Diárias/Auxílios Representações e Jetons</p></td>      <td rowspan="1" colspan="1"><p>8.956.023,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Despesa com Locomoção</p></td>      <td rowspan="1" colspan="1"><p>124.810,89</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Serviços Terceiros - Pessoas Jurídicas</p></td>      <td rowspan="1" colspan="1"><p>19.893.713,13</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Tributárias e Contributivas</p></td>      <td rowspan="1" colspan="1"><p>11.379.895,97</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Tributos</p></td>      <td rowspan="1" colspan="1"><p>517.448,12</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Contribuições</p></td>      <td rowspan="1" colspan="1"><p>10.862.447,85</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Demais Despesas Correntes</p></td>      <td rowspan="1" colspan="1"><p>981.596,47</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Serviços Bancários</p></td>      <td rowspan="1" colspan="1"><p>1.049.973,85</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Subvenções Sociais</p></td>      <td rowspan="1" colspan="1"><p>288.000,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Crédito Disponível da Despesa de Capital</p></td>      <td rowspan="1" colspan="1"><p>11.391.700,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Investimentos</p></td>      <td rowspan="1" colspan="1"><p>6.291.700,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Equipamentos e Materiais Permanentes</p></td>      <td rowspan="1" colspan="1"><p>6.291.700,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Inversões Financeiras</p></td>      <td rowspan="1" colspan="1"><p>5.100.000,00</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Aquisições de Imóveis</p></td>      <td rowspan="1" colspan="1"><p>5.100.000,00</p></td>     </tr>    </tbody>   </table>
+
+**Art. 5º** - Esta Resolução entra em vigor a partir de 1º (primeiro) de janeiro de 2025.
+
+RAPHAEL MARTINS FERRIS
+
+Presidente do Conselho
+
+JANE SUELEN SILVA PIRES FERREIRA
+
+Diretora-Secretária

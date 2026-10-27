@@ -1,0 +1,34 @@
+---
+titulo: "PORTARIA MCOM Nº 6.095, DE 1º DE JULHO DE 2022"
+orgao: "Ministério das Comunicações/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "6095"
+data: 2022-07-01
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/08/2022, seção 1, p. 10"
+data_publicacao: 2022-08-04
+edicao: "147"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-mcom-n-6.095-de-1-de-julho-de-2022-419971260"
+sha256_html_fonte: e085a598e2604b9865ead02df12b7534bdddb862413d29b9876c4359ee0ac3fd
+baixado_em: 2026-10-20
+---
+# PORTARIA MCOM Nº 6.095, DE 1º DE JULHO DE 2022
+
+PORTARIA MCOM Nº 6.095, DE 1º DE JULHO DE 2022
+
+O MINISTRO DE ESTADO DAS COMUNICAÇÕES SUBSTITUTO EVENTUAL, designado por Decreto de 21 de julho de 2022, publicado no DOU de 22 de julho de 2022, observando o disposto no Decreto nº 5.371, de 17 de fevereiro de 2005, na Portaria nº 4.287, de 21 de setembro de 2015, e na Portaria nº 2.524, de 4 de maio de 2021, e considerando o que consta do Processo nº 53115.014652/2021-33, resolve:
+
+**Art. 1º** Outorgar autorização, de acordo com o art. 16 do Decreto nº 5.371, de 17 de fevereiro de 2005, às entidades relacionadas no Anexo I desta Portaria, nos termos do art. 16 da Portaria nº 2.524/2021, para executar o serviço de Retransmissão de Televisão, em tecnologia digital, no âmbito do Sistema Brasileiro de Televisão Digital Terrestre, localizadas nos municípios das fase 1.2 do Programa Digitaliza Brasil, estabelecidas pelo Grupo de Implantação do Processo de Redistribuição e Digitalização - GIRED, da Agência Nacional de Telecomunicações.
+
+**Art. 2º** A presente autorização reger-se-á pelas disposições do Código Brasileiro de Telecomunicações, leis subsequentes e seus regulamentos, bem como pelo citado Decreto e demais normas específicas.
+
+**Art. 3º** Para fins de execução do referido serviço, deverão ser observados os prazos para a obtenção da autorização de uso de radiofrequência junto à Anatel e solicitação do licenciamento da estação, conforme previsto pelo Decreto nº 10.405, de 25 de junho de 2020.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+MAXIMILIANO SALVADORI MARTINHÃO
+
+ANEXO I - RELAÇÃO DAS ENTIDADES AUTORIZADAS A EXECUTAR O SERVIÇO DE RETRANSMISSÃO DE TELEVISÃO DIGITAL
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>UF</p></td>      <td rowspan="1" colspan="1"><p>Município</p></td>      <td rowspan="1" colspan="1"><p>Canal Digital</p></td>      <td rowspan="1" colspan="1"><p>Caráter</p></td>      <td rowspan="1" colspan="1"><p>Autorizada</p></td>      <td rowspan="1" colspan="1"><p>CNPJ Autorizada</p></td>      <td rowspan="1" colspan="1"><p>Fase</p></td>      <td rowspan="1" colspan="1"><p>Protocolo*</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PR</p></td>      <td rowspan="1" colspan="1"><p>Capanema</p></td>      <td rowspan="1" colspan="1"><p>41</p></td>      <td rowspan="1" colspan="1"><p>P</p></td>      <td rowspan="1" colspan="1"><p>TV CATARATAS LTDA</p></td>      <td rowspan="1" colspan="1"><p>80.830.334/0001-21</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>4323</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PR</p></td>      <td rowspan="1" colspan="1"><p>Capitão Leônidas Marques</p></td>      <td rowspan="1" colspan="1"><p>32</p></td>      <td rowspan="1" colspan="1"><p>P</p></td>      <td rowspan="1" colspan="1"><p>TV CATARATAS LTDA</p></td>      <td rowspan="1" colspan="1"><p>80.830.334/0001-21</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>4329</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PR</p></td>      <td rowspan="1" colspan="1"><p>Chopinzinho</p></td>      <td rowspan="1" colspan="1"><p>32</p></td>      <td rowspan="1" colspan="1"><p>P</p></td>      <td rowspan="1" colspan="1"><p>TV CATARATAS LTDA</p></td>      <td rowspan="1" colspan="1"><p>80.830.334/0001-21</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>5089</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PR</p></td>      <td rowspan="1" colspan="1"><p>Chopinzinho</p></td>      <td rowspan="1" colspan="1"><p>50</p></td>      <td rowspan="1" colspan="1"><p>P</p></td>      <td rowspan="1" colspan="1"><p>FUNDACAO CULTURAL CELINAUTA</p></td>      <td rowspan="1" colspan="1"><p>77.737.831/0001-75</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>3447</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PR</p></td>      <td rowspan="1" colspan="1"><p>Guaraniaçu</p></td>      <td rowspan="1" colspan="1"><p>29</p></td>      <td rowspan="1" colspan="1"><p>P</p></td>      <td rowspan="1" colspan="1"><p>TELEVISAO CULTURA DE MARINGA LIMITADA</p></td>      <td rowspan="1" colspan="1"><p>79.135.760/0001-66</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>5090</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PR</p></td>      <td rowspan="1" colspan="1"><p>Ipiranga</p></td>      <td rowspan="1" colspan="1"><p>29</p></td>      <td rowspan="1" colspan="1"><p>P</p></td>      <td rowspan="1" colspan="1"><p>TV ESPLANADA DO PARANA LTDA</p></td>      <td rowspan="1" colspan="1"><p>80.242.720/0001-00</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>5092</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PR</p></td>      <td rowspan="1" colspan="1"><p>Piên</p></td>      <td rowspan="1" colspan="1"><p>41</p></td>      <td rowspan="1" colspan="1"><p>P</p></td>      <td rowspan="1" colspan="1"><p>SOCIEDADE RADIO EMISSORA PARANAENSE SA</p></td>      <td rowspan="1" colspan="1"><p>76.494.806/0001-45</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>5098</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PR</p></td>      <td rowspan="1" colspan="1"><p>Piraí Do Sul</p></td>      <td rowspan="1" colspan="1"><p>42</p></td>      <td rowspan="1" colspan="1"><p>P</p></td>      <td rowspan="1" colspan="1"><p>SOCIEDADE RADIO EMISSORA PARANAENSE SA</p></td>      <td rowspan="1" colspan="1"><p>76.494.806/0001-45</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>5100</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PR</p></td>      <td rowspan="1" colspan="1"><p>Verê</p></td>      <td rowspan="1" colspan="1"><p>35</p></td>      <td rowspan="1" colspan="1"><p>P</p></td>      <td rowspan="1" colspan="1"><p>TV CATARATAS LTDA</p></td>      <td rowspan="1" colspan="1"><p>80.830.334/0001-21</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>5114</p></td>     </tr>    </tbody>   </table>

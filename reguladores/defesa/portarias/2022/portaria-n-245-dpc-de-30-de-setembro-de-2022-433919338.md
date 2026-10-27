@@ -1,0 +1,348 @@
+---
+titulo: "PORTARIA Nº 245/DPC, DE 30 DE SETEMBRO DE 2022"
+orgao: "Ministério da Defesa/Comando da Marinha/Diretoria-Geral de Navegação/Diretoria de Portos e Costas"
+tipo: "Portaria"
+numero: "245"
+data: 2022-09-30
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 05/10/2022, seção 1, p. 14"
+data_publicacao: 2022-10-05
+edicao: "190"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-245/dpc-de-30-de-setembro-de-2022-433919338"
+sha256_html_fonte: 4a878174d656e9debc78e541f31d6565a2adde46f14ee40263c69dd762065471
+baixado_em: 2026-10-20
+---
+# PORTARIA Nº 245/DPC, DE 30 DE SETEMBRO DE 2022
+
+PORTARIA Nº 245/DPC, DE 30 DE SETEMBRO DE 2022
+
+Celebra o acordo de delegação de competência firmado entre a AUTORIDADE MARÍTIMA BRASILEIRA e a Sociedade Classificadora DNV CLASSIFICAÇÃO, CERTIFICAÇÃO E CONSULTORIA BRASIL LTDA.
+
+O DIRETOR DE PORTOS E COSTAS, no uso das atribuições que lhe são conferidas pela Portaria MB/MD nº 37, de 21 de fevereiro de 2022 e de acordo com o contido no inciso X, do art. 4º, da Lei nº 9.537, de 11 de dezembro de 1997, resolve:
+
+**Art. 1º** Celebrar acordo, em consonância com o estabelecido nas "Normas da Autoridade Marítima para Reconhecimento de Sociedades Classificadoras para Atuarem em Nome do Governo Brasileiro" - NORMAM-06/DPC (1ª Revisão), aprovadas pela Portaria DPC/DGN/MB nº 13, de 30 de abril de 2021, publicada no Diário Oficial da União nº 100, de 28 de maio de 2021, entre a AUTORIDADE MARÍTIMA BRASILEIRA, neste ato representada pelo Vice-Almirante SERGIO RENATO BERNA SALGUEIRINHO, Diretor de Portos e Costas, e a Sociedade Classificadora DNV CLASSIFICAÇÃO, CERTIFICAÇÃO E CONSULTORIA BRASIL LTDA, neste ato representada pelo Sr. ALEXANDRE IMPERIAL SILVA, Vice-Presidente de Desenvolvimento de Negócios para a América do Sul, com o propósito de delegar competência para a citada Sociedade Classificadora atuar em nome da AUTORIDADE MARÍTIMA BRASILEIRA.
+
+**Art. 2º** Os serviços para os quais são concedidos os reconhecimentos, dispostos no Acordo de Reconhecimento em anexo, devem ser executados em conformidade com o disposto na NORMAM-06/DPC (1ª Revisão) e demais Normas da Autoridade Marítima que sejam pertinentes.
+
+**Art. 3º** A concessão para os serviços de que trata o artigo anterior vigerá no período de 14 de agosto de 2022 a 13 de agosto de 2024.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação em DOU, com efeitos retroativos a 14 de agosto de 2022.
+
+Vice-Almirante SERGIO RENATO BERNA SALGUEIRINHO
+
+## ANEXO
+
+ACORDO DE RECONHECIMENTO FIRMADO ENTRE
+
+A AUTORIDADE MARÍTIMA BRASILEIRA E A SOCIEDADE CLASSIFICADORA DNV CLASSIFICAÇÃO, CERTIFICAÇÃO E CONSULTORIA LTDA
+
+O presente ACORDO é celebrado, em consonância com o estabelecido nas Normas da Autoridade Marítima para Reconhecimento de Sociedades Classificadoras e Certificadoras (Entidades Especializadas) para Atuarem em Nome do Governo Brasileiro (NORMAM-06/DPC) e seus anexos, entre a AUTORIDADE MARÍTIMA BRASILEIRA, neste ato representada pelo Vice-Almirante SERGIO RENATO BERNA SALGUEIRINHO, Diretor de Portos e Costas, doravante referida como DPC, e a SOCIEDADE CLASSIFICADORA DNV CLASSIFICAÇÃO, CERTIFICAÇÃO E CONSULTORIA BRASIL LTDA, CNPJ: 42.360.404/0001-36, localizada na Rua São Bento 18, 5º e 6º andares, Centro, Rio de Janeiro-RJ, CEP 20090-010, neste ato representada pelo Sr. ALEXANDRE IMPERIAL SILVA, Vice-Presidente de Desenvolvimento de Negócios para a América do Sul, doravante referida como ORGANIZAÇÃO RECONHECIDA, com o propósito de delegar competência à ORGANIZAÇÃO RECONHECIDA para atuar em nome da Autoridade Marítima Brasileira.
+
+1 - Propósito
+
+1.1 - O propósito deste ACORDO é delegar competência à ORGANIZAÇÃO RECONHECIDA para atuar em nome do Governo Brasileiro na implementação e fiscalização das Convenções e Códigos Internacionais e Normas Nacionais pertinentes, relativas à segurança da navegação, salvaguarda da vida humana e prevenção da poluição ambiental, doravante denominados INSTRUMENTOS APLICÁVEIS.
+
+1.2 - A delegação de competência compreende a prestação de serviços, incluindo a realização de testes, medições, cálculos, vistorias, auditorias ou qualquer outra verificação, em empresas de navegação, embarcações e estruturas marítimas, incluindo seus sistemas, equipamentos e instalações associadas e emissão, renovação e/ou endosso dos respectivos certificados, relatórios, licenças ou qualquer outro documento pertinente, nas condições estabelecidas a seguir, doravante denominados SERVIÇOS, dentro da abrangência estabelecida no Apêndice deste ACORDO.
+
+2 - Condições Gerais
+
+2.1 - Os SERVIÇOS deverão ser executados de acordo com o estabelecido nos INSTRUMENTOS APLICÁVEIS, com ênfase na NORMAM-06/DPC, da Diretoria de Portos e Costas, como emendada, obedecendo a abrangência contida no Apêndice ao presente ACORDO.
+
+2.2 - Os SERVIÇOS executados pela ORGANIZAÇÃO RECONHECIDA terão aceitação idêntica àqueles prestados pela própria DPC, desde que a ORGANIZAÇÃO RECONHECIDA mantenha o cumprimento das disposições estabelecidas nos INSTRUMENTOS APLICÁVEIS.
+
+2.3 - Os SERVIÇOS deverão ser conduzidos, preferencialmente, por representantes exclusivos da ORGANIZAÇÃO RECONHECIDA. Entretanto, a ORGANIZAÇÃO RECONHECIDA poderá utilizar representantes não exclusivos ou firmas prestadoras de serviços cadastradas de acordo com os limites e condições estabelecidas na NORMAM-06/DPC.
+
+2.4 - A realização de SERVIÇOS em nome da AUTORIDADE MARÍTIMA BRASILEIRA, não previstos no Apêndice ao presente ACORDO, deverá ser previamente autorizada pela DPC.
+
+2.5 - A ORGANIZAÇÃO RECONHECIDA, seus funcionários, representantes e outros agindo em seu nome, estão autorizados, nos termos do presente ACORDO, a:
+
+a) efetuar recomendações ou outras ações que sejam necessárias para assegurar que as características das embarcações, sistemas, equipamentos ou empresas correspondam com os requisitos estabelecidos nos INSTRUMENTOS APLICÁVEIS;
+
+b) auditar ou vistoriar quaisquer itens a bordo ou nas empresas de navegação para assegurar o cumprimento e a manutenção das condições e requisitos estabelecidos nos INSTRUMENTOS APLICÁVEIS;
+
+c) exigir a realização de reparos, testes, avaliações ou medições, quando necessário, para assegurar o cumprimento e a manutenção das condições e requisitos estabelecidos nos INSTRUMENTOS APLICÁVEIS;
+
+d) cancelar a validade de um certificado e retirá-lo de bordo, quando julgar que a embarcação possui deficiências que comprometam a segurança da embarcação e seus tripulantes, passageiros ou cargas transportadas ou que acarrete sério risco de poluição ambiental; e
+
+e) quando o navio se encontrar no exterior, informar à Autoridade de Controle pelo Estado do Porto, o cancelamento da validade de qualquer certificado ou existência de qualquer deficiência que comprometa a segurança da embarcação e seus tripulantes, passageiros ou cargas transportadas ou que acarrete sério risco de poluição ambiental.
+
+3 - Interpretações, Equivalências e Isenções
+
+3.1 - As interpretações necessárias para a aplicação dos INSTRUMENTOS APLICÁVEIS, bem como para a determinação de equivalência ou aceitação de outros requisitos em sua substituição, são prerrogativas da DPC.
+
+3.2 - Qualquer isenção dos requisitos estabelecidos nos INSTRUMENTOS APLICÁVEIS é prerrogativa da DPC e deverá ser por ela autorizada antes da sua adoção pela ORGANIZAÇÃO RECONHECIDA.
+
+4 - Informações
+
+4.1 - A ORGANIZAÇÃO RECONHECIDA deverá reportar à DPC, com a brevidade possível, as seguintes informações:
+
+a) qualquer restrição ou condição essencial relacionada com a certificação, operação ou área de atuação de embarcações nacionais;
+
+b) a suspensão, retirada, cancelamento ou alteração substancial nas limitações operacionais e da certificação dos navios nacionais por ela atendidos, juntamente com as razões que levaram a tomada dessa decisão;
+
+c) sempre que qualquer embarcação nacional for encontrada em operação com deficiência ou discrepância grave, tal que suas condições ou de seus equipamentos não correspondam substancialmente ao contido nos INSTRUMENTOS APLICÁVEIS, e que na opinião da ORGANIZAÇÃO RECONHECIDA comprometam a segurança da embarcação e seus tripulantes, passageiros ou cargas transportadas ou que acarrete sério risco de poluição ambiental; e
+
+d) a prorrogação de certificados estatutários e as razões que as justificaram.
+
+4.2 - A DPC terá garantido, livre de custos, acesso a todos os planos, documentos e informações relativas aos navios, estruturas marítimas ou empresas nacionais que estejam abrangidas no escopo deste ACORDO e afetas aos SERVIÇOS executados.
+
+4.3 - As atividades e as informações relacionadas com o presente ACORDO deverão receber um tratamento reservado, sempre que solicitado por qualquer uma das partes, excetuando-se os manuais, certificados e documentos que, por sua natureza, os INTRUMENTOS APLICÁVEIS requeiram estar disponíveis às partes deste Acordo e a terceiros.
+
+5 - Regras
+
+5.1 - Sempre que sejam introduzidas alterações em suas regras que afetem os SERVIÇOS executados pela ORGANIZAÇÃO RECONHECIDA, esta deverá contatar a DPC logo que possível, informando o escopo das alterações introduzidas.
+
+5.2 - De maneira análoga, a DPC deverá informar à ORGANIZAÇÃO RECONHECIDA, logo que possível, o desenvolvimento de emendas aos INSTRUMENTOS APLICÁVEIS que esteja realizando e que influenciem nos SERVIÇOS executados pela CLASSIFICADORA.
+
+5.3 - A existência de qualquer conflito ou discrepância entre as regras da ORGANIZAÇÃO RECONHECIDA e os INSTRUMENTOS APLICÁVEIS deverá ser, assim que identificado por qualquer uma das partes, comunicada, imediatamente, à outra parte. Ambas as partes deverão envidar esforços no sentido de eliminar as diferenças e/ou estabelecer procedimentos para compatibilizar a aplicação dos requisitos de forma unificada.
+
+5.4 - Os Certificados relativos às Convenções e Códigos Internacionais emitidos em nome do Governo Brasileiro deverão ser elaborados em inglês e português. Os demais certificados deverão ser emitidos apenas em português.
+
+5.5 - Os regulamentos, regras, instruções e relatórios poderão ser elaborados em inglês e/ou português, contudo, as regras e relatórios das vistorias relativas à navegação interior deverão ser obrigatoriamente escritas em português.
+
+6 - Supervisão
+
+6.1- A DPC efetuará auditorias programadas na ORGANIZAÇÃO RECONHECIDA com o objetivo de verificar sua conformidade com os procedimentos e requisitos constantes nos INSTRUMENTOS APLICÁVEIS que a ORGANIZAÇÃO RECONHECIDA está reconhecida para implementar e fiscalizar em nome da DPC.
+
+6.2 - A DPC poderá realizar auditorias inopinadas para verificar como os SERVIÇOS executados pela ORGANIZAÇÃO RECONHECIDA estão sendo efetivamente conduzidos, de modo a garantir o controle das embarcações nacionais e avaliar o trabalho desenvolvido pela ORGANIZAÇÃO RECONHECIDA.
+
+7 - Remuneração
+
+A remuneração dos SERVIÇOS realizados pela ORGANIZAÇÃO RECONHECIDA, será cobrada diretamente pela ORGANIZAÇÃO RECONHECIDA à parte que tiver solicitado seus serviços.
+
+8 - Responsabilidade
+
+8.1- Se em decorrência de qualquer deficiência ou irregularidade nos SERVIÇOS executados pela ORGANIZAÇÃO RECONHECIDA que, de acordo com decisão judicial, tenha sido causada por ato ou omissão em que fique caracterizado dolo por parte da ORGANIZAÇÃO RECONHECIDA, seu corpo técnico, responsáveis, funcionários, vistoriador ou representante não exclusivo, firmas prestadoras de serviços ou qualquer outro que tenha atuado em seu nome, resultar em responsabilidade final e definitiva imposta à Autoridade Marítima Brasileira, a DPC estará no direito de reclamar e receber, em nome da Autoridade Marítima Brasileira, a sua total compensação por parte da ORGANIZAÇÃO RECONHECIDA.
+
+8.2- Se em decorrência de qualquer deficiência ou irregularidade nos SERVIÇOS executados pela ORGANIZAÇÃO RECONHECIDA que, de acordo com decisão judicial, tenha sido causada por ato ou omissão em que fique caracterizada imprudência, negligência ou imperícia por parte da ORGANIZAÇÃO RECONHECIDA, seu corpo técnico, responsáveis, funcionários, vistoriador ou representante não exclusivo, firmas prestadoras de serviços ou qualquer outro que tenha atuado em seu nome, resultar em responsabilidade final e definitiva por perdas e danos imposta à Autoridade Marítima Brasileira, a DPC estará no direito de reclamar e receber, em nome da Autoridade Marítima Brasileira, a sua total compensação por parte da ORGANIZAÇÃO RECONHECIDA até o limite da responsabilidade financeira definida nos termos e condições padrões empregados pela ORGANIZAÇÃO RECONHECIDA nos contratos com os contratantes dos serviços previstos no presente ACORDO.
+
+8.3 - Se a Autoridade Marítima Brasileira for citada ou estiver na expectativa de ser citada a responder pela responsabilidade mencionada nos dois itens anteriores, a ORGANIZAÇÃO RECONHECIDA deverá ser informada imediatamente. Com esse propósito, a DPC deverá enviar todas as reclamações, documentos e demais informações relevantes para a ORGANIZAÇÃO RECONHECIDA que poderá, se assim desejar, solicitar à Autoridade Marítima Brasileira que o patrocínio da causa seja efetuado por advogado de sua escolha e custas, desde que o faça ainda dentro do prazo para contestar a medida judicial que lhe é movida.
+
+8.4 - A Autoridade Marítima Brasileira não efetuará qualquer conciliação que envolva a responsabilidade citada nos três itens acima, sem que haja o consentimento da ORGANIZAÇÃO RECONHECIDA.
+
+9 - Disposições Finais
+
+9.1 - Se o ACORDO for inadimplido por uma das partes, a outra parte deverá notificá-la, por escrito, informando a irregularidade e solicitando as correções necessárias. A parte notificada deverá efetuar as correções no prazo de até três (3) meses a partir da data de recebimento da notificação, findo o qual a outra parte terá o direito de rescindir o ACORDO imediatamente.
+
+9.2 - Este ACORDO poderá ser rescindido por interesse de qualquer uma das partes, doze (12) meses após notificação por escrito da parte interessada na rescisão.
+
+9.3 - Qualquer emenda aos termos deste ACORDO ou aos seus anexos somente será tornada efetiva após a concordância por escrito de ambas as partes.
+
+10 - Vigência e Validade
+
+Este ACORDO entra em vigor na data de sua assinatura, com efeitos retroativos à data de início da concessão, em 14 de agosto de 2022, e terá validade de dois anos a partir desta data.
+
+11 - Legislação e Foro de Discussão
+
+Este Acordo é regido pelas leis nacionais brasileiras. Eventuais conflitos existentes, oriundos do presente ACORDO, deverão ser dirimidos na Justiça Federal da Comarca do domicílio da ORGANIZAÇÃO RECONHECIDA.
+
+Em fé do acordado, os abaixo assinados, devidamente autorizados pelas partes, firmam o presente ACORDO, em 30 de setembro de 2022.
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+SERGIO RENATO BERNA SALGUEIRINHO ALEXANDRE IMPERIAL SILVA
+
+Vice-Almirante DNV CLASSIFICAÇÃO, CERTIFICAÇÃO E CONSULTORIA BRASIL LTDA
+
+Diretor de Portos e Costas Vice-Presidente de Desenvolvimento de Negócios para a América do Sul
+
+SERVIÇOS AUTORIZADOS E ABRANGÊNCIA DO ACORDO DE RECONHECIMENTO ENTRE A AUTORIDADE MARÍTIMA E A SOCIEDADE CLASSIFICADORA DNV CLASSIFICAÇÃO, CERTIFICAÇÃO E CONSULTORIA LTDA.
+
+I - TIPOS DE EMBARCAÇÕES
+
+\- Sem restrições.
+
+II - RELAÇÃO DOS SERVIÇOS AUTORIZADOS NA NAVEGAÇÃO DE MAR ABERTO
+
+a) Certificados
+
+A ORGANIZAÇÃO RECONHECIDA está autorizada a emitir e endossar os certificados, iniciais ou de renovação, abaixo especificados, assim como efetuar todos os cálculos, vistorias, auditorias, medições, testes e qualquer outra verificação necessária para sua emissão ou endosso, de acordo com os requisitos estabelecidos nos INSTRUMENTOS APLICÁVEIS:
+
+1) Certificado Nacional de Arqueação (NORMAM-01/DPC e NORMAM-03/DPC 1ª Revisão);
+
+2) Certificado Internacional de Arqueação (TONNAGE 1969, como emendado);
+
+3) Certificado Nacional de Borda Livre (NORMAM-01/DPC);
+
+4) Certificado Internacional de Borda Livre (LOAD LINES 1966, como emendado);
+
+5) Certificado de Segurança da Navegação (NORMAM-01/DPC e NORMAM-03/DPC 1ª Revisão);
+
+6) Certificado de Segurança para Navios de Passageiros (SOLAS 1974, como emendado);
+
+7) Certificado de Segurança de Construção para Navios de Carga (SOLAS 1974, como emendado);
+
+8) Certificado de Segurança de Equipamento para Navios de Carga (SOLAS 1974, como emendado);
+
+9) Certificado de Segurança Rádio para Navios de carga (SOLAS 1974, como emendado);
+
+10) Certificado Internacional pra Prevenção da Poluição por Óleo (MARPOL 73/78, como emendado);
+
+11) Certificado de Prevenção da Poluição para Transporte de Substâncias Nocivas Líquidas a Granel (MARPOL 73/78, como emendado);
+
+12) Certificado Internacional pra Prevenção da Poluição por Esgoto Sanitário (MARPOL 73/78, como emendado);
+
+13) Certificado Internacional pra Prevenção da Poluição do Ar (MARPOL 73/78, como emendado);
+
+14) Certificado Internacional pra Prevenção da Poluição do Ar de Motores (MARPOL 73/78, como emendado);
+
+15) Certificado de Conformidade para Transporte de Produtos Químicos Perigosos a Granel (BCH Code, como emendado);
+
+16) Certificado Internacional de Conformidade para Transporte de Produtos Químicos Perigosos a Granel (IBC Code, como emendado);
+
+17) Certificado Internacional de Conformidade para Transporte de Gases Liquefeitos a Granel (IGC Code, como emendado);
+
+18) Certificado de Conformidade para Transporte de Gases Liquefeitos a Granel (GC Code, como emendado);
+
+19) Certificado de Conformidade para Transporte de Gases Liquefeitos a Granel (Existing Ships Code);
+
+20) Certificado de Segurança de Unidade Móvel de Perfuração (MODU Code, como emendado);
+
+21) Certificado de Segurança para Embarcações de Alta Velocidade (HSC Code, como emendado);
+
+22) Documento de Conformidade (ISM Code, como emendado);
+
+23) Certificado de Gerenciamento de Segurança (ISM Code, como emendado);
+
+24) Certificado de Conformidade para Navios de Apoio Marítimo (Resolução A-673(16) da IMO e MARPOL 73/78);
+
+25) Certificado de Credenciamento de Estações de Manutenção e Estações de Serviço de Equipamentos de Salvatagem Infláveis (NORMAM-05/DPC);
+
+26) Certificado de Conformidade para Sistema Anti-incrustante (NORMAM-20/DPC 3ª Revisão);
+
+27) Certificado Internacional de Sistemas Anti-incrustantes (NORMAM-20/DPC 3ª Revisão e AFS 2001, como emendado);
+
+28) Certificado de Tração Estática (NORMAM-01/DPC);
+
+29) Certificado Internacional para Proteção de Navios e Instalações Portuárias (ISPS Code, como emendado);
+
+30) Certificado de Segurança de Sistema de Mergulho (NORMAM-15/DPC 3ª Revisão);
+
+31) Certificado Internacional de Gerenciamento de Água de Lastro (BWM 2004, como emendado);
+
+32) Certificado de Aptidão segundo o Código para o Transporte e Manuseio de Substâncias Líquidas Perigosas e Nocivas a Granel em Navios de Apoio Offshore (Código Químico OSV);
+
+33) Certificado de Segurança para Navios de Propósitos Especiais (Código de Segurança para Navios de Propósitos Especiais, como emendado);
+
+34) Certificado de Resistência do Helideque (NORMAM-27/DPC 2ª Revisão);
+
+35) Certificado de Resistência da Tela de Proteção do Helideque (NORMAM-27/DPC 2ª Revisão);
+
+36) Certificado de Resistência das Búricas (NORMAM-27/DPC 2ª Revisão);
+
+37) Certificado do Coeficiente de Atrito (NORMAM-27/DPC 2ª Revisão); e
+
+38) Certificado do Sistema de Combustível (NORMAM-27/DPC 2ª Revisão).
+
+b) Certificados de Classe
+
+A ORGANIZAÇÃO RECONHECIDA que possua Regras de Classificação para navios e plataformas marítimas está autorizada a emitir, aprovar ou endossar os certificados de classe para navios e plataformas marítima que operem sob a jurisdição da Autoridade Marítima Brasileira. A aplicabilidade do projeto, construção e manutenção dos navios e plataformas marítimas sob as regras de classe será estabelecida conforme preconizado nas Normas da Autoridade Marítima e nas Convenções Internacionais.
+
+c) Documentos
+
+A ORGANIZAÇÃO RECONHECIDA está autorizada a emitir, aprovar ou endossar os documentos especificados a seguir, assim como efetuar todos os cálculos, vistorias, auditorias, medições, testes e qualquer outra verificação necessária para sua emissão, aprovação ou endosso, de acordo com os requisitos estabelecidos nos INSTRUMENTOS APLICÁVEIS.
+
+1) Licença de Construção, Alteração ou Reclassificação e Licença de Construção para Embarcação já Construída - LCEC, incluindo análise e aprovação dos planos pertinentes (NORMAM-01/DPC);
+
+2) Documento de Autorização para Transporte de Grãos (SOLAS 1974, como emendado);
+
+3) Documento de Conformidade para o Transporte de Mercadorias Perigosas (SOLAS 1974 Regra II-2/19);
+
+4) Manual de Peação de Carga (SOLAS 1974, como emendado);
+
+5) Manual de Carregamento de Grãos (SOLAS 1974, como emendado);
+
+6) Notas para Arqueação de Embarcações;
+
+7) Relatório de Avaliação da Condição de Navios Graneleiros e Petroleiros enquadrados na Resolução A.744(18) da IMO (Enhanced Programme of Inspections);
+
+8) Plano de Emergência para Prevenção da Poluição por Óleo (MARPOL 73/78, como emendado);
+
+9) Plano de Gerenciamento de Lixo (MARPOL 73/78, como emendado);
+
+10) Manual de Operações e Equipamento para COW (MARPOL 73/78, como emendado);
+
+11) Manual de Operação de Tanque de Lastro Limpo Dedicado (MARPOL 73/78, como emendado);
+
+12) Documento de Conformidade para Sistemas Anti-incrustantes (Convenção AFS, como emendado);
+
+13) Performance Standard for Protective Coatings (Resolução MSC-215(82) da IMO);
+
+14) Folheto de Estabilidade (Intacta e em Avaria);
+
+15) Relatórios de Prova de Inclinação e Medição de Porte Bruto;
+
+16) Documento de Verificação e Aceitação de Navios de Posicionamento Dinâmico (MSC/Circ 645 e MSC.1/Circ 1580 da IMO, conforme aplicável);
+
+17) Manual de Operação de Unidades Estacionárias de Produção, Armazenamento e Transferência de Óleo (NORMAM 01/DPC);
+
+18) Documento de Verificação de Projeto de Construção de Navios de Apoio Marítimo, conforme os requisitos da Resolução A.469 (12), da IMO;
+
+19) Plano de Emergência de Bordo de Poluição Marinha (MARPOL 73/74, Anexo II, como emendado);
+
+20) Plano de Gerenciamento de Água de Lastro (NORMAM-20/DPC 3ª Revisão);
+
+21) Declaração sobre Resistência Estrutural de Heliponto (NORMAM-27/DPC 2ª Revisão);
+
+22) Declaração de Livros de Registro Eletrônicos conforme Convenção MARPOL (Resolução MEPC.312(74) - Guidelines for the use of Electronic Record Books under MARPOL, como emendado);
+
+23) Manual de P&A (MARPOL 73/78 Anexo II, como emendado); e
+
+24) Documento de Conformidade para o Transporte de Cargas Sólidas a Granel do Grupo A e C (Código ISMBC, como emendado).
+
+d) Vistorias
+
+A ORGANIZAÇÃO RECONHECIDA está autorizada, além das vistorias pertinentes aos SERVIÇOS especificados nos itens a), b) e c) acima, a efetuar Vistoria de Condição Estrutural em Navios Graneleiros, construídos há mais de 18 anos, para carregamento de granéis sólidos de peso específico maior que 1,8 t/m³ (NORMAM-01/DPC e NORMAM-04/DPC 1ª Revisão).
+
+III - RELAÇÃO DOS SERVIÇOS AUTORIZADOS NA NAVEGAÇÃO INTERIOR
+
+a) Certificados
+
+A ORGANIZAÇÃO RECONHECIDA está autorizada a emitir e endossar os certificados, iniciais ou de renovação, abaixo especificados, assim como efetuar todos os cálculos, vistorias, auditorias, medições, testes e qualquer outra verificação necessária para sua emissão ou endosso, de acordo com os requisitos estabelecidos nos INSTRUMENTOS APLICÁVEIS:
+
+1) Certificado Nacional de Arqueação (NORMAM-02/DPC e NORMAM-03/DPC 2ª Revisão);
+
+2) Certificado de Arqueação para a Hidrovia Paraguai-Paraná (NORMAM-02/DPC);
+
+3) Certificado Nacional de Borda Livre (NORMAM-02/DPC);
+
+4) Certificado de Borda Livre para a Hidrovia Paraguai-Paraná (NORMAM-02/DPC);
+
+5) Certificado de Segurança da Navegação (NORMAM-02/DPC e NORMAM-03/DPC 2ª Revisão);
+
+6) Certificado de Conformidade para Transporte de Produtos Químicos Perigosos a Granel (BCH Code, como emendado);
+
+7) Certificado Internacional de Conformidade para Transporte de Produtos Químicos Perigosos à Granel (IBC Code, como emendado);
+
+8) Certificado Internacional de Conformidade para Transporte de Gases Liquefeitos a Granel (IGC Code, como emendado);
+
+9) Certificado de Conformidade para Transporte de Gases Liquefeitos a Granel (GC Code, como emendado);
+
+10) Certificado de Conformidade para Transporte de Gases Liquefeitos a Granel (Existing Ships Code);
+
+11) Certificado de Segurança para Embarcações de Alta Velocidade (HSC Code, como emendado);
+
+12) Certificado de Tração Estática (NORMAM-02/DPC);
+
+13) Certificado de Conformidade para Sistema Anti-incrustante (NORMAM-20/DPC 3ª Revisão);
+
+14) Certificado de Conformidade para o Transporte a Granel de Combustíveis Líquidos, Derivados de Petróleo e Álcool da Bacia do Sudeste (NORMAM-02/DPC); e
+
+15) Certificado de Segurança de Sistemas de Mergulho (NORMAM-15/DPC 3ª Revisão).
+
+b) Documentos
+
+A ORGANIZAÇÃO RECONHECIDA está autorizada a emitir, aprovar ou endossar os documentos especificados a seguir, assim como efetuar todos os cálculos, vistorias, auditorias, medições, testes e qualquer outra verificação necessária para sua emissão, aprovação ou endosso, de acordo com os requisitos estabelecidos nos INSTRUMENTOS APLICÁVEIS:
+
+1) Licença de Construção, Alteração ou Reclassificação e Licença de Construção para Embarcação já Construída - LCEC, incluindo análise e aprovação dos planos pertinentes (NORMAM-02/DPC);
+
+2) Folheto de Estabilidade (Intacta e em Avaria);
+
+3) Notas para Arqueação de Embarcações (NORMAM-02/DPC);
+
+4) Relatórios de Prova de Inclinação e de Medição de Porte Bruto; e
+
+5) Manual de Operação de Unidades Estacionárias de Produção, Armazenamento e Transferência de Óleo (NORMAM-02/DPC).
+
+Rio de Janeiro, RJ, em 30 de setembro de 2022.

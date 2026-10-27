@@ -1,0 +1,87 @@
+---
+titulo: "PORTARIA SEFIC/MINC Nº 539, DE 20 DE AGOSTO DE 2026"
+orgao: "Ministério da Cultura/Secretaria de Fomento e Incentivo à Cultura"
+tipo: "Portaria"
+numero: "539"
+data: 2026-08-20
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 21/08/2026, seção 1, p. 18"
+data_publicacao: 2026-08-21
+edicao: "158"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-sefic/minc-n-539-de-20-de-agosto-de-2026-727037041"
+baixado_em: 2026-10-15
+---
+# PORTARIA SEFIC/MINC Nº 539, DE 20 DE AGOSTO DE 2026
+
+PORTARIA SEFIC/MINC Nº 539, DE 20 DE AGOSTO DE 2026
+
+O SECRETÁRIO DE FOMENTO E INCENTIVO À CULTURA, no uso das atribuições legais, que lhe confere a Portaria nº 171, de 27 de fevereiro de 2026 e a Portaria MinC nº 225, de 23 de julho de 2025, resolve:
+
+**Art. 1.º** - Homologar a prorrogação do prazo de captação de recursos do(s) projeto(s) cultural(is), relacionado(s) no(s) anexo(s) desta Portaria, para o(s) qual(is) o(s) proponente(s) fica(m) autorizado(s) a captar recursos, mediante doações ou patrocínios, na forma prevista no § 1º do Artigo 18 e no Artigo 26 da Lei n.º 8.313, de 23 de dezembro de 1991, alterada pela Lei nº 9.874, de 23 de novembro de 1999.
+
+**Art. 2.º** - Esta portaria entra em vigor na data de sua publicação.
+
+THIAGO ROCHA LEANDRO
+
+## ANEXO
+
+ÁREA: 1 Artes Cênicas (Artigo 18 , § 1º )
+
+2310430 - Encontro Internacional de Dança do Pará - EIDAP
+
+Centro de Dança e Fitness Ltda
+
+CNPJ/CPF: 02.251.428/0001-32
+
+Cidade: Belém - PA;
+
+Prazo de Captação: 01/01/2025 à 31/12/2025
+
+ÁREA: 1 Artes Cênicas (Artigo 18 , § 1º )
+
+247902 - O domador e os animais nada abestados - pelo enfrentamento ao trabalho infantil no Estado do Pará
+
+CENTRO ARTISTICO CULTURAL BELEM AMAZONIA
+
+CNPJ/CPF: 83.340.638/0001-07
+
+Cidade: Belém - PA;
+
+Prazo de Captação: 08/07/2025 à 31/12/2025
+
+ÁREA: 3 Música (Artigo 18 , § 1º )
+
+2410387 - Uma Orquestra pela Estrada - Ano II
+
+ASSOCIACAO DOS MORADORES DO ALTO DA COLINA
+
+CNPJ/CPF: 16.436.065/0001-14
+
+Cidade: Conceição do Coité - BA;
+
+Prazo de Captação: 01/01/2026 à 31/08/2026
+
+ÁREA: 3 Música (Artigo 18 , § 1º )
+
+259889 - Kartoffelfest - 26 anos de história
+
+ASSOCIACAO CULTURAL TEEWALD
+
+CNPJ/CPF: 11.781.237/0001-73
+
+Cidade: Santa Maria do Herval - RS;
+
+Prazo de Captação: 21/07/2026 à 30/11/2026
+
+ÁREA: 6 Humanidades (Artigo 18 , § 1º )
+
+261611 - Estradas que transformam
+
+GCS COMUNICACAO LTDA
+
+CNPJ/CPF: 11.962.694/0001-64
+
+Cidade: Campinas - SP;
+
+Prazo de Captação: 02/07/2026 à 31/12/2026

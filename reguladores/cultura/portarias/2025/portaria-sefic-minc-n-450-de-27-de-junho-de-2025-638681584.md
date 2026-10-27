@@ -1,0 +1,100 @@
+---
+titulo: "PORTARIA SEFIC/MINC Nº 450, DE 27 DE JUNHO DE 2025"
+orgao: "Ministério da Cultura/Secretaria de Economia Criativa e Fomento Cultural"
+tipo: "Portaria"
+numero: "450"
+data: 2025-06-27
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/06/2025, seção 1, p. 41"
+data_publicacao: 2025-06-30
+edicao: "120"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-sefic/minc-n-450-de-27-de-junho-de-2025-638681584"
+baixado_em: 2026-10-16
+sha256_html_fonte: 54200da915d94518607bbb9eda265534b92848390f00d49905181184c80556d8
+---
+# PORTARIA SEFIC/MINC Nº 450, DE 27 DE JUNHO DE 2025
+
+PORTARIA SEFIC/MINC Nº 450, DE 27 DE JUNHO DE 2025
+
+O SECRETÁRIO DE ECONOMIA CRIATIVA E FOMENTO CULTURAL, no uso das atribuições legais, que lhe confere a Portaria nº 7, de 24 de janeiro de 2023 e a Portaria MinC nº 1, de 13 de fevereiro de 2023, resolve:
+
+**Art. 1.º** - Homologar a prorrogação do prazo de captação de recursos do(s) projeto(s) cultural(is), relacionado(s) no(s) anexo(s) desta Portaria, para o(s) qual(is) o(s) proponente(s) fica(m) autorizado(s) a captar recursos, mediante doações ou patrocínios, na forma prevista no § 1º do Artigo 18 e no Artigo 26 da Lei n.º 8.313, de 23 de dezembro de 1991, alterada pela Lei nº 9.874, de 23 de novembro de 1999.
+
+**Art. 2.º** - Esta portaria entra em vigor na data de sua publicação.
+
+HENILTON PARENTE DE MENEZES
+
+## ANEXO
+
+ÁREA: 5 Patrimônio Cultural (Artigo 18 , § 1º )
+
+2411180 - RESTAURO DA CASA MARCANTÔNIO - 1ª ETAPA
+
+AGENCIA DE DESENVOLVIMENTO DO PATRIMÔNIO CULTURAL E NATURAL DO MUNICÍPIO DE ANTONIO PRADO
+
+CNPJ/CPF: 08.728.291/0001-40
+
+Cidade: Antônio Prado - RS;
+
+Prazo de Captação: 01/01/2025 à 31/12/2025
+
+ÁREA: 1 Artes Cênicas (Artigo 18 , § 1º )
+
+220895 - TOM JOBIM MUSICAL
+
+BARBARO PRODUCOES DE EVENTOS LTDA
+
+CNPJ/CPF: 18.323.538/0001-00
+
+Cidade: São Paulo - SP;
+
+Prazo de Captação: 26/05/2025 à 31/07/2025
+
+ÁREA: 1 Artes Cênicas (Artigo 18 , § 1º )
+
+238758 - Bonecos em Ação 2
+
+GCN ANTONIO PRODUCOES ARTISTICAS
+
+CNPJ/CPF: 22.962.699/0001-03
+
+Cidade: Hortolândia - SP;
+
+Prazo de Captação: 01/01/2025 à 31/12/2025
+
+ÁREA: 3 Música (Artigo 18 , § 1º )
+
+242581 - São João do Reencontro
+
+FR INTELIGENCIA CONTEUDO E ENTRETENIMENTO LTDA
+
+CNPJ/CPF: 39.495.802/0001-55
+
+Cidade: São Paulo - SP;
+
+Prazo de Captação: 01/06/2025 à 30/06/2025
+
+ÁREA: 6 Humanidades (Artigo 18 , § 1º )
+
+243733 - Brasil em Alta Velocidade - Panorama entre os anos 50 aos dias de hoje
+
+LUSTE PROJETOS EDITORIAIS E CULTURAIS LTDA
+
+CNPJ/CPF: 09.143.368/0001-83
+
+Cidade: São Paulo - SP;
+
+Prazo de Captação: 16/06/2025 à 31/12/2025
+
+## ANEXO II — ÁREA: 4 Artes Visuais (Artigo 26 , § 1º )
+
+250067 - Ateliê O Buraco
+
+MARIA KAROLINY ALVES SOARES
+
+CNPJ/CPF: \*\*\*.224.094-\*\*
+
+Cidade: Lagoa Nova - RN;
+
+Prazo de Captação: 07/06/2025 à 31/12/2025

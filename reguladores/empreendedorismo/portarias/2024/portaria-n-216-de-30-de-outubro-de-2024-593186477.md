@@ -1,0 +1,42 @@
+---
+titulo: "PORTARIA Nº 216, DE 30 DE outubro DE 2024"
+orgao: "Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte/Secretaria Nacional de Microempresa e Empresa de Pequeno Porte/Diretoria Nacional de Registro Empresarial e Integração"
+tipo: "Portaria"
+numero: "216"
+data: 2024-10-30
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 31/10/2024, seção 1, p. 113"
+data_publicacao: 2024-10-31
+edicao: "211"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-216-de-30-de-outubro-de-2024-593186477"
+sha256_html_fonte: 7b0e502eeee4da685ad5d4c356fa04bb9ef1a517aeaa3f92ec0237c78717c1cd
+baixado_em: 2026-10-16
+---
+# PORTARIA Nº 216, DE 30 DE outubro DE 2024
+
+PORTARIA Nº 216, DE 30 DE outubro DE 2024
+
+A DIRETORA DA DIRETORIA NACIONAL DE REGISTRO EMPRESARIAL E INTEGRAÇÃO, no uso da competência que lhe foi subdelegada pela Portaria GM/MDIC nº 118, de 11 de maio de 2023, do Ministro de Estado do Desenvolvimento, Indústria, Comercio e Serviços e tendo em vista o disposto no art. 1.134 da Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, e considerando as disposições da da Lei nº 14.600, de 19 de junho de 2023, Medida Provisória nº 1.187 de 13 de setembro de 2023, Decreto nº 11.725 de 04 de outubro de 2023 e Lei nº 14.816, de 16 de janeiro de 2024, bem como demais informações que constam nos autos do Processo nº 16100.001738/2024-81, resolve:
+
+**Art. 1º** Fica a BHARAT ELECTRONICS LIMITED, com sede em Outer Ring Road, Nagavara, Bengaluru, 560045, India, autorizada a funcionar no Brasil, por intermédio de filial, com a denominação social BHARAT ELECTRONICS LIMITED, tendo sido destacado o capital de R$ 1.000,00 (um mil reais), destinado ao desempenho de suas operações no Brasil, que consistirão em: "Aproveitar oportunidades comerciais e se envolver em atividades de marketing, incluindo interações próximas com clientes-chave", conforme registrado na 417ª reunião, realizada em 6 de novembro de 2020.
+
+**Art. 2º** Ficam ainda estabelecidas as seguintes obrigações:
+
+I - a BHARAT ELECTRONICS LIMITED é obrigada a ter permanentemente um representante legal no Brasil, com plenos e ilimitados poderes para tratar quaisquer questões e resolvê-las definitivamente, podendo ser demandada e receber citação inicial pela sociedade;
+
+II - todos os atos que praticar no Brasil ficarão sujeitos às leis e aos tribunais brasileiros, sem que, em tempo algum, possa a empresa reclamar qualquer exceção fundada em seus Estatutos;
+
+III - a sociedade não poderá realizar no Brasil atividades constantes de seus Estatutos vedadas às sociedades estrangeiras e somente poderá exercer as que dependam de aprovação prévia de órgão governamental, sob as condições autorizadas;
+
+IV - dependerá de aprovação do Governo brasileiro qualquer alteração nos Estatutos da empresa, que implique mudança de condições e regras estabelecidas na presente autorização;
+
+V - publicado o ato de autorização, fica a empresa obrigada a providenciar o arquivamento, na Junta Comercial da unidade federativa onde se localizar, das folhas do Diário Oficial da União e dos documentos que instruíram o requerimento desta autorização;
+
+VI - ao encerramento de cada exercício social, deverá apresentar à Junta Comercial da unidade federativa onde estiver localizada, para anotação nos registros, folha do Diário Oficial da União, do Estado ou do Distrito Federal, conforme o caso, e de jornal de grande circulação, contendo as publicações obrigatórias por força do art. 1.140 do Código Civil; e
+
+VII - a infração de qualquer das obrigações, para a qual não esteja cominada pena especial, será punida, considerando-se a gravidade da falta, com cassação da autorização.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+FLÁVIA REGINA BRITTO GONÇALVES

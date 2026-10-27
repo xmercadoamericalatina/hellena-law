@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO CREF7 Nº 139, de 30 DE JUNHODE 2026"
+orgao: "Entidades de Fiscalização do Exercício das Profissões Liberais/Conselho Regional de Educação Física da 7ª Região"
+tipo: "Resolução"
+numero: "139"
+data: 2026-07-02
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 02/07/2026, seção 1, p. 152"
+data_publicacao: 2026-07-02
+edicao: "122"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-cref7-n-139-de-30-de-junhode-2026-716333023"
+baixado_em: 2026-10-15
+---
+# RESOLUÇÃO CREF7 Nº 139, de 30 DE JUNHODE 2026
+
+RESOLUÇÃO CREF7 Nº 139, de 30 DE JUNHODE 2026
+
+Revoga as Resoluções que menciona e dá outras providências.
+
+O PRESIDENTE DO CONSELHO REGIONAL DE EDUCAÇÃO FÍSICA DA 7ªREGIÃO - CREF7/DF, no uso de suas atribuições legais e regimentais, conforme dispõe o inciso X, do artigo 68, do Regimento Interno do CREF7/DF; CONSIDERANDO o disposto na Lei Federal nº 9,696/98, que, em seu artigo 5º-B, inciso X, determina que compete aos Crefs julgar as infrações e aplicar as penalidades previstas nesta Lei e nas normas complementares editadas pelo CONFEF; CONSIDERANDO o disposto na Resolução CONFEF nº 477/2023, que dispõe sobre a inscrição, registro, baixa, cancelamento e demais procedimentos referentes às pessoas jurídicasno Sistema CONFEF/CREFs; CONSIDERANDO o disposto na Resolução CONFEF nº 509/2023, que dispõe sobre o Código Processual de Ética do Conselho Federal e dos Conselhos Regionais de Educação Física; CONSIDERANDO o disposto na Resolução CONFEF nº 511/2023, que dispõe sobre o Código de Processo de Responsabilização da Pessoa Jurídica; CONSIDERANDO o disposto na Resolução CONFEF nº 535/2024, que aprova o Manual de Fiscalização do Sistema CONFEF/CREFs;CONSIDERANDO o disposto na Resolução CONFEF nº 548/2024, que dispõe sobre a dosimetria das sanções ético-disciplinares aplicadas no Sistema CONFEF/CREFs aos Profissionais de Educação Física; CONSIDERANDO o disposto na Resolução CONFEF nº 582/2025, que dispõe sobre as infrações e a dosimetria das sanções aplicadas no Sistema CONFEF/CREFs às Pessoas Jurídicas registradas; CONSIDERANDO o Acórdão nº 309/2026-TCU-Plenário, do Tribunal de Contas da União, em cujo Relatório consta que as atividades de fiscalização dos Conselhos de Fiscalização Profissional são de responsabilidade dos conselhos federais, que atuam como instância máxima de normatização, orientação e supervisão dentro de cada sistema profissional, e que os conselhos regionais, por sua vez, são responsáveis pela execução das atividades de fiscalização no âmbito de suas respectivas jurisdições, devendo observar as diretrizes e normas estabelecidas pelo conselho federal correspondente; CONSIDERANDO os termos do Ofício CONFEF/2687/2026, que determinou a revogação das Resoluções do CREF7/DF que instituam a dosimetria de sanções, devendo ser utilizada exclusivamente a normatização do CONFEF; e CONSIDERANDO, finalmente, a deliberação do Plenário do CREF7/DF na sua Reunião Ordinária realizada no dia 27 de maio de 2026; resolve:Art. 1º - Revogar as seguintes Resoluções do CREF7/DF: I - Resolução CREF7 nº 117, de 27 de maio de 2022, que dispõe sobre o Manual de Padronização dos Procedimentos de Fiscalização do CREF7/DF e dá outras providências; eII - Resolução CREF7 nº 123/2023, que dispõe sobre as multas por infrações devidas ao CREF7/DF; Art. 2º - No âmbito da jurisdição do CREF7/DF, devem ser adotadas, exclusivamente, as normas e diretrizes gerais exaradas pelo CONFEF, para balizar a uniformidade de atuação das ações de fiscalização em todo o território nacional, instituindo uma política de fiscalização centrada em conceitos éticos, disciplinares e legais.Parágrafo único - O disposto no caput deste artigo se aplica aos processos administrativos de defesa e recursos de ações de fiscalização, bem como os de natureza ético-disciplinar, submetidos às Câmaras competentes do CREF7/DF. Art. 3º - Nos termos do inciso III, do artigo 1º, da Resolução CONFEF nº 582/2025, alíneas "e", "f" e "g", respeitando-se as particularidades administrativas do Distrito Federal, não serão objeto de exigência para registro de PJ e tampouco para aplicação de sanções, pela fiscalização do CREF7/DF, o Alvará de Funcionamento e localização da Pessoa Jurídica, o Alvará de Licença Sanitária da Pessoa Jurídica e o Alvará expedido pelo Corpo de Bombeiros.Parágrafo único - O disposto no caput deste artigo visa à adequação às particularidades regionais, legais, jurídicas e administrativas da região do Distrito Federal, não se contrapondo às normas do CONFEF relativas às diligências de fiscalização. Art. 4º - Esta Resolução entra em vigor na data de sua publicação.
+
+Roberto Nóbrega

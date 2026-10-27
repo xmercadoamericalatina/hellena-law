@@ -1,0 +1,26 @@
+---
+titulo: "DELIBERAÇÃO Nº 5.125, DE 2 DE OUTUBRO DE 2025"
+orgao: "Entidades de Fiscalização do Exercício das Profissões Liberais/Conselho Federal de Economia"
+tipo: "Deliberação"
+numero: "5125"
+data: 2025-10-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 07/10/2025, seção 1, p. 127"
+data_publicacao: 2025-10-07
+edicao: "191"
+fonte: "https://www.in.gov.br/web/dou/-/deliberacao-n-5.125-de-2-de-outubro-de-2025-660726948"
+baixado_em: 2026-10-16
+sha256_html_fonte: be8a0d1baa29ca58e1914eeb95ed5d7d2141aaeef0bf224d7e506bc18ae68358
+---
+# DELIBERAÇÃO Nº 5.125, DE 2 DE OUTUBRO DE 2025
+
+DELIBERAÇÃO Nº 5.125, DE 2 DE OUTUBRO DE 2025
+
+Homologa os resultados do XXXI Prêmio Brasil de Economia.
+
+A PRESIDENTA DO CONSELHO FEDERAL DE ECONOMIA, no uso de suas atribuições legais e disposições regulamentares conferidas pela Lei nº 1.411, de 13 de agosto de 1951; Decreto nº 31.794, de 17 de novembro de 1952; Lei nº 6.021, de 3 de janeiro de 1974; Lei nº 5.637, de 19 de julho de 1978, Decreto nº 31.794, de 17 de novembro de 1952, e pelo Regimento Interno do Cofecon, aprovado pela Resolução nº 1.832, de 30 de julho de 2010, publicada no DOU nº 149, de 5 de agosto de 2010, Seção 1, Páginas: 85 e 86, "ad referendum" do Plenário; CONSIDERANDO o regramento próprio que estabelece os regulamentos das premiações, nos termos da Resolução nº 1.892, de 13 de abril de 2013 (DOU nº 80, de 26 de abril de 2013, Seção 1, Páginas: 177 a 179) e o disposto no Regulamento do XXXI Prêmio Brasil de Economia - 2025, aprovado pela Resolução nº 2.181, de 6 de junho de 2025 (DOU nº 109, de 11 de junho de 2025, Seção 1, Páginas: 175 e 176); CONSIDERANDO a decisão da Comissão Avaliadora e o que consta no Processo SEI nº 141100.000089/2025-74, resolve: Art. 1º Homologar o resultado do concurso público intitulado XXXI Prêmio Brasil de Economia - 2025: Categoria Livro de Economia: 1º Lugar: (Prêmio de R$ 8.000,00): Economista: Ladislau Dowbor (Registro: 20508/SP). Título: "Os desafios da revolução digital"; 2º Lugar: (Menção Honrosa): Economista: Alexandre de Freitas Barbosa (Registro: 32369/SP). Título: "Celso Furtado: Trajetória, pensamento e método"; 3º Lugar: (Menção Honrosa): Economistas: Gustavo Nunes Mourão e Mari Aparecida dos Santos (Registros: 7450/PR e 7392/PR). Título: "Planejamento e Desenvolvimento Regional". Categoria Artigo Técnico ou Científico: 1º Lugar: (Prêmio de R$ 4.000,00): Economista: Tomás Amaral Torezani. (Registro: 8700/RS). Título: "O Papel dos Setores Formal e Informal na Evolução da Produtividade Brasileira". Instituição: ANPEC - Associação Nacional dos Centros de Pós-graduação em Economia; 2º Lugar: (Menção Honrosa): Economistas: Ademir Antonio Moreira Rocha e Eduardo Gonçalves. (Registros: 37459/SP e 59031/MG). Título: "Medindo o efeito causal da adoção do Sistema de Plantio Direto sobre áreas naturais do Brasil". Publicado pelo site ScienceDirect; 3º Lugar: (Menção Honrosa): Economistas: Claucir Roberto Schmidtke e Pedro Cezar Dutra Fonseca. (Registros:7143/PR e 3263-8/RS). Título: "Estado Novo de Vargas: Um Caso de Populismo Econômico?". Publicado pelo site Brazilian Journal of Political Economy. Revista de Economia Política - Centro de Economia Política. Categoria Artigo Temático - COP 30 - 30ª Conferência das Nações Unidas sobre Mudança do Clima (Conferência das Partes)": 1º Lugar: (Prêmio de R$ 3.000,00): Estudante do Curso de Ciências Econômicas: Luiz Gustavo Ismael Hellmann. Instituição: Unesc - Universidade do Extremo Sul Catarinense; 2º Lugar: (Menção Honrosa): Estudante do Curso de Ciências Econômicas: Bruno Almeida de Azara. Instituição: Universidade Federal do ABC; 3º Lugar: (Menção Honrosa): Estudante do Curso de Ciências Econômicas: Êmili Decesare de Oliveira. Instituição: Universidade de Passo Fundo. Categoria Monografia de Graduação (Estudante): 1º Lugar: (Prêmio de R$ 3.000,00): Estudante Felipe Marques Prado. Título: "Análise Espacial da Pobreza Multidimensional no Norte do Brasil". Instituição: Universidade Estadual de Santa Cruz. (Corecon-BA); 2º Lugar: (Prêmio de R$ 1.000,00): José Henrique Oliveira Costa. Título: "Análises sobre a relação entre cadeias globais de valor e pegada ecológica no período de 2005 a 2018". Instituição: Universidade Federal de Alagoas UFAL. (Corecon-AL); 3º Lugar: (Menção Honrosa): Marcos Vinícius de Oliveira Andrade. Título: "Um Grito de Socorro: O Impacto da Pandemia de COVID-19 nos Índices de Suicídios no Brasil e Regiões - Uma Análise a partir do Modelo Estrutural Bayesiano de Séries Temporais". Instituição: Universidade Federal do Acre. (Corecon-AC); 4º Lugar: (Menção Honrosa): Jessica Malena Bastos de Almeida. Título: "A Importância da Conclusão do Ensino Médio e do Ensino Superior Para a Superação da Pobreza Multidimensional: Um Recorte de Gênero e Raça/Cor no Estado do Pará". Instituição: Universidade Federal do Pará. (Corecon-PA/AP); 5º Lugar: (Menção Honrosa): Júlia Manini Martins Bonilha. Título: "Transferência de Renda Condicionada e o Mercado de Trabalho Formal: Uma Análise dos Municípios Brasileiros". Instituição: Universidade Estadual de Campinas (Unicamp). (Corecon-SP). Art. 2º Esta Deliberação entra em vigor nesta data.
+
+Tania Cristina Teixeira
+
+Presidenta do Conselho

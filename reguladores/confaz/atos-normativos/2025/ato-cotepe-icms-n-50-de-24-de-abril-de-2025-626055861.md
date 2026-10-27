@@ -1,0 +1,140 @@
+---
+titulo: "ATO COTEPE/ICMS Nº 50, DE 24 DE ABRIL DE 2025"
+orgao: "Ministério da Fazenda/Conselho Nacional de Política Fazendária"
+tipo: "Ato Normativo"
+numero: "50"
+data: 2025-04-24
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 25/04/2025, seção 1, p. 206"
+data_publicacao: 2025-04-25
+edicao: "78"
+fonte: "https://www.in.gov.br/web/dou/-/ato-cotepe/icms-n-50-de-24-de-abril-de-2025-626055861"
+baixado_em: 2026-10-15
+---
+# ATO COTEPE/ICMS Nº 50, DE 24 DE ABRIL DE 2025
+
+ATO COTEPE/ICMS Nº 50, DE 24 DE ABRIL DE 2025
+
+Altera os Anexos II e IV do Ato COTEPE/ICMS nº 43, de 27 de abril de 2023, que estabelece os requisitos e relaciona os contribuintes beneficiados pelo diferimento previsto no Convênio ICMS nº 199/22 e no Convênio ICMS nº 15/23, e a suspensão para armazenagem do EAC nos termos do Convênio nº 15/23 no cumprimento de obrigações, que dispõe sobre o regime de tributação monofásica do ICMS a ser aplicado nas operações com combustíveis nos termos da Lei Complementar nº 192, de 11 de março de 2022.
+
+O Secretário-Executivo da Secretaria-Executiva do Conselho Nacional de Política Fazendária - CONFAZ, no uso de suas atribuições que lhe confere o inciso XIII do art. 12 e o art. 35 do Regimento da Comissão Técnica Permanente do ICMS - COTEPE/ICMS, de 12 de dezembro de 1997, por este ato, tendo em vista o disposto no § 6º da cláusula décima do Convênio ICMS nº 199, de 22 de dezembro de 2022, e no § 6º da cláusula décima do Convênio ICMS nº 15, de 31 de março de 2023,
+
+CONSIDERANDO as solicitações recebidas das Secretarias de Fazenda dos Estados de Mato Grosso, Paraná e Minas Gerais, nos dias 22 e 23 de abril de 2025, e da Secretaria de Fazenda e Planejamento do Estado de São Paulo, no dia 23 de abril de 2025, registradas no Processo SEI nº 12004.100550/2023-71, torna público:
+
+**Art. 1º** Os dispositivos a seguir indicados ficam acrescidos ao Ato COTEPE/ICMS nº 43, de 27 de abril de 2023, publicado no Diário Oficial da União de 28 de abril de 2023, com as seguintes redações:
+
+I - no Anexo II:
+
+a) o item 12 ao campo referente ao Estado de Mato Grosso:
+
+"ANEXO II
+
+| MATO GROSSO |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ITEM | UF | TIPO DE COMBUSTÍVEL (Diesel, B100, GLP, Gasolina, EAC) | TIPO DE DIFERIMENTO (IMPORTAÇÃO/ TRANSFERÊNCIA/ OPERAÇÃO INTERNA) | CNPJ | INSCRIÇÃO ESTADUAL | RAZÃO SOCIAL | DATA DO INÍCIO DA VIGÊNCIA DA CONCESSÃO |
+| 12 | MT | EAC | Importação e Saídas | 50.878.908/0004-13 | 14.103.206-5 | FS COMERCIALIZAÇÃO DE ETANOL LTDA | 25.03.2025 |
+
+";
+
+b) o item 45 ao campo referente ao Estado de Minas Gerais:
+
+"ANEXO II
+
+| MINAS GERAIS |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ITEM | UF | TIPO DE COMBUSTÍVEL (Diesel, B100, GLP, Gasolina, EAC) | TIPO DE DIFERIMENTO (IMPORTAÇÃO/ TRANSFERÊNCIA/ OPERAÇÃO INTERNA) | CNPJ | INSCRIÇÃO ESTADUAL | RAZÃO SOCIAL | DATA DO INÍCIO DA VIGÊNCIA DA CONCESSÃO |
+| 45 | MG | EAC | IMPORTAÇÃO E SAÍDAS | 13.687.183/0003-79 | 004.798560.00-51 | RAIZEN CENTRO-SUL COMERCIALIZADORA S.A | 23.08.2024 |
+
+";
+
+c) o item 39 ao campo referente ao Estado do Paraná:
+
+"ANEXO II
+
+| PARANÁ |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ITEM | UF | TIPO DE COMBUSTÍVEL (Diesel, B100, GLP, Gasolina, EAC) | TIPO DE DIFERIMENTO (IMPORTAÇÃO/ TRANSFERÊNCIA/ OPERAÇÃO INTERNA) | CNPJ | INSCRIÇÃO ESTADUAL | RAZÃO SOCIAL | DATA DO INÍCIO DA VIGÊNCIA DA CONCESSÃO |
+| 39 | PR | EAC | Importação / Op. Interna / Transferência | 09.538.989/0005-90 | 90922279-68 | RAIZEN CAARAPO ACUCAR E ALCOOL LTDA. | 1º.03.2025 |
+
+";
+
+II - no Anexo IV:
+
+a) o item 13 ao campo referente ao Estado de Mato Grosso:
+
+"ANEXO IV
+
+| MATO GROSSO |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ITEM | UF | TIPO DE COMBUSTÍVEL (EAC) | TIPO DE SUSPENSÃO (OPERAÇÃO INTERNA/ INTERESTADUAL ARMAZENAGEM) | CNPJ | INSCRIÇÃO ESTADUAL | RAZÃO SOCIAL | DATA DO INÍCIO DA VIGÊNCIA DA CONCESSÃO |
+| 13 | MT | EAC | Operação interna e Interestadual armazenagem | 50.878.908/0004-13 | 14.103.206-5 | FS COMERCIALIZAÇÃO DE ETANOL LTDA | 25.03.2025 |
+
+";
+
+b) o campo referente ao Estado de Minas Gerais, com os itens 1 a 42:
+
+"ANEXO IV
+
+| MINAS GERAIS |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ITEM | UF | TIPO DE COMBUSTÍVEL (EAC) | TIPO DE SUSPENSÃO (OPERAÇÃO INTERNA/ INTERESTADUAL ARMAZENAGEM) | CNPJ | INSCRIÇÃO ESTADUAL | RAZÃO SOCIAL | DATA DO INÍCIO DA VIGÊNCIA DA CONCESSÃO |
+| 1 | MG | EAC | ARMAZENAGEM | 05.495.024/0006-97 | 003.087572.00-13 | AGRICOLA PONTE ALTA LTDA | 09.04.2025 |
+| 2 | MG | EAC | ARMAZENAGEM | 16.617.789/0001-64 | 520.316928.00-26 | AGROPEU - AGROINDUSTRIAL DE POMPEU S/A | 09.04.2025 |
+| 3 | MG | EAC | ARMAZENAGEM | 19.818.301/0001-55 | 725.062302.00-90 | ARAPORA BIOENERGIA S/A EM RECUPERAÇÃO JUDICIAL | 09.04.2025 |
+| 4 | MG | EAC | ARMAZENAGEM | 07.930.999/0002-06 | 001.003714.01-08 | BAMBUI BIOENERGIA S.A. | 09.04.2025 |
+| 5 | MG | EAC | ARMAZENAGEM | 12.103.781/0006-33 | 003.561071.00-90 | BCI COMERCIALIZADORA LTDA | 09.04.2025 |
+| 6 | MG | EAC | ARMAZENAGEM | 08.355.201/0001-13 | 001.051182.00-38 | BIOENERGETICA AROEIRA S.A. | 09.04.2025 |
+| 7 | MG | EAC | ARMAZENAGEM | 08.793.343/0001-62 | 001.058894.00-62 | BIOENERGETICA VALE DO PARACATU SA | 09.04.2025 |
+| 8 | MG | EAC | ARMAZENAGEM | 28.144.326/0001-01 | 003.222525.00-57 | CANÁPOLIS AÇÚCAR E ETANOL S.A. | 09.04.2025 |
+| 9 | MG | EAC | ARMAZENAGEM | 42.865.864/0003-88 | 004.468483.00-98 | CANEX BIO COMBUSTIVEIS LTDA | 09.04.2025 |
+| 10 | MG | EAC | ARMAZENAGEM | 00.969.790/0005-41 | 035.193694.00-64 | CJ SELECTA S.A. | 09.04.2025 |
+| 11 | MG | EAC | ARMAZENAGEM | 23.796.998/0001-88 | 705.067162.00-62 | COMPANHIA AGRICOLA PONTENOVENSE | 09.04.2025 |
+| 12 | MG | EAC | ARMAZENAGEM | 61.149.589/0051-48 | 725.466854.05-09 | COOPERATIVA DE PRODUTORES DE CANA-DE-ACUCAR, ACUCAR E ALCOOL DO ESTADO DE SAO PAULO. | 09.04.2025 |
+| 13 | MG | EAC | ARMAZENAGEM | 61.149.589/0052-29 | 725.466854.06-81 | COOPERATIVA DE PRODUTORES DE CANA-DE-ACUCAR, ACUCAR E ALCOOL DO ESTADO DE SAO PAULO. | 09.04.2025 |
+| 14 | MG | EAC | ARMAZENAGEM | 03.937.452/0004-35 | 003.166002.00-34 | CRV INDUSTRIAL LTDA. | 09.04.2025 |
+| 15 | MG | EAC | ARMAZENAGEM | 17.869.587/0001-72 | 118.183204.00-68 | DAMFI - DESTILARIA ANTONIO MONTI FILHO EIRELI | 09.04.2025 |
+| 16 | MG | EAC | ARMAZENAGEM | 18.054.379/0001-88 | 668.389077.00-21 | DASA- DESTILARIA DE ALCOOL SERRA DOS AIMORES S/A | 09.04.2025 |
+| 17 | MG | EAC | ARMAZENAGEM | 13.537.735/0002-81 | 001.762466.01-80 | DELTA SUCROENERGIA S.A. | 09.04.2025 |
+| 18 | MG | EAC | ARMAZENAGEM | 13.537.735/0003-62 | 001.762466.02-61 | DELTA SUCROENERGIA S.A. | 09.04.2025 |
+| 19 | MG | EAC | ARMAZENAGEM | 19.680.743/0001-88 | 696.448769.00-96 | DESTILARIA CACHOEIRA LTDA. | 09.04.2025 |
+| 20 | MG | EAC | ARMAZENAGEM | 21.783.238/0001-00 | 363.299979.00-67 | DESTILARIA RIO DO CACHIMBO LTDA. | 09.04.2025 |
+| 21 | MG | EAC | ARMAZENAGEM | 10.452.413/0001-60 | 001.097855.00-05 | DESTILARIA VEREDAS INDUSTRIA DE ACUCAR E ALCOOL LTDA. | 09.04.2025 |
+| 22 | MG | EAC | ARMAZENAGEM | 45.335.934/0045-33 | 004.775841.00-65 | ECE S.A. | 09.04.2025 |
+| 23 | MG | EAC | ARMAZENAGEM | 07.455.944/0001-00 | 271.363690.00-15 | FRUTAL BIOENERGIA LTDA. | 09.04.2025 |
+| 24 | MG | EAC | ARMAZENAGEM | 06.059.962/0001-00 | 334.269820.00-45 | ITAPAGIPE BIOENERGIA LTDA. | 09.04.2025 |
+| 25 | MG | EAC | ARMAZENAGEM | 08.164.344/0001-48 | 001.012313.00-26 | ITUIUTABA BIOENERGIA LTDA. | 09.04.2025 |
+| 26 | MG | EAC | ARMAZENAGEM | 29.116.635/0001-30 | 003.082365.00-57 | MINAS BIOENERGIA LTDA. | 09.04.2025 |
+| 27 | MG | EAC | ARMAZENAGEM | 13.687.183/0003-79 | 004.798560.00-51 | RAIZEN CENTRO-SUL COMERCIALIZADORA S.A | 09.04.2025 |
+| 28 | MG | EAC | ARMAZENAGEM | 15.527.906/0029-37 | 001.039931.00-02 | RAIZEN CENTRO-SUL S.A | 09.04.2025 |
+| 29 | MG | EAC | ARMAZENAGEM | 12.229.415/0010-01 | 344.876699.00-54 | S A USINA CORURIPE ACUCAR E ALCOOL | 09.04.2025 |
+| 30 | MG | EAC | ARMAZENAGEM | 12.229.415/0014-35 | 114.876699.02-92 | S A USINA CORURIPE ACUCAR E ALCOOL | 09.04.2025 |
+| 31 | MG | EAC | ARMAZENAGEM | 12.229.415/0016-05 | 742.876699.03-71 | S A USINA CORURIPE ACUCAR E ALCOOL | 09.04.2025 |
+| 32 | MG | EAC | ARMAZENAGEM | 06.044.698/0008-08 | 325.274255.02-30 | SADA BIO-ENERGIA E AGRICULTURA LTDA. | 09.04.2025 |
+| 33 | MG | EAC | ARMAZENAGEM | 05.980.986/0001-27 | 577.261983.00-48 | SANTA JULIANA BIOENERGIA LTDA. | 09.04.2025 |
+| 34 | MG | EAC | ARMAZENAGEM | 07.981.751/0001-85 | 001.009393.00-97 | SANTA VITORIA ACUCAR E ALCOOL LTDA. | 09.04.2025 |
+| 35 | MG | EAC | ARMAZENAGEM | 19.537.471/0001-61 | 507.378071.00-36 | U.S.A. - USINA SANTO ANGELO LTDA. | 09.04.2025 |
+| 36 | MG | EAC | ARMAZENAGEM | 08.056.257/0001-77 | 001.009549.00-60 | USINA CERRADAO S.A. | 09.04.2025 |
+| 37 | MG | EAC | ARMAZENAGEM | 22.587.687/0001-46 | 430.061329.00-90 | USINA MONTE ALEGRE LTDA. | 09.04.2025 |
+| 38 | MG | EAC | ARMAZENAGEM | 07.674.341/0001-91 | 701.399971.00-30 | USINA UBERABA S/A | 09.04.2025 |
+| 39 | MG | EAC | ARMAZENAGEM | 07.459.492/0001-27 | 470.354772.00-75 | VALE DO PARACATU BIOENERGIA S.A | 09.04.2025 |
+| 40 | MG | EAC | ARMAZENAGEM | 08.057.019/0001-86 | 001.009449.00-90 | VALE DO PONTAL ACUCAR E ETANOL LTDA. | 09.04.2025 |
+| 41 | MG | EAC | ARMAZENAGEM | 08.493.354/0001-27 | 001.028639.00-27 | VALE DO TIJUCO ACUCAR E ALCOOL S.A. | 09.04.2025 |
+| 42 | MG | EAC | ARMAZENAGEM | 01.105.558/0001-02 | 363.965125.00-98 | WD AGROINDUSTRIAL LTDA. | 09.04.2025 |
+
+"
+
+c) o campo referente ao Estado de São Paulo, com o item 1:
+
+"ANEXO IV
+
+| SÃO PAULO |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| ITEM | UF | TIPO DE COMBUSTÍVEL (EAC) | TIPO DE SUSPENSÃO (OPERAÇÃO INTERNA/ INTERESTADUAL ARMAZENAGEM) | CNPJ | INSCRIÇÃO ESTADUAL | RAZÃO SOCIAL | DATA DO INÍCIO DA VIGÊNCIA DA CONCESSÃO |
+| 1 | MS | EAC | Operação Interna e Interestadual Armazenagem | 49.972.326/0001-70 | 490.000.365.114 | MOEMA BIOENERGIA S/A | 17.04.2025 |
+
+".
+
+**Art. 2º** Este ato entra em vigor na data da sua publicação no Diário Oficial da União.
+
+RENATA LARISSA SILVESTRE

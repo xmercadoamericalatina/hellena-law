@@ -1,0 +1,30 @@
+---
+titulo: "RESOLUÇÃO CRCDF Nº 227, DE 6 DE MAIO DE 2021"
+orgao: "Entidades de Fiscalização do Exercício das Profissões Liberais/Conselho Regional de Contabilidade do Distrito Federal"
+tipo: "Resolução"
+numero: "227"
+data: 2021-05-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/06/2021, seção 1, p. 130"
+data_publicacao: 2021-06-02
+edicao: "103"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-crcdf-n-227-de-6-de-maio-de-2021-323576881"
+sha256_html_fonte: 04f3bbf0c6f40b9e41e5b0542a8205e77501813cd24bbba4c48d35d7d88baeff
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO CRCDF Nº 227, DE 6 DE MAIO DE 2021
+
+RESOLUÇÃO CRCDF Nº 227, DE 6 DE MAIO DE 2021
+
+Abertura de Crédito Adicional Suplementar e Especial ao Orçamento de 2021 do CRCDF.
+
+O PRESIDENTE DO CONSELHO REGIONAL DE CONTABILIDADE DO DISTRITO FEDERAL - CRCDF, no uso de suas atribuições legais e regimentais; CONSIDERANDO a informação da Seção de Contabilidade e Orçamento do Regional; CONSIDERANDO a necessidade de orçar despesa que não foi estimada anteriormente; CONSIDERANDO a análise da execução orçamentária, onde foi verificada a necessidade de se proceder reforço as dotações orçamentárias. resolve:
+
+**Artigo 1º** - Abrir Crédito Adicional Suplementar e Especial ao Orçamento do Conselho Regional do Distrito Federal para o exercício de 2021, no valor de R$ 1.302.640,00 (um milhão, trezentos e dois mil e seiscentos e quarenta reais), nas seguintes dotações; SUPLEMENTA: 6 CONTROLES DO ORÇAMENTO - EXECUÇÃO; 6.3 EXECUÇÃO DA DESPESA; 6.3.1 DESPESAS CORRENTES; 6.3.1.1 PESSOAL E ENCARGOS; 6.3.1.1.01 PESSOAL E ENCARGOS; 6.3.1.1.01.03 BENEFÍCIOS A PESSOAL; 6.3.1.1.01.03.002 Programa de Alimentação ao Trabalhador R$ 200.000,00; 6.3.1.3 USO DE BENS E SERVIÇOS; 6.3.1.3.01 MATERIAL DE CONSUMO; 6.3.1.3.01.01 MATERIAL DE CONSUMO; 6.3.1.3.01.01.001 Materiais de Expediente R$ 10.000,00; 6.3.1.3.01.01.002 Impressos, Formulários e Papéis R$ 10.000,00; 6.3.1.3.01.01.007 Material para Divulgação R$ 6.000,00; 6.3.1.3.01.01.008 Materiais de Informática R$ 5.200,00; 6.3.1.3.01.01.010 Materiais Elétricos e de Telefonia R$ 1.800,00; 6.3.1.3.01.01.011 Materiais para Manutenção de Bens Móveis R$ 7.800,00; 6.3.1.3.01.01.012 Materiais para Manutenção de Bens Imóveis R$ 5.000,00; 6.3.1.3.01.01.015 Gêneros de Alimentação R$ 5.000,00; 6.3.1.3.01.01.016 Material de Higiene, Limpeza e Conservação R$ 6.000,00; 6.3.1.3.01.09 OUTROS MATERIAIS DE CONSUMO, 6.3.1.3.01.09.001 Outros Materiais de Consumo R$ 2.000,00; 6.3.1.3.02 SERVIÇOS; 6.3.1.3.02.01 SERVIÇOS; 6.3.1.3.02.01.001 Serviço de Auditoria e Perícia R$ 14.330,00; 6.3.1.3.02.01.002 Serviço de Assessoria e Consultoria R$ 5.000,00; 6.3.1.3.02.01.003 Serviços Advocatícios R$ 23.000,00; 6.3.1.3.02.01.004 Serviços de Instrutores R$ 8.200,00; 6.3.1.3.02.01.005 Serviços de Tecnologia da Informação R$ 25.000,00; 6.3.1.3.02.01.007 Serviços de Copa e Cozinha R$ 10.000,00; 6.3.1.3.02.01.008 Serviços de Limpeza, Conservação e Jardinagem R$ 130.000,00; 6.3.1.3.02.01.009 Serviços de Segurança Predial e Preventiva R$ 20.000,00; 6.3.1.3.02.01.010 Serviços de Medicina do Trabalho R$ 6.000,00; 6.3.1.3.02.01.011 Seleção, Treinamento e Org/Aplicação R$ 10.000,00; 6.3.1.3.02.01.012 Serviços de Intermediação de Estágio R$ 1.310,00; 6.3.1.3.02.01.013 Estágio R$ 28..800,00; 6.3.1.3.02.01.017 Serviços Fotográficos e Vídeos R$ 46.000,00; 6.3.1.3.02.01.018 Serviços de Divulgação Institucional R$ 40.000,00; 6.3.1.3.02.01.026 Locação de Bens Móveis, Máquinas e Equipamentos R$ 28.000,00; 6.3.1.3.02.01.028 Condomínios R$ 16.000,00; 6.3.1.3.02.01.029 Manutenção e Conservação Bens Móveis R$ 5.000,00; 6.3.1.3.02.01.031 Manutenção e Conservação de Veículos R$ 1.000,00; 6.3.1.3.02.01.032 Serviços de Energia Elétrica R$ 30.000,00; 6.3.1.3.02.01.034 Postagem de Correspondência de Cobrança R$ 50.000,00; 6.3.1.3.02.01.036 Serviços de Telecomunicações R$ 7.100,00; 6.3.1.3.02.01.037 Serviços de Internet R$ 5.600,00; 6.3.1.3.02.01.040 Publicações Técnicas R$ 15..000,00; 6.3.1.4 FINANCEIRAS; 6.3.1.4.01 FINANCEIRAS; 6.3.1.4.01.02 SERVIÇOS BANCÁRIOS; 6.3.1.4.01.02.001 Taxa sobre Serviços Bancários R$ 1.500,00; 6.3.1.4.01.02.002 Despesas com Cobrança R$ 50.000,00; 6.3.1.6 TRIBUTÁRIAS E CONTRIBUTIVAS; 6.3.1.6.01 TRIBUTÁRIAS E CONTRIBUTIVAS; 6.3.1.6.01.01 TRIBUTOS; 6.3.1.6.01.01.002 Impostos e Taxa R$ 8.000,00; 6.3.1.6.01.01.003 Despesas Judiciais R$ 10.000,00; 6.3.1.6.01.02 CONTRIBUIÇÕES; 6.3.1.6.01.02.001 Cota Parte R$ 212.000,00; 6.3.1.9 OUTRAS DESPESAS CORRENTES; 6.3.1.9..01 OUTRAS DESPESAS CORRENTES; 6.3.1.9.01.01 DEMAIS DESPESAS CORRENTES; 6.3.1.9.01.01.001 Sentenças Judiciais R$ 10.000,00; 6.3.1.9..01.01.002 Indenizações, Restituições e Reposições R$ 4.000,00; 6.3.2 DESPESAS DE CAPITAL; 6.3.2.1 INVESTIMENTOS; 6.3.2.1.01 OBRAS, INSTALAÇÕES E REFORMAS; 6.3.2.1.01.01 OBRAS, INSTALAÇÕES E REFORMAS; 6.3.2.1.01..01.001 Obras e Instalações R$ 10.000,00; 6.3.2.1.01.01.002 Reformas R$ 10.000,00; 6.3.2.1.03 EQUIPAMENTOS E MATERIAIS PERMANENTES; 6.3.2.1.03.01 EQUIPAMENTOS E MATERIAIS PERMANENTES; 6.3.2.1.03.01.006 Equipamentos de Processamento de Dados R$ 153.000,00; 6.3.2.1.05 INTANGÍVEL; 6.3.2.1.05.01 INTANGÍVEL; 6.3.2.1.05.01.002 Software R$ 50.000,00; TOTAL R$ 1.302.640,00.
+
+**Artigo 2º** - Para a abertura do presente Crédito Adicional serão utilizados recursos advindos do Provável Excesso de Arrecadação no exercício de 2021 no valor de R$ 1.302.640,00 (um milhão, trezentos e dois mil e seiscentos e quarenta reais), em conformidade com o item II do § 1º, art. 43, da Lei nº 4.320/64, conforme evidenciado no quadro abaixo. PROVÁVEL EXCESSO DE ARRECADAÇÃO: 6 CONTROLES DO ORÇAMENTO - EXECUÇÃO; 6.2 EXECUÇÃO DA RECEITA; 6.2.1 RECEITAS CORRENTES; 6.2.1.1 CONTRIBUIÇÕES; 6.2.1.1.01 ANUIDADES; 6.2.1.1.01.01 ANUIDADES; 6.2.1.1.01.01.001 Profissionais R$ 1.012.640,00; 6.2.1.1.01.01.002 Organizações Contábeis R$ 250..000,00; 6.2.1.9 OUTRAS RECEITAS CORRENTES; 6.2.1.9.01 MULTAS; 6.2.1.9.01.01 MULTAS POR AUSÊNCIA ÀS ELEIÇÕES; 6.2.1.9.01..01.001 Profissionais R$ 40.000,00; TOTAL R$ 1.302.640,00.
+
+**Artigo 3º** - Esta Resolução entra em vigor na data de sua assinatura.
+
+DANIEL C. FERNANDES
