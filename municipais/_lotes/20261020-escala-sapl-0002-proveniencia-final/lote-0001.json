@@ -1,0 +1,1214 @@
+{
+  "obtido_em": "2026-10-20T22:49:14.206251",
+  "baseline": "/tmp/constituicao-index-20261020-continuacao.z",
+  "baseline_sha256": "a424728b1798aae5662ce344200637c9dc3b621eca986d3d3a01b6ec22929285",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "criterio": "auditoria local de fonte individual SAPL; sem rede, sem Git, sem edição dos documentos",
+  "aprovados": [
+    {
+      "path": "municipais/MG/sem-peixe/leis-complementares/2025/leis-complementares-476-2025-sapl-46.md",
+      "sha256": "26883a63dc72220fcb7b09fd3e24d24f262a65253b71e1c7f0f4fa4b7d7142e3",
+      "sha256_corpo": "b02cd190d59faaf0e3a5e63e66461921dec6ff71aae01c037d39c945edaf795c",
+      "fonte": "https://sapl.sempeixe.mg.leg.br/norma/46",
+      "fonte_texto": "https://sapl.sempeixe.mg.leg.br/media/sapl/public/normajuridica/2025/46/476_alteracao_lc_425_professor_de_educacao_basica_peb_2.61643.pdf",
+      "codigo_ibge": "3165560",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.sempeixe.mg.leg.br/46.bin",
+          "sha256": "764e8483060670e6cb27ee26832a0bceca23d509746406821584281131c62153"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.sempeixe.mg.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/f29bfa947e54ec7eb6b83a62dd984505dacdf948b02f3ac1e36c7c79fc81c9e0.json",
+          "sha256": "f29bfa947e54ec7eb6b83a62dd984505dacdf948b02f3ac1e36c7c79fc81c9e0"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.sempeixe.mg.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/573c5b8fc41e64658e26d09fa6d46aeeb27d32cca88436f91f618b2685fbb66c.json",
+          "sha256": "573c5b8fc41e64658e26d09fa6d46aeeb27d32cca88436f91f618b2685fbb66c"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.sempeixe.mg.leg.br/c0b42b1b9d0a24461a1de8d36c77fa157f538b934d617d8e10d171a5b72bb78c.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/12bbae7ded35b676651cff590706a296ea2776e0588315fe92d3f3dbbf8492e2.json",
+          "sha256": "12bbae7ded35b676651cff590706a296ea2776e0588315fe92d3f3dbbf8492e2"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.sempeixe.mg.leg.br/8b23f3dbf3d5beada0d29254af5ac4b5cea1aa1a26407e8fd944b846ac3becdf.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/c3f80a5dcb570612040064ad23aad8ee425c1272cd20ea9e353d24e9773aa1da.json",
+          "sha256": "c3f80a5dcb570612040064ad23aad8ee425c1272cd20ea9e353d24e9773aa1da"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/MG/sem-peixe/leis-complementares/2025/leis-complementares-478-2025-sapl-48.md",
+      "sha256": "dcd81b163e20712d0cef7ff66063685b1c68187835d4973a87bb97d6e424cde7",
+      "sha256_corpo": "d7477b49b7b02f4e2b522517c8f5d46c96b13fab33a0c45dde5d38e90e79d7b7",
+      "fonte": "https://sapl.sempeixe.mg.leg.br/norma/48",
+      "fonte_texto": "https://sapl.sempeixe.mg.leg.br/media/sapl/public/normajuridica/2025/48/478_altera_art_87_lei_complementar__222.2010.pdf",
+      "codigo_ibge": "3165560",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.sempeixe.mg.leg.br/48.bin",
+          "sha256": "2c1ec069889477d3cce35eeea5f9450c764b4e872d14756a6c73156a23294ff5"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.sempeixe.mg.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/f29bfa947e54ec7eb6b83a62dd984505dacdf948b02f3ac1e36c7c79fc81c9e0.json",
+          "sha256": "f29bfa947e54ec7eb6b83a62dd984505dacdf948b02f3ac1e36c7c79fc81c9e0"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.sempeixe.mg.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/573c5b8fc41e64658e26d09fa6d46aeeb27d32cca88436f91f618b2685fbb66c.json",
+          "sha256": "573c5b8fc41e64658e26d09fa6d46aeeb27d32cca88436f91f618b2685fbb66c"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.sempeixe.mg.leg.br/c0b42b1b9d0a24461a1de8d36c77fa157f538b934d617d8e10d171a5b72bb78c.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/12bbae7ded35b676651cff590706a296ea2776e0588315fe92d3f3dbbf8492e2.json",
+          "sha256": "12bbae7ded35b676651cff590706a296ea2776e0588315fe92d3f3dbbf8492e2"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.sempeixe.mg.leg.br/8b23f3dbf3d5beada0d29254af5ac4b5cea1aa1a26407e8fd944b846ac3becdf.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/c3f80a5dcb570612040064ad23aad8ee425c1272cd20ea9e353d24e9773aa1da.json",
+          "sha256": "c3f80a5dcb570612040064ad23aad8ee425c1272cd20ea9e353d24e9773aa1da"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-69-2026-sapl-774.md",
+      "sha256": "258fd7556c3b5154a8649038b6a85a7305d1b1dde66c3a669612afe0f9d82a41",
+      "sha256_corpo": "53b6f483ff6e568b5cf54972ba6428b95d60f006d2d3d2cb0e025079547dc686",
+      "fonte": "https://sapl.bomjesusdoaraguaia.mt.leg.br/norma/774",
+      "fonte_texto": "https://sapl.bomjesusdoaraguaia.mt.leg.br/media/sapl/public/normajuridica/2026/774/resolucao_no_069-2026_-_regulamenta__a_lei_de_acesso_a_informacao_no_ambito_da_camara_municipal_-_lai_1.pdf",
+      "codigo_ibge": "5101852",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.bomjesusdoaraguaia.mt.leg.br/774.bin",
+          "sha256": "e970bc585a7090b75adc729ec86d965714f064c98fc88db2104141a183638351"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.bomjesusdoaraguaia.mt.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/bb8dce8ab95f2747606daab60f0edcd3106d1a53211641bdbe30ab3fdcf2e554.json",
+          "sha256": "bb8dce8ab95f2747606daab60f0edcd3106d1a53211641bdbe30ab3fdcf2e554"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.bomjesusdoaraguaia.mt.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/d9b1575a318ad2674d0cb472e4277bedba3f35520e672731b51a1db6c68096a4.json",
+          "sha256": "d9b1575a318ad2674d0cb472e4277bedba3f35520e672731b51a1db6c68096a4"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.bomjesusdoaraguaia.mt.leg.br/71935ba997298f0f546e8ba931a7538e92be9fd9691382d703aa917ec0dac272.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/f3c2b9832d64ea46b618a6f168cafe3129415cc1534de8461efa4518479c0e1a.json",
+          "sha256": "f3c2b9832d64ea46b618a6f168cafe3129415cc1534de8461efa4518479c0e1a"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.bomjesusdoaraguaia.mt.leg.br/af360a6b25ae7167fe01fe2862ed147a37638e26052474e81cf85193a9bc4050.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/67dc64f79724f2e184830e201c2a2cfd429f82d35d9f12bc57aad34cd91b916d.json",
+          "sha256": "67dc64f79724f2e184830e201c2a2cfd429f82d35d9f12bc57aad34cd91b916d"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2021/leis-complementares-592-2021-sapl-704.md",
+      "sha256": "332282cbaa07ce2359fd64e467e6c2e1d82026629cd907c5faa2a63196a0d707",
+      "sha256_corpo": "8301522503bd8e7272f27d4ed5a14d5747d7bd4fa1faa5c12525cc56e7b08e0f",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/704",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2021/704/lei_complementar_municipal_no_592_de_16_de_abril_de_2021.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/704.bin",
+          "sha256": "15c535bbeafdff13886e23a6ba086ef3745e4e71c180ecc82a3e59948902ac1c"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2023/leis-complementares-653-2023-sapl-720.md",
+      "sha256": "d33614bb586c6cd69354941e2214a9f2f5cadbd5fc35b4d0a39985f9e67dcf70",
+      "sha256_corpo": "c16538795ca1e96d25cb5d2a95bd4b0a3aeba06ef3f16956e35e65aaa8312d70",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/720",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2023/720/lei_complementar_municipal_no_653_de_06_de_dezembro_de_2023..pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/720.bin",
+          "sha256": "33491d03b85e42d0f1629cbc1d7cd7afc61fb8118e6491daa7de130afa14a635"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2024/leis-complementares-669-2024-sapl-715.md",
+      "sha256": "ad36ca62d0e665d66d69475c0d019eefb5139abeb7e6541708b9f4b0726a4245",
+      "sha256_corpo": "f8c2c8847e36decf8514fbb3eb377627f96184bb89c9810b119cf0f92bcc422d",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/715",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2024/715/lei_complementar_municipal_no_669_de_10_de_dezembro_de_2024.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/715.bin",
+          "sha256": "4b27ab236c939962011faf9702c9d53a516c6e68c33f0c67541e4936e8644141"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-674-2025-sapl-716.md",
+      "sha256": "7d3eb3a26cdb9914f28c775e5fb3e4b0efaf0d4e8eecf768d6613286a81d66ae",
+      "sha256_corpo": "c119334004ccfb9f2ef62c9ba83dfa82477c1bb0e4c0d5dece55d5c630002a43",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/716",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2025/716/lei_complementar_municipal_no_674_de_21_de_fevereiro_de_2025.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/716.bin",
+          "sha256": "71edc0ece2f30f9cb19e72b51a18fdb4b0de5d615645c9bc57929a2f6eccbd45"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-675-2025-sapl-717.md",
+      "sha256": "91947ba7581bbe141165e4d2f0dc634ee32f4362c8599132eaf810cf87f7952e",
+      "sha256_corpo": "fb98ffed0db14c2446464fcc138ab51269da74c017914a5628f8ad41897b6f2b",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/717",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2025/717/lei_complementar_municipal_no_675_de_21_de_fevereiro_de_2025.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/717.bin",
+          "sha256": "dbc714c3ceea8ccb3fc1019a48af0258415348cf1f279c736538701b0c930063"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-678-2025-sapl-719.md",
+      "sha256": "c5461d302d1680110bac699742ed9cea18dd3dd9531cb8046cd72abd512c00e5",
+      "sha256_corpo": "ecb631272ef19ba6cbea3a79482598d824970cc594bde62ae5eb41908f8a8cdc",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/719",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2025/719/lei_complementar_municipal_no_678_de_12_de_marco_de_2025.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/719.bin",
+          "sha256": "d56d548341089364b5b438917ea2b91abf7a608f5a7062708c06194536d6f9a2"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-702-2025-sapl-725.md",
+      "sha256": "b76621c7791c3be6a2057203007862770650fba6be6b201411a33d87a5a7ffe1",
+      "sha256_corpo": "f557994e470338edbf3a3475fe82a9196c28ac8dd1fa00d756d63566b618fcff",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/725",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2025/725/lei_complementar_municipal_no_702_de_16_de_outubro_de_2025.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/725.bin",
+          "sha256": "ff419eec9eb0fce44f8739e7eda1a34813060374043f48dbad8d67d92631e1b1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-705-2025-sapl-726.md",
+      "sha256": "03e6dfc82aed9a8eae9f70ace643f62ae87a3c99a2c477682814c5fb3d08591a",
+      "sha256_corpo": "f931cc8e1beb31b89c4eaaf0c216d4ef8cabf5cada3ca67738d988bb810989f4",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/726",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2025/726/lei_complementar_municipal_no_705_de_30_de_outubro_de_2025.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/726.bin",
+          "sha256": "cfc581ce6dff29e4a792d8d20bb665de9e149cb99ef6f25161c9a7f5a6163256"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-708-2025-sapl-727.md",
+      "sha256": "f981f5a52468ef610a4fb603d5632350b55c51e8c11a8f584dfd90e75b731369",
+      "sha256_corpo": "787d5dc8ff939f2648b285090e6aecf37ac2d7aa4b041478318f331309b03831",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/727",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2025/727/lei_complementar_municipal_no_708_de_30_de_outubro_de_2025.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/727.bin",
+          "sha256": "a638449f69289d2a870540dfb2d64ae0d071753a9db2c9e049760744b693cd34"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-716-2025-sapl-660.md",
+      "sha256": "facf5d4bfe1d1f8b33c263f9372f80354941023c34a9c0b239ed812a2fe40093",
+      "sha256_corpo": "ea666f04a02d678c30f092a782bb6c85cff7a8a230d794f4f03baef258c17b67",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/660",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2025/660/lei_complementar_municipal_no_716_de_26_de_novembro_de_2025.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/660.bin",
+          "sha256": "7d6806fd0f258972178d05d16dcce6e04c0e3fc9fe2286c3e25305269622ff8f"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-ordinarias/2013/leis-ordinarias-470-2013-sapl-440.md",
+      "sha256": "924f08c0505bf4cee4c75adc484e276a7507ae6c8dcbac6e1bce89e0811fbe30",
+      "sha256_corpo": "2ddd32f5569bd7dc77ee4fac8f3897dd8e6a3b070834d6f9d9d12d82da6f01e7",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/440",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2013/440/lei_municipal_no_470_de_25_de_marco_de_2013.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/440.bin",
+          "sha256": "2fa203f29abcc04214b14c2e7c4567523c6262fb190fd13e6517cc7aba9fbe01"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1995/resolucoes-1-1995-sapl-763.md",
+      "sha256": "75ecff0ed3179ecab437eaa3e121b9fcd04034901fa7a124fe494bbce8d6339b",
+      "sha256_corpo": "3988396a419d5b480c1827c76e76fb2c4bb65e7fc11ac3339446262eda4aaed5",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/763",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/1995/763/resolucao_no_01_de_16_de_maio_de_1995.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/763.bin",
+          "sha256": "66890ec8e05ad544aef8c84f21942e9c41545947c1a6044588e0e2b7cdd0ffa2"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1996/resolucoes-1-1996-sapl-746.md",
+      "sha256": "3290273b23bc29123420472556d5ba54125e78901e6ba7b5c14e94467465c643",
+      "sha256_corpo": "b5498d34679138f306c9824c4f2ef0a320df4d2ae0bc8c7e8e4c5cca2c6d5e7d",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/746",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/1996/746/resolucao_no_001_de_14_de_maio_de_1996.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/746.bin",
+          "sha256": "e200bad931b432bc5688f4275a4b931c8549ecb296e1a3bcdc84cbd48b1a8ac1"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1997/resolucoes-2-1997-sapl-755.md",
+      "sha256": "e07e3dcaaf1887cda998bdc5e15fc7a0c2790b5aac734d3bb6cff11e5de90f0f",
+      "sha256_corpo": "403c8084438b136f04eff9fa16f1281e6dda0fe6ad5e0e81dd84d3864fbff384",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/755",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/1997/755/resolucao_no_002_de_20_de_maio_de_1997.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/755.bin",
+          "sha256": "906ca064f6397cdfb34474723e44ee2cecc0331a7610830c67ba6eb6ef17853e"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1997/resolucoes-4-1997-sapl-757.md",
+      "sha256": "5ba79168d62e5639e2c4f291cf14c8f73936a4c12be584e68978fcff908c3a05",
+      "sha256_corpo": "7464a3f6d267fa4a28e0a8d3f66433f93e11bf16b883684e6d748b6270a7d264",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/757",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/1997/757/resolucao_no_004_de_19_de_agosto_de_1997.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/757.bin",
+          "sha256": "9686e0f19148cea86f48acc7a90d20122267a685db518a8e71df85ddce689774"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2004/resolucoes-2-2004-sapl-754.md",
+      "sha256": "bd4b1af4856d7498394ada6db8a3b3a6a569154cc8a333f85faca8787bc8d7de",
+      "sha256_corpo": "fe9bb610ed8fd38b4f6bc4a56f1afef7c9ce981d631864859b6536309371659f",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/754",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2004/754/resolucao_no_002_de_18_de_maio_de_2004.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/754.bin",
+          "sha256": "73672359ed2ccb5f8e69147e1d4ae46100f1057dac4d838e4a6504f911290319"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2006/resolucoes-1-2006-sapl-751.md",
+      "sha256": "759ccad8791616d9ec8eeeeee3239abf9d361e422978aae01ed97ab4477fb6c7",
+      "sha256_corpo": "a314c5668fdd8e70cc22d0e6c33fdc8245df4b66720842389c8b2059c919abf0",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/751",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2006/751/resolucao_no_01_de_02_de_janeiro_de_2006.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/751.bin",
+          "sha256": "665c41d412546d25523a144018628f00dc7e08bddad6ff15772c17b5a30464ee"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2010/resolucoes-1-2010-sapl-752.md",
+      "sha256": "2d9ea90d85411467d2b1ea0367d5ee02403ce654ddcc06df3b31491bfaf53607",
+      "sha256_corpo": "e3828ea23be277ed0ab23ccd92a80f64d0f9be7347b029591d1ebfe4bb6190a1",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/752",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2010/752/resolucao_no_01_de_27_de_abril_de_2010.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/752.bin",
+          "sha256": "dcef416c2fa99d9f32dee02fe3f6a1938d2fd0267d06254eb4c37cc3aad36b5b"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-2-2021-sapl-753.md",
+      "sha256": "bacf2b4202451b7f56319a59f230c502bda7b0442c08a19e9421a6429dde12cd",
+      "sha256_corpo": "19f4cf32e1c49adf097d65f32f9999e42eebecd9a42ef8ad2089aa7c895f5e41",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/753",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2021/753/resolucao_no_002_de_10_de_novembro_de_2021..pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/753.bin",
+          "sha256": "45fbfa8d0f76e5e70c1933dc3b245f58aadd95200fbfa96fe17556bf8dd8ef2b"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-5-2021-sapl-758.md",
+      "sha256": "92fa710d51e07a42dc3c5c3a96cbc085b2e4d374ab68bb6ad8565fb98aed40bb",
+      "sha256_corpo": "6bb4a65abc706cb4dc4ae89cd623b26bed8c3a2e3c8fd2f47d3d49ab436857cb",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/758",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2021/758/resolucao_no_005_de_10_de_dezembro_de_2021.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/758.bin",
+          "sha256": "feb56df3a4dd9dc06d276befd3da48c3d26241fece2ee1476f42e8e39001250c"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2022/resolucoes-6-2022-sapl-759.md",
+      "sha256": "e6422cf5c1daeea940aae2fe88a33e07217da617a7cb982b7bf62f6a9e33f328",
+      "sha256_corpo": "44a4e6160a4d0246d7c669065b77366a8efcb912a5359b716d5322fa3bc30a43",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/759",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2022/759/resolucao_no_006_de_03_de_fevereiro_de_2022.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/759.bin",
+          "sha256": "d58551f4fd8cc39ac30eb6e8829b9fe0a4e8308409dbb9911d0814fc00a5d746"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-10-2024-sapl-765.md",
+      "sha256": "e94ef68ea074b80f08c2f03c08af28dd21db91ccc0f8ef9b1fde861cf022974f",
+      "sha256_corpo": "37a93651881f517abef727794df323abf243510b2e1a2790819717eeab2b8185",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/765",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2024/765/resolucao_no_010_de_26_de_novembro_de_2024.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/765.bin",
+          "sha256": "307256c7e71ee31198273c1357685be6c5f8b14b83d132ff72f9ecd44548f42b"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-8-2024-sapl-761.md",
+      "sha256": "081137910b7b0197312d6d598f4adc0e5e0d5e9e592e6345370f9175a527e448",
+      "sha256_corpo": "bcf960472758ab25f9caa504115fa7c0b15504ad29e946113f491396e71eacc9",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/761",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2024/761/resolucao_no_008_de_01_de_janeiro_de_2024.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/761.bin",
+          "sha256": "90b77897729fa8cf269a936a96d487ea2a17104526beeaa03faf01be10f66d68"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-9-2024-sapl-764.md",
+      "sha256": "754569e73a99c67ce876a9757780c0397c03840db61d1a9d3dd07e4367b5548b",
+      "sha256_corpo": "b1b328eff0d0614170c3f4df9f560dea57f397284ee6379dd78eae95ceea598b",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/764",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2024/764/resolucao_no_009_de_18_de_junho_de_2024.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/764.bin",
+          "sha256": "82cf11fe26bab0e32f58a3258bcf297991ed284d3933995ef8326b64ff39e9d5"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2026/resolucoes-1-2026-sapl-750.md",
+      "sha256": "6f3b00777401e43a3c38f63f713d54c153cde9587497d3712eedff86d6eab17a",
+      "sha256_corpo": "20385a8c4be5ed00bf812a84652e3925a471b59eca45c21d6547b1859ce79ee3",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/750",
+      "fonte_texto": "https://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/normajuridica/2026/750/resolucao_no_001_25_de_marco_de_2026.pdf",
+      "codigo_ibge": "2514701",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/750.bin",
+          "sha256": "e9afb3c5da2e92a4ec2b0c7bd5cbb4774b53a1fee08d732343cc41340f0e6d6b"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639.json",
+          "sha256": "3581e9544503f5079d8b46dcd54cb6af63158a0fbc3ee3170a56f885387a1639"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564.json",
+          "sha256": "0468445bbaf36e590b9aec356f29ae0c451aa28aaeb6138bae89ffab8a543564"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/3b1ff11fbc769d8ff998dee013091080b53c11bcb565206f6e183b929b1ed24a.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156.json",
+          "sha256": "6ffa185b9007e5102c5a0171b2a30deffe02a4c4191d3dabc82aedaae9566156"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.saojosedosabugi.pb.leg.br/faecc188cfbe7897749f5905d1d095f103cdc205da0d5151898ca14193ea96f6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c.json",
+          "sha256": "34d4b8fe8fba3ebbcf3e2f12a418b2a04f82cd1beaa68e01b803a54a6800328c"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    }
+  ],
+  "retidos": []
+}

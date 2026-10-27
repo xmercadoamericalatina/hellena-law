@@ -1,0 +1,865 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Fortaleza</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Fortaleza",
+      "url" : "http://sapl.fortaleza.ce.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          21/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/logo_casa.png"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Fortaleza
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/1828?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/1471/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei Ordinária nº 9.490, de 17 de julho de 2009
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei Ordinária</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>9490</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>2009</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>17 de Julho de 2009</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>DESAFETA AS ÁREAS PÚBLICAS QUE MENCIONA E AUTORIZA AÇÕES DE HABITAÇÃO POPULAR E DÁ OUTRAS PROVIDÊNCIAS.</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/1471/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt42881" ><div class="dtxt" id="d42881" pks="" pk="42881"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt42882" ><a class="dpt-link" name="42882" title="42882"></a><div class="dtxt" id="d42882" pks="" pk="42882">Desafeta as áreas públicas que menciona e autoriza ações de habitação popular e dá outras providências.</div></div><div class="dn" id="dn42882" pk="42882"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt42883" ><a class="dpt-link" name="42883" title="42883"></a><div class="dtxt" id="d42883" pks="" pk="42883">FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:</div></div><div class="dn" id="dn42883" pk="42883"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt42884" ><div class="dtxt" id="d42884" pks="" pk="42884"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt42885" ><div class="dtxt" id="d42885" pks="" pk="42885"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt42886" ><a class="dpt-link" name="42886">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d42886" pks="" pk="42886">Fica modificada a destinação das seguintes áreas públicas oriundas do Loteamento São Cristóvão, registrado sob a matrícula n. 2.726 do Cartório de Registro de Imóveis da 2ª Zona de Fortaleza, passando a ser destinadas para Habitação de Interesse Social.</div></div><div class="dn" id="dn42886" pk="42886"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt42887" ><div class="dtxt" id="d42887" pks="" pk="42887"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt42888" ><a class="dpt-link" name="42888">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d42888" pks="" pk="42888">As áreas públicas que passam a ser destinadas para Habitação de Interesse Social, extremando e medindo, sendo:</div></div><div class="dn" id="dn42888" pk="42888"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt42889" ><a class="dpt-link" name="42889" title="42889">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d42889" pks="" pk="42889">SETOR A, partindo da esquina norte da Avenida Castelo de Castro com a Avenida Contorno Leste, segue por esta aproximadamente 200m (duzentos metros) no sentido sudeste até o ponto 01 (A! - coordenadas UTM 9.576.630 N, 553.371 E); dai segue no sentido nordeste a distância aproximada de 20m (vinte metros) até o ponto 02 (A2 - coordenadas UTM 9.576.630 N, 553.379 E); dai segue no sentido leste a distância aproximada de 3m (três metros) até o ponto 03 (A3 - coordenadas UTM 9.576.648 N, 553.381 E); dai segue no sentido nordeste a distância aproximada de 23m (vinte metros) até o ponto 04 (A4 - coordenadas UTM 9.576.670 N, 553.381 E), localizado na Rua Ada Pimentel; dai segue no sentido sudeste a distância aproximada de 24m (vinte e quatro metros) até o ponto  05 (A5 - coordenadas UTM 9.576.665 N, 553.411 E) localizado na Rua Ada Pimentel; dai segue no sentido norte a distância aproximada de 33m (trinta e três metros) até o ponto 06 (A6 - coordenadas UTM 9.576.665 N, 553.411 E), localizado na Rua Bastos Sobrinho, dai segue no sentido sudeste a distância aproximada de 47m (quarenta e sete metros) até o ponto 07 (A7 - coordenadas UTM 9.576.693 N, 553.459 E), localizado na Rua Bastos Sobrinho, dai segue no sentido leste a distância aproximada de 7m (sete metros) até o ponto 08 (A8 - coordenadas UTM 9.576.693 N 553.466 E), localizado no encontro da Rua Bastos sobrinho com a Rua Largo Verde; dai segue no sentido noroeste a distância aproximada de 32m (trinta e dois metros) até o ponto 09 (A9 - coordenadas UTM 9.576.718 N, 553.461 E), localizado na rua Largo Verde, dai segue no sentido nordeste a distância de 45 m (quarenta e cinco metros) até o ponto 10 (A10 - coordenadas UTM 9.576.727 N, 553.502 E), localizado na Rua roberto Rios; dai segue no sentido noroeste a distância aproximada de 38m (trinta e oito metros) até o ponto 11 (A11 - coordenadas UTM 9.576.765 N, 553.495 E), localizado  no encontro da Rua Roberto Rios com a rua José Pinto, dai segue no sentido nordeste a distância aproximada de 46m (quarenta e seis metros) até o ponto 12 (12A - coordenada UTM 9.576.776 N, 553.540 E), localizado no encontro da Rua José Pinto com a Rua Maronildo de Queiroz, dai segue o ponto 13 (A13 - coordenadas UTM 9.576.698 N, 553.570 E) localizado na Rua Maronildo de Queiroz, dai segue no sentido sudeste a distância aproximada de 54m (cinquenta e quatro metros) até o ponto 14 (A14 - coordenadas UTM 9.576.675 N, 553.618 E), localizado na Rua Maronildo de Queiroz, dai segue no sentido sudoeste a distância aproximada de 35 m (trinta e cinco metros) até o ponto 15 (15A - coordenadas UTM 9.576.642 N, 553.607 E), localizado na rua Maronildo de Queiroz, dai segue no sentido sudeste a distância aproximada de 10m (dez metros) até o ponto 16 (16A - coordenadas UTM 9.576.638 N, 553.616 E), localizado na Rua Maronildo de Queiroz, dai segue no sentido sudoeste a distância de 50m (cinquenta metros) até o ponto 17 (A17 - coordenadas UTM 9.576.593 N, 553.596 E), localizado no encontro da Rua Ada Pimentel com a Rua Jair Rodrigues, dai segue no sentido sudeste a distância aproximada de 12m (doze metros) até o ponto 18 (A18 - coordenadas UTM 9.576.586 N, 553.605 E), localizado na Rua Ada Pimentel, dai segue no sentido sudeste a distância aproximada de 33m (trinta e três metros) até o ponto 19 (A19 - coordenadas UTM 9.576.569 N, 553.634 E) localizado na rua Ada Pimentel, dai segue no sentido sudeste a distância aproximada de 35m (trinta e cinco metros) até o ponto 20 (A20 - coordenadas UTM 9.576.546 N, 553.660 E), localizada na Rua Ada Pimentel, dai segue no sentido sudeste a distância aproximada de 26m  (vinte e seis metros) até o ponto 21 (A21 - coordenadas UTM 9.576.527 N, 553.679 E), localizado na rua Ada Pimentel, dai segue no sentido sudeste a distância aproximada de 23m (vinte e três metros) até o ponto 22 (A22 - coordenadas UTM 9.576.508 N, 553.692 E), localizado na rua Ada Pimentel, dai segue no sentido sudeste a distância aproximada de 49m (quarenta e nove metros) até o ponto 23 (A23 - coordenadas UTM 9.576.468 N, 553.721 E), localizado na Rua Ada Pimentel, dai segue no sentido sudeste a distância aproximada de 38m (trinta e oito metros) até o ponto 24 (A24 - coordenadas UTN 9.576.434 N, 553.739 E), localizado na rua Ada Pimentel, dai segue no sentido sudeste a distância aproximada de 96m (noventa e seis metros) até o ponto 25 (A25 - coordenadas UTM 9.576.354 N, 553.793 E), localizado na Rua Ada Pimentel, dai segue no sentido sudeste a distância aproximada de 28m (vinte e oito metros) até o ponto 26 (A26 - coordenadas UTM 9.576.335 N, 553.813 E), localizado na Rua Ada Pimentel dai segue no sentido sudoeste a distância aproximada de 48m (quarenta e oito metros) até o ponto 27 (A27 - coordenadas UTM 9.576 N, 553.785 E) localizado na Avenida Contorno Leste, dai segue no sentido noroeste a distância aproximada de 25m (vinte e cinco metros) até o ponto 28 (A28 - coordenadas UTM 9.576.310 N, 553.765 E) localizado na Avenida Contorno Leste, dai segue no sentido noroeste a distância aproximada de 60m (sessenta metros) até o ponto 29 (A29 - coordenadas UTM 9.576.359 N, 553.730 E), localizado na Avenida Contorno Leste, dai segue no sentido noroeste a distância aproximada de 53m (cinquenta e três metros) até o ponto 30 (A30 - coordenadas UTM 9.576.402 N, 553.700 E) localizado na Avenida Contorno Leste, dai segue no sentido noroeste a distância aproximada de 58m (cinquenta e oito metros) até o ponto 31 (A31 - coordenadas UTM 9.576.450 N, 553.668 E), localizado na Avenida Contorno Leste, dai segue no sentido noroeste a distância aproximada de 50m (cinquenta metros) até o ponto 32 (A32 - coordenadas UTM 9.576.492 N, 553.640 E), localizado na Avenida Contorno Leste, dai segue no sentido noroeste a distância aproximada de 25m (vinte e cinco metros) até o ponto 33 (A33 - coordenadas UTM 9.576.511 N, 553.623 E), localizado na Avenida Contorno Leste, dai segue no sentido noroeste a distância aproximada de 15m (quinze metros) até o ponto 34 (A34 - coordenadas UTM 9.576.521 N, 553.612 E) localizado na Avenida Contorno Leste, dai segue no sentido noroeste a distâncai aproximada de 42m (quarenta e dois metros) até o ponto 35 (A35 - coordenadas UTM 9.576.547 N, 553.579 E), localizado na Avenida Contorno Leste; dai segue no sentido noroeste a distância aproximada de 36m (trinta e seus metros) até o ponto 36 (A36 - coordenadas UTM 9.576.566 N, 553.548 E), localizado na Avenida Contorno Leste; daí segue no sentido noroeste a distância aproximada de 67m (sessenta e sete metros) até o ponto 37 (A37 - coordenadas UTM 9.576.591 N, 553.487 E), localizado na Avenida Contorno Leste,; dai segue no sentido noroeste a distância aproximada de 120m (cento e vinte metros) até o ponto 01 inicial, encerrando uma área aproximadamente 45.295m² (quarenta e cinco mil, duzentos e noventa e cinco metros quadrados), com base no geoprocessamento oficial da Prefeitura Municipal de Fortaleza;</div></div><div class="dn" id="dn42889" pk="42889"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt42890" ><a class="dpt-link" name="42890" title="42890">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d42890" pks="" pk="42890">SETOR B, partindo da esquina da Avenida Presidente Costa e silva (Perimetral) com a Rua 513, segue por esta aproximadamente 54m (cinquenta e quatro metros) no sentido sudoeste até o ponto 01 (B1 - coordenadas UTM 9.576.852 N, 553.897 E); dai segue no sentido sudoeste a distância aproximada de 33m (trinta e três metros) até o ponto 02 (B2 - coordenadas UTM 9.576.823 N, 553.881 E), localizado na Rua 513; dai segue no sentido sudoeste a distância aproximada de 102m (cento e dois metros) até o ponto 03 (B3 - coordenadas UTM 9.576.736 N, 553.828 E), localizado no encontro da Rua 513 com a Rua José Pinto; dai segue no sentido sudoeste a distância aproximada de 50m (cinquenta metros) até o ponto 04 (B4 - coordenadas UTM 9.576.691 N, 553.805 E), localizado na Rua 513; dai segue no sentido sudeste a distância aproximada de 125m (cento e vinte e cinco metros) até o ponto 05 (B5 - coordenadas UTM 9.576.627 N, 553.912 E), localizado na Rua 515; dai segue no sentido sudoeste a distância aproximada de 88m (oitenta e oito metros) até o ponto 06 (B6 - coordenadas UTM 9.576.551 N, 553.869 E), localizado no encontro da Rua 7 de setembro com a Rua 1º Abril; dai segue no sentido sudoeste a distância aproximada de 88m (oitenta e oito metros) até o ponto 07 (B7 - coordenadas UTM 9.576.510 N, 553.946 E) localizado na Rua 1º de Abril; dai segue no sentido sudoeste a distância aproximada de 114m (cento e catorze metros) até o ponto 08 (B8 - coordenadas UTM 9.576.410 N, 553.889 E), localizado na rua 04 de Julho; dai segue no sentido noroeste a distância aproximada de 32m (trinta e dois metros) até o ponto 09 (B9 - coordenadas UTM 9.576.429 N, 553.864 E), localizado na rua 04 de Julho; dai segue no sentido noroeste a distância aproximada de 64m (sessenta e quatro metros) até o ponto 10 (B10 - coordenadas UTM 9.576.471 N, 553.816 E), localizado na Rua 04 de Julho; dai segue no sentido noroeste a distância aproximada de 30m (trinta metros) até o ponto 11 (B11 - coordenadas UTM 9.576.490 N, 553.793 E), localizado na rua 04 de Julho; dai segue no sentido noroeste a distância aproximada de 32m (trinta e dois metros) até o ponto 12 (B12 - coordenadas UTM 9.576.520 N, 553.780 E), localizado na Rua 09 de Agosto; dai segue no sentido nordeste a distância aproximada de 64m (sessenta e quatro metros) até o ponto 13 (B13 - coordenadas UTM 9.576.580 N, 553.803 E), localizado na rua 09 de Agosto; dai segue no sentido noroeste a distância aproximada de 90m (noventa metros) até o ponto 14 (B14 - coordenadas UTM 9.576.667 N, 553.782 E) localizado na Rua Jair Rodrigues; dai segue no sentido noroeste a distância aproximada de 14m (catorze metros) até o ponto 15 (B15 - coordenadas UTM 9.576.681 N, 553.777 E), localizado próximo à Rua Jair Rodrigues; dai segue no sentido nordeste a distância aproximada de 15m (quinze metros) até o ponto 16 (B16 - coordenadas UTM 9.576.695 N, 553.780 E), localizado na Rua Carlos Mendes; dai segue no sentido noroeste a distância aproximada de 20m (vinte metros) até o ponto 17 (B17 - coordenadas UTM 9.576.702 N, 553.761 E), localizado na Rua Carlos Mendes; dai segue no sentido noroeste a distância aproximada de 34m (trinta e quatro metros) até o ponto 18 (B18 - coordenadas UTM 9.576.708 N, 553.727 E), localizado na Rua Carlos Mendes; dai segue no sentido noroeste a distância aproximada de 30m (trinta metros) até o ponto 19 (B19 - coordenadas UTM 9.576.717 N, 553.698 E), localizado na Rua CArlos Mendes; dai segue no sentido nordeste a distância aproximada de 40m (quarenta metros) até o ponto 20 (B20 - coordenadas UTM 9.576.756 N, 553.706 E), localizado na rua Manoel Castro; dai segue no sentido oeste a distância aproximada de 60m (sessenta metros) até o ponto 21 (B21 - coordenadas UTM 9.576.763 N, 553.646 E), localizado na Rua Manoel Castro; dai segue no sentido noroeste a distância aproximada de 25m (vinte e cinco metros) até o poto 22 (B22 - coordenadas UTM 9.576.786 N, 553.637 E), localizado entre as Ruas Manoel de Castro e José Pinto; dai segue no sentido noroeste a distância aproximada de 21m (vinte e um metros) até o ponto 23 (B23 - coordenadas UTM 9.576.805 N, 553.629 E) localizado na Rua José Pinto; dai segue no sentido noroeste a distância aproximada de 42m (quarenta e dois metros) até o ponto 24 (B24 - coordenadas UTM 9.576.847 N, 553.624 E), localizado na Rua Maria Rodrigues; dai segue no sentido norte a distância aproximada de 7m (sete metros) até o ponto 25 (B25 - coordenadas UTM 9.576.854 N, 553.625 E), localizado na Rua Maria Rodrigues; dai segue no sentido sudoeste a distância aproximada de 64m (sessenta e quatro metros) até o ponto 26 (B26 - coordenadas UTM 9.576.849 N, 553.689 E), localizada na rua Maria Rodrigues; dai segue no sentido sudoeste a distância aproximada de 49m (quarenta e nove metros) até o ponto 27 (B27 - coordenadas UTM 9.576.842 N, 553.766 E), localizado na Rua Maria Rodrigues; dai segue no sentido sudoeste a distância aproximada de 29m (vinte e nove metros) até o ponto 28 (B28 -coordenadas UTM 9.576.837 N, 553.766 E), localizado na Rua Maria Rodrigues; dai segue no sentido sudeste a distância aproximada de 32m (trinta e dois metros) até o ponto 29 (B29 - coordenadas UTM 9.576.822 N, 553.794 E), localizado no encontro da Rua Maria Rodrigues com a Rua Manoel de Castro; dai segue no sentido nordeste a distância aproximada de 45m (quarenta e cinco metros) até o ponto 30 (B30 - coordenadas UTM 9.576.859 N, 553.820 E), localizado na Rua Manoel de Castro; dai segue no sentido sudeste a distância aproximada de 31m (trinta e um metros) até o ponto 31 (B31 - coordenadas UTM 9.576.841 N, 553.846 E), localizado na Travessa Francisca Tarciana Rocha; dai segue no sentido nordeste a distância aproximada de 27m (vinte e sete metros) até o ponto 32 (B32 - coordenadas UTM 9.576.865 N, 553.859 E), localizado na Travessa Francisca Tarsiana Rocha;dai segue no sentido sudeste a distância aproximada de 40m (quarenta metros) até o ponto 01 inicial , encerrando uma área de aproximadamente 53.324m² (cinquenta e três mil, trezentos e vinte quatro metros quadrados), com base no geoprocessamento oficial da Prefeitura Municipal de Fortaleza.</div></div><div class="dn" id="dn42890" pk="42890"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt42891" ><a class="dpt-link" name="42891" title="42891">Parágrafo único </a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d42891" pks="" pk="42891">As áreas ora desafetadas são parte do imóvel destinado como área verde/praça, oriundo do Loteamento Conjunto São Cristóvão, registrado sob a Matrícula n. 2.726 do Cartório de Registros de Imóvel da 2ª Zona de Fortaleza, com total de 300.457,89m² (trezentos mil, quatrocentos e cinquenta e sete metros e oitenta e nove centímetros quadrados), ressalvando-se que o remanescente do referido imóvel permanecerá destinado como área verde/praça.</div></div><div class="dn" id="dn42891" pk="42891"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt42892" ><div class="dtxt" id="d42892" pks="" pk="42892"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt42893" ><a class="dpt-link" name="42893">Art. 3º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d42893" pks="" pk="42893">Ficam o Município de Fortaleza, por seu Poder Executivo, e a Fundação de Desenvolvimento Habitacional de Fortaleza (HABITAFOR) autorizados a realizar, nas áreas especificadas nesta Lei, a urbanização, regularização fundiária da posse e/ou o reassentamento popular das famílias da Comunidade Campo Estrela, de acordo com o Termo de Referência elaborado pela HABITAFOR.</div></div><div class="dn" id="dn42893" pk="42893"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt42894" ><a class="dpt-link" name="42894" title="42894">Parágrafo único </a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d42894" pks="" pk="42894">As ações habitacionais de que trata esta Lei deverão ser realizadas mediante prévio cadastramento de cada família ocupante da área pública e da sua respectiva unidade habitacional, contendo endereço, limites e confiantes, sendo concedido o título de posse gravado com cláusula de pessoalidade, intransferibilidade, inalienabilidade e indelegabilidade.</div></div><div class="dn" id="dn42894" pk="42894"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt42895" ><div class="dtxt" id="d42895" pks="" pk="42895"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt42896" ><a class="dpt-link" name="42896">Art. 4º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d42896" pks="" pk="42896">As ações habitacionais ora propostas não implicam a perda da propriedade e do domínio, bem como a posse indireta do Município sobre a área, não deixando ela de ser pública, podendo o Município de Fortaleza retomar a unidade habitacional cuja família tenha vendido, transferido, emprestado, cedido ou alienado a sua posse, não tendo o adquirente ou novo possuidor direito de retenção e de indenização das benfeitorias realizadas, ainda que necessárias.</div></div><div class="dn" id="dn42896" pk="42896"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt42897" ><div class="dtxt" id="d42897" pks="" pk="42897"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt42898" ><a class="dpt-link" name="42898">Art. 5º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d42898" pks="" pk="42898">Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.</div></div><div class="dn" id="dn42898" pk="42898"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt42899" ><div class="dtxt" id="d42899" pks="" pk="42899"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt42900" ><a class="dpt-link" name="42900" title="42900"></a><div class="dtxt" id="d42900" pks="" pk="42900"><h3 style="text-align: center;"><strong>Paço da Prfeitura Municipal de Fortaleza em 17 de julho de 2009.<br><br><br><br></strong>LUIZIANNE DE OLIVEIRA LINS<br>Prefeita Municipal de Fortaleza</h3></div></div><div class="dn" id="dn42900" pk="42900"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div>
+
+
+</div>
+
+  <div class="dont-break-out"></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Fortaleza</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Dr. Thompson Bulcão, 830</span>
+                  <br>
+                  CEP: <span class="postal-code">60810-460</span>
+                  |
+                  Telefone: <span>(85) 3444-8300</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="http://www.cmfor.ce.gov.br" class="url">Site</a> |
+                  <a href="mailto:cogel.cmfor@gmail.com.br" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+    
+
+    
+  </body>
+</html>

@@ -1,0 +1,165 @@
+{
+  "aplicado": true,
+  "plano": {
+    "path": "municipais/_lotes/20261020-anexos-capturados/plano-integracao-caceres-48-49-53.json",
+    "sha256": "e6810d9416913305026671d42c50fe55497d7322e75a94d485a862679ee099f6"
+  },
+  "script_sha256": "370c22e20e99c5901ac76fafd812b5ebcdcfcc38845204e4ec57a57418cd0d27",
+  "aprovados": [
+    {
+      "path": "municipais/MT/caceres/emendas-lei-organica/2023/emendas-lei-organica-48-2023-sapl-1125.md",
+      "sha256": "6971702d19e6b243e18e57f42c9131b475e8963b946715037717f412f60acf9d",
+      "sha256_anterior": "3aa8629aec73003c9d82c5f76f2fa0fd31fbd5656e87af70f7796b6d1e5c761e",
+      "sha256_fonte_adicional": "b80981ceb48b34dd4dcda0be50b37609647ad2cb68717efd77426012722bc0ae",
+      "url_fonte_adicional": "https://sapl.caceres.mt.leg.br/media/sapl/public/anexonormajuridica/2023/411/emenda_a_lei_organica_48_de_17-07-2023_isaias.pdf",
+      "modo": "alternativa_integral",
+      "tokens_adicionais_ou_substitutos": 601,
+      "sha256_layout": "e6b1ba30dbd5b3c415fc1fa1638ca84c09e41fb193c227407d48cb1cfd2ed4f1",
+      "imagens": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     165   200  rgb     3   8  jpeg   no        20  0   278   300 15.3K  16%\n   1     1 smask     165   200  gray    1   8  image  no        20  0   278   300 3068B 9.3%\n   1     2 image     512   512  rgb     3   8  image  no        11  0  1300  1300 6366B 0.8%\n   1     3 smask     512   512  gray    1   8  image  no        11  0  1300  1300 1277B 0.5%\n   2     4 image     165   200  rgb     3   8  jpeg   no        20  0   278   300 15.3K  16%\n   2     5 smask     165   200  gray    1   8  image  no        20  0   278   300 3068B 9.3%\n   2     6 image     512   512  rgb     3   8  image  no        11  0  1300  1300 6366B 0.8%\n   2     7 smask     512   512  gray    1   8  image  no        11  0  1300  1300 1277B 0.5%\n   3     8 image     512   512  rgb     3   8  image  no        11  0   650   650 6366B 0.8%\n   3     9 smask     512   512  gray    1   8  image  no        11  0   650   650 1277B 0.5%\n   3    10 image     320   320  rgb     3   8  image  no        13  0   406   406 23.5K 7.8%\n   3    11 image     400   400  rgb     3   8  image  no        14  0  2032  2032 3804B 0.8%\n   3    12 smask     400   400  gray    1   8  image  no        14  0  2032  2032 1305B 0.8%\n   3    13 image     400   400  rgb     3   8  image  no        14  0  2032  2032 3804B 0.8%\n   3    14 smask     400   400  gray    1   8  image  no        14  0  2032  2032 1305B 0.8%\n   3    15 image     400   400  rgb     3   8  image  no        14  0  2032  2032 3804B 0.8%\n   3    16 smask     400   400  gray    1   8  image  no        14  0  2032  2032 1305B 0.8%\n   3    17 image     400   400  rgb     3   8  image  no        14  0  2032  2032 3804B 0.8%\n   3    18 smask     400   400  gray    1   8  image  no        14  0  2032  2032 1305B 0.8%\n   3    19 image     400   400  rgb     3   8  image  no        14  0  2032  2032 3804B 0.8%\n   3    20 smask     400   400  gray    1   8  image  no        14  0  2032  2032 1305B 0.8%\n",
+      "revisao": {
+        "path": "municipais/MT/caceres/emendas-lei-organica/2023/emendas-lei-organica-48-2023-sapl-1125.md",
+        "sha256_md_antes": "3aa8629aec73003c9d82c5f76f2fa0fd31fbd5656e87af70f7796b6d1e5c761e",
+        "arquivo": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.caceres.mt.leg.br/411.bin",
+        "sha256_arquivo": "b80981ceb48b34dd4dcda0be50b37609647ad2cb68717efd77426012722bc0ae",
+        "url": "https://sapl.caceres.mt.leg.br/media/sapl/public/anexonormajuridica/2023/411/emenda_a_lei_organica_48_de_17-07-2023_isaias.pdf",
+        "modo": "alternativa_integral",
+        "identidade_regex": "EMENDA\\s+À\\s+LEI\\s+ORGÂNICA\\s+Nº\\s+48,\\s+DE\\s+17\\s+DE\\s+JULHO\\s+DE\\s+2023",
+        "titulo_secao": "Emenda à Lei Orgânica nº48/2023 — documento assinado individual",
+        "nota_editorial": "Transcrição integral preformatada da alternativa individual assinada disponibilizada como anexo da mesma norma no SAPL. O arquivo anteriormente cadastrado e seu Markdown permanecem preservados para auditoria. Brasão e gráficos de autenticação permanecem na fonte PDF; todos os textos nativos, inclusive assinaturas, são reproduzidos abaixo. A divergência literal entre VII na ementa e VIII no art.1º existe no próprio documento e foi preservada, sem correção editorial.",
+        "descricao_revisao": "alternativa oficial individual assinada, integralmente transcrita e revisada",
+        "sha256_pdfimages": "a329576ac0a498425e9f37483208e9f9f709ff1d31da61384a0521d0ed60a434",
+        "evidencias_visuais": [
+          {
+            "path": "municipais/_referencias/auditorias/anexos-caceres-20261020/411/pagina-1.png",
+            "sha256": "2f84d75205b6044732f674431b6275f2d07c6a591b5b731fa9057e613cb78209",
+            "revisao": "Página inteira inspecionada diretamente. Imagens restritas a brasão e gráficos de autenticação1Doc/QR/confirmação; texto normativo em camada nativa, sem tabelas ou mapas rasterizados."
+          },
+          {
+            "path": "municipais/_referencias/auditorias/anexos-caceres-20261020/411/pagina-2.png",
+            "sha256": "83d613848b2368abac7c4e509f928b6547b68a7df59c566eb50cdcbbaaf6e3ae",
+            "revisao": "Página inteira inspecionada diretamente. Imagens restritas a brasão e gráficos de autenticação1Doc/QR/confirmação; texto normativo em camada nativa, sem tabelas ou mapas rasterizados."
+          },
+          {
+            "path": "municipais/_referencias/auditorias/anexos-caceres-20261020/411/pagina-3.png",
+            "sha256": "3359d130dc6b09be600c0faa012ab9d5c56b062b6748754a00925f77f9264462",
+            "revisao": "Página inteira inspecionada diretamente. Imagens restritas a brasão e gráficos de autenticação1Doc/QR/confirmação; texto normativo em camada nativa, sem tabelas ou mapas rasterizados."
+          }
+        ]
+      },
+      "backup": {
+        "path": "municipais/_fonte/auditorias/anexos-integrados/3aa8629aec73003c9d82c5f76f2fa0fd31fbd5656e87af70f7796b6d1e5c761e.md",
+        "sha256": "3aa8629aec73003c9d82c5f76f2fa0fd31fbd5656e87af70f7796b6d1e5c761e"
+      }
+    },
+    {
+      "path": "municipais/MT/caceres/emendas-lei-organica/2023/emendas-lei-organica-49-2023-sapl-1133.md",
+      "sha256": "4e19de9c45ef3b4e2751c6eb6c04f31ed1817a428906c69ad2623d885c495e6c",
+      "sha256_anterior": "0e41656a3576408733a05ade6dc88c2427cb391c694e006f33e90819399a7af9",
+      "sha256_fonte_adicional": "2768aaf204509a45539790405bf1051e2bb2ac57703a00f09b16790fa5f09ea4",
+      "url_fonte_adicional": "https://sapl.caceres.mt.leg.br/media/sapl/public/anexonormajuridica/2023/419/emenda_a_lei_organica_49_de_17-07-2023_isaias.pdf",
+      "modo": "alternativa_integral",
+      "tokens_adicionais_ou_substitutos": 1220,
+      "sha256_layout": "ebc7cf67bdd7669907139eb6baf4120015b40493a1f39d07c1deee50c08ac2ed",
+      "imagens": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     165   200  rgb     3   8  jpeg   no        26  0   278   300 15.3K  16%\n   1     1 smask     165   200  gray    1   8  image  no        26  0   278   300 3068B 9.3%\n   1     2 image     512   512  rgb     3   8  image  no        15  0  1300  1300 6366B 0.8%\n   1     3 smask     512   512  gray    1   8  image  no        15  0  1300  1300 1277B 0.5%\n   2     4 image     165   200  rgb     3   8  jpeg   no        26  0   278   300 15.3K  16%\n   2     5 smask     165   200  gray    1   8  image  no        26  0   278   300 3068B 9.3%\n   2     6 image     512   512  rgb     3   8  image  no        15  0  1300  1300 6366B 0.8%\n   2     7 smask     512   512  gray    1   8  image  no        15  0  1300  1300 1277B 0.5%\n   3     8 image     165   200  rgb     3   8  jpeg   no        26  0   278   300 15.3K  16%\n   3     9 smask     165   200  gray    1   8  image  no        26  0   278   300 3068B 9.3%\n   3    10 image     512   512  rgb     3   8  image  no        15  0  1300  1300 6366B 0.8%\n   3    11 smask     512   512  gray    1   8  image  no        15  0  1300  1300 1277B 0.5%\n   4    12 image     165   200  rgb     3   8  jpeg   no        26  0   278   300 15.3K  16%\n   4    13 smask     165   200  gray    1   8  image  no        26  0   278   300 3068B 9.3%\n   4    14 image     512   512  rgb     3   8  image  no        15  0  1300  1300 6366B 0.8%\n   4    15 smask     512   512  gray    1   8  image  no        15  0  1300  1300 1277B 0.5%\n   5    16 image     512   512  rgb     3   8  image  no        15  0   650   650 6366B 0.8%\n   5    17 smask     512   512  gray    1   8  image  no        15  0   650   650 1277B 0.5%\n   5    18 image     320   320  rgb     3   8  image  no        17  0   406   406 23.3K 7.8%\n   5    19 image     400   400  rgb     3   8  image  no        18  0  2032  2032 3804B 0.8%\n   5    20 smask     400   400  gray    1   8  image  no        18  0  2032  2032 1305B 0.8%\n   5    21 image     400   400  rgb     3   8  image  no        18  0  2032  2032 3804B 0.8%\n   5    22 smask     400   400  gray    1   8  image  no        18  0  2032  2032 1305B 0.8%\n   5    23 image     400   400  rgb     3   8  image  no        18  0  2032  2032 3804B 0.8%\n   5    24 smask     400   400  gray    1   8  image  no        18  0  2032  2032 1305B 0.8%\n   5    25 image     400   400  rgb     3   8  image  no        18  0  2032  2032 3804B 0.8%\n   5    26 smask     400   400  gray    1   8  image  no        18  0  2032  2032 1305B 0.8%\n   5    27 image     400   400  rgb     3   8  image  no        18  0  2032  2032 3804B 0.8%\n   5    28 smask     400   400  gray    1   8  image  no        18  0  2032  2032 1305B 0.8%\n",
+      "revisao": {
+        "path": "municipais/MT/caceres/emendas-lei-organica/2023/emendas-lei-organica-49-2023-sapl-1133.md",
+        "sha256_md_antes": "0e41656a3576408733a05ade6dc88c2427cb391c694e006f33e90819399a7af9",
+        "arquivo": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.caceres.mt.leg.br/419.bin",
+        "sha256_arquivo": "2768aaf204509a45539790405bf1051e2bb2ac57703a00f09b16790fa5f09ea4",
+        "url": "https://sapl.caceres.mt.leg.br/media/sapl/public/anexonormajuridica/2023/419/emenda_a_lei_organica_49_de_17-07-2023_isaias.pdf",
+        "modo": "alternativa_integral",
+        "identidade_regex": "EMENDA\\s+À\\s+LEI\\s+ORGÂNICA\\s+Nº\\s+49,\\s+DE\\s+17\\s+DE\\s+JULHO\\s+DE\\s+2023",
+        "titulo_secao": "Emenda à Lei Orgânica nº49/2023 — documento assinado individual",
+        "nota_editorial": "Transcrição integral preformatada da alternativa individual assinada disponibilizada como anexo da mesma norma no SAPL. O arquivo anteriormente cadastrado e seu Markdown permanecem preservados para auditoria. Brasão e gráficos de autenticação permanecem na fonte PDF; todos os textos nativos, inclusive assinaturas, são reproduzidos abaixo.",
+        "descricao_revisao": "alternativa oficial individual assinada, integralmente transcrita e revisada",
+        "sha256_pdfimages": "61527f4a5702cfde4aec6f78b6fbe8300d1615f53d9a7ffc18934dae8b1ac534",
+        "evidencias_visuais": [
+          {
+            "path": "municipais/_referencias/auditorias/anexos-caceres-20261020/419/pagina-1.png",
+            "sha256": "50f48018ceb54f8e889dd9bb761a8c2822ad35c14a99e8d31b9ffb8a41bfe3d9",
+            "revisao": "Página inteira inspecionada diretamente. Imagens restritas a brasão e gráficos de autenticação1Doc/QR/confirmação; texto normativo em camada nativa, sem tabelas ou mapas rasterizados."
+          },
+          {
+            "path": "municipais/_referencias/auditorias/anexos-caceres-20261020/419/pagina-2.png",
+            "sha256": "f5d29b3607bbe9005fd8f07cc05ded6b098886c83697f081cffde1b62c26d078",
+            "revisao": "Página inteira inspecionada diretamente. Imagens restritas a brasão e gráficos de autenticação1Doc/QR/confirmação; texto normativo em camada nativa, sem tabelas ou mapas rasterizados."
+          },
+          {
+            "path": "municipais/_referencias/auditorias/anexos-caceres-20261020/419/pagina-3.png",
+            "sha256": "e081b33fcd2d5f5229ec42ed52857a3994b37f83a93b491332130c5d5a920601",
+            "revisao": "Página inteira inspecionada diretamente. Imagens restritas a brasão e gráficos de autenticação1Doc/QR/confirmação; texto normativo em camada nativa, sem tabelas ou mapas rasterizados."
+          },
+          {
+            "path": "municipais/_referencias/auditorias/anexos-caceres-20261020/419/pagina-4.png",
+            "sha256": "ccc89155cba0d3463b4adc7f38f088ce0a7fcc65fe5aba2dc004c409ddf0433d",
+            "revisao": "Página inteira inspecionada diretamente. Imagens restritas a brasão e gráficos de autenticação1Doc/QR/confirmação; texto normativo em camada nativa, sem tabelas ou mapas rasterizados."
+          },
+          {
+            "path": "municipais/_referencias/auditorias/anexos-caceres-20261020/419/pagina-5.png",
+            "sha256": "e02b2c2b2c19eee856a0daecb0198927e4ba8a7baf421cf79ffb0ecd8ac0a895",
+            "revisao": "Página inteira inspecionada diretamente. Imagens restritas a brasão e gráficos de autenticação1Doc/QR/confirmação; texto normativo em camada nativa, sem tabelas ou mapas rasterizados."
+          }
+        ]
+      },
+      "backup": {
+        "path": "municipais/_fonte/auditorias/anexos-integrados/0e41656a3576408733a05ade6dc88c2427cb391c694e006f33e90819399a7af9.md",
+        "sha256": "0e41656a3576408733a05ade6dc88c2427cb391c694e006f33e90819399a7af9"
+      }
+    },
+    {
+      "path": "municipais/MT/caceres/emendas-lei-organica/2025/emendas-lei-organica-53-2025-sapl-2226.md",
+      "sha256": "bcbd31f76878d5d160aa2ca99c3973788de291aa8a82b1ab7c2c3fb4e5cb7cc4",
+      "sha256_anterior": "fdef25eb12b40499799078c6d3fe55cbcb2cf36d58562a5ef47ce6472e06cb34",
+      "sha256_fonte_adicional": "4e3b46536b47891bc337099bea64b30b4ed23103e902e94906846d70cf8dc70f",
+      "url_fonte_adicional": "https://sapl.caceres.mt.leg.br/media/sapl/public/anexonormajuridica/2025/1266/emenda_a_lei_organica_53_de_25-11-2025.pdf",
+      "modo": "alternativa_integral",
+      "tokens_adicionais_ou_substitutos": 1482,
+      "sha256_layout": "53691419bf32c74f982946b15fe76e4aefc577b99d34a912a75abb834511e808",
+      "imagens": "page   num  type   width height color comp bpc  enc interp  object ID x-ppi y-ppi size ratio\n--------------------------------------------------------------------------------------------\n   1     0 image     512   512  rgb     3   8  image  no        15  0  1300  1300 6634B 0.8%\n   1     1 smask     512   512  gray    1   8  image  no        15  0  1300  1300 1271B 0.5%\n   2     2 image     512   512  rgb     3   8  image  no        15  0  1300  1300 6634B 0.8%\n   2     3 smask     512   512  gray    1   8  image  no        15  0  1300  1300 1271B 0.5%\n   3     4 image     512   512  rgb     3   8  image  no        15  0  1300  1300 6634B 0.8%\n   3     5 smask     512   512  gray    1   8  image  no        15  0  1300  1300 1271B 0.5%\n   4     6 image     512   512  rgb     3   8  image  no        15  0  1300  1300 6634B 0.8%\n   4     7 smask     512   512  gray    1   8  image  no        15  0  1300  1300 1271B 0.5%\n   5     8 image     512   512  rgb     3   8  image  no        15  0   650   650 6634B 0.8%\n   5     9 smask     512   512  gray    1   8  image  no        15  0   650   650 1271B 0.5%\n   5    10 image     320   320  rgb     3   8  image  no        17  0   406   406 1703B 0.6%\n   5    11 image     400   400  rgb     3   8  image  no        18  0  2032  2032 3912B 0.8%\n   5    12 smask     400   400  gray    1   8  image  no        18  0  2032  2032 1535B 1.0%\n   5    13 image     400   400  rgb     3   8  image  no        18  0  2032  2032 3912B 0.8%\n   5    14 smask     400   400  gray    1   8  image  no        18  0  2032  2032 1535B 1.0%\n   5    15 image     400   400  rgb     3   8  image  no        18  0  2032  2032 3912B 0.8%\n   5    16 smask     400   400  gray    1   8  image  no        18  0  2032  2032 1535B 1.0%\n   5    17 image     400   400  rgb     3   8  image  no        18  0  2032  2032 3912B 0.8%\n   5    18 smask     400   400  gray    1   8  image  no        18  0  2032  2032 1535B 1.0%\n   5    19 image     400   400  rgb     3   8  image  no        18  0  2032  2032 3912B 0.8%\n   5    20 smask     400   400  gray    1   8  image  no        18  0  2032  2032 1535B 1.0%\n",
+      "revisao": {
+        "path": "municipais/MT/caceres/emendas-lei-organica/2025/emendas-lei-organica-53-2025-sapl-2226.md",
+        "sha256_md_antes": "fdef25eb12b40499799078c6d3fe55cbcb2cf36d58562a5ef47ce6472e06cb34",
+        "arquivo": "municipais/_fonte/auditorias/anexos-sapl/arquivos/sapl.caceres.mt.leg.br/1266.bin",
+        "sha256_arquivo": "4e3b46536b47891bc337099bea64b30b4ed23103e902e94906846d70cf8dc70f",
+        "url": "https://sapl.caceres.mt.leg.br/media/sapl/public/anexonormajuridica/2025/1266/emenda_a_lei_organica_53_de_25-11-2025.pdf",
+        "modo": "alternativa_integral",
+        "identidade_regex": "EMENDA\\s+À\\s+LEI\\s+ORGÂNICA\\s+Nº\\s+53,\\s+DE\\s+16\\s+DE\\s+DEZEMBRO\\s+DE\\s+2025",
+        "titulo_secao": "Emenda à Lei Orgânica nº53/2025 — documento assinado individual",
+        "nota_editorial": "Transcrição integral preformatada da alternativa individual assinada disponibilizada como anexo da mesma norma no SAPL. O arquivo anteriormente cadastrado e seu Markdown permanecem preservados para auditoria. Brasão e gráficos de autenticação permanecem na fonte PDF; todos os textos nativos, inclusive assinaturas, são reproduzidos abaixo. A cláusula do art.2º sobre efeitos financeiros e execução orçamentária a partir da LOA2027 está integralmente preservada. O nome do arquivo menciona outra data, mas a epígrafe e o encerramento do documento dizem16/12/2025.",
+        "descricao_revisao": "alternativa oficial individual assinada, integralmente transcrita e revisada",
+        "sha256_pdfimages": "4536a82be01456a724f3dd56c954dcc3eee8ac78fdad6adb617c13b0eeedee78",
+        "evidencias_visuais": [
+          {
+            "path": "municipais/_referencias/auditorias/anexos-caceres-20261020/1266/pagina-1.png",
+            "sha256": "024537ddfb35ee187b00a92210bfe1fc8dd4b36bb1cda0d8ff623bda5e6507a3",
+            "revisao": "Página inteira inspecionada diretamente. Imagens restritas a brasão e gráficos de autenticação1Doc/QR/confirmação; texto normativo em camada nativa, sem tabelas ou mapas rasterizados."
+          },
+          {
+            "path": "municipais/_referencias/auditorias/anexos-caceres-20261020/1266/pagina-2.png",
+            "sha256": "829fdaba097a3c24701b99773ad8c4b993164ca46ac5258294547241feca3566",
+            "revisao": "Página inteira inspecionada diretamente. Imagens restritas a brasão e gráficos de autenticação1Doc/QR/confirmação; texto normativo em camada nativa, sem tabelas ou mapas rasterizados."
+          },
+          {
+            "path": "municipais/_referencias/auditorias/anexos-caceres-20261020/1266/pagina-3.png",
+            "sha256": "49c3ac0200685d27cf57f5b8e3a34f8c617b32049aec6af674eb6356ed148612",
+            "revisao": "Página inteira inspecionada diretamente. Imagens restritas a brasão e gráficos de autenticação1Doc/QR/confirmação; texto normativo em camada nativa, sem tabelas ou mapas rasterizados."
+          },
+          {
+            "path": "municipais/_referencias/auditorias/anexos-caceres-20261020/1266/pagina-4.png",
+            "sha256": "54f872fce3169cc8367abf41c5c23b45b3a7da5f09044e1a9877cdc29aa726b1",
+            "revisao": "Página inteira inspecionada diretamente. Imagens restritas a brasão e gráficos de autenticação1Doc/QR/confirmação; texto normativo em camada nativa, sem tabelas ou mapas rasterizados."
+          },
+          {
+            "path": "municipais/_referencias/auditorias/anexos-caceres-20261020/1266/pagina-5.png",
+            "sha256": "97b853440e0945c5ab7e0142f0cf3e11b3ea08f356ab2893f0f4e39c6dd14973",
+            "revisao": "Página inteira inspecionada diretamente. Imagens restritas a brasão e gráficos de autenticação1Doc/QR/confirmação; texto normativo em camada nativa, sem tabelas ou mapas rasterizados."
+          }
+        ]
+      },
+      "backup": {
+        "path": "municipais/_fonte/auditorias/anexos-integrados/fdef25eb12b40499799078c6d3fe55cbcb2cf36d58562a5ef47ce6472e06cb34.md",
+        "sha256": "fdef25eb12b40499799078c6d3fe55cbcb2cf36d58562a5ef47ce6472e06cb34"
+      }
+    }
+  ]
+}

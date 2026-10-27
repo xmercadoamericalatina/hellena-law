@@ -1,0 +1,36 @@
+{
+  "host": "sapl.planalto.sp.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/1/tabela_de_referencias_-_projeto_de_lei_no_02-2012_-_lei_no_035-2012_-_pdf_pesquisavel.pdf da norma Lei Ordinária-EXEC nº 35, de 14 de junho de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.planalto.sp.leg.br/media/sapl/public/anexonormajuridica/2012/1/tabela_de_referencias_-_projeto_de_lei_no_02-2012_-_lei_no_035-2012_-_pdf_pesquisavel.pdf",
+      "ano": 2012,
+      "norma": 1257
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/2/anexo_ldo_2027___lei_012.2026.pdf da norma Lei Ordinária-EXEC nº 12, de 09 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.planalto.sp.leg.br/media/sapl/public/anexonormajuridica/2026/2/anexo_ldo_2027___lei_012.2026.pdf",
+      "ano": 2026,
+      "norma": 2959
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.planalto.sp.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.planalto.sp.leg.br/439bc9ca60666698e15c0e72826e31eb76d2a32c414851df23fe5de5bbc2c240.json",
+      "sha256": "d83f9afa64812718353bd9e8c33c8d7d9f68e0cdda0e4d36d5323741877a4d41",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.planalto.sp.leg.br/439bc9ca60666698e15c0e72826e31eb76d2a32c414851df23fe5de5bbc2c240.meta.json"
+    }
+  ],
+  "total": 2
+}

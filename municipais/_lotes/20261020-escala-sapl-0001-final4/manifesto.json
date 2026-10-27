@@ -1,0 +1,327 @@
+{
+  "normas": 4,
+  "candidatos_auditados": 1000,
+  "retidos": 996,
+  "criterio": "PDF nativo integral; todosobjetosdeimagem vistos porhash (brasões/máscara); anexosAPIcompleta; colunas/emissoressemalerta; quatroepígrafes/fechosvistos; vetorial0candidatos; municipal4/0; proveniência4/0; colisões0.",
+  "tabela": "LC82/2026:7colunas1linha recompostas após visão direta; mesmaspalavras/números da tabela original, restantedocorpoidêntico.",
+  "datas": "LC80=27/02/2026;LC82=01/06/2026;Lei1814=12/01/2015;Lei1815=23/02/2015, conferidas na epígrafe/fecho/imagem.",
+  "limite": "Edição individual da fonte, não certifica vigência integral.996retidos não integram seleção; não promoveOCRcomparandoextratoresconsigo.",
+  "arquivos": [
+    {
+      "arquivo": "municipais/MG/campestre/leis-complementares/2026/leis-complementares-80-2026-sapl-559.md",
+      "sha256": "074aa652c081dbb55dbb27a986760169deb3f411a24cdbd9668fc085044d4d41",
+      "bytes": 2254
+    },
+    {
+      "arquivo": "municipais/MG/campestre/leis-complementares/2026/leis-complementares-82-2026-sapl-1087.md",
+      "sha256": "60b09b2dc0db80c366a14e273fc02f0150c6b396d09085ff5b2d2c2840726edf",
+      "bytes": 2479
+    },
+    {
+      "arquivo": "municipais/MG/campestre/leis-ordinarias/2015/leis-ordinarias-1814-2015-sapl-1679.md",
+      "sha256": "78e7e00ce585aee3eedad288808cf66f48a857ce8b0ba897018b9bd8b1d977fe",
+      "bytes": 1625
+    },
+    {
+      "arquivo": "municipais/MG/campestre/leis-ordinarias/2015/leis-ordinarias-1815-2015-sapl-1680.md",
+      "sha256": "e14bcd4ac129568d80531c8a9566b1f34e77947d567192d985acc50921f69240",
+      "bytes": 2221
+    },
+    {
+      "arquivo": "municipais/_fonte/auditorias/anexos-sapl/sapl.campestre.mg.leg.br/9c49b695d545a48ce4a75bb15b424f48428df1fcdb97b425e442e19bb58120ae.json",
+      "sha256": "7b4b7ef1600d326a58bebf2f70c09fa3d1049ed6a7e89fd3bd588e3f6eaeb7d4",
+      "bytes": 3005
+    },
+    {
+      "arquivo": "municipais/_fonte/auditorias/anexos-sapl/sapl.campestre.mg.leg.br/9c49b695d545a48ce4a75bb15b424f48428df1fcdb97b425e442e19bb58120ae.meta.json",
+      "sha256": "89e073e5207dbe18b887d56c2ec9293af2a7ca0e30738debadf1b910590f8e0c",
+      "bytes": 281
+    },
+    {
+      "arquivo": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0722f72924a6472ad4ed0e474447e9fbc3d48208f6622ee55bcdeb43f700ad7c/1/imagem-000.png",
+      "sha256": "9bf0de9707a37d94ba9a572cf3385a2bc34058234fe7929cb1d2aac47f23f3cd",
+      "bytes": 17821
+    },
+    {
+      "arquivo": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0722f72924a6472ad4ed0e474447e9fbc3d48208f6622ee55bcdeb43f700ad7c/1/imagem-001.png",
+      "sha256": "6f259fec49f7cd5d19f8ad3eb46558945b9be975b8f39e0483288e990fc6e802",
+      "bytes": 141
+    },
+    {
+      "arquivo": "municipais/_fonte/auditorias/catalogo-imagens-sapl/dc1559abea0925411594cf996319a55a1112e91dcfdd89adc8cae91d4685f335/1/imagem-000.png",
+      "sha256": "9df2eb50e6f1fd8874325088abdd86e0548cbf679772a63f283b8d93b8364c8e",
+      "bytes": 12420
+    },
+    {
+      "arquivo": "municipais/_fonte/auditorias/integralidade-pdf-sapl/02e132b839cd096ca665a45944d0e4d084a00128e53b53697dc25974f06b5ee9.json.gz",
+      "sha256": "4a0093647cfaa20065cb133fddb4a10ab519f9ab7a524fff9520c5a92ebc3f89",
+      "bytes": 6682
+    },
+    {
+      "arquivo": "municipais/_fonte/auditorias/integralidade-pdf-sapl/0722f72924a6472ad4ed0e474447e9fbc3d48208f6622ee55bcdeb43f700ad7c.json.gz",
+      "sha256": "9365a26929d9785b7525cd06edfd4f3925ca7a08ca54e13ba286ee2eb33a9dd5",
+      "bytes": 6148
+    },
+    {
+      "arquivo": "municipais/_fonte/auditorias/integralidade-pdf-sapl/3d27fdea49a35f36e690887c058fc7e3a48868af5c6aa0fb6fbd511a776b7196.json.gz",
+      "sha256": "4ec9d9854c6063b0d52d847983e29a180b1c19b07dbe44798ce05525ea1f119f",
+      "bytes": 6482
+    },
+    {
+      "arquivo": "municipais/_fonte/auditorias/integralidade-pdf-sapl/dc1559abea0925411594cf996319a55a1112e91dcfdd89adc8cae91d4685f335.json.gz",
+      "sha256": "f87c9cc51f2ace35c34e71db5b3e9df0f19f16debd0b7662d9e405c7d0524c8f",
+      "bytes": 4570
+    },
+    {
+      "arquivo": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9f64e5fc7c6195b7725eb1dbbd383e5d2cb1438b5d4bd10947955220a1c2f602.json",
+      "sha256": "9f64e5fc7c6195b7725eb1dbbd383e5d2cb1438b5d4bd10947955220a1c2f602",
+      "bytes": 13878
+    },
+    {
+      "arquivo": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9ff70603f1556205e9646e6a5dd87204ff9b22ec8f7e0e8509ea066b6a576e8d.json",
+      "sha256": "9ff70603f1556205e9646e6a5dd87204ff9b22ec8f7e0e8509ea066b6a576e8d",
+      "bytes": 1674
+    },
+    {
+      "arquivo": "municipais/_fonte/auditorias/lotes-sapl/evidencias/bdc1dc7f38e27a255b73b277b9ffa2d948c715593a934e8e86549f632688eda6.json",
+      "sha256": "bdc1dc7f38e27a255b73b277b9ffa2d948c715593a934e8e86549f632688eda6",
+      "bytes": 1691033
+    },
+    {
+      "arquivo": "municipais/_fonte/auditorias/lotes-sapl/evidencias/c41afd7324c952db1bd34922d2c9ba237d94c8670e178d4206cf6779bf7d8ec9.json",
+      "sha256": "c41afd7324c952db1bd34922d2c9ba237d94c8670e178d4206cf6779bf7d8ec9",
+      "bytes": 735
+    },
+    {
+      "arquivo": "municipais/_fonte/organicas-sapl/sapl.campestre.mg.leg.br/1087.bin",
+      "sha256": "3d27fdea49a35f36e690887c058fc7e3a48868af5c6aa0fb6fbd511a776b7196",
+      "bytes": 158743
+    },
+    {
+      "arquivo": "municipais/_fonte/organicas-sapl/sapl.campestre.mg.leg.br/1679.bin",
+      "sha256": "dc1559abea0925411594cf996319a55a1112e91dcfdd89adc8cae91d4685f335",
+      "bytes": 12281
+    },
+    {
+      "arquivo": "municipais/_fonte/organicas-sapl/sapl.campestre.mg.leg.br/1680.bin",
+      "sha256": "02e132b839cd096ca665a45944d0e4d084a00128e53b53697dc25974f06b5ee9",
+      "bytes": 13203
+    },
+    {
+      "arquivo": "municipais/_fonte/organicas-sapl/sapl.campestre.mg.leg.br/559.bin",
+      "sha256": "0722f72924a6472ad4ed0e474447e9fbc3d48208f6622ee55bcdeb43f700ad7c",
+      "bytes": 171818
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-campestre82-tabela/documento-anterior.md",
+      "sha256": "2c19dc568c190a13b58e87ba82e209b52e21fde4f2c7a5fbf2b9a4281764f5f6",
+      "bytes": 2312
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-campestre82-tabela/manifesto.json",
+      "sha256": "0510452549e92536fab68c87321e97a7187afd041c7dd86ac975e2e9375073d8",
+      "bytes": 1550
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-anexos/aprovados.paths.txt",
+      "sha256": "2f6e9e71db189944ecb8693abe698be212b375c73c6387369f12f0ec64073770",
+      "bytes": 6064
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-anexos/entrega-final.json",
+      "sha256": "577c6615e4cb7aa12ece913fb074b4cf1d565503391fe037278a05f84b677838",
+      "bytes": 1305
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-anexos/host-sapl.campestre.mg.leg.br.json",
+      "sha256": "359a82d22da94fe9deb6842ced5ae95f626ad61b79fe38a42b888b53a1e58b52",
+      "bytes": 5251
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-anexos/host-sapl.cmm.am.gov.br.json",
+      "sha256": "dde5f74bfcfc2f8d63a80c772a397eeb7b485963abbb0b1f7d2b8a8699cf54a3",
+      "bytes": 94324
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-anexos/host-sapl.vilanovadosmartirios.ma.leg.br.json",
+      "sha256": "57cfcdaa33e1f389c0734c0becc288f48033f9fe23c69e864a29c3d1789d8c18",
+      "bytes": 699
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-anexos/overlay.json",
+      "sha256": "1e9f5ef9ffbe3ca35fdf642227d535693cb3890c644f877b3a102d6f4f77bd2d",
+      "bytes": 51344
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-anexos/retidos.paths.txt",
+      "sha256": "95c0012992c82b00fb3be9e139e666d9f0617f983bded571fd164db5d627e45f",
+      "bytes": 1140
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-catalogo/catalogo.json",
+      "sha256": "6181010297ff70307cb1aa95efb7424cfdf4d4fea0dd82b6cb9281b098cd3bc4",
+      "bytes": 3143
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-catalogo/documentos.jsonl",
+      "sha256": "b4e2e35892eed67f30993112fb02bfc5410a2f3c4c046f655424f69cc47f2e9e",
+      "bytes": 33846
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-catalogo/revisao.json",
+      "sha256": "da22f0aa38173294c39155378c280a93998154adf30a3b3061a8703a1bf8da3e",
+      "bytes": 1294
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-colunas/controle.json",
+      "sha256": "dd976a71d23fa8dafcd9fe8ee04003887850b46bb8f88fbe14c3456b206e356b",
+      "bytes": 107897
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-decorativos/entrega-final.json",
+      "sha256": "c050b719b91fa846f226ae181dcc4f637f1aa69aa6253f8e7f03acc109366d92",
+      "bytes": 827
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-decorativos/lote-0001.json",
+      "sha256": "9ff620e08447083bd6d16edcf64eac3cb953105b640c6d6d4e08a3a2f63522ba",
+      "bytes": 5691
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-decorativos/lote-0001.paths.txt",
+      "sha256": "60fa2b91eda2b11079972a138f759b06ea0598d1a6a396ad0b24ea6e5be539dd",
+      "bytes": 347
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-decorativos/retidos.json",
+      "sha256": "2d13299313d657584d8112b77044d51466ce75076367f1f902f73ef2880385c6",
+      "bytes": 15931
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-emissores/controle.json",
+      "sha256": "edd44e8c773e72db1adef12cff6c467394ab4b93c535a987ff0a080ef99df162",
+      "bytes": 56776
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-final4/colisoes.json",
+      "sha256": "c75f037c2dd0a2f493b925d8f08ac8bc4bd2f0676bbb4f9408f559b1c092592b",
+      "bytes": 138
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-imagens/aprovados.paths.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-imagens/entrega-final.json",
+      "sha256": "63ca66d35296cb391e037f2d9f78df738e5d5f753b3c65ff1140991989adcaec",
+      "bytes": 1102
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-imagens/resultados.jsonl",
+      "sha256": "5587a28798a871c04b5c586d2afa36c3203635a4ef8dfe0257e865e85b79bdec",
+      "bytes": 288830
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-imagens/retidos.paths.txt",
+      "sha256": "626be525789eb1c5a297a255d217b51c6a6ffd434b2d185f294da053285a1800",
+      "bytes": 84390
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-integral/aprovados.paths.txt",
+      "sha256": "27cb410da3cf93a50159448888a61ce7df5f22b28b9ffa8c79bfbf3c984130e8",
+      "bytes": 7204
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-integral/entrega-final.json",
+      "sha256": "cd0fe327c424c5e568daaf3bfc7d5db2785733d571ec6a16acf25ead9fb8bb2f",
+      "bytes": 1147
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-integral/resultados.jsonl",
+      "sha256": "d2b7cc5d0e3c96329496c94af104ecc8a9263ee4a6ca660269d4ecee59a20379",
+      "bytes": 1372030
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-integral/retidos.paths.txt",
+      "sha256": "9075f116c76d9adfa9bbfa69397dfe723f1c0f1d1a138f14dbcbade381300c3c",
+      "bytes": 77186
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-proveniencia-final4/lote-0001.json",
+      "sha256": "cbdb0520c6d6362a2a4842c4e33e9fc963c2e73fcf2af97dd92f082c87fc1b49",
+      "bytes": 10873
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-proveniencia-final4/lote-0001.paths.txt",
+      "sha256": "60fa2b91eda2b11079972a138f759b06ea0598d1a6a396ad0b24ea6e5be539dd",
+      "bytes": 347
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-tachados/1087.json",
+      "sha256": "1c9fc1008f084b541638f7c9a882e7f6fe731e8c5844d5cf0cf2d283a7c36932",
+      "bytes": 206
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-tachados/1679.json",
+      "sha256": "322be6159456b57714d1fe1d1f23456908c6925bbbbdba87dab7268eec6c186e",
+      "bytes": 206
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-tachados/1680.json",
+      "sha256": "c7bd4f11f2bd905fd2887608d4498714fecaf2cffc5ec21f471b532997a45cb9",
+      "bytes": 206
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-tachados/559.json",
+      "sha256": "480891e03fd101d9c7cada2ea3236f602ca5c2d5f0a1625f92f164285222395d",
+      "bytes": 205
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-tachados/controle.json",
+      "sha256": "897dd1c9b5f57f920046619a45a52fd9beaf3aeadcd9e137c13475b68e7d1637",
+      "bytes": 1285
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001/auditoria-municipal-final4.json",
+      "sha256": "2a6db94c380237065bbe58dd21b0b3c5a4d144f5c797bac5675c4137c4fd874d",
+      "bytes": 704
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001/candidatos.paths.txt",
+      "sha256": "007ef3d7cdebf79ba320441f3fe106e36e8887bebc93ede1a07b4ad04a812e47",
+      "bytes": 84390
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001/snapshot.json",
+      "sha256": "82c9f7512406c6d23c7fa1ec55a174d0a692ee56be7f6de9526110a1335ba40d",
+      "bytes": 221946
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/escala-sapl-0001-identidade/campestre-1087-1.png",
+      "sha256": "39b0141c773c7d062beb760ea7d7875360f18fd178db208900e25ab90760bcb4",
+      "bytes": 215808
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/escala-sapl-0001-identidade/campestre-1679-1.png",
+      "sha256": "4f87ba138e06ed32eb4c8b9e7aca978ddd908ecf5b3981f903ce67c688b38c42",
+      "bytes": 142769
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/escala-sapl-0001-identidade/campestre-1680-1.png",
+      "sha256": "a81b0f3cea6c24a2ef21b8642f73071dbbe28d4cd5fea9aae026416dcd173215",
+      "bytes": 191913
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/escala-sapl-0001-identidade/campestre-559-1.png",
+      "sha256": "841e954868a11abd0940a40b32db975117fa6ff20f89139381b72813ae3e7ddd",
+      "bytes": 209487
+    },
+    {
+      "arquivo": "scripts/restaurar_tabela_campestre82.py",
+      "sha256": "380499bfb7a882180c53d4115a6741217acd96a35735f2a6451575b9bf3de113",
+      "bytes": 3587
+    }
+  ],
+  "bytes": 5435194
+}

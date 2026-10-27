@@ -1,0 +1,941 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Amontada</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Amontada",
+      "url" : "http://sapl.amontada.ce.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          21/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/Novo_Logo_da_Câmara_P6QOwZA.jpeg"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Amontada
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/678?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/1166/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei nº 675, de 17 de junho de 2006
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>675</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>2006</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>17 de Junho de 2006</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>Altera a redação do artigo 15, da Lei nº 669/2006 de 02 de junho de 2006, que institui sobre alteração do Regime Próprio de Seguridade Social do Município de Amontada.</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/1166/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+          <div class="text-info col-12 small">
+            <b>Altera o(a)</b>&nbsp;
+            <a href="/norma/672">
+              Lei nº 669, de 02 de junho de 2006
+            </a>
+          </div>
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt47046" ><div class="dtxt" id="d47046" pks="" pk="47046"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt47047" ><a class="dpt-link" name="47047" title="47047"></a><div class="dtxt" id="d47047" pks="" pk="47047">Altera a redação do artigo 15, da Lei nº 669/2006 de 02 de junho de 2006, que institui sobre alteração do Regime Próprio de Seguridade Social do Município de Amontada.</div></div><div class="dn" id="dn47047" pk="47047"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt47048" ><a class="dpt-link" name="47048" title="47048"></a><div class="dtxt" id="d47048" pks="" pk="47048"><p><strong>O PREFEITO MUNICIPAL DE AMONTADA - ESTADO DO&nbsp;CEARÁ,</strong><br><strong>Faço saber que a Câmara Municipal de Amontada aprovou e eu&nbsp;sanciono e promulgo a seguinte Lei:</strong></p></div></div><div class="dn" id="dn47048" pk="47048"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt47049" ><div class="dtxt" id="d47049" pks="" pk="47049"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt47050" ><a class="dpt-link" name="47050">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d47050" pks="" pk="47050">O Artigo 15 da Lei N° 669/2006, passa a vigorar com a seguinte redação:</div></div><div class="dn" id="dn47050" pk="47050"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt bloco_alteracao " nivel="2">
+    
+
+    <div class="bloco_alteracao  "><div class="dptt "  id="dptt47051" ><div class="dtxt" id="d47051" pks="" pk="47051"></div></div></div>
+    
+      
+        
+
+  <div class="dpt desativado" id="d47052" nivel="4"><div class="caput" id="id47052" nivel="4"><a name="46284" href="/ta/1148/text#46284">Art. 15.</a>
+                &nbsp;
+              
+            
+            
+            
+              
+              As contribuições previdenciárias de que tratam os incisos I e II do Art. 14 serão de 19,21% e 11%, respectivamente, incidentes sobre a totalidade da
+remuneração de contribuição.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47053" nivel="4"><div class="paragrafo indent" id="id47053" nivel="4"><a name="47053" href="/ta/1148/text#47053">§ 1º</a>
+              &nbsp;
+              A partir de 1º de julho de 2006, a Alíquota de Contribuição Patronal - inciso I do Art. 14 - será adequada automaticamente à Avaliação Atuarial Vigente.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47054" nivel="4"><div class="paragrafo indent" id="id47054" nivel="4"><a name="47054" href="/ta/1148/text#47054">§ 2º</a>
+              &nbsp;
+              As alíquotas mencionadas no Caput, são as necessárias para a
+preservação do equilíbrio financeiro e atuarial, de acordo com o Art. 40 da Constituição
+Federal. Mensurada a partir da Avaliação Atuarial realizada na competência de 2005
+            
+
+            
+
+          </div></div>
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  <div class="dpt desativado" id="d47068" nivel="4"><div class="paragrafo indent" id="id47068" nivel="4"><a name="47068" href="/ta/1148/text#47068">§ 3º</a>
+              &nbsp;
+              Entende-se como remuneração de contribuição o valor constituído pelo subsídio ou o vencimento do cargo efetivo, acrescido das vantagens pecuniárias permanentes estabelecidas em lei, dos adicionais de caráter individual ou outras vantagens, excluídas:
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47069" nivel="5"><div class="inciso indent" id="id47069" nivel="5"><a name="47069" href="/ta/1148/text#47069">I</a>
+              &nbsp;&ndash;&nbsp;
+              as diárias para viagens;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47070" nivel="5"><div class="inciso indent" id="id47070" nivel="5"><a name="47070" href="/ta/1148/text#47070">II</a>
+              &nbsp;&ndash;&nbsp;
+              a ajuda de custo em razão de mudança de sede;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47071" nivel="5"><div class="inciso indent" id="id47071" nivel="5"><a name="47071" href="/ta/1148/text#47071">III</a>
+              &nbsp;&ndash;&nbsp;
+              a indenização de transporte;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47072" nivel="5"><div class="inciso indent" id="id47072" nivel="5"><a name="47072" href="/ta/1148/text#47072">IV</a>
+              &nbsp;&ndash;&nbsp;
+              o salário-família;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47073" nivel="5"><div class="inciso indent" id="id47073" nivel="5"><a name="47073" href="/ta/1148/text#47073">V</a>
+              &nbsp;&ndash;&nbsp;
+              o auxílio-alimentação;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47074" nivel="5"><div class="inciso indent" id="id47074" nivel="5"><a name="47074" href="/ta/1148/text#47074">VI</a>
+              &nbsp;&ndash;&nbsp;
+              o auxílio-creche;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47075" nivel="5"><div class="inciso indent" id="id47075" nivel="5"><a name="47075" href="/ta/1148/text#47075">VII</a>
+              &nbsp;&ndash;&nbsp;
+              adicional de férias;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47076" nivel="5"><div class="inciso indent" id="id47076" nivel="5"><a name="47076" href="/ta/1148/text#47076">VIII</a>
+              &nbsp;&ndash;&nbsp;
+              adicional pela prestação de serviços extraordinários;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47077" nivel="5"><div class="inciso indent" id="id47077" nivel="5"><a name="47077" href="/ta/1148/text#47077">IX</a>
+              &nbsp;&ndash;&nbsp;
+              adicional noturno;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47078" nivel="5"><div class="inciso indent" id="id47078" nivel="5"><a name="47078" href="/ta/1148/text#47078">X</a>
+              &nbsp;&ndash;&nbsp;
+              as parcelas remuneratórias pagas em decorrência de local de trabalho;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47079" nivel="5"><div class="inciso indent" id="id47079" nivel="5"><a name="47079" href="/ta/1148/text#47079">XI</a>
+              &nbsp;&ndash;&nbsp;
+              a parcela percebida em decorrência do exercício de cargo em comissão ou de função de confiança;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47080" nivel="5"><div class="inciso indent" id="id47080" nivel="5"><a name="47080" href="/ta/1148/text#47080">XII</a>
+              &nbsp;&ndash;&nbsp;
+              o abono de permanência de que trata o art. 56, desta lei; e
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47081" nivel="5"><div class="inciso indent" id="id47081" nivel="5"><a name="47081" href="/ta/1148/text#47081">XIII</a>
+              &nbsp;&ndash;&nbsp;
+              outras parcelas cujo caráter indenizatório esteja definido em lei.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47082" nivel="4"><div class="paragrafo indent" id="id47082" nivel="4"><a name="47082" href="/ta/1148/text#47082">§ 4º</a>
+              &nbsp;
+              O segurado ativo poderá optar pela inclusão na remuneração de
+contribuição de parcelas remuneratórias percebidas em decorrência de local de trabalho, do
+exercício de cargo em comissão ou de função de confiança, para efeito de cálculo do
+beneficio a ser concedido com fundamento nos art. 29, 30, 31, 32 e 52, respeitada, em
+qualquer hipótese, a limitação estabelecida no § 5° do art. 57.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47083" nivel="4"><div class="paragrafo indent" id="id47083" nivel="4"><a name="47083" href="/ta/1148/text#47083">§ 5º</a>
+              &nbsp;
+              O abono anual será considerado, para fins contributivos, separadamente da remuneração de contribuição relativa ao mês em que for pago.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47084" nivel="4"><div class="paragrafo indent" id="id47084" nivel="4"><a name="47084" href="/ta/1148/text#47084">§ 6º</a>
+              &nbsp;
+              Para o segurado em regime de acumulação remunerada de cargos considerar-se-á, para fins do RPPS, o somatório da remuneração de contribuição referente a cada cargo.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47085" nivel="4"><div class="paragrafo indent" id="id47085" nivel="4"><a name="47085" href="/ta/1148/text#47085">§ 7º</a>
+              &nbsp;
+              A responsabilidade pelo desconto, recolhimento ou repasse das
+contribuições previstas nos incisos I, II e III do art. 14 será do dirigente máximo do órgão ou
+entidade que efetuar o pagamento da remuneração, subsídio ou beneficio e ocorrerá em até
+(dois) dias úteis contados da data em que ocorrer o crédito correspondente.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d47404" nivel="4"><div class="paragrafo indent" id="id47404" nivel="4"><a name="47404" href="/ta/1148/text#47404">§ 8º</a>
+              &nbsp;
+              O Município é o responsável pela cobertura de eventuais insuficiências financeiras do RPPS, decorrentes do pagamento de benefícios previdenciários.
+            
+
+            
+
+          </div></div>
+
+
+      
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt47086" ><div class="dtxt" id="d47086" pks="" pk="47086"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt47087" ><a class="dpt-link" name="47087">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d47087" pks="" pk="47087">Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.</div></div><div class="dn" id="dn47087" pk="47087"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt47088" ><a class="dpt-link" name="47088" title="47088"></a><div class="dtxt" id="d47088" pks="" pk="47088"><p><strong>PAÇO DA PREFEITURA MUNICIPAL DE AMONTADA - CE, aos 17 de junho de&nbsp;2006.</strong></p><p style="text-align: center;"><br><strong>Afrânio Santos Rodrigues</strong><br><strong>PREFEITO MUNICIPAL DE AMONTADA EM EXERCÍCIO</strong></p></div></div><div class="dn" id="dn47088" pk="47088"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div></div></div>
+
+
+</div>
+
+  <div class="dont-break-out"><p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><span style="color: #7e8c8d; font-size: 10pt;">Os Textos Articulados possuem car&aacute;ter informativo e educativo, sendo a principal fonte de publica&ccedil;&atilde;o eletr&ocirc;nica da C&acirc;mara Municipal de Amontada devido &agrave; sua ampla acessibilidade. No entanto, em rela&ccedil;&atilde;o aos textos normativos, &eacute; indispens&aacute;vel a consulta aos documentos oficiais impressos para comprova&ccedil;&atilde;o da exist&ecirc;ncia de direitos, conforme previsto no art. 376 do C&oacute;digo de Processo Civil.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><strong><span style="font-size: 10pt; color: #7e8c8d;">PORTANTO:</span></strong><br><span style="font-size: 10pt;"><span style="color: #7e8c8d;">A Compila&ccedil;&atilde;o de Leis do&nbsp;Munic&iacute;pio de Amontada, criada pelo Departamento Legislativo, visa promover a transpar&ecirc;ncia e facilitar a pesquisa legislativa, oferecendo acesso organizado &agrave;s normas municipais. Apesar de ser uma ferramenta &uacute;til para consulta e orienta&ccedil;&atilde;o, possui limita&ccedil;&otilde;es que a impedem de ser considerada fonte completa ou definitiva. Assim, serve como apoio relevante para a constru&ccedil;&atilde;o de teses jur&iacute;dicas, mas n&atilde;o deve ser utilizada como refer&ecirc;ncia &uacute;nica. </span><span style="color: #e03e2d;">A consulta aos documentos oficiais e fontes prim&aacute;rias ainda &eacute; indispens&aacute;vel para garantir a precis&atilde;o das informa&ccedil;&otilde;es jur&iacute;dicas</span>.</span></p></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Amontada</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Dona Maria Belo, nº 1311, Centro</span>
+                  <br>
+                  CEP: <span class="postal-code">62540-000</span>
+                  |
+                  Telefone: <span>(88) 3636-1177</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="https://www.camaraamontada.ce.gov.br/" class="url">Site</a> |
+                  <a href="mailto:cmamontada@gmail.com" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+    
+
+    
+  </body>
+</html>

@@ -1,0 +1,43 @@
+{
+  "criterio": "Consulta a relação oficial completa de anexos SAPL e sinaliza conteúdo omitido.\n\nCache imutável por URL, serialização por host com as travas dos coletores,1rps.\nNenhum erro/bloqueio significa ausência de anexo. Não altera documentos/lotes.\n",
+  "listas_substituidas_para_publicacao": [
+    {
+      "path": "municipais/_lotes/20261020-capitais-natal-joao-pessoa-auditoria/candidatos.paths.txt",
+      "sha256": "69d2333f78064834116c7430ca9782f55e438b5d2afafcd19a69400396fa7e5b"
+    }
+  ],
+  "aprovados": [
+    {
+      "path": "municipais/RN/natal/lei-organica/1990/lei-organica-1-1990-sapl-193.md",
+      "sha256": "96ac2eab1128d6841539bb9771161eb143a4322a6d012d02adaae7fa30984253",
+      "fonte": "https://sapl.natal.rn.leg.br/norma/193",
+      "host": "sapl.natal.rn.leg.br",
+      "id": "193",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    }
+  ],
+  "retidos": [
+    {
+      "path": "municipais/PB/joao-pessoa/lei-organica/1990/lei-organica-1-1990-sapl-14101.md",
+      "sha256": "7a49a93c53c2f24bb747d90a687854bf78f796863eb240c42d01aee686873e1b",
+      "fonte": "https://sapl.joaopessoa.pb.leg.br/norma/14101",
+      "host": "sapl.joaopessoa.pb.leg.br",
+      "id": "14101",
+      "alertas": [
+        {
+          "regra": "aviso_ou_edital_possivelmente_alheio",
+          "offset": 93740,
+          "trecho": "\nCâmara Municipal | Lei Orgânica do Município 40\n\nXXX - a cessão de áreas de propriedades do Poder Público para particulares obriga a entidade estadual a publicar no órgão oficial extrato do contrato, onde, necessariamente, constem os nomes dos beneficiários integrantes da sociedade ou firma individual, a destinação, prazo, cronograma e discriminação do montante dos recursos necessários à implantação do projeto, sob pena de nulidade da cessão;\n\nXXXI - nenhum servidor poderá ser diretor ou integ"
+        }
+      ],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    }
+  ]
+}

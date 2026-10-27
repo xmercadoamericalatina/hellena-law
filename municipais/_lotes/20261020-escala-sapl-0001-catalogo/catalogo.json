@@ -1,0 +1,79 @@
+{
+  "criterio": "Extrai imagens pequenas de PDFs SAPL para revisão visual por hash, sem aprovar.\n\nSó inclui documentos cujo texto já passou o confronto integral. A dimensão é um\nfiltro de triagem, nunca prova de decoração. Imagens só serão liberadas após\nrevisão explícita de pixels; tabelas/páginas rasterizadas continuam retidas.\n",
+  "imagens": [
+    {
+      "sha256": "9bf0de9707a37d94ba9a572cf3385a2bc34058234fe7929cb1d2aac47f23f3cd",
+      "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0722f72924a6472ad4ed0e474447e9fbc3d48208f6622ee55bcdeb43f700ad7c/1/imagem-000.png",
+      "fontes": [
+        {
+          "norma": "municipais/MG/campestre/leis-complementares/2026/leis-complementares-80-2026-sapl-559.md",
+          "sha256_fonte": "0722f72924a6472ad4ed0e474447e9fbc3d48208f6622ee55bcdeb43f700ad7c",
+          "pagina": 1,
+          "object_id": [
+            "41",
+            "0"
+          ]
+        },
+        {
+          "norma": "municipais/MG/campestre/leis-complementares/2026/leis-complementares-82-2026-sapl-1087.md",
+          "sha256_fonte": "3d27fdea49a35f36e690887c058fc7e3a48868af5c6aa0fb6fbd511a776b7196",
+          "pagina": 1,
+          "object_id": [
+            "41",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "6f259fec49f7cd5d19f8ad3eb46558945b9be975b8f39e0483288e990fc6e802",
+      "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0722f72924a6472ad4ed0e474447e9fbc3d48208f6622ee55bcdeb43f700ad7c/1/imagem-001.png",
+      "fontes": [
+        {
+          "norma": "municipais/MG/campestre/leis-complementares/2026/leis-complementares-80-2026-sapl-559.md",
+          "sha256_fonte": "0722f72924a6472ad4ed0e474447e9fbc3d48208f6622ee55bcdeb43f700ad7c",
+          "pagina": 1,
+          "object_id": [
+            "41",
+            "0"
+          ]
+        },
+        {
+          "norma": "municipais/MG/campestre/leis-complementares/2026/leis-complementares-82-2026-sapl-1087.md",
+          "sha256_fonte": "3d27fdea49a35f36e690887c058fc7e3a48868af5c6aa0fb6fbd511a776b7196",
+          "pagina": 1,
+          "object_id": [
+            "41",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "sha256": "9df2eb50e6f1fd8874325088abdd86e0548cbf679772a63f283b8d93b8364c8e",
+      "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/dc1559abea0925411594cf996319a55a1112e91dcfdd89adc8cae91d4685f335/1/imagem-000.png",
+      "fontes": [
+        {
+          "norma": "municipais/MG/campestre/leis-ordinarias/2015/leis-ordinarias-1814-2015-sapl-1679.md",
+          "sha256_fonte": "dc1559abea0925411594cf996319a55a1112e91dcfdd89adc8cae91d4685f335",
+          "pagina": 1,
+          "object_id": [
+            "7",
+            "0"
+          ]
+        },
+        {
+          "norma": "municipais/MG/campestre/leis-ordinarias/2015/leis-ordinarias-1815-2015-sapl-1680.md",
+          "sha256_fonte": "02e132b839cd096ca665a45944d0e4d084a00128e53b53697dc25974f06b5ee9",
+          "pagina": 1,
+          "object_id": [
+            "7",
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "documentos": 85,
+  "pendentes": 81
+}

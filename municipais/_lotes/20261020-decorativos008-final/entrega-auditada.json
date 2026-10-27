@@ -1,0 +1,35 @@
+{
+  "documentos": 106,
+  "criterios": "Texto já integralmente confrontado com PDF nativo; todos os objetos raster correspondem a hashes de brasões ou marcas institucionais revistos diretamente. Índice completo de anexos, colunas, identidade de município e auditoria final passaram sem pendências. Sem data de epígrafe clara, data é API sem confirmação literal. Não certifica vigência jurídica.",
+  "sem_sobreposicao_com_1967": true,
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-anexos/overlay.json",
+      "sha256": "835cb553f81bc6baac5642975e91312d6c4ce794ff72f6c24629e9f65b73c845"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-colunas/controle.json",
+      "sha256": "782a1afc9d90d803064b276dc5ffd0fa2683310067558be251d2cc6240833aba"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-gate-emissores/controle.json",
+      "sha256": "2460e9ed306886efca7623ffabb058b19df90ce9aedc11e369f04ef8f2557015"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos-revisados-acumulados-008/entrega-final.json",
+      "sha256": "773a5f505756d096148e82b0a3720cb9bc0cee97d56885f61a0cc89f7b614c5d"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-final/lote-0001.paths.txt",
+      "sha256": "683a816e756ab1f74aa8dae609a861b098748306f702110d95b8395d1a41744b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-final/auditoria-municipal.json",
+      "sha256": "07f2fb2f940448de6b014e415e432eeac685a53bd67fcaef96d4930fa8fbfafa"
+    },
+    {
+      "path": "municipais/_lotes/20261020-decorativos008-final/lote-0001.json",
+      "sha256": "7479dc6339c75802f303e86dfb6429f5660df1f54b472408d1d736523a5bb9cc"
+    }
+  ]
+}

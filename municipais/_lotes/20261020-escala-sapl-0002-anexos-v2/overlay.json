@@ -1,0 +1,1728 @@
+{
+  "criterio": "Consulta a relação oficial completa de anexos SAPL e sinaliza conteúdo omitido.\n\nCache imutável por URL, serialização por host com as travas dos coletores,1rps.\nNenhum erro/bloqueio significa ausência de anexo. Não altera documentos/lotes.\n",
+  "listas_substituidas_para_publicacao": [
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002/pre-selecao-imagens-colunas.paths.txt",
+      "sha256": "df9d1a4a81b3417b2c56399146bdf97f27e97259f21e3bdfbe9dbc2c423cb2d6"
+    }
+  ],
+  "aprovados": [
+    {
+      "path": "municipais/MG/campestre/leis-ordinarias/2026/leis-ordinarias-2323-2026-sapl-801.md",
+      "sha256": "e1b46fdaa6481ccd9794a9605c29c3955eb6bb624cf021bc934c29a85b942915",
+      "fonte": "https://sapl.campestre.mg.leg.br/norma/801",
+      "host": "sapl.campestre.mg.leg.br",
+      "id": "801",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MG/campestre/leis-ordinarias/2026/leis-ordinarias-2331-2026-sapl-1095.md",
+      "sha256": "a9e6bc49c9d6517f88c28e9d61d96db2b26da15fe64dc327936a97e2267d5b1f",
+      "fonte": "https://sapl.campestre.mg.leg.br/norma/1095",
+      "host": "sapl.campestre.mg.leg.br",
+      "id": "1095",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MG/sem-peixe/leis-complementares/2025/leis-complementares-476-2025-sapl-46.md",
+      "sha256": "e1be8db8ef3857e09d2ca67041be71d1c0b2cd7d10ec5f0985ebcef016b279ea",
+      "fonte": "https://sapl.sempeixe.mg.leg.br/norma/46",
+      "host": "sapl.sempeixe.mg.leg.br",
+      "id": "46",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MG/sem-peixe/leis-complementares/2025/leis-complementares-478-2025-sapl-48.md",
+      "sha256": "be76e256e0f78a5cd7574339b03863a21a85dd0a0ecb761c2328772d87baa299",
+      "fonte": "https://sapl.sempeixe.mg.leg.br/norma/48",
+      "host": "sapl.sempeixe.mg.leg.br",
+      "id": "48",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-453-2024-sapl-78.md",
+      "sha256": "73bfdaf6d6ba07dd564eda8bd9506fd97eb3bc134cbe6adf9ca8551eafd99b0d",
+      "fonte": "https://sapl.sempeixe.mg.leg.br/norma/78",
+      "host": "sapl.sempeixe.mg.leg.br",
+      "id": "78",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MS/sidrolandia/leis-complementares/2003/leis-complementares-14-2003-sapl-21.md",
+      "sha256": "261cda0dd7a0466d46a2620ce01145dfdc0a3a00b0cdb51d4e30c19ad1ec9bdb",
+      "fonte": "https://sapl.sidrolandia.ms.leg.br/norma/21",
+      "host": "sapl.sidrolandia.ms.leg.br",
+      "id": "21",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MS/sidrolandia/leis-complementares/2023/leis-complementares-182-2023-sapl-12.md",
+      "sha256": "92c5d443f09d6806005377e7feee1239e9b3eb3d96b2771544f32817b92df28b",
+      "fonte": "https://sapl.sidrolandia.ms.leg.br/norma/12",
+      "host": "sapl.sidrolandia.ms.leg.br",
+      "id": "12",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/decretos-legislativos/2026/decretos-legislativos-1-2026-sapl-668.md",
+      "sha256": "2521e90015656e0ed1b5e8e52ad53ff012c7b5db1c4c24202e01fc6f5b98d2c3",
+      "fonte": "https://sapl.bomjesusdoaraguaia.mt.leg.br/norma/668",
+      "host": "sapl.bomjesusdoaraguaia.mt.leg.br",
+      "id": "668",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2024/resolucoes-50-2024-sapl-789.md",
+      "sha256": "eb8c8df1be08110765170c446ae01496654beabc76697150e364c4624b200118",
+      "fonte": "https://sapl.bomjesusdoaraguaia.mt.leg.br/norma/789",
+      "host": "sapl.bomjesusdoaraguaia.mt.leg.br",
+      "id": "789",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2025/resolucoes-58-2025-sapl-902.md",
+      "sha256": "0fc8ccee50daf032f7a904f85c295a9a560c4bbead9ad350ab44cf6623744129",
+      "fonte": "https://sapl.bomjesusdoaraguaia.mt.leg.br/norma/902",
+      "host": "sapl.bomjesusdoaraguaia.mt.leg.br",
+      "id": "902",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2025/resolucoes-60-2025-sapl-904.md",
+      "sha256": "637952f33551c7879a482306fd43fb895263f00442abba67895612a03e1c051e",
+      "fonte": "https://sapl.bomjesusdoaraguaia.mt.leg.br/norma/904",
+      "host": "sapl.bomjesusdoaraguaia.mt.leg.br",
+      "id": "904",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2025/resolucoes-63-2025-sapl-906.md",
+      "sha256": "8fef56a2cb224d4de20e9416b3be5d5e32115ac767da72904e7f1006fd052a48",
+      "fonte": "https://sapl.bomjesusdoaraguaia.mt.leg.br/norma/906",
+      "host": "sapl.bomjesusdoaraguaia.mt.leg.br",
+      "id": "906",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-66-2026-sapl-910.md",
+      "sha256": "82d1fcfd899b5b0820bba9605026c22661d835db9887d23907f20f55549196ab",
+      "fonte": "https://sapl.bomjesusdoaraguaia.mt.leg.br/norma/910",
+      "host": "sapl.bomjesusdoaraguaia.mt.leg.br",
+      "id": "910",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-68-2026-sapl-766.md",
+      "sha256": "c11afe823e52c1ef21d560954db5b6533e226074e0a00f3371e53b6db1657729",
+      "fonte": "https://sapl.bomjesusdoaraguaia.mt.leg.br/norma/766",
+      "host": "sapl.bomjesusdoaraguaia.mt.leg.br",
+      "id": "766",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-69-2026-sapl-774.md",
+      "sha256": "3c21387eb727b4aac79cd42a89f6b8e165d97cf2833b7d3ede8dc6b202bacaaa",
+      "fonte": "https://sapl.bomjesusdoaraguaia.mt.leg.br/norma/774",
+      "host": "sapl.bomjesusdoaraguaia.mt.leg.br",
+      "id": "774",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-70-2026-sapl-911.md",
+      "sha256": "d636583df150e7834077d5a39206913576c9b29bab934d335d28371c46fa1c96",
+      "fonte": "https://sapl.bomjesusdoaraguaia.mt.leg.br/norma/911",
+      "host": "sapl.bomjesusdoaraguaia.mt.leg.br",
+      "id": "911",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2016/leis-complementares-513-2016-sapl-681.md",
+      "sha256": "39c71ebd7d40201c63035ce4147c8fbfe8e9cab8d7f1bd59547923c2d0ea2604",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/681",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "681",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2018/leis-complementares-541-2018-sapl-696.md",
+      "sha256": "2c6fe8ad356d657953b56d5d50c12c6fd18e7ae3f5f43a626ff1bd64f6360e84",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/696",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "696",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2021/leis-complementares-592-2021-sapl-704.md",
+      "sha256": "d8e4f4ce7089b7471430dda223bd6a469cd47f1d6bd97d3c6e8c0f9f0566dea9",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/704",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "704",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2021/leis-complementares-616-2021-sapl-708.md",
+      "sha256": "43c3a79d2286f69895b09fb1784dae27b3cbd666d3cf417aab4b5790f45862f4",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/708",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "708",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2023/leis-complementares-653-2023-sapl-720.md",
+      "sha256": "4d7f1bc7cc5a70486ddfea387c6ddfeff27d9f759bb801fdee6a51380d25759c",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/720",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "720",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2024/leis-complementares-669-2024-sapl-715.md",
+      "sha256": "5ddef789d87bacec1deafb9db1e17f0495bf479b016918c069a63fb53242d08e",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/715",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "715",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-674-2025-sapl-716.md",
+      "sha256": "eddaf9b479e1353464047ea2bba885250c54cb9f69d72c948b7dabb7bcc83eae",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/716",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "716",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-675-2025-sapl-717.md",
+      "sha256": "1a5f703ef8f29002bed8d7a75991395852da37ccb7937382010e45df0951927e",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/717",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "717",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-678-2025-sapl-719.md",
+      "sha256": "0c1c00b5dd13135c171e6393a609ad42ceb43463f6916cf1eb14039383fca427",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/719",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "719",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-702-2025-sapl-725.md",
+      "sha256": "92c11fa4d6025393965be6f9311d5b6de34940bf6ef165166bc631467a667339",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/725",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "725",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-705-2025-sapl-726.md",
+      "sha256": "d8fb8dac510513d449cd866e60a1d917d3f5ae15349a065c9dc60443e9df50f2",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/726",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "726",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-708-2025-sapl-727.md",
+      "sha256": "b723d58ba2267e462b31d86cdeaedb3735329af17c4549b7c45ab770c59503a1",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/727",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "727",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-716-2025-sapl-660.md",
+      "sha256": "53a83829fa9edf3ac522f3b610e63e6fac65cbe5225005258ad2b8262127b7c7",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/660",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "660",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-ordinarias/2013/leis-ordinarias-470-2013-sapl-440.md",
+      "sha256": "c7635a2b5a6aeafa02640dfd413740cf1a9431ab960d737a94bb49b7a45714eb",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/440",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "440",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1995/resolucoes-1-1995-sapl-763.md",
+      "sha256": "a1131a62255d4c6738b07ad8e4866ef9c247bcc47e313cb276f60b3e11505d08",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/763",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "763",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1996/resolucoes-1-1996-sapl-746.md",
+      "sha256": "8c749eba9cf19ec0449d66fa5c6cebb1ee553bda6a91a06aadd272201464043a",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/746",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "746",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1997/resolucoes-2-1997-sapl-755.md",
+      "sha256": "0e4d9149e2caa2da22f7a2cb10e8b141d50819bf25f415caf66d8d732798c998",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/755",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "755",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1997/resolucoes-4-1997-sapl-757.md",
+      "sha256": "969632ea3529daf61ada1d3b0ffef2329082bd381e01e59ed0758a017c5e63dc",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/757",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "757",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2004/resolucoes-2-2004-sapl-754.md",
+      "sha256": "31042882ed313c8e043d2ae97e7f82e3340aaadf1c24a7249f81edc77a2cff87",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/754",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "754",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2006/resolucoes-1-2006-sapl-751.md",
+      "sha256": "c2592a964c73e8300d2e6ba612de0b680d4de03c424206aa4d368c2b633f81ad",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/751",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "751",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2006/resolucoes-1b-2006-sapl-769.md",
+      "sha256": "94f0234ac9b3f07dba47ccb6acfdf266f54b2d82c4d08671015252b4091cfae6",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/769",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "769",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2010/resolucoes-1-2010-sapl-752.md",
+      "sha256": "34eab56178736a85882fbdcb4de861ee9da8f8444f7175e09758d4e105be24af",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/752",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "752",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-2-2021-sapl-753.md",
+      "sha256": "6089562c8c9083d71839614d54ce54ceb62dc471bef1991ed4fe7365aceb6843",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/753",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "753",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-3-2021-sapl-756.md",
+      "sha256": "d439593c2b8fc37a832d32430fd43cbe4ac1e47c24944a594741715ed7ec263a",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/756",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "756",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-4b-2021-sapl-772.md",
+      "sha256": "496aec66a8861ec20aea759567833ac5f08e7bffffa5a60f779826f9c127396a",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/772",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "772",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-5-2021-sapl-758.md",
+      "sha256": "ed5f14b0fe53e1618994fe7eec75c39fcad81ea96cc782c498a948fbf26fd2d8",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/758",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "758",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2022/resolucoes-6-2022-sapl-759.md",
+      "sha256": "37d6aef62669a118a51efc584ecc045da83af030ff090e3a057813f6775666ed",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/759",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "759",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-10-2024-sapl-765.md",
+      "sha256": "5034daff1b5dd0c82996b2978f4af1408d0ab2f91032b34367c1588a24dffffd",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/765",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "765",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-8-2024-sapl-761.md",
+      "sha256": "f667a0723d3cad90e735bc53657690bf8300c94beb57c42c01b205cfd49385ea",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/761",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "761",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-8b-2024-sapl-774.md",
+      "sha256": "89321c6f86616b2588a31a1992e0ed25ab55bc28f447dc80be24b829064fcb7c",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/774",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "774",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-9-2024-sapl-764.md",
+      "sha256": "0d5ce0c3c88f1adb725b6f1c6f9d66d3261cba45cdff50dc23f916fa8ab912ad",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/764",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "764",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2026/resolucoes-1-2026-sapl-750.md",
+      "sha256": "71dd54cd25c6fa831267012075e4e62a6c1d56d11d92efef1c19ab9e7e32e953",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/750",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "750",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/resolucoes/2025/resolucoes-10-2025-sapl-41.md",
+      "sha256": "84a27381550a193b216f77e2afd68d6ec11c638a4a770861a38cee78acc463d6",
+      "fonte": "https://sapl.campodotenente.pr.leg.br/norma/41",
+      "host": "sapl.campodotenente.pr.leg.br",
+      "id": "41",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-complementares/2007/leis-complementares-1038-2007-sapl-665.md",
+      "sha256": "8cb2d89b973b2601cb15157ffbbd25d8cbf9672d400704d5ab41addb79dadf54",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/665",
+      "host": "sapl.joaquimtavora.pr.leg.br",
+      "id": "665",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-complementares/2026/leis-complementares-1 931-2026-sapl-1086.md",
+      "sha256": "e3c6e8617d4b912f7c14e3991b99b8fd74a1ae1870a101f8fd94745dbb5d3a3b",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1086",
+      "host": "sapl.joaquimtavora.pr.leg.br",
+      "id": "1086",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/caico/resolucoes/2024/resolucoes-3-2024-sapl-562.md",
+      "sha256": "9554c02a4a648934950be722005211f8921f1803067cfe42114a968fca8e6650",
+      "fonte": "https://sapl.caico.rn.leg.br/norma/562",
+      "host": "sapl.caico.rn.leg.br",
+      "id": "562",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/caico/resolucoes/2024/resolucoes-4-2024-sapl-563.md",
+      "sha256": "d6e92a1fe6d5c8fb469e83758f4c1cec3edb24b9958c5fc9075437fa3bf7620b",
+      "fonte": "https://sapl.caico.rn.leg.br/norma/563",
+      "host": "sapl.caico.rn.leg.br",
+      "id": "563",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/caico/resolucoes/2025/resolucoes-2-2025-sapl-1124.md",
+      "sha256": "7064b72111d93c9ca6873526eeed42f89f2ba3d88310f929f0406ed75dffe141",
+      "fonte": "https://sapl.caico.rn.leg.br/norma/1124",
+      "host": "sapl.caico.rn.leg.br",
+      "id": "1124",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/caico/resolucoes/2025/resolucoes-3-2025-sapl-1448.md",
+      "sha256": "ef13e700bcecc27a530341fcc862dcbb7cbdd9427cd58e86acd42b57cff2c9e8",
+      "fonte": "https://sapl.caico.rn.leg.br/norma/1448",
+      "host": "sapl.caico.rn.leg.br",
+      "id": "1448",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/caico/resolucoes/2025/resolucoes-4-2025-sapl-1449.md",
+      "sha256": "65d5ec6446c576e398f4fb1a396bb382769dcc84e05cbb393b00597bcbe34b83",
+      "fonte": "https://sapl.caico.rn.leg.br/norma/1449",
+      "host": "sapl.caico.rn.leg.br",
+      "id": "1449",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/caico/resolucoes/2025/resolucoes-5-2025-sapl-1469.md",
+      "sha256": "67d55ff695d62dda2174c333dc2b349cbb5f8b3967ffd83f23bcc53a8ec65cca",
+      "fonte": "https://sapl.caico.rn.leg.br/norma/1469",
+      "host": "sapl.caico.rn.leg.br",
+      "id": "1469",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/caico/resolucoes/2025/resolucoes-7-2025-sapl-1533.md",
+      "sha256": "77119d6ece4010299f7e1bc1083d9558312932ed1ec5740ad7c7df1ba7c484e7",
+      "fonte": "https://sapl.caico.rn.leg.br/norma/1533",
+      "host": "sapl.caico.rn.leg.br",
+      "id": "1533",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/RN/caico/resolucoes/2025/resolucoes-8-2025-sapl-1565.md",
+      "sha256": "48b190966075e76b7318efcd913b20e33751d92cd4ae4a6da4139bbae52da033",
+      "fonte": "https://sapl.caico.rn.leg.br/norma/1565",
+      "host": "sapl.caico.rn.leg.br",
+      "id": "1565",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    }
+  ],
+  "retidos": [
+    {
+      "path": "municipais/MG/sem-peixe/leis-complementares/2025/leis-complementares-467-2025-sapl-37.md",
+      "sha256": "9cafada47a293ae674074ae5dff9886035253c2c466e2dd70ee521504e4e9eed",
+      "fonte": "https://sapl.sempeixe.mg.leg.br/norma/37",
+      "host": "sapl.sempeixe.mg.leg.br",
+      "id": "37",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 1654,
+          "trecho": "vadas as funções ou cargos cuja natureza exija regime especial, conforme definido no quadro de servidores efetivos do Poder Legislativo constantes do Anexo I , da Lei Complementar nº 277/2013.\n\n**Art. 5º** Esta Lei Complementar entra em vigor na data de sua publicação, revogadas as disposições em contrário.\n\nSem Peixe, 25 de agosto de 2025.\n\nEDER ELOI ALVES Assinado de forma digital por EDER ELOI ALVES"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/MS/sidrolandia/leis-complementares/2015/leis-complementares-109-2015-sapl-17.md",
+      "sha256": "a11ffb617e8e11d9b0f476dc2e04c0aa962ad5c1419b265fe75bebbdb0b762ce",
+      "fonte": "https://sapl.sidrolandia.ms.leg.br/norma/17",
+      "host": "sapl.sidrolandia.ms.leg.br",
+      "id": "17",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 4057,
+          "trecho": "jetos que visem garantir o acesso de todos ao ensino superior.\n\n**Art. 3** º Para os efeitos desta Lei adotam-se as definições técnicas constantes do Anexo I e os mapas do Anexo II.\n\n#### Capítulo II\n\nDOS PRINCÍPIOS\n\n**Art. 4** º Para efeito desta Lei, ficam estabelecidos os seguintes princípios:\n\nI - FUNÇÃO SOCIAL DA CIDADE — função que deve cumprir a cidade para assegurar as condições gerais de desen"
+        },
+        {
+          "offset": 4079,
+          "trecho": "ir o acesso de todos ao ensino superior.\n\n**Art. 3** º Para os efeitos desta Lei adotam-se as definições técnicas constantes do Anexo I e os mapas do Anexo II.\n\n#### Capítulo II\n\nDOS PRINCÍPIOS\n\n**Art. 4** º Para efeito desta Lei, ficam estabelecidos os seguintes princípios:\n\nI - FUNÇÃO SOCIAL DA CIDADE — função que deve cumprir a cidade para assegurar as condições gerais de desenvolvimento da produção"
+        },
+        {
+          "offset": 42782,
+          "trecho": "Recreio;\n\n**§ 2** º As Zonas Especiais Rurais constam do mapa 3 do anexo II\n\n**§ 3** º As áreas do território municipal que não constam no mapa 03 do anexo II, mas que se enquadram na definição de Zonas Especiais Rurais deverão ser acrescentadas, pelo órgão de planejamento e controle urbanístico e ambiental, no prazo de um ano após a aprovação desta lei.\n\nPágina 17/45\n\n**§ 4** º Toda e qualquer instala"
+        },
+        {
+          "offset": 50526,
+          "trecho": "olo da presente lei, iniciando por solicitação de uma GDU no órgão competente. A área urbana passível de implantação de novas ZEIS está no mapa 04 do anexo II\n\n###### Subseção II -\n\nZona Especial de Interesse Ambiental (ZEIA)\n\n**Art. 45** º As Zonas Especiais de Interesse Ambiental são áreas demarcadas no perímetro urbano, que possuem restrição de parcelamento, uso e ocupação do solo,constantes do mapa"
+        },
+        {
+          "offset": 83831,
+          "trecho": "te na sua subutilização ou não- utilização.\n\n**Art. 103** º O parcelamento compulsório poderá ser aplicado nos vazios urbanos,presentes no mapa 08 do anexo II, entendidos como zona de adensamento prioritário.\n\n**§ 1** º Fica facultado aos proprietários dos imóveis de que trata este artigo propor ao Poder Executivo o estabelecimento de Consórcio Imobiliário, conforme disposições do artigo 46 Lei Federal"
+        },
+        {
+          "offset": 84833,
+          "trecho": "nos, independentemente da área construída.\n\n**§ 1** º Os imóveis sujeitos à edificação e/ou utilização compulsórios estão representados no mapa 9 do\n\nanexo II,dentro de uma zona de adensamento prioritário.\n\n**§ 2** º Ficam excluídos da obrigação estabelecida no caput deste artigo, após comprovação técnica pelo órgão municipal competente e aprovação pelo Conselho Municipal da Cidade, os imóveis utilizad"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/MS/sidrolandia/leis-complementares/2025/leis-complementares-203-2025-sapl-31.md",
+      "sha256": "dc8c6344a26ef273ad3d6de6c4e14758d50d3480476f757d95096020737de415",
+      "fonte": "https://sapl.sidrolandia.ms.leg.br/norma/31",
+      "host": "sapl.sidrolandia.ms.leg.br",
+      "id": "31",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 402435,
+          "trecho": "ÕES GERAIS E TRANSITÓRIAS\n\nArt. 351º- O quadro Permanente da Administração Geral da Prefeitura Municipal passará a ser estabelecido pelo constante no Anexo I, desta Lei Complementar, respeitadas as demais disposições contidas no respectivo Plano de Cargos e Carreira em vigor, não podendo exceder nenhum adicional individual ou coletivo que ultrapasse 100% dos seus vencimentos.\n\n**Art. 352º** . O anexo I"
+        },
+        {
+          "offset": 403168,
+          "trecho": "a – GRP.\n\n**Art. 353º** - O quadro Permanente Específico da Secretaria de Saúde da Prefeitura Municipal passará a ser estabelecido pelo que consta no Anexo II desta Lei Complementar, respeitadas as demais disposições contidas no respectivo Plano de Cargos e Carreiras em vigor.\n\n**Art. 354º** - O quadro do Anexo IX disciplina os Cargos Específicos da Secretaria de Educação, sendo composto por:\n\nTABELA 0"
+        },
+        {
+          "offset": 403325,
+          "trecho": "I desta Lei Complementar, respeitadas as demais disposições contidas no respectivo Plano de Cargos e Carreiras em vigor.\n\n**Art. 354º** - O quadro do Anexo IX disciplina os Cargos Específicos da Secretaria de Educação, sendo composto por:\n\nTABELA 01 - Quadro de Cargos De Provimento Efetivo da Educação – Magistério\n\nTABELA 02 -Quadro de Cargos De Provimento em Comissão da Educação – Gerencial do Magisté"
+        },
+        {
+          "offset": 405814,
+          "trecho": "os os cargos públicos no âmbito da Administração Pública Municipal, conforme descrito nesta Lei Complementar e especificado nas tabelas constante nos Anexos, parte integrante desta norma.\n\n**§1º** - Ficam extintos/extinção, os seguintes cargos:\n\nI – Vigia;\n\nII – Vigilante;\n\nIII - Assessor Especial de Apoio Administrativo;\n\nIV – Subprefeito;\n\nV – Motorista de Van;\n\nVI – Especialista em Educação - EE;\n\nVI"
+        },
+        {
+          "offset": 406600,
+          "trecho": "o de compatibilidade de funções e critérios objetivos definidos por ato regulamentar do Chefe do Poder Executivo.\n\n**§3º** - As tabelas constante nos Anexos desta Lei indicará a denominação, quantidade de vagas, forma de provimento, referência de vencimento e eventuais reenquadramentos dos cargos abrangidos por esta reestruturação administrativa.\n\n**§4º** - As despesas decorrentes da implementação deste"
+        },
+        {
+          "offset": 411693,
+          "trecho": "gradual a partir da publicação desta lei.\n\nGabinete do Prefeito de Sidrolândia/MS, 17 de Junho de 2025.\n\nRODRIGO BORGES BASSO\n\nPrefeito Municipal\n\n## ANEXO I\n\nQUADRO DE CARGOS DA ADMINISTRAÇÃO GERAL\n\nTABELA 1 - NÍVEL SUPERIOR\n\nCarga Cargo Requisitos Referência Vagas Horária\n\nNível Superior Completo e Registro Advogado 40 Horas 58 06 no Conselho Regional\n\nAdministrador de Nível Superior Completo e Regis"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2025/resolucoes-62-2025-sapl-905.md",
+      "sha256": "492f082c92423033fe4a55ffd1e3797df11076b888d709908f201f76efc6f502",
+      "fonte": "https://sapl.bomjesusdoaraguaia.mt.leg.br/norma/905",
+      "host": "sapl.bomjesusdoaraguaia.mt.leg.br",
+      "id": "905",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 9214,
+          "trecho": "7:38:47 -03'00' 72 -03'00'\n\nALAN JONES Gringa 1º Secretário da Mesa Diretora 2ª Secretário da Mesa Diretora Biênio – 2025/2026 Biênio – 2025/2026\n\n## ANEXO I\n\nTERMO DE COMPROMISSO\n\nPelo presente instrumento, eu, , servidor(a) da Câmara Municipal de Bom Jesus do Araguaia – MT, ocupante do cargo de , declaro, para os devidos fins, que:\n\n1. Tomei conhecimento integral do Código de Ética e Conduta dos Serv"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-65-2026-sapl-908.md",
+      "sha256": "6f74454900f600985e29e35e0b30faf553855b061ba813a1e28bf23871e80fce",
+      "fonte": "https://sapl.bomjesusdoaraguaia.mt.leg.br/norma/908",
+      "host": "sapl.bomjesusdoaraguaia.mt.leg.br",
+      "id": "908",
+      "alertas": [
+        {
+          "regra": "aviso_ou_edital_possivelmente_alheio",
+          "offset": 1105,
+          "trecho": "arão seus lugares.\n\n............................................................................................................................\n\n**§ 4º** Para fins regimentais de abertura da sessão e verificação de quórum, o Vereador com participação remota previamente deferida será considerado apto a integrar o\n\nquórum quando houver confirmação nominal pelo Secretário e identificação audiovisual válida perante o Plenário.\n\n**§ 5º** A participação remota deferida será consignada expressamente"
+        },
+        {
+          "regra": "aviso_ou_edital_possivelmente_alheio",
+          "offset": 3050,
+          "trecho": ";\n\nII – na eleição da Mesa Diretora;\n\nIII – em deliberação sobre perda de mandato, cassação ou processo ético-disciplinar.\n\n**§ 4º** A Presidência decidirá o requerimento antes da abertura da sessão, sempre que possível, devendo a decisão ser comunicada ao interessado e consignada em ata.\n\n**§ 5º** As sessões da Câmara realizar-se-ão, ordinariamente, de forma presencial, admitindo-se a participação remota do Vereador somente nos casos e na forma previstos neste Regimento.”\\*\\*\n\n**Art. 4º** Fic"
+        }
+      ],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2014/leis-ordinarias-92-2014-sapl-284.md",
+      "sha256": "19c44bb0b6b5b7b8ca17768c1f3c38d36c81d581ed9f81c0e512b20141930f65",
+      "fonte": "https://sapl.barradesaomiguel.pb.leg.br/norma/284",
+      "host": "sapl.barradesaomiguel.pb.leg.br",
+      "id": "284",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 1305,
+          "trecho": "dos e as que desenvolvam ações no fluxo de resíduos sólidos.\n\n**§ 2º** Para os fins desta Lei aplicam-se as definições e conceitos constantes de seus Anexos.\n\n#### CAPÍTULO I OBJETIVOS, INSTRUMENTOS, PRINCÍPIOS E DIRETRIZES.\n\nART. 2º- A Gestão integrada de resíduos sólidos no Município de Barra de São Miguel – PB, será desenvolvida em consonância com as Políticas Nacionais, Estaduais e Municipais de Mei"
+        },
+        {
+          "offset": 17011,
+          "trecho": "radores dos resíduos, pessoas físicas e jurídicas, públicas e privadas, a obrigatoriedade de separação e acondicionamento do lixo a que se referem os Anexos desta Lei, no local de sua produção, em sacos de cores distintas, determinadas pelo órgão ou entidade municipal competente, conforme o tipo de resíduo.\n\n**§ 1º** Para o fim previsto no caput, serão separados e acondicionado sem recipientes distintos"
+        },
+        {
+          "offset": 22957,
+          "trecho": "final, bem como a proteção à saúde pública e ao meio ambiente.\n\nPARÁGRAFO ÚNICO – A gestão dos RSS observará a classificação de resíduos definida no\n\nAnexo II desta Lei.\n\nART. 20º – Os sistemas de tratamento e disposição final de resíduos de serviços de saúde devem estar licenciados pelo órgão ambiental competente para fins de funcionamento e submetidos a monitoramento de acordo com parâmetros e period"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2022/leis-ordinarias-237-2022-sapl-96.md",
+      "sha256": "0fa2697b16f7c2d931bcff3d3bfc9f1f897964fd3d8cebb448084daf80d01bc4",
+      "fonte": "https://sapl.barradesaomiguel.pb.leg.br/norma/96",
+      "host": "sapl.barradesaomiguel.pb.leg.br",
+      "id": "96",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 1764,
+          "trecho": "iu o reajuste salarial dos servidores federais, estaduais e municipais até dezembro de 2021...\n\nPARÁGRAFO ÚNICO: O reajuste salarial apresentado nos\n\nanexos deste projeto modificará a Tabela dos Vencimentos referente à\n\nCategoria de PROFESSORES ‘A’ e ‘B’, Pedagogo e Regentes de Ensino da\n\nLei Municipal nº 151/2017, em seus anexos VIII, IX, X e XI.\n\nARTIGO 2° - Aos Profissionais Comissionados, de acordo "
+        },
+        {
+          "offset": 2277,
+          "trecho": "tração escolar, também será concedido reajuste salarial de 43,58% (quarenta e três, cinquenta e oito por cento), conforme Vencimentos apresentados no anexo II, deste projeto.\n\nARTIGO 3º - Os Recursos Financeiros destinados à cobertura das despesas de que trata o artigo anterior, serão oriundos do Fundo de Desenvolvimento do Ensino Básico – FUNDEB ou outras denominações que seja dada aos valores transfe"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2022/leis-ordinarias-238-2022-sapl-97.md",
+      "sha256": "9fedcb10ad69563a13044ad46349cd6994b42bc4a5c3a3b5069f52fa64410fd2",
+      "fonte": "https://sapl.barradesaomiguel.pb.leg.br/norma/97",
+      "host": "sapl.barradesaomiguel.pb.leg.br",
+      "id": "97",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 895,
+          "trecho": "\n\nARTIGO 2° - Ficam convalidados os Atos Administrativos baseados na Medida Provisória nº 1.091/2021, do dia 30 de Dezembro de 2021, cuja Cópia segue anexa.\n\nARTIGO 3° - Esta Lei entrar em vigor na data de sua Publicação retroagindo seus efeitos para o dia 01 de Janeiro de 2022.\n\nARTIGO 4º - Revogam-se as disposições em contrário.\n\nBarra de São Miguel – PB, 02 de Março de 2022.\n\nJOÃO BATISTA TRUTA Pref"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2022/leis-ordinarias-249-2022-sapl-109.md",
+      "sha256": "190ce78e6b8e54fb0cfd9d5930d4e8388512202fafd9e4b995cc5934d7efd8a7",
+      "fonte": "https://sapl.barradesaomiguel.pb.leg.br/norma/109",
+      "host": "sapl.barradesaomiguel.pb.leg.br",
+      "id": "109",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 1083,
+          "trecho": "0\n\n**Artigo 2º** - A classificação orçamentária e programática, bem como a criação da dotação para atender o objeto deste artigo, está evidenciada no Anexo I deste projeto de Lei.\n\n**Artigo 3°.** - Para acorrer às despesas orçamentárias com abertura do Crédito Adicional Especial de que trata esta Lei, serão utilizados os recursos previstos no orçamento vigente, de acordo com o inciso III, §1° do art. 4"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/montadas/resolucoes/2025/resolucoes-18-2025-sapl-7.md",
+      "sha256": "c0523c689a4c252ac7d28e414c439162dc9e51054abe49e34b2987812ba515fa",
+      "fonte": "https://sapl.montadas.pb.leg.br/norma/7",
+      "host": "sapl.montadas.pb.leg.br",
+      "id": "7",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [
+        {
+          "id": 7,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/2025/7/resolucao_no_19.2025_-_publicacao.pdf da norma Resolução-MD nº 18, de 17 de fevereiro de 2025",
+          "link_detail_backend": "/norma/anexonormajuridica/7",
+          "metadata": {},
+          "assunto_anexo": "Publicação.",
+          "anexo_arquivo": "http://sapl.montadas.pb.leg.br/media/sapl/public/anexonormajuridica/2025/7/resolucao_no_19.2025_-_publicacao.pdf",
+          "ano": 2025,
+          "norma": 7
+        }
+      ],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/montadas/resolucoes/2025/resolucoes-19-2025-sapl-8.md",
+      "sha256": "114f3900c5c9890de74decb30c851867c4af657cbd1066eb37c6e1811b0c7be2",
+      "fonte": "https://sapl.montadas.pb.leg.br/norma/8",
+      "host": "sapl.montadas.pb.leg.br",
+      "id": "8",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [
+        {
+          "id": 8,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/2025/8/resolucao_no_19.2025_-_publicacao.pdf da norma Resolução-MD nº 19, de 17 de fevereiro de 2025",
+          "link_detail_backend": "/norma/anexonormajuridica/8",
+          "metadata": {},
+          "assunto_anexo": "",
+          "anexo_arquivo": "http://sapl.montadas.pb.leg.br/media/sapl/public/anexonormajuridica/2025/8/resolucao_no_19.2025_-_publicacao.pdf",
+          "ano": 2025,
+          "norma": 8
+        }
+      ],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2007/leis-complementares-420-2007-sapl-682.md",
+      "sha256": "e682240458ffe6a9743cfed7e4956e1df386d42a22699d5de9108edc4c488423",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/682",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "682",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 5895,
+          "trecho": "icam em extinção, 19 (dezenove) cargos de provimento efetivo cujos\n\ntitulares não possuírem correspondentes no novo Plano, conforme\n\ndemonstrativo no Anexo I a esta Lei.\n\n**Art. 8º.** Ficam criados, no âmbito da Prefeitura Municipal de São José do Sabugi,\n\n216 (duzentos e dezesseis) cargos efetivos, destinados a compor o quadro\n\npermanente de servidores efetivos desta Instituição, conforme demonstrativ"
+        },
+        {
+          "offset": 6156,
+          "trecho": "(duzentos e dezesseis) cargos efetivos, destinados a compor o quadro\n\npermanente de servidores efetivos desta Instituição, conforme demonstrativo no\n\nAnexo II a esta Lei.\n\n**Art. 9º** O Plano de Cargos, Carreiras e Vencimentos dos servidores efetivos da\n\nprefeitura municipal de São José do Sabugi é formado por cargos de nível básico,\n\nem que, conforme as especificações do cargo é exigida a escolaridade"
+        },
+        {
+          "offset": 10217,
+          "trecho": "ia\n\n**Art. 12** Os cargos efetivos, de que tratam o artigo 8º., terão sua remuneração\n\ncomposta pelos vencimentos definidos nas tabelas constantes no Anexo III,\n\nexclusive os cargos integrantes do Grupo de Saúde Pública e do Grupo Saúde da\n\nFamília na carreira de Nível Superior definidos nas tabelas constantes legislação\n\npertinente, acrescidos das gratificações que lhe forem devidas, fixadas na\n\nLegis"
+        },
+        {
+          "offset": 11713,
+          "trecho": "balho, requisitos para provimento,\n\nacesso e/ou promoção.\n\n**Art. 15** - As especificações constituem das classes dos cargos criados no artigo 9º.\n\no Anexo IV desta Lei.\n\n**Art. 16** - As especificações de classe poderão ser alteradas por Decreto, no que se\n\nrefere à descrição analítica das atribuições e lotação.\n\n**Art. 17** -A proposta de criação de novos cargos deverá ser acompanhada da\n\nrespectiva "
+        },
+        {
+          "offset": 23567,
+          "trecho": "to dos servidores efetivados nos respectivos\n\ncargos.\n\n**§ 1º.** Os titulares efetivos dos cargos em extinção, referidos no Art. 7º. e constante\n\nnos anexo I desta Lei, que preencherem nos os requisitos legais, serão\n\naproveitados cargos das classes de idêntica denominação e respectivas\n\nespecificações vencimentos criados peloArt. 8º., conforme demonstrativo no\n\nAnexo II desta Lei.\n\n**§ 2º.** O aprovei"
+        },
+        {
+          "offset": 23782,
+          "trecho": "o\n\naproveitados cargos das classes de idêntica denominação e respectivas\n\nespecificações vencimentos criados peloArt. 8º., conforme demonstrativo no\n\nAnexo II desta Lei.\n\n**§ 2º.** O aproveitamento, em nenhuma hipótese, acarretará em redução de\n\nvencimento.\n\n**§ 3º.** O servidor, cujo esteja compreendido na tabela constante coincidam do\n\nAnexo III desta Lei e que, ao ser aproveitado esteja recebendo ve"
+        },
+        {
+          "offset": 23972,
+          "trecho": "tamento, em nenhuma hipótese, acarretará em redução de\n\nvencimento.\n\n**§ 3º.** O servidor, cujo esteja compreendido na tabela constante coincidam do\n\nAnexo III desta Lei e que, ao ser aproveitado esteja recebendo vencimentos que\n\nnão com a referência existente na Tabela, será aproveitado na referência\n\nimediatamente superior ao seu vencimento-base atual.\n\n**§ 4º.** Os servidores efetivos, que possuam v"
+        },
+        {
+          "offset": 24480,
+          "trecho": "adro atual, cujo vencimento se posicione acima\n\nda maior referência da Tabela de vencimentos constante criada pelo artigo 8º.,\n\nconforme definição no Anexo III, permanecerão com o mesmo vencimento e\n\ngozarão de todas as vantagens deste Plano.\n\n**§ 6º.** Os titulares dos cargos em extinção, constantes no Anexo I, referido no\n\nartigo 7º desta Lei, que não forem abrangidos pelo disposto nos incisos\n\nanter"
+        },
+        {
+          "offset": 24635,
+          "trecho": " III, permanecerão com o mesmo vencimento e\n\ngozarão de todas as vantagens deste Plano.\n\n**§ 6º.** Os titulares dos cargos em extinção, constantes no Anexo I, referido no\n\nartigo 7º desta Lei, que não forem abrangidos pelo disposto nos incisos\n\nanteriores, carreira permanecerão nos respectivos cargos até sua vacância, e\n\ngozarão de todas as vantagens da estabelecidas por esse Plano.\n\n**Art. 37** - O ap"
+        }
+      ],
+      "anexos_proprios": [
+        {
+          "id": 2,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/2007/2/anexos_1_da_lei_420.pdf da norma Lei Complementar Municipal nº 420, de 17 de setembro de 2007",
+          "link_detail_backend": "/norma/anexonormajuridica/2",
+          "metadata": {},
+          "assunto_anexo": "ANEXO 1\r\nCARGOS EM EXTINÇÃO",
+          "anexo_arquivo": "http://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/anexonormajuridica/2007/2/anexos_1_da_lei_420.pdf",
+          "ano": 2007,
+          "norma": 682
+        },
+        {
+          "id": 3,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/2007/3/anexos_2_da_lei_420.pdf da norma Lei Complementar Municipal nº 420, de 17 de setembro de 2007",
+          "link_detail_backend": "/norma/anexonormajuridica/3",
+          "metadata": {},
+          "assunto_anexo": "ANEXO I\r\nELENCO DE CARGOS NOVOS CRIADOS PELO ARTIGO 8°",
+          "anexo_arquivo": "http://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/anexonormajuridica/2007/3/anexos_2_da_lei_420.pdf",
+          "ano": 2007,
+          "norma": 682
+        },
+        {
+          "id": 4,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/2007/4/anexo_3_da_lei_420.pdf da norma Lei Complementar Municipal nº 420, de 17 de setembro de 2007",
+          "link_detail_backend": "/norma/anexonormajuridica/4",
+          "metadata": {},
+          "assunto_anexo": "ANEXO III\r\nREMUNERAÇÃO\r\nTABELA DE VENCIMENTOS DO NOVO QUADRO - ARTIGO 12",
+          "anexo_arquivo": "http://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/anexonormajuridica/2007/4/anexo_3_da_lei_420.pdf",
+          "ano": 2007,
+          "norma": 682
+        },
+        {
+          "id": 5,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/2007/5/anexo_4_da_lei_420.pdf da norma Lei Complementar Municipal nº 420, de 17 de setembro de 2007",
+          "link_detail_backend": "/norma/anexonormajuridica/5",
+          "metadata": {},
+          "assunto_anexo": "ANEXO IV \r\nQUADRO DOS CARGOS DE PROVIMENTO EFETIVO",
+          "anexo_arquivo": "http://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/anexonormajuridica/2007/5/anexo_4_da_lei_420.pdf",
+          "ano": 2007,
+          "norma": 682
+        },
+        {
+          "id": 6,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/2007/6/anexos_5_da_lei_420.pdf da norma Lei Complementar Municipal nº 420, de 17 de setembro de 2007",
+          "link_detail_backend": "/norma/anexonormajuridica/6",
+          "metadata": {},
+          "assunto_anexo": "ANEXO V\r\nDESCRIÇÃO SINTÉTICA E ANALÍTICA DOS CARGOS",
+          "anexo_arquivo": "http://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/anexonormajuridica/2007/6/anexos_5_da_lei_420.pdf",
+          "ano": 2007,
+          "norma": 682
+        }
+      ],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2023/leis-complementares-638-2023-sapl-713.md",
+      "sha256": "bef09f7615e37710249ba0e2ca1bca44018c18ef10894d1b7fc9b4cb3c313164",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/713",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "713",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 1594,
+          "trecho": " e finais\n\n**Art. 2º.** Em conformidade com o que dispõe os 1º, 2º e 3º do art. 4º, da Lei\n\nComplementar no 101/2000, integram ainda esta Lei:\n\nI — O Anexo de Riscos Fiscais, onde serão avaliados os passivos contingentes\n\ne outros riscos capazes de afetar as contas públicas, informando as\n\nprovidências a serem tomadas, caso se concretizem.\n\nII — O Anexo de Metas Fiscais, onde serão estabelecidas metas "
+        },
+        {
+          "offset": 1794,
+          "trecho": "assivos contingentes\n\ne outros riscos capazes de afetar as contas públicas, informando as\n\nprovidências a serem tomadas, caso se concretizem.\n\nII — O Anexo de Metas Fiscais, onde serão estabelecidas metas anuais, em\n\nvalores correntes e constantes, relativas a receitas, despesas, resultados\n\nnominal e primário e montante da dívida pública, este anexo conterá, ainda:\n\na) Avaliação do cumprimento das met"
+        },
+        {
+          "offset": 1991,
+          "trecho": "s metas anuais, em\n\nvalores correntes e constantes, relativas a receitas, despesas, resultados\n\nnominal e primário e montante da dívida pública, este anexo conterá, ainda:\n\na) Avaliação do cumprimento das metas relativas ao exercício de 2023;\n\nb) Evolução do patrimônio líquido da Prefeitura nos últimos 03 (três)\n\nexercícios;\n\nc) Demonstrativo da estimativa de renúncia fiscal;\n\nd) Quadros demonstrativos"
+        },
+        {
+          "offset": 4472,
+          "trecho": "pesa;\n\nc) Estimular a participação popular;\n\nd) Garantir a transparência e o controle social.\n\nParágrafo Único - As prioridades e metas constantes do Anexo desta Lei, e que\n\nse destinam ao exercício financeiro de 2023, relativas aos programas\n\nfinalísticos, poderão ser atualizadas, revistas e , em sendo o caso, substituídas\n\nquando do envio do Projeto de Lei Modificações do Plano Plurianual — PPA --\n\n2"
+        },
+        {
+          "offset": 30954,
+          "trecho": "ser feita ao final de\n\ncada semestre.\n\nParágrafo Único — O montante da dívida pública no exercício de 2024, não\n\nexcederá os limites estabelecidos no Anexo de Metas Fiscais que integra esta\n\nLei.\n\n#### CAPÍTULO XI\n\nDO EQUILIBRIO ENTRE RECEITAS E DESPESAS\n\n**Art. 47.** Deverá haver um equilíbrio entre a receita e a despesa para o período do\n\norçamento de 2024, orientado no que segue:\n\nI — Se verificado,"
+        },
+        {
+          "offset": 42296,
+          "trecho": "erificado, ao final de um bimestre, que a realização da receita poderá\n\nnão comportar o cumprimento das metas de resultado primário estabelecidos no\n\nAnexo de Metas Fiscais, o Poder Executivo promoverá, por ato próprio e nos\n\nmontantes necessários, nos trinta dias subsequentes, limitação de empenho e\n\nmovimentação financeira.\n\n**§ 1º** A limitação do empenho descrita no caput deste artigo abrangerá as\n"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2026/leis-complementares-736-2026-sapl-742.md",
+      "sha256": "e20755fbde8a9fd1ba4a62213529ded58a9f27198b61ed5504429b593db90392",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/742",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "742",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 745,
+          "trecho": "a criação de cargos efetivos e ampliação do número\n\nde vagas do quadro permanente de pessoal do Poder Executivo Municipal,\n\nconstantes nas tabelas em anexo.\n\n**Art. 2º** Fica ampliado o quantitativo de vagas dos cargos de provimento efetivo\n\nintegrantes do quadro permanente de pessoal do Poder Executivo Municipal,\n\nconstantes do Anexo II da Lei Complementar nº 420/2007, de 17 de setembro de\n\n2007, conf"
+        },
+        {
+          "offset": 926,
+          "trecho": "do o quantitativo de vagas dos cargos de provimento efetivo\n\nintegrantes do quadro permanente de pessoal do Poder Executivo Municipal,\n\nconstantes do Anexo II da Lei Complementar nº 420/2007, de 17 de setembro de\n\n2007, conforme especificado no Anexo I desta Lei Complementar.\n\n**Art. 3º** Ficam criados, no quadro permanente de pessoal do Poder Executivo\n\nMunicipal, os cargos de provimento efetivo espec"
+        },
+        {
+          "offset": 1021,
+          "trecho": "e pessoal do Poder Executivo Municipal,\n\nconstantes do Anexo II da Lei Complementar nº 420/2007, de 17 de setembro de\n\n2007, conforme especificado no Anexo I desta Lei Complementar.\n\n**Art. 3º** Ficam criados, no quadro permanente de pessoal do Poder Executivo\n\nMunicipal, os cargos de provimento efetivo especificados nos Anexos II e III\n\ndesta Lei Complementar, com suas respectivas nomenclaturas, quant"
+        },
+        {
+          "offset": 1194,
+          "trecho": "ementar.\n\n**Art. 3º** Ficam criados, no quadro permanente de pessoal do Poder Executivo\n\nMunicipal, os cargos de provimento efetivo especificados nos Anexos II e III\n\ndesta Lei Complementar, com suas respectivas nomenclaturas, quantitativos de\n\nvagas, requisitos de investidura, carga horária, atribuições e vencimentos,\n\npassando a integrar os Anexos I e V da Lei Complementar nº 420/2007, de 17 de\n\nsetem"
+        },
+        {
+          "offset": 1389,
+          "trecho": "suas respectivas nomenclaturas, quantitativos de\n\nvagas, requisitos de investidura, carga horária, atribuições e vencimentos,\n\npassando a integrar os Anexos I e V da Lei Complementar nº 420/2007, de 17 de\n\nsetembro de 2007.\n\n**Art. 4º** As despesas decorrentes da aplicação desta Lei Complementar correrão\n\npor conta das dotações próprias consignadas no orçamento municipal vigente,\n\npodendo o Poder Execut"
+        }
+      ],
+      "anexos_proprios": [
+        {
+          "id": 29,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/2026/29/anexo_i_da_lei_no_736_de_03_de_junho_de_2026.pdf da norma Lei Complementar Municipal nº 736, de 03 de junho de 2026",
+          "link_detail_backend": "/norma/anexonormajuridica/29",
+          "metadata": {},
+          "assunto_anexo": "ANEXO I\r\nQUANTIDADE DE CARGOS AMPLIADOS PELO ART 2º",
+          "anexo_arquivo": "http://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/anexonormajuridica/2026/29/anexo_i_da_lei_no_736_de_03_de_junho_de_2026.pdf",
+          "ano": 2026,
+          "norma": 742
+        },
+        {
+          "id": 30,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/2026/30/anexo_ii_da_lei__no_736_de_03_de_junho_de_2026.pdf da norma Lei Complementar Municipal nº 736, de 03 de junho de 2026",
+          "link_detail_backend": "/norma/anexonormajuridica/30",
+          "metadata": {},
+          "assunto_anexo": "ANEXO II\r\nQUANTIDADE DE CARGOS CRIADOS PELO ART 3º",
+          "anexo_arquivo": "http://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/anexonormajuridica/2026/30/anexo_ii_da_lei__no_736_de_03_de_junho_de_2026.pdf",
+          "ano": 2026,
+          "norma": 742
+        },
+        {
+          "id": 31,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/2026/31/anexo_iii_da_lei_no_736_de_03_de_junho_de_2026.pdf da norma Lei Complementar Municipal nº 736, de 03 de junho de 2026",
+          "link_detail_backend": "/norma/anexonormajuridica/31",
+          "metadata": {},
+          "assunto_anexo": "ANEXO III\r\nDESCRIÇÃO SINTÉTICA E ANALÍTICA DOS CARGOS",
+          "anexo_arquivo": "http://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/anexonormajuridica/2026/31/anexo_iii_da_lei_no_736_de_03_de_junho_de_2026.pdf",
+          "ano": 2026,
+          "norma": 742
+        }
+      ],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-ordinarias/2013/leis-ordinarias-469-2013-sapl-439.md",
+      "sha256": "73db5a57c8034ddb57396cef718ade2b2947a43ca1fe25e37d2de8abf4d9ca0b",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/439",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "439",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 1152,
+          "trecho": "\npróprias, consignadas no orçamento vigente, podendo ser suplementadas se\n\nnecessário, mediante anulação de outras.\n\n**Art. 3º** - Ficam alterados os Anexos da Lei nº 317/2000, de 16 de maio de 2000, que\n\npassam a vigorar com seus valores corrigidos mediante o presente reajuste.\n\n**Art. 4º** - Esta Lei entrará em vigor na data de sua publicação.\n\n**Art. 5º** - Revogam-se as disposições em contrário.\n\nSã"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/leis-ordinarias/2013/leis-ordinarias-471-2013-sapl-441.md",
+      "sha256": "3ab4796c5126e81f5aefe5f4d14389d85d0a0ee0e50e5edc3100484cfa2e3c16",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/441",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "441",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 727,
+          "trecho": "mais 01 vaga no cargo de motorista, vinculado à Secretaria de\n\nAdministração, de provimento efetivo, com número de vagas e remuneração\n\nconstantes no anexo único desta Lei.\n\n**Art. 2º.** Fica criado mais 03 vagas no cargo de Auxiliar de Serviços Gerais,\n\nvinculado à Secretaria Administração, de provimento efetivo, com número de\n\nvagas e remuneração constantes no anexo único desta Lei.\n\n**Art. 3º.** Fic"
+        },
+        {
+          "offset": 942,
+          "trecho": " cargo de Auxiliar de Serviços Gerais,\n\nvinculado à Secretaria Administração, de provimento efetivo, com número de\n\nvagas e remuneração constantes no anexo único desta Lei.\n\n**Art. 3º.** Fica criado mais 03 vagas no cargo de Professor da Educação Básica,\n\nvinculado à Secretaria de Educação e Cultura, de provimento efetivo, com\n\nnúmero de vagas e remuneração constantes no anexo único desta Lei.\n\n**Art. "
+        },
+        {
+          "offset": 1166,
+          "trecho": " Professor da Educação Básica,\n\nvinculado à Secretaria de Educação e Cultura, de provimento efetivo, com\n\nnúmero de vagas e remuneração constantes no anexo único desta Lei.\n\n**Art. 4º.** Fica criado mais 02 vagas no cargo de técnico de enfermagem, vinculado\n\nà Secretaria de Saúde, de provimento efetivo, com número de vagas e\n\nremuneração constantes no anexo único desta Lei.\n\n**Art. 5º.** As dotações pa"
+        },
+        {
+          "offset": 1370,
+          "trecho": "02 vagas no cargo de técnico de enfermagem, vinculado\n\nà Secretaria de Saúde, de provimento efetivo, com número de vagas e\n\nremuneração constantes no anexo único desta Lei.\n\n**Art. 5º.** As dotações para execução desta Lei são as fixadas na Lei Orçamentária\n\nAnual para o exercício de 2014.\n\n**Art. 6º.** Esta Lei entrará em vigor na data de sua publicação, revogadas as\n\ndisposições em contrário.\n\nANEXO "
+        },
+        {
+          "offset": 1619,
+          "trecho": "mentária\n\nAnual para o exercício de 2014.\n\n**Art. 6º.** Esta Lei entrará em vigor na data de sua publicação, revogadas as\n\ndisposições em contrário.\n\nANEXO ÚNICO\n\nTABELA 1\n\nCargo: Quantidade: Salário: Carga Horária: Motorista 01 R$: 678,00 40 horas Auxiliar de Serviços Gerais 03 R$: 678,00 40 horas Professor 03 R$: 1.175,31 25 horas Técnico de Enfermagem 02 R$: 678,00 40 horas\n\nSão José de Sabugi (PB),"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1997/resolucoes-1-1997-sapl-775.md",
+      "sha256": "24de7acff060876ca5a9794ea840ef627ac1a25edac3b1ba8ebf89e04e168a07",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/775",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "775",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 1235,
+          "trecho": "utura Organizacional Básica do\n\nPoder Legislativo, serão estabelecidos por ato da Mesa Diretora.\n\n**Art. 3º** - Ficam criados os cargos constantes do anexo único desta lei, de caráter\n\nde Provimento em Comissão, de livre nomeação e exoneração pelo Presidente da\n\nMesa Diretora, de acordo com as necessidades do serviço.\n\n**Art. 4º** - Esta RESOLUÇÃO entra em vigor na data de sua publicação, e seus\n\nefeit"
+        }
+      ],
+      "anexos_proprios": [
+        {
+          "id": 41,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/1997/41/anexo__no_01_de_25_de_fevereiro_de_1997.pdf da norma Resolução nº 1, de 25 de fevereiro de 1997",
+          "link_detail_backend": "/norma/anexonormajuridica/41",
+          "metadata": {},
+          "assunto_anexo": "Anexo nº 01, de 25 de fevereiro de 1997",
+          "anexo_arquivo": "http://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/anexonormajuridica/1997/41/anexo__no_01_de_25_de_fevereiro_de_1997.pdf",
+          "ano": 1997,
+          "norma": 775
+        }
+      ],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1997/resolucoes-5-1997-sapl-768.md",
+      "sha256": "b3dc3f80cb14ed116638c606eeb33b625c34923661ab6c62f059058cd37dc122",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/768",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "768",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 1052,
+          "trecho": "N n.º 035 de 01.08.89 e demais normas de Direito Financeiro\n\nestabelecido na forma da Lei Federal n.º 4.320/64., com os desdobramento\n\nconstantes nos anexos que fazem parte integrantes da presente.\n\n**Art. 2.º** - Ato da Mesa Diretora, suplementará as dotações do presente orçamento,\n\nutilizando como recursos para sua cobertura, os provenientes da anulação de\n\ndotações da Câmara, observado o limite de au"
+        }
+      ],
+      "anexos_proprios": [
+        {
+          "id": 36,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/1997/36/anexo_no_05_de_04_de_novembro_de_1997.pdf da norma Resolução nº 5, de 04 de novembro de 1997",
+          "link_detail_backend": "/norma/anexonormajuridica/36",
+          "metadata": {},
+          "assunto_anexo": "Anexo nº 05, NATUREZA DA DESPESA",
+          "anexo_arquivo": "http://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/anexonormajuridica/1997/36/anexo_no_05_de_04_de_novembro_de_1997.pdf",
+          "ano": 1997,
+          "norma": 768
+        }
+      ],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/1998/resolucoes-1-1998-sapl-767.md",
+      "sha256": "44d822401d1efe50a6f40e30912716f99da6a65a5e39c31d1fdf667c87335c70",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/767",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "767",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 827,
+          "trecho": "ra o exercício financeiro de 1999,\n\né de R$ 100.000,00 (CEM MIL REAIS), na forma do que dispõe a legislação\n\nvigente constante dos desdobramentos dos anexos que fazem parte integrantes\n\nda presente.\n\n**Art. 3º** - O Orçamento de que trata a presente Resolução, será encaminhado ao\n\nPoder Executivo Municipal, para inclusão ao Orçamento Geral do Município,\n\ntambém para o exercício de 1999.\n\n**Art. 4º** - R"
+        }
+      ],
+      "anexos_proprios": [
+        {
+          "id": 35,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/1998/35/anexo_no_001_de_20_de_outubro_de_1998.pdf da norma Resolução nº 1, de 20 de outubro de 1998",
+          "link_detail_backend": "/norma/anexonormajuridica/35",
+          "metadata": {},
+          "assunto_anexo": "Anexo nº 001  Programa de Trabalho 1999",
+          "anexo_arquivo": "http://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/anexonormajuridica/1998/35/anexo_no_001_de_20_de_outubro_de_1998.pdf",
+          "ano": 1998,
+          "norma": 767
+        }
+      ],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2018/resolucoes-1b-2018-sapl-773.md",
+      "sha256": "3d98e39845e0b0c289bce4720e41fae52dc6f4a9f370dd5a181098d21c7086e0",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/773",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "773",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 800,
+          "trecho": "al, a seguinte Resolução:\n\n**Art. 1º** - Considerando que os bens móveis pertencentes ao patrimônio do Poder\n\nLegislativo Municipal, discriminados no Anexo I deste Projeto, encontra-se\n\natualmente inservíveis para a Câmara Municipal de São José do Sabugi, fica o\n\nPresidente desta Casa de Lei autorizado a proceder à doação dos mesmos,\n\nmediante termo de doação próprio.\n\n**Art. 2º** - A doação dos bens c"
+        },
+        {
+          "offset": 1068,
+          "trecho": "idente desta Casa de Lei autorizado a proceder à doação dos mesmos,\n\nmediante termo de doação próprio.\n\n**Art. 2º** - A doação dos bens constantes no Anexo I deste Projeto, serão destinados\n\na: Creche Municipal “Professor Samuel Batista de Oliveira Junior” e Emater\n\nLocal, objetivando facilitar e promover parte das importantes atividades\n\ndesenvolvidas por estes setores em nosso município.\n\n**Art. 3º**"
+        }
+      ],
+      "anexos_proprios": [
+        {
+          "id": 37,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/2018/37/anexo_no_01_de_12_de_abril_de_2018.pdf da norma Resolução nº 1B, de 12 de abril de 2018",
+          "link_detail_backend": "/norma/anexonormajuridica/37",
+          "metadata": {},
+          "assunto_anexo": "ANEXO 1\r\n Doações de bens",
+          "anexo_arquivo": "http://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/anexonormajuridica/2018/37/anexo_no_01_de_12_de_abril_de_2018.pdf",
+          "ano": 2018,
+          "norma": 773
+        }
+      ],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2019/resolucoes-1-2019-sapl-748.md",
+      "sha256": "56e900e2fff4920d25be8be67c7da0ba524afe2645a091a3031e791496d6b9bc",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/748",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "748",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 773,
+          "trecho": "*Art. 1º** - O Regimento Interno da Câmara Municipal de São José do Sabugi, passa\n\na vigorar na conformidade dos termos/dispositivos estabelecidos no anexo único\n\ndesta Resolução.\n\n**Art. 2º** - Esta Resolução entra em vigor na data de sua publicação.\n\n**Art. 3º** - Ficam revogadas todas as disposições contidas no Regimento Interno\n\nanterior (Resolução 03/1995), bem como suas modificações posteriores.\n"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-3b-2021-sapl-771.md",
+      "sha256": "1ec5e868683969b1513330f04d66d0cd68267f12a8041618ea19df8cf96190be",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/771",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "771",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [
+        {
+          "id": 38,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/2021/38/anexo_i_no_003_de_29_de_outubro_de_2021.pdf da norma Resolução nº 3B, de 29 de outubro de 2021",
+          "link_detail_backend": "/norma/anexonormajuridica/38",
+          "metadata": {},
+          "assunto_anexo": "Orçamento Programado de 2022 Q.D.D – Quadro Detalhado da Despesa Fixada por Unidade orçamentária",
+          "anexo_arquivo": "http://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/anexonormajuridica/2021/38/anexo_i_no_003_de_29_de_outubro_de_2021.pdf",
+          "ano": 2021,
+          "norma": 771
+        },
+        {
+          "id": 39,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/2021/39/anexo_ii_no_003_de_29_de_outubro_de_2021.pdf da norma Resolução nº 3B, de 29 de outubro de 2021",
+          "link_detail_backend": "/norma/anexonormajuridica/39",
+          "metadata": {},
+          "assunto_anexo": "Orçamento Programa de 2022 Resumo Geral da Despesa Segundo as Categorias Econômicas – Anexo II – LEI nº 4.320/64 Por Órgão",
+          "anexo_arquivo": "http://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/anexonormajuridica/2021/39/anexo_ii_no_003_de_29_de_outubro_de_2021.pdf",
+          "ano": 2021,
+          "norma": 771
+        },
+        {
+          "id": 40,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/2021/40/anexo_vi_no_003_de_29_de_outubro_de_2021.pdf da norma Resolução nº 3B, de 29 de outubro de 2021",
+          "link_detail_backend": "/norma/anexonormajuridica/40",
+          "metadata": {},
+          "assunto_anexo": "Orçamento Programado de 2022 Demonstrativo das Funções, Subfunções e Programas por Operações Especiais, Projetos e Atividades - Anexo 6 orçamentária",
+          "anexo_arquivo": "http://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/anexonormajuridica/2021/40/anexo_vi_no_003_de_29_de_outubro_de_2021.pdf",
+          "ano": 2021,
+          "norma": 771
+        }
+      ],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2022/resolucoes-7-2022-sapl-760.md",
+      "sha256": "a1721732af6c0d6ef2a4352f434bea7450d07d2007d438f87141102a6cb4b630",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/760",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "760",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 1085,
+          "trecho": ", em R$\n\n1.870.130,00 (um milhão, oitocentos e setenta mil e cento e trinta reais)\n\n**Art. 2º** - A receita e as despesas serão ordenadas conforme os anexos que\n\nintegram esta Resolução.\n\n**Art. 3º** - Esta Resolução entra em vigor na data de sua publicação.\n\nSão José do Sabugi - PB, 30 de agosto de 2022.\n\nIDALETE NOBREGA DA COSTA\n\nPresidente\n\n"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PB/sao-jose-do-sabugi/resolucoes/2025/resolucoes-11-2025-sapl-743.md",
+      "sha256": "a3798a518ba40b991659576932a8fb64a56788ec87ac78e981f2723665c076d4",
+      "fonte": "https://sapl.saojosedosabugi.pb.leg.br/norma/743",
+      "host": "sapl.saojosedosabugi.pb.leg.br",
+      "id": "743",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 1099,
+          "trecho": "reira e\n\nem comissão do Poder Legislativo é o disposto nesta Resolução.\n\n**§ 2º.** Ficam criados, a partir desta Lei, os cargos efetivos descritos no Anexo I,\n\nbem como os cargos de provimento em comissão descritos no Anexo II desta\n\nResolução, com as respectivas nomenclaturas, simbologias, remunerações e\n\nrequisitos de investidura ali constantes.\n\n**§ 3º.** É proibida a prestação de serviços gratuitos"
+        },
+        {
+          "offset": 1167,
+          "trecho": "ão.\n\n**§ 2º.** Ficam criados, a partir desta Lei, os cargos efetivos descritos no Anexo I,\n\nbem como os cargos de provimento em comissão descritos no Anexo II desta\n\nResolução, com as respectivas nomenclaturas, simbologias, remunerações e\n\nrequisitos de investidura ali constantes.\n\n**§ 3º.** É proibida a prestação de serviços gratuitos, salvo os casos previstos na\n\nlegislação.\n\n**§ 4º.** Para os fins d"
+        },
+        {
+          "offset": 2047,
+          "trecho": "oal da Câmara Municipal de São José do Sabugi (PB)\n\ncompõe-se das seguintes partes:\n\nI – Pessoal de Provimento Efetivo: Ocupam os cargos elencados no Anexo I\n\ndesta Resolução, ou seja, aqueles providos em caráter permanente, mediante\n\naprovação em concurso público de provas ou de provas e títulos, organizados\n\nem carreira, escalonados segundo hierarquia definida em legislação própria;\n\nII – Pessoal de "
+        },
+        {
+          "offset": 2357,
+          "trecho": "\n\nem carreira, escalonados segundo hierarquia definida em legislação própria;\n\nII – Pessoal de Provimento em Comissão: Ocupam os cargos elencados no\n\nAnexo II desta Resolução, ou seja, os cargos de direção, chefia ou\n\nassessoramento ao serviço público, cujo provimento dispensa concurso\n\npúblico, sendo de livre nomeação e exoneração pela Presidência.\n\n**Art. 3º.** Os cargos são distribuídos em 03 (três)"
+        },
+        {
+          "offset": 3571,
+          "trecho": "hecimentos específicos de maior complexidade, obtidos através de cursos\n\nde nível superior.\n\n**§ 4º.** Os cargos de provimento efetivo que constam do Anexo I desta Resolução\n\nsó poderão ser preenchidos por concurso público de provas ou de provas e\n\ntítulos, conforme se dispuser em regulamento, ressalvado as contratações de\n\ncaráter temporário e de excepcional interesse público.\n\n**§ 5º.** Os cargos de "
+        },
+        {
+          "offset": 3870,
+          "trecho": "alvado as contratações de\n\ncaráter temporário e de excepcional interesse público.\n\n**§ 5º.** Os cargos de provimento em comissão são os constantes do Anexo II\n\ndesta Resolução, de livre nomeação e exoneração pela Presidência da Câmara\n\nMunicipal, e se destinam apenas às atribuições de direção, chefia e\n\nassessoramento.\n\n#### Capítulo II Das Formas de Provimento\n\n##### Seção I Das Disposições Gerais\n\n**"
+        },
+        {
+          "offset": 19886,
+          "trecho": "ecidas na legislação.\n\n**Art. 40.** O vencimento é a retribuição pecuniária pelo exercício de cargo público,\n\nnos valores e referências constantes do Anexo I e II desta Resolução.\n\n**§ 1º.** Nenhum servidor receberá, a título de remuneração, importância inferior\n\nao salário-mínimo, devidamente reajustado anualmente, nos termos definidos\n\npelo Congresso Nacional.\n\n**§ 2º.** O vencimento do cargo efetivo"
+        }
+      ],
+      "anexos_proprios": [
+        {
+          "id": 32,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/2025/32/anexo_i_-_resolucao_no_011_de_27_de_marco_de_2025.pdf da norma Resolução nº 11, de 27 de março de 2025",
+          "link_detail_backend": "/norma/anexonormajuridica/32",
+          "metadata": {},
+          "assunto_anexo": "",
+          "anexo_arquivo": "http://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/anexonormajuridica/2025/32/anexo_i_-_resolucao_no_011_de_27_de_marco_de_2025.pdf",
+          "ano": 2025,
+          "norma": 743
+        },
+        {
+          "id": 33,
+          "__str__": "Anexo: sapl/public/anexonormajuridica/2025/33/anexo_ii_-_resolucao_no_011_de_27_de_marco_de_2025.pdf da norma Resolução nº 11, de 27 de março de 2025",
+          "link_detail_backend": "/norma/anexonormajuridica/33",
+          "metadata": {},
+          "assunto_anexo": "",
+          "anexo_arquivo": "http://sapl.saojosedosabugi.pb.leg.br/media/sapl/public/anexonormajuridica/2025/33/anexo_ii_-_resolucao_no_011_de_27_de_marco_de_2025.pdf",
+          "ano": 2025,
+          "norma": 743
+        }
+      ],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/leis-complementares/2022/leis-complementares-11-2022-sapl-164.md",
+      "sha256": "900289473c53a69aa1a9603cda03889105d462daf5dffbb5b8d7167c7fcbab58",
+      "fonte": "https://sapl.campodotenente.pr.leg.br/norma/164",
+      "host": "sapl.campodotenente.pr.leg.br",
+      "id": "164",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 20306,
+          "trecho": "3% 3% 3% 3% 3% 3%\n\nIII 20% 3% 3% 3% 3% 3% 3% 3% 3% 3% 3% 3% 3% 3%\n\n\\*\\*\\* Salário base estabelecido em projeto lei ou resolução na criação do cargo.\n\nAnexo II AVALIAÇÃO PARA FINS DE PROGRESSÃO\n\nEsta avaliação deverá obedecer rigorosamente as instruções contidas naLei Complementar nº/2022.\n\nServidor (a):\n\nCPF nºCargo/função:\n\nClasse atual: Classe Pretendida:\n\nNota de 3,0 à I –Qualidade e Presteza II -Pr"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/resolucoes/2023/resolucoes-9-2023-sapl-105.md",
+      "sha256": "3ade4031eeb51c2101a0d0df633a8d2e4c83ce3a1ac8af4ae3fdc55121b59a55",
+      "fonte": "https://sapl.campodotenente.pr.leg.br/norma/105",
+      "host": "sapl.campodotenente.pr.leg.br",
+      "id": "105",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 506,
+          "trecho": "idente, promulgo o seguinte:\n\n**Art. 1.** Ficam declarados como inservíveis para a Câmara Municipal de Campo do Tenente, os bens móveis listados nos\n\nanexos I e II desta Resolução.\n\n**Art. 2.** Fica o Poder Legislativo autorizado a doar à Prefeitura Municipal de Campo do Tenente, os bens móveis listados nos\n\nanexos I e II desta Resolução, mediante termo de entrega.\n\n**Art. 3.** O setor de Patrimônio, ap"
+        },
+        {
+          "offset": 666,
+          "trecho": " II desta Resolução.\n\n**Art. 2.** Fica o Poder Legislativo autorizado a doar à Prefeitura Municipal de Campo do Tenente, os bens móveis listados nos\n\nanexos I e II desta Resolução, mediante termo de entrega.\n\n**Art. 3.** O setor de Patrimônio, após os trâmites legais, efetuará a baixa dos bens móveis inservíveis constantes dos anexos I e II, e o setor contábil financeiro realizará as medidas cabíveis de"
+        },
+        {
+          "offset": 845,
+          "trecho": ", mediante termo de entrega.\n\n**Art. 3.** O setor de Patrimônio, após os trâmites legais, efetuará a baixa dos bens móveis inservíveis constantes dos anexos I e II, e o setor contábil financeiro realizará as medidas cabíveis de acordo com a Lei Federal 4.320/64 e registros necessários.\n\n**Art. 4.** Esta Resolução entra em vigor na data de sua publicação.\n\nCâmara Municipal de Campo do Tenente, 12 de deze"
+        },
+        {
+          "offset": 1116,
+          "trecho": "os necessários.\n\n**Art. 4.** Esta Resolução entra em vigor na data de sua publicação.\n\nCâmara Municipal de Campo do Tenente, 12 de dezembro de 2023.\n\nANEXO I - Veículo oficial FIAT GRAND SIENA ATTRACTIVE 1.4 FLEX, 4 (quatro) portas, ano 2018, gasolina/álcool, placa BCG6391, RENAVAM 01157549176 na cor branca. PATRIMÔNIO Nº 252.\n\nANEXO II - 5 (cinco) PERSIANAS – NA COR BRANCA E VERMELHO PATRIMÔNIO N° 91,"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/resolucoes/2025/resolucoes-15-2025-sapl-59.md",
+      "sha256": "b8af9aa99ce489dfc9ca306225948c6aa574b57877303f8b1c5ae7896a7878ef",
+      "fonte": "https://sapl.campodotenente.pr.leg.br/norma/59",
+      "host": "sapl.campodotenente.pr.leg.br",
+      "id": "59",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 627,
+          "trecho": "aprovou a seguinte Resolução:\n\n**Art. 1.** Ficam declarados como inservíveis para a Câmara Municipal de Campo do Tenente, os bens móveis listados no\n\nanexo I desta Resolução.\n\n**Art. 2º** Fica o Poder Legislativo autorizado a doar à Prefeitura Municipal de Campo do Tenente os bens móveis relacionados no Anexo I desta Resolução, mediante termo de entrega, destinando-se, em especial, à Secretaria Municip"
+        },
+        {
+          "offset": 782,
+          "trecho": " I desta Resolução.\n\n**Art. 2º** Fica o Poder Legislativo autorizado a doar à Prefeitura Municipal de Campo do Tenente os bens móveis relacionados no Anexo I desta Resolução, mediante termo de entrega, destinando-se, em especial, à Secretaria Municipal de Desenvolvimento, Cultura e Turismo.\n\n**Art. 3.** O setor de Patrimônio, após os trâmites legais, efetuará a baixa dos bens móveis inservíveis constan"
+        },
+        {
+          "offset": 1044,
+          "trecho": "olvimento, Cultura e Turismo.\n\n**Art. 3.** O setor de Patrimônio, após os trâmites legais, efetuará a baixa dos bens móveis inservíveis constantes do anexo I, e o setor contábil financeiro realizará as medidas cabíveis de acordo com a Lei Federal 4.320/64 e registros necessários.\n\n**Art. 4.** Esta Resolução entra em vigor na data de sua publicação.\n\nCampo do Tenente - PR, 26 de setembro de 2025.\n\nRAFAE"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PR/campo-do-tenente/resolucoes/2026/resolucoes-7-2026-sapl-149.md",
+      "sha256": "c090854ec37574c71c01a9850b5ac8323cb4e753b749e2f10401025735fb94da",
+      "fonte": "https://sapl.campodotenente.pr.leg.br/norma/149",
+      "host": "sapl.campodotenente.pr.leg.br",
+      "id": "149",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 1013,
+          "trecho": "manentes ou Especiais podem ser realizadas a qualquer momento.\n\n**§ 6º** Fica estabelecido o Modelo Padrão de Relatório de Fiscalização, constante no Anexo I desta Resolução, que deverá conter obrigatoriamente a metodologia aplicada, os fatos constatados, as provas colhidas e as recomendações propostas.\n\n**§ 7º** Antes da publicidade do relatório final, os fatos observados na fiscalização deverão ser d"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-complementares/2019/leis-complementares-20-2019-sapl-1057.md",
+      "sha256": "ac975ab1986f5ad1854f0c4cfae63e2416fd864ba0b29511d9f97c0cc1e9201c",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/1057",
+      "host": "sapl.joaquimtavora.pr.leg.br",
+      "id": "1057",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 597,
+          "trecho": " 1º** - O anexo III, referente ao quantitativo e valores das funções, denominação Controlador Interno, referência FG 1 passa a ter o seguinte valor: “Anexo III – QUANTITATIVO E VALORES DAS FUNÇÕES GRATIFICADAS DO MUNICÍPIO DE JOAQUIM TÁVORA: Denominação Referência Valor R$ Controlador Interno FG 1 2.800,00\n\n**Art. 2º.** Esta lei entra em vigor na data de sua publicação.\n\nJoaquim Távora-PR, 13 de setemb"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2013/leis-ordinarias-1283-2013-sapl-234.md",
+      "sha256": "c0e8f26897345af4c2e55e2675751a3c76c8f2a919c3d5a719f797d5f585d92b",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/234",
+      "host": "sapl.joaquimtavora.pr.leg.br",
+      "id": "234",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 498,
+          "trecho": "nicípio de Joaquim Távora constante da lei 1.132/2009.\n\n**Art. 2º.** O Perímetro Urbano da Sede do Município de Joaquim Távora, é o constante em mapa anexo, de acordo com a seguinte descrição:\n\n“Inicia-se o perímetro no marco denominado M-0001, segue em linha reta e seca até o marco M-0002, num azimute de 20°53’04” e uma distância de 494,95 metros; deste marco segue em linha reta e seca até o marco M-0"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2013/leis-ordinarias-1284-2013-sapl-806.md",
+      "sha256": "9a297b6b33d01888452a07527f1e287fe64a10bde9dfadb6c5afb509efd6f6c8",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/806",
+      "host": "sapl.joaquimtavora.pr.leg.br",
+      "id": "806",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 780,
+          "trecho": "750,00 ENCARREGADO DE DEPARTAMENTO 2521.05 1.780,00\n\nANEXO IV – GRUPO OCUPACIONAL MAGISTÉRIO\n\nCARGO C.B.O VALOR R$ SECRETÁRIO ESCOLAR 4110-10 750,00\n\nANEXO V – GRUPO OCUPACIONAL SERVIÇOS GERAIS\n\nCARGO C.B.O VALOR R$ MOTORISTA 7823.10 1.000,00 PEDREIRO 7152.10 900,00 OPERÁRIO 9922.25 800,00 BORRACHEIRO 9921.15 800,00 VIVEIRISTA DE MUDAS 6220.15 800,00\n\nART 2º. Esta lei entra em vigor na data de sua publ"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2013/leis-ordinarias-1290-2013-sapl-810.md",
+      "sha256": "24f5a96ffde01dcbe45ccfd0b0a013d6eb9243ab2156ba8c790750abfb8f9645",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/810",
+      "host": "sapl.joaquimtavora.pr.leg.br",
+      "id": "810",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 448,
+          "trecho": "Prefeito municipal sanciono a seguinte Lei:\n\nART 1º. Altera os vencimentos básicos dos servidores públicos efetivos abaixo mencionados, constantes do anexo V da Lei 668/89, que passa a vigorar com os seguintes valores:\n\nANEXO V – GRUPO OCUPACIONAL SERVIÇOS GERAIS\n\nCARGO C.B.O VALOR R$ MOTORISTA 7823.10 1.045,00 GARI 5142-15 778,00\n\nART 2º. Esta lei entra em vigor na data de sua publicação, retroativo a"
+        },
+        {
+          "offset": 518,
+          "trecho": "ntos básicos dos servidores públicos efetivos abaixo mencionados, constantes do anexo V da Lei 668/89, que passa a vigorar com os seguintes valores:\n\nANEXO V – GRUPO OCUPACIONAL SERVIÇOS GERAIS\n\nCARGO C.B.O VALOR R$ MOTORISTA 7823.10 1.045,00 GARI 5142-15 778,00\n\nART 2º. Esta lei entra em vigor na data de sua publicação, retroativo a 1º de junho de 2013, revogadas as disposições em contrário.\n\nJoaquim "
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2013/leis-ordinarias-1301-2013-sapl-240.md",
+      "sha256": "a322bc54d914bc1bdd1820e26f14099258a70869ea310b6b12736df7380880dc",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/240",
+      "host": "sapl.joaquimtavora.pr.leg.br",
+      "id": "240",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 452,
+          "trecho": "feito municipal sanciono a seguinte Lei:\n\nART 1º. Altera o vencimento básico de servidor público efetivo da categoria abaixo mencionada, constante do anexo V da Lei 668/89, que passa a vigorar com o seguinte valor:\n\nANEXO V – GRUPO OCUPACIONAL SERVIÇOS GERAIS\n\nCARGO C.B.O VALOR R$ AUXILIAR EM AGROPECUÁRIA 3211.10 1.230,00\n\nART 2º. Esta lei entra em vigor na data de sua publicação, revogadas as disposiç"
+        },
+        {
+          "offset": 518,
+          "trecho": "nto básico de servidor público efetivo da categoria abaixo mencionada, constante do anexo V da Lei 668/89, que passa a vigorar com o seguinte valor:\n\nANEXO V – GRUPO OCUPACIONAL SERVIÇOS GERAIS\n\nCARGO C.B.O VALOR R$ AUXILIAR EM AGROPECUÁRIA 3211.10 1.230,00\n\nART 2º. Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.\n\nJoaquim Távora, 1º de outubro de 2013.\n\n. GELSO"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2014/leis-ordinarias-1327-2014-sapl-263.md",
+      "sha256": "d7721a5c2233c43e72380952b46e71fd3b7b4623b074bb8ba5558d796d427d0e",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/263",
+      "host": "sapl.joaquimtavora.pr.leg.br",
+      "id": "263",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 411,
+          "trecho": "Câmara Municipal de Joaquim Távora, Estado do Paraná aprovou, e eu, Prefeito municipal sanciono a seguinte Lei:\n\nART 1º. Altera valores constantes do anexo I da Lei 1.289/2013, que passa a vigorar com a seguinte redação valores:\n\nANEXO I GRUPO OCUPACIONAL SERVIÇOS GERAIS\n\nMotoristas ambulâncias R$ 350,00 Motorista Departamento de R$ 350,00 Esporte\n\n**Art. 8º** - Esta Lei entrará em vigor na data de sua"
+        },
+        {
+          "offset": 491,
+          "trecho": "icipal sanciono a seguinte Lei:\n\nART 1º. Altera valores constantes do anexo I da Lei 1.289/2013, que passa a vigorar com a seguinte redação valores:\n\nANEXO I GRUPO OCUPACIONAL SERVIÇOS GERAIS\n\nMotoristas ambulâncias R$ 350,00 Motorista Departamento de R$ 350,00 Esporte\n\n**Art. 8º** - Esta Lei entrará em vigor na data de sua publicação, com efeitos retroativos a 1º/04/2014.\n\nJoaquim Távora, em 24 de abr"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2014/leis-ordinarias-1345-2014-sapl-281.md",
+      "sha256": "fa9b33060656d25759c8a6833591ae85cb6356f3843463b71b51d235f03f8661",
+      "fonte": "https://sapl.joaquimtavora.pr.leg.br/norma/281",
+      "host": "sapl.joaquimtavora.pr.leg.br",
+      "id": "281",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 491,
+          "trecho": "Prefeito municipal sanciono a seguinte Lei:\n\nART 1º. Altera os vencimentos básicos dos servidores públicos efetivos abaixo mencionados, constantes do anexo II da Lei 668/89, que passa a vigorar com os seguintes valores:\n\nANEXO II – GRUPO OCUPACIONAL SEMI PROFISSIONAL\n\nCARGO C.B.O VALOR R$ AUXILIAR DE 3222.30 950,00 ENFERMAGEM AUXILIAR DE 3222.30 950,00 ENFERMAGEM PSF\n\nART 2º. Esta lei entra em vigor na"
+        },
+        {
+          "offset": 562,
+          "trecho": "tos básicos dos servidores públicos efetivos abaixo mencionados, constantes do anexo II da Lei 668/89, que passa a vigorar com os seguintes valores:\n\nANEXO II – GRUPO OCUPACIONAL SEMI PROFISSIONAL\n\nCARGO C.B.O VALOR R$ AUXILIAR DE 3222.30 950,00 ENFERMAGEM AUXILIAR DE 3222.30 950,00 ENFERMAGEM PSF\n\nART 2º. Esta lei entra em vigor na data de sua publicação, retroativo a 1º de agosto de 2014, revogadas a"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/RN/caico/resolucoes/2025/resolucoes-6-2025-sapl-1516.md",
+      "sha256": "dafaccdb5e3635362403f25188c37c7a85f3fa513148f14a53cd7e3892431ae1",
+      "fonte": "https://sapl.caico.rn.leg.br/norma/1516",
+      "host": "sapl.caico.rn.leg.br",
+      "id": "1516",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 610,
+          "trecho": "lgo a seguinte Resolução:\n\n**Art. 1º** - Fica aprovado o Manual de Procedimentos da Controladoria-Geral da Câmara Municipal de Caicó/RN, constante do Anexo Único desta Resolução, que integra a presente norma para todos os fins, compreendendo seus capítulos, quadros e os\n\nAnexos I a XII nele contidos.\n\n**Art. 2º** - O Manual aprovado por esta Resolução será de observância obrigatória por todos os setore"
+        },
+        {
+          "offset": 732,
+          "trecho": "l de Caicó/RN, constante do Anexo Único desta Resolução, que integra a presente norma para todos os fins, compreendendo seus capítulos, quadros e os\n\nAnexos I a XII nele contidos.\n\n**Art. 2º** - O Manual aprovado por esta Resolução será de observância obrigatória por todos os setores da Câmara Municipal de Caicó/RN, no que couber, servindo como referência normativa e operacional para as atividades de co"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    }
+  ]
+}

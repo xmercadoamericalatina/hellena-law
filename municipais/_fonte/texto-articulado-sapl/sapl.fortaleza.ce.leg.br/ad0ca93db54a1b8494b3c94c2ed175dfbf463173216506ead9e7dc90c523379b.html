@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Fortaleza</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Fortaleza",
+      "url" : "http://sapl.fortaleza.ce.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          20/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/logo_casa.png"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Fortaleza
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/4901?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/2037/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Resolução nº 1.644, de 23 de fevereiro de 2017
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Resolução</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>1644</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>2017</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>23 de Fevereiro de 2017</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>ALTERA A RESOLUÇÃO N. 1.497, DE 30 DE JUNHO DE 1997 NA FORMA QUE INDICA.</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/2037/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+          <div class="text-info col-12 small">
+            <b>Altera o(a)</b>&nbsp;
+            <a href="/norma/3675">
+              Resolução nº 1.497, de 30 de junho de 1997
+            </a>
+          </div>
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt60595" ><div class="dtxt" id="d60595" pks="" pk="60595"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt60596" ><a class="dpt-link" name="60596" title="60596"></a><div class="dtxt" id="d60596" pks="" pk="60596">Altera a Resolução n. 1.497, de 30 de junho de 1997 na forma que indica.</div></div><div class="dn" id="dn60596" pk="60596"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt60597" ><a class="dpt-link" name="60597" title="60597"></a><div class="dtxt" id="d60597" pks="" pk="60597"><p class="MsoBodyText"><strong><span style="font-family: 'Calibri',sans-serif;">O PRESIDENTE DA CÂMARA MUNICIPAL DE FORTALEZA, no uso de suas atribuições, que lhe são conferidas pelo inciso IV DO ART. 36 da Lei Orgânica do Município, PROMULGA:</span></strong></p></div></div><div class="dn" id="dn60597" pk="60597"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt60598" ><div class="dtxt" id="d60598" pks="" pk="60598"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt60599" ><div class="dtxt" id="d60599" pks="" pk="60599"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt60600" ><a class="dpt-link" name="60600">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d60600" pks="" pk="60600">Ficam adicionados à Resolução n. 1.497, de 30 de junho de 1997, os arts. 4º-A, 4º-B e 4º-C, com a seguinte redação:</div></div><div class="dn" id="dn60600" pk="60600"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt bloco_alteracao " nivel="2">
+    
+
+    <div class="bloco_alteracao  "><div class="dptt "  id="dptt60601" ><div class="dtxt" id="d60601" pks="" pk="60601"></div></div></div>
+    
+      
+        
+
+  <div class="dpt desativado" id="d60603" nivel="2"><div class="caput" id="id60603" nivel="2"><a name="60602" href="/ta/2033/text#60602">Art. 4º-A.</a>
+                &nbsp;
+              
+            
+            
+            
+              
+              O Vereador titular do mandato, licenciado do cargo nos termos a que se refere o inciso I do art. 40 da Lei Orgânica do Município, poderá fazer a opção pelo subsídio do mandato parlamentar, nos termos do § 2º do art. 40 da Lei Orgânica do Município; não terá direito à Verba de Desempenho Parlamentar (VDP) e terá o direito de manter os assessores parlamentares até o limite de 60% (sessenta por cento) do valor da referida verba, conforme os níveis estabelecidos no Anexo I, parte integrante desta Resolução.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d60606" nivel="2"><div class="paragrafo indent" id="id60606" nivel="2"><a name="60606" href="/ta/2033/text#60606">Parágrafo único </a>
+              &nbsp;
+              O Suplente convocado ao exercício do mandato, em virtude da concessão da licença a que se refere o caput deste artigo, fará jus a todos os direitos inerentes ao mandato titular, exceto quanto à Verba de Retribuição de Assessoramento Parlamentar, que será correspondente a 40% (quarenta por cento) do valor da referida verba, podendo indicar os assessores parlamentares que serão remunerados segundo os níveis a que se refere o Anexo I desta Resolução.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d60609" nivel="2"><div class="caput" id="id60609" nivel="2"><a name="60608" href="/ta/2033/text#60608">Art. 4º-B.</a>
+                &nbsp;
+              
+            
+            
+            
+              
+              O Vereador titular do mandato, licenciado do cargo para tratamento de saúde, nos termos a que se refere o inciso II do art. 40 da Lei Orgânica do Município, fará jus ao subsídio integral do mandato parlamentar, nos termos do § 1º do art. 40 da Lei Orgânica do Município; não terá direito à Verba de Desempenho Parlamentar (VDP) e terá o direito de manter os assessores parlamentares até o limite de 60% (sessenta por cento) do valor da referida verba, conforme os níveis estabelecidos no Anexo I, parte integrante desta Resolução.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d60610" nivel="2"><div class="paragrafo indent" id="id60610" nivel="2"><a name="60610" href="/ta/2033/text#60610">Parágrafo único </a>
+              &nbsp;
+              O Suplente convocado ao exercício do mandato, em virtude da concessão da licença a que se refere o caput deste artigo, fará jus a todos os direitos inerentes ao mandato titular, exceto quanto à Verba de Retribuição de Assessoramento Parlamentar, que será correspondente a 40% (quarenta por cento) do valor da referida verba, podendo indicar os assessores parlamentares que serão remunerados segundo os níveis a que se refere o Anexo I desta Resolução.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d60612" nivel="2"><div class="caput" id="id60612" nivel="2"><a name="60611" href="/ta/2033/text#60611">Art. 4º-C.</a>
+                &nbsp;
+              
+            
+            
+            
+              
+              O Vereador titular do mandato, licenciado do cargo para tratar de interesse particular, nos termos a que se refere o inciso II do art. 40 da Lei Orgânica do Município, não fará jus ao subsídio do mandato, não terá direito à Verba de Desempenho Parlamentar (VDP) e nem à Verba de Retribuição de Assessoramento Parlamentar, durante o período de sua licença.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d60614" nivel="2"><div class="paragrafo indent" id="id60614" nivel="2"><a name="60614" href="/ta/2033/text#60614">Parágrafo único </a>
+              &nbsp;
+              O Suplente convocado ao exercício do mandato, em virtude da concessão da licença a que se refere o caput deste artigo, fará jus a todos os direitos inerentes ao mandato titular, podendo indicar os assessores parlamentares que serão remunerados segundo os níveis a que se refere o Anexo I desta Resolução.
+            
+
+            
+
+          </div></div>
+
+
+      
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt60615" ><div class="dtxt" id="d60615" pks="" pk="60615"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt60616" ><a class="dpt-link" name="60616">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d60616" pks="" pk="60616">Esta Resolução entra em vigor na data de sua publicação, revogadas as disposições em contrário.</div></div><div class="dn" id="dn60616" pk="60616"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt60618" ><div class="dtxt" id="d60618" pks="" pk="60618"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt60619" ><a class="dpt-link" name="60619" title="60619"></a><div class="dtxt" id="d60619" pks="" pk="60619"><div class="Corpodetexto21" style="text-align: center;"><strong><span style="mso-bidi-font-size: 12.0pt; font-family: 'Calibri',sans-serif; mso-bidi-font-weight: bold;">PAÇO DA CÂMARA MUNICIPAL DE FORTALEZA JOSÉ BARROS DE ALENCAR, EM 23 DE FEVEREIRO DE 2017.</span></strong></div><div class="MsoNormal" style="text-align: center;"><strong><span style="font-family: 'Calibri',sans-serif;">&nbsp;</span></strong></div><div class="MsoNormal" style="text-align: center;"><strong><span style="font-family: 'Calibri',sans-serif;">&nbsp;</span></strong></div><div style="margin-left: 0cm; text-indent: 0cm; text-align: center;"><strong><span style="font-size: 12.0pt; font-family: 'Calibri',sans-serif;">VEREADOR SALMITO FILHO</span></strong></div><div class="MsoNormal" style="text-align: center;" align="center"><span style="font-family: 'Calibri',sans-serif;"><strong>Presidente da Câmara Municipal de Fortaleza</strong></span></div></div></div><div class="dn" id="dn60619" pk="60619"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div>
+
+
+</div>
+
+  <div class="dont-break-out"></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Fortaleza</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Dr. Thompson Bulcão, 830</span>
+                  <br>
+                  CEP: <span class="postal-code">60810-460</span>
+                  |
+                  Telefone: <span>(85) 3444-8300</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="http://www.cmfor.ce.gov.br" class="url">Site</a> |
+                  <a href="mailto:cogel.cmfor@gmail.com.br" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+    
+
+    
+  </body>
+</html>

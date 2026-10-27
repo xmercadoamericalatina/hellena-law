@@ -1,0 +1,994 @@
+{
+  "estado": "preparado",
+  "extrator": "geometria-colunas-v2",
+  "sha256_extrator": "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5",
+  "sha256_classificador": "6ad567935722b5e8b846d6eb306fcbb0cb2df93552e1c90fe6e930211c5a3df7",
+  "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_110045_2025-12-31_40b8ae0996483314e8d5894679ff676b.pdf",
+  "data_circulacao": "2026-01-02",
+  "pdf": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/famurs/2026-01-02-4238.pdf",
+  "sha256_pdf": "f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e",
+  "cache_texto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/famurs/2026-01-02-4238.pdf.geometria-colunas-v2.3d954c48700d4932.txt",
+  "cache_metadados": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/famurs/2026-01-02-4238.pdf.geometria-colunas-v2.3d954c48700d4932.json",
+  "anteriores": [
+    {
+      "arquivo": "municipais/RS/alecrim/decretos/2025/decreto-3454-2025-d91586f8.md",
+      "sha256": "9afd4a4a730960807a20a67887628ea65175a1e0ef89d07087651b0f9c25d020",
+      "codigo": "D91586F8",
+      "numero": "3454",
+      "municipio": "ALECRIM",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "D91586F8",
+          "destino": "municipais/RS/alecrim/decretos/2025/decreto-3454-2025-d91586f8.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/pelotas/leis-ordinarias/2025/lei-ordinaria-7506-2025-dd1d4030.md",
+      "sha256": "352710c08bbed0169f283492481009da4a9afeb395d68dd412740b44e787dd80",
+      "codigo": "DD1D4030",
+      "numero": "7506",
+      "municipio": "PELOTAS",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "DD1D4030",
+          "destino": "municipais/RS/pelotas/leis-ordinarias/2025/lei-ordinaria-7506-2025-dd1d4030.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/pelotas/leis-ordinarias/2025/lei-ordinaria-7507-2025-fb5f5af9.md",
+      "sha256": "afe59a1f0a409d14eca8d10daecb57c6df47dfcd6f5fe018c37a0621aae20f9b",
+      "codigo": "FB5F5AF9",
+      "numero": "7507",
+      "municipio": "PELOTAS",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "FB5F5AF9",
+          "destino": "municipais/RS/pelotas/leis-ordinarias/2025/lei-ordinaria-7507-2025-fb5f5af9.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/pelotas/decretos/2026/decreto-006-2026-571068af.md",
+      "sha256": "2c492c70226c0b36b22ce51b6454db9ba77309fabb345b61ba297d8d96e981aa",
+      "codigo": "571068AF",
+      "numero": "006",
+      "municipio": "PELOTAS",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "571068AF",
+          "destino": "municipais/RS/pelotas/decretos/2026/decreto-006-2026-571068af.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/butia/decretos/2025/decreto-0344-2025-477e4651.md",
+      "sha256": "a97cc617c4ec806ad5c14f56245d0ac519154c7e49023a34dcccf715083e8aab",
+      "codigo": "477E4651",
+      "numero": "0344",
+      "municipio": "BUTIÁ",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "477E4651",
+          "destino": "municipais/RS/butia/decretos/2025/decreto-0344-2025-477e4651.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/travesseiro/decretos/2025/decreto-2426-2025-65127637.md",
+      "sha256": "d0b9003ebbfb281b86a0a193312140627159469e2faecdcd322447111e5cee69",
+      "codigo": "65127637",
+      "numero": "2426",
+      "municipio": "TRAVESSEIRO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "65127637",
+          "destino": "municipais/RS/travesseiro/decretos/2025/decreto-2426-2025-65127637.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/rio-grande/decretos/2025/decreto-22302-2025-ecb4c2df.md",
+      "sha256": "d9c7b6f95682ae939cead81b659d86dd79e67e090c95c0fe128c5ee9b1497fd3",
+      "codigo": "ECB4C2DF",
+      "numero": "22302",
+      "municipio": "RIO GRANDE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "ECB4C2DF",
+          "destino": "municipais/RS/rio-grande/decretos/2025/decreto-22302-2025-ecb4c2df.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/imbe/decretos/2025/decreto-4484-2025-947296fd.md",
+      "sha256": "219aeb6bd3d4376b769225e9ac08cf8adbfad8690f9f5170f27061125c99c00e",
+      "codigo": "947296FD",
+      "numero": "4484",
+      "municipio": "IMBÉ",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "947296FD",
+          "destino": "municipais/RS/imbe/decretos/2025/decreto-4484-2025-947296fd.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/tupancireta/leis-ordinarias/2025/lei-ordinaria-5080-2025-b6a2a344.md",
+      "sha256": "ea1a144caa3789435da3980de34888897ac29b389739dea5490ef1f6dc778e3d",
+      "codigo": "B6A2A344",
+      "numero": "5080",
+      "municipio": "TUPANCIRETÃ",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "B6A2A344",
+          "destino": "municipais/RS/tupancireta/leis-ordinarias/2025/lei-ordinaria-5080-2025-b6a2a344.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/tupancireta/leis-ordinarias/2025/lei-ordinaria-5084-2025-2879517b.md",
+      "sha256": "b0c16860c112ea0d9b8bb46248f10a96357cf70209e35b7377806a3b718d5b6d",
+      "codigo": "2879517B",
+      "numero": "5084",
+      "municipio": "TUPANCIRETÃ",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "2879517B",
+          "destino": "municipais/RS/tupancireta/leis-ordinarias/2025/lei-ordinaria-5084-2025-2879517b.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/tupancireta/leis-ordinarias/2025/lei-ordinaria-5083-2025-8b5925f8.md",
+      "sha256": "7978dfe4d5149f0f750766b68693838e09573891a6d82117e1534d1ba9eba101",
+      "codigo": "8B5925F8",
+      "numero": "5083",
+      "municipio": "TUPANCIRETÃ",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "8B5925F8",
+          "destino": "municipais/RS/tupancireta/leis-ordinarias/2025/lei-ordinaria-5083-2025-8b5925f8.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/tupancireta/leis-complementares/2025/lei-complementar-5085-2025-077a20ac.md",
+      "sha256": "00b51cadf953819f11d374888b8b6c932baf8ade71072cb88acdf43283f622a8",
+      "codigo": "077A20AC",
+      "numero": "5085",
+      "municipio": "TUPANCIRETÃ",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "077A20AC",
+          "destino": "municipais/RS/tupancireta/leis-complementares/2025/lei-complementar-5085-2025-077a20ac.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/tupancireta/leis-complementares/2025/lei-complementar-5081-2025-50cc1d84.md",
+      "sha256": "896f29b83a2aa796d900cb61a1279d6b1ab8fcae3dfd1799a66cecc274c654b2",
+      "codigo": "50CC1D84",
+      "numero": "5081",
+      "municipio": "TUPANCIRETÃ",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "50CC1D84",
+          "destino": "municipais/RS/tupancireta/leis-complementares/2025/lei-complementar-5081-2025-50cc1d84.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/tupancireta/leis-complementares/2025/lei-complementar-5082-2025-69f58783.md",
+      "sha256": "781d1b8eb10fdaa736300f1db84cbaa217e2e867dcffecc6bdf8a30dc8a44a41",
+      "codigo": "69F58783",
+      "numero": "5082",
+      "municipio": "TUPANCIRETÃ",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "69F58783",
+          "destino": "municipais/RS/tupancireta/leis-complementares/2025/lei-complementar-5082-2025-69f58783.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/sao-valentim-do-sul/decretos/2025/decreto-72-2025-7b7ced90.md",
+      "sha256": "3b80d4de734f180318e622cea457107c7a4856e3a3ce27bc17e1ac871220e8fa",
+      "codigo": "7B7CED90",
+      "numero": "72",
+      "municipio": "SÃO VALENTIM DO SUL",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "7B7CED90",
+          "destino": "municipais/RS/sao-valentim-do-sul/decretos/2025/decreto-72-2025-7b7ced90.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/sapucaia-do-sul/decretos/2025/decreto-5301-2025-d74c16b1.md",
+      "sha256": "5de0e48c433c77344e6d3fe9da247ddf0d8c299e7000fb45929ef59b4c3e16ed",
+      "codigo": "D74C16B1",
+      "numero": "5301",
+      "municipio": "SAPUCAIA DO SUL",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "D74C16B1",
+          "destino": "municipais/RS/sapucaia-do-sul/decretos/2025/decreto-5301-2025-d74c16b1.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/tupancireta/decretos/2025/decreto-7625-2025-977ee6cd.md",
+      "sha256": "77300e28b190aca4f8d93f5098c61394e9e1a828d3e1d666821dd22f2bf1c1bd",
+      "codigo": "977EE6CD",
+      "numero": "7625",
+      "municipio": "TUPANCIRETÃ",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "977EE6CD",
+          "destino": "municipais/RS/tupancireta/decretos/2025/decreto-7625-2025-977ee6cd.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/sao-pedro-do-sul/leis-ordinarias/2025/lei-ordinaria-4045-2025-7349bdd6.md",
+      "sha256": "f4737a6a3dd4d5362b5c831e9fe160961413fff3f38a067a2d9996567cd73243",
+      "codigo": "7349BDD6",
+      "numero": "4045",
+      "municipio": "SÃO PEDRO DO SUL",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "7349BDD6",
+          "destino": "municipais/RS/sao-pedro-do-sul/leis-ordinarias/2025/lei-ordinaria-4045-2025-7349bdd6.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/sao-pedro-do-sul/leis-ordinarias/2025/lei-ordinaria-4044-2025-37fd79e4.md",
+      "sha256": "723c2df28e65d8e531d1d0c938290d2b561a432803a2356c47680558a873f1b2",
+      "codigo": "37FD79E4",
+      "numero": "4044",
+      "municipio": "SÃO PEDRO DO SUL",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "37FD79E4",
+          "destino": "municipais/RS/sao-pedro-do-sul/leis-ordinarias/2025/lei-ordinaria-4044-2025-37fd79e4.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/sao-pedro-do-sul/decretos/2025/decreto-4509-2025-e5bfc0fd.md",
+      "sha256": "3b2ecd422682ebdc42881083b0a11a7dcb6d045b729aa2815a7043751ed83960",
+      "codigo": "E5BFC0FD",
+      "numero": "4509",
+      "municipio": "SÃO PEDRO DO SUL",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "E5BFC0FD",
+          "destino": "municipais/RS/sao-pedro-do-sul/decretos/2025/decreto-4509-2025-e5bfc0fd.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4896-2025-8a7eb56c.md",
+      "sha256": "9cda5749f2bbfefaca57ee98768a8ec645aba0b3fbae2e436ffd5f6c9af9b6b7",
+      "codigo": "8A7EB56C",
+      "numero": "4896",
+      "municipio": "SANTO ÂNGELO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "8A7EB56C",
+          "destino": "municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4896-2025-8a7eb56c.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4897-2025-9d122686.md",
+      "sha256": "b6feac135d8357af2b34c3274174d101f1dee943d52907a9e5c40ba9b7a4d825",
+      "codigo": "9D122686",
+      "numero": "4897",
+      "municipio": "SANTO ÂNGELO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "9D122686",
+          "destino": "municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4897-2025-9d122686.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4898-2025-d4798d38.md",
+      "sha256": "2dcf3ba580198d2a6cdcf134f1645d3d1a2762195e1e54b7987e462d48f911d6",
+      "codigo": "D4798D38",
+      "numero": "4898",
+      "municipio": "SANTO ÂNGELO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "D4798D38",
+          "destino": "municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4898-2025-d4798d38.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4895-2025-2847684d.md",
+      "sha256": "86d06cf693d6140fe3f6fe79007c499f1342a84c4cd5dd1f7d2c056346734efc",
+      "codigo": "2847684D",
+      "numero": "4895",
+      "municipio": "SANTO ÂNGELO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "2847684D",
+          "destino": "municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4895-2025-2847684d.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RS/coronel-bicaco/decretos/2025/decreto-209-2025-6c75b300.md",
+      "sha256": "7a368d358697464a2716984a534dc657573ac5cfabb4d70141bf2a6833d2afac",
+      "codigo": "6C75B300",
+      "numero": "209",
+      "municipio": "CORONEL BICACO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "6C75B300",
+          "destino": "municipais/RS/coronel-bicaco/decretos/2025/decreto-209-2025-6c75b300.md"
+        }
+      ]
+    }
+  ],
+  "novos": 25,
+  "provas_especificas_aceitas": [
+    {
+      "assoc": "famurs",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_110045_2025-12-31_40b8ae0996483314e8d5894679ff676b.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v1/d9eb0a9b1fc64914af6f85b0e407e6ee/manifesto.json",
+      "codigo": "FEB4EEA6",
+      "sha256_bloco": "4db2d95ae5227510f27611f38438dbb4095ead75ec5e50e49bf0ae0728e0c06e",
+      "municipio": "TUPANCIRETÃ",
+      "uf": "RS",
+      "trecho_cabecalho_oficial": "\nGABINETE DO PREFEITO\nTERMO DE INSTAURAÇÃO DE REGULARIZAÇÃO\n–\nFUNDIÁRIA URBANA\n–\nREURB TERMO DE INSTAURAÇÃO Nº 05/2025    REURB\nO  MUNICÍPIO  DE  TUPANCIRETÃ,  Estado  do  Rio  Grande  do\nSul, pessoa jurídica de direito público interno, por meio do Prefeito\nMunicipal, no uso das atribuições que lhe confere o artigo 30, inciso\nVIII, da Constituição Federal, a Lei Federal nº 13.465/2017, o Decreto\nFederal nº 9.310/2018 e a Lei Municipal nº 4.672/2023,\nCONSIDERANDO:\n–\no requerimento de instauração de Regularização Fundiária Urbana\n–\napresentado  pela  Quadra  Serviços  Topográficos  LTDA      ME,  na\nqualidade  de  representante  dos  interessados,  referente  à  localidade\nrural denominada Santa Tecla, neste Município;\n–\nque a localidade rural de Santa Tecla abriga núcleo urbano informal\nconsolidado, com parcelamento fático do solo, sistema viário definido\ne ocupação predominantemente residencial e mista, com histórico de\nconsolidação  a  partir  dos  anos  de  1987  e  1994,  enquadrando-se  no\nconceito jurídico de núcleo urbano informal, para fins de aplicação da\nLei nº 13.465/2017;\n–\nque o fato de o núcleo urbano informal encontrar-se situado em área\nclassificada como rural não im",
+      "alertas": [
+        {
+          "codigo": "FEB4EEA6",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Lei nº 13.465/2017;"
+        }
+      ],
+      "prova_documento": [
+        "TERMO DE INSTAURAÇÃO DE REGULARIZAÇÃO"
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Lei nº 13.465/2017;",
+          "offset_bloco": 1080,
+          "trecho": "finido\ne ocupação predominantemente residencial e mista, com histórico de\nconsolidação  a  partir  dos  anos  de  1987  e  1994,  enquadrando-se  no\nconceito jurídico de núcleo urbano informal, para fins de aplicação da\nLei nº 13.465/2017;\n–\nque o fato de o núcleo urbano informal encontrar-se situado em área\nclassificada como rural não impede a instauração do procedimento de\nRegularização Fundiária Urbana, não implicando, por si só, alteração\nde  zoneamen"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nGABINETE DO PREFEITO\nTERMO DE INSTAURAÇÃO DE REGULARIZAÇÃO\n–\nFUNDIÁRIA URBANA\n–\nREURB TERMO DE INSTAURAÇÃO Nº 05/2025    REURB\nO  MUNICÍPIO  DE  TUPANCIRETÃ,  Estado  do  Rio  Grande  do\nSul, pessoa jurídica de direito público interno, por meio do Prefeito\nMunicipal, no uso das atribuições que lhe confere o artigo 30, inciso\nVIII, da Constituição Federal, a Lei Federal nº 13.465/2017, o Decreto\nFederal nº 9.310/2018 e a Lei Municipal nº 4.672/2023,\nCONSIDERANDO:\n–\no requerimento de instauração de Regularização Fundiária Urbana\n–\napresentado  pela  Quadra  Serviços  Topográficos  LTDA      ME,  na\nqualidade  de  representante  dos  interessados,  referente  à  localidade\nrural denominada Santa Tecla, neste Município;\n–\nque a localidade rural de Santa Tecla abriga núcleo urbano informal\nconsolidado, com parcelam"
+    },
+    {
+      "assoc": "famurs",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_110045_2025-12-31_40b8ae0996483314e8d5894679ff676b.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v1/d9eb0a9b1fc64914af6f85b0e407e6ee/manifesto.json",
+      "codigo": "995909EB",
+      "sha256_bloco": "04be44ca4754461fb48322d1fb0cc3dbd328d5f8447db7ed336255c42b5e795e",
+      "municipio": "PELOTAS",
+      "uf": "RS",
+      "trecho_cabecalho_oficial": "\nSECRETARIA MUNICIPAL DE SAÚDE\nEXTRATO DE TERMO ADITIVO 64º TERMO ADITIVO AO\nCONTRATO ADMINISTRATIVO N° 010/2020 - BENE\nO  Município  de  Pelotas-RS  torna  público  o  64º  Termo  Aditivo  ao\nContrato  Administrativo  n° 010/2020  firmado  entre  o  Município  de\nPelotas e o Hospital Sociedade Portuguesa de Beneficência de Pelotas,\nCNES Nº 2252295, CNPJ Nº 92.219.070.0001-53, de comum acordo,\nem 30 de dezembro de 2025, que reger-se-á pelas normas gerais da\nLei  n°  8.666,  de  21  de  junho  de  1993  e  suas  alterações,  em\nconsonância com a Portaria de Consolidação GM/MS nº 02/2017, no\nque  couber,  mediante  as  cláusulas  e  condições  previstas,  tendo  por\nobjeto   o   repasse   de   recursos   financeiros   oriundo   da   Emenda\nImpositiva   do   Legislativo   Municipal,   para   custeio   da   atenção\nespecializada, conforme disposto na Emenda impositiva n. 253/2024.\nFERNANDO STEPHAN MARRONI\nPrefeito do Município de Pelotas\nANGELA MOREIRA VITÓRIA\nSecretária Municipal de Saúde\nRegistre-se. Publique-se.\nPublicado por:\nKatherin de Almeida Medeiros\n",
+      "alertas": [
+        {
+          "codigo": "995909EB",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Lei  n°  8.666,  de  21  de  junho  de  1993  e  suas  alterações,  em"
+        }
+      ],
+      "prova_documento": [
+        "EXTRATO DE TERMO ADITIVO 64º TERMO ADITIVO AO",
+        "CONTRATO ADMINISTRATIVO N° 010/2020 - BENE",
+        "Contrato  Administrativo  n° 010/2020  firmado  entre  o  Município  de"
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Lei  n°  8.666,  de  21  de  junho  de  1993  e  suas  alterações,  em",
+          "offset_bloco": 462,
+          "trecho": "ntre  o  Município  de\nPelotas e o Hospital Sociedade Portuguesa de Beneficência de Pelotas,\nCNES Nº 2252295, CNPJ Nº 92.219.070.0001-53, de comum acordo,\nem 30 de dezembro de 2025, que reger-se-á pelas normas gerais da\nLei  n°  8.666,  de  21  de  junho  de  1993  e  suas  alterações,  em\nconsonância com a Portaria de Consolidação GM/MS nº 02/2017, no\nque  couber,  mediante  as  cláusulas  e  condições  previstas,  tendo  por\nobjeto   o   repasse   de   recursos   financeiros   oriundo   da   Emenda\nImpo"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nSECRETARIA MUNICIPAL DE SAÚDE\nEXTRATO DE TERMO ADITIVO 64º TERMO ADITIVO AO\nCONTRATO ADMINISTRATIVO N° 010/2020 - BENE\nO  Município  de  Pelotas-RS  torna  público  o  64º  Termo  Aditivo  ao\nContrato  Administrativo  n° 010/2020  firmado  entre  o  Município  de\nPelotas e o Hospital Sociedade Portuguesa de Beneficência de Pelotas,\nCNES Nº 2252295, CNPJ Nº 92.219.070.0001-53, de comum acordo,\nem 30 de dezembro de 2025, que reger-se-á pelas normas gerais da\nLei  n°  8.666,  de  21  de  junho  de  1993  e  suas  alterações,  em\nconsonância com a Portaria de Consolidação GM/MS nº 02/2017, no\nque  couber,  mediante  as  cláusulas  e  condições  previstas,  tendo  por\nobjeto   o   repasse   de   recursos   financeiros   oriundo   da   Emenda\nImpositiva   do   Legislativo   Municipal,   para   custeio   da   atenção\nespecial"
+    },
+    {
+      "assoc": "famurs",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_110045_2025-12-31_40b8ae0996483314e8d5894679ff676b.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v1/d9eb0a9b1fc64914af6f85b0e407e6ee/manifesto.json",
+      "codigo": "0E30A232",
+      "sha256_bloco": "ae6af66f551aa7d3a14a3bca509f0e278653a05d7f5d8524188dc6d64e7702c2",
+      "municipio": "OSÓRIO",
+      "uf": "RS",
+      "trecho_cabecalho_oficial": "\nSECRETARIA DE ADMINISTRAÇÃO - COMPRAS E\nLICITAÇÕES\nINEXIGIBILIDADE DE LICITAÇÃO 253/2025\nO SETOR DE COMPRAS E LICITAÇÕES DA PREFEITURA DE\nOSÓRIO INFORMA:\nINEXIGIBILIDADE DE LICITAÇÃO 253/2025\nProtocolo: 41754/2025\nValor: R$ 33.074,32 + 85.332,44\nCredor: CIA EST DE DIST DE ENERGIA ELETRICA CEEE\nObjeto:  Pagamento   de   serviço   de   iluminação   pública   (CIP)  do\nMunicípio de Osório para o ano de 2025, conforme art. 74, caput, da\nlei         14133/21.         Mais         informações         pelo         e-mail\npmo.compras2022@gmail.com.\nOsório/RS, 02 de janeiro de 2026.\nCLAITON LUIZ DOS SANTOS DA ROSA\nSecretário de Administração\nPublicado por:\nIzabela Cristina Pisoni Braga\n",
+      "alertas": [
+        {
+          "codigo": "0E30A232",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "lei         14133/21.         Mais         informações         pelo         e-mail"
+        }
+      ],
+      "prova_documento": [
+        "INEXIGIBILIDADE DE LICITAÇÃO 253/2025",
+        "INEXIGIBILIDADE DE LICITAÇÃO 253/2025"
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "lei         14133/21.         Mais         informações         pelo         e-mail",
+          "offset_bloco": 438,
+          "trecho": "or: R$ 33.074,32 + 85.332,44\nCredor: CIA EST DE DIST DE ENERGIA ELETRICA CEEE\nObjeto:  Pagamento   de   serviço   de   iluminação   pública   (CIP)  do\nMunicípio de Osório para o ano de 2025, conforme art. 74, caput, da\nlei         14133/21.         Mais         informações         pelo         e-mail\npmo.compras2022@gmail.com.\nOsório/RS, 02 de janeiro de 2026.\nCLAITON LUIZ DOS SANTOS DA ROSA\nSecretário de Administração\nPublicado por:\nIzabela Cristina Pisoni Braga\n"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nSECRETARIA DE ADMINISTRAÇÃO - COMPRAS E\nLICITAÇÕES\nINEXIGIBILIDADE DE LICITAÇÃO 253/2025\nO SETOR DE COMPRAS E LICITAÇÕES DA PREFEITURA DE\nOSÓRIO INFORMA:\nINEXIGIBILIDADE DE LICITAÇÃO 253/2025\nProtocolo: 41754/2025\nValor: R$ 33.074,32 + 85.332,44\nCredor: CIA EST DE DIST DE ENERGIA ELETRICA CEEE\nObjeto:  Pagamento   de   serviço   de   iluminação   pública   (CIP)  do\nMunicípio de Osório para o ano de 2025, conforme art. 74, caput, da\nlei         14133/21.         Mais         informações         pelo         e-mail\npmo.compras2022@gmail.com.\nOsório/RS, 02 de janeiro de 2026.\nCLAITON LUIZ DOS SANTOS DA ROSA\nSecretário de Administração\nPublicado por:\nIzabela Cristina Pisoni Braga\n"
+    },
+    {
+      "assoc": "famurs",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_110045_2025-12-31_40b8ae0996483314e8d5894679ff676b.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v1/d9eb0a9b1fc64914af6f85b0e407e6ee/manifesto.json",
+      "codigo": "6A0DE66D",
+      "sha256_bloco": "875b8462d045356bfb77844cc40b2c3c077c1dc8471ec639f2b18d003ef14362",
+      "municipio": "ÁGUA SANTA",
+      "uf": "RS",
+      "trecho_cabecalho_oficial": "•                        •\nRio Grande do Sul , 02 de Janeiro de 2026       Diário Oficial dos Municípios do Estado do Rio Grande do Sul        ANO XVII | Nº 4238\nExpediente:\n–\nFederação das Associações de Municípios do Rio Grande do Sul\nFAMURS\nDiretoria da FAMURS\n–\nCONSELHO DE ADMINISTRAÇÃO    GESTÃO 2025/2026\nPresidente:\nAdriane Perin de Oliveira (PP)\n–\nNonoai    AMNG\nVice-Presidentes:\nIque Vedovatto (MDB)\n–\nImbé    AMLINORTE\nVolmar Telles (PP)\n–\nSaldanha Marinho    AMAJA\nGeverson Zimmermann (PSDB)\n–\nEstação    AMAU\nJonas Hauschild (PDT)\n–\nTucunduva    AMUFRON\nMarcia Rodrigues (UNIÃO BRASIL)\n–\nNovo Barreiro    AMZOP\nLuiz Mainardi (PT)\n–\nBagé    ASSUDOESTE\nTiago Manoel Michelon (PL)\n–\nVespasiano Corrêa    AMAT\nO Diário Oficial dos Municípios do Estado do Rio Grande do Sul  é uma\nsolução voltada à modernização e transparência da gestão municipal.\nESTADO DO RIO GRANDE DO SUL\nMUNICÍPIO DE ÁGUA SANTA\nSECRETARIA DA ADMINISTRAÇÃO\nEXTRATO DE DISPENSA DE LICITAÇÃO Nº 99/2025\nPROCESSO 137/2025 - DISPENSA DE LICITAÇÃO 099/2025\nO Município de Água Santa torna público o Processo de Dispensa de\nLicitação   nº   099/2025,   objetivando   a   contratação   de   empresa\nespecializada   para   aqui",
+      "alertas": [
+        {
+          "codigo": "6A0DE66D",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Lei 14.133/2021."
+        }
+      ],
+      "prova_documento": [],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Lei 14.133/2021.",
+          "offset_bloco": 1932,
+          "trecho": "co reais) e o valor do\nmaterial de R$ 22.901,25 (vinte e dois mil, novecentos e um reais com\nvinte e cinco  centavos). Fornecedor:  LILIANI DE PAULA LTDA\nCNPJ: 11.252.934/0001-37. Fundamentação legal: Inciso II, Art.75,\nLei 14.133/2021.\nÁgua Santa, 29 de dezembro de 2025.\nJULIANO FAVRETTO\nPrefeito Municipal\nPublicado por:\nIara Rossi Panisson\n"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "a gestão municipal.\nESTADO DO RIO GRANDE DO SUL\nMUNICÍPIO DE ÁGUA SANTA\nSECRETARIA DA ADMINISTRAÇÃO\nEXTRATO DE DISPENSA DE LICITAÇÃO Nº 99/2025\nPROCESSO 137/2025 - DISPENSA DE LICITAÇÃO 099/2025\nO Município de Água Santa torna público o Processo de Dispensa de\nLicitação   nº   099/2025,   objetivando   a   contratação   de   empresa\nespecializada   para   aquisição   e   instalação   de   câmeras   de   vídeo\nmonitoramento no Parque Municipal de Rodeios e Modulo Esportivo,\nconforme  ETP,  memorando  interno  e  orçamento  apresentado.  O\nperíodo da contratação deverá ser de noventa dias a contar da data da\nassinatura do contrato. O valor da contratação pretendida fica no valor\ntotal de R$ 26.866,25 (vinte e seis  mil, oitocentos e sessenta e seis\nreais, vinte e cinco centavos), sendo o valor da mão de obra de R$\n3.965,00,00 (três mil, novecentos e sessenta e cinco reais) e o valor do\nmat"
+    },
+    {
+      "assoc": "famurs",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_110045_2025-12-31_40b8ae0996483314e8d5894679ff676b.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v1/d9eb0a9b1fc64914af6f85b0e407e6ee/manifesto.json",
+      "codigo": "A5251988",
+      "sha256_bloco": "52d9b7c21675f68b2e11af119a18355dfbbd248b7ee9c60389e5a24913beaa37",
+      "municipio": "SANTANA DA BOA VISTA",
+      "uf": "RS",
+      "trecho_cabecalho_oficial": "\nSECRETARIA MUNICIPAL DE ADMINISTRAÇÃO\nPORTARIA Nº. 876/2025\n–\nGARLENO ALVES DA SILVA    Prefeito Municipal de Santana da\nBoa Vista, Estado do Rio Grande do Sul, no uso de suas atribuições\nlegais,   CONVOCA   a   Servidora   MARINDIA   PREVEDELLO\nCASARIN, Matrícula 1184-3, Odontólogo, Classe A Padrão 20, de\n05.01.2026 a 31.12.2026 para cumprir Regime Adicional de Trabalho\nde 10 (Dez) horas, de acordo com autorização contida no artigo 49, da\nLei Municipal nº 513/92.\nGABINETE DO PREFEITO MUNICIPAL DE SANTANA DA BOA\nVISTA,\nEM 31 DE DEZEMBRO DE 2025.\nGARLENO ALVES DA SILVA\nPrefeito Municipal\nRegistre-se\ne Publique-se\nGUILHERME ALVES DA SILVA\nSecretário Municipal de Administração e Desporto\nPublicado por:\nClaiton Oliveira da Silva\n",
+      "alertas": [
+        {
+          "codigo": "A5251988",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Lei Municipal nº 513/92."
+        }
+      ],
+      "prova_documento": [
+        "PORTARIA Nº. 876/2025"
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Lei Municipal nº 513/92.",
+          "offset_bloco": 445,
+          "trecho": "MARINDIA   PREVEDELLO\nCASARIN, Matrícula 1184-3, Odontólogo, Classe A Padrão 20, de\n05.01.2026 a 31.12.2026 para cumprir Regime Adicional de Trabalho\nde 10 (Dez) horas, de acordo com autorização contida no artigo 49, da\nLei Municipal nº 513/92.\nGABINETE DO PREFEITO MUNICIPAL DE SANTANA DA BOA\nVISTA,\nEM 31 DE DEZEMBRO DE 2025.\nGARLENO ALVES DA SILVA\nPrefeito Municipal\nRegistre-se\ne Publique-se\nGUILHERME ALVES DA SILVA\nSecretário Municipal de Administração e Des"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nSECRETARIA MUNICIPAL DE ADMINISTRAÇÃO\nPORTARIA Nº. 876/2025\n–\nGARLENO ALVES DA SILVA    Prefeito Municipal de Santana da\nBoa Vista, Estado do Rio Grande do Sul, no uso de suas atribuições\nlegais,   CONVOCA   a   Servidora   MARINDIA   PREVEDELLO\nCASARIN, Matrícula 1184-3, Odontólogo, Classe A Padrão 20, de\n05.01.2026 a 31.12.2026 para cumprir Regime Adicional de Trabalho\nde 10 (Dez) horas, de acordo com autorização contida no artigo 49, da\nLei Municipal nº 513/92.\nGABINETE DO PREFEITO MUNICIPAL DE SANTANA DA BOA\nVISTA,\nEM 31 DE DEZEMBRO DE 2025.\nGARLENO ALVES DA SILVA\nPrefeito Municipal\nRegistre-se\ne Publique-se\nGUILHERME ALVES DA SILVA\nSecretário Municipal de Administração e Desporto\nPublicado por:\nClaiton Oliveira da Silva\n"
+    },
+    {
+      "assoc": "famurs",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=159&i=publicado_110045_2025-12-31_40b8ae0996483314e8d5894679ff676b.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v1/d9eb0a9b1fc64914af6f85b0e407e6ee/manifesto.json",
+      "codigo": "FE88ED9B",
+      "sha256_bloco": "8800610846ea0ac91fc9ad22d26f4fd48b1550adbb89da8b745dd589ffda35cb",
+      "municipio": "PELOTAS",
+      "uf": "RS",
+      "trecho_cabecalho_oficial": "\nGABINETE DO PREFEITO\nPORTARIA N.º 202, DE 31 DE DEZEMBRO DE 2025.\nDesigna   servidora   como   Gestora   do   Termo   de\nFomento   n.º   07/2025,   a   ser   firmado   entre   o\nMunicípio de Pelotas e o Centro de Reabilitação de\n–\nPelotas    CERENEPE.\nO Prefeito de Pelotas, no uso de suas atribuições legais, conforme a\nLei Municipal n.º 3.008, de 19 de dezembro de 1986;\nConsiderando o art. 35, inciso V, alíneas e, g e h, da Lei Federal n.º\n13.019, de 31 de julho de 2014, que estabelece o regime jurídico das\nparcerias   entre   a   Administração   Pública   e   as   Organizações   da\nSociedade Civil;\nConsiderando  o  processo  administrativo  referente  ao  expediente  n.º\nJUS-PLC/00098.2025, elaborado pela Secretaria Municipal da Saúde\n–\nSMS;\nR E S O L V E:\nArt.  1º  Designar  a  servidora  Mariana  Dumer  Borges,  matrícula  n.º\n38358, como Gestora do Termo de Fomento n.º 07/2025 SMS, em que\ncelebram  o  Município  de  Pelotas  e  o  Centro  de  Reabilitação  de\n–\nPelotas     CERENEPE,  visando  o  repasse  de  recursos  à  instituição\nparceira,   decorrente   de   Emenda   Parlamentar   Impositiva   à   Lei\nOrçamentária  Anual  do  Município,  conforme  descrito  no  plano  de\nt",
+      "alertas": [
+        {
+          "codigo": "FE88ED9B",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Lei Municipal n.º 3.008, de 19 de dezembro de 1986;"
+        },
+        {
+          "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/RS/pelotas/leis-ordinarias/2025/lei-ordinaria-7507-2025-fe88ed9b.md",
+          "codigo": "FE88ED9B",
+          "erro": "retirada não normativa exige revisão explícita do bloco oficial"
+        }
+      ],
+      "prova_documento": [
+        "PORTARIA N.º 202, DE 31 DE DEZEMBRO DE 2025."
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Lei Municipal n.º 3.008, de 19 de dezembro de 1986;",
+          "offset_bloco": 322,
+          "trecho": "a   do   Termo   de\nFomento   n.º   07/2025,   a   ser   firmado   entre   o\nMunicípio de Pelotas e o Centro de Reabilitação de\n–\nPelotas    CERENEPE.\nO Prefeito de Pelotas, no uso de suas atribuições legais, conforme a\nLei Municipal n.º 3.008, de 19 de dezembro de 1986;\nConsiderando o art. 35, inciso V, alíneas e, g e h, da Lei Federal n.º\n13.019, de 31 de julho de 2014, que estabelece o regime jurídico das\nparcerias   entre   a   Administração   Pública   e   as   Organizações   da\nSo"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nGABINETE DO PREFEITO\nPORTARIA N.º 202, DE 31 DE DEZEMBRO DE 2025.\nDesigna   servidora   como   Gestora   do   Termo   de\nFomento   n.º   07/2025,   a   ser   firmado   entre   o\nMunicípio de Pelotas e o Centro de Reabilitação de\n–\nPelotas    CERENEPE.\nO Prefeito de Pelotas, no uso de suas atribuições legais, conforme a\nLei Municipal n.º 3.008, de 19 de dezembro de 1986;\nConsiderando o art. 35, inciso V, alíneas e, g e h, da Lei Federal n.º\n13.019, de 31 de julho de 2014, que estabelece o regime jurídico das\nparcerias   entre   a   Administração   Pública   e   as   Organizações   da\nSociedade Civil;\nConsiderando  o  processo  administrativo  referente  ao  expediente  n.º\nJUS-PLC/00098.2025, elaborado pela Secretaria Municipal da Saúde\n–\nSMS;\nR E S O L V E:\nArt.  1º  Designar  a  servidora  Mariana  Dumer  Bor"
+    }
+  ],
+  "referencias_parciais": [
+    {
+      "codigo": "0C6E67C2",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/0C6E67C2.json",
+      "sha256": "79a84223734e0081cf165b35b88e6775c1e7c25258925ce97d7b582de920c351",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "6B0521AF",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/6B0521AF.json",
+      "sha256": "2eac3656c08a1c642c1aa485dd9d126c13724b7d502b7e2aec0bb145e657fd35",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "C70E597C",
+      "cobertura": "extrato; texto integral e anexos externos pendentes de verificação",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/C70E597C.json",
+      "sha256": "8d83a0802e82c7142cdc69c8751cb12d986ed0a588cc9d605405568de0b825a9",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "BE8B52B9",
+      "cobertura": "extrato; texto integral e anexos externos pendentes de verificação",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/BE8B52B9.json",
+      "sha256": "60918ac0d83a376a5f7104300e21cdc4aeb18254b54535a3391cb2a5556182fc",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "A3D56D80",
+      "cobertura": "extrato; texto integral e anexos externos pendentes de verificação",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/A3D56D80.json",
+      "sha256": "9779a3fdc885aa27b09b95cd72436f844ab8611e58ec65a58f53b915ab1a8d63",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "CE66707B",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/CE66707B.json",
+      "sha256": "47bfccc9b56336f8a30fe5c7c24c409ad76965fb0667e254851581170b6f23f5",
+      "vinculos_mesma_edicao": []
+    }
+  ],
+  "atos_no_pdf": 200,
+  "nao_normativos_confirmados": [],
+  "citacoes_confirmadas": [
+    "0E30A232",
+    "6A0DE66D",
+    "995909EB",
+    "A5251988",
+    "FE88ED9B",
+    "FEB4EEA6"
+  ],
+  "acoes": [
+    {
+      "acao": "gravar",
+      "codigo": "477E4651",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/butia/decretos/2025/decreto-0344-2025-477e4651.md",
+      "destino": "municipais/RS/butia/decretos/2025/decreto-0344-2025-477e4651.md",
+      "sha256": "1240971068187616e77c88d528350efb03a701c3e61962d14d05e2f70c9bc429",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "BUTIÁ",
+        "titulo": "DECRETO Nº 0344/2025",
+        "tipo": "decreto",
+        "sha256_bloco": "6e4ff3f627d064b266000aa086f9e7acd35ab4ed334f04c33b324874779ae942"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "D91586F8",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/alecrim/decretos/2025/decreto-3454-2025-d91586f8.md",
+      "destino": "municipais/RS/alecrim/decretos/2025/decreto-3454-2025-d91586f8.md",
+      "sha256": "e6684b73a2f374192f5c0b7d573c732d8d806afcdb80036c69e99e06a6568824",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "ALECRIM",
+        "titulo": "DECRETO Nº. 3.454, DE 31 DE DEZEMBRO DE 2025.",
+        "tipo": "decreto",
+        "sha256_bloco": "1a6888e4dbabd093c66d3692ed982010ae50b232678f869e546b31f174de9898"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "947296FD",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/imbe/decretos/2025/decreto-4484-2025-947296fd.md",
+      "destino": "municipais/RS/imbe/decretos/2025/decreto-4484-2025-947296fd.md",
+      "sha256": "082c298a680e93074d13382f0dbe65fe90547e925681e9ac366ec4d323298ac8",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "IMBÉ",
+        "titulo": "DECRETO MUNICIPAL Nº 4.484, DE 29 DE DEZEMBRO DE 2025.",
+        "tipo": "decreto",
+        "sha256_bloco": "d318aa1c6b800ae6894780b5bed23133f9b4ab32490c444c8f55a8a03efab190"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "977EE6CD",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/tupancireta/decretos/2025/decreto-7625-2025-977ee6cd.md",
+      "destino": "municipais/RS/tupancireta/decretos/2025/decreto-7625-2025-977ee6cd.md",
+      "sha256": "d79aff791841bdba067ed692452ea1f5065d5adedaf990aeef7b7bed8b61272c",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "TUPANCIRETÃ",
+        "titulo": "DECRETO Nº 7625 DE 31 DE DEZEMBRO DE 2025",
+        "tipo": "decreto",
+        "sha256_bloco": "84d0479fc035f1ae4c1dfb11684097e232df982d5862a056d96fcb7a971a597d"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "69F58783",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/tupancireta/leis-complementares/2025/lei-complementar-5082-2025-69f58783.md",
+      "destino": "municipais/RS/tupancireta/leis-complementares/2025/lei-complementar-5082-2025-69f58783.md",
+      "sha256": "59f1560019d78e31d35836f15573cc46a4832596018a06f20d44ce5c031c7083",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "TUPANCIRETÃ",
+        "titulo": "LEI COMPLEMENTAR Nº 5082 DE 31 DE DEZEMBRO DE 2025",
+        "tipo": "lei complementar",
+        "sha256_bloco": "f5eeb283f7bb1e254b8630d2c8fe92e830a19d3e0c48ef2f8044128c734745a3"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "50CC1D84",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/tupancireta/leis-complementares/2025/lei-complementar-5081-2025-50cc1d84.md",
+      "destino": "municipais/RS/tupancireta/leis-complementares/2025/lei-complementar-5081-2025-50cc1d84.md",
+      "sha256": "f5e93cef54275aaed57eed692d86d7f4d90cbb71c017c6058a0d80162a2162fb",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "TUPANCIRETÃ",
+        "titulo": "LEI COMPLEMENTAR Nº 5081 DE 31 DE DEZEMBRO DE 2025",
+        "tipo": "lei complementar",
+        "sha256_bloco": "49c1eed277ae504e350c53dd5fdfa7f530e74fedb668e12e3030f212ae0bd7a2"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "077A20AC",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/tupancireta/leis-complementares/2025/lei-complementar-5085-2025-077a20ac.md",
+      "destino": "municipais/RS/tupancireta/leis-complementares/2025/lei-complementar-5085-2025-077a20ac.md",
+      "sha256": "4001531dca20b88b95a47b95a169793464f6eb2c5dfb9367cfbee530107ae400",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "TUPANCIRETÃ",
+        "titulo": "LEI COMPLEMENTAR Nº 5085 DE 31 DE DEZEMBRO DE 2025",
+        "tipo": "lei complementar",
+        "sha256_bloco": "4c88680ef289b3964927771eb5de16c67b807b63b1b50cf36735878a9ed98bf1"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "8B5925F8",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/tupancireta/leis-ordinarias/2025/lei-ordinaria-5083-2025-8b5925f8.md",
+      "destino": "municipais/RS/tupancireta/leis-ordinarias/2025/lei-ordinaria-5083-2025-8b5925f8.md",
+      "sha256": "386acedd0b8feaa709ab25aa18d5e2e8e99003dfaab19724c8aef91b28ff268f",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "TUPANCIRETÃ",
+        "titulo": "LEI ORDINÁRIA Nº 5083 DE 31 DE DEZEMBRO DE 2025",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "039a1714e094c5c42d97f07bed74915f490f5189cabe257af08f876e2baa3b5c"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "2879517B",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/tupancireta/leis-ordinarias/2025/lei-ordinaria-5084-2025-2879517b.md",
+      "destino": "municipais/RS/tupancireta/leis-ordinarias/2025/lei-ordinaria-5084-2025-2879517b.md",
+      "sha256": "1cb6e1abd6cf1ad1e7d3e9dbf22e4d5bdc8e24761279d7e13666584301d8df5c",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "TUPANCIRETÃ",
+        "titulo": "LEI ORDINÁRIA Nº 5084 DE 31 DE DEZEMBRO DE 2025",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "ca1a243c4f0054b75b6fc56f936fea2a6a35b899b95f4071099729d57901af38"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "B6A2A344",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/tupancireta/leis-ordinarias/2025/lei-ordinaria-5080-2025-b6a2a344.md",
+      "destino": "municipais/RS/tupancireta/leis-ordinarias/2025/lei-ordinaria-5080-2025-b6a2a344.md",
+      "sha256": "8bfe6ab4b27a5b47cc82b194f8b7763206c13efb31e387f47e38b6ec35c55907",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "TUPANCIRETÃ",
+        "titulo": "LEI ORDINÁRIA Nº 5080 DE 31 DE DEZEMBRO DE 2025",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "d7967e770d8189dfbc8dd79b74642089486ba55040615cd0d49392bc4eaedaf4"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "7B7CED90",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/sao-valentim-do-sul/decretos/2025/decreto-72-2025-7b7ced90.md",
+      "destino": "municipais/RS/sao-valentim-do-sul/decretos/2025/decreto-72-2025-7b7ced90.md",
+      "sha256": "24109fa9773616c813bd5f6982e4075dd07bfb6b845aa72a72663131a1f029e9",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "SÃO VALENTIM DO SUL",
+        "titulo": "DECRETO MUNICIPAL Nº 72/2025, DE 29 DE DEZEMBRO",
+        "tipo": "decreto",
+        "sha256_bloco": "4993acb6f22280581eb02b27e197a6f2f4309c2b4aae49262fce4d49d88a5fbb"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "6C75B300",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/coronel-bicaco/decretos/2025/decreto-209-2025-6c75b300.md",
+      "destino": "municipais/RS/coronel-bicaco/decretos/2025/decreto-209-2025-6c75b300.md",
+      "sha256": "68b949ef6f87c27c09adbf9cf0bdead120add0b7ae5f82ae0fce29fa94c16d09",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "CORONEL BICACO",
+        "titulo": "DECRETO Nº 209/2025, DE 03 DE DEZEMBRO DE 2025",
+        "tipo": "decreto",
+        "sha256_bloco": "26f56793b197a2d21aafdc70d33516af8bef6656191251e4c31b6c801d2570b1"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "2847684D",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4895-2025-2847684d.md",
+      "destino": "municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4895-2025-2847684d.md",
+      "sha256": "0bc13c58516452c3b8e27f601d40133ebab996d6f03005e16ae2993991699f4e",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "SANTO ÂNGELO",
+        "titulo": "LEI Nº 4.895 DE 30 DE DEZEMBRO DE 2025.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "04e1d29d4a8110f827417307c2596414c46c7d17df285eb8f1e9fbb8beb6ff78"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "D4798D38",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4898-2025-d4798d38.md",
+      "destino": "municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4898-2025-d4798d38.md",
+      "sha256": "2f3606f476ae5ef69c81a100d69abf5e3c051580d37a36884ad05b9fecf788bd",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "SANTO ÂNGELO",
+        "titulo": "LEI Nº 4.898 DE 31 DE DEZEMBRO DE 2025.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "6679e55e74f127826d6c548b81ec1846ae73a674da9cf360b25ea006d98bfba4"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "9D122686",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4897-2025-9d122686.md",
+      "destino": "municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4897-2025-9d122686.md",
+      "sha256": "ad3b772b02f4330ceeb01d5c66f6d8d86a9ed39da1414bb898f78a3d50b6c0d3",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "SANTO ÂNGELO",
+        "titulo": "LEI Nº 4.897 DE 30 DE DEZEMBRO DE 2025.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "8d34e8c5806f8f9a910ccce1d44fd191a9a41e04b152f5f6a5bd01fef583bd69"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "8A7EB56C",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4896-2025-8a7eb56c.md",
+      "destino": "municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4896-2025-8a7eb56c.md",
+      "sha256": "6157822892258c9397a890bee3ff4b5a916372529c6f632b0f015769bc4bcb11",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "SANTO ÂNGELO",
+        "titulo": "LEI Nº 4.896 DE 30 DE DEZEMBRO DE 2025.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "1aed595158fc18de341150fc7308ed6446baf285b7d23cfbfafdd792fba9ed48"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "E5BFC0FD",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/sao-pedro-do-sul/decretos/2025/decreto-4509-2025-e5bfc0fd.md",
+      "destino": "municipais/RS/sao-pedro-do-sul/decretos/2025/decreto-4509-2025-e5bfc0fd.md",
+      "sha256": "91b31117a49275181ef40f1b9a8376a475b9a091e73aeed3d666165d5ea5a7a2",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "SÃO PEDRO DO SUL",
+        "titulo": "DECRETO MUNICIPAL Nº 4.509 DE 31 DE DEZEMBRO DE 2025.",
+        "tipo": "decreto",
+        "sha256_bloco": "ff73a336f57c308ad67a8a1fb9f3d98d53593448c3843d0d40b67b87977ad5e4"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "37FD79E4",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/sao-pedro-do-sul/leis-ordinarias/2025/lei-ordinaria-4044-2025-37fd79e4.md",
+      "destino": "municipais/RS/sao-pedro-do-sul/leis-ordinarias/2025/lei-ordinaria-4044-2025-37fd79e4.md",
+      "sha256": "ffae9d23a423aea8dcb71bc86e523389f76005f96a01ca05eb61c86c85841459",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "SÃO PEDRO DO SUL",
+        "titulo": "LEI MUNICIPAL Nº 4.044 DE 31 DE DEZEMBRO DE 2025",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "3573d3379177bfb94d216a22cfd0a72380d22986ac1d395351a2ebb52bf91159"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "7349BDD6",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/sao-pedro-do-sul/leis-ordinarias/2025/lei-ordinaria-4045-2025-7349bdd6.md",
+      "destino": "municipais/RS/sao-pedro-do-sul/leis-ordinarias/2025/lei-ordinaria-4045-2025-7349bdd6.md",
+      "sha256": "cb0e2cfe735babac7f39c8ab6ef878703a7d8bdde91bcdeed7006382436b553b",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "SÃO PEDRO DO SUL",
+        "titulo": "LEI MUNICIPAL Nº 4.045 DE 31 DE DEZEMBRO DE 2025",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "5e63b290ac637f1720af8cc4f9500f96431510eaac7b6ffb94515b71b49038bc"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "D74C16B1",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/sapucaia-do-sul/decretos/2025/decreto-5301-2025-d74c16b1.md",
+      "destino": "municipais/RS/sapucaia-do-sul/decretos/2025/decreto-5301-2025-d74c16b1.md",
+      "sha256": "395fc2f938761c70050bf05a46ef9cce3b8c6623d8e42deb2ee252135c847e60",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "SAPUCAIA DO SUL",
+        "titulo": "DECRETO Nº. 5.301, DE 23 DE DEZEMBRO DE 2025.",
+        "tipo": "decreto",
+        "sha256_bloco": "48d899ef0e1109060d430631f4aa9d1c1fd6431eaa09e6c7db4299e0b503231f"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "ECB4C2DF",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/rio-grande/decretos/2025/decreto-22302-2025-ecb4c2df.md",
+      "destino": "municipais/RS/rio-grande/decretos/2025/decreto-22302-2025-ecb4c2df.md",
+      "sha256": "b78d297bc18006d38b20e9aef47c4f5085da11ba5dded3ea2a1778970e3764fb",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "RIO GRANDE",
+        "titulo": "DECRETO Nº 22.302 DE 31 DE DEZEMBRO DE 2025",
+        "tipo": "decreto",
+        "sha256_bloco": "8d2201a154d38e65653d39233dbd96c7d0eedc45c6f703deb85a6db36783e4af"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "65127637",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/travesseiro/decretos/2025/decreto-2426-2025-65127637.md",
+      "destino": "municipais/RS/travesseiro/decretos/2025/decreto-2426-2025-65127637.md",
+      "sha256": "67de0e6095519b50246f8127693dec4b47883d014ae362ccf175dedaab081cb0",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "TRAVESSEIRO",
+        "titulo": "DECRETO Nº 2.426/2025, DE 31 DE DEZEMBRO DE 2025.",
+        "tipo": "decreto",
+        "sha256_bloco": "e57e673fdc9b70e21b4c3445335341c5b686226573266b743d745baf51db4a14"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "571068AF",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/pelotas/decretos/2026/decreto-006-2026-571068af.md",
+      "destino": "municipais/RS/pelotas/decretos/2026/decreto-006-2026-571068af.md",
+      "sha256": "b4767e7032b32e322bdadf4fd03c7f19aa9247283d77d9c4deacf410239a50ee",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "PELOTAS",
+        "titulo": "DECRETO Nº 006/2026",
+        "tipo": "decreto",
+        "sha256_bloco": "679f2caacb5f1ec4c017ef7d0e0d472fea5acf63dec9d6a0c8fbbfa42781fb8a"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "FB5F5AF9",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/pelotas/leis-ordinarias/2025/lei-ordinaria-7507-2025-fb5f5af9.md",
+      "destino": "municipais/RS/pelotas/leis-ordinarias/2025/lei-ordinaria-7507-2025-fb5f5af9.md",
+      "sha256": "095e637597788f1ddd276263abee1ae94969015ea95e5b73f7f1cd58fe13b03a",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "PELOTAS",
+        "titulo": "LEI N.º 7.507, DE 30 DE DEZEMBRO DE 2025.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "b45e5184e26ae643c902b520b419421a49d246ee161f0bb6bdb1a3ab18c31334"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "DD1D4030",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/pelotas/leis-ordinarias/2025/lei-ordinaria-7506-2025-dd1d4030.md",
+      "destino": "municipais/RS/pelotas/leis-ordinarias/2025/lei-ordinaria-7506-2025-dd1d4030.md",
+      "sha256": "267d169dbccba694b5fef8db615a7693ea743df0ead9860ddd87d5734e20c2a5",
+      "prova_bloco": {
+        "uf": "RS",
+        "municipio": "PELOTAS",
+        "titulo": "LEI N.º 7.506, DE 19 DE DEZEMBRO DE 2025.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "545019c1f7b32a9dfd5142b30778e3e6b07d8b9109a46a3729dbd57b54495840"
+      }
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "0C6E67C2",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/0C6E67C2.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/0C6E67C2.json",
+      "sha256": "79a84223734e0081cf165b35b88e6775c1e7c25258925ce97d7b582de920c351",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "6B0521AF",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/6B0521AF.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/6B0521AF.json",
+      "sha256": "2eac3656c08a1c642c1aa485dd9d126c13724b7d502b7e2aec0bb145e657fd35",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "C70E597C",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/C70E597C.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/C70E597C.json",
+      "sha256": "8d83a0802e82c7142cdc69c8751cb12d986ed0a588cc9d605405568de0b825a9",
+      "cobertura": "extrato; texto integral e anexos externos pendentes de verificação"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "BE8B52B9",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/BE8B52B9.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/BE8B52B9.json",
+      "sha256": "60918ac0d83a376a5f7104300e21cdc4aeb18254b54535a3391cb2a5556182fc",
+      "cobertura": "extrato; texto integral e anexos externos pendentes de verificação"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "A3D56D80",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/A3D56D80.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/A3D56D80.json",
+      "sha256": "9779a3fdc885aa27b09b95cd72436f844ab8611e58ec65a58f53b915ab1a8d63",
+      "cobertura": "extrato; texto integral e anexos externos pendentes de verificação"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "CE66707B",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/CE66707B.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/CE66707B.json",
+      "sha256": "47bfccc9b56336f8a30fe5c7c24c409ad76965fb0667e254851581170b6f23f5",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    }
+  ],
+  "falhas": [],
+  "preparado_em": "2026-10-16T01:58:32.993234",
+  "revisao_independente": {
+    "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/revisao-independente.json",
+    "sha256": "2cb284a049d76c02950f0c107e705c185c2fa218c847177be275337137e61124"
+  }
+}

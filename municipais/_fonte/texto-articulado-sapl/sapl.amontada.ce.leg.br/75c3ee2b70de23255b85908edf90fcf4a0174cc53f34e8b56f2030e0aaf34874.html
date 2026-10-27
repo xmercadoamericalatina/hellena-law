@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Amontada</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Amontada",
+      "url" : "http://sapl.amontada.ce.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          21/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/Novo_Logo_da_Câmara_P6QOwZA.jpeg"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Amontada
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/746?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/909/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei nº 744, de 10 de março de 2008
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>744</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>2008</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>10 de Março de 2008</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>Reorganiza a Estrutura Administrativa da Secretaria de Educação e Desporto, e da Secretaria de Saúde do município de Amontada, e cria Novos Cargos Comissionados Alterando os Anexos I, VII e IX, da Lei nº. 698/07, de 14/05/ 2007 e adota outras providencias.</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/909/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+          <div class="text-info col-12 small">
+            <b>Altera o(a)</b>&nbsp;
+            <a href="/norma/701">
+              Lei nº 698, de 14 de maio de 2007
+            </a>
+          </div>
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt41119" ><div class="dtxt" id="d41119" pks="" pk="41119"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt41120" ><a class="dpt-link" name="41120" title="41120"></a><div class="dtxt" id="d41120" pks="" pk="41120">Reorganiza a Estrutura Administrativa da Secretaria de Educação e Desporto, e da Secretaria de Saúde do município de Amontada, e cria Novos Cargos Comissionados Alterando os Anexos I, VII e IX, da Lei nº. 698/07, de 14/05/ 2007 e adota outras providencias.</div></div><div class="dn" id="dn41120" pk="41120"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt41121" ><a class="dpt-link" name="41121" title="41121"></a><div class="dtxt" id="d41121" pks="" pk="41121"><p><strong>O PREFEITO MUNICIPAL DE AMONTADA - ESTADO DO CEARÁ,</strong><br>Faço saber que a <strong>CÂMARA MUNICIPAL DE AMONTADA</strong> aprovou e eu sanciono e&nbsp;promulgo a seguinte Lei:</p></div></div><div class="dn" id="dn41121" pk="41121"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt41122" ><div class="dtxt" id="d41122" pks="" pk="41122"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt41123" ><a class="dpt-link" name="41123">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d41123" pks="" pk="41123">Ficam criados na Estrutura da Secretaria de Educação e Desporto, Anexo VII, os
+Cargos de Diretor da Escola Modelo e Diretor de Gestão da Escola Modelo com Nivel CC-1/A e Professor
+Coordenador de Ensino da Escola Modelo com Nivel СС-2.</div></div><div class="dn" id="dn41123" pk="41123"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt41124" ><div class="dtxt" id="d41124" pks="" pk="41124"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt41125" ><a class="dpt-link" name="41125">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d41125" pks="" pk="41125">Ficam criados na Estrutura da Secretaria de Educação e Desporto, os Cargos de
+Coordenador de Almoxarifado/ Nivel CC-7, Coordenador de Projetos Educacionais/ nível CC-7 e Gerente
+do Núcleo de Almoxarifado / nível CC-8.</div></div><div class="dn" id="dn41125" pk="41125"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt41126" ><div class="dtxt" id="d41126" pks="" pk="41126"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt41127" ><a class="dpt-link" name="41127">Art. 3º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d41127" pks="" pk="41127">Altera o nivel do Cargo de Diretor do Hospital Municipal Rigoberto Romero de
+Barros, para CC-1/A.</div></div><div class="dn" id="dn41127" pk="41127"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt41128" ><div class="dtxt" id="d41128" pks="" pk="41128"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt41129" ><a class="dpt-link" name="41129">Art. 4º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d41129" pks="" pk="41129">Cria o Cargo de Diretor Adjunto do Hospital e Maternidade Dr. Rigoberto Romero
+de Barros/ nível CC-2</div></div><div class="dn" id="dn41129" pk="41129"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt41130" ><div class="dtxt" id="d41130" pks="" pk="41130"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt41131" ><a class="dpt-link" name="41131">Art. 5º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d41131" pks="" pk="41131">Esta Lei entra em vigor na data de sua publicação, com efeitos retroativos a 1°
+de Fevereiro de 2008, revogadas as disposições em contrário.</div></div><div class="dn" id="dn41131" pk="41131"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt41132" ><a class="dpt-link" name="41132" title="41132"></a><div class="dtxt" id="d41132" pks="" pk="41132"><p><strong>PAÇO DA PREFEITURA MUNICIPAL DE AMONTADA (CE)</strong>, aos 10 de março de 2008.</p><p>&nbsp;</p><p style="text-align: center;"><strong>EDIVALDO ASSIS DE JESUS</strong><br>Prefeito Municipal&nbsp;</p></div></div><div class="dn" id="dn41132" pk="41132"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt41242" ><div class="dtxt" id="d41242" pks="" pk="41242"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="anexo  "><div class="dptt "  id="dptt41243" ><a class="dpt-link" name="41243" title="41243">Anexo I</a><br><div class="dtxt" id="d41243" pks="" pk="41243"><p>LEI N° 744/2008 - AMONTADA (CE), 10/03/2008.</p></div></div><div class="dn" id="dn41243" pk="41243"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt41244" ><a class="dpt-link" name="41244" title="41244"></a><div class="dtxt" id="d41244" pks="" pk="41244"><p><strong>TABELA DE NÍVEIS</strong><br><strong>CARGOS DE PROVIMENTO EM COMISSÃO</strong></p></div></div><div class="dn" id="dn41244" pk="41244"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt41245" ><div class="dtxt" id="d41245" pks="" pk="41245"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt41246" ><a class="dpt-link" name="41246"></a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d41246" pks="" pk="41246">&nbsp;</div></div><div class="dn" id="dn41246" pk="41246"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt bloco_alteracao " nivel="3">
+    
+
+    <div class="bloco_alteracao  "><div class="dptt "  id="dptt41247" ><div class="dtxt" id="d41247" pks="" pk="41247"></div></div></div>
+    
+      
+        
+
+  <div class="dpt desativado" id="d41248" nivel="2"><div class="texto_n_estruturado" id="id41248" nivel="2"><a name="41248" href="/ta/907/text#41248"><table style="border-collapse: collapse; width: 65.7061%; height: 614.922px;" border="1"><colgroup><col style="width: 11.3182%;"><col style="width: 73.6369%;"><col style="width: 14.9921%;"></colgroup><tbody><tr style="height: 36.1719px;"><td style="text-align: center;"><strong>NÍVEL&nbsp;</strong></td><td style="text-align: center;"><strong>CARGOS</strong></td><td style="text-align: center;"><strong>VALOR R$</strong></td></tr><tr style="height: 36.1719px;"><td rowspan="4">CC-1</td><td>CHEFE DE GABINETE</td><td style="text-align: right;" rowspan="4">2.000,00</td></tr><tr style="height: 36.1719px;"><td>PROCURADOR JURÍDICO</td></tr><tr style="height: 36.1719px;"><td>CONTROLADOR INTERNO</td></tr><tr style="height: 36.1719px;"><td>DIRETOR DO FUNDO MUNICIPAL DE SEGURIDADE SOCIAL</td></tr><tr><td rowspan="3">CC1/A</td><td>DIRETOR DA ESCOLA MODELO</td><td style="text-align: right;" rowspan="3">1.000,00</td></tr><tr><td>DIRETOR DE GESTÃO DA ESCOLA MODELO</td></tr><tr><td>DIRETOR GERAL DO H.M.R.R.B.</td></tr><tr style="height: 36.1719px;"><td rowspan="4">CC-2</td><td>ASSESSORES</td><td style="text-align: right;" rowspan="4">702,00</td></tr><tr style="height: 36.1719px;"><td>PRESIDENTE DA COMISSÃO PERMANENTE DE LICITAÇÃO</td></tr><tr><td>DIRETOR ADJUNTO DO H.M.R.R.B.</td></tr><tr><td>PROFESSOR COORDENADOR DE ENSINO DA ESCOLA MODELO</td></tr><tr style="height: 36.1719px;"><td>CC-3</td><td>DIRETOR ESCOLAR I (acima de 300 alunos)&nbsp;</td><td style="text-align: right;">667,08</td></tr><tr style="height: 36.1719px;"><td>CC-4</td><td>DIRETOR ESCOLAR II (151-300 alunos)&nbsp;</td><td style="text-align: right;">629,00</td></tr><tr style="height: 36.1719px;"><td>CC-5</td><td>DIRETOR ESCOLAR III (0-150 alunos)&nbsp;</td><td style="text-align: right;">590,92</td></tr><tr style="height: 36.1719px;"><td>CC-6</td><td>PROFESSOR COORDENADOR DE ENSINO&nbsp;</td><td style="text-align: right;">508,00</td></tr><tr style="height: 36.1719px;"><td rowspan="2">CC-7</td><td>COORDENADOR</td><td style="text-align: right;" rowspan="2">491,00</td></tr><tr style="height: 36.1719px;"><td>DIRETOR DO SERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO</td></tr><tr style="height: 36.1719px;"><td rowspan="2">CC-8</td><td>GERENTE DE NÚCLEO</td><td style="text-align: right;" rowspan="2">344,00</td></tr><tr><td>DIRETOR CLINICO DO H.M.R.R.B</td></tr><tr style="height: 36.1719px;"><td>CC-9</td><td>AGENTE&nbsp;</td><td style="text-align: right;">300,00</td></tr><tr style="height: 36.1719px;"><td rowspan="4">CC-10</td><td>ATENDENTE DE SECRETARIA</td><td style="text-align: right;" rowspan="4">180,00</td></tr><tr><td>CHEFE DA SEÇÃO DE CADASTRO AGRÍCOLA</td></tr><tr><td>CHEFE DE SEÇÃO DE FISCALIZAÇÃO DE EQUIPAMENTOS URBANOS</td></tr><tr><td>MOBILIZADOR SOCIAL</td></tr></tbody></table></a></div></div>
+
+
+      
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt41272" ><div class="dtxt" id="d41272" pks="" pk="41272"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt41273" ><a class="dpt-link" name="41273"></a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d41273" pks="" pk="41273"><p style="text-align: center;">&nbsp;</p><p style="text-align: center;"><strong>ANEXO VII - SECRETARIA DE EDUCAÇÃO E DESPORTO</strong><br><strong>(CARGOS E ORGANOGRAMА)</strong><br><strong>LEI N° 744/2008 - AMONTADA (CE), 10/03/2008</strong><br><strong>CARGOS DE PROVIMENTO EM COMISSÃО</strong></p></div></div><div class="dn" id="dn41273" pk="41273"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt bloco_alteracao " nivel="3">
+    
+
+    <div class="bloco_alteracao  "><div class="dptt "  id="dptt41274" ><div class="dtxt" id="d41274" pks="" pk="41274"></div></div></div>
+    
+      
+        
+
+  <div class="dpt desativado" id="d41275" nivel="2"><div class="texto_n_estruturado" id="id41275" nivel="2"><a name="41275" href="/ta/907/text#41275"><table style="border-collapse: collapse; width: 76.2728%; height: 1352.36px;" border="1"><colgroup><col style="width: 16.9634%;"><col style="width: 9.62101%;"><col style="width: 51.9028%;"><col style="width: 11.1401%;"><col style="width: 10.254%;"></colgroup><tbody><tr style="height: 36.1719px;"><td style="text-align: center;" colspan="5"><strong>SECRETARIA DE EDUCAÇÃO E DESPORTO</strong></td></tr><tr style="height: 36.1719px;"><td style="text-align: center;"><strong>ÓRGÃO&nbsp;</strong></td><td style="text-align: center;"><strong>NÍVEL</strong></td><td style="text-align: center;"><strong>&nbsp;</strong></td><td style="text-align: center;"><strong>QUANT&nbsp;</strong></td><td style="text-align: center;"><strong>VALOR</strong></td></tr><tr style="height: 36.1719px;"><td rowspan="34">SECRETARIA DE EDUCAÇÃO E DESPORTO</td><td style="text-align: center;" colspan="2"><strong>CARGO</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr style="height: 36.1719px;"><td>&nbsp;</td><td>Secretário de Educação e Desporto</td><td style="text-align: center;">01</td><td style="text-align: right;">2.000,00</td></tr><tr style="height: 36.1719px;"><td>CC-1/A</td><td>Diretor da Escola Modelo</td><td style="text-align: center;">01</td><td style="text-align: right;">1.000,00</td></tr><tr style="height: 36.1719px;"><td>CC-1/A</td><td>Diretor de Gestão da Escola Modelo</td><td style="text-align: center;">01</td><td style="text-align: right;">1.000,00</td></tr><tr style="height: 58.5625px;"><td>CC-2</td><td>9.1. Assessor de Desenvolvimento das Políticas<br>Educacionais;</td><td style="text-align: center;">01</td><td style="text-align: right;">702,00</td></tr><tr style="height: 36.1719px;"><td>CC-2</td><td>I) Professor Coordenador de Ensino da Escola Modelo</td><td style="text-align: center;">01</td><td style="text-align: right;">702,00</td></tr><tr style="height: 36.1719px;"><td>CC-6</td><td>II) Professor Coordenador de Ensino</td><td style="text-align: center;">37</td><td style="text-align: right;">508,00</td></tr><tr style="height: 58.5625px;"><td>CC-7</td><td>9.1.1. Coordenador de Desenvolvimento&nbsp;Técnico-pedagógico;</td><td style="text-align: center;">01</td><td style="text-align: right;">491,00</td></tr><tr style="height: 36.1719px;"><td>CC-7</td><td>9.1.1.1. Сoordenador de Projetos Educacionais</td><td style="text-align: center;">01</td><td style="text-align: right;">491,00</td></tr><tr style="height: 36.1719px;"><td>CC-8</td><td>9.1.1.2. Gerente do Núcleo de Educação Infantil;</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-8</td><td>9.1.1.2. Gerente do Núcleo de Ensino Fundamental;&nbsp;</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 41.5625px;"><td>CC-8</td><td>9.1.1.4. Gerente do Núcleo de Educação de Jovens e Adultos;</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-8</td><td>9.1.1.5. Gerente do Núcleo de Formação Continuada;&nbsp;</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-2</td><td>&nbsp;9.2. Assessor de Gestão</td><td style="text-align: center;">01</td><td style="text-align: right;">702,00</td></tr><tr style="height: 36.1719px;"><td>CC-3</td><td>I) Diretor Escolar I</td><td style="text-align: center;">15</td><td style="text-align: right;">667,08</td></tr><tr style="height: 36.1719px;"><td>CC-4</td><td>II) Diretor Escolar II</td><td style="text-align: center;">20</td><td style="text-align: right;">629,00</td></tr><tr style="height: 36.1719px;"><td>CC-5</td><td>III) Diretor Escolar III</td><td style="text-align: center;">40</td><td style="text-align: right;">590,92</td></tr><tr style="height: 36.1719px;"><td>CC-7</td><td>9.2.1. Coordenador de Transporte e Garagem</td><td style="text-align: center;">01</td><td style="text-align: right;">491,00</td></tr><tr style="height: 36.1719px;"><td>CC-8</td><td>9.2.1.1. Gerente do Núcleo de Oficina e Manutenção</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-7</td><td>9.2.2. Сoordenador de Gestão e Articulação</td><td style="text-align: center;">01</td><td style="text-align: right;">491,00</td></tr><tr style="height: 36.1719px;"><td>CC-8</td><td>9.2.2.1. Gerente do Núcleo de Alimentação Escolar</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-9</td><td>a) Agente de Apoio ao Estudante</td><td style="text-align: center;">30</td><td style="text-align: right;">300,00</td></tr><tr style="height: 36.1719px;"><td>CC-7</td><td>9.2.3. Coordenador de Desporto</td><td style="text-align: center;">01</td><td style="text-align: right;">491,00</td></tr><tr style="height: 36.1719px;"><td>CC-8</td><td>9.2.3.1. Gerente do Núcleo de Desporto e Lazer</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-2</td><td>9.3. Assessor de Monitoramento</td><td style="text-align: center;">01</td><td style="text-align: right;">702,00</td></tr><tr style="height: 36.1719px;"><td>CC-7</td><td>9.3.1. Coordenador Financeiro</td><td style="text-align: center;">01</td><td style="text-align: right;">491,00</td></tr><tr style="height: 36.1719px;"><td>CC-8</td><td>9.3.1.1. Gerente do Núcleo de Execução Orçamentária</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-8</td><td>9.3.1.2. Gerente do Núcleo de Finanças</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-7</td><td>9.3.2. Coordenador de Recursos Humanos</td><td style="text-align: center;">01</td><td style="text-align: right;">491,00</td></tr><tr style="height: 36.1719px;"><td>CC-8</td><td>9.3.2.1. Gerente do Núcleo de Gestão de Pessoal</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-7</td><td>9.3.3. Сoordenador de Processamento de Dados</td><td style="text-align: center;">01</td><td style="text-align: right;">491,00</td></tr><tr style="height: 36.1719px;"><td>CC-8</td><td>9.3.3.1. Gerente do Núcleo de Digitalização</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-7</td><td>9.3.4. Coordenador de Almoxarifado&nbsp;</td><td style="text-align: center;">01</td><td style="text-align: right;">491,00</td></tr><tr style="height: 36.1719px;"><td>CC-8</td><td>9.3.5. Gerente do Núcleo de Almoxarifado</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr></tbody></table></a></div></div>
+
+
+      
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt41276" ><div class="dtxt" id="d41276" pks="" pk="41276"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt41277" ><a class="dpt-link" name="41277"></a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d41277" pks="" pk="41277"><p style="text-align: center;">&nbsp;</p><p style="text-align: center;"><strong>ANEXO IX- SECRETARIA DE SAÚDE</strong><br><strong>(CARGOS E ORGANOGRAMA)</strong><br><strong>LEI N° 744/2008 - AMONTADA (CE), 10/03/2008</strong><br><strong>CARGOS DE PROVIMENTO EM COMISSÃO</strong></p></div></div><div class="dn" id="dn41277" pk="41277"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt bloco_alteracao " nivel="3">
+    
+
+    <div class="bloco_alteracao  "><div class="dptt "  id="dptt41278" ><div class="dtxt" id="d41278" pks="" pk="41278"></div></div></div>
+    
+      
+        
+
+  <div class="dpt desativado" id="d52190" nivel="2"><div class="texto_n_estruturado" id="id52190" nivel="2"><a name="52190" href="/ta/907/text#52190"><table style="border-collapse: collapse; width: 76.2728%; height: 1090.94px;" border="1"><colgroup><col style="width: 14.1783%;"><col style="width: 8.98805%;"><col style="width: 56.3336%;"><col style="width: 10.5072%;"><col style="width: 10.0008%;"></colgroup><tbody><tr style="height: 36.1719px;"><td style="text-align: center;" colspan="5"><strong>SECRETARIA DE SAÚDE</strong></td></tr><tr style="height: 36.1719px;"><td style="text-align: center;"><strong>ÓRGÃO&nbsp;</strong></td><td style="text-align: center;"><strong>NÍVEL</strong></td><td style="text-align: center;"><strong>&nbsp;</strong></td><td style="text-align: center;"><strong>QUANT&nbsp;</strong></td><td style="text-align: center;"><strong>VALOR</strong></td></tr><tr style="height: 36.1719px;"><td rowspan="30">SECRETARIA DE SAÚDE</td><td style="text-align: center;" colspan="2"><strong>CARGO</strong></td><td>&nbsp;</td><td>&nbsp;</td></tr><tr style="height: 36.1719px;"><td>&nbsp;</td><td><strong>Secretario de Saúde</strong></td><td style="text-align: center;">01</td><td style="text-align: right;">2.000,00</td></tr><tr><td>CC-1/A&nbsp;</td><td>11.1. Diretor Geral do H.M.R.R. B</td><td style="text-align: center;">01</td><td style="text-align: right;">1.000,00</td></tr><tr><td>CC-2</td><td>11.1.1. Diretor Adjunto do H.M.R.R. B</td><td style="text-align: center;">01</td><td style="text-align: right;">702,00</td></tr><tr style="height: 36.1719px;"><td>CC-2</td><td>11.2. Assessor de Administração Financeira&nbsp;</td><td style="text-align: center;">01</td><td style="text-align: right;">702,00</td></tr><tr style="height: 36.1719px;"><td>CC-7</td><td>&nbsp;11.2.1. Coordenador Financas e Pessoal</td><td style="text-align: center;">01</td><td style="text-align: right;">491,00</td></tr><tr style="height: 36.1719px;"><td>CC-8</td><td>11.2.1.1. Gerente do Núcleo de Finanças;</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-8</td><td>11.2.1.2. Gerente do Núcleo de Pessoal;</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-7</td><td>11.2.2. Coordenador de Material e Patrimônio&nbsp;</td><td style="text-align: center;">01</td><td style="text-align: right;">491,00</td></tr><tr style="height: 36.1719px;"><td>CC-2</td><td>11.3. Assessor Técnico de Saúde</td><td style="text-align: center;">01</td><td style="text-align: right;">702,00</td></tr><tr style="height: 36.1719px;"><td>CC-7</td><td>11.3.1. Coordenador de Vigilância a Saúde&nbsp;</td><td style="text-align: center;">01</td><td style="text-align: right;">491,00</td></tr><tr style="height: 58.5625px;"><td>CC-8</td><td>&nbsp;11.3.1.1.Gerente do Núcleo de Mobilização e Controle<br>Social</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-9</td><td>a) Agente de Mobilização Social</td><td style="text-align: center;">10</td><td style="text-align: right;">300,00</td></tr><tr style="height: 36.1719px;"><td>CC-10</td><td>I. Mobilizador Social</td><td style="text-align: center;">10</td><td style="text-align: right;">180,00</td></tr><tr style="height: 36.1719px;"><td>CC-7</td><td>11.3.2. Coordenador de Endemias</td><td style="text-align: center;">01</td><td style="text-align: right;">491,00</td></tr><tr style="height: 36.1719px;"><td>CC-7</td><td>11.3.3. Соordenador de Vigilância Sanitária</td><td style="text-align: center;">01</td><td style="text-align: right;">491,00</td></tr><tr style="height: 19.5625px;"><td>CC-8</td><td>11.3.3.1. Gerente do Núcleo de Fiscalização e Saneamento</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-9</td><td>&nbsp;a) Agente de Educação Sanitária</td><td style="text-align: center;">10</td><td style="text-align: right;">300,00</td></tr><tr style="height: 36.1719px;"><td>CC-7</td><td>11.3.4. Coordenador de Assistência Farmacêutica</td><td style="text-align: center;">01</td><td style="text-align: right;">491,00</td></tr><tr style="height: 36.1719px;"><td>CC-2</td><td>11.4. Assessor de Rede de Servicos de Saúde</td><td style="text-align: center;">10</td><td style="text-align: right;">702,00</td></tr><tr style="height: 36.1719px;"><td>CC-7</td><td>&nbsp;11.4.1. Сoordenador de Atenção Primária</td><td style="text-align: center;">01</td><td style="text-align: right;">491,00</td></tr><tr style="height: 36.1719px;"><td>CC-7</td><td>11.4.2. Соordenador de Atenção Secundária</td><td style="text-align: center;">01</td><td style="text-align: right;">491,00</td></tr><tr style="height: 36.1719px;"><td>CC-8</td><td>11.4.2.1. Diretor Geral do H.M.R.R.B</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-8</td><td>11.4.2.2. Diretor Clinica do H.M.R.R.B&nbsp;</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-8</td><td>11.4.2.3. Gerente do Núcleo de Administração Hospitalar</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-8</td><td>11.4.2.4. Gerente do Núcleo de Enfermagem</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-8</td><td>11.4.2.5. Gerente do Núcleo de Atenção Psico-social</td><td style="text-align: center;">01</td><td style="text-align: right;">344,00</td></tr><tr style="height: 36.1719px;"><td>CC-9</td><td>a) Agente de Assistência Psico-Social</td><td style="text-align: center;">10</td><td style="text-align: right;">300,00</td></tr><tr style="height: 36.1719px;"><td>CC-2</td><td>11.5. Assessor de Planejamento e Avaliação&nbsp;</td><td style="text-align: center;">01</td><td style="text-align: right;">702,00</td></tr><tr style="height: 36.1719px;"><td>CC-7</td><td>11.5.1. Сoordenador de Controle, Regulação e Auditoria</td><td style="text-align: center;">01</td><td style="text-align: right;">491,00</td></tr></tbody></table></a></div></div>
+
+
+      
+    
+    
+  
+
+
+
+  </div></div></div></div>
+
+
+</div>
+
+  <div class="dont-break-out"><p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><span style="color: #7e8c8d; font-size: 10pt;">Os Textos Articulados possuem car&aacute;ter informativo e educativo, sendo a principal fonte de publica&ccedil;&atilde;o eletr&ocirc;nica da C&acirc;mara Municipal de Amontada devido &agrave; sua ampla acessibilidade. No entanto, em rela&ccedil;&atilde;o aos textos normativos, &eacute; indispens&aacute;vel a consulta aos documentos oficiais impressos para comprova&ccedil;&atilde;o da exist&ecirc;ncia de direitos, conforme previsto no art. 376 do C&oacute;digo de Processo Civil.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><strong><span style="font-size: 10pt; color: #7e8c8d;">PORTANTO:</span></strong><br><span style="font-size: 10pt;"><span style="color: #7e8c8d;">A Compila&ccedil;&atilde;o de Leis do&nbsp;Munic&iacute;pio de Amontada, criada pelo Departamento Legislativo, visa promover a transpar&ecirc;ncia e facilitar a pesquisa legislativa, oferecendo acesso organizado &agrave;s normas municipais. Apesar de ser uma ferramenta &uacute;til para consulta e orienta&ccedil;&atilde;o, possui limita&ccedil;&otilde;es que a impedem de ser considerada fonte completa ou definitiva. Assim, serve como apoio relevante para a constru&ccedil;&atilde;o de teses jur&iacute;dicas, mas n&atilde;o deve ser utilizada como refer&ecirc;ncia &uacute;nica. </span><span style="color: #e03e2d;">A consulta aos documentos oficiais e fontes prim&aacute;rias ainda &eacute; indispens&aacute;vel para garantir a precis&atilde;o das informa&ccedil;&otilde;es jur&iacute;dicas</span>.</span></p></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Amontada</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Dona Maria Belo, nº 1311, Centro</span>
+                  <br>
+                  CEP: <span class="postal-code">62540-000</span>
+                  |
+                  Telefone: <span>(88) 3636-1177</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="https://www.camaraamontada.ce.gov.br/" class="url">Site</a> |
+                  <a href="mailto:cmamontada@gmail.com" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+    
+
+    
+  </body>
+</html>

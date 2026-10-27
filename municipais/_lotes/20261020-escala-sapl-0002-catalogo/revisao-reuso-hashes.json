@@ -1,0 +1,23 @@
+{
+  "catalogo_sha256": "02e3ee8fc7f2dba75f667455f4db4db99dbead9c6f22229ed57d5822bf4050c2",
+  "imagens": [
+    {
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e496e41023bc50ed356d7ec250ee1282c358007e6c872c909755feccbcaada02/1/imagem-000.png",
+      "sha256": "1448482797b9155df8a80d16c2100a31035a73db90dee102f0bdb7c32de8803d",
+      "aprovado_como_decorativo": true,
+      "tipo": "marca ou cabeçalho institucional sem dispositivo legal",
+      "revisao_origem": "municipais/_lotes/20261020-catalogo-imagens-sapl/revisao-decorativos-001.json",
+      "sha256_revisao_origem": "fda248217a17881532b3a38504759fe64a2c8fc3008e763510d8f8a60783bbd7",
+      "criterio": "Pixels idênticos ao SHA visto anteriormente, sem inferir por tamanho/nome."
+    },
+    {
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/b3c03dedb3a9891e7811dfa26dfd74a754ceb879f4f5247d0e945137cf04146c/1/imagem-000.png",
+      "sha256": "9bf0de9707a37d94ba9a572cf3385a2bc34058234fe7929cb1d2aac47f23f3cd",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão institucional deCampestre, pixels vistos diretamente, sem tabela ou redação normativa",
+      "revisao_origem": "municipais/_lotes/20261020-escala-sapl-0001-catalogo/revisao.json",
+      "sha256_revisao_origem": "da22f0aa38173294c39155378c280a93998154adf30a3b3061a8703a1bf8da3e",
+      "criterio": "Pixels idênticos ao SHA visto anteriormente, sem inferir por tamanho/nome."
+    }
+  ]
+}

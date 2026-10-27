@@ -1,0 +1,32 @@
+{
+  "aprovados": 9,
+  "retidos": 0,
+  "hosts": 3,
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-docx-simples-gate-anexos/aprovados.paths.txt",
+      "sha256": "ac4ee3b2e55285f09bc4e5399755dfd3d86cd3e30ad8bd1675240ec9983f7138"
+    },
+    {
+      "path": "municipais/_lotes/20261020-docx-simples-gate-anexos/host-sapl.coronelbarros.rs.leg.br.json",
+      "sha256": "958c103938c5c86e0f129bbb8bd53ac5e60048d01a61a96c546a0d040aceb2b6"
+    },
+    {
+      "path": "municipais/_lotes/20261020-docx-simples-gate-anexos/host-sapl.itapeva.mg.leg.br.json",
+      "sha256": "85da16654cef75a7569501fc4dba823ce375d051c44b29ba8513d8c3a1748fed"
+    },
+    {
+      "path": "municipais/_lotes/20261020-docx-simples-gate-anexos/host-sapl.planalto.sp.leg.br.json",
+      "sha256": "945e2b2d2e7a00475e3375f0b9208cb1fded520cb6e94360bb44573391cabc00"
+    },
+    {
+      "path": "municipais/_lotes/20261020-docx-simples-gate-anexos/overlay.json",
+      "sha256": "6f6ca2f5ba5e9c87f86c6004466b468e87d07d0cad607deabdba12d00ddd45de"
+    },
+    {
+      "path": "municipais/_lotes/20261020-docx-simples-gate-anexos/retidos.paths.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+  ],
+  "script_sha256": "9ade983595c7cd4e7a3ec52b15ab460dcf75ec853dd2b309870645458d75f362"
+}

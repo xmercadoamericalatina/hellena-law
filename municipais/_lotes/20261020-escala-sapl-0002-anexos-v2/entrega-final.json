@@ -1,0 +1,60 @@
+{
+  "aprovados": 59,
+  "retidos": 36,
+  "hosts": 10,
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-anexos-v2/aprovados.paths.txt",
+      "sha256": "79b23644ed13b8f8cf74a41f4a66bc7223164c2fc7d9b10d68a2fe3d6b4b103e"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-anexos-v2/host-sapl.barradesaomiguel.pb.leg.br.json",
+      "sha256": "6aca8e326697a3cdb5846725f93ddae98b6cff6c3cb2fd09d2912bf83f7f4160"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-anexos-v2/host-sapl.bomjesusdoaraguaia.mt.leg.br.json",
+      "sha256": "00fd9c8e6f80d59f4eafb515fc9d9184feb62464f92cb33491f97f77a3a1432d"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-anexos-v2/host-sapl.caico.rn.leg.br.json",
+      "sha256": "9d06c9fdb6b2b33f206943e67d00f259ea240e205410296e32f883abcb3e50b8"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-anexos-v2/host-sapl.campestre.mg.leg.br.json",
+      "sha256": "359a82d22da94fe9deb6842ced5ae95f626ad61b79fe38a42b888b53a1e58b52"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-anexos-v2/host-sapl.campodotenente.pr.leg.br.json",
+      "sha256": "d30580add6fbd8a1a10e986bb29243982341496fd50206ce1a2561f48a5050fd"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-anexos-v2/host-sapl.joaquimtavora.pr.leg.br.json",
+      "sha256": "168ac7a95196e30522ad644fc74d452ab7d77d92e438a7867ba4d31f8d753ff2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-anexos-v2/host-sapl.montadas.pb.leg.br.json",
+      "sha256": "b5ae3809d531f3dbd343f843a97e36a077d537c12dada7a4ffd6500e364b5610"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-anexos-v2/host-sapl.saojosedosabugi.pb.leg.br.json",
+      "sha256": "4412712fabd61f91951f261b7a25e437556cdf5dad5e6161b0ffda9448b48d06"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-anexos-v2/host-sapl.sempeixe.mg.leg.br.json",
+      "sha256": "4c248073419380d1597fb0accddf28910d5d2c1eb7106059637155ec98c69b67"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-anexos-v2/host-sapl.sidrolandia.ms.leg.br.json",
+      "sha256": "73a2b3a408f195e27840357f2e57b142b677be1ab4867bb415e9fa3c24050519"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-anexos-v2/overlay.json",
+      "sha256": "97554774b2e5f4656b7bafd4fef45e4208e7c890007a997dde774f2fffef9912"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-anexos-v2/retidos.paths.txt",
+      "sha256": "892cea4fc55490ea56913bee83016c7ded882a63194edaf6b3c877d677fdfb70"
+    }
+  ],
+  "script_sha256": "9ade983595c7cd4e7a3ec52b15ab460dcf75ec853dd2b309870645458d75f362"
+}

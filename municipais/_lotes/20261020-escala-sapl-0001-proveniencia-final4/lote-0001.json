@@ -1,0 +1,182 @@
+{
+  "obtido_em": "2026-10-20T22:20:49.575437",
+  "baseline": "/tmp/constituicao-index-20261020-continuacao.z",
+  "baseline_sha256": "a424728b1798aae5662ce344200637c9dc3b621eca986d3d3a01b6ec22929285",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "criterio": "auditoria local de fonte individual SAPL; sem rede, sem Git, sem edição dos documentos",
+  "aprovados": [
+    {
+      "path": "municipais/MG/campestre/leis-complementares/2026/leis-complementares-80-2026-sapl-559.md",
+      "sha256": "074aa652c081dbb55dbb27a986760169deb3f411a24cdbd9668fc085044d4d41",
+      "sha256_corpo": "8b80a81ba2a331e754a6b90d42d6a55edb4297223269a1e66bde3a1ffece01f8",
+      "fonte": "https://sapl.campestre.mg.leg.br/norma/559",
+      "fonte_texto": "https://sapl.campestre.mg.leg.br/media/sapl/public/normajuridica/2026/559/lei_complementar_80_de_27_de_fevereiro_de_2026.pdf",
+      "codigo_ibge": "3111002",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.campestre.mg.leg.br/559.bin",
+          "sha256": "0722f72924a6472ad4ed0e474447e9fbc3d48208f6622ee55bcdeb43f700ad7c"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.campestre.mg.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9f64e5fc7c6195b7725eb1dbbd383e5d2cb1438b5d4bd10947955220a1c2f602.json",
+          "sha256": "9f64e5fc7c6195b7725eb1dbbd383e5d2cb1438b5d4bd10947955220a1c2f602"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.campestre.mg.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/bdc1dc7f38e27a255b73b277b9ffa2d948c715593a934e8e86549f632688eda6.json",
+          "sha256": "bdc1dc7f38e27a255b73b277b9ffa2d948c715593a934e8e86549f632688eda6"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.campestre.mg.leg.br/777cdec20b7d4f24f4c3ae8ea1e32269b3d494950353b197d54f604f8c8c98fd.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9ff70603f1556205e9646e6a5dd87204ff9b22ec8f7e0e8509ea066b6a576e8d.json",
+          "sha256": "9ff70603f1556205e9646e6a5dd87204ff9b22ec8f7e0e8509ea066b6a576e8d"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.campestre.mg.leg.br/917e04da6f2a307ec2b4888c4c72342dd0aa610257bb4974b1abc0fe1651bdf2.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/c41afd7324c952db1bd34922d2c9ba237d94c8670e178d4206cf6779bf7d8ec9.json",
+          "sha256": "c41afd7324c952db1bd34922d2c9ba237d94c8670e178d4206cf6779bf7d8ec9"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/MG/campestre/leis-complementares/2026/leis-complementares-82-2026-sapl-1087.md",
+      "sha256": "60b09b2dc0db80c366a14e273fc02f0150c6b396d09085ff5b2d2c2840726edf",
+      "sha256_corpo": "31166c4fe30e0738259e1ebc4aded756d2ff3dab3da40c3cee2f232e9c13978d",
+      "fonte": "https://sapl.campestre.mg.leg.br/norma/1087",
+      "fonte_texto": "https://sapl.campestre.mg.leg.br/media/sapl/public/normajuridica/2026/1087/lei_complementar_82_de_1__de_junho_de_2026.pdf",
+      "codigo_ibge": "3111002",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.campestre.mg.leg.br/1087.bin",
+          "sha256": "3d27fdea49a35f36e690887c058fc7e3a48868af5c6aa0fb6fbd511a776b7196"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.campestre.mg.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9f64e5fc7c6195b7725eb1dbbd383e5d2cb1438b5d4bd10947955220a1c2f602.json",
+          "sha256": "9f64e5fc7c6195b7725eb1dbbd383e5d2cb1438b5d4bd10947955220a1c2f602"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.campestre.mg.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/bdc1dc7f38e27a255b73b277b9ffa2d948c715593a934e8e86549f632688eda6.json",
+          "sha256": "bdc1dc7f38e27a255b73b277b9ffa2d948c715593a934e8e86549f632688eda6"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.campestre.mg.leg.br/777cdec20b7d4f24f4c3ae8ea1e32269b3d494950353b197d54f604f8c8c98fd.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9ff70603f1556205e9646e6a5dd87204ff9b22ec8f7e0e8509ea066b6a576e8d.json",
+          "sha256": "9ff70603f1556205e9646e6a5dd87204ff9b22ec8f7e0e8509ea066b6a576e8d"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.campestre.mg.leg.br/917e04da6f2a307ec2b4888c4c72342dd0aa610257bb4974b1abc0fe1651bdf2.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/c41afd7324c952db1bd34922d2c9ba237d94c8670e178d4206cf6779bf7d8ec9.json",
+          "sha256": "c41afd7324c952db1bd34922d2c9ba237d94c8670e178d4206cf6779bf7d8ec9"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/MG/campestre/leis-ordinarias/2015/leis-ordinarias-1814-2015-sapl-1679.md",
+      "sha256": "78e7e00ce585aee3eedad288808cf66f48a857ce8b0ba897018b9bd8b1d977fe",
+      "sha256_corpo": "1c40949d61ae3eb61dfba9e833fa8bfda8b2a6ede72137fedc083f6d7badcbf8",
+      "fonte": "https://sapl.campestre.mg.leg.br/norma/1679",
+      "fonte_texto": "https://sapl.campestre.mg.leg.br/media/sapl/public/normajuridica/2015/1679/lei-1.814-12-de-janeiro-de-2015.pdf",
+      "codigo_ibge": "3111002",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.campestre.mg.leg.br/1679.bin",
+          "sha256": "dc1559abea0925411594cf996319a55a1112e91dcfdd89adc8cae91d4685f335"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.campestre.mg.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9f64e5fc7c6195b7725eb1dbbd383e5d2cb1438b5d4bd10947955220a1c2f602.json",
+          "sha256": "9f64e5fc7c6195b7725eb1dbbd383e5d2cb1438b5d4bd10947955220a1c2f602"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.campestre.mg.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/bdc1dc7f38e27a255b73b277b9ffa2d948c715593a934e8e86549f632688eda6.json",
+          "sha256": "bdc1dc7f38e27a255b73b277b9ffa2d948c715593a934e8e86549f632688eda6"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.campestre.mg.leg.br/777cdec20b7d4f24f4c3ae8ea1e32269b3d494950353b197d54f604f8c8c98fd.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9ff70603f1556205e9646e6a5dd87204ff9b22ec8f7e0e8509ea066b6a576e8d.json",
+          "sha256": "9ff70603f1556205e9646e6a5dd87204ff9b22ec8f7e0e8509ea066b6a576e8d"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.campestre.mg.leg.br/917e04da6f2a307ec2b4888c4c72342dd0aa610257bb4974b1abc0fe1651bdf2.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/c41afd7324c952db1bd34922d2c9ba237d94c8670e178d4206cf6779bf7d8ec9.json",
+          "sha256": "c41afd7324c952db1bd34922d2c9ba237d94c8670e178d4206cf6779bf7d8ec9"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/MG/campestre/leis-ordinarias/2015/leis-ordinarias-1815-2015-sapl-1680.md",
+      "sha256": "e14bcd4ac129568d80531c8a9566b1f34e77947d567192d985acc50921f69240",
+      "sha256_corpo": "dcae2569b81a118089589b636de22efec5250b5cc54f5e1c419bc09fac373d0d",
+      "fonte": "https://sapl.campestre.mg.leg.br/norma/1680",
+      "fonte_texto": "https://sapl.campestre.mg.leg.br/media/sapl/public/normajuridica/2015/1680/lei-1.815-23-de-fevereiro-de-2015.pdf",
+      "codigo_ibge": "3111002",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.campestre.mg.leg.br/1680.bin",
+          "sha256": "02e132b839cd096ca665a45944d0e4d084a00128e53b53697dc25974f06b5ee9"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.campestre.mg.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9f64e5fc7c6195b7725eb1dbbd383e5d2cb1438b5d4bd10947955220a1c2f602.json",
+          "sha256": "9f64e5fc7c6195b7725eb1dbbd383e5d2cb1438b5d4bd10947955220a1c2f602"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.campestre.mg.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/bdc1dc7f38e27a255b73b277b9ffa2d948c715593a934e8e86549f632688eda6.json",
+          "sha256": "bdc1dc7f38e27a255b73b277b9ffa2d948c715593a934e8e86549f632688eda6"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.campestre.mg.leg.br/777cdec20b7d4f24f4c3ae8ea1e32269b3d494950353b197d54f604f8c8c98fd.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/9ff70603f1556205e9646e6a5dd87204ff9b22ec8f7e0e8509ea066b6a576e8d.json",
+          "sha256": "9ff70603f1556205e9646e6a5dd87204ff9b22ec8f7e0e8509ea066b6a576e8d"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.campestre.mg.leg.br/917e04da6f2a307ec2b4888c4c72342dd0aa610257bb4974b1abc0fe1651bdf2.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/c41afd7324c952db1bd34922d2c9ba237d94c8670e178d4206cf6779bf7d8ec9.json",
+          "sha256": "c41afd7324c952db1bd34922d2c9ba237d94c8670e178d4206cf6779bf7d8ec9"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    }
+  ],
+  "retidos": []
+}

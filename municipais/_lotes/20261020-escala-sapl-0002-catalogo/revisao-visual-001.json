@@ -1,0 +1,977 @@
+{
+  "catalogo_sha256": "02e3ee8fc7f2dba75f667455f4db4db99dbead9c6f22229ed57d5822bf4050c2",
+  "criterio": "Revisão visual direta dos seis contatos numerados. Aprovação restrita a brasões e marcas institucionais sem redação normativa. Assinaturas, fragmentos de letras, áreas opacas ou brancas e outros objetos sem contexto permanecem retidos. Esta revisão não confirma identidade, anexos ou vigência do documento.",
+  "contatos": [
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-catalogo/contato-001.png",
+      "sha256": "86c2660969c91f8a9924d79ddff5278cfd5864e33b43b74eb5fcbe5bff888fb6"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-catalogo/contato-002.png",
+      "sha256": "b46bfde8025be60caae84bca3d45c399d13c26da6f650bd666d86b7ad65c9772"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-catalogo/contato-003.png",
+      "sha256": "fa1aa9a93942d3e417fe9aea1d49e0cbdf0f9aa7b47dc7757a32a5413006dd13"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-catalogo/contato-004.png",
+      "sha256": "85fb02ae6724a3442e326b0c2cc5c25542ed182fed5d2551cc3f85ef7adef295"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-catalogo/contato-005.png",
+      "sha256": "7eefdc508e44448e9020938c071f7b0b083073d2ace675ea5a9c1f3a14b5b582"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0002-catalogo/contato-006.png",
+      "sha256": "a852dd8857a1b7d535befb08f6eb873cc76411c70671a05c7ae5568339281002"
+    }
+  ],
+  "imagens": [
+    {
+      "numero": 1,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d58551f4fd8cc39ac30eb6e8829b9fe0a4e8308409dbb9911d0814fc00a5d746/1/imagem-001.png",
+      "sha256": "bdc1898dba8e20acfc3b230dd3e003d0e70aec9c4729c980e053994ff86d1304",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 2,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d58551f4fd8cc39ac30eb6e8829b9fe0a4e8308409dbb9911d0814fc00a5d746/1/imagem-000.png",
+      "sha256": "b047193a6643b1505ce9cbb1388705e8acba780f6ef8c9dcde365d436ce048bd",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 3,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/702db812d358a3f2dfdd53ac5e8cc438a00ab838aa71ff7c9de7beb45ea8f3c4/1/imagem-000.png",
+      "sha256": "bcdedddf3f4a7323c6b8c0f55d0b8f7475552f341e1de9a49b6d8e1657fb8304",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 4,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/702db812d358a3f2dfdd53ac5e8cc438a00ab838aa71ff7c9de7beb45ea8f3c4/1/imagem-001.png",
+      "sha256": "e4ac3dad349bc5585f4bd76bea0d46241f506ef0e53ef3ee9589c512211164ed",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 5,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/90d7d1968cf652ad34d22b75fbc46775469cf1546040c1df8519424df9fd8209/1/imagem-000.png",
+      "sha256": "a645a0bbe3e184de75af0a5425b4f777121586613ef17e2c5b0c3f7e75bfe20a",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 6,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/1fba421883738b32e82b73035bba769e07308a1f7a4a4f63b4e14dc29d52292f/1/imagem-000.png",
+      "sha256": "44d1b8aecdbef12b208f120d56c57b2957fb0b081f9b7ce8ea27f640fd5d4a54",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 7,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/b3c03dedb3a9891e7811dfa26dfd74a754ceb879f4f5247d0e945137cf04146c/1/imagem-001.png",
+      "sha256": "6f259fec49f7cd5d19f8ad3eb46558945b9be975b8f39e0483288e990fc6e802",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 8,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/20b46ed538feb475de13874c0111950bd500348d680dd28b21ee36490206166d/1/imagem-000.png",
+      "sha256": "91eb201d1b60276cba18af31ba0365ca115f965ec3bf7dd716dc30cec0087930",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 9,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/a15bfe3b10a8e4f57a5808e217681fef85a180dacd4fbc0cf41bbda6e033e712/1/imagem-000.png",
+      "sha256": "208c3dc5b6531a8d9d23eeb75f81ad4af9dce9e1e2de4ccab799824b7c0f0d4b",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 10,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/6b6d506fe9bd98f7fff9d1277ee961cf61ff6d7793670708db3a506f5a8be6bf/1/imagem-000.png",
+      "sha256": "bc0ac0e9fe639a2befb29cded72e95cb02c1d4ff72712663d7cfb18e7905b3d1",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 11,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/6b6d506fe9bd98f7fff9d1277ee961cf61ff6d7793670708db3a506f5a8be6bf/1/imagem-001.png",
+      "sha256": "22ba6bc2faeddbe62960203cd9d4f4f9c84a4c517b704ccfe9997c1ca5f8199d",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 12,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/6b6d506fe9bd98f7fff9d1277ee961cf61ff6d7793670708db3a506f5a8be6bf/1/imagem-002.png",
+      "sha256": "84af383ff5a6b849ba0da1634d25ef24a064e754f7cfcf0e7660f318784280a4",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 13,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/6b6d506fe9bd98f7fff9d1277ee961cf61ff6d7793670708db3a506f5a8be6bf/1/imagem-003.png",
+      "sha256": "bc7bd30f817b8b436f38f459cd249c6d69da66d1c30fb8fde52d8dfd4898ef97",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 14,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/2/imagem-005.png",
+      "sha256": "48fe2ee0a57691cd031aeb8399b90376e89d7f0e9adc22937867200d87c558a3",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 15,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/b87f9bf42859513fb587492fa874a8c8c660612519ea1e622a72996ff5e18ade/1/imagem-000.png",
+      "sha256": "ca05ea988a3ab28dd1c9ff01c915e1717c80fc0de023a6ae503164fb49799faa",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 16,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/1fba421883738b32e82b73035bba769e07308a1f7a4a4f63b4e14dc29d52292f/1/imagem-001.png",
+      "sha256": "26b0e19844fb763764dfce574d5fb1bb8b708fd28a68af6d3265a17ee7c51281",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 17,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/4f18dd693cba000d58d54374152da584fd6d9694d1680242c39e42ca281630dd/1/imagem-000.png",
+      "sha256": "81e06f8ff224a3db1bab43de66dcbf54ddfa46da2d83cc98df2d25746fac29ff",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 18,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/4f18dd693cba000d58d54374152da584fd6d9694d1680242c39e42ca281630dd/1/imagem-001.png",
+      "sha256": "288617953361295d51cb85f39fbb18f652ec81bd7fe49a4d1c0832806e05032e",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 19,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/1/imagem-002.png",
+      "sha256": "31c55fed399ab889afd97506f491503dcc1feec4518270a69b8ef9d7098f2c75",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 20,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/1/imagem-008.png",
+      "sha256": "f0398f75c9171f94a1bd28d40ec35f0e689744d11e122debed0517a0797e4a0b",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 21,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/4/imagem-001.png",
+      "sha256": "ed06e134991bd1f8d217b79aba45379c8af827446ee2e5b46877a23ad46cda39",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 22,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/4/imagem-002.png",
+      "sha256": "be4ade32c571c13f06522e6f295f0ab0a0cde8e642c9ff26e7c354225f425250",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 23,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/7158c4572f10bd0db31f1876a712ba9020702c336fdbdfcf8615e294ccbd8847/1/imagem-001.png",
+      "sha256": "8e9e2c87fdefbeeb950a7a2be676c0a68cc187bd3345585b344def118ca384cb",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 24,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/7158c4572f10bd0db31f1876a712ba9020702c336fdbdfcf8615e294ccbd8847/1/imagem-002.png",
+      "sha256": "345e35f5a93fe8882369cc08a230818214e1db474140c126484a701193f8124b",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 25,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/9d34c499636724158b1ef849c2046b0fa59f64a064fa0aeb39917b80f1ca368c/1/imagem-000.png",
+      "sha256": "090ecb2de270bbde0656ef25a26d52649b6869faf0ab6ed281d133da1ba85e63",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 26,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/9d34c499636724158b1ef849c2046b0fa59f64a064fa0aeb39917b80f1ca368c/1/imagem-001.png",
+      "sha256": "078fee0c93404288017b43dd4a98eafdfb741c70d622cc37aad7b2ab460a08cb",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 27,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/764e8483060670e6cb27ee26832a0bceca23d509746406821584281131c62153/1/imagem-000.png",
+      "sha256": "edaab0a9171c56eb273fe6a4fa34051bdf8d709dbd84ddc72e712bcb71f63bce",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 28,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/55d8bd70665e76c20bde3730a2f5354b4d4cae1b8387f26051dcd84c038807ff/1/imagem-001.png",
+      "sha256": "61ef66f855c896b6903ad5121cddf14049454d57187980f27f208f92c7d786e5",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 29,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/9d714d4c868eda57e5e7c4db0ee5e27361bdb2989a256110bb5fb8b9aa20c26f/1/imagem-000.png",
+      "sha256": "21090d48ff8a4c89dea7e5d5e3e39a4f17b9392d630e841a959556aa437a88e2",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 30,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/6ddc6cf7905a87990d6eae19b8272b5976b7e67c9e123d47df9fb6d7ec50b923/1/imagem-000.png",
+      "sha256": "1caae3940655c9d0c0cfae444571bdfc01a8412564a8d05712588b569884a6fb",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 31,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/a43df4365a524692d9e1687f6f5d3161021d6a168c4b0d92c261671245b1914e/1/imagem-002.png",
+      "sha256": "c4bab4cc9c5d3a53e46b7745f21e06136d8425d79d09aec5c03cc67efa57d102",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 32,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-000.png",
+      "sha256": "9c87379fa2ba4bb0953fac35134fa711f5c568eebbd34e5da96e679744783c3d",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 33,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-001.png",
+      "sha256": "11a8357429c30f378c620652e32a5f31482575e3ac6371a59e979c4177eddcae",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 34,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-002.png",
+      "sha256": "cfe11dfc282808b23576ad3459d316b5cffd77caa965097fa24eebe9927e08ed",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 35,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-003.png",
+      "sha256": "dfcd4c35a98d03d4bf30a42e6cf93a72847553d1915e9c0b5c688df7529d074f",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 36,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-004.png",
+      "sha256": "a48bfd839de60a9682d59f168e69ac5a0983b63f1933ba92cdcb6aa0cebd3955",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 37,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-005.png",
+      "sha256": "c5dceed608e5205079be20ac5573f8b2e34820f5fcdd8fcba944b16058dab06f",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 38,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-006.png",
+      "sha256": "b136dcdd3c56fab92b2cd13fe60f2aa69e3125d079b8cc32c9104370553837ec",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 39,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-007.png",
+      "sha256": "9c882ca86da50404f6975eb97b44441f2750851d621c992421a8d1952565514a",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 40,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-009.png",
+      "sha256": "ff3580c323a35c79856aea8e3b58dfccce5521687c22c474eaa51e1a645636ee",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 41,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-010.png",
+      "sha256": "2d7dc672d5e5c662b2e286cede2da9cf7c14f24e718f7fd4fa9d6c3b321ff80b",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 42,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-011.png",
+      "sha256": "c96be43285e2e3040c0b1a2bdc24a4e8b265bf5d352a839837b6611108d718ef",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 43,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-013.png",
+      "sha256": "b75a7d1fe03a7a88862f646a63afaab25cd20236f6c841116425eac380085689",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 44,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-014.png",
+      "sha256": "26ffdf5c687910ffbca7b217d947f03c906f2fa20e715494f3348640577401a2",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 45,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-015.png",
+      "sha256": "31f637dbe3f9a86a79fa51dee4f8f944d2e1c41541a1dec9dc55cb3658eced19",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 46,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-019.png",
+      "sha256": "a52bc98fde1f7274a1bed9fb7addaa05e8dccc9041e0d92e2541527b1267d0ff",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 47,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-020.png",
+      "sha256": "bc93304f62fffa7ceaa9bb9950e199e9bdd18248d0c886526e300e1492521ef1",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 48,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-021.png",
+      "sha256": "372e36ff67793cc422d8bce22500abb84b14bfd434600cdbb10e19ae66703e08",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 49,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-023.png",
+      "sha256": "4fdcf259d95eec469e0920a97662366a4a8c6f37dc0f35fa7b01c4fc015a3012",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 50,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-024.png",
+      "sha256": "33eee04d916e5f7924b56efb56fd46bc041c779013a799ad1fb702c9e0b63386",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 51,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-025.png",
+      "sha256": "e91c7b40acd25d00b523691961742964655aaaf64d82e4c71242857963fc0a26",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 52,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-029.png",
+      "sha256": "0632632ddd8c13df596c7b1ccc013d08ca3bdda551fc857175f204aa84839719",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 53,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-037.png",
+      "sha256": "2baaa459ef7c61450bf5e2d10eba7ebb28aaa9fc68530818275c5cef1f3b5ad6",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 54,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-039.png",
+      "sha256": "7891a7030b4f0989d7ebad93e3c274c095a8ee08ec211b882071e4d37b3768ea",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 55,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-042.png",
+      "sha256": "4a1544bad690a4ade95b277835ae85836255414101a2285b63e01be5b7f758c5",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 56,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-043.png",
+      "sha256": "474e05a56b02656914fad8c4a03c1bad09aba910bec5dfcf575dc26eb11ca086",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 57,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-047.png",
+      "sha256": "f8b4e88af64918e8522829cfd7c4546f8da00c2ac4a5f30599fd5d5d5c687e79",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 58,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/1fc80a0d6f6a7ef476c6357fdc7cb5d5034ad23300f195268ae211876ffe6909/1/imagem-001.png",
+      "sha256": "4f37e0784d8c97825b24a7c4df527fbbd2dd04d8834296c1db3317663dc5aac1",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 59,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/16cda3e88bfc2a8310db55e3e337432dcf03a7a74f9c480c825bad372cdb30be/1/imagem-000.png",
+      "sha256": "4287bdb39247f89297ca24df9fe1e8b6d3432cd46bab7da0034b85b291ee6549",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 60,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/be07cb3b6c631c5958fb9fab280b68a68235323cb8762b4498f9ad0a98c8ec34/1/imagem-000.png",
+      "sha256": "d480d2f06f3ce8b3284c0558c714edde64fc44186aaa1f33e3e353376ee5882a",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 61,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/1/imagem-003.png",
+      "sha256": "b9d55731d4e5563734dc8acdb0b2081e5d6cd8dc77ae11c750ed6640f9b253c3",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 62,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/1/imagem-004.png",
+      "sha256": "b726f0e2949720c4087ab0d80e1b9ca74e18a68d43f8bf00e984cfa32dc2051e",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 63,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/1/imagem-005.png",
+      "sha256": "6d4e58db4903814b4e638f92aabf4252324420f489be3fde38ee485488269448",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 64,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/1/imagem-007.png",
+      "sha256": "4cb14b6ea0e5d52738b08e24317d00ebd9c449a5a53047f15bedbc73580eeb53",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 65,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/2/imagem-000.png",
+      "sha256": "770c344f10f288456b7feaac6d65f144997183d7d320954431c1af2cdddadcb3",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 66,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/2/imagem-002.png",
+      "sha256": "fc7da7a97a7de5aced6bd66fcbba9c04bca4da333c86eec2f572483d8fc4c5b7",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 67,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/2/imagem-003.png",
+      "sha256": "75b733b0cfbdb1c5a6f78146eec39d21b35b789be90a8a16230aa0397d7f07d8",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 68,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/2/imagem-004.png",
+      "sha256": "6b07a75ff22abd5d52d9b94ae2ab04c2206093c225c413dae083f155927e4d25",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 69,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/2/imagem-007.png",
+      "sha256": "c78ba63a8aeb10fd43653c5865f23020ad8e99626c41bb8d2b79007bd7981d40",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 70,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/2/imagem-008.png",
+      "sha256": "056ba838f2fd762ba612d3a9c7785354657b55850563286bcfd653641f949f1e",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 71,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/2/imagem-010.png",
+      "sha256": "8ede533885eac15a8f0f1c39a2c408a7cc55d5efe864e65f62eeece49d80c316",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 72,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/3/imagem-000.png",
+      "sha256": "c71b7b1d5c895abe2fbc2b8130a2e6cc29b146faa8b42c155b8bc59804d47d38",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 73,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/3/imagem-001.png",
+      "sha256": "5ed23b589152ada80d49a15013cff8654822564e2a62f73b9666c0fbde161c89",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 74,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/4/imagem-000.png",
+      "sha256": "76faeba137cbeb166fd6fb35350e7838d86068d6411f852cfcbc2e63086af759",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 75,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/09dbf2ec062d51374ae36e44bf51739d0bc11b27ee0b8b3de5e09519d11a48b0/1/imagem-000.png",
+      "sha256": "984e277d11ee22b7bc0cbd04dfa177e1c4ad856fd1141baee5fd8853b6018931",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 76,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/1155b9151f3fc6a8c6cad782c92686e766fad20d6144fc4a166ba999fd80f266/1/imagem-000.png",
+      "sha256": "cb4cd9e222f2f3ec9934c4ab897b70d5275cb13c5a3375825038e028e6f2d5f7",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 77,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d2dd1f7fbc45d24f011bdc88b49c8e7dd47ade7b9bca1960f9e8b5d384b03a88/1/imagem-000.png",
+      "sha256": "71bd5b0c8a5f8e7294a52aa3d3c419ba56e90789d2447fade909d818b410a476",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 78,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d2dd1f7fbc45d24f011bdc88b49c8e7dd47ade7b9bca1960f9e8b5d384b03a88/1/imagem-001.png",
+      "sha256": "d48201745fc3c044866d4528caf1574f80dd98cf77c0284a6ba4b9d485643363",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 79,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d2dd1f7fbc45d24f011bdc88b49c8e7dd47ade7b9bca1960f9e8b5d384b03a88/1/imagem-002.png",
+      "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 80,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/80a06242a2925dc8b8de2e299e30cc4fb804503bfbe4257e07d877271f1f970c/1/imagem-000.png",
+      "sha256": "387401c41af4d56d2f34236ee34af1293aa51a48a9a1910da06c3e6160b303b4",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 81,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/87a36002797ed9403e5b5a6807998e4523e2ee11c57857992145430c9d05aa5c/1/imagem-000.png",
+      "sha256": "6901fad5197857104875840d6f5126066faf70847137129b782f049a6005ac85",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 82,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0b09481598263e36f66bf5d88c6c17c428eb940567a1217e6818e7fcf4425361/1/imagem-000.png",
+      "sha256": "92f8d946acaae75cc6e3817418886ca7e7da4d339ff84b9d1ad27eb266e39113",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 83,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/1/imagem-000.png",
+      "sha256": "3592239fd183fab32ec8061d70d5c8c4712067184d6a8d26dcabcf661f176680",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 84,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/17/imagem-000.png",
+      "sha256": "df83b64ef5d124e8f336e20e072ee14e69c5c9e03471a29ba5dfc5c3f1075bf1",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 85,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/17/imagem-001.png",
+      "sha256": "10321a912d3a030d98f148cdf71429de23d2cdd906ea5e2963597dbc760049f4",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 86,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/17/imagem-002.png",
+      "sha256": "6a452699815cf0953775b65cf128710eef216fa853dcb6165b10b2af9b7406a7",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 87,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/17/imagem-003.png",
+      "sha256": "91ed40288614f72ceb4a44020d250fa50bf77b251cd91e1d49c88783537bf9ba",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 88,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/17/imagem-004.png",
+      "sha256": "bb80cef7f1bffb876b4ffecc1fcd441c6c105e6f5c3c955e18bafecb923b2cf4",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 89,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/17/imagem-005.png",
+      "sha256": "2e6539b376f4a81f7eab68d0720001367c529f382e9370d555b4901fecd7c140",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 90,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/17/imagem-006.png",
+      "sha256": "d7fb050cb651412b336d4a1d806b38cc60c2610a3d9391503e3dfa6bc0f77ef2",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 91,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/17/imagem-007.png",
+      "sha256": "bdb4be29ab8263e80c8844025b86c947de2c6bc452902314e9a0be32c11a6a39",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 92,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/17/imagem-008.png",
+      "sha256": "8d84da514fcf1e43eb7c2685ba87248f7bf098e0f2f7551ca8d343b2b707be47",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 93,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0040b73adbb4643e5f2e470b74c483c00ef0238b63a06aff040ee78d63f20b08/1/imagem-000.png",
+      "sha256": "b0a130298695af98cec0f215d714994775f5a026218a0db908cb5c9b12e5f767",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 94,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/7cc20340690369bd640ef8eae282152cee55bac9648aea859b431eff0e331365/1/imagem-000.png",
+      "sha256": "40412a466fd8043fda68e884f9db646e8990aa36cd8e1c9910919a11a2af66e4",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 95,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/affe006651a2750e26af2f5f75028b810f1a08af76fb847629ac513c1aa12ccd/1/imagem-000.png",
+      "sha256": "07924cb37325e8d96c21f5e354cc3d4230c129ae3c5f487164654e0f924b00f2",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 96,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/c39a52dc91d9ea7431d1156db0032fd7e84f925e9dea247e89d6f27396d359ca/1/imagem-001.png",
+      "sha256": "2a1ba598fb649bf942442df6e6c7fd01eceae9936978d466d0c88bdd2a0956cf",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 97,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/c3c097b1865dd138530e05036b5005570866121b069d9e8e1290650300a83ec5/1/imagem-002.png",
+      "sha256": "cab709c61685e9fcd478d585c0e058debdd3ce5429dc085b8735e41032a63799",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 98,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/b22e730244476e53884c97ec12d4faa69534b1824821897f242632fa093cf0dc/1/imagem-001.png",
+      "sha256": "e3bd224015071009ba48ede8b9b44d50c4b2090f4b9a20aee2fb576df70c1c6d",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 99,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eedf0a07fddd118364b56dde25d0b189fdbcc234392904946f302a72dfe1a155/1/imagem-001.png",
+      "sha256": "0d7a2b6914f7828b17ec12131d6ecfd80d22b8881997d71b319bde14779e5497",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 100,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/299ff0f06ec694b86ec35919132171b5ddb61f43d5d76e5b7fcd9b5c4e64250e/1/imagem-002.png",
+      "sha256": "f222085cd82ed975f68843407cb8a1b05e295ce5523a2f93a7ff14754069e9f5",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 101,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/8d3d709e04329be3017637e695f99bfa90bbc48a38fb3815342992c6be7101c6/1/imagem-000.png",
+      "sha256": "730bc5ac204443ea24b7b70e41f717a9bffee2b40435c8c88e5388d852b28424",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 102,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/ceb41bb4cb9b28dc28b4e9f0678101fe88dc1248b46b5ab2cc287b8041d22f01/1/imagem-000.png",
+      "sha256": "d5a3590de5106f547b78b7063a222a84c589ea2795b1a8bea9d9c2fc5950e500",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 103,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e970bc585a7090b75adc729ec86d965714f064c98fc88db2104141a183638351/1/imagem-000.png",
+      "sha256": "b8a9bf9c1caeec005bbb9153bcd6b4f6780b421a0a8311d7c06e2ff135df5ddf",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 104,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/ffc8d3e436b90d85faa8c677edfd4c1d7332e68c57964d99a985fd787f9157d1/1/imagem-000.png",
+      "sha256": "e896006071116678e8d9f5c7e52afff3d16fd34db2f9f6e8c5eaaaee376b3907",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 105,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-048.png",
+      "sha256": "7c64febe67c11d7ad3dec9fe269c63b2a1e45347b7decfcd909b70b4edc2d15a",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 106,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/88aa647782a9203de268d78a2a14028dfa90e4c226da8958eaf1979d8df35f19/1/imagem-000.png",
+      "sha256": "29690b91e98e63ed1cfe06d370a94bec020665307d82ae61107c680d481b7d7d",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 107,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/355b42d4e448bbc86dd8e2b017567854ee19f4e8460a1fd78cbfcf7554e8bfc2/1/imagem-001.png",
+      "sha256": "8df5098347fa2e9a8f59eba694a6ee8eb3202bc32a856745eeefbfb1ef8efbed",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 108,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee/1/imagem-048.png",
+      "sha256": "1e310211c8fa25116a4f7f8b6a2eb10e30d9a6ff6f54b6cf787a53a8ce169de2",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 109,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/1/imagem-002.png",
+      "sha256": "8f6403f4cf45e547e6061a639fb04e341da333094e25bcf5db954c01ceec76e0",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 110,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/2/imagem-000.png",
+      "sha256": "db328890c17d48198a8d9d43ec38a7b011af294d4b0aa881d3c0abc51c608516",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 111,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/16/imagem-000.png",
+      "sha256": "49835bf94075870197966093b1b9ecb29514445ea8fcdaf565305939c2d6386b",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 112,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/16/imagem-001.png",
+      "sha256": "17619bae8a16a5de8b0773ab2ebe6e025851d64de73e1d9fed859935a8956c47",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 113,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/23/imagem-000.png",
+      "sha256": "0ad2687f93f7001a12cb33a202dfe381b04b96246849e5fc6e4c5a565936c853",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 114,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/23/imagem-001.png",
+      "sha256": "087eb14a81efa96f7ce9edbc2367f58c9067f4c2e758ff508c622a204360100f",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 115,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/32/imagem-000.png",
+      "sha256": "19c5856db3ea9624bb95e946ede8f54a301ffce029db4e75d4774b399b9c0b52",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 116,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/32/imagem-001.png",
+      "sha256": "5ec255ca2734523ba596abd7309aa9381e76cbe9919185f54770253b1eff2975",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 117,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/38/imagem-001.png",
+      "sha256": "d791c77d4b4a3ce5abb756b12e0de34116d3d8e902e7c727d1a931679c8ca48b",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 118,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/39/imagem-000.png",
+      "sha256": "6b217186442d38604352464e66d8850af75add4ee7628ed5ee4195c6f3d03753",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 119,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/39/imagem-001.png",
+      "sha256": "7f25c39ba3a579e541be1e75c5a318720510ff8ae534b29e262f45d7a53748dd",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 120,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/41/imagem-001.png",
+      "sha256": "ad3933a947f6e51f69e4f8ffefbeb23a752db42690b0f226704f42d8e3a847eb",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 121,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/44/imagem-000.png",
+      "sha256": "d37ca0393e6a2da6b396d9d42a052f3fab5c300dc6e350911d895cc8a0125ebf",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 122,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/46/imagem-000.png",
+      "sha256": "503f0419c7326f3305ee5c6ff230e7e2bf5f43158514e98422f194b9be8e5b4a",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 123,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/47/imagem-000.png",
+      "sha256": "b0114c5dc379839159b9987934f8cdcf3af2e4f7a8f2770ae8ec4f23ae85b8b9",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 124,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/47/imagem-001.png",
+      "sha256": "f91227d9a7776200061776dddfb76203791216f7b1548e50ac03a68d87116d4a",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 125,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/48/imagem-002.png",
+      "sha256": "eb4029ff1e146da475c9097b739e81be4aaa06f921b0dd397dfb8026b21a5cb0",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 126,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/49/imagem-000.png",
+      "sha256": "18611f1a3fc568ada96565a0425a02784677ed504baab2d452577e90ccac893b",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 127,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/50/imagem-000.png",
+      "sha256": "cfbf1d54dc9ca0535f136bc4dbe698bdbc501691b959f82f3b33a63aced033ce",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 128,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/50/imagem-001.png",
+      "sha256": "2577fed2cb77986ab44081f71d57489f06b499fe2ee76f78e60df91de2f594bd",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 129,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/53/imagem-002.png",
+      "sha256": "5b1abe8359cfde9fb5160a88fad8b6e2314abf6e06941eb82ac4934216ddb436",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 130,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/53/imagem-003.png",
+      "sha256": "b90c6b7b3b9073a00a29139547f08c17bd356f1cb8cd605aa770daedc1e2a768",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 131,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06aece21513d26e56e6f430d2b05f25bfe750fc7160876517447b00f4424b956/1/imagem-000.png",
+      "sha256": "b431a7de01a2ed8688c6d64260321e62121085afc5467ece7eb1809f4ea81d19",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 132,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/8dde5cfc0c5331656193c8379953e610bebf386cfc92c7fc7f5967d3742252c2/1/imagem-000.png",
+      "sha256": "7f3a32611459570d95afc27b97dd95def0076c6c8d19e37cf21df86762db32d7",
+      "aprovado_como_decorativo": true,
+      "tipo": "brasão ou marca institucional sem redação normativa"
+    },
+    {
+      "numero": 133,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/8dde5cfc0c5331656193c8379953e610bebf386cfc92c7fc7f5967d3742252c2/1/imagem-002.png",
+      "sha256": "127aeef419047b98f877c2af9992e40b0ef59dbb2d26258b77d17a050efd2704",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 134,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/8dde5cfc0c5331656193c8379953e610bebf386cfc92c7fc7f5967d3742252c2/1/imagem-003.png",
+      "sha256": "c4b7259bd9952a01092eea591ce4f1e1a97b2528a21722003a04e529e8531f46",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    },
+    {
+      "numero": 135,
+      "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/09ac96118f5c8b940a2e83306025a36a1b8a18b5b7c5f83eeb5d47b64ee8c793/1/imagem-001.png",
+      "sha256": "9e9530111f7e1dd466665ddbd01cf10d3566ea5b0b949f3925db6ee6be9fc891",
+      "aprovado_como_decorativo": false,
+      "tipo": "objeto retido para contexto ou verificação adicional"
+    }
+  ]
+}

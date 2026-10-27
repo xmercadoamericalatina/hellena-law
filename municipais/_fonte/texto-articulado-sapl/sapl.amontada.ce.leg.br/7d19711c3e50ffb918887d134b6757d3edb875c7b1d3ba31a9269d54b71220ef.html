@@ -1,0 +1,879 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Amontada</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Amontada",
+      "url" : "http://sapl.amontada.ce.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          21/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/Novo_Logo_da_Câmara_P6QOwZA.jpeg"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Amontada
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/2522?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/290/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei nº 1.575, de 26 de março de 2024
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>1575</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>2024</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>26 de Março de 2024</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>Institui a Sala Lilás com o objetivo de prestar atendimento humanizado às mulheres vítimas de violência domésticas, no âmbito do Município de Amontada e dá outras providências.</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/290/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt23243" ><div class="dtxt" id="d23243" pks="" pk="23243"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt23244" ><a class="dpt-link" name="23244" title="23244"></a><div class="dtxt" id="d23244" pks="" pk="23244">Institui a Sala Lilás com o objetivo de prestar atendimento humanizado às mulheres vítimas de violência domésticas, no âmbito do Município de Amontada e dá outras providências.</div></div><div class="dn" id="dn23244" pk="23244"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt23245" ><a class="dpt-link" name="23245" title="23245"></a><div class="dtxt" id="d23245" pks="" pk="23245"><p>O <strong>PREFEITO MUNICIPAL DE AMONTADA, ESTADO DO CEARÁ</strong><br>Faço saber que a Câmara Municipal de Amontada aprovou e eu sanciono a seguinte Lei:&nbsp;</p></div></div><div class="dn" id="dn23245" pk="23245"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt23246" ><div class="dtxt" id="d23246" pks="" pk="23246"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt23247" ><a class="dpt-link" name="23247">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d23247" pks="" pk="23247">Fica instituída a “Sala Lilás” no âmbito do Município de Amontada com o objetivo de
+prestar atendimento especializado e humanizado às mulheres vítimas de violências
+doméstica e familiar.</div></div><div class="dn" id="dn23247" pk="23247"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt23248" ><a class="dpt-link" name="23248" title="23248">Parágrafo único </a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d23248" pks="" pk="23248">A Sala Lilás é um espaço de acolhimento, privativo e seguro, onde as
+mulheres vítimas de violência aguardam os atendimentos de perícia clínica, psíquica e
+serviço psicossocial.</div></div><div class="dn" id="dn23248" pk="23248"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt23249" ><div class="dtxt" id="d23249" pks="" pk="23249"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt23250" ><a class="dpt-link" name="23250">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d23250" pks="" pk="23250">O Poder Executivo Municipal determinará os locais de instalação da Sala Lilás,
+podendo funcionar em Hospitais, Unidades Básicas de Saúde, Centro de Referência
+Especializado de Assistência Social (CREAS), Delegacias ou em outro local adequado, desde
+que suporte a estrutura exigida pelo § 1º deste artigo.</div></div><div class="dn" id="dn23250" pk="23250"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt23251" ><a class="dpt-link" name="23251" title="23251">§ 1º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d23251" pks="" pk="23251">Será escolhida uma sala para ser equipada com o objetivo de fazer exames periciais
+com a disposição de uma equipe multidisciplinar composta por policial civil municipal
+feminina, psicóloga, assistente social, enfermeira, médica e outros profissionais
+especializados no atendimento à mulher, caso necessário.</div></div><div class="dn" id="dn23251" pk="23251"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt23252" ><a class="dpt-link" name="23252" title="23252">§ 2º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d23252" pks="" pk="23252">O espaço será equipado com uma maca ginecológica para o atendimento à mulher,
+incluindo crianças (vítima de abusos sexuais), adolescentes e idosas.</div></div><div class="dn" id="dn23252" pk="23252"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt23253" ><a class="dpt-link" name="23253" title="23253">§ 3º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d23253" pks="" pk="23253">Além do atendimento especializado e humanizado, a sala terá a função de qualificar a
+coleta de provas para materialidade dos crimes de violência contra mulher, doméstica e
+familiar no processo, contribuindo, assim, com a responsabilização do agressor.</div></div><div class="dn" id="dn23253" pk="23253"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt23254" ><a class="dpt-link" name="23254" title="23254">§ 4º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d23254" pks="" pk="23254">A sala deve receber uma decoração que remete a um ambiente aconchegante com
+mensagens de apoio.</div></div><div class="dn" id="dn23254" pk="23254"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt23255" ><div class="dtxt" id="d23255" pks="" pk="23255"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt23256" ><a class="dpt-link" name="23256">Art. 3º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d23256" pks="" pk="23256">O Poder Público poderá celebrar parcerias e/ou convênios com demais órgãos e
+entidades, com o objetivo de ampliar a implantação da “Sala Lilás”.</div></div><div class="dn" id="dn23256" pk="23256"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt23257" ><div class="dtxt" id="d23257" pks="" pk="23257"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt23258" ><a class="dpt-link" name="23258">Art. 4º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d23258" pks="" pk="23258">O Poder Executivo poderá regulamentar a presente Lei estabelecendo normas para
+a sua fiel execução.</div></div><div class="dn" id="dn23258" pk="23258"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt23259" ><div class="dtxt" id="d23259" pks="" pk="23259"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt23260" ><a class="dpt-link" name="23260">Art. 5º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d23260" pks="" pk="23260">Esta Lei entra em vigor na data de sua publicação.</div></div><div class="dn" id="dn23260" pk="23260"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt23261" ><a class="dpt-link" name="23261" title="23261"></a><div class="dtxt" id="d23261" pks="" pk="23261"><p><strong>PAÇO DA PREFEITURA MUNICIPAL DE AMONTADA</strong>, em 26 de março de 2024.</p><p>&nbsp;</p><p style="text-align: center;"><strong>Flávio César Bruno Teixeira Filho</strong><br>Prefeito Municipal de Amontada</p></div></div><div class="dn" id="dn23261" pk="23261"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div></div></div>
+
+
+</div>
+
+  <div class="dont-break-out"><p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><span style="color: #7e8c8d; font-size: 10pt;">Os Textos Articulados possuem car&aacute;ter informativo e educativo, sendo a principal fonte de publica&ccedil;&atilde;o eletr&ocirc;nica da C&acirc;mara Municipal de Amontada devido &agrave; sua ampla acessibilidade. No entanto, em rela&ccedil;&atilde;o aos textos normativos, &eacute; indispens&aacute;vel a consulta aos documentos oficiais impressos para comprova&ccedil;&atilde;o da exist&ecirc;ncia de direitos, conforme previsto no art. 376 do C&oacute;digo de Processo Civil.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><strong><span style="font-size: 10pt; color: #7e8c8d;">PORTANTO:</span></strong><br><span style="font-size: 10pt;"><span style="color: #7e8c8d;">A Compila&ccedil;&atilde;o de Leis do&nbsp;Munic&iacute;pio de Amontada, criada pelo Departamento Legislativo, visa promover a transpar&ecirc;ncia e facilitar a pesquisa legislativa, oferecendo acesso organizado &agrave;s normas municipais. Apesar de ser uma ferramenta &uacute;til para consulta e orienta&ccedil;&atilde;o, possui limita&ccedil;&otilde;es que a impedem de ser considerada fonte completa ou definitiva. Assim, serve como apoio relevante para a constru&ccedil;&atilde;o de teses jur&iacute;dicas, mas n&atilde;o deve ser utilizada como refer&ecirc;ncia &uacute;nica. </span><span style="color: #e03e2d;">A consulta aos documentos oficiais e fontes prim&aacute;rias ainda &eacute; indispens&aacute;vel para garantir a precis&atilde;o das informa&ccedil;&otilde;es jur&iacute;dicas</span>.</span></p></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Amontada</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Dona Maria Belo, nº 1311, Centro</span>
+                  <br>
+                  CEP: <span class="postal-code">62540-000</span>
+                  |
+                  Telefone: <span>(88) 3636-1177</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="https://www.camaraamontada.ce.gov.br/" class="url">Site</a> |
+                  <a href="mailto:cmamontada@gmail.com" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+    
+
+    
+  </body>
+</html>

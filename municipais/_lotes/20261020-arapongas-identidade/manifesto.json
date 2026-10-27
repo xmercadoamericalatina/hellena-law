@@ -1,0 +1,46 @@
+{
+  "documentos": [
+    {
+      "documento": "municipais/PR/arapongas/lei-organica/2015/lei-organica-1-2015-sapl-4841.md",
+      "sha256": "d4a63149bbfc112473aea969273ada6235a55094cd9d08b5ce06f02b125b5c4b",
+      "fonte": "https://sapl.arapongas.pr.leg.br/norma/4841",
+      "tipo_metadado": "Lei Orgânica",
+      "tipo_literal_pdf": "Emenda à Lei Orgânica",
+      "data_metadado": "2015-05-29",
+      "data_fecho_literal_pdf": "2015-06-30",
+      "estado": "Retido para resolução da identidade; não tratar comoLOcompleta nem corrigir data/norma por inferência.",
+      "provas": [
+        {
+          "arquivo": "municipais/_fonte/organicas-sapl/sapl.arapongas.pr.leg.br/4841.bin",
+          "sha256": "c725a6c1e0c8c3caef1b2cfc1dbc82dc4f77c9dcce0d834a3f31b41c925243ae"
+        },
+        {
+          "arquivo": "municipais/_referencias/auditorias/tachados-58los-20261020/arapongas-4841-1.png",
+          "sha256": "b7b4da330558b9c3f8e1d294162a485588853bd29e1fa71fa3a2220a4d962574"
+        }
+      ]
+    },
+    {
+      "documento": "municipais/PR/arapongas/lei-organica/2016/lei-organica-2-2016-sapl-4842.md",
+      "sha256": "04a6c6c67d5f5fb8289f704dde728147359c9cef50724fba21ec77eeaa4a7b5e",
+      "fonte": "https://sapl.arapongas.pr.leg.br/norma/4842",
+      "tipo_metadado": "Lei Orgânica",
+      "tipo_literal_pdf": "Emenda à Lei Orgânica",
+      "data_metadado": "2016-02-03",
+      "data_fecho_literal_pdf": "2016-03-01",
+      "estado": "Retido para resolução da identidade; não tratar comoLOcompleta nem corrigir data/norma por inferência.",
+      "provas": [
+        {
+          "arquivo": "municipais/_fonte/organicas-sapl/sapl.arapongas.pr.leg.br/4842.bin",
+          "sha256": "39c536f6f192b09f0bde3c3a476b26c2552c746b50fe1585e5104d2fcb62c789"
+        },
+        {
+          "arquivo": "municipais/_referencias/auditorias/tachados-58los-20261020/arapongas-4842-1.png",
+          "sha256": "5732f5220ae33ccd43a2fbd30fa8315590c2a6dd3a430edfb388372f2b4c8410"
+        }
+      ]
+    }
+  ],
+  "revisao": "Capa, corpo e fecho vistos integralmente em2026-10-20. Não alterou originais publicados.",
+  "limite": "A divergência entre API e anexo é do fornecedor oficial; requer outro documento oficial para confirmar a identidade exata."
+}

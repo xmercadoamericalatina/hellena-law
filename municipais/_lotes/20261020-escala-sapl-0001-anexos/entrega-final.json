@@ -1,0 +1,32 @@
+{
+  "aprovados": 72,
+  "retidos": 13,
+  "hosts": 3,
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0001-anexos/aprovados.paths.txt",
+      "sha256": "2f6e9e71db189944ecb8693abe698be212b375c73c6387369f12f0ec64073770"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0001-anexos/host-sapl.campestre.mg.leg.br.json",
+      "sha256": "359a82d22da94fe9deb6842ced5ae95f626ad61b79fe38a42b888b53a1e58b52"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0001-anexos/host-sapl.cmm.am.gov.br.json",
+      "sha256": "dde5f74bfcfc2f8d63a80c772a397eeb7b485963abbb0b1f7d2b8a8699cf54a3"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0001-anexos/host-sapl.vilanovadosmartirios.ma.leg.br.json",
+      "sha256": "57cfcdaa33e1f389c0734c0becc288f48033f9fe23c69e864a29c3d1789d8c18"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0001-anexos/overlay.json",
+      "sha256": "1e9f5ef9ffbe3ca35fdf642227d535693cb3890c644f877b3a102d6f4f77bd2d"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0001-anexos/retidos.paths.txt",
+      "sha256": "95c0012992c82b00fb3be9e139e666d9f0617f983bded571fd164db5d627e45f"
+    }
+  ],
+  "script_sha256": "9ade983595c7cd4e7a3ec52b15ab460dcf75ec853dd2b309870645458d75f362"
+}

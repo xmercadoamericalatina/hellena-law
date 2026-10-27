@@ -1,0 +1,27 @@
+{
+  "verificado_em": "2026-10-20T22:03:44.267742",
+  "listas_substituidas": [
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0001/candidatos.paths.txt",
+      "sha256": "007ef3d7cdebf79ba320441f3fe106e36e8887bebc93ede1a07b4ad04a812e47"
+    }
+  ],
+  "aprovados": 85,
+  "retidos": 915,
+  "criterio": "Confronto integral de tokens fonte/Markdown; somente margens repetidas com coordenadas e fólios sequenciais comprovados podem ser descontados; nenhuma norma é recortada.",
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0001-integral/aprovados.paths.txt",
+      "sha256": "27cb410da3cf93a50159448888a61ce7df5f22b28b9ffa8c79bfbf3c984130e8"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0001-integral/resultados.jsonl",
+      "sha256": "d2b7cc5d0e3c96329496c94af104ecc8a9263ee4a6ca660269d4ecee59a20379"
+    },
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0001-integral/retidos.paths.txt",
+      "sha256": "9075f116c76d9adfa9bbfa69397dfe723f1c0f1d1a138f14dbcbade381300c3c"
+    }
+  ],
+  "script_sha256": "24a7d26e9ecc4de23a2b2ee01051c6023e7ec4ed3e9345fd0da63640f5f2adad"
+}

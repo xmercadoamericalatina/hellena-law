@@ -1,0 +1,1387 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Fortaleza</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Fortaleza",
+      "url" : "http://sapl.fortaleza.ce.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          21/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/logo_casa.png"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Fortaleza
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/3201?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/2892/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei Ordinária nº 7.957, de 30 de setembro de 1996
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei Ordinária</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>7957</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>1996</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>30 de Setembro de 1996</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>INSTITUI O CONSELHO MUNICIPAL DE PROFISSIONALIZAÇÃO, DE GERAÇÃO DE EMPREGO E RENDA E DE DIFUSÃO TECNOLÓGICA- CONGER.</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/2892/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt83976" ><div class="dtxt" id="d83976" pks="" pk="83976"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt83977" ><a class="dpt-link" name="83977" title="83977"></a><div class="dtxt" id="d83977" pks="" pk="83977">Institui o Conselho Municipal de Profissionalização, de Geração de Emprego e Renda e de Difusão Tecnológica - CONGER.</div></div><div class="dn" id="dn83977" pk="83977"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt83978" ><a class="dpt-link" name="83978" title="83978"></a><div class="dtxt" id="d83978" pks="" pk="83978">A CÂMARA MUNICIPAL DE FORTALEZA DECRETA E EU SANCIONO A SEGUINTE LEI:</div></div><div class="dn" id="dn83978" pk="83978"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt83979" ><div class="dtxt" id="d83979" pks="" pk="83979"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt83980" ><div class="dtxt" id="d83980" pks="" pk="83980"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt83981" ><a class="dpt-link" name="83981">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d83981" pks="" pk="83981">Fica criado o Conselho Municipal de Profissionalização, de Geração de Emprego e Renda e de Difusão Tecnológica - CONGER, órgão consultivo, competindo-lhe:</div></div><div class="dn" id="dn83981" pk="83981"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt83982" ><a class="dpt-link" name="83982" title="83982">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d83982" pks="" pk="83982">Sugerir as diretrizes básicas para a política municipal de profissionalização, e de geração de empregos e renda e de difusão tecnológica em Fortaleza.</div></div><div class="dn" id="dn83982" pk="83982"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt83983" ><a class="dpt-link" name="83983" title="83983">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d83983" pks="" pk="83983">Planejar e articular providências no sentido de compatibilizar as iniciativas adotadas, no âmbito do Município de Fortaleza, voltadas à profissionalização, a geração de emprego e renda e difusão tecnológica, busca integrar, operacionalmente, ações de organizações governamentais e não governamentais;</div></div><div class="dn" id="dn83983" pk="83983"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt83984" ><a class="dpt-link" name="83984" title="83984">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d83984" pks="" pk="83984">Acompanhar o desempenho das ações direcionadas à profissionalização e a geração de emprego e renda desenvolvidas no âmbito do Poder Público Municipal, especialmente no que se refere ao Programa Municipal de Profissionalização e de Geração de Emprego e Renda (PROGER), oferecendo sugestões objetivando a maximização de resultados;</div></div><div class="dn" id="dn83984" pk="83984"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt83985" ><a class="dpt-link" name="83985" title="83985">IV</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d83985" pks="" pk="83985">Acompanhar as ações desenvolvidas pela Fundação Municipal de Profissionalização, de Geração de Emprego e Renda e de Difusão Tecnológica, entidade criada por lei específica, oferecendo sugestões para a otimização do desempenho operacional dessa entidades;</div></div><div class="dn" id="dn83985" pk="83985"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt83986" ><a class="dpt-link" name="83986" title="83986">V</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d83986" pks="" pk="83986">Aprovar os Planos anuais de trabalho da Fundação;</div></div><div class="dn" id="dn83986" pk="83986"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt83987" ><a class="dpt-link" name="83987" title="83987">VI</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d83987" pks="" pk="83987">Executar outras atividades correlatas a serem definidas pelo regulamento interno.</div></div><div class="dn" id="dn83987" pk="83987"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt83988" ><div class="dtxt" id="d83988" pks="" pk="83988"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt83989" ><a class="dpt-link" name="83989">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d83989" pks="" pk="83989">São órgãos integrantes do Conselho Municipal de Profissionalização, de Geração de Emprego e Renda e de Difusão Tecnológica:</div></div><div class="dn" id="dn83989" pk="83989"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt83990" ><a class="dpt-link" name="83990" title="83990">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d83990" pks="" pk="83990">Colegiado;</div></div><div class="dn" id="dn83990" pk="83990"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt83991" ><a class="dpt-link" name="83991" title="83991">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d83991" pks="" pk="83991">Secretaria Executiva.</div></div><div class="dn" id="dn83991" pk="83991"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt83992" ><div class="dtxt" id="d83992" pks="" pk="83992"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt83993" ><a class="dpt-link" name="83993">Art. 3º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d83993" pks="" pk="83993">O Colegiado será constituída por Membros Natos e Convidados.</div></div><div class="dn" id="dn83993" pk="83993"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt83994" ><a class="dpt-link" name="83994" title="83994">§ 1º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d83994" pks="" pk="83994">Serão Membros Natos do Colegiado:</div></div><div class="dn" id="dn83994" pk="83994"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt83995" ><a class="dpt-link" name="83995" title="83995">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d83995" pks="" pk="83995">Presidente da Fundação Municipal de Profissionalização, de Geração de Emprego e Renda e de Difusão Tecnológica, que será seu Coordenador;</div></div><div class="dn" id="dn83995" pk="83995"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt83996" ><a class="dpt-link" name="83996" title="83996">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d83996" pks="" pk="83996">Representante do Instituto de Planejamento do Município (IPLAM);</div></div><div class="dn" id="dn83996" pk="83996"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt83997" ><a class="dpt-link" name="83997" title="83997">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d83997" pks="" pk="83997">Representante da Secretaria do Trabalho e da Ação Social do Município (STAS);</div></div><div class="dn" id="dn83997" pk="83997"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt83998" ><a class="dpt-link" name="83998" title="83998">§ 2º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d83998" pks="" pk="83998">Como Membros Convidados poderão integrar o Colegiado:</div></div><div class="dn" id="dn83998" pk="83998"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt83999" ><a class="dpt-link" name="83999" title="83999">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d83999" pks="" pk="83999">Representante da Câmara de Vereadores.</div></div><div class="dn" id="dn83999" pk="83999"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt84000" ><a class="dpt-link" name="84000" title="84000">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d84000" pks="" pk="84000">Representante das classes empresariais de Fortaleza, indicado pela Federação das Indústrias do Estado do Ceará (FIEC);</div></div><div class="dn" id="dn84000" pk="84000"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt84001" ><a class="dpt-link" name="84001" title="84001">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d84001" pks="" pk="84001">Representante do Banco do Nordeste do Brasil S/A;</div></div><div class="dn" id="dn84001" pk="84001"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt84002" ><a class="dpt-link" name="84002" title="84002">IV</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d84002" pks="" pk="84002">Representante da Universidade Federal do Ceará (UFC);</div></div><div class="dn" id="dn84002" pk="84002"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt84003" ><a class="dpt-link" name="84003" title="84003">V</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d84003" pks="" pk="84003">Representante da Universidade Estadual do Ceará (UECE);</div></div><div class="dn" id="dn84003" pk="84003"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt84004" ><a class="dpt-link" name="84004" title="84004">VI</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d84004" pks="" pk="84004">Representante da Escola Técnica Federal do Ceará (ETFCE);</div></div><div class="dn" id="dn84004" pk="84004"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt84005" ><a class="dpt-link" name="84005" title="84005">VII</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d84005" pks="" pk="84005">Representante do Sistema Nacional de Emprego (SINE/CE);</div></div><div class="dn" id="dn84005" pk="84005"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt84006" ><a class="dpt-link" name="84006" title="84006">VIII</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d84006" pks="" pk="84006">Representante do Serviço Nacional de Aprendizagem Industrial (SENAI);</div></div><div class="dn" id="dn84006" pk="84006"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt84007" ><a class="dpt-link" name="84007" title="84007">IX</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d84007" pks="" pk="84007">Representante do Serviço Nacional de Aprendizagem Comercial (SENAC);</div></div><div class="dn" id="dn84007" pk="84007"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt84008" ><div class="dtxt" id="d84008" pks="" pk="84008"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt84009" ><a class="dpt-link" name="84009">Art. 4º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d84009" pks="" pk="84009">A Secretaria Executiva do Conselho ficará a cargo da Fundação Municipal de profissionalização de Geração de Emprego e Renda e de Difusão Tecnológica, a quem caberá proporcionar todo apoio logístico necessário ao desenvolvimento das funções do Conselho.</div></div><div class="dn" id="dn84009" pk="84009"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt84010" ><div class="dtxt" id="d84010" pks="" pk="84010"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt84011" ><a class="dpt-link" name="84011">Art. 5º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d84011" pks="" pk="84011">A exceção do Presidente da Fundação Municipal de Profissionalização, de Geração de Emprego e Renda e de Difusão Tecnológica, os órgãos e entidades indicarão seus representantes, titulares e suplentes, para o Colegiado, os quais serão nomeados pelo Chefe do Poder Executivo, para um mandato de dois anos, podendo se reduzidos por apenas um período consecutivo.</div></div><div class="dn" id="dn84011" pk="84011"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt84012" ><div class="dtxt" id="d84012" pks="" pk="84012"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt84013" ><a class="dpt-link" name="84013">Art. 6º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d84013" pks="" pk="84013">As atribuições do Colegiado serão definidas pelo Regimento Interno.</div></div><div class="dn" id="dn84013" pk="84013"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt84014" ><div class="dtxt" id="d84014" pks="" pk="84014"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt84015" ><a class="dpt-link" name="84015">Art. 7º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d84015" pks="" pk="84015">A participação no Conselho Municipal de Profissionalização, de Geração de Emprego e Renda e de Difusão Tecnológica não será remunerada, sendo considerada serviço de natureza relevante prestado ao Município de Fortaleza.</div></div><div class="dn" id="dn84015" pk="84015"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt84016" ><div class="dtxt" id="d84016" pks="" pk="84016"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt84017" ><a class="dpt-link" name="84017">Art. 8º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d84017" pks="" pk="84017">O Regime Interno do Conselho Municipal de Profissionalização, de Geração de Emprego e Renda e de Difusão Tecnológica será elaborado pelo Colegiado, no prazo máximo de 120 (cento e vinte) dias após sua instalação e sancionado pelo Executivo Municipal através de Decreto.</div></div><div class="dn" id="dn84017" pk="84017"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt84018" ><div class="dtxt" id="d84018" pks="" pk="84018"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt84019" ><a class="dpt-link" name="84019">Art. 9º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d84019" pks="" pk="84019">A Fundação Municipal de Profissionalização, de Geração de Empresa e Renda e de Difusão Tecnológica adotará todas as medidas necessárias à implantação do Conselho e lhe prestará o apoio logístico para seu funcionamento.</div></div><div class="dn" id="dn84019" pk="84019"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt84020" ><div class="dtxt" id="d84020" pks="" pk="84020"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt84021" ><a class="dpt-link" name="84021">Art. 10.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d84021" pks="" pk="84021">Os Órgãos e Entidades da Administração Municipal deverão, quando solicitados pelo Conselho, prestar informações e fornecer dados ou estudos pertinentes às suas áreas respectivas de atuação.</div></div><div class="dn" id="dn84021" pk="84021"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt84022" ><div class="dtxt" id="d84022" pks="" pk="84022"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt84023" ><a class="dpt-link" name="84023">Art. 11.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d84023" pks="" pk="84023">Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.</div></div><div class="dn" id="dn84023" pk="84023"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt84024" ><div class="dtxt" id="d84024" pks="" pk="84024"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt84025" ><a class="dpt-link" name="84025" title="84025"></a><div class="dtxt" id="d84025" pks="" pk="84025"><h3 style="text-align: center;"><strong>Palácio da Cidade, em 30 de&nbsp;setembro&nbsp;de 1996.<br><br><br></strong>ANTONIO ELBANO CAMBRAIA<br>PREFEITO&nbsp;DE FORTALEZA</h3></div></div><div class="dn" id="dn84025" pk="84025"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div>
+
+
+</div>
+
+  <div class="dont-break-out"></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Fortaleza</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Dr. Thompson Bulcão, 830</span>
+                  <br>
+                  CEP: <span class="postal-code">60810-460</span>
+                  |
+                  Telefone: <span>(85) 3444-8300</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="http://www.cmfor.ce.gov.br" class="url">Site</a> |
+                  <a href="mailto:cogel.cmfor@gmail.com.br" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+    
+
+    
+  </body>
+</html>

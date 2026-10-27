@@ -1,0 +1,30 @@
+{
+  "criterio": "Detecta possíveis tachados vetoriais em PDFs para revisão visual.\n\nLinhas horizontais que cruzam o miolo de três ou mais caracteres e anotações\nStrikeOut são suspeitas. Não remove texto nem decide vigência jurídica.\n",
+  "documentos": [
+    {
+      "pdf": "municipais/_fonte/organicas-sapl/sapl.campestre.mg.leg.br/559.bin",
+      "sha256_fonte": "0722f72924a6472ad4ed0e474447e9fbc3d48208f6622ee55bcdeb43f700ad7c",
+      "paginas": [],
+      "total_paginas": 1
+    },
+    {
+      "pdf": "municipais/_fonte/organicas-sapl/sapl.campestre.mg.leg.br/1087.bin",
+      "sha256_fonte": "3d27fdea49a35f36e690887c058fc7e3a48868af5c6aa0fb6fbd511a776b7196",
+      "paginas": [],
+      "total_paginas": 1
+    },
+    {
+      "pdf": "municipais/_fonte/organicas-sapl/sapl.campestre.mg.leg.br/1679.bin",
+      "sha256_fonte": "dc1559abea0925411594cf996319a55a1112e91dcfdd89adc8cae91d4685f335",
+      "paginas": [],
+      "total_paginas": 1
+    },
+    {
+      "pdf": "municipais/_fonte/organicas-sapl/sapl.campestre.mg.leg.br/1680.bin",
+      "sha256_fonte": "02e132b839cd096ca665a45944d0e4d084a00128e53b53697dc25974f06b5ee9",
+      "paginas": [],
+      "total_paginas": 1
+    }
+  ],
+  "script_sha256": "53ab933e3efe0d4818fa68939516226572950d3a96c292560a01043fd9a0410a"
+}

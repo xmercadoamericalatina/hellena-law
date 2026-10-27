@@ -1,0 +1,1460 @@
+{
+  "criterio": "Sinaliza atos alheios/identidade divergente em qualquer coluna do PDF nativo.\n\nSó produz suspeitos. Uma captura fiel de página inteira não prova granularidade.\nEpígrafes/avisos/datas ambíguos exigem revisão; ausência não certifica vigência.\n",
+  "script_sha256": "8795780d67c55f3c3bd6cc4772ac58932ae8852c076b62f7cd66c46aadb66422",
+  "listas": [
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0001-integral/aprovados.paths.txt",
+      "sha256": "27cb410da3cf93a50159448888a61ce7df5f22b28b9ffa8c79bfbf3c984130e8"
+    }
+  ],
+  "resultados": [
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6881-2026-sapl-9789.md",
+      "sha256": "09978c4eb50500df3100de623788dd846ccdfdf447851a0a3c451b76886a8a50",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 7338,
+          "trecho": "            Ano XXVII, Edição 6394 - R$ 1,00\n\n                                                           Poder Executivo\n              LEI N. 3.701, DE 14 DE SETEMBRO DE 2026                                          V – as metas de qualidade, regularidade, segurança,\n                                                                                 acessibilidade e eficiência estabelecidas pelo Poder Público;\n      "
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/b21994525fc046fc7aa0ab0c7eaaafdf91965c65fe98c02a560db0ecaac776b5.json.gz",
+        "sha256": "ce5d205759a29012c6a8e3bccf38f8ce5914ad9fdd1ee38bb480f425ba2dea5f",
+        "sha256_layout": "7009dc072a6248e47a4d921c3c9b882e63a244f7ebbc35432741e85dbca5547b",
+        "sha256_bbox": "75670ccdf5190ede784c7a28c5d97f593469907693bf6f685a676f5ae8b7f49d"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6888-2026-sapl-9878.md",
+      "sha256": "cda9307abd22d9eff8450c5fe4bb2edf5846c4aee2df4ff0c6b551c18ce867b7",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 4010,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6404,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 10021,
+          "trecho": "                   Manaus, sexta-feira, 25 de setembro de 2026\n\n             DECRETO Nº 6.888, DE 25 DE SETEMBRO DE 2026                                                       DECRETO Nº 6.889, DE 25 DE SETEMBRO DE 2026\n\n                                  ALTERA o Decreto nº 2.504, de 07 de agosto                                                    ALTERA o Decreto nº 1.382, de 23 de novembro\n                                  de 2013, especificamente quanto ao"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/fb8e7aac8b3f4e9a7e78fc1c5aff74122f919301702a3c2e9fc5f0f295cc567e.json.gz",
+        "sha256": "b52610309af2e58c6b88d0292bf4e2047a6c6c6dca68978959bfe52ef445ab26",
+        "sha256_layout": "03c16f0bbbd95ad35a9e6d14dfe77659aaab36a854ecf28083a4b2875fc0b5e4",
+        "sha256_bbox": "ebbeaf0acf148dabe0ccbd6d698a2805836a8694d35ce7db89a0b536f0469c58"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6889-2026-sapl-9879.md",
+      "sha256": "c3b0611e2ce2267807d2206589a4cce90b9b2e81c4509e0c875c84ccaa8bf601",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 4097,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6491,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 10050,
+          "trecho": "cipal de Educação;\n\f                                                         Manaus, sexta-feira, 25 de setembro de 2026\n\n             DECRETO Nº 6.888, DE 25 DE SETEMBRO DE 2026                                                       DECRETO Nº 6.889, DE 25 DE SETEMBRO DE 2026\n\n                                  ALTERA o Decreto nº 2.504, de 07 de agosto                                                    ALTERA o Decret"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/8e9ad282c96da78fcce5253ec7fe01f53188d8ba4901139447edd407944118d5.json.gz",
+        "sha256": "85ec81d96e3e951c4ca421131b5469d2c31ed4918c325f5fa732e2a52dc37e16",
+        "sha256_layout": "288bd9ef06bc1af84a0ee427cbce814afb364f4f078e117b7c4e434ba89ba3ec",
+        "sha256_bbox": "1717c7993e217aa3bfa1f8f67b9e24fcec0c347cc4eb00edb475422ae5324e03"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6890-2026-sapl-9880.md",
+      "sha256": "698528785561ba08d0fc0a95bafb7517ba90ce1ce7381b0604f0c15ba37bb56c",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 3947,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6341,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9957,
+          "trecho": "                   Manaus, sexta-feira, 25 de setembro de 2026\n\n             DECRETO Nº 6.890, DE 25 DE SETEMBRO DE 2026                                                  DECRETO Nº 6.891, DE 25 DE SETEMBRO DE 2026\n\n                                 ALTERA o Decreto nº 0059, de 23 de março de                                                   ALTERA o Decreto nº 1.202, de 31 de agosto de\n                                 2009,    especificamente      quant"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/ef4063ab22a53fe35e11803e12164c02b96a3e503849a0fed0967be5ad54f596.json.gz",
+        "sha256": "b59096c9ccaec6e5e0c91674a93fcbe65affa4c5c5121491f5e7bdb6164ec464",
+        "sha256_layout": "d118c186a4845974ad86ae61e0f34e1efb7d7f32cadbe7653a98f928755bd42b",
+        "sha256_bbox": "e699ada42a9d0c6e1cecf10005575e2aafcd463347f5acf6ced31f98bae8500c"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6891-2026-sapl-9881.md",
+      "sha256": "3e34257dffdf854a506651c68e6a22a464d02c5759b31e9209ede438be450850",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 4019,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6413,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9971,
+          "trecho": "icipal de Educação;\n\f                                                        Manaus, sexta-feira, 25 de setembro de 2026\n\n             DECRETO Nº 6.890, DE 25 DE SETEMBRO DE 2026                                                  DECRETO Nº 6.891, DE 25 DE SETEMBRO DE 2026\n\n                                 ALTERA o Decreto nº 0059, de 23 de março de                                                   ALTERA o Decreto nº 1"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/c69807bea31f6ab33d47125008b6b562eae8d6f819e899cd91895fc311b8345a.json.gz",
+        "sha256": "6bf3e3bbfd82687fcc7add6038e965ceb84128b681b621b3c008ff6d3392a480",
+        "sha256_layout": "a431e5718db80f1269d3dc4cb968bce859d1ee55005b7124552262db45b39dc5",
+        "sha256_bbox": "5c600916893dab49c166c8923705d6e67f5b48a9f3cd06d79458be2c76789769"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6893-2026-sapl-9883.md",
+      "sha256": "56b4d055b5bfec4f34b08d1b648f29f76a000476e366a4d282d78296a56d4b61",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 3581,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 5975,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9537,
+          "trecho": "al de Educação;\n\f                                                            Manaus, sexta-feira, 25 de setembro de 2026\n\n                DECRETO Nº 6.892, DE 25 DE SETEMBRO DE 2026                                                 DECRETO Nº 6.893, DE 25 DE SETEMBRO DE 2026\n\n                                   ALTERA o Decreto nº 0896, de 24 de maio de                                                   ALTERA o Decreto nº 0"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/d5958b3cec8a5e46aa61374fb50efebe9ae214531cf45c01d41226e022dedc0d.json.gz",
+        "sha256": "e575087081319fa39ebc3ed7977316153cee306113c2a825db15803e1d26b81d",
+        "sha256_layout": "b08a7f76e831a1f676d824d555629e62c571360f1aa2498ab6a7a05ff671c773",
+        "sha256_bbox": "eab756c279a56d08ecf7fc02adbddc0dc1373c49449d7aa38095e1752f9843ed"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6896-2026-sapl-9886.md",
+      "sha256": "2d33b9f9c69266a4bc23f9cb51a911db1c8245d7331fc8f62a3a6b428a8c9580",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 3984,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6378,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9997,
+          "trecho": "                Manaus, sexta-feira, 25 de setembro de 2026\n\n                DECRETO Nº 6.896, DE 25 DE SETEMBRO DE 2026                                              DECRETO Nº 6.897, DE 25 DE SETEMBRO DE 2026\n\n                                    ALTERA o Decreto nº 0059, de 23 de março de                                              ALTERA o Decreto nº 0059, de 23 de março de\n                                    2009, especificamente quanto ao enqu"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/f62c15e0fe9df830584f1ba679f8f98d66ee93918c778d617f0570215cf9a915.json.gz",
+        "sha256": "37809f237caa6a323de5bd0179c891f98cac54d9953e5d2d38709b5515e27835",
+        "sha256_layout": "179cdcc9bd3ad9dc5c3a9e0917476b73c8d00dc0cec8e4824cba935236b71dd0",
+        "sha256_bbox": "a69cc1ac7254e5c95903e556611a6bcba02ca9c9d654b7ca1153b76014343512"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6897-2026-sapl-9887.md",
+      "sha256": "fcc94d67a30b05ffe32bae23ae01bd703a2e6d13d865413179724c35928e41f4",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 3704,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6098,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9656,
+          "trecho": "icipal de Educação;\n\f                                                        Manaus, sexta-feira, 25 de setembro de 2026\n\n                DECRETO Nº 6.896, DE 25 DE SETEMBRO DE 2026                                              DECRETO Nº 6.897, DE 25 DE SETEMBRO DE 2026\n\n                                    ALTERA o Decreto nº 0059, de 23 de março de                                              ALTERA o Decreto nº 0059, d"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/7d97979921ca58fc5faf8e58217e3b0c6ed8fc98b5f38b00fdda07b02deee42e.json.gz",
+        "sha256": "f7fdb6d1e2c67f3130c81319e76e5c0454f00cb09fda9e9493a11e5ec4106c81",
+        "sha256_layout": "665ddaf4f40eb09fdba60b20a7765a011b51e1527b181339890831cd533401ea",
+        "sha256_bbox": "e5aee2d84e2f2820e33574b06be91f012eeb39b2735cfdeac78a230f773e2faf"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6898-2026-sapl-9888.md",
+      "sha256": "611584f9d5a6783c9657dad0b3561658b4e18d303836c77848509f79d290b330",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 3699,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6093,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9705,
+          "trecho": "                   Manaus, sexta-feira, 25 de setembro de 2026\n\n             DECRETO Nº 6.898, DE 25 DE SETEMBRO DE 2026                                         DECRETO Nº 6.899, DE 25 DE SETEMBRO DE 2026\n\n                                 ALTERA o Decreto nº 0059, de 23 de março de                                         ALTERA o Decreto nº 0059, de 23 de março de\n                                 2009, especificamente quanto ao enquadramento  "
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/bc2bf5e9a1e638dff2ee471fbba608e66aa459024e821672401f1a262ad89186.json.gz",
+        "sha256": "254af5c0a667e56987e4c43de1a16895699664ae47b3cc978d451ffd83ffff6f",
+        "sha256_layout": "3bf750762fb2bae325e3ac5753b05c33a8c5da3a6c5a7ade41e5996e3dc463f4",
+        "sha256_bbox": "a88fb8d68673e14d864f203c2a27f558211e59aed68e709bfdb7717344ff0acc"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6899-2026-sapl-9889.md",
+      "sha256": "e629c4777d4fbeb57b28201bd3583bce1317758df811ba42b3eed48f5b9c1584",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 3644,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6038,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9592,
+          "trecho": " Municipal de Educação;\n\f                                                    Manaus, sexta-feira, 25 de setembro de 2026\n\n             DECRETO Nº 6.898, DE 25 DE SETEMBRO DE 2026                                         DECRETO Nº 6.899, DE 25 DE SETEMBRO DE 2026\n\n                                 ALTERA o Decreto nº 0059, de 23 de março de                                         ALTERA o Decreto nº 0059, de 23 de março"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/2b5c3734bf36c15c06578f746e758354b156f77ce931deaf906dbb1d1f7b37a9.json.gz",
+        "sha256": "0fb95f87c88edfeec1756283fd089f53e4fd1be06d428e3d7f071e22f4278e86",
+        "sha256_layout": "80933adb4002a618caec66b47ea4b961a6b5bc37f51a703c6d74e90035e7c855",
+        "sha256_bbox": "58afb7a0bd6ca828dbef2d5bf01776b3a00e4992ae44de45bae1963079f96ed2"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6900-2026-sapl-9890.md",
+      "sha256": "4a5c2ee46e0c3e93f4eba404f3eac2aa2a3933bd0794ce304209a4dde2da7aba",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 3697,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6091,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9700,
+          "trecho": "                    Manaus, sexta-feira, 25 de setembro de 2026\n\n            DECRETO Nº 6.900, DE 25 DE SETEMBRO DE 2026                                      DECRETO Nº 6.901, DE 25 DE SETEMBRO DE 2026\n\n                              ALTERA o Decreto nº 0944, de 27 de maio de                                        ALTERA o Decreto nº 0059, de 23 de março de\n                              2011, especificamente quanto ao enquadramento          "
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/a966051bafd5c690ca7c26933e58b57f5cafd457d8d2b844005a7e25b2b37fe4.json.gz",
+        "sha256": "630f6e364a74173c38db575c1259a23e9cc1fb8616d97313eba6b2a995423ca0",
+        "sha256_layout": "e3113b1a3671e889f47102873046de24d54fead77c5dfc3464c7218c72e50f71",
+        "sha256_bbox": "5c56c0b1c7734a46154f4708585a5e61122d047cd1e335f22473d08e159ac485"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6901-2026-sapl-9891.md",
+      "sha256": "276166c142b70786590b2d75cf9042e91127709049f88a4a8e19370aa735e4a7",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 3725,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6119,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9671,
+          "trecho": "io Municipal de Educação;\n\f                                                  Manaus, sexta-feira, 25 de setembro de 2026\n\n            DECRETO Nº 6.900, DE 25 DE SETEMBRO DE 2026                                      DECRETO Nº 6.901, DE 25 DE SETEMBRO DE 2026\n\n                              ALTERA o Decreto nº 0944, de 27 de maio de                                        ALTERA o Decreto nº 0059, de 23 de março de\n    "
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/debfb76db429e9824059e5d65b4e738a765625d8fb3784efd4a4270fced7360d.json.gz",
+        "sha256": "bc160de34ad57f4a1e5d3a767b1bb76a53b77215007e134a580f64b188fd9816",
+        "sha256_layout": "232a548a8f45401f362b35e2f76d93e3c0ff160f0007c5c09dd30f8af99deb77",
+        "sha256_bbox": "0808601c78ae2601db67b7b3a8c701a2a5750a088b1ea5b3c0e7c3f9511e5f03"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6902-2026-sapl-9892.md",
+      "sha256": "b7a69f42788734db3e69f37fae39684b499ff941558f3cc34160d925be9f704f",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 3718,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6112,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9720,
+          "trecho": "                    Manaus, sexta-feira, 25 de setembro de 2026\n\n            DECRETO Nº 6.902, DE 25 DE SETEMBRO DE 2026                                      DECRETO Nº 6.903, DE 25 DE SETEMBRO DE 2026\n\n                               ALTERA o Decreto nº 0059, de 23 de março de                                     ALTERA o Decreto nº 1.601, de 18 de maio de\n                               2009, especificamente quanto ao enquadramento          "
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/205cc119df2a23aaf2b4179140386d2c6cf2f9c72ccbcb5f5a349facbf1978c3.json.gz",
+        "sha256": "577bccff02554ade6531308bcb60e40b019ee005498ee3d7496fd6ee2a2bf7be",
+        "sha256_layout": "82f75045491fcdf4e58665588c459c7799f53f5769b70be77c26207f4b0155af",
+        "sha256_bbox": "f5828b6e805e08240f7e1ae624fbb73b3249ecc2cb0f37c7818c15abe985961d"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6903-2026-sapl-9893.md",
+      "sha256": "6e635e750ce5f6f877f8debedace3fb2f9f04e7e4e7014b9050c1eb2c1553ce3",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 3710,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6104,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9655,
+          "trecho": "rio Municipal de Educação;\n\f                                                 Manaus, sexta-feira, 25 de setembro de 2026\n\n            DECRETO Nº 6.902, DE 25 DE SETEMBRO DE 2026                                      DECRETO Nº 6.903, DE 25 DE SETEMBRO DE 2026\n\n                               ALTERA o Decreto nº 0059, de 23 de março de                                     ALTERA o Decreto nº 1.601, de 18 de maio de\n     "
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/d87d3ba2c319f7a2887ef1d8e41e8f4b43c91644bd077a391da648a742c8716f.json.gz",
+        "sha256": "857b86cb2be02fda004fb87670bf976408ab57b7a15343fd5ee7d9612d3a69a6",
+        "sha256_layout": "e480cfea80ada87ee3304993ab1f4f43ec5ff888295c59ce521ed4f66bb55bad",
+        "sha256_bbox": "af20251e71c0a59a16f4aab7620ea179af3aa5ecb8bd6fffe1e306833a1d7b24"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6904-2026-sapl-9894.md",
+      "sha256": "d8248512ce0c97cc40a5e1a7178987c06ec46efd8d18f4b6ccc5e3ff01cb6cf8",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 3947,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6341,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9958,
+          "trecho": "                   Manaus, sexta-feira, 25 de setembro de 2026\n\n             DECRETO Nº 6.904, DE 25 DE SETEMBRO DE 2026                                                      DECRETO Nº 6.905, DE 25 DE SETEMBRO DE 2026\n\n                                  ALTERA o Decreto nº 9.508, de 10 de março de                                                    ALTERA o Decreto nº 1.055, de 22 de junho de\n                                  2008, especificamente quanto ao "
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/20ed9f4299bc3c098d7b3c2a2b417ca7f5f62724f2414d6e9ad7b94a3e1fea14.json.gz",
+        "sha256": "908ad2e9f7c2f2348c587bc7daecdc8090468b0e9d89f1b328eac2688f35c80d",
+        "sha256_layout": "e2c6f660ef72c5784eb795457c380211433a1886bc3c030353cdfa19b548bad8",
+        "sha256_bbox": "d23d086bb1b4a887980d442863e0dfab29572485cc6a455c2f03ef5d5028bf24"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6905-2026-sapl-9895.md",
+      "sha256": "c2a0b759cb10d00db3c932eca53740d6a65751da6eb1ca70767ed09b38abef19",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 3860,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6254,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9813,
+          "trecho": "cipal de Educação;\n\f                                                         Manaus, sexta-feira, 25 de setembro de 2026\n\n             DECRETO Nº 6.904, DE 25 DE SETEMBRO DE 2026                                                      DECRETO Nº 6.905, DE 25 DE SETEMBRO DE 2026\n\n                                  ALTERA o Decreto nº 9.508, de 10 de março de                                                    ALTERA o Decre"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/c05eb1562f84aaf4fb345281b9cb3a41ad9021e570664846239440e144ac2cf3.json.gz",
+        "sha256": "afdca5b4a6e215d2923390343e5fcc6066974b027c8ddeaf067d440d28db15e6",
+        "sha256_layout": "2c33f51527a3411b814fd18d7619918ecdc96929ca28b8a8ce923c41dcacc808",
+        "sha256_bbox": "a26456a4a55b8491d97139546bfb53c74e008bf2f5275a2f7730428bf34bc5be"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6906-2026-sapl-9896.md",
+      "sha256": "922d55ab67153e01e5931c680eaaabcf6cbbecdd1af9ad75b501ba6d351499a2",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 3860,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6254,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9865,
+          "trecho": "                    Manaus, sexta-feira, 25 de setembro de 2026\n\n            DECRETO Nº 6.906, DE 25 DE SETEMBRO DE 2026                                                 DECRETO Nº 6.907, DE 25 DE SETEMBRO DE 2026\n\n                                 ALTERA o Decreto nº 1.174, de 30 de agosto de                                              ALTERA o Decreto nº 0.988, de 01 de junho de\n                                 2011, especificamente quanto ao enquadr"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/35145a0109fe248c4e6089f37d3312d443c9c1d7ffc18eab861e11e06f8e5480.json.gz",
+        "sha256": "c3b815ca87737d7a610a54c96a5f83b210318ac5e6fe489f37ec8a722d2688db",
+        "sha256_layout": "49aca4b82de94617ab3c4dafbd43d16f436337bc2d7c507a75876342e5e0bba8",
+        "sha256_bbox": "7fa2a5031c794fb0b818b14a3dee8ede618f8542bd30284b7716be4997e4e36f"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6907-2026-sapl-9897.md",
+      "sha256": "2ad8ffdecdfd9c15d1ba242c89dbca343cb7b8cce68e7efabfbe3355c53eee3f",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 4004,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6398,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9952,
+          "trecho": " Municipal de Educação;\n\f                                                    Manaus, sexta-feira, 25 de setembro de 2026\n\n            DECRETO Nº 6.906, DE 25 DE SETEMBRO DE 2026                                                 DECRETO Nº 6.907, DE 25 DE SETEMBRO DE 2026\n\n                                 ALTERA o Decreto nº 1.174, de 30 de agosto de                                              ALTERA o Decreto nº 0.988"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/28419903072658c0003f5c945308f0bc0adab1354a502dbbcd8ae3ccac07eb0a.json.gz",
+        "sha256": "2fd518a722e3adeaea9b466ed1d49a9731896ee929fab61583729c3e2aad3ba7",
+        "sha256_layout": "e83179e74fb7ee2ff4e0b698af4f26ac728bbc8c2aac44fd09f2f3471a157971",
+        "sha256_bbox": "33cb7644bd159d361b8365d7b10a32908158b14b200f3b8bdd5a873c8c0045af"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6908-2026-sapl-9898.md",
+      "sha256": "1f1f1186dd2782d9d3c5efbe79a324a6c1a4a5879fac5029dd09f6bf1f8b656a",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 3995,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6389,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 10013,
+          "trecho": "                Manaus, sexta-feira, 25 de setembro de 2026\n\n                DECRETO Nº 6.908, DE 25 DE SETEMBRO DE 2026                                                     DECRETO Nº 6.909, DE 25 DE SETEMBRO DE 2026\n\n                                  ALTERA o Decreto nº 1.816, de 03 de agosto de                                                    ALTERA o Decreto nº 0.0 59, de 23 de março de\n                                  2012, especificamente quanto a"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/7b89ba3649436ad8d4164de40222afb1183410a5048d6cd324e7b8206b15e7c3.json.gz",
+        "sha256": "732476a4e373419511cac273eba804d4e572731ffe453d213bae43d2f10bbdcf",
+        "sha256_layout": "102b8d874aa8db357eab69abf7bdd611ec913662f9e720d5c0b78524dc990c4b",
+        "sha256_bbox": "4d449979a489bf13b87cd4038ec98306916743267052eb92f67445dafbdcc0e2"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6909-2026-sapl-9899.md",
+      "sha256": "83a44ecfef7eada46bdc1f6ecdd76f80b1b9e2447b0f1f9fbb9835596c0c7f3a",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 4006,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6400,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9963,
+          "trecho": "l de Educação;\n\f                                                             Manaus, sexta-feira, 25 de setembro de 2026\n\n                DECRETO Nº 6.908, DE 25 DE SETEMBRO DE 2026                                                     DECRETO Nº 6.909, DE 25 DE SETEMBRO DE 2026\n\n                                  ALTERA o Decreto nº 1.816, de 03 de agosto de                                                    ALTERA o Decre"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/9d89bfbd43defaad0f960d5dad9a1ab6d5d944656fa6a08988ad1e80d23f7057.json.gz",
+        "sha256": "d2c141831bf633c6ad6ba19cb0d64a78e89c62603cba22d27dce47cba809d451",
+        "sha256_layout": "1a1e3e4666f738cfa4481a1fa5ae04d6586d6660987e0a19ee4cae04ebfc14ee",
+        "sha256_bbox": "853e7addc2583bb984934cb8a31f62177fefb65bbe436d451fed11948874f19f"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6910-2026-sapl-9900.md",
+      "sha256": "d9aa407a69e0fe3cfdf1055f47559f29c0e0fb02566e57905dcc29674cf963e2",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 3920,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6314,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9932,
+          "trecho": "                Manaus, sexta-feira, 25 de setembro de 2026\n\n                DECRETO Nº 6.910, DE 25 DE SETEMBRO DE 2026                                               DECRETO Nº 6.911, DE 25 DE SETEMBRO DE 2026\n                                      ALTERA o Decreto nº 1.207, de 31 de agosto de                                          ALTERA o Decreto nº 0059, de 23 de março de\n                                      2011, especificamente quanto ao enq"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/7ad1eb1012be9b47d9a0af7cc58866c9b286c49f97de1bdaff626d6494b106ea.json.gz",
+        "sha256": "4e35aef2b629fd79494afb7e0eacbe5f3d07967437a3940a8130aec3f2cb86ac",
+        "sha256_layout": "548d4b27ecafc1d559119daef3b7f80c0b1efc9de60a646cf3febda2f2580565",
+        "sha256_bbox": "dd8566d786c0ced816bd6ef3fa0bd162d61f46ce62dfd1c7e2d9b5392d959e5b"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6912-2026-sapl-9902.md",
+      "sha256": "cd21da3371771633807576a66baef1e79cad8aebc5fa9d18eec6baf4206b5c77",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 3702,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6096,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9708,
+          "trecho": "                   Manaus, sexta-feira, 25 de setembro de 2026\n\n             DECRETO Nº 6.912, DE 25 DE SETEMBRO DE 2026                                            DECRETO Nº 6.913, DE 25 DE SETEMBRO DE 2026\n\n                                 ALTERA o Decreto nº 0059, de 23 de março de                                              ALTERA o Decreto nº 0059, de 23 de março de\n                                 2009, especificamente quanto ao enquadrame"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/3321a068693fcf2ee62b84c7d0bb53ef6e9ecd70f5953f2387df76283d032776.json.gz",
+        "sha256": "ae03d38e52ea9755bfe38ecca2df7a618ee67a3e38cee81d144694610c1473bd",
+        "sha256_layout": "491dc3eb1b34421d29decfb8d94c62698f524a409eda5e09defd171c58bbee14",
+        "sha256_bbox": "aae270a4f142c01a592c76f58c71a62907d5f5e4cd29ca9437dbe67441d46343"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6913-2026-sapl-9903.md",
+      "sha256": "0cdfef31c20c57d5f45c38f1505b92a70650f93eb2e2f12829883f7223b037b4",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 4043,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6437,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9991,
+          "trecho": " Municipal de Educação;\n\f                                                    Manaus, sexta-feira, 25 de setembro de 2026\n\n             DECRETO Nº 6.912, DE 25 DE SETEMBRO DE 2026                                            DECRETO Nº 6.913, DE 25 DE SETEMBRO DE 2026\n\n                                 ALTERA o Decreto nº 0059, de 23 de março de                                              ALTERA o Decreto nº 0059, de 23 "
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/f282d54d0f475dd288772a9cdd02145f9c3535bfc5d0b7f3a35f369b2f08f5a7.json.gz",
+        "sha256": "ce57e740d9722484bd67867b540ef8ec0c70be9678551923e029ecdeb6f04437",
+        "sha256_layout": "a71210f0410c26fd37c5221152e4c7103d143e6802022f19c6ff814e4fb9281e",
+        "sha256_bbox": "dd894b952d0428fe618834b8b465e10b83b6bfcbc24ef605fbe4146fc0ac47c1"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6914-2026-sapl-9904.md",
+      "sha256": "6c844da09f760a176b2b0dd061bce29bdb29f8094bc42efca0efef8ee1205487",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 3959,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6353,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9972,
+          "trecho": "                Manaus, sexta-feira, 25 de setembro de 2026\n\n                DECRETO Nº 6.914, DE 25 DE SETEMBRO DE 2026                                          DECRETO Nº 6.915, DE 25 DE SETEMBRO DE 2026\n\n                                 ALTERA o Decreto nº 0059, de 23 de março de                                          ALTERA o Decreto nº 0059, de 23 de março de\n                                 2009, especificamente quanto ao enquadramento "
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/7454388cd5440806940273789510ac37906af80a1015700bbf8fb33e496e7244.json.gz",
+        "sha256": "afdce1b04b663ff406f863a5631be792ccb7e3a92b49e026f666be4acf545a34",
+        "sha256_layout": "12583a158fe6582ee3519a2580dae2124d0f1436c13d2e9b7f1716ddc23ad9fa",
+        "sha256_bbox": "4261b9945004fc8d32f4803bffcf64f832e6db0882dd629005137d757db7e851"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6915-2026-sapl-9905.md",
+      "sha256": "f0b2fa167146b56f005848a2da75ab270067eef7aaf92e16f6c0fe02d3d5a978",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 4027,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6421,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 9979,
+          "trecho": "icipal de Educação;\n\f                                                        Manaus, sexta-feira, 25 de setembro de 2026\n\n                DECRETO Nº 6.914, DE 25 DE SETEMBRO DE 2026                                          DECRETO Nº 6.915, DE 25 DE SETEMBRO DE 2026\n\n                                 ALTERA o Decreto nº 0059, de 23 de março de                                          ALTERA o Decreto nº 0059, de 23 de mar"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/44ff8519c178edad9092d0ea5f996b3a1ef6554a4906526c28d2edf57eacb43d.json.gz",
+        "sha256": "90e7a382dabdd4ea1c3f810931b8d1b7e945586bc7a7aacd0f5939c70768d0fa",
+        "sha256_layout": "2fad047a227b571e2078aad5709e82d710d3c2fe54f22dc69bf41334d459bf06",
+        "sha256_bbox": "8095ec959276113543f705ca39ae703d23ff9fb03d2c63c31154720433fac9b9"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6916-2026-sapl-9906.md",
+      "sha256": "8739dbeaf1961c0a9d6e18731dcd54fd9e43889d6b785ec9827e1fb325532d3d",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 4061,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6455,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 10077,
+          "trecho": "                Manaus, sexta-feira, 25 de setembro de 2026\n\n                DECRETO Nº 6.916, DE 25 DE SETEMBRO DE 2026                                             DECRETO Nº 6.917, DE 25 DE SETEMBRO DE 2026\n\n                                  ALTERA o Decreto nº 0059, de 23 de março de                                            ALTERA o Decreto nº 0059, de 23 de março de\n                                  2009, especificamente quanto ao enquadrame"
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/816c09a221309307c0db3e226d3ddc77f87ecfdab6e204c8a6af6f62cad7c119.json.gz",
+        "sha256": "57e7b6747ee156b89fa1b7322c4cf97875af56940c98f2cfd3ae2809a2492385",
+        "sha256_layout": "d75a99f9b0d378ee4dd88a6c4953851b26d53027d92e24a6078ea672252d2460",
+        "sha256_bbox": "d8d079b1070764721e342ce581ee764ff9c14cbce3d62f8371108eef706e94fc"
+      }
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6917-2026-sapl-9907.md",
+      "sha256": "d7e66833e3304adb516c636f7e4c1f105e63bb0221ce1daf924c20285d26201d",
+      "alertas": [
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 4243,
+          "trecho": "              Ano XXVII, Edição 6403 - R$ 1,00\n\n                                        Poder Executivo – Edição Extra I\n              DECRETO Nº 6.883, DE 25 DE SETEMBRO DE 2026                                           Manaus, 25 de setembro de 2026.\n\n                              ALTERA o Decreto nº 9.313, de 16 de outubro\n                              de 2007, especificamente quanto ao\n                            "
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 6637,
+          "trecho": "  M\n              CONSIDERANDO a manifestação do Subsecretário de\nAdministração e Finanças da SEMED com a correspondente\n                                                                                          DECRETO Nº 6.884, DE 25 DE SETEMBRO DE 2026\n\n                                                                                                           ALTERA o Decreto nº 0059, de 23 de março de\n\n       E\nplanilha de impacto na folha de pagamento, ratificada pelo Subsecretário de\nOrça"
+        },
+        {
+          "regra": "epigrafe_divergente_possivel",
+          "offset": 10198,
+          "trecho": "pal de Educação;\n\f                                                           Manaus, sexta-feira, 25 de setembro de 2026\n\n                DECRETO Nº 6.916, DE 25 DE SETEMBRO DE 2026                                             DECRETO Nº 6.917, DE 25 DE SETEMBRO DE 2026\n\n                                  ALTERA o Decreto nº 0059, de 23 de março de                                            ALTERA o Decreto nº 0059, de 23 "
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/3c5ec1a94b84eb0d9175692fcc8f3f7a61bae0c80924561ade98bbb6906046f9.json.gz",
+        "sha256": "8550c22a0303a3ac4f44c8fe6445a15092992d7a8cde72ef31e61e7c3d092460",
+        "sha256_layout": "628a5485f68c5d471f2c9613c8b6aa63b5513f180cd6f21713910199a2f42f22",
+        "sha256_bbox": "e1cb4b8f88935f8d59e9867e5270e0d5dc936cbaa72983fe7415e28a221f5772"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2024/leis-ordinarias-313-2024-sapl-247.md",
+      "sha256": "092fbc377bc99ee3316c4a7b9f0137abcbe4012443b1af1059f2d4f29d324138",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/ed5002efbe67c70a270f2d526b7f8bafd1d245e20da6150a1aadb5298c044ca1.json.gz",
+        "sha256": "1ede42b97104725686b86a1d8cb93179ae2e2691365d4ef8dcf08b04ca74d0d3",
+        "sha256_layout": "964a3c187052fd7f60d3581fbaa0a6c88892d378a612d136a96dd2103cb96b04",
+        "sha256_bbox": "a02dbd5307e771770f947181a975dafe89297832101c40c247fe67d7742d5079"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2015/leis-ordinarias-175-2015-sapl-132.md",
+      "sha256": "290e72696538b59c6a30eeeb37f25c4a0cbe8362f71b7d6ee1407a406605669c",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/5c24c67fdceeb0b2f546b05af46e22d7716937cd77c4d656b1ece94c01960972.json.gz",
+        "sha256": "f447d5966e91eaae19d2366fe2f5e28b78b214e43b7217c4341d7cf579a537e3",
+        "sha256_layout": "9edd96cccf39932288ab940f6ba0aa84aec5fcb4d643dbb1e66ce68fe7ccd378",
+        "sha256_bbox": "35586a28097aa6392a1f107744a7d2a6926b60cb888080f3fb08f390845ffaf7"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2008/leis-ordinarias-117-2008-sapl-85.md",
+      "sha256": "54b1e596bac05203179dfec303c7b5eefae23b24048a3547595ee413f62d26c2",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/41dd08f954e3331a3773c24b4b661bef269865345c4429afaf8f5824c909b76a.json.gz",
+        "sha256": "909360389525ae9076f8e817a7a80c88ede1d5431abd24dbb89e8b8bebd075d4",
+        "sha256_layout": "2701d38412c2e75d1ab5ac309d70668318e33609c27e39f75dba13b3caeed49c",
+        "sha256_bbox": "666919a25abf5ec753a299c20457d5d49ded0360cce4043bbc914453e641882c"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2001/leis-ordinarias-54-2001-sapl-39.md",
+      "sha256": "5bb044b0aea554359146f1cbe43c32a362adb81c6a2b0ed60334ed2dbf89f7c2",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/dca122e9c3b3428249d50e4c3573886ed26f605a282969d44b73ce32312c7851.json.gz",
+        "sha256": "136a3f7158b9882ce142521f4d0ea46b98051e16d618525c27a9ea219aaba4b4",
+        "sha256_layout": "a489194d612648e33ace9e1cacfe135172c642b20ec592c7a95238173f62cfad",
+        "sha256_bbox": "7ed73ef0e2e4f4bb1b7a6b3ef334eeb365ef47a22549341d5a429538e25776f7"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2001/leis-ordinarias-55-2001-sapl-40.md",
+      "sha256": "11fc68506b0a9dcbaa0d8224087a0161c5eaf6154062fa466ef451b1d0e95580",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/9abcde8307a958e4cc0648ad70514950ff763cc49c4b86bb48c9f238292ea2a7.json.gz",
+        "sha256": "39ad92d7b5a796deded6ccf4e996d94051f7492dbd13687ffde8ab7c2d07db31",
+        "sha256_layout": "055b11d9465122dc515a7c7028cd97f6e0298b78c6c2fb8040c04953bf7cbdcf",
+        "sha256_bbox": "c40140dd276e9c0bacea15c5d784a6b1fc633f8b08eab172472e8a0442dfa90c"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2006/leis-ordinarias-91-2006-sapl-68.md",
+      "sha256": "97b4696f7ab5230a43076cf788949ded5698ad87bb556be4c829b3f7565d4989",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/2b26905c9b50e49e03fdec2de7d3446e25a83dee04eb9367da4687b3c02d6f75.json.gz",
+        "sha256": "4c0beeee30902e6363b3dc6f9c9d2d782e202985df5512efab93ee0f035d4b5b",
+        "sha256_layout": "0b1a28ec41d36b91db922c8c6a4be0d7d4b91cd6fce39eb90ebad12e0af46077",
+        "sha256_bbox": "6aa2648eb9027133aa27bc0e1d654ab70985be3c7cf3dc94a16bc1b0cb06cd03"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2006/leis-ordinarias-93-2006-sapl-70.md",
+      "sha256": "ee81802aaa9525285e84dac81027c7f47e2a82abe4575590696f5c92ef5b2a60",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/5102cdbe9347eab6dc7a2953344189bf25cbccaf63eee1c066b1369ec5e4131c.json.gz",
+        "sha256": "6ada8ccd39549db2a29d37c152821e560b92af6b2d00289fdcd5e00342038a8f",
+        "sha256_layout": "10af845f0c02ce03a487e552ff9ce76e11590e4693d4ca61977fca6d17de6d99",
+        "sha256_bbox": "4da08261d3091ac60fb79f0cf7b1d177d61dd804d752f24bf6ff8576ef94a625"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2006/leis-ordinarias-97-2006-sapl-74.md",
+      "sha256": "b89d763fd640382d9383fcbd76690585b2fb2d447652ff1c3b62e4ec64c91aac",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/6aa14ae3ec709b0eec45ec970fe9e67c84013cd08db49689932ac69f151b7236.json.gz",
+        "sha256": "211a27a0e97ce25c9866f8e9945e85037f3359ceb1f02a1a3a4f3779f7b17b64",
+        "sha256_layout": "ff19c94b41171d661c866aa2c873ea2b0e2e3a9799f3951bd8292061de7aefa3",
+        "sha256_bbox": "d9d1002bdd19dae98879136505b0cb6323dab4b04be8e755a8e5cf63ee963937"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2006/leis-ordinarias-99-2006-sapl-76.md",
+      "sha256": "7a3805bfad0db0cfe623ea7e635646195e1ad63d1a201afbc2a15ebd0eb1d500",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/0151481755e09792172535a43e8f0df3ba0223b250418267fbea46898deafd94.json.gz",
+        "sha256": "97749e403ee247a7e928f023906d42b47a3e4e409f70beed7f55a9432759005c",
+        "sha256_layout": "32227a556ff834ac8b2915b8cd4de673710bd5f8fdab0299bbb3b90015691161",
+        "sha256_bbox": "c3cd8b438a222e408b9da34cb4e097e6b0628e50bcc23aa85ee338cdf20b137c"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2007/leis-ordinarias-101-2007-sapl-78.md",
+      "sha256": "3a81a0919922bff80e195f64d7d53adab4e6771e8302467a3d58dd9027c508c8",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/9dae57edf6178367f1adf7c740a546d2a726839a44648fe6aecccdb2dd45885c.json.gz",
+        "sha256": "cf5c504f236ba7cf10b773f8ad97918faf019614bea8d497f6c845b2e2477cbd",
+        "sha256_layout": "ce99d517ee3b5fc9c21f5940f7decd11482074b138376d5258c4757c5302c5c7",
+        "sha256_bbox": "52cb788b74dc51fb64d7364186fa4709264015efe3cf623d4d5f01b6d109aa4a"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2000/leis-ordinarias-46-2000-sapl-33.md",
+      "sha256": "17cd87dee3ea46793b50e4b7c3e43a550cfde3a26339eceb62d3897b366ca98d",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/4e5fa26a98df0f8bbab34a88f532ca44fb2767dd7a15db13769c59ad37e4a591.json.gz",
+        "sha256": "0b195c2ec02c0c81fa95bedc0779c52e023fa4d5dd9bea2f7d8e88413d985f98",
+        "sha256_layout": "83ccc57b8336417d3dcc4778ad072376c70cda7fb85f78dc9d668203edb5fa36",
+        "sha256_bbox": "2388a18118b8e3a2c2fef2b373b618bb2db82aea16d210ee33e518f3c667c756"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2000/leis-ordinarias-48-2000-sapl-35.md",
+      "sha256": "bff018d3bbe0d15e642a98818efe4a694450ad8c2b8a11c80246a03e5894f74c",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/856e5dd31606268bc82e786d246446720155f8d20436b5f0fff942d23046fc72.json.gz",
+        "sha256": "a6e62d4e1209f8d512ea37c9da7049297a5affe05184bd6de0855c52c6027ae1",
+        "sha256_layout": "7727a01a683b7fad402901020ac225b83e7a11193ae2cf3ccfa1370157c77592",
+        "sha256_bbox": "136e42db757269834249157593585a662856d16010879caa9f0f0483d48364f7"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2000/leis-ordinarias-52-2000-sapl-37.md",
+      "sha256": "1f1a09a024cda6deb23706c5e35eed88224cab24b2953b98120d908eadf27f98",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/35b91dc04941263eda4964e6633face7de92a6d672ced58868f995c2428e2ad7.json.gz",
+        "sha256": "d86014c5e51ebb48a43e394626c672a0be03b302d9aa52fee9a3536e34e19d02",
+        "sha256_layout": "310b26603b73bf0b687f9df43ca19bbe8dd40e85142f287fb43073b22e960fd2",
+        "sha256_bbox": "f18cacd20437d0c23f57057431c82e6637f2f9b57380056a6750b061a2b4fa8e"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2009/leis-ordinarias-122-2009-sapl-88.md",
+      "sha256": "b2eab59ad86cf1518d198ee2f101f8ec4e6b0ba14f3121a7bf07dcaa1abd2d19",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/ab08048dcb0029510888c417124562ffe0bb9161f4225c7ce2feaf2654aa205f.json.gz",
+        "sha256": "0ac08fb30818821d5c1a4c01edf9b15a071341b01b6a09a23717d8761fb7facc",
+        "sha256_layout": "3d740a3a42264f9471200f06718b134080cc3c18296372672d45b860f8131fbc",
+        "sha256_bbox": "eeb45ed5a44675dd7850684bf4943ab6fd2c942fa950b4c8cc11597fa376f6d2"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2009/leis-ordinarias-127-2009-sapl-92.md",
+      "sha256": "465afee0778570ab5a3ffc2ef3c9ca4815ecf8d3fdb0874fa306e92bffb87704",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/829b96049c2c00b253d69999a4966511c8ac81e9705b6206d6e1beed3ffd3c55.json.gz",
+        "sha256": "79550b4f3ab5f4f6af4ba49fe0a04efed224e463ed19dedc6cd69773b139cf3a",
+        "sha256_layout": "dc2dd7612601d898bbf78f911adedd98b76c03632e04a4a6f3727a451c3a4965",
+        "sha256_bbox": "a27d315bf4c0e0de6d739bef9543769a3ce5605a39dbf766402ab4e9611d98f1"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2009/leis-ordinarias-128-2009-sapl-93.md",
+      "sha256": "15ac3e2d0bc83db9f6521154e2f50bf8470b976a8b3f3d0ffa4767780388e847",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/572a540091f9c12073d9ea6b17baabed1d18c0b9e04b18b20c024cdb6e502b66.json.gz",
+        "sha256": "c2ce1b9b8c688739f1babcc3b8517c4e47ac07d4a2fba192d1a4db3ceb2b454e",
+        "sha256_layout": "0d44400807dc06ebbce788763c39bceb6847c89a89af473fd324d40cd774949d",
+        "sha256_bbox": "8c4b3d78e46e7365684d5c4ec893292510d3a51329d7e19f29bc8b0daaa84dde"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2017/leis-ordinarias-184-2017-sapl-142.md",
+      "sha256": "22e883a66ea1dfa155359b084984945a0ce2ae4b638bd6abd31b65211b7a2e80",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/c535f8aef7f560c21465eaccd08cca5a37d1bc35d402b5cbe22397a8683bb959.json.gz",
+        "sha256": "7270a60c275202fa6538eed664056a340e191ebdff48fde7d983cecc5d3f8aa9",
+        "sha256_layout": "3ba1d7bbe9fedb0bcf146f99af374ca5d505376a96241890e8b938eb2ff76541",
+        "sha256_bbox": "4a8b85019967bc3655fa79121ff0535318dc489d08b1760871d21347c802f92f"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2017/leis-ordinarias-185-2017-sapl-143.md",
+      "sha256": "9b2a3dcb2149f71e0ce8ec1d833e745d346bf22ae1f5b4a79a352c29814a06d0",
+      "alertas": [
+        {
+          "regra": "arquivo_com_cabecalho_de_projeto",
+          "offset": 245,
+          "trecho": "                                      GABINETE DA PREFEITA\n                                     CNPJ: 01.608.475/0001-28\n\n\n                              PROJETO DE LEI MUNICIPAL\n\n\n\n\nLEI N° 185/2017 DE 27 DE JUNHO DE 2017.\n\n\n                                                                 Ratífíca o Protocolo de Intenções\n                                                       do       Consórcio   dos   Municípios         dos\n         "
+        }
+      ],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/8185b4df49e4a242bebff089b95924c467c0dd527159575b98b0d07758120312.json.gz",
+        "sha256": "281ed229a7f2e1cc8ab75e5d304bc2b921237af52e02d764b1628b7b2557d655",
+        "sha256_layout": "5130c6b85c173709ee93fc8a789ba619d477f1567970c0c4f68e762f70e286f7",
+        "sha256_bbox": "1bc214b5645cbaba649e01dde8b24cb3cc874ae02177fb85e17122559882c304"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2017/leis-ordinarias-186-2017-sapl-144.md",
+      "sha256": "278c02233e035d55606d1d08608c96dc4b7cfe8da7aedad5454efd1587725d1f",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/c5fa09469021efd494f122f4be1813fc77dd9d62e507346ae972a87d275ab40e.json.gz",
+        "sha256": "7796b51be134359cb38b1f18812bac6963190ea20419970dc2a9090b9ee5909f",
+        "sha256_layout": "8161ff0709ae336b6b72ef8eba1b26f49e9bb0d45ca8ba8929cb3a6d5054ef2f",
+        "sha256_bbox": "6c8b910d95be320164267e42bf699a422b5fe0456d234e3488605d655735dff7"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2010/leis-ordinarias-131-2010-sapl-96.md",
+      "sha256": "2a644f3d48bf58784ce6c99e2b8fcd2ec089e612b7659bbea1312ec608c0ced0",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/872fc5ee90bf45a7d2ae6e22f81aad8210abb72656f565bcf558c126e4f4817a.json.gz",
+        "sha256": "c547604aa9c2718dbf17ca3cabb41585eff564f636b7065d2407ff62e5c934c5",
+        "sha256_layout": "9c3ab2cb5cb3fc59ad04cf8f0344b99d6542e6d165d65c0006b74902433847f2",
+        "sha256_bbox": "8792c4444ec5535690bcdfc48c8d304b884246a76f4bf4a582aa607d0ae86058"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2010/leis-ordinarias-137-2010-sapl-100.md",
+      "sha256": "9e4ce780753cc850839997e158369167b0a1e5773940f89a82ed0e6fcacfde85",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/be435b6ca51902c61f29c5f789b3596dc4d7058f06edd297afa496e68ed47236.json.gz",
+        "sha256": "99cd6c1a7a011904648e45ce4f0c04c2cf4b5c28e370fed6bfdd61d9b0047669",
+        "sha256_layout": "10cb9c88ec7fee0abe340e03814bdd993f8b02a4b23f5bbbe79d071eef210e6d",
+        "sha256_bbox": "9629f2ed1b761f6e08d6d0d260a1f0975bd0f2821e962c34115133a8ececd45f"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2010/leis-ordinarias-140-2010-sapl-105.md",
+      "sha256": "7966de43be0d737132f45fee10b6b9e3aeb353ad94cedb864e8559823f22f723",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/1a2c2b791b9bcdb40919fd9fe1a7baba218bc02385c28efaaa22e00c427cb494.json.gz",
+        "sha256": "312023782041d369d2e0c1c2cc683c981cd85f23d42b378078fcefd971c82bdb",
+        "sha256_layout": "33d996a86deb52eb0cf80e256cb510985f408d942e63a9349d2fcc6c78b0e705",
+        "sha256_bbox": "4ebffa0fd4041d14f6e414a67f849b6a661459e5e1b73ee9ccd47a981281d36f"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2019/leis-ordinarias-216-2019-sapl-161.md",
+      "sha256": "799c402f355abf2187841a07b3b4e1f727e553441995bd7f52a442fd92bafd6e",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/0e281487c773d0600756967a454d7e281dce44d27c9fa6da6b53b5a5f6e14938.json.gz",
+        "sha256": "8b96d6c67dd48ff223ad7428b5663e0ad29a67ab3a298274870013af5a9cd403",
+        "sha256_layout": "41a2333ebb8350ca5a3d8e2de543d43b661f7e6afe39b63c2a059f6dc23fc6cb",
+        "sha256_bbox": "4eda4a1bad50829bc3c22a455a3a2578b4e8d76cdf69d7e124f4ccc3326f1f56"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2019/leis-ordinarias-219-2019-sapl-162.md",
+      "sha256": "d7effc5d782e415dc8b4c845308f9914b6813702e518f6e78d1bf4e4c2edcfe8",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/3cd045981739ce6babc2e7f790d105e269419c55cf1b6f54e8390bcce661dd2e.json.gz",
+        "sha256": "6b3728431e729fdb00721d8f95ebda216a19e9ea6dad86682a7f30d9b7999bfc",
+        "sha256_layout": "ca06fc2879efc8855e274dc8abd6022c2c0b995b80edbe806d3a34c763d7e743",
+        "sha256_bbox": "b5c8fcdb42b3ed6f2a74558e6d67c52d29c696db800776cb9849172d3236632c"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2019/leis-ordinarias-227-2019-sapl-170.md",
+      "sha256": "d7ac8a71e784f462b72daf1937a003fddb679ce3b301fe4f4f54df33e3e3eda8",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/5ca3a92c0b453f501205a74493807020dd7f692aef3da45b529db293464227db.json.gz",
+        "sha256": "6b173d4eb83a3ebb49faf227c24a37d28ce725ef3f15fc184c3838e6975b1944",
+        "sha256_layout": "7f9968e8cd360f23b89113db17fb1cd575c199e6816f0e6eedc4f6cd4064849f",
+        "sha256_bbox": "e6a1488f47e39d015eb33b718d0b8ea71b3907fce3e64c5a4b54bbf50ad54d08"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2020/leis-ordinarias-233-2020-sapl-175.md",
+      "sha256": "5901b8e9a521c9fee75ce943a8a87c08ab6e384518f563fa3cb50b2f96ddc1f2",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/4af0f5f6a465907346a60b8cd573fba2b3dc02de73fecda21354e251099b0ea0.json.gz",
+        "sha256": "7ea3c4afb5dbd274a001f5acb36aba69c8dc6378aefdff9b5a86a92d90c2119c",
+        "sha256_layout": "1a4fb46311af911877d615a781d934ee2e859063a35d5931990b3ea163ff992d",
+        "sha256_bbox": "0e34037743dcbf739d90df664688f8c253cf6bd0d6cd286c074466abb0bf70e0"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2020/leis-ordinarias-240-2020-sapl-180.md",
+      "sha256": "92b83af81f6d7cedd6465782b490bb12b23e01503df5868a2c4b36d5daad0019",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/6680dfe9f3d751b0fc8e09402155318daa837f4c6c887ca976c74b5f41d43ac1.json.gz",
+        "sha256": "fe355d449ce2d6e79df69aa15d4ea344b0516e2c4524299d35fa84f863dcd3ef",
+        "sha256_layout": "ad57de7228be4ccf4f7c5551fa22556eae189425d58a2ac66cedcc00de4ea144",
+        "sha256_bbox": "2c8f6f155a1e3791a1ad48dc1f290cad90a7318c7fbc197680f39e55f4c41fff"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2020/leis-ordinarias-245-2020-sapl-184.md",
+      "sha256": "18a9ae360f30c25a6392e51e2fda6ca866ccc72d79a8bf9000cb3d2d90f1bdf4",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/4535f2b1c44e2c762076bd2b28d4116901868e905121b4b1c44415874191046b.json.gz",
+        "sha256": "a1170047e899ad5842fda7bd21326e52ff78c2de09490f055e4cc47dfdda0a6a",
+        "sha256_layout": "99fd5ba86832fa2c133b648c1179403476fdf302f467ce28727905dedb136eed",
+        "sha256_bbox": "2747725561cd5d1819abed1b2756255f9d89d03ed1a20d9407594906b4f74d34"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2020/leis-ordinarias-246-2020-sapl-185.md",
+      "sha256": "4d1f9f6afe16049187e51bb19f4e665e85387537c33f23099524e88a2b76ea4b",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/603e9a1ac224fffa56b2be50cba893bb7500b6dd657e96d905f2dc2e2e22351a.json.gz",
+        "sha256": "c77f54ab9a12c9260b94e7187fb24fcd2000a8548bcdf0013a4b814869394c3c",
+        "sha256_layout": "a15b60e1a310ee8b84ae492a129ec98cf88ec6ae229b43e4b6fe3762bcfb9362",
+        "sha256_bbox": "7dd8c90502335334713dfd014b5d710918acb1d4bff84686e6e92006e497f228"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2016/leis-ordinarias-177-2016-sapl-139.md",
+      "sha256": "dcdd551f8ebad2c44649544db6416455ab9fb9532bb78de441fd28a3da697c8e",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/8109c5d1a842b4fe4353146d541e3f7dd06bd2442705ce46cacf55fbb547225d.json.gz",
+        "sha256": "1bba219b6a704816fbc869838db29749f48d14b97b20853d65cc11d551cb4a5d",
+        "sha256_layout": "c65aee3583555c5af16ba577989c482f122a8adb84c8ba13339a59bba12fa9c8",
+        "sha256_bbox": "8a18c52fc18e7825bb9ef78c46c4b1b7575dbc6a4383e605d0b7241a9e17bc76"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2016/leis-ordinarias-180-2016-sapl-138.md",
+      "sha256": "7dff5356005b09e014e6ba7bcdd4af31dd022249a3bd33986dcb19c95009d3f9",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/4fecf8d0af53c2dbddcb74aeecf3611e66ce8b8d43a15a9214c9832c1a4ff711.json.gz",
+        "sha256": "9a3f01ee3516d1018bdd99025291eb44dac24f81ef7e809c36aef7458232ca15",
+        "sha256_layout": "2a284255363d25701b459031d9d937701f0be59e74e4e98e62df25df16927c52",
+        "sha256_bbox": "582806aca4de87d799115283c3537c1ad72b53beafae500acb7b8e89f8f85b24"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1997/leis-ordinarias-1-1997-sapl-1.md",
+      "sha256": "c4da38a9315259b724a7641adef491cedb40b14100b0e5cad0e929b9722c3e2f",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/5b373c0b2cbd60e89766ca960a7280ac1f8f20ac093f9447d0e170ab1707c7ff.json.gz",
+        "sha256": "f737527fc9176fd5b329625c8a9e283e5326aedb8cb4a607a7b723cd9d1dcb3a",
+        "sha256_layout": "8e03a4c82062d07e4c3340dbd5a6ab05d87d10087bd35f090dd1d0f63b92cc02",
+        "sha256_bbox": "7df43aa71b9c67d8c837cd2b1420a7f9f7b5882ad7a9e633aa90825a1110dbbd"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1997/leis-ordinarias-15-1997-sapl-14.md",
+      "sha256": "01428f126453de567d0b788e1b72730a08c99e0ff18a3397c9dc011534f1d750",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/299c02e4daa3e5dc87926ea8955fd9e253fbd8400e6b1406811c876897bb9665.json.gz",
+        "sha256": "86b3c340148c95aa7233a635c5570a2b95f7bf12555c5e298253dfef0dc596ec",
+        "sha256_layout": "f9cb83d815b09af160c5a2da3f038ebd9ac6f88143661407be129823f295f499",
+        "sha256_bbox": "15f4e126c88342000bbe0d999a5c3bdd6d70b6dbaff300299799b46670f3994c"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1997/leis-ordinarias-18-1997-sapl-17.md",
+      "sha256": "aecb24091502b890944f8812ecd684127075950cbabdadb4be3f18feef42537c",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/f4cb5239c97a9f0e73d7f75060cac5036d55c40c580564f56c868ab12d7b6d20.json.gz",
+        "sha256": "01189ff33a315ab2dccec767cb77e21a7c32728ca6cc6a8fefa4bdeb6f93d14c",
+        "sha256_layout": "382c91204bc9f8a0ade23e58fa300f6068c2d5bb583352b79c9d4a556f9855ad",
+        "sha256_bbox": "1563b75200c96c8ba3263d3746b14305bdb0ef402d0cb87cf1baf9b3158e5b31"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1997/leis-ordinarias-19-1997-sapl-18.md",
+      "sha256": "817581afe17e60f157985821806e2606b63e6fcc869b613cf3325c5be17828ce",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/8ba035faca0142a8b43ab909df27cc95d19eeacd71f6e52a7447640596c52f18.json.gz",
+        "sha256": "ff67ad4e0e0f01452a3df6fb7bbd2097bdc752b6695059c406bbe30319f7ce5c",
+        "sha256_layout": "2fb5397eed5249d5c716fe2c1df9be0686cb1adcb62c76fb6e3906e30ed24a49",
+        "sha256_bbox": "bf0890d7d21aa98e9dd6c95db98487c081ae95c1b9fe254be986cd6cc3990844"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1997/leis-ordinarias-2-1997-sapl-2.md",
+      "sha256": "6cd64c9c8079cd2077e9f2f0a21982bb556397701b8a4a2262da6af1edad809c",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/16f2089bcc91e5837c40e72829e32bc662f870e37e82cf25731f3271f056b9e6.json.gz",
+        "sha256": "2786f7730621261b95c1ce825b946cb133fca9f4b516ff1f527b70994b64243b",
+        "sha256_layout": "db291b6fdab4a01ce81db7500a1b47b148ea58ee4a3bd1c4f60fbf1d8a83aa1d",
+        "sha256_bbox": "cd8e36c1a410ff32e427101e78f7f1fd53b61c90322aaa062d8f43fccbe17eaa"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1997/leis-ordinarias-22-1997-sapl-21.md",
+      "sha256": "e369948b174044ebd48afefc51206cd7d99d0c1888da2633ad38365ea6f1e67d",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/4d2027b653ee9606a520c3598074bf7dc1625b31376546355a55646f7fb5af3d.json.gz",
+        "sha256": "6b913a149ac3784c85f12d707f4304bac77e2956239c933cbcbd3e1b74f6a87d",
+        "sha256_layout": "f074fb2b43fa5ce3a01d69feec7798d53b93273b0f7461ec9e214615b1ec7a23",
+        "sha256_bbox": "eb49bff2add9f5b56825ec81685b128efa444d49d427c153295829a608d93126"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1997/leis-ordinarias-23-1997-sapl-22.md",
+      "sha256": "b46bd6fdcebfa7164dbfccc3e4ead89908ddc6ea64c9aafee4b1480f2345a1b3",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/aabc2c275bd0119d9b87a3d157029557db3c642729005182b8ee586cb5dce024.json.gz",
+        "sha256": "6d372ffa71ede44e27f199794bfc7bc5e93439486b191ad0923e873ad1b80165",
+        "sha256_layout": "449eeb42127e25e27c2dcb062e13e7bfb6534937d3acdcee67a9b5fe56934eb9",
+        "sha256_bbox": "7a36c005afb1ca127a88c1bc6d0ac528a157fce9660e695df0c3b4cc37a364d8"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1997/leis-ordinarias-3-1997-sapl-3.md",
+      "sha256": "716fc9df8370883acee4420eaa6b03e686314e34d26fdd11fd0202c002e4d40d",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/f3d605facfcc34f76e416b0f260d9f95b64061104cccdda5bca9cb5f51512461.json.gz",
+        "sha256": "f06df98bd03b559617eaf5f187be6241453ea08b0ea0de06b49ec8aa4a618adf",
+        "sha256_layout": "84b20658da08bcd14e38efd699fa426123f6c1c745c4f18a1ede87d50d89ebeb",
+        "sha256_bbox": "f1918b52fe71a06c84374340746698fef798ff11ded15d10273ba9b9072b22ec"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1997/leis-ordinarias-6-1997-sapl-6.md",
+      "sha256": "6ac7f58884d9807d0b827c9fbb602a6d47762cd8eaf6f31fb49e7cd892bbe9bf",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/b2a0554fff7ab356def2c21ddd8c5f33acd7eb6d49e275e1a9d7b9920fe6d301.json.gz",
+        "sha256": "52fef01469450de824bf9b1569688dc59ffa0690d4f3e39d66226ded569e0fd9",
+        "sha256_layout": "4f5570cbaccc0af9bb6588a8dada354494e8968cea45181f0f5a9b82ae1ec2be",
+        "sha256_bbox": "e759c83cb38b5ff7737b1fe7be89e9a3c10e384d4f5e4ad778d7ccb3c661bea6"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1999/leis-ordinarias-32-1999-sapl-27.md",
+      "sha256": "c29cdfc448039a76b67a77076dc346ab3fc2eb5555055795976ac643921a9343",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/d129759341b481ee3ad834bba694a233fd5d0297bf5a8b1545bb4b5cdbd2452b.json.gz",
+        "sha256": "220e9232383a40161e2f788c83856327809ab7c985b349c8b6df29a9801af359",
+        "sha256_layout": "c1bb09e882df7c9aab38a0c0f52d4c1fa4ed1688f70336a649b076c1001d0eeb",
+        "sha256_bbox": "585a6dbf8fa34720d71cab50f81d5f9da33028e68822d7dbb04b56a9bb3a2bd1"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1999/leis-ordinarias-44-1999-sapl-31.md",
+      "sha256": "a318bb2501dc13c4e516070359e68fef4905190d0ead665e69a9d8ae2a1f3aa0",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/75c2827b5621fb4506e98feed0201c4fe74ae5c83862771976aa54b8001d8828.json.gz",
+        "sha256": "6993bfdcc87021eacc7c8396041de027416a1c12cf5935c47c6799b2eb2f4ff4",
+        "sha256_layout": "a9dd0fd650b112116e2baf70029d04a9d6c3782b0e526b7a3347b15ab6cf7412",
+        "sha256_bbox": "dde968168e1eb0c3e2b2a19398d11c95ad9e21c0446f101a05704cf6f20ef219"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1999/leis-ordinarias-45-1999-sapl-32.md",
+      "sha256": "95a94a13c3f551c2df45053ba0db47ca7de32e33212564f42322370decc30bca",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/bc88487dadc45c9f41eb4514dfb81595fe50a63db44405f143bdc46b902281b7.json.gz",
+        "sha256": "bfa853209661101f17ecaa0b2226a65a300bfcbf023497dbaeec629ee87a8654",
+        "sha256_layout": "41ae414dda4340990ca84f64e6b8bf145950c0bc99b817de598069120c6bf5ea",
+        "sha256_bbox": "ce07166e8cf042b8c7590684d7aa8891cf50e4a5803488c82ede9a5f721a1f35"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2005/leis-ordinarias-84-2005-sapl-61.md",
+      "sha256": "a1be8d265bb71399d4a3dbfa9ab0cff3e6d8247570b394f9ce945d00ba1e6409",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/8f1b56df3a31337bad94caf6bb2f740f9f229400227a7862b11bbf69e71049c2.json.gz",
+        "sha256": "25a8619952dca22fca08f72beee2d609f80a67ecee8d92f7a000af1a1b53c4bc",
+        "sha256_layout": "7721cd351447c357db08b9f8512dcdc6c6b1d91793c3648e9084e9be0b4a8aef",
+        "sha256_bbox": "3b296786add3eab5b7365f73840b7da076c7398c5dd7ea2ee1c14b7225420a78"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2002/leis-ordinarias-62-2002-sapl-44.md",
+      "sha256": "6f5ec8044cff5c644d93df60a99a9d197a3fa77cf5849e042ed163ee08609e17",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/9bf795b5e848a5800818407e0b86fff099d1f923ddc6d7063de869ebfed0a799.json.gz",
+        "sha256": "c0c8358ec3b1a2c6398c88b6e6cbd3734e9403303a6b49ad92bface9ad7ef3f4",
+        "sha256_layout": "2bc0e9cde7e84b49b47eae90fb95eba8679d3d9313baa32149c7d8d058cc89da",
+        "sha256_bbox": "fe5e7293828507661120a65387f91ed3b5a7a4540de68c002d0daa9716f67dc4"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2002/leis-ordinarias-64-2002-sapl-46.md",
+      "sha256": "46b9c5d84d78bfe83e12af031527f1da946e8ec146f3b0eed01b6fa1179196eb",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/aafaa33541d3e1b792752d932d21c7c2c85f738a600ad0cdbfc025f64f163c0d.json.gz",
+        "sha256": "276f3cc5e5194a54dca5dbb6f6318d7a827f7f8ee11522d7f5bf3ab968e250da",
+        "sha256_layout": "05211eeb37d2f7adc58d88c18cc562c536001e87f7f57f5f9e40dc07bd376efb",
+        "sha256_bbox": "867c686090b08957b7537d6f4536ec25e96026cb22ca35e578f18040e523e944"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2002/leis-ordinarias-67-2002-sapl-49.md",
+      "sha256": "cd36b52b7c5de969a9b764bad747a8221b7bf23378c8c4f84b0b56c70edcf91a",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/aa0986345a2c59d16b04e5407c034d392d2fe0962db038ce29b5e7ec105b28d8.json.gz",
+        "sha256": "e08462a415942112df1d6b583b40b6405ec6ef7050350a5f0d25edd666b2d9fa",
+        "sha256_layout": "8717c446cbf826f08e98cb9b642d56c6e6f5e5229d8df7828d270881e9adee3a",
+        "sha256_bbox": "00827b94a615f5f44fce84ec408b4eafd8ff181823fdf61e986ddbc5bbe62369"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2002/leis-ordinarias-69-2002-sapl-51.md",
+      "sha256": "14886bf0012ffb71fbdab72b4e0264e3e15ac844c296453ba2b8fe82d8211285",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/5ae81fdf4c6ebcbc90891983b09d9d5c605e63813e993f2fca663f3e0734f716.json.gz",
+        "sha256": "cc521969073a81e0033724d2186ef5a168b5469c2e782e089143efe90225d5cc",
+        "sha256_layout": "fb4e5b8696b955f503062ad3d5f9b3de443147605b594aa802a969c743eec4a3",
+        "sha256_bbox": "f2b9f27f70c79b8e9b25dd7a1fdec8f1b891877bc38f6ed4d58a0bde77e40941"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2002/leis-ordinarias-70-2002-sapl-52.md",
+      "sha256": "ce955fcceee7829f94483a6989b9f16c8345eed1478d779792cc061795231eab",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/6d8e1660560aaba3d188b0b024b0733fd46b32ff9eff29d0e09f553d8f639c0f.json.gz",
+        "sha256": "b4ea0d3ff071e63333a6c942738475f544b0033655ff32106c777445d9115629",
+        "sha256_layout": "03ddee741bd5af2fb4420eab5820baebf3869bd183dcba07cc6572f75d408065",
+        "sha256_bbox": "92b331f6ab58a8505db644bb7f16bd1c64e86bcc289d5f2ae09bf48161169bac"
+      }
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2003/leis-ordinarias-76-2003-sapl-57.md",
+      "sha256": "29f952308f9ba13679a897ad3f5262a1bd996f5cb01e1e01d0db456e830e5349",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/7e8783995045d2a05c20e94e10cfc7613120dda280f7e76b1d25cf6304d9e1ca.json.gz",
+        "sha256": "48c51beb6e43bf38e4841c5d68ee2b72f25fe7428f60b12049fd10a19228edf5",
+        "sha256_layout": "2ba76b1e05d49d218a5640c1ec90eb63e1d5fcb5c16ef28d7664c6bdcc7deca7",
+        "sha256_bbox": "c6f371fb096d2f0b0874e25cb5fbd681c3d156ecaf0aec3e58ede8fb5494109d"
+      }
+    },
+    {
+      "path": "municipais/MG/campestre/resolucoes/2026/resolucoes-2-2026-sapl-1093.md",
+      "sha256": "b211aca3707dd4bec23c7ca5ac9caa3573f195d07abb99e6e29ea809cac79c6c",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/320dce4730076e4bf7b74b784b775c8d4410804c0e8b2e895e18055d9c46406c.json.gz",
+        "sha256": "0a70de1e7304b93f29438479521580050caa315cfdc8b979003a11eb0b9a3766",
+        "sha256_layout": "a70ca71c71a643b121f56544c2a2668c5e4883e3b2b3e975f77051f2a8e9981a",
+        "sha256_bbox": "0e1a2ee158f7e0732a44b17262bf5c129a9255476742edfa561dace5b33d1594"
+      }
+    },
+    {
+      "path": "municipais/MG/campestre/resolucoes/2026/resolucoes-3-2026-sapl-1775.md",
+      "sha256": "dcfbdcef028ac0e7190f38a0410aef684f10592ffea5da9c4145eb8cb4abfed1",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/ceaf5a2afea78657e9fa5281e045ed5cf33dc9bc038154bb57efea72ce63f1b5.json.gz",
+        "sha256": "7240c81f6ef9f946ae4b37b7b623f33804f995b74757b3c407d748f2a10a4b89",
+        "sha256_layout": "ffd5075a115d7168c8ded977ccea2dcbc320aa660876291d5cd73e1ef5a5dcb5",
+        "sha256_bbox": "61f87f0298899a17323c1f89c4b14ac5c755e602bf1f5eb21879323facbb133e"
+      }
+    },
+    {
+      "path": "municipais/MG/campestre/decretos-legislativos/2026/decretos-legislativos-2-2026-sapl-1748.md",
+      "sha256": "ee1320c7e74f7282b8e787f128aa4d25d6c209e38a523a154eb2322ac8d6d8a9",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/03d6c28b0ff998bdfc34d73bb718848976dc31d579fe3357aa46ace41892d1c7.json.gz",
+        "sha256": "fbe7e5e52fe5c955197688b270f68d549a1a693c98a132d35800e24516f62578",
+        "sha256_layout": "67c41b1d73c649b993896b419945833770f2124cbe38eaabb9bf836e4af4a569",
+        "sha256_bbox": "c2207223b1340281e6a43cb3292bb366477fe0b3105a900f35b4a1106d1fce89"
+      }
+    },
+    {
+      "path": "municipais/MG/campestre/leis-complementares/2026/leis-complementares-80-2026-sapl-559.md",
+      "sha256": "074aa652c081dbb55dbb27a986760169deb3f411a24cdbd9668fc085044d4d41",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/0722f72924a6472ad4ed0e474447e9fbc3d48208f6622ee55bcdeb43f700ad7c.json.gz",
+        "sha256": "9365a26929d9785b7525cd06edfd4f3925ca7a08ca54e13ba286ee2eb33a9dd5",
+        "sha256_layout": "91573088e8e8d5ce13bdf9e07b840b6c4ce87060f3b1f6c37fde006ae4190255",
+        "sha256_bbox": "38e7ccfbf497f071721e039bfa13316359d3e8c060b39bc6c7c19df05bc55456"
+      }
+    },
+    {
+      "path": "municipais/MG/campestre/leis-complementares/2026/leis-complementares-82-2026-sapl-1087.md",
+      "sha256": "2c19dc568c190a13b58e87ba82e209b52e21fde4f2c7a5fbf2b9a4281764f5f6",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/3d27fdea49a35f36e690887c058fc7e3a48868af5c6aa0fb6fbd511a776b7196.json.gz",
+        "sha256": "4ec9d9854c6063b0d52d847983e29a180b1c19b07dbe44798ce05525ea1f119f",
+        "sha256_layout": "a89de66aa1a056807c05cc15bc71668013b0757554ac2cf3d4e5a553c63af9dc",
+        "sha256_bbox": "3fcc07a7a1e9f9ba84525703dba211a8382a4a5355fb7b067034ce44bb9b10e3"
+      }
+    },
+    {
+      "path": "municipais/MG/campestre/leis-ordinarias/2023/leis-ordinarias-2154-2023-sapl-268.md",
+      "sha256": "5fd8cf84a183733d8a36a2de15c8b8134adc1bb90dbed6aafe0f96dd578c21f2",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": true,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/dc30d4424dcba5e5315a27135e99b484ee45de745eef2d3119f37638f94f8a59.json.gz",
+        "sha256": "fed998e8aa216afb6f408d7e25319cc0029553a979c82a846b0532e4e496c9f4",
+        "sha256_layout": "86c65711a9cc4900f0f2755a599e1a76f8db45554dc5348a1650b988d74efe19",
+        "sha256_bbox": "79e8ec12474d1b20f7f705d8c13e50cd976ffb56b31dfe8f8d5becf1f36cfbfd"
+      }
+    },
+    {
+      "path": "municipais/MG/campestre/leis-ordinarias/2015/leis-ordinarias-1814-2015-sapl-1679.md",
+      "sha256": "78e7e00ce585aee3eedad288808cf66f48a857ce8b0ba897018b9bd8b1d977fe",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/dc1559abea0925411594cf996319a55a1112e91dcfdd89adc8cae91d4685f335.json.gz",
+        "sha256": "f87c9cc51f2ace35c34e71db5b3e9df0f19f16debd0b7662d9e405c7d0524c8f",
+        "sha256_layout": "8661e971e004847216475946cc20b99ae6b6c2a17ac28d1d0a5beb867cad4bb3",
+        "sha256_bbox": "09ead3fa1e150c62351e20d589c4b4d2de78218777472607c7743471c12f29bb"
+      }
+    },
+    {
+      "path": "municipais/MG/campestre/leis-ordinarias/2015/leis-ordinarias-1815-2015-sapl-1680.md",
+      "sha256": "e14bcd4ac129568d80531c8a9566b1f34e77947d567192d985acc50921f69240",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/02e132b839cd096ca665a45944d0e4d084a00128e53b53697dc25974f06b5ee9.json.gz",
+        "sha256": "4a0093647cfaa20065cb133fddb4a10ab519f9ab7a524fff9520c5a92ebc3f89",
+        "sha256_layout": "838db987814f9023257625cd7501bd65036a1f785f9def9815cc009212f62848",
+        "sha256_bbox": "11c4a66a30fb034b72cf74df95deedf49c14774d16d98ba704af2ee4347f62bd"
+      }
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "criterio": "Inventário suplementar das cores de texto de PDFs, sem decidir vigência.\n\nPreserva valores originais de cor, páginas e amostras. Cores podem indicar\nnotas, links, títulos ou redações históricas e exigem inspeção contextual.\n",
+  "script_sha256": "406a5e11812743b619553bc8f7b7318f9f258aac9740bc608118ca6dae33e9f2",
+  "documentos": [
+    {
+      "pdf": "municipais/_fonte/organicas-sapl/sapl.natal.rn.leg.br/193.bin",
+      "sha256_fonte": "41c3a5e75035541559086faa1ade980903177a90162fe5834247179d3b15e44d",
+      "total_paginas": 76,
+      "cores": [
+        {
+          "cor_original": [
+            0.0
+          ],
+          "caracteres": 203509,
+          "paginas": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76
+          ],
+          "amostras": [
+            {
+              "pagina": 1,
+              "texto": "1LEIORGÂNICADOMUNICÍPIODONATAL"
+            },
+            {
+              "pagina": 2,
+              "texto": "2LEIORGÂNICADOMUNICÍPIODONATALAutor:VEREADORESDACÂMARAMUNICIPALDENATALData:03/04/1990Classif.:OUTROSEmenta:LEIORGÂNICASUMÁRIOPREÂMBULOTÍTULOIDaOrganizaçãoMunicipalCAPÍTULOIDoMunicípio-DisposiçõesPreliminares(arts.1ºao4º)CAPÍTULOIIDaCompetênciadoMunicípio(arts.5ºao8º)CAPÍTULOIIIDosBensMunicipais(arts.9ºa15)TÍTULOIIDaOrganizaçãodosPoderesCAPÍTULOIDisposiçõesGerais(arts.16)CAPÍTULOIIDoPoderLegislativoSEÇÃOIDaCâmaraMunicipal(arts.17ao20)SEÇÃOIIDasAtribuiçõesdaCâmaraMunicipal(arts.21e22)SEÇÃOIIIDosVereadores(arts.23ao29)SEÇÃOIVDasReuniõesedoFuncionamentodaCâmara(arts.30ao35)SEÇÃOVDoProcessoLegislativo(arts.36ao43)SEÇÃOVIDoControleExternodosAtosdoExecutivo(arts.44ao48)CAPÍTULOIIIDoPoderExecutivoSEÇÃOIDoPrefeitoedoVice-Prefeito(arts.49ao54)SEÇÃOIIDasAtribuiçõesdoPrefeito(arts.55e56)SEÇÃOIIIDosSecretáriosMunicipais(arts.57ao59)SEÇÃOIVDaProcuradoriaGeraldoMunicípio(arts.60ao64)SEÇÃOVDaGuardaMunicipal(art.65)TÍTULOIIIDaResponsabilidadedoPrefeito,doPresidentedaCâmaraedosVereadores(arts.66e67)TÍTULOIV"
+            },
+            {
+              "pagina": 3,
+              "texto": "3DaAdministraçãoMunicipalCAPÍTULOIDasDisposiçõesGerais(arts.68ao75)CAPÍTULOIIDosServidoresMunicipais(arts.76e77)CAPÍTULOIIIDosServiçosPúblicos(arts.78e79)CAPÍTULOIVDaDefesaCivil,dosConselhoseComissõesMunicipais(arts.80ao83)TÍTULOVDaTributaçãoeOrçamentoCAPÍTULOIDasDisposiçõesGerais(arts.84ao86)CAPÍTULOIIDosTributosMunicipaiseParticipaçõesTributárias(arts.87ao90)CAPÍTULOIIIDasNormasFinanceiraseOrçamentárias(arts.91ao100)TÍTULOVIDaOrdemEconômicaeSocialCAPÍTULOIDasDisposiçõesGeraisdaAtividadeEconômicaeSocial(arts.101ao117)CAPÍTULOIIDaPolíticaUrbana(arts.118ao120)CAPÍTULOIIIDaHabitação,doTransporteeServiçosPúblicos(arts.121ao130)CAPÍTULOIVDoSistemadePlanejamentoUrbanoedaGestãoDemocráticadaCidade(arts.131ao132)SEÇÃOIDoPlanoDiretor(arts.133e134)SEÇÃOIIDoMeioAmbiente(arts.135ao139)CAPÍTULOVDaSaúde(arts.140ao147)CAPÍTULOVIDaAssistênciaedaAçãoComunitáriaSEÇÃOIDaAssistênciaSocial(arts.148ao151)SEÇÃOIIDaAssistênciaàCriançaeaoAdolescente(art.152)CAPÍTULOVIIDaEducação(arts.153ao165)CAPÍTULOVIIIDaCultura(arts.166ao169)CAPÍTULOIXDoDesportoeLazer(arts.170ao174)CAPÍTULOXDoTurismo(arts.175ao177)TÍTULOVIIDasDisposiçõesFinais(Arts.178ao181)LEIORGÂNICADOMUNICÍPIODONATAL"
+            },
+            {
+              "pagina": 4,
+              "texto": "4PREÂMBULONós,representantesdopovodoMunicípiodoNatal,constituídosemAssembléiaConstituinte,reunidosnoPalácioPadreMiguelinho,invocandoaproteçãodeDeus,promulgamosapresenteLeiOrgânicadoMunicípio,inspiradanosprincípiosdeliberdadepolítica,dejustiçasocialededignidadedapessoahumana.TÍTULOlDAORGANIZAÇÃOMUNICIPALCAPÍTULOIDOMUNICÍPIODISPOSIÇÕESPRELIMINARESArt.1º-OMunicípiodoNatalrege-seporestaLeiOrgânica,obedecidaasdisposiçõesconstitucionaisdaRepúblicaFederativadoBrasiledoEstadoRioGrandedoNorte.Art.2º-SãobensdoMunicípiotodasascoisasmóveiseimóveis,bemcomodireitos,açõesouvaloresqueaqualquertítulolhepertençam.Art.3º-SãosímbolosdoMunicípio,abandeira,obrasãoeohinodaCidadedoNatal,criadosporLei.Art.4º-OMunicípio,objetivandointegraraorganização,oplanejamentoeaexecuçãodefunçõespúblicasdeinteresseregionalcomum,podeassociar-seaosdemaisMunicípioslimítrofesparaformararegiãometropolitana,naformadalei.§1º-AdefesadosinteressesmunicipalistasficaasseguradapormeiodeassociaçãooudeconvêniocomoutrosMunicípiosoucomentidadesafins.§2º-Estãosujeitosàlegislaçãomunicipal,nascompetênciasespecíficasquelhecabem,especialmentenasquedizemrespeitoaousoeàocupaçãodosolo,aoperfilurbanístico,aotraçadourbano,àproteçãoambientalepais"
+            },
+            {
+              "pagina": 5,
+              "texto": "5XII-concederlicençaparaoexercíciodequalqueratividadeindustrial,comercialouprestadoradeserviço,inclusivefeiralivreouatividadecomercialemviapúblicaecassaroalvarádelicençadoquesetornardanosoàsaúde,àhigiene,aobem-estarpúblico;XIII-fixarosferiadosmunicipais,bemcomoohoráriodefuncionamentodosestabelecimentoscomerciais,industriais,deprestaçãodeserviçoedeoutros;XIV-legislarsobreoserviçofunerárioesobrecemitérios,fiscalizandoosquepertenceremaentidadesparticulares;XV-regulamentarafixaçãodecartaz,deanúncio,deemblemaedequalqueroutromeiodepublicidadeedepropaganda;XVI-legislarsobreaapreensãoesobreodepósitodesemoventes,demercadoriasedemóveisemgeral,emcasodetransgressãodeleisedemaisatosmunicipais,bemcomosobreaformaesobreascondiçõesdevendadascoisasedosbensapreendidos;XVII-instalar,mantereadministrarasjuntasdeserviçomilitar,naformadaLei.Art.6º-OMunicípiopodecelebrarconvêniocomaUnião,comoEstadoecomosMunicípios,medianteautorizaçãodaCâmaraMunicipal,paraexecuçãodesuasleis,deserviçosededecisões,bemcomoparaexecutarencargosanálogosdessasesferas.§1º-Oconvêniopodervisaràrealizaçãodeobraouàexploraçãodeserviçopúblicodeinteressecomum.§2º-Pode,ainda,oMunicípio,atravésdeconvênioouconsórciocomoutrosMunicípiosdamesm"
+            },
+            {
+              "pagina": 6,
+              "texto": "6discriminaçãoemrazãodenascimento,idade,etnia,cor,sexo,orientaçãosexual,estadocivil,trabalho,religião,convicçõespolíticasoufilosóficas,deficiênciasfísicaoumental,portersidoapenado,ouporqualqueroutraparticularidadeoucondiçãosocial.(IncluídopelaEmendaàLeiOrgânicanº09/1995,de19.10.1995)Art.8º-AoMunicípioévedado:I-permitiroufazerusodeestabelecimentográfico,dejornal,deestaçãoderádioedetelevisão,deserviçodealto-falanteoudequalqueroutromeiodecomunicaçãodesuapropriedadeparapropagandapolítico-partidáriaoufinsestranhosàadministração;II-estabelecercultoreligiosoouigreja,subvencioná-los,embaraçar-lhesoexercíciooumanter,comelesoucomseusrepresentantes,relaçõesdedependênciaoudealiança.III-contrairempréstimoexternosempréviaautorizaçãodoSenadoFederal;IV-instituirouaumentartributossemqueaLeioestabeleça.CAPÍTULOIIIDOSBENSMUNICIPAISArt.9º-Pertencemaopatrimôniomunicipalasterrasdevolutasqueselocalizamdentrodeseuslimites.Art.10-CabeaoPrefeitoaadministraçãodosbensmunicipais,respeitadaacompetênciadaCâmaraquantoàquelesutilizadosemseusserviços.Art.11-Todososbensmunicipaisdeverãosercadastrados,comaidentificaçãorespectiva,numerando-seosmóveis,segundooqueforestabelecidoemregulamento.Art.12-Aalienaçãodebensmunic"
+            },
+            {
+              "pagina": 7,
+              "texto": "7Art.15-OMunicípiotemdireitoaparticipaçãonoresultadodaexploraçãodepetróleo,degásnatural,ouderecursoshídricosparafinsdegeraçãodeenergiaelétricaedeoutrosrecursosmineraisedeseuterritório.TÍTULOIIDAORGANIZAÇÃODOSPODERESCAPÍTULOIDISPOSIÇÕESGERAISArt.16-SãoPoderesdoMunicípio,independenteseharmônicosentresi,oLegislativo,exercidopelaCâmaraMunicipal,eoExecutivo,exercidopeloPrefeito.CAPÍTULOIIDOPODERLEGISLATIVOSEÇÃOIDACÂMARAMUNICIPALArt.17-OPoderLegislativoéexercidopelaCâmaraMunicipal,compostadeVereadores,eleitosparalegislatura,pelosistemaproporcionalentrecidadãosmaioresdedezoitoanos,nogozodedireitospolíticos,porvotodiretoesecreto,naformadalegislaçãofederalpertinente.§1º-Cadalegislaturateráquatroanos,correspondendocadaanoaumasessãolegislativa.§2º-ACâmaraMunicipalnãoentraemrecessonomêsdejulhosemaprovaçãodoprojetodeLeideDiretrizesOrçamentárias,nementraemrecessonomêsdedezembrosemdeliberaroOrçamentoAnualeoPlanoPlurianualdeInvestimentos.Art.18-SalvoasdisposiçõesemcontráriasprevistasnestaLei,asdeliberaçõesdaCâmaraMunicipaledesuascomissõessãotomadaspormaioriadevotos,presenteamaioriaabsolutadeseusmembro.Art.19–CâmaraMunicipalécompostadevinteeumVereadores.Parágrafoúnico–AalteraçãodonúmerodeVereadores"
+            },
+            {
+              "pagina": 8,
+              "texto": "8II–prestarconsultoriaeassessoriajurídicaàCâmaraMunicipal;(RedaçãoconferidapelaEmendaàLeiOrgânicanº33/2018,de08.05.2018)III–promoverarepresentaçãojurídicadaCâmaraMunicipal,requerendoaqualquerórgão,entidadeouTribunalasmedidasdeinteressedajustiça,daAdministraçãoedoErário;(RedaçãoconferidapelaEmendaàLeiOrgânicanº33/2018,de08.05.2018)IV–exerceroutrasatribuiçõesespecificadasemLei.(RedaçãoconferidapelaEmendaàLeiOrgânicanº33/2018,de08.05.2018)§3º-OingressonacarreiradeProcuradorLegislativoMunicipalfar-se-ámedianteconcursopúblicodeprovasetítulos.(RedaçãoconferidapelaEmendaàLeiOrgânicanº33/2018,de08.05.2018)§4º-OfuncionamentodaProcuradoriaLegislativaMunicipal,suaorganizaçãoedesuarespectivacarreiraserãodisciplinadosporLei,respeitando-seoprevistonestaLeiOrgânica.(RedaçãoconferidapelaEmendaàLeiOrgânicanº33/2018,de08.05.2018)§5º-OProcurador-GeraldaCâmaraMunicipalseránomeadopeloPresidentedestaCasaLegislativa,dentreosintegrantesdacarreiradeProcuradorLegislativoMunicipal,indicadosemlistatrípliceformadaporseusmembros,elaboradamedianteeleiçãoporvotosecretoeplurinominaldetodososintegrantesdacarreiraematividade,emumsóescrutíneo.(RedaçãoconferidapelaEmendaàLeiOrgânicanº33/2018,de08.05.2018).SEÇÃOIIDASAT"
+            },
+            {
+              "pagina": 9,
+              "texto": "9I-elaboraroRegimentoInterno;II-elegeraMesaDiretora,bemcomodestituí-lanaformaestabelecidanestaLeienoRegimentoInterno;III-disporsobresuaorganização,funcionamento,polícia,criação,transformaçãoeextinçãodecargos,empregosefunçõesdeseusserviços,inclusivefixaçãodoefetivoedarespectivaremuneração,observadososparâmetrosestabelecidosnaLeideDiretrizesOrçamentária;IV-mudar,temporariamente,suasede;V–fixararemuneração:a)dosVereadores,aofinaldecadalegislatura,paravigorarnaseguinte,estabelecendoaremuneração,aformaeaperiodicidadedeseureajusteparafazerfaceàperdadopoderaquisitivodamoeda;b)doPrefeito,doVice-Prefeito,dosSecretáriosMunicipaisedoProcuradorGeraldoMunicípio,anualmente,observadaapartefinaldoitemanterior;V–fixar:(RedaçãoconferidapelaEmendaàLeiOrgânicanº12/2000,de08.06.2000)a)osubsídiodosVereadores,porLeideiniciativadaCâmaraMunicipal,narazãode,nomáximo,setentaecincoporcentodaqueleestabelecido,emespécie,paraosDeputadosEstaduais,observadooquedispõeosartigos39,§4º;57,§7º;150,II;153,IIIe153,§2º,I,todosdasConstituiçãoFederal.(RedaçãoconferidapelaEmendaàLeiOrgânicanº12/2000,de08.06.2000)b)ossubsídiosdoPrefeito,doVice-PrefeitoedosSecretáriosMunicipaisfixadosporlei,deiniciativadaCâmaraMunicipal,observ"
+            },
+            {
+              "pagina": 10,
+              "texto": "10XVI-promulgarprojetodeleisobreoqualsilencieoPrefeito;XVII-expedirdecretolegislativoeresolução;XVIII-autorizarreferendoeconvocarplebiscito,estabelecendoseuobjetoedispondosobresuarealização;XIX-darposseaosVereadores,aoprefeitoeaoVice-Prefeito,tomando-lhesocompromisso;XX-concederlicençaaosVereadores,aoPrefeitoeaoVice-Prefeito;XXI-autorizaroafastamento,quantosuperioratrintadias,dosVereadores,doPrefeitoedoVice-Prefeito;XXII-julgarascontasdoPrefeitoeapreciarorelatóriosobreaexecuçãodoplanodeGoverno;XXIII-julgarascontasdaMesaDiretora;XXIV-procederàtomadadecontasdasautoridadesreferidasnosincisosXXIIeXXIII,quandonãoapresentadasnoprazodesessentadiasdaaberturadasessãolegislativa;XXV-solicitar,fixandoprazo,quandoforocaso,informaçãoaoPrefeito,aosSecretáriosMunicipaiseaosdirigentesdeórgãosdaadministraçãoindireta,sobreassuntodeinteressedaadministração;XXVI-convocaroPrefeito,SecretárioMunicipaledirigentedeórgãodaadministraçãoindireta,alémdoProcuradorGeraldoMunicípio,paraprestarinformação,emplenárioouemcomissãopermanenteoudeinquérito,sobrematériadesuacompetência;XXVII-representaraoProcuradorGeraldaJustiça,mediantedeliberaçãotomadapordoisterçosdeseusmembros,contraasautoridadesreferidanoincisoanteri"
+            },
+            {
+              "pagina": 11,
+              "texto": "11a)serproprietário,controladoroudiretordeempresaquegozedefavordecorrentedecontratocompessoajurídicaintegrantedaAdministraçãoMunicipal,ounelaexercerfunçãoremunerada;b)ocuparcargooufunçãoquesejademissíveladnutum,nasentidadesreferidasnaalínea“a”doincisoI;c)patrocinarcausaemquesejainteressadaqualquerdasentidadesreferidasnoincisoI,alínea“a”,mesmoemcausaprópria;d)sertitulardemaisdeumcargooumandatopúblicoeletivo.Art.25-PerderáomandatooVereador:I-queinfringirqualquerdispositivodoartigoanterior;II-cujoprocedimentoatentecontraodecoroparlamentarouquepratiqueatolesivoaopatrimôniopúblico;III-quedeixedecomparecer,salvolicença,missãooudoençacomprovada,àterçapartedassessõesordináriasdaCâmara,deumperíodolegislativo;IV-quefixarresidênciaforadoMunicípio.§1º-Éincompatívelcomodecoroparlamentar,alémdoscasosdefinidosnoRegimentoInterno,oabusodeprerrogativasouapercepçãodevantagensindevidas.§2º-Adecisãosobreaperdademandato,precedidasempredeampladefesa,serátomadapormaioriaabsolutadosmembrosdaCâmara,emvotaçãosecreta,deofíciooumedianterepresentação,noscasosdosincisosI,II,eIV,poriniciativadaMesa,departidopolíticooudeeleitornoMunicípio.§2º-Adecisãosobreaperdademandato,precedidasempredeampladefesa,serátomadaporm"
+            },
+            {
+              "pagina": 12,
+              "texto": "12podendoexcederàdoPrefeitoMunicipal.(RedaçãoconferidapelaEmendaàLeiOrgânicanº02/1991,de05.09.1991)Art.28–OssubsídiosdosVereadoresserãofixados,anualmente,emparcelaúnica,nostermosdoparágrafo4ºdoartigo39daConstituiçãoFederal,alteradopelaEmendanº19/98,assegurando-searevisãogeralanual,nostermosdoincisoX,doartigo37daConstituiçãoFederal,comasalteraçõesintroduzidaspelaEmendanº19/98.(RedaçãoconferidapelaEmendaàLeiOrgânican°12/2000,de08.06.2000)§1º-AremuneraçãodoVereadorédivididaempartefixaepartevariável,vedadoacréscimoaqualquertítulo.§1º-OsubsídiodoVereadoréfixadoemparcelaúnicaevedadoacréscimoaqualquertítulo,excetoquantoàremuneraçãodoPresidentequeauferirárepresentaçãode2/3(doisterços)dosubsídio,observado,também,oquedispõeosartigos37,XI;39,§4º;150,II;153,IIIe153,§2º,I,todosdaConstituiçãoFederal.(RedaçãoconferidapelaEmendaàLeiOrgânicanº12/2000,de08.06.2000)§2º-PelonãocomparecimentoefetivonemjustificadodoVereadorenãoparticipaçãonavotação,éfeitoodescontocorrespondenteaumtrintaavospordiadeausência.§2º-Apartevariávelcorrespondenteàremuneraçãopelocomparecimentoàssessõeseparticipaçõesnasvotações,sendofeitoodescontocorrespondentea1/30(umtrintaavos)dapartevariável,pordiadeausência.(Redaçãoconferidap"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pdf": "municipais/_fonte/organicas-sapl/sapl.joaopessoa.pb.leg.br/14101.bin",
+      "sha256_fonte": "f859ade2226d6f03c01c2e2816990b68851354ed6d51d5ce54106bd0072ad825",
+      "total_paginas": 102,
+      "cores": [
+        {
+          "cor_original": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "caracteres": 203105,
+          "paginas": [
+            1,
+            3,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102
+          ],
+          "amostras": [
+            {
+              "pagina": 1,
+              "texto": "ESTADODAPARAÍBACâmaraMunicipaldeJoãoPessoaCasaNapoleãoLaureanoLEIORGÂNICADOMUNICÍPIODEJOÃOPESSOATextopromulgadoem02deabrilde1990(atualizadoatéaEmendaàLeiOrgânicanº44/2026)JoãoPessoaJunho,2026"
+            },
+            {
+              "pagina": 3,
+              "texto": "ESTADODAPARAÍBACâmaraMunicipaldeJoãoPessoaCasaNapoleãoLaureanoLEIORGÂNICADOMUNICÍPIODEJOÃOPESSOATextopromulgadoem02deabrilde1990(atualizadoatéaEmendaàLeiOrgânicanº44/2026)JoãoPessoaJunho,2026"
+            },
+            {
+              "pagina": 5,
+              "texto": "CâmaraMunicipal|LeiOrgânicadoMunicípioSUMÁRIOTÍTULOI...........................................................................................................................................................................8DOSPRINCÍPIOSFUNDAMENTAIS.....................................................................................................................8TÍTULOII..........................................................................................................................................................................8DAORGANIZAÇÃOMUNICIPAL...........................................................................................................................8CAPÍTULOI..................................................................................................................................................................8DisposiçõesGerais.........................................................................................................................................................8CAPÍTULOII..........................................................................................................................................................."
+            },
+            {
+              "pagina": 6,
+              "texto": "CâmaraMunicipal|LeiOrgânicadoMunicípioDOSATOSMUNICIPAIS.......................................................................................................................................42CAPÍTULOIII............................................................................................................................................................43DOSSERVIDORESPÚBLICOS............................................................................................................................43CAPÍTULOIV.............................................................................................................................................................52DOSORGANISMOSDECOOPERAÇÃO.........................................................................................................52CAPÍTULOV..............................................................................................................................................................53DOSSERVIÇOSDELEGADOS.............................................................................................................................53CAPÍTULOVI................................................................."
+            },
+            {
+              "pagina": 7,
+              "texto": "CâmaraMunicipal|LeiOrgânicadoMunicípioDaCultura..................................................................................................................................................................84SEÇÃOIII.................................................................................................................................................................85DoEsporteedoLazer............................................................................................................................................85SEÇÃOIV..................................................................................................................................................................86DaSaúde.....................................................................................................................................................................86SEÇÃOV...................................................................................................................................................................89DaPrevidênciaeAssistênciaSocial................................................................................................................"
+            },
+            {
+              "pagina": 8,
+              "texto": "CâmaraMunicipal|LeiOrgânicadoMunicípioTÍTULOIDOSPRINCÍPIOSFUNDAMENTAISArt.1ºOMunicípiodeJoãoPessoa,CapitaldoEstadodaParaíba,pessoajurídicadedireitopúblicointerno,éunidadeterritorialqueintegraaorganizaçãopolítico-administrativadaRepúblicaFederativadoBrasil,dotadadeautonomiapolítica,administrativa,financeiraelegislativa,nostermosasseguradospelaConstituiçãodoEstadoeporestaLeiOrgânica.Art.2ºAorganizaçãoMunicipalfundamenta-senacidadania,nadignidadedapessoahumana,nosvaloressociaisdotrabalhoedalivreiniciativa,nopluralismopolítico,namoralidadeadministrativaenaresponsabilidadepública.Parágrafoúnico.ConstituemobjetivosfundamentaisdoMunicípio:I-Construirumasociedadelivreejusta;II-Garantirodesenvolvimento;III-Erradicarapobrezaeamarginalizaçãoereduzirasdesigualdades;IV-Promoverobemdetodos,sempreconceitos;V-Garantiratodososcidadãosodireitoaomeioambienteecologicamentesaudáveleequilibrado.Art.3ºOMunicípioassegura,emseuterritórioenolimitedesuacompetência,aplenitudeeainviolabilidadedosdireitosegarantiasfundamentaisqueaConstituiçãoFederalreconheceeconfereaosbrasileiroseaosestrangeirosresidentesnopaís,bemcomooutrasquaisquerdecorrentesdoregimeedosprincípiosadotados.TÍTULOIIDAORGANIZAÇÃOMUNICIPALCAPÍTUL"
+            },
+            {
+              "pagina": 9,
+              "texto": "CâmaraMunicipal|LeiOrgânicadoMunicípioCAPÍTULOIIDACOMPETÊNCIASEÇÃOIDaCompetênciaPrivativaArt.5ºAoMunicípiocompeteproveratudoquantodigarespeitoaoseupeculiarinteresseeaobem-estardesuapopulação,cabendo-lheprivativamente,dentreoutras,asseguintesatribuições:I-legislarsobreassuntosdeinteresselocal;II-suplementaralegislaçãofederaleaestadual,noquecouber;III-elaboraroPlanoDiretordeDesenvolvimentoIntegrado;IV-criar,organizaresuprimirDistritos,observadaalegislaçãoestadual;V-manter,comacooperaçãotécnicaefinanceiradaUniãoedoEstado,programasdeeducaçãopré-escolaredeensinofundamentais;VI-elaboraroorçamentoanualeplurianualdeinvestimentos;VII-instituirearrecadartributos,bemcomoaplicarsuasrendas;VIII-fixar,fiscalizarecobrartarifasoupreçospúblicos;IX-disporsobreorganização,administraçãoeexecuçãodosserviçoslocais;X-disporsobreadministração,utilizaçãoealienaçãodosbenspúblicos;XI-organizaroquadroeestabeleceroregimejurídicodosservidorespúblicos;(RedaçãodadapelaEmendaàLeiOrgânicanº12/2008)XII-organizareprestar,diretamente,ousobregimedeconcessãooupermissão,osserviçospúblicos;XIII-planejarousoeocupaçãodosoloemseuterritório;XIV-estabelecernormasdeedificação,deloteamento,dearruamentoedezoneamentourbanoerural,b"
+            },
+            {
+              "pagina": 10,
+              "texto": "CâmaraMunicipal|LeiOrgânicadoMunicípioXVII-estabelecerservidõesadministrativasnecessáriasàrealizaçãodeseusserviços,inclusiveàdosseusconcessionários;XVIII-adquirirbens,inclusivemediantedesapropriação;XIX-regularadisposição,otraçadoeasdemaiscondiçõesdosbenspúblicosdeconsumo;XX-regulamentarautilizaçãodoslogradourospúblicose,especialmente,noperímetrourbano,determinaroitinerárioeospontosdeparadadostransportescoletivos;XXI-fixaroslocaisdeestacionamentosdetáxisedemaisveículos;XXII-conceder,permitirouautorizarosserviçosdetransportescoletivosedetáxis,fixandoasrespectivastarifas;XXIII-fixaresinalizaraszonasdesilênciostrânsitoetráfegoemcondiçõesespeciais;XXIV-disciplinarosserviçosdecargaedescargaefixaratonelagemmáximapermitidaaveículosquecirculememviaspúblicasmunicipais;XXV-tornarobrigatóriaautilizaçãodaestaçãorodoviária;XXVI-sinalizarasviasurbanaseasestradasmunicipais,bemcomoregulamentarefiscalizarsuautilização;XXVII-proversobrealimpezadasviaselogradourospúblicos,remoçãoedestinodolixodomiciliaredeoutrosresíduosdequalquernatureza;XXVIII-ordenarasatividadesurbanas,fixandocondiçõesehoráriosparafuncionamentodeestabelecimentosindustriais,comerciaisedeserviços,observadasasnormasfederaispertinentes"
+            },
+            {
+              "pagina": 11,
+              "texto": "CâmaraMunicipal|LeiOrgânicadoMunicípioXXXIII-fiscalizar,noslocaisdevendas,peso,medianteascondiçõessanitáriasdosgênerosalimentícios;XXXIV-disporsobreodepósitoevendadeanimaisemercadoriasapreendidasemdecorrênciadetransgressãodalegislaçãomunicipal;XXXV-disporsobreregistro,vacinaçãoecapturadeanimais,comafinalidadeprecípuadeerradicarasmoléstiasdequepossamserportadoresoutransmissores;XXXVI-estabelecereimporpenalidadesporinfraçãodesuasleiseregulamentos;XXXVII-promoverosseguintesserviços:a)mercados,feirasematadouros;b)construçãoeconservaçãodeestradasecaminhosmunicipais;c)transportescoletivosmunicipais;d)iluminaçãopública;e)serviçosbásicosdesaúdepúblicaedemedicinasocial;f)serviçosartísticoseculturais;g)serviçoseducacionaisedeformaçãoprofissional;h)serviçosdeassistênciaedepromoçãosocial;i)serviçosdelazer,recreaçãoeesportes;j)demaisserviçosdeinteressepúblicodecompetênciamunicipalnostermosdaConstituiçãoFederal.XXXVIII-regulamentaroserviçodecargosealuguel,inclusiveousodetaxímetro;XXXIX-asseguraraexpediçãodecertidõesadministrativasmunicipais,paradefesadedireitoseesclarecimentosdesituações,estabelecendoosprazosdeatendimento;XL-organizar,executar,controlarefiscalizarosserviçosdetrânsitoetráfegodaco"
+            },
+            {
+              "pagina": 12,
+              "texto": "CâmaraMunicipal|LeiOrgânicadoMunicípioXLIV–promoverainclusãodigital,odireitodeacessoàInternet,oexercíciodacidadaniaemmeiosdigitaiseaprestaçãodeserviçospúblicospormúltiploscanaisdeacesso.(IncisoacrescentadopelaEmendaàLeiOrgânicanº35/2022)SEÇÃOIIDaCompetênciaComumArt.6ºÉdacompetênciaadministrativacomumdoMunicípio,daUniãoedoEstado,observadaaleicomplementar,oexercíciodasseguintesmedidas:I-zelarpelaguardadaConstituição,dasleisedasinstituiçõesdemocráticaseconservaropatrimôniopúblico;II-cuidardasaúdeeassistênciapública,daproteçãoegarantiadaspessoasportadorasdedeficiência;III-protegerosdocumentos,asobrasdeoutrosbensdevalorhistórico,artísticoecultural,osmonumentos,aspaisagensnaturaisnotáveiseossítiosarqueológicos;IV-impediraevasão,adestruiçãoeadescaracterizaçãodeobrasdeartesedeoutrosbensdevalorhistórico,artísticooucultural;V-proporcionarosmeiosdeacessoàcultura,àeducaçãoeàciência;VI-protegeromeioambienteecombaterapoluiçãoemqualquerdesuasformas;VII-preservarasflorestas,afaunaeaflora;VIII-fomentaraproduçãoagropecuáriaeorganizaroabastecimentoalimentar;IX-promoverprogramasdeconstruçãodemoradiaseamelhoriadascondiçõeshabitacionaisedesaneamentobásico;X-combaterascausasdapobrezaeosfatoresdemarginali"
+            },
+            {
+              "pagina": 13,
+              "texto": "CâmaraMunicipal|LeiOrgânicadoMunicípioCAPÍTULOIIIDASVEDAÇÕESArt.8ºAoMunicípioévedado:I-estabelecercultosreligiososouigrejas,subvencioná-las,embaraçar-lheofuncionamentooumantercomelesouseusrepresentantesrelaçõesdedependênciaoualiança,ressalvadas,naformadalei,acolaboraçãodeinteressepúblico;II-recusarféaosdocumentospúblicos;III-criardistinçõesentrebrasileirosoupreferênciasentresi;IV-subvencionarouauxiliar,dequalquermodo,comrecursospertencentesaoscofrespúblicos,querpelaimprensa,rádio,televisão,serviçodealto-falanteouqualqueroutromeiodecomunicação,propagandapolítico-partidáriaoufinsestranhosàadministração;V-manterapublicidadedeatos,programas,obras,serviçosecampanhasdeórgãospúblicosquenãotenhamcarátereducativo,informativooudeorientaçãosocial,assimcomoapublicidadedaqualconstamnome,símbolosouimagensquecaracterizempromoçãopessoaldeautoridadesouservidorespúblicos;VI-outorgarisençõeseanistiasfiscais,oupermitiraremissãodedívidas,seminteressepúblicojustificado,sobpenadenulidadedoato;VII-criarfundoespecialouÓrgãodestinadoàaposentadoriadosAgentesPolíticosMunicipais.TÍTULOIIIDAORGANIZAÇÃODOSPODERESCAPÍTULOIDisposiçõesGeraisArt.9ºSãoPoderesdoMunicípio,independentes,harmônicosecolaborativosentresi,o"
+            },
+            {
+              "pagina": 14,
+              "texto": "CâmaraMunicipal|LeiOrgânicadoMunicípioSEÇÃOIDaCâmaraMunicipalArt.10OPoderlegislativodomunicípioéexercidopelaCâmaraMunicipal.§1ºCadalegislaturateráaduraçãodequatroanos,compreendendocadaanoumasessãolegislativa.§2ºACâmaraMunicipalserádirigidaporumaMesaDiretora,eleitaparaummandatode02(dois)anos,podendoserreeleitanumtodoouemparte.(RedaçãodadapelaEmendaàLeiOrgânicanº41/2024)§3ºAplica-seodispostono§2ºdoart.10daLeiOrgânicadoMunicípiodeJoãoPessoa,aseleiçõesdaMesaDiretorarealizadasapartirda19ªlegislatura,semconsiderarparafinsdeinelegibilidadeosmandatosanteriores,emobediênciaaoprincípiodaanuidadeeleitoralprevistanoart.16daConstituiçãoFederal.(ParágrafoacrescentadopelaEmendaàLeiOrgânicanº41/2024)Art.11ACâmaraMunicipalécompostadevinteenoveVereadoreseleitospelosistemaproporcional,comorepresentantesdopovo,commandatodequatroanos.(RedaçãodadapelaEmendaàLeiOrgânicanº37/2023)§1ºSãocondiçõesdaelegibilidadeparaomandatodeVereador,naformadaleifederal:I-anacionalidadebrasileira;II-oplenoexercíciodosdireitospolíticos;III-oalistamentoeleitoral;IV-odomicílioeleitoralnacircunscrição;V-afiliaçãopartidária;VI-aidademínimadedezoitoanos;VII-seralfabetizado.(RedaçãodadapelaEmendaàLeiOrgânicanº11/2008)§2ºACâmaraMun"
+            }
+          ]
+        },
+        {
+          "cor_original": [
+            0.0,
+            0.0,
+            0.039216
+          ],
+          "caracteres": 516,
+          "paginas": [
+            21
+          ],
+          "amostras": [
+            {
+              "pagina": 21,
+              "texto": "I-investidonafunçãodeMinistrodeEstado,SecretáriodeEstado,SecretárioExecutivoEstadual,SecretárioMunicipal,SecretárioExecutivoMunicipal,DiretorouSuperintendentedeÓrgãoPúblico,bemcomo,DirigenteMáximodeFundações,membrosdeDiretoriadeFundações,Autarquias,EmpresaseSociedadesdeeconomiaMistadaUnião,EstadoouMunicípio,devendooptarpelosvencimentosdocargooupelaremuneraçãodomandato.III-§4ºNahipótesedoincisoI,oVereadorpoderáoptarpelaremuneraçãodomandato;nahipótesedoincisoIII,ficasuspensoorecebimentodasuaremuneraçãodeVereador."
+            }
+          ]
+        },
+        {
+          "cor_original": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "caracteres": 194,
+          "paginas": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102
+          ],
+          "amostras": [
+            {
+              "pagina": 5,
+              "texto": "5"
+            },
+            {
+              "pagina": 6,
+              "texto": "6"
+            },
+            {
+              "pagina": 7,
+              "texto": "7"
+            },
+            {
+              "pagina": 8,
+              "texto": "8"
+            },
+            {
+              "pagina": 9,
+              "texto": "9"
+            },
+            {
+              "pagina": 10,
+              "texto": "10"
+            },
+            {
+              "pagina": 11,
+              "texto": "11"
+            },
+            {
+              "pagina": 12,
+              "texto": "12"
+            },
+            {
+              "pagina": 13,
+              "texto": "13"
+            },
+            {
+              "pagina": 14,
+              "texto": "14"
+            },
+            {
+              "pagina": 15,
+              "texto": "15"
+            },
+            {
+              "pagina": 16,
+              "texto": "16"
+            }
+          ]
+        },
+        {
+          "cor_original": [
+            0.752941,
+            0.752941,
+            0.752941
+          ],
+          "caracteres": 34,
+          "paginas": [
+            1
+          ],
+          "amostras": [
+            {
+              "pagina": 1,
+              "texto": "LEIORGÂNICADOMUNICÍPIODEJOÃOPESSOA"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "candidato": "municipais/PB/joao-pessoa/lei-organica/1990/lei-organica-1-1990-sapl-14101.md",
+  "comparados": 14670,
+  "baseline": "/tmp/constituicao-index-20261020-continuacao.z",
+  "baseline_sha256": "a424728b1798aae5662ce344200637c9dc3b621eca986d3d3a01b6ec22929285",
+  "criterios": [
+    "URL oficial",
+    "IBGE+tipo+número+data",
+    "SHA texto"
+  ],
+  "colisoes": []
+}

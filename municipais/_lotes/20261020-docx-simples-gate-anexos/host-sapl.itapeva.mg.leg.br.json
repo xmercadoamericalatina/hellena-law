@@ -1,0 +1,2990 @@
+{
+  "host": "sapl.itapeva.mg.leg.br",
+  "estado": "indice_completo",
+  "anexos": [
+    {
+      "id": 1,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/1/lei_1553.2021_-_subsidio_prefeito_e_secretarios.docx da norma Lei Ordinária-PEM nº 1.553, de 12 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/1",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/1/lei_1553.2021_-_subsidio_prefeito_e_secretarios.docx",
+      "ano": 2021,
+      "norma": 259
+    },
+    {
+      "id": 2,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/2/lei_ordinaria_no_1554_-_2021.doc da norma Lei Ordinária-PEM nº 1.554, de 12 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/2",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/2/lei_ordinaria_no_1554_-_2021.doc",
+      "ano": 2021,
+      "norma": 260
+    },
+    {
+      "id": 5,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/5/lei_compl._no_57_-_2021.pdf da norma Lei Complementar-PMI nº 57, de 03 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/5",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/5/lei_compl._no_57_-_2021.pdf",
+      "ano": 2021,
+      "norma": 482
+    },
+    {
+      "id": 6,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/6/resolucao_003_-2021_-_orcamento_2022.docx da norma Resolução-CMI nº 3, de 26 de agosto de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/6",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/6/resolucao_003_-2021_-_orcamento_2022.docx",
+      "ano": 2021,
+      "norma": 313
+    },
+    {
+      "id": 7,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/7/lei_1555.2021_-_cesta_natalina.doc da norma Lei Ordinária-PEM nº 1.555, de 23 de setembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/7",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/7/lei_1555.2021_-_cesta_natalina.doc",
+      "ano": 2021,
+      "norma": 779
+    },
+    {
+      "id": 8,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/8/lei__1556_-_2021.docx da norma Lei Ordinária-PEM nº 1.556, de 07 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/8",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/8/lei__1556_-_2021.docx",
+      "ano": 2021,
+      "norma": 1032
+    },
+    {
+      "id": 10,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/10/lei__1557__-_2021.docx da norma Lei Ordinária-PEM nº 1.557, de 07 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/10",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/10/lei__1557__-_2021.docx",
+      "ano": 2021,
+      "norma": 1033
+    },
+    {
+      "id": 11,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/11/portaria_18-21_-_ponto_facultativo_12_de_outubro.docx da norma Portaria-GP nº 18, de 06 de outubro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/11",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/11/portaria_18-21_-_ponto_facultativo_12_de_outubro.docx",
+      "ano": 2021,
+      "norma": 1035
+    },
+    {
+      "id": 14,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/1990/14/lei_organica_municipal_-_itapeva_-_mg_1.docx da norma Lei Orgânica-CMI nº 1, de 10 de março de 1990",
+      "link_detail_backend": "/norma/anexonormajuridica/14",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/1990/14/lei_organica_municipal_-_itapeva_-_mg_1.docx",
+      "ano": 1990,
+      "norma": 391
+    },
+    {
+      "id": 16,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/16/lei_1558_-_2021.docx da norma Lei Ordinária-PEM nº 1.558, de 01 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/16",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/16/lei_1558_-_2021.docx",
+      "ano": 2021,
+      "norma": 1068
+    },
+    {
+      "id": 17,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/17/lei_1559_-_2021.docx da norma Lei Ordinária-PEM nº 1.559, de 03 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/17",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/17/lei_1559_-_2021.docx",
+      "ano": 2021,
+      "norma": 1069
+    },
+    {
+      "id": 18,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/18/lei_1560_-_2021.doc da norma Lei Ordinária-PEM nº 1.560, de 10 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/18",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/18/lei_1560_-_2021.doc",
+      "ano": 2021,
+      "norma": 1103
+    },
+    {
+      "id": 19,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/19/lei_1561_-_2021.docx da norma Lei Ordinária-PEM nº 1.561, de 10 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/19",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/19/lei_1561_-_2021.docx",
+      "ano": 2021,
+      "norma": 1104
+    },
+    {
+      "id": 20,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/20/lei_1562_-_2021.doc da norma Lei Ordinária-PEM nº 1.562, de 30 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/20",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/20/lei_1562_-_2021.doc",
+      "ano": 2021,
+      "norma": 1147
+    },
+    {
+      "id": 21,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/21/lei_1563_-_2021.doc da norma Lei Ordinária-PEM nº 1.563, de 30 de novembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/21",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/21/lei_1563_-_2021.doc",
+      "ano": 2021,
+      "norma": 1148
+    },
+    {
+      "id": 22,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/22/lei_1564_-_2021.docx da norma Lei Ordinária-PEM nº 1.564, de 01 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/22",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/22/lei_1564_-_2021.docx",
+      "ano": 2021,
+      "norma": 1153
+    },
+    {
+      "id": 23,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/23/lei_1566_-_2021.docx da norma Lei Ordinária-PEM nº 1.566, de 15 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/23",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/23/lei_1566_-_2021.docx",
+      "ano": 2021,
+      "norma": 1160
+    },
+    {
+      "id": 24,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/24/lei_1567_-_2021.docx da norma Lei Ordinária-PEM nº 1.567, de 15 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/24",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/24/lei_1567_-_2021.docx",
+      "ano": 2021,
+      "norma": 1158
+    },
+    {
+      "id": 25,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/25/lei_1568_-_2021.docx da norma Lei Ordinária-PEM nº 1.568, de 15 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/25",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/25/lei_1568_-_2021.docx",
+      "ano": 2021,
+      "norma": 1159
+    },
+    {
+      "id": 26,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/26/lei_compl._58_-_2021.pdf da norma Lei Complementar-PEM nº 58, de 23 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/26",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/26/lei_compl._58_-_2021.pdf",
+      "ano": 2021,
+      "norma": 1161
+    },
+    {
+      "id": 27,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/27/lei_compl._59_-_2021.pdf da norma Lei Complementar-PEM nº 59, de 23 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/27",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/27/lei_compl._59_-_2021.pdf",
+      "ano": 2021,
+      "norma": 1162
+    },
+    {
+      "id": 28,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2021/28/lei_1565_-_2021.docx da norma Lei Ordinária-PEM nº 1.565, de 15 de dezembro de 2021",
+      "link_detail_backend": "/norma/anexonormajuridica/28",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2021/28/lei_1565_-_2021.docx",
+      "ano": 2021,
+      "norma": 1163
+    },
+    {
+      "id": 29,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/29/portaria__-_sao_sebastiao.pdf da norma Portaria-CMI nº 1, de 19 de janeiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/29",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/29/portaria__-_sao_sebastiao.pdf",
+      "ano": 2022,
+      "norma": 1164
+    },
+    {
+      "id": 30,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/30/lei_1569_-_2022.docx da norma Lei Ordinária-PEM nº 1.569, de 09 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/30",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/30/lei_1569_-_2022.docx",
+      "ano": 2022,
+      "norma": 1165
+    },
+    {
+      "id": 31,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/31/lei_1570_-_2022.doc da norma Lei Ordinária-PEM nº 1.570, de 09 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/31",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/31/lei_1570_-_2022.doc",
+      "ano": 2022,
+      "norma": 1166
+    },
+    {
+      "id": 32,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/32/lei_1571_-_2022.doc da norma Lei Ordinária-PEM nº 1.571, de 09 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/32",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/32/lei_1571_-_2022.doc",
+      "ano": 2022,
+      "norma": 1167
+    },
+    {
+      "id": 33,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/33/lei_1572_-_2022.doc da norma Lei Ordinária-PEM nº 1.572, de 09 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/33",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/33/lei_1572_-_2022.doc",
+      "ano": 2022,
+      "norma": 1168
+    },
+    {
+      "id": 34,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/34/lei_compl._60_-_2022.doc da norma Lei Complementar-PEM nº 60, de 09 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/34",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/34/lei_compl._60_-_2022.doc",
+      "ano": 2022,
+      "norma": 1169
+    },
+    {
+      "id": 35,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/35/lei_1573_-_2022.doc da norma Lei Ordinária-PEM nº 1.573, de 11 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/35",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/35/lei_1573_-_2022.doc",
+      "ano": 2022,
+      "norma": 1170
+    },
+    {
+      "id": 36,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/36/lei_1574_-_2022.doc da norma Lei Ordinária-PEM nº 1.574, de 11 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/36",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/36/lei_1574_-_2022.doc",
+      "ano": 2022,
+      "norma": 1171
+    },
+    {
+      "id": 37,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/37/lei_1575_-_2022.doc da norma Lei Ordinária-PEM nº 1.575, de 11 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/37",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/37/lei_1575_-_2022.doc",
+      "ano": 2022,
+      "norma": 1172
+    },
+    {
+      "id": 38,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/38/lei_1576_-_2022.doc da norma Lei Ordinária-PEM nº 1.576, de 11 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/38",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/38/lei_1576_-_2022.doc",
+      "ano": 2022,
+      "norma": 1173
+    },
+    {
+      "id": 39,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/39/lei_1577_-_2022.doc da norma Lei Ordinária-PEM nº 1.577, de 11 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/39",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/39/lei_1577_-_2022.doc",
+      "ano": 2022,
+      "norma": 1174
+    },
+    {
+      "id": 40,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/40/lei_1578_-_2022.doc da norma Lei Ordinária-PEM nº 1.578, de 11 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/40",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/40/lei_1578_-_2022.doc",
+      "ano": 2022,
+      "norma": 1175
+    },
+    {
+      "id": 41,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/41/lei_compl._61_-_2022.doc da norma Lei Complementar-PEM nº 61, de 11 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/41",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/41/lei_compl._61_-_2022.doc",
+      "ano": 2022,
+      "norma": 1176
+    },
+    {
+      "id": 42,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/42/decr.leg._01_-_2022.docx da norma Decreto Legislativo-CMI nº 1, de 03 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/42",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/42/decr.leg._01_-_2022.docx",
+      "ano": 2022,
+      "norma": 1177
+    },
+    {
+      "id": 43,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/43/lei_1579_-_2022.doc da norma Lei Ordinária-PEM nº 1.579, de 25 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/43",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/43/lei_1579_-_2022.doc",
+      "ano": 2022,
+      "norma": 1178
+    },
+    {
+      "id": 44,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/44/lei_1580_-_2022.doc da norma Lei Ordinária-PEM nº 1.580, de 25 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/44",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/44/lei_1580_-_2022.doc",
+      "ano": 2022,
+      "norma": 1179
+    },
+    {
+      "id": 45,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/45/lei_1581_-_2022.doc da norma Lei Ordinária-PEM nº 1.581, de 25 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/45",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/45/lei_1581_-_2022.doc",
+      "ano": 2022,
+      "norma": 1180
+    },
+    {
+      "id": 46,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/46/lei_compl._62_-_2022.doc da norma Lei Complementar-PEM nº 62, de 25 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/46",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/46/lei_compl._62_-_2022.doc",
+      "ano": 2022,
+      "norma": 1181
+    },
+    {
+      "id": 47,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/47/lei_compl._63_-_2022.doc da norma Lei Complementar-PEM nº 63, de 25 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/47",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/47/lei_compl._63_-_2022.doc",
+      "ano": 2022,
+      "norma": 1182
+    },
+    {
+      "id": 48,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/48/lei_compl._64_-_2022.doc da norma Lei Complementar-PEM nº 64, de 25 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/48",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/48/lei_compl._64_-_2022.doc",
+      "ano": 2022,
+      "norma": 1183
+    },
+    {
+      "id": 49,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/49/lei_compl._65_-_2022.doc da norma Lei Complementar-PEM nº 65, de 25 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/49",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/49/lei_compl._65_-_2022.doc",
+      "ano": 2022,
+      "norma": 1184
+    },
+    {
+      "id": 50,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/50/lei_1582_-_2022.doc da norma Lei Ordinária-PEM nº 1.582, de 25 de abril de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/50",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/50/lei_1582_-_2022.doc",
+      "ano": 2022,
+      "norma": 1185
+    },
+    {
+      "id": 51,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/51/lei_1583_-_2022.doc da norma Lei Ordinária-PEM nº 1.583, de 11 de maio de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/51",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/51/lei_1583_-_2022.doc",
+      "ano": 2022,
+      "norma": 1187
+    },
+    {
+      "id": 52,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/52/lei_1230_-_2013_de_08_de_marco.pdf da norma Lei Ordinária-PMI nº 1.230, de 08 de março de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/52",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2013/52/lei_1230_-_2013_de_08_de_marco.pdf",
+      "ano": 2013,
+      "norma": 448
+    },
+    {
+      "id": 53,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/53/lei_1232_-_2013_de_08_de_marco.pdf da norma Lei Ordinária-PMI nº 1.232, de 08 de março de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/53",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2013/53/lei_1232_-_2013_de_08_de_marco.pdf",
+      "ano": 2013,
+      "norma": 450
+    },
+    {
+      "id": 54,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/54/lei_1233_-_2013_de_08_de_marco.pdf da norma Lei Ordinária-PMI nº 1.233, de 08 de março de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/54",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2013/54/lei_1233_-_2013_de_08_de_marco.pdf",
+      "ano": 2013,
+      "norma": 451
+    },
+    {
+      "id": 55,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/55/lei_1584_-_2022.doc da norma Lei Ordinária-PEM nº 1.584, de 10 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/55",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/55/lei_1584_-_2022.doc",
+      "ano": 2022,
+      "norma": 1188
+    },
+    {
+      "id": 56,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/56/lei_1585_-_2022.doc da norma Lei Ordinária-PEM nº 1.585, de 23 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/56",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/56/lei_1585_-_2022.doc",
+      "ano": 2022,
+      "norma": 1191
+    },
+    {
+      "id": 57,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/57/lei_1586_-_2022.doc da norma Lei Ordinária-PEM nº 1.586, de 23 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/57",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/57/lei_1586_-_2022.doc",
+      "ano": 2022,
+      "norma": 1192
+    },
+    {
+      "id": 58,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/58/lei_1587_-_2022.doc da norma Lei Ordinária-PEM nº 1.587, de 23 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/58",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/58/lei_1587_-_2022.doc",
+      "ano": 2022,
+      "norma": 1193
+    },
+    {
+      "id": 59,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/59/lei_1588_-_2022.doc da norma Lei Ordinária-PEM nº 1.588, de 23 de junho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/59",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/59/lei_1588_-_2022.doc",
+      "ano": 2022,
+      "norma": 1194
+    },
+    {
+      "id": 60,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/60/lei_compl.66.doc da norma Lei Complementar-PEM nº 66, de 22 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/60",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/60/lei_compl.66.doc",
+      "ano": 2022,
+      "norma": 1199
+    },
+    {
+      "id": 61,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/61/lei_1589_-_2022.docx da norma Lei Ordinária-PEM nº 1.589, de 13 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/61",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/61/lei_1589_-_2022.docx",
+      "ano": 2022,
+      "norma": 1197
+    },
+    {
+      "id": 62,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/62/lei_1590_-_2022.docx da norma Lei Ordinária-PEM nº 1.590, de 13 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/62",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/62/lei_1590_-_2022.docx",
+      "ano": 2022,
+      "norma": 1196
+    },
+    {
+      "id": 63,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/63/lei_1591_-_2022.doc da norma Lei Ordinária-CMI nº 1.591, de 13 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/63",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/63/lei_1591_-_2022.doc",
+      "ano": 2022,
+      "norma": 1195
+    },
+    {
+      "id": 64,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/64/lei_1592_-_2022.doc da norma Lei Ordinária-PEM nº 1.592, de 22 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/64",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/64/lei_1592_-_2022.doc",
+      "ano": 2022,
+      "norma": 1198
+    },
+    {
+      "id": 65,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/65/lei_1593_-_2022.docx da norma Lei Ordinária-PEM nº 1.593, de 22 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/65",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/65/lei_1593_-_2022.docx",
+      "ano": 2022,
+      "norma": 1200
+    },
+    {
+      "id": 66,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/66/lei_1594_-_2022.docx da norma Lei Ordinária-PEM nº 1.594, de 22 de julho de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/66",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/66/lei_1594_-_2022.docx",
+      "ano": 2022,
+      "norma": 1201
+    },
+    {
+      "id": 67,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/67/lei_1595_-_2022.doc da norma Lei Ordinária-PEM nº 1.595, de 02 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/67",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/67/lei_1595_-_2022.doc",
+      "ano": 2022,
+      "norma": 1202
+    },
+    {
+      "id": 68,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/68/lei_1596_-_2022.doc da norma Lei Ordinária-PEM nº 1.596, de 02 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/68",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/68/lei_1596_-_2022.doc",
+      "ano": 2022,
+      "norma": 1203
+    },
+    {
+      "id": 69,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/69/lei_1597_-_2022.doc da norma Lei Ordinária-PEM nº 1.597, de 02 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/69",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/69/lei_1597_-_2022.doc",
+      "ano": 2022,
+      "norma": 1204
+    },
+    {
+      "id": 70,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/70/lei_1598_-_2022.doc da norma Lei Ordinária-PEM nº 1.598, de 02 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/70",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/70/lei_1598_-_2022.doc",
+      "ano": 2022,
+      "norma": 1205
+    },
+    {
+      "id": 71,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/71/lei_1599_-_2022.doc da norma Lei Ordinária-PEM nº 1.599, de 02 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/71",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/71/lei_1599_-_2022.doc",
+      "ano": 2022,
+      "norma": 1206
+    },
+    {
+      "id": 72,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/72/lei_1600_-_2022.docx da norma Lei Ordinária-PEM nº 1.600, de 30 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/72",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/72/lei_1600_-_2022.docx",
+      "ano": 2022,
+      "norma": 1207
+    },
+    {
+      "id": 73,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/73/lei_1601_-_2022.docx da norma Lei Ordinária-PEM nº 1.601, de 30 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/73",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/73/lei_1601_-_2022.docx",
+      "ano": 2022,
+      "norma": 1208
+    },
+    {
+      "id": 74,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/74/lei_1602_-_2022.doc da norma Lei Ordinária-PEM nº 1.602, de 30 de setembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/74",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/74/lei_1602_-_2022.doc",
+      "ano": 2022,
+      "norma": 1209
+    },
+    {
+      "id": 75,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/75/lei_compl._67_-_2022.docx da norma Lei Complementar-PEM nº 67, de 06 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/75",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/75/lei_compl._67_-_2022.docx",
+      "ano": 2022,
+      "norma": 1210
+    },
+    {
+      "id": 76,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/76/lei_1604_-_2022.docx da norma Lei Ordinária-PEM nº 1.604, de 06 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/76",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/76/lei_1604_-_2022.docx",
+      "ano": 2022,
+      "norma": 1212
+    },
+    {
+      "id": 77,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/77/lei_1605_-_2022.docx da norma Lei Ordinária-PEM nº 1.605, de 06 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/77",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/77/lei_1605_-_2022.docx",
+      "ano": 2022,
+      "norma": 1213
+    },
+    {
+      "id": 78,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/78/lei_1606_-_2022.docx da norma Lei Ordinária-PEM nº 1.606, de 06 de outubro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/78",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/78/lei_1606_-_2022.docx",
+      "ano": 2022,
+      "norma": 1214
+    },
+    {
+      "id": 79,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/79/lei_1607_-_2022.docx da norma Lei Ordinária-PEM nº 1.607, de 16 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/79",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/79/lei_1607_-_2022.docx",
+      "ano": 2022,
+      "norma": 1215
+    },
+    {
+      "id": 80,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/80/lei_1608_-_2022.docx da norma Lei Ordinária-PEM nº 1.608, de 24 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/80",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/80/lei_1608_-_2022.docx",
+      "ano": 2022,
+      "norma": 1216
+    },
+    {
+      "id": 81,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/81/lei_1609_-_2022.docx da norma Lei Ordinária-PEM nº 1.609, de 24 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/81",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/81/lei_1609_-_2022.docx",
+      "ano": 2022,
+      "norma": 1217
+    },
+    {
+      "id": 82,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/82/lei_1610_-_2022.docx da norma Lei Ordinária-PEM nº 1.610, de 24 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/82",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/82/lei_1610_-_2022.docx",
+      "ano": 2022,
+      "norma": 1218
+    },
+    {
+      "id": 83,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/83/lei_compl._68_-_2022.docx da norma Lei Complementar-PEM nº 68, de 24 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/83",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/83/lei_compl._68_-_2022.docx",
+      "ano": 2022,
+      "norma": 1219
+    },
+    {
+      "id": 84,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/84/lei_compl._69_-_2022.docx da norma Lei Complementar-PEM nº 69, de 24 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/84",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/84/lei_compl._69_-_2022.docx",
+      "ano": 2022,
+      "norma": 1220
+    },
+    {
+      "id": 85,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/85/lei_compl._70_-_2022.docx da norma Lei Complementar-PEM nº 70, de 24 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/85",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/85/lei_compl._70_-_2022.docx",
+      "ano": 2022,
+      "norma": 1221
+    },
+    {
+      "id": 86,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/86/lei_compl._71_-_2022.docx da norma Lei Complementar-PEM nº 71, de 24 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/86",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/86/lei_compl._71_-_2022.docx",
+      "ano": 2022,
+      "norma": 1222
+    },
+    {
+      "id": 87,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/87/lei_compl._72_-_2022.docx da norma Lei Complementar-PEM nº 72, de 24 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/87",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/87/lei_compl._72_-_2022.docx",
+      "ano": 2022,
+      "norma": 1223
+    },
+    {
+      "id": 88,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/88/lei_compl._73_-_2022.docx da norma Lei Complementar-PEM nº 73, de 24 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/88",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/88/lei_compl._73_-_2022.docx",
+      "ano": 2022,
+      "norma": 1224
+    },
+    {
+      "id": 89,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/89/lei_compl._74_-_2022.docx da norma Lei Complementar-PEM nº 74, de 24 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/89",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/89/lei_compl._74_-_2022.docx",
+      "ano": 2022,
+      "norma": 1225
+    },
+    {
+      "id": 90,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/90/lei_compl._75_-_2022.docx da norma Lei Complementar-PEM nº 75, de 24 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/90",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/90/lei_compl._75_-_2022.docx",
+      "ano": 2022,
+      "norma": 1226
+    },
+    {
+      "id": 91,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/91/lei_1611_-_2022.docx da norma Lei Ordinária-PEM nº 1.611, de 08 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/91",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/91/lei_1611_-_2022.docx",
+      "ano": 2022,
+      "norma": 1227
+    },
+    {
+      "id": 92,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/92/lei_1612_-_2022.docx da norma Lei Ordinária-PEM nº 1.612, de 08 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/92",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/92/lei_1612_-_2022.docx",
+      "ano": 2022,
+      "norma": 1228
+    },
+    {
+      "id": 93,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/93/lei_1613_-_2022.docx da norma Lei Ordinária-PEM nº 1.613, de 08 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/93",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/93/lei_1613_-_2022.docx",
+      "ano": 2022,
+      "norma": 1229
+    },
+    {
+      "id": 94,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/94/lei_1614_-_2022.docx da norma Lei Ordinária-PEM nº 1.614, de 08 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/94",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/94/lei_1614_-_2022.docx",
+      "ano": 2022,
+      "norma": 1230
+    },
+    {
+      "id": 95,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/95/dl_04-22_-_titulo_cidadao_-_sargento_willian.docx da norma Decreto Legislativo-CMI nº 4, de 26 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/95",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/95/dl_04-22_-_titulo_cidadao_-_sargento_willian.docx",
+      "ano": 2022,
+      "norma": 1231
+    },
+    {
+      "id": 96,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/96/dl_05-22_-_titulo_cidadao_-_egildo_jose_ferreira.docx da norma Decreto Legislativo-CMI nº 5, de 26 de dezembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/96",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/96/dl_05-22_-_titulo_cidadao_-_egildo_jose_ferreira.docx",
+      "ano": 2022,
+      "norma": 1232
+    },
+    {
+      "id": 97,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/97/lei_1615_-_2023.docx da norma Lei Ordinária-PEM nº 1.615, de 02 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/97",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/97/lei_1615_-_2023.docx",
+      "ano": 2023,
+      "norma": 1234
+    },
+    {
+      "id": 98,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/98/lei_1616_-_2023.docx da norma Lei Ordinária-PEM nº 1.616, de 02 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/98",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/98/lei_1616_-_2023.docx",
+      "ano": 2023,
+      "norma": 1235
+    },
+    {
+      "id": 99,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/99/lei_1617_-_2023.docx da norma Lei Ordinária-PEM nº 1.617, de 02 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/99",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/99/lei_1617_-_2023.docx",
+      "ano": 2023,
+      "norma": 1236
+    },
+    {
+      "id": 100,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/100/lei_1617_-_2023_anexos.pdf da norma Lei Ordinária-PEM nº 1.617, de 02 de janeiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/100",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/100/lei_1617_-_2023_anexos.pdf",
+      "ano": 2023,
+      "norma": 1236
+    },
+    {
+      "id": 101,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/101/lei_1618_-_2023.docx da norma Lei Ordinária-PEM nº 1.618, de 14 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/101",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/101/lei_1618_-_2023.docx",
+      "ano": 2023,
+      "norma": 1239
+    },
+    {
+      "id": 102,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/102/lei_1619_-_2023.docx da norma Lei Ordinária-PEM nº 1.619, de 14 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/102",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/102/lei_1619_-_2023.docx",
+      "ano": 2023,
+      "norma": 1240
+    },
+    {
+      "id": 103,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/103/lei_compl._76_-_2023.docx da norma Lei Complementar-PEM nº 76, de 14 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/103",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/103/lei_compl._76_-_2023.docx",
+      "ano": 2023,
+      "norma": 1241
+    },
+    {
+      "id": 104,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/104/lei_1620_-_2023.docx da norma Lei Ordinária-PEM nº 1.620, de 14 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/104",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/104/lei_1620_-_2023.docx",
+      "ano": 2023,
+      "norma": 1242
+    },
+    {
+      "id": 105,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/105/lei_1621_-_2023.docx da norma Lei Ordinária-PEM nº 1.621, de 16 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/105",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/105/lei_1621_-_2023.docx",
+      "ano": 2023,
+      "norma": 1243
+    },
+    {
+      "id": 106,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/106/lei_compl._77_-_2023.docx da norma Lei Complementar-PEM nº 77, de 16 de fevereiro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/106",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/106/lei_compl._77_-_2023.docx",
+      "ano": 2023,
+      "norma": 1244
+    },
+    {
+      "id": 107,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/107/lei_1607_-_2022.pdf da norma Lei Ordinária-PEM nº 1.607, de 16 de novembro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/107",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/107/lei_1607_-_2022.pdf",
+      "ano": 2022,
+      "norma": 1215
+    },
+    {
+      "id": 108,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/108/lei_compl._78_-_2023.docx da norma Lei Complementar-PEM nº 78, de 17 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/108",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/108/lei_compl._78_-_2023.docx",
+      "ano": 2023,
+      "norma": 1245
+    },
+    {
+      "id": 109,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/109/lei_1622_-_2023.pdf da norma Lei Ordinária-PEM nº 1.622, de 17 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/109",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/109/lei_1622_-_2023.pdf",
+      "ano": 2023,
+      "norma": 1246
+    },
+    {
+      "id": 110,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/110/lei_compl._79_-_2023.docx da norma Lei Complementar-PEM nº 79, de 29 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/110",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/110/lei_compl._79_-_2023.docx",
+      "ano": 2023,
+      "norma": 1247
+    },
+    {
+      "id": 111,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/111/lei_compl._80_-_2023.docx da norma Lei Complementar-PEM nº 80, de 31 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/111",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/111/lei_compl._80_-_2023.docx",
+      "ano": 2023,
+      "norma": 1248
+    },
+    {
+      "id": 112,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2003/112/resolucao_03-2003_-_regimento_interno_da_camara.docx da norma Regimento Interno-CMI nº 1, de 12 de maio de 2003",
+      "link_detail_backend": "/norma/anexonormajuridica/112",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2003/112/resolucao_03-2003_-_regimento_interno_da_camara.docx",
+      "ano": 2003,
+      "norma": 1034
+    },
+    {
+      "id": 113,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/113/lei_compl._81_-_2023.docx da norma Lei Complementar-PEM nº 81, de 17 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/113",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/113/lei_compl._81_-_2023.docx",
+      "ano": 2023,
+      "norma": 1250
+    },
+    {
+      "id": 115,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/115/lei_1623_-_2023.docx da norma Lei Ordinária-PEM nº 1.623, de 17 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/115",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/115/lei_1623_-_2023.docx",
+      "ano": 2023,
+      "norma": 1252
+    },
+    {
+      "id": 116,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/116/lei_1624_-_2023.docx da norma Lei Ordinária-PEM nº 1.624, de 17 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/116",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/116/lei_1624_-_2023.docx",
+      "ano": 2023,
+      "norma": 1253
+    },
+    {
+      "id": 117,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/117/lei_1625_-_2023.docx da norma Lei Ordinária-PEM nº 1.625, de 17 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/117",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/117/lei_1625_-_2023.docx",
+      "ano": 2023,
+      "norma": 1254
+    },
+    {
+      "id": 118,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/118/lei_1626_-_2023.docx da norma Lei Ordinária-PEM nº 1.626, de 17 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/118",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/118/lei_1626_-_2023.docx",
+      "ano": 2023,
+      "norma": 1255
+    },
+    {
+      "id": 121,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/121/lei_1627_-_2023.docx da norma Lei Ordinária-PEM nº 1.627, de 27 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/121",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/121/lei_1627_-_2023.docx",
+      "ano": 2023,
+      "norma": 1256
+    },
+    {
+      "id": 122,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/122/lei_1628_-_2023.docx da norma Lei Ordinária-PEM nº 1.628, de 27 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/122",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/122/lei_1628_-_2023.docx",
+      "ano": 2023,
+      "norma": 1257
+    },
+    {
+      "id": 123,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/123/lei_1629_-_2023.docx da norma Lei Ordinária-PEM nº 1.629, de 27 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/123",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/123/lei_1629_-_2023.docx",
+      "ano": 2023,
+      "norma": 1258
+    },
+    {
+      "id": 124,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/124/lei_ordinaria_1283_-_2014_-_plano_de_saude_camara.docx da norma Lei Ordinária-PMI nº 1.283, de 25 de setembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/124",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2014/124/lei_ordinaria_1283_-_2014_-_plano_de_saude_camara.docx",
+      "ano": 2014,
+      "norma": 503
+    },
+    {
+      "id": 126,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/126/lei_ordinaria_1283-2014-plano_saude_camara_-_texto_compilado.docx da norma Lei Ordinária-PMI nº 1.283, de 25 de setembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/126",
+      "metadata": {},
+      "assunto_anexo": "Texto compilado com as alterações que menciona.",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2014/126/lei_ordinaria_1283-2014-plano_saude_camara_-_texto_compilado.docx",
+      "ano": 2014,
+      "norma": 503
+    },
+    {
+      "id": 127,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2014/127/lei_ordinaria_1283-2014-plano_saude_camara_-_texto_compilado.pdf da norma Lei Ordinária-PMI nº 1.283, de 25 de setembro de 2014",
+      "link_detail_backend": "/norma/anexonormajuridica/127",
+      "metadata": {},
+      "assunto_anexo": "Texto compilado com as alterações que menciona, no formato pdf.",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2014/127/lei_ordinaria_1283-2014-plano_saude_camara_-_texto_compilado.pdf",
+      "ano": 2014,
+      "norma": 503
+    },
+    {
+      "id": 128,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/128/lei_1630_-_2023.docx da norma Lei Ordinária-PEM nº 1.630, de 01 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/128",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/128/lei_1630_-_2023.docx",
+      "ano": 2023,
+      "norma": 1260
+    },
+    {
+      "id": 129,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/129/lei_1631_-_2023.docx da norma Lei Ordinária-PEM nº 1.631, de 01 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/129",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/129/lei_1631_-_2023.docx",
+      "ano": 2023,
+      "norma": 1261
+    },
+    {
+      "id": 130,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/130/resolucao_md_01-19_-_atualizacao_de_valores_de_diarias.pdf da norma Resolução-CMI nº 3, de 23 de setembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/130",
+      "metadata": {},
+      "assunto_anexo": "Atualiza valores das diárias constantes do Anexo I.",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2010/130/resolucao_md_01-19_-_atualizacao_de_valores_de_diarias.pdf",
+      "ano": 2010,
+      "norma": 871
+    },
+    {
+      "id": 131,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/131/resolucao_md_01-19_-_atualizacao_de_valores_de_diarias.docx da norma Resolução-CMI nº 3, de 23 de setembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/131",
+      "metadata": {},
+      "assunto_anexo": "Atualiza valores das diárias constantes do Anexo I.",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2010/131/resolucao_md_01-19_-_atualizacao_de_valores_de_diarias.docx",
+      "ano": 2010,
+      "norma": 871
+    },
+    {
+      "id": 132,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/132/resolucao_md_05-2023.docx da norma Resolução-CMI nº 3, de 23 de setembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/132",
+      "metadata": {},
+      "assunto_anexo": "Atualiza valores das diárias constantes do Anexo I.",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2010/132/resolucao_md_05-2023.docx",
+      "ano": 2010,
+      "norma": 871
+    },
+    {
+      "id": 133,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2010/133/resolucao_md_05-2023.pdf da norma Resolução-CMI nº 3, de 23 de setembro de 2010",
+      "link_detail_backend": "/norma/anexonormajuridica/133",
+      "metadata": {},
+      "assunto_anexo": "Atualiza valores das diárias constantes do Anexo I.",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2010/133/resolucao_md_05-2023.pdf",
+      "ano": 2010,
+      "norma": 871
+    },
+    {
+      "id": 134,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/134/lc_22_-2012_-_plano_de_carreiras_da_camara.docx da norma Lei Complementar-PMI nº 22, de 26 de junho de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/134",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2012/134/lc_22_-2012_-_plano_de_carreiras_da_camara.docx",
+      "ano": 2012,
+      "norma": 532
+    },
+    {
+      "id": 135,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/135/lei_compl._83_-_2023.docx da norma Lei Complementar-PEM nº 83, de 13 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/135",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/135/lei_compl._83_-_2023.docx",
+      "ano": 2023,
+      "norma": 1263
+    },
+    {
+      "id": 136,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/136/lei_1632_-_2023.docx da norma Lei Ordinária-PEM nº 1.632, de 19 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/136",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/136/lei_1632_-_2023.docx",
+      "ano": 2023,
+      "norma": 1264
+    },
+    {
+      "id": 137,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/137/lei_1633_-_2023.docx da norma Lei Ordinária-PEM nº 1.633, de 19 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/137",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/137/lei_1633_-_2023.docx",
+      "ano": 2023,
+      "norma": 1265
+    },
+    {
+      "id": 139,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/139/lei_complementar_n.o_60-2022_-_altera_plano_de_carreiras_-_consolidado_com_alteracoes.docx da norma Lei Complementar-PEM nº 60, de 09 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/139",
+      "metadata": {},
+      "assunto_anexo": "Texto consolidado com alterações da LC 67/2022.",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/139/lei_complementar_n.o_60-2022_-_altera_plano_de_carreiras_-_consolidado_com_alteracoes.docx",
+      "ano": 2022,
+      "norma": 1169
+    },
+    {
+      "id": 140,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/140/anexo_ii_da_lc_60-2022.docx da norma Lei Complementar-PEM nº 60, de 09 de fevereiro de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/140",
+      "metadata": {},
+      "assunto_anexo": "Anexo II",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/140/anexo_ii_da_lc_60-2022.docx",
+      "ano": 2022,
+      "norma": 1169
+    },
+    {
+      "id": 141,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/141/lc_22-2012_-_plano_de_carreiras_da_camara_-_texto_consolidado_com_as_alteracoes.pdf da norma Lei Complementar-PMI nº 22, de 26 de junho de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/141",
+      "metadata": {},
+      "assunto_anexo": "Texto consolidado com as alterações posteriores.",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2012/141/lc_22-2012_-_plano_de_carreiras_da_camara_-_texto_consolidado_com_as_alteracoes.pdf",
+      "ano": 2012,
+      "norma": 532
+    },
+    {
+      "id": 142,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/142/lei_compl._84_-_2023.docx da norma Lei Complementar-PEM nº 84, de 06 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/142",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/142/lei_compl._84_-_2023.docx",
+      "ano": 2023,
+      "norma": 1266
+    },
+    {
+      "id": 143,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/143/lei_compl_85_-_2023.docx da norma Lei Complementar-PEM nº 85, de 13 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/143",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/143/lei_compl_85_-_2023.docx",
+      "ano": 2023,
+      "norma": 1267
+    },
+    {
+      "id": 144,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/144/lei_1634_-_2023.docx da norma Lei Ordinária-PEM nº 1.634, de 13 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/144",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/144/lei_1634_-_2023.docx",
+      "ano": 2023,
+      "norma": 1268
+    },
+    {
+      "id": 145,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/145/lei_1635_-_2023.docx da norma Lei Ordinária-PEM nº 1.635, de 13 de julho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/145",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/145/lei_1635_-_2023.docx",
+      "ano": 2023,
+      "norma": 1269
+    },
+    {
+      "id": 146,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/146/lei_1636_-_2023.docx da norma Lei Ordinária-PEM nº 1.636, de 21 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/146",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/146/lei_1636_-_2023.docx",
+      "ano": 2023,
+      "norma": 1270
+    },
+    {
+      "id": 147,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/147/lei_1637_-_2023.docx da norma Lei Ordinária-PEM nº 1.637, de 21 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/147",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/147/lei_1637_-_2023.docx",
+      "ano": 2023,
+      "norma": 1271
+    },
+    {
+      "id": 148,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/148/lei_1638_-_2023.docx da norma Lei Ordinária-PEM nº 1.638, de 21 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/148",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/148/lei_1638_-_2023.docx",
+      "ano": 2023,
+      "norma": 1272
+    },
+    {
+      "id": 150,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/150/lei_1640_-_2023.docx da norma Lei Ordinária-PEM nº 1.640, de 23 de agosto de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/150",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/150/lei_1640_-_2023.docx",
+      "ano": 2023,
+      "norma": 1274
+    },
+    {
+      "id": 153,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/153/lei_ordinaria_1224_-2012_-_comite_de_investimentos_fapemi_-_texto_consolidado.pdf da norma Lei Ordinária-PMI nº 1.224, de 21 de setembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/153",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2012/153/lei_ordinaria_1224_-2012_-_comite_de_investimentos_fapemi_-_texto_consolidado.pdf",
+      "ano": 2012,
+      "norma": 442
+    },
+    {
+      "id": 154,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/154/lei_ordinaria_1224_-2012_-_comite_de_investimentos_fapemi_-_texto_consolidado.docx da norma Lei Ordinária-PMI nº 1.224, de 21 de setembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/154",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2012/154/lei_ordinaria_1224_-2012_-_comite_de_investimentos_fapemi_-_texto_consolidado.docx",
+      "ano": 2012,
+      "norma": 442
+    },
+    {
+      "id": 155,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2012/155/lei_ordinaria_1224_-2012_-_fapemi.docx da norma Lei Ordinária-PMI nº 1.224, de 21 de setembro de 2012",
+      "link_detail_backend": "/norma/anexonormajuridica/155",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2012/155/lei_ordinaria_1224_-2012_-_fapemi.docx",
+      "ano": 2012,
+      "norma": 442
+    },
+    {
+      "id": 156,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/156/lei_1641_-_2023.docx da norma Lei Ordinária-PEM nº 1.641, de 29 de setembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/156",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/156/lei_1641_-_2023.docx",
+      "ano": 2023,
+      "norma": 1275
+    },
+    {
+      "id": 157,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/157/lei_1642_-_2023.docx da norma Lei Ordinária-PEM nº 1.642, de 11 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/157",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/157/lei_1642_-_2023.docx",
+      "ano": 2023,
+      "norma": 1276
+    },
+    {
+      "id": 158,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/158/lei_1643_-_2023.docx da norma Lei Ordinária-PEM nº 1.643, de 11 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/158",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/158/lei_1643_-_2023.docx",
+      "ano": 2023,
+      "norma": 1277
+    },
+    {
+      "id": 159,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/159/lei_compl._86_-_2023.docx da norma Lei Complementar-PEM nº 86, de 11 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/159",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/159/lei_compl._86_-_2023.docx",
+      "ano": 2023,
+      "norma": 1278
+    },
+    {
+      "id": 160,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/160/lei_compl._87_-_2023.docx da norma Lei Complementar-PEM nº 87, de 11 de outubro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/160",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/160/lei_compl._87_-_2023.docx",
+      "ano": 2023,
+      "norma": 1279
+    },
+    {
+      "id": 161,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/161/lei_1644_-_2023.docx da norma Lei Ordinária-PEM nº 1.644, de 06 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/161",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/161/lei_1644_-_2023.docx",
+      "ano": 2023,
+      "norma": 1283
+    },
+    {
+      "id": 162,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/162/lei_municipal_n.o_1.035-2008_-_fapemi_-_texto_consolidado_08.11.2023.docx da norma Lei Ordinária-PMI nº 1.035, de 07 de janeiro de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/162",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2008/162/lei_municipal_n.o_1.035-2008_-_fapemi_-_texto_consolidado_08.11.2023.docx",
+      "ano": 2008,
+      "norma": 233
+    },
+    {
+      "id": 163,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2008/163/lei_municipal_n.o_1.035-2008_-_fapemi_-_texto_consolidado_08.11.2023.pdf da norma Lei Ordinária-PMI nº 1.035, de 07 de janeiro de 2008",
+      "link_detail_backend": "/norma/anexonormajuridica/163",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2008/163/lei_municipal_n.o_1.035-2008_-_fapemi_-_texto_consolidado_08.11.2023.pdf",
+      "ano": 2008,
+      "norma": 233
+    },
+    {
+      "id": 164,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/164/lei_1646_-_2023.docx da norma Lei Ordinária-PEM nº 1.646, de 16 de novembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/164",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/164/lei_1646_-_2023.docx",
+      "ano": 2023,
+      "norma": 1285
+    },
+    {
+      "id": 165,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/165/emenda_organizacional_n.o_11.docx da norma Emenda à Lei Orgânica-CMI nº 11, de 06 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/165",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/165/emenda_organizacional_n.o_11.docx",
+      "ano": 2023,
+      "norma": 1287
+    },
+    {
+      "id": 166,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/166/lei_1647_-_2023.docx da norma Lei Ordinária-PEM nº 1.647, de 11 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/166",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/166/lei_1647_-_2023.docx",
+      "ano": 2023,
+      "norma": 1288
+    },
+    {
+      "id": 167,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/167/lei_1648_-_2023.docx da norma Lei Ordinária-PEM nº 1.648, de 11 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/167",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/167/lei_1648_-_2023.docx",
+      "ano": 2023,
+      "norma": 1289
+    },
+    {
+      "id": 168,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/168/lei_1649_-_2023.docx da norma Lei Ordinária-PEM nº 1.649, de 13 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/168",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/168/lei_1649_-_2023.docx",
+      "ano": 2023,
+      "norma": 1290
+    },
+    {
+      "id": 169,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/169/lei_compl._88_-_2023.docx da norma Lei Complementar-PEM nº 88, de 13 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/169",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/169/lei_compl._88_-_2023.docx",
+      "ano": 2023,
+      "norma": 1291
+    },
+    {
+      "id": 170,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/170/lei_1650_-_2023.docx da norma Lei Ordinária-PEM nº 1.650, de 18 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/170",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/170/lei_1650_-_2023.docx",
+      "ano": 2023,
+      "norma": 1292
+    },
+    {
+      "id": 171,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/171/lei_1651_-_2023.docx da norma Lei Ordinária-PEM nº 1.651, de 18 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/171",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/171/lei_1651_-_2023.docx",
+      "ano": 2023,
+      "norma": 1293
+    },
+    {
+      "id": 172,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/172/lei_1653_-_2023.docx da norma Lei Ordinária-PEM nº 1.653, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/172",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/172/lei_1653_-_2023.docx",
+      "ano": 2023,
+      "norma": 1294
+    },
+    {
+      "id": 173,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/173/lei_1654_-_2023.docx da norma Lei Ordinária-PEM nº 1.654, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/173",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/173/lei_1654_-_2023.docx",
+      "ano": 2023,
+      "norma": 1295
+    },
+    {
+      "id": 174,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/174/lei_1655_-_2023.pdf da norma Lei Ordinária-PEM nº 1.655, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/174",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/174/lei_1655_-_2023.pdf",
+      "ano": 2023,
+      "norma": 1296
+    },
+    {
+      "id": 175,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/175/lei_1652_-_2023.docx da norma Lei Ordinária-PEM nº 1.652, de 26 de dezembro de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/175",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/175/lei_1652_-_2023.docx",
+      "ano": 2023,
+      "norma": 1297
+    },
+    {
+      "id": 176,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/176/lei_1656_-_2024.docx da norma Lei Ordinária-PEM nº 1.656, de 09 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/176",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/176/lei_1656_-_2024.docx",
+      "ano": 2024,
+      "norma": 1298
+    },
+    {
+      "id": 177,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/177/lei_1657_-_2024.docx da norma Lei Ordinária-PEM nº 1.657, de 09 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/177",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/177/lei_1657_-_2024.docx",
+      "ano": 2024,
+      "norma": 1299
+    },
+    {
+      "id": 178,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/178/lei_compl._89_-_2024.docx da norma Lei Complementar-PEM nº 89, de 09 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/178",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/178/lei_compl._89_-_2024.docx",
+      "ano": 2024,
+      "norma": 1300
+    },
+    {
+      "id": 182,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/182/lei_compl._90_-_2024.docx da norma Lei Complementar-PEM nº 90, de 28 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/182",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/182/lei_compl._90_-_2024.docx",
+      "ano": 2024,
+      "norma": 1301
+    },
+    {
+      "id": 183,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/183/lei_1658_-_2024.docx da norma Lei Ordinária-PEM nº 1.658, de 28 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/183",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/183/lei_1658_-_2024.docx",
+      "ano": 2024,
+      "norma": 1302
+    },
+    {
+      "id": 184,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/184/lei_1659_-_2024.docx da norma Lei Ordinária-PEM nº 1.659, de 21 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/184",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/184/lei_1659_-_2024.docx",
+      "ano": 2024,
+      "norma": 1303
+    },
+    {
+      "id": 185,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/185/lei_1660_-_2024.docx da norma Lei Ordinária-PEM nº 1.660, de 21 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/185",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/185/lei_1660_-_2024.docx",
+      "ano": 2024,
+      "norma": 1304
+    },
+    {
+      "id": 186,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/186/lei_1661_-_2024.docx da norma Lei Ordinária-PEM nº 1.661, de 21 de março de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/186",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/186/lei_1661_-_2024.docx",
+      "ano": 2024,
+      "norma": 1305
+    },
+    {
+      "id": 187,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/187/lei_coml._91_-_2024.docx da norma Lei Complementar-PEM nº 91, de 01 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/187",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/187/lei_coml._91_-_2024.docx",
+      "ano": 2024,
+      "norma": 1306
+    },
+    {
+      "id": 188,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/188/lei_compl._92_-_2024.docx da norma Lei Complementar-PEM nº 92, de 01 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/188",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/188/lei_compl._92_-_2024.docx",
+      "ano": 2024,
+      "norma": 1307
+    },
+    {
+      "id": 189,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/189/lei_compl._93_-_2024.docx da norma Lei Complementar-PEM nº 93, de 01 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/189",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/189/lei_compl._93_-_2024.docx",
+      "ano": 2024,
+      "norma": 1308
+    },
+    {
+      "id": 190,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/190/lei_compl._94_-_2024.docx da norma Lei Complementar-PEM nº 94, de 01 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/190",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/190/lei_compl._94_-_2024.docx",
+      "ano": 2024,
+      "norma": 1309
+    },
+    {
+      "id": 191,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/191/lei_compl._95_-_2024.doc da norma Lei Complementar-PEM nº 95, de 01 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/191",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/191/lei_compl._95_-_2024.doc",
+      "ano": 2024,
+      "norma": 1310
+    },
+    {
+      "id": 192,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/192/lei_1662_-_2024.docx da norma Lei Ordinária-PEM nº 1.662, de 01 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/192",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/192/lei_1662_-_2024.docx",
+      "ano": 2024,
+      "norma": 1311
+    },
+    {
+      "id": 193,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/193/lei_1663_-_2024.docx da norma Lei Ordinária-PEM nº 1.663, de 01 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/193",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/193/lei_1663_-_2024.docx",
+      "ano": 2024,
+      "norma": 1312
+    },
+    {
+      "id": 194,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/194/lei_1665_-_2024.docx da norma Lei Ordinária-PEM nº 1.665, de 01 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/194",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/194/lei_1665_-_2024.docx",
+      "ano": 2024,
+      "norma": 1314
+    },
+    {
+      "id": 195,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/195/dl_01-24_-_titulo_de_cidadao_honario_dr._francisco.docx da norma Decreto Legislativo-GP nº 1, de 06 de fevereiro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/195",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/195/dl_01-24_-_titulo_de_cidadao_honario_dr._francisco.docx",
+      "ano": 2024,
+      "norma": 1315
+    },
+    {
+      "id": 196,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/196/lei_1666_-_2024.docx da norma Lei Ordinária-PEM nº 1.666, de 03 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/196",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/196/lei_1666_-_2024.docx",
+      "ano": 2024,
+      "norma": 1316
+    },
+    {
+      "id": 198,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/198/lei_1667_-_2024.docx da norma Lei Ordinária-PEM nº 1.667, de 03 de abril de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/198",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/198/lei_1667_-_2024.docx",
+      "ano": 2024,
+      "norma": 1317
+    },
+    {
+      "id": 199,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/199/lo_1579_-2022_-_institui_previdencia_complementar_-_consolidada_com_alteracoes.pdf da norma Lei Ordinária-PEM nº 1.579, de 25 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/199",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/199/lo_1579_-2022_-_institui_previdencia_complementar_-_consolidada_com_alteracoes.pdf",
+      "ano": 2022,
+      "norma": 1178
+    },
+    {
+      "id": 200,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2022/200/lo_1579_-2022_-_institui_previdencia_complementar_-_consolidada_com_alteracoes.doc da norma Lei Ordinária-PEM nº 1.579, de 25 de março de 2022",
+      "link_detail_backend": "/norma/anexonormajuridica/200",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2022/200/lo_1579_-2022_-_institui_previdencia_complementar_-_consolidada_com_alteracoes.doc",
+      "ano": 2022,
+      "norma": 1178
+    },
+    {
+      "id": 201,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/201/lei_1668_-_2024.docx da norma Lei Ordinária-PEM nº 1.668, de 02 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/201",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/201/lei_1668_-_2024.docx",
+      "ano": 2024,
+      "norma": 1318
+    },
+    {
+      "id": 202,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/202/lei_1669_-_2024.docx da norma Lei Ordinária-PEM nº 1.669, de 02 de maio de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/202",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/202/lei_1669_-_2024.docx",
+      "ano": 2024,
+      "norma": 1319
+    },
+    {
+      "id": 203,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/203/lei_1670_-_2024.docx da norma Lei Ordinária-PEM nº 1.670, de 13 de junho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/203",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/203/lei_1670_-_2024.docx",
+      "ano": 2024,
+      "norma": 1321
+    },
+    {
+      "id": 204,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/204/lei_ordinaria_1249_-_2013_-_parcelamento_do_solo_-_compilada_-_29.07.2024.pdf da norma Lei Ordinária-PMI nº 1.249, de 17 de outubro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/204",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2013/204/lei_ordinaria_1249_-_2013_-_parcelamento_do_solo_-_compilada_-_29.07.2024.pdf",
+      "ano": 2013,
+      "norma": 467
+    },
+    {
+      "id": 205,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2013/205/lei_ordinaria_1249_-_2013_-_parcelamento_do_solo_-_compilada_-_29.07.2024.docx da norma Lei Ordinária-PMI nº 1.249, de 17 de outubro de 2013",
+      "link_detail_backend": "/norma/anexonormajuridica/205",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2013/205/lei_ordinaria_1249_-_2013_-_parcelamento_do_solo_-_compilada_-_29.07.2024.docx",
+      "ano": 2013,
+      "norma": 467
+    },
+    {
+      "id": 206,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/206/lei_1671_-_2024.docx da norma Lei Ordinária-PEM nº 1.671, de 03 de julho de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/206",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/206/lei_1671_-_2024.docx",
+      "ano": 2024,
+      "norma": 1322
+    },
+    {
+      "id": 208,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/208/lei_1672_-_2024.docx da norma Lei Ordinária-PEM nº 1.672, de 13 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/208",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/208/lei_1672_-_2024.docx",
+      "ano": 2024,
+      "norma": 1323
+    },
+    {
+      "id": 209,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/209/lei_1673_-_2024.docx da norma Lei Ordinária-PEM nº 1.673, de 14 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/209",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/209/lei_1673_-_2024.docx",
+      "ano": 2024,
+      "norma": 1324
+    },
+    {
+      "id": 210,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/210/lei_1674_-_2024.docx da norma Lei Ordinária-PEM nº 1.674, de 14 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/210",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/210/lei_1674_-_2024.docx",
+      "ano": 2024,
+      "norma": 1325
+    },
+    {
+      "id": 211,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/211/lei_comp._96.docx da norma Lei Complementar-PEM nº 96, de 04 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/211",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/211/lei_comp._96.docx",
+      "ano": 2024,
+      "norma": 1326
+    },
+    {
+      "id": 212,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/212/resolucao_001_-2024_-_orcamento_2025.docx da norma Resolução-CMI nº 1, de 27 de setembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/212",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/212/resolucao_001_-2024_-_orcamento_2025.docx",
+      "ano": 2024,
+      "norma": 1327
+    },
+    {
+      "id": 213,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/213/lei_1633_-_2023.pdf da norma Lei Ordinária-PEM nº 1.633, de 19 de junho de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/213",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/213/lei_1633_-_2023.pdf",
+      "ano": 2023,
+      "norma": 1265
+    },
+    {
+      "id": 214,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/214/dec._legis._002_-_2024.pdf da norma Decreto Legislativo-CMI nº 2, de 28 de agosto de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/214",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/214/dec._legis._002_-_2024.pdf",
+      "ano": 2024,
+      "norma": 1328
+    },
+    {
+      "id": 215,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/215/lei_compl._97_-_2024.docx da norma Lei Complementar-PEM nº 97, de 30 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/215",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/215/lei_compl._97_-_2024.docx",
+      "ano": 2024,
+      "norma": 1329
+    },
+    {
+      "id": 216,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/216/lei_1675_-_2024.docx da norma Lei Ordinária-PEM nº 1.675, de 30 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/216",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/216/lei_1675_-_2024.docx",
+      "ano": 2024,
+      "norma": 1330
+    },
+    {
+      "id": 217,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/217/lei_1676_-_2024.docx da norma Lei Ordinária-PEM nº 1.676, de 30 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/217",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/217/lei_1676_-_2024.docx",
+      "ano": 2024,
+      "norma": 1331
+    },
+    {
+      "id": 218,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/218/lei_1677_-_2024.docx da norma Lei Ordinária-PEM nº 1.677, de 30 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/218",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/218/lei_1677_-_2024.docx",
+      "ano": 2024,
+      "norma": 1332
+    },
+    {
+      "id": 219,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/219/lei_1678_-_2024.docx da norma Lei Ordinária-PEM nº 1.678, de 30 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/219",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/219/lei_1678_-_2024.docx",
+      "ano": 2024,
+      "norma": 1333
+    },
+    {
+      "id": 220,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/220/lei_1679_-_2024.docx da norma Lei Ordinária-PEM nº 1.679, de 30 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/220",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/220/lei_1679_-_2024.docx",
+      "ano": 2024,
+      "norma": 1334
+    },
+    {
+      "id": 221,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/221/lei_1680_-_2024.docx da norma Lei Ordinária-PEM nº 1.680, de 30 de outubro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/221",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/221/lei_1680_-_2024.docx",
+      "ano": 2024,
+      "norma": 1335
+    },
+    {
+      "id": 222,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/222/lc_80-2023_-_texto_consolidado_ate_06.11.2024.docx da norma Lei Complementar-PEM nº 80, de 31 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/222",
+      "metadata": {},
+      "assunto_anexo": "LC 80 -2023 - Texto consolidado com alterações até 06.11.2024",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/222/lc_80-2023_-_texto_consolidado_ate_06.11.2024.docx",
+      "ano": 2023,
+      "norma": 1248
+    },
+    {
+      "id": 223,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/223/lc_80-2023_-_texto_consolidado_ate_06.11.2024.pdf da norma Lei Complementar-PEM nº 80, de 31 de março de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/223",
+      "metadata": {},
+      "assunto_anexo": "LC 80-2023 - Texto consolidado com alterações até 06.11.2024",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/223/lc_80-2023_-_texto_consolidado_ate_06.11.2024.pdf",
+      "ano": 2023,
+      "norma": 1248
+    },
+    {
+      "id": 226,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/226/lei_1681_-_2024.docx da norma Lei Ordinária-PEM nº 1.681, de 25 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/226",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/226/lei_1681_-_2024.docx",
+      "ano": 2024,
+      "norma": 1336
+    },
+    {
+      "id": 227,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/227/lei_1682_-_2024.docx da norma Lei Ordinária-PEM nº 1.682, de 25 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/227",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/227/lei_1682_-_2024.docx",
+      "ano": 2024,
+      "norma": 1337
+    },
+    {
+      "id": 228,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/228/lei_1683_-_2024.docx da norma Lei Ordinária-PEM nº 1.683, de 25 de novembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/228",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/228/lei_1683_-_2024.docx",
+      "ano": 2024,
+      "norma": 1338
+    },
+    {
+      "id": 229,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/229/lei_1684_-_2024.docx da norma Lei Ordinária-PEM nº 1.684, de 09 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/229",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/229/lei_1684_-_2024.docx",
+      "ano": 2024,
+      "norma": 1339
+    },
+    {
+      "id": 230,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/230/lei_no_1685_-_2024.docx da norma Lei Ordinária-PEM nº 1.685, de 11 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/230",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/230/lei_no_1685_-_2024.docx",
+      "ano": 2024,
+      "norma": 1340
+    },
+    {
+      "id": 231,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/231/lei_1686_-_2024.docx da norma Lei Ordinária-PEM nº 1.686, de 18 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/231",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/231/lei_1686_-_2024.docx",
+      "ano": 2024,
+      "norma": 1341
+    },
+    {
+      "id": 232,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/232/lei_1687_-_2024.docx da norma Lei Ordinária-PEM nº 1.687, de 23 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/232",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/232/lei_1687_-_2024.docx",
+      "ano": 2024,
+      "norma": 1342
+    },
+    {
+      "id": 233,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/233/lei_1688_-_2024.docx da norma Lei Ordinária-PEM nº 1.688, de 23 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/233",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/233/lei_1688_-_2024.docx",
+      "ano": 2024,
+      "norma": 1343
+    },
+    {
+      "id": 234,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2024/234/lei_1689_-_2024.docx da norma Lei Ordinária-PEM nº 1.689, de 23 de dezembro de 2024",
+      "link_detail_backend": "/norma/anexonormajuridica/234",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2024/234/lei_1689_-_2024.docx",
+      "ano": 2024,
+      "norma": 1344
+    },
+    {
+      "id": 235,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/235/resolucao_001-2025_-_alteracao_ri_-_comissao_de_seguranca_publica.docx da norma Resolução-CMI nº 1, de 07 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/235",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/235/resolucao_001-2025_-_alteracao_ri_-_comissao_de_seguranca_publica.docx",
+      "ano": 2025,
+      "norma": 1345
+    },
+    {
+      "id": 236,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/236/lei_1690_-_2025.docx da norma Lei Ordinária-PEM nº 1.690, de 11 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/236",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/236/lei_1690_-_2025.docx",
+      "ano": 2025,
+      "norma": 1346
+    },
+    {
+      "id": 237,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/237/lei_1691_-_2025.docx da norma Lei Ordinária-PEM nº 1.691, de 11 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/237",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/237/lei_1691_-_2025.docx",
+      "ano": 2025,
+      "norma": 1347
+    },
+    {
+      "id": 238,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/238/lei_1692_-_2025.docx da norma Lei Ordinária-PEM nº 1.692, de 11 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/238",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/238/lei_1692_-_2025.docx",
+      "ano": 2025,
+      "norma": 1348
+    },
+    {
+      "id": 239,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/239/resolucao_001_-25__-_comissao_de_seguranca_publica14022025.pdf da norma Resolução-CMI nº 1, de 07 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/239",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/239/resolucao_001_-25__-_comissao_de_seguranca_publica14022025.pdf",
+      "ano": 2025,
+      "norma": 1345
+    },
+    {
+      "id": 240,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/240/lei_1693_-_2025.docx da norma Lei Ordinária-PEM nº 1.693, de 27 de fevereiro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/240",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/240/lei_1693_-_2025.docx",
+      "ano": 2025,
+      "norma": 1349
+    },
+    {
+      "id": 241,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/241/lei_1694_-_2025.docx da norma Lei Ordinária-PEM nº 1.694, de 21 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/241",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/241/lei_1694_-_2025.docx",
+      "ano": 2025,
+      "norma": 1351
+    },
+    {
+      "id": 242,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/242/lei_1695_-_2025.docx da norma Lei Ordinária-PEM nº 1.695, de 21 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/242",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/242/lei_1695_-_2025.docx",
+      "ano": 2025,
+      "norma": 1352
+    },
+    {
+      "id": 243,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/243/lei_1696_-_2025.docx da norma Lei Ordinária-PEM nº 1.696, de 31 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/243",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/243/lei_1696_-_2025.docx",
+      "ano": 2025,
+      "norma": 1353
+    },
+    {
+      "id": 245,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/245/lei_1698_-_2025.docx da norma Lei Ordinária-PEM nº 1.698, de 22 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/245",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/245/lei_1698_-_2025.docx",
+      "ano": 2025,
+      "norma": 1356
+    },
+    {
+      "id": 246,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/246/lei_1699_-_2025.docx da norma Lei Ordinária-PEM nº 1.699, de 22 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/246",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/246/lei_1699_-_2025.docx",
+      "ano": 2025,
+      "norma": 1357
+    },
+    {
+      "id": 248,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/248/lei_1697_-_2025.docx da norma Lei Ordinária-PEM nº 1.697, de 22 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/248",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/248/lei_1697_-_2025.docx",
+      "ano": 2025,
+      "norma": 1355
+    },
+    {
+      "id": 251,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/251/lei_1700_-_2025.docx da norma Lei Ordinária-PEM nº 1.700, de 22 de abril de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/251",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/251/lei_1700_-_2025.docx",
+      "ano": 2025,
+      "norma": 1358
+    },
+    {
+      "id": 252,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/252/lei_compl._98_-_2025.docx da norma Lei Complementar-PEM nº 98, de 31 de março de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/252",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/252/lei_compl._98_-_2025.docx",
+      "ano": 2025,
+      "norma": 1354
+    },
+    {
+      "id": 253,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/253/lei_1701_-_2025.docx da norma Lei Ordinária-PEM nº 1.701, de 09 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/253",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/253/lei_1701_-_2025.docx",
+      "ano": 2025,
+      "norma": 1359
+    },
+    {
+      "id": 257,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/257/lei_compl._99_-_2025.docx da norma Lei Complementar-PEM nº 99, de 28 de maio de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/257",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/257/lei_compl._99_-_2025.docx",
+      "ano": 2025,
+      "norma": 1363
+    },
+    {
+      "id": 258,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/258/lei_compl._100_-_2025.docx da norma Lei Complementar-PEM nº 100, de 12 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/258",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/258/lei_compl._100_-_2025.docx",
+      "ano": 2025,
+      "norma": 1364
+    },
+    {
+      "id": 259,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/259/lei_1702_-_2025.docx da norma Lei Ordinária-PEM nº 1.702, de 12 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/259",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/259/lei_1702_-_2025.docx",
+      "ano": 2025,
+      "norma": 1365
+    },
+    {
+      "id": 260,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/260/lei_1703_-_2025.doc da norma Lei Ordinária-PEM nº 1.703, de 26 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/260",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/260/lei_1703_-_2025.doc",
+      "ano": 2025,
+      "norma": 1366
+    },
+    {
+      "id": 261,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/261/lei_1704_-_2025.doc da norma Lei Ordinária-PEM nº 1.704, de 26 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/261",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/261/lei_1704_-_2025.doc",
+      "ano": 2025,
+      "norma": 1367
+    },
+    {
+      "id": 262,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/262/lei_1706_-_2025.pdf da norma Lei Ordinária-PEM nº 1.706, de 26 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/262",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/262/lei_1706_-_2025.pdf",
+      "ano": 2025,
+      "norma": 1368
+    },
+    {
+      "id": 263,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/263/lei_1705_-_2025.doc da norma Lei Ordinária-PEM nº 1.705, de 26 de junho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/263",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/263/lei_1705_-_2025.doc",
+      "ano": 2025,
+      "norma": 1369
+    },
+    {
+      "id": 264,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/264/lei_1708_-_2025.docx da norma Lei Ordinária-PEM nº 1.708, de 21 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/264",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/264/lei_1708_-_2025.docx",
+      "ano": 2025,
+      "norma": 1370
+    },
+    {
+      "id": 265,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/265/lei_1707_-_2025.docx da norma Lei Ordinária-PEM nº 1.707, de 21 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/265",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/265/lei_1707_-_2025.docx",
+      "ano": 2025,
+      "norma": 1371
+    },
+    {
+      "id": 266,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/266/lei_1709_-_2025.docx da norma Lei Ordinária-PEM nº 1.709, de 21 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/266",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/266/lei_1709_-_2025.docx",
+      "ano": 2025,
+      "norma": 1372
+    },
+    {
+      "id": 267,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/267/lei_compl._101_-_2025.docx da norma Lei Complementar-PEM nº 101, de 21 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/267",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/267/lei_compl._101_-_2025.docx",
+      "ano": 2025,
+      "norma": 1373
+    },
+    {
+      "id": 268,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/268/lei_compl._102_-_2025.docx da norma Lei Complementar-PEM nº 102, de 21 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/268",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/268/lei_compl._102_-_2025.docx",
+      "ano": 2025,
+      "norma": 1374
+    },
+    {
+      "id": 269,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/269/lei_compl._103_-_2025.docx da norma Lei Complementar-PEM nº 103, de 21 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/269",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/269/lei_compl._103_-_2025.docx",
+      "ano": 2025,
+      "norma": 1375
+    },
+    {
+      "id": 270,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/270/lei_compl._104_-_2025.docx da norma Lei Complementar-PEM nº 104, de 22 de julho de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/270",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/270/lei_compl._104_-_2025.docx",
+      "ano": 2025,
+      "norma": 1376
+    },
+    {
+      "id": 271,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/271/lei_1710_-_2025.docx da norma Lei Ordinária-PEM nº 1.710, de 14 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/271",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/271/lei_1710_-_2025.docx",
+      "ano": 2025,
+      "norma": 1377
+    },
+    {
+      "id": 272,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/272/lei_1712_-_2025.docx da norma Lei Ordinária-PEM nº 1.712, de 14 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/272",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/272/lei_1712_-_2025.docx",
+      "ano": 2025,
+      "norma": 1378
+    },
+    {
+      "id": 273,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/273/lei_1711_-_2025.docx da norma Lei Ordinária-PEM nº 1.711, de 14 de agosto de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/273",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/273/lei_1711_-_2025.docx",
+      "ano": 2025,
+      "norma": 1379
+    },
+    {
+      "id": 274,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/274/lei_compl._105_-_2025.docx da norma Lei Complementar-PEM nº 105, de 12 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/274",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/274/lei_compl._105_-_2025.docx",
+      "ano": 2025,
+      "norma": 1380
+    },
+    {
+      "id": 275,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/275/lei_compl._106_-_2025.docx da norma Lei Complementar-PEM nº 106, de 12 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/275",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/275/lei_compl._106_-_2025.docx",
+      "ano": 2025,
+      "norma": 1381
+    },
+    {
+      "id": 276,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/276/lei_1715_-_2025.docx da norma Lei Ordinária-PEM nº 1.715, de 12 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/276",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/276/lei_1715_-_2025.docx",
+      "ano": 2025,
+      "norma": 1382
+    },
+    {
+      "id": 277,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/277/lei_1714_-_2025.docx da norma Lei Ordinária-PEM nº 1.714, de 12 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/277",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/277/lei_1714_-_2025.docx",
+      "ano": 2025,
+      "norma": 1383
+    },
+    {
+      "id": 278,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/278/lei_1713_-_2025.docx da norma Lei Ordinária-PEM nº 1.713, de 12 de setembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/278",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/278/lei_1713_-_2025.docx",
+      "ano": 2025,
+      "norma": 1384
+    },
+    {
+      "id": 279,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/279/lei_1716_-_2025.docx da norma Lei Ordinária-PEM nº 1.716, de 13 de outubro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/279",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/279/lei_1716_-_2025.docx",
+      "ano": 2025,
+      "norma": 1385
+    },
+    {
+      "id": 280,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/280/lei_compl._107_-_2025.docx da norma Lei Complementar-PEM nº 107, de 10 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/280",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/280/lei_compl._107_-_2025.docx",
+      "ano": 2025,
+      "norma": 1387
+    },
+    {
+      "id": 281,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/281/lc_34-20217_-_cmdca_-_consolidada_ate_10.11.2025.pdf da norma Lei Complementar-PMI nº 34, de 01 de agosto de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/281",
+      "metadata": {},
+      "assunto_anexo": "LC 34-2017 - Texto consolidado com alterações até 10.11.2025.",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2017/281/lc_34-20217_-_cmdca_-_consolidada_ate_10.11.2025.pdf",
+      "ano": 2017,
+      "norma": 544
+    },
+    {
+      "id": 282,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2017/282/lc_34-20217_-_cmdca_-_consolidada_ate_10.11.2025.docx da norma Lei Complementar-PMI nº 34, de 01 de agosto de 2017",
+      "link_detail_backend": "/norma/anexonormajuridica/282",
+      "metadata": {},
+      "assunto_anexo": "LC 34-2017 - Texto consolidado com alterações até 10.11.2025",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2017/282/lc_34-20217_-_cmdca_-_consolidada_ate_10.11.2025.docx",
+      "ano": 2017,
+      "norma": 544
+    },
+    {
+      "id": 283,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/283/lei_1718_-_2025.docx da norma Lei Ordinária-PEM nº 1.718, de 25 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/283",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/283/lei_1718_-_2025.docx",
+      "ano": 2025,
+      "norma": 1388
+    },
+    {
+      "id": 284,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/284/lei_1719_-_2025.docx da norma Lei Ordinária-PEM nº 1.719, de 26 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/284",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/284/lei_1719_-_2025.docx",
+      "ano": 2025,
+      "norma": 1389
+    },
+    {
+      "id": 285,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/285/lei_1720_-_2025.docx da norma Lei Ordinária-PEM nº 1.720, de 26 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/285",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/285/lei_1720_-_2025.docx",
+      "ano": 2025,
+      "norma": 1390
+    },
+    {
+      "id": 286,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2025/286/lei_compl._108_-_2025.docx da norma Lei Complementar-PEM nº 108, de 25 de novembro de 2025",
+      "link_detail_backend": "/norma/anexonormajuridica/286",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2025/286/lei_compl._108_-_2025.docx",
+      "ano": 2025,
+      "norma": 1391
+    },
+    {
+      "id": 287,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/287/lei_1721_-_2026.docx da norma Lei Ordinária-PEM nº 1.721, de 05 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/287",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/287/lei_1721_-_2026.docx",
+      "ano": 2026,
+      "norma": 1392
+    },
+    {
+      "id": 288,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/288/lei_1724_-_2026.docx da norma Lei Ordinária-PEM nº 1.724, de 05 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/288",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/288/lei_1724_-_2026.docx",
+      "ano": 2026,
+      "norma": 1393
+    },
+    {
+      "id": 289,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/289/lei_1725_-_2026.docx da norma Lei Ordinária-PEM nº 1.725, de 05 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/289",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/289/lei_1725_-_2026.docx",
+      "ano": 2026,
+      "norma": 1394
+    },
+    {
+      "id": 290,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/290/lei_1723_-_2026.docx da norma Lei Ordinária-PEM nº 1.723, de 05 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/290",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/290/lei_1723_-_2026.docx",
+      "ano": 2026,
+      "norma": 1396
+    },
+    {
+      "id": 292,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/292/lei_compl._109_-_2026.docx da norma Lei Complementar-PEM nº 109, de 05 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/292",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/292/lei_compl._109_-_2026.docx",
+      "ano": 2026,
+      "norma": 1395
+    },
+    {
+      "id": 293,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/293/lei_1722_-_2026.docx da norma Lei Ordinária-PEM nº 1.722, de 05 de janeiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/293",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/293/lei_1722_-_2026.docx",
+      "ano": 2026,
+      "norma": 1398
+    },
+    {
+      "id": 294,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2023/294/lei_compl._82_-_2023.docx da norma Lei Complementar-PEM nº 82, de 17 de abril de 2023",
+      "link_detail_backend": "/norma/anexonormajuridica/294",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2023/294/lei_compl._82_-_2023.docx",
+      "ano": 2023,
+      "norma": 1251
+    },
+    {
+      "id": 295,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/295/lei_1726_-_2026.docx da norma Lei Ordinária-PEM nº 1.726, de 23 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/295",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/295/lei_1726_-_2026.docx",
+      "ano": 2026,
+      "norma": 1399
+    },
+    {
+      "id": 296,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/296/lei__1727_-_2026.docx da norma Lei Ordinária-PEM nº 1.727, de 23 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/296",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/296/lei__1727_-_2026.docx",
+      "ano": 2026,
+      "norma": 1400
+    },
+    {
+      "id": 297,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/297/lei_1728_-_2026.docx da norma Lei Ordinária-PEM nº 1.728, de 26 de fevereiro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/297",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/297/lei_1728_-_2026.docx",
+      "ano": 2026,
+      "norma": 1401
+    },
+    {
+      "id": 298,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/298/lei_1729_-_2026.docx da norma Lei Ordinária-PEM nº 1.729, de 29 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/298",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/298/lei_1729_-_2026.docx",
+      "ano": 2026,
+      "norma": 1406
+    },
+    {
+      "id": 299,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/299/lei_1730_-_2026.docx da norma Lei Ordinária-PEM nº 1.730, de 29 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/299",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/299/lei_1730_-_2026.docx",
+      "ano": 2026,
+      "norma": 1407
+    },
+    {
+      "id": 300,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/300/lei_1731_-_2026.docx da norma Lei Ordinária-PEM nº 1.731, de 29 de abril de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/300",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/300/lei_1731_-_2026.docx",
+      "ano": 2026,
+      "norma": 1408
+    },
+    {
+      "id": 301,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/301/decre._legisl._001_-_2026.pdf da norma Decreto Legislativo-CMI nº 1, de 18 de março de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/301",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/301/decre._legisl._001_-_2026.pdf",
+      "ano": 2026,
+      "norma": 1409
+    },
+    {
+      "id": 302,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/302/lei_compl._110_-_2026.docx da norma Lei Complementar-PEM nº 110, de 29 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/302",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/302/lei_compl._110_-_2026.docx",
+      "ano": 2026,
+      "norma": 1410
+    },
+    {
+      "id": 303,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/303/lei_compl._111_-_2026.docx da norma Lei Complementar-PEM nº 111, de 29 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/303",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/303/lei_compl._111_-_2026.docx",
+      "ano": 2026,
+      "norma": 1411
+    },
+    {
+      "id": 304,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/304/lei_compl._112_-_2026.docx da norma Lei Complementar-PEM nº 112, de 29 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/304",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/304/lei_compl._112_-_2026.docx",
+      "ano": 2026,
+      "norma": 1412
+    },
+    {
+      "id": 305,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/305/lei_1732_-_2026.docx da norma Lei Ordinária-PEM nº 1.732, de 29 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/305",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/305/lei_1732_-_2026.docx",
+      "ano": 2026,
+      "norma": 1413
+    },
+    {
+      "id": 306,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/306/lei_1733_-_2026.docx da norma Lei Ordinária-PEM nº 1.733, de 29 de maio de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/306",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/306/lei_1733_-_2026.docx",
+      "ano": 2026,
+      "norma": 1414
+    },
+    {
+      "id": 307,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/307/lei_compl._113_-_2026.docx da norma Lei Complementar-PEM nº 113, de 10 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/307",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/307/lei_compl._113_-_2026.docx",
+      "ano": 2026,
+      "norma": 1415
+    },
+    {
+      "id": 308,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/308/lei_1734_-_2026.docx da norma Lei Ordinária-PEM nº 1.734, de 24 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/308",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/308/lei_1734_-_2026.docx",
+      "ano": 2026,
+      "norma": 1416
+    },
+    {
+      "id": 309,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/309/lei_1735_-_2026.docx da norma Lei Ordinária-PEM nº 1.735, de 24 de junho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/309",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/309/lei_1735_-_2026.docx",
+      "ano": 2026,
+      "norma": 1417
+    },
+    {
+      "id": 310,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/310/lei_1736_-_2026.docx da norma Lei Ordinária-PEM nº 1.736, de 10 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/310",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/310/lei_1736_-_2026.docx",
+      "ano": 2026,
+      "norma": 1418
+    },
+    {
+      "id": 311,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/311/lei_1737_-_2026.docx da norma Lei Ordinária-PEM nº 1.737, de 10 de julho de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/311",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/311/lei_1737_-_2026.docx",
+      "ano": 2026,
+      "norma": 1419
+    },
+    {
+      "id": 312,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/312/dl_002-26_-_aprova_as_contas_do_exercicio_de_2021.docx da norma Decreto Legislativo-CMI nº 2, de 06 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/312",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/312/dl_002-26_-_aprova_as_contas_do_exercicio_de_2021.docx",
+      "ano": 2026,
+      "norma": 1420
+    },
+    {
+      "id": 313,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/313/lei_1738_-_2026.docx da norma Lei Ordinária-PEM nº 1.738, de 05 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/313",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/313/lei_1738_-_2026.docx",
+      "ano": 2026,
+      "norma": 1421
+    },
+    {
+      "id": 315,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/315/elom_10-19_-_texto_consolidado_com_alteracoes_ate_06.12.2023.docx da norma Emenda à Lei Orgânica-CMI nº 10, de 04 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/315",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2019/315/elom_10-19_-_texto_consolidado_com_alteracoes_ate_06.12.2023.docx",
+      "ano": 2019,
+      "norma": 946
+    },
+    {
+      "id": 316,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/316/elom_10-19_-_texto_consolidado_com_alteracoes_ate_06.12.2023.pdf da norma Emenda à Lei Orgânica-CMI nº 10, de 04 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/316",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2019/316/elom_10-19_-_texto_consolidado_com_alteracoes_ate_06.12.2023.pdf",
+      "ano": 2019,
+      "norma": 946
+    },
+    {
+      "id": 317,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2019/317/elom_10-2019.docx da norma Emenda à Lei Orgânica-CMI nº 10, de 04 de dezembro de 2019",
+      "link_detail_backend": "/norma/anexonormajuridica/317",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2019/317/elom_10-2019.docx",
+      "ano": 2019,
+      "norma": 946
+    },
+    {
+      "id": 318,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/318/lei_1739_-_2026.docx da norma Lei Ordinária-PEM nº 1.739, de 20 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/318",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/318/lei_1739_-_2026.docx",
+      "ano": 2026,
+      "norma": 1422
+    },
+    {
+      "id": 319,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/319/lei_1740_-_2026.docx da norma Lei Ordinária-PEM nº 1.740, de 20 de agosto de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/319",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/319/lei_1740_-_2026.docx",
+      "ano": 2026,
+      "norma": 1423
+    },
+    {
+      "id": 320,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/320/lei_1741_-_2026.docx da norma Lei Ordinária-PEM nº 1.741, de 10 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/320",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/320/lei_1741_-_2026.docx",
+      "ano": 2026,
+      "norma": 1424
+    },
+    {
+      "id": 321,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/321/lei_1742_-_2026.docx da norma Lei Ordinária-PEM nº 1.742, de 10 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/321",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/321/lei_1742_-_2026.docx",
+      "ano": 2026,
+      "norma": 1425
+    },
+    {
+      "id": 322,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/322/lei_1743_-_2026.docx da norma Lei Ordinária-PEM nº 1.743, de 10 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/322",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/322/lei_1743_-_2026.docx",
+      "ano": 2026,
+      "norma": 1426
+    },
+    {
+      "id": 323,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/323/lei_1744_-_2026.docx da norma Lei Ordinária-PEM nº 1.744, de 10 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/323",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/323/lei_1744_-_2026.docx",
+      "ano": 2026,
+      "norma": 1427
+    },
+    {
+      "id": 324,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/324/lei_1745_-_2026.docx da norma Lei Ordinária-PEM nº 1.745, de 28 de setembro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/324",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/324/lei_1745_-_2026.docx",
+      "ano": 2026,
+      "norma": 1428
+    },
+    {
+      "id": 325,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/325/lei_1746_-_2026.docx da norma Lei Ordinária-PEM nº 1.746, de 09 de outubro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/325",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/325/lei_1746_-_2026.docx",
+      "ano": 2026,
+      "norma": 1429
+    },
+    {
+      "id": 326,
+      "__str__": "Anexo: sapl/public/anexonormajuridica/2026/326/elom_12_-_alteracao_emendas_impositivas.docx da norma Emenda à Lei Orgânica-CMI nº 12, de 16 de outubro de 2026",
+      "link_detail_backend": "/norma/anexonormajuridica/326",
+      "metadata": {},
+      "assunto_anexo": "",
+      "anexo_arquivo": "http://sapl.itapeva.mg.leg.br/media/sapl/public/anexonormajuridica/2026/326/elom_12_-_alteracao_emendas_impositivas.docx",
+      "ano": 2026,
+      "norma": 1430
+    }
+  ],
+  "evidencias": [
+    {
+      "url": "https://sapl.itapeva.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.itapeva.mg.leg.br/aa5a617e65d49ded615b5d28f2bc2af769a8d77c71fea5f2d3d6a7b6c80fb5e0.json",
+      "sha256": "85940d748c88420a95d68e8a16f397e7ed930a7d07a22a54d38f7b6bd49ed68a",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.itapeva.mg.leg.br/aa5a617e65d49ded615b5d28f2bc2af769a8d77c71fea5f2d3d6a7b6c80fb5e0.meta.json"
+    },
+    {
+      "url": "https://sapl.itapeva.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=2",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.itapeva.mg.leg.br/58eaebbd8f4ab893e612f36302b488733186f7c2293d08b7b23752c837a1982c.json",
+      "sha256": "5a09a6b3a9dc84a66a28087d239af919a8ee551adb88394557d60746dde3040d",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.itapeva.mg.leg.br/58eaebbd8f4ab893e612f36302b488733186f7c2293d08b7b23752c837a1982c.meta.json"
+    },
+    {
+      "url": "https://sapl.itapeva.mg.leg.br/api/norma/anexonormajuridica/?page_size=100&page=3",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.itapeva.mg.leg.br/f09a8345aded81911c47292645132661c77ed446549c860a789f9a5ff90a19ca.json",
+      "sha256": "06b154e2ef5b0169e9c3803beae4015d94bb6964d57ed98b1874f656599ef164",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.itapeva.mg.leg.br/f09a8345aded81911c47292645132661c77ed446549c860a789f9a5ff90a19ca.meta.json"
+    }
+  ],
+  "total": 296
+}

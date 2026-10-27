@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Amontada</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Amontada",
+      "url" : "http://sapl.amontada.ce.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          21/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/Novo_Logo_da_Câmara_P6QOwZA.jpeg"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Amontada
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/645?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/1120/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei nº 644, de 29 de agosto de 2005
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>644</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>2005</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>29 de Agosto de 2005</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>Institui o Ensino Fundamental em nove anos na Rede Municipal de Ensino e dá outras providências.</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/1120/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt45612" ><div class="dtxt" id="d45612" pks="" pk="45612"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt45613" ><a class="dpt-link" name="45613" title="45613"></a><div class="dtxt" id="d45613" pks="" pk="45613">Institui o Ensino Fundamental em nove anos na Rede Municipal de Ensino e dá outras providências.</div></div><div class="dn" id="dn45613" pk="45613"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt45614" ><a class="dpt-link" name="45614" title="45614"></a><div class="dtxt" id="d45614" pks="" pk="45614"><p><strong>O PREFEITO MUNICIPAL DE AMONTADA</strong>, Estado do Ceará, no uso de suas&nbsp;atribuições legais, faz saber que a Câmara Municipal de Amontada aprovou e eu sanciono&nbsp;e promulgo a seguinte Lei.</p></div></div><div class="dn" id="dn45614" pk="45614"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt45615" ><div class="dtxt" id="d45615" pks="" pk="45615"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt45616" ><a class="dpt-link" name="45616">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d45616" pks="" pk="45616">Fica assegurado o Ensino Fundamental em nove anos na rede municipal de
+ensino, antecipando a matrícula para crianças de seis anos de idade:</div></div><div class="dn" id="dn45616" pk="45616"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt45617" ><a class="dpt-link" name="45617" title="45617">§ 1º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d45617" pks="" pk="45617">A universalização do atendimento em conformidade com o estabelecimento na Lei
+n° 10.172 de 20/01/2001 - Plano Nacional de Educação - PNE, tem por objetivo:</div></div><div class="dn" id="dn45617" pk="45617"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt45618" ><a class="dpt-link" name="45618" title="45618">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d45618" pks="" pk="45618">oferecer maiores oportunidades de aprendizagem no período de escolarização obrigatória;</div></div><div class="dn" id="dn45618" pk="45618"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt45619" ><a class="dpt-link" name="45619" title="45619">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d45619" pks="" pk="45619">Assegurar que ingressando mais cedo no sistema de ensino, as crianças prossigam nos estudos, alcançando maior nível de escolaridade.</div></div><div class="dn" id="dn45619" pk="45619"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt45620" ><a class="dpt-link" name="45620" title="45620">§ 2º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d45620" pks="" pk="45620">A inclusão das crianças de seis anos no Ensino Fundamental se dará com a idade
+cronológica de seis anos completos, ou que venham completar 06 anos em 30 de abril no
+ano civil, conforme parecer CNE/CEB -24/2004.</div></div><div class="dn" id="dn45620" pk="45620"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt45621" ><div class="dtxt" id="d45621" pks="" pk="45621"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt45622" ><a class="dpt-link" name="45622">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d45622" pks="" pk="45622">A Secretaria Municipal da Educação, Cultura e Desporto estabelecerá diretrizes norteadoras para a implantação de Ensino Fundamental de nove anos.</div></div><div class="dn" id="dn45622" pk="45622"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt45623" ><a class="dpt-link" name="45623" title="45623">§ 1º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d45623" pks="" pk="45623">Considerando a realidade da matrícula atual na rede municipal de ensino, a Secretaria Municipal da Educação, Cultura e Desporto fará a organização ao novo sistema, observando as particularidades existentes nas modalidades de ensino, ora ofertadas</div></div><div class="dn" id="dn45623" pk="45623"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt45624" ><a class="dpt-link" name="45624" title="45624">§ 2º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d45624" pks="" pk="45624">A Secretaria Municipal da Educação, Cultura e Desporto designara um grupo de técnicos com a finalidade de:</div></div><div class="dn" id="dn45624" pk="45624"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt45625" ><a class="dpt-link" name="45625" title="45625">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d45625" pks="" pk="45625">elaborar uma proposta pedagógica que complete em seu currículo, a formação integral
+do aluno nos seus aspectos físicos, psicológico, intelectual e social;</div></div><div class="dn" id="dn45625" pk="45625"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt45626" ><a class="dpt-link" name="45626" title="45626">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d45626" pks="" pk="45626">acompanhar, juntamente com os coordenadores pedagógicos, a efetivação do processo
+de implantação, prestando as orientações pedagógicas necessárias para melhoria dos
+resultados da aprendizagem dos alunos da rede municipal de ensino.</div></div><div class="dn" id="dn45626" pk="45626"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt45627" ><div class="dtxt" id="d45627" pks="" pk="45627"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt45628" ><a class="dpt-link" name="45628">Art. 3º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d45628" pks="" pk="45628">Cabe a Secretaria Municipal da Educação, Cultura e Desporto e dos Distritos
+Educacionais prestarem esclarecimentos necessários junto à comunidade escolar sobre
+implantação do Ensino Fundamental em nove anos.</div></div><div class="dn" id="dn45628" pk="45628"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt45629" ><div class="dtxt" id="d45629" pks="" pk="45629"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt45630" ><a class="dpt-link" name="45630">Art. 4º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d45630" pks="" pk="45630">Esta Lei entra em vigor na data de sua publicação.</div></div><div class="dn" id="dn45630" pk="45630"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt45631" ><a class="dpt-link" name="45631" title="45631"></a><div class="dtxt" id="d45631" pks="" pk="45631"><p><strong>PAÇO DA PREFEITURA MUNICIPAL DE AMONTADA, 29 de agosto de 2005.</strong></p><p style="text-align: center;"><br><strong>Edivaldo Assis de Jesus</strong><br><strong>Prefeito Municipal</strong></p></div></div><div class="dn" id="dn45631" pk="45631"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div></div></div>
+
+
+</div>
+
+  <div class="dont-break-out"><p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><span style="color: #7e8c8d; font-size: 10pt;">Os Textos Articulados possuem car&aacute;ter informativo e educativo, sendo a principal fonte de publica&ccedil;&atilde;o eletr&ocirc;nica da C&acirc;mara Municipal de Amontada devido &agrave; sua ampla acessibilidade. No entanto, em rela&ccedil;&atilde;o aos textos normativos, &eacute; indispens&aacute;vel a consulta aos documentos oficiais impressos para comprova&ccedil;&atilde;o da exist&ecirc;ncia de direitos, conforme previsto no art. 376 do C&oacute;digo de Processo Civil.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><strong><span style="font-size: 10pt; color: #7e8c8d;">PORTANTO:</span></strong><br><span style="font-size: 10pt;"><span style="color: #7e8c8d;">A Compila&ccedil;&atilde;o de Leis do&nbsp;Munic&iacute;pio de Amontada, criada pelo Departamento Legislativo, visa promover a transpar&ecirc;ncia e facilitar a pesquisa legislativa, oferecendo acesso organizado &agrave;s normas municipais. Apesar de ser uma ferramenta &uacute;til para consulta e orienta&ccedil;&atilde;o, possui limita&ccedil;&otilde;es que a impedem de ser considerada fonte completa ou definitiva. Assim, serve como apoio relevante para a constru&ccedil;&atilde;o de teses jur&iacute;dicas, mas n&atilde;o deve ser utilizada como refer&ecirc;ncia &uacute;nica. </span><span style="color: #e03e2d;">A consulta aos documentos oficiais e fontes prim&aacute;rias ainda &eacute; indispens&aacute;vel para garantir a precis&atilde;o das informa&ccedil;&otilde;es jur&iacute;dicas</span>.</span></p></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Amontada</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Dona Maria Belo, nº 1311, Centro</span>
+                  <br>
+                  CEP: <span class="postal-code">62540-000</span>
+                  |
+                  Telefone: <span>(88) 3636-1177</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="https://www.camaraamontada.ce.gov.br/" class="url">Site</a> |
+                  <a href="mailto:cmamontada@gmail.com" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+    
+
+    
+  </body>
+</html>

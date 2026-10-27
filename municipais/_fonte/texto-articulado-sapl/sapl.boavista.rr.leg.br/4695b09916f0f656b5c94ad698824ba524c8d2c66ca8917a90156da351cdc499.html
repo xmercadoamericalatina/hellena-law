@@ -1,0 +1,962 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Boa Vista</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Boa Vista",
+      "url" : "http://sapl.boavista.rr.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          20/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/thumbnail_logomarca_camara.png"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Boa Vista
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/1207?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/363/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei Ordinária nº 303, de 21 de setembro de 1993
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei Ordinária</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>303</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>1993</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>21 de Setembro de 1993</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>A REORGANIZAÇÃO DOS LOGRADOUROS, VISANDO A NOMEAÇÃO DAS RUAS AINDA NÃO CATALOGADAS E REORDENAÇÃO DOS NÚMEROS DAS CASAS DE FORMA UNIFICADA.</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/363/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt7133" ><div class="dtxt" id="d7133" pks="" pk="7133"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt7134" ><a class="dpt-link" name="7134" title="7134"></a><div class="dtxt" id="d7134" pks="" pk="7134"><p><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">DISPÕE </span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">SOBRE A REORGANIZAÇÃO DOS LOGRADOUROS, VISANDO A DENOMINAÇÃO DAS RUAS AINDA NÃO CATALOGADAS E A REORGANIZAÇÃO DOS NÚMEROS DAS CASAS DE FORMA UNIFICADA.</span></strong></p></div></div><div class="dn" id="dn7134" pk="7134"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt7135" ><a class="dpt-link" name="7135" title="7135"></a><div class="dtxt" id="d7135" pks="" pk="7135"><p class="MsoNormal" style="text-align: justify;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">A </span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">PRESIDENTE DA CÂMARA MUNICIPAL DE BOA VISTA, </span></strong><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">faz saber que a Câmara Municipal aprovou e ela promulga nos termos do § 7° do Art. 66, da Constituição Federal a seguinte</span></p><p class="MsoNormal" style="text-align: justify;">&nbsp;</p><p class="MsoNormal" style="text-align: justify;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">L E I :</span></strong></p><p class="MsoNormal" style="text-align: justify;">&nbsp;</p></div></div><div class="dn" id="dn7135" pk="7135"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt7136" ><div class="dtxt" id="d7136" pks="" pk="7136"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt7137" ><a class="dpt-link" name="7137">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d7137" pks="" pk="7137"><p><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">No </span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">Município de Boa Vista todos os órgãos públicos e privados, no cumprimento das suas atividades operacionais e administrativas, deverão utilizar a numeração adotada pela Prefeitura Municipal, nos termos desta Lei observando os seguintes casos:</span></p></div></div><div class="dn" id="dn7137" pk="7137"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt7138" ><a class="dpt-link" name="7138" title="7138">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d7138" pks="" pk="7138"><p><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">quando </span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">tal numeração for utilizada em atividades de entrega domiciliária de objetos e mensagens à população;</span></p></div></div><div class="dn" id="dn7138" pk="7138"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt7139" ><a class="dpt-link" name="7139" title="7139">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d7139" pks="" pk="7139"><p><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">quando </span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">se tratar de endereçamento em contas de água, luz, telefone, carnês e outros documentos emitidos por concessionários de serviços públicos ou por empresas privadas;</span></p></div></div><div class="dn" id="dn7139" pk="7139"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt7140" ><a class="dpt-link" name="7140" title="7140">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d7140" pks="" pk="7140"><p><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">quando </span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">se tratar de catálogos, listas ou relação que discriminem endereços no âmbito do Município de Boa Vista.</span></p></div></div><div class="dn" id="dn7140" pk="7140"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt7141" ><a class="dpt-link" name="7141" title="7141">Parágrafo único </a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d7141" pks="" pk="7141"><p><strong style="mso-bidi-font-weight: normal;"><span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">- </span></span></strong><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;"><span style="mso-spacerun: yes;">&nbsp;</span></span><span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">A numeração específica adotada pelos órgãos públicos e privados será abolida após a finalização do trabalho de ordenação, conforme art. 2° §§ 1°, 2° e 3°.</span></span></p></div></div><div class="dn" id="dn7141" pk="7141"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt7142" ><div class="dtxt" id="d7142" pks="" pk="7142"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt7143" ><a class="dpt-link" name="7143">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d7143" pks="" pk="7143"><p><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">Deverá </span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">ser efetuada a revisão da numeração existente nas ruas do Município de Boa Vista, conforme o estabelecido no art. 5°.</span></p></div></div><div class="dn" id="dn7143" pk="7143"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt7151" ><a class="dpt-link" name="7151" title="7151">§ 1º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d7151" pks="" pk="7151"><p><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">Cada </span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">casa passará a Ter apenas um número de identificação.</span></p></div></div><div class="dn" id="dn7151" pk="7151"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt7152" ><a class="dpt-link" name="7152" title="7152">§ 2º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d7152" pks="" pk="7152"><p><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">A </span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">numeração adotada em cada logradouro será ordenada seqüencialmente,</span></p></div></div><div class="dn" id="dn7152" pk="7152"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt7153" ><a class="dpt-link" name="7153" title="7153">§ 3º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d7153" pks="" pk="7153"><p><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">Para </span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">efeito<span style="mso-spacerun: yes;">&nbsp; </span>de reorganização poderá ser mantida a numeração existente atualmente desde que isto permita agilizar o processo de reordenação das casas.</span></p></div></div><div class="dn" id="dn7153" pk="7153"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt7154" ><a class="dpt-link" name="7154" title="7154">§ 4º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d7154" pks="" pk="7154"><p><span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">O prazo para revisão; a reordenação numérica das casas e a denominação das ruas, estabelecidas nos §§ 1°, 2° e 3° deste Art. e no Art. 4°, não poderá ultrapassar 180<span style="mso-spacerun: yes;">&nbsp; </span>dias a partir da data de vigência desta Lei.</span></span></p></div></div><div class="dn" id="dn7154" pk="7154"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt7155" ><div class="dtxt" id="d7155" pks="" pk="7155"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt7156" ><a class="dpt-link" name="7156">Art. 3º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d7156" pks="" pk="7156"><p><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">A </span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">população deverá ser orientada quanto ao novo sistema de numeração, devendo ser adotadas medidas para que a numeração das casas ocorra em tempo hábil.</span></p></div></div><div class="dn" id="dn7156" pk="7156"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt7157" ><a class="dpt-link" name="7157" title="7157">Parágrafo único </a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d7157" pks="" pk="7157"><p><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">- </span></strong><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;"><span style="mso-spacerun: yes;">&nbsp;</span></span><span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">As empresas que se utilizam de numeração própria, adotada especificamente para suas atividades, deverão se adaptar ao sistema de numeração estabelecido nesta Lei.</span></span></p></div></div><div class="dn" id="dn7157" pk="7157"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt7158" ><div class="dtxt" id="d7158" pks="" pk="7158"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt7159" ><a class="dpt-link" name="7159">Art. 4º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d7159" pks="" pk="7159"><p><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">Deverão </span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">ser denominadas todas as ruas ainda não catalogadas na sede do Município, as quais deverão ser incluídas no sistema de revisão numérica das casas conforme o disposto no art. 2° §§ 1° e 2°.</span></p></div></div><div class="dn" id="dn7159" pk="7159"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt7160" ><div class="dtxt" id="d7160" pks="" pk="7160"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt7161" ><a class="dpt-link" name="7161">Art. 5º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d7161" pks="" pk="7161"><p><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">O&nbsp;<em></em></span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">Poder Executivo regulamentará esta Lei no prazo de 60 dias a contar da sua publicação.</span></p></div></div><div class="dn" id="dn7161" pk="7161"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt7162" ><a class="dpt-link" name="7162" title="7162">Parágrafo único </a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d7162" pks="" pk="7162"><p><strong style="mso-bidi-font-weight: normal;"><span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">-<em></em></span></span></strong><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;"><span style="mso-spacerun: yes;">&nbsp;</span></span><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">A regulamentação de que trata este artigo, serão fixados os parâmetros para à exigência do cumprimento desta Lei.</span></p></div></div><div class="dn" id="dn7162" pk="7162"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt7163" ><a class="dpt-link" name="7163" title="7163"></a><div class="dtxt" id="d7163" pks="" pk="7163"><p class="MsoHeading7" style="margin-left: 0cm; text-indent: 0cm; text-align: center;" align="center">&nbsp;</p><p class="MsoHeading7" style="margin-left: 0cm; text-indent: 0cm; text-align: center;" align="center"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">Gabinete da Prefeita Municipal de Boa Vista – RR, em 21 de setembro de 1993.</span></p><h1 style="margin-left: 0cm; text-indent: 0cm; text-align: center;"><strong><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">MARIA DE LOURDES PINHEIRO</span></strong></h1><p style="text-align: center;"><strong style="mso-bidi-font-weight: normal;"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif; mso-fareast-font-family: 'Times New Roman'; mso-ansi-language: PT-BR; mso-fareast-language: #1000; mso-bidi-language: #1000;">Presidente</span></strong></p><p style="text-align: center;">&nbsp;</p></div></div><div class="dn" id="dn7163" pk="7163"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div></div></div>
+
+
+</div>
+
+  <div class="dont-break-out"><p>As normas publicadas no Sistema de Apoio ao Processo Legislativo da C&acirc;mara Municipal de Boa Vista - RR, n&atilde;o substituem a publica&ccedil;&atilde;o oficial. Esse sistema visa apenas facilitar a visualiza&ccedil;&atilde;o de forma mais detalhada e din&acirc;mica.<br><br>E-mail para d&uacute;vidas e sugest&otilde;es:&nbsp;<strong>dalcmbv@hotmail.com</strong></p></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Boa Vista</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Av. Capitão Ene Garcez, 992</span>
+                  <br>
+                  CEP: <span class="postal-code">69301-160</span>
+                  |
+                  Telefone: <span>(95) 3623-0974</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="http://www.boavista.rr.leg.br" class="url">Site</a> |
+                  <a href="mailto:presidencia@boavista.rr.leg.br" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-75REZKX9GY"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-75REZKX9GY');
+        </script>
+      
+    
+
+    
+  </body>
+</html>

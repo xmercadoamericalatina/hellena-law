@@ -1,0 +1,968 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Amontada</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Amontada",
+      "url" : "http://sapl.amontada.ce.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          21/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/Novo_Logo_da_Câmara_P6QOwZA.jpeg"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Amontada
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/2283?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/846/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei nº 1.547, de 27 de novembro de 2023
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>1547</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>2023</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>27 de Novembro de 2023</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>Dispõe sobre a desafetação e doação de imóvel público municipal ao Governo do Estado do Ceará, destinado a construção e instalação de Escola de Ensino Médio no Município de Amontada, e dá outras providências.</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/846/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt39408" ><div class="dtxt" id="d39408" pks="" pk="39408"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt39409" ><a class="dpt-link" name="39409" title="39409"></a><div class="dtxt" id="d39409" pks="" pk="39409">Dispõe sobre a desafetação e doação de imóvel público municipal ao Governo do Estado do Ceará, destinado a construção e instalação de Escola de Ensino Médio no Município de Amontada, e dá outras providências.</div></div><div class="dn" id="dn39409" pk="39409"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt39410" ><a class="dpt-link" name="39410" title="39410"></a><div class="dtxt" id="d39410" pks="" pk="39410"><p><strong>O PREFEITO MUNICIPAL DE AMONTADA, ESTADO DO CEARÁ</strong><br>Faço saber que a Câmara Municipal de Amontada aprovou e eu sanciono a seguinte Lei:</p></div></div><div class="dn" id="dn39410" pk="39410"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt39411" ><div class="dtxt" id="d39411" pks="" pk="39411"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt39412" ><a class="dpt-link" name="39412">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d39412" pks="" pk="39412">Fica desafetado do acervo patrimonial imobiliário do Município de Amontada, para fins de doação ao Governo do Estado do Ceará, pessoa jurídica de direito público interno, inscrito no CNPJ/MF sob o nº 07.954.480/0001-79, com sede no Palácio da Abolição, situado na Avenida Barão de Studart, 505 - Meireles - CEP 60.120-013 - Fortaleza/CE, o imóvel constante no art. 3º desta Lei, conforme Matrícula nº 1285, Livro: 2, Ficha: 1, devidamente registrado no Cartório de Rolim - Ofício Único de Registro de Imóveis da Comarca de Amontada, Estado do Ceará, destinado exclusivamente ao objeto constante no § 2º do art. 3º desta Lei.</div></div><div class="dn" id="dn39412" pk="39412"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt39413" ><div class="dtxt" id="d39413" pks="" pk="39413"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt39414" ><a class="dpt-link" name="39414">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d39414" pks="" pk="39414">Fica o Chefe do Poder Executivo Municipal autorizado a doar, com dispensa de licitação em razão do interesse público relevante, ao Governo do Estado do Ceará, pessoa jurídica de direito público interno, inscrito no CNPJ/MF sob o nº 07.954.480/0001-79, com sede no Palácio da Abolição, situado na Avenida Barão de Studart, 505 - Meireles - CEP 60.120-013 - Fortaleza/CE, o imóvel situado na Rodovia Estadual CE-176, S/N - Sítio Pernambuquinho - Distrito de Icaraí, no Município de Amontada, com áreas e dimensões, constantes no art. 3º desta Lei, conforme Matrícula nº 1285, Livro: 2, Ficha: 1, devidamente registrado no Cartório de Rolim - Ofício Único de Registro de Imóveis da Comarca de Amontada, Estado do Ceará, com cláusula de retrocessão, em favor do Ente Público doador, destinado exclusivamente ao objeto constante no § 2º do art. 3º desta Lei.</div></div><div class="dn" id="dn39414" pk="39414"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt39415" ><div class="dtxt" id="d39415" pks="" pk="39415"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt39416" ><a class="dpt-link" name="39416">Art. 3º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d39416" pks="" pk="39416"><p>O imóvel de que dispõe esta Lei possui as seguintes características: Um terreno urbano de formato regular, situado na localidade denominada de Sítio Pernambuquinho, situado no Município de Amontada, Estado do Ceará, contendo uma <strong>área total de 10.696,78 m²</strong><strong>- (1,0696 ha)</strong>, perímetro igual a <strong>413,95m,</strong> com a seguinte descrição, limites e confrontações: <strong>Ao Norte (Lado Esquerdo)</strong>: medindo 107,89m, do vértice <strong>V-01</strong> de coordenadas (Este X=427.312,62 / Norte Y=9.663.995,13) ao vértice <strong>V-02</strong> de coordenadas (Este X = 427.387,51 / Norte Y= 9.663.917,46), no sentido oeste/leste, com azimute verdadeiro de (136º02'35") e com um ângulo interno em <strong>V-01</strong> de (90º00'00"), confrontando com a propriedade de Luís Gonçalves de Sousa; <strong>Ao Leste (Frente)</strong>: medindo 100,02m, do vértice <strong>V-02</strong> de coordenadas (Este X=427.387,51 / Norte Y=9.663.917,46) ao vértice <strong>V-03</strong> de coordenadas (Este X=427.314,23 / Norte Y=9.663.849,38), no sentido norte/sul, com azimute verdadeiro de (226º02'35") e com um ângulo interno em <strong>V-02</strong> de (88º56'20"), confrontando com a Rodovia Estadual - CE-176; <strong>Ao Sul (Lado Direito)</strong>: medindo 106,04m, do vértice <strong>V-03 </strong>de coordenadas (Este X=427.314,23 / Norte Y=9.663.849,38) ao vértice <strong>V-04 </strong>de coordenadas (Este X=427.240,63 / Norte Y=9.663.925,72), no sentido leste/oeste, com azimute verdadeiro de (316º02'35") e com um ângulo interno em <strong>V-03</strong> de (91º03'40") confrontando com propriedade de Luís Gonçalves de Sousa; <strong>Ao Oeste (Fundos)</strong>: medindo 100,00m, do vértice <strong>V-04</strong> de coordenadas (Este X=427.240,63 / Norte Y=9.663.925 ,72) ao vértice <strong>V-01</strong> de coordenadas (Este X=427.312,62 / Norte Y=9.663.995,13), no sentido sul/norte, com azimute verdadeiro de (46º02'35") e com um ângulo interno em <strong>V-04</strong> de (90º00'00"), confrontando com propriedade de Luís Gonçalves de Sousa.</p></div></div><div class="dn" id="dn39416" pk="39416"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt39417" ><a class="dpt-link" name="39417" title="39417">§ 1º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d39417" pks="" pk="39417">O imóvel descrito no caput deste artigo é o constante da Matrícula nº 1285, Livro: 2, Ficha: 1, devidamente registrado no Cartório de Rolim - Ofício Único de Registro de Imóveis da Comarca de Amontada, Estado do Ceará.</div></div><div class="dn" id="dn39417" pk="39417"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt39418" ><a class="dpt-link" name="39418" title="39418">§ 2º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d39418" pks="" pk="39418">O imóvel descrito no caput deste artigo será destinado exclusivamente à construção de uma Escola de Ensino Médio, Rural, Tipo I.</div></div><div class="dn" id="dn39418" pk="39418"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt39419" ><a class="dpt-link" name="39419" title="39419">§ 3º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d39419" pks="" pk="39419">Havendo desvio de finalidade ao que estabelece o parágrafo anterior, o imóvel descrito no caput deste artigo, objeto de desafetação, e doação ao Governo do Estado do Ceará, será revertido ao patrimônio público municipal, incontinenti e sem aviso prévio, interpelação ou notificação judicial e sem ônus para a municipalidade.</div></div><div class="dn" id="dn39419" pk="39419"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt39420" ><div class="dtxt" id="d39420" pks="" pk="39420"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt39421" ><a class="dpt-link" name="39421">Art. 4º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d39421" pks="" pk="39421">A doação a que se refere esta Lei, terá sempre o caráter de irretratabilidade e de irrevogabilidade, salvo se for descumprida, pelo donatário, as condições estabelecidas no artigo anterior.</div></div><div class="dn" id="dn39421" pk="39421"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt39422" ><a class="dpt-link" name="39422" title="39422">Parágrafo único </a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d39422" pks="" pk="39422">No instrumento público de doação deverá constar, obrigatoriamente, entre outras, cláusulas especiais a que:</div></div><div class="dn" id="dn39422" pk="39422"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt39423" ><a class="dpt-link" name="39423" title="39423">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d39423" pks="" pk="39423">o imóvel ficará vinculado à construção de uma escola de ensino médio por parte do Governo do Estado do Ceará;</div></div><div class="dn" id="dn39423" pk="39423"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt39424" ><a class="dpt-link" name="39424" title="39424">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d39424" pks="" pk="39424">o imóvel não poderá ser alienado à terceiros;</div></div><div class="dn" id="dn39424" pk="39424"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt39425" ><a class="dpt-link" name="39425" title="39425">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d39425" pks="" pk="39425">o donatário deverá cumprir todas as exigências da legislação municipal pertinente à matéria;</div></div><div class="dn" id="dn39425" pk="39425"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt39426" ><a class="dpt-link" name="39426" title="39426">IV</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d39426" pks="" pk="39426">o não cumprimento dos encargos e obrigações desta Lei, fará reverter ao Município o imóvel ou valor correspondente, corrigido monetariamente.</div></div><div class="dn" id="dn39426" pk="39426"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt39427" ><div class="dtxt" id="d39427" pks="" pk="39427"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt39428" ><a class="dpt-link" name="39428">Art. 5º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d39428" pks="" pk="39428">As despesas decorrentes da doação do imóvel, correrão por conta do Município de Amontada, de acordo com o orçamento público municipal.</div></div><div class="dn" id="dn39428" pk="39428"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt39429" ><a class="dpt-link" name="39429" title="39429">Parágrafo único </a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d39429" pks="" pk="39429">Fica o Poder Executivo autorizado, mediante Decreto, a abrir crédito especial ao orçamento vigente, para a cobertura das despesas decorrentes desta Lei.</div></div><div class="dn" id="dn39429" pk="39429"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt39430" ><div class="dtxt" id="d39430" pks="" pk="39430"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt39431" ><a class="dpt-link" name="39431">Art. 6º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d39431" pks="" pk="39431">Esta Lei entra em vigor na data de sua publicação.</div></div><div class="dn" id="dn39431" pk="39431"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt39432" ><a class="dpt-link" name="39432" title="39432"></a><div class="dtxt" id="d39432" pks="" pk="39432"><p class="MsoNormal" style="text-align: left;" align="right"><strong>PAÇO DA PREFEITURA MUNICIPAL DE AMONTADA</strong>, em 27 de novembro de 2023.</p><p class="MsoNormal" align="right">&nbsp;</p><p class="MsoNormal" style="text-align: center;" align="right">Flávio César Bruno Teixeira Filho<br><strong>Prefeito Municipal de Amontada</strong></p></div></div><div class="dn" id="dn39432" pk="39432"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div></div></div>
+
+
+</div>
+
+  <div class="dont-break-out"><p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><span style="color: #7e8c8d; font-size: 10pt;">Os Textos Articulados possuem car&aacute;ter informativo e educativo, sendo a principal fonte de publica&ccedil;&atilde;o eletr&ocirc;nica da C&acirc;mara Municipal de Amontada devido &agrave; sua ampla acessibilidade. No entanto, em rela&ccedil;&atilde;o aos textos normativos, &eacute; indispens&aacute;vel a consulta aos documentos oficiais impressos para comprova&ccedil;&atilde;o da exist&ecirc;ncia de direitos, conforme previsto no art. 376 do C&oacute;digo de Processo Civil.</span></p>
+<p style="text-align: justify;">&nbsp;</p>
+<p style="text-align: justify;"><strong><span style="font-size: 10pt; color: #7e8c8d;">PORTANTO:</span></strong><br><span style="font-size: 10pt;"><span style="color: #7e8c8d;">A Compila&ccedil;&atilde;o de Leis do&nbsp;Munic&iacute;pio de Amontada, criada pelo Departamento Legislativo, visa promover a transpar&ecirc;ncia e facilitar a pesquisa legislativa, oferecendo acesso organizado &agrave;s normas municipais. Apesar de ser uma ferramenta &uacute;til para consulta e orienta&ccedil;&atilde;o, possui limita&ccedil;&otilde;es que a impedem de ser considerada fonte completa ou definitiva. Assim, serve como apoio relevante para a constru&ccedil;&atilde;o de teses jur&iacute;dicas, mas n&atilde;o deve ser utilizada como refer&ecirc;ncia &uacute;nica. </span><span style="color: #e03e2d;">A consulta aos documentos oficiais e fontes prim&aacute;rias ainda &eacute; indispens&aacute;vel para garantir a precis&atilde;o das informa&ccedil;&otilde;es jur&iacute;dicas</span>.</span></p></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Amontada</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Dona Maria Belo, nº 1311, Centro</span>
+                  <br>
+                  CEP: <span class="postal-code">62540-000</span>
+                  |
+                  Telefone: <span>(88) 3636-1177</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="https://www.camaraamontada.ce.gov.br/" class="url">Site</a> |
+                  <a href="mailto:cmamontada@gmail.com" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+    
+
+    
+  </body>
+</html>

@@ -1,0 +1,394 @@
+{
+  "criterio": "Confronta DOCX simples com Markdown sem depender do conversor textutil.\n\nSem publicação automática: somente OOXML sem imagens, tabelas, campos, listas\nimplícitas, revisões ou partes textuais adicionais pode passar pelo confronto.\nToda estrutura não suportada permanece retida, incluindo links externos.\n",
+  "resultados": [
+    {
+      "path": "municipais/MG/itapeva/emendas-lei-organica/2011/emendas-lei-organica-8-2011-sapl-944.md",
+      "sha256": "8e4e22881fcd7ab276b6f52152465a8a2685e6e0dcc9a1fe8d77912fd8cc8ba7",
+      "aprovado": true,
+      "fonte": "https://sapl.itapeva.mg.leg.br/norma/944",
+      "fonte_texto": "https://sapl.itapeva.mg.leg.br/media/sapl/public/normajuridica/2011/944/emenda_008_-_2011_de_09_de_fevereiro.docx",
+      "fonte_binaria": {
+        "path": "municipais/_fonte/organicas-sapl/sapl.itapeva.mg.leg.br/944.bin",
+        "sha256": "e1c74b73b082cea504b97dd136aeeef8722391352ce2eae2f4fa15dd50d8954e"
+      },
+      "partes_ooxml": [
+        {
+          "path_ooxml": "word/document.xml",
+          "sha256": "223f2c3b5dc3801239ad579250d78e9a0d3b9e08d55c85631bc7df91d755430e"
+        },
+        {
+          "path_ooxml": "word/theme/theme1.xml",
+          "sha256": "49395915f6cc932b649456e8369b23f32ee5e7531d39ba821942b12b0c2b62e1"
+        },
+        {
+          "path_ooxml": "word/settings.xml",
+          "sha256": "ba4ccf167b98df54701ba0e7d4f08d184e628bc750e7323987a8021fab0b631d"
+        },
+        {
+          "path_ooxml": "word/styles.xml",
+          "sha256": "bbc6fff004edcc26b452a0a970deb137121e352fbf7946892c9ca651fda32edc"
+        },
+        {
+          "path_ooxml": "word/webSettings.xml",
+          "sha256": "5e0de111fbc9f99dab9067eb9cd883fa916aaf1958d43d4ef07cfd05a2329a54"
+        },
+        {
+          "path_ooxml": "word/fontTable.xml",
+          "sha256": "b6ae85be8e8607a97ad3afde4da8d38cf8926a2bea25482fca1704c6d2728bda"
+        }
+      ],
+      "texto_nativo": "\n\nEMENDA 008/2011 DE 09 DE FEVEREIRO\n\n\n\nMODIFICA O ART. 67 DA LEI ORGÂNICA MUNICIPAL.\n\n\n\nA Câmara Municipal de Itapeva, Estado de Minas Gerais, por meio de seus vereadores aprovou e a sua Mesa Diretora, com fulcro no art. 43, §2º da Lei Orgânica deste Município, promulga a seguinte emenda ao texto organizacional :\n\n\n\n\n\nArt. 1º. O Art. 67 da Lei Orgânica Municipal passa a vigorar com a seguinte redação:\n\n\n\nArt. 67. O Prefeito poderá delegar, por decreto, aos Secretários, diretores equivalentes e ao Procurador Municipal, funções administrativas que não sejam de sua competência exclusiva\n\n\n\nArt. 2º - Esta Emenda Organizacional entra em vigor na data de sua publicação.\n\n\n\nItapeva, 09 de fevereiro de 2.011.\n\n\n\nJURANDIR CESÁRIO BEZERRA\n\nPresidente da Câmara\n\n\n\nDANIEL PEREIRA DO COUTO\n\nVice-Presidente \n\n\n\n\n\nDEVANIL LAURINDO DA SILVA\n\nSecretário da Mesa",
+      "tokens": 133,
+      "data_epigrafe_clara_conferida": false
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-1-2015-sapl-2520.md",
+      "sha256": "4136eed1f867ddf09704cd380744e057f31b141a3d311c177135a909ac517108",
+      "aprovado": true,
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2520",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2520/emenda_a_lei_organica_do_municipio_no_001_de_2015_-_altera_o_inciso_vii_do_art._8o_da_lei_organica.docx",
+      "fonte_binaria": {
+        "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2520.bin",
+        "sha256": "ef8f2becc9eb9d7a4c093f20d5e1c4fb8d35ff4f386eb50926675b2444d7d227"
+      },
+      "partes_ooxml": [
+        {
+          "path_ooxml": "word/document.xml",
+          "sha256": "428f7e7d7c49cb6474bf921f3469b86e48c90f1b389874dc1ff06791ea562bfe"
+        },
+        {
+          "path_ooxml": "word/theme/theme1.xml",
+          "sha256": "5d3012bb168650fe74e87dbe1d8939f5d05b8053bbaea41006959a1113e14adf"
+        },
+        {
+          "path_ooxml": "word/settings.xml",
+          "sha256": "efb47f8e7be873fc8748c030d115c989b8b574c34e78613e8731128981b3485d"
+        },
+        {
+          "path_ooxml": "word/fontTable.xml",
+          "sha256": "3dfb4cbbf29b52e82ca0d4e34390dba47d8bfaef578d023432f46bc711454d7e"
+        },
+        {
+          "path_ooxml": "word/webSettings.xml",
+          "sha256": "73da9b07f1d2b8d95dd47ac08cae7d7441046f64cd1efaad646db80fa8cf367e"
+        },
+        {
+          "path_ooxml": "word/styles.xml",
+          "sha256": "d0c108b89f5397fe1d0bc9ac537fcbca4a63ba883c6d511656ad5b4b1d13fd1e"
+        },
+        {
+          "path_ooxml": "word/stylesWithEffects.xml",
+          "sha256": "874a6ba9635fe4f1fb51532844059042d6e11eee9a2bce1b455b481b7f91e2da"
+        }
+      ],
+      "texto_nativo": "\n\n\n\n\n\n\n\nEMENDA A LEI ORGÂNICA DO MUNICÍPIO Nº 001/2015\n\nALTERA A REDAÇÃO DO INCISO VII, DO ARTIGO 8º DA LEI ORGÂNICA DO MUNICÍPIO. \n\nA Mesa Diretora da Câmara Municipal de Planalto, Comarca de Buritama Estado de São Paulo, no uso de suas atribuições legais.\n\nFaz Saber que o Plenário da Câmara Municipal Aprovou e ela SANCIONA E PROMULGA a seguinte Emenda.\n\nARTIGO 1º - O inciso VII do Artigo 8º da lei Orgânica do Município de Planalto passa a vigorar com a seguinte redação: \n\n“VII ‐ fixar os subsídios do Prefeito, do Vice‐Prefeito, do Presidente da Câmara e dos Vereadores, em cada legislatura, para o subsequente, observados os artigos 37, XI, 150, II, 153, III e 153, § 2°. I da Constituição Federal;”\n\n\n\nARTIGO 2º - Esta Emenda entrará em vigor na data de sua publicação, revogando-se as disposições em contrário. \n\nCâmara Municipal de Planalto, 01 de outubro de 2015. \n\n\n\nValdeci Romera\n\nPresidente\n\n\n\nJosé Roberto de Godoy\n\nVice-Presidente\n\n\n\nJamilto de Paula\n\n1º Secretário\n\n\n\nDaniele Nogueira Chaves\n\n2ª Secretária",
+      "tokens": 167,
+      "data_epigrafe_clara_conferida": false
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-2-2015-sapl-2521.md",
+      "sha256": "dc58c5fce0a115463d8542da56c2d55f79a2a3b6b53f7e1dce11180978bedfd5",
+      "aprovado": true,
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2521",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2521/emenda_a_lei_organica_do_municipio_no_002_de_2015_-_altera_o_art._19_da_lei_organica.docx",
+      "fonte_binaria": {
+        "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2521.bin",
+        "sha256": "73581ea8d81db27b0755f2c7c56daf2da3a1e7dc5e58f64f95a8cdcddb515b86"
+      },
+      "partes_ooxml": [
+        {
+          "path_ooxml": "word/document.xml",
+          "sha256": "9c821463225956f9be1eeac4ab697c1b30d07454ed600480dc663acfff244869"
+        },
+        {
+          "path_ooxml": "word/theme/theme1.xml",
+          "sha256": "5d3012bb168650fe74e87dbe1d8939f5d05b8053bbaea41006959a1113e14adf"
+        },
+        {
+          "path_ooxml": "word/settings.xml",
+          "sha256": "5cd6d7b61ad9781ec9d76f50638bceb3fac7a47b92efc70560ecbd2228ad1412"
+        },
+        {
+          "path_ooxml": "word/fontTable.xml",
+          "sha256": "3dfb4cbbf29b52e82ca0d4e34390dba47d8bfaef578d023432f46bc711454d7e"
+        },
+        {
+          "path_ooxml": "word/webSettings.xml",
+          "sha256": "73da9b07f1d2b8d95dd47ac08cae7d7441046f64cd1efaad646db80fa8cf367e"
+        },
+        {
+          "path_ooxml": "word/styles.xml",
+          "sha256": "d0c108b89f5397fe1d0bc9ac537fcbca4a63ba883c6d511656ad5b4b1d13fd1e"
+        },
+        {
+          "path_ooxml": "word/stylesWithEffects.xml",
+          "sha256": "874a6ba9635fe4f1fb51532844059042d6e11eee9a2bce1b455b481b7f91e2da"
+        }
+      ],
+      "texto_nativo": "\n\n\n\n\n\n\n\nEMENDA A LEI ORGÂNICA DO MUNICÍPIO Nº 002/2015\n\nALTERA A REDAÇÃO DO ARTIGO 19 DA LEI ORGÂNICA DO MUNICÍPIO. \n\nA Mesa Direitora da Câmara Municipal de Planalto, Comarca de Buritama Estado de São Paulo, no uso de suas atribuições legais.\n\nFaz Saber que o Plenário da Câmara Municipal Aprovou e ela SANCIONA E PROMULGA a seguinte Emenda.\n\nARTIGO 1º - O Artigo 19 da lei Orgânica do Município passa a vigorar com a seguinte redação:\n\n“ARTIGO 19 A eleição para renovação da Mesa, realizar‐se‐à após o dia 16 (dezesseis) de dezembro até dia 31 de dezembro, considerando‐se automaticamente empossados os eleitos a partir de 1º de janeiro do ano subseqüente.” \n\n\n\nARTIGO 2º - Esta Emenda entrará em vigor na data de sua publicação, revogando-se as disposições em contrário. \n\nCâmara Municipal de Planalto, 01 de outubro de 2015. \n\n\n\nValdeci Romera\n\nPresidente\n\n\n\nJosé Roberto de Godoy\n\nVice-Presidente\n\n\n\nJamilto de Paula\n\n1º Secretário\n\n\n\nDaniele Nogueira Chaves\n\n2ª Secretária",
+      "tokens": 159,
+      "data_epigrafe_clara_conferida": false
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-3-2015-sapl-2522.md",
+      "sha256": "ab38fce52128684879699cb0a134cbd0dc5542ed76df105fd5c9815328959fcb",
+      "aprovado": true,
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2522",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2522/emenda_a_lei_organica_do_municipio_no_003_de_2015_-_acrescenta_o_inciso_iii_ao_art._47_da_lei_organica.docx",
+      "fonte_binaria": {
+        "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2522.bin",
+        "sha256": "6e2c2a801dc06f3bc4cddcb69d2b5b4a82945602e1a54e2cee1f057988dbb82b"
+      },
+      "partes_ooxml": [
+        {
+          "path_ooxml": "word/document.xml",
+          "sha256": "ec26caf1ca86e88935d81146fa5511ca4e638f0ab362009587506d20fad2ec49"
+        },
+        {
+          "path_ooxml": "word/theme/theme1.xml",
+          "sha256": "5d3012bb168650fe74e87dbe1d8939f5d05b8053bbaea41006959a1113e14adf"
+        },
+        {
+          "path_ooxml": "word/settings.xml",
+          "sha256": "9372d98deef340e74ec588fbbcba3623f3520df16a05e634ce03baaeeaf2355a"
+        },
+        {
+          "path_ooxml": "word/fontTable.xml",
+          "sha256": "3dfb4cbbf29b52e82ca0d4e34390dba47d8bfaef578d023432f46bc711454d7e"
+        },
+        {
+          "path_ooxml": "word/webSettings.xml",
+          "sha256": "73da9b07f1d2b8d95dd47ac08cae7d7441046f64cd1efaad646db80fa8cf367e"
+        },
+        {
+          "path_ooxml": "word/styles.xml",
+          "sha256": "d0c108b89f5397fe1d0bc9ac537fcbca4a63ba883c6d511656ad5b4b1d13fd1e"
+        },
+        {
+          "path_ooxml": "word/stylesWithEffects.xml",
+          "sha256": "874a6ba9635fe4f1fb51532844059042d6e11eee9a2bce1b455b481b7f91e2da"
+        }
+      ],
+      "texto_nativo": "\n\n\n\n\n\n\n\nEMENDA A LEI ORGÂNICA DO MUNICÍPIO Nº 003/2015\n\nACRESCENTA O INCISO III AO ARTIGO 47 DA LEI ORGÂNICA DO MUNICÍPIO. \n\nA Mesa Direitora da Câmara Municipal de Planalto, Comarca de Buritama Estado de São Paulo, no uso de suas atribuições legais.\n\nFaz Saber que o Plenário da Câmara Municipal Aprovou e ela SANCIONA E PROMULGA a seguinte Emenda.\n\nARTIGO 1º - Fica acrescido o inciso III ao Artigo 47 da lei Orgânica do Município, que passa a vigorar com a seguinte redação:\n\n“Inciso III Fica garantida a fiscalização da Câmara Municipal em todas as suas contas e o acesso da comunidade a licitações do Executivo e do Legislativo.”\n\n\n\nARTIGO 2º - Esta Emenda entrará em vigor na data de sua publicação, revogando-se as disposições em contrário. \n\nCâmara Municipal de Planalto, 01 de outubro de 2015. \n\n\n\nValdeci Romera\n\nPresidente\n\n\n\nJosé Roberto de Godoy\n\nVice-Presidente\n\n\n\nJamilto de Paula\n\n1º Secretário\n\n\n\nDaniele Nogueira Chaves\n\n2ª Secretária",
+      "tokens": 154,
+      "data_epigrafe_clara_conferida": false
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-4-2015-sapl-2523.md",
+      "sha256": "18770d34148d68a59ad0e3bad9e48a6bfb8171c4638e12ff5e52f5c6712b2bee",
+      "aprovado": true,
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2523",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2523/emenda_a_lei_organica_do_municipio_no_004_de_2015_-altera_a_redacao_do_paragrafo_3o_do_art._50_da_lei_organica.docx",
+      "fonte_binaria": {
+        "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2523.bin",
+        "sha256": "a4d30ae147f4029f171d5b0dc12d668499a88e0911a78ecb700953b9fb17ec5f"
+      },
+      "partes_ooxml": [
+        {
+          "path_ooxml": "word/document.xml",
+          "sha256": "0f30b8bd5d44708a196eeb31c31efa3197522ca0e75f091c4b6da508b44a9db7"
+        },
+        {
+          "path_ooxml": "word/theme/theme1.xml",
+          "sha256": "5d3012bb168650fe74e87dbe1d8939f5d05b8053bbaea41006959a1113e14adf"
+        },
+        {
+          "path_ooxml": "word/settings.xml",
+          "sha256": "c90707841f88667820d0dd24702cb28e42fe2d2cf6da267b0601c891ecf7b56f"
+        },
+        {
+          "path_ooxml": "word/fontTable.xml",
+          "sha256": "3dfb4cbbf29b52e82ca0d4e34390dba47d8bfaef578d023432f46bc711454d7e"
+        },
+        {
+          "path_ooxml": "word/webSettings.xml",
+          "sha256": "73da9b07f1d2b8d95dd47ac08cae7d7441046f64cd1efaad646db80fa8cf367e"
+        },
+        {
+          "path_ooxml": "word/styles.xml",
+          "sha256": "d0c108b89f5397fe1d0bc9ac537fcbca4a63ba883c6d511656ad5b4b1d13fd1e"
+        },
+        {
+          "path_ooxml": "word/stylesWithEffects.xml",
+          "sha256": "874a6ba9635fe4f1fb51532844059042d6e11eee9a2bce1b455b481b7f91e2da"
+        }
+      ],
+      "texto_nativo": "\n\n\n\n\n\n\n\nEMENDA A LEI ORGÂNICA DO MUNICÍPIO Nº 004/2015\n\nALTERA A REDAÇÃO DO PARÁGRAFO 3º DO ARTIGO 50 DA LEI ORGÂNICA DO MUNICÍPIO. \n\nA Mesa Diretora da Câmara Municipal de Planalto, Comarca de Buritama Estado de São Paulo, no uso de suas atribuições legais.\n\nFaz Saber que o Plenário da Câmara Municipal Aprovou e ela SANCIONA E PROMULGA a seguinte Emenda.\n\nARTIGO 1º - O parágrafo 3º do Artigo 50 da lei Orgânica do Município passa a vigorar com a seguinte redação:\n\n“Parágrafo 3º No ato de posse e ao término do mandato, o Prefeito e o Vice‐Prefeito farão declaração pública de seus bens, devendo ser anualmente atualizadas, de acordo com a legislação Federal.”\n\n\n\nARTIGO 2º - Esta Emenda entrará em vigor na data de sua publicação, revogando-se as disposições em contrário. \n\nCâmara Municipal de Planalto, 01 de outubro de 2015. \n\n\n\nValdeci Romera\n\nPresidente\n\n\n\nJosé Roberto de Godoy\n\nVice-Presidente\n\n\n\nJamilto de Paula\n\n1º Secretário\n\n\n\nDaniele Nogueira Chaves\n\n2ª Secretária",
+      "tokens": 160,
+      "data_epigrafe_clara_conferida": false
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-5-2015-sapl-2526.md",
+      "sha256": "2bd9b44a77f1de05891627ed5e064d50488100ec3ae9732410973a31cf091ae7",
+      "aprovado": true,
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2526",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2526/emenda_a_lei_organica_do_municipio_no_005_de_2015_-altera_a_redacao_do_paragrafo_unico_do_art._59_da_lei_organica.docx",
+      "fonte_binaria": {
+        "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2526.bin",
+        "sha256": "244d7b5031f1f3c0ef55d734bd608f0ddd3a9e7e422f68e5efee12c090b8e152"
+      },
+      "partes_ooxml": [
+        {
+          "path_ooxml": "word/document.xml",
+          "sha256": "b7da2b045c6dd9b1f91d8381004dceffc7dc24b07dbb03d0bf9483f98cb05e5d"
+        },
+        {
+          "path_ooxml": "word/theme/theme1.xml",
+          "sha256": "5d3012bb168650fe74e87dbe1d8939f5d05b8053bbaea41006959a1113e14adf"
+        },
+        {
+          "path_ooxml": "word/settings.xml",
+          "sha256": "6b1882fc6764017c3d706d4541f45ce11c1b04244a1ad8c0bc0c313a026efea2"
+        },
+        {
+          "path_ooxml": "word/fontTable.xml",
+          "sha256": "3dfb4cbbf29b52e82ca0d4e34390dba47d8bfaef578d023432f46bc711454d7e"
+        },
+        {
+          "path_ooxml": "word/webSettings.xml",
+          "sha256": "73da9b07f1d2b8d95dd47ac08cae7d7441046f64cd1efaad646db80fa8cf367e"
+        },
+        {
+          "path_ooxml": "word/styles.xml",
+          "sha256": "d0c108b89f5397fe1d0bc9ac537fcbca4a63ba883c6d511656ad5b4b1d13fd1e"
+        },
+        {
+          "path_ooxml": "word/stylesWithEffects.xml",
+          "sha256": "874a6ba9635fe4f1fb51532844059042d6e11eee9a2bce1b455b481b7f91e2da"
+        }
+      ],
+      "texto_nativo": "\n\n\n\n\n\n\n\nEMENDA A LEI ORGÂNICA DO MUNICÍPIO Nº 005/2015\n\nALTERA A REDAÇÃO DO PARÁGRAFO ÚNICO DO ARTIGO 59 DA LEI ORGÂNICA DO MUNICÍPIO. \n\nA Mesa DIretora da Câmara Municipal de Planalto, Comarca de Buritama Estado de São Paulo, no uso de suas atribuições legais.\n\nFaz Saber que o Plenário da Câmara Municipal Aprovou e ela SANCIONA E PROMULGA a seguinte Emenda.\n\nARTIGO 1º - O parágrafo único do Artigo 59 da lei Orgânica do Município passa a vigorar com a seguinte redação:\n\n“Parágrafo único Nos casos deste artigo, o Prefeito licenciado terá direito ao subsidio.”\n\n\n\nARTIGO 2º - Esta Emenda entrará em vigor na data de sua publicação, revogando-se as disposições em contrário. \n\nCâmara Municipal de Planalto, 01 de outubro de 2015. \n\n\n\nValdeci Romera\n\nPresidente\n\n\n\nJosé Roberto de Godoy\n\nVice-Presidente\n\n\n\nJamilto de Paula\n\n1º Secretário\n\n\n\nDaniele Nogueira Chaves\n\n2ª Secretária",
+      "tokens": 140,
+      "data_epigrafe_clara_conferida": false
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-6-2015-sapl-2527.md",
+      "sha256": "1a5f96efb2d482d0deeb3d8909fe4ed8fcf2e3ebf0bcd7836f182f805516e899",
+      "aprovado": true,
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2527",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2527/emenda_a_lei_organica_do_municipio_no_006_de_2015_-altera_a_redacao_do__art._92_da_lei_organica.docx",
+      "fonte_binaria": {
+        "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2527.bin",
+        "sha256": "437808e91173da70206c7632291f6dd314573b5112ac7f214b97631eb9d3f864"
+      },
+      "partes_ooxml": [
+        {
+          "path_ooxml": "word/document.xml",
+          "sha256": "ad1d1e7f4ce46ab2978bcb3260b0261d994eb640f3312b5970c00b1792d19d82"
+        },
+        {
+          "path_ooxml": "word/theme/theme1.xml",
+          "sha256": "5d3012bb168650fe74e87dbe1d8939f5d05b8053bbaea41006959a1113e14adf"
+        },
+        {
+          "path_ooxml": "word/settings.xml",
+          "sha256": "506600ea3a2e84307b72497d2e6ce6db2784e2fc6ccb79a32e4b9bc1803b700e"
+        },
+        {
+          "path_ooxml": "word/fontTable.xml",
+          "sha256": "3dfb4cbbf29b52e82ca0d4e34390dba47d8bfaef578d023432f46bc711454d7e"
+        },
+        {
+          "path_ooxml": "word/webSettings.xml",
+          "sha256": "73da9b07f1d2b8d95dd47ac08cae7d7441046f64cd1efaad646db80fa8cf367e"
+        },
+        {
+          "path_ooxml": "word/styles.xml",
+          "sha256": "d0c108b89f5397fe1d0bc9ac537fcbca4a63ba883c6d511656ad5b4b1d13fd1e"
+        },
+        {
+          "path_ooxml": "word/stylesWithEffects.xml",
+          "sha256": "874a6ba9635fe4f1fb51532844059042d6e11eee9a2bce1b455b481b7f91e2da"
+        }
+      ],
+      "texto_nativo": "\n\n\n\n\n\n\n\nEMENDA A LEI ORGÂNICA DO MUNICÍPIO Nº 006/2015\n\nALTERA A REDAÇÃO DO ARTIGO 92 DA LEI ORGÂNICA DO MUNICÍPIO. \n\nMesa Diretora da Câmara Municipal de Planalto, Comarca de Buritama Estado de São Paulo, no uso de suas atribuições legais.\n\nFaz Saber que o Plenário da Câmara Municipal Aprovou e ela SANCIONA E PROMULGA a seguinte Emenda.\n\nARTIGO 1º - O Artigo 92 da lei Orgânica do Município passa a vigorar com a seguinte redação:\n\n“ARTIGO 92 São estáveis após três anos de efetivo exercício os servidores nomeados para cargo de provimento efetivo em virtude de concurso público.”\n\n\n\nARTIGO 2º - Esta Emenda entrará em vigor na data de sua publicação, revogando-se as disposições em contrário. \n\nCâmara Municipal de Planalto, 01 de outubro de 2015. \n\n\n\nValdeci Romera\n\nPresidente\n\n\n\nJosé Roberto de Godoy\n\nVice-Presidente\n\n\n\nJamilto de Paula\n\n1º Secretário\n\n\n\nDaniele Nogueira Chaves\n\n2ª Secretária",
+      "tokens": 143,
+      "data_epigrafe_clara_conferida": false
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-7-2015-sapl-2528.md",
+      "sha256": "e6cd7bfee75fd1b67c7e25723e62ef17f9f661538e47b97b3a5811c64735bd52",
+      "aprovado": true,
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2528",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2528/emenda_a_lei_organica_do_municipio_no_007_de_2015_-altera_a_redacao_do_paragrafo_2o__art._144_da_lei_organica.docx",
+      "fonte_binaria": {
+        "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2528.bin",
+        "sha256": "8b02e5fbf16d42464bc3588d4fa01fc5e9d62f437fe216f484f61c68fdcb2b4a"
+      },
+      "partes_ooxml": [
+        {
+          "path_ooxml": "word/document.xml",
+          "sha256": "89f8347337d96f6c1f393761af9a4744c97962c3424605bef25853eb53c08a3b"
+        },
+        {
+          "path_ooxml": "word/theme/theme1.xml",
+          "sha256": "5d3012bb168650fe74e87dbe1d8939f5d05b8053bbaea41006959a1113e14adf"
+        },
+        {
+          "path_ooxml": "word/settings.xml",
+          "sha256": "38302745e584fe05d7aa43d2c48e018196e440a411c26813aaacec71df7f41f8"
+        },
+        {
+          "path_ooxml": "word/fontTable.xml",
+          "sha256": "3dfb4cbbf29b52e82ca0d4e34390dba47d8bfaef578d023432f46bc711454d7e"
+        },
+        {
+          "path_ooxml": "word/webSettings.xml",
+          "sha256": "73da9b07f1d2b8d95dd47ac08cae7d7441046f64cd1efaad646db80fa8cf367e"
+        },
+        {
+          "path_ooxml": "word/styles.xml",
+          "sha256": "d0c108b89f5397fe1d0bc9ac537fcbca4a63ba883c6d511656ad5b4b1d13fd1e"
+        },
+        {
+          "path_ooxml": "word/stylesWithEffects.xml",
+          "sha256": "874a6ba9635fe4f1fb51532844059042d6e11eee9a2bce1b455b481b7f91e2da"
+        }
+      ],
+      "texto_nativo": "\n\n\n\n\n\n\n\nEMENDA A LEI ORGÂNICA DO MUNICÍPIO Nº 007/2015\n\nALTERA A REDAÇÃO DO PARÁGRAFO 2º DO ARTIGO 144 DA LEI ORGÂNICA DO MUNICÍPIO. \n\nA Mesa Diretora da Câmara Municipal de Planalto, Comarca de Buritama Estado de São Paulo, no uso de suas atribuições legais.\n\nFaz Saber que o Plenário da Câmara Municipal Aprovou e ela SANCIONA E PROMULGA a seguinte Emenda.\n\nARTIGO 1º - O parágrafo 2º do Artigo 144 da lei Orgânica do Município passa a vigorar com a seguinte redação:\n\n“§ 2° Fica assegurado anualmente uma dotação de até 30% (Trinta por cento) sobre a Receita Orçamentária municipal, excluídos os impostos locais, destinados à Entidades Filantrópicas do Município e ainda à Santa Casa de José Bonifácio, Hospital São Francisco de Buritama e ainda Hospital de Base de São José do Rio Preto, por se tratarem de Entidades que também prestam serviços de assistência médica e social no Município, legalmente constituídas e que estejam praticando os seus fins.”\n\n\n\nARTIGO 2º - Esta Emenda entrará em vigor na data de sua publicação, revogando-se as disposições em contrário. \n\nCâmara Municipal de Planalto, 01 de outubro de 2015. \n\n\n\nValdeci Romera\n\nPresidente\n\n\n\nJosé Roberto de Godoy\n\nVice-Presidente\n\n\n\nJamilto de Paula\n\n1º Secretário\n\n\n\nDaniele Nogueira Chaves\n\n2ª Secretária",
+      "tokens": 203,
+      "data_epigrafe_clara_conferida": false
+    },
+    {
+      "path": "municipais/RS/coronel-barros/resolucoes/2023/resolucoes-3-2023-sapl-96.md",
+      "sha256": "e318c3cf410ae7f0e25e106489d175f9b8b1ace554f3179c1c5067f0ccbbea0e",
+      "aprovado": true,
+      "fonte": "https://sapl.coronelbarros.rs.leg.br/norma/96",
+      "fonte_texto": "https://sapl.coronelbarros.rs.leg.br/media/sapl/public/normajuridica/2023/96/resolucao_de_mesa_no_03_-_ponto_facultativo_carnaval.docx",
+      "fonte_binaria": {
+        "path": "municipais/_fonte/organicas-sapl/sapl.coronelbarros.rs.leg.br/96.bin",
+        "sha256": "00daa925d838067051e108863805c7440c4ad7649bb987acbf1a462a83c620eb"
+      },
+      "partes_ooxml": [
+        {
+          "path_ooxml": "word/document.xml",
+          "sha256": "4ac30544d152ca201c2db0d01d16fe8811c3e2a3d5fbdb47d154587926077532"
+        },
+        {
+          "path_ooxml": "word/theme/theme1.xml",
+          "sha256": "49395915f6cc932b649456e8369b23f32ee5e7531d39ba821942b12b0c2b62e1"
+        },
+        {
+          "path_ooxml": "word/settings.xml",
+          "sha256": "38803afc7459097d8462b85debdec79a23e7d3767549da38aa07df85db8e0a4e"
+        },
+        {
+          "path_ooxml": "word/styles.xml",
+          "sha256": "08d9c7a8e26998b4b9ee690bd5ea5a7648e741f282a026ea021ef28338b4589c"
+        },
+        {
+          "path_ooxml": "word/webSettings.xml",
+          "sha256": "a935be2dde349160ee390cc5b6a06aa057cfd44feac230f6eff440889f53902f"
+        },
+        {
+          "path_ooxml": "word/fontTable.xml",
+          "sha256": "4a268018e1f1057231c337b7f15d39664565ea7af8275dd4f21686c71e578a1f"
+        }
+      ],
+      "texto_nativo": "RESOLUÇÃO DE MESA Nº 03, DE 17 DE FEVEREIRO DE 2023\n\n\n\nAdota ponto facultativo na Câmara Municipal de Coronel Barros.\n\n\n\nA Mesa Diretora, dispondo dos poderes previstos no Inciso II do Art. 19 do Regimento Interno, considerando as comemorações do Carnaval;\n\nRESOLVE\n\nArt. 1º Adota ponto facultativo na Câmara Municipal de Coronel Barros nos dias 20 e 21 de fevereiro do ano de 2023.\n\nParágrafo único. O ponto facultativo está previsto no Decreto nº 3.391 de 15 de fevereiro de 2023, editado pelo Poder Executivo.\n\nArt. 2º Esta Resolução de mesa entra em vigor na data de sua publicação.\n\n\n\nSala da Câmara Municipal de Coronel Barros, em 17 de fevereiro de 2023.\n\n\n\n\n\nLUCAS JAIR WOTTRICH\n\nPresidente\n\n\n\nRegistre-se e Publique-se\n\n17/02/2023\n\n\n\n\n\n\n\nCRISTIANA DOS SANTOS ARNT\n\nSecretária",
+      "tokens": 130,
+      "data_epigrafe_clara_conferida": false
+    }
+  ],
+  "script_sha256": "b7a2088d24be4e9238f1d46a4d5a15809ee04b6f55689e9196682f61875b126d"
+}

@@ -1,0 +1,1263 @@
+{
+  "cadastro_ibge": {
+    "path": "municipais/_indice/ibge-municipios.json",
+    "sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c"
+  },
+  "resultados": [
+    {
+      "path": "municipais/RS/agudo/lei-organica/1990/lei-organica-1-1990-sapl-2541.md",
+      "sha256": "668a2348567a7910fa89da507231cd24dab745797f359407990ea646cc09211b",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/e3477e6745e9853b5d951a92ccbc1d658ccbbf1df8871a436a305482a8f37cdc.json.gz",
+        "sha256": "eceb50e306857a09418b87d17b77ca2f97794efdf9ab6ba7fbe8f7dc4fe37313",
+        "sha256_layout": "1d7ec45151ce2a3151474855f6c82b8ca1a3707b599cf5b7adcab236701008e3",
+        "sha256_bbox": "8b3cdb67b40c35bc887cf5037086c903d3e8529788c012d9cd9e7907ba9b73e5"
+      }
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2008/emendas-lei-organica-15-2008-sapl-1613.md",
+      "sha256": "1e5192306f45863498316c5b6b7e0eca9f661ae452d35c4674b33de3830d4327",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/09bfeb96030b5d11ddc364c80d4c35f3c655d698e29e3df4f048b16eea4b9b74.json.gz",
+        "sha256": "466cc756d178f9b8ad8b22c3da3048a1ce520dd3a56b246995ad7a8ce506c2f6",
+        "sha256_layout": "9944b549674e4cb045e82e1bf2a76a32dc394816cc4899f23006cb1c4c986ae7",
+        "sha256_bbox": "12df7fe45fcd82a721729881c31e63a752bd881ed19e58362fa6290d97157a4d"
+      }
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2008/emendas-lei-organica-17-2008-sapl-2230.md",
+      "sha256": "8b196a438e94012d6a75eb89ac9ae08eba77c18d0c8c4f4a2b97f58d4ab20b27",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/332934f011ccc0e3fa2d1dbe5c9209e337d900c53bbb558efdc71c4b38a72cd1.json.gz",
+        "sha256": "8efcea9d874003fe962efc4a05225c39bd1cfd2d3301f233096efb154e837275",
+        "sha256_layout": "10cf4169c353f793cdf78b6a31851d8f87b65ac6b0a1c3c5296c7377a1dccfb7",
+        "sha256_bbox": "4778febfa0a37bfe5eac1e9e041496a234b80779b7844792af6990890cdff9e0"
+      }
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2010/emendas-lei-organica-19-2010-sapl-2318.md",
+      "sha256": "8b331b6b925542bf63b5e2862397788c7eef7a5a6109423c9b19093b7def9c45",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/e3350c455605b30456a69dd42c9936480601e03e72336b5acb932528ba0c2ffd.json.gz",
+        "sha256": "8fa363193d5f91724d26652f5d004d254738908813dbca7009afc91a5ee211b2",
+        "sha256_layout": "a5553e85267125e24988bc2dd174b512edac2ff6add2a3d7f6fc1d4b54c2b7a2",
+        "sha256_bbox": "76a4be30e06d6fc9cd20fec65989341a02317ef43a95aed257515a5751f6327f"
+      }
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2013/emendas-lei-organica-22-2013-sapl-3308.md",
+      "sha256": "923beb7e52b19ed0479085c285640243273d6e2d9c53a6a62b29c056f03d4bd4",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/a327ac3d64993eadaa6df705822b834e02ef043912c1a1507be94572ce3b61be.json.gz",
+        "sha256": "c682a84825f09feca73b338ed3485b05e80e141fb6f62a670d37b6e15ea90505",
+        "sha256_layout": "116a8a78965ac494f6f9171a5d38b12212d17cbf67eb8d959be30685b87fca70",
+        "sha256_bbox": "f00e66f5e2c44873a4ef921f4f8ee8bdfa9d73e099f1cff5456eaa5de5992a7e"
+      }
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2013/emendas-lei-organica-23-2013-sapl-3309.md",
+      "sha256": "95b14dda9a0e93986479cfc09722e50c5d9822d17cff6bedc23b180f32d12385",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/df4bfabe7c9201ca51d2e494d3144f2f5e9cc3495bd6c462af850992e56a967d.json.gz",
+        "sha256": "5d228d5c0d2ea370b1606931f6ce9281f3fd23f7f1773e1d2dc1500ac3389df5",
+        "sha256_layout": "776f4e060530c30c16029cac3e0bba492ed7f24c71e77c51092c9d9f6a75251f",
+        "sha256_bbox": "6ec51dac47cfd3a087f0e96a01afb2ee6ee6b10b6ddfad5fd857770b58e8ad01"
+      }
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2013/emendas-lei-organica-24-2013-sapl-3307.md",
+      "sha256": "3989e5ca6c5ac63e2a0b2adcc54aaea1ee79ddd85c0c790c4b1157fa42e2b61f",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/96e47594725974ac4cf7a3dcbde30c3fb93639fc603bbdb7b22387a20e073d0a.json.gz",
+        "sha256": "d2b05578ef2348223a2202e32aea526a0cc864e8ffe8131efa25c21fc1919ed6",
+        "sha256_layout": "05cb416c6650be3a157a83a0d5264620eeeaef29c8146181ea54ecb3dc7a061c",
+        "sha256_bbox": "abbbfea135cdc6db365547a98d011b4451e9078c4856c9243dab882f7d1f04ac"
+      }
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2014/emendas-lei-organica-25-2014-sapl-3392.md",
+      "sha256": "b7dce9707cacbbd5c58488e7f0e9f5c904c911da85916e729cdc2969f578fc71",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/4e5ade1e140b08977450b58bba77289eb1ccc7a7a815fdb58d19dac63d6dd2ec.json.gz",
+        "sha256": "294ee2da5d7ec50e21024a6e7efd25d019ac675abf420344107a370438e5ae08",
+        "sha256_layout": "13f1ee4f5c24bbe4ac5f274f11d1371a4d3bb3943e876dcf6d69bf9c0b4a96a7",
+        "sha256_bbox": "c1f4cdb5ac6a6ef8570588c236a0180c66575078fd2ff076f2381eaf478b91e8"
+      }
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2014/emendas-lei-organica-26-2014-sapl-3393.md",
+      "sha256": "6f96f0912ed3bd203fb569a0f2e9440ca567c16f2dc0f3c9ab934bee951991a4",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/c9242ae47f946571f8b1a7f5d74cd9189a76dba84d7b7f3c2ece85802316a9ae.json.gz",
+        "sha256": "f18d8f6dcfd82c439b3a269dad17ab31380c2c67367e65444f5d9e5b8f84fc9e",
+        "sha256_layout": "82e39013b1b92ae0838ff3a18ebad99629005b13d5bc8821c44097fc86a6c3cc",
+        "sha256_bbox": "49bb5be98279006faedd20b48717a1ad8efe85775e38b5363ece3b0cfd3f40bc"
+      }
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2014/emendas-lei-organica-27-2014-sapl-3988.md",
+      "sha256": "8857d56d8ba9328d47656231eda5086560149ccce46b45401e1e0c9ee2e29ad8",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/5e69613b14cfd97b437220209896265e2e32a55cc2dc578c49e0f4a13dfbf8bc.json.gz",
+        "sha256": "160da67f4ceefa0354f03273cbb06260620a64b82f6a5550b38d18717b0d4da6",
+        "sha256_layout": "d83b861284d5b8360a578c5f6415925bc80b1b421f47af81b53fd395fda0657e",
+        "sha256_bbox": "9cfb24b7cb61f5d4ee6a976f888fbc1aa3a081bc795e215ad7997f3b392fbcba"
+      }
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2015/emendas-lei-organica-28-2015-sapl-3985.md",
+      "sha256": "c29284bd27ce3ab96e8e66862d93775a4e33f5d7eb28724c48971fec7b94a140",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/8d8c6ba22cf2ee284a49165b1acb47ee88ad8b946fcd71bbb89341d8d163733e.json.gz",
+        "sha256": "d6bc09ef312eb52a5fa38def8596a76803287a2a1210b86a01c181fe9e30d83c",
+        "sha256_layout": "eee8b5a7c7c4e6742d95d1c30722b743c435e5b00964a228bdf4b3ea9ef6611e",
+        "sha256_bbox": "60df091553b5659f66df0f575bc229ba9bf5d4b7acdf081aeaca1f49b9594819"
+      }
+    },
+    {
+      "path": "municipais/ES/domingos-martins/emendas-lei-organica/2015/emendas-lei-organica-29-2015-sapl-3987.md",
+      "sha256": "fe255e32a0c58e5fc3931cd7e0752d1d9cf9c6ddd29f71639e726422702b9e29",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/e6311a234d2499067c561801168d1f88ce544900632989b8ec0496ba55a6ce8e.json.gz",
+        "sha256": "c0d89f04a0eb4e2d4908c6c512b83400e5407901956b6536aba9609197f5afc6",
+        "sha256_layout": "61ecf9e0af1396982b00d94d01a0e72e7cde4834ef1d1df57ac48955d7db1b8c",
+        "sha256_bbox": "da56a585277dd99e3ebadbee93267199e481042bacf64386b38cc172fd667416"
+      }
+    },
+    {
+      "path": "municipais/MG/delfim-moreira/emendas-lei-organica/2022/emendas-lei-organica-7-2022-sapl-1692.md",
+      "sha256": "ccd32da75974db8d5f5cdd6ee65bec386ff32a59280bc36b21ed4d51cfe310e2",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/161bc6ae3fa4d131afda193f72d676076db550f0ba879952193d9fef9948be52.json.gz",
+        "sha256": "a245331b3a65ff9f566c4766b09a44fc0b7c8f209810c94d132402e73128f85e",
+        "sha256_layout": "fa3405909d7311d96c2dd3482b71b434ab123f5b0905638a04cda06ae659cf14",
+        "sha256_bbox": "fe00841c13c111787b5e6d3b9e7539561480755848309bc4ecb5befd4cf45c15"
+      }
+    },
+    {
+      "path": "municipais/MG/delfim-moreira/emendas-lei-organica/2022/emendas-lei-organica-8-2022-sapl-1694.md",
+      "sha256": "c197480e686580c5c6f96b4632c8e740401e6ec2114668cd1372d021dab3c7a1",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/9ac8c5adf2eb0e2cbee3dbfb2d90755ba9f7bac86d0a57be783db59b4851b22d.json.gz",
+        "sha256": "98692339afa312824e492d0769016bd46f02f09df5bd8318ce1b4a40bb656131",
+        "sha256_layout": "e6bd8fd74484083d3f97b57f7717b24d59341ec4bb7c633e3df23e4bd0877f44",
+        "sha256_bbox": "8864cdafe4009406fc35bbda178913535ff1afac020758b91dc277475b6029b6"
+      }
+    },
+    {
+      "path": "municipais/MG/lagoa-da-prata/emendas-lei-organica/2013/emendas-lei-organica-20-2013-sapl-4599.md",
+      "sha256": "2a1a153224e2d52f425a3745e75eb50f3480fef7789520ff920f3a4e427e18d9",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/d6dcd4485860e503d8eee67cae079930c727edc829db9559889d0340469b4076.json.gz",
+        "sha256": "82f09295f0737bc56c5fb67b51f96f4c30ce1749f5afa94f51c46d27b7a4d0e6",
+        "sha256_layout": "48d7e2b8698695bdc129daeb0ed8a3ee983063dd40b1b5353fcc47569259b13b",
+        "sha256_bbox": "94c34f5e756f639a4dfddc7ef67f9d1ec50b82ab63686eaba77f064eb0bed0ff"
+      }
+    },
+    {
+      "path": "municipais/MG/lagoa-da-prata/emendas-lei-organica/2018/emendas-lei-organica-32-2018-sapl-4611.md",
+      "sha256": "fc221c40bcf670b1b38f87462746509dfc1358059f7703f3d657e0d517ce16be",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/cee2737d450a7ddcb7e64dbe52da8f0a9be8cd7d76ab29f6a5de63e2cd43bfc4.json.gz",
+        "sha256": "66ad6c54f74c24dd40ea4adaac4160e835afde40ccf221a1756ffb53fe53e5f0",
+        "sha256_layout": "a5026b196c883fe9f993b6fa5af8e1a54941695d48338bb7ae6184601e664914",
+        "sha256_bbox": "3a210a6b1e1b7cf9290baa1570f2e43b0f6c78f5c93270bee412ee66b5e1da39"
+      }
+    },
+    {
+      "path": "municipais/MG/lagoa-da-prata/emendas-lei-organica/2018/emendas-lei-organica-33-2018-sapl-4612.md",
+      "sha256": "25d619565d2f234937d5691c5c9a04075c771d4287a7a63f5ce0b16665ce32e7",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/bf4b4f79c9f76e322efa5ea1e96e02b56ffbb3e079381569529853ab5576d261.json.gz",
+        "sha256": "788c386782e626c9c93dee188427ba864d75710342e4d9aec9c5e14b12f55896",
+        "sha256_layout": "d20ab0c108cfb11201d0d801ba82304df7300b6be8559a1991fe42e55f611a55",
+        "sha256_bbox": "adcb7d1c75ccfa7340cc147e4a8843ae9431dba087fcadd7eac41fd5331717c1"
+      }
+    },
+    {
+      "path": "municipais/MG/lagoa-da-prata/emendas-lei-organica/2018/emendas-lei-organica-34-2018-sapl-4613.md",
+      "sha256": "ec1ba59de74832971725bd31b68f0e312591ce87bd3975dc079e448eb0687ab6",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/fc8ef7a85e0659d3d3a2e39bc072168f65daa41d99848ce38d6aa4ac49d18ca7.json.gz",
+        "sha256": "abba21581255aa7ad1fe1d737fdfb3f8881c81813a6b6b4c4e403d210958d63b",
+        "sha256_layout": "ed4611c9e4ffa978ca8875e1e2bc1be7db599938b43353228c8ca3fda5f0ea61",
+        "sha256_bbox": "f4188ab465e9e90b494d7d1e4304d9161ac824a5929b9c9db3d91526868b2f13"
+      }
+    },
+    {
+      "path": "municipais/MG/lagoa-da-prata/emendas-lei-organica/2019/emendas-lei-organica-35-2019-sapl-4769.md",
+      "sha256": "5a15e4adcf9f59b2565906e7615045fbcdbbe40bb79f0ac7a20063a9a4aad1d8",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/c69a9bd5e278d00e8e74bc02441f12fda43736f8046d1d2827e3fca381f25888.json.gz",
+        "sha256": "4fa0794b6338b5bb95acbe099cb6f8bad96d9d6d7868b2c58266138540499acd",
+        "sha256_layout": "657c73f8069633623921076e447fb2ea9b12ac263ac683a0d8b6f62b8b18189d",
+        "sha256_bbox": "92ba3e520b21fe6bdfe7f5411ce07aceb29d53fe44a256b304aff1756d17f06a"
+      }
+    },
+    {
+      "path": "municipais/MG/lagoa-da-prata/emendas-lei-organica/2020/emendas-lei-organica-36-2020-sapl-4770.md",
+      "sha256": "c5cae36c2df01cb26c3a50e6a550f2466acecdf31aa7ade9ef843e71bf0950c2",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/35cd14a61cdba054d59462a3cd309e70a96651a4d0fe5835fa15d2913ba62cbf.json.gz",
+        "sha256": "f94288d789b0338412a86872b9a606e72e8fde7d9cd96e8ee7c6c5913248539c",
+        "sha256_layout": "b529fffef4db61b0c2ac77964ceb907a6931229f6f24c43cb1b4db88c5a90afa",
+        "sha256_bbox": "860ba98c663660ce90fe8f40035b109753eb82d0d961005bbf0de93ba0f68f7c"
+      }
+    },
+    {
+      "path": "municipais/MG/manhumirim/emendas-lei-organica/2015/emendas-lei-organica-9-2015-sapl-224.md",
+      "sha256": "0de064f07a4720596e22dd444f9459c6cf65b1f562e224eadc7858cbf26e7be9",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/caf80e40778e9cb675c04e6504213a61d0203856afcb563468f4ad9f2a022ad0.json.gz",
+        "sha256": "62a0964faf92ec254db4b2037770f52c463abb03ed5fb1e4257971730854d632",
+        "sha256_layout": "640159ba988c0ab701576ef140afd9cdfaca27b937c4704deaedc89cf6617cb3",
+        "sha256_bbox": "7dc5a922aabed563f829e5384abcd9b5162af211eb014a0c1044cab66a24b7e1"
+      }
+    },
+    {
+      "path": "municipais/MG/manhumirim/emendas-lei-organica/2016/emendas-lei-organica-10-2016-sapl-225.md",
+      "sha256": "0697e52400fe84002c46d08919ef939f3a90b5f74fd340ce059d39b44fbbe206",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/bfed516e29a508c9132213e22beb65b8d682a338c1f579b822de5be515ffaa16.json.gz",
+        "sha256": "e8822eb7f827a252989e50625460ac5b568e6ebfc7c2012c524ccfda33731e55",
+        "sha256_layout": "3009adfb71e9c274ced7f4fbc4942028bb7f310c6a397ea06d0445dcf35759ca",
+        "sha256_bbox": "12981e1aedf9344005a351a7a7fc4a923fd5e35215ada4a3ac2136281fc198dc"
+      }
+    },
+    {
+      "path": "municipais/MG/ponte-nova/emendas-lei-organica/2025/emendas-lei-organica-33-2025-sapl-8624.md",
+      "sha256": "bb3bea4d94516e5502100f297fd07018d9f97e89dd1c4aafe791f46042bca248",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/0b61f8840f46def16289cf58b3f41cff2bca440a138368623e939c3b76673788.json.gz",
+        "sha256": "528840ff4a6bda61f3c9a61cc0c396ff862d1ea1c6e5b96fc914e5f93a3e8a5e",
+        "sha256_layout": "395d639c51ba4313f966f2027f04ffb095c86054e287e5ccc9178350ed75fbc2",
+        "sha256_bbox": "47f0c14fe63d11fc969c47b1bda425c8005886d9e339fe303c535582b5b5d94d"
+      }
+    },
+    {
+      "path": "municipais/MG/ponte-nova/emendas-lei-organica/2025/emendas-lei-organica-34-2025-sapl-8767.md",
+      "sha256": "b43bdc0fa1cc22406755b001a7ebbd6549f0ef62ffd0634e9ef6dd7b8a6fbb00",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/9a56cc30941d8c94d0628c177a41845db5c327629f0bbce13fbe32b1cfd63c32.json.gz",
+        "sha256": "4109e7faba7549c698435dfd7fa3f38938bb38884fdd1676eb00ff7802648a49",
+        "sha256_layout": "f32cd81ed4ab12c1e50139da58529299d6affcf6d6645a1a3d763324972dc4fd",
+        "sha256_bbox": "27cd83182f07dba29775e1a0ea667ec38d151c2e766e25c56489e57090dfced7"
+      }
+    },
+    {
+      "path": "municipais/MG/uba/emendas-lei-organica/1992/emendas-lei-organica-1-1992-sapl-3.md",
+      "sha256": "62b7ce05c7ad5dd4d1dc9c6069b71f71ee29d0b8f926c9265a4d8328f667d5d9",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/eccccc7d4e3fa0d4ee5a40e2c6a136a87cff64119c19270c066ef5f8d10b76ec.json.gz",
+        "sha256": "5a23e32fcd61adc047c6f47fbf300c84c11ddcb1ff27e1f515edf0fb98b24ea2",
+        "sha256_layout": "1bb31f2ed908ac793807f70cd3231c83aaadf0dfd693009c2e3e00a9a70099a7",
+        "sha256_bbox": "be38b053a9ef365df94efc2dae6938a626d043a702d87eb72b9f134c19935fa1"
+      }
+    },
+    {
+      "path": "municipais/MG/uba/emendas-lei-organica/1992/emendas-lei-organica-2-1992-sapl-4.md",
+      "sha256": "b370499300d2c8f84b09d6aaeda77004041b1f15eb923450f8426acded5e9722",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/24840924c11be738af53c04c741ce04bde8070e412247aeb5e2e1c8d92605dad.json.gz",
+        "sha256": "2201b3afad0e220dc6043773ffe6b8757766c506922e5046121f510861c18a75",
+        "sha256_layout": "66c0e0aac756c01dfd8f0595fff858a585836c800086c23ff397048f2ee36125",
+        "sha256_bbox": "1bb257d6b849cb67c4fc5665e21809543c624dd7dd4fdd42e1df44ea9b1ff21c"
+      }
+    },
+    {
+      "path": "municipais/MG/uba/emendas-lei-organica/1996/emendas-lei-organica-4-1996-sapl-6.md",
+      "sha256": "f4d3b3612be5f903b5be591cb12620463560805869582a9b82be321092d04f84",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/c0062ef958f7adedef9bb022b7074d00112ddbfbd540c57c51b4e016532ea677.json.gz",
+        "sha256": "290914d7f5c051303b418796c765a6f37d7b96b5fa3a509d7d7416aa77d34586",
+        "sha256_layout": "e070b34a3edd435cda8de659e736ef1d5f2bd7e18cad2fe6830d5736452cbe58",
+        "sha256_bbox": "2ca9aa0047da2537f23a7c32b3ecc2adb6a9dee7315e16ff3249dec5e4db0d51"
+      }
+    },
+    {
+      "path": "municipais/MS/ribas-do-rio-pardo/emendas-lei-organica/2023/emendas-lei-organica-1-2023-sapl-1757.md",
+      "sha256": "7cac6f4a470b1f0df986acfd4590029aa322838acc1c79f805122f668a26bd31",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/dd060e8dcead28595274b0e66890491fe44ba01e678269441aa7a875e189bb66.json.gz",
+        "sha256": "b670e93d9ea7b91f767471bd4f3aeef2397046ff5561a468a474e95abfde8fd9",
+        "sha256_layout": "94b054041ae313867109a07f8571a9bc317ed7cbbfcae7f91cde7e21f9e1b233",
+        "sha256_bbox": "0b2fab83d7f6523e45faf49b25e5b98ffaed2daadf88c42b1e1560c10b28cf14"
+      }
+    },
+    {
+      "path": "municipais/MS/ribas-do-rio-pardo/emendas-lei-organica/2024/emendas-lei-organica-1-2024-sapl-2027.md",
+      "sha256": "00b547dd4465d322840b7d616a2f9b066b2aeb844de44b002ae323afc4a2cdd1",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/62cf207df60248ab7511fd4bced824ad1855d6a9387c03c4d9b94fecabef8acc.json.gz",
+        "sha256": "70ce256badd43e3bdfd7f27ef18732ac318c8c36f131e7b306d1b8b8b5bfcd71",
+        "sha256_layout": "4d9f59f0755fa29e323768a9a13c1df01632d9a36c093bd4a62045767b6a1b51",
+        "sha256_bbox": "9f289eb6f46302418fa546a64309b6dd729534771899539db485b0a7d79ddd89"
+      }
+    },
+    {
+      "path": "municipais/PB/joao-pessoa/emendas-lei-organica/1995/emendas-lei-organica-4-1995-sapl-12944.md",
+      "sha256": "0909f9de8a57a5e748ab4602d4a95500c409a32b8ed16f0480341f6cd58eb063",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/0407bc6fa057fe6a9d9c2902766f0a4a5da38f378f4104a1219721a57b5a0eb0.json.gz",
+        "sha256": "89fb6aa3ee2adc0a14e8a8262c844cdb8cc5ca6a612ec5614e10a6d6cda7b208",
+        "sha256_layout": "226bde8a2d7493f7b1f00f919908ef56ee243256cbb13a22cef8987d78ca27c0",
+        "sha256_bbox": "8cf044013899316aae1d1dbaf28e68a094f20aa5751db5d607de30816ab0a565"
+      }
+    },
+    {
+      "path": "municipais/PB/joao-pessoa/emendas-lei-organica/1998/emendas-lei-organica-5-1998-sapl-12943.md",
+      "sha256": "777b94cd41b5b044bfd03fa9fd75b4ae555b08c58b674b377498b104d97506f1",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/e2df27e8419b5e3b91c99adfe92b943dd65aefe3ae4743f294913673b62326f3.json.gz",
+        "sha256": "86ecee124a53d6112f49f35ec60fc9dd14eb26711b9e4e60b70da4c408b62458",
+        "sha256_layout": "f6f6c90971d129799aaa9e23ae375c0c5cf2b6db691bc639693e8e0e4bea0ab9",
+        "sha256_bbox": "82e5cf2375ef8c946155a21a86eb4781768138a989df7c56ebe84c32f5ef5ec5"
+      }
+    },
+    {
+      "path": "municipais/PR/california/emendas-lei-organica/2014/emendas-lei-organica-3-2014-sapl-135.md",
+      "sha256": "51a57bbbe96690aa52e3f0d2dbf96a4e7e94864063e1b9f040750412e28d3abe",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/26fc7fd27fe53789f38b1b94c5de1bc0155d4f1c52261b32fa533274bf378106.json.gz",
+        "sha256": "ae094c72fb43463a7436d84ea29d9a121e072eb937822f9739dd5cd7cac0f6e1",
+        "sha256_layout": "e63e328ad6483079d62550c67a957f821240c15854b20e7df95b8442f3147c2b",
+        "sha256_bbox": "1a8815c216f0079b3fd3ffa728458e817705b5e5f490c7d56b2680ca2e19b850"
+      }
+    },
+    {
+      "path": "municipais/PR/california/emendas-lei-organica/2017/emendas-lei-organica-4-2017-sapl-262.md",
+      "sha256": "41c493973478931f9a86cea745632419833c86bafcf723d59268ae715f338ccc",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/7373f756ee33ef19ca90f6db0450f1c954c2d854c92804ddabfe81c0e97d9a3c.json.gz",
+        "sha256": "685daa8b76173517e25e1f9ee0db63793456ec96dac01cfe1ed98ea14d1a7da5",
+        "sha256_layout": "89f5653992ec5f0fbcd714bc9d4414ef2bab696749bdeee023fc599b6c3d022a",
+        "sha256_bbox": "966ddbbbb08eb20b44ad228ba57d3a09d54e6769de1d140441c0fa6e74a42abd"
+      }
+    },
+    {
+      "path": "municipais/PR/california/emendas-lei-organica/2020/emendas-lei-organica-5-2020-sapl-418.md",
+      "sha256": "1109db66f6cc2cd0fc3a10fff1f0dc58c04b6dc8fd70fcda3d804ae4020222e8",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/48597fbe1ca5fbc91822a7068352a71621fc2d1b660e1e12f82d9e51f5078526.json.gz",
+        "sha256": "604adcd298cfb2a3581d779caf8107c815f9aebb59307554c6d8925a99b327c6",
+        "sha256_layout": "f932e8832d0781910833114492421760ad2747099d94df9118e6af440f2d26e6",
+        "sha256_bbox": "cd5f7f05e1f6f035f6f7ba8d56d9d6af62ecd4f9377e0eed7d0e533e8b448e39"
+      }
+    },
+    {
+      "path": "municipais/PR/cambira/emendas-lei-organica/2011/emendas-lei-organica-1-2011-sapl-46.md",
+      "sha256": "94a1682f2086a525d466e1ad6776f1cd3633b06c07f0d1c20a359ea0da2b8c7c",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/0f2e3d7bef5f3c49babbc1512d59a14ada177676c5a7ce4216020c8392e2dec4.json.gz",
+        "sha256": "2eb6d00fef96abc416eb6ab7e666d8ebb7bc466f0d16c0cc51fde9e1fde154fa",
+        "sha256_layout": "b5040005d9cb389098c5b7d41ad7040b204c42400d1cb5257fe704a44d074c83",
+        "sha256_bbox": "5d6b839d42bff14bab3c6b1960fdf2f9739a7030230e5186df7d01dd9d75e587"
+      }
+    },
+    {
+      "path": "municipais/PR/cambira/emendas-lei-organica/2013/emendas-lei-organica-1-2013-sapl-47.md",
+      "sha256": "19ec315eac647b4e8672dfa57e9776363c0a2a493d441ad570e6937d8cab64b5",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/58469ce4f81ebe48952e3b96b0ff53890855e1493c1503a44f9dbe9ac39e6de8.json.gz",
+        "sha256": "18347e257834346f9325087429a9286bfe3da10a0b49ba7fe5965384e9345dc4",
+        "sha256_layout": "5ce7f98cee036df4576521787a69dfbce0047695b056a7d3417e34056035b7ff",
+        "sha256_bbox": "62f59783c15d1901656208df44951dedceddb5b91886d1d7c522031e2c3659f0"
+      }
+    },
+    {
+      "path": "municipais/PR/corbelia/emendas-lei-organica/1994/emendas-lei-organica-3-1994-sapl-414.md",
+      "sha256": "b83f87739b57d6b9d95a43e3b4c1a1526371860f9cf3f5d29611ea6026d48fbf",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/67a3775af6afa7cd6a6fc0c410f13551186b0c2b10ce30ad6bc054c96fbd560e.json.gz",
+        "sha256": "7e0c162c05c3c72721eed43a0425a46342fe3a8cbab3ac4b4385be1bb00e8439",
+        "sha256_layout": "29e6e9dd5670c9558b921332a8ea545397ee40491f116a771821f2030b2a065d",
+        "sha256_bbox": "4cc36040a8d1a6546be5d829774d7f2ebc0e380691150a8f4c237594409ce193"
+      }
+    },
+    {
+      "path": "municipais/PR/corbelia/emendas-lei-organica/1998/emendas-lei-organica-4-1998-sapl-415.md",
+      "sha256": "be6f0f2d651bca8e24cb2e0061703c73c5ab0910bb991cc8c2fd81288f058922",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/308e9faaf65931c0dce553d65459a638e93b86f2e3af39dd4d2b59385ee5c68e.json.gz",
+        "sha256": "fff7ad221b5a84ac372a745d99fa33a1d011a7fea3045f1f4bbbd0c1dbfff06a",
+        "sha256_layout": "db47e5c527f7963bf491b19889e0b5613f511c41cd42e112b74aaaf16bffdc43",
+        "sha256_bbox": "60e05fae8855a7d8090377db2d77e6855ca2f76dd03fc95eabe419e62921bb14"
+      }
+    },
+    {
+      "path": "municipais/PR/corbelia/emendas-lei-organica/2000/emendas-lei-organica-5-2000-sapl-420.md",
+      "sha256": "3492567c7bc72191e7b9398f6d69544fd6cffae3e638bd6d725bd684c151eb40",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/eb8844ccfeb6df0bbb92b9b55aa4782940eeb6867723c8489b37e9cff8203465.json.gz",
+        "sha256": "dc43e9d9331044eebf976979b692272a8e4eab2768bee516ca6dc30b4fcdb3a8",
+        "sha256_layout": "8c1cf3528c8d9e0f6afd32e451881dcf2829d5ed8e5b0f15ef087fc88a7fb854",
+        "sha256_bbox": "a1897eeba1d42d71a4c4e956599016d519587f5c0537718862d76054cac870e5"
+      }
+    },
+    {
+      "path": "municipais/PR/corbelia/emendas-lei-organica/2018/emendas-lei-organica-11-2018-sapl-180.md",
+      "sha256": "21fcdf436671593b0abdac258a1b31c785272fcfb3b829aaafe0931cb993a451",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/3d1592c5ea995b51eb7bf817e9001fd1e582fabe8856efe9de9d44e358cb9754.json.gz",
+        "sha256": "024417edce91248d4cb2b953720a5f5d08fd9d412c4aa34df9af525b2503b16b",
+        "sha256_layout": "ee75766d4267263b08f03b336c6053bfcfab32c450c8b63c72665560732b2400",
+        "sha256_bbox": "e6ca03eceb694acad30a655c201162997ca7e0352fa2565549cd907e68b3edb9"
+      }
+    },
+    {
+      "path": "municipais/PR/jataizinho/emendas-lei-organica/2009/emendas-lei-organica-1-2009-sapl-187.md",
+      "sha256": "de7e5a6b64401f79c4cddd8c50de68f530ac38094587e501c7084e0611b213e8",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/ef1301433c48cb16875f958800ca71d470e72dfbed9219cf287c4e1bc8265e1e.json.gz",
+        "sha256": "e3c497fc40e089a9155832ad0dc140fa8ef95125a97a914e4a7c11f0b5f31867",
+        "sha256_layout": "ad50a659b5731f6d975cea16014b54639462afac98c9e9a842ae7328deccfe86",
+        "sha256_bbox": "47d49d7efd67c20fe3c8a220897232b6f27fadcf23b10380080015c020e535c1"
+      }
+    },
+    {
+      "path": "municipais/PR/jataizinho/emendas-lei-organica/2009/emendas-lei-organica-2-2009-sapl-189.md",
+      "sha256": "287428829489a5c5028c5181720932e73f074c3a820f2bab3e6233a80d6e8c50",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/db17f1033f84f33357ec44e7e1ccebe19a18d34c6b2a9c43a08e001bcf5708f4.json.gz",
+        "sha256": "3a1a56787b7b6f5bd4ed58110e392140ff6ced08f00abe0f7001d72e2f98d2b3",
+        "sha256_layout": "3df143a07e84222b818b1f8b9721454e88a859c4b743cfa0deb57a2edddbf7fb",
+        "sha256_bbox": "3c63297a817adb93bd8412fbc11737670d7842acc28eede97ec3c7fef2443ddf"
+      }
+    },
+    {
+      "path": "municipais/PR/jataizinho/emendas-lei-organica/2011/emendas-lei-organica-1-2011-sapl-190.md",
+      "sha256": "a32188eddf435e94a11d3dd9e6cacd214aa3e56db1b05212305ea4dfc570c5f1",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/2f28cdf650cf0ea9a249d3837e29dfc552bc95aedf6dab4d52543ed9f00b2792.json.gz",
+        "sha256": "f67e93c4a29da9c218734b913009c1a484e76ebcd54728d7a05afa8f0467c279",
+        "sha256_layout": "30eed8ae800eb3010043e68f6b254a304142836696f7525c7910f1f9b9fbc407",
+        "sha256_bbox": "3af86c4a6bfaf9efe030b237e938472204d607e661f4d83fa78970a1ede1aa97"
+      }
+    },
+    {
+      "path": "municipais/PR/jataizinho/emendas-lei-organica/2011/emendas-lei-organica-2-2011-sapl-191.md",
+      "sha256": "983b303bc25087fa5a701e27cadcbebf2133277204782f78e777b19355a3e564",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/783efaf3f4f6418f3cdd27d12f4ff6a3d43322b5f9a5115c142c6dc4d0e4c924.json.gz",
+        "sha256": "9046f37271275fe94d669859d9e2acabd6d1986e00d06e94cb2a08d6d9019b3e",
+        "sha256_layout": "716a45404333a39f9278d5dff11428336d22c13ed65f8c2441b75ec50baa1b25",
+        "sha256_bbox": "9b7f3fb0c7c03ca2047d488d335627178ce3ad57e162750b8ab629c0312dc5d1"
+      }
+    },
+    {
+      "path": "municipais/RS/agudo/emendas-lei-organica/2008/emendas-lei-organica-10-2008-sapl-2232.md",
+      "sha256": "3434f6b2403d40c91e0939e518118e51b6f11e7ea8056a18f971891818593660",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/324578b1e15ace8c1935231a25543daa675417e349a1185d5fadb70988ce2593.json.gz",
+        "sha256": "66c71bf4287e315e85b977cf9e9dd029574c33c552b5958b2addbe3e3315b8cf",
+        "sha256_layout": "06a0bac79f943d397977c6fdb2cae69ea6bd7231602860a9520c137ae32a1787",
+        "sha256_bbox": "75171839d4acda08de537a67b09038965a6cfe2659963d87b44e6294b41296f5"
+      }
+    },
+    {
+      "path": "municipais/RS/agudo/emendas-lei-organica/2008/emendas-lei-organica-9-2008-sapl-2213.md",
+      "sha256": "e2906155f18745c64c39fe214a228d3ef38e87a5dcfe9ab40ae3f6a4620052de",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/abffc91e99e88946d96f4d5d3b5f2fcc22d570429895955055e62ef779217b3c.json.gz",
+        "sha256": "a638b0f8897db72e9e21fcf651dac6be7192425b683a28643ec369eff8053340",
+        "sha256_layout": "06c319c990c0b08ffc4c1fab1f82e6f36bc235bdaed9fe2475d41e72e5bf1739",
+        "sha256_bbox": "ebbf6b90f70dea496ca7ae0d905e1bfe03278f516cec0c2d0f2ab0a2a432a4dc"
+      }
+    },
+    {
+      "path": "municipais/SP/iguape/emendas-lei-organica/2017/emendas-lei-organica-1-2017-sapl-135.md",
+      "sha256": "9b60a8a2c51e4ba93db0b024108f4d861668d438b58d39bf81d4bdb7a74249c2",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/f3abb984b4d6d462d0839ca46477bb500785e518f1092dcbacc009d15561cd85.json.gz",
+        "sha256": "a0d80bd96b4d5f9e7999e51fef174c47db9185c7a6507954242ee77d5ac985cc",
+        "sha256_layout": "533d1db40ddf8d331c8557e09bffd17d28b3727496c834e2268ee388c2855899",
+        "sha256_bbox": "8792d637751f5dac058a70b88572a20f71e2cc31cfb94f81c2c632a37262985a"
+      }
+    },
+    {
+      "path": "municipais/SP/iguape/emendas-lei-organica/2021/emendas-lei-organica-3-2021-sapl-137.md",
+      "sha256": "20454500d31a799b6ba20cb77b91ca7e2be56f157d48c5de0d0369416667279e",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/cc77f036a320fd25359d7842c2570e991ff93c4f918465cc33e4721d24ab17cf.json.gz",
+        "sha256": "926a94ea65706a601eee7c81dae9782ca81dc410432771aad8959822eba6700d",
+        "sha256_layout": "167b59bad9535ae605d0f97823130ceb2f911c6b1e2d0e25555fe9be92cd23fa",
+        "sha256_bbox": "0e95ca41f98adc7e70897b1fb5446258eaaf1e01c1e5c1556fe59f41a86e3617"
+      }
+    },
+    {
+      "path": "municipais/SP/iguape/emendas-lei-organica/2021/emendas-lei-organica-4-2021-sapl-138.md",
+      "sha256": "7e0f68e6e533ff93c78ad6014c849ad3261c8177d26b2f256f59e1e51313bd75",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/47bce0f9d16b2c795d35280632036af586e906ae188e21bf34a385b428c33f1f.json.gz",
+        "sha256": "15a9670d7697be2e23265fd692622088e86856eb20c58b3977bc9ea4c3476f8f",
+        "sha256_layout": "3b8c0ffc19044c8db4b7f986c1b2843f9da5a853d3add0a1bbdab8aada339324",
+        "sha256_bbox": "20af02fba310e98b4966708f6b307b3c0960ad55d4a4ec98837a5f501b421f86"
+      }
+    },
+    {
+      "path": "municipais/SP/iguape/emendas-lei-organica/2022/emendas-lei-organica-5-2022-sapl-139.md",
+      "sha256": "79d017b95a10f472ccca956022b6a453c21b6a8b4941c997fc2e5710dfd8ab97",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/fb768eab5a4ae2fd99c45e7dfc461f6c95fe185272a29a02553856f687646114.json.gz",
+        "sha256": "fbc8a7c7e438db19e0c1047a4ab07f83c16c47b1fb8e97c6544a96b2ac0e20ef",
+        "sha256_layout": "6de187b6fdc558da8a5dc2d8b8c3c91e46f6f5de41a2423a1923de4cfc9a0330",
+        "sha256_bbox": "ac7472973e4f114ce644c934c169a36c2961bf4f05f785c137cf9bd45239480c"
+      }
+    },
+    {
+      "path": "municipais/SP/ilha-comprida/emendas-lei-organica/2024/emendas-lei-organica-8-2024-sapl-3640.md",
+      "sha256": "113eb407ff20ccd1caa7bfd150a6af8cb63b846303547cdf84247cd097a667c7",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/3c02944da308a44a439549644fe4ed2a53483b85123a9addb8ce5461a7fcd539.json.gz",
+        "sha256": "d4b87d0dbdd05fc674338f049b2c59b9fce1911f966f14b0857671339c58d053",
+        "sha256_layout": "f32b1ad69789009aac0e42a9b845506c89e6ebeeb918a518358f8eae2884e312",
+        "sha256_bbox": "4e78901bc19d213fe4430f74b1010dc516a8268f3e673e56ec5eb011dc4ec7fd"
+      }
+    },
+    {
+      "path": "municipais/SP/ilha-comprida/emendas-lei-organica/2026/emendas-lei-organica-10-2026-sapl-3961.md",
+      "sha256": "996124ffdd73b6dd0bbd2749eceb10e8eb08399b82f7d35372fa6d66d13f9dae",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/52cc1c16ef6e25566338f2248d29e4c7832362cb8cc1f694d3810aeaf15cf801.json.gz",
+        "sha256": "528ef2e19cceaf17b6b69d7a1f859d74fc27598683bda4dfd38a2ddf37f16009",
+        "sha256_layout": "06feb12ee2c93ba411b8993b232b12b5e3c4cfeee3e1f94fe3928afe173e8f42",
+        "sha256_bbox": "bc6d7605540cc6c9be3dab12b0073ab8c51acae6b2db1ffd280b6ce0dbf8760f"
+      }
+    },
+    {
+      "path": "municipais/SP/ilha-comprida/emendas-lei-organica/2026/emendas-lei-organica-11-2026-sapl-4063.md",
+      "sha256": "6e596b9101a77d0bf10685666d3c7a8b07fe7557f46044770e5676d5d1cbdfb8",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/8351622bcb4d09947361dd53bcaf10f365d551497fe34a6595a6544cccf19f77.json.gz",
+        "sha256": "5deb53c9a7fee27317ef13e41e6764addfd1efedce2ad186009d857ef7caa552",
+        "sha256_layout": "5d8c35d4b3c604a873386b52bec0e8d494070176161c5b7ee50a6f294d888fa4",
+        "sha256_bbox": "7a79a72c33c1a550652d650c796736cb7ffa37c81235de19f75f50e9acaf88e7"
+      }
+    },
+    {
+      "path": "municipais/SP/laranjal-paulista/emendas-lei-organica/2021/emendas-lei-organica-3-2021-sapl-4117.md",
+      "sha256": "bd5ae6df777d1a359a1d795359d721abf0ac5be8d50b1150950b4c475a05f3e4",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/0f65c419ab86f079b4ae8cc1b48afc676b74acc1c24edd95b72d5314bfb578af.json.gz",
+        "sha256": "eb9ae2dcff63a4ee0c063d96af4adc2aeb652911b35582819a68ec864de2f8a3",
+        "sha256_layout": "188b48040dffeb19431c162d0b0c4f6985f3fb3af69211b64aeef06d1397939a",
+        "sha256_bbox": "1c13f80d13853c78437024a33b93ca6f5abb8bc6adbc90d939e1c004043f389b"
+      }
+    },
+    {
+      "path": "municipais/SP/laranjal-paulista/emendas-lei-organica/2021/emendas-lei-organica-4-2021-sapl-4135.md",
+      "sha256": "92fda1499923d058ae8adba515bf173850704909947f71a3d8cbff8b461b3497",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/4adfe22aaf6d6309d2cbfbc24c9e01c16776817e1d7eba7d23ed3bf90114f36d.json.gz",
+        "sha256": "5b7047dd77aab4a9a314078ca4cb24b5c2a1a99a36b821126e8435ff401f74ea",
+        "sha256_layout": "758103bdc460e469a044e84a5802cac2909d48eb16aeed2d45bfce7cf581b498",
+        "sha256_bbox": "476e9591f681bc648809010008e95ea2f04f527be94ddafb37e52469652a1522"
+      }
+    },
+    {
+      "path": "municipais/SP/laranjal-paulista/emendas-lei-organica/2021/emendas-lei-organica-5-2021-sapl-4136.md",
+      "sha256": "05aa19dc3ef8f0b702a89a4b843cec1e7af3ebbc97fa7d39b6052dfeb057e83c",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/e01ef97e88336de63b00ecb580a98f10f35094ec2fecd62f187e22253e32552d.json.gz",
+        "sha256": "33f363d7eabc07c274d6ceb4c9b78ce7724dc23f3ad4d6cfd096ce2219ec3b9c",
+        "sha256_layout": "d6d00e08dc69012255665afc90d6002c5e4cf5ca322bb1000a7f73893a58c351",
+        "sha256_bbox": "6e4db94534c6c80f2b71690fd0245349d3599c896aefaaa1a7d0a4c03ae8c891"
+      }
+    },
+    {
+      "path": "municipais/SP/laranjal-paulista/emendas-lei-organica/2021/emendas-lei-organica-6-2021-sapl-4137.md",
+      "sha256": "e623828a6df7cf7b2835de287edec7fdb7c94c5ac3e38655e766e5851f5ac9ca",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/e5dfa4249fd4f62382e0b999458655f6489dfa4065979d24002f0e5a4350b0ab.json.gz",
+        "sha256": "06b4b14bd81b7a1d4253498ada2ee83fe7fb07bc5f9d0cdc86ee2580af6e418f",
+        "sha256_layout": "c7644259e40cbd039bab24f48706df9bde2c268e863865062840ed94a3e0b473",
+        "sha256_bbox": "ebc3c563c2544dfc78cae464546cb2a6a8d736674401e9d60ee45a1339d0308d"
+      }
+    },
+    {
+      "path": "municipais/MG/canapolis/leis-ordinarias/2024/leis-ordinarias-2946-2024-sapl-186.md",
+      "sha256": "08915c781f8cde8bf7b2c0743786e3670442648997971878c00801e203760693",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/d0e5f99eb0222d50ba30a50c228e18028d3ef2a23a8d9242f2f77def9fdc1a14.json.gz",
+        "sha256": "ea5dfaa33207de96aff5be01139695bf76594673fe176942d76b05016bc37e92",
+        "sha256_layout": "c7bb22fc082f9b5f3d6409e17d23eee8ead71e126b71efea97c2a30ed979b579",
+        "sha256_bbox": "4e13e748b28e6e3967883fbf5b8e3894b6d33a559722870117f21f55e35928e1"
+      }
+    },
+    {
+      "path": "municipais/MG/canapolis/leis-ordinarias/2025/leis-ordinarias-3051-2025-sapl-63.md",
+      "sha256": "0bbf44909eea736bd9a4b8e1587e107cf4cd99872cc92b68e138dd291c1e4592",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/91b5a7b4ee2775380655470a4ad493d87f89e3cb65d193daf3308af2b9efb82f.json.gz",
+        "sha256": "fd1e9a5ea5190eb18ee02ff7801ec47911cfeacff657da250aaae1a2e63a1733",
+        "sha256_layout": "05339a930a912c84db9b3e99e268d2a5835112da469fa7e56a6712f30db33a22",
+        "sha256_bbox": "55ae118493487e932224b0ef9c59b15f56694264e2a2e98a03d21a07b2031a56"
+      }
+    },
+    {
+      "path": "municipais/MG/canapolis/leis-ordinarias/2025/leis-ordinarias-3060-2025-sapl-52.md",
+      "sha256": "915fc48733caf449a6d058fb964a0038e0d5cca802fe00a96fe78f343ef9adb3",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/6d8e7b9d40386218112ecad403c8b1ea9bb3ef7a4f9598002ec86c686fec874e.json.gz",
+        "sha256": "951aed3dab2a3963bb78e79ce7c84f5541c3360c5daa3c7bd9dc1d7c535acd32",
+        "sha256_layout": "95b75b2d430a409217c2bb0314999a6640bf271b4a549adcc48ba2ac065ef4a4",
+        "sha256_bbox": "b4f8a1221294bc7c9e578c41135cf3a5ccf9c04f631506e85c14d117b16cd7b3"
+      }
+    },
+    {
+      "path": "municipais/MG/canapolis/leis-ordinarias/2025/leis-ordinarias-3074-2025-sapl-31.md",
+      "sha256": "ba607416a411cbd63e7e666f84f2b34bf2bc938bd99e1df942d74b25219496a0",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/affe143b9fcb630f4f2929827f613e7fc96f40c7013c7cdc534a60d1659a0dc8.json.gz",
+        "sha256": "d63e46b2ad08ae5f38435def37c9f45133c2686104f672f6aea9c3966686675c",
+        "sha256_layout": "4bc6f1401341d998f83395387edd84feff0700abbc5561582c6fa016e82270d2",
+        "sha256_bbox": "50f390366a3c90b606c495190a64b5999c9726a18774211bac5ddf2f65621614"
+      }
+    },
+    {
+      "path": "municipais/MG/cataguases/resolucoes/2026/resolucoes-2-2026-sapl-271.md",
+      "sha256": "ff7391cf7dff9d4c07fa28e4c8e77174170bfbd219523735bc3192757914445f",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/12db25480e9cc1b71e5aa9f16008463e26869bfd0872740e16fa7c6660189e8a.json.gz",
+        "sha256": "e45981ee1f1aca48628250721fc989e625f5f4767c8d5e261a9a963e4f225554",
+        "sha256_layout": "ddca765a7e1bb445f674951ffbe8fc491ecafd4dc4b41e1100c0c9cfed02ca55",
+        "sha256_bbox": "2b84fe3ee6e5da901e520d5c9f678a6f38e9e61829b572e9dc159549cd234bbb"
+      }
+    },
+    {
+      "path": "municipais/MG/cataguases/resolucoes/2026/resolucoes-3-2026-sapl-191.md",
+      "sha256": "feb5a1318a8db6aa5bfa161fdbe2c72d289dc36467079dbc40bf299a16b75944",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/f572ae601c2b64bbe2a2577ccd81737040644f53d4797cba928eb3aecc0dc8f0.json.gz",
+        "sha256": "4d25c670717c277276baea5a68af79ba76ebc832ecaa20cd7302f75a66721e94",
+        "sha256_layout": "e3d72d96c14397000408435a794999a60f9b7fc47e4a575d5670fcbd2347cf6c",
+        "sha256_bbox": "19e09dcdf178fe17b854698bb2decd75f1852b47d222891a8336a7a1ca4c5648"
+      }
+    },
+    {
+      "path": "municipais/MG/cataguases/resolucoes/2026/resolucoes-4-2026-sapl-273.md",
+      "sha256": "557bb302a4a27b5bcc68ea1b2fa8323983607fb62cf7e0d0a541fb457fbbf1ba",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/1e1f424c47c4028ec976128bc4eccc22c1875960f7fc715393abb8b63f14b670.json.gz",
+        "sha256": "d7ff89a5b8cec0f442f25678fb6986f271f3ca29c4ed9732e9100f62e23dfa62",
+        "sha256_layout": "39db260b60d6e6827db99bc2f98a9b9e76bbc029539fecf91f83e553174ca336",
+        "sha256_bbox": "b2b318bb1152f0e5245fc80a99e5282cc5a4cf4b5959f8c8d104f2ea3445c0db"
+      }
+    },
+    {
+      "path": "municipais/MG/luz/leis-ordinarias/2022/leis-ordinarias-2858-2022-sapl-287.md",
+      "sha256": "3df2acf29b219f5bc3876bd743ac52b1f92049f078227292699c3531f451731f",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/f87828ae7bb256928251f56ff4af46071952e7bb20e857a43e7daf87772c43e5.json.gz",
+        "sha256": "229d056228ce62754ed93f7b7c40c701a931ceb3f64ebf0bcc50dad19a929bbb",
+        "sha256_layout": "92f7285c4402bf2aec587e8bb33aae3be5a2926e3702444c8009f7939ed181af",
+        "sha256_bbox": "061485658cc50cb1df7b7c36ec96fb294a9c4c42ce8a9828195d119744dc3e95"
+      }
+    },
+    {
+      "path": "municipais/PE/flores/decretos/2024/decretos-10-2024-sapl-246.md",
+      "sha256": "df68ffdd1cf2c3d222c0fd0f51d36e8da6140857a9535416c2e0dc6e51bb6dc8",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/5ab93335f69171d8127266922df3864ef035c42712733978da7c71301b9dc925.json.gz",
+        "sha256": "533a56b17cf254d2a24781ee7fe7ea0c0b7f482875c6868d6b85b2e6baf5d0ed",
+        "sha256_layout": "24fb62061715b7d8fed957883ee994a9db468ea9d339561f8b4dde2dde5065d2",
+        "sha256_bbox": "2b1beaa9c87cfcff34766346f9431b5c6da9d7cf95bbab8541be203092e76adf"
+      }
+    },
+    {
+      "path": "municipais/PE/flores/decretos/2024/decretos-14-2024-sapl-250.md",
+      "sha256": "f1ab04c9cebe505f887637f5a31ffc70b3984ab870cbc3094c22cce89215ec63",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/570033ee2c51d0f5c80a21638e618b5379901733b7d06899481c335f9cb85b2e.json.gz",
+        "sha256": "5df36842a604f7732589ac555e7a1a23d32507a01fb16a3bd2db6bd7f995512d",
+        "sha256_layout": "c56f3649e982029a2d0e7cc5b8b3afaed29e0fe451f2bb10c9064a63127a1e83",
+        "sha256_bbox": "33d748d3567ff255c6c752cb790cbac8002bb9832d5a6a2c73bd2ea4edcf8ed8"
+      }
+    },
+    {
+      "path": "municipais/PE/flores/decretos/2024/decretos-51-2024-sapl-287.md",
+      "sha256": "4f962a26882560045f446f57450f74b782644ad6e7d537968e7cb5f5baad5b5f",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/468113923224035b2bc2d95e6b4b5dab445aba6317eaf6143b0f07fba1c5b548.json.gz",
+        "sha256": "c3becb75f37a57ddcd1fa63832ba0a46e35bcab51ad1e054606f8822c7195130",
+        "sha256_layout": "60cdc3035099063acfda0410d54b6618e0c3dac0d66ff38e76db30edcd9e3bda",
+        "sha256_bbox": "903161d6a893b5d33483b2da7069e47866fe7e94b950ba5db52109c205ff3c85"
+      }
+    },
+    {
+      "path": "municipais/PE/sertania/leis-ordinarias/2022/leis-ordinarias-1754-2022-sapl-389.md",
+      "sha256": "1eb3d37e9226f2f3cd17e48a92b736e7e1c77a5997efc6cb970dd9a2f1c758eb",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/45f7d46a752a4c1d34ce8afebe8f946114cda86ab3b443862d53ad00cd3bf18d.json.gz",
+        "sha256": "24d87e4ceb9f05fff682a8fecd3477919c6d4466a173a3003c2a662036f5db76",
+        "sha256_layout": "b2756201e04d42ffb3dc579419a0938dc2460ac8cc2d57f3c31d0cc443b2c09d",
+        "sha256_bbox": "c9524d2c0f3b40f838dd22905b7a902afd04678c7c992407fdd998a84f55267b"
+      }
+    },
+    {
+      "path": "municipais/PE/sertania/leis-ordinarias/2022/leis-ordinarias-1755-2022-sapl-388.md",
+      "sha256": "d4f898528c50dacd39ebf94b0c4aa5bba95909722a065a2cd3113da7d99f981f",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/ad4fd3cf3723e349c8df8db73ec4b52e6367c95123ec94ef034febfa41ce3688.json.gz",
+        "sha256": "c1b0e6ef951aa7f3e6376e50b3208b23220d89a133be74f8ab99202ce5a51333",
+        "sha256_layout": "8099ae70dabc35a5db5e9ee7b4edd365ea92cb5f296ec576a4215bdfba4b2626",
+        "sha256_bbox": "87604333014321029411c7f1d4017c913080f72121002ffa5e98d919e91e62d2"
+      }
+    },
+    {
+      "path": "municipais/PE/sertania/leis-ordinarias/2022/leis-ordinarias-1758-2022-sapl-383.md",
+      "sha256": "f0634b8907422abbe6edf882e7ddf769a562b1e03cfbc94fea674454b2a5d2b5",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/cf776778b8f9fdae22d754a7e9c07d76e64a8978d483e3447d398e47790e95ce.json.gz",
+        "sha256": "ac25c4d2356010ff7484d4b6c02f8b80975aff71faaf41b36dbf5d121a42a1ab",
+        "sha256_layout": "faa1976a0c2224a58552cc480a0c87fe6bd88ac46731f5b71a3904a12d969259",
+        "sha256_bbox": "765cec6e6b50a164fd0eb609d72fa59dcc9309bcd2300ed5957bc753d8d5c3c2"
+      }
+    },
+    {
+      "path": "municipais/PE/sertania/leis-ordinarias/2023/leis-ordinarias-1759-2023-sapl-398.md",
+      "sha256": "b74c9ecf9dbcfd6b491e65c101c4ab2dae801e2b20a7b373de260c882bbb8f12",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/55cfef5dfe85efdf8b4ee4b10d4af3f725b8139a1a27af2886d62550354809a0.json.gz",
+        "sha256": "441297abf554661daff16fe064d48fcb798bed15de7ea81a7fce55439db471ac",
+        "sha256_layout": "1a5f56300cc37f993bb0072a879f49a8b7165707fe207c158a1cfcfdbf6ad3cf",
+        "sha256_bbox": "82f2981e0f37b4517e0a7e722ae0fe671af784c8f6bfa5fcf1ffffb655fa6f39"
+      }
+    },
+    {
+      "path": "municipais/PR/florida/resolucoes/2026/resolucoes-13-2026-sapl-13.md",
+      "sha256": "c781ac8201cac67c59ef5e7d1fc4f8c0d56d4b0bd13f493815c6094882e0edd5",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/101e84ef6e667ef760f2182341cc4d5a5ff6b9a12ff2bf3586faf73b2cbc184c.json.gz",
+        "sha256": "521065fa97d968e6e0c249bf50036b87608bbf1af2a9762bc663b5a3ffa03dc7",
+        "sha256_layout": "279a78758a575ef7be1e0acfa8d3915d0274fda18ef07641f348ba8f0d8f0d7e",
+        "sha256_bbox": "02cb55d5e78d4e525ba7fef67db81db0b24fea6e6e1155bd094c0d91923286b1"
+      }
+    },
+    {
+      "path": "municipais/PR/florida/resolucoes/2026/resolucoes-19-2026-sapl-19.md",
+      "sha256": "5fd5ac5d2e3eef389e46d10334c64935d35d16f2a05e3ffb449ea78654f6e223",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/a05dd6ccb794ae76d08ae2229fa231270fd87d4371314c664e52d25df664fdca.json.gz",
+        "sha256": "cfde4c6e69384d04ecc7ef71e366ea75de351ec54212bddacaf10c7f289a849c",
+        "sha256_layout": "55a5859f33bff6103570f3977b99068e2f5ba7f0e5abdd8bc8f0e82db0252421",
+        "sha256_bbox": "fd00af87a6dc711f6d81669d3097a52006701d5ddc9b69d30b03727dd5f5a905"
+      }
+    },
+    {
+      "path": "municipais/PR/florida/resolucoes/2026/resolucoes-20-2026-sapl-20.md",
+      "sha256": "dde0444dbb80266a0220c49f5df2f0b6d1617cf515b5e7e6796714e18d1248ab",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/3474c6faf403368bdc3ed0c9fd6ddcdfac7fe9438bdad302dce7d7a81562c29a.json.gz",
+        "sha256": "c07077088ce70352b994904a7c7dc2872d27ce3f43ec2ae3789d85ed4dc5646f",
+        "sha256_layout": "e74303e5ad61613e5a70774a397dac946d662e06aa3fb0ad568e6376f395bfd1",
+        "sha256_bbox": "1bbd0d75473a3a2fb57bfa81ee1e7790fffa34fe45f2eb96899c28f169a02928"
+      }
+    },
+    {
+      "path": "municipais/PR/florida/resolucoes/2026/resolucoes-6-2026-sapl-6.md",
+      "sha256": "a75b8b3b1d08910365cb6a635a11fd325987b70d62d32cb959625c75689fb0d9",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/f359ead71aad43251cbc9bdfce73b7a68b6be74ca82097bd8df05c9f418ba2c1.json.gz",
+        "sha256": "c7c582fc7c91508209ee533749b43bcfb42af836d2825cea666d805077f0794e",
+        "sha256_layout": "e1296bd93fc9902e56107c115a2db62e8ace98b496dc77813e8bcf5935c2b20c",
+        "sha256_bbox": "6a3c34ad48f5370b3beaa400ce2bfd0bbf2635f80a745d8c91943afef29b9848"
+      }
+    },
+    {
+      "path": "municipais/PR/florida/resolucoes/2026/resolucoes-9-2026-sapl-9.md",
+      "sha256": "94aac4b7ae36c66aa39ededf68dad2e002c073d2ebf26357395605b2d507a0ca",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/3eeede17f4df5591765b35e3be098d2a676f0b1b6243fc32dfa190c276913be1.json.gz",
+        "sha256": "ca811705f8e7acf2a39072e553a08959717d2b43a0928d55830f1f8ee3b9a526",
+        "sha256_layout": "f891ec6bb14e76a17b78522010be76e7c13f97136df355a42fb495c3f3c43480",
+        "sha256_bbox": "0583de9952c7bdd59d935301ee18c00d4fa65f8edcb3c38f3d4556dfb4189a6d"
+      }
+    },
+    {
+      "path": "municipais/PR/maua-da-serra/leis-ordinarias/2026/leis-ordinarias-1048-2026-sapl-10.md",
+      "sha256": "6207262b377b2ca8c4e4d05e5da1147c771a7d713040735b99b84c821a4c16a9",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/325dc645f823f67d491ec2fbe09b59975ea6243d1f8bc20c8ab626f0f2332ea5.json.gz",
+        "sha256": "34853e504429899f7705eda9940e1f54d852ee680157fccea15104a97b069f1d",
+        "sha256_layout": "67d4387a10bc19deee91ade843253121c875e552db32bef17056b48d95964b9c",
+        "sha256_bbox": "d3a69f422b8b247eb44db373c25662872ec19c62586d8c2a8e45063e1d6a6354"
+      }
+    },
+    {
+      "path": "municipais/PR/maua-da-serra/leis-ordinarias/2026/leis-ordinarias-1051-2026-sapl-13.md",
+      "sha256": "a559ba4fb6c2844eb8885f6ac41269bfa82811f4c641d4bd2d3a35499e8f6a5e",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/1108fddfef508c92d2249fc414084009dffad8b2d7e6476aead52423dee56f18.json.gz",
+        "sha256": "68dd08a2419f53d813f7a2b713709249e06beafb074925ebe6458cc3eccdb2ec",
+        "sha256_layout": "456ae5ca6be5ca828160a668d9b1bc80a63fcc8e087b4d575e9171786786757f",
+        "sha256_bbox": "69700c8e00ae07396ebe9c028f61ad6df0c6ceab7977bf10c95265b274a607a9"
+      }
+    },
+    {
+      "path": "municipais/PR/maua-da-serra/leis-ordinarias/2026/leis-ordinarias-1082-2026-sapl-6.md",
+      "sha256": "374dbd7a10171a248d23c49876425eb476d3ced4d144f576cb227bb46b439339",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/cb2f9d0838fd61d7d79a2aa014bb99f127836cc019a14f4fd5f25846158e5ef6.json.gz",
+        "sha256": "a14c2e6dd806e7a375a10d9c7f31c6aa88ddfff16b3fe9bf7af2aaabfc9275ba",
+        "sha256_layout": "5faddd406a1571baa522e7aa7c7a815a3e2f9c466efe162577ace28450529b11",
+        "sha256_bbox": "4f7f32237592aa82ff15f723893be19417b896e01a947e78364ea0f3431d94e4"
+      }
+    },
+    {
+      "path": "municipais/PR/mercedes/decretos-legislativos/2025/decretos-legislativos-2-2025-sapl-1313.md",
+      "sha256": "77ca7c0e38e806ef81018f0222ad7ab6deba0d5a33d0099dcf73213771be037a",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/738877f159eec7fee15fed78c61017308eaeeac848d3725e42687090671817f9.json.gz",
+        "sha256": "4e9b48a286617d6bbc01a0beca4839b6eb8f512f254507b680439cab8a416aa9",
+        "sha256_layout": "43ffe7d16b0631020337463237bcbdc30151a4e769cb41821a58d7b43e412571",
+        "sha256_bbox": "a444e625a8ccbf2abe7fa662987dcd44f84fc5bd7e894bb9f8ce48aa147ed0a8"
+      }
+    },
+    {
+      "path": "municipais/PR/mercedes/decretos-legislativos/2025/decretos-legislativos-3-2025-sapl-1314.md",
+      "sha256": "f42371ba4a07defac6f8e28e6b782c0a0ec7ecc674faa7cb2565759b74383303",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/138328d3739484943a3a9e2a2efaaa0e855d232f2b3709fe22fff144f37d9eee.json.gz",
+        "sha256": "517932116896661b811c2bae102f732c265e0dad22099217e9985e74fd4fb23a",
+        "sha256_layout": "39785408b74cb578490d4c58fe26c2f19c194e9e0d79047b1790f29fa0d632aa",
+        "sha256_bbox": "5a9128fb877f24c3a1c1400970e93e2a2e8b3509028176620d5b517094c31cd5"
+      }
+    },
+    {
+      "path": "municipais/PR/mercedes/decretos-legislativos/2025/decretos-legislativos-4-2025-sapl-1315.md",
+      "sha256": "db98ad9bb3f8d8feb4fa9ce7b194a94851ebb1bce9677681b85ad54926ca2a3d",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/6402592a9ddf8277900cf8462d5ddbf3ef81a765565cf6b1f350e6ce36aed873.json.gz",
+        "sha256": "0f82ebd419a9f06076db1f9b1b64ec4712f70af948cd3ecd03c2b3960101e79a",
+        "sha256_layout": "ce25d9ea47983d1d14aa9c0faee8554afb3307612eac40e73ff34b872dd71e57",
+        "sha256_bbox": "7209f9e41c3c98ec20cf5eb7db4c0306f8ccce9ae8edbfd89cf1fa1ced40bdcf"
+      }
+    },
+    {
+      "path": "municipais/PR/mercedes/decretos-legislativos/2026/decretos-legislativos-1-2026-sapl-1477.md",
+      "sha256": "98b2910975b293aafd85df03791a62bf45daab3526ebf44b4eb57e86ee6bbbe9",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/1661a7d1ee26ab941f35e711972971a5eb605ddcced0585c83fa2e0694cd6100.json.gz",
+        "sha256": "18d5105ad7476de797a5d2faa061ac24a2d854c6cd5d02a396503f18249b703a",
+        "sha256_layout": "2c40bf210e1a08c8331f4ad2163b8f7ae7e649adec1f9b3a261417149f3dc7e1",
+        "sha256_bbox": "8cbc4557699c32542fc13cb81551bb966de2c7bb88b3ebb6060290e130fd04d4"
+      }
+    },
+    {
+      "path": "municipais/PR/mercedes/decretos-legislativos/2026/decretos-legislativos-2-2026-sapl-1478.md",
+      "sha256": "3dcde0018e685a637c023e2d184545cd9c9505f143603919020f2e2a5b9b6131",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/ce43f55c78186d3565874459368dcf79536e7ad3e29e45c6bb8cfbb225f02bc2.json.gz",
+        "sha256": "7325f6b333e5d5def01d42f8c66f237e2c81c087a7238bd643236eb7f6ccdda1",
+        "sha256_layout": "35a31d1a8bde70f12847778c9be0491de87a7bade573eafb6412196b1b48dadb",
+        "sha256_bbox": "4a2d4d0b5b287b526ddea93f1c32fa748690f7b9a12b5025557bbc3b991d8434"
+      }
+    },
+    {
+      "path": "municipais/PR/serranopolis-do-iguacu/leis-ordinarias/2025/leis-ordinarias-2340-2025-sapl-2.md",
+      "sha256": "c0a7c2230f5cfcc431f3c798c51c6c14228a4bf13af4e3b5eab972358420d95f",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/041b1b1ad45eee888d7dc650df3f44416155bbc7814ed6d28d85a294d306df5d.json.gz",
+        "sha256": "915d2d6097a0af74dfaacd6c99c0a24176445609cfc3f8d86ae7ed88aab9e628",
+        "sha256_layout": "f45f623601ee195849d7687ed6f0228348cd8cbd2566fcd9ff4dafdf2e22f23a",
+        "sha256_bbox": "4d1c9468a8d13521c0e997110c245fd609f70a9fe8f29c06285960fcc29c6fb2"
+      }
+    },
+    {
+      "path": "municipais/PR/serranopolis-do-iguacu/leis-ordinarias/2025/leis-ordinarias-2345-2025-sapl-3.md",
+      "sha256": "41a8599fff242529dcc3e61a45b9534f2f4e86929ff7ebe881a136b2c9a838f5",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/19e50cc53c2cf9be24567ebb0dd5a5148d27974d0dbfc023ed1ba4d2652a507b.json.gz",
+        "sha256": "2abedbb765979a5a604ab6731abd1774984edc1718e81877698d4c15d7b0773c",
+        "sha256_layout": "00e8a86663caf18056ba063363c77ff2eb7508ce3a5cedb92572f0673cbc0f79",
+        "sha256_bbox": "739a666247c214bfb4bb50827a17b4b935eec6917be6e3c8bebbd715bc9c7d0b"
+      }
+    },
+    {
+      "path": "municipais/PR/serranopolis-do-iguacu/leis-ordinarias/2026/leis-ordinarias-1-2026-sapl-1.md",
+      "sha256": "62851b498d498a74521ad1f22ffbcd7ce7e67f356ac46a5827ab7b8453daff68",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/3a0f8ac90ab11449db953725724db70bfcbe2adb86e33074472181addce647f9.json.gz",
+        "sha256": "e33c348de74bdd1677de1f9c63a82ec51b8cd8e21811eb22d2b3c8e4db25a45b",
+        "sha256_layout": "96572e56e79b637056b376675ac5b91dc816ecb6c581d6b492c8a3b5e09fcfa8",
+        "sha256_bbox": "c96845fe35598ab462396a2ea68a0deaa011e9eaa21331ec2b3cb723d8d5e3a4"
+      }
+    },
+    {
+      "path": "municipais/PR/tomazina/leis-ordinarias/2017/leis-ordinarias-424-2017-sapl-550.md",
+      "sha256": "d22246880ba8f8d805e1ad6d29c18c337c9f14e5fe105ad76b812175fbded1fe",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/52ba5f0c891db43753e24486b2956d2704e183d1c97775560568c3cb082341bb.json.gz",
+        "sha256": "f895c743abd416105e095a98e8a717ce4e0148abda13424b907eff996cad2301",
+        "sha256_layout": "dd8b80647045583582f3625174a8e9ae98c90fc5a652cb9efb5d2b336bf1ae66",
+        "sha256_bbox": "fe2d1c34299c4d9ddf73cdc0ce1911084432a692feb5114f27465826ce0d4967"
+      }
+    },
+    {
+      "path": "municipais/PR/tomazina/leis-ordinarias/2018/leis-ordinarias-438-2018-sapl-561.md",
+      "sha256": "cdb859ea1020237ae75ef99fd6c4e9a2938d36987a5ee2a061450ce4198e4b79",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/94d208e8533ccc047d830b86e8defda9db939d5296082effdc325436b7bddf97.json.gz",
+        "sha256": "1b2efc5ec413e7e3e42b4763bcdb84bec567b031f53b9b95f15ad2806dba7dfe",
+        "sha256_layout": "9cd7747f392c327610e147de7f7b1ec2378e16376945d21b80457596b219e227",
+        "sha256_bbox": "cff0609ead713451329e18ae48b6cc054712095d39d037c17df3f371377025bb"
+      }
+    },
+    {
+      "path": "municipais/PR/tomazina/leis-ordinarias/2018/leis-ordinarias-439-2018-sapl-562.md",
+      "sha256": "d4a5cc5860701ec49fe0e7c3b710bd90a5f92b17deadf5d8e2a88761ee1fa1b4",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/bb9b05cb6fbfdd473b57d3f0ac1b6fa30e076829f012bd28b4fd42e39cac4361.json.gz",
+        "sha256": "fccc2c1d758851dfb4c898d259e0280241022e79604c5a1ea01e1f747fc33f24",
+        "sha256_layout": "77cf0c4df150ce9778e39d54b94604278a3011312ad8f9538ad118a81efe7ad8",
+        "sha256_bbox": "18a9e827f14b47914bf1fdcc659bd91dda9e83ff8c77f40b7104bb751c2dac36"
+      }
+    },
+    {
+      "path": "municipais/PR/tomazina/resolucoes/2023/resolucoes-2-2023-sapl-258.md",
+      "sha256": "60448c5369f96a7910f6015cbcdff765868854efd9380454e2bd5360f9ae9fd0",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/30903f14a6535da989bb272d65bcaca4d954924318fae4919c0ee284163e08b5.json.gz",
+        "sha256": "d34c63d3ffe8a72d970937f729a1d3dbac304664b28e0225c546eca53270da77",
+        "sha256_layout": "2979044f19e7b04631fc97e5526743d6fba8076bc6412150b3890f50cdf199c3",
+        "sha256_bbox": "82857b0373a36cc3172edb62cb093aa78c900b79ca6c9267197672338118c05f"
+      }
+    },
+    {
+      "path": "municipais/PR/tomazina/resolucoes/2024/resolucoes-1-2024-sapl-261.md",
+      "sha256": "2349734eb00f56226eb4b1dd66ea6945839e5f698d872e1a7822f10c2c7038c8",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/86a6d01a9ae57003df44787467d3e3717a30288d76f547e9af0b696e3caa861a.json.gz",
+        "sha256": "11976a6433f39f00bde24de4b2147f77cc509417f88c22a650803ab9ef4a7971",
+        "sha256_layout": "9b5d83f0e39d7837f36248eea1b474d5579325af3032ecb2c980240f1cab9fda",
+        "sha256_bbox": "185bafc7c6edbe0fb1f6758945c836193a8da7c1c9c5000cde9293201388cdaa"
+      }
+    },
+    {
+      "path": "municipais/PR/tomazina/resolucoes/2026/resolucoes-1-2026-sapl-266.md",
+      "sha256": "72406418c656470635620d6809849f3ba2fcf2052fd860d6529cfbfdf1be5813",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/8347af77f587726b18ef51e9c0c36afc7c56ccd113995432c4c5dec8d27bb19d.json.gz",
+        "sha256": "dc1c3208d2e4c5e3e900ee20a11145ce56130c9ae6c3011923520366e6dc8b58",
+        "sha256_layout": "53b93d89b4e31c5843f4df77dc12d060c0fd3c42502d62a1b0b23a7f9c12e7a6",
+        "sha256_bbox": "7b9aa2bc84021525498560efa3c8087c7b62856a18ea401c1e5034dae0621a87"
+      }
+    },
+    {
+      "path": "municipais/RJ/bom-jardim/leis-ordinarias/2026/leis-ordinarias-1 808-2026-sapl-132.md",
+      "sha256": "fd1cc8362829a9d9258d3a9b42907f786bc614084e46a670d043009a436cd842",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/3de9dcc0c9273c0bccbec137e4cba943a4d9933690d9589d62a2321e0aea97c9.json.gz",
+        "sha256": "c9590838a8aa388c76811421d52e9964a4ff56b70dc1c778c307e4b0e7feb43e",
+        "sha256_layout": "48e1b02d691a4f15d67c7beac196c3ad483c50f47fe4196fcce26f7f407a317f",
+        "sha256_bbox": "fe961a8af9aa3c0865e9af7aa005920af2ebb1e93c7273e25b25c4ae42539851"
+      }
+    },
+    {
+      "path": "municipais/RJ/bom-jardim/leis-ordinarias/2026/leis-ordinarias-1 816-2026-sapl-238.md",
+      "sha256": "1ab0444d8e54e2966e74e6d58b9b9a460dd2e1a2c3e16cfb1ed5ea794d0a1bba",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/160acd359facecec1ef560fcba0c8cbb4cefbb27e1f55f41d8f0f341008c3e4b.json.gz",
+        "sha256": "e7361608ab694f1c9df280a68cb37028f4a2c47ca06b9ed12d795bba16cc15ad",
+        "sha256_layout": "fd544981e8d74f73598e210dfb34c91b92fee9ce9dccf8b3a10ec3b7ca9c1c46",
+        "sha256_bbox": "5b1fe0ad93fcf8e2e2c1cef90c8ec3ffb61dba25032cee1d84835e59fe5cd324"
+      }
+    },
+    {
+      "path": "municipais/RJ/bom-jardim/leis-ordinarias/2026/leis-ordinarias-1 817-2026-sapl-239.md",
+      "sha256": "8aeee629ae10b32285ec4750fb1a3309dff65dd95e7e0008c35ce95951a8bbfd",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/d69722684f6d1f2b947d018515dec96949f930a2a7509eaccc51f3a3943e160f.json.gz",
+        "sha256": "418f64f4e34e514e201cd394ee10fd7b5d0cca3c4ff00d1be00608d45dc5e9cc",
+        "sha256_layout": "a64c84a9aaef07b082d94287dda0ad815fdc9020228a70417ef6b5195af1464b",
+        "sha256_bbox": "ea773202c471a6b22db2648c45ec3f33d776b455518617b52df50e89f54af4f8"
+      }
+    },
+    {
+      "path": "municipais/RJ/bom-jardim/leis-ordinarias/2026/leis-ordinarias-1 818-2026-sapl-240.md",
+      "sha256": "4485b42010e53bc0f964501a71e46a3188c37109064392b71a5b8d585b14f2e2",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/7153bd0c0a2fd2587c66a429fa4a406e8b9d249e05878337564730e01600d2ba.json.gz",
+        "sha256": "e5942f3693de62a5495b55c0d734f46a4010f0c95aedae02d5ba2c6f29ad7233",
+        "sha256_layout": "5c8a0619313f23ae65f3e5f889189c60a537a7c8b40d8d9bd46c4c6b71c6138b",
+        "sha256_bbox": "b274486c18129a972506c7fd858f62ae4a0dd19042abb581a312f147ca5a874a"
+      }
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2021/leis-ordinarias-209-2021-sapl-117.md",
+      "sha256": "17979b79cfce558dffa7ebc8f14ceb6a653ae9157f361424a41be4beca1cb7d9",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/53e33ebfea3ed8f3d1db4fa16711939c6903b768522e495ff122b7d8b96137e7.json.gz",
+        "sha256": "593c3af911a53383bf52649eb69a195320092d2cb8cccba586323a5093ec9395",
+        "sha256_layout": "5c0bba0ea2087594becdfa7aeb66d640474fbf7d273737bdeffa6f2aee8a2df6",
+        "sha256_bbox": "cf69917bcc2b5a32dea15235508a1a921002d4d84fcca40ce00405f8fb1a2fa0"
+      }
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2021/leis-ordinarias-211-2021-sapl-121.md",
+      "sha256": "43414e7c99b2683f2f97e3f64b9e3611e793a60a2387d6a7ebc97a4bb5efb459",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/70ece62834e00ad3cc5cbc19ee5b7d55d07492a30f20c889ca87d41d61a4f6ae.json.gz",
+        "sha256": "8b22f8527cfbe76da7a1c037f75ba83e9d4a77b3a591e2f6d1563193730d7c03",
+        "sha256_layout": "087ddcb6749578c61e4a36be0880da23f37f4163e92201c293de2dec9aab6b77",
+        "sha256_bbox": "f46c3ae63ac0c76dd7d1c9694a770dd9e3a052a296d5d7aac437774ff7c5a3f8"
+      }
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2023/leis-ordinarias-260-2023-sapl-71.md",
+      "sha256": "610fb0676ca5040284af29dfec440e16757cf64ac9125ad423f27b605473f0cc",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/6224b1762c4b03019098987edffbf8a52279bedca3c8cba0d4bc2cd9d437d09a.json.gz",
+        "sha256": "b4268bdb26c3fccac41678de67badae8edff5ef107d8b54f1ba81c29b8192935",
+        "sha256_layout": "5b9cdc8490f3cf99db1383b9dd33a16b2427005c52c02e6c13667b081b5311a6",
+        "sha256_bbox": "be33ccec55888a81f071cf27d1ce65b77767bbe342a910a5e29e1975d1fc89e1"
+      }
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2024/leis-ordinarias-289-2024-sapl-113.md",
+      "sha256": "b203689eb5b8954c9bf97d3ee1944383cdd53d0836150b23426dac4932ea9158",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/c1c6d6d252213748710748af01baa25bb98dd1ed5b08f81d89a231e95f2c342e.json.gz",
+        "sha256": "8f937b063ee40d6f08ddbaa87b2d58cf6226412741d2969dd51f24688395f5ee",
+        "sha256_layout": "1486d74cd4f711084ea212239b7cd15e7695aafdd0e3cd0656281429f5c0fa3a",
+        "sha256_bbox": "9c5c062acc7225982a0d30a85a68de0c649ddb448faccc066a96456854d50558"
+      }
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2024/leis-ordinarias-317-2024-sapl-169.md",
+      "sha256": "e9a77694dd3483ffa07f80b522644f5d6174c431dddf9e35f142eea8436e5108",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/29da2635f879f46615a599a4bb6511d1e664aedfa7b242543ce7cf8ab58bae0f.json.gz",
+        "sha256": "e1b769c00abedbdcd262190bcfe1dd441c64deedb1469fdceb288ecd04b62c41",
+        "sha256_layout": "95cbb088787e4064171d320d5d09a6d5c70dd7d74a5abe4923869fbb7e87026e",
+        "sha256_bbox": "9c993ed1ec90c4924957cac21a082fed9c99e97e4106477f4624f3e5d09a70d9"
+      }
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2024/leis-ordinarias-318-2024-sapl-171.md",
+      "sha256": "eedd37d5fe719a9b643b62b68b4bb9121c83ab5d3172079c5b305bb7b66ba631",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/1b9f9d0daa2954945babd61800f2e97d63f79469ffde4ddef4ec68877fdbe607.json.gz",
+        "sha256": "e612ed8922c921a9bbff0be554025f8fc3987e0f8346746a2a7b0efd6cbfc6f7",
+        "sha256_layout": "e4163e5e961a6a74d6a5b374ffc710fe636634429a3326fb24d71cf54471f00b",
+        "sha256_bbox": "8867c6ebde1e32bbf25a45a521d846597e111205700018fdc728f25ff8a1d4a4"
+      }
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2014/leis-ordinarias-80-2014-sapl-267.md",
+      "sha256": "57efdbe2d3097f5025118c6c1d18ae1eef81bd74ad3fee99facd4418940d2b6b",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/7180b22171c977ff50cdc29a1bd40e4c18afd60d36e839b1a29466a343b8cb63.json.gz",
+        "sha256": "c67cc1217410045d221935e1f26f4c9a1397186d899f741bbc494244190cbdbb",
+        "sha256_layout": "0165c4eb1d6c2fd142de8855b4531b93aa3e5efb7eec61d4445c759dc7c7f4fd",
+        "sha256_bbox": "263b12dcb91160adc49fec6cc0eb5e80ac281d877de91204e3d21a78a340ca28"
+      }
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2014/leis-ordinarias-85-2014-sapl-276.md",
+      "sha256": "b2ea9ffd69166aa91270054a6564e12cf59d88e45931ccfd586cc0ad72f959c9",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/7b3109afb3b68af82d4fac52a992e785babc09ca32cd7d6eb32a5f3b3868ae71.json.gz",
+        "sha256": "91b455110d8c875e62124f82a7b3ab965c25a2730ded1602de0eda6045dc15d6",
+        "sha256_layout": "faa84c7f88ec88502aa6861a4e234708b44d1adcdf0375ef70efac73346b5c5b",
+        "sha256_bbox": "827560bf38066d957aa96cf5cf6237e6652a4410e692e6d98c4d8b30fcf38516"
+      }
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2014/leis-ordinarias-86-2014-sapl-278.md",
+      "sha256": "6837baed17f1ced09524653594bf98e18138f5d71e9278e32fea64c566d6ea56",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/2b9ffeadac614ee190a4fac88eca6fc5c84d8b645761cff7423075b3d22a9509.json.gz",
+        "sha256": "e3c5b02ebee5241e9c5b9bb4fd76d488a9e3b288b07e66690d4dcc1fb8193cf2",
+        "sha256_layout": "52a04f76b26172113b9986ffb6414e24ae69e198e34e42c62e035d537a54adf3",
+        "sha256_bbox": "2247aa8da528fb95cdae48e54f00a4c4a50cc371ca26b81de7baba278925f6c7"
+      }
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2014/leis-ordinarias-88-2014-sapl-280.md",
+      "sha256": "a63235a5fb57405a902c1d753c4403771a139c5c3962a67e32e1db85acb2b327",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/a7ddecf01f50c3bba5235ae664032aade1a04e6df433c16d0481a9e28db066af.json.gz",
+        "sha256": "e4f59e738e8e434b06a68fa307c9f5bdb36bcc3590f5a8daf8910953638e0f9c",
+        "sha256_layout": "91b327338d302df9abfa2f9eceb915bd44ceedde9e4759f44cbf7d2ea4e3f3ee",
+        "sha256_bbox": "81943c57a5db8888319f7ab74893b8a45bfc5305899184457bfa67a3c2617d07"
+      }
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2014/leis-ordinarias-89-2014-sapl-282.md",
+      "sha256": "78b8436c504723f326f257114ecebb161570f21c0f797526461b6edb472c954f",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/5b0755df9d7c83df05e98a0b903b1483b230af064c550ae7b5cdcb6582b3e0ba.json.gz",
+        "sha256": "f3ad7b4d2596ec1d1f33ccbdfebb1dbe13d6cf618e7666d64ebe3b888c851e5a",
+        "sha256_layout": "17881faf741b0077e04ffa50e2ad623605970ffe47427aba6c4731fc36150c27",
+        "sha256_bbox": "b48a6c76106284df9d592ef4134e17e0be35bce408b9ee583049791a4a62fc5d"
+      }
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2014/leis-ordinarias-92-2014-sapl-284.md",
+      "sha256": "19c44bb0b6b5b7b8ca17768c1f3c38d36c81d581ed9f81c0e512b20141930f65",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/1155b9151f3fc6a8c6cad782c92686e766fad20d6144fc4a166ba999fd80f266.json.gz",
+        "sha256": "4feb3cbbdd98895fa7c00d5702d1b0293266a2aac91b653657ec28a07b900e0a",
+        "sha256_layout": "61fde73441eb6f1c6dc08b163666d0e8a9123eafb44d4ffe3ec3bb5e5ad1e53a",
+        "sha256_bbox": "16729fa6cf76c6526bf22594249a40d2f4569dcde8f2648e6ee6c9098c248be0"
+      }
+    },
+    {
+      "path": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2017/leis-ordinarias-131-2017-sapl-208.md",
+      "sha256": "6f6317e74501b02bb17458b529ba5af13c57a13d44358181e8da35cb1b92438a",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/ab97add9da05830725ca2375cc098aebc937468764242359b5cea5c41eff3d8e.json.gz",
+        "sha256": "50c79276e54b690337d1ff66f2fa806981b5be03be55677bf180194e98d45d65",
+        "sha256_layout": "722a3fee25643959963510a9fe5cd904d4e7d4b50740bd14e1710bfb60eaaf6d",
+        "sha256_bbox": "cef98b73e4a14e3db428b019ec95d80c60eccbc1669667a89cc6d13673aef852"
+      }
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2022/leis-ordinarias-1612-2022-sapl-422.md",
+      "sha256": "8b4df223db65779b74ee1f95cd650df991c4a25c005037c487b3bc593e1342d3",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/d62465885f369b2b110e904d339c887381b02efe6ab85047f057ec27410cda44.json.gz",
+        "sha256": "2db41dab1a2de206128743dbed61bb6f0f6b4d4b5b3cdc52984f15d7b7a02469",
+        "sha256_layout": "425be6ec0a17e584abab1acab5db49985bee6d565e21aedf0c2794c68a3928f5",
+        "sha256_bbox": "4f276d1a630d3612002751d12d2a74f99f7a988e0e613241baad1c06ae74d273"
+      }
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2022/leis-ordinarias-1614-2022-sapl-424.md",
+      "sha256": "70eb6ca1f522c193f705e439af3315bcea841faff8010b5ed6170af5e0cbc1ba",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/612eafeb60b6b37c643e77b1a0a699f4b9df92a48edd64d8907bf53825a18bd3.json.gz",
+        "sha256": "c910c2147d4c303c97b109baec9815e389cbb3ebfb14e16c38f6ef42de0ac5c1",
+        "sha256_layout": "cc342c54ed00dadb45047782f9001af28d34a75aae7712e6817b7600c7858e1c",
+        "sha256_bbox": "389226fd3c0f51d2f523af74b4b18809a16a80ce759379bf33edfe698d2d7d69"
+      }
+    },
+    {
+      "path": "municipais/PR/joaquim-tavora/leis-ordinarias/2022/leis-ordinarias-1622-2022-sapl-432.md",
+      "sha256": "d0a07b52a325ec3e63f15014e39549d12cac869af2ea7edde5abc57dc1abbbdb",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/0f3d9208d8c3c79b3428318d88a7f6edda1bad74c765d5bf1f49f30c15a995ef.json.gz",
+        "sha256": "0602944680a4a03a0558156f9986ff2a8ab130f3951b3c7e36f8de40e8251a50",
+        "sha256_layout": "97220e6874c6dd45e924f249c9b2672b08360cb0384c6e120b0686aa3c26084a",
+        "sha256_bbox": "91dd7e1a726a03becaefd0cef44873f891e165c1b67f481248ec39c8440ccf64"
+      }
+    }
+  ],
+  "limite": "Sinaliza cabeçalho de município diferente, sem corrigir o texto oficial.\n\nSó há correspondência com nome real do cadastro IBGE. Menções genéricas a\nprojetos, vereadores ou iniciativa de lei não viram municípios inventados.\nO resultado é triagem para revisão, nunca autorização automática de publicação.\n"
+}

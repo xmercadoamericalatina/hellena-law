@@ -1,0 +1,58 @@
+{
+  "data": "2026-10-20",
+  "resultados": {
+    "Recife": "142 páginas: nenhuma linha central/anotação StrikeOut detectada, somente texto preto. Edição atualizada08/04/2024 preservada; ausência de sinal gráfico não certifica vigência integral.",
+    "SãoPauloLOM": "140 páginas: nenhuma linha central/anotação StrikeOut detectada, somente texto preto. Edição2026 atéEmenda44/25 preservada; ausência de sinal gráfico não certifica vigência integral.",
+    "SãoPauloTributaria": "232 páginas: riscos confirmados visualmente nas páginas70/203. Correção separada preserva texto/notas de efeitos condicionados. Única cor não preta: xx.xxx literal no cabeçalho das tabelas p212, confirmado visualmente; não substituído por número inferido.",
+    "RioBranco": "112 páginas:103 páginas com3086 candidatos geométricos (bordas duplicadas podem contar duas vezes); exemplo p2 confirma redação anterior riscada e sucessora, nota de emenda vermelha. Não publicado, permanece retido para conversão que preserve distinções."
+  },
+  "limite": "Triagem por geometria e cores com confirmação visual dos candidatos citados. Não decide vigência ou condição SF e não exclui limitações intrínsecas à detecção.",
+  "verificacao_codigo": "4 testes geométricos passaram; cruzamento central, sublinhado/borda, duplicata e anotação explícita.",
+  "arquivos": [
+    {
+      "arquivo": "municipais/_lotes/20261020-tachados-pdf-capitais/controle.json",
+      "sha256": "1cfab99e2794921ce84d600424f3bcfc2b01e7f0c86e1cf3eb1e0bcb2ac960d3",
+      "bytes": 979872
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-cores-pdf-capitais/controle.json",
+      "sha256": "116dad4019b8ad729c99d50e66fff5e3c740a0bf30140fb5cafc538b284f9b69",
+      "bytes": 77213
+    },
+    {
+      "arquivo": "scripts/auditar_tachados_pdf_municipal.py",
+      "sha256": "53ab933e3efe0d4818fa68939516226572950d3a96c292560a01043fd9a0410a",
+      "bytes": 2569
+    },
+    {
+      "arquivo": "scripts/auditar_cores_pdf_municipal.py",
+      "sha256": "406a5e11812743b619553bc8f7b7318f9f258aac9740bc608118ca6dae33e9f2",
+      "bytes": 2333
+    },
+    {
+      "arquivo": "scripts/test_tachados_pdf_municipal.py",
+      "sha256": "758199180a947f863be3c4b95bd700f8925fc8c032e943739b1cb8ea77ba76ae",
+      "bytes": 1308
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-capitais-20261020/sp-tributaria-212.png",
+      "sha256": "4615cf19f70912ecf3e98a03b0d57f10b395c0ab4e4ed0c8e7b76ec610b98610",
+      "bytes": 214204
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-capitais-20261020/rio-branco-2.png",
+      "sha256": "b9a0fab91589a15a3440fb346f42577a12c7333d6c8578be99cfcadfa097b142",
+      "bytes": 175316
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-capitais-20261020/sp-tributaria-203.png",
+      "sha256": "cbfee0e987be94808c21c2f6ea649ead0bc169a7b19de73aaef00f444f2ff4c7",
+      "bytes": 420915
+    },
+    {
+      "arquivo": "municipais/_referencias/auditorias/tachados-capitais-20261020/sp-tributaria-70.png",
+      "sha256": "8c9f6373a32629026b8f34831bd35bb791dd8bc5de9a08901d32236e1a5d42f1",
+      "bytes": 355315
+    }
+  ]
+}

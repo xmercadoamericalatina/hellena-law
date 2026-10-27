@@ -1,0 +1,1411 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Fortaleza</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Fortaleza",
+      "url" : "http://sapl.fortaleza.ce.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          20/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/logo_casa.png"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Fortaleza
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/5253?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/6/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei Ordinária nº 10.763, de 03 de julho de 2018
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei Ordinária</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>10763</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>2018</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>3 de Julho de 2018</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>Cria a Bolsa Complementar de Estudo e Pesquisa para Residente da especialidade Médica de Medicina de Família e Comunidade, no âmbito do Município de
+Fortaleza, na forma que indica.</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/6/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt160" ><div class="dtxt" id="d160" pks="" pk="160"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt161" ><a class="dpt-link" name="161" title="161"></a><div class="dtxt" id="d161" pks="" pk="161">Cria a Bolsa Complementar de Estudo e Pesquisa para Residente da especialidade Médica de Medicina de Família e Comunidade, no âmbito do Município de Fortaleza, na forma que indica.</div></div><div class="dn" id="dn161" pk="161"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt162" ><a class="dpt-link" name="162" title="162"></a><div class="dtxt" id="d162" pks="" pk="162">FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:</div></div><div class="dn" id="dn162" pk="162"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt163" ><div class="dtxt" id="d163" pks="" pk="163"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt164" ><div class="dtxt" id="d164" pks="" pk="164"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt165" ><a class="dpt-link" name="165">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d165" pks="" pk="165">Fica criada, no âmbito do Poder Executivo Municipal, a Bolsa Complementar de Estudo e Pesquisa para os Programas de Residência Médica da especialidade Medicina de Família e Comunidade, no Município de Fortaleza.</div></div><div class="dn" id="dn165" pk="165"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt166" ><a class="dpt-link" name="166" title="166">§ 1º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d166" pks="" pk="166">A bolsa descrita no caput tem caráter complementar à bolsa de residência médica disponibilizada pelo Governo Federal, destinada ao pagamento de bolsa assegurada aos profissionais de saúde residentes, em regime especial de treinamento em serviço de 60 (sessenta) horas semanais.</div></div><div class="dn" id="dn166" pk="166"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt167" ><a class="dpt-link" name="167" title="167">§ 2º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d167" pks="" pk="167">A bolsa descrita no caput somente perdurará enquanto existir, na esfera federal, o custeio da bolsa de residência médica do Residente de Medicina de Família e Comunidade.</div></div><div class="dn" id="dn167" pk="167"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt168" ><div class="dtxt" id="d168" pks="" pk="168"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt169" ><a class="dpt-link" name="169">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d169" pks="" pk="169">A bolsa objeto desta Lei tem o valor de R$ 5.000,00 (cinco mil reais).</div></div><div class="dn" id="dn169" pk="169"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt170" ><a class="dpt-link" name="170" title="170">§ 1º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d170" pks="" pk="170">A administração financeira e a concessão das bolsas descritas no caput são de responsabilidade da Secretaria Municipal da Saúde (SMS).</div></div><div class="dn" id="dn170" pk="170"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt171" ><a class="dpt-link" name="171" title="171">§ 2º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d171" pks="" pk="171">A bolsa descrita no caput tem natureza de estímulo educacional ao médico formado, não configurando salário ou remuneração de qualquer espécie, e não formando vínculo empregatício.</div></div><div class="dn" id="dn171" pk="171"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt172" ><a class="dpt-link" name="172" title="172">§ 3º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d172" pks="" pk="172">O valor da bolsa descrita no caput deverá ser pago todos os meses, incluindo os descontos legais obrigatórios, não podendo ela ser incorporada a proventos de qualquer outra natureza.</div></div><div class="dn" id="dn172" pk="172"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt173" ><a class="dpt-link" name="173" title="173">§ 4º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d173" pks="" pk="173">O valor integral da bolsa descrita no caput deve ser pago juntamente com o calendário da folha de pagamento dos servidores do Município de Fortaleza, e sempre após à execução das atividades formativas.</div></div><div class="dn" id="dn173" pk="173"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt174" ><a class="dpt-link" name="174" title="174">§ 5º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d174" pks="" pk="174">A concessão de bolsas de que trata esta Lei terá validade a partir da data em que a solicitação de concessão for aprovada e não terá efeito retroativo.</div></div><div class="dn" id="dn174" pk="174"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt175" ><a class="dpt-link" name="175" title="175">§ 6º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d175" pks="" pk="175">O médico-residente beneficiário da bolsa prevista nesta Lei fará jus a um dia de folga semanal e a 30 (trinta) dias de repouso por cada ano de atividade.</div></div><div class="dn" id="dn175" pk="175"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt176" ><a class="dpt-link" name="176" title="176">§ 7º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d176" pks="" pk="176">O valor definido no caput poderá ser objeto de revisão anual.</div></div><div class="dn" id="dn176" pk="176"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt177" ><a class="dpt-link" name="177" title="177">§ 8º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d177" pks="" pk="177">A Secretaria Municipal da Saúde, por meio de Portaria, definirá o número de bolsas complementares de estudo e pesquisa a serem concedidas.</div></div><div class="dn" id="dn177" pk="177"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt178" ><div class="dtxt" id="d178" pks="" pk="178"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt179" ><a class="dpt-link" name="179">Art. 3º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d179" pks="" pk="179">Faz jus à bolsa objeto desta Lei o residente que, cumulativamente:</div></div><div class="dn" id="dn179" pk="179"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt180" ><a class="dpt-link" name="180" title="180">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d180" pks="" pk="180">tenha sido aprovado em Processo Seletivo de Residência Médica do Ceará realizado pelo Apoio às Residências em Saúde (ARES) ou em outro processo seletivo de residência médica equivalente, definido pela COREME, respeitado o número de bolsas complementares de estudo e pesquisa estabelecidos pela Portaria citada no § 8º, do art. 2º, desta Lei;</div></div><div class="dn" id="dn180" pk="180"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt181" ><a class="dpt-link" name="181" title="181">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d181" pks="" pk="181">esteja devidamente cadastrado no Sistema da Comissão Nacional de Residência Médica (CNRM) do Ministério da Educação;</div></div><div class="dn" id="dn181" pk="181"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt182" ><a class="dpt-link" name="182" title="182">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d182" pks="" pk="182">tenha sido aprovado pela COREME;</div></div><div class="dn" id="dn182" pk="182"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt183" ><a class="dpt-link" name="183" title="183">IV</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d183" pks="" pk="183">esteja vinculado à Estratégia de Saúde da Família do Município de Fortaleza;</div></div><div class="dn" id="dn183" pk="183"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt184" ><a class="dpt-link" name="184" title="184">V</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d184" pks="" pk="184">trabalhar em regime especial de treinamento em serviço de 60 (sessenta) horas semanais, nos termos do art. 4º da Lei nº 6.932/1981.</div></div><div class="dn" id="dn184" pk="184"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt185" ><a class="dpt-link" name="185" title="185">Parágrafo único </a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d185" pks="" pk="185">A concessão de bolsa será formalizada através da assinatura de termo de outorga de Bolsa Complementar de Estudo e Pesquisa para Residente da especialidade Médica de Medicina de Família e Comunidade.</div></div><div class="dn" id="dn185" pk="185"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt186" ><div class="dtxt" id="d186" pks="" pk="186"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt187" ><a class="dpt-link" name="187">Art. 4º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d187" pks="" pk="187">Não faz jus à bolsa objeto desta Lei o residente que:</div></div><div class="dn" id="dn187" pk="187"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt188" ><a class="dpt-link" name="188" title="188">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d188" pks="" pk="188">deixe de comparecer, injustificadamente, às atividades do Programa de Residência Médica em Medicina de Família e Comunidade;</div></div><div class="dn" id="dn188" pk="188"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt189" ><a class="dpt-link" name="189" title="189">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d189" pks="" pk="189">sofra sanções ou punições da COREME;</div></div><div class="dn" id="dn189" pk="189"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt190" ><a class="dpt-link" name="190" title="190">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d190" pks="" pk="190">deixe de realizar as avaliações previstas no programa curricular padrão do Programa de Residência em Medicina de Família e Comunidade;</div></div><div class="dn" id="dn190" pk="190"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt191" ><a class="dpt-link" name="191" title="191">IV</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d191" pks="" pk="191">não obtenha aproveitamento superior à nota mínima nas avaliações padronizadas pela CNRM e pela COREME;</div></div><div class="dn" id="dn191" pk="191"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt192" ><a class="dpt-link" name="192" title="192">V</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d192" pks="" pk="192">receba proventos como servidor público;</div></div><div class="dn" id="dn192" pk="192"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt193" ><a class="dpt-link" name="193" title="193">VI</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d193" pks="" pk="193">seja transferido para residência fora deste Município;</div></div><div class="dn" id="dn193" pk="193"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt194" ><a class="dpt-link" name="194" title="194">VII</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d194" pks="" pk="194">seja transferido para residência de outra especialidade.</div></div><div class="dn" id="dn194" pk="194"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt195" ><div class="dtxt" id="d195" pks="" pk="195"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt196" ><a class="dpt-link" name="196">Art. 5º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d196" pks="" pk="196">A Secretaria Municipal da Saúde ficará responsável pela concessão da bolsa descrita no art. 2º desta Lei para cada residente que preencha todas as condições do art. 3º.</div></div><div class="dn" id="dn196" pk="196"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt197" ><a class="dpt-link" name="197" title="197">§ 1º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d197" pks="" pk="197">A responsabilidade atribuída no caput deste artigo dura pela totalidade do período regulamentar do Programa de Residência Médica em Medicina de Família e Comunidade, conforme a definição dada pela CNRM.</div></div><div class="dn" id="dn197" pk="197"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt198" ><a class="dpt-link" name="198" title="198">§ 2º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d198" pks="" pk="198">A duração definida no § 1º deste artigo será estendida por mais 12 (doze) meses, caso o residente passe a cursar um ano adicional de residência.</div></div><div class="dn" id="dn198" pk="198"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt199" ><a class="dpt-link" name="199" title="199">§ 3º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d199" pks="" pk="199">O período de duração poderá ainda ser estendida, nos casos em que couber, pelo tempo legalmente previstos para afastamento por licença maternidade ou por motivo de licença paternidade, observando o disposto nos §§ 1º e 2º deste artigo.</div></div><div class="dn" id="dn199" pk="199"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt200" ><div class="dtxt" id="d200" pks="" pk="200"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt201" ><a class="dpt-link" name="201">Art. 6º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d201" pks="" pk="201">O Supervisor do Programa de Residência Médica de Medicina de Família e Comunidade é responsável por encaminhar à Secretaria Municipal da Saúde informações referentes a cada residente:</div></div><div class="dn" id="dn201" pk="201"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt202" ><a class="dpt-link" name="202" title="202">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d202" pks="" pk="202">antes do início das atividades de cada ano de residência, a fim de realizar o cadastramento inicial dos beneficiários da bolsa descrita no art. 2º desta Lei;</div></div><div class="dn" id="dn202" pk="202"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt203" ><a class="dpt-link" name="203" title="203">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d203" pks="" pk="203">a cada mês, com as condições impeditivas de recebimento da bolsa, nos termos do art. 4º desta Lei.</div></div><div class="dn" id="dn203" pk="203"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt204" ><div class="dtxt" id="d204" pks="" pk="204"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt205" ><a class="dpt-link" name="205">Art. 7º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d205" pks="" pk="205">As despesas com a presente Lei correrão por conta das dotações orçamentárias da Secretaria Municipal da Saúde, suplementadas se necessário.</div></div><div class="dn" id="dn205" pk="205"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt206" ><div class="dtxt" id="d206" pks="" pk="206"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt207" ><a class="dpt-link" name="207">Art. 8º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d207" pks="" pk="207">Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.</div></div><div class="dn" id="dn207" pk="207"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt208" ><div class="dtxt" id="d208" pks="" pk="208"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt209" ><a class="dpt-link" name="209" title="209"></a><div class="dtxt" id="d209" pks="" pk="209"><div style="text-align: center;"><span style="font-family: Calibri, sans-serif;"><strong>Paço da Prefeitura Municipal de Fortaleza, 03 em de Julho de 2018.</strong></span></div><div style="text-align: center;">&nbsp;</div><div style="text-align: center;">&nbsp;</div><div style="text-align: center;" align="center"><span style="font-family: Calibri, sans-serif;"><strong>ROBERTO CLÁUDIO RODRIGUES BEZERRA</strong></span></div><div style="text-align: center;" align="center"><span style="font-family: Calibri, sans-serif;"><strong>Prefeito Municipal de Fortaleza</strong></span></div></div></div><div class="dn" id="dn209" pk="209"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div>
+
+
+</div>
+
+  <div class="dont-break-out"></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Fortaleza</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Dr. Thompson Bulcão, 830</span>
+                  <br>
+                  CEP: <span class="postal-code">60810-460</span>
+                  |
+                  Telefone: <span>(85) 3444-8300</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="http://www.cmfor.ce.gov.br" class="url">Site</a> |
+                  <a href="mailto:cogel.cmfor@gmail.com.br" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+    
+
+    
+  </body>
+</html>

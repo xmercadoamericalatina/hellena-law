@@ -1,0 +1,2384 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Fortaleza</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Fortaleza",
+      "url" : "http://sapl.fortaleza.ce.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          21/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/logo_casa.png"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Fortaleza
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/381?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/3306/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei Complementar nº 93, de 29 de agosto de 2011
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei Complementar</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>93</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>2011</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>29 de Agosto de 2011</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>INSTITUI O SISTEMA DE SIMPLIFICADO DE PROCEDIMENTOS PARA REGISTRO, EMISSÃO E GERENCIAMENTO ELETRÔNICO PARA CONSULTA PRÉVIA, DO ALVARA DE FUNCIONAMENTO E DO REGISTRO SANITÁRIO; ALTERA E ACRESCENTA DISPOSITIVOS À LEI Nº 5.530, DE 17 DE DEZEMBRO DE 1981 (CÓDIGO DE OBRAS E POSTURAS.</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/3306/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+          <div class="text-info col-12 small">
+            <b>Altera o(a)</b>&nbsp;
+            <a href="/norma/1844">
+              Lei Ordinária nº 5.530, de 17 de dezembro de 1981
+            </a>
+          </div>
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt102662" ><div class="dtxt" id="d102662" pks="" pk="102662"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt102663" ><a class="dpt-link" name="102663" title="102663"></a><div class="dtxt" id="d102663" pks="" pk="102663">Institui o sistema de simplificado de procedimentos para
+registro, emissão e gerenciamento eletrônico da consulta
+prévia, do alvará de funcionamento e do registro sanitário;
+altera e acrescenta dispositivos
+à Lei n° 5.530, de 17 de
+dezembro de 1981, Código de
+Obras e Posturas.</div></div><div class="dn" id="dn102663" pk="102663"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt102664" ><a class="dpt-link" name="102664" title="102664"></a><div class="dtxt" id="d102664" pks="" pk="102664">FAÇO SABER QUE A CÂMARA MUNICIPAL DE
+FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:</div></div><div class="dn" id="dn102664" pk="102664"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt102665" ><div class="dtxt" id="d102665" pks="" pk="102665"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="capitulo  "><div class="dptt "  id="dptt102666" ><a class="dpt-link" name="102666" title="102666">CAPÍTULO I</a><br><div class="dtxt" id="d102666" pks="" pk="102666">Da Emissão Eletrônica dos Documentos</div></div><div class="dn" id="dn102666" pk="102666"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102667" ><div class="dtxt" id="d102667" pks="" pk="102667"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102668" ><a class="dpt-link" name="102668">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102668" pks="" pk="102668">Fica instituído no âmbito do Município de
+Fortaleza o sistema simplificado de procedimentos para
+registro, emissão e gerenciamento, por via eletrônica, da
+consulta prévia de funcionamento, do alvará de funcionamento
+e do registro sanitário, em conformidade com as normas
+estabelecidas nesta Lei.</div></div><div class="dn" id="dn102668" pk="102668"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102669" ><div class="dtxt" id="d102669" pks="" pk="102669"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102670" ><a class="dpt-link" name="102670">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102670" pks="" pk="102670">Os documentos gerenciados e
+expedidos eletronicamente produzem todos os efeitos previstos
+na legislação, cabendo a qualquer interessado verificar sua
+autenticidade através do sítio da Prefeitura Municipal de
+Fortaleza na internet.</div></div><div class="dn" id="dn102670" pk="102670"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt102671" ><a class="dpt-link" name="102671" title="102671">Parágrafo único.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102671" pks="" pk="102671">O sistema de
+gerenciamento de documentos eletrônicos poderá cancelar
+automaticamente os documentos cujo prazo de validade
+definido em lei haja expirado.</div></div><div class="dn" id="dn102671" pk="102671"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="capitulo  "><div class="dptt "  id="dptt102672" ><a class="dpt-link" name="102672" title="102672">CAPÍTULO II</a><br><div class="dtxt" id="d102672" pks="" pk="102672">Da Consulta Prévia</div></div><div class="dn" id="dn102672" pk="102672"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102673" ><div class="dtxt" id="d102673" pks="" pk="102673"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102674" ><a class="dpt-link" name="102674">Art. 3º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102674" pks="" pk="102674">A consulta prévia é ato obrigatório que
+precede a concessão do alvará de funcionamento, devendo ser
+disponibilizada gratuitamente, pela internet, de modo a
+apresentar a qualquer interessado a análise completa de
+adequação urbanística da atividade pesquisada, conforme o
+seu porte e a localização do imóvel pretendido, segundo os
+critérios da Lei de Uso e Ocupação do Solo.</div></div><div class="dn" id="dn102674" pk="102674"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102675" ><div class="dtxt" id="d102675" pks="" pk="102675"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102676" ><a class="dpt-link" name="102676">Art. 4º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102676" pks="" pk="102676">Além de
+atestar a adequação da atividade à localização pretendida para
+efeito de concessão de alvará de funcionamento, a consulta
+prévia informará todos os documentos e licenciamentos que o
+interessado deverá apresentar, bem como as condições e
+obrigações que o mesmo deverá cumprir para obter o
+respectivo alvará.</div></div><div class="dn" id="dn102676" pk="102676"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt102677" ><a class="dpt-link" name="102677" title="102677">§ 1º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102677" pks="" pk="102677">A análise para fins de consulta prévia
+será baseada exclusivamente nas informações fornecidas pelo
+próprio interessado, como o CNAE da atividade e o número do
+IPTU do imóvel pretendido e a área do estabelecimento.</div></div><div class="dn" id="dn102677" pk="102677"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt102678" ><a class="dpt-link" name="102678" title="102678">§ 2º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102678" pks="" pk="102678">Para os efeitos desta Lei, a área do estabelecimento é definida
+como a soma de todas as áreas (construídas ou não),
+utilizadas direta ou indiretamente pelo estabelecimento no
+desenvolvimento de suas atividades, ainda que corresponda a uma fração ideal (parcela) de imóvel ou mesmo reúna vários
+imóveis ou inscrições municipais diferentes. O porte do
+estabelecimento é indicado na Lei de Uso e Ocupação do Solo,
+tendo em consideração a área do estabelecimento e a
+atividade pretendida.</div></div><div class="dn" id="dn102678" pk="102678"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102679" ><div class="dtxt" id="d102679" pks="" pk="102679"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102680" ><a class="dpt-link" name="102680">Art. 5º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102680" pks="" pk="102680">A consulta prévia indicará se no
+local indicado, a atividade com o porte informado é:</div></div><div class="dn" id="dn102680" pk="102680"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt102681" ><a class="dpt-link" name="102681" title="102681">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102681" pks="" pk="102681">adequada, autorizando o poder público a receber e tramitar o
+pedido de alvará de funcionamento;</div></div><div class="dn" id="dn102681" pk="102681"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt102682" ><a class="dpt-link" name="102682" title="102682">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102682" pks="" pk="102682">inadequada, que indica
+a inviabilidade e vedação de concessão do alvará de
+funcionamento conforme requerido;</div></div><div class="dn" id="dn102682" pk="102682"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt102683" ><a class="dpt-link" name="102683" title="102683">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102683" pks="" pk="102683">projeto especial, que
+indica que um projeto específico deve ser encaminhado
+previamente à Secretaria Municipal de Desenvolvimento
+Urbano e Infraestrutura (SEINF). O interessado somente
+poderá requerer o alvará de funcionamento após a aprovação
+do respectivo projeto, caso contrário o pedido será indeferido.</div></div><div class="dn" id="dn102683" pk="102683"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102684" ><div class="dtxt" id="d102684" pks="" pk="102684"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102685" ><a class="dpt-link" name="102685">Art. 6º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102685" pks="" pk="102685">A análise favorável na consulta prévia não gera
+nenhum direito ou expectativa de direito à obtenção de alvará
+de funcionamento, sendo obrigatória a tramitação e finalização
+do respectivo processo, em virtude de ser baseada apenas nas
+informações prestadas pelo interessado.</div></div><div class="dn" id="dn102685" pk="102685"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="capitulo  "><div class="dptt "  id="dptt102686" ><a class="dpt-link" name="102686" title="102686">CAPÍTULO III</a><br><div class="dtxt" id="d102686" pks="" pk="102686">Do Alvará de Funcionamento</div></div><div class="dn" id="dn102686" pk="102686"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102687" ><div class="dtxt" id="d102687" pks="" pk="102687"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102688" ><a class="dpt-link" name="102688">Art. 7º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102688" pks="" pk="102688">No que não conflitar com a presente Lei,
+os critérios para a expedição do alvará de funcionamento são
+aqueles constantes da Lei n° 7.987, de 23 de dezembro de
+1996, Lei de Uso e Ocupação do Solo, e suas alterações,
+passando o mesmo a ser emitido por meio eletrônico.</div></div><div class="dn" id="dn102688" pk="102688"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102689" ><div class="dtxt" id="d102689" pks="" pk="102689"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102690" ><a class="dpt-link" name="102690">Art. 8º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102690" pks="" pk="102690">O alvará de funcionamento é o documento que autoriza o início
+do funcionamento de qualquer atividade estabelecida em
+imóvel.</div></div><div class="dn" id="dn102690" pk="102690"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt102691" ><a class="dpt-link" name="102691" title="102691">§ 1º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102691" pks="" pk="102691">As associações, sociedades, fundações, organizações religiosas, partidos políticos, empresários individuais,
+profissionais autônomos, pessoas físicas ou jurídicas, só
+poderão instalar-se em imóveis e iniciar suas atividades após
+receberem o alvará de funcionamento expedido pelo Município
+de Fortaleza.</div></div><div class="dn" id="dn102691" pk="102691"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt102692" ><a class="dpt-link" name="102692" title="102692">§ 2º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102692" pks="" pk="102692">O uso e a ocupação de bens públicos, ainda que de forma itinerante, ambulante ou eventual, dependem
+de prévia autorização, permissão ou concessão, conforme
+legislação aplicável à espécie, não sendo cabível em nenhum
+desses casos a concessão de alvará de funcionamento.</div></div><div class="dn" id="dn102692" pk="102692"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt102693" ><a class="dpt-link" name="102693" title="102693">§ 3º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102693" pks="" pk="102693">Os profissionais autônomos que não possuem estabelecimento
+instalado e nem ocupam espaços públicos para desenvolver
+suas atividades, mas utilizam o domicílio de seus clientes para
+a prática de seu ofício, não necessitam de qualquer autorização
+de funcionamento, alvará, termo, permissão ou concessão.</div></div><div class="dn" id="dn102693" pk="102693"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102694" ><div class="dtxt" id="d102694" pks="" pk="102694"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102695" ><a class="dpt-link" name="102695">Art. 9º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102695" pks="" pk="102695">Uma vez obtida a análise favorável da consulta prévia, ou
+seja, considerados a atividade e o porte adequados para o local
+pretendido, o interessado estará apto a requerer o alvará de
+funcionamento.</div></div><div class="dn" id="dn102695" pk="102695"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102696" ><div class="dtxt" id="d102696" pks="" pk="102696"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102697" ><a class="dpt-link" name="102697">Art. 10.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102697" pks="" pk="102697">Alvará de funcionamento só será
+expedido após cumpridos os seguintes requisitos, conforme o
+caso:</div></div><div class="dn" id="dn102697" pk="102697"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt102698" ><a class="dpt-link" name="102698" title="102698">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102698" pks="" pk="102698">termo de vistoria da fiscalização municipal, quando a
+área do estabelecimento for maior que 300,00m2
+ (trezentos
+metros quadrados);</div></div><div class="dn" id="dn102698" pk="102698"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt102699" ><a class="dpt-link" name="102699" title="102699">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102699" pks="" pk="102699">termo de vistoria da fiscalização
+municipal, quando a atividade for classificada pela Vigilância
+Sanitária como “alto risco sanitário”;</div></div><div class="dn" id="dn102699" pk="102699"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt102700" ><a class="dpt-link" name="102700" title="102700">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102700" pks="" pk="102700">obtenção da licença de
+operação junto à Secretaria Municipal do Meio Ambiente e
+Controle Urbano (SEMAM), para as atividades submetidas a
+licenciamento ambiental, conforme resolução do Conselho
+Nacional do Meio Ambiente;</div></div><div class="dn" id="dn102700" pk="102700"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt102701" ><a class="dpt-link" name="102701" title="102701">IV</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102701" pks="" pk="102701">obtenção da autorização
+especial de utilização sonora junto à SEMAM, para as
+atividades que pretendam utilizar em seu estabelecimento,
+instrumentos musicais, acústicos ou amplificados, ou equipamentos produtores de ruído, conforme art. 7º da Lei
+Municipal n° 8.097/1997.</div></div><div class="dn" id="dn102701" pk="102701"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt102702" ><a class="dpt-link" name="102702" title="102702">§ 1º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102702" pks="" pk="102702">O alvará de funcionamento
+estará apto a ser expedido após a aprovação da ficha cadastral
+e independentemente de qualquer vistoria prévia, se, cumulativamente:</div></div><div class="dn" id="dn102702" pk="102702"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt102703" ><a class="dpt-link" name="102703" title="102703">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102703" pks="" pk="102703">a área do estabelecimento for menor ou igual a
+300,00m²
+(trezentos metros quadrados);</div></div><div class="dn" id="dn102703" pk="102703"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt102704" ><a class="dpt-link" name="102704" title="102704">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102704" pks="" pk="102704">a atividade for
+classificada pela Vigilância Sanitária como “baixo risco sanitário”;</div></div><div class="dn" id="dn102704" pk="102704"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt102705" ><a class="dpt-link" name="102705" title="102705">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102705" pks="" pk="102705">a atividade não estiver sujeita a licenciamento
+ambiental; e</div></div><div class="dn" id="dn102705" pk="102705"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt102706" ><a class="dpt-link" name="102706" title="102706">IV</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102706" pks="" pk="102706">não houver a intenção de uso de instrumentos
+musicais, acústicos ou amplificados, ou equipamentos
+produtores de ruído, conforme art. 7º da Lei Municipal n°
+8.097/1997.</div></div><div class="dn" id="dn102706" pk="102706"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt102707" ><a class="dpt-link" name="102707" title="102707">§ 2º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102707" pks="" pk="102707">Sem prejuízo da observância dos requisitos
+enumerados neste artigo, só será concedido alvará de funcionamento para imóveis exclusivamente residenciais sob a declaração do interessado de que a atividade é compatível com o
+espaço físico, e, ainda, que não haverá fluxo de mercadorias,
+veículos, pessoas, empregados, colaboradores ou clientes,
+cuja ocorrência, se constatada, ensejará a cassação do respectivo alvará.</div></div><div class="dn" id="dn102707" pk="102707"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102708" ><div class="dtxt" id="d102708" pks="" pk="102708"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102709" ><a class="dpt-link" name="102709">Art. 11.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102709" pks="" pk="102709">O sistema de gerenciamento dos pedidos
+de alvará de funcionamento, que ficará disponível pela rede
+mundial de computadores (internet), informará o interessado
+sobre a tramitação de seu pedido e avisará sobre a necessidade da entrega de documentos e informações complementares. Havendo pendências não resolvidas pelo interessado, no
+prazo de 30 (trinta) dias, o pedido será indeferido, restando ao
+interessado reiniciar todo o procedimento.</div></div><div class="dn" id="dn102709" pk="102709"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102710" ><div class="dtxt" id="d102710" pks="" pk="102710"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102711" ><a class="dpt-link" name="102711">Art. 12.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102711" pks="" pk="102711">Após a
+emissão do alvará de funcionamento, o interessado deverá
+empenhar-se para continuar cumprindo toda a legislação
+municipal, ambiental, sanitária e urbanística, e também obter
+licenciamentos e adequações complementares, no prazo de
+180 (cento e oitenta) dias, dentre outros:</div></div><div class="dn" id="dn102711" pk="102711"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt102712" ><a class="dpt-link" name="102712" title="102712">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102712" pks="" pk="102712">registro de contrato
+de coleta de resíduos sólidos com empresa credenciada junto à
+Empresa Municipal de Limpeza Urbana (EMLURB), caso o
+estabelecimento produza diariamente volume superior a 100
+(cem) litros ou massa superior a 100 (cem) Kg;</div></div><div class="dn" id="dn102712" pk="102712"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt102713" ><a class="dpt-link" name="102713" title="102713">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102713" pks="" pk="102713">obtenção do
+licenciamento dos engenhos de publicidade e propaganda
+associados ao estabelecimento;</div></div><div class="dn" id="dn102713" pk="102713"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt102714" ><a class="dpt-link" name="102714" title="102714">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102714" pks="" pk="102714">obtenção de aprovação do
+projeto de segurança contra incêndios junto ao Corpo de
+Bombeiros;</div></div><div class="dn" id="dn102714" pk="102714"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt102715" ><a class="dpt-link" name="102715" title="102715">IV</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102715" pks="" pk="102715">outras adequações complementares a critério
+da administração.</div></div><div class="dn" id="dn102715" pk="102715"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt102716" ><a class="dpt-link" name="102716" title="102716">Parágrafo único.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102716" pks="" pk="102716">A administração deverá
+fiscalizar o cumprimento do prazo fixado neste artigo,
+aplicando-se o art. 705 da Lei n° 5.530, de 17 de dezembro de
+1981, em caso de descumprimento.</div></div><div class="dn" id="dn102716" pk="102716"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102717" ><div class="dtxt" id="d102717" pks="" pk="102717"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102718" ><a class="dpt-link" name="102718">Art. 13.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102718" pks="" pk="102718">O alvará de
+funcionamento é expedido por prazo indeterminado, salvo nos casos previstos na legislação municipal aplicável à matéria.</div></div><div class="dn" id="dn102718" pk="102718"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt102719" ><a class="dpt-link" name="102719" title="102719">§ 1º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102719" pks="" pk="102719">A administração municipal concederá prazo de 12 (doze)
+meses, a partir da vigência desta Lei, para que, sem ônus para
+os contribuintes, os estabelecimentos providenciam o
+recadastramento dos alvarás de funcionamento, para que o
+quê não será necessária análise urbanística, sanitária ou
+ambiental. Após o período de recadastramento, todos os
+alvarás não recadastrados serão revogados automaticamente
+pelo sistema de gerenciamento.</div></div><div class="dn" id="dn102719" pk="102719"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt102720" ><a class="dpt-link" name="102720" title="102720">§ 2º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102720" pks="" pk="102720">O recadastramento
+previsto no parágrafo anterior restringe-se à declaração do
+responsável acerca da continuidade regular do funcionamento
+ao qual se refere o alvará, não abrangendo outras exigências.</div></div><div class="dn" id="dn102720" pk="102720"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="capitulo  "><div class="dptt "  id="dptt102721" ><a class="dpt-link" name="102721" title="102721">CAPÍTULO IV</a><br><div class="dtxt" id="d102721" pks="" pk="102721">Do Registro Sanitário</div></div><div class="dn" id="dn102721" pk="102721"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102722" ><div class="dtxt" id="d102722" pks="" pk="102722"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102723" ><a class="dpt-link" name="102723">Art. 14.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102723" pks="" pk="102723">O registro sanitário é o documento que
+formaliza o controle sanitário do estabelecimento, visando
+garantir boas condições de funcionamento no tocante à saúde
+da população; os critérios para a sua exigibilidade e concessão
+são a seguir regulamentados, passando o mesmo ser emitido
+por meio eletrônico.</div></div><div class="dn" id="dn102723" pk="102723"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102724" ><div class="dtxt" id="d102724" pks="" pk="102724"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102725" ><a class="dpt-link" name="102725">Art. 15.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102725" pks="" pk="102725">Não será concedido registro
+sanitário sem que haja um alvará ou um termo de permissão ou
+de concessão que o preceda. Sempre que possível o registro
+sanitário e o alvará de funcionamento deverão ser emitidos
+conjuntamente.</div></div><div class="dn" id="dn102725" pk="102725"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102726" ><div class="dtxt" id="d102726" pks="" pk="102726"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102727" ><a class="dpt-link" name="102727">Art. 16.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102727" pks="" pk="102727">A Célula de Vigilância Sanitária,
+através de portaria, publicará a classificação de cada atividade
+CNAE segundo o risco sanitário, reputando-as como “alto risco
+sanitário” ou “baixo risco sanitário.”</div></div><div class="dn" id="dn102727" pk="102727"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt102728" ><a class="dpt-link" name="102728" title="102728">§ 1º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102728" pks="" pk="102728">O registro sanitário
+será expedido imediatamente e juntamente com o alvará de
+funcionamento, independentemente de vistoria prévia, se o
+estabelecimento desempenhar atividades consideradas de
+“baixo risco sanitário.”</div></div><div class="dn" id="dn102728" pk="102728"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt102729" ><a class="dpt-link" name="102729" title="102729">§ 2º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102729" pks="" pk="102729">A vistoria prévia será sempre
+obrigatória para fins de concessão de registro sanitário quando
+a atividade for classificada como “alto risco sanitário”, qualquer
+que seja a área do estabelecimento.</div></div><div class="dn" id="dn102729" pk="102729"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102730" ><div class="dtxt" id="d102730" pks="" pk="102730"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102731" ><a class="dpt-link" name="102731">Art. 17.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102731" pks="" pk="102731">Após a concessão
+do registro sanitário, o interessado deverá empenhar-se para
+cumprir a legislação sanitária, ficando sujeito a vistorias
+aleatórias, infrações e penalidades, na forma da lei.</div></div><div class="dn" id="dn102731" pk="102731"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="capitulo  "><div class="dptt "  id="dptt102732" ><a class="dpt-link" name="102732" title="102732">CAPÍTULO V</a><br><div class="dtxt" id="d102732" pks="" pk="102732">Das Disposições Gerais</div></div><div class="dn" id="dn102732" pk="102732"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102733" ><div class="dtxt" id="d102733" pks="" pk="102733"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102734" ><a class="dpt-link" name="102734">Art. 18.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102734" pks="" pk="102734">Os processos relativos à emissão de
+qualquer um dos documentos descritos nesta Lei, que possuam pendências a serem sanadas pelo interessado, serão arquivados e indeferidos, se tal pendência não for regularizada no
+prazo de 30 (trinta) dias, contados da ciência do mesmo.</div></div><div class="dn" id="dn102734" pk="102734"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102735" ><div class="dtxt" id="d102735" pks="" pk="102735"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102736" ><a class="dpt-link" name="102736">Art. 19.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102736" pks="" pk="102736">A expedição dos documentos indicados na presente Lei
+ensejará o pagamento das respectivas taxas, nos termos da
+Legislação Tributária do Município, ficando isento o requerente
+que comprovar sua condição de Microempreendedor Individual
+(MEI) cadastrado na Secretaria da Receita Federal.</div></div><div class="dn" id="dn102736" pk="102736"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="capitulo  "><div class="dptt "  id="dptt102737" ><a class="dpt-link" name="102737" title="102737">CAPÍTULO VI</a><br><div class="dtxt" id="d102737" pks="" pk="102737">Das Disposições Finais</div></div><div class="dn" id="dn102737" pk="102737"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102738" ><div class="dtxt" id="d102738" pks="" pk="102738"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102739" ><a class="dpt-link" name="102739">Art. 20.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102739" pks="" pk="102739">Fica alterado o art. 699 da Lei n. 5.530,
+de 17 de dezembro de 1981, Código de Obras e Posturas,
+acrescentando-se os §§ 1º, 2º e 3º, com a seguinte redação:</div></div><div class="dn" id="dn102739" pk="102739"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="4">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt102740" ><a class="dpt-link" name="102740" title="102740"></a><div class="dtxt" id="d102740" pks="" pk="102740"><div style="padding-left: 80px; text-align: justify;">“Art. 699 - As associações, sociedades, fundações, organizações religiosas, partidos políticos, empresários individuais, profissionais autônomos, pessoas físicas ou jurídicas, só poderão instalar-se em imóveis e iniciar suas atividades após receberem o alvará de funcionamento expedido pelo Município de Fortaleza.</div><div style="padding-left: 80px; text-align: justify;">§ 1º - A consulta prévia é ato obrigatório que precede a concessão do alvará de funcionamento, devendo ser disponibilizada gratuitamente, pela internet, de modo a apresentar a qualquer interessado a análise completa de adequação urbanística da atividade pesquisada, conforme o seu porte e a localização do imóvel pretendido, segundo os critérios da Lei de Uso e Ocupação do Solo.</div><div style="padding-left: 80px; text-align: justify;">§ 2º - A administração municipal deverá impor condições e requisitos para a concessão do alvará de funcionamento, levando-se em conta a área do estabelecimento, a complexidade e os riscos ambientais e sanitários das atividades pretendidas.</div><div style="padding-left: 80px; text-align: justify;">§ 3° - A expedição do alvará de funcionamento ensejará o pagamento de taxa de licença de funcionamento, nos termos da Legislação Tributária do Município, ficando isento da taxa o requerente que comprovar sua condição de Microempreendedor Individual (MEI) cadastrado na Secretaria da Receita Federal.”&nbsp;</div></div></div><div class="dn" id="dn102740" pk="102740"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102741" ><div class="dtxt" id="d102741" pks="" pk="102741"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102742" ><a class="dpt-link" name="102742">Art. 21.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102742" pks="" pk="102742">Fica alterado o art. 701 da Lei n° 5.530, de 17 de dezembro de
+1981, Código de Obras e Posturas, que passa a ter a seguinte
+redação:</div></div><div class="dn" id="dn102742" pk="102742"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="4">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt102743" ><a class="dpt-link" name="102743" title="102743"></a><div class="dtxt" id="d102743" pks="" pk="102743"><div style="padding-left: 80px;">"Art. 701 - As informações e os documentos necessários para instrução do pedido de consulta prévia e de alvará de funcionamento serão informados ao interessado por meio da internet."&nbsp;</div></div></div><div class="dn" id="dn102743" pk="102743"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102744" ><div class="dtxt" id="d102744" pks="" pk="102744"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102745" ><a class="dpt-link" name="102745">Art. 22.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102745" pks="" pk="102745">Fica alterado o art. 702 da Lei n° 5.530,
+de 17 de dezembro de 1981, Código de Obras e Posturas, que
+passa a ter a seguinte redação:</div></div><div class="dn" id="dn102745" pk="102745"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="4">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt102746" ><a class="dpt-link" name="102746" title="102746"></a><div class="dtxt" id="d102746" pks="" pk="102746"><div style="padding-left: 80px;">&nbsp;"Art. 702 - Concedido o alvará de funcionamento, o proprietário, arrendatário ou locatário do estabelecimento o afixará em local visível e de fácil acesso e o exibirá à autoridade competente sempre que esta o exigir."&nbsp;</div></div></div><div class="dn" id="dn102746" pk="102746"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102747" ><div class="dtxt" id="d102747" pks="" pk="102747"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102748" ><a class="dpt-link" name="102748">Art. 23.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102748" pks="" pk="102748">Fica alterado o art. 704 da Lei n° 5.530, de 17 de
+dezembro de 1981, Código de Obras e Posturas, passando a
+ter a seguinte redação:</div></div><div class="dn" id="dn102748" pk="102748"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="4">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt102749" ><a class="dpt-link" name="102749" title="102749"></a><div class="dtxt" id="d102749" pks="" pk="102749"><div style="padding-left: 80px; text-align: justify;">"Art. 704 - O alvará de funcionamento só será expedido após cumpridos os seguintes requisitos, conforme o caso: <br>I - termo de vistoria da fiscalização municipal, quando a área do estabelecimento for maior que 300,00m2 (trezentos metros quadrados); I<br>I - termo de vistoria da fiscalização municipal, quando a atividade for classificada pela Vigilância Sanitária como "alto risco sanitário"; <br>III - obtenção da licença de operação junto à Secretaria Municipal do Meio Ambiente e Controle Urbano (SEMAM), para as atividades submetidas a licenciamento ambiental, conforme resolução do Conselho Nacional do Meio Ambiente; <br>IV - obtenção da autorização especial de utilização sonora junto à SEMAM, para as atividades que pretendam utilizar em seu estabelecimento, instrumentos musicais, acústicos ou amplificados, ou equipamentos produtores de ruído, conforme art. 7° da Lei Municipal n° 8.097/1997. <br>§ 1° - O alvará de funcionamento estará apto a ser expedido após a aprovação da ficha cadastral e independentemente de qualquer vistoria prévia, se, cumulativamente: <br>I - a área do estabelecimento for menor ou igual a 300,00m2 (trezentos metros quadrados); <br>II - a atividade for classificada pela Vigilância Sanitária como "baixo risco sanitário"; <br>III - a atividade não estiver sujeita a licenciamento ambiental; e <br>IV - não houver a intenção de uso de instrumentos musicais, acústicos ou amplificados, ou equipamentos produtores de ruído, conforme art. 7º da Lei Municipal n° 8.097/1997.<br>§ 2° - Sem prejuízo da observância dos requisitos enumerados neste artigo, só será concedido alvará de funcionamento para imóveis exclusivamente residenciais sob a declaração do interessado de que a atividade é compatível com o espaço físico, e, ainda, que não haverá fluxo de mercadorias, veículos, pessoas, empregados, colaboradores ou clientes, cuja ocorrência, se constatada, ensejará a cassação do respectivo alvará. <br>§ 3º - Após a emissão do alvará de funcionamento, o interessado deverá empenhar-se para continuar cumprindo toda a legislação municipal, ambiental, sanitária e urbanística, e também obter licenciamentos e adequações complementares, no prazo de 180 (cento e oitenta) dias, dentre outros: <br>I - registro de contrato de coleta de resíduos sólidos com empresa credenciada junto à Empresa Municipal de Limpeza Urbana, caso o estabelecimento produza diariamente volume superior a 100 litros ou massa superior a 100kg; <br>II - obtenção do licenciamento dos engenhos de publicidade e propaganda associados ao estabelecimento; <br>III - obtenção de aprovação do projeto de segurança contra incêndios junto ao Corpo de Bombeiros; <br>IV - outras adequações complementares a critério da administração. <br>§ 4º - A administração municipal deverá fiscalizar o cumprimento do prazo fixado neste artigo, aplicandose o art. 705 da Lei n° 5.530, de 17 de dezembro de 1981, em caso de descumprimento."</div></div></div><div class="dn" id="dn102749" pk="102749"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102750" ><div class="dtxt" id="d102750" pks="" pk="102750"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102751" ><a class="dpt-link" name="102751">Art. 24.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102751" pks="" pk="102751">Fica alterado o art. 705 da
+Lei n. 5.530, de 17 de dezembro de 1981, Código de Obras e
+Posturas, acrescentando-se os §§ 1º e 2º, passando a ter a
+seguinte redação:</div></div><div class="dn" id="dn102751" pk="102751"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="4">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt102752" ><a class="dpt-link" name="102752" title="102752"></a><div class="dtxt" id="d102752" pks="" pk="102752"><div style="padding-left: 80px; text-align: justify;">“Art. 705 - O alvará de funcionamento perderá sua eficácia nas seguintes hipóteses:</div><div style="padding-left: 80px; text-align: justify;">I - revogação, nos seguintes casos:</div><div style="padding-left: 80px; text-align: justify;">a) falsidade das informações prestadas ou documentos entregues pelo interessado; <br>b) ausência dos requisitos que fundamentaram sua expedição; <br>c) oferta ou promessa de vantagem indevida a funcionário público, para determiná-lo a praticar, acelerar, omitir ou retardar ato de ofício. <br>II - cassação, nos seguintes casos: <br>a) descumprimento das obrigações impostas por lei ou por ocasião da expedição do alvará; <br>b) desvirtuamento do uso licenciado; <br>c) quando ocorrer mudança de endereço do estabelecimento, alteração da área, alteração da razão social ou modificação da atividade sem que o responsável obtenha previamente novo alvará de funcionamento. <br>§ 1º - A perda da eficácia de alvarás, licenças ou registros dependerá da instauração de prévio procedimento fiscalizatório por parte da administração municipal. <br>§ 2º - Em caso de revogação, o infrator se sujeitará à multa proporcionalmente calculada de 10 (dez) salários mínimos para cada 100 (cem) metros de área do estabelecimento, passível de inscrição na dívida ativa e cobrança judicial, além da aplicação de outras penalidades previstas em lei. <br>§ 3º - Em caso de cassação, o infrator se sujeitará à multa proporcionalmente calculada de 2 (dois) salários mínimos para cada 100 (cem) metros de área do estabelecimento, passível de inscrição na dívida ativa e cobrança judicial, além da aplicação de outras penalidades previstas em lei.”&nbsp;</div></div></div><div class="dn" id="dn102752" pk="102752"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102753" ><div class="dtxt" id="d102753" pks="" pk="102753"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102754" ><a class="dpt-link" name="102754">Art. 25.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102754" pks="" pk="102754">Fica alterado o art. 706
+da Lei n. 5.530, de 17 de dezembro de 1981, Código de Obras
+e Posturas, que passa a ter a seguinte redação:</div></div><div class="dn" id="dn102754" pk="102754"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="4">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt102755" ><a class="dpt-link" name="102755" title="102755"></a><div class="dtxt" id="d102755" pks="" pk="102755"><div style="padding-left: 80px; text-align: justify;">&nbsp;“Art. 706 - Cassado ou revogado o alvará de funcionamento, o estabelecimento será imediatamente fechado, assim devendo permanecer até regularização. Uma vez caracterizado o descumprimento da ordem de fechamento, poderá a administração municipal promover a “notitia criminis” quando constatada a prática de crime contra a administração em geral, conforme tipificado no Código Penal Brasileiro.”</div></div></div><div class="dn" id="dn102755" pk="102755"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102756" ><div class="dtxt" id="d102756" pks="" pk="102756"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102757" ><a class="dpt-link" name="102757">Art. 26.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102757" pks="" pk="102757">Fica alterado o
+art. 707 da Lei n. 5.530, de 17 de dezembro de 1981, Código
+de Obras e Posturas, que passa a ter a seguinte redação:</div></div><div class="dn" id="dn102757" pk="102757"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="4">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt102758" ><a class="dpt-link" name="102758" title="102758"></a><div class="dtxt" id="d102758" pks="" pk="102758"><div style="padding-left: 80px; text-align: justify;">&nbsp;“Art. 707 - Poderá ser igualmente fechado o estabelecimento que exercer atividades clandestinas ou ilegais em desacordo com o alvará de funcionamento regularmente expedido ou, ainda, em desacordo com as normas constantes da Lei n. 7.987, de 23 de dezembro de 1996, Lei de Uso e Ocupação do Solo, e legislação sanitária, ambiental e urbanística municipal, estadual ou federal.”</div></div></div><div class="dn" id="dn102758" pk="102758"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102759" ><div class="dtxt" id="d102759" pks="" pk="102759"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102760" ><a class="dpt-link" name="102760">Art. 27.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102760" pks="" pk="102760">O art. 703 da Lei n. 5.530, de 17 de
+dezembro de 1981, passa a vigorar com a seguinte redação:</div></div><div class="dn" id="dn102760" pk="102760"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="4">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt102761" ><a class="dpt-link" name="102761" title="102761"></a><div class="dtxt" id="d102761" pks="" pk="102761"><div style="padding-left: 80px; text-align: justify;">“Art. 703. Quando ocorrer mudança de endereço do estabelecimento, do uso ou da atividade econômica, bem como alteração da área que modifique a atividade, far-se-á nova solicitação de alvará de funcionamento. <br>§ 1º - Havendo mudança apenas na razão social ou da titularidade do estabelecimento que não altere a atividade econômica, será expedido novo alvará de funcionamento sem a necessidade de nova adequação e consulta prévia, bem como de nova análise urbanística, sanitária ou ambiental. <br>§ 2º - Na hipótese prevista no caput deste artigo efetuar-se-á cobrança da respectiva taxa.”</div></div></div><div class="dn" id="dn102761" pk="102761"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt102762" ><div class="dtxt" id="d102762" pks="" pk="102762"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt102763" ><a class="dpt-link" name="102763">Art. 28.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d102763" pks="" pk="102763">Esta Lei Complementar, após regulamentação,
+entra em vigor na data de sua publicação, revogadas as
+disposições em contrário.</div></div><div class="dn" id="dn102763" pk="102763"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt102764" ><div class="dtxt" id="d102764" pks="" pk="102764"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt102765" ><a class="dpt-link" name="102765" title="102765"></a><div class="dtxt" id="d102765" pks="" pk="102765"><h3 style="text-align: center;"><strong>PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, em 29 de agosto de 2011.<br><br></strong></h3><h3 style="text-align: center;"><strong>Luizianne de Oliveira Lins&nbsp;</strong></h3><h3 style="text-align: center;"><strong>PREFEITA MUNICIPAL DE FORTALEZA.&nbsp;</strong></h3></div></div><div class="dn" id="dn102765" pk="102765"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div>
+
+
+</div>
+
+  <div class="dont-break-out"></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Fortaleza</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Dr. Thompson Bulcão, 830</span>
+                  <br>
+                  CEP: <span class="postal-code">60810-460</span>
+                  |
+                  Telefone: <span>(85) 3444-8300</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="http://www.cmfor.ce.gov.br" class="url">Site</a> |
+                  <a href="mailto:cogel.cmfor@gmail.com.br" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+    
+
+    
+  </body>
+</html>

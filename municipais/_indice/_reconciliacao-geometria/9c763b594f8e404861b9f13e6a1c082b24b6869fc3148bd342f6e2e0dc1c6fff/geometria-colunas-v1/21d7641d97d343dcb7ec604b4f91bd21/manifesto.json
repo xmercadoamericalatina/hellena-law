@@ -1,0 +1,2440 @@
+{
+  "estado": "aplicado",
+  "extrator": "geometria-colunas-v1",
+  "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=269&i=publicado_116172_2026-10-14_dba3624201051063de23d63a79d638b5.pdf",
+  "data_circulacao": "2026-10-15",
+  "pdf": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/arom/2026-10-15-4340.pdf",
+  "sha256_pdf": "6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58",
+  "cache_texto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/arom/2026-10-15-4340.pdf.geometria-colunas-v1.txt",
+  "cache_metadados": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/arom/2026-10-15-4340.pdf.geometria-colunas-v1.json",
+  "anteriores": [
+    {
+      "arquivo": "municipais/RO/mirante-da-serra/decretos/2026/decreto-4023-2026-a167851d.md",
+      "sha256": "69db76727d42689032fa4bc3b67f3321750c6e1484b116bc43d827404ff8d50d",
+      "codigo": "A167851D",
+      "numero": "4023",
+      "municipio": "MIRANTE DA SERRA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "86A69394",
+          "destino": "municipais/RO/mirante-da-serra/decretos/2026/decreto-4023-2026-86a69394.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1831-2026-523793d9.md",
+      "sha256": "3e4059430ee46b9383af2a6115c0f4203373f8576a272aaaa32de4f9c1f9790f",
+      "codigo": "523793D9",
+      "numero": "1831",
+      "municipio": "SÃO FELIPE D'OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "523793D9",
+          "destino": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1831-2026-523793d9.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1834-2026-5f44f324.md",
+      "sha256": "3ffceceabece8c67235b59981d2364f5b7710409a1594e51c414dda860e29663",
+      "codigo": "5F44F324",
+      "numero": "1834",
+      "municipio": "SÃO FELIPE D'OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "C451DC2E",
+          "destino": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1834-2026-c451dc2e.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1830-2026-ad09e5b0.md",
+      "sha256": "166cf73daf2631aab583f149c3322604559345e118025616eaab25071a65ff01",
+      "codigo": "AD09E5B0",
+      "numero": "1830",
+      "municipio": "SÃO FELIPE D'OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "AD09E5B0",
+          "destino": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1830-2026-ad09e5b0.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1835-2026-bd960e49.md",
+      "sha256": "bb4cbb92411fbec09a132405ac9ef3236e64493bc09ce3a1b9f49d17d2717373",
+      "codigo": "BD960E49",
+      "numero": "1835",
+      "municipio": "SÃO FELIPE D'OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "2A5C00A1",
+          "destino": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1835-2026-2a5c00a1.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1818-2026-a3fb2995.md",
+      "sha256": "b2424a262b34ee9ca2f87ed47dc91e8d0310771d36daa5218ba57fc31f126df4",
+      "codigo": "A3FB2995",
+      "numero": "1818",
+      "municipio": "SÃO FELIPE D'OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "A3FB2995",
+          "destino": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1818-2026-a3fb2995.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1832-2026-968f981e.md",
+      "sha256": "4fd93035b8ca1110bb68dea65919ac41b00fce61ebe872b322c8c2724cc8f14b",
+      "codigo": "968F981E",
+      "numero": "1832",
+      "municipio": "SÃO FELIPE D'OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "5F44F324",
+          "destino": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1832-2026-5f44f324.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1833-2026-2a5c00a1.md",
+      "sha256": "1dc70accae977ac43ba5df490b08eec2aa44a87aa232dc0ea80e023fe31a8e0c",
+      "codigo": "2A5C00A1",
+      "numero": "1833",
+      "municipio": "SÃO FELIPE D'OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "968F981E",
+          "destino": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1833-2026-968f981e.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/alta-floresta-d-oeste/decretos/2026/decreto-452-2026-225eda8c.md",
+      "sha256": "ad0f7f2a7657c03459273e49d5391fba6c805c01aec8716a1be5d0af5adaa14f",
+      "codigo": "225EDA8C",
+      "numero": "452",
+      "municipio": "ALTA FLORESTA D'OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "225EDA8C",
+          "destino": "municipais/RO/alto-alegre-dos-parecis/decretos/2026/decreto-452-2026-225eda8c.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/cerejeiras/decretos/2026/decreto-1719-2026-5bb042f6.md",
+      "sha256": "d88cef8314ed97228ee27336fcec73eb4796d24f2998023e6a523d769a243b81",
+      "codigo": "5BB042F6",
+      "numero": "1719",
+      "municipio": "CEREJEIRAS",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "E8F2EFCE",
+          "destino": "municipais/RO/chupinguaia/decretos/2026/decreto-1719-2026-e8f2efce.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/cerejeiras/decretos/2026/decreto-1720-2026-01975471.md",
+      "sha256": "13d422475faf4f5a544b19db0b5a8aa3f8de874fe5219b4c63759b40e30a927c",
+      "codigo": "01975471",
+      "numero": "1720",
+      "municipio": "CEREJEIRAS",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "5BB042F6",
+          "destino": "municipais/RO/chupinguaia/decretos/2026/decreto-1720-2026-5bb042f6.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/cerejeiras/decretos/2026/decreto-1721-2026-e8f2efce.md",
+      "sha256": "983dd6bfef037d13e7dfb9be3f832c56b17677f0b07f98c1a19cf1a1b9f2c882",
+      "codigo": "E8F2EFCE",
+      "numero": "1721",
+      "municipio": "CEREJEIRAS",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "01975471",
+          "destino": "municipais/RO/chupinguaia/decretos/2026/decreto-1721-2026-01975471.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/candeias-do-jamari/decretos/2026/decreto-10691-2026-d588805b.md",
+      "sha256": "f1ee63362a35b251430e6dd94ca288c54c293b6889d2d4ef25120290a717757f",
+      "codigo": "D588805B",
+      "numero": "10691",
+      "municipio": "CANDEIAS DO JAMARI",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "A9E154AE",
+          "destino": "municipais/RO/candeias-do-jamari/decretos/2026/decreto-10691-2026-a9e154ae.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/parecis/decretos/2026/decreto-1222-2026-bb0c970e.md",
+      "sha256": "6106d1c9ad2e664a5392e4110e1860bacc42264b42fe72b8a7fea9af81403ddb",
+      "codigo": "BB0C970E",
+      "numero": "1222",
+      "municipio": "PARECIS",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "BB0C970E",
+          "destino": "municipais/RO/parecis/decretos/2026/decreto-1222-2026-bb0c970e.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/candeias-do-jamari/decretos/2026/decreto-10690-2026-9ae60706.md",
+      "sha256": "a2327fd6e43c5801db5646d64561d74bea5184b21b796c46924510bb189d95fa",
+      "codigo": "9AE60706",
+      "numero": "10690",
+      "municipio": "CANDEIAS DO JAMARI",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "9AE60706",
+          "destino": "municipais/RO/candeias-do-jamari/decretos/2026/decreto-10690-2026-9ae60706.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/alvorada-d-oeste/decretos/2026/decreto-258-2026-d5d4863d.md",
+      "sha256": "83eadbec3142325b67866462f009a64645437828f196dc0f1c9856de6faa7307",
+      "codigo": "D5D4863D",
+      "numero": "258",
+      "municipio": "ALVORADA D'OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "D5D4863D",
+          "destino": "municipais/RO/alvorada-d-oeste/decretos/2026/decreto-258-2026-d5d4863d.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/teixeiropolis/decretos/2026/decreto-246-2026-017dfd4b.md",
+      "sha256": "b81739e4178ca8ef940b2488e451f5cc040be2066de5df5de11af85204b6b47a",
+      "codigo": "017DFD4B",
+      "numero": "246",
+      "municipio": "TEIXEIRÓPOLIS",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "999DF141",
+          "destino": "municipais/RO/teixeiropolis/decretos/2026/decreto-246-2026-999df141.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/novo-horizonte-do-oeste/decretos/2026/decreto-1221-2026-d58d7e3a.md",
+      "sha256": "03c06cc57510eb8d7ee17da34721e1245d20d040b4e7e1324729b8dea050458b",
+      "codigo": "D58D7E3A",
+      "numero": "1221",
+      "municipio": "NOVO HORIZONTE DO OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "6D75652D",
+          "destino": "municipais/RO/parecis/decretos/2026/decreto-1221-2026-6d75652d.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/cujubim/leis-ordinarias/2026/lei-ordinaria-1984-2026-071373ee.md",
+      "sha256": "387164d5b64494809ddc8fd13f16a91c754a9c9357b12b8832998810a154431f",
+      "codigo": "071373EE",
+      "numero": "1984",
+      "municipio": "CUJUBIM",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "4D4D9BB9",
+          "destino": "municipais/RO/governador-jorge-teixeira/leis-ordinarias/2026/lei-ordinaria-1984-2026-4d4d9bb9.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/cujubim/decretos/2026/decreto-12164-2026-68baa13f.md",
+      "sha256": "250de8487d85d4c7f68ecda4c01507ee14c0953a5fa2a4b20580a44e9651db60",
+      "codigo": "68BAA13F",
+      "numero": "12164",
+      "municipio": "CUJUBIM",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "071373EE",
+          "destino": "municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12164-2026-071373ee.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2370-2026-a70aa45a.md",
+      "sha256": "fc8c8352837bcdf4f814c4ef52b1619ce35c5220ff1549fc4e3bcaaaaf01592a",
+      "codigo": "A70AA45A",
+      "numero": "2370",
+      "municipio": "BURITIS",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "A70AA45A",
+          "destino": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2370-2026-a70aa45a.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2371-2026-b31c8377.md",
+      "sha256": "3035b6bc5c5e777d0e20e9214a7d9c06e85bc8e7ed755027ff254e2c1c3dc635",
+      "codigo": "B31C8377",
+      "numero": "2371",
+      "municipio": "BURITIS",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "B31C8377",
+          "destino": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2371-2026-b31c8377.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/cujubim/decretos/2026/decreto-12165-2026-4d4d9bb9.md",
+      "sha256": "26b00c7cc72d536f1166cb205701f2422caf06f47164451c78beafa4a1cc4892",
+      "codigo": "4D4D9BB9",
+      "numero": "12165",
+      "municipio": "CUJUBIM",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "68BAA13F",
+          "destino": "municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12165-2026-68baa13f.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2369-2026-0943e9a7.md",
+      "sha256": "6dd334dfb0121ca8604cf56c6b60ec2343b8161b7ae81955aa85dc2346deb084",
+      "codigo": "0943E9A7",
+      "numero": "2369",
+      "municipio": "BURITIS",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "0943E9A7",
+          "destino": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2369-2026-0943e9a7.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2368-2026-26788113.md",
+      "sha256": "052e862b55e2a89f192793959ebebb4534400b4c5d623867b8a2a0661f5d3968",
+      "codigo": "26788113",
+      "numero": "2368",
+      "municipio": "BURITIS",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "26788113",
+          "destino": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2368-2026-26788113.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2373-2026-ec2ab742.md",
+      "sha256": "2c0d3c150c3fa19afacec4f3142d120f38bc3c3646161bc59265ae28e8350c05",
+      "codigo": "EC2AB742",
+      "numero": "2373",
+      "municipio": "BURITIS",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "EC2AB742",
+          "destino": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2373-2026-ec2ab742.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/buritis/leis-ordinarias/2025/lei-ordinaria-2274-2025-64c80fbd.md",
+      "sha256": "345a392201a891fb7ac080d75a668728ded863abda42fddd719daafeb6df5cd4",
+      "codigo": "64C80FBD",
+      "numero": "2274",
+      "municipio": "BURITIS",
+      "candidatos_mesmo_tipo_numero": []
+    },
+    {
+      "arquivo": "municipais/RO/monte-negro/decretos/2026/decreto-4826-2026-7ceccf0a.md",
+      "sha256": "becea5967a3428314a328ea20185d5b09a258d490a7fe688dec096b3d58d8295",
+      "codigo": "7CECCF0A",
+      "numero": "4826",
+      "municipio": "MONTE NEGRO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "7CECCF0A",
+          "destino": "municipais/RO/monte-negro/decretos/2026/decreto-4826-2026-7ceccf0a.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18270-2026-57a5d949.md",
+      "sha256": "ef1d6892c7b50c7df7cc5f361530612ce97bf2771223cb19368284dc84072eff",
+      "codigo": "57A5D949",
+      "numero": "18270",
+      "municipio": "GUAJARÁ-MIRIM",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "57A5D949",
+          "destino": "municipais/RO/guajara-mirim/decretos/2026/decreto-18270-2026-57a5d949.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18263-2026-9c5ed601.md",
+      "sha256": "64b8668dc2a0819edaeb7903c07bce6705221cdcf01f9448f7568053f95b381d",
+      "codigo": "9C5ED601",
+      "numero": "18263",
+      "municipio": "GUAJARÁ-MIRIM",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "9C5ED601",
+          "destino": "municipais/RO/guajara-mirim/decretos/2026/decreto-18263-2026-9c5ed601.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/theobroma/decretos/2026/decreto-248-2026-8b85dc05.md",
+      "sha256": "a774bd8240f79491a2e685ee240721e819454214986a15b7a708f336bc4eab43",
+      "codigo": "8B85DC05",
+      "numero": "248",
+      "municipio": "THEOBROMA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "8B85DC05",
+          "destino": "municipais/RO/teixeiropolis/decretos/2026/decreto-248-2026-8b85dc05.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/theobroma/decretos/2026/decreto-247-2026-6024073c.md",
+      "sha256": "e10d488f14beeb7a7a69d0a98e4a21b2c600f2ed85c547e5bb8771b7620157fc",
+      "codigo": "6024073C",
+      "numero": "247",
+      "municipio": "THEOBROMA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "6024073C",
+          "destino": "municipais/RO/teixeiropolis/decretos/2026/decreto-247-2026-6024073c.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/nova-mamore/decretos/2026/decreto-10031-2026-32a4338a.md",
+      "sha256": "c07abec1889ee178508dbc7f385dcd301c82f9c25a769d31e2732a2509b336c0",
+      "codigo": "32A4338A",
+      "numero": "10031",
+      "municipio": "NOVA MAMORÉ",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "A6FAD6BE",
+          "destino": "municipais/RO/nova-mamore/decretos/2026/decreto-10031-2026-a6fad6be.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/itapua-do-oeste/leis-ordinarias/2026/lei-ordinaria-1251-2026-ac149b26.md",
+      "sha256": "30d98d3057b149335b668dcd7338e66d57993e2ffa95a8ae278d4e6232b25fca",
+      "codigo": "AC149B26",
+      "numero": "1251",
+      "municipio": "ITAPUÃ DO OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "E7280545",
+          "destino": "municipais/RO/itapua-do-oeste/leis-ordinarias/2026/lei-ordinaria-1251-2026-e7280545.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18265-2026-a8401c4c.md",
+      "sha256": "3d2a00f8b0efeb0a2d0ce0083f36a5c71b7b06dc41a1b17141604708b0ba4d9c",
+      "codigo": "A8401C4C",
+      "numero": "18265",
+      "municipio": "GUAJARÁ-MIRIM",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "2A1560BC",
+          "destino": "municipais/RO/guajara-mirim/decretos/2026/decreto-18265-2026-2a1560bc.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/alto-alegre-dos-parecis/decretos/2026/decreto-452-2026-225eda8c.md",
+      "sha256": "eea7ee875e241f32bd53624b818782b47d8d60bb65232eb5bbd08d910a8f2f6e",
+      "codigo": "225EDA8C",
+      "numero": "452",
+      "municipio": "ALTO ALEGRE DOS PARECIS",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "225EDA8C",
+          "destino": "municipais/RO/alto-alegre-dos-parecis/decretos/2026/decreto-452-2026-225eda8c.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18261-2026-8c6b435c.md",
+      "sha256": "27a38a060d066da0a62b355a38026c382e6e1a7d614bb62374c7f28c5e05ef08",
+      "codigo": "8C6B435C",
+      "numero": "18261",
+      "municipio": "GUAJARÁ-MIRIM",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "73BBBB74",
+          "destino": "municipais/RO/guajara-mirim/decretos/2026/decreto-18261-2026-73bbbb74.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/ariquemes/decretos/2026/decreto-24219-2026-f0c473e6.md",
+      "sha256": "15c71ea3d80648376baf57ca64e6d5a4c4355160b8938420d2232664ba645d3f",
+      "codigo": "F0C473E6",
+      "numero": "24219",
+      "municipio": "ARIQUEMES",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "F0C473E6",
+          "destino": "municipais/RO/ariquemes/decretos/2026/decreto-24219-2026-f0c473e6.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/nova-uniao/decretos/2026/decreto-3279-2026-30f6283c.md",
+      "sha256": "041f50b7a2399daaa4d29407f372cb0a1fd77010ddf22ccc75c737f7feb95d38",
+      "codigo": "30F6283C",
+      "numero": "3279",
+      "municipio": "NOVA UNIÃO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "30F6283C",
+          "destino": "municipais/RO/nova-uniao/decretos/2026/decreto-3279-2026-30f6283c.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18258-2026-1e48a02e.md",
+      "sha256": "96fdeeeb22a4a9e4d201a77672df2daf881d239a78a6df8b5c8f8be3fe2b950d",
+      "codigo": "1E48A02E",
+      "numero": "18258",
+      "municipio": "GUAJARÁ-MIRIM",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "080B3668",
+          "destino": "municipais/RO/guajara-mirim/decretos/2026/decreto-18258-2026-080b3668.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/nova-uniao/decretos/2026/decreto-3281-2026-a6c82e7b.md",
+      "sha256": "f0cd601b31812f2397953320a9131e879c26e7f28b42e3012783de1768c47060",
+      "codigo": "A6C82E7B",
+      "numero": "3281",
+      "municipio": "NOVA UNIÃO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "A6C82E7B",
+          "destino": "municipais/RO/nova-uniao/decretos/2026/decreto-3281-2026-a6c82e7b.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18268-2026-8faedfc7.md",
+      "sha256": "bda981a76283446f78e3e7984fdb2cd6fdb70873062fa85836e054456e6eb17a",
+      "codigo": "8FAEDFC7",
+      "numero": "18268",
+      "municipio": "GUAJARÁ-MIRIM",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "A8401C4C",
+          "destino": "municipais/RO/guajara-mirim/decretos/2026/decreto-18268-2026-a8401c4c.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/nova-uniao/decretos/2026/decreto-3278-2026-037b8423.md",
+      "sha256": "e393b8405f41042f7f2af8fcf4ba0dcb07ad45b3f48a652b43a6df9e80606d9e",
+      "codigo": "037B8423",
+      "numero": "3278",
+      "municipio": "NOVA UNIÃO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "037B8423",
+          "destino": "municipais/RO/nova-uniao/decretos/2026/decreto-3278-2026-037b8423.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18255-2026-080b3668.md",
+      "sha256": "a2e2be68befd5342b74ef3425550f6a59bafc5e963ed1d27b4604c6c95a47ec0",
+      "codigo": "080B3668",
+      "numero": "18255",
+      "municipio": "GUAJARÁ-MIRIM",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "1A9DEF96",
+          "destino": "municipais/RO/guajara-mirim/decretos/2026/decreto-18255-2026-1a9def96.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/nova-uniao/decretos/2026/decreto-3280-2026-4d719740.md",
+      "sha256": "fb7dec982659203d7fcfa936685f27f02116df1cd179deab31f2b4dac9f16779",
+      "codigo": "4D719740",
+      "numero": "3280",
+      "municipio": "NOVA UNIÃO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "4D719740",
+          "destino": "municipais/RO/nova-uniao/decretos/2026/decreto-3280-2026-4d719740.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/cacaulandia/decretos/2026/decreto-10692-2026-cea5d2c9.md",
+      "sha256": "000473368e1c95f3cac3c35f477fea368e2ef830995cd7142573dc8834a40187",
+      "codigo": "CEA5D2C9",
+      "numero": "10692",
+      "municipio": "CACAULÂNDIA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "CEA5D2C9",
+          "destino": "municipais/RO/candeias-do-jamari/decretos/2026/decreto-10692-2026-cea5d2c9.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-22528-2026-86e54ad7.md",
+      "sha256": "dfd1b9cdb1121518094543d9c558880936f39ae97d17244cfe2c3cc839c48590",
+      "codigo": "86E54AD7",
+      "numero": "22528",
+      "municipio": "PORTO VELHO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "86E54AD7",
+          "destino": "municipais/RO/porto-velho/decretos/2026/decreto-22528-2026-86e54ad7.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/cacaulandia/decretos/2026/decreto-205-2026-c65a480b.md",
+      "sha256": "85db5974205648f4f3f90a4bbaa773c29ae1c5219f273aed4067aa7d9e33b0f9",
+      "codigo": "C65A480B",
+      "numero": "205",
+      "municipio": "CACAULÂNDIA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "39D11046",
+          "destino": "municipais/RO/campo-novo-de-rondonia/decretos/2026/decreto-205-2026-39d11046.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-22535-2026-f01f090d.md",
+      "sha256": "c530c15a77100e539871ebeedf71697f058a63d20022c57b49a74ae3234d52ec",
+      "codigo": "F01F090D",
+      "numero": "22535",
+      "municipio": "PORTO VELHO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "F01F090D",
+          "destino": "municipais/RO/porto-velho/decretos/2026/decreto-22535-2026-f01f090d.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-22531-2026-15e3aaac.md",
+      "sha256": "bbe0bda97aca47b5fba1bd367b21b0c6c973730537a7bf87ab0b6a9ccc8ac20d",
+      "codigo": "15E3AAAC",
+      "numero": "22531",
+      "municipio": "PORTO VELHO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "15E3AAAC",
+          "destino": "municipais/RO/porto-velho/decretos/2026/decreto-22531-2026-15e3aaac.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/rio-crespo/decretos/2026/decreto-2784-2026-a8e5cf75.md",
+      "sha256": "9fdf052617b57bc17e137cb28150a0c697bb4cc2c2ee5c58ba07f853fe825cdd",
+      "codigo": "A8E5CF75",
+      "numero": "2784",
+      "municipio": "RIO CRESPO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "D60FB958",
+          "destino": "municipais/RO/rio-crespo/decretos/2026/decreto-2784-2026-d60fb958.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/rio-crespo/decretos/2026/decreto-2785-2026-20c1b834.md",
+      "sha256": "0e05de0fb5c9bd3e8d0872433f4930fb47d6e3b439d776bf9b3b834b1bc7db64",
+      "codigo": "20C1B834",
+      "numero": "2785",
+      "municipio": "RIO CRESPO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "20C1B834",
+          "destino": "municipais/RO/rio-crespo/decretos/2026/decreto-2785-2026-20c1b834.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-22529-2026-f309ccf2.md",
+      "sha256": "309408a44bce9e90cbf2a5492e18661256178b0ba67f989ee6a6339dac20ebad",
+      "codigo": "F309CCF2",
+      "numero": "22529",
+      "municipio": "PORTO VELHO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "F309CCF2",
+          "destino": "municipais/RO/porto-velho/decretos/2026/decreto-22529-2026-f309ccf2.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-3744-2026-8d405f67.md",
+      "sha256": "cdff8e6f06b63fb5f60c52d4d301ee6e599199d5fb51a8a81cee8725b6a26cdd",
+      "codigo": "8D405F67",
+      "numero": "3744",
+      "municipio": "PORTO VELHO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "8D405F67",
+          "destino": "municipais/RO/porto-velho/decretos/2026/decreto-3744-2026-8d405f67.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-22522-2026-7d7e231b.md",
+      "sha256": "48045aba1251bbb5d19f2dfc0646b0c33c240761b77996d21793abb0a352aa7b",
+      "codigo": "7D7E231B",
+      "numero": "22522",
+      "municipio": "PORTO VELHO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "239B5A27",
+          "destino": "municipais/RO/porto-velho/decretos/2026/decreto-22522-2026-239b5a27.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-3745-2026-ab7105bf.md",
+      "sha256": "938702a2a158a6e4a4c64bae0386010b933fe8331255f8e56db50587077280f8",
+      "codigo": "AB7105BF",
+      "numero": "3745",
+      "municipio": "PORTO VELHO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "AB7105BF",
+          "destino": "municipais/RO/porto-velho/decretos/2026/decreto-3745-2026-ab7105bf.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-22530-2026-823a3949.md",
+      "sha256": "517887afea0a102fc796a492c4a664d3d81ac2b022da3fb731d718c5ec9d226a",
+      "codigo": "823A3949",
+      "numero": "22530",
+      "municipio": "PORTO VELHO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "823A3949",
+          "destino": "municipais/RO/porto-velho/decretos/2026/decreto-22530-2026-823a3949.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-22534-2026-6581b2c9.md",
+      "sha256": "9baea6a2c96e30addaebfcd9011a875862ad0890742774486006c1f62b4b1dc8",
+      "codigo": "6581B2C9",
+      "numero": "22534",
+      "municipio": "PORTO VELHO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "6581B2C9",
+          "destino": "municipais/RO/porto-velho/decretos/2026/decreto-22534-2026-6581b2c9.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-22527-2026-ff2a86ee.md",
+      "sha256": "c9c39c36e5ef1c3d98c0023524f6a419bd3dfca3456947c8caea9e8e8de92212",
+      "codigo": "FF2A86EE",
+      "numero": "22527",
+      "municipio": "PORTO VELHO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "FF2A86EE",
+          "destino": "municipais/RO/porto-velho/decretos/2026/decreto-22527-2026-ff2a86ee.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/chupinguaia/decretos/2026/decreto-1718-2026-c175f202.md",
+      "sha256": "432e2b9c5223269944e6b3f7f0be24bd11571780c628082f5d13f7931506c942",
+      "codigo": "C175F202",
+      "numero": "1718",
+      "municipio": "CHUPINGUAIA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "8B27650C",
+          "destino": "municipais/RO/chupinguaia/decretos/2026/decreto-1718-2026-8b27650c.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5238-2026-4c2f22b2.md",
+      "sha256": "4a90c28dce6bf872c466e2adf05d9a12b591689111bc822e2f3afbc5ef470d13",
+      "codigo": "4C2F22B2",
+      "numero": "5238",
+      "municipio": "MACHADINHO D'OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "0187444C",
+          "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5238-2026-0187444c.md"
+        },
+        {
+          "codigo": "3DAF1D47",
+          "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5238-2026-3daf1d47.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5238-2026-7d4469d9.md",
+      "sha256": "14b4c7aa24b616b93f89a00e0dec57c03b3738b8fc9eb7d3cb1d2a42ef972411",
+      "codigo": "7D4469D9",
+      "numero": "5238",
+      "municipio": "MACHADINHO D'OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "0187444C",
+          "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5238-2026-0187444c.md"
+        },
+        {
+          "codigo": "3DAF1D47",
+          "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5238-2026-3daf1d47.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5236-2026-9b064060.md",
+      "sha256": "cf7f703ec9195bca4f9b881d026a4dd48bff9688eaad6d161e0d6c9c102ef4af",
+      "codigo": "9B064060",
+      "numero": "5236",
+      "municipio": "MACHADINHO D'OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "4C2F22B2",
+          "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5236-2026-4c2f22b2.md"
+        },
+        {
+          "codigo": "9B064060",
+          "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5236-2026-9b064060.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/governador-jorge-teixeira/leis-ordinarias/2026/lei-ordinaria-1984-2026-071373ee.md",
+      "sha256": "3e916be95ba381db8729bf6f0d19463e07b5eccec54419986dad7e8118162f67",
+      "codigo": "071373EE",
+      "numero": "1984",
+      "municipio": "GOVERNADOR JORGE TEIXEIRA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "4D4D9BB9",
+          "destino": "municipais/RO/governador-jorge-teixeira/leis-ordinarias/2026/lei-ordinaria-1984-2026-4d4d9bb9.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5237-2026-3daf1d47.md",
+      "sha256": "4d0314ad0ebb0018094b97e3dccc2ca7441bde97267d0ec3cfb833333aa0d366",
+      "codigo": "3DAF1D47",
+      "numero": "5237",
+      "municipio": "MACHADINHO D'OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "6534A6DB",
+          "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5237-2026-6534a6db.md"
+        },
+        {
+          "codigo": "E3AB79D4",
+          "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5237-2026-e3ab79d4.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5234-2026-af47234a.md",
+      "sha256": "2df42adbbbd4eb3af3a95c34a63c87785e576e6d4967e892c4bb6a117725084d",
+      "codigo": "AF47234A",
+      "numero": "5234",
+      "municipio": "MACHADINHO D'OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "AF47234A",
+          "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5234-2026-af47234a.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5237-2026-0187444c.md",
+      "sha256": "b31c5efe9de424f91fbeb07fc3de7df4a9dd8032755e17bef9adbd4fdf3396b4",
+      "codigo": "0187444C",
+      "numero": "5237",
+      "municipio": "MACHADINHO D'OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "6534A6DB",
+          "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5237-2026-6534a6db.md"
+        },
+        {
+          "codigo": "E3AB79D4",
+          "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5237-2026-e3ab79d4.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5235-2026-e3ab79d4.md",
+      "sha256": "03339a15cd211eaf521e67536f0decd0deebccb85f0a29d68bf19e4e333301c7",
+      "codigo": "E3AB79D4",
+      "numero": "5235",
+      "municipio": "MACHADINHO D'OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "7D4469D9",
+          "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5235-2026-7d4469d9.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5236-2026-6534a6db.md",
+      "sha256": "8ea0545485d0f4c78dafb917d00a0a42129bbc3693cc40f39525cef405186c30",
+      "codigo": "6534A6DB",
+      "numero": "5236",
+      "municipio": "MACHADINHO D'OESTE",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "4C2F22B2",
+          "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5236-2026-4c2f22b2.md"
+        },
+        {
+          "codigo": "9B064060",
+          "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5236-2026-9b064060.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12164-2026-68baa13f.md",
+      "sha256": "8b4a16a63269f1e492ffd3088681609a38f90a5f9abcc207ab6d831dcb6a47b1",
+      "codigo": "68BAA13F",
+      "numero": "12164",
+      "municipio": "GOVERNADOR JORGE TEIXEIRA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "071373EE",
+          "destino": "municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12164-2026-071373ee.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12165-2026-4d4d9bb9.md",
+      "sha256": "338c8cf8eb712fccdfa459e745dc07c67df9665701373106827bc90e08cf3590",
+      "codigo": "4D4D9BB9",
+      "numero": "12165",
+      "municipio": "GOVERNADOR JORGE TEIXEIRA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "68BAA13F",
+          "destino": "municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12165-2026-68baa13f.md"
+        }
+      ]
+    }
+  ],
+  "novos": 68,
+  "atos_no_pdf": 359,
+  "nao_normativos_confirmados": [
+    "BD960E49",
+    "A167851D",
+    "D588805B",
+    "017DFD4B",
+    "D58D7E3A",
+    "8C6B435C",
+    "8FAEDFC7",
+    "A8E5CF75",
+    "C175F202",
+    "7D7E231B",
+    "32A4338A",
+    "C65A480B",
+    "AC149B26"
+  ],
+  "acoes": [
+    {
+      "acao": "gravar",
+      "codigo": "A6FAD6BE",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/nova-mamore/decretos/2026/decreto-10031-2026-a6fad6be.md",
+      "destino": "municipais/RO/nova-mamore/decretos/2026/decreto-10031-2026-a6fad6be.md",
+      "sha256": "62a6553c7e7b8878cf89483f5ba2a8e7a8042dd8c95638b4b9d482fee07424a1",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "NOVA MAMORÉ",
+        "titulo": "DECRETO Nº10031 -GP/2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "f2f103206a9853b96eb672360ea7cca609bba1eddc8a686af0abc99a8bd61d2f"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "F0C473E6",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/ariquemes/decretos/2026/decreto-24219-2026-f0c473e6.md",
+      "destino": "municipais/RO/ariquemes/decretos/2026/decreto-24219-2026-f0c473e6.md",
+      "sha256": "56b17e94e7d32d186f7d2c5fb4773319e7fc97659e8530c924c6fbf5f5595824",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "ARIQUEMES",
+        "titulo": "DECRETO Nº 24219/2026 DE 13 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "c0f85909dc7957107b95f021b218f8360afc1c494a8a6dda1aca9b1187e50b2f"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "4D719740",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/nova-uniao/decretos/2026/decreto-3280-2026-4d719740.md",
+      "destino": "municipais/RO/nova-uniao/decretos/2026/decreto-3280-2026-4d719740.md",
+      "sha256": "a159166d2c56562d27767774e3440308b349ffe640df86f1d5c9127c86a93a02",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "NOVA UNIÃO",
+        "titulo": "DECRETO Nº 3.280 DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "625c77095bfd92b077f2ffa85be5fdb5bb37e66980ac1a451cf90d2e1dd0fbbd"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "037B8423",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/nova-uniao/decretos/2026/decreto-3278-2026-037b8423.md",
+      "destino": "municipais/RO/nova-uniao/decretos/2026/decreto-3278-2026-037b8423.md",
+      "sha256": "6d85571e8857cd82ec5eb1820045100a54ab52470ac8b86b520efc07e3a67a2f",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "NOVA UNIÃO",
+        "titulo": "DECRETO Nº 3.278 DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "b261ed57f26436471fd2c94de2617602063a85a5a0e438961db4ca6d1da9bf4c"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "A6C82E7B",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/nova-uniao/decretos/2026/decreto-3281-2026-a6c82e7b.md",
+      "destino": "municipais/RO/nova-uniao/decretos/2026/decreto-3281-2026-a6c82e7b.md",
+      "sha256": "1145946373dd0bfd95fbcc3b081b6ae4d768b2c9bffc9954a0ee855af63fcc66",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "NOVA UNIÃO",
+        "titulo": "DECRETO Nº 3.281 DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "e7392e4aa172942f6e0d5ceefc43008bbe84c4ffcc9c4f1a80b991634db058e4"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "30F6283C",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/nova-uniao/decretos/2026/decreto-3279-2026-30f6283c.md",
+      "destino": "municipais/RO/nova-uniao/decretos/2026/decreto-3279-2026-30f6283c.md",
+      "sha256": "8db8dd00ba221487f1087f23bf749369c32c2f158dbac3dd74023992b1be556b",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "NOVA UNIÃO",
+        "titulo": "DECRETO Nº 3.279 DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "6791714726f8b4842d609cb86f1428609fab355aec0440e60c77e7470c8a07f1"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "F01F090D",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/porto-velho/decretos/2026/decreto-22535-2026-f01f090d.md",
+      "destino": "municipais/RO/porto-velho/decretos/2026/decreto-22535-2026-f01f090d.md",
+      "sha256": "a28632fdbcbe7b1703816b14cf1eda8aee0a4ddf474479394ba88f218270866c",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "PORTO VELHO",
+        "titulo": "DECRETO N.°22.535  DE 14 DE OUTUBRO  DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "85db88d1a1ef2068b1c9338352cf072c3efc61531fcc245910be85dcf4abb11c"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "15E3AAAC",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/porto-velho/decretos/2026/decreto-22531-2026-15e3aaac.md",
+      "destino": "municipais/RO/porto-velho/decretos/2026/decreto-22531-2026-15e3aaac.md",
+      "sha256": "2321d0be2681b378182bad5463df2cc1b17c60c775c3bcd3c5cc449e41244c81",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "PORTO VELHO",
+        "titulo": "DECRETO N.° 22.531, DE 09 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "30e1213aef4e40894691bdc5c1168757b8e9412eb4bdfe090aff192dd178abc4"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "F309CCF2",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/porto-velho/decretos/2026/decreto-22529-2026-f309ccf2.md",
+      "destino": "municipais/RO/porto-velho/decretos/2026/decreto-22529-2026-f309ccf2.md",
+      "sha256": "298ab12733a8cb0d07cde16dae430ba24b5d8b8276b15813e2b862ac3c7619d6",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "PORTO VELHO",
+        "titulo": "DECRETO N.° 22.529, DE 09 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "d160ef467e60a921ffcace6b2013a7cbfd090237f509980cf609bb1b0069f221"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "239B5A27",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/porto-velho/decretos/2026/decreto-22522-2026-239b5a27.md",
+      "destino": "municipais/RO/porto-velho/decretos/2026/decreto-22522-2026-239b5a27.md",
+      "sha256": "0f3d26e6320dc1e0eb7d0c129d1cfca2ea45f0da2913762f1f4e41d74e07d540",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "PORTO VELHO",
+        "titulo": "DECRETO N.° 22.522, DE 07 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "560eb10629ad6586dfdcb2b717b7b43c5ff3484696bbe23567e96d4b6dd22db6"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "AB7105BF",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/porto-velho/decretos/2026/decreto-3745-2026-ab7105bf.md",
+      "destino": "municipais/RO/porto-velho/decretos/2026/decreto-3745-2026-ab7105bf.md",
+      "sha256": "d96063dd8358ed8a55522d5e1342f3579dc40da5d5eb9204bbe8450a507f8760",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "PORTO VELHO",
+        "titulo": "DECRETO Nº 3.745/I, DE 13 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "fc48810556d701c53d4debc6e40d9c66e471c5c7e632dcc65d4d52bb3a53e396"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "8D405F67",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/porto-velho/decretos/2026/decreto-3744-2026-8d405f67.md",
+      "destino": "municipais/RO/porto-velho/decretos/2026/decreto-3744-2026-8d405f67.md",
+      "sha256": "60e5655487b96be98afaab8a0502d0ff3881363d5c6a5ea31c393e03e556f60c",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "PORTO VELHO",
+        "titulo": "DECRETO Nº 3.744/I, DE 13 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "6ebde544aa79cdf734f4fad62dfb13b1e6be421d7b88f5f007f32ca4498d4304"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "6581B2C9",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/porto-velho/decretos/2026/decreto-22534-2026-6581b2c9.md",
+      "destino": "municipais/RO/porto-velho/decretos/2026/decreto-22534-2026-6581b2c9.md",
+      "sha256": "2d951efb9c948a142bc6300f2753aba310451a3860c874f8885eba01c5f4f5dd",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "PORTO VELHO",
+        "titulo": "DECRETO Nº 22.534, DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "1ace9e261d99abad98563c716b8766c066e9f17bd8c1abc52ad57f225811a937"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "FF2A86EE",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/porto-velho/decretos/2026/decreto-22527-2026-ff2a86ee.md",
+      "destino": "municipais/RO/porto-velho/decretos/2026/decreto-22527-2026-ff2a86ee.md",
+      "sha256": "b8830306e835eecba188e5e705c1415f349a27ffd7702c703170acd46414210e",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "PORTO VELHO",
+        "titulo": "DECRETO N.° 22.527, DE 09 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "86f3ff9aafe155234e21f0f47a429fd3d970602b484dab3d0612cd001525bf91"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "823A3949",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/porto-velho/decretos/2026/decreto-22530-2026-823a3949.md",
+      "destino": "municipais/RO/porto-velho/decretos/2026/decreto-22530-2026-823a3949.md",
+      "sha256": "a4f540f5f9654b335f9e07c47d87ed6a4b1ef4f0f13ebd013235a09dcdeff055",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "PORTO VELHO",
+        "titulo": "DECRETO N.° 22.530, DE 09 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "0a2bc3c13368ee59f848a965888c87b5b64fe8b864dc2f1fab3ec3969cddb1fb"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "86E54AD7",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/porto-velho/decretos/2026/decreto-22528-2026-86e54ad7.md",
+      "destino": "municipais/RO/porto-velho/decretos/2026/decreto-22528-2026-86e54ad7.md",
+      "sha256": "7a9a0f14e961d3422d12ec8fd95c073359f81e538468cb99d79ca537c480750a",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "PORTO VELHO",
+        "titulo": "DECRETO N.° 22.528, DE 09 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "32f706051fe6d7a3473fe95e56c4a4a3c45a610738d04c1c6b095ec937a968ba"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "39D11046",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/campo-novo-de-rondonia/decretos/2026/decreto-205-2026-39d11046.md",
+      "destino": "municipais/RO/campo-novo-de-rondonia/decretos/2026/decreto-205-2026-39d11046.md",
+      "sha256": "ab2c521962831dcd36e605e9114870c9e97ea97e8b3d1b9ec3ca9ddf294621b2",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "CAMPO NOVO DE RONDÔNIA",
+        "titulo": "DECRETO Nº 205, DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "9bb6224e518acb9d417b6091661b4b10ac13fcd4c5f1986a9ca1d400d796b941"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "64C80FBD",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2372-2026-64c80fbd.md",
+      "destino": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2372-2026-64c80fbd.md",
+      "sha256": "92fffcf04a4f415335a4a8797b2802c56de91ee74bb151ca57b2031e931bdf1d",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "BURITIS",
+        "titulo": "LEI Nº 2372/2026",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "e48bf3de110e6f6be2529e8f64989749606e9042856861c3d2ca65f664082414"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "EC2AB742",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2373-2026-ec2ab742.md",
+      "destino": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2373-2026-ec2ab742.md",
+      "sha256": "b330bb7f63b4e8c5ae3fd7d2a9dfdb000b3a67e5b1f495b241f47c089c670983",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "BURITIS",
+        "titulo": "LEI Nº 2373/2026",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "ee861296f8dfa5f70f54e2c91a86a74484eca87230888463f4979e60ee0fd723"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "26788113",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2368-2026-26788113.md",
+      "destino": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2368-2026-26788113.md",
+      "sha256": "e19955d9032615a30d06679c6a661c93798ec50f0b7e004cbcf496f226c03598",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "BURITIS",
+        "titulo": "LEI Nº 2368/2026",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "07027fc803952bab3617371007cea953fa8fc2d3289aca273ab3f5a50d62f268"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "0943E9A7",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2369-2026-0943e9a7.md",
+      "destino": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2369-2026-0943e9a7.md",
+      "sha256": "abb564079e89b67dacf5f0c5f80cf995e2eda430d54e484212a293465854ab3c",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "BURITIS",
+        "titulo": "LEI Nº 2369/2026",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "b91498bafdf2c208300d69d845a93435617d58b4e1d64075f40e922bf84a105e"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "B31C8377",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2371-2026-b31c8377.md",
+      "destino": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2371-2026-b31c8377.md",
+      "sha256": "586933cc6bab3a483733e0e0350619ada7fc953c6c3c2c8ce374478fef62ee9e",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "BURITIS",
+        "titulo": "LEI Nº 2371/2026",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "c5c5702979ca796da23f26c00df19c0f30c3844a580942a750b9f657ea0cdfa7"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "A70AA45A",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2370-2026-a70aa45a.md",
+      "destino": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2370-2026-a70aa45a.md",
+      "sha256": "ea8b822a49bc06dd300099454850e3b7787d8f075954069857132b0f5a969a91",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "BURITIS",
+        "titulo": "LEI Nº 2370/2026",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "3f457637e3250014132d419b26e9b9cab4d5e282df5d6d19562871ca33c22e98"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "999DF141",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/teixeiropolis/decretos/2026/decreto-246-2026-999df141.md",
+      "destino": "municipais/RO/teixeiropolis/decretos/2026/decreto-246-2026-999df141.md",
+      "sha256": "b1c0592c98b1fde70a112492b97cdb9fda98bbfce06785817d4eb7c0dfb523b0",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "TEIXEIRÓPOLIS",
+        "titulo": "DECRETO N° 246/GAB/2026, DE 14 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "20ad851b2371db70a8b24586b9506746ee0a29957bdbc65e9e6513996db866e1"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "6024073C",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/teixeiropolis/decretos/2026/decreto-247-2026-6024073c.md",
+      "destino": "municipais/RO/teixeiropolis/decretos/2026/decreto-247-2026-6024073c.md",
+      "sha256": "e8e9339f82ce141183ace4d239116f18da95232b448c0f7e36f2793024b1944d",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "TEIXEIRÓPOLIS",
+        "titulo": "DECRETO Nº 247/GAB/2026 , DE 14 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "35a12736e60b177ab03894db63b2b14670414d886fb99df67f47df7856ff0750"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "8B85DC05",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/teixeiropolis/decretos/2026/decreto-248-2026-8b85dc05.md",
+      "destino": "municipais/RO/teixeiropolis/decretos/2026/decreto-248-2026-8b85dc05.md",
+      "sha256": "28ad3030ffed7486a0a0a8510aa849738cd9f080923191f4f4ceee41ed670a01",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "TEIXEIRÓPOLIS",
+        "titulo": "DECRETO N.º248/GAB/2026, DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "ac344d7cbb1d0190a9efcb5e8c40fcac6c2be027e0f0c19f663bcc3de8ef98bb"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "9AE60706",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/candeias-do-jamari/decretos/2026/decreto-10690-2026-9ae60706.md",
+      "destino": "municipais/RO/candeias-do-jamari/decretos/2026/decreto-10690-2026-9ae60706.md",
+      "sha256": "6d77ffc0a43a9cc0a4616131d96a3377370ff0b425fc01480f638edc0f1c014a",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "CANDEIAS DO JAMARI",
+        "titulo": "DECRETO N° 10690, 14 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "7a43bb9f8004a5342031d6bf99aab4b2d44b62a55a82995da81851e14f67b1cf"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "CEA5D2C9",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/candeias-do-jamari/decretos/2026/decreto-10692-2026-cea5d2c9.md",
+      "destino": "municipais/RO/candeias-do-jamari/decretos/2026/decreto-10692-2026-cea5d2c9.md",
+      "sha256": "7f376537664760c4522ab92e7d0a587cb4b4d39cc196f32ef5c1b4698235e445",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "CANDEIAS DO JAMARI",
+        "titulo": "DECRETO Nº 10692, 14 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "2c7afcc231121c67e4df2721bb9252973658d996bef6b6a8f4f3dd95c2cc4849"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "A9E154AE",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/candeias-do-jamari/decretos/2026/decreto-10691-2026-a9e154ae.md",
+      "destino": "municipais/RO/candeias-do-jamari/decretos/2026/decreto-10691-2026-a9e154ae.md",
+      "sha256": "60e8f4bc528298789f40deb274b1768015a7acbb7d6d6394cc249ee991e5a7ed",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "CANDEIAS DO JAMARI",
+        "titulo": "DECRETO Nº 10691, 14 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "a2f40c2cebf2d2e15cd59809aa232924371b13250f31e8a41fe97732ff5094e5"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "A3FB2995",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1818-2026-a3fb2995.md",
+      "destino": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1818-2026-a3fb2995.md",
+      "sha256": "ce47d770461115a6f30f04653c5e9bcc2e1bd9a8cedd3d73fe21e8ff02bb0358",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "SÃO FELIPE D'OESTE",
+        "titulo": "LEI Nº. 1818 DE 22 DE SETEMBRO DE 2026.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "0fa8d25fba4956e37fe980afe578aa47e70d7b303e7a3afe2134a3b0fba66fab"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "C451DC2E",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1834-2026-c451dc2e.md",
+      "destino": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1834-2026-c451dc2e.md",
+      "sha256": "4b2eac635e8d1af30a112296d3e59717073a1cd6c78e444b709a6cbe3d7a1a7b",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "SÃO FELIPE D'OESTE",
+        "titulo": "LEI Nº. 1834 DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "1100325372698a3c0c0884cebb399c8d0978dc2d9dbaf84aed2dec534a8a0e0e"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "AD09E5B0",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1830-2026-ad09e5b0.md",
+      "destino": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1830-2026-ad09e5b0.md",
+      "sha256": "46804a7fd96a4373c972f9659efca688ffee1370f75bb3ebe69d5e486bbd0732",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "SÃO FELIPE D'OESTE",
+        "titulo": "LEI Nº. 1830 DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "ba27d077c89db50bf522f7d7de58b7be9c542fa82fd2091a93c5374dd99b9080"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "968F981E",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1833-2026-968f981e.md",
+      "destino": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1833-2026-968f981e.md",
+      "sha256": "d48018cf35cd449aaa5575097197990d39d3463c3988df509721daf25dc7cfa6",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "SÃO FELIPE D'OESTE",
+        "titulo": "LEI Nº. 1833 DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "c811c107a6b795a902bca0c1bae21381119538ed08c58963f4f84a3a09e4a718"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "2A5C00A1",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1835-2026-2a5c00a1.md",
+      "destino": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1835-2026-2a5c00a1.md",
+      "sha256": "dbe1302bbe82a22460c9e60981257497524ecec3db952b59f65c1a9edf1f2a5d",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "SÃO FELIPE D'OESTE",
+        "titulo": "LEI Nº. 1835 DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "5237d8192268ea2db0beec77d63706989de6a5f4afd7562aa15a8949e8f8eb9b"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "523793D9",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1831-2026-523793d9.md",
+      "destino": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1831-2026-523793d9.md",
+      "sha256": "dff190e70973024e1a0b5d4f56c2ffe6c3ec050425039bdda57ea10587848682",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "SÃO FELIPE D'OESTE",
+        "titulo": "LEI Nº. 1831 DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "ff17dd0c840913d1aeb2d793611882ecad347f06c1c5ae2be950917f36e9db26"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "5F44F324",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1832-2026-5f44f324.md",
+      "destino": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1832-2026-5f44f324.md",
+      "sha256": "a4f1c32fadc8bff385f94e17b37dc8483c4f689ed39d3472aa079aeaff039b9b",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "SÃO FELIPE D'OESTE",
+        "titulo": "LEI Nº. 1832 DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "d42d149789e12ae8db06ea4febab4e9945ac63d39f2620dbfdc9251e2f4808d2"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "E7280545",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/itapua-do-oeste/leis-ordinarias/2026/lei-ordinaria-1251-2026-e7280545.md",
+      "destino": "municipais/RO/itapua-do-oeste/leis-ordinarias/2026/lei-ordinaria-1251-2026-e7280545.md",
+      "sha256": "6e32049316d257845bb45b07f0c6455624999c184f89c33178867b5ead39f493",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "ITAPUÃ DO OESTE",
+        "titulo": "LEI MUNICIPAL Nº 1.251/2026 C/C O DECRETO Nº 3.355/2026",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "a5ecf0f1cfc6196a4469b4e93ee8b0a73fd5337595e422a3733e094a14c23bb9"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "68BAA13F",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12165-2026-68baa13f.md",
+      "destino": "municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12165-2026-68baa13f.md",
+      "sha256": "573a9c2bff1372823931faebe0790e66d8b77d865a1e6e13bcfae327dc398dc5",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GOVERNADOR JORGE TEIXEIRA",
+        "titulo": "DECRETO MUNICIPAL Nº. 12165/GAB/2026 DE 14 DE",
+        "tipo": "decreto",
+        "sha256_bloco": "e5eec44fe80fd1f6c0a7d9b0cf09971c560a9736616ab3a0a66286a12edd2b40"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "071373EE",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12164-2026-071373ee.md",
+      "destino": "municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12164-2026-071373ee.md",
+      "sha256": "942f835e6acbe322f636322da77f0b1919ab8d6876484ef836b8473cae9e2e96",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GOVERNADOR JORGE TEIXEIRA",
+        "titulo": "DECRETO MUNICIPAL Nº. 12164/GAB/2026 DE 14 DE",
+        "tipo": "decreto",
+        "sha256_bloco": "e0af9db8e1d0c3fd55d24bb21ed34beb2986850a15939d28a6bc07a287d43abe"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "4D4D9BB9",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/governador-jorge-teixeira/leis-ordinarias/2026/lei-ordinaria-1984-2026-4d4d9bb9.md",
+      "destino": "municipais/RO/governador-jorge-teixeira/leis-ordinarias/2026/lei-ordinaria-1984-2026-4d4d9bb9.md",
+      "sha256": "17a0a2efda37d4279f1512099cbb90fffdc1630dcffdaf12ad134095daeb82ff",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GOVERNADOR JORGE TEIXEIRA",
+        "titulo": "LEI Nº 1.984/2026 DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "833055e66a0b9a000f1c06a9dd7bea64039292f89245b386a34dbab07ab7dc30"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "5BB042F6",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/chupinguaia/decretos/2026/decreto-1720-2026-5bb042f6.md",
+      "destino": "municipais/RO/chupinguaia/decretos/2026/decreto-1720-2026-5bb042f6.md",
+      "sha256": "f77a9f3c150552e5ad705223df088ac5545c7826eaeb73a249c83fb948a85bc5",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "CHUPINGUAIA",
+        "titulo": "DECRETO Nº 1.720, DE 09 DE OUTUBRO DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "c8d6e3e05d793aab965bbdc792402514dfe956f04040f2032aca8d0ee25b22fe"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "8B27650C",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/chupinguaia/decretos/2026/decreto-1718-2026-8b27650c.md",
+      "destino": "municipais/RO/chupinguaia/decretos/2026/decreto-1718-2026-8b27650c.md",
+      "sha256": "338c949c06bdbbe955178bfbf76793d62637a76d8b5054adfd0520f4bd05a3ae",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "CHUPINGUAIA",
+        "titulo": "DECRETO Nº 1.718, DE 09 DE OUTUBRO DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "088ace122db49c0e0783d231336571e8684b513bdbcca70e3f522dc29662568a"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "E8F2EFCE",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/chupinguaia/decretos/2026/decreto-1719-2026-e8f2efce.md",
+      "destino": "municipais/RO/chupinguaia/decretos/2026/decreto-1719-2026-e8f2efce.md",
+      "sha256": "b8941a94354427f7b4fc4d490a2bbbfbcd66fdf8344b9219bf1e335858e23f87",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "CHUPINGUAIA",
+        "titulo": "DECRETO Nº 1.719, DE 09 DE OUTUBRO DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "a4a00820c02cc9f036568d5183f2af98883b3810c5b1772e3376c81dfd4bdc03"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "01975471",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/chupinguaia/decretos/2026/decreto-1721-2026-01975471.md",
+      "destino": "municipais/RO/chupinguaia/decretos/2026/decreto-1721-2026-01975471.md",
+      "sha256": "343ebef12eb16ca8b3a8b7f5efcfceb87fd32bf11b312d248630896381b5a15e",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "CHUPINGUAIA",
+        "titulo": "DECRETO Nº 1.721, DE 09 DE OUTUBRO DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "8cc1d3024900375fe5748a8fea26a4ac09fc9eab53cf8801fa3930c5bf882bed"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "20C1B834",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/rio-crespo/decretos/2026/decreto-2785-2026-20c1b834.md",
+      "destino": "municipais/RO/rio-crespo/decretos/2026/decreto-2785-2026-20c1b834.md",
+      "sha256": "fad1ed7e34c1b5d5d7762320ffba054f8c13b9ce33b755adc2f1129ff773d1f4",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "RIO CRESPO",
+        "titulo": "DECRETO Nº2785/2026-GAB/PMRC. DE 14 DE OUTUBRO DE",
+        "tipo": "decreto",
+        "sha256_bloco": "d7be61ba55b700bd7093373eac13e2476abfbd265a7c3b7bede587fe7079a4be"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "D60FB958",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/rio-crespo/decretos/2026/decreto-2784-2026-d60fb958.md",
+      "destino": "municipais/RO/rio-crespo/decretos/2026/decreto-2784-2026-d60fb958.md",
+      "sha256": "53820936629e9e96358b22178e0fb16280e25f8d97e61343273d028f245a2579",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "RIO CRESPO",
+        "titulo": "DECRETO Nº 2784/2026. DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "230dc41fbc8b07f53fb72792dc64783761f079fbe60d370c5b0b26daa9e59ea4"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "225EDA8C",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/alto-alegre-dos-parecis/decretos/2026/decreto-452-2026-225eda8c.md",
+      "destino": "municipais/RO/alto-alegre-dos-parecis/decretos/2026/decreto-452-2026-225eda8c.md",
+      "sha256": "1e6f2034b02be92083dbf89421b4c40ac5b2040d07e078a4c0155cda94caaad8",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "ALTO ALEGRE DOS PARECIS",
+        "titulo": "DECRETO NOMEAÇÃO SELETIVO Nº 452/2026",
+        "tipo": "decreto",
+        "sha256_bloco": "0c2a8d80067c69b4d22b6063055b25c51e2ad4eb108578f34fb2a404e69de9b7"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "7D4469D9",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5235-2026-7d4469d9.md",
+      "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5235-2026-7d4469d9.md",
+      "sha256": "805daf40fa53c77a0abe5d19b106914dc2245ed1d7644baff7df52f5b91162fc",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "MACHADINHO D'OESTE",
+        "titulo": "DECRETO MUNICIPAL Nº 5235",
+        "tipo": "decreto",
+        "sha256_bloco": "421f51945839755eaddcd84ec0f6bfe180c83435b14e9b1a7b483bbd8d7c5370"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "AF47234A",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5234-2026-af47234a.md",
+      "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5234-2026-af47234a.md",
+      "sha256": "05d14f047ef578dffa0c981debc42fcd721af2ab859c71c5d71f12e3263f75b0",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "MACHADINHO D'OESTE",
+        "titulo": "DECRETO MUNICIPAL Nº 5234",
+        "tipo": "decreto",
+        "sha256_bloco": "77a3447fc17ce1ce3d1a5a28384cb1f94f5eca2c66a3904f419a18f78d693647"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "6534A6DB",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5237-2026-6534a6db.md",
+      "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5237-2026-6534a6db.md",
+      "sha256": "759bdec5dd3b4d7887317dfebf5508c611db4fc970b46fac40e90436409bcec2",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "MACHADINHO D'OESTE",
+        "titulo": "DECRETO MUNICIPAL Nº 5237",
+        "tipo": "decreto",
+        "sha256_bloco": "e1ebd07c890c6688ca44bd2ad102e5402046564513ea0bc9ebcb2595f3d60c16"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "0187444C",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5238-2026-0187444c.md",
+      "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5238-2026-0187444c.md",
+      "sha256": "23e2debde10aa44b61f8eaadde1e45efa8727205d80877c4a583df19090bb8e0",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "MACHADINHO D'OESTE",
+        "titulo": "DECRETO  MUNICIPAL  Nº  5238,  DE  14  DE  OUTUBRO  DE",
+        "tipo": "decreto",
+        "sha256_bloco": "9967ab99a0f8f503818d2d0473b6ac5106e8c1d5630098f8e6de1b549376b237"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "4C2F22B2",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5236-2026-4c2f22b2.md",
+      "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5236-2026-4c2f22b2.md",
+      "sha256": "43db728a15ab01844cf3cb6b1620cf0c3d5cb052ace8506e5d0941851907f454",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "MACHADINHO D'OESTE",
+        "titulo": "DECRETO MUNICIPAL Nº 5236",
+        "tipo": "decreto",
+        "sha256_bloco": "f53ea41537c1b3b5e5cb516e1e079c2f988656fec2a4577ed51316a955fc2852"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "E3AB79D4",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5237-2026-e3ab79d4.md",
+      "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5237-2026-e3ab79d4.md",
+      "sha256": "d512d8228366be471e6da145a323fbe4a2597be6d707b649983aa391cf658d99",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "MACHADINHO D'OESTE",
+        "titulo": "DECRETO  MUNICIPAL  Nº  5237,  DE  14  DE  OUTUBRO  DE",
+        "tipo": "decreto",
+        "sha256_bloco": "9674aacf1381365c5390daf645fda91b97e07904b9fce710bc913bc7cfc7a184"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "9B064060",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5236-2026-9b064060.md",
+      "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5236-2026-9b064060.md",
+      "sha256": "bf02294c2066dfcbd31bcdf092990019470b621262bda8b70bd146c2c85131b7",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "MACHADINHO D'OESTE",
+        "titulo": "DECRETO  MUNICIPAL  Nº  5236,  DE  14  DE  OUTUBRO  DE",
+        "tipo": "decreto",
+        "sha256_bloco": "baaf44b205935f97b59e0e7dbf0ba24eba45aa24f6e989d7559f4265315a8baa"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "3DAF1D47",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5238-2026-3daf1d47.md",
+      "destino": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5238-2026-3daf1d47.md",
+      "sha256": "dd88b2ce3c50919e9f3d8708edb2ad8ffa7bed4e3351e75b8b548c880e88b88d",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "MACHADINHO D'OESTE",
+        "titulo": "DECRETO MUNICIPAL Nº 5238",
+        "tipo": "decreto",
+        "sha256_bloco": "3b3d780c5a9683bfeda0323d0fd4a3ec6b4c8df1211c5bc19ef703deff2b43b1"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "1A9DEF96",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/guajara-mirim/decretos/2026/decreto-18255-2026-1a9def96.md",
+      "destino": "municipais/RO/guajara-mirim/decretos/2026/decreto-18255-2026-1a9def96.md",
+      "sha256": "e5f7b02f09f40d68f0dcd9ec0ab40da35b851f3debfb4633c71a0cb10b28449f",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GUAJARÁ-MIRIM",
+        "titulo": "DECRETO Nº 18.255/GAB.PREF/2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "9218b8b79546d7397bb9455cbcc5ada17da659aa1e1a5d9e63195b1349457195"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "A8401C4C",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/guajara-mirim/decretos/2026/decreto-18268-2026-a8401c4c.md",
+      "destino": "municipais/RO/guajara-mirim/decretos/2026/decreto-18268-2026-a8401c4c.md",
+      "sha256": "29ed8435b6d2f6b54e48e4e752700b675c603e153efddf30fe576459dd9f23fc",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GUAJARÁ-MIRIM",
+        "titulo": "DECRETO Nº 18.268GAB.PREF/2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "8c7ba975490c66b4c0f7402fad5824c6e08469783df0208aee94036479f77fd8"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "080B3668",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/guajara-mirim/decretos/2026/decreto-18258-2026-080b3668.md",
+      "destino": "municipais/RO/guajara-mirim/decretos/2026/decreto-18258-2026-080b3668.md",
+      "sha256": "f4d7ee4721b83392933b90bca60f1e65ac07587fb7ea64cc2346b99884329e55",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GUAJARÁ-MIRIM",
+        "titulo": "DECRETO N. º 18.258/GAB-PREF/2026 GUAJARÁ-MIRIM",
+        "tipo": "decreto",
+        "sha256_bloco": "66be8fd7148f5e41878245dcff6b363a84a65525219f93429718647e058e9e43"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "1E48A02E",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/guajara-mirim/decretos/2026/decreto-18264-2026-1e48a02e.md",
+      "destino": "municipais/RO/guajara-mirim/decretos/2026/decreto-18264-2026-1e48a02e.md",
+      "sha256": "da07f6e67436e9bb5d450e576f6e3cac23b9489f083eddcc8e60914372681d3d",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GUAJARÁ-MIRIM",
+        "titulo": "DECRETO N. º 18.264/GAB-PREF/2026 GUAJARÁ-MIRIM",
+        "tipo": "decreto",
+        "sha256_bloco": "bcb8ca9a2a0ddb1a49f96ac938dca8a41f987a7a492c7457a596c0edb57dfbcb"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "2A1560BC",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/guajara-mirim/decretos/2026/decreto-18265-2026-2a1560bc.md",
+      "destino": "municipais/RO/guajara-mirim/decretos/2026/decreto-18265-2026-2a1560bc.md",
+      "sha256": "e704ba1266b5e8791ee6eabbdbcc6a04cd9236635cfb2d79f6d8f1458ca688d7",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GUAJARÁ-MIRIM",
+        "titulo": "DECRETO N. º 18.265/GAB-PREF/2026 GUAJARÁ-MIRIM",
+        "tipo": "decreto",
+        "sha256_bloco": "1cb1425ac54abc0b61f5ad71feba748993d41aecf9dcd306c9fb08839d32abb1"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "9C5ED601",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/guajara-mirim/decretos/2026/decreto-18263-2026-9c5ed601.md",
+      "destino": "municipais/RO/guajara-mirim/decretos/2026/decreto-18263-2026-9c5ed601.md",
+      "sha256": "ebb2af7c746305690dda17219b02527c1f536ea585b8ba0bb14e9354048c9ecf",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GUAJARÁ-MIRIM",
+        "titulo": "DECRETO N. º 18.263/GAB-PREF/2026 GUAJARÁ-MIRIM",
+        "tipo": "decreto",
+        "sha256_bloco": "1095edf8c8068560e0c94e4cea32dddd450a41a3d3a9db4f42ce39916e19febb"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "73BBBB74",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/guajara-mirim/decretos/2026/decreto-18261-2026-73bbbb74.md",
+      "destino": "municipais/RO/guajara-mirim/decretos/2026/decreto-18261-2026-73bbbb74.md",
+      "sha256": "c02b987be3028c074ca21586d0b9883d252a36a466b516bc17fb18ebe0e5107b",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GUAJARÁ-MIRIM",
+        "titulo": "DECRETO Nº 18.261/GAB.PREF/2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "55c13f51058cbc0d6580cebd92514ed82cc44d7c6c1d87ab86bbf58f79af8d05"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "57A5D949",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/guajara-mirim/decretos/2026/decreto-18270-2026-57a5d949.md",
+      "destino": "municipais/RO/guajara-mirim/decretos/2026/decreto-18270-2026-57a5d949.md",
+      "sha256": "eb6f2bcfdde8bcca57ff1bacbc73895a121d2deb69a144e246cca36c24eade5b",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GUAJARÁ-MIRIM",
+        "titulo": "DECRETO N. º 18.270/GAB-PREF/2026 GUAJARÁ-MIRIM",
+        "tipo": "decreto",
+        "sha256_bloco": "aa6ea74a4c4325dfd855928c208d988794516d561acfe222d19eec3a3ae2a7c9"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "7CECCF0A",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/monte-negro/decretos/2026/decreto-4826-2026-7ceccf0a.md",
+      "destino": "municipais/RO/monte-negro/decretos/2026/decreto-4826-2026-7ceccf0a.md",
+      "sha256": "9e86eb836a2e075884124d055983988b2a4242a50b746cc3fcbda8fd9b69df59",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "MONTE NEGRO",
+        "titulo": "DECRETO Nº 4826, DE 14 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "08e2b9414dc86fb4d0065f02dfedfbdf886e503e2d001ab0f4b7584c84814781"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "D5D4863D",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/alvorada-d-oeste/decretos/2026/decreto-258-2026-d5d4863d.md",
+      "destino": "municipais/RO/alvorada-d-oeste/decretos/2026/decreto-258-2026-d5d4863d.md",
+      "sha256": "98df376975ff3ba505888e93dd024082a4e4ec0db4a68c5b23e5f959ea129ff9",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "ALVORADA D'OESTE",
+        "titulo": "DECRETO Nº 258/2026",
+        "tipo": "decreto",
+        "sha256_bloco": "1966fcdd99426f7b9f542214ab8152daf81dd1c6f15540dc2426ebf1d58b7b27"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "BB0C970E",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/parecis/decretos/2026/decreto-1222-2026-bb0c970e.md",
+      "destino": "municipais/RO/parecis/decretos/2026/decreto-1222-2026-bb0c970e.md",
+      "sha256": "84a0da501608d90a51298d85f17cbe2337ff630b43535677e4c0e4ff7681188f",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "PARECIS",
+        "titulo": "DECRETO Nº 1.222, DE 14 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "ef7a0cd97647ec440ec026679e8d04eb12bf6c4f6f66a1a7750899254f32557e"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "6D75652D",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/parecis/decretos/2026/decreto-1221-2026-6d75652d.md",
+      "destino": "municipais/RO/parecis/decretos/2026/decreto-1221-2026-6d75652d.md",
+      "sha256": "40f1381a5788a7f592779e5d33af0d561d507a97f3dafbc7a9dafac28f691263",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "PARECIS",
+        "titulo": "DECRETO Nº 1.221, DE 13 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "751fdb5b4953bc14697f4c6a2c03adca4ce905ac9760a3d631c33c98b5e8d96a"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "86A69394",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/municipais/RO/mirante-da-serra/decretos/2026/decreto-4023-2026-86a69394.md",
+      "destino": "municipais/RO/mirante-da-serra/decretos/2026/decreto-4023-2026-86a69394.md",
+      "sha256": "4523ffa7dccef7a2cff098a9f9c019dd268462f5ce0815a04598cbb655ce9207",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "MIRANTE DA SERRA",
+        "titulo": "DECRETO Nº 4023/2026",
+        "tipo": "decreto",
+        "sha256_bloco": "d27b94a3e2a029922d30f88d924991b3d12ecd8c29e20320ed668b514da24c34"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/mirante-da-serra/decretos/2026/decreto-4023-2026-a167851d.md",
+      "codigo": "A167851D",
+      "motivo": "código fecha ato não normativo na reconstrução",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "MACHADINHO D'OESTE",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "30e4fffc5675683f46f06f8a14067239441ee1da1a7ed404b5f8c40da04a176e"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1834-2026-5f44f324.md",
+      "codigo": "5F44F324",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "SÃO FELIPE D'OESTE",
+        "titulo": "LEI Nº. 1832 DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "d42d149789e12ae8db06ea4febab4e9945ac63d39f2620dbfdc9251e2f4808d2"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1835-2026-bd960e49.md",
+      "codigo": "BD960E49",
+      "motivo": "código fecha ato não normativo na reconstrução",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "SÃO FELIPE D'OESTE",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "a6989f4226364549b627c264fe8dd398732e40bceb46dac6658388c8c976af45"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1832-2026-968f981e.md",
+      "codigo": "968F981E",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "SÃO FELIPE D'OESTE",
+        "titulo": "LEI Nº. 1833 DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "c811c107a6b795a902bca0c1bae21381119538ed08c58963f4f84a3a09e4a718"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1833-2026-2a5c00a1.md",
+      "codigo": "2A5C00A1",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "SÃO FELIPE D'OESTE",
+        "titulo": "LEI Nº. 1835 DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "5237d8192268ea2db0beec77d63706989de6a5f4afd7562aa15a8949e8f8eb9b"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/alta-floresta-d-oeste/decretos/2026/decreto-452-2026-225eda8c.md",
+      "codigo": "225EDA8C",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "ALTO ALEGRE DOS PARECIS",
+        "titulo": "DECRETO NOMEAÇÃO SELETIVO Nº 452/2026",
+        "tipo": "decreto",
+        "sha256_bloco": "0c2a8d80067c69b4d22b6063055b25c51e2ad4eb108578f34fb2a404e69de9b7"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/cerejeiras/decretos/2026/decreto-1719-2026-5bb042f6.md",
+      "codigo": "5BB042F6",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "CHUPINGUAIA",
+        "titulo": "DECRETO Nº 1.720, DE 09 DE OUTUBRO DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "c8d6e3e05d793aab965bbdc792402514dfe956f04040f2032aca8d0ee25b22fe"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/cerejeiras/decretos/2026/decreto-1720-2026-01975471.md",
+      "codigo": "01975471",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "CHUPINGUAIA",
+        "titulo": "DECRETO Nº 1.721, DE 09 DE OUTUBRO DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "8cc1d3024900375fe5748a8fea26a4ac09fc9eab53cf8801fa3930c5bf882bed"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/cerejeiras/decretos/2026/decreto-1721-2026-e8f2efce.md",
+      "codigo": "E8F2EFCE",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "CHUPINGUAIA",
+        "titulo": "DECRETO Nº 1.719, DE 09 DE OUTUBRO DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "a4a00820c02cc9f036568d5183f2af98883b3810c5b1772e3376c81dfd4bdc03"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/candeias-do-jamari/decretos/2026/decreto-10691-2026-d588805b.md",
+      "codigo": "D588805B",
+      "motivo": "código fecha ato não normativo na reconstrução",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "CANDEIAS DO JAMARI",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "366e5450dbbf5d6de3be3089c627868a98dbd004a7e01e46eda6c1ca2526189a"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/teixeiropolis/decretos/2026/decreto-246-2026-017dfd4b.md",
+      "codigo": "017DFD4B",
+      "motivo": "código fecha ato não normativo na reconstrução",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "TEIXEIRÓPOLIS",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "fff4519bc680461f761440d1bd96830791a974d62c3345aceee411e7370564b7"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/novo-horizonte-do-oeste/decretos/2026/decreto-1221-2026-d58d7e3a.md",
+      "codigo": "D58D7E3A",
+      "motivo": "código fecha ato não normativo na reconstrução",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": null,
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "d475707265bed8605361ac4d48a2a1c3b90c14d0220b785fdf47e9368245ed39"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/cujubim/leis-ordinarias/2026/lei-ordinaria-1984-2026-071373ee.md",
+      "codigo": "071373EE",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GOVERNADOR JORGE TEIXEIRA",
+        "titulo": "DECRETO MUNICIPAL Nº. 12164/GAB/2026 DE 14 DE",
+        "tipo": "decreto",
+        "sha256_bloco": "e0af9db8e1d0c3fd55d24bb21ed34beb2986850a15939d28a6bc07a287d43abe"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/cujubim/decretos/2026/decreto-12164-2026-68baa13f.md",
+      "codigo": "68BAA13F",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GOVERNADOR JORGE TEIXEIRA",
+        "titulo": "DECRETO MUNICIPAL Nº. 12165/GAB/2026 DE 14 DE",
+        "tipo": "decreto",
+        "sha256_bloco": "e5eec44fe80fd1f6c0a7d9b0cf09971c560a9736616ab3a0a66286a12edd2b40"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/cujubim/decretos/2026/decreto-12165-2026-4d4d9bb9.md",
+      "codigo": "4D4D9BB9",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GOVERNADOR JORGE TEIXEIRA",
+        "titulo": "LEI Nº 1.984/2026 DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "833055e66a0b9a000f1c06a9dd7bea64039292f89245b386a34dbab07ab7dc30"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/buritis/leis-ordinarias/2025/lei-ordinaria-2274-2025-64c80fbd.md",
+      "codigo": "64C80FBD",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "BURITIS",
+        "titulo": "LEI Nº 2372/2026",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "e48bf3de110e6f6be2529e8f64989749606e9042856861c3d2ca65f664082414"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/theobroma/decretos/2026/decreto-248-2026-8b85dc05.md",
+      "codigo": "8B85DC05",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "TEIXEIRÓPOLIS",
+        "titulo": "DECRETO N.º248/GAB/2026, DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "ac344d7cbb1d0190a9efcb5e8c40fcac6c2be027e0f0c19f663bcc3de8ef98bb"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/theobroma/decretos/2026/decreto-247-2026-6024073c.md",
+      "codigo": "6024073C",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "TEIXEIRÓPOLIS",
+        "titulo": "DECRETO Nº 247/GAB/2026 , DE 14 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "35a12736e60b177ab03894db63b2b14670414d886fb99df67f47df7856ff0750"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/nova-mamore/decretos/2026/decreto-10031-2026-32a4338a.md",
+      "codigo": "32A4338A",
+      "motivo": "código fecha ato não normativo na reconstrução",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "NOVA MAMORÉ",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "72d80a38bc435459a9abd2de70a53c2400c227b2aae7a43c1dddb856a3c2a44c"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/itapua-do-oeste/leis-ordinarias/2026/lei-ordinaria-1251-2026-ac149b26.md",
+      "codigo": "AC149B26",
+      "motivo": "código fecha ato não normativo na reconstrução",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "ITAPUÃ DO OESTE",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "bfc9cf2d124abfbbd2f5c1d83b35e0959c8b2e07a7962c30c54ef3c07a796f68"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18265-2026-a8401c4c.md",
+      "codigo": "A8401C4C",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GUAJARÁ-MIRIM",
+        "titulo": "DECRETO Nº 18.268GAB.PREF/2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "8c7ba975490c66b4c0f7402fad5824c6e08469783df0208aee94036479f77fd8"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18261-2026-8c6b435c.md",
+      "codigo": "8C6B435C",
+      "motivo": "código fecha ato não normativo na reconstrução",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GUAJARÁ-MIRIM",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "c1a61c2603e3c4295073af989c3ba5197b81380b45382bf19ca3da68cf110860"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18258-2026-1e48a02e.md",
+      "codigo": "1E48A02E",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GUAJARÁ-MIRIM",
+        "titulo": "DECRETO N. º 18.264/GAB-PREF/2026 GUAJARÁ-MIRIM",
+        "tipo": "decreto",
+        "sha256_bloco": "bcb8ca9a2a0ddb1a49f96ac938dca8a41f987a7a492c7457a596c0edb57dfbcb"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18268-2026-8faedfc7.md",
+      "codigo": "8FAEDFC7",
+      "motivo": "código fecha ato não normativo na reconstrução",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GUAJARÁ-MIRIM",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "25b94f3807885a616bc643dd9b2540cfafcef7143d424742b1bcd291acec2663"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18255-2026-080b3668.md",
+      "codigo": "080B3668",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GUAJARÁ-MIRIM",
+        "titulo": "DECRETO N. º 18.258/GAB-PREF/2026 GUAJARÁ-MIRIM",
+        "tipo": "decreto",
+        "sha256_bloco": "66be8fd7148f5e41878245dcff6b363a84a65525219f93429718647e058e9e43"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/cacaulandia/decretos/2026/decreto-10692-2026-cea5d2c9.md",
+      "codigo": "CEA5D2C9",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "CANDEIAS DO JAMARI",
+        "titulo": "DECRETO Nº 10692, 14 DE OUTUBRO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "2c7afcc231121c67e4df2721bb9252973658d996bef6b6a8f4f3dd95c2cc4849"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/cacaulandia/decretos/2026/decreto-205-2026-c65a480b.md",
+      "codigo": "C65A480B",
+      "motivo": "código fecha ato não normativo na reconstrução",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "CAMPO NOVO DE RONDÔNIA",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "5b6ee0738bfd6f9fad9632dd06395eb5e454723d08e1b0cdd4e198ccfe10d71e"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/rio-crespo/decretos/2026/decreto-2784-2026-a8e5cf75.md",
+      "codigo": "A8E5CF75",
+      "motivo": "código fecha ato não normativo na reconstrução",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "PRIMAVERA DE RONDÔNIA",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "e643c1456b973cf13276941faaaf5eff0af9e9b25eafdefef101c85d2ac3cbbc"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-22522-2026-7d7e231b.md",
+      "codigo": "7D7E231B",
+      "motivo": "código fecha ato não normativo na reconstrução",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "PORTO VELHO",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "3e835b1f5a5e89bbc00a807abeeb85db565e98692489a00661035470c99865bb"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/chupinguaia/decretos/2026/decreto-1718-2026-c175f202.md",
+      "codigo": "C175F202",
+      "motivo": "código fecha ato não normativo na reconstrução",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "CEREJEIRAS",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "c17893c4e367b80519d73d1777a0efdfb4a8b508405c085c82d9247e395e4c3c"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5238-2026-4c2f22b2.md",
+      "codigo": "4C2F22B2",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "MACHADINHO D'OESTE",
+        "titulo": "DECRETO MUNICIPAL Nº 5236",
+        "tipo": "decreto",
+        "sha256_bloco": "f53ea41537c1b3b5e5cb516e1e079c2f988656fec2a4577ed51316a955fc2852"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5238-2026-7d4469d9.md",
+      "codigo": "7D4469D9",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "MACHADINHO D'OESTE",
+        "titulo": "DECRETO MUNICIPAL Nº 5235",
+        "tipo": "decreto",
+        "sha256_bloco": "421f51945839755eaddcd84ec0f6bfe180c83435b14e9b1a7b483bbd8d7c5370"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/governador-jorge-teixeira/leis-ordinarias/2026/lei-ordinaria-1984-2026-071373ee.md",
+      "codigo": "071373EE",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GOVERNADOR JORGE TEIXEIRA",
+        "titulo": "DECRETO MUNICIPAL Nº. 12164/GAB/2026 DE 14 DE",
+        "tipo": "decreto",
+        "sha256_bloco": "e0af9db8e1d0c3fd55d24bb21ed34beb2986850a15939d28a6bc07a287d43abe"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5237-2026-3daf1d47.md",
+      "codigo": "3DAF1D47",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "MACHADINHO D'OESTE",
+        "titulo": "DECRETO MUNICIPAL Nº 5238",
+        "tipo": "decreto",
+        "sha256_bloco": "3b3d780c5a9683bfeda0323d0fd4a3ec6b4c8df1211c5bc19ef703deff2b43b1"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5237-2026-0187444c.md",
+      "codigo": "0187444C",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "MACHADINHO D'OESTE",
+        "titulo": "DECRETO  MUNICIPAL  Nº  5238,  DE  14  DE  OUTUBRO  DE",
+        "tipo": "decreto",
+        "sha256_bloco": "9967ab99a0f8f503818d2d0473b6ac5106e8c1d5630098f8e6de1b549376b237"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5235-2026-e3ab79d4.md",
+      "codigo": "E3AB79D4",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "MACHADINHO D'OESTE",
+        "titulo": "DECRETO  MUNICIPAL  Nº  5237,  DE  14  DE  OUTUBRO  DE",
+        "tipo": "decreto",
+        "sha256_bloco": "9674aacf1381365c5390daf645fda91b97e07904b9fce710bc913bc7cfc7a184"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5236-2026-6534a6db.md",
+      "codigo": "6534A6DB",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "MACHADINHO D'OESTE",
+        "titulo": "DECRETO MUNICIPAL Nº 5237",
+        "tipo": "decreto",
+        "sha256_bloco": "e1ebd07c890c6688ca44bd2ad102e5402046564513ea0bc9ebcb2595f3d60c16"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12164-2026-68baa13f.md",
+      "codigo": "68BAA13F",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GOVERNADOR JORGE TEIXEIRA",
+        "titulo": "DECRETO MUNICIPAL Nº. 12165/GAB/2026 DE 14 DE",
+        "tipo": "decreto",
+        "sha256_bloco": "e5eec44fe80fd1f6c0a7d9b0cf09971c560a9736616ab3a0a66286a12edd2b40"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12165-2026-4d4d9bb9.md",
+      "codigo": "4D4D9BB9",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "RO",
+        "municipio": "GOVERNADOR JORGE TEIXEIRA",
+        "titulo": "LEI Nº 1.984/2026 DE 14 DE OUTUBRO DE 2026.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "833055e66a0b9a000f1c06a9dd7bea64039292f89245b386a34dbab07ab7dc30"
+      }
+    }
+  ],
+  "falhas": [],
+  "preparado_em": "2026-10-16T00:35:08.808127",
+  "revisao_independente": {
+    "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v1/21d7641d97d343dcb7ec604b4f91bd21/revisao-independente.json",
+    "sha256": "c8d68645bc02a459f4721693f4704b715bdae885d54c65a6e566a2de44c05af4"
+  },
+  "backup": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58",
+  "aplicado_em": "2026-10-16T00:35:09.287087"
+}

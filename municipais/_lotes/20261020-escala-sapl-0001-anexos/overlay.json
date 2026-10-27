@@ -1,0 +1,1098 @@
+{
+  "criterio": "Consulta a relação oficial completa de anexos SAPL e sinaliza conteúdo omitido.\n\nCache imutável por URL, serialização por host com as travas dos coletores,1rps.\nNenhum erro/bloqueio significa ausência de anexo. Não altera documentos/lotes.\n",
+  "listas_substituidas_para_publicacao": [
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0001-integral/aprovados.paths.txt",
+      "sha256": "27cb410da3cf93a50159448888a61ce7df5f22b28b9ffa8c79bfbf3c984130e8"
+    }
+  ],
+  "aprovados": [
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6888-2026-sapl-9878.md",
+      "sha256": "cda9307abd22d9eff8450c5fe4bb2edf5846c4aee2df4ff0c6b551c18ce867b7",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9878",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9878",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6889-2026-sapl-9879.md",
+      "sha256": "c3b0611e2ce2267807d2206589a4cce90b9b2e81c4509e0c875c84ccaa8bf601",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9879",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9879",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6890-2026-sapl-9880.md",
+      "sha256": "698528785561ba08d0fc0a95bafb7517ba90ce1ce7381b0604f0c15ba37bb56c",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9880",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9880",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6891-2026-sapl-9881.md",
+      "sha256": "3e34257dffdf854a506651c68e6a22a464d02c5759b31e9209ede438be450850",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9881",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9881",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6893-2026-sapl-9883.md",
+      "sha256": "56b4d055b5bfec4f34b08d1b648f29f76a000476e366a4d282d78296a56d4b61",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9883",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9883",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6896-2026-sapl-9886.md",
+      "sha256": "2d33b9f9c69266a4bc23f9cb51a911db1c8245d7331fc8f62a3a6b428a8c9580",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9886",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9886",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6897-2026-sapl-9887.md",
+      "sha256": "fcc94d67a30b05ffe32bae23ae01bd703a2e6d13d865413179724c35928e41f4",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9887",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9887",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6898-2026-sapl-9888.md",
+      "sha256": "611584f9d5a6783c9657dad0b3561658b4e18d303836c77848509f79d290b330",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9888",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9888",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6899-2026-sapl-9889.md",
+      "sha256": "e629c4777d4fbeb57b28201bd3583bce1317758df811ba42b3eed48f5b9c1584",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9889",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9889",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6900-2026-sapl-9890.md",
+      "sha256": "4a5c2ee46e0c3e93f4eba404f3eac2aa2a3933bd0794ce304209a4dde2da7aba",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9890",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9890",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6901-2026-sapl-9891.md",
+      "sha256": "276166c142b70786590b2d75cf9042e91127709049f88a4a8e19370aa735e4a7",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9891",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9891",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6902-2026-sapl-9892.md",
+      "sha256": "b7a69f42788734db3e69f37fae39684b499ff941558f3cc34160d925be9f704f",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9892",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9892",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6903-2026-sapl-9893.md",
+      "sha256": "6e635e750ce5f6f877f8debedace3fb2f9f04e7e4e7014b9050c1eb2c1553ce3",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9893",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9893",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6904-2026-sapl-9894.md",
+      "sha256": "d8248512ce0c97cc40a5e1a7178987c06ec46efd8d18f4b6ccc5e3ff01cb6cf8",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9894",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9894",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6905-2026-sapl-9895.md",
+      "sha256": "c2a0b759cb10d00db3c932eca53740d6a65751da6eb1ca70767ed09b38abef19",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9895",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9895",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6906-2026-sapl-9896.md",
+      "sha256": "922d55ab67153e01e5931c680eaaabcf6cbbecdd1af9ad75b501ba6d351499a2",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9896",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9896",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6907-2026-sapl-9897.md",
+      "sha256": "2ad8ffdecdfd9c15d1ba242c89dbca343cb7b8cce68e7efabfbe3355c53eee3f",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9897",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9897",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6908-2026-sapl-9898.md",
+      "sha256": "1f1f1186dd2782d9d3c5efbe79a324a6c1a4a5879fac5029dd09f6bf1f8b656a",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9898",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9898",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6909-2026-sapl-9899.md",
+      "sha256": "83a44ecfef7eada46bdc1f6ecdd76f80b1b9e2447b0f1f9fbb9835596c0c7f3a",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9899",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9899",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6910-2026-sapl-9900.md",
+      "sha256": "d9aa407a69e0fe3cfdf1055f47559f29c0e0fb02566e57905dcc29674cf963e2",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9900",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9900",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6914-2026-sapl-9904.md",
+      "sha256": "6c844da09f760a176b2b0dd061bce29bdb29f8094bc42efca0efef8ee1205487",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9904",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9904",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6915-2026-sapl-9905.md",
+      "sha256": "f0b2fa167146b56f005848a2da75ab270067eef7aaf92e16f6c0fe02d3d5a978",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9905",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9905",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6916-2026-sapl-9906.md",
+      "sha256": "8739dbeaf1961c0a9d6e18731dcd54fd9e43889d6b785ec9827e1fb325532d3d",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9906",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9906",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6917-2026-sapl-9907.md",
+      "sha256": "d7e66833e3304adb516c636f7e4c1f105e63bb0221ce1daf924c20285d26201d",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9907",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9907",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2024/leis-ordinarias-313-2024-sapl-247.md",
+      "sha256": "092fbc377bc99ee3316c4a7b9f0137abcbe4012443b1af1059f2d4f29d324138",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/247",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "247",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2015/leis-ordinarias-175-2015-sapl-132.md",
+      "sha256": "290e72696538b59c6a30eeeb37f25c4a0cbe8362f71b7d6ee1407a406605669c",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/132",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "132",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2008/leis-ordinarias-117-2008-sapl-85.md",
+      "sha256": "54b1e596bac05203179dfec303c7b5eefae23b24048a3547595ee413f62d26c2",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/85",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "85",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2001/leis-ordinarias-55-2001-sapl-40.md",
+      "sha256": "11fc68506b0a9dcbaa0d8224087a0161c5eaf6154062fa466ef451b1d0e95580",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/40",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "40",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2006/leis-ordinarias-91-2006-sapl-68.md",
+      "sha256": "97b4696f7ab5230a43076cf788949ded5698ad87bb556be4c829b3f7565d4989",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/68",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "68",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2007/leis-ordinarias-101-2007-sapl-78.md",
+      "sha256": "3a81a0919922bff80e195f64d7d53adab4e6771e8302467a3d58dd9027c508c8",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/78",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "78",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2000/leis-ordinarias-46-2000-sapl-33.md",
+      "sha256": "17cd87dee3ea46793b50e4b7c3e43a550cfde3a26339eceb62d3897b366ca98d",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/33",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "33",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2000/leis-ordinarias-48-2000-sapl-35.md",
+      "sha256": "bff018d3bbe0d15e642a98818efe4a694450ad8c2b8a11c80246a03e5894f74c",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/35",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "35",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2000/leis-ordinarias-52-2000-sapl-37.md",
+      "sha256": "1f1a09a024cda6deb23706c5e35eed88224cab24b2953b98120d908eadf27f98",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/37",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "37",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2009/leis-ordinarias-122-2009-sapl-88.md",
+      "sha256": "b2eab59ad86cf1518d198ee2f101f8ec4e6b0ba14f3121a7bf07dcaa1abd2d19",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/88",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "88",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2009/leis-ordinarias-127-2009-sapl-92.md",
+      "sha256": "465afee0778570ab5a3ffc2ef3c9ca4815ecf8d3fdb0874fa306e92bffb87704",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/92",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "92",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2009/leis-ordinarias-128-2009-sapl-93.md",
+      "sha256": "15ac3e2d0bc83db9f6521154e2f50bf8470b976a8b3f3d0ffa4767780388e847",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/93",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "93",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2017/leis-ordinarias-184-2017-sapl-142.md",
+      "sha256": "22e883a66ea1dfa155359b084984945a0ce2ae4b638bd6abd31b65211b7a2e80",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/142",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "142",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2017/leis-ordinarias-186-2017-sapl-144.md",
+      "sha256": "278c02233e035d55606d1d08608c96dc4b7cfe8da7aedad5454efd1587725d1f",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/144",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "144",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2010/leis-ordinarias-131-2010-sapl-96.md",
+      "sha256": "2a644f3d48bf58784ce6c99e2b8fcd2ec089e612b7659bbea1312ec608c0ced0",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/96",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "96",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2010/leis-ordinarias-137-2010-sapl-100.md",
+      "sha256": "9e4ce780753cc850839997e158369167b0a1e5773940f89a82ed0e6fcacfde85",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/100",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "100",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2019/leis-ordinarias-216-2019-sapl-161.md",
+      "sha256": "799c402f355abf2187841a07b3b4e1f727e553441995bd7f52a442fd92bafd6e",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/161",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "161",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2019/leis-ordinarias-219-2019-sapl-162.md",
+      "sha256": "d7effc5d782e415dc8b4c845308f9914b6813702e518f6e78d1bf4e4c2edcfe8",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/162",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "162",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2019/leis-ordinarias-227-2019-sapl-170.md",
+      "sha256": "d7ac8a71e784f462b72daf1937a003fddb679ce3b301fe4f4f54df33e3e3eda8",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/170",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "170",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2020/leis-ordinarias-233-2020-sapl-175.md",
+      "sha256": "5901b8e9a521c9fee75ce943a8a87c08ab6e384518f563fa3cb50b2f96ddc1f2",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/175",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "175",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2020/leis-ordinarias-240-2020-sapl-180.md",
+      "sha256": "92b83af81f6d7cedd6465782b490bb12b23e01503df5868a2c4b36d5daad0019",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/180",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "180",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2020/leis-ordinarias-245-2020-sapl-184.md",
+      "sha256": "18a9ae360f30c25a6392e51e2fda6ca866ccc72d79a8bf9000cb3d2d90f1bdf4",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/184",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "184",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2020/leis-ordinarias-246-2020-sapl-185.md",
+      "sha256": "4d1f9f6afe16049187e51bb19f4e665e85387537c33f23099524e88a2b76ea4b",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/185",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "185",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2016/leis-ordinarias-177-2016-sapl-139.md",
+      "sha256": "dcdd551f8ebad2c44649544db6416455ab9fb9532bb78de441fd28a3da697c8e",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/139",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "139",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2016/leis-ordinarias-180-2016-sapl-138.md",
+      "sha256": "7dff5356005b09e014e6ba7bcdd4af31dd022249a3bd33986dcb19c95009d3f9",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/138",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "138",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1997/leis-ordinarias-15-1997-sapl-14.md",
+      "sha256": "01428f126453de567d0b788e1b72730a08c99e0ff18a3397c9dc011534f1d750",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/14",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "14",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1997/leis-ordinarias-18-1997-sapl-17.md",
+      "sha256": "aecb24091502b890944f8812ecd684127075950cbabdadb4be3f18feef42537c",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/17",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "17",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1997/leis-ordinarias-19-1997-sapl-18.md",
+      "sha256": "817581afe17e60f157985821806e2606b63e6fcc869b613cf3325c5be17828ce",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/18",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "18",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1997/leis-ordinarias-22-1997-sapl-21.md",
+      "sha256": "e369948b174044ebd48afefc51206cd7d99d0c1888da2633ad38365ea6f1e67d",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/21",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "21",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1997/leis-ordinarias-23-1997-sapl-22.md",
+      "sha256": "b46bd6fdcebfa7164dbfccc3e4ead89908ddc6ea64c9aafee4b1480f2345a1b3",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/22",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "22",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1997/leis-ordinarias-3-1997-sapl-3.md",
+      "sha256": "716fc9df8370883acee4420eaa6b03e686314e34d26fdd11fd0202c002e4d40d",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/3",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "3",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1997/leis-ordinarias-6-1997-sapl-6.md",
+      "sha256": "6ac7f58884d9807d0b827c9fbb602a6d47762cd8eaf6f31fb49e7cd892bbe9bf",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/6",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "6",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1999/leis-ordinarias-32-1999-sapl-27.md",
+      "sha256": "c29cdfc448039a76b67a77076dc346ab3fc2eb5555055795976ac643921a9343",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/27",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "27",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1999/leis-ordinarias-44-1999-sapl-31.md",
+      "sha256": "a318bb2501dc13c4e516070359e68fef4905190d0ead665e69a9d8ae2a1f3aa0",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/31",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "31",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1999/leis-ordinarias-45-1999-sapl-32.md",
+      "sha256": "95a94a13c3f551c2df45053ba0db47ca7de32e33212564f42322370decc30bca",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/32",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "32",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2005/leis-ordinarias-84-2005-sapl-61.md",
+      "sha256": "a1be8d265bb71399d4a3dbfa9ab0cff3e6d8247570b394f9ce945d00ba1e6409",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/61",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "61",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2002/leis-ordinarias-62-2002-sapl-44.md",
+      "sha256": "6f5ec8044cff5c644d93df60a99a9d197a3fa77cf5849e042ed163ee08609e17",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/44",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "44",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2002/leis-ordinarias-64-2002-sapl-46.md",
+      "sha256": "46b9c5d84d78bfe83e12af031527f1da946e8ec146f3b0eed01b6fa1179196eb",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/46",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "46",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2002/leis-ordinarias-67-2002-sapl-49.md",
+      "sha256": "cd36b52b7c5de969a9b764bad747a8221b7bf23378c8c4f84b0b56c70edcf91a",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/49",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "49",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2002/leis-ordinarias-69-2002-sapl-51.md",
+      "sha256": "14886bf0012ffb71fbdab72b4e0264e3e15ac844c296453ba2b8fe82d8211285",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/51",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "51",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2002/leis-ordinarias-70-2002-sapl-52.md",
+      "sha256": "ce955fcceee7829f94483a6989b9f16c8345eed1478d779792cc061795231eab",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/52",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "52",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MG/campestre/resolucoes/2026/resolucoes-2-2026-sapl-1093.md",
+      "sha256": "b211aca3707dd4bec23c7ca5ac9caa3573f195d07abb99e6e29ea809cac79c6c",
+      "fonte": "https://sapl.campestre.mg.leg.br/norma/1093",
+      "host": "sapl.campestre.mg.leg.br",
+      "id": "1093",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MG/campestre/resolucoes/2026/resolucoes-3-2026-sapl-1775.md",
+      "sha256": "dcfbdcef028ac0e7190f38a0410aef684f10592ffea5da9c4145eb8cb4abfed1",
+      "fonte": "https://sapl.campestre.mg.leg.br/norma/1775",
+      "host": "sapl.campestre.mg.leg.br",
+      "id": "1775",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MG/campestre/leis-complementares/2026/leis-complementares-80-2026-sapl-559.md",
+      "sha256": "074aa652c081dbb55dbb27a986760169deb3f411a24cdbd9668fc085044d4d41",
+      "fonte": "https://sapl.campestre.mg.leg.br/norma/559",
+      "host": "sapl.campestre.mg.leg.br",
+      "id": "559",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MG/campestre/leis-complementares/2026/leis-complementares-82-2026-sapl-1087.md",
+      "sha256": "2c19dc568c190a13b58e87ba82e209b52e21fde4f2c7a5fbf2b9a4281764f5f6",
+      "fonte": "https://sapl.campestre.mg.leg.br/norma/1087",
+      "host": "sapl.campestre.mg.leg.br",
+      "id": "1087",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MG/campestre/leis-ordinarias/2023/leis-ordinarias-2154-2023-sapl-268.md",
+      "sha256": "5fd8cf84a183733d8a36a2de15c8b8134adc1bb90dbed6aafe0f96dd578c21f2",
+      "fonte": "https://sapl.campestre.mg.leg.br/norma/268",
+      "host": "sapl.campestre.mg.leg.br",
+      "id": "268",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MG/campestre/leis-ordinarias/2015/leis-ordinarias-1814-2015-sapl-1679.md",
+      "sha256": "78e7e00ce585aee3eedad288808cf66f48a857ce8b0ba897018b9bd8b1d977fe",
+      "fonte": "https://sapl.campestre.mg.leg.br/norma/1679",
+      "host": "sapl.campestre.mg.leg.br",
+      "id": "1679",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    },
+    {
+      "path": "municipais/MG/campestre/leis-ordinarias/2015/leis-ordinarias-1815-2015-sapl-1680.md",
+      "sha256": "e14bcd4ac129568d80531c8a9566b1f34e77947d567192d985acc50921f69240",
+      "fonte": "https://sapl.campestre.mg.leg.br/norma/1680",
+      "host": "sapl.campestre.mg.leg.br",
+      "id": "1680",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": true
+    }
+  ],
+  "retidos": [
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6881-2026-sapl-9789.md",
+      "sha256": "09978c4eb50500df3100de623788dd846ccdfdf447851a0a3c451b76886a8a50",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9789",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9789",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 21887,
+          "trecho": "8, de 01-09-1971 – Estatuto dos Servidores Públicos do Município de publicação. M Manaus, 14 de setembro de 2026. Manaus, o candidato identificado no Anexo Único deste Decreto, aprovado no Concurso Público objeto do Edital nº 0001/2023, em caráter efetivo, o cargo especificado pertencente à estrutura organizacional da E FUNDAÇÃO DE APOIO AO IDOSO “DR. THOMAS” – FDT, objeto da\n\nLei nº 2.528, de 04 de no"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6912-2026-sapl-9902.md",
+      "sha256": "cd21da3371771633807576a66baef1e79cad8aebc5fa9d18eec6baf4206b5c77",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9902",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9902",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 9573,
+          "trecho": " OLIVEIRA, pertencente ao quadro de pessoal da SECRETARIA MUNICIPAL DE EDUCAÇÃO – SEMED, cuja redação passa a R RESOLVE:\n\n**Art. 1º** Fica alterado o Anexo Único do Decreto nº 0059, de 23- viger da forma que segue: MATRÍCULA 109.287-1 A CARGO PROFESSOR NÍVEL MÉDIO LO PADRÃO E REFERÊNCIA - A CONTAR DE 23-03-2009\n\n**Art. 2º** Este Decreto entra em vigor na data de sua publicação. 03-2009, publicado na Ed"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/AM/manaus/decretos/2026/decretos-6913-2026-sapl-9903.md",
+      "sha256": "0cdfef31c20c57d5f45c38f1505b92a70650f93eb2e2f12829883f7223b037b4",
+      "fonte": "https://sapl.cmm.am.gov.br/norma/9903",
+      "host": "sapl.cmm.am.gov.br",
+      "id": "9903",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 9860,
+          "trecho": " OLIVEIRA, pertencente ao quadro de pessoal da SECRETARIA MUNICIPAL DE EDUCAÇÃO – SEMED, cuja redação passa a R RESOLVE:\n\n**Art. 1º** Fica alterado o Anexo Único do Decreto nº 0059, de 23- viger da forma que segue: MATRÍCULA 109.287-1 A CARGO PROFESSOR NÍVEL MÉDIO LO PADRÃO E REFERÊNCIA - A CONTAR DE 23-03-2009\n\n**Art. 2º** Este Decreto entra em vigor na data de sua publicação. 03-2009, publicado na Ed"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2001/leis-ordinarias-54-2001-sapl-39.md",
+      "sha256": "5bb044b0aea554359146f1cbe43c32a362adb81c6a2b0ed60334ed2dbf89f7c2",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/39",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "39",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 3545,
+          "trecho": "mentos e Auxiliares, terão as mesmas Atribuições de per si, constantes na Lei Municipal n® 01. de 02 de Janeiro de 1997.\n\nArt 6® - Ficam revogados os anexos I e o organograma da Prefeitura, integrantes da Lei mencionada no artigo 5®.\n\nPARÁGRAFO ÚNICO - O chefe do Executivo Municipal terá um prazo máximo de 60 ( sessenta) dias, a contar da data da sanção desta Lei, para a elaboração do novo organograma d"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2006/leis-ordinarias-93-2006-sapl-70.md",
+      "sha256": "ee81802aaa9525285e84dac81027c7f47e2a82abe4575590696f5c92ef5b2a60",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/70",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "70",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 1129,
+          "trecho": "ovados no Concurso de provas, Títulos e Documentos serão empossados na ordem de classificação com prazo de 02 (dois) anos, até que os cargos conforme Anexos I sejam preenchidos.\n\nART 6°- O Prefeito Municipal expedirá os atos necessários á completa regulamentação do presente Lei.\n\n4:144:14\n\n**§ 1°** - Aregulamentação de que trata este artigo compreenderá a criação da comissão municipal de Concurso e o Re"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2006/leis-ordinarias-97-2006-sapl-74.md",
+      "sha256": "b89d763fd640382d9383fcbd76690585b2fb2d447652ff1c3b62e4ec64c91aac",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/74",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "74",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 775,
+          "trecho": "ciono a seguinte Lei:\n\n\\\n\n**Art. 1.** O salário-base dos professores e secretários de unidade escolar, integrantes. na inunicipalidade, constantes no Anexo II, da Lei n°. 86/2005, será j acrescido de 15% (quinze por cento) e 10% (dez por cento), respéctivamente.\n\nm Art. 2 Esta Lei entra em vigor nadata de sua publicação, passando o acréscimo a vigorar no salário subseqüente..\n\nGABINETE DO PREFEITO MUMC"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2006/leis-ordinarias-99-2006-sapl-76.md",
+      "sha256": "7a3805bfad0db0cfe623ea7e635646195e1ad63d1a201afbc2a15ebd0eb1d500",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/76",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "76",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 1293,
+          "trecho": "s) de frente e fundos e 20,00m (vinte metros) de laterais, perfazendo um total de 200,00 m^ (duzentos metros quadrados), conforme planta que segue no anexo I, desta Lei.\n\nJ Art. 2° - A seguinte doação tem como objeto a construção de Laboratório de InfoiTnáíioa, através de convênio fiirnado entre a Associação Comuniíaria educacionai, Cultural, Assistencial dos Amigos de Vila Nova dos Martírios e Governo"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2017/leis-ordinarias-185-2017-sapl-143.md",
+      "sha256": "9b2a3dcb2149f71e0ce8ec1d833e745d346bf22ae1f5b4a79a352c29814a06d0",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/143",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "143",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 1141,
+          "trecho": "n®. 11.107/05, regulada pelo Decreto Federal n°. 6.017/07.\n\n**Parágrafo único.** A ratificação de que trata esse artigo é sem reservas, nos termos do Anexo que faz parte integrante desta Lei.\n\nArt. 2®. Serão dispensadas ratificações subsequentes de futuras alterações do protocolo de intenções, desde que ocorra na forma autorizada no § 4®, do art. 5®, da Lei Federal n®. 11.107/05.\n\nArt. 3®. Essa Lei ent"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2010/leis-ordinarias-140-2010-sapl-105.md",
+      "sha256": "7966de43be0d737132f45fee10b6b9e3aeb353ad94cedb864e8559823f22f723",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/105",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "105",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 2506,
+          "trecho": "ados no Concurso de Provas, Títulos e documentos serão empossados na ordem de classificação com prazo de 2(dois) anos, até que os cargos, conforme o\n\nAnexo 1, sejam preenchidos.\n\nArtigo 4°- Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n\n; Gabinete do Prefeito Municipal de Vila Nova dos Martírios, Estado do Maranhão, aos 28 (vinte e oito) dias do mês de deze"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1997/leis-ordinarias-1-1997-sapl-1.md",
+      "sha256": "c4da38a9315259b724a7641adef491cedb40b14100b0e5cad0e929b9722c3e2f",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/1",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "1",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 15904,
+          "trecho": "## CAPÍTULO V DOS CARGOS E FUNÇÕES DE CHEFIA\n\nARTIGO. 11\" - Ficam criados os cargos de provimento em comissão e as funções gratificadas constantes do Anexo I desta Lei.\n\nARTIGO. 12\" - As funções gratificadas serão instituídas por decreto para atender aos encargos de chefia previsto no Regimento Interno, para quais não se tenha criado cargo, e para a direção de unidade de ensino de 1°grau.\n\n**§ 1°** - A"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/1997/leis-ordinarias-2-1997-sapl-2.md",
+      "sha256": "6cd64c9c8079cd2077e9f2f0a21982bb556397701b8a4a2262da6af1edad809c",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/2",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "2",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 623,
+          "trecho": "írios, Estado do Maranhão, para vigência no exercício financeiro de 1997, compostos pelas Receitas e Despesas do Tesouro Municipal é discriminado nos anexos integrantes desta Lei, Estima a Receita em R$ 8.191.531,00 (oito milhões, cento e noventa e um mil e quinhentos e trinta e um reais), e fixa a Despesa em igual quantia.\n\n**Art. 2°** - A Receita será realizada mediante a arrecadação dos tributos, ren"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/MA/vila-nova-dos-martirios/leis-ordinarias/2003/leis-ordinarias-76-2003-sapl-57.md",
+      "sha256": "29f952308f9ba13679a897ad3f5262a1bd996f5cb01e1e01d0db456e830e5349",
+      "fonte": "https://sapl.vilanovadosmartirios.ma.leg.br/norma/57",
+      "host": "sapl.vilanovadosmartirios.ma.leg.br",
+      "id": "57",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 1849,
+          "trecho": "Educação •Administração Escolar R$ 550,00 Supervisão Escolar R$550;G(I Orientador educacional RS 550,00 (Coordenador)\n\n**Artigo 4°** - Fica extinto o anexo HI da Lein° 28 de 23 de Junho de 1998. Artigo 5 - Esta Lei entrató em vigor na data de sua publicação com seus efeitos retroativos ao mês de maio de 2003, revogadas as disposições em contrário. PUBLIQUE-SE, CIENTIFIQUE-SE, REGISTRE-SE E CUMPRA-SE. G"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    },
+    {
+      "path": "municipais/MG/campestre/decretos-legislativos/2026/decretos-legislativos-2-2026-sapl-1748.md",
+      "sha256": "ee1320c7e74f7282b8e787f128aa4d25d6c209e38a523a154eb2322ac8d6d8a9",
+      "fonte": "https://sapl.campestre.mg.leg.br/norma/1748",
+      "host": "sapl.campestre.mg.leg.br",
+      "id": "1748",
+      "alertas": [],
+      "remissoes_ao_proprio_anexo_para_revisao": [
+        {
+          "offset": 1602,
+          "trecho": "a do Carmo de Oliveira Morais, as programações de emendas impositivas remanejadas e as especificações de suas novas destinações constam detalhadas no Anexo Único deste\n\nDecreto Legislativo.\n\n**Art. 3º.** O Poder Executivo Municipal promoverá as adequações necessárias nos instrumentos de planejamento e orçamento (PPA, LDO e LOA) para viabilizar a execução das programações remanejadas no exercício financ"
+        }
+      ],
+      "anexos_proprios": [],
+      "estado_api": "indice_completo",
+      "aprovado_sem_pendencias_detectadas": false
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "aprovados": [
+    {
+      "path": "municipais/MG/campestre/leis-complementares/2026/leis-complementares-80-2026-sapl-559.md",
+      "sha256": "074aa652c081dbb55dbb27a986760169deb3f411a24cdbd9668fc085044d4d41",
+      "sha256_fonte": "0722f72924a6472ad4ed0e474447e9fbc3d48208f6622ee55bcdeb43f700ad7c",
+      "fonte": "https://sapl.campestre.mg.leg.br/norma/559",
+      "codigo_ibge": "3111002",
+      "imagens_revisadas": [
+        {
+          "sha256": "9bf0de9707a37d94ba9a572cf3385a2bc34058234fe7929cb1d2aac47f23f3cd",
+          "object_id": [
+            "41",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0722f72924a6472ad4ed0e474447e9fbc3d48208f6622ee55bcdeb43f700ad7c/1/imagem-000.png",
+          "classificacao": "brasão institucional deCampestre, pixels vistos diretamente, sem tabela ou redação normativa"
+        },
+        {
+          "sha256": "6f259fec49f7cd5d19f8ad3eb46558945b9be975b8f39e0483288e990fc6e802",
+          "object_id": [
+            "41",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0722f72924a6472ad4ed0e474447e9fbc3d48208f6622ee55bcdeb43f700ad7c/1/imagem-001.png",
+          "classificacao": "máscara branca do brasão; mesmoobjetoPDF41 sem texto"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/campestre/leis-complementares/2026/leis-complementares-82-2026-sapl-1087.md",
+      "sha256": "2c19dc568c190a13b58e87ba82e209b52e21fde4f2c7a5fbf2b9a4281764f5f6",
+      "sha256_fonte": "3d27fdea49a35f36e690887c058fc7e3a48868af5c6aa0fb6fbd511a776b7196",
+      "fonte": "https://sapl.campestre.mg.leg.br/norma/1087",
+      "codigo_ibge": "3111002",
+      "imagens_revisadas": [
+        {
+          "sha256": "9bf0de9707a37d94ba9a572cf3385a2bc34058234fe7929cb1d2aac47f23f3cd",
+          "object_id": [
+            "41",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/3d27fdea49a35f36e690887c058fc7e3a48868af5c6aa0fb6fbd511a776b7196/1/imagem-000.png",
+          "classificacao": "brasão institucional deCampestre, pixels vistos diretamente, sem tabela ou redação normativa"
+        },
+        {
+          "sha256": "6f259fec49f7cd5d19f8ad3eb46558945b9be975b8f39e0483288e990fc6e802",
+          "object_id": [
+            "41",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/3d27fdea49a35f36e690887c058fc7e3a48868af5c6aa0fb6fbd511a776b7196/1/imagem-001.png",
+          "classificacao": "máscara branca do brasão; mesmoobjetoPDF41 sem texto"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/campestre/leis-ordinarias/2015/leis-ordinarias-1814-2015-sapl-1679.md",
+      "sha256": "78e7e00ce585aee3eedad288808cf66f48a857ce8b0ba897018b9bd8b1d977fe",
+      "sha256_fonte": "dc1559abea0925411594cf996319a55a1112e91dcfdd89adc8cae91d4685f335",
+      "fonte": "https://sapl.campestre.mg.leg.br/norma/1679",
+      "codigo_ibge": "3111002",
+      "imagens_revisadas": [
+        {
+          "sha256": "9df2eb50e6f1fd8874325088abdd86e0548cbf679772a63f283b8d93b8364c8e",
+          "object_id": [
+            "7",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/dc1559abea0925411594cf996319a55a1112e91dcfdd89adc8cae91d4685f335/1/imagem-000.png",
+          "classificacao": "brasão institucional deCampestre, pixels vistos diretamente, sem tabela ou redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    },
+    {
+      "path": "municipais/MG/campestre/leis-ordinarias/2015/leis-ordinarias-1815-2015-sapl-1680.md",
+      "sha256": "e14bcd4ac129568d80531c8a9566b1f34e77947d567192d985acc50921f69240",
+      "sha256_fonte": "02e132b839cd096ca665a45944d0e4d084a00128e53b53697dc25974f06b5ee9",
+      "fonte": "https://sapl.campestre.mg.leg.br/norma/1680",
+      "codigo_ibge": "3111002",
+      "imagens_revisadas": [
+        {
+          "sha256": "9df2eb50e6f1fd8874325088abdd86e0548cbf679772a63f283b8d93b8364c8e",
+          "object_id": [
+            "7",
+            "0"
+          ],
+          "pagina": 1,
+          "path": "municipais/_fonte/auditorias/catalogo-imagens-sapl/02e132b839cd096ca665a45944d0e4d084a00128e53b53697dc25974f06b5ee9/1/imagem-000.png",
+          "classificacao": "brasão institucional deCampestre, pixels vistos diretamente, sem tabela ou redação normativa"
+        }
+      ],
+      "criterio": "Texto já conferido integralmente; todosobjetos de imagem identificados e cobertos por hashes vistos como brasões/marcas institucionais, sem redação normativa. Nenhum recorte ou alteração do MD."
+    }
+  ],
+  "revisoes": [
+    {
+      "path": "municipais/_lotes/20261020-escala-sapl-0001-catalogo/revisao.json",
+      "sha256": "da22f0aa38173294c39155378c280a93998154adf30a3b3061a8703a1bf8da3e"
+    }
+  ],
+  "catalogo_sha256": "6181010297ff70307cb1aa95efb7424cfdf4d4fea0dd82b6cb9281b098cd3bc4"
+}

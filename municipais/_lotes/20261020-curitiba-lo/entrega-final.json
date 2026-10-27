@@ -1,0 +1,69 @@
+{
+  "normas": 1,
+  "tokens_ativos_em_ordem": 23748,
+  "historicos_tachados": 7,
+  "marcadores_revogacao": 22,
+  "tests": "2testes passaram; municipal1/0; colisões0. Confronto de todos os tokens ativos com parser independente.",
+  "edicao": "Texto alterado do portal oficial capturado20/10/2026; situaçãoEmVigor atribuída ao portal, corte deatualizaçãonãoexpresso; não certificavigênciaintegral.",
+  "fonte": "https://legisladocexterno.curitiba.pr.gov.br/VisualizarHTML.aspx?id=335597",
+  "anexos": "Campo oficialsem anexos;0imagens/tabelas dentrodobloconormativo. HTMLoriginalintegralpreservadoinclusivehistoricoforadaredaçãoativa.",
+  "datas": "Assinado05/04/1990;publicado10/04/1990,DiárioOficial27,nospróprioscamposdoportal; epígrafesemnúmeropreservadanãoinventadonúmero.",
+  "arquivos": [
+    {
+      "arquivo": "municipais/_fonte/capitais/curitiba/captura-63d8488d93187c08dfca.bin",
+      "sha256": "9a313009f55a332c50c24d22416328c6b10bc9d5475298d45adc41a5900fc0a5",
+      "bytes": 298877
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/curitiba/captura-63d8488d93187c08dfca.json",
+      "sha256": "fe2c22c092973e18e49c4dc91bd9a2b31003cee091a847076986e84af9f42bdf",
+      "bytes": 299
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-curitiba-lo/auditoria-municipal.json",
+      "sha256": "c13b0a308f15685538330ff824577814f9a3db24f1ba04ed22a6b36775956bad",
+      "bytes": 684
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-curitiba-lo/bloco-alterado.html",
+      "sha256": "fe0e9c393da8326e943ba6a0811102003b8a9716ffe43790b2640a8dc75fdf42",
+      "bytes": 206601
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-curitiba-lo/colisoes.json",
+      "sha256": "1052c4c23365e80b864a464aba6193cb8758b6373892ef8a251b594bd331938d",
+      "bytes": 134
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-curitiba-lo/historico-tachado.json",
+      "sha256": "6b69e5fad570fba4aea2014b2564ae680b9c28cb7c3e4f90023e2aee10f7d67f",
+      "bytes": 2074
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-curitiba-lo/manifesto.json",
+      "sha256": "b74f4f9d58597a2a466521d333d230d95d5a69b2ace8a4a797fe9c3322cd81da",
+      "bytes": 941
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-curitiba-lo/normas.paths.txt",
+      "sha256": "7092f81d33f81c0ff9834a26a24f87644846959238d1a18b5602a815960939a7",
+      "bytes": 71
+    },
+    {
+      "arquivo": "scripts/converter_organica_curitiba.py",
+      "sha256": "78707834ce399a1db9e06b38d99ed243d98e3e66e2222eecd272550f41fe49f5",
+      "bytes": 6893
+    },
+    {
+      "arquivo": "scripts/test_organica_curitiba.py",
+      "sha256": "222e7777b7372557de66a907285fc30668fb4e3b87e4ea19e4496b9c054da603",
+      "bytes": 1031
+    },
+    {
+      "arquivo": "municipais/PR/curitiba/lei-organica/1990/lei-organica-curitiba-1990.md",
+      "sha256": "5a69eec183c09c1752bbc3898b034dbc691954c35401111cfe8a61dccff246d1",
+      "bytes": 162965
+    }
+  ],
+  "bytes": 680570
+}

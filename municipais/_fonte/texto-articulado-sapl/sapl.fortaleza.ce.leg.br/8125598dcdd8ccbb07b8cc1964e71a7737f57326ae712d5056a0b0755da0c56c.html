@@ -1,0 +1,886 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Fortaleza</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Fortaleza",
+      "url" : "http://10.42.44.242:80"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          20/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/logo_casa.png"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Fortaleza
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/13401?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/3832/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei Ordinária nº 11.243, de 23 de março de 2022
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei Ordinária</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>11243</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>2022</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>23 de Março de 2022</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>AUTORIZA O PODER EXECUTIVO MUNICIPAL A DESAFETAR A ÁREA DESTINADA A UMA PRAÇA QUE CONSTITUI IMÓVEL PÚBLICO MUNICIPAL, PARA FINS DE PERMUTA COM A EMPRESA DELTA NEGÓCIOS IMOBILIÁRIOS LTDA., E DÁ OUTRAS PROVIDÊNCIAS.</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/3832/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt123408" ><div class="dtxt" id="d123408" pks="" pk="123408"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt123409" ><a class="dpt-link" name="123409" title="123409"></a><div class="dtxt" id="d123409" pks="" pk="123409">Autoriza o Poder Executivo municipal a desafetar a área destinada a uma praça que constitui imóvel público municipal, para fins de permuta com a empresa Delta Negócios Imobiliários Ltda., e dá outras providências.</div></div><div class="dn" id="dn123409" pk="123409"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt123410" ><a class="dpt-link" name="123410" title="123410"></a><div class="dtxt" id="d123410" pks="" pk="123410">FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:</div></div><div class="dn" id="dn123410" pk="123410"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt123411" ><div class="dtxt" id="d123411" pks="" pk="123411"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt123412" ><div class="dtxt" id="d123412" pks="" pk="123412"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt123413" ><a class="dpt-link" name="123413">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d123413" pks="" pk="123413">Fica desafetada do patrimônio público municipal, por interesse público, de seu destino originário, para fins de permuta, a seguinte área: terreno de formato irregular situado na confluência da Avenida Engenheiro Agrônomo José Guimarães Duque com a Avenida Crisanto Moreira da Rocha, no Bairro Cambeba, oriundo do loteamento Sítio Carrapicho, totalizando uma área de 4.416 m² e um perímetro de 267,78 m, com os seguintes limites e dimensões: ao norte, por onde mede 117,78 m, em um segmento de arco, com início no vértice P1 (X: 557464.2914; Y: 9579265.2300), centro no vértice P2, raio de 75,06 m e término no vértice P2, no sentido noroeste-sudeste, limitando-se com o lote 1 da quadra 60, oriundo do loteamento Sítio Carrapicho; ao sul, por onde mede 75 m, em um segmento de reta, com início no vértice P2  (X: 557519.0762; Y: 9579174.4083) e término no vértice P3, no sentido leste-oeste, limitando-se com a Avenida Engenheiro Agrônomo José Guimarães Duque; ao oeste, por onde mede 75 m, em um segmento de reta, com início no vértice P3 (X: 557446.2727; Y: 9579192.4267), um ângulo interno de 90° e término no vértice P1, no sentido sul-norte, limitando-se com a Avenida Crisanto Moreira da Rocha.</div></div><div class="dn" id="dn123413" pk="123413"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt123414" ><a class="dpt-link" name="123414" title="123414">Parágrafo único.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d123414" pks="" pk="123414">A área pública descrita neste artigo possui o valor de mercado avaliado em R$ 2.759.690,88 (dois milhões, setecentos e cinquenta e nove mil, seiscentos e noventa reais e oitenta e oito centavos).</div></div><div class="dn" id="dn123414" pk="123414"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt123415" ><div class="dtxt" id="d123415" pks="" pk="123415"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt123416" ><a class="dpt-link" name="123416">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d123416" pks="" pk="123416">Fica o Chefe do Poder Executivo municipal autorizado a permutar o bem descrito no art. 1º desta Lei, de acordo com as determinações da legislação em vigor, com a empresa Delta Negócios Imobiliários Ltda., inscrita sob o CNPJ n.º 07.273.097/0001-55, pelo terreno de sua propriedade, objeto da matrícula n.º 19.706 do Cartório de Registro de Imóveis da 1ª Zona, com os seguintes limites e dimensões: terreno de formato regular, na confluência da Avenida Engenheiro Agrônomo José Guimarães Duque com a Rua Tomaz Idelfonso, no Bairro Cambeba, constituído de parte dos lotes 5 e 12 e dos lotes 6, 7, 8, 13, 14 e 15 da quadra 60 do loteamento Sítio Carrapicho, totalizando uma área de 4.416 m² e um perímetro de 267,76 m, com os seguintes limites e dimensões: ao norte, por onde mede 58,88 m, em um segmento de reta, com início no vértice P1 (X: 557604.2119; Y: 9579230.6157) e término no vértice P2, no sentido noroeste-sudeste, limitando-se com a Rua Santa Marta; ao leste, por onde mede 75 m, em um segmento de reta, com início no vértice P2  (X: 557661.3639; Y: 9579216.4558) e término no vértice P3, no sentido nordeste-sudoeste, limitando-se com a Rua Tomaz Idelfonso; ao sul, por onde mede 58,88 m, em um segmento de reta, com início no vértice P3  (X: 557643.3273; Y: 9579143.6569) e término no vértice P4, no sentido sudeste-noroeste, limitando-se com a Avenida Engenheiro Agrônomo José Guimarães Duque; ao oeste, por onde mede 75 m, em um segmento de reta, com início no vértice P4 (X: 557586.1753; Y: 9579157.8168) e término no vértice P1, no sentido sudoeste-nordeste, limitando-se com os lotes 5 e 12, ambos da quadra 60, oriundos do loteamento Sítio Carrapicho.</div></div><div class="dn" id="dn123416" pk="123416"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt123417" ><a class="dpt-link" name="123417" title="123417">Parágrafo único.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d123417" pks="" pk="123417">A área de propriedade particular descrita neste artigo possui o valor de mercado avaliado em R$ 2.642.490,24 (dois milhões, seiscentos e quarenta e dois mil, quatrocentos e noventa reais e vinte e quatro centavos).</div></div><div class="dn" id="dn123417" pk="123417"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt123418" ><div class="dtxt" id="d123418" pks="" pk="123418"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt123419" ><a class="dpt-link" name="123419">Art. 3º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d123419" pks="" pk="123419">O imóvel ofertado em permuta será afetado como bem de uso comum do povo a ser classificado como Espaço Urbano para Lazer e destinar-se-á à urbanização da área com a implantação de uma praça, tornando o espaço uma área de lazer, com ônus integral à empresa Delta Negócios Imobiliários Ltda.</div></div><div class="dn" id="dn123419" pk="123419"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt123420" ><a class="dpt-link" name="123420" title="123420">§ 1º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d123420" pks="" pk="123420">A execução da urbanização seguirá as especificações de materiais apresentados pela proponente em projeto executivo e cronograma de execução de obra aprovados pela Secretaria Municipal da Infraestrutura (Seinf), a um custo orçado em R$ 117.200,64 (cento e dezessete mil e duzentos reais e sessenta e quatro centavos).</div></div><div class="dn" id="dn123420" pk="123420"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt123421" ><a class="dpt-link" name="123421" title="123421">§ 2º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d123421" pks="" pk="123421">Caberá à Seinf a fiscalização da execução da obra, assim como o seu recebimento ao final.</div></div><div class="dn" id="dn123421" pk="123421"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt123422" ><a class="dpt-link" name="123422" title="123422">§ 3º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d123422" pks="" pk="123422">A empresa Delta Negócios Imobiliários Ltda. deverá implantar o projeto relativo à urbanização da área da praça em prazo não superior a 12 (doze) meses, a contar da data de início de vigência da presente Lei.</div></div><div class="dn" id="dn123422" pk="123422"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt123423" ><div class="dtxt" id="d123423" pks="" pk="123423"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt123424" ><a class="dpt-link" name="123424">Art. 4º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d123424" pks="" pk="123424">Qualquer transação jurídica a envolver o bem desafetado não trará qualquer ônus financeiro ao Município de Fortaleza, bem como os custos referentes à escrituração e ao registro dos imóveis envolvidos ocorrerão por conta da permutante e pactuante com o Município de Fortaleza.</div></div><div class="dn" id="dn123424" pk="123424"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt123425" ><div class="dtxt" id="d123425" pks="" pk="123425"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt123426" ><a class="dpt-link" name="123426">Art. 5º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d123426" pks="" pk="123426">Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.</div></div><div class="dn" id="dn123426" pk="123426"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt123427" ><div class="dtxt" id="d123427" pks="" pk="123427"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt123428" ><a class="dpt-link" name="123428" title="123428"></a><div class="dtxt" id="d123428" pks="" pk="123428"><h3 style="text-align: center;" align="justify"><span style="font-family: Calibri, sans-serif;"><strong>PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, EM 23 DE MARÇO DE 2022.</strong></span></h3><h3 style="text-align: center;">&nbsp;</h3><h3 class="western" style="text-align: center;" align="justify">&nbsp;</h3><h3 style="text-align: center;">&nbsp;</h3><h3 class="western" style="text-align: center;" align="center"><span style="font-family: Calibri, sans-serif;"><strong>JOSÉ SARTO NOGUEIRA MOREIRA<br></strong></span><span style="font-family: Calibri, sans-serif;">Prefeito Municipal de Fortaleza</span></h3></div></div><div class="dn" id="dn123428" pk="123428"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div>
+
+
+</div>
+
+  <div class="dont-break-out"></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Fortaleza</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Dr. Thompson Bulcão, 830</span>
+                  <br>
+                  CEP: <span class="postal-code">60810-460</span>
+                  |
+                  Telefone: <span>(85) 3444-8300</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="http://www.cmfor.ce.gov.br" class="url">Site</a> |
+                  <a href="mailto:cogel.cmfor@gmail.com.br" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+    
+
+    
+  </body>
+</html>

@@ -1,0 +1,15 @@
+{
+  "host": "sapl.flores.pe.leg.br",
+  "estado": "indice_completo",
+  "anexos": [],
+  "evidencias": [
+    {
+      "url": "https://sapl.flores.pe.leg.br/api/norma/anexonormajuridica/?page_size=100&page=1",
+      "path": "municipais/_fonte/auditorias/anexos-sapl/sapl.flores.pe.leg.br/1f64c7d95c60a08fdfa34a4a11a5856a0f7f5ad52b1c0a34676d8b62923ae091.json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "status": 200,
+      "metadata": "municipais/_fonte/auditorias/anexos-sapl/sapl.flores.pe.leg.br/1f64c7d95c60a08fdfa34a4a11a5856a0f7f5ad52b1c0a34676d8b62923ae091.meta.json"
+    }
+  ],
+  "total": 0
+}

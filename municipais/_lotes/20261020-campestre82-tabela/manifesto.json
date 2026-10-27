@@ -1,0 +1,31 @@
+{
+  "documento": "municipais/MG/campestre/leis-complementares/2026/leis-complementares-82-2026-sapl-1087.md",
+  "sha256_anterior": "2c19dc568c190a13b58e87ba82e209b52e21fde4f2c7a5fbf2b9a4281764f5f6",
+  "sha256_novo": "60b09b2dc0db80c366a14e273fc02f0150c6b396d09085ff5b2d2c2840726edf",
+  "fonte": "municipais/_fonte/organicas-sapl/sapl.campestre.mg.leg.br/1087.bin",
+  "sha256_fonte": "3d27fdea49a35f36e690887c058fc7e3a48868af5c6aa0fb6fbd511a776b7196",
+  "pagina": 1,
+  "colunas": [
+    "Denominação dos cargos",
+    "Número de vagas criadas",
+    "Carga horária",
+    "Salário-base",
+    "Lotação",
+    "Escolaridade exigida",
+    "Atribuições"
+  ],
+  "celulas": [
+    "Salva-Vidas",
+    "4",
+    "12hx36h ou 40h semanais",
+    "R$ 3.800,00",
+    "Secretaria Municipal de Esportes/ Complexo aquático Nacy Salomão",
+    "Habilitação em curso de formação profissional específica, possuir aptidão física compatível com os esforços demandados para o cargo.",
+    "Realizar práticas preventivas e de salvamento em ambientes aquáticos, manutenção de piscinas"
+  ],
+  "linhas_dados": 1,
+  "prova_visual": "municipais/_referencias/auditorias/escala-sapl-0001-identidade/campestre-1087-1.png",
+  "sha256_visual": "39b0141c773c7d062beb760ea7d7875360f18fd178db208900e25ab90760bcb4",
+  "verificacao": "Todas as palavras/números da tabela anterior preservados exatamente; sete associações coluna/célula vistas no PDF. Restante do corpo idêntico.",
+  "script_sha256": "380499bfb7a882180c53d4115a6741217acd96a35735f2a6451575b9bf3de113"
+}

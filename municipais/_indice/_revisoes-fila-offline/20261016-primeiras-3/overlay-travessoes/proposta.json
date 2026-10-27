@@ -1,0 +1,139 @@
+{
+  "estado": "proposta isolada não aplicada",
+  "deltas": {
+    "A": 1,
+    "M": 1,
+    "D": 0
+  },
+  "proposta_anterior_sha256": "07893f54994d691ec7f2ec8bb078ed261554af18f045bdb965f5d8ded16060f5",
+  "pendencia_anterior": "Proposta anterior preservada: travessões deslocados no corpo; não publicar aquela versão.",
+  "documentos": [
+    {
+      "codigo": "40E46327",
+      "acao": "A",
+      "destino": "municipais/AM/itacoatiara/resolucoes/2026/resolucao-011-2026-40e46327.md",
+      "sha256_canonico_atual": null,
+      "candidato_original": "municipais/_indice/_reconciliacao-geometria/fila-offline/candidatos/03c903e778aad0e8670b6928bd795230c31ceff5641fb99d4dbedfc63d0f1a79/geometria-colunas-v2/4bacc29722e443b9a1312306e0a5fbb5/municipais/AM/itacoatiara/resolucoes/2026/resolucao-011-2026-40e46327.md",
+      "sha256_candidato_original": "087405f176a55946819a65d338f5e8e4cecd61fa7590465790a648ca655c0c9e",
+      "snapshot_antes": "municipais/_indice/_revisoes-fila-offline/20261016-primeiras-3/correcoes-propostas/snapshots/40E46327/antes.md",
+      "candidato_corrigido": "municipais/_indice/_revisoes-fila-offline/20261016-primeiras-3/correcoes-propostas/candidatos/municipais/AM/itacoatiara/resolucoes/2026/resolucao-011-2026-40e46327.md",
+      "sha256_corrigido": "4f46af3e07e748c871fe980b57e55bb88f7690674e3b0d4cd842755840924742",
+      "correcoes": [
+        {
+          "antes": "data: \"\"\n",
+          "depois": "data: \"2026-07-03\"\n",
+          "ocorrencias": 1,
+          "posicoes_antes": [
+            122
+          ]
+        },
+        {
+          "antes": "RESOLUÇÃO Nº 011/2026    CMAS/ITACOATIARA",
+          "depois": "RESOLUÇÃO Nº 011/2026 – CMAS/ITACOATIARA",
+          "ocorrencias": 3,
+          "posicoes_antes": [
+            13,
+            851,
+            894
+          ]
+        }
+      ],
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_120475_2026-07-03_c8fc704764384f02ad62a9ea4aff54bc.pdf",
+      "pdf": "municipais/_fonte/aam/2026-07-03-4141a.pdf",
+      "fonte_sha256": "aa69b7a88e04dbe8d616f77737f5173851f677b68ce562e1d483ba7274c2cd2e",
+      "uf": "AM",
+      "municipio": "ITACOATIARA",
+      "ibge": 1301902,
+      "data_propria": "2026-07-03",
+      "data_publicacao": "2026-07-03",
+      "prova_bloco_original": {
+        "uf": "AM",
+        "municipio": "ITACOATIARA",
+        "titulo": "RESOLUÇÃO Nº 011/2026    CMAS/ITACOATIARA",
+        "tipo": "resolucao",
+        "sha256_bloco": "d8f92b20e0b64cc302b6f6805dca12fc4cf107dab0daeb4d94c867822af85c76"
+      },
+      "pipeline_original": {
+        "baixar_municipal.py": "6ad567935722b5e8b846d6eb306fcbb0cb2df93552e1c90fe6e930211c5a3df7",
+        "extrair_diario_municipal.py": "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5",
+        "reconciliar_diarios_municipais.py": "adc429923c70724da472effe1b9971fb8d348711a695450ba1fc16bec2582dc7"
+      },
+      "limite": "Derivado do pipeline original mais patches manuais documentados; não atribuir estas correções ao classificador original.",
+      "overlay": "municipais/_indice/_revisoes-fila-offline/20261016-primeiras-3/overlay-travessoes/candidatos/municipais/AM/itacoatiara/resolucoes/2026/resolucao-011-2026-40e46327.md",
+      "sha256_antes_overlay": "4f46af3e07e748c871fe980b57e55bb88f7690674e3b0d4cd842755840924742",
+      "sha256_overlay": "268101a1278604d0b768d5c5e3754a1f98e454d41c7d66ab829b65785dd42249",
+      "delta": "municipais/_indice/_revisoes-fila-offline/20261016-primeiras-3/overlay-travessoes/snapshots/40E46327/delta.diff",
+      "travessoes": 21,
+      "redacao_hifens_cifras_identicos_sem_whitespace_travessao": true,
+      "formato_erros": [],
+      "formato_avisos": []
+    },
+    {
+      "codigo": "20351D69",
+      "acao": "M",
+      "destino": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2026/decreto-757-2026-20351d69.md",
+      "sha256_canonico_atual": "680d0e540af69b8898a2b2aa0b1559c19f4a4920f589564263ae7ea6a7ef66ca",
+      "candidato_original": "municipais/_indice/_reconciliacao-geometria/fila-offline/candidatos/b6bfe92d4683c78de191b1402e8f1ddf4ab73b2a415cf074e188b2d3e9467dbd/geometria-colunas-v2/d403f02da1214076a1d4f5662cbad778/municipais/RJ/engenheiro-paulo-de-frontin/decretos/2026/decreto-757-2026-20351d69.md",
+      "sha256_candidato_original": "8939902fea52ff02cf6166017ea3f4a7261f2bb58a6f65f41e8430748d9a849e",
+      "snapshot_antes": "municipais/_indice/_revisoes-fila-offline/20261016-primeiras-3/correcoes-propostas/snapshots/20351D69/antes.md",
+      "candidato_corrigido": "municipais/_indice/_revisoes-fila-offline/20261016-primeiras-3/correcoes-propostas/candidatos/municipais/RJ/engenheiro-paulo-de-frontin/decretos/2026/decreto-757-2026-20351d69.md",
+      "sha256_corrigido": "c41faf5bda09dc484349b38afcefcb7fffb2e6fb6689f447cd758e092de69713",
+      "correcoes": [
+        {
+          "antes": "data: \"\"\n",
+          "depois": "data: \"2026-01-05\"\n",
+          "ocorrencias": 1,
+          "posicoes_antes": [
+            114
+          ]
+        },
+        {
+          "antes": "\n\f\nExtraordinária\n",
+          "depois": "\n",
+          "ocorrencias": 1,
+          "posicoes_antes": [
+            6923
+          ]
+        }
+      ],
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=265&i=publicado_119311_2026-01-08_6c57aafa86497f18b745b0981a5fa4fa.pdf",
+      "pdf": "municipais/_fonte/aemerj/2026-01-08-4036a.pdf",
+      "fonte_sha256": "dd680860043650643b59aebd3410f3d4de92d4a9180f525a7783a86d827a0541",
+      "uf": "RJ",
+      "municipio": "ENGENHEIRO PAULO DE FRONTIN",
+      "ibge": 3301801,
+      "data_propria": "2026-01-05",
+      "data_publicacao": "2026-01-08",
+      "prova_bloco_original": {
+        "uf": "RJ",
+        "municipio": "ENGENHEIRO PAULO DE FRONTIN",
+        "titulo": "DECRETO Nº 757/2026",
+        "tipo": "decreto",
+        "sha256_bloco": "cbb269c6a02446387a4b22dad8f8b73552b1ac36a76f2cf7595b88142316a9b9"
+      },
+      "pipeline_original": {
+        "baixar_municipal.py": "6ad567935722b5e8b846d6eb306fcbb0cb2df93552e1c90fe6e930211c5a3df7",
+        "extrair_diario_municipal.py": "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5",
+        "reconciliar_diarios_municipais.py": "adc429923c70724da472effe1b9971fb8d348711a695450ba1fc16bec2582dc7"
+      },
+      "limite": "Derivado do pipeline original mais patches manuais documentados; não atribuir estas correções ao classificador original.",
+      "overlay": "municipais/_indice/_revisoes-fila-offline/20261016-primeiras-3/overlay-travessoes/candidatos/municipais/RJ/engenheiro-paulo-de-frontin/decretos/2026/decreto-757-2026-20351d69.md",
+      "sha256_antes_overlay": "c41faf5bda09dc484349b38afcefcb7fffb2e6fb6689f447cd758e092de69713",
+      "sha256_overlay": "5b6aa121a9450b7383069edfaeae93c59338da0641eb7a1c9fe10c6c18e4453e",
+      "delta": "municipais/_indice/_revisoes-fila-offline/20261016-primeiras-3/overlay-travessoes/snapshots/20351D69/delta.diff",
+      "travessoes": 23,
+      "redacao_hifens_cifras_identicos_sem_whitespace_travessao": true,
+      "formato_erros": [],
+      "formato_avisos": []
+    }
+  ],
+  "confronto_visual": "Releitura integral dos três renders PDF: Itacoatiara p1, Paulo de Frontin p1–2; travessões conferidos em ementa, considerandos, artigos e assinatura. Incisos art2 I–V, art4 I–IX, art5 I–V, art7 I–IV. Texto/cifras/hífens preservados; somente posição de travessões/espaços adjacentes.",
+  "provas_compartilhadas": {
+    "renders.json": "c87264c351a7fea5c0bd912ce8a70fb88bd08744597513cd5ee82a452b00fdbe",
+    "provas-calendario.json": "1c0206e7e776e5342693ae0180a1af5c9987d6c7a7e71ac741f58a57182412a3",
+    "ibge-identidades.json": "55102fa0fef1b7a7d925e4d4ced0405e373d75f7d42d43ac8977be773041e910",
+    "recursos-visuais.json": "d580035ffd7391e6a2ac8e82a978d3d793549147440d0472028c470c272c24bc",
+    "manifesto-provas.json": "40f955b1b98ec9bf4b02b5e951ae5f639da0f43a7926353de3c838db5e48b26b"
+  },
+  "limites": "Não corrige o extrator. Pipeline/fila/canônicos/originais intactos; metadados herdados da proposta anterior. Sem HTTP/Git."
+}

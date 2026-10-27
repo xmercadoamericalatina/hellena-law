@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Fortaleza</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Fortaleza",
+      "url" : "http://sapl.fortaleza.ce.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          20/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/logo_casa.png"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Fortaleza
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/3726?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/726/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei Ordinária nº 10.161, de 27 de fevereiro de 2014
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei Ordinária</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>10161</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>2014</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>27 de Fevereiro de 2014</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>DESAFETA ÁREA DA RUA DR. LAUDELINO COELHO E DA RESPECTIVA CURVA QUE DESEMBOCA NA RUA PROFESSOR GUILHON, AFETA AO USO COMUM DO POVO PARA USO COMO VIA PÚBLICA ÁREA DESTINADA À AMPLIAÇÃO DA RUA PROFESSOR GUILHON E DA NOVA IMPLANTAÇÃO DA RUA DR. LAUDELINO COELHO, AUTORIZA A DOAÇÃO À UNIÃO FEDERAL DA VIA DESAFETADA E DE PARTE DO TERRENO QUE COMPUNHA O CENTRO COMUNITÁRIO PRESIDENTE MÉDICI, PARA FINS DE VIABILIZAR A AMPLIAÇÃO DA SEDE DA SUPERINTENDÊNCIA REGIONAL DA POLÍCIA FEDERAL NO CEARÁ.</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/726/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt24220" ><div class="dtxt" id="d24220" pks="" pk="24220"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt24221" ><a class="dpt-link" name="24221" title="24221"></a><div class="dtxt" id="d24221" pks="" pk="24221">DESAFETA ÁREA DA RUA DR LAUDELINO COELHO E DA RESPECTIVA CURVA QUE DESEMBOCA NA RUA PROFESSOR GUILHON; AFETA AO USO COMUM DO POVO PARA USO COMO VIA PÚBLICA ÁREA DESTINADA À AMPLIAÇÃO DA RUA PROFESSOR GUILHON E DA NOVA IMPLANTAÇÃO DA RUA DR. LAUDELINO COELHO; AUTORIZA A DOAÇÃO À UNIÃO FEDERAL DA VIA DESAFETADA E DE PARTE DO TERRENO QUE COMPUNHA O CENTRO COMUNITÁRIO PRESIDENTE MÉDICI. PARA FINS DE VIABILIZAR A AMPLIAÇÃO DA SEDE DA SUPERINTENDÊNCIA REGIONAL DA POLÍCIA FEDERAL NO CEARÁ.</div></div><div class="dn" id="dn24221" pk="24221"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt24222" ><a class="dpt-link" name="24222" title="24222"></a><div class="dtxt" id="d24222" pks="" pk="24222">O PREFEITO DO MUNICÍPIO DE FORTALEZA. Faço saber que a Câmara Municipal de Fortaleza aprovou e eu sanciono a seguinte Lei:</div></div><div class="dn" id="dn24222" pk="24222"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt24223" ><div class="dtxt" id="d24223" pks="" pk="24223"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt24224" ><div class="dtxt" id="d24224" pks="" pk="24224"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt24225" ><a class="dpt-link" name="24225">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d24225" pks="" pk="24225">Fica afetado ao uso comum do povo, para fins de uso como via pública, o seguinte bem: imóvel situado à Av. Borges de Melo, lado par, Bairro Aeroporto, descrito no processo adm. nº P058031/2017-PMF, com uma área de forma geométrica irregular, disposto na seguinte poligonal: Partindo do ponto 0, situado `Av. Borges de Melo, com um ângulo interno de 44,89º, seguindo em direção ao leste, numa distância de 5,61 metros, chegando ao ponto 1; partindo do ponto 1, com ângulo interno 224,54º, seguindo em direção ao norte, numa distância de 96.20 metros, chegando ao ponto 2; partindo do ponto 2, com um ângulo interno 134.98º, seguindo em direção ao leste, numa curva com raio de 24,02 metros e desenvolvimento de 37,74 metros, chegando ao ponto 3; partindo do ponto 3, com um ângulo interno 134.94º, seguindo em direção ao leste, numa distância de 54.21 metros, chegando ao ponto 4; partindo do ponto 4, com um ângulo interno 38,65, seguindo em direção ao sul, numa curva com raio de 21,88 metros e desenvolvimento de 30,39 metros chegando ao ponto 5; partindo do ponto 5, com um ângulo interno 141,35º, seguindo em direção oeste numa distância de 32,34 metros, chegando ao ponto 6; partindo do ponto 6 com um ângulo interno 134,94º, seguindo em direção ao sul, numa curva com raio de 10,00 metros e desenvolvimento de 15,73 metros chegando ao ponto 7; partindo do ponto 7, com um ângulo 134,94º, seguindo em direção ao sul, numa distância de 92,47 metros chegado ao ponto 8; partindo do ponto 8, com um ângulo interno 224,11º, seguindo em direção ao leste, numa distância de 5,68 metros chegando ao ponto 9; partindo do ponto 9 com um ângulo interno 45,77º, seguindo em direção ao oeste, numa distância de 22,00 metros chegando ao ponto 0 onde iniciou a poligonal, com uma área total de 2.489,54 m² e perímetro de 392,37 metros; extremando; AO NORTE com o remanescente do imóvel de propriedade da Prefeitura Municipal de Fortaleza - PMF, conforme transcrição nº 46689 CRI-2ª Zona e com a Academia de Policia; AO SUL com o perfilamento Norte da Av. Borges de Melo e com o remanescente do imóvel de propriedade da Prefeitura Municipal de Fortaleza - PMF, conforme transcrição nº 46689 CRI - 2ª Zona; QUADRO DE ÁREAS: Área a ser afetada: 2.489,54 m²</div></div><div class="dn" id="dn24225" pk="24225"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt24226" ><div class="dtxt" id="d24226" pks="" pk="24226"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt24227" ><a class="dpt-link" name="24227">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d24227" pks="" pk="24227">Fica desafetado do uso comum do povo o seguinte bem: via pública situada proxima à Av. Borges de Melo, lado par, Bairro Aeroporto, descrita no processo adm. nºv P058031/2014-PMF, com uma área de forma geométrica irregular localizada à Avenida Borges de Melo, lado par, Bairro Aeroporto, disposto na seguinte poligonal; Partindo do ponto 0, situado à confluência da Av. Borges de Melo com a Rua Dr. Laudelino Coelho, com um ângulo interno 90,54º, seguindo em direção ao oeste, numa distância de 13,73 metros, chegando ao ponto 1; partindo do ponto 1, com um ângulo interno 185,78º seguindo em direção ao oeste, numa distância de 3,25 metros, chegando ao ponto 2; partindo do ponto 2, com um ângulo interno 39,01º, seguindo em direção ao norte, numa distância de 4,51 metros, chegando ao ponto 3; partindo do ponto 3, com um ângulo interno 224,96º seguindo em direção ao norte, numa distância de  103,52 metros, chegando ao ponto 4; partindo do ponto 4, com um ângulo interno 89,80º, seguindo em direção ao leste, numa distância de 22,22 metros, chegando ao ponto 5; partindo do ponto 5, com um ângulo interno de 32,56º, seguindo em direção ao sul, numa curva com raio de 9,02 metros e desenvolvimento de 9,88 metros, chegando ao ponto 6; partindo do ponto 6, com um ângulo interno 122,65º, seguindo em direção ao sul, numa distância de 101,21 metros, chegando ao ponto 0 onde iniciou a poligonal, com área total de 1.509,34 m² e perímetro de 258,34 metros; extremando: AO NORTE, com a Rua Professor Guilhon, AO SUL com ao perfilamento norte da Av. Borges de Melo; AO LESTE, com imóvel de propriedade da União Federal, conforme transcrição nº 43611 CRI-2ª Zona; AO OESTE, com área a ser doada de propriedade da Prefeitura Municipal de Fortaleza - PMF, conforme transcrição nº 46689 CRI-2ª Zona; QUADRO DE ÁREAS: Área a ser desafetada: 1.509,34 m².</div></div><div class="dn" id="dn24227" pk="24227"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt24228" ><div class="dtxt" id="d24228" pks="" pk="24228"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt24229" ><a class="dpt-link" name="24229">Art. 3º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d24229" pks="" pk="24229">Fica o Prefeito Municipal de Fortaleza autorizado a doar à União Federal, para que sirva à ampliação da sede da Superintendência Regional da Policia Federal no Ceará, o seguinte bem: imóvel situado à Av. Borges de Melo, lado par, Bairro Aeroporto, descrito no processo adm. nº P058031/2014-PMF, parte do imóvel que compunha o Centro Comunitário Presidente Médici, com uma área de forma geométrica irregular localizada à Avenida Borges de Melo, lado par, bairro Aeroporto, disposto na seguinte poligonal: Partindo do ponto 0, situado à confluência da Av. Borges de Melo com a Rua Dr. Laudelino Coelho, com um ângulo interno 91,65º, seguindo em direção ao oeste, numa distância de 16,97 metros, chegando ao ponto 1; partindo do ponto 1, com um ângulo interno 178,08º seguindo em direção ao oeste, numa distância de 35,34 metros, chegando ao ponto 2; partindo do ponto 2, com um ângulo interno 135,23º, seguindo em direção ao norte, numa distância de 5,68, chegando ao ponto 3; partindo do ponto 3, com um ângulo interno 135,23º, seguindo em direção ao norte, numa distância de 92,47 metros, chegando ao ponto 4; partindo do ponto 4, com um ângulo interno 134,94º, seguindo em direção ao leste, numa curva com raio de 10,00 metros e desenvolvimento de 15,73 metros, chegando ao ponto 5; partindo do ponto 5, com um ângulo interno 134,94º seguindo em direção ao leste, numa distância de 54,56 metros, chegando ao ponto 6; partindo do ponto 6, com um ângulo interno 32,57º seguindo em direção ao sul, numa curva com raio de 9,02 metros e desenvolvimento de 9,88 metros, chegando ao ponto 7, partindo do ponto 7, com um ângulo interno 237,35º, seguindo em direção ao sul, numa distância de 101,21 metros, chegando ao ponto 0 onde iniciou a poligonal, com área total de 6.001.98m² e perímetros de 331,84 metros; extremando: AO NORTE, com a Rua Professor Guilhon e com área a ser afetada; AO SUL, com o perfilamento norte da Av. Borges de Melo; AO LESTE, com o imóvel de propriedade da União Federal, conforme transcrição nº 43611 CRI-2ª Zona; AO OESTE, com área a ser afetada; QUADRO DE ÁREAS: Área ser doada: 6.001,98 m².</div></div><div class="dn" id="dn24229" pk="24229"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt24230" ><div class="dtxt" id="d24230" pks="" pk="24230"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt24231" ><a class="dpt-link" name="24231">Art. 4º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d24231" pks="" pk="24231">Fica desafetado dos usos especial e comum do povo a área descrita no artigo anterior não contemplada no art. 1º desta Lei.</div></div><div class="dn" id="dn24231" pk="24231"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt24232" ><div class="dtxt" id="d24232" pks="" pk="24232"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt24233" ><a class="dpt-link" name="24233">Art. 5º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d24233" pks="" pk="24233">Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.</div></div><div class="dn" id="dn24233" pk="24233"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt24234" ><div class="dtxt" id="d24234" pks="" pk="24234"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt24235" ><a class="dpt-link" name="24235" title="24235"></a><div class="dtxt" id="d24235" pks="" pk="24235"><h3 style="text-align: center;"><strong>PAÇO MUNICIPAL DE FORTALEZA, em Fortaleza, aos 27 de Fevereiro de 2014<br><br><br><br><br></strong>Roberto Claudio Rodrigues Bezerra<br>PREFEITO MUNICIPAL DE FORTALEZA</h3></div></div><div class="dn" id="dn24235" pk="24235"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div>
+
+
+</div>
+
+  <div class="dont-break-out"></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Fortaleza</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Dr. Thompson Bulcão, 830</span>
+                  <br>
+                  CEP: <span class="postal-code">60810-460</span>
+                  |
+                  Telefone: <span>(85) 3444-8300</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="http://www.cmfor.ce.gov.br" class="url">Site</a> |
+                  <a href="mailto:cogel.cmfor@gmail.com.br" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+    
+
+    
+  </body>
+</html>

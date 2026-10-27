@@ -1,0 +1,2186 @@
+{
+  "estado": "preparado",
+  "extrator": "geometria-colunas-v2",
+  "sha256_extrator": "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5",
+  "sha256_classificador": "8252ab30f326f44652f44dc00bb3030c5e3607e1b38f835cc93e69694b4c53a7",
+  "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+  "data_circulacao": "2026-05-12",
+  "pdf": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aam/2026-05-12-4103.pdf",
+  "sha256_pdf": "9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1",
+  "cache_texto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aam/2026-05-12-4103.pdf.geometria-colunas-v2.3d954c48700d4932.txt",
+  "cache_metadados": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aam/2026-05-12-4103.pdf.geometria-colunas-v2.3d954c48700d4932.json",
+  "anteriores": [
+    {
+      "arquivo": "municipais/AM/envira/leis-ordinarias/2026/lei-ordinaria-005-2026-8f218ee6.md",
+      "sha256": "430d989b5d186c8fa18fc5a03cae4f14ec9a5f881910f3d4495b0445bd444957",
+      "codigo": "8F218EE6",
+      "numero": "005",
+      "municipio": "ENVIRA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "0A95F62F",
+          "destino": "municipais/AM/fonte-boa/leis-ordinarias/2026/lei-ordinaria-005-2026-0a95f62f.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/itacoatiara/decretos/2026/decreto-274-2026-8e4cf034.md",
+      "sha256": "0dadd1d4ae679a7c4f7e7a18d11a2129db309e3a037ad465e358b7c69f658726",
+      "codigo": "8E4CF034",
+      "numero": "274",
+      "municipio": "ITACOATIARA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "33ED2ADA",
+          "destino": "municipais/AM/itacoatiara/decretos/2026/decreto-274-2026-33ed2ada.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/tefe/decretos/2026/decreto-044-2026-262618fa.md",
+      "sha256": "f30198a10a0bbfc2cc99c98ce6f113e15ca61f67391838d196a880008ea98593",
+      "codigo": "262618FA",
+      "numero": "044",
+      "municipio": "TEFÉ",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "434281FB",
+          "destino": "municipais/AM/tefe/decretos/2026/decreto-044-2026-434281fb.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/itamarati/leis-ordinarias/2026/lei-ordinaria-651-2026-129745cf.md",
+      "sha256": "97a8d9e48f8efb9768861c0365ecbc999589f7ea700735ba245583eb7d4540b0",
+      "codigo": "129745CF",
+      "numero": "651",
+      "municipio": "ITAMARATI",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "129745CF",
+          "destino": "municipais/AM/itamarati/leis-ordinarias/2026/lei-ordinaria-651-2026-129745cf.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/itamarati/leis-ordinarias/2026/lei-ordinaria-650-2026-7d10112a.md",
+      "sha256": "532a5e51d679c8e03d74d1c9e3d7ae9850577931cfdbec386b1f4deb5bc399dd",
+      "codigo": "7D10112A",
+      "numero": "650",
+      "municipio": "ITAMARATI",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "7D10112A",
+          "destino": "municipais/AM/itamarati/leis-ordinarias/2026/lei-ordinaria-650-2026-7d10112a.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-196-2026-4addeb86.md",
+      "sha256": "93b1dea922de62416b3102adb326cb1bd155129d6253fea98b3d09701bfc0756",
+      "codigo": "4ADDEB86",
+      "numero": "196",
+      "municipio": "TABATINGA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "576A9E94",
+          "destino": "municipais/AM/tabatinga/decretos/2026/decreto-196-2026-576a9e94.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-200-2026-d41f4c7f.md",
+      "sha256": "15c38420b29f037f1f786f5e9599ebce98f69af6ae289ba7af593855985cdaff",
+      "codigo": "D41F4C7F",
+      "numero": "200",
+      "municipio": "TABATINGA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "69AAC0CD",
+          "destino": "municipais/AM/tabatinga/decretos/2026/decreto-200-2026-69aac0cd.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-193-2026-221f0d98.md",
+      "sha256": "4d49c72a08cf3462639ef9941951625217644f20cc87b90ca7dc5c608e762223",
+      "codigo": "221F0D98",
+      "numero": "193",
+      "municipio": "TABATINGA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "221F0D98",
+          "destino": "municipais/AM/tabatinga/decretos/2026/decreto-193-2026-221f0d98.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-202-2026-ac9ba669.md",
+      "sha256": "f2c23f8c0c073963d73820ca6db75e307fa4bd89235fea1a71d2737418ed417c",
+      "codigo": "AC9BA669",
+      "numero": "202",
+      "municipio": "TABATINGA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "9F6F14AF",
+          "destino": "municipais/AM/tabatinga/decretos/2026/decreto-202-2026-9f6f14af.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-194-2026-134f2086.md",
+      "sha256": "c723e3100feb61f84226ac95edcb00ff59d2f2c54849394b711e59e15b6aca6c",
+      "codigo": "134F2086",
+      "numero": "194",
+      "municipio": "TABATINGA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "134F2086",
+          "destino": "municipais/AM/tabatinga/decretos/2026/decreto-194-2026-134f2086.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-192-2026-4096d8e6.md",
+      "sha256": "0800a0c710d47098d18db383321e1e89882680dfdf6787e607090facd1c431d1",
+      "codigo": "4096D8E6",
+      "numero": "192",
+      "municipio": "TABATINGA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "4096D8E6",
+          "destino": "municipais/AM/tabatinga/decretos/2026/decreto-192-2026-4096d8e6.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-199-2026-69aac0cd.md",
+      "sha256": "ebec695118fb88c9e78fa64ef34e443b494584ad1f40c0f963b52e3202792970",
+      "codigo": "69AAC0CD",
+      "numero": "199",
+      "municipio": "TABATINGA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "E9493547",
+          "destino": "municipais/AM/tabatinga/decretos/2026/decreto-199-2026-e9493547.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-195-2026-ab012d67.md",
+      "sha256": "2c3a1cdd745b1582647744c2e7ed602419768d5e336d3ed9d693cdf3fa3da96d",
+      "codigo": "AB012D67",
+      "numero": "195",
+      "municipio": "TABATINGA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "AB012D67",
+          "destino": "municipais/AM/tabatinga/decretos/2026/decreto-195-2026-ab012d67.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/japura/decretos/2026/decreto-168-2026-43d6b4fa.md",
+      "sha256": "ade8ca42a546919f81482f56d5df0464dbf9c949e7b5244c693bc157388344e6",
+      "codigo": "43D6B4FA",
+      "numero": "168",
+      "municipio": "JAPURÁ",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "43D6B4FA",
+          "destino": "municipais/AM/japura/decretos/2026/decreto-168-2026-43d6b4fa.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-201-2026-e9493547.md",
+      "sha256": "c9198dc0a7777d206c46400c3bae0a62bb8654749e9a40f44236ef0d18e34f2c",
+      "codigo": "E9493547",
+      "numero": "201",
+      "municipio": "TABATINGA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "D41F4C7F",
+          "destino": "municipais/AM/tabatinga/decretos/2026/decreto-201-2026-d41f4c7f.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/rio-preto-da-eva/decretos/2026/decreto-013-2026-d7bf6cd9.md",
+      "sha256": "da22939958bdf65ff50b5094971053e64754e80c6810bfdf0d759a4c93d13d99",
+      "codigo": "D7BF6CD9",
+      "numero": "013",
+      "municipio": "RIO PRETO DA EVA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "D7BF6CD9",
+          "destino": "municipais/AM/rio-preto-da-eva/decretos/2026/decreto-013-2026-d7bf6cd9.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-191-2026-2b9cd65f.md",
+      "sha256": "e3fbfd33e94e74104104efe66eb517e94bf3f595aa17fdc54d055b73c50c0bc7",
+      "codigo": "2B9CD65F",
+      "numero": "191",
+      "municipio": "TABATINGA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "2B9CD65F",
+          "destino": "municipais/AM/tabatinga/decretos/2026/decreto-191-2026-2b9cd65f.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-197-2026-9009ae99.md",
+      "sha256": "ce1e7089d5f60b19d3944b0ad51bb132a8b7992036b096c592e7eec31010724f",
+      "codigo": "9009AE99",
+      "numero": "197",
+      "municipio": "TABATINGA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "4ADDEB86",
+          "destino": "municipais/AM/tabatinga/decretos/2026/decreto-197-2026-4addeb86.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-198-2026-576a9e94.md",
+      "sha256": "28875abfec0bc22df78edf84f85871205ceba8f4a6e776992773b5d5f5b16e5d",
+      "codigo": "576A9E94",
+      "numero": "198",
+      "municipio": "TABATINGA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "9009AE99",
+          "destino": "municipais/AM/tabatinga/decretos/2026/decreto-198-2026-9009ae99.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/caapiranga/leis-ordinarias/2026/lei-ordinaria-004-2026-cfae5068.md",
+      "sha256": "46946035413c466713079ff80b357b1b4c46733bf076de8f1b67fd9d2b6d14ef",
+      "codigo": "CFAE5068",
+      "numero": "004",
+      "municipio": "CAAPIRANGA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "CFAE5068",
+          "destino": "municipais/AM/caapiranga/leis-ordinarias/2026/lei-ordinaria-004-2026-cfae5068.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/santa-isabel-do-rio-negro/decretos/2026/decreto-67-2026-c3820fb2.md",
+      "sha256": "aff53b850675525bbf96965b4b61cb049c60a85048dbd64537c9d0783eea1efe",
+      "codigo": "C3820FB2",
+      "numero": "67",
+      "municipio": "SANTA ISABEL DO RIO NEGRO",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "9CAC9CFD",
+          "destino": "municipais/AM/santa-isabel-do-rio-negro/decretos/2026/decreto-67-2026-9cac9cfd.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/parintins/leis-ordinarias/2026/lei-ordinaria-1047-2026-0a3627dc.md",
+      "sha256": "7a06e39abf34447b98005c3a3416d3e9167c6b73c079fcc0752037b93c136c53",
+      "codigo": "0A3627DC",
+      "numero": "1047",
+      "municipio": "PARINTINS",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "CB9C4564",
+          "destino": "municipais/AM/parintins/leis-ordinarias/2026/lei-ordinaria-1047-2026-cb9c4564.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/parintins/decretos/2026/decreto-45-2026-be7da994.md",
+      "sha256": "34c9725f9c059978d30620649d58b414e1073d660155918cff54102a960bf7e5",
+      "codigo": "BE7DA994",
+      "numero": "45",
+      "municipio": "PARINTINS",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "BE7DA994",
+          "destino": "municipais/AM/parintins/decretos/2026/decreto-45-2026-be7da994.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/maues/decretos/2026/decreto-040-2026-a2f537e3.md",
+      "sha256": "c699e1e5ac7f96c07a42cbe745a41e2c10ce13bb75f5a77f983da287b1fe04c1",
+      "codigo": "A2F537E3",
+      "numero": "040",
+      "municipio": "MAUÉS",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "A2F537E3",
+          "destino": "municipais/AM/maues/decretos/2026/decreto-040-2026-a2f537e3.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/barreirinha/decretos/2026/decreto-316-2026-76843a6e.md",
+      "sha256": "54ac2954d81dded1fa54e2b90984ac049fdb5324a4363edbfb03e8334c7c0181",
+      "codigo": "76843A6E",
+      "numero": "316",
+      "municipio": "BARREIRINHA",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "7DE93EC4",
+          "destino": "municipais/AM/barreirinha/decretos/2026/decreto-316-2026-7de93ec4.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/eirunepe/decretos/2026/decreto-050-2026-68e3df14.md",
+      "sha256": "d230490a3a5696bd3ec33f2083eb7e74fbcea9d9e16cee5af43f66f45f2ff8c6",
+      "codigo": "68E3DF14",
+      "numero": "050",
+      "municipio": "EIRUNEPÉ",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "68E3DF14",
+          "destino": "municipais/AM/eirunepe/decretos/2026/decreto-050-2026-68e3df14.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/eirunepe/decretos/2026/decreto-048-2026-745d9193.md",
+      "sha256": "609c7a89dc62c52cad25b943bc14c9fa7d8b29611f3de230dbcb1dfa3a292515",
+      "codigo": "745D9193",
+      "numero": "048",
+      "municipio": "EIRUNEPÉ",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "745D9193",
+          "destino": "municipais/AM/eirunepe/decretos/2026/decreto-048-2026-745d9193.md"
+        }
+      ]
+    },
+    {
+      "arquivo": "municipais/AM/eirunepe/decretos/2026/decreto-049-2026-3590798f.md",
+      "sha256": "896dbd645578ac05e7c60b35e361211ec312a1ca779e037f02c69ecaef6efc0b",
+      "codigo": "3590798F",
+      "numero": "049",
+      "municipio": "EIRUNEPÉ",
+      "candidatos_mesmo_tipo_numero": [
+        {
+          "codigo": "3590798F",
+          "destino": "municipais/AM/eirunepe/decretos/2026/decreto-049-2026-3590798f.md"
+        }
+      ]
+    }
+  ],
+  "novos": 36,
+  "provas_especificas_aceitas": [
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "C6F01295",
+      "sha256_bloco": "d050b1b0e4504b7e5cced9edcef29a87b7a56f73b7cb10183ffdad74ce7e6e0f",
+      "municipio": "MANACAPURU",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nSECRETARIA MUNICIPAL DE ADMINISTRAÇÃO\nPORTARIA Nº 545/2026 GP/PMM\n–\nA     PREFEITA     MUNICIPAL     DE     MANACAPURU\nAMAZONAS, no uso de suas atribuições legais,\nCONSIDERANDO  o  disposto  no  Art.  125,  caput,  do  Estatuto  dos\nServidores Públicos Municipais,\nRESOLVE:\nCONCEDER a servidora, KEITIANE ANDRADE DINIZ, no cargo\nde  AUXILIAR  DE  SERVIÇOS  GERAIS,  nível  003,  referência\n―B‖, matrícula nº 777,\nlotada na Secretaria Municipal de Educação e\nCultura - SEMEC, pertencente ao quadro de pessoal estatutário deste\nPoder  Público  Municipal,  01  (um)  período  de  Licença  Prêmio,\npertinente ao quinquênio de: 15/04/2004 até 15/04/2009, com início\nem 18/05/2026 e término em 16/08/2026, nos termos do Art.125 da\nLei  nº  089  de  15  de  dezembro  de  2003  (Estatuto  dos  Servidores\nPúblicos Municipais de Manacapuru-AM).\nREGISTRE-SE, CIENTIFIQUE-SE E CUMPRA-SE.\nGABINETE DA PREFEITA, aos 11 dias do mês de abril de 2026.\nVALCILEIA FLORES MACIEL\nPrefeita Municipal de Manacapuru\nCiente:\n_______________________\nPublicado por:\nEvelyn Melo Campos\n",
+      "alertas": [
+        {
+          "codigo": "C6F01295",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Lei  nº  089  de  15  de  dezembro  de  2003  (Estatuto  dos  Servidores"
+        }
+      ],
+      "prova_documento": [
+        "PORTARIA Nº 545/2026 GP/PMM"
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Lei  nº  089  de  15  de  dezembro  de  2003  (Estatuto  dos  Servidores",
+          "offset_bloco": 726,
+          "trecho": "al estatutário deste\nPoder  Público  Municipal,  01  (um)  período  de  Licença  Prêmio,\npertinente ao quinquênio de: 15/04/2004 até 15/04/2009, com início\nem 18/05/2026 e término em 16/08/2026, nos termos do Art.125 da\nLei  nº  089  de  15  de  dezembro  de  2003  (Estatuto  dos  Servidores\nPúblicos Municipais de Manacapuru-AM).\nREGISTRE-SE, CIENTIFIQUE-SE E CUMPRA-SE.\nGABINETE DA PREFEITA, aos 11 dias do mês de abril de 2026.\nVALCILEIA FLORES MACIEL\nPrefeita Municipal de Manacapuru\nCiente:\n_______________"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nSECRETARIA MUNICIPAL DE ADMINISTRAÇÃO\nPORTARIA Nº 545/2026 GP/PMM\n–\nA     PREFEITA     MUNICIPAL     DE     MANACAPURU\nAMAZONAS, no uso de suas atribuições legais,\nCONSIDERANDO  o  disposto  no  Art.  125,  caput,  do  Estatuto  dos\nServidores Públicos Municipais,\nRESOLVE:\nCONCEDER a servidora, KEITIANE ANDRADE DINIZ, no cargo\nde  AUXILIAR  DE  SERVIÇOS  GERAIS,  nível  003,  referência\n―B‖, matrícula nº 777,\nlotada na Secretaria Municipal de Educação e\nCultura - SEMEC, pertencente ao quadro de pessoal estatutário deste\nPoder  Público  Municipal,  01  (um)  período  de  Licença  Prêmio,\npertinente ao quinquênio de: 15/04/2004 até 15/04/2009, com início\nem 18/05/2026 e término em 16/08/2026, nos termos do Art.125 da\nLei  nº  089  de  15  de  dezembro  de  2003  (Estatuto  dos  Servidores\nPúblicos Municipais de Manacapuru-AM).\nR"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "37A04E09",
+      "sha256_bloco": "d8ea04938bb5dc11d259227833033a7500c9a15489174cda00d74fe29a67ec16",
+      "municipio": "SÃO GABRIEL DA CACHOEIRA",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nCOMPANHIA HUMAITAENSE DE ÁGUA E SANEAMENTO\nBÁSICO\n–\nPORTARIA Nº. 52/2026    COHASB.\nHumaitá-AM, 04 de Março de 2026.\nDispõe da concessão de diária em Favor do Instalador\nde Bombas da Companhia Humaitaense de Águas e\nSaneamento Básico.\nO  Diretor  Presidente  da  Companhia  Humaitaense  de  Água  e\nSaneamento Básico-COHASB, no uso das atribuições que lhes são\nconferidas por lei.\nRESOLVE\nArt. 1º - DESIGNAR O Senhor FRANCISCO CHAGAS CORRÊA\nJUNIOR,  Instalador  de  Bombas,  as  Comunidades  do  Buiuçu  e\nCarará, para fazer a instalação de duas bombas submersas e fazer um\nlevantamento de uma perfuração de um novo poço artesiano.\nArt.  2º  -  CONCEDER  ao  servidor  supramencionado  05  (cinco)\ndiárias, para atender as necessidades de alimentação  e hospedagem,\nno valor unitário de R$ 80,00 (Oitenta reais), totalizando R$ 400,00(\nQuatrocentos reais).\n–\nData/hora    Saída: 04 de Março de 2026, às 18:00h.\n–\nData/hora    Retorno: 08 de Março de 2026, às 10:00h.\nArt. 3º - Esta portaria entra em vigor em 04 de Março de 2026.\nArt. 4º - Revogam-se as disposições em contrário.\nDÊ CIÊNCIA,\nPUBLIQUE-SE,\nCUMPRA-SE.\nRENAN CASTRO MAIA\nDiretor Presidente da COHASB\nDecreto nº 022/2025- GAB.PREF.\nANTON",
+      "alertas": [
+        {
+          "codigo": "37A04E09",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Decreto nº 022/2025- GAB.PREF."
+        }
+      ],
+      "prova_documento": [
+        "PORTARIA Nº. 52/2026    COHASB."
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Decreto nº 022/2025- GAB.PREF.",
+          "offset_bloco": 1164,
+          "trecho": "rço de 2026, às 10:00h.\nArt. 3º - Esta portaria entra em vigor em 04 de Março de 2026.\nArt. 4º - Revogam-se as disposições em contrário.\nDÊ CIÊNCIA,\nPUBLIQUE-SE,\nCUMPRA-SE.\nRENAN CASTRO MAIA\nDiretor Presidente da COHASB\nDecreto nº 022/2025- GAB.PREF.\nANTONIO LOBO LELO\nDiretor Administrativo e Financeiro\n–\nPortaria n°001/2025    COHASB.\nPublicado por:\nMozart Mendonça Campos\n"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nCOMPANHIA HUMAITAENSE DE ÁGUA E SANEAMENTO\nBÁSICO\n–\nPORTARIA Nº. 52/2026    COHASB.\nHumaitá-AM, 04 de Março de 2026.\nDispõe da concessão de diária em Favor do Instalador\nde Bombas da Companhia Humaitaense de Águas e\nSaneamento Básico.\nO  Diretor  Presidente  da  Companhia  Humaitaense  de  Água  e\nSaneamento Básico-COHASB, no uso das atribuições que lhes são\nconferidas por lei.\nRESOLVE\nArt. 1º - DESIGNAR O Senhor FRANCISCO CHAGAS CORRÊA\nJUNIOR,  Instalador  de  Bombas,  as  Comunidades  do  Buiuçu  e\nCarará, para fazer a instalação de duas bombas submersas e fazer um\nlevantamento de uma perfuração de um novo poço artesiano.\nArt.  2º  -  CONCEDER  ao  servidor  supramencionado  05  (cinco)\ndiárias, para atender as necessidades de alimentação  e hospedagem,\nno valor unitário de R$ 80,00 (Oitenta reais), totalizando R$ 400,00(\nQuatrocentos rea"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "76843A6E",
+      "sha256_bloco": "e2602eca2ab6f9948428d607be30a72c8a10c86280709c07b9ff2f791ed1c81f",
+      "municipio": "BARREIRINHA",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nCOMISSÃO MUNICIPAL DE CONTRATAÇÃO\nPORTARIA Nº 1127/2026– GPMB\nDESIGNAR       A       SERVIDORA       PÚBLICA\nMUNICIPAL   IANA   CRISTINE   SILVA   REIS,\nRESPONSÁVEL  PELO  ACOMPANHAMENTO  E\nFISCALIZAÇÃO  DO  CONTRATO  Nº  3704/2026-\nPMB      E      DÁ      OUTRAS      PROVIDENCIAS\nCABIVEIS.\nO   Sr.   DARLAN   TAVEIRA   PERES,   Prefeito   Municipal   de\nBarreirinha eleição legal, usando de atribuições que lhe são conferidas\npor Lei e etc.\nR E S O L V E:\nI   -   DESIGNAR   a   senhora   IANA   CRISTINE   SILVA   REIS,\nservidora     pública     municipal     da     Secretaria     Municipal     de\nAdministração  e  Planejamento  -  SEMAP,  sob nº  de  RG 2867760-9\nSSP/AM, e CPF nº 026.370.962-09 , exercendo o cargo Digitadora,\nresponsável  pelo  Acompanhamento  e  Fiscalização  do  TERMO  DE\nCONTRATO Nº 3704/2026-PMB, resultante do CHAMAMENTO\nPÚBLICO/CREDENCIAMENTO    N°002/2026-CMC/PMB,    da\nempresa      E      QUEIROZ      COSTA      TRANSPORTES      E\nNAVEGACAO   FLUVIAL   LTDA,CNPJ   nº   29.528.258/0001-\na―PRESTAÇÃO DE SERVIÇOS DE TRANSPORTES DE\n47,para\nPASSAGEIROS     E     CARGAS     VIA     FLUVIAL,     COM     A\nFINALIDADE     DE     ATENDER     AS     NECESSIDADES     E\nDE",
+      "alertas": [
+        {
+          "codigo": "76843A6E",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Decreto N°. 083, de 16 de Janeiro de 2026."
+        },
+        {
+          "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/AM/barreirinha/decretos/2026/decreto-316-2026-76843a6e.md",
+          "codigo": "76843A6E",
+          "erro": "retirada não normativa exige revisão explícita do bloco oficial"
+        }
+      ],
+      "prova_documento": [
+        "PORTARIA Nº 1127/2026– GPMB",
+        "CONTRATO Nº 3704/2026-PMB, resultante do CHAMAMENTO"
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Decreto N°. 083, de 16 de Janeiro de 2026.",
+          "offset_bloco": 1942,
+          "trecho": "SENTE  PORTARIA  NO  DIÁRIO  OFICIAL\nDOS MUNICÍPIOS DO ESTADO DO AMAZONAS, de acordo com\na Lei Municipal n° 110 de 19 de março de 2010.\nMARIA DO P.S. AGUILAR DA SILVA\nSecretaria Municipal de Administração e Planejamento\nDecreto N°. 083, de 16 de Janeiro de 2026.\nPublicado por:\nWenderson Dos Santos Pimentel\n"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nCOMISSÃO MUNICIPAL DE CONTRATAÇÃO\nPORTARIA Nº 1127/2026– GPMB\nDESIGNAR       A       SERVIDORA       PÚBLICA\nMUNICIPAL   IANA   CRISTINE   SILVA   REIS,\nRESPONSÁVEL  PELO  ACOMPANHAMENTO  E\nFISCALIZAÇÃO  DO  CONTRATO  Nº  3704/2026-\nPMB      E      DÁ      OUTRAS      PROVIDENCIAS\nCABIVEIS.\nO   Sr.   DARLAN   TAVEIRA   PERES,   Prefeito   Municipal   de\nBarreirinha eleição legal, usando de atribuições que lhe são conferidas\npor Lei e etc.\nR E S O L V E:\nI   -   DESIGNAR   a   senhora   IANA   CRISTINE   SILVA   REIS,\nservidora     pública     municipal     da     Secretaria     Municipal     de\nAdministração  e  Planejamento  -  SEMAP,  sob nº  de  RG 2867760-9\nSSP/AM, e CPF nº 026.370.962-09 , exercendo o cargo Digitadora,\nresponsável  pelo  Acompanhamento  e  Fiscalização  do  TERMO  DE\nCONTRATO Nº 3704/2026-PMB, resulta"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "5C61EE52",
+      "sha256_bloco": "2b58214b99e47fe1c4cedd9cd42b027548284a80368e19f3569aa91d86fbdfe6",
+      "municipio": "BARREIRINHA",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nCOMISSÃO MUNICIPAL DE CONTRATAÇÃO\nPORTARIA Nº 1128/2026– GPMB\nDESIGNAR       A       SERVIDORA       PÚBLICA\nMUNICIPAL   IANA   CRISTINE   SILVA   REIS,\nRESPONSÁVEL  PELO  ACOMPANHAMENTO  E\nFISCALIZAÇÃO  DO  CONTRATO  Nº  3705/2026-\nPMB      E      DÁ      OUTRAS      PROVIDENCIAS\nCABIVEIS.\nO   Sr.   DARLAN   TAVEIRA   PERES,   Prefeito   Municipal   de\nBarreirinha eleição legal, usando de atribuições que lhe são conferidas\npor Lei e etc.\nR E S O L V E:\nI   -   DESIGNAR   a   senhora   IANA   CRISTINE   SILVA   REIS,\nservidora     pública     municipal     da     Secretaria     Municipal     de\nAdministração  e  Planejamento  -  SEMAP,  sob nº  de  RG 2867760-9\nSSP/AM, e CPF nº 026.370.962-09 , exercendo o cargo Digitadora,\nresponsável  pelo  Acompanhamento  e  Fiscalização  do  TERMO  DE\nCONTRATO Nº 3705/2026-PMB, resultante do CHAMAMENTO\nPÚBLICO/CREDENCIAMENTO    N°002/2026-CMC/PMB,    da\n–\nempresa  C  M  DE  LIMA     ME,CNPJ  nº  23.209.185/0001-44,para\na―PRESTAÇÃO   DE   SERVIÇOS   DE   TRANSPORTES   DE\nPASSAGEIROS     E     CARGAS     VIA     FLUVIAL,     COM     A\nFINALIDADE     DE     ATENDER     AS     NECESSIDADES     E\nDEMANDAS        DA        PREFEITURA        MUNICIPA",
+      "alertas": [
+        {
+          "codigo": "5C61EE52",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Decreto N°. 083, de 16 de Janeiro de 2026."
+        }
+      ],
+      "prova_documento": [
+        "PORTARIA Nº 1128/2026– GPMB",
+        "CONTRATO Nº 3705/2026-PMB, resultante do CHAMAMENTO"
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Decreto N°. 083, de 16 de Janeiro de 2026.",
+          "offset_bloco": 1892,
+          "trecho": "SENTE  PORTARIA  NO  DIÁRIO  OFICIAL\nDOS MUNICÍPIOS DO ESTADO DO AMAZONAS, de acordo com\na Lei Municipal n° 110 de 19 de março de 2010.\nMARIA DO P.S. AGUILAR DA SILVA\nSecretaria Municipal de Administração e Planejamento\nDecreto N°. 083, de 16 de Janeiro de 2026.\nPublicado por:\nWenderson Dos Santos Pimentel\n"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nCOMISSÃO MUNICIPAL DE CONTRATAÇÃO\nPORTARIA Nº 1128/2026– GPMB\nDESIGNAR       A       SERVIDORA       PÚBLICA\nMUNICIPAL   IANA   CRISTINE   SILVA   REIS,\nRESPONSÁVEL  PELO  ACOMPANHAMENTO  E\nFISCALIZAÇÃO  DO  CONTRATO  Nº  3705/2026-\nPMB      E      DÁ      OUTRAS      PROVIDENCIAS\nCABIVEIS.\nO   Sr.   DARLAN   TAVEIRA   PERES,   Prefeito   Municipal   de\nBarreirinha eleição legal, usando de atribuições que lhe são conferidas\npor Lei e etc.\nR E S O L V E:\nI   -   DESIGNAR   a   senhora   IANA   CRISTINE   SILVA   REIS,\nservidora     pública     municipal     da     Secretaria     Municipal     de\nAdministração  e  Planejamento  -  SEMAP,  sob nº  de  RG 2867760-9\nSSP/AM, e CPF nº 026.370.962-09 , exercendo o cargo Digitadora,\nresponsável  pelo  Acompanhamento  e  Fiscalização  do  TERMO  DE\nCONTRATO Nº 3705/2026-PMB, resulta"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "0476F1C4",
+      "sha256_bloco": "c1d20d1898c10374b5ee34a06822cbdeb9b4ed079fd1f47dd2153ed228e5b1fb",
+      "municipio": "PARINTINS",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nCÂMARA MUNICIPAL DE PARINTINS\nEXTRATO DO TERMO DE HOMOLOGAÇÃO\nPROCESSO  ADMINISTRATIVO  LICITATÓRIO  Nº  010/2026-\nCL/CMP\nPREGÃO ELETRÔNICO Nº 004/2026-CL/CMP\nApós   constatada   a   regularidade   dos   atos   procedimentais,   o(a)\nPRESIDENTE, HOMOLOGA nos termos do Inciso IV do Art. 71 da\nLei  nº  14.133/2021,  o  resultado  do  procedimento  licitatório  em\n―CONTRATAÇÃO  DE SERVIÇOS DE\nepígrafe,  cujo  objeto  é:\nACESSO  À  INTERNET  E  COMUNICAÇÃO  MULTIMÍDIA,\nESTRUTURADOS  EM  DOIS  LOTES:  LOTE  1  -  INTERNET\nFIXA  VIA  FIBRA  ÓPTICA  (LINK  DEDICADO)  E  LOTE  2  -\nINTERNET     VIA     SATÉLITE     LEO     (STARLINK     OU\nSIMILAR/SUPERIOR),  VISANDO  SUPRIR  A  NECESSIDADE\nDA CÂMARA MUNICIPAL DE PARINTINS‖.\n–\nFornecedor:   M   C   RODRIGUES   JUNIOR   LTDA       CNPJ:\n10.650.757/0001-84, vencedor dos LOTES 1, 2 totalizando o Valor\nGlobal de R$ 24.799,92 (Vinte e quatro mil, setecentos e noventa e\nnove reais e noventa e dois centavos.).\nHOMOLOGO o presente certame, para produzir os seus jurídicos e\nlegais efeitos.\nParintins/AM, 08 de maio de 2026.\n\f\nPAULO CÉSAR RODRIGUES LINHARES\nPresidente da Câmara Municipal de Parintins\nPublicado por:\nAdailson Campos Pereira\n",
+      "alertas": [
+        {
+          "codigo": "0476F1C4",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Lei  nº  14.133/2021,  o  resultado  do  procedimento  licitatório  em"
+        }
+      ],
+      "prova_documento": [
+        "EXTRATO DO TERMO DE HOMOLOGAÇÃO"
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Lei  nº  14.133/2021,  o  resultado  do  procedimento  licitatório  em",
+          "offset_bloco": 294,
+          "trecho": "DMINISTRATIVO  LICITATÓRIO  Nº  010/2026-\nCL/CMP\nPREGÃO ELETRÔNICO Nº 004/2026-CL/CMP\nApós   constatada   a   regularidade   dos   atos   procedimentais,   o(a)\nPRESIDENTE, HOMOLOGA nos termos do Inciso IV do Art. 71 da\nLei  nº  14.133/2021,  o  resultado  do  procedimento  licitatório  em\n―CONTRATAÇÃO  DE SERVIÇOS DE\nepígrafe,  cujo  objeto  é:\nACESSO  À  INTERNET  E  COMUNICAÇÃO  MULTIMÍDIA,\nESTRUTURADOS  EM  DOIS  LOTES:  LOTE  1  -  INTERNET\nFIXA  VIA  FIBRA  ÓPTICA  (LINK  DEDICADO)  E  LOTE  2  -\nIN"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nCÂMARA MUNICIPAL DE PARINTINS\nEXTRATO DO TERMO DE HOMOLOGAÇÃO\nPROCESSO  ADMINISTRATIVO  LICITATÓRIO  Nº  010/2026-\nCL/CMP\nPREGÃO ELETRÔNICO Nº 004/2026-CL/CMP\nApós   constatada   a   regularidade   dos   atos   procedimentais,   o(a)\nPRESIDENTE, HOMOLOGA nos termos do Inciso IV do Art. 71 da\nLei  nº  14.133/2021,  o  resultado  do  procedimento  licitatório  em\n―CONTRATAÇÃO  DE SERVIÇOS DE\nepígrafe,  cujo  objeto  é:\nACESSO  À  INTERNET  E  COMUNICAÇÃO  MULTIMÍDIA,\nESTRUTURADOS  EM  DOIS  LOTES:  LOTE  1  -  INTERNET\nFIXA  VIA  FIBRA  ÓPTICA  (LINK  DEDICADO)  E  LOTE  2  -\nINTERNET     VIA     SATÉLITE     LEO     (STARLINK     OU\nSIMILAR/SUPERIOR),  VISANDO  SUPRIR  A  NECESSIDADE\nDA CÂMARA MUNICIPAL DE PARINTINS‖.\n–\nFornecedor:   M   C   RODRIGUES   JUNIOR   LTDA       CNPJ:\n10.650.757/0001-84, vencedor dos LOTES 1,"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "84DA27D1",
+      "sha256_bloco": "820b9f0b85165e08e97fd2a1b60ebdde294aba8084951efa3e5369deedb4fd61",
+      "municipio": "MANACAPURU",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nSECRETARIA MUNICIPAL DE ADMINISTRAÇÃO\nPORTARIA Nº 001 DE 08 DE MAIO DE 2026.\nDISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO\nORGANIZADORA   DO    CONCURSO    \"MINHA\nRUA    NA    COPA    2026\"    E    DÁ    OUTRAS\nPROVIDÊNCIAS.\nO      SECRETÁRIO      MUNICIPAL      DE      TURISMO      DE\nMANACAPURU,   no   uso   de   suas   atribuições   legais   e   em\nconformidade  com  os  princípios  estabelecidos  na  Lei  Orgânica  de\nManacapuru,\nCONSIDERANDO    a    necessidade    de    promover    a    integração\ncomunitária  e  o  fomento  ao  turismo  local  por  meio  do  Concurso\n\"Minha Rua na Copa 2026\";\nCONSIDERANDO  a  importância  de  garantir  a  transparência,  a\nimpessoalidade e a lisura em todas as etapas do certame;\nRESOLVE:\nArt.  1º.  Fica  constituída  a  Comissão  Organizadora  do  Concurso\n\"Minha  Rua  na  Copa  2026\",  que  será  composta  pelos  seguintes\nmembros:\nI - Alexandre Ferreira de Queiroz - Presidente;\nII - Júlio Gomes Serrão - Membro;\nIII - Pedro Monteiro da Silva - Membro;\nIV - Willem Matos da Silva - Membro;\n–\nV    Dayane Cosmo de Souza - Membro;\n–\nVI    Francisco José Carvalho dos Santos - Membro.\nArt. 2º. Compete à Comissão ora nomeada:\nI   -   Coordenar   o   processo",
+      "alertas": [
+        {
+          "codigo": "84DA27D1",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Decreto Nº 083 de 02 de Janeiro de 2025"
+        }
+      ],
+      "prova_documento": [
+        "PORTARIA Nº 001 DE 08 DE MAIO DE 2026."
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Decreto Nº 083 de 02 de Janeiro de 2025",
+          "offset_bloco": 2014,
+          "trecho": "os representantes inscritos.\nArt. 4º. Esta Portaria entra em vigor na data de sua publicação.\nGabinete do Secretário Municipal de Turismo, 08 de maio de 2026.\nALEXANDRE FERREIRA DE QUEROZ\nSecretário Municipal de Turismo\nDecreto Nº 083 de 02 de Janeiro de 2025\nPublicado por:\nEvelyn Melo Campos\n"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nSECRETARIA MUNICIPAL DE ADMINISTRAÇÃO\nPORTARIA Nº 001 DE 08 DE MAIO DE 2026.\nDISPÕE SOBRE A NOMEAÇÃO DA COMISSÃO\nORGANIZADORA   DO    CONCURSO    \"MINHA\nRUA    NA    COPA    2026\"    E    DÁ    OUTRAS\nPROVIDÊNCIAS.\nO      SECRETÁRIO      MUNICIPAL      DE      TURISMO      DE\nMANACAPURU,   no   uso   de   suas   atribuições   legais   e   em\nconformidade  com  os  princípios  estabelecidos  na  Lei  Orgânica  de\nManacapuru,\nCONSIDERANDO    a    necessidade    de    promover    a    integração\ncomunitária  e  o  fomento  ao  turismo  local  por  meio  do  Concurso\n\"Minha Rua na Copa 2026\";\nCONSIDERANDO  a  importância  de  garantir  a  transparência,  a\nimpessoalidade e a lisura em todas as etapas do certame;\nRESOLVE:\nArt.  1º.  Fica  constituída  a  Comissão  Organizadora  do  Concurso\n\"Minha  Rua  na  Copa  2026\",  que  será "
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "A5DD2A4C",
+      "sha256_bloco": "e199b193e95464a9427df16e10b39d1b512fc558c50d91b1e25cc6d779c5a535",
+      "municipio": "PARINTINS",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nSECRETARIA MUNICIPAL DE EDUCAÇÃO\nPORTARIA Nº 213/2026-SEMED, COMISSÃO GESTORA DO\nPLANO MUNICIPAL DE EDUCAÇÃO (PME)\nPORTARIA Nº 213/2026-SEMED\nDispõe sobre a nomeação de representantes do Fórum\nMunicipal de Educação de Parintins, da Secretaria de\n–\nEstado   de   Educação        SEDUC,   do   Conselho\nMunicipal de Educação, da Comissão de Educação da\nCâmara  Municipal  de  Vereadores  e  da  Secretaria\nMunicipal de Educação, para comporem a Comissão\n–\nGestora  do  Plano  Municipal  de  Educação      PME\n2026-2036, e dá outras providências.\nA Cidadã GIZELLE BATISTA SOARES, Secretária Municipal de\nEducação de Parintins, no uso das atribuições que lhes são conferidas\n–\npelo Decreto no 031/2025    PGMP, e pelo artigo 76, inciso II, da Lei\nOrgânica Municipal.\nCONSIDERANDO  as  diretrizes  estabelecidas  pela  Lei  Federal  n.\n13.005,  de  25  de  junho  de  2014,  que  institui  o  Plano  Nacional  de\n–\nEducação    PNE, bem como nas orientações dos órgãos competentes\nquanto à necessidade de constituição de instâncias responsáveis pela\ncoordenação,   acompanhamento    e   articulação   do   processo    de\nelaboração dos planos educacionais;\nCONSIDERANDO a plena vigência das diretrizes est",
+      "alertas": [
+        {
+          "codigo": "A5DD2A4C",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Decreto no 031/2025    PGMP"
+        }
+      ],
+      "prova_documento": [
+        "PORTARIA Nº 213/2026-SEMED, COMISSÃO GESTORA DO",
+        "PORTARIA Nº 213/2026-SEMED"
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Decreto no 031/2025    PGMP",
+          "offset_bloco": 679,
+          "trecho": "ora  do  Plano  Municipal  de  Educação      PME\n2026-2036, e dá outras providências.\nA Cidadã GIZELLE BATISTA SOARES, Secretária Municipal de\nEducação de Parintins, no uso das atribuições que lhes são conferidas\n–\npelo Decreto no 031/2025    PGMP, e pelo artigo 76, inciso II, da Lei\nOrgânica Municipal.\nCONSIDERANDO  as  diretrizes  estabelecidas  pela  Lei  Federal  n.\n13.005,  de  25  de  junho  de  2014,  que  institui  o  Plano  Nacional  de\n–\nEducação    PNE"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nSECRETARIA MUNICIPAL DE EDUCAÇÃO\nPORTARIA Nº 213/2026-SEMED, COMISSÃO GESTORA DO\nPLANO MUNICIPAL DE EDUCAÇÃO (PME)\nPORTARIA Nº 213/2026-SEMED\nDispõe sobre a nomeação de representantes do Fórum\nMunicipal de Educação de Parintins, da Secretaria de\n–\nEstado   de   Educação        SEDUC,   do   Conselho\nMunicipal de Educação, da Comissão de Educação da\nCâmara  Municipal  de  Vereadores  e  da  Secretaria\nMunicipal de Educação, para comporem a Comissão\n–\nGestora  do  Plano  Municipal  de  Educação      PME\n2026-2036, e dá outras providências.\nA Cidadã GIZELLE BATISTA SOARES, Secretária Municipal de\nEducação de Parintins, no uso das atribuições que lhes são conferidas\n–\npelo Decreto no 031/2025    PGMP, e pelo artigo 76, inciso II, da Lei\nOrgânica Municipal.\nCONSIDERANDO  as  diretrizes  estabelecidas  pela  Lei  Federal  n.\n13"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "1C49CFD6",
+      "sha256_bloco": "de3d242447860e301ee89a86d6906e998188efbbce93b3bb3e4680b05dc6b79d",
+      "municipio": "SÃO GABRIEL DA CACHOEIRA",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nCOMPANHIA HUMAITAENSE DE ÁGUA E SANEAMENTO\nBÁSICO\n–\nPORTARIA Nº. 059/2026    COHASB.\nHumaitá-AM, 04 de Março de 2026.\nDispõe da concessão de diárias em Favor do Assessor\nAdministrativo  da  Cia.  Humaitaense  de  Águas  e\nSaneamento Básico.\nO  Diretor  Presidente  da  Companhia  Humaitaense  de  Água  e\nSaneamento Básico-COHASB, no uso das atribuições que lhes são\nconferidas por lei.\nRESOLVE\nArt. 1º - DESIGNAR o Senhor Edvaldo do Espirito Santo Ferreira\nda   Mota,   Assessor   Administrativo   da   Cohasb,   com   destino   a\nComunidade da Ilha do Tambaqui, para fazer o trabalho de extensão\nde rede hidráulica, para levar uma água de qualidade para as pessoas\nque ali moram.\nArt.  2º  -  CONCEDER  ao  servidor  supramencionado  Quatro  (04)\ndiárias   no   valor   de   R$80,00(oitenta   reais),   para   atender   as\nnecessidades   de   alimentação   e   pousada,   totalizando   R$   320,00\n(Trezentos e vinte reais).\n–\nData/hora    Saída: 04 de Março de 2026, às 18:00h.\n–\nData/hora    Retorno: 07 de Março de 2026, às 07:00h.\nArt. 3º - Esta portaria entra em vigor em 04 de Março de 2026.\nArt. 4º - Revogam-se as disposições em contrário.\nDÊ CIÊNCIA,\nPUBLIQUE-SE,\nCUMPRA-SE.\nRENAN CASTRO ",
+      "alertas": [
+        {
+          "codigo": "1C49CFD6",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Decreto nº 022/2025    GAB.PREF."
+        }
+      ],
+      "prova_documento": [
+        "PORTARIA Nº. 059/2026    COHASB."
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Decreto nº 022/2025    GAB.PREF.",
+          "offset_bloco": 1236,
+          "trecho": "o de 2026, às 07:00h.\nArt. 3º - Esta portaria entra em vigor em 04 de Março de 2026.\nArt. 4º - Revogam-se as disposições em contrário.\nDÊ CIÊNCIA,\nPUBLIQUE-SE,\nCUMPRA-SE.\nRENAN CASTRO MAIA\nDiretor Presidente da COHASB\n–\nDecreto nº 022/2025    GAB.PREF.\nANTONIO LOBO LELO\nDiretor Administrativo e Financeiro\n–\nPortaria nº 001/2025    COHASB.\nPublicado por:\nMozart Mendonça Campos\n"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nCOMPANHIA HUMAITAENSE DE ÁGUA E SANEAMENTO\nBÁSICO\n–\nPORTARIA Nº. 059/2026    COHASB.\nHumaitá-AM, 04 de Março de 2026.\nDispõe da concessão de diárias em Favor do Assessor\nAdministrativo  da  Cia.  Humaitaense  de  Águas  e\nSaneamento Básico.\nO  Diretor  Presidente  da  Companhia  Humaitaense  de  Água  e\nSaneamento Básico-COHASB, no uso das atribuições que lhes são\nconferidas por lei.\nRESOLVE\nArt. 1º - DESIGNAR o Senhor Edvaldo do Espirito Santo Ferreira\nda   Mota,   Assessor   Administrativo   da   Cohasb,   com   destino   a\nComunidade da Ilha do Tambaqui, para fazer o trabalho de extensão\nde rede hidráulica, para levar uma água de qualidade para as pessoas\nque ali moram.\nArt.  2º  -  CONCEDER  ao  servidor  supramencionado  Quatro  (04)\ndiárias   no   valor   de   R$80,00(oitenta   reais),   para   atender   as\nnecessidades   de   aliment"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "221457FE",
+      "sha256_bloco": "ccf668c9f66d27aacb058a7f76d5d626181b14e64e453128e364e0ad3916ef5b",
+      "municipio": "MAUÉS",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nSERVIÇO AUTONOMO DE AGUA E ESGOTO\n–\nPORTARIA Nº 019, DE 06 DE MAIO DE 2026    SAAE/MAUÉS\nO   DIRETOR   DO   SERVIÇO   AUTÔNOMO   DE   ÁGUA   E\n–\nESGOTO  DE  MAUÉS     SAAE,  no  exercício  de  suas  atribuições\nlegais que lhe são conferidas;\nCONSIDERANDO o disposto na Lei Ordinária nº 469, de 16 janeiro\nde 2025;\nCONSIDERANDO   que   os   cargos   em   comissão   e   funções   de\nconfiança de direção, chefia e assessoramento, são de livre nomeação\ne exoneração pelo Diretor do Serviço Autônomo de Água e Esgoto de\n–\nMaués    SAAE;\nRESOLVE:\nArt. 1º - NOMEAR, o Senhor NICK DOS SANTOS NEGREIROS,\npara o Cargo Comissionado de Assessor  de Serviços Municipais  -\nFiscalização - CC-5, setor vinculado a esta autarquia, a contar de 06\nde maio de 2026.\nCIENTIFIQUE-SE, REGISTRE-SE E PUBLIQUE-SE.\nGABINETE DO DIRETOR DO SAAE/MAUÉS, EM 06 DE MAIO\nDE 2026.\nPUBLICADA    A    PRESENTE    PORTARIA    NO    DIÁRIO\nOFICIAL  DOS  MUNICÍPIOS  DO  ESTADO  DO  AMAZONAS,\nde acordo com a Lei Municipal nº 177, de 26/10/2009 e por afixação\nem local próprio e de acesso público, na sede desta Autarquia.\nCRISTIANO FIGUEIREDO SAID\nDiretor do SAAE/Maués\nDecreto Nº 022/2025-PMM\nPublicado por:\nBruno Ribeiro Caldas\n",
+      "alertas": [
+        {
+          "codigo": "221457FE",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Decreto Nº 022/2025-PMM"
+        }
+      ],
+      "prova_documento": [
+        "PORTARIA Nº 019, DE 06 DE MAIO DE 2026    SAAE/MAUÉS"
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Decreto Nº 022/2025-PMM",
+          "offset_bloco": 1136,
+          "trecho": "OS  MUNICÍPIOS  DO  ESTADO  DO  AMAZONAS,\nde acordo com a Lei Municipal nº 177, de 26/10/2009 e por afixação\nem local próprio e de acesso público, na sede desta Autarquia.\nCRISTIANO FIGUEIREDO SAID\nDiretor do SAAE/Maués\nDecreto Nº 022/2025-PMM\nPublicado por:\nBruno Ribeiro Caldas\n"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nSERVIÇO AUTONOMO DE AGUA E ESGOTO\n–\nPORTARIA Nº 019, DE 06 DE MAIO DE 2026    SAAE/MAUÉS\nO   DIRETOR   DO   SERVIÇO   AUTÔNOMO   DE   ÁGUA   E\n–\nESGOTO  DE  MAUÉS     SAAE,  no  exercício  de  suas  atribuições\nlegais que lhe são conferidas;\nCONSIDERANDO o disposto na Lei Ordinária nº 469, de 16 janeiro\nde 2025;\nCONSIDERANDO   que   os   cargos   em   comissão   e   funções   de\nconfiança de direção, chefia e assessoramento, são de livre nomeação\ne exoneração pelo Diretor do Serviço Autônomo de Água e Esgoto de\n–\nMaués    SAAE;\nRESOLVE:\nArt. 1º - NOMEAR, o Senhor NICK DOS SANTOS NEGREIROS,\npara o Cargo Comissionado de Assessor  de Serviços Municipais  -\nFiscalização - CC-5, setor vinculado a esta autarquia, a contar de 06\nde maio de 2026.\nCIENTIFIQUE-SE, REGISTRE-SE E PUBLIQUE-SE.\nGABINETE DO DIRETOR DO SAAE/MAUÉS, EM 06 DE "
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "008D7934",
+      "sha256_bloco": "d2546ceda77174f18213a9585492aae1692c1874235a49f3cdcd499c56a134dd",
+      "municipio": "BARREIRINHA",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nCOMISSÃO MUNICIPAL DE CONTRATAÇÃO\nPORTARIA Nº 1126/2026– GPMB.\nDESIGNAR       A       SERVIDORA       PÚBLICA\nMUNICIPAL   IANA   CRISTINE   SILVA   REIS,\nRESPONSÁVEL  PELO  ACOMPANHAMENTO  E\nFISCALIZAÇÃO  DO  CONTRATO  Nº  3703/2026-\nPMB      E      DÁ      OUTRAS      PROVIDENCIAS\nCABIVEIS.\nO   Sr.   DARLAN   TAVEIRA   PERES,   Prefeito   Municipal   de\nBarreirinha eleição legal, usando de atribuições que lhe são conferidas\npor Lei e etc.\nR E S O L V E:\nI   -   DESIGNAR   a   senhora   IANA   CRISTINE   SILVA   REIS,\nservidora     pública     municipal     da     Secretaria     Municipal     de\nAdministração  e  Planejamento  -  SEMAP,  sob nº  de  RG 2867760-9\nSSP/AM, e CPF nº 026.370.962-09 , exercendo o cargo Digitadora,\nresponsável  pelo  Acompanhamento  e  Fiscalização  do  TERMO  DE\nCONTRATO Nº 3703/2026-PMB, resultante do CHAMAMENTO\nPÚBLICO/CREDENCIAMENTO    N°002/2026-CMC/PMB,    da\nempresa    A    L    R    DE    ARAUJO    TRANSPORTES    POR\nNAVEGACAO     DE     PASSAGEIROS     LTDA,     CNPJ     nº\npara  a  ―PRESTAÇÃO  DE  SERVIÇOS  DE\n35.469.893/0001-01,\nTRANSPORTES DE PASSAGEIROS E CARGAS VIA FLUVIAL,\nCOM  A  FINALIDADE  DE  ATENDER  AS  NECESSIDADES  E\nDEMANDAS      ",
+      "alertas": [
+        {
+          "codigo": "008D7934",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Decreto N°. 083, de 16 de Janeiro de 2026."
+        }
+      ],
+      "prova_documento": [
+        "PORTARIA Nº 1126/2026– GPMB.",
+        "CONTRATO Nº 3703/2026-PMB, resultante do CHAMAMENTO"
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Decreto N°. 083, de 16 de Janeiro de 2026.",
+          "offset_bloco": 1934,
+          "trecho": "NTE  PORTARIA  NO  DIÁRIO  OFICIAL\nDOS MUNICÍPIOS DO ESTADO DO AMAZONAS, de acordo com\na Lei Municipal n° 110 de 19 de março de 2010.\n\f\nMARIA DO P.S. AGUILAR DA SILVA\nSecretaria Municipal de Administração e Planejamento\nDecreto N°. 083, de 16 de Janeiro de 2026.\nPublicado por:\nWenderson Dos Santos Pimentel\n"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nCOMISSÃO MUNICIPAL DE CONTRATAÇÃO\nPORTARIA Nº 1126/2026– GPMB.\nDESIGNAR       A       SERVIDORA       PÚBLICA\nMUNICIPAL   IANA   CRISTINE   SILVA   REIS,\nRESPONSÁVEL  PELO  ACOMPANHAMENTO  E\nFISCALIZAÇÃO  DO  CONTRATO  Nº  3703/2026-\nPMB      E      DÁ      OUTRAS      PROVIDENCIAS\nCABIVEIS.\nO   Sr.   DARLAN   TAVEIRA   PERES,   Prefeito   Municipal   de\nBarreirinha eleição legal, usando de atribuições que lhe são conferidas\npor Lei e etc.\nR E S O L V E:\nI   -   DESIGNAR   a   senhora   IANA   CRISTINE   SILVA   REIS,\nservidora     pública     municipal     da     Secretaria     Municipal     de\nAdministração  e  Planejamento  -  SEMAP,  sob nº  de  RG 2867760-9\nSSP/AM, e CPF nº 026.370.962-09 , exercendo o cargo Digitadora,\nresponsável  pelo  Acompanhamento  e  Fiscalização  do  TERMO  DE\nCONTRATO Nº 3703/2026-PMB, result"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "B8DF4BCF",
+      "sha256_bloco": "9327dcf4b88cd71d55837f15344887ed4d1dcefb592de5cef6d7c375d86fb405",
+      "municipio": "SÃO GABRIEL DA CACHOEIRA",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nESTADO DO AMAZONAS\nCOMPANHIA DE ÁGUA E SANEAMENTO BÁSICO DE\nHUMAITÁ\nCOMPANHIA HUMAITAENSE DE ÁGUA E SANEAMENTO\nBÁSICO\n–\nPORTARIA Nº. 045/2026    COHASB.\nHumaitá-AM, 20 de Março de 2026.\nDISPÕE DA CONCESSÃO DE ADIANTAMENTO,\nPOR  MEIO  DE  SUPRIMENTO  INDIVIDUAL  DE\nFUNDOS   DO   SERVIDOR   EBER   CORDEIRO\nAGUIAR E DÁ OUTRAS PROVIDÊNCIAS.\nO    Senhor    RENAN    CASTRO    MAIA,    Diretor-Presidente    da\nCompanhia Humaitaense de Água e Saneamento Básico, no uso das\natribuições que lhe são conferidas pela Lei Orgânica do Município;\nConsiderando   ainda,   a   necessidade   de   atender   dispêndios   não\nprevisíveis   da  Companhia   Humaitaense  de  Água  e   Saneamento\nBásico, tendo virtude de despesas que ocorrem de forma emergencial.\nRESOLVE\nArt. 1º - CONCEDER suprimento de Fundos, para atender despesas\nde  pronto  pagamento,  em  favor  do  servidor  EBER  CORDEIRO\nAGUIAR, matricula 52, lotado na Companhia Humaitaense de Água\ne Saneamento Básico, no valor de R$ 8.800,00 ( Oito Mil e oitocentos\nreais),   para   custear   despesas   emergenciais   e   não   previstas   da\nCompanhia Humaitaense de Água e Saneamento Básico.\nArt. 2º - A prestação de contas do presente adiantamento d",
+      "alertas": [
+        {
+          "codigo": "B8DF4BCF",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Decreto nº 022/2025    GAB.PREF."
+        }
+      ],
+      "prova_documento": [
+        "PORTARIA Nº. 045/2026    COHASB."
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Decreto nº 022/2025    GAB.PREF.",
+          "offset_bloco": 1478,
+          "trecho": "os do pagamento do\nsuprimento.\nArt. 3º - Este ato entra em vigor na data de sua publicação, revoguem-\nse as disposições em contrário.\nDÊ CIÊNCIA, PUBLIQUE-SE e CUMPRA-SE\nRENAN CASTRO MAIA\nDiretor Presidente da  COHASB\n–\nDecreto nº 022/2025    GAB.PREF.\nANTONIO LOBO LELO\nDiretor Administrativo Financeiro da COHASB\n–\nPortaria nº 001/2025    COHASB.\n\f\nPublicado por:\nMozart Mendonça Campos\n"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "OMPANHIA DE ÁGUA E SANEAMENTO BÁSICO DE\nHUMAITÁ\nCOMPANHIA HUMAITAENSE DE ÁGUA E SANEAMENTO\nBÁSICO\n–\nPORTARIA Nº. 045/2026    COHASB.\nHumaitá-AM, 20 de Março de 2026.\nDISPÕE DA CONCESSÃO DE ADIANTAMENTO,\nPOR  MEIO  DE  SUPRIMENTO  INDIVIDUAL  DE\nFUNDOS   DO   SERVIDOR   EBER   CORDEIRO\nAGUIAR E DÁ OUTRAS PROVIDÊNCIAS.\nO    Senhor    RENAN    CASTRO    MAIA,    Diretor-Presidente    da\nCompanhia Humaitaense de Água e Saneamento Básico, no uso das\natribuições que lhe são conferidas pela Lei Orgânica do Município;\nConsiderando   ainda,   a   necessidade   de   atender   dispêndios   não\nprevisíveis   da  Companhia   Humaitaense  de  Água  e   Saneamento\nBásico, tendo virtude de despesas que ocorrem de forma emergencial.\nRESOLVE\nArt. 1º - CONCEDER suprimento de Fundos, para atender despesas\nde  pronto  pagamento,  em  favor  do  servidor  EBER  CORDEIRO\nAGUIAR, matricula 52, lotado na Companh"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "BC7CA214",
+      "sha256_bloco": "8810c2041cbfe30e14e1ef799e9253d1b4a8381fe8ab12a0857eff28471d2d0b",
+      "municipio": "LÁBREA",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nGABINETE DO PREFEITO\nPORTARIA Nº 220/2026\n–\nPORTARIA Nº 220/2026    GPL Lábrea/ Am., 04 de maio de 2026.\nO    SENHOR    GERLANDO    LOPES    DO    NASCIMENTO,\nPREFEITO  MUNICIPAL  DE  LÁBREA,  NO  USO  DE  SUAS\nATRIBUIÇÕES LEGAIS, PREVISTA NA LEI ORGÂNICA DO\nMUNICÍPIO, ETC...\nCONSIDERANDO  que  ao  Governo  Municipal,  compete  zelar  e\nprover tudo que diz respeito ao interesse público;\nCONSIDERANDO ainda que é de competência exclusiva do Prefeito\nMunicipal,  as  Leis  e  Atos  que  disciplinam  e  normatizam  seus\ntrabalhos, previsto na Lei Orgânica do Município.\nCONSIDERANDO   a   nomeação   ou   contratação   necessária   à\ninstalação   ou   ao   funcionamento   inadiável   de   serviços   públicos\nessenciais,  com  prévia  e  expressa  autorização  do  Chefe  do  Poder\nExecutivo,\nCONSIDERANDO   os   ditames   do   Artigo   37º   Inciso   IX,   da\nConstituição Federal - A Lei estabelecerá os casos de contratação por\ntempo   determinado   para   atender   a   necessidade   temporária   de\nexcepcional interesse do serviço público e, Oficio nº 404 e 413/2026-\nSEMED.\nR E S O L V E\nArt.   1º   -   Conceder   as   servidoras   infra   relacionadas,   Licença\nMaternidade,   180   dias",
+      "alertas": [
+        {
+          "codigo": "BC7CA214",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Lei nº 12.812 de 2013, art. 392, § 4º, ambos da Constituição Federal,"
+        }
+      ],
+      "prova_documento": [
+        "PORTARIA Nº 220/2026",
+        "PORTARIA Nº 220/2026    GPL Lábrea/ Am., 04 de maio de 2026."
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Lei nº 12.812 de 2013, art. 392, § 4º, ambos da Constituição Federal,",
+          "offset_bloco": 1393,
+          "trecho": "a\nMaternidade,   180   dias,   em   conformidade   com   as   Leis   nº\n11.770/2008  e  6.202  de  17/04/1975,  e  em  cumprimento  ao  art.  10,\ninciso II, alínea B do ADCT e art. 7º, inciso XVIII c/c o Art. 39 § 3º, e\nLei nº 12.812 de 2013, art. 392, § 4º, ambos da Constituição Federal,\npelas considerações acima expostas:\nSECRETARIA MUNICIPAL DE EDUCAÇÃO - FUNDEB\nNº                        UNIDADE      DE\nSERVIDORAS              FUNÇÃO                      MAT     PERIODO\nORD                        CUST"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nGABINETE DO PREFEITO\nPORTARIA Nº 220/2026\n–\nPORTARIA Nº 220/2026    GPL Lábrea/ Am., 04 de maio de 2026.\nO    SENHOR    GERLANDO    LOPES    DO    NASCIMENTO,\nPREFEITO  MUNICIPAL  DE  LÁBREA,  NO  USO  DE  SUAS\nATRIBUIÇÕES LEGAIS, PREVISTA NA LEI ORGÂNICA DO\nMUNICÍPIO, ETC...\nCONSIDERANDO  que  ao  Governo  Municipal,  compete  zelar  e\nprover tudo que diz respeito ao interesse público;\nCONSIDERANDO ainda que é de competência exclusiva do Prefeito\nMunicipal,  as  Leis  e  Atos  que  disciplinam  e  normatizam  seus\ntrabalhos, previsto na Lei Orgânica do Município.\nCONSIDERANDO   a   nomeação   ou   contratação   necessária   à\ninstalação   ou   ao   funcionamento   inadiável   de   serviços   públicos\nessenciais,  com  prévia  e  expressa  autorização  do  Chefe  do  Poder\nExecutivo,\nCONSIDERANDO   os   ditame"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "A1B069DB",
+      "sha256_bloco": "e73705bf82fbbf5fb66a73a522241822d1d51d65a3d0daf78ae53dd6997500c2",
+      "municipio": "BORBA",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nESTADO DO AMAZONAS\nMUNICÍPIO DE BORBA\nCOMISSÃO PERMANENTE DE LICITAÇÃO\nAVISO DE LICITAÇÃO PREGÃO ELETRÔNICO Nº 006/2026\n- SRP Nº 007/2026\nO  MUNICÍPIO  DE  BORBA/AM,  torna  público  através  da  sua\nComissão Permanente de Licitação - CPL, que realizará licitação na\nmodalidade: Pregão Eletrônico Nº 006/2026 - SRP 007/2026\nOBJETO: Sistema de Registro de Preço para contratação de empresa\nespecializada    para    a    prestação    de    serviços    funerários,    com\nfornecimento  de  urnas  mortuárias,  preparação  e  conservação  de\ncorpos, ornamentação e demais serviços correlatos, visando atender às\nnecessidades  das  famílias  em  situação  de  vulnerabilidade  social  no\nMunicípio   de   Borba/AM,   conforme   condições,   quantidades   e\nexigências estabelecidas neste Termo de Referência.\nDATA DA SESSÃO PÚBLICA: Dia 26 de Maio de 2026, às 10:30\n(horário de Brasília)\nCRITÉRIO DE JULGAMENTO: MENOR PREÇO\nMODO DE DISPUTA: ABERTO\nLOCAL: Portal Licitanet (https://licitanet.com.br/)\nOBTENÇÃO   DO   EDITAL:   O   edital   poderá   ser   adquirido\nnosseguintes      endereços      eletrônicos:      Portal      Nacional      de\nComprasPúblicas    (PNCP    -    https://www.gov.br/pncp/pt-",
+      "alertas": [
+        {
+          "codigo": "A1B069DB",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Decreto nº 025/2025, de 03 de Janeiro de 2025"
+        }
+      ],
+      "prova_documento": [
+        "AVISO DE LICITAÇÃO PREGÃO ELETRÔNICO Nº 006/2026"
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Decreto nº 025/2025, de 03 de Janeiro de 2025",
+          "offset_bloco": 1507,
+          "trecho": "ejamentoborba@gmail.com\nPublique-se. Registre-se. Cumpra-se\nBorba, Am 12 de Maio de 2026\nNAYANDREA ROSARIO DE SOUZA\nAgente de Contratação/Pregoeira\n–\nComissão Permanente de Licitação    CPL\nPrefeitura Municipal de Borba\nDecreto nº 025/2025, de 03 de Janeiro de 2025\nPublicado por:\nNayandrea Rosario de Souza\n"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nESTADO DO AMAZONAS\nMUNICÍPIO DE BORBA\nCOMISSÃO PERMANENTE DE LICITAÇÃO\nAVISO DE LICITAÇÃO PREGÃO ELETRÔNICO Nº 006/2026\n- SRP Nº 007/2026\nO  MUNICÍPIO  DE  BORBA/AM,  torna  público  através  da  sua\nComissão Permanente de Licitação - CPL, que realizará licitação na\nmodalidade: Pregão Eletrônico Nº 006/2026 - SRP 007/2026\nOBJETO: Sistema de Registro de Preço para contratação de empresa\nespecializada    para    a    prestação    de    serviços    funerários,    com\nfornecimento  de  urnas  mortuárias,  preparação  e  conservação  de\ncorpos, ornamentação e demais serviços correlatos, visando atender às\nnecessidades  das  famílias  em  situação  de  vulnerabilidade  social  no\nMunicípio   de   Borba/AM,   conforme   condições,   quantidades   e\nexigências estabelecidas neste Termo de Referência.\nDATA DA SESSÃO PÚBLICA: Dia 26 de Maio de 2026, às 10:30\n(horário d"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "6080A6AF",
+      "sha256_bloco": "ef94e8dd336238717d5ac946a9e47c58e75d494915921997edffcfbbd24e9368",
+      "municipio": "SÃO GABRIEL DA CACHOEIRA",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nCOMPANHIA HUMAITAENSE DE ÁGUA E SANEAMENTO\nBÁSICO\n–\nPORTARIA Nº. 050/2026    COHASB\nHumaitá-AM, 20 de Março de 2026.\nDispõe   da   concessão   de   diária   em   Favor   do\nSecretário Executivo da Companhia Humaitaense de\nÁguas e Saneamento Básico.\nO  Diretor  Presidente  da  Companhia  Humaitaense  de  Água  e\nSaneamento Básico-COHASB, no uso das atribuições que lhes são\nconferidas por lei.\nRESOLVE\nArt.   1º   -   DESIGNAR   O   Senhor   MOZART   MENDONÇA\nCAMPOS,  Secretário  Executivo,  a  Cidade  de  Porto  Velho  -  RO,\nlevando  bombas  submersas  para  manuntenção  e  trazer  outras  já\nrecuperadas, para atender a cohasb.\nArt.  2º  -  CONCEDER  ao  servidor  supramencionado  02  (Duas)\ndiárias, para atender as necessidades de alimentação  e hospedagem,\nno  valor  unitário  de  R$  300,00  (Trezentos  reais),  totalizando  R$\n600,00(Seiscentos reais).\n–\nData/hora    Saída: 20 de Março de 2026, às 10:00h.\n–\nData/hora    Retorno: 21 de Março de 2026, às 17:25hrs min.\nArt. 3º - Esta portaria entra em vigor em 20 de Março de 2026.\nArt. 4º - Revogam-se as disposições em contrário.\nDÊ CIÊNCIA,\nPUBLIQUE-SE,\nCUMPRA-SE.\nRENAN CASTRO MAIA\nDiretor Presidente da COHASB\nDecreto nº 022/2025",
+      "alertas": [
+        {
+          "codigo": "6080A6AF",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Decreto nº 022/2025- GAB.PREF."
+        }
+      ],
+      "prova_documento": [
+        "PORTARIA Nº. 050/2026    COHASB"
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Decreto nº 022/2025- GAB.PREF.",
+          "offset_bloco": 1181,
+          "trecho": " 2026, às 17:25hrs min.\nArt. 3º - Esta portaria entra em vigor em 20 de Março de 2026.\nArt. 4º - Revogam-se as disposições em contrário.\nDÊ CIÊNCIA,\nPUBLIQUE-SE,\nCUMPRA-SE.\nRENAN CASTRO MAIA\nDiretor Presidente da COHASB\nDecreto nº 022/2025- GAB.PREF.\nANTONIO LOBO LELO\nDiretor Administrativo e Financeiro\n–\nPortaria n°001/2025    COHASB.\nPublicado por:\nMozart Mendonça Campos\n"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nCOMPANHIA HUMAITAENSE DE ÁGUA E SANEAMENTO\nBÁSICO\n–\nPORTARIA Nº. 050/2026    COHASB\nHumaitá-AM, 20 de Março de 2026.\nDispõe   da   concessão   de   diária   em   Favor   do\nSecretário Executivo da Companhia Humaitaense de\nÁguas e Saneamento Básico.\nO  Diretor  Presidente  da  Companhia  Humaitaense  de  Água  e\nSaneamento Básico-COHASB, no uso das atribuições que lhes são\nconferidas por lei.\nRESOLVE\nArt.   1º   -   DESIGNAR   O   Senhor   MOZART   MENDONÇA\nCAMPOS,  Secretário  Executivo,  a  Cidade  de  Porto  Velho  -  RO,\nlevando  bombas  submersas  para  manuntenção  e  trazer  outras  já\nrecuperadas, para atender a cohasb.\nArt.  2º  -  CONCEDER  ao  servidor  supramencionado  02  (Duas)\ndiárias, para atender as necessidades de alimentação  e hospedagem,\nno  valor  unitário  de  R$  300,00  (Trezentos  reais),  totalizando  R$\n600,00(Sei"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "E4FDEA89",
+      "sha256_bloco": "c9f2f5b009094aa5e51e36b25e06bc325c856a8f2f72d3f0b7aaaf2794fd55df",
+      "municipio": "SÃO GABRIEL DA CACHOEIRA",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nESTADO DO AMAZONAS\nINSTITUTO DE PREVIDENCIA DE RIO PRETO DA EVA\nINSTITUTO DE PREVIDENCIA DE RIO PRETO DA EVA-\nRIOPREV\nPORTARIA Nº 014 DE 11 DE MAIO DE 2026\nA   Diretora   Administrativa    e   Financeira   do   Instituto    de\nPrevidência dos Servidores Públicos do Município de Rio Preto da\nEva - RIOPREV, no uso das atribuições que lhe são conferidas pela\nLei Municipal 424 de 28/12/2017.\nCONSIDERANDO  a  necessidade  do  servidor  Comissionado,  no\nCargo  de  Diretor  Presidente  do  Instituto  de  Previdência  de  Rio\nPreto da Eva, ELISSON SILVA DOS SANTOS, a se deslocar para\no Município de Manaus/AM, no dia 13 de maio de 2026, para ir à\nDiretoria de Controle Externo de Aposentadorias, Reformas e Pensões\n–\nDICARP do Tribunal de Contas do Estado do Amazonas.\nR E S O L V E\n1º-  ATRIBUIR  ao  servidor  o  pagamento  de  01  (uma)  diária  para\ncobertura de despesas, translado e alimentação no dia 13 de maio de\n2026,  para  ir  à  Diretoria  de  Controle  Externo  de  Aposentadorias,\n–\nReformas e Pensões    DICARP do Tribunal de Contas do Estado do\nAmazonas,  no  valor  de  uma  UFIRM  4,75  X  146,08  =  R$  693,88\n(seiscentos  e  noventa  e  três  reais  e  oitenta e  oito  centavo",
+      "alertas": [
+        {
+          "codigo": "E4FDEA89",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Lei Municipal 424 de 28/12/2017."
+        }
+      ],
+      "prova_documento": [
+        "PORTARIA Nº 014 DE 11 DE MAIO DE 2026"
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Lei Municipal 424 de 28/12/2017.",
+          "offset_bloco": 359,
+          "trecho": "1 DE MAIO DE 2026\nA   Diretora   Administrativa    e   Financeira   do   Instituto    de\nPrevidência dos Servidores Públicos do Município de Rio Preto da\nEva - RIOPREV, no uso das atribuições que lhe são conferidas pela\nLei Municipal 424 de 28/12/2017.\nCONSIDERANDO  a  necessidade  do  servidor  Comissionado,  no\nCargo  de  Diretor  Presidente  do  Instituto  de  Previdência  de  Rio\nPreto da Eva, ELISSON SILVA DOS SANTOS, a se deslocar para\no Município de Manaus/AM, "
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nINSTITUTO DE PREVIDENCIA DE RIO PRETO DA EVA\nINSTITUTO DE PREVIDENCIA DE RIO PRETO DA EVA-\nRIOPREV\nPORTARIA Nº 014 DE 11 DE MAIO DE 2026\nA   Diretora   Administrativa    e   Financeira   do   Instituto    de\nPrevidência dos Servidores Públicos do Município de Rio Preto da\nEva - RIOPREV, no uso das atribuições que lhe são conferidas pela\nLei Municipal 424 de 28/12/2017.\nCONSIDERANDO  a  necessidade  do  servidor  Comissionado,  no\nCargo  de  Diretor  Presidente  do  Instituto  de  Previdência  de  Rio\nPreto da Eva, ELISSON SILVA DOS SANTOS, a se deslocar para\no Município de Manaus/AM, no dia 13 de maio de 2026, para ir à\nDiretoria de Controle Externo de Aposentadorias, Reformas e Pensões\n–\nDICARP do Tribunal de Contas do Estado do Amazonas.\nR E S O L V E\n1º-  ATRIBUIR  ao  servidor  o  pagamento  de  01  (uma)  diária  para\ncobertura de despesas, translado e alimentação no dia 13 de maio"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "6734519E",
+      "sha256_bloco": "677ab5350686bb6041f2288f8fbfc6510ed48dfe3b776a05b7450f9a07714cc4",
+      "municipio": "BENJAMIN CONSTANT",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nCOMISSÃO MUNICIPAL DE CONTRATAÇÕES PÚBLICAS\nEXTRATO DO TERMO ADITIVO N° 072-A/2026 - PMBC\nTERMO  ADITIVO  À  ATA  DE  REGISTRO  DE  PREÇOS  N°\n–\n083/2025    SRP.\nCELEBRANTES: MUNICÍPIO DE BENJAMIN CONSTANT e a\nempresa       LICITAR       COMERCIO       DE       PRODUTOS\nALIMENTICIOS LTDA-EPP\nOBJETO:  CONTRATAÇÃO  DE  EMPRESA  ESPECIALIZADA\nEM  SERVIÇOS  OPERAÇÃO,  CONTROLE,  MANUTENÇÃO\nPREVENTIVA   E   CORRETIVA   DOS   SISTEMAS   DE   AR-\nCONDICIONADO,   COM   FORNECIMENTO  DE   INSUMOS,\nEQUIPAMENTOS,   FERRAMENTAS   E   MÃO   DE   OBRA\nESPECIALIZADA,  NOS  PRÉDIOS  PÚBLICOS  MUNICIPAIS\nDE BENJAMIN CONSTANT/AM\nDO  ADITAMENTO:  O  presente  termo  aditivo  tem  como  objeto  a\nPRIMEIRA  PRORROGAÇÃO  da  vigência  da  ARP  nº  083/2025\npor mais 90 (noventa)  dias, a contar da data do  seu  vencimento, a\nsaber, de 07 de abril de 2026 a 06 de julho de 2026, nos termos da\nLei n° 14.133/2021, conforme valores abaixo descritos:\nDO VALOR E DA RUBRICA ORÇAMENTÁRIA\nO valor total deste Contrato é de 733.517,07 (setecentos e trinta três\nmil quinhentos e dezessete reais e sete centavos)\nA  despesa  oriunda  deste  termo   aditivo   será  de  acordo   com  a\norçamentária, a ser empenhado na ru",
+      "alertas": [
+        {
+          "codigo": "6734519E",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Lei n° 14.133/2021, conforme valores abaixo descritos:"
+        }
+      ],
+      "prova_documento": [
+        "EXTRATO DO TERMO ADITIVO N° 072-A/2026 - PMBC",
+        "TERMO  ADITIVO  À  ATA  DE  REGISTRO  DE  PREÇOS  N°"
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Lei n° 14.133/2021, conforme valores abaixo descritos:",
+          "offset_bloco": 882,
+          "trecho": "vo  tem  como  objeto  a\nPRIMEIRA  PRORROGAÇÃO  da  vigência  da  ARP  nº  083/2025\npor mais 90 (noventa)  dias, a contar da data do  seu  vencimento, a\nsaber, de 07 de abril de 2026 a 06 de julho de 2026, nos termos da\nLei n° 14.133/2021, conforme valores abaixo descritos:\nDO VALOR E DA RUBRICA ORÇAMENTÁRIA\nO valor total deste Contrato é de 733.517,07 (setecentos e trinta três\nmil quinhentos e dezessete reais e sete centavos)\nA  despesa  oriunda  deste  termo   aditivo   será  de  acordo "
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nCOMISSÃO MUNICIPAL DE CONTRATAÇÕES PÚBLICAS\nEXTRATO DO TERMO ADITIVO N° 072-A/2026 - PMBC\nTERMO  ADITIVO  À  ATA  DE  REGISTRO  DE  PREÇOS  N°\n–\n083/2025    SRP.\nCELEBRANTES: MUNICÍPIO DE BENJAMIN CONSTANT e a\nempresa       LICITAR       COMERCIO       DE       PRODUTOS\nALIMENTICIOS LTDA-EPP\nOBJETO:  CONTRATAÇÃO  DE  EMPRESA  ESPECIALIZADA\nEM  SERVIÇOS  OPERAÇÃO,  CONTROLE,  MANUTENÇÃO\nPREVENTIVA   E   CORRETIVA   DOS   SISTEMAS   DE   AR-\nCONDICIONADO,   COM   FORNECIMENTO  DE   INSUMOS,\nEQUIPAMENTOS,   FERRAMENTAS   E   MÃO   DE   OBRA\nESPECIALIZADA,  NOS  PRÉDIOS  PÚBLICOS  MUNICIPAIS\nDE BENJAMIN CONSTANT/AM\nDO  ADITAMENTO:  O  presente  termo  aditivo  tem  como  objeto  a\nPRIMEIRA  PRORROGAÇÃO  da  vigência  da  ARP  nº  083/2025\npor mais 90 (noventa)  dias, a contar da data do  seu  vencimento, a\nsaber, de 07 de abril de 2026 "
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "E276BCFF",
+      "sha256_bloco": "8fe03c4b24c959bd5c81d09931845930f597d7085f04727eaadb5291a66ca6d8",
+      "municipio": "SÃO GABRIEL DA CACHOEIRA",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nCOMPANHIA HUMAITAENSE DE ÁGUA E SANEAMENTO\nBÁSICO\n–\nPORTARIA Nº. 57/2026    COHASB.\nHumaitá-AM, 20 de Março de 2026.\nDispõe   da   concessão   de   diárias   em   Favor   do\nInstalador de Bombas da Cia. Humaitaense de Águas\ne Saneamento Básico.\nO  Diretor  Presidente  da  Companhia  Humaitaense  de  Água  e\nSaneamento Básico-COHASB, no uso das atribuições que lhes são\nconferidas por lei.\nRESOLVE\nArt.  1º  -  DESIGNAR  o  Senhor  MANUEL  ALVES  BARBOSA,\nInstalador  de  Bombas  da  Cohasb,  com  destino  as  Comunidades  do\nVal Paraiso e Bom Futuro, para realizar os serviços de manuntenção\nno  cabo  da  bomba  ea  troca  da  tubulação  dos  canos,  devido  ao\nproblema na falta e também na qualidade da água.\nArt.  2º  -  CONCEDER  ao  servidor  supramencionado  05  (cinco)\ndiárias,  para  atender  as  necessidades  de  alimentação  e  pousada,  no\nvalor  unitário  de  R$80,00  (oitenta  reais),  totalizando  R$  400,00\n(Quatrocentos reais).\n–\nData/hora    Saída: 20 de Março de 2026, às 18:00h.\n–\nData/hora    Retorno: 24 de Março de 2026, às 06:24hrs min.\nArt. 3º - Esta portaria entra em vigor 20 de Março de 2026.\nArt. 4º - Revogam-se as disposições em contrário.\nDÊ CIÊNCIA,\nPUBLIQUE-",
+      "alertas": [
+        {
+          "codigo": "E276BCFF",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Decreto Nº 022/2025-GAB.PREF."
+        }
+      ],
+      "prova_documento": [
+        "PORTARIA Nº. 57/2026    COHASB."
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Decreto Nº 022/2025-GAB.PREF.",
+          "offset_bloco": 1262,
+          "trecho": " de 2026, às 06:24hrs min.\nArt. 3º - Esta portaria entra em vigor 20 de Março de 2026.\nArt. 4º - Revogam-se as disposições em contrário.\nDÊ CIÊNCIA,\nPUBLIQUE-SE,\nCUMPRA-SE.\nRENAN CASTRO MAIA\nDiretor Presidente da COHASB\nDecreto Nº 022/2025-GAB.PREF.\nANTONIO LOBO LELO\nDiretor Administrativo e Financeiro\n–\nPortaria Nº 001/2025    COHASB.\nPublicado por:\nMozart Mendonça Campos\n"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nCOMPANHIA HUMAITAENSE DE ÁGUA E SANEAMENTO\nBÁSICO\n–\nPORTARIA Nº. 57/2026    COHASB.\nHumaitá-AM, 20 de Março de 2026.\nDispõe   da   concessão   de   diárias   em   Favor   do\nInstalador de Bombas da Cia. Humaitaense de Águas\ne Saneamento Básico.\nO  Diretor  Presidente  da  Companhia  Humaitaense  de  Água  e\nSaneamento Básico-COHASB, no uso das atribuições que lhes são\nconferidas por lei.\nRESOLVE\nArt.  1º  -  DESIGNAR  o  Senhor  MANUEL  ALVES  BARBOSA,\nInstalador  de  Bombas  da  Cohasb,  com  destino  as  Comunidades  do\nVal Paraiso e Bom Futuro, para realizar os serviços de manuntenção\nno  cabo  da  bomba  ea  troca  da  tubulação  dos  canos,  devido  ao\nproblema na falta e também na qualidade da água.\nArt.  2º  -  CONCEDER  ao  servidor  supramencionado  05  (cinco)\ndiárias,  para  atender  as  necessidades  de  alimentação  e  pousada,"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "5DB74B1C",
+      "sha256_bloco": "04726374249d72ff3ac32108f7567c62e3a1829ef346043af22df81fb3b17c7c",
+      "municipio": "ANORI",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nESTADO DO AMAZONAS\nMUNICÍPIO DE ANORI\nPREFEITURA MUNICIPAL DE ANORI\nAVISO DE COTAÇÃO DE PREÇOS\nOBJETO\nCotação  de preço para Eventual Aquisição de Produtos para Saúde para suprir as necessidades da Secretaria Municipal de Saúde da Prefeitura\nMunicipal de Anori-AM.\nDescrição do objeto:\nItem               DESCRIÇÃO                        Und                        Qtd\n1                    ABAIXADOR DE LÍNGUA PCT COM 100 UND                        PACOTE                        960\n2                    ÁGUA DESTILADA PARA AUTOCLAVE 5LTS                        UNID                        800\n3                    ALGODÃO HIDRÓFILO 500G                        ROLO                        800\n4                    APARELHO DE PRESSÃO ARTERIAL AUTOMÁTICO DE BRAÇO                        UNID                        80\n5                    APARELHO DE PRESSÃO ARTERIAL DIGITAL DE PULSO                        UNID                        120\n6                    APARELHO PARA GLICEMIA ACCU-CHEK ACTIVE                        UNID                        180\n7                    APARELHO PARA GLICEMIA G. TECH FREE.                        UNID                        180\n8                    APARELHO P",
+      "alertas": [
+        {
+          "codigo": "5DB74B1C",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Decreto nº 001/2025"
+        }
+      ],
+      "prova_documento": [
+        "AVISO DE COTAÇÃO DE PREÇOS"
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Decreto nº 001/2025",
+          "offset_bloco": 53490,
+          "trecho": "    FRASCO                        400\nPERÍODO DE ENVIO DAS COTAÇÕES DE PREÇOS\nDe 12/05/2026\nAté 14/05/2026\nAs cotações deverão ser encaminhadas ao e-mail: cml.anori@gmail.com\nRUAN DE OLIVEIRA MOURA\nAgente de Contratação\nDecreto nº 001/2025\nPublicado por:\nRuan de Oliveira Moura\n"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nESTADO DO AMAZONAS\nMUNICÍPIO DE ANORI\nPREFEITURA MUNICIPAL DE ANORI\nAVISO DE COTAÇÃO DE PREÇOS\nOBJETO\nCotação  de preço para Eventual Aquisição de Produtos para Saúde para suprir as necessidades da Secretaria Municipal de Saúde da Prefeitura\nMunicipal de Anori-AM.\nDescrição do objeto:\nItem               DESCRIÇÃO                        Und                        Qtd\n1                    ABAIXADOR DE LÍNGUA PCT COM 100 UND                        PACOTE                        960\n2                    ÁGUA DESTILADA PARA AUTOCLAVE 5LTS                        UNID                        800\n3                    ALGODÃO HIDRÓFILO 500G                        ROLO                        800\n4                    APARELHO DE PRESSÃO ARTERIAL AUTOMÁTICO DE BRAÇO                        UNID                        80\n5                    APARELHO DE PRESSÃO ARTERIAL D"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "1AF964EE",
+      "sha256_bloco": "ae9625a03aea875dbfccdbe4557594fd6f8fc960ec73c5502e1bd1e8e8abda24",
+      "municipio": "MAUÉS",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nSERVIÇO AUTONOMO DE AGUA E ESGOTO\n–\nPORTARIA Nº 018, DE 05 DE MAIO DE 2026    SAAE/MAUÉS\nO   DIRETOR   DO   SERVIÇO   AUTÔNOMO   DE   ÁGUA   E\n–\nESGOTO DE MAUÉS     SAAE, no exercício de suas atribuições\nlegais conferidas;\nCONSIDERANDO o disposto no Art. 11, inciso III da Lei Federal\nnº 14.133/2021, que determina como objetivo da gestão de contratos\ngarantir  a  execução  do  objeto  contratado  e  a  obtenção  do  melhor\nresultado para a Administração Pública;\nCONSIDERANDO  o  disposto  no  Art.  117,  caput  e  §1º  da  Lei\nFederal nº 14.133/2021, que determina a designação de representante\nda   Administração   para   acompanhar   e   fiscalizar   a   execução   do\ncontrato,  com  atribuição  de  anotar  em  registro  próprio  todas  as\nocorrências relacionadas à execução e determinar o que for necessário\npara regularização de faltas ou defeitos observados;\nCONSIDERANDO  o  disposto  no  Art.  8º,  §3º  da  Lei  Federal  nº\n14.133/2021, que autoriza a designação de fiscal substituto para atuar\nem casos de ausência ou impedimento do titular;\nCONSIDERANDO   a   necessidade   de   fiscalização   efetiva   da\nContratação Direta via Dispensa de Licitação nº 006/2026, cujo objeto\né a ",
+      "alertas": [
+        {
+          "codigo": "1AF964EE",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Decreto Nº 022/2025-PMM"
+        }
+      ],
+      "prova_documento": [
+        "PORTARIA Nº 018, DE 05 DE MAIO DE 2026    SAAE/MAUÉS",
+        "contrato,  com  atribuição  de  anotar  em  registro  próprio  todas  as"
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Decreto Nº 022/2025-PMM",
+          "offset_bloco": 3334,
+          "trecho": " MUNICÍPIOS  DO  ESTADO  DO  AMAZONAS,  de  acordo\ncom a Lei Municipal nº 177, de 26/10/2009, e por afixação em local\npróprio e de acesso público, na sede desta Autarquia.\nCRISTIANO FIGUEIREDO SAID\nDiretor do SAAE/Maués\nDecreto Nº 022/2025-PMM\nPublicado por:\nBruno Ribeiro Caldas\n"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nSERVIÇO AUTONOMO DE AGUA E ESGOTO\n–\nPORTARIA Nº 018, DE 05 DE MAIO DE 2026    SAAE/MAUÉS\nO   DIRETOR   DO   SERVIÇO   AUTÔNOMO   DE   ÁGUA   E\n–\nESGOTO DE MAUÉS     SAAE, no exercício de suas atribuições\nlegais conferidas;\nCONSIDERANDO o disposto no Art. 11, inciso III da Lei Federal\nnº 14.133/2021, que determina como objetivo da gestão de contratos\ngarantir  a  execução  do  objeto  contratado  e  a  obtenção  do  melhor\nresultado para a Administração Pública;\nCONSIDERANDO  o  disposto  no  Art.  117,  caput  e  §1º  da  Lei\nFederal nº 14.133/2021, que determina a designação de representante\nda   Administração   para   acompanhar   e   fiscalizar   a   execução   do\ncontrato,  com  atribuição  de  anotar  em  registro  próprio  todas  as\nocorrências relacionadas à execução e determinar o que for necessário\npara regularizaçã"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v1/2b77f9616fea4cef80cd5432d9f29170/manifesto.json",
+      "codigo": "3EE7400A",
+      "sha256_bloco": "9b86ec770134fa4c95ea59bf185544314cf83bc4c2b53e1c9470a3921209e6ef",
+      "municipio": "SÃO GABRIEL DA CACHOEIRA",
+      "uf": "AM",
+      "trecho_cabecalho_oficial": "\nCOMPANHIA HUMAITAENSE DE ÁGUA E SANEAMENTO\nBÁSICO\n–\nPORTARIA Nº. 058/2026    COHASB.\nHumaitá-AM, 20 de Março de 2026.\nDispõe da concessão de diária em Favor do Vigia da\nCompanhia  Humaitaense  de  Águas  e  Saneamento\nBásico.\nO  Diretor  Presidente  da  Companhia  Humaitaense  de  Água  e\nSaneamento Básico-COHASB, no uso das atribuições que lhes são\nconferidas por lei.\nRESOLVE\nArt.  1º  -  DESIGNAR  O  Senhor  PEDRO  MARCIO  TRINDADE\nMORAIS,  Vigia  da  Cohasb,  as  Comunidades  de  Laranjeiras  e\nParafuso, para ensinar os vigilantes á reparar os bombeamentos e dar\ninstruções dos poços.\nArt.  2º  -  CONCEDER  ao  servidor  supramencionado  05  (cinco)\ndiárias, para atender as necessidades de alimentação  e hospedagem,\nno valor unitário de R$ 80,00 (Oitenta reais), totalizando R$ 400,00(\nQuatrocentos reais).\n–\nData/hora    Saída: 20 de Março de 2026, às 18:00h.\n–\nData/hora    Retorno: 24 de Março de 2026, às 09:30hrs min.\nArt. 3º - Esta portaria entra em vigor em 20 de Março de 2026.\nArt. 4º - Revogam-se as disposições em contrário.\nDÊ CIÊNCIA,\nPUBLIQUE-SE,\nCUMPRA-SE.\nRENAN CASTRO MAIA\nDiretor Presidente da COHASB\nDecreto Nº 022/2025- GAB.PREF.\nANTONIO LOBO LELO\nDiretor Administrat",
+      "alertas": [
+        {
+          "codigo": "3EE7400A",
+          "erro": "cabeçalho normativo não reconhecido; revisão obrigatória",
+          "cabecalho": "Decreto Nº 022/2025- GAB.PREF."
+        }
+      ],
+      "prova_documento": [
+        "PORTARIA Nº. 058/2026    COHASB."
+      ],
+      "classificacao": "citacao_comprovada",
+      "confirmar_alerta_cabecalho": true,
+      "provas_citacao": [
+        {
+          "texto_alerta": "Decreto Nº 022/2025- GAB.PREF.",
+          "offset_bloco": 1132,
+          "trecho": " 2026, às 09:30hrs min.\nArt. 3º - Esta portaria entra em vigor em 20 de Março de 2026.\nArt. 4º - Revogam-se as disposições em contrário.\nDÊ CIÊNCIA,\nPUBLIQUE-SE,\nCUMPRA-SE.\nRENAN CASTRO MAIA\nDiretor Presidente da COHASB\nDecreto Nº 022/2025- GAB.PREF.\nANTONIO LOBO LELO\nDiretor Administrativo e Financeiro\n–\nPortaria N°001/2025    COHASB.\nPublicado por:\nMozart Mendonça Campos\n"
+        }
+      ],
+      "fundamento": "A linha alertada identifica legislação citada no documento acima, não uma epígrafe própria desse ato. Conferido cabeçalho e contexto imediato individualmente.",
+      "trecho_tipo_documento": "\nCOMPANHIA HUMAITAENSE DE ÁGUA E SANEAMENTO\nBÁSICO\n–\nPORTARIA Nº. 058/2026    COHASB.\nHumaitá-AM, 20 de Março de 2026.\nDispõe da concessão de diária em Favor do Vigia da\nCompanhia  Humaitaense  de  Águas  e  Saneamento\nBásico.\nO  Diretor  Presidente  da  Companhia  Humaitaense  de  Água  e\nSaneamento Básico-COHASB, no uso das atribuições que lhes são\nconferidas por lei.\nRESOLVE\nArt.  1º  -  DESIGNAR  O  Senhor  PEDRO  MARCIO  TRINDADE\nMORAIS,  Vigia  da  Cohasb,  as  Comunidades  de  Laranjeiras  e\nParafuso, para ensinar os vigilantes á reparar os bombeamentos e dar\ninstruções dos poços.\nArt.  2º  -  CONCEDER  ao  servidor  supramencionado  05  (cinco)\ndiárias, para atender as necessidades de alimentação  e hospedagem,\nno valor unitário de R$ 80,00 (Oitenta reais), totalizando R$ 400,00(\nQuatrocentos reais).\n–\nData/hora    Saída: 20 de Março"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "codigo": "8F218EE6",
+      "sha256_bloco": "d73e393eb94be99f51164dc7fa580aa86e9eaac77d7ea17d9ca1d547c300dc0a",
+      "arquivo_anterior": "municipais/AM/envira/leis-ordinarias/2026/lei-ordinaria-005-2026-8f218ee6.md",
+      "sha256_anterior": "430d989b5d186c8fa18fc5a03cae4f14ec9a5f881910f3d4495b0445bd444957",
+      "numero_anterior": "005",
+      "tipo_anterior": "Lei Ordinária",
+      "vinculos_numero_tipo": [
+        {
+          "codigo": "0A95F62F",
+          "destino": "municipais/AM/fonte-boa/leis-ordinarias/2026/lei-ordinaria-005-2026-0a95f62f.md",
+          "municipio": "FONTE BOA"
+        }
+      ],
+      "trecho_prova": "\nESTADO DO AMAZONAS\nMUNICÍPIO DE ENVIRA\nCOMISSÃO MUNICIPAL DE CONTRATAÇÕES\nAVISO DE COTAÇÃO DE PREÇOS\nCONTRATANTE\nPREFEITURA MUNICIPAL DE ENVIRA - AM\nOBJETO\nCotação   de   preço   para   Locação   De   Veículo   Para   Atender   A\nCoordenadoria Municipal De Proteção E Defesa Civil No Município\nDe Envira-AM.\nDescrição do objeto:\nTIPO            DE            VEÍCULO/                        VALOR\nQTD                        QTD            VALOR\nITEM     ESPECIFICAÇÃO                        MENSAL\nVEÍCULOS                        MESES        TOTAL\nOBRIGATÓRIA                        (30 DIAS)\nSERVIÇO   DE   LOCAÇÃO   DE\nVEÍCULOS   LEVES.   VEÍCULO\nTIPO         UTILITÁRIO,         sem\n1             combustível   e   motorista,   motor   a  1                     R$                 12                 R$\npartir  de  104  cv,  combustível  flex,\ncom   capacidade   mínima   para   04\npassageiros, 04 portas.\nPERÍODO DE ENVIO DAS COTAÇÕES DE PREÇOS\nDe 11/05/2026\nAté 14/05/2026\nAs     cotações     deverão     ser     encaminhadas     ao     e-mail:\ncomissaocontratacaoenvira@gmail.com\nLORENA DE SOUZA MAIA DE ARAÚJO\nAgente de Contratação\nPublicado por:\nMaria Nicélia Páscoa Bezerra\n",
+      "snapshot_obrigatorio": true,
+      "confirmar_retirada": true,
+      "fundamento": "Rótulo legal anterior se encontra no candidato vinculado; código atual fecha o documento individual mostrado no trecho, fora do recorte de MDs legais.",
+      "classificacao": "cabecalho_fora_recorte_comprovado"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "codigo": "8E4CF034",
+      "sha256_bloco": "539aac7665638bf4e1db2442b633ddc283914aec902e1bf46b333956f99b104a",
+      "arquivo_anterior": "municipais/AM/itacoatiara/decretos/2026/decreto-274-2026-8e4cf034.md",
+      "sha256_anterior": "0dadd1d4ae679a7c4f7e7a18d11a2129db309e3a037ad465e358b7c69f658726",
+      "numero_anterior": "274",
+      "tipo_anterior": "Decreto",
+      "vinculos_numero_tipo": [
+        {
+          "codigo": "33ED2ADA",
+          "destino": "municipais/AM/itacoatiara/decretos/2026/decreto-274-2026-33ed2ada.md",
+          "municipio": "ITACOATIARA"
+        }
+      ],
+      "trecho_prova": "\nSERVIÇO AUTÔNOMO DE ÁGUA E ESGOTO\nDESPACHO E ADJUDICAÇÃO DE HOMOLOGAÇÃO DA\nDISPENSA POR MENOR VALOR PRESENCIAL Nº 001/2026\nA DIRETORA PRESIDENTE DO SERVIÇO AUTÔNOMO DE\n–\nÁGUA E ESGOTO DE ITACOATIARA    SAAE, no uso de suas\natribuições legais, e;\nCONSIDERANDO,   o   teor   do   RELATÓRIO   apresentado   pela\nControladoria Interna do SAAE, para contratação de Pessoa Jurídica\nespecializada em PRESTAÇÃO DE SERVIÇO DE SERRALHERIA,\nCONFECÇÃO    E    MONTAGEM    DE    PEÇAS,    GRADES    E\nPORTÕES, SOLDA EM COMPONENTES E ESTRUTURAS, para\natender  as  demandas  do  Serviço  Autônomo  de  Água  e  Esgoto  de\n–\nItacoatiara     SAAE, de acordo com as quantidades e especificações\nconstantes neste Termo de Referência.\nCONSIDERANDO   a   perfeita   regularidade   do   processo,   com\natendimento    aos    princípios    legais    e    normas    procedimentais\npertinentes,   resultando   na   obtenção   de   proposta   exequível   e\nsatisfatória ao interesse público;\nCONSIDERANDO  a  inexistência  de  qualquer  recurso pendente  ao\nreferido processo licitatório, e a desnecessidade de qualquer apuração\nou diligência complementar;\nRESOLVE:\n–\nI      ADJUDICAR  os  itens  da  empresa  MANOEL  ALAN  DOS\nSANTOS  LTDA,  CNPJ:  12.884.691/0001-12,  com o  valor  global\nde R$ 65.000,00 (Sessenta e cinco",
+      "snapshot_obrigatorio": true,
+      "confirmar_retirada": true,
+      "fundamento": "Rótulo legal anterior se encontra no candidato vinculado; código atual fecha o documento individual mostrado no trecho, fora do recorte de MDs legais.",
+      "classificacao": "cabecalho_fora_recorte_comprovado"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "codigo": "262618FA",
+      "sha256_bloco": "8408cd13217500a77791ab805d48a18a364a3e213c9b475ca7725cf6be9de34a",
+      "arquivo_anterior": "municipais/AM/tefe/decretos/2026/decreto-044-2026-262618fa.md",
+      "sha256_anterior": "f30198a10a0bbfc2cc99c98ce6f113e15ca61f67391838d196a880008ea98593",
+      "numero_anterior": "044",
+      "tipo_anterior": "Decreto",
+      "vinculos_numero_tipo": [
+        {
+          "codigo": "434281FB",
+          "destino": "municipais/AM/tefe/decretos/2026/decreto-044-2026-434281fb.md",
+          "municipio": "TEFÉ"
+        }
+      ],
+      "trecho_prova": "\nESTADO DO AMAZONAS\nMUNICÍPIO DE TONANTINS\nCOMISSÃO MUNICIPAL DE LICITAÇÃO - CML\nDESPACHO DE HOMOLOGAÇÃO CONCORRÊNCIA\nELETRÔNICA Nº 005/2026\nO  Prefeito  Municipal  de  Tonantins/AM,  no  uso de  suas  atribuições\nlegais,  ADJUDICA  e  HOMOLOGA  o  resultado  da  Concorrência\nEletrônica nº 005/2026, cujo objeto: Reforma e ampliação da Escola\nMunicipal   Octávio   Amazonas   no   município   de   Tonantins/AM,\ndeclarando vencedora a empresa LUAN DA C. BARROSO  LTDA,\ninscrita no CNPJ nº 34.237.116/0001-60, perfazendo o valor global de\nR$   685.653,00   (seiscentos   e   oitenta   e   cinco   mil,   seiscentos   e\ncinquenta e três reais).\nTonantins/AM, 05/05/2026\nFRANCISCO SALES DE OLIVEIRA\nPrefeito Municipal\nPublicado por:\nGilvan da Costa Ramos\n",
+      "snapshot_obrigatorio": true,
+      "confirmar_retirada": true,
+      "fundamento": "Rótulo legal anterior se encontra no candidato vinculado; código atual fecha o documento individual mostrado no trecho, fora do recorte de MDs legais.",
+      "classificacao": "cabecalho_fora_recorte_comprovado"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "codigo": "AC9BA669",
+      "sha256_bloco": "90da61492018478870861a47e1648389b4e8085dad011f19bc65cc0385983650",
+      "arquivo_anterior": "municipais/AM/tabatinga/decretos/2026/decreto-202-2026-ac9ba669.md",
+      "sha256_anterior": "f2c23f8c0c073963d73820ca6db75e307fa4bd89235fea1a71d2737418ed417c",
+      "numero_anterior": "202",
+      "tipo_anterior": "Decreto",
+      "vinculos_numero_tipo": [
+        {
+          "codigo": "9F6F14AF",
+          "destino": "municipais/AM/tabatinga/decretos/2026/decreto-202-2026-9f6f14af.md",
+          "municipio": "TABATINGA"
+        }
+      ],
+      "trecho_prova": "\nSECRETARIA MUNICIPAL DE ADMINISTRAÇÃO\nERRATA - DECRETO Nº 082-A/GP-PMT DE 17 DE JANEIRO\nDE 2025\nNa  Publicação   do   DECRETO  Nº   082-AGP-PMT   DE   17  DE\nJANEIRO DE 2025, referente à DESIGNAÇÃO DE SERVIDORES\nPARA  TITULAR  E  SUPLENTE  DE  FISCAL  DE  PROCESSO\nADMINISTRATIVO   Nº   016-A/2025,   publicado   NO   DIÁRIO\nOFICIAL  DOS  MUNICÍPIOS  DO  ESTADO  DO  AMAZONAS  no\ndia 20 de dezembro de 2025, Edição nº 4010 e Código Identificador:\nEEE5FD24.\nONDE SE LÊ:\nFISCAL TITULAR: José Orlando Ruiz Pinto\nFISCAL SUPLENTE: Marlen de Souza Vieira\nLEIA-SE:\nFISCAL TITULAR: Arnoldo Ferreira Gomes Junior\nFISCAL SUPLENTE: Maria Francisca Alves Gomes\nGABINETE  DO  PREFEITO  DE  TABATINGA/AM,  em  11  de\nmaio de 2026.\nPLINIO SOUZA DA CRUZ\nPrefeito Municipal de Tabatinga/AM\nPublicado por:\nSabrina do Nascimento Ramos\n",
+      "snapshot_obrigatorio": true,
+      "confirmar_retirada": true,
+      "fundamento": "Preservar corpo em referência de errata; antiga lei/decreto com rótulo trocado reaparece no candidato vinculado.",
+      "classificacao": "errata_comprovada",
+      "referencia_destino": "municipais/_referencias/diarios/geometria-colunas-v1/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/AC9BA669.json"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "codigo": "0A3627DC",
+      "sha256_bloco": "f1f90ca639c5c5bdb758da6325424d14ff5fc8d350ec726dd31c9df42e1b8932",
+      "arquivo_anterior": "municipais/AM/parintins/leis-ordinarias/2026/lei-ordinaria-1047-2026-0a3627dc.md",
+      "sha256_anterior": "7a06e39abf34447b98005c3a3416d3e9167c6b73c079fcc0752037b93c136c53",
+      "numero_anterior": "1047",
+      "tipo_anterior": "Lei Ordinária",
+      "vinculos_numero_tipo": [
+        {
+          "codigo": "CB9C4564",
+          "destino": "municipais/AM/parintins/leis-ordinarias/2026/lei-ordinaria-1047-2026-cb9c4564.md",
+          "municipio": "PARINTINS"
+        }
+      ],
+      "trecho_prova": "\nSECRETARIA MUNICIPAL DE ADMINISTRAÇÃO\nAVISO DE LICITAÇÃO - CE Nº 04/2026\nA Prefeitura do Município de Parintins-Am, torna pública a realização\nde Licitação na modalidade Concorrência Eletrônica Nº 04/2026 com\ncritério  de  julgamento  menor  preço  global,  nos  termos  da  Lei  n.º\n14.133, de 1º de abril de 2021, Decreto Municipal nº 72/2023, Decreto\nMunicipal  Nº  042/2023,  Lei  Complementar  123/2006,  e  demais\nnormas  aplicáveis.  Objeto:  URBANIZAÇÃO  DA  LAGOA  AZUL\nNO     BAIRRO     DO     ITAÚNA     II,     NO     MUNICÍPIO     DE\nPARINTINS/AM.  Abertura  do  certame:  27/05/2026,  às  12h00min  -\nhorário  de  Brasília.  O  Edital  completo  poderá  ser  obtido  pelos\ninteressados no site www.licitanet.com.br.\nParintins/AM, 07 de maio de 2026.\nCOMISSÃO MUNICIPAL DE CONTRATAÇÃO\nPublicado por:\nAluilson Sampaio Bentes\n",
+      "snapshot_obrigatorio": true,
+      "confirmar_retirada": true,
+      "fundamento": "Rótulo legal anterior se encontra no candidato vinculado; código atual fecha o documento individual mostrado no trecho, fora do recorte de MDs legais.",
+      "classificacao": "cabecalho_fora_recorte_comprovado"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "codigo": "76843A6E",
+      "sha256_bloco": "e2602eca2ab6f9948428d607be30a72c8a10c86280709c07b9ff2f791ed1c81f",
+      "arquivo_anterior": "municipais/AM/barreirinha/decretos/2026/decreto-316-2026-76843a6e.md",
+      "sha256_anterior": "54ac2954d81dded1fa54e2b90984ac049fdb5324a4363edbfb03e8334c7c0181",
+      "numero_anterior": "316",
+      "tipo_anterior": "Decreto",
+      "vinculos_numero_tipo": [
+        {
+          "codigo": "7DE93EC4",
+          "destino": "municipais/AM/barreirinha/decretos/2026/decreto-316-2026-7de93ec4.md",
+          "municipio": "BARREIRINHA"
+        }
+      ],
+      "trecho_prova": "\nCOMISSÃO MUNICIPAL DE CONTRATAÇÃO\nPORTARIA Nº 1127/2026– GPMB\nDESIGNAR       A       SERVIDORA       PÚBLICA\nMUNICIPAL   IANA   CRISTINE   SILVA   REIS,\nRESPONSÁVEL  PELO  ACOMPANHAMENTO  E\nFISCALIZAÇÃO  DO  CONTRATO  Nº  3704/2026-\nPMB      E      DÁ      OUTRAS      PROVIDENCIAS\nCABIVEIS.\nO   Sr.   DARLAN   TAVEIRA   PERES,   Prefeito   Municipal   de\nBarreirinha eleição legal, usando de atribuições que lhe são conferidas\npor Lei e etc.\nR E S O L V E:\nI   -   DESIGNAR   a   senhora   IANA   CRISTINE   SILVA   REIS,\nservidora     pública     municipal     da     Secretaria     Municipal     de\nAdministração  e  Planejamento  -  SEMAP,  sob nº  de  RG 2867760-9\nSSP/AM, e CPF nº 026.370.962-09 , exercendo o cargo Digitadora,\nresponsável  pelo  Acompanhamento  e  Fiscalização  do  TERMO  DE\nCONTRATO Nº 3704/2026-PMB, resultante do CHAMAMENTO\nPÚBLICO/CREDENCIAMENTO    N°002/2026-CMC/PMB,    da\nempresa      E      QUEIROZ      COSTA      TRANSPORTES      E\nNAVEGACAO   FLUVIAL   LTDA,CNPJ   nº   29.528.258/0001-\na―PRESTAÇÃO DE SERVIÇOS DE TRANSPORTES DE\n47,para\nPASSAGEIROS     E     CARGAS     VIA     FLUVIAL,     COM     A\nFINALIDADE     DE     ATENDER     AS     NECESSIDADES     E\nDEMANDAS        DA        PREFEITURA        MUNICIPAL        DE\nBARREIRINHA/AM‖.O\nfiscal  fica  respon",
+      "snapshot_obrigatorio": true,
+      "confirmar_retirada": true,
+      "fundamento": "Rótulo legal anterior se encontra no candidato vinculado; código atual fecha o documento individual mostrado no trecho, fora do recorte de MDs legais.",
+      "classificacao": "cabecalho_fora_recorte_comprovado"
+    },
+    {
+      "assoc": "aam",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_118856_2026-05-11_b0eb3d7494d93fcaba4a2bd1aec757ff.pdf",
+      "codigo": "C3820FB2",
+      "sha256_bloco": "eed4f9ec5a8580f8ffdc7e85402575ca18962f29a65eeb68b5cb8f0fc2f9addd",
+      "arquivo_anterior": "municipais/AM/santa-isabel-do-rio-negro/decretos/2026/decreto-67-2026-c3820fb2.md",
+      "sha256_anterior": "aff53b850675525bbf96965b4b61cb049c60a85048dbd64537c9d0783eea1efe",
+      "numero_anterior": "67",
+      "tipo_anterior": "Decreto",
+      "vinculos_numero_tipo": [
+        {
+          "codigo": "9CAC9CFD",
+          "destino": "municipais/AM/santa-isabel-do-rio-negro/decretos/2026/decreto-67-2026-9cac9cfd.md",
+          "municipio": "SANTA ISABEL DO RIO NEGRO"
+        }
+      ],
+      "trecho_prova": "\nESTADO DO AMAZONAS\nMUNICÍPIO DE SÃO PAULO DE OLIVENÇA\nCOMISSÃO DE CONTRATAÇÃO DE SPO/AM\nERRATA DE PUBLICAÇÃO DA DISPESA DE LICITAÇÃO\nPRESENCIAL Nº 012/2026/CC\nA Comissão Contratação/CC, torna público e conhecimento que nas\npublicações no Diário Oficial dos Municípios do Estado do Amazonas\n- DOMAM, na edição nº 4085 no TERMO DE RATIFICAÇÃO e\nna CARTA CONTRATO Nº 015/2026/CC, datada em 14/04/2026\nda DISPENSA DE LICITAÇÃO PRESENCIAL Nº 012/2026/CC\ndo PROCESSO ADMINISTRATIVO 150/2026/SEMSA que:\nOnde se lê no Termo de Ratificação:\n–\n2    AUTORIZAR: o empenho da despesa que trata no Valor Global\nde  R$  25.200.00  (-vinte  e  cinco  mil  e  duzentos  reais-),  sendo  que\nficam para serem empenhados os 09 (nove) meses no ano corrente, e\n03 (três) empenhos nos primeiros meses do ano de 2027, em favor da\nPessoa Física RODINEI CARDOSO COSTA, contratada;\nOnde se lê na Carta Contrato:\nContratado: RODINEI CARDOSO COSTA, contratado.\nLeia-se no Termo de Ratificação:\n–\n2    AUTORIZAR: o empenho da despesa que trata no Valor Global\nde  R$  25.200.00  (-vinte  e  cinco  mil  e  duzentos  reais-),  sendo  que\nficam para serem empenhados os 09 (nove) meses no ano corrente, e\n03 (três) empenhos nos primeiros meses do ano de 2027, em favor da\nPessoa Física DEUSENILDE BORGES CARDOSO, contratada;\nLeia-",
+      "snapshot_obrigatorio": true,
+      "confirmar_retirada": true,
+      "fundamento": "Preservar corpo em referência de errata; antiga lei/decreto com rótulo trocado reaparece no candidato vinculado.",
+      "classificacao": "errata_comprovada",
+      "referencia_destino": "municipais/_referencias/diarios/geometria-colunas-v1/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/C3820FB2.json"
+    }
+  ],
+  "referencias_parciais": [
+    {
+      "codigo": "EEBA6AAF",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/EEBA6AAF.json",
+      "sha256": "cb1466fdb5ab4f748bc72aa3bde8c6e2a1fee36139446469c0a86bd8768d23d1",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "84723106",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/84723106.json",
+      "sha256": "495c9db025736be2f948a58d67989bab6ede5de306083211c1a72536c4652790",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "88E8CD65",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/88E8CD65.json",
+      "sha256": "b64aae142f025658b4b9b618fa935dc34d744531552726506dcda04f58ad820f",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "CC004776",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/CC004776.json",
+      "sha256": "643ddd8a0ba21d6ddf5d8b7cdee9f7549be102dcae725091bb879b5976ea9850",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "DBD13F09",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/DBD13F09.json",
+      "sha256": "03ccd8a702e81a6bbbb213a4001c708b6bf11ab5d98b146a667a5d484ad5fb6f",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "530B4229",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/530B4229.json",
+      "sha256": "a545e0b70eb72e4bdeca204fe462fc5a7f03c7f537d7dea6ca10f91369712b57",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "71037C91",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/71037C91.json",
+      "sha256": "32eda1945b4daafba1c0e93b5c3a4242e45ed4b719994b9ee61a3f886840c84c",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "D1E3026B",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/D1E3026B.json",
+      "sha256": "063eb9764c6df7b3dbe304997654e409d3e0f2db49177e0bc9d7bd38dc6844a0",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "C3820FB2",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/C3820FB2.json",
+      "sha256": "49ef66d885def8bc039f01d599de9296186b1c56446f5a04a7c1c7b353c23579",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "AC9BA669",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/AC9BA669.json",
+      "sha256": "a8620e0e28c98ece192454434fba14cfc90429cc91c9bc895591fc702ea7bad7",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "36FDCD25",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/36FDCD25.json",
+      "sha256": "da14be8684fb95741145933071c4206c398a5f5abd24bf2eeb70d4890a0b1665",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "53E753C0",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/53E753C0.json",
+      "sha256": "98d081f64f92965d92944ba1e7713d9d1bfb714641eb7326e17249cf30b185bb",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "D28685A6",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/D28685A6.json",
+      "sha256": "01a6ba0046e26bc9dab76596f2f891b6ca1f54814c82e4915978c1caa5d77670",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "676CC42C",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/676CC42C.json",
+      "sha256": "ebb3dcc3fef7d661af6be73f1e2818c2e8dc67dc9049b25aef17b1e5831b838e",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "B1F24BE7",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/B1F24BE7.json",
+      "sha256": "d26c30f63ff6fc88aaaa06c84c5582fa3f8e514dd5108614a3169886a0953e17",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "72C21D3E",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/72C21D3E.json",
+      "sha256": "1bdf62979e245223dbd868edb9f08ce02c31991b73f72a5c63e1097c7308193e",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "3D9FDCD6",
+      "cobertura": "retificação; não substitui a publicação integral do ato",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/3D9FDCD6.json",
+      "sha256": "65b5e60306eb5182e64240f850ce3db27c404da260107d2de346b93db2558a8d",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "A74516C3",
+      "cobertura": "anexo; documento vinculado ao ato principal, sem contagem como nova norma",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/A74516C3.json",
+      "sha256": "2bd6a375dec268ed6b63d85e8f0a89fb1e5bed2591c554e4ce7c101f7c2b1138",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "DD1E1B78",
+      "cobertura": "anexo; documento vinculado ao ato principal, sem contagem como nova norma",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/DD1E1B78.json",
+      "sha256": "c46b88228c6793558802d5a3f0b31655e2f6f474bc0d8f064bb84b860a0d46ac",
+      "vinculos_mesma_edicao": []
+    },
+    {
+      "codigo": "1F0F7542",
+      "cobertura": "anexo; documento vinculado ao ato principal, sem contagem como nova norma",
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/1F0F7542.json",
+      "sha256": "7657c74acc8edb94bfed49a1723915ae0e7143cdd8c3c26eb307965b842961cd",
+      "vinculos_mesma_edicao": []
+    }
+  ],
+  "atos_no_pdf": 405,
+  "nao_normativos_confirmados": [
+    "0A3627DC",
+    "262618FA",
+    "76843A6E",
+    "8E4CF034",
+    "8F218EE6",
+    "AC9BA669",
+    "C3820FB2"
+  ],
+  "citacoes_confirmadas": [
+    "008D7934",
+    "0476F1C4",
+    "1AF964EE",
+    "1C49CFD6",
+    "221457FE",
+    "37A04E09",
+    "3EE7400A",
+    "5C61EE52",
+    "5DB74B1C",
+    "6080A6AF",
+    "6734519E",
+    "76843A6E",
+    "84DA27D1",
+    "A1B069DB",
+    "A5DD2A4C",
+    "B8DF4BCF",
+    "BC7CA214",
+    "C6F01295",
+    "E276BCFF",
+    "E4FDEA89"
+  ],
+  "acoes": [
+    {
+      "acao": "gravar",
+      "codigo": "AB81EB6A",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/manicore/decretos-legislativos/2026/decreto-legislativo-001-2026-ab81eb6a.md",
+      "destino": "municipais/AM/manicore/decretos-legislativos/2026/decreto-legislativo-001-2026-ab81eb6a.md",
+      "sha256": "a690bc50ab18acf57c2a1ed8cd4021eb79a3689020de604eb2f90feda3b8c9d6",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "MANICORÉ",
+        "titulo": "DECRETO LEGISLATIVO Nº 001/2026, DE 28 DE ABRIL DE 2026",
+        "tipo": "decreto legislativo",
+        "sha256_bloco": "01c8d8e286ffffd144a76c6c94ec66fd5fc7b6da9b57e71d09c663fcab95c35b"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "A2F537E3",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/maues/decretos/2026/decreto-040-2026-a2f537e3.md",
+      "destino": "municipais/AM/maues/decretos/2026/decreto-040-2026-a2f537e3.md",
+      "sha256": "eea168110dd43baee10039352e7efa0129f721d750f251f1070143ae3fc1d419",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "MAUÉS",
+        "titulo": "DECRETO Nº 040, DE 17 DE ABRIL DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "b266e0b1f86f170fdfc1caeb880cbde587972aa805799fcf0d4e9a17d7deb077"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "C0025E97",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/manacapuru/decretos-legislativos/2026/decreto-legislativo-335-2026-c0025e97.md",
+      "destino": "municipais/AM/manacapuru/decretos-legislativos/2026/decreto-legislativo-335-2026-c0025e97.md",
+      "sha256": "ea10a9347c2573371db5e12f903d567b7297ca14d19c8402f3bfaa273c857232",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "MANACAPURU",
+        "titulo": "DECRETO LEGISLATIVO Nº 335, DE 11 DE MAIO DE 2026.",
+        "tipo": "decreto legislativo",
+        "sha256_bloco": "8fe588939de4e95a10a83c663bf9f060e77e9363de58cb34baf249c1398f4f66"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "6DFABB0F",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/manacapuru/decretos-legislativos/2026/decreto-legislativo-334-2026-6dfabb0f.md",
+      "destino": "municipais/AM/manacapuru/decretos-legislativos/2026/decreto-legislativo-334-2026-6dfabb0f.md",
+      "sha256": "834d992d9bf970baa2334c131a569f3d9a0c15d46cdbe59ee3c166bac63aa1f5",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "MANACAPURU",
+        "titulo": "DECRETO LEGISLATIVO Nº 334, DE 11 DE MAIO DE 2026.",
+        "tipo": "decreto legislativo",
+        "sha256_bloco": "4da21dca6caf5d578e41d32161ffcb983158b8c49c22b8ebf154e12a64f997a3"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "B0BF1034",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/manacapuru/decretos-legislativos/2026/decreto-legislativo-336-2026-b0bf1034.md",
+      "destino": "municipais/AM/manacapuru/decretos-legislativos/2026/decreto-legislativo-336-2026-b0bf1034.md",
+      "sha256": "5968ac6b62db28fd4f954d7d2866d195b920d04165ff65a44df7dd25a3ff437d",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "MANACAPURU",
+        "titulo": "DECRETO LEGISLATIVO Nº 336, DE 11 DE MAIO DE 2026.",
+        "tipo": "decreto legislativo",
+        "sha256_bloco": "b33f3c91dd7f02d2782a6701a7dbe23171247a25332c1efba353f44fe689227d"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "9CAC9CFD",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/santa-isabel-do-rio-negro/decretos/2026/decreto-67-2026-9cac9cfd.md",
+      "destino": "municipais/AM/santa-isabel-do-rio-negro/decretos/2026/decreto-67-2026-9cac9cfd.md",
+      "sha256": "15894ca7f584323323115ea763dab7dc1069bcbe6534bcaaca6a6c6c354c4c74",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "SANTA ISABEL DO RIO NEGRO",
+        "titulo": "DECRETO Nº 67, DE 11 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "19937bdd7a5b4bdfda7709bf07be366af9a5104e5ff3ac215bf780424d64172b"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "7DE93EC4",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/barreirinha/decretos/2026/decreto-316-2026-7de93ec4.md",
+      "destino": "municipais/AM/barreirinha/decretos/2026/decreto-316-2026-7de93ec4.md",
+      "sha256": "873d08483fee4ae71a869b0b4b9a558e644a3418fb3d037ee0719b8b2eb2410d",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "BARREIRINHA",
+        "titulo": "DECRETO Nº 316/2026    GPMB, DE 07 DE MAIO DE 2026.",
+        "tipo": "decreto",
+        "sha256_bloco": "b280806079a92db6d1fab3da903cc40f729016e102820cd8cfb9b4139c84dd76"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "CFAE5068",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/caapiranga/leis-ordinarias/2026/lei-ordinaria-004-2026-cfae5068.md",
+      "destino": "municipais/AM/caapiranga/leis-ordinarias/2026/lei-ordinaria-004-2026-cfae5068.md",
+      "sha256": "93e03f69ad2e6648bd8d3235d8ef3be9a565a01184f453aa4db38b558f132bbf",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "CAAPIRANGA",
+        "titulo": "LEI MUNICIPAL Nº 004/2026.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "046fa3ce5957d38ebd401b7c903b1b751d23a89056eab3558e02d51ac984c9c1"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "D7BF6CD9",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/rio-preto-da-eva/decretos/2026/decreto-013-2026-d7bf6cd9.md",
+      "destino": "municipais/AM/rio-preto-da-eva/decretos/2026/decreto-013-2026-d7bf6cd9.md",
+      "sha256": "9cedd3209be5070da55c1e999e60813c640eba0777fa84d4d4c9aa64191a85e7",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "RIO PRETO DA EVA",
+        "titulo": "DECRETO Nº 013, DE 11 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "30ed83bd54a687f71143d364d54132115169dcb5fc78df2673ec41765adac00a"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "43D6B4FA",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/japura/decretos/2026/decreto-168-2026-43d6b4fa.md",
+      "destino": "municipais/AM/japura/decretos/2026/decreto-168-2026-43d6b4fa.md",
+      "sha256": "822b1cdf7ac361327d60b1779e6dbb97451e728400ebfa4a9e6e2a3346ba00dc",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "JAPURÁ",
+        "titulo": "DECRETO Nº 168/2026    GPMJ DE 01 DE ABRIL DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "b1600a2b230bd6b74c9da878ed4bc48f6ba8ee843107b8ca508c6cd83043e45e"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "33ED2ADA",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/itacoatiara/decretos/2026/decreto-274-2026-33ed2ada.md",
+      "destino": "municipais/AM/itacoatiara/decretos/2026/decreto-274-2026-33ed2ada.md",
+      "sha256": "b903bd3ea4fc2ddfaab2411a172948bc2390b499d5e5e6556ba28bbefa145677",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "ITACOATIARA",
+        "titulo": "DECRETO N. 274, DE 05 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "054c2936f9ec97a3c6903b0465c2fcbaeb666058f6f249e4e863fb92155fd2ff"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "C7B2B1FA",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/envira/decretos-legislativos/2026/decreto-legislativo-001-2026-c7b2b1fa.md",
+      "destino": "municipais/AM/envira/decretos-legislativos/2026/decreto-legislativo-001-2026-c7b2b1fa.md",
+      "sha256": "7f5dc03eff301f0363dbddd3f2cb4f08eff59429ff83613e677bccc1f6a49826",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "ENVIRA",
+        "titulo": "DECRETO LEGISLATIVO Nº 001/2026",
+        "tipo": "decreto legislativo",
+        "sha256_bloco": "d8215e4b7a837e8c853c2f528bf6ede6df03130562df3b7c1cd9879fa01479a8"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "BCF7AC1E",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/envira/decretos-legislativos/2026/decreto-legislativo-002-2026-bcf7ac1e.md",
+      "destino": "municipais/AM/envira/decretos-legislativos/2026/decreto-legislativo-002-2026-bcf7ac1e.md",
+      "sha256": "1e2bee698f9ec5de82bd92749aa93a44a9803988c9ac867fd5a8757db22b4d4f",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "ENVIRA",
+        "titulo": "DECRETO LEGISLATIVO Nº 002/2026",
+        "tipo": "decreto legislativo",
+        "sha256_bloco": "9651235082d6c561678792f59d4643f4c25b1ec70410dc32c25584c16cb23402"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "BE7DA994",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/parintins/decretos/2026/decreto-45-2026-be7da994.md",
+      "destino": "municipais/AM/parintins/decretos/2026/decreto-45-2026-be7da994.md",
+      "sha256": "b27c85a3ee77bd2ed9ddf5e983d5d5a9e91eae6eefd56bfc0065bdd8b3330de7",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "PARINTINS",
+        "titulo": "DECRETO Nº 45/2026-PGMP",
+        "tipo": "decreto",
+        "sha256_bloco": "176f71be0bf51b3a6b896e0f6a57c4dc140dddda95bb9656dd69b2d2a096f28c"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "CB9C4564",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/parintins/leis-ordinarias/2026/lei-ordinaria-1047-2026-cb9c4564.md",
+      "destino": "municipais/AM/parintins/leis-ordinarias/2026/lei-ordinaria-1047-2026-cb9c4564.md",
+      "sha256": "accdb7b66f864270aa0a0be60989500ceeaadc0b734be59fa4007a9be3ea89c0",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "PARINTINS",
+        "titulo": "LEI Nº 1.047/2026/PGMP",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "eda81df174dcaf1d0d2db4b95f6893ff55c41424442b48d4628086714d4fc135"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "3590798F",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/eirunepe/decretos/2026/decreto-049-2026-3590798f.md",
+      "destino": "municipais/AM/eirunepe/decretos/2026/decreto-049-2026-3590798f.md",
+      "sha256": "019cfae7b36394b4b0ba28be3c2532ee24bf9aba2758374a00421dcf5e6f7e9a",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "EIRUNEPÉ",
+        "titulo": "DECRETO Nº 049/2026/GABPRE/PME, DE 30 DE ABRIL DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "515880283d8e53e44800fa3cf261f6f29ecfaa5688ba6ab5f6c0d2cc537404ba"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "745D9193",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/eirunepe/decretos/2026/decreto-048-2026-745d9193.md",
+      "destino": "municipais/AM/eirunepe/decretos/2026/decreto-048-2026-745d9193.md",
+      "sha256": "4056dca2e2e4e882572275574acbfc13c43c768b31735bc49972ad0fc623b99f",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "EIRUNEPÉ",
+        "titulo": "DECRETO Nº 048/2026/GABPRE/PME, DE 30 DE ABRIL DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "bfeb3972acb5ecf8ba7069000579ee689ace4c3c10555e2b85c09b09fde4cd89"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "68E3DF14",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/eirunepe/decretos/2026/decreto-050-2026-68e3df14.md",
+      "destino": "municipais/AM/eirunepe/decretos/2026/decreto-050-2026-68e3df14.md",
+      "sha256": "5432f4d5eaf0daa3d06fcdb6a8c294616b00329f16da040e7f0a350b93a7df59",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "EIRUNEPÉ",
+        "titulo": "DECRETO Nº 050/2026/GABPRE/PME, DE 06 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "90ab544ef01ff78fea9f0d147fd285002dd7dfe6c5dc663f88c7586be36fde71"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "0A95F62F",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/fonte-boa/leis-ordinarias/2026/lei-ordinaria-005-2026-0a95f62f.md",
+      "destino": "municipais/AM/fonte-boa/leis-ordinarias/2026/lei-ordinaria-005-2026-0a95f62f.md",
+      "sha256": "b7d07bee3cd7b6f9bcd24fea7628fcc556136c68e70f16c5e9eface11383b396",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "FONTE BOA",
+        "titulo": "LEI Nº 005/2026-GPMFB DE 05 DE MAIO DE 2026.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "d41d013e64bd89fa262a1c34828d14cae8228c1fa51d13e5c67fa8fd2b0e44a7"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "9009AE99",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/tabatinga/decretos/2026/decreto-198-2026-9009ae99.md",
+      "destino": "municipais/AM/tabatinga/decretos/2026/decreto-198-2026-9009ae99.md",
+      "sha256": "22e74ed49004ea7fbea6e09d9ce173975d4d5c58696e284d0be9ff13eccc733a",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": "DECRETO N.º 198/GP-PMT DE 11 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "f8ec0f5e3910de685dabd02762b8b9ff8949838c736944bcbc0ff11e7dcbf7c2"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "2B9CD65F",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/tabatinga/decretos/2026/decreto-191-2026-2b9cd65f.md",
+      "destino": "municipais/AM/tabatinga/decretos/2026/decreto-191-2026-2b9cd65f.md",
+      "sha256": "c46278cf785bcb281447411adf1546ee6c7e24827f8277ca688e29ae055469be",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": "DECRETO N.º 191/GP-PMT DE 08 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "326c050470394d725178b8f06f4a9980f8ba8094746d80a9aceca9eed32413d3"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "69AAC0CD",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/tabatinga/decretos/2026/decreto-200-2026-69aac0cd.md",
+      "destino": "municipais/AM/tabatinga/decretos/2026/decreto-200-2026-69aac0cd.md",
+      "sha256": "57aa24fe52a5c61e3d9e5dc3efa0ac118c139063c8519d28d54fc7070ca3e587",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": "DECRETO N.º 200/GP-PMT DE 11 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "062d8b57088751a5ca3d78575732e4a59866d3923cf6bfe3694422f4cc6113fc"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "E9493547",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/tabatinga/decretos/2026/decreto-199-2026-e9493547.md",
+      "destino": "municipais/AM/tabatinga/decretos/2026/decreto-199-2026-e9493547.md",
+      "sha256": "1ef8b81f90998b32004e7a9b1fe51733a88d3201c8793039042f59c3d805e8d1",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": "DECRETO N.º 199/GP-PMT DE 11 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "125557270fe03a8571e61716e1b830b839b0293217a093e9dce0c61ded81d173"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "AB012D67",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/tabatinga/decretos/2026/decreto-195-2026-ab012d67.md",
+      "destino": "municipais/AM/tabatinga/decretos/2026/decreto-195-2026-ab012d67.md",
+      "sha256": "903e0cc03dc30c05dc461b17298e6c5b45be497fed8552e6a0ae4e9ccab864e3",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": "DECRETO N.º 195/GP-PMT DE 08 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "d10a4980f2566f47093b27c6e683245aa7ee3165a772890433d8bbaf38f080b4"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "4096D8E6",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/tabatinga/decretos/2026/decreto-192-2026-4096d8e6.md",
+      "destino": "municipais/AM/tabatinga/decretos/2026/decreto-192-2026-4096d8e6.md",
+      "sha256": "a263dd363e95de4fa55529b079ac6949319b6b152803e43f8ecaedc97d87e528",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": "DECRETO N.º 192/GP-PMT DE 08 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "903e725c85a7bad2209be1122a44ab3fd71ceca24b37d387e1af0347c724a1cf"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "576A9E94",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/tabatinga/decretos/2026/decreto-196-2026-576a9e94.md",
+      "destino": "municipais/AM/tabatinga/decretos/2026/decreto-196-2026-576a9e94.md",
+      "sha256": "f62ebda56c214bc86fd944e34a6a4a4e5b427954f0ba7e58637fd46265761bd8",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": "DECRETO N.º 196/GP-PMT DE 08 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "b5ab57af102c8ce06f008541d55ed9bbefa9b59bd49ce4fe7221fb5518e820df"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "9F6F14AF",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/tabatinga/decretos/2026/decreto-202-2026-9f6f14af.md",
+      "destino": "municipais/AM/tabatinga/decretos/2026/decreto-202-2026-9f6f14af.md",
+      "sha256": "724cdbfb624d0ffe30e94b362d67b9a86f983819ad754096b20233b52f00d2c0",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": "DECRETO N.º 202/GP-PMT DE 11 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "f7111099cc6ff140b110b739f71182f5b2c85911869bb84d979d567c162dc607"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "D41F4C7F",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/tabatinga/decretos/2026/decreto-201-2026-d41f4c7f.md",
+      "destino": "municipais/AM/tabatinga/decretos/2026/decreto-201-2026-d41f4c7f.md",
+      "sha256": "91ff3afd5f0a50a899e408a5aa8590683827ae60860c0294ee375c830c965fdf",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": "DECRETO N.º 201/GP-PMT DE 11 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "2be49046892797bfd2b71610ae60d258818b2242fa5fb70738db21f2fb9bd2fc"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "4ADDEB86",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/tabatinga/decretos/2026/decreto-197-2026-4addeb86.md",
+      "destino": "municipais/AM/tabatinga/decretos/2026/decreto-197-2026-4addeb86.md",
+      "sha256": "9153e33594631eb8e86bf6c7e3ec6b278ce49216df35fe206664c0fbfc05c912",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": "DECRETO N.º 197/GP-PMT DE 08 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "a6403c0e26ce4b9596c204e7a03fc614a156e0c1a39108aa6a8e1e8b7ada94f7"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "134F2086",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/tabatinga/decretos/2026/decreto-194-2026-134f2086.md",
+      "destino": "municipais/AM/tabatinga/decretos/2026/decreto-194-2026-134f2086.md",
+      "sha256": "e5c64fdfa0df1bc190a79db94ef7b4b4201ee4b0afc7aee1883f99c622c2a64c",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": "DECRETO N.º 194/GP-PMT DE 08 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "8b78f7106f25fd6493ae4efdacaf2d2d92e6cc5d8d6b7363a1e2391751a3757e"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "221F0D98",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/tabatinga/decretos/2026/decreto-193-2026-221f0d98.md",
+      "destino": "municipais/AM/tabatinga/decretos/2026/decreto-193-2026-221f0d98.md",
+      "sha256": "1f53a4de0f717e134a472771d3aefe80707b1265806922e3d6e9dc0c4463bee0",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": "DECRETO N.º 193/GP-PMT DE 08 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "9e3384dc73c51d5f2cd0ee33ded72ae56d73da4de998579e9986f0db2d2a0c09"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "7D10112A",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/itamarati/leis-ordinarias/2026/lei-ordinaria-650-2026-7d10112a.md",
+      "destino": "municipais/AM/itamarati/leis-ordinarias/2026/lei-ordinaria-650-2026-7d10112a.md",
+      "sha256": "685407d4fec8119901b783e1b133676114210156d05e41dc8322b62a0b7a8e29",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "ITAMARATI",
+        "titulo": "LEI MUNICIPAL Nº 650, DE 8 DE MAIO DE 2026.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "bde27a4ea909dde32278e9421e2212c9e7cf6269039a87da918efa1e54ba4957"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "129745CF",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/itamarati/leis-ordinarias/2026/lei-ordinaria-651-2026-129745cf.md",
+      "destino": "municipais/AM/itamarati/leis-ordinarias/2026/lei-ordinaria-651-2026-129745cf.md",
+      "sha256": "6b4a0a7a693af7d4737e9027d47bbcf84177c6a4bbff0b81a84cf6a9942ade8d",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "ITAMARATI",
+        "titulo": "LEI MUNICIPAL Nº 651, DE 8 DE MAIO DE 2026.",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "7439b0ff64b6bcd686f2ff5305784c61b95b30a46ecd56f1e7e7311a5ca17656"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "434281FB",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/tefe/decretos/2026/decreto-044-2026-434281fb.md",
+      "destino": "municipais/AM/tefe/decretos/2026/decreto-044-2026-434281fb.md",
+      "sha256": "80ada598c8115dbacb2a6317caba36220ba715e8df413a35c30f2748143b88cb",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TEFÉ",
+        "titulo": "DECRETO MUNICIPAL Nº 044, DE 11 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "a6bd8cc0bc6f43d5af897d66b1f6fd28a4a5c75104a7bb730782a4390d49d8cf"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "DE12321A",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/humaita/resolucoes/2026/resolucao-07-2026-de12321a.md",
+      "destino": "municipais/AM/humaita/resolucoes/2026/resolucao-07-2026-de12321a.md",
+      "sha256": "42bb039b3662a251b4d02815a7bc95eb98ccf7d1585821cc7718afe66ea8aab7",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "HUMAITÁ",
+        "titulo": "RESOLUÇÃO N. 07/CME/2026",
+        "tipo": "resolucao",
+        "sha256_bloco": "94a2887b7e844e453bc1650f7abcc76045e492df95d537fa59f806b3a4043fb0"
+      }
+    },
+    {
+      "acao": "gravar",
+      "codigo": "1D98BBAD",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/AM/ipixuna/leis-ordinarias/2026/lei-ordinaria-286-2026-1d98bbad.md",
+      "destino": "municipais/AM/ipixuna/leis-ordinarias/2026/lei-ordinaria-286-2026-1d98bbad.md",
+      "sha256": "7de97c9b59c1f287824d294677332662386edefce45ff6eb16c4b2c20616ef77",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "IPIXUNA",
+        "titulo": "Lei Municipal nº 286/2026-PMI",
+        "tipo": "lei ordinaria",
+        "sha256_bloco": "04e6da384ca7f85f8c4701dc48ed3bd7c246b4f79739b89c6b42f23b6a823066"
+      }
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "EEBA6AAF",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/EEBA6AAF.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/EEBA6AAF.json",
+      "sha256": "cb1466fdb5ab4f748bc72aa3bde8c6e2a1fee36139446469c0a86bd8768d23d1",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "84723106",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/84723106.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/84723106.json",
+      "sha256": "495c9db025736be2f948a58d67989bab6ede5de306083211c1a72536c4652790",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "88E8CD65",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/88E8CD65.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/88E8CD65.json",
+      "sha256": "b64aae142f025658b4b9b618fa935dc34d744531552726506dcda04f58ad820f",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "CC004776",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/CC004776.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/CC004776.json",
+      "sha256": "643ddd8a0ba21d6ddf5d8b7cdee9f7549be102dcae725091bb879b5976ea9850",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "DBD13F09",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/DBD13F09.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/DBD13F09.json",
+      "sha256": "03ccd8a702e81a6bbbb213a4001c708b6bf11ab5d98b146a667a5d484ad5fb6f",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "530B4229",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/530B4229.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/530B4229.json",
+      "sha256": "a545e0b70eb72e4bdeca204fe462fc5a7f03c7f537d7dea6ca10f91369712b57",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "71037C91",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/71037C91.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/71037C91.json",
+      "sha256": "32eda1945b4daafba1c0e93b5c3a4242e45ed4b719994b9ee61a3f886840c84c",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "D1E3026B",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/D1E3026B.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/D1E3026B.json",
+      "sha256": "063eb9764c6df7b3dbe304997654e409d3e0f2db49177e0bc9d7bd38dc6844a0",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "C3820FB2",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/C3820FB2.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/C3820FB2.json",
+      "sha256": "49ef66d885def8bc039f01d599de9296186b1c56446f5a04a7c1c7b353c23579",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "AC9BA669",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/AC9BA669.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/AC9BA669.json",
+      "sha256": "a8620e0e28c98ece192454434fba14cfc90429cc91c9bc895591fc702ea7bad7",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "36FDCD25",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/36FDCD25.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/36FDCD25.json",
+      "sha256": "da14be8684fb95741145933071c4206c398a5f5abd24bf2eeb70d4890a0b1665",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "53E753C0",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/53E753C0.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/53E753C0.json",
+      "sha256": "98d081f64f92965d92944ba1e7713d9d1bfb714641eb7326e17249cf30b185bb",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "D28685A6",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/D28685A6.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/D28685A6.json",
+      "sha256": "01a6ba0046e26bc9dab76596f2f891b6ca1f54814c82e4915978c1caa5d77670",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "676CC42C",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/676CC42C.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/676CC42C.json",
+      "sha256": "ebb3dcc3fef7d661af6be73f1e2818c2e8dc67dc9049b25aef17b1e5831b838e",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "B1F24BE7",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/B1F24BE7.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/B1F24BE7.json",
+      "sha256": "d26c30f63ff6fc88aaaa06c84c5582fa3f8e514dd5108614a3169886a0953e17",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "72C21D3E",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/72C21D3E.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/72C21D3E.json",
+      "sha256": "1bdf62979e245223dbd868edb9f08ce02c31991b73f72a5c63e1097c7308193e",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "3D9FDCD6",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/3D9FDCD6.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/3D9FDCD6.json",
+      "sha256": "65b5e60306eb5182e64240f850ce3db27c404da260107d2de346b93db2558a8d",
+      "cobertura": "retificação; não substitui a publicação integral do ato"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "A74516C3",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/A74516C3.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/A74516C3.json",
+      "sha256": "2bd6a375dec268ed6b63d85e8f0a89fb1e5bed2591c554e4ce7c101f7c2b1138",
+      "cobertura": "anexo; documento vinculado ao ato principal, sem contagem como nova norma"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "DD1E1B78",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/DD1E1B78.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/DD1E1B78.json",
+      "sha256": "c46b88228c6793558802d5a3f0b31655e2f6f474bc0d8f064bb84b860a0d46ac",
+      "cobertura": "anexo; documento vinculado ao ato principal, sem contagem como nova norma"
+    },
+    {
+      "acao": "preservar_referencia",
+      "codigo": "1F0F7542",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/1F0F7542.json",
+      "destino": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/1F0F7542.json",
+      "sha256": "7657c74acc8edb94bfed49a1723915ae0e7143cdd8c3c26eb307965b842961cd",
+      "cobertura": "anexo; documento vinculado ao ato principal, sem contagem como nova norma"
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/AM/envira/leis-ordinarias/2026/lei-ordinaria-005-2026-8f218ee6.md",
+      "codigo": "8F218EE6",
+      "motivo": "código sem candidato integral; classificação exige revisão",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "ENVIRA",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "d73e393eb94be99f51164dc7fa580aa86e9eaac77d7ea17d9ca1d547c300dc0a"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/AM/itacoatiara/decretos/2026/decreto-274-2026-8e4cf034.md",
+      "codigo": "8E4CF034",
+      "motivo": "código sem candidato integral; classificação exige revisão",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "ITACOATIARA",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "539aac7665638bf4e1db2442b633ddc283914aec902e1bf46b333956f99b104a"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/AM/tefe/decretos/2026/decreto-044-2026-262618fa.md",
+      "codigo": "262618FA",
+      "motivo": "código sem candidato integral; classificação exige revisão",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TONANTINS",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "8408cd13217500a77791ab805d48a18a364a3e213c9b475ca7725cf6be9de34a"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-196-2026-4addeb86.md",
+      "codigo": "4ADDEB86",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": "DECRETO N.º 197/GP-PMT DE 08 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "a6403c0e26ce4b9596c204e7a03fc614a156e0c1a39108aa6a8e1e8b7ada94f7"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-200-2026-d41f4c7f.md",
+      "codigo": "D41F4C7F",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": "DECRETO N.º 201/GP-PMT DE 11 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "2be49046892797bfd2b71610ae60d258818b2242fa5fb70738db21f2fb9bd2fc"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-202-2026-ac9ba669.md",
+      "codigo": "AC9BA669",
+      "motivo": "código sem candidato integral; classificação exige revisão",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "90da61492018478870861a47e1648389b4e8085dad011f19bc65cc0385983650",
+        "cobertura": "retificação; não substitui a publicação integral do ato"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-199-2026-69aac0cd.md",
+      "codigo": "69AAC0CD",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": "DECRETO N.º 200/GP-PMT DE 11 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "062d8b57088751a5ca3d78575732e4a59866d3923cf6bfe3694422f4cc6113fc"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-201-2026-e9493547.md",
+      "codigo": "E9493547",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": "DECRETO N.º 199/GP-PMT DE 11 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "125557270fe03a8571e61716e1b830b839b0293217a093e9dce0c61ded81d173"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-197-2026-9009ae99.md",
+      "codigo": "9009AE99",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": "DECRETO N.º 198/GP-PMT DE 11 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "f8ec0f5e3910de685dabd02762b8b9ff8949838c736944bcbc0ff11e7dcbf7c2"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-198-2026-576a9e94.md",
+      "codigo": "576A9E94",
+      "motivo": "nova rota/título/código confirmado",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "TABATINGA",
+        "titulo": "DECRETO N.º 196/GP-PMT DE 08 DE MAIO DE 2026",
+        "tipo": "decreto",
+        "sha256_bloco": "b5ab57af102c8ce06f008541d55ed9bbefa9b59bd49ce4fe7221fb5518e820df"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/AM/santa-isabel-do-rio-negro/decretos/2026/decreto-67-2026-c3820fb2.md",
+      "codigo": "C3820FB2",
+      "motivo": "código sem candidato integral; classificação exige revisão",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "SÃO PAULO DE OLIVENÇA",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "eed4f9ec5a8580f8ffdc7e85402575ca18962f29a65eeb68b5cb8f0fc2f9addd",
+        "cobertura": "retificação; não substitui a publicação integral do ato"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/AM/parintins/leis-ordinarias/2026/lei-ordinaria-1047-2026-0a3627dc.md",
+      "codigo": "0A3627DC",
+      "motivo": "código sem candidato integral; classificação exige revisão",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "PARINTINS",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "f1f90ca639c5c5bdb758da6325424d14ff5fc8d350ec726dd31c9df42e1b8932"
+      }
+    },
+    {
+      "acao": "retirar_caminho_anterior",
+      "arquivo": "municipais/AM/barreirinha/decretos/2026/decreto-316-2026-76843a6e.md",
+      "codigo": "76843A6E",
+      "motivo": "código sem candidato integral; classificação exige revisão",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "BARREIRINHA",
+        "titulo": null,
+        "tipo": null,
+        "sha256_bloco": "e2602eca2ab6f9948428d607be30a72c8a10c86280709c07b9ff2f791ed1c81f"
+      }
+    }
+  ],
+  "falhas": [],
+  "preparado_em": "2026-10-16T01:43:48.556074",
+  "revisao_independente": {
+    "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/revisao-independente.json",
+    "sha256": "22fada6cd18150fb5c293c5cc874569b6b21ef1641602bec32aaf118a7a05e0e"
+  }
+}

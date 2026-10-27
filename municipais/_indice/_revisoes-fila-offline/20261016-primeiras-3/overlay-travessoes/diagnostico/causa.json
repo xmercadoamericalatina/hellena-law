@@ -1,0 +1,307 @@
+{
+  "causa_comprovada": "linhas_palavras ordena palavras por yMin e só agrupa diferenças menores que1,5pt. Nestes PDFs o travessão tem yMin1,872pt anterior ao restante da linha, embora yMax difira somente0,009pt. Assim vira linha própria antes das palavras; x é aplicado apenas dentro dessa linha.",
+  "limite": "BBox word-level do Poppler comprova geometria; não foi identificada fonte/fontname ou baseline tipográfico interno, portanto não atribuir causa a fonte específica.",
+  "exemplos": [
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "499.300000",
+        "yMin": "118.721000",
+        "xMax": "503.800000",
+        "yMax": "128.684000"
+      },
+      "vizinho_mesma_linha": {
+        "texto": "Lei",
+        "xMin": "506.860000",
+        "yMin": "120.593000",
+        "xMax": "518.722000",
+        "yMax": "128.693000"
+      }
+    },
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "379.870000",
+        "yMin": "129.041000",
+        "xMax": "384.370000",
+        "yMax": "139.004000"
+      },
+      "vizinho_mesma_linha": {
+        "texto": "LOAS,",
+        "xMin": "386.710000",
+        "yMin": "130.913000",
+        "xMax": "412.234000",
+        "yMax": "139.013000"
+      }
+    },
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "332.590000",
+        "yMin": "170.441000",
+        "xMax": "337.090000",
+        "yMax": "180.404000"
+      },
+      "vizinho_mesma_linha": {
+        "texto": "Lei",
+        "xMin": "339.790000",
+        "yMin": "172.313000",
+        "xMax": "351.652000",
+        "yMax": "180.413000"
+      }
+    },
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "469.900000",
+        "yMin": "170.441000",
+        "xMax": "474.400000",
+        "yMax": "180.404000"
+      },
+      "vizinho_mesma_linha": {
+        "texto": "LOAS,",
+        "xMin": "477.100000",
+        "yMin": "172.313000",
+        "xMax": "502.732000",
+        "yMax": "180.413000"
+      }
+    },
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "561.820000",
+        "yMin": "191.081000",
+        "xMax": "566.320000",
+        "yMax": "201.044000"
+      },
+      "vizinho_mesma_linha": null
+    },
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "391.990000",
+        "yMin": "232.481000",
+        "xMax": "396.490000",
+        "yMax": "242.444000"
+      },
+      "vizinho_mesma_linha": {
+        "texto": "NOB/SUAS,",
+        "xMin": "399.310000",
+        "yMin": "234.353000",
+        "xMax": "445.831000",
+        "yMax": "242.453000"
+      }
+    },
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "311.830000",
+        "yMin": "315.311000",
+        "xMax": "316.330000",
+        "yMax": "325.274000"
+      },
+      "vizinho_mesma_linha": {
+        "texto": "MDS,",
+        "xMin": "318.670000",
+        "yMin": "317.183000",
+        "xMax": "340.450000",
+        "yMax": "325.283000"
+      }
+    },
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "379.870000",
+        "yMin": "325.631000",
+        "xMax": "384.370000",
+        "yMax": "335.594000"
+      },
+      "vizinho_mesma_linha": {
+        "texto": "SUAS;",
+        "xMin": "386.710000",
+        "yMin": "327.503000",
+        "xMax": "412.117000",
+        "yMax": "335.603000"
+      }
+    },
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "158.780000",
+        "yMin": "654.121000",
+        "xMax": "163.280000",
+        "yMax": "664.084000"
+      },
+      "vizinho_mesma_linha": {
+        "texto": "CMAS/ITACOATIARA",
+        "xMin": "165.620000",
+        "yMin": "655.993000",
+        "xMax": "259.454000",
+        "yMax": "664.093000"
+      }
+    },
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "163.100000",
+        "yMin": "705.601000",
+        "xMax": "167.600000",
+        "yMax": "715.564000"
+      },
+      "vizinho_mesma_linha": {
+        "texto": "MDS,",
+        "xMin": "173.660000",
+        "yMin": "707.473000",
+        "xMax": "195.440000",
+        "yMax": "715.573000"
+      }
+    },
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "230.210000",
+        "yMin": "726.241000",
+        "xMax": "234.710000",
+        "yMax": "736.204000"
+      },
+      "vizinho_mesma_linha": {
+        "texto": "Estruturação",
+        "xMin": "237.290000",
+        "yMin": "728.113000",
+        "xMax": "282.812000",
+        "yMax": "736.213000"
+      }
+    },
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "222.170000",
+        "yMin": "746.997000",
+        "xMax": "226.670000",
+        "yMax": "756.960000"
+      },
+      "vizinho_mesma_linha": {
+        "texto": "SUAS.",
+        "xMin": "229.010000",
+        "yMin": "748.869000",
+        "xMax": "254.165000",
+        "yMax": "756.969000"
+      }
+    },
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "481.780000",
+        "yMin": "429.191000",
+        "xMax": "486.280000",
+        "yMax": "439.154000"
+      },
+      "vizinho_mesma_linha": {
+        "texto": "CMAS,",
+        "xMin": "489.340000",
+        "yMin": "431.063000",
+        "xMax": "516.889000",
+        "yMax": "439.163000"
+      }
+    },
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "375.790000",
+        "yMin": "522.331000",
+        "xMax": "380.290000",
+        "yMax": "532.294000"
+      },
+      "vizinho_mesma_linha": {
+        "texto": "MDS,",
+        "xMin": "382.750000",
+        "yMin": "524.203000",
+        "xMax": "404.530000",
+        "yMax": "532.303000"
+      }
+    },
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "395.230000",
+        "yMin": "563.731000",
+        "xMax": "399.730000",
+        "yMax": "573.694000"
+      },
+      "vizinho_mesma_linha": {
+        "texto": "Estruturação",
+        "xMin": "406.750000",
+        "yMin": "565.603000",
+        "xMax": "457.555000",
+        "yMax": "573.703000"
+      }
+    },
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "311.830000",
+        "yMin": "584.371000",
+        "xMax": "316.330000",
+        "yMax": "594.334000"
+      },
+      "vizinho_mesma_linha": {
+        "texto": "SUAS,",
+        "xMin": "320.830000",
+        "yMin": "586.243000",
+        "xMax": "346.120000",
+        "yMax": "594.343000"
+      }
+    },
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "447.100000",
+        "yMin": "636.241000",
+        "xMax": "451.600000",
+        "yMax": "646.204000"
+      },
+      "vizinho_mesma_linha": {
+        "texto": "SUAS,",
+        "xMin": "454.180000",
+        "yMin": "638.113000",
+        "xMax": "479.443000",
+        "yMax": "646.213000"
+      }
+    },
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "466.180000",
+        "yMin": "729.361000",
+        "xMax": "470.680000",
+        "yMax": "739.324000"
+      },
+      "vizinho_mesma_linha": {
+        "texto": "Itacoatiara/AM",
+        "xMin": "472.900000",
+        "yMin": "731.233000",
+        "xMax": "527.683000",
+        "yMax": "739.333000"
+      }
+    },
+    {
+      "travessao": {
+        "texto": "–",
+        "xMin": "96.144000",
+        "yMin": "778.077000",
+        "xMax": "100.644000",
+        "yMax": "788.040000"
+      },
+      "vizinho_mesma_linha": {
+        "texto": "CMAS,",
+        "xMin": "103.580000",
+        "yMin": "779.949000",
+        "xMax": "132.350000",
+        "yMax": "788.049000"
+      }
+    }
+  ],
+  "proposta_minima_nao_aplicada": "Reagrupar pontuação isolada com linha local por sobreposição vertical e proximidade de yMax, sem aumentar tolerância global indiscriminadamente; ordenar x depois. Exigir mesma coluna/faixa e recusar associação ambígua. Fixtures com travessão1,872pt alto, incisos, sinais no fim/início, sobrescritos, tabelas e linhas adjacentes. Recomparar TODOS141MD publicados e32refs por PDF/código antes de classificar alcance; overlay2 não valida correção global.",
+  "core_sha256": "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5",
+  "evidencia_xml_sha256": "42cf9b58e6d0ab73864612630286bcdc05321c4842aa4e058a658c398ae6f4f9"
+}

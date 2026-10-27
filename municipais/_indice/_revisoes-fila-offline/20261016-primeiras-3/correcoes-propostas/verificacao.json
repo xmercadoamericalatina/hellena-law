@@ -1,0 +1,25 @@
+{
+  "documentos": [
+    {
+      "codigo": "40E46327",
+      "formato_erros": [],
+      "formato_avisos": [],
+      "sha256_corrigido": "4f46af3e07e748c871fe980b57e55bb88f7690674e3b0d4cd842755840924742",
+      "original_snapshot_fonte_canonico_verificados": true
+    },
+    {
+      "codigo": "20351D69",
+      "formato_erros": [],
+      "formato_avisos": [],
+      "sha256_corrigido": "c41faf5bda09dc484349b38afcefcb7fffb2e6fb6689f447cd758e092de69713",
+      "original_snapshot_fonte_canonico_verificados": true
+    }
+  ],
+  "deltas": {
+    "A": 1,
+    "M": 1,
+    "D": 0
+  },
+  "proposta_sha256": "07893f54994d691ec7f2ec8bb078ed261554af18f045bdb965f5d8ded16060f5",
+  "revisao_original_inalterada": true
+}

@@ -1,0 +1,20 @@
+{
+  "cadastro_ibge": {
+    "path": "municipais/_indice/ibge-municipios.json",
+    "sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c"
+  },
+  "resultados": [
+    {
+      "path": "municipais/PB/joao-pessoa/lei-organica/1990/lei-organica-1-1990-sapl-14101.md",
+      "sha256": "9d1ac18eb21a275c17da3a0906602d2bdf0dd66b8cd497d3666f2fae1373e25c",
+      "alertas": [],
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/f859ade2226d6f03c01c2e2816990b68851354ed6d51d5ce54106bd0072ad825.json.gz",
+        "sha256": "73d38cf8457289ef844e47b9bc732dfe48b6bbf9d597f0584367ea0de681ce5a",
+        "sha256_layout": "6a3191f5c3f37ce07489e621e74e15aba459b3e31693027ceb8061a2508a7e8b",
+        "sha256_bbox": "aaa496a708e2f2ad0b4d197a8d0b5a0914400fa2c6dc18a3dad24b0a21314641"
+      }
+    }
+  ],
+  "limite": "Sinaliza cabeçalho de município diferente, sem corrigir o texto oficial.\n\nSó há correspondência com nome real do cadastro IBGE. Menções genéricas a\nprojetos, vereadores ou iniciativa de lei não viram municípios inventados.\nO resultado é triagem para revisão, nunca autorização automática de publicação.\n"
+}

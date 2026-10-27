@@ -1,0 +1,91 @@
+[
+  {
+    "ordem": 1,
+    "checkpoint_key": "4e9f598f1c10030ecad793723dfc7f2518ef4c127d1ee554a76a73d1e13a0e43",
+    "checkpoint": {
+      "pdf": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aam/2026-05-12-4103a.pdf",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_120158_2026-05-12_b3e9e194939d9d0215e5d5d8515b154e.pdf",
+      "sha256_pdf": "69ebb0cac1b36de568249f7b26832a477c95b863bbfc58fbf0fcd960c91e42a7",
+      "exit_code": 0,
+      "log": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/fila-offline/logs/4e9f598f1c10030ecad793723dfc7f2518ef4c127d1ee554a76a73d1e13a0e43.txt",
+      "verificado_em": "2026-10-16T02:06:47.316199",
+      "estado": "preparado",
+      "anteriores": 0,
+      "novos": 0,
+      "falhas": 0,
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/fila-offline/candidatos/8ed81be74fc1abb5b610296e1828b920e156c92b6e4c7c5693beadc78217e43a/geometria-colunas-v2/dd9b71023a2f4a0c92866a8700bd1afe/manifesto.json",
+      "sha256_classificador": "6ad567935722b5e8b846d6eb306fcbb0cb2df93552e1c90fe6e930211c5a3df7",
+      "sha256_extrator": "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5",
+      "sha256_reconciliador": "adc429923c70724da472effe1b9971fb8d348711a695450ba1fc16bec2582dc7",
+      "sha256_pipeline": "58c67cad88f9bc45a08cbb587c69a3ce41717218b1a9ca7d5e68e85d65a13261"
+    },
+    "manifesto_sha256": "77be0a9b1fdd57e248a0f0766d98fda8e9c71594af37334dd0f24118402d8b62",
+    "snapshot": "municipais/_indice/_revisoes-fila-offline/20261016-primeiras-3/01-2026-05-12-4103a",
+    "arquivos": {
+      "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/fila-offline/candidatos/8ed81be74fc1abb5b610296e1828b920e156c92b6e4c7c5693beadc78217e43a/geometria-colunas-v2/dd9b71023a2f4a0c92866a8700bd1afe/manifesto.json": "77be0a9b1fdd57e248a0f0766d98fda8e9c71594af37334dd0f24118402d8b62",
+      "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aam/2026-05-12-4103a.pdf": "69ebb0cac1b36de568249f7b26832a477c95b863bbfc58fbf0fcd960c91e42a7",
+      "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aam/2026-05-12-4103a.pdf.geometria-colunas-v2.3d954c48700d4932.txt": "3ab4c17f4d8d3bb4903fe77b1fba56c800b8dfe7efbce56e228c41dbca4e20a9",
+      "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aam/2026-05-12-4103a.pdf.geometria-colunas-v2.3d954c48700d4932.json": "1a843f122cc6890ee2fd431ad57b9b42a4951655e897224a995628746eb0c0e0"
+    }
+  },
+  {
+    "ordem": 2,
+    "checkpoint_key": "c3765887d4b664c0a77bdd5ecfab5c06a02723e441c700f2980b88dafaad3e9b",
+    "checkpoint": {
+      "pdf": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aam/2026-07-03-4141a.pdf",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_120475_2026-07-03_c8fc704764384f02ad62a9ea4aff54bc.pdf",
+      "sha256_pdf": "aa69b7a88e04dbe8d616f77737f5173851f677b68ce562e1d483ba7274c2cd2e",
+      "exit_code": 0,
+      "log": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/fila-offline/logs/c3765887d4b664c0a77bdd5ecfab5c06a02723e441c700f2980b88dafaad3e9b.txt",
+      "verificado_em": "2026-10-16T02:07:06.690307",
+      "estado": "preparado",
+      "anteriores": 0,
+      "novos": 1,
+      "falhas": 0,
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/fila-offline/candidatos/03c903e778aad0e8670b6928bd795230c31ceff5641fb99d4dbedfc63d0f1a79/geometria-colunas-v2/4bacc29722e443b9a1312306e0a5fbb5/manifesto.json",
+      "sha256_classificador": "6ad567935722b5e8b846d6eb306fcbb0cb2df93552e1c90fe6e930211c5a3df7",
+      "sha256_extrator": "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5",
+      "sha256_reconciliador": "adc429923c70724da472effe1b9971fb8d348711a695450ba1fc16bec2582dc7",
+      "sha256_pipeline": "58c67cad88f9bc45a08cbb587c69a3ce41717218b1a9ca7d5e68e85d65a13261"
+    },
+    "manifesto_sha256": "c4e91db1580d3608d0a2581f5e1a4e4b88c43673a054b133cbe2eb0b5f5c0432",
+    "snapshot": "municipais/_indice/_revisoes-fila-offline/20261016-primeiras-3/02-2026-07-03-4141a",
+    "arquivos": {
+      "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/fila-offline/candidatos/03c903e778aad0e8670b6928bd795230c31ceff5641fb99d4dbedfc63d0f1a79/geometria-colunas-v2/4bacc29722e443b9a1312306e0a5fbb5/manifesto.json": "c4e91db1580d3608d0a2581f5e1a4e4b88c43673a054b133cbe2eb0b5f5c0432",
+      "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aam/2026-07-03-4141a.pdf": "aa69b7a88e04dbe8d616f77737f5173851f677b68ce562e1d483ba7274c2cd2e",
+      "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aam/2026-07-03-4141a.pdf.geometria-colunas-v2.3d954c48700d4932.txt": "50b674b98b348d90501d7e2f26ba1207c06d224a7d60e671cbadd872f7f6d781",
+      "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aam/2026-07-03-4141a.pdf.geometria-colunas-v2.3d954c48700d4932.json": "bc69ec157dea4f8b9015d6a0670350a5ebf154c3229ea5b21ab28217f2550ec6",
+      "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/fila-offline/candidatos/03c903e778aad0e8670b6928bd795230c31ceff5641fb99d4dbedfc63d0f1a79/geometria-colunas-v2/4bacc29722e443b9a1312306e0a5fbb5/municipais/AM/itacoatiara/resolucoes/2026/resolucao-011-2026-40e46327.md": "087405f176a55946819a65d338f5e8e4cecd61fa7590465790a648ca655c0c9e"
+    }
+  },
+  {
+    "ordem": 3,
+    "checkpoint_key": "fe0666404c9018dfa6d8dac3755bd12ab2a0651795dda721eedc7f59607fa439",
+    "checkpoint": {
+      "pdf": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aemerj/2026-01-08-4036a.pdf",
+      "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=265&i=publicado_119311_2026-01-08_6c57aafa86497f18b745b0981a5fa4fa.pdf",
+      "sha256_pdf": "dd680860043650643b59aebd3410f3d4de92d4a9180f525a7783a86d827a0541",
+      "exit_code": 0,
+      "log": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/fila-offline/logs/fe0666404c9018dfa6d8dac3755bd12ab2a0651795dda721eedc7f59607fa439.txt",
+      "verificado_em": "2026-10-16T02:10:18.623827",
+      "estado": "preparado",
+      "anteriores": 1,
+      "novos": 1,
+      "falhas": 0,
+      "manifesto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/fila-offline/candidatos/b6bfe92d4683c78de191b1402e8f1ddf4ab73b2a415cf074e188b2d3e9467dbd/geometria-colunas-v2/d403f02da1214076a1d4f5662cbad778/manifesto.json",
+      "sha256_classificador": "6ad567935722b5e8b846d6eb306fcbb0cb2df93552e1c90fe6e930211c5a3df7",
+      "sha256_extrator": "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5",
+      "sha256_reconciliador": "adc429923c70724da472effe1b9971fb8d348711a695450ba1fc16bec2582dc7",
+      "sha256_pipeline": "58c67cad88f9bc45a08cbb587c69a3ce41717218b1a9ca7d5e68e85d65a13261"
+    },
+    "manifesto_sha256": "a14a5ed14cca83d41a0d4710f169fa23e0484e05e7ffca166fc26a88326d99fb",
+    "snapshot": "municipais/_indice/_revisoes-fila-offline/20261016-primeiras-3/03-2026-01-08-4036a",
+    "arquivos": {
+      "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/fila-offline/candidatos/b6bfe92d4683c78de191b1402e8f1ddf4ab73b2a415cf074e188b2d3e9467dbd/geometria-colunas-v2/d403f02da1214076a1d4f5662cbad778/manifesto.json": "a14a5ed14cca83d41a0d4710f169fa23e0484e05e7ffca166fc26a88326d99fb",
+      "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aemerj/2026-01-08-4036a.pdf": "dd680860043650643b59aebd3410f3d4de92d4a9180f525a7783a86d827a0541",
+      "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aemerj/2026-01-08-4036a.pdf.geometria-colunas-v2.3d954c48700d4932.txt": "5aca7921bc631714ca7aeada5c1d010681b217124ac3f553401957c28762813d",
+      "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aemerj/2026-01-08-4036a.pdf.geometria-colunas-v2.3d954c48700d4932.json": "6288b67dfd18c8c1a044d0c7b6975331aeabe6a18a000936768fbdfa3ab14019",
+      "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/fila-offline/candidatos/b6bfe92d4683c78de191b1402e8f1ddf4ab73b2a415cf074e188b2d3e9467dbd/geometria-colunas-v2/d403f02da1214076a1d4f5662cbad778/municipais/RJ/engenheiro-paulo-de-frontin/decretos/2026/decreto-757-2026-20351d69.md": "8939902fea52ff02cf6166017ea3f4a7261f2bb58a6f65f41e8430748d9a849e"
+    }
+  }
+]

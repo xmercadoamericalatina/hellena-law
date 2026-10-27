@@ -1,0 +1,34 @@
+{
+  "documentos": 9,
+  "criterio": "DOCX nativo simples sem imagens, objetos, tabelas, fontes simbólicas, numeração herdada/implícita, campos, texto em partes adicionais, revisões/tachados ou relacionamentos externos; todos os tokens do corpo OOXML confrontados independentemente com MD. Datas conferidas literalmente no encerramento e identidade no corpo; índice oficial de anexos completo e sem itens adicionais. Não certifica vigência jurídica integral.",
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-docx-simples-estilos-verificados/controle.json",
+      "sha256": "9fed5c55269c9fa1b9ccda3b7eb68839b48a12232f0e4a30f54057970c790f1a"
+    },
+    {
+      "path": "municipais/_lotes/20261020-docx-simples-integral-v2/emissores.json",
+      "sha256": "7cf48ac09d4d23e01878344cbbb0eaad490c2d0fffc882019863da9f0cf75e83"
+    },
+    {
+      "path": "municipais/_lotes/20261020-docx-simples-gate-anexos/overlay.json",
+      "sha256": "6f6ca2f5ba5e9c87f86c6004466b468e87d07d0cad607deabdba12d00ddd45de"
+    },
+    {
+      "path": "municipais/_lotes/20261020-docx-simples-final/lote-0001.paths.txt",
+      "sha256": "ac4ee3b2e55285f09bc4e5399755dfd3d86cd3e30ad8bd1675240ec9983f7138"
+    },
+    {
+      "path": "municipais/_lotes/20261020-docx-simples-final/auditoria-municipal.json",
+      "sha256": "6b3eefc094e9102885be0cd5aeb68eb78b8dc91d9c0b1abe4b2469b57f87d83b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-docx-simples-final/identidade-literal.json",
+      "sha256": "da467bb4da911ed657eba4b84d86ecb46b00caf4bbb1eaa8b32306e9fde2445c"
+    },
+    {
+      "path": "municipais/_lotes/20261020-docx-simples-final/lote-0001.json",
+      "sha256": "2f693fe1c30f5a93faf750a765516d223dd230cc9708a6d4218bbacbf4ff9c85"
+    }
+  ]
+}

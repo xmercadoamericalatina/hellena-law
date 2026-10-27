@@ -1,0 +1,74 @@
+{
+  "extrator": "geometria-colunas-v2",
+  "sha256_extrator": "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5",
+  "pdf": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aemerj/2026-01-08-4036a.pdf",
+  "sha256_pdf": "dd680860043650643b59aebd3410f3d4de92d4a9180f525a7783a86d827a0541",
+  "sha256_texto": "5aca7921bc631714ca7aeada5c1d010681b217124ac3f553401957c28762813d",
+  "extraido_em": "2026-10-16T02:10:18.567475",
+  "paginas": [
+    {
+      "pagina": 1,
+      "colunas": 2,
+      "bandas": [
+        [
+          0,
+          112.81999999999994,
+          1
+        ],
+        [
+          112.81999999999994,
+          803.76,
+          2
+        ],
+        [
+          803.76,
+          841.92,
+          1
+        ]
+      ],
+      "largura": 595.32,
+      "altura": 841.92,
+      "reguas_colunas": [
+        [
+          112.81999999999994,
+          803.76
+        ]
+      ],
+      "tabelas_largura_total": [],
+      "grades_largura_total": [],
+      "prova_layout_verificado": null
+    },
+    {
+      "pagina": 2,
+      "colunas": 2,
+      "bandas": [
+        [
+          0,
+          39.120000000000005,
+          1
+        ],
+        [
+          39.120000000000005,
+          800.64,
+          2
+        ],
+        [
+          800.64,
+          841.92,
+          1
+        ]
+      ],
+      "largura": 595.32,
+      "altura": 841.92,
+      "reguas_colunas": [
+        [
+          39.120000000000005,
+          800.64
+        ]
+      ],
+      "tabelas_largura_total": [],
+      "grades_largura_total": [],
+      "prova_layout_verificado": null
+    }
+  ]
+}

@@ -1,0 +1,2443 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Fortaleza</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Fortaleza",
+      "url" : "http://sapl.fortaleza.ce.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          21/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/logo_casa.png"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Fortaleza
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/5519?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/2384/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei Ordinária nº 8.693, de 31 de dezembro de 2002
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei Ordinária</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>8693</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>2002</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>31 de Dezembro de 2002</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>Dispõe sobre a educação ambiental, institui a política municipal de educação ambiental e dá outras providências.</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/2384/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt75918" ><div class="dtxt" id="d75918" pks="" pk="75918"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt79555" ><a class="dpt-link" name="79555" title="79555"></a><div class="dtxt" id="d79555" pks="" pk="79555">Dispõe sobre a educação ambiental, institui a política municipal
+de educação ambiental e dá outras providências.</div></div><div class="dn" id="dn79555" pk="79555"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt79556" ><a class="dpt-link" name="79556" title="79556"></a><div class="dtxt" id="d79556" pks="" pk="79556">A CÂMARA MUNICIPAL DE FORTALEZA DECRETA E EU SANCIONO A SEGUINTE LEI:</div></div><div class="dn" id="dn79556" pk="79556"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt79557" ><div class="dtxt" id="d79557" pks="" pk="79557"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="capitulo  "><div class="dptt "  id="dptt79558" ><a class="dpt-link" name="79558" title="79558">CAPÍTULO I</a><br><div class="dtxt" id="d79558" pks="" pk="79558">Da Educação Ambiental</div></div><div class="dn" id="dn79558" pk="79558"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79559" ><div class="dtxt" id="d79559" pks="" pk="79559"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79560" ><a class="dpt-link" name="79560">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79560" pks="" pk="79560">Entende-se por educação ambiental os
+processos através dos quais o indivíduo e a coletividade constroem valores sociais, conhecimentos, habilidades, atitudes e
+competências voltadas para a conservação do meio ambiente,
+considerando-o bem social de uso comum, essencial à sadia
+qualidade e sustentabilidade da vida humana.</div></div><div class="dn" id="dn79560" pk="79560"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79561" ><div class="dtxt" id="d79561" pks="" pk="79561"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79562" ><a class="dpt-link" name="79562">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79562" pks="" pk="79562">A educação ambiental é um componente
+essencial e permanente da educação municipal, devendo estar
+presente, de forma articulada, em todos os níveis e modalidades do processo educativo em caráter formal e não-formal.</div></div><div class="dn" id="dn79562" pk="79562"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79563" ><div class="dtxt" id="d79563" pks="" pk="79563"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79564" ><a class="dpt-link" name="79564">Art. 3º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79564" pks="" pk="79564">Todos os cidadãos têm direito à educação
+ambiental como parte do processo educativo mais amplo, incumbindo:</div></div><div class="dn" id="dn79564" pk="79564"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79565" ><a class="dpt-link" name="79565" title="79565">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79565" pks="" pk="79565">ao Poder Público, definir políticas públicas que
+incorporem a dimensão ambiental, promover a educação ambiental em todos os níveis de ensino e o engajamento da sociedade na conservação, recuperação e melhoria do meio
+ambiente, nos termos dos arts. 205 e 225 da Constituição Federal;</div></div><div class="dn" id="dn79565" pk="79565"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79566" ><a class="dpt-link" name="79566" title="79566">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79566" pks="" pk="79566">às instituições educativas, promover a educação ambiental de maneira integrada aos seus programas educacionais;</div></div><div class="dn" id="dn79566" pk="79566"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79567" ><a class="dpt-link" name="79567" title="79567">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79567" pks="" pk="79567">ao Conselho Municipal de Defesa do Meio
+Ambiente (COMDEMA), promover ações de educação ambiental integradas aos programas de conservação, recuperação e
+melhoria do meio ambiente; (VETADO)</div></div><div class="dn" id="dn79567" pk="79567"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79568" ><a class="dpt-link" name="79568" title="79568">IV</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79568" pks="" pk="79568">às empresas entidades de classe, instituições
+públicas e privadas, promover programas destinados à capacitação dos trabalhadores visando a um controle efetivo sobre o
+ambiente de trabalho, bem como sobre as repercussões do
+processo produtivo no meio ambiente; (VETADO)</div></div><div class="dn" id="dn79568" pk="79568"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79569" ><a class="dpt-link" name="79569" title="79569">V</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79569" pks="" pk="79569">à sociedade como um todo, manter atenção
+permanente à formação de valores, atitudes e habilidades que
+propiciem a atuação individual e coletiva voltada para a prevenção, a identificação e a solução de problemas ambientais.</div></div><div class="dn" id="dn79569" pk="79569"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79570" ><div class="dtxt" id="d79570" pks="" pk="79570"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79571" ><a class="dpt-link" name="79571">Art. 4º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79571" pks="" pk="79571">São princípios básicos da educação ambiental:</div></div><div class="dn" id="dn79571" pk="79571"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79572" ><a class="dpt-link" name="79572" title="79572">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79572" pks="" pk="79572">o enfoque humanista, democrático e participativo;</div></div><div class="dn" id="dn79572" pk="79572"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79573" ><a class="dpt-link" name="79573" title="79573">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79573" pks="" pk="79573">a concepção do meio ambiente em sua totalidade, considerando a interdependência e integração entre o
+meio natural, o socioeconômico e o cultural, sob o enfoque da
+sustentabilidade;</div></div><div class="dn" id="dn79573" pk="79573"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79574" ><a class="dpt-link" name="79574" title="79574">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79574" pks="" pk="79574">o pluralismo e diversidade de idéias e concepções pedagógicas, na perspectiva da interdisciplinaridade;</div></div><div class="dn" id="dn79574" pk="79574"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79575" ><a class="dpt-link" name="79575" title="79575">IV</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79575" pks="" pk="79575">a vinculação entre ética, educação, trabalho e
+práticas sociais;</div></div><div class="dn" id="dn79575" pk="79575"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79576" ><a class="dpt-link" name="79576" title="79576">V</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79576" pks="" pk="79576">a garantia de continuidade e permanência do
+processo educativo;</div></div><div class="dn" id="dn79576" pk="79576"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79577" ><a class="dpt-link" name="79577" title="79577">VI</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79577" pks="" pk="79577">a permanente avaliação crítica do processo
+educativo;</div></div><div class="dn" id="dn79577" pk="79577"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79578" ><a class="dpt-link" name="79578" title="79578">VII</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79578" pks="" pk="79578">a abordagem articulada das questões ambientais locais, regionais, nacionais e globais;</div></div><div class="dn" id="dn79578" pk="79578"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79579" ><a class="dpt-link" name="79579" title="79579">VIII</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79579" pks="" pk="79579">o reconhecimento e o respeito à pluralidade
+e à diversidade cultural;</div></div><div class="dn" id="dn79579" pk="79579"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79580" ><a class="dpt-link" name="79580" title="79580">IX</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79580" pks="" pk="79580">a adoção de princípios e diretrizes estabelecidos na agenda 21 da ONU (Organização das Nações Unidas).</div></div><div class="dn" id="dn79580" pk="79580"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79581" ><div class="dtxt" id="d79581" pks="" pk="79581"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79582" ><a class="dpt-link" name="79582">Art. 5º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79582" pks="" pk="79582">São objetivos fundamentais da educação
+ambiental:</div></div><div class="dn" id="dn79582" pk="79582"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79583" ><a class="dpt-link" name="79583" title="79583">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79583" pks="" pk="79583">o desenvolvimento de uma compreensão integrada do meio ambiente em suas múltiplas e complexas
+relações, envolvendo aspectos ecológicos, psicológicos, legais, políticos, sociais, econômicos, científicos, culturais e éticos;</div></div><div class="dn" id="dn79583" pk="79583"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79584" ><a class="dpt-link" name="79584" title="79584">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79584" pks="" pk="79584">a garantia de democratização na elaboração
+dos conteúdos e da acessibilidade e transparência das informações ambientais;</div></div><div class="dn" id="dn79584" pk="79584"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79585" ><a class="dpt-link" name="79585" title="79585">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79585" pks="" pk="79585">o estímulo e o fortalecimento de uma consciência crítica sobre a problemática ambiental e social;</div></div><div class="dn" id="dn79585" pk="79585"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79586" ><a class="dpt-link" name="79586" title="79586">IV</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79586" pks="" pk="79586">o incentivo à participação individual e coletiva, permanente e responsável, na preservação do equilíbrio
+do meio ambiente, entendendo-se a defesa da qualidade
+ambiental como um valor inseparável do exercício da cidadania;</div></div><div class="dn" id="dn79586" pk="79586"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79587" ><a class="dpt-link" name="79587" title="79587">V</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79587" pks="" pk="79587">o estímulo à cooperação entre as diversas
+regiões do município, em níveis micro e macrorregionais, com
+vistas à construção de uma sociedade ambientalmente equilibrada, fundada nos princípios da liberdade, igualdade, solidariedade, democracia, justiça social, responsabilidade e
+sustentabilidade;</div></div><div class="dn" id="dn79587" pk="79587"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79588" ><a class="dpt-link" name="79588" title="79588">VI</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79588" pks="" pk="79588">o fomento e o fortalecimento da integração
+com a ciência e tecnologia.</div></div><div class="dn" id="dn79588" pk="79588"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="capitulo  "><div class="dptt "  id="dptt79589" ><a class="dpt-link" name="79589" title="79589">CAPÍTULO II</a><br><div class="dtxt" id="d79589" pks="" pk="79589">Da Política Municipal de Educação Ambiental</div></div><div class="dn" id="dn79589" pk="79589"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="secao  "><div class="dptt "  id="dptt79590" ><a class="dpt-link" name="79590" title="79590">Seção I</a><br><div class="dtxt" id="d79590" pks="" pk="79590">Disposições Gerais</div></div><div class="dn" id="dn79590" pk="79590"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79591" ><div class="dtxt" id="d79591" pks="" pk="79591"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="4">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79592" ><a class="dpt-link" name="79592">Art. 6º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79592" pks="" pk="79592">Fica instituída a Política Municipal de
+Educação Ambiental.</div></div><div class="dn" id="dn79592" pk="79592"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79593" ><div class="dtxt" id="d79593" pks="" pk="79593"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="4">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79594" ><a class="dpt-link" name="79594">Art. 7º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79594" pks="" pk="79594">A Política Municipal de Educação Ambiental envolve em sua esfera de ação, além dos órgãos e entidades integrantes do SISNAMA, instituições educacionais públicas e privadas do sistema de ensino, os órgãos públicos da União, do Estado, do Município e do órgão municipal de educação, o COMDEMA, e organizações não-governamentais com
+atuação em educação ambiental.</div></div><div class="dn" id="dn79594" pk="79594"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79595" ><div class="dtxt" id="d79595" pks="" pk="79595"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="4">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79596" ><a class="dpt-link" name="79596">Art. 8º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79596" pks="" pk="79596">As atividades vinculadas à Política Municipal de Educação Ambiental devem ser desenvolvidas na
+educação formal e não-formal, através das seguintes linhas de
+atuação interrelacionadas:</div></div><div class="dn" id="dn79596" pk="79596"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79597" ><a class="dpt-link" name="79597" title="79597">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79597" pks="" pk="79597">capacitação de recursos humanos;</div></div><div class="dn" id="dn79597" pk="79597"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79600" ><a class="dpt-link" name="79600" title="79600">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79600" pks="" pk="79600">desenvolvimento de estudos, pesquisas e
+experimentações;</div></div><div class="dn" id="dn79600" pk="79600"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79602" ><a class="dpt-link" name="79602" title="79602">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79602" pks="" pk="79602">produção de material educativo;</div></div><div class="dn" id="dn79602" pk="79602"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79601" ><a class="dpt-link" name="79601" title="79601">IV</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79601" pks="" pk="79601">acompanhamento e avaliação.</div></div><div class="dn" id="dn79601" pk="79601"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt79603" ><a class="dpt-link" name="79603" title="79603">§ 1º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79603" pks="" pk="79603">Nas atividades vinculadas à Política Municipal de Educação Ambiental serão respeitados os princípios e
+objetivos fixados por esta Lei.</div></div><div class="dn" id="dn79603" pk="79603"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt79604" ><a class="dpt-link" name="79604" title="79604">§ 2º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79604" pks="" pk="79604">A capacitação de recursos humanos voltar-se-à para:</div></div><div class="dn" id="dn79604" pk="79604"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79605" ><a class="dpt-link" name="79605" title="79605">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79605" pks="" pk="79605">a incorporação da dimensão ambiental durante
+a formação e a especialização dos educadores de todos os
+níveis e modalidades de ensino;</div></div><div class="dn" id="dn79605" pk="79605"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79606" ><a class="dpt-link" name="79606" title="79606">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79606" pks="" pk="79606">a formação e atualização de todos os profissionais em questões ambientais;</div></div><div class="dn" id="dn79606" pk="79606"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79607" ><a class="dpt-link" name="79607" title="79607">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79607" pks="" pk="79607">a preparação de profissionais orientados para
+as atividades de gestão ambiental;</div></div><div class="dn" id="dn79607" pk="79607"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79608" ><a class="dpt-link" name="79608" title="79608">IV</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79608" pks="" pk="79608">a formação e atualização de profissionais
+especializados na área de meio ambiente;</div></div><div class="dn" id="dn79608" pk="79608"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79609" ><a class="dpt-link" name="79609" title="79609">V</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79609" pks="" pk="79609">o atendimento da demanda dos diversos segmentos da sociedade no que diz respeito à problemática ambiental.</div></div><div class="dn" id="dn79609" pk="79609"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt79610" ><a class="dpt-link" name="79610" title="79610">§ 3º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79610" pks="" pk="79610">As ações de estudos, pesquisas e experimentações voltar-se-ão para:</div></div><div class="dn" id="dn79610" pk="79610"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79611" ><a class="dpt-link" name="79611" title="79611">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79611" pks="" pk="79611">o desenvolvimento de instrumentos e metodologias visando à incorporação da dimensão ambiental, de
+forma interdisciplinar nos diferentes níveis e modalidades de
+ensino;</div></div><div class="dn" id="dn79611" pk="79611"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79612" ><a class="dpt-link" name="79612" title="79612">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79612" pks="" pk="79612">a difusão de conhecimentos e de informações
+sobre a questão ambiental;</div></div><div class="dn" id="dn79612" pk="79612"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79613" ><a class="dpt-link" name="79613" title="79613">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79613" pks="" pk="79613">o desenvolvimento de instrumentos e metodologias visando à participação das populações interessadas na
+formulação e execução de pesquisas relacionadas à problemática ambiental;</div></div><div class="dn" id="dn79613" pk="79613"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79614" ><a class="dpt-link" name="79614" title="79614">IV</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79614" pks="" pk="79614">a busca de alternativas curriculares e metodológicas da capacitação na área ambiental;</div></div><div class="dn" id="dn79614" pk="79614"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79615" ><a class="dpt-link" name="79615" title="79615">V</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79615" pks="" pk="79615">o apoio a iniciativas e experiências locais e
+regionais, incluindo a produção de material educativo.</div></div><div class="dn" id="dn79615" pk="79615"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="secao  "><div class="dptt "  id="dptt79616" ><a class="dpt-link" name="79616" title="79616">Seção II</a><br><div class="dtxt" id="d79616" pks="" pk="79616">Da Educação Ambiental no Ensino Formal</div></div><div class="dn" id="dn79616" pk="79616"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79617" ><div class="dtxt" id="d79617" pks="" pk="79617"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="4">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79618" ><a class="dpt-link" name="79618">Art. 9º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79618" pks="" pk="79618">Entende-se por educação ambiental no
+ensino formal a desenvolvida no âmbito dos currículos das
+instituições escolares públicas municipais, englobando:</div></div><div class="dn" id="dn79618" pk="79618"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79619" ><a class="dpt-link" name="79619" title="79619">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79619" pks="" pk="79619">educação básica: infantil e fundamental;</div></div><div class="dn" id="dn79619" pk="79619"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79620" ><a class="dpt-link" name="79620" title="79620">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79620" pks="" pk="79620">educação especial;</div></div><div class="dn" id="dn79620" pk="79620"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79621" ><a class="dpt-link" name="79621" title="79621">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79621" pks="" pk="79621">educação para população tradicionais.</div></div><div class="dn" id="dn79621" pk="79621"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79622" ><div class="dtxt" id="d79622" pks="" pk="79622"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="4">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79623" ><a class="dpt-link" name="79623">Art. 10.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79623" pks="" pk="79623">A educação ambiental será desenvolvida
+como uma prática educativa integrada, contínua e permanente
+em todos os níveis e modalidades de ensino formal.</div></div><div class="dn" id="dn79623" pk="79623"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt79624" ><a class="dpt-link" name="79624" title="79624">§ 1º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79624" pks="" pk="79624">A educação ambiental não deve ser implantada como disciplina específica no currículo escolar.</div></div><div class="dn" id="dn79624" pk="79624"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt79625" ><a class="dpt-link" name="79625" title="79625">§ 2º</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79625" pks="" pk="79625">Nos cursos de extensão e nas áreas voltadas aos aspectos metodológicos da educação ambiental,
+quando se fizer necessário, é facultada a criação de disciplina
+específica.</div></div><div class="dn" id="dn79625" pk="79625"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79626" ><div class="dtxt" id="d79626" pks="" pk="79626"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="4">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79627" ><a class="dpt-link" name="79627">Art. 11.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79627" pks="" pk="79627">Os professores municipais em atividade
+deverão receber formação complementar em suas áreas de
+atuação, com o propósito de atenderem adequadamente ao
+cumprimento dos princípios e objetivos da Política Municipal de
+Educação Ambiental.</div></div><div class="dn" id="dn79627" pk="79627"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79628" ><div class="dtxt" id="d79628" pks="" pk="79628"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="4">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79629" ><a class="dpt-link" name="79629">Art. 12.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79629" pks="" pk="79629">A autorização e supervisão do funcionamento de instituição de ensino e de seus cursos, nas redes
+pública e privada, observarão o cumprimento do disposto nos
+arts. 10 e 11 desta Lei.</div></div><div class="dn" id="dn79629" pk="79629"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="secao  "><div class="dptt "  id="dptt79630" ><a class="dpt-link" name="79630" title="79630">Seção III</a><br><div class="dtxt" id="d79630" pks="" pk="79630">Da Educação Ambiental Não-Formal</div></div><div class="dn" id="dn79630" pk="79630"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79631" ><div class="dtxt" id="d79631" pks="" pk="79631"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="4">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79632" ><a class="dpt-link" name="79632">Art. 13.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79632" pks="" pk="79632">Entende-se por educação ambiental nãoformal as ações e práticas educativas voltadas à sensibilização
+da coletividade sobre a problemática ambiental, e à sua organização e participação na defesa da qualidade do meio ambiente.</div></div><div class="dn" id="dn79632" pk="79632"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt79633" ><a class="dpt-link" name="79633" title="79633">Parágrafo único </a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79633" pks="" pk="79633">O Poder Público Municipal
+incentivará:</div></div><div class="dn" id="dn79633" pk="79633"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79634" ><a class="dpt-link" name="79634" title="79634">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79634" pks="" pk="79634">a difusão, através dos meios de comunicação
+de massa, de programas educativos e de informações acerca
+de temas relacionados ao meio ambiente;</div></div><div class="dn" id="dn79634" pk="79634"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79635" ><a class="dpt-link" name="79635" title="79635">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79635" pks="" pk="79635">a ampla participação das escolas públicas
+municipais e de organizações não-governamentais na formulação e execução de programas e atividades vinculadas à educação ambiental não-formal;</div></div><div class="dn" id="dn79635" pk="79635"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="5">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79636" ><a class="dpt-link" name="79636" title="79636">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79636" pks="" pk="79636">a participação de empresas públicas e privadas no desenvolvimento de programas de educação ambiental,
+em parceria com as escolas e organizações não-governamentais.</div></div><div class="dn" id="dn79636" pk="79636"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="capitulo  "><div class="dptt "  id="dptt79637" ><a class="dpt-link" name="79637" title="79637">CAPÍTULO III</a><br><div class="dtxt" id="d79637" pks="" pk="79637">Da Execução da Política Municipal de Educação Ambiental</div></div><div class="dn" id="dn79637" pk="79637"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79638" ><div class="dtxt" id="d79638" pks="" pk="79638"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79639" ><a class="dpt-link" name="79639">Art. 14.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79639" pks="" pk="79639">A coordenação da Política Municipal de
+Educação Ambiental ficará a cargo da Fundação Municipal de
+Educação Ambiental de Fortaleza, que será seu órgão gestor.</div></div><div class="dn" id="dn79639" pk="79639"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79640" ><div class="dtxt" id="d79640" pks="" pk="79640"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79641" ><a class="dpt-link" name="79641">Art. 15.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79641" pks="" pk="79641">São atribuições do órgão gestor:</div></div><div class="dn" id="dn79641" pk="79641"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79642" ><a class="dpt-link" name="79642" title="79642">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79642" pks="" pk="79642">definição de diretrizes para implementação a
+nível municipal;</div></div><div class="dn" id="dn79642" pk="79642"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79643" ><a class="dpt-link" name="79643" title="79643">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79643" pks="" pk="79643">articulação, coordenação e supervisão de
+planos, programas e projetos na área de educação ambiental
+municipal;</div></div><div class="dn" id="dn79643" pk="79643"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79644" ><a class="dpt-link" name="79644" title="79644">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79644" pks="" pk="79644">participação na negociação de financiamentos
+e planos, programas e projetos na área de educação ambiental.</div></div><div class="dn" id="dn79644" pk="79644"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79645" ><div class="dtxt" id="d79645" pks="" pk="79645"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79646" ><a class="dpt-link" name="79646">Art. 16.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79646" pks="" pk="79646">O Município, na esfera de sua competência e na área de sua jurisdição, definirá diretrizes, normas e
+critérios para a educação ambiental, respeitados os princípios e
+objetivos da Política Municipal de Educação Ambiental.</div></div><div class="dn" id="dn79646" pk="79646"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79647" ><div class="dtxt" id="d79647" pks="" pk="79647"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79648" ><a class="dpt-link" name="79648">Art. 17.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79648" pks="" pk="79648">A seleção de planos e programas, para
+fins de alocação de recursos públicos vinculados à Política
+Municipal de Educação Ambiental, deve ser realizada levando-se em conta os seguintes critérios:</div></div><div class="dn" id="dn79648" pk="79648"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79649" ><a class="dpt-link" name="79649" title="79649">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79649" pks="" pk="79649">conformidade com os princípios, objetivos e
+diretrizes da Política Municipal de Educação Ambiental;</div></div><div class="dn" id="dn79649" pk="79649"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79650" ><a class="dpt-link" name="79650" title="79650">II</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79650" pks="" pk="79650">prioridade aos órgãos integrantes da rede
+municipal de educação e do COMDEMA;</div></div><div class="dn" id="dn79650" pk="79650"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt79651" ><a class="dpt-link" name="79651" title="79651">III</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79651" pks="" pk="79651">economicidade, medida pela relação entre a
+magnitude dos recursos a alocar e o retorno social propiciado
+pelo plano ou programa proposto.</div></div><div class="dn" id="dn79651" pk="79651"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt79652" ><a class="dpt-link" name="79652" title="79652">Parágrafo único </a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79652" pks="" pk="79652">Na seleção a que se refere o
+caput deste artigo, devem ser contemplados de forma eqüitativa, os planos, programas e projetos das diferentes regiões ou
+distritos do município.</div></div><div class="dn" id="dn79652" pk="79652"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79653" ><div class="dtxt" id="d79653" pks="" pk="79653"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79654" ><a class="dpt-link" name="79654">Art. 18.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79654" pks="" pk="79654">Devem ser destinados a ações em educação ambiental, pelo menos 15% (quinze por cento) dos recursos arrecadados pelo Fundo Municipal de Meio Ambiente.</div></div><div class="dn" id="dn79654" pk="79654"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79655" ><div class="dtxt" id="d79655" pks="" pk="79655"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79656" ><a class="dpt-link" name="79656">Art. 19.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79656" pks="" pk="79656">Os programas de assistência técnica e
+financeira relativas a meio ambiente e educação, em nível
+municipal, devem alocar recursos às ações de educação ambiental.</div></div><div class="dn" id="dn79656" pk="79656"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="capitulo  "><div class="dptt "  id="dptt79657" ><a class="dpt-link" name="79657" title="79657">CAPÍTULO IV</a><br><div class="dtxt" id="d79657" pks="" pk="79657">Disposições Finais</div></div><div class="dn" id="dn79657" pk="79657"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79658" ><div class="dtxt" id="d79658" pks="" pk="79658"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79659" ><a class="dpt-link" name="79659">Art. 20.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79659" pks="" pk="79659">O Poder Executivo Municipal regulamentará esta lei no prazo de 90 (noventa) dias, contado a partir de
+sua publicação.</div></div><div class="dn" id="dn79659" pk="79659"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt79660" ><div class="dtxt" id="d79660" pks="" pk="79660"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="3">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt79661" ><a class="dpt-link" name="79661">Art. 21.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d79661" pks="" pk="79661">Esta lei entra em vigor na data de sua
+publicação oficial, revogadas as disposições em contrário.</div></div><div class="dn" id="dn79661" pk="79661"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt79662" ><div class="dtxt" id="d79662" pks="" pk="79662"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt79663" ><a class="dpt-link" name="79663" title="79663"></a><div class="dtxt" id="d79663" pks="" pk="79663"><h3 style="text-align: center;"><strong>PAÇO DA PREFEITURA MUNICIPAL DE FORTALEZA, em 31 de dezembro de 2002.<br><br><br>Juraci Magalhães<br>PREFEITO DE FORTALEZA</strong></h3></div></div><div class="dn" id="dn79663" pk="79663"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div>
+
+
+</div>
+
+  <div class="dont-break-out"></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Fortaleza</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Dr. Thompson Bulcão, 830</span>
+                  <br>
+                  CEP: <span class="postal-code">60810-460</span>
+                  |
+                  Telefone: <span>(85) 3444-8300</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="http://www.cmfor.ce.gov.br" class="url">Site</a> |
+                  <a href="mailto:cogel.cmfor@gmail.com.br" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+    
+
+    
+  </body>
+</html>

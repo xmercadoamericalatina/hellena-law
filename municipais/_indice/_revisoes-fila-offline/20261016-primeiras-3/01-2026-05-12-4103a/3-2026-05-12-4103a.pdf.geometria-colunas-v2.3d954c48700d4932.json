@@ -1,0 +1,42 @@
+{
+  "extrator": "geometria-colunas-v2",
+  "sha256_extrator": "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5",
+  "pdf": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aam/2026-05-12-4103a.pdf",
+  "sha256_pdf": "69ebb0cac1b36de568249f7b26832a477c95b863bbfc58fbf0fcd960c91e42a7",
+  "sha256_texto": "3ab4c17f4d8d3bb4903fe77b1fba56c800b8dfe7efbce56e228c41dbca4e20a9",
+  "extraido_em": "2026-10-16T02:06:47.266496",
+  "paginas": [
+    {
+      "pagina": 1,
+      "colunas": 2,
+      "bandas": [
+        [
+          0,
+          118.57999999999993,
+          1
+        ],
+        [
+          118.57999999999993,
+          800.28,
+          2
+        ],
+        [
+          800.28,
+          841.92,
+          1
+        ]
+      ],
+      "largura": 595.32,
+      "altura": 841.92,
+      "reguas_colunas": [
+        [
+          118.57999999999993,
+          800.28
+        ]
+      ],
+      "tabelas_largura_total": [],
+      "grades_largura_total": [],
+      "prova_layout_verificado": null
+    }
+  ]
+}

@@ -1,0 +1,957 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Fortaleza</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Fortaleza",
+      "url" : "http://sapl.fortaleza.ce.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          21/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/logo_casa.png"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Fortaleza
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/858?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/798/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei Ordinária nº 9.069, de 27 de dezembro de 2005
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei Ordinária</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>9069</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>2005</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>27 de Dezembro de 2005</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>DISPÕE SOBRE A NOVA REDAÇÃO DO ART. 80 DA LEI Nº 5.895 DE 13 DE DEZEMBRO DE 1984 E DÁ OUTRAS PROVIDÊNCIAS.</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/798/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+          <div class="text-info col-12 small">
+            <b>Revoga integralmente o(a)</b>&nbsp;
+            <a href="/norma/1938">
+              Lei Ordinária nº 7.654, de 30 de dezembro de 1994
+            </a>
+          </div>
+      
+          <div class="text-info col-12 small">
+            <b>Revoga integralmente o(a)</b>&nbsp;
+            <a href="/norma/1731">
+              Lei Ordinária nº 8.157, de 27 de maio de 1998
+            </a>
+          </div>
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt26118" ><div class="dtxt" id="d26118" pks="" pk="26118"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt26119" ><a class="dpt-link" name="26119" title="26119"></a><div class="dtxt" id="d26119" pks="" pk="26119">Altera o art. 80 da Lei n. 5.895/1984, que dispõe sobre o Estatuto do Magistério do Município de Fortaleza e dá outras providências.</div></div><div class="dn" id="dn26119" pk="26119"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt26120" ><a class="dpt-link" name="26120" title="26120"></a><div class="dtxt" id="d26120" pks="" pk="26120">FAÇO SABER QUE A CÂMARA MUNICIPAL DE FORTALEZA APROVOU E EU SANCIONO A SEGUINTE LEI:</div></div><div class="dn" id="dn26120" pk="26120"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt27910" ><div class="dtxt" id="d27910" pks="" pk="27910"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt27911" ><div class="dtxt" id="d27911" pks="" pk="27911"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt27912" ><a class="dpt-link" name="27912">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d27912" pks="" pk="27912">Fica alterado o art. 80 da Lei n. 5.895, de 13 de novembro de 1984, passando o artigo a ter a seguinte redação:</div></div><div class="dn" id="dn27912" pk="27912"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt bloco_alteracao " nivel="2">
+    
+
+    <div class="bloco_alteracao  "><div class="dptt "  id="dptt27913" ><div class="dtxt" id="d27913" pks="" pk="27913"></div></div></div>
+    
+      
+        
+
+  <div class="dpt desativado" id="d27915" nivel="5"><div class="caput" id="id27915" nivel="5"><a name="14308" href="/ta/392/text#14308">Art. 80.</a>
+                &nbsp;
+              
+            
+            
+            
+              
+              O professor ficará subordinado ao regime de trabalho de 240 (duzentas e quarenta) horas, assim distribuídas:
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27916" nivel="6"><div class="inciso indent" id="id27916" nivel="6"><a name="27916" href="/ta/392/text#27916">I</a>
+              &nbsp;&ndash;&nbsp;
+              quarenta (40) horas-aula semanais, considerando-se o mês de 5 (cinco) semanas;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27917" nivel="6"><div class="inciso indent" id="id27917" nivel="6"><a name="27917" href="/ta/392/text#27917">II</a>
+              &nbsp;&ndash;&nbsp;
+              oito (8) horas mensais, para atividades contidas no plano global da unidade escolar;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27918" nivel="6"><div class="inciso indent" id="id27918" nivel="6"><a name="27918" href="/ta/392/text#27918">III</a>
+              &nbsp;&ndash;&nbsp;
+              trinta e duas (32) horas mensais, para trabalhos domiciliares inerentes ao desempenho da função docente.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27919" nivel="5"><div class="paragrafo indent" id="id27919" nivel="5"><a name="27919" href="/ta/392/text#27919">§ 1º</a>
+              &nbsp;
+              Desde que não ultrapasse o limite de 240 (duzentas e quarenta) horas, será mantida a jornada de trabalho do professor que, na data de entrada da vigência desta Lei, estiver subordinado a regime de trabalho diverso do disposto no caput deste artigo.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27920" nivel="5"><div class="paragrafo indent" id="id27920" nivel="5"><a name="27920" href="/ta/392/text#27920">§ 2º</a>
+              &nbsp;
+              O professor poderá ter sua jornada original suplementada, até o limite do caput deste artigo, desde que as horas suplementares sejam exercidas para o suprimento de carências, definitivas ou não, respeitados os seguintes critérios cumulativos:
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27921" nivel="6"><div class="inciso indent" id="id27921" nivel="6"><a name="27921" href="/ta/392/text#27921">I</a>
+              &nbsp;&ndash;&nbsp;
+              tenha exercido a jornada suplementar para o suprimento de carências, definitivas ou não, em sala de aula, ou em salas de apoio ou em laboratórios;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27922" nivel="6"><div class="inciso indent" id="id27922" nivel="6"><a name="27922" href="/ta/392/text#27922">II</a>
+              &nbsp;&ndash;&nbsp;
+              tenha exercido a jornada suplementar por, no mínimo, 4 (quatro) semestres letivos;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27923" nivel="6"><div class="inciso indent" id="id27923" nivel="6"><a name="27923" href="/ta/392/text#27923">III</a>
+              &nbsp;&ndash;&nbsp;
+              tenha exercido a jornada suplementar por 2 (dois) semestres letivos consecutivos, entre o segundo semestre de 2004 e o segundo semestre de 2005.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27924" nivel="5"><div class="paragrafo indent" id="id27924" nivel="5"><a name="27924" href="/ta/392/text#27924">§ 3º</a>
+              &nbsp;
+              A suplementação disposta nesta Lei se aplica até o limite da quantidade de horas necessárias ao suprimento de carências definitivas.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27925" nivel="5"><div class="paragrafo indent" id="id27925" nivel="5"><a name="27925" href="/ta/392/text#27925">§ 4º</a>
+              &nbsp;
+              Entende-se por carência definitiva a vaga resultante de ausência de professor, para atender à demanda escolar a partir de 1º de janeiro de 2003.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27926" nivel="5"><div class="paragrafo indent" id="id27926" nivel="5"><a name="27926" href="/ta/392/text#27926">§ 5º</a>
+              &nbsp;
+              Para a incorporação referida no § 2º será considerada a quantidade de horas efetivamente exercidas pelo professor, na data da entrada em vigor desta Lei, considerados os seguintes critérios para desempate:
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27927" nivel="6"><div class="inciso indent" id="id27927" nivel="6"><a name="27927" href="/ta/392/text#27927">I</a>
+              &nbsp;&ndash;&nbsp;
+              estar lotado no local onde será suprida a carência definitiva;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27928" nivel="6"><div class="inciso indent" id="id27928" nivel="6"><a name="27928" href="/ta/392/text#27928">II</a>
+              &nbsp;&ndash;&nbsp;
+              maior tempo no exercício de regência para suprimento de carência;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27929" nivel="6"><div class="inciso indent" id="id27929" nivel="6"><a name="27929" href="/ta/392/text#27929">III</a>
+              &nbsp;&ndash;&nbsp;
+              maior tempo de docência na rede municipal de ensino;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27930" nivel="6"><div class="inciso indent" id="id27930" nivel="6"><a name="27930" href="/ta/392/text#27930">IV</a>
+              &nbsp;&ndash;&nbsp;
+              maior tempo de serviço público;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27931" nivel="6"><div class="inciso indent" id="id27931" nivel="6"><a name="27931" href="/ta/392/text#27931">V</a>
+              &nbsp;&ndash;&nbsp;
+              maior idade;
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27932" nivel="6"><div class="inciso indent" id="id27932" nivel="6"><a name="27932" href="/ta/392/text#27932">VI</a>
+              &nbsp;&ndash;&nbsp;
+              maior número de filhos.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27933" nivel="5"><div class="paragrafo indent" id="id27933" nivel="5"><a name="27933" href="/ta/392/text#27933">§ 6º</a>
+              &nbsp;
+              O professor que, atendendo aos critérios estabelecidos neste artigo, não tenha interesse em incorporar as horas suplementares, deverá optar, formalmente, pela manutenção da jornada original, no prazo de até 30 (trinta) dias, a contar da data da vigência desta Lei.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27934" nivel="5"><div class="paragrafo indent" id="id27934" nivel="5"><a name="27934" href="/ta/392/text#27934">§ 7º</a>
+              &nbsp;
+              Para fins de redução de carga horária, prevista no art. 127 da Lei n. 5.895, de 13 de novembro de 1984, a vantagem pecuniária decorrente do disposto no § 2º prevalecerá somente quando decorridos 10 (dez) anos de sua efetiva aplicação.
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d27935" nivel="5"><div class="paragrafo indent" id="id27935" nivel="5"><a name="27935" href="/ta/392/text#27935">§ 8º</a>
+              &nbsp;
+              Para efeitos de aposentadoria, a referida vantagem somente será incorporada aos proventos, após decorridos 10 (dez) anos de sua efetiva aplicação.
+            
+
+            
+
+          </div></div>
+
+
+      
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt27936" ><div class="dtxt" id="d27936" pks="" pk="27936"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt27937" ><a class="dpt-link" name="27937">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d27937" pks="" pk="27937">Ficam revogadas expressamente as Leis Municipais n. 7.654, de 30 de dezembro de 1994, n. 8.157, de 27 de maio de 1998 e o art. 26 da Lei Municipal n. 6.026, de 26 de novembro de 1985.</div></div><div class="dn" id="dn27937" pk="27937"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt27938" ><div class="dtxt" id="d27938" pks="" pk="27938"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt27939" ><a class="dpt-link" name="27939">Art. 3º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d27939" pks="" pk="27939">Esta Lei entra em vigor em 1º de janeiro de 2006, revogadas as disposições em contrário.</div></div><div class="dn" id="dn27939" pk="27939"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt27940" ><div class="dtxt" id="d27940" pks="" pk="27940"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt27941" ><a class="dpt-link" name="27941" title="27941"></a><div class="dtxt" id="d27941" pks="" pk="27941"><div style="text-align: center;"><strong><span style="font-size: medium;">Paço da Prefeitura Municipal de Fortaleza em 27 de Dezembro de 2006.<br><br><br></span></strong></div><div style="text-align: center;"><strong><span style="font-size: medium;">LUIZIANNE DE OLIVEIRA LINS</span></strong></div><div style="text-align: center;"><strong><span style="font-size: medium;">PREFEITA MUNICIPAL DE FORTALEZA</span></strong></div></div></div><div class="dn" id="dn27941" pk="27941"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div>
+
+
+</div>
+
+  <div class="dont-break-out"></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Fortaleza</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Dr. Thompson Bulcão, 830</span>
+                  <br>
+                  CEP: <span class="postal-code">60810-460</span>
+                  |
+                  Telefone: <span>(85) 3444-8300</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="http://www.cmfor.ce.gov.br" class="url">Site</a> |
+                  <a href="mailto:cogel.cmfor@gmail.com.br" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+    
+
+    
+  </body>
+</html>

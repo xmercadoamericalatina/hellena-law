@@ -1,0 +1,4331 @@
+[
+  {
+    "numero": 1,
+    "sha256": "bdc1898dba8e20acfc3b230dd3e003d0e70aec9c4729c980e053994ff86d1304",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d58551f4fd8cc39ac30eb6e8829b9fe0a4e8308409dbb9911d0814fc00a5d746/1/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2022/resolucoes-6-2022-sapl-759.md",
+        "sha256_fonte": "d58551f4fd8cc39ac30eb6e8829b9fe0a4e8308409dbb9911d0814fc00a5d746",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2022/resolucoes-7-2022-sapl-760.md",
+        "sha256_fonte": "b52240f8dce1565ee5f6e8b889f374b1fdc3ad8b440bc705c62eb4b2b18d151d",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2025/resolucoes-11-2025-sapl-743.md",
+        "sha256_fonte": "90d7d1968cf652ad34d22b75fbc46775469cf1546040c1df8519424df9fd8209",
+        "pagina": 1,
+        "object_id": [
+          "30",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-10-2024-sapl-765.md",
+        "sha256_fonte": "307256c7e71ee31198273c1357685be6c5f8b14b83d132ff72f9ecd44548f42b",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-8-2024-sapl-761.md",
+        "sha256_fonte": "90b77897729fa8cf269a936a96d487ea2a17104526beeaa03faf01be10f66d68",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-8b-2024-sapl-774.md",
+        "sha256_fonte": "22a0a787092a3ea6dc7db72e8264b637b831efa201f2afef53f4325020d4d6fa",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-9-2024-sapl-764.md",
+        "sha256_fonte": "82cf11fe26bab0e32f58a3258bcf297991ed284d3933995ef8326b64ff39e9d5",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/1995/resolucoes-1-1995-sapl-763.md",
+        "sha256_fonte": "66890ec8e05ad544aef8c84f21942e9c41545947c1a6044588e0e2b7cdd0ffa2",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2006/resolucoes-1-2006-sapl-751.md",
+        "sha256_fonte": "665c41d412546d25523a144018628f00dc7e08bddad6ff15772c17b5a30464ee",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2006/resolucoes-1b-2006-sapl-769.md",
+        "sha256_fonte": "7084cbf642d9a0ad952ceb3fd16124ec9fd925b7a1bedb5a9675d791113cec76",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2010/resolucoes-1-2010-sapl-752.md",
+        "sha256_fonte": "dcef416c2fa99d9f32dee02fe3f6a1938d2fd0267d06254eb4c37cc3aad36b5b",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2026/resolucoes-1-2026-sapl-750.md",
+        "sha256_fonte": "e9afb3c5da2e92a4ec2b0c7bd5cbb4774b53a1fee08d732343cc41340f0e6d6b",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2019/resolucoes-1-2019-sapl-748.md",
+        "sha256_fonte": "f15f0aeb6d9dbc0ee8a355d7baced4feff5233bc6cfb97b41c72b0893b3c9787",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-2-2021-sapl-753.md",
+        "sha256_fonte": "45fbfa8d0f76e5e70c1933dc3b245f58aadd95200fbfa96fe17556bf8dd8ef2b",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-3-2021-sapl-756.md",
+        "sha256_fonte": "b81ebd6310d608f6b27ef600d2e6adb0764827e9a3c5f80586e32bc7a64dfcee",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-3b-2021-sapl-771.md",
+        "sha256_fonte": "3bd8cbcc13af469c55f9165450c449552afb51b045ccba936ed4a93139a5801d",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-4b-2021-sapl-772.md",
+        "sha256_fonte": "12a624e23dcab33513449551970a8b752c9a79d6ce23b34db369ae2946e1e013",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-5-2021-sapl-758.md",
+        "sha256_fonte": "feb56df3a4dd9dc06d276befd3da48c3d26241fece2ee1476f42e8e39001250c",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2018/resolucoes-1b-2018-sapl-773.md",
+        "sha256_fonte": "4cb040b9bd73f94f7917f2c0aa960549f8335d4933080674c4564364817a4159",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/1997/resolucoes-1-1997-sapl-775.md",
+        "sha256_fonte": "13c180403029baacee3ddfb62e1d07fa1d163a1092fa36d9ecf23aaa8f489324",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/1997/resolucoes-2-1997-sapl-755.md",
+        "sha256_fonte": "906ca064f6397cdfb34474723e44ee2cecc0331a7610830c67ba6eb6ef17853e",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/1997/resolucoes-4-1997-sapl-757.md",
+        "sha256_fonte": "9686e0f19148cea86f48acc7a90d20122267a685db518a8e71df85ddce689774",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/1997/resolucoes-5-1997-sapl-768.md",
+        "sha256_fonte": "a80b910ab94effa8087f2adb5364577d3c945b0b24e930ee4e058ac1505a8b7b",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/1998/resolucoes-1-1998-sapl-767.md",
+        "sha256_fonte": "92ee51790efc12ca47138c9d7780f5437b51d670033d6b0309426206637af5c5",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/1996/resolucoes-1-1996-sapl-746.md",
+        "sha256_fonte": "e200bad931b432bc5688f4275a4b931c8549ecb296e1a3bcdc84cbd48b1a8ac1",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2004/resolucoes-2-2004-sapl-754.md",
+        "sha256_fonte": "73672359ed2ccb5f8e69147e1d4ae46100f1057dac4d838e4a6504f911290319",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2022/leis-complementares-628-2022-sapl-711.md",
+        "sha256_fonte": "c3c097b1865dd138530e05036b5005570866121b069d9e8e1290650300a83ec5",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-674-2025-sapl-716.md",
+        "sha256_fonte": "71edc0ece2f30f9cb19e72b51a18fdb4b0de5d615645c9bc57929a2f6eccbd45",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-675-2025-sapl-717.md",
+        "sha256_fonte": "dbc714c3ceea8ccb3fc1019a48af0258415348cf1f279c736538701b0c930063",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-678-2025-sapl-719.md",
+        "sha256_fonte": "d56d548341089364b5b438917ea2b91abf7a608f5a7062708c06194536d6f9a2",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-702-2025-sapl-725.md",
+        "sha256_fonte": "ff419eec9eb0fce44f8739e7eda1a34813060374043f48dbad8d67d92631e1b1",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-705-2025-sapl-726.md",
+        "sha256_fonte": "cfc581ce6dff29e4a792d8d20bb665de9e149cb99ef6f25161c9a7f5a6163256",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-706-2025-sapl-728.md",
+        "sha256_fonte": "c4a66bf0f5470a184447c5c0a09ea2f2a58f4e35c4518d0f05704ba31e900f1e",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-707-2025-sapl-729.md",
+        "sha256_fonte": "299ff0f06ec694b86ec35919132171b5ddb61f43d5d76e5b7fcd9b5c4e64250e",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-708-2025-sapl-727.md",
+        "sha256_fonte": "a638449f69289d2a870540dfb2d64ae0d071753a9db2c9e049760744b693cd34",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-716-2025-sapl-660.md",
+        "sha256_fonte": "7d6806fd0f258972178d05d16dcce6e04c0e3fc9fe2286c3e25305269622ff8f",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2024/leis-complementares-669-2024-sapl-715.md",
+        "sha256_fonte": "4b27ab236c939962011faf9702c9d53a516c6e68c33f0c67541e4936e8644141",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2023/leis-complementares-638-2023-sapl-713.md",
+        "sha256_fonte": "d662c89e35a3df571da3a00f12208769a76d9acb464545b2bc383771ebccc8b3",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2023/leis-complementares-653-2023-sapl-720.md",
+        "sha256_fonte": "33491d03b85e42d0f1629cbc1d7cd7afc61fb8118e6491daa7de130afa14a635",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2007/leis-complementares-420-2007-sapl-682.md",
+        "sha256_fonte": "1cbc830d448de7f6fbe7a5657ab76c72f487ddd3e1893f568dfc8ecc7517fc82",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2026/leis-complementares-736-2026-sapl-742.md",
+        "sha256_fonte": "c461a5f7e24a7f4dd1ad38c38ccab53962bf692297f7a0bab283dbf30bbc7b8f",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2021/leis-complementares-592-2021-sapl-704.md",
+        "sha256_fonte": "15c535bbeafdff13886e23a6ba086ef3745e4e71c180ecc82a3e59948902ac1c",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2021/leis-complementares-616-2021-sapl-708.md",
+        "sha256_fonte": "ccf139a38b781211b5cd7902e665517c1814b26c8737a8739329ecd4416a9f7c",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2018/leis-complementares-541-2018-sapl-696.md",
+        "sha256_fonte": "5edb1fda782687516993cac492995870001bcf93ccaa5a20e32e2e1a88b4cc77",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2016/leis-complementares-513-2016-sapl-681.md",
+        "sha256_fonte": "5a248bf96a3b94c8428c1a529b064e251249389c09794cf57d60762d0b9323ed",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-ordinarias/2013/leis-ordinarias-469-2013-sapl-439.md",
+        "sha256_fonte": "d2ba190ea6c052f50ed75101bf8a8cbf8121d5607ce3d2abdb3cb81479f0d958",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-ordinarias/2013/leis-ordinarias-470-2013-sapl-440.md",
+        "sha256_fonte": "2fa203f29abcc04214b14c2e7c4567523c6262fb190fd13e6517cc7aba9fbe01",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-ordinarias/2013/leis-ordinarias-471-2013-sapl-441.md",
+        "sha256_fonte": "9539e780e38dc6767a4e5d92374b6f4ade4c86ca8110ce193fa8767c11b0d3ea",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 2,
+    "sha256": "b047193a6643b1505ce9cbb1388705e8acba780f6ef8c9dcde365d436ce048bd",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d58551f4fd8cc39ac30eb6e8829b9fe0a4e8308409dbb9911d0814fc00a5d746/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2022/resolucoes-6-2022-sapl-759.md",
+        "sha256_fonte": "d58551f4fd8cc39ac30eb6e8829b9fe0a4e8308409dbb9911d0814fc00a5d746",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2022/resolucoes-7-2022-sapl-760.md",
+        "sha256_fonte": "b52240f8dce1565ee5f6e8b889f374b1fdc3ad8b440bc705c62eb4b2b18d151d",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-10-2024-sapl-765.md",
+        "sha256_fonte": "307256c7e71ee31198273c1357685be6c5f8b14b83d132ff72f9ecd44548f42b",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-8-2024-sapl-761.md",
+        "sha256_fonte": "90b77897729fa8cf269a936a96d487ea2a17104526beeaa03faf01be10f66d68",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-8b-2024-sapl-774.md",
+        "sha256_fonte": "22a0a787092a3ea6dc7db72e8264b637b831efa201f2afef53f4325020d4d6fa",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2024/resolucoes-9-2024-sapl-764.md",
+        "sha256_fonte": "82cf11fe26bab0e32f58a3258bcf297991ed284d3933995ef8326b64ff39e9d5",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/1995/resolucoes-1-1995-sapl-763.md",
+        "sha256_fonte": "66890ec8e05ad544aef8c84f21942e9c41545947c1a6044588e0e2b7cdd0ffa2",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2006/resolucoes-1-2006-sapl-751.md",
+        "sha256_fonte": "665c41d412546d25523a144018628f00dc7e08bddad6ff15772c17b5a30464ee",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2006/resolucoes-1b-2006-sapl-769.md",
+        "sha256_fonte": "7084cbf642d9a0ad952ceb3fd16124ec9fd925b7a1bedb5a9675d791113cec76",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2010/resolucoes-1-2010-sapl-752.md",
+        "sha256_fonte": "dcef416c2fa99d9f32dee02fe3f6a1938d2fd0267d06254eb4c37cc3aad36b5b",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2026/resolucoes-1-2026-sapl-750.md",
+        "sha256_fonte": "e9afb3c5da2e92a4ec2b0c7bd5cbb4774b53a1fee08d732343cc41340f0e6d6b",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2019/resolucoes-1-2019-sapl-748.md",
+        "sha256_fonte": "f15f0aeb6d9dbc0ee8a355d7baced4feff5233bc6cfb97b41c72b0893b3c9787",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-2-2021-sapl-753.md",
+        "sha256_fonte": "45fbfa8d0f76e5e70c1933dc3b245f58aadd95200fbfa96fe17556bf8dd8ef2b",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-3-2021-sapl-756.md",
+        "sha256_fonte": "b81ebd6310d608f6b27ef600d2e6adb0764827e9a3c5f80586e32bc7a64dfcee",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-3b-2021-sapl-771.md",
+        "sha256_fonte": "3bd8cbcc13af469c55f9165450c449552afb51b045ccba936ed4a93139a5801d",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-4b-2021-sapl-772.md",
+        "sha256_fonte": "12a624e23dcab33513449551970a8b752c9a79d6ce23b34db369ae2946e1e013",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2021/resolucoes-5-2021-sapl-758.md",
+        "sha256_fonte": "feb56df3a4dd9dc06d276befd3da48c3d26241fece2ee1476f42e8e39001250c",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2018/resolucoes-1b-2018-sapl-773.md",
+        "sha256_fonte": "4cb040b9bd73f94f7917f2c0aa960549f8335d4933080674c4564364817a4159",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/1997/resolucoes-1-1997-sapl-775.md",
+        "sha256_fonte": "13c180403029baacee3ddfb62e1d07fa1d163a1092fa36d9ecf23aaa8f489324",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/1997/resolucoes-2-1997-sapl-755.md",
+        "sha256_fonte": "906ca064f6397cdfb34474723e44ee2cecc0331a7610830c67ba6eb6ef17853e",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/1997/resolucoes-4-1997-sapl-757.md",
+        "sha256_fonte": "9686e0f19148cea86f48acc7a90d20122267a685db518a8e71df85ddce689774",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/1997/resolucoes-5-1997-sapl-768.md",
+        "sha256_fonte": "a80b910ab94effa8087f2adb5364577d3c945b0b24e930ee4e058ac1505a8b7b",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/1998/resolucoes-1-1998-sapl-767.md",
+        "sha256_fonte": "92ee51790efc12ca47138c9d7780f5437b51d670033d6b0309426206637af5c5",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/1996/resolucoes-1-1996-sapl-746.md",
+        "sha256_fonte": "e200bad931b432bc5688f4275a4b931c8549ecb296e1a3bcdc84cbd48b1a8ac1",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2004/resolucoes-2-2004-sapl-754.md",
+        "sha256_fonte": "73672359ed2ccb5f8e69147e1d4ae46100f1057dac4d838e4a6504f911290319",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2026/leis-complementares-736-2026-sapl-742.md",
+        "sha256_fonte": "c461a5f7e24a7f4dd1ad38c38ccab53962bf692297f7a0bab283dbf30bbc7b8f",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 3,
+    "sha256": "bcdedddf3f4a7323c6b8c0f55d0b8f7475552f341e1de9a49b6d8e1657fb8304",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/702db812d358a3f2dfdd53ac5e8cc438a00ab838aa71ff7c9de7beb45ea8f3c4/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/SP/magda/resolucoes/2025/resolucoes-110-2025-sapl-39.md",
+        "sha256_fonte": "702db812d358a3f2dfdd53ac5e8cc438a00ab838aa71ff7c9de7beb45ea8f3c4",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/decretos-legislativos/2025/decretos-legislativos-62-2025-sapl-53.md",
+        "sha256_fonte": "fae49a84a6b4ea49099ae3fe0a0665afa48cd33a9f4569894b37320cc6d670ab",
+        "pagina": 1,
+        "object_id": [
+          "35",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1714-2025-sapl-21.md",
+        "sha256_fonte": "213451779f7286499b71d44b7353f6fd604bf018c892d3a4ddfa6f3962f0f47e",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1716-2025-sapl-24.md",
+        "sha256_fonte": "eaa530bf4144bfc0d6aa8281d794fb04cd1f2385272dfba773eee9c39dc5ff51",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1720-2025-sapl-28.md",
+        "sha256_fonte": "c441d8b813a1006f492deabd528b87c2b4634263b391c8731e3d40de18e34ec4",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1723-2025-sapl-31.md",
+        "sha256_fonte": "dd083968de1b31427eebfc54ea69bb27fe6b32b3a58ae6c0e5888bd8f0b7d9be",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1727-2025-sapl-37.md",
+        "sha256_fonte": "42e59fc9961cb49111c5fc85fdad8d63beeda2abad1056df81161152fb441294",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1728-2025-sapl-38.md",
+        "sha256_fonte": "5bb509a881e1956518636db78dfd3885464764d408198f1560c2d02b42019d6d",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1733-2025-sapl-44.md",
+        "sha256_fonte": "6135daf941a4e57841ca0ecc73d2879e538b2b7c9388ca72075ebc56d44ee2c0",
+        "pagina": 1,
+        "object_id": [
+          "35",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1735-2025-sapl-46.md",
+        "sha256_fonte": "8ad8a4ded5ba27d91d37472e6c5793fa455f7f6a1667bfeb5ef8f8aeb354bdd0",
+        "pagina": 1,
+        "object_id": [
+          "35",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1739-2025-sapl-50.md",
+        "sha256_fonte": "aa1c1db4e2d7d7cfb0ef2fcb0a54e05ad4688b32e0c28d3b1ef2ef79140f29a5",
+        "pagina": 1,
+        "object_id": [
+          "35",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1740-2025-sapl-54.md",
+        "sha256_fonte": "e4ea82721979d3427193a01e4c70649ef74dbf5720db0dd5b5e62b4f926888cf",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1741-2025-sapl-55.md",
+        "sha256_fonte": "6d17100caa2d3669b2bd3d7c302adad4155ab6f3f7d37bbe77c90604a9c01aba",
+        "pagina": 1,
+        "object_id": [
+          "35",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1742-2025-sapl-56.md",
+        "sha256_fonte": "817b94986da99dbac5040d9a5e863b981527e450f7ee9060f9017448313c25ab",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1758-2026-sapl-76.md",
+        "sha256_fonte": "25f3078d194da5f7b7c7c930643bcf3cc092a21bbba21010ce99b9a5f2e1c1e8",
+        "pagina": 1,
+        "object_id": [
+          "38",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1761-2026-sapl-79.md",
+        "sha256_fonte": "91e22aca5aafa389ad6fe4deb77f31e1f29ca7f7dec76d54d8105f7c21685555",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1766-2026-sapl-86.md",
+        "sha256_fonte": "a8d45224a5e8750c27848c4abcb2a240eaa3de068d5904d53f0e8f110b03289f",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1770-2026-sapl-90.md",
+        "sha256_fonte": "ef8dc8277a2d1467ac6f127a573383022ce4e54fb422431fa8de5227a90d3c64",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1773-2026-sapl-94.md",
+        "sha256_fonte": "a43df4365a524692d9e1687f6f5d3161021d6a168c4b0d92c261671245b1914e",
+        "pagina": 1,
+        "object_id": [
+          "30",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1774-2026-sapl-95.md",
+        "sha256_fonte": "a488355ded774aef2c94a825b7b89e6186d1d5461342f75417bb2b594c11fa0a",
+        "pagina": 1,
+        "object_id": [
+          "30",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1780-2026-sapl-101.md",
+        "sha256_fonte": "47c5498969a50cdb5e25f533036758c6858ef3b3604effcf57321675e711abcc",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1781-2026-sapl-102.md",
+        "sha256_fonte": "db71cec2aa051b9befacf449cc3f308eaa398f00203fd3319d9858fff8c5f255",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1782-2026-sapl-103.md",
+        "sha256_fonte": "867aaf66180ff8b7896526c78bc16f5f75f52a5cbdac8d20ed485332bee088e1",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1784-2026-sapl-105.md",
+        "sha256_fonte": "c70cd15ccbfa20e67f3935ee113bbf367d5a2398cb3cbfa48314592ff547eb27",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 4,
+    "sha256": "e4ac3dad349bc5585f4bd76bea0d46241f506ef0e53ef3ee9589c512211164ed",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/702db812d358a3f2dfdd53ac5e8cc438a00ab838aa71ff7c9de7beb45ea8f3c4/1/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/SP/magda/resolucoes/2025/resolucoes-110-2025-sapl-39.md",
+        "sha256_fonte": "702db812d358a3f2dfdd53ac5e8cc438a00ab838aa71ff7c9de7beb45ea8f3c4",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/decretos-legislativos/2025/decretos-legislativos-62-2025-sapl-53.md",
+        "sha256_fonte": "fae49a84a6b4ea49099ae3fe0a0665afa48cd33a9f4569894b37320cc6d670ab",
+        "pagina": 1,
+        "object_id": [
+          "35",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1714-2025-sapl-21.md",
+        "sha256_fonte": "213451779f7286499b71d44b7353f6fd604bf018c892d3a4ddfa6f3962f0f47e",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1716-2025-sapl-24.md",
+        "sha256_fonte": "eaa530bf4144bfc0d6aa8281d794fb04cd1f2385272dfba773eee9c39dc5ff51",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1720-2025-sapl-28.md",
+        "sha256_fonte": "c441d8b813a1006f492deabd528b87c2b4634263b391c8731e3d40de18e34ec4",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1723-2025-sapl-31.md",
+        "sha256_fonte": "dd083968de1b31427eebfc54ea69bb27fe6b32b3a58ae6c0e5888bd8f0b7d9be",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1727-2025-sapl-37.md",
+        "sha256_fonte": "42e59fc9961cb49111c5fc85fdad8d63beeda2abad1056df81161152fb441294",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1728-2025-sapl-38.md",
+        "sha256_fonte": "5bb509a881e1956518636db78dfd3885464764d408198f1560c2d02b42019d6d",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1733-2025-sapl-44.md",
+        "sha256_fonte": "6135daf941a4e57841ca0ecc73d2879e538b2b7c9388ca72075ebc56d44ee2c0",
+        "pagina": 1,
+        "object_id": [
+          "35",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1735-2025-sapl-46.md",
+        "sha256_fonte": "8ad8a4ded5ba27d91d37472e6c5793fa455f7f6a1667bfeb5ef8f8aeb354bdd0",
+        "pagina": 1,
+        "object_id": [
+          "35",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1739-2025-sapl-50.md",
+        "sha256_fonte": "aa1c1db4e2d7d7cfb0ef2fcb0a54e05ad4688b32e0c28d3b1ef2ef79140f29a5",
+        "pagina": 1,
+        "object_id": [
+          "35",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1740-2025-sapl-54.md",
+        "sha256_fonte": "e4ea82721979d3427193a01e4c70649ef74dbf5720db0dd5b5e62b4f926888cf",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1741-2025-sapl-55.md",
+        "sha256_fonte": "6d17100caa2d3669b2bd3d7c302adad4155ab6f3f7d37bbe77c90604a9c01aba",
+        "pagina": 1,
+        "object_id": [
+          "35",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2025/leis-ordinarias-1742-2025-sapl-56.md",
+        "sha256_fonte": "817b94986da99dbac5040d9a5e863b981527e450f7ee9060f9017448313c25ab",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1758-2026-sapl-76.md",
+        "sha256_fonte": "25f3078d194da5f7b7c7c930643bcf3cc092a21bbba21010ce99b9a5f2e1c1e8",
+        "pagina": 1,
+        "object_id": [
+          "38",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1761-2026-sapl-79.md",
+        "sha256_fonte": "91e22aca5aafa389ad6fe4deb77f31e1f29ca7f7dec76d54d8105f7c21685555",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1766-2026-sapl-86.md",
+        "sha256_fonte": "a8d45224a5e8750c27848c4abcb2a240eaa3de068d5904d53f0e8f110b03289f",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1770-2026-sapl-90.md",
+        "sha256_fonte": "ef8dc8277a2d1467ac6f127a573383022ce4e54fb422431fa8de5227a90d3c64",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1773-2026-sapl-94.md",
+        "sha256_fonte": "a43df4365a524692d9e1687f6f5d3161021d6a168c4b0d92c261671245b1914e",
+        "pagina": 1,
+        "object_id": [
+          "30",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1774-2026-sapl-95.md",
+        "sha256_fonte": "a488355ded774aef2c94a825b7b89e6186d1d5461342f75417bb2b594c11fa0a",
+        "pagina": 1,
+        "object_id": [
+          "30",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1780-2026-sapl-101.md",
+        "sha256_fonte": "47c5498969a50cdb5e25f533036758c6858ef3b3604effcf57321675e711abcc",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1781-2026-sapl-102.md",
+        "sha256_fonte": "db71cec2aa051b9befacf449cc3f308eaa398f00203fd3319d9858fff8c5f255",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1782-2026-sapl-103.md",
+        "sha256_fonte": "867aaf66180ff8b7896526c78bc16f5f75f52a5cbdac8d20ed485332bee088e1",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1784-2026-sapl-105.md",
+        "sha256_fonte": "c70cd15ccbfa20e67f3935ee113bbf367d5a2398cb3cbfa48314592ff547eb27",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 5,
+    "sha256": "a645a0bbe3e184de75af0a5425b4f777121586613ef17e2c5b0c3f7e75bfe20a",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/90d7d1968cf652ad34d22b75fbc46775469cf1546040c1df8519424df9fd8209/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2025/resolucoes-11-2025-sapl-743.md",
+        "sha256_fonte": "90d7d1968cf652ad34d22b75fbc46775469cf1546040c1df8519424df9fd8209",
+        "pagina": 1,
+        "object_id": [
+          "30",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2022/leis-complementares-628-2022-sapl-711.md",
+        "sha256_fonte": "c3c097b1865dd138530e05036b5005570866121b069d9e8e1290650300a83ec5",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-674-2025-sapl-716.md",
+        "sha256_fonte": "71edc0ece2f30f9cb19e72b51a18fdb4b0de5d615645c9bc57929a2f6eccbd45",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-675-2025-sapl-717.md",
+        "sha256_fonte": "dbc714c3ceea8ccb3fc1019a48af0258415348cf1f279c736538701b0c930063",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-678-2025-sapl-719.md",
+        "sha256_fonte": "d56d548341089364b5b438917ea2b91abf7a608f5a7062708c06194536d6f9a2",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-702-2025-sapl-725.md",
+        "sha256_fonte": "ff419eec9eb0fce44f8739e7eda1a34813060374043f48dbad8d67d92631e1b1",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-705-2025-sapl-726.md",
+        "sha256_fonte": "cfc581ce6dff29e4a792d8d20bb665de9e149cb99ef6f25161c9a7f5a6163256",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-706-2025-sapl-728.md",
+        "sha256_fonte": "c4a66bf0f5470a184447c5c0a09ea2f2a58f4e35c4518d0f05704ba31e900f1e",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-707-2025-sapl-729.md",
+        "sha256_fonte": "299ff0f06ec694b86ec35919132171b5ddb61f43d5d76e5b7fcd9b5c4e64250e",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-708-2025-sapl-727.md",
+        "sha256_fonte": "a638449f69289d2a870540dfb2d64ae0d071753a9db2c9e049760744b693cd34",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-716-2025-sapl-660.md",
+        "sha256_fonte": "7d6806fd0f258972178d05d16dcce6e04c0e3fc9fe2286c3e25305269622ff8f",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2024/leis-complementares-669-2024-sapl-715.md",
+        "sha256_fonte": "4b27ab236c939962011faf9702c9d53a516c6e68c33f0c67541e4936e8644141",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2023/leis-complementares-638-2023-sapl-713.md",
+        "sha256_fonte": "d662c89e35a3df571da3a00f12208769a76d9acb464545b2bc383771ebccc8b3",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2023/leis-complementares-653-2023-sapl-720.md",
+        "sha256_fonte": "33491d03b85e42d0f1629cbc1d7cd7afc61fb8118e6491daa7de130afa14a635",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2007/leis-complementares-420-2007-sapl-682.md",
+        "sha256_fonte": "1cbc830d448de7f6fbe7a5657ab76c72f487ddd3e1893f568dfc8ecc7517fc82",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2021/leis-complementares-592-2021-sapl-704.md",
+        "sha256_fonte": "15c535bbeafdff13886e23a6ba086ef3745e4e71c180ecc82a3e59948902ac1c",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2021/leis-complementares-616-2021-sapl-708.md",
+        "sha256_fonte": "ccf139a38b781211b5cd7902e665517c1814b26c8737a8739329ecd4416a9f7c",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2018/leis-complementares-541-2018-sapl-696.md",
+        "sha256_fonte": "5edb1fda782687516993cac492995870001bcf93ccaa5a20e32e2e1a88b4cc77",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2016/leis-complementares-513-2016-sapl-681.md",
+        "sha256_fonte": "5a248bf96a3b94c8428c1a529b064e251249389c09794cf57d60762d0b9323ed",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-ordinarias/2013/leis-ordinarias-469-2013-sapl-439.md",
+        "sha256_fonte": "d2ba190ea6c052f50ed75101bf8a8cbf8121d5607ce3d2abdb3cb81479f0d958",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-ordinarias/2013/leis-ordinarias-470-2013-sapl-440.md",
+        "sha256_fonte": "2fa203f29abcc04214b14c2e7c4567523c6262fb190fd13e6517cc7aba9fbe01",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-ordinarias/2013/leis-ordinarias-471-2013-sapl-441.md",
+        "sha256_fonte": "9539e780e38dc6767a4e5d92374b6f4ade4c86ca8110ce193fa8767c11b0d3ea",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 6,
+    "sha256": "44d1b8aecdbef12b208f120d56c57b2957fb0b081f9b7ce8ea27f640fd5d4a54",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/1fba421883738b32e82b73035bba769e07308a1f7a4a4f63b4e14dc29d52292f/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-488-2013-sapl-493.md",
+        "sha256_fonte": "1fba421883738b32e82b73035bba769e07308a1f7a4a4f63b4e14dc29d52292f",
+        "pagina": 1,
+        "object_id": [
+          "12",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-489-2013-sapl-494.md",
+        "sha256_fonte": "141b4885464a1b6309821ad4e836f77dfd0df8ff594b414d4b553198912e78aa",
+        "pagina": 1,
+        "object_id": [
+          "11",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-495-2013-sapl-500.md",
+        "sha256_fonte": "55d8bd70665e76c20bde3730a2f5354b4d4cae1b8387f26051dcd84c038807ff",
+        "pagina": 1,
+        "object_id": [
+          "11",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-498-2013-sapl-503.md",
+        "sha256_fonte": "c39a52dc91d9ea7431d1156db0032fd7e84f925e9dea247e89d6f27396d359ca",
+        "pagina": 1,
+        "object_id": [
+          "18",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-503-2013-sapl-508.md",
+        "sha256_fonte": "b22e730244476e53884c97ec12d4faa69534b1824821897f242632fa093cf0dc",
+        "pagina": 1,
+        "object_id": [
+          "11",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-504-2013-sapl-509.md",
+        "sha256_fonte": "443815642f1a8114526f2163152343140508bf3bd5744b746b894a3628a5dad1",
+        "pagina": 1,
+        "object_id": [
+          "12",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-511-2013-sapl-516.md",
+        "sha256_fonte": "eedf0a07fddd118364b56dde25d0b189fdbcc234392904946f302a72dfe1a155",
+        "pagina": 1,
+        "object_id": [
+          "22",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-518-2013-sapl-523.md",
+        "sha256_fonte": "b7d157227e56ff4262054f4bbaddafe7d54dd3a6a8dd4e5af8ccc1db9021b3c8",
+        "pagina": 1,
+        "object_id": [
+          "10",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-525-2013-sapl-531.md",
+        "sha256_fonte": "355b42d4e448bbc86dd8e2b017567854ee19f4e8460a1fd78cbfcf7554e8bfc2",
+        "pagina": 1,
+        "object_id": [
+          "11",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-526-2013-sapl-532.md",
+        "sha256_fonte": "1fc80a0d6f6a7ef476c6357fdc7cb5d5034ad23300f195268ae211876ffe6909",
+        "pagina": 1,
+        "object_id": [
+          "11",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-527-2013-sapl-533.md",
+        "sha256_fonte": "a6e40041c6e5e171e30c287aeea9f09b61bb358838a5e356b21e05967a893903",
+        "pagina": 1,
+        "object_id": [
+          "11",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-532-2013-sapl-537.md",
+        "sha256_fonte": "09ac96118f5c8b940a2e83306025a36a1b8a18b5b7c5f83eeb5d47b64ee8c793",
+        "pagina": 1,
+        "object_id": [
+          "20",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 7,
+    "sha256": "6f259fec49f7cd5d19f8ad3eb46558945b9be975b8f39e0483288e990fc6e802",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/b3c03dedb3a9891e7811dfa26dfd74a754ceb879f4f5247d0e945137cf04146c/1/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/campestre/leis-ordinarias/2026/leis-ordinarias-2314-2026-sapl-170.md",
+        "sha256_fonte": "b3c03dedb3a9891e7811dfa26dfd74a754ceb879f4f5247d0e945137cf04146c",
+        "pagina": 1,
+        "object_id": [
+          "72",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/campestre/leis-ordinarias/2026/leis-ordinarias-2315-2026-sapl-169.md",
+        "sha256_fonte": "901823b5c18fb574ed6a40fbc39efae8d01861caf52bdb3ecac30dd3729dd4de",
+        "pagina": 1,
+        "object_id": [
+          "83",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/campestre/leis-ordinarias/2026/leis-ordinarias-2319-2026-sapl-720.md",
+        "sha256_fonte": "5a630c5e81020767be02264618bcda5b0bada1a55e1eec11b4a5700cc88adccc",
+        "pagina": 1,
+        "object_id": [
+          "41",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/campestre/leis-ordinarias/2026/leis-ordinarias-2320-2026-sapl-721.md",
+        "sha256_fonte": "528efcfe20577e0fe10cefb12de0120964b41b2ade669175ed622f767e99387e",
+        "pagina": 1,
+        "object_id": [
+          "39",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/campestre/leis-ordinarias/2026/leis-ordinarias-2322-2026-sapl-723.md",
+        "sha256_fonte": "0afa032c51f2397680c022ef698f99ce69c7a5ac957e08e0487ddb7fa487c7a8",
+        "pagina": 1,
+        "object_id": [
+          "39",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/campestre/leis-ordinarias/2026/leis-ordinarias-2326-2026-sapl-1088.md",
+        "sha256_fonte": "420d0bcfd20b091b4f595692e0607b63303f48528da91745af464f501e26db3e",
+        "pagina": 1,
+        "object_id": [
+          "39",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/campestre/leis-ordinarias/2026/leis-ordinarias-2335-2026-sapl-1750.md",
+        "sha256_fonte": "8dde5cfc0c5331656193c8379953e610bebf386cfc92c7fc7f5967d3742252c2",
+        "pagina": 1,
+        "object_id": [
+          "535",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 8,
+    "sha256": "91eb201d1b60276cba18af31ba0365ca115f965ec3bf7dd716dc30cec0087930",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/20b46ed538feb475de13874c0111950bd500348d680dd28b21ee36490206166d/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2025/resolucoes-60-2025-sapl-904.md",
+        "sha256_fonte": "20b46ed538feb475de13874c0111950bd500348d680dd28b21ee36490206166d",
+        "pagina": 1,
+        "object_id": [
+          "36",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2025/resolucoes-61-2025-sapl-773.md",
+        "sha256_fonte": "7158c4572f10bd0db31f1876a712ba9020702c336fdbdfcf8615e294ccbd8847",
+        "pagina": 1,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2025/resolucoes-62-2025-sapl-905.md",
+        "sha256_fonte": "4cb399ff7f11cf1ab782a33de345b4f360383db5b66e70e2e0940832b9ea4883",
+        "pagina": 1,
+        "object_id": [
+          "162",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-65-2026-sapl-908.md",
+        "sha256_fonte": "8d1d312b3609f84afb5e05f2caf2d1a67b39bb9c5527c6c575d27b519bd45760",
+        "pagina": 1,
+        "object_id": [
+          "111",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 9,
+    "sha256": "208c3dc5b6531a8d9d23eeb75f81ad4af9dce9e1e2de4ccab799824b7c0f0d4b",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/a15bfe3b10a8e4f57a5808e217681fef85a180dacd4fbc0cf41bbda6e033e712/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PR/joaquim-tavora/leis-ordinarias/2013/leis-ordinarias-1283-2013-sapl-234.md",
+        "sha256_fonte": "a15bfe3b10a8e4f57a5808e217681fef85a180dacd4fbc0cf41bbda6e033e712",
+        "pagina": 1,
+        "object_id": [
+          "6",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/joaquim-tavora/leis-ordinarias/2013/leis-ordinarias-1301-2013-sapl-240.md",
+        "sha256_fonte": "822c3a522275cfbee73cc19c3f631d0152ef582a1b78d689f81b4cc284cc6711",
+        "pagina": 1,
+        "object_id": [
+          "6",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/joaquim-tavora/leis-ordinarias/2014/leis-ordinarias-1327-2014-sapl-263.md",
+        "sha256_fonte": "3880ed5b0a25709bff9e0073e2349faf3cb121e4f9b7925a337392bd45ed7c5a",
+        "pagina": 1,
+        "object_id": [
+          "6",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/joaquim-tavora/leis-ordinarias/2014/leis-ordinarias-1345-2014-sapl-281.md",
+        "sha256_fonte": "1af3179c1640625e68403a0b26dfab63d22ec2a2dad64911baf7582ead1f7ebe",
+        "pagina": 1,
+        "object_id": [
+          "6",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 10,
+    "sha256": "bc0ac0e9fe639a2befb29cded72e95cb02c1d4ff72712663d7cfb18e7905b3d1",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/6b6d506fe9bd98f7fff9d1277ee961cf61ff6d7793670708db3a506f5a8be6bf/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/montadas/leis-ordinarias/2022/leis-ordinarias-579-2022-sapl-276.md",
+        "sha256_fonte": "6b6d506fe9bd98f7fff9d1277ee961cf61ff6d7793670708db3a506f5a8be6bf",
+        "pagina": 1,
+        "object_id": [
+          "22",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/montadas/leis-ordinarias/2022/leis-ordinarias-580-2022-sapl-277.md",
+        "sha256_fonte": "4f04ab86490c5a8911f40657bc1d2d676dd6e80c9259c870f39e23778ba11459",
+        "pagina": 1,
+        "object_id": [
+          "22",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/montadas/leis-ordinarias/2022/leis-ordinarias-581-2022-sapl-278.md",
+        "sha256_fonte": "b3c7614c04b801f30032f480476d3a807390358cbbc633f4eb7310dc541ba21b",
+        "pagina": 1,
+        "object_id": [
+          "22",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/montadas/leis-ordinarias/2022/leis-ordinarias-582-2022-sapl-279.md",
+        "sha256_fonte": "58580072555cb4302661a4f83add84ef9765bb3fd4d539c379cfb0eac9dea45e",
+        "pagina": 1,
+        "object_id": [
+          "22",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 11,
+    "sha256": "22ba6bc2faeddbe62960203cd9d4f4f9c84a4c517b704ccfe9997c1ca5f8199d",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/6b6d506fe9bd98f7fff9d1277ee961cf61ff6d7793670708db3a506f5a8be6bf/1/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/montadas/leis-ordinarias/2022/leis-ordinarias-579-2022-sapl-276.md",
+        "sha256_fonte": "6b6d506fe9bd98f7fff9d1277ee961cf61ff6d7793670708db3a506f5a8be6bf",
+        "pagina": 1,
+        "object_id": [
+          "22",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/montadas/leis-ordinarias/2022/leis-ordinarias-580-2022-sapl-277.md",
+        "sha256_fonte": "4f04ab86490c5a8911f40657bc1d2d676dd6e80c9259c870f39e23778ba11459",
+        "pagina": 1,
+        "object_id": [
+          "22",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/montadas/leis-ordinarias/2022/leis-ordinarias-581-2022-sapl-278.md",
+        "sha256_fonte": "b3c7614c04b801f30032f480476d3a807390358cbbc633f4eb7310dc541ba21b",
+        "pagina": 1,
+        "object_id": [
+          "22",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/montadas/leis-ordinarias/2022/leis-ordinarias-582-2022-sapl-279.md",
+        "sha256_fonte": "58580072555cb4302661a4f83add84ef9765bb3fd4d539c379cfb0eac9dea45e",
+        "pagina": 1,
+        "object_id": [
+          "22",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 12,
+    "sha256": "84af383ff5a6b849ba0da1634d25ef24a064e754f7cfcf0e7660f318784280a4",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/6b6d506fe9bd98f7fff9d1277ee961cf61ff6d7793670708db3a506f5a8be6bf/1/imagem-002.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/montadas/leis-ordinarias/2022/leis-ordinarias-579-2022-sapl-276.md",
+        "sha256_fonte": "6b6d506fe9bd98f7fff9d1277ee961cf61ff6d7793670708db3a506f5a8be6bf",
+        "pagina": 1,
+        "object_id": [
+          "26",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/montadas/leis-ordinarias/2022/leis-ordinarias-580-2022-sapl-277.md",
+        "sha256_fonte": "4f04ab86490c5a8911f40657bc1d2d676dd6e80c9259c870f39e23778ba11459",
+        "pagina": 1,
+        "object_id": [
+          "26",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/montadas/leis-ordinarias/2022/leis-ordinarias-581-2022-sapl-278.md",
+        "sha256_fonte": "b3c7614c04b801f30032f480476d3a807390358cbbc633f4eb7310dc541ba21b",
+        "pagina": 1,
+        "object_id": [
+          "26",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/montadas/leis-ordinarias/2022/leis-ordinarias-582-2022-sapl-279.md",
+        "sha256_fonte": "58580072555cb4302661a4f83add84ef9765bb3fd4d539c379cfb0eac9dea45e",
+        "pagina": 1,
+        "object_id": [
+          "26",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 13,
+    "sha256": "bc7bd30f817b8b436f38f459cd249c6d69da66d1c30fb8fde52d8dfd4898ef97",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/6b6d506fe9bd98f7fff9d1277ee961cf61ff6d7793670708db3a506f5a8be6bf/1/imagem-003.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/montadas/leis-ordinarias/2022/leis-ordinarias-579-2022-sapl-276.md",
+        "sha256_fonte": "6b6d506fe9bd98f7fff9d1277ee961cf61ff6d7793670708db3a506f5a8be6bf",
+        "pagina": 1,
+        "object_id": [
+          "26",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/montadas/leis-ordinarias/2022/leis-ordinarias-580-2022-sapl-277.md",
+        "sha256_fonte": "4f04ab86490c5a8911f40657bc1d2d676dd6e80c9259c870f39e23778ba11459",
+        "pagina": 1,
+        "object_id": [
+          "26",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/montadas/leis-ordinarias/2022/leis-ordinarias-581-2022-sapl-278.md",
+        "sha256_fonte": "b3c7614c04b801f30032f480476d3a807390358cbbc633f4eb7310dc541ba21b",
+        "pagina": 1,
+        "object_id": [
+          "26",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/montadas/leis-ordinarias/2022/leis-ordinarias-582-2022-sapl-279.md",
+        "sha256_fonte": "58580072555cb4302661a4f83add84ef9765bb3fd4d539c379cfb0eac9dea45e",
+        "pagina": 1,
+        "object_id": [
+          "26",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 14,
+    "sha256": "48fe2ee0a57691cd031aeb8399b90376e89d7f0e9adc22937867200d87c558a3",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/2/imagem-005.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 2,
+        "object_id": [
+          "40",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-706-2025-sapl-728.md",
+        "sha256_fonte": "c4a66bf0f5470a184447c5c0a09ea2f2a58f4e35c4518d0f05704ba31e900f1e",
+        "pagina": 2,
+        "object_id": [
+          "25",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 11,
+        "object_id": [
+          "48",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 15,
+    "sha256": "ca05ea988a3ab28dd1c9ff01c915e1717c80fc0de023a6ae503164fb49799faa",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/b87f9bf42859513fb587492fa874a8c8c660612519ea1e622a72996ff5e18ade/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2022/leis-ordinarias-237-2022-sapl-96.md",
+        "sha256_fonte": "b87f9bf42859513fb587492fa874a8c8c660612519ea1e622a72996ff5e18ade",
+        "pagina": 1,
+        "object_id": [
+          "7",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2022/leis-ordinarias-238-2022-sapl-97.md",
+        "sha256_fonte": "c490060bc7a6066934cd168ea89013d9ce37a7945629e826da73f1517a097b37",
+        "pagina": 1,
+        "object_id": [
+          "7",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2022/leis-ordinarias-244-2022-sapl-103.md",
+        "sha256_fonte": "79d9787e23c397ee7ac2a1b77d0687d2f2f2d2360ca23cb27b7cef958720a0d4",
+        "pagina": 1,
+        "object_id": [
+          "12",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 16,
+    "sha256": "26b0e19844fb763764dfce574d5fb1bb8b708fd28a68af6d3265a17ee7c51281",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/1fba421883738b32e82b73035bba769e07308a1f7a4a4f63b4e14dc29d52292f/1/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-488-2013-sapl-493.md",
+        "sha256_fonte": "1fba421883738b32e82b73035bba769e07308a1f7a4a4f63b4e14dc29d52292f",
+        "pagina": 1,
+        "object_id": [
+          "22",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-489-2013-sapl-494.md",
+        "sha256_fonte": "141b4885464a1b6309821ad4e836f77dfd0df8ff594b414d4b553198912e78aa",
+        "pagina": 1,
+        "object_id": [
+          "12",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-504-2013-sapl-509.md",
+        "sha256_fonte": "443815642f1a8114526f2163152343140508bf3bd5744b746b894a3628a5dad1",
+        "pagina": 1,
+        "object_id": [
+          "13",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 17,
+    "sha256": "81e06f8ff224a3db1bab43de66dcbf54ddfa46da2d83cc98df2d25746fac29ff",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/4f18dd693cba000d58d54374152da584fd6d9694d1680242c39e42ca281630dd/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/montadas/resolucoes/2025/resolucoes-18-2025-sapl-7.md",
+        "sha256_fonte": "4f18dd693cba000d58d54374152da584fd6d9694d1680242c39e42ca281630dd",
+        "pagina": 1,
+        "object_id": [
+          "25",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/montadas/resolucoes/2025/resolucoes-19-2025-sapl-8.md",
+        "sha256_fonte": "27583c307dcec6fcb5600c79f5cf20ba7b19d38e91be88dcc1319434d7fe8658",
+        "pagina": 1,
+        "object_id": [
+          "23",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 18,
+    "sha256": "288617953361295d51cb85f39fbb18f652ec81bd7fe49a4d1c0832806e05032e",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/4f18dd693cba000d58d54374152da584fd6d9694d1680242c39e42ca281630dd/1/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/montadas/resolucoes/2025/resolucoes-18-2025-sapl-7.md",
+        "sha256_fonte": "4f18dd693cba000d58d54374152da584fd6d9694d1680242c39e42ca281630dd",
+        "pagina": 1,
+        "object_id": [
+          "25",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/montadas/resolucoes/2025/resolucoes-19-2025-sapl-8.md",
+        "sha256_fonte": "27583c307dcec6fcb5600c79f5cf20ba7b19d38e91be88dcc1319434d7fe8658",
+        "pagina": 1,
+        "object_id": [
+          "23",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 19,
+    "sha256": "31c55fed399ab889afd97506f491503dcc1feec4518270a69b8ef9d7098f2c75",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/1/imagem-002.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 1,
+        "object_id": [
+          "28",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 53,
+        "object_id": [
+          "159",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 20,
+    "sha256": "f0398f75c9171f94a1bd28d40ec35f0e689744d11e122debed0517a0797e4a0b",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/1/imagem-008.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 1,
+        "object_id": [
+          "33",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 9,
+        "object_id": [
+          "42",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 21,
+    "sha256": "ed06e134991bd1f8d217b79aba45379c8af827446ee2e5b46877a23ad46cda39",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/4/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 4,
+        "object_id": [
+          "51",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 34,
+        "object_id": [
+          "108",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 22,
+    "sha256": "be4ade32c571c13f06522e6f295f0ab0a0cde8e642c9ff26e7c354225f425250",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/4/imagem-002.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 4,
+        "object_id": [
+          "52",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 3,
+        "object_id": [
+          "29",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 23,
+    "sha256": "8e9e2c87fdefbeeb950a7a2be676c0a68cc187bd3345585b344def118ca384cb",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/7158c4572f10bd0db31f1876a712ba9020702c336fdbdfcf8615e294ccbd8847/1/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2025/resolucoes-61-2025-sapl-773.md",
+        "sha256_fonte": "7158c4572f10bd0db31f1876a712ba9020702c336fdbdfcf8615e294ccbd8847",
+        "pagina": 1,
+        "object_id": [
+          "267",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-70-2026-sapl-911.md",
+        "sha256_fonte": "ffc8d3e436b90d85faa8c677edfd4c1d7332e68c57964d99a985fd787f9157d1",
+        "pagina": 1,
+        "object_id": [
+          "162",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 24,
+    "sha256": "345e35f5a93fe8882369cc08a230818214e1db474140c126484a701193f8124b",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/7158c4572f10bd0db31f1876a712ba9020702c336fdbdfcf8615e294ccbd8847/1/imagem-002.png",
+    "fontes": [
+      {
+        "norma": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2025/resolucoes-61-2025-sapl-773.md",
+        "sha256_fonte": "7158c4572f10bd0db31f1876a712ba9020702c336fdbdfcf8615e294ccbd8847",
+        "pagina": 1,
+        "object_id": [
+          "267",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-70-2026-sapl-911.md",
+        "sha256_fonte": "ffc8d3e436b90d85faa8c677edfd4c1d7332e68c57964d99a985fd787f9157d1",
+        "pagina": 1,
+        "object_id": [
+          "162",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-001.png"
+  },
+  {
+    "numero": 25,
+    "sha256": "090ecb2de270bbde0656ef25a26d52649b6869faf0ab6ed281d133da1ba85e63",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/9d34c499636724158b1ef849c2046b0fa59f64a064fa0aeb39917b80f1ca368c/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/MS/sidrolandia/leis-complementares/2015/leis-complementares-109-2015-sapl-17.md",
+        "sha256_fonte": "9d34c499636724158b1ef849c2046b0fa59f64a064fa0aeb39917b80f1ca368c",
+        "pagina": 1,
+        "object_id": [
+          "137",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MS/sidrolandia/leis-complementares/2003/leis-complementares-14-2003-sapl-21.md",
+        "sha256_fonte": "3d9dfa8f7671df76fd2eececcec42f0812b6611d3c7e1ab285bcd156ea7364ba",
+        "pagina": 1,
+        "object_id": [
+          "127",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 26,
+    "sha256": "078fee0c93404288017b43dd4a98eafdfb741c70d622cc37aad7b2ab460a08cb",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/9d34c499636724158b1ef849c2046b0fa59f64a064fa0aeb39917b80f1ca368c/1/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/MS/sidrolandia/leis-complementares/2015/leis-complementares-109-2015-sapl-17.md",
+        "sha256_fonte": "9d34c499636724158b1ef849c2046b0fa59f64a064fa0aeb39917b80f1ca368c",
+        "pagina": 1,
+        "object_id": [
+          "137",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MS/sidrolandia/leis-complementares/2003/leis-complementares-14-2003-sapl-21.md",
+        "sha256_fonte": "3d9dfa8f7671df76fd2eececcec42f0812b6611d3c7e1ab285bcd156ea7364ba",
+        "pagina": 1,
+        "object_id": [
+          "127",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 27,
+    "sha256": "edaab0a9171c56eb273fe6a4fa34051bdf8d709dbd84ddc72e712bcb71f63bce",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/764e8483060670e6cb27ee26832a0bceca23d509746406821584281131c62153/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-complementares/2025/leis-complementares-476-2025-sapl-46.md",
+        "sha256_fonte": "764e8483060670e6cb27ee26832a0bceca23d509746406821584281131c62153",
+        "pagina": 1,
+        "object_id": [
+          "71",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-complementares/2025/leis-complementares-478-2025-sapl-48.md",
+        "sha256_fonte": "2c1ec069889477d3cce35eeea5f9450c764b4e872d14756a6c73156a23294ff5",
+        "pagina": 1,
+        "object_id": [
+          "69",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 28,
+    "sha256": "61ef66f855c896b6903ad5121cddf14049454d57187980f27f208f92c7d786e5",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/55d8bd70665e76c20bde3730a2f5354b4d4cae1b8387f26051dcd84c038807ff/1/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-495-2013-sapl-500.md",
+        "sha256_fonte": "55d8bd70665e76c20bde3730a2f5354b4d4cae1b8387f26051dcd84c038807ff",
+        "pagina": 1,
+        "object_id": [
+          "12",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-518-2013-sapl-523.md",
+        "sha256_fonte": "b7d157227e56ff4262054f4bbaddafe7d54dd3a6a8dd4e5af8ccc1db9021b3c8",
+        "pagina": 1,
+        "object_id": [
+          "11",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 29,
+    "sha256": "21090d48ff8a4c89dea7e5d5e3e39a4f17b9392d630e841a959556aa437a88e2",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/9d714d4c868eda57e5e7c4db0ee5e27361bdb2989a256110bb5fb8b9aa20c26f/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PR/joaquim-tavora/leis-complementares/2019/leis-complementares-21-2019-sapl-1061.md",
+        "sha256_fonte": "9d714d4c868eda57e5e7c4db0ee5e27361bdb2989a256110bb5fb8b9aa20c26f",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/joaquim-tavora/leis-ordinarias/2013/leis-ordinarias-1290-2013-sapl-810.md",
+        "sha256_fonte": "1100ea0fa070c0b81a9ac0f631e449ca53108622200d514ad6ec047d948adbe2",
+        "pagina": 1,
+        "object_id": [
+          "6",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 30,
+    "sha256": "1caae3940655c9d0c0cfae444571bdfc01a8412564a8d05712588b569884a6fb",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/6ddc6cf7905a87990d6eae19b8272b5976b7e67c9e123d47df9fb6d7ec50b923/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/campestre/leis-ordinarias/2026/leis-ordinarias-2323-2026-sapl-801.md",
+        "sha256_fonte": "6ddc6cf7905a87990d6eae19b8272b5976b7e67c9e123d47df9fb6d7ec50b923",
+        "pagina": 1,
+        "object_id": [
+          "35",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/campestre/leis-ordinarias/2026/leis-ordinarias-2331-2026-sapl-1095.md",
+        "sha256_fonte": "4b9b71acfad6f55709fb979a260d176bfb58797dcd8fa6651993cd99c6f4b592",
+        "pagina": 1,
+        "object_id": [
+          "35",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 31,
+    "sha256": "c4bab4cc9c5d3a53e46b7745f21e06136d8425d79d09aec5c03cc67efa57d102",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/a43df4365a524692d9e1687f6f5d3161021d6a168c4b0d92c261671245b1914e/1/imagem-002.png",
+    "fontes": [
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1773-2026-sapl-94.md",
+        "sha256_fonte": "a43df4365a524692d9e1687f6f5d3161021d6a168c4b0d92c261671245b1914e",
+        "pagina": 1,
+        "object_id": [
+          "79",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/SP/magda/leis-ordinarias/2026/leis-ordinarias-1774-2026-sapl-95.md",
+        "sha256_fonte": "a488355ded774aef2c94a825b7b89e6186d1d5461342f75417bb2b594c11fa0a",
+        "pagina": 1,
+        "object_id": [
+          "103",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 32,
+    "sha256": "9c87379fa2ba4bb0953fac35134fa711f5c568eebbd34e5da96e679744783c3d",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "477",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "129",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 33,
+    "sha256": "11a8357429c30f378c620652e32a5f31482575e3ac6371a59e979c4177eddcae",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "477",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "129",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 34,
+    "sha256": "cfe11dfc282808b23576ad3459d316b5cffd77caa965097fa24eebe9927e08ed",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-002.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "445",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "92",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 35,
+    "sha256": "dfcd4c35a98d03d4bf30a42e6cf93a72847553d1915e9c0b5c688df7529d074f",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-003.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "445",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "92",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 36,
+    "sha256": "a48bfd839de60a9682d59f168e69ac5a0983b63f1933ba92cdcb6aa0cebd3955",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-004.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "447",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "89",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 37,
+    "sha256": "c5dceed608e5205079be20ac5573f8b2e34820f5fcdd8fcba944b16058dab06f",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-005.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "447",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "89",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 38,
+    "sha256": "b136dcdd3c56fab92b2cd13fe60f2aa69e3125d079b8cc32c9104370553837ec",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-006.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "448",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "91",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 39,
+    "sha256": "9c882ca86da50404f6975eb97b44441f2750851d621c992421a8d1952565514a",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-007.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "448",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "91",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 40,
+    "sha256": "ff3580c323a35c79856aea8e3b58dfccce5521687c22c474eaa51e1a645636ee",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-009.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "444",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "90",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 41,
+    "sha256": "2d7dc672d5e5c662b2e286cede2da9cf7c14f24e718f7fd4fa9d6c3b321ff80b",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-010.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "450",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "93",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 42,
+    "sha256": "c96be43285e2e3040c0b1a2bdc24a4e8b265bf5d352a839837b6611108d718ef",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-011.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "450",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "93",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 43,
+    "sha256": "b75a7d1fe03a7a88862f646a63afaab25cd20236f6c841116425eac380085689",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-013.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "451",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "94",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 44,
+    "sha256": "26ffdf5c687910ffbca7b217d947f03c906f2fa20e715494f3348640577401a2",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-014.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "452",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "95",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 45,
+    "sha256": "31f637dbe3f9a86a79fa51dee4f8f944d2e1c41541a1dec9dc55cb3658eced19",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-015.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "452",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "95",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 46,
+    "sha256": "a52bc98fde1f7274a1bed9fb7addaa05e8dccc9041e0d92e2541527b1267d0ff",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-019.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "453",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "96",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 47,
+    "sha256": "bc93304f62fffa7ceaa9bb9950e199e9bdd18248d0c886526e300e1492521ef1",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-020.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "454",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "97",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 48,
+    "sha256": "372e36ff67793cc422d8bce22500abb84b14bfd434600cdbb10e19ae66703e08",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-021.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "454",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "97",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-002.png"
+  },
+  {
+    "numero": 49,
+    "sha256": "4fdcf259d95eec469e0920a97662366a4a8c6f37dc0f35fa7b01c4fc015a3012",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-023.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "437",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "98",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 50,
+    "sha256": "33eee04d916e5f7924b56efb56fd46bc041c779013a799ad1fb702c9e0b63386",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-024.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "438",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "99",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 51,
+    "sha256": "e91c7b40acd25d00b523691961742964655aaaf64d82e4c71242857963fc0a26",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-025.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "438",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "99",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 52,
+    "sha256": "0632632ddd8c13df596c7b1ccc013d08ca3bdda551fc857175f204aa84839719",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-029.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "439",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "101",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 53,
+    "sha256": "2baaa459ef7c61450bf5e2d10eba7ebb28aaa9fc68530818275c5cef1f3b5ad6",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-037.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "441",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "103",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 54,
+    "sha256": "7891a7030b4f0989d7ebad93e3c274c095a8ee08ec211b882071e4d37b3768ea",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-039.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "449",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "104",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 55,
+    "sha256": "4a1544bad690a4ade95b277835ae85836255414101a2285b63e01be5b7f758c5",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-042.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "442",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "105",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 56,
+    "sha256": "474e05a56b02656914fad8c4a03c1bad09aba910bec5dfcf575dc26eb11ca086",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-043.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "442",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "105",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 57,
+    "sha256": "f8b4e88af64918e8522829cfd7c4546f8da00c2ac4a5f30599fd5d5d5c687e79",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-047.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "443",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "106",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 58,
+    "sha256": "4f37e0784d8c97825b24a7c4df527fbbd2dd04d8834296c1db3317663dc5aac1",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/1fc80a0d6f6a7ef476c6357fdc7cb5d5034ad23300f195268ae211876ffe6909/1/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-526-2013-sapl-532.md",
+        "sha256_fonte": "1fc80a0d6f6a7ef476c6357fdc7cb5d5034ad23300f195268ae211876ffe6909",
+        "pagina": 1,
+        "object_id": [
+          "12",
+          "0"
+        ]
+      },
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-527-2013-sapl-533.md",
+        "sha256_fonte": "a6e40041c6e5e171e30c287aeea9f09b61bb358838a5e356b21e05967a893903",
+        "pagina": 1,
+        "object_id": [
+          "12",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 59,
+    "sha256": "4287bdb39247f89297ca24df9fe1e8b6d3432cd46bab7da0034b85b291ee6549",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/16cda3e88bfc2a8310db55e3e337432dcf03a7a74f9c480c825bad372cdb30be/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2014/leis-ordinarias-78-2014-sapl-266.md",
+        "sha256_fonte": "16cda3e88bfc2a8310db55e3e337432dcf03a7a74f9c480c825bad372cdb30be",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 60,
+    "sha256": "d480d2f06f3ce8b3284c0558c714edde64fc44186aaa1f33e3e353376ee5882a",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/be07cb3b6c631c5958fb9fab280b68a68235323cb8762b4498f9ad0a98c8ec34/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2014/leis-ordinarias-79-2014-sapl-246.md",
+        "sha256_fonte": "be07cb3b6c631c5958fb9fab280b68a68235323cb8762b4498f9ad0a98c8ec34",
+        "pagina": 1,
+        "object_id": [
+          "40",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 61,
+    "sha256": "b9d55731d4e5563734dc8acdb0b2081e5d6cd8dc77ae11c750ed6640f9b253c3",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/1/imagem-003.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 1,
+        "object_id": [
+          "29",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 62,
+    "sha256": "b726f0e2949720c4087ab0d80e1b9ca74e18a68d43f8bf00e984cfa32dc2051e",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/1/imagem-004.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 1,
+        "object_id": [
+          "30",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 63,
+    "sha256": "6d4e58db4903814b4e638f92aabf4252324420f489be3fde38ee485488269448",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/1/imagem-005.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 1,
+        "object_id": [
+          "31",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 64,
+    "sha256": "4cb14b6ea0e5d52738b08e24317d00ebd9c449a5a53047f15bedbc73580eeb53",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/1/imagem-007.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 1,
+        "object_id": [
+          "32",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 65,
+    "sha256": "770c344f10f288456b7feaac6d65f144997183d7d320954431c1af2cdddadcb3",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/2/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 2,
+        "object_id": [
+          "36",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 66,
+    "sha256": "fc7da7a97a7de5aced6bd66fcbba9c04bca4da333c86eec2f572483d8fc4c5b7",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/2/imagem-002.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 2,
+        "object_id": [
+          "37",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 67,
+    "sha256": "75b733b0cfbdb1c5a6f78146eec39d21b35b789be90a8a16230aa0397d7f07d8",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/2/imagem-003.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 2,
+        "object_id": [
+          "38",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 68,
+    "sha256": "6b07a75ff22abd5d52d9b94ae2ab04c2206093c225c413dae083f155927e4d25",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/2/imagem-004.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 2,
+        "object_id": [
+          "39",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 69,
+    "sha256": "c78ba63a8aeb10fd43653c5865f23020ad8e99626c41bb8d2b79007bd7981d40",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/2/imagem-007.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 2,
+        "object_id": [
+          "41",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 70,
+    "sha256": "056ba838f2fd762ba612d3a9c7785354657b55850563286bcfd653641f949f1e",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/2/imagem-008.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 2,
+        "object_id": [
+          "42",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 71,
+    "sha256": "8ede533885eac15a8f0f1c39a2c408a7cc55d5efe864e65f62eeece49d80c316",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/2/imagem-010.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 2,
+        "object_id": [
+          "43",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 72,
+    "sha256": "c71b7b1d5c895abe2fbc2b8130a2e6cc29b146faa8b42c155b8bc59804d47d38",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/3/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 3,
+        "object_id": [
+          "46",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-003.png"
+  },
+  {
+    "numero": 73,
+    "sha256": "5ed23b589152ada80d49a15013cff8654822564e2a62f73b9666c0fbde161c89",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/3/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 3,
+        "object_id": [
+          "47",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 74,
+    "sha256": "76faeba137cbeb166fd6fb35350e7838d86068d6411f852cfcbc2e63086af759",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd/4/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/resolucoes/2023/resolucoes-8-2023-sapl-762.md",
+        "sha256_fonte": "5dbc5513c3128e81bbf48e0f473f65026d6c11eefd7e1f25495cd9587c1301fd",
+        "pagina": 4,
+        "object_id": [
+          "50",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 75,
+    "sha256": "984e277d11ee22b7bc0cbd04dfa177e1c4ad856fd1141baee5fd8853b6018931",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/09dbf2ec062d51374ae36e44bf51739d0bc11b27ee0b8b3de5e09519d11a48b0/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2025/resolucoes-58-2025-sapl-902.md",
+        "sha256_fonte": "09dbf2ec062d51374ae36e44bf51739d0bc11b27ee0b8b3de5e09519d11a48b0",
+        "pagina": 1,
+        "object_id": [
+          "103",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 76,
+    "sha256": "cb4cd9e222f2f3ec9934c4ab897b70d5275cb13c5a3375825038e028e6f2d5f7",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/1155b9151f3fc6a8c6cad782c92686e766fad20d6144fc4a166ba999fd80f266/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2014/leis-ordinarias-92-2014-sapl-284.md",
+        "sha256_fonte": "1155b9151f3fc6a8c6cad782c92686e766fad20d6144fc4a166ba999fd80f266",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 77,
+    "sha256": "71bd5b0c8a5f8e7294a52aa3d3c419ba56e90789d2447fade909d818b410a476",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d2dd1f7fbc45d24f011bdc88b49c8e7dd47ade7b9bca1960f9e8b5d384b03a88/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PR/joaquim-tavora/leis-complementares/2025/leis-complementares-35-2025-sapl-1069.md",
+        "sha256_fonte": "d2dd1f7fbc45d24f011bdc88b49c8e7dd47ade7b9bca1960f9e8b5d384b03a88",
+        "pagina": 1,
+        "object_id": [
+          "10",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 78,
+    "sha256": "d48201745fc3c044866d4528caf1574f80dd98cf77c0284a6ba4b9d485643363",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d2dd1f7fbc45d24f011bdc88b49c8e7dd47ade7b9bca1960f9e8b5d384b03a88/1/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PR/joaquim-tavora/leis-complementares/2025/leis-complementares-35-2025-sapl-1069.md",
+        "sha256_fonte": "d2dd1f7fbc45d24f011bdc88b49c8e7dd47ade7b9bca1960f9e8b5d384b03a88",
+        "pagina": 1,
+        "object_id": [
+          "10",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 79,
+    "sha256": "6183fb61b6e63f56bcb1af271ff3ed03f01ca8bf785061eedac69841aff4db90",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/d2dd1f7fbc45d24f011bdc88b49c8e7dd47ade7b9bca1960f9e8b5d384b03a88/1/imagem-002.png",
+    "fontes": [
+      {
+        "norma": "municipais/PR/joaquim-tavora/leis-complementares/2025/leis-complementares-35-2025-sapl-1069.md",
+        "sha256_fonte": "d2dd1f7fbc45d24f011bdc88b49c8e7dd47ade7b9bca1960f9e8b5d384b03a88",
+        "pagina": 1,
+        "object_id": [
+          "12",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 80,
+    "sha256": "387401c41af4d56d2f34236ee34af1293aa51a48a9a1910da06c3e6160b303b4",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/80a06242a2925dc8b8de2e299e30cc4fb804503bfbe4257e07d877271f1f970c/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-complementares/2025/leis-complementares-467-2025-sapl-37.md",
+        "sha256_fonte": "80a06242a2925dc8b8de2e299e30cc4fb804503bfbe4257e07d877271f1f970c",
+        "pagina": 1,
+        "object_id": [
+          "71",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 81,
+    "sha256": "6901fad5197857104875840d6f5126066faf70847137129b782f049a6005ac85",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/87a36002797ed9403e5b5a6807998e4523e2ee11c57857992145430c9d05aa5c/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2025/resolucoes-63-2025-sapl-906.md",
+        "sha256_fonte": "87a36002797ed9403e5b5a6807998e4523e2ee11c57857992145430c9d05aa5c",
+        "pagina": 1,
+        "object_id": [
+          "119",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 82,
+    "sha256": "92f8d946acaae75cc6e3817418886ca7e7da4d339ff84b9d1ad27eb266e39113",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0b09481598263e36f66bf5d88c6c17c428eb940567a1217e6818e7fcf4425361/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2024/resolucoes-50-2024-sapl-789.md",
+        "sha256_fonte": "0b09481598263e36f66bf5d88c6c17c428eb940567a1217e6818e7fcf4425361",
+        "pagina": 1,
+        "object_id": [
+          "126",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 83,
+    "sha256": "3592239fd183fab32ec8061d70d5c8c4712067184d6a8d26dcabcf661f176680",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/itatiaiucu/resolucoes/2025/resolucoes-488-2025-sapl-1963.md",
+        "sha256_fonte": "06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec",
+        "pagina": 1,
+        "object_id": [
+          "73",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 84,
+    "sha256": "df83b64ef5d124e8f336e20e072ee14e69c5c9e03471a29ba5dfc5c3f1075bf1",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/17/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/itatiaiucu/resolucoes/2025/resolucoes-488-2025-sapl-1963.md",
+        "sha256_fonte": "06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec",
+        "pagina": 17,
+        "object_id": [
+          "58",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 85,
+    "sha256": "10321a912d3a030d98f148cdf71429de23d2cdd906ea5e2963597dbc760049f4",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/17/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/itatiaiucu/resolucoes/2025/resolucoes-488-2025-sapl-1963.md",
+        "sha256_fonte": "06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec",
+        "pagina": 17,
+        "object_id": [
+          "60",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 86,
+    "sha256": "6a452699815cf0953775b65cf128710eef216fa853dcb6165b10b2af9b7406a7",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/17/imagem-002.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/itatiaiucu/resolucoes/2025/resolucoes-488-2025-sapl-1963.md",
+        "sha256_fonte": "06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec",
+        "pagina": 17,
+        "object_id": [
+          "60",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 87,
+    "sha256": "91ed40288614f72ceb4a44020d250fa50bf77b251cd91e1d49c88783537bf9ba",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/17/imagem-003.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/itatiaiucu/resolucoes/2025/resolucoes-488-2025-sapl-1963.md",
+        "sha256_fonte": "06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec",
+        "pagina": 17,
+        "object_id": [
+          "62",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 88,
+    "sha256": "bb80cef7f1bffb876b4ffecc1fcd441c6c105e6f5c3c955e18bafecb923b2cf4",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/17/imagem-004.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/itatiaiucu/resolucoes/2025/resolucoes-488-2025-sapl-1963.md",
+        "sha256_fonte": "06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec",
+        "pagina": 17,
+        "object_id": [
+          "62",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 89,
+    "sha256": "2e6539b376f4a81f7eab68d0720001367c529f382e9370d555b4901fecd7c140",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/17/imagem-005.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/itatiaiucu/resolucoes/2025/resolucoes-488-2025-sapl-1963.md",
+        "sha256_fonte": "06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec",
+        "pagina": 17,
+        "object_id": [
+          "64",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 90,
+    "sha256": "d7fb050cb651412b336d4a1d806b38cc60c2610a3d9391503e3dfa6bc0f77ef2",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/17/imagem-006.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/itatiaiucu/resolucoes/2025/resolucoes-488-2025-sapl-1963.md",
+        "sha256_fonte": "06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec",
+        "pagina": 17,
+        "object_id": [
+          "64",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 91,
+    "sha256": "bdb4be29ab8263e80c8844025b86c947de2c6bc452902314e9a0be32c11a6a39",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/17/imagem-007.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/itatiaiucu/resolucoes/2025/resolucoes-488-2025-sapl-1963.md",
+        "sha256_fonte": "06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec",
+        "pagina": 17,
+        "object_id": [
+          "65",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 92,
+    "sha256": "8d84da514fcf1e43eb7c2685ba87248f7bf098e0f2f7551ca8d343b2b707be47",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec/17/imagem-008.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/itatiaiucu/resolucoes/2025/resolucoes-488-2025-sapl-1963.md",
+        "sha256_fonte": "06a5d8e70a7032c6519729f1bddcf9099740cc2910d86796025bb016fc2a1fec",
+        "pagina": 17,
+        "object_id": [
+          "66",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 93,
+    "sha256": "b0a130298695af98cec0f215d714994775f5a026218a0db908cb5c9b12e5f767",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/0040b73adbb4643e5f2e470b74c483c00ef0238b63a06aff040ee78d63f20b08/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/barra-de-sao-miguel/leis-ordinarias/2022/leis-ordinarias-249-2022-sapl-109.md",
+        "sha256_fonte": "0040b73adbb4643e5f2e470b74c483c00ef0238b63a06aff040ee78d63f20b08",
+        "pagina": 1,
+        "object_id": [
+          "5",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 94,
+    "sha256": "40412a466fd8043fda68e884f9db646e8990aa36cd8e1c9910919a11a2af66e4",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/7cc20340690369bd640ef8eae282152cee55bac9648aea859b431eff0e331365/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PR/joaquim-tavora/leis-complementares/2026/leis-complementares-1 931-2026-sapl-1086.md",
+        "sha256_fonte": "7cc20340690369bd640ef8eae282152cee55bac9648aea859b431eff0e331365",
+        "pagina": 1,
+        "object_id": [
+          "13",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 95,
+    "sha256": "07924cb37325e8d96c21f5e354cc3d4230c129ae3c5f487164654e0f924b00f2",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/affe006651a2750e26af2f5f75028b810f1a08af76fb847629ac513c1aa12ccd/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PR/joaquim-tavora/leis-complementares/2019/leis-complementares-20-2019-sapl-1057.md",
+        "sha256_fonte": "affe006651a2750e26af2f5f75028b810f1a08af76fb847629ac513c1aa12ccd",
+        "pagina": 1,
+        "object_id": [
+          "19",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 96,
+    "sha256": "2a1ba598fb649bf942442df6e6c7fd01eceae9936978d466d0c88bdd2a0956cf",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/c39a52dc91d9ea7431d1156db0032fd7e84f925e9dea247e89d6f27396d359ca/1/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-498-2013-sapl-503.md",
+        "sha256_fonte": "c39a52dc91d9ea7431d1156db0032fd7e84f925e9dea247e89d6f27396d359ca",
+        "pagina": 1,
+        "object_id": [
+          "19",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-004.png"
+  },
+  {
+    "numero": 97,
+    "sha256": "cab709c61685e9fcd478d585c0e058debdd3ce5429dc085b8735e41032a63799",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/c3c097b1865dd138530e05036b5005570866121b069d9e8e1290650300a83ec5/1/imagem-002.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2022/leis-complementares-628-2022-sapl-711.md",
+        "sha256_fonte": "c3c097b1865dd138530e05036b5005570866121b069d9e8e1290650300a83ec5",
+        "pagina": 1,
+        "object_id": [
+          "23",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 98,
+    "sha256": "e3bd224015071009ba48ede8b9b44d50c4b2090f4b9a20aee2fb576df70c1c6d",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/b22e730244476e53884c97ec12d4faa69534b1824821897f242632fa093cf0dc/1/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-503-2013-sapl-508.md",
+        "sha256_fonte": "b22e730244476e53884c97ec12d4faa69534b1824821897f242632fa093cf0dc",
+        "pagina": 1,
+        "object_id": [
+          "12",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 99,
+    "sha256": "0d7a2b6914f7828b17ec12131d6ecfd80d22b8881997d71b319bde14779e5497",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/eedf0a07fddd118364b56dde25d0b189fdbcc234392904946f302a72dfe1a155/1/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-511-2013-sapl-516.md",
+        "sha256_fonte": "eedf0a07fddd118364b56dde25d0b189fdbcc234392904946f302a72dfe1a155",
+        "pagina": 1,
+        "object_id": [
+          "23",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 100,
+    "sha256": "f222085cd82ed975f68843407cb8a1b05e295ce5523a2f93a7ff14754069e9f5",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/299ff0f06ec694b86ec35919132171b5ddb61f43d5d76e5b7fcd9b5c4e64250e/1/imagem-002.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2025/leis-complementares-707-2025-sapl-729.md",
+        "sha256_fonte": "299ff0f06ec694b86ec35919132171b5ddb61f43d5d76e5b7fcd9b5c4e64250e",
+        "pagina": 1,
+        "object_id": [
+          "23",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 101,
+    "sha256": "730bc5ac204443ea24b7b70e41f717a9bffee2b40435c8c88e5388d852b28424",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/8d3d709e04329be3017637e695f99bfa90bbc48a38fb3815342992c6be7101c6/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-66-2026-sapl-910.md",
+        "sha256_fonte": "8d3d709e04329be3017637e695f99bfa90bbc48a38fb3815342992c6be7101c6",
+        "pagina": 1,
+        "object_id": [
+          "337",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 102,
+    "sha256": "d5a3590de5106f547b78b7063a222a84c589ea2795b1a8bea9d9c2fc5950e500",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/ceb41bb4cb9b28dc28b4e9f0678101fe88dc1248b46b5ab2cc287b8041d22f01/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-68-2026-sapl-766.md",
+        "sha256_fonte": "ceb41bb4cb9b28dc28b4e9f0678101fe88dc1248b46b5ab2cc287b8041d22f01",
+        "pagina": 1,
+        "object_id": [
+          "124",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 103,
+    "sha256": "b8a9bf9c1caeec005bbb9153bcd6b4f6780b421a0a8311d7c06e2ff135df5ddf",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e970bc585a7090b75adc729ec86d965714f064c98fc88db2104141a183638351/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-69-2026-sapl-774.md",
+        "sha256_fonte": "e970bc585a7090b75adc729ec86d965714f064c98fc88db2104141a183638351",
+        "pagina": 1,
+        "object_id": [
+          "223",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 104,
+    "sha256": "e896006071116678e8d9f5c7e52afff3d16fd34db2f9f6e8c5eaaaee376b3907",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/ffc8d3e436b90d85faa8c677edfd4c1d7332e68c57964d99a985fd787f9157d1/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/MT/bom-jesus-do-araguaia/resolucoes/2026/resolucoes-70-2026-sapl-911.md",
+        "sha256_fonte": "ffc8d3e436b90d85faa8c677edfd4c1d7332e68c57964d99a985fd787f9157d1",
+        "pagina": 1,
+        "object_id": [
+          "106",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 105,
+    "sha256": "7c64febe67c11d7ad3dec9fe269c63b2a1e45347b7decfcd909b70b4edc2d15a",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0/1/imagem-048.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-452-2024-sapl-64.md",
+        "sha256_fonte": "49a9f3253dcac96bff133bba94d818c767e59a0c8d17148ba20c70baa09487b0",
+        "pagina": 1,
+        "object_id": [
+          "446",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 106,
+    "sha256": "29690b91e98e63ed1cfe06d370a94bec020665307d82ae61107c680d481b7d7d",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/88aa647782a9203de268d78a2a14028dfa90e4c226da8958eaf1979d8df35f19/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-453-2024-sapl-78.md",
+        "sha256_fonte": "88aa647782a9203de268d78a2a14028dfa90e4c226da8958eaf1979d8df35f19",
+        "pagina": 1,
+        "object_id": [
+          "81",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 107,
+    "sha256": "8df5098347fa2e9a8f59eba694a6ee8eb3202bc32a856745eeefbfb1ef8efbed",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/355b42d4e448bbc86dd8e2b017567854ee19f4e8460a1fd78cbfcf7554e8bfc2/1/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-525-2013-sapl-531.md",
+        "sha256_fonte": "355b42d4e448bbc86dd8e2b017567854ee19f4e8460a1fd78cbfcf7554e8bfc2",
+        "pagina": 1,
+        "object_id": [
+          "12",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 108,
+    "sha256": "1e310211c8fa25116a4f7f8b6a2eb10e30d9a6ff6f54b6cf787a53a8ce169de2",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee/1/imagem-048.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/sem-peixe/leis-ordinarias/2024/leis-ordinarias-455-2024-sapl-79.md",
+        "sha256_fonte": "6079e6d542bce484b835a3bca20be57947f986375d126fb0bdb44c1a3c7dacee",
+        "pagina": 1,
+        "object_id": [
+          "100",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 109,
+    "sha256": "8f6403f4cf45e547e6061a639fb04e341da333094e25bcf5db954c01ceec76e0",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/1/imagem-002.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 1,
+        "object_id": [
+          "23",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 110,
+    "sha256": "db328890c17d48198a8d9d43ec38a7b011af294d4b0aa881d3c0abc51c608516",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/2/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 2,
+        "object_id": [
+          "26",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 111,
+    "sha256": "49835bf94075870197966093b1b9ecb29514445ea8fcdaf565305939c2d6386b",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/16/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 16,
+        "object_id": [
+          "59",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 112,
+    "sha256": "17619bae8a16a5de8b0773ab2ebe6e025851d64de73e1d9fed859935a8956c47",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/16/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 16,
+        "object_id": [
+          "60",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 113,
+    "sha256": "0ad2687f93f7001a12cb33a202dfe381b04b96246849e5fc6e4c5a565936c853",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/23/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 23,
+        "object_id": [
+          "75",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 114,
+    "sha256": "087eb14a81efa96f7ce9edbc2367f58c9067f4c2e758ff508c622a204360100f",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/23/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 23,
+        "object_id": [
+          "76",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 115,
+    "sha256": "19c5856db3ea9624bb95e946ede8f54a301ffce029db4e75d4774b399b9c0b52",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/32/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 32,
+        "object_id": [
+          "102",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 116,
+    "sha256": "5ec255ca2734523ba596abd7309aa9381e76cbe9919185f54770253b1eff2975",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/32/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 32,
+        "object_id": [
+          "103",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 117,
+    "sha256": "d791c77d4b4a3ce5abb756b12e0de34116d3d8e902e7c727d1a931679c8ca48b",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/38/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 38,
+        "object_id": [
+          "117",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 118,
+    "sha256": "6b217186442d38604352464e66d8850af75add4ee7628ed5ee4195c6f3d03753",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/39/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 39,
+        "object_id": [
+          "120",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 119,
+    "sha256": "7f25c39ba3a579e541be1e75c5a318720510ff8ae534b29e262f45d7a53748dd",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/39/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 39,
+        "object_id": [
+          "121",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 120,
+    "sha256": "ad3933a947f6e51f69e4f8ffefbeb23a752db42690b0f226704f42d8e3a847eb",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/41/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 41,
+        "object_id": [
+          "126",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-005.png"
+  },
+  {
+    "numero": 121,
+    "sha256": "d37ca0393e6a2da6b396d9d42a052f3fab5c300dc6e350911d895cc8a0125ebf",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/44/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 44,
+        "object_id": [
+          "133",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-006.png"
+  },
+  {
+    "numero": 122,
+    "sha256": "503f0419c7326f3305ee5c6ff230e7e2bf5f43158514e98422f194b9be8e5b4a",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/46/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 46,
+        "object_id": [
+          "138",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-006.png"
+  },
+  {
+    "numero": 123,
+    "sha256": "b0114c5dc379839159b9987934f8cdcf3af2e4f7a8f2770ae8ec4f23ae85b8b9",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/47/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 47,
+        "object_id": [
+          "141",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-006.png"
+  },
+  {
+    "numero": 124,
+    "sha256": "f91227d9a7776200061776dddfb76203791216f7b1548e50ac03a68d87116d4a",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/47/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 47,
+        "object_id": [
+          "142",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-006.png"
+  },
+  {
+    "numero": 125,
+    "sha256": "eb4029ff1e146da475c9097b739e81be4aaa06f921b0dd397dfb8026b21a5cb0",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/48/imagem-002.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 48,
+        "object_id": [
+          "145",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-006.png"
+  },
+  {
+    "numero": 126,
+    "sha256": "18611f1a3fc568ada96565a0425a02784677ed504baab2d452577e90ccac893b",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/49/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 49,
+        "object_id": [
+          "148",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-006.png"
+  },
+  {
+    "numero": 127,
+    "sha256": "cfbf1d54dc9ca0535f136bc4dbe698bdbc501691b959f82f3b33a63aced033ce",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/50/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 50,
+        "object_id": [
+          "151",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-006.png"
+  },
+  {
+    "numero": 128,
+    "sha256": "2577fed2cb77986ab44081f71d57489f06b499fe2ee76f78e60df91de2f594bd",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/50/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 50,
+        "object_id": [
+          "152",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-006.png"
+  },
+  {
+    "numero": 129,
+    "sha256": "5b1abe8359cfde9fb5160a88fad8b6e2314abf6e06941eb82ac4934216ddb436",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/53/imagem-002.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 53,
+        "object_id": [
+          "160",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-006.png"
+  },
+  {
+    "numero": 130,
+    "sha256": "b90c6b7b3b9073a00a29139547f08c17bd356f1cb8cd605aa770daedc1e2a768",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7/53/imagem-003.png",
+    "fontes": [
+      {
+        "norma": "municipais/PB/sao-jose-do-sabugi/leis-complementares/2005/leis-complementares-390-2005-sapl-670.md",
+        "sha256_fonte": "e21c7a169646550f5dd69ea06370ff5cb54aa4b55f11b472564ae2815a88fbc7",
+        "pagina": 53,
+        "object_id": [
+          "161",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-006.png"
+  },
+  {
+    "numero": 131,
+    "sha256": "b431a7de01a2ed8688c6d64260321e62121085afc5467ece7eb1809f4ea81d19",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/06aece21513d26e56e6f430d2b05f25bfe750fc7160876517447b00f4424b956/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/MT/bom-jesus-do-araguaia/decretos-legislativos/2026/decretos-legislativos-1-2026-sapl-668.md",
+        "sha256_fonte": "06aece21513d26e56e6f430d2b05f25bfe750fc7160876517447b00f4424b956",
+        "pagina": 1,
+        "object_id": [
+          "133",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-006.png"
+  },
+  {
+    "numero": 132,
+    "sha256": "7f3a32611459570d95afc27b97dd95def0076c6c8d19e37cf21df86762db32d7",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/8dde5cfc0c5331656193c8379953e610bebf386cfc92c7fc7f5967d3742252c2/1/imagem-000.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/campestre/leis-ordinarias/2026/leis-ordinarias-2335-2026-sapl-1750.md",
+        "sha256_fonte": "8dde5cfc0c5331656193c8379953e610bebf386cfc92c7fc7f5967d3742252c2",
+        "pagina": 1,
+        "object_id": [
+          "535",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-006.png"
+  },
+  {
+    "numero": 133,
+    "sha256": "127aeef419047b98f877c2af9992e40b0ef59dbb2d26258b77d17a050efd2704",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/8dde5cfc0c5331656193c8379953e610bebf386cfc92c7fc7f5967d3742252c2/1/imagem-002.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/campestre/leis-ordinarias/2026/leis-ordinarias-2335-2026-sapl-1750.md",
+        "sha256_fonte": "8dde5cfc0c5331656193c8379953e610bebf386cfc92c7fc7f5967d3742252c2",
+        "pagina": 1,
+        "object_id": [
+          "533",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-006.png"
+  },
+  {
+    "numero": 134,
+    "sha256": "c4b7259bd9952a01092eea591ce4f1e1a97b2528a21722003a04e529e8531f46",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/8dde5cfc0c5331656193c8379953e610bebf386cfc92c7fc7f5967d3742252c2/1/imagem-003.png",
+    "fontes": [
+      {
+        "norma": "municipais/MG/campestre/leis-ordinarias/2026/leis-ordinarias-2335-2026-sapl-1750.md",
+        "sha256_fonte": "8dde5cfc0c5331656193c8379953e610bebf386cfc92c7fc7f5967d3742252c2",
+        "pagina": 1,
+        "object_id": [
+          "534",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-006.png"
+  },
+  {
+    "numero": 135,
+    "sha256": "9e9530111f7e1dd466665ddbd01cf10d3566ea5b0b949f3925db6ee6be9fc891",
+    "imagem": "municipais/_fonte/auditorias/catalogo-imagens-sapl/09ac96118f5c8b940a2e83306025a36a1b8a18b5b7c5f83eeb5d47b64ee8c793/1/imagem-001.png",
+    "fontes": [
+      {
+        "norma": "municipais/PR/santa-lucia/leis-ordinarias/2013/leis-ordinarias-532-2013-sapl-537.md",
+        "sha256_fonte": "09ac96118f5c8b940a2e83306025a36a1b8a18b5b7c5f83eeb5d47b64ee8c793",
+        "pagina": 1,
+        "object_id": [
+          "21",
+          "0"
+        ]
+      }
+    ],
+    "contato": "contato-006.png"
+  }
+]

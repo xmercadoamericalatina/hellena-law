@@ -1,0 +1,24 @@
+{
+  "criterio": "Sinaliza atos alheios/identidade divergente em qualquer coluna do PDF nativo.\n\nSó produz suspeitos. Uma captura fiel de página inteira não prova granularidade.\nEpígrafes/avisos/datas ambíguos exigem revisão; ausência não certifica vigência.\n",
+  "script_sha256": "663e7a257c47a849f0232da252ff26fec5c5d312c2a8238f8e9323852b9fef5b",
+  "listas": [
+    {
+      "path": "municipais/_lotes/20261020-joao-pessoa-integral/candidato.paths.txt",
+      "sha256": "a1d80b6342433e84112884bf280cc1616b0b9e66dbfcd6446f025120fbfc5227"
+    }
+  ],
+  "resultados": [
+    {
+      "path": "municipais/PB/joao-pessoa/lei-organica/1990/lei-organica-1-1990-sapl-14101.md",
+      "sha256": "9d1ac18eb21a275c17da3a0906602d2bdf0dd66b8cd497d3666f2fae1373e25c",
+      "alertas": [],
+      "data_epigrafe_clara_conferida": false,
+      "evidencia": {
+        "path": "municipais/_fonte/auditorias/integralidade-pdf-sapl/f859ade2226d6f03c01c2e2816990b68851354ed6d51d5ce54106bd0072ad825.json.gz",
+        "sha256": "73d38cf8457289ef844e47b9bc732dfe48b6bbf9d597f0584367ea0de681ce5a",
+        "sha256_layout": "6a3191f5c3f37ce07489e621e74e15aba459b3e31693027ceb8061a2508a7e8b",
+        "sha256_bbox": "aaa496a708e2f2ad0b4d197a8d0b5a0914400fa2c6dc18a3dad24b0a21314641"
+      }
+    }
+  ]
+}

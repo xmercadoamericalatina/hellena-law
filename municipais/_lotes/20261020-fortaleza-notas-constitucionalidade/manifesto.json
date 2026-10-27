@@ -1,0 +1,12 @@
+{
+  "documento": "municipais/CE/fortaleza/lei-organica/2006/lei-organica-1-2006.md",
+  "sha256_head_preimagem": "5383b555d6d642eb734c8fbd63444cd4ea789cb8221ccef7a0dcc5adb7f268ef",
+  "head_verificado": "8f6cef4dfd68542f03852ddb09492b08be7a458e",
+  "sha256": "ae662790b86c355875154ff1dd392ef6056bcd8af1424d3a4bff3757aa9d4c11",
+  "fonte": "municipais/_fonte/capitais/fortaleza/lei-organica-2006-sapl44.html",
+  "sha256_fonte": "a3770625ec2abf27f8fc85a7bf41c97865f7d1cca5f74a157df76b92eabb602d",
+  "notas_inseridas": 3,
+  "prova": "Remover exatamente as três inserções reconstrói todo o corpo anterior byte a byte. A preimagem integral corresponde ao arquivo no HEAD informado.",
+  "script_sha256": "dfa6439829af8e68734477281d77819c82e16a3e4a84eb728a09d9a92e3088d0",
+  "limite": "As três notas e os links são declarações literais da fonte municipal. O processo 0620174-36.2023.8.06.000 é preservado com a grafia da fonte. A consulta dos links do TJCE retornou página sem texto acessível; não foi inferido alcance judicial."
+}

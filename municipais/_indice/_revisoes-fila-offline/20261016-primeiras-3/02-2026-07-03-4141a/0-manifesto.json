@@ -1,0 +1,37 @@
+{
+  "estado": "preparado",
+  "extrator": "geometria-colunas-v2",
+  "sha256_extrator": "3d954c48700d49328c6d71f3d841cfc40394642e81e338c23d7c27cae175dcd5",
+  "sha256_classificador": "6ad567935722b5e8b846d6eb306fcbb0cb2df93552e1c90fe6e930211c5a3df7",
+  "fonte": "https://www-storage.voxtecnologia.com.br/?m=sigpub.publicacao&f=251&i=publicado_120475_2026-07-03_c8fc704764384f02ad62a9ea4aff54bc.pdf",
+  "data_circulacao": "2026-07-03",
+  "pdf": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aam/2026-07-03-4141a.pdf",
+  "sha256_pdf": "aa69b7a88e04dbe8d616f77737f5173851f677b68ce562e1d483ba7274c2cd2e",
+  "cache_texto": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aam/2026-07-03-4141a.pdf.geometria-colunas-v2.3d954c48700d4932.txt",
+  "cache_metadados": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_fonte/aam/2026-07-03-4141a.pdf.geometria-colunas-v2.3d954c48700d4932.json",
+  "anteriores": [],
+  "novos": 1,
+  "provas_especificas_aceitas": [],
+  "referencias_parciais": [],
+  "atos_no_pdf": 1,
+  "nao_normativos_confirmados": [],
+  "citacoes_confirmadas": [],
+  "acoes": [
+    {
+      "acao": "gravar",
+      "codigo": "40E46327",
+      "candidato": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/fila-offline/candidatos/03c903e778aad0e8670b6928bd795230c31ceff5641fb99d4dbedfc63d0f1a79/geometria-colunas-v2/4bacc29722e443b9a1312306e0a5fbb5/municipais/AM/itacoatiara/resolucoes/2026/resolucao-011-2026-40e46327.md",
+      "destino": "municipais/AM/itacoatiara/resolucoes/2026/resolucao-011-2026-40e46327.md",
+      "sha256": "087405f176a55946819a65d338f5e8e4cecd61fa7590465790a648ca655c0c9e",
+      "prova_bloco": {
+        "uf": "AM",
+        "municipio": "ITACOATIARA",
+        "titulo": "RESOLUÇÃO Nº 011/2026    CMAS/ITACOATIARA",
+        "tipo": "resolucao",
+        "sha256_bloco": "d8f92b20e0b64cc302b6f6805dca12fc4cf107dab0daeb4d94c867822af85c76"
+      }
+    }
+  ],
+  "falhas": [],
+  "preparado_em": "2026-10-16T02:07:06.405380"
+}

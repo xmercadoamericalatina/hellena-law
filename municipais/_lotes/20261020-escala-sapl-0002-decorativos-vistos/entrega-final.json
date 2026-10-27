@@ -1,0 +1,17 @@
+{
+  "lotes": [
+    {
+      "manifesto": "municipais/_lotes/20261020-escala-sapl-0002-decorativos-vistos/lote-0001.json",
+      "sha256_manifesto": "ec12eb992c607114477c819951b5c86f282d4509b633552253c8a26be9808beb",
+      "lista": "municipais/_lotes/20261020-escala-sapl-0002-decorativos-vistos/lote-0001.paths.txt",
+      "sha256_lista": "58f5eda4a48865f73a8f3e4532212a42b444b70125fb00f449e65b4cd2184ccb",
+      "aprovados": 89
+    }
+  ],
+  "aprovados": 89,
+  "retidos": 206,
+  "criterio": "Libera só PDFs já integrais cujas imagens exatas receberam revisão visual.",
+  "sha256_controle_imagens": "15748fdbc68e84b0b42b7ffa75652c0b97eb9a5355ded0b9558a7f689d6f4c67",
+  "sha256_catalogo": "02e3ee8fc7f2dba75f667455f4db4db99dbead9c6f22229ed57d5822bf4050c2",
+  "script_sha256": "17def7e477a31485f466dfbb4debfb8ac3e5cf96f4a6d9be890cb63ef68abae1"
+}

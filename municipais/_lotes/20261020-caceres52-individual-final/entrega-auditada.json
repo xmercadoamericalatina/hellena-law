@@ -1,0 +1,23 @@
+{
+  "documentos": 1,
+  "objeto": "Alternativa individual assinada da mesma Emenda52/2025, sem nova identidade normativa. Documento antes retido, fora daslistas1673e336.",
+  "criterio": "Três páginas inspecionadas integralmente; todos textos nativos preservados. Imagens somente marcas/QR de autenticação. RelaçãoSAPL oficial contém esta alternativa; nenhuma epígrafe/aviso alheio. Fonte anterior eMarkdown contaminado mantidos, sem recorte automático de diário.",
+  "artefatos": [
+    {
+      "path": "municipais/_lotes/20261020-caceres52-individual-final/aprovados.paths.txt",
+      "sha256": "ac4450ea902e21f0bad124d8d6859fd19534f0f2ebbb694d78dcd59475d9507f"
+    },
+    {
+      "path": "municipais/_lotes/20261020-caceres52-individual-final/auditoria-municipal.json",
+      "sha256": "33449232622b5734b241efed3e73515c17d4ca6b7ca6560cbe1ccdd699660920"
+    },
+    {
+      "path": "municipais/_lotes/20261020-caceres52-individual-final/manifesto.json",
+      "sha256": "b46e7ec6ab6f546afcef957ce38de4e2237537bb1c5b63261d1ea6ae69996bbb"
+    }
+  ],
+  "script": {
+    "path": "scripts/integrar_anexos_sapl_revisados.py",
+    "sha256": "370c22e20e99c5901ac76fafd812b5ebcdcfcc38845204e4ec57a57418cd0d27"
+  }
+}

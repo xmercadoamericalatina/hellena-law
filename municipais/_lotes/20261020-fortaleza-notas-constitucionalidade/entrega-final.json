@@ -1,0 +1,123 @@
+{
+  "normas_corrigidas": 1,
+  "notas_literais": 3,
+  "documento": "municipais/CE/fortaleza/lei-organica/2006/lei-organica-1-2006.md",
+  "sha256_documento": "ae662790b86c355875154ff1dd392ef6056bcd8af1424d3a4bff3757aa9d4c11",
+  "preimagem_head_sha256": "5383b555d6d642eb734c8fbd63444cd4ea789cb8221ccef7a0dcc5adb7f268ef",
+  "head_verificado": "8f6cef4dfd68542f03852ddb09492b08be7a458e",
+  "validacao": "2 testes passaram; reversão das três inserções recompõe o corpo anterior byte a byte; auditoria municipal 1 arquivo e 0 problemas; auditoria de formato sem erros ou avisos.",
+  "limite": "Notas e referências judiciais são atribuídas literalmente ao portal municipal. Não se infere alcance judicial nem se corrige a grafia de processo da fonte.",
+  "arquivos": [
+    {
+      "arquivo": "municipais/CE/fortaleza/lei-organica/2006/lei-organica-1-2006.md",
+      "sha256": "ae662790b86c355875154ff1dd392ef6056bcd8af1424d3a4bff3757aa9d4c11",
+      "bytes": 264339
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/fortaleza/lei-organica-2006-sapl44.html",
+      "sha256": "a3770625ec2abf27f8fc85a7bf41c97865f7d1cca5f74a157df76b92eabb602d",
+      "bytes": 1101025
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-fortaleza-notas-constitucionalidade/auditoria-formato.json",
+      "sha256": "18e7aef8ad7275f85216a8e6071cf3f2667b16b82266c5fb2e6fdd3086f2337a",
+      "bytes": 191
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-fortaleza-notas-constitucionalidade/auditoria-municipal.json",
+      "sha256": "1168b0604928590aac0bca08924c4e18f01b585c8dcaa5d556f8051d0e8efae8",
+      "bytes": 708
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-fortaleza-notas-constitucionalidade/consulta-tjce-1.html",
+      "sha256": "c50c0fadba57687b5497e0684192f6f73710970060875c5899c58cd897eeb0f1",
+      "bytes": 751
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-fortaleza-notas-constitucionalidade/consulta-tjce-1.json",
+      "sha256": "f58f2ff38d9a8143e961703f6c8c1cb73015789d980e75c648195427ffa40f14",
+      "bytes": 502
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-fortaleza-notas-constitucionalidade/consulta-tjce-2.html",
+      "sha256": "862fe62700fb8d27a8a3832162435ff60e73503d922875d90bf2ab06c5362a2d",
+      "bytes": 750
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-fortaleza-notas-constitucionalidade/consulta-tjce-2.json",
+      "sha256": "1a79d35cc72e024fdef76fcea63eb163ce1ed235b128256c3275d011419f169f",
+      "bytes": 500
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-fortaleza-notas-constitucionalidade/dn2710.html",
+      "sha256": "3401726f2fa4efc8c730be81794c2cdb4ba122c863ae61d51ea3fdb1153787ca",
+      "bytes": 630
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-fortaleza-notas-constitucionalidade/dn4773.html",
+      "sha256": "1a3b41a433dafea1d455a367ff5ecfb48b7555b83e09a03eef10a62519a0fb1d",
+      "bytes": 630
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-fortaleza-notas-constitucionalidade/dn4774.html",
+      "sha256": "f52f3c08ee96ce9b09e57a79e8cfa0dfc43b5c3913fd5d112d15f3e39a9d67c1",
+      "bytes": 630
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-fortaleza-notas-constitucionalidade/documento-anterior.md",
+      "sha256": "5383b555d6d642eb734c8fbd63444cd4ea789cb8221ccef7a0dcc5adb7f268ef",
+      "bytes": 262964
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-fortaleza-notas-constitucionalidade/manifesto.json",
+      "sha256": "d4d3073f7bbbfb4a436366365b48298d85e822195f1a7d04987589c7d2698321",
+      "bytes": 1033
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-fortaleza-notas-constitucionalidade/normas.paths.txt",
+      "sha256": "adbeed97484e63098de320d91875eb747aa1c09654d978eb4ee68feab3f9590b",
+      "bytes": 65
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-fortaleza-notas-constitucionalidade/notas-literais.json",
+      "sha256": "b5da7dadb17e24a0a2e414be239b15ceee7b39a5da344488e53fe066f254428a",
+      "bytes": 4961
+    },
+    {
+      "arquivo": "scripts/comum.py",
+      "sha256": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+      "bytes": 19447
+    },
+    {
+      "arquivo": "scripts/converter_organica_fortaleza.py",
+      "sha256": "84784009dbf676e8a912dad5954da4cfb8385dc897702b02043c3bbf55a6175d",
+      "bytes": 6998
+    },
+    {
+      "arquivo": "scripts/html2md.py",
+      "sha256": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6",
+      "bytes": 15168
+    },
+    {
+      "arquivo": "scripts/preservar_notas_fortaleza.py",
+      "sha256": "dfa6439829af8e68734477281d77819c82e16a3e4a84eb728a09d9a92e3088d0",
+      "bytes": 6929
+    },
+    {
+      "arquivo": "scripts/test_notas_fortaleza.py",
+      "sha256": "e60ff0527a27663e8c64900ae1b3b6524cfe0e354f9089e769e193bee133a326",
+      "bytes": 1370
+    }
+  ],
+  "bytes": 1689591,
+  "listas": [
+    {
+      "path": "municipais/_lotes/20261020-fortaleza-notas-constitucionalidade/normas.paths.txt",
+      "sha256": "adbeed97484e63098de320d91875eb747aa1c09654d978eb4ee68feab3f9590b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-fortaleza-notas-constitucionalidade/artefatos.paths.txt",
+      "sha256": "58ce11ec05cc2e13f85f59413bffb97f20ee47fe8eaab297dd789d17bf1bf8f3"
+    }
+  ]
+}

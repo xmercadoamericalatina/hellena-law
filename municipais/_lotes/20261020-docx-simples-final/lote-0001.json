@@ -1,0 +1,357 @@
+{
+  "obtido_em": "2026-10-20T21:33:25.344172",
+  "baseline": "/tmp/constituicao-index-20261020-continuacao.z",
+  "baseline_sha256": "a424728b1798aae5662ce344200637c9dc3b621eca986d3d3a01b6ec22929285",
+  "ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "criterio": "auditoria local de fonte individual SAPL; sem rede, sem Git, sem edição dos documentos",
+  "aprovados": [
+    {
+      "path": "municipais/MG/itapeva/emendas-lei-organica/2011/emendas-lei-organica-8-2011-sapl-944.md",
+      "sha256": "8e4e22881fcd7ab276b6f52152465a8a2685e6e0dcc9a1fe8d77912fd8cc8ba7",
+      "sha256_corpo": "451bcf90bc8d09b5670fc3dbd1f7c1e0b0b1deed82e3882ee1717d24b5bbe9c0",
+      "fonte": "https://sapl.itapeva.mg.leg.br/norma/944",
+      "fonte_texto": "https://sapl.itapeva.mg.leg.br/media/sapl/public/normajuridica/2011/944/emenda_008_-_2011_de_09_de_fevereiro.docx",
+      "codigo_ibge": "3133600",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.itapeva.mg.leg.br/944.bin",
+          "sha256": "e1c74b73b082cea504b97dd136aeeef8722391352ce2eae2f4fa15dd50d8954e"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.itapeva.mg.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/7d3273223026910073209d6474e2c8559c98b92c96c53f91aa41c19df51adf38.json",
+          "sha256": "7d3273223026910073209d6474e2c8559c98b92c96c53f91aa41c19df51adf38"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.itapeva.mg.leg.br/e77e61a22e20da26bb85333c177223c2343ed8d9bd229145dafcd3b73d323be3.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0e28724612352e12cc63c469465844fc63f79e20371efe834c6c07775a7b5c30.json",
+          "sha256": "0e28724612352e12cc63c469465844fc63f79e20371efe834c6c07775a7b5c30"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.itapeva.mg.leg.br/4200a8136561770153864749505ee19de8229550f059713eb55c912a04e0d7e6.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/1c0a07e593cf32c4b485d9d93fcf51c43b1545d096ac3acd434675032e380764.json",
+          "sha256": "1c0a07e593cf32c4b485d9d93fcf51c43b1545d096ac3acd434675032e380764"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-1-2015-sapl-2520.md",
+      "sha256": "4136eed1f867ddf09704cd380744e057f31b141a3d311c177135a909ac517108",
+      "sha256_corpo": "88f98f2c3c843c1535a77da88fced46d09addb716ebf395276de2f8d2fccfd51",
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2520",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2520/emenda_a_lei_organica_do_municipio_no_001_de_2015_-_altera_o_inciso_vii_do_art._8o_da_lei_organica.docx",
+      "codigo_ibge": "3539608",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2520.bin",
+          "sha256": "ef8f2becc9eb9d7a4c093f20d5e1c4fb8d35ff4f386eb50926675b2444d7d227"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/f05722c67507f686bba0fc738db55ae9f75c91f084264cbbc37a559054355350.json",
+          "sha256": "f05722c67507f686bba0fc738db55ae9f75c91f084264cbbc37a559054355350"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/618fbf583894a411df2380aaf28abd0d0053d417da1d7f1c20ceb08c18a08004.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/ef5c4d83c30f1e35a14248b5a91e890fde388619cb93bd8f6846e712f53124b6.json",
+          "sha256": "ef5c4d83c30f1e35a14248b5a91e890fde388619cb93bd8f6846e712f53124b6"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/cfb3cf36240f3e1822d511fbe18597a24ff9f40aadc72693bba82d8b9e95758c.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/d27236e16492c89f8631379898b918312b36ec3987a1ae041f7b6cb4dcee2486.json",
+          "sha256": "d27236e16492c89f8631379898b918312b36ec3987a1ae041f7b6cb4dcee2486"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-2-2015-sapl-2521.md",
+      "sha256": "dc58c5fce0a115463d8542da56c2d55f79a2a3b6b53f7e1dce11180978bedfd5",
+      "sha256_corpo": "a0ed5af75226d6e9c83649e8b59b96ddc0930e4bc67320e7d2e867393520d5e4",
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2521",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2521/emenda_a_lei_organica_do_municipio_no_002_de_2015_-_altera_o_art._19_da_lei_organica.docx",
+      "codigo_ibge": "3539608",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2521.bin",
+          "sha256": "73581ea8d81db27b0755f2c7c56daf2da3a1e7dc5e58f64f95a8cdcddb515b86"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/f05722c67507f686bba0fc738db55ae9f75c91f084264cbbc37a559054355350.json",
+          "sha256": "f05722c67507f686bba0fc738db55ae9f75c91f084264cbbc37a559054355350"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/618fbf583894a411df2380aaf28abd0d0053d417da1d7f1c20ceb08c18a08004.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/ef5c4d83c30f1e35a14248b5a91e890fde388619cb93bd8f6846e712f53124b6.json",
+          "sha256": "ef5c4d83c30f1e35a14248b5a91e890fde388619cb93bd8f6846e712f53124b6"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/cfb3cf36240f3e1822d511fbe18597a24ff9f40aadc72693bba82d8b9e95758c.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/d27236e16492c89f8631379898b918312b36ec3987a1ae041f7b6cb4dcee2486.json",
+          "sha256": "d27236e16492c89f8631379898b918312b36ec3987a1ae041f7b6cb4dcee2486"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-3-2015-sapl-2522.md",
+      "sha256": "ab38fce52128684879699cb0a134cbd0dc5542ed76df105fd5c9815328959fcb",
+      "sha256_corpo": "9e8694b0724fe511d159b19481b88ec38ad68e7adcf1a5a776167fb058efb41e",
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2522",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2522/emenda_a_lei_organica_do_municipio_no_003_de_2015_-_acrescenta_o_inciso_iii_ao_art._47_da_lei_organica.docx",
+      "codigo_ibge": "3539608",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2522.bin",
+          "sha256": "6e2c2a801dc06f3bc4cddcb69d2b5b4a82945602e1a54e2cee1f057988dbb82b"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/f05722c67507f686bba0fc738db55ae9f75c91f084264cbbc37a559054355350.json",
+          "sha256": "f05722c67507f686bba0fc738db55ae9f75c91f084264cbbc37a559054355350"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/618fbf583894a411df2380aaf28abd0d0053d417da1d7f1c20ceb08c18a08004.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/ef5c4d83c30f1e35a14248b5a91e890fde388619cb93bd8f6846e712f53124b6.json",
+          "sha256": "ef5c4d83c30f1e35a14248b5a91e890fde388619cb93bd8f6846e712f53124b6"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/cfb3cf36240f3e1822d511fbe18597a24ff9f40aadc72693bba82d8b9e95758c.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/d27236e16492c89f8631379898b918312b36ec3987a1ae041f7b6cb4dcee2486.json",
+          "sha256": "d27236e16492c89f8631379898b918312b36ec3987a1ae041f7b6cb4dcee2486"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-4-2015-sapl-2523.md",
+      "sha256": "18770d34148d68a59ad0e3bad9e48a6bfb8171c4638e12ff5e52f5c6712b2bee",
+      "sha256_corpo": "4fc5ac90b32370f7a355290f6fa3885675e32fc1fc38bc8647300e0fcf8df28a",
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2523",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2523/emenda_a_lei_organica_do_municipio_no_004_de_2015_-altera_a_redacao_do_paragrafo_3o_do_art._50_da_lei_organica.docx",
+      "codigo_ibge": "3539608",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2523.bin",
+          "sha256": "a4d30ae147f4029f171d5b0dc12d668499a88e0911a78ecb700953b9fb17ec5f"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/f05722c67507f686bba0fc738db55ae9f75c91f084264cbbc37a559054355350.json",
+          "sha256": "f05722c67507f686bba0fc738db55ae9f75c91f084264cbbc37a559054355350"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/618fbf583894a411df2380aaf28abd0d0053d417da1d7f1c20ceb08c18a08004.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/ef5c4d83c30f1e35a14248b5a91e890fde388619cb93bd8f6846e712f53124b6.json",
+          "sha256": "ef5c4d83c30f1e35a14248b5a91e890fde388619cb93bd8f6846e712f53124b6"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/cfb3cf36240f3e1822d511fbe18597a24ff9f40aadc72693bba82d8b9e95758c.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/d27236e16492c89f8631379898b918312b36ec3987a1ae041f7b6cb4dcee2486.json",
+          "sha256": "d27236e16492c89f8631379898b918312b36ec3987a1ae041f7b6cb4dcee2486"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-5-2015-sapl-2526.md",
+      "sha256": "2bd9b44a77f1de05891627ed5e064d50488100ec3ae9732410973a31cf091ae7",
+      "sha256_corpo": "fbce34213a8c04e051490bedba2131055bf5311f9288d66584745d9ab194a39c",
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2526",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2526/emenda_a_lei_organica_do_municipio_no_005_de_2015_-altera_a_redacao_do_paragrafo_unico_do_art._59_da_lei_organica.docx",
+      "codigo_ibge": "3539608",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2526.bin",
+          "sha256": "244d7b5031f1f3c0ef55d734bd608f0ddd3a9e7e422f68e5efee12c090b8e152"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/f05722c67507f686bba0fc738db55ae9f75c91f084264cbbc37a559054355350.json",
+          "sha256": "f05722c67507f686bba0fc738db55ae9f75c91f084264cbbc37a559054355350"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/618fbf583894a411df2380aaf28abd0d0053d417da1d7f1c20ceb08c18a08004.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/ef5c4d83c30f1e35a14248b5a91e890fde388619cb93bd8f6846e712f53124b6.json",
+          "sha256": "ef5c4d83c30f1e35a14248b5a91e890fde388619cb93bd8f6846e712f53124b6"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/cfb3cf36240f3e1822d511fbe18597a24ff9f40aadc72693bba82d8b9e95758c.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/d27236e16492c89f8631379898b918312b36ec3987a1ae041f7b6cb4dcee2486.json",
+          "sha256": "d27236e16492c89f8631379898b918312b36ec3987a1ae041f7b6cb4dcee2486"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-6-2015-sapl-2527.md",
+      "sha256": "1a5f96efb2d482d0deeb3d8909fe4ed8fcf2e3ebf0bcd7836f182f805516e899",
+      "sha256_corpo": "136d95c56ee1708f0ab1c2bf35ec6f8fea20f984242e48ad9e6f21c74ef4bdf7",
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2527",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2527/emenda_a_lei_organica_do_municipio_no_006_de_2015_-altera_a_redacao_do__art._92_da_lei_organica.docx",
+      "codigo_ibge": "3539608",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2527.bin",
+          "sha256": "437808e91173da70206c7632291f6dd314573b5112ac7f214b97631eb9d3f864"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/f05722c67507f686bba0fc738db55ae9f75c91f084264cbbc37a559054355350.json",
+          "sha256": "f05722c67507f686bba0fc738db55ae9f75c91f084264cbbc37a559054355350"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/618fbf583894a411df2380aaf28abd0d0053d417da1d7f1c20ceb08c18a08004.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/ef5c4d83c30f1e35a14248b5a91e890fde388619cb93bd8f6846e712f53124b6.json",
+          "sha256": "ef5c4d83c30f1e35a14248b5a91e890fde388619cb93bd8f6846e712f53124b6"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/cfb3cf36240f3e1822d511fbe18597a24ff9f40aadc72693bba82d8b9e95758c.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/d27236e16492c89f8631379898b918312b36ec3987a1ae041f7b6cb4dcee2486.json",
+          "sha256": "d27236e16492c89f8631379898b918312b36ec3987a1ae041f7b6cb4dcee2486"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/SP/planalto/emendas-lei-organica/2015/emendas-lei-organica-7-2015-sapl-2528.md",
+      "sha256": "e6cd7bfee75fd1b67c7e25723e62ef17f9f661538e47b97b3a5811c64735bd52",
+      "sha256_corpo": "4f1fa9bd61df57a395edc3ad6ba49960a42c407ceb94d1a8fa079758cc9f89a6",
+      "fonte": "https://sapl.planalto.sp.leg.br/norma/2528",
+      "fonte_texto": "https://sapl.planalto.sp.leg.br/media/sapl/public/normajuridica/2015/2528/emenda_a_lei_organica_do_municipio_no_007_de_2015_-altera_a_redacao_do_paragrafo_2o__art._144_da_lei_organica.docx",
+      "codigo_ibge": "3539608",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.planalto.sp.leg.br/2528.bin",
+          "sha256": "8b02e5fbf16d42464bc3588d4fa01fc5e9d62f437fe216f484f61c68fdcb2b4a"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/f05722c67507f686bba0fc738db55ae9f75c91f084264cbbc37a559054355350.json",
+          "sha256": "f05722c67507f686bba0fc738db55ae9f75c91f084264cbbc37a559054355350"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/618fbf583894a411df2380aaf28abd0d0053d417da1d7f1c20ceb08c18a08004.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/ef5c4d83c30f1e35a14248b5a91e890fde388619cb93bd8f6846e712f53124b6.json",
+          "sha256": "ef5c4d83c30f1e35a14248b5a91e890fde388619cb93bd8f6846e712f53124b6"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.planalto.sp.leg.br/cfb3cf36240f3e1822d511fbe18597a24ff9f40aadc72693bba82d8b9e95758c.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/d27236e16492c89f8631379898b918312b36ec3987a1ae041f7b6cb4dcee2486.json",
+          "sha256": "d27236e16492c89f8631379898b918312b36ec3987a1ae041f7b6cb4dcee2486"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    },
+    {
+      "path": "municipais/RS/coronel-barros/resolucoes/2023/resolucoes-3-2023-sapl-96.md",
+      "sha256": "e318c3cf410ae7f0e25e106489d175f9b8b1ace554f3179c1c5067f0ccbbea0e",
+      "sha256_corpo": "6463ebc1c96775d063016d73fc0f8cd38e98cbccaf5bc28984b868a0537d2e8f",
+      "fonte": "https://sapl.coronelbarros.rs.leg.br/norma/96",
+      "fonte_texto": "https://sapl.coronelbarros.rs.leg.br/media/sapl/public/normajuridica/2023/96/resolucao_de_mesa_no_03_-_ponto_facultativo_carnaval.docx",
+      "codigo_ibge": "4305871",
+      "evidencias": [
+        {
+          "path": "municipais/_fonte/organicas-sapl/sapl.coronelbarros.rs.leg.br/96.bin",
+          "sha256": "00daa925d838067051e108863805c7440c4ad7649bb987acbf1a462a83c620eb"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.coronelbarros.rs.leg.br/indice.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/d46f52a26e081a9895e76d69df7fbfd021ea208e78853482efe7004ea4e3a805.json",
+          "sha256": "d46f52a26e081a9895e76d69df7fbfd021ea208e78853482efe7004ea4e3a805"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.coronelbarros.rs.leg.br/indice-legislacao.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/b1119a5cc6b049e1d0728e656c22a0c757c09011f88b3e16b6a5f57c6d7ef4e0.json",
+          "sha256": "b1119a5cc6b049e1d0728e656c22a0c757c09011f88b3e16b6a5f57c6d7ef4e0"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.coronelbarros.rs.leg.br/62f153a28bb25d41812156508c8f506b31639d45e5129bb450b94caca36e827e.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/b7eb50d59be6ff75b1c3429e94b1944bce8673595d3b7101ddae792e40b8e8a6.json",
+          "sha256": "b7eb50d59be6ff75b1c3429e94b1944bce8673595d3b7101ddae792e40b8e8a6"
+        },
+        {
+          "cache_original": "municipais/_indice/organicas-sapl/sapl.coronelbarros.rs.leg.br/2ccbbe6cee127fe0d5c9377b4ffc4f9ef3236988cf0e9d20d1f6ea506f6ccb3e.json",
+          "path": "municipais/_fonte/auditorias/lotes-sapl/evidencias/0d2812b910d8a2cb1a1f7897caf6dc58e301c6e7e1f0df95da30066d592f6c02.json",
+          "sha256": "0d2812b910d8a2cb1a1f7897caf6dc58e301c6e7e1f0df95da30066d592f6c02"
+        }
+      ],
+      "checks": {
+        "formato": true,
+        "origem_ibge_sapl_hashes_indice": true
+      },
+      "erros": [],
+      "avisos": [],
+      "alertas_granularidade": [],
+      "alertas_outras_publicacoes": [],
+      "limite": "Hash do corpo e fonte verificados; não certifica fidelidade de OCR nem vigência jurídica."
+    }
+  ],
+  "retidos": []
+}

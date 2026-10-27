@@ -1,0 +1,88 @@
+{
+  "url": "https://servicodados.ibge.gov.br/api/v1/localidades/municipios?orderBy=nome",
+  "cadastro_path": "municipais/_indice/ibge-municipios.json",
+  "cadastro_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "total_cadastro": 5571,
+  "identidades": [
+    {
+      "id": 3301801,
+      "nome": "Engenheiro Paulo de Frontin",
+      "microrregiao": {
+        "id": 33014,
+        "nome": "Vassouras",
+        "mesorregiao": {
+          "id": 3306,
+          "nome": "Metropolitana do Rio de Janeiro",
+          "UF": {
+            "id": 33,
+            "sigla": "RJ",
+            "nome": "Rio de Janeiro",
+            "regiao": {
+              "id": 3,
+              "sigla": "SE",
+              "nome": "Sudeste"
+            }
+          }
+        }
+      },
+      "regiao-imediata": {
+        "id": 330004,
+        "nome": "Volta Redonda - Barra Mansa",
+        "regiao-intermediaria": {
+          "id": 3302,
+          "nome": "Volta Redonda - Barra Mansa",
+          "UF": {
+            "id": 33,
+            "sigla": "RJ",
+            "nome": "Rio de Janeiro",
+            "regiao": {
+              "id": 3,
+              "sigla": "SE",
+              "nome": "Sudeste"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 1301902,
+      "nome": "Itacoatiara",
+      "microrregiao": {
+        "id": 13009,
+        "nome": "Itacoatiara",
+        "mesorregiao": {
+          "id": 1303,
+          "nome": "Centro Amazonense",
+          "UF": {
+            "id": 13,
+            "sigla": "AM",
+            "nome": "Amazonas",
+            "regiao": {
+              "id": 1,
+              "sigla": "N",
+              "nome": "Norte"
+            }
+          }
+        }
+      },
+      "regiao-imediata": {
+        "id": 130011,
+        "nome": "Itacoatiara",
+        "regiao-intermediaria": {
+          "id": 1304,
+          "nome": "Parintins",
+          "UF": {
+            "id": 13,
+            "sigla": "AM",
+            "nome": "Amazonas",
+            "regiao": {
+              "id": 1,
+              "sigla": "N",
+              "nome": "Norte"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
