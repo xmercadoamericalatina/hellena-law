@@ -1,0 +1,53 @@
+{
+  "estado": "preparacao offline para revisao independente; sem aplicacao/Git de escrita/HTTP",
+  "HEAD": "c292fcbf724454c72cfd73100745159b0b782c26",
+  "HEAD_inicial": "c292fcbf724454c72cfd73100745159b0b782c26",
+  "coorte_manifesto": {
+    "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/manifesto-coorte-contextual-final-20261016.json",
+    "sha256": "c57efc897516663c5454dc9b0deda3967acbd92bf08ee5b85a26da0f40e2ed20",
+    "bytes": 12954
+  },
+  "coorte_canonicos": 14691,
+  "retidos_contextuais": 32,
+  "retidos_incluidos_payload": 0,
+  "canonicos_presentes_HEAD": 0,
+  "canonicos_ausentes_HEAD": 14691,
+  "HEAD_estavel_na_consulta_final": true,
+  "HEAD_avancou_durante_hashes": false,
+  "lista": {
+    "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/lista-publicacao-14691.jsonl",
+    "sha256": "1006e96d6149c92a106f21402149dbb1cc05967e12dfa742d4cf062e7ce8b834",
+    "bytes": 17825911
+  },
+  "paths": {
+    "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/lista-publicacao-14691-paths.txt",
+    "sha256": "151181b98c56afeabb3c3e94d01df98b97b3e635d901da5122c38e1af51d68dd",
+    "bytes": 5461206
+  },
+  "arquivos_unicos": 58924,
+  "bytes_total": 560478395,
+  "contagem_papeis_unicos": {
+    "canonical_md": 14691,
+    "snapshot_md": 14691,
+    "source_gzip_snapshot": 14691,
+    "source_xml_gzip_snapshot": 14691,
+    "source_csv_snapshot": 80,
+    "proof": 69,
+    "reproduction_proof": 12
+  },
+  "falhas": [],
+  "esquema_lista": {
+    "path": "caminho existente relativo ao repositorio; sem copia nova",
+    "sha256": "SHA256 dos bytes fisicos, inclusive gzip comprimido",
+    "bytes": "tamanho fisico",
+    "roles": "canonical_md/snapshot_md/source_gzip_snapshot/source_xml_gzip_snapshot/source_csv_snapshot/proof/reproduction_proof",
+    "canonical_paths": "normas da coorte relacionadas; vazio em prova global"
+  },
+  "limites": [
+    "Lista e fechamento sao proposta, nao aprovacao juridica/editorial nem aplicacao.",
+    "Provas historicas globais contêm identificadores e snapshots referidos de retidos; nenhum MD canonico/fonte/snapshot dos32 foi acrescentado como payload por essa referencia historica.",
+    "Mantidas fontes gzip/XML e snapshots existentes; nao duplicados os caches ativos identicos.",
+    "Tamanho total refere arquivos unicos listados; lista/manifesto de fechamento sao controle adicional, fora do proprio total para evitar autorreferencia.",
+    "AusenciaHEAD e verificada contra commit exato; raiz deve fixar ou reconferir HEAD antes de aplicar."
+  ]
+}

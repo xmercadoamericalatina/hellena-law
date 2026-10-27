@@ -1,0 +1,249 @@
+{
+  "estado": "proposta contextual offline encerrada; sem aplicacao/Git/HTTP; revisao raiz antes de publicacao",
+  "universo": 16811,
+  "coorte_anterior": 14723,
+  "retidos_anteriores": 2088,
+  "novas_retencoes_contextuais": 32,
+  "coorte_derivada": 14691,
+  "retidos_total": 2120,
+  "candidatos_modificados": 0,
+  "manifesto_anterior": {
+    "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/manifesto-coorte-proposta.json",
+    "sha256": "089373979c0ce0c3c072592c34ce7ec560698033e9f24689bb179320999651c3"
+  },
+  "coorte_anterior_ref": {
+    "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/coorte-preparada.jsonl",
+    "sha256": "20cd4422f96f34ceb678e4504ad6cd13f1727252afcc357823d9f13107152211"
+  },
+  "coorte_derivada_ref": {
+    "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/coorte-contextual-final-14691.jsonl",
+    "sha256": "346ef83bd11f252967dcbda266824a4f1c2231619d469a8f6bed32c8d10dc8bf"
+  },
+  "paths_ref": {
+    "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/coorte-contextual-final-14691-paths.txt",
+    "sha256": "83d7182995a99aaa067fe40f2b1003d4dcc930c4b6afcd7c793e49b127edb503"
+  },
+  "retencoes_contextuais_ref": {
+    "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/retencoes-contextuais-finais-32.json",
+    "sha256": "cddbce189d3c5c3f705b8710b9c653c8ed755c8ebe947a6493da62a12d9f1a59"
+  },
+  "cobertura_sequencial": {
+    "caminhos": 216,
+    "eventos": 2582,
+    "faltantes": 0,
+    "indices_offsets_literal_sha_comparados_com_fila": true,
+    "lotes": [
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote01.json",
+        "sha256": "76ca69f40ac28a4373caa2438988efa8e07afae47421b33b7614e206500e0bcf"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote02.json",
+        "sha256": "35eb82ca791b05176ee9a9bb3c0bee6c50877b567e6258826a33eb1c6a8f1e86"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote03.json",
+        "sha256": "17c69e96bb3b2d5d9d02836a3b2790ea82df1821822e4c8f1c8f709e3a3e70eb"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote04.json",
+        "sha256": "076cec0f6304088520b55a58d4ce509d68cc1d5f409e23a7a41a23c735eb613b"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote05.json",
+        "sha256": "f2665ee812dcef0183db0ab651ccf08157193d5739a711aca13f10bb5bbd1a5e"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote06.json",
+        "sha256": "2a05e8b0a5ac6ea695333c73be02bb8f2069c8d889c56d3192960ea909d95914"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote07.json",
+        "sha256": "97283e17807d1a42c3de7919e8c9c3b4dee94ad5757e81aea8dd95711ba15b2c"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote08.json",
+        "sha256": "a5d9cda321fcb18476486f6fc8085a82b61d52f2625f02b690dea4e677fa17f2"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote09.json",
+        "sha256": "ff6aa9d0ebadebcf4031178d8ee7134242aae19afcf93ad43bc80d4748be1765"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote10.json",
+        "sha256": "2c073f174e886442dfcb449c35a95881438ac38556b9a7506bf4d73dd3c650c7"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote11.json",
+        "sha256": "06302859e6c81000a97c865196f9d7383c3224defb9f999c0972c1340610b474"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote12.json",
+        "sha256": "68dc7129a3184a0e9bfa09eb05a51b2138c3ed69424916cd15bc3a858e42d465"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote13.json",
+        "sha256": "f336afce45542f3b3c3ae39f881609bbf1e41b68721016c2b6861cb0b5b8ccd4"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote14.json",
+        "sha256": "ba4734b3c257c364df216060fbf24b4d408117158f322851a555d8f335c88511"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote15.json",
+        "sha256": "9b0e181f1d39ebdaa08a282effd1022570c53f61acca5c3e416a24cc3b098d15"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote16.json",
+        "sha256": "b71abc47eb7e793a2b50302d7196042302d2e6fccc755f25989a745097dc831b"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote17.json",
+        "sha256": "b952896391c229cb9ffb56378a06e6da4b5d69e8c82985b4e0194de29e511e0c"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote18.json",
+        "sha256": "1769eec466a786f1fbceb1cf12805f9014c595ae4f7b3b7a376f2f10a3c56fa4"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote19.json",
+        "sha256": "1304f798d73732994ed04c32b69cdfaf20b9c4d78da3256ee406cc77f72cd73f"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote20.json",
+        "sha256": "3d41795ab013cb9f7d32d68f417c691faec5e96c2429985573801061cef4353c"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote21.json",
+        "sha256": "9b2714b2df74138733b81a17a46da7d78a3a85d03ac6f7fb172dbaff9564efb0"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote22.json",
+        "sha256": "3536d46a31ff56b1de4b6ab63db301672b3585b8a945e3bfec9644df83cee430"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote23.json",
+        "sha256": "3a6da0d3a62fb59ef2bbb493934f142e51b9b5fe092c931c4b41d71b8a010b81"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote24.json",
+        "sha256": "fe25f65aa56014e320c16bd3fc804475509e52c56a826737f97deb610d306eb4"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote25.json",
+        "sha256": "990fa3a8695f7f3901dc6c8fd37b1a4179960a6b6fe08d02cc24cf52435355fc"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote26.json",
+        "sha256": "4f3ae7a7e7d33550040493e51dc4aa2c1df63bc4317b4e97646e79907b6dc097"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote27.json",
+        "sha256": "05776f12ace7b432bc21998179affbcc327267bcad1d4123d97eb7126688e763"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote28.json",
+        "sha256": "424c0bf38554a463d1b64e893b8aac7f1bb4e9a2b08a18d4bba8cb2bbfa3e69e"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote29.json",
+        "sha256": "c8cb91d3420a8b71466f3b20ac00a835e0032b0322a62fa4f3d78590b295bde3"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote30.json",
+        "sha256": "3020b6d89eb589b7cffad47177af4ff34de18436a584f0af589049618f633148"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote31.json",
+        "sha256": "88719663119f9908a2635b30f6d3bee8c32a64af4f0fcd2786f7b0a606c8ff5a"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote32.json",
+        "sha256": "ff4835967ead6ca7831d853c3780b975dea6486db323bc69a4809d19480d3300"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote33.json",
+        "sha256": "db4476449a88080af6acec8a558dfeaf9b8626e673b24e98aa5b5e5d60ea2d24"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote34.json",
+        "sha256": "8dfc73d9042fc815ed6e0ebf91b9d1e75d7075ed7f61ac7506c246b880ef624d"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote35.json",
+        "sha256": "a37945bdac426e5b7950a4db8d34e779f7ec44e212f171e8a5b3bf787e7c536d"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote36.json",
+        "sha256": "dca711bfc62371a8c3aac29fc502b35fe14dad847941a4ad80db4b533bb0d476"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote37.json",
+        "sha256": "d5f07f3e670f25836b42c29eb8515f42169297a857f916f012cbc8cd20d7e656"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote38.json",
+        "sha256": "3c88c04754411e3c7f7acd7e17e5add4b21aba4a60501c8a7c78f1bc48e70e0f"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote39.json",
+        "sha256": "39cd127536d52f21ea62de091964511076fa0578710b8d12ed0eabeee6f91650"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote40.json",
+        "sha256": "d48fa61eb9d93edd66748044f8501450c317d0d85ead856bfc6f1af6d9c65903"
+      },
+      {
+        "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote41.json",
+        "sha256": "2b8757d416ffbd567c02211da3c65d04e5372635290cd11c6a09ccee43ba3e66"
+      }
+    ]
+  },
+  "provas": [
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/triagem-omissoes-raiz.json",
+      "sha256": "669be6bf3e380c60b1426b2ed792c00cdbc0f6b81517e6be60e786e5c6481b18"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/triagem-adicional-raiz.json",
+      "sha256": "3a5e9a4f47dc4d9e053ad17001fb13e54a0fb2682bbdb6a26641b580c5189270"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-unificada-contexto-v5.jsonl",
+      "sha256": "74caa295400f5cf5a217997fda5175c9185ca6163c3b328d39d988826a8cc9a2"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-individual-primeiros-eventos-v5.jsonl",
+      "sha256": "77e6869e6e4ee8ecdaf0e67a64af766745cfe2cd1cb4010162710bd876d24a08"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-manual-lexicais-e-adicional39.jsonl",
+      "sha256": "366d2c86da3bcc274a8a133fec72734210a09d6e5560d9a5dfbc4cbecd13b98b"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/fila-contextual-reticencias-v5.jsonl",
+      "sha256": "3b6535a594a106f093fc471d37bc7763efa87923d0836706990c5e2f0b77500f"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/overlay-criterio-literal-20261016.json",
+      "sha256": "3a7a97a4dc13e9a85c115c2b0088bbf16214ef1d5f0bcd485a9cd7fed355a8dd"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/prova-isolamento-zero-dec43161.json",
+      "sha256": "a372f23a268128cd40f73716bfcd6767a397813b485961c36d03e2e5dfea1dca"
+    }
+  ],
+  "criterio": "Reter lacuna/corrupcao/ambiguidade estrutural de conteudo proprio com fundamento positivo; preservar inconsistencias autorais literais sem harmonizar. Reticencias de alteracao parcial, campos de formulario e remissoes instrumentais externas exigem contexto, nao rejeicao automatica.",
+  "limites": [
+    "Derivacao conserva integralmente snapshots, fontes e provas por admitido do manifesto14723; nao transforma ausencia de alerta em certificacao juridica/editorial.",
+    "Cobertura manual explicitada por caso: alguns corpos integrais, outros identidade/comando/todos eventos residuais/contextos/fecho; nao declarar todos894 corpos lidos integralmente.",
+    "Zonas mecanicas de alteracao sao auxiliares e nao prova autonoma de integridade. Novas lacunas dentro de alteracoes foram retidas.",
+    "Quadros daAPI sao texto linear sem arvoreHTML; nao certificamos geometria editorial original nem reconstruimos celulas ausentes.",
+    "2088 pendencias anteriores continuam fora, incluindo DEC35694 com PARTE SUPRIMIDA; nao foram somadas novamente aos32.",
+    "Fontes/MDs normais e scripts congelados permaneceram intactos; este conjunto contem apenas propostas/provas de auditoria."
+  ],
+  "scripts_core_congelados": {
+    "core": "bb85371750359042e0636ae0adc206cb0c353c6b6586c8d46e60a5257633ed3c",
+    "baseline95": "95aadd3b5daa2422b01ae194cdf9a1a87998165fb12e6a789fd1db558c69789e"
+  }
+}

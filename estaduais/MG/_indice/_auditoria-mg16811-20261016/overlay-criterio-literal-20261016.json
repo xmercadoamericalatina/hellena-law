@@ -1,0 +1,133 @@
+{
+  "criterio": "Separar omissao/corrupcao/estrutura de contradicao autoral integralmente transcrita; nunca harmonizar corpo. Overlay prevalece sobre rotulos anteriores, cujos dossies continuam intactos.",
+  "provas_anteriores": [
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/retencoes-contextuais-manuais-23.json",
+      "sha256": "0ff4a37bf9f46c831f989dee8a484075d9e65fe7c2632e5c6a72e7287086fee2"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote01.json",
+      "sha256": "76ca69f40ac28a4373caa2438988efa8e07afae47421b33b7614e206500e0bcf"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote02.json",
+      "sha256": "35eb82ca791b05176ee9a9bb3c0bee6c50877b567e6258826a33eb1c6a8f1e86"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote03.json",
+      "sha256": "17c69e96bb3b2d5d9d02836a3b2790ea82df1821822e4c8f1c8f709e3a3e70eb"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote04.json",
+      "sha256": "076cec0f6304088520b55a58d4ce509d68cc1d5f409e23a7a41a23c735eb613b"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote05.json",
+      "sha256": "f2665ee812dcef0183db0ab651ccf08157193d5739a711aca13f10bb5bbd1a5e"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote06.json",
+      "sha256": "2a05e8b0a5ac6ea695333c73be02bb8f2069c8d889c56d3192960ea909d95914"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote07.json",
+      "sha256": "97283e17807d1a42c3de7919e8c9c3b4dee94ad5757e81aea8dd95711ba15b2c"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote08.json",
+      "sha256": "a5d9cda321fcb18476486f6fc8085a82b61d52f2625f02b690dea4e677fa17f2"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote09.json",
+      "sha256": "ff6aa9d0ebadebcf4031178d8ee7134242aae19afcf93ad43bc80d4748be1765"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote10.json",
+      "sha256": "2c073f174e886442dfcb449c35a95881438ac38556b9a7506bf4d73dd3c650c7"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote11.json",
+      "sha256": "06302859e6c81000a97c865196f9d7383c3224defb9f999c0972c1340610b474"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote12.json",
+      "sha256": "68dc7129a3184a0e9bfa09eb05a51b2138c3ed69424916cd15bc3a858e42d465"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-sequencial-216-lote13.json",
+      "sha256": "f336afce45542f3b3c3ae39f881609bbf1e41b68721016c2b6861cb0b5b8ccd4"
+    }
+  ],
+  "decisoes": [
+    {
+      "path": "estaduais/MG/decretos-nao-numerados/2006/dsn-2761-2006.md",
+      "md_sha256": "e4462ee5490a523817c5a956801e36e3ef6b586c71459798b06966746c0b11a8",
+      "fonte_sha256": "291e457752acfbeba7f768bc9957fba11cc5730fd18f9d29ce4f81a86c9ee475",
+      "cache": "estaduais/MG/_fonte/decretos-nao-numerados/2006/dsn-2761-2006.html.gz",
+      "decisao_anterior": "reter_suspeita_literal",
+      "decisao_overlay": "observacao_pontuacao_literal_sem_retencao",
+      "fundamento": "O trecho S2A32 tem azimute95graus57min50seg, distancia189,86m e coordenadasN7811579,555/E609643,947 presentes. de...coordenadas e pontuacao excedente entre preposicao/rotulo completos; nao substitui nome/valor identificavel. Preservar literal sem inferir lacuna.",
+      "md_alterado": false,
+      "fontes_preservadas": true
+    },
+    {
+      "path": "estaduais/MG/decretos/2003/dec-43549-2003.md",
+      "md_sha256": "6bf86060e5bfd88141a4947fcade2552dfd8ff64157c3831a6766628895e6ff7",
+      "fonte_sha256": "4c9bd87830732c99e19543a7e7b2fd6b7d72715128aae1cdfb878c9bcbbe2cce",
+      "cache": "estaduais/MG/_fonte/decretos/2003/dec-43549-2003.html.gz",
+      "decisao_anterior": "reter_divergencia_identidade_nota",
+      "decisao_overlay": "observacao_inconsistencia_literal_sem_retencao",
+      "fundamento": "Nota43.459 contradiz titulo/Art1/anexo43.549, mas nenhum corpo/dotacao foi omitido. O omitido e de publicacao anterior; norma atual temartigos,fecho,tabelavalores. Nao reter somente para corrigir referencia autoral.",
+      "md_alterado": false,
+      "fontes_preservadas": true
+    },
+    {
+      "path": "estaduais/MG/decretos/2001/dec-41863-2001.md",
+      "md_sha256": "7a76aabd2c7e2f322447524146876cc1a66a82bc39725e52728726254e53ef6c",
+      "fonte_sha256": "7868c31d4a7c1cd4e43e72ac7cd26aaf1a0bf9791919eda0ee8788ae45420ecc",
+      "cache": "estaduais/MG/_fonte/decretos/2001/dec-41863-2001.html.gz",
+      "decisao_anterior": "reter_referencia_propria_incompleta",
+      "decisao_overlay": "observacao_referencia_literal_sem_retencao",
+      "fundamento": "Preambulo deixa numero de artigo constitucional em branco; e lapso literal de referencia, comnumero/data/objeto e inciso novo doDecreto propriamente transcritos. Nao completar90 nem reter apenas para corrigir referencia constitucional.",
+      "md_alterado": false,
+      "fontes_preservadas": true
+    },
+    {
+      "path": "estaduais/MG/decretos/2005/dec-43954-2005.md",
+      "md_sha256": "6484169118be921cdb57557821ba9c5a3393985f8b42bac8b93d47e16edfc547",
+      "fonte_sha256": "549a5246158f65c042ca3689cbca6561505a9f1945d50eaf03c1636be98cd6ef",
+      "cache": "estaduais/MG/_fonte/decretos/2005/dec-43954-2005.html.gz",
+      "decisao_anterior": "reter_identidade_norma_alterada_divergente",
+      "decisao_overlay": "observacao_inconsistencia_literal_sem_retencao",
+      "fundamento": "Comando Art2 menciona43688 contra43668 no titulo/Art1; fonte contem integralmente artigos93A/94A/95A deHemominas. Preservar contradicao literal sem harmonizar e sem reter apenas pela incorrecao autoral. Cache43688 auxilia a observacao, nao autoriza alterar o alvo.",
+      "md_alterado": false,
+      "fontes_preservadas": true
+    },
+    {
+      "path": "estaduais/MG/decretos/2003/dec-43161-2003.md",
+      "md_sha256": "8a6503552543f0833f2365fe96a8ef7855e73f9f4e14c5544b35b6030caa87b5",
+      "fonte_sha256": "4555806ea1eb9ddcf44ed42630f4fe89686d217d9bc2db4709b0b931baaa7ecc",
+      "cache": "estaduais/MG/_fonte/decretos/2003/dec-43161-2003.html.gz",
+      "decisao_anterior": "reter_suspeita_quadro_proprio",
+      "decisao_overlay": "observacao_inconsistencia_literal_sem_retencao",
+      "fundamento": "Tres pontos apenas separam quatroquadros de meses/total; meses iguais, rotulos/identificadores iguais ao total. Isolamento diagnostico do unico0extra(total/linha1941), semeditarMD, deixa101numerais alinhados todos iguais comoidentificadores outriplo comovalores. Nao ha dado ausente demonstrado; preservar0literal comoinconsistencia. Prova-isolamento-zero-dec43161.json.",
+      "md_alterado": false,
+      "fontes_preservadas": true
+    },
+    {
+      "path": "estaduais/MG/decretos/2004/dec-43864-2004.md",
+      "md_sha256": "49a6112f021d39e557a274ed19e5d641a9509630f7d71cac29ba05b5e9a21af3",
+      "fonte_sha256": "546071307576db42f8dfdc9c5af5f1812808d376050d403ee1a74926f160c5c7",
+      "cache": "estaduais/MG/_fonte/decretos/2004/dec-43864-2004.html.gz",
+      "decisao_anterior": "reter_prazo_contraditorio_e_celula_ausente",
+      "decisao_overlay": "reter_celula_normativa_ausente",
+      "fundamento": "Prazo dia2(tres) passa a observacao de contradicao literal, sem correcao. Retencao permanece SOMENTE porque itemnovo1.27 naParte5AnexoI temdescricao quimica mas nenhuma classificacaoNBM, enquanto outrositensnovos da mesma tabela possuemcodigo. Essa celula ausente exige original integral.",
+      "md_alterado": false,
+      "fontes_preservadas": true
+    }
+  ],
+  "prova43161": {
+    "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/prova-isolamento-zero-dec43161.json",
+    "sha256": "a372f23a268128cd40f73716bfcd6767a397813b485961c36d03e2e5dfea1dca"
+  }
+}

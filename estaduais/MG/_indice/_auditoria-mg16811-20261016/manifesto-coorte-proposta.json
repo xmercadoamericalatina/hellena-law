@@ -1,0 +1,126 @@
+{
+  "estado": "proposta offline sem aplicação/Git/HTTP; revisão raiz pendente",
+  "total_alvo": 16811,
+  "coorte_sem_alertas": 14723,
+  "retidos_pendentes": 2088,
+  "candidatos_modificados": 0,
+  "coorte_path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/coorte-preparada.jsonl",
+  "coorte_sha256": "20cd4422f96f34ceb678e4504ad6cd13f1727252afcc357823d9f13107152211",
+  "gates_path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/gates-finais-consolidados.jsonl",
+  "gates_sha256": "e75417248fff9d269c96f49674e3d151a00a2ce1fadca61406be7bf06ef18398",
+  "retidos_path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/retidos-prova-contextual.jsonl",
+  "retidos_sha256": "afe7e853d6b181918372205a40e476b837917d4f5cbb17b614942dc3590784fb",
+  "retencoes": {
+    "conteudo_proprio_omitido_ou_externo_explicito_exige_contexto": 417,
+    "data_csv_diverge_de_fecho_proprio_exige_contexto": 172,
+    "fecho_data_literal_nao_reconhecido_exige_contexto": 697,
+    "divergencia_caracteres_ou_tachado_GFM": 884,
+    "dispositivo_nao_reconhecido_exige_contexto": 2,
+    "reter_template_sem_texto_proprio": 1,
+    "template_sem_dispositivo_data_assinaturas": 1,
+    "reter_anexo_proprio_imagem_nao_extraida": 3,
+    "reter_fonte_textual_corrompida": 1,
+    "reter_layouts_proprios_externos": 1
+  },
+  "fontes_sem_tabelas_imagens_tachado": 16811,
+  "oracle_texto_puro_literal": 2292,
+  "oracle_HTML_independente": 14519,
+  "sem_artigo_original": 3565,
+  "contexto3565": {
+    "total": 3565,
+    "classificacoes": {
+      "artigos_proprios_inline_apos_comando": 2386,
+      "ato_nao_articulado_com_dispositivo_apos_comando": 1164,
+      "incerto_sem_comando_reconhecido_revisao_individual": 15
+    },
+    "sha256": "f547c2d0694599ccf60187bd818aa811622cf787518bc025564416846aaa8713"
+  },
+  "remissoes8": {
+    "retencoes_reais": 4,
+    "falsos_positivos": 4
+  },
+  "scripts": {
+    "core": "bb85371750359042e0636ae0adc206cb0c353c6b6586c8d46e60a5257633ed3c",
+    "baseline95": "95aadd3b5daa2422b01ae194cdf9a1a87998165fb12e6a789fd1db558c69789e"
+  },
+  "limites": [
+    "Esta coorte confere captura textual/identidade/datas daAPI e conservação de caracteres/tachado emGFM; não certifica diagramação original ou anexos externos.",
+    "A API pode fornecer quadros linearizados sem<table>; não inventamos células/associações ausentes dafonte textual.0tabelasHTML não significa inexistência dequadros na publicação original.",
+    "417gates deomissão/materialexterno incluem declarações anexo não digitado;884diferençasGFM incluem separadores/heading eprecisam contextopróprio, não são todas perdas normativas.",
+    "172datas/697fechos são gates heurísticos conservadores, não correções automáticas.",
+    "Meta16811preservada; pendências seguem como objetivo, não exclusão definitiva."
+  ],
+  "amostra": {
+    "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/amostra-diversificada.json",
+    "sha256": "3b466da8b8a5a786c367ea462a998a281af26ad056c6022825be7cc3b713d7d4",
+    "total": 43
+  },
+  "provas": [
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/perfil-resumo.json",
+      "sha256": "0efa0e631aaef6b03c10a9f22682d32ec6482b433185fbc270b56b9cb5f657db"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-fechos-proprios-coorte.jsonl",
+      "sha256": "c1972fac0e681f18c19fd6c89649295d4294f303b801fdaeb92c8250fefbe804"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-contextual-3565-sem-artigo-v2.jsonl",
+      "sha256": "f547c2d0694599ccf60187bd818aa811622cf787518bc025564416846aaa8713"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-individual-15-sem-comando.json",
+      "sha256": "c4596673fb7fd6b9f2bb276b59226b011feefa23984c56133562f8bab2d8f6ca"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-independente-8-remissoes.json",
+      "sha256": "4748689210b15c44f44306c07e2b5e8d6bac2efe8c395195263ea024de2817b0"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/oracle-literal-prefixo421-overlay.jsonl",
+      "sha256": "cde0040d0a104268dc9056757e221e98e98cd91b375aed9711a74e1188c7f251"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/conversor-95aadd.py",
+      "sha256": "95aadd3b5daa2422b01ae194cdf9a1a87998165fb12e6a789fd1db558c69789e"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/conversor-bb853717.py",
+      "sha256": "bb85371750359042e0636ae0adc206cb0c353c6b6586c8d46e60a5257633ed3c"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/mg-coletor-capturado.py",
+      "sha256": "9b48557ce6da291c3c662967760642694a6dbb39cf782e77a4c1a098efdae91e"
+    },
+    {
+      "path": "estaduais/MG/_indice/_auditoria-mg16811-20261016/revisao-fontes-versoes-coorte.jsonl",
+      "sha256": "880b54bd881239e415d7ef2c516ac7654528a650f7207a05e203c840f31c88f8"
+    }
+  ],
+  "validacao_por_admitido": [
+    "MD_SHA atual=SHA snapshotv2; baseline95 ecorebb reproduzem corpo exato.",
+    "CSV próprio número/data iguais aoheader; XML siglaTipoNorma/número/ano próprios econteudo byteigual àfontehtml/texto.",
+    "Fonte porcaractere+tachado comparada aoGFM, oracle2292rawliteral e14519HTMLindependente.",
+    "Fecho próprio restringido àúltimainstituição antesdadata, semLei/Decreto/artigo citados;14723corroboram CSV.",
+    "417alertas deomissão/materialexterno,884diferençasGFM,172datas/697fechos ecasosconcretos mantidos retidos quando aplicáveis.",
+    "Snapshots MD/fontegzip/XML de14723 gravados/verificados porSHA; candidato=próprio snapshot MD,0mudanças/0aplicações.",
+    "URL própria enormalização conteudo=true& eversionoriginal/atualizada conferem comCSV oficial nos14723."
+  ],
+  "snapshot_contagem": {
+    "MD": 14723,
+    "fontes": 14723,
+    "XML": 14723,
+    "CSV": 80
+  },
+  "formatos": {
+    "HTML_fragmento_UTF8": 14519,
+    "texto_puro_UTF8": 2292
+  },
+  "pendencias_concretas": [
+    "Anexos não digitados por impossibilidade técnica emcentenas deDSN; não há corpo para restaurar neste cache.",
+    "37865/RAL5156/DLB2401 declaram imagens de anexos próprios emPDFexterno;44183 remete layouts próprios aositePC. Semextração/inspeção, retidos.",
+    "DSN2850/2006 template semdispositivo/data/assinaturas;DEC40876/2000perdasistemáticadetra t jánafonte.",
+    "884diferenças deGFM incluem separadores→hr eheadingcomtravessão; retenção conservadora até delimitar efeitos normativos.",
+    "172datas e697fechos são suspeitas heurísticas exigindo contextopróprio, semcorreção/inferência automática."
+  ]
+}
