@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/transferir-acervo.yml'
+      - 'scripts/transferir_acervo.py'
 permissions:
   contents: write
 concurrency:
