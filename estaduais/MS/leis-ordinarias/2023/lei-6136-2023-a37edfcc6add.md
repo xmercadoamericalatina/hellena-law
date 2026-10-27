@@ -1,0 +1,45 @@
+---
+titulo: "LEI nº 6.136, de 13 de Novembro de 2023"
+uf: "MS"
+tipo: "Lei Ordinária"
+numero: "6.136"
+data: 2023-11-13
+ementa: "Inclui a abordagem de noções de robótica, como conteúdo transversal, no currículo das escolas estaduais do Estado de Mato Grosso do Sul."
+versao_texto: "texto da base de legislação da Governadoria (pode conter alterações incorporadas)"
+fonte: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/0/A37EDFCC6ADD9C5F04258A6700472510?OpenDocument"
+baixado_em: 2026-10-13
+---
+# LEI nº 6.136, de 13 de Novembro de 2023
+
+***(\*) ESTE TEXTO NÃO SUBSTITUI O ORIGINAL PUBLICADO NO DIÁRIO OFICIAL DO ESTADO.***
+
+**ESTADO DE MATO GROSSO DO SUL**
+
+**LEI Nº 6.136, DE 13 DE NOVEMBRO DE 2023.**
+
+*Inclui a abordagem de noções de robótica, como conteúdo transversal, no currículo das escolas estaduais do Estado de Mato Grosso do Sul.*
+
+Notas:  
+**Publicada no Diário Oficial nº 11.318, de 14 de novembro de 2023, página 2.**
+
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.  
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** Fica incluída a abordagem de noções de robótica, como conteúdo transversal, nas escolas estaduais do Estado de Mato Grosso do Sul.
+
+**Parágrafo único.** A abordagem do tema a que se refere o caput deste artigo tem como objetivos:
+
+I - promover a interdisciplinariedade e a integração dos conceitos de noções de robótica, com outras matérias; e
+
+II - incentivar a utilização de sucata e aproveitamento de material reciclado, para a aplicação da robótica no cotidiano dos alunos.
+
+**Art. 2º** O conteúdo deverá ser formulado metodologicamente, considerando as especificidades dos educandos e de sua faixa etária.
+
+**Art. 3º** Para a implantação e execução da presente Lei, poderão ser firmadas parcerias, convênios e afins, entre instituições de ensino públicas e/ou privadas, bem como com outras organizações não governamentais.
+
+**Art. 4º** Esta Lei entra em vigor na data de sua publicação.  
+  
+Campo Grande, 13 de novembro de 2023.
+
+EDUARDO CORREA RIEDEL  
+Governador do Estado

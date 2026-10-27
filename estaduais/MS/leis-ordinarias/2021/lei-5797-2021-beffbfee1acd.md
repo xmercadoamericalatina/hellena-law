@@ -1,0 +1,120 @@
+---
+titulo: "LEI nº 5.797, de 16 de Dezembro de 2021"
+uf: "MS"
+tipo: "Lei Ordinária"
+numero: "5.797"
+data: 2021-12-16
+ementa: "Dá nova redação ao Anexo da Lei nº 4.282, de 14 de dezembro de 2012, que estabelece os valores das taxas da Tabela de Serviços do Departamento Estadual de Trânsito de Mato Grosso do Sul (DETRAN-MS)."
+versao_texto: "texto da base de legislação da Governadoria (pode conter alterações incorporadas)"
+fonte: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/0/BEFFBFEE1ACD0276042587B200603F2F?OpenDocument"
+baixado_em: 2026-10-13
+---
+# LEI nº 5.797, de 16 de Dezembro de 2021
+
+***(\*) ESTE TEXTO NÃO SUBSTITUI O ORIGINAL PUBLICADO NO DIÁRIO OFICIAL DO ESTADO.***
+
+**ESTADO DE MATO GROSSO DO SUL**
+
+**LEI Nº 5.797, DE 16 DE DEZEMBRO DE 2021.**
+
+*Dá nova redação ao Anexo da Lei nº 4.282, de 14 de dezembro de 2012, que estabelece os valores das taxas da Tabela de Serviços do Departamento Estadual de Trânsito de Mato Grosso do Sul (DETRAN-MS).*
+
+Notas:  
+**Publicada no Diário Oficial nº 10.710, de 17 de dezembro de 2021, páginas 33 e 34.**
+
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.  
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** O Anexo da Lei n 4.282, de 14 de dezembro de 2012, passa a vigorar com a redação constante do Anexo desta Lei.
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.  
+  
+Campo Grande, 16 de dezembro de 2021.
+
+REINALDO AZAMBUJA SILVA  
+Governador do Estado
+
+ANEXO DA LEI N 5.797, DE 16 DE DEZEMBRO DE 2021.
+
+Anexo da Lei n 4.282, de 14 de dezembro de 2012.  
+  
+DETRAN-MS TABELA DE SERVIÇOS
+
+| CÓDIGOS | DESCRIÇÃO | UFERMS |
+| --- | --- | --- |
+| 1001 | GEREN. PROCESSO - EXAME/REEXAME PSICOLÓGICO (CAPITAL) | 0,72 |
+| 1002 | GEREN. PROCESSO - EXAME ESPECIAL POR JUNTA PSICOLÓGICA | 0,72 |
+| 1004 | GEREN. PROCESSO - EXAME ESPECIAL POR JUNTA MÉDICA | 0,72 |
+| 1005 | EXAME PARA FINS PEDAGÓGICOS | 3,66 |
+| 1006 | GEREN. PROCESSO - EXAME/REEXAME DE APTIDÃO FÍSICA E MENTAL (CAPITAL) | 0,88 |
+| 1007 | CRED. MÉDICO/PSICOL/ANUAL | 8,50 |
+| 1009 | VALIDAÇÃO DE CADASTRO DE PROCESSO | 1,96 |
+| 1010 | AUTORIZAÇÃO PARA ESTRANGEIRO | 1,70 |
+| 1011 | EMISSÃO DE PPD OU CNH | 1,87 |
+| 1012 | GEREN. PROCESSO - EXAME/REEXAME PSICOLÓGICO (INTERIOR) | 0,37 |
+| 1013 | GEREN. PROCESSO - EXAME/REEXAME DE APTIDÃO FÍSICA E MENTAL (INTERIOR) | 0,59 |
+| 2001 | EMISSÃO CRV- 1º EMPLACAMENTO | 7,00 |
+| 2002 | EMISSÃO CRV- ALTERAÇÃO CARACT. | 7,00 |
+| 2003 | EMISSÃO CRV - AQUISIÇÃO | 7,00 |
+| 2005 | REEMISSÃO DE CRV | 1,70 |
+| 2006 | LIC. VEÍCULO - NO PRAZO | 4,53 |
+| 2007 | LIC. VEÍCULO - EM ATRASO | 5,88 |
+| 2008 | INCLUSÃO DE GRAVAME | 5,00 |
+| 2010 | VISTORIA VEÍC. FINS DIVERSOS | 2,13 |
+| 2012 | LICENÇA PÁRA-BRISA (MS) | 1,00 |
+| 2015 | REM. VEÍC. (LEVE) ATÉ 30 KM | 2,55 |
+| 2016 | REM. VEÍC. (LEVE) FRAÇÃO DE KM | 0,06 |
+| 2017 | ESTADIA DE VEÍCULO | 0,60 |
+| 2018 | REGISTRO ANUAL OFICINAS | 3,40 |
+| 2019 | REGISTRO DE LIVROS | 0,85 |
+| 2020 | PLACA DE EXPERIÊNCIA | 3,40 |
+| 2022 | CRED. AGENTE FINANC. SNG | 42,50 |
+| 2023 | CANCELAMENTO REG. INICIAL | 5,10 |
+| 2024 | ESTADIA VEÍCULOS TIPOS 2 A 5 | 0,13 |
+| 2026 | VISTORIA | 4,25 |
+| 2027 | ESTADIA VEÍC. - REM. ACIDENTE | 0,13 |
+| 2028 | ESTADIA VEÍC. 2-5 - REM. ACID. | 0,04 |
+| 2029 | EMISSÃO CRV/INCL. GNV/REG. CONTRATO | 6,12 |
+| 2030 | EMI. CRV - INC/EXC GRAVA. PROPR. | 6,12 |
+| 2031 | EMISSÃO CRV MESMO PROPRIETÁRIO | 0,85 |
+| 2032 | ESTADIA DE SIDE-CAR | 0,09 |
+| 2033 | ESTADIA SIDE-CAR REMOCÃO ACIDENTE | 0,03 |
+| 2034 | EMI. CRV 1º EMP. ALT. CARACTERÍSTICA | 7,00 |
+| 3002 | PERMISSÃO COND. VEÍC. EXTERIOR | 5,00 |
+| 3003 | REL./CERT. PROP/BUSCA PROC. | 1,70 |
+| 3005 | AUTORIZAÇÃO ALT. CARAC. VEÍC. | 1,98 |
+| 3007 | BAIXA VEÍC. (SUCATA/FURTO/ROUBO) | 1,00 |
+| 3011 | CREDENCIAMENTO GUINCHO | 5,67 |
+| 3012 | CREDEN. REVENDA VEÍC/OFICINA | 4,25 |
+| 3013 | AUTORIZAÇÃO TRANSP. ESCOLAR | 2,13 |
+| 3014 | CREDENCIAMENTO ANUAL EMPRESAS | 4,25 |
+| 3015 | CREDENCIAMENTO C.F.C. | 18,42 |
+| 3016 | CADASTRAMENTO DESPACHANTE | 6,26 |
+| 3018 | CREDENCIAMENTO DIRETOR/INSTRUTOR | 2,55 |
+| 3019 | CREDENCIAL DIR./INSTR./EXAMINADOR | 1,02 |
+| 3020 | LIC. INSTRUTOR AUTÔNOMO | 0,51 |
+| 3021 | CURSO C. HORÁRIA ATÉ 19 H/A | 1,70 |
+| 3022 | COMPLEMENTAÇÃO GUIAS | 0,00 |
+| 3030 | CURSO ATUAL. RENOVA C.N.H | 1,70 |
+| 3031 | CURSO C. HORÁRIA +20 -45 H/A | 5,00 |
+| 3032 | CURSO C. HORÁRIA +45 -60 H/A | 10,00 |
+| 3033 | CURSO C. HORÁRIA +60 -100 H/A | 15,00 |
+| 3034 | CURSO C. HORÁRIA +100 H/A | 20,00 |
+| 3035 | CERTIFICADO CURSO - 2ª VIA | 0,85 |
+| 3036 | REG. CURSO ESPECIALIZAÇÃO | 1,13 |
+| 3037 | CRED. ENTIDADE ÁREA PSIC/MED. | 4,25 |
+| 3038 | VISTORIA CFC/ENT 200 KM | 13,35 |
+| 3039 | VISTORIA CFC/ENT +200 KM | 22,14 |
+| 3040 | CRED. ESP. CONCESS/REVENDA | 18,42 |
+| 3041 | ENVIO DOCUMENTO RESIDÊNCIA | 0,43 |
+| 3042 | RELACRAÇÃO DE PLACA | 1,28 |
+| 3044 | ESCOLHA NÚMERO PLACA | 8,50 |
+| 3045 | REM. VEÍC. (MÉDIO) ATÉ 30 KM | 5,10 |
+| 3046 | REM. VEÍC. (MÉDIO) FRAÇÃO DE KM | 0,12 |
+| 3047 | EXAME/REEXAME TEÓRICO-TÉCNICO | 1,70 |
+| 3050 | EXAME/REEXAME PRÁTICO | 2,55 |
+| 3053 | RELATÓRIO BAIXA COMPLEX. | 21,25 |
+| 3054 | RELATÓRIO MÉDIA COMPLEX. | 25,50 |
+| 3055 | RELATÓRIO ALTA COMPLEX. | 42,50 |
+| 3058 | REM. VEÍC. (PESADO) ATÉ 30 KM | 15,30 |
+| 3059 | REM. VEÍC. (PESADO) FRAÇÃO DE KM | 0,34 |

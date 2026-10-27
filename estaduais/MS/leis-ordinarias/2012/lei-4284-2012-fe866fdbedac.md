@@ -1,0 +1,41 @@
+---
+titulo: "LEI nº 4.284, de 14 de Dezembro de 2012"
+uf: "MS"
+tipo: "Lei Ordinária"
+numero: "4.284"
+data: 2012-12-14
+ementa: "Altera a redação de dispositivos da Lei nº 4.243, de 22 de agosto de 2012, que autoriza o Poder Executivo a contratar operação de crédito com o Banco Nacional de Desenvolvimento Econômico e Social (BNDES), no âmbito dos Programas BNDES Estados e PROINVESTE."
+versao_texto: "texto da base de legislação da Governadoria (pode conter alterações incorporadas)"
+fonte: "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/0/FE866FDBEDACB86384257AD70045AE63?OpenDocument"
+baixado_em: 2026-10-13
+---
+# LEI nº 4.284, de 14 de Dezembro de 2012
+
+***(\*) ESTE TEXTO NÃO SUBSTITUI O ORIGINAL PUBLICADO NO DIÁRIO OFICIAL DO ESTADO.***
+
+**ESTADO DE MATO GROSSO DO SUL**
+
+**LEI Nº 4.284, DE 14 DE DEZEMBRO DE 2012.**
+
+*Altera a redação de dispositivos da Lei nº 4.243, de 22 de agosto de 2012, que autoriza o Poder Executivo a contratar operação de crédito com o Banco Nacional de Desenvolvimento Econômico e Social (BNDES), no âmbito dos Programas BNDES Estados e PROINVESTE.*
+
+Notas:  
+**Publicada no Diário Oficial nº 8.335, de 17 de dezembro de 2012, página 3.**
+
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.  
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** A ementa e o parágrafo único do art. 1º da Lei nº 4.243, de 22 de agosto de 2012, passam a vigorar com a seguinte redação:  
+  
+*“Ementa: Autoriza o Poder Executivo a contratar operação de crédito com o Banco Nacional de Desenvolvimento Econômico e Social (BNDES), no âmbito dos Programas BNDES Estados, PROINVESTE e Setor Rodoviário, e dá outras providências”. (NR)*  
+  
+*“Art. 1º ......................................*  
+  
+*Parágrafo único. Os recursos da operação de crédito de que trata o caput serão aplicados no projeto Programa de Apoio ao Desenvolvimento Regional do Mato Grosso do Sul, no âmbito das Linhas de Financiamentos BNDES Estados, PROINVESTE e Setor Rodoviário, do BNDES.” (NR)*
+
+**Art. 2º** Esta Lei entra em vigor na data de sua publicação.  
+  
+Campo Grande, 14 de dezembro de 2012.
+
+ANDRÉ PUCCINELLI  
+Governador do Estado
