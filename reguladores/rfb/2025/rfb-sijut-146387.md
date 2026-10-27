@@ -1,0 +1,674 @@
+---
+titulo: "Ato Declaratório Executivo SRRF08 nº 61, de 14 de agosto de 2025"
+orgao: "Superintendência Regional da Receita Federal do Brasil 8ª Região Fiscal"
+tipo: "Ato Declaratório Executivo"
+numero: "61"
+data: "2025-08-14"
+revogada: true
+evidencia_revogacao: "[Revogado(a) pelo(a) Ato Declaratório Executivo SRRF08 nº 93, de 16 de outubro de 2025]"
+vigente_fonte: false
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 12/09/2025, seção 1, página 138"
+data_publicacao: "2025-09-12"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/146387/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/146387/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "146387"
+sha256_texto: "44255af0efe0d863d76285a91905b3f7242178b8ad212db6ab5f9719ba11e282"
+baixado_em: "2026-10-15"
+---
+# Ato Declaratório Executivo SRRF08 nº 61, de 14 de agosto de 2025
+
+Autoriza a Simplificação de Operações de Trânsito Aduaneiro para o Transportador que menciona
+
+O SUPERINTENDENTE SUBSTITUTO DA RECEITA FEDERAL DO BRASIL NA 8ª REGIÃO FISCAL, no uso das atribuições conferidas pelo Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME n° 284, de 27/07/2020, e com fundamento no art. 82 da Instrução Normativa SRF nº 248, de 25/11/2002, na Portaria COANA nº 5, de 24/02/2021, com as modificações introduzidas pelas Portarias COANA nº 17, de 03/06/2021, nº 28, de 30/07/2021, nº 56, de 08/12/2021, e nº 124, de 15/05/2023, e à vista do que consta do processo nº 13032.409130/2024-64, resolve:
+
+**Art. 1º.** O art. 1º do Ato Declaratório Executivo SRRF08 nº 107, de 13/12/2024, publicado no D.O.U. de 23/12/2024, fica acrescido da tabela de rotas abaixo elencadas:
+
+UL ORIGEM
+
+RA ORIGEM
+
+ORIGEM
+
+UL DESTINO
+
+RA DESTINO
+
+DESTINO
+
+ALF/GRU 0817600
+
+8.91.11.01
+
+Ou
+
+0000000
+
+(carga pátio)
+
+AEROPORTO INTERNACIONAL DE GUARULHOS
+
+ALF/SPO
+
+0817900
+
+8.94.11.01
+
+AEROPORTO DE SÃO JOSÉ DOS CAMPOS LTDA.
+
+ALF/SPO 0817900
+
+8.94.11.01
+
+Ou
+
+0000000
+
+(carga pátio)
+
+AEROPORTO DE SÃO JOSÉ DOS CAMPOS LTDA.
+
+ALF/VCP
+
+0817700
+
+8.92.11.01
+
+AEROPORTOS BRASIL - VIRACOPOS S/A
+
+ALF/GRU
+
+0817600
+
+8.91.11.01
+
+AEROPORTO INTERNACIONAL DE GUARULHOS
+
+ALF/SPO
+
+0817900
+
+8.94.32.13
+
+AURORA TERMINAIS E SERVIÇOS LTDA.
+
+ALF/SPO
+
+0817900
+
+8.94.32.04
+
+CLIA EMBRAGEN
+
+ALF/SPO
+
+0817900
+
+8.94.32.12
+
+EADI TAUBATÉ LTDA.
+
+ALF/STS 0817800
+
+8.93.13.56
+
+SANTOS BRASIL PARTICIPAÇÕES S/A
+
+ALF/SPO
+
+0817900
+
+8.94.32.13
+
+AURORA TERMINAIS E SERVIÇOS LTDA.
+
+ALF/SPO
+
+0817900
+
+8.94.32.04
+
+CLIA EMBRAGEN
+
+ALF/SPO
+
+0817900
+
+8.94.32.02
+
+CLIA CNAGA
+
+ALF/SPO
+
+0817900
+
+8.94.32.11
+
+Porto Seco MULTILOG BRASIL S/A(Barueri/SP)
+
+ALF/VCP
+
+0817700
+
+8.92.32.01
+
+CLIA MULTILOG BRASIL S/A(Campinas/SP)
+
+ALF/VCP
+
+0817700
+
+8.92.32.02
+
+CLIA LIBRAPORT CAMPINAS S/A
+
+ALF/STS 0817800
+
+8.93.13.39
+
+ECOPORTO SANTOS S/A(Pátio 2)
+
+ALF/SPO
+
+0817900
+
+8.94.32.13
+
+AURORA TERMINAIS E SERVIÇOS LTDA.
+
+ALF/SPO
+
+0817900
+
+8.94.32.04
+
+CLIA EMBRAGEN
+
+ALF/SPO
+
+0817900
+
+8.94.32.02
+
+CLIA CNAGA
+
+ALF/SPO
+
+0817900
+
+8.94.32.11
+
+Porto Seco MULTILOG BRASIL S/A(Barueri/SP)
+
+ALF/VCP
+
+0817700
+
+8.92.32.01
+
+CLIA MULTILOG BRASIL S/A(Campinas/SP)
+
+ALF/VCP
+
+0817700
+
+8.92.32.02
+
+CLIA LIBRAPORT CAMPINAS S/A
+
+ALF/STS 0817800
+
+8.93.32.04
+
+CLIA SANTOS BRASIL LOGÍSTICA S/A(Santos/SP)
+
+ALF/SPO
+
+0817900
+
+8.94.32.13
+
+AURORA TERMINAIS E SERVIÇOS LTDA.
+
+ALF/SPO
+
+0817900
+
+8.94.32.04
+
+CLIA EMBRAGEN
+
+ALF/SPO
+
+0817900
+
+8.94.32.02
+
+CLIA CNAGA
+
+ALF/SPO
+
+0817900
+
+8.94.32.11
+
+Porto Seco MULTILOG BRASIL S/A(Barueri/SP)
+
+ALF/VCP
+
+0817700
+
+8.92.32.01
+
+CLIA MULTILOG BRASIL S/A(Campinas/SP)
+
+ALF/VCP
+
+0817700
+
+8.92.32.02
+
+CLIA LIBRAPORT CAMPINAS S/A
+
+ALF/STS 0817800
+
+8.93.32.06
+
+CLIA BANDEIRANTES DEICMAR LOGÍSTICA INTEGRADA LTDA.
+
+ALF/SPO
+
+0817900
+
+8.94.32.13
+
+AURORA TERMINAIS E SERVIÇOS LTDA.
+
+ALF/SPO
+
+0817900
+
+8.94.32.04
+
+CLIA EMBRAGEN
+
+ALF/SPO
+
+0817900
+
+8.94.32.02
+
+CLIA CNAGA
+
+ALF/SPO
+
+0817900
+
+8.94.32.11
+
+Porto Seco MULTILOG BRASIL S/A(Barueri/SP)
+
+ALF/VCP
+
+0817700
+
+8.92.32.01
+
+CLIA MULTILOG BRASIL S/A(Campinas/SP)
+
+ALF/VCP
+
+0817700
+
+8.92.32.02
+
+CLIA LIBRAPORT CAMPINAS S/A
+
+ALF/STS 0817800
+
+8.93.32.03
+
+CLIA SANTOS BRASIL LOGÍSTICA S/A(Guarujá/SP)
+
+ALF/SPO
+
+0817900
+
+8.94.32.13
+
+AURORA TERMINAIS E SERVIÇOS LTDA.
+
+ALF/SPO
+
+0817900
+
+8.94.32.04
+
+CLIA EMBRAGEN
+
+ALF/SPO
+
+0817900
+
+8.94.32.02
+
+CLIA CNAGA
+
+ALF/SPO
+
+0817900
+
+8.94.32.11
+
+Porto Seco MULTILOG BRASIL S/A(Barueri/SP)
+
+ALF/VCP
+
+0817700
+
+8.92.32.01
+
+CLIA MULTILOG BRASIL S/A(Campinas/SP)
+
+ALF/VCP
+
+0817700
+
+8.92.32.02
+
+CLIA LIBRAPORT CAMPINAS S/A
+
+ALF/STS 0817800
+
+8.93.13.59
+
+BRASIL TERMINAL PORTUÁRIO S/A
+
+ALF/SPO
+
+0817900
+
+8.94.32.13
+
+AURORA TERMINAIS E SERVIÇOS LTDA.
+
+ALF/SPO
+
+0817900
+
+8.94.32.04
+
+CLIA EMBRAGEN
+
+ALF/SPO
+
+0817900
+
+8.94.32.02
+
+CLIA CNAGA
+
+ALF/SPO
+
+0817900
+
+8.94.32.11
+
+Porto Seco MULTILOG BRASIL S/A(Barueri/SP)
+
+ALF/VCP
+
+0817700
+
+8.92.32.01
+
+CLIA MULTILOG BRASIL S/A(Campinas/SP)
+
+ALF/VCP
+
+0817700
+
+8.92.32.02
+
+CLIA LIBRAPORT CAMPINAS S/A
+
+ALF/STS 0817800
+
+8.93.14.04
+
+EMBRAPORT
+
+ALF/SPO
+
+0817900
+
+8.94.32.13
+
+AURORA TERMINAIS E SERVIÇOS LTDA.
+
+ALF/SPO
+
+0817900
+
+8.94.32.04
+
+CLIA EMBRAGEN
+
+ALF/SPO
+
+0817900
+
+8.94.32.02
+
+CLIA CNAGA
+
+ALF/SPO
+
+0817900
+
+8.94.32.11
+
+Porto Seco MULTILOG BRASIL S/A(Barueri/SP)
+
+ALF/VCP
+
+0817700
+
+8.92.32.01
+
+CLIA MULTILOG BRASIL S/A(Campinas/SP)
+
+ALF/STS 0817800
+
+8.93.13.42
+
+MARIMEX DESPACHOS, TRANSPORTES E SERVIÇOS LTDA.
+
+ALF/VCP
+
+0817700
+
+8.92.32.01
+
+CLIA MULTILOG BRASIL S/A(Campinas/SP)
+
+ALF/STS 0817800
+
+8.93.13.64
+
+BANDEIRANTES DEICMAR LOGÍSTICA INTEGRADA LTDA.
+
+ALF/SPO
+
+0817900
+
+8.94.32.04
+
+CLIA EMBRAGEN
+
+ALF/STS 0817800
+
+8.93.13.09
+
+MOVECTA S/A
+
+ALF/VCP
+
+0817700
+
+8.92.32.01
+
+CLIA MULTILOG BRASIL S/A(Campinas/SP)
+
+ALF/STS 0817800
+
+8.93.32.02
+
+CLIA EUDMARCO S/A SERVIÇOS E COMÉRCIO INTERNACIONAL
+
+ALF/VCP
+
+0817700
+
+8.92.32.01
+
+CLIA MULTILOG BRASIL S/A(Campinas/SP)
+
+ALF/STS 0817800
+
+8.93.13.18
+
+ECOPORTO SANTOS S/A (Pátio 1)
+
+ALF/VCP
+
+0817700
+
+8.92.32.01
+
+CLIA MULTILOG BRASIL S/A(Campinas/SP)
+
+ALF/VCP
+
+0817700
+
+8.92.32.02
+
+CLIA LIBRAPORT CAMPINAS S/A
+
+ALF/STS 0817800
+
+8.93.13.05
+
+TRASNBRASA
+
+ALF/VCP
+
+0817700
+
+8.92.32.01
+
+CLIA MULTILOG BRASIL S/A(Campinas/SP)
+
+ALF/STS 0817800
+
+8.93.30.01
+
+CLIA MOVECTA S/A
+
+ALF/SPO
+
+0817900
+
+8.94.32.04
+
+CLIA EMBRAGEN
+
+ALF/SPO
+
+0817900
+
+8.94.32.02
+
+CLIA CNAGA
+
+ALF/VCP
+
+0817700
+
+8.92.32.01
+
+CLIA MULTILOG BRASIL S/A(Campinas/SP)
+
+ALF/VCP
+
+0817700
+
+8.92.32.02
+
+CLIA LIBRAPORT CAMPINAS S/A
+
+ALF/STS 0817800
+
+8.93.13.09
+
+MOVECTA S/A
+
+ALF/SPO
+
+0817900
+
+8.94.32.13
+
+AURORA TERMINAIS E SERVIÇOS LTDA.
+
+ALF/SPO
+
+0817900
+
+8.94.32.04
+
+CLIA EMBRAGEN
+
+ALF/SPO
+
+0817900
+
+8.94.32.02
+
+CLIA CNAGA
+
+ALF/VCP
+
+0817700
+
+8.92.32.02
+
+CLIA LIBRAPORT CAMPINAS S/A
+
+ALF/VCP 0817700
+
+8.92.11.01
+
+Ou
+
+0000000
+
+(carga pátio)
+
+AEROPORTOS BRASIL - VIRACOPOS S/A
+
+ALF/SPO
+
+0817900
+
+8.94.11.01
+
+AEROPORTO DE SÃO JOSÉ DOS CAMPOS LTDA.
+
+**Art. 2º.** Permanecem inalteradas as demais disposições do Ato Declaratório Executivo SRRF08 nº 107, de 13/12/2024, publicado no D.O.U. de 23/12/2024.
+
+**Art. 3º.** Este ato entra em vigor na data de sua publicação no Diário Oficial da União.
+
+CLÁUDIO FERRER DE SOUZA

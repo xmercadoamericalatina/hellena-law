@@ -1,0 +1,39 @@
+---
+titulo: "Solução de Consulta Disit/SRRF04 nº 4030, de 5 de agosto de 2026"
+orgao: "Divisão de Tributação da 4ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "4030"
+data: "2026-08-05"
+revogada: false
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 11/08/2026, seção 1, página 31"
+data_publicacao: "2026-08-11"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/152784/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/152784/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "152784"
+sha256_texto: "9159e82cb48a7fc4720fc13b7b52c76e5fb5c6084edd17b8e05ae754e52aff3b"
+baixado_em: "2026-10-15"
+evidencia_revogacao: "vigente:true"
+---
+# Solução de Consulta Disit/SRRF04 nº 4030, de 5 de agosto de 2026
+
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ  
+LUCRO PRESUMIDO. SERVIÇOS DE SAÚDE. PERCENTUAL DE PRESUNÇÃO REDUZIDO. REQUISITOS.  
+Para efeito de determinação da base de cálculo do IRPJ devido pela pessoa jurídica tributada com base no lucro presumido, aplica-se o percentual de 8% (oito por cento) sobre a receita bruta decorrente da prestação de serviços hospitalares e da prestação dos serviços de auxílio diagnóstico e terapia listados nas atribuições 1 a 4 da Resolução RDC Anvisa nº 50, de 21 de fevereiro de 2002, desde que, cumulativamente, a prestadora dos serviços seja organizada sob a forma de sociedade empresária (de direito e de fato) e atenda às normas da Agência Nacional de Vigilância Sanitária (Anvisa).  
+O não atendimento desses requisitos cumulativos importa a aplicação do percentual de 32% (trinta e dois por cento) sobre a receita bruta da prestação dos serviços.  
+Do conceito de serviços hospitalares, médicos e de saúde estão excluídas as simples consultas médicas (inclusive ambulatoriais), ainda que realizadas no interior de hospitais.  
+SOLUÇÃO DE CONSULTA VINCULADA ÀS SOLUÇÕES DE CONSULTA COSIT Nº 147, DE 20 DE JULHO DE 2023, E Nº 127, DE 31 DE JULHO DE 2026.  
+Dispositivos Legais: Lei nº 9.249, de 26 de dezembro de 1995, art. 15, caput e §§ 1º, inciso III, alínea "a" e 2º; Lei nº 9.430, de 27 de dezembro de 1996, art. 25, inciso I; Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), arts. 966 e 982; Lei nº 11.727, de 23 de junho de 2008, arts. 29 e 41, inciso VI; Instrução Normativa RFB nº 1.234, de 11 de janeiro de 2012, arts. 30, 31 e 38, inciso II; Instrução Normativa RFB nº 1.700, de 14 de março de 2017, arts. 33, §§ 1º, inciso II, alínea "a", e 3º, e 215, caput; Resolução RDC Anvisa nº 50, de 21 de fevereiro de 2002; Nota Explicativa PGFN/CRJ nº 1.114, de 2012, Anexo, item 52.  
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL  
+RESULTADO PRESUMIDO. SERVIÇOS DE SAÚDE. PERCENTUAL DE PRESUNÇÃO REDUZIDO. REQUISITOS.  
+Para efeito de determinação da base de cálculo da CSLL devida pela pessoa jurídica tributada com base no resultado presumido, aplica-se o percentual de 12% (doze por cento) sobre a receita bruta decorrente da prestação de serviços hospitalares e da prestação dos serviços de auxílio diagnóstico e terapia listados nas atribuições 1 a 4 da Resolução RDC Anvisa nº 50, de 21 de fevereiro de 2002, desde que, cumulativamente, a prestadora dos serviços seja organizada sob a forma de sociedade empresária (de direito e de fato) e atenda às normas da Agência Nacional de Vigilância Sanitária (Anvisa).  
+O não atendimento desses requisitos cumulativos importa a aplicação do percentual de 32% (trinta e dois por cento) sobre a receita bruta da prestação dos serviços.  
+Do conceito de serviços hospitalares, médicos e de saúde estão excluídas as simples consultas médicas (inclusive ambulatoriais), ainda que realizadas no interior de hospitais.  
+SOLUÇÃO DE CONSULTA VINCULADA ÀS SOLUÇÕES DE CONSULTA COSIT Nº 147, DE 20 DE JULHO DE 2023, E Nº 127, DE 31 DE JULHO DE 2026.  
+Dispositivos Legais: Lei nº 9.249, de 26 de dezembro de 1995, art. 15, caput e §§ 1º, inciso III, alínea "a", 2º, e art. 20, incisos I e III; Lei nº 9.430, de 27 de dezembro de 1996, art. 29, inciso I; Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), arts. 966 e 982; Lei nº 11.727, de 23 de junho de 2008, arts. 29 e 41, inciso VI; Instrução Normativa RFB nº 1.234, de 11 de janeiro de 2012, arts. 30, 31 e 38, inciso II; Instrução Normativa RFB nº 1.700, de 14 de março de 2017, art. 33, §§ 1º, inciso II, alínea "a", e 3º, art. 34, § 2º, e art. 215, § 1º; Nota Explicativa PGFN/CRJ nº 1.114, de 2012, Anexo, item 52.
+
+ROBERTO PETRÚCIO HERCULANO DE ALENCAR  
+Chefe da Divisão  
+Em exercício

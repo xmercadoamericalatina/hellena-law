@@ -1,0 +1,16 @@
+{
+  "head": "45d2b7f3c8b1868752fabefb5a95634433a509d7",
+  "baseline_sha256": "bb14fe62f6fbcaa03668590af733b4b19897da5b46ced5705d808a8c6031a142",
+  "baseline_caminhos": 208201,
+  "mds_em_HEAD": 208167,
+  "cabecalhos_conferidos": 208167,
+  "omitidos_sem_cabecalho": [],
+  "sha256_vinculos_path_oid": "ace9cccb91b683e8b1fb3104422007a8016ba9409affd6814baa484bce5c6d60",
+  "criterio": "Cinco campos de identidade/proveniência lidos diretamente dos blobs exatos do HEAD por OID, sem usar arquivo mutável do worktree e sem truncar cabeçalhos longos. Baseline de caminhos NUL e cache completo preservados; nenhum normativo ou meta alterado. Próximos lotes reservam somente adições posteriores ainda qualificadas.",
+  "cache": "reguladores/_indice/auditoria-headers/bb14fe62f6fbcaa03668590af733b4b19897da5b46ced5705d808a8c6031a142.json.gz",
+  "sha256_cache": "96a172fd8509be75308115c57d3303d805f10f12694d485947ddb0d1fef0b4e5",
+  "baseline_arquivo_gzip": "reguladores/_indice/auditoria-headers/bb14fe62f6fbcaa03668590af733b4b19897da5b46ced5705d808a8c6031a142.paths.z.gz",
+  "sha256_baseline_gzip": "4f2c6a84112521a31300f375a79f3fe4766a81a15929d875f637cdb4a594b3e4",
+  "gerador": "scripts/dados/baseline-reguladores-head-v3-gerador-20261021.txt",
+  "sha256_gerador": "02eb1da11422e576b2be5ec6fff044804e4690aa3f33dd131cb5746eec948f4b"
+}

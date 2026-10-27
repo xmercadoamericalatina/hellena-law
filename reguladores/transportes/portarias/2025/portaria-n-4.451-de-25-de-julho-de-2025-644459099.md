@@ -1,0 +1,34 @@
+---
+titulo: "PORTARIA Nº 4.451, DE 25 DE JULHO DE 2025"
+orgao: "Ministério dos Transportes/Departamento Nacional de Infraestrutura de Transportes"
+tipo: "Portaria"
+numero: "4451"
+data: 2025-07-25
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 28/07/2025, seção 1, p. 217"
+data_publicacao: 2025-07-28
+edicao: "140"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-4.451-de-25-de-julho-de-2025-644459099"
+baixado_em: 2026-10-16
+sha256_html_fonte: d0806f6f9253de52713de7ad41e88567a7fe06dd45823cb4dcb93c3a532660e2
+---
+# PORTARIA Nº 4.451, DE 25 DE JULHO DE 2025
+
+PORTARIA Nº 4.451, DE 25 DE JULHO DE 2025
+
+O Diretor-Geral do Departamento Nacional de Infraestrutura de Transportes - DNIT, no uso das atribuições que lhe são conferidas pelo artigo 173 do Regimento Interno, aprovado pela Resolução nº 39, de 17/11/2020, publicada no DOU de 19/11/2020, tendo em vista o constante no processo nº 50605.004173/2023-61, resolve:
+
+**Art. 1º** Declarar a utilidade pública, para efeito de desapropriação e afetação à fins rodoviários, terras e benfeitorias abrangidas pela Poligonal de Utilidade Pública, formada a partir da lista de pares de coordenadas apresentadas no art. 2º desta portaria, com base nas informações contidas na Planta Similar Revisada (21111518), aprovada pelo Superintendente Regional do DNIT no estado da Bahia, conforme Termo de Aceite de Planta Similar Revisada (21111525) constante no citado processo, referente às obras de construção Rodovia BR-020/BA, Lote Único. A área está localizada, segundo o Sistema Nacional de Viação - SNV (versão 202407A), na BR-020/BA; Trecho: Entr. BA-349(A) (Div. GO/BA) - Div. BA/PI; Subtrecho: Entr. BR-235 (p/ Campo Alegre de Lourdes) - Div. BA/PI; Segmento: Km 772,3 ao Km 784,1. SNV: 020BBA0360 (Versão 202504A), com extensão de 11,8 Km.
+
+**Art. 2º** Coordenadas Geográficas:
+
+717454,31 8947551,26; 716817,30 8947723,68; 716822,52 8947742,98; 716735,49 8947766,54; 716714,11 8947769,46; 716697,22 8947763,28; 716685,18 8947756,59; 716668,03 8947689,94; 716663,10 8947670,95; 716659,59 8947658,05; 716654,30 8947640,08; 716644,57 8947611,66; 716633,26 8947583,82; 716620,40 8947556,67; 716606,04 8947530,28; 716596,38 8947514,23; 716586,56 8947498,74; 716578,59 8947486,44; 716554,64 8947449,59; 716516,00 8947474,74; 716520,57 8947481,60; 716521,30 8947487,37; 716520,42 8947492,09; 716517,88 8947495,83; 716514,76 8947498,12; 716510,52 8947499,52; 716503,74 8947499,73; 716495,95 8947487,74; 716467,27 8947487,74; 716467,27 8947539,58; 716486,77 8947541,15; 716506,27 8947542,72; 716532,97 8947544,87; 716536,90 8947551,15; 716541,69 8947558,97; 716545,54 8947565,49; 716558,01 8947588,41; 716569,17 8947611,99; 716579,00 8947636,15; 716587,45 8947660,84; 716592,17 8947676,90; 716597,44 8947696,55; 716600,24 8947707,38; 716618,40 8947777,98; 716544,75 8947798,87; 716563,85 8947866,22; 716628,95 8947847,75; 716658,64 8947861,22; 716881,32 8948182,95; 716895,89 8948203,90; 716910,49 8948224,45; 716960,49 8948288,98; 717014,65 8948350,05; 717072,73 8948407,42; 717134,47 8948460,83; 717199,60 8948510,04; 717267,84 8948554,83; 717338,89 8948595,03; 717412,44 8948630,44; 717435,59 8948640,42; 717459,13 8948650,28; 718366,67 8949028,45; 718389,94 8949038,17; 718412,34 8949047,70; 718527,85 8949102,05; 718639,58 8949163,79; 718747,07 8949232,65; 718849,86 8949308,34; 718947,52 8949390,55; 719039,64 8949478,93; 719072,02 8949512,62; 720388,70 8951236,42; 720419,68 8951278,94; 720448,72 8951322,82; 723931,46 8956853,81; 723990,69 8956816,51; 720507,95 8951285,52; 720477,17 8951239,00; 720444,33 8951193,93; 719130,23 8949473,51; 719130,86 8949472,90; 719125,33 8949467,10; 719120,05 8949461,56; 719117,75 8949459,14; 719107,09 8949447,99; 719096,80 8949437,30; 719089,72 8949430,02; 718994,32 8949338,49; 718893,18 8949253,35; 718786,73 8949174,96; 718675,41 8949103,65; 718559,69 8949039,71; 718440,07 8948983,43; 718417,07 8948973,64; 718393,60 8948963,83; 717486,05 8948585,66; 717458,63 8948574,16; 717440,70 8948566,40; 717371,32 8948532,99; 717304,30 8948495,08; 717239,93 8948452,82; 717178,49 8948406,40; 717120,25 8948356,02; 717065,46 8948301,91; 717014,37 8948244,29; 716967,20 8948183,43; 716953,23 8948163,76; 716938,88 8948143,11; 716717,47 8947823,21; 716785,95 8947804,68; 716774,61 8947787,03; 716830,36 8947771,94; 716835,59 8947791,24; 717472,60 8947618,82; 717454,31 8947551,26. (Sistema de referência UTM Zona 23S Datum Sirgas 2000).
+
+**Art. 3º** Ficam excluídas da presente declaração de utilidade pública, as áreas correspondentes à Faixa de Domínio Existente da via, assim como demais áreas pertencentes à União, abrangidas pela Poligonal de Utilidade Pública apresentada no art. 2º.
+
+**Art. 4°** Fica revogada a Portaria nº 4.515 de 16/9/2024, publicada no Diário Oficial de União de 18/9/2024, Seção 1, pág. 89/90.
+
+**Art. 5º** Esta portaria entre em vigor na data da sua publicação.
+
+FABRICIO DE OLIVEIRA GALVÃO

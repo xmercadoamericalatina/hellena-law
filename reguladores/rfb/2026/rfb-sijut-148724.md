@@ -1,0 +1,32 @@
+---
+titulo: "Ato Declaratório Executivo DRF/SOR nº 5, de 2 de janeiro de 2026"
+orgao: "Delegacia da Receita Federal do Brasil em Sorocaba"
+tipo: "Ato Declaratório Executivo"
+numero: "5"
+data: "2026-01-02"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 05/01/2026, seção 1, página 14"
+data_publicacao: "2026-01-05"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/148724/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/148724/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "148724"
+sha256_texto: "b798d7da18f5a7ebec6809b71d7af7a671b90fcb77637448793a5e758d4bd59b"
+baixado_em: "2026-10-15"
+---
+# Ato Declaratório Executivo DRF/SOR nº 5, de 2 de janeiro de 2026
+
+Cancela a habilitação ao Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura (Reidi) da pessoa jurídica que menciona.
+
+A AUDITORA-FISCAL DA RECEITA FEDERAL DO BRASIL, no uso das atribuições que lhe conferem a alínea "b" do inciso I do art. 6º da Lei nº 10.593, de 6 de dezembro de 2002 (Redação dada pela Lei nº 11.457, de 2007), o art. 8º da Portaria RFB nº 372, de 26 de outubro de 2023, e os arts. 2º e 4º da Portaria RFB nº 114, de 27 de janeiro de 2022, com base nas competências do inciso IV do art. 303 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, tendo em vista o disposto nos arts. 646 a 663 da IN RFB nº 2.121, de 15 de dezembro de 2022, e o que consta do processo nº 13031.489368/2025-56, declara:
+
+**Art. 1º** Cancelada, a pedido, a habilitação ao Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura (REIDI) da pessoa jurídica UFV FIM DE SEMANA 05 LTDA, CNPJ nº 55.794.973/0001-31, relativamente ao projeto de minigeração de energia elétrica denominado "Unidade de minigeração distribuída, constituída por fonte solar fotovoltaica, totalizando 1000 kw de potência instalada", sob o Contrato de Uso do Sistema de Distribuição - CUSD nº 177416768, aprovado pelo Anexo 105 da Portaria nº 2928/SNTEP/MME, de 04.04.2025, da Secretaria Nacional de Transição Energética e Planejamento do Ministério de Minas e Energia.
+
+**Art. 2º** Ficam revogados os efeitos do Ato declaratório Executivo DRF/SOR nº 940, de 13 de agosto de 2025, motivo pelo qual a pessoa jurídica fica impedida, a partir de 06/10/2025, de efetuar aquisições e importações ao amparo do REIDI de bens e serviços destinados ao projeto correspondente à habilitação ora cancelada.
+
+**Art. 3º** Este Ato declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União - DOU.
+
+MELINA GADELHA CARVALHO

@@ -1,0 +1,36 @@
+---
+titulo: "Solução de Consulta Cosit nº 99008, de 14 de novembro de 2025"
+orgao: "Coordenação-Geral de Tributação"
+tipo: "Solução de Consulta"
+numero: "99008"
+data: "2025-11-14"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 18/11/2025, seção 1, página 61"
+data_publicacao: "2025-11-18"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/147748/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/147748/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "147748"
+sha256_texto: "d3401d6ec2a18a023c4c70b6accf6285bb653584dc3a973310cfdf78bfde2d2e"
+baixado_em: "2026-10-15"
+---
+# Solução de Consulta Cosit nº 99008, de 14 de novembro de 2025
+
+Assunto: Imposto sobre Produtos Industrializados - IPI  
+PRODUTOS INTERMEDIÁRIOS. ELEMENTOS QUE SE INCORPORAM AO PRODUTO FINAL OU QUE SE CONSOMEM NA INDUSTRIALIZAÇÃO. Considera-se produto intermediário (PI), para efeitos de apuração de créditos do IPI, quando não se enquadre como matéria-prima ou material de embalagem:
+
+a) o bem que se incorpora ao produto final, através de quaisquer das operações de industrialização enumeradas no Decreto nº 7.212, de 15 de junho de 2010 (Regulamento do Imposto sobre Produtos Industrializados), dele resultando diretamente um novo produto (PI strictu sensu); ou
+
+b) o bem que se consome no processo de industrialização em decorrência de contato físico com o produto final, embora a esse não se incorpore, por ação diretamente exercida sobre o produto em fabricação, ou por este diretamente sofrida (PI lato sensu).  
+Para reconhecimento do direito ao crédito básico do IPI, não se considera consumido no processo de industrialização o produto que, embora em contato com o produto final, sofra mero desgaste, tal como pode ocorrer com máquinas, equipamentos ou outros bens utilizados no processo de fabricação. Dispositivos Legais: Lei nº 12.350, de 2010, art. 54; Instrução Normativa RFB nº 2.121, de 2022, art. 569.  
+Processo Administrativo Fiscal  
+INEFICÁCIA DA CONSULTA.  
+É ineficaz a consulta formulada com o objetivo de obter prestação de assessoria jurídica ou contábil-fiscal perante a RFB, não apresentando dúvida sobre a interpretação da legislação tributária.  
+Dispositivos Legais: Instrução Normativa RFB nº 2.058, de 9 de dezembro de 2021, art. 28, inciso XIV.  
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 135, DE 14 DE SETEMBRO DE 2021.
+
+OTHONIEL LUCAS DE SOUSA JÚNIOR  
+Coordenador

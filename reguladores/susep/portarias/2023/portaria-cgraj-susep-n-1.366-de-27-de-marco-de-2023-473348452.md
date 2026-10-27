@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIA CGRAJ/SUSEP Nº 1.366, DE 27 de MARÇO DE 2023"
+orgao: "Ministério da Fazenda/Superintendência de Seguros Privados/Diretoria Técnica 1/Coordenação-Geral de Regimes Especiais, Autorizações e Julgamentos"
+tipo: "Portaria"
+numero: "1366"
+data: 2023-03-27
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 28/03/2023, seção 1, p. 39"
+data_publicacao: 2023-03-28
+edicao: "60"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-cgraj/susep-n-1.366-de-27-de-marco-de-2023-473348452"
+sha256_html_fonte: 559bb1b341689d19a90add085360f1296565c30a5f802da34ab3c7bd7ef2d99a
+baixado_em: 2026-10-16
+---
+# PORTARIA CGRAJ/SUSEP Nº 1.366, DE 27 de MARÇO DE 2023
+
+PORTARIA CGRAJ/SUSEP Nº 1.366, DE 27 de MARÇO DE 2023
+
+O COORDENADOR-GERAL DE REGIMES ESPECIAIS, AUTORIZAÇÕES E JULGAMENTOS DA SUPERINTENDÊNCIA DE SEGUROS PRIVADOS - SUSEP, no uso da competência subdelegada pelo Superintendente da Susep, por meio da Portaria nº 7.861, de 22 de setembro de 2021, tendo em vista o disposto na alínea 'a' do artigo 36 do Decreto-Lei nº 73, de 21 de novembro de 1966, e o que consta do processo Susep nº 15414.632003/2022-36, resolve:
+
+**Art. 1º** Homologar a reforma e consolidação do estatuto social de PRUDENTIAL DO BRASIL SEGUROS DE VIDA S.A., CNPJ nº 33.061.813/0001-40, com sede na cidade do Rio de Janeiro - RJ, conforme deliberado na assembleia geral extraordinária realizada em 23 de setembro de 2022.
+
+**Art. 2º** Esta portaria entra em vigor na data de sua publicação.
+
+CARLOS AUGUSTO PINTO FILHO

@@ -1,0 +1,32 @@
+---
+titulo: "Ato Declaratório Executivo DRF/SOR nº 1469, de 4 de novembro de 2025"
+orgao: "Delegacia da Receita Federal do Brasil em Sorocaba"
+tipo: "Ato Declaratório Executivo"
+numero: "1469"
+data: "2025-11-04"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 05/11/2025, seção 1, página 44"
+data_publicacao: "2025-11-05"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/147475/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/147475/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "147475"
+sha256_texto: "519064fd5bc25d0e56189806532a9fe0e4d6297f1f079694d7ee5d32ec16ae21"
+baixado_em: "2026-10-15"
+---
+# Ato Declaratório Executivo DRF/SOR nº 1469, de 4 de novembro de 2025
+
+Concede cancelamento da habilitação ao Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura (REIDI) à pessoa jurídica que menciona.
+
+O AUDITOR-FISCAL DA RECEITA FEDERAL DO BRASIL signatário, no uso das atribuições que lhe conferem a alínea "b" do inciso I do art. 6º da Lei nº 10.593, de 6 de dezembro de 2002 (Redação dada pela Lei nº 11.457, de 2007), o art. 8º da Portaria RFB nº 372, de 26 de outubro de 2023, e os arts. 2º e 4º da Portaria RFB nº 114, de 27 de janeiro de 2022, com base nas competências do inciso IV do art. 303 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, tendo em vista o disposto nos arts. 646 a 663 da IN RFB nº 2.121, de 15 de dezembro de 2022, e o que consta do processo nº 13031.434342/2025-71, declara:
+
+**Art. 1º** Cancelada, a pedido, a habilitação ao Regime Especial de Desenvolvimento da Infraestrutura - REIDI - concedida por meio do ATO DECLARATÓRIO EXECUTIVO EQBEN/DELEBEN/SRRF08ª/RFB Nº 240, DE 11 DE MARÇO DE 2025, da Delegacia da Receita Federal do Brasil em Sorocaba/SP (publicado no DOU nº 48, de 12.03.2025), a favor da pessoa jurídica MAYNART ENERGETICA LTDA., CNPJ nº 20.227.915/0001-41, relativa ao projeto de investimento em minigeração distribuída de energia elétrica, cadastrado com o Número da Unidade Consumidora: 3015096693, objeto do Contrato de Uso do Sistema de Distribuição (CUSD): 5021651304, de sua titularidade, enquadrado no REIDI pela PORTARIA SNTEP/MME Nº 2.894, DE 21 DE JANEIRO DE 2025, da Secretaria Nacional de Transição Energética e Planejamento do Ministério de Minas e Energia (publicada no DOU nº 16, de 23.01.2025), nos termos da Lei nº 11.488, de 15 de junho de 2007, do Decreto nº 6.144, de 3 de julho de 2007 e da Instrução Normativa RFB nº 2.121, de 15 de dezembro de 2022.
+
+**Art. 2º** Ficam revogados os efeitos do Ato Declaratório Executivo referido no artigo primeiro deste ato, motivo pelo qual a pessoa jurídica não poderá mais efetuar aquisições e importações ao amparo do REIDI de bens e serviços destinados ao projeto correspondente à habilitação ora cancelada, abrangendo referidos efeitos a(s) pessoa(s) jurídica(s) eventualmente coabilitada(s) e vinculada(s) ao correspondente projeto, com efeitos retroativos a 20.08.2025, data do comunicado de confirmação da conexão da CGH BRC à Cemig Distribuição S.A.
+
+**Art. 3º** Este Ato Declaratório Executivo entra em vigor na data de sua publicação no Diário Oficial da União - DOU.
+
+VICTOR EDUARDO LAMANO

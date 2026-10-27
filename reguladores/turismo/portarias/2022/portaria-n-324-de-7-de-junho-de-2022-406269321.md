@@ -1,0 +1,30 @@
+---
+titulo: "PORTARIA Nº 324, DE 7 DE JUNHO DE 2022"
+orgao: "Ministério do Turismo/Secretaria Especial de Cultura/Secretaria Nacional de Fomento e Incentivo à Cultura"
+tipo: "Portaria"
+numero: "324"
+data: 2022-06-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/06/2022, seção 1, p. 140"
+data_publicacao: 2022-06-08
+edicao: "108"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-324-de-7-de-junho-de-2022-406269321"
+sha256_html_fonte: 1b8adb179424f1c509d6d2c843bca4be72fa5859c5935248ac85c0edb936facc
+baixado_em: 2026-10-20
+---
+# PORTARIA Nº 324, DE 7 DE JUNHO DE 2022
+
+PORTARIA Nº 324, DE 7 DE JUNHO DE 2022
+
+O SECRETÁRIO NACIONAL DE FOMENTO E INCENTIVO À CULTURA, no uso de suas atribuições legais, considerando o sistema de Credenciamento criado pela Portaria nº 43, de 09 de julho de 2009, publicada no D.O.U. do dia 13 de julho de 2009, e o que dispõe os Capítulos IX e X da Portaria nº 39, de 12 de abril de 2017, publicada no D.O.U. do dia 12 de abril de 2017, resolve:
+
+**Art. 1º** - Tornar pública, a relação dos peritos descredenciados do Banco de Pareceristas da SECRETARIA ESPECIAL DA CULTURA, a pedido, conforme disposto no Art. 23 da Portaria nº 39, de 12 de abril de 2017, os quais foram habilitados por meio do Edital de Credenciamento de Pareceristas nº 1/2018, por nome, CPF, área e segmentos, constantes no anexo.
+
+**Art. 2º** - Esta portaria entra em vigor na data de sua publicação.
+
+LUCAS JORDÃO CUNHA
+
+## ANEXO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>NOME</p></td>      <td rowspan="1" colspan="1"><p>CPF</p></td>      <td rowspan="1" colspan="1"><p>ÁREA</p></td>      <td rowspan="1" colspan="1"><p>SEGMENTO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>IVAN MONTANARI LIMA</p></td>      <td rowspan="1" colspan="1"><p>35746320889</p></td>      <td rowspan="1" colspan="1"><p>Análise de medidas de acessibilidade à produtos e bens culturais</p></td>      <td rowspan="1" colspan="1"><p>Análise de medidas de acessibilidade à produtos e bens culturais</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Artes Cênicas</p></td>      <td rowspan="1" colspan="1"><p>Ações de capacitação e treinamento de pessoal</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Dança</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Teatro</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Artes Visuais</p></td>      <td rowspan="1" colspan="1"><p>Ações educativo-culturais, inclusive seminários, oficinas, e palestras, assim como ações de capacitação e treinamento de pessoal que visem a formação e o fomento em artes visuais</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Humanidades</p></td>      <td rowspan="1" colspan="1"><p>Ações de formação e capacitação em geral, incluindo gestão e empreendedorismo cultural</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>MONICA ANGELICA FERREIRA</p></td>      <td rowspan="1" colspan="1"><p>10475904842</p></td>      <td rowspan="1" colspan="1"><p>Artes Cênicas</p></td>      <td rowspan="1" colspan="1"><p>Teatro</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Teatro de formas animadas, de mamulengos, bonecos e congêneres</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Teatro musical, quando sua encenação se estabelece por meio de dramaturgia, compreendendo danças e canções</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>NATALIA ALVES SIMONETE</p></td>      <td rowspan="1" colspan="1"><p>05624408609</p></td>      <td rowspan="1" colspan="1"><p>Análise de medidas de acessibilidade à produtos e bens culturais</p></td>      <td rowspan="1" colspan="1"><p>Análise de medidas de acessibilidade à produtos e bens culturais</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Artes Cênicas</p></td>      <td rowspan="1" colspan="1"><p>Ações de capacitação e treinamento de pessoal</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Teatro</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Teatro de formas animadas, de mamulengos, bonecos e congêneres</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Teatro musical, quando sua encenação se estabelece por meio de dramaturgia, compreendendo danças e canções</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Humanidades</p></td>      <td rowspan="1" colspan="1"><p>Ações de formação e capacitação em geral, incluindo gestão e empreendedorismo cultural</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>Livros ou obras de referência, impressos ou eletrônicos, de valor artístico, literário ou humanístico</p></td>     </tr>    </tbody>   </table>

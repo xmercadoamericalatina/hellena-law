@@ -1,0 +1,22 @@
+from pathlib import Path
+import subprocess,json,gzip,hashlib,threading
+sha=lambda b:hashlib.sha256(b).hexdigest();head=subprocess.check_output(['git','rev-parse','HEAD']).decode().strip();tree=subprocess.check_output(['git','ls-tree','-rz',head,'--','reguladores']);allrows=[]
+for line in tree.split(b'\0'):
+ if not line:continue
+ descriptor,p=line.split(b'\t',1);mode,typ,oid=descriptor.split();allrows.append((p.decode(),oid.decode(),typ))
+base=b''.join(p.encode()+b'\0' for p,_,_ in allrows);bp=Path('/tmp/constituicao-index-reguladores-head-v2-20261021.z');assert not bp.exists();bp.write_bytes(base);s=sha(base);cache=Path('reguladores/_indice/auditoria-headers')/(s+'.json.gz');assert not cache.exists();selected=[r for r in allrows if r[0].endswith('.md')];proc=subprocess.Popen(['git','cat-file','--batch'],stdin=subprocess.PIPE,stdout=subprocess.PIPE)
+def feed():
+ for _,oid,_ in selected:proc.stdin.write((oid+'\n').encode())
+ proc.stdin.close()
+t=threading.Thread(target=feed);t.start();docs=[];skipped=[];objects=hashlib.sha256();fields={'orgao','tipo','numero','data','fonte'}
+for i,(p,oid,typ) in enumerate(selected,1):
+ hdr=proc.stdout.readline().split();assert len(hdr)==3 and hdr[0].decode()==oid and hdr[1]==typ==b'blob';raw=proc.stdout.read(int(hdr[2]));assert proc.stdout.read(1)==b'\n';objects.update((p+'\0'+oid+'\n').encode())
+ if not raw.startswith(b'---\n') or b'\n---\n' not in raw[4:]:skipped.append({'path':p,'motivo':'sem cabecalho YAML fechado'});continue
+ meta={}
+ for line in raw[4:].split(b'\n---\n',1)[0].decode().splitlines():
+  k,sep,v=line.partition(':')
+  if k not in fields:continue
+  assert sep and k not in meta,p;v=v.strip();meta[k]=json.loads(v) if v.startswith('"') else v
+ docs.append({'path':p,'meta':meta})
+ if i%25000==0:print('HEAD headers',i,flush=True)
+t.join();assert proc.wait()==0;payload=json.dumps({'baseline_sha256':s,'documentos':docs},ensure_ascii=False,separators=(',',':')).encode();cache.parent.mkdir(parents=True,exist_ok=True);cache.write_bytes(gzip.compress(payload,mtime=0));rawcache=cache.with_name(s+'.paths.z.gz');assert not rawcache.exists();rawcache.write_bytes(gzip.compress(base,mtime=0));script=Path('scripts/dados/baseline-reguladores-head-v2-gerador-20261021.txt');assert not script.exists();script.write_bytes(Path(__file__).read_bytes());proof=Path('scripts/dados/baseline-reguladores-head-v2-20261021.json');assert not proof.exists();proof.write_text(json.dumps({'head':head,'baseline_sha256':s,'baseline_caminhos':len(allrows),'mds_em_HEAD':len(selected),'cabecalhos_conferidos':len(docs),'omitidos_sem_cabecalho':skipped,'sha256_vinculos_path_oid':objects.hexdigest(),'criterio':'Cinco campos de identidade/proveniência lidos diretamente dos blobs exatos do HEAD por OID, sem usar arquivo mutável do worktree e sem truncar cabeçalhos longos. Baseline de caminhos NUL e cache completo preservados; nenhum normativo ou meta alterado. Próximos lotes reservam somente adições posteriores ainda qualificadas.','cache':str(cache),'sha256_cache':sha(cache.read_bytes()),'baseline_arquivo_gzip':str(rawcache),'sha256_baseline_gzip':sha(rawcache.read_bytes()),'gerador':str(script),'sha256_gerador':sha(script.read_bytes())},ensure_ascii=False,indent=2)+'\n');h={str(p):sha(p.read_bytes()) for p in [cache,rawcache,script,proof]};Path('/tmp/baseline-head-v2-hashes-20261021.json').write_text(json.dumps(h,indent=2)+'\n');print('FINALHEAD',head,'docs',len(docs),'skipped',len(skipped),'baseline',s,flush=True)

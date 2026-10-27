@@ -1,0 +1,35 @@
+---
+titulo: "Solução de Consulta Disit/SRRF01 nº 1001, de 8 de janeiro de 2026"
+orgao: "Divisão de Tributação da 1ª Região Fiscal"
+tipo: "Solução de Consulta"
+numero: "1001"
+data: "2026-01-08"
+revogada: false
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 16/09/2026, seção 1, página 60"
+data_publicacao: "2026-09-16"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/153564/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/153564/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "153564"
+sha256_texto: "4ebd9ab8835290895b2f2e294caac18792dc2bcb0d8a03138858c0deb241b810"
+baixado_em: "2026-10-15"
+vigente_fonte: true
+evidencia_revogacao: "vigente:true"
+---
+# Solução de Consulta Disit/SRRF01 nº 1001, de 8 de janeiro de 2026
+
+Assunto: Contribuição para o PIS/Pasep  
+EXCLUSÃO DO ICMS DA BASE DE CÁLCULO. RE 574.706 /PR (REPERCUSSÃO GERAL - TEMA 69 D0 STF). RESTITUIÇÃO/RESSARCIMENTO/COMPENSAÇÃO.  
+Não há que se falar, por falta de previsão legal, em ressarcimento de crédito decorrente, per si, da exclusão do ICMS da base de cálculo da Contribuição para o PIS/Pasep. A exclusão do ICMS, in casu, pode caracterizar um pagamento indevido ou a maior da referida contribuição, passível de restituição, ou que, simplesmente, há, no regime não-cumulativo, na situação em que não se apurou originalmente débito a recolher, uma maior disponibilidade de créditos escriturais no referido período de apuração. Na situação em que o ajuste operacionalizado na EFD-Contribuições resultar em maior saldo de crédito escritural, deverá se observar, casuisticamente, se os créditos se subsomem ou não às hipóteses normativas de ressarcimento. Se for apurado após ajuste, saldo de crédito escritural passível de ressarcimento e se faça opção pela compensação, a declaração de compensação deverá ser necessariamente precedida da apresentação do pedido de ressarcimento, sendo que o direito de apresentar o pedido de ressarcimento se extingue após 5 anos, contados do encerramento do trimestre do crédito. Nos casos em que há ação judicial sobre o tema e em que se faça a opção pela compensação dos créditos decorrentes da decisão judicial transitada em julgado, há ainda a necessidade de prévia habilitação desses créditos.  
+Solução de Consulta Vinculada à Solução de Consulta - Coordenação Geral de Tributação - Cosit, nº 47, de 20 de março de 2025.  
+Dispositivos Legais: Lei nº 5.172, de 1966 (CTN), art. 168, inciso I; Lei nº 10.522, de 2002, art. 19, caput, e inciso VI, "a", c/c art. 19-A, inciso III, e § 1º; STF RE nº 574.706; Parecer SEI nº 14.483/ME, de 2021; Instrução Normativa RFB nº 2.055, de 2021, art.s 3º, I, 48 a 56, 100 a 108  
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins  
+EXCLUSÃO DO ICMS DA BASE DE CÁLCULO. RE 574.706 /PR (REPERCUSSÃO GERAL - TEMA 69 D0 STF). RESTITUIÇÃO/RESSARCIMENTO/COMPENSAÇÃO.  
+Não há que se falar, por falta de previsão legal, em ressarcimento de crédito decorrente, per si, da exclusão do ICMS da base de cálculo da Cofins. A exclusão do ICMS, in casu, pode caracterizar um pagamento indevido ou a maior da referida contribuição, passível de restituição, ou que, simplesmente, há, no regime não-cumulativo, na situação em que não se apurou originalmente débito a recolher, uma maior disponibilidade de créditos escriturais no referido período de apuração. Na situação em que o ajuste operacionalizado na EFD-Contribuições resultar em maior saldo de crédito escritural, deverá se observar, casuisticamente, se os créditos se subsomem ou não às hipóteses normativas de ressarcimento. Se for apurado após ajuste, saldo de crédito escritural passível de ressarcimento e se faça opção pela compensação, a declaração de compensação deverá ser necessariamente precedida da apresentação do pedido de ressarcimento, sendo que o direito de apresentar o pedido de ressarcimento se extingue após 5 anos, contados do encerramento do trimestre do crédito. Nos casos em que há ação judicial sobre o tema e em que se faça a opção pela compensação dos créditos decorrentes da decisão judicial transitada em julgado, há ainda a necessidade de prévia habilitação desses créditos.  
+Solução de Consulta Vinculada à Solução de Consulta - Coordenação Geral de Tributação - Cosit, nº 47, de 20 de março de 2025.  
+Dispositivos Legais:  
+Lei nº 5.172, de 1966 (CTN), art. 168, inciso I; Lei nº 10.522, de 2002, art. 19, caput, e inciso VI, "a", c/c art. 19-A, inciso III, e § 1º; STF RE nº 574.706; Parecer SEI nº 14.483/ME, de 2021; Instrução Normativa RFB nº 2.055, de 2021, arts. 3º, I, 48 a 56, 100 a 108.
+
+HENRIQUE PINHEIRO TORRES  
+Chefe da Divisão

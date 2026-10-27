@@ -1,0 +1,180 @@
+---
+titulo: "PORTARIA Nº 5.996, DE 14 DE OUTUBRO DE 2025"
+orgao: "Ministério dos Transportes/Departamento Nacional de Infraestrutura de Transportes/Diretoria de Planejamento e Pesquisa"
+tipo: "Portaria"
+numero: "5996"
+data: 2025-10-14
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 21/10/2025, seção 1, p. 132"
+data_publicacao: 2025-10-21
+edicao: "201"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-5.996-de-14-de-outubro-de-2025-663688283"
+baixado_em: 2026-10-16
+sha256_html_fonte: 0023e71c08ba6b22f2ceb1648ee4a59e6918e26c0a458ee18dcb3e06e5686f6c
+---
+# PORTARIA Nº 5.996, DE 14 DE OUTUBRO DE 2025
+
+PORTARIA Nº 5.996, DE 14 DE OUTUBRO DE 2025
+
+O DIRETOR DE PLANEJAMENTO E PESQUISA DO DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES, no uso das atribuições que lhe foram conferidas pelo art. 101, incisos I, XII, XII e o art. 113, inciso XII do Regimento Interno aprovado pela Resolução n.º 39, de 17 de novembro de 2020, do Conselho de Administração do DNIT e considerando a Ata da 40ª Reunião Ordinária da Diretoria Colegiada de 2025 (22701159), realizada em 14 de outubro de 2025, e considerando o constante dos autos do processo n.º 50600.014317/2021-75, resolve:
+
+**Art. 1º** Incluir na divisão em trechos do Sistema Nacional de Viação - SNV os trechos de CONTORNO como partes integrantes da BR-110/BA, conforme abaixo:
+
+CÓDIGO: 110CBA1005
+
+LOCAL DE INÍCIO: ACESSO NORTE RIACHO
+
+LOCAL DE FIM: ACESSO SUL RIACHO
+
+KM INICIAL: 0,0
+
+KM FINAL: 2,2
+
+EXTENSÃO: 2,2 km
+
+SUPERFÍCIE FEDERAL: PLA
+
+CÓDIGO: 110CBA2005
+
+LOCAL DE INÍCIO: ACESSO NORTE POVOADO DE STA.BRÍGIDA
+
+LOCAL DE FIM: ACESSO SUL POVOADO DE STA.BRÍGIDA
+
+KM INICIAL: 0,0
+
+KM FINAL: 1,5
+
+EXTENSÃO: 1,5 km
+
+SUPERFÍCIE FEDERAL: PLA
+
+CÓDIGO: 110CBA3005
+
+LOCAL DE INÍCIO: ACESSO NORTE RIBEIRA DO POMBAL
+
+LOCAL DE FIM: ACESSO SUL RIBEIRA DO POMBAL
+
+KM INICIAL: 0,0
+
+KM FINAL: 9,1
+
+EXTENSÃO: 9,1 km
+
+SUPERFÍCIE FEDERAL: PLA
+
+CÓDIGO: 110CBA4005
+
+LOCAL DE INÍCIO: ACESSO NORTE CIPÓ
+
+LOCAL DE FIM: ENTR BA-084
+
+KM INICIAL: 0,0
+
+KM FINAL: 1,4
+
+EXTENSÃO: 1,4 km
+
+SUPERFÍCIE FEDERAL: PLA
+
+CÓDIGO: 110CBA4010
+
+LOCAL DE INÍCIO: ENTR BA-084
+
+LOCAL DE FIM: ACESSO SUL CIPÓ
+
+KM INICIAL: 1,4
+
+KM FINAL: 6,8
+
+EXTENSÃO: 5,4 km
+
+SUPERFÍCIE FEDERAL: PLA
+
+CÓDIGO: 110CBA5005
+
+LOCAL DE INÍCIO: ACESSO NORTE NOVA SOURE
+
+LOCAL DE FIM: ACESSO SUL NOVA SOURE
+
+KM INICIAL: 0,0
+
+KM FINAL: 4,1
+
+EXTENSÃO: 4,1 km
+
+SUPERFÍCIE FEDERAL: PLA
+
+CÓDIGO: 110CBA6005
+
+LOCAL DE INÍCIO: ACESSO NORTE PAU LAVRADO (CATU)
+
+LOCAL DE FIM: ACESSO NORTE CATU
+
+KM INICIAL: 0,0
+
+KM FINAL: 6,0
+
+EXTENSÃO: 6,0 km
+
+SUPERFÍCIE FEDERAL: PLA
+
+CÓDIGO: 110CBA7005
+
+LOCAL DE INÍCIO: ACESSO OESTE CATU
+
+LOCAL DE FIM: ENTR BR-110/420
+
+KM INICIAL: 0,0
+
+KM FINAL: 6,7
+
+EXTENSÃO: 6,7 km
+
+SUPERFÍCIE FEDERAL: PLA
+
+CÓDIGO: 110CBA8005
+
+LOCAL DE INÍCIO: ACESSO NORTE SÃO SEBASTIÃO DO PASSÉ
+
+LOCAL DE FIM: ACESSO SUL SÃO SEBASTIÃO DO PASSÉ
+
+KM INICIAL: 0,0
+
+KM FINAL: 5,8
+
+EXTENSÃO: 5,8 km
+
+SUPERFÍCIE FEDERAL: PLA
+
+CÓDIGO: 110CBA9005
+
+LOCAL DE INÍCIO: ACESSO NORTE POVOADO DE CANABRAVA
+
+LOCAL DE FIM: ACESSO SUL POVOADO DE CANABRAVA
+
+KM INICIAL: 0,0
+
+KM FINAL: 1,4
+
+EXTENSÃO: 1,4 km
+
+SUPERFÍCIE FEDERAL: PLA
+
+**Art. 2º** Incluir na divisão em trechos do Sistema Nacional de Viação - SNV o trecho de CONTORNO como parte integrante da BR-410/BA, conforme abaixo:
+
+CÓDIGO: 410CBA1005
+
+LOCAL DE INÍCIO: ACESSO OESTE RIBEIRA DO POMBAL
+
+LOCAL DE FIM: ACESSO NORTE RIBEIRA DO POMBAL KM INICIAL: 0,0
+
+KM FINAL: 6,1
+
+EXTENSÃO: 6,1 km
+
+SUPERFÍCIE FEDERAL: PLA
+
+**Art. 3º** Determinar que esta Portaria entre em vigor na data de sua publicação.
+
+LUIZ GUILHERME RODRIGUES DE MELLO

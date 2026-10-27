@@ -1,0 +1,65 @@
+---
+titulo: "Ato Declaratório Executivo Conjunto SRRF08 / SRRF09 nº 16, de 10 de março de 2026"
+orgao: "Superintendência Regional da Receita Federal do Brasil 8ª Região Fiscal; Superintendência Regional da Receita Federal do Brasil 9ª Região Fiscal"
+tipo: "Ato Declaratório Executivo Conjunto"
+numero: "16"
+data: "2026-03-10"
+revogada: false
+evidencia_revogacao: "vigente:true"
+vigente_fonte: true
+versao_texto: "publicação original — visão original da fonte"
+publicacao: "Publicado(a) no DOU de 20/03/2026, seção 1, página 74"
+data_publicacao: "2026-03-20"
+fonte: "https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/150040/visao/original"
+fonte_api: "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/150040/visao/original"
+fonte_indice: "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+id_rfb: "150040"
+sha256_texto: "898da20141bb8481e896b8bec36b3babbd6a8be2eec88079108d390445d0d2d5"
+baixado_em: "2026-10-15"
+---
+# Ato Declaratório Executivo Conjunto SRRF08 / SRRF09 nº 16, de 10 de março de 2026
+
+Autoriza a Simplificação de Operações de Trânsito Aduaneiro para o Transportador que menciona
+
+OS SUPERINTENDENTES DA RECEITA FEDERAL DO BRASIL NAS 8ª E 9ª REGIÕES FISCAIS, no uso das atribuições conferidas pelo Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME n° 284, de 27/07/2020, e com fundamento no art. 82 da Instrução Normativa SRF nº 248, de 25/11/2002, na Portaria COANA nº 5, de 24/02/2021, com as modificações introduzidas pelas Portarias COANA nº 17, de 03/06/2021, nº 28, de 30/07/2021, nº 56, de 08/12/2021, e nº 124, de 15/05/2023, e à vista do que consta do processo nº 13032.098977/2024-17, resolvem:
+
+**Art. 1º.** Fica autorizada a simplificação nas operações de Trânsito Aduaneiro, mediante dispensa das etapas "Informar Elemento de Segurança" e "Registro de Integridade", em que figure como beneficiário a empresa transportadora TSA LOGÍSTICA LTDA., CNPJ nº 04.467.231/0001-60, localizada em Guarulhos/SP, para as rotas rodoviárias abaixo discriminadas:
+
+| UL ORIGEM | RA ORIGEM | ORIGEM | UL DESTINO | RA DESTINO | DESTINO |
+| --- | --- | --- | --- | --- | --- |
+| ALF/VCP 0817700 | 8.92.11.01 | Aeroportos Brasil - Viracopos S.A. | ALF/SFS 0927700 | 9.98.30.01 | CLIA Centro Logístico Integrado Fastcargo Ltda. (Itapoá/SC) |
+| ALF/ITJ 0927800 | 9.10.32.01 | CLIA Multilog S/A (Itajaí/SC) |  |  |  |
+
+| UL ORIGEM | RA ORIGEM | ORIGEM | UL DESTINO | RA DESTINO | DESTINO |
+| --- | --- | --- | --- | --- | --- |
+| ALF/STS 0817800 | 8.93.13.59 | Brasil Terminal Portuário S/A (BTP) | DRF/JOI 0920200 | 9.70.30.01 | CLIA Multilog S/A (Joinville/SC) |
+| 8.93.13.42 | Marimex Despachos, Transportes e Serviços Ltda. | ALF/ITJ 0927800 | 9.10.32.01 | CLIA Multilog S/A (Itajaí/SC) |  |
+| 8.93.32.01 | CLIA Multilog Brasil S/A |  |  |  |  |
+| 8.93.32.04 | CLIA Santos Brasil Logística S/A (Santos/SP) | 9.10.30.02 | CLIA Forte Distribuição e Logística do Brasil Ltda. (Itajaí/SC) |  |  |
+| 8.93.13.04 | TERMARES - Terminais Marítimos Especializados Ltda. |  |  |  |  |
+| 8.93.13.18 | Ecoporto Santos S/A (Pátio 1) | ALF/SFS 0927700 | 9.98.30.01 | CLIA Centro Logístico Integrado Fastcargo Ltda. (Itapoá/SC) |  |
+| 8.93.32.03 | CLIA Santos Brasil Logística S/A (Guarujá/SP) | ALF/CTA 0917900 | 9.99.32.02 | Porto Seco Multilog Brasil S/A (São José dos Pinhais/PR) |  |
+| 8.93.13.56 | Santos Brasil Participações S/A |  |  |  |  |
+| 8.93.14.04 | EMBRAPORT - Empresa Brasileira de Terminais Portuários S/A |  |  |  |  |
+
+**Art. 2º.** Periodicamente, auditorias de conformidade deverão ser realizadas para comprovar o cumprimento pelo beneficiário das condições impostas e avaliar a segurança das operações com dispensa de etapas, nos termos do §4º do art. 6º e do art. 8º da Portaria COANA nº 5/2021.
+
+**Art. 3º.** Determinar que a empresa transportadora TSA LOGÍSTICA LTDA., CNPJ nº 04.467.231/0001-60, disponibilize, para aplicação, elementos de segurança aprovados pela International Standard Organization (ISO).
+
+**Art. 4º.** Fica vedada a concessão da simplificação com dispensa de etapas para carroceria aberta ou fechada com cobertura por lona como o tipo "sider", ressalvada a possibilidade de autorização da unidade de origem do Trânsito, quando for verificado pela RFB que as características físicas da carga não permitem seu carregamento nos veículos autorizados.
+
+**Art. 5º.** Com fundamento no §2º do art. 6° da Portaria COANA nº 5/2021, os demais veículos da frota devem atender às exigências estabelecidas no Anexo II da Portaria COANA nº 5/2021.
+
+**Art. 6º.** Incumbir a empresa transportadora TSA LOGÍSTICA LTDA., CNPJ nº 04.467.231/0001-60, a providenciar imediata comunicação às SRRF's 8ªRF e 9ªRF na hipótese de exclusão, a pedido ou de ofício, do Programa OEA, sob pena de aplicação de sanções administrativas previstas no art. 76 da Lei nº 10.833, de 29/12/2003, sem prejuízo das demais penalidades cabíveis.
+
+**Art. 7º.** Esta simplificação é concedida em caráter precário e sujeita-se à imediata revogação no caso de constatação de descumprimento das condições definidas no presente Ato Declaratório Executivo, na Portaria COANA nº 5, de 24/02/2021, com as modificações introduzidas pelas Portarias COANA nº 17, de 03/06/2021, nº 28, de 30/07/2021, nº 56, de 08/12/2021, e nº 124, de 15/05/2023, sem prejuízo da aplicação de demais penalidades cabíveis.
+
+**Art. 8º.** Fica revogado o Ato Declaratório Executivo Conjunto SRRF08/SRRF09 nº 45, de 02 de agosto de 2024, publicado no D.O.U. de 14/08/2024.
+
+**Art. 9º.** Este ato entra em vigor na data de sua publicação no Diário Oficial da União.
+
+MÁRCIA CECÍLIA MENG  
+Superintendente da Receita Federal do Brasil na 8ª Região Fiscal
+
+MÁRCIO LUIZ ZAMIAN  
+Superintendente da Receita Federal do Brasil na 9ª Região Fiscal Substituto

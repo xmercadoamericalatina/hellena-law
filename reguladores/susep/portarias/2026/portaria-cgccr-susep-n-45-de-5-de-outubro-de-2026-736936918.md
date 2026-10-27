@@ -1,0 +1,27 @@
+---
+titulo: "PORTARIA CGCCR/SUSEP nº 45, de 5 de OUTUBRO de 2026"
+orgao: "Ministério da Fazenda/Superintendência de Seguros Privados/Diretoria de Organização de Mercado e Regulação de Conduta/Coordenação-Geral de Credenciamentos, Cadastros e Regimes Especiais"
+tipo: "Portaria"
+numero: "45"
+data: 2026-10-05
+revogada: false
+versao_texto: "publicação original"
+publicacao: "DOU de 07/10/2026, seção 1, p. 73"
+data_publicacao: 2026-10-07
+edicao: "190"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-cgccr/susep-n-45-de-5-de-outubro-de-2026-736936918"
+baixado_em: 2026-10-15
+---
+# PORTARIA CGCCR/SUSEP nº 45, de 5 de OUTUBRO de 2026
+
+PORTARIA CGCCR/SUSEP nº 45, de 5 de OUTUBRO de 2026
+
+O COORDENADOR-GERAL DA COORDENAÇÃO-GERAL DE CREDENCIAMENTOS, CADASTROS E REGIMES ESPECIAIS DA SUPERINTENDÊNCIA DE SEGUROS PRIVADOS - SUSEP, no uso da competência delegada pelo Superintendente da Susep, por meio da Portaria Susep nº 8.186, de 21 de julho de 2023, c/c a RESOLUÇÃO CNSP N° 490, de 12 de março de 2026, Resolução SUSEP nº 82, de 26 de março de 2026 e tendo em vista o disposto no inciso III do art. 4º da Lei Complementar nº 126, de 15 de janeiro de 2007, no inciso II do art. 5º, no §2º do art. 26 e no §7º do art. 28, todos da Resolução CNSP nº 422, de 11 de novembro de 2021, e o que consta do processo Susep nº 15414.635031/2026-39, resolve:
+
+**Art.1°** Fica homologada a atualização cadastral anual de 2026, de Federal Insurance Company, sociedade organizada e constituída de acordo com as leis do Estado de Indiana, Estados Unidos da América, cadastrada como resseguradora eventual junto à SUSEP, nos termos da PORTARIA DIR1/SUSEP Nº 95, de 03 de maio de 2022
+
+**Art. 2º** Fica ratificado que a Sra. Sandra Gonçalves Veiga e o Sr. Leandro Martinez Raymundo exercem a função de procuradores da Resseguradora.
+
+**Art. 3º** Esta portaria entra em vigor na data de sua publicação.
+
+JONAS DOS SANTOS SOUSA

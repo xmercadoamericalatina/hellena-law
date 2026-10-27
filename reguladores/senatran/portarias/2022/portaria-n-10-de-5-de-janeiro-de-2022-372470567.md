@@ -1,0 +1,30 @@
+---
+titulo: "Portaria Nº 10, DE 5 DE janeiro DE 2022"
+orgao: "Ministério da Infraestrutura/Secretaria Nacional de Trânsito"
+tipo: "Portaria"
+numero: "10"
+data: 2022-01-05
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 07/01/2022, seção 1, p. 39"
+data_publicacao: 2022-01-07
+edicao: "5"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-10-de-5-de-janeiro-de-2022-372470567"
+sha256_html_fonte: c9a2eb684f09f6f45780174a0deedcd20c3f2ea1b9664b8b7bca3fab02f41013
+baixado_em: 2026-10-20
+---
+# Portaria Nº 10, DE 5 DE janeiro DE 2022
+
+Portaria Nº 10, DE 5 DE janeiro DE 2022
+
+O SECRETÁRIO NACIONAL DE TRÂNSITO SUBSTITUTO, no uso da competência que lhe conferem o art. 19 do Código de Trânsito Brasileiro e a Portaria DENATRAN nº 99, de 1º de junho de 2017, e com base no que consta no processo administrativo nº 50000.036291/2021-85, resolve:
+
+**Art. 1º** Esta Portaria homologa, por quatro anos, o sistema informatizado (software) de talonário eletrônico denominado "App Multas", desenvolvido por SOLUÇÕES AZ DE TECNOLOGIA LTDA., CNPJ nº 42.328.820/0001-57, situada na Rua Quirino Luiz da Costa, nº 139, Bairro Estados Unidos, Uberaba/MG, CEP: 38.015-430.
+
+**Art. 2º** A alteração do código da aplicação do sistema, qualquer que seja a extensão da modificação, implica o cancelamento automático da homologação de que trata o art. 1º.
+
+**Art. 3º** O responsável pelo desenvolvimento do sistema informatizado do talão eletrônico deve comunicar à SENATRAN o fornecimento do sistema, informando o nome, CNPJ e endereço do órgão que o utilizará.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+CELSO MIZUNO

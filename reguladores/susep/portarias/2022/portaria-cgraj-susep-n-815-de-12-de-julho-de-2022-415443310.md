@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIA CGRAJ/SUSEP Nº 815, DE 12 de JUlHO DE 2022"
+orgao: "Ministério da Economia/Superintendência de Seguros Privados/Diretoria Técnica 1/Coordenação-Geral de Regimes Especiais, Autorizações e Julgamentos"
+tipo: "Portaria"
+numero: "815"
+data: 2022-07-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 15/07/2022, seção 1, p. 79"
+data_publicacao: 2022-07-15
+edicao: "133"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-cgraj/susep-n-815-de-12-de-julho-de-2022-415443310"
+sha256_html_fonte: a73c3761ba630f6fbd3e47e2e7e0c29eed4e5ba3c62371fe4742aa2b583d2a32
+baixado_em: 2026-10-20
+---
+# PORTARIA CGRAJ/SUSEP Nº 815, DE 12 de JUlHO DE 2022
+
+PORTARIA CGRAJ/SUSEP Nº 815, DE 12 de JUlHO DE 2022
+
+O COORDENADOR-GERAL DE REGIMES ESPECIAIS, AUTORIZAÇÕES E JULGAMENTOS DA SUPERINTENDÊNCIA DE SEGUROS PRIVADOS - SUSEP, no uso da competência subdelegada pelo Superintendente da Susep, por meio da Portaria nº 7.861, de 22 de setembro de 2021, tendo em vista o disposto na alínea 'a' do artigo 36 do Decreto-Lei nº 73, de 21 de novembro de 1966, com base na Resolução CNSP nº 381, de 4 de março de 2020, e o que consta do processo Susep nº 15414.611803/2022-13, resolve:
+
+**Art.1º** Homologar a reforma e consolidação do estatuto social de STONE SEGUROS S.A., CNPJ nº 39.876.083/0001-12, com sede na cidade de São Paulo - SP, conforme deliberado nas assembleias gerais ordinária e extraordinária realizadas cumulativamente em 29 de abril de 2022.
+
+**Art. 2º** Esta portaria entra em vigor na data de sua publicação.
+
+CARLOS AUGUSTO PINTO FILHO
