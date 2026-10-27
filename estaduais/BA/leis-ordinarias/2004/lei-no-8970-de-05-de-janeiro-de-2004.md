@@ -1,0 +1,159 @@
+---
+titulo: "Lei Ordinária nº 8970, de 05/01/2004"
+uf: "BA"
+tipo: "Lei Ordinária"
+numero: "8970"
+data: 2004-01-05
+ementa: "Modifica a estrutura organizacional e de cargos em comissão da Secretaria da Educação - SEC e dá outras providências."
+versao_texto: "texto do Portal de Legislação da Bahia"
+publicacao: ""
+fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-8970-de-05-de-janeiro-de-2004"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 8970, de 05/01/2004
+
+LEI Nº 8.970 DE 05 DE JANEIRO DE 2004
+
+Modifica a estrutura organizacional e de cargos em comissão da Secretaria da Educação - SEC e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** - A Secretaria da Educação - SEC, criada pela Lei nº 115, de 16 de agosto de 1895, reestruturada pelas Leis nº 6.074, de 22 de maio de 1991 , 6.812, de 18 de janeiro de 1995 , 7.028, de 31 de janeiro de 1997 , 7.435, de 30 de dezembro de 1998 , e modificada pela Lei nº 8.538, de 20 de dezembro de 2002 , tem por finalidade promover a execução da política de educação do Estado.
+
+**Art. 2º** - A SEC tem a seguinte estrutura básica:
+
+I - Órgão Colegiado:
+
+a) Conselho Estadual de Educação;
+
+II - Órgãos da Administração Direta:
+
+a) Gabinete do Secretário;
+
+b) Diretoria Geral;
+
+c) Coordenação de Projetos Especiais;
+
+d) Coordenação de Desenvolvimento de Educação Superior;
+
+e) Ouvidoria;
+
+f) Superintendência de Desenvolvimento da Educação Básica;
+
+g) Superintendência de Acompanhamento e Avaliação do Sistema Educacional;
+
+h) Superintendência de Organização e Atendimento da Rede Escolar;
+
+i) Superintendência de Recursos Humanos da Educação;
+
+j) Diretorias Regionais de Educação.
+
+III - Órgão em Regime Especial de Administração Direta:
+
+a) Instituto Anísio Teixeira.
+
+IV - Entidades da Administração Indireta:
+
+a) Universidade do Estado da Bahia - UNEB;
+
+b) Universidade Estadual de Feira de Santana - UEFS;
+
+c) Universidade Estadual do Sudoeste da Bahia - UESB;
+
+d) Universidade Estadual de Santa Cruz - UESC.
+
+**§ 1º** - A Coordenação de Projetos Especiais, anteriormente denominada de Coordenação de Projetos Educacionais, tem a finalidade de acompanhar a execução dos projetos de desenvolvimento da educação.
+
+**§ 2º** - A Coordenação de Desenvolvimento de Educação Superior tem por finalidade coordenar, desenvolver e avaliar as ações para a educação superior no Estado, bem como implementar ações para ampliar o acesso e permanência de alunos da rede pública de ensino na universidade.
+
+**§ 3º** - A Ouvidoria tem por finalidade receber e examinar denúncias, reclamações e sugestões dos cidadãos, relacionadas à atuação dos órgãos e entidades da educação.
+
+**§ 4º** - A Superintendência de Desenvolvimento da Educação Básica tem por finalidade planejar, coordenar e acompanhar o desenvolvimento do currículo da Educação Básica, bem como da Educação Profissional.
+
+**§ 5º** - A Superintendência de Acompanhamento e Avaliação do Sistema Educacional tem por finalidade formular as políticas e diretrizes educacionais, avaliar os seus resultados, bem como coordenar as unidades regionais e prestar assistência técnica aos Municípios.
+
+**§ 6º** - A Superintendência de Organização e Atendimento da Rede Escolar tem por finalidade planejar e coordenar ações que apóiem o funcionamento das unidades escolares do sistema de ensino, segundo normas gerais de organização e legalização, garantindo a base indispensável à manutenção do padrão de qualidade do trabalho pedagógico.
+
+**§ 7º** - A Superintendência de Recursos Humanos da Educação tem por finalidade planejar, coordenar, promover, supervisionar, controlar, executar e avaliar as atividades de recursos humanos na Secretaria da Educação, bem como garantir e aprimorar o padrão de qualidade dos serviços do pessoal da Rede Estadual de Ensino Público, em consonância com o Órgão Central do Sistema Estadual de Administração.
+
+**Art. 3º** - Ficam extintos, na estrutura de cargos em comissão da Secretaria da Educação, 05 (cinco) cargos de Diretor, símbolo DAS-2D, 36 (trinta e seis) cargos de Inspetor do Sistema Educacional, símbolo DAI-4, 02 (dois) cargos de Oficial de Gabinete, símbolo DAI-5, 03 (três) cargos de Secretário de Câmara, símbolo DAI-5, 03 (três) cargos de Secretário de Comissão, símbolo DAI-5, 25 (vinte e cinco) cargos de Secretário Administrativo II, símbolo DAI-6.
+
+**Art. 4º** - Ficam criados, na estrutura de cargos em comissão da Secretaria da Educação, 01 (um) cargo de Coordenador Executivo, símbolo DAS-2B, 02 (dois) cargos de Assessor Especial, símbolo DAS-2C, 07 (sete) cargos de Diretor, símbolo DAS-2C, 14 (quatorze) cargos de Coordenador Técnico, símbolo DAS-2D, 05 (cinco) cargos de Coordenador II, símbolo DAS-3, 01 (um) cargo de Assistente Orçamentário, símbolo DAI-4, 07 (sete) cargos de Coordenador III, símbolo DAI-4, 02 (dois) cargos de Inspetor da Rede Física, símbolo DAI-4, 03 (três) cargos de Secretário de Câmara, símbolo DAI-4, 03 (três) cargos de Secretário de Comissão, símbolo DAI-04, 03 (três) cargos de Coordenador IV, símbolo DAI-5, e 17 (dezessete) cargos de Secretário Administrativo I, símbolo DAI-5.
+
+**Art. 5º** - Os cargos em comissão da Secretaria da Educação são os constantes do Anexo Único que integra esta Lei.
+
+**Art. 6º** - Fica o Poder Executivo autorizado a promover, no prazo de 90 (noventa) dias, os atos necessários:
+
+I - à revisão dos regimentos e outros instrumentos regulamentares, para adequação às alterações organizacionais decorrentes desta Lei;
+
+II - às modificações orçamentárias que se fizerem necessárias ao cumprimento do disposto nesta Lei, respeitados os valores globais constantes do orçamento vigente.
+
+**Art. 7º** - Esta Lei entrará em vigor na data de sua publicação.
+
+**Art. 8º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 05 de janeiro de 2004.
+
+PAULO SOUTO
+
+Governador
+
+Ruy Tourinho
+
+Secretário de Governo
+
+Anaci Bispo Paim
+
+Secretária da Educação
+
+Marcelo Barros
+
+Secretário da Administração
+
+ANEXO ÚNICO
+
+CARGOS EM COMISSÃO DA SECRETARIA DA EDUCAÇÃO
+
+| CARGO | SÍMBOLO | QUANTIDADE |
+| --- | --- | --- |
+| Chefe de Gabinete | DAS-2A | 01 |
+| Superintendente | DAS-2A | 04 |
+| Diretor Geral | DAS-2B | 02 |
+| Coordenador Executivo | DAS-2B | 02 |
+| Assessor Especial | DAS-2C | 05 |
+| Diretor | DAS-2C | 13 |
+| Coordenador I | DAS-2C | 11 |
+| Diretor Assistente de Conselho | DAS-2C | 01 |
+| Diretor | DAS-2D | 34 |
+| Coordenador Técnico | DAS-2D | 31 |
+| Assessor Técnico | DAS-3 | 14 |
+| Assessor de Comunicação Social I | DAS-3 | 01 |
+| Secretário de Gabinete | DAS-3 | 01 |
+| Coordenador II | DAS-3 | 142 |
+| Coordenador III | DAI-4 | 125 |
+| Assistente Orçamentário | DAI-4 | 04 |
+| Assessor Administrativo | DAI-4 | 04 |
+| Inspetor do Sistema Educacional | DAI-4 | 80 |
+| Inspetor da Rede Física | DAI-4 | 32 |
+| Secretário de Câmara | DAI-4 | 03 |
+| Secretário de Comissão | DAI-4 | 03 |
+| Oficial de Gabinete | DAI-5 | 03 |
+| Coordenador IV | DAI-5 | 133 |
+| Secretário Administrativo I | DAI-5 | 28 |
+| Coordenador de Educação Estadual | DAI-5 | 384 |
+| Secretário Administrativo II | DAI-6 | 55 |
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

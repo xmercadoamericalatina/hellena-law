@@ -1,0 +1,42 @@
+---
+titulo: "LEI Nº 18.197, DE 31 DE AGOSTO DE 2022 (D.O 31.08.22)"
+uf: "CE"
+tipo: "Lei Ordinária"
+numero: "18.197"
+data: 2022-08-31
+ementa: "ALTERA A LEI N.º 17.860, DE 29 DE DEZEMBRO DE 2021 , QUE ESTIMA A RECEITA E FIXA A DESPESA DO ESTADO PARA O EXERCÍCIO FINANCEIRO DE 2022."
+versao_texto: "texto do BELT (Assembleia Legislativa)"
+fonte: "https://belt.al.ce.gov.br/index.php?option=com_k2&view=item&id=7974"
+baixado_em: 2026-10-13
+---
+# LEI Nº 18.197, DE 31 DE AGOSTO DE 2022 (D.O 31.08.22)
+
+**LEI Nº 18.197, DE 31 DE AGOSTO DE 2022 (D.O 31.08.22)**
+
+**ALTERA A LEI N.º 17.860, DE 29 DE DEZEMBRO DE 2021, QUE ESTIMA A RECEITA E FIXA A DESPESA DO ESTADO PARA O EXERCÍCIO FINANCEIRO DE 2022.**
+
+**A GOVERNADORA DO ESTADO DO CEARÁ.**
+
+**Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:**
+
+**Art. 1.º** O art. 7.º da Lei n.º 17.860, de 29 de dezembro de 2021, passa a vigorar alterado na redação do *caput* e acrescido do inciso VII ao seu parágrafo único, observada a seguinte redação:
+
+“Art. 7.º Fica o Chefe do Poder Executivo autorizado a abrir créditos suplementares, até o limite de 32% (trinta e dois por cento) do total da despesa fixada nesta Lei, com a finalidade de atender insuficiências nas dotações orçamentárias consignadas nos grupos de despesas de cada categoria de programação, com recursos provenientes de:
+
+...........................................................................................................................
+
+**Parágrafo único.** Não são computados no limite estabelecido no *caput*:
+
+...............................................................................................
+
+VII – as suplementações de dotações orçamentárias financiadas com recursos de precatórios do Fundef, decorrentes de recursos extraordinários de decisão judicial, provenientes da Lei n.° 14.325, de 12 de abril de 2022.” (NR)
+
+**Art. 2.º** Esta Lei entra em vigor na data de sua publicação.
+
+**Art. 3.º** Revogam-se as disposições em contrário.
+
+**PALÁCIO DA ABOLIÇÃO, DO GOVERNO DO ESTADO DO CEARÁ**, em Fortaleza, 31 de agosto de 2022.
+
+**Maria Izolda Cela de Arruda Coelho GOVERNADORA DO ESTADO**
+
+Autoria: Poder Executivo

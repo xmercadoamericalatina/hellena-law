@@ -1,0 +1,123 @@
+---
+titulo: "Lei Ordinária nº 9208, de 01/09/2004"
+uf: "BA"
+tipo: "Lei Ordinária"
+numero: "9208"
+data: 2004-09-01
+ementa: "Altera dispositivos da Lei nº 6.962, de 15 de julho de 1996 , e a estrutura de cargos em comissão da Junta Comercial do Estado da Bahia - JUCEB, e dá outras providências."
+versao_texto: "texto do Portal de Legislação da Bahia"
+publicacao: ""
+fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-9208-de-01-de-setembro-de-2004"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 9208, de 01/09/2004
+
+LEI Nº 9.208 DE 01 DE SETEMBRO DE 2004
+
+Altera dispositivos da Lei nº 6.962, de 15 de julho de 1996 , e a estrutura de cargos em comissão da Junta Comercial do Estado da Bahia - JUCEB, e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** - O art. 5º da Lei nº 6.962, de 15 de julho de 1996 , que reorganiza a Junta Comercial do Estado da Bahia - JUCEB, passa a ter a seguinte redação:
+
+**Art. 5º** - A Presidência, com função diretiva e representativa, exercida pelo Presidente, é constituída por um conjunto de órgãos de planejamento, assessoramento, execução, avaliação e controle, tendo a seguinte organização:
+
+I - Vice-Presidência;
+
+II - Procuradoria Jurídica;
+
+III - Assessoria Técnica;
+
+IV - Ouvidoria;
+
+V - Secretaria-Geral.
+
+**§ 1º** - A Presidência tem por finalidade dirigir e representar legalmente a Junta Comercial do Estado da Bahia.
+
+**§ 2º** - A Vice-Presidência tem por finalidade prestar assistência ao Presidente no desempenho de suas atribuições.
+
+**§ 3º** - A Procuradoria Jurídica tem por finalidade exercer a representação judicial e extrajudicial, a consultoria e o assessoramento jurídico à JUCEB, mediante vinculação técnica à Procuradoria Geral do Estado, de acordo com a legislação das Procuradorias Jurídicas das Autarquias e Fundações do Estado da Bahia.
+
+**§ 4º** - A Assessoria Técnica tem por finalidade desenvolver estudos e realizar o planejamento, a programação orçamentária, o acompanhamento, a avaliação e o controle, bem como as atividades de desenvolvimento de recursos humanos, processo de gestão da qualidade e a modernização administrativa, no âmbito da referida Entidade.
+
+**§ 5º** - A Ouvidoria tem por finalidade receber, encaminhar, acompanhar e processar as denúncias, reclamações e sugestões dos usuários relacionados com os serviços prestados pela JUCEB.
+
+**§ 6º** - A Secretaria Geral tem por finalidade coordenar, supervisionar e fiscalizar a execução do registro e da administração da JUCEB.
+
+**§ 7º** - A fixação da estrutura interna de cada Unidade integrante da Presidência, bem como suas competências e atribuições dos seus respectivos titulares serão estabelecidas em Regimento a ser aprovado pelo Plenário e homologado pelo Governador do Estado.
+
+**Art. 2º** - Ficam criados, na estrutura de cargos em comissão da JUCEB, 01 (um) cargo de Ouvidor, símbolo DAS-2C, 01 (um) cargo de Coordenador Técnico, símbolo DAS-2D, e 01 (um) cargo de Coordenador III, símbolo DAI-4.
+
+**Art. 3º** - Ficam extintos, na estrutura de cargos em comissão da JUCEB, 01 (um) cargo de Gerente, símbolo DAS-3, e 01 (um) cargo de Coordenador IV, símbolo DAI-5.
+
+**Art. 4º** - O quadro de cargos em comissão da Junta Comercial do Estado da Bahia, constante do Anexo Único da Lei nº 6.962, de 15 de julho de 1996 , passa a vigorar na forma do Anexo Único desta Lei.
+
+**Art. 5º** - Fica o Poder Executivo autorizado a promover, no prazo de 90 (noventa) dias, os atos necessários:
+
+I - à revisão do Regimento da JUCEB, para a adequação às alterações organizacionais decorrentes desta Lei;
+
+II - às modificações orçamentárias que se fizerem necessárias ao cumprimento do disposto nesta Lei, respeitando os valores globais constantes do orçamento vigente.
+
+**Art. 6º** - Esta Lei entrará em vigor na data de sua publicação.
+
+**Art. 7º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 01 de setembro de 2004.
+
+PAULO SOUTO
+
+Governador
+
+Ruy Tourinho
+
+Secretário de Governo
+
+Otto Alencar
+
+Secretário da Indústria, Comércio e Mineração
+
+Marcelo Barros
+
+Secretário da Administração
+
+ANEXO ÚNICO
+
+QUADRO DE CARGOS EM COMISSÃO DA
+
+JUNTA COMERCIAL DO ESTADO DA BAHIA - JUCEB
+
+| CARGO | SÍMBOLO | QUANTIDADE |
+| --- | --- | --- |
+| Presidente | DAS-2A | 01 |
+| Vice-Presidente | DAS-2B | 01 |
+| Secretário Geral | DAS-2C | 01 |
+| Diretor | DAS-2C | 02 |
+| Procurador Chefe | DAS-2C | 01 |
+| Assessor Chefe | DAS-2C | 01 |
+| Ouvidor | DAS-2C | 01 |
+| Coordenador Técnico | DAS-2D | 01 |
+| Assessor Técnico | DAS-3 | 03 |
+| Coordenador II | DAS-3 | 03 |
+| Gerente | DAS-3 | 03 |
+| Assessor Administrativo | DAI-4 | 04 |
+| Coordenador III | DAI-4 | 03 |
+| Secretário Administrativo I | DAI-5 | 07 |
+| Coordenador IV | DAI-5 | 11 |
+| Supervisor Regional | DAI-5 | 15 |
+| Secretário Administrativo II | DAI-6 | 04 |
+| Coordenador V | DAI-6 | 06 |
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

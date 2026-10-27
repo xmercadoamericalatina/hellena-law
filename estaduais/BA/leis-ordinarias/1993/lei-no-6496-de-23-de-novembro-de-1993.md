@@ -1,0 +1,48 @@
+---
+titulo: "Lei Ordinária nº 6496, de 23/11/1993"
+uf: "BA"
+tipo: "Lei Ordinária"
+numero: "6496"
+data: 1993-11-23
+ementa: "Declara de utilidade pública a ASSO-CIAÇÃO DE MORADORES DA COMU-NIDADE DE SÃO FRANCISCO, com sede e foro na Cidade de Santo Antonio de Jesus."
+versao_texto: "texto do Portal de Legislação da Bahia"
+publicacao: ""
+fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-6496-de-23-de-novembro-de-1993"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 6496, de 23/11/1993
+
+O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA PROMULGA E FAZ PUBLICAR, NOS TERMOS DO PARÁGRAFO 7º, DO ARTIGO 80, DA CONSTITUIÇÃO DO ESTADO DA BAHIA , A SEGUINTE:
+
+LEI Nº 6.496 DE 23 DE NOVEMBRO DE 1993
+
+Declara de utilidade pública a ASSO-CIAÇÃO DE MORADORES DA COMU-NIDADE DE SÃO FRANCISCO, com sede e foro na Cidade de Santo Antonio de Jesus.
+
+A ASSEMBLÉIA LEGISLATIVA
+
+DECRETA:
+
+**Art. 1º** - Fica declarada de utilidade pública a ASSOCIAÇÃO DE MORADORES DA COMUNIDADE DE SÃO FRANCISCO, com sede e foro na Cidade de Santo Antonio de Jesus.
+
+**Art. 2º** - Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+GABINETE DA PRESIDÊNCIA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA, EM 23 DE NOVEMBRO DE 1993.
+
+Deputado ANTONIO IMBASSAHY
+
+Presidente
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

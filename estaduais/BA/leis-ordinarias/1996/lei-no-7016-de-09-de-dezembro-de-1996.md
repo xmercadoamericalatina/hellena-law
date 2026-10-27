@@ -1,0 +1,112 @@
+---
+titulo: "Lei Ordinária nº 7016, de 09/12/1996"
+uf: "BA"
+tipo: "Lei Ordinária"
+numero: "7016"
+data: 1996-12-09
+ementa: "Reorganiza o Conselho Estadual de Cultura, altera a estrutura do Arquivo Público do Estado da Bahia, e dá outras providências."
+versao_texto: "texto do Portal de Legislação da Bahia"
+publicacao: ""
+fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-7016-de-09-de-dezembro-de-1996"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 7016, de 09/12/1996
+
+LEI Nº 7.016 DE 09 DE DEZEMBRO DE 1996
+
+Reorganiza o Conselho Estadual de Cultura, altera a estrutura do Arquivo Público do Estado da Bahia, e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** - O Conselho Estadual de Cultura, órgão colegiado integrante da Secretaria da Cultura e Turismo, com sede nesta Capital e jurisdição em todo o território estadual, tem por finalidade, nos termos do art. 272, da Constituição do Estado , formular a política estadual de cultura, exercendo funções normativas e consultivas.
+
+**Art. 2º** - O Conselho Estadual de Cultura compõe-se de 20 (vinte) membros, nomeados pelo Governador do Estado, previamente aprovados pelo Poder Legislativo, escolhidos dentre personalidades eminentes da cultura, de reconhecida idoneidade, residentes no Estado da Bahia, assegurada a participação majoritária da sociedade civil.
+
+**Parágrafo único** - Atendidos os requisitos de qualificação exigidos para os titulares, o Governador poderá nomear 10 (dez) Conselheiros Suplentes, que serão convocados para substituir aqueles que se licenciarem ou estiverem impedidos, e sucedê-los, em caso de vacância.
+
+**Art. 3º** - Compete ao Conselho Estadual de Cultura:
+
+I - apreciar o Plano Estadual de Cultura;
+
+II - elaborar e alterar o seu Regimento Interno, a ser aprovado pelo Governador do Estado;
+
+III - emitir parecer sobre programas culturais de organismos do Estado;
+
+IV - emitir parecer sobre pedidos de apoio cultural dirigidos a órgãos e entidades do Estado e sobre a aquisição, por parte destes, de obras de natureza cultural;
+
+V - propor aos Poderes Públicos medidas de estímulo, amparo, valorização e difusão da cultura, bem como de proteção dos bens culturais do Estado;
+
+VI - propor a instituição de prêmios e a sua concessão para fins de estímulo às atividades culturais;
+
+VII - pronunciar-se sobre a desapropriação de bens culturais que devem ficar sob a administração direta ou indireta do Estado;
+
+VIII - pronunciar-se sobre o inventário, restauração, proteção e tombamento dos bens culturais, bem como das reservas ecológicas e paisagísticas notáveis;
+
+IX - opinar sobre a organização e realização de campanhas estaduais que visem ao desenvolvimento cultural;
+
+X - manter intercâmbio com os Conselhos de Cultura e com instituições culturais públicas e privadas, bem como celebrar convênios com as referidas entidades;
+
+XI - manter articulação com órgãos federais, estaduais e municipais, universidades, institutos de educação superior e outras instituições culturais, com o fim de assegurar a coordenação e elaboração de programas e projetos;
+
+XII - submeter ao Governador do Estado, através da Secretaria da Cultura e Turismo, em prazo hábil, planos de auxílio ou de subvenção a instituições culturais públicas e particulares;
+
+XIII - exercer outras atividades correlatas.
+
+**Parágrafo único** - Os atos e resoluções aprovados em Plenário que fixem doutrinas, normas de ordem geral e obrigações para o Poder Público, deverão ser homologados pelo Secretário da Cultura e Turismo.
+
+**Art. 4º** - O Conselho Estadual de Cultura funcionará em Plenário, Câmaras e Comissões.
+
+**Art. 5º** - O Conselheiro será nomeado para mandato a expirar-se no término do quadriênio governamental em que tiver sido nomeado, prorrogável automaticamente até a posse do seu substituto.
+
+**Art. 6º** - O Conselheiro terá direito, na forma da legislação pertinente, à gratificação de presença pelo comparecimento às reuniões ordinárias e extraordinárias do Plenário, Câmaras e Comissões, obedecido o limite máximo de 08 (oito) por mês.
+
+**Parágrafo único** - Quando residir no interior do Estado e se deslocar para as reuniões realizadas na Capital, ou ainda quando em viagem a serviço do Órgão, o Conselheiro fará jus à percepção de diárias.
+
+**Art. 7º** - As normas de funcionamento e administração do Conselho, bem como as atribuições dos seus membros, serão definidas em Regimento Interno.
+
+**Art. 8º** - O quadro de cargos em comissão do Conselho Estadual de Cultura passa a ser o constante do Anexo Único desta Lei.
+
+**Art. 9º** - O quadro de cargos em comissão do Arquivo Público do Estado da Bahia, órgão em regime especial de administração direta, integrante da Secretaria da Cultura e Turismo, fica acrescido de 1 (um) cargo de Gerente, símbolo DAS-3, 2 (dois) de Assessor Administrativo, símbolo DAI-4, 3 (três) de Chefe de Seção, símbolo DAI-5 e 1 (um) de Secretário Administrativo II, símbolo DAI-6, destinados a atender à expansão dos serviços a cargo do Órgão.
+
+**Art. 10** - Fica alterado para 150% (cento e cinqüenta por cento) o limite máximo da Gratificação de Função Artística, instituído pelo art. 6º, da Lei nº 5.831, de 12 de julho de 1990 .
+
+**Art. 11** - O Poder Executivo fica autorizado a efetivar as modificações orçamentárias necessárias ao cumprimento desta Lei.
+
+**Art. 12** - Esta Lei entrará em vigor na data de sua publicação, revogados os dispositivos da Lei Delegada nº 51, de 31 de maio de 1983 e demais disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 09 de dezembro de 1996.
+
+PAULO SOUTO
+
+Governador
+
+Paulo Renato Dantas Gauzenzi
+
+Secretário da Cultura e Turismo
+
+Sérgio Augusto Martins Moysés
+
+Secretário da Administração
+
+| ANEXO ÚNICO QUADRO DE CARGOS EM COMISSÃO DO CONSELHO ESTADUAL DE CULTURA |  |  |
+| --- | --- | --- |
+| DENOMINAÇÃO | SÍMBOLO | QUANTIDADE |
+| Assistente de Conselho | DAS-3 | 01 |
+| Secretário de Câmara e Comissão | DAI-5 | 05 |
+| Chefe de Seção | DAI-5 | 05 |
+| Secretário Administrativo II | DAI-6 | 05 |
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

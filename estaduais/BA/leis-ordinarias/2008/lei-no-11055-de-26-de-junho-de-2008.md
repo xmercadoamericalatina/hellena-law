@@ -1,0 +1,201 @@
+---
+titulo: "Lei Ordinária nº 11055, de 26/06/2008"
+uf: "BA"
+tipo: "Lei Ordinária"
+numero: "11055"
+data: 2008-06-26
+ementa: "Altera a estrutura organizacional e de cargos em comissão da Secretaria da Saúde do Estado da Bahia - SESAB e dá outras providências."
+versao_texto: "texto do Portal de Legislação da Bahia"
+publicacao: ""
+fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-11055-de-26-de-junho-de-2008"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 11055, de 26/06/2008
+
+LEI Nº 11.055 DE 26 DE JUNHO DE 2008
+
+Altera a estrutura organizacional e de cargos em comissão da Secretaria da Saúde do Estado da Bahia - SESAB e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** - A Secretaria da Saúde do Estado da Bahia - SESAB, criada pela Lei nº 2.321, de 11 de abril de 1966, e modificada pelas Leis nos 7.435, de 30 de dezembro de 1998, 8.888, de 24 de novembro de 2003, 9.831, de 01 de dezembro de 2005, e 10.955, de 21 de dezembro de 2007, tem por finalidade a formulação da política estadual de saúde, a gestão do Sistema Estadual de Saúde e a execução de ações e serviços para promoção, proteção e recuperação da saúde, em consonância com as disposições da Lei Federal nº 8.080, de 19 de setembro de 1990, que constitui o Sistema Único de Saúde - SUS.
+
+**Art. 2º** - A SESAB tem a seguinte estrutura básica:
+
+I - Órgãos Colegiados:
+
+a) Conselho Estadual de Saúde - CES/BA;
+
+b) Comissão Intergestores Bipartite;
+
+c) Conselho Superior de Recurso;
+
+d) Comitê Gestor Estratégico.
+
+II - Órgãos da Administração Direta:
+
+a) Gabinete do Secretário;
+
+b) Assessoria de Comunicação Social;
+
+c) Auditoria do SUS/BA;
+
+d) Ouvidoria do SUS/BA;
+
+e) Coordenação de Projetos Especiais;
+
+f) Coordenação de Controle Interno;
+
+g) Superintendência de Vigilância e Proteção à Saúde;
+
+h) Superintendência de Recursos Humanos da Saúde;
+
+i) Superintendência de Gestão dos Sistemas de Regulação da Atenção à Saúde;
+
+j) Superintendência de Assistência Farmacêutica, Ciência e Tecnologia em Saúde;
+
+k) Superintendência de Atenção Integral à Saúde;
+
+l) Diretoria Geral;
+
+m) Diretoria Executiva do Fundo Estadual de Saúde - FES/BA;
+
+n) Diretorias Regionais de Saúde.
+
+III - Entidade da Administração Indireta:
+
+a) Fundação de Hematologia e Hemoterapia da Bahia - HEMOBA.
+
+**§ 1º** - O Conselho Estadual de Saúde, órgão deliberativo e fiscalizador, tem por finalidade atuar na formulação de propostas, estratégias e no controle da execução da política estadual de saúde, inclusive nos aspectos orçamentários e financeiros.
+
+**§ 2º** - A Comissão Intergestores Bipartite tem por finalidade negociar e decidir quanto aos aspectos operacionais do SUS/BA.
+
+**§ 3º** - O Conselho Superior de Recurso tem por finalidade analisar os recursos encaminhados à SESAB, por pessoa física ou jurídica, relativos às medidas adotadas pela Auditoria do SUS-BA e Superintendência de Vigilância e Proteção à Saúde, no que se refere às atividades de vigilância sanitária e ambiental, vigilância epidemiológica e vigilância e atenção à saúde do trabalhador.
+
+**§ 4º** - O Comitê Gestor Estratégico tem por finalidade analisar e aprovar as diretrizes de programação para as unidades da Secretaria, compatibilizando-as e integrando-as em seu âmbito, e em relação às ações governamentais na área de saúde.
+
+**§ 5º** - O Gabinete do Secretário tem por finalidade prestar assistência ao Secretário em suas tarefas técnicas e administrativas, exercendo a competência relativa à sua representação social e política, ao preparo e encaminhamento do expediente, à coordenação do planejamento estratégico e do fluxo de informações e às relações públicas de interesse da Secretaria.
+
+**§ 6º** - A Assessoria de Comunicação Social tem por finalidade desenvolver as atividades de assessoria de comunicação social, no âmbito da SESAB, executadas na forma prevista em lei e em articulação com a Assessoria Geral de Comunicação Social da Casa Civil.
+
+**§ 7º** - A Auditoria do SUS/BA, componente estadual do Sistema Nacional de Auditoria do SUS, tem por finalidade promover a fiscalização técnico-científica, contábil, financeira e patrimonial das ações e dos serviços de saúde do Sistema Único de Saúde - SUS/BA.
+
+**§ 8º** - A Ouvidoria do SUS/BA, vinculada tecnicamente à Ouvidoria Geral do Estado e administrativamente à SESAB, tem por finalidade receber, examinar e encaminhar denúncias e sugestões dos cidadãos relativas à prestação de serviços do SUS/BA, bem como representações contra o exercício negligente ou abusivo de cargos e funções da Administração Pública Estadual, na área da saúde, em articulação com o Departamento de Ouvidoria Geral do SUS/Ministério da Saúde, na forma prevista em lei.
+
+**§ 9º** - A Coordenação de Projetos Especiais tem por finalidade elaborar e analisar os projetos especiais de saúde, coordenando a sua implementação, de forma a contribuir com a melhoria dos indicadores de saúde no Estado da Bahia.
+
+**§ 10** - A Coordenação de Controle Interno tem por finalidade desempenhar as funções de acompanhamento, controle e fiscalização da execução orçamentária e financeira e patrimonial, em estreita articulação com o Órgão estadual de controle interno.
+
+Redação de acordo com o art. 35 da Lei nº 11.373, de 05 de fevereiro de 2009.  
+Redação original: "§ 10 - A Coordenação de Controle Interno, unidade sistêmica, subordinada administrativamente ao Secretário e tecnicamente à Controladoria Geral do Estado, tem por finalidade executar as atividades de controle interno, no âmbito de sua atuação, em cumprimento às diretrizes da Controladoria Geral do Estado."
+
+**§ 11** - A Superintendência de Vigilância e Proteção à Saúde tem por finalidade propor e implementar políticas públicas relativas à promoção, vigilância e proteção à saúde, assim como à prevenção e ao controle de doenças e agravos.
+
+**§ 12** - A Superintendência de Recursos Humanos da Saúde tem por finalidade planejar, coordenar, supervisionar e executar políticas de desenvolvimento de recursos humanos, de gestão do trabalho e da educação na saúde, bem como as atividades de administração de recursos humanos.
+
+**§ 13** - A Superintendência de Gestão dos Sistemas de Regulação da Atenção à Saúde tem por finalidade a gestão de ações estratégicas voltadas para a regulação da assistência à saúde.
+
+**§ 14** - A Superintendência de Assistência Farmacêutica, Ciência e Tecnologia em Saúde tem por finalidade planejar, propor e implementar políticas públicas relativas à assistência farmacêutica, ciência e tecnologia em saúde.
+
+**§ 15** - A Superintendência de Atenção Integral à Saúde tem por finalidade a formulação, o apoio e o acompanhamento da implementação da Política de Atenção à Saúde no Estado da Bahia, bem como gerenciar, controlar e avaliar as unidades de saúde, sob administração direta e indireta, inclusive monitorar o desenvolvimento dos sistemas municipais de saúde.
+
+Redação de acordo com o art. 35 da Lei nº 11.373, de 05 de fevereiro de 2009.  
+Redação original: "§ 10 - A Coordenação de Controle Interno, unidade sistêmica, subordinada administrativamente ao Secretário e tecnicamente à Controladoria Geral do Estado, tem por finalidade executar as atividades de controle interno, no âmbito de sua atuação, em cumprimento às diretrizes da Controladoria Geral do Estado."
+
+**§ 16** - A Diretoria Executiva do Fundo Estadual de Saúde tem por finalidade gerir os recursos do Fundo Estadual de Saúde ? FES/BA, bem como executar as atividades de administração financeira e contábil, de programação, orçamentação, acompanhamento, avaliação, estudos e análises, em estreita articulação com os Sistemas Financeiro e de Contabilidade do Estado e Estadual de Planejamento.
+
+Redação de acordo com o art. 35 da Lei nº 11.373, de 05 de fevereiro de 2009.  
+Redação original: "§ 16 - A Diretoria Executiva do Fundo Estadual de Saúde tem por finalidade gerir os recursos do Fundo Estadual de Saúde - FES/BA executando as atividades de administração financeira e de contabilidade, de planejamento, programação, orçamentação, acompanhamento e avaliação de estudos e análises na aplicação dos recursos do FES/BA, em estreita articulação com os Sistemas Estadual de Planejamento e Financeiro e de Contabilidade do Estado."
+
+**§ 17** - A Diretoria Geral tem por finalidade executar as atividades de administração de material, patrimônio, serviços, modernização administrativa e informática, bem como das licitações e contratos, em estreita articulação com as unidades centrais dos Sistemas Estadual de Administração e de Gestão de Tecnologia de Informação e Comunicação do Estado da Bahia.
+
+Redação de acordo com o art. 35 da Lei nº 11.373, de 05 de fevereiro de 2009.  
+Redação original: "§ 17 - A Diretoria Geral tem por finalidade coordenar os sistemas formalmente instituídos, na sua área de atuação, executar as atividades de execução orçamentária, de administração financeira, de contabilidade, de recursos logísticos, de contratos e convênios, bem como acompanhar e subsidiar os processos licitatórios."
+
+**§ 18** - As Diretorias Regionais de Saúde têm por finalidade atender a descentralização de responsabilidades administrativas e delegação de atividades de gestão junto às instâncias municipais.
+
+**§ 19** - A Comissão Intergestores Bipartite, o Conselho Superior de Recurso e o Comitê Gestor Estratégico terão sua composição e competências definidas no Regimento da Secretaria da Saúde, aprovado por Decreto do Governador do Estado.
+
+**Art. 3º** - O Conselho Estadual de Saúde - CES/BA tem sua composição definida em lei específica.
+
+**Art. 4º** - A Fundação de Hematologia e Hemoterapia da Bahia ? HEMOBA, cujas competências e estrutura são definidas em lei específica, tem por finalidade coordenar a execução da Política Nacional de Sangue, no âmbito do Estado da Bahia.
+
+**Art. 5º** - Fica alterado o quadro de cargos em comissão da Secretaria da Saúde do Estado da Bahia, nos termos do Anexo Único desta Lei.
+
+**Art. 6º** - Fica o Poder Executivo autorizado a promover, no prazo de 120 (cento e vinte) dias, os atos necessários:
+
+I - à revisão do Regimento da SESAB e outros instrumentos regulamentares, para adequação às alterações organizacionais decorrentes desta Lei;
+
+II - às modificações orçamentárias que se fizerem necessárias ao cumprimento do disposto nesta Lei, respeitados os valores globais constantes do orçamento vigente.
+
+**Art. 7º** - Esta Lei entrará em vigor na data de sua publicação.
+
+**Art. 8º** - Revogam-se as disposições em contrário, especialmente a Lei nº 9.831 , de 01 de dezembro de 2005.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 26 de junho de 2008.
+
+JAQUES WAGNER
+
+Governador
+
+Eva Maria Cella Dal Chiavon
+
+Secretária da Casa Civil
+
+Jorge José Santos Pereira Solla
+
+Secretário da Saúde
+
+Manoel Vitório da Silva Filho
+
+Secretário da Administração
+
+ANEXO ÚNICO
+
+QUADRO DE CARGOS EM COMISSÃO DA SECRETARIA DA SAÚDE ? SESAB
+
+| CARGO | SÍMBOLO | QUANTIDADE |
+| --- | --- | --- |
+| Subsecretário | DAS-1 | 01 |
+| Chefe de Gabinete | DAS-2A | 01 |
+| Superintendente | DAS-2A | 05 |
+| Diretor Geral | DAS-2B | 01 |
+| Diretor | DAS-2B | 05 |
+| Diretor | DAS-2C | 37 |
+| Assessor Especial | DAS-2C | 05 |
+| Assessor de Comunicação Social | DAS-2C | 01 |
+| Coordenador I | DAS-2C | 03 |
+| Diretor Adjunto | DAS-2C | 01 |
+| Diretor | DAS-2D | 64 |
+| Coordenador Técnico | DAS-2D | 08 |
+| Diretor | DAS-3 | 07 |
+| Coordenador II | DAS-3 | 224 |
+| Assessor Técnico | DAS-3 | 39 |
+| Assessor de Comunicação Social I | DAS-3 | 01 |
+| Secretário de Gabinete | DAS-3 | 02 |
+| Assistente de Conselho I | DAS-3 | 03 |
+| Assistente de Conselho II | DAI-4 | 01 |
+| Coordenador III | DAI-4 | 347 |
+| Assistente Orçamentário | DAI-4 | 07 |
+| Assistente Administrativo | DAI-4 | 21 |
+| Oficial de Gabinete | DAI-5 | 02 |
+| Coordenador IV | DAI-5 | 520 |
+| Assistente de Execução Orçamentária | DAI-5 | 10 |
+| Secretário Administrativo I | DAI-5 | 49 |
+| Secretário Administrativo II | DAI-6 | 69 |
+| Coordenador V | DAI-6 | 136 |
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

@@ -1,0 +1,139 @@
+---
+titulo: "Lei Ordinária nº 8897, de 17/12/2003"
+uf: "BA"
+tipo: "Lei Ordinária"
+numero: "8897"
+data: 2003-12-17
+ementa: "Cria a Secretaria de Ciência, Tecnologia e Inovação - SECTI, introduz modificações na estrutura da Administração Pública Estadual e dá outras providências."
+versao_texto: "texto do Portal de Legislação da Bahia"
+publicacao: ""
+fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-8897-de-17-de-dezembro-de-2003"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 8897, de 17/12/2003
+
+LEI Nº 8.897 DE 17 DE DEZEMBRO DE 2003
+
+Cria a Secretaria de Ciência, Tecnologia e Inovação - SECTI, introduz modificações na estrutura da Administração Pública Estadual e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** - Fica criada a Secretaria de Ciência, Tecnologia e Inovação - SECTI, com a finalidade de executar as funções de coordenação, direção, formulação e implantação da política estadual de desenvolvimento científico, tecnológico e de inovação, tendo a seguinte estrutura básica:
+
+I - Órgão Colegiado:
+
+a) Conselho Estadual de Ciência e Tecnologia.
+
+II - Órgãos da Administração Direta:
+
+a) Gabinete do Secretário;
+
+b) Diretoria Geral;
+
+c) Coordenação de Projetos Especiais;
+
+d) Superintendência de Desenvolvimento da Base Científica;
+
+e) Superintendência de Tecnologia e Inovação.
+
+III - Entidade da Administração Indireta:
+
+a) Fundação de Amparo à Pesquisa do Estado da Bahia - FAPESB.
+
+**§ 1º** - O Conselho Estadual de Ciência e Tecnologia, presidido pelo Governador do Estado, tem por finalidade definir e traçar as diretrizes para a formulação e implementação da política estadual de ciência e tecnologia, tendo sua composição, estrutura e funcionamento estabelecidos no respectivo regimento, aprovado por Decreto do Governador do Estado.
+
+**§ 2º** - O Gabinete do Secretário tem por finalidade assistir ao titular da Pasta em suas tarefas técnicas e administrativas, exercendo a competência relativa à sua representação social e política, ao preparo e encaminhamento do expediente, à coordenação do fluxo de informações e às relações públicas da Secretaria.
+
+**§ 3º** - A Diretoria Geral tem por finalidade a coordenação dos órgãos setoriais e seccionais dos sistemas formalmente instituídos, responsáveis pela execução das atividades de programação, orçamentação, acompanhamento, avaliação, estudos e análises, administração financeira e de contabilidade, material, patrimônio, serviços, recursos humanos, modernização administrativa e informática.
+
+§ 4º- A Coordenação de Projetos Especiais tem por finalidade planejar, programar e monitorar a implantação e implementação de projetos especiais nas áreas de ciência, tecnologia e inovação.
+
+**§ 5º** - A Superintendência de Desenvolvimento da Base Científica tem por finalidade assessorar o Secretário na implementação e gestão da política de fortalecimento das instituições que realizam pesquisa ou cursos de pós-graduação stricto sensu, fomentando a articulação interinstitucional e a ampliação da capacidade de atendimento às demandas tecnológicas regionais.
+
+**§ 6º** - A Superintendência de Tecnologia e Inovação tem por finalidade assessorar o Secretário na implementação e gestão de políticas voltadas para reforçar a base de serviços tecnológicos e de pesquisa e desenvolvimento, para ampliar a competitividade empresarial e promover o incremento tecnológico em áreas sociais e em meio ambiente, contribuindo para o desenvolvimento sustentável e equilibrado de todo o Estado.
+
+**Art. 2º** - Ficam excluídas da finalidade e competências da Secretaria do Planejamento, a execução das funções de ciência e tecnologia.
+
+**§ 1º** - Fica extinta, na estrutura organizacional da Secretaria do Planejamento, a Coordenação de Ciência e Tecnologia, instituída pela Lei nº 7.888, de 27 de agosto de 2001 .
+
+**§ 2º** - Ficam extintos, na estrutura de cargos em comissão da Secretaria do Planejamento, 01 (um) cargo de Coordenador Executivo, símbolo DAS-2B, 02 (dois) cargos de Coordenador I, símbolo DAS-2C, e 01 (um) cargo de Assessor Administrativo, símbolo DAI-4, alocados na Coordenação de Ciência e Tecnologia, de que trata o parágrafo anterior.
+
+**§ 3º** - Fica remanejada, da Secretaria do Planejamento para a Secretaria de Ciência, Tecnologia e Inovação, a vinculação da Fundação de Amparo à Pesquisa do Estado da Bahia FAPESB, instituída pela Lei nº 7.888, de 27 de agosto de 2001 , e do Conselho Estadual de Ciência e Tecnologia, criado pela Lei nº 6.074, de 21 de maio de 1991 .
+
+**Art. 3º** - Para atender à implantação da Secretaria criada por esta Lei, ficam criados 01 (um) cargo de Secretário de Estado e os cargos em comissão constantes do Anexo Único desta Lei.
+
+**Art. 4º** - Fica o Poder Executivo autorizado a promover, no prazo de 90 (noventa) dias, a partir da entrada em vigor desta Lei, os atos necessários:
+
+I - à revisão dos regimentos, estatutos e outros instrumentos regulamentares para adequação às alterações organizacionais decorrentes desta Lei;
+
+II - às modificações orçamentárias que se fizerem necessárias ao cumprimento do disposto nesta Lei, respeitados os valores globais constantes do orçamento vigente;
+
+III - à continuidade dos serviços, até a definitiva estruturação da referida Secretaria;
+
+IV - à vacância do cargo de Secretário Extraordinário, conforme facultado pelo art. 33, da Lei nº 6.074, de 22 de maio de 1991 e os demais cargos de que trata o Anexo Único do Decreto nº 8.414, de 02 de janeiro de 2002 ;
+
+V - à transferência dos contratos, convênios, protocolos e demais instrumentos vigentes celebrados pela Secretaria Extraordinária de Ciência, Tecnologia e Inovação.
+
+**Art. 5º** - Esta Lei entrará em vigor a partir de 01 de janeiro de 2004.
+
+**Art. 6º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 17 de dezembro de 2003.
+
+PAULO SOUTO
+
+Governador
+
+Ruy Tourinho
+
+Secretário de Governo
+
+Rafael Esmeraldo Lucchesi Ramacciotti
+
+Secretário de Ciência, Tecnologia e Inovação
+
+Marcelo Barros
+
+Secretário da Administração
+
+ANEXO ÚNICO
+
+QUADRO DE CARGOS EM COMISSÃO DA
+
+SECRETARIA DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+
+| CARGO | SÍMBOLO | QUANTIDADE |
+| --- | --- | --- |
+| Chefe de Gabinete | DAS-2A | 01 |
+| Superintendente | DAS-2A | 02 |
+| Diretor Geral | DAS-2B | 01 |
+| Diretor | DAS-2B | 04 |
+| Coordenador Executivo | DAS-2B | 01 |
+| Diretor | DAS-2C | 03 |
+| Assessor Especial | DAS-2C | 02 |
+| Coordenador I | DAS-2C | 11 |
+| Coordenador Técnico | DAS-2D | 05 |
+| Assessor Técnico | DAS-3 | 02 |
+| Coordenador II | DAS-3 | 08 |
+| Assessor de Comunicação Social I | DAS-3 | 01 |
+| Secretário de Gabinete | DAS-3 | 01 |
+| Coordenador III | DAI-4 | 02 |
+| Assistente Orçamentário | DAI-4 | 02 |
+| Oficial de Gabinete | DAI-5 | 02 |
+| Secretário Administrativo I | DAI-5 | 09 |
+| Secretário Administrativo II | DAI-6 | 03 |
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

@@ -1,0 +1,43 @@
+---
+titulo: "Lei Ordinária nº 14526, de 21/12/2022"
+uf: "BA"
+tipo: "Lei Ordinária"
+numero: "14526"
+data: 2022-12-21
+ementa: "Altera a Lei nº 3.956, de 11 de dezembro de 1981, na forma que indica."
+versao_texto: "texto do Portal de Legislação da Bahia"
+publicacao: "DOE quinta-feira, 22 de Dezembro de 2022"
+fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-14526-de-21-de-dezembro-de-2022"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 14526, de 21/12/2022
+
+LEI Nº 14.526 DE 21 DE DEZEMBRO DE 2022
+
+Altera a Lei nº 3.956, de 11 de dezembro de 1981, na forma que indica.
+
+**O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** - A Lei nº 3.956, de 11 de dezembro de 1981, passa vigorar com o seguinte acréscimo:
+
+"Art. 108-A - Os documentos, livros e registros de instituições financeiras, inclusive os referentes a contas de depósito e aplicações poderão ser requisitados para exame, quando houver processo administrativo instaurado ou procedimento fiscal em curso e tais exames sejam considerados indispensáveis pela autoridade administrativa competente, observados procedimentos, formas e prazos regulamentados por ato do Chefe do Poder Executivo.
+
+**Parágrafo único** - O resultado dos exames, as informações e os documentos a que se refere este artigo serão conservados em sigilo, observada a legislação tributária.” (NR)
+
+**Art. 2º** - Esta Lei entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 21 de dezembro de 2022.
+
+RUI COSTA
+
+Governador
+
+Carlos Mello
+
+Secretário da Casa Civil em exercício
+
+Manoel Vitório da Silva Filho
+
+Secretário da Fazenda
+
+&lt;div class="field

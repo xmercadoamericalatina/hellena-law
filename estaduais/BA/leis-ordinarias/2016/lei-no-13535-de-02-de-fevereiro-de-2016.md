@@ -1,0 +1,48 @@
+---
+titulo: "Lei Ordinária nº 13535, de 02/02/2016"
+uf: "BA"
+tipo: "Lei Ordinária"
+numero: "13535"
+data: 2016-02-02
+ementa: "Estabelece a obrigatoriedade de instalação de equipamentos indicadores de velocidade nos veículos de transporte intermunicipal de passageiros em operação no Estado da Bahia, na forma que indica, e dá outras providências."
+versao_texto: "texto do Portal de Legislação da Bahia"
+publicacao: ""
+fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-13535-de-02-de-fevereiro-de-2016"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 13535, de 02/02/2016
+
+LEI Nº 13.535 DE 02 DE FEVEREIRO DE 2016
+
+Estabelece a obrigatoriedade de instalação de equipamentos indicadores de velocidade nos veículos de transporte intermunicipal de passageiros em operação no Estado da Bahia, na forma que indica, e dá outras providências.
+
+O PRESIDETE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DA BAHIA, no uso de atribuição prevista no art. 80, § 7º da Constituição do Estado da Bahia, combinando com o art. 41, XXII, da Resolução n.º 1193/85 (Regimento Interno), faço saber que o Plenário da Assembleia aprovou e eu promulgo a seguinte Lei:
+
+**Art. 1º** - As empresas de transporte intermunicipal de passageiros em operação no Estado da Bahia ficam obrigadas a instalar, em local visível a todos os usuários, equipamentos com tela digital indicando a velocidade em que se encontra trafegando o veículo.
+
+**Parágrafo único** - As empresas a que se refere este artigo terão o prazo de 180 (cento e oitenta) dias, a contar da publicação desta Lei, para proceder a instalação dos equipamentos.
+
+**Art. 2º** - O Poder Executivo deverá regulamentar a presente Lei, para sua melhor execução, estabelecendo, na oportunidade, as penalidades aplicáveis ao seu descumprimento.
+
+**Art. 3º** - Esta Lei entra em vigor na data de sua publicação.
+
+GABINETE DA PRESIDÊNCIA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DA BAHIA, EM 02 DE FEVEREIRO DE 2016.
+
+Deputado MARCELO NILO
+
+Presidente
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

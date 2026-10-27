@@ -1,0 +1,46 @@
+---
+titulo: "Lei Ordinária nº 13163, de 08/05/2014"
+uf: "BA"
+tipo: "Lei Ordinária"
+numero: "13163"
+data: 2014-05-08
+ementa: "Declara de utilidade pública a ASSOCIAÇÃO PEDAGÓGICA WALDORF DE VÁRZEA DA ROÇA - APWVR, com sede no município de Várzea da Roça e foro na Comarca de Mairi."
+versao_texto: "texto do Portal de Legislação da Bahia"
+publicacao: ""
+fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-13163-de-08-de-maio-de-2014"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 13163, de 08/05/2014
+
+LEI Nº 13.163 DE 08 DE MAIO DE 2014
+
+Declara de utilidade pública a ASSOCIAÇÃO PEDAGÓGICA WALDORF DE VÁRZEA DA ROÇA - APWVR, com sede no município de Várzea da Roça e foro na Comarca de Mairi.
+
+A ASSEMBLEIA LEGISLATIVA
+
+D E C R E T A
+
+**Art. 1º** - Fica declarada de utilidade pública a ASSOCIAÇÃO PEDAGÓGICA WALDORF DE VÁRZEA DA ROÇA - APWVR, com sede no município de Várzea da Roça e foro na Comarca de Mairi.
+
+**Art. 2º** - Esta Lei entra em vigor na data de sua publicação.
+
+GABINETE DA PRESIDÊNCIA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DA BAHIA, EM 08 DE MAIO DE 2014.
+
+Deputado MARCELO NILO
+
+Presidente
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

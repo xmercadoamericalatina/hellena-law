@@ -1,0 +1,186 @@
+---
+titulo: "Lei Ordinária nº 11064, de 23/07/2008"
+uf: "BA"
+tipo: "Lei Ordinária"
+numero: "11064"
+data: 2008-07-23
+ementa: "Altera o Anexo IV da Lei nº 11.051 , de 06 de junho de 2008, e dá outras providências."
+versao_texto: "texto do Portal de Legislação da Bahia"
+publicacao: ""
+fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-11064-de-23-de-julho-de-2008"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 11064, de 23/07/2008
+
+LEI Nº 11.064 DE 23 DE JULHO DE 2008
+
+Altera o Anexo IV da Lei nº 11.051 , de 06 de junho de 2008, e dá outras providências.
+
+O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** - O Anexo IV da Lei nº 11.051 , de 06 de junho de 2008, passa a vigorar na forma do Anexo Único desta Lei.
+
+**Art. 2º** - Esta Lei entrará em vigor na data de sua publicação.
+
+**Art. 3º** - Revogam-se as disposições em contrário.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 23 de julho de 2008.
+
+JAQUES WAGNER
+
+Governador
+
+Eva Maria Cella Dal Chiavon
+
+Secretária da Casa Civil
+
+Manoel Vitório da Silva Filho
+
+Secretário da Administração
+
+Adeum Hilário Sauer
+
+Secretário da Educação
+
+Antônio Carlos Batista Neves
+
+Secretário de Infra-Estrutura
+
+Jorge José Santos Pereira Solla
+
+Secretário da Saúde
+
+Antonio César Fernandes Nunes
+
+Secretário da Segurança Pública
+
+Domingos Leonelli Neto
+
+Secretário de Turismo
+
+Afonso Bandeira Florence
+
+Secretário de Desenvolvimento Urbano
+
+Rui Costa dos Santos
+
+Secretário de Relações Institucionais
+
+Márcio Meirelles
+
+Secretário de Cultura
+
+Carlos Martins Marques de Santana
+
+Secretário da Fazenda
+
+Geraldo Simões de Oliveira
+
+Secretário da Agricultura, Irrigação e Reforma Agrária
+
+Ronald de Arantes Lobato
+
+Secretário do Planejamento
+
+Marília Muricy Machado Pinto
+
+Secretária da Justiça, Cidadania e Direitos Humanos
+
+Rafael Amoedo Amoedo
+
+Secretário da Indústria, Comércio e Mineração
+
+Nilton Vasconcelos Júnior
+
+Secretário do Trabalho, Emprego, Renda e Esporte
+
+Juliano Sousa Matos
+
+Secretário do Meio Ambiente
+
+Ildes Ferreira de Oliveira
+
+Secretário de Ciência, Tecnologia e Inovação
+
+Edmon Lopes Lucas
+
+Secretário de Desenvolvimento e Integração Regional
+
+Luiz Alberto Silva dos Santos
+
+Secretário de Promoção da Igualdade
+
+Valmir Carlos da Assunção
+
+Secretário de Desenvolvimento Social e Combate à Pobreza
+
+ANEXO ÚNICO
+
+ANEXO IV DA LEI Nº 11.051, DE 06.06.2008
+
+FORMAÇÃO DAS CARREIRAS DO GRUPO OCUPACIONAL
+
+FISCALIZAÇÃO E REGULAÇÃO
+
+CARREIRAS DE NÍVEL SUPERIOR
+
+CARREIRAS
+
+FORMAÇÕES
+
+Especialista em Meio Ambiente e Recursos Hídricos
+
+Graduação em Arquitetura e Urbanismo, Ciências Biológicas, Ciências Sociais, Direito, Ecologia, Ciências Econômicas, Agronomia, Engenharia Agronômica, Engenharia Cartográfica, Engenharia Civil, Engenharia Florestal, Engenharia de Minas, Engenharia Química, Engenharia Sanitária e/ou Ambiental, Geografia, Geologia ou Hidrografia e Meteorologia; Ecologia, Engenharia Ambiental, Engenharia Florestal, Hidrologia ou Hidrografia e Meteorologia, Farmácia Bioquímica, Química.
+
+Especialista em Proteção e Defesa do Consumidor
+
+Graduação em Direito.
+
+Especialista em Metrologia e Qualidade
+
+Graduação em Engenharia, Administração, Ciências Econômicas, Física, Química, Matemática e Estatística
+
+Fiscal Estadual Agropecuário
+
+Graduação em Medicina Veterinária, para a área de atuação de defesa sanitária e inspeção animal; Graduação em Agronomia, para a área de atuação de defesa sanitária vegetal.
+
+Especialista em Regulação
+
+Graduação em Administração, Ciências Econômicas, Ciências Contábeis, Direito, Estatística, Arquitetura, Engenharia Civil, Engenharia Elétrica, Engenharia Química, Engenharia de Computação, Engenharia Mecânica, Engenharia Naval, Engenharia de Transportes, Ciência da Computação, Processamento de Dados, Análise de Sistemas, Informática, Sistemas de Informação e Tecnologia da Informação.
+
+CARREIRAS DE NÍVEL MÉDIO
+
+CARREIRAS
+
+FORMAÇÕES
+
+Técnico em Meio Ambiente e Recursos Hídricos
+
+Técnico em Controle Ambiental, Técnico em Meio Ambiente, Técnico em Geologia, Técnico Florestal, Técnico em Instrumentação, Técnico em Química, Técnico em Hidrometria e/ou Hidrologia, Técnico em Produção Aquícola, nos termos definidos nas Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico, fixadas por meio de Resolução da Câmara de Educação Básica do Ministério da Educação.
+
+Técnico em Metrologia e Qualidade
+
+Ensino médio, inclusive os cursos de natureza técnico-profissionalizante, estes últimos nos termos das Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico, fixadas por meio de Resolução da Câmara de Educação Básica do Ministério da Educação, observadas as áreas profissionais e cargas horárias mínimas estabelecidas.
+
+Técnico em Fiscalização Agropecuária
+
+Técnico em Agropecuária, nos termos definidos nas Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico, fixadas por meio de Resolução da Câmara de Educação Básica do Ministério da Educação, observada a carga horária mínima estabelecida.
+
+Técnico em Regulação
+
+Ensino médio, mediante a apresentação de certificado reconhecido pelo Ministério da Educação, abrangendo inclusive os cursos de natureza técnico-profissionalizante, estes últimos nos termos das Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico, fixadas por meio de Resolução da Câmara de Educação Básica do Ministério da Educação, observadas as áreas profissionais e cargas horárias mínimas estabelecidas.
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.

@@ -1,0 +1,1320 @@
+---
+titulo: "LEI N.º 10.072, DE 20 DE DEZEMBRO DE 1976. D.O. DE 21/12/76"
+uf: "CE"
+tipo: "Lei Ordinária"
+numero: "10.072"
+data: 1976-12-20
+ementa: "Dispõe sobre o Estatuto dos Policiais-Militares do Ceará e dá outras providencias."
+versao_texto: "texto do BELT (Assembleia Legislativa)"
+fonte: "https://belt.al.ce.gov.br/index.php?option=com_k2&view=item&id=10151"
+baixado_em: 2026-10-13
+---
+# LEI N.º 10.072, DE 20 DE DEZEMBRO DE 1976. D.O. DE 21/12/76
+
+**LEI N.º 10.072, DE 20 DE DEZEMBRO DE 1976. D.O. DE 21/12/76**
+
+**Dispõe sobre o Estatuto dos Policiais-Militares do Ceará e dá outras providencias.**
+
+**O GOVERNADOR DO ESTADO DO CEARÁ**
+
+**Faço saber que a Assembléia Legislativa decretou e eu sanciono e promulgo a seguinte lei:**
+
+### TÍTULO I — GENERALIDADES
+
+**Art. 1.º** - O presente Estatuto regula a situação, obrigações, deveres, direitos e prerrogativas dos Policiais-Militares do Ceará.
+
+**Art. 2.º** - A Polícia Militar, subordinada ao Secretário de Segurança Pública, é uma instituição destinada à manutenção da ordem pública no Estado, sendo considerada forca auxiliar, reserva do Exército.
+
+Parágrafo Único - Subordinação - Ato ou efeito de uma corporação policial-militar sob a direção operacional do órgão que, nos Estados, Territórios e no Distrito Federal for responsável pela ordem pública, ou ficar na totalidade ou em parte, diretamente sob o comando operacional dos Comandantes dos Exércitos ou Comandantes Militares de Área com jurisdição na área dos Estados, Territórios e Distrito Federal e com responsabilidade de defesa interna ou de defesa territorial.
+
+**Art. 3.º** - Os integrantes da Polícia Militar do Ceará, em razão da destinação constitucional da Corporação e em decorrência das leis vigentes, constituem uma categoria especial de servidores públicos estaduais e são denominados policiais-militares.
+
+**§ 1.º** - Os policiais-militares encontram-se em uma das seguintes situações:
+
+a) Na ativa:
+
+I - os policiais-militares de carreiras;
+
+II - os incluídos na Polícia Militar do Ceará voluntariamente, durante os prazos em que se obrigaram a servir;
+
+III - os componentes da reserva remunerada quando convocados; e
+
+IV - os alunos de órgãos de formação de policiais militares da ativa.
+
+b) Na inatividade:
+
+I - na reserva remunerada, quando pertencem à reserva da Corporação e percebem remuneração do Estado, porém sujeitos, ainda, à prestação de serviço na ativa, mediante convocação; e
+
+II - reformados, quando, tendo passado por uma das situações anteriores, estão dispensados, definitivamente, da prestação de serviço na ativa, mas continuam a perceber remuneração do Estado.
+
+**§ 2.º** - Os policiais-militares de carreira são os que, no desempenho voluntário e permanente do serviço policial-militar, têm vitaliciedade assegurada ou presumida.
+
+**Art. 4.º** - O serviço policial-militar consiste no exercício de atividades inerentes à Polícia Militar e compreende todos os encargos previstos na legislação específica e relacionados com a manutenção da ordem pública no Estado.
+
+**Art. 5.º** - A carreira policial-militar é caracterizada por atividade continuada e inteiramente devotada às finalidades da Polícia Militar, denominada atividade policial-militar.
+
+**§ 1.º** - A carreira policial-militar é privativa do pessoal da ativa, iniciando-se com o ingresso na Polícia Militar e obedece à seqüência de graus hierárquicos.
+
+**§ 2.º** - É privativa de brasileiro nato a carreira de Oficial da Polícia Militar.
+
+**Art. 6.º** - Os policiais-militares da reserva remunerada poderão ser convocados para o serviço ativo, em caráter transitório e mediante aceitação voluntária, por ato do Governador do Estado, desde que haja conveniência para o serviço.
+
+**Art. 7.º** - São equivalentes as expressões "na ativa'', "da ativa'', "'em serviço ativo', ''em serviço na ativa'', "em serviço'', "em atividade" ou “em atividade policial-militar", conferidas aos policiais-militares no desempenho de cargo, comissão, encargo, incumbência ou missão, serviço ou atividade policial-militar ou considerada de natureza policial-militar, nas organizações Policiais-Militares, bem como em outros órgãos do Estado, quando previsto em lei ou regulamento.
+
+**Art. 8.º** - A condição jurídica dos policiais-militares é definida pelos dispositivos constitucionais que lhes foram aplicáveis, por este Estatuto e pela legislação que lhes outorgam direitos e prerrogativas e lhes impõem deveres e obrigações.
+
+**Art. 9.º** - O disposto neste Estatuto aplica-se, no que couber, aos policiais-militares da reserva remunerada, reformados e aos capelães militares.
+
+#### CAPÍTULO I — DO INGRESSO NA POLÍCIA MILITAR
+
+**Art. 10.-O** ingresso na Polícia Militar é facultado a todos os brasileiros, solteiros, ou viúvos sem filhos e com idade inferior a 22 anos na data da inscrição, sem distinção de raça ou de crença religiosa, mediante inclusão, matrícula ou nomeação, observadas as condições previstas em lei e nos regulamentos da Corporação. (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+§1.º-Excetuam-se os casos de ingresso nos Quadros de Oficiais de Saúde e de Capelães Policiais- Militares,que serão regidos por leis especiais. (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+**§ 2.º** - Em determinados casos, quando as necessidades de incorporação assim o aconselharem, a idade acima poderá ser acrescida de mais 2 (dois) anos para os candidatos civis e de mais 5 (cinco) anos para os candidatos militares ou policiais- militares de outras Corporações. (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+**Art. 11** - Para o ingresso na Polícia Militar, além das condições relativas à nacionalidade, idade, aptidão intelectual, capacidade física e idoneidade moral, é necessário que o candidato não exerça, nem tenha exercido atividades prejudiciais ou perigosas à Segurança Nacional.
+
+#### CAPÍTULO II — DA HIERARQUIA E DA DISCIPLINA
+
+**Art. 12** - A hierarquia e a disciplina são a base institucional da Polícia Militar, enquanto que a autoridade e a responsabilidade crescem com o grau hierárquico.
+
+**§ 1.º** - A hierarquia policial-militar é a ordenação da autoridade em níveis diferentes, dentro da estrutura da Polícia Militar. A ordenação se faz por postos ou graduações; dentro de um mesmo posto ou de uma mesma graduação se faz pela antiguidade no posto ou na graduação. O respeito à hierarquia é consubstanciado no espírito de acatamento à seqüência de autoridade.
+
+**§ 2.º** - Disciplina é a rigorosa observância e o acatamento integral das leis, regulamentos, normas e disposições que fundamentam o organismo policial-militar e coordenam seu funcionamento regular e harmônico, traduzindo-se pelo perfeito cumprimento do dever por parte de todos e de cada um dos componentes desse organismo.
+
+**§ 3.º** - A disciplina e o respeito à hierarquia devem ser mantidos em todas as circunstâncias da vida, entre policiais-militares da ativa, da reserva remunerada e reformados.
+
+**Art. 13** - Círculos hierárquicos são âmbitos de convivência entre os policiais. militares da mesma categoria e têm a finalidade de desenvolver o espírito de camaradagem em ambiente de estima e confiança,sem prejuízo do respeito mútuo.
+
+**Art. 14** - Os círculos hierárquicos e a escala hierárquica na Polícia Militar são fixados no quadro e parágrafos seguintes:
+
+CÍRCULO DE
+
+OFICIAIS
+
+Círculo de Oficiais Superiores
+
+P
+
+O
+
+S
+
+T
+
+O
+
+S
+
+Coronel PM
+
+Tenente-Coronel PM
+
+Major PM
+
+Círculo de Oficiais
+
+Intermediários
+
+Capitão PM
+
+Círculo de Oficiais
+
+Subalternos
+
+Primeiro-Tenente PM
+
+Segundo-Tenente PM
+
+CÍRCULO DE
+
+PRAÇAS
+
+Círculo de Subtenentes e Sargentos
+
+G
+
+R
+
+A
+
+D
+
+U
+
+A
+
+Ç
+
+Õ
+
+E
+
+S
+
+Subtenente PM
+
+Primeiro-Sargento PM
+
+Segundo-Sargento PM
+
+Terceiro-Sargento PM
+
+Círculo de Cabos e Soldados
+
+Cabo PM
+
+Soldado PM
+
+PRAÇAS
+
+ESPECIAIS
+
+Freqüentam o Círculo de Oficiais Subalternos
+
+Aspirante à Oficial PM
+
+Excepcionalmente ou em reuniões sociais têm acesso ao Círculo de Oficiais
+
+Aluno-Oficial PM
+
+PRAÇAS
+
+Excepcionalmente ou em reuniões sociais têm acesso ao Círculo de Subtenentes e Sargentos
+
+Aluno do Curso de Formação de Sargento PM
+
+Freqüentam o Círculo de Cabos e Soldados
+
+Aluno do Curso de Formação de Cabos e Soldados PM
+
+**§ 1.º** - Posto é o grau hierárquico do oficial, conferido por ato do Governador do Estado.
+
+**§ 2.º** - Graduação é o grau hierárquico da praça, conferido pelo Comandante-Geral da Polícia Militar.
+
+**§ 3.º** - Os Aspirantes-a-Oficial PM e os Alunos-Oficiais PM são denominados praças especiais.
+
+**§ 4.º** - Os graus hierárquicos dos diversos Quadros e Qualificações são fixados, separadamente, para cada caso, de acordo com a Lei de Fixação de Efetivos.
+
+**§ 5.º** - Sempre que o policial-militar da reserva remunerada ou reformado fizer uso do posto ou graduação, deverá fazê-lo mencionando essa situação.
+
+**Art. 15** - A precedência entre policiais-militares da ativa, do mesmo grau hierárquico, é assegurada pela antiguidade no posto ou na graduação, salvo nos casos de precedência funcional estabelecida em lei ou regulamento.
+
+**§ 1.º** - A antiguidade em cada posto ou graduação é contada a partir da data da assinatura do ato da respectiva promoção, nomeação, declaração ou inclusão, salvo quando estiver taxativamente fixada outra data.
+
+**§ 2.º** - No caso de ser igual a antiguidade referida no parágrafo anterior, a antiguidade será estabelecida:
+
+a) entre policiais-militares do mesmo quadro, pela posição nas respectivas escalas numéricas ou registros de que trata o Art. 17 desta Lei;
+
+b) nos demais casos, pela antiguidade no posto ou na graduação anterior; se, ainda, assim, subsistir a igualdade de antiguidade, recorrer-se-á, sucessivamente, aos graus hierárquicos anteriores, à data de inclusão até a data de nascimento para definir a precedência e, neste último caso, o mais velho será considerado mais antigo;
+
+c) entre os alunos de um mesmo órgão de formação de policiais-militares, de acordo com regulamento do respectivo órgão, se não estiverem especificamente enquadrados nas letras ''a'' e ''b".
+
+**§ 3.º** - Em igualdade de posto ou graduação, os policiais-militares da ativa têm precedência sobre os da inatividade.
+
+**§ 4.º** - Em igualdade de posto ou graduação, a precedência entre os policiais-militares de carreira na ativa e os da reserva remunerada que estiverem convocados é definida pelo tempo de efetivo serviço no posto ou graduação.
+
+**Art. 16** - A precedência entre as praças especiais e as demais praças é assim regulada:
+
+I - os aspirantes-a-oficial PM são hierarquicamente superiores às demais praças;
+
+II - os alunos-oficiais PM são hierarquicamente superiores aos Subtenentes PM.
+
+**Art. 17** - A Polícia Militar manterá um registro de todos os dados referentes ao seu pessoal da ativa e da reserva remunerada, dentro das respectivas escalas numéricas, segundo as instruções baixadas pelo Comandante-Geral da Corporação.
+
+**Art. 18** - Os alunos-oficiais PM são declarados aspirantes-a-oficial PM pelo Comandante-Geral da Policia Militar.
+
+#### CAPÍTULO III — DO CARGO E DA FUNÇÃO POLICIAL-MILITAR
+
+**Art. 19** - Cargo policial-militar é aquele que só pode ser exercido por policial-militar em serviço ativo.
+
+**§ 1.º** - O cargo policial-militar a que se refere este artigo é o que se encontra especificado no Quadro de Organização ou previsto, caracterizado ou definido como tal em outras disposições legais.
+
+**§ 2.º** - A cada cargo policial-militar corresponde um conjunto de atribuições, deveres e responsabilidades que se constituem em obrigações do respectivo titular.
+
+**§ 3.º** - As obrigações inerentes ao cargo policial-militar devem ser compatíveis com o correspondente grau hierárquico e definidas em legislação ou regulamentação específicas.
+
+**Art. 20** - Os cargos policiais-militares são providos com pessoal que satisfaça aos requisitos de grau hierárquico e de qualificação exigidos para o seu desempenho.
+
+Parágrafo Único - O provimento de cargo policial-militar se faz por ato de nomeação, de designação ou determinação expressa de autoridade competente.
+
+**Art. 21** - O cargo policial-militar é considerado vago a partir de sua criação e até que um policial-militar dele tome posse ou desde o momento em que o policial-militar exonerado, dispensado ou que tenha recebido determinação expressa de autoridade competente, o deixe e até que outro policial-militar nele tome possę, de acordo com as normas de provimento previstas no parágrafo único do Art. 20 desta Lei.
+
+Parágrafo Único - Consideram-se também vagos os cargos policiais-militares cujos ocupantes:
+
+a) tenham falecido;
+
+b) tenham sido considerados extraviados;
+
+c) tenham sido considerados desertores;
+
+d) tenham sido agregados.
+
+**Art. 22** - Função policial-militar é o exercício das obrigações inerentes ao cargo policial-militar.
+
+**Art. 23** - Dentro de uma mesma organização policial-militar, a seqüência de substituições bem como as normas, atribuições e responsabilidades relativas, são estabelecidos na legislação específica, respeitadas a precedência e qualificações exigidas para o cargo ou para o exercício da função.
+
+**Art. 24** - O policial-militar ocupante de cargo provido em caráter efetivo ou interino, de acordo com o parágrafo único do Art. 20 desta Lei, faz jus às gratificações e a outros direitos correspondentes ao cargo, conforme previsto em Lei.
+
+**Art. 25** - As obrigações que, pelas generalidades, peculiaridades, duração, vulto ou natureza, não são catalogadas como posição tituladas em Quadro de Organização ou dispositivo legal, são cumpridos como "Encargo'', "Incumbência", ''Comissão"', ''Serviço" ou "Atividade'', policial-militar ou de natureza policial-militar.
+
+Parágrafo Único - Aplica-se, no que couber, ao Encargo, Incumbência, Comissão, Serviço ou Atividade, policial-militar - ou de natureza policial-militar, o disposto neste Capítulo para Cargo Policial-Militar.
+
+### TÍTULO II — DAS OBRIGAÇÕES E DOS DEVERES POLICIAIS-MILITARES
+
+#### CAPÍTULO I — DAS OBRIGAÇÕES POLICIAIS-MILITARES
+
+##### SEÇÃO I — DO VALOR POLICIAL-MILITAR
+
+**Art. 26** - São manifestações essenciais do valor policial-militar:
+
+I - O sentimento de servir à comunidade, traduzido pela vontade inabalável de cumprir o dever policial-militar e pelo integral devotamento à manutenção da ordem pública, mesmo com o risco da própria vida;
+
+II - o civismo e o culto das tradições históricas;
+
+III - a crença na elevada missão da Polícia Militar;
+
+IV - o espírito de corpo, orgulho do policial-militar pela organização onde serve;
+
+V - o amor à profissão policial-militar e o entusiasmo com que é exercida; e
+
+VI - o aprimoramento técnico-profissional.
+
+##### SEÇÃO II — DA ÉTICA POLICIAL-MILITAR
+
+**Art. 27** - O sentimento do dever, o pundonor policial-militar e o decoro da classe impõem, a cada um dos integrantes da Polícia Militar, conduta moral e profissional irrepreensível, com observância dos seguintes preceitos da ética policial-militar:
+
+I - amar a verdade e a responsabilidade como fundamento da dignidade pessoal;
+
+II - exercer com autoridade, eficiência e probidade as funções que lhe couberem em decorrência do cargo;
+
+III - respeitar a dignidade da pessoa humana;
+
+IV - cumprir e fazer cumprir as Leis, os Regulamentos, as Instituições e as ordens das autoridades competentes;
+
+V - ser justo e imparcial no julgamento dos atos e na apreciação do mérito dos subordinados;
+
+VI - zelar pelo preparo próprio, moral, intelectual, físico e, também, pelo dos subordinados, tendo em vista o cumprimento da missão comum;
+
+VII - empregar todas as suas energias em benefício do serviço;
+
+VIII - praticar a camaradagem e desenvolver permanentemente o espírito de cooperação;
+
+IX - ser discreto em suas atitudes, maneiras e em sua linguagem escrita e falada;
+
+X - abster-se de tratar, fora do âmbito apropriado, de matéria sigilosa relativa à Segurança Nacional;
+
+XI - acatar as autoridades civis;
+
+XII - cumprir seus deveres de cidadão;
+
+XIII - proceder de maneira ilibada na vida pública e na particular;
+
+XIV - observar as normas da boa educação;
+
+XV - garantir assistência moral e material ao seu lar e conduzir-se como chefe de família modelar;
+
+XVI - conduzir-se, mesmo fora do serviço ou na inatividade, de modo que não sejam prejudicados os princípios da disciplina, do respeito e do decoro policial-militar;
+
+XVII - abster-se de fazer uso do posto ou de graduação para obter facilidades pessoais de qualquer natureza ou para encaminhar negócios particulares ou de terceiros;
+
+XVIII - abster-se o policial-militar, na inatividade, do uso das designações hierárquicas quando:
+
+a) em atividades político-partidárias;
+
+b) em atividades comerciais;
+
+c) em atividades industriais;
+
+d) em discussões pela imprensa a respeito de assuntos políticos ou policiais-militares, excetuando-se os de natureza exclusivamente técnica, se devidamente autorizado; e
+
+e) no exercício de funções de natureza não policial-militar, mesmo oficiais;
+
+XIX - Zelar pelo bom nome da Polícia Militar e de cada um dos seus integrantes, obedecendo e fazendo aos preceitos da ética policial-militar.
+
+**Art. 28** - Ao policial-militar da ativa, ressalvado o disposto no § 2.º deste artigo, é vedado comerciar ou tomar parte na administração ou gerência de sociedade ou dela ser sócio ou participar, exceto como acionista ou quotista em sociedade anônima ou por quotas de responsabilidade limitada.
+
+**§ 1.º** - Os policiais-militares na reserva remunerada, quando convocados, ficam proibidos de tratar, nas organizações policiais-militares e nas repartições públicas civis, dos interesses de organizações ou empresas privadas de qualquer natureza.
+
+**§ 2.º** - Os policiais-militares da ativa podem exercer, diretamente, a gestão de seus bens, desde que não infrinjam o disposto no presente artigo.
+
+**§ 3.º** - No intuito de desenvolver a prática profissional dos oficiais titulados dos Quadros de Saúde, é-lhes permitido o exercício de atividade técnico-profissional, no meio civil, desde que tal prática não prejudique o serviço.
+
+**Art. 29** - O Comandante-Geral da Polícia Militar poderá determinar aos policiais-militares da ativa que, no interesse da salvaguarda da dignidade dos mesmos, informem sobre a origem e natureza dos seus bens, sempre que houver razões que recomendem tal medida.
+
+#### CAPÍTULO II — DOS DEVERES POLICIAIS-MILITARES
+
+**Art. 30** - Os deveres policiais-militares emanam de vínculos racionais e morais que ligam o policial-militar à comunidade e à sua segurança, e compreendem, essencialmente:
+
+l - a dedicação integral ao serviço policial-militar e a fidelidade à instituição a que pertence, mesmo com o sacrifício da própria vida;
+
+II - O culto aos símbolos nacionais;
+
+III - o sentimento de justiça, probidade e lealdade em todas as circunstâncias;
+
+IV - a disciplina e o respeito à hierarquia;
+
+V - o rigoroso cumprimento das obrigações e ordens;
+
+VI - o zelo pela apresentação individual e efetiva manifestação de caráter e pundonor policial-militar;
+
+VII - a obrigação de tratar o subordinado dignamente e com urbanidade; e
+
+VIII - a preservação de todos os valores morais ou materiais da instituição policial-militar a que pertence.
+
+##### SEÇÃO I — DO COMPROMISSO POLICIAL-MILITAR
+
+**Art. 31** - Todo cidadão, após ingressar na Polícia Militar mediante inclusão, matrícula ou nomeação, prestará compromisso de honra, no qual afirmará a sua aceitação consciente das obrigações e dos deveres policiais-militares e manifestará a sua firme disposição de bem cumpri-los.
+
+**Art. 32** - O compromisso a que se refere o artigo anterior terá caráter solene e será prestado na presença da tropa, tão logo o policial-militar tenha adquirido um grau de instrução compatível com o perfeito entendimento de seus deveres como integrantes da Polícia Militar, conforme os seguintes dizeres: "Ao ingressar na Polícia Militar do Ceará, prometo regular a minha conduta pelos preceitos da moral, cumprir rigorosamente as ordens das autoridades a que estiver subordinado e dedicar-me inteiramente ao serviço policial-militar, à manutenção da ordem pública e à segurança da comunidade, mesmo com o risco da própria vida'.
+
+**§ 1.º** O compromisso do Aspirante-a-Oficial PM formado em escolas de outras Corporações será prestado, em solenidade policial-militar especialmente programada, logo após sua apresentação à Polícia Militar do Estado, nos seguintes termos: "Ao ser declarado Aspirante-a-Oficial da Polícia Militar, assumo o compromisso de cumprir rigorosamente as ordens das autoridades a que estiver subordinado e de me dedicar inteiramente ao serviço policial-militar, à manutenção da ordem pública e à segurança da comunidade, mesmo com o risco da própria vida".
+
+**§ 2.º** - Ao ser promovido ao primeiro posto, o oficial PM prestará o compromisso de Oficial, em solenidade especialmente programada, de acordo com os seguintes dizeres: 'Perante a Bandeira do Brasil e pela minha honra, prometo cumprir os deveres de Oficial da Polícia Militar do Ceará e dedicar-me inteiramente ao seu serviço'.
+
+##### SEÇÃO II — DO COMANDO E DA SUBORDINAÇÃO
+
+**Art. 33** - Comando é a soma de autoridade, deveres e responsabilidades de que o policial-militar é investido legalmente, quando conduz homens ou dirige uma organização policial-militar; é vinculado ao grau hierárquico e constitui uma prerrogativa impessoal, em cujo exercício o policial-militar se define e se caracteriza como Chefe.
+
+Parágrafo Único - Aplica-se à Direção e à Chefia de Organização Policial-Militar, no que couber, o estabelecido para o Comando.
+
+**Art. 34** - A subordinação não afeta, de modo algum, a dignidade de policial-militar e decorre, exclusivamente, da estrutura hierarquizada da Polícia Militar.
+
+**Art. 35** - O oficial é preparado, ao longo da carreira, para o exercício do Comando, da Chefia e da Direção das Organizações Policiais-Militares.
+
+**Art. 36** - Os subtenentes e sargentos auxiliam e complementam as atividades dos oficiais no adestramento e no emprego dos meios, na instrução e na administração e no Comando de frações de tropa, mesmo agindo isoladamente nas atividades de policiamento ostensivo peculiares à Polícia Militar.
+
+Parágrafo Único - No exercício das atividades mencionadas neste artigo e no comando de elementos subordinados, os subtenentes e sargentos deverão impor-se pela lealdade, pelo exemplo e pela capacidade profissional e técnica, incumbindo-lhes assegurar a observância minuciosa e ininterrupta das ordens, das regras do serviço e das normas operativas pelas praças que lhes estiverem diretamente subordinadas, e a manutenção da coesão e do moral das mesmas praças em todas as circunstâncias.
+
+**Art. 37** - Os cabos e soldados são, essencialmente, os elementos de execução.
+
+**Art. 38** - Às praças especiais cabe a rigorosa observância das prescrições dos regulamentos que lhes são pertinentes, exigindo-se-lhes inteira dedicação ao estudo e ao aprendizado técnico-profissional.
+
+**Art. 39** - Cabe ao policial-militar a responsabilidade integral pelas decisões que tomar, pelas ordens que emitir e pelos atos que praticar.
+
+#### CAPÍTULO III — DA VIOLAÇÃO DAS OBRIGAÇÕES E DOS DEVERES
+
+**Art. 40** - A violação das obrigações ou dos deveres policiais-militares constituirá crime ou transgressão disciplinar, conforme dispuserem a legislação ou regulamentação específicas.
+
+**§ 1.º** - A violação dos preceitos de ética policial-militar é tão mais grave quanto mais elevado for o grau hierárquico de quem a cometer.
+
+**§ 2.º** - No concurso do crime militar e da transgressão disciplinar será aplicada somente a pena relativa ao crime.
+
+**Art. 41** - A inobservância dos deveres especificados nas leis e regulamentos ou a falta de exação no cumprimento dos mesmos acarreta para o policial-militar responsabilidade funcional, pecuniária, disciplinar ou penal, consoante a legislação específica.
+
+Parágrafo Único - A apuração da responsabilidade funcional, pecuniária, disciplinar ou penal poderá concluir pela incompatibilidade do policial-militar com o cargo ou pela incapacidade para o exercício das funções policiais-militares a ele inerentes.
+
+**Art.42** - O policial-militar que, por sua atuação, se tornar incompatível com o cargo ou demonstrar incapacidade no exercício das funções policiais-militares a ele inerentes, será afastado do mesmo.
+
+**§ 1.º** - São competentes para determinar o imediato afastamento do cargo ou o impedimento do exercício da função:
+
+a) o Governador do Estado;
+
+b) o Secretário de Estado responsável pela Segurança Pública;
+
+c) o Comandante Geral da Polícia Militar; e
+
+d) os Comandantes, os Chefes e os Diretores, na conformidade da legislação ou regulamentação da Corporação.
+
+**§ 2.º** - O policial-militar afastado do cargo, nas condições mencionadas neste artigo, ficará privado do exercício de qualquer função policial-militar, até a solução final do processo ou das providências legais que couberem no caso.
+
+**Art. 43** - São proibidas quaisquer manifestações coletivas, tanto sobre atos de superiores, quanto as de caráter reivindicatória.
+
+##### SEÇÃO I — DOS CRIMES MILITARES
+
+**Art. 44** - Os policiais-militares, nos crimes definidos em leis como militares, serão processados e julgados em primeira instância pela Justiça Militar do Estado, que exercita pelo Conselho de Justiça Militar, terão como 2.ª instância o próprio Tribunal de Justiça.
+
+**Art. 45** - Aplicam-se aos policiais-militares, no que couber, as disposições estabelecidas no Código Penal Militar.
+
+##### SEÇÃO II — DAS TRANSGRESSÕES DISCIPLINARES
+
+**Art. 46** - O Regulamento Disciplinar da Polícia Militar especificará e classificará as transgressões disciplinares e estabelecerá as normas relativas à amplitude e aplicação das penas disciplinares, à classificação·do comportamento policial-militar e à interposição de recursos contra as penas disciplinares.
+
+**§ 1.º** - As penas disciplinares de detenção ou prisão não podem ultrapassar trinta dias.
+
+**§ 2.º** - Ao Aluno-Oficial PM aplica-se as disposições disciplinares previstas no estabelecimento de ensino onde estiver matriculado.
+
+##### SEÇÃO III — DOS CONSELHOS DE JUSTIFICAÇÃO E DISCIPLINA
+
+**Art. 47** - O oficial, presumivelmente incapaz de permanecer como policial-militar da ativa, será submetido a Conselho de Justificação, na forma da legislação própria.
+
+**§ 1.º** - O oficial, ao ser submetido a Conselho de Justificação, poderá ser afastado do exercício de suas funções automaticamente ou, a critério do Comandante-Geral da Polícia Militar, conforme estabelecido em lei específica.
+
+**§ 2.º** - Compete ao órgão de segunda instância da Justiça Militar Estadual julgar os processos oriundos dos Conselhos de Justificação, na forma estabelecida em lei específica.
+
+**§ 3.º** - O Conselho de Justificação também poderá ser aplicado aos oficiais reformados e na reserva remunerada.
+
+**Art. 48** - O aspirante-a-oficial PM, bem como as praças com estabilidade assegurada, presumivelmente incapazes moralmente de permanecerem como policiais-militares da ativa, serão submetidos a Conselho de Disciplina, na forma da legislação aplicável à espécie.
+
+**§ 1.º** - O aspirante-a-oficial PM e as praças com estabilidade assegurada, ao serem submetidos a Conselho de Disciplina, serão afastados das atividades que estiverem exercendo.
+
+**§ 2.º** - Compete ao Comandante-Geral da Polícia Militar julgar, em última Instância, os processos oriundos dos Conselhos de Disciplina, convocados no âmbito da Corporação.
+
+**§ 3.º** - O Conselho de Disciplina também poderá ser aplicado às praças reformadas e na reserva remunerada.
+
+### TÍTULO III — DOS DIREITOS E DAS PRERROGATIVAS DOS POLICIAIS-MILITARES
+
+#### CAPÍTULO I — DOS DIREITOS
+
+**Art.49** - São direitos dos policiais-militares:
+
+I - garantia da patente, em toda a sua plenitude, com as vantagens, prerrogativas e deveres a ela inerentes, quando oficial;
+
+II - a percepção de remuneração correspondente ao grau hierárquico superior ou melhoria da mesma quando, ao ser transferido para inatividade, contar mais de 30 (trinta) anos de serviço; (Nova redação dada pela Lei n.º 10.485. de 07.05.81)
+
+III - nas condições ou nas limitações impostas na legislação e regulamentação específicas:
+
+a) a estabilidade, quando praça com 10 (dez) ou mais anos de tempo de efetivo serviço;
+
+b) o uso das designações hierárquicas;
+
+c) a ocupação de cargo correspondente ao posto ou à graduação;
+
+d) a percepção de remuneração;
+
+e) outros direitos previstos na lei específica que trata da remuneração dos policiais-militares do Estado;
+
+f) a constituição de pensão policial-militar;
+
+g) a promoção;
+
+h) a transferência para a reserva remunerada, a pedido, ou reforma;
+
+i) as férias, os afastamentos temporários do serviço e as licenças;
+
+j) a demissão e o licenciamento voluntários;
+
+I) o porte de arma, quando oficial, em serviço ativo ou em inatividade, salvo aqueles em inatividade por alienação mental ou condenação por crime contra a segurança nacional ou por atividade que desaconselhem aquele porte;
+
+m) o porte de arma, pelas praças, com as restrições impostas pela legislação e normas vigentes na Polícia Militar;
+
+n) assistência jurídica, quando a infração penal for praticada no exercício da função policial-militar.
+
+Parágrafo Único - A percepção da remuneração ou melhoria da mesma, de que trata o item II, obedecerá ao seguinte:
+
+a) O oficial, que contar mais de 30 (trinta) anos de serviço, após o ingresso na inatividade, terá os seus proventos calculados sobre o soldo correspondente ao posto imediato, mesmo de outro quadro. Se ocupante do último posto da hierarquia da Polícia Militar, o oficial terá os proventos calculados tomando-se por base o soldo do seu próprio posto acrescido de 1/3 (um terço). (Nova redação dada pela Lei n.º 10.485. de 07.05.81)
+
+b) os subtenentes quando transferidos para a inatividade terão os proventos calculados sobre o soldo correspondente ao posto de segundo-tenente PM, desde que contem mais de 30 (trinta) anos de serviço; e
+
+c) demais praças que contem mais de 30 (trinta) anos de serviço, ao serem transferidos para a inatividade, terão os proventos calculados sobre o soldo correspondente à graduação imediatamente superior.
+
+**Art. 50** - O policial-militar que se julgar prejudicado ou ofendido por qualquer ato administrativo ou disciplinar de superior hierárquico, poderá recorrer ou interpor pedido de reconsideração, queixa ou representação, segundo a legislação vigente na corporação.
+
+**§ 1.º** - O direito de recorrer na esfera administrativa prescreverá:
+
+a) em 15 (quinze) dias corridos, a contar do recebimento da comunicação oficial, quanto a ato que decorra da composição de Quadro de Acesso; e
+
+b) em 120 (cento e vinte) dias corridos, nos demais casos.
+
+**§ 2.º** - o pedido de reconsideração, a queixa e a representação não podem ser feitos coletivamente.
+
+**§ 3.º** - O policial-militar da ativa que, nos casos cabíveis, se dirigir ao Poder Judiciário, deverá participar, antecipadamente, esta iniciativa à autoridade à qual estiver subordinado.
+
+**Art. 51** - Os policiais-militares são alistáveis como eleitores, desde que oficiais, aspirantes-a-oficial, subtenentes, sargentos ou alunos do curso de nível superior para formação de oficiais.
+
+Parágrafo Único - os policiais-militares alistáveis são elegíveis, atendidas as seguintes condições:
+
+a) o policial-militar que tiver menos de 5 (cinco) anos e efetivo serviço será, ao se candidatar a cargo eletivo, excluído do serviço ativo, mediante demissão ou licenciamento "ex-offício''; e
+
+b) o policial-militar em atividade, com 5 (cinco) ou mais anos de efetivo serviço, ao se candidatar a cargo eletivo, será afastado, temporariamente, do serviço ativo e agregado, considerado em licença para tratar de interesse particular. Se eleito, será, no ato da diplomação, transferido para a reserva remunerada, percebendo a remuneração que fizer jus, em função do seu tempo de serviço.
+
+##### SEÇÃO I — DA REMUNERAÇÃO
+
+**Art. 52** - A remuneração dos policiais-militares compreende vencimentos e proventos, indenizações e outros direitos e é devida em bases estabelecidas em lei peculiar.
+
+**§ 1.º** - Os policiais-militares na ativa percebem remuneração constituída pelas seguintes parcelas:
+
+a) mensalmente:
+
+I - vencimentos, compreendendo soldo e gratificações; e
+
+II - indenizações.
+
+b) eventualmente, outras indenizações.
+
+**§ 2.º** - Os policiais-militares em inatividade percebem remuneração, mensalmente, constituída pelas seguintes parcelas:
+
+a) mensalmente:
+
+I - proventos, compreendendo soldo ou quotas do soldo, gratificações e indenizações incorporáveis; e
+
+II - adicional de inatividade;
+
+b) eventualmente:
+
+auxílio-invalidez.
+
+**§ 3.º** - Os policiais-militares receberão salário-família de conformidade com a lei que o rege.
+
+**Art. 53** - O auxílio-invalidez, atendidas as condições estipuladas na lei específica que trata da remuneração dos policiais-militares, será concedido ao policial-militar que, quando em serviço ativo, tenha sido ou venha a ser reformado por incapacidade definitiva e considerado inválido, isto é, impossibilitado, total e permanentemente, para qualquer trabalho, não podendo prover os meios de subsistência.
+
+**Art. 54** - O Soldo é irredutível e não está sujeito a penhora, seqüestro ou aresto, exceto nos casos previstos em lei.
+
+**Art. 55** - O valor do soldo é igual para o policial-militar da ativa, da reserva ou reformado, de um mesmo grau hierárquico, ressalvado o disposto no inciso II do art. 49 desta lei.
+
+**Art. 56** - É proibido acumular remuneração de inatividade.
+
+Parágrafo Único - o disposto neste artigo não se aplica aos policiais-militares da reserva remunerada e aos reformados, quanto ao exercício de mandato eletivo, quanto ao de função de magistério ou cargo em comissão ou quanto ao contrato para prestação de serviços técnicos ou especializados.
+
+**Art. 57** - Os proventos da inatividade serão revistos sempre que, por motivo de alteração do poder aquisitivo da moeda, se modificarem os vencimentos dos policiais -militares em serviço ativo.
+
+Parágrafo Único - Ressalvado os casos previstos em lei, os proventos de inatividade não poderão exceder a remuneração percebida pelo policial-militar da ativa no posto ou na graduação correspondente aos dos seus proventos.
+
+##### SEÇÃO II — DA PROMOÇÃO
+
+**Art. 58** - O acesso na hierarquia policial-militar é seletivo, gradual e sucessivo e será feito mediante promoções, de conformidade com o disposto na legislação e regulamentação de promoções de oficiais e de praças, de modo a obter-se um fluxo regular e equilibrado de carreira para os policiais-militares a quem esses dispositivos se referem.
+
+**§ 1.º** - O planejamento da carreira dos oficiais e das praças, obedecidas.as disposições da legislação e regulamentação a que se refere este artigo, é atribuição do Comando Geral da Polícia Militar.
+
+**§ 2.º** - A promoção é um ato administrativo e tem como finalidade básica a seleção dos policiais-militares para o exercício de funções pertinentes ao grau hierárquico superior.
+
+**Art. 59** - As promoções serão efetuadas pelos critérios de antiguidade e merecimento ou, ainda, por bravura em casos de guerras externas ou internas e ''post-mortem''.
+
+**§ 1.º** - Em casos extraordinários, poderá haver promoção em ressarcimento de preterição.
+
+**§ 2.º** - A promoção de policial-militar feita em ressarcimento de preterição será efetuada segundo os princípios de antiguidade ou merecimento, recebendo ele o número que lhe competir na escala hierárquica, como se houvesse sido promovido na época devida pelo princípio em que ora é feita sua promoção.
+
+**Art. 60** - Não haverá promoção de policial-militar por ocasião de sua transferência para a reserva remunerada ou por ocasião de sua reforma.
+
+##### SEÇÃO III — DAS FÉRIAS E OUTROS AFASTAMENTOS TEMPORÁRIOS DO SERVIÇO
+
+**Art. 61** - As férias são afastamentos totais do serviço, anual e obrigatoriamente, concedidas aos policiais-militares para descanso, a partir do último mês do ano a que se referem e durante o ano seguinte.
+
+**§ 1.º** - Compete ao Comandante-Geral da Polícia Militar a regulamentação da concessão das férias anuais.
+
+**§ 2.º** - A concessão de férias não é prejudicada pelo gozo anterior de licença para tratamento de saúde, por punição anterior decorrente de transgressão disciplinar, pelo estado de guerra ou para que sejam cumpridos atos de serviço, bem como não anula o direito àquelas licenças.
+
+**§ 3.º** - Somente em casos de interesse da Segurança Nacional, de manutenção da ordem, de extrema necessidade do serviço ou de transferência para a inatividade, os policiais-militares terão interrompidos ou deixarão de gozar, na época prevista, o período de férias a que tiverem direito, registrando-se, então, o fato em seus assentamentos.
+
+**§ 4.º** - Na impossibilidade absoluta do gozo de férias no ano seguinte ou no caso de sua interrupção pelos motivos previstos, o período de férias não gozado será computado dia a dia, pelo dobro, no momento da passagem do policial-militar para a inatividade e somente para esse fim.
+
+**Art. 62** - Os policiais-militares têm direito, ainda, aos seguintes períodos de afastamento total do serviço, obedecidas as disposições legais e regulamentares, por motivo de:
+
+I - núpcias: 8 (oito) dias;
+
+II - luto: 8 (oito) dias, por morte de pais, irmãos, esposa e filhos;
+
+III - instalação: até 10 (dez) dias; e
+
+IV - trânsito: até 30 (trinta) dias.
+
+**§ 1.º** - O afastamento do serviço por motivo de núpcias ou luto será concedido, no primeiro caso, se solicitado por antecipação à data do evento, e, no segundo caso, tão logo a autoridade a que estiver subordinado o policial-militar tenha conhecimento do óbito.
+
+**§ 2.º** - O afastamento do serviço por motivo de instalação ou trânsito, decorrente de movimentação do policial-militar, será regulado pelo Comando Geral da corporação.
+
+**Art. 63** - As férias e os outros afastamentos mencionados nesta Seção são concedidos sem prejuízo da remuneração prevista na legislação específica e computados como tempo de efetivo serviço para todos efeitos legais.
+
+##### SEÇÃO IV — DAS LICENÇAS
+
+**Art. 64** - Licença é a autorização para o afastamento total do serviço, em caráter temporário, concedida ao policial-militar, obedecidas as disposições legais e regulamentares.
+
+**§ 1.º** - A licença pode ser:
+
+a) especial;
+
+b) para tratar de interesse particular;
+
+c) para tratamento de saúde de dependente, legalmente reconhecido; e
+
+d) para tratamento de saúde própria.
+
+**§ 2.º** - A remuneração do policial-militar quando no gozo de qualquer das licenças constantes do parágrafo anterior, será regulada em legislação específica.
+
+**Art. 65** - A licença especial é a autorização para afastamento total do serviço, relativa a cada decênio de tempo de efetivo serviço prestado, concedida ao policial-militar que a requerer, sem que implique em qualquer restrição para a sua carreira.
+
+**§ 1.º** - A licença especial tem a duração de 6 (seis) meses, a ser gozada de uma só vez, podendo ser parcelada em 2 (dois) ou 3 (três) meses por ano civil, quando solicitado pelo interessado e julgado conveniente pelo Comandante-Geral da Corporação.
+
+**§ 2.º** - O período de licença especial não interrompe a contagem de tempo de efetivo serviço.
+
+**§ 3.º** - Os períodos de licença especial não gozadas pelo policial-militar são computados em dobro para fins exclusivos da contagem de tempo para a passagem para inatividade e, nesta situação, para todos os efeitos legais.
+
+**§ 4.º** - A licença especial não é prejudicada pelo gozo anterior de qualquer licença para tratamento de saúde e para que sejam cumpridos atos de serviço, bem como não anula o direito àquelas licenças.
+
+**§ 5.º** - Uma vez concedida a licença especial, o policial-militar será exonerado do cargo ou dispensado do exercício das funções que exerce e ficará à disposição do órgão de pessoal da Polícia Militar, para gozo imediato do benefício.
+
+**§ 6.º** - A concessão da licença especial é regulada pelo Comandante-Geral da Polícia Militar, de acordo com o interesse do serviço.
+
+**Art. 66** - A licença para tratar de interesse particular é a autorização para afastamento total do serviço, concedida ao policial-militar com mais de 10 (dez) anos de efetivo serviço, que a requerer com aquela finalidade.
+
+**§ 1.º** - A licença de que trata este artigo será sempre concedida com prejuízo da remuneração e da contagem de tempo de efetivo serviço.
+
+**§ 2.º** - A concessão de licença para tratar de interesse particular é regulada pelo Comandante-Geral da Polícia Militar, de acordo com o interesse do serviço.
+
+**Art. 67** - As licenças poderão ser interrompidas a pedido ou nas condições estabelecidas neste artigo.
+
+**§ 1.º** - A interrupção da licença especial ou de licença para tratar de interesse particular poderá ocorrer:
+
+a) em caso de mobilização e estado de guerra;
+
+b) em caso de decretação de estado de sítio;
+
+c) para cumprimento de sentença que importe em restrição da liberdade individual;
+
+d) para cumprimento de punição disciplinar, conforme disposições baixadas pelo Comandante-Geral da Polícia Militar; e
+
+e) em caso de pronúncia em processo criminal ou indicação em inquérito policial-militar, a juízo da autoridade que efetivar a pronúncia ou a indicação.
+
+**§ 2.º** - A interrupção da licença para tratamento de saúde da pessoa da família, para cumprimento de pena disciplinar que importe em restrição da liberdade individual, será regulada na legislação da Polícia Militar.
+
+#### CAPÍTULO II — DAS PRERROGATIVAS
+
+**Art. 68** - As prerrogativas dos policiais-militares são constituídas pelas honras, dignidades e distinções devidas aos graus hierárquicos e cargos que lhes estão afetos.
+
+Parágrafo Único - São prerrogativas dos policiais-militares:
+
+a) uso de títulos, uniformes, distintivos, insígnias e emblemas policiais-militares da Polícia Militar, correspondentes ao posto ou à graduação;
+
+b) honrar, tratamento e sinais de respeito que lhes sejam asseguradas em leis ou regulamentos;
+
+c) cumprimento de pena de prisão, detenção ou reclusão somente em organização policial-militar, cujo Comandante, Chefe ou Diretor tenha precedência hierárquica sobre o preso ou detido; e
+
+d) julgamento em foro especial, nos crimes militares.,
+
+**Art. 69** - Somente em caso de flagrante delito, o policial-militar poderá ser preso por autoridade policial, ficando esta obrigada a entregá-lo imediatamente à autoridade policial-militar mais próxima, só podendo retê-lo na Delegacia ou Posto Policial durante o tempo necessário à lavratura do flagrante.
+
+**§ 1.º** - Cabe ao Comandante-Geral da Polícia Militar a iniciativa de responsabilizar, junto ao Secretário de Segurança, a autoridade policial que não cumprir o disposto neste artigo e que maltratar ou consentir que seja maltratado qualquer preso policial-militar ou não lhe der o tratamento devido ao seu posto ou à sua graduação.
+
+**§ 2.º** - Se, durante o processo em julgamento no foro civil, houver perigo de vida para qualquer preso policial-militar, o Comandante-Geral da Polícia Militar providenciará os entendimentos com a autoridade judiciária, visando à guarda dos pretórios ou tribunais por forca policial-militar.
+
+**Art. 70** - Os policiais-militares da ativa no exercício de funções policiais-militares são dispensados do serviço de júri na justiça civil e do serviço na justiça eleitoral.
+
+SEÇÃO ÚNICA
+
+DO USO DOS UNIFORMES DA POLÍCIA MILITAR
+
+**Art. 71** - Os uniformes da Polícia Militar,com seus distintivos, insígnias e emblemas são privativos dos policiais-militares e representam o símbolo da autoridade policial-militar com as prerrogativas que lhes são inerentes.
+
+Parágrafo Único - Constituem crimes previstos na legislação específica o desrespeito aos uniformes, distintivos, insígnias e emblemas policial-militares,bem como seu uso por quem a eles não tiver direito.
+
+**Art. 72** - O uso dos uniformes com seus distintivos, Insígnias e emblemas, bem como os modelos,descrição, composição, peças acessórias e outras disposições são estabelecidas na regulamentação específica da Polícia Militar.
+
+**§ 1.º** - É proibido ao policial-militar o uso de uniformes:
+
+a) em reuniões, propaganda ou qualquer outra manifestação de caráter político partidário;
+
+b) na inatividade, salvo para comparecer a solenidades militares e policial-militares e, quando autorizado, a cerimônias cívicas comemorativas de datas nacionais ou a atos sociais solenes de caráter particular;
+
+c) no estrangeiro, quando em atividades não relacionadas com a missão policial-militar, salvo quando expressamente determinado ou autorizado.
+
+**§ 2.º** - Os policiais-militares na inatividade, cuja conduta possa ser considerada como ofensiva à dignidade da classe, poderão ser definitivamente proibidos de usar uniformes, por decisão do Comandante-Geral da Polícia Militar.
+
+**Art. 73** - O policial-militar fardado tem as obrigações correspondentes ao uniforme que usa e aos distintivos, emblemas ou às insígnias que ostente.
+
+**Art. 74** - É vedado a qualquer elemento civil ou organizações civis usar uniformes,equipamentos ou ostentar distintivos, insígnias ou emblemas que possam ser confundidos com os adotados na Polícia Militar.
+
+Parágrafo Único - São responsáveis pela infração das disposições deste artigo os diretores ou chefes de repartições, organizações de qualquer natureza,firma ou empregadores, empresas e institutos ou departamentos que tenham adotado ou consentido sejam usados uniformes ou ostentados distintivos, insígnias ou emblemas que possam ser confundidos com os adotados na Polícia Militar.
+
+### TÍTULO IV — DAS DISPOSIÇÕES DIVERSAS
+
+#### CAPÍTULO I — DAS SITUAÇÕES ESPECIAIS
+
+##### SEÇÃO I — DA AGREGAÇÃO
+
+**Art. 75** - A agregação é a situação na qual o policial-militar da ativa deixa de ocupar vaga na escala hierárquica do seu Quadro, nela permanecendo sem número.
+
+**§ 1.º** O policial-militar deve ser agregado quando:
+
+a) for nomeado para cargo policial-militar ou considerado de natureza policial-militar, estabelecido em lei ou decreto, não previsto nos quadros de organização da Polícia Militar;
+
+b) aguardar transferências ''ex-officio'' para a reserva remunerada, por ter sido enquadrado em quaisquer dos requisitos que a motivam; e
+
+c) for afastado temporariamente do serviço ativo por motivo de:
+
+I - ter sido julgado incapaz temporariamente, após um ano contínuo de tratamento;
+
+II - ter sido julgado incapaz definitivamente, enquanto tramita o processo de reforma;
+
+III - haver ultrapassado um ano contínuo de licença para tratamento de saúde própria;
+
+IV - haver ultrapassado 6 (seis) meses contínuos de licença para tratar de interesse particular;
+
+V - haver ultrapassado 6 (seis) meses contínuos em licença para tratamento de saúde e de pessoa da família;
+
+VI - ter sido considerado oficialmente extraviado;
+
+VII - haver sido esgotado o prazo que caracteriza o crime de deserção previsto no Código Penal Militar, se oficial ou praça com estabilidade assegurada;
+
+VIII - como desertor, ter-se apresentado voluntariamente, ou ter sido capturado e reincluído a fim de se ver processar;
+
+IX - se ver processado, após ficar exclusivamente à disposição da justiça civil;
+
+X - Ter sido condenado à pena restritiva de liberdade superior a 06 (seis) meses em sentença transitada em julgado, enquanto durar a execução, excluído o período de suspensão condicional, se concedida esta, ou até ser declarado indígno de pertencer à Polícia Militar do Ceará ou com ela incompatível. (Nova redação dada pela Lei n.º 10.833, de 13.09.83)
+
+XI- ter sido condenado a pena restritiva de liberdade, superior a 6 (seis) meses em sentença passada em julgado, enquanto durar a execução ou até ser declarado indigno de pertencer à Polícia Militar ou com ela incompatível;
+
+XII - ter passado à disposição de Secretaria de Governo, de outro órgão do município, do Estado ou da União, para exercer função de natureza civil;
+
+XIII - ter sido nomeado para qualquer cargo público civil temporário, não eletivo, inclusive da administração indireta, excetuando-se os considerados de interesse da segurança nacional;
+
+XIV - ter-se candidatado a cargo eletivo desde que conte 5 (cinco) ou mais anos de efetivo serviço;
+
+XV - ter sido condenado à pena de suspensão do exercício do posto, graduação, cargo ou função prevista no Código Penal Militar.
+
+**§ 2.º** O policial-militar agregado de conformidade com as alíneas "a"' e "b" do parágrafo 1.º deste artigo, continua a ser considerado, para todos os efeitos, em serviço ativo.
+
+**§ 3.º** - A agregação do policial-militar, a que se refere a alínea ''a'' e os números XII e XIII da letra "c'' do parágrafo 1.º deste artigo, é contada a partir da data de posse do novo cargo até o regresso à Corporação ou transferência ''ex-officio" para a reserva remunerada.
+
+**§ 4.º** - A agregação do policial-militar, a que se refere os incisos I, III, IV, V e X da alínea "c" do parágrafo 1.º, é contada a partir do primeiro dia após os respectivos prazos e enquanto durar o respectivo evento.
+
+**§ 5.º** - A agregação do policial-militar a que se refere a alínea "b" e incisos II, VI, VII, VIII, IX, XI e XV da alínea "c" do § 1.º deste artigo, é contada a partir da data indicada no ato que torna público o respectivo evento.
+
+**§ 6.º** - A agregação do policial-militar, a que se refere o inciso XIV da alínea "c" do § 1.º deste artigo, é contada a partir da data do registro como candidato, até sua diplomação ou seu ingresso à Corporação, se não houver sido eleito.
+
+**§ 7.º** - O policial-militar agregado fica sujeito às obrigações disciplinares concernentes às suas relações com outros policiais-militares e autoridades civis, salvo quando titular de cargo que lhe dê precedência funcional sobre outros policiais-militares mais graduados ou mais antigos.
+
+**Art. 76** - O policial-militar agregado ficará adido, para efeito de alterações e remunerações, à organização policial-militar que lhe for designada, continuando a figurar no respectivo registro, sem número, no lugar que até então ocupava, com a abreviatura "Ag'' e anotações esclarecedoras de sua situação.
+
+**Art. 77** - A agregação se faz por ato do Comandante-Geral, de acordo com as disposições legais.
+
+##### SEÇÃO II — DA REVERSÃO
+
+**Art. 78** - Reversão é o ato pelo qual o policial-militar agregado, ou reformado, retorna ao respectivo Quadro tão logo cesse o motivo que determinou a sua agregação ou reforma, voltando a ocupar o lugar que lhe competir na respectiva escala numérica, na primeira vaga que ocorrer.
+
+Parágrafo Único - A qualquer tempo poderá ser determinada a reversão do policial-militar agregado, exceto nos casos previstos nos incisos I, II, III, VI, VII, VIII, XI, XIV e XV da alínea "c" do § 1.º do art. 75 desta lei.
+
+**Art. 79.** -A reversão será efetuada, mediante ato do Governador ou pelo Comandante-Geral da Polícia Militar quando,assim lhe for delegado por aquela autoridade. (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+##### SEÇÃO III — DO EXCEDENTE
+
+**Art. 80** - Excedente é a situação transitória a que, automaticamente, passa o policial-militar que:
+
+I - tendo cessado o motivo que determinou a sua agregação, reverte ao respectivo quadro, estando este com seu efetivo completo;
+
+II - aguarda a colocação a que faz jus na escala hierárquica após haver sido transferido de quadro, estando o mesmo com seu efetivo completo;
+
+III - é promovido por bravura, sem haver vaga;
+
+IV - é promovido indevidamente;
+
+V - sendo o mais moderno da respectiva escala hierárquica, ultrapasse o efetivo de seu quadro, em virtude de promoção de outro policial-militar em ressarcimento de preterição; e
+
+VI - tendo cessado o motivo que determinou sua reforma por incapacidade definitiva, retorna ao respectivo Quadro, estando este com seu efetivo completo.
+
+**§ 1.º** - O policial-militar cuja situação é a de excedente, salvo o indevidamente promovido, ocupa a mesma posição relativa em antiguidade, que lhe cabe, na escala hierárquica, com a abreviatura “Excd'' e receberá o número que lhe competir em conseqüência da primeira vaga que se verificar.
+
+**§ 2.º** - O policial-militar, cuja situação é a de excedente, é considerado como em efetivo serviço para todos os efeitos e concorre, respeitados os requisitos legais, em igualdade de condições e sem nenhuma restrição, a qualquer cargo policial-militar, bem como a promoção, observado o disposto no Art. 139 deste Estatuto.
+
+**§ 3.º** - O policial-militar promovido por bravura, sem haver vaga, ocupará a primeira vaga aberta, deslocando o princípio de promoção a ser seguido para a vaga seguinte.
+
+**§ 4.º** - O policial-militar promovido indevidamente só contará antiguidade e receberá o número que lhe competir na escala hierárquica, quando a vaga deverá preencher corresponder ao princípio pelo qual deveria ter sido promovido, desde que satisfaça os requisitos para a promoção.
+
+##### SEÇÃO IV — DO AUSENTE E DO DESERTOR
+
+**Art. 81** - É considerado ausente o policial-militar que por mais de 24 (vinte e quatro) horas consecutivas:
+
+I - deixar de comparecer a sua Organização Policial-Militar, sem comunicar qualquer motivo de impedimento; e
+
+II - ausentar-se, sem licença, da Organização Policial-Militar onde serve ou local onde deva permanecer.
+
+Parágrafo Único - Decorrido o prazo mencionado neste artigo, serão observadas as formalidades previstas em legislação específica.
+
+**Art. 82** - O policial-militar é considerado desertor nos casos previstos na legislação penal militar.
+
+##### SEÇÃO V — DO DESAPARECIMENTO E DO EXTRAVIO
+
+**Art. 83** - É considerado desaparecido o policial-militar da ativa que, no desempenho de qualquer serviço, em viagem, em operações policial-militares ou em caso de calamidade pública, tiver paradeiro Ignorado por mais de 8 (oito) dias.
+
+Parágrafo Único - A situação de desaparecido só será considerada quando não houver indício de deserção.
+
+**Art. 84** - O policial-militar que, na forma do artigo anterior, permanecer desaparecido por mais de 30 (trinta) dias, será oficialmente considerado extraviado.
+
+#### CAPÍTULO II — DO DESLIGAMENTO OU EXCLUSÃO DO SERVIÇO ATIVO
+
+**Art. 85** - O desligamento ou a exclusão do serviço ativo da Polícia Militar é feito em conseqüência de:
+
+l - transferência para a reserva remunerada;
+
+II - reforma;
+
+III - demissão;
+
+IV - perda de posto e patente;
+
+V - licenciamento;
+
+VI - exclusão a bem da disciplina;
+
+VII - deserção;
+
+VIII - falecimento; e
+
+IX - extravio.
+
+Parágrafo Único - O desligamento do serviço ativo será processado após a expedição de ato do Governador do Estado ou de autoridade a qual tenham sido delegados poderes para isso.
+
+**Art. 86** - A transferência para a reserva remunerada ou a reforma não isentam o policial-militar da indenização dos prejuízos causados à Fazenda Estadual ou a terceiros, nem ao pagamento das pensões decorrentes de sentença judicial.
+
+**Art. 87** - O policial-militar da ativa, enquadrado em um dos itens I, II e V do art. 85 ou demissionário a pedido, continuará no exercício de suas funções até ser desligado da Organização Policial-Militar em que serve.
+
+Parágrafo Único - O desligamento da Organização Policial-Militar em que serve deverá ser feito após a publicação em Diário Oficial, em Boletim da Corporação, ou de sua OPM, do ato oficial correspondente, e não poderá exceder de 45 (quarenta e cinco) dias da data da primeira publicação oficial.
+
+##### SEÇÃO I — DA TRANSFERÊNCIA PARA A RESERVA REMUNERADA
+
+**Art. 88** - A passagem do policial-militar à situação da inatividade mediante transferência para a reserva remunerada, se efetua:
+
+l - a pedido; e
+
+II - "ex-officio".
+
+**Art. 89** - A transferência para a reserva remunerada, a pedido, será concedida, mediante requerimento, do policial-militar que conte, no mínimo 30 (trinta) anos de serviço.
+
+**§ 1.º** - No caso do policial-militar haver realizado qualquer curso ou estágio de duração superior a 6 (seis) meses, por conta do Estado, sem haver decorrido 3 (três) anos de seu término, a transferência para a reserva remunerada só será concedida mediante indenização de todas as despesas correspondentes à realização do referido curso ou estágio, inclusive as diferenças de vencimentos.
+
+**§ 2.º** - Se o curso ou estágio for de duração igual ou superior a 18 (dezoito) meses, a transferência para a reserva remunerada só será concedida após decorridos 5 (cinco) anos de sua conclusão, salvo mediante indenização na forma prevista no parágrafo anterior.
+
+**§ 3.º** - Não será concedida transferência para a reserva remunerada, a pedido, ao policial-militar que:
+
+a) estiver respondendo a inquérito ou processo em qualquer jurisdição; e
+
+b) estiver cumprindo pena de qualquer natureza.
+
+**Art. 90.** -A transferência "ex-officio" para a reserva remunerada verificar-se-á sempre que o policial-militar incidir nos seguintes casos: (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+I- atingir as seguintes idades militares: (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+a)-nos Quadros de Oficiais PM e BM: (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+**Postos Idades**
+
+Coronel. 59 anos
+
+Tenente-Coronel 56 anos
+
+Major..... 52 anos
+
+Capitão a Oficiais Subalternos. 48 anos
+
+b) Quadro de Oficiais de Administração Policiais- Militares (QOAPM) e de Oficiais Especialistas Policiais- Militares (QOEPM): (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+**Postos Idades**
+
+Capitão.. 56 anos
+
+1.o Tenente 54 anos
+
+2.o Tenente 52 anos
+
+c) Para as praças PM e BM: (Acrescido pela Lei n.º 10.186, de 26.06.78)
+
+Subtenente. 56 anos
+
+1.o Sargento. 54 anos
+
+2.o Sargento 52 anos
+
+3.o Sargento. 51 anos
+
+Cabo e Soldado 51 anos
+
+II- Ter ultrapassado ou vier ultrapassar: (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+a) 35 (trinta e cinco ) anos de serviço; (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+b) O Oficial Superior 8 (oito) anos de permanência no último posto previsto na hierarquia de seu Quadro, desde que, também, conte ou venha contar 30 (trinta ou mais anos de serviço.O prazo de oito) anos,acima, será acrescido de mais 1(um)ano,para oficiais de serviço de Saúde,bem como para os Oficiais de PM e BM, possuidores do Curso Superior de Polícia; (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+c) O Oficial intermediário 6 (seis) anos de permanência no posto, quando este for o último da hierarquia de seu Quadro, desde que, também conte ou venha a contar 30 (trinta) ou mais anos de serviço; (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+III- For oficial considerado não habilitado para o acesso, em caráter definitivo, no momento em que vier a ser objeto de apreciação para ingresso em Quadro de Acesso; (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+IV- Ultrapassar 2 (dois) anos, contínuos ou não em licença para tratar de interesse particular; (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+V- Ultrapassar 2 (dois) anos contínuos em licença para tratamento de saúde de pessoa da família; (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+VI- Ser empossado em cargo público permanente, estranho a sua carreira, cujas funções sejam do Magistério; (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+VII - Ultrapassar 2 (dois) anos de afastamento contínuo ou não,agregado em virtude de ter sido empossado em cargo público civil temporário não eletivo, inclusive da administração indireta; (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+VIII- Ser diplomado em cargo eletivo na forma da alínea "B” do parágrafo Único do art. 51, desta lei; e (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+IX- Após 3 (três) indicações para freqüentar os cursos: Superior de Polícia, de Aperfeiçoamento de Oficiais e de Aperfeiçoamento de Sargento, não os completar ou não aceitar as indicações; a terceira indicação e a transferência para a reserva remunerada dependerão de estudos das Comissões de Promoções e de decisão do Comandante Geral. (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+**§ 1.º** - A transferência para a reserva remunerada processar-se-á à medida que o Policial-Militar for enquadrado em um dos itens deste artigo. (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+**§ 2.º** A transferência para a reserva remunerada do Policial-Militar enquadrado no item VI será efetivada no posto ou na graduação que tinha na ativa, podendo acumular os proventos a que fizer jus na inatividade com a remuneração do cargo para o que foi nomeado. (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+§ 3.º- A nomeação do policial-militar para os casos de que tratam os itens VI e VII somente poderão ser feita: (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+a) Pela autoridade federal competente, mediante requisição ao Governador do Estado,quando o cargo for da alçada federal; (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+b) Pelo Governador do Estado ou mediante sua autorização, nos demais casos. (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+**§ 4.º** - Enquanto permanecer no cargo de que trata o item VII: (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+a) É-lhe assegurada a opção entre a remuneração do cargo e a do posto ou da graduação; (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+b)Somente poderá ser promovido por antiguidade; (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+c) O tempo de serviço e contado apenas para aquela promoção e para a transferência para a inatividade. (Nova redação dada pela Lei n.º 10.186, de 26.06.78)
+
+**Art. 91** - A transferência do policial-militar para a reserva remunerada poderá ser suspensa na vigência do estado de guerra, estado de sítio ou em caso de mobilização.
+
+**Art. 92** - O oficial da reserva remunerada poderá ser convocado para o serviço ativo por ato do Governador do Estado para compor Conselho de Justificação, para ser encarregado de inquérito Policial-Militar ou incumbido de outros procedimentos administrativos, na falta de um oficial da ativa em situação hierárquica compatível com a do oficial envolvido.
+
+**§ 1.º** - O oficial convocado nos termos deste artigo terá os direitos e deveres dos da ativa de igual situação hierárquica, exceto quanto à promoção a que não concorrerá, e contará, como acréscimo, esse tempo de serviço.
+
+**§ 2.º** - A convocação de que trata este artigo terá a duração necessária ao cumprimento da atividade que a ela deu origem, não devendo ser superior ao prazo de 12 (doze) meses, quando dependerá da anuência do convocado e será precedida de inspeção de saúde.
+
+##### SEÇÃO II — DA REFORMA
+
+**Art. 93** - A passagem do policial-militar à situação de inatividade, mediante reforma, se efetua "ex-officio".
+
+**Art. 94** - A reforma de que trata o artigo anterior será aplicada ao policial-militar que:
+
+I - atingir as seguintes idades-limites de permanência na reserva remunerada:
+
+a) para oficial superior - 64 (sessenta e quatro) anos;
+
+b) para capitão e oficial subalterno - 60 (sessenta) anos;
+
+c) para praças - 56 (cinqüenta e seis) anos;
+
+II - for julgado incapaz definitivamente para o serviço ativo da Polícia Militar;
+
+III - estiver agregado por mais de 2 (dois) anos, por ter sido julgado incapaz temporariamente, mediante homologação da Junta de Saúde, ainda mesmo que se trate de moléstia curável;
+
+IV - for condenado à pena de reforma, prevista no Código Penal Militar, por sentença passada em julgado;
+
+V - sendo oficial, a tiver determinado o órgão de segunda instância da Justiça Militar Estadual, em julgamento por ele efetuado, em conseqüência do Conselho de justificação a que foi submetido; e
+
+VI - sendo aspirante-a-oficial PM ou praça com estabilidade assegurada, for para tal indicado ao Comandante-Geral da Polícia Militar, em julgamento de Conselho de Disciplina.
+
+Parágrafo Único - O policial-militar reformado, na forma dos incisos V ou VI deste artigo, só poderá readquirir a situação policial-militar anterior, respectivamente, por outra sentença do Tribunal de Justiça do Estado e nas condições nela estabelecidas, ou por decisão do Comandante Geral da PM.
+
+**Art. 95** - Anualmente, no mês de fevereiro, o órgão de pessoal da Corporação organizará a relação dos policiais-militares que houverem atingido a idade-limite de permanência da reserva remunerada, a fim de serem reformados.
+
+Parágrafo Único - A situação de inatividade do policial-militar da reserva remunerada, quando reformado por limite de idade, não sofre solução de continuidade, exceto quanto às condições de convocação.
+
+**Art. 96** - A incapacidade definitiva pode sobreviver em conseqüência de:
+
+I - ferimento recebido na manutenção da ordem pública ou enfermidade contraída nessa situação ou que nela tenha sua causa eficiente;
+
+II - acidente em serviço;
+
+III - doença, moléstia ou enfermidade adquirida, com relação de causa e efeito a condições inerentes ao serviço;
+
+IV - tuberculose ativa, alienação mental, neoplasia maligna, cegueira, lepra, paralisia irreversível e incapacitante, cardiopatia grave, mal de Parkinson, pênfigo, espondiloartrose anquilosante, nefropatia grave e outras moléstias que a lei indicar com base nas conclusões da medicina especializada; e
+
+V - acidente ou doença, moléstia ou enfermidade, sem relação de causa e efeito com o serviço.
+
+**§ 1.º** - Os casos de que tratam os incisos I, II e III deste artigo serão provados por atestado de origem ou inquérito sanitário de origem, sendo os termos do acidente, baixa ao hospital, papeletas de tratamento nas enfermarias e hospitais, e os registros de baixa, utilizados como meios subsidiários para esclarecer a situação.
+
+**§ 2.º** - Nos casos de tuberculose, as Juntas de Saúde deverão basear seus julgamentos, obrigatoriamente, em observações clínicas, acompanhadas de repetidos exames subsidiários, de modo a comprovar, com segurança, atividade da doença, após acompanhar sua evolução até 3 (três) períodos de 6 (seis) meses de tratamento clínico-cirúrgico metódico, atualizado e, sempre que necessário, nosocomial, salvo quando se tratar de forma "grandemente avançadas", no conceito clínico e sem qualquer possibilidade de regressão completa, as quais terão parecer imediato de incapacidade definitiva.
+
+**§ 3.º** - O parecer definitivo a adotar, nos casos de tuberculose, para os portadores de lesões aparentemente inativas, ficará condicionado a um período de consolidação extranosocomial, nunca inferior a 6 (seis) meses, contados a partir da época da cura.
+
+**§ 4.º** - Considera-se alienação mental todo caso de distúrbio mental ou neuromental grave persistente, no qual, esgotados os meios habituais de tratamento, permaneça alteração completa ou considerável na personalidade, destruindo a autodeterminação do pragmatismo e tornando o indivíduo total e permanentemente impossibilitado para qualquer trabalho.
+
+**§ 5.º** - Ficam excluídas do conceito da alienação mental as epilepsias psíquicas e neurológicas, assim julgadas pela Juntas de Saúde.
+
+**§ 6.º** - Considera-se paralisia todo caso de neuropatia grave e definitiva que afeta a mobilidade, sensibilidade, troficidade e mais funções nervosas, no qual, esgotados os meios habituais de tratamento, permanecem distúrbios graves, extensos e definitivos, que tornem o indivíduo total e permanentemente impossibilitado para qualquer trabalho.
+
+**§ 7.º** - São também equiparados às paralisias os casos de afecção ósteo-músculo-articulares graves e crônicos (reumatismos graves e crônicos ou progressivos e doenças similares), nos quais, esgotados os meios habituais de tratamento, permaneçam distúrbios extensos e definitivos, quer ósteo-músculo-articulares residuais, quer secundários das funções nervosas, mobilidade, troficidade ou mais funções que tornem o indivíduo total e permanentemente impossibilitado para qualquer trabalho.
+
+**§ 8.º** - São equiparados à cegueira, não só os casos de afecções crônicas, progressivas e incuráveis, que conduzirão à cegueira total, como também os da visão rudimentar que apenas permitam a percepção de vultos, não suscetíveis de correção por lentes, nem removíveis por tratamento médico cirúrgico.
+
+**Art. 97** - O policial-militar da ativa, julgado incapaz definitivamente por um dos motivos constantes dos incisos I, II, III e IV do art. 96 desta lei, será reformado com qualquer tempo de serviço.
+
+**Art. 98** - O policial-militar da ativa, julgado incapaz definitivamente por um dos motivos constantes do inciso I do art. 96 desta lei, será reformado com a remuneração calculada com base no soldo correspondente ao grau hierárquico imediato ao que possuir na ativa.
+
+**§ 1.º** - Aplica-se o disposto neste artigo os casos previstos nos incisos II, III e IV do art. 96 desta lei, quando verificada a incapacidade definitiva, for o policial-militar considerado inválido, isto é, impossibilitado total e permanentemente para qualquer trabalho.
+
+**§ 2.º** - Considera-se, para efeito deste artigo, grau hierárquico imediato:
+
+a) o de Primeiro-Tenente PM, para Aspirante-a-Oficial PM;
+
+b) o Segundo-Tenente PM, para Subtenente PM, Primeiro-Sargento PM, Segundo -Sargento PM e Terceiro-Sargento PM; e
+
+c) o de Terceiro-Sargento PM, para Cabo e Soldado PM.
+
+**§ 3.º** - Aos benefícios previstos neste artigo e seus parágrafos poderão ser acrescidos outros relativos à remuneração, estabelecidos em leis específicas, desde que o policial-militar, ao ser reformado, já satisfaça as condições por elas exigidas.
+
+**Art. 99** - O policial-militar da ativa, julgado incapaz definitivamente por um dos motivos constantes do inciso V do art. 96 desta lei, será reformado:
+
+I - com remuneração proporcional ao tempo de serviço, se oficial ou praça com estabilidade assegurada; e
+
+II - com remuneração calculada com base no soldo integral do posto ou da graduação, desde que, com qualquer tempo de serviço, seja considerado inválido, isto é, impossibilitado total e permanentemente para qualquer trabalho.
+
+**Art. 100** - O policial-militar reformado por incapacidade definitiva que for julgado apto em inspeção de saúde por Junta Superior, em grau de recurso ou revisão, poderá retornar ao serviço ativo ou ser transferido para a reserva remunerada conforme dispuser regulamentação específica.
+
+**§ 1.º** - O retorno ao serviço ativo ocorrerá se o tempo decorrido na situação de reformado não ultrapassar 2 (dois) anos e na forma do disposto no § 1.º do art. 80 desta lei.
+
+**§ 2.º** - A transferência para a reserva remunerada, observado o limite de idade para permanência nessa situação, ocorrerá se o tempo decorrido na situação de reformado, ultrapassar 2 (dois) anos.
+
+**Art. 101** - O policial-militar reformado por alienação mental, enquanto não ocorrer a designação judicial do curador, terá sua remuneração paga aos beneficiários, desde que o tenham sob guarda e responsabilidade e lhe dispensem tratamento humano e condigno.
+
+**§ 1.º** - A interdição judicial do policial-militar, reformado por alienação mental, deverá ser providenciada junto ao Ministério Público, por iniciativa de beneficiários, parentes ou responsáveis, até 60 (sessenta) dias a contar da data do ato da reforma.
+
+**§ 2.º** - A interdição judicial do policial-militar e seu internamento em instituição apropriada, policial-militar ou não, deverão ser providenciados pela Corporação quando:
+
+a) não houver beneficiários, parentes ou responsáveis;
+
+b) não forem satisfeitas as condições de tratamento exigidas neste artigo.
+
+**§ 3.º** - Os processos e os atos de registro de interdição do policial-militar terão andamento sumário, serão instruídos com laudo proferido por Junta de Saúde e isentos de custas.
+
+**Art. 102** - Para fins do previsto na presente Seção, as praças especiais, constantes do quadro a que se refere o art. 14 desta lei, são consideradas:
+
+I - Segundo-Tenente PM, os aspirantes-a-oficial PM;
+
+II - Aspirante-a-Oficial PM, os alunos-oficiais PM;
+
+III - Terceiro-Sargento PM, os alunos do Curso de Formação de Sargento PM; e
+
+IV - Cabo PM, os soldados e alunos do Curso de Formação de Cabos e Soldados PM.
+
+##### SEÇÃO III — DA DEMISSÃO, DA PERDA DO POSTO E DA PATENTE E DA DECLARAÇÃO DE INDIGNIDADE OU INCOMPATIBILIDADE COM O OFICIALATO
+
+**Art. 103** - A demissão da Polícia Militar, aplicada exclusivamente aos oficiais, se efetua:
+
+I - a pedido; e
+
+II - "ex-officio".
+
+**Art. 104** - A demissão a pedido será concedida, mediante requerimento do interessado:
+
+I - sem indenização aos cofres públicos, quando contar mais de 5 (cinco) anos de oficialato na PM;
+
+II - com indenização das despesas feitas pelo Estado, com a sua preparação e formação, quando contar menos de 5 (cinco) anos de oficialato.
+
+**§ 1.º** - No caso do oficial ter feito qualquer curso ou estágio de duração igual ou superior a 6 (seis) meses e inferior ou igual a 18 (dezoito) meses, por conta do Estado, e não tendo decorrido mais de 3 (três) anos do seu término, a demissão só será concedida mediante indenização de todas as despesas correspondentes ao referido curso ou estágio, acrescidas, se for o caso, das previstas no inciso II deste artigo e das diferenças de vencimentos.
+
+**§ 2.º** - No caso do oficial ter feito qualquer curso ou estágio de duração superior a 18 (dezoito) meses, por conta do Estado, aplicar-se-á o disposto no parágrafo anterior, se ainda não houver decorrido mais de 5 (cinco) anos do seu término.
+
+**§ 3.º** - O oficial demissionário, a pedido, não terá direito a qualquer remuneração, sendo a sua situação militar definida pela Lei do Serviço Militar.
+
+**§ 4.º** - O direito à demissão, a pedido, pode ser suspenso na vigência de estado de guerra, calamidade pública, perturbação da ordem interna, estado de sítio ou em caso de mobilização.
+
+**Art. 105** - O oficial da ativa empossado em cargo público permanentemente, estranho à sua carreira e cuja função não seja de magistério, será imediatamente, mediante demissão “ex-offício" por esse motivo, transferido para a reserva, onde ingressará com o posto que possuía na ativa, não podendo acumular qualquer provento de inatividade com a remuneração de cargo público permanente.
+
+**Art. 106** - O oficial que houver perdido o posto e a patente será demitido "ex-officio", sem direito a qualquer remuneração ou indenização, e terá a sua situação militar definida pela Lei do Serviço Militar.
+
+**Art. 107** - O oficial perderá o posto e a patente se for declarado indigno do oficialato ou com ele compatível por decisão do Tribunal de Justiça do Estado, em decorrência do julgamento a que for submetido.
+
+Parágrafo Único - O oficial declarado indigno do oficialato, ou com ele incompatível, e condenado à perda do posto e patente, só poderá readquirir a situação policial-militar anterior por outra sentença do Tribunal mencionado e nas condições nela estabelecidas.
+
+**Art. 108** - Fica sujeito à declaração de indignidade para o oficialato, ou de incompatibilidade com o mesmo, por julgamento do Tribunal de Justiça do Estado, o oficial que:
+
+I - for condenado por Tribunal Civil ou Militar à pena restritiva de liberdade individual, superior a 2 (dois) anos, em decorrência de sentença condenatória passada em julgado;
+
+II - for condenado por sentença passada em julgado por crime para os quais o Código Penal Militar comina essas penas acessórias e por crimes previstos na legislação concernente à Segurança Nacional;
+
+III - incidir nos casos previstos em lei específica que motivam o julgamento por Conselho de Justificação e, neste, for considerado culpado; e
+
+IV - tiver perdido a nacionalidade brasileira.
+
+##### SEÇÃO IV — DO LICENCIAMENTO
+
+**Art. 109** - O licenciamento do serviço ativo, aplicado às praças, se efetua:
+
+I - a pedido; e
+
+II - "ex-officio".
+
+**§ 1.º** - O licenciamento a pedido poderá ser concedido, desde que não haja prejuízo para o serviço, à praça engajada ou reengajadas que conte, no mínimo, a metade do tempo a que se obrigou.
+
+**§ 2.º** - O licenciamento "ex-officio" será feito na forma da legislação específica:
+
+a) por conveniência do serviço;
+
+b) a bem da disciplina; e
+
+c) por conclusão de tempo de serviço.
+
+**§ 3.º** - O policial-militar licenciado não tem direito a qualquer remuneração e terá sua situação militar definida pela Lei do Serviço Militar.
+
+**§ 4.º** - O licenciado "ex-officio" a bem da disciplina receberá o Certificado de Isenção previsto na Lei do Serviço Militar.
+
+**Art. 110** - O aspirante-a-oficial PM e as demais praças empossadas em cargo público permanente, estranho à sua carreira e cuja função não seja de magistério, serão imediatamente licenciados "ex-officio", sem remuneração e terão sua situação militar definida pela Lei do Serviço Militar.
+
+**Art. 111** - O direito ao licenciamento, a pedido, poderá ser suspenso na vigência do estado de guerra, calamidade pública, perturbação da ordem interna, estado de sítio ou em caso de mobilização.
+
+##### SEÇÃO V — DA EXCLUSÃO DA PRAÇA A BEM DA DISCIPLINA
+
+**Art. 112** - A exclusão a bem da disciplina será aplicada "ex-officio" ao aspirante-a-oficial PM ou às praças com estabilidade assegurada:
+
+I - sobre os quais houver pronunciado tal sentença o Conselho Permanente de Justiça por haverem sido condenadas em sentença passada em julgado por aquele Conselho ou Tribunal à pena restritiva de liberdade individual superior a 2 (dois) anos ou nos crimes previstos na legislação especial concernente à Segurança Nacional, à pena de qualquer duração;
+
+II - sobre os quais houver pronunciado tal sentença o Conselho Permanente de Justiça, por haverem perdido a nacionalidade brasileira;
+
+III - que incidirem nos casos que motivaram o julgamento pelo Conselho de Disciplina, previsto no art. 48 desta lei, e neste forem considerados culpados.
+
+Parágrafo Único - O aspirante-a-oficial PM ou a praça com estabilidade assegurada que houver sido excluído a bem da disciplina só poderá readquirir a situação policial-militar anterior:
+
+a) por ato do Comandante-Geral em cumprimento de uma outra sentença do Conselho Permanente de Justiça e nas condições nela estabelecidas, se a exclusão for conseqüência de sentença daquele Conselho; e
+
+b) por decisão do Comandante-Geral da Polícia Militar, se a exclusão for conseqüência de ter sido julgado culpado em Conselho de Disciplina, em prazo nunca superior a 60 (sessenta) dias.
+
+**Art. 113** - É da competência do Comandante-Geral da Polícia Militar o ato de exclusão a bem da disciplina do aspirante-a-oficial PM, bem como das praças com estabilidade assegurada.
+
+**Art. 114** - A exclusão da praça a bem da disciplina acarreta a perda do seu grau hierárquico e não a isenta das indenizações dos prejuízos causados à Fazenda Estadual ou a terceiros, nem das pensões decorrentes da sentença judicial.
+
+Parágrafo Único - A praça excluída a bem da disciplina não terá direito a qualquer remuneração ou indenização e sua situação militar definida pela Lei do Serviço Militar.
+
+##### SEÇÃO VI — DA DESERÇÃO
+
+**Art. 115** - A deserção do policial-militar acarreta uma interrupção do serviço policial-militar, com a conseqüente demissão "ex-officio" para o oficial ou exclusão do serviço ativo para a praça.
+
+**§ 1.º** - A demissão do oficial ou a exclusão da praça com estabilidade assegurada processar-se-á após 1 (um) ano de agregação, se não houver captura ou apresentação voluntária antes deste prazo.
+
+**§ 2.º** - A praça sem estabilidade assegurada será automaticamente excluída após oficialmente declarada desertora.
+
+**§ 3.º** - O policial-militar desertor, que for capturado ou que se apresentar voluntariamente será submetido à inspeção de saúde. Se julgado incapaz definitivamente, fica isento do processo e da reinclusão; se julgado apto, aguardará, na condição de agregado, a solução do processo.
+
+**§ 4.º** - A reinclusão em definitivo do policial-militar, de que trata o parágrafo anterior, dependerá da sentença do Conselho de Justiça.
+
+##### SEÇÃO VII — DO FALECIMENTO E DO EXTRAVIO
+
+**Art. 116** - O falecimento do policial-militar da ativa acarreta interrupção do serviço policial-militar, com o conseqüente desligamento ou exclusão do serviço ativo, a partir da data da ocorrência do óbito.
+
+**Art. 117** - O extravio do policial-militar da ativa acarreta interrupção do serviço policial-militar como o conseqüente afastamento temporário do serviço ativo, a partir da data em que o mesmo for oficialmente considerado extraviado.
+
+**§ 1.º** - O desligamento do serviço ativo será feito 6 (seis) meses após a agregação por motivo de extravio.
+
+**§ 2.º** - Em caso de naufrágio, sinistro aéreo, catástrofe, calamidade pública ou outros acidentes oficialmente reconhecidos, o extravio ou o desaparecimento do policial-militar da ativa serão considerados como falecimento, para fins deste Estado, tão logo sejam esgotados os prazos máximos de possível sobrevivência ou quando se dêem por encerradas as providências de salvamento.
+
+**Art. 118** - O reaparecimento do policial-militar extraviado ou desaparecido, já desligado do serviço ativo, resulta em sua reinclusão e nova agregação, enquanto se apurar as causas que deram origem ao seu afastamento.
+
+Parágrafo Único - O policial-militar reaparecido será submetido a Conselho de Justificação ou a Conselho de Disciplina, por decisão do Comandante-Geral da Polícia Militar, se assim for julgado necessário.
+
+#### CAPÍTULO III — DO TEMPO DE SERVIÇO
+
+**Art. 119** - Os policiais-militares começam a contar tempo de serviço na Polícia Militar a partir da data da sua inclusão, matrícula em órgão de formação de policial-militares ou nomeação para posto ou graduação da Polícia Militar.
+
+**§ 1.º** - Considera-se como data da inclusão, para fins deste artigo:
+
+a) a data do ato em que o policial-militar é considerado incluído em Organização Policial-Militar;
+
+b) a data de matrícula em órgão de formação de policiais-militares; e
+
+c) a data da apresentação pronto para o serviço no caso de nomeação.
+
+**§ 2.º** - O policial-militar reincluído recomeça a contar tempo de serviço na data da reinclusão.
+
+**§ 3.º** - Quando, por motivo de força maior, oficialmente reconhecido (inundação, naufrágio, incêndio, sinistro aéreo e outras calamidades), faltarem dados para contagem de tempo de serviço, caberá ao Comandante-Geral da Polícia Militar arbitrar o tempo a ser computado, para cada caso particular, de acordo com os elementos disponíveis.
+
+**Art. 120** - Na apuração de tempo de serviço do policial-militar será feita a distinção entre:
+
+I - tempo de efetivo serviço; e
+
+II - anos de serviço.
+
+**Art. 121** - Tempo de efetivo serviço é o espaço de tempo, computado dia a dia, entre a data da inclusão e a data limite estabelecida para a contagem ou a data do desligamento do serviço ativo, mesmo que tal espaço de tempo seja parcelado.
+
+**§ 1.º** - Será também computado como tempo de efetivo serviço o tempo passado dia a dia pelo policial-militar na reserva remunerada, que for convocado para o exercício de funções policiais-militares, na forma do Art. 92 desta Lei.
+
+**§2.º** - Não serão deduzidas do tempo de efetivo serviço, além dos afastamentos previstos no art. 63 desta lei, os períodos em que o policial-militar estiver afastado do exercício de suas funções em gozo de licença especial.
+
+**§ 3.º** - Ao tempo de efetivo serviço de que tratam este artigo e parágrafos anteriores, apurado e totalizado em dias, será aplicado o divisor 365 (trezentos e sessenta e cinco), para a correspondente obtenção dos anos de efetivo serviço.
+
+**Art. 122** - "Anos de Serviço" é a expressão que designa o tempo de serviço a que se refere o art. 121 e seus parágrafos desta lei, com os seguintes acréscimos:
+
+I - tempo de serviço público, federal, estadual ou municipal, prestado pelo policial-militar anteriormente à sua inclusão, matrícula, nomeação ou reinclusão na Polícia Militar;
+
+II - tempo relativo a cada licença especial não gozada, contado em dobro;
+
+III - tempo relativo a férias, não gozadas, contado em dobro.
+
+**§ 1.º** - Os acréscimos a que se referem os incisos I e III serão computados somente no momento da passagem do policial-militar para a situação de inatividade e para todos os efeitos.
+
+**§ 2.º** - O acréscimo a que se refere o inciso II deste artigo será computado somente no momento da passagem do policial-militar para a situação de inatividade, e, nessa situação, para todos os efeitos legais, inclusive quando à percepção definitiva de gratificação de tempo de serviço e de adicional de inatividade.
+
+**§ 3.º** - Não é computável, para efeito algum, o tempo:
+
+a) que ultrapassar de 1 (um) ano, contínuo ou não, em licença para tratamento de saúde de pessoa da família;
+
+b) passado em licença para tratar de interesse particular;
+
+c) passado como desertor;
+
+d) decorrido em cumprimento de pena de suspensão de exercício do posto, graduação, cargo ou função por sentença passada em julgado; e
+
+e) decorrido em cumprimento de pena restritiva da liberdade, por sentença passada em julgado, desde que não tenha sido concedida suspensão condicional da pena, quando, então o tempo que exceder ao período da pena será computado para todos os efeitos, caso as condições estipuladas na sentença não o impeçam.
+
+**Art. 123** - O tempo que o policial-militar vier a passar afastado do exercício de suas funções, em conseqüência de ferimentos recebidos em acidente quando em serviço, na manutenção da ordem pública ou de moléstia adquirida no exercício de qualquer função policial-militar, será computado como se o tivesse no exercício daquelas funções.
+
+**Art. 124** - O tempo de serviço passado pelo policial-militar no exercício de atividades decorrentes ou dependentes de operações de guerra será regulado em legislação específica.
+
+**Art. 125** - O tempo de serviço dos policiais-militares beneficiados por anistia será contado como estabelecer o ato legal que a conceder.
+
+**Art. 126** - A data limite estabelecida para final da contagem dos anos de serviço, para fins de passagem para a inatividade, será a do desligamento do serviço ativo.
+
+Parágrafo Único - A data limite não poderá exceder de 45 (quarenta e cinco) dias, dos quais um máximo de 15 (quinze) dias no órgão encarregado de efetivar a transferência, da data da publicação do ato de transferência para a reserva remunerada ou reforma, em Diário Oficial ou Boletim da Corporação, considerada sempre a primeira publicação oficial.
+
+**Art. 127** - Na contagem dos anos de serviço, não poderá ser computada qualquer superposição dos tempos de serviço público (federal, estadual e municipal ou passado em órgão da administração direta) entre si, nem com os acréscimos de tempo, para os possuidores de curso universitário, e nem com o tempo de serviço computável após a inclusão na Polícia Militar, matrícula em órgão de formação de policial-militar ou nomeação para posto ou graduação na Corporação.
+
+#### CAPÍTULO IV — DO CASAMENTO
+
+**Art. 128** - O policial-militar da ativa pode contrair matrimônio, desde que observada legislação civil específica.
+
+**§ 1.º** - É vedado o casamento ao Aluno da Escola de Formação de Oficiais e de praças, enquanto estiverem sujeitos aos regulamentos dos órgãos de formação de oficiais, de graduados ou de praças, cujos requisitos para admissão exijam a condição de solteiro.
+
+**§ 2.º** - O casamento com mulher estrangeira somente poderá ser realizado após a autorização do Comandante-Geral da Polícia Militar.
+
+**Art. 129** - O aluno da Escola de Formação de Oficiais e de praças que contraírem matrimônio em desacordo com o § 1.º do artigo anterior, serão excluídos sem direito a qualquer remuneração ou indenização.
+
+#### CAPÍTULO V — DAS RECOMPENSAS E DAS DISPENSAS DO SERVIÇO
+
+**Art. 130** - As recompensas constituem reconhecimento dos bons serviços prestados pelos policiais-militares.
+
+**§ 1.º** - São recompensas policiais-militares:
+
+a) prêmios de Honra ao Mérito;
+
+b) elogios, louvores e referências elogiosas;
+
+c) dispensa do serviço; e
+
+d) condecorações por serviços prestados.
+
+**§ 2.º** - As recompensas serão concedidas de acordo com as normas estabelecidas nas leis e nos regulamentos da Polícia Militar.
+
+**Art. 131** - As dispensas do serviço são autorizações concedidas aos policiais-militares para afastamento total do serviço, em caráter temporário.
+
+**Art. 132** - As dispensas do serviço podem ser concedidas aos policiais-militares:
+
+I - como recompensa;
+
+II - para desconto em férias;
+
+III - em decorrência de prescrições médicas.
+
+Parágrafo Único - As dispensas de serviço serão concedidas com a remuneração integral e computadas como tempo de efetivo serviço.
+
+### TÍTULO V — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+**Art. 133** - O Comandante-Geral da Polícia Militar tem honrarias, prerrogativas e regalias, direitos e deveres atribuídos aos Secretários de Estado.
+
+**Art. 134** - A Assistência Religiosa à Polícia Militar é regulada por lei específica.
+
+**Art. 135** - É vedado o uso, por parte da organização civil, de designações que possam sugerir sua vinculação à Polícia Militar.
+
+Parágrafo Único - Excetuam-se das prescrições deste artigo, as associações, clubes, círculos e outros que congregam membros da Polícia Militar e que se destinam, exclusivamente, a promover intercâmbio social e assistencial entre policiais-militares e seus familiares e entre esses e a sociedade civil local.
+
+**Art. 136** - Os candidatos que pertencerem ao efetivo da Corporação poderão ser reincluídos, à ordem do Comando, desde que preencham os seguintes requisitos, além dos exigidos para a inclusão, exceto a condição de seu estado civil (solteiro ou viúvo sem filhos), caso este requisito seja exigido para a inclusão:
+
+I - ter sido licenciado por solicitação própria e encontrar-se, à época, no "bom comportamento";
+
+II - ter idade compatível com o tempo que deverá permanecer em serviço ativo e a idade-limite para a transferência "ex-officio" para a inatividade, de forma a permitir a contagem do tempo de serviço correspondente a 30 (trinta) anos, incluindo-se os acréscimos legais que foram ou que ainda possam ser averbados pelo interessado.
+
+**Art. 137** - Lei especial, de iniciativa exclusiva do Governador do Estado, estabelecerá os direitos relativos à Pensão Policial-Militar, destinada a amparar os beneficiários do policial-militar falecido ou extraviado.
+
+**Art. 138** - O policial-militar que vier a completar a idade limite de transferência para a reforma ''ex-officio", e que não haja atingido 30 (trinta) anos de serviço computados para a inatividade, desde que possua condições de acesso ao posto ou graduação, poderá ter a sua reforma adiada até satisfazer aquele tempo de serviço, respeitado o direito de opção.
+
+**§ 1.º** - Aqueles que não tiverem condições de acesso terão suas reformas adiadas por 2 (dois) anos, a partir das datas de suas agregações, devendo ser submetido, neste período, a um curso que lhes dê acesso ao posto de graduação superior para que sejam beneficiados pelo estabelecido neste artigo, salvo se não obtiverem aprovação, quando, então, serão automaticamente reformados.
+
+**§ 2.º** - Os policiais-militares abrangidos pelas disposições contidas neste artigo e seu parágrafo anterior permanecerão excedentes no seu Quadro e na situação de adidos, como se efetivo fossem, nas organizações policiais-militares onde forem designados para servir.
+
+**§ 3.º** - VETADO
+
+**Art. 139** - São adotadas na Polícia Militar, em matéria não regulada na legislação estadual, as leis e regulamentos em vigor no Exército Brasileiro, no que lhes for pertinente.
+
+**Art. 140** - Após a vigência do presente Estatuto, serão a ele ajustados todos os dispositivos legais e regulamentares que com ele tenham pertinência.
+
+**Art. 141** - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+**PALÁCIO DO GOVERNO DO ESTADO DO CEARÁ,** em Fortaleza, aos 20 de dezembro de 1976.
+
+**ADAUTO BEZERRA**
+
+**Edilson Moreira da Rocha.**

@@ -1,0 +1,77 @@
+---
+titulo: "Lei Ordinária nº 13371, de 10/09/2015"
+uf: "BA"
+tipo: "Lei Ordinária"
+numero: "13371"
+data: 2015-09-10
+ementa: "Autoriza a alienação do imóvel público que indica."
+versao_texto: "texto do Portal de Legislação da Bahia"
+publicacao: ""
+fonte: "https://www.legislabahia.ba.gov.br/documentos/lei-no-13371-de-10-de-setembro-de-2015"
+baixado_em: 2026-10-13
+---
+# Lei Ordinária nº 13371, de 10/09/2015
+
+LEI Nº 13.371 DE 10 DE SETEMBRO DE 2015
+
+Autoriza a alienação do imóvel público que indica.
+
+O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+**Art. 1º** - Fica o Poder Executivo do Estado da Bahia autorizado a alienar, a título oneroso e mediante leilão, o imóvel de propriedade do Estado da Bahia, vinculado ao Fundo Financeiro da Previdência Social dos Servidores Públicos do Estado da Bahia - FUNPREV, denominado "Antigo Clube dos Aposentados e Pensionistas", situado na Rua Padre Silveira Sales, Piatã, Salvador - Bahia, cadastrado no Sistema de Controle de Bens Imóveis - SIMOV sob o nº 6468, descrito como áreas contíguas devidamente registradas perante o Cartório do 3º Ofício de Registro de Imóveis da Comarca de Salvador - Bahia, sob as matrículas nºs 26.797, 23.724 e 34.098, cujas poligonais se encontram no Anexo Único desta Lei.
+
+**Art. 2º** - O produto financeiro oriundo da alienação dos imóveis indicados no artigo anterior será aplicado na capitalização do Fundo Financeiro da Previdência Social dos Servidores Públicos do Estado da Bahia - FUNPREV, conforme disposto no art. 47 da Lei nº 7.249, de 07 de janeiro de 1998.
+
+**Art. 3º** - Essa Lei entra em vigor na data de sua publicação.
+
+PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 10 de setembro de 2015.
+
+RUI COSTA
+
+Governador
+
+Bruno Dauster
+
+Secretário da Casa Civil
+
+Edelvino da Silva Góes Filho
+
+Secretário da Administração
+
+| ANEXO ÚNICO SECRETARIA DA ADMINISTRAÇÃO DO ESTADO DA BAHIA - SAEB DIRETORIA DE PATRIMÔNIO - DPA/SSA M E M O R I A L D E S C R I T I V O |  |
+| --- | --- |
+| Objeto: Unificação de Matrícula do Antigo Clube dos Aposentados e Pensionistas. |  |
+| Localização: Rua Padre Silveira Sales, nº 05. |  |
+| Bairro: Piatã |  |
+| Município: Salvador - Bahia. |  |
+| Proprietário: Secretaria da Administração ? SAEB |  |
+| Área = 5.574,25m² | Perímetro = 342,2025m |
+| LIMITES E CONFRONTAÇÕES |  |
+| NORTE: com RUA DA FAUNA |  |
+| LESTE: com RUA PADRE SILVEIRA SALES |  |
+| SUL: com AVENIDA OCTÁVIO MANGABEIRA |  |
+| OESTE: com RESIDÊNCIA Nº 03 e EDF. RESIDENCIAL MIRANTES DE JAGUARIBE |  |
+| MÉTODO DO LEVANTAMENTO: |  |
+| Levantamento em Real Time Kinematic (RTK) Levantamento de alta precisão com correção de pontos em tempo real. |  |
+| EQUIPAMENTO ULTILIZADO PARA EXECUÇÃO DO SERVIÇO: |  |
+| GNSS - TOPCON HIPER V Geodésico L1/L2 RTK |  |
+| ? Precisão de 3 mm a 1cm + 0,1 ppm |  |
+
+DESCRIÇÃO DO PERÍMETRO
+
+Inicia-se a descrição deste perímetro no ponto V01 de coordenadas N 8.567.338,5970 m e E 565.427,2388m, com azimute de 62º55'36,7", distância de 32,94m; Sistema UTM e meridiano central 39º, SAD 69, situado na RUA DA FAUNA, até o ponto V02, de coordenadas N 8.567.353,5888m e E 565.456,5693m, com azimute de 64º13'58", distância de 24,498m; confrontando neste trecho com a RUA DA FAUNA, até o ponto V03, de coordenadas N 8.567.364,2384m e E 565.478,6312m, com azimute de 82º25'7,8", distância de 2,346m; confrontando neste trecho com a RUA DA FAUNA, até o ponto V04, de coordenadas N 8.567.364,5480m e E 565.480,9571m, com azimute de 107º20'26", distância de 5,464m; confrontando neste trecho com a RUA DA FAUNA, até o ponto V05, de coordenadas N 8.567.362,9194m e E 565.486,1729m, com azimute de 128º17'42,2", distância de 4,061m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V06, de coordenadas N 8.567.360,4025m e E 565.489,3605m, com azimute de 142º16'49,5", distância de 6,905m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V07, de coordenadas N 8.567.354,9409m e E 565.493,5847m, com azimute de 155º3'52,8", distância de 5,041m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V08, de coordenadas N 8.567.350,3702m e E 565.495,7097m, com azimute de 180º25'18,2", distância de 2,40m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V09, de coordenadas N 8.567.347,9702 m e E 565.495,6921m, com azimute de 190º13'8,3", distância de 42,87m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V10, de coordenadas N 8.567.305,7799m e E 565.488,0864m, com azimute de 266º1'15,2", distância de 0,998m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V11, de coordenadas N 8.567.305,7106m e E 565.487,0906m, com azimute de 322º20'30,2", distância de 0,577m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V37, de coordenadas N 8.567.306,1673m e E 565.486,7382m, com azimute de 198º39'45,3", distância de 3,724m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V12, de coordenadas N 8.567.302,6390m e E 565.485,5465m, com azimute de 186º38'21,8", distância de 5,938m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V77, de coordenadas N 8.567.296,7408m e E 565.484,8600m, com azimute de 92º20'15,6", distância de 1,449m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V13, de coordenadas N 8.567.296,6818m e E 565.486,3074m, com azimute de 152º56'55,8", distância de 0,729m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V14, de coordenadas N 8.567.296,0327m e E 565.486,6389m, com azimute de 173º23'25,2", distância de 1,03m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V15, de coordenadas N 8.567.295,0096m e E 565.486,7574m, com azimute de 189º5'30,5", distância de 33,593m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V16, de coordenadas N 8.567.261,8389m e E 565.481,4492m, com azimute de 190º41'37,9", distância de 1,426m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V17, de coordenadas N 8.567.260,4373m e E 565.481,1845m, com azimute de 199º18'38,3", distância de 2,439m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V18, de coordenadas N 8.567.258,1358m e E 565.480,3781m, com azimute de 204º36'2,2", distância de 1,326m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V19, de coordenadas N 8.567.256,9301m e E 565.479,8261m, com azimute de 210º18'18", distância de 1,687m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V20, de coordenadas N 8.567.255,4737m e E 565.478,9748m, com azimute de 214º14'43,3", distância de 0,985m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V21, de coordenadas N 8.567.254,6594m e E 565.478,4205m, com azimute de 213º51'59", distância de 1,067m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V22, de coordenadas N 8.567.253,7733m e E 565.477,8258m, com azimute de 221º5'1,9", distância de 1,077m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V23, de coordenadas N 8.567.252,9617m e E 565.477,1182m, com azimute de 223º49'46,2", distância de 1,737m; confrontando neste trecho com a RUA PADRE SILVEIRA SALES, até o ponto V24, de coordenadas N 8.567.251,7087m e E 565.475,9154m, com azimute de 230º15'4", distância de 20,381m; confrontando neste trecho com a AVENIDA OCTÁVIO MANGABEIRA, até o ponto V25, de coordenadas N 8.567.238,6768 m e E 565.460,2455m, com azimute de 252º11'20,3", distância de 5,179m; confrontando neste trecho com a AVENIDA OCTÁVIO MANGABEIRA, até o ponto V26, de coordenadas N 8.567.237,0926m e E 565.455,3146m, com azimute de 144º7'10,9", distância de 1,935m; confrontando neste trecho com a AVENIDA OCTÁVIO MANGABEIRA, até o ponto V27, de coordenadas N 8.567.235,5250m e E 565.456,4485m, com azimute de 231º51'40,2", distância de 7,501m; confrontando neste trecho com a AVENIDA OCTÁVIO MANGABEIRA, até o ponto V28, de coordenadas N 8.567.230,8928m e E 565.450,5491m, com azimute de 341º40'18,2", distância de 5,431m; confrontando neste trecho com a RESIDÊNCIA Nº 03, até o ponto V29, de coordenadas N 8.567.236,0488m e E 565.448,8411m, com azimute de 340º26'7,0", distância de 6,949m; confrontando neste trecho com a RESIDÊNCIA Nº 03, até o ponto V30, de coordenadas N 8.567.242,5968m e E 565.446,5140m, com azimute de 340º26'7,0", distância de 10,00m; confrontando neste trecho com a RESIDÊNCIA Nº 03, até o ponto V31, de coordenadas N 8.567.252,0195m e E 565.443,1653m, com azimute de 340º26'7,0", distância de 18,263m; confrontando neste trecho com a RESIDÊNCIA Nº 03, até o ponto V32, de coordenadas N 8.567.269,2284m e E 565.437,0494m, com azimute de 340º30'40,5", distância de 13,747m; confrontando neste trecho com a RESIDÊNCIA Nº 03, até o ponto V33, de coordenadas N 8.567.282,4760m e E 565.433,3783m, com azimute de 47º52'25,8", distância de 18,497m; confrontando neste trecho com o EDF. RESIDENCIAL MIRANTES DE JAGUARIBE, até o ponto V34, de coordenadas N 8.567.294,8831m e E 565.447,0969m, com azimute de 335º34'8,2", distância de 48,013m; confrontando neste trecho com o EDF. RESIDENCIAL MIRANTES DE JAGUARIBE, fechando no ponto V01 um polígono que abrange uma área de 5.574,25m². As coordenadas aqui descritas estão georreferenciada ao Sistema de Referência Cartográfica da Região Metropolitana de Salvador - SRC/RMS e o Sistema Geodésico Brasileiro, a partir da Estação de Referência MR00047, CONDER (Companhia de Desenvolvimento Urbano do Estado da Bahia), de coordenadas N 8.567.219,649m e E 565.487,893m, LAT. -12º57'35,5359'' e LONG. -38º23'43,3479'', e encontram-se representadas no Sistema UTM, tendo como datum o SAD-69. Todos os azimutes e distâncias, área e perímetro foram calculados no plano topográfico local.
+
+**Casa Civil | Estado da Bahia**
+
+3ª Avenida, nº 390, Centro Administrativo da Bahia - Salvador - Bahia
+
+CEP: 41.745-005
+
+Horário de funcionamento: De segunda à sexta-feira das 08:30 às 12:00 e 13:30 às 18:00h
+
+Email: ciled@casacivil.ba.gov.br
+
+Exerça sua cidadania. Fale com a Ouvidoria, ligue 162.
+
+Todo o conteúdo desse site está publicado sob a licença  
+Creative Commons Atribuição-SemDerivações 3.0 Brasil.
