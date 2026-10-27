@@ -1,0 +1,69 @@
+{
+  "escopo": "Integração proposta, sem executar alteração ou Git. Nenhum candidato anterior ou MD canônico modificado.",
+  "publicaveis": [
+    {
+      "path": "federal/decretos-legislativos/1920/dpl-4182-1920-11-13.md",
+      "urn": "urn:lex:br:federal:decreto.legislativo:1920-11-13;4182",
+      "id_senado": "603440",
+      "fonte": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/DPL4182-1920.htm",
+      "sha256_fonte_html": "dcf2d2cc1fa30b0be4688f5be11fdcff4f3fde05363e59dc2a222bf78d02acc5",
+      "tabelas": 1,
+      "candidate": "federal/_candidatos_dpl_identidade_unica_20261020_002/dpl-4182-1920-11-13.md",
+      "sha256_candidato": "c931d733cb86b71db7735a2a0d0806979ac978fe2c9e56e6437448e5c26d52b5",
+      "sha256_preimagem_canonica": "fc8cf20706f928eab97542eca462d45059918126fc71f96d63c0bbdf42b86d17",
+      "sha256_candidato_anterior": "6f8490a5751e4965afa147c91edac6513103e7f09758c0f8fccb7fe4b4acbfc0",
+      "mudanca": "Nota editorial registra retirada atômica do alias de 1919; corpo oficial inalterado.",
+      "qa": {
+        "pontuacao_visible_commonmark_gfm": true,
+        "assinatura_numerica": true,
+        "contextos_numericos": true,
+        "motor": "marked 17.0.5, gfm true"
+      },
+      "grupo_atomico": "4182 alias legado + destino 1920"
+    },
+    {
+      "path": "federal/decretos-legislativos/1922/dpl-4555-1922-08-10.md",
+      "urn": "urn:lex:br:federal:decreto.legislativo:1922-08-10;4555",
+      "id_senado": "603946",
+      "fonte": "https://www2.camara.leg.br/legin/fed/decret/1920-1929/decreto-4555-10-agosto-1922-568201-publicacaooriginal-91594-pl.html",
+      "sha256_fonte_html": "8a909ad86eea0b577b05bcc2983e79c8ffc64b1eb7cc564729c24d5af540ca1f",
+      "tabelas": 22,
+      "candidate": "federal/_candidatos_dpl_identidade_unica_20261020_002/dpl-4555-1922-08-10.md",
+      "sha256_candidato": "4e1988fd3b4e4e4085bed80048b6a03650534baabd3a4883ab426f20bf2a6ff0",
+      "sha256_preimagem_canonica": "6aa565deeeef19defdec52f0ed8f7be324a763a4781462233a5afc7c9848fdee",
+      "sha256_candidato_anterior": "ac9b197036ef1825e5cd80bd2721c616a231d9fc5fc10c3f18e249b56aa07fd2",
+      "mudanca": "22 escapes de rótulos numéricos literais para preservar separadores em CommonMark; corpo textual e 22 tabelas intactos.",
+      "qa": {
+        "pontuacao_visible_commonmark_gfm": true,
+        "assinatura_numerica": true,
+        "contextos_numericos": true,
+        "motor": "marked 17.0.5, gfm true"
+      },
+      "grupo_atomico": "4555 independente"
+    }
+  ],
+  "remocao_atomica_alias": {
+    "path": "federal/decretos-legislativos/1919/dpl-4182-1919-11-13.md",
+    "sha256_preimagem": "c866b497c742f7cfa4f0193c4027159e02b605b70c595fb744389bcdcbfcd96e",
+    "arquivo_historico": "federal/_historico_dpl_identidade_unica_20261020_002-alias1919.md.gz",
+    "sha256_gzip": "2d6eaaa5f5dfc3410b7e03e1005748c3eb1efa0948de0bd6e85fa28846a8380d",
+    "sha256_conteudo_descomprimido": "c866b497c742f7cfa4f0193c4027159e02b605b70c595fb744389bcdcbfcd96e",
+    "urn_invalida": "urn:lex:br:federal:decreto.legislativo:1919-11-13;4182",
+    "urn_correta": "urn:lex:br:federal:decreto.legislativo:1920-11-13;4182",
+    "prova": "Corpo normativo do MD de 1919 é literalmente idêntico ao candidato histórico de 1920 após excluir apenas cabeçalho institucional decorativo. Ambos trazem epígrafe e fecho próprios de 13 de novembro de 1920. O índice Planalto rotula 1919, mas aponta para DPL4182-1920.htm. Senado id 603440 e página Câmara 571666 também identificam 1920. Não há prova de ato distinto de 1919 neste arquivo.",
+    "indice_planalto_erro": {
+      "titulo": "Decreto nº 4.182, de 13.11.1919",
+      "numero": "4182",
+      "data": "1919-11-13",
+      "ementa": "Autoriza o Governo a fazer uma emissão de papel-moeda.",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto/historicos/dpl/DPL4182-1920.htm"
+    },
+    "sha256_snapshot_indice": "9d9cfc8d6a837c0f16165653d56a0026ad6979618dc36c218a1d967304d20a3b"
+  },
+  "contagem": "4182 corresponde a uma identidade apta no destino de 1920; a retirada de 1919 e promoção de 1920 precisam ocorrer no mesmo commit. 4555 corresponde a outra identidade independente.",
+  "precondicoes": [
+    "Confrontar todos os SHA de preimagem com os destinos e HEAD antes da promoção.",
+    "Promover candidato de 1920 e retirar alias de 1919 atomicamente, incluindo este registro e histórico integral.",
+    "4555 usa candidato 002 com rótulos literais escapados; não promover a versão 001 anterior."
+  ]
+}

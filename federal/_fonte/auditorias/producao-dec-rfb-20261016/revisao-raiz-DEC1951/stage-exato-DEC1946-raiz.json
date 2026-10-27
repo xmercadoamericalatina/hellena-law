@@ -1,0 +1,7 @@
+{
+  "estado": "index_atualizado_com_paths_exatos",
+  "paths": 6041,
+  "metodo": "hash-object --no-filters + update-index --index-info NUL, sem varredura de pathspec",
+  "causa_substituicao": "Amostra sample93857 mostrou762/762 amostras em match_pathspec. Processo Gitadd interrompido por algoritmo, nao por timeout; nenhum coletor encerrado.",
+  "registros_SHA256": "e2eb71abf7123427a4f82d4c88b88756d317285218f04fd9ff13c53e5b582f5c"
+}

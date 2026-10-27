@@ -1,0 +1,116 @@
+{
+  "estado": "4falsos positivos degeometria examinados individualmente; revisao raizpendente",
+  "gate_base": "federal/_fonte/auditorias/producao-dec-rfb-20261016/gates-extras-midias-DEC2000-v2.json",
+  "documentos": [
+    {
+      "path": "federal/decretos/1975/dec-75775-1975-05-26.md",
+      "sha256_MD": "6231c07bf263a00d688e97d8b41f768d616b5638e68407773697f6e09241a1b1",
+      "sha256_fonte": "0019373a638141da0b64ccd08c08b56332da1e7ce45d5adc1856bc0f8f49fd45",
+      "flags_v2": [
+        "layout_CSS_espacial",
+        "spans_posicionados"
+      ],
+      "contextos": [
+        {
+          "paragrafo_literal": "Ney Braga",
+          "HTML_paragrafo_sha256": "1638c449d2858e5658f2cc410d45a57673fe9840eb589b22324d7709a64176fb",
+          "spans": [
+            {
+              "HTML_literal": "<span style=\"width:11pt; text-indent:0pt; display:inline-block\">&#xa0;</span>",
+              "sha256_HTML": "2b926743bc6b5c59c7a8a146545f85e143e4adf4dd4848d822183b092d13167c",
+              "style": "width:11pt; text-indent:0pt; display:inline-block",
+              "conteudo_literal": " "
+            }
+          ]
+        }
+      ],
+      "decisao_proposta": "Aceitavel neste SHA: todosspans posicionados contem somente1NBSP antesda epigrafe ou assinatura propria; nao separam colunas/rotulos/valores. Texto inteiro e formatos ja identicos noGFM. Sem excepcao generica para outrosdocumentos."
+    },
+    {
+      "path": "federal/decretos/1975/dec-75788-1975-05-28.md",
+      "sha256_MD": "34fef6e2226873698df1956283ec4d78653f8978efac7f5a606205fc456b56af",
+      "sha256_fonte": "978d022c3171c1bf7de02095b6403631e34984b258935a47e5287ba88c358f42",
+      "flags_v2": [
+        "layout_CSS_espacial",
+        "spans_posicionados"
+      ],
+      "contextos": [
+        {
+          "paragrafo_literal": "Shigeaki Ueki",
+          "HTML_paragrafo_sha256": "b683f40bc41c47b778018cc50751de299177d3b8e798a6cc2b883fef6e07afa5",
+          "spans": [
+            {
+              "HTML_literal": "<span style=\"width:11pt; text-indent:0pt; display:inline-block\">&#xa0;</span>",
+              "sha256_HTML": "2b926743bc6b5c59c7a8a146545f85e143e4adf4dd4848d822183b092d13167c",
+              "style": "width:11pt; text-indent:0pt; display:inline-block",
+              "conteudo_literal": " "
+            }
+          ]
+        }
+      ],
+      "decisao_proposta": "Aceitavel neste SHA: todosspans posicionados contem somente1NBSP antesda epigrafe ou assinatura propria; nao separam colunas/rotulos/valores. Texto inteiro e formatos ja identicos noGFM. Sem excepcao generica para outrosdocumentos."
+    },
+    {
+      "path": "federal/decretos/1976/dec-78341-1976-08-31.md",
+      "sha256_MD": "1774c92cc4930c0c83d2d73a40ed896287fd07a89cdf7ea8f36ac503bc156738",
+      "sha256_fonte": "59a3633994b44414a517bde8ba5a2ca152de134893010419f12465de66437a45",
+      "flags_v2": [
+        "layout_CSS_espacial",
+        "spans_posicionados"
+      ],
+      "contextos": [
+        {
+          "paragrafo_literal": "ERNESTO GEISEL",
+          "HTML_paragrafo_sha256": "abbdb27d30dadd762338bc5fb9eb33b62134b1b60d909798d86f00cab069b0e4",
+          "spans": [
+            {
+              "HTML_literal": "<span style=\"width:3.35pt; display:inline-block\">&#xa0;</span>",
+              "sha256_HTML": "56aa7ae84a10eeff7ce4ddb01e50b8cbc501a28d4c6afc7c29d035e725551a7e",
+              "style": "width:3.35pt; display:inline-block",
+              "conteudo_literal": " "
+            }
+          ]
+        },
+        {
+          "paragrafo_literal": "Ney Braga",
+          "HTML_paragrafo_sha256": "ac9f8caf319b2b08536c7590d6c08ba0fbdc144c1670c9cd5338e23e4d1c949b",
+          "spans": [
+            {
+              "HTML_literal": "<span style=\"width:3.35pt; display:inline-block\">&#xa0;</span>",
+              "sha256_HTML": "56aa7ae84a10eeff7ce4ddb01e50b8cbc501a28d4c6afc7c29d035e725551a7e",
+              "style": "width:3.35pt; display:inline-block",
+              "conteudo_literal": " "
+            }
+          ]
+        }
+      ],
+      "decisao_proposta": "Aceitavel neste SHA: todosspans posicionados contem somente1NBSP antesda epigrafe ou assinatura propria; nao separam colunas/rotulos/valores. Texto inteiro e formatos ja identicos noGFM. Sem excepcao generica para outrosdocumentos."
+    },
+    {
+      "path": "federal/decretos/1977/dec-79342-1977-03-07.md",
+      "sha256_MD": "443a510a66c06442a547130d74dffff875e87e06b1b5e9f4f582cd0e0de8b95d",
+      "sha256_fonte": "793282c48beb19e1cc191bb25d988536d2faffa30d633dca47fb5d67f1b0fcdd",
+      "flags_v2": [
+        "layout_CSS_espacial",
+        "spans_posicionados"
+      ],
+      "contextos": [
+        {
+          "paragrafo_literal": "Decreto nº 79.342, de 7 de março de 1977",
+          "HTML_paragrafo_sha256": "84ba26353149bfe9a965bb9993f1f03dda817b850f29df44e2d460a1d12b73e8",
+          "spans": [
+            {
+              "HTML_literal": "<span style=\"width:36pt; display:inline-block\">&#xa0;</span>",
+              "sha256_HTML": "efd074336637f882f475a18db1b78cb2170db435c5351098b101bb9893bb8651",
+              "style": "width:36pt; display:inline-block",
+              "conteudo_literal": " "
+            }
+          ]
+        }
+      ],
+      "decisao_proposta": "Aceitavel neste SHA: todosspans posicionados contem somente1NBSP antesda epigrafe ou assinatura propria; nao separam colunas/rotulos/valores. Texto inteiro e formatos ja identicos noGFM. Sem excepcao generica para outrosdocumentos."
+    }
+  ],
+  "mudancas_MD": false,
+  "excecao_generica": false
+}

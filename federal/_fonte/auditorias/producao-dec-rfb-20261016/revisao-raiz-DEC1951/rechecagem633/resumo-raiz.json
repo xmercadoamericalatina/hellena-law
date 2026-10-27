@@ -1,0 +1,312 @@
+{
+  "estado": "revisao_raiz_independente_nao_aprovacao",
+  "documentos": 633,
+  "com_erros": 21,
+  "falhas": [
+    {
+      "path": "federal/decretos/1975/dec-75882-1975-06-19.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1975/dec-76087-1975-08-06.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1975/dec-76479-1975-10-20.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1975/dec-76517-1975-10-29.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1975/dec-76524-1975-11-03.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1975/dec-76526-1975-11-03.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1975/dec-76530-1975-11-03.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1975/dec-76583-1975-11-10.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 67, in <module>\n    assert not re.search(r'\\b(?:anex[oa]s?|apens[oa]s?|ilegivel|omitid[oa]|suprimid[oa])\\b|\\(\\s*\\.\\s*\\.\\s*\\.\\s*\\)',norm(' '.join(ps)))\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1975/dec-76653-1975-11-20.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1975/dec-76723-1975-12-03.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1976/dec-77056-1976-01-20.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1976/dec-77842-1976-06-16.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1976/dec-77859-1976-06-16.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1976/dec-77892-1976-06-23.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1976/dec-77894-1976-06-23.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1976/dec-77895-1976-06-23.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1976/dec-77896-1976-06-23.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1976/dec-77964-1976-07-06.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1976/dec-78300-1976-08-23.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1976/dec-78835-1976-11-25.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    },
+    {
+      "path": "federal/decretos/1977/dec-79248-1977-02-11.md",
+      "erros": [
+        "Traceback (most recent call last):\n  File \"/tmp/rechecar-DEC633-raiz.py\", line 64, in <module>\n    articles=[(i,re.match(r'^Art(?:igo)?[.\\s]*(\\d+)[º°o]?',p,re.I),p) for i,p in enumerate(ps[:ci])];articles=[(i,int(m[1]),p) for i,m,p in articles if m];assert articles\nAssertionError\n"
+      ]
+    }
+  ],
+  "CSS_head": [
+    {
+      "sha256": "3f07c806cb921e272f4279d759c17cac627a1e45638b995bd22f9982a214e670",
+      "qtd": 633,
+      "literal": "body { font-family:Calibri }p { margin:0pt }"
+    }
+  ],
+  "CSS_inline": {
+    "margin-bottom": {
+      "12pt": 2529,
+      "6pt": 7184,
+      "18pt": 637
+    },
+    "widows": {
+      "0": 11189
+    },
+    "orphans": {
+      "0": 11189
+    },
+    "font-size": {
+      "0.83em": 14677,
+      "0.75em": 647,
+      "0.92em": 2,
+      "0.56em": 1
+    },
+    "font-family": {
+      "'times new roman'": 742,
+      "arial": 15106,
+      "'lucida console'": 1
+    },
+    "margin-top": {
+      "12pt": 2529,
+      "6pt": 6883,
+      "18pt": 637
+    },
+    "text-align": {
+      "center": 2830,
+      "justify": 7725
+    },
+    "font-weight": {
+      "bold": 5692
+    },
+    "text-transform": {
+      "uppercase": 1892
+    },
+    "margin-left": {
+      "198.45pt": 632,
+      "212.65pt": 1563,
+      "70.9pt": 1,
+      "28.35pt": 8
+    },
+    "text-indent": {
+      "28.35pt": 8458
+    },
+    "line-height": {
+      "12pt": 9090
+    },
+    "font-style": {
+      "italic": 1171
+    },
+    "-aw-import": {
+      "spaces": 123,
+      "ignore": 18
+    },
+    "vertical-align": {
+      "super": 1
+    }
+  },
+  "spans_espaciais": [],
+  "sequencias_artigos_requerem_contexto": [
+    {
+      "path": "federal/decretos/1975/dec-75871-1975-06-16.md",
+      "numeros": [
+        1,
+        9,
+        75,
+        2
+      ],
+      "artigos_literais": [
+        "Art. 1º Os art. 8º, 9º e 75 do Decreto nº 71.848, de 16 de fevereiro de 1973, passam a ter a seguinte redação:",
+        "Art. 9º Cursos, para fins de ingresso em Quadro de Acesso, são os que habilitam o oficial ao acesso aos diferentes postos da carreira, nas seguintes condições:",
+        "Art. 75 Os oficiais possuidores do curso de formação constante no Art. 9º, pertencentes aos Quadros para os quais ainda não exista Curso de Aperfeiçoamento ou de Graduação, ficarão dispensados desse requisito para acesso aos postos de oficial superior\".",
+        "Art. 2º Este Decreto entrará em vigor na data de sua publicação, revogados o Art. 76 do Decreto nº 71.848, de 16 de fevereiro de 1973, e demais disposições em contrário."
+      ]
+    },
+    {
+      "path": "federal/decretos/1975/dec-75906-1975-06-25.md",
+      "numeros": [
+        1,
+        2,
+        3,
+        5,
+        6
+      ],
+      "artigos_literais": [
+        "Art. 1º É outorgada à Centrais Elétricas Matogrossenses S.A. - CEMAT, concessão para o aproveitamento da energia hidráulica do Salto do Céu, no Rio Branco, no Município de Cáceres, Estado de Mato Grosso.",
+        "Art. 2º A concessionária fica obrigada a cumprir o disposto no Código de Águas, leis subseqüentes e seus regulamentos.",
+        "Art. 3º A concessionária fica autorizada a estabelecer os sistemas de produção e transmissão de energia elétrica de acordo com os projetos aprovados.",
+        "Art. 5º A concessionária poderá requerer que a concessão seja renovada, mediante as condições que virem a ser estipuladas.",
+        "Art. 6º O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário."
+      ]
+    },
+    {
+      "path": "federal/decretos/1976/dec-77443-1976-04-14.md",
+      "numeros": [
+        1,
+        2,
+        3,
+        4,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "artigos_literais": [
+        "Art. 1º - A política de desenvolvimento industrial do País, orientada e dirigida pelo Ministro da Indústria e do Comércio, será conduzida pelo Conselho de Desenvolvimento Industrial - CDI.",
+        "Art. 2º - O CDI será presidido pelo Ministro da Indústria e do Comércio e integrado pelos seguintes membros:",
+        "Art. 3º - Sem prejuízo do disposto no Decreto nº 77.065, de 20 de janeiro de 1976, são atribuições do Conselho de Desenvolvimento Industrial.",
+        "Art. 4º O CDI terá uma Comissão de Coordenação e uma Secretaria-Geral.",
+        "Art. 4º A Secretaria-Geral será subordinada ao Ministro da Indústria e do Comércio, que designará o Secretário-Geral.",
+        "Art. 5º Terá a Secretaria-Geral do Conselho de Desenvolvimento Industrial e seguinte composição:",
+        "Art. 6º Incumbe à Comissão de Coordenação:",
+        "Art. 7º Incumbe à Secretaria-Geral coordenar os estudos necessários à aplicação da política industrial e à concessão dos incentivos previsto na legislação em vigor.",
+        "Art. 8º Incumbe aos Grupos Setoriais:",
+        "Art. 9º O Secretário-Geral do CDI, no âmbito da Comissão de Coordenação e dos Grupos Setoriais poderá solicitar a colaboração de outros órgãos públicos, não citados nos artigos 4º e 5º, bem como de entidades de classe, para exame de assuntos relacionados com suas áreas de atividade.",
+        "Art. 10. A Secretaria-Geral do CDI, ouvida a Comissão de Coordenação, selecionará periodicamente os setores industriais prioritários para o desenvolvimento, de acordo com a evolução da economia com a programação global do Governo.",
+        "Art. 11. O Ministro da Industria e do Comércio aprovará o Regimento Interno da Comissão de Coordenação e dos Órgãos integrantes da Secretaria-Geral do CDI.",
+        "Art. 12º - Este Decreto entrará em vigor na data de sua publicação, revogados os Decretos nº 65.016, de 18 agosto de 1969, e nº 67.706, de 7 de dezembro de 1970, e demais disposições em contrário."
+      ]
+    },
+    {
+      "path": "federal/decretos/1976/dec-77620-1976-05-17.md",
+      "numeros": [
+        2,
+        3
+      ],
+      "artigos_literais": [
+        "Art. 2º As propriedades vizinhas estão sujeitas às servidões de solo e subsolo para fins de lavra, na forma do artigo 59 do Código de Mineração.",
+        "Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário. (DNPM. 813.856-68)."
+      ]
+    },
+    {
+      "path": "federal/decretos/1976/dec-78587-1976-10-18.md",
+      "numeros": [
+        2,
+        3
+      ],
+      "artigos_literais": [
+        "Art. 2º - As propriedades vizinhas estão sujeitas às servidões de solo e subsolo para fins de lavra, na forma do artigo 59 do Código de Mineração.",
+        "Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário. (DNPM nº 825.053-72)."
+      ]
+    },
+    {
+      "path": "federal/decretos/1977/dec-79192-1977-02-01.md",
+      "numeros": [
+        1,
+        45,
+        2,
+        3
+      ],
+      "artigos_literais": [
+        "Art. 1º - Os artigos 14 e 45 do Regulamento da Escola Superior de Guerra, aprovado pelo Decreto número 72.699, de 27 de agosto de 1973, passam a vigorar com a seguinte redação:",
+        "Art. 45. Os membros civis do Corpo Permanente e da Junta Consultiva pertencentes a Órgãos da Administração Pública perceberão uma gratificação mensal sempre que o número de hora de trabalho exigido pela Escola Superior de Guerra, exceder à carga horária correspondente ao cargo ou função que exerçam na Administração Pública\".",
+        "Art. 2º - O Artigo 14 do Regulamento a que se refere o artigo 1º do presente decreta fica acrescido dos seguintes parágrafos.",
+        "Art. 3º - Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário."
+      ]
+    }
+  ],
+  "limites": [
+    "Sem revisao humana integral1951 ou facsimiles; valida snapshot oficial HTML+JSON e sequencia literal GFM.",
+    "CSS text-transform/posicao/size nao sao alegados identicos em pixels.",
+    "Marcador administrativo so retirado de P inicial inteiro, vinculado a numero/data propria.",
+    "Dedup HEAD atual e GitHub ainda pendentes."
+  ]
+}
