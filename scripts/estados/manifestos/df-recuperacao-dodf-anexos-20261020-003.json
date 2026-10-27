@@ -1,0 +1,121 @@
+{
+  "total": 1,
+  "documentos": [
+    {
+      "path": "estaduais/DF/decretos/1999/dec-20877-1999-12-10.md",
+      "sha256_md_anterior": "bfa5f2e64492c4c3dc78190b0f32462bc4041684d97fd2ae9951d571478893e2",
+      "sha256_md": "6e6db21eaea513d050d93180b210c9335bcb0d2b7230c5c21a1155edd9c83f35",
+      "backup": "estaduais/DF/_fonte/auditorias/dodf-anexos-20261020/dec-20877-1999-12-10.md.gz",
+      "identidade_oficial": {
+        "tipo": "Decreto",
+        "numero": "20877",
+        "data": "1999-12-10",
+        "epigrafe_visual": "DECRETO Nº 20.877, DE 10 DE DEZEMBRO DE 1999"
+      },
+      "fonte_catalogo": "https://www.sinj.df.gov.br/sinj/Norma/37673/exec_dec_20877_1999.html",
+      "cache_sinj": "estaduais/DF/_fonte/decretos/1999/dec-20877-1999-12-10.html.gz",
+      "sha256_cache_sinj": "3d6c9e82659fdf1cd58616909435639f61f0ba10b163f08aaf9848e34b376b2b",
+      "fonte_texto_original": "https://www.sinj.df.gov.br/sinj/BaixarArquivoDiario.aspx?id_file=49781e64-2cb1-3a0c-8fe6-4845163551d2",
+      "cache_pdf_unico": "estaduais/DF/_fonte/auditorias/dodf-anexos-20261020/49781e64-2cb1-3a0c-8fe6-4845163551d2.pdf",
+      "sha256_pdf": "d58e30716846e2fad8e1b96c7a3247ed40e90553ddbd26400451a555a6a968d9",
+      "publicacao": {
+        "numero": "236",
+        "data": "1999-12-13",
+        "pagina_fisica": 22,
+        "pagina_impressa": 22,
+        "colunas": [
+          1,
+          2
+        ]
+      },
+      "evidencias_visuais": [
+        {
+          "path": "scripts/estados/manifestos/evidencias-df-dodf/f1bf5632920baeefaceaa1d55de971e32a6d56f62b199c5e7543c74ce2a6bc5c.png",
+          "sha256_png": "f1bf5632920baeefaceaa1d55de971e32a6d56f62b199c5e7543c74ce2a6bc5c",
+          "renderizacao": [
+            "pdftoppm",
+            "-f",
+            "22",
+            "-l",
+            "22",
+            "-r",
+            "300",
+            "-x",
+            "170",
+            "-y",
+            "3250",
+            "-W",
+            "1450",
+            "-H",
+            "520",
+            "-singlefile",
+            "-png"
+          ],
+          "escopo": "Epígrafe, ementa, preâmbulo e artigo 1 na coluna 1"
+        },
+        {
+          "path": "scripts/estados/manifestos/evidencias-df-dodf/2d060cd3ec6f9cb701bbffd3f2ab86d4ededa5baa43df2fa694f13dcc4c4610a.png",
+          "sha256_png": "2d060cd3ec6f9cb701bbffd3f2ab86d4ededa5baa43df2fa694f13dcc4c4610a",
+          "renderizacao": [
+            "pdftoppm",
+            "-f",
+            "22",
+            "-l",
+            "22",
+            "-r",
+            "300",
+            "-x",
+            "1660",
+            "-y",
+            "200",
+            "-W",
+            "1450",
+            "-H",
+            "1470",
+            "-singlefile",
+            "-png"
+          ],
+          "escopo": "Artigos 2–4, data, assinatura e anexos I/II na coluna 2; excluído Decreto 20.878"
+        }
+      ],
+      "ocr_bruto_pagina_preservado": "estaduais/DF/_fonte/auditorias/dodf-anexos-20261020/49781e64-2cb1-3a0c-8fe6-4845163551d2.p22.txt.gz",
+      "sha256_ocr_bruto": "0c87350778b6cd6645fc8e15fa30d012d9195ce28cc84a59c1f68a67b8fc6aaa",
+      "OCR_nao_usado_para_inferir_identidade_nomes_valores": true,
+      "transcricao": "Anexos transcritos manualmente da imagem primária, corpo SINJ conferido visualmente; não alegação de OCR corrigido.",
+      "edicao": "original, sem alegação de compilação vigente",
+      "metadados_situacao_revogada_inalterados": true,
+      "revogada": null,
+      "alteracoes_explicitas": [
+        {
+          "antes": "JOAQUIM DOMINGOS ROR1Z (SINJ)",
+          "depois": "JOAQUIM DOMINGOS RORIZ",
+          "prova": "assinatura impressa legível na imagem da continuação; leitura visual, sem inferir nome por OCR"
+        },
+        {
+          "antes": "aviso de anexos no DODF sem representação",
+          "depois": "anexos I/II em cinco colunas com códigos, fonte, valor detalhado, subtotais e rodapés",
+          "prova": "imagem da continuação e de ambos os anexos"
+        }
+      ],
+      "tabelas": {
+        "orgao_literal": "230103/00001 16103",
+        "programa_literal": "08.048.0021.8501",
+        "referencia_literal": "002511 0011",
+        "natureza_I": "45.90.52",
+        "natureza_II": "34.90.39",
+        "fonte_ambos": "100",
+        "detalhado_ambos": "4.500",
+        "totais_cada_anexo": [
+          "4.500",
+          "4.500",
+          "4.500"
+        ],
+        "rodapes": [
+          "00977/1 - 200035",
+          "00977/2 - 200042"
+        ]
+      },
+      "granularidade": "Ato começa no fim da coluna esquerda e continua no topo da direita. Conteúdo desses dois intervalos conferido com identidade própria e anexos; nenhum texto dos decretos adjacentes foi incorporado."
+    }
+  ]
+}

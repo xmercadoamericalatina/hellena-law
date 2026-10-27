@@ -1,0 +1,103 @@
+{
+  "total": 3,
+  "deduplicacao_baseline_GO": 52275,
+  "escopo": "Lacunas da fronteira dos dez tipos oficiais; diferenças de totais do índice são +2 leis e +1 decreto, todos encontrados na primeira página. Não certifica ausência de alterações retroativas no índice histórico.",
+  "documentos": [
+    {
+      "path": "estaduais/GO/leis-ordinarias/2026/lei-24566-2026-id118270.md",
+      "sha256_md": "8ea833ec4e819ea4aaeb6d966c10f19485f2bf96be1ad2ced64e491922a4b1cc",
+      "identidade": {
+        "UF": "GO",
+        "tipo": "Lei Ordinária",
+        "id": "118270",
+        "numero": "24.566",
+        "data": "2026-10-15",
+        "ano": 2026
+      },
+      "fonte": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118270",
+      "url_api": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118270",
+      "epigrafe_literal_fonte": "LEI Nº 24.566, DE 15 DE OUTUBRO DE 2026",
+      "situacao_literal": "Em Vigor",
+      "revogada": false,
+      "prova_booleano": "Estado oficial literal Em Vigor; não inferido da ausência de revogação.",
+      "cache_json": "estaduais/GO/_indice/retomada-20261020/detalhe-118270.json",
+      "sha256_json": "dc71171cd05dab1b5151d83620f87e7e102cda97dbbc700276372fdbae49813a",
+      "cache_html": "estaduais/GO/_fonte/leis-ordinarias/2026/lei-24566-2026-id118270.html.gz",
+      "sha256_html": "7edbd3755acd07338f7efe8c54e4d25d06572918f7df5e3cbc6aa37193b8e65d",
+      "dispositivo_proprio": "3, § 7º, da Constituição Estadual, por seu Presidente, promulga a seguinte Lei:\n\nArt. 1º Fica concedido a ERICK TAPAJÓS PEREIRA BRITO o Título Honorífico de Cidadão Goiano.\n\nArt. 2º Esta Lei entra em vigor na data de sua publicação.\n\nASSEMBLEIA LEGISLATIVA DO ESTADO D",
+      "texto_sem_OCR": true,
+      "gates": [
+        "identidade e data da epígrafe própria vs índice/detalhe",
+        "ID ausente do baseline e disco; nenhum alias interno",
+        "nenhuma imagem ou tachado no campo",
+        "nenhum aviso/remissão própria de anexo omitido",
+        "dispositivo próprio; não simples retificação",
+        "tabelas complexas conferidas (nenhuma)"
+      ]
+    },
+    {
+      "path": "estaduais/GO/leis-ordinarias/2026/lei-24565-2026-id118269.md",
+      "sha256_md": "e4122b6915038651ca72ba4982286348b47a279c9c0e9c03d084bc9ba32fc477",
+      "identidade": {
+        "UF": "GO",
+        "tipo": "Lei Ordinária",
+        "id": "118269",
+        "numero": "24.565",
+        "data": "2026-10-15",
+        "ano": 2026
+      },
+      "fonte": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118269",
+      "url_api": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118269",
+      "epigrafe_literal_fonte": "LEI Nº 24.565, DE 15 DE OUTUBRO DE 2026",
+      "situacao_literal": "Em Vigor",
+      "revogada": false,
+      "prova_booleano": "Estado oficial literal Em Vigor; não inferido da ausência de revogação.",
+      "cache_json": "estaduais/GO/_indice/retomada-20261020/detalhe-118269.json",
+      "sha256_json": "a2e1abbd2ac4b705b777f377b896d6d5287b9df67bd0eedaff772707dd90e105",
+      "cache_html": "estaduais/GO/_fonte/leis-ordinarias/2026/lei-24565-2026-id118269.html.gz",
+      "sha256_html": "aee36decf66d22f40de00bcb34c2810bcf8bc3401fc8b89a010062e3317af4f0",
+      "dispositivo_proprio": "3, § 7º, da Constituição Estadual, por seu Presidente, promulga a seguinte Lei:\n\nArt. 1º Fica concedido a RICARDO ALBERTO CORRÊA VIANA o Título Honorífico de Cidadão Goiano.\n\nArt. 2º Esta Lei entra em vigor na data de sua publicação.\n\nASSEMBLEIA LEGISLATIVA DO ESTADO ",
+      "texto_sem_OCR": true,
+      "gates": [
+        "identidade e data da epígrafe própria vs índice/detalhe",
+        "ID ausente do baseline e disco; nenhum alias interno",
+        "nenhuma imagem ou tachado no campo",
+        "nenhum aviso/remissão própria de anexo omitido",
+        "dispositivo próprio; não simples retificação",
+        "tabelas complexas conferidas (nenhuma)"
+      ]
+    },
+    {
+      "path": "estaduais/GO/decretos/2026/dec-10998-2026-id118358.md",
+      "sha256_md": "e7201108752f2d3f598b2a93aa2e9e1ec9139d80b01987f6ed77c5d677b2d941",
+      "identidade": {
+        "UF": "GO",
+        "tipo": "Decreto",
+        "id": "118358",
+        "numero": "10.998",
+        "data": "2026-10-19",
+        "ano": 2026
+      },
+      "fonte": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118358",
+      "url_api": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118358",
+      "epigrafe_literal_fonte": "DECRETO Nº 10.998, DE 19 DE OUTUBRO DE 2026",
+      "situacao_literal": "Em Vigor",
+      "revogada": false,
+      "prova_booleano": "Estado oficial literal Em Vigor; não inferido da ausência de revogação.",
+      "cache_json": "estaduais/GO/_indice/retomada-20261020/detalhe-118358.json",
+      "sha256_json": "11537478d1e08c79a25f7bb06b948022cdb30c6a3b310a2009f16a8592a4cadd",
+      "cache_html": "estaduais/GO/_fonte/decretos/2026/dec-10998-2026-id118358.html.gz",
+      "sha256_html": "99aca1ad5176ba8ebfbc4d938ec32d297d736e9681d538758e56cb87eb72e1cf",
+      "dispositivo_proprio": "ria de Estado da Casa Civil, e o Despacho Governamental nº 848/2026/CASA CIVIL,\n\nDECRETA:\n\nArt. 1º Fica desqualificado como organização social da saúde – OSS, no Estado de Goiás, o INSTITUTO DE GESTÃO E HUMANIZAÇÃO – IGH, associação civil de direito privado sem fim lucr",
+      "texto_sem_OCR": true,
+      "gates": [
+        "identidade e data da epígrafe própria vs índice/detalhe",
+        "ID ausente do baseline e disco; nenhum alias interno",
+        "nenhuma imagem ou tachado no campo",
+        "nenhum aviso/remissão própria de anexo omitido",
+        "dispositivo próprio; não simples retificação",
+        "tabelas complexas conferidas (nenhuma)"
+      ]
+    }
+  ]
+}

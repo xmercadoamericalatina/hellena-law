@@ -1,0 +1,198 @@
+{
+  "capturado_em": "2026-10-21T01:11:06.583537+00:00",
+  "criterio": "Fronteira das primeiras páginas por tipo; não é reindexação integral. Diferenças de total sem novos IDs suficientes permanecem lacunas de índice a investigar. Não substitui índice anterior.",
+  "paginas": [
+    {
+      "tipo": 2,
+      "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes?page=1&tipo_legislacao=2",
+      "http": 200,
+      "cache": "estaduais/GO/_indice/retomada-20261020/tipo-2-pagina-1.json",
+      "sha256": "e013ff50459b54cc710092eeae6088e61c4a64d3e072181825310e9968083e02",
+      "total_oficial_atual": 25298,
+      "total_indice_anterior": 25296,
+      "novos_ids_fronteira": 2
+    },
+    {
+      "tipo": 1,
+      "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes?page=1&tipo_legislacao=1",
+      "http": 200,
+      "cache": "estaduais/GO/_indice/retomada-20261020/tipo-1-pagina-1.json",
+      "sha256": "06da325c0b48157c534528204c4907a6a3f732e92fbce80828ea511c280ea8ea",
+      "total_oficial_atual": 215,
+      "total_indice_anterior": 215,
+      "novos_ids_fronteira": 0
+    },
+    {
+      "tipo": 13,
+      "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes?page=1&tipo_legislacao=13",
+      "http": 200,
+      "cache": "estaduais/GO/_indice/retomada-20261020/tipo-13-pagina-1.json",
+      "sha256": "767f8cdf4bd68fc2e5fd322b9955f3beba6b24b807368fc6a7f156ee7e0d0f68",
+      "total_oficial_atual": 88,
+      "total_indice_anterior": 88,
+      "novos_ids_fronteira": 0
+    },
+    {
+      "tipo": 3,
+      "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes?page=1&tipo_legislacao=3",
+      "http": 200,
+      "cache": "estaduais/GO/_indice/retomada-20261020/tipo-3-pagina-1.json",
+      "sha256": "3b99c4ac8ed15d33867f572ad55bf8ee39c7c928df5b1e276cfbad8087200ba6",
+      "total_oficial_atual": 13526,
+      "total_indice_anterior": 13525,
+      "novos_ids_fronteira": 1
+    },
+    {
+      "tipo": 5,
+      "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes?page=1&tipo_legislacao=5",
+      "http": 200,
+      "cache": "estaduais/GO/_indice/retomada-20261020/tipo-5-pagina-1.json",
+      "sha256": "c140cc02529ef60fff492da7123b8d246efeb547449536b6ad3078906e1d15da",
+      "total_oficial_atual": 6746,
+      "total_indice_anterior": 6746,
+      "novos_ids_fronteira": 0
+    },
+    {
+      "tipo": 6,
+      "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes?page=1&tipo_legislacao=6",
+      "http": 200,
+      "cache": "estaduais/GO/_indice/retomada-20261020/tipo-6-pagina-1.json",
+      "sha256": "bb5fd1ea8c48740f3c903bed93acd40620f6bf86f909848644fa82c1a9e65a30",
+      "total_oficial_atual": 4581,
+      "total_indice_anterior": 4581,
+      "novos_ids_fronteira": 0
+    },
+    {
+      "tipo": 8,
+      "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes?page=1&tipo_legislacao=8",
+      "http": 200,
+      "cache": "estaduais/GO/_indice/retomada-20261020/tipo-8-pagina-1.json",
+      "sha256": "ec906c419dbdd53e21b58ef9fede3cc356491fabe2da5596d799e9d1aed13e3b",
+      "total_oficial_atual": 1803,
+      "total_indice_anterior": 1803,
+      "novos_ids_fronteira": 0
+    },
+    {
+      "tipo": 4,
+      "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes?page=1&tipo_legislacao=4",
+      "http": 200,
+      "cache": "estaduais/GO/_indice/retomada-20261020/tipo-4-pagina-1.json",
+      "sha256": "b764623f48a008f7301903d83c9c3bdd91d72776e9c7d821f40d74a0b1e6e09a",
+      "total_oficial_atual": 12,
+      "total_indice_anterior": 12,
+      "novos_ids_fronteira": 0
+    },
+    {
+      "tipo": 7,
+      "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes?page=1&tipo_legislacao=7",
+      "http": 200,
+      "cache": "estaduais/GO/_indice/retomada-20261020/tipo-7-pagina-1.json",
+      "sha256": "e2a46c4fba8e76219fcc5c6af3f4ef07bc959b9bde696b881bd16eb33c98ed28",
+      "total_oficial_atual": 8,
+      "total_indice_anterior": 8,
+      "novos_ids_fronteira": 0
+    },
+    {
+      "tipo": 12,
+      "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes?page=1&tipo_legislacao=12",
+      "http": 200,
+      "cache": "estaduais/GO/_indice/retomada-20261020/tipo-12-pagina-1.json",
+      "sha256": "903a2e9208cb81d8a2fc825a2ab4701a0cf7a555becc5312362ff449c22e0d1f",
+      "total_oficial_atual": 1,
+      "total_indice_anterior": 1,
+      "novos_ids_fronteira": 0
+    }
+  ],
+  "novos": [
+    {
+      "id": 118270,
+      "ano": 2026,
+      "numero": "24.566",
+      "ementa": "Concede o título de cidadania que especifica.",
+      "data_legislacao": "15/10/2026",
+      "link_externo": "",
+      "tipo_legislacao": {
+        "id": 2,
+        "nome": "Lei Ordinária"
+      },
+      "diarios": [
+        {
+          "data_diario": "16/10/2026",
+          "numero": "24.887",
+          "suplemento": "Sim",
+          "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/7410"
+        }
+      ],
+      "estado_legislacao": {
+        "id": 1,
+        "nome": "Em Vigor"
+      },
+      "_captura": {
+        "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118270",
+        "http": 200,
+        "cache": "estaduais/GO/_indice/retomada-20261020/detalhe-118270.json",
+        "sha256": "dc71171cd05dab1b5151d83620f87e7e102cda97dbbc700276372fdbae49813a"
+      }
+    },
+    {
+      "id": 118269,
+      "ano": 2026,
+      "numero": "24.565",
+      "ementa": "Concede o título de cidadania que especifica.",
+      "data_legislacao": "15/10/2026",
+      "link_externo": "",
+      "tipo_legislacao": {
+        "id": 2,
+        "nome": "Lei Ordinária"
+      },
+      "diarios": [
+        {
+          "data_diario": "16/10/2026",
+          "numero": "24.887",
+          "suplemento": "Sim",
+          "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/7410"
+        }
+      ],
+      "estado_legislacao": {
+        "id": 1,
+        "nome": "Em Vigor"
+      },
+      "_captura": {
+        "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118269",
+        "http": 200,
+        "cache": "estaduais/GO/_indice/retomada-20261020/detalhe-118269.json",
+        "sha256": "a2e1abbd2ac4b705b777f377b896d6d5287b9df67bd0eedaff772707dd90e105"
+      }
+    },
+    {
+      "id": 118358,
+      "ano": 2026,
+      "numero": "10.998",
+      "ementa": "Desqualifica como organização social – OSS da Saúde, no Estado de Goiás, o Instituto de Gestão e Humanização – IGH",
+      "data_legislacao": "19/10/2026",
+      "link_externo": "",
+      "tipo_legislacao": {
+        "id": 3,
+        "nome": "Decreto Numerado"
+      },
+      "diarios": [
+        {
+          "data_diario": "19/10/2026",
+          "numero": "24.888",
+          "suplemento": "Sim",
+          "link_download": "https://diariooficial.abc.go.gov.br/portal/edicoes/download/7412"
+        }
+      ],
+      "estado_legislacao": {
+        "id": 1,
+        "nome": "Em Vigor"
+      },
+      "_captura": {
+        "url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118358",
+        "http": 200,
+        "cache": "estaduais/GO/_indice/retomada-20261020/detalhe-118358.json",
+        "sha256": "11537478d1e08c79a25f7bb06b948022cdb30c6a3b310a2009f16a8592a4cadd"
+      }
+    }
+  ]
+}

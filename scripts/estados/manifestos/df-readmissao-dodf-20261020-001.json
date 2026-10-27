@@ -1,0 +1,30 @@
+{
+  "uf": "DF",
+  "total": 1,
+  "criterio": "Exceção manual fundamentada na edição primária do DODF; sem inferir falta/teor de anexo por aviso do SINJ. Sem modificar normativo ou metadados.",
+  "documentos": [
+    {
+      "path": "estaduais/DF/portarias/1999/port-68-1999-04-28.md",
+      "sha256_md": "5cd2bae79f3a70af34bab063356890b46851ac7b01428e9623c3ec335552078f",
+      "fonte": "https://www.sinj.df.gov.br/sinj/Norma/36428/seplan_prt_68_1999.html",
+      "cache_sinj": "estaduais/DF/_fonte/portarias/1999/port-68-1999-04-28.html.gz",
+      "sha256_cache_sinj": "ec8314e090e30e2c923e5a0dacb760a209b20dca8b206d1d93cdcd517ea66ee0",
+      "diario_url": "https://www.sinj.df.gov.br/sinj/BaixarArquivoDiario.aspx?id_file=66a86ab7-0e20-3ef1-858d-10c5aa9b5e88",
+      "cache_diario": "estaduais/DF/_fonte/auditorias/dodf-anexos-20261020/66a86ab7-0e20-3ef1-858d-10c5aa9b5e88.pdf",
+      "sha256_pdf": "7ba1738f0411b485b5d00b581dbee5a1fe8fa88173dae2970b3da7e4b0c0dbba",
+      "diario_numero": "81",
+      "diario_data": "1999-04-29",
+      "pagina_fisica_pdf": 19,
+      "pagina_impressa": 19,
+      "tipo": "Portaria",
+      "numero": "68",
+      "data": "1999-04-28",
+      "prova_visual": "Coluna direita inferior: epígrafe PORTARIA Nº 68, DE 28 DE ABRIL DE 1999, preâmbulo, itens I/II/III e assinatura LEONEL PAIVA; em seguida começa SECRETARIA DE ESPORTES E VALORIZAÇÃO DA JUVENTUDE. Anexos I/II na coluna esquerda pertencem à Portaria 69, que expressamente os aprova. Não há anexo próprio da Portaria 68 no intervalo integral da publicação.",
+      "edicao_original_renderizada_sha256_png": "02b6ca4f2ee097bf80c474dd4837108c2740132e0dc7077d599f26216c44e2ca",
+      "renderizacao": "pdftoppm26.10.0, página19,150dpi,PNG; fonte integral preservada uma vez por id_file",
+      "aviso_sinj_literal": "Os anexos constam no DODF.",
+      "readmissao": "aviso editorial SINJ não corresponde a anexo próprio da Portaria68; publicação original integral inspecionada",
+      "md_inalterado": true
+    }
+  ]
+}

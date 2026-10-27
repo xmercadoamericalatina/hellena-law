@@ -1,0 +1,115 @@
+{
+  "total": 1,
+  "documentos": [
+    {
+      "path": "estaduais/DF/decretos/1999/dec-20878-1999-12-10.md",
+      "sha256_md_anterior": "da688ac517e976f978db04ea848954571ca0756489c8e9f64f06224b30df9396",
+      "sha256_md": "a1707cdee55d0ab8d48b4d729631ca1919ebccb69846af5e38c4100c76065764",
+      "backup": "estaduais/DF/_fonte/auditorias/dodf-anexos-20261020/dec-20878-1999-12-10.md.gz",
+      "identidade_oficial": {
+        "tipo": "Decreto",
+        "numero": "20878",
+        "data": "1999-12-10",
+        "epigrafe_visual": "DECRETO Nº 20.878, DE 10 DE DEZEMBRO DE 1999"
+      },
+      "fonte_catalogo": "https://www.sinj.df.gov.br/sinj/Norma/37674/exec_dec_20878_1999.html",
+      "cache_sinj": "estaduais/DF/_fonte/decretos/1999/dec-20878-1999-12-10.html.gz",
+      "sha256_cache_sinj": "9dcadefa953161a8d9af0ee0152aed3ae7140983e38fb33f179e9bce1269e86d",
+      "fonte_texto_original": "https://www.sinj.df.gov.br/sinj/BaixarArquivoDiario.aspx?id_file=49781e64-2cb1-3a0c-8fe6-4845163551d2",
+      "cache_pdf_unico": "estaduais/DF/_fonte/auditorias/dodf-anexos-20261020/49781e64-2cb1-3a0c-8fe6-4845163551d2.pdf",
+      "sha256_pdf": "d58e30716846e2fad8e1b96c7a3247ed40e90553ddbd26400451a555a6a968d9",
+      "publicacao": {
+        "numero": "236",
+        "data": "1999-12-13",
+        "pagina_fisica": 22,
+        "pagina_impressa": 22,
+        "coluna": 2
+      },
+      "ocr_bruto_pagina_preservado": "estaduais/DF/_fonte/auditorias/dodf-anexos-20261020/49781e64-2cb1-3a0c-8fe6-4845163551d2.p22.txt.gz",
+      "sha256_ocr_bruto": "0c87350778b6cd6645fc8e15fa30d012d9195ce28cc84a59c1f68a67b8fc6aaa",
+      "OCR_nao_usado_para_inferir_identidade_nomes_valores": true,
+      "evidencia_visual": {
+        "path": "scripts/estados/manifestos/evidencias-df-dodf/00b3b08f072652a5bbeec14035720a02635f722fffd8982dcca7a32fba88afa6.png",
+        "sha256_png": "00b3b08f072652a5bbeec14035720a02635f722fffd8982dcca7a32fba88afa6",
+        "renderizacao": [
+          "pdftoppm",
+          "-f",
+          "22",
+          "-l",
+          "22",
+          "-r",
+          "300",
+          "-x",
+          "1660",
+          "-y",
+          "1800",
+          "-W",
+          "1450",
+          "-H",
+          "2020",
+          "-singlefile",
+          "-png"
+        ],
+        "escopo": "Epígrafe própria, ementa, preâmbulo, artigos 1–4, data, assinatura e anexos I/II completos na coluna direita; excluídos os decretos 20.876 e 20.877 das demais regiões."
+      },
+      "transcricao": "Anexos transcritos manualmente da imagem primária; corpo SINJ conferido visualmente com a publicação original. Não se afirma OCR corrigido.",
+      "alteracoes_explicitas": [
+        {
+          "antes": "17 de marco de 1964 (duas ocorrências SINJ)",
+          "depois": "17 de março de 1964 (duas ocorrências)",
+          "prova": "grafia visível no preâmbulo e artigo 2º da imagem primária"
+        },
+        {
+          "antes": "aviso de anexos no DODF sem representação",
+          "depois": "anexos I e II representados em cinco colunas, preservando códigos, subtotais, total e rodapés",
+          "prova": "imagem primária integral do ato e anexos"
+        }
+      ],
+      "metadados_situacao_revogada_inalterados": true,
+      "revogada": null,
+      "edicao": "original, sem alegação de compilação vigente",
+      "tabelas": {
+        "anexo_I": {
+          "orcamento": "DA SEGURIDADE SOCIAL (literal, preservado)",
+          "orgao": "020101/00001 02101",
+          "programa": "15.082.0495.8503",
+          "referencia": "000083 0001",
+          "naturezas": [
+            "31.90.01",
+            "31.90.92"
+          ],
+          "fontes": [
+            "100",
+            "100"
+          ],
+          "detalhados": [
+            "500.000",
+            "420.000"
+          ],
+          "totais": [
+            "920.000",
+            "920.000",
+            "920.000"
+          ],
+          "rodape": "00953/1 - 200035"
+        },
+        "anexo_II": {
+          "orcamento": "FISCAL",
+          "orgao": "020101/00001 02101",
+          "programa": "01.007.0021.8502",
+          "referencia": "002517 0003",
+          "natureza": "31.90.92",
+          "fonte": "100",
+          "detalhado": "920.000",
+          "totais": [
+            "920.000",
+            "920.000",
+            "920.000"
+          ],
+          "rodape": "00953/2 - 200042"
+        },
+        "verificacao_aritmetica_apenas": "500.000 + 420.000 = 920.000; todos os valores lidos diretamente da imagem, sem inferência por soma."
+      }
+    }
+  ]
+}

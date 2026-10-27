@@ -1,0 +1,106 @@
+{
+  "total": 1,
+  "documentos": [
+    {
+      "path": "estaduais/DF/portarias/1999/port-69-1999-04-28.md",
+      "tipo": "Portaria",
+      "numero": "69",
+      "data": "1999-04-28",
+      "fonte_catalogo": "https://www.sinj.df.gov.br/sinj/Norma/36429/seplan_prt_69_1999.html",
+      "fonte_texto_original": "https://www.sinj.df.gov.br/sinj/BaixarArquivoDiario.aspx?id_file=66a86ab7-0e20-3ef1-858d-10c5aa9b5e88",
+      "sha256_md_anterior": "d64f5977e7c920d483e66852571cbb02daedd38bfe483cb28e38cc020ea3075c",
+      "sha256_md": "0044757e8acd3781fde13b9fa67c16f94ff7f61ed310021d63296d2fc4fb7cb4",
+      "backup": "estaduais/DF/_fonte/auditorias/dodf-anexos-20261020/port-69-1999-04-28.md.gz",
+      "cache_pdf_unico": "estaduais/DF/_fonte/auditorias/dodf-anexos-20261020/66a86ab7-0e20-3ef1-858d-10c5aa9b5e88.pdf",
+      "sha256_pdf": "7ba1738f0411b485b5d00b581dbee5a1fe8fa88173dae2970b3da7e4b0c0dbba",
+      "ocr_bruto_pagina_preservado": "estaduais/DF/_fonte/auditorias/dodf-anexos-20261020/66a86ab7-0e20-3ef1-858d-10c5aa9b5e88.p19.txt.gz",
+      "sha256_ocr_bruto": "074f2437af445ba5bddb37c9b03f3d7f4b9c636aa8c8eb33baad5c0b617adf40",
+      "OCR_nao_usado_para_inferir_nomes_ou_valores": true,
+      "transcricao": "manual, conferida visualmente na imagem da publicação primária; não alegação de OCR corrigido",
+      "publicacao": {
+        "numero": "81",
+        "data": "1999-04-29",
+        "pagina_fisica": 19,
+        "pagina_impressa": 19,
+        "coluna": 1
+      },
+      "evidencia_visual": {
+        "path": "scripts/estados/manifestos/evidencias-df-dodf/5f51a8cb00e3b20f85687d8440af0b648e14ae59eecfcdc965ca163d0662a383.png",
+        "sha256_png": "5f51a8cb00e3b20f85687d8440af0b648e14ae59eecfcdc965ca163d0662a383",
+        "renderizacao": "pdftoppm 26.10.0; página 19 a 300 dpi, recorte x=40, y=2140, largura=1550, altura=1730",
+        "escopo": "Cabeçalho Portaria 69, preâmbulo, itens I/II/III, assinatura e anexos I/II completos; exclui Portaria 68 da coluna direita",
+        "reproducao_png_byte_a_byte_confirmada": true,
+        "comando_reproducivel": [
+          "pdftoppm",
+          "-f",
+          "19",
+          "-l",
+          "19",
+          "-r",
+          "300",
+          "-x",
+          "40",
+          "-y",
+          "2140",
+          "-W",
+          "1550",
+          "-H",
+          "1730",
+          "-singlefile",
+          "-png",
+          "estaduais/DF/_fonte/auditorias/dodf-anexos-20261020/66a86ab7-0e20-3ef1-858d-10c5aa9b5e88.pdf",
+          "prefixo_saida"
+        ]
+      },
+      "edicao": "original; nenhuma afirmação de compilação global/atualização dos anexos",
+      "vigencia_inferida": false,
+      "revogada_inalterada": null,
+      "alteracoes_explicitas": [
+        {
+          "antes": "tendo em viam",
+          "depois": "tendo em vista",
+          "prova": "imagem primária: vista legível; não inferido da gramática nem corrigido por OCR"
+        },
+        {
+          "antes": "anexos remetidos ao DODF sem representação",
+          "depois": "Anexos I/II com especificações, natureza, fonte, detalhado, totais e notas da fonte, transcritos visualmente",
+          "prova": "Página 19, imagem integral do ato e anexos"
+        },
+        {
+          "antes": "edição compilada SINJ",
+          "depois": "edição original DODF explicitamente rotulada"
+        }
+      ],
+      "conferencias_tabelas": {
+        "codigos_literal_orgao": "200204/20204 26204 (preservado como impresso, sem normalizar o aparente excesso de dígitos)",
+        "detalhados_cada_anexo": [
+          "35.453",
+          "106.160"
+        ],
+        "totais_cada_anexo": [
+          "141.613",
+          "35.453",
+          "106.160",
+          "141.613"
+        ],
+        "naturezas_anexoI": [
+          "34.90.92",
+          "31.90.92"
+        ],
+        "naturezas_anexoII": [
+          "34.90.39",
+          "31.90.11"
+        ],
+        "fonte_ambos_itens_ambos_anexos": "100",
+        "soma_apenas_verificacao": "35.453 + 106.160 = 141.613; todos os valores já lidos diretamente da imagem, não usados para inferir número",
+        "notas_preservadas": [
+          "00178/1 - 200080",
+          "00178/2 - 200081",
+          "As transferências não constam do Total"
+        ]
+      },
+      "ausente_baseline_congelado": true,
+      "ausente_pacotes_df_anteriores": true
+    }
+  ]
+}

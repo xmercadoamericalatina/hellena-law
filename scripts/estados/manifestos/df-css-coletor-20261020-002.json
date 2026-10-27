@@ -1,0 +1,24 @@
+{
+  "substitui_codigo": "scripts/estados/manifestos/df-css-coletor-20261020-001.json",
+  "snapshot_codigo_v1": "/tmp/df-css-code-snapshot-001/",
+  "baseline_df_preexistente": "/tmp/df-before-sinj-tachados-20261020.py",
+  "sha256_baseline_df": "b2443d584e4c616f56d4c62d75dfb1e96ec177ca6581c4beb67ba70830a91e26",
+  "arquivos": [
+    {
+      "path": "scripts/estados/df.py",
+      "sha256": "1d8059d38bf74be14db36f1e8bd616e4bf4278602deb980c1b44e14b765fb377"
+    },
+    {
+      "path": "scripts/estados/sinj_tachados.py",
+      "sha256": "fb0794bb2ebb612fe288c7ccb2e4e92a58bffc478ab2550f57d6fcfb98f12453"
+    },
+    {
+      "path": "scripts/estados/test_sinj_tachados.py",
+      "sha256": "0c18970cbd4ebc3e731949c920a66f882eae4115d37685b0641cad5de7a22444"
+    }
+  ],
+  "patch_somente_proprio_df": "--- /tmp/df-before-sinj-tachados-20261020.py\t2026-10-20 21:32:59\n+++ scripts/estados/df.py\t2026-10-20 21:48:43\n@@ -13,14 +13,19 @@\n   python3 -I scripts/estados/df.py 50           # só as 50 normas mais recentes (teste)\n \"\"\"\n import collections\n+import gzip\n+import hashlib\n import json\n import os\n+import re\n import sys\n import urllib.parse\n \n sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), \"..\"))\n-from comum import RAIZ_ESTADUAIS, Rede, caminhos, documento_para_md, executar, gravar  # noqa: E402\n+from comum import RAIZ_ESTADUAIS, Rede, caminhos, documento_para_md, extrair_texto, executar, gravar  # noqa: E402\n \n+from sinj_tachados import converter_html_sinj  # noqa: E402\n+\n UF = \"DF\"\n BASE = \"https://www.sinj.df.gov.br/sinj\"\n # nm_tipo_norma do SINJ -> (pasta, tipo canônico, prefixo do arquivo).\n@@ -136,7 +141,29 @@\n     st, bruto, ctype = rede.get(url, timeout=180)\n     if st != 200 or not bruto:\n         return \"sem_texto\", {\"ch\": s[\"ch_norma\"], \"url\": url, \"http\": st}\n-    corpo, motivo = documento_para_md(bruto, url, ctype, {\"Texto Compilado\", \"Texto Original\"})\n+    parece_html = not bruto.startswith((b\"%PDF\", b\"PK\", b\"\\xd0\\xcf\\x11\\xe0\")) and (\n+        \"html\" in ctype.lower() or bruto.lstrip().startswith(b\"<\"))\n+    html, texto = extrair_texto(bruto, url, ctype) if parece_html else (None, None)\n+    edicao = \"compilada (SINJ-DF)\" if compilado else \"original\"\n+    if html is not None:\n+        try:\n+            corpo, edicao, prova_edicao = converter_html_sinj(html, compilado=compilado, situacao=s.get(\"nm_situacao\") or \"\")\n+            if prova_edicao[\"edicao\"] == \"sem tachado ativo\":\n+                corpo, motivo = documento_para_md(bruto, url, ctype, {\"Texto Compilado\", \"Texto Original\"})\n+            elif len(re.sub(r\"\\W\", \"\", corpo)) < 40:\n+                corpo, motivo = None, \"documento vazio\"\n+            else:\n+                motivo = None\n+        except ValueError as exc:\n+            sha = hashlib.sha256(bruto).hexdigest()\n+            evidencia = os.path.join(RAIZ_ESTADUAIS, UF, \"_fonte\", \"auditorias\", \"css-nao-comprovado\", f\"{s['ch_norma']}-{sha}.html.gz\")\n+            os.makedirs(os.path.dirname(evidencia), exist_ok=True)\n+            if not os.path.exists(evidencia):\n+                with gzip.open(evidencia, \"wb\") as arq:\n+                    arq.write(bruto)\n+            return \"sem_texto\", {\"ch\": s[\"ch_norma\"], \"url\": url, \"motivo\": str(exc), \"cache\": evidencia, \"sha256_fonte\": sha}\n+    else:\n+        corpo, motivo = documento_para_md(bruto, url, ctype, {\"Texto Compilado\", \"Texto Original\"})\n     if corpo is None:\n         return \"sem_texto\", {\"ch\": s[\"ch_norma\"], \"url\": url, \"motivo\": motivo}\n     corpo = corpo.replace(\"\\x00\", \"\")\n@@ -151,7 +178,7 @@\n         (\"ementa\", \" \".join((s.get(\"ds_ementa\") or \"\").split())),\n         (\"situacao\", situacao),\n         (\"revogada\", {\"revogada\": True, \"revogado\": True, \"vigente\": False, \"em vigor\": False}.get(situacao.strip().lower())),\n-        (\"versao_texto\", \"compilada (SINJ-DF)\" if compilado else \"original\"),\n+        (\"versao_texto\", edicao),\n         (\"fonte\", f\"{BASE}/Norma/{s['ch_norma']}/{nome_arq}\"),\n     ]\n     gravar(md, fonte, bruto, meta, f\"# {titulo}\\n\\n{corpo}\")\n",
+  "testes": "66 testes estaduais passaram; 10 específicos SINJ, incluindo regressão de HTML vazio e compatibilidade do fluxo original quando não há tachado ativo",
+  "politica": "Sem tachado ativo mantém documento_para_md original (inclusive validação de vazio). Somente SINJ com tachado usa a nova seleção de edição. Nenhuma mudança nos outros conversores.",
+  "recuperacao_965": "saída do helper sinj_tachados.py permanece idêntica ao manifesto001; zero inline overrides nos965 fontes"
+}
