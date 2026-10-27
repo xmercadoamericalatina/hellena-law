@@ -1,0 +1,3912 @@
+{
+  "arquivos": 488,
+  "aprovados": 488,
+  "problemas": 0,
+  "script_sha256": "41563c6048c4eb3baae9a3470a5f238c15b6292bdaff5dd3020f34eeed4b15b1",
+  "resultados": [
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1992/decretos-legislativos-141-1992-sapl-5547.md",
+      "sha256": "823855a1887bb3b58955f11cb479c7952505cf4ec0d6b558884f6d4144410857",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "3bde00eeac6170e49c5c2c3cef516048c563555867eb94ea19fade7f8be7c5eb"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1992/resolucoes-192-1992-sapl-5913.md",
+      "sha256": "032b88de552170af01633688226466c3716066be1f9e89e345bc9f0e919aa1be",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "22e457ec5ed20484d247fceae1af2b22c9eb0c6dde35a5cfecd52a00e1fae928"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2007/leis-complementares-37-2007-sapl-4808.md",
+      "sha256": "352a5c625a9d517db9bbb3122ae097231a20346e67c8f0b98dc7640d49b86a19",
+      "aprovado": true,
+      "dispositivos_ativos": 869,
+      "historicos": 0,
+      "sha256_fonte": "23c97471b8597976d7bcf36d0b0e989af8522229f7440db07d61859e65fdee07"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.264-2024-sapl-26899.md",
+      "sha256": "a1da142ba0bf2a6fb78d6d861818428b939edcfb59da1849ac6dd5570e7de136",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "92cf2387e6176715156567a7b743f6f82e211592d80b4ecb4b281c4ffdff7d15"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1992/decretos-legislativos-140-1992-sapl-5546.md",
+      "sha256": "f0934310649370dfb5aa03424d62d9188dda3b0c7238b54dbe65a62c3621b2cd",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "f5f2cc5faeba54d55190165f749ab3250a84c5007e469d649338b240e2b76be0"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2007/leis-ordinarias-9245-2007-sapl-3371.md",
+      "sha256": "f595d5eee20e6b4cb27a31a1aec81c3244570eab1d8d3b4b8a2d1d4cc3f12725",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "23dc164b811c0253958b294f1ccc0aabf1fe93c6d44d18ed41f19ab3acf8a9e9"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.262-2024-sapl-26897.md",
+      "sha256": "c80887c50ac07f66edf0ddc753481b8ce9f2ed5c193e817e40d8e3eef5ac1839",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "b465a0cbcf9172470de13c0d614359a66ef1932f69aaf7de806a85c7811f36e6"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1992/resolucoes-191-1992-sapl-5912.md",
+      "sha256": "214214b7680b30204c65231efaea48022f99cf8869fdf639ad530cab9864eaae",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "069d5de555510b2dff393c5a1efa6f197c66740feb633c6455a4256a9105affe"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2007/leis-ordinarias-9185-2007-sapl-1788.md",
+      "sha256": "93c17863b57d537f8d32b74ada2016e5d3825eb6296fe2086e0c0d276eae7a23",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "d4df2953136264106c0f96c9c71088dd32b28ba87f9c67855a7d1eace7f4bb64"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1992/decretos-legislativos-139-1992-sapl-5545.md",
+      "sha256": "79df83e20abeea166ff4b662c029784cd152d4c93b17e7740dd011277e27b785",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "0554e1bc00705f8fc3a63cde70616e3020ce425715f84297aad6c4165cd83e27"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1992/decretos-legislativos-138-1992-sapl-5544.md",
+      "sha256": "d9b5aaccb8b31503f3d152c13782afe1eabc8ea134d28d5bcb00d9a3ba943323",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "e68cc662bf8aa8332bf2e8c60ddfb0d0d172db0efa3920644489e0132cda3d8a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3203-2024-sapl-26887.md",
+      "sha256": "731a6460205775dbbaeb7af4363b8255cc5f2297f2285fedc021a9b689fe1758",
+      "aprovado": true,
+      "dispositivos_ativos": 31,
+      "historicos": 0,
+      "sha256_fonte": "2f3c3821d087be39e1e6914419afc894743489c284b8b64ad79c6ce9de73bb03"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1991/resolucoes-190-1991-sapl-5911.md",
+      "sha256": "b5cd74f4ba238f2294cd546be004a652c374103e3373ec6bc3d81663946621d2",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "ad663bcd1df77f97a76b2857d3ad74bfb7ed47add3273a2767b25d35e3b2f25c"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-137-1991-sapl-5543.md",
+      "sha256": "1448eb9a859605c29250b247a5eba92878cbc2934926cd839fc6a354dbf14d8e",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "91fa6d12953d5bcbdf154e5c722dbcbeda9f14e15fa64724103ee7d8367d68bc"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1991/resolucoes-189-1991-sapl-5910.md",
+      "sha256": "cad2e8b27faf43fadb1066d17ad8947498d99e7172f96bbcb035395d4253ff13",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "625d65b1e262ed6e1d998eff2197f69186c915691accff1d042c079c678b7197"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2006/leis-ordinarias-9111-2006-sapl-1311.md",
+      "sha256": "ab8f7c8ac4a96132837f23a2018dffbdc7bce2bc96f6d245fcece768954aad5f",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "edac0c50ef37499fecdebaa6484a2825ff66544881e41bd2a3e7ec9c0df75762"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3202-2024-sapl-26886.md",
+      "sha256": "6c305c2f3e34a46f85614667cb6d8ab2da606b06c20fb18b0aa19da68b89f047",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "22c1aeb28998a757a53441fdab8afa5f7ed4b56c1d3110b1cdb7756f4da45cac"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2006/leis-ordinarias-9110-2006-sapl-1310.md",
+      "sha256": "fd0933323567985a7ea1f3fae1fc619168ddf56509a8c547f3489bc589987f6b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "eca896d335ec448a46e2620daf3a0b34b87cc36421703272d7198a3e8f27c9e4"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-136-1991-sapl-5542.md",
+      "sha256": "00f9ddcc5b195a0f08ac9ea90fc6cd745ebeb6d9621cc8d8f234a431bfe73724",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "e227038ca67f8788c19b0dc48fe0263e05d8e7621037e01daa7d1d615d066b5a"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2006/leis-ordinarias-9109-2006-sapl-1309.md",
+      "sha256": "efcf6098501baeb6807c552bd5fc4059ebd137c9d81ab5366c87ab8c969ae85f",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "06ff7fd5035e9129fd82de7ae6d77772702ccd747b809b23d10e7d82a9400355"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-135-1991-sapl-5541.md",
+      "sha256": "21e50b298798af5f16b9b51513f0a532afa91160182faeb8ce1771365fc828d7",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "78cc6bb93e0ff73b3dd041c082354f403b4115e56147ede2ba4fd8893cf4044b"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-134-1991-sapl-5540.md",
+      "sha256": "0040336e580df20a7c88e573b6c3eed857cd00d12dd8e302db01a2747f387968",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "7ffb1c8776d2a6827f754d5534d3fe53bd3e7a2f62170feb5434cc2aee7b62da"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2006/leis-ordinarias-9081-2006-sapl-1151.md",
+      "sha256": "255fa4d817e2babcc93d781fca13038ec2586f21de771bc527fb6805a84d2600",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "6c6c080b2bdac65aef908f428f1c3bcc54665984ca097a64353cf5fc728dcffb"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1991/resolucoes-188-1991-sapl-5909.md",
+      "sha256": "f88e54befeeca44cd9b336a78f0ac8795ebb7730eadbba768ff36ade16cd70e2",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "6a2f0bfb5a5f462bb4bbbe40c491cee2a7dc6caf37e0bb6c2ac68557fc7063bc"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-133-1991-sapl-5539.md",
+      "sha256": "0238f564fb59ba4c39588b90ea317a1874475bd961d6a098c99b98b50dc13cab",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "d3e254a7bc3f08b3e1a09561a389813f7dbc6e42561677914d468f4a2680fc11"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-132-1991-sapl-5538.md",
+      "sha256": "10523f12df57799e7b1132be756e7a01d7d2730a39d274e05e31980bfaf6017b",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "97ba1f8322832916110ab8f783300971b29eb3cb86dde1cdf42ccc99517177f8"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2005/leis-ordinarias-9071-2005-sapl-860.md",
+      "sha256": "75981083883afd85e38963a9ffdbfed6fc4bfba2ac618f94b971f6ae51540055",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "05d74ee99522a7440500b24cd7fcf7669948493fb03411afbd7e8295804499be"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1991/resolucoes-187-1991-sapl-5908.md",
+      "sha256": "8fe3b134ebd07d98458e16c4bdb8505bff7548c640c8d9d69a539a42c47d399a",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "7e19d61c63849fc998748dd08aff01d6e71bb7a07912d74bc052cc7b55ede96b"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2005/leis-ordinarias-9069-2005-sapl-858.md",
+      "sha256": "fa7b73a20a286b9ffc5bac9549c727795968762f99d62c1e70bd656dd7d4aace",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "88f4333fe9d28883313bcef269ed6e975b52ceb97187c81e0271182a846d12fc"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-131-1991-sapl-5537.md",
+      "sha256": "a1955a71ef7acee63f505519f337c9bdb2d30df02165f7be9b8f615629f1617a",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "97ec6a4bf05639dd891e9622b346849011230436b816aac85f7a90516f4b591e"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-130-1991-sapl-5536.md",
+      "sha256": "e3dc2445756ad083813d3496f2fea02401c34bf4d7c8833c5846ed95eb0929b7",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "25aded989f6875304a7da3bbb106f32e806a26cbcb418e322fd87af0fc229f5f"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-129-1991-sapl-5535.md",
+      "sha256": "9cb12e10b1bc8c3546ef2f99103e3629e7a46e2b297d88f22d73149a1a669723",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "0e89b6c35c519b7c529b62ebb3faff72b42b301d4e0997fe3dabd97a24b7577c"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-128-1991-sapl-5534.md",
+      "sha256": "389e95d4044ca305a8e1591fe3a463e4db36ef61d224a0ad35d26947192e21ac",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "2dc4d6c297884da1dbbf018aff3f2df6b5afc811266967cc743214303754ae84"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2005/leis-ordinarias-9055-2005-sapl-848.md",
+      "sha256": "c7ccac31271ea846f71e61f0bcbb86372fdbe23d3b423044491ddc57ce2dce0b",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "70c6de529fda7f39ff23d1ed32584373d0a330492967abf1a9207cbd60f7759c"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-127-1991-sapl-5533.md",
+      "sha256": "004eec38e3c73f5622e7a7e255e71827dc49d372cc1b3c49bd066483df6db0eb",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "3c092891b946cfb56ce93168c58b84dee7d91771eee444c583bbd5bd944df8f2"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2005/leis-ordinarias-9042-2005-sapl-843.md",
+      "sha256": "224d25cca53bc5eb04872d7f4794ed53bc2f209fa246d85d5ed1bfded2bc14b6",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "f17175f226c0200c13d477864b716d50895001f04d6053e9378fba3a4c289768"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.235-2024-sapl-26890.md",
+      "sha256": "48bb22153ecdf57de91bf08c49a18a7634489296a9834ea5bc8f5ff27daa48ba",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "6723208da366fab836401e8f0faf46b01d45b4543a5ebbd58e5fd78b922ef551"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1991/resolucoes-186-1991-sapl-5907.md",
+      "sha256": "cecc67f9b0f0e76ca7b8402a25acf451545e4c6232085ce2ee0af44aecb110ac",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "139c9d43354e81509d816185ee78eb6bd9c6d171d3c68e1330cc791bc7245697"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2005/leis-ordinarias-9033-2005-sapl-1079.md",
+      "sha256": "fd678394aae0eb4dd17ed9411c0cbd6a32eba8381c75cae7a412e00db64d0ab5",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "ae0e77feda96d3fa1af770e39ef53076aa0c2b8f3bb7c9eba7b93d03575ea5f1"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2005/leis-ordinarias-9020-2005-sapl-822.md",
+      "sha256": "e9931e21a5e73dd32db6123976a2c7d1c6dd6915b5077dfa913a151c823ce7f4",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "b7e10e195c444e20a65698984b39276f17bf898a0ce1504858fe6911d3c1ab37"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1991/resolucoes-185-1991-sapl-5906.md",
+      "sha256": "71107637cef47b9c1b74a0fdab5630190196f2f8e68aa14d2c1e77172792a5e8",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "949eb7d3f7041aba1cdf59da296aba05536e431b259698033befa0a637f731fd"
+    },
+    {
+      "path": "municipais/CE/fortaleza/resolucoes/2005/resolucoes-1569-2005-sapl-288.md",
+      "sha256": "bad51462a31049bd10e450a64712a305c6589b19ef39e313af7dcfd7973ab85d",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "056b13210a27b8b08ad459dc25eae807a02d1e2f173c11c12a1b1629962a1ab8"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-126-1991-sapl-5532.md",
+      "sha256": "e66c5513a4e300bef8440de36851f86260783ec00bfbb32e974423b954d04cbd",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "8a8f5d4f6005db90429824279f28cc79896112f4cb39532cbfc0dab60b2f854e"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1991/resolucoes-184-1991-sapl-5905.md",
+      "sha256": "45a23515c9aeb98c88f30a587b59692dc88e7c454d79de4401686b30281f62d3",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "4d675badb86e9a99cea5c4924e0d168fb41815bf5432c4810257395dc4ce7752"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2005/leis-ordinarias-8939-2005-sapl-1100.md",
+      "sha256": "d8247c50ce5122ae5c17b81c2bf4902f2210179daa38ec0bb9d736f6c6cdcc7a",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "60cf7172598dfca120a797c220fa3d5faa6d9d43cf7f88fa774da405ce59824c"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-125-1991-sapl-5531.md",
+      "sha256": "c5ad71734284198423d0c1d6e80e32409d2cb39a8bf49557c2ebfbbd4cdc6ffa",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "be4c0587d47474892e856297ee984cb00e6e2122ba0440f28ef3dfdbd2cbdb87"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1991/resolucoes-183-1991-sapl-5904.md",
+      "sha256": "3f65e152d82a14388344565fab359bc42b17c991c17452a16520ef2d45f30c9b",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "caf4c6b96316697f0d7a2dd0bbbdd3b428706aab5b7a5f2bd123a8fee96afccd"
+    },
+    {
+      "path": "municipais/CE/fortaleza/resolucoes/2005/resolucoes-1564-2005-sapl-5278.md",
+      "sha256": "3b055a44b5a5fe21c51486f0082732bdc00ada74dd1e13956a8ef56faf111a65",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "0b15b9ea2c4788293d19a61c8fc68e13cd3f4bf963f2845e9d3469c16492ab6c"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2005/leis-ordinarias-8935-2005-sapl-1098.md",
+      "sha256": "b7e51355a15e11c77ac6dc7e7040a67b870da08364a89fb083b50d5ece22a985",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "ae73f9111d930d90554332f244490b742921b0f39c7f2d611ae03c7fe5dfe557"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-124-1991-sapl-5530.md",
+      "sha256": "bdcda8cd0509ab8a43ae22d20dbac0f8711d950a1a8689966bb7f4f430450dfe",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "c33e03a7fcded5fd4b81051bf8b041824108a721869816e1385667f38e5ff3cd"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2005/leis-ordinarias-8932-2005-sapl-1090.md",
+      "sha256": "8c9d0a261a18c2fda2aba2258dea536e633346dbcfbf846f526ce3181f17ed43",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "4464addcbdfca9c6c2bdb2bf26a8254f751e511185ba50b33547d818e9387036"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.224-2024-sapl-26827.md",
+      "sha256": "12262f52b1897bf28a6b188b224cbc81304d7e625715b64154cfcf6584f9ae1f",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "1449a1dc3f3a1f1b545408dd4661e0853574eba817029088cfc76a49cd6fd564"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-123-1991-sapl-5529.md",
+      "sha256": "cb370411fd9634ad60278c7cea40f7ddff8d368b4f452a1617044e2aa678700a",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "d1509e824281fee13160df7f774cb53e6cda4a8faa3473965428c0276fa15bd3"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2005/leis-ordinarias-8928-2005-sapl-1085.md",
+      "sha256": "4f65de7142f9e614a26887a7a1f76e8009ea9449bbe1acb1b02f2ebcbb4ed7f2",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "5c625c3f0e384424aad23704e519ae23aa335811c3929a531db826f220079a24"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.223-2024-sapl-26828.md",
+      "sha256": "0686fc80bff35586e0f3759605dd65e04fdd5abbe5821aeb7a71371320bf7fa6",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "4bb24fac3d1f4bb404cb495a2d6e72d2e9256e3d59ed7dc7dc56b3f352208c6a"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1991/resolucoes-182-1991-sapl-5903.md",
+      "sha256": "fe17a20503263b15f2624c1e76d480f46836a7c8e2814bba2355d5b56bf7b3e5",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "b1001cbd34da4bc668f8325635bd02eb7707bfd63c8164a9759ff68f6f0b8b2b"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8924-2004-sapl-3738.md",
+      "sha256": "95686f2434e708af9484201248fef3b7be79c14107c45c1899a7a23850ef0576",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "0a0fc4de6235b1c2b73a018a888b3869ec1262a1d7130452ae10bcc377d0e8d5"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.222-2024-sapl-26826.md",
+      "sha256": "e0f485c171acfb5884cd1a4057fd65e4fb871b771893d6de7e645d0ef453983b",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "864a908eeb4672e7fb2c6fc404edcf16c6a0e5c07059873a5b42a9e700f4ecba"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-122-1991-sapl-5528.md",
+      "sha256": "4773b9f211201c1e5b38a828fa9270561085c7bb1609cad16bc9c5bbc3e2af8f",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "08a53ed62962efa6daf74fd6d182a3079a7988a4ec6e3117737ba545c333beb7"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8923-2004-sapl-5446.md",
+      "sha256": "adae527d76829b44a14c7dacbceb88e1e02a4f666a7a3daa54fbc18aeb6c8bff",
+      "aprovado": true,
+      "dispositivos_ativos": 32,
+      "historicos": 0,
+      "sha256_fonte": "ac16a67cd3601ca045578caffefb492b3ad76f303265c69340fb1dc9cad437ac"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8922-2004-sapl-5445.md",
+      "sha256": "5b5427a8f64c3025373cfb79c48675001c7eba360df17c4220247128114e5095",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "202e0a4638a1b271523aad1ab0986087fc9edfb9f8350715c674f250a80acfc7"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1991/resolucoes-181-1991-sapl-5902.md",
+      "sha256": "56597a92b24ec7c18661bf7e96140075028279271e9e74eefab5f88493e6fdba",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "8bf652b43e023b9a8f704aa2d6a52855c50696f13e3f6460923cc71524695fce"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8921-2004-sapl-5444.md",
+      "sha256": "0cce5d9434b4b02b6ddcc7e1d141da52c33082cf0a2ffcb82ad3e61b4fd4ba4b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "29cb92165d1361eba282a4e6e373e35986829e4ebefe5ff394a14e6b9989223e"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-120-1991-sapl-5526.md",
+      "sha256": "564c88b75e9f1c9448990cc5e5fc1db2aa992421a3af543261629a2885458f75",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "9f805dce8cd4ee9f8d56188e952bfffee5082410816655246db5654a816eda23"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-complementares/2004/leis-complementares-20-2004-sapl-4177.md",
+      "sha256": "2b51d9ebeeda7bc17c7b1cfeb85bf0d85ae5c1b79ec746a04ecd2ece26281aac",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "0c8ff21ef6750fafa3db1cf42ca4635ac71353c0e759f9dbd0fd933a7706bc4b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.215-2024-sapl-26825.md",
+      "sha256": "99f3efb44f688db221eb33d7a96c6c8cf8d9d7bc4c4987c0d3e6bef63defd232",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "85bf96ba7e0fb005ccaa6e9881e4780ed83929e643d5fd2792ee958402228020"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-119-1991-sapl-5525.md",
+      "sha256": "bd41817cd72abacbde7c886a24e015d970525a5e0819028fded6e06f093c07eb",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "d2bede07792378ea039a61bfbcafa6da0b818f2ff129067cb34744f0fd7bfb5b"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8913-2004-sapl-5443.md",
+      "sha256": "54e0b944d84cffd25f7e355b01faed5c943428486de536affde6c04967af99b4",
+      "aprovado": true,
+      "dispositivos_ativos": 58,
+      "historicos": 0,
+      "sha256_fonte": "cd66d381b755904a528e593045026f956d62d1afd4f8b459151c9a53366ce84e"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1991/resolucoes-179-1991-sapl-5900.md",
+      "sha256": "0235e37392da370deb2e9cf5f667b2059352b7a7427d0d57d0d848815547785a",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "fbbfe484476e8c5ed33517ef921f6ecb8bc53da88c03c45f0b3f9ce35898f67e"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8912-2004-sapl-5442.md",
+      "sha256": "9ac1b9ff0bf5ee82488c5b018cb09b7dea7590197d72a238324eb34802401b6a",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "09e1fb51d8bb60379fe2eb5122751c74e2a99ec5e84fd514805e6f470cbf740d"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8900-2004-sapl-5090.md",
+      "sha256": "1f7db6f5b6376ef07bfce5a59e5c62237a11253929dceb344d3603199a414952",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "bc57451e5c084b9a450dd711964ce54d7f4413ac04ea7a97ad4955e98b412e54"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1991/decretos-legislativos-118-1991-sapl-5524.md",
+      "sha256": "358e750fa189a1c825446a0d255940b505212302e8c4446943ebfdf50624234d",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "0d53f83d3aa8fbe28b491cdb15e935281286a5748b628135c076bd042bba7d10"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.210-2024-sapl-26824.md",
+      "sha256": "09768aaf9c01fd4dfb8382ae368d61511d0c011f7a0748d8eef3b6a5aa210a27",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "869225b615d4b3889e1853ae81934739a9e0a0bf1987717fbc0d7a5d49d436fe"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1990/resolucoes-178-1990-sapl-5899.md",
+      "sha256": "d435a41a35db5de7a4b455c60f22a391abcced2e7aabbcd522afaf77e1bfa2ed",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "5d7ed9d35396c21bee800f56bb6947e2387aea2e3b910c46cf8634b14509ea98"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.209-2024-sapl-26823.md",
+      "sha256": "c9d0fd3db87e532feb233f18bf6a12c8e11099bf5d902df31d7214652768f7ee",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "f40aaa64b4f06a672c260dbd869bc7e6b216d3fe11fb48f1f47c818e0b96092f"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8895-2004-sapl-3669.md",
+      "sha256": "493354d718d61a62089c06a430f4858e28eb86d33e11fc55b3d5fb24715bda70",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "b3a6bf3c3ec1c23df0bbce481d39d04a5fcac684a2153dcf68f2b2514a720315"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1990/resolucoes-177-1990-sapl-5898.md",
+      "sha256": "c3351f63ccdb6a98cc61fca1d142e4f5e3eefdaf062e2d276afc8c1591064bd4",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "5b92a419bf841fd7895e3e3dd3a31595f9953655d8a7c0063fb517d7628f3ac5"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8893-2004-sapl-3668.md",
+      "sha256": "07de0c5c4f40007b8567e3474f1d4fcd58b46f76e3dec8cbf83a64713eefca7a",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "241a088ae820cf5d22051fc0694c0510e87d5358e753fb79ad3bf8044c1f6663"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8892-2004-sapl-3667.md",
+      "sha256": "07a11f3f128869802e48b9ed1c7b200998d398088a83cbf8b7f2cfbce011d2e4",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "21c696971fb50ce2f061fb2f1a655050c83222309dbebd7a6f7b9c70a2d187b6"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8888-2004-sapl-5429.md",
+      "sha256": "d632599940d6053ca162633e57183c28987e504f795fbde334d6a12111ec43e7",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "eb333b8d7b06e3a481327d9cbea593bd39e06950c6a6213c59c1b583c5bfa40d"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1990/resolucoes-176-1990-sapl-5897.md",
+      "sha256": "4748627d888ecfa10c6f9e7c9585cc8fa9df610de857172ce9db42632b45f7c4",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "283d9f83b025f51abb0e4640b0399bd19aba18fc6d6aac9c3290674cdd5bd80a"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8887-2004-sapl-5053.md",
+      "sha256": "fc1d92367e62c0f7f2de95149995bf51ab4de5886a8ca9ed1778243f11254101",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "336f03cb5f913604325a0de05aaabca8c71dd9d709e9b8e88542bfe722959664"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8886-2004-sapl-5428.md",
+      "sha256": "f2c407dc2904f7d5aea7e4d25fe0554b03af911df4f4da43ac2972cf5a16a9f1",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "9fe2ae8db29b27ee2443e35a0ac472284c6978261bb5b65282e4e7783b66525d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3201-2024-sapl-26885.md",
+      "sha256": "6e3241a4eadc0f7eb46136545527a9da903dd0ba51fa544673a2508d315b3300",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "dbf06c6413833a44ab9284409a788005ac4ea657bb8d1a01455e138fcea4414f"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1990/resolucoes-175-1990-sapl-5896.md",
+      "sha256": "fa562a88b8885d314664533f202c17e5a5ca041266c2ad5630759256bbe8db5e",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "3891bcf0ac9e137f178e91a967d213a22abd4861795dcae54d17c9fb9e5789fc"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8885-2004-sapl-5427.md",
+      "sha256": "5d6c148cab9d261797aec35a52e05eb180b833f8b237a0ff45c2ea531dc344a4",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "64c178a0a3c082da1fc5d0153d34bc959d387d2027256a0d45dce481f13ef76c"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8884-2004-sapl-5426.md",
+      "sha256": "c631cc541ad3ca1321902fd89e60b55b05462d1c3c836ab49a5ad568dbf65513",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "09325027bad109ccc66481a63a557fedbce326491887be1866dd03c769d88e20"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20202-2024-sapl-27860.md",
+      "sha256": "abf30bcc04675170692171e341cb5b83bb1819de039a41ee4d93a6a7b12b865c",
+      "aprovado": true,
+      "dispositivos_ativos": 92,
+      "historicos": 0,
+      "sha256_fonte": "b4034d0e025772afafc8c5779d5b011528884bc8201229f9d82e6834f5ae98ed"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1990/resolucoes-174-1990-sapl-5895.md",
+      "sha256": "baa4f8cbdfac83a56f207eedd20e628bf666a05f7c659875a3a14bae43fcaf91",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "8f2dc3defd8e6a6d27cfcb23d6833632bef72a739c77b1accf7928fa7c032627"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8883-2004-sapl-5425.md",
+      "sha256": "ad9509adb3cf91e324b37e1cfb48ebd18bdfb33f5214bb3433fd54e9b0dc6d63",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "a05bcc14177eed9f222ecf75a742f9d3d9a2c073ad913dab48a0561ba0ab3e6d"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8882-2004-sapl-5424.md",
+      "sha256": "cfba0a49b68aa84bbabb87b6ccb8fbb1313816d3c503ff29739a9781ef43fc89",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "285e2fcdf7dd174c30bdd17f27b8f066eadf39242cf92f173959d5f2f8afe6ed"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.200-2024-sapl-26820.md",
+      "sha256": "0a2d5d4f35afe95aefc050aa49af63b19cda968d850d975a1620d76c46004611",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "1c945d9587626da4544a471f46aa5b05596dd07b15871dc16df499d88cb62e57"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1990/resolucoes-173-1990-sapl-5894.md",
+      "sha256": "89f8950d308be8584ffbb09f64bba6176fe450c24654eaad3a064da805c862da",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "7a2a5bc7350dc8a3fe3181b178b188cc5bfb221b9a178de2eed77759d677a888"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.199-2024-sapl-26811.md",
+      "sha256": "16370203da12b5f1953291e29035dd6b81effcf9b1fc41ad085003f9822a06f7",
+      "aprovado": true,
+      "dispositivos_ativos": 30,
+      "historicos": 0,
+      "sha256_fonte": "bc507f9916c19267f982cb22ead4d19e5116aa659dbcc8f98cb2fd76de3d254d"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8880-2004-sapl-5423.md",
+      "sha256": "693dc40764e1dc2480575c1a12d3e494d6d4c3c88b45b3ee1aabde288366ff3e",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "114488660cc68c290e304c926eb52ae532c398efabc3e7bfa830af7c68ca76b1"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.197-2024-sapl-26817.md",
+      "sha256": "4c243562d9c55be64b6e81ba14c88cc4392ddf348383ded1c3e4acec2a6f54e0",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "6b00b35eca106dac2d9728b58ad7bb081a53062618f03e3c79725d9f3f7ba977"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1990/decretos-legislativos-116-1990-sapl-5522.md",
+      "sha256": "f628bdaa8397e9d43a48283ab8562e452d1bbcaa5cc7f04a5832ec1c5ed66ecd",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "705e2bc68047e8876191b315d8757cdcb9d5caf36bc91118c14a7f22b420b6ee"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8879-2004-sapl-5422.md",
+      "sha256": "1ef8c5473f52f6af596e6137f9cdef2e62019b9b5e78ac01e6f40841617d3860",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "1bbbbf7e84b73418621b533badf016110c587fbe823b2febdfc9a0a0d1bed2ed"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8878-2004-sapl-5421.md",
+      "sha256": "9ceb520ffa31eb788457126fdff886db9f72a47756f6c441a195039646ad8240",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "398ca3ccde8f0c74cb189ec36a1af1d25409451612cddab06df9ecb4483dd84c"
+    },
+    {
+      "path": "municipais/RS/erechim/leis-ordinarias/1990/leis-ordinarias-2241-1990-sapl-2203.md",
+      "sha256": "ffb39f386afbacfd62587b1854d4c50cb153c14b193c6147342ae212fb4993b1",
+      "aprovado": true,
+      "dispositivos_ativos": 57,
+      "historicos": 0,
+      "sha256_fonte": "675748df780caa9dab1ad94b5038bec4c52cb7ce30b92989c562b9ec65626327"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8877-2004-sapl-5590.md",
+      "sha256": "9eac9b5422ff93508472bfdf6dab6dcdd70bef7e6f155715c73ee18002c21678",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "04502cd4fc56590b2ebafe74e386996408db3cc904a808fe8be9b2cf59bd1550"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.194-2024-sapl-26815.md",
+      "sha256": "37330b59bba3673bed6a6bcaf89be325964095cd51142c7a2a30ac76f5a67545",
+      "aprovado": true,
+      "dispositivos_ativos": 24,
+      "historicos": 0,
+      "sha256_fonte": "9252caa3890c7c5cff52a01f3685dfb861fae2352bc90137dd7b5a31e36cfc83"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1990/resolucoes-172-1990-sapl-5893.md",
+      "sha256": "c7db5ba3ac0562f9f9ae726eebff36665338362e6fab10976c6e6902489de4dd",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "d80a82b338e9d1798cf6fd393a6b9a850ae9ac1ec1f2c415a12144d1910480e2"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8876-2004-sapl-5420.md",
+      "sha256": "f9fbb33cc50da80a0f38ff2d5829a3bd253c9b7a472478e34d9a2b86ed6fd3d2",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "44981bf3fac019e06c6a54d784a5c94d8a781171bf5591f45d6dc6d7e7d8a157"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8875-2004-sapl-5419.md",
+      "sha256": "27ec587cf41219bbf10c0fb30c458dbc550cd29c319846434bbca84444c9599b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "c17dcf375deed9a81c96fdd909f270f29beb0a32a532f53948676ed9d2db22b1"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3200-2024-sapl-26884.md",
+      "sha256": "e826999e2d8e81335239f447fb7269b6f00a3ae7998cb7695f6978ca82f960ff",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "ccf9984747f8daa820c5dc6b4d41ef39d2b49fb78cf36e609919a001a37f3b76"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1990/resolucoes-171-1990-sapl-5892.md",
+      "sha256": "e14088944bdcdbe2dbe52b8b3416f59d4f49a537b391626fbf6d4ffe821ff5ea",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "c3dcc9089b4dddc4c0f291869727657c21b393a1622fd55dc93b8efd7ea0ce08"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8874-2004-sapl-5418.md",
+      "sha256": "a2d7a1d414b9e3b09f8ba6c88dbba5db452b017a23155d911d597e7e99a37ffd",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "ae6acfee593b00b983501e24fc51d8e404da48cbcde7f63dcc6ae345ea145ae0"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3199-2024-sapl-26883.md",
+      "sha256": "eefc57c8614554b1a00d2a7e98b5c0763c9d0920a9d866cfb2480f57a850ced9",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "a9057c86e277530570a264090265047c31efe1ed00a3cd04ca3da0b96ea23423"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8873-2004-sapl-5417.md",
+      "sha256": "05ce6a8c99b37cdf043f23d8d046e79612d1d3c4b050a452ffa3f5ad0051d91d",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "bc510a81118d758a732989120c6bba3dc17980fba0659e343b4bfb6e15e9ddeb"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8872-2004-sapl-5416.md",
+      "sha256": "7da3664f5bc336a53e7ea2504b59ff36481d648fc4660dce3373329dcbdd1766",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "100e711b14fb4c972f7c3ec8a8ec17668245359da185f18b865c4f13a3f99093"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1990/resolucoes-170-1990-sapl-5891.md",
+      "sha256": "7a28364a714b3872c73b180eb49185affb285f51c5ee0dd61619f02446c3f6cd",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "a8d6503f600cd17e7e4e998337ba4abb1b429d72dc6b54957748b2b57c957297"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8871-2004-sapl-5415.md",
+      "sha256": "ec5afb31b34b391c433c004a7ef00b066cc6a016e1269f48b00089ec5ee91eeb",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "9db6ca37b8401991c87c3a3ac23d489d3fc0803ce5123d3fc3a72327cc8c458d"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1990/resolucoes-169-1990-sapl-5890.md",
+      "sha256": "5d589c6054e9ad8e6f26ba9869803d6762b43dc7fcaeb07a5599df3f29b8dbac",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "b8da2c5435ea30d1cda53765f035a1e36b60615ba3e799a5159f3e7cb3e3918a"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8868-2004-sapl-5413.md",
+      "sha256": "164358988575df69dfe379089bcff6abfd332cef431af786cbc8a23f3b845298",
+      "aprovado": true,
+      "dispositivos_ativos": 31,
+      "historicos": 0,
+      "sha256_fonte": "d782777a103d2e97c2f59886615ed3d41e8836eb03d7a7ab92b42663c3641b7e"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8867-2004-sapl-5412.md",
+      "sha256": "998f12712f5a052c528e08ab6ad6c3ec6ce365f865cd115522d39cc6b9afc8a2",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "338a94e8c4cef9b8ddc85f68a1051158eff7c04e14999f503b3ed74d3f2f89f9"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.187-2024-sapl-26809.md",
+      "sha256": "ff8d18c435dd48bc75ffa80436bf03f4b5bc5912c81967deffd309e060589abb",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "8a2f1ec093e486506441c02e2a4328fe7e2f2c7caa316c76b035fbb0eb88b8c4"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8866-2004-sapl-5411.md",
+      "sha256": "459f46c25ef26c74f56a3fcd911c5f140a6ff019ba2d55ef15959cc4dc2bf5e5",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "faa7999c172460802796d095a7749c1740df6f84424b461ea19c2cfcf00450e3"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1990/resolucoes-167-1990-sapl-5889.md",
+      "sha256": "fed1bed4c9fcca99ee91a58ec3061bc4ddf29d5d4bc70134c9ba8c294ead8d35",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "e3ad3d162f17f0506d6abe448a99b7439485c350148fbde9c05dc9c686000acd"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8865-2004-sapl-5410.md",
+      "sha256": "56302ac93f9b1475fc5b76e0e18bfc2355a82be0f4102daace64124eee12eb7d",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "9167420c42f14a3aa225b5c9a4508d98ee3935b03e87502d7d0a7b46f1e0032b"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8863-2004-sapl-5409.md",
+      "sha256": "269e08df92a2f7e75933919509aa7aca02af41c5fe44bb91b344b1871420ea83",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "d9abb1404e6d1b762158b9c0db46375f3cfb54f40dd82f629d8a4a6b12543d82"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.182-2024-sapl-26804.md",
+      "sha256": "afd2e059ae29a2e711380d099963cec27f9e41cc8ffbe1bd774d6dd9afdf402a",
+      "aprovado": true,
+      "dispositivos_ativos": 33,
+      "historicos": 0,
+      "sha256_fonte": "5993d28095a2a0dd69ffadf4e841f93b9c9d9c81099b73ab85c358b17d060ab3"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8861-2004-sapl-5407.md",
+      "sha256": "58e7c75724f5995aa65fb56d30f88e146b7f28cc215025ac516fa76ea8ab3978",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a6aa78c50301dd8ff41f4b19569cb1c42e8624113c962aa77685b62cf55132df"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.180-2024-sapl-26802.md",
+      "sha256": "b4eb3ecf907fe3a345e87bc24aa8bfeeddb1dc5c66ed9c1e511c249c7bf482a2",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "13498e2e2d2ef3140d09472479219b859192656f6509ae1aa68557e2bc62cb9c"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1990/resolucoes-166-1990-sapl-5888.md",
+      "sha256": "b5c089182d9bef0ca9be8eb303747fee7a9bb5b22c8192eb9b2202a3b4ef0fbb",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "c450b102178d450e62f046e5e9c2d877162830cc0d6f2a24333099f3a774ebf2"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8860-2004-sapl-5406.md",
+      "sha256": "dac47ae23d0150d827aca03a7088461ce1ece93570f775cb2d108aa80647f2d1",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "fbf81dadd0b681168122f1d8da84d79491804e9788e2598977304df83b7c86b4"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.179-2024-sapl-26801.md",
+      "sha256": "d6db2b4c946f254afe7a7c46055d30d40bcd442e21f1ed6d65f9f5192b900bed",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "4b18e70d7cb1f18b87953a6a756fce4ce44a92051fb8682db60fe0e94bd8ea2f"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8859-2004-sapl-5405.md",
+      "sha256": "954b43cf7d5e4dcf002b28914f63320a6a896e31c4fc380275ff55517e4125b9",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a9d48e4377f24669fb2324f20b1a7b09e00a173603f6bb206bc2b577949b5710"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.178-2024-sapl-26800.md",
+      "sha256": "9fabf7c86ef649cafec801b00f2c0d2f3cd74552219a89635d917daf58d85d3c",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "796de99fe564899c4cfe056905d2642263a3ee027442aa82efcc98f67ca2d52c"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1990/resolucoes-165-1990-sapl-5887.md",
+      "sha256": "1f40a7847b8829ec724c777c1c7324847a266e1670c63baa38c704e5303a7362",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "e8eaf8fadcde27f9dd5cae2ca321631716dc67c4bf653a2e1be2d4475d79304f"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8858-2004-sapl-5404.md",
+      "sha256": "c428ab7262c36b3b93eb7d70ffc0d9b6cbc2e9575cbeae5ff630dd3f359bb044",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "3f840613678bef13c3d9f1ebc81f608ebf43ed9691e163ceda074b0a492f387d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.177-2024-sapl-26799.md",
+      "sha256": "d3e25861a20de7a67ff829b0dda9fd5b247cc4626c89387679d46536b93fcba2",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "faf8a700552b49789963023355bd98f76a5d240d2f6d8247a2927f62a5ddc0f0"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8857-2004-sapl-5403.md",
+      "sha256": "0f20a9617c50fec0998a66c640da1a01137ad7f1c346a1c18a6f1467582c1cbe",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "3a93740c74b4ad7d3e45732fc519892809a99edffab4eb9e35fa6ec8977730d4"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.176-2024-sapl-26798.md",
+      "sha256": "b8e2a2c52c60f144d43bef83a892d5964bbcdeaf70f3e02186a9b60e1b3f4c50",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "5696c3f9f5efd8e18c3c87689f5c82f09dfb3954e4e60e6700005b10b38fa923"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-164-1989-sapl-5886.md",
+      "sha256": "147d7323b808eb65cf66216a489fdc632b9c260bd373431e43e2cff0323a58ce",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "3a7ff2f353eed7d6391a862c4b14a486058e92e0f5eeef354f45502a3f90df28"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8856-2004-sapl-5402.md",
+      "sha256": "c8a5445a985db31a1a79f3f6c2a021c92fa3b1efa2c290cddb9dd1a2860931c0",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "002cf7573dce3c104b09b1d7edf784c9098341a23f44570738bf0062812baa0e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.175-2024-sapl-26797.md",
+      "sha256": "5d484e4e1f22a0bfef1e6ffce49de844c418c54ccb3e09565644f78ee5893edf",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "b457fa61cd71dc352ec2e4fbe248b0f7f61a0664709ab31bf28c9a7ed425b165"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8855-2004-sapl-5401.md",
+      "sha256": "5ffba1ddecc0f987bead9af3fe52d53aae960094abfa4ae50b4bdd3850371edf",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "f21e70f63155074ce2d636bc96ea3b58c5a9142751bdf7521b6393ad9ece44a9"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.174-2024-sapl-26796.md",
+      "sha256": "84af5013670eeae57f3443e75a925e86d97c03a34886cbf9665858b8295a51d2",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "4b3b95021c7aa069a371f549d4f00b4837198c1cd9375dc7944916c87314fbf5"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-163-1989-sapl-5885.md",
+      "sha256": "d6f454b72f1de34c2a095b1512b9bf106e53e6d9335e67eec9d628d0a5c3f66b",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "f5bb0d44aea2437bbbd449b1edbe25bb1f236b077ddc9b9095dad550e6ab12f0"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8854-2004-sapl-5400.md",
+      "sha256": "e6af169f13767d487e57666e6ebcd305f8e98ebe49a069c530dd0a90cc9a7cce",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "fdb6d06613d6b2191c7e1607c988cd7f4dacc8c524a585f9cd42e1f2653ee842"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.173-2024-sapl-26795.md",
+      "sha256": "b99a625a2106caa227f8e8c63c316b0390139ab7cf7b8a04d68b005635fc3777",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "115ed08abd72eccb164c279a67b596d92ebda516f72ac3e386ef3351e4af9f1f"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8853-2004-sapl-5399.md",
+      "sha256": "2dab174ccc50c3596cec991bd7a4ea8a45751bbcb2ee4fe4c6b81c7183120d5c",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "f5c3514d74393137dcff748d7ec9e344d35de118cebc6335522e945787b8457b"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8852-2004-sapl-5398.md",
+      "sha256": "da86f2670a4118ffd94d81273b6eee002edae15f8fd835fc8fb0881a35f27d5a",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "29a3e9b330240e8ddd78f79857360ed02bec537953406a1da18cd957e7551334"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8851-2004-sapl-5397.md",
+      "sha256": "bd4eca6ebd3aa266df5e1ad8039cb0ffda4d3c01d19292dd9183bd7072d7f577",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "c876de1715d0c4ba26b0c1a5b2f2b4551236688dc4ca0eedf4d4ec9521158253"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-162-1989-sapl-5884.md",
+      "sha256": "c19331f726364a9eb1f7f1219aa7451eb997368b42eb57014a7ade09d32b900b",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "3c6a5690fcc8e032368772a62332053c19a87b90b04fbf06267636c8ccf15889"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8850-2004-sapl-5396.md",
+      "sha256": "46460d7fcdd12baa600855f1b7acb3940ca00050a9e8cb0a492fd175a433df2e",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "c6a6fa7b41177e8aac09d5a1b85515e50d4fb7adff135da918062bb1db778cab"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8849-2004-sapl-5395.md",
+      "sha256": "cb8466356efef905b7d506cfde705f3f9de938dc3452be7fa9730d13c480f173",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "c8fc600e461d75bcbf8123440774a0ed4d94a5facaf753194548090d276c8aed"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8848-2004-sapl-5394.md",
+      "sha256": "ed853d18d92f79fb358531973f091e82534bfb752358547a58e895def6d4bc57",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "22adcb6a15758ddae89f05ddb5b830f5ca3a161bca2d56d20ceea52bf02fd78c"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-160-1989-sapl-5882.md",
+      "sha256": "eb029bb5bb7849dae08b03b9dde67c895b37e4eea34cc0519c39fd4327d0b931",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "384ad701c7a6767219b905725008aa534e3bf3ca126d7c8fdae96de11c3e982b"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8847-2004-sapl-5296.md",
+      "sha256": "f38751fa1c008b2c490e4dabe5730232c6c0368e48588174182516c6608638ce",
+      "aprovado": true,
+      "dispositivos_ativos": 97,
+      "historicos": 0,
+      "sha256_fonte": "619c2b632c165743dcd32f5050d79953815f07e4090c88b15702196dd1853b57"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.164-2024-sapl-26786.md",
+      "sha256": "8652d6f33e3bc320a9f100587823ad5b8efc631d85eb402f3fcdbae694520990",
+      "aprovado": true,
+      "dispositivos_ativos": 26,
+      "historicos": 0,
+      "sha256_fonte": "82abc2285a876e632a863f8f4d202ff7c52f64ebcfd686dfb57e0cbc1e83aefc"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8845-2004-sapl-5390.md",
+      "sha256": "e750a554ee47467a7a33e2ad5aaaeb3bfe9a4b8fb104405bd01d27406e567343",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "dca905217acae4befd3d1e449c879090d60f333f19e37919a56ab39423c858b7"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-158-1989-sapl-5880.md",
+      "sha256": "c6df12b94864e197bf3a0bfe5e16822906b7a9c6b918d7cf0b711fffcca9bed2",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "e9cec54ed1fd199cb1fe35e164400a1ac8e9ed152736f9451f9090b4cae82425"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8843-2004-sapl-5389.md",
+      "sha256": "b41c7b808e58ae3871f1e5776f3f06be804ae28ea5e4dc50f87c8a3cb9950b86",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "b64ce1201fe8bcdb90409cacdc9acc5b5bcc7146872d1665cdeff1cd29bc200a"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-156-1989-sapl-5878.md",
+      "sha256": "2d7bb9ca063487e5aa84a3d177ba39c4c5d61b4d0d017b2005fb165d7b29f1ae",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "07ef59f17792071818b869859e6ebc7c584c5144eca6b757cd2dc05f02ae4cfb"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-155-1989-sapl-5877.md",
+      "sha256": "44607c92d8b16acdd9daf39cfbbdd5eb60ae34a68767cef244b530412f215d4e",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "bd2bb15a5cb02c08e2076361fe345e3baba987ead55f28959e7542a7dc5cbe36"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-154-1989-sapl-5876.md",
+      "sha256": "6deb6a86e3302a91d904ae5c2e869ea444e9d86433c14a683352608ec175ded4",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "efacd4962247b94cebe8fe23783108570433352f83efa0fdccab6c3e5eb38c09"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8832-2004-sapl-5393.md",
+      "sha256": "0eecc17b959cae721406c56d8a7d24174c14ae4e27f0428f11188f960cfa2c5f",
+      "aprovado": true,
+      "dispositivos_ativos": 35,
+      "historicos": 0,
+      "sha256_fonte": "0c9a1d6326b93af2667d5fad0cb3bbe3dc98da72ee1224e7b7fa840570b1989d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3198-2024-sapl-26882.md",
+      "sha256": "bb8b6d418d8c99c54eb9e6b9196f4fb2a4f87e54d18a38829fa6109360ff838a",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "8955ae184d45d6cce545b586180260b4e28313bfcca4fe353fe24030142ecec7"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-153-1989-sapl-5875.md",
+      "sha256": "7a2fd9e344ab1a6922333ebae887a03f10e200aa50d2e2c0afba66166e8d776c",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "589673d042e5949df9e0100b4fee5ba41597f7676d63ce585127ba8385188579"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3197-2024-sapl-26881.md",
+      "sha256": "e03b2da3e2643f03e09fe241d29c91652c63ba025e3597b2ad3725978094dc9c",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "92deddbb96c0f035f44a30e446b0b1d0f5d1e895141962457ce260cef24ce513"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-152-1989-sapl-5874.md",
+      "sha256": "2afa90833137ee9af82c72a69a5a2641a9ebfa079b3d75443fd1839a87940937",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "25b45fea6cccd0373af2c5fe95ddf23af62706cd834a0c2234bbcab335d0e1b3"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8826-2004-sapl-5379.md",
+      "sha256": "e63270f71d788c32e72db5ee070dd0beb072bf1ede14483c7b2cb4dfd70a57dd",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "1ce956ec34ed93e6414f951c0a666a82829b18390c7e849b396f12d792fec925"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8825-2004-sapl-3550.md",
+      "sha256": "9b353d9e848cdbb63e511f946ccf2990c0bedbf5aca1184d4b1c0632285f364d",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "07f041e59313109a2f1c3f07ff086e1dcd22ee082bfd88497a994156363840e1"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3195-2024-sapl-26879.md",
+      "sha256": "0148c6bd13af1dc7c400b8762e40fe6a72e537d530593016ebaa16c58bfc567e",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "98d7aa4f003dc8c913a3f77a0806b32b78965d41e5e9d89cf631cfe497266b8c"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-149-1989-sapl-5871.md",
+      "sha256": "20a49288ab4ee9ebe92cdd471556bc88cd80bef6d044d66da99cd412fe0e4975",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "f919c30ceb088078799bbd92bb1ebfbc7cac777bb60ca4eeddc498fda05650f4"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8815-2003-sapl-3407.md",
+      "sha256": "36501e379e9c9c77ef45b7836864d65d2fa299e686821773520cc0e7f8fecc9f",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "3d97f0e7e79377bc23e7f22a88e71a48833a565daef7b8097f2d1001b99166a9"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-148-1989-sapl-5870.md",
+      "sha256": "b773702b25dba790dee5f8a629034eb2257e403ce4b7ad4ea71b036f0f8852df",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "7c840bbd7fc1298046c03b63090866ce90523592cca353ed4d68306056930d3e"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8808-2003-sapl-5729.md",
+      "sha256": "ec2a5cec46413675963d5c2011f7214f04ca2f62387bc976275ec7c052697af6",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "b1a7756fe0ee8cf9009823c4c14bdfca022ab135f2c37e2979d8460554e18b96"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1989/decretos-legislativos-109-1989-sapl-5515.md",
+      "sha256": "3816ca990614e0989ecd40a51d25956c885b36b64ac0cdb227a505417472d42e",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "dd60749b5b861c9fe476bad21cf7a3467e994b5740347b069b206f8aa381f3a2"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1989/decretos-legislativos-108-1989-sapl-5514.md",
+      "sha256": "688b4b8f0c265b6dc5f9c4576525c690bead5e1843000cdf996cf8e2c15c38bc",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "65d6898bd0081911cacf989f8b4a881f025c983fe55915d1a7c61c7b9024ecb5"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8806-2003-sapl-5728.md",
+      "sha256": "78e59b467f3404b0a8aa77f8734fc1231f54cb2abfbdb3c3e52cad0dbbf9f8f2",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "dc72230f198f98b3c8f1b29ee856f5a0f158b2316701cb34273a553e027980c7"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-147-1989-sapl-5869.md",
+      "sha256": "9b72ddd57eb576c582135ce87c537f538c2e4a4779207d5d61d6402ee46ebe1f",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "bc5475497783e3e7b8ada7bc44eb23c590f4ff71aaad5760a8506b7f978122ff"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8804-2003-sapl-5727.md",
+      "sha256": "875297b62acccf8ac1286d2e2107e1c66a249a7f084230441dc7d049bf338e7c",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "80a2e15475dddb85301cac972d536e862e79298dc219a8f1f552eb0cbce8660f"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-146-1989-sapl-5868.md",
+      "sha256": "96bdd1f752b572d4ebe4ee713becf44912a4731de65824e310f7e98dbd5e7fea",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "37a57d0265c8b44c0f3577e3edb28122e4dbcc23778396a47569d80acf492523"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8802-2003-sapl-5726.md",
+      "sha256": "f8b5301283e2bc352012779a7f0a35a752a512dcfbeeb729f07940ff00e8ad50",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "78e9333ff1b4306d6ae05765239e12c36f29e34603f41fbd2efa5a290c67b430"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.149-2024-sapl-26772.md",
+      "sha256": "89e8d8628056bb268d6c3b98640c27c609b1d53867be541714118255c8e6a934",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "1924c9b6dedce5b36ecab8fe11cca91ec632b82344f72d0559a81654392b5673"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8801-2003-sapl-4897.md",
+      "sha256": "aa37db9e741c0424374546698ae3c9d7535d6da8fc727a28ceb6b64088c64600",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "df995dc892a25926329e1d95dbe0e084bc96866c8cb5523ca26fc89beb41c8be"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-145-1989-sapl-5867.md",
+      "sha256": "bc04c4a0a9af287ea4c34fe9ea2548553999ea2530fd50f0c36a6ff761a3e0e6",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "769644599c78fffc368450a8ed4c9f323959286c4988ee3f9d8872cd69a3d648"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-144-1989-sapl-5866.md",
+      "sha256": "909bd8069c5b49604f7ba3338b337d78e44b9df47fca501b0a277dcb0d5b729c",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "bfee1b43b6992217b63704ace44f4d1fbd0131bf1a10ed63555c1fd010ee1f12"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8799-2003-sapl-5724.md",
+      "sha256": "c5c9653c9403bc4b6db5cdd621d61bad255053890617a51ebeadc4a8301989c4",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "b4d15e254755123228ea9f95696a8625950d21072afe98c4f0ce0b372c7fa41b"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-143-1989-sapl-5865.md",
+      "sha256": "57e0c73857cb0796967c211243f220e696dd6b8c07c9c5d25d2f6a211507993e",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "86d673c007782318a3b0a82eb8b7147785af639c2c00d9700695cb7eeec9e6ab"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8798-2003-sapl-5722.md",
+      "sha256": "65d99eeb5f9e4fe0209de57b6822d1af0685e609c39d154617c8a06fcdd7f84b",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "6e4388086aee9da6c44bbbd84dc3bb32de543d88c26d7d1ac3615c2919805047"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8796-2003-sapl-3331.md",
+      "sha256": "8c94d00ade783d9dccecbbc30be29c976b647dc0cadee51b55fe7c9a8262bbb4",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "12c9218a7d72b46d99de0ca7938ce27ebb6fc158e2f93cd05294d03eea206ebc"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.141-2024-sapl-26764.md",
+      "sha256": "6c5cef2ad39c92d9f8c09641ffcde5b82ab3cacc53a6204d3a661e2e33ed90b8",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "2d041cbb4b0fc97ea1d710d5570fe9153d3969278f0df981478e283bc40cee6b"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-141-1989-sapl-5863.md",
+      "sha256": "bfe407b5ebfe072126ae436fdaa36ceeee66492ac71c8c4a5b2b91d02234b96a",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "5c54769a765ecf131b92aebd5fb1b9c18b8715fea4325f99537427762561a60f"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8795-2003-sapl-5720.md",
+      "sha256": "544c9dfad88b81da5e5f7f96a0508a465f397e16f2088728eedffc17a6e1bf92",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "ed9416745891814af7754ccd6f307dc4eb169ca3646948175bf9d1ccb2160563"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-140-1989-sapl-5862.md",
+      "sha256": "3d30efbb1aa1c7529d03e25eb226304fe7292a2797a2a4716201e7dedca8950c",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "0b2e8faf227f860746dbe7e9a5fa379e0127bfc05d57fdad9f476d03ce7930ff"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3194-2024-sapl-26873.md",
+      "sha256": "6939fc81eb039d3f1a6e8d8540138c876f01ad914f74f0cd1fc84f5d41472863",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "025d1599f0017a6b13315e5be339ed78a8812a08d9e1c0e9a29889c66b75e056"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-139-1989-sapl-5861.md",
+      "sha256": "847836aa428f9af31f640c5278bfa8ef1212b6b3a33e3409d6ea4f6cef8e0b1e",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "9dbf5f82f61305f16c06c7093c290743394f1cb2a492c2e310cd34bd18360efb"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8793-2003-sapl-5718.md",
+      "sha256": "5ecc3d7045a1f2a35bb6c52eed9e82e1cc7c21693113cc5c6dcad110cba1c220",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "38dead463de39b14a413db559865a887da525138d86532c2a61f7cc5aa8e7995"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3192-2024-sapl-26872.md",
+      "sha256": "22799441784c921025d9d6d0781e190c8ac2f5d81829e59a1bff264ce98bfa16",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "57bdc15f89dce149443d5d3c35c5a5d47de07ad0a6a7050250f4c070548bdfab"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1989/resolucoes-138-1989-sapl-5860.md",
+      "sha256": "366744838aa370171847f2fc7d76cd21eb754cf505deab4bd3f237e240a977c2",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "dd4f4911235544916edbad021bf44fc5e6d90c495a4006938ca5375d7e76d6c4"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8792-2003-sapl-5717.md",
+      "sha256": "a932660f3a57e310c3587757484d8fb79ea3a08c9bcb2c6f4571196850ab7e52",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "156780f451c56e69047f2828990a801ed32f4234af645cc3f49cb402b3bdf388"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3191-2024-sapl-26871.md",
+      "sha256": "146c7e444cb9c20d20233044150131d8bcf40191d50b4f9923865c9266da5092",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "86d08874a8370fce75188e40515d4dc8ee5bc68edb6dd06cbf720e788dae92ec"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8791-2003-sapl-5716.md",
+      "sha256": "2034cacceccee55807a01d251125704c064e3632ef64816178463398d149377f",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "75fb62428a76a53cf529bb694eab83b7500fe7a9d73224a5452a24694c9b011e"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8790-2003-sapl-5715.md",
+      "sha256": "5081ffbcbda4141fee6e17698a71d1a3415b95797135a06480e13a05c81ca68a",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "8a336a200b352fc1c7b121ff5a63a9ac9b75589fdbcef6e818f19c775dde9798"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-136-1988-sapl-5858.md",
+      "sha256": "d90aba663f58de946a706102ccac92351cbfae7e408757af687ea2177d4865bf",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "3d67ede2291bda9d83ddc6e678c5ae01cab6bdf3d09f6f4c471c8c534f75e968"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8789-2003-sapl-5714.md",
+      "sha256": "e68616e15a3e97e3f15ca6751e99860c8f51778bb43e41a2fba8ef69da926841",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "36b511e0a334744dc027f6ca1f803f6d365b5a507446cca68a091a9fa51c7a24"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8788-2003-sapl-5713.md",
+      "sha256": "da82ce9c104d0b82a296eed57693601fbb0c01c9e5b91dd50539ad528e4b7973",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "5a30345120d1ddb9de5de585a08fd2cf0203b9d919c93cbbc4c329f916018ea5"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-135-1988-sapl-5857.md",
+      "sha256": "345c53618c4639db9539cb50d62ddbef634aa37977af10c425379ac6449dee75",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "ddcf051328429a283ac71fdbb50602529093b5c325ec2910a3b1dccdb6942880"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8787-2003-sapl-396.md",
+      "sha256": "728c4b1dbaac16021a3bbe65af220d6a46cd302c5acd7552e3894066a2f127b8",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "8e10aec96436874c3e95bf48d56c1ba238a7c2c0a813cd5a58aff01c735262ae"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8786-2003-sapl-5712.md",
+      "sha256": "aeb24ef2853c309c50980a6848807b68a94ccdb9369fcdb628be1d68b938749b",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "46f2aa672519733f0000c2be3d5e2834efee5539af5a1efdf3f3a518a676a884"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8785-2003-sapl-5711.md",
+      "sha256": "7efb1fbf9aa686bcbe5dd3a53fbeaf3700d64df58b99cfcc3118108aeb1629ec",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "74dfac898f6ba33e90fd7c5f9b876255051329cb274124916f01e8899208aec5"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8784-2003-sapl-5710.md",
+      "sha256": "6598e5092c158c8e3b804d4269d6917d6af6dce7d5af2066ab0fdc3c3bb711e6",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "7c0e72abfd536138e2510c8b4c454767b741bbdafb0111d1296ce65ae9d26cfe"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1988/decretos-legislativos-104-1988-sapl-5510.md",
+      "sha256": "64caac18bbf2e214fed579e127eaf222be2bb647e520eb4767b5c83b9d850915",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "af4a07307608b974c042b681e5ed270d94d95ebcb6bff027ce107d6306ba4aea"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8782-2003-sapl-5708.md",
+      "sha256": "240f8042a8aadb1e3a9e71c9129605b1b2ab9eb6f541597425e903b596a3bb76",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "daef87cb62d1af92e7d3b3489f6fb105164be139156e41fc768601e3d541ee28"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-134-1988-sapl-5856.md",
+      "sha256": "88141af49b58831e2955f617e17ca42864d33189d9bc9bd07c8d698a0da0a033",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "a49ad9193461d177c5fdf3fdb3f9030b847fde5b1540f3023124f40541ec8ff0"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8781-2003-sapl-5156.md",
+      "sha256": "6286f5565b403c3d70eeb46c71c95ddf698c4f8d70834af05e53744c02644a27",
+      "aprovado": true,
+      "dispositivos_ativos": 27,
+      "historicos": 0,
+      "sha256_fonte": "75cd2b3d2edec4e018f910df6190ee88f88a99b52fe1e0c72260269f32a15e27"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-133-1988-sapl-5855.md",
+      "sha256": "121de09c31870fb2217ae593a83e86c1536867679aee362d0af70d6abea8cbfe",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "f40a36694dfb235f0de719612848ee8c72b85979bd43136dc94f07d9ebf24b41"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8780-2003-sapl-5707.md",
+      "sha256": "79fcfadcafe2577aa78810b7903281bab4eb5447deb3c41870e6a621bb517d6a",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "7d7f7be22579ad4131b8990a08557a5b6e878ffeb65fec14ff68a5c516646e23"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8779-2003-sapl-5706.md",
+      "sha256": "c2acfb0f09bf903438e82dd2bee0891f11ca6d1dc62d36fc21afad2f459bcd41",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "62464fdf5fc33d99fdb045a8a1a5041fa5f911db64e74a45524dfb689a0d0120"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-132-1988-sapl-5854.md",
+      "sha256": "a94b12521c28dce6b7e41047bbf508b250f8ff2ea9511e63aaf4594c537d6cf8",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "5a48e70232298b5edc95d07b04349f0aeae6ba98226a8974be8c18f9349e717b"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-131-1988-sapl-5853.md",
+      "sha256": "0139cc91a30c36d103ae2dc45ce7adc5accce290b61c96caf3f6c2e1d1a20152",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "710b55cc8c778295a0fae9a92f2adccf958f85405813453f8a0112cfbabf3d94"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-130-1988-sapl-5852.md",
+      "sha256": "10a49e18cfb2c4e1f1eb0f0b5c8974feeff3b5c43a32e11a76ca721e03054f82",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "be7fa5024de01e474999a3017ba2bcd7e4983bff5675734373f71354ee5d500d"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-129-1988-sapl-5851.md",
+      "sha256": "6a7ced409026da11f12d3e0de25d0acc36aa7aa7d5c4941adc2b4260854dd0e7",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "3f174ae840096d9eeea65f76df20a6c6bcc1a57a85195bd0aaff74ab08b54663"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8774-2003-sapl-5703.md",
+      "sha256": "355d0e61c15ecc106063f12444da744d3ce6af94717bc0202c4ad6db04c65850",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "ec9f5666c3004f3f8ce193e7f41217946e9c748147138d81725b98d04602bd0b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3190-2024-sapl-26870.md",
+      "sha256": "facaedb1c156559bbe73b3886c13859c4e3a445c193b4bcbd85e18de87459821",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "03a2e18f897124e2d20e312b33e572862244475bd4e4c760aee2f0f566547f62"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-127-1988-sapl-5849.md",
+      "sha256": "7f43355c8e2156d9b7fd97552505fce5fe8e5a7286a487db5408b1736a3ebe9d",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "c931f9cd24bb10299c1c686b6f677c14fc737a2542e7da49a17a6ca9c5859b69"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8772-2003-sapl-5701.md",
+      "sha256": "c15e9a862fe8285bfb21cf36c4c59ba6a63e4d3f0c44f1850b4b39e93bf43f13",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "fd1ad58067499e2aa903b4d8a6ae175999fb2c1ea5ebeee95141a7f2e5fb4222"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3189-2024-sapl-26869.md",
+      "sha256": "a6a860d6038dbc52f5526f8bd7923e810ec3b3aa747f9f02fd2ad76cc59cee64",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "62562db15be47d7f35c236584c7f994ab9d75a708c0bac1467a104b5dfc30230"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-126-1988-sapl-5848.md",
+      "sha256": "efdf5e16da99bb05d03b4fbc40f44155fb84631d5f089ebd86ca11ac7ea4ad00",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "8f94a683799718c92c848c55439dc77377ec8c8fb22a1fd8f3fa5bb5a29ddd0b"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8771-2003-sapl-5700.md",
+      "sha256": "54ca892ce9e79cfc789ce91429f55b1f47949720cc140117f1334b2583c39728",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "0ab0deaa44b153c1f515d00e09d416c1ed30c04ca017f828883edc6555b24a45"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.115-2024-sapl-26741.md",
+      "sha256": "257d8920974e21bb68655f9fb037a6285117c8304e122b4a9b296447369df6d6",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "e1323362ccc9905bd560862aacb8e7fcb45ac5ab37bd5bc9b3129e196eb92367"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8770-2003-sapl-5699.md",
+      "sha256": "097f9442ea9cad3b972add9d4da21eb89ab1d9a21e5f8b11e53aa3928a313770",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "bdd231073ca696d52eb7c73b0de9f058c42db765a647c49a0e41fa0b8ea00bcf"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8769-2003-sapl-5698.md",
+      "sha256": "6915ecc98c1b60a3124fd65721df9ce2f8faa1d53acbf319746e2cc28ac241b0",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "5b67005fcb56c0852646759113e2c14b494781fc651c2bc8ea240044fca07789"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-125-1988-sapl-5847.md",
+      "sha256": "b8c0981185fa41d0e9f0583dacb11f1434c44d54b89ed7cf9e0e85f54a254350",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "2dd69c02c631626f2266aa99805474a959e4d8dd2e5c4692b16e8414aba80b8c"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8768-2003-sapl-5697.md",
+      "sha256": "64d5cd0fc828f472d1d819414c4b428c465d216409131a0f7775122b63ddb355",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "dd2eef0bbdc1e811dda0d0275ea373273edec166ed43d75e429492562ad2d416"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-124-1988-sapl-5846.md",
+      "sha256": "6a9afdb7731b7695eccc316244d8fde9b0d76e0bf116ad53a64c5d8d0c634b64",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "fd4be2d208ac30ab49151562ca51fcd30d4468a7682a05210f448d6f98fbf477"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8767-2003-sapl-5696.md",
+      "sha256": "fcdf72d57ac05a017d28c6c631420ac29b6bdfda55dfc8ad27f91e9c1fcc290b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "fb97a852f3d374fa405d3b9013d5acff33707a38c6f6120aa52986a54baf776e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3188-2024-sapl-26868.md",
+      "sha256": "2cebd0e89bdb7b126da75306049caeb7b598b8dc0a07eae3b527a30eeefe88d1",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "70d57bdc537b5a7a4ef9a20308885015bbf904745fff779714117efedd4200e8"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-123-1988-sapl-5845.md",
+      "sha256": "cfea8a6deef9d10847069ebc3604ea9c54741a45f7db94777a361cea5883f30e",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "57810fdfad53675a0bf8d79c120bac016f58a495898fb58559b4eef8cce30f3a"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8766-2003-sapl-5695.md",
+      "sha256": "2addfd24f8547dbc6c51654bdc12a7e5ba82644dbfa7c1c2886e33b502570131",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "4f60d17732ca4913237ef19f7000f0f0e20e6f048730d62274065daad08fc105"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-122-1988-sapl-5844.md",
+      "sha256": "1ccb0672323df5dd09cf728c43224c7c017dcd11acf1338ddbf3b8e60cabcefe",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "896e27a9faf2cf785e4551e0bbe5667ab8df4aa3c513fe3629e3226dbb1d9830"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8765-2003-sapl-5327.md",
+      "sha256": "7d4140141435c633ef4799b79c57e47c987a01f0ba7d644ccb425d43c28091e7",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "29ee3f2390e9692cf28b82908d2ad7432bebb9edde4c7bb84cf071c0b8c22635"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8764-2003-sapl-5694.md",
+      "sha256": "5f9f4f971339722d8267235132fe3ef4ce1fe63abbe1a868c68b07069130946f",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "69401af164e3addb9125099e2cee994579d716c82ad86965b2e9cd900b7fe002"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-120-1988-sapl-5842.md",
+      "sha256": "1aee284d3346d38c92a9c41cf5c674c41e0e5dbdfa59ad9ad065e38c9193894c",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "dcf631f8db20384285af1b3660f27d05b1e919f9f18779e49e47b5c0901ed0e3"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8763-2003-sapl-5693.md",
+      "sha256": "3953084333296ef7a4881d313d36b18b623ba64ed091fafeb314e84097ec1808",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "4ea5c2c526dd46d780eeb645360f7b7dfaaadbc363a4c9a88d33be65eab57745"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-119-1988-sapl-5841.md",
+      "sha256": "15cb809145db7ad6ed28510ed330ede85cc491c62e70efd2428a35c1621217b4",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "43e22d5622b820ff4e307d121735584ed4953836131f38a4beb500fffe1363fb"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8762-2003-sapl-5692.md",
+      "sha256": "435a41fa3828e9f98ec3c132a0d79d79311c4e6df350ca81fba5a8254ef1f828",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "509bec89eff706a45de60f66421bb263af84e354816ea466fc25f9096e005563"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-118-1988-sapl-5840.md",
+      "sha256": "60564723ade5fc3675b7212851450ab6549df6981238b731d9a9e9a541c48116",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "3fc74d9fea44a0d7d108e926497714f076e0218b3701a0a9cc879057ac2c562f"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8761-2003-sapl-5691.md",
+      "sha256": "7c7b4dc5c06feda66d42aed9fef757274dfc17c65597df1cccb87488d59a1c87",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "19e36d18f1879f62344b97a6a2785fb022fa14047c79386be3dbcca7cd96ea94"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-117-1988-sapl-5839.md",
+      "sha256": "433fc14bcbe07f82a103cd2ee561fabc2ccf39db35eaebd4a75fcee98219dba3",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "d4acc220a644dfaac6c1e4d6ec1af724c85e710b5fc055dd9aa966a5fd0241c9"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8760-2003-sapl-5690.md",
+      "sha256": "f2bf8189147b353aa037f741d8e0c021158aff2c4925448f45fa09abc2b836c1",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "8c68afa6c0967e326c67417bcb12698a4531141fa8e714549d44627d0702c7e0"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-116-1988-sapl-5838.md",
+      "sha256": "7bff0ef9272d0759741a970540b5718d582d40d9d7b0408ac434306a55987e20",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "c8e1e238477be668da6d206ac3b3172816e64d0893a62c1a301a027685aa6809"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8759-2003-sapl-5689.md",
+      "sha256": "72063f152a3124d50fb6cbeb69480befb062a6eece1b4adac789708de89f0354",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "c3f62a91519ea358f652a08a163c4232c78fee829685c0d563870b2978819784"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-115-1988-sapl-5837.md",
+      "sha256": "38f7cdb5d42d9ef52f7e5bce0c6b6c101c553978fbaf1cf0942021e6269788a6",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "04c3062594779fb04c915bff7727701ffedd092d9130e5e426d517d69cb0c4d1"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8758-2003-sapl-5688.md",
+      "sha256": "b9f4f6a45d09dbf4a08a6d31428a99533a10c5ba1da9854f58c8147f1f3519be",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "189e95222699645d772b9557d54f69edfded1e9a756da60e09ca7550fd48923e"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-114-1988-sapl-5836.md",
+      "sha256": "a4ce70a84d6f0b89c7aecd2d629f5354ccf18bed807e00578cf271589aeb26b5",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "046ffb140bd63b73a6f46daf111b58f263e2faee3c46cc7351f3d25972a830ed"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8757-2003-sapl-5687.md",
+      "sha256": "c918bdaf2c4de3cb3f1fb99dff6db8c8cf7f21cb97f3d4ca14c6f973c9178362",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "02dcf1a3f5fbab574b124283a61fd777630e4d4e9adda8214eeea78918d605cf"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-113-1988-sapl-5835.md",
+      "sha256": "89abf1034d6ce5075e83d2bf18814071b495bfa250b256f9de84064254997c3a",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "5187355bcb747041a9f10cd651d468b8d432bf9c119e050a4eb1aca5e2cf41fc"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8756-2003-sapl-5686.md",
+      "sha256": "daaf1654b6e3509811d2fe7e93337c8740156693ea75ef417effef2159b0eb7f",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "432758f430aa918f764cf4d142d6eecfe931790c42a112b8424e341fb5b74b48"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8755-2003-sapl-5685.md",
+      "sha256": "e789c868adcb4ba0341fe6250150608562ef2b8559310123cdd5824244bbfa05",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "da955c3e7738441b80b98ceeddb8653547201cc39313542dc33d3c95c69e4c70"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8754-2003-sapl-5684.md",
+      "sha256": "dc8897acf22608667c1fdde2e88b60813033084c5fb795d5ad15f51f5bd5147f",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "891e15dbb1f31c27dea83b4d997bbd737c56c7668ecb0333d154f7623444a699"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-111-1988-sapl-5833.md",
+      "sha256": "299486818e49144bc8583e68972d3b0a14ef02ecc3023166aaaf509476743d14",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "b9f9e307bf38e304166646dc5fd7c6a382fbfb91b3a05bac48f882ecd8f0e70c"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8753-2003-sapl-5683.md",
+      "sha256": "2c2bf6c440e4b437e3d70ea1fac4c2b01d641269216af5cc5541944ce28e67c6",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "818eb2402f67863135b4fb7bf931ae19ac34d7bf9bb348de03b8257bc0e3c76d"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-110-1988-sapl-5832.md",
+      "sha256": "dc4b42263a5e7a872e521ff7f4e382cc5afc99813c1b007d531330eed9b82c50",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "73633177822bb1d5a1dfdcfe2a1f331e2812ecd7cb7fcfb46cb4a5f5aad666ff"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8752-2003-sapl-5682.md",
+      "sha256": "a9fba6d85ad3646b5abe47f5145520b68f588be3719beb14cd8bf5be2789a649",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "c023db4f963882acb8db7b50f134223f5d50cf5ed4e9ec6c90d7fb1f7cb70ba4"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1988/resolucoes-109-1988-sapl-5831.md",
+      "sha256": "438a37d29a49c2a5a7b54117e7107321bc66bfc2b107bbf42d538a6692d0dd43",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "61380b99c1762a39780380bd6cf6bb967b0e20584de328317b473aba501e4ca9"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8751-2003-sapl-5681.md",
+      "sha256": "5b3c071c76a380f53f561d3c0e1bedab4cf5046054819f1a33f7f23a7ca0bbe2",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "bbcf528ca4890d6ba986643a6287513bb101cb050ac12275ec184e0ce31c6f15"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1987/resolucoes-108-1987-sapl-5768.md",
+      "sha256": "b7e105a884942e5d9dfe6ea8b8d6d2200b021e68ac9745f9f976a7554f2fe1e9",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "2218c683a18fd3736ec5f0f65af8eca50b12087f55586d13679b24bdeb219951"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.087-2024-sapl-26700.md",
+      "sha256": "47a61bf53937e3b56f9622df9505e76f49e91ac0422de61fdf693ddade435a95",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "d926607236a808a434ac9000bddeb7d6000cdbdc461cced0d406db3db5f87411"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1987/resolucoes-107-1987-sapl-5767.md",
+      "sha256": "75061b39cda7111e02632a3720b73f4995d1eb93d95dfe614e5bbfba4082e18e",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "34198b22221a3e2a0286ed8a7d042ab332c590abf23f4df179b39d3232fd44e4"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8747-2003-sapl-5677.md",
+      "sha256": "20e546155a6a2f4ac0a29f6a482a62c903f7421d06210dfa3f1f5a01375a092d",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "ccbb888222f5147ed2f18253eb027b7074702f68a97bab4de3b3a2fc9a3b51f8"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1987/resolucoes-92-1987-sapl-5752.md",
+      "sha256": "26da65e26e5a768ebe78316f9af5f9239532d127abdb7637f05f1119fdc52a22",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "20173342519f4ffeb89e8fd6ff6cf855985841cc1a92b6364aed51e97732907f"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8745-2003-sapl-5541.md",
+      "sha256": "41b5844910e93698858fe86bf93e9f25e2b1adc51cc2103b8744ba7ffa5aee14",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "5830a9fbc616736d8373a9c0e04fea02fc0ac3d9f2f35e09ccb7f99652f632a9"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1987/resolucoes-106-1987-sapl-5766.md",
+      "sha256": "76eb1c048d5023d295950ddddc5968be1405e278eefb1c7e737aa535cfb8ebf0",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "2a44a1f5861e1ac5fe0cd6faa33ff28666c5d694ee8d4d3d6bf5c47642abc109"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8744-2003-sapl-5540.md",
+      "sha256": "de0323df7c2038147cc7f27b8cd92f55e6590eaba717ad46489ff4cdcd8cb3fa",
+      "aprovado": true,
+      "dispositivos_ativos": 42,
+      "historicos": 0,
+      "sha256_fonte": "4f41da59a8f3766a5d4b41abf40a2682b0cdf7a73517cf4dca6abf7859d7f0c2"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1987/resolucoes-105-1987-sapl-5765.md",
+      "sha256": "c897ddc361eb89700fac3a8bd40c55c1596889a953e67d4ae2041ab9c98c1c50",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "3b5d645d5652d48a1416c22fe05006afbb2fc2e2ab28c10134a6e258e17270fb"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8743-2003-sapl-5539.md",
+      "sha256": "117644da1222ddcb5db4a38b351dc790632154ca175af0a9fce8f521f9bc3931",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "6aa635a69b5bb718854896b8a92b8bf2809632ce0aac2faf10b9ff0a19dfa54f"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8742-2003-sapl-5538.md",
+      "sha256": "1142c1411c43db4b0ffd7dfd838da2a0383fd3a5dcb973a9181a655210c3e57c",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "91031ec1536ce85484c5a84edeef3afb994417466a06ad1ffa35ae232373167d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.082-2024-sapl-26697.md",
+      "sha256": "1deca975e40f0957a47e3a930aded49c27b4de4a861d08e831b48b8279ed3d97",
+      "aprovado": true,
+      "dispositivos_ativos": 35,
+      "historicos": 0,
+      "sha256_fonte": "759ba659392cb854fca799f64081d049d03746ab3bcc09a85d6b7d8aa371df49"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8741-2003-sapl-5537.md",
+      "sha256": "5c65cf3b068e1d1988c4f3720f655409486cad0f8f88a0069016c73bab41c0ce",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "d22e31e9c5bbebea40a9423b0c27a26cefc8f41aaef8307f4943abae63f9a482"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8739-2003-sapl-5535.md",
+      "sha256": "79787828ac42e7d39c2152ecc15dce5d8657252da34b7cb28c04abc06b15b003",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "af2c03f1e9cdcd8b24f448e8222948306a7eac0711572d3f7fb696839e6e5a81"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1987/resolucoes-103-1987-sapl-5763.md",
+      "sha256": "ba5f8d7af4fc1aa793b2409edab74b1a95bd5fc44d8f1066165515ec03161a39",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "87226175d449e1b651339251c52068a54221d8f3caa3f23a71d1fad2b8460fbb"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.079-2024-sapl-26703.md",
+      "sha256": "ac3b3b1bb4f2add0dd0bfb4eb94adcf129ef846715913670ff57244e0e505dc4",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "e35788b4bcdd5b0abdc2817b8eaf405a926e7b20f8cd98a2e3df1a6900bf56a3"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1987/resolucoes-102-1987-sapl-5762.md",
+      "sha256": "8e44200017011b6e2daad920b9b162eeab5789d912a7e12becc34fb0baa7bde5",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "f41cbbe8808ef95e3f55ee3656777427677a93eedc2be814afe008bd081a9da0"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.078-2024-sapl-26694.md",
+      "sha256": "1b072728365759112f6da5605f945a373c5c16b445ea58819001f089e3262d33",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "da3d28de81b9eb68e569d6ec21929b7a1b6cd826417a9e8b61024b6f5f2e74aa"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1987/resolucoes-101-1987-sapl-5761.md",
+      "sha256": "f775b356611ea4047a75cf96ea410574a8683929d3d5fa85155d7658d8307cb7",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "2a1273f8e8ebd8d2fce98657330e4e8b9fdc2f85ef9a14348256c592c7222126"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1987/resolucoes-100-1987-sapl-5760.md",
+      "sha256": "0dba23ff9320ec0d2c419d1fcd4c8b1751ab284c340ecbeb55f16341ec3d030f",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "2a48eae0eff815f6c21e8cb489ef9fbfa90f79188cd88df591999af9b8554455"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8735-2003-sapl-5532.md",
+      "sha256": "a7949bb794f24a13a3554f0b897c45566bd1d77007aae296ded22e6ca46677c8",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "76822c6fb864e2bde7d6c6ea9bed48913f069e2f7af621e293c05917b5f63418"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.076-2024-sapl-26692.md",
+      "sha256": "e2ba2eb34e92a4cca096c35ac7f2fa5701935981ab061da1436b77e4dffa44ea",
+      "aprovado": true,
+      "dispositivos_ativos": 179,
+      "historicos": 0,
+      "sha256_fonte": "1446a65cae36bb8422e075072179fa3c2d607e2f3b12fffc0d103d40623b32d5"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1987/resolucoes-99-1987-sapl-5759.md",
+      "sha256": "3acc9e73780a497235c2cf644b6f9f1b4a6a1215fcb084438ec18d25b3d7533d",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "9430a923c797e29a8dea3db8c68887810e6b528d94c19117a9f1446d672ed6e1"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8734-2003-sapl-5529.md",
+      "sha256": "28a6b8efcbcff7dd687f9dcd880d43f30e2af32e1391b6ff256a76ccd3257979",
+      "aprovado": true,
+      "dispositivos_ativos": 22,
+      "historicos": 0,
+      "sha256_fonte": "aa1ceb8661cf15219bbf412bc8a4801e0537001d35d33121150f1278e3f9d127"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1987/resolucoes-98-1987-sapl-5758.md",
+      "sha256": "d125b4e00e0d25ce68f4a862fc0b313ac3e1e86035c56528c59bf4b8c4c947e7",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "7756c5dd79c520d9cc5a6d596630998c7f9c4a2a16ef9a91b6d1398468711a11"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8733-2003-sapl-5531.md",
+      "sha256": "5a01a88db9ec90328f756e7bf37375b80aa2c9d22fb46ee394d5aa67c0c6e741",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "26408baac11f8a59dea230e2fe30fda2d16cdb96453db7cc64269e8dd4453684"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8732-2003-sapl-5528.md",
+      "sha256": "2741d150fea7a71b43c6e4bc3b467ef5ba3fd84dfe6dfd9b5396f98b5da755e1",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "62221a1679aa69d0a60225ba534640e974a2e77238b5b6abe87e6902514bf430"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.073-2024-sapl-26689.md",
+      "sha256": "5b68cce33ddca3d026ba4d16c9b2cab96595b8264a516e52e8ee13552a80ff09",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "ca63eab35b0160655f68f6d27e70f43d5c4ddda52e26f68c98ddb3dc37a01de4"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8731-2003-sapl-5527.md",
+      "sha256": "9a2e81e33d0096e4ffc973808dafad1da6c4576e4b663febb0bae37fa2be917e",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "509f6edc1677917ee36bbf76185568b4ef5ad2c909a7972314aa0d87e25fbcbf"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8730-2003-sapl-5473.md",
+      "sha256": "c87c1d67ef9ef2db1fb059af41a9c6c81c11aeb7c35f5bc5db93f4bdd5b309a0",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "afde289537c52dec758d752043436079fb55409e1561ba438eed9d0fa09f4ab6"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1987/resolucoes-97-1987-sapl-5757.md",
+      "sha256": "87176d11470ec852a3827cba69fba1330edc6f610b15984fc19c328ae668b5b1",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "1d50dee4654a0c3e7bbbace2545cb600f539cfe03d4566d2a298b571632f7b85"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8729-2003-sapl-5472.md",
+      "sha256": "2a4796387a4b96461ad5d0a5678136e4b4740794ef4421dca20aada0661013bd",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "3f49052f7d170db1dd4d535315384cb071d11dbf5acb2ee74664bc385e851743"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1987/resolucoes-96-1987-sapl-5756.md",
+      "sha256": "d3abfc1910e15a45236b95976907e4bc857fafa3308828b26fb24adcae780b1b",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "ba2b88fa16eaaab237b16c3a2bc84bde5d82ec97a90b4a295a90f1a14dedc45e"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8728-2003-sapl-5471.md",
+      "sha256": "0f36b85d4eddd50cdda74f04e61327ae8648381bb27f004c62cb995dcf868fb3",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "c24f9a1769832401a132d573232c0b6f9e45ee12e9258f1410e52683f1a93006"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1987/resolucoes-95-1987-sapl-5755.md",
+      "sha256": "a49ad8297a4fb390ac347cc01d30e075379e8063ab57c696adf7c98ce086934f",
+      "aprovado": true,
+      "dispositivos_ativos": 35,
+      "historicos": 0,
+      "sha256_fonte": "7400e385eaeee1444cd24467e24512de97ca56505da5a13ffc206b03c57d3f58"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8727-2003-sapl-5470.md",
+      "sha256": "091b929e01728d186672df99ee83a8aa698d979065efd1d6f3e466259ca9e4cf",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "7a808599791b58c45546d2c3e06390bd3746b1883a70876092bf24f0cd39ecbe"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8726-2003-sapl-5469.md",
+      "sha256": "0f1ab6e2ab839f88dcd9965706ad0e1b42f4bc14710a61ca3a5d3f79a86e55d7",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "78c56ad23d41c21a29433733a46d9ddda2e784e7c79c3a53e66196f3a2340d51"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1987/resolucoes-93-1987-sapl-5753.md",
+      "sha256": "2d0763610ea5dfe6a31616a9b2521225d9e671f26d6d494836fbaa0bed5d2bed",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "11ecba934a288b4664e0187e78ebfa25bcf79bdabf76ac9d660f24f252868dba"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8725-2003-sapl-5468.md",
+      "sha256": "5d2ae295f5bb9120cb8a4c86fdc131b2e4843cb88cc50752c3d97d619f75010f",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a420871006d62538a7c2cf455eb154d3dcfd83e45ee0a52f99ed912628702a2f"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1987/resolucoes-91-1987-sapl-5751.md",
+      "sha256": "4c64f5882d15c3738015b958209a98e53ad7c2f87b1479fdf641853b52fede2b",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "4d2931216807ac7fabac0860b80615710c054450540568ff83a48a9f9ca0ac96"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8722-2003-sapl-3638.md",
+      "sha256": "5c4d30fe0db050377c42f4e7042759edc373417b658b161784d1cd2911796b3b",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "0219f44e358b480f441f38a154aab76b660f39ae48c82b77c8e48d4d9c113e47"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8721-2003-sapl-5467.md",
+      "sha256": "1b0e5cb3633c17d9a7b75b15c3d4b7b7fb33859cae3323ec92c1019187f6f329",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "3c0d295505082a6cc7d9e567c9b70d421888cd4fc555871c02e8d77b40e7af31"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8720-2003-sapl-5466.md",
+      "sha256": "638e8e5c4286c75a02c87022847b9d4ba2041c746f7bfae5c8fe826ef7c68a1f",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "ac5ee73a089cffaaa5e74e5c1c801a1118cc107458d1e28f0dae1e25760e1f1d"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8719-2003-sapl-5465.md",
+      "sha256": "5960abf7a6f25405f5902f4a6397a209c23406d376c616f90173df7b4d01e459",
+      "aprovado": true,
+      "dispositivos_ativos": 25,
+      "historicos": 0,
+      "sha256_fonte": "434c610689b56e6120339a8e80c2be6d7bd875306b9e050f82621aa028cd6530"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1986/resolucoes-90-1986-sapl-5750.md",
+      "sha256": "b429f216db09bca448fa2dda1878fa6768df907f7312b0b655820c92919bc22f",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "9701cf2cdbb2c6fa9146a27b736a05fc09d7fba57253aaf7afbe4303b491e593"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8718-2003-sapl-5464.md",
+      "sha256": "e9736b988a09e82861665d944394eddbbf7b396f65ef27456ff08584d3c03e4b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "f3e99f16096c7cedf7542b808d6ed0cc89a608f556ddb087672948673ca207f0"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8717-2003-sapl-5463.md",
+      "sha256": "c1a550575710b51eba33484b2962286df3edd48498499023d76bf6ac60047aab",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "c2223751d24ea7693e2ad275e7f03d1c3ff97494d0a77f3aeac327b71df1eae6"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8716-2003-sapl-5462.md",
+      "sha256": "27761dada484dddc6bba16b103cab7679cea6667a6eec13a711ef8023378e1d6",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "ef121f77076ad8cdbc4df47dd2518a0621d460156ebe23cea590e57da6991a7f"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8715-2003-sapl-5456.md",
+      "sha256": "690af58bd1a35a7fe2e0063db9998c224930b593b4181057db969185c4948623",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "9254ef97397545f8d0f627b0f4f3321f2834311456253406c622282c61ead86a"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8710-2003-sapl-5461.md",
+      "sha256": "5c1db771574b6bd35b1b814922a633b02c9954c8cd83fd6e21a08fd5227b5783",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "400c03a885099550404e894e638f4eb612a5ccf1c42128cc06281c3b3c412402"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8709-2003-sapl-5460.md",
+      "sha256": "2afb4a869d19dc6810571a5392d77108838db7765573cb1c2e6dd76d23359b5d",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "7e2866c57b519684d5401e87dc47ee971b40682468297c7ed97e608f826cddc3"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.055-2024-sapl-26672.md",
+      "sha256": "a916ffdbc52e1b9b5ae9cdc1967e16b81940d30ef20c8bfd6155ea1e5170d006",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "63d1f4f987b9e4fbebb7891135edf98dabc2e9b4a263a6fd7e0fd9d4e91e39e6"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1986/resolucoes-89-1986-sapl-5749.md",
+      "sha256": "d58599370791c6d8cfc142d71372c629749acf1cf2e5ea84c94cb5e57e041bcd",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "60f409bb73c4284c2e1ebb345080f03498ab9e06bd686caba365e1699f19ea5e"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8708-2003-sapl-5459.md",
+      "sha256": "f730e65f531f2c3aef09f26382eda2e20a8543a2c717596e402051e72bf3e040",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "0e6a8bb16787b0cfe39701c517ef5872904b5821c3e1e2c86f1fb84f9436e189"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1986/resolucoes-87-1986-sapl-5747.md",
+      "sha256": "3a790dc057b1dc72343376d329a2f70cbcd7c399d83716939d7d0d78c8d6daf3",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "8ec529967c68c394d8ab07056851eec2fc70405702695f9ebb77bbd870182154"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8706-2003-sapl-5455.md",
+      "sha256": "ac5e8fe6c1038e1ea3c8233a69eeeadec9cc9646d58a3d353d80c539394ce884",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "0d594ceb5abbd871be5318e5f69d8aa915999ddace5f8067f6caa358116a9bcf"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1986/resolucoes-86-1986-sapl-5746.md",
+      "sha256": "7dd7eb584ce1073416f9b9b5b10c1923fc60f880bb05f74b6a93425fd3637225",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "fa8148ee246f95d0cfed2ecc32df43b7e71d46db161ad488a57ed98fd933ba8b"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8705-2003-sapl-5454.md",
+      "sha256": "fc166ea7b8582f269e68ca86660860015ac6eecc073c27355132ee72a532c4d5",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "db76ed9a9feb1148292e9782e9a7a50321e14bec6f8518c8aa17b7c479d6bd90"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1986/decretos-legislativos-90-1986-sapl-5493.md",
+      "sha256": "57868941410f8748a09fbb3cd7ea5251e5f263c2b305532eea3a6b3c3ca3787e",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "685c27397d528c959fa576c1016dca423e0edcf18810c9414a3dc93ef143331f"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1986/resolucoes-85-1986-sapl-5745.md",
+      "sha256": "7168b396869147476ba2fc00fb5eee1814bfceddd1bc2d57b2afc11db41028be",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "f8faa599cab64ed3ed8eaf9dc031935f0a16c50668017712fe8e728479824f4c"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1986/resolucoes-84-1986-sapl-5744.md",
+      "sha256": "ab2d64cda0a55d6b17c0f20186e945cee9ec8a8fc60458c2cfe2cd3013312f26",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "e8215c3688a2b4a987dab64eb4890a71f5b71e39623ac6e13d2ac7ffb7ed91b3"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1986/resolucoes-83-1986-sapl-5743.md",
+      "sha256": "86cf3110b68d30996b089ea2b0d97d5ea22c3cedc4f8ae7859048b333a2abd25",
+      "aprovado": true,
+      "dispositivos_ativos": 33,
+      "historicos": 0,
+      "sha256_fonte": "cf081e44b989846df48864c0bc396fb71f2da40627efebd2fbc7d14f5dc4b0ac"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.045-2024-sapl-26664.md",
+      "sha256": "da599894384d5437e78df9ed11c3b10083633397021e93d87d4b2145c811aee8",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "551c6a2fec2b438aa1a382916f2b706c7b8171cbd3a10778dcfb2e863bfd155d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3187-2024-sapl-26867.md",
+      "sha256": "fdec04657dad067962e91190327c222a10e619c91530b5de18a9817579eb949e",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "4732558addd197f209e137ff7811fb3f6faa80222a60b944c664a7cdb333a64c"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8700-2003-sapl-5452.md",
+      "sha256": "3aeb5e8d67f25bb719a95b59001959f12756d0de3c61b7a31301aa025e2f0133",
+      "aprovado": true,
+      "dispositivos_ativos": 23,
+      "historicos": 0,
+      "sha256_fonte": "6306506f5becb3b3bba1fb7f6781f34d38d36da19e4b3e96e9a9255b7731e528"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3186-2024-sapl-26866.md",
+      "sha256": "3ba9c9e20f6ac14d35cab7d354aa8604b5b450fc95f621cc15678108802677b3",
+      "aprovado": true,
+      "dispositivos_ativos": 27,
+      "historicos": 0,
+      "sha256_fonte": "1d8ec75eb60c8b5ab69c1fcacd9640cb9972f46a71d2599acf90901f936ff808"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8699-2003-sapl-5451.md",
+      "sha256": "85e974c345ddea38b067a12b4ae850939b2d15d835b67fb625fb560289410985",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "8feeb5e4c20c120fd0da643b96f70918dc2bc821e1a878c9e297d2ace7064064"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3185-2024-sapl-26865.md",
+      "sha256": "5764a95ee6fe29fc16ffe5f5c26a4b6713801b778100cc54eb23365a38a5cd90",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "79c17711203d41d0e69d08b0bf7b7ee968f16d178770399ec4f6ef1728fff867"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8698-2003-sapl-5450.md",
+      "sha256": "b0ef283671fcd0462be290fb06dd5915a7686de2e6b73d18ad3e608a52e3398b",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "8e29322b9601597759061861ec9e0e0bb83dac765ec20a46274948a676065351"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3184-2024-sapl-26864.md",
+      "sha256": "4a3f597e0835277ebf4f5fdda436568a5791fdddb1901e58c1441f7ac0d8f48e",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "e4661a4042f1f1d447c09deeeb719478dc3825dda27328be983bf800dabcb015"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8697-2003-sapl-5449.md",
+      "sha256": "3f46f8082daa28bea1849ee5df2cb62024d83ec0408184e3704600d41a988ee1",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "2f141fb460bbe0bf00817aca8615f2722516875a16e8386cb6e74010d90ac888"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8696-2003-sapl-4750.md",
+      "sha256": "20dccd60a65bc1bc996724f4a2b14ad255f40f5903947033256538c923836fe7",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "21bcd57ff627674e5ee9567e58f2a388d09b9f9100d7d5cf9443a8750f133960"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.043-2024-sapl-26662.md",
+      "sha256": "1ba2dfeb2a98494b8dbd2cf9536aae02498d26d58e48ada8874947793279d44e",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "7ec0d49ac3d637b1018592660c039b8ade3d51b5479784c29bf5c7fabbcf7af8"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1985/resolucoes-80-1985-sapl-5740.md",
+      "sha256": "6df42917eedf0f3497644957e1d0b43ca8d37ec05cce46de99c6cc7d4176f0cf",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "c0fbdd57ec71da5ecb83d3748425d55be3aa941253a931d497313444685d5045"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2003/leis-ordinarias-8694-2003-sapl-5447.md",
+      "sha256": "a90f90c00a85c7a412c18661e7f0285cbdfe577cd66801119c88f607750b6e76",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "93d167b376d4d07e2e79cf5c301759b0ea0577a35236b40caa861e7c8365bcfa"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.041-2024-sapl-26660.md",
+      "sha256": "9a65160501e0634736d05bff43cb861aa94fadcf15310dee2a92e8fa1bdf6c92",
+      "aprovado": true,
+      "dispositivos_ativos": 30,
+      "historicos": 0,
+      "sha256_fonte": "9266722fc8c36b11225ea676e72b2847e22e2fd20fc6ab99352d69542c72a794"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2002/leis-ordinarias-8693-2002-sapl-5519.md",
+      "sha256": "0d9f77d92c94cd240330870d76491b172477075ef7215309b9c2e5d3bdbd0133",
+      "aprovado": true,
+      "dispositivos_ativos": 108,
+      "historicos": 0,
+      "sha256_fonte": "bbc98c46329f1af0823ace55b540280206e025b3b68d556571009a34d7111a88"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1985/resolucoes-78-1985-sapl-5738.md",
+      "sha256": "e886e507c4f230ff92cd85a5fb8b8e042316d2a917f3e70b104dbacd04a126dd",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "d98ac94a756ea3d2ec422f21d9a704a3cfc700f603f6162932ff17bae9626730"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1985/resolucoes-77-1985-sapl-5737.md",
+      "sha256": "42fa19bff0bff63c7c021673209b242e62f0a788ec70815d1264cbe421840ca2",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "4b8db7c863476fbfb6b94b8a45572652c5306edb8cd5772dcc05aef6e119ca06"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1985/resolucoes-75-1985-sapl-5735.md",
+      "sha256": "8f22a784f2ab8c81a296c6fb622b55e06a8a1f17b24fb2da75322f75320e7b6f",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "0489569fa1a6a694d962596252f3e2f72b80a5679afd6b5541fa9a9440830b58"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1985/resolucoes-73-1985-sapl-5733.md",
+      "sha256": "fbbd9624f89332cf59209762ab7553bce0f9f2e9daef40526f742495a67969c5",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "07be61c53b0f35c5fcb92626723903a3d3c12cc70c68558ef50a98f36bef3744"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1985/resolucoes-72-1985-sapl-5732.md",
+      "sha256": "46f870b5e87d7b3f773790cb8f40fcfabc027d1d14fb64757d08719e89245103",
+      "aprovado": true,
+      "dispositivos_ativos": 26,
+      "historicos": 0,
+      "sha256_fonte": "9a7293e117f72faa00fcf6895bb060ea66e58799fdf047e3f929b1ad8411c673"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2002/leis-ordinarias-8681-2002-sapl-3396.md",
+      "sha256": "e15a0001d021bf344f3291a9ad00923c213d59905d86d73bf4e611876a2508f2",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "b43490e45ea9626d99dd34d9e85ef9ae6141bd3bc84d1c74c2808729ed167dc7"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1985/resolucoes-71-1985-sapl-5731.md",
+      "sha256": "e77ec33712db559379774cb30860fd580fa3c7bd467302ef9a167a8ce8422bb1",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "9c71e63e7cdea7970776f3cf2f1a4754783fb7f51e611067be85a80f7d3c5ae0"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2002/leis-ordinarias-8678-2002-sapl-3874.md",
+      "sha256": "d7b6b641e515f26de48328e16262b45242a98284c26cc43d92611edb03d47605",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "f2005bc702302b6205ae20b220a1d1568283192dc989bece6bee955a217a98cf"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1984/resolucoes-70-1984-sapl-5830.md",
+      "sha256": "408aa23236b9a8555d5fe4b6da32b87cfd2dbc83625b0c189582c4791fc26a56",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "a1b559175ee89496b8c34d44b3fda2fa468de4f8e9f78d63a7b2acbf7f076937"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1984/resolucoes-69-1984-sapl-5829.md",
+      "sha256": "f9f50bc909ff073014e5d501999b501cd1897a132357baf413d6a01ad73d8d36",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "3a8498a68436b361fc8a281837878f683a211eb87936b601754d26cb1750ab3a"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1984/resolucoes-68-1984-sapl-5828.md",
+      "sha256": "67c0f27a1488afb93727ef7448a06bac77181bd3e9b2df54082245d96370facc",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "8a019e6368bee9bd5465ac4116b5ff4012427e81a7c79e644b0f30c6000d13e6"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2002/leis-ordinarias-8675-2002-sapl-4594.md",
+      "sha256": "5fd1d8d552938c900833f1e7976e73d603893b13bff222a878b5a4f9f3bb957c",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "1990de56858e01c66ca0c4a2812cc6c204bca5ca85e4b267bf749533a49b3124"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2002/leis-ordinarias-8674-2002-sapl-693.md",
+      "sha256": "c32745901288ca0e8ec908aeba3115ebc3dfd175f08c9cdf2e2b6ed622a5578a",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a5be6e2ee70fe1158056d9199d478ef3f0817ec161fc90698d70774dfe85dc6d"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2002/leis-ordinarias-8672-2002-sapl-4592.md",
+      "sha256": "b1a186e497fb2c03c81e7573e92d5a78c94175872781213fb4de4ce93c207693",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "9768547e37ae11e88f3d3fd892375639badfca17e5f977f95ba2e064d7a99635"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2002/leis-ordinarias-8671-2002-sapl-4591.md",
+      "sha256": "46367117848ad335903f70433274cd0cd556fcff94dd2afef12321b3dce9fe88",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "e837d82e26d468729f4f08f94da429231d34b11981bdfb6016deae75cd7e78a2"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1984/resolucoes-65-1984-sapl-5809.md",
+      "sha256": "bf5b72fc58f5777fabfbe9ef6162aa755e8940b67bb3cf7609f864c7aeea34bb",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "0c15a6bb2182b0174b6b63037df59e31a3f00bcf537244f92afe5204c9b936f4"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2002/leis-ordinarias-8665-2002-sapl-4598.md",
+      "sha256": "00a2126b00046ad958321644ad5544a051e8191b3d1c1061d4dd9a22e8ae571e",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "ab26a997821cd78d26cc6069ba5a00f6c80c1cc59bfab56ba2dc04bec1821332"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1984/resolucoes-64-1984-sapl-5808.md",
+      "sha256": "a099b889e6b82ff2e71bbddf6ba158fe9845911630ec3d38c10aeb8a6d847834",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "9dce5fd19284be45d9404ab19f5f37f38f6241491452cef6bab57cf475738791"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1984/resolucoes-63-1984-sapl-5807.md",
+      "sha256": "f0bffaa254fd91e0b5f2d5d5fb5e3b44a29541e34e8396fcad64a413dde2cf7b",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "e3b4fcdbe2544d96e92c2c6a64b7f03aaaa1b599b82bf79a37ec49a6c450f336"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2002/leis-ordinarias-8662-2002-sapl-3392.md",
+      "sha256": "e49f3b6648db0c1376b79ce862c3149293ac878e5f8af09187c5ec404412f075",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "e4509177b43d4743bb3863f91bca184f47bbb380a4550e2748d9d609a8951097"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.005-2024-sapl-26623.md",
+      "sha256": "1a38fa9f5abda4979aa41f2ed1352168b0d6b54ff5158bd0d502e82c8fbd6408",
+      "aprovado": true,
+      "dispositivos_ativos": 35,
+      "historicos": 0,
+      "sha256_fonte": "4c7fed675410f46902bdce67871d7ddb4426429b29ff1546bb3154a944b83b70"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1983/resolucoes-62-1983-sapl-5806.md",
+      "sha256": "9a01e919c5ba371c737e13422b09422653e093137a5fe92e5945a033a6087f82",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "4a4daabdd9f4d45c08c65a94058ab8c333f175de83c6cd548931ce0cfa115eae"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2002/leis-ordinarias-8661-2002-sapl-5495.md",
+      "sha256": "b6b1321ae6119af208205dbec517eca3c25f7e910c9c226f926c759bbbe4cff0",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "869181f455a461b2fe089deed158df8b391e4d34ee2aab5e70d8d025b27896e3"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.004-2024-sapl-26622.md",
+      "sha256": "c82fecf44a54059209356c97c732a26509b3c1c83e64f217a764107932fc378e",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "dad18dd62cef0ab91fd93d0059876f90b70da882b7cfedf679bfbf83bfde3a56"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2002/leis-ordinarias-8660-2002-sapl-4587.md",
+      "sha256": "7e29557411e304c585ba2e93b6cb087ab26a68cef3b7d008a25f02fe59feeaaf",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "6ab07389bfd426148c993520985b224ecd019912c43619dcdc85070d0a357691"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.003-2024-sapl-26621.md",
+      "sha256": "36e83a07dad95291f5579d5274a021a68141927cf06965342ff4e256dbeb710c",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "5a6b95f2d95e34c747fe380a1006dd8a87b77dd00aee4b58eabc660052a285aa"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1983/resolucoes-60-1983-sapl-5824.md",
+      "sha256": "6c320d0d86e42f38dad9d55b18b6a1d2416c536981fee7b7bafe486c1dcdd5ce",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "18dc9f9b1dbcecd0f6fc6bb9b6a6e87b61dd33f01a7cbdbe76b0093454e7c16d"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2002/leis-ordinarias-8659-2002-sapl-5483.md",
+      "sha256": "0150410a888d8c59c1cf348252c26d4f782b1dcf78897e2f1feb8ff532898907",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "79f1e577eecf5952f8259b6cf9753aaeb8493f091810f3ae2f3262791f12016d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.002-2024-sapl-26619.md",
+      "sha256": "668036af2318070b58636a7a3d6a8863d64520717926b864008b3b625120adb8",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "a537da9241e80da0e428b90c5cc93539c1043451b682914c482801caf6fe0cbc"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1983/resolucoes-58-1983-sapl-5822.md",
+      "sha256": "3a4ce55d7d5caa6f5bd6daec3677fbb109f36a93195ebc9444367355cb8ceef5",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "0edc39b987b8673e3c8f59ffb228e2a116e71f0582e048a9ae7bfd9daff54222"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2002/leis-ordinarias-8658-2002-sapl-5496.md",
+      "sha256": "f7f90f727e44974955fc923910d1df976e1f53e96f735f507503f4c854e1ec7c",
+      "aprovado": true,
+      "dispositivos_ativos": 22,
+      "historicos": 0,
+      "sha256_fonte": "c7f2029b4c08ee1b57724e1b6f0f70c5406b3a2d1b0d13343f9381f125f8c51e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.001-2024-sapl-26618.md",
+      "sha256": "41022246f0fd6fe423cd5ee263425a05621d7df422eed1327a087aeafa7e5580",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "e6b862bd01eb397262c951f778736e6af33c0951474af1649cb645947460a922"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1983/resolucoes-57-1983-sapl-5821.md",
+      "sha256": "b1b85c717ea6a40523220885da55acc4ebf275f745e1115b7f22b5e4e077f1c7",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "6777826cca2b940f31c4d38aedc07e6578cb42e803b26a43b25dbe9f7ed53d64"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2002/leis-ordinarias-8657-2002-sapl-5497.md",
+      "sha256": "7d0b938628bf5ee8aae06ea0ad39020d5062f17d30dba7cfd9b9bd8cc88f1e53",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "5eb0ab29abf881d97d733e18af3336b367d2e52c29e8c5cf543ba920d5431e65"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-20.000-2024-sapl-26617.md",
+      "sha256": "0d45450ed03b5e1e2e0b86ffac86d00772b43903badc3bed33b4d0c129ca5236",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "04631759c622ec5b18e04dcd22755ceda0f589fe8e6edac89228f5c936e6883e"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1983/resolucoes-56-1983-sapl-5820.md",
+      "sha256": "057627651b4c9f22f7b582438adf021550aa67e931cb2e9886165598d5bd6ab3",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "7759e86ead0aa58e08c35d506820b45f1edb7b8de9235ba7a3b58ccad8fc9395"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2002/leis-ordinarias-8656-2002-sapl-3605.md",
+      "sha256": "5aed20fd3b62d00e9bf2b4033e71b5726faf3b037094c0b4e38aac45c64540fa",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "553afc0cec9552991156bf4d5d7bc90aa5330a3babe2e3dd8c5bc02457ff86a0"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-19.999-2024-sapl-26616.md",
+      "sha256": "a87937f7a880b22cc800fc13efe86afaf81dfd634f8ddcaa527f9f71d46b3587",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "87abf0bb607e2d02aac5d03671dc182887ff5b16f992d3d6d34877f0f3978e10"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1983/resolucoes-59-1983-sapl-5823.md",
+      "sha256": "9c4063104419adc55695243b5b0f76f53534dc57f3f0ea5e6fad965bddd41413",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "5fea997d7c2fdebda3c13d1a7bd859ce002182e3d3f1d4343483b08564f3a7f2"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-19.997-2024-sapl-26614.md",
+      "sha256": "80b8924d53e6de0d35a8aed74a6b93befad13ca29de59a4875df028c0577e8f9",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "a9c47d422a3b89d809c2a5b5461d63d739061fe5b5ac08f73daadffaaa553b2c"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1983/decretos-legislativos-71-1983-sapl-5476.md",
+      "sha256": "1c46011c11b7fe895beaea1e7505ee08bee1e72749cf5541f309fc58e6e4e231",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "85e77456467a80e0658d3526a4027859e63c4acf7db6ee0b9799ec4166b7b4bf"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1983/decretos-legislativos-70-1983-sapl-5475.md",
+      "sha256": "4fd9c9fc7a81e8c894c54ef04a2ef44733e7ad50988a11c39c55054e74ab72c1",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "306a4f1d80a6286f82b6f323412a0ff105077024f94a34a8ba3b924268218959"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1983/resolucoes-52-1983-sapl-5816.md",
+      "sha256": "afdcde68c99aed568f91d0b7d9dd955d37812b14d059672a028924c43c955fcb",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "8d863c96b5644e515fc0ba6cb37c2fd30898fabbe4474d9e6722f9950e269348"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1983/resolucoes-51-1983-sapl-5815.md",
+      "sha256": "a6830cc00c854687d71f9447218bebb085cdae9215c33afa1030fcb0005675fb",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "b9c2efe0581d85e691f2876a99ac07003660ef421507f2d1090e7ec327461924"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1983/resolucoes-50-1983-sapl-5814.md",
+      "sha256": "74c6e6c808bb54872ceffc2e9a5f03453d0d37bb16571e19c890107474f14481",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "89691625a0db83ab27e7773120a30750b05d21491a9b6dbe271142dcfd25e141"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3182-2024-sapl-26862.md",
+      "sha256": "fe63900eb37752d2d4d03b8d90b52f9a0f8443d3287bb86b238cc9b76a9e972a",
+      "aprovado": true,
+      "dispositivos_ativos": 25,
+      "historicos": 0,
+      "sha256_fonte": "4402d48151e1ccbd743094d7d7d7fb1789d1f1dde30ddcbfc3d613db4d9e2222"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1983/resolucoes-49-1983-sapl-5813.md",
+      "sha256": "e47e5ac9e931cb5e9d9f594c029601929c35022db8faf4c819275e118275e629",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "bbd4e36b24217337eb285f1d7ff7a8697ac9aba78e3c0ecc073a6e56265173c9"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-19.988-2024-sapl-26595.md",
+      "sha256": "762c2310ff01cac3950df38f08f6f888e9d43128c07d5fd0c1f02628476c65a3",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "392c992dbcf3f83fe4342ddb4dc53775546b50307686fb7216181b6fa4dfb379"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1983/resolucoes-48-1983-sapl-5812.md",
+      "sha256": "f9e59e67d3ecbc522bda795274f35f2503c0e8e16bc5cbec1a9c0f894cb9c707",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "8eaa7f4def35996662eaffaa20cc1ae5c2f6918ae9c9cfdfcca60c18d39a923d"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1983/resolucoes-46-1983-sapl-5810.md",
+      "sha256": "11ad78014e8314a7b89ed362a94cd6c93bfe4e1ea61646ddd7c35e6b8b65b7cc",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "89c72dbf3b96aef628afa9bbf0618aa5553822f918d1db6762888980e1e30211"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1983/resolucoes-45-1983-sapl-5805.md",
+      "sha256": "bb939243b027fc04ac37b49b07df6bfa6051d31d837b06148fac7427f6e4848a",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "7f96f9f36682020981291ef13633e5d5e1f14a0f2ede04c86f4edcdb5115f41c"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1983/resolucoes-44-1983-sapl-5804.md",
+      "sha256": "e48eaa09b55ca04debfd21d4ae24a549d4d0b0924b9046c299e7aeb0821248a6",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "4fd317a3d2cb695783e6e55d4a925c50df950d9162a9dd618af6e9c45420bd3c"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1983/resolucoes-43-1983-sapl-5803.md",
+      "sha256": "c84c303f710c3cd90e84cb91e7c708cd864d82e677eda43a464d64d86c0cec0b",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "69ce1bc6620e839306b4e04cc18650e3ac478f805eef53109f58688c78e11d0f"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1983/resolucoes-42-1983-sapl-5802.md",
+      "sha256": "c267a0e7f0fec6e660a69b7bbb0fcf13b99e56dda370c0af33a2b4e64baa79e8",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "95a4e724805c7476f2e8d7ada028fb05ecb4f439dacb5eaff7794a4f38fc98d8"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1983/resolucoes-41-1983-sapl-5801.md",
+      "sha256": "6ee738b4d27160a7ba48e96d617bbe1d06e82b200e9c278f2ff71567cc031203",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "46ebf40523d7e68cf97691f92380f7ebb70774468462a265f0de45878c7bbebb"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3181-2024-sapl-26861.md",
+      "sha256": "abf6fa11a1f423eded38e8cbfb1dfb6241497f6881e5cc61e1cb13dc72ae7ff6",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "fdede9221a2c164b30c01ff8211dfc45b627628e36ce70dfd6c88f05860155a3"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1983/resolucoes-40-1983-sapl-5800.md",
+      "sha256": "ca55324f5eefaa807323edcc26eb075a238ca6d6e61d48770ee756e5b9c366bc",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "b7e6f005d22c403ec05301291680f3d9ed8ea0aae7760ed7711b0e78dce0add8"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3180-2024-sapl-26847.md",
+      "sha256": "b7bf2927daed6f625b54daa7bfed41d12192d40ff3f92d7077f8f21d59408009",
+      "aprovado": true,
+      "dispositivos_ativos": 38,
+      "historicos": 0,
+      "sha256_fonte": "dc6cbe702f7c6f4d4215e36d0ef5a7c462b727d7a4518b01cba60ec916cd3820"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3179-2024-sapl-26846.md",
+      "sha256": "391158f6fdd195294e2e55dea67b237cfa393eed8ec8be91f7ad6afa7a2d0e6a",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "700679d733c322fa5d4e6969fbd23fba2654b63d7f8498be76fadf47ba86fe75"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3178-2024-sapl-26844.md",
+      "sha256": "4e5a6874c8146bd51e5ea8cb017a68ede19fb70c9dfc1d49787969351a3e8240",
+      "aprovado": true,
+      "dispositivos_ativos": 22,
+      "historicos": 0,
+      "sha256_fonte": "8ec2c81e4ccc44cf55253b783457127c3ab1488fa9332fc817c386e85b735bf6"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3177-2024-sapl-26843.md",
+      "sha256": "62b5a73a5b65428cfa00ac36d4b547cafd9f2414ad74f340591fcba9fd730fad",
+      "aprovado": true,
+      "dispositivos_ativos": 28,
+      "historicos": 0,
+      "sha256_fonte": "cebd291ad5b146f5fe80c2841fe0cf8c3d6e30f78338eda4e80e97066b0b8d09"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3176-2024-sapl-26842.md",
+      "sha256": "50bfe5fc69471a6417bf73d578e00399c04c64d208da0c8848c22abc4a47c8fb",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "d527626f562b9878b20b20af4f5c49282c247ad23527ab7f673b1828cc1f5988"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3175-2024-sapl-26841.md",
+      "sha256": "685070b353198b5d7309e67a986c41335e92a16055e841322fcc709c3e355b6c",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "9702a4b4d938c77f3e829a9afcb35c03ebb7e64de10cb6fee5ca883e2aff4579"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1982/resolucoes-39-1982-sapl-5799.md",
+      "sha256": "98437a9fc9f7c933afbd408a5cbe7f419393c897a0d1895af8ed68dc61cd3a85",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "5acb4bf872d0fe8d563f77c019bfa53412184156a9e499791d51af9a4de299ed"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1982/resolucoes-38-1982-sapl-5798.md",
+      "sha256": "1116e6f66b2eb54ec82e44df2cce8c6af7d92486ca448e2b17459ebf7550d4a5",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "d51f7e5f3478b42e33e252bf18aca1962e40dc375ae55bc5a28745cb7fdd6d83"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1982/resolucoes-37-1982-sapl-5796.md",
+      "sha256": "81db40e0fc22db00f6a50a0bf2d5002e6ac4ee78d08d8efac2ae59eab573c559",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "d9c5692105266c06ccc7d1babbbc05f0fe3b4c09e1f6ebe8d2b754d601b2b6c2"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3174-2024-sapl-26839.md",
+      "sha256": "3ae7bd8a0e94b5383e1cdfa3a6fb4b8c7ab8e7832f64acf05f4637a52f470af7",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "d8cc1d23b2ff4b73f424d9e2c94521497ff4ccffd500bb8b1a20d87a0df68268"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-19.972-2024-sapl-26579.md",
+      "sha256": "97f5f1209662dbdc98ac4cc3f8f73caf5b74ff92fe51bf48f69732fa6ba5a74e",
+      "aprovado": true,
+      "dispositivos_ativos": 24,
+      "historicos": 0,
+      "sha256_fonte": "1c0e19a39fcf0d2bb4e4e9d96e0bbd91976593aa691533a4271d9b1de7243868"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-19.971-2024-sapl-26578.md",
+      "sha256": "16deaed2711999240ae6e34bb260f4f5163407daf656836710fa4cae8c386d71",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "6c21d5d9e143020740ef1f20d4a6dfe15613d4d77ecb9d0ac528c06a73c5ac0e"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1982/resolucoes-36-1982-sapl-5795.md",
+      "sha256": "f1845254a86bdacbd43d4eae9c058899352a7e51198519f8d01f33a8f00353f7",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "0b8b2f3543323359751ad5039f08816c6d078b9dabf8ac82e9669037e5cca493"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-19.969-2024-sapl-26576.md",
+      "sha256": "95c764b60b0e5c45ab65b8b0834dc2c71c4c2d3e78692082f751a633b4564256",
+      "aprovado": true,
+      "dispositivos_ativos": 25,
+      "historicos": 0,
+      "sha256_fonte": "f93cee82a735f73a368a15bfa068f62a20af274383561642549077edaa5c960b"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1982/resolucoes-35-1982-sapl-5794.md",
+      "sha256": "2b6d891caeb19f6e23b6c857414622492fcc2eb3c99c54f698d9f18a0c965793",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "26f331f9dd0da28fe2281dfc92a4125a8a0cc7e9c4ce3782d54ee87b6f5c96ce"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1982/resolucoes-34-1982-sapl-5793.md",
+      "sha256": "2ceb73ac73ab9e764fb2f94bf51a341851cb8ec3aa5b386909727a64c5e70a38",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "d8bcf4d07e9cc9f035a9846fd9b03d5de2c39cc8f5f5c133fbcee88819bde22e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3.172-2024-sapl-27513.md",
+      "sha256": "bb697c8487c457e6195d5d3fc61a39c31f30048254653131477a16506f40ca4a",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "869a8499b12585aa77baab77a88ea892e1d5c5c99f22cfe1e9817f6bf370b874"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1982/resolucoes-31-1982-sapl-5791.md",
+      "sha256": "f70bbf8a94c16cc079534b2bd830e637838030f3a9c386c40a2227663f4d4081",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "a93c20b2c4e47d8ab00492dcf74305129c98263b33c7924eef47b9544f621977"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1982/resolucoes-30-1982-sapl-5790.md",
+      "sha256": "478526c4107a2f1e91a2c4795cc644e96e66db1e99a07d7552f31729699a16f6",
+      "aprovado": true,
+      "dispositivos_ativos": 23,
+      "historicos": 0,
+      "sha256_fonte": "4d3b4f9edda041c0931d0401422e1d9dca8a927e6032471b3284ea6d2782ffb2"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1982/resolucoes-29-1982-sapl-5789.md",
+      "sha256": "210071cbed2a36ace570d61acec4729cccf46265b96851ab432e0d3a98d86490",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "dc63a89cee88de1db46b850a2191d281e4a8e1d5d43f90c86f2575595e831ab4"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1982/resolucoes-28-1982-sapl-5788.md",
+      "sha256": "19b276cd5a9ae1f89cbc8ce0553f738b8a4a1064be57e63e707c885a2bf72dce",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "2ea3ef8c8d4f7aa13c78830b71c1467d38bca315d92783539f278de48c8800fa"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-19.951-2024-sapl-26559.md",
+      "sha256": "84fbd66179d986cf0c53474d5b7601be211f3d5d011032667b156a05e50ca8fa",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "0304a9aa322660e6480dde2df0361fded4f391af38559f0db1e404e9ec02f50e"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1982/resolucoes-27-1982-sapl-5787.md",
+      "sha256": "efe976d804e4364f55b3bcc064d36141ccc3c58677ac28ec7748b6e493f84279",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "19fe8cd927fae2ed394cfda11af47aebe37a939870dd051c8f41e6a34d72ef5a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-19.949-2024-sapl-26557.md",
+      "sha256": "e5137b462569d1e00f5a1ca37b9527ab55322d95ec44bd10aca2363327a74e4a",
+      "aprovado": true,
+      "dispositivos_ativos": 32,
+      "historicos": 0,
+      "sha256_fonte": "f87bc68ddfa755597163bfb0a3f0b03b9f2679ad5e01d976d16e6a4a9cec5dfb"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1982/resolucoes-26-1982-sapl-5786.md",
+      "sha256": "cce5358f54bee8cda2ea373fcc73f2c9d1732cbf3a92f600d06599e97edd7a42",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "ccb85909092b8c209956adefba2d14eee03b411f800a19941762901da1b67d9e"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1982/decretos-legislativos-52-1982-sapl-5457.md",
+      "sha256": "d5b90de1d7616b2e25f2308e2de83969d07ee2024f77df0606cfe4c404f91de1",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "a3d6bfde822a1cb85fc0932a7a8687886250cbcb9335aa905c30bb9c45976b30"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3171-2024-sapl-26503.md",
+      "sha256": "9017293b71384a9f5a446af3e9b1870d80c3bffaf7d7924bb64ef3547443cc49",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "149f9f41f5763e8a2fcd5be1c87a6d3c2e6d1c7d548161d49c36491ee9a5b8fa"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-19.929-2024-sapl-26525.md",
+      "sha256": "9741a075101824d9f5a05ec58282494cc6eda296a0e279b5e12b4b92148a0b16",
+      "aprovado": true,
+      "dispositivos_ativos": 51,
+      "historicos": 0,
+      "sha256_fonte": "215f3fbea90d074c3aeeea85326dc428442bf16733c2ea30cccccbfbe596366a"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-40-1981-sapl-5445.md",
+      "sha256": "0cd0326876bfd4cfd409da4d8d6089d5867bf74c971382d76ccdb2dda8bc6f84",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "a08d6eed2049a347b19b50f6cddec796dc59cc94a553911a334ec4bb08de32d9"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-39-1981-sapl-5444.md",
+      "sha256": "ae2fedb33d1e6c37ccefa3fd5a8ca2579eb28d3d296cbf7f296094cf87372ee8",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "48b78645cfcfe4bf3b8948697ade147b50b2134953a2fd46ed98cede930884a9"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-38-1981-sapl-5443.md",
+      "sha256": "c505d0672d4ccf08e6d2a845143d9963e43f58363cf0b08e9e926498e8ede92a",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "dcb1733594f3e8d68c828f63645df982470a67dbc3262d553b0e6c613ea5d75d"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-37-1981-sapl-5442.md",
+      "sha256": "4574ae2e76877542677b17d9a04ce5d192a92ee1540c1b83f5cc00657f864a4d",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "b96952fdd8b6922e511cabb38bcbea390cad88254dfe3804b32e71b5b585f866"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-36-1981-sapl-5441.md",
+      "sha256": "7358f7b9ed368bd56f91a053bc476c4ad30ffb32ebe13cd93f952cf808f9b5c5",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "9cf777568a38680252a7a49a4adfc6e50d6702115e468b1292adb5ce30249416"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-35-1981-sapl-5440.md",
+      "sha256": "e79b30744fe8e3a68d5e9997e9dd7336e98698a33be6058df4f5268c90ff482f",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "f47e2618ec5e6fa6842e6a0f3deb7689be874263abdbbe877fb2cc59bd576594"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1981/resolucoes-25-1981-sapl-5785.md",
+      "sha256": "825ce30036b41871624d5d603a78d5b0b25989f926bfdb21e60b719248b13ee7",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "21ebdbed83526b3100b2f557c7b102a8338e99a0e212d18484a1e4768f433559"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-34-1981-sapl-5439.md",
+      "sha256": "b6e82e403ab81a89452f114c7a98b1a0c12823a2583ceadd8ff85486ea7fafbe",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "d67b2e81a7b91790f6ba5bd88c9f5e95f36f52d3d13912b9da6179a155d93ea7"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-33-1981-sapl-5438.md",
+      "sha256": "71dc3683375f6f3b69502fdb0e5c659ec1472554acc54fcb55ef9617139c55b8",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "c9bc9a7f45a6e39d66ac5ff5e31bc6869fdd3ae454b78ad1a4c9c47fe7c14e63"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-32-1981-sapl-5437.md",
+      "sha256": "109a8d26a1c6dd9308574911c201cbd52a39015ef4d8359e753fc411988ea397",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "36f70987fda904be2d71b1bf8146718f71cf3c70b1a5da80c4aa11b276e9da5d"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-31-1981-sapl-5436.md",
+      "sha256": "621bf4cb0791d1de1eeb6b6a9d4b945b7c83290a418a675bee956a93c88a02b8",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "85effa6a49b0aa1ae6b89bfba7227468cae2b6d887542333e38a0df6f6310cb7"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-30-1981-sapl-5435.md",
+      "sha256": "f95072218329d0351c9773585cd4447b4a53e018ec23eb28f7696782317919f2",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "47260024c43409cdc963b4be82422af1a8ac651e47c5a101cff06ba36f923540"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-29-1981-sapl-5434.md",
+      "sha256": "b3765e0f59af82255cabcfa4e534c6c521467373282757718fd0ddde045de9b1",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "7d2e8bc5e1e1d0d59c34027e0fb2b1ee7e882a080046f96b343913a6828d9c29"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-28-1981-sapl-5433.md",
+      "sha256": "eb77cd15d3f631a645f45a7dda6ffdd42a650249b722a0b8738ad2b993f9bffe",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "ca49754aa4f5bffeab24888aee9b1bc9c2adff94e6bba9238b09e17da5ecf38a"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-27-1981-sapl-5432.md",
+      "sha256": "6b24eeb57c52ad49112405fc888e212d1c513080936e0177b8fee07bb73124f0",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "603545afc7a08fb0d62c572f878282fe3742e648d8ba6c1c7498345c0d66245d"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-26-1981-sapl-5431.md",
+      "sha256": "ec5d0a16be447467f1bba9d8ed64044989bf1d4698ddf4d9934a1111ea3c86e9",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "f9b93ddc3bf7ee0d04140d0d19254ad9dc822af9c3adc18723da1dc3a0dd7f0c"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-25-1981-sapl-5430.md",
+      "sha256": "8559f6f9eedb64c1e13419b3f41bd314c7d2d21275c1089ca05bec8d27e33789",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "5e1d2de846fb850bdee56fd01266c68266d0abd6abcfcc3f5e2b96c9e2f4d5a4"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-24-1981-sapl-5429.md",
+      "sha256": "867c53024e317485ad4de53c1f94429b59e892bbacb3976a0d0a93c1ed22bad1",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "5610cf846b5c890a7f8c4e948f7607fbfa8d4ffe602953e4dd1c70a300603b6b"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-23-1981-sapl-5428.md",
+      "sha256": "f86c5623d14df033153980ee5d5a524936b24068cd25adefbd3992276dfd6552",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "d49d85ec9c43abd41f7e5164b2948051b78d631acdbfa2a1a24be64f08b5f036"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-22-1981-sapl-5427.md",
+      "sha256": "652dda088071c0e689b98ed823438ca5db8ab7e1480dfc854f3f2ffd45a20a39",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "f33f9e62c8100fdb7c1ed82cb617c1cbd5ed5432b3bb9bb786d5cc93c5bd57d7"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-19.898-2024-sapl-26490.md",
+      "sha256": "e6cf5432fea8cbcccf0e8e92801af386d551cf13faae498b2377f40c4e4f9942",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "3b36f3c110f2b99bb6a07920a826f68cfcae9fff0da04a6d201c00cf1b0008c6"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3170-2024-sapl-26476.md",
+      "sha256": "8cba5fc8fdc71cd50ee9c331266c9bb4a5b0d06b0c352bc8f4f623080e69b9f9",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "f4b3565ee66b3f1688269619c61ede38e4bb27a83dcd02945dda5493f8d5ec75"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1981/resolucoes-24-1981-sapl-5784.md",
+      "sha256": "d508c6d0de51e8ed16c3a56af07d133888f46f0f752fca2ca12f3215fd0a922b",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "ea34fbcdabf253cecab4aac1b00d5dc7b976f77d4eaebafca404733c96dabcad"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3169-2024-sapl-26475.md",
+      "sha256": "feb2f1f2b26c235e4596fcde72075232e0029a47522e21d09fe1a94c2b4eaf03",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "2ae0a074eeb16cafc1a4d8c59d11727ca687abe9c6ed2e1106612289b8c70754"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-21-1981-sapl-5426.md",
+      "sha256": "698009d68c598d5a96d4eb7b2937d52664edf4b5ce6508a753fdebcd1c628dd2",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "30ec268a3b6f05143ef59ffcf55835884bc73809af75f2778e18f5b8ac85131c"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3167-2024-sapl-26473.md",
+      "sha256": "04d58d0efb5ed13221b4294af726bb8f781215d8c66d590f447479182dfe7947",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "dd60169228b724b2df3459dd9aac78ec7bfec8791d352f441626a23d7a0bd258"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-20-1981-sapl-5425.md",
+      "sha256": "e9cb76d15d98f26f3584a4381f6b34ee589e1378045c0a7c6672145789a3491b",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "33ee1031144f34501daffd58227dc80f2804162781f51927890a87ccb61490ec"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3166-2024-sapl-26472.md",
+      "sha256": "769edaa03fbbccf57c4e435e26ac938d19b02a8762774ca6ff11deef87b4448a",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "b287c020aea64a04f964984f6cff79447607976aac2d535b23a8919382f23ee5"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1981/resolucoes-23-1981-sapl-5783.md",
+      "sha256": "b96c13e55ecc9595ffec4ea68cf686e69cbf2872716ec6b82c68d13a96c5df96",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "bf25850d653f69ae9498ee69e9e4ffb58430b6b75c31741a3c74eecbb9adc06a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3165-2024-sapl-26471.md",
+      "sha256": "64962cb379b644ce7bde179f8814eac729bc29681cd83bce69a91971a0e26779",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "b623eb2f1d74fd3712b2ece3aa1f10bb30cbd1b4ca3309b240fb30ebcd73188f"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-19-1981-sapl-5424.md",
+      "sha256": "ee2131678cf235d1338ebfac4185f443f063ca3c3b7d049bc5ad34d30eb2f641",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "3d053c7d85029166dd94ff61b2029972960df645f09cfa5b7bb905ee1bec4471"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3164-2024-sapl-26470.md",
+      "sha256": "1afdf6e993110752deefbb133a23727c627115d0a196b64b701d0ea4bc32cf80",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "fbdcec10546efcd2a2a1d4a1fbf596013c022f70e6e5c3bbea530d7a7cde698a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3163-2024-sapl-26469.md",
+      "sha256": "9242329e4485a5b46972879998add83f4f968aad04ce58714f43fd0f7fd16e92",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "ab85730fb051f73ad51b31732a8090c73980fd207bc508d2646a91b39cde5b0f"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-18-1981-sapl-5423.md",
+      "sha256": "2b58c7c68ccfc35aa046e51ba097d1bcb71b7cf02c9da102aea9c5cc2a9e417e",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "5a6f6cbf5c7abbd13be67e1366a1aa693da35b65eab569a77b9ad0bdd010f6fa"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3162-2024-sapl-26468.md",
+      "sha256": "4fc5e27ffa603e1dac19053b9b1c7896e6921014abf744f4d38717908f120af7",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "5cfc782de5ec68421f361895912a18dd4b1e63b1bab293e7cc91e74e7f54e5d0"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-17-1981-sapl-5422.md",
+      "sha256": "8c8fadbd70612e751bf96de049836ea57384c28b30aa6bd50f43244e40bce34c",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "3f0c4d047c0e114089e54a52acc2f76261897207ccd121c9c1272ce2649eadfb"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3161-2024-sapl-26467.md",
+      "sha256": "a8279faf5a0434fc0d1e0cbe496cb5c79792c6583a311c879b06cec9d69510bc",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "b8f7251625d7df28fb168d3a5da6bfcedaa8e0517447d65f5a088d2e04b5f60e"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1981/decretos-legislativos-16-1981-sapl-5421.md",
+      "sha256": "b9802c2542d6b2e8d92a9fd4fddbd53e8b7cfd870b6c783b0b0a56ffb3cf6f9c",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "baac774fb260ef5c392c67d5813c9de990943d29ab5a91d8d1747ca772dd3bb0"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1980/decretos-legislativos-14-1980-sapl-5419.md",
+      "sha256": "17110ef40124c2ae3f020d3893c683edef27965fe627dc2e8d057bacaec19dea",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "85c7edd7395cd9a021abbc9a1c6c1681bc9be2fb933da988a856c555cf1685c8"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-19.890-2024-sapl-26454.md",
+      "sha256": "dcad6e6f02e3709dd7b53d9971915a06b0bfacbc9b5ee2c44b34f663e3b6cb00",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "1f62e2863b901062041f7f9c0432bde8e721b03a2e40fa298af05f49276d2516"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1980/resolucoes-21-1980-sapl-5781.md",
+      "sha256": "ecb88c57e7bb848d01771c034ba9f0dbb1ce2630c0737cb0d6e5fc9cb464b9a4",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "c5e474082e1f2211a2de3b2fa22bd8ffcd8165ce20584df489226d5ef76195c8"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1980/resolucoes-20-1980-sapl-5780.md",
+      "sha256": "ae8a1ee219203b0d97f1050dba345f430536f3e5891e43bcf99f927f22610d71",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "e0a0848d4afeebd5e28681785a6bde4891aa1330376cafd32a5a74d8cdbfec25"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1980/decretos-legislativos-13-1980-sapl-5418.md",
+      "sha256": "f7827737d5b03a8a3d58b0e2e925349a133cdf83c1d51d6090a37358d01b2590",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "eb6c4abe63ff9883a0100dec43c908c56177a4343e83e6ac55bbc539783fd6a3"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-19.887-2024-sapl-26452.md",
+      "sha256": "0f89ebd1dc4dd727f186881c9aa3e44b032922879c42d143b174a1a8075af93e",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "e2ecbec0e9a78f7b9a8b8146bf335113c4af8cb59a3ffae8efe75bcd38118293"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1980/resolucoes-19-1980-sapl-5779.md",
+      "sha256": "cddcff7e4cd686adf7f66e5d277d6c1a7c633637751ef910639c619702e91c0c",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "ac0e27273d1bc51e49e349dee655855154bea062e1b071775024e56b0b1aae47"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1980/decretos-legislativos-12-1980-sapl-5417.md",
+      "sha256": "1facccbdf934e1bd7b30249f8f0cb0949cd3034e7986fce819740654cd715b8f",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "88f0ef972c633f5166268254b1bdd6b9289c04f5113be00d96068880d24312a7"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1980/resolucoes-17-1980-sapl-5777.md",
+      "sha256": "2b57b54ace636f53506af2b720022fb2f4a9b55a0e58eae9aa6c06e7002cf208",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "65382074843cfc3ca820fd6d1367945c3ff308dacd55d235a7f4cf71ae2fa24d"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1980/resolucoes-16-1980-sapl-5776.md",
+      "sha256": "30db0f8c334f6a62f74f9444999271bbdb803a7f79da13ff49740c5335382839",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "7648ab47771ebfad5290a44259c6a62107ebc21d84aec9ca9078bc105baebb16"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-19.882-2024-sapl-26421.md",
+      "sha256": "9db10c90aa376332c143c7bd731f8e022099554d70448f8ce2a52dcd2412bef8",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "0882d925de94c1eb957a908900b2aef39f617538c20cc123bec6b5143d4b4f33"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1980/decretos-legislativos-11-1980-sapl-5416.md",
+      "sha256": "012ce13d617d5d533b096e3ecdb97280a2a8fc28a0ac110c23e4b1cbacfb55c4",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "5f092d6020b63a4b29cafe84e737f7b909a7cf0d684c8767c6605eff7d65288d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2024/decretos-19.881-2024-sapl-26420.md",
+      "sha256": "6de58c224ca6893011392b53594476c7d8abb498dff5a3f43a4e45ece4e7e6d1",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "c171f9cf79f328e2317fd0c5f621f51ba3f205dc05d2b6908a2ce8c9f0c4fcbf"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1980/resolucoes-15-1980-sapl-5775.md",
+      "sha256": "c00b16363dd98662ff494563a1e6063adcde403ea3db07c19775796235bd2ab0",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "ffdefb5f12491354ec38ed56129a631dce30b40266bcf70353baaccfd919ef7f"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1980/decretos-legislativos-10-1980-sapl-5415.md",
+      "sha256": "5539c1f1922bc41084dbc25ed9c7e6c472c3dead6525a2c9f1d2a622f7062b2f",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "0a65dc4b71d49b91bb2f934f482f7284a85fca9d81f28e4b9dc7e5a9f927f71c"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1980/resolucoes-14-1980-sapl-5774.md",
+      "sha256": "7e9e6259d46171b7a79548b5580188d4e2d02fda4d72a31761c086e1ca9396f7",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "92100dc7e2a8beeb47127655897da058a2795c70112e6b9f5e879bb47bc43630"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1980/decretos-legislativos-9-1980-sapl-5414.md",
+      "sha256": "e703a06581fe2dfcb363a8ba70f84e172227354646a2a6c86de29435ecd4fa8d",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "7255bd0dd0f6fb871b477d8a93e82c031f91d51ace2a3656b9f749a3eddfa522"
+    },
+    {
+      "path": "municipais/RS/erechim/decretos-legislativos/1980/decretos-legislativos-8-1980-sapl-5413.md",
+      "sha256": "7ac4269be6b3cdaf1f3a8ee1dd339ad8016bbbe51fb343b8973e18caa86571b3",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "089ef8de342553f594dd61869dbe105992caee4da017fd083637f4cd8c497eea"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1980/resolucoes-13-1980-sapl-5773.md",
+      "sha256": "9162cfcbf89928022c8189a6f63c1762c021ca6bee4feeb175b98ebeb24b421a",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "870fa14219012d5cd21ae6fa516675a48e1de77fe764647d475cc0b8eb45fc4e"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1980/resolucoes-12-1980-sapl-5772.md",
+      "sha256": "1f5c0bb77c2c16e22578c8d0f824b66682ea882c16e072ed318fe0d06b42c708",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "0076a009af829483cd4fe92d76d03eb00c4432a3459fbc83abc1b29666279b03"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3160-2024-sapl-26463.md",
+      "sha256": "1736fcf408e105a9a928741176f49f3579eb581bb58fa99f7da7ba537bd94ff1",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "169659525ec995320bb40aaba2cb66cd3d16917fea0376bbb6d1f487bb883c0d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3159-2024-sapl-26462.md",
+      "sha256": "d56aecc77c65d4df1f511b74c4b1e50747004d5160002c9625e4046e30ea2fab",
+      "aprovado": true,
+      "dispositivos_ativos": 34,
+      "historicos": 0,
+      "sha256_fonte": "d9b40ddfa4f3f81506c60177f166275eeb22e09f7095af8da6200b9bb2df195d"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1980/resolucoes-11-1980-sapl-5771.md",
+      "sha256": "9c8e2902899977e0086940b6e683e335bec2fe640712468c5757e09569ce8f56",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "0d1c2649d30f88d2737384d3f018a580a1886c0ed3bc3f6aa0b1739493bde1ef"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3158-2024-sapl-26461.md",
+      "sha256": "12067b1043e1f973e7dcfb52b98c31347b7f9bf8e77a89f4f2d1963a3a3b385f",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "a637d35b6393cabfcb473d00b0795ed1628716d0013ccbb2f2f5feed898e7de6"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1980/resolucoes-10-1980-sapl-5770.md",
+      "sha256": "a34928d9c811e25683caa85ce90d4a410dc2cec6812858ce9d1f9bc61410b398",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "da84efcceb76a543ef03c917c05dfdd3aab41c270f246f48ac931f7f121bee1d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2024/leis-ordinarias-3156-2024-sapl-26459.md",
+      "sha256": "a7abbb052872145f75a7389eb7e8436761cef56cb9fa63869cdafe78d4e559df",
+      "aprovado": true,
+      "dispositivos_ativos": 23,
+      "historicos": 0,
+      "sha256_fonte": "5811ae571171e32d1ca994d910d9323e0131d97f0bb86f1de5490fb36914e5dc"
+    },
+    {
+      "path": "municipais/RS/erechim/resolucoes/1980/resolucoes-9-1980-sapl-5769.md",
+      "sha256": "1da961dc91fbd84346d96d941f0770aea508681e97d00a4e97048851a74d61a0",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "b812ccbba778ef0009bdbb725b39d88b173bde60821e5532bcf483b80f6df012"
+    }
+  ]
+}

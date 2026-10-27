@@ -1,0 +1,42 @@
+{
+  "candidatos": 1000,
+  "aprovados": 485,
+  "retidos": 515,
+  "jurisdicao": [
+    {
+      "path": "municipais/CE/fortaleza/resolucoes/2005/resolucoes-1569-2005-sapl-288.md",
+      "sha256": "bad51462a31049bd10e450a64712a305c6589b19ef39e313af7dcfd7973ab85d",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8893-2004-sapl-3668.md",
+      "sha256": "07de0c5c4f40007b8567e3474f1d4fcd58b46f76e3dec8cbf83a64713eefca7a",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2004/leis-ordinarias-8892-2004-sapl-3667.md",
+      "sha256": "07a11f3f128869802e48b9ed1c7b200998d398088a83cbf8b7f2cfbce011d2e4",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    }
+  ],
+  "replay_retidos": [],
+  "criterio": "Retidos não integram a lista de normas. Controles conservam os motivos e identidades; não promovidos por contagem ou por comparação da mesma conversão."
+}

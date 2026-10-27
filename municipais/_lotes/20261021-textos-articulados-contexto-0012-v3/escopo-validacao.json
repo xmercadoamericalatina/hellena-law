@@ -1,0 +1,10 @@
+{
+  "municipios": [
+    "Acari/RN",
+    "Agudo/RS",
+    "Fortaleza/CE",
+    "Porto Velho/RO"
+  ],
+  "escopo": "O materializador itera cada Casa/IBGE presente no lote. A menção herdada a dois municípios no campo textual colisoes do recibo não limita a implementação; os quatro vínculos estão registrados e confrontados no controle SIGI.",
+  "identidade": "Nos rótulos institucionais, o h1 literal é confrontado com o número e data do cadastro e com o rótulo oficial completo __str__. Ausência, divergência de sufixo numérico ou data e alertas anteriores não são ignorados. Não constitui certificação jurídica de vigência."
+}

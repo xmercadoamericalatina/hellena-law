@@ -1,0 +1,49 @@
+{
+  "comparados": 16805,
+  "candidatos": 199,
+  "colisoes": [],
+  "fontes": [
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-final114/baseline-municipal.paths.txt",
+      "sha256": "70c17107a7bece7f046c6b0bc0bfdbd50f787cdb145d8925929d9fd36260f0d4"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-pacote-final-1967/normas.paths.txt",
+      "sha256": "6bca97fea7e6f6ac61270f9bedbcd6f5e4920b79b8649d9e6f8636a9a57cb7b0"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-consolidado-municipal-129-v2/normas.paths.txt",
+      "sha256": "c0fce193ac5634be4f9a4392b2eafcd34502527404e902477f2b62bbe262d64c"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0001-final4/normas.paths.txt",
+      "sha256": "60fa2b91eda2b11079972a138f759b06ea0598d1a6a396ad0b24ea6e5be539dd"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-curitiba-estrutura-v2/normas.paths.txt",
+      "sha256": "7092f81d33f81c0ff9834a26a24f87644846959238d1a18b5602a815960939a7"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-escala-sapl-0002-final28/normas.paths.txt",
+      "sha256": "bdecb1187d1344d5e524d4c5b93ac93db0a0430130a54346dd9c0aecc13de39c"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-agregado-771/normas-apos-promocao.paths.txt",
+      "sha256": "e4594884cbd153d9c3587968086a82e0ec0bc1f98afbffd12d3488fad5eb2584"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-municipal-agregado-1349/normas.paths.txt",
+      "sha256": "d45dc7c537850571cbe9be21d4c2df25a1f83aafd70a6abf10576aa8e769ab3f"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-final177-0011/normas.paths.txt",
+      "sha256": "25ba9e94707581ecad50013c2e2f2b3b91e9b853a48c35f27d974cfcd85529f1"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-reparos-commonmark-ta6/destinos-apos-promocao.paths.txt",
+      "sha256": "c6a0c670ea6e4fd81ccdb3c76d9eb9fa7f794bcad1353cbb737436090bd0b74f"
+    }
+  ],
+  "criterio": "URL oficial da norma e do texto articulado; IBGE/tipo/número/ano, mantendo sufixos alfanuméricos. Também compara candidatos internamente. Lê o baseline e as listas finais explicitamente informadas, sem consultar Git nem promover versões antigas.",
+  "codigo_sha256": "9a2352f632d8255cfae6f0317caf62a77b84b41a548e4112fe7ae971ac3a434c"
+}

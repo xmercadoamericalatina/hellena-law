@@ -1,0 +1,9 @@
+Executar na raiz do repositório, sem Git e sem alterar os pacotes.
+1. Python bundled: /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3
+2. Dependência: markdown-it-py==4.0.0. Disponível em /tmp/constituicao-markdown-qa-20261020; o auditor adiciona esse diretório.
+3. Rodar os 29 testes dos módulos: test_textos_articulados_sapl, test_gates_textos_articulados_sapl, test_contexto_completo_ta, test_emissores_sapl, test_commonmark_ta, test_commonmark_ta_v2, test_data_captura_ta, test_colisoes_lote_municipal. Driver integral em testes.py (somente leitura).
+4. Repetir o gate de hashes e replay integral: Python bundled -I scripts/verificar_entrega_ta_agregada.py --manifesto municipais/_lotes/20261021-textos-articulados-agregado-771/manifesto.json --replay --saida /tmp/ta771-replay-root.json
+5. Antes da promoção, o estado esperado é aguarda_promocao_explicita, 771 replays aprovados, 0 problemas; apto_para_publicacao fica false. O auditor nunca promove o candidato.
+6. ROOT promove explicitamente somente depois de conferir preimagem af15d78bb335acb0d119e2e81d037e7296dc20f02d232907e9d4487557155d09. Novo SHA obrigatório: 9106ecfd78ffed8dc86466ed75d5e0e99694683069073d31ef1381f6da9aebca. Os detalhes e paths estão em promocao.json.
+7. Depois da promoção, repetir o mesmo gate com --exigir-promocao e outra --saida exclusiva; então usar normas-apos-promocao.paths.txt (771). A lista normas.paths.txt tem somente os 770 já canônicos e exclui o MD antigo 29531.
+8. Dependencias.paths.txt contém todos os controles, fontes primárias e códigos congelados, inclusive os sete manifestos originais; acrescentar o manifesto principal deste agregado. Não usar as listas históricas dos pacotes originais como seleção de publicação.

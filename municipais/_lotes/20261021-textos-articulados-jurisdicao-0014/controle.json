@@ -1,0 +1,2120 @@
+{
+  "criterio": "Triagem de esfera oficial e cabeçalhos municipais nos corpos TA completos.",
+  "cadastro_ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "script_sha256": "2eeaa4c3704a0a720f4c6ecc157406c9062522a8c8817066d60ac60573aaf9bd",
+  "emissores_script_sha256": "1749efcc1a6334b652716841d89cec2170eabaa580b23937b4a83a5ea74af023",
+  "resultados": [
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.963-2023-sapl-25197.md",
+      "sha256": "3defee68e9d0e8691ab7edbd2f0235731982b84ebaf34d72030b8424455a5653",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1636-2025-sapl-3052.md",
+      "sha256": "d6f71e5e38fdf109b6bfd56f0d81a2e6dfe0b511d57076125974b9a4ca09a12e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1635-2025-sapl-3051.md",
+      "sha256": "d7abeb3e5a0b7775431742c110afa4f36fe5cbe8bd17a04b4502dc95b1778418",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.961-2023-sapl-25195.md",
+      "sha256": "e0c7ce5e45c4e29e15a916f64048936cfca790e266a5aecfa3c5d7a2e2d51ebd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.960-2023-sapl-25194.md",
+      "sha256": "3fc4bd7ee6eca34ece895cb019b2f618601b2c3cf5be67b1c6e5b2abdf737c84",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-complementares/2025/leis-complementares-11-2025-sapl-3050.md",
+      "sha256": "badfd085fd1b40b51bd14fcea8aff9f3ed3379b5e8da60b90e60e5c43e6b2932",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2404-2023-sapl-4700.md",
+      "sha256": "6a5fb89ddd1e68355243db5b4edf0a0b35266022890be9a35e8332805f351d31",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1634-2024-sapl-3034.md",
+      "sha256": "a6968702f50bae3fb9adef892cbecf5012f8ed84abac9f57acc7a70f784df56c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2403-2023-sapl-4699.md",
+      "sha256": "47819023afdf9b92da4026ad045ea3b87de52fc75707eb6eb79b24f0c65de5a9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1633-2024-sapl-3033.md",
+      "sha256": "8be011355ab2dcc6ab9fca38bb018a112b0df1e92132a033125a6dda0d85cf6b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1629-2024-sapl-3028.md",
+      "sha256": "7473872c94291653ccc835581c11c417922161363afd722b556ae8303acec0c3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1628-2024-sapl-3027.md",
+      "sha256": "500de48a19061734a5bf5f54189b33e29a5a0bdeeebd9e7b8590c85c38429d9b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1627-2024-sapl-3026.md",
+      "sha256": "2cab43dc9a865da7050cb6258e0795aa24e2ccf3959c770fa46dff5ae3656cae",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1626-2024-sapl-3025.md",
+      "sha256": "eefce9c9770b9726b65b3eedf83707d679b8b16b7308b4e4afad3dcfaafbf386",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1624-2024-sapl-3023.md",
+      "sha256": "fde00f8db44532a96aa3df602c5f92ada60a52e5b6ca2e3eb289226ac61501bf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1623-2024-sapl-3022.md",
+      "sha256": "fc5222eee26840954e1f6302a3c699ea4ad3b2d31b0012d240521167df140f38",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1622-2024-sapl-3021.md",
+      "sha256": "e3a95922e6a01eecefc648a42a20a665120889ba02a93fbd8824ac1820b541fd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1621-2024-sapl-3020.md",
+      "sha256": "105fb00fd07edebc8a990d8749212eb3333665acab45ecd2453249de1b0023b2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1620-2024-sapl-3019.md",
+      "sha256": "fb9f2fa0c44c87c05eab2067b05584bd72cfeb49beffd1d217ccdf15080f63a7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1617-2024-sapl-2969.md",
+      "sha256": "b6b8f37eb5ee6b4b6c7c7e8bbd0d3622e3d4e3da899b327c64253bde0562be4a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1616-2024-sapl-2968.md",
+      "sha256": "6f08204114ec52b764867d50420848c8569fe257ce5d44ea38079f6fc381927b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1615-2024-sapl-2967.md",
+      "sha256": "0fe17664090065a970a0239ef64ae4371c98ed92a8b5605b7edc483aca3c4f40",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1614-2024-sapl-2966.md",
+      "sha256": "7c8e18f8664b828cb7164175eca9e0dc7523e4000df3bcba9523e4b90c24b10f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1613-2024-sapl-2965.md",
+      "sha256": "41e943d67fa1f9d42e6887683cdf5c052b79caaafe1ef402a6ef2f8f4e7a99a2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1612-2024-sapl-2964.md",
+      "sha256": "ea825c7f73782b7da46bd1ca309e99ddeae38c105a0e0a15535a2a39c13af956",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1611-2024-sapl-2963.md",
+      "sha256": "cd54fa7a9869bc0c992a7d4628de07755fa301d8e39ff5037024f45e30c0dbe0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1610-2024-sapl-2962.md",
+      "sha256": "80d0f6f52fdb8c1b7165ba5163c4bd0ed89cf3b8c81d8789d10b7174776ffc04",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1609-2024-sapl-2961.md",
+      "sha256": "bdee000760eeae78ddd8ff648a3851011d3278ba05a04a12872fd1a53b79edac",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2380-2023-sapl-4650.md",
+      "sha256": "7b68817220b0d2e29a01d79b2b47784586e9646e1e224affc3ed11492bc3e24a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1608-2024-sapl-2928.md",
+      "sha256": "94edf0e13ba41e748ad33631f88859e079fce224013dfcb298db57a7434974e7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1606-2024-sapl-2926.md",
+      "sha256": "13059c2775974cf4c2feae1f472d2c2bf26f83cdfb19a71942e6b6d4fbfd1c3b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1605-2024-sapl-2925.md",
+      "sha256": "41f837cd054faab2fc12ccd659289d925f02a18ef39d4ddb9dd8cd741735a994",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.926-2023-sapl-25145.md",
+      "sha256": "b4b2bed68422477d76aa7c88ed24f43e54b4e43b7337aa7d8d85777741326160",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1604-2024-sapl-2924.md",
+      "sha256": "03d0f18cbf5181d8f2cb10fd96c49ebb16d98420ff49ced4022528c616e1b828",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1603-2024-sapl-2923.md",
+      "sha256": "3e45463efa232ac1504cb4d4f762c76b3ac2f9ee2fc2c28a71773ed85c19da46",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1602-2024-sapl-2922.md",
+      "sha256": "ad2df783d9537e3b2a07ff7f6001f5e9ad8045bd8a5f1c045c7e99e6d097f18e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1601-2024-sapl-2921.md",
+      "sha256": "2d365485a078e08155d6d9c3c3946a37939944f4b286efd428bc5f02233cd2ad",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1600-2024-sapl-2920.md",
+      "sha256": "2b58957607691a6f617e27a4cb6727ee7c11153318570752e01e0db45a608ebd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2370-2022-sapl-4622.md",
+      "sha256": "67d80e672d0bd7e8d8bcbe4695a4dcf8209aae7ee2e2d0e7da2d5349c4be6fa1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1599-2024-sapl-2919.md",
+      "sha256": "5a1ad278293b19335a091921890005c30881c03dbca0e4b3f957848f508fc861",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2369-2022-sapl-4620.md",
+      "sha256": "89a7f37dbac74ea0c3b53e2dd5b8c24d135631f67f6de9a4d94ca08e154a9e39",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1598-2024-sapl-2918.md",
+      "sha256": "cf3d417541064811610fe2905d751794b2493c1e1a63733e1c6229d0ec332520",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2368-2022-sapl-4619.md",
+      "sha256": "468c098342b2c8d190a23f7abee5e404daef44dbfc5832d0375ce72dc4d0eb99",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.923-2023-sapl-25131.md",
+      "sha256": "46efdf92ea297a9714deded06effec69045c93655a545312a6a0f34e2760fd97",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.922-2023-sapl-25130.md",
+      "sha256": "8d845f5b237a6efd5e09b0af6e944b090432766105b366c6b2b6a1860def1d48",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2366-2022-sapl-4615.md",
+      "sha256": "95a9c880c366f00781f41717b43bd583356404e617a0496365b746b4c4c0c9d5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1595-2024-sapl-2851.md",
+      "sha256": "bfdf04c0d15d7dc4a67a9e302ffe10d5c2e6902947e23e7c353708f5206c8d66",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1594-2024-sapl-2850.md",
+      "sha256": "e76eccd3b2ddc07ccc5c9db82a228ba486a238e2a6d346698347895982404c9b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1593-2024-sapl-2830.md",
+      "sha256": "42e3d0a4c7d838a7803c0216db46962912d9fa33323d103e0561815f231ff538",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2361-2022-sapl-4606.md",
+      "sha256": "c7098cc8ad87333e3a7b7e619a5d61797fca09c8065218bdd12cd6cbe81d2d21",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1592-2024-sapl-2829.md",
+      "sha256": "990809d8813698a799aa6d7a73398c1e2e9f43566335f741cfc7d1a103421c8c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1590-2024-sapl-2827.md",
+      "sha256": "6bf2a31238ee9d8da176c7f3773cd873864dad5fa2725a3b683fea9dd893af33",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2358-2022-sapl-4599.md",
+      "sha256": "1a69b92c57a74cdf7d8888cbf352e32d3a37fb849ccbec63ea5c312716a5243d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1589-2024-sapl-2826.md",
+      "sha256": "8bf81b45387d58f8a5f7edcb8167fccb74fe5d6c2d7b358b024a98b39c5a2e02",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2356-2022-sapl-4597.md",
+      "sha256": "f1ea41924c28dc095941e7fc47b4d82ee046897842e8b960aedcc95fc0c113eb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.910-2023-sapl-25127.md",
+      "sha256": "8dd9a0d3921e00a6fa3f1b690e7c667b73598b45f1adf9fe017dca92f365d983",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.908-2023-sapl-25125.md",
+      "sha256": "f17dc1997e28af76039ef64f1d6369e8579cdde9ec0eb9a3c2089d17b93b87e6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1586-2024-sapl-2534.md",
+      "sha256": "17e09ff31da61921005ebc614b4831b8aacac37aca68762d62db9fd97b748dbc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2353-2022-sapl-4591.md",
+      "sha256": "cca2256ff93cfe3e6ed97b27e6dedc18f50252a734e49cd722918ba7fccd8d69",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1585-2024-sapl-2533.md",
+      "sha256": "debada39b42299c6bc4b32bbf5306019535c70b7810196d3139fbd76041188f3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1584-2024-sapl-2532.md",
+      "sha256": "fa7fde64a9de11a90ff5804ab09a4046f72c3a5fcb129fd21b5d2576537e2d85",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1582-2024-sapl-2530.md",
+      "sha256": "0971665961d48b7b9dc5a18bfc47383ea6f49c8251ad7235293537afc5e5d70b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2024/resolucoes-4-2024-sapl-2743.md",
+      "sha256": "93d8e0b9a355309cf549f32f670f202554f13e918f5fb1841114d683682a4844",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2346-2022-sapl-4578.md",
+      "sha256": "ca49f62249ee31e5de52e4a7ead696c2c66de32f945d652fe5e255cb84840119",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3021-2023-sapl-25141.md",
+      "sha256": "02012b014fdd94371200e0ad2c779a4519e7c4c0f3595993ef58c9a42c08099b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1579-2024-sapl-2526.md",
+      "sha256": "ae6f440f839a844a422a8518b088ecb7bc52d4ac0c5a528bec5e08ec4c1cb9ac",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1578-2024-sapl-2525.md",
+      "sha256": "fe69353274a106c8685c7e6254ad66c48e23fba88ab929d0c0adb0da988e31bd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1575-2024-sapl-2522.md",
+      "sha256": "8d5cc845db5d528953aa90c7da49b0cee7ed539a677b2310cdf08ce3d0b26dc0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1574-2024-sapl-2521.md",
+      "sha256": "38fc8b5fe15737b3b14b1ca78f089b7b71a88fcf51767b14679a0efdf0813fa7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2341-2022-sapl-4568.md",
+      "sha256": "8340d64c804b5479fb86dc9aebbc93346638bb0a6f1427994b86767e32c512df",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1573-2024-sapl-2520.md",
+      "sha256": "86d1d16f84974f06d3a25d315327b62cf481288f0a7930cbaf766c88083d137f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1572-2024-sapl-2519.md",
+      "sha256": "8f1b826d70c7bf1d737c003b1c3399675d00847770429566a6ff6f43c03be50e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1571-2024-sapl-2518.md",
+      "sha256": "2513de92da7176caa69de8d36e6c0529cb4e7f0c05af5aa5f3ebdac924fce4cc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.893-2023-sapl-25050.md",
+      "sha256": "330e73f695b9d8224737d5b8eea979cf51885183661640d3d7e6e5ff811ff8d1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1569-2024-sapl-2361.md",
+      "sha256": "9ba36050c4d445d4caefff864f5b09c33fbf2205374e399dd42b41fead36f3b9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1567-2024-sapl-2359.md",
+      "sha256": "adecd9b3a8845c6846d58641c053a8bb7e88f5afb2dcf79a818bcd7b1135944d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1566-2024-sapl-2358.md",
+      "sha256": "84632f9ca59b2325e32dadbb12a7292926f0c0162c6a3e866957db2a14752129",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.888-2023-sapl-25045.md",
+      "sha256": "7dbb8922670d73665768212dd31e9d389e51e3420b53e6888ed5050133dfdb6c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2333-2022-sapl-4558.md",
+      "sha256": "3f01198907a0a05dc3a239b2775c44cdc9dfb39a4038feb89acbf6f70b068ee2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.887-2023-sapl-25040.md",
+      "sha256": "f167f761d1221ed10f036b15cb386844ac4daec2c7f12ed0f9501f7d9a23c7f1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2332-2022-sapl-4557.md",
+      "sha256": "77d9d9f8b4aa0c6777a66694ed7eaa7d3e1065e206bd7b97cefe2b7b0b5d82ad",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1565-2024-sapl-2339.md",
+      "sha256": "a40e187487f0fe133b556af1d47a2abe56cd5fb82981d579865ad39e83709ec5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2331-2022-sapl-4555.md",
+      "sha256": "fa103c72e7590d6f4f05d75b18755401eb1a8b8957677f2d2a6688f3d10dc8c0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1564-2024-sapl-2338.md",
+      "sha256": "e03a5a5e8c418ece9c61956d0ee941fc2d5662aa95c7d8b7820aac7dfa26a88c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2330-2022-sapl-4554.md",
+      "sha256": "75b96c53eec0c866ae832c0ed075412ba86b1933c3ec707fb6c5cf914b61cbf9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1563-2024-sapl-2337.md",
+      "sha256": "f5865434f420fd666be75fa5e2521369bd9c8cc690ba1be87da8eccd713d6a66",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.884-2023-sapl-25038.md",
+      "sha256": "631f0eb11ee362977d5fe7b5263f1096911c9087c77ddcb5bde950b38ff89e53",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2328-2022-sapl-4551.md",
+      "sha256": "09ad350ff9d879bce7dfb3a20b4c1084fc0ad135c9d6040ee23b20b8d04a5b88",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1561-2024-sapl-2335.md",
+      "sha256": "34320102ada7781f69536474d382006890e5ef66e16232e903539bca5f027ffa",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2023/leis-complementares-936-2023-sapl-25024.md",
+      "sha256": "783953df167bc88c855c4fd7bee572398b2826c63cfb22cc52753644f6765a74",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-complementares/2022/leis-complementares-35-2022-sapl-4546.md",
+      "sha256": "febb583b3474ea1432c5d8cc52903bd1533ac11e622d801911906cc5ed2ee594",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2327-2022-sapl-4550.md",
+      "sha256": "97e38251369755252fbf10cc42d8ffd4154cc180d6575a032965bcff35d114fb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1559-2023-sapl-2333.md",
+      "sha256": "4b5431d13f80b1d1efef45c876a2933297acac63b93a67d16025e37060146e7b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.881-2023-sapl-25036.md",
+      "sha256": "d251dd66e59c2d708270b8e2b75388820100bf6c8c2e99d0329e34ae159bc9e8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2323-2022-sapl-4544.md",
+      "sha256": "59492e23824221aeb692ed1565a0d37f48f4accf5a1fe5bf6adbfcc8ec0c3ade",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1553-2023-sapl-2289.md",
+      "sha256": "6bbef022293cf4579de96e7a34e6338cbd734ffd9009e1646d72e3643f3c0828",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.880-2023-sapl-25022.md",
+      "sha256": "25894ef14d2a92679b28dc9a242b22ad599155528317f86d49480f647990efa1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2322-2022-sapl-4543.md",
+      "sha256": "10963a0708f88ce5832d8e55a73c16f23d1cc43ba4620d40e166381bfac1cf7f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1552-2023-sapl-2288.md",
+      "sha256": "58a791c71006a9ce64986997a0a8e6b3aa08950d6fd2cb6a403f799dcee3e423",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2321-2022-sapl-4542.md",
+      "sha256": "8ec0f02c90f8c9c54f79b804b42ce83a6602d6462d88c9852fff90638de9f156",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1551-2023-sapl-2287.md",
+      "sha256": "ea58b8d6596cd1779c6d173a7e113b93bbea9c42e0eccfd54eddfe41ec292a2c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2320-2022-sapl-4541.md",
+      "sha256": "be2a6b0b3b3918a527bb92988a795fa5a5a1159a5ae98516a7abce3f04ce773c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1550-2023-sapl-2286.md",
+      "sha256": "92bcd90d10b652bbe7516105fbaf68fd482c1d259b662f6ad96b31a257cf4f59",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2319-2022-sapl-4540.md",
+      "sha256": "1d2378b0c7352feee79c433a76213780f11eb1dab74e3b6bd42f58a19ab60ff6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2318-2022-sapl-4537.md",
+      "sha256": "60f511c26335bd704af4e2484c0c929748043c8d098f084f74b5ff2c625faf7e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1548-2023-sapl-2284.md",
+      "sha256": "27fb731c12e77bdc9565f53b519daccb5de38fbb9f9a748b010267ef93416d5d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2317-2022-sapl-4536.md",
+      "sha256": "0d7523b5fb457dfc57dabfa2b7b7a03519ef14c0a593f3544a1a1ae1f4a96fa7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1547-2023-sapl-2283.md",
+      "sha256": "5e9f7a44f817e1bd66d935249ae33db75bbffe516e4e091444f975fa1c98d3a7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1545-2023-sapl-2281.md",
+      "sha256": "d2c303773b78188ba8a1129818e3e92b8c5e8db58fcbbe649d8accf675b98638",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.872-2023-sapl-25018.md",
+      "sha256": "4fff04b4e8aded81f7b3a3b94dfedf12ae4bd1ea60315a48c274673504504b22",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2314-2022-sapl-4533.md",
+      "sha256": "b42b45895aaafdde15d70912faf5d6733bcce48d2988a01085ceca28ebf4aebe",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1544-2023-sapl-2280.md",
+      "sha256": "5dba0c7acace95b2c208a205573567e3e110688543ab016b9e6ab6f3400a1d2d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2313-2022-sapl-4532.md",
+      "sha256": "b7bfd4c2dcf4e6ea47ff541034cd07de1e14419e9ac4c744b5746c1b8a7b2e0d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1542-2023-sapl-2278.md",
+      "sha256": "68bfd9c98da0862dff8a5f155e667b8f0c98bdcad60f4fe6148bd0307c36ac07",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1541-2023-sapl-2277.md",
+      "sha256": "4ab7e847aa2a71168cf5d427eb4d6532dbfe1f73af34eb8d40237069ae9b1688",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1540-2023-sapl-2276.md",
+      "sha256": "144bdba28b2582eb2960e14bf499956b28766b616d2754276c109865da006378",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1538-2023-sapl-2274.md",
+      "sha256": "95c25671ce0baa2a17942688b54a72d7e3c09bb1dcf24075b37cb79ff49c747f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.860-2023-sapl-24552.md",
+      "sha256": "4895ba534e34633d8befcba7e34031820b18e8199412ec6dc30780cf0bd9a0f8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2307-2022-sapl-4526.md",
+      "sha256": "b740adb77f1e163a8f8f59b9caec1b83cb9c62299065e32390c2a9392608c67f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1537-2023-sapl-2273.md",
+      "sha256": "c60a2bdb4cf9ce6bfb8fe3c8d6b3239d6e7b1fd2787239131261a8f7dfbac6ce",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.859-2023-sapl-24551.md",
+      "sha256": "c67941a7b17ad0e903d17e4ea6e2dc8097e42bcdd2bc8c3923d6c8afaf7ac54c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1536-2023-sapl-2272.md",
+      "sha256": "a4b0fbb5f868fdba1bf041ad80e07e3fa68bf985eb9eca253872d5f200dbfa5b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1535-2023-sapl-2271.md",
+      "sha256": "867fc72358c751494e981b79cab72c7bda49be05c11ec6e06676ca7499e340cc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1533-2023-sapl-2249.md",
+      "sha256": "619fa8e5f2ec184d0686012d0bd2a58d9f6f07c980bf331728803d20068bad67",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2303-2022-sapl-4522.md",
+      "sha256": "092407a28fa01e9df34fadec176b1c29c13c3d9e57095fbc6dc1f7bfdfd25ebd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1532-2023-sapl-2248.md",
+      "sha256": "c463d727f01ba65e51003935ad4c87962df02e16727a9c7ff8129fe01c704743",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.853-2023-sapl-24286.md",
+      "sha256": "0bba3fd8bd625c695fed6f36ea43b97f011847216a520f58085e89d0a0a0c23f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1531-2023-sapl-2247.md",
+      "sha256": "c73f98bea5fc23211c19b22457b9a749663427803ab01f91afe610b1d528883b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.849-2023-sapl-24272.md",
+      "sha256": "ef0c4ba81029c2b1518e0ee28736ebce17e2df38403bfddc02ee51112924f2d6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2301-2022-sapl-4518.md",
+      "sha256": "827ba365d73b8b891709dcdbfcb365d6e25eef55462376131f9044fb23943230",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1530-2023-sapl-2246.md",
+      "sha256": "a02a783a969b11af85ebd7bf89b64c6d8bcbddc1a329f69031f670132284c25a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1529-2023-sapl-2245.md",
+      "sha256": "f95f2693f8aadf817ed093e9801cc045c8ad5837938b80ad5cc12cfbc2b79cf8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2299-2022-sapl-4516.md",
+      "sha256": "758065312379c031dda464d175a001a32d84f82d739d249b3298d9e461a88cd7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1528-2023-sapl-2244.md",
+      "sha256": "1a696e5dbe690f5c796d065b77281004bd8d9ec282f82dbcf3a748cb3f38ba97",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.845-2023-sapl-24249.md",
+      "sha256": "50af50b738076a4b9e9fcc1531f7e39776637ef5ff992469f0d9e9ed57a040a9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2298-2022-sapl-4514.md",
+      "sha256": "d5893ecafbda0a118108412a880b3b1b63eb62bbc8999a41041dd86dfb8ee0a5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1527-2023-sapl-2243.md",
+      "sha256": "cda02e2c4c782522b068d850e6fc4e0246bd2b2ffacc2ac501d570173e37a636",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1526-2023-sapl-2242.md",
+      "sha256": "b4d1dd9258fde76ccf9a77b47a36ef9fdc3b4604115e13486b153f8cf6880844",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1525-2023-sapl-2241.md",
+      "sha256": "fd6c0e8f3e732e1097814875a4308ba2eb3e5de58e64dfe20c4ca40748ba4655",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1524-2023-sapl-2240.md",
+      "sha256": "c8227de510ca92e201ea7f333bb77fa082b2716e2a5b3a0c17168466ab3498e1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.841-2023-sapl-24081.md",
+      "sha256": "187ec8a706c94383e343408dbe26515fbac421bf19439c5e69417b8bab1e72e0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1522-2023-sapl-2218.md",
+      "sha256": "a36efda41a9d0c303dc5a090c398d0690e6967fffda1e6c7750f8f2848facf9a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2292-2022-sapl-4508.md",
+      "sha256": "ff839869a03777770932d71ccc5aea4d2b5284c1072f251fe22a1b559c62e3be",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1521-2023-sapl-2217.md",
+      "sha256": "408146ab753063ca060e6319181c7d5f666511a03834fa9768b5c95b2de56489",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1520-2023-sapl-2216.md",
+      "sha256": "45cfe1fc5cfb85e9def5e7134998d4a6c17159608b41385ad42b834d1018dd82",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1519-2023-sapl-2215.md",
+      "sha256": "1d5ee996893d94cd182a0bf854cfd8d589415f07ac4a5a2d1414f22c90db0014",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.832-2023-sapl-23953.md",
+      "sha256": "f9f31cabd4cb5b4a2ab28149c0a836eb13ea8d80e71660e87780f8b20eabf935",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1518-2023-sapl-2214.md",
+      "sha256": "08a9213baf757e9b7f051fb6f4388c4883b783e28ec67bf2a50d935671f93712",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.829-2023-sapl-23947.md",
+      "sha256": "65f8915977604394f78a6772b9a6adbb35dcc41c4314eef633a7240000ea361a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1517-2023-sapl-2213.md",
+      "sha256": "e055bcc284ff038cbdf95e0ce1914c5ba9c1eba9f89476f2cb6fb518f228ec18",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2287-2022-sapl-4489.md",
+      "sha256": "54fdcdc09e2313feefb42a66128f6726d30b3a9fcd9669730b6ec24017d0f19e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2286-2022-sapl-4488.md",
+      "sha256": "8feefd03745bc70c879c83b45191d72718ea7f3563ef69868f20645eff8f5eda",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-complementares/2023/leis-complementares-7-2023-sapl-2209.md",
+      "sha256": "36c399d818e7a6203e7f36ff113161a3328b6884a35bd1385512b42c98e07d37",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1515-2023-sapl-2211.md",
+      "sha256": "d3edb51f973999c3431b5a085618635c3bd83db9c2bf12f0fb9ac9c25277f724",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2284-2022-sapl-4486.md",
+      "sha256": "57fc520e49f1a7a906dd4dc98eb558b3359b99a144fe4f6f5a0007af6a0e79b4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1514-2023-sapl-2210.md",
+      "sha256": "53c857ccbd4ad4ed20df5c949e4c48b33b16683a2a6ed719d48187b9ce932595",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2283-2022-sapl-4485.md",
+      "sha256": "29b68926add853d9c0a6093461c2cdc844b0c958d902b2c11e3f0402148ea45f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1513-2023-sapl-2167.md",
+      "sha256": "340719074eb88395156f1f8f36967a29515b861a621f5414a49460cdf12251b9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2282-2022-sapl-4484.md",
+      "sha256": "ffabf2bdeacdc7e65f5db39dbd72a69e24128302335b75d3beb6d5024ee685c0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1512-2023-sapl-2166.md",
+      "sha256": "b66fcf96fec9133f7924d0b8713982ec35226a74f191361c000bb48631b047d3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1511-2023-sapl-2165.md",
+      "sha256": "a2f91e422f1d68edcdd0170d5dee9fab056401b39c620f119d31b4c9cc5111fd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1510-2023-sapl-2164.md",
+      "sha256": "c9e8d6440fe4ab92b8df2cbc25ccaeec7673009d582f09e081246e5d847987e5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1509-2023-sapl-2163.md",
+      "sha256": "5f37239e1f3b62c772a295055a34d4208283c25c5ba162fb0bbd806d2c6c07fd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1508-2023-sapl-2162.md",
+      "sha256": "791503fca9bd3a55602b3bd62141cc7a6eb88c34e53298e011352cbcedbc2e28",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1504-2023-sapl-2158.md",
+      "sha256": "12f743cb6596c9a947527dfe4046a90be55bd2fbd14b5f37e76a7097f98e50c1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2023/resolucoes-11-2023-sapl-2169.md",
+      "sha256": "5bf244abadc41b704c611abcaf04fcf66bc449331b8349d27fbf4e41bdf2aa55",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1503-2023-sapl-2117.md",
+      "sha256": "e12aa34c09590feab12dab3948ec00ce619d858d7e99e24d44ff196b0c6d2fb6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1501-2023-sapl-2115.md",
+      "sha256": "6ce1adf2c2f705ef1e3bcdf3b09a6c8e8a63c03e09b01907ee95425a231b1042",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2271-2021-sapl-4464.md",
+      "sha256": "a1b6e2e1f66953ecdf617e6f7a003583f7e8f0d2b0a8b8ca0328e7029304533f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1499-2023-sapl-2113.md",
+      "sha256": "c15901fcb5bf8f19f1c3345be23170b8f6e1008623a0c2ce2f7e323480322e89",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2270-2021-sapl-4463.md",
+      "sha256": "22fcf12f5d28c5c934dd5fdf2474f97c431eafeda987e8a17ccb393f95628f30",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2268-2021-sapl-4457.md",
+      "sha256": "a71c7290be32edc20928b11c293cc4fbb14c853c6214e2e1936bb9d0a02aab56",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1496-2023-sapl-2110.md",
+      "sha256": "7502a062dd92512ce30bceff1c3ef243d16db3d8ceaed80b808309435e95bdb5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2267-2021-sapl-4456.md",
+      "sha256": "fdb58ed8e493792aff1e23509e96456f25e6bf4243534c85ac3163ee2ef7a915",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1495-2023-sapl-2109.md",
+      "sha256": "88b63d11f31a9be8a4c4b226b20aa99d94327c0d5286d9898347a2135e02ce11",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1494-2023-sapl-2108.md",
+      "sha256": "ed3b2384ffa5b44ae59588be4840bb52fe48b743c3a7884127608d447b1ca74e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2265-2021-sapl-4452.md",
+      "sha256": "200171f3b1acd8ca1ad1c36cd491c54e756fc09b5cc8f10e2fd6240caf38bd43",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1493-2023-sapl-2107.md",
+      "sha256": "2f944987fd5270d8c05a670a1676cd845296307c1d4adb596066b64e7c7881d0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1492-2023-sapl-2106.md",
+      "sha256": "17be8c1840d2b01586dea5a3ff6a0c3e50481dcb3cf85d2fb3f39da53f39ef63",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2023/resolucoes-9-2023-sapl-2068.md",
+      "sha256": "9b83049618145007efac5592e7097dd40461612ea9eb56c93c06b2cba7e83d06",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1491-2023-sapl-2075.md",
+      "sha256": "21562774aa166ba63483f02c20bdb68027267bb939622b1b75a04d95d241064a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2261-2021-sapl-4438.md",
+      "sha256": "6344b81351b90464f3a99e3f3c7456fff5ac7262e3580f93342d9fa28d2ce33b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1490-2023-sapl-2074.md",
+      "sha256": "16dbf66185f4a35a0fb317c69b70716c8c872cf7b317e36754d391e748c0bf58",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1488-2023-sapl-2105.md",
+      "sha256": "d9534528e4d4cfd19dd720fa6e81de92d396b82b9aab313fa2251ebce91ce6a0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1487-2023-sapl-2104.md",
+      "sha256": "d25dbec64a82fd1163d47875e04d1e1e3f80d46a1ca81dc3958aeccead4974ce",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1486-2023-sapl-2071.md",
+      "sha256": "cf468a9fb6041387d76b1ed9e3fce714738cf00e904b6dd389c52b6620a5969d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2257-2021-sapl-4432.md",
+      "sha256": "b21cb910f6c3bcd176cca4586a5415bea6a5f33c3023283b684e8c453fb5a488",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1485-2023-sapl-2070.md",
+      "sha256": "fd910dc97037dc53072c549954e8787db39e912ad10c477cb17d053b1f1e0351",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2256-2021-sapl-4431.md",
+      "sha256": "023071862d5b7bc16e162461055ff4c9baebcd1aa8365d2a156b634380550e70",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1484-2023-sapl-2069.md",
+      "sha256": "fee4c6971ca9709187faf3d53ce612fbfb95337209480fef56bfe995deedb0bb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2255-2021-sapl-4427.md",
+      "sha256": "cb901a3ec6305905f50602ecd0a5e44c519ba1743d3e79e34800cbf7ed00d56c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1483-2023-sapl-2043.md",
+      "sha256": "52420acdbaf693c9b1ff7933750ff6a3030dd2f206fd8d761c44ba4107d491aa",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1482-2023-sapl-2042.md",
+      "sha256": "812b7a4f6a39c5f72a0cc0fcf1b97ecb1acdde87dc2e31397d24129f982b528c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2254-2021-sapl-4425.md",
+      "sha256": "1a91e4c96abd2ef851c8bf07ce65b5cb46ffb116bb6aeb315fcf680294e83e47",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1481-2023-sapl-2041.md",
+      "sha256": "8cf2c3fe03f86f772cd8daa8fbd698c0a4c8c4ddd92dd8c1c1df7780a0d12dc9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1479-2023-sapl-2039.md",
+      "sha256": "c1fc37180de5ea6d728e2c41e5bfd041299fa6fc00f427bb7b552767cc405525",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1478-2023-sapl-2012.md",
+      "sha256": "31f2416b7d9ff30825d7f8bbb018c1ef2f38f88c5fd074732e8d7318e16d6747",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2250-2021-sapl-4421.md",
+      "sha256": "f55bcec4d076dca82c2717eee0f3f3e53261ecb2683c0b69e15d0d556dcb3388",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2023/resolucoes-7-2023-sapl-1975.md",
+      "sha256": "8a50bbdde977150cc6302d5158c546a1e55993c7520327b5c994fc8ff56999da",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1476-2023-sapl-2010.md",
+      "sha256": "8814a84cf701beb116dd06253f72269bde36993129f64e48ed5528e9a71eed0a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2248-2021-sapl-4419.md",
+      "sha256": "63dff3b76b83f759628c522742e05dd76fa3b07ae2804b6d35e1a7040d495d74",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1475-2023-sapl-2009.md",
+      "sha256": "b5b87f81345d37b688c80c01027ee9f53a5a9b3543e5575485f3e7252e6752a3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2247-2021-sapl-4418.md",
+      "sha256": "98ea7c00c77255167db4110c4e549bcfca56a87863f005f9cb4ecfc8f3b498e2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1474-2023-sapl-2008.md",
+      "sha256": "55b374c992d047795518470cee1c4f9ef8ae77a4c8a84fe0e50dd59ee9c49a92",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1473-2023-sapl-2007.md",
+      "sha256": "6ab1bf80ee279d618ea9d0c7d06ff9bba219c403da3000e302108a915727b8e1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1471-2023-sapl-1966.md",
+      "sha256": "422fe2aced6c538839a5549835985c828a10fdc46d4326d7dfeecb9c0f7d771c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2243-2021-sapl-4409.md",
+      "sha256": "27813e99c009f89678cfd56ca0f45796f6192986018767c7eca3a65995e0e892",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1466-2023-sapl-2005.md",
+      "sha256": "6a28c1229f04a1b2385eca76e5c2047a0970fea4c7ef241268416da480a9dce8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1465-2023-sapl-1962.md",
+      "sha256": "2dd4b647b2b0911d1f0e06e736fe10f1c141c7f17f9d88d9f63608f4f665d9f4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1464-2023-sapl-1961.md",
+      "sha256": "bf6649ec15dce44288b6e8f27188a22995a7ba0ae08c71ef9e13e7b34364bc10",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.767-2023-sapl-23713.md",
+      "sha256": "fbd70ec0a350f64af7598386a73bed052a73cb47ccc2e5d7554109100f01986e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1463-2023-sapl-1960.md",
+      "sha256": "275c354258c12731f2fba207232f28c73cdafd8940741fef3e24b67185314dbc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1462-2023-sapl-1959.md",
+      "sha256": "1b17c21d9bef9629ff2c3c35558b136795af877dc01049282d90b316535d07bb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.765-2023-sapl-23711.md",
+      "sha256": "263b13fa71ca4dcc522ebd4dc85e2cc1a457f37d48b130d995e4c658c0340ca1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2237-2021-sapl-4400.md",
+      "sha256": "1aff5733b85a76d8c02bc0a23eabe1c41af8fc9ab23e4c936fadda912ee70e39",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2023/resolucoes-6-2023-sapl-1973.md",
+      "sha256": "46c3c153a3bba597cf0726754ea07a8b5098c51db238993c931f730eae9cf6fa",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.760-2023-sapl-23693.md",
+      "sha256": "f2a0254223d141e7dc4b0881cfb9a2906ce25a342b6cca077022ec9212e33da7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2235-2021-sapl-4394.md",
+      "sha256": "dfd866a72ce327872d72d13d2c1422f9e26682866aa1a833664b05951d5958f4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2023/resolucoes-3-2023-sapl-1970.md",
+      "sha256": "056db0f90e6890071da8cce495cf1ed6b3467520a4641f06214c756ec1cba450",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.756-2023-sapl-23686.md",
+      "sha256": "c235819609117e3ea778761935648f45718bf5ea9eae523d42d95654447ab1a7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1461-2023-sapl-1958.md",
+      "sha256": "bf5ba9cce5f687fc55d0e37a0ee8e0900b1ff35dfd65fc4781fcbdcc49d8a449",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.755-2023-sapl-23685.md",
+      "sha256": "9bd19889f428082d183f69e093216fd0e312ce2bd77145b177c346904daa8269",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1459-2023-sapl-1935.md",
+      "sha256": "1c6c8979655f3cc6590fa5c3b8e83e6e36525d81a897b7e89f85b457b429bc06",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1458-2023-sapl-1934.md",
+      "sha256": "c730f09f9f9bf7091a3347101c05f595972ae1cc6c2d2f957bed81af1694b2e5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2230-2021-sapl-4383.md",
+      "sha256": "31c012bd6c9613fb5e63571383497f2e7bb7ced431e9ed9a9de7f0426f2ba3d5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1454-2023-sapl-1930.md",
+      "sha256": "530ba3fe067115e936a4ac1b2cdfabb334649bb30f14bc590c48091b4af248d8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2228-2021-sapl-4381.md",
+      "sha256": "1bbd8bc20c0e8f7e1565a6665d37eb6860cfe7fdedc51977645cd523c2b11b80",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2023/resolucoes-1-2023-sapl-1968.md",
+      "sha256": "73a451aaae30f5613151f7af436faba802d643b18a343b011fdc855f55d11409",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2227-2021-sapl-4380.md",
+      "sha256": "0067f789dd3c260badf99ea3185bc51f3f8b7972e3a4e426a6271451f64519c9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1453-2022-sapl-1929.md",
+      "sha256": "89ce853dd7d952b5eb10b385de2cc424d647f981373d0a80a3fac79d585b9567",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2226-2021-sapl-4379.md",
+      "sha256": "5c1eb0db6c1479070bae8086e8ba8b67a9cafb4135f4923517679cd4b5cd1daa",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1452-2022-sapl-1928.md",
+      "sha256": "e1acf718a5f1657de5f62e4f78c17585aa594e52e3525896bbb61885381cb392",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2225-2021-sapl-4377.md",
+      "sha256": "9554624b19e1c30d838795acf911288bf796f746b909cb225545390af006540e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1451-2022-sapl-1927.md",
+      "sha256": "cde0ebf749c99940b8014273c537f4dc1453d600bcb2effcd64d0b64715fa9f4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2224-2021-sapl-4376.md",
+      "sha256": "f6b5328bb0c0f872f0c1fb2613424a53ea34f041e0e8e4009acfe83162ba8182",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1450-2022-sapl-1926.md",
+      "sha256": "42d8a5f1e011e041037f558c1cb6add70d0c4bb2481a2799fd9e0e8d6e824193",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1449-2022-sapl-1925.md",
+      "sha256": "2858dc2e4b441f53ce35778cd10a7a5606cf9b442bab025fe429d913879c3f83",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1448-2022-sapl-1924.md",
+      "sha256": "98b47ca52e455213378802d2b899df29e039218b8a9c82f7e9102660fbdae350",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.740-2023-sapl-23668.md",
+      "sha256": "de248b384109c06ea149fd3874241681d1e5a804c773767b399601f1a69ecb17",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.738-2023-sapl-23667.md",
+      "sha256": "e7b3251e39a58b266be109742662a7835754d524f3cdef32252f4fc70b10193c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2022/resolucoes-5-2022-sapl-1839.md",
+      "sha256": "f9d081b7ce0f0df13286eebb882874ef56a41a82921c8b995fd3a7bc480ce85a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1416-2022-sapl-1825.md",
+      "sha256": "b1d9852688b98b8d41ce5753fe56b86283f58e6d7b174e5635b8fdb97f699412",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.736-2023-sapl-23665.md",
+      "sha256": "8e85c861b3275a5571260aac15e3f6f060a637b2d7cbf7da391aabbd9ade90f7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1415-2022-sapl-1824.md",
+      "sha256": "62fce7070d8bbb13587f1fcedc72645747ad4816de5ba8c7e7a5f0f7439695a4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1413-2022-sapl-1790.md",
+      "sha256": "38c2240292bca59116f501c9f157d408bc18f2d7de26f364c42297dd69bd2abc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1410-2022-sapl-1787.md",
+      "sha256": "faeafb0d3f7f53b306d426647abd462198c1eaee325aecc4a6c0d72e61dfda65",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2215-2021-sapl-4366.md",
+      "sha256": "2b5a9f4c3352488307b7992fe5ec3488106638b73972e4a7f3f97d1795a5878e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1409-2022-sapl-1786.md",
+      "sha256": "c9341157a7033d57294304d8b37054c3b2488246b581d9d354dbc08aa86b428c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3009-2023-sapl-23662.md",
+      "sha256": "bb86ce50a92afcf89222efce65c0a27b17566009cd671f71f0c1e57f9bf365f7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1408-2022-sapl-1785.md",
+      "sha256": "c4b84890393cb74ccf76460884cfcda420b2547ffb2f20a53df1e97c56f9c2e3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1407-2022-sapl-1784.md",
+      "sha256": "54ced2abc943c936c7bce87e886d60f8171106ba3920731b98462b798eaa564c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1406-2022-sapl-1783.md",
+      "sha256": "f754d872b3ccc4cef91127f3ec80179b5745d7b457608f034552c9032c186ad0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1405-2022-sapl-1782.md",
+      "sha256": "91f74034915463cfdcbd6eb41aa714448be1ef62dbfb5282f9eaa326617e6a54",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2210-2021-sapl-4361.md",
+      "sha256": "057604e454dacccd5372234e26c8ab06ab2cc3b2d3cf31b373939e85e691c981",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1404-2022-sapl-1781.md",
+      "sha256": "ba4e15294765edbbf0fa86ece3cb7fa53e2554c4a784b509af7ef9e348dc1ffc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2207-2021-sapl-4358.md",
+      "sha256": "c174a2296dc0482c8555e0334dbd41d4bb35522fc3e5b82057397a9d894a16f9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1403-2022-sapl-1728.md",
+      "sha256": "ad175e983c6c3495fc22f9e62a55dcba38585225556515690dab62b7d14e2f05",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1400-2022-sapl-1725.md",
+      "sha256": "052681f00314c665b0772855c24a3b4ddbb99e4b94b38c9a14b8045e7e3cd718",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1399-2022-sapl-1724.md",
+      "sha256": "4a536632b98e06716e3f40f17d7daac3bb40107723a855c2c4d2c0f505b03349",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1398-2022-sapl-1723.md",
+      "sha256": "c6bed48c4c481b3994d392b09e5f17d1c260dfe88cce42db5b5a6a5538120399",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1395-2022-sapl-1712.md",
+      "sha256": "a2945554c36c81d08f0282d319742b650a03a675c23fd418bfdea777ea17c871",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1394-2022-sapl-1711.md",
+      "sha256": "b19617ab9c0ad704376f4b3cbb6c42bd53df8967fa83e5b3578e7174231cb9a6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2199-2021-sapl-4333.md",
+      "sha256": "123c4efc9238e9d0cb02713746093381f35f0d883ad705922b3d925268b6afc7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1392-2022-sapl-1709.md",
+      "sha256": "0c66827f19a623b7dcb056d151b112b2b544e2bc59d6c029cd63dd641a14c1d1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1391-2022-sapl-1708.md",
+      "sha256": "b1ef961293e0d74e267aef4eabc3b3a6dd7bed4a4762278d94ff987e2225ec01",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1390-2022-sapl-1707.md",
+      "sha256": "b4e281b1fd63002f9c2bef83e9fc916b1bfaa65805c365fba4c293929ba034c0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2022/resolucoes-3-2022-sapl-1715.md",
+      "sha256": "3234ed5021d362cddeee06cf1e14d5a1a6f8abad68a7c1c65b80c87198b030e8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1389-2022-sapl-1706.md",
+      "sha256": "241c0df276b10669a73053e27f9633dd32c43e95a30ac697b0382d0ec792879e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2192-2020-sapl-4305.md",
+      "sha256": "a23761798e8a52be3d1ede05ef0bc6d3be5e6e818bc7ffc8572b1816e74e277c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1387-2022-sapl-1704.md",
+      "sha256": "bf723b7bd2764835d0b4c432f14088f5e2f462c693244e58c63b1d73a7af9b7d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1386-2022-sapl-1703.md",
+      "sha256": "1d1297ee91ed03ae923e130d21f6e08798ed85d63ace7dff982c1c77f0954a80",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1385-2022-sapl-1702.md",
+      "sha256": "08ae572c8c5c49d1d0769a4a22ce5482c90471a637624d678644c2d7b927ee29",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2189-2020-sapl-4299.md",
+      "sha256": "3e7a8770ef870bd19464f9ec0a143269c075fcc2f75fbefee47e7a105f8c5f5c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2188-2020-sapl-4298.md",
+      "sha256": "f4f63f999334073130b8e16170f41f97c35080576f0438eefb798d93800dd258",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2186-2020-sapl-4292.md",
+      "sha256": "f392fa9e2726db50864accd9bc7c96c37df5da3a9bd771fd39afcc79fb631ad8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1383-2022-sapl-1652.md",
+      "sha256": "bdf6ae6a3c8e48f2f0d71d0be9c5b39ef99e5b84e44a073aa60051dfaf366b63",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2185-2020-sapl-4291.md",
+      "sha256": "45d7ed2581d42a1b2e5606cbd79e3e694c3d9832e44b993fbb75ca0a14fa76d5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2184-2020-sapl-4290.md",
+      "sha256": "5b6355b055865621603bee7c918938e130bd10842d9e21c4cbc0292ac41f4130",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2997-2022-sapl-23553.md",
+      "sha256": "5c6667eed0f8a8795e787756c086c2b1b25f26f16ecbf637ddac8f2f2ea5fcb7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2022/resolucoes-1-2022-sapl-1655.md",
+      "sha256": "70b78fa38db11ad0d79f51fef3b220b31361931c10daefb28a595db62f2be3a1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1381-2022-sapl-1589.md",
+      "sha256": "f2ac4195ac6b01b2430f9860c7ce5a86a1c64d0adefc3d1a7c46095ef22c6c9f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1380-2022-sapl-1588.md",
+      "sha256": "450790f8986554b7e1c6b337727241063fdf853b3971d23349e5d44619ddd7cf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1377-2022-sapl-1585.md",
+      "sha256": "11352d830efd63d04294c35bb2ab669fbf9fc87601fb5529eed1c7d62d1e5e8d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1375-2022-sapl-1583.md",
+      "sha256": "b422055bec2899d9ffc126b6c65c8bec90c8d5a0dbcb3ff2a0d8af981dced840",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1374-2022-sapl-1582.md",
+      "sha256": "4faf0ed0c6f1e41cdef9797e9bf5b583be7139b34b0e930f716c13bc63db835c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2175-2020-sapl-4274.md",
+      "sha256": "ed5aa61f22c9b4fd3d7e485b30d2b36792734c2c895fffc6f52848c9c074f28f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1369-2022-sapl-1578.md",
+      "sha256": "02c2ba3b9fa807cdffb1c0299b1747f1fbaa011910e9ca46706f1d03da20a24e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2173-2020-sapl-4267.md",
+      "sha256": "a037ce12e6a7a322e8ecf4c3ba7b7e894bda5b5a97c173908c4ae25143667071",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.706-2022-sapl-23267.md",
+      "sha256": "1d7e6a42258ea835380f4aa2fedf82f632afd0da109ce0c220ff3203a34e7c36",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2172-2020-sapl-4262.md",
+      "sha256": "72d32039332cdd82ddc057c34f30361ea8bfc726d9c3b70e02a411045f330189",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1366-2022-sapl-1568.md",
+      "sha256": "a2225d1668af2e193351bc05fa59211d2d85aa057af2e37cabd0839e70811e49",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.705-2022-sapl-23265.md",
+      "sha256": "6a865fa9e1bf2beb332f96f836f57a58dd2e4a319ca8795b1c5710406bfed028",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.704-2022-sapl-23264.md",
+      "sha256": "b4b0c8d633262e1007b8a8292967b6bd787fd7d1f9cc217e4eb69557e25206f8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1364-2022-sapl-1566.md",
+      "sha256": "e7cc26324e5ee8782329132049911618f811d72104295b3948504f604aae3289",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1363-2022-sapl-1526.md",
+      "sha256": "22bdbb2eafd1a4859ab2b2947642714099931dbc93284829fdbbc1c0f7c670f0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1361-2022-sapl-1524.md",
+      "sha256": "95e68623d1f660c9415214ad0b9062f3c0cbdc111e4867ee204aad8fa4a560b8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1360-2022-sapl-1523.md",
+      "sha256": "41599850c90e458c8b6e3af9e2779190e99f01df0a2d5d10cca3692d2bd6e05f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2167-2020-sapl-4235.md",
+      "sha256": "0fec086a0a3b3d881a31fa51a46d7a9feba5cd1612189bc57c8c871cf0d660d7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.695-2022-sapl-23223.md",
+      "sha256": "97ccf640d45121df614fc9f7643a17fa105b1d3d04a0ba9b756e5ba21f3da1c7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.694-2022-sapl-23191.md",
+      "sha256": "ae2e23146be6ecf4865ba59edbba2e07c113a88b04c153b113cbf6b33430f346",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2021/resolucoes-10-2021-sapl-1473.md",
+      "sha256": "0fc75564468ff1bb1d7ddbd4870153803c8738583ead7ed3a9a395a73d182693",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.693-2022-sapl-23190.md",
+      "sha256": "7d960c589c909529b81da6b87f13faf1925f6f005773b645513ec8433131cbc0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.692-2022-sapl-23189.md",
+      "sha256": "22103f2a681ca346bb275637f754c77b673fe037ea348042ea1836009a52801f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2162-2020-sapl-4220.md",
+      "sha256": "c3bc4aa12402f13093dd989469e8def8dbc7662b79a03a56cbc85b31efdfa189",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-complementares/2021/leis-complementares-4-2021-sapl-1432.md",
+      "sha256": "3b12f0fb07ed1fab7610ed395b9804de542426bbd39bf75ce57c1fb20a17c741",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.690-2022-sapl-23187.md",
+      "sha256": "e979eb95fc244bda949a1e7a64ac76ae095a5e27df542996cb41e26142461c57",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.689-2022-sapl-23186.md",
+      "sha256": "31adb63c89831543ac521352cabb5fb63505323672bbfd3c13ecfe694689f51c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2021/resolucoes-7-2021-sapl-1401.md",
+      "sha256": "a5621f68bd23f7cf339514ae353c5ce28ba9b103a976583f5aa8205d1e9c1cac",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2019/leis-ordinarias-2156-2019-sapl-4208.md",
+      "sha256": "4df78c05e5f693ea06828c8f31932c844850b7b6f35523470de5f422aadbc6b6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2019/leis-ordinarias-2151-2019-sapl-4194.md",
+      "sha256": "6c24c945760b570c7dc431c20ed5c671bd27304f6093dcf30e1abc25f67e0ea8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2021/resolucoes-1-2021-sapl-1254.md",
+      "sha256": "b1fa697a605a738427cfb1a4dbd97fa28749a3ee35b411772b144a7613c61950",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2019/leis-ordinarias-2145-2019-sapl-4180.md",
+      "sha256": "90c0f9f6cea4b5008617427cf53133815a0f9850b4f93c16b508c450d7f0f726",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2020/leis-ordinarias-1238-2020-sapl-1236.md",
+      "sha256": "729334f0b9433cd0357078b7198b9043506717951240cbf459a18f866efc839e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2020/leis-ordinarias-1236-2020-sapl-1234.md",
+      "sha256": "0fe643f4858e50a6217788f62780e65312597f49b5bf64f14c336150ff55ca1d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2020/resolucoes-2-2020-sapl-1268.md",
+      "sha256": "04e2d51a80431f21a0c76cff62465cadeef8b37bafdd6430495d1f22ee4b508c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2020/leis-ordinarias-1234-2020-sapl-1232.md",
+      "sha256": "e3b446a4c5c877af81686068819a580c07931a5490d46298187c6741d5033908",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2020/resolucoes-1-2020-sapl-1267.md",
+      "sha256": "4abaff2f872ed66cc69c5db13a55093f8d80d1392603de79cf0b648332a0ca97",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2019/leis-ordinarias-2136-2019-sapl-4154.md",
+      "sha256": "35312b1c53097f06b725cb9138ab704808552a7389d662d2d15da6b8cf8ae590",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2020/leis-ordinarias-1233-2020-sapl-1231.md",
+      "sha256": "c9169dc41328d7dee8d9a228a0c2fa88e23616937ed7ff561ff2c9a8f6dfe5f4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2985-2022-sapl-22993.md",
+      "sha256": "3dfdc495984dfd2ae38beb1eaac68c1940be6ae0f8b5ab5293bf99c5476926e4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2020/leis-ordinarias-1232-2020-sapl-1230.md",
+      "sha256": "61c1156b7620a4083c6731cd3af249a13dbffad3c02cc666d0ef08f6f867e31f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/2019/resolucoes-1-2019-sapl-4139.md",
+      "sha256": "0e7c2bfd7af6207bfc8ef5bfbe283f497d413d5a14b969315e0d474b5168117b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2020/leis-ordinarias-1229-2020-sapl-1227.md",
+      "sha256": "815590f29c9bb3c8a7a8fd93f1dd4498dc3352a8f0153225ce480b2829e7c24c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.665-2022-sapl-23005.md",
+      "sha256": "1da95de72dd62a3e2ff7db39ae6dd7382eb83209a473dd48d8b19e932a214990",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2019/leis-ordinarias-2131-2019-sapl-4135.md",
+      "sha256": "a6b318ff30041a1d435c81a7774f2107ff8bbda58b2c28fc9c1e596a77cfd6d2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1227-2019-sapl-1225.md",
+      "sha256": "2845d8a8a3929105b8800bd5368102cdd240abeadd3a866430b81c8dc676dbc4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2019/resolucoes-9-2019-sapl-1305.md",
+      "sha256": "b263989487126502e7a9957dba60d2192cc5120823f877b565596f8aff404666",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2019/resolucoes-8-2019-sapl-1304.md",
+      "sha256": "d33821542f7d715371707dda3b632cdf6ec61d4b8fd971d002c0e9a8ad87d2cc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2019/leis-ordinarias-2128-2019-sapl-4132.md",
+      "sha256": "881af26fa7807dbee51adcf1aa5544e487e169c9cc276625d46982b1d837c3b2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2019/resolucoes-7-2019-sapl-1303.md",
+      "sha256": "5d273eb397d0e1c85b43c57fe7e1579340804e894c8b77d44f804d47ee5eae62",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2019/leis-ordinarias-2127-2019-sapl-4131.md",
+      "sha256": "f7c38eea11a9fc9b375d0e45524c8f00a3e07c0aca4df167f37d1954c17f3f72",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2019/resolucoes-6-2019-sapl-1302.md",
+      "sha256": "8baa5a80a3c76b1e65bfe388837d727dfbdb9711cfffdd36fb7ec07a480d4d37",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2019/resolucoes-5-2019-sapl-1301.md",
+      "sha256": "80717be56b81a41a22a6f804cd585bc620801433b3074f85d7f89e3d0bb869f7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2019/resolucoes-10-2019-sapl-1306.md",
+      "sha256": "a99525daa2b7d8d845640f46966a4a94a374d70bcb57b126aae0c8eafeec9af6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1226-2019-sapl-1224.md",
+      "sha256": "4f374ab8eceb420fbd8a2564d91913d465ee6c3af96cc4cb3c2ea5c013adb5d2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1225-2019-sapl-1223.md",
+      "sha256": "550ccb08c73b574ba474435f7808959736493da2bf18b734a00cf802460531ae",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1223-2019-sapl-1221.md",
+      "sha256": "f96637e55c603a535ecbf2686afb8a336d0ed6502dabd632bddb83b5009f411d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1221-2019-sapl-1219.md",
+      "sha256": "8cce2a03151f69582f1d9d70e6ebf6e284226f24947eee0b856f48d1c62566dc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2984-2022-sapl-22910.md",
+      "sha256": "c94688c2374c7c993b914dcc831e117cd1658842600db9eef51d763d8d7d53d4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1220-2019-sapl-1218.md",
+      "sha256": "7ba310b6697dd838311ebeaeccc0ce0c898f0797189ca8e39feeff3b8662dfd1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1219-2019-sapl-1217.md",
+      "sha256": "af47bd6c60d48bdf7653d0a64c0d4c093fc6770b08cbce975f308bfe3d26374c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2019/leis-ordinarias-2115-2019-sapl-4063.md",
+      "sha256": "dcba6b3df0df122f05eeae58297016ebee7fe9e502feeb8361c516e352c3dd12",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1215-2019-sapl-1213.md",
+      "sha256": "ac949448cde1e878047d7f4653b01d9e3f4a912ec75a5cebfa53bb97215a829e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1214-2019-sapl-1212.md",
+      "sha256": "73713d3848625676766588f3c0e88f21c60a3f920291dffc99eb442336140e86",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.642-2022-sapl-22844.md",
+      "sha256": "6588293dbf178efaa52f1cb6c5612c332b38ddfa21f82d635c86b0291168cdc9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1213-2019-sapl-1211.md",
+      "sha256": "7a37820ce181f58220217974f58aebd060971fd2ec306e75a374234d50bf8b45",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1212-2019-sapl-1210.md",
+      "sha256": "7b1ba1b8fc3c99badd1baeff894dbc236bf956e73a5bbc013d6cb2d98094cf47",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2019/leis-ordinarias-2111-2019-sapl-4059.md",
+      "sha256": "7d393a540e6dff761b3e6b0448d1948e8537ae47a899c35293fcdc685134c467",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1207-2019-sapl-1205.md",
+      "sha256": "c1d37346a48b5841dcd8be7e886d2764a9b472565b9b4adc39eb485235467529",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1206-2019-sapl-1204.md",
+      "sha256": "f397757f891231a7a8f9bca4ad41ed62f438878236b38e019a446e2d2e8a9a2f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.633-2022-sapl-22817.md",
+      "sha256": "f7783128f8e8b60702063ee78cfa91b9e1c2e9bdda29941babddac9c0783d460",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1201-2019-sapl-1199.md",
+      "sha256": "44212268ce6181c3f9b42626a192333f1fee0b5b6bdae77d7e264ef1f670c512",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    }
+  ]
+}

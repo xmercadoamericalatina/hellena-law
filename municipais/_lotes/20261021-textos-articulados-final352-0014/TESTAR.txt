@@ -1,0 +1,4 @@
+Replay independente (use diretório de saída novo):
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/auditar_commonmark_ta_v2.py --lista municipais/_lotes/20261021-textos-articulados-final352-0014/normas.paths.txt --materializados municipais/_lotes/20261021-textos-articulados-materializados-0014 --saida /tmp/ta352-replay-root
+Esperado: 352 aprovados, 0 retidos.
+Verifique também todos os SHA/bytes de manifesto.json antes do staging. Não incorporar normas de listas intermediárias.

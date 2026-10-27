@@ -1,0 +1,47 @@
+{
+  "candidatos": 1000,
+  "aprovados": 384,
+  "retidos": 616,
+  "jurisdicao": [
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7828-1995-sapl-3053.md",
+      "sha256": "ec5d5d6fae06eeba4fc57113b887bd79e5f5fcb577af8ba734bb0528f4f21466",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    }
+  ],
+  "replay_retidos": [
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-25-2026-sapl-3693.md",
+    "municipais/CE/amontada/resolucoes/2026/resolucoes-9-2026-sapl-3679.md",
+    "municipais/CE/amontada/resolucoes/2026/resolucoes-8-2026-sapl-3678.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-24-2026-sapl-3613.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-23-2026-sapl-3612.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-22-2026-sapl-3611.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-21-2026-sapl-3610.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-20-2026-sapl-3609.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-19-2026-sapl-3608.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-18-2026-sapl-3607.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-17-2026-sapl-3606.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-16-2026-sapl-3582.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-14-2026-sapl-3580.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-13-2026-sapl-3579.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-9-2026-sapl-3517.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-8-2026-sapl-3516.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-12-2026-sapl-3520.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-11-2026-sapl-3519.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-10-2026-sapl-3518.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-7-2026-sapl-3515.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-6-2026-sapl-3514.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-5-2026-sapl-3513.md",
+    "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-4-2026-sapl-3512.md",
+    "municipais/CE/amontada/decretos-legislativos/2025/decretos-legislativos-56-2025-sapl-3371.md",
+    "municipais/CE/amontada/decretos-legislativos/2025/decretos-legislativos-55-2025-sapl-3370.md",
+    "municipais/CE/amontada/resolucoes/2025/resolucoes-3-2025-sapl-3207.md"
+  ],
+  "criterio": "Retidos não integram a lista de normas. Controles conservam os motivos e identidades; não promovidos por contagem ou por comparação da mesma conversão."
+}

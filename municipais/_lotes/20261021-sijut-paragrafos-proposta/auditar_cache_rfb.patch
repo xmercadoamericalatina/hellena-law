@@ -1,0 +1,19 @@
+--- a/scripts/auditar_cache_rfb.py
++++ b/scripts/auditar_cache_rfb.py
+@@ -19,6 +19,7 @@
+ import baixar_rfb as rfb
+ from auditar import validar
+ from metadados_lotes import carregar as carregar_headers
++from sijut_paragrafos_literais_proposta import extrair_para_auditoria
+ 
+ RAIZ = Path(__file__).resolve().parent.parent
+ 
+@@ -70,7 +71,7 @@
+     pendencia = pendencia_visual(doc)
+     if pendencia:
+         raise ValueError(pendencia)
+-    extraido = rfb.extrair(doc, Offline())
++    extraido = extrair_para_auditoria(doc, meta, rfb, Offline())
+     if re.match(r"^\s*(?:Retifica[çc][ãa]o|Onde se l[êe])\b", extraido, re.I):
+         raise ValueError("visão contém apenas retificação; exige classificação própria")
+     if corpo != "\n# " + doc["epigrafeCompleta"] + "\n\n" + extraido + "\n":

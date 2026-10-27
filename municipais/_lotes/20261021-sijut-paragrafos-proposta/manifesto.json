@@ -1,0 +1,106 @@
+{
+  "publicavel": false,
+  "casos": 3,
+  "testes": 5,
+  "rede": false,
+  "canonicos_alterados": false,
+  "auditor_vivo_sha256": "1f878442cbb7915b9ab6a1b2d00e7d9479985cdc0146886f54aba80250c0750a",
+  "arquivos": [
+    {
+      "arquivo": "municipais/_lotes/20261021-sijut-paragrafos-proposta/LEIA-ME.txt",
+      "sha256": "a196438ff0a864239d08d13036dc0d64a44f859552d8060c3796ec793e8e4ce5",
+      "bytes": 2559
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-sijut-paragrafos-proposta/artefatos.paths.txt",
+      "sha256": "b6de0075765a8d713090fa3b8cbf8a3ce69e6d0327c2a9a9bb8ad744370b4a63",
+      "bytes": 1516
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-sijut-paragrafos-proposta/auditar_cache_rfb.candidato.py",
+      "sha256": "c3864d71d250139dbfc4ce428d44a9d0e1fab7627888bdabb09dec57d9cc2410",
+      "bytes": 9117
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-sijut-paragrafos-proposta/auditar_cache_rfb.patch",
+      "sha256": "cd79bb89dca20a7d6509d8dd4f26ff03fed6283c074a6196c5bf3bb926a6dced",
+      "bytes": 804
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-sijut-paragrafos-proposta/auditar_cache_rfb.preimagem.py",
+      "sha256": "1f878442cbb7915b9ab6a1b2d00e7d9479985cdc0146886f54aba80250c0750a",
+      "bytes": 9025
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-sijut-paragrafos-proposta/casos.json",
+      "sha256": "edaf91f9fbe4ef8aef63a50a6a9a5f56c564642b6cd76be2b7d581e8d13293a9",
+      "bytes": 2034
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-sijut-paragrafos-proposta/fontes/1294107279d091416f7e9c43278632e366d97db0fb0671345ff28039a50b223f.json.gz",
+      "sha256": "70c6ddfb12922ac44026f279bf40bdc61f49ad6900cc90e038981242a897557b",
+      "bytes": 2235
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-sijut-paragrafos-proposta/fontes/2aecd0381d7becbdfef7089d5edeacbb2eb2401c4aadfe824e77c3ccb85b1f1f.json.gz",
+      "sha256": "3cc28f765ed16a7dec9eb471058711f74a3f952d99c4896381ce3c47faf6f05b",
+      "bytes": 2212
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-sijut-paragrafos-proposta/fontes/fff901e31d57c963a354016a1624ab08908a64a0a89993725875a7ef4f95e18d.json.gz",
+      "sha256": "8796e0f30d6d754b9b31c68d98625c097119f595b7a14adcd0d861044561fd58",
+      "bytes": 2232
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-sijut-paragrafos-proposta/prototipos-anteriores.json",
+      "sha256": "72f03b5e3de2f1d731ac3b25905f88c31e15e3982f081f1a446d946f4b9fa9af",
+      "bytes": 3879
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-sijut-paragrafos-proposta/prova-segmentos.json",
+      "sha256": "b1f741834ffd8411995574ec162c380659d0c16df8a40e5a4fafaa598f677431",
+      "bytes": 10932
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-sijut-paragrafos-proposta/rfb-sijut-56904.candidato.md",
+      "sha256": "509d342c92ca0cce90aa95cab1103c9489e430918889fd541a4317d78cf2dc6f",
+      "bytes": 6204
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-sijut-paragrafos-proposta/rfb-sijut-56904.preimagem.md",
+      "sha256": "0d3b47c0b205b637da683049d3682042c69e004510c8dccf8175c1e54abf02aa",
+      "bytes": 5386
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-sijut-paragrafos-proposta/rfb-sijut-56906.candidato.md",
+      "sha256": "145181028227643a863aedf8ecdf5bf316603fdb0ff6a03282f1b09ade89adbe",
+      "bytes": 6512
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-sijut-paragrafos-proposta/rfb-sijut-56906.preimagem.md",
+      "sha256": "d61049786bd36c1b4c904cd402f87d2693b1f5f01e274dfab653eeceff190420",
+      "bytes": 5540
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-sijut-paragrafos-proposta/rfb-sijut-56908.candidato.md",
+      "sha256": "b2020da1ce0dfc04982216d3bbd8fc2d653fc171c9ea6f1ca06ff3fd5218b4b7",
+      "bytes": 6512
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-sijut-paragrafos-proposta/rfb-sijut-56908.preimagem.md",
+      "sha256": "0fe1350db61d5e509511f5a90dd7bb88484a36eb37eeda68748b58d5f7650649",
+      "bytes": 5540
+    },
+    {
+      "arquivo": "scripts/sijut_paragrafos_literais_proposta.py",
+      "sha256": "90d44a8dc2ca72ee3cef4e11bc567d14dc0655890369287c832a7464c60307bb",
+      "bytes": 2785
+    },
+    {
+      "arquivo": "scripts/test_sijut_paragrafos_literais_proposta.py",
+      "sha256": "324a3fcea4efaa3a2a2622e9ce53f37bf9c0311ebf53fc14332b14247588404f",
+      "bytes": 5331
+    }
+  ],
+  "bytes": 90355
+}

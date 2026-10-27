@@ -1,0 +1,11 @@
+{
+  "head": "2f95850df2a87bdfe5680fef23b2e03ea7fc73e2",
+  "auditoria_sha256": "b6b8a7b0ad1b1134cf1705d09969d6ae377eddd6bb014ceaf56b97b1456727eb",
+  "paths_mencionados": 468,
+  "em_head": 233,
+  "privados": 235,
+  "intersecao_1081": [],
+  "problemas_origem": 233,
+  "avisos_origem": 234,
+  "limite": "Classificação de presença em HEAD fixo, não decisão de duplicação. Somente os paths mencionados foram consultados por cat-file; sem status, ls-files ou varredura Git global. Nenhum candidato alterado, apagado ou promovido."
+}

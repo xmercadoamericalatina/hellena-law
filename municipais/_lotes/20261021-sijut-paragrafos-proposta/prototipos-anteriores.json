@@ -1,0 +1,57 @@
+{
+  "total": 3,
+  "aceitos_fidelidade": 3,
+  "documentos": [
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-56904.md",
+      "sha256_md": "0d3b47c0b205b637da683049d3682042c69e004510c8dccf8175c1e54abf02aa",
+      "cache": "reguladores/rfb/_fonte/sijut/2aecd0381d7becbdfef7089d5edeacbb2eb2401c4aadfe824e77c3ccb85b1f1f.json.gz",
+      "sha256_fonte": "2c6c39029057dda523429c764bc6e8ad6238942bf1423a71cbb0162c3dac227b",
+      "preimagem": "/tmp/constituicao-reguladores-html-nativo-20261020/preimagens/reguladores/rfb/2014/rfb-sijut-56904.md.gz",
+      "candidato": "/tmp/constituicao-reguladores-html-nativo-20261020/candidatos-sijut-paragrafos-v2/reguladores/rfb/2014/rfb-sijut-56904.md.gz",
+      "sha256_candidato_gzip": "03e8f4918e24d4950d5fd7662ed77e31d262ce6951d5506aa30b00c91725851f",
+      "sha256_md_candidato": "9a58cdf1f7731784769902bcb1490235a42858b5d0a66ad4c8335d9ab667f62e",
+      "modo_proposto": "html-nativo-segmentos-sijut-v1",
+      "quantidade_segmentos": 10,
+      "igualdade_visivel": true,
+      "assinatura_numerica_confere": true,
+      "metadados_H1_intocados": true,
+      "publicavel": false,
+      "exigencia": "Representação de texto simples de cada segmento em p com escape literal, sem inferir HTML. Auditor RFB e sha256_texto ainda exigem modo explícito antes de eventual publicação."
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-56906.md",
+      "sha256_md": "d61049786bd36c1b4c904cd402f87d2693b1f5f01e274dfab653eeceff190420",
+      "cache": "reguladores/rfb/_fonte/sijut/fff901e31d57c963a354016a1624ab08908a64a0a89993725875a7ef4f95e18d.json.gz",
+      "sha256_fonte": "89e8bc329710c02d82850e75d597c4c0da6fee990f913fd1ca77b88010131398",
+      "preimagem": "/tmp/constituicao-reguladores-html-nativo-20261020/preimagens/reguladores/rfb/2014/rfb-sijut-56906.md.gz",
+      "candidato": "/tmp/constituicao-reguladores-html-nativo-20261020/candidatos-sijut-paragrafos-v2/reguladores/rfb/2014/rfb-sijut-56906.md.gz",
+      "sha256_candidato_gzip": "bb46f57e43d0ccd37328265aa94457fdc2db6fa566226132fb6d65cf301f1ad6",
+      "sha256_md_candidato": "828ecc0a6851e3e8f40644d843fec41dd237fa1dc274fba668e4d31609181164",
+      "modo_proposto": "html-nativo-segmentos-sijut-v1",
+      "quantidade_segmentos": 12,
+      "igualdade_visivel": true,
+      "assinatura_numerica_confere": true,
+      "metadados_H1_intocados": true,
+      "publicavel": false,
+      "exigencia": "Representação de texto simples de cada segmento em p com escape literal, sem inferir HTML. Auditor RFB e sha256_texto ainda exigem modo explícito antes de eventual publicação."
+    },
+    {
+      "path": "reguladores/rfb/2014/rfb-sijut-56908.md",
+      "sha256_md": "0fe1350db61d5e509511f5a90dd7bb88484a36eb37eeda68748b58d5f7650649",
+      "cache": "reguladores/rfb/_fonte/sijut/1294107279d091416f7e9c43278632e366d97db0fb0671345ff28039a50b223f.json.gz",
+      "sha256_fonte": "affb85b2c1e573a87633eb697b7bf7ebef46ab6da42cd8f909325f91a54cbc38",
+      "preimagem": "/tmp/constituicao-reguladores-html-nativo-20261020/preimagens/reguladores/rfb/2014/rfb-sijut-56908.md.gz",
+      "candidato": "/tmp/constituicao-reguladores-html-nativo-20261020/candidatos-sijut-paragrafos-v2/reguladores/rfb/2014/rfb-sijut-56908.md.gz",
+      "sha256_candidato_gzip": "a537569abb9ff63d95a6b7921b7c9a01eb3afef379486975752da8599e88c010",
+      "sha256_md_candidato": "763efdb44cccd51c75c46330ac6915e0db56da0ad23723fa5b991d0d07fef7a7",
+      "modo_proposto": "html-nativo-segmentos-sijut-v1",
+      "quantidade_segmentos": 12,
+      "igualdade_visivel": true,
+      "assinatura_numerica_confere": true,
+      "metadados_H1_intocados": true,
+      "publicavel": false,
+      "exigencia": "Representação de texto simples de cada segmento em p com escape literal, sem inferir HTML. Auditor RFB e sha256_texto ainda exigem modo explícito antes de eventual publicação."
+    }
+  ]
+}

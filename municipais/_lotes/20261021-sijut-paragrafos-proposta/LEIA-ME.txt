@@ -1,0 +1,39 @@
+Proposta privada e offline: três documentos SIJUT, sem promoção.
+
+A API contém 10, 12 e 12 segmentos originais ativos, todos texto simples,
+sem arquivoBinario, tachado, estiloSegmento, agendamento ou âncoras. A ementa
+repete conteúdo desenvolvido no corpo: essa repetição é da API e permanece.
+Cada ordem e ID são preservados. omitir/original mantêm a seleção do coletor.
+
+O separador literal de 75 hífens é conteúdo da fonte. Markdown pode convertê-lo
+em regra horizontal ou consumir outros sinais. O modo explícito
+html-paragrafos-literais-sijut-v1 representa cada segmento em um p com escape
+literal de <, > e &. white-space: pre-wrap é uma regra de apresentação desta
+representação, para preservar quebras e espaços; não é atribuída à fonte.
+O replay CommonMark seguido de HTMLParser verifica texto decodificado de cada
+parágrafo contra textoIntegra, na ordem exata e com os IDs originais.
+
+Este modo retém HTML e entidades preexistentes, estilos, tachados, agendamentos,
+âncoras e qualquer anexo ativo; não elimina nem transforma esses elementos.
+Isso limita a proposta aos casos cuja representação simples é demonstrável.
+Não torna aptas as demais 10 mil retenções sem exame dos respectivos segmentos.
+
+O patch altera duas linhas do auditor: importa o seletor e chama-o com os
+metadados. Sem representacao_texto, a extração padrão permanece a mesma.
+Modo desconhecido é erro. Todas as verificações posteriores de corpo exato,
+sha256_texto, catálogo, identidade, publicidade, vigência, duplicação e tabelas
+permanecem no auditor. Nada foi aplicado ao auditor vivo ou ao acervo.
+
+Os candidatos privados mudam apenas a representação do corpo, sha256_texto e
+o novo campo representacao_texto. Título, notas, metadados jurídicos e data
+baixado_em original de 20/10/2026 permanecem. A origem não contém timestamp
+de captura com fuso; nenhuma data de materialização é chamada de recaptura.
+Os protótipos anteriores são evidência histórica, não candidatos publicáveis.
+
+Reprodução, sem HTTP e sem gravação em canônicos:
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/test_sijut_paragrafos_literais_proposta.py
+Esperado: 5 testes passam, incluindo os três candidatos pelo auditor completo
+privado. O caminho RAIZ do módulo privado é ajustado apenas no teste, porque
+sua cópia está no pacote em vez de scripts/. O patch é a proposta de integração.
+
+Publicável: não. Depende de revisão ROOT e integração explícita do modo.

@@ -1,0 +1,2577 @@
+{
+  "criterio": "Congela o próximo lote de candidatos TA, sem repetir identidades já examinadas.\n\nO limite é somente o tamanho do lote de trabalho. A coleta de portais continua;\nreexecuções com as exclusões anteriores cobrem os candidatos seguintes.\n",
+  "selecionados": 500,
+  "disponiveis_apos_exclusoes": 637,
+  "exclusoes": [
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0001/resultados.jsonl",
+      "sha256": "5932a21d2f981ad60fb193e59905cb200a864ba63fdc6c6b82cdcb2fb4c8a803"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0002/resultados.jsonl",
+      "sha256": "743684bf7245afe2ce980a1c69e9b9f710145ee757458699075004a2ab54c59b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0003/resultados.jsonl",
+      "sha256": "fec8db37da0df80f24d140744fd160a69d7d54e524757678db4fe532b8d32c6b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0004/resultados.jsonl",
+      "sha256": "973a23f5b8058ae80a9bc8e50f72f6c139658c2e4e278d5e8ed3b678aecc4eb2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0005/resultados.jsonl",
+      "sha256": "c94f3121369d1d538755aa1db82b139844dd2c059620913a05e6672657ac08a7"
+    }
+  ],
+  "prefixos_origem": [
+    {
+      "path": "/tmp/constituicao-ta-combinada-20261021-0006/sapl.boavista.rr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "d8acca4e549d73e4898e0c366c66b0e8684b6b006163771902f1dac91f6ed7f3",
+      "bytes_prefixo": 1550007
+    },
+    {
+      "path": "/tmp/constituicao-ta-combinada-20261021-0006/sapl.dourados.ms.leg.br/resultados.jsonl",
+      "sha256_prefixo": "9b183ed3e193772acb2f75af61b55c6bc5f45b592763a7c7a1dd71a7762ba37c",
+      "bytes_prefixo": 11871
+    },
+    {
+      "path": "/tmp/constituicao-ta-combinada-20261021-0006/sapl.erechim.rs.leg.br/resultados.jsonl",
+      "sha256_prefixo": "350522a452f334a0d6592fd93b22b234280814e01acab5bfd96c33f7b1fee878",
+      "bytes_prefixo": 207782
+    },
+    {
+      "path": "/tmp/constituicao-ta-combinada-20261021-0006/sapl.fortaleza.ce.leg.br/resultados.jsonl",
+      "sha256_prefixo": "3b4d11ee788441d639064308efdaa3d2a0707340c68fd940ec19eb893836f77b",
+      "bytes_prefixo": 6396456
+    },
+    {
+      "path": "/tmp/constituicao-ta-combinada-20261021-0006/sapl.joaopessoa.pb.leg.br/resultados.jsonl",
+      "sha256_prefixo": "34e4a5757fc9b5cc22c4399a20fcd84ba6dfdf8044ab92b1f44f135ceb4a6276",
+      "bytes_prefixo": 152346
+    },
+    {
+      "path": "/tmp/constituicao-ta-combinada-20261021-0006/sapl.natal.rn.leg.br/resultados.jsonl",
+      "sha256_prefixo": "640840abfe8c74e417f9b1422f7c3da6b17c20c3048f7c4647a4086ad09da910",
+      "bytes_prefixo": 328252
+    },
+    {
+      "path": "/tmp/constituicao-ta-combinada-20261021-0006/sapl.portovelho.ro.leg.br/resultados.jsonl",
+      "sha256_prefixo": "f3baaf573b4aa7d8a2ae8ef86495cc4aea23837ef15789924ba68938f254d37f",
+      "bytes_prefixo": 7237209
+    },
+    {
+      "path": "/tmp/constituicao-ta-combinada-20261021-0006/sapl.riobranco.ac.leg.br/resultados.jsonl",
+      "sha256_prefixo": "9d05ffca5562d85824d782e4f7ccefb0bfc90a229ac0409d138a9fb419cf58a7",
+      "bytes_prefixo": 208260
+    },
+    {
+      "path": "/tmp/constituicao-ta-combinada-20261021-0006/sapl.santarem.pa.leg.br/resultados.jsonl",
+      "sha256_prefixo": "d0e95f2570e9e3c1731bfd3520eade8bc93962e06cf21f59b42e59b3aee96e7e",
+      "bytes_prefixo": 198405
+    }
+  ],
+  "script_sha256": "4f9fef2ea112e555438b0a4a4b6eda008462c0c9c97fd1a07caadc68b489181a",
+  "identidades": [
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 432,
+      "norma_id": 1438
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1278,
+      "norma_id": 19332
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 1010,
+      "norma_id": 630
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6823,
+      "norma_id": 27852
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 663,
+      "norma_id": 3041
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 124,
+      "norma_id": 6232
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 379,
+      "norma_id": 1427
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1231,
+      "norma_id": 19215
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3295,
+      "norma_id": 569
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6534,
+      "norma_id": 27851
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 662,
+      "norma_id": 3040
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 125,
+      "norma_id": 6028
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 371,
+      "norma_id": 1423
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1229,
+      "norma_id": 19208
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3201,
+      "norma_id": 565
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6513,
+      "norma_id": 27850
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 661,
+      "norma_id": 3235
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 122,
+      "norma_id": 5899
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 366,
+      "norma_id": 1415
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1230,
+      "norma_id": 19193
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3293,
+      "norma_id": 564
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6511,
+      "norma_id": 27849
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 659,
+      "norma_id": 3045
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 121,
+      "norma_id": 5843
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 358,
+      "norma_id": 1412
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1228,
+      "norma_id": 19180
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2468,
+      "norma_id": 5589
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6510,
+      "norma_id": 27848
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 658,
+      "norma_id": 3053
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 120,
+      "norma_id": 5660
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 356,
+      "norma_id": 1409
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1171,
+      "norma_id": 19102
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3313,
+      "norma_id": 510
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6508,
+      "norma_id": 27847
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 656,
+      "norma_id": 3052
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 119,
+      "norma_id": 5514
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 354,
+      "norma_id": 1405
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1173,
+      "norma_id": 18999
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 281,
+      "norma_id": 472
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6506,
+      "norma_id": 27846
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 655,
+      "norma_id": 3055
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 110,
+      "norma_id": 4961
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 429,
+      "norma_id": 1403
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1172,
+      "norma_id": 18992
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3329,
+      "norma_id": 352
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6503,
+      "norma_id": 27844
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 657,
+      "norma_id": 3051
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 118,
+      "norma_id": 3975
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 428,
+      "norma_id": 1394
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1169,
+      "norma_id": 18981
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 1068,
+      "norma_id": 341
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6474,
+      "norma_id": 27841
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 654,
+      "norma_id": 3084
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 105,
+      "norma_id": 3556
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 478,
+      "norma_id": 1392
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1170,
+      "norma_id": 18980
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3436,
+      "norma_id": 327
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6473,
+      "norma_id": 27840
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 653,
+      "norma_id": 3083
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 104,
+      "norma_id": 3554
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 426,
+      "norma_id": 1391
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1155,
+      "norma_id": 18901
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 121,
+      "norma_id": 313
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6472,
+      "norma_id": 27839
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 652,
+      "norma_id": 3082
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 102,
+      "norma_id": 3401
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 427,
+      "norma_id": 1393
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1134,
+      "norma_id": 18868
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 120,
+      "norma_id": 312
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6377,
+      "norma_id": 27807
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 651,
+      "norma_id": 3068
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 101,
+      "norma_id": 3270
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 424,
+      "norma_id": 1390
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1009,
+      "norma_id": 18840
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 2265,
+      "norma_id": 315
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6501,
+      "norma_id": 27838
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 650,
+      "norma_id": 3081
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 112,
+      "norma_id": 3246
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 422,
+      "norma_id": 1388
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 866,
+      "norma_id": 18782
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 1071,
+      "norma_id": 287
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6498,
+      "norma_id": 27837
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 649,
+      "norma_id": 3079
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 97,
+      "norma_id": 2382
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 421,
+      "norma_id": 1387
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 689,
+      "norma_id": 18727
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 1073,
+      "norma_id": 277
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6496,
+      "norma_id": 27830
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 633,
+      "norma_id": 3104
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 30,
+      "norma_id": 1886
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 420,
+      "norma_id": 1386
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 687,
+      "norma_id": 18695
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3310,
+      "norma_id": 276
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6493,
+      "norma_id": 27829
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 644,
+      "norma_id": 3065
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 80,
+      "norma_id": 1674
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 419,
+      "norma_id": 1385
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 686,
+      "norma_id": 18654
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3246,
+      "norma_id": 275
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6491,
+      "norma_id": 27828
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 643,
+      "norma_id": 3064
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 115,
+      "norma_id": 1606
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 417,
+      "norma_id": 1383
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1135,
+      "norma_id": 18650
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 1115,
+      "norma_id": 12
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6489,
+      "norma_id": 27827
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 642,
+      "norma_id": 3063
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 79,
+      "norma_id": 1619
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 416,
+      "norma_id": 1381
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 598,
+      "norma_id": 18645
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 1116,
+      "norma_id": 54
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6486,
+      "norma_id": 27826
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 641,
+      "norma_id": 3062
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 78,
+      "norma_id": 1541
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 415,
+      "norma_id": 1380
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 596,
+      "norma_id": 18644
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3307,
+      "norma_id": 60
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6483,
+      "norma_id": 27825
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 640,
+      "norma_id": 3061
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 52,
+      "norma_id": 1813
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 423,
+      "norma_id": 1389
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 594,
+      "norma_id": 18643
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3308,
+      "norma_id": 62
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6481,
+      "norma_id": 27824
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 639,
+      "norma_id": 3060
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 50,
+      "norma_id": 1814
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 412,
+      "norma_id": 1378
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 540,
+      "norma_id": 18631
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3200,
+      "norma_id": 109
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6427,
+      "norma_id": 27823
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 632,
+      "norma_id": 3105
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 49,
+      "norma_id": 1800
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 411,
+      "norma_id": 1376
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 522,
+      "norma_id": 18628
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 1138,
+      "norma_id": 31
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6426,
+      "norma_id": 27821
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 631,
+      "norma_id": 3101
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 77,
+      "norma_id": 1542
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 418,
+      "norma_id": 1384
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 568,
+      "norma_id": 18624
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 1141,
+      "norma_id": 29
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6425,
+      "norma_id": 27820
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 630,
+      "norma_id": 3059
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 76,
+      "norma_id": 1543
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 410,
+      "norma_id": 1375
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1136,
+      "norma_id": 18625
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 1142,
+      "norma_id": 28
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6345,
+      "norma_id": 27806
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 629,
+      "norma_id": 3058
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 74,
+      "norma_id": 1544
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 405,
+      "norma_id": 1373
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 567,
+      "norma_id": 18621
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 1153,
+      "norma_id": 18
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6344,
+      "norma_id": 27805
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 628,
+      "norma_id": 3057
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 73,
+      "norma_id": 326
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 482,
+      "norma_id": 1372
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 566,
+      "norma_id": 18620
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 1159,
+      "norma_id": 183
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6340,
+      "norma_id": 27804
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 627,
+      "norma_id": 3056
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 72,
+      "norma_id": 325
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 404,
+      "norma_id": 1371
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 515,
+      "norma_id": 18618
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 744,
+      "norma_id": 182
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6331,
+      "norma_id": 27800
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 611,
+      "norma_id": 3020
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 53,
+      "norma_id": 1937
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 481,
+      "norma_id": 1370
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1137,
+      "norma_id": 18614
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 1160,
+      "norma_id": 181
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6328,
+      "norma_id": 27798
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 609,
+      "norma_id": 3019
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 71,
+      "norma_id": 144
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 480,
+      "norma_id": 1369
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 565,
+      "norma_id": 18583
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 119,
+      "norma_id": 193
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6325,
+      "norma_id": 27797
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 610,
+      "norma_id": 3018
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 70,
+      "norma_id": 143
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 479,
+      "norma_id": 1368
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 564,
+      "norma_id": 18581
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3306,
+      "norma_id": 381
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6249,
+      "norma_id": 27788
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 601,
+      "norma_id": 2928
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 68,
+      "norma_id": 141
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 477,
+      "norma_id": 1367
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 563,
+      "norma_id": 18576
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3305,
+      "norma_id": 467
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6793,
+      "norma_id": 27786
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 606,
+      "norma_id": 2910
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 48,
+      "norma_id": 1913
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 476,
+      "norma_id": 1366
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 562,
+      "norma_id": 18575
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 118,
+      "norma_id": 1
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6289,
+      "norma_id": 27791
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 605,
+      "norma_id": 2907
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 67,
+      "norma_id": 140
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 475,
+      "norma_id": 3092
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 421,
+      "norma_id": 18569
+    },
+    {
+      "host": "sapl.fortaleza.ce.leg.br",
+      "ta_id": 3304,
+      "norma_id": 470
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6288,
+      "norma_id": 27790
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 604,
+      "norma_id": 2908
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 40,
+      "norma_id": 1914
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 474,
+      "norma_id": 1365
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 512,
+      "norma_id": 18568
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6241,
+      "norma_id": 27784
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 603,
+      "norma_id": 2906
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 66,
+      "norma_id": 139
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 473,
+      "norma_id": 1364
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 561,
+      "norma_id": 18561
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6287,
+      "norma_id": 27789
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 602,
+      "norma_id": 2905
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 47,
+      "norma_id": 1922
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 472,
+      "norma_id": 1363
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 560,
+      "norma_id": 18556
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6239,
+      "norma_id": 27783
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 600,
+      "norma_id": 2903
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 92,
+      "norma_id": 147
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 471,
+      "norma_id": 1362
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 558,
+      "norma_id": 18553
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6238,
+      "norma_id": 27782
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 472,
+      "norma_id": 2797
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 65,
+      "norma_id": 138
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 470,
+      "norma_id": 1360
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 555,
+      "norma_id": 18552
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6236,
+      "norma_id": 27781
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 477,
+      "norma_id": 2798
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 64,
+      "norma_id": 137
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 469,
+      "norma_id": 1358
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1156,
+      "norma_id": 18544
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6231,
+      "norma_id": 27780
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 599,
+      "norma_id": 2901
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 63,
+      "norma_id": 136
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 451,
+      "norma_id": 1344
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 831,
+      "norma_id": 18543
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6227,
+      "norma_id": 27779
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 598,
+      "norma_id": 2902
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 46,
+      "norma_id": 1916
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 468,
+      "norma_id": 1357
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 554,
+      "norma_id": 18541
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6225,
+      "norma_id": 27778
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 625,
+      "norma_id": 3124
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 62,
+      "norma_id": 135
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 466,
+      "norma_id": 1356
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 553,
+      "norma_id": 18540
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6224,
+      "norma_id": 27777
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 476,
+      "norma_id": 2784
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 61,
+      "norma_id": 134
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 465,
+      "norma_id": 1355
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 552,
+      "norma_id": 18530
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6220,
+      "norma_id": 27776
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 475,
+      "norma_id": 2786
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 45,
+      "norma_id": 1919
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 463,
+      "norma_id": 1353
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 551,
+      "norma_id": 18527
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6216,
+      "norma_id": 27775
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 474,
+      "norma_id": 2785
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 60,
+      "norma_id": 133
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 462,
+      "norma_id": 1352
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 550,
+      "norma_id": 18510
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6189,
+      "norma_id": 27774
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 473,
+      "norma_id": 2782
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 59,
+      "norma_id": 225
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 461,
+      "norma_id": 1351
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 549,
+      "norma_id": 18509
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6148,
+      "norma_id": 27770
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 458,
+      "norma_id": 2729
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 44,
+      "norma_id": 1918
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 460,
+      "norma_id": 1350
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 548,
+      "norma_id": 18506
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6146,
+      "norma_id": 27769
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 457,
+      "norma_id": 2728
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 39,
+      "norma_id": 1915
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 459,
+      "norma_id": 1349
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 541,
+      "norma_id": 18505
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6172,
+      "norma_id": 27772
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 456,
+      "norma_id": 2725
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 10,
+      "norma_id": 1620
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 403,
+      "norma_id": 3091
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1138,
+      "norma_id": 18504
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6152,
+      "norma_id": 27768
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 455,
+      "norma_id": 2726
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 58,
+      "norma_id": 1930
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 448,
+      "norma_id": 1342
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 830,
+      "norma_id": 18503
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6144,
+      "norma_id": 27767
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 454,
+      "norma_id": 2724
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 57,
+      "norma_id": 1928
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 447,
+      "norma_id": 1332
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 454,
+      "norma_id": 18480
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6102,
+      "norma_id": 27763
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 453,
+      "norma_id": 2733
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 43,
+      "norma_id": 1920
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 402,
+      "norma_id": 1330
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 449,
+      "norma_id": 18479
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6074,
+      "norma_id": 27761
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 452,
+      "norma_id": 2732
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 38,
+      "norma_id": 1917
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 401,
+      "norma_id": 1322
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 527,
+      "norma_id": 18475
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6073,
+      "norma_id": 27760
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 448,
+      "norma_id": 2738
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 56,
+      "norma_id": 1927
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 394,
+      "norma_id": 1320
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 525,
+      "norma_id": 18474
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6072,
+      "norma_id": 27759
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 447,
+      "norma_id": 2739
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 37,
+      "norma_id": 1912
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 271,
+      "norma_id": 1306
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 1159,
+      "norma_id": 18434
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6053,
+      "norma_id": 27758
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 446,
+      "norma_id": 2751
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 41,
+      "norma_id": 1923
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 269,
+      "norma_id": 1303
+    },
+    {
+      "host": "sapl.erechim.rs.leg.br",
+      "ta_id": 423,
+      "norma_id": 18429
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6052,
+      "norma_id": 27757
+    },
+    {
+      "host": "sapl.riobranco.ac.leg.br",
+      "ta_id": 445,
+      "norma_id": 2753
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 55,
+      "norma_id": 1926
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 275,
+      "norma_id": 1318
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6051,
+      "norma_id": 27756
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 35,
+      "norma_id": 1911
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 274,
+      "norma_id": 1317
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6014,
+      "norma_id": 27753
+    },
+    {
+      "host": "sapl.santarem.pa.leg.br",
+      "ta_id": 54,
+      "norma_id": 1929
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 273,
+      "norma_id": 1316
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5984,
+      "norma_id": 27746
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 297,
+      "norma_id": 1315
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5983,
+      "norma_id": 27745
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 272,
+      "norma_id": 1308
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5980,
+      "norma_id": 27744
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 266,
+      "norma_id": 1301
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5979,
+      "norma_id": 27743
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 265,
+      "norma_id": 1300
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5936,
+      "norma_id": 27741
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 264,
+      "norma_id": 1299
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5928,
+      "norma_id": 27739
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 374,
+      "norma_id": 1297
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5927,
+      "norma_id": 27738
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 263,
+      "norma_id": 1296
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5924,
+      "norma_id": 27737
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 262,
+      "norma_id": 1295
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5862,
+      "norma_id": 27715
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 353,
+      "norma_id": 1294
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5863,
+      "norma_id": 27714
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 352,
+      "norma_id": 1293
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5923,
+      "norma_id": 27736
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 351,
+      "norma_id": 1291
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5899,
+      "norma_id": 27735
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 350,
+      "norma_id": 1290
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5896,
+      "norma_id": 27734
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 261,
+      "norma_id": 1289
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5895,
+      "norma_id": 27733
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 260,
+      "norma_id": 1288
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5894,
+      "norma_id": 27732
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 259,
+      "norma_id": 1287
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5893,
+      "norma_id": 27731
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 258,
+      "norma_id": 1286
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5892,
+      "norma_id": 27730
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 349,
+      "norma_id": 1284
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5891,
+      "norma_id": 27729
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 348,
+      "norma_id": 1283
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5831,
+      "norma_id": 27712
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 347,
+      "norma_id": 1282
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5888,
+      "norma_id": 27728
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 346,
+      "norma_id": 1281
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5852,
+      "norma_id": 27708
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 345,
+      "norma_id": 1280
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5887,
+      "norma_id": 27727
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 344,
+      "norma_id": 1278
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5885,
+      "norma_id": 27725
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 343,
+      "norma_id": 1276
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5880,
+      "norma_id": 27724
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 645,
+      "norma_id": 4656
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5878,
+      "norma_id": 27723
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 342,
+      "norma_id": 1274
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5877,
+      "norma_id": 27722
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 341,
+      "norma_id": 1252
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5875,
+      "norma_id": 27721
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 340,
+      "norma_id": 1250
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5874,
+      "norma_id": 27720
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 339,
+      "norma_id": 3090
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5873,
+      "norma_id": 27719
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 338,
+      "norma_id": 3088
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 7045,
+      "norma_id": 27815
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 400,
+      "norma_id": 3086
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 7034,
+      "norma_id": 27814
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 399,
+      "norma_id": 1244
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6836,
+      "norma_id": 27813
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 398,
+      "norma_id": 1243
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 6821,
+      "norma_id": 27808
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 397,
+      "norma_id": 1242
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5649,
+      "norma_id": 27689
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 396,
+      "norma_id": 1241
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5660,
+      "norma_id": 27690
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 395,
+      "norma_id": 1239
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5850,
+      "norma_id": 27707
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 393,
+      "norma_id": 1237
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5778,
+      "norma_id": 27706
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 392,
+      "norma_id": 1236
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5777,
+      "norma_id": 27705
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 391,
+      "norma_id": 1235
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5682,
+      "norma_id": 27693
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 390,
+      "norma_id": 1233
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5666,
+      "norma_id": 27692
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 389,
+      "norma_id": 1227
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5597,
+      "norma_id": 27688
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 388,
+      "norma_id": 1225
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5600,
+      "norma_id": 27687
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 387,
+      "norma_id": 1224
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5623,
+      "norma_id": 27685
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 644,
+      "norma_id": 4657
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5776,
+      "norma_id": 27704
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 385,
+      "norma_id": 1222
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5775,
+      "norma_id": 27703
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 384,
+      "norma_id": 1220
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5774,
+      "norma_id": 27702
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 257,
+      "norma_id": 1219
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5773,
+      "norma_id": 27701
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 383,
+      "norma_id": 1217
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5574,
+      "norma_id": 27670
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 643,
+      "norma_id": 4658
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5536,
+      "norma_id": 27674
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 642,
+      "norma_id": 4659
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5535,
+      "norma_id": 27669
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 382,
+      "norma_id": 1216
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5534,
+      "norma_id": 27668
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 381,
+      "norma_id": 1212
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5486,
+      "norma_id": 27667
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 256,
+      "norma_id": 1211
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5422,
+      "norma_id": 27666
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 249,
+      "norma_id": 1210
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5544,
+      "norma_id": 27673
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 365,
+      "norma_id": 1209
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 7041,
+      "norma_id": 27816
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 363,
+      "norma_id": 1207
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5577,
+      "norma_id": 27671
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 364,
+      "norma_id": 1208
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5772,
+      "norma_id": 27700
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 362,
+      "norma_id": 1206
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5389,
+      "norma_id": 27661
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 361,
+      "norma_id": 1205
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5405,
+      "norma_id": 27651
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 360,
+      "norma_id": 1204
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5413,
+      "norma_id": 27650
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 291,
+      "norma_id": 1197
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5771,
+      "norma_id": 27699
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 248,
+      "norma_id": 1195
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5770,
+      "norma_id": 27698
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 247,
+      "norma_id": 1177
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5769,
+      "norma_id": 27697
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 641,
+      "norma_id": 5353
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5768,
+      "norma_id": 27696
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 268,
+      "norma_id": 1121
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5346,
+      "norma_id": 27617
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 407,
+      "norma_id": 1120
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5428,
+      "norma_id": 27606
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 380,
+      "norma_id": 1115
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5437,
+      "norma_id": 27600
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 243,
+      "norma_id": 1051
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5456,
+      "norma_id": 27663
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 298,
+      "norma_id": 1042
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5457,
+      "norma_id": 27662
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 221,
+      "norma_id": 1036
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5594,
+      "norma_id": 27684
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 242,
+      "norma_id": 1035
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5434,
+      "norma_id": 27575
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 220,
+      "norma_id": 1034
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5443,
+      "norma_id": 27576
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 250,
+      "norma_id": 1031
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5448,
+      "norma_id": 27579
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 241,
+      "norma_id": 1030
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5458,
+      "norma_id": 27580
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 226,
+      "norma_id": 1029
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5459,
+      "norma_id": 27581
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 218,
+      "norma_id": 1019
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5593,
+      "norma_id": 27683
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 214,
+      "norma_id": 1018
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5431,
+      "norma_id": 27655
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 213,
+      "norma_id": 1017
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5460,
+      "norma_id": 27582
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 212,
+      "norma_id": 1016
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5461,
+      "norma_id": 27583
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 211,
+      "norma_id": 1014
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5464,
+      "norma_id": 27585
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 209,
+      "norma_id": 1013
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5463,
+      "norma_id": 27586
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 207,
+      "norma_id": 1012
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5468,
+      "norma_id": 27652
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 205,
+      "norma_id": 1011
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5469,
+      "norma_id": 27653
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 201,
+      "norma_id": 1010
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5592,
+      "norma_id": 27682
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 240,
+      "norma_id": 1006
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5591,
+      "norma_id": 27681
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 200,
+      "norma_id": 1003
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5621,
+      "norma_id": 27639
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 199,
+      "norma_id": 1002
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5274,
+      "norma_id": 27558
+    },
+    {
+      "host": "sapl.boavista.rr.leg.br",
+      "ta_id": 198,
+      "norma_id": 1001
+    }
+  ]
+}

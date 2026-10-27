@@ -1,0 +1,1202 @@
+{
+  "criterio": "Triagem de esfera oficial e cabeçalhos municipais nos corpos TA completos.",
+  "cadastro_ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "script_sha256": "2eeaa4c3704a0a720f4c6ecc157406c9062522a8c8817066d60ac60573aaf9bd",
+  "emissores_script_sha256": "1749efcc1a6334b652716841d89cec2170eabaa580b23937b4a83a5ea74af023",
+  "resultados": [
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2693-2026-sapl-5350.md",
+      "sha256": "7dc5e9e450334c7ada8633adc05596309b88b41b4680924a9ba61b0282fd7b27",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2712-2026-sapl-5346.md",
+      "sha256": "6746256c3c3c69a32a9de2ca09e7865435b45b64cc3fab0fee44fa35afe6bda7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1317-2023-sapl-862.md",
+      "sha256": "b1f5638a4b002c3bd8a94a05bb2a34ae5431d18b21f21635c71f8bfc0e44741f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2710-2026-sapl-5343.md",
+      "sha256": "1390bdd23f0ac2ae842c22d3c682ead10e603d3a35f1fa65752399e29a860b0b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1313-2023-sapl-858.md",
+      "sha256": "7a7e89e57659b27ee53deafb085b4bea66c886b65e3b6fdd9627b973707e3fd2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2709-2026-sapl-5342.md",
+      "sha256": "09466a38c0cc78862b6b805c774447ac2f046735ca601fe086edc0738c2f7c05",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.409-2023-sapl-25794.md",
+      "sha256": "28d01f4881c7fd0d38bd517e1f3c884f6638ef4f2611f16f8e2469b059dbfbbd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1312-2023-sapl-852.md",
+      "sha256": "3bb925dfa127013ff1915220f1186802ec8a8c537fa434c877314d0fdfc22cda",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1311-2023-sapl-849.md",
+      "sha256": "42b336beeb02cdd2da0a7e4c2295abaef3ba1d47525a3e4a0f6411981476ca03",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2707-2026-sapl-5340.md",
+      "sha256": "24af3c4a33d7e769ca496e612ad10a2e7f39fb946e908511a5909f0cac86f7ef",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.407-2023-sapl-25792.md",
+      "sha256": "b49937d1e2c82bb8a232d03a6a18f52af37ce7fd8e5e32461c27d9b6714e3bbd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.405-2023-sapl-25790.md",
+      "sha256": "d3c05dfc2d440a9f4577b348e82c58cc22d35b2d29d75d222b8f6e477340d00c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1308-2023-sapl-780.md",
+      "sha256": "87022a134cd7d2159ef166f295f002dd802d8567adb5afd077b087b2145ee7a4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1307-2023-sapl-779.md",
+      "sha256": "ee49871181900823a63c211a9df437d9a9fe72e38d04bc140b30f6d9e548515d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8250-1999-sapl-2147.md",
+      "sha256": "8ef53133dba9ec58f2081468c971950f32520386cd76fde77dd5117b2787e3a7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8249-1999-sapl-2118.md",
+      "sha256": "707937b7ad2c79ee1884bd1ef69ee798824ff850db911fbd413cbaa182ca177e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8248-1999-sapl-2115.md",
+      "sha256": "a1686ecec7a31aa0f92d9bfdf1ec409f8eead57d3357c8f2e6a35a1a6a3c1882",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8247-1999-sapl-2112.md",
+      "sha256": "5560365a40ecfe3dca2d51fbf5d567d28a0c6440fbcb829cc7531e5c5c48dae2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2706-2026-sapl-5330.md",
+      "sha256": "f915712d61ac07ac2793096ecac1c33afdb673479f356c5f03c25ca2c026c37d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2703-2026-sapl-5323.md",
+      "sha256": "d9f0f1baa8e5807b348f9969f69f6aaf14710871ce622851831739ecc1168125",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.393-2023-sapl-25778.md",
+      "sha256": "76bc4860bf448ffd89ce1e3f427718db65ea942116876918481acab5794e831e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2702-2026-sapl-5322.md",
+      "sha256": "9e88fc059d0c39455fbe4fa59c32e4143e727c47a69b142ed29aeb6271e6fc4c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.391-2023-sapl-25777.md",
+      "sha256": "ca6644060f8f840a175cc88b491c45d128a74eec04a84f750a26e9042332c3cf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1296-2023-sapl-747.md",
+      "sha256": "c9b93d57d8784f8e718bfb01be2403f0ecb90bfbcd4905f3e521a89c29fbb0f3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1295-2023-sapl-746.md",
+      "sha256": "2a315609d8ccb3f5b74c20e85a9744fcb44a3b46ad3813f7be1dd11f42f9a7f2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3093-2023-sapl-25806.md",
+      "sha256": "58a0149827c7c9a342227680769c76b59aa7f5a6c488f8f83c5ce3476f42c412",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1293-2023-sapl-731.md",
+      "sha256": "719554791df02e0bc5e3d5126341a8a9627243e7d8f91d7965046545f5c9b753",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3092-2023-sapl-25805.md",
+      "sha256": "42cd5ee3c47f2edd9a4d82a5d1d859bde7f5d924ddafd0e1d747176bbb63cff8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1292-2023-sapl-730.md",
+      "sha256": "629292918fc7621b4435889888e5bc6bfe6613566d847f1f855f7b7dc671a1f0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3090-2023-sapl-25803.md",
+      "sha256": "cb2482b444705c6c91c386379f1d3a166c5fd09977ccece5fd3ff323d6140e5f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1291-2023-sapl-729.md",
+      "sha256": "320a7779d085be395b3adac25f9faf0c990427006e9bc22093a7a025bc30abb6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1290-2023-sapl-728.md",
+      "sha256": "7529ef3397e66b5ac46b5c25d4ca6bd972be9ee9b10414feff89e668a3e24c89",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1289-2023-sapl-727.md",
+      "sha256": "e4f9e39e4d1ae0e87da43486687f19237d3ed30806e2e087304ef318ceb8f265",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1287-2023-sapl-725.md",
+      "sha256": "8df6ec6a2390b7bdab4470625e35af2c9174ed84ca985bbd5ca27fbb5010e51a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1286-2023-sapl-718.md",
+      "sha256": "8e72663a8b49ff5409fbff9f4da16c875db36d8bb176e2fae5f46feb4c3d298e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1285-2023-sapl-717.md",
+      "sha256": "e53769a91b43d2cdd2ad9abc6992aeebae7fcc462fe2ee9b339e277ee16ecd09",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1284-2023-sapl-724.md",
+      "sha256": "98daf22bd5bd9e61c5b5349444d96f0e5111992d912f597d675674328860db8d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2698-2026-sapl-5292.md",
+      "sha256": "68667dbac8655a204afe8dab33f94494cfd4c6362a8bf29c699d7ebb4626ddcc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1281-2023-sapl-722.md",
+      "sha256": "773e92a222988bec6544976ea7de24ce334808414edde69272be325a77f77024",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2697-2026-sapl-5291.md",
+      "sha256": "36135fbd42073cf97bd903b75d0a3684dd3998504d20d560cec92a62df23dc09",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2023/leis-ordinarias-1280-2023-sapl-721.md",
+      "sha256": "1e90405a82733ecda0360462bf827bcba7d9b98c0fb2acb4f2e8af4576bd8f11",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2695-2026-sapl-5289.md",
+      "sha256": "b5ea005765dbf45e8a7f368b76b3af27f983742a4f87d8900080220b461428f2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2694-2026-sapl-5288.md",
+      "sha256": "9402b1718ee56c731bf4a368e0a73b6f96b2ceac2fb0eacc292bf5be4b330a66",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2022/leis-ordinarias-1278-2022-sapl-734.md",
+      "sha256": "d81bbb4523f1f0e04074c0e3ac155c61a294a878168092d6abe289da6f9c869b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2022/leis-ordinarias-1274-2022-sapl-707.md",
+      "sha256": "c4dccfea9682489e4dccf1329503da0e80c5948ba6726293a31fd2b3e45bdda9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2688-2026-sapl-5277.md",
+      "sha256": "1c80ab2d914df7b76b18dac23e897e7078a8e9ae95dfd55c480332dd97526c59",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1998/leis-ordinarias-8196-1998-sapl-2068.md",
+      "sha256": "b52258386584a54f38d3d59a4fc7e2488266a6eaccc0392cacd42e3ab7d1699f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.366-2023-sapl-25745.md",
+      "sha256": "d45b6223f2d90f1b2aeeb2627508437dee254544b293e44c9a3bf5067fbd6b36",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.365-2023-sapl-25744.md",
+      "sha256": "da5d9596d007e6d220f71a30ecc379794063dd16c58d2d2a4d8edff7138eed77",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.364-2023-sapl-25743.md",
+      "sha256": "00ca426a0b3fb99f730a8a8a23e36c9bd476f85d727832f0b284c3f8c46dc81b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.363-2023-sapl-25742.md",
+      "sha256": "d586ebf587fb77d54f8c6b776dcf4ca2923e990117e9211d078ec8b5f95df266",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2682-2026-sapl-5271.md",
+      "sha256": "9a5fea2a5bdcb5cec0c6d25af49941d47ff78a42a6e4477e05a9fc121883af40",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2022/leis-ordinarias-1259-2022-sapl-263.md",
+      "sha256": "546047cdacd6251fdc65d657d0c809529d1f74bc2dfd5d81fc0df3bf6bf73d44",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2022/leis-ordinarias-1257-2022-sapl-261.md",
+      "sha256": "ee665cdb2ef26001a00df289189ddeef8782f90b5727fe988630a95dab140af4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.357-2023-sapl-25736.md",
+      "sha256": "164962186d2f034a7fac72c4cdf4dcaa34065bd5a6131b200c09cfa69c96e943",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2022/leis-ordinarias-1256-2022-sapl-260.md",
+      "sha256": "d9aa83db8f1dae7c3aca666e1408ed84d6cc82f7f28df60222336f8ea18c7eb4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/resolucoes/2022/resolucoes-3-2022-sapl-927.md",
+      "sha256": "1c1297614fead31a5eec5208c6507e55fdbd2d96e9c630780ad2967b4b627140",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2677-2025-sapl-5253.md",
+      "sha256": "80268ef9809fc2530d9597cf4fbb7cd9810ed5bd5df4f92fb884f3e36c7275ff",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/resolucoes/2022/resolucoes-2-2022-sapl-971.md",
+      "sha256": "8057f3d6f3be7f7023a4b8751b3053ca9cfeb359f97acda05ed30b00c8e85a4c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2022/leis-ordinarias-1248-2022-sapl-252.md",
+      "sha256": "78e00bf28e5b7c41a7e31d42da168392b54c45a05235a4c96b48966803454902",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2022/leis-ordinarias-1247-2022-sapl-251.md",
+      "sha256": "2041ce36667ea0a16ec952b3f02496eae18d170371a0ba8da228145a9669456a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2022/leis-ordinarias-1246-2022-sapl-250.md",
+      "sha256": "e6489b90eb1002d4d894bd54eb501052c4982b25437e7533121f085c44463c91",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2022/leis-ordinarias-1245-2022-sapl-249.md",
+      "sha256": "c2cf92f9fcd677430a6059ac36744dfe86b36b7376f414cbc1b685cec8b5fa49",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2671-2025-sapl-5241.md",
+      "sha256": "4e7c86ebeee23e872e100145ccf6ac7fe70aff867ed3e76722dc34a28b2688a6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3088-2023-sapl-25801.md",
+      "sha256": "a53ae03c9a2879ff0854615246141b2ed194b815648bbce2881cca0597224c09",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2022/leis-ordinarias-1242-2022-sapl-246.md",
+      "sha256": "7b0037b4f0de3acaca743f264fd79a090ac7851f260a9a7af3b5cebbba3030c4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2670-2025-sapl-5240.md",
+      "sha256": "618041441adf87b13907ad046b2bfac77d3cddcc4b63aa320dfafb3ee809ca9c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2669-2025-sapl-5239.md",
+      "sha256": "90e39cd6dd7ee6b82f23704806a8d3e5318675f9c4945bd6a6aca5eb68424fc7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3087-2023-sapl-25800.md",
+      "sha256": "a9948a85866714afbb188b1401065576ee0fd3b142e3e63569a4a624e40c4eb3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2021/leis-ordinarias-1.218-2021-sapl-80.md",
+      "sha256": "2f1a60c7389131a135cf78eecdc228b793559a418320667208e358c69cb10d6b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3086-2023-sapl-25799.md",
+      "sha256": "b37de165fab81a798b3137871ef5bdb394e6ec059ace40597affe7e893775f52",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3085-2023-sapl-25798.md",
+      "sha256": "6bfac49c7815d00ed49be4a651e1f8d7d80528fee76c17d649145fc02ea5b2d9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2021/leis-ordinarias-1216-2021-sapl-144.md",
+      "sha256": "782e73c93018f0b12004da5943909011476cb1a55779260a597d98ce0ab4c5dd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-complementares/2025/leis-complementares-43-2025-sapl-5223.md",
+      "sha256": "635ec9a0c6719fc4d6076c555a429d41aaf42e99efd5d21b5499c398464438b6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2021/leis-ordinarias-1214-2021-sapl-143.md",
+      "sha256": "a1dadf56d161df8f0a7a7f309e4a94cbcac92577e3fc33704e2bfe21f1c7a957",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2021/leis-ordinarias-1213-2021-sapl-148.md",
+      "sha256": "832f2b66fe9c046c47c12147c85c8696c404cf4ecac60d7199eed29e2218f7b4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2665-2025-sapl-5226.md",
+      "sha256": "fd3e833ffb438a65813e1a54b197cbd171d534bd033067ae29346f25718b143d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2021/leis-ordinarias-1209-2021-sapl-152.md",
+      "sha256": "3f917d47770536de14560d905b1e1a5a7d6e4b2ddd120b2baf6646c1ad73326c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2664-2025-sapl-5225.md",
+      "sha256": "a9a4406df9f8be4f8a999f99c3910fcc3f4a5cad75387f8620179ddb2883fe08",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2021/leis-ordinarias-1206-2021-sapl-157.md",
+      "sha256": "59e995137f3202f5756c554e6736ef40902271c82f3151348d69fd861223f1a4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2021/leis-ordinarias-1198-2021-sapl-737.md",
+      "sha256": "50fa3d08a767ef65cfcb88e688de77b5ebe132b703c394260d7dbf1ff8aec127",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.340-2023-sapl-25721.md",
+      "sha256": "fd3e057b53ca6b610541f748d33423655bd5ddab30246f8f212e2c34104a5481",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/decretos-legislativos/2025/decretos-legislativos-2-2025-sapl-5216.md",
+      "sha256": "a5b10c2db315b715bdd54519cc2d22f942bd83ad8d43f4f08fb9c4d55cb260a1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2661-2025-sapl-5212.md",
+      "sha256": "730a97e3ce05235cdcbc839523c5d8f897110e238a1291fc7e878e0e2f6fdc87",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2659-2025-sapl-5210.md",
+      "sha256": "6e9df648132802a287d1d85d4f43480fdf67268181ecb305454dde58b23e2c78",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3084-2023-sapl-25709.md",
+      "sha256": "9ccf34f572be9615e8471a0424d46153b8cbb2be4b5f32cb97579aad69e6d331",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2658-2025-sapl-5209.md",
+      "sha256": "43900b3685a1245969f36be6f6adb0ada0f16a7cd2b854108f83407d3dd50232",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3083-2023-sapl-25707.md",
+      "sha256": "39a69ddef666701202cd20825a90a6d7db5ed0fe1b4f3ef4cffa5d9bb2d029dc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2021/leis-ordinarias-1190-2021-sapl-700.md",
+      "sha256": "b4e6e54092a63002a44965eaba2a8faf2914cb4a6b052ba4d84002c8660a6333",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2657-2025-sapl-5208.md",
+      "sha256": "76e9c93cb2476d992d7182eb7db1955dc7614c4bec55e924a00f1cb4ec7decdd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3082-2023-sapl-25706.md",
+      "sha256": "948c92197f442f525a372c1f50a95bb7383c9beb7346e2331f6aaeac6cb51c52",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2021/leis-ordinarias-1189-2021-sapl-699.md",
+      "sha256": "1b7bd846bba6da2d2489ec6daf389158405bb309d8e07916a50aecfeb5c2d47e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/2025/resolucoes-4-2025-sapl-5206.md",
+      "sha256": "f39f0d1d6af214c3cb49498b318806cb05ea7551250776a3e6cb5342d0ee95d5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3081-2023-sapl-25705.md",
+      "sha256": "38ec204e4243c281c4b432fffe2af917f1813d6a4212d4fd43c5bd79d2392a4a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-complementares/2025/leis-complementares-42-2025-sapl-5199.md",
+      "sha256": "37ceddcb7b195f9731f5b1b552d28ff62b1465c379bbecfbfe88345749bf85fe",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3080-2023-sapl-25704.md",
+      "sha256": "096db162ca077fa7f3a38787f1d07aee5547208eb98dc6171d6b021085e0dacd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2021/leis-ordinarias-1187-2021-sapl-697.md",
+      "sha256": "bde476626daa31ffb5718797e72913342117d76deb44e62a755153bd53e551dc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3079-2023-sapl-25703.md",
+      "sha256": "a23b9a17d8f632938d98afd35a9aa175e319f1d638a41a03b3b98a2e3ac13148",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2021/leis-ordinarias-1186-2021-sapl-696.md",
+      "sha256": "ea28c8e11ab98348ad694d4bdf15b6b2fc34a3fdd2c06bdcf225c99206de1fef",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3078-2023-sapl-25702.md",
+      "sha256": "05d812f98cab31a7629db209270d21724ea0f6bf94acb4e7faa42cb53b89d4c7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2021/leis-ordinarias-1185-2021-sapl-702.md",
+      "sha256": "c5f1236175216046997b95e140243afb9d9b83002ee161364f4fd3cc8e00efc9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2654-2025-sapl-5196.md",
+      "sha256": "ff07901aadcafedd05fd7f942cf225393fcc9ec890d95a618cb592027fa05eaf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3077-2023-sapl-25701.md",
+      "sha256": "4d340babafa6663cb029bc0c22d94c2178761c9f77c4e0d4c517a49e6ae6c430",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2021/leis-ordinarias-1184-2021-sapl-695.md",
+      "sha256": "c4b73d403eda4d0d7a475cf682ca54d72c7347d01805e4c83771f323ab52af5b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2653-2025-sapl-5195.md",
+      "sha256": "e401bec23253f8603844f1c84318184752a1aa95ecdb622e87879cf727c8731e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3076-2023-sapl-25700.md",
+      "sha256": "001b974ca8afc5c0619f7e450fc115a4cf27dfb55bc6e7cc39c180e11f0a17ee",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2021/leis-ordinarias-1183-2021-sapl-698.md",
+      "sha256": "49f7d29dac6407370e8142fbf033ef6b9969986a3683ced3436d749817226f85",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3075-2023-sapl-25699.md",
+      "sha256": "0a96bcc27adf2184851aad6c0af59f6a242b26632e6f6115612bdf249f783a86",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2021/leis-ordinarias-1182-2021-sapl-680.md",
+      "sha256": "9a9f999cf97a62292ba6c6655dd767f5121d920d73c0473751cb916d0df6946c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2651-2025-sapl-5193.md",
+      "sha256": "d2f3e8483e07095c383e85c46c1e83f45ce5a2da4c3ebf8e1dc7a89ca93545d4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-complementares/2021/leis-complementares-11-2021-sapl-681.md",
+      "sha256": "b05e737edffbaceb39c3bcbd67adcf8db422041cf076563676ae57b14d3170b7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2650-2025-sapl-5190.md",
+      "sha256": "7ed32b9ba286838fbec542b066c5717563437f6dad66aebfb78e3a0e4ff90cc8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2649-2025-sapl-5185.md",
+      "sha256": "08636990f6b234f43b6dfd8d4e8ee15438a6f3facf3b0ffb348a6ec59bc5b0d4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.331-2023-sapl-25688.md",
+      "sha256": "ec65db6781f457ec14732b4d673902757baf856d77ae9e7d1464da9da172631c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2021/leis-ordinarias-1180-2021-sapl-678.md",
+      "sha256": "7ca8324bbebdfa5b59967c477d724e56e1551e678f6a92dca95aa021cb795f79",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2648-2025-sapl-5183.md",
+      "sha256": "243ba59bbeb4ddbd9149d3301abc907a824ab6a297e89bfcbfef3fcb947fedae",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2021/leis-ordinarias-1179-2021-sapl-677.md",
+      "sha256": "cfe191c3e7742d7981c86d193f27ae15a08be759fbe45046008e1fc67df9b261",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2647-2025-sapl-5182.md",
+      "sha256": "795059c13121a34c7ed550ff909727ab5e0b1bab0aefebd1d541e8eab3f85750",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2021/leis-ordinarias-1178-2021-sapl-676.md",
+      "sha256": "eef30fb39815c8724e6fa029e0de45866b1bf3fde7972205d60db0609d557731",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/resolucoes/2020/resolucoes-3-2020-sapl-928.md",
+      "sha256": "48e8a8ca0de184fcfc126b22729b6f418ae3b38ce618ab0f59882ff793269f3d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/resolucoes/2020/resolucoes-2-2020-sapl-929.md",
+      "sha256": "362dc61d622bddea8dd9b9a946a0daad195854defe1df832556db1b3c40e3375",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2643-2025-sapl-5177.md",
+      "sha256": "88eb3c0bb891d5bb4fdcf751257a5595795b6029353c1b369ca9b45212a04052",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-complementares/2020/leis-complementares-9-2020-sapl-742.md",
+      "sha256": "5b95912b8feb16a2c29abc77032427e3e30a2a72d381a0586b7151f55d494b90",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3074-2023-sapl-25698.md",
+      "sha256": "82ee90718fb6a79b99878d79092aaea8c58c85b70a2ad4d8addb36a77a4aae7a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2641-2025-sapl-5171.md",
+      "sha256": "58342aa9139c2f66c94925c1678e97fbf58cec59116b0c0e016f837ee0da87fc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.329-2023-sapl-25686.md",
+      "sha256": "ffd9da895a658351e56e202c51f1e5f50a03de91904ca1145c2dec9291cb9f62",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2020/leis-ordinarias-1176-2020-sapl-90.md",
+      "sha256": "19b684b151bb680e3515ecd65a143506a93e31495200d406bdbe6350a9870321",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2638-2025-sapl-5166.md",
+      "sha256": "474ad67b7c5be4833bbeb6ac63d5356dfc4157d0980b0b1f3c8f1c0e9953a7ca",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2020/leis-ordinarias-1173-2020-sapl-87.md",
+      "sha256": "d8ad4ac604faf0e6905ca1427e4807c19c4a4de7ed6eb1976332c1eddfef7c69",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3073-2023-sapl-25697.md",
+      "sha256": "03603f6ce5b268935a098f25561b476269d445871ebeb9d0bbf32736870c0325",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2020/leis-ordinarias-1172-2020-sapl-86.md",
+      "sha256": "c079888a4b51b164854cd16281ac38ca5ba3fa777986f4fd2e6a1d841cc93a69",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2636-2025-sapl-5158.md",
+      "sha256": "20f4ec38082ae352f2454f82f8373e2113b316e40eeeceb28f7dac33dafd2705",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2020/leis-ordinarias-1170-2020-sapl-84.md",
+      "sha256": "c8279405f5a4e9144b3da1493321f47b00b37c34be115ee550d1e2f0f22c4fc6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2634-2025-sapl-5156.md",
+      "sha256": "388305ecaa39a134b4d9edf29b0649424948127418370e9140be7738a04f2341",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2020/leis-ordinarias-1166-2020-sapl-79.md",
+      "sha256": "235110cc533672daf17a932ce095bba5fc8d653bffa6712bdccf9f199c063b24",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2631-2025-sapl-5141.md",
+      "sha256": "b17ccfa6c59b88d88274b9ee28831ef35d2fe75915a208446fbd618dfd6faffd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2020/leis-ordinarias-1165-2020-sapl-77.md",
+      "sha256": "28443fd859ce22f117a04beb84b45550f555bc09086b0969fbbbf624626782af",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2628-2025-sapl-5135.md",
+      "sha256": "d50b9c2c3961ddbf609b84041dc275712ac902b4a3bc33ec0f28683cabfcf44b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2627-2025-sapl-5133.md",
+      "sha256": "9db3dd7b3a51d5167391e1b7125b14bccf9fb43dd4b1d519a2b90c5751ff3a7b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2020/leis-ordinarias-1158-2020-sapl-39.md",
+      "sha256": "023fcf8e43e353c746cf8ee9fc7ce54eb53db97e1b46aa46bb0c6a49b38265df",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2020/leis-ordinarias-1157-2020-sapl-37.md",
+      "sha256": "782a3c8a7198b329584ded7434472cf7d58cd88cf3899ecb53211c198369034d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2020/leis-ordinarias-1156-2020-sapl-35.md",
+      "sha256": "3eede99b6204284fbc2d53f2fd763861cce1122cd57f2c7692464b2b29e0b526",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2020/leis-ordinarias-1155-2020-sapl-33.md",
+      "sha256": "50a6f31cf1fff3c353697745b544bda8600445c5f965fabc8a793afad79a1398",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2020/leis-ordinarias-1154-2020-sapl-32.md",
+      "sha256": "6f918af6e8ca40780c74610eac83ac2fd3bb39da2693b6eaa743501ceed3553a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2019/leis-ordinarias-1134-2019-sapl-782.md",
+      "sha256": "c8232b3a0b4b2ad8d9d2e43fa1b7bfc8b3606cb1529587d8457d46c550e48626",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2018/leis-ordinarias-1112-2018-sapl-115.md",
+      "sha256": "9b7119afbcfe797ba1c7d3ae30da7692b37493f98d690315f8e024216482b5c5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2018/leis-ordinarias-1111-2018-sapl-114.md",
+      "sha256": "18ea9f4affea90310cb0921022ab905417421a2978f62ddcbf38085949e4b349",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2018/leis-ordinarias-1110-2018-sapl-113.md",
+      "sha256": "bbd7e6be6e39d567a93c143075eecf13bd8024070bc21a17f2d81113661f8287",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-complementares/2018/leis-complementares-5-2018-sapl-109.md",
+      "sha256": "c6d14b2790e43fb81302f08c95745b12554bf769efcce30e914dab5234fdcc54",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2018/leis-ordinarias-1108-2018-sapl-111.md",
+      "sha256": "5fdd0e8971010fd1163ed8a241067f32cf26916249c77e6a553c247e65078c64",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.290-2023-sapl-25647.md",
+      "sha256": "ad23cfd1736503a3058584a83b59d27ac2acbf0430cda9a7a909a405e432de35",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2018/leis-ordinarias-1107-2018-sapl-110.md",
+      "sha256": "215e83a824cd3e9c7dbc1717fe4eaa45711dcc47cab56807b31ba07d82bdde07",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2018/leis-ordinarias-1106-2018-sapl-108.md",
+      "sha256": "7133165b9d1ec059bef0d7d831df8517281b4aaf05b3e6d9b2f9be73f4c3d80c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2018/leis-ordinarias-1105-2018-sapl-107.md",
+      "sha256": "cbd81e40099d3643716d5cbc66a1fcd46ffe731230ae7f9d7bd2d3db2082df34",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2018/leis-ordinarias-1104-2018-sapl-106.md",
+      "sha256": "554ee2323a79fb36c97eaa0314f9d49b703c6832918065d0ca7b1ec087e906db",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2018/leis-ordinarias-1100-2018-sapl-101.md",
+      "sha256": "d7efe93f8539d2092a028b0c5ac5ad99de2fd174e616be48ff131e0d786bd8fc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2018/leis-ordinarias-1098-2018-sapl-99.md",
+      "sha256": "df0eff9fa622e302a734cf87b557fbd29db48494d65c631b12c3be1eab2be717",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2018/leis-ordinarias-1097-2018-sapl-98.md",
+      "sha256": "157296b9832d9f453fd758858d55e2dd5887d87459c876add24cd2e829fb340d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2018/leis-ordinarias-1096-2018-sapl-97.md",
+      "sha256": "2d9b2897a638e07037f1bb4e062daa0201962fb036a177f16a133ea767afd68d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2017/leis-ordinarias-1077-2017-sapl-176.md",
+      "sha256": "e5c23bb12ac4f87c5715e8bc1fd98d31f00d5b30bfe098539d805571bfe55b25",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2017/leis-ordinarias-1058-2017-sapl-118.md",
+      "sha256": "46253da1fc9f6342f11fd96bbdf38719bc3348edfc5d0fa034fa3ee833437433",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1997/leis-ordinarias-8052-1997-sapl-1339.md",
+      "sha256": "e5242c24b59f683999e746b300510eda6d613679d0f09e15c193bfa3c140ecf7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.265-2023-sapl-25624.md",
+      "sha256": "7d73ea85a789d4cf666de7e0610b38e7f76846bfde5edda1cf2b000cdd8f43e7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.264-2023-sapl-25615.md",
+      "sha256": "f9a62dc93e78ba863276fd22ab103c6127b132c5d1779ce23ccc6e481b1e608e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2014/leis-ordinarias-1007-2014-sapl-219.md",
+      "sha256": "498ebc79ed83377b6f858e0076ca171f277a2add4455676de8a55716fa6e2541",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2014/leis-ordinarias-1003-2014-sapl-215.md",
+      "sha256": "bf180bf2489ce8e0b74632f63ff67a4dca2eda99bdb0a220fc4afae1c9fbd728",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2013/leis-ordinarias-997-2013-sapl-667.md",
+      "sha256": "cb75fb109dba36f0a2b1cc3e4e96778be1cde4b4d320417478e287e8978b7640",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2013/leis-ordinarias-982-2013-sapl-783.md",
+      "sha256": "bba348766ea69f4121b2e2b0b16ba93ea7612b35e3df4d3f86b7d19d45ae7513",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2013/leis-ordinarias-977-2013-sapl-784.md",
+      "sha256": "e1afd6e6cc16d46c021f1587c7f085804b5907ca4e17ed31cac09b148aadb324",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2012/leis-ordinarias-966-2012-sapl-641.md",
+      "sha256": "b203310cbc52e349632f89ac811139afc73078e358623aed182bb01d940b0585",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2012/leis-ordinarias-964-2012-sapl-639.md",
+      "sha256": "d605155a25fe3c573412928d50e7d641e4bce94faba7179ccb976f7fdffb9998",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2010/leis-ordinarias-935-2010-sapl-974.md",
+      "sha256": "6361bfc440722e9a4ca1600b9980bed7669f82d114087d074fa5cd6576fc9871",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.227-2023-sapl-25579.md",
+      "sha256": "21e0af6c9da73d512fd701c1c90fa0bc58b3d84f0baedcc780c4a051b1fe3a49",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.226-2023-sapl-25597.md",
+      "sha256": "a058bee002b0737e9e60cb62be38c8394c90bd3d7f28adca68dae300ade2bc2e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.225-2023-sapl-25596.md",
+      "sha256": "7a2d291857c3b1c013cb178f413ef12c25fe917343b337c5aa747d515c0ec880",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.221-2023-sapl-25575.md",
+      "sha256": "e0b1421a58516ee52df8d265e1de76d9e7d115a8777a608cc9618ef6994291b8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3070-2023-sapl-25569.md",
+      "sha256": "8bb96c4893d4f935b9670a678cc7c4749e7daa21e8a69502dd7200a109518ff7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2007/leis-ordinarias-860-2007-sapl-284.md",
+      "sha256": "e7b98a207469bcee44954c7c54349a17da4a3e5ae378a640ad6f2a97a3f1b53b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.219-2023-sapl-25566.md",
+      "sha256": "76b85092d6d54abdca27172305e8d597ab3d80b85a20b34945f7689bb045f179",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2006/leis-ordinarias-851-2006-sapl-286.md",
+      "sha256": "795a187c8a79c7ddce95b320c440f4b7b604c665424cdc8767e71c67503a6afe",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.217-2023-sapl-25564.md",
+      "sha256": "1e714819cef42423766ac09a508a3714a4e25ff7c157efbbe83f787e2cfa45f6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2005/leis-ordinarias-828-2005-sapl-541.md",
+      "sha256": "4d896af9a05a0e2ecf4d467736a905786b5bd76e03a101cd9ad81e8281913ae6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2003/leis-ordinarias-791-2003-sapl-290.md",
+      "sha256": "28133fb00a2f8b31f6720ba75917d568ff1b991c96f0cc7add039bcb91725107",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2003/leis-ordinarias-789-2003-sapl-291.md",
+      "sha256": "7f22e211896777933f5356883efbe929bb54a951c43c9decdd5f93e02d378233",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2003/leis-ordinarias-788-2003-sapl-292.md",
+      "sha256": "e39a0704f1a9e1c899c4ad70c47651ea1c652683aafd1b5afdddc7e02b0e1488",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2003/leis-ordinarias-787-2003-sapl-293.md",
+      "sha256": "5c287980670f5b62c71c8f36735aae5f14b62dbd142b2b439e094611763b1023",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/2003/leis-ordinarias-770-2003-sapl-294.md",
+      "sha256": "089b71b8347d353d6e34e264ea93274f01f85488b2b595e16bea962a2c043a59",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7998-1996-sapl-1046.md",
+      "sha256": "13c6eba9194ae95eade6e86034f3d6e82e8ea4e7aebc011466e9eafd3b118123",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7992-1996-sapl-1040.md",
+      "sha256": "499a1d6c2472c61808d2035d6a5f52678fbb95c4c6614d709dcfe5bb4678c0e7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/1980/leis-ordinarias-473-1980-sapl-298.md",
+      "sha256": "4616e35a06450e51e8ac1764cb673f9a8ad3069d6b9cb9f89d747c71035af8da",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/1969/leis-ordinarias-335-1969-sapl-994.md",
+      "sha256": "b3b88785bb7eb36fbdaa83443563f5e25c6fba8e4606980a38c062f6c2941485",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/1964/leis-ordinarias-242-1964-sapl-297.md",
+      "sha256": "9ce9895500789c62ad1faa38735200ea4dd7bd0de54cf183a71fa4c90e037061",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/1961/leis-ordinarias-202-1961-sapl-289.md",
+      "sha256": "4229f54424c487cba5cacc6b1b2f618f9cabd9f91162c139e887155a6ab3d2de",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/1961/leis-ordinarias-201-1961-sapl-288.md",
+      "sha256": "3be979ddcbec6abcd5a0b7f2fe6ae9aac1a31f4b9141b8028a99be6e80d75002",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/1961/leis-ordinarias-199-1961-sapl-273.md",
+      "sha256": "3245664a1b65699d41c75fdf3972c516a2a28f56d93a8c5623422775a8a27cd2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/1961/leis-ordinarias-197-1961-sapl-272.md",
+      "sha256": "709e9333c0309be94962556e2953a9a6301a896e6aec1adeb08e8e9163c8703d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/1961/leis-ordinarias-196-1961-sapl-271.md",
+      "sha256": "2927505618dca2d65116a8a4d17f4fa0a769cf5fbe67c11a55e73073c94b79aa",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/1960/leis-ordinarias-195-1960-sapl-270.md",
+      "sha256": "86cb14238393498c2046970d3feb62806ffc2b4583ed731714998c472e48bd25",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/1960/leis-ordinarias-192-1960-sapl-269.md",
+      "sha256": "eea5fa33d9826ed02e062a63d4a184370d3eb05c5a4c77617d40dc52258ab84e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    }
+  ]
+}

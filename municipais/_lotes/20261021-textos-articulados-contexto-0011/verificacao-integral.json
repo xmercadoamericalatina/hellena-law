@@ -1,0 +1,1432 @@
+{
+  "arquivos": 178,
+  "aprovados": 178,
+  "problemas": 0,
+  "script_sha256": "41563c6048c4eb3baae9a3470a5f238c15b6292bdaff5dd3020f34eeed4b15b1",
+  "resultados": [
+    {
+      "path": "municipais/SP/adamantina/resolucoes/2025/resolucoes-1-2025-sapl-5090.md",
+      "sha256": "5c0dda9f429752f18e803d03064f2e48b0a0617761aa5dc30360fe535095db3b",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "47c93060346ad5db5cba419057b339285051f03ee78a52333ebe0cbcd8d29079"
+    },
+    {
+      "path": "municipais/MG/aguas-formosas/leis-ordinarias/1997/leis-ordinarias-955-1997-sapl-155.md",
+      "sha256": "1ece38da0abc720c4e227bf9d66c8f36c0bc656724fa57adb0f9230350b7a803",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "8cf8e6cf5d5089e99b7ded7aa69cbcb96bd22d75e7e79b485ea9d5e882f86619"
+    },
+    {
+      "path": "municipais/MT/agua-boa/leis-ordinarias/2026/leis-ordinarias-1991-2026-sapl-3634.md",
+      "sha256": "4ed895f690add79c0771040111a5b2a56f9433b3327d589ac982741c85fc63ef",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "9c68550c5b04a1f0cb7dc140edcd13e050a6c107aafd94ff8505b591d2aacabf"
+    },
+    {
+      "path": "municipais/MG/aguas-formosas/leis-ordinarias/1995/leis-ordinarias-928-1995-sapl-154.md",
+      "sha256": "a14e52c09ef94027e12e2080dc9aee65ad0c8c599dbad5fc0e39f78970cb8759",
+      "aprovado": true,
+      "dispositivos_ativos": 26,
+      "historicos": 0,
+      "sha256_fonte": "33c907fe28c0ad224a9c598a511ee223a3d93bfbbad239b6f8f9c66859a349c4"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8492-2000-sapl-1905.md",
+      "sha256": "282f13365a148525002d655c3da54fc7ae9764ed9c0ade28c96a256ac7dfb2ba",
+      "aprovado": true,
+      "dispositivos_ativos": 60,
+      "historicos": 0,
+      "sha256_fonte": "88e40bbd415a68ebc7f66e4e77d25292b2e911d0f3f6cd677812391f07970d6b"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8491-2000-sapl-1921.md",
+      "sha256": "4f26f2a3f58aace8251bea70ff96580833a9777475e816718585024e007ead15",
+      "aprovado": true,
+      "dispositivos_ativos": 40,
+      "historicos": 0,
+      "sha256_fonte": "7751ee7db96a30cc33c363475a5259f70031713d9e77205158264e7720636030"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8486-2000-sapl-1898.md",
+      "sha256": "cdc5a93b4f73c8b7bc88ddc4429809d5fc1efb8978b89935cd233eb1068246b2",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "fdcef074991d4a6deef786a4bccdd3119279b7e92852f55d1a1d237b78aaf46d"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8485-2000-sapl-1895.md",
+      "sha256": "dea5496a90de25c447ee3154b9e5bf757d2b4135d0fdd7d5b6294aa637a0016d",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "df0561334df11e764519ee5e84de31f9600972f318d85a670186e3917067d937"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8482-2000-sapl-1892.md",
+      "sha256": "c317b384db6746bbd392be0df262527f51559c638ab9475e7dc17317234321ed",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "d67a5a350de3c393982a61d7be3b55baa255232be33cd02b9f5ad9efa19b4109"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8474-2000-sapl-1705.md",
+      "sha256": "37994e62c76d96b1b678e4f3fd2da2a17a74eada3254bffe80a959720a5f9432",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "7e3d015ddda8ae3009c80170a8412e5034ed44fcbff57d145dc76bea4d751590"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2744-2026-sapl-5422.md",
+      "sha256": "0bc597eb1d1cdc0f2ae0ad60277af5bec7dc9e7738b2b8278096dd7de9a6a8a1",
+      "aprovado": true,
+      "dispositivos_ativos": 33,
+      "historicos": 0,
+      "sha256_fonte": "0aa079f0116da415fe4293f5f7ffbc3d7e631d584f3481b567233c81311337d7"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8472-2000-sapl-1699.md",
+      "sha256": "5abf656b4c8f8de9122a4e7e5702fc02b3b0bba8b4b9de3ef59d2f5d5798dd37",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "f73339d9f02ee1df015d2699574a1e921a3d93199cd25923181d71a488a72dcd"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2743-2026-sapl-5421.md",
+      "sha256": "bc2245947af270d3d3c0877d12f39b25c18df33a7d03db686677c001d38a75f9",
+      "aprovado": true,
+      "dispositivos_ativos": 43,
+      "historicos": 0,
+      "sha256_fonte": "fefd244013d39064ee4c7cb4b0ff6eac3ce34485d7dc0dbdf0151ec053442c73"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8469-2000-sapl-1689.md",
+      "sha256": "5a9b788b86da8c7a7c4db3e2eca564186d804acb8e5c4ce6eabfaaf75bcc1a80",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "59b9b74b79e47df826483ea1a259ee79c484b0696857965c604ea558bd8a768f"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2742-2026-sapl-5420.md",
+      "sha256": "ee79f09b0be354be19db1030dcaf9c09bc329301beebc7a3d5dd1eac1e3d3653",
+      "aprovado": true,
+      "dispositivos_ativos": 59,
+      "historicos": 0,
+      "sha256_fonte": "37cf24352b62166c164785f8987cc3f5251d553120a6e196f698aa5bb9d2245c"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2741-2026-sapl-5419.md",
+      "sha256": "60f81d1be9a396f1df06bc7c4378e30ff092426abce9afafc3429d4393702671",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "1656d06e5a045dc282bc143c1728aa32ca87bbd51cbd8f15041d4a8a0b12b694"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2740-2026-sapl-5418.md",
+      "sha256": "4f02d3d87d9d861bc2a461e46f8cea27a717a5ec19e27c85609e005450debed3",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "c058a9037b3a8f6b24d0f6d22da385aa507d8de928eacd8fe12a16ff340f15d6"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8462-2000-sapl-1646.md",
+      "sha256": "f911244776ad3e521c3199a8e4fb7ad009f1b5e2aa20ed410ed4eac52c030cd5",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "e78ca3e9102674b85e8771efaa6e7e845f7956d63bdccd5088ff56c8fc63073e"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8461-2000-sapl-1645.md",
+      "sha256": "14d8ce3bba3f7458edd934a63a29a2ddbbf35f6445de3d270543e0720d94e388",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "e3a8d5ca40847baf97a194a9744962720a0e83b8c3848ea6556e50d3b6314517"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8460-2000-sapl-1642.md",
+      "sha256": "8d000a1e57ad1c3cf18a60aa0ad946d36e38634bd79def052354a8a5f14667d2",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "3e8d3264c32549c88aef7f230bd295b508ec82e1ee38ba5e437a4878f6148cd5"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8459-2000-sapl-1640.md",
+      "sha256": "d39f05b2a14bbdab8e4962195d6553cd414525e333dc5d6e626700e181a4b8d3",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a3a3d0e88f1818b877e6206dfed62d4c18364b25055c0ace6df4d2867fe570c1"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8458-2000-sapl-1638.md",
+      "sha256": "ef8c8b6ccb396608911738bd60c5dc1adfc92fb2f8261cfa5229f0d3ff4c49c6",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "47a3e824e817e6e4748c257c9f2e00ce9a2ec5b9c57f833cf7ad893567158f68"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8457-2000-sapl-1637.md",
+      "sha256": "87cc576363770457b5de55708adcbcd54a20343e7ff19f2d2203988b36391abb",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "1d8f80b27f2ff9d54ba05f0d691457b326ed66bcfd4be46842b54bc9344d731d"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8456-2000-sapl-1635.md",
+      "sha256": "0390775f39123b6d78067e4f119e9f95e8831ec3107bcd491bbbf2bbb7f0aa8f",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "447ad72dfb2f53ec1fe732621455d3109a76df2197111c5fd3b9d431ff87d9d9"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2734-2026-sapl-5411.md",
+      "sha256": "27529617b99a52e9bb8349895bdfac4402a207a00c9a1a77a180f9af3b1376b0",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "9a465ac2fce7baeb514bc3763ec04e13c1a69f9791d35a4323dd940d24d82462"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8455-2000-sapl-1634.md",
+      "sha256": "1151c852a4dabf0a75e4ef914215ca9f68c423b9e9833e29936343842e4b6e38",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "98c29576f5cc13c9edc72c3cb0bd0c101315412866d0024eb9996766b3a03868"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2733-2026-sapl-5410.md",
+      "sha256": "35656fc4684bfa79de50a4406485c0955a6d641cd038145720806e3abc4f53a6",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "dd53d6a76b53ce525d2c127fca7c2b2dd0ca981535ba5e5343b0c4cd9cdad4fb"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8438-2000-sapl-2676.md",
+      "sha256": "c95aa476948bf34163ffd553008d3ca565ba8203626b5b9315451a68f75c1faf",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "a112231d08f2f5d429d2938ad75f673792db1b760db8e2e5e64dc52d0d286c28"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2732-2026-sapl-5407.md",
+      "sha256": "05c3ae85646ef07b0504ef7791f160da7912b5ac705d23d2392f64f9e5db9285",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "56c26b7178001064d38d1a60d33c970dd1f7e17cb492a5a5bd47d89a5d4ef99a"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8434-2000-sapl-2672.md",
+      "sha256": "f7f1c7540e41b21840925c94d63c45c7cfd6acba12b3fdf830b17d15aeeeb5ba",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "f6215f072bcd3640a643b5480d405aa48c85f6931c6f86d112e3b24eb2eeaaaa"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.544-2023-sapl-25999.md",
+      "sha256": "aae773895c263eac016c9f955a2631d2fd1d1516f7ac184b8c257e518791b345",
+      "aprovado": true,
+      "dispositivos_ativos": 24,
+      "historicos": 0,
+      "sha256_fonte": "51c3e1192ca9f62c7abd0af4a01fa61a4c47f047cebef63d1b1b4ca70f70bbd2"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8432-2000-sapl-2581.md",
+      "sha256": "0ae9f918d3618eedd7b0248571acae539963a7a866b3df02455a8da92d3aea01",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "1c498a3f4c1947fd25adc5414eb685e76f1374986113c1e3a07f85485f2cf529"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.543-2023-sapl-25998.md",
+      "sha256": "7d1a8b4ce94ed9f574bdd8fca71aee9e2faccdc1b0ca8d60322dd864c221217d",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "cbb7d8c413517c131ca6de06e0d84ba3d2b9d22332b5cea39b31d2ac947d8abf"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8430-2000-sapl-2578.md",
+      "sha256": "013b0381c508b1a496462b428ec1d85d2aa53d7840f71895a9f28e68d4cdb23b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "8e30abe2969771fd2ca4f2f41a2577c50f8f86ce62958c00b9d1f81bfd87cc42"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2023/leis-complementares-962-2023-sapl-25984.md",
+      "sha256": "fff12b59a52afdcbf8a773430043a8cc73226d989cc0adb6f924d90d6138052a",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "05c04d265e4ac999d048c5995ba391ad3ce9e98b850886d23da185b09efb6032"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8415-2000-sapl-398.md",
+      "sha256": "29ead04c013a039da73b20f4cd81c3fc3ad80a1c1cf02998b77e6c6a9fd42c96",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "ca895a33697a56911644b6289e47b3c390a478a1179a485e4a5e43e454a77d8d"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2000/leis-ordinarias-8414-2000-sapl-366.md",
+      "sha256": "4f00116effbe66d7971c597aa096e3fffcad7f2d81e4ee4badf9162928f1b7e1",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "9e461e36def7b36ffabb7034e21b9a99151be69850c9dfd9b5233b59953260dd"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2729-2026-sapl-5398.md",
+      "sha256": "d4dfc3ae1b4018b9465bab221a874c5fa9ae14f1fb939f05f09f2976b6d1d50e",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "99024e1f3171a3fb849ef84a8d495cf8877f70ba3361ce385c3d75800519867a"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2728-2026-sapl-5397.md",
+      "sha256": "245dcc98f37413e87e9c920a0c7201bafd574d93f51431cf820b0363f262c9cb",
+      "aprovado": true,
+      "dispositivos_ativos": 48,
+      "historicos": 0,
+      "sha256_fonte": "4a8d04060a2629750d8e6b6cb30e179d24d0ecff213260b393d14253d883b18e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3115-2023-sapl-25974.md",
+      "sha256": "46f52659f3331c5c6920c819cd37ae337fdac8e814d74dc692db5ad03fd52e8b",
+      "aprovado": true,
+      "dispositivos_ativos": 23,
+      "historicos": 0,
+      "sha256_fonte": "0caad60b5b49aed079cc5ea2c56eec3f061eb8a1723fcdd805aa157d641738cd"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2726-2026-sapl-5395.md",
+      "sha256": "1c692cb20691b773165bf5abd3127bf705f4771c18a0a77012279a7343ef4dee",
+      "aprovado": true,
+      "dispositivos_ativos": 25,
+      "historicos": 0,
+      "sha256_fonte": "fef8b42fd138cfc4ec219bf333420412d0a9df27bcef8bf7197e25b589db4611"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8406-1999-sapl-2558.md",
+      "sha256": "4e99e5e380747f0172ac4db8c67a0d8e38f798371f93a05fe5a83d757fe5884e",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "4a8e34c282a2cfdd14150346fd910a1bdb8352d973d5e18fc2eb13babadaa014"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3114-2023-sapl-25973.md",
+      "sha256": "2546115c7cf4879da2fd2e268d9d3144b8fa2eedb7604c2e289c8d658a5a7d1c",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "15ecc0e7be830e64e5a485b185c93d458248f952001a32af5ea6191f5beef2d6"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2724-2026-sapl-5393.md",
+      "sha256": "a0f270f4a9e5083b897b6847444b50449d6ae0877a501dbf16d85b50f801c27e",
+      "aprovado": true,
+      "dispositivos_ativos": 36,
+      "historicos": 0,
+      "sha256_fonte": "10f23e4bbc7328754f1476aff83ba8e9390108e735560ff057c1c33d7afc8c7d"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8401-1999-sapl-2553.md",
+      "sha256": "ff223a05c32260b086def04b8774c57e6c51216a8ac6672a68ef6252b7d98f76",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "f1f8022847a32819e8bc576df7bdeba843c61aeccd977e2033f63aaa9b97650f"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2723-2026-sapl-5392.md",
+      "sha256": "0c3ce17361dd0f21b4346a420bf96e6a23ca5dc2435bcd0adbc2c2fee110346a",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "4057db726672455c1f77228ceaad7a111cc5a5046a0322f8b615b1b7bf338349"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2722-2026-sapl-5391.md",
+      "sha256": "087ad00ecc9711748ba968e1844a2b80dab06dc3b9a3906b649127649565e6f3",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "f2e1d29f3c8bc002f1eefe1b9db3532690e7c05a58c0b17892c9b257cb0cfc5d"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8399-1999-sapl-2551.md",
+      "sha256": "e755e1028cc1b14181e1ca005d9d5c30fdc064e09767b775ddcf5f0fc80059c7",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "28662eb9f505e82eafc991c0dacb5f7c902c6ad817306599efcef884976daa40"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8392-1999-sapl-2544.md",
+      "sha256": "1e2103047cf021b047e469b4cf6e76721b5486994ca49e844995478189117f87",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a21e177b95ea8d0fa9a09f039b9a458fa6ae87a8e7795cc72ae91971f60babf4"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8390-1999-sapl-2542.md",
+      "sha256": "1fddbcdc900bae4ddad820a1cca4cbe98f181008cacc7d9fff87062111d81d68",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "1978278d723585250a913808da79c5f8ba5729e795bc1e1bf9458c76b8cb1aeb"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8387-1999-sapl-2537.md",
+      "sha256": "b71cf30bee6998c6ec982a8701181cec9c3dff42f5a4d65c18094e33aca58f0c",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "0a99ca13dce9c1523ee36afedd0db21da7aa5deb18361e4f5e0c19fae07b2122"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.528-2023-sapl-25960.md",
+      "sha256": "2bf045b1966f9067245a7bc9f08f2fb111362a93e82cc4acb392601fbe92992d",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "349270424ded83e2544a133eac7a72fc15a43c8748917d189b9e3a1101407f15"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8386-1999-sapl-2536.md",
+      "sha256": "51bbfcdb3197d1a62b39ce8dbd373175183966f3504545576e7a3ba748cbea7e",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "7543cf70d730001be358f346d0869e583143b4f312a8c5114967539f88d320a6"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8385-1999-sapl-2535.md",
+      "sha256": "158726a095046b64dd442fd3303ed27686b5ef8407d5101a46c715e59310f278",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a2472dc329a3ad6685e8b0acc91fa2900f7aabab6f6cd7d4e80f5d24fd23818c"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8384-1999-sapl-2533.md",
+      "sha256": "27af5c331b73fcfabf10d68973000402290ba53369264fa0459eb998543c7245",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "495a9cebe4b531933a8b8a1c2e7649fc25e7aabaf645d23086862362ad1ad40a"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8380-1999-sapl-2487.md",
+      "sha256": "a1be7bcbc902979bd21a7894f91d2876502303066cd9bf95a13f2f865b5c2246",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "113f31a16bf87e9ec63ecdc6451315c91bd8f342a32972ce179c42b2639fc30c"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8379-1999-sapl-2486.md",
+      "sha256": "c3c2179f7d2236154c7cbb50769090ca284ec7d6e882b693a03d097354e70122",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "c568de9b490cb7705385c8d4452bacec248d8362d2902b35873cd3b19aeb9ed4"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8378-1999-sapl-2485.md",
+      "sha256": "503cf759827dd7757a5242905ff554a2fed748396ed7abc08816689711a635d0",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "e35c45b3314fc56644a7ddabe04e59ade128ba940d50c4a1bddeb82d65dbbd99"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.521-2023-sapl-25947.md",
+      "sha256": "30d2358aa8ac14aa94feb2f89ecf4f404464aece4c34976c58cebc1126039f56",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "ffad8d829f79d5efd97eb35a23df08b3ad3ac7c6d1c8ec8178d627163b0726d3"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2717-2026-sapl-5373.md",
+      "sha256": "27ed776329c56c98b9213d79a200058087aae40667ae2356336792ef9af34394",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "162c8a7ccb70b6790cb9f6892d1f7e7f0bab72e96f9ed77b99a149651120dab4"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8377-1999-sapl-2484.md",
+      "sha256": "c658c7052ad86d329fc26a7c9ca11e939afd1f2fc0005419ac34c16bce6133a3",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "9c074c4f42e46c1276653d073b12d3e81941efd71cff4cf38ca541257ca3c7ec"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2716-2026-sapl-5372.md",
+      "sha256": "19ac2659123ce7eec736ed34b9a1ad0fe5a86687898a24f8cb5faa1184b245af",
+      "aprovado": true,
+      "dispositivos_ativos": 23,
+      "historicos": 0,
+      "sha256_fonte": "b206eb121bdbb812d7879843d65a0abe50a74743f86ee8a47f89dece8569372f"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8376-1999-sapl-2483.md",
+      "sha256": "f64a45d6a86d2054b01303b8fd90816c59ffb98295dbe0ffb7111693d13f09d1",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a2409e0aa8414c6a5bdda53390eabff5c9b3226a13963c1810368659c460def1"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8375-1999-sapl-2482.md",
+      "sha256": "fd6ca77287aed9292d38e09bef72ac15db3eafd11604d4ebcfca9d375ab3ccd6",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "ab2f5f4f5c191355bd8380aa5796f295054949622ab2dbe0ca2e0e0b86178576"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8374-1999-sapl-2481.md",
+      "sha256": "9eb489343e9ee8390adef7d37f6975cbe7efea1707613edd72b63d10cceaebbd",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "7c23704024189c07ad9ee68069d9492ebefec9d2af50d988ad85551df0641b0e"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8373-1999-sapl-2480.md",
+      "sha256": "3942f764048a5f164ae76516551c2fccac6f395bc10fbc365b050991115169e8",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "3afe86c50dc5b9a89b4af536bc7b08b821b9865bb9ad9891cd8ef5f2617935cc"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.518-2023-sapl-25936.md",
+      "sha256": "84bbc5b8c5db7cb778b6d7064cb233ab56107e9aa9dbffa61dd3af1baa372cd8",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "5f8984c9de2edd65ed8fac6491e5bbcab62bf6f1c097a9db5ed5298422083849"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2714-2026-sapl-5370.md",
+      "sha256": "e2a356f1b9ef58b404ae797ce983d0d6818d2592ac97003bdf72b1f75df30292",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "a4a69aa96f8a0d97296bbafd688561f61b029e62e101e2c028503ec44dad6dc4"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8372-1999-sapl-2479.md",
+      "sha256": "f970431588fe825243ae4758dbbd4361cbb115efdc533a711f0943ff400b1f8a",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "241dbcca01611b76a274d3dbb841932f6a81b9c1faf684f6e62c814075f630fb"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.517-2023-sapl-25935.md",
+      "sha256": "b0abc51429e4a4ef8fb96e603bb3a52c0c037e3d6ff6e2cc658395e9d1a2ff77",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "ebd319da0d76d89f89d3363763b50d479652ddcbbec1543efe00f824e01e4ba4"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8371-1999-sapl-2478.md",
+      "sha256": "0dd326260526ee56b4b18547d3e613ad06ae75e1853cb65cd8aae45a0e67aa76",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "5c8ee204fa659e6446728571f2bca475c0199b123901d5c70e54831085880f11"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.516-2023-sapl-25934.md",
+      "sha256": "71d916df8f77543d5f1fbb9cb9a7bc1ef2b793c7b293bc2623dbbba6d28b4df6",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "28346b4a9a6ec093b99756be4a336fdab45d8bc47780d46f9451ff30605402d0"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8367-1999-sapl-2474.md",
+      "sha256": "0e1b5271ec1aafac3bd392a78eebef56c32405d2081b07a50da34a5c4c57cb49",
+      "aprovado": true,
+      "dispositivos_ativos": 36,
+      "historicos": 0,
+      "sha256_fonte": "6df82ad9c2fa8da504b31728a602cf9b44b4cc0ba5ba62639523488b9c16bd2f"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2026/leis-ordinarias-2713-2026-sapl-5369.md",
+      "sha256": "04c5bae4fcbe5f680199cea8f00c820c0ba887980ee5409912cc6ba8db2af9ed",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "515f960d1406184800973d8db7764729c72c7f0d84938628d7f857df2bddb713"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8366-1999-sapl-2473.md",
+      "sha256": "d3628506c1bc2095c9cf982abd4670bf1e7c51380e92237c6c7273b4224c7a03",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "0f2a2616ff2110704c59230591d8f19668ed00b18c609b2cea433698f8affd20"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8365-1999-sapl-2472.md",
+      "sha256": "29120680278a88d9c95142b87072b58171e2d659725cb6debb572c304e38170b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "99368eb762fe80a3815ed4293cd204c73f0c436dfe4048a4f5b0f5a651f0655e"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8364-1999-sapl-2471.md",
+      "sha256": "570054cf15f7594dcc6b64a100ed1cf6f1ded825cb1ee172eff63dd0ed9e7894",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "25cf1aaa9b218b3319ac9cca5e57baa474a2aca2660c1eef6b91554c4eb39655"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8363-1999-sapl-2470.md",
+      "sha256": "206d12f5c78dd55543fd05da7c0d695180a72398abfa51e072ca9f60c1fa4ecd",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "dfcc8cc28646dc12f5f112a4bf6ab0afdcc0853742a3e173d66b92f92da57615"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8362-1999-sapl-2469.md",
+      "sha256": "5975d66f2eb7ac13b8119f983bb5899b0eb4a8564e2fd8f9e3a7ecd0b01c45f9",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "cdbd40263308e0c53012e3ee542b13a8b76c431d58b8ef385ce0fda4adfb4c2d"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8361-1999-sapl-2468.md",
+      "sha256": "855c1e1ee2bfe0bdf25806cfa352bee3063f5bd69667e599312d7cb9af768931",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "915123ce41320690064696ef333761b7a848a25b316470b9274dab9f3f8aec42"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8360-1999-sapl-2467.md",
+      "sha256": "b9f47679560bd83ee173315de98961f7ba5f20d5c01803714576ce9b2c1bd29a",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "2e016ee3054271d5a35e11c6aea5ce9548f92b65ac19e27598b22008844b8bb1"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8359-1999-sapl-2466.md",
+      "sha256": "b27e7c92369e859f7574076e3b4d3867d584a0789a2ec1a36e85498346550efb",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "3a978803ef3ccbc4824f573f5bacd077c64a1826e59311e6eb7c10cffdb96145"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8358-1999-sapl-2465.md",
+      "sha256": "396e768236e602db309de2cdeca33759dd7e678186b5b4498fab73623d7d57a6",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "04e6d72fcb74632a35bbfc7a0e765837e2f40f533626c62cabc80828e95785ad"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8357-1999-sapl-2464.md",
+      "sha256": "3297e0b54d6fa2dde8e233f8b469e8fe2371b16658cd7261d9e35028687f1a8a",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "26ae0de1a339bf14efe5dbf5e25c4527a361f69b680703b5bb676c0dc685630a"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8356-1999-sapl-2463.md",
+      "sha256": "6e42be89228c1cd22a8a0c0263f9d971e307b6d6b3a10e79ca43177fc76faa15",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "3decaa90df5869ee1f9751e5dc568af3b6a604c83081a3a5436ded13fe6d612f"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8355-1999-sapl-2462.md",
+      "sha256": "220313901120bc5ddc2fa789afcc2ad94834d7bb01bc732ddaf27649f6fbad6d",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "1c501ea42076632dc2f0ff51515ba3cd58fbf2ffa035bcfa2a3219b5bf8671eb"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8354-1999-sapl-2461.md",
+      "sha256": "74355d12157cb37d0f57f236cf4db7477a21aa796c7fdd9ede0fa55c733c96f9",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "c7c33b2141eb16d6cba2113766daf9fe89e6406a5ea9c9f417544644fabbb978"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8353-1999-sapl-2460.md",
+      "sha256": "b88e86a55184186d8cb39af6367d6addab5f236bc527f42261eb931ad7b6bf1a",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "f6f63dff7f320ab5785488e5830fa9ce92fb899ab5075d3cf81eeb74f36ef10f"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3111-2023-sapl-25892.md",
+      "sha256": "0cb2abdac4013a239cf47be3641283eb49743ffcdaffc4b82fd90423cf32edc4",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "61cfa37f7b4be9b511cd73e679b06c156e96a64d07740f4972c7c142adeef4a3"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8352-1999-sapl-2459.md",
+      "sha256": "8b2a93007ef6d9c06888cee6eb49f00d262c75ef595dd0e67685fe69ae1be40a",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "c199fc1ac78ff4a40b62b4333234d005b076611da2d1a57f3cccb7b4b1e0f521"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3110-2023-sapl-25970.md",
+      "sha256": "ae98f3e5204dedac2ee0564652f4ce6245758d9520e94811316ccb5d5081258b",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "fc882a9e3a3ba41f3237bfc5915494db2020550f5a706b4ff743c7c91d3858d4"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8351-1999-sapl-2458.md",
+      "sha256": "78391ae2c5ae777505d4b15b2986d10145eba5324e9599ca287418ec2b055a97",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "69c3021ac38decedba6c2387fa2cd98915b39d64b2757ab89b71291a424a8b06"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3109-2023-sapl-25969.md",
+      "sha256": "932b1147d305a270218cd87670ae7e1f42b3b47a2f779cb893f468ea99acb4e2",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "d77de0f89c431fa2d0f3b755ba2a544654be8e0f508abded9f7f55c0fa8adc86"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8350-1999-sapl-2457.md",
+      "sha256": "cd80dddad98bc901285acd6b19d48e6095c5958a0965ad63ff6bbcf32d16609c",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "388376a8311c88ede15dea5862bc42c73886e5a93089a057096e8192753fec55"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.496-2023-sapl-25918.md",
+      "sha256": "1c393b8315045c195631501fec92707ca0cdd1d4a90cca4b2ab7e63e965a03ea",
+      "aprovado": true,
+      "dispositivos_ativos": 6,
+      "historicos": 0,
+      "sha256_fonte": "5c2b6253f5cdc12796e90620e6f1a5247ad5fdf7490c3d344f71b773e094c23f"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8349-1999-sapl-2456.md",
+      "sha256": "a705836f1e40cb256df2d1b8fdbe2162c450b0d489f1214d5e63e9e09937730c",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "e75503cd0e1d616f841f564bd9ece98dfdf6c237482218e4dfda46b14a325a36"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8348-1999-sapl-2455.md",
+      "sha256": "72a70451abec594d57c319ff6d13b72a9908ae1596391dc90f27bc3f68f52a62",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a79454f3e766571964e5d5ca25e813fdec446dc3df6203473028d5af22fc0d34"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8347-1999-sapl-2454.md",
+      "sha256": "04b6ae379ae4e2b42c360b58a62b7b26ae88c019eebd629a6d19c4507d209fa3",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "5d9b6bbba93858e2faed3f5782624b80190cd7849f5f3ed924ec07c0d6d51179"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8346-1999-sapl-2453.md",
+      "sha256": "841f333bf77ab36d738dd1c20dbf9e94326cbb2dea6170227001db7052226fa0",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "15ba223987d9c1cbc548806b16201c715d11ff87ad7c31622a935f2b1d8a6daa"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8345-1999-sapl-2452.md",
+      "sha256": "62d84b2631cfc2e4ebcc6ce1e266f9108913206b79703a72366351a67128a0de",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "b85c0b2649d1642bb7048f4044fc82b24f0465b76d3848da2106197a48f55274"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8344-1999-sapl-2451.md",
+      "sha256": "751f38b0bc4fffe55eb0730e8e22367ace2569d52c046785013d44a8c99cc1db",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a46e39d537b6e87f824ca112adb84769aa5b90294ae133c7554e82c186bd2ccc"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8343-1999-sapl-2450.md",
+      "sha256": "8218915323a1fda728f7c40c0effbf9ae533082aa72f71aff00e8355c0fd3a47",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "105732320ae331af4812ef260e74b1740bc9360e47754b2b467875efa57ed797"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8342-1999-sapl-2449.md",
+      "sha256": "d25fbd8f60479cf9437cae08d68d7349ed2c3dcf13b0cd371366ee098193c6e0",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a4e100ac8e8142abf07da8e333dec707008985b614bf8658a5d2a1b396e58710"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.488-2023-sapl-25887.md",
+      "sha256": "cba12dc548a55328e887c1effa0101a4f27fcc376b3a3c97acb830f853442dac",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "74c28ae0ca1e144823e457d95760b1416c814fdd74a419672f41ef2b0bb2cb50"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8341-1999-sapl-2448.md",
+      "sha256": "888904a10a126ae2ba226495e3fab167c71b7bae8b195112ae2927bae722593c",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "f6cea0844e44fe5c542d1eebf3d9cd3971d5d7bf6b5158a16bb908d73c6b09cd"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8340-1999-sapl-2447.md",
+      "sha256": "0dbe1a06cbaaeb541a1d7302e13ae917f1b5477d664740ae2335f42ddb72cceb",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "e578cf6a4ebfc1222330ea16397cb08a3402c826ad3b5700d544fd89f45ffdc9"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8339-1999-sapl-2446.md",
+      "sha256": "b75b44e188594d6d48008408f6eb092afc7a5cf1602a176d7a456c26c5b20b42",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "ddf3b1836bb664de9a4817c5939dff85df3ca0f137c262616ba60bf5ed6ffc36"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.485-2023-sapl-25886.md",
+      "sha256": "34a51ab23105d2a271c7c2e9ebfe2feada061fb62048c17e391d0d749980fa22",
+      "aprovado": true,
+      "dispositivos_ativos": 46,
+      "historicos": 0,
+      "sha256_fonte": "a416522350dd495e2cecd36ee195e0fac07f5bc369a545da0d8abc1c55f0f4f9"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8338-1999-sapl-2445.md",
+      "sha256": "558a0c5c35a6e2663d41eb94e846121268787f5dcf1e79ad7db6b56c4b92cdbf",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "8a04968b7290d24a685a2c4056979d7c96553444b2f7175df9018e173498862b"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8337-1999-sapl-2444.md",
+      "sha256": "7514f504de8a5763448c0187c47de393d1fde02d19a805f2e8a80f64f21916fc",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "d259831fc7d4a0ccb1066cb070d6666d4469289fedae745b1d8a268cdb1eb39f"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8336-1999-sapl-2443.md",
+      "sha256": "135a672ae3ca69d9e428cb762c8f35456abe94e6ea263c7243cfddc64be45c92",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "f04c55f9309a6518460288610666cb337f3abee137ac729dcad4847b70d6679e"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8335-1999-sapl-2442.md",
+      "sha256": "4526d40a036634d85498101b5b1dcc0f9b89438b632a34939585c0d91e188066",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "371909c3506d92da62b9220c622564f5fcf547797f0317556bcfa0cacc787477"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8334-1999-sapl-2400.md",
+      "sha256": "b98cb9efe6c6756208e46ca3dd697da60abb95149c11c6a2a1f44dfda8d854e0",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "49eb68a9b7f1a101716915b1c7d73ca3cea8e5e850f9670b22352170d009c05f"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8333-1999-sapl-2398.md",
+      "sha256": "d0ddbec9611960f8bb193633595a3418115a328873cbfe985827a064da191d60",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "ccc5ea2d50d9d8ac395529e28d0cb42954d9534e902d1757a7d29b7e31698d5a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.479-2023-sapl-25885.md",
+      "sha256": "90fc6992e2960310ede1a00d961f877c84dbf927917b811293d7ba99407aed77",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "ed06792445d730eee8b280661f3138ffe390015f5838568c7ab2c21d16341541"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8332-1999-sapl-2396.md",
+      "sha256": "3c624fdb9b6553105cc55e9f5cff95cb38744d24121d57bf348f69737c9b9461",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "d82478872fdc2e870df258489c35e73713d836e58983ee46c868159f1d112986"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3108-2023-sapl-25891.md",
+      "sha256": "2ae50fef10a512757b8ecaf5d0c67609d1f3c00187e93c89ac905f4759424120",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "d47228810478af3725b80d1bde5401716659ff89717cbb835d45c591aee7818d"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8331-1999-sapl-2395.md",
+      "sha256": "05e8ce6dc52c70e37149a8a17132ad386ddec4d9b9c1bf3be26c1c6448819440",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "71b3663486e362a83b5c8d7519a7ea685550a753da248d15666efad157b017d7"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3107-2023-sapl-25890.md",
+      "sha256": "56b958af037bd6543119f0ec7033556e9c3371a6910f89aa08e6accc0ab3a37a",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "3da2f19aeff2b196f5acb9b2f4f86c1cfe43e5269f6c512ce1db3dc9f013d541"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8330-1999-sapl-2394.md",
+      "sha256": "b5b2580c46c41a076ab3d4aa020f18abefd8619adc67902c245a477d239c42d5",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "d2a686d836273815862fe7f678184fbd366908ee51b197e1f0ea931ce8449e91"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3106-2023-sapl-25889.md",
+      "sha256": "3941ec7716c8d879779dfd91a7973f2a1f9925d8ef3e084d18f9c9723b54259f",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "642213faceda8fc7a671fcffb0f4e0c9cba6a0e6664e4efc6691ec97e8956a79"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8329-1999-sapl-2393.md",
+      "sha256": "0eaad97b75e5c9bae59fc372648ab2d1c31e88352af5ba23a9e8f32699ccbebc",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "d479a43399119f24f3687715a9521af81ec6570c92a2412bea34e1e02e99bfc1"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3105-2023-sapl-25883.md",
+      "sha256": "17fc39e2f0cec2e0c489073ad19e058a86d9caeac6d337261094cd5fb73a9798",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "b9b4381a5a8b17736a8e66ca2102be1d553b4d06f5fe284c1f616c019e75121e"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8328-1999-sapl-2390.md",
+      "sha256": "3e88f291cff868d861b636c51fc01afff92e9eabe7b25f9c593782c7d78afaa3",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "50923911861acf5fc99690a2c4d414f84bcc39483378d30d11e647c45891ed14"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3104-2023-sapl-25882.md",
+      "sha256": "87eb7f1c030d50753d51e40a2004a08656ff4e7f018b97f114b4e72a31499c5f",
+      "aprovado": true,
+      "dispositivos_ativos": 39,
+      "historicos": 0,
+      "sha256_fonte": "b0bfc0845ec3791b72848057773ccbb290eb15e41f81f3b550474e0648612dc3"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8327-1999-sapl-2388.md",
+      "sha256": "4a3dbac872c61412262ac6afd4e5ce0cd8fa2f4bd19fdce8d2cac96abfa2a1be",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "e1683ce59ef8a76935c9123627a110476dd0f7360ad0bcc82bce085055bfc0ef"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8326-1999-sapl-2385.md",
+      "sha256": "23e2a0b86489703d82e8f5ce1a0b9fefcb62bd43a7b0086eb474ceb8cb11bf20",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "02d787785d9e8d0c883f1654f5f54dc0ac9e6327ab621cdd92c4bcc32574975c"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8325-1999-sapl-2383.md",
+      "sha256": "4e2e047252f1d46762fdfa4ffb630951013d7906b352aec2c7f288eda5976446",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "6e7162dd5708c94e415533085625c4ad9ebdc877f26ea355a2099612699641f6"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.475-2023-sapl-25874.md",
+      "sha256": "65239eb4ccab85ffab7f6e296e5f13ab8377e8c333563dbf52042fa12720bb08",
+      "aprovado": true,
+      "dispositivos_ativos": 28,
+      "historicos": 0,
+      "sha256_fonte": "13dd705dd519a34d701d800c0c5fe960488b60560e8e316718d191863dbd03b7"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8324-1999-sapl-2381.md",
+      "sha256": "302e5bc72a4379099260a5495ce836d2cad13bd1aa35de059cdc06e59289f4cc",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "ebee87f3dceec80042b02d21c2c386b118500efc3eb5d434e6fc4f187c0053c6"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8323-1999-sapl-2379.md",
+      "sha256": "21222b5429161a27020ce95afcf6d9ad93723ad1280b465f125908f28b73c5f2",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "c530bbebb7d7cf303a4e1bd91d5aa81e240294a508ca9d47da9917cce81cda26"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.473-2023-sapl-25873.md",
+      "sha256": "538af5e4bd1eeceb0aac895b19f7952cce094e67703b9e14a9aa3edc35a9466e",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "96f48434e9b7c1a10ddcccb99b95362c24079af4be4c78958cccd6d70dcbf9ca"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8322-1999-sapl-2376.md",
+      "sha256": "8658a53d0902061f8e31db628e57442325fd230d7c8189ddc751af4f6803d6fd",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "ad517a369cf05a2007b0ab2f9c3ea5a039b59a75d157b7576821e93693466bc6"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.471-2023-sapl-25871.md",
+      "sha256": "252a9118ce7d97864eb6b56329d1838a24780ebe2d87d4e327e3223832c59cc8",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "0d221ef309feb258ac414513f352773eab2804bf60926086bb90b236d7bf3b75"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8321-1999-sapl-2375.md",
+      "sha256": "4be5ed6315625264be2a2fc3f075b972d714a46ee8dae8b17fd19d883e81864a",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "de40733e42743a2697c74ef0557d51eb04a4637591763ba55c2d4f6a3ddc2f8b"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8320-1999-sapl-2374.md",
+      "sha256": "2ea01e1b96c3d6e28031d62b8386ec2719c70664111e1cea3bf4b7b80eaeaf23",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "192a3b443c52b1776d052ea94f23ce97cf22d581d861ea8f9a5834b86da37343"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8319-1999-sapl-2373.md",
+      "sha256": "ef7a44c2295bc3bd8e16218219ca900bb2cc4f019fa21a632af6d6da2c09cb48",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "d86c3308560a993c26509fed9edbb8607d7974f52d153e764ad1668b959585fa"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8318-1999-sapl-2372.md",
+      "sha256": "dee0c65ffff63976a9439fa8b6ff75836e68d72ef60f74d7374633ecd320c3a9",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "048a20f86b988bc062b7335bbff5abf503963094e52f8a8dc3d0dc14d427af0b"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8317-1999-sapl-2371.md",
+      "sha256": "8b17684c5556a66c0f173283be22bf714e5c4fb3f779f3186d3d87fb657f8870",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "def9100581614620efa16783b0b66a6f5348a70ad70a14f4a4dd7069d3c9071a"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8316-1999-sapl-2370.md",
+      "sha256": "c4e02e9d54264eecddfd5ccabded73917378192f30b4363d5c5e205d07dcbb58",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "7c14c9442758579040e8514177934f30580f553befc03aac4594192efaec8037"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.465-2023-sapl-25870.md",
+      "sha256": "10f68565482079bd6b4bee8ff9135b828ec4ec1c220e73ca56f37af21d2094af",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "74e7a374288eaa5219063c572dffa726280375d84e26961984b8c3836709a314"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8315-1999-sapl-2369.md",
+      "sha256": "fefa08af9ae75c001890d7241c55cd23e94ba7bfac91ecdca18f68c451b00111",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "91bd3c7ca001bfebb1c02182cec26a34e4adbf092dd060fd3ac9c31b3acd39bd"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8314-1999-sapl-2365.md",
+      "sha256": "7dbec7289520beb7f89bee7e3e9f1992ee8f9e843e60689385c94e721cbe329d",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "9d84b8b570f9fc9ed321d3dbb54ea90ef489dd8c9e907cd200d9408310225d2e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.463-2023-sapl-25868.md",
+      "sha256": "990efee973c7fb6f05c8e08eba53d8959de05d5162d59795236996ba9a3a8257",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "6772f0c2dc3dbf05522d73793ac2c80ab3803969b72356a884abf7b894f9a814"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8313-1999-sapl-2363.md",
+      "sha256": "bdfefaad30eb86f07d1762967a52765d43403bfefb6be9df5e7b1aad5ebdac2e",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "0c864c612d448d93904d1950ad9f8be4680df567506af3b47f886dd9ae791619"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8312-1999-sapl-2362.md",
+      "sha256": "da531f64621e04cbbcba638bd1e9fc26b9283172886be38b95fd95886c7e527b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "ce27a8fc3481af4090c81723a8ac36297c651b11c69ad17932a90832fbf9989a"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8311-1999-sapl-2361.md",
+      "sha256": "90585044d8cb567a7eca5a83e037639cdf76501756f382bae54aaa00454371c6",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "579b448ee1b8e20fb63da8257461bd989a7e9af75e41f1dcff0715399e7e5a88"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8310-1999-sapl-2360.md",
+      "sha256": "0cdeeef99c938c5bc120c826753f54af1eadf3cb344d9e46e42ee3c218a68079",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a6acd378c8bb4645101674010efc923e5767bc74106421ec6ff0ebd3ac23661b"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8309-1999-sapl-2358.md",
+      "sha256": "128dbbb6ea8385bc7ae5a901d15cc064be45e3c5bfceedfffaabe027abac316b",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "3d432ca80e6faeba90f34fe94fb81d3d5450a58ce17d5cf987a85a4a6fccda1c"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.458-2023-sapl-25863.md",
+      "sha256": "c166cc3e7c91e77612b4ed0881760b14a1b54b0fd7f3d6d95cdb727c908b0f74",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "a102efc543dbfdabe2b74b4b8d9ecf37017c720261de74e9bfdae4e86255c0a3"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8308-1999-sapl-2353.md",
+      "sha256": "b85434367d790ba1b0fe12b9a8503b6abeccff1da881567a51ecc20132c75977",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "d55665c720ea683fd80f2f957a9c43fbbb28cbc6b81ba2ca2f1aaf8b1180ff56"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8306-1999-sapl-2350.md",
+      "sha256": "86d171f5484f0de1baee1cbb78b726365ee60e828e7604f14417a2461d765f43",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "bc77c9c87b70dd44ab73fdafa1740ec26522d391c7908a7f8021fa06c8dbae5a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.456-2023-sapl-25861.md",
+      "sha256": "743f5d94817c0d25553740989aa3b264adf385767a24dcb9b74a1a2a721187b8",
+      "aprovado": true,
+      "dispositivos_ativos": 26,
+      "historicos": 0,
+      "sha256_fonte": "eacf0b91a6558f7c1f9a1d4bcf63d5c1544b00e6749fc19716a5f24123c894ff"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8304-1999-sapl-2340.md",
+      "sha256": "2b9370e8dbfba50de233a892ee4779d211f24de77c3740e1515fc5fd8441d670",
+      "aprovado": true,
+      "dispositivos_ativos": 22,
+      "historicos": 0,
+      "sha256_fonte": "7bf6899e48adb1b32b8c564e750f7d180783d976f832cd758f6e5a963a05ac68"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8303-1999-sapl-2339.md",
+      "sha256": "1836daccc15e47682241f94c9e6bfc087b590ddb759b2255432a7b8c3a71be6d",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "95afc22a6b1674de27192d1395bc47bed8cb4c6d78d518a10baaa104e0d4c6ca"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8302-1999-sapl-2336.md",
+      "sha256": "70ad03ddaa3d866c251a8b9def726dc811c695b6b07f57c14a84c85ace892106",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "1b12162daa7c8a007e7bd632c8e8ad907fcec49dd3f615fbc723c5f62f39e110"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3102-2023-sapl-25880.md",
+      "sha256": "7f11d9877434eeffaacdbdbddc8e02e1fa33772ff7f99dc81a45c2cb0f5873ec",
+      "aprovado": true,
+      "dispositivos_ativos": 35,
+      "historicos": 0,
+      "sha256_fonte": "230b98bebc35abdf8f6e63773a60a943c5d1ffdea0b36ce1dad65fb7d712af97"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8299-1999-sapl-2314.md",
+      "sha256": "8be77c30166ecd2260d83bb97d032f1fcef2d7112cee3d2fcdd939157d65d432",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "cd8b627edf843f1d7c9c1c1611032a28db4d4046c3e37861871e38a3cc1865f5"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8298-1999-sapl-2313.md",
+      "sha256": "d1ea054eae36866f922b74184427d92710fa18a5024aae07c8c65abe1cac42bc",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "8b5dc65728744718d5518fe1572d9054476fbb68d9e933c3d55de83e963a7475"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8297-1999-sapl-2312.md",
+      "sha256": "fbfa927c8acee358d218992151bdef2212f731c1e08331a669ad936ef9880c10",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "99e470f4068c9e3c46b5b76533ad4895979050ae10b157fde8a6f58037dfdd30"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8296-1999-sapl-2311.md",
+      "sha256": "d3ee6e524f3f449153d30793cd363e8c56c527c897072f2cc6ddf55a9aa457f8",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "5b36f7cc936d156460d0f9c0d4267ccca701f5776f95b28b3fa1ed8396729c63"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8295-1999-sapl-2310.md",
+      "sha256": "7bc0898bc74eadd0b9ec662e7ee84c0401028c6c1c023026ee7e5cfe7b41511d",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "89b0ee9a23ef6012bf7c20cb768c59ca5f2c7f90ecee0b9bf36c8e75d027127f"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.449-2023-sapl-25852.md",
+      "sha256": "2ca3d61d9d2c7ac32a52304dffeccfa4c0ca7c65bef32314c6d5feeaab01a6f5",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "332697d6be60ae07210a9209358e3a5b333f5c002d32ba19f9fbbe099db82a5b"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8294-1999-sapl-2309.md",
+      "sha256": "0936f25613120cce80658ffe40c90249120b5fef0fa182ef8eb3fed53c59345a",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a52b5e8d0efe60d65827ab03d41a5c5c12c37f1de734cfc919952a16392d128f"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8293-1999-sapl-2308.md",
+      "sha256": "b0d6bef9db84e59541d48302a9fe8b36174279c3501dca9cf8f374df8a841629",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "b0751446c378f68b06ddc1ace2315a1117e1ba2d9510e04f6829c1b096132840"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.446-2023-sapl-25849.md",
+      "sha256": "751b1a4f7e5f7d378a685e62f2a5ebf3a3d1a58f2a4ec41e429b5aee9fe39413",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "07e12f8125eef937035528fe9033b349dc3b6027a681dd796ea680d6fdc83e51"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8292-1999-sapl-2307.md",
+      "sha256": "3f525d24034926d96e93c3c966722b8eec2ad958060a98cfbce1f4cfe7f75b76",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "bda03ed5e182ebd93c45d65389cd085365932ae15f5f27cbb71276b4f14c64a3"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8291-1999-sapl-2306.md",
+      "sha256": "11e4d3c81129aefba919d74db47d02a91534ad1fe3069e500e19f8abbc3c7c49",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "cc58282f0cf4f69ab8ea749f4344ce0f35d63ae1f9aa9ac9435caf5222a144a3"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.445-2023-sapl-25848.md",
+      "sha256": "36aef764a0f0dfa398a8fdb7699691753adcc9c8aced6296f32087f415d9bb28",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "c3403726518f02f36227ace351111c972443c93fcef643d8e69eab46abf5fe4d"
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1999/leis-ordinarias-8290-1999-sapl-2305.md",
+      "sha256": "c3aaf96b8267b9fc7b63909a300b902ed2050931224c49d1af36ec00523508c7",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "9a770dc86a1d557b2a63a721475ddc8b60fb01772ac9cb513bd15acf43084d85"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.439-2023-sapl-25842.md",
+      "sha256": "540cfb088b352eb8bf669ca7be2fe2a6629a95941a84a55880b2a242b5534411",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "bd607df53b6cc59b59eb908ca2f882c26c219106a82eab67a21d04984bf46981"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.427-2023-sapl-25829.md",
+      "sha256": "a3a675973f0b43a42fe51e325cfd85e39415d99842675c71d8eaa207a70aa849",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "318a18bd057dbbbf00d3f69d6a2d9671a95a6bbbabafd810f691ec7e7183a761"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3100-2023-sapl-25812.md",
+      "sha256": "11f313f6cecb9e7f859c1a5be87ff61ba8248ddc71a282ac83013d8bb49511a6",
+      "aprovado": true,
+      "dispositivos_ativos": 41,
+      "historicos": 0,
+      "sha256_fonte": "8827b33d682ad8e239b14262e08ce4c80a618673ed1aebb641fe410945b0618d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3099-2023-sapl-25811.md",
+      "sha256": "55ce10087d2c9e052421d95e24f2c41c4965ec3cd32501bc1cd421533fa7c8e2",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "b4efcb1703a967db41510f2256a4843c8ba5e07985219dcc84a25e1e563e98fa"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3098-2023-sapl-25810.md",
+      "sha256": "bb2bb2f0c343355f36e2f709311cd7dfef130bd83f6de2d1b5c1fddc02892302",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "65d841dcb0a58040931cb2bb0c625f8a7503e97286847fc1dda0c443808d8abb"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3097-2023-sapl-25809.md",
+      "sha256": "77026ee4a205b851c2f1eb4d840dda52c6d9e0699de79978a943f954a6d7c52e",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "871f0edea7d70b678ace5c8035f30ef8b224a8dae66c2bf869a28ced2f086ab9"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.426-2023-sapl-25828.md",
+      "sha256": "d0cba9e36c72753accd7b26deedd71b113b8f36f9dee5d2e2d8296bba4bbbe7e",
+      "aprovado": true,
+      "dispositivos_ativos": 42,
+      "historicos": 0,
+      "sha256_fonte": "292960734a25cb5d7278aabd99e80b942d0e95f11e30eb6e5a42577dc195c723"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3095-2023-sapl-25807.md",
+      "sha256": "db18b862f43c4e65e34c5f286b48ed321628965f78ef74c0691f3096830a138c",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "62793ba5d9ee69acfb711e0f7db7391a175ff8bf983c07ba109d02e1e9485a1e"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "candidatos": 552,
+  "aprovados": 183,
+  "retidos": 369,
+  "jurisdicao": [
+    {
+      "path": "municipais/RS/erechim/resolucoes/1969/resolucoes-1-1969-sapl-5701.md",
+      "sha256": "0763033627ccbffefbf667ad64897f615b37df96b685b3b11738b13d84a1b7e4",
+      "esfera_federacao_api": "M",
+      "alertas": [
+        {
+          "municipio_declarado": "Erechim",
+          "municipio_no_cabecalho_normalizado": "pelotas",
+          "offset": 1908,
+          "trecho": "SSÃO DE AUXÍLIO A BANDA MARCIAL COLÉGIO PROF. MANTOVANI=PG 253/66.\n\n\nArt. 12.\n\nPROPOSIÇÃO CÂMARA MUNICIPAL DE PELOTAS, TRATANDO DA RESTITUIÇÃO DO IMPOSTO DE RENDA NA FONTE=PG 12/68.\n\n\nArt. 13.\n\nPROJETO DE LEI DO SR. DEPUTADO OCTÁVIO CARUSO DA ROCHA, TRATANDO DA CRIAÇÃO DE NOVOS MUNICÍPIOS="
+        },
+        {
+          "municipio_declarado": "Erechim",
+          "municipio_no_cabecalho_normalizado": "rio grande",
+          "offset": 2143,
+          "trecho": "RUSO DA ROCHA, TRATANDO DA CRIAÇÃO DE NOVOS MUNICÍPIOS=PG 6/68.\n\n\nArt. 14.\n\nPROPOSIÇÃO DA CÂMARA MUNICIPAL DE RIO GRANDE, TRATANDO DA IMUNIDADE DOS SENHORES VEREADORES=PG 7/68=\n\n\nArt. 15.\n\nPROPOSIÇÃO DA CÂMARA MUNICIPAL DE PASSO FUNDO, PEDINDO O APOIO DA CASA AO PROJETO DE LEI DO SR. DEPUT"
+        },
+        {
+          "municipio_declarado": "Erechim",
+          "municipio_no_cabecalho_normalizado": "passo fundo",
+          "offset": 2256,
+          "trecho": " GRANDE, TRATANDO DA IMUNIDADE DOS SENHORES VEREADORES=PG 7/68=\n\n\nArt. 15.\n\nPROPOSIÇÃO DA CÂMARA MUNICIPAL DE PASSO FUNDO, PEDINDO O APOIO DA CASA AO PROJETO DE LEI DO SR. DEPUTADO PAULO BROSSARD DE SOUZA PINTO, RESTABELECENDO O QUADRO DE SOLICITADORES, NA ORDEM DOS ADVOGADOS DO BRASIL=PG "
+        },
+        {
+          "municipio_declarado": "Erechim",
+          "municipio_no_cabecalho_normalizado": "passo fundo",
+          "offset": 2606,
+          "trecho": "CCIONI, CRIANDO O FUNDO DE DESENVOLVIMENTO DA PECUÁRIA=PG 9/68.\n\n\nArt. 17.\n\nPROPOSIÇÃO DA CÂMARA MUNICIPAL DE PASSO FUNDO, PEDINDO O APOIO DA CASA AO PROJETO DE EMENDA CONSTITUCIONAL, DE AUTORIA DO SENHOR DEPUTADO UNIRIO MACHADO, TRATANDO DA APOSENTARIA AOS 30 ANOS.PG 311/67.\n\n\nArt. 18.\n\nR"
+        }
+      ]
+    }
+  ],
+  "replay_retidos": [],
+  "criterio": "Retidos não integram a lista de normas. Controles conservam os motivos e identidades; não promovidos por contagem ou por comparação da mesma conversão."
+}

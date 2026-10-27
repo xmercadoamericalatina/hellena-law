@@ -1,0 +1,2323 @@
+{
+  "criterio": "Triagem de esfera oficial e cabeçalhos municipais nos corpos TA completos.",
+  "cadastro_ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "script_sha256": "2eeaa4c3704a0a720f4c6ecc157406c9062522a8c8817066d60ac60573aaf9bd",
+  "emissores_script_sha256": "1749efcc1a6334b652716841d89cec2170eabaa580b23937b4a83a5ea74af023",
+  "resultados": [
+    {
+      "path": "municipais/MG/alpinopolis/resolucoes/2025/resolucoes-4-2025-sapl-153.md",
+      "sha256": "a6a8cf31fbf383f4f0e0f59b954380112b367502ae5e1ec92e15be0232833592",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1585-2026-sapl-124.md",
+      "sha256": "c8ca0b2658695acff2625ef063abbd20ae28042b7e599c34b8cf78c9b165a65b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1782-2026-sapl-3698.md",
+      "sha256": "f2bd044647f6a91b52bd3bd3f5729d2a59f54c6d865c771b79e630d28f510ac5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/1960/leis-ordinarias-187-1960-sapl-267.md",
+      "sha256": "5bd749ca5d34d5b35dfd5eb7c6c92482df8a34263ddfc8d8d7e6192e7b7e5b48",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2621-2025-sapl-5110.md",
+      "sha256": "73a9ad168bffefa2546d84e710d8c634e1b4da76a5be8af547639940fdc731d3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1584-2026-sapl-123.md",
+      "sha256": "893502511d3eab0d252c6000ad0c3d257d9917217c43e403b8a8853f8df1d6f3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/1952/leis-ordinarias-128-1952-sapl-1065.md",
+      "sha256": "9700e8856fd581e96da76b8dca52057d2f0382cce36a1b6b2349adaa1d437ea4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2620-2025-sapl-5109.md",
+      "sha256": "e876f071390e7e4ada7c3eee18ebdd72edb9d97796f0463bfac2cd3fdddff279",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/alpinopolis/leis-ordinarias/2025/leis-ordinarias-2551-2025-sapl-120.md",
+      "sha256": "61d83136d5bba621fa6e8401e0939d252d5371367a268486029d2f176b812a82",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1583-2026-sapl-122.md",
+      "sha256": "570cef0d65026c8b56f495a7d598842737be4bab30329a4dfda5b3266cfa38bd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RN/acari/leis-ordinarias/1950/leis-ordinarias-89-1950-sapl-266.md",
+      "sha256": "db22e0b1cc249f6aef194ae881ea6d88877391238648afd26c1d111c8f4d1c5f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2619-2025-sapl-5102.md",
+      "sha256": "fe0f2aedc31715ad195854421d7aa9a0d9fc1171784ec3a243168bd737f0e893",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1582-2026-sapl-121.md",
+      "sha256": "2356aec236aa4df9914ec423ce10713189a629e6a50ea6b4b21810b5369fd946",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/GO/alvorada-do-norte/leis-ordinarias/2025/leis-ordinarias-579-2025-sapl-615.md",
+      "sha256": "cae43a78be5ca9183e81e95dec378e9efe15cf0eb33f39bf114288641780bd71",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1780-2026-sapl-3696.md",
+      "sha256": "50d00cacaf958464b5e9c510d362dddbb39b3e74b6f318b950732373cfa425d6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/alpinopolis/leis-complementares/2025/leis-complementares-214-2025-sapl-136.md",
+      "sha256": "63d0309d9f2ba8d5b5a1ab98b8fb9eda7a474b9ba09c1f7d4bee2642f1df8841",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1779-2026-sapl-3695.md",
+      "sha256": "d31d274199dbf0cd47d6016926a11619e4395223301c0be6721e439d5fd350f1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.206-2023-sapl-25552.md",
+      "sha256": "18f1eec59651f231ae6a68b580670a7ec66f03f2c39e9a453b9ba5f727dc6649",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/alpinopolis/leis-complementares/2025/leis-complementares-213-2025-sapl-84.md",
+      "sha256": "4ca3f1377f95b402700b44124f7a079dbda0e795c9bc6163d9bf99d6525e7cae",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1580-2026-sapl-132.md",
+      "sha256": "272ec4df0032baf79e2b856a3cf99f83ac023070c9d0a4dca4a5413cf2c388ce",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.204-2023-sapl-25548.md",
+      "sha256": "848b53021486df6985184b22f9e0cd24aeaee2e1ed311f5fe1e392d88da27241",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/alpinopolis/resolucoes/2023/resolucoes-1-2023-sapl-80.md",
+      "sha256": "3cf5909d01a50bbe326abdef1e7daeead83c5b2181612291070029f37b17e272",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.202-2023-sapl-25546.md",
+      "sha256": "6e2c6ecd72298078851736d84980859b2b56777b73b7b6e084279faa6a005563",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2615-2025-sapl-5097.md",
+      "sha256": "c04956053f09791319e756d394510915bb5093f9cb1c9ba7a527a01dc77e330a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/alpinopolis/leis-ordinarias/2023/leis-ordinarias-2.411-2023-sapl-34.md",
+      "sha256": "74d9ca723820cf6b103cb27e9fd7b62b46bfd75abe74c40b92ece0f2e0c4629c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1578-2026-sapl-130.md",
+      "sha256": "85d37b701a864ef42fdf6f20ad9900395c5ac5e5df108e14ac3c9ec6d7dadd57",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7969-1996-sapl-3213.md",
+      "sha256": "3ab174c5b54c544c8979707198b3339dfb7759a6f600818a5d50a8c46777b04a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3068-2023-sapl-25551.md",
+      "sha256": "c2d2538affde7ae18c1252cba4ea75e4840404d5f5141dd1c7ef1e870ac36c9e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1576-2026-sapl-128.md",
+      "sha256": "e8e1038d8642480b66b2b71d06e35135feaccfdea5f1174031f3bdf696262cb2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7965-1996-sapl-3209.md",
+      "sha256": "4799f0e9bc7a4cb53731de63fb8eb699da67d051b7ce3f60347b66f90448e910",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3067-2023-sapl-25550.md",
+      "sha256": "6e15bdfabca84d667ba49064ae589ef5e3deb86f49e26643ef5bc5c7c435961c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/decretos-legislativos/2025/decretos-legislativos-1-2025-sapl-5081.md",
+      "sha256": "2b41feeb9490c94aee988413653726008d14596b9a4f5aa20bb4ce2d960682bd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/alpinopolis/leis-ordinarias/2023/leis-ordinarias-2.409-2023-sapl-32.md",
+      "sha256": "f78264a6e472e42be5bc8a7f2c24f46900403c5d03d4293b4276152a39aa2f94",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7964-1996-sapl-3208.md",
+      "sha256": "ca0a47fed8fbfb89f6bb3569a47098f3ad8bfca7f0bd522e8e64620f3fdb12da",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/alpinopolis/leis-ordinarias/2023/leis-ordinarias-2.408-2023-sapl-22.md",
+      "sha256": "240a87a6a332439e5f7d97e623b5a95d45259b222edda0f1458fe793bd5bd550",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7963-1996-sapl-3207.md",
+      "sha256": "43a6db05ba1c93ffec0fcf6a72d02136550fb671326d925505fd197c2555124e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/alpinopolis/leis-ordinarias/2023/leis-ordinarias-2.407-2023-sapl-21.md",
+      "sha256": "8d533d9b4134122cc50691d843d7465e762db6ca1acc6b5204c6c5042444c224",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1572-2026-sapl-110.md",
+      "sha256": "a97a627347f6ae311e1c53459e6fc95200e0f5231a9f76b943e75bd4b3338eb8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7962-1996-sapl-3206.md",
+      "sha256": "26a5fe6b5e26e41732a3d9125dad668aee76e42a23bbf4603fb52eabf86edd50",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2613-2025-sapl-5088.md",
+      "sha256": "b508ad08c005df074d03674afdbae118cd64cb903489fb1f9f6fe09847e2a0f6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/alpinopolis/leis-ordinarias/2023/leis-ordinarias-2.406-2023-sapl-20.md",
+      "sha256": "373c69ce2e85f9a2dbf02b3982ef2d45015007bde10bf4eaa9084909ebdcd9ec",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7961-1996-sapl-3205.md",
+      "sha256": "7795592d04bb05ffff896b84b93fe57ea915f4890991c8e9124f1feb171b505f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2612-2025-sapl-5070.md",
+      "sha256": "1fb62b91fa55ffee3de969ef3299074dfde02385d4ed17854eaefd102710cbcc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1570-2026-sapl-113.md",
+      "sha256": "261085d3106ff8817f25e1ab1ebd2dd3335005f3ed6714dff9a138cd5e36af59",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7960-1996-sapl-3204.md",
+      "sha256": "b159eed8c09048f352bbd65e4a94a156ce28aece095bae6415ebacd89ea19f06",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/alpinopolis/leis-ordinarias/2023/leis-ordinarias-2.404-2023-sapl-18.md",
+      "sha256": "f3a8bdeb8c3810ccdfb7e34c136dc4fb4b94e11c89c3027e2c23893d0aad119a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7959-1996-sapl-3203.md",
+      "sha256": "bd7b2dc3eda03dba3b77d8b774caae35b48c14be786c83390a9399e240afbda3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1569-2026-sapl-100.md",
+      "sha256": "bf71101477b3a3c472d2361281eaae1d315a19bad15f6c3736aa2bee42f66d70",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7958-1996-sapl-3202.md",
+      "sha256": "ffbb9b565f55c6e7e8af6513845a2a96283232396826cec6f9e40372a5e7d042",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.192-2023-sapl-25524.md",
+      "sha256": "eab81c5db68d6676886684c54400e7f99a5ea1e2684697ef8f4fa17fc764fd4f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7957-1996-sapl-3201.md",
+      "sha256": "db894b0df2ac7b6001f97b3ed62eb1fdd05d77623dac94bbcfeef55a3143df97",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2608-2025-sapl-5061.md",
+      "sha256": "00109b5c72ace2c04dd561be9b079e4169922f35b6bbd5a1e940c292ede5b15e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1567-2026-sapl-108.md",
+      "sha256": "ae4676a1375a2b8ae580e731acf29b24d8dd264d3b3e1aa5a6d334f3ede46d34",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1778-2026-sapl-3659.md",
+      "sha256": "32ffe7f3d5a6a15034ab5c4a2090e953f3bb9894c8b1c83035fbf23d825b2965",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1566-2026-sapl-97.md",
+      "sha256": "421253fd15b242f758093a968a33b71e9fbfebd148c697d6edf0693880d1ea56",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1777-2026-sapl-3658.md",
+      "sha256": "a6e0751567e365dcf02962a8763185ab9cbddb651660bda179163d4187c5bed1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7955-1996-sapl-3199.md",
+      "sha256": "0a8847a2f78b6f647fb4ff993798d08adbbaef50394b230f1e217d7fc15afc91",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1776-2026-sapl-3657.md",
+      "sha256": "39c3dfe8bc385cb1674c1acf8e04b053a6b9a81ec488fa43b589e0f2caae6448",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7954-1996-sapl-3198.md",
+      "sha256": "0d44aa5792ca47a3dbf52cfa4c297feb861f5c2d04d880a93618665359b39088",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1564-2026-sapl-94.md",
+      "sha256": "3b3f55bc8a139b040aeb8d2fad035e018b8557ac1ec502323fe452d271f8faf9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1775-2026-sapl-3656.md",
+      "sha256": "8b0b7c60b677066ce7f45026606ac0552fdb2a2ad0905d96cebd4f4d89620b5c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7953-1996-sapl-3197.md",
+      "sha256": "9413ab6e293629bad2f6b1e84dc2a39adc7d1c7fef9e3f039b4196f430cbdb17",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2605-2025-sapl-5055.md",
+      "sha256": "0697a080a8b4005737fda91e9c0d3d8efb013f851db4320793e722c41f433261",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1563-2026-sapl-91.md",
+      "sha256": "da2e1384ed94b47f2bcef15ebb7f51bb34733046af1aa2f699e572ef794abaa4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1774-2026-sapl-3655.md",
+      "sha256": "2b67e4e4c2b4a4a016a2e535a0b709d782709ad524279068f4bee9652e9df94c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7952-1996-sapl-3196.md",
+      "sha256": "27f5e319c66428b46879bd4280a3adfbafb5ac5a77c4a39ae2f1caf92f3d60d8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2604-2025-sapl-5044.md",
+      "sha256": "4256b4b040ee4463812a58ccdd73523923d0b387317e01cfb68fca8f437fbdac",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7951-1996-sapl-3195.md",
+      "sha256": "a3fc6c03e4ad4eef05879e53c70f207bffaa480295879ded622d8629833cf2c0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1560-2026-sapl-88.md",
+      "sha256": "601b347745e73c40702bda6ad88e71f291da638d4a1305f9e5ff72292462fc54",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7950-1996-sapl-3194.md",
+      "sha256": "7016c20c8b9583d8a7de3adc2fd045c65d3a6bc34e5859e9bd5243fe1ba6b6ad",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1559-2026-sapl-54.md",
+      "sha256": "72660ea2df857cb7c0df4e0bdf4a08b25e68fcb54a077aac0137281723d77ed2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1770-2026-sapl-3651.md",
+      "sha256": "09ccec63696644bf32336ea26bb39493f5e9e2af4b66aa027b119aaa90dc2501",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7948-1996-sapl-3193.md",
+      "sha256": "8aa16ed2d725e8570f0cb875409ac275257b71b65e50257ccc4b08bbec2877ae",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.182-2023-sapl-25521.md",
+      "sha256": "7c4990e9b494c39cd71b9221f280489c8c4a27fd97f122954028429a63bd4ca5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1558-2026-sapl-50.md",
+      "sha256": "3397baa2835dae7d7f1900478cadc68ebfe04da66519149fc5e3461b0ca64d38",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1769-2026-sapl-3650.md",
+      "sha256": "677c6a08a49cae97dd2205dfad1151b5e4be9b50b8bd10d64f0986a406c03019",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7947-1996-sapl-3192.md",
+      "sha256": "ab8d948ee33e2d792f4bb4ecd379c1eaf95561a42ad374a86d6fb78f329d900d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.181-2023-sapl-25520.md",
+      "sha256": "8db3ab9dcfb539deda69eb37506246830a0ca35085e8a7165e748c29f6e69439",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2602-2025-sapl-5030.md",
+      "sha256": "ed2e13f6f50408f2367d99b6d0a71906670b918bae4024a000046010b82091ed",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1768-2026-sapl-3649.md",
+      "sha256": "a487e183109ee7834cd43c78d1011999dd20b3d86bd61a2e2acc90d9c5d85bf4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7943-1996-sapl-3188.md",
+      "sha256": "981f3f4677e38e919deb6837c2f5bcb9e7c7a5dec932ecc5fc5d1df444ba035f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.180-2023-sapl-25517.md",
+      "sha256": "3d4e140dbd9a341ede66fd1d332bb61af4c973dd61ee26dc474cf559f23c7189",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/GO/alvorada-do-norte/leis-ordinarias/2008/leis-ordinarias-286-2008-sapl-84.md",
+      "sha256": "f6feb75bd71e0ada65a52ab2f8935bf02af2cf579565cfb6cd6872a5ee059ca6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1767-2026-sapl-3648.md",
+      "sha256": "f21faf05ed15bff0d8aa307aa52b5b8cbafce8f187ef27fb0fd7ee213a63fd36",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7942-1996-sapl-3187.md",
+      "sha256": "82d12c34604217d577dbdc0f85a381681f50707c21d1b6dbe26e9a9bf0b150a2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2600-2025-sapl-5027.md",
+      "sha256": "bace87b519f69b6dba2a23f3f973d10e02643592851669ba88159dc37f5f4c65",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7941-1996-sapl-3186.md",
+      "sha256": "12158654095394ccb274cb5840a80c2170545022e48d025808e5c621ac3d2858",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/alpinopolis/leis-ordinarias/2019/leis-ordinarias-2199-2019-sapl-110.md",
+      "sha256": "39796e8557b6c75fcf35ce3555cf36d7540601bad684a52ae934e944439ac6fc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7940-1996-sapl-3178.md",
+      "sha256": "ec12120206b44788f3cd6a5da785dc48e70cc7a1a4f4e8c297b00f989ac55197",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/alpinopolis/resolucoes/2018/resolucoes-14-2018-sapl-31.md",
+      "sha256": "293516732a8495ec542f0256b8f07f320d0dba62d364da952c7612db378875b3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1551-2026-sapl-58.md",
+      "sha256": "c177ff5722d383005b0782ab6436d66aba0764161f65a22eee7dd2958bc4660b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-complementares/2026/leis-complementares-25-2026-sapl-3641.md",
+      "sha256": "79a8c8a52d87d4ada3d17206e19df7709f737606e9dd4f32e1c38745f4edeb4d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7939-1996-sapl-3177.md",
+      "sha256": "47d58b577a2e87e78ca552f409d96d6a01b4a1ff1dba048297748de529b141c5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.176-2023-sapl-25519.md",
+      "sha256": "51d14c87b4c2632d308cf1ba01e92b1fb905a6eea767da21402ca9931a290720",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2597-2025-sapl-5023.md",
+      "sha256": "308d305556aa825baaff4238881391ec3d5bfa953938a871ff1653f7077e750c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1550-2026-sapl-28.md",
+      "sha256": "1095e3f3d27c44e5862201772de37d7182990429461a2bc145c443aeaa438bae",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7938-1996-sapl-3176.md",
+      "sha256": "a887675b927ef0782d1761dfa57e384ea1c80ed90304a1bd5cb4e4208b1b7105",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.173-2023-sapl-25507.md",
+      "sha256": "2b7dc80a7b1f9b73e1052326db1d9de810a6719006071defefab4d88f35bb2ca",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2596-2025-sapl-5022.md",
+      "sha256": "82669260320348f7a02c7101d00b293d902d7e90dae12eb447c19ad44a32df9a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1549-2026-sapl-37.md",
+      "sha256": "b3db7df3be6f879d9efe3a2bf5d51f394bda5ecd55b0deae73bc353273600a9b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7937-1996-sapl-3175.md",
+      "sha256": "849005e942cc992720ec757756788045e64cc4defbd417cee1766006aeb8e7d1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1548-2026-sapl-57.md",
+      "sha256": "16f5fa868236655d619ea1b95785ce8e73c48c4aeaae165c5458fb4a4e723cb8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7936-1996-sapl-3174.md",
+      "sha256": "1b1a3ca667af99dc298c6ef8ec907a387d441bd52571e7006d4c96c3e4dfa726",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1547-2026-sapl-24.md",
+      "sha256": "6a753779f15831a10af08f5d082b706b4c062a82255e45b9dcac6dad01137754",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/GO/alvorada-do-norte/resolucoes/2001/resolucoes-6-2001-sapl-15.md",
+      "sha256": "58b633f0229eb5f7aca68f5763d373135f7aec07aaec8309df8bb29bc77fd63e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1764-2026-sapl-3645.md",
+      "sha256": "56c46c1e547f3add529786aae42b8a303471747debaf36850c0cfbe3c69bd225",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7932-1996-sapl-3170.md",
+      "sha256": "3ec732659ba4d1391303ced323e8fd088e136dedd6fedc5b3ccde84c60f1fdb3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2025/leis-ordinarias-2593-2025-sapl-5019.md",
+      "sha256": "88d9e7d86077efaf00b34d06e726f008e16d12d39ceab3bb57360a5cd56e452d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1546-2026-sapl-36.md",
+      "sha256": "836506e87be55bbb2cd209a8aa34bf3fb30227d425ded5bb496d6fb5097c1b46",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7931-1996-sapl-3169.md",
+      "sha256": "9ed0b02fca6f8240343e54fc8df73c0497ff58d6cb5f8194a16fa518beacdbd4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1545-2026-sapl-19.md",
+      "sha256": "098c1f2ef6f0da8a2c00e9e8764dce88519651b82270a7736a8d7e450de5fdcb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/GO/alvorada-do-norte/resolucoes/2001/resolucoes-1-2001-sapl-14.md",
+      "sha256": "5e545d485d9896f65b23469dce592b6e6e749295b4f21b58d776f4b4657830a8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7930-1996-sapl-3168.md",
+      "sha256": "a95f30e38951af4ea86a9a8b5196bbd0b64f73cfe345976997afd4ecad691001",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1761-2026-sapl-3605.md",
+      "sha256": "f33cebda625d0b85c1c5b7faee64f72ec71d7f70e6af0099ef0110f097349554",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7929-1996-sapl-3167.md",
+      "sha256": "743138ddd025770d28573f2ba8c37b784d1a3a9e7f51d9103c4e10eb4b3fe90c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/GO/alvorada-do-norte/leis-ordinarias/1995/leis-ordinarias-35-1995-sapl-69.md",
+      "sha256": "fa4720c321b133b87c6168093e590827506e9bb46c586fbc959a273a57988562",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7927-1996-sapl-3165.md",
+      "sha256": "906e4b13ae19ea58bb5c1f7e9f92179e7712112cb3ba3521dbaa8dab45c8f7ea",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3065-2023-sapl-25561.md",
+      "sha256": "f4dd9252652c10020495df72a4d16bac31173902d40e7ba5c15623dcea47f642",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1542-2026-sapl-25.md",
+      "sha256": "01cb066e1892559366b9c6daec24e36b3d823aa6e064552591cb833e081f9ed0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1759-2026-sapl-3603.md",
+      "sha256": "e08baec714b1e05dc14a04148fc952ff7b4835188f58657fdd6e14b401dde041",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7925-1996-sapl-3163.md",
+      "sha256": "bcbb5e8bea2a15a9e2af46b031e7ddc6b7435e6654b6c81d9a8d612d8e9cd14a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3064-2023-sapl-25560.md",
+      "sha256": "f51c31330ad19af5ca461a0f4788f45ae565de1c3bfb9ee999432b0f6981146d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7923-1996-sapl-3161.md",
+      "sha256": "ac5fc10f1ddcd22d8d4951024d861fd6a2f22d33ee354d4c148ca9206b90425c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3063-2023-sapl-25559.md",
+      "sha256": "ee1644b8b8c29c70eb37a5e1ab391e3cde130b68b4b8604c9176098dd0fe974c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2589-2024-sapl-5005.md",
+      "sha256": "7dee90fcad669febb5f4ffe0cabf818d3505e8fc7892eff4fb0804e46fcce06d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1540-2026-sapl-3.md",
+      "sha256": "b295ce2ae9f7c5e5c4543008d336162a2a93f0e83e45915aef843102fe26871c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1757-2026-sapl-3601.md",
+      "sha256": "7548ffd03d34610104b49272a4f3f93248fd92e726466a7dc601229faabd543c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7922-1996-sapl-3160.md",
+      "sha256": "3cf1e29f7a154d14ba819a2d375a2048040fed8c345be0196c136cf4c33353b3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3062-2023-sapl-25558.md",
+      "sha256": "dd061493432f6a4b33e870ecf6417c3b02932c1dc2bc97fcb4fe9a57b44d41d2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2588-2024-sapl-5004.md",
+      "sha256": "95d54f852ac65d7ab5fb358411305357118bc75555def01ca2582885446c8ee2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/GO/alvorada-do-norte/leis-ordinarias/1963/leis-ordinarias-4709-1963-sapl-618.md",
+      "sha256": "3c696b5f636c19cb0a8886f7806f71d5733c56ac174493fe4eaacbde09709ed3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1756-2026-sapl-3600.md",
+      "sha256": "8038eed5c665cd64175cb66448e45ee174504a53f8feecada1f1a5a4c4125fa4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7921-1996-sapl-3159.md",
+      "sha256": "57de310206dc220568154a8417c8389c62461d7a027af94ba1e87b74850b652a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3061-2023-sapl-25557.md",
+      "sha256": "11ee091d993c8a916785611681635a0fd749b9d5fe0b80a2676c147d748768ef",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7919-1996-sapl-3157.md",
+      "sha256": "b3a253fef1575c724aa7e8c77a61cd268cec1c7ec17ac1b32beb918269187124",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3060-2023-sapl-25556.md",
+      "sha256": "7fa92057b0ee833f9a47bdd0854a6c2ffb72aab8dae2ec6463306e6cbcc1471b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7918-1996-sapl-3156.md",
+      "sha256": "22d883f5a52ecb241b06118a1beb68c600baf1d160a5a238446ede7d4408c256",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1536-2026-sapl-10.md",
+      "sha256": "c149854ffa56bc81566543d2473c2b8084136a32affe378bccb45b2355914b15",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7917-1996-sapl-3155.md",
+      "sha256": "ec7911eb8fdb6744f50006e983382892fdac6ba55470697d9bb9f94ac5b8e8ef",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1535-2026-sapl-7.md",
+      "sha256": "c1dff158cdfc0613af7fd2c84ab55554dee738a9c3a8ba0b4754db175fca64e2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1755-2026-sapl-3578.md",
+      "sha256": "253a1f9eb9b4fdeaf660eae11bc1b189f390419017577a14eac84dab6849f1e4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7916-1996-sapl-3154.md",
+      "sha256": "8062925d521d0082bd3e508390ae693f403e453ab850d6a84d1e8a7da813e094",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7913-1996-sapl-3152.md",
+      "sha256": "f6652978c33dd4cd6605df35a40cf48543f26f3d1f53a21de11b03034362ec57",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2583-2024-sapl-4995.md",
+      "sha256": "a7bdaa91d441f17691db9281273e589b1f4d4e2dd074c9ec24b3cc51dc9bed16",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7912-1996-sapl-3151.md",
+      "sha256": "003699fc05018b42576d658bb409a150b4c8f984caa9ada8d2d0aca36757da2c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.160-2023-sapl-25498.md",
+      "sha256": "59baab6822fdef694a330d60dbaf218dd485c1e6d5f6ee6f651c384cc5a26b30",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2582-2024-sapl-4994.md",
+      "sha256": "e581703d43043a79895acec84353aa130377d8aff6a5e4e72f9b17fff3ab7403",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-15-2026-sapl-3581.md",
+      "sha256": "f898f5fd73458cdb9c149c4b894cd50b1552200a62beef28e64eae3f275ba89d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2581-2024-sapl-4993.md",
+      "sha256": "5fcdd1cbadf14cbe6d4825f61075b5517158b00ef15a91bb8f74f97487769e27",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7908-1996-sapl-3147.md",
+      "sha256": "1045aae5ad9dca37dc959c9f20a58b79aff0200470e92683a966283034ca6853",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.158-2023-sapl-25496.md",
+      "sha256": "2bd06e59a136f5fb21278be65fde7255739d0bc2cab6db05d2b46c3f430abb9f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2580-2024-sapl-4992.md",
+      "sha256": "fa41ed8ebd831cb31283dbcf266793c4d730e1a3649eea265420e0d6916778bc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2026/leis-ordinarias-1530-2026-sapl-6.md",
+      "sha256": "e84bd5fe2f226d1642ff38ae196c533e57806feabbe20d216b5c973ca9349d33",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7907-1996-sapl-3146.md",
+      "sha256": "d1e523beeefd3e35623b97c7e8717056d6288aca966ba4d0bfc071c44597be55",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2579-2024-sapl-4991.md",
+      "sha256": "5f54029fd039453169500a6860178719038eb9d5206387b43e82aa1e58c02980",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7906-1996-sapl-3145.md",
+      "sha256": "aa24109e822e6045b5791ece2677f72eca115cc5dea9aab4039d84d55c9d05df",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2578-2024-sapl-4990.md",
+      "sha256": "7d173f11965965f3bf24326b19a725b185937b99b3865b57004938f6ae68f965",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7904-1996-sapl-3143.md",
+      "sha256": "184553176ca410a49461ded70bc97004104f610c3c4a31c4e1da45dd7bba50d0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2577-2024-sapl-4989.md",
+      "sha256": "86932e0fa127bf6141c130c2656b10e607e1e13651e191df1abe3831b305c44b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2025/leis-ordinarias-1.506-2025-sapl-118.md",
+      "sha256": "d99289215566f4a84bb354e8a7b08f9b941b1492a6b2b6dfede4511ed9040534",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1752-2026-sapl-3540.md",
+      "sha256": "ba2b74ff8e34d3cbf994897259bead25ccd64d3ba88b733e036b9b9ae5690085",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7903-1996-sapl-3142.md",
+      "sha256": "ba0077c7115c23f32325bcfa92a730af995db3393eade26c907d4fede9acd1e3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3059-2023-sapl-25549.md",
+      "sha256": "8f7c5e61bfbe71d03820fa44a13b9345e7afd51a38fec1964a48a7848faea1f8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2576-2024-sapl-4988.md",
+      "sha256": "9ee2db8b671ab5f49f496b73147b19cf48436c72c8644deff74ccc308a59a464",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1751-2026-sapl-3539.md",
+      "sha256": "397b4dda5931bb136fca733bc95e2025615407e8c1395ec3bd4785d5297ab1e2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7902-1996-sapl-3141.md",
+      "sha256": "207568735648e585181a1bfabcb43fc32e8185d360ce16a4ea55b31abe570659",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2575-2024-sapl-4986.md",
+      "sha256": "c415ceb04abc48ba3bbea3572f7f39caf6954639ae1db79103f9042a69fd627a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2025/leis-ordinarias-1496-2025-sapl-4.md",
+      "sha256": "ae1140acb61beeb13d6d24901087612896566d669e84c5299bca4a35126fd8f4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1750-2026-sapl-3538.md",
+      "sha256": "04f37ce90c3489c24cbb0ace4c877aa3c824fd18b6fc1f197aaa520acfebae72",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7901-1996-sapl-3140.md",
+      "sha256": "c6b6b05a4170da955066b54b35c0610be489a2275ac3e572bd5d059ba8ccb789",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.145-2023-sapl-25467.md",
+      "sha256": "c737c600c7b77a3d45ba2f0cf09bb78ea27b6dcc53193cb8d204ed2d744a4a65",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1749-2026-sapl-3537.md",
+      "sha256": "b108dfcf2eb369c377342403adf491c3d774d73086c65227489ecac977e7aea0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7899-1996-sapl-3138.md",
+      "sha256": "da62ea60dcdb70c50a9d9fd26fdce03c0ddcf7870a7564c05aa654d278b62181",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2573-2024-sapl-4977.md",
+      "sha256": "f871eeb2bbd1468f08c5a6496903f30500a6d8341e581dc6597a47eadff4af15",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1748-2026-sapl-3536.md",
+      "sha256": "22a1bea67a17b97fcf11ecb752a6bd9cf702a4eeb2c4c1b9a6660d91e5b7b92b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7898-1996-sapl-3137.md",
+      "sha256": "63093164ab13768cc49f0231e81ee97f113b2d4b75481942d87c9beed74cef5c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1747-2026-sapl-3535.md",
+      "sha256": "c3c21ec0b8bdd80575355ef8757dac9a1a883c5ca2fa1e94251edf719c511393",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7897-1996-sapl-3136.md",
+      "sha256": "f614def1ad947640f5151b5002c593785cbfce682b44d5826c08774b8aeff6de",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2572-2024-sapl-4974.md",
+      "sha256": "bc80ae7f4db80c52aeabcc3ad76ef26b746fd515a4b34d385b5945ced720b0b8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2025/leis-ordinarias-1441-2025-sapl-21.md",
+      "sha256": "ddb8a256a6e730a98a86f108c03e968a114d1141536d4d5c59c5ca9549b999e5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1746-2026-sapl-3534.md",
+      "sha256": "7360587fe4984f6aa578cf591232f4fc14f386d382a3d186c3041a702442a918",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2025/leis-ordinarias-1.433-2025-sapl-116.md",
+      "sha256": "7a4070cd26676fb8fd2f70c1210e097b485b7eb671be059f08386efc9d785e11",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1745-2026-sapl-3533.md",
+      "sha256": "388bf8aef34238552f9e39e1792e48e7350bb3b29d5259a27fc56fe36a2b07cf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7891-1996-sapl-3130.md",
+      "sha256": "9f50a59ba464760362547e4444bb0c0dce8aeab42a1d5afd92a2f3a586c6fc9b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.140-2023-sapl-25465.md",
+      "sha256": "67e29253872340aefe9d14647567eb1bc2010d0647a0b6a0614e22fe222b69a9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1744-2026-sapl-3532.md",
+      "sha256": "dda3848f5511ce62455463349a0e5721692e5e1f6b6650ee17d92c20e2b925b8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7890-1996-sapl-3129.md",
+      "sha256": "036e1354954c4b4ed39c325b23119afcabd9afcb6a8664953430ec0b926406e2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7889-1996-sapl-3128.md",
+      "sha256": "d5213c72d9c9498239d26715ea1f72c47c2d40fc7140bb928fab54188a6eb38f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2024/leis-ordinarias-1415-2024-sapl-20.md",
+      "sha256": "f9cd222b474b39e756e7ed314f11f3101fb4ace501f63f04ff76f7ed98b1cdd0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7888-1996-sapl-3127.md",
+      "sha256": "cd4ef5ca310e5ae14f2bf0d3e213f97777a833fb159c9e27e6dfd4941a3c8326",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7887-1996-sapl-3126.md",
+      "sha256": "9c469b7d900624e6a3976247e835d6cd0acce0e2167fd110048a9364ebb3e360",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7886-1996-sapl-3125.md",
+      "sha256": "46157961582a1d956408f2ef01e6ff4110b54b40cd70547d5c8a241d8bb0b440",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7885-1996-sapl-3124.md",
+      "sha256": "025c9c1e05007c221c67cacf30820e09760b8f808bbb873c95560ae00e0a3836",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7884-1996-sapl-3111.md",
+      "sha256": "c6e9920ad276e6f15b9f8903ad38c94b759587445292774da3e50e68802e5fc7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.131-2023-sapl-25459.md",
+      "sha256": "886a8fa01c72deb6c528bdab98266f8f0ca78032ad4696e07a142177142291b1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7883-1996-sapl-3110.md",
+      "sha256": "2a26dd66fa228aff11a2faa6b0842b4037e3b5206eb6ecc22c274a82f479a31b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7882-1996-sapl-3109.md",
+      "sha256": "af268d6f9f9d1a1d02d23d646949ecd929fdb849a63e7bedac85c0b7d9feb412",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7881-1996-sapl-3108.md",
+      "sha256": "ba9aa33895f5a25138a57dc4a36aa1453a4d06f46ca277ddad2857721fad3807",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7879-1996-sapl-3106.md",
+      "sha256": "7314906e9f4ad41fbec3f6e0323c8bd87042db4991f1531dfd09f7b855b70e03",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7878-1996-sapl-3105.md",
+      "sha256": "15f5130c4667ae610a678e82ac46d5e4947f859ce87c9e05261d71510322fedc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.126-2023-sapl-25447.md",
+      "sha256": "502352bfc838beed2a465efc2c4edcd63a42480bf1ee37231a0a8c1abea9f044",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7876-1996-sapl-3103.md",
+      "sha256": "373d0df47c3f396dc4151f1fa33a7cc002753edf48d5dc1a9f78de4396ee0b92",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3058-2023-sapl-25477.md",
+      "sha256": "878d3452b549aa461aa5ca749deaf84d992d38320f7cc4aef578e86ba5ee546f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MT/alto-garcas/leis-ordinarias/2022/leis-ordinarias-1297-2022-sapl-42.md",
+      "sha256": "0b0a0d89976a2387039ed27665ed5a5ccced92349684a09b50c7e8fe508044b6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7875-1996-sapl-3102.md",
+      "sha256": "375b2477fb9b707697d994aefee6a315827368dd627f5c7d31bb33416c032500",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3057-2023-sapl-25476.md",
+      "sha256": "eb512b1723d5846513533aed8d553fd6720285901d33ded71c7037e8e4368fba",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2556-2024-sapl-4947.md",
+      "sha256": "7f491a4b5cc7693a1f8c5587ef0b19a331bc5fe6577692889d5d6138a6459495",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7872-1996-sapl-3100.md",
+      "sha256": "ca018b3c5c2fc9871cd2b5f89df8ebb13eaa7ff8fb8bcd3fe109fa2be4725b1d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1742-2026-sapl-3466.md",
+      "sha256": "23e1d392eba2581a6248eb9c6f4a38aa29066ff31fe25e5319639e4fc5fc1b6d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1996/leis-ordinarias-7871-1996-sapl-3099.md",
+      "sha256": "ba74bbee8f3c61921b06111ac3d0d83e7e4125d37f4a42a66eb2ed839817606d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7869-1995-sapl-3097.md",
+      "sha256": "3593ee2c6bea9a74ae14634b80b968f4a0677099be8ef0abc843e71f79448a10",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7868-1995-sapl-3096.md",
+      "sha256": "ed5bb774ee729dd9e5f627d0f18cadb69a71edc56b766ef5189b3cf688b97a2a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1738-2026-sapl-3462.md",
+      "sha256": "bfa97e4d91f66bbdc24f61e6e3f5e09a94b52fcba8dffafc77601e709c2c53ef",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7867-1995-sapl-3095.md",
+      "sha256": "f48a48d83be7f3c03398b552571139ce7163ad23cdb19ba8a38efde069698fa5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7865-1995-sapl-3093.md",
+      "sha256": "cfe41e457225a4817e260d63b971561cd4d3d91e9562d4cf27756a0adf3550a0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1736-2026-sapl-3460.md",
+      "sha256": "bd0f6b957e48b1dc9c188d6217d5d916be26d05e354ac2a09ca2da6c07d688fa",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7864-1995-sapl-3092.md",
+      "sha256": "3ac2ff4601114f8288bb25e6b1ea4ffb5c757eb86b28a382c02d554d0de29d34",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1735-2026-sapl-3459.md",
+      "sha256": "80ae28b83f7b47de160d76fdf1fd27df000a26eac563d825836cf8396f6b1d24",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7863-1995-sapl-3091.md",
+      "sha256": "e284341bd2498517400ea4e2a59e7767caaf104fdf429472fc903bb423be13a3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1734-2026-sapl-3458.md",
+      "sha256": "1583d5a81d8c1a5c11ef78f189189a8d849b057332de24934203d4d42103dd57",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7861-1995-sapl-3089.md",
+      "sha256": "32bddf5a2e5f6f1bf2496f86155ba153d36127996e8acf96ed11606d286c3d1d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1733-2026-sapl-3457.md",
+      "sha256": "ceb69f80f5f708f3b103cb379450ef55543ed393a06b05b727c17bdc6dd3236a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7860-1995-sapl-3085.md",
+      "sha256": "09e54f5d96cab6ae3f1e4ecb99b0a6d2cb9b1a3c767c684eaaf253609759c855",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2026/leis-ordinarias-1732-2026-sapl-3456.md",
+      "sha256": "d9379671aac1fc7412faa6c550e6ffb2841b7a4d715ddc6f7cf7973e2d38d9b9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7859-1995-sapl-3084.md",
+      "sha256": "2edb3fca1b96fdcf3f171e7d38c2dc1ff1f8dece7df6729291d3014779f7cf25",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.104-2023-sapl-25418.md",
+      "sha256": "d6e337693fd265fdc998ea5aee1bb10c062f177e3a7fd72ff24671258dfc0433",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-3-2026-sapl-3453.md",
+      "sha256": "eb7ed40b3194ae49ecaa4de43983dca0e0c51ab8fd7ff0fc9cb3a6999f8f80a8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7855-1995-sapl-3080.md",
+      "sha256": "8423e9e8dfba72a83f100b8728e090444fe524b0820d088be1138cce51634397",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3056-2023-sapl-25475.md",
+      "sha256": "543300ee5ceb4c7c6f539ca94e9da69b54740ebc64a4e40892141f2e4821b587",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-2-2026-sapl-3452.md",
+      "sha256": "b882708ecb9f9d354fbf1bce5ace572b83814b43b81c83216b9170f9384c2f49",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7854-1995-sapl-3079.md",
+      "sha256": "fde3ad0679177b7a6d0f7fb009b7eabe7ef62db593e9c87ddba8382fa9b45f7c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3055-2023-sapl-25474.md",
+      "sha256": "cae9e1585b8239bb9f5c459af82ac1c8912f16efeec3faa68904b1021834e91f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/decretos-legislativos/2026/decretos-legislativos-1-2026-sapl-3451.md",
+      "sha256": "95dcfda6d2bdd00710116863dfae0e4a9245de6b9615bed193261fd674dedb3d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7853-1995-sapl-3078.md",
+      "sha256": "57d4b3eb564afa2e9413c1d75a7381498562b7218825f16fc30a8cfb4215c7e7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7852-1995-sapl-3077.md",
+      "sha256": "cadd0fc93f224dafb26e87de3f844fc4087336f73f6d99e7e99785547a9bbf5f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7851-1995-sapl-3076.md",
+      "sha256": "7e8a80997d9787206dbeef88a13708ab7a4adc4c28a4f8d3e73ddc34e838a3e9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1730-2025-sapl-3428.md",
+      "sha256": "b9538b172487d59c48c9b974364077268515ecbf673611ba5731f534536288bb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7850-1995-sapl-3075.md",
+      "sha256": "ca0c895e4c36bc46c8f99b003c7da298ec54840618258b7366e2b3dee9862e35",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3052-2023-sapl-25471.md",
+      "sha256": "948a7f11beae0d32776d693bb3d04db56ad74d8478f4032c595a52c24a291dc2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1729-2025-sapl-3427.md",
+      "sha256": "54ec5da18bf61ffcf8ee29a384e5804fd2f3b5ce7d7ff48db757951ed7b3c5ae",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7849-1995-sapl-3074.md",
+      "sha256": "5ed4d81f31461f0baeb29300fd57cc9bbeb57602855318948f688b159895a91e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7848-1995-sapl-3073.md",
+      "sha256": "15c0281a814a419eb43e204fff40833143c60641cdf10feea4033c11d762ee3d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2536-2024-sapl-4922.md",
+      "sha256": "41ebe7c54832e449a3a3504bddcd8f9bf133918ccdc009003e34b66fae217944",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7846-1995-sapl-3071.md",
+      "sha256": "c0fe931eaabdd5695dbae52b508d496dcdf05d0e6d69584d916d4b983fda046f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7845-1995-sapl-3070.md",
+      "sha256": "65eb2f9429fc29dc1d037e3a6ca042ca8b2773d6a18d4aa29d8608e990087e42",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1726-2025-sapl-3417.md",
+      "sha256": "69aaf97c10e0812b58453ebcd98f8520db38f515da7c37e04d3c4e1dec762920",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7841-1995-sapl-3066.md",
+      "sha256": "4aa60edfa89a983f44818e3d3dd72bb841b643e0618cbb9b53ed4e2fd9c045ce",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2532-2024-sapl-4918.md",
+      "sha256": "796d49dea1ae44fece6969ecdb769de7b3a721ff64c956fcc052b0294b324706",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7840-1995-sapl-3065.md",
+      "sha256": "ef13a102083c12914b7b73e05a6bd714456335caa282bd8b3975c65cfa63325a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7839-1995-sapl-3064.md",
+      "sha256": "8f3a9bc725ce938979bc4dddeae1ea21158a3f093d8d3b7d9b68ee230ac0c7bd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3051-2023-sapl-25468.md",
+      "sha256": "a461c119f82eb353085c5e29b50c64f17f8f109f18ab1bec03fbe6982d93ed82",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1722-2025-sapl-3413.md",
+      "sha256": "8d0adacbf99a070e033c13dff6a5b021d2ff47db4adea2afa5a7ecfa530d3a81",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7837-1995-sapl-3062.md",
+      "sha256": "6ef0158c91ed9c6d9c38cb084b823eb9ff67fec064c9dd8301a38a29a091900d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1721-2025-sapl-3412.md",
+      "sha256": "8670484a017ea90b6f1adfa560caa845dd5565530740fff7921c38cc4cda757b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7836-1995-sapl-3061.md",
+      "sha256": "1d77b11fd0decca90a9ca39b4e7267c5af72e505c771543f5f1c176a20437a94",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7835-1995-sapl-3060.md",
+      "sha256": "e40680b7013e11a8c14d531280c7c734a7c93280dc0013f0a6f3b55550f18712",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7834-1995-sapl-3059.md",
+      "sha256": "88a2a568b14e51424b66bce6bc6eb8b9ff58b12746c7c54c87bdc99fc3de1da7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7833-1995-sapl-3058.md",
+      "sha256": "fc37dd76dd67fdfd6b4a9387c48973408acd97e2bfa9eecd887ac08595f09d39",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1718-2025-sapl-3409.md",
+      "sha256": "ffcb90552cb240f72359df7cf1e1a473e8d26ae49c0eef8610e194a5dd700b7d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7831-1995-sapl-3056.md",
+      "sha256": "59f5af281ce20fa374213a2c01b6946b4f88f1f9aba3bf5a072b75e0be566c24",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7830-1995-sapl-3055.md",
+      "sha256": "f4210fc58adeaddc08c793c5d8b564a648af450c60b711d756d44098f00cb193",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3050-2023-sapl-25387.md",
+      "sha256": "27caec5bd79d8bcff19db64354a3796fc137838407a860ca568981f3d3522416",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7829-1995-sapl-3054.md",
+      "sha256": "faf7b249169857873ea5bf6980a23308e65154777dc4a9cc54273992158c42b7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7828-1995-sapl-3053.md",
+      "sha256": "ec5d5d6fae06eeba4fc57113b887bd79e5f5fcb577af8ba734bb0528f4f21466",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7827-1995-sapl-3052.md",
+      "sha256": "2d4d442b9911d3bde42f1ffd98d0e8cadee4c1029743731c17e9f9668de0f855",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7825-1995-sapl-3050.md",
+      "sha256": "c4cc90d9bdb09517b438970d6ba0b294e6ac0e932942628a5b50279c33a0b5a8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1713-2025-sapl-3353.md",
+      "sha256": "4a4aac543c03605844ae6ae62529518d006fa922016cf0ba283845452ac8f36c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1712-2025-sapl-3352.md",
+      "sha256": "a9afd24120c4e8c4296e702f316e8fa8a1f5d3f7e64783955a9dd012c3d0cbed",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7821-1995-sapl-3046.md",
+      "sha256": "7a4dec7a0d9a1af57703d401fbaa8627ee1b634bf048a9242278e8710bcefd47",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1710-2025-sapl-3350.md",
+      "sha256": "1435f982e7bb1192eb0ab5a4fd1ba59d87e8f6b2a79786178c9dcce13ac9c868",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7820-1995-sapl-3045.md",
+      "sha256": "0fc7be0b271252f0176141bc48ac386ed1ee642bf6b878ba6792010c06f017b4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2515-2024-sapl-4893.md",
+      "sha256": "4fe713e6698c93f9f0b99451ecc58674ab323f61c0e7e29f0ad4bacb12897377",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1709-2025-sapl-3349.md",
+      "sha256": "f51cf635177be4e4bc219725b157f70ed4131a1761bd4089642c76f9ee4b0428",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7816-1995-sapl-3042.md",
+      "sha256": "b343bbebb9819192dba6b4ac9fe0ae29dcfbfcf862945fb100b8c9ed01aeac65",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2514-2024-sapl-4892.md",
+      "sha256": "4324e5bd833b6e8cd860114ba3f260fbba6581a517ed0b7084e43900daf1adc7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1708-2025-sapl-3348.md",
+      "sha256": "259a7af6ce211d5bc6700912fee8b7bae731bd7eb1cdb069cf2b80ecde1c5a6f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-complementares/2025/leis-complementares-16-2025-sapl-3357.md",
+      "sha256": "524a5d69ffb6b32384d6f5c92871438ebe985ffa99284f4c3477ad49352fc8ba",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7810-1995-sapl-3036.md",
+      "sha256": "eb25f0d6dfc9b43f240982546c9a1eb39febd42d951084c60c9d5b75e6e20f67",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7807-1995-sapl-3032.md",
+      "sha256": "64b91fadc559e456e2987a85f3ff56051100fff03c6ac47efe9b0c5678b344d1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1707-2025-sapl-3345.md",
+      "sha256": "a1d26e66aa76d9661273ea6e585fb78694fc0da35362201d9d5874df19413bd2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7806-1995-sapl-3031.md",
+      "sha256": "0e51782b9fb5bd60f89a87350e4705d7bc16115ecf36690170f345ebad33204c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1706-2025-sapl-3344.md",
+      "sha256": "0328b8d048fb49b4b05bfb4a3651a60e2076ab4dab7e02d1574826b994bf8c62",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1995/leis-ordinarias-7723-1995-sapl-2506.md",
+      "sha256": "5b79b7f277ccafde30a69301ead5af71d473baffa38306654115165d6cefec5f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.076-2023-sapl-25380.md",
+      "sha256": "e71785c217254235d7e0434ea2b29bb8e54677f03fae0aa6cf0424b137f503fa",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1705-2025-sapl-3343.md",
+      "sha256": "9f2c13214c4c530f6f0c9fca405cb84c861a764ceaad88378d25c61c50d4b0a2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1704-2025-sapl-3342.md",
+      "sha256": "702420748a14509b6bb21d393987970c6ea0b3f6ed451ec32db2c9bfcc81e57c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1994/leis-ordinarias-7518-1994-sapl-969.md",
+      "sha256": "84f2d680b72286cbdb3ada6e9bf66f0c5762ef4da4a333e646f72094b87f7756",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1703-2025-sapl-3337.md",
+      "sha256": "9ece0f506d94fba8169e60bef90cd0b948b137cf96c999e5d937c99f2abfce25",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1994/leis-ordinarias-7516-1994-sapl-966.md",
+      "sha256": "ed50bc16086aab74ec022b88f36427830bdda0aa0a1022169daac0c3dac321cf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1702-2025-sapl-3336.md",
+      "sha256": "a6929530c5e84a42076c6801b979b00711930f0d17c2cb7271217156a82ea6d8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2505-2024-sapl-4870.md",
+      "sha256": "fef59f66fb527f1b614fb1cff1230c59936643e8db8e98eb39a503262decd1e3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1701-2025-sapl-3335.md",
+      "sha256": "eb1e4c503102aad87b85872cab8104dda788a509416609f84c97ffcd5c0dc19c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1700-2025-sapl-3334.md",
+      "sha256": "eebea6beba956750de967b9cf2159e5ef977786d2bbf1d9db9a2990576d9bc8e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.069-2023-sapl-25373.md",
+      "sha256": "1c82ecfffe375e4196e6a18e423ca113af72d628deac46bd64c7dbdab8a2d007",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1698-2025-sapl-3333.md",
+      "sha256": "deb77ded231bdfea114a0f6884ea6d4934b3b8282f1736f764bcb509f5ec5f14",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.068-2023-sapl-25372.md",
+      "sha256": "b4a28aab922afe51c4dffe2246e1aa0d608f300bb41ae683eca20fbbac2612c0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1697-2025-sapl-3314.md",
+      "sha256": "43919d435e64f06852b00319a903fd2b9a783bd3ff5b7e3a674b9119e122fb24",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2500-2024-sapl-4865.md",
+      "sha256": "3f6124a15ac2448f0251ad6725804d91e5d8ed84dd522c5ceed0526faed76bd0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1696-2025-sapl-3313.md",
+      "sha256": "07e3f5e9ac6c197b249e86b1876e71c00cbb91f156b50a5768ae6325e07a88fd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1695-2025-sapl-3312.md",
+      "sha256": "601a59f540fd0e9bb21f95d4fae7961525dec6b99a5af73f4ccadb1081b6be7b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1693-2025-sapl-3298.md",
+      "sha256": "155f80d72540a1bb17592e0345ba5c44f2e7051e626c69ea619c8e5e855564ee",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1692-2025-sapl-3297.md",
+      "sha256": "72a6b05efb15e63397964eaaf52db399cf52b8bc733882df7e6196ab069a1dfb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1691-2025-sapl-3296.md",
+      "sha256": "93bd8333f01274a06360c05cbe44a4dfee709d2bae272e50a445bafb862cc440",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2494-2024-sapl-4843.md",
+      "sha256": "4f59c25e5c08a34526f0f56650b3aefb84d1e250561b646a50b8d80822d870e1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1690-2025-sapl-3295.md",
+      "sha256": "1e1bc7fe7dc08e79272d274ca116233686a5dc65f1e3df02ed690335654c47e8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2024/leis-ordinarias-2493-2024-sapl-4842.md",
+      "sha256": "bd9a66ef2e09cecd27afaa1a52dd3d3fc1b35c031d6a01ece02ee163d62a8fdf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1990/leis-ordinarias-6792-1990-sapl-2206.md",
+      "sha256": "ba2724090e5f94dbcc608d6b665615709ae199d8e1745cf741a2fbb92cab4dd9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1689-2025-sapl-3294.md",
+      "sha256": "10e53429baa80a858ac7e65c2e02ef9e31ee20e97a88840aed116176470247f9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1688-2025-sapl-3293.md",
+      "sha256": "2061748e7f15dfef21c235b45d3be4dec8aa19e84554ff9cb48c9cbc1f321285",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1687-2025-sapl-3292.md",
+      "sha256": "49f9fa014b5bf9f2b8c9f73b00c9f47bb382237a52caf52afdaaf73a16f139e4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1686-2025-sapl-3291.md",
+      "sha256": "c2644fd26c230fdb249fdaee3dcf85f1bbb11ca4fc6e37a253eab8ea2939b1ab",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1685-2025-sapl-3290.md",
+      "sha256": "3dd904753a9bac7571a4cc4a808328b12e827c40de03da96773540507802e542",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1684-2025-sapl-3289.md",
+      "sha256": "32d9295a6dc5ad5d5b709e9d49974a85ea0473444d65bf3df498dd739e58dae9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1683-2025-sapl-3288.md",
+      "sha256": "95ca71c70f836117efc8fedfb331bd94c693bd6cea850d68ba96341dd2430a08",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1682-2025-sapl-3287.md",
+      "sha256": "06e9d2a99fd90a472f3af239bbe489dc11bebe26377c90464021f9fd6f7f6724",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2481-2023-sapl-4820.md",
+      "sha256": "cdbd079999228ccf6963d448608ea7ebfbf8f8479f9c9a1cac84f122a0b0922f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1680-2025-sapl-3263.md",
+      "sha256": "8d0ec92f0496126d6c43af1eec4844b87e1b02375a4e4cf650425b7f34c1ddce",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/1989/leis-ordinarias-6421-1989-sapl-576.md",
+      "sha256": "296b79992f99e08f7ddd3ca37b850f1976640fbc3a74cd4e7f0f99ff94ba06b7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2478-2023-sapl-4817.md",
+      "sha256": "14fbc6bae724a402ae771770c4ad77ea5f10de3d3081caec602b01e9b2004729",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1678-2025-sapl-3261.md",
+      "sha256": "96a659eec1c66f9099f44e57e9d69514b505668d73e0bc5917ec56910f3975bc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.050-2023-sapl-25335.md",
+      "sha256": "d940c2e4f5f1044b30555e632d56ce452a35d874429aecdb3b09fce83ef2663d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1677-2025-sapl-3260.md",
+      "sha256": "1265ad0fda03174390217d2294b65c69a9d931720cd8c0d6ddbfef44f0a42995",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.049-2023-sapl-25334.md",
+      "sha256": "d095b7fe98d31725aa6e03cffd3af3a5fdf793c8eb20d3fb0d506691a2d8ecc1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1676-2025-sapl-3226.md",
+      "sha256": "bc50845bc08e169bf69a4fa0123c16b0c480231c0ce7be6af89fc1b34c0153e7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2476-2023-sapl-4813.md",
+      "sha256": "e3bf0ba44110a90d8bcaed763afda97500f6203dfaa8b7e3d693867a3bea633e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1675-2025-sapl-3225.md",
+      "sha256": "0e5e46db715ec548f3a2751508122ffe016ffd3ffac349c75c9c2f6d46cf15e2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2475-2023-sapl-4812.md",
+      "sha256": "be67ee96babd990031b8d3bd501a84f8491087b31ccc887c9775dc37c326ea8e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1674-2025-sapl-3224.md",
+      "sha256": "cb22108f0afa1a51e4d2dcdcb4ef27cca5db3f2f81d73c4839a23211e1bc0cbc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.046-2023-sapl-25331.md",
+      "sha256": "04fd47965f2d1f9609ee0fe925d7abc40a648520ca80f2c59f8aca0cabbe5ee7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1673-2025-sapl-3223.md",
+      "sha256": "d8d3b29456b860272f369355077d74ddf60ee4b5d6cab428ba1ddeb6d4c27da0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2473-2023-sapl-4810.md",
+      "sha256": "acd95336ae6a14e75f2e6e8de90184a451ffbea8f6ab85ae482e62a80a960b0c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1672-2025-sapl-3222.md",
+      "sha256": "0ca5a07f9b90458ce2b51178855f79b109e017da44310b8900d40408d60e4993",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1671-2025-sapl-3221.md",
+      "sha256": "9e52312a4a07cd32a39c9c37ff2966c5490f90e779471b0c30f052bff65b5cd5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1670-2025-sapl-3220.md",
+      "sha256": "3af88e989fa6525f4ff2cd54ca25bfae524cb0ad61707c091d84a496f4ce0768",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1666-2025-sapl-3185.md",
+      "sha256": "6bb8f91261a4de08401ff1322762118882bd19a21b6ab90bfc9aefb150c94639",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1665-2025-sapl-3184.md",
+      "sha256": "eb08f8de52e4f5541015d832a4aa206be59eba919f3dd00e5cb68415a2f335ac",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1663-2025-sapl-3182.md",
+      "sha256": "736005685c8ffd714d68b91c3a948b62384874f21147e15e869d56137e47bcdd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2465-2023-sapl-4800.md",
+      "sha256": "074954021404cc5bbbf9c787f4bb7ea7552ef210debb8fded5f7d5ceac3d41a0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1662-2025-sapl-3181.md",
+      "sha256": "f0de3b39bb7c39e0383be32727f73c829fc63f64ce444243b68e15f4b30d55bb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1661-2025-sapl-3180.md",
+      "sha256": "32c2ce5f1f2249e07f4b71ce87abfca5b21ccd15e646745c01636f524687f562",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.033-2023-sapl-25286.md",
+      "sha256": "84acdd7ab5764a1bf6df26e52a16c7bc1dfbc0297010caf10f5a57df20360d23",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2463-2023-sapl-4797.md",
+      "sha256": "8335615a21869e6aea7f2fa366df148286617a1b6a2e880d08601efad4fe9808",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1660-2025-sapl-3179.md",
+      "sha256": "1ef00fde8ad7bff2c2834f920abc357520ca8b2e65fbe5ff59b376a6cff10390",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.032-2023-sapl-25285.md",
+      "sha256": "4fdb4590aa57275d15e8ddf64fd933bc3e0d1e390ca9683a48c762b00d02b35f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2461-2023-sapl-4790.md",
+      "sha256": "ba239510756cbc754abdc88f8a82c37f7fc2b86cc9c4b2147f3f8b73d84eb403",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1659-2025-sapl-3178.md",
+      "sha256": "1884337ed685470c63545b9eff3fb0c9c529229982f981aa4420473c3919cbce",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.030-2023-sapl-25283.md",
+      "sha256": "82616b6587914fca2e914a882dd2c7afc17a406e40520366b2b1fd0ab2209309",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2023/leis-complementares-939-2023-sapl-25281.md",
+      "sha256": "c99e6df15ab4339e06bdc91d0aeeeb3d153d32cdaf166051a6250f55bc9381ee",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/2023/resolucoes-5-2023-sapl-4788.md",
+      "sha256": "1d7786ce2f3937786b3b349e2633cd3aa2a25d03e9d86978d1c2ca319efd375d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1657-2025-sapl-3176.md",
+      "sha256": "43192f92a1dfab3c18fd39065bf9e1267578440af92cbca10f3f3a83b89f48b8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.028-2023-sapl-25279.md",
+      "sha256": "484d7ca0cecfc3735025bd30bf8bb686cb66c28cea80fed8ccbb5d9ddad05680",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1656-2025-sapl-3154.md",
+      "sha256": "20b09d76126c557718cad4aff148b877f54020ad8a749ac0a46bb2053010ca91",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1655-2025-sapl-3153.md",
+      "sha256": "ce57093ed94a7619ee740119ff01f60a5f330722a6b0d5393f3430d8ccb7a087",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1654-2025-sapl-3152.md",
+      "sha256": "72145b213bf673d17f2445bf80049d00e3a07c2b33e6e876b67dbade4827c243",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1653-2025-sapl-3151.md",
+      "sha256": "65cec95c50da998f720cb31aa093d5aa723d81a56f6f208abe5f58dc84191a4c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3038-2023-sapl-25287.md",
+      "sha256": "63fd5dbeb56a39a95889e762cdcf4816c8f7641c451c9fcafdb41c6cd6580d4b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1652-2025-sapl-3150.md",
+      "sha256": "2e39cebbbb5b758a8190622e41a2acc129b8da962df6e2009622ea189cad2e52",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2453-2023-sapl-4779.md",
+      "sha256": "29da90169b7247fbe6d92c4c25b75ded62a6f3090713ba01061b3d6c44f20489",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1651-2025-sapl-3149.md",
+      "sha256": "43e00e48dea22b12a8a3fa7dd2fe3e90dd51cd8f124893ca98831db631c0d6bb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1650-2025-sapl-3112.md",
+      "sha256": "dea097dca2812d83fb12e8a437f49e21344efea91db91ff340e8c8046223f4c4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1649-2025-sapl-3111.md",
+      "sha256": "0cf5414d380939675eee483a1a794e5069e2c9bccb6967fccba363c4dbc6e7d6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2450-2023-sapl-4773.md",
+      "sha256": "ce7d919d27d7473a11f11acab6c58d2cef63c53d7eebb585b79460cff7a81b46",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1648-2025-sapl-3110.md",
+      "sha256": "9bd8632b4733348afec180f133ed23f4be3ab8ce62485eb22f36f9edba89f0cf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1647-2025-sapl-3109.md",
+      "sha256": "8e53ebd34d2466d4a4df56455a53f1bd818d77eda2146f5df601f7a5d33a5292",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1646-2025-sapl-3108.md",
+      "sha256": "49ffd5020d3907800f85f2aefc192a58521253c230ced83d6fe738669e494af1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-19.011-2023-sapl-25251.md",
+      "sha256": "90fabe49f38e120b90dca53bd59cbdff50fc5fb8211e07bff8d87f6fa45bd306",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1642-2025-sapl-3091.md",
+      "sha256": "ad976f7555ac9892d70b094a427d432f5bad733e9c9e7f55a2c3883f7d84a575",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1641-2025-sapl-3090.md",
+      "sha256": "17d93b6622897cc0638e9cdce4ceebd233e86ebb8d2dc31e8a8e4bdf748632ab",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2441-2023-sapl-4762.md",
+      "sha256": "f755efc31fb23367c3be17987cab2ccb69c65951208fdc239fd3f18455db3c93",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1639-2025-sapl-3055.md",
+      "sha256": "fd423083b5c6745f1c37c29ba5d156517404e9da08c52c3270a7b977339191b1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1638-2025-sapl-3054.md",
+      "sha256": "fc414d30e79c7441c7abce1fe9332c33a60111a750034f763328b3c15f87fa39",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.996-2023-sapl-25241.md",
+      "sha256": "519b752a6ddb643f433b062754593536c429e2c96c59e21a9f84cd729d42bef7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.994-2023-sapl-25240.md",
+      "sha256": "d0e92fbbbd9741bb73edb671b3c7e0a429766318584787144e0d68436fe789d9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.992-2023-sapl-25238.md",
+      "sha256": "6714215ae5fddf1c3faa9514361cdceeb920cd200e58b277940d367240b86a6c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.990-2023-sapl-25236.md",
+      "sha256": "7ea6831d7ef52c3686ea0d0dc319a1e10bb4f3bb15bbbd573a9a6e1f8fe8b4d4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.988-2023-sapl-25234.md",
+      "sha256": "a901e09b7a0a7a3779b4b4544428689feb6603f4467090a58ec2e515de156ea0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.982-2023-sapl-25221.md",
+      "sha256": "b3683538b42f9593e4483c8dd6a7064e72f0a6bd348556ba0672d563c2ff45c3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2425-2023-sapl-4736.md",
+      "sha256": "bff6d13cd88a8afc842483c78cdc3727c626b2271600586af9166343312de163",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2423-2023-sapl-4734.md",
+      "sha256": "d4b9037c2a68e920e7d612f13db7ea2b086b050b2d0bf80f92d6393368d35b1e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2422-2023-sapl-4733.md",
+      "sha256": "a250aa54a1f8049aafa7c7dc328d32e57cdafd4e493f6fbeb60246b1ca6fe42a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.971-2023-sapl-25212.md",
+      "sha256": "18c094f1ed34e4d88c295ab7cd1309e2ed983c4426719a63c8e42f26e95ee45d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2417-2023-sapl-4721.md",
+      "sha256": "f195c4f7195fed4c5c4a5120526b45dd487dfe30691fc8045e64681186c6de2f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.970-2023-sapl-25204.md",
+      "sha256": "a7098e030f7388b300748de13885d364fec79b62ee30e8203cc265810d7ef085",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2415-2023-sapl-4719.md",
+      "sha256": "3338fa3ea202421bd112fdf671488b02835d0589be91f4cc2a14e08acffd7956",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/2023/resolucoes-1-2023-sapl-4713.md",
+      "sha256": "50be0f6a0111fc18d1ef5675741d7fa65c4161d2617a57998807657105350364",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    }
+  ]
+}

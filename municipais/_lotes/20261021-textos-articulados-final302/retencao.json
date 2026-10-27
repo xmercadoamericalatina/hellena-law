@@ -1,0 +1,24 @@
+{
+  "candidatos": 700,
+  "aprovados": 302,
+  "retidos": 398,
+  "jurisdicao": [
+    {
+      "path": "municipais/CE/fortaleza/leis-ordinarias/2008/leis-ordinarias-9438-2008-sapl-3381.md",
+      "sha256": "2c80cd6718b1b78b4b5f9e60958bf7b4c50358466f40049c9dbaf5248ab39ef1",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    }
+  ],
+  "replay_retidos": [
+    "municipais/RS/erechim/leis-ordinarias/1997/leis-ordinarias-2995-1997-sapl-2957.md",
+    "municipais/RS/erechim/leis-ordinarias/1997/leis-ordinarias-2896-1997-sapl-2860.md",
+    "municipais/RO/porto-velho/decretos/2024/decretos-20.302-2024-sapl-26939.md"
+  ],
+  "criterio": "Retidos não integram a lista de normas. Controles conservam os motivos e identidades; não promovidos por contagem ou por comparação da mesma conversão."
+}

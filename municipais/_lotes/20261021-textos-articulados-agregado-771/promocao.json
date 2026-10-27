@@ -1,0 +1,8 @@
+{
+  "destino": "municipais/RO/porto-velho/decretos/2026/decretos-22256-2026-sapl-29531.md",
+  "candidato": "municipais/_lotes/20261020-reparo-commonmark-ta29531/candidato.md",
+  "sha256_preimagem": "af15d78bb335acb0d119e2e81d037e7296dc20f02d232907e9d4487557155d09",
+  "sha256_candidato": "9106ecfd78ffed8dc86466ed75d5e0e99694683069073d31ef1381f6da9aebca",
+  "acao": "ROOT confere a preimagem e promove explicitamente os bytes de candidato.md para o destino; verifica novo hash antes de usar normas-apos-promocao.paths.txt. Este agregado não executa promoção e não inclui os bytes antigos do destino.",
+  "recibo_reparo": "municipais/_lotes/20261020-reparo-commonmark-ta29531/entrega-final.json"
+}

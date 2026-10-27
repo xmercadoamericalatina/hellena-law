@@ -1,0 +1,2336 @@
+{
+  "arquivos": 291,
+  "aprovados": 291,
+  "problemas": 0,
+  "script_sha256": "41563c6048c4eb3baae9a3470a5f238c15b6292bdaff5dd3020f34eeed4b15b1",
+  "resultados": [
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2018/leis-ordinarias-2082-2018-sapl-3938.md",
+      "sha256": "be1721a581900cebc32a520f86b4bfce63e69a70f996d94d93af96a36da7de50",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "424d3f559ddc58d03a185e206e5ffd5851053fc21966cab1af12b7ea7b6e8705"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2950-2022-sapl-19212.md",
+      "sha256": "a580e43abf6010c1e6c8a6bec7440ade6c9f06369d7638fb3faa35eef140819b",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "48879c8290e8506d4ce4de867789891e30d65c8b7df45451985b4debe476b61a"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2018/leis-ordinarias-2081-2018-sapl-3937.md",
+      "sha256": "f2d0bb7c446045eb58e6aa8ca66d295f91da607356006e464d58965720e4ffc1",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "b51af4262ae947ff546d094653b33d771bc70d12917d564fa492069e51017dc4"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.217-2022-sapl-18951.md",
+      "sha256": "45ea8b096ca7d3557459cd7b5586dadffb77cc885a8b02df8e79e36955b76bd5",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "8ef65b1e9bf0358f666ab4f31a36853c6a65874221438cf29cb7af899f2b4679"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-855-2009-sapl-858.md",
+      "sha256": "44c8f2be62cdabed4e50f7147e473d3ff522b4e4c1417aeb15b7530176e430db",
+      "aprovado": true,
+      "dispositivos_ativos": 40,
+      "historicos": 0,
+      "sha256_fonte": "a2348beb0238531c62788d08748a1293214c77eb3cbe3aebe07ded37ae6fa978"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-854-2009-sapl-857.md",
+      "sha256": "1a64c1e152548b892ec761953bc77bdd378d1a385fd3933b9a69b595144db0e3",
+      "aprovado": true,
+      "dispositivos_ativos": 32,
+      "historicos": 0,
+      "sha256_fonte": "29d4a33513c88ccc628254e41a3acb062342e755b9179a6edc3aebd42d199763"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-853-2009-sapl-856.md",
+      "sha256": "8559940cccbe511b19f5fc9029ca83bcdbb38643acd50e713fdcc311bf8e5204",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "0be4e27fdd691998a986ff10626a5a5f4c1359ac27ade7be1e6180142e8f23f2"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-852-2009-sapl-855.md",
+      "sha256": "7ca127d18b694c9dfab9d2c12d1802c26447ee5bf952eb815b072b73fd8f8755",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "b7461e813ca6e0936048ff1e05972c52a53038e7b86e326308302b4ce6085e0b"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-851-2009-sapl-854.md",
+      "sha256": "bf24b44cc0bc2ba4ccf28162ce17e883dbb74ae0dc389b725b134dd411cb009f",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "66e23d07d239768ec3907add94a949bc29c2ac3a869c04466f23ef1984c2aa35"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-850-2009-sapl-853.md",
+      "sha256": "e6b5c1c39a4f3c955d6c1e6234a3f1aefe4f00421cf07429262830de8eb7656b",
+      "aprovado": true,
+      "dispositivos_ativos": 59,
+      "historicos": 0,
+      "sha256_fonte": "0f6e19bacf65a11d7e6f7171546ab4c2d1b2a0e3ed1e28cf97870c0a6e144add"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-848-2009-sapl-851.md",
+      "sha256": "09dc89179de120d4a026588c719a996115858ad252208d01c8a8bd7cb235bf46",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "83625dddb3a4966a9626eb3cfd24097e6d2aab618feb7477c144d94b976cc48e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-846-2009-sapl-849.md",
+      "sha256": "d22a665f7a3424271bbc81d92898f3163a8fa64d47ebc5bed8f1459682a72766",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "ff37d38d9953ba034c1e731bcfafcb9647d51ec1553e16bd27baf94ff4ad4520"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.207-2022-sapl-18856.md",
+      "sha256": "8e6d27292912f3de8fdbe7f43a427c4de55a74f456ab4eee6db5662475c7cbd5",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "6fe498c795936dc068a8514e8d4da32e59045baae19321fe62c7672bb355f791"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.206-2022-sapl-18841.md",
+      "sha256": "94ef5593e235225462e02802ea8389fc0688d839ab3996b6fcbb101a43560696",
+      "aprovado": true,
+      "dispositivos_ativos": 27,
+      "historicos": 0,
+      "sha256_fonte": "b6061654c1f1caf4778dccca7d14027e543ff1b87823f0cea30eecbe8adf0f28"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-844-2009-sapl-847.md",
+      "sha256": "ee9321b9d9623afea93df3a183c8c777e8c7443315eeee6264037d01bd6be965",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "83c113d805d6664ba8cd8e9e1b8c722a64a95c3489c56f3196cdc61059eb8f7f"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.205-2022-sapl-18840.md",
+      "sha256": "4ae6ce50357072dcefb82dab28bc59014477d3f9ac1ebdaef32d68956de24390",
+      "aprovado": true,
+      "dispositivos_ativos": 64,
+      "historicos": 0,
+      "sha256_fonte": "a8fe7a6635dccb314febba7acc05600de10ceed84a62d6f8af2e455629c4207e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-842-2009-sapl-845.md",
+      "sha256": "022bf4a90b0228bd1308df900643837e5e7b4f7ffe18d102d72654dcdfdfec0b",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "ad68ce1075da984171d885a09f92ab4a300dcaeeb6dce7935ce4157c861c7300"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-841-2009-sapl-844.md",
+      "sha256": "ea129ead07e9fb0c829445a8802224b269d96d745e2bc26edebf6d1bd383814f",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "bc58ece6ac4a49a0283df8e089cfcefe20be83ae24ed9d978565c6aed16c0b60"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-838-2009-sapl-841.md",
+      "sha256": "d6f148f5dfa1ef2cb8555013218b7c841a376e76135df2105d3a4ceb4eff2cc9",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "a64ee10a3645187bceac5b526f739e6f9e6f6d8058fd7559983decebe40ffaee"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2017/leis-ordinarias-2067-2017-sapl-3897.md",
+      "sha256": "3b59f2db15d77b032daeaeb93d5e605a3b1ff69c4180b2d93a0c30fab9bfa6aa",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "912fdd5fc8abce960db826e87b407395bbbd6cccc580e9d4ea445732cc52de42"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-836-2009-sapl-839.md",
+      "sha256": "1dcd823d2f0d67cb5f1a7723db261c30ce67ddb520cdac1d947f16037d565c50",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "47bf22114dc06e3aaab7dfe24a3e9e2bd3c20d43869a7aa221dab8cd79ad825c"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-835-2009-sapl-838.md",
+      "sha256": "d8c74668b9a6932a0106e4a5fe9e44d6b4c7bff83cf87eb7fcb73548259d7dcb",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "678ba745b25872c5b8a3b9a3a2474a5d3d861390ef0158cdfd402fb9657995e7"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-834-2009-sapl-837.md",
+      "sha256": "687a125fdbd05d5b9670b2286e84568d1f95f041a50f9de7bbfd3e01bc3b6c46",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "6088bc684d56e85f4f8324a223c3993fb7ca3657ea3274e25b06c3b92463028b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.195-2022-sapl-18826.md",
+      "sha256": "2139b90496477282f5a283b681fcaa64d190640246151b783abca767f8a0b5dd",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "e3177c95fa34b4f5a392d8e02f40507a4ae62ecdcef60fa9df627a0bf1ab1eea"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2022/leis-complementares-901-2022-sapl-18880.md",
+      "sha256": "c5e2fdc84acbb48fb0232a8ab5a919c9a9e4a0d23f0024dd91a1023a8728cc14",
+      "aprovado": true,
+      "dispositivos_ativos": 52,
+      "historicos": 0,
+      "sha256_fonte": "871e6ecb8aff59dcc639b111099d6e555c25e8a097fd909920864bc3e63a20e5"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2017/leis-ordinarias-2061-2017-sapl-3881.md",
+      "sha256": "5c320056c998b1027d4937795a57ad53ef863a7f323c16deace89565e59ad620",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "b4eb6c08bf273c6918bb902f615fdb9019d3ee8c815fce90b2c99c6d1b1c15f7"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2017/leis-ordinarias-2060-2017-sapl-3880.md",
+      "sha256": "0f56b4cbbbaba054b9d3ffe4e7dcbf9f2179b76a8011210eb00ca282fc5e624f",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "4bfe1e6bf8bb6792ce06b86ee34fce2f31de6d23118b5d57d3d926c3e13eb141"
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/2017/resolucoes-4-2017-sapl-3877.md",
+      "sha256": "553b538ae381a33dbb619930cda097a23616cfa0088fa8ca7dd018eb4346abf4",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "ee63958fd3364d22fe4e99d6625806511c065e85c3c59992fc51f60f39f62791"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.190-2022-sapl-18816.md",
+      "sha256": "5b92a648b8287e1636813f2b39de6f383414d3a9b3549e2f8b0a6fb7760b6591",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "657516c5e03d8abbec74c05e4c50067f366f3ecffb2e68cc5dbcf36f262acc1e"
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/2017/resolucoes-3-2017-sapl-3876.md",
+      "sha256": "206ed092113eac8d08e1476e174854a75a9e0ccafb9dbf168009486ef184818d",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "85607be9b8251dadc4dbd6476408c4b0eb7dc39cb0b399e5159f31cbe73f046f"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-827-2009-sapl-830.md",
+      "sha256": "d0580b9dd76aac80f00151fdecc9d5632e23d125bfec675a46b74ef03f3e7a16",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "e076c398d491dd52865d2a1192e3a6e879d3befa78363c3a7526133436706c13"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2945-2022-sapl-18862.md",
+      "sha256": "3a8749191041356398dc1383692b066025e36246ecca9bc6663804028858330a",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "f4244c1e3a98b2d45d6be518e6092c15f8ad401c061f6a94ebfcfdf17a61e2ae"
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/2017/resolucoes-2-2017-sapl-3875.md",
+      "sha256": "7983513d1cc9b8ca1c09eab7130d2901f154b882dc13d5fee9514b342c3f861c",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "e1a080893512b289acf624c75d77790aaee924f7297edadee4f9a2f5e0eb5c53"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-825-2009-sapl-828.md",
+      "sha256": "89acb18a189fe3bf313d18b4729d4ecff6042144e8e085c32d01105b291b5533",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "1b27a855bd6e0e4412003b1d2e0108067f94638e23b8e5b89f7df5ed05e7ff8e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-824-2009-sapl-827.md",
+      "sha256": "9c1980148582e27b30e7fae3539e16ded31927ca17257af181f7e31102f2431b",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "f4fd56c8e3b18771a51318ee62b3a080234563bed6e184d52a3a1c28c2009fbd"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-821-2009-sapl-824.md",
+      "sha256": "918845443e53b7bcbb56723c6de73bfc58e36862e6fb91023172364b6c470569",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "b8955f072eeb5529abc15b34f827c8dc9ce51f61b492006a08925e5c3df4f08b"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-822-2009-sapl-825.md",
+      "sha256": "72a5b61a22466c10f85281a31412872c2b18de770553a9e2d041a2dc4f428457",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "1acadb461b8e967b47a63073423d94d60391b94b9b22b497e4127695436603a3"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2944-2022-sapl-18917.md",
+      "sha256": "dc9de61a624c39791e9db84d78a7d19cb5e1e58855456604b4315375867378e9",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "2c089c7f1f7969839b5ccfe84be37074e82ae463eecb3800b21f17f72ca7f387"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2017/leis-ordinarias-2055-2017-sapl-3857.md",
+      "sha256": "4bcb9774c383c9717e183847319dc3c21ec120caa16b52808cc7d44f5de98bc6",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "94afd2c03cd7f87ddedda7ded86106f49b5a4dac5efb877008729ab62bc593a7"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2017/leis-ordinarias-2054-2017-sapl-3856.md",
+      "sha256": "1dae4d3a0e3ef0477ab9a69255a57616ca239aac09210020ea57560a297e6076",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "9b4f9607ba473c682e91bd68a9c672a6d0e517b12b44d45fc0538894bd65ec4a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2942-2022-sapl-18914.md",
+      "sha256": "ecb31f8ed6f752527c4154c1bf31440d3ba552f8367d093e1e964a0691eca48e",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "0b81935d58e43d4be547fbf6b1a7714117792c920d26a9ab3bb98d6c2f2605ed"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2017/leis-ordinarias-2053-2017-sapl-3855.md",
+      "sha256": "29b6de672764d907406780210f0e77a927bd2e6613791ac306a5d409d8b5af6d",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "ad8d28b185b013bbb99def06ce675050b0534a91eb5429d7ac9902339a8aeae7"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-818-2009-sapl-821.md",
+      "sha256": "35c720f464e321679eec190dc9c7048625830c737e47d829d465b3d8987ac933",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "f6f38b076e386de0e8ce5f40da6a5b76a65c2e40308876d29a18909b4aa160ef"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2941-2022-sapl-18913.md",
+      "sha256": "771f69c96e02c42a5c76d330b3b9e79deff0824be64c3738d1d2bbcfac8b8020",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "93f7efcbd5176bec05706bc30a2b4d81c2ddde941151faab90329ce4a35d4d5e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-817-2009-sapl-820.md",
+      "sha256": "177d0906d07def8f87bb9f98dcbac20db96febfb1857a2716da8c919378f3a6b",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "3feff092989eda5abb0e4912a44e7fcd49aaebe5a349379aa560eb766380b2ed"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2940-2022-sapl-18912.md",
+      "sha256": "786f9e29106f685ce4e2ce4f9b8a4c35bd27bbbeabb94617ca2c5b12e724ae5a",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "a627c906ad7c01812544b8ceab5cec357e67c6009c79d3c09aefdaec82a64dcb"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-816-2009-sapl-819.md",
+      "sha256": "b7181e52fb2df18b386e324da7728f61dcebcbc931669b8e82a4c6120a7e61d2",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "9f814fa40332e4dfff1618116081aebe0c93ace5e0b7433c4117936e2be33024"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-815-2009-sapl-818.md",
+      "sha256": "4eb5ab20f9ba4074f399466409b5f45f01837160b1ca2d05e509aed799611ab8",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "6c4eebf014e6c022e3ad4e9583f3441eda1c6d881ce8b423fcd3119ce36ece36"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2938-2022-sapl-18910.md",
+      "sha256": "370ce74f1e1b641b26da619b83805b03b65a68be57dd68311a750c43b3d7aaba",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "50740ad01cd80c93bf7c9cfb1505655cd75c04afdfadd26eb4e683a37ab4fec6"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-814-2009-sapl-817.md",
+      "sha256": "482e4e2a1f0f7a528f6a53ac8ae07bd93245c59f99164aac0dfa06f0143c1086",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "9c9eb9611e1c1896505539287bb4a5b18f42ccf7a787e1635c479d972c72820b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2937-2022-sapl-18909.md",
+      "sha256": "ce4f1f2dd6ddc5ea11a5dfd51b28671c02b60ff571d00ca6562eb8e0cc39b28b",
+      "aprovado": true,
+      "dispositivos_ativos": 36,
+      "historicos": 0,
+      "sha256_fonte": "9ba9e5f26d1e18969f1539b1eb8cd7c356e68d69c0e8ad59fbfcf0258d33d997"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-813-2009-sapl-816.md",
+      "sha256": "6fe73a549dab84a0a5a0657bf364995523019227553b557868642af070e29534",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "021385418994e887549cba494856933f1e7fce98e506282e0cabc904e488ee07"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-812-2009-sapl-815.md",
+      "sha256": "be1a8dd502a5ce26b0047cdc3762294d4c3817116a98381c1f1507895203ea7b",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "6ce1f0a3e05e28a122531cc5f8418aec26d982007ba83534965c8bd09416b702"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-811-2009-sapl-814.md",
+      "sha256": "6ad58289509fd45c13bba98381dbf11752e2bb47e1f28eaac015791b86b32617",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "3c884bab1ed05ec2e8e6c3b8b5b00e377d4a390944f513229716428fad546773"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2017/leis-ordinarias-2046-2017-sapl-3828.md",
+      "sha256": "b8bacd77012d3b066377d193710d9d1a20dd5415af6ffc8e29000ab7e5c6c5d6",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "74ef6b614cc749bebda951ae7f07b2e50804567688d45045054895297724de9e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-810-2009-sapl-813.md",
+      "sha256": "72a2e47cd313bb436996a23c21c25ffa1cabc73a5fdd5cc666c716fbeb585812",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "f3eb9c956302c754c27f5d7f76fcb2bec1e9d186e95a170be912cff9b1686cef"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-809-2009-sapl-812.md",
+      "sha256": "82e116093f157c9dc247608bb42bebff193633eba3b331d18d7167ce70221d99",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "60e52e761245db91dc7d8e71ecc7496628c6a815d35beae7145717c6ec2be243"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-808-2009-sapl-811.md",
+      "sha256": "c2f72c95fbaf21e512f01db20e74ae36412ec9c4688131a8f5965196c9cae134",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "fb45fef6e011197540ca16ced6e5141716cf631127d1509553c1f54eaa13b730"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-807-2009-sapl-810.md",
+      "sha256": "ea9f62ac3c691267e51832de0f49a078068982830ebb4d74841a64838820652f",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "c935256e93608be2b4de8ea58d00a6277434959d0d09ca32787fba09318a0697"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2017/leis-ordinarias-2042-2017-sapl-3822.md",
+      "sha256": "aaad29c400d7a6efb6f136ef4af113daf3e35881fe3f6c71c987339d02d87f12",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "5c1c30aee3181fe3066c1d02354648050ea2d3820d6c79fe5dd3d222f090f312"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-806-2009-sapl-809.md",
+      "sha256": "37de59e04f8776f9d56cf9b85bff04b2e00c95f9bf64c1181a305241a135e183",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "1d95f3d214c56e2ff20e65d8aa9441482190de67bc4c12568f036e853e1851fb"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-805-2009-sapl-808.md",
+      "sha256": "10ff045f2db0191de507a319d9caecb9432989e766d18c92f07495a13293d3bf",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "93cfdc2c9ba8b670a529aa97e6d2c98e96c92946929a8cc009a747cb58168c36"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-804-2009-sapl-807.md",
+      "sha256": "ec392ba7bb3dfeb07549d5f47721bc3729a85df86410b02c91f26772a90fe964",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "77f0c2d585191f0daa3bae2baf57fffb142cb0b7eceaf04fc0681e98b2dd3e1e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-802-2009-sapl-805.md",
+      "sha256": "dd65a99e4e176b3e7a27fbea64abd7071bd481eebd1d1b5dd27625006c6931b8",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "793a4117548da63572c30fbbd9b2e3bb9364bc8053faa08251cea1e80dff5bfa"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.170-2022-sapl-18700.md",
+      "sha256": "8f48897b31e055980a39e92d29552811490d6cd558ed2991d432d26bc40fb040",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "b4ff150d15e8b8d3599f798c4aaad7ed77914012190f052e0f42a7ac1830107e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-800-2009-sapl-803.md",
+      "sha256": "48edc41ab2be2212e2ef7d4eff9b35c2522ffc925cfc817b319d15032b5f27bb",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "a3f6f53a6f1365ee9d09f516829b713da9eb49418801b91cec73887b3297a38e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-799-2009-sapl-802.md",
+      "sha256": "cad9637e09b1f5c2849ad0e8b16dca19c0f0ff725c7706c057bd8226b827a35a",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "d6ea082ff410b12f28f790bca790771fc8aa1a4eafcb757e3cc80549ebfddec6"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-798-2009-sapl-801.md",
+      "sha256": "567c71e42b05f9c2fccb66f5404afa805996aa815bd8e597edd89391eff199c6",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "8c136ebf9da16740d68604c5922ba7ff04317488a8dcb4eb804b1fe4d76859af"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2935-2022-sapl-18866.md",
+      "sha256": "9ef38388218a12b7dbf03fb36e3d9f03212657603dd6330ebe602391d14126af",
+      "aprovado": true,
+      "dispositivos_ativos": 26,
+      "historicos": 0,
+      "sha256_fonte": "d724b4c067592733328b4f62f80f498291ab95b546f1778dd10e5c15a84bb7d4"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-797-2009-sapl-799.md",
+      "sha256": "dbd195496e986b30915dc80ad78b8d1dd98e554cfa44debe4e5c74e4ee9af05b",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "0280fe484ac0b6c71faf4a8c8b7f5a80a71ea46d90f6dcc5eaa403273ea17823"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-796-2009-sapl-798.md",
+      "sha256": "0be081693164222816a05b4d0e7edbbf476498406b5b6175ce8f74f18605574e",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "674b922e18e8f593f1499477ef95dc4c994b4c6e15913f64b8693f29a527c78c"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-795-2009-sapl-796.md",
+      "sha256": "082e7c99f7ddd6950ba52e2ac394bd01ae40bb99114b157d21340ab9bb1d76a5",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "cd3fa1f14373f004507c6a531c3cce951ca78becded832b974cf7eef426ed2d3"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.162-2022-sapl-18495.md",
+      "sha256": "ed6ae0c36d96208c0fb77784576a1e8bc4374e26e7a9160f2fae23ddf7e7e117",
+      "aprovado": true,
+      "dispositivos_ativos": 24,
+      "historicos": 0,
+      "sha256_fonte": "eca6771f96a53b979c145adb791ef3a147c4646305b43ef50b90646bd307abef"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-794-2009-sapl-795.md",
+      "sha256": "6f28b5a76d22ef350ff1388ef159fd4bafc597031e754195bc02970a0405a24b",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "fc1ceba45c733320deb3561171a2670cf6670f5e213dac4db18894eff3a3bda3"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-793-2009-sapl-794.md",
+      "sha256": "6023f42d9df6adf860ff5f8db0a1adc831ffcfa29eae47fe0b1e4eb708d5bdc8",
+      "aprovado": true,
+      "dispositivos_ativos": 22,
+      "historicos": 0,
+      "sha256_fonte": "ceeee0d0ce1ed09b1e91ddfbc8d717d5c11128b66de3dda4975dc9debf949180"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-792-2009-sapl-793.md",
+      "sha256": "1618cf91e88330a3a454c3fc1114bce927dd38837baaa106eb3789e850f3c812",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "8082db6036c001be80be3924cb0c2a61bd76a69b87367f45b9ad5839f89a4fc6"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.159-2022-sapl-18478.md",
+      "sha256": "7eb87b7348b6b5bf8c57ada530eead0773b9b241d0221c72492ef0ea1693267d",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "8648cffae30abfc2ce6df6813f0e7e41995144598450faa999cc8a16e487c69b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.158-2022-sapl-18477.md",
+      "sha256": "0e57605b157cc4181238eeba1c9fd2ca0f0b6b9c97d2b9ab399d460d95aaa75a",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "f40d44a7e8aefb3fc0080b32b7dc017cb23659bb0b11d531cd328eeef5eb1a1b"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-790-2009-sapl-791.md",
+      "sha256": "dff2ff11b632c17e6eaaecb4e4608cdc1d2d93ed0a85e81415a11028d7fee4a4",
+      "aprovado": true,
+      "dispositivos_ativos": 26,
+      "historicos": 0,
+      "sha256_fonte": "b7ae7dc6a8ee305673ca0d5d4ac391009fa0e6774b0772c771a48ec6a6a52952"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2016/leis-ordinarias-2023-2016-sapl-3745.md",
+      "sha256": "a5010f5a5fa70c192c5fa6d789e4750aa8f0564ab0d7d1626e4b0fc40ccbc893",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "e1644211d986bdf9fe1dee545449b0b4ea52552fb6f38feb16471f32ed0fb55d"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2009/leis-ordinarias-789-2009-sapl-790.md",
+      "sha256": "9d279caebee02191de8073cff9b0a539c17f7104c3d4d9525a8578cad3545407",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "b1d3f57de9ab8412b30d3fc970f2f1026c41c6dcca9485774dd0ffc6d7e0b698"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-787-2008-sapl-788.md",
+      "sha256": "e0854257aad2d4d1e9743675789511b6ac96613476c5a81fc7554abe82dd9eaa",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "a6994d8a1844be9b7a29e1fe84806265e7399ed445afc6c0ca29da8015a5be85"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-786-2008-sapl-787.md",
+      "sha256": "8f30215eb114c4102e3fe2ef03ba7fe4937ede66c0466b791411eac930044dd5",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "4c317bd5888c195a34e336451ba53d1a8a98c86b770ce528b5252e327b4d8871"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-783-2008-sapl-785.md",
+      "sha256": "86bbf7895fcb23903579860b57b390620d66d2878b44807bd3aa93f1eed7a4d6",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "fafd3908943cbc8c36b521d15154454547bcef593296a96cb3c03ed130a1f1ba"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.148-2022-sapl-18373.md",
+      "sha256": "029f4701a9a1b0586a3934c63811af40711121063f33b55e8b7474e6e02092db",
+      "aprovado": true,
+      "dispositivos_ativos": 5,
+      "historicos": 0,
+      "sha256_fonte": "585a105cfa823b1accd90865ee8a97dc786ff034ddf5fd7ac00c17a3154e53ce"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-782-2008-sapl-784.md",
+      "sha256": "b2d177b9a6a7e59649f27aa54df0a7dadc5019c2805f0f1f233fef1e01b77274",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "11cb5c7fd049e07aa907e87ecb05a382c91a67bdf9b1761eac8261204e864d21"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.147-2022-sapl-18370.md",
+      "sha256": "11c8aa0e96b6d9c4872c6ecea4ec0ee7ce020d7340ba5cdc72e8487bf7b40bf6",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "e6d4a4450611ef5012412ec4f4e6ab1e18050a2bd244a2dcd2c5c5dd94bdaa1c"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-781-2008-sapl-783.md",
+      "sha256": "e985e6ab068d5989cda00b68612fd67aa469e8258777b257bd7208875ffc3613",
+      "aprovado": true,
+      "dispositivos_ativos": 37,
+      "historicos": 0,
+      "sha256_fonte": "1c5eeb55f82652944228468187644d8d534742d812621d03e397dcfa6999b092"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.146-2022-sapl-18369.md",
+      "sha256": "5195384e3f2e440860a8b79c0786703dc51d3ca3ab8a1aa1e471d61296bd6c40",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "d813751a62efd89c511d447ec13c4fc6554c788390ba63ef50b906242949cb18"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2016/leis-ordinarias-2018-2016-sapl-3691.md",
+      "sha256": "2ed6048649d4ccf32d950915c1844453dad6a58fb7d98d0117e1006b8b063d09",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "536bbbf744a532db0770808226074a761a82adcf2c3b34265c91c8e2fdc49275"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.145-2022-sapl-18360.md",
+      "sha256": "1cd5d1204980110bd7b9bde68090ad0041ba802193016ed70a1670a838a48da2",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "fa94a58da28c1c73a457e36fab6d5bfc8fa2f2e35b177892bb6756456e9a8f4a"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-780-2008-sapl-782.md",
+      "sha256": "4c858f2d314d6d1bcc225fe9c625f3b29402e49fdb9de0727e6e6e69c5291e2a",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "b4b85759879a9f02e005a48b51e079e3f8b8177936c81a7d2f2fe012c2a3ff74"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.144-2022-sapl-18359.md",
+      "sha256": "6f431f25685aaf37e482a7132ec7a93d4b880a7b64e2438d7575a3355275aeaf",
+      "aprovado": true,
+      "dispositivos_ativos": 22,
+      "historicos": 0,
+      "sha256_fonte": "fd99bd429e1b8c745048303dfa0b7512a26433b44a503c0fa58dbd0f2e1cb8ec"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-779-2008-sapl-781.md",
+      "sha256": "748c96b9d779cf5d70608ee756250f99ccfba3a97c981b5695a976d17a51a5d5",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "f00e570a6b01c841b16c329449dd0f73540f842cae1a9510b0fd8b6894324e88"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-778-2008-sapl-780.md",
+      "sha256": "5db8d68ef40132fcdaadb481e207d6d04ad6dde9d05ca3aefe2329bd96b7c75b",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "032c6546bfe844b37e4b95890d7242ef87970f38d4fe9cda072c47670aae8a1c"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-777-2008-sapl-779.md",
+      "sha256": "37758c5f0d7b927e34e48d63973a859f8d833dde5156f7ea04e53e2e10d72802",
+      "aprovado": true,
+      "dispositivos_ativos": 42,
+      "historicos": 0,
+      "sha256_fonte": "fb77675dbf9f31cab3281b3866ba0c889fc316c95a9335f365c88f6a730bfb3a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.139-2022-sapl-18340.md",
+      "sha256": "f8440f32e4e176951e9df32104c21e1ccb2e47dd280004d1e2ddbdcb4b98462e",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "868fa91231e876e0bd695b33bd816ebb89e91194ac0d286c1502841dcd827096"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2934-2022-sapl-18222.md",
+      "sha256": "323c82ecef68af098fddd279ce7f94de95e6096d76b204434394739836d3594a",
+      "aprovado": true,
+      "dispositivos_ativos": 30,
+      "historicos": 0,
+      "sha256_fonte": "2cf0ddf0e4981dd5c153b539c6c613ed0f19752262315218e3adae877bc87061"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-773-2008-sapl-775.md",
+      "sha256": "7543139f9487421ae01544f588be03a981cce2a0f63efb2a533a764d4560da36",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "55cf37ad61485f2892c5c8a5c9efe64247057508f87c323e17764e2b78c19175"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-772-2008-sapl-774.md",
+      "sha256": "163f93b08b34775301eff60407c15b8672d8019bde3b9c6c279f11c69d00e4c6",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "5a053376ea2c4453f1c96d37032a685be106806ca821da73fd8cb43678645dae"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.135-2022-sapl-18217.md",
+      "sha256": "8d61c595acadddcb570fa063d4e35ff97b6c754aebe6afd3510290b02d226a6c",
+      "aprovado": true,
+      "dispositivos_ativos": 58,
+      "historicos": 0,
+      "sha256_fonte": "3d8f8327dcc8ea2d76f0e5c087675d94fa7948ba71dfb32918ae4ba8a89424bc"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-771-2008-sapl-773.md",
+      "sha256": "490fbacb4810b116363ce54186e4ebb88050949e4eb9eb672d678f5fae15f5ef",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "9ba467afe5353ec1b0ac4e1e254b1b977f7b32b464435a73f92f8ac657f9ae4f"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.134-2022-sapl-18216.md",
+      "sha256": "5f127e5ef6fb7bb6a33f0b7280f0bf161d2074bbcd707eb1b50e7662d2ed321a",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "532093b3bb9dfbc0e6739d8255b042847e76210a583ab6eeb5f9f11399104479"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-770-2008-sapl-772.md",
+      "sha256": "1face28050b9da576b4dc1094644391c1531208d4f5712d7184acf356faed656",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "c6c9d7e181f510cf8261d404f7b466bbf53b4a501e4148a1ccc2f27de718ce45"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-769-2008-sapl-771.md",
+      "sha256": "c0aff7457d9cf3daed1bcb46c64036a8d4c650b034e02057f720e4b791f66f2a",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "2a3e36f39ff5e65535132da107b28b5fa42089b6b9abab93ed9a6470cc93f23d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.131-2022-sapl-18214.md",
+      "sha256": "c1834f2014308fb2cc85f819c02c27f2a98b67149a28c5f48d0033ff7d6a8464",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "1a3e0d2d4e2a0a5ea228424963434979882edce38bd4ae65b778f0ac3d3770cd"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-767-2008-sapl-769.md",
+      "sha256": "d172c8489f525bbf28bc7c96204fac74e6ea36bf8fb40134d9a3b2a3516c31ea",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "746c99f858ae352751bbf01f97cd5a3d700bed49722f1b59efda3b97b6017f7d"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-766-2008-sapl-768.md",
+      "sha256": "24061a077b93b1caef5dfa5868d2d21cf006af663bf43ff39c6e95670a6ea45e",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "bf98baf0cf2fd87e2708b76430cefc53d24710f25dd77697be364bda4a6f9eb7"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-765-2008-sapl-767.md",
+      "sha256": "e3fd33f4018958055f79774994257ba034c04fc9dce2ad402bd31beba2061d7b",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "523eaee3f81ac6367a9b1d4272f65fbb1ad1115799855f85181f25e6c62152f7"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-764-2008-sapl-766.md",
+      "sha256": "5eb54c5a7aa9d3a2b7c11e2a06c64fe11055842655c6462978620309331b9529",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "db8a16abe0089b95637fe1b6e15a4e1694b57761ebf68c08b2aab6e4a99058a4"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2932-2022-sapl-18131.md",
+      "sha256": "a483020dc81100ab0a563ba8870c2a16d07d6ef6ba9c5387039d250b7634fba7",
+      "aprovado": true,
+      "dispositivos_ativos": 26,
+      "historicos": 0,
+      "sha256_fonte": "81aebbafa723f0d0915189140036aaa97b277c9651b1539321d73924d3d0f606"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-763-2008-sapl-765.md",
+      "sha256": "e990a1c0918fdbc2538cb13631f9482dfe9ea9f26dfa4ae298b93aac8389e763",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "2cb3289e0cb4f51e747c7755dc0a93c58a11554375eaf456fab9fecdc0df452d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.127-2022-sapl-18123.md",
+      "sha256": "061b40992754197da5b7120458defbf0f01fc60628df7c0a2102e9f9b76b7bc4",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "b5fe5fed64bd5369fc0468b6e5d88f80cd2b9ccbb705239430e36064b4a4aa5e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-762-2008-sapl-764.md",
+      "sha256": "6f8d55ed2166140a32cd18a984ebd910f5f136dfcdd5f0f056f3932658c74bad",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "c693eba59050c69537217d3b325052b6f9873e700261bade49e11d89cdd08087"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-761-2008-sapl-763.md",
+      "sha256": "f8f9a15135ffa4b695350093867c1dd8fd12a5f684657cc490a21921ea5420d6",
+      "aprovado": true,
+      "dispositivos_ativos": 22,
+      "historicos": 0,
+      "sha256_fonte": "75f0bda17014b437eacbcce018fbd2d60a5e2d030846d02e21177e11a32cac13"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-760-2008-sapl-762.md",
+      "sha256": "0a4937575ce80b7c7aee1a1a437cb8f36290b7f9a77899761608976e6c0c7cae",
+      "aprovado": true,
+      "dispositivos_ativos": 185,
+      "historicos": 0,
+      "sha256_fonte": "9e321fec5cc6d60f2c3a1b81d4097280e50ea6716c109f5358888ba5c2cb924f"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-759-2008-sapl-761.md",
+      "sha256": "0c3156adadbe4bb8ceecf345e7de2dc58ad47e16c1913d4285d77365aba9f346",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "6ba714f0f4de99eac14c151ad677afc39a71736f4d6ac7ea4cc4c7c80de6530e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-758-2008-sapl-760.md",
+      "sha256": "7f2e5f47ddeb906cd50f522f34c3fb717af4a4b3fb36cf2a0dfe7e2c581b02de",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "a372af54ed4cfbe1b2c0c889beb0945e873740f61a7a1d365c5048b89be81c9b"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-757-2008-sapl-759.md",
+      "sha256": "96dfef87ecf3a17a3d7d5e4beaeb11fa3f4019514160f024894199bd2db51863",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "8f6fe07af4e6f6807198f151c54ea004d0c004b117c44e0e76c791655b1f8447"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-756-2008-sapl-758.md",
+      "sha256": "ccf5b385c3f5323ce15ec44dbe16d7e13ac5aef09b520c8f5f4ebe8bafdb3d94",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "e15ccf23f63f7704e2a1e25f95849576b332b0d80d78dbdcadcae99301d90d3c"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.117-2022-sapl-18099.md",
+      "sha256": "4eccd23772beac8d92f4e953e20931e6b5de763cef4402d1f770e32f91a718fa",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "c889301ce569b4807def4304554d8a8acf8764a290fd1f4a1b48280b7f3de282"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-755-2008-sapl-757.md",
+      "sha256": "1a77efdf45ed7346e51191765d3a5b1dc15f968b6e019d1dd4f3b8ed5a2793ee",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "9a686841a33a4957a89f61b3e3a2e5a9afac2ddb3803e033d030259fc8803f4e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-753-2008-sapl-755.md",
+      "sha256": "0683c90e3ac8437ff4f8adf5007972057fec90a7955adab15a04befa34447639",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "867fc841ca96d1a5d908b59f5a57095bae93dc3f7834896ce7fab7ec55165888"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.113-2022-sapl-18033.md",
+      "sha256": "389bb4e022b51980b69854b309e8e6c8fa0708e6ee1f7c521431e03268d60d8b",
+      "aprovado": true,
+      "dispositivos_ativos": 52,
+      "historicos": 0,
+      "sha256_fonte": "ca1db38f79a45533ff841a8128177f26568de2093978b7592067486e5e52b600"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-752-2008-sapl-754.md",
+      "sha256": "82649553ed31d811c55bdee857d8e12e6f3793ee5bd4623efd5205835dd2ce3d",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "46841a7a950a11c100b8d7de6484886abe1c586daf18884b9d0c7fc303af726b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.112-2022-sapl-18032.md",
+      "sha256": "c19d908077270527a12156d519d68f2167112d271acedb0e8ace8e1175385cd5",
+      "aprovado": true,
+      "dispositivos_ativos": 35,
+      "historicos": 0,
+      "sha256_fonte": "c58af79be6264354952fd337063d8663c5038c5a93dee1ec34d9009bef1fac8a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.111-2022-sapl-18028.md",
+      "sha256": "88f45dc127ccc6294832b8ebdfbc23cd384faaf07ba680c6e9aa4bb720a55b55",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "5fb15c4d15749e79c0bcb0fb2ac8d6ec97a4998915ced36279876e22a685581e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-750-2008-sapl-752.md",
+      "sha256": "8de9a8f996d5057365c0247f9e51ec4ce3aef8fc9c781a99bdde0702fc10215f",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "e13cc2a1f0b30e7a446e060ee54dfd0751ac363996803a5f66fc54f4c6ecb2cd"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2930-2022-sapl-18130.md",
+      "sha256": "37e55d1e135f5e4d42c12afef7a17e073766df4d0ebc5cc8b06f7bcfbfa32709",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "cdfaf8f8f566f4190c5bba71db0ca53da768b80ce3b66394db11de1bc509aadc"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-749-2008-sapl-751.md",
+      "sha256": "d3b152ed2274da60ba751f70095bcaa4bbf264eaf60c0101233efa8760357e06",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "4db7bf6f67505341377b1dc6301c760e0eba24d127558566d6eb28511d005b7d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.110-2022-sapl-18018.md",
+      "sha256": "30b2548f0130fbf3d3fcdf0b38c05771b81e815cd6915ad29accfb0ff97f91d9",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "c532c79da97f4bc9ea845b011fa0c60b2f7ded795d4a2d1f9a170ec325ebe43f"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-746-2008-sapl-748.md",
+      "sha256": "1a2af4c7572626cbd6fbabd4ba0a8e93b75dca53075d4662f1b96b810027cd5b",
+      "aprovado": true,
+      "dispositivos_ativos": 57,
+      "historicos": 0,
+      "sha256_fonte": "0475cc5fa25f1cf9fe372745fc65d9225d757131778d7bee87cafde93270ae59"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-745-2008-sapl-747.md",
+      "sha256": "0ce89ee7790ff308b10ea7370a2edbb89fc5fb758d1ca6a4667f8fb154c6e7e3",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "4a4441d969f3f943e01b76ac379bcdccdf9cc035f477989b240dbe9c4c042dff"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-744-2008-sapl-746.md",
+      "sha256": "fd49b0f975e448fa8dcc0b46ffdfa7315f43da8f597250cf4d63ce07c004aa9a",
+      "aprovado": true,
+      "dispositivos_ativos": 26,
+      "historicos": 0,
+      "sha256_fonte": "8e623b48ae9644d463ed22258610854bf4a2ac083a68f6a443d5d88215639ccc"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2008/leis-ordinarias-742-2008-sapl-744.md",
+      "sha256": "d2241e073d36b9d17888a9e83fec8bb0efaa441abdf8db6a10c44a65f74e74ce",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "ff77bd7ffe510eaad84ba1a6ac389e1d07f52337d8e5337c32a639aa88c7e52f"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-741-2007-sapl-743.md",
+      "sha256": "257c5dde45529112f360f8754cffd59653c5fedac402be6ede5c328eec6eee4e",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "e8697274afe9c29defc7b47d3116e20a2e06f1ddfeacf4c60067c2afb77415d3"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-740-2007-sapl-742.md",
+      "sha256": "2f7b368a4da4275c235de0f120cc0e4f02a2cc628970c39e5c31ad5cf67dd0b5",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "020e4ab3b04fbaeb31230e3ab1b3687532a2b1d3ee5c3ea8e42cb8a58cd2efd7"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-739-2007-sapl-741.md",
+      "sha256": "8b6ec0ae9ff77e78012b6c69c03049b7c93d176477484d0ddb341988d61b89ad",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "95b711ab0a15547cb56a8981d5c2cbae1edf9a9b277ac86931711f2d062d8550"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-736-2007-sapl-738.md",
+      "sha256": "2666f03ae5acbc10f4906d2d1788415a29b7dfbdee5d5c7294807d50fce43252",
+      "aprovado": true,
+      "dispositivos_ativos": 398,
+      "historicos": 0,
+      "sha256_fonte": "e87de5e696b1acf19b0d19070717da98d86a15555e4a7d75481f43ecd2e36d0b"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-734-2007-sapl-736.md",
+      "sha256": "cc348b88f64b7433d63c43b964afdd1b066a1be5e9cf08288967c0c9b040aa25",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "5fa86489df59e6ba5db665205825b14e5deb97d1386584d66cc5e2faa36009ec"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-733-2007-sapl-735.md",
+      "sha256": "379119ca0c398afa878d7c06797d0efa38b1fcca84b8f429e01ec5376ef4c622",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "6f5bc4944ec1e77d2505de770d0bd0f35171934feb688d40ff111b80c0fa27cc"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-732-2007-sapl-734.md",
+      "sha256": "f5f61827d8884f0be5ae67181445decd0ce82241ffdfcdcd4bef8181448c308e",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "66c3c81f4305c6f37be8241a2532d9d2a3bc262b47eed517de8235bd93a36beb"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-730-2007-sapl-732.md",
+      "sha256": "ba93aed4d89151b9dfea180ff0357cdb74557e22402f88e39a34d719085912f1",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "8b8ec0ec5a0d805a28dd7208b9b251113d4d7a01be4a3c833932daa4cdc35d43"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-728-2007-sapl-730.md",
+      "sha256": "29d5cd946304a6c9c9acf09ba4cd42b41062a08b15242e8f59dc4a7c2c0f0be1",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "7252cc68673e80fc1f0629c33e67c5d003c9351910a415139ca04b7ce968e6ae"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-726-2007-sapl-728.md",
+      "sha256": "01aa8c9b4ccacd55b1af6ca363a7bd5a8e6bdf55f4493ce98c84af2c0d43030c",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "822651d56887cd5256ecee1c7252dc0bc51c1fd66a449f22c1ccfe800e7c2c21"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2929-2022-sapl-18127.md",
+      "sha256": "cca454d08cfa21a5ddc15b6e242a710c306d234e8592d0527f0a7cce872f9d8d",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "1e27fbfda1e52a61384e309eb4656559b6b4e2348de9fb8033af9e6505d761a2"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-725-2007-sapl-727.md",
+      "sha256": "46cc0d897bbc345dbd358a75f50a9f24361455be77bf930fb9232dc062ac0639",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "00109c81189fed357c2a8debf0e6f95bcded94d5bff314aa88e0a59bbf8f22fc"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-724-2007-sapl-726.md",
+      "sha256": "6d8fa6f38b1061bc66be1be4369eff8e21b31a64ce531326705249834f36e75e",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "5f54330550dfc109f2e20577247fbd6cc8d0a2d26fce1b3a1095e76d5b63fe73"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-723-2007-sapl-725.md",
+      "sha256": "4c5e71b46da53affb808e3e5e38c591ad243c04b312f322087accd74fd8f2750",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "78df49649b6f3daf9475dfe009aafc6d0d41d3643c241a4ed05e905b8018d405"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-722-2007-sapl-724.md",
+      "sha256": "44f4614c893343e60a7112ecf7ae60bd5f5bc9c4a2b4c1ad25dd55ed16f52699",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "456c038592ea5b78e5c3b6f1c21c9f771e2bdd4721ba7e90b744ebca929a9f10"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-721-2007-sapl-723.md",
+      "sha256": "35b61e47733502600d4449592163c3faa69a7818d4f336e7c0510c120dd87117",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "073c5fce0be0691c53a09b3e4695ed3d39641de13dfe1b735853b8bb0272eeb2"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2928-2022-sapl-17990.md",
+      "sha256": "82ad199eb2a863a099f5c847ece2bf6ae981ff7e676386daea7a1d97cd5d67cd",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "66863feeaed1f7374c80c6e1875dde0064087d075fdcc14f3b8fe477b5b11d32"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-720-2007-sapl-722.md",
+      "sha256": "c9ccaefbbebd43672971f534dcecfac869814c836973504653edf6550b028f20",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "ad7cf0a4ac00e639ed273b046b47bda0d78c37ce7cc4f07abacd237698497127"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-719-2007-sapl-721.md",
+      "sha256": "4a66fd90c4d24fb60a9fa52f60b53a2b615bcb0799bed3652a39e872fc46f4d4",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "536709af8f9853e98e01db8e5043b75bb34d7a639236e4169c93bf8970c9b0e5"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2926-2022-sapl-17988.md",
+      "sha256": "dfcdb213e916e263a9292da7e7052f48ee2dbd9d9722976ab3bb4aea07af927c",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "efd6b12641cb95ea6bec29eccad1b35d1dffc2a48e5c78adf7c1abdc1e744138"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-718-2007-sapl-720.md",
+      "sha256": "4ab2b7a662a8a500684aadba8e20b51a3cf99dccc6de5a7a85d9a7489ec64b6c",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "3e565c24b652b3bbd59e436e37a7d67c65786f98f0aee2895f85772408a2f477"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2925-2022-sapl-17981.md",
+      "sha256": "15cee6764edfd2085ed0efea036dc2453b5a419fd191f84a5b27b6e884d88c8a",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "15e7355c24fac93c387a29cdc840a8c3bb6f04bd8691b3085bded206d2f3ad59"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-717-2007-sapl-719.md",
+      "sha256": "479edc6ff4b7efb6d6ec28b1f7f94b65d63172bbbc43bb690e040befb1269afc",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "bc9738ea5749f271e0ff4f6f383bdc5575c700c38b503b2ab8dc078bfadd92da"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.080-2022-sapl-17856.md",
+      "sha256": "a9585385e5b8f971df90d5289ee91496509f07bb6992c26db1b9b86bda9d6de9",
+      "aprovado": true,
+      "dispositivos_ativos": 46,
+      "historicos": 0,
+      "sha256_fonte": "6530363297677768898bb98a708171476ed35173ef15a6bb202717bbb6bc0e21"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-716-2007-sapl-718.md",
+      "sha256": "8a364c9f2929a4d47a237ed40675f6e649cc921e6c48180cdfdcc24887a9bfeb",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "aeacad989f6138b7ceb284cdf2d094eb1dbd53494713ef733b3978a636f9b265"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.079-2022-sapl-17855.md",
+      "sha256": "663f9aeb77d7d6887d03601b606bd06d1bd4d2de8a8e76936bd8cb07bd375c97",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "de44a185449dd0fa585b1659b99bdcf3bea0e214c75e291b34e364ae56757c44"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-715-2007-sapl-717.md",
+      "sha256": "b7dcf33383cdf1b37028dcf56c4c36ff5f80d01e94fd0d80d6ec3a59bb331bb2",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "dcfcab6beeda9a669af720b2f2c3ef1842dc5e6ae645261eb1404c88dd6e9dd8"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.077-2022-sapl-17817.md",
+      "sha256": "5f05ab0a84f77f5c714104f2e3ecd4505331650cc13032efc82db8ad0a141619",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "8542802836cc3b1ff47bc8e6c4aa672bc1f3effc623a477422ddbb7eb754d170"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-714-2007-sapl-716.md",
+      "sha256": "5f52b7a77bdb88cc96bd4af39005b5bf2595a077c61f7c3dd3238962e430a00c",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "9baf43d4aa344b2c18f9858835ab21b9f7b108b4aabbb5fdab5819517e4f2b91"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.076-2022-sapl-17816.md",
+      "sha256": "fac634108550af9398103bc3860a0615777a79f155225dcde7bccb47cb3deab2",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "e56f03fcf636b81647c84c629683b5db801b5d7fb880f5a95eaa24cf0d92d563"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-713-2007-sapl-715.md",
+      "sha256": "3099b0b2981ea018e9f36d9abf16ec42be3ccf94858a694bd6491c5d12d59bd7",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "46bf77a385706608550f8dfcd869b487316dddd8a648669a9bb218e26c48fbf2"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-712-2007-sapl-714.md",
+      "sha256": "1e55119e607ef749a1e202ff82c4588939506c30f2c3a657de1e30dd565d0596",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "6fc83573ddb6b8f3da8429f65ce2f846bf32380ba27b011db862da5aba54e986"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-705-2007-sapl-708.md",
+      "sha256": "e7611c1c87236ec77fe3e1e1fb042c075f97754dc0442dbdf81075f0b9c313d8",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "d39a8d4245447d05a2ee9f8c6858fa86ce29966c6e32621aabddeb83ad1e2f3b"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-704-2007-sapl-707.md",
+      "sha256": "7be1ae3a5478eae691f72a4458e555b465ded501f687ce355796803f2bd7ffa2",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "6081104df4b5ed20c61edd49a6e9c6421fd951ac7e11dc5dfb6a8eadfdcb93d6"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-703-2007-sapl-706.md",
+      "sha256": "8b5cd0212425fc49606bd7e950c6847ff973f11db6a38cc3cb90075827419f4c",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "ab3eafa412d51df4cf0e5780adc29fbcb530e3b0420b92cfcd33bde88d0d41d7"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-702-2007-sapl-705.md",
+      "sha256": "434612164219d0d4835c0ec20d8f0faa3fd078b733ed758765ee5c79e1edf0d9",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "817f87e165dbbf38a3aa72cae958e0eb5de451489a169a05d24e44e23cb2a286"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-701-2007-sapl-704.md",
+      "sha256": "87a4b75a7c692719a19c7962cbeea2c08b43e2d32e56c0a9fec9b166efd11d71",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "28b324d5a14f3d0d12378368570b6df10f12744c618da7363e51e70fd047be65"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.063-2022-sapl-17793.md",
+      "sha256": "fba87d78ebc69b19500ee59e123ed87e0b3067441a05437d8e6cbc9cca5a8148",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "c3bfa63296794b2c8b412ad2471173f508acf701fcc0ec6480960eb992ba6ae4"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.062-2022-sapl-17792.md",
+      "sha256": "fe87d32312c0dbb10dd7c2d193f6e154bf47c3188489bd9de7f067ffddc5d4f3",
+      "aprovado": true,
+      "dispositivos_ativos": 27,
+      "historicos": 0,
+      "sha256_fonte": "d64503c2e97b6d38bbc12868d42766fc0f6410f0376e90b259ddeb26423d0b0c"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-694-2007-sapl-697.md",
+      "sha256": "bedcfdda39676f2c7c5ba46a8f2a1160c7cc285669ebdd7b55ffd9cf83199552",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "e89c7d65bc78e50536d4adbefa9263c96ef8ae731971e7d06bcbddb369c9fc65"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.058-2022-sapl-17632.md",
+      "sha256": "889a9128257c472dfdf3f6adb987d770f0504b64b9e38b9c0b5dce7523cd2be8",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "2c820885da2fdb922df8e98acfa1847c8b3f96c31872ae693d676e9213248433"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-693-2007-sapl-696.md",
+      "sha256": "306b1cd6fe557a336d88de34c9e224263b290402befd26a775112d3ee139cef0",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "f7542a6f78b4ab0602e7b97a4e03525dec0fd90111562f0ee1fc16a978780a12"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-692-2007-sapl-695.md",
+      "sha256": "f7c49fe9d0055cc7d6b8de4ce5f5cd3194cb7f2cc151d0aed4f08c39dea471e9",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "c69f70e88a58723da005a6fa30cf14f8cb6469d936a3723116d4d4764c5fca7c"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-691-2007-sapl-694.md",
+      "sha256": "f7bb1c7e25a66d8d89631c3c1a8124a5dff25b93c247bde16580932803c0fe49",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "8ac022bbdaefc7d4396b49e836f9a2a4df1d0cb04843416dd85b6e61b1939814"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-689-2007-sapl-692.md",
+      "sha256": "a285c3980da5ff87b1005f4bf8573cde998dcbef6f99a35fa8c32a5b48f43b30",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "960d5cd9c4c722e9b8d688129e93ff67b290cc50d15a30e130809928dd1faef4"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-687-2007-sapl-690.md",
+      "sha256": "abd86e71ecd90c7def8f9063ecc9ee33cd5cfbc6ef72a0c19b3283438047273d",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "d972dc079ee1fdf1d841b6a06c833babef92886577e717c82c4264b6643de7b2"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2007/leis-ordinarias-686-2007-sapl-689.md",
+      "sha256": "f188d96d77e7ace217f8dbfbb85b286e60fd46ae25af6a4729ddbad78e6e6a41",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "2816cd7501f6a8be4e39a91f21275fba1cc9413808c8ddf7e777db18d9342b2a"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2006/leis-ordinarias-684-2006-sapl-687.md",
+      "sha256": "8414d88515839e9e35f20fc9e94f229fdecf215368dab041d7fb3de97751e08d",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "d550f5c733a62ab5b6d5a31cd6dbce64bc31aaf55b535f8311ea9c9cf92e1b9e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2006/leis-ordinarias-683-2006-sapl-686.md",
+      "sha256": "eae525fec035f4f54f10d855a061386e4d6277475e32fcae28a38b4ba84ea6e0",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "96063327171b2d0659927d21525c77737738c8b711a35f9c058ed695af2fc68a"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2006/leis-ordinarias-682-2006-sapl-685.md",
+      "sha256": "860f3012ccd893807b7a217acbad8bd94ad88d0db252befbd1266ee8c7576ace",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "9b38287b50a1129e5ed93d00d9f0d657645be89edd0a85fd03f4329d537b3037"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2006/leis-ordinarias-681-2006-sapl-684.md",
+      "sha256": "82e2de87ea26386061776c40de86f1c7ff87a6cfeff381b95ac97fcbb2c79795",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "212c2022b12798e52d1692c7414204731884eba42858202669b0449daca9e044"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.043-2022-sapl-17630.md",
+      "sha256": "d47d5210943be6bb0188d13e6d070d988f43ef89dc03db168d226d827cb17042",
+      "aprovado": true,
+      "dispositivos_ativos": 32,
+      "historicos": 0,
+      "sha256_fonte": "504fbfb0b1bc5d46e7760943d3fc2d3e769beee84e7c058aed4dcf047a031c04"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2006/leis-ordinarias-680-2006-sapl-683.md",
+      "sha256": "2f64a76fc10eda7bfc989058342f8af0d348107f5546de230cd1408d21dd4ad9",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "dea92180201ef39030ca82268dcaa0a622ac61de999bfb4ce8116f01db796772"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2006/leis-ordinarias-679-2006-sapl-682.md",
+      "sha256": "157edd3be3678040ce20650b633e23120bf0f5ea04730e0524d2de9ec6bf9be5",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "ede1430e76fba3706a6ef8a366ed54d685bedfbf7269de087f0b26dc61ac95a9"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2006/leis-ordinarias-678-2006-sapl-681.md",
+      "sha256": "f63ae5c3ae2cabeb92d473295a0caa61080cf864d194ce863d095d5f105b2d95",
+      "aprovado": true,
+      "dispositivos_ativos": 29,
+      "historicos": 0,
+      "sha256_fonte": "5b054ccdfc2c6dd811cecdc213225b95cfe834e90eed35af6cb1cd6ecc3ccfef"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2006/leis-ordinarias-677-2006-sapl-680.md",
+      "sha256": "31b3a51eac8b83657bc00e79de43232c9a2ba14bbf96dc0792580f1a3b8a4ebf",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "4ab863dc7d42c587bebbae9ab2f348e8a05c0d447664cdc1a8c3e104c64c458b"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2006/leis-ordinarias-676-2006-sapl-679.md",
+      "sha256": "00ac46ed377c6b8031eaeb9592aef92f21d881ed9e5b6e17ad7c0371e44d7070",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "8337b2d05b19b4641f37400dd1583b09461904eb4bee3fe65fd04086847baee7"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2006/leis-ordinarias-675-2006-sapl-678.md",
+      "sha256": "e652d2e28d30aa98373b7fc0e410075aa42fa1c4bc2e15cdcc3661cf67fa56e7",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "fff56af221224847300cef1e8610e0f3787fd87257bde6352ff194df1f4eccf7"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2006/leis-ordinarias-674-2006-sapl-677.md",
+      "sha256": "74dc379c742f49dff0264ed4f8edac6ce7ca5e4fb59c642ac3aa89dd8015c6c1",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "6f4c67a4b83f382215f7fd3097a4c04cba72933bfc2ce64fb9de5d80a672db34"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2006/leis-ordinarias-673-2006-sapl-676.md",
+      "sha256": "3a589b0224741407b54f8a183983b5240512f96b23fdcc4896beb2074b93745d",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "4e3f0282bc671cc1289040c1908216b6f6d0a02be22a3bb543ab3d58887ec6c0"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2006/leis-ordinarias-672-2006-sapl-675.md",
+      "sha256": "96e5520e302449b2862b146831d49b117826e88301f56808acf09a97c1f34381",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "4097c725e60e5cd304a05dc6e3018a8d680b898dc14e5d533e11eb5c0144d632"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2006/leis-ordinarias-671-2006-sapl-674.md",
+      "sha256": "88cb784ceaddb5e42668c6ddade7e70c27a2764d9ddee9c020039ffc0f4c9682",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "c078cfbc7d413b1fe269d546ccbeae71f6e9d8fac7a6cde77498746f0d44cfa6"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2006/leis-ordinarias-667-2006-sapl-670.md",
+      "sha256": "084ff4584f7ad90281df4525ee4a647f40bd2be67c2be18604d8ed7e7cce5ea2",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "b8ce41d8fc52bfe775b412760e67cb96140528c091112806e6d0e63e2de475f4"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2006/leis-ordinarias-664-2006-sapl-667.md",
+      "sha256": "9942261a24d08574bf6c89ca7a7e96a02caa895b84b95c57d729c06ae668fba2",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "01cdd395d4edb7556cff320138db8b9e77ce2bfdcc99e13220ce9b10f64d9470"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2006/leis-ordinarias-661-2006-sapl-664.md",
+      "sha256": "b4ce314fc73ce60e1b85d4abd58866c4eae21758e34f7e786e5a5bdc7eaf37c2",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "c1773be29f34e863447fad7f9ecd8f05addcc14f13b1ed286a176f17259c8b09"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-656-2005-sapl-659.md",
+      "sha256": "bd414ba6931b399d66b695180528894d988a996c679b6f8e37140414357bb9a2",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "904669d339582f5aeb3b2e83d43c4fb01cca059cf668d275be2a7274733e7309"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-655-2005-sapl-658.md",
+      "sha256": "bf53e1d065232c7a248353ddaf8d4ce0a91d0a265eb7ce67c377d0425ccba171",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "95a0ed2b1fb4a292ec0272014dfb9d254861db7a83e8a7686401d1e54ebaf166"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-654-2005-sapl-657.md",
+      "sha256": "9bd388313b532dd38b86a78544a5a18c29c72ff5b5f1afb972a73dfb3dce5b0b",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "a63b6bfe9c8773607a99040809a83b8744dee0f6e6dac27eab9bc7d86469cc67"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-653-2005-sapl-656.md",
+      "sha256": "d810da9b5396ba2547dbee391ff853fc3dbd202cb41d9795f93a962155b3e4d9",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "eb3a5434c118ed82b1020ac8973b5d84115d2fde227c00f8617b395ffd7f9921"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-652-2005-sapl-655.md",
+      "sha256": "eca7ede49a1afc6b30fca44ecc67b938f4f43e10e3222fddf257072c3c2fb22c",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "07456026c20a933401a3a9474b0d90fd8f475faaf5f42c88bdd0dfebcf105124"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2022/leis-complementares-895-2022-sapl-17476.md",
+      "sha256": "7c40ecf2ccf5ddf21ec9f95195fc90e31d7cb7207d7adbe566a5f0e2b6a504cf",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "e47bf2242a02e9a8c8cb51f2f7f83814bf3c5ca39307c9ea2286d41b139adfdc"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-647-2005-sapl-650.md",
+      "sha256": "c91c3589190fb28487196e07324fced1da90e475388bca541ca9d033867eab84",
+      "aprovado": true,
+      "dispositivos_ativos": 29,
+      "historicos": 0,
+      "sha256_fonte": "5add2fe53a60534f7655227bd3321cb9e1466ef97c5b80a5219fcd25ed9eade4"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-645-2005-sapl-646.md",
+      "sha256": "3e850db81ce1471002fe597bded892dabe33fb076592b8137f8dad0e62418d59",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "40dade8e085e99a0b10984555d62584762a5b70948b7cf04906d1e927d18ac35"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-644-2005-sapl-645.md",
+      "sha256": "ca4157c7f3bbcd535555d538d8967f08f814e8ff2d73f8fcb7be58d8bbc88fa4",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "d8e7adb2a1200dbaeb463a0fafafd65c8bb99f12d362dae37dc6079438cd21cb"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.008-2022-sapl-17449.md",
+      "sha256": "275938c9e81e554b606ccb1c184d4472fe131ba62e2a5ab3724f347b8c5342e3",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "1050e3a7c739a23b898489657f837f4bad4660816852ad3a2f27b0dad20edc00"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.006-2022-sapl-17447.md",
+      "sha256": "b6cd4d3a72fbbed4dbd55287893d9ea18e7d1186efdfd7131fa227a60953a1aa",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "6bde7282da6ad8c43078d862f2251494e6dc9ddb7def799781ff9c3f30ab0542"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-636-2005-sapl-637.md",
+      "sha256": "b5be9e91e37518df1f7d5461bd8d2b435bdfbca3995cef7b80f8e803a65af045",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "c1532bcee5013ba16537c8795bb5179df46c2ba2fecf92c50c106ab0d3116564"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2922-2022-sapl-17393.md",
+      "sha256": "2eca14bbc8ce1a4d40f93f782b268f38b3f7f44253cd865e6fb83b4359c181f1",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "637c1c0e1ae67a2448819d3bc958b4c41078b6e676b5ff35eb6a1ef759a826e3"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-635-2005-sapl-636.md",
+      "sha256": "7dd47d9a5853d0b61f58801eaec5103b4ba97c659292612cc40228087589d776",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "c89bac050165a5a154aa3d367bbd211c83d84d4b2bde18ed3f02eb7535a96ac8"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2921-2022-sapl-17381.md",
+      "sha256": "88568cad92e3cad7c77bc4147c5f1e01f0cf097c1414289dc7cbf900e877699c",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "50e6c861f436b37c69187c3f74dd69b140e6d28d6ad7f2caf9b98c14cb69b889"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-633-2005-sapl-634.md",
+      "sha256": "dcaed56e6f4975c2316897040c6818a2af837c41573a46259bd341c272cfc251",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "07bf5d86ec7bc26399d1c67dd43e8f25564cf738449fe0383307045f18049b8d"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-632-2005-sapl-633.md",
+      "sha256": "a113c62ee889818721330da19edac648180f9ff3b4b20d876358ceac833264e8",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "a6d5033981620a8c8a43e0b2fec7cdb97f0c0cfa41681556224562dffca45c72"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-631-2005-sapl-632.md",
+      "sha256": "ceea273bf782b450b05002fe6f3cb558d4d3449ac45afb7d88190db21eff0639",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "2791b61dd0e355cd2f56627a5199e37d6fa15b1d42f028f3473954de5674315e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-630-2005-sapl-631.md",
+      "sha256": "5aa5df3446d63ae3d98350ad7f9a01a6c1a3634b57ca848ab994863d18706f44",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "5bf0d8b25ff01c58cdeeb72f9ec5e5d12b00a9d03f7a51a181945a49c7641574"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-17.997-2022-sapl-17374.md",
+      "sha256": "ecbdfd27d3983859707fc3630f6ba3569a657cdd6afc4bfde7b5442f97b0dbab",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "308b441bc065c059830e5183987028eed116368415623c7ef91e2a0e8c100909"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-626-2005-sapl-627.md",
+      "sha256": "649d873e270bf994f01698d9f0efa742a474e1c154a13f0adc60de02d7cb2966",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "12ab38d087392496262322c8ae164e447669cc2257ba6c56635e8e330523e28f"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-625-2005-sapl-626.md",
+      "sha256": "3dc674428c6cd4dc6fc8e47680f15970a1a71e23a5af90c7ff10a33dea4b3aec",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "2378a92850b04ad6a86dbaad7447e64839e9788ad2aafb860a86cac1cba81172"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-624-2005-sapl-625.md",
+      "sha256": "c065033c1200a2e47354b8156c85acff04f46e9ad702b4f5d208a8328e5daa30",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "f75002c283815985f7310e48c69b69634f6c05ae509fd3af26dcf35e38ad960d"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-623-2005-sapl-624.md",
+      "sha256": "e7a39b84dbb3b9b2f380d3e08f234ee0823fb7497c837e831ac0d4a3d12ff75b",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "94d6039367db2279a498975b7dfa8e1dcb9179d74e8cd917512af63a4d9ba6dd"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-622-2005-sapl-623.md",
+      "sha256": "cd3a85e146cba1479c9ee7b4b317146a97bef6bb7c3380feedc5530c009fe0e9",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "e7e0fa2495231edcd4e1585c3721c3686c1abcd69b493fbacfc39133a413a560"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-621-2005-sapl-622.md",
+      "sha256": "ab5f7a839aa5a03c471a59c3e2bd48ff55eda7f9428f2fe9e5a908a8e4b0875b",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "b50ab49a2800a0205777556140599ebeaa6ffadb94a8340a66487d8bada176c9"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-17.990-2022-sapl-17287.md",
+      "sha256": "ca6513ff8cc639ac20de09dd52ca6cb9b70642c86cab521cf4659ec5c49f0b21",
+      "aprovado": true,
+      "dispositivos_ativos": 270,
+      "historicos": 0,
+      "sha256_fonte": "88cd4de41c071fc81139a2787b52d9db49b218bae56a4e2dc17d07cd0f5e2f13"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-620-2005-sapl-621.md",
+      "sha256": "60e29dba8f9fabe11ccd4997897940d2caf09a1342980acccfbe91d6b2398166",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "b0c8a78c3a4449fbe4ffb5840974bc153290fd5302737b8177c8a51a3cc1cd0b"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-619-2005-sapl-620.md",
+      "sha256": "bfd9d1a5b66c03c731444cedae03051b7deddde622bbb8b9fc0855a40bfa5acc",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "e60fef075981c0908817fdb9425ce10fa9435dfc034a6a1946d23f84fb6f5d69"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-618-2005-sapl-619.md",
+      "sha256": "7ecaa6c500ced4eed3be9118802a8099e87a5d0a9faf8831f825691d825e4389",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "27e6c9b2fcf8250420fcc78743e35508f8f35228b81fc459f74564c073b2bfa6"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-17.987-2022-sapl-17211.md",
+      "sha256": "afd3cd883f78972ee78a861933edc2c099d1a2427124db4410ecbdeb9cc966b4",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "b602352de602814e06567e94400df92722c5b929424d545031b274714032bb9c"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-617-2005-sapl-618.md",
+      "sha256": "25f6827022da912e71a83c52a34ac224b41b1f435fd23fab6e048e0678bfdf51",
+      "aprovado": true,
+      "dispositivos_ativos": 63,
+      "historicos": 0,
+      "sha256_fonte": "b276362221bb6396e589b461ceab3065f75b6b2afe1607f05933395676b8f564"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-17.986-2022-sapl-17207.md",
+      "sha256": "3b7ba2553bdde67a4cbd64f5ebf4989cf5c884c8419609fa4bebb74bf26f9227",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "d4c4a8f74348cc8385e920e8047afd83b67640dd77cce2c489b16cb4cab24e65"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-614-2005-sapl-615.md",
+      "sha256": "73929310dc4f6d573df051a9af4f8ca645de17c4c7c2ef4e885d4b593bb2e41d",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "ee90241add4e03ef945f29a2fd4b6032d37ed5a89471127240152d4849130449"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-17.983-2022-sapl-17203.md",
+      "sha256": "03642b314b9e100f1318bb31cfd31c96585818852470305a430d21c92b496279",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "a52b0aa4d597f820fb16439aeacbeb89f0167ff341f6965709ae1db781c0f7cd"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2005/leis-ordinarias-613-2005-sapl-614.md",
+      "sha256": "1d914d8389afab87eb067fb8fb8ee41402b732d170c8907fe14fedf8ff82eaf0",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "17d9bb5b44eb4beb61be38d3a396c4906bb2437d0c2bc7654410b31ed3567a18"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2920-2022-sapl-17346.md",
+      "sha256": "91a2dd2703b0debbb99da47867eca107363a6da9c3757ff555833ed34441fdb7",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "b5b12e0b7230754e7f18aa170d56842a366d9f3e100d69d27c9e82ac48fdf057"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-611-2004-sapl-612.md",
+      "sha256": "2cf495ee3f017c65b8d630f22d798e6abc0b2f23900301d74ba98988f0312a48",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "790a71c9e898807771a5886f5d39b634fe916cf3b698b79ffaedd68515d995b9"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-610-2004-sapl-611.md",
+      "sha256": "153ed1e9de284507a5fb9bfb521275e3fb321d56c483cd1f94951b6953184a4a",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "ef8697a43dc525d32add5245f386a4fe5c0b2594687dbcb1ec702f6f37199cf8"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-609-2004-sapl-610.md",
+      "sha256": "245a5f322a517caa9a22139e20f4306ca95e1780914ab9eb1172709e2d2527e3",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "7ca552bae33d1956983e247e9ebe38398fe9d49b0db6e7814a263f2de172aecd"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-608-2004-sapl-609.md",
+      "sha256": "ed0afd6f6d88a5b929cbbba713e0dfbffaae4f3c3e9b00ead2cdac0f6e10539e",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "70ec59ee4874cd8f31f3d8630ef33b74f22065ad282044ef38955a683966569e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-607-2004-sapl-608.md",
+      "sha256": "ba702d4b0cedb6d7e3c44476b4ad225013ba5917ecb8bba8324412f84d83ccc3",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "36a016585e1f8584d8fdd487a1531ff91afb09f5eed0e1b77722d0fd15b3155e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-606-2004-sapl-607.md",
+      "sha256": "410ef6b08ac3408864f0e2cb736286377fc339ea6e0105a695b8f2c2fe9d22e6",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "e2906d708c8c82c99b8e820efc5854079b537f29c1d9d2e1068ec761959c3a51"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-605-2004-sapl-606.md",
+      "sha256": "e8a0b3980ad5414f08bcc8ead6720000d1431b298d359c1ff82da7cf1e04f29c",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "dfa0fa9efd6b2eda79538023e72f5df282ed92535ad01fc4ca13e3139626f2c5"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-17.975-2022-sapl-17084.md",
+      "sha256": "91daf681fa2e826652291caa4cc6517a9f7cc1812fe38dcb1bc9aa2da189c2f5",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "b6875560881ac83e96d314e4e28215782e24d4e17aff875299d47b6c8d921d49"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-17.974-2022-sapl-17079.md",
+      "sha256": "b80a234ac8415079fccdb307f607e16629edbdce350e737cc52401f781ff051c",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "308579a824a6be6be63962ca19f9faf3943d4f8765a43882790f94e19d9acb8d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-17.973-2022-sapl-17078.md",
+      "sha256": "dfe3be4de6f859d068000032564225e5f7a252bb722889b8584c867494628e49",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "aed5d438773f17b429033721cab6573aaded26137d0b09bb71bfa4a1a478ba7a"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-603-2004-sapl-603.md",
+      "sha256": "06f420ed12589f69d7790b8715fb2fd342874d32c83e041e5781b0f64d001713",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "33b6a008a0caf699eeca40e6292ee2efb5c70ea701c4a0e9ee19b3f365cb6e47"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-17.971-2022-sapl-17069.md",
+      "sha256": "1b5b1d17be4a338bd24c08bc9c12aed6adc599828d0619f38ddfb6398eac7c9d",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "fc8085d4cb140333881d232613cb1c9db0855e5bae02f85dbb6577247624e83f"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-602-2004-sapl-602.md",
+      "sha256": "439942390cbc6374ecb59b723ce1577825b4cf9a40d226eb96ee10cc6fcb7830",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "c0e95afe8cf2bef4c050bf10b2183a8d9bda679fd25df3459e7a5afec473ec3c"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-601-2004-sapl-601.md",
+      "sha256": "6f6044f71f88ba1fc10ac30fb21c1af39df300bdeae7a4b0d4346f1b72090298",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "6ef14069e22fe6894207ad2ced0bf07f3b5637c6095259843c5e143c23c4b9f9"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-600-2004-sapl-600.md",
+      "sha256": "27284f11411f0b4331a1addbd47c393a934c9e560b84f0132fab11afab197f8a",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "3b368d9812f695f1583fe57ba60e13cbe8301fad30127229260e90020d4e1fae"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-598-2004-sapl-598.md",
+      "sha256": "4a3fcfb4902ff95649cd1b4836de51cd8ba3095888a2e3ae79565c3a170cc61f",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "312c52f323d9530642baf92676235eef8de015ad1e5150f63b193ed1631572b6"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-17.964-2022-sapl-16838.md",
+      "sha256": "99ba4f1f6c7fad63a9e315c530d451d31f87f334ea50b218fea4fd33eeec54a9",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "90c717639e958727e4550cfbac9d6ad66b8cf2c232169a09153f2eeb56b4009a"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-597-2004-sapl-597.md",
+      "sha256": "f4fd885d6bb5166765bd813263ca44e3869a589834a9cd2341b7e342934452a3",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "caf21b054c4129e14ac6120f9bfe561b8fce4bd1e620986131646e012f227461"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-17.962-2022-sapl-16837.md",
+      "sha256": "a57b7d641967832a6796774d23b60226ba2e0936c4621bf9bf2b33ad83791de7",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "04a0883a06508830107bdc947ed296a8d06fa4363a73eb1a2547b97c6c2e937a"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-594-2004-sapl-594.md",
+      "sha256": "2bed053da2c56fb165fd6ccfacc2d8a970b288e1a17de57a4e5649cb71bc36e5",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "6764aa98c76fe38219ed96e6efa2b082078fe549beacb1e1a4d3a777e2e6d01e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-593-2004-sapl-592.md",
+      "sha256": "5cb56e5d01bcbecd8a275a0b12864eae2a266a8b93a4653b4fcf1a9dd4bbff37",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "3ecb1795eacac058e04f40a328083deef33ddb349a995ac7debb5171f029fe65"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-595-2004-sapl-595.md",
+      "sha256": "e3b6a43c9241f4d1b00fae102a704459fbe44b69ae2d14bbdbb18c3c3b38b521",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "673da742f1d604045ea568be782e6deb46543aa14717e292fae42d7ea476848b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-17.956-2022-sapl-16604.md",
+      "sha256": "998157998551f48514727a04c36ddad9ac74bfdf9da35059dfb0756512d081b4",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "9ab949cc5597ecfd705aed21c1d87be8fa7646fe121999bbfb6da9d1964a34e7"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-591-2004-sapl-590.md",
+      "sha256": "67129b101cfa1ee8998b4053ccaf56dd0a91617d7ba633dd7294f35d61800770",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "036f64c8deaded6dbab0a9fc1028a714ff7ac6f4659f8ff5f1292485cafb8d85"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-590-2004-sapl-589.md",
+      "sha256": "4febecb2d3d72c3cf16cd102aa7076e6dc52431c03cb2e2fb48265242796e628",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "50ba77db580427796bd9efd907c061df748e5d3adf9148e6557eb8d8423274eb"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-589-2004-sapl-588.md",
+      "sha256": "bef81d286bcf59a9be723aef92399733e7233762716e2478d15f8080061eb882",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "aed1e4a17883ddc9754950cf46198829ef3e98e624c4f14ff64bd609affab97a"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-588-2004-sapl-587.md",
+      "sha256": "a63043006433bec747edfc822e98f7aa7902f460f5e27adbed704e74577a9b0e",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "e14214846d42efc85382ab9b60aef3daac5d1e6a5eef9befdb844459a1fd9141"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-587-2004-sapl-586.md",
+      "sha256": "04c47440fd8745e44e77ae00ae5d7666704502e93e190f65533e0d441223d354",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "ec6c3d160ab4ce25d68fcf0fe1ed0a2eca6d020a16a019db5d82bbb540d89ae4"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-17.954-2022-sapl-16602.md",
+      "sha256": "3ea8e0e7d4ef7d979d1973639f67d2b7f9897da338383453b9bfb2515fdbbada",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "c050e401f7d556a806da3ccaae724533411b02c09d49a8bd0594985a67252bcd"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-585-2004-sapl-584.md",
+      "sha256": "aa7b376fb649fb4064a8e60ca9e5e83c8820ab236b1cb4ac892a0cbd981faa4b",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "5dce3a88d472199f2e6ac0375d0d86ee44c7c615856846f91b1d3787bcf86720"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-17.951-2022-sapl-16599.md",
+      "sha256": "dfe4d533e9601d56a84e224712648ab00aabca215e8bb48cc4cdaa913ab44250",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "d08a512e8eb80e6975477db23598dcab9e3875f8b97448fe936519f17bd74e93"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-584-2004-sapl-583.md",
+      "sha256": "d2e94d60dbc7873542619ec3d37061017e6a3b7947e8c56d3365c2d4f27087aa",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "061bada38a13604c67fe4f40b402493f09bd98c93e5722e49c5ab23da0353ae0"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-582-2004-sapl-582.md",
+      "sha256": "09c6c1d472a2da936c5097680e97dbfe6b2e8115754b78a81aa5ebe9f42d165b",
+      "aprovado": true,
+      "dispositivos_ativos": 36,
+      "historicos": 0,
+      "sha256_fonte": "ab32c3997a4f20c566d7c199602b1e9cbaf5e1939fea8ec4225b34611730cd7a"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-580-2004-sapl-580.md",
+      "sha256": "6baea4dbcfea8977a0b0a5ca500cf458d1c5ffb6c79b1ff1afb5be7528ff3d20",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "5ee54678118305b98ddb43e2cc68a927d511009fc03ecb9004ecfc3858d4002b"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-579-2004-sapl-579.md",
+      "sha256": "0a859fece1b710680513f37e397c0c651fd98cb5fbf0ad7047b112fb71eac6e7",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "9c6a2fcf02a443e452c68f9118b65b2860ad43050eaf064abef5f92a7c10a390"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-578-2004-sapl-578.md",
+      "sha256": "760237df20e5f9ed8fb161b67077e2afe14b1036b092281671bd4026fc63e6de",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "a87bd44a3d8498d8ab7a9c6ad17c40076fdf48be1987bb7c0049f02195f87790"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-577-2004-sapl-577.md",
+      "sha256": "5846f8d8c4a534c2256ca9bb264095c97554076b41423b19b8735c8131a7e1f1",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "5f82184b7aa789fb3f39a3d9eca70b6f0776cfab6180c05f1ce24bf58d810176"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-575-2004-sapl-575.md",
+      "sha256": "c0b6d5396d66a6b531565bf41e3ba81372f6cde1d6a320905d3076175bb97d89",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "40d27a2d74e70d5950f44549fa0c279db7f0e29d702adc89931be86b759f17b5"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-574-2004-sapl-574.md",
+      "sha256": "8ae8ccb04ce4dbd79972a41f2255c29b30f275930968e001d145e8c83f7c8c6f",
+      "aprovado": true,
+      "dispositivos_ativos": 26,
+      "historicos": 0,
+      "sha256_fonte": "994076154223493f586b52cff882214c5ef11005e5089043169738b852fc232f"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-573-2004-sapl-573.md",
+      "sha256": "1fdb5960269d456a2043b5d3622c11bc06130149d9de005fc23b6a97e190edb4",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "376dced65af2b02faaeb19485a83a75da3b00e41b599f022853edc22c6b2803d"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-572-2004-sapl-572.md",
+      "sha256": "2926b95e3f55008652cea86bd0f32073048deb988e2d88bba1ea0019241c3d52",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "90c5b09578218c30d7e11c28416fc42cf3884491f340f667aea17cfdf1c55afa"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-569-2004-sapl-569.md",
+      "sha256": "45f020414e183f5b814b81cc7f1ead4af4e264817d298fcbd67989c3dd14cecb",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "2c2aade0b57d4a45909bc79b9800715fe4a72de5b3c6b5e48bb22f2c33603ff1"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-568-2004-sapl-568.md",
+      "sha256": "cee1ddc8b2fea66e2ebc2f251a4900a996bb94cb90bd9426cb61204352ed278e",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "4f36a7cdee8139c935fe03f226d54fa17575a4e88567581c77fa3f5bb9a39a29"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-567-2004-sapl-567.md",
+      "sha256": "5fe2ae94b031a7de98c74a7c05bf47e6c1e528f144f18ecd13d9d4b798ae945f",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "9ff9839af8301f2fe6b2e8fe26905dbcd81c216ee23e0f0f0211e1fa7018253d"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-566-2004-sapl-566.md",
+      "sha256": "c9875b80744e2710380c5078ac5e741be3cfd74a09e0933fbc8207377a109857",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "25f760c3d8bcaea0ff406e0ade7116177a0341e275a0608c63b0107bf8671de3"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-565-2004-sapl-565.md",
+      "sha256": "695b14978d2fed8aec01468bf53a13c452091a5308bb1563ea329201ddbf3c4a",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "c75cea81c45ae0db8fe61413a3473718a76966c7e7fa363963e332c64007dc5a"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-564-2004-sapl-564.md",
+      "sha256": "c9837107eaf860acd4083ce272e5423e96eadaa5104edeadf3ff9f227fc720fe",
+      "aprovado": true,
+      "dispositivos_ativos": 51,
+      "historicos": 0,
+      "sha256_fonte": "fd470d8d0142a82983a3babe2fb3af04844d1ce27145d782643a36ce0fae0e32"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-562-2004-sapl-562.md",
+      "sha256": "e353939714229c015ca695ff95d2f229de55291db0136305d4189b3e51c2a590",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "05f39ca899a510f876efa58be40a969ec53b1cfd9b701b5828b565ea7d75a583"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-561-2004-sapl-561.md",
+      "sha256": "b24fd881e368741222c40bc8176194fd98b34411cb4d711048639e4ff91679d8",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "a99e69cffc0cca5bd23546a7b2716e01fe997c4fd8328786061c097c0611b5ca"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-560-2004-sapl-560.md",
+      "sha256": "b304d5dffddef02bad3c9ba65806de2337239df4a9d46e08a8ad5c8f8c069c33",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "38a5e4d3b6e478392be1b86a45824e3ac61c52b72de76268b0bcf7b5239f7c66"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-559-2004-sapl-559.md",
+      "sha256": "3859f870bff1fcbc4d4fbd81f3ee9831734318c03df17358530e80b7daa727dc",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "1d50793b6c497194445b461bf222439c5cf1f034095ab602ef781b65104e69b9"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2004/leis-ordinarias-558-2004-sapl-558.md",
+      "sha256": "019c06b577db80459cb24ccc6bd4ee5b8389e5d5dcd23e454a1854b5cc58eea6",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "c5fa736189f11a9c257b45035ae573b32ce673ca9a836dfea06672049f7bd64e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2003/leis-ordinarias-557-2003-sapl-557.md",
+      "sha256": "4f193de08b8a02cbdcef7a6affc05390c648bc62bef2a82b814d035f4a298d28",
+      "aprovado": true,
+      "dispositivos_ativos": 34,
+      "historicos": 0,
+      "sha256_fonte": "407a685f3d96a366da170069ae955d8b83e56dba5fd46cc621f2884353cd5d49"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2003/leis-ordinarias-556-2003-sapl-556.md",
+      "sha256": "5e63caebde71e69953bfcc64f3e5b72165411ff9b5637d37aefadb222736c263",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "4bfe49f6c933531bc6d3b764c7a1f15cd0e2af20111153fe6362e4c2220b61e7"
+    }
+  ]
+}

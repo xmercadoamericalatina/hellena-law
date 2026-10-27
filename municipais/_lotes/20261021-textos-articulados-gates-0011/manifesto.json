@@ -1,0 +1,149 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 513,
+  "aprovados_nestes_gates": 214,
+  "fontes": [
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.acari.rn.leg.br.prefixo.jsonl",
+      "sha256": "2e2773b0781f2f6c59170087b4ae0c162cfb58adef607257d87a4ed5933ff035",
+      "bytes": 335030
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.acari.rn.leg.br.tipos.json",
+      "url": "https://sapl.acari.rn.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "4f88396d20e68fb7c5044a1f5d63c0caa43fc6bf2314f48672db2fd3924c5bb2"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.acari.rn.leg.br.anexos.json",
+      "sha256": "4662f5e4915f65729807fce4dd9b97ab0ed3d1be5a4b61d65d5470e0f38c1f47"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.acegua.rs.leg.br.prefixo.jsonl",
+      "sha256": "81d30234930091440bc1f2368ce8f484c57ce88661c03d5c37433e27cb5b05a2",
+      "bytes": 6081
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.acegua.rs.leg.br.tipos.json",
+      "url": "https://sapl.acegua.rs.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "ee5c1082c326533e3ed90eb253ee9e231a412a2aaaf0b810006f5889a5ec4c36"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.acegua.rs.leg.br.anexos.json",
+      "sha256": "ebe507b56ae34eca278f23e606417985b4844c441806127214aee712a03f55d2"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.adamantina.sp.leg.br.prefixo.jsonl",
+      "sha256": "2843c5b66e539e20c440648f5ea7fb70491a89f9ba76d611b27847293f0b35c3",
+      "bytes": 6584
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.adamantina.sp.leg.br.tipos.json",
+      "url": "https://sapl.adamantina.sp.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "7b5c752aff93cb0e5ddffecdc91bde23aaa62d3725e5145bc54fbffabd00c84b"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.adamantina.sp.leg.br.anexos.json",
+      "sha256": "538233137a2777d5e12b4c26def4ed0b3bf8bc92616001083f5fa2fee7058ab6"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.aguaboa.mt.leg.br.prefixo.jsonl",
+      "sha256": "c874c31070f99c54a769aefbac2630f93bed9e853331eb4ec9a71aacbe3b5cb6",
+      "bytes": 6468
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.aguaboa.mt.leg.br.tipos.json",
+      "url": "https://sapl.aguaboa.mt.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "8af6f54c45ec21e47c835f9b66bbb9b64f3c7c0004319621e1dce1b47ec6fe9b"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.aguaboa.mt.leg.br.anexos.json",
+      "sha256": "4b2f99db0d98ac70206d636e5c5184e58485793e84fb08858f9f74946f05901c"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.aguasformosas.mg.leg.br.prefixo.jsonl",
+      "sha256": "70f21b76abf16c6b5f0f5f0eb383d95a74cd7f057f05fe749a91338dc87e8987",
+      "bytes": 5858
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.aguasformosas.mg.leg.br.tipos.json",
+      "url": "https://sapl.aguasformosas.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "e18b522f08f860f8e5ae67bab7543fec5e32a931f8bbcec4783c3875e249d63f"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.aguasformosas.mg.leg.br.anexos.json",
+      "sha256": "5be70d7052bca4475657560f763ec93f7ad0163777294277040cdfe371aac35f"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.agudo.rs.leg.br.prefixo.jsonl",
+      "sha256": "39071e8236973c534936352fa3c4b5c09573006a36e8fd542ab20aa96247c5c7",
+      "bytes": 206760
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.agudo.rs.leg.br.tipos.json",
+      "url": "https://sapl.agudo.rs.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "b057e0780b8e70fb396b5b733022f17c7a2a434f848534ea30a256ec8653882d"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.agudo.rs.leg.br.anexos.json",
+      "sha256": "0bb5a98fd2ba2cec0c0675f55f0d9bc26f1fd2b89e7dc9bb616f83cb6004aa7d"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.campomourao.pr.leg.br.prefixo.jsonl",
+      "sha256": "ece6b8f273313e494a93486e502ffb9bd6890e886f13aa8c1131dc168ecd948a",
+      "bytes": 6744
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.campomourao.pr.leg.br.tipos.json",
+      "url": "https://sapl.campomourao.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "adf7d386da220fed9f423671f8dcd336a40986ee1755138f0dc087720d14b9dd"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.campomourao.pr.leg.br.anexos.json",
+      "sha256": "efee04d398f757b8a7892ec1121859f10c0eadec55d87230991d3b1253104831"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.fortaleza.ce.leg.br.prefixo.jsonl",
+      "sha256": "c749a5e1d0180d4148d865c330e9902fe35620e9c7735cac3024ecc95591f557",
+      "bytes": 441804
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.fortaleza.ce.leg.br.tipos.json",
+      "url": "https://sapl.fortaleza.ce.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "cc738081c5fd74d82ed6686ffa44e0e160436b11c6323dbcd36a28572346971b"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.fortaleza.ce.leg.br.anexos.json",
+      "sha256": "a404a71cb9e4081b89f11098f51838393d94c7f4d858994fd33a58b33d60ef7f"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.patobranco.pr.leg.br.prefixo.jsonl",
+      "sha256": "afa015a851bdb15125a61aeb4cd803af37e5960df41cf3ff52402c825136880c",
+      "bytes": 126256
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.patobranco.pr.leg.br.tipos.json",
+      "url": "https://sapl.patobranco.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "263c55707e1c6b4b5b95a8aab7ed0db470049f0a85a3c1f93a0af418eed8ea27"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.patobranco.pr.leg.br.anexos.json",
+      "sha256": "93598bdf6f87126490291543d683f2118689c272750bfe0e7c72747a09ca74b4"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.portovelho.ro.leg.br.prefixo.jsonl",
+      "sha256": "140576e1b38a70098ee4e77af59dc2ded0029b0df9317b288632102b46fca471",
+      "bytes": 553762
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.portovelho.ro.leg.br.tipos.json",
+      "url": "https://sapl.portovelho.ro.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "d805dad9f0a5409f538b93c34b0e6ac8cef59bbbfcf7f2584f6ff348d7119eda"
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-gates-0011/sapl.portovelho.ro.leg.br.anexos.json",
+      "sha256": "b5c1a05dee20c699cc22665af9744c1d4a3cc61dcaa439c2d6310054218149a6"
+    }
+  ],
+  "script_sha256": "f252f6495f44b5abe768f169f079c44241ff9dd7919d7ff02640f1ec75945602",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

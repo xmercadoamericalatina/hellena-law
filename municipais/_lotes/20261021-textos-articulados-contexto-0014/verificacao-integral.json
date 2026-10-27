@@ -1,0 +1,2864 @@
+{
+  "arquivos": 357,
+  "aprovados": 357,
+  "problemas": 0,
+  "script_sha256": "41563c6048c4eb3baae9a3470a5f238c15b6292bdaff5dd3020f34eeed4b15b1",
+  "resultados": [
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.963-2023-sapl-25197.md",
+      "sha256": "3defee68e9d0e8691ab7edbd2f0235731982b84ebaf34d72030b8424455a5653",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "b10e8d5b357632840308f9ef1809adbba94d26065552ec3e86ffdf53a5d6d3b6"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1636-2025-sapl-3052.md",
+      "sha256": "d6f71e5e38fdf109b6bfd56f0d81a2e6dfe0b511d57076125974b9a4ca09a12e",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "3c4cda120df13eb91b0d48572c03560352b53755f6d95b0952639a085a34163f"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2025/leis-ordinarias-1635-2025-sapl-3051.md",
+      "sha256": "d7abeb3e5a0b7775431742c110afa4f36fe5cbe8bd17a04b4502dc95b1778418",
+      "aprovado": true,
+      "dispositivos_ativos": 27,
+      "historicos": 0,
+      "sha256_fonte": "00b147e9457b0dc8a7a2794cbb5c5f03f5b568a1a3a24023e712463036ad5fe6"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.961-2023-sapl-25195.md",
+      "sha256": "e0c7ce5e45c4e29e15a916f64048936cfca790e266a5aecfa3c5d7a2e2d51ebd",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "01f9a36c20c01b94e7ff5575a8d55a6fc17af9cc4d57e02edf6300e8049a059a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.960-2023-sapl-25194.md",
+      "sha256": "3fc4bd7ee6eca34ece895cb019b2f618601b2c3cf5be67b1c6e5b2abdf737c84",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "792feaf307e2518b723aee0164c8ac1c60fcbbb789a61880fa5eee70f622c06b"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-complementares/2025/leis-complementares-11-2025-sapl-3050.md",
+      "sha256": "badfd085fd1b40b51bd14fcea8aff9f3ed3379b5e8da60b90e60e5c43e6b2932",
+      "aprovado": true,
+      "dispositivos_ativos": 81,
+      "historicos": 0,
+      "sha256_fonte": "b24489d68aa1af525ab41146c2383ff8d6ad4a4bd40c8264ad0f306e3feca7b4"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2404-2023-sapl-4700.md",
+      "sha256": "6a5fb89ddd1e68355243db5b4edf0a0b35266022890be9a35e8332805f351d31",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "1dec51944ba8a1d54de5cdc9bfa47a1b5c7bd8aeb03380d9ac6499eb7eda0e72"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1634-2024-sapl-3034.md",
+      "sha256": "a6968702f50bae3fb9adef892cbecf5012f8ed84abac9f57acc7a70f784df56c",
+      "aprovado": true,
+      "dispositivos_ativos": 26,
+      "historicos": 0,
+      "sha256_fonte": "6336b29a62721da97bc534c6de6bc017c0d6802b42cd21266cd25571b2292e35"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2403-2023-sapl-4699.md",
+      "sha256": "47819023afdf9b92da4026ad045ea3b87de52fc75707eb6eb79b24f0c65de5a9",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "bd903cc5222b28a5f9540f2b000396f2d579ba8dd261fc7fb82d31fa5bc39e19"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1633-2024-sapl-3033.md",
+      "sha256": "8be011355ab2dcc6ab9fca38bb018a112b0df1e92132a033125a6dda0d85cf6b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "2cde35993304b38fbcd59916609e0dd80ba1cf1414468406de52bf562fafc1d5"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1629-2024-sapl-3028.md",
+      "sha256": "7473872c94291653ccc835581c11c417922161363afd722b556ae8303acec0c3",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "7a052f8f77293b1b02e1c6cdb69c28afb6c7db3f461d838e4732b3bcd607d65f"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1628-2024-sapl-3027.md",
+      "sha256": "500de48a19061734a5bf5f54189b33e29a5a0bdeeebd9e7b8590c85c38429d9b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "7335d6bfb04259523f4c8f941357573c6de8566e37bd5b750af13771a9bb3dfb"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1627-2024-sapl-3026.md",
+      "sha256": "2cab43dc9a865da7050cb6258e0795aa24e2ccf3959c770fa46dff5ae3656cae",
+      "aprovado": true,
+      "dispositivos_ativos": 69,
+      "historicos": 0,
+      "sha256_fonte": "3ce93c8487fb47a2d54c5d227090213b1f106b198e05e91cdcf197a7ba42a2c4"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1626-2024-sapl-3025.md",
+      "sha256": "eefce9c9770b9726b65b3eedf83707d679b8b16b7308b4e4afad3dcfaafbf386",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "8d5ae8cd5a8541cfaa4e5b354f940e9de088cc42bb340200076b53e1c93f01d2"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1624-2024-sapl-3023.md",
+      "sha256": "fde00f8db44532a96aa3df602c5f92ada60a52e5b6ca2e3eb289226ac61501bf",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "0f061be390cde271562da60a7eb2288249487174b2b90cb6a1a415c3350c2cfa"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1623-2024-sapl-3022.md",
+      "sha256": "fc5222eee26840954e1f6302a3c699ea4ad3b2d31b0012d240521167df140f38",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "13be7996f0f937947f5eef83c5908c3cf3694c03bb0be4951f34e9de42a31028"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1622-2024-sapl-3021.md",
+      "sha256": "e3a95922e6a01eecefc648a42a20a665120889ba02a93fbd8824ac1820b541fd",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "11527b6c09eb3ffea5681880e6e04da96db73ab62338b86e5afa6053dc1807b3"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1621-2024-sapl-3020.md",
+      "sha256": "105fb00fd07edebc8a990d8749212eb3333665acab45ecd2453249de1b0023b2",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "d693bdd99ef0ab00187dfc4db0326e8dcb47028145d183387f2213b2e1f55eb5"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1620-2024-sapl-3019.md",
+      "sha256": "fb9f2fa0c44c87c05eab2067b05584bd72cfeb49beffd1d217ccdf15080f63a7",
+      "aprovado": true,
+      "dispositivos_ativos": 23,
+      "historicos": 0,
+      "sha256_fonte": "5b770c0f564690619b4556d6d1b48af067782f796e74696a135a6aa18d094cc8"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2024/resolucoes-8-2024-sapl-3000.md",
+      "sha256": "ad72f39db9cee84b9027de1e4d57439f8ba00226a8d47da2c6523d7f7c5baa48",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "812d3a3a1d3919ed716516855bc307a7c6ce220c6724c9a3f9bc17cb4612c460"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1617-2024-sapl-2969.md",
+      "sha256": "b6b8f37eb5ee6b4b6c7c7e8bbd0d3622e3d4e3da899b327c64253bde0562be4a",
+      "aprovado": true,
+      "dispositivos_ativos": 42,
+      "historicos": 0,
+      "sha256_fonte": "aeb042f9414c56756ad6897d827f6f3444f066d7fa1565cbf5d9587fb47f75ae"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1616-2024-sapl-2968.md",
+      "sha256": "6f08204114ec52b764867d50420848c8569fe257ce5d44ea38079f6fc381927b",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "dc760e70d677d7acc11c84ca529cca86be17e1ee42f6cc736d4a2bd7abe2cebe"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1615-2024-sapl-2967.md",
+      "sha256": "0fe17664090065a970a0239ef64ae4371c98ed92a8b5605b7edc483aca3c4f40",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "22c83faa9774f918358c0bf76c31cea84e55c6800ae9794d7a7c5b44276faa58"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1614-2024-sapl-2966.md",
+      "sha256": "7c8e18f8664b828cb7164175eca9e0dc7523e4000df3bcba9523e4b90c24b10f",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "98a7f5516e7de6d002c74cbc580ed5c185863f635107b191fe0e2c39097ab08c"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1613-2024-sapl-2965.md",
+      "sha256": "41e943d67fa1f9d42e6887683cdf5c052b79caaafe1ef402a6ef2f8f4e7a99a2",
+      "aprovado": true,
+      "dispositivos_ativos": 22,
+      "historicos": 0,
+      "sha256_fonte": "9bbfa4a9b7f10b09ae73aa1ba145b095c8a08707ec0a00e19a81516de0136044"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1612-2024-sapl-2964.md",
+      "sha256": "ea825c7f73782b7da46bd1ca309e99ddeae38c105a0e0a15535a2a39c13af956",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "71acb5e673c69e310e3e816b25831009571670d4ac94bb6cc191fdda1d7a4606"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1611-2024-sapl-2963.md",
+      "sha256": "cd54fa7a9869bc0c992a7d4628de07755fa301d8e39ff5037024f45e30c0dbe0",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "9ca8e11adba567b09cbf53d694abb0284674c331a406ba2c1f18dd8a05c200c4"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1610-2024-sapl-2962.md",
+      "sha256": "80d0f6f52fdb8c1b7165ba5163c4bd0ed89cf3b8c81d8789d10b7174776ffc04",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "4a68581eeb0fcaf072154972df17c2fad134cddc3feca18f5fbd5cfe497fc4a7"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1609-2024-sapl-2961.md",
+      "sha256": "bdee000760eeae78ddd8ff648a3851011d3278ba05a04a12872fd1a53b79edac",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "eb82a7cd7686468800b5e94fb49be1d87aba65956d8127b253c6c9608ab15be5"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2023/leis-ordinarias-2380-2023-sapl-4650.md",
+      "sha256": "7b68817220b0d2e29a01d79b2b47784586e9646e1e224affc3ed11492bc3e24a",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "56d98b0dc31d85aa747585af03c165c717aa0f9baf5ecb21807fcf10c39e6f84"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1608-2024-sapl-2928.md",
+      "sha256": "94edf0e13ba41e748ad33631f88859e079fce224013dfcb298db57a7434974e7",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "dd3ad6e7d572a8cee4052150f6b95045a80d0a02a47c16be2454293c1ca622a5"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1606-2024-sapl-2926.md",
+      "sha256": "13059c2775974cf4c2feae1f472d2c2bf26f83cdfb19a71942e6b6d4fbfd1c3b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "9959121512947d8ff161a113cba563c04ba801ac2484f65be3a472297281354d"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1605-2024-sapl-2925.md",
+      "sha256": "41f837cd054faab2fc12ccd659289d925f02a18ef39d4ddb9dd8cd741735a994",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "4ff48e9f0a13061741a6e6fa3356f08234c1325472578c8e8b17e4de3f997870"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.926-2023-sapl-25145.md",
+      "sha256": "b4b2bed68422477d76aa7c88ed24f43e54b4e43b7337aa7d8d85777741326160",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "70897eee7e6241d266ea022d2b1a09ebfd33b3338a9857fc526b4c8f3f77d095"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1604-2024-sapl-2924.md",
+      "sha256": "03d0f18cbf5181d8f2cb10fd96c49ebb16d98420ff49ced4022528c616e1b828",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "7889c661cbb50c70382aa5924cf19f92880496d7accccb83541656d16dead89c"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1603-2024-sapl-2923.md",
+      "sha256": "3e45463efa232ac1504cb4d4f762c76b3ac2f9ee2fc2c28a71773ed85c19da46",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "086796a854a7fb2871b5c0be0c92f62c8068f6cfdce7aa726634d06737e5e36a"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1602-2024-sapl-2922.md",
+      "sha256": "ad2df783d9537e3b2a07ff7f6001f5e9ad8045bd8a5f1c045c7e99e6d097f18e",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "97589d7a59beab9355928c1c17d4a74c47819efcadb2009232fcc5958c1173e0"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1601-2024-sapl-2921.md",
+      "sha256": "2d365485a078e08155d6d9c3c3946a37939944f4b286efd428bc5f02233cd2ad",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "fc8b8e1a9ec93936c4d0369077fbca88c3427c576d90cb6e28e3b83cb3ec8c06"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1600-2024-sapl-2920.md",
+      "sha256": "2b58957607691a6f617e27a4cb6727ee7c11153318570752e01e0db45a608ebd",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "14f1090e6ff2893a30c1855a7eba089d2ce446f2064326458d06df8fdf97302f"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2370-2022-sapl-4622.md",
+      "sha256": "67d80e672d0bd7e8d8bcbe4695a4dcf8209aae7ee2e2d0e7da2d5349c4be6fa1",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "36e4a9b02af8af17d5c4d3c2019099158a37a705e857f2d57c1f82087b673117"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1599-2024-sapl-2919.md",
+      "sha256": "5a1ad278293b19335a091921890005c30881c03dbca0e4b3f957848f508fc861",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "4c97c6bdb0d18130f874903365ee6dc590caa2f0a44a3aaac6d8d50f503abf56"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2369-2022-sapl-4620.md",
+      "sha256": "89a7f37dbac74ea0c3b53e2dd5b8c24d135631f67f6de9a4d94ca08e154a9e39",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "5121e741af16914572674e905c865ca84d3a948a83049f905ecf5359e7c3a699"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1598-2024-sapl-2918.md",
+      "sha256": "cf3d417541064811610fe2905d751794b2493c1e1a63733e1c6229d0ec332520",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "e34ecd9a39a606b5eee51f9d17404cfc507cf518647e95908c37de5d7d84d589"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2368-2022-sapl-4619.md",
+      "sha256": "468c098342b2c8d190a23f7abee5e404daef44dbfc5832d0375ce72dc4d0eb99",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "88fbad3f7fc5e8c8028a8fa41c5b82d5e951447d0f78c72248aeada3391deabb"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2024/resolucoes-7-2024-sapl-2905.md",
+      "sha256": "1d9405b077f313388ddeff98e438364600a260543d143f6aa069c4c18f5b710d",
+      "aprovado": true,
+      "dispositivos_ativos": 128,
+      "historicos": 0,
+      "sha256_fonte": "e6952a3714addaf55ee7d5c179b4cfea67e330a89ba62544b43354bbdd727c9b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.923-2023-sapl-25131.md",
+      "sha256": "46efdf92ea297a9714deded06effec69045c93655a545312a6a0f34e2760fd97",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "f0befad955b96ca289db828219fbbc1a6cdff7a8c4a246228dda1a3db2910e94"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.922-2023-sapl-25130.md",
+      "sha256": "8d845f5b237a6efd5e09b0af6e944b090432766105b366c6b2b6a1860def1d48",
+      "aprovado": true,
+      "dispositivos_ativos": 50,
+      "historicos": 0,
+      "sha256_fonte": "6d5f1d4ef39cc476a0d5f7c43164a6ccc9410bc11274f63a356792f4264a663e"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2366-2022-sapl-4615.md",
+      "sha256": "95a9c880c366f00781f41717b43bd583356404e617a0496365b746b4c4c0c9d5",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "7a17cfe1c3371b9158503feb05d2d6fbfb06713869ad0ff85213182943e4765d"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1595-2024-sapl-2851.md",
+      "sha256": "bfdf04c0d15d7dc4a67a9e302ffe10d5c2e6902947e23e7c353708f5206c8d66",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "22ac3556a083042441fb00457ed121d48c4107257e8a19f1322a5bfee4881dac"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2024/resolucoes-6-2024-sapl-3554.md",
+      "sha256": "1e2610da1bdd7e5013b1e19de6e59dcd1ae0b216e4335701298b1247302343ff",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "31859999deedfa9c826ccea6042e21cbaa5c6fb1b26bdd963419ecad763a0c5c"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1594-2024-sapl-2850.md",
+      "sha256": "e76eccd3b2ddc07ccc5c9db82a228ba486a238e2a6d346698347895982404c9b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "2b2b2c06588da6db7b760cf560d05b40c36b9baaad69c294f8f46aa95723ed1b"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1593-2024-sapl-2830.md",
+      "sha256": "42e3d0a4c7d838a7803c0216db46962912d9fa33323d103e0561815f231ff538",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "692a0572a1dc8289ae26defbc5761c20d1538cfce54c18439fa9fb0c94969847"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2361-2022-sapl-4606.md",
+      "sha256": "c7098cc8ad87333e3a7b7e619a5d61797fca09c8065218bdd12cd6cbe81d2d21",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "07ff690c47d48f6cd7ce0f28fe8d88fa85e96a6409e500e9de9c8156fc1a439f"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1592-2024-sapl-2829.md",
+      "sha256": "990809d8813698a799aa6d7a73398c1e2e9f43566335f741cfc7d1a103421c8c",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "0454fbc2c32072178a88ec77824bf16530ff87efa80f3b6a13a7ac601ec74161"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1590-2024-sapl-2827.md",
+      "sha256": "6bf2a31238ee9d8da176c7f3773cd873864dad5fa2725a3b683fea9dd893af33",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "769d2ce525f32319df1bfb391cc04d0fe92ed09f12fda03a8cf12d8ffb1117f1"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2358-2022-sapl-4599.md",
+      "sha256": "1a69b92c57a74cdf7d8888cbf352e32d3a37fb849ccbec63ea5c312716a5243d",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "5040c37fb1c8378331b633551591ae07c0f95cb11a49fc545b19315d2f6a66de"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1589-2024-sapl-2826.md",
+      "sha256": "8bf81b45387d58f8a5f7edcb8167fccb74fe5d6c2d7b358b024a98b39c5a2e02",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "88952684d800a60e49f6ad0437dfab5d430a983d01a623b360c7045d583bcb50"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2024/resolucoes-5-2024-sapl-2744.md",
+      "sha256": "27bc7e085eb75baeefb87aba989aa9d97646357bb7d76696580f0f6fdb6014d2",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a6f9bdace29ba7f383fd4a72fc1303037c3da02ecd888b5a74ab95e4b99afb8a"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2356-2022-sapl-4597.md",
+      "sha256": "f1ea41924c28dc095941e7fc47b4d82ee046897842e8b960aedcc95fc0c113eb",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "4ce9eb2ca7f117a8ebd5233b22ec02e3dc3de8904cceae473932bfdcfb792324"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.910-2023-sapl-25127.md",
+      "sha256": "8dd9a0d3921e00a6fa3f1b690e7c667b73598b45f1adf9fe017dca92f365d983",
+      "aprovado": true,
+      "dispositivos_ativos": 35,
+      "historicos": 0,
+      "sha256_fonte": "46faf907e926f9bb52d9616371b4668edc01b276a3f22821d65f3653c69a486d"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.908-2023-sapl-25125.md",
+      "sha256": "f17dc1997e28af76039ef64f1d6369e8579cdde9ec0eb9a3c2089d17b93b87e6",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "d985bb0568977a3c41ceb6a60d1a29bfeba2c24d005c83fcce25e9d2d0431edd"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1586-2024-sapl-2534.md",
+      "sha256": "17e09ff31da61921005ebc614b4831b8aacac37aca68762d62db9fd97b748dbc",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "8b0375fd8e0f0675cb3db15f40a94b99592224cf4191185c113008b1e4d52e4a"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2353-2022-sapl-4591.md",
+      "sha256": "cca2256ff93cfe3e6ed97b27e6dedc18f50252a734e49cd722918ba7fccd8d69",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "5dc62b24d532aaebd2508b4df97786320c63c49f9482dd949e875c1340d60697"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1585-2024-sapl-2533.md",
+      "sha256": "debada39b42299c6bc4b32bbf5306019535c70b7810196d3139fbd76041188f3",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "1862fe23956cd79d5c70f547a753a79d3c1dfbdd0c1cb53639c88484e61558a3"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1584-2024-sapl-2532.md",
+      "sha256": "fa7fde64a9de11a90ff5804ab09a4046f72c3a5fcb129fd21b5d2576537e2d85",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "005123c2fa8294d06addf5c6da0a5cd0aac535154311701ca073775d023252a1"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1582-2024-sapl-2530.md",
+      "sha256": "0971665961d48b7b9dc5a18bfc47383ea6f49c8251ad7235293537afc5e5d70b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "6fa6fc68b74e797a2552d76be1e3c157176d01d42b91a83056924dcb4fa7936e"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2024/resolucoes-4-2024-sapl-2743.md",
+      "sha256": "93d8e0b9a355309cf549f32f670f202554f13e918f5fb1841114d683682a4844",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "23d87de5bdddf568ae36f4b4ebeb7dec04c9c26a9e1230faa3bf9745301764c6"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2346-2022-sapl-4578.md",
+      "sha256": "ca49f62249ee31e5de52e4a7ead696c2c66de32f945d652fe5e255cb84840119",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "af93d5f3a8babd152fb5ffecc11bf57b0d942e12a408809c325a67df1297199c"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3021-2023-sapl-25141.md",
+      "sha256": "02012b014fdd94371200e0ad2c779a4519e7c4c0f3595993ef58c9a42c08099b",
+      "aprovado": true,
+      "dispositivos_ativos": 94,
+      "historicos": 0,
+      "sha256_fonte": "6db46c4ae2b0732104991b348c342dc6713ae616cdebd95e236addab08ddc369"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1579-2024-sapl-2526.md",
+      "sha256": "ae6f440f839a844a422a8518b088ecb7bc52d4ac0c5a528bec5e08ec4c1cb9ac",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "047ed3c4408102b8e59b698e6770cabb70209aac9dba775b44188c7544c6c14f"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1578-2024-sapl-2525.md",
+      "sha256": "fe69353274a106c8685c7e6254ad66c48e23fba88ab929d0c0adb0da988e31bd",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "d79a4c95dcaac99383a69711d7b2b12f7f72f7e5390fa05d27ad698ea0a820c5"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1575-2024-sapl-2522.md",
+      "sha256": "8d5cc845db5d528953aa90c7da49b0cee7ed539a677b2310cdf08ce3d0b26dc0",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "a41e912000418810fff1252bd6f96d96de7bb02390e8186146a9cbf2a696fa35"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1574-2024-sapl-2521.md",
+      "sha256": "38fc8b5fe15737b3b14b1ca78f089b7b71a88fcf51767b14679a0efdf0813fa7",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "377f5ce9461a79a3c2ab6b6d8be0fc3b09cac67ecb69782980c124da287e1738"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2341-2022-sapl-4568.md",
+      "sha256": "8340d64c804b5479fb86dc9aebbc93346638bb0a6f1427994b86767e32c512df",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "a223cb5991c7f353ce396457ecaf88b4d00aae3bc1cdca4d4f1424ccaca2429a"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1573-2024-sapl-2520.md",
+      "sha256": "86d1d16f84974f06d3a25d315327b62cf481288f0a7930cbaf766c88083d137f",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "96a475610a36543919ad7418777b2026e5f2d92444cad94e8ab53fc783c9646e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1572-2024-sapl-2519.md",
+      "sha256": "8f1b826d70c7bf1d737c003b1c3399675d00847770429566a6ff6f43c03be50e",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "eed27e72e22a7b1bfb5011416e6dec07a0e08211883eff0b5c5ab70f25c71858"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1571-2024-sapl-2518.md",
+      "sha256": "2513de92da7176caa69de8d36e6c0529cb4e7f0c05af5aa5f3ebdac924fce4cc",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "086513d46dcf85ad2e72e9c6249e7efd8c20fb9ec55373edf423e8edada8ab35"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.893-2023-sapl-25050.md",
+      "sha256": "330e73f695b9d8224737d5b8eea979cf51885183661640d3d7e6e5ff811ff8d1",
+      "aprovado": true,
+      "dispositivos_ativos": 27,
+      "historicos": 0,
+      "sha256_fonte": "10e093c8cf7be4accce0b0fd32a7bc0d5314bb7cf620c658f066a0360666407b"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1569-2024-sapl-2361.md",
+      "sha256": "9ba36050c4d445d4caefff864f5b09c33fbf2205374e399dd42b41fead36f3b9",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "1f846a64cc316d46d9f03961b333373ad4e24f72aff1400f2d207fd3f55a4c1a"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1567-2024-sapl-2359.md",
+      "sha256": "adecd9b3a8845c6846d58641c053a8bb7e88f5afb2dcf79a818bcd7b1135944d",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "389d4789dffe4a320556cca0badb175a37097ce2f22d053fb950b133b2d993c5"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1566-2024-sapl-2358.md",
+      "sha256": "84632f9ca59b2325e32dadbb12a7292926f0c0162c6a3e866957db2a14752129",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "cb2aad62f1dda8f42eb3f812f462d2f657b9e140ae8083ef436345de26d043d0"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.888-2023-sapl-25045.md",
+      "sha256": "7dbb8922670d73665768212dd31e9d389e51e3420b53e6888ed5050133dfdb6c",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "3291af3da26c75dece2dc7987657d7c25f4d39dff58fdb4a29c5517974d1869a"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2333-2022-sapl-4558.md",
+      "sha256": "3f01198907a0a05dc3a239b2775c44cdc9dfb39a4038feb89acbf6f70b068ee2",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "bd347a2617ba94aef03f0f8b07f7c34e0b99a66af2668f2cf4b53e76ba2d9ed8"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.887-2023-sapl-25040.md",
+      "sha256": "f167f761d1221ed10f036b15cb386844ac4daec2c7f12ed0f9501f7d9a23c7f1",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "8a37dc613cb41f6ca62ad969374d52c8da175a1d1d52509ee0ae170f36e7f389"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2332-2022-sapl-4557.md",
+      "sha256": "77d9d9f8b4aa0c6777a66694ed7eaa7d3e1065e206bd7b97cefe2b7b0b5d82ad",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "c24bb7da97e3a649458b429260053f59ed6bddbe19fafb18211804f50b53cb73"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1565-2024-sapl-2339.md",
+      "sha256": "a40e187487f0fe133b556af1d47a2abe56cd5fb82981d579865ad39e83709ec5",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "6136881d7630dff33a4c0e87836cc5af36af2a7e4c95aac63f23c5619fbfc2bb"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2331-2022-sapl-4555.md",
+      "sha256": "fa103c72e7590d6f4f05d75b18755401eb1a8b8957677f2d2a6688f3d10dc8c0",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "f7ed77954e0855d6ea682445a18567096062618512ffd0b2c1138587e436f244"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1564-2024-sapl-2338.md",
+      "sha256": "e03a5a5e8c418ece9c61956d0ee941fc2d5662aa95c7d8b7820aac7dfa26a88c",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "56808d05f859694d460300fce5f77290621e1ef097b8ab9cfd7514e68a5bc940"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2330-2022-sapl-4554.md",
+      "sha256": "75b96c53eec0c866ae832c0ed075412ba86b1933c3ec707fb6c5cf914b61cbf9",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "2cc521ec6d9163fc3ff60757221922408b2979509ce3c282355f115b49e993d5"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1563-2024-sapl-2337.md",
+      "sha256": "f5865434f420fd666be75fa5e2521369bd9c8cc690ba1be87da8eccd713d6a66",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "c1e1a791653eb14ed559d91412af3e6d4daa44e38ba5a1c44e9bcf2989b47c80"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.884-2023-sapl-25038.md",
+      "sha256": "631f0eb11ee362977d5fe7b5263f1096911c9087c77ddcb5bde950b38ff89e53",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "82148cff6cfe7495507ac5f7df84221a73491909f91ad93685140b836c503036"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2328-2022-sapl-4551.md",
+      "sha256": "09ad350ff9d879bce7dfb3a20b4c1084fc0ad135c9d6040ee23b20b8d04a5b88",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "a9e6504fe18a7929279c151182a2d9a69977d24f9a3048d6488446df40e72c4e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2024/leis-ordinarias-1561-2024-sapl-2335.md",
+      "sha256": "34320102ada7781f69536474d382006890e5ef66e16232e903539bca5f027ffa",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "850c76547c300e5894551ad73e4c912d8b4d26fded9f0d5bde254c5697381487"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2023/leis-complementares-936-2023-sapl-25024.md",
+      "sha256": "783953df167bc88c855c4fd7bee572398b2826c63cfb22cc52753644f6765a74",
+      "aprovado": true,
+      "dispositivos_ativos": 62,
+      "historicos": 0,
+      "sha256_fonte": "1933946d64c3b4450e9d4441900d8446679c172fbeb9ea046a0b30628f3d5ebc"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-complementares/2022/leis-complementares-35-2022-sapl-4546.md",
+      "sha256": "febb583b3474ea1432c5d8cc52903bd1533ac11e622d801911906cc5ed2ee594",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "f9390038a8def3a1babfe3d1fad6d26a7e07c5cc064416ac6fe1bed09b1750c6"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2327-2022-sapl-4550.md",
+      "sha256": "97e38251369755252fbf10cc42d8ffd4154cc180d6575a032965bcff35d114fb",
+      "aprovado": true,
+      "dispositivos_ativos": 56,
+      "historicos": 0,
+      "sha256_fonte": "11d1a0536dd4827ae9166e97a5e5ec10300e02d2c0f281d4608a791461618ae2"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1559-2023-sapl-2333.md",
+      "sha256": "4b5431d13f80b1d1efef45c876a2933297acac63b93a67d16025e37060146e7b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "c842c22741946bc3422b7106d0e954d8c20724d0197d0f23c00bec7da5d86a37"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.881-2023-sapl-25036.md",
+      "sha256": "d251dd66e59c2d708270b8e2b75388820100bf6c8c2e99d0329e34ae159bc9e8",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "95ae26a492a70f39b9bea7efa256b50abd4ed10203f6d2483651f04a8516b996"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2323-2022-sapl-4544.md",
+      "sha256": "59492e23824221aeb692ed1565a0d37f48f4accf5a1fe5bf6adbfcc8ec0c3ade",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "f8a3c29ee386a6c225a886478e8034f1d52f51da8bde6e2572020c1352771272"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1553-2023-sapl-2289.md",
+      "sha256": "6bbef022293cf4579de96e7a34e6338cbd734ffd9009e1646d72e3643f3c0828",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "03e56e9bd2320bde2905f153acb78f432181fd00fda65419c051f999b973988c"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.880-2023-sapl-25022.md",
+      "sha256": "25894ef14d2a92679b28dc9a242b22ad599155528317f86d49480f647990efa1",
+      "aprovado": true,
+      "dispositivos_ativos": 58,
+      "historicos": 0,
+      "sha256_fonte": "06087b16fedbf3a44aa8f151a690b9d1c30c6abe67e891e7b92d8ef84cf20438"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2322-2022-sapl-4543.md",
+      "sha256": "10963a0708f88ce5832d8e55a73c16f23d1cc43ba4620d40e166381bfac1cf7f",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "84315ad4c1fdf94830d833df7b0496c12a890b1a6ff9a202dfaa2e8900360aa0"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1552-2023-sapl-2288.md",
+      "sha256": "58a791c71006a9ce64986997a0a8e6b3aa08950d6fd2cb6a403f799dcee3e423",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "0fab361562f06cffe1aa52eb2e59534c8d1e4501dd5a47f40768f22891f56052"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2321-2022-sapl-4542.md",
+      "sha256": "8ec0f02c90f8c9c54f79b804b42ce83a6602d6462d88c9852fff90638de9f156",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "f66b833977604deb19037f66b5380194584186d06981fa06e48c00cfe3e3f416"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1551-2023-sapl-2287.md",
+      "sha256": "ea58b8d6596cd1779c6d173a7e113b93bbea9c42e0eccfd54eddfe41ec292a2c",
+      "aprovado": true,
+      "dispositivos_ativos": 27,
+      "historicos": 0,
+      "sha256_fonte": "12e099074a3a82a73bc02465d97318ec7112585a28e7af2095016ae70aacefda"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2320-2022-sapl-4541.md",
+      "sha256": "be2a6b0b3b3918a527bb92988a795fa5a5a1159a5ae98516a7abce3f04ce773c",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "4e5d8d5d4c4310bf19002a70472b040cf53f6f4a3978dc7d178661e35fa69e54"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1550-2023-sapl-2286.md",
+      "sha256": "92bcd90d10b652bbe7516105fbaf68fd482c1d259b662f6ad96b31a257cf4f59",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "6f485cb150c150cdca5a7ee43ca28ad8946e34f9607b4c83e86507126d0c6b08"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2319-2022-sapl-4540.md",
+      "sha256": "1d2378b0c7352feee79c433a76213780f11eb1dab74e3b6bd42f58a19ab60ff6",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "fdd2aeec301123927ed1b8356c06b171a31d1ffbb9c420285323fabd02ef769d"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2318-2022-sapl-4537.md",
+      "sha256": "60f511c26335bd704af4e2484c0c929748043c8d098f084f74b5ff2c625faf7e",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "5a33d0dd20e270c0498c3f2f8c27fbadd621caa8160c7067c7769314033f28d5"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1548-2023-sapl-2284.md",
+      "sha256": "27fb731c12e77bdc9565f53b519daccb5de38fbb9f9a748b010267ef93416d5d",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "15ce530e2a200bd827426bebc897e1226b5d158f1f84a2337e5b94d369c40f5c"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2317-2022-sapl-4536.md",
+      "sha256": "0d7523b5fb457dfc57dabfa2b7b7a03519ef14c0a593f3544a1a1ae1f4a96fa7",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "3f4659fca92809b98288497cb70d20a2fba09ac3e00e6dc028251e3691053565"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1547-2023-sapl-2283.md",
+      "sha256": "5e9f7a44f817e1bd66d935249ae33db75bbffe516e4e091444f975fa1c98d3a7",
+      "aprovado": true,
+      "dispositivos_ativos": 25,
+      "historicos": 0,
+      "sha256_fonte": "4625b88947eb8c3e7042449c94e4c9c1c6c2e18887c803dca5e6b9ba6de72d9a"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1545-2023-sapl-2281.md",
+      "sha256": "d2c303773b78188ba8a1129818e3e92b8c5e8db58fcbbe649d8accf675b98638",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "d48d1c1792af097124dbc8809b9ed1efd03c084daea0c836bd48d4ef95235f40"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.872-2023-sapl-25018.md",
+      "sha256": "4fff04b4e8aded81f7b3a3b94dfedf12ae4bd1ea60315a48c274673504504b22",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "27adac38b78b93bc437aa416834e402ac9e449b90c70c51c605cc9b3ef961637"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2314-2022-sapl-4533.md",
+      "sha256": "b42b45895aaafdde15d70912faf5d6733bcce48d2988a01085ceca28ebf4aebe",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "d858305bfa81f5cc9b7fac4f667f7bd1455dce2ba08e131b063054171577667b"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1544-2023-sapl-2280.md",
+      "sha256": "5dba0c7acace95b2c208a205573567e3e110688543ab016b9e6ab6f3400a1d2d",
+      "aprovado": true,
+      "dispositivos_ativos": 42,
+      "historicos": 0,
+      "sha256_fonte": "2d7e6eabd0f76765231c5fca46b6a88231ba35fde103402f6db6d8bedc0373f0"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2313-2022-sapl-4532.md",
+      "sha256": "b7bfd4c2dcf4e6ea47ff541034cd07de1e14419e9ac4c744b5746c1b8a7b2e0d",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "ef3f9319abbdb230f4900627d2784df6c73356c532962d2ee5078a1d1e19b133"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1542-2023-sapl-2278.md",
+      "sha256": "68bfd9c98da0862dff8a5f155e667b8f0c98bdcad60f4fe6148bd0307c36ac07",
+      "aprovado": true,
+      "dispositivos_ativos": 37,
+      "historicos": 0,
+      "sha256_fonte": "3ab9a621d3905eddea017e9eae8f97af24260248acb219d67abc17f82735096d"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1541-2023-sapl-2277.md",
+      "sha256": "4ab7e847aa2a71168cf5d427eb4d6532dbfe1f73af34eb8d40237069ae9b1688",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "2232f5e1a9eae5204e270bb5f49f419fc775d5582c224e4d59ec93fd31a757f9"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1540-2023-sapl-2276.md",
+      "sha256": "144bdba28b2582eb2960e14bf499956b28766b616d2754276c109865da006378",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "09b9bb002eeda5c5e9e1451d30f088f86ff17d57ff614ab6ae5cf962bcdceda6"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1538-2023-sapl-2274.md",
+      "sha256": "95c25671ce0baa2a17942688b54a72d7e3c09bb1dcf24075b37cb79ff49c747f",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "ccef243344f7d9fa0c7b5f92545752e3e505fb992169f84561e53eb53bd37dc1"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.860-2023-sapl-24552.md",
+      "sha256": "4895ba534e34633d8befcba7e34031820b18e8199412ec6dc30780cf0bd9a0f8",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "3eae6d5302c07804709c6818e5f4de8808fd3df4f81bdafe7804b699a19a6e5d"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2307-2022-sapl-4526.md",
+      "sha256": "b740adb77f1e163a8f8f59b9caec1b83cb9c62299065e32390c2a9392608c67f",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "77be2fa12cd1e5a3127e8809cd374749e4d37082912c9064d5a9bdba8bd7a94d"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1537-2023-sapl-2273.md",
+      "sha256": "c60a2bdb4cf9ce6bfb8fe3c8d6b3239d6e7b1fd2787239131261a8f7dfbac6ce",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "e9a1be92bb93641c6cc3b1456f5d9277b3e82b27c41c8f247780972d097d4461"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.859-2023-sapl-24551.md",
+      "sha256": "c67941a7b17ad0e903d17e4ea6e2dc8097e42bcdd2bc8c3923d6c8afaf7ac54c",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "159ac176a818a3afbc965b7ad3ab44f423b13b64fe56b83e7c7d06d4b91bbf2a"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1536-2023-sapl-2272.md",
+      "sha256": "a4b0fbb5f868fdba1bf041ad80e07e3fa68bf985eb9eca253872d5f200dbfa5b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "97dfa21f7696ca1336da9afbe5fc792b7ca52e90f19acd67ad91c29bbde9255e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1535-2023-sapl-2271.md",
+      "sha256": "867fc72358c751494e981b79cab72c7bda49be05c11ec6e06676ca7499e340cc",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "877e6efb757fc08b95a6bdc94304cf90aeb142ed005a73d6892f11f985f53cb1"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1533-2023-sapl-2249.md",
+      "sha256": "619fa8e5f2ec184d0686012d0bd2a58d9f6f07c980bf331728803d20068bad67",
+      "aprovado": true,
+      "dispositivos_ativos": 22,
+      "historicos": 0,
+      "sha256_fonte": "41a3104335e4b4063870c23958da387fc3e799e9278868a7e48b5b04929f798d"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2303-2022-sapl-4522.md",
+      "sha256": "092407a28fa01e9df34fadec176b1c29c13c3d9e57095fbc6dc1f7bfdfd25ebd",
+      "aprovado": true,
+      "dispositivos_ativos": 38,
+      "historicos": 0,
+      "sha256_fonte": "e30adad3c5abf7909cddc6919ed55dc713dca98c52d91b3c224f54e4ab864aa1"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1532-2023-sapl-2248.md",
+      "sha256": "c463d727f01ba65e51003935ad4c87962df02e16727a9c7ff8129fe01c704743",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "9ad2a218388afad98b2efb7b3df65dfcff5c31972ed72888b44a76ace31019dd"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.853-2023-sapl-24286.md",
+      "sha256": "0bba3fd8bd625c695fed6f36ea43b97f011847216a520f58085e89d0a0a0c23f",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "11cf55a916a2e4f5e81471552b7cd848f8397f66ba62143a42f449a11d7f3da9"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1531-2023-sapl-2247.md",
+      "sha256": "c73f98bea5fc23211c19b22457b9a749663427803ab01f91afe610b1d528883b",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "2cbc91c4c477be5eed7245c9d43bd78129754dab856636a5dd7204e7dfcccec7"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.849-2023-sapl-24272.md",
+      "sha256": "ef0c4ba81029c2b1518e0ee28736ebce17e2df38403bfddc02ee51112924f2d6",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "a16933ae491c14f7b9b967bb098eea8237e31d55172e4a1c824d66a75678de97"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2301-2022-sapl-4518.md",
+      "sha256": "827ba365d73b8b891709dcdbfcb365d6e25eef55462376131f9044fb23943230",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "8193b9694ffc9accaefc8a4f946df0b34cf677427a1c91cfedc2914e01d96844"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1530-2023-sapl-2246.md",
+      "sha256": "a02a783a969b11af85ebd7bf89b64c6d8bcbddc1a329f69031f670132284c25a",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "da08120d6b5485c153a823f63ff872b5766899bf7364e8ad52dc7916ddb4e86d"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1529-2023-sapl-2245.md",
+      "sha256": "f95f2693f8aadf817ed093e9801cc045c8ad5837938b80ad5cc12cfbc2b79cf8",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "9a4884c577d51bbd7300fffcbd9903aa0dff8cd5175286e5315bbf8529f3684f"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2299-2022-sapl-4516.md",
+      "sha256": "758065312379c031dda464d175a001a32d84f82d739d249b3298d9e461a88cd7",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "8fe7a9700eac3dd0e5a1837eee587ad83f08fb866f494d503e00f98141d6eafc"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1528-2023-sapl-2244.md",
+      "sha256": "1a696e5dbe690f5c796d065b77281004bd8d9ec282f82dbcf3a748cb3f38ba97",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "a6e74c95f0bcd341e72c2b6318de72d9b67b46b1ece688db6ae8bbbbf3ce97be"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.845-2023-sapl-24249.md",
+      "sha256": "50af50b738076a4b9e9fcc1531f7e39776637ef5ff992469f0d9e9ed57a040a9",
+      "aprovado": true,
+      "dispositivos_ativos": 7,
+      "historicos": 0,
+      "sha256_fonte": "f92e62a79ab7ff2ab20ba48a1713a6b6b1b788a2f524e9f7216ac8555ada7edc"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2298-2022-sapl-4514.md",
+      "sha256": "d5893ecafbda0a118108412a880b3b1b63eb62bbc8999a41041dd86dfb8ee0a5",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "325e48e7c7afe9a97b910219a50090b50a1835d749fd7160d22d0711a7207918"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1527-2023-sapl-2243.md",
+      "sha256": "cda02e2c4c782522b068d850e6fc4e0246bd2b2ffacc2ac501d570173e37a636",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "139f63c47c918474e58c85067f8cd220c0883aa7e4f087658e939e3e250b8828"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1526-2023-sapl-2242.md",
+      "sha256": "b4d1dd9258fde76ccf9a77b47a36ef9fdc3b4604115e13486b153f8cf6880844",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "de195027ab732ac225b345375a0507d3f90ad58dc06ef721a4d5f1a790db883f"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1525-2023-sapl-2241.md",
+      "sha256": "fd6c0e8f3e732e1097814875a4308ba2eb3e5de58e64dfe20c4ca40748ba4655",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "fdba69c7e2e72ed89925816028ca21cc963a8763a65f6acdf4e48b7a6fd91c4e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1524-2023-sapl-2240.md",
+      "sha256": "c8227de510ca92e201ea7f333bb77fa082b2716e2a5b3a0c17168466ab3498e1",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "4a90f5fd73cbb91ffe892b199cac6d9ab610af144edbe3f57a7c08caf2dcb534"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.841-2023-sapl-24081.md",
+      "sha256": "187ec8a706c94383e343408dbe26515fbac421bf19439c5e69417b8bab1e72e0",
+      "aprovado": true,
+      "dispositivos_ativos": 35,
+      "historicos": 0,
+      "sha256_fonte": "5949c4829c1cd8235a0e4d46d0b306175a99efbd1dc47e3fb4c9937add0ea840"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1522-2023-sapl-2218.md",
+      "sha256": "a36efda41a9d0c303dc5a090c398d0690e6967fffda1e6c7750f8f2848facf9a",
+      "aprovado": true,
+      "dispositivos_ativos": 37,
+      "historicos": 0,
+      "sha256_fonte": "0c2214d7a5c4eab2af03b8ec5148b612e65c3b0ae6dc361481c10eb2a8e10570"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2292-2022-sapl-4508.md",
+      "sha256": "ff839869a03777770932d71ccc5aea4d2b5284c1072f251fe22a1b559c62e3be",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "e4ae1a9030114b30e484bc7019a41fbc50949e50f79a9d331bd0b5f09a57455e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1521-2023-sapl-2217.md",
+      "sha256": "408146ab753063ca060e6319181c7d5f666511a03834fa9768b5c95b2de56489",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "4223936c16b9680cfffe6750de43db72b1085241db009992a483db90af59dc7c"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1520-2023-sapl-2216.md",
+      "sha256": "45cfe1fc5cfb85e9def5e7134998d4a6c17159608b41385ad42b834d1018dd82",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "0935e388e1fabc018a3e68baef013e170dd6d2343424f8570a17e10b8fbf531a"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1519-2023-sapl-2215.md",
+      "sha256": "1d5ee996893d94cd182a0bf854cfd8d589415f07ac4a5a2d1414f22c90db0014",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "8803df4e7d001a90f4319a6ccd8e156ad87d6b37e4e90e59d729696358615f23"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.832-2023-sapl-23953.md",
+      "sha256": "f9f31cabd4cb5b4a2ab28149c0a836eb13ea8d80e71660e87780f8b20eabf935",
+      "aprovado": true,
+      "dispositivos_ativos": 2,
+      "historicos": 0,
+      "sha256_fonte": "354afbc7262ea54f9430fe2f72669c0af56940e9a3b943d4c331dd89ab8460c0"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1518-2023-sapl-2214.md",
+      "sha256": "08a9213baf757e9b7f051fb6f4388c4883b783e28ec67bf2a50d935671f93712",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "dc9927190921f5a917155be5d88a0523b3a3e0b2b9ae296a93b0ef5fe07dda02"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.829-2023-sapl-23947.md",
+      "sha256": "65f8915977604394f78a6772b9a6adbb35dcc41c4314eef633a7240000ea361a",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "4405147c0ad4240dbc668f84873629fc54fd4c6de1501a3e0e7aacdf80fd6945"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1517-2023-sapl-2213.md",
+      "sha256": "e055bcc284ff038cbdf95e0ce1914c5ba9c1eba9f89476f2cb6fb518f228ec18",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "9b7eb0a04bf9bb2b688156065886f1f1f2d2313f11a7e0e1cf3db751585d4570"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2287-2022-sapl-4489.md",
+      "sha256": "54fdcdc09e2313feefb42a66128f6726d30b3a9fcd9669730b6ec24017d0f19e",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "a815d6b75254fb8c4d27050e50d092400697d7368d8c1c079d7bbcd589bc1d67"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2286-2022-sapl-4488.md",
+      "sha256": "8feefd03745bc70c879c83b45191d72718ea7f3563ef69868f20645eff8f5eda",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "4b5fea227419d30c253fb97951209f00b626ec9d30b4b54b798cbc37d3aff6eb"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-complementares/2023/leis-complementares-7-2023-sapl-2209.md",
+      "sha256": "36c399d818e7a6203e7f36ff113161a3328b6884a35bd1385512b42c98e07d37",
+      "aprovado": true,
+      "dispositivos_ativos": 78,
+      "historicos": 0,
+      "sha256_fonte": "7ffdc22a56b879b5abba5dc6523948e2ad241addb12a7929ac8cc6aa97db2326"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1515-2023-sapl-2211.md",
+      "sha256": "d3edb51f973999c3431b5a085618635c3bd83db9c2bf12f0fb9ac9c25277f724",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "11f901ce79b196e992e1ae8b9d470268cea84a322a69f978fa534e40c8e2b16e"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2284-2022-sapl-4486.md",
+      "sha256": "57fc520e49f1a7a906dd4dc98eb558b3359b99a144fe4f6f5a0007af6a0e79b4",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "21a5685b54a3d075bdfe721a98466039f4e54ebd5e493edb9e12532f0ef4617b"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1514-2023-sapl-2210.md",
+      "sha256": "53c857ccbd4ad4ed20df5c949e4c48b33b16683a2a6ed719d48187b9ce932595",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "af3263c57e315c23fb535ef06f644f67c3a99e3bf3e9128ca6b4e1c6162e2e75"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2283-2022-sapl-4485.md",
+      "sha256": "29b68926add853d9c0a6093461c2cdc844b0c958d902b2c11e3f0402148ea45f",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "2b4d6ae2d4553befa66d4d3e790e59070781a136d3df00002a0669b6448614ae"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1513-2023-sapl-2167.md",
+      "sha256": "340719074eb88395156f1f8f36967a29515b861a621f5414a49460cdf12251b9",
+      "aprovado": true,
+      "dispositivos_ativos": 24,
+      "historicos": 0,
+      "sha256_fonte": "ca776735722e97e3c5ada9602db7fcfe0afb0dd6171cfc4b9551afde8ec2751c"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2022/leis-ordinarias-2282-2022-sapl-4484.md",
+      "sha256": "ffabf2bdeacdc7e65f5db39dbd72a69e24128302335b75d3beb6d5024ee685c0",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "16b601ba0a03b4bfa86c2c9ba2280c88d061c46b8f668503ec7ef6579570cfac"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1512-2023-sapl-2166.md",
+      "sha256": "b66fcf96fec9133f7924d0b8713982ec35226a74f191361c000bb48631b047d3",
+      "aprovado": true,
+      "dispositivos_ativos": 25,
+      "historicos": 0,
+      "sha256_fonte": "75fd4161a6d6c3abeffed1fb69a36e8d55fb3524e7424442b1331b041e09efc8"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1511-2023-sapl-2165.md",
+      "sha256": "a2f91e422f1d68edcdd0170d5dee9fab056401b39c620f119d31b4c9cc5111fd",
+      "aprovado": true,
+      "dispositivos_ativos": 26,
+      "historicos": 0,
+      "sha256_fonte": "468bd93164baba88c8f0ef0e90203699f92b845e78b536683153d3c067ac1c70"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1510-2023-sapl-2164.md",
+      "sha256": "c9e8d6440fe4ab92b8df2cbc25ccaeec7673009d582f09e081246e5d847987e5",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "90bf06464a22b2fca09bc10233d8efdd87ffec29f4994518fe62396c73173b38"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1509-2023-sapl-2163.md",
+      "sha256": "5f37239e1f3b62c772a295055a34d4208283c25c5ba162fb0bbd806d2c6c07fd",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "4bff3708bf08f9b59b01ad9f63871b88ad0c6efc965d42a714701f5bfed18cf7"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1508-2023-sapl-2162.md",
+      "sha256": "791503fca9bd3a55602b3bd62141cc7a6eb88c34e53298e011352cbcedbc2e28",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "16da52d396ce66ec325a98364fdf8c8fbe4c633c1eb4df092a116c5af6b20efa"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1504-2023-sapl-2158.md",
+      "sha256": "12f743cb6596c9a947527dfe4046a90be55bd2fbd14b5f37e76a7097f98e50c1",
+      "aprovado": true,
+      "dispositivos_ativos": 31,
+      "historicos": 0,
+      "sha256_fonte": "cd81c7d7939a2b68117fb278ec58d23d6e734145868eea381c520f1b26a955fc"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2023/resolucoes-11-2023-sapl-2169.md",
+      "sha256": "5bf244abadc41b704c611abcaf04fcf66bc449331b8349d27fbf4e41bdf2aa55",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "6f94bf5198aad93c12bde72ece174b4f721615f527a8165c78cfc7e2f241ebaf"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1503-2023-sapl-2117.md",
+      "sha256": "e12aa34c09590feab12dab3948ec00ce619d858d7e99e24d44ff196b0c6d2fb6",
+      "aprovado": true,
+      "dispositivos_ativos": 22,
+      "historicos": 0,
+      "sha256_fonte": "49db8554cc3b2363de1fb2b88427f9cf99082d71a005a7d140b067d8f49de946"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1501-2023-sapl-2115.md",
+      "sha256": "6ce1adf2c2f705ef1e3bcdf3b09a6c8e8a63c03e09b01907ee95425a231b1042",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "bdf6c9aaa2a266210f39b42e8417f61191f5326f26546782df7bd563f6af32a3"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2271-2021-sapl-4464.md",
+      "sha256": "a1b6e2e1f66953ecdf617e6f7a003583f7e8f0d2b0a8b8ca0328e7029304533f",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "c22377ca0bc5e43610575461ef398d761d90e6fad8f635d5f9c4c3f76f266866"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1499-2023-sapl-2113.md",
+      "sha256": "c15901fcb5bf8f19f1c3345be23170b8f6e1008623a0c2ce2f7e323480322e89",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "b8fdedd58b0b4009b094da3e0b1abc7a5915d43e38bcd95586b8f1b2088feb4f"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2270-2021-sapl-4463.md",
+      "sha256": "22fcf12f5d28c5c934dd5fdf2474f97c431eafeda987e8a17ccb393f95628f30",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "9f0d479cf91854df16d61129efeb0834c70c0cead5b8e11ac815f9ea044ee385"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2268-2021-sapl-4457.md",
+      "sha256": "a71c7290be32edc20928b11c293cc4fbb14c853c6214e2e1936bb9d0a02aab56",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "c1b047d2c0f9fa9541181dbcc116d8f1a91bb9420fba44b8bfa9ded540fa2bed"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1496-2023-sapl-2110.md",
+      "sha256": "7502a062dd92512ce30bceff1c3ef243d16db3d8ceaed80b808309435e95bdb5",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "22c27226e33dfa807fccd56b9edcf1e150b0c967c4f6866c50b85b71ff6165c3"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2267-2021-sapl-4456.md",
+      "sha256": "fdb58ed8e493792aff1e23509e96456f25e6bf4243534c85ac3163ee2ef7a915",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "90ad166ce52772f12c2a8f5935cb3f36967d17bbb5be127b04a9ed2d0ca1cff8"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1495-2023-sapl-2109.md",
+      "sha256": "88b63d11f31a9be8a4c4b226b20aa99d94327c0d5286d9898347a2135e02ce11",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "b0f6621df8534aa9221d106f9cb493bdfc792a4b5564d300c1cd21df17ad61a9"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1494-2023-sapl-2108.md",
+      "sha256": "ed3b2384ffa5b44ae59588be4840bb52fe48b743c3a7884127608d447b1ca74e",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "7bf840b724ee115aeff17b1f6f80468a79836977ca8866c73d0846978f482370"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2265-2021-sapl-4452.md",
+      "sha256": "200171f3b1acd8ca1ad1c36cd491c54e756fc09b5cc8f10e2fd6240caf38bd43",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "1aec124902bfd7c835eb584ce829be7428be3feeb8dc6e8e841a6fc5abf46a67"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1493-2023-sapl-2107.md",
+      "sha256": "2f944987fd5270d8c05a670a1676cd845296307c1d4adb596066b64e7c7881d0",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "7c6083463b82179a1d1b32988cfd195e73301c2da6e4ea34a6bf862ca84304d8"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1492-2023-sapl-2106.md",
+      "sha256": "17be8c1840d2b01586dea5a3ff6a0c3e50481dcb3cf85d2fb3f39da53f39ef63",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "7c1e35343f79775b4153ad583aa1772e3c3362ec0a8613c1123792243d214887"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2023/resolucoes-9-2023-sapl-2068.md",
+      "sha256": "9b83049618145007efac5592e7097dd40461612ea9eb56c93c06b2cba7e83d06",
+      "aprovado": true,
+      "dispositivos_ativos": 27,
+      "historicos": 0,
+      "sha256_fonte": "4c22b4b554a8231084c86cc084c4059204d578e022886753c3242d9fd2f36075"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1491-2023-sapl-2075.md",
+      "sha256": "21562774aa166ba63483f02c20bdb68027267bb939622b1b75a04d95d241064a",
+      "aprovado": true,
+      "dispositivos_ativos": 50,
+      "historicos": 0,
+      "sha256_fonte": "f3d1b02a23677aa7a11abfbf5cb8be79fc923240749187f2efdc8f7655bcb823"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2261-2021-sapl-4438.md",
+      "sha256": "6344b81351b90464f3a99e3f3c7456fff5ac7262e3580f93342d9fa28d2ce33b",
+      "aprovado": true,
+      "dispositivos_ativos": 27,
+      "historicos": 0,
+      "sha256_fonte": "d6505d0ffeaaf854d436bf90968f95f24cac8d8754e477acb0ed4f2451e86213"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1490-2023-sapl-2074.md",
+      "sha256": "16dbf66185f4a35a0fb317c69b70716c8c872cf7b317e36754d391e748c0bf58",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "562e768242eae20e418ea15ea8eeff2c969abd05ba128db3a035055fba01067d"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1488-2023-sapl-2105.md",
+      "sha256": "d9534528e4d4cfd19dd720fa6e81de92d396b82b9aab313fa2251ebce91ce6a0",
+      "aprovado": true,
+      "dispositivos_ativos": 57,
+      "historicos": 0,
+      "sha256_fonte": "a91fa2f722b00cb91e11dac941111ea453f04c05c37feccd354881b4b6db914d"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1487-2023-sapl-2104.md",
+      "sha256": "d25dbec64a82fd1163d47875e04d1e1e3f80d46a1ca81dc3958aeccead4974ce",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "912a1399d854066e7cafee995476136b39ebce1e1b156d9ea34c1f182316af79"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1486-2023-sapl-2071.md",
+      "sha256": "cf468a9fb6041387d76b1ed9e3fce714738cf00e904b6dd389c52b6620a5969d",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "4719ada9f04375f0fec131a925466a79469b573e29028cd3e9e1ecf0ea6f499b"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2257-2021-sapl-4432.md",
+      "sha256": "b21cb910f6c3bcd176cca4586a5415bea6a5f33c3023283b684e8c453fb5a488",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "0b7d38014833159592c8e0da24e24e41e69d669954f72daabe96ec2bb02c550c"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1485-2023-sapl-2070.md",
+      "sha256": "fd910dc97037dc53072c549954e8787db39e912ad10c477cb17d053b1f1e0351",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "12636ed278eac75700d9d128bd08233cc03529eeb949c0242244f881a30fe05d"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2256-2021-sapl-4431.md",
+      "sha256": "023071862d5b7bc16e162461055ff4c9baebcd1aa8365d2a156b634380550e70",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "ade353ed9380f6185d6cfaee2686fc96e7dde47ce78aafdd36db08a6c1af87a7"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1484-2023-sapl-2069.md",
+      "sha256": "fee4c6971ca9709187faf3d53ce612fbfb95337209480fef56bfe995deedb0bb",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "e84e958137261796129cc15aa8fb72766e2aef7eba9db923a6dbaceeb90f9009"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2255-2021-sapl-4427.md",
+      "sha256": "cb901a3ec6305905f50602ecd0a5e44c519ba1743d3e79e34800cbf7ed00d56c",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "2c0d59997f0a5c4c9003eba96abfc3608014b5acbe25e938a1fe225272abaa10"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1483-2023-sapl-2043.md",
+      "sha256": "52420acdbaf693c9b1ff7933750ff6a3030dd2f206fd8d761c44ba4107d491aa",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "bf274bc5fb8b77367f4a013d603de552c5f2e0f36025ddbaab231158707de722"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1482-2023-sapl-2042.md",
+      "sha256": "812b7a4f6a39c5f72a0cc0fcf1b97ecb1acdde87dc2e31397d24129f982b528c",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "eef096ca32dfc27ffaca80980586cd04af38ea14578715984e922074719b101c"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2254-2021-sapl-4425.md",
+      "sha256": "1a91e4c96abd2ef851c8bf07ce65b5cb46ffb116bb6aeb315fcf680294e83e47",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "4b1968fc6b796014a875c5cb1b49812011f7aefaf000454fabe98ac2f40c7099"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1481-2023-sapl-2041.md",
+      "sha256": "8cf2c3fe03f86f772cd8daa8fbd698c0a4c8c4ddd92dd8c1c1df7780a0d12dc9",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "906aa0a1891d7ff69d6c7f840a05f2891d38b3dd67f4059f9484d0ca825c200e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1479-2023-sapl-2039.md",
+      "sha256": "c1fc37180de5ea6d728e2c41e5bfd041299fa6fc00f427bb7b552767cc405525",
+      "aprovado": true,
+      "dispositivos_ativos": 577,
+      "historicos": 0,
+      "sha256_fonte": "83a81ec43bfae3090fcb953b81f414fd7a8535cdf3549ae71c6799398f557524"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1478-2023-sapl-2012.md",
+      "sha256": "31f2416b7d9ff30825d7f8bbb018c1ef2f38f88c5fd074732e8d7318e16d6747",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "9c2c1ee335b764176527aa56a0cb7549f9d4f23cac0cf2551628f0e8f9041a26"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2250-2021-sapl-4421.md",
+      "sha256": "f55bcec4d076dca82c2717eee0f3f3e53261ecb2683c0b69e15d0d556dcb3388",
+      "aprovado": true,
+      "dispositivos_ativos": 89,
+      "historicos": 0,
+      "sha256_fonte": "bae6d3f6a1a42db1177022710069292833989e562eccc28ca2c2fbf52259d9e1"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2023/resolucoes-7-2023-sapl-1975.md",
+      "sha256": "8a50bbdde977150cc6302d5158c546a1e55993c7520327b5c994fc8ff56999da",
+      "aprovado": true,
+      "dispositivos_ativos": 22,
+      "historicos": 0,
+      "sha256_fonte": "f67d87e7db82ed3860b4f2e54b55893847ebb98720bd0290fe4719cfc815c32f"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1476-2023-sapl-2010.md",
+      "sha256": "8814a84cf701beb116dd06253f72269bde36993129f64e48ed5528e9a71eed0a",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "33802287639e3ddfd61d960f8327040c3e53ca78c8245b74d360088c7e28e4be"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2248-2021-sapl-4419.md",
+      "sha256": "63dff3b76b83f759628c522742e05dd76fa3b07ae2804b6d35e1a7040d495d74",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "beb819cb59a1477b9ce0fc5f87f935edd03f550c1a650ebe62a694217501c28f"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1475-2023-sapl-2009.md",
+      "sha256": "b5b87f81345d37b688c80c01027ee9f53a5a9b3543e5575485f3e7252e6752a3",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "ec48e05ad92cf23fe6174745b44272e82d27c642775d1f4046ef58de9193a447"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2247-2021-sapl-4418.md",
+      "sha256": "98ea7c00c77255167db4110c4e549bcfca56a87863f005f9cb4ecfc8f3b498e2",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "1d854cd03387ff609fbea42a3631995b090f00072a3d01b1998eeb5ff7a6f8b4"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1474-2023-sapl-2008.md",
+      "sha256": "55b374c992d047795518470cee1c4f9ef8ae77a4c8a84fe0e50dd59ee9c49a92",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "8b552a4daee3aba44512933dcc11666190e1ee0edb7f4e36e3f35ab5fba9ffcf"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1473-2023-sapl-2007.md",
+      "sha256": "6ab1bf80ee279d618ea9d0c7d06ff9bba219c403da3000e302108a915727b8e1",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "5691f639745173eda04b5c162c6be89f2a500e0e7e73c372f603c59e80f61860"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1471-2023-sapl-1966.md",
+      "sha256": "422fe2aced6c538839a5549835985c828a10fdc46d4326d7dfeecb9c0f7d771c",
+      "aprovado": true,
+      "dispositivos_ativos": 30,
+      "historicos": 0,
+      "sha256_fonte": "d3b0ecefd7753b1cbea06ce0ed996fc44d7e26b52aa9af31685029b600ccdcb3"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2243-2021-sapl-4409.md",
+      "sha256": "27813e99c009f89678cfd56ca0f45796f6192986018767c7eca3a65995e0e892",
+      "aprovado": true,
+      "dispositivos_ativos": 54,
+      "historicos": 0,
+      "sha256_fonte": "943de16ffc79db1beba3745af9c3ddccd3a5a2030e32a589a080c3f2b9961fbd"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1466-2023-sapl-2005.md",
+      "sha256": "6a28c1229f04a1b2385eca76e5c2047a0970fea4c7ef241268416da480a9dce8",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "964c63a78a9610f9b2a6ef8719f7e73bae22b627bf6088c53085bba766abea7a"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1465-2023-sapl-1962.md",
+      "sha256": "2dd4b647b2b0911d1f0e06e736fe10f1c141c7f17f9d88d9f63608f4f665d9f4",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "ef7aa347fa7185ae40d6d856421474249d9ea8886322603d6e1188259482cf2f"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1464-2023-sapl-1961.md",
+      "sha256": "bf6649ec15dce44288b6e8f27188a22995a7ba0ae08c71ef9e13e7b34364bc10",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "269b5ff0322a22583580f0797dbea3b9319e3796c24a79bd79507a1b2c6ce6c3"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.767-2023-sapl-23713.md",
+      "sha256": "fbd70ec0a350f64af7598386a73bed052a73cb47ccc2e5d7554109100f01986e",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "ff9e8a5b65aca2f3c12d5cb0c2245038d776162279231eda519a2fe0d418df09"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1463-2023-sapl-1960.md",
+      "sha256": "275c354258c12731f2fba207232f28c73cdafd8940741fef3e24b67185314dbc",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "1d933c78b8d096cdde659f0f01dbbb256de3f7e074b5edbdd062d316ffd6ec28"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1462-2023-sapl-1959.md",
+      "sha256": "1b17c21d9bef9629ff2c3c35558b136795af877dc01049282d90b316535d07bb",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "96e6c7cb16212cd4696f3892bdf35a927970675760cee99f33f11e3063745dd0"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.765-2023-sapl-23711.md",
+      "sha256": "263b13fa71ca4dcc522ebd4dc85e2cc1a457f37d48b130d995e4c658c0340ca1",
+      "aprovado": true,
+      "dispositivos_ativos": 2,
+      "historicos": 0,
+      "sha256_fonte": "d6e9d15825cb2ca686678e5b89d210501c66250e3c7ce7ceaf0141e4fbbfb9da"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2237-2021-sapl-4400.md",
+      "sha256": "1aff5733b85a76d8c02bc0a23eabe1c41af8fc9ab23e4c936fadda912ee70e39",
+      "aprovado": true,
+      "dispositivos_ativos": 22,
+      "historicos": 0,
+      "sha256_fonte": "1c67cefaca8bfe3809b1d7ef6664d39964049317fabb9b12634e59d44ee31e41"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2023/resolucoes-6-2023-sapl-1973.md",
+      "sha256": "46c3c153a3bba597cf0726754ea07a8b5098c51db238993c931f730eae9cf6fa",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "4cbc852aad574d10ae6064d504eee94f3c86abc787abea6644b3c4f84bd73a22"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.760-2023-sapl-23693.md",
+      "sha256": "f2a0254223d141e7dc4b0881cfb9a2906ce25a342b6cca077022ec9212e33da7",
+      "aprovado": true,
+      "dispositivos_ativos": 2,
+      "historicos": 0,
+      "sha256_fonte": "75727536a9690bf4624fdcc5900919368431158d39a80cf8478c8a7924c3b3bf"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2235-2021-sapl-4394.md",
+      "sha256": "dfd866a72ce327872d72d13d2c1422f9e26682866aa1a833664b05951d5958f4",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "e95814176e5a5f4a017d54e22c2140ade0b30c856ab91110775f087b48072966"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2023/resolucoes-3-2023-sapl-1970.md",
+      "sha256": "056db0f90e6890071da8cce495cf1ed6b3467520a4641f06214c756ec1cba450",
+      "aprovado": true,
+      "dispositivos_ativos": 36,
+      "historicos": 0,
+      "sha256_fonte": "4d36ceb2bf163abb722115faeb184dd1c3cbd94c445049a5413c8166b55d5881"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.756-2023-sapl-23686.md",
+      "sha256": "c235819609117e3ea778761935648f45718bf5ea9eae523d42d95654447ab1a7",
+      "aprovado": true,
+      "dispositivos_ativos": 30,
+      "historicos": 0,
+      "sha256_fonte": "9af35aeca1c25fc9fc5edcd44b8adba7bf165cf7154807d3a5eb3d45bcf29826"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1461-2023-sapl-1958.md",
+      "sha256": "bf5ba9cce5f687fc55d0e37a0ee8e0900b1ff35dfd65fc4781fcbdcc49d8a449",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "e3a3aa02702deb58d99bc2558cfacc82793e2b45384e737eba37dc6d55a6c3bf"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.755-2023-sapl-23685.md",
+      "sha256": "9bd19889f428082d183f69e093216fd0e312ce2bd77145b177c346904daa8269",
+      "aprovado": true,
+      "dispositivos_ativos": 2,
+      "historicos": 0,
+      "sha256_fonte": "1b1a45953eed920f59221365256591d8f36919c6eb804134ed559ab09a55b744"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1459-2023-sapl-1935.md",
+      "sha256": "1c6c8979655f3cc6590fa5c3b8e83e6e36525d81a897b7e89f85b457b429bc06",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "eec07cc31c9e4c1b59b5eb5ce785edf8d6668245aaa77ff93bca79c0cd53bd60"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1458-2023-sapl-1934.md",
+      "sha256": "c730f09f9f9bf7091a3347101c05f595972ae1cc6c2d2f957bed81af1694b2e5",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "8d3dc6f0afa3d1f1af583a4371ecb8c0a0b440dcac0f79e52fb6d008b885e21a"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2230-2021-sapl-4383.md",
+      "sha256": "31c012bd6c9613fb5e63571383497f2e7bb7ced431e9ed9a9de7f0426f2ba3d5",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "335edfffeb72cca93a2ed60504febe6fffadab78844dda78085d67aae2a5ac33"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2023/leis-ordinarias-1454-2023-sapl-1930.md",
+      "sha256": "530ba3fe067115e936a4ac1b2cdfabb334649bb30f14bc590c48091b4af248d8",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "4e8501545b1d4010fff95b85ecd514c0fe591898aba44958d35441cfb35a3ea9"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2228-2021-sapl-4381.md",
+      "sha256": "1bbd8bc20c0e8f7e1565a6665d37eb6860cfe7fdedc51977645cd523c2b11b80",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "2aa3d82ddf7e245eb7d5de56c76e72ca0d47292763380377909512181369f4b0"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2023/resolucoes-1-2023-sapl-1968.md",
+      "sha256": "73a451aaae30f5613151f7af436faba802d643b18a343b011fdc855f55d11409",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "f330fa6a407912b1ab6e5fb94a44684deac0887e83cf14b681ead8d7d2ec4217"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2227-2021-sapl-4380.md",
+      "sha256": "0067f789dd3c260badf99ea3185bc51f3f8b7972e3a4e426a6271451f64519c9",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "d37ab0674d653a215ad9e6d98d6cc1818932acc897e30dea0a1235979eaeecbe"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1453-2022-sapl-1929.md",
+      "sha256": "89ce853dd7d952b5eb10b385de2cc424d647f981373d0a80a3fac79d585b9567",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "a3dd1a22aaa4ca8c8f0f762b0a4614edd6c44751ea592a91f17944d1f1d33e82"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2226-2021-sapl-4379.md",
+      "sha256": "5c1eb0db6c1479070bae8086e8ba8b67a9cafb4135f4923517679cd4b5cd1daa",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "7666e8a6660706de745d8819ce7e91948b122ce130979202224cff638a88b805"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1452-2022-sapl-1928.md",
+      "sha256": "e1acf718a5f1657de5f62e4f78c17585aa594e52e3525896bbb61885381cb392",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "5fd62cdb40ebb3546092c5844c0479d6229a2b0b3cc2a3763fb0d13cfe47f04e"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2225-2021-sapl-4377.md",
+      "sha256": "9554624b19e1c30d838795acf911288bf796f746b909cb225545390af006540e",
+      "aprovado": true,
+      "dispositivos_ativos": 45,
+      "historicos": 0,
+      "sha256_fonte": "be61bda1d1a91642260c7d04b1c1eff4c156c8423dcd8d0a3774dfdae655003d"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1451-2022-sapl-1927.md",
+      "sha256": "cde0ebf749c99940b8014273c537f4dc1453d600bcb2effcd64d0b64715fa9f4",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "80c8b67396b3263c355d2c98dffd5aa8b6bc5a97a83b3347aaf2b4968e27f7ec"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2224-2021-sapl-4376.md",
+      "sha256": "f6b5328bb0c0f872f0c1fb2613424a53ea34f041e0e8e4009acfe83162ba8182",
+      "aprovado": true,
+      "dispositivos_ativos": 45,
+      "historicos": 0,
+      "sha256_fonte": "515682444c1f27fba85cb1f2863a41b6337142c65d575be7dba07cde4841099d"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1450-2022-sapl-1926.md",
+      "sha256": "42d8a5f1e011e041037f558c1cb6add70d0c4bb2481a2799fd9e0e8d6e824193",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "efd3ee15a41059a917b631303586027c1713023cd5724f4e1d6c26430f99ce22"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1449-2022-sapl-1925.md",
+      "sha256": "2858dc2e4b441f53ce35778cd10a7a5606cf9b442bab025fe429d913879c3f83",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "b7a978cc1130b7b8971bd823fb400c09df9568e214b9ca3b7ae2687e74803eda"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1448-2022-sapl-1924.md",
+      "sha256": "98b47ca52e455213378802d2b899df29e039218b8a9c82f7e9102660fbdae350",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "14e2ad57d7f45429d13fa2c86ca3ccc491d6a24b0a0b7b2b48ff800bb1c67d1b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.740-2023-sapl-23668.md",
+      "sha256": "de248b384109c06ea149fd3874241681d1e5a804c773767b399601f1a69ecb17",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "fa9624260fd239d28bdf8f8c8e57cdfe91d2c718a9a52eab43b05e17f6ff8343"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.738-2023-sapl-23667.md",
+      "sha256": "e7b3251e39a58b266be109742662a7835754d524f3cdef32252f4fc70b10193c",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "f94e646605002962fa55664166431cdb2cb79a3210d0b3aacca0f39a9e0b0772"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2022/resolucoes-5-2022-sapl-1839.md",
+      "sha256": "f9d081b7ce0f0df13286eebb882874ef56a41a82921c8b995fd3a7bc480ce85a",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "aae7af2e3a74c6be521d36ebc7ebcaae2335b63da29c3ad7aede05a173b57ff0"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1416-2022-sapl-1825.md",
+      "sha256": "b1d9852688b98b8d41ce5753fe56b86283f58e6d7b174e5635b8fdb97f699412",
+      "aprovado": true,
+      "dispositivos_ativos": 21,
+      "historicos": 0,
+      "sha256_fonte": "573d653dbe850c7e2316de3bfd9d94cfc886d79b31c84542e6380ca92f183f2e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2023/decretos-18.736-2023-sapl-23665.md",
+      "sha256": "8e85c861b3275a5571260aac15e3f6f060a637b2d7cbf7da391aabbd9ade90f7",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "eae6ba09713ae04d8f56206e214928b67a995ba5b17c288928bfc18b812b8550"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1415-2022-sapl-1824.md",
+      "sha256": "62fce7070d8bbb13587f1fcedc72645747ad4816de5ba8c7e7a5f0f7439695a4",
+      "aprovado": true,
+      "dispositivos_ativos": 36,
+      "historicos": 0,
+      "sha256_fonte": "b66155875e97b09c2ba74f570ef7e2485d363cb13cf406e02bc908973648271d"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1413-2022-sapl-1790.md",
+      "sha256": "38c2240292bca59116f501c9f157d408bc18f2d7de26f364c42297dd69bd2abc",
+      "aprovado": true,
+      "dispositivos_ativos": 31,
+      "historicos": 0,
+      "sha256_fonte": "dfd5f6b145b396d5187a65e0bde2cad2f3fd030205670947f095bc964315a0fd"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1410-2022-sapl-1787.md",
+      "sha256": "faeafb0d3f7f53b306d426647abd462198c1eaee325aecc4a6c0d72e61dfda65",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "36bd0abde81c5d1330668c54ae0acee4f002c6ec4ccb684f44a1220174291ca5"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2215-2021-sapl-4366.md",
+      "sha256": "2b5a9f4c3352488307b7992fe5ec3488106638b73972e4a7f3f97d1795a5878e",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "72738dbe58930c2f1ad5eb30a22e0df5417c93e4b2961098ce1f145bf5492747"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1409-2022-sapl-1786.md",
+      "sha256": "c9341157a7033d57294304d8b37054c3b2488246b581d9d354dbc08aa86b428c",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "8bf46a59fb97d9244f7811e562ad2e0d1ea6fbe5d00935fc9aabc127555281b5"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2023/leis-ordinarias-3009-2023-sapl-23662.md",
+      "sha256": "bb86ce50a92afcf89222efce65c0a27b17566009cd671f71f0c1e57f9bf365f7",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "110cf7fbacc07c465fe818bc05dc4cb8dfe75c7df07ecd3bcbe0767d455941a0"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1408-2022-sapl-1785.md",
+      "sha256": "c4b84890393cb74ccf76460884cfcda420b2547ffb2f20a53df1e97c56f9c2e3",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "1411abe4e883a2c991d198c59dbc4b4b6bb98ac6a2c3bdcd62d47d80704b3a07"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1407-2022-sapl-1784.md",
+      "sha256": "54ced2abc943c936c7bce87e886d60f8171106ba3920731b98462b798eaa564c",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "029f4deea12adbe4450bcd07ae3dd797cfe3973e58f7ac8f9365ebd1e2e1ffb6"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1406-2022-sapl-1783.md",
+      "sha256": "f754d872b3ccc4cef91127f3ec80179b5745d7b457608f034552c9032c186ad0",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "4908c630bbda6fc931bf2e86268483d44a94b0467d11bc4dca5030a25617d6c0"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1405-2022-sapl-1782.md",
+      "sha256": "91f74034915463cfdcbd6eb41aa714448be1ef62dbfb5282f9eaa326617e6a54",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "1637397f8efceee3ccc9f18ab89a9789905fd9005549bc4d3cbd404759a6df51"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2210-2021-sapl-4361.md",
+      "sha256": "057604e454dacccd5372234e26c8ab06ab2cc3b2d3cf31b373939e85e691c981",
+      "aprovado": true,
+      "dispositivos_ativos": 39,
+      "historicos": 0,
+      "sha256_fonte": "f4bc973494da9626df6ea1bb5a64cda88c5d9b1d5a61d223146e2579b375c351"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1404-2022-sapl-1781.md",
+      "sha256": "ba4e15294765edbbf0fa86ece3cb7fa53e2554c4a784b509af7ef9e348dc1ffc",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "e5b630b86a6cb7c4d6a15289592fd3dc6dcb5134b594c33852dbe7584f2d7b65"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2207-2021-sapl-4358.md",
+      "sha256": "c174a2296dc0482c8555e0334dbd41d4bb35522fc3e5b82057397a9d894a16f9",
+      "aprovado": true,
+      "dispositivos_ativos": 26,
+      "historicos": 0,
+      "sha256_fonte": "9de68937b32bc6b24bc0a1f4ab8ff13f1f6771605ce96b0ca4010fc1e90dda00"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1403-2022-sapl-1728.md",
+      "sha256": "ad175e983c6c3495fc22f9e62a55dcba38585225556515690dab62b7d14e2f05",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "6b6df6fc6709112f63d368b2c5228706dc1f6fddcf86d30dcdead7354d0c3259"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1400-2022-sapl-1725.md",
+      "sha256": "052681f00314c665b0772855c24a3b4ddbb99e4b94b38c9a14b8045e7e3cd718",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "8887943fb8993b0a8473be9a1e6dd72560f6a35240bebf1c80678026cddd344f"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1399-2022-sapl-1724.md",
+      "sha256": "4a536632b98e06716e3f40f17d7daac3bb40107723a855c2c4d2c0f505b03349",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "fdbf825d66fbede9e390ef853914c173871934c9894e912f9a325d9fa3b5eed9"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1398-2022-sapl-1723.md",
+      "sha256": "c6bed48c4c481b3994d392b09e5f17d1c260dfe88cce42db5b5a6a5538120399",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "82b672d65998f1ffe3f704032c28de2842a82a9064e264ca7d71a71fc9163054"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1395-2022-sapl-1712.md",
+      "sha256": "a2945554c36c81d08f0282d319742b650a03a675c23fd418bfdea777ea17c871",
+      "aprovado": true,
+      "dispositivos_ativos": 35,
+      "historicos": 0,
+      "sha256_fonte": "a3f45a23f57c17c290982caebee35299d53e58f2b6aa6e76667ead565bb136be"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1394-2022-sapl-1711.md",
+      "sha256": "b19617ab9c0ad704376f4b3cbb6c42bd53df8967fa83e5b3578e7174231cb9a6",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "1364581166a95d2d840d857ee3633dceffda855bfa2f07e99ed0a03fb564e151"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2021/leis-ordinarias-2199-2021-sapl-4333.md",
+      "sha256": "123c4efc9238e9d0cb02713746093381f35f0d883ad705922b3d925268b6afc7",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "98c1772e9ab3df977dca9cfc601b1e4c7ce32b1ddb359f273c3487bca69f6159"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1392-2022-sapl-1709.md",
+      "sha256": "0c66827f19a623b7dcb056d151b112b2b544e2bc59d6c029cd63dd641a14c1d1",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "03d9c8f03a56e82a4469f5ed9fd571aca33bf75304261be3b65ec0e0022d3ba8"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1391-2022-sapl-1708.md",
+      "sha256": "b1ef961293e0d74e267aef4eabc3b3a6dd7bed4a4762278d94ff987e2225ec01",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "d040017674a2f50d3f2d6fd02bddd587fb0d3fec38fa76362e122b270af22514"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1390-2022-sapl-1707.md",
+      "sha256": "b4e281b1fd63002f9c2bef83e9fc916b1bfaa65805c365fba4c293929ba034c0",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "ee6e4697dc4482c15ee8894e7d05ee7b174ed9a2eca823572848d9d0833cc28e"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2022/resolucoes-3-2022-sapl-1715.md",
+      "sha256": "3234ed5021d362cddeee06cf1e14d5a1a6f8abad68a7c1c65b80c87198b030e8",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "bdc07e572548de0c81602c9bd9b6db5056efb413ee96866749cde55a49e801d3"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1389-2022-sapl-1706.md",
+      "sha256": "241c0df276b10669a73053e27f9633dd32c43e95a30ac697b0382d0ec792879e",
+      "aprovado": true,
+      "dispositivos_ativos": 26,
+      "historicos": 0,
+      "sha256_fonte": "0722da7f1d919576dd2d5fa6a8d92d57400f1edc3e81c8fa29eacd953539095d"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2192-2020-sapl-4305.md",
+      "sha256": "a23761798e8a52be3d1ede05ef0bc6d3be5e6e818bc7ffc8572b1816e74e277c",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "6856d1975a7409da6795a56531faca65e900ed2610d27792eff49e71b643fa26"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1387-2022-sapl-1704.md",
+      "sha256": "bf723b7bd2764835d0b4c432f14088f5e2f462c693244e58c63b1d73a7af9b7d",
+      "aprovado": true,
+      "dispositivos_ativos": 26,
+      "historicos": 0,
+      "sha256_fonte": "f676b3d8d193eb57d08a7ac5b0e76d9fd2ca67a856612b870d9e87ccdc32aa6c"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1386-2022-sapl-1703.md",
+      "sha256": "1d1297ee91ed03ae923e130d21f6e08798ed85d63ace7dff982c1c77f0954a80",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "75b807a08adb4b4c98fef387646cda019e610e8defb88d618395b15cdb02365b"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1385-2022-sapl-1702.md",
+      "sha256": "08ae572c8c5c49d1d0769a4a22ce5482c90471a637624d678644c2d7b927ee29",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "25355bb0dd0f3ac500e8c7be6e4266f4fb9c27e3dfb8c20f347d739228b7208a"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2189-2020-sapl-4299.md",
+      "sha256": "3e7a8770ef870bd19464f9ec0a143269c075fcc2f75fbefee47e7a105f8c5f5c",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "de2c6b9991c367c3d80e5d1d77905b36aa9e5ae9c0b9bd49c8a25389c20185e2"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2188-2020-sapl-4298.md",
+      "sha256": "f4f63f999334073130b8e16170f41f97c35080576f0438eefb798d93800dd258",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "7d1e359650d0b1fb22395c185cdc2f26fc4cc7184101e1e30f1e35d38a595425"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2186-2020-sapl-4292.md",
+      "sha256": "f392fa9e2726db50864accd9bc7c96c37df5da3a9bd771fd39afcc79fb631ad8",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "f539d364a1ab2dc5b51f7859b03976cfca17e975ba40e61af1a11d451a81717b"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1383-2022-sapl-1652.md",
+      "sha256": "bdf6ae6a3c8e48f2f0d71d0be9c5b39ef99e5b84e44a073aa60051dfaf366b63",
+      "aprovado": true,
+      "dispositivos_ativos": 32,
+      "historicos": 0,
+      "sha256_fonte": "f5121c179b49fc0af7dd47495dd56b6f19f2f438ffe65a7d9b791c03f9ef28bf"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2185-2020-sapl-4291.md",
+      "sha256": "45d7ed2581d42a1b2e5606cbd79e3e694c3d9832e44b993fbb75ca0a14fa76d5",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "b2040554d7ea3bc6c3fe222051642280ce6f6d864121488ff5e1cb4aa2bc98c7"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2184-2020-sapl-4290.md",
+      "sha256": "5b6355b055865621603bee7c918938e130bd10842d9e21c4cbc0292ac41f4130",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "43b597e29432f37b21fcba831823255d7e0af9b7946c61f3c5fad14d6f94c043"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2997-2022-sapl-23553.md",
+      "sha256": "5c6667eed0f8a8795e787756c086c2b1b25f26f16ecbf637ddac8f2f2ea5fcb7",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "f09ecb3f6d10d8936ab800ef8450d3588a8785ffe49f1f33eafda7190d9526dd"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2022/resolucoes-1-2022-sapl-1655.md",
+      "sha256": "70b78fa38db11ad0d79f51fef3b220b31361931c10daefb28a595db62f2be3a1",
+      "aprovado": true,
+      "dispositivos_ativos": 38,
+      "historicos": 0,
+      "sha256_fonte": "c56b9b60d12564944c5f73441ffecc8680c6c4625de3ab4c55c8f049a75ac327"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1381-2022-sapl-1589.md",
+      "sha256": "f2ac4195ac6b01b2430f9860c7ce5a86a1c64d0adefc3d1a7c46095ef22c6c9f",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "c6725cc98de5d82d20cb5de0435a125e3eb9a0b66ff21c8c57175b56c547388e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1380-2022-sapl-1588.md",
+      "sha256": "450790f8986554b7e1c6b337727241063fdf853b3971d23349e5d44619ddd7cf",
+      "aprovado": true,
+      "dispositivos_ativos": 69,
+      "historicos": 0,
+      "sha256_fonte": "5133b572f0fa3963f70abb459100d2896dd7b12d95d05b19a69f331e2f6b0806"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1377-2022-sapl-1585.md",
+      "sha256": "11352d830efd63d04294c35bb2ab669fbf9fc87601fb5529eed1c7d62d1e5e8d",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "427781acce9081a875fe9322538912f2f18369ba704a3b3a68b42012f5f2cbc6"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1375-2022-sapl-1583.md",
+      "sha256": "b422055bec2899d9ffc126b6c65c8bec90c8d5a0dbcb3ff2a0d8af981dced840",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "56f0b4c0d0bd1cec938554ee485eddaee517b0fffd2c06624dde48bdcd104091"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1374-2022-sapl-1582.md",
+      "sha256": "4faf0ed0c6f1e41cdef9797e9bf5b583be7139b34b0e930f716c13bc63db835c",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "2ad8187a97342b40901e798d9e7697281ad8fa47e16b3c71e67f32c04c6cc91f"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2175-2020-sapl-4274.md",
+      "sha256": "ed5aa61f22c9b4fd3d7e485b30d2b36792734c2c895fffc6f52848c9c074f28f",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "cbb23640c071e5facf57d536c274a85d66b52b16e015b3021c3c8dcc11c404ca"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1369-2022-sapl-1578.md",
+      "sha256": "02c2ba3b9fa807cdffb1c0299b1747f1fbaa011910e9ca46706f1d03da20a24e",
+      "aprovado": true,
+      "dispositivos_ativos": 28,
+      "historicos": 0,
+      "sha256_fonte": "e05aa2f000c58bdf7a6651df77abd6d0b34d0434c4e30070ffaae0c1b59ef8f4"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2173-2020-sapl-4267.md",
+      "sha256": "a037ce12e6a7a322e8ecf4c3ba7b7e894bda5b5a97c173908c4ae25143667071",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "7870a9923602bf76ec4019c1abc01c22e0439c9472d0ddbcdf3204a056b0743e"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.706-2022-sapl-23267.md",
+      "sha256": "1d7e6a42258ea835380f4aa2fedf82f632afd0da109ce0c220ff3203a34e7c36",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "5ea767545411cab7d33b494607774e0709d58eb5e3a626e4567960ee394ed511"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2172-2020-sapl-4262.md",
+      "sha256": "72d32039332cdd82ddc057c34f30361ea8bfc726d9c3b70e02a411045f330189",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "065ad24a71a77a9a12156b34ebbae97757b7eb7ecee1460309251ec53c642463"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1366-2022-sapl-1568.md",
+      "sha256": "a2225d1668af2e193351bc05fa59211d2d85aa057af2e37cabd0839e70811e49",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "e74115dd1e590c331816617cd1f148d4d8708f39bc03309798a2ac45989c07ee"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.705-2022-sapl-23265.md",
+      "sha256": "6a865fa9e1bf2beb332f96f836f57a58dd2e4a319ca8795b1c5710406bfed028",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "7f7b91338e52d3d50a448bf1c9cac4170b22ebcb64d2a72db2c5779a31da1d76"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.704-2022-sapl-23264.md",
+      "sha256": "b4b0c8d633262e1007b8a8292967b6bd787fd7d1f9cc217e4eb69557e25206f8",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "a9e6459fe1ea88379f549020e15510333f8d9d44a105d9528baef2e51f119ecc"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1364-2022-sapl-1566.md",
+      "sha256": "e7cc26324e5ee8782329132049911618f811d72104295b3948504f604aae3289",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "b3c771d4ffecb56255acb894c15e56bec5af6d15c1a3ff83a3cf7a50c814ed33"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1363-2022-sapl-1526.md",
+      "sha256": "22bdbb2eafd1a4859ab2b2947642714099931dbc93284829fdbbc1c0f7c670f0",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "27462d683c2758b705472967ccff6fad77f96409e58039babd73d112c7f57723"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1361-2022-sapl-1524.md",
+      "sha256": "95e68623d1f660c9415214ad0b9062f3c0cbdc111e4867ee204aad8fa4a560b8",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "c2bad9d3154c14938601c61615b5dc82f22c7ed5f97844f5ae3841242985f8f6"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2022/leis-ordinarias-1360-2022-sapl-1523.md",
+      "sha256": "41599850c90e458c8b6e3af9e2779190e99f01df0a2d5d10cca3692d2bd6e05f",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "d09e27c3ed9b252b2da70f1dbf7b13c02ab8a327d5387c25412d8201255a757a"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2167-2020-sapl-4235.md",
+      "sha256": "0fec086a0a3b3d881a31fa51a46d7a9feba5cd1612189bc57c8c871cf0d660d7",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "f9406fe0f258dba82bc2fe53cde1c53ca897a7481377f48915adf82baf5b9a9b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.695-2022-sapl-23223.md",
+      "sha256": "97ccf640d45121df614fc9f7643a17fa105b1d3d04a0ba9b756e5ba21f3da1c7",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "63f1111a560976488c9a6eb71f40dc94d060965a2f7ea146b5904150e11d055a"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.694-2022-sapl-23191.md",
+      "sha256": "ae2e23146be6ecf4865ba59edbba2e07c113a88b04c153b113cbf6b33430f346",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "e050121b41b4f779d841bdd552125864734651f87a0fbaae3956dc5cbbdbc0ff"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2021/resolucoes-10-2021-sapl-1473.md",
+      "sha256": "0fc75564468ff1bb1d7ddbd4870153803c8738583ead7ed3a9a395a73d182693",
+      "aprovado": true,
+      "dispositivos_ativos": 52,
+      "historicos": 0,
+      "sha256_fonte": "110559c812a68786b1c3ca67718db2439717c3ff9c74242c70e57aa64c6da18c"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.693-2022-sapl-23190.md",
+      "sha256": "7d960c589c909529b81da6b87f13faf1925f6f005773b645513ec8433131cbc0",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "1c708290ca920716309d291396a1be0bba153ceca2e2901814cb52652c6349e1"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.692-2022-sapl-23189.md",
+      "sha256": "22103f2a681ca346bb275637f754c77b673fe037ea348042ea1836009a52801f",
+      "aprovado": true,
+      "dispositivos_ativos": 51,
+      "historicos": 0,
+      "sha256_fonte": "295c10dc4151aedbf1c996708db2029a1cb3bbc02951956e63539aa735c4730d"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2020/leis-ordinarias-2162-2020-sapl-4220.md",
+      "sha256": "c3bc4aa12402f13093dd989469e8def8dbc7662b79a03a56cbc85b31efdfa189",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "f1e48dd1b8062c037b2518a2973300c02dad219768be2d7579c7f35ed4be1bc0"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-complementares/2021/leis-complementares-4-2021-sapl-1432.md",
+      "sha256": "3b12f0fb07ed1fab7610ed395b9804de542426bbd39bf75ce57c1fb20a17c741",
+      "aprovado": true,
+      "dispositivos_ativos": 77,
+      "historicos": 0,
+      "sha256_fonte": "d94912fe6276512447dcc20399d43e6120f5d4b16558f97004d190c7660374f6"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.690-2022-sapl-23187.md",
+      "sha256": "e979eb95fc244bda949a1e7a64ac76ae095a5e27df542996cb41e26142461c57",
+      "aprovado": true,
+      "dispositivos_ativos": 14,
+      "historicos": 0,
+      "sha256_fonte": "76296192e64775b4858a55f265a309f86d61d1172ce331f7ff21e5025b13a94b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.689-2022-sapl-23186.md",
+      "sha256": "31adb63c89831543ac521352cabb5fb63505323672bbfd3c13ecfe694689f51c",
+      "aprovado": true,
+      "dispositivos_ativos": 3,
+      "historicos": 0,
+      "sha256_fonte": "f2fd978733a08b3dfec6929231a94c8efeacf5856c7f3265620e36711e5de678"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2021/resolucoes-7-2021-sapl-1401.md",
+      "sha256": "a5621f68bd23f7cf339514ae353c5ce28ba9b103a976583f5aa8205d1e9c1cac",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "acc51c1e1e0d6868be61d978dd74a05a098ce61b356d05776fb15f5690cbedec"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2019/leis-ordinarias-2156-2019-sapl-4208.md",
+      "sha256": "4df78c05e5f693ea06828c8f31932c844850b7b6f35523470de5f422aadbc6b6",
+      "aprovado": true,
+      "dispositivos_ativos": 84,
+      "historicos": 0,
+      "sha256_fonte": "4787e120dc0fa073008fb08b1dd17cbc9d0e9141bbd4cb8183d6aad89afc1e71"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2019/leis-ordinarias-2151-2019-sapl-4194.md",
+      "sha256": "6c24c945760b570c7dc431c20ed5c671bd27304f6093dcf30e1abc25f67e0ea8",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "3e0e83cdb40b68994fb4a6a0e885808daf4ac4c9a2b55d7cb8b9a4fa60165071"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2021/resolucoes-1-2021-sapl-1254.md",
+      "sha256": "b1fa697a605a738427cfb1a4dbd97fa28749a3ee35b411772b144a7613c61950",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "4e2dad7f1752115c38afc1b9ff9af8c347340008dbf0571c3f1e43c6532b4554"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2019/leis-ordinarias-2145-2019-sapl-4180.md",
+      "sha256": "90c0f9f6cea4b5008617427cf53133815a0f9850b4f93c16b508c450d7f0f726",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "9eaf0c399791bef1664b63668cfb380054fa4374a1b7629c1b9c0ced71ce8680"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2020/leis-ordinarias-1238-2020-sapl-1236.md",
+      "sha256": "729334f0b9433cd0357078b7198b9043506717951240cbf459a18f866efc839e",
+      "aprovado": true,
+      "dispositivos_ativos": 42,
+      "historicos": 0,
+      "sha256_fonte": "b74fb53a91573383ef4e981cfeb3e7031c255ca5fccd6cfdc4e31e57d200542b"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2020/leis-ordinarias-1236-2020-sapl-1234.md",
+      "sha256": "0fe643f4858e50a6217788f62780e65312597f49b5bf64f14c336150ff55ca1d",
+      "aprovado": true,
+      "dispositivos_ativos": 39,
+      "historicos": 0,
+      "sha256_fonte": "56ac3084f27a913ad2eab8534679790e4027f972d02ab24a8f710f9661c65456"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2020/resolucoes-2-2020-sapl-1268.md",
+      "sha256": "04e2d51a80431f21a0c76cff62465cadeef8b37bafdd6430495d1f22ee4b508c",
+      "aprovado": true,
+      "dispositivos_ativos": 23,
+      "historicos": 0,
+      "sha256_fonte": "b13a4137afc3fb481e5cbe26e745fc1a16204eb30039947c3fc86af349ae82a8"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2020/leis-ordinarias-1234-2020-sapl-1232.md",
+      "sha256": "e3b446a4c5c877af81686068819a580c07931a5490d46298187c6741d5033908",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "2a2ec39851e095d59b78f46aa20d41293ac7504ca2006f6cc414eebb2f4f14e2"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2020/resolucoes-1-2020-sapl-1267.md",
+      "sha256": "4abaff2f872ed66cc69c5db13a55093f8d80d1392603de79cf0b648332a0ca97",
+      "aprovado": true,
+      "dispositivos_ativos": 23,
+      "historicos": 0,
+      "sha256_fonte": "5ca7a98dc5ce0dde4677fc87c2035f6ee1d20abf60272eef82cf5f6688d70fd2"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2019/leis-ordinarias-2136-2019-sapl-4154.md",
+      "sha256": "35312b1c53097f06b725cb9138ab704808552a7389d662d2d15da6b8cf8ae590",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "5ad7f4658b9b279c5c356f5c0e200f9bbf54075bc44d6746287d310bb6cb5f42"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2020/leis-ordinarias-1233-2020-sapl-1231.md",
+      "sha256": "c9169dc41328d7dee8d9a228a0c2fa88e23616937ed7ff561ff2c9a8f6dfe5f4",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "f02bc0569b129ffc404cdb77b1931ed1e8e11f57ec5bcf0adb49e2ee25c27dcc"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2985-2022-sapl-22993.md",
+      "sha256": "3dfdc495984dfd2ae38beb1eaac68c1940be6ae0f8b5ab5293bf99c5476926e4",
+      "aprovado": true,
+      "dispositivos_ativos": 12,
+      "historicos": 0,
+      "sha256_fonte": "4b98b34fdaedc5dc8da81b71220eefd4f00377fa819232d5734edb280b93a339"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2020/leis-ordinarias-1232-2020-sapl-1230.md",
+      "sha256": "61c1156b7620a4083c6731cd3af249a13dbffad3c02cc666d0ef08f6f867e31f",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "feb995119896835284c0858c82f42d3cfb8df76d445372757b151e4d1651690e"
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/2019/resolucoes-1-2019-sapl-4139.md",
+      "sha256": "0e7c2bfd7af6207bfc8ef5bfbe283f497d413d5a14b969315e0d474b5168117b",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "dddff42e6da803a6313756a20bc9aa412607f786bed70014f9e6f00232992a20"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2020/leis-ordinarias-1229-2020-sapl-1227.md",
+      "sha256": "815590f29c9bb3c8a7a8fd93f1dd4498dc3352a8f0153225ce480b2829e7c24c",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "0713094e1272cb83c240378726a25aaed3bad84128711144fc06148090e9b601"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.666-2022-sapl-23008.md",
+      "sha256": "c535d55ba106ef762b0aaabb83ef3025ef4278b44ff3f5e306fd9f051e7524f4",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "6e108f4300863d122f6834790123cdfdc1ce301545fcb2222e1ef545f85a893b"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.665-2022-sapl-23005.md",
+      "sha256": "1da95de72dd62a3e2ff7db39ae6dd7382eb83209a473dd48d8b19e932a214990",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "c6318264b26a663e110c0718864988aab2b9b6749a51317c81ced321b245091f"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2019/leis-ordinarias-2131-2019-sapl-4135.md",
+      "sha256": "a6b318ff30041a1d435c81a7774f2107ff8bbda58b2c28fc9c1e596a77cfd6d2",
+      "aprovado": true,
+      "dispositivos_ativos": 169,
+      "historicos": 0,
+      "sha256_fonte": "8a6f50dc5e6653b6344c1065e922d8f4f7e1ae8e611a198ff59ae8565c4c15d4"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1227-2019-sapl-1225.md",
+      "sha256": "2845d8a8a3929105b8800bd5368102cdd240abeadd3a866430b81c8dc676dbc4",
+      "aprovado": true,
+      "dispositivos_ativos": 7,
+      "historicos": 0,
+      "sha256_fonte": "a5c30e5d5f51de652b5b78efb40667bac8e1583b615ee4ea639202fc483a7ae8"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2019/resolucoes-9-2019-sapl-1305.md",
+      "sha256": "b263989487126502e7a9957dba60d2192cc5120823f877b565596f8aff404666",
+      "aprovado": true,
+      "dispositivos_ativos": 15,
+      "historicos": 0,
+      "sha256_fonte": "9f541366329ac02cb3213f91c41d32135ef2a3fd2a8af2fb1c295fc0ee7917db"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2019/resolucoes-8-2019-sapl-1304.md",
+      "sha256": "d33821542f7d715371707dda3b632cdf6ec61d4b8fd971d002c0e9a8ad87d2cc",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "b9700b1c1b629c62ce87f24431f04ab41c6e150d5e5c3e8c36a2c912da2fa324"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2019/leis-ordinarias-2128-2019-sapl-4132.md",
+      "sha256": "881af26fa7807dbee51adcf1aa5544e487e169c9cc276625d46982b1d837c3b2",
+      "aprovado": true,
+      "dispositivos_ativos": 13,
+      "historicos": 0,
+      "sha256_fonte": "44d445d7fad90d4a6be271f0a56b29c0e3bc6f37cada326d5245849397d22502"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2019/resolucoes-7-2019-sapl-1303.md",
+      "sha256": "5d273eb397d0e1c85b43c57fe7e1579340804e894c8b77d44f804d47ee5eae62",
+      "aprovado": true,
+      "dispositivos_ativos": 17,
+      "historicos": 0,
+      "sha256_fonte": "2b2ed83ccc98c070f7258554bedf3823f0aabd6c903a7c6dbeabb3fc5334718d"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2019/leis-ordinarias-2127-2019-sapl-4131.md",
+      "sha256": "f7c38eea11a9fc9b375d0e45524c8f00a3e07c0aca4df167f37d1954c17f3f72",
+      "aprovado": true,
+      "dispositivos_ativos": 22,
+      "historicos": 0,
+      "sha256_fonte": "a45a3b5616b2e3a3869c3ed4df21daf35659fabfc9b9f570cf06582389b931ae"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2019/resolucoes-6-2019-sapl-1302.md",
+      "sha256": "8baa5a80a3c76b1e65bfe388837d727dfbdb9711cfffdd36fb7ec07a480d4d37",
+      "aprovado": true,
+      "dispositivos_ativos": 18,
+      "historicos": 0,
+      "sha256_fonte": "a3d622262479e3d4831c85585f0c2b21921b6f98495e633ebe3b958d95812b93"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2019/resolucoes-5-2019-sapl-1301.md",
+      "sha256": "80717be56b81a41a22a6f804cd585bc620801433b3074f85d7f89e3d0bb869f7",
+      "aprovado": true,
+      "dispositivos_ativos": 20,
+      "historicos": 0,
+      "sha256_fonte": "a13fd7f1049472252fa3628af41ee422d591334d0807d68ab8cdbfe60e326e56"
+    },
+    {
+      "path": "municipais/CE/amontada/resolucoes/2019/resolucoes-10-2019-sapl-1306.md",
+      "sha256": "a99525daa2b7d8d845640f46966a4a94a374d70bcb57b126aae0c8eafeec9af6",
+      "aprovado": true,
+      "dispositivos_ativos": 16,
+      "historicos": 0,
+      "sha256_fonte": "a46d14a1e61b5eec00fdb576640fedc51f931392dad81e1ecc66a897bbd0599b"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1226-2019-sapl-1224.md",
+      "sha256": "4f374ab8eceb420fbd8a2564d91913d465ee6c3af96cc4cb3c2ea5c013adb5d2",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "4e1ee93cb28026f79f583181977a50e305103f8687b9ef487c42e07004914287"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1225-2019-sapl-1223.md",
+      "sha256": "550ccb08c73b574ba474435f7808959736493da2bf18b734a00cf802460531ae",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "7f88fd0f3aca02b0a21a8cb0177c65d37cadd7b4016d0260df7d5606ad4d6b4c"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1223-2019-sapl-1221.md",
+      "sha256": "f96637e55c603a535ecbf2686afb8a336d0ed6502dabd632bddb83b5009f411d",
+      "aprovado": true,
+      "dispositivos_ativos": 111,
+      "historicos": 0,
+      "sha256_fonte": "b2f86c10c500346bf93b9c02f223a378fb419b2fb4f455e0568c42a78c886a83"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1221-2019-sapl-1219.md",
+      "sha256": "8cce2a03151f69582f1d9d70e6ebf6e284226f24947eee0b856f48d1c62566dc",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "cfb41c37ccbe8bcebb6ea76ff9af059245a19509206d7f6ee211b3676fce6773"
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2022/leis-ordinarias-2984-2022-sapl-22910.md",
+      "sha256": "c94688c2374c7c993b914dcc831e117cd1658842600db9eef51d763d8d7d53d4",
+      "aprovado": true,
+      "dispositivos_ativos": 19,
+      "historicos": 0,
+      "sha256_fonte": "6c1c918c9b70027e2859e234c9471dba5011331a9eb15f6ddf491e24ef3d657e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1220-2019-sapl-1218.md",
+      "sha256": "7ba310b6697dd838311ebeaeccc0ce0c898f0797189ca8e39feeff3b8662dfd1",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "4f0361660bb860929066bd206f5c57a05211553fa632b7329fa7c3187fa11b1e"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1219-2019-sapl-1217.md",
+      "sha256": "af47bd6c60d48bdf7653d0a64c0d4c093fc6770b08cbce975f308bfe3d26374c",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "a321eb7146f0bff135572bad74eb5f69e834f4332f5aa4105693be3c14eb4bb1"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2019/leis-ordinarias-2115-2019-sapl-4063.md",
+      "sha256": "dcba6b3df0df122f05eeae58297016ebee7fe9e502feeb8361c516e352c3dd12",
+      "aprovado": true,
+      "dispositivos_ativos": 24,
+      "historicos": 0,
+      "sha256_fonte": "ac7b763b9795f77dabfe212adccb69535ec292d56859a894f50ddb0fdb7e13a1"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1215-2019-sapl-1213.md",
+      "sha256": "ac949448cde1e878047d7f4653b01d9e3f4a912ec75a5cebfa53bb97215a829e",
+      "aprovado": true,
+      "dispositivos_ativos": 9,
+      "historicos": 0,
+      "sha256_fonte": "e9bce88972c177a0f9a811235c4687199624fd5bb949698b057ca26c92ab2b5c"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1214-2019-sapl-1212.md",
+      "sha256": "73713d3848625676766588f3c0e88f21c60a3f920291dffc99eb442336140e86",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "7e94ef205904f76b8b80a2390bacb8499477da041e50581d9fa776737f6f4bda"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.642-2022-sapl-22844.md",
+      "sha256": "6588293dbf178efaa52f1cb6c5612c332b38ddfa21f82d635c86b0291168cdc9",
+      "aprovado": true,
+      "dispositivos_ativos": 10,
+      "historicos": 0,
+      "sha256_fonte": "01d8ea5f064e740acc7f30b780ff53ec4830935fe897fdec406f37d6d2b219fd"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1213-2019-sapl-1211.md",
+      "sha256": "7a37820ce181f58220217974f58aebd060971fd2ec306e75a374234d50bf8b45",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "18032aac23be25d6fac82775743991e9158ecfb8df7a851106890532766b09a5"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1212-2019-sapl-1210.md",
+      "sha256": "7b1ba1b8fc3c99badd1baeff894dbc236bf956e73a5bbc013d6cb2d98094cf47",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "c5c877de122dfdd5a5027e0d49d6cb1d3345cea8604593b512564e1cac441dc3"
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2019/leis-ordinarias-2111-2019-sapl-4059.md",
+      "sha256": "7d393a540e6dff761b3e6b0448d1948e8537ae47a899c35293fcdc685134c467",
+      "aprovado": true,
+      "dispositivos_ativos": 11,
+      "historicos": 0,
+      "sha256_fonte": "275a0d1a5ad998e7a43818b9081a48b2c2fe8121deb32e9e2ca91efa11da2e6a"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1207-2019-sapl-1205.md",
+      "sha256": "c1d37346a48b5841dcd8be7e886d2764a9b472565b9b4adc39eb485235467529",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "e4cb57819b273992cc9a540438331ef4c537afcd45b8fb84018dc96f9dbb1979"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1206-2019-sapl-1204.md",
+      "sha256": "f397757f891231a7a8f9bca4ad41ed62f438878236b38e019a446e2d2e8a9a2f",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "ce3177f2371814b824417ec2ee6a6551684576c4a60fdb7a88903813e05ecc07"
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2022/decretos-18.633-2022-sapl-22817.md",
+      "sha256": "f7783128f8e8b60702063ee78cfa91b9e1c2e9bdda29941babddac9c0783d460",
+      "aprovado": true,
+      "dispositivos_ativos": 52,
+      "historicos": 0,
+      "sha256_fonte": "64fc666b8130c7ed847bafcf1e48c93de5bfe9c3b7b8ca2749460902dc7022d7"
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/2019/leis-ordinarias-1201-2019-sapl-1199.md",
+      "sha256": "44212268ce6181c3f9b42626a192333f1fee0b5b6bdae77d7e264ef1f670c512",
+      "aprovado": true,
+      "dispositivos_ativos": 8,
+      "historicos": 0,
+      "sha256_fonte": "a0bf335ab4ffa2ecd98d1acc7ad654d7e32768bb9087aea25917c5a4f31613c9"
+    }
+  ]
+}

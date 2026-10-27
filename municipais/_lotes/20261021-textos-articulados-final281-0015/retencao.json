@@ -1,0 +1,20 @@
+{
+  "candidatos": 788,
+  "aprovados": 281,
+  "retidos": 507,
+  "jurisdicao": [
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2018/leis-ordinarias-2085-2018-sapl-3961.md",
+      "sha256": "8a78da0031e4be5c2a4a06110e240e85de0fd715c7c95eecdd16d50e2a6e2a4a",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    }
+  ],
+  "replay_retidos": [],
+  "criterio": "Retidos não integram a lista de normas. Controles conservam os motivos e identidades; não promovidos por contagem ou por comparação da mesma conversão."
+}

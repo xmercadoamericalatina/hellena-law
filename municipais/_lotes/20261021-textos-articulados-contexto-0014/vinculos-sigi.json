@@ -1,0 +1,65 @@
+{
+  "sha256_catalogo": "031d4077e34408932d4884b5e083da434184838d9844be3d0719bb62422ef5be",
+  "hosts": [
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "vinculos": [
+        {
+          "municipio": "Agudo",
+          "uf": "RS",
+          "url": "https://sapl.agudo.rs.leg.br/",
+          "codigo_ibge": "4300109",
+          "estado": "candidato oficial SIGI; API municipal ainda não validada"
+        }
+      ],
+      "codigo_ibge_no_materializador": "4300109",
+      "prova_casa": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.agudo.rs.leg.br/91e9574ea5c93cba0818ddabd33484711a20680a16adec3d50143faface84a2f.json",
+        "sha256": "0a7b6f832718bce49aba1b401cd956a0552e32ba9384222b6a81eeed89f1a3c5",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.agudo.rs.leg.br/91e9574ea5c93cba0818ddabd33484711a20680a16adec3d50143faface84a2f.meta.json",
+        "sha256_metadata": "a43b2a8994b796e935e39279741729ad4d8bba2cd8824d1dabc65a9392f46ea4",
+        "url": "https://sapl.agudo.rs.leg.br/api/base/casalegislativa/"
+      }
+    },
+    {
+      "host": "sapl.amontada.ce.leg.br",
+      "vinculos": [
+        {
+          "municipio": "Amontada",
+          "uf": "CE",
+          "url": "https://sapl.amontada.ce.leg.br/",
+          "codigo_ibge": "2300754",
+          "estado": "candidato oficial SIGI; API municipal ainda não validada"
+        }
+      ],
+      "codigo_ibge_no_materializador": "2300754",
+      "prova_casa": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/e60d79a0989389ac9ea96bfa34b3a9d9f4a9ef99f759650418e13f5906b55eab.json",
+        "sha256": "8a3f64d469446b1706dcd79b8db26db84a350830c9ce40f52104cea6a6e0e3ae",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.amontada.ce.leg.br/e60d79a0989389ac9ea96bfa34b3a9d9f4a9ef99f759650418e13f5906b55eab.meta.json",
+        "sha256_metadata": "02293076c2e22f5c09420736345accd0624fbacfde7eb6fa2844b6137db93527",
+        "url": "https://sapl.amontada.ce.leg.br/api/base/casalegislativa/"
+      }
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "vinculos": [
+        {
+          "municipio": "Porto Velho",
+          "uf": "RO",
+          "url": "https://sapl.portovelho.ro.leg.br/",
+          "codigo_ibge": "1100205",
+          "estado": "candidato oficial SIGI; API municipal ainda não validada"
+        }
+      ],
+      "codigo_ibge_no_materializador": "1100205",
+      "prova_casa": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3e69e8c6fe325700e9506116b4bf90e8977e59e4d26bbc62cb2b1538150072c5.json",
+        "sha256": "5eecb245a6ae3f33fc7ecbcc569bbdeb8d3bb2391aa5f5c8a99045b0178b3298",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/3e69e8c6fe325700e9506116b4bf90e8977e59e4d26bbc62cb2b1538150072c5.meta.json",
+        "sha256_metadata": "4134febee01e7c4d1f84807ac8092ab90266f625b036f787153e8ca1b4a9869f",
+        "url": "https://sapl.portovelho.ro.leg.br/api/base/casalegislativa/"
+      }
+    }
+  ]
+}

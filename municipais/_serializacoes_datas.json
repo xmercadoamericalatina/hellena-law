@@ -1,0 +1,2237 @@
+{
+  "versao": 1,
+  "aplicado_em": "2026-10-16T01:59:47.287648",
+  "mudanca": "data ausente serializada como string vazia; fingerprint atualizado pela reprodução do mesmo gerador",
+  "sha256_classificador_antes": "8252ab30f326f44652f44dc00bb3030c5e3607e1b38f835cc93e69694b4c53a7",
+  "sha256_classificador_depois": "6ad567935722b5e8b846d6eb306fcbb0cb2df93552e1c90fe6e930211c5a3df7",
+  "documentos": 141,
+  "referencias": 32,
+  "datas_ausentes_corrigidas": 38,
+  "corpos_e_datas_conhecidas": "byte a byte iguais",
+  "manifestos_congelados_preservados": [
+    {
+      "arquivo": "municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/3a0c5e44583e4ca99c39aac95e6ea24e/manifesto.json",
+      "sha256": "d7277e966a624bf0cb549de1e2977865b8a00c573f73e63e51a2bd245cf49171"
+    },
+    {
+      "arquivo": "municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/2519d1ac1a3244b397637a9f72d7cb82/manifesto.json",
+      "sha256": "c7b8a21267009bb1bc1fbb4934e0ab14e78a032b38bd6cabd589a7d0213e12a5"
+    },
+    {
+      "arquivo": "municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/75aee61f811d495dbec70e6de22f57ee/manifesto.json",
+      "sha256": "39d0edeb170301d955ae638d79c828cccee7dd821b2bf529a49b4bd457df8203"
+    }
+  ],
+  "manifestos_reproducao": [
+    {
+      "arquivo": "municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/manifesto.json",
+      "sha256": "0a436c441993b01af021e971fef86e830bc1c0e47aa82a5594d59cd7b999b8aa",
+      "assoc": "famurs"
+    },
+    {
+      "arquivo": "municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/manifesto.json",
+      "sha256": "8abbc66ca931142a715b4e84e8bea5523d5abef59b4abadd3111a66a19d805e9",
+      "assoc": "arom"
+    },
+    {
+      "arquivo": "municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/manifesto.json",
+      "sha256": "4ac894f1bd56dc177737df4de8429950249a5d58091570d0bdce38c8b021adce",
+      "assoc": "aam"
+    }
+  ],
+  "gerador_anterior": {
+    "arquivo": "municipais/_referencias/serializacao-data-ausente/8252ab30f326f44652f44dc00bb3030c5e3607e1b38f835cc93e69694b4c53a7/baixar_municipal.py",
+    "sha256": "8252ab30f326f44652f44dc00bb3030c5e3607e1b38f835cc93e69694b4c53a7"
+  },
+  "arquivos": [
+    {
+      "arquivo": "municipais/RS/butia/decretos/2025/decreto-0344-2025-477e4651.md",
+      "sha256_antes": "a97cc617c4ec806ad5c14f56245d0ac519154c7e49023a34dcccf715083e8aab",
+      "sha256_depois": "1240971068187616e77c88d528350efb03a701c3e61962d14d05e2f70c9bc429",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/butia/decretos/2025/decreto-0344-2025-477e4651.md"
+    },
+    {
+      "arquivo": "municipais/RS/alecrim/decretos/2025/decreto-3454-2025-d91586f8.md",
+      "sha256_antes": "9afd4a4a730960807a20a67887628ea65175a1e0ef89d07087651b0f9c25d020",
+      "sha256_depois": "e6684b73a2f374192f5c0b7d573c732d8d806afcdb80036c69e99e06a6568824",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/alecrim/decretos/2025/decreto-3454-2025-d91586f8.md"
+    },
+    {
+      "arquivo": "municipais/RS/imbe/decretos/2025/decreto-4484-2025-947296fd.md",
+      "sha256_antes": "219aeb6bd3d4376b769225e9ac08cf8adbfad8690f9f5170f27061125c99c00e",
+      "sha256_depois": "082c298a680e93074d13382f0dbe65fe90547e925681e9ac366ec4d323298ac8",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/imbe/decretos/2025/decreto-4484-2025-947296fd.md"
+    },
+    {
+      "arquivo": "municipais/RS/tupancireta/decretos/2025/decreto-7625-2025-977ee6cd.md",
+      "sha256_antes": "77300e28b190aca4f8d93f5098c61394e9e1a828d3e1d666821dd22f2bf1c1bd",
+      "sha256_depois": "d79aff791841bdba067ed692452ea1f5065d5adedaf990aeef7b7bed8b61272c",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/tupancireta/decretos/2025/decreto-7625-2025-977ee6cd.md"
+    },
+    {
+      "arquivo": "municipais/RS/tupancireta/leis-complementares/2025/lei-complementar-5082-2025-69f58783.md",
+      "sha256_antes": "781d1b8eb10fdaa736300f1db84cbaa217e2e867dcffecc6bdf8a30dc8a44a41",
+      "sha256_depois": "59f1560019d78e31d35836f15573cc46a4832596018a06f20d44ce5c031c7083",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/tupancireta/leis-complementares/2025/lei-complementar-5082-2025-69f58783.md"
+    },
+    {
+      "arquivo": "municipais/RS/tupancireta/leis-complementares/2025/lei-complementar-5081-2025-50cc1d84.md",
+      "sha256_antes": "896f29b83a2aa796d900cb61a1279d6b1ab8fcae3dfd1799a66cecc274c654b2",
+      "sha256_depois": "f5e93cef54275aaed57eed692d86d7f4d90cbb71c017c6058a0d80162a2162fb",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/tupancireta/leis-complementares/2025/lei-complementar-5081-2025-50cc1d84.md"
+    },
+    {
+      "arquivo": "municipais/RS/tupancireta/leis-complementares/2025/lei-complementar-5085-2025-077a20ac.md",
+      "sha256_antes": "00b51cadf953819f11d374888b8b6c932baf8ade71072cb88acdf43283f622a8",
+      "sha256_depois": "4001531dca20b88b95a47b95a169793464f6eb2c5dfb9367cfbee530107ae400",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/tupancireta/leis-complementares/2025/lei-complementar-5085-2025-077a20ac.md"
+    },
+    {
+      "arquivo": "municipais/RS/tupancireta/leis-ordinarias/2025/lei-ordinaria-5083-2025-8b5925f8.md",
+      "sha256_antes": "7978dfe4d5149f0f750766b68693838e09573891a6d82117e1534d1ba9eba101",
+      "sha256_depois": "386acedd0b8feaa709ab25aa18d5e2e8e99003dfaab19724c8aef91b28ff268f",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/tupancireta/leis-ordinarias/2025/lei-ordinaria-5083-2025-8b5925f8.md"
+    },
+    {
+      "arquivo": "municipais/RS/tupancireta/leis-ordinarias/2025/lei-ordinaria-5084-2025-2879517b.md",
+      "sha256_antes": "b0c16860c112ea0d9b8bb46248f10a96357cf70209e35b7377806a3b718d5b6d",
+      "sha256_depois": "1cb6e1abd6cf1ad1e7d3e9dbf22e4d5bdc8e24761279d7e13666584301d8df5c",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/tupancireta/leis-ordinarias/2025/lei-ordinaria-5084-2025-2879517b.md"
+    },
+    {
+      "arquivo": "municipais/RS/tupancireta/leis-ordinarias/2025/lei-ordinaria-5080-2025-b6a2a344.md",
+      "sha256_antes": "ea1a144caa3789435da3980de34888897ac29b389739dea5490ef1f6dc778e3d",
+      "sha256_depois": "8bfe6ab4b27a5b47cc82b194f8b7763206c13efb31e387f47e38b6ec35c55907",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/tupancireta/leis-ordinarias/2025/lei-ordinaria-5080-2025-b6a2a344.md"
+    },
+    {
+      "arquivo": "municipais/RS/sao-valentim-do-sul/decretos/2025/decreto-72-2025-7b7ced90.md",
+      "sha256_antes": "3b80d4de734f180318e622cea457107c7a4856e3a3ce27bc17e1ac871220e8fa",
+      "sha256_depois": "24109fa9773616c813bd5f6982e4075dd07bfb6b845aa72a72663131a1f029e9",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/sao-valentim-do-sul/decretos/2025/decreto-72-2025-7b7ced90.md"
+    },
+    {
+      "arquivo": "municipais/RS/coronel-bicaco/decretos/2025/decreto-209-2025-6c75b300.md",
+      "sha256_antes": "7a368d358697464a2716984a534dc657573ac5cfabb4d70141bf2a6833d2afac",
+      "sha256_depois": "68b949ef6f87c27c09adbf9cf0bdead120add0b7ae5f82ae0fce29fa94c16d09",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/coronel-bicaco/decretos/2025/decreto-209-2025-6c75b300.md"
+    },
+    {
+      "arquivo": "municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4895-2025-2847684d.md",
+      "sha256_antes": "86d06cf693d6140fe3f6fe79007c499f1342a84c4cd5dd1f7d2c056346734efc",
+      "sha256_depois": "0bc13c58516452c3b8e27f601d40133ebab996d6f03005e16ae2993991699f4e",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4895-2025-2847684d.md"
+    },
+    {
+      "arquivo": "municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4898-2025-d4798d38.md",
+      "sha256_antes": "2dcf3ba580198d2a6cdcf134f1645d3d1a2762195e1e54b7987e462d48f911d6",
+      "sha256_depois": "2f3606f476ae5ef69c81a100d69abf5e3c051580d37a36884ad05b9fecf788bd",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4898-2025-d4798d38.md"
+    },
+    {
+      "arquivo": "municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4897-2025-9d122686.md",
+      "sha256_antes": "b6feac135d8357af2b34c3274174d101f1dee943d52907a9e5c40ba9b7a4d825",
+      "sha256_depois": "ad3b772b02f4330ceeb01d5c66f6d8d86a9ed39da1414bb898f78a3d50b6c0d3",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4897-2025-9d122686.md"
+    },
+    {
+      "arquivo": "municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4896-2025-8a7eb56c.md",
+      "sha256_antes": "9cda5749f2bbfefaca57ee98768a8ec645aba0b3fbae2e436ffd5f6c9af9b6b7",
+      "sha256_depois": "6157822892258c9397a890bee3ff4b5a916372529c6f632b0f015769bc4bcb11",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/santo-angelo/leis-ordinarias/2025/lei-ordinaria-4896-2025-8a7eb56c.md"
+    },
+    {
+      "arquivo": "municipais/RS/sao-pedro-do-sul/decretos/2025/decreto-4509-2025-e5bfc0fd.md",
+      "sha256_antes": "3b2ecd422682ebdc42881083b0a11a7dcb6d045b729aa2815a7043751ed83960",
+      "sha256_depois": "91b31117a49275181ef40f1b9a8376a475b9a091e73aeed3d666165d5ea5a7a2",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/sao-pedro-do-sul/decretos/2025/decreto-4509-2025-e5bfc0fd.md"
+    },
+    {
+      "arquivo": "municipais/RS/sao-pedro-do-sul/leis-ordinarias/2025/lei-ordinaria-4044-2025-37fd79e4.md",
+      "sha256_antes": "723c2df28e65d8e531d1d0c938290d2b561a432803a2356c47680558a873f1b2",
+      "sha256_depois": "ffae9d23a423aea8dcb71bc86e523389f76005f96a01ca05eb61c86c85841459",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/sao-pedro-do-sul/leis-ordinarias/2025/lei-ordinaria-4044-2025-37fd79e4.md"
+    },
+    {
+      "arquivo": "municipais/RS/sao-pedro-do-sul/leis-ordinarias/2025/lei-ordinaria-4045-2025-7349bdd6.md",
+      "sha256_antes": "f4737a6a3dd4d5362b5c831e9fe160961413fff3f38a067a2d9996567cd73243",
+      "sha256_depois": "cb0e2cfe735babac7f39c8ab6ef878703a7d8bdde91bcdeed7006382436b553b",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/sao-pedro-do-sul/leis-ordinarias/2025/lei-ordinaria-4045-2025-7349bdd6.md"
+    },
+    {
+      "arquivo": "municipais/RS/sapucaia-do-sul/decretos/2025/decreto-5301-2025-d74c16b1.md",
+      "sha256_antes": "5de0e48c433c77344e6d3fe9da247ddf0d8c299e7000fb45929ef59b4c3e16ed",
+      "sha256_depois": "395fc2f938761c70050bf05a46ef9cce3b8c6623d8e42deb2ee252135c847e60",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/sapucaia-do-sul/decretos/2025/decreto-5301-2025-d74c16b1.md"
+    },
+    {
+      "arquivo": "municipais/RS/rio-grande/decretos/2025/decreto-22302-2025-ecb4c2df.md",
+      "sha256_antes": "d9c7b6f95682ae939cead81b659d86dd79e67e090c95c0fe128c5ee9b1497fd3",
+      "sha256_depois": "b78d297bc18006d38b20e9aef47c4f5085da11ba5dded3ea2a1778970e3764fb",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/rio-grande/decretos/2025/decreto-22302-2025-ecb4c2df.md"
+    },
+    {
+      "arquivo": "municipais/RS/travesseiro/decretos/2025/decreto-2426-2025-65127637.md",
+      "sha256_antes": "d0b9003ebbfb281b86a0a193312140627159469e2faecdcd322447111e5cee69",
+      "sha256_depois": "67de0e6095519b50246f8127693dec4b47883d014ae362ccf175dedaab081cb0",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/travesseiro/decretos/2025/decreto-2426-2025-65127637.md"
+    },
+    {
+      "arquivo": "municipais/RS/pelotas/decretos/2026/decreto-006-2026-571068af.md",
+      "sha256_antes": "2c492c70226c0b36b22ce51b6454db9ba77309fabb345b61ba297d8d96e981aa",
+      "sha256_depois": "b4767e7032b32e322bdadf4fd03c7f19aa9247283d77d9c4deacf410239a50ee",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/pelotas/decretos/2026/decreto-006-2026-571068af.md"
+    },
+    {
+      "arquivo": "municipais/RS/pelotas/leis-ordinarias/2025/lei-ordinaria-7507-2025-fb5f5af9.md",
+      "sha256_antes": "afe59a1f0a409d14eca8d10daecb57c6df47dfcd6f5fe018c37a0621aae20f9b",
+      "sha256_depois": "095e637597788f1ddd276263abee1ae94969015ea95e5b73f7f1cd58fe13b03a",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/pelotas/leis-ordinarias/2025/lei-ordinaria-7507-2025-fb5f5af9.md"
+    },
+    {
+      "arquivo": "municipais/RS/pelotas/leis-ordinarias/2025/lei-ordinaria-7506-2025-dd1d4030.md",
+      "sha256_antes": "352710c08bbed0169f283492481009da4a9afeb395d68dd412740b44e787dd80",
+      "sha256_depois": "267d169dbccba694b5fef8db615a7693ea743df0ead9860ddd87d5734e20c2a5",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/RS/pelotas/leis-ordinarias/2025/lei-ordinaria-7506-2025-dd1d4030.md"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/0C6E67C2.json",
+      "sha256_antes": "814045ae9325849e6480ba4a7dc85de7850e8d8c10086f082e6ab1c42a7c9819",
+      "sha256_depois": "79a84223734e0081cf165b35b88e6775c1e7c25258925ce97d7b582de920c351",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/0C6E67C2.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/6B0521AF.json",
+      "sha256_antes": "59846af477ee5ced18efb2b6bf0b5a3b62daf8b484337728f25013c3c55c0409",
+      "sha256_depois": "2eac3656c08a1c642c1aa485dd9d126c13724b7d502b7e2aec0bb145e657fd35",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/6B0521AF.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/C70E597C.json",
+      "sha256_antes": "344de3b66a0c729f20a6f5becd9231e1d6d8d70b155b51db54114a468ea0dedd",
+      "sha256_depois": "8d83a0802e82c7142cdc69c8751cb12d986ed0a588cc9d605405568de0b825a9",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/C70E597C.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/BE8B52B9.json",
+      "sha256_antes": "3f7923ca3ec1eaeb105738cf8ad97d20631e7d3db272d89c52d8de80419751cc",
+      "sha256_depois": "60918ac0d83a376a5f7104300e21cdc4aeb18254b54535a3391cb2a5556182fc",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/BE8B52B9.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/A3D56D80.json",
+      "sha256_antes": "b05023124501e5ccb7a20d6923d00abc8616eccc4fe111f1d184058a261c1c42",
+      "sha256_depois": "9779a3fdc885aa27b09b95cd72436f844ab8611e58ec65a58f53b915ab1a8d63",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/A3D56D80.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/CE66707B.json",
+      "sha256_antes": "0057b19417690bdff68f81a23b8e727bfe6c0f867ff9ac8e502e68af7d3fa63f",
+      "sha256_depois": "47bfccc9b56336f8a30fe5c7c24c409ad76965fb0667e254851581170b6f23f5",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/3574b3575a73312b53cd09639258221e30e0f1affaa4eeb17a6ab9c2db0dc600/geometria-colunas-v2/a83d653e34e349afb53f7223f45ed4c4/municipais/_referencias/diarios/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/CE66707B.json"
+    },
+    {
+      "arquivo": "municipais/RO/nova-mamore/resolucoes/2026/resolucao-034-2026-5f9e5dc9.md",
+      "sha256_antes": "3af79ec7eb4be18bf5a4fc475d6fac34f8c51d4edca85b986c8305b0ad42e67d",
+      "sha256_depois": "3c0f31282210e4cc1480ae9a1948d4cdc72d2f0cac35d88aa97384f883a58a5d",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/nova-mamore/resolucoes/2026/resolucao-034-2026-5f9e5dc9.md"
+    },
+    {
+      "arquivo": "municipais/RO/nova-mamore/decretos/2026/decreto-10031-2026-a6fad6be.md",
+      "sha256_antes": "76ab4d529683477f532e930bc18971c981b90b22ca658aaf97c1c15822dbd54f",
+      "sha256_depois": "fc9dce27391dbea40f26db30231bc37c413aaaae444bfcd71e7097ce964f9d3e",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/nova-mamore/decretos/2026/decreto-10031-2026-a6fad6be.md"
+    },
+    {
+      "arquivo": "municipais/RO/ariquemes/decretos/2026/decreto-24219-2026-f0c473e6.md",
+      "sha256_antes": "7bc5430e5a80688797838dd1ef6ce4de21042eb747761979918c784f0e56131a",
+      "sha256_depois": "d6bac63050c322d42a65d84f25db02f39444c194a82e7da85d5de3f0a4d220bd",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/ariquemes/decretos/2026/decreto-24219-2026-f0c473e6.md"
+    },
+    {
+      "arquivo": "municipais/RO/nova-uniao/decretos/2026/decreto-3280-2026-4d719740.md",
+      "sha256_antes": "4219c2d0f2281f8257a09b228dac66c1dbc5e6c36b8756b41a21b023189e3b0c",
+      "sha256_depois": "4cce0fa883a614cac3bd9d136766b1b49bda3828354bb6831f9a41c27dd10263",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/nova-uniao/decretos/2026/decreto-3280-2026-4d719740.md"
+    },
+    {
+      "arquivo": "municipais/RO/nova-uniao/decretos/2026/decreto-3278-2026-037b8423.md",
+      "sha256_antes": "86c9f56a57486acdbe596515ee804adb8573bb15f8e6e71ebef568a2179f308f",
+      "sha256_depois": "0c9dfe6e851ded45088457b888abad69d3e8ee4ea2bbebe482f8b4233a390069",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/nova-uniao/decretos/2026/decreto-3278-2026-037b8423.md"
+    },
+    {
+      "arquivo": "municipais/RO/nova-uniao/decretos/2026/decreto-3281-2026-a6c82e7b.md",
+      "sha256_antes": "4dd25061ab3060cc0caff0c4ad78b8ab568c28719b17c5cd6419eb25edf64527",
+      "sha256_depois": "2c070ce150206584ef418fefd0b778085d1266ade2c1f6ab7b06ffeebf841ff9",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/nova-uniao/decretos/2026/decreto-3281-2026-a6c82e7b.md"
+    },
+    {
+      "arquivo": "municipais/RO/nova-uniao/decretos/2026/decreto-3279-2026-30f6283c.md",
+      "sha256_antes": "a09e04eabf39f009098385b1ad974a3962ee3830a438d0f7390729747a4bdc97",
+      "sha256_depois": "28f171a132470869e1e5226126f4d8d0c36994df553b0ca52b0629e213a0718f",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/nova-uniao/decretos/2026/decreto-3279-2026-30f6283c.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/resolucoes/2026/resolucao-30-2026-69333383.md",
+      "sha256_antes": "bc5500e1393eed16dac8b06a28979b3459608fc7300cda0d543083f1fc7deaf3",
+      "sha256_depois": "e35c0ac42b96764d7cf71de125cf12efd97e1c3da1bab9f6499bd34eed3b6166",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/resolucoes/2026/resolucao-30-2026-69333383.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/resolucoes/2026/resolucao-446-2026-df0fb8cc.md",
+      "sha256_antes": "bb3ee63ff112947eeec5c965e5109d4c3456a35d1b969e5a3ec82dab628c5f8b",
+      "sha256_depois": "b50cd21127b0b9049ea8567da4cb83e988e1bfb047e41b358629fe1925566ad4",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/resolucoes/2026/resolucao-446-2026-df0fb8cc.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/resolucoes/2026/resolucao-447-2026-36d0648c.md",
+      "sha256_antes": "94a436f88320a48142eec378288b994864b78513115756383dfae2f179e56f61",
+      "sha256_depois": "341d01d1e8b8a1f31008c4df0eaa62310d4ecd86bbd01a6b41d4bfe3bace0410",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/resolucoes/2026/resolucao-447-2026-36d0648c.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/resolucoes/2026/resolucao-37-2026-4274abd6.md",
+      "sha256_antes": "1d1539fb48aa9878bb690c0cca0c501d9aa6b5c9abfcd3f3e9dba61147c98265",
+      "sha256_depois": "8897fcb585fbdeb8dcf0566241bb966c5c0c44a3c613e4e8701b7bc357872a0f",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/resolucoes/2026/resolucao-37-2026-4274abd6.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/resolucoes/2026/resolucao-34-2026-9bdef0f7.md",
+      "sha256_antes": "94fd1b39f31378423049a53e7e78eb37e4f7e9bffe33530c305955be25840921",
+      "sha256_depois": "c4291cf4713f56849f7564522ac1f77b5d365fa0b847c44d4be7fa7a249b05a2",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/resolucoes/2026/resolucao-34-2026-9bdef0f7.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/resolucoes/2026/resolucao-29-2026-38c2e641.md",
+      "sha256_antes": "2c21b6b98c8fe896dfcc9710b582b9aaccd4cbaa3885caf57edb68c7614c6508",
+      "sha256_depois": "22800c8ea7257d9cd686049e4e16ff70d3df69a80c21dbd0c987c6b46f24ae6d",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/resolucoes/2026/resolucao-29-2026-38c2e641.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/resolucoes/2026/resolucao-31-2026-400f66ea.md",
+      "sha256_antes": "9a3ce66b97d65035663f437bceb2dac1b8a2ed5744014deef04b39cf02fade08",
+      "sha256_depois": "2a486bef77edb9d99da804d3c30b7d6a5f76e62324dd64e7da68e943d43eb431",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/resolucoes/2026/resolucao-31-2026-400f66ea.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/resolucoes/2026/resolucao-33-2026-c3e03b4a.md",
+      "sha256_antes": "420880acaab8e7fd2fe9c9e7f004e4759e93803ad9f8ef4d9a9319c2d3c564d3",
+      "sha256_depois": "4a9b53b7fa82f2975c13b214ebfd2545e1758b97c83531126e3f55d5097d8e85",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/resolucoes/2026/resolucao-33-2026-c3e03b4a.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/resolucoes/2026/resolucao-32-2026-28a732fe.md",
+      "sha256_antes": "152059053d5b9ef54c0f36d6250d4ed67fe8d47df0048b757aab280d37bb0cf2",
+      "sha256_depois": "365929c5f50fca55229b9c78fc8c30f73d695198dbaf9bf18f38d57767dac63c",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/resolucoes/2026/resolucao-32-2026-28a732fe.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-22535-2026-f01f090d.md",
+      "sha256_antes": "9fb6c86a7240fc73a055e8557f044a42f45d8030aaefc0b642352d59c54509d4",
+      "sha256_depois": "f75d4a7e950175fc61021bfd3813ed8f95274127156541de2e1da70ec3f9d842",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/decretos/2026/decreto-22535-2026-f01f090d.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-22531-2026-15e3aaac.md",
+      "sha256_antes": "c9734ebc8df1f64480a8aa4ed1a67020e07b847103c610c6ac774f860f3dbab9",
+      "sha256_depois": "37a6534adb8dbea24ffca31d47bc44ae824dba7bd3d2c48d9fed054d367e9576",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/decretos/2026/decreto-22531-2026-15e3aaac.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-22529-2026-f309ccf2.md",
+      "sha256_antes": "e2a6631112c16654b52a33bb7ee86c50f3395ccda4ada328de8b4ce3f53d66a8",
+      "sha256_depois": "e00af6dabf2e0623e6641a6d0ac08e589f3d6f2a21b52ac8825477a932a8e116",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/decretos/2026/decreto-22529-2026-f309ccf2.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-22522-2026-239b5a27.md",
+      "sha256_antes": "651781720ef34585fac1a6c6185e004ad785826fec14d83950b98d550ba795dc",
+      "sha256_depois": "4e75dd8553b5eb9ec8d7f97c0b89cbfd922d03ad18daa4a2709845ca8441df8a",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/decretos/2026/decreto-22522-2026-239b5a27.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-3745-2026-ab7105bf.md",
+      "sha256_antes": "6639802f71ae2334b1f04183693511cac7681d7ebd701bd479eadf8209c18997",
+      "sha256_depois": "886538fee321dd3d72c0e7120a4b767f238208ca4109e64b73ccd1f35c87ad26",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/decretos/2026/decreto-3745-2026-ab7105bf.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-3744-2026-8d405f67.md",
+      "sha256_antes": "f1f5152884ebcfba3e9989cf95c52fb45b7752b5b080c69fdf80c5cbba4abc41",
+      "sha256_depois": "99534a66c8d2662d0dbe3bca4713174c0733be68a9805786257cc9d7dbfd9478",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/decretos/2026/decreto-3744-2026-8d405f67.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-22534-2026-6581b2c9.md",
+      "sha256_antes": "f6c430b3ff04ddf9e766f8d64555bc20612ccfdabef647da86b5ba66b582e11c",
+      "sha256_depois": "410eb1dfaa7ecfc0e29dab9be26461c9f6159e3d7a74db35bf09b0ace9b01cf1",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/decretos/2026/decreto-22534-2026-6581b2c9.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-22527-2026-ff2a86ee.md",
+      "sha256_antes": "d9e8fb4d57df5585f63c7e125ce9672763e8735dc4e2f077e2af0ebb39227501",
+      "sha256_depois": "05f215c106a496357ac29cfdc6fbd698e89394279c9508c4478a864e9065abdd",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/decretos/2026/decreto-22527-2026-ff2a86ee.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-22530-2026-823a3949.md",
+      "sha256_antes": "b90fb5fd0a0704b9846a93c5fb1d955b6bcbd1e52bf0c417fd631488f932144c",
+      "sha256_depois": "9b5854ac4391e007931436c927dabfc9346d2003161ae4ffea8f68c7c9a01121",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/decretos/2026/decreto-22530-2026-823a3949.md"
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decreto-22528-2026-86e54ad7.md",
+      "sha256_antes": "6c2ec6bbc1f4b040461a6aab3d71047b1673102a9a2d44cd43981d134b2ad6ae",
+      "sha256_depois": "1d60bf71547bb0952701b9ef3c44d405b59e0f95d10062e4e2d61ce2d50a3360",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/porto-velho/decretos/2026/decreto-22528-2026-86e54ad7.md"
+    },
+    {
+      "arquivo": "municipais/RO/campo-novo-de-rondonia/decretos/2026/decreto-205-2026-39d11046.md",
+      "sha256_antes": "55017700fa366a00b60b6394aeaef4a63982279708947a5131bd87b9c02781bc",
+      "sha256_depois": "b0fbbe3779cb577a4e90f4dbc16d92bbb42835f8ae9259e325bc377e64c3c0a8",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/campo-novo-de-rondonia/decretos/2026/decreto-205-2026-39d11046.md"
+    },
+    {
+      "arquivo": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2372-2026-64c80fbd.md",
+      "sha256_antes": "5a08f61481b1d6214b9f631ae74fb849402248c77ca9920a85f7a7e0690f2e23",
+      "sha256_depois": "a39e6a1c1f884a5f3242f12b14a0e8f54112c46288267a8455eb2c750e969e22",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2372-2026-64c80fbd.md"
+    },
+    {
+      "arquivo": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2373-2026-ec2ab742.md",
+      "sha256_antes": "1af016bbff49192fa207492b402478117fe1a580086558704500ad6b7b60d3cb",
+      "sha256_depois": "1cc35b27403d685e508516541463ca1416e2fedfb46c265cfc51339c96d0ee9a",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2373-2026-ec2ab742.md"
+    },
+    {
+      "arquivo": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2368-2026-26788113.md",
+      "sha256_antes": "2bf5b507ef4b96d8e942c2ce7007944a5f388afde10d445581d7e7da524c46d1",
+      "sha256_depois": "64258f020a24865bba6951fac0461f30bb6ed71acc2476605c71883dc9ca2669",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2368-2026-26788113.md"
+    },
+    {
+      "arquivo": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2369-2026-0943e9a7.md",
+      "sha256_antes": "f6361b2f2102097756731d28c093eba94bb1147466f0ff1a84bfcc1a8c50c9f9",
+      "sha256_depois": "b6e63100ceadda6b93bc0a9f01440f6c8579b350279fecf9ba091034c9eb266c",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2369-2026-0943e9a7.md"
+    },
+    {
+      "arquivo": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2371-2026-b31c8377.md",
+      "sha256_antes": "41f8fee61bcb57ce80569d1bcdcbe3323e290958b9c0bb61740786861049decd",
+      "sha256_depois": "472dc0723b8e807d8adf3289b74e702f4679e54fdca9d2d80e22f3190259af4a",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2371-2026-b31c8377.md"
+    },
+    {
+      "arquivo": "municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2370-2026-a70aa45a.md",
+      "sha256_antes": "fec58555ceb5430c072b55d441d78b7c5730286f93bb59e9da04507ed278ba75",
+      "sha256_depois": "73ef650727fa6c9619454f9396941c453d885ef71d59a29a1b9319f57a9249aa",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2370-2026-a70aa45a.md"
+    },
+    {
+      "arquivo": "municipais/RO/teixeiropolis/decretos/2026/decreto-246-2026-999df141.md",
+      "sha256_antes": "ac08e77330c5010557a2b4f4f938714dd5cf2bf516af199dc5b595fa31d35877",
+      "sha256_depois": "2d2724f069b8e7d8a894c40ff5f4030f8eb2aa8a3dc125d5f3a978898594bc90",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/teixeiropolis/decretos/2026/decreto-246-2026-999df141.md"
+    },
+    {
+      "arquivo": "municipais/RO/teixeiropolis/decretos/2026/decreto-247-2026-6024073c.md",
+      "sha256_antes": "9bca00ccef1a220f4f69829dd312185e4fdfec23b2152b1e362c4e781cdceda3",
+      "sha256_depois": "a8690c34de9042592716ee171b541f437bc3301bb759417da681337a3b858673",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/teixeiropolis/decretos/2026/decreto-247-2026-6024073c.md"
+    },
+    {
+      "arquivo": "municipais/RO/teixeiropolis/decretos/2026/decreto-248-2026-8b85dc05.md",
+      "sha256_antes": "0cae195a9a7bc64df9754ea23c7f215d81479dde85b6e058748a41b6640f0bca",
+      "sha256_depois": "e629698005b3f03fca0864a278614ee547e0d02d45819d1fa9891cdc883dc943",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/teixeiropolis/decretos/2026/decreto-248-2026-8b85dc05.md"
+    },
+    {
+      "arquivo": "municipais/RO/candeias-do-jamari/decretos/2026/decreto-10690-2026-9ae60706.md",
+      "sha256_antes": "39a405bb7a2d42890b3927e92faf3b1c6257ac5d3da202c751b99f78b1b952ec",
+      "sha256_depois": "17db1aeb6800826e1ff60482cc66770717d66ef9d444be4aebf898d6b1516119",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/candeias-do-jamari/decretos/2026/decreto-10690-2026-9ae60706.md"
+    },
+    {
+      "arquivo": "municipais/RO/candeias-do-jamari/decretos/2026/decreto-10692-2026-cea5d2c9.md",
+      "sha256_antes": "2189663d1039353e4419801116ac9aa47dd9b387e1f98610121d32b6fd8a33c8",
+      "sha256_depois": "025d4c1a17a09d80f50a8c8d96a4252c7e55f3a1486ae5011a5e35d4c25d819b",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/candeias-do-jamari/decretos/2026/decreto-10692-2026-cea5d2c9.md"
+    },
+    {
+      "arquivo": "municipais/RO/candeias-do-jamari/decretos/2026/decreto-10691-2026-a9e154ae.md",
+      "sha256_antes": "b2f47f5e47e5cdca88d72f1aa72811799642a3aececef568c4d6a74760f53b28",
+      "sha256_depois": "afcdd33d6e2e8d22b5b48fd8da8a055731d5f5fd7a3c50bae620b288950dda0a",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/candeias-do-jamari/decretos/2026/decreto-10691-2026-a9e154ae.md"
+    },
+    {
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/decretos-legislativos/2026/decreto-legislativo-003-2026-76a72db1.md",
+      "sha256_antes": "ea7114fa62eeaa2fee13858b4dd9a0eb1e335523ea3a26be4cf3dd234463e10e",
+      "sha256_depois": "e86fa9ff0d86df4043b519edbfe6b0e3ad7ac4fd5bdd7221ad6bab2c9e087c29",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/sao-felipe-d-oeste/decretos-legislativos/2026/decreto-legislativo-003-2026-76a72db1.md"
+    },
+    {
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1818-2026-a3fb2995.md",
+      "sha256_antes": "5aa1a2a7d72df5c976fa54f60caaf658d8aef70d06acf02228f3dbc9f2f47b37",
+      "sha256_depois": "b3e2902afb1040b74f3860c87b8682968f46f718248c7cb792bc7b9a11679f9d",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1818-2026-a3fb2995.md"
+    },
+    {
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1834-2026-c451dc2e.md",
+      "sha256_antes": "cb38d06d05d7fea81b9c54b4af5a5212cafca8275a4bfb988b1db811e65f6330",
+      "sha256_depois": "34ac5b0254dd07895cf5794e240cedf1a0c7400d37bc10e1f2875737cb15088f",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1834-2026-c451dc2e.md"
+    },
+    {
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1830-2026-ad09e5b0.md",
+      "sha256_antes": "dfa1ed0d45214b5b1573941f6e02c98c2a2fe0303ecbcfd69be37795728e396f",
+      "sha256_depois": "a0377454d19ef83a6a256b23b2a69d21156f2e7369e930fa2c684fc0512a62ae",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1830-2026-ad09e5b0.md"
+    },
+    {
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1833-2026-968f981e.md",
+      "sha256_antes": "2293daf7fab13a8d70c8602b5872034e60415ef762215ba6573e7c1e4bc8d301",
+      "sha256_depois": "e8effc66158e1c946d228a00c13b584ca182e29684102839468f225120694cae",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1833-2026-968f981e.md"
+    },
+    {
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1835-2026-2a5c00a1.md",
+      "sha256_antes": "e343715c35b714ad9b2f352d4bc37d76c7448a261d3971338dda1159a4e11484",
+      "sha256_depois": "0fc15537ecab8e81dd45a504a09a5a318c04ced7a899bd99e0b96ecfc0506445",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1835-2026-2a5c00a1.md"
+    },
+    {
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1831-2026-523793d9.md",
+      "sha256_antes": "a3c4510fe234004cb931578d282b004750f30f585ea48e4cfd39b468bcde8860",
+      "sha256_depois": "b3fb653c130abca857c415676f9554d27f9a1609714abac1c9344eeb1bc5a0a3",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1831-2026-523793d9.md"
+    },
+    {
+      "arquivo": "municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1832-2026-5f44f324.md",
+      "sha256_antes": "50c3dfdd88e4996ab9703b103e84d83304920a7feaa809056b71f7039af3e358",
+      "sha256_depois": "617c0e4b3c70c3c735fb4f412ed788d6e2ecea4ca636fc64aa8fc7a521a249c5",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/sao-felipe-d-oeste/leis-ordinarias/2026/lei-ordinaria-1832-2026-5f44f324.md"
+    },
+    {
+      "arquivo": "municipais/RO/itapua-do-oeste/leis-ordinarias/2026/lei-ordinaria-1251-2026-e7280545.md",
+      "sha256_antes": "459b107f59ca5181840d35f4b0b2f2b37781f088418993bdd788e41657e948ad",
+      "sha256_depois": "f6e8ec00f911eb92ae3164da9ac1e7a8e2b7a0f34abc2edb4142827ac12d19ea",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/itapua-do-oeste/leis-ordinarias/2026/lei-ordinaria-1251-2026-e7280545.md"
+    },
+    {
+      "arquivo": "municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12165-2026-68baa13f.md",
+      "sha256_antes": "6816d7f56bc7d4b2fd326a4e410b51350a575aca8027615970b2d143f68351f2",
+      "sha256_depois": "7d873822ea9af1ac9069a99b8bcb8ae7c4bfd57609f3da36b46f204d86d1ac8e",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12165-2026-68baa13f.md"
+    },
+    {
+      "arquivo": "municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12164-2026-071373ee.md",
+      "sha256_antes": "b9010ad0dca4e43dc30705af0d639d61007a887c354becc2449e574f0555be5c",
+      "sha256_depois": "45f96dc15c7f398407d627db676c69bc4a5e5f36f7f67a5b2e9e8b1856b3f5dc",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12164-2026-071373ee.md"
+    },
+    {
+      "arquivo": "municipais/RO/governador-jorge-teixeira/leis-ordinarias/2026/lei-ordinaria-1984-2026-4d4d9bb9.md",
+      "sha256_antes": "44765dc72867a07065a606e138dbbb6d63202973c5af253906db0c25f0830d42",
+      "sha256_depois": "282250e83822d829689cc8980f313783deff4b2f11f48776b113a38243b73fd8",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/governador-jorge-teixeira/leis-ordinarias/2026/lei-ordinaria-1984-2026-4d4d9bb9.md"
+    },
+    {
+      "arquivo": "municipais/RO/chupinguaia/decretos/2026/decreto-1720-2026-5bb042f6.md",
+      "sha256_antes": "44e249a2ae2338676df23b531f0db08734546959a333dbe498a70197371412e3",
+      "sha256_depois": "1fc6b23871762d4a02044e05b429f7ee2eccfbda99910b7a57ffdb5477a866c1",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/chupinguaia/decretos/2026/decreto-1720-2026-5bb042f6.md"
+    },
+    {
+      "arquivo": "municipais/RO/chupinguaia/decretos/2026/decreto-1718-2026-8b27650c.md",
+      "sha256_antes": "fa1bd7eaf2302c19458d3afae7bf84b9d78c3ba3d41f2a73a6591c650505a10a",
+      "sha256_depois": "1876b3d193bdb3fca81c9e82698942a13107be9765a9b8b52fc56a3359f92558",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/chupinguaia/decretos/2026/decreto-1718-2026-8b27650c.md"
+    },
+    {
+      "arquivo": "municipais/RO/chupinguaia/decretos/2026/decreto-1719-2026-e8f2efce.md",
+      "sha256_antes": "f6ac6b8032048801fd36c2342a32ad0bdcf1393808713fa45dfb4fc6b40f784a",
+      "sha256_depois": "4faade5426ef56294610150aa15e3ad99a2fe8d507c591cfb08edaa4ddfd917b",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/chupinguaia/decretos/2026/decreto-1719-2026-e8f2efce.md"
+    },
+    {
+      "arquivo": "municipais/RO/chupinguaia/decretos/2026/decreto-1721-2026-01975471.md",
+      "sha256_antes": "a830d1efce166d651f93650b0d58597f47fdd415c6c68e24c32006bb3756e0ea",
+      "sha256_depois": "86fd0135db2afe341ef0bf4946645c4efdbbe069cad04ed1dd9caf7fa26eb28e",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/chupinguaia/decretos/2026/decreto-1721-2026-01975471.md"
+    },
+    {
+      "arquivo": "municipais/RO/rio-crespo/decretos/2026/decreto-2785-2026-20c1b834.md",
+      "sha256_antes": "56cabfa2e3c22dc775e241172d9ffb3ad834ad1f6cb23b90f9bb1a90152a9c73",
+      "sha256_depois": "4a8ef75f9a89298dafe8377118803b1eaf04a4181fa39b2d2d9719809b589494",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/rio-crespo/decretos/2026/decreto-2785-2026-20c1b834.md"
+    },
+    {
+      "arquivo": "municipais/RO/rio-crespo/decretos/2026/decreto-2784-2026-d60fb958.md",
+      "sha256_antes": "2c1513adb4e30e31ab8d98eebfa2e9eea9d04dbca6cd51dc48f8fca2fc18ab95",
+      "sha256_depois": "3eddaad900afb3bce97aca3ef593a2e8864f000cbd7af10f5152f1f0915213ff",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/rio-crespo/decretos/2026/decreto-2784-2026-d60fb958.md"
+    },
+    {
+      "arquivo": "municipais/RO/alto-alegre-dos-parecis/decretos/2026/decreto-452-2026-225eda8c.md",
+      "sha256_antes": "a89be567ceafa480286d489038412fe2ba9f827933e06b128b17a694a7019314",
+      "sha256_depois": "e6a42e3abe5434732561d01a235b1090078ad9caf8a16a27de4209ac2a00c457",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/alto-alegre-dos-parecis/decretos/2026/decreto-452-2026-225eda8c.md"
+    },
+    {
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5235-2026-7d4469d9.md",
+      "sha256_antes": "c33098357ee8890159fd29b42f1da6d2fc38c417f14bb7fc3c6ff0f5d0859493",
+      "sha256_depois": "07568ad1f77038ae54c4a8895a280c750eb2f8db3c8b53b5eece29f4abee6d45",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5235-2026-7d4469d9.md"
+    },
+    {
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5234-2026-af47234a.md",
+      "sha256_antes": "c332380154d3a75d41f045fffafe0ecdfc842cdc8580c8f3b266fd7fcb1964e7",
+      "sha256_depois": "986e57644fbd16901c43c3d9da5867191e30d733a16a8e88d665e64c387e5f64",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5234-2026-af47234a.md"
+    },
+    {
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5237-2026-6534a6db.md",
+      "sha256_antes": "47d36b26479e4a58946bc2ff5cf1fb6d22bb572d448ed3fe087b2c6dc2ff70dd",
+      "sha256_depois": "a5b958625dc862f620648dfd356c1c35797c1d9c953b8da1b479e12993de301c",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5237-2026-6534a6db.md"
+    },
+    {
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5236-2026-4c2f22b2.md",
+      "sha256_antes": "266b15d300df90fa31f763083611ce721fdc90d680743680a68ee98bcc235e43",
+      "sha256_depois": "086d5add5a81369c5a72ed3d5e6dd425f5eca4d4c6a190af6ef8380f07536e55",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5236-2026-4c2f22b2.md"
+    },
+    {
+      "arquivo": "municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5238-2026-3daf1d47.md",
+      "sha256_antes": "f2e2c7ffe986d7a4b31189cfc247b4fd47a42aff7afc504cec64cc2b541b52be",
+      "sha256_depois": "daa57d942fc7cc2a8e7dfd682b7ef7eee412990ea4bd6edcdabe7d142de40ab5",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5238-2026-3daf1d47.md"
+    },
+    {
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18255-2026-1a9def96.md",
+      "sha256_antes": "ba5f67f64fd30b063268784463d4464241110a946dc73f4c538b07e60d26f8f0",
+      "sha256_depois": "f2bc8716cb701b36c599903bb1975c438b4941e08f4065d0289a428c57106a13",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/guajara-mirim/decretos/2026/decreto-18255-2026-1a9def96.md"
+    },
+    {
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18268-2026-a8401c4c.md",
+      "sha256_antes": "b2ef73967b3e550c18fa2f5bfc936bb4514c59fe6f9e481b387964dc68b3c216",
+      "sha256_depois": "f6791479496a10771c5623c984a46afa06ae4a2e243d30a92641dd43bbbff53e",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/guajara-mirim/decretos/2026/decreto-18268-2026-a8401c4c.md"
+    },
+    {
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18258-2026-080b3668.md",
+      "sha256_antes": "acd1c817d46f3172b74e9c3252678ca570f654a04d5a6a3051f4f04ba2015753",
+      "sha256_depois": "1b3846bbd158d99b15fb1832b5015cf7cceaf3c28a0f0048c3002471abdf8b64",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/guajara-mirim/decretos/2026/decreto-18258-2026-080b3668.md"
+    },
+    {
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18264-2026-1e48a02e.md",
+      "sha256_antes": "50f4f27872c5d6316a7e3fc8c02a64697e930de28e0d4de438b83c18e1ad2181",
+      "sha256_depois": "701a261f4588e372cd91b00249cced106abd11bd1991de9931cb33a557fb2fc6",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/guajara-mirim/decretos/2026/decreto-18264-2026-1e48a02e.md"
+    },
+    {
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18265-2026-2a1560bc.md",
+      "sha256_antes": "ddf1265365e16db5bc240e18de9f2f65ff419344f3f12445b442ed80f13f3faf",
+      "sha256_depois": "13d57829d116a28d83fdfbb1b8b67198419b3cd86f63aca3668acd0c4db0beff",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/guajara-mirim/decretos/2026/decreto-18265-2026-2a1560bc.md"
+    },
+    {
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18263-2026-9c5ed601.md",
+      "sha256_antes": "1221445396914f64d6a36be2cc6e4580237d49d8896e6095b8d2b7f1de226db9",
+      "sha256_depois": "fed177aee56eb87caaa4b0f297db7c8ecf97c4e812891baf9da4b8609fe5ac7b",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/guajara-mirim/decretos/2026/decreto-18263-2026-9c5ed601.md"
+    },
+    {
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18261-2026-73bbbb74.md",
+      "sha256_antes": "280ec4354bdf8bc7aaafae5e621f4894584a522614a13cbbca4793bb1edc5a46",
+      "sha256_depois": "a990bf6d980b0a182478c0433c5f24d573c41d371a7aee71fd842126d9218d3c",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/guajara-mirim/decretos/2026/decreto-18261-2026-73bbbb74.md"
+    },
+    {
+      "arquivo": "municipais/RO/guajara-mirim/decretos/2026/decreto-18270-2026-57a5d949.md",
+      "sha256_antes": "3ba9b2e80a198ca3325505d014fc6341cdc79a254093764ece9fda4f244fd512",
+      "sha256_depois": "031316b14d93dabdd25e7054337e4eed1551345b8a893dd6d1d60d4accbbfd9b",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/guajara-mirim/decretos/2026/decreto-18270-2026-57a5d949.md"
+    },
+    {
+      "arquivo": "municipais/RO/monte-negro/resolucoes/2026/resolucao-28-2026-84a2d5f5.md",
+      "sha256_antes": "7f0a55c8a219fa87b3544f7f1e76a5eca3e726991ae1ecfca11a4acdadb20fd7",
+      "sha256_depois": "5c79a5a75a21ea963757293bb69e92a92b21af8e857cf4922123f9f23cdde3cd",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/monte-negro/resolucoes/2026/resolucao-28-2026-84a2d5f5.md"
+    },
+    {
+      "arquivo": "municipais/RO/monte-negro/resolucoes/2026/resolucao-27-2026-8f1afa04.md",
+      "sha256_antes": "1e6d7fb3607ac7391c7776a95b39d1d81fc39923616df79e1a3ce4dd19740c27",
+      "sha256_depois": "6e971ff932b89c845c722958fe294485de3c8fc33d626e0d6b40c592cce07f93",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/monte-negro/resolucoes/2026/resolucao-27-2026-8f1afa04.md"
+    },
+    {
+      "arquivo": "municipais/RO/monte-negro/resolucoes/2026/resolucao-26-2026-998fb8e5.md",
+      "sha256_antes": "8b77741caaa08359db3a1854beb62215e9478c253c399d47561e80ff91852d9f",
+      "sha256_depois": "9c846ad30e2fb3c8742caa82daa5f32a824a794aecfbd7ca233864c521d3e8cb",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/monte-negro/resolucoes/2026/resolucao-26-2026-998fb8e5.md"
+    },
+    {
+      "arquivo": "municipais/RO/monte-negro/decretos/2026/decreto-4826-2026-7ceccf0a.md",
+      "sha256_antes": "8303e2be6792869a0db1f2c261d18592814cca139dbdb61911e4790c8868b9e1",
+      "sha256_depois": "0162c5586a7ea782707ebe5ac57f53c0977f487a91153e7d2866138b4c491edc",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/monte-negro/decretos/2026/decreto-4826-2026-7ceccf0a.md"
+    },
+    {
+      "arquivo": "municipais/RO/alvorada-d-oeste/decretos/2026/decreto-258-2026-d5d4863d.md",
+      "sha256_antes": "a2846a92fb28a1357c53b6c84837c5b3c0887a7284830cb9bbdb622968f84101",
+      "sha256_depois": "86f7c0971952fced0b44c797cb033b8a56f28a0bc3a7fec126442b7855b34c15",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/alvorada-d-oeste/decretos/2026/decreto-258-2026-d5d4863d.md"
+    },
+    {
+      "arquivo": "municipais/RO/parecis/decretos/2026/decreto-1222-2026-bb0c970e.md",
+      "sha256_antes": "d3fa6c81e1124ef9ae00fb45224abb1e7e1b2fa26489ec9d2de1fb95869e7f0a",
+      "sha256_depois": "03512a0e5491918a288a8d2e2ef0d0f8572764153144f9783efaebbd937cc165",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/parecis/decretos/2026/decreto-1222-2026-bb0c970e.md"
+    },
+    {
+      "arquivo": "municipais/RO/parecis/decretos/2026/decreto-1221-2026-6d75652d.md",
+      "sha256_antes": "d739b361c360b47a186ff4badbdd107fed327803bb9a4b4cc359afafaa6fb2a3",
+      "sha256_depois": "ed521292a720e5018d0e68967bc83b46091a62818fd7bc8117cab6bad902b4cf",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/parecis/decretos/2026/decreto-1221-2026-6d75652d.md"
+    },
+    {
+      "arquivo": "municipais/RO/parecis/leis-ordinarias/2026/lei-ordinaria-1389-2026-ff6e8b83.md",
+      "sha256_antes": "586c8ebdfd9ac277cd3f5cc49a5f1411ea207e8c2fc3570d71c6bbd95053998e",
+      "sha256_depois": "5b95a556cea94ca157eb37d1e6bf8f27a276c7da45cb231dd4a1d40003b92827",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/parecis/leis-ordinarias/2026/lei-ordinaria-1389-2026-ff6e8b83.md"
+    },
+    {
+      "arquivo": "municipais/RO/mirante-da-serra/decretos/2026/decreto-4023-2026-86a69394.md",
+      "sha256_antes": "fd307c79c85eb55ce7057b5852dc5cd57f3f138463e0d37b8faa87a1e7bb8512",
+      "sha256_depois": "74adf93c2742b558ca1ae0b1cb9ff6f77acfc9b46e1224eeeef0edd8d508d97c",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/RO/mirante-da-serra/decretos/2026/decreto-4023-2026-86a69394.md"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/19F9C22C.json",
+      "sha256_antes": "2200f01f279cda19fa962f4158b8ba8b9f821ad4005924fc194da5478b6d20a7",
+      "sha256_depois": "00ae6c461c331677e6483aa6f612fe1b24dd84eef0b621c6b4bd7147d54d8707",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/_referencias/diarios/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/19F9C22C.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/257228D7.json",
+      "sha256_antes": "3383141e30541a34382d2dc73f5f11029e97191cf19f1de224657ecf38310a3e",
+      "sha256_depois": "f905d6220790e4f46edbe97f96261d8cc67af317b4fa275da654801c66547956",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/_referencias/diarios/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/257228D7.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/195C1345.json",
+      "sha256_antes": "f03b380a393b0b6695e1c871fb937ed20ff3890a38fe07bfd0641e24a631bc3b",
+      "sha256_depois": "64312fb7a01ed7963293e5af4c6b6979491008b4cafb0560e43c8d2316c40f6e",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/_referencias/diarios/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/195C1345.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/9B064060.json",
+      "sha256_antes": "eb7a68e97ba4783d75892a9a65e15e848f6c88312c1315d393420dd14f28434e",
+      "sha256_depois": "9531c92d27cfe43e254645f82cd3c00eae95f676a572e42737bee4239542f2f0",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/_referencias/diarios/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/9B064060.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/E3AB79D4.json",
+      "sha256_antes": "b569376d3e266676ba1df4d9248e61d6acc308b2b12c8a3284322324ac1a8b6d",
+      "sha256_depois": "ce94cf32268d45a87acc1e0d570894272166d28bbd491a9563a8adb507577ef6",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/_referencias/diarios/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/E3AB79D4.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/0187444C.json",
+      "sha256_antes": "9c5bfc9d56d605366cbff6b5c21b9232fe0284a1fd03d987b9c19a546fa5de48",
+      "sha256_depois": "ccb2c29ba99cb7c5edd2dde0accae308330e9a85ce45efafc08aa0f546b258c0",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/9c763b594f8e404861b9f13e6a1c082b24b6869fc3148bd342f6e2e0dc1c6fff/geometria-colunas-v2/d699960a23a54118bba6fbb0087afddd/municipais/_referencias/diarios/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/0187444C.json"
+    },
+    {
+      "arquivo": "municipais/AM/manicore/decretos-legislativos/2026/decreto-legislativo-001-2026-ab81eb6a.md",
+      "sha256_antes": "a690bc50ab18acf57c2a1ed8cd4021eb79a3689020de604eb2f90feda3b8c9d6",
+      "sha256_depois": "0975c3faed8e49f6b8c31b555d4b40b0ec835038eed7c6bd569cd8e41da2feb4",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/manicore/decretos-legislativos/2026/decreto-legislativo-001-2026-ab81eb6a.md"
+    },
+    {
+      "arquivo": "municipais/AM/maues/decretos/2026/decreto-040-2026-a2f537e3.md",
+      "sha256_antes": "eea168110dd43baee10039352e7efa0129f721d750f251f1070143ae3fc1d419",
+      "sha256_depois": "a23e922a72704423594d157c308b9220f37768cbaa27b574a877d0940102c8cb",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/maues/decretos/2026/decreto-040-2026-a2f537e3.md"
+    },
+    {
+      "arquivo": "municipais/AM/manacapuru/decretos-legislativos/2026/decreto-legislativo-335-2026-c0025e97.md",
+      "sha256_antes": "ea10a9347c2573371db5e12f903d567b7297ca14d19c8402f3bfaa273c857232",
+      "sha256_depois": "2a93276c12191ed5237d6afa8c61081dfdd07ab56f9fcfa9cc075c56b0796628",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/manacapuru/decretos-legislativos/2026/decreto-legislativo-335-2026-c0025e97.md"
+    },
+    {
+      "arquivo": "municipais/AM/manacapuru/decretos-legislativos/2026/decreto-legislativo-334-2026-6dfabb0f.md",
+      "sha256_antes": "834d992d9bf970baa2334c131a569f3d9a0c15d46cdbe59ee3c166bac63aa1f5",
+      "sha256_depois": "e59f9a314924a54fd93f6dfa22ad01374d02bac1cd7858f927cb3ab59b37ee22",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/manacapuru/decretos-legislativos/2026/decreto-legislativo-334-2026-6dfabb0f.md"
+    },
+    {
+      "arquivo": "municipais/AM/manacapuru/decretos-legislativos/2026/decreto-legislativo-336-2026-b0bf1034.md",
+      "sha256_antes": "5968ac6b62db28fd4f954d7d2866d195b920d04165ff65a44df7dd25a3ff437d",
+      "sha256_depois": "f52b521f9520343562fd36c81694e3f9981041cf7e596d8e5b0c4ba5740432d5",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/manacapuru/decretos-legislativos/2026/decreto-legislativo-336-2026-b0bf1034.md"
+    },
+    {
+      "arquivo": "municipais/AM/santa-isabel-do-rio-negro/decretos/2026/decreto-67-2026-9cac9cfd.md",
+      "sha256_antes": "15894ca7f584323323115ea763dab7dc1069bcbe6534bcaaca6a6c6c354c4c74",
+      "sha256_depois": "b822524ed53f39f0ffe673c2cd01245d0925f07e1f363cf7c128c714573230cd",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/santa-isabel-do-rio-negro/decretos/2026/decreto-67-2026-9cac9cfd.md"
+    },
+    {
+      "arquivo": "municipais/AM/barreirinha/decretos/2026/decreto-316-2026-7de93ec4.md",
+      "sha256_antes": "873d08483fee4ae71a869b0b4b9a558e644a3418fb3d037ee0719b8b2eb2410d",
+      "sha256_depois": "14f0be210c7f5d198c1901f99a3692755e98d4200f500185916dedce805c70e7",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/barreirinha/decretos/2026/decreto-316-2026-7de93ec4.md"
+    },
+    {
+      "arquivo": "municipais/AM/caapiranga/leis-ordinarias/2026/lei-ordinaria-004-2026-cfae5068.md",
+      "sha256_antes": "93e03f69ad2e6648bd8d3235d8ef3be9a565a01184f453aa4db38b558f132bbf",
+      "sha256_depois": "3f13cf97f2bc15df96cf1de2da110638a94e965afc7039f7b1dc7e7250ab1b4d",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/caapiranga/leis-ordinarias/2026/lei-ordinaria-004-2026-cfae5068.md"
+    },
+    {
+      "arquivo": "municipais/AM/rio-preto-da-eva/decretos/2026/decreto-013-2026-d7bf6cd9.md",
+      "sha256_antes": "9cedd3209be5070da55c1e999e60813c640eba0777fa84d4d4c9aa64191a85e7",
+      "sha256_depois": "0c921999442be33eacfd034279a0cc3c8420001d8afd6ff479f6687e592d1544",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/rio-preto-da-eva/decretos/2026/decreto-013-2026-d7bf6cd9.md"
+    },
+    {
+      "arquivo": "municipais/AM/japura/decretos/2026/decreto-168-2026-43d6b4fa.md",
+      "sha256_antes": "822b1cdf7ac361327d60b1779e6dbb97451e728400ebfa4a9e6e2a3346ba00dc",
+      "sha256_depois": "aba14de4903ee8d16fb0b5c621deacdddd12f9906cc17e4126642a172fa72f25",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/japura/decretos/2026/decreto-168-2026-43d6b4fa.md"
+    },
+    {
+      "arquivo": "municipais/AM/itacoatiara/decretos/2026/decreto-274-2026-33ed2ada.md",
+      "sha256_antes": "b903bd3ea4fc2ddfaab2411a172948bc2390b499d5e5e6556ba28bbefa145677",
+      "sha256_depois": "9fb09b2be51d9f285d790d6b859942f465997540a9dd374d759b682d7c1feb2d",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/itacoatiara/decretos/2026/decreto-274-2026-33ed2ada.md"
+    },
+    {
+      "arquivo": "municipais/AM/envira/decretos-legislativos/2026/decreto-legislativo-001-2026-c7b2b1fa.md",
+      "sha256_antes": "7f5dc03eff301f0363dbddd3f2cb4f08eff59429ff83613e677bccc1f6a49826",
+      "sha256_depois": "8c95b91a2a8b4ac274a57f9697aad174292eb436ffad4f4c2d2bb4989e69e0a1",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/envira/decretos-legislativos/2026/decreto-legislativo-001-2026-c7b2b1fa.md"
+    },
+    {
+      "arquivo": "municipais/AM/envira/decretos-legislativos/2026/decreto-legislativo-002-2026-bcf7ac1e.md",
+      "sha256_antes": "1e2bee698f9ec5de82bd92749aa93a44a9803988c9ac867fd5a8757db22b4d4f",
+      "sha256_depois": "d8dab931fb618874f929a6e13dd9547962c88f1d08512eb675f44dcbb7fa081a",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/envira/decretos-legislativos/2026/decreto-legislativo-002-2026-bcf7ac1e.md"
+    },
+    {
+      "arquivo": "municipais/AM/parintins/decretos/2026/decreto-45-2026-be7da994.md",
+      "sha256_antes": "b27c85a3ee77bd2ed9ddf5e983d5d5a9e91eae6eefd56bfc0065bdd8b3330de7",
+      "sha256_depois": "4d87be343692c2f64b1cd430e5ecbaeb3286a0e2d0f3a10aa7c33eb66a8b5a98",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/parintins/decretos/2026/decreto-45-2026-be7da994.md"
+    },
+    {
+      "arquivo": "municipais/AM/parintins/leis-ordinarias/2026/lei-ordinaria-1047-2026-cb9c4564.md",
+      "sha256_antes": "accdb7b66f864270aa0a0be60989500ceeaadc0b734be59fa4007a9be3ea89c0",
+      "sha256_depois": "a0b396e3e830909b857b30265fc46e36efcb25887cdf3c8195b3c05d70aa6935",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/parintins/leis-ordinarias/2026/lei-ordinaria-1047-2026-cb9c4564.md"
+    },
+    {
+      "arquivo": "municipais/AM/eirunepe/decretos/2026/decreto-049-2026-3590798f.md",
+      "sha256_antes": "019cfae7b36394b4b0ba28be3c2532ee24bf9aba2758374a00421dcf5e6f7e9a",
+      "sha256_depois": "0a02d422eb5409ff065090fcf410bc9ab535df66ed259ec9f0f0066392acf58f",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/eirunepe/decretos/2026/decreto-049-2026-3590798f.md"
+    },
+    {
+      "arquivo": "municipais/AM/eirunepe/decretos/2026/decreto-048-2026-745d9193.md",
+      "sha256_antes": "4056dca2e2e4e882572275574acbfc13c43c768b31735bc49972ad0fc623b99f",
+      "sha256_depois": "afff48c5fdeb63b5705c39e8554dcfd1a60e1162e00bb87e7057646e59f4a727",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/eirunepe/decretos/2026/decreto-048-2026-745d9193.md"
+    },
+    {
+      "arquivo": "municipais/AM/eirunepe/decretos/2026/decreto-050-2026-68e3df14.md",
+      "sha256_antes": "5432f4d5eaf0daa3d06fcdb6a8c294616b00329f16da040e7f0a350b93a7df59",
+      "sha256_depois": "dbec8ceeba7ba09b4b01d0f31e63413ab23b9c4480c480030e7a1a4fd80c72e0",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/eirunepe/decretos/2026/decreto-050-2026-68e3df14.md"
+    },
+    {
+      "arquivo": "municipais/AM/fonte-boa/leis-ordinarias/2026/lei-ordinaria-005-2026-0a95f62f.md",
+      "sha256_antes": "b7d07bee3cd7b6f9bcd24fea7628fcc556136c68e70f16c5e9eface11383b396",
+      "sha256_depois": "4276a6ed8c80db75abfba6ad609627db5be717c64af6f182a0ed0410285804bc",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/fonte-boa/leis-ordinarias/2026/lei-ordinaria-005-2026-0a95f62f.md"
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-198-2026-9009ae99.md",
+      "sha256_antes": "22e74ed49004ea7fbea6e09d9ce173975d4d5c58696e284d0be9ff13eccc733a",
+      "sha256_depois": "991b78aa57a62e1c602cf918ac29a6b0e60c71cbca1ef98b82c37469898881a9",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/tabatinga/decretos/2026/decreto-198-2026-9009ae99.md"
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-191-2026-2b9cd65f.md",
+      "sha256_antes": "c46278cf785bcb281447411adf1546ee6c7e24827f8277ca688e29ae055469be",
+      "sha256_depois": "65f8eb5feaf301a890a1894fb8f97ace7f7f59a4e8dc718a545c59f1fd9fdd11",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/tabatinga/decretos/2026/decreto-191-2026-2b9cd65f.md"
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-200-2026-69aac0cd.md",
+      "sha256_antes": "57aa24fe52a5c61e3d9e5dc3efa0ac118c139063c8519d28d54fc7070ca3e587",
+      "sha256_depois": "655703c49bf998d7812851678a9e05aac45e99d05ca1adc718db64d40b4e9941",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/tabatinga/decretos/2026/decreto-200-2026-69aac0cd.md"
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-199-2026-e9493547.md",
+      "sha256_antes": "1ef8b81f90998b32004e7a9b1fe51733a88d3201c8793039042f59c3d805e8d1",
+      "sha256_depois": "0f6efaa3b490326401d24bf8e96ae1b418086930f7710803a104e792a34be954",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/tabatinga/decretos/2026/decreto-199-2026-e9493547.md"
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-195-2026-ab012d67.md",
+      "sha256_antes": "903e0cc03dc30c05dc461b17298e6c5b45be497fed8552e6a0ae4e9ccab864e3",
+      "sha256_depois": "bb580e8eef6b6c9a78a6dd89942def9264aa1bef541d15a980b2f2fee6fad666",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/tabatinga/decretos/2026/decreto-195-2026-ab012d67.md"
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-192-2026-4096d8e6.md",
+      "sha256_antes": "a263dd363e95de4fa55529b079ac6949319b6b152803e43f8ecaedc97d87e528",
+      "sha256_depois": "d5b2d86a5c202c281affd6a348f2e270e29daa4a2175a8547293bf7ab37fc583",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/tabatinga/decretos/2026/decreto-192-2026-4096d8e6.md"
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-196-2026-576a9e94.md",
+      "sha256_antes": "f62ebda56c214bc86fd944e34a6a4a4e5b427954f0ba7e58637fd46265761bd8",
+      "sha256_depois": "652deab13ba7b88c265ddb4324d025bbcc1051abfd76da05b86e0ac5d18581bf",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/tabatinga/decretos/2026/decreto-196-2026-576a9e94.md"
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-202-2026-9f6f14af.md",
+      "sha256_antes": "724cdbfb624d0ffe30e94b362d67b9a86f983819ad754096b20233b52f00d2c0",
+      "sha256_depois": "df028a608637a92860b165072aecac93594e1effc25891be56e5b6d9f7c3a356",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/tabatinga/decretos/2026/decreto-202-2026-9f6f14af.md"
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-201-2026-d41f4c7f.md",
+      "sha256_antes": "91ff3afd5f0a50a899e408a5aa8590683827ae60860c0294ee375c830c965fdf",
+      "sha256_depois": "c2e7d0240d16e9b96472ac8b3009b1aef27a071a003a37c8731cc3ba63f29b41",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/tabatinga/decretos/2026/decreto-201-2026-d41f4c7f.md"
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-197-2026-4addeb86.md",
+      "sha256_antes": "9153e33594631eb8e86bf6c7e3ec6b278ce49216df35fe206664c0fbfc05c912",
+      "sha256_depois": "e919b529d26006e6a815bf42f3febfe40ffa7124c5dd4a62260fc337e1c8c40d",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/tabatinga/decretos/2026/decreto-197-2026-4addeb86.md"
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-194-2026-134f2086.md",
+      "sha256_antes": "e5c64fdfa0df1bc190a79db94ef7b4b4201ee4b0afc7aee1883f99c622c2a64c",
+      "sha256_depois": "a2b24ca2f71b14fad9f99a15ba16b4a09d3893469ccb1393884c2bb140abc2ef",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/tabatinga/decretos/2026/decreto-194-2026-134f2086.md"
+    },
+    {
+      "arquivo": "municipais/AM/tabatinga/decretos/2026/decreto-193-2026-221f0d98.md",
+      "sha256_antes": "1f53a4de0f717e134a472771d3aefe80707b1265806922e3d6e9dc0c4463bee0",
+      "sha256_depois": "58c27221399b853043549aa453c1b72895be1f35ddaf2891e025e2eacc2e9df2",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/tabatinga/decretos/2026/decreto-193-2026-221f0d98.md"
+    },
+    {
+      "arquivo": "municipais/AM/itamarati/leis-ordinarias/2026/lei-ordinaria-650-2026-7d10112a.md",
+      "sha256_antes": "685407d4fec8119901b783e1b133676114210156d05e41dc8322b62a0b7a8e29",
+      "sha256_depois": "74a66101a1c3e37faf71265edf9b9c4a3741dcf3bddd75103eaa4f07af453554",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/itamarati/leis-ordinarias/2026/lei-ordinaria-650-2026-7d10112a.md"
+    },
+    {
+      "arquivo": "municipais/AM/itamarati/leis-ordinarias/2026/lei-ordinaria-651-2026-129745cf.md",
+      "sha256_antes": "6b4a0a7a693af7d4737e9027d47bbcf84177c6a4bbff0b81a84cf6a9942ade8d",
+      "sha256_depois": "3c4b9b86a80106c1020c7e2d64bf57198285c9b579c6275a29f0a0d2273b9c7b",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/itamarati/leis-ordinarias/2026/lei-ordinaria-651-2026-129745cf.md"
+    },
+    {
+      "arquivo": "municipais/AM/tefe/decretos/2026/decreto-044-2026-434281fb.md",
+      "sha256_antes": "80ada598c8115dbacb2a6317caba36220ba715e8df413a35c30f2748143b88cb",
+      "sha256_depois": "1b0804c258058629a912d47acf45b53ad2c8ce6abc97d2c66bede3544c9cef4a",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/tefe/decretos/2026/decreto-044-2026-434281fb.md"
+    },
+    {
+      "arquivo": "municipais/AM/humaita/resolucoes/2026/resolucao-07-2026-de12321a.md",
+      "sha256_antes": "42bb039b3662a251b4d02815a7bc95eb98ccf7d1585821cc7718afe66ea8aab7",
+      "sha256_depois": "c659fae2b4f566d94f44a34d8d0cf0f02d2fddc929dd0c6a2ba2a1e7a505c899",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/humaita/resolucoes/2026/resolucao-07-2026-de12321a.md"
+    },
+    {
+      "arquivo": "municipais/AM/ipixuna/leis-ordinarias/2026/lei-ordinaria-286-2026-1d98bbad.md",
+      "sha256_antes": "7de97c9b59c1f287824d294677332662386edefce45ff6eb16c4b2c20616ef77",
+      "sha256_depois": "7937b2dffa6fc287498eee3e38f9b31b589fdbbf50ca2e3b935cd07fc1863fb1",
+      "campos": [
+        "sha256_classificador",
+        "data_serializacao"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/AM/ipixuna/leis-ordinarias/2026/lei-ordinaria-286-2026-1d98bbad.md"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/EEBA6AAF.json",
+      "sha256_antes": "cb1466fdb5ab4f748bc72aa3bde8c6e2a1fee36139446469c0a86bd8768d23d1",
+      "sha256_depois": "f808fce2771f67382dbb6aea9179a429111454123b0f6d31e24993343d4aa194",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/EEBA6AAF.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/84723106.json",
+      "sha256_antes": "495c9db025736be2f948a58d67989bab6ede5de306083211c1a72536c4652790",
+      "sha256_depois": "73dd97b1717150500881699245de73cdec6f499fb6c56a7e862b9eea9385ad4d",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/84723106.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/88E8CD65.json",
+      "sha256_antes": "b64aae142f025658b4b9b618fa935dc34d744531552726506dcda04f58ad820f",
+      "sha256_depois": "a056a486ec72302266d01b7f422337833fc570d480089a76ee6aff3ca7fae766",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/88E8CD65.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/CC004776.json",
+      "sha256_antes": "643ddd8a0ba21d6ddf5d8b7cdee9f7549be102dcae725091bb879b5976ea9850",
+      "sha256_depois": "1059f33f3327fd78ba08d4c95abdc3100237747a7052979457d78a2d7ff25dbb",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/CC004776.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/DBD13F09.json",
+      "sha256_antes": "03ccd8a702e81a6bbbb213a4001c708b6bf11ab5d98b146a667a5d484ad5fb6f",
+      "sha256_depois": "b6c93eb06a73161a28f093abdb667f2848cd938eb7fe072592d8dc01fc9df2f7",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/DBD13F09.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/530B4229.json",
+      "sha256_antes": "a545e0b70eb72e4bdeca204fe462fc5a7f03c7f537d7dea6ca10f91369712b57",
+      "sha256_depois": "3b9077c1ed9cbf0cb25d4bacd5e0fdf5e9fe20860aa5d45d8ed8a3dd36259fe1",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/530B4229.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/71037C91.json",
+      "sha256_antes": "32eda1945b4daafba1c0e93b5c3a4242e45ed4b719994b9ee61a3f886840c84c",
+      "sha256_depois": "bc3338ffeda6060df1fbb4208b27113ec6053783cda04ec598963141dcffa6da",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/71037C91.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/D1E3026B.json",
+      "sha256_antes": "063eb9764c6df7b3dbe304997654e409d3e0f2db49177e0bc9d7bd38dc6844a0",
+      "sha256_depois": "d81223f53439ce42876bc7dc243f64d592fab506ec4e06845b2c21f2c03c9c54",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/D1E3026B.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/C3820FB2.json",
+      "sha256_antes": "49ef66d885def8bc039f01d599de9296186b1c56446f5a04a7c1c7b353c23579",
+      "sha256_depois": "a10e7b12b2e874ea0313dc9d3c8ce272d6bba64994a0fe3d4608212351759cda",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/C3820FB2.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/AC9BA669.json",
+      "sha256_antes": "a8620e0e28c98ece192454434fba14cfc90429cc91c9bc895591fc702ea7bad7",
+      "sha256_depois": "9d25a8275d008d1385111e019da964920cfef569ea65c08e2794ee8cc73a61f9",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/AC9BA669.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/36FDCD25.json",
+      "sha256_antes": "da14be8684fb95741145933071c4206c398a5f5abd24bf2eeb70d4890a0b1665",
+      "sha256_depois": "32458374e483c8430bc140451d9f105fc3c5a9b08a059adaa9dc3e9477245ede",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/36FDCD25.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/53E753C0.json",
+      "sha256_antes": "98d081f64f92965d92944ba1e7713d9d1bfb714641eb7326e17249cf30b185bb",
+      "sha256_depois": "dcba1e9084ecf4aa29ebd7e6ec4a2f3af17b7e5e6be597aa1aae43e4065c04ad",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/53E753C0.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/D28685A6.json",
+      "sha256_antes": "01a6ba0046e26bc9dab76596f2f891b6ca1f54814c82e4915978c1caa5d77670",
+      "sha256_depois": "ded250d1c73d4a30c5c845ed5cbf2f7a73cabd7e0b5898e710c73481f8e2dfb5",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/D28685A6.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/676CC42C.json",
+      "sha256_antes": "ebb3dcc3fef7d661af6be73f1e2818c2e8dc67dc9049b25aef17b1e5831b838e",
+      "sha256_depois": "4343a9a49c0d9f51c49401e04684375ff25b2fd87c2966167dfca3b31975b869",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/676CC42C.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/B1F24BE7.json",
+      "sha256_antes": "d26c30f63ff6fc88aaaa06c84c5582fa3f8e514dd5108614a3169886a0953e17",
+      "sha256_depois": "c424bb08867a4c66c44b849873e2e8adc0e1aa58b1f3a55e657fb2988b3e1f91",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/B1F24BE7.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/72C21D3E.json",
+      "sha256_antes": "1bdf62979e245223dbd868edb9f08ce02c31991b73f72a5c63e1097c7308193e",
+      "sha256_depois": "f20dfa5ca030c1951e92568c917728a310934d154f50c53b85f03027eb521769",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/72C21D3E.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/3D9FDCD6.json",
+      "sha256_antes": "65b5e60306eb5182e64240f850ce3db27c404da260107d2de346b93db2558a8d",
+      "sha256_depois": "09e904352403974f18f03740601ab3824f3ed99b4cc8e6f0c18f8f83ca481f48",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/3D9FDCD6.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/A74516C3.json",
+      "sha256_antes": "2bd6a375dec268ed6b63d85e8f0a89fb1e5bed2591c554e4ce7c101f7c2b1138",
+      "sha256_depois": "27cd979f23aefdf36f0258ae020db4dfb89d0479a90c491c4e6a0d2ddd89ec24",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/A74516C3.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/DD1E1B78.json",
+      "sha256_antes": "c46b88228c6793558802d5a3f0b31655e2f6f474bc0d8f064bb84b860a0d46ac",
+      "sha256_depois": "8f644787056368cf570c0c99936e60f2fbee43e216026346eb5b4c0912b88fa2",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/DD1E1B78.json"
+    },
+    {
+      "arquivo": "municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/1F0F7542.json",
+      "sha256_antes": "7657c74acc8edb94bfed49a1723915ae0e7143cdd8c3c26eb307965b842961cd",
+      "sha256_depois": "ae91741270488b33959b8400d830637f8c72bab303d89b88f8dd849430517377",
+      "campos": [
+        "sha256_classificador"
+      ],
+      "candidato_reproduzido": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_reconciliacao-geometria/e98750d1e7024a73c6eab7356af0f1363f23c6a9f16c63e266b239956b94d75b/geometria-colunas-v2/40d75522767b4f8ebea83e9e158f4039/municipais/_referencias/diarios/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/1F0F7542.json"
+    }
+  ],
+  "excecoes_diffcheck_snapshots_preservados": [
+    {
+      "arquivo": "municipais/_fonte/reparos-colunas/famurs/decreto-0344-2025-9c325b05.md",
+      "sha256_preservado": "0cac407156dd37af131ef0ccc47f12db2e25e453547d0f86a0b20687faa0d75e",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/03339a15cd211eaf521e67536f0decd0deebccb85f0a29d68bf19e4e333301c7/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5235-2026-e3ab79d4.md",
+      "sha256_preservado": "03339a15cd211eaf521e67536f0decd0deebccb85f0a29d68bf19e4e333301c7",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/052e862b55e2a89f192793959ebebb4534400b4c5d623867b8a2a0661f5d3968/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2368-2026-26788113.md",
+      "sha256_preservado": "052e862b55e2a89f192793959ebebb4534400b4c5d623867b8a2a0661f5d3968",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/0e05de0fb5c9bd3e8d0872433f4930fb47d6e3b439d776bf9b3b834b1bc7db64/municipais/RO/rio-crespo/decretos/2026/decreto-2785-2026-20c1b834.md",
+      "sha256_preservado": "0e05de0fb5c9bd3e8d0872433f4930fb47d6e3b439d776bf9b3b834b1bc7db64",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/14b4c7aa24b616b93f89a00e0dec57c03b3738b8fc9eb7d3cb1d2a42ef972411/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5238-2026-7d4469d9.md",
+      "sha256_preservado": "14b4c7aa24b616b93f89a00e0dec57c03b3738b8fc9eb7d3cb1d2a42ef972411",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/250de8487d85d4c7f68ecda4c01507ee14c0953a5fa2a4b20580a44e9651db60/municipais/RO/cujubim/decretos/2026/decreto-12164-2026-68baa13f.md",
+      "sha256_preservado": "250de8487d85d4c7f68ecda4c01507ee14c0953a5fa2a4b20580a44e9651db60",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/26b00c7cc72d536f1166cb205701f2422caf06f47164451c78beafa4a1cc4892/municipais/RO/cujubim/decretos/2026/decreto-12165-2026-4d4d9bb9.md",
+      "sha256_preservado": "26b00c7cc72d536f1166cb205701f2422caf06f47164451c78beafa4a1cc4892",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/27a38a060d066da0a62b355a38026c382e6e1a7d614bb62374c7f28c5e05ef08/municipais/RO/guajara-mirim/decretos/2026/decreto-18261-2026-8c6b435c.md",
+      "sha256_preservado": "27a38a060d066da0a62b355a38026c382e6e1a7d614bb62374c7f28c5e05ef08",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/2c0d3c150c3fa19afacec4f3142d120f38bc3c3646161bc59265ae28e8350c05/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2373-2026-ec2ab742.md",
+      "sha256_preservado": "2c0d3c150c3fa19afacec4f3142d120f38bc3c3646161bc59265ae28e8350c05",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/2df42adbbbd4eb3af3a95c34a63c87785e576e6d4967e892c4bb6a117725084d/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5234-2026-af47234a.md",
+      "sha256_preservado": "2df42adbbbd4eb3af3a95c34a63c87785e576e6d4967e892c4bb6a117725084d",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/3035b6bc5c5e777d0e20e9214a7d9c06e85bc8e7ed755027ff254e2c1c3dc635/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2371-2026-b31c8377.md",
+      "sha256_preservado": "3035b6bc5c5e777d0e20e9214a7d9c06e85bc8e7ed755027ff254e2c1c3dc635",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/30d98d3057b149335b668dcd7338e66d57993e2ffa95a8ae278d4e6232b25fca/municipais/RO/itapua-do-oeste/leis-ordinarias/2026/lei-ordinaria-1251-2026-ac149b26.md",
+      "sha256_preservado": "30d98d3057b149335b668dcd7338e66d57993e2ffa95a8ae278d4e6232b25fca",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/338c8cf8eb712fccdfa459e745dc07c67df9665701373106827bc90e08cf3590/municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12165-2026-4d4d9bb9.md",
+      "sha256_preservado": "338c8cf8eb712fccdfa459e745dc07c67df9665701373106827bc90e08cf3590",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/345a392201a891fb7ac080d75a668728ded863abda42fddd719daafeb6df5cd4/municipais/RO/buritis/leis-ordinarias/2025/lei-ordinaria-2274-2025-64c80fbd.md",
+      "sha256_preservado": "345a392201a891fb7ac080d75a668728ded863abda42fddd719daafeb6df5cd4",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/3d2a00f8b0efeb0a2d0ce0083f36a5c71b7b06dc41a1b17141604708b0ba4d9c/municipais/RO/guajara-mirim/decretos/2026/decreto-18265-2026-a8401c4c.md",
+      "sha256_preservado": "3d2a00f8b0efeb0a2d0ce0083f36a5c71b7b06dc41a1b17141604708b0ba4d9c",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/4a90c28dce6bf872c466e2adf05d9a12b591689111bc822e2f3afbc5ef470d13/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5238-2026-4c2f22b2.md",
+      "sha256_preservado": "4a90c28dce6bf872c466e2adf05d9a12b591689111bc822e2f3afbc5ef470d13",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/4d0314ad0ebb0018094b97e3dccc2ca7441bde97267d0ec3cfb833333aa0d366/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5237-2026-3daf1d47.md",
+      "sha256_preservado": "4d0314ad0ebb0018094b97e3dccc2ca7441bde97267d0ec3cfb833333aa0d366",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/64b8668dc2a0819edaeb7903c07bce6705221cdcf01f9448f7568053f95b381d/municipais/RO/guajara-mirim/decretos/2026/decreto-18263-2026-9c5ed601.md",
+      "sha256_preservado": "64b8668dc2a0819edaeb7903c07bce6705221cdcf01f9448f7568053f95b381d",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/69db76727d42689032fa4bc3b67f3321750c6e1484b116bc43d827404ff8d50d/municipais/RO/mirante-da-serra/decretos/2026/decreto-4023-2026-a167851d.md",
+      "sha256_preservado": "69db76727d42689032fa4bc3b67f3321750c6e1484b116bc43d827404ff8d50d",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/6dd334dfb0121ca8604cf56c6b60ec2343b8161b7ae81955aa85dc2346deb084/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2369-2026-0943e9a7.md",
+      "sha256_preservado": "6dd334dfb0121ca8604cf56c6b60ec2343b8161b7ae81955aa85dc2346deb084",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/83eadbec3142325b67866462f009a64645437828f196dc0f1c9856de6faa7307/municipais/RO/alvorada-d-oeste/decretos/2026/decreto-258-2026-d5d4863d.md",
+      "sha256_preservado": "83eadbec3142325b67866462f009a64645437828f196dc0f1c9856de6faa7307",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/8b4a16a63269f1e492ffd3088681609a38f90a5f9abcc207ab6d831dcb6a47b1/municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12164-2026-68baa13f.md",
+      "sha256_preservado": "8b4a16a63269f1e492ffd3088681609a38f90a5f9abcc207ab6d831dcb6a47b1",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/8ea0545485d0f4c78dafb917d00a0a42129bbc3693cc40f39525cef405186c30/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5236-2026-6534a6db.md",
+      "sha256_preservado": "8ea0545485d0f4c78dafb917d00a0a42129bbc3693cc40f39525cef405186c30",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/96fdeeeb22a4a9e4d201a77672df2daf881d239a78a6df8b5c8f8be3fe2b950d/municipais/RO/guajara-mirim/decretos/2026/decreto-18258-2026-1e48a02e.md",
+      "sha256_preservado": "96fdeeeb22a4a9e4d201a77672df2daf881d239a78a6df8b5c8f8be3fe2b950d",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/a2e2be68befd5342b74ef3425550f6a59bafc5e963ed1d27b4604c6c95a47ec0/municipais/RO/guajara-mirim/decretos/2026/decreto-18255-2026-080b3668.md",
+      "sha256_preservado": "a2e2be68befd5342b74ef3425550f6a59bafc5e963ed1d27b4604c6c95a47ec0",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/ad0f7f2a7657c03459273e49d5391fba6c805c01aec8716a1be5d0af5adaa14f/municipais/RO/alta-floresta-d-oeste/decretos/2026/decreto-452-2026-225eda8c.md",
+      "sha256_preservado": "ad0f7f2a7657c03459273e49d5391fba6c805c01aec8716a1be5d0af5adaa14f",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/b31c5efe9de424f91fbeb07fc3de7df4a9dd8032755e17bef9adbd4fdf3396b4/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5237-2026-0187444c.md",
+      "sha256_preservado": "b31c5efe9de424f91fbeb07fc3de7df4a9dd8032755e17bef9adbd4fdf3396b4",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/bda981a76283446f78e3e7984fdb2cd6fdb70873062fa85836e054456e6eb17a/municipais/RO/guajara-mirim/decretos/2026/decreto-18268-2026-8faedfc7.md",
+      "sha256_preservado": "bda981a76283446f78e3e7984fdb2cd6fdb70873062fa85836e054456e6eb17a",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/c07abec1889ee178508dbc7f385dcd301c82f9c25a769d31e2732a2509b336c0/municipais/RO/nova-mamore/decretos/2026/decreto-10031-2026-32a4338a.md",
+      "sha256_preservado": "c07abec1889ee178508dbc7f385dcd301c82f9c25a769d31e2732a2509b336c0",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/cf7f703ec9195bca4f9b881d026a4dd48bff9688eaad6d161e0d6c9c102ef4af/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5236-2026-9b064060.md",
+      "sha256_preservado": "cf7f703ec9195bca4f9b881d026a4dd48bff9688eaad6d161e0d6c9c102ef4af",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/eea7ee875e241f32bd53624b818782b47d8d60bb65232eb5bbd08d910a8f2f6e/municipais/RO/alto-alegre-dos-parecis/decretos/2026/decreto-452-2026-225eda8c.md",
+      "sha256_preservado": "eea7ee875e241f32bd53624b818782b47d8d60bb65232eb5bbd08d910a8f2f6e",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/ef1d6892c7b50c7df7cc5f361530612ce97bf2771223cb19368284dc84072eff/municipais/RO/guajara-mirim/decretos/2026/decreto-18270-2026-57a5d949.md",
+      "sha256_preservado": "ef1d6892c7b50c7df7cc5f361530612ce97bf2771223cb19368284dc84072eff",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v1/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/fc8c8352837bcdf4f814c4ef52b1619ce35c5220ff1549fc4e3bcaaaaf01592a/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2370-2026-a70aa45a.md",
+      "sha256_preservado": "fc8c8352837bcdf4f814c4ef52b1619ce35c5220ff1549fc4e3bcaaaaf01592a",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/05d14f047ef578dffa0c981debc42fcd721af2ab859c71c5d71f12e3263f75b0/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5234-2026-af47234a.md",
+      "sha256_preservado": "05d14f047ef578dffa0c981debc42fcd721af2ab859c71c5d71f12e3263f75b0",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/1e6f2034b02be92083dbf89421b4c40ac5b2040d07e078a4c0155cda94caaad8/municipais/RO/alto-alegre-dos-parecis/decretos/2026/decreto-452-2026-225eda8c.md",
+      "sha256_preservado": "1e6f2034b02be92083dbf89421b4c40ac5b2040d07e078a4c0155cda94caaad8",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/23e2debde10aa44b61f8eaadde1e45efa8727205d80877c4a583df19090bb8e0/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5238-2026-0187444c.md",
+      "sha256_preservado": "23e2debde10aa44b61f8eaadde1e45efa8727205d80877c4a583df19090bb8e0",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/29ed8435b6d2f6b54e48e4e752700b675c603e153efddf30fe576459dd9f23fc/municipais/RO/guajara-mirim/decretos/2026/decreto-18268-2026-a8401c4c.md",
+      "sha256_preservado": "29ed8435b6d2f6b54e48e4e752700b675c603e153efddf30fe576459dd9f23fc",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/43db728a15ab01844cf3cb6b1620cf0c3d5cb052ace8506e5d0941851907f454/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5236-2026-4c2f22b2.md",
+      "sha256_preservado": "43db728a15ab01844cf3cb6b1620cf0c3d5cb052ace8506e5d0941851907f454",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/4523ffa7dccef7a2cff098a9f9c019dd268462f5ce0815a04598cbb655ce9207/municipais/RO/mirante-da-serra/decretos/2026/decreto-4023-2026-86a69394.md",
+      "sha256_preservado": "4523ffa7dccef7a2cff098a9f9c019dd268462f5ce0815a04598cbb655ce9207",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/573a9c2bff1372823931faebe0790e66d8b77d865a1e6e13bcfae327dc398dc5/municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12165-2026-68baa13f.md",
+      "sha256_preservado": "573a9c2bff1372823931faebe0790e66d8b77d865a1e6e13bcfae327dc398dc5",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/586933cc6bab3a483733e0e0350619ada7fc953c6c3c2c8ce374478fef62ee9e/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2371-2026-b31c8377.md",
+      "sha256_preservado": "586933cc6bab3a483733e0e0350619ada7fc953c6c3c2c8ce374478fef62ee9e",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/62a6553c7e7b8878cf89483f5ba2a8e7a8042dd8c95638b4b9d482fee07424a1/municipais/RO/nova-mamore/decretos/2026/decreto-10031-2026-a6fad6be.md",
+      "sha256_preservado": "62a6553c7e7b8878cf89483f5ba2a8e7a8042dd8c95638b4b9d482fee07424a1",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/6e32049316d257845bb45b07f0c6455624999c184f89c33178867b5ead39f493/municipais/RO/itapua-do-oeste/leis-ordinarias/2026/lei-ordinaria-1251-2026-e7280545.md",
+      "sha256_preservado": "6e32049316d257845bb45b07f0c6455624999c184f89c33178867b5ead39f493",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/759bdec5dd3b4d7887317dfebf5508c611db4fc970b46fac40e90436409bcec2/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5237-2026-6534a6db.md",
+      "sha256_preservado": "759bdec5dd3b4d7887317dfebf5508c611db4fc970b46fac40e90436409bcec2",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/805daf40fa53c77a0abe5d19b106914dc2245ed1d7644baff7df52f5b91162fc/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5235-2026-7d4469d9.md",
+      "sha256_preservado": "805daf40fa53c77a0abe5d19b106914dc2245ed1d7644baff7df52f5b91162fc",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/92fffcf04a4f415335a4a8797b2802c56de91ee74bb151ca57b2031e931bdf1d/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2372-2026-64c80fbd.md",
+      "sha256_preservado": "92fffcf04a4f415335a4a8797b2802c56de91ee74bb151ca57b2031e931bdf1d",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/942f835e6acbe322f636322da77f0b1919ab8d6876484ef836b8473cae9e2e96/municipais/RO/governador-jorge-teixeira/decretos/2026/decreto-12164-2026-071373ee.md",
+      "sha256_preservado": "942f835e6acbe322f636322da77f0b1919ab8d6876484ef836b8473cae9e2e96",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/98df376975ff3ba505888e93dd024082a4e4ec0db4a68c5b23e5f959ea129ff9/municipais/RO/alvorada-d-oeste/decretos/2026/decreto-258-2026-d5d4863d.md",
+      "sha256_preservado": "98df376975ff3ba505888e93dd024082a4e4ec0db4a68c5b23e5f959ea129ff9",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/abb564079e89b67dacf5f0c5f80cf995e2eda430d54e484212a293465854ab3c/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2369-2026-0943e9a7.md",
+      "sha256_preservado": "abb564079e89b67dacf5f0c5f80cf995e2eda430d54e484212a293465854ab3c",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/b330bb7f63b4e8c5ae3fd7d2a9dfdb000b3a67e5b1f495b241f47c089c670983/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2373-2026-ec2ab742.md",
+      "sha256_preservado": "b330bb7f63b4e8c5ae3fd7d2a9dfdb000b3a67e5b1f495b241f47c089c670983",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/bf02294c2066dfcbd31bcdf092990019470b621262bda8b70bd146c2c85131b7/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5236-2026-9b064060.md",
+      "sha256_preservado": "bf02294c2066dfcbd31bcdf092990019470b621262bda8b70bd146c2c85131b7",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/c02b987be3028c074ca21586d0b9883d252a36a466b516bc17fb18ebe0e5107b/municipais/RO/guajara-mirim/decretos/2026/decreto-18261-2026-73bbbb74.md",
+      "sha256_preservado": "c02b987be3028c074ca21586d0b9883d252a36a466b516bc17fb18ebe0e5107b",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/d512d8228366be471e6da145a323fbe4a2597be6d707b649983aa391cf658d99/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5237-2026-e3ab79d4.md",
+      "sha256_preservado": "d512d8228366be471e6da145a323fbe4a2597be6d707b649983aa391cf658d99",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/da07f6e67436e9bb5d450e576f6e3cac23b9489f083eddcc8e60914372681d3d/municipais/RO/guajara-mirim/decretos/2026/decreto-18264-2026-1e48a02e.md",
+      "sha256_preservado": "da07f6e67436e9bb5d450e576f6e3cac23b9489f083eddcc8e60914372681d3d",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/dd88b2ce3c50919e9f3d8708edb2ad8ffa7bed4e3351e75b8b548c880e88b88d/municipais/RO/machadinho-d-oeste/decretos/2026/decreto-5238-2026-3daf1d47.md",
+      "sha256_preservado": "dd88b2ce3c50919e9f3d8708edb2ad8ffa7bed4e3351e75b8b548c880e88b88d",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/e19955d9032615a30d06679c6a661c93798ec50f0b7e004cbcf496f226c03598/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2368-2026-26788113.md",
+      "sha256_preservado": "e19955d9032615a30d06679c6a661c93798ec50f0b7e004cbcf496f226c03598",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/e5f7b02f09f40d68f0dcd9ec0ab40da35b851f3debfb4633c71a0cb10b28449f/municipais/RO/guajara-mirim/decretos/2026/decreto-18255-2026-1a9def96.md",
+      "sha256_preservado": "e5f7b02f09f40d68f0dcd9ec0ab40da35b851f3debfb4633c71a0cb10b28449f",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/e704ba1266b5e8791ee6eabbdbcc6a04cd9236635cfb2d79f6d8f1458ca688d7/municipais/RO/guajara-mirim/decretos/2026/decreto-18265-2026-2a1560bc.md",
+      "sha256_preservado": "e704ba1266b5e8791ee6eabbdbcc6a04cd9236635cfb2d79f6d8f1458ca688d7",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/ea8b822a49bc06dd300099454850e3b7787d8f075954069857132b0f5a969a91/municipais/RO/buritis/leis-ordinarias/2026/lei-ordinaria-2370-2026-a70aa45a.md",
+      "sha256_preservado": "ea8b822a49bc06dd300099454850e3b7787d8f075954069857132b0f5a969a91",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/eb6f2bcfdde8bcca57ff1bacbc73895a121d2deb69a144e246cca36c24eade5b/municipais/RO/guajara-mirim/decretos/2026/decreto-18270-2026-57a5d949.md",
+      "sha256_preservado": "eb6f2bcfdde8bcca57ff1bacbc73895a121d2deb69a144e246cca36c24eade5b",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/ebb2af7c746305690dda17219b02527c1f536ea585b8ba0bb14e9354048c9ecf/municipais/RO/guajara-mirim/decretos/2026/decreto-18263-2026-9c5ed601.md",
+      "sha256_preservado": "ebb2af7c746305690dda17219b02527c1f536ea585b8ba0bb14e9354048c9ecf",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/f4d7ee4721b83392933b90bca60f1e65ac07587fb7ea64cc2346b99884329e55/municipais/RO/guajara-mirim/decretos/2026/decreto-18258-2026-080b3668.md",
+      "sha256_preservado": "f4d7ee4721b83392933b90bca60f1e65ac07587fb7ea64cc2346b99884329e55",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/6e4f6233bbb4f2b53371a3ed1a89e9c1dc9e6ecbcd08adc4979f18a6d3dd3c58/fad1ed7e34c1b5d5d7762320ffba054f8c13b9ce33b755adc2f1129ff773d1f4/municipais/RO/rio-crespo/decretos/2026/decreto-2785-2026-20c1b834.md",
+      "sha256_preservado": "fad1ed7e34c1b5d5d7762320ffba054f8c13b9ce33b755adc2f1129ff773d1f4",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/34c9725f9c059978d30620649d58b414e1073d660155918cff54102a960bf7e5/municipais/AM/parintins/decretos/2026/decreto-45-2026-be7da994.md",
+      "sha256_preservado": "34c9725f9c059978d30620649d58b414e1073d660155918cff54102a960bf7e5",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/46946035413c466713079ff80b357b1b4c46733bf076de8f1b67fd9d2b6d14ef/municipais/AM/caapiranga/leis-ordinarias/2026/lei-ordinaria-004-2026-cfae5068.md",
+      "sha256_preservado": "46946035413c466713079ff80b357b1b4c46733bf076de8f1b67fd9d2b6d14ef",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/609c7a89dc62c52cad25b943bc14c9fa7d8b29611f3de230dbcb1dfa3a292515/municipais/AM/eirunepe/decretos/2026/decreto-048-2026-745d9193.md",
+      "sha256_preservado": "609c7a89dc62c52cad25b943bc14c9fa7d8b29611f3de230dbcb1dfa3a292515",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/7a06e39abf34447b98005c3a3416d3e9167c6b73c079fcc0752037b93c136c53/municipais/AM/parintins/leis-ordinarias/2026/lei-ordinaria-1047-2026-0a3627dc.md",
+      "sha256_preservado": "7a06e39abf34447b98005c3a3416d3e9167c6b73c079fcc0752037b93c136c53",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/896dbd645578ac05e7c60b35e361211ec312a1ca779e037f02c69ecaef6efc0b/municipais/AM/eirunepe/decretos/2026/decreto-049-2026-3590798f.md",
+      "sha256_preservado": "896dbd645578ac05e7c60b35e361211ec312a1ca779e037f02c69ecaef6efc0b",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/9f6079de7536489aff09779be03e078910038d16cba16d82f502be97f2aa02c1/d230490a3a5696bd3ec33f2083eb7e74fbcea9d9e16cee5af43f66f45f2ff8c6/municipais/AM/eirunepe/decretos/2026/decreto-050-2026-68e3df14.md",
+      "sha256_preservado": "d230490a3a5696bd3ec33f2083eb7e74fbcea9d9e16cee5af43f66f45f2ff8c6",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/66c5192c2040a21843bdf778871b2e16ea5409b9378584876cd2327e9347747e/municipais/RS/tupancireta/leis-complementares/2026/lei-complementar-5081-2026-50cc1d84.md",
+      "sha256_preservado": "66c5192c2040a21843bdf778871b2e16ea5409b9378584876cd2327e9347747e",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/79df648dc0901cac768942ca20a0d1777e7bcb99b13d0c1dc1bf4d6ebe70e795/municipais/RS/pelotas/decretos/2026/decreto-006-2026-f56f5734.md",
+      "sha256_preservado": "79df648dc0901cac768942ca20a0d1777e7bcb99b13d0c1dc1bf4d6ebe70e795",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/9a8b2144743c7490a9652475dd3b9d9c6386eb7660503ab07ce0efd5cca8c00d/municipais/RS/tupancireta/leis-complementares/2026/lei-complementar-5082-2026-077a20ac.md",
+      "sha256_preservado": "9a8b2144743c7490a9652475dd3b9d9c6386eb7660503ab07ce0efd5cca8c00d",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/a18e639b17ce5dbd455abf097565486172c2ad12c2357b607e22aab58f852fbe/municipais/RS/tupancireta/leis-complementares/2026/lei-complementar-5085-2026-b6a2a344.md",
+      "sha256_preservado": "a18e639b17ce5dbd455abf097565486172c2ad12c2357b607e22aab58f852fbe",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    },
+    {
+      "arquivo": "municipais/_referencias/reconciliacao-geometria/geometria-colunas-v2/f12da98f5d70387c969f0d48d68fe624748743844cf57f9085500a9c6d364e8e/e1a86b338e82f7ee54f558268902ec1326221e37c52d05ffbeaa06452afe72e4/municipais/RS/sao-valentim-do-sul/decretos/2025/decreto-72-2025-0951efa5.md",
+      "sha256_preservado": "e1a86b338e82f7ee54f558268902ec1326221e37c52d05ffbeaa06452afe72e4",
+      "linhas_whitespace_original": [
+        7
+      ],
+      "motivo": "Snapshot byte a byte da versão anterior; não normalizar nem aplicar exceção a canônicos."
+    }
+  ]
+}
